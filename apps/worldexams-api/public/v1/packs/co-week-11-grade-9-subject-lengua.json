@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-11-grade-9-subject-lengua",
+    "generated_at": "2026-09-30T00:02:10.269Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-9-2026-W11-la-exposicion-oral-y-el-debate-001-MASTERY-bundle-v1",
+      "statement": "Qué son los marcadores discursivos en una exposición oral?",
+      "context": "En el aula de Español de Medellín, un grupo de noveno grado prepara una exposición oral para el grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son las palabras que el expositor dice al final para despedirse",
+          "is_correct": false,
+          "feedback": "Las fórmulas de despedida son solo una parte del marcador discursivo."
+        },
+        {
+          "letter": "B",
+          "text": "Son expresiones que señalan el orden y la relación entre las ideas del discurso",
+          "is_correct": true,
+          "feedback": "Los marcadores anuncian un cambio de tema, una causa o una conclusión."
+        },
+        {
+          "letter": "C",
+          "text": "Son los gestos que el expositor hace para llamar la atención",
+          "is_correct": false,
+          "feedback": "Los gestos pertenecen al lenguaje corporal y no al conjunto de marcadores textuales."
+        },
+        {
+          "letter": "D",
+          "text": "Son los datos que el expositor lee textualmente de una tarjeta",
+          "is_correct": false,
+          "feedback": "Los datos son el contenido del discurso y no sus marcadores de organización."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los marcadores discursivos son expresiones breves que orientan al oyente dentro del discurso. Palabras como \"en primer lugar\", \"por lo tanto\" o \"en conclusión\" anuncian el orden de las ideas y la relación entre ellas. Usarlos bien evita que la exposición parezca una lista sin conexiones. Son una herramienta sencilla que mejora de inmediato la claridad de cualquier exposición oral.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W11-la-exposicion-oral-y-el-debate-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W11-la-exposicion-oral-y-el-debate-001-MASTERY-bundle-v2",
+      "statement": "En un debate, qué supone respetar el turno de habla?",
+      "context": "En el aula de Español de Bogotá, los estudiantes de noveno grado practican el turno de habla en un debate.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Permitir que cada participante termine su intervención antes de que otro responda",
+          "is_correct": true,
+          "feedback": "Respetar el turno garantiza que todos puedan expresar su postura completa."
+        },
+        {
+          "letter": "B",
+          "text": "Callarse siempre que la postura propia sea refutada por un argumento",
+          "is_correct": false,
+          "feedback": "Respetar el turno de habla no exige aceptar lo que el otro afirma."
+        },
+        {
+          "letter": "C",
+          "text": "Hablar solo cuando se esté de acuerdo con lo que dijo el participante anterior",
+          "is_correct": false,
+          "feedback": "El turno de palabra se administra por turnos y no por coincidencias de opinión."
+        },
+        {
+          "letter": "D",
+          "text": "Terminar la intervención propia lo más rápido posible para no aburrir al público",
+          "is_correct": false,
+          "feedback": "La brevedad no es lo que define el respeto por el turno de palabra."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El turno de habla es un acuerdo básico que permite que todos los participantes sean escuchados y puedan completar su razonamiento. Respetarlo no significa aceptar la postura del otro, sino permitir que cada quien exprese su argumento sin ser interrumpido. Cuando el turno se rompe, el debate pierde calidad y las ideas quedan sin desarrollar. Esta norma convierte la discusión en un ejercicio de escucha activa y de respuesta.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LEN-9-2026-W11-la-exposicion-oral-y-el-debate-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W11-la-exposicion-oral-y-el-debate-001-MASTERY-bundle-v3",
+      "statement": "Una expositora dice \"en primer lugar\", \"además\" y \"en conclusión\". Qué efecto producen esos marcadores en la exposición?",
+      "context": "En Cali, una estudiante de noveno grado organiza su exposición oral antes de presentarla.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ordenan las ideas y facilitan que el público siga el razonamiento",
+          "is_correct": true,
+          "feedback": "Los marcadores señalan el orden y la relación entre las partes del discurso."
+        },
+        {
+          "letter": "B",
+          "text": "Agrandan la duración de la exposición sin aportar información nueva",
+          "is_correct": false,
+          "feedback": "Los marcadores son breves y su función es orientar, no alargar el discurso."
+        },
+        {
+          "letter": "C",
+          "text": "Sustituyen los datos que la expositora debería incluir en su presentación",
+          "is_correct": false,
+          "feedback": "Ningún marcador reemplaza la información que sostiene la exposición."
+        },
+        {
+          "letter": "D",
+          "text": "Hacen que el público recuerde mejor las palabras exactas del expositor",
+          "is_correct": false,
+          "feedback": "Los marcadores no memorizan el discurso: solo señalan su estructura."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los marcadores discursivos cumplen la función de darle al oyente un mapa de lo que va a escuchar. Anuncian el comienzo, el orden, las relaciones lógicas y el cierre del discurso. Gracias a ellos, el público puede anticipar hacia dónde va la exposición y retener mejor la información. Son un recurso breve y eficaz para mejorar la oralidad.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semantico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEN-9-2026-W11-la-exposicion-oral-y-el-debate-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W11-la-exposicion-oral-y-el-debate-001-MASTERY-bundle-v4",
+      "statement": "Un participante refuta un argumento con datos y respeta el turno de los demás. Qué habilidades está mostrando?",
+      "context": "En Pasto, un grupo de noveno grado discute cómo se debe responder en un debate escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Habilidades de lectura, porque debe interpretar un texto largo antes de hablar",
+          "is_correct": false,
+          "feedback": "La pregunta no habla de lectura, sino de cómo se participa en un debate."
+        },
+        {
+          "letter": "B",
+          "text": "Habilidades de cálculo, porque los datos requieren operaciones numéricas precisas",
+          "is_correct": false,
+          "feedback": "El uso de datos no implica aquí una tarea de cálculo matemático."
+        },
+        {
+          "letter": "C",
+          "text": "Habilidades argumentativas, porque refuta con evidencia y respeta a los demás",
+          "is_correct": true,
+          "feedback": "Defender una postura con datos y respetar el turno son rasgos del debate argumentado."
+        },
+        {
+          "letter": "D",
+          "text": "Habilidades literarias, porque toda intervención debe tener ritmo y rima",
+          "is_correct": false,
+          "feedback": "La expresión poética no es un requisito de la participación en un debate."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Participar bien en un debate exige dos capacidades: sostener una postura con razones y evidencia, y hacerlo respetando a los demás participantes. Refutar con datos y mantener el turno son justamente esas dos habilidades. Dominarlas permite discutir ideas fuertes sin que la conversación se convierta en un conflicto. Es una competencia que se practica en el aula y que resulta útil más allá del colegio.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LEN-9-2026-W11-la-exposicion-oral-y-el-debate-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W11-la-exposicion-oral-y-el-debate-001-MASTERY-bundle-v5",
+      "statement": "Durante una exposición, alguien pregunta algo que el expositor no había previsto. Qué debe hacer el expositor?",
+      "context": "En Florencia, un estudiante de noveno grado debe contestar a una pregunta del público.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ignorar la pregunta y continuar con la exposición preparada",
+          "is_correct": false,
+          "feedback": "Ignorar al público rompe la comunicación y pierde una oportunidad de aclarar."
+        },
+        {
+          "letter": "B",
+          "text": "Inventar una respuesta convincente, porque un dato inventado se nota menos",
+          "is_correct": false,
+          "feedback": "Un dato falso puede desacreditar toda la exposición si alguien lo verifica."
+        },
+        {
+          "letter": "C",
+          "text": "Reprochar al público por interrumpir y continuar con su guion original",
+          "is_correct": false,
+          "feedback": "Reprochar al público daña la relación y no resuelve la duda planteada."
+        },
+        {
+          "letter": "D",
+          "text": "Responder con honestidad, o bien decir que no conoce el dato exacto",
+          "is_correct": true,
+          "feedback": "Reconocer lo que no se sabe en lugar de inventar mantiene la credibilidad de la exposición."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Frente a una pregunta inesperada, la mejor respuesta es la que mantiene la honestidad del expositor. Admitir que no se conoce un dato exacto resulta más serio que inventarlo, porque el público puede verificar lo que se afirma. La oralidad exige esa flexibilidad, ya que no todo puede anticiparse. Esta actitud refuerza la credibilidad del orador ante quien lo escucha.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LEN-9-2026-W11-la-exposicion-oral-y-el-debate-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W11-la-exposicion-oral-y-el-debate-001-MASTERY-bundle-v6",
+      "statement": "Qué hace que un dato sea adecuado como evidencia en una exposición oral?",
+      "context": "En Barranquilla, un grupo de noveno grado ensaya una presentación sobre el cuidado del agua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que sea amplio, porque los datos amplios interesan a todo el mundo",
+          "is_correct": false,
+          "feedback": "Un dato demasiado general no permite sostener una afirmación concreta."
+        },
+        {
+          "letter": "B",
+          "text": "Que sea pertinente y verificable, y que se relacione con lo que se defiende",
+          "is_correct": true,
+          "feedback": "La evidencia sirve cuando es exacta, comprobable y pertinente al argumento."
+        },
+        {
+          "letter": "C",
+          "text": "Que sea complicado, porque una cifra compleja demuestra mayor rigor",
+          "is_correct": false,
+          "feedback": "La complejidad de un dato no indica rigor y puede dificultar la comprensión."
+        },
+        {
+          "letter": "D",
+          "text": "Que sea breve, porque cualquier cifra se entiende mejor si es corta",
+          "is_correct": false,
+          "feedback": "La brevedad ayuda a la exposición, pero no es lo que hace válido un dato."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un dato funciona como evidencia cuando es exacto, puede verificarse y se relaciona directamente con la afirmación que se defiende. Sin esa relación, el dato queda como información decorativa que no apoya el argumento. La oralidad exige además que el dato sea comprensible para el público, lo que no siempre coincide con lo complejo. Saber elegir la evidencia pertinente es una competencia central de la argumentación.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LEN-9-2026-W11-la-exposicion-oral-y-el-debate-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W11-la-exposicion-oral-y-el-debate-001-MASTERY-bundle-v7",
+      "statement": "Un participante responde a un argumento con una opinión personal y sin aportar datos. Qué problema tiene esa respuesta?",
+      "context": "En el taller de argumentación de Bucaramanga, un grupo de noveno grado escucha un debate escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No responde al argumento, porque una opinión sin evidencia no lo refuta",
+          "is_correct": true,
+          "feedback": "Para refutar hace falta una razón que ataque la idea del otro de manera verificable."
+        },
+        {
+          "letter": "B",
+          "text": "Responde bien, porque en un debate toda opinión vale lo mismo que un dato",
+          "is_correct": false,
+          "feedback": "Una opinión sin razones no tiene la misma fuerza que un dato verificable."
+        },
+        {
+          "letter": "C",
+          "text": "Rompe el debate, porque toda opinión está prohibida en una discusión rigurosa",
+          "is_correct": false,
+          "feedback": "Las opiniones son bienvenidas siempre que se acompañen de razones que las respalden."
+        },
+        {
+          "letter": "D",
+          "text": "Refuta el argumento, porque cambiar la propia postura equivale a contradecir al otro",
+          "is_correct": false,
+          "feedback": "Cambiar de postura no es una refutación: es una forma de abandonar la propia tesis."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Responder en un debate exige atacar la idea del otro con una razón y no simplemente expresar una postura contraria. Una opinión sin evidencia cambia el tema, pero no desmiente lo que se afirma. Por eso la calidad de una respuesta depende de su capacidad de contradecir con fundamento lo que se ha dicho. Practicar ese tipo de respuesta fortalece el pensamiento crítico.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semantico",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LEN-9-2026-W11-la-exposicion-oral-y-el-debate-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W11-la-exposicion-oral-y-el-debate-001-MASTERY-bundle-v8",
+      "statement": "Un expositor habla muy rápido, con datos exactos, pero nadie lo sigue. Qué conviene concluir de esa situación?",
+      "context": "En Valledupar, un grupo de noveno grado analiza la comunicación en una presentación escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que los datos son innecesarios cuando el público no puede seguirlos",
+          "is_correct": false,
+          "feedback": "Los datos siguen siendo valiosos; lo que falla es el ritmo de la exposición."
+        },
+        {
+          "letter": "B",
+          "text": "Que el problema está en la exactitud de los datos y no en la forma de hablar",
+          "is_correct": false,
+          "feedback": "Los datos son exactos, así que el problema se encuentra en otro aspecto de la exposición."
+        },
+        {
+          "letter": "C",
+          "text": "Que la claridad depende tanto del contenido como de la forma de decirlo",
+          "is_correct": true,
+          "feedback": "Un buen contenido puede no comprenderse si se presenta con un ritmo inaccesible."
+        },
+        {
+          "letter": "D",
+          "text": "Que la oralidad no sirve para trabajar, porque los datos se aprenden mejor leyendo",
+          "is_correct": false,
+          "feedback": "La oralidad también es un medio válido para transmitir información comprobada."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La comunicación oral depende del contenido y también de la manera de presentarlo. Un ritmo demasiado rápido impide que el público procese los datos que se enuncian. Por eso un expositor debe cuidar la velocidad, el volumen y los silencios. Esta combinación de contenido y forma es la que hace que una exposición resulte eficaz frente a su público.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.66,
+      "bundle_id": "CO-LEN-9-2026-W11-la-exposicion-oral-y-el-debate-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W11-la-exposicion-oral-y-el-debate-001-MASTERY-bundle-v9",
+      "statement": "Una exposición presenta un dato de salud sin mencionar de dónde salió. Qué puede observar el público?",
+      "context": "En Pereira, un grupo de noveno grado observa cómo se citan datos en una presentación del grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el dato es falso, porque toda cifra sin fuente es falsa",
+          "is_correct": false,
+          "feedback": "La falta de fuente impide comprobarla, pero no demuestra que sea falsa."
+        },
+        {
+          "letter": "B",
+          "text": "Que el expositor oculta el dato, porque no quiere que el público lo conozca",
+          "is_correct": false,
+          "feedback": "El dato aparece en la exposición, de modo que no hay intención de ocultarlo."
+        },
+        {
+          "letter": "C",
+          "text": "Que el dato no puede comprobarse, porque no se indica su origen",
+          "is_correct": true,
+          "feedback": "Sin referencia, cualquiera que lo cuestione queda sin elementos para responder."
+        },
+        {
+          "letter": "D",
+          "text": "Que la exposición no es válida, porque todo dato necesita un autor muy conocido",
+          "is_correct": false,
+          "feedback": "No se exige una celebridad como fuente, sino que se indique quién publicó el dato."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Mencionar la fuente de un dato es lo que permite a quien escucha comprobarlo y valorarlo. Sin esa referencia, el público recibe una cifra que no puede contrastar con ninguna otra información. Esta práctica de citar también protege al expositor, porque permite respaldar lo que afirma. Reconocer esta función ayuda a evaluar la solidez de cualquier exposición oral.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Critico-Intertextual",
+      "expected_success": 0.64,
+      "bundle_id": "CO-LEN-9-2026-W11-la-exposicion-oral-y-el-debate-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W11-la-exposicion-oral-y-el-debate-001-MASTERY-bundle-v10",
+      "statement": "Un participante sostiene que su postura es la correcta porque su exposición duró más tiempo. Qué evaluación de ese razonamiento es la más sólida?",
+      "context": "En el club de debate de Leticia, un grupo de noveno grado evalúa una participación oral.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es correcta, porque hablar más demuestra que se domina mejor el tema",
+          "is_correct": false,
+          "feedback": "La duración de una intervención no mide la solidez de la postura que se defiende."
+        },
+        {
+          "letter": "B",
+          "text": "Es insuficiente, porque el tiempo no demuestra que los argumentos tengan fundamento",
+          "is_correct": true,
+          "feedback": "Un argumento se sostiene por sus razones y evidencia, no por cuánto tiempo se habla."
+        },
+        {
+          "letter": "C",
+          "text": "Es adecuada, porque en los debates gana quien tiene la palabra más tiempo",
+          "is_correct": false,
+          "feedback": "No existe esa regla: el debate se valora por la calidad del razonamiento."
+        },
+        {
+          "letter": "D",
+          "text": "Es incorrecta, porque toda exposición debe durar lo mismo para todos",
+          "is_correct": false,
+          "feedback": "No hay una duración obligatoria, y ese dato tampoco evalúa a nadie."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar un razonamiento exige distinguir entre el dato que se menciona y lo que ese dato demuestra. La duración de una intervención es verificable, pero no prueba la solidez de una postura. Medir la calidad de un debate exige atender a las razones, a la evidencia y a la relación entre los argumentos. Aplicar ese criterio permite construir juicios equilibrados sobre el desempeño de los participantes.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-9-2026-W11-la-exposicion-oral-y-el-debate-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W11-la-exposicion-oral-y-el-debate-001-MASTERY-bundle-v11",
+      "statement": "Un grupo afirma que el debate solo sirve para ganar la discusión y no para aprender. Qué evaluación de ese razonamiento es la más sólida?",
+      "context": "En el aula de Español de Arauca, los estudiantes de noveno grado reflexionan sobre la comunicación en su comunidad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es insuficiente, porque el debate obliga a escuchar razones y a revisar las propias ideas",
+          "is_correct": true,
+          "feedback": "Escuchar argumentos ajenos y defender los propios permite aprender sobre el tema."
+        },
+        {
+          "letter": "B",
+          "text": "Es correcta, porque en un debate siempre existe un ganador y un perdedor",
+          "is_correct": false,
+          "feedback": "El objetivo del debate es esclarecer un problema, no declarar un ganador."
+        },
+        {
+          "letter": "C",
+          "text": "Es adecuada, porque aprender en grupo impide que cada uno asuma su propia postura",
+          "is_correct": false,
+          "feedback": "Debatir exige asumir una postura propia y sostenerla con argumentos."
+        },
+        {
+          "letter": "D",
+          "text": "Es incorrecta, porque el debate nunca se utiliza en las instituciones educativas del país",
+          "is_correct": false,
+          "feedback": "El debate es una estrategia didáctica usada ampliamente en los colegios colombianos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El valor del debate está en obliga a formular una postura y, al mismo tiempo, a escuchar las razones de otros. Ese ejercicio de contraste obliga a revisar los propios argumentos y a precisar las ideas. Por eso un debate bien dirigido enseña, aunque no haya un ganador. Reconocer ese propósito ayuda a participar con disposición y respeto.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.58,
+      "bundle_id": "CO-LEN-9-2026-W11-la-exposicion-oral-y-el-debate-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W11-la-exposicion-oral-y-el-debate-001-MASTERY-bundle-v12",
+      "statement": "Un participante resume así su desempeño: solo me tocó hablar una vez, pero lo hice con buenos datos. Qué valoración de esa autoevaluación es la más sólida?",
+      "context": "En el cierre del trimestre, los estudiantes de noveno grado de Bogotá presentan una evaluación de su debate.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es adecuada, porque la cantidad de intervenciones es la única medida del desempeño",
+          "is_correct": false,
+          "feedback": "Hablar poco puede ser correcto si se interviene con argumentos sólidos y pertinentes."
+        },
+        {
+          "letter": "B",
+          "text": "Es insuficiente, porque la calidad de las razones importa más que el número de intervenciones",
+          "is_correct": true,
+          "feedback": "Evaluar el desempeño exige atender al contenido de lo que se dijo, no solo a cuánto se habló."
+        },
+        {
+          "letter": "C",
+          "text": "Es adecuada, porque en un debate el participante con menos turnos pierde automáticamente",
+          "is_correct": false,
+          "feedback": "No existe esa regla, y medir por turnos deja fuera la calidad de los argumentos."
+        },
+        {
+          "letter": "D",
+          "text": "Es incorrecta, porque un buen participante debe intervenir en todos los debates del año",
+          "is_correct": false,
+          "feedback": "No es obligatorio participar en todos los debates, ni esa frecuencia mide el desempeño."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una autoevaluación útil describe los logros concretos y explica qué se mejoraría, no se reduce a contar participaciones. La calidad de las razones, la pertinencia de la evidencia y el respeto por los demás son criterios más pertinentes. Plantearse esas preguntas permite identificar fortalezas y áreas de trabajo con precisión. Esta práctica de reflexión personal acompaña el desarrollo de la oralidad.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Semantico",
+      "expected_success": 0.56,
+      "bundle_id": "CO-LEN-9-2026-W11-la-exposicion-oral-y-el-debate-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}

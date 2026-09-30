@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-7-grade-9-subject-lengua",
+    "generated_at": "2026-09-30T00:02:10.268Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-9-2026-W07-el-ensayo-y-sus-partes-001-MASTERY-bundle-v1",
+      "statement": "Cuáles son las partes principales de un ensayo bien estructurado?",
+      "context": "En el aula de Español de Bogotá, la docente explica a los estudiantes de noveno grado cómo se organiza un ensayo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Prólogo, capítulos, epílogo y apéndices",
+          "is_correct": false,
+          "feedback": "Esa es la organización de un libro extenso o de un tratado, no la de un ensayo."
+        },
+        {
+          "letter": "B",
+          "text": "La tesis, los argumentos que la sostienen y la conclusión",
+          "is_correct": true,
+          "feedback": "Estas tres partes organizan el razonamiento completo que propone el ensayo."
+        },
+        {
+          "letter": "C",
+          "text": "El planteamiento, el nudo y el desenlace",
+          "is_correct": false,
+          "feedback": "Ese esquema corresponde a la estructura de un relato narrativo, no a la de un ensayo."
+        },
+        {
+          "letter": "D",
+          "text": "La fuente consultada, la entrevista y el testimonio",
+          "is_correct": false,
+          "feedback": "Son materiales de investigación journalistic, no las partes internas del ensayo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El ensayo se construye alrededor de una tesis que el autor defiende con argumentos y cierra con una conclusión que la reafirma. Estas tres partes pueden aparecer en distintos párrafos, pero siempre cumplen la misma función: plantear una idea, sostenerla y cerrarla. Reconocerlas en un texto permite seguir el razonamiento del autor y valorar si su postura está bien fundamentada.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W07-el-ensayo-y-sus-partes-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W07-el-ensayo-y-sus-partes-001-MASTERY-bundle-v2",
+      "statement": "Qué característica distingue al ensayo como género argumentativo?",
+      "context": "En la biblioteca escolar de Medellín, un grupo de noveno grado compara un ensayo con una crónica periodística.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que relata hechos sucesivos en el orden en que ocurrieron",
+          "is_correct": false,
+          "feedback": "El orden sucesivo de los hechos pertenece al relato cronológico, no al ensayo."
+        },
+        {
+          "letter": "B",
+          "text": "Que emplea versos y rima para exponer una opinión",
+          "is_correct": false,
+          "feedback": "La rima pertenece a la poesía; el ensayo se escribe en prosa."
+        },
+        {
+          "letter": "C",
+          "text": "Que expone y defiende una postura razonada ante un problema",
+          "is_correct": true,
+          "feedback": "La defensa de una idea con razones es el rasgo que define al género ensayístico."
+        },
+        {
+          "letter": "D",
+          "text": "Que describe con detalle un paisaje y sus elementos visibles",
+          "is_correct": false,
+          "feedback": "La descripción pertenece a otros géneros y no constituye el núcleo del ensayo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El ensayo es un texto de opinión fundamentada: su autor selecciona un tema, adopta una postura y la justifica con razones. Esa estructura lo diferencia de la crónica, que informa sobre hechos, y de la descripción, que se concentra en las apariencia de las cosas. Reconocer que el ensayo pertenece a la familia argumentativa ayuda a no confundir géneros cercanos que comparten el mismo soporte escrito en prosa.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semantico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LEN-9-2026-W07-el-ensayo-y-sus-partes-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W07-el-ensayo-y-sus-partes-001-MASTERY-bundle-v3",
+      "statement": "La coordinadora pide para la revista del colegio un texto en el que los estudiantes defiendan su postura sobre el uso del celular en las aulas, sosteniéndola con razones. Qué espera de ese escrito?",
+      "context": "La coordinadora de un colegio de Pereira pide un texto a los estudiantes de noveno grado para la revista escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un relato en orden cronológico sobre la llegada del teléfono al colegio",
+          "is_correct": false,
+          "feedback": "Contar los hechos en secuencia pertenece al relato, no al género ensayístico."
+        },
+        {
+          "letter": "B",
+          "text": "Una descripción del salón de clases y de las rutinas de cada estudiante",
+          "is_correct": false,
+          "feedback": "Describir el entorno no resuelve la petición, que solicita una toma de posición argumentada."
+        },
+        {
+          "letter": "C",
+          "text": "Un poema que cante la vida escolar de forma alegre y festiva",
+          "is_correct": false,
+          "feedback": "El género poético no es lo solicitado, porque la propuesta de la coordinadora pide justificación."
+        },
+        {
+          "letter": "D",
+          "text": "Un texto que defienda una postura y la sostenga con razones y ejemplos",
+          "is_correct": true,
+          "feedback": "Eso es precisamente lo que hace un ensayo: proponer una idea y demostrar su valor."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Identificar la intención de un encargo comunicativo es el primer paso para responder correctamente. Cuando se pide un texto de opinión, el estudiante debe elegir una postura, sostenerla con razones y expresarla en un orden claro. Esta capacidad de clasificar el género solicitado evita entregar un texto del género equivocado, un error frecuente en las evaluaciones de bachillerato.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEN-9-2026-W07-el-ensayo-y-sus-partes-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W07-el-ensayo-y-sus-partes-001-MASTERY-bundle-v4",
+      "statement": "Un ensayo comienza así: en Colombia menos de la mitad de los adolescentes lee por gusto, según mediciones del Ministerio de Educación; este texto defiende que leer no es un lujo sino una necesidad. Cuál es la tesis del texto?",
+      "context": "Un estudiante de noveno grado de Cali lee el comienzo de un ensayo sobre hábitos de lectura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la lectura entre los adolescentes colombianos es una necesidad y no un lujo",
+          "is_correct": true,
+          "feedback": "La postura que el autor asume y defiende aparece enunciada de manera explícita."
+        },
+        {
+          "letter": "B",
+          "text": "Que el Ministerio de Educación aplica criterios equivocados para medir la lectura",
+          "is_correct": false,
+          "feedback": "La medición se menciona como apoyo, pero la tesis defendida es otra distinta."
+        },
+        {
+          "letter": "C",
+          "text": "Que los adolescentes colombianos carecen de tiempo para estudiar en su casa",
+          "is_correct": false,
+          "feedback": "Esa afirmación no aparece en el fragmento y no es la idea que se defenderá."
+        },
+        {
+          "letter": "D",
+          "text": "Que el ensayo se dirige únicamente a los docentes de bachillerato",
+          "is_correct": false,
+          "feedback": "El público al que se dirige el texto no es el contenido de su tesis."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La tesis es la idea central que el autor se compromete a defender durante todo el texto. En los ensayos bien construidos suele enunciarse al comienzo, y se distingue con facilidad de los datos que la respaldan. Identificarla permite entender qué se juzga al leer un ensayo y evita confundir los ejemplos con la postura que el autor defiende.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LEN-9-2026-W07-el-ensayo-y-sus-partes-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W07-el-ensayo-y-sus-partes-001-MASTERY-bundle-v5",
+      "statement": "En un ensayo sobre transporte público, un párrafo afirma que los buses son el medio más usado por los estudiantes y luego presenta cifras de movilidad. Qué relación hay entre la afirmación y las cifras?",
+      "context": "En el aula de Español de Pasto, la docente explica cómo se apoya un argumento con evidencia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las cifras contradicen la afirmación, porque describen una realidad distinta",
+          "is_correct": false,
+          "feedback": "Si las cifras apoyaran una realidad contraria, serían un contraargumento y no una evidencia."
+        },
+        {
+          "letter": "B",
+          "text": "Las cifras sustituyen la afirmación, porque un dato siempre vale más que una opinión",
+          "is_correct": false,
+          "feedback": "Los datos respaldan una postura, pero no reemplazan la idea que el autor quiere defender."
+        },
+        {
+          "letter": "C",
+          "text": "Las cifras son un adorno del párrafo y no se relacionan con la idea central",
+          "is_correct": false,
+          "feedback": "Si los datos no se conectan con la tesis, el párrafo pierde su función argumentativa."
+        },
+        {
+          "letter": "D",
+          "text": "Las cifras respaldan la afirmación y funcionan como evidencia que la sustenta",
+          "is_correct": true,
+          "feedback": "La evidencia es el apoyo concreto que convierte una opinión en un argumento."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Un argumento es una razón que se apoya en evidencia para sostener la tesis. Los datos, las estadísticas y los ejemplos funcionan como esa evidencia y dan solidez al razonamiento. Cuando la cifra no se vincula con la idea que se quiere defender, el párrafo se vuelve débil. Comprender esta relación es indispensable para escribir y para valorar ensayos propios y ajenos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LEN-9-2026-W07-el-ensayo-y-sus-partes-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W07-el-ensayo-y-sus-partes-001-MASTERY-bundle-v6",
+      "statement": "Qué función cumple la conclusión de un ensayo?",
+      "context": "Un grupo de noveno grado de Florencia trabaja en la conclusión de un ensayo sobre seguridad en el barrio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Presentar datos nuevos que no habían aparecido en el desarrollo",
+          "is_correct": false,
+          "feedback": "La conclusión retoma lo ya demostrado y no abre líneas informativas nuevas."
+        },
+        {
+          "letter": "B",
+          "text": "Recapitular la postura sostenida y mostrar por qué importa",
+          "is_correct": true,
+          "feedback": "La conclusión cierra el razonamientoawiando su sentido y su relevancia."
+        },
+        {
+          "letter": "C",
+          "text": "Introducir un tema distinto para ampliar el alcance del texto",
+          "is_correct": false,
+          "feedback": "Cambiar de tema al final rompe la unidad del ensayo y su propósito argumentative."
+        },
+        {
+          "letter": "D",
+          "text": "Defender por igual las dos posturas posibles sobre el asunto",
+          "is_correct": false,
+          "feedback": "El ensayo se caracteriza por sostener una postura, no por neutralizar el debate."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La conclusión no aporta una tesis nueva, sino que cierra la que se ha sostenido durante el desarrollo. Su función es recoger la idea principal y mostrar por qué es importante o qué se sigue de ella. Una conclusión eficaz refuerza la convicción del lector sin repetir el texto completo. Reconocer esta diferencia entre conclusión y simple resumen ayuda a escribir ensayos más claros.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semantico",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LEN-9-2026-W07-el-ensayo-y-sus-partes-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W07-el-ensayo-y-sus-partes-001-MASTERY-bundle-v7",
+      "statement": "Un ensayo afirma que el transporte público de la ciudad es pésimo y no aporta datos, ejemplos ni razones. Qué problema presenta ese desarrollo?",
+      "context": "En el taller de lectura de Bucaramanga, un grupo de noveno grado evalúa la calidad de un ensayo escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una afirmación general y sin respaldo, porque no ofrece razones que la sostengan",
+          "is_correct": true,
+          "feedback": "Sin argumentos ni evidencia, la postura queda expresada pero no demostrada."
+        },
+        {
+          "letter": "B",
+          "text": "Es demasiado corto, porque todo ensayo debe tener un número fijo de páginas",
+          "is_correct": false,
+          "feedback": "No existe un número obligatorio de páginas; lo pertinente es la calidad del razonamiento."
+        },
+        {
+          "letter": "C",
+          "text": "Es un error temático, porque un ensayo no puede tratar asuntos de la ciudad ni de la sociedad",
+          "is_correct": false,
+          "feedback": "La elección del tema no es el problema, porque un ensayo puede tratar cualquier asunto."
+        },
+        {
+          "letter": "D",
+          "text": "No presenta ningún problema, porque en un ensayo basta con expresar una opinión personal",
+          "is_correct": false,
+          "feedback": "Una opinión sin razones que la sostengan no constituye un argumento sólido."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un desarrollo argumentativo debe transformar la tesis en una razón creíble, y para lograrlo necesita respaldo. Cuando el autor se limita a emitir un juicio sin explicar por qué ni traer ejemplos, el lector queda sin elementos para aceptar o rechazar esa postura. Identificar esta carencia es una de las tareas centrales del análisis crítico de ensayos en noveno grado.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LEN-9-2026-W07-el-ensayo-y-sus-partes-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W07-el-ensayo-y-sus-partes-001-MASTERY-bundle-v8",
+      "statement": "Dos autores escriben ensayos sobre el uso de las pantallas y llegan a posturas opuestas. Qué conviene comparar para valorar ambos textos?",
+      "context": "En el proyecto de lectura de Valledupar, los estudiantes de noveno grado comparan dos ensayos sobre un mismo tema.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La cantidad de palabras de cada ensayo",
+          "is_correct": false,
+          "feedback": "La extensión no mide la solidez del razonamiento ni la calidad de la evidencia."
+        },
+        {
+          "letter": "B",
+          "text": "El diseño de la portada de cada publicación",
+          "is_correct": false,
+          "feedback": "La presentación material del texto no interviene en el valor de sus argumentos."
+        },
+        {
+          "letter": "C",
+          "text": "Las razones que sostienen cada postura y la calidad de la evidencia que aportan",
+          "is_correct": true,
+          "feedback": "Solo el examen de las razones permite medir la fuerza de un argumento."
+        },
+        {
+          "letter": "D",
+          "text": "El orden en que fueron publicados los dos ensayos",
+          "is_correct": false,
+          "feedback": "La fecha de publicación no determina cuál de las dos posturas está mejor sustentada."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Comparar dos textos argumentativos exige aplicar el mismo criterio a los dos: la solidez de las razones y la pertinencia de las evidencias. Las posturas opuestas no son un problema, porque el debate es propio de este género; lo que se evalúa es cómo cada autor construye su posición. Este ejercicio prepara a los estudiantes para el diálogo académico, porque les permite defender una postura y reconocer los argumentos contrarios con fundamento.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Critico-Intertextual",
+      "expected_success": 0.66,
+      "bundle_id": "CO-LEN-9-2026-W07-el-ensayo-y-sus-partes-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W07-el-ensayo-y-sus-partes-001-MASTERY-bundle-v9",
+      "statement": "Un ensayo emplea un lenguaje coloquial, frases claras y ejemplos tomados de la vida cotidiana. Qué efecto produce ese estilo en el lector?",
+      "context": "En Florencia, un grupo de noveno grado analiza el estilo de un ensayo de opinión sobre el barrio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Desacredita al autor, porque el lenguaje coloquial invalida sus argumentos",
+          "is_correct": false,
+          "feedback": "Un registro accesible no debilita los argumentos ni los vuelve menos válidos."
+        },
+        {
+          "letter": "B",
+          "text": "Acerca el texto al lector y hace más comprensible la postura que defiende",
+          "is_correct": true,
+          "feedback": "El lenguaje claro y cercano favorece la comprensión de la tesis sin restarle valor."
+        },
+        {
+          "letter": "C",
+          "text": "Convierte el ensayo en una crónica periodística, porque relata hechos",
+          "is_correct": false,
+          "feedback": "El estilo cercano no cambia el género, que sigue siendo argumentativo."
+        },
+        {
+          "letter": "D",
+          "text": "Debilita la seriedad del texto, porque todo ensayo debe usar tecnicismos",
+          "is_correct": false,
+          "feedback": "No es obligatorio emplear tecnicismos, y su uso no garantiza una argumentación sólida."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El estilo del ensayo combina claridad y opinión fundamentada, y puede apoyarse en un registro cercano sin perder rigor. Un lenguaje coloquial bien usado hace que la postura se entienda con facilidad y resulta apropiado en la primera persona. Reconocer esta combinación evita confundir accesibilidad con falta de profundidad.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.64,
+      "bundle_id": "CO-LEN-9-2026-W07-el-ensayo-y-sus-partes-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W07-el-ensayo-y-sus-partes-001-MASTERY-bundle-v10",
+      "statement": "Un grupo afirma que un ensayo es mejor que otro porque su tesis es más elevada y su vocabulario más difícil. Qué evaluación de ese argumento es la más sólida?",
+      "context": "En el club de literatura de Leticia, un grupo de noveno grado debate la calidad de dos ensayos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es adecuada, porque el vocabulario complejo demuestra mayor dominio del tema",
+          "is_correct": false,
+          "feedback": "Las palabras difíciles no prueban que el autor entienda o defienda mejor su tesis."
+        },
+        {
+          "letter": "B",
+          "text": "Es insuficiente, porque la calidad de un ensayo depende de la solidez de sus razones y no de sus palabras",
+          "is_correct": true,
+          "feedback": "El criterio válido es el conjunto de argumentos y evidencias, no el nivel del vocabulario."
+        },
+        {
+          "letter": "C",
+          "text": "Es adecuada, porque un ensayo con palabras difíciles siempre convence más al lector",
+          "is_correct": false,
+          "feedback": "Un registro complejo puede dificultar la comprensión en lugar de fortalecer el argumento."
+        },
+        {
+          "letter": "D",
+          "text": "Es inadecuada, porque un ensayo nunca puede usar vocabulario sencillo",
+          "is_correct": false,
+          "feedback": "Un lenguaje sencillo es legítimo y suele ser más eficaz en la exposición de una postura."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar la calidad de un texto exige aplicar criterios pertinentes al género. En el ensayo, esos criterios son la claridad de la tesis, la solidez de los argumentos y la calidad de la evidencia, no el nivel léxico. Un juicio sostenido en la complejidad de las palabras confunde dificultad con calidad. Formular criterios explícitos permite defender una valoración con fundamento.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-9-2026-W07-el-ensayo-y-sus-partes-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W07-el-ensayo-y-sus-partes-001-MASTERY-bundle-v11",
+      "statement": "Un estudiante afirma que su ensayo es objetivo porque se limita a presentar datos. Qué evaluación de esa afirmación es la más sólida?",
+      "context": "Un estudiante de noveno grado de Arauca revisa la retroalimentación de su profesor de Español.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es correcta, porque presentar datos garantiza siempre la objetividad de un texto",
+          "is_correct": false,
+          "feedback": "Los datos también se seleccionan y se interpretan desde un punto de vista."
+        },
+        {
+          "letter": "B",
+          "text": "Es correcta, porque la opinión del autor desaparece en cuanto aparecen cifras",
+          "is_correct": false,
+          "feedback": "Las cifras no eliminan la selección ni la interpretación que hace el autor de ellas."
+        },
+        {
+          "letter": "C",
+          "text": "Es adecuada, porque en todo ensayo el autor desaparece por completo del texto",
+          "is_correct": false,
+          "feedback": "El ensayo es un texto de opinión, y el autor toma posición de manera explícita."
+        },
+        {
+          "letter": "D",
+          "text": "Es insuficiente, porque presentar datos no elimina la selección ni el punto de vista del autor",
+          "is_correct": true,
+          "feedback": "Todo dato elegido es un dato escogido, y esa elección revela la postura de quien escribe."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Los textos nunca son completamente neutros, porque quien escribe decide qué datos incluir, cuáles omitir y cómo interpretarlos. Esa decisiones marca un punto de vista que el lector puede analizar con detenimiento. Comprenderlo permite distinguir la objetividad absoluta, que no existe, de la honestidad intelectual, que sí puede evaluarse.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.58,
+      "bundle_id": "CO-LEN-9-2026-W07-el-ensayo-y-sus-partes-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W07-el-ensayo-y-sus-partes-001-MASTERY-bundle-v12",
+      "statement": "Un ensayo cita un dato publicado en internet sin nombrar al autor, la publicación ni el año. Qué valoración de esa práctica es la más sólida?",
+      "context": "En un proyecto de investigación de Bogotá, un grupo de noveno grado prepara un ensayo para el periódico del colegio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es correcta, porque mientras el dato sea verdadero no importa de dónde venga",
+          "is_correct": false,
+          "feedback": "La veracidad de un dato no exime de la obligación de indicar su procedencia."
+        },
+        {
+          "letter": "B",
+          "text": "Es adecuada, porque mencionar la fuente ocupa espacio y debilita el texto",
+          "is_correct": false,
+          "feedback": "La referencia identifica el dato y refuerza la credibilidad del argumento."
+        },
+        {
+          "letter": "C",
+          "text": "Es inadecuada, porque sin referencia el lector no puede verificar el dato ni valorar la fuente",
+          "is_correct": true,
+          "feedback": "Citar la fuente permite comprobar la información y valorar quién la respalda."
+        },
+        {
+          "letter": "D",
+          "text": "Es insuficiente, porque citar fuentes solo importa en las investigaciones científicas",
+          "is_correct": false,
+          "feedback": "Los ensayos y los trabajos escolares también exigen nombrar las fuentes utilizadas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La referencia de las fuentes es lo que permite verificar una afirmación y valorar quién la respalda. Sin autor, publicación ni año, el dato se vuelve imposible de comprobar y el argumento pierde sustento. En los trabajos escolares y en el periodismo, citar correctamente es un requisito ético y una herramienta de credibilidad. Reconocer esta función orienta al estudiante en la construcción de sus ensayos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Critico-Intertextual",
+      "expected_success": 0.56,
+      "bundle_id": "CO-LEN-9-2026-W07-el-ensayo-y-sus-partes-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}
