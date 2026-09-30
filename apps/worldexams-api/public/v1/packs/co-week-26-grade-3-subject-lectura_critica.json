@@ -1,377 +1,377 @@
 {
   "metadata": {
     "grade": 3,
-    "subject": "lectura_critica",
+    "subject": "lectura-critica",
     "country": "co",
     "pack_id": "co-week-26-grade-3-subject-lectura_critica",
     "generated_at": "2026-09-29T19:06:57.865Z"
   },
   "questions": [
     {
-      "id": "CO-LC-3-2026-W26-el-resumen-de-un-texto-001-MASTERY-bundle-v1",
-      "statement": "En el Texto 1, ¿cuánto costaba cada cuaderno que compró la profesora el viernes?",
-      "context": "La profesora Marta revisa los cuadernos que compró para la semana del resumen.",
+      "id": "CO-LC-3-2026-W26-los-sentimientos-de-los-personajes-001-MASTERY-bundle-v1",
+      "statement": "En el Texto 1, ¿qué siente Camila cuando ve que la cartulina se mojó?",
+      "context": "En la sala 3B los niños leen el cuento de Camila junto a la ventana del patio.",
       "options": [
         {
           "letter": "A",
-          "text": "$2.800",
-          "is_correct": false,
-          "feedback": "Error. Ese es el precio de las tarjetas de cartulina que armaron el jueves, no el de los cuadernos."
+          "text": "Una tristeza muy grande, porque se le llenaron los ojos de lágrimas.",
+          "is_correct": true,
+          "feedback": "Correcto. El Texto 1 dice que Camila sintió una tristeza muy grande en el pecho y que se le llenaron los ojos de lágrimas al ver el desastre."
         },
         {
           "letter": "B",
-          "text": "$3.500",
+          "text": "Una alegría grande, porque por fin podía descansar de la exposición.",
           "is_correct": false,
-          "feedback": "Error. En el Texto 1 no hay ningún objeto que costara $3.500, porque los precios que aparecen son otros."
+          "feedback": "Error. La reacción que describe el texto es de tristeza: el pecho, las lágrimas y la sospecha de perder el trabajo, no de alegría ni de descanso."
         },
         {
           "letter": "C",
-          "text": "$4.500",
-          "is_correct": true,
-          "feedback": "Correcto. El Texto 1 dice que la profesora compró veinticuatro cuadernos de $4.500 el viernes."
+          "text": "Un enojo contra su compañero Tomás.",
+          "is_correct": false,
+          "feedback": "Error. Ninguna palabra del texto dice que Camila se enoje con Tomás; él aparece después para ayudarla, y el sentimiento de ella es tristeza."
         },
         {
           "letter": "D",
-          "text": "$6.000",
+          "text": "Una sorpresa porque la cartulina apareció sola en el piso.",
           "is_correct": false,
-          "feedback": "Error. El texto no menciona cuadornos de $6.000, y el precio escrito para los cuadernos es $4.500."
+          "feedback": "Error. No hay sorpresa en el relato: Camila había preparado la maqueta y el agua se corrió, de modo que el sentimiento fue de tristeza."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Este ejercicio entrena la localización de un dato escrito de manera explícita en el texto. Los estudiantes de tercero deben aprender que la respuesta está en el párrafo y que se puede volver a leer para comprobarla. Reconocer precios, cantidades y días fija la escena de la lectura y le da sentido al resumen que van a escribir.",
+      "correct_answer": "A",
+      "explanation": "Reconocer un sentimiento escrito es el primer paso para comprender a un personaje. En tercero los estudiantes deben aprender que el escritor no siempre pone la palabra \"triste\" o \"feliz\", y que una pista concreta como las lágrimas ya comunica la emoción. Volver al texto para encontrar esa pista entrena la lectura atenta y evita responder solo por intuición.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
       "icfes_type": "Textual",
       "expected_success": 0.9,
-      "bundle_id": "CO-LC-3-2026-W26-el-resumen-de-un-texto-001-MASTERY-bundle",
+      "bundle_id": "CO-LC-3-2026-W26-los-sentimientos-de-los-personajes-001-MASTERY-bundle",
       "periodo": 26,
       "protocol_version": "5.2",
       "cefr_level": null,
-      "subject": "lectura_critica",
+      "subject": "lectura-critica",
       "grade": 3,
       "country": "co"
     },
     {
-      "id": "CO-LC-3-2026-W26-el-resumen-de-un-texto-001-MASTERY-bundle-v2",
-      "statement": "Según el Texto 2, ¿qué hace un resumen?",
-      "context": "En la clase de tercero se pregunta qué se guarda y qué se suelta al resumir.",
+      "id": "CO-LC-3-2026-W26-los-sentimientos-de-los-personajes-001-MASTERY-bundle-v2",
+      "statement": "Según el Texto 2, ¿por qué las palabras \"se le llenaron los ojos de lágrimas\" sirven para mostrar un sentimiento?",
+      "context": "La profesora escribe en el tablero la frase \"se le llenaron los ojos de lágrimas\" y pregunta su significado.",
       "options": [
         {
           "letter": "A",
-          "text": "Conserva lo esencial del texto y deja fuera los detalles que no cambian el sentido",
-          "is_correct": true,
-          "feedback": "Correcto. El Texto 2 explica que el resumen guarda la idea, los personajes, el orden y los datos importantes, y descarta lo que no altera el sentido."
+          "text": "Porque indican que el personaje estaba viendo algo muy bonito.",
+          "is_correct": false,
+          "feedback": "Error. Llorar no es ver algo bonito; el texto usa esa expresión justamente para mostrar la tristeza de Camila."
         },
         {
           "letter": "B",
-          "text": "Copia todas las oraciones del texto en un orden distinto",
-          "is_correct": false,
-          "feedback": "Error. Cambiar el orden de las oraciones no es resumir, porque el resumen se escribe con palabras nuevas del lector."
+          "text": "Porque son palabras que muestran una emoción sin necesidad de decir que el personaje está triste.",
+          "is_correct": true,
+          "feedback": "Correcto. El Texto 2 explica que una palabra como esa ya comunica una emoción por sí sola, sin que el escritor tenga que escribir \"estoy triste\"."
         },
         {
           "letter": "C",
-          "text": "Copia solamente los datos concretos, como los precios y las cantidades",
+          "text": "Porque son palabras que describen el color de los ojos del personaje.",
           "is_correct": false,
-          "feedback": "Error. Los datos importantes son solo una parte del resumen; también hay que decir de qué trata el texto y quiénes participan."
+          "feedback": "Error. La frase no habla de colores: describe un llenarse de lágrimas, que es una acción que comunica tristeza."
         },
         {
           "letter": "D",
-          "text": "Reescribe la lectura con palabras difíciles para demostrar que aprendió",
+          "text": "Porque son palabras que aparecen en el título del cuento.",
           "is_correct": false,
-          "feedback": "Error. El propósito de un resumen es que otra persona entienda la lectura, no usar un lenguaje complicado."
+          "feedback": "Error. La frase está dentro del relato, no en el título, y su función es mostrar la emoción del personaje."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Comprender qué es un resumen evita que los estudiantes confundan esta estrategia con copiar o con cambiar palabras. El Texto 2 muestra que resumir es una decisión: se conserva lo esencial y se suelta lo que no cambia el sentido. Entender ese criterio es el punto de partida para poder resumir bien más adelante.",
+      "correct_answer": "B",
+      "explanation": "Entender cómo funcionan las palabras del sentimiento ayuda a descubrir el oficio del escritor. En esta semana se estudia que el texto puede mostrar una emoción directamente con una palabra, sin nombrarla. Esa comprensión prepara a los estudiantes para escribir sus propios relatos con señales claras, en lugar de repetir siempre \"estaba triste\" o \"estaba feliz\".",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
       "icfes_type": "Semántico",
       "expected_success": 0.88,
-      "bundle_id": "CO-LC-3-2026-W26-el-resumen-de-un-texto-001-MASTERY-bundle",
+      "bundle_id": "CO-LC-3-2026-W26-los-sentimientos-de-los-personajes-001-MASTERY-bundle",
       "periodo": 26,
       "protocol_version": "5.2",
       "cefr_level": null,
-      "subject": "lectura_critica",
+      "subject": "lectura-critica",
       "grade": 3,
       "country": "co"
     },
     {
-      "id": "CO-LC-3-2026-W26-el-resumen-de-un-texto-001-MASTERY-bundle-v3",
-      "statement": "Andrés escribió un resumen de tres oraciones sobre la lectura del parque, pero en su resumen no aparece ningún personaje ni se dice quién hizo cada cosa. Cuando otra persona lea su resumen, ¿qué pregunta le sirve más para saber qué información le falta?",
-      "context": "Un compañero de Medellín entregó un resumen de una lectura y algo le quedó sonando.",
+      "id": "CO-LC-3-2026-W26-los-sentimientos-de-los-personajes-001-MASTERY-bundle-v3",
+      "statement": "En el Texto 1, ¿cuál de estos hechos es la causa directa de que Camila cambie de sentimiento al final del cuento?",
+      "context": "Tomás se acerca al final de la lectura y le pregunta a la clase qué cambió en Camila.",
       "options": [
         {
           "letter": "A",
-          "text": "¿Cuántas palabras tiene mi resumen?",
-          "is_correct": false,
-          "feedback": "Error. Contar palabras no muestra qué información falta, porque un resumen puede ser largo y aun así estar incompleto."
+          "text": "Que Tomás le presta un cartón y ella vuelve a pintar el borde de la maqueta.",
+          "is_correct": true,
+          "feedback": "Correcto. El texto dice que con la ayuda de Tomás y el cartón limpio Camila secó la maqueta y la volvió a pintar, y por eso después se sintió orgullosa."
         },
         {
           "letter": "B",
-          "text": "¿Qué información necesita el lector para saber de qué trataba el texto y qué hicieron los personajes?",
-          "is_correct": true,
-          "feedback": "Correcto. Esa pregunta lleva a revisar las partes del resumen que deben estar, y en este caso a recuperar a los personajes."
+          "text": "Que la profesora le dijo que la exposición había sido un éxito.",
+          "is_correct": false,
+          "feedback": "Error. En el relato la profesora no aparece diciendo eso; la ayuda que cambia el ánimo de Camila viene de su compañero Tomás."
         },
         {
           "letter": "C",
-          "text": "¿Mi resumen tiene el mismo número de oraciones que el texto original?",
+          "text": "Que Camila compró una cartulina nueva en la papelería.",
           "is_correct": false,
-          "feedback": "Error. Un resumen suele tener menos oraciones que el texto, así que comparar cantidades no ayuda a completarlo."
+          "feedback": "Error. El texto no dice que comprara cartulinas; el cambio se produce porque prestaron un cartón y ella reparó la que se había mojado."
         },
         {
           "letter": "D",
-          "text": "¿Los precios que aparecen en la lectura son altos o bajos?",
+          "text": "Que llegó la fecha de la exposición el viernes.",
           "is_correct": false,
-          "feedback": "Error. Esa pregunta se ocupa de un dato puntual y no de la información que le falta al resumen completo."
+          "feedback": "Error. Llegar el viernes no le cambia el ánimo a Camila: lo que lo cambia es haber reparado su maqueta con la ayuda de su compañero."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Buscar la causa de un sentimiento enseña a conectar las ideas del relato. Los estudiantes de tercero tienen dificultad para separar el hecho que ocurrió del momento exacto en que el personaje cambia de ánimo. Cuando practican este ejercicio, aprenden que la causa siempre está apoyada en un hecho concreto del texto y no en una suposición del lector.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.86,
+      "bundle_id": "CO-LC-3-2026-W26-los-sentimientos-de-los-personajes-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W26-los-sentimientos-de-los-personajes-001-MASTERY-bundle-v4",
+      "statement": "Un grupo escribió en la columna \"pista del texto\" la frase \"Camila se quedó mirando el desastre\". ¿En qué columna de la ficha debería ir esa frase?",
+      "context": "La profesora pide que completen la ficha de tres columnas con datos del cuento de Camila.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En la columna \"lo que pasó\", porque ahí se coloca el hecho que causó el sentimiento.",
+          "is_correct": false,
+          "feedback": "Error. La columna \"lo que pasó\" guarda el hecho que causó el sentimiento, y ese hecho fue que la maqueta se mojó, no la reacción de Camila."
+        },
+        {
+          "letter": "B",
+          "text": "En la columna \"pista del texto\", porque muestra la reacción de Camila y por lo tanto ayuda a identificar el sentimiento.",
+          "is_correct": true,
+          "feedback": "Correcto. La frase describe lo que hizo Camila al ver el desastre, y esa reacción funciona como la pista que sostiene el sentimiento de tristeza."
+        },
+        {
+          "letter": "C",
+          "text": "En la columna \"sentimiento\", porque el nombre del sentimiento es lo que describe esa frase.",
+          "is_correct": false,
+          "feedback": "Error. La columna del sentimiento se llena con la emoción (tristeza, orgullo), no con la frase completa que la demuestra."
+        },
+        {
+          "letter": "D",
+          "text": "En la columna \"personajes\", porque la frase menciona a Camila y a Tomás.",
+          "is_correct": false,
+          "feedback": "Error. Esa frase no nombra a Tomás y no es una lista de personajes; sirve como evidencia del sentimiento, que es lo que la hace útil."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Usar el criterio del Texto 2 como lista de comprobación enseña a los estudiantes a revisar su propio resumen. Cuando falta un personaje o una acción, el lector no puede reconstruir la historia. Preguntarse qué necesita saber quien lea es una estrategia útil para cualquier materia.",
+      "explanation": "Aplicar lo aprendido significa usar la ficha para clasificar información real de un texto, no solo repetir la teoría. Esta pregunta pide que el estudiante decida qué función cumple una frase dentro de la lectura. Esa capacidad de ordenar la información en categorías es la base para la comprensión de textos más largos.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Discursivo",
+      "icfes_type": "Semántico",
       "expected_success": 0.8,
-      "bundle_id": "CO-LC-3-2026-W26-el-resumen-de-un-texto-001-MASTERY-bundle",
+      "bundle_id": "CO-LC-3-2026-W26-los-sentimientos-de-los-personajes-001-MASTERY-bundle",
       "periodo": 26,
       "protocol_version": "5.2",
       "cefr_level": null,
-      "subject": "lectura_critica",
+      "subject": "lectura-critica",
       "grade": 3,
       "country": "co"
     },
     {
-      "id": "CO-LC-3-2026-W26-el-resumen-de-un-texto-001-MASTERY-bundle-v4",
-      "statement": "A Camilo le tocó hacer el resumen oral de la lectura del Texto 1 y solo tiene un minuto. ¿Cuál de estas es la mejor forma de empezar su resumen oral?",
-      "context": "En el salón de Bucaramanga llega el turno de resumir en voz alta.",
+      "id": "CO-LC-3-2026-W26-los-sentimientos-de-los-personajes-001-MASTERY-bundle-v5",
+      "statement": "Si en el Texto 1 Tomás no hubiera llegado a ayudar, ¿qué sentimiento final encajaría mejor con el relato y por qué?",
+      "context": "En la segunda parte de la clase la profesora pide un final alternativo para el cuento de Camila.",
       "options": [
         {
           "letter": "A",
-          "text": "Leyendo otra vez el texto completo desde la primera palabra hasta la última",
+          "text": "Alegría, porque el final de un cuento siempre es feliz por costumbre.",
           "is_correct": false,
-          "feedback": "Error. Leer el texto entero para resumirlo se contradice con la estrategia y además no cabe en un minuto."
+          "feedback": "Error. Que un cuento termine bien no es una regla: el texto solo muestra un final alegre porque alguien ayudó a Camila, y esa ayuda es justamente lo que faltaría."
         },
         {
           "letter": "B",
-          "text": "Contando el color de la puerta del salón y el nombre de todos sus compañeros",
-          "is_correct": false,
-          "feedback": "Error. Esos son detalles que no cambian el sentido, y el Texto 2 enseña que un resumen los deja fuera."
+          "text": "Tristeza, porque el texto ya había mostrado que sin ayuda Camila se sentía mal y no hay ningún dato que indique que las cosas mejoraran.",
+          "is_correct": true,
+          "feedback": "Correcto. El relato ofrece la ayuda de Tomás como el hecho que mejora la situación, así que sin él el desenlace razonable seguiría siendo la tristeza."
         },
         {
           "letter": "C",
-          "text": "Empezando por decir cuánto costaron los cuadernos y cuántos niños havia en la clase",
+          "text": "Enojo, porque Camila se enojaría con su compañero por no haberle ayudado a tiempo.",
           "is_correct": false,
-          "feedback": "Error. Los datos concretos son importantes, pero por sí solos no le dicen al lector de qué trataba la lectura."
+          "feedback": "Error. El texto nunca dice que Camila se enoje con nadie, y además Tomás no dejó de ayudarla: llegó a hacerlo, así que la situación no sería de enojo."
         },
         {
           "letter": "D",
-          "text": "Diciendo de qué trataba la lectura, quiénes participaron y en qué orden ocurrieron los hechos",
-          "is_correct": true,
-          "feedback": "Correcto. Ese es el orden que propone el Texto 2: idea principal, personajes y secuencia de los hechos."
+          "text": "Miedo, porque Camila tendría miedo de volver a mojar otra cartulina.",
+          "is_correct": false,
+          "feedback": "Error. En el relato no aparece el miedo como sentimiento de Camila; lo que ella siente al final es orgullo, y sin la ayuda su sentimiento sería tristeza."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "El resumen oral exige lo mismo que el escrito, solo que con la voz y en poco tiempo. Planear las tres o cuatro ideas antes de hablar evita que el estudiante se quede sin saber qué decir. Practicarlo en clase enseña a organizar el pensamiento y a explicar una lectura con confianza.",
+      "correct_answer": "B",
+      "explanation": "Los ejercicios de final alternativo desarrollan la lectura crítica desde tercero. El estudiante tiene que imaginar qué pasaría si un dato del texto cambiara, y sostener su respuesta con lo que el relato sí dice. Esta práctica los prepara para justificar mejor sus elecciones en la prueba y para no responder por intuición ni por costumbre.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-3-2026-W26-los-sentimientos-de-los-personajes-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W26-los-sentimientos-de-los-personajes-001-MASTERY-bundle-v6",
+      "statement": "Un grupo escribió: \"Juan llegó, vio el regalo y se sintió muy bien. Luego se sintió peor.\" ¿Qué le falta a ese párrafo según el Texto 2?",
+      "context": "Los estudiantes deben escribir un párrafo donde un personaje de su creación cambie de sentimiento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un título más largo para que el lector sepa de qué trata el párrafo.",
+          "is_correct": false,
+          "feedback": "Error. Un título más largo no resuelve la falta de pistas: el problema es que no se ve por qué Juan se sintió bien ni peor."
+        },
+        {
+          "letter": "B",
+          "text": "Más personajes en la historia para que el relato tenga más personajes.",
+          "is_correct": false,
+          "feedback": "Error. Agregar personajes no es lo que pide el Texto 2: lo que falta son las palabras o acciones que muestren el sentimiento."
+        },
+        {
+          "letter": "C",
+          "text": "Las pistas del texto: qué hizo o qué palabra de Juan muestra que se sintió bien y luego peor.",
+          "is_correct": true,
+          "feedback": "Correcto. El Texto 2 pide buscar la causa y la pista del texto, y el párrafo solo enuncia los sentimientos sin dar ninguna evidencia."
+        },
+        {
+          "letter": "D",
+          "text": "Repetir las palabras \"muy bien\" y \"peor\" para reforzar los sentimientos.",
+          "is_correct": false,
+          "feedback": "Error. Repetir más adjetivos de sentimiento no reemplaza la evidencia; el texto dice que la pista puede ser una palabra o una acción concreta."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Reconocer qué le falta a un escrito propio es una habilidad de autorrevisión. Al escribir un relato, los estudiantes de tercero suelen nombrar el sentimiento pero olvidar la evidencia. Aplicar la lista del Texto 2 (causa y pista) al momento de escribir transforma un ejercicio creativo en un producto con intención clara, que es el primer paso hacia la escritura argumentada.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
       "icfes_type": "Pragmático",
-      "expected_success": 0.78,
-      "bundle_id": "CO-LC-3-2026-W26-el-resumen-de-un-texto-001-MASTERY-bundle",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LC-3-2026-W26-los-sentimientos-de-los-personajes-001-MASTERY-bundle",
       "periodo": 26,
       "protocol_version": "5.2",
       "cefr_level": null,
-      "subject": "lectura_critica",
+      "subject": "lectura-critica",
       "grade": 3,
       "country": "co"
     },
     {
-      "id": "CO-LC-3-2026-W26-el-resumen-de-un-texto-001-MASTERY-bundle-v5",
-      "statement": "El resumen de un niño de Manizales dice solamente esto: \"En la escuela de La Julita, en Pereira, una semilla cayó, se sembró y luego salió un tallo de seis centímetros en ocho días. El cuaderno cuesta $4.500\". ¿Qué problema le causa esa omisión a quien lo lea?",
-      "context": "En Villavicencio, la profesora compara el resumen de un niño con el texto original.",
+      "id": "CO-LC-3-2026-W26-los-sentimientos-de-los-personajes-001-MASTERY-bundle-v7",
+      "statement": "El Texto 2 es una explicación y el Texto 1 es un relato. Al mirar los dos juntos, ¿cuál es la relación entre ellos?",
+      "context": "La profesora proyecta el Texto 1 y el Texto 2 en la pantalla del salón y pide comparar.",
       "options": [
         {
           "letter": "A",
-          "text": "El lector no puede saber quién recogió la semilla ni dónde la sembró, porque el resumen quitó datos que cambian el sentido",
-          "is_correct": true,
-          "feedback": "Correcto. Sin los personajes y sus acciones, la historia pierde su sentido y el resumen ya no permite reconstruir lo que pasó."
+          "text": "Los dos textos cuentan la misma historia con las mismas palabras.",
+          "is_correct": false,
+          "feedback": "Error. El Texto 2 no cuenta la historia de Camila: explica una forma general de mostrar sentimientos, así que los textos no son equivalentes."
         },
         {
           "letter": "B",
-          "text": "El lector no puede saber cuánto costaba cada cuaderno, porque el resumen quitó ese dato",
-          "is_correct": false,
-          "feedback": "Error. El precio de $4.500 sí está escrito en el resumen, así que ese dato no fue el que se perdió."
-        },
-        {
-          "letter": "C",
-          "text": "El lector no puede saber el color de la puerta del salón, porque el resumen no lo menciona",
-          "is_correct": false,
-          "feedback": "Error. Es verdad que el color no aparece, pero ese es un detalle que un resumen puede dejar fuera sin problema."
-        },
-        {
-          "letter": "D",
-          "text": "El lector no puede saber en qué ciudad está el colegio, porque el resumen no lo escribió",
-          "is_correct": false,
-          "feedback": "Error. El resumen sí dice que la escuela está en Pereira, de modo que la ciudad no fue el dato perdido."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Notar qué le falta a un resumen enseña que dejar fuera detalles está bien, pero quitar datos que sí cambian el sentido es un problema. El estudiante debe comparar su resumen con el texto y preguntarse si alguien que no lo leyó podría reconstruir la historia. Ese hábito convierte al resumen en una herramienta útil de estudio.",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Inferencial",
-      "expected_success": 0.75,
-      "bundle_id": "CO-LC-3-2026-W26-el-resumen-de-un-texto-001-MASTERY-bundle",
-      "periodo": 26,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lectura_critica",
-      "grade": 3,
-      "country": "co"
-    },
-    {
-      "id": "CO-LC-3-2026-W26-el-resumen-de-un-texto-001-MASTERY-bundle-v6",
-      "statement": "Dos estudiantes resumieron el Texto 1. El resumen de Laura dice: \"El texto cuenta la semana de una clase de tercero en Pereira, donde se leyó La semilla de chirimoya y después se aprendió a resumir\". El resumen de Andrés dice: \"El texto cuenta la semana de una clase de tercero en Pereira: el lunes se leyó la historia de una semilla de chirimoya que cayó del patio, se recogió y se sembró, y el viernes se compraron los cuadernos de $4.500\". ¿Cuál de los dos resúmenes conserva mejor lo esencial y por qué?",
-      "context": "En el aula de Cartagena se revisan dos resúmenes de la misma lectura de la semana.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "El de Laura, porque entre más pocos detalles tenga un resumen, mejor es el resumen",
-          "is_correct": false,
-          "feedback": "Error. Un resumen no se mide por la cantidad de detalles, sino por conservar la idea, los personajes y el orden de los hechos."
-        },
-        {
-          "letter": "B",
-          "text": "El de Andrés, porque dice de qué trata la lectura, quiénes participaron y en qué orden ocurrieron los hechos",
+          "text": "El Texto 2 enseña la manera en que el Texto 1 muestra los sentimientos, es decir, el Texto 2 sirve para comprender mejor el Texto 1.",
           "is_correct": true,
-          "feedback": "Correcto. Su resumen reúne las partes que el Texto 2 señala como esenciales, mientras que el de Laura deja la historia casi vacía."
+          "feedback": "Correcto. El Texto 1 muestra una tristeza y una alegría con palabras y acciones, y el Texto 2 explica justamente esa forma de mostrarlas, por lo que uno sirve para entender al otro."
         },
         {
           "letter": "C",
-          "text": "El de Laura, porque menciona el nombre del barrio y el título del texto que se leyó",
+          "text": "El Texto 1 sirve para cambiar las reglas del Texto 2.",
           "is_correct": false,
-          "feedback": "Error. Esos datos aparecen en la lectura, pero no bastan para que el lector sepa de qué trataba ni qué pasó."
+          "feedback": "Error. Un relato no cambia las reglas de un texto explicativo: el Texto 1 es un ejemplo y el Texto 2 es la regla que lo explica."
         },
         {
           "letter": "D",
-          "text": "El de Andrés, porque repite los precios y las cantidades que aparecen en el texto original",
+          "text": "Los dos textos sirven para que el lector aprenda a dibujar personajes.",
           "is_correct": false,
-          "feedback": "Error. La razón no es repetir cifras, sino decir de qué trata la lectura y en qué orden sucedió lo importante."
+          "feedback": "Error. Ninguno de los dos textos habla de dibujar: uno narra y el otro explica cómo se muestran los sentimientos."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Comparar dos resúmenes permite entrar al criterio del Texto 2 y aplicarlo con criterio propio. El estudiante observa que un resumen puede tener el mismo número de oraciones y aun así conservar información muy distinta. Revisar el trabajo de un compañero enseña a evaluar con razones y no solamente porque dos textos se parezcan.",
+      "explanation": "Reconocer el tipo de cada texto y la relación entre ambos es una habilidad de lectura crítica que se construye desde tercero. Este ejercicio enseña que un texto explicativo puede servir de guía para comprender mejor un relato. Esa mirada prepara al estudiante para las lecturas de la prueba, donde conviven textos de diferentes tipos sobre el mismo tema.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Evaluativo",
-      "expected_success": 0.74,
-      "bundle_id": "CO-LC-3-2026-W26-el-resumen-de-un-texto-001-MASTERY-bundle",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-3-2026-W26-los-sentimientos-de-los-personajes-001-MASTERY-bundle",
       "periodo": 26,
       "protocol_version": "5.2",
       "cefr_level": null,
-      "subject": "lectura_critica",
+      "subject": "lectura-critica",
       "grade": 3,
       "country": "co"
     },
     {
-      "id": "CO-LC-3-2026-W26-el-resumen-de-un-texto-001-MASTERY-bundle-v7",
-      "statement": "En una reunión de padres de Ibagué, una madre afirmó que en esa escuela el resumen es copiar el texto con menos palabras. Un estudiante de tercero le respondió que esa frase no era correcta. ¿Cuál es la mejor respuesta del estudiante para explicar por qué?",
-      "context": "En la reunión de padres de un colegio de Ibagué se habla de cómo se evalúa un resumen.",
+      "id": "CO-LC-3-2026-W26-los-sentimientos-de-los-personajes-001-MASTERY-bundle-v8",
+      "statement": "Dos grupos respondieron a la pregunta \"¿por qué Camila se sintió orgullosa al final?\". El Grupo 1 escribió: \"porque le ayudaron mucho\". El Grupo 2 escribió: \"porque reparó su maqueta con la ayuda de Tomás y por eso pudo exponerla el viernes\". ¿Cuál respuesta está mejor justificada y por qué?",
+      "context": "La profesora proyecta dos versiones de una respuesta de un grupo sobre el cuento de Camila y pide que elijan la mejor.",
       "options": [
         {
           "letter": "A",
-          "text": "La madre tiene razón, porque el resumen siempre es una copia más corta del texto original",
+          "text": "La del Grupo 1, porque las respuestas cortas son siempre las más fáciles de entender.",
           "is_correct": false,
-          "feedback": "Error. Copiar el texto no es resumir, porque el objetivo es que otra persona entienda de qué trataba la lectura."
+          "feedback": "Error. La brevedad no es el criterio: el Grupo 1 solo dice que le ayudaron, sin señalar qué hizo Camila ni qué cosa le permitió estar orgullosa."
         },
         {
           "letter": "B",
-          "text": "La madre se equivoca, porque un resumen debe tener exactamente la mitad de palabras del texto",
+          "text": "La del Grupo 1, porque menciona la palabra \"ayudaron\", que es la palabra clave del Texto 1.",
           "is_correct": false,
-          "feedback": "Error. No existe una regla de palabras, porque un buen resumen se decide por la información que conserva."
+          "feedback": "Error. Usar la palabra clave no basta si la explicación no dice qué pasó ni por qué eso produce el orgullo; el Grupo 2 sí lo completa."
         },
         {
           "letter": "C",
-          "text": "La madre tiene razón, porque un resumen nunca puede conservar los datos importantes de la lectura",
+          "text": "Las dos respuestas son igualmente buenas, porque las dos mencionan la ayuda.",
           "is_correct": false,
-          "feedback": "Error. Al contrario, el Texto 2 dice que los datos importantes sí se guardan en el resumen."
+          "feedback": "Error. No son equivalentes: el Grupo 1 no da ningún detalle del relato, mientras el Grupo 2 sí muestra la relación entre la causa y el sentimiento de orgullo."
         },
         {
           "letter": "D",
-          "text": "La madre se equivoca, porque un resumen conserva lo esencial con palabras del estudiante y deja fuera los detalles que no cambian el sentido",
+          "text": "La del Grupo 2, porque menciona el hecho concreto que le permitió a Camila exponer su maqueta y eso explica su orgullo.",
           "is_correct": true,
-          "feedback": "Correcto. Esa respuesta explica la diferencia entre copiar y resumir, y además se apoya en lo que enseña el Texto 2."
+          "feedback": "Correcto. El Grupo 2 une la causa (reparar la maqueta con la ayuda de Tomás) con el resultado (pudo exponerla), y ese es el tipo de explicación que pide el Texto 2."
         }
       ],
       "correct_answer": "D",
-      "explanation": "Evaluar una afirmación con argumentos ayuda a los estudiantes a defender su manera de entender la estrategia lectora. La respuesta correcta no se apoya en opiniones, sino en las partes que un resumen debe conservar. Este tipo de discusión les da a los niños herramientas para explicar su criterio a otras personas.",
+      "explanation": "Evaluar respuestas de otros grupos enseña a usar criterios, no solo a responder. En esta semana los estudiantes comparan dos explicaciones y deciden cuál está mejor apoyada en el texto, un ejercicio que se parece mucho a las tareas de la prueba. Practicar este juicio desde tercero les da una forma ordenada de defender sus respuestas más adelante.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Crítico-Intertextual",
-      "expected_success": 0.72,
-      "bundle_id": "CO-LC-3-2026-W26-el-resumen-de-un-texto-001-MASTERY-bundle",
-      "periodo": 26,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lectura_critica",
-      "grade": 3,
-      "country": "co"
-    },
-    {
-      "id": "CO-LC-3-2026-W26-el-resumen-de-un-texto-001-MASTERY-bundle-v8",
-      "statement": "Un niño de Villavicencio escribió su resumen en una sola oración muy larga: \"Leí la historia de la semilla y le conté a mi mamá y mi mamá le contó a mi abuela y después fui a la casa y también compré un cuaderno y el cuaderno me costó cuatro mil quinientos\". ¿Qué problema tiene esa oración para quien la lea?",
-      "context": "En el taller de escritura de Pasto revisan cómo están construidas las oraciones de los resúmenes.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "No tiene ningún problema, porque entre más larga sea la oración, más completo resulta el resumen",
-          "is_correct": false,
-          "feedback": "Error. La extensión no garantiza que el resumen sea claro, porque lo esencial es que las ideas se entiendan."
-        },
-        {
-          "letter": "B",
-          "text": "El problema está en cómo se escriben los números, porque todas las cantidades se deben escribir con letras",
-          "is_correct": false,
-          "feedback": "Error. La dificultad no está en cómo se escriben las cantidades, sino en que la oración encadena muchas acciones sin orden."
-        },
-        {
-          "letter": "C",
-          "text": "Está llena de y y no dice con claridad qué hizo cada personaje ni en qué orden, así que conviene separarla en oraciones cortas",
-          "is_correct": true,
-          "feedback": "Correcto. Al unirlo todo con la conjunción, el lector pierde el orden de los hechos y no ubica bien a cada personaje."
-        },
-        {
-          "letter": "D",
-          "text": "El problema es que usa palabras del texto original, lo cual no está permitido en un resumen",
-          "is_correct": false,
-          "feedback": "Error. Un resumen puede conservar algunas palabras del texto, y lo que no se puede es perder el sentido de la lectura."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "Revisar cómo están construidas las oraciones del resumen enseña que la forma también afecta la comprensión. Cuando todo va unido con la conjunción, se pierde el orden de los hechos que el Texto 2 pide conservar. Separar el resumen en oraciones cortas es una recomendación sencilla que los estudiantes pueden aplicar de inmediato.",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Sintáctico",
+      "icfes_type": "Evaluativo",
       "expected_success": 0.7,
-      "bundle_id": "CO-LC-3-2026-W26-el-resumen-de-un-texto-001-MASTERY-bundle",
+      "bundle_id": "CO-LC-3-2026-W26-los-sentimientos-de-los-personajes-001-MASTERY-bundle",
       "periodo": 26,
       "protocol_version": "5.2",
       "cefr_level": null,
-      "subject": "lectura_critica",
+      "subject": "lectura-critica",
       "grade": 3,
       "country": "co"
     }

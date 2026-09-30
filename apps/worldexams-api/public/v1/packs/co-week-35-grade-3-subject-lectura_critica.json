@@ -1,377 +1,377 @@
 {
   "metadata": {
     "grade": 3,
-    "subject": "lectura_critica",
+    "subject": "lectura-critica",
     "country": "co",
     "pack_id": "co-week-35-grade-3-subject-lectura_critica",
     "generated_at": "2026-09-29T19:06:57.871Z"
   },
   "questions": [
     {
-      "id": "CO-LC-3-2026-W35-el-cuaderno-de-lectura-y-el-registro-de-lo-leido-001-MASTERY-bundle-v1",
-      "statement": "En el Texto 1, ¿qué libro registró Camila en su cuaderno de lectura el miércoles?",
-      "context": "En el salón de la profesora Marta en Pereira, los niños buscan el libro que registró Camila.",
+      "id": "CO-LC-3-2026-W35-mi-relato-favorito-001-MASTERY-bundle-v1",
+      "statement": "En el Texto 1, ¿cuál fue el relato favorito de Salomé?",
+      "context": "La profesora le pregunta a Salomé cuál fue su relato favorito y toma nota en el cuaderno.",
       "options": [
         {
           "letter": "A",
-          "text": "El arrullo de la cigarra",
+          "text": "El cuento de la niña que construía una casa de cartón.",
           "is_correct": false,
-          "feedback": "Error. Ese libro lo mostró Isabela el lunes, no Camila el miércoles."
+          "feedback": "Error. Ese relato no es el que Salomé menciona al responder a la profesora."
         },
         {
           "letter": "B",
-          "text": "La ficha de lectura",
-          "is_correct": false,
-          "feedback": "Error. Ese es el título que la profesora pinnó en el tablero, no el nombre de un libro del cuaderno."
+          "text": "El cuento de la casa de cartón que la niña construyó para su gato.",
+          "is_correct": true,
+          "feedback": "Correcto. Salomé lo dice con sus palabras: \"Mi relato favorito es el de la casa de cartón\", y el texto aclara que esa casa era para el gato de la niña."
         },
         {
           "letter": "C",
-          "text": "El zorro y la luna",
-          "is_correct": true,
-          "feedback": "Correcto. El Texto 1 dice que Camila registró el cuento El zorro y la luna, de Tomás Rivera."
+          "text": "El cuento del barco que se perdió en el mar.",
+          "is_correct": false,
+          "feedback": "Error. El cuento del barco es el otro que leyó, pero Salomé eligió el de la casa de cartón."
         },
         {
           "letter": "D",
-          "text": "El catálogo de la biblioteca",
+          "text": "La recomendación que le hizo su compañera al final de la lectura.",
           "is_correct": false,
-          "feedback": "Error. El catálogo no es un libro, es la hoja con dieciocho títulos que armaron el jueves."
+          "feedback": "Error. La recomendación de la compañera llegó después, y en el texto no se dice que fuera el relato favorito de Salomé."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Este ejercicio entrena la localización de un dato escrito de manera explícita en el texto. Los estudiantes de tercero aprenden que la respuesta está en el párrafo y que se puede volver a leer para comprobarla. Reconocer títulos y autores los prepara para llenar correctamente la ficha de su propio cuaderno.",
+      "correct_answer": "B",
+      "explanation": "Reconocer cuál es la elección de un personaje es el primer paso para poder opinar como él. En esta semana el estudiante necesita separar lo que el texto dice de lo que opinan sus compañeros. Esa distinción evita un error muy común al hablar de un cuento: atribuirle a otra persona una preferencia que nunca tuvo.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
       "icfes_type": "Textual",
       "expected_success": 0.9,
-      "bundle_id": "CO-LC-3-2026-W35-el-cuaderno-de-lectura-y-el-registro-de-lo-leido-001-MASTERY-bundle",
+      "bundle_id": "CO-LC-3-2026-W35-mi-relato-favorito-001-MASTERY-bundle",
       "periodo": 35,
       "protocol_version": "5.2",
       "cefr_level": null,
-      "subject": "lectura_critica",
+      "subject": "lectura-critica",
       "grade": 3,
       "country": "co"
     },
     {
-      "id": "CO-LC-3-2026-W35-el-cuaderno-de-lectura-y-el-registro-de-lo-leido-001-MASTERY-bundle-v2",
-      "statement": "Según el Texto 2, ¿qué diferencia hay entre una opinión con razones y una afirmación sin sustentar?",
-      "context": "La profesora Marta pregunta a la clase qué diferencia hay entre opinar y afirmar sin justificar.",
+      "id": "CO-LC-3-2026-W35-mi-relato-favorito-001-MASTERY-bundle-v2",
+      "statement": "Según el Texto 2, ¿qué significa recomendar un relato?",
+      "context": "La profesora escribe la palabra \"recomendar\" en el tablero y pide a un estudiante que la explique con sus propias palabras.",
       "options": [
         {
           "letter": "A",
-          "text": "La opinión con razones usa palabras difíciles y la afirmación sin sustentar usa palabras sencillas",
-          "is_correct": false,
-          "feedback": "Error. La diferencia no está en el nivel de las palabras, sino en si la afirmación explica por qué."
+          "text": "Contarle a otra persona por qué vale la pena leer un relato.",
+          "is_correct": true,
+          "feedback": "Correcto. Esa es la definición que aparece en la primera oración del Texto 2, y es lo mismo que hizo Salomé al responder a la profesora."
         },
         {
           "letter": "B",
-          "text": "La opinión con razones dice qué le pareció y también por qué, mientras que la afirmación sin sustentar dice solamente qué le pareció",
-          "is_correct": true,
-          "feedback": "Correcto. El Texto 2 muestra que \"me gustó mucho\" a secas no sirve, y que hace falta agregar la razón."
+          "text": "Copiar el relato completo para que otra persona lo lea después.",
+          "is_correct": false,
+          "feedback": "Error. Copiar el texto no es recomendarlo; el Texto 2 habla de contarle a alguien por qué vale la pena leerlo."
         },
         {
           "letter": "C",
-          "text": "Las dos dicen lo mismo, pero la opinión con razones se escribe en el cuaderno y la otra en la cartulina",
+          "text": "Decir el nombre de todos los personajes que aparecen en el relato.",
           "is_correct": false,
-          "feedback": "Error. El lugar donde se escribe no cambia si la opinión tiene o no tiene razones que la sostengan."
+          "feedback": "Error. Enumerar personajes es solo una parte; la recomendación necesita un motivo y una razón que venga del texto."
         },
         {
           "letter": "D",
-          "text": "La afirmación sin sustentar es mejor, porque ocupa menos espacio en la ficha",
+          "text": "Leer el relato en voz alta hasta que la otra persona se lo aprenda de memoria.",
           "is_correct": false,
-          "feedback": "Error. Ocupar menos espacio no es una virtud aquí, porque una opinión sin sustentar no le sirve a nadie."
+          "feedback": "Error. Nada de esto aparece en el Texto 2, que define la recomendación como una explicación del valor de un relato."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Comprender esta diferencia evita que los estudiantes confundan opinar con afirmar un gusto cualquiera. El Texto 2 muestra que la opinión del cuaderno lleva consigo un porqué. Entender ese criterio es el punto de partida para escribir fichas que sirvan para comparar lecturas más adelante.",
+      "correct_answer": "A",
+      "explanation": "Comprender la palabra \"recomendar\" antes de usarla evita que la presentación de la semana se convierta en un simple resumen del cuento. El contraste entre recomendar y repetir es el error más típico a esta edad. Cuando el estudiante entiende que se trata de explicar un valor, ya puede preparar una recomendación de verdad.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
       "icfes_type": "Semántico",
       "expected_success": 0.88,
-      "bundle_id": "CO-LC-3-2026-W35-el-cuaderno-de-lectura-y-el-registro-de-lo-leido-001-MASTERY-bundle",
+      "bundle_id": "CO-LC-3-2026-W35-mi-relato-favorito-001-MASTERY-bundle",
       "periodo": 35,
       "protocol_version": "5.2",
       "cefr_level": null,
-      "subject": "lectura_critica",
+      "subject": "lectura-critica",
       "grade": 3,
       "country": "co"
     },
     {
-      "id": "CO-LC-3-2026-W35-el-cuaderno-de-lectura-y-el-registro-de-lo-leido-001-MASTERY-bundle-v3",
-      "statement": "Isabela escribe esta opinión en su ficha: \"Me gustó mucho porque la niña Mohana dejó el miedo y durmió tranquila\". Según el Texto 2, ¿qué parte de esa oración es la razón que sostiene la opinión?",
-      "context": "En el salón de Manizales, Isabela escribe su propia opinión en la primera página del cuaderno.",
+      "id": "CO-LC-3-2026-W35-mi-relato-favorito-001-MASTERY-bundle-v3",
+      "statement": "Según el Texto 2, ¿qué tres partes tiene una buena recomendación?",
+      "context": "La profesora proyectó el Texto 2 y la sala está mirando la segunda oración.",
       "options": [
         {
           "letter": "A",
-          "text": "La palabra \"gustó\", porque ahí queda dicho lo que la niña siente",
+          "text": "El precio del libro, el número de páginas y la editorial.",
           "is_correct": false,
-          "feedback": "Error. Sentir algo es la opinión, pero la palabra \"gustó\" por sí sola no la sostiene."
+          "feedback": "Error. Esos datos no aparecen en el Texto 2, que habla de tres partes relacionadas con el contenido y con el motivo."
         },
         {
           "letter": "B",
-          "text": "El título \"El arrullo de la cigarra\", porque toda ficha empieza con el nombre del libro",
+          "text": "Un resumen completo, una biografía del autor y una lista de premios.",
           "is_correct": false,
-          "feedback": "Error. El título identifica el libro, pero no explica por qué le gustó a Isabela."
+          "feedback": "Error. El texto pide el nombre, un motivo y una razón; ni el resumen ni los premios aparecen en esa lista."
         },
         {
           "letter": "C",
-          "text": "La parte que dice \"porque la niña Mohana dejó el miedo y durmió tranquila\"",
+          "text": "El nombre del relato, un motivo claro y una razón que venga del texto.",
           "is_correct": true,
-          "feedback": "Correcto. Ese \"porque\" y lo que viene después son la razón que respalda la opinión, tal como lo pide el Texto 2."
+          "feedback": "Correcto. El Texto 2 enumera esas tres partes: el nombre del relato, un motivo claro y una razón que salga del texto."
         },
         {
           "letter": "D",
-          "text": "La fecha 8 de agosto, porque muestra que Isabela terminó la lectura antes del lunes",
+          "text": "La fecha de publicación, la ciudad donde se publicó y el género del libro.",
           "is_correct": false,
-          "feedback": "Error. La fecha dice cuándo terminó el libro, pero no apoya la opinión que ella escribió."
+          "feedback": "Error. Esas tres cosas no forman la recomendación que describe el Texto 2."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Aplicar la regla de la opinión con razones enseña a los estudiantes a mirar su propia escritura con criterio. Muchas veces dicen \"me gustó\" y creen que ya terminaron, cuando en realidad falta la parte que explica el porqué. Reconocer dónde está la razón les permite escribir fichas que después sirvan para comparar libros.",
+      "explanation": "Recordar una lista de tres elementos parece más difícil que entenderla, por eso en esta semana la lista se vuelve una tabla que la sala completa con ejemplos. Esa tabla funciona como apoyo visual durante las presentaciones. Quien tiene la estructura clara puede concentrarse en elegir buenas razones en lugar de improvisar.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.86,
+      "bundle_id": "CO-LC-3-2026-W35-mi-relato-favorito-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W35-mi-relato-favorito-001-MASTERY-bundle-v4",
+      "statement": "Un estudiante dijo: \"Mi relato favorito es el del castillo porque me gustó mucho\". Según el Texto 2, ¿qué le falta a su recomendación?",
+      "context": "Un niño leyó su recomendación en voz alta y la profesora le pidió que la mejorara.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le falta escribir el nombre de quien escribió el relato.",
+          "is_correct": false,
+          "feedback": "Error. El Texto 2 pide el nombre del relato, no el nombre de quien lo escribió."
+        },
+        {
+          "letter": "B",
+          "text": "Le falta una razón que venga del texto, porque decir \"me gustó mucho\" no le dice nada a quien escucha.",
+          "is_correct": true,
+          "feedback": "Correcto. El Texto 2 dice que la razón no puede ser solamente \"me gustó mucho\", porque esa frase no explica nada."
+        },
+        {
+          "letter": "C",
+          "text": "Le falta repetir la palabra \"favorito\" para que la recomendación quede más larga.",
+          "is_correct": false,
+          "feedback": "Error. Alargar la frase no la mejora; lo que la hace útil es la razón que el relato aporta."
+        },
+        {
+          "letter": "D",
+          "text": "No le falta nada, porque todas las opiniones sirven igual en una recomendación.",
+          "is_correct": false,
+          "feedback": "Error. El Texto 2 diferencia una opinión sin fundamento de una razón que el texto sí puede sostener."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicar la estructura de la recomendación significa mejorar lo que ya se dijo, no inventar desde cero. Esta pregunta enseña que una opinion sincera puede quedar corta si no se apoya en el relato. En la semana los estudiantes reescriben su propia recomendación usando esta misma lista como revisión.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
       "icfes_type": "Pragmático",
       "expected_success": 0.8,
-      "bundle_id": "CO-LC-3-2026-W35-el-cuaderno-de-lectura-y-el-registro-de-lo-leido-001-MASTERY-bundle",
+      "bundle_id": "CO-LC-3-2026-W35-mi-relato-favorito-001-MASTERY-bundle",
       "periodo": 35,
       "protocol_version": "5.2",
       "cefr_level": null,
-      "subject": "lectura_critica",
+      "subject": "lectura-critica",
       "grade": 3,
       "country": "co"
     },
     {
-      "id": "CO-LC-3-2026-W35-el-cuaderno-de-lectura-y-el-registro-de-lo-leido-001-MASTERY-bundle-v4",
-      "statement": "Un niño de Villavicencio escribió su opinión así: \"El libro me gustó mucho porque el zorro fue valiente y porque me gustó mucho y porque la luna era grande\". ¿Qué problema tiene esa oración para la profesora que revisa las fichas?",
-      "context": "En Villavicencio, un niño entrega su ficha y la profesora descubre un problema en la oración.",
+      "id": "CO-LC-3-2026-W35-mi-relato-favorito-001-MASTERY-bundle-v5",
+      "statement": "Salomé dijo: \"Mi relato favorito es el de la casa de cartón, porque cuando la niña por fin la termina, uno siente que ese trabajo fue posible\". Según el Texto 2, ¿qué parte de la recomendación está mostrando Salomé en su razón?",
+      "context": "La profesora le pasó a cada grupo la recomendación de Salomé y les pidió que la anotaran en una tabla de tres filas.",
       "options": [
         {
           "letter": "A",
-          "text": "Usa la palabra \"porque\" varias veces, y lo correcto es usarla una sola vez en toda la ficha",
+          "text": "El nombre de quien escribió el relato.",
           "is_correct": false,
-          "feedback": "Error. No existe una regla de cuántas veces se puede usar \"porque\"; lo que importa es que las ideas se entiendan."
+          "feedback": "Error. Salomé no menciona ningún autor; el Texto 1 aclara que el cuento ni siquiera da el nombre de la niña."
         },
         {
           "letter": "B",
-          "text": "Le falta la fecha de la lectura, porque toda opinión tiene que terminar con la fecha escrita",
+          "text": "El precio del relato.",
           "is_correct": false,
-          "feedback": "Error. La fecha es otra parte de la ficha y no se coloca al final de la opinión."
+          "feedback": "Error. El precio no aparece en ninguno de los dos textos."
         },
         {
           "letter": "C",
-          "text": "Es demasiado corta, porque una opinión con razones necesita por lo menos cinco oraciones",
+          "text": "La fecha en que se publicó el relato.",
           "is_correct": false,
-          "feedback": "Error. No hay un número de oraciones exigido, porque lo que se pide es una razón que sostenga la opinión."
+          "feedback": "Error. Ninguno de los dos textos habla de fechas de publicación."
         },
         {
           "letter": "D",
-          "text": "Encadena varias ideas y repite \"me gustó mucho\", así que la razón queda mezclada y no se entiende bien",
+          "text": "El motivo claro junto con la razón que sale del propio texto.",
           "is_correct": true,
-          "feedback": "Correcto. Al unirlo todo con la conjunción, el lector pierde de vista cuál es la razón y cuál es la opinión."
+          "feedback": "Correcto. Salomé da el nombre del relato y luego apoya su motivo en un momento de la historia, que es lo que el Texto 2 pide."
         }
       ],
       "correct_answer": "D",
-      "explanation": "Revisar cómo está construida la oración de la ficha enseña que la forma también afecta la comprensión. Cuando todo va unido con la conjunción y la misma frase se repite, la opinión se vuelve confusa. Separar la opinión en dos oraciones cortas es una recomendación sencilla que los estudiantes pueden aplicar de inmediato.",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Sintáctico",
-      "expected_success": 0.78,
-      "bundle_id": "CO-LC-3-2026-W35-el-cuaderno-de-lectura-y-el-registro-de-lo-leido-001-MASTERY-bundle",
-      "periodo": 35,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lectura_critica",
-      "grade": 3,
-      "country": "co"
-    },
-    {
-      "id": "CO-LC-3-2026-W35-el-cuaderno-de-lectura-y-el-registro-de-lo-leido-001-MASTERY-bundle-v5",
-      "statement": "Tomás tiene fichas de nueve libros en su cuaderno de lectura, pero cada una dice algo distinto y no puede saber cuál le gustó más ni por qué. ¿Cuál es la mejor forma de usar el cuaderno para comparar sus lecturas?",
-      "context": "En Cali, un estudiante tiene muchas fichas pero no logra decidir cuál lectura le gustó más.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Releer la parte de opinión de cada ficha y ver qué razones se repiten, porque en las nueve están el título, el autor, la fecha y el resumen",
-          "is_correct": true,
-          "feedback": "Correcto. Al reunir las partes de las fichas se puede ver qué libro le gustó más y con qué razones."
-        },
-        {
-          "letter": "B",
-          "text": "Contar cuántos títulos tiene escritos, porque el número de fichas ya dice cuál libro le gustó más",
-          "is_correct": false,
-          "feedback": "Error. Tener muchas fichas no dice nada sobre cuáles gustaron, porque el cuaderno registra también las lecturas que no gustaron."
-        },
-        {
-          "letter": "C",
-          "text": "Comparar solamente las fechas, porque el libro que leyó más tarde fue el que más le gustó",
-          "is_correct": false,
-          "feedback": "Error. La fecha dice cuándo terminó la lectura, no qué opinión tuvo de ella."
-        },
-        {
-          "letter": "D",
-          "text": "Borrar las fichas de los libros que no le gustaron, así solo quedan las que le sirvieron",
-          "is_correct": false,
-          "feedback": "Error. Borrar parte del registro quita justamente la posibilidad de comparar, que es uno de los usos del cuaderno."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Usar el cuaderno como fuente de comparación es lo que le da valor a lo que el estudiante anota. El Texto 2 explica que el registro sirve para recordar, para comparar y para ver el avance del año. Practicar esta comparación en clase enseña que anotar no es un trámite, sino una manera de organizar lo que se ha leído.",
+      "explanation": "Ubicar cada parte de la recomendación dentro de un texto real es el paso que convierte la teoría en práctica. Los estudiantes ven que una razón no es un adorno: es el apoyo que hace creíble el motivo. Practicar con el ejemplo de Salomé les da un modelo cercano y fácil de imitar.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
       "icfes_type": "Discursivo",
-      "expected_success": 0.75,
-      "bundle_id": "CO-LC-3-2026-W35-el-cuaderno-de-lectura-y-el-registro-de-lo-leido-001-MASTERY-bundle",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-3-2026-W35-mi-relato-favorito-001-MASTERY-bundle",
       "periodo": 35,
       "protocol_version": "5.2",
       "cefr_level": null,
-      "subject": "lectura_critica",
+      "subject": "lectura-critica",
       "grade": 3,
       "country": "co"
     },
     {
-      "id": "CO-LC-3-2026-W35-el-cuaderno-de-lectura-y-el-registro-de-lo-leido-001-MASTERY-bundle-v6",
-      "statement": "Daniela abre su cuaderno de lectura en Pasto y compara su ficha de agosto con la de septiembre. Al leerlas dice que en septiembre sus resúmenes son más largos, usa palabras más precisas y ya no necesita que le recuerden el nombre del autor. ¿Qué le deja ver esa comparación?",
-      "context": "En Pasto, una niña abre su cuaderno de lectura y compara sus fichas de agosto y de septiembre.",
+      "id": "CO-LC-3-2026-W35-mi-relato-favorito-001-MASTERY-bundle-v6",
+      "statement": "Salomé añadió que en su relato favorito \"nunca se sabe quién le ayudó a cargar las tablas\". ¿Qué está señalando Salomé con esa frase?",
+      "context": "La profesora le pidió a Salomé que explicara mejor su razón y ella respondió con otra frase.",
       "options": [
         {
           "letter": "A",
-          "text": "Que en septiembre leyó muchos más libros, porque los resúmenes más largos prueban que leyó más",
+          "text": "Que el relato termina mal y por eso a ella no le gustó.",
           "is_correct": false,
-          "feedback": "Error. La longitud del resumen depende de cómo se escribe, no de la cantidad de libros leídos."
+          "feedback": "Error. La razón de Salomé no es que el cuento termine mal, sino que el misterio sobre quién ayudó hace más fuerte el final."
         },
         {
           "letter": "B",
-          "text": "Que el cuaderno de lectura sirve para ver el propio progreso, porque la comparación muestra cómo cambió su forma de escribir",
-          "is_correct": true,
-          "feedback": "Correcto. Solo con las fichas guardadas se puede notar ese cambio entre agosto y septiembre."
+          "text": "Que la niña nunca terminó la casa de cartón.",
+          "is_correct": false,
+          "feedback": "Error. Salomé dice \"cuando la niña por fin la termina\", así que la casa sí se terminó."
         },
         {
           "letter": "C",
-          "text": "Que en agosto escribió mucho peor, porque eso es lo único que demuestra que sus fichas son distintas",
-          "is_correct": false,
-          "feedback": "Error. La comparación no es una competencia entre meses, sino la evidencia de que ella está aprendiendo."
-        },
-        {
-          "letter": "D",
-          "text": "Que la profesora debería escribir las fichas de septiembre, porque ella conoce mejor los libros",
-          "is_correct": false,
-          "feedback": "Error. El registro personal es del estudiante, y la profesora solo lo usa para seguir el progreso."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Inferir a partir de la comparación de fichas enseña a ver el cuaderno como un archivo con historial. El estudiante no solo anota: revisa y nota que escribe mejor que antes. Reconocer ese avance en sus propias palabras refuerza las ganas de seguir leyendo durante todo el año.",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Inferencial",
-      "expected_success": 0.74,
-      "bundle_id": "CO-LC-3-2026-W35-el-cuaderno-de-lectura-y-el-registro-de-lo-leido-001-MASTERY-bundle",
-      "periodo": 35,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lectura_critica",
-      "grade": 3,
-      "country": "co"
-    },
-    {
-      "id": "CO-LC-3-2026-W35-el-cuaderno-de-lectura-y-el-registro-de-lo-leido-001-MASTERY-bundle-v7",
-      "statement": "En Cartagena, la bibliotecaria propuso borrar los cuadernos de lectura de la clase y dejar solamente una lista pegada en la pared con los títulos de los libros. Según el Texto 2, ¿cuál es la mejor respuesta para evaluar esa propuesta?",
-      "context": "En Cartagena, la bibliotecaria propone una medida para la clase de tercero.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "La propuesta sirve, porque con una lista los niños obtienen la información más importante en menos tiempo",
-          "is_correct": false,
-          "feedback": "Error. Una lista de títulos no guarda el resumen ni la opinión con razones, que es justamente lo que hace útil al cuaderno."
-        },
-        {
-          "letter": "B",
-          "text": "La propuesta sirve, porque el cuaderno de lectura solo sirve para apuntar nombres de libros",
-          "is_correct": false,
-          "feedback": "Error. El Texto 2 dice que la ficha tiene cinco partes, y que el registro sirve para comparar y ver el avance."
-        },
-        {
-          "letter": "C",
-          "text": "La propuesta no sirve, porque los cuadernos son de un material que se daña más pronto que el papel",
-          "is_correct": false,
-          "feedback": "Error. La razón no es el material del cuaderno, sino la información que se perdería al quitarlos."
-        },
-        {
-          "letter": "D",
-          "text": "La propuesta no sirve, porque en cada ficha se anota el título, el autor, la fecha, un resumen breve y la opinión con razones",
+          "text": "Que el relato deja algo sin contar, y eso hizo más fuerte el momento en que la niña terminó la casa.",
           "is_correct": true,
-          "feedback": "Correcto. Esa respuesta muestra qué se perdería y con qué criterio se puede evaluar la propuesta de la bibliotecaria."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "Evaluar una propuesta con argumentos enseña a los estudiantes a defender una manera de entender la lectura. La respuesta correcta no se apoya en opiniones personales, sino en las partes que la ficha debe tener. Este tipo de discusión les da herramientas para explicar su criterio a otras personas con claridad.",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Evaluativo",
-      "expected_success": 0.72,
-      "bundle_id": "CO-LC-3-2026-W35-el-cuaderno-de-lectura-y-el-registro-de-lo-leido-001-MASTERY-bundle",
-      "periodo": 35,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lectura_critica",
-      "grade": 3,
-      "country": "co"
-    },
-    {
-      "id": "CO-LC-3-2026-W35-el-cuaderno-de-lectura-y-el-registro-de-lo-leido-001-MASTERY-bundle-v8",
-      "statement": "¿Qué relación hay entre el Texto 1 y el Texto 2 de esta semana?",
-      "context": "En el taller de lectura de Barranquilla se revisan los dos textos de la semana juntos.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Los dos textos cuentan la misma historia palabra por palabra, porque los dos repiten la semana de la profesora",
-          "is_correct": false,
-          "feedback": "Error. Los textos no se repiten: uno narra lo que pasó y el otro explica una práctica de lectura."
-        },
-        {
-          "letter": "B",
-          "text": "El Texto 1 sirve para aprender a escribir y el Texto 2 sirve para aprender a leer, así que no se relacionan",
-          "is_correct": false,
-          "feedback": "Error. Los dos hablan de la misma práctica, que es justamente anotar lo que se leyó en el cuaderno."
-        },
-        {
-          "letter": "C",
-          "text": "El Texto 1 muestra el uso del cuaderno en un salón de tercero y el Texto 2 explica las cinco partes de la ficha y para qué sirve",
-          "is_correct": true,
-          "feedback": "Correcto. Un texto muestra con hechos y el otro explica la regla, de manera que juntos se entienden mejor."
+          "feedback": "Correcto. Salomé dice que el momento en que la niña termina la casa se siente más real precisamente porque el lector nunca sabe quién ayudó."
         },
         {
           "letter": "D",
-          "text": "El Texto 2 ocurre antes que el Texto 1, y por eso los niños del salón todavía no conocen el cuaderno",
+          "text": "Que el relato da los nombres de todos los personajes.",
           "is_correct": false,
-          "feedback": "Error. En el Texto 1 los niños ya usan el cuaderno de lectura, así que el orden de los hechos es al revés."
+          "feedback": "Error. Al contrario, el relato no da el nombre de la niña, y por eso su compañera prefirió el otro cuento."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Reconocer cómo se relacionan dos textos enseña a los estudiantes que no se leen por separado. Ver un ejemplo real y luego su explicación ayuda a entender la diferencia entre mostrar una práctica y describirla. Esta mirada prepara la base para la lectura de textos informativos en los grados siguientes.",
+      "explanation": "Detectar qué detalle del relato sostiene una opinión es la habilidad que distingue a un lector atento de uno que solo dije que le gustó. En esta semana la sala busca ese detalle en los cuentos que leyeron. Encontrarlo permite entender por qué un texto puede tener más fuerza que otro sin que nadie lo diga explícitamente.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LC-3-2026-W35-mi-relato-favorito-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W35-mi-relato-favorito-001-MASTERY-bundle-v7",
+      "statement": "Un compañero dijo: \"El de la casa de cartón es el mejor porque me gustó mucho\". Salomé dijo: \"Es el mejor porque cuando la niña lo termina uno siente que el trabajo fue posible\". ¿Qué diferencia hay entre las dos recomendaciones?",
+      "context": "La profesora puso dos recomendaciones del mismo relato en el pizarrón y pidió compararlas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Salomé apoya su preferencia en un hecho del relato, mientras el compañero solo expresa su gusto.",
+          "is_correct": true,
+          "feedback": "Correcto. Salomé señala un momento concreto de la historia y el compañero se queda en su sentimiento personal, que es justo lo que el Texto 2 marca como insuficiente."
+        },
+        {
+          "letter": "B",
+          "text": "Las dos recomendaciones son iguales, porque las dos mencionan el nombre del relato.",
+          "is_correct": false,
+          "feedback": "Error. Mencionar el nombre es solo la primera parte; lo que las diferencia es que una tiene razón y la otra no."
+        },
+        {
+          "letter": "C",
+          "text": "El compañero escribió mejor que Salomé, porque su opinión es más corta.",
+          "is_correct": false,
+          "feedback": "Error. Una opinión más corta no es mejor ni peor; lo que importa es si se apoya en el relato o no."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguna de las dos sirve, porque en esta semana no se permite recomendar un relato.",
+          "is_correct": false,
+          "feedback": "Error. Recomendar un relato es justamente la actividad central de esta semana."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar dos opiniones sobre el mismo relato enseña a ver la diferencia entre sentir algo y demostrar algo. En esta semana la sala aprende que decir \"me gustó\" no está prohibido, pero que queda incompleto si no se acompaña de una razón. Esa habilidad se usa después en todas las materias cuando se pide justificar una respuesta.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
       "icfes_type": "Crítico-Intertextual",
       "expected_success": 0.7,
-      "bundle_id": "CO-LC-3-2026-W35-el-cuaderno-de-lectura-y-el-registro-de-lo-leido-001-MASTERY-bundle",
+      "bundle_id": "CO-LC-3-2026-W35-mi-relato-favorito-001-MASTERY-bundle",
       "periodo": 35,
       "protocol_version": "5.2",
       "cefr_level": null,
-      "subject": "lectura_critica",
+      "subject": "lectura-critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W35-mi-relato-favorito-001-MASTERY-bundle-v8",
+      "statement": "Salomé recomienda el cuento de la casa de cartón porque el misterio de quién ayudó hace más fuerte el final. Su compañera recomienda el del barco porque en ese relato los nombres sí aparecen. ¿Cuál de las dos recomendaciones está mejor justificada con lo que el texto dice?",
+      "context": "La clase va a votar cuál de las dos recomendaciones de Salomé y de su compañera merece el primer lugar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La de la compañera, porque un relato con nombres siempre es mejor que uno sin nombres.",
+          "is_correct": false,
+          "feedback": "Error. El texto no dice que tener nombres haga mejor un relato; la compañera siente su razón, pero no la apoya en el relato."
+        },
+        {
+          "letter": "B",
+          "text": "La de Salomé, porque su motivo se apoya en algo que pasó en el relato y no solo en un gusto.",
+          "is_correct": true,
+          "feedback": "Correcto. Salomé señala un efecto concreto del cuento, mientras la compañera se queda en una preferencia sin fundamento."
+        },
+        {
+          "letter": "C",
+          "text": "La de la compañera, porque ella sí dijo el nombre del relato.",
+          "is_correct": false,
+          "feedback": "Error. Salomé también dice el nombre de su relato, así que ese no es el punto que las diferencia."
+        },
+        {
+          "letter": "D",
+          "text": "Las dos están igual de justificadas, porque las dos leyeron los mismos cuentos.",
+          "is_correct": false,
+          "feedback": "Error. El texto deja ver que una recomendación apoya su motivo en el relato y la otra no."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar una recomendación es medir cuánto respaldo tiene cada razón en lo que el texto dice. Durante esta semana la sala aprende a votar por la mejor justificación y no simplemente por la opinión que suena más segura. Esa práctica de juzgar argumentos en lugar de opiniones prepara a los estudiantes para toda la vida académica.\n\n<!--FIN-->",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LC-3-2026-W35-mi-relato-favorito-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
       "grade": 3,
       "country": "co"
     }

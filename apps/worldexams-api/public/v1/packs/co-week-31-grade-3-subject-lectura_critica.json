@@ -8,44 +8,44 @@
   },
   "questions": [
     {
-      "id": "CO-LC-3-2026-W31-los-comparativos-y-los-similes-001-MASTERY-bundle-v1",
-      "statement": "En el Texto 1, ¿cómo se llama la actividad que la profesora Claudia propone para la semana?",
-      "context": "Los niños de tercero de Bucaramanga preparan la cartulina del mercado de palabras en el salón de la profesora Claudia.",
+      "id": "CO-LC-3-2026-W31-lectura-de-instrucciones-simples-001-MASTERY-bundle-v1",
+      "statement": "Según el Texto 1, ¿qué material se necesita para hacer las arepas de la abuela Rosa?",
+      "context": "En la cocina del aula de Medellín la profesora prepara arepas siguiendo el Texto 1 paso a paso.",
       "options": [
         {
           "letter": "A",
-          "text": "La feria de los libros usados.",
-          "is_correct": false,
-          "feedback": "Esa feria nunca aparece en el Texto 1, que solo nombra la cartulina, el marcador y el pizarrón."
+          "text": "Harina de maíz, agua, sal, sartén o paila y un poco de mantequilla.",
+          "is_correct": true,
+          "feedback": "Correcto. La lista de materiales del Texto 1 menciona harina de maíz, agua, sal, una sartén o una paila y mantequilla."
         },
         {
           "letter": "B",
-          "text": "El concurso de cuentos cortos.",
+          "text": "Solo harina de maíz y agua, porque los demás materiales son opcionales.",
           "is_correct": false,
-          "feedback": "El concurso de cuentos no se menciona; el cuento de la profesora solo aparece como algo que Isabella compara con su cuaderno."
+          "feedback": "Error. El texto incluye también la sal, la sartén o paila y la mantequilla, y ninguno de esos materiales aparece como opcional."
         },
         {
           "letter": "C",
-          "text": "El mercado de palabras.",
-          "is_correct": true,
-          "feedback": "Correcto. El Texto 1 dice que la profesora pidió a sus 24 estudiantes que abrieran el mercado de palabras, la actividad de la semana."
+          "text": "Harina, agua y azúcar, porque el dulce va primero.",
+          "is_correct": false,
+          "feedback": "Error. El Texto 1 no menciona azúcar, y la lista de materiales es obligatoria para que la preparación funcione."
         },
         {
           "letter": "D",
-          "text": "La salida al parque del colegio.",
+          "text": "Trigo, leche y chocolate, porque las arepas se hacen con trigo.",
           "is_correct": false,
-          "feedback": "En la semana no hay salida al parque; los niños permanecen en el salón porque todo el trabajo ocurre en el mercado de palabras."
+          "feedback": "Error. El texto indica harina de maíz, agua y sal; ninguna de esas opciones aparece en la lista de materiales."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "En esta pregunta el estudiante ubica un dato explícito dentro del texto, que es el primer nivel de comprensión lectora.\nReconocer el nombre de una actividad y seguirla a lo largo de la narración enseña a leer con atención y a no perder el hilo de lo que leen.\nEste ejercicio prepara la mente del niño para el análisis, porque si no identifica la tarea que hacen los personajes, no podrá entender por qué sus comparaciones son importantes.",
+      "correct_answer": "A",
+      "explanation": "Reconocer los materiales de una instrucción es el primer paso para seguirla. En tercero el estudiante aprende que la lista del inicio no es decorativa: cada objeto que se menciona se usa en un paso posterior, y si falta uno, la preparación no se puede completar. Leer esa lista antes de empezar evita que el niño descubra a media cocina que le hace falta algo.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
       "icfes_type": "Textual",
       "expected_success": 0.9,
-      "bundle_id": "CO-LC-3-2026-W31-los-comparativos-y-los-similes-001-MASTERY-bundle",
+      "bundle_id": "CO-LC-3-2026-W31-lectura-de-instrucciones-simples-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -54,44 +54,90 @@
       "country": "co"
     },
     {
-      "id": "CO-LC-3-2026-W31-los-comparativos-y-los-similes-001-MASTERY-bundle-v1",
-      "statement": "En el Texto 2, ¿qué significa la palabra \"comparar\"?",
-      "context": "En la clase de Bucaramanga, los niños consultan el Texto 2 antes de escribir su párrafo del viernes.",
+      "id": "CO-LC-3-2026-W31-lectura-de-instrucciones-simples-001-MASTERY-bundle-v2",
+      "statement": "En el Texto 2, ¿qué palabras indican las acciones que se deben realizar?",
+      "context": "Los estudiantes de Bogotá marcan con un lápiz cada palabra que indica una acción en el Texto 2.",
       "options": [
         {
           "letter": "A",
-          "text": "Escribir muchas veces la misma palabra para que quede bien aprendida.",
+          "text": "\"Papel\", \"esquina\" y \"amigo\".",
           "is_correct": false,
-          "feedback": "Eso es caligrafía o repaso, no comparar; el Texto 2 no pide escribir palabras repetidas."
+          "feedback": "Error. Esas palabras nombran objetos o personas, pero no expresan lo que hay que hacer."
         },
         {
           "letter": "B",
-          "text": "Poner dos o más cosas al lado para decir en qué se parecen o en qué se diferencian.",
+          "text": "\"Dobla\", \"marca\", \"abre\", \"escribe\" y \"entrégalo\".",
           "is_correct": true,
-          "feedback": "Correcto. El Texto 2 abre con esa definición exacta de comparar."
+          "feedback": "Correcto. Son verbos de acción que le dicen al lector qué hacer en cada paso: doblar, abrir, marcar, escribir y entregar."
         },
         {
           "letter": "C",
-          "text": "Contar cuántas palabras tiene un texto para saber si es largo.",
+          "text": "\"Instrucciones\", \"importante\" y \"amigos\".",
           "is_correct": false,
-          "feedback": "Contar palabras sirve para medir la extensión, pero el Texto 2 explica que comparar es poner cosas al lado para ver sus semejanzas."
+          "feedback": "Error. Esas palabras organizan o advierten sobre el texto, pero no describen ninguna acción que se deba ejecutar."
         },
         {
           "letter": "D",
-          "text": "Cambiar una palabra por otra parecida para que el texto suene más bonito.",
+          "text": "\"Amigos\", \"fiesta\" y \"adorno\".",
           "is_correct": false,
-          "feedback": "Cambiar palabras es otra tarea; comparar no busca que el texto suene bonito, sino mostrar en qué dos cosas se parecen o se diferencian."
+          "feedback": "Error. Nombran el motivo o el resultado del trabajo, no la acción que el lector tiene que realizar."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Comprender el significado de una palabra que el niño ya usa todos los días es el segundo paso de la comprensión lectora.\nCuando el estudiante entiende que comparar es poner dos cosas al lado, puede usar la palabra con intención y no por costumbre.\nEsta base conceptual sostiene los tres niveles siguientes, porque las preguntas de aplicación, análisis y evaluación dependen de esta definición.",
+      "explanation": "Las instrucciones están escritas casi siempre con verbos en imperativo, es decir, con la forma que indica una orden: dobla, marca, escribe. Que el niño identifique esos verbos lo ayuda a distinguir lo que hay que hacer de lo que solo se nombra, y a reconocer una instrucción aunque cambie el tema del texto.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Textual",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-3-2026-W31-lectura-de-instrucciones-simples-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W31-lectura-de-instrucciones-simples-001-MASTERY-bundle-v3",
+      "statement": "¿Por qué en una instrucción los pasos aparecen numerados?",
+      "context": "En clase de tercero los niños comparan cómo se nombran las cosas en la lista de materiales y en los pasos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque sin números el texto ya no cuenta como instrucción.",
+          "is_correct": false,
+          "feedback": "Error. Una instrucción puede tener pasos sin numerar, siempre que el orden se entienda; el número solo hace más claro ese orden."
+        },
+        {
+          "letter": "B",
+          "text": "Para indicar cuánto cuesta cada material en pesos.",
+          "is_correct": false,
+          "feedback": "Error. Los números del Texto 1 y del Texto 2 ordenan los pasos, no dan precios ni cantidades de dinero."
+        },
+        {
+          "letter": "C",
+          "text": "Para mostrar en qué orden hay que realizar las acciones.",
+          "is_correct": true,
+          "feedback": "Correcto. La numeración indica la secuencia: primero, segundo, tercero. Así el lector sabe qué hacer antes y qué hacer después."
+        },
+        {
+          "letter": "D",
+          "text": "Para señalar el número de veces que hay que repetir la preparación completa.",
+          "is_correct": false,
+          "feedback": "Error. No se está contando cuántas veces se prepara todo, sino enumerando los pasos que se deben seguir uno a uno."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La numeración de los pasos es la señal más visible del orden, y por eso es una puerta de entrada al género. Comprender para qué sirve obliga a mirar el uso, no solo la forma: el número no decora el texto, comunica que hay una secuencia que debe respetarse. Esa comprensión prepara a los niños para redactar sus propias instrucciones con pasos ordenados.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
       "icfes_type": "Semántico",
-      "expected_success": 0.88,
-      "bundle_id": "CO-LC-3-2026-W31-los-comparativos-y-los-similes-001-MASTERY-bundle",
+      "expected_success": 0.86,
+      "bundle_id": "CO-LC-3-2026-W31-lectura-de-instrucciones-simples-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -100,136 +146,44 @@
       "country": "co"
     },
     {
-      "id": "CO-LC-3-2026-W31-los-comparativos-y-los-similes-001-MASTERY-bundle-v1",
-      "statement": "La cartulina azul cuesta $4.500 y la cartulina blanca cuesta $3.200. Isabella quiere anotar que la azul sale más cara que la blanca. ¿Qué palabra debe escribir en el espacio?",
-      "context": "Isabella compara los precios de dos cartulinas en la papelería del barrio antes de elegir la suya.",
+      "id": "CO-LC-3-2026-W31-lectura-de-instrucciones-simples-001-MASTERY-bundle-v4",
+      "statement": "Un niño sigue el Texto 2 y dobla las dos esquinas del papel hacia la línea central. Al final entrega el adorno y la nota se ve desde atrás. ¿Qué paso del Texto 2 no tuvo en cuenta?",
+      "context": "En el taller de la plaza de Cali un niño intenta seguir el Texto 2 sin haber leído los pasos del final.",
       "options": [
         {
           "letter": "A",
-          "text": "más",
-          "is_correct": true,
-          "feedback": "Correcto. Como $4.500 es una cantidad mayor que $3.200, la comparación se construye con la forma más, igual que en el Texto 1 con el sauce más alto que una columna."
+          "text": "El primer paso, que era doblar la hoja a lo largo.",
+          "is_correct": false,
+          "feedback": "Error. El primer paso era parte del procedimiento que el niño siguió; el problema fue la dirección del doblez, señalada en la advertencia final."
         },
         {
           "letter": "B",
-          "text": "menos",
+          "text": "El segundo paso, que era abrir el papel y marcar las esquinas.",
           "is_correct": false,
-          "feedback": "La cartulina azul no vale menos, vale $1.300 más que la blanca; el precio mayor se expresa con más."
+          "feedback": "Error. Ese paso tampoco explica el resultado: la nota se ve desde atrás por la dirección del doblez, no por haber marcado o no las esquinas."
         },
         {
           "letter": "C",
-          "text": "tan",
+          "text": "El quinto paso, que era escribir el nombre del amigo.",
           "is_correct": false,
-          "feedback": "La palabra tan se usa cuando las dos cosas tienen la misma característica, y estos dos precios son distintos."
+          "feedback": "Error. Escribir el nombre no produce que la nota quede al revés; esa falla proviene del sentido incorrecto en el tercer y cuarto paso."
         },
         {
           "letter": "D",
-          "text": "cual",
-          "is_correct": false,
-          "feedback": "La palabra cual presenta el simil con una pregunta, y aquí no hay pregunta, sino una comparación directa de cantidades."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Esta pregunta pide usar la regla del Texto 2 en un caso nuevo que no está copiado en el Texto 1.\nEl niño debe conectar el precio mayor con la forma más, y no con menos, que es el error más común al principio del tema.\nDominar esta elección permite escribir descripciones precisas, porque el lector entiende de inmediato cuál de las dos cosas supera a la otra.",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Inferencial",
-      "expected_success": 0.8,
-      "bundle_id": "CO-LC-3-2026-W31-los-comparativos-y-los-similes-001-MASTERY-bundle",
-      "periodo": 31,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lectura_critica",
-      "grade": 3,
-      "country": "co"
-    },
-    {
-      "id": "CO-LC-3-2026-W31-los-comparativos-y-los-similes-001-MASTERY-bundle-v1",
-      "statement": "¿En cuál de estas oraciones la palabra \"como\" introduce un simil, es decir, dice que una cosa se parece a otra?",
-      "context": "En el salón, Camilo revisa las cuatro oraciones que copió del pizarrón antes de leerlas en voz alta.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "El sauce es más alto que una columna.",
-          "is_correct": false,
-          "feedback": "Aquí hay un comparativo con más, no un simil; la palabra como no aparece y solo se comparan dos tamaños."
-        },
-        {
-          "letter": "B",
-          "text": "La cartulina cuesta más que el cuaderno.",
-          "is_correct": false,
-          "feedback": "Esa oración compara dos precios con más, de modo que no hay ningún simil que identificar."
-        },
-        {
-          "letter": "C",
-          "text": "El viento sopla y las hojas caen al patio.",
-          "is_correct": false,
-          "feedback": "La oración solo cuenta dos hechos y no pone ninguna cosa junto a otra, así que no contiene comparaciones."
-        },
-        {
-          "letter": "D",
-          "text": "La nube se veía tan grande como una almohada.",
+          "text": "La advertencia del final, que dice que si se dobla hacia el lado equivocado el adorno queda al revés.",
           "is_correct": true,
-          "feedback": "Correcto. El texto une la nube con la almohada mediante como, que es la palabra que introduce el simil, tal como lo explica el Texto 2."
+          "feedback": "Correcto. El Texto 2 advierte que doblar hacia el lado equivocado hace que la nota se vea desde atrás, que es exactamente lo que le pasó."
         }
       ],
       "correct_answer": "D",
-      "explanation": "Reconocer cuál es la parte de la oración que hace el trabajo comparativo enseña a atender la estructura del texto, no solo su sentido.\nEl niño separa la comparación en dos partes, lo que compara y aquello con lo que se compara, y así distingue el comparativo del simil.\nEsta habilidad le permite después revisar sus propios escritos y detectar cuándo una comparación está mal construida.",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Sintáctico",
-      "expected_success": 0.78,
-      "bundle_id": "CO-LC-3-2026-W31-los-comparativos-y-los-similes-001-MASTERY-bundle",
-      "periodo": 31,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lectura_critica",
-      "grade": 3,
-      "country": "co"
-    },
-    {
-      "id": "CO-LC-3-2026-W31-los-comparativos-y-los-similes-001-MASTERY-bundle-v1",
-      "statement": "¿Qué frase le sirve mejor a Camilo para que su compañero se imagine el árbol sin necesidad de verlo?",
-      "context": "Camilo quiere contarle a un compañero que vive en otro barrio cómo se ve el árbol del patio del colegio.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "La ceiba es un árbol.",
-          "is_correct": false,
-          "feedback": "La frase es cierta, pero no aporta ninguna imagen, porque no compara la ceiba con nada que el lector ya conozca."
-        },
-        {
-          "letter": "B",
-          "text": "La ceiba es tan alta como el bloque del segundo piso.",
-          "is_correct": true,
-          "feedback": "Correcto. Al compararla con el bloque del segundo piso, que el lector sí conoce, el árbol se vuelve visible y el compañero puede imaginarse su tamaño."
-        },
-        {
-          "letter": "C",
-          "text": "La ceiba está en el patio del colegio.",
-          "is_correct": false,
-          "feedback": "Le dice dónde está el árbol, pero no dice cómo se ve, así que el compañero no puede construir la imagen que Camilo quiere."
-        },
-        {
-          "letter": "D",
-          "text": "La ceiba tiene hojas verdes.",
-          "is_correct": false,
-          "feedback": "Describe un detalle verdadero, aunque muy general, y no crea una comparación que facilite ver la altura ni el porte del árbol."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Esta pregunta evalúa para qué sirve la comparación cuando alguien escribe, y no solamente qué palabras existen.\nEl texto base explica que comparar con algo ya conocido ayuda a formar una imagen clara, y aquí el niño debe usar esa idea para resolver un problema real de comunicación.\nElegir la comparación más útil enseña a pensar en el lector que tenemos al frente, un criterio que refuerza todas las lecturas que vendrán después en el año.",
+      "explanation": "Una instrucción completa no termina con el último paso: a veces cierra con una advertencia que previene errores. Aplicar este caso enseña que esa nota final también es información útil, y que el lector debe buscarla antes de empezar. Reconocerlo ayuda a prevenir equivocaciones en lugar de corregirlas a medias.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
       "icfes_type": "Pragmático",
-      "expected_success": 0.75,
-      "bundle_id": "CO-LC-3-2026-W31-los-comparativos-y-los-similes-001-MASTERY-bundle",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LC-3-2026-W31-lectura-de-instrucciones-simples-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -238,44 +192,136 @@
       "country": "co"
     },
     {
-      "id": "CO-LC-3-2026-W31-los-comparativos-y-los-similes-001-MASTERY-bundle-v1",
-      "statement": "¿Qué relación hay entre el Texto 1 y el Texto 2 de la semana?",
-      "context": "La profesora Claudia pide a los niños que anoten en el cuaderno para qué sirven los dos textos de la semana.",
+      "id": "CO-LC-3-2026-W31-lectura-de-instrucciones-simples-001-MASTERY-bundle-v5",
+      "statement": "Un texto dice: \"Materiales: cuatro hojas de papel, tijeras y pegante. Primero, corta las hojas en tiras. Segundo, arma un tubo con las tiras. Tercero, pega las puntas. Por último, cuelga el tubo de la ventana del salón.\" ¿De qué género es ese texto?",
+      "context": "La profesora dicta un texto breve para que los estudiantes identifiquen el género y sus partes.",
       "options": [
         {
           "letter": "A",
-          "text": "Los dos textos cuentan la misma historia y pasan el mismo día en el mismo salón.",
+          "text": "Es un cuento, porque cuenta algo que pasó a alguien.",
           "is_correct": false,
-          "feedback": "El Texto 1 ocurre el jueves y el Texto 2 explica una regla, así que no son la misma historia."
+          "feedback": "Error. No hay personajes ni acciones narradas como en una historia; hay materiales y acciones que se deben ejecutar."
         },
         {
           "letter": "B",
-          "text": "El Texto 1 explica la teoría de las comparaciones y el Texto 2 cuenta lo que pasó en la clase.",
-          "is_correct": false,
-          "feedback": "Las funciones están cambiadas: es el Texto 2 el que explica la regla, mientras el Texto 1 narra la clase."
+          "text": "Es una instrucción, porque indica materiales y los pasos para hacer algo.",
+          "is_correct": true,
+          "feedback": "Correcto. El texto enumera los materiales y luego da los pasos ordenados para fabricar un objeto, que es la estructura de una instrucción."
         },
         {
           "letter": "C",
-          "text": "El Texto 2 explica la regla de las comparaciones que los niños aplicaron en la actividad del Texto 1.",
-          "is_correct": true,
-          "feedback": "Correcto. El Texto 1 muestra a los niños usando más, menos, tan y como en sus cartulinas, y el Texto 2 explica qué significa cada una de esas formas."
+          "text": "Es un aviso, porque avisa sobre el salón de clases.",
+          "is_correct": false,
+          "feedback": "Error. El texto no anuncia un evento ni una fecha; describe materiales y pasos para realizar un trabajo."
         },
         {
           "letter": "D",
-          "text": "Los dos textos son cuentos de animales que hablan entre ellos.",
+          "text": "Es un resumen, porque resume un trabajo de la clase anterior.",
           "is_correct": false,
-          "feedback": "Ninguno de los dos textos es un cuento de animales; el Texto 1 es una escena de salón y el Texto 2 es una explicación."
+          "feedback": "Error. El texto no resume algo ya contado: indica qué materiales usar y qué pasos seguir para construir un objeto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Distinguir el género a partir de sus partes es una habilidad de lectura funcional. El niño reconoce que una instrucción se caracteriza por la lista de materiales y por una serie de verbos en orden, y que esa forma de organizar el texto es la que permite usarla. Reconocer el género le indica de antemano cómo debe leerlo y para qué le sirve.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-3-2026-W31-lectura-de-instrucciones-simples-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W31-lectura-de-instrucciones-simples-001-MASTERY-bundle-v6",
+      "statement": "Un niño escribe: \"Pon el agua. Agrega el azúcar. Revuelve. Sirve el agua en vasos y toma.\" ¿Qué problema tiene esta instrucción para quien quiera seguirla?",
+      "context": "Los niños de tercero redactan en una tarjeta las instrucciones para preparar limonada en casa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le sobra la palabra \"agua\", porque el agua no debería aparecer en una receta.",
+          "is_correct": false,
+          "feedback": "Error. El agua es el ingrediente principal de la limonada, así que nombrarla es necesario y correcto."
+        },
+        {
+          "letter": "B",
+          "text": "Le falta un título, y sin título no se puede leer ninguna instrucción.",
+          "is_correct": false,
+          "feedback": "Error. Un título ayuda a identificar el texto, pero lo que realmente impide seguirlo es que no indique cuántos vasos se van a llenar."
+        },
+        {
+          "letter": "C",
+          "text": "Le falta indicar cuántos vasos usar, de modo que no se sabe si la limonada alcanza para todos.",
+          "is_correct": true,
+          "feedback": "Correcto. Sin decir cuántos vasos se van a llenar, quien siga la instrucción no sabrá si hay limonada suficiente para las personas que van a tomarla."
+        },
+        {
+          "letter": "D",
+          "text": "Le sobran pasos, porque una instrucción no puede tener cuatro pasos.",
+          "is_correct": false,
+          "feedback": "Error. Cuatro pasos es un número adecuado; el problema del texto no es la cantidad, sino la falta de un dato concreto."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Relacionar dos textos permite ver que uno enseña y el otro muestra, y esa es una habilidad que vale para todas las áreas.\nEl estudiante reconoce que la regla del Texto 2 explica lo que los niños ya hicieron en la cartulina, de modo que la teoría y la práctica se apoyan mutuamente.\nEntender esta complementariedad cambia la forma de estudiar, porque permite pasar de copiar definiciones a usar el conocimiento para resolver algo.",
+      "explanation": "Revisar las instrucciones de otros es la mejor forma de aprender a escribir las propias. En este caso, el niño detecta que falta un dato numérico y aprende que una instrucción precisa dice cantidades y tamaños, no solo acciones. Ese criterio de completitud es el que después le permite evaluar si un texto de otro compañero se puede seguir o no.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-3-2026-W31-lectura-de-instrucciones-simples-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W31-lectura-de-instrucciones-simples-001-MASTERY-bundle-v7",
+      "statement": "Dos niños escribieron la forma de preparar una bebida. La primera dice: \"Pon dos tazas de agua en una olla, agrega cinco puñados de azúcar, calienta hasta que suba la espuma y sirve\". La segunda dice: \"Pon dos tazas de agua en una olla, agrega cinco cucharadas de azúcar, calienta hasta que suba la espuma y sirve\". ¿Cuál de las dos instrucciones está mejor escrita y por qué?",
+      "context": "En la discusión de clase los estudiantes de Bogotá comparan dos versiones de la misma receta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La primera, porque usa menos palabras y por eso se lee más rápido.",
+          "is_correct": false,
+          "feedback": "Error. La longitud no determina la calidad de una instrucción: lo que importa es que los pasos sean claros y las medidas entendibles."
+        },
+        {
+          "letter": "B",
+          "text": "La segunda, porque repite la palabra \"agua\" dos veces y eso da más instrucciones.",
+          "is_correct": false,
+          "feedback": "Error. La repetición de la palabra \"agua\" no mejora el texto; lo que lo hace mejor es la medida precisa del azúcar."
+        },
+        {
+          "letter": "C",
+          "text": "La segunda, porque dice \"cucharadas\", que es una unidad clara, y la primera usa una palabra que no designa un utensilio.",
+          "is_correct": true,
+          "feedback": "Correcto. \"Cucharadas\" identifica con precisión la medida, mientras que \"puñados\" es una expresión ambigua que no permite saber cuánto azúcar es."
+        },
+        {
+          "letter": "D",
+          "text": "Las dos están igual de bien, porque las dos dicen \"hasta que suba la espuma\".",
+          "is_correct": false,
+          "feedback": "Error. La frase sobre la espuma es igual en las dos, pero solo una tiene una medida de azúcar que cualquiera puede entender y seguir."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Comparar dos textos del mismo género permite aislar qué es lo que hace bueno a un escrito. En este caso, el criterio no es la cantidad de palabras sino la precisión de la medida, y esa diferencia se nota cuando alguien intenta ejecutar la receta. Analizar con un criterio claro enseña a evaluar la calidad de un texto desde su utilidad real.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
       "icfes_type": "Discursivo",
-      "expected_success": 0.74,
-      "bundle_id": "CO-LC-3-2026-W31-los-comparativos-y-los-similes-001-MASTERY-bundle",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-3-2026-W31-lectura-de-instrucciones-simples-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -284,90 +330,44 @@
       "country": "co"
     },
     {
-      "id": "CO-LC-3-2026-W31-los-comparativos-y-los-similes-001-MASTERY-bundle-v1",
-      "statement": "Para describir el gato de su abuela, ¿cuál de estas comparaciones es mejor y por qué?",
-      "context": "En el salón, Isabella lee en voz alta las comparaciones de su cartulina y la profesora le pide que mejore una de ellas.",
+      "id": "CO-LC-3-2026-W31-lectura-de-instrucciones-simples-001-MASTERY-bundle-v8",
+      "statement": "Para armar un cartel de una feria escolar, un niño junta varios textos: la fecha y la hora de la feria, la lista de materiales que hay que llevar y los pasos para colgar el cartel en el patio. ¿Qué relación hay entre esos tres textos?",
+      "context": "En el taller de papelería de Medellín los niños consultan varios textos para construir un solo producto.",
       "options": [
         {
           "letter": "A",
-          "text": "\"El gato es tan blanquito como un algodón de azúcar\", porque el simil crea una imagen que el lector puede ver.",
-          "is_correct": true,
-          "feedback": "Correcto. El Texto 2 explica que el simil hace que algo se parezca a otra cosa, y esa imagen permite ver el gato sin conocerlo."
+          "text": "Los tres textos son repeticiones del mismo dato, porque todos dicen la fecha de la feria.",
+          "is_correct": false,
+          "feedback": "Error. Solo uno de los textos da la fecha y la hora; los otros dos aportan materiales y pasos, que son datos diferentes."
         },
         {
           "letter": "B",
-          "text": "\"El gato es más bonito que el perro\", porque así se dice que el gato le gusta más a Isabella.",
-          "is_correct": false,
-          "feedback": "Expresa un gusto personal, no una característica del gato, y no ofrece ninguna imagen que el lector pueda visualizar."
-        },
-        {
-          "letter": "C",
-          "text": "\"El gato es menos pesado que la piedra\", porque todos los gatos pesan menos que las piedras.",
-          "is_correct": false,
-          "feedback": "La comparación es verdadera, pero es obvia y no dice nada del gato que la haga memorable o fácil de imaginar."
-        },
-        {
-          "letter": "D",
-          "text": "\"El gato es grande\", porque la palabra grande describe a todos los gatos de la casa.",
-          "is_correct": false,
-          "feedback": "No hay comparación en esa frase, porque no se pone el gato al lado de ninguna otra cosa, que es justamente lo que hace falta."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Evaluar significa emitir un juicio y justificarlo, y aquí el niño debe sostener su elección con una razón que venga del texto base.\nEl estudiante aprende que comparar no es poner cualquier cosa al lado, sino buscar una imagen que aporte información y despierte interés.\nEste criterio de calidad fortalece su escritura, porque le da un patrón con el cual juzgar y corregir lo que él mismo produce.",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Evaluativo",
-      "expected_success": 0.72,
-      "bundle_id": "CO-LC-3-2026-W31-los-comparativos-y-los-similes-001-MASTERY-bundle",
-      "periodo": 31,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lectura_critica",
-      "grade": 3,
-      "country": "co"
-    },
-    {
-      "id": "CO-LC-3-2026-W31-los-comparativos-y-los-similes-001-MASTERY-bundle-v1",
-      "statement": "¿Qué palabra de esa comparación del cuento cumple la misma función que el simil del Texto 2?",
-      "context": "En un cuento que leyeron los niños de tercero, el autor escribió que la brisa de la mañana era suave como el pelo de un gato.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "más",
-          "is_correct": false,
-          "feedback": "La palabra más indica cantidad o tamaño, y no aparece en la oración de la brisa ni serviría para decir que es suave."
-        },
-        {
-          "letter": "B",
-          "text": "menos",
-          "is_correct": false,
-          "feedback": "La palabra menos también indica cantidad o tamaño, y no describe la forma en que se siente la brisa."
-        },
-        {
-          "letter": "C",
-          "text": "tan",
-          "is_correct": false,
-          "feedback": "La palabra tan necesitaría ir acompañada de otro término, porque por sí sola no completa la comparación de la brisa."
-        },
-        {
-          "letter": "D",
-          "text": "como",
+          "text": "Los tres textos se complementan: cada uno aporta un dato distinto que se necesita para organizar la feria.",
           "is_correct": true,
-          "feedback": "Correcto. La palabra como pone la brisa al lado del pelo de un gato, que es exactamente lo que el Texto 2 llama simil."
+          "feedback": "Correcto. Cada texto resuelve una parte distinta del problema, y juntos permiten planear y montar la feria sin dejar vacíos ni datos."
+        },
+        {
+          "letter": "C",
+          "text": "Los tres textos se contradicen entre sí, porque dan indicaciones incompatibles.",
+          "is_correct": false,
+          "feedback": "Error. No hay contradicción: los tres textos hablan de asuntos distintos que pueden aplicarse al mismo tiempo durante la feria."
+        },
+        {
+          "letter": "D",
+          "text": "Los tres textos sirven solo para entretenerse y no se necesitan para la feria.",
+          "is_correct": false,
+          "feedback": "Error. Son textos funcionales: sin la fecha, los materiales y los pasos, la feria no podría organizarse ni montarse."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Reconocer el mismo recurso en un cuento que no estaba en los textos base muestra que el niño entendió la regla más allá de la semana.\nEl estudiante conecta lo que leyó con lo que ya estudia, y esa conexión es la base de la lectura crítica que se trabaja más adelante en el grado.\nUsar la misma estrategia en textos distintos vuelve el conocimiento permanente, porque deja de depender de un solo ejemplo y se vuelve una habilidad transferible.",
+      "correct_answer": "B",
+      "explanation": "Un mismo tema, como una feria escolar, aparece en varios textos con propósitos distintos. Reconocer que la información se distribuye entre textos y que hay que reunirlos es una habilidad de lectura crítica que va más allá de un solo documento. En la vida diaria pasa lo mismo: para saber cómo se hace algo, se consultan el aviso, la lista y el manual al mismo tiempo.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
       "icfes_type": "Crítico-Intertextual",
-      "expected_success": 0.7,
-      "bundle_id": "CO-LC-3-2026-W31-los-comparativos-y-los-similes-001-MASTERY-bundle",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-3-2026-W31-lectura-de-instrucciones-simples-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
       "cefr_level": null,
