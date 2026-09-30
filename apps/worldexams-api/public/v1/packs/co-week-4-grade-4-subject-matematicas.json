@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-4-grade-4-subject-matematicas",
+    "generated_at": "2026-09-30T12:53:13.415Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-4-2026-W04-fracciones-001-MASTERY-bundle-v1",
+      "statement": "¿Qué fracción de la pizza se comió Santiago?",
+      "context": "En la casa de la familia Rivera, en el barrio Kennedy de Bogotá, se preparó una pizza y se cortó en 8 pedazos iguales. Santiago se comió 3 pedazos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3 de 8",
+          "is_correct": false,
+          "feedback": "Expresaste la cantidad de pedazos y el total, pero una fracción se escribe con un numerador y un denominador."
+        },
+        {
+          "letter": "B",
+          "text": "3/8",
+          "is_correct": true,
+          "feedback": "¡Correcto! El numerador 3 indica los pedazos comidos y el denominador 8 indica el total de pedazos iguales."
+        },
+        {
+          "letter": "C",
+          "text": "8/3",
+          "is_correct": false,
+          "feedback": "Incorrecto. El orden está invertido: el 3 va arriba porque son los pedazos que se comieron y el 8 va abajo."
+        },
+        {
+          "letter": "D",
+          "text": "5/8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese 5 corresponde a los pedazos que quedaron, no a los que Santiago se comió."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una fracción representa una parte de un todo que se dividió en partes iguales. El número de arriba se llama numerador y indica cuántas partes se toman, y el número de abajo se llama denominador e indica en cuántas partes iguales se dividió el todo. En este caso la pizza se dividió en 8 pedazos y Santiago tomó 3, así que la fracción es 3/8. Recordar que el denominador siempre va abajo ayuda a no invertir las partes al escribir la respuesta.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-4-2026-W04-fracciones-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W04-fracciones-001-MASTERY-bundle-v2",
+      "statement": "¿Qué indica el número 4 que aparece en el denominador?",
+      "context": "En Cali, doña Berta corta una arepa en 4 partes iguales y le da un pedazo a su hijo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Indica que la arepa se partió en 3 pedazos",
+          "is_correct": false,
+          "feedback": "Incorrecto. La arepa se partió en 4 partes, porque ese es el número que va abajo en la fracción."
+        },
+        {
+          "letter": "B",
+          "text": "Indica que se le dio la mitad de la arepa",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mitad sería 2 de 4. Un pedazo de una arepa partida en 4 es un cuarto."
+        },
+        {
+          "letter": "C",
+          "text": "Indica que quedaron 4 pedazos sin dar",
+          "is_correct": false,
+          "feedback": "Incorrecto. El denominador indica en cuántas partes se dividió el todo, no cuánto sobró."
+        },
+        {
+          "letter": "D",
+          "text": "Indica que la arepa se dividió en 4 partes iguales y que una de ellas es la que se dio",
+          "is_correct": true,
+          "feedback": "¡Correcto! El denominador 4 señala las partes iguales del todo, y el numerador 1 indica que se dio una."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El denominador es el que más confunde a los estudiantes porque no indica lo que se toma, sino el tamaño de las partes. Cuando la arepa se corta en 4 partes iguales, cada parte es un cuarto de la arepa entera. Si se entrega una sola parte, la fracción es 1/4 y el niño recibe un cuarto, no la mitad. Para no equivocarse conviene imaginarse la arepa partida en 4 pedazos iguales y contar cuántos pedazos se entregan.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-4-2026-W04-fracciones-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W04-fracciones-001-MASTERY-bundle-v3",
+      "statement": "¿Qué fracción de la bandeja se sirvieron entre los dos?",
+      "context": "En un comedor escolar de Medellín hay una bandeja grande de jugo. Sara se sirve 1/4 de la bandeja y su hermano se sirve 1/4 de la bandeja.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2/4",
+          "is_correct": true,
+          "feedback": "¡Correcto! Cada uno tomó 1/4, así que junto los dos toman 1/4 + 1/4 = 2/4 de la bandeja."
+        },
+        {
+          "letter": "B",
+          "text": "1/8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste los denominadores, pero al sumar partes del mismo todo se suman los numeradores."
+        },
+        {
+          "letter": "C",
+          "text": "2/8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Como la bandeja es la misma para los dos, el denominador debe quedar en 4 y no en 8."
+        },
+        {
+          "letter": "D",
+          "text": "3/4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los dos sirvieron un cuarto cada uno, y eso suma la mitad, no tres cuartos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para sumar dos partes del mismo todo se suman los numeradores y se conserva el denominador, siempre que las partes sean iguales. En este caso la bandeja es una sola y los dos sirven un cuarto, de modo que 1/4 + 1/4 = 2/4. La fracción 2/4 también puede reducirse a 1/2, y las dos expresiones describen la misma cantidad de jugo. Saber cuándo se puede reducir una fracción es útil para comparar respuestas que parecen diferentes.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-4-2026-W04-fracciones-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W04-fracciones-001-MASTERY-bundle-v4",
+      "statement": "¿Cuántas naranjas puede comer la hija de doña Rosa?",
+      "context": "En una frutería de Bogotá, doña Rosa recibió una bolsa con 20 naranjas y le dijo a su hija que podía comer la mitad de la bolsa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5 naranjas",
+          "is_correct": false,
+          "feedback": "Incorrecto. 5 naranjas serían un cuarto de la bolsa, y el enunciado dice que puede comer la mitad."
+        },
+        {
+          "letter": "B",
+          "text": "20 naranjas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la cantidad total de la bolsa, y la hija solo puede comer una parte."
+        },
+        {
+          "letter": "C",
+          "text": "10 naranjas",
+          "is_correct": true,
+          "feedback": "¡Correcto! La mitad de 20 es 10, porque al dividir 20 entre 2 se obtiene 10."
+        },
+        {
+          "letter": "D",
+          "text": "4 naranjas",
+          "is_correct": false,
+          "feedback": "Incorrecto. 4 naranjas no corresponde a la mitad de una bolsa de 20."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Encontrar la fracción de una cantidad significa dividir el total entre el denominador y multiplicar por el numerador. Como la mitad es 1/2, se calcula 20 : 2 = 10 naranjas. Otra forma muy intuitiva es repartir las 20 naranjas en dos grupos iguales, dibujando primero los 20 puntos y separándolos en dos filas iguales de 10. Comprobar con el doble ayuda: si la hija come 10 y doña Rosa come las otras 10, se recupera la bolsa completa.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-4-2026-W04-fracciones-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W04-fracciones-001-MASTERY-bundle-v5",
+      "statement": "¿Cuántos panqueques se vendieron en la mañana?",
+      "context": "En el café de doña Olga, en el barrio Café Madrid de Bucaramanga, se hicieron 12 panqueques y 2/6 de ellos se vendieron en la mañana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2 panqueques",
+          "is_correct": false,
+          "feedback": "Incorrecto. El 2 es el numerador, pero falta dividir el total entre el denominador para saber cuántos panqueques son."
+        },
+        {
+          "letter": "B",
+          "text": "4 panqueques",
+          "is_correct": true,
+          "feedback": "¡Correcto! 2/6 de 12 es 12 : 6 = 2 y 2 x 2 = 4 panqueques."
+        },
+        {
+          "letter": "C",
+          "text": "6 panqueques",
+          "is_correct": false,
+          "feedback": "Incorrecto. 6 es el denominador de la fracción, no la cantidad de panqueques vendidos."
+        },
+        {
+          "letter": "D",
+          "text": "8 panqueques",
+          "is_correct": false,
+          "feedback": "Incorrecto. 8 panqueques serían 4/6 de los 12, es decir, más de la mitad, y se vendió menos de la mitad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para hallar la parte que se describe con una fracción, primero se divide el total entre el denominador y después se multiplica por el numerador. En este caso el total es 12 panqueques y la fracción es 2/6, así que 12 : 6 = 2 y luego 2 x 2 = 4. Un control importante es que el resultado debe ser menor que el total, porque una parte nunca es más grande que el todo, y además 4 de 12 es menos de la mitad, lo cual coincide con 2 de 6.\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-4-2026-W04-fracciones-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W04-fracciones-001-MASTERY-bundle-v6",
+      "statement": "¿Qué fracción del total quedó en el puesto y cuántas empanadas son?",
+      "context": "En un puesto de La Concordia, en Barranquilla, doña Olga tenía 40 empanadas y en la mañana vendió la mitad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Queda 1/2 del total, porque no vendió ninguna empanada",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fracción sí es 1/2, pero la razón está mal: doña Olga vendió la mitad y por eso quedó la otra mitad."
+        },
+        {
+          "letter": "B",
+          "text": "Quedan 20 empanadas, y eso es 1/4 del total",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las 20 empanadas sí son las que quedan, pero esa cantidad es la mitad del total y no un cuarto."
+        },
+        {
+          "letter": "C",
+          "text": "Queda 3/4 del total, porque se vendió una parte",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si se hubiera vendido un cuarto habría quedado 3/4, pero se vendió la mitad completa."
+        },
+        {
+          "letter": "D",
+          "text": "Queda la mitad, es decir 1/2 del total, y eso son 20 empanadas",
+          "is_correct": true,
+          "feedback": "¡Correcto! Si se vendieron 20 de 40, quedan otras 20, y 20 de 40 es la mitad."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Cuando una fracción del total se retira, la parte que queda es el complemento. Si doña Olga vendió la mitad de sus 40 empanadas, vendió 20 y quedaron 20, de modo que la fracción que permanece en el puesto es 1/2. Una forma rápida de comprobarlo es sumar las dos partes: lo vendido más lo que quedó debe dar el total, y 20 + 20 = 40. Reconocer que dos mitades forman un todo ayuda a no inventar fracciones como 3/4.\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-4-2026-W04-fracciones-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W04-fracciones-001-MASTERY-bundle-v7",
+      "statement": "¿Qué afirmación describe correctamente lo que lleva cada bolsa?",
+      "context": "Un grupo de explorer en Bogotá prepara 36 galletas y las reparte en 4 bolsas iguales, una bolsa para cada explorador.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cada bolsa lleva 1/4 del total, o sea 9 galletas",
+          "is_correct": true,
+          "feedback": "¡Correcto! 36 : 4 = 9 galletas y 9 de 36 es un cuarto del total."
+        },
+        {
+          "letter": "B",
+          "text": "Cada bolsa lleva 4/36 del total, o sea 36 galletas",
+          "is_correct": false,
+          "feedback": "Incorrecto. El numerador y el denominador están cambiados, y además las 36 galletas son todo el total."
+        },
+        {
+          "letter": "C",
+          "text": "Cada bolsa lleva 1/36 del total, o sea 1 galleta",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si cada bolsa llevara 1 galleta, quedarían 32 galletas sin repartir."
+        },
+        {
+          "letter": "D",
+          "text": "Cada bolsa lleva 9/4 del total, o sea 4 galletas",
+          "is_correct": false,
+          "feedback": "Incorrecto. 9/4 del total sería más de la bolsa completa, y 4 galletas no son la cuarta parte de 36."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar una afirmación sobre una fracción exige comparar el numerador con el total. Aquí cada bolsa lleva 9 galletas de las 36 que se prepararon, y 9 de 36 es exactamente un cuarto, porque 36 : 4 = 9. La comprobación más sencilla es multiplicar: 9 galletas por 4 bolsas dan 36 galletas, el total completo. Si esa multiplicación no devuelve el total, la afirmación está equivocada, y por eso la opción de 4 galletas queda descartada de inmediato.\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-4-2026-W04-fracciones-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W04-fracciones-001-MASTERY-bundle-v8",
+      "statement": "¿Qué fracción del terreno se usa para los árboles y cuántos metros cuadrados ocupan?",
+      "context": "En un terreno de 200 metros cuadrados en el barrio San Antonio de Cali, la mitad se usa para pasto y un cuarto se reserva para sembrar árboles.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un medio del terreno, o sea 100 metros cuadrados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la parte que ocupa el pasto, porque la mitad ya se usó para el pasto."
+        },
+        {
+          "letter": "B",
+          "text": "Un cuarto del terreno, o sea 25 metros cuadrados",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fracción es correcta, pero el área de un cuarto de 200 no es 25 sino 50 metros cuadrados."
+        },
+        {
+          "letter": "C",
+          "text": "Un cuarto del terreno, o sea 50 metros cuadrados",
+          "is_correct": true,
+          "feedback": "¡Correcto! 200 : 4 = 50, así que los árboles ocupan 50 metros cuadrados del terreno."
+        },
+        {
+          "letter": "D",
+          "text": "Tres cuartos del terreno, o sea 150 metros cuadrados",
+          "is_correct": false,
+          "feedback": "Incorrecto. 3/4 es la parte que queda después del pasto y de los árboles, no la parte de los árboles."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Representar un terreno real con fracciones permite planificar bien el espacio disponible. La mitad del terreno son 100 metros cuadrados y quedan otros 100 metros cuadrados libres. De ese espacio se reservan los árboles, que ocupan un cuarto del total, es decir 200 : 4 = 50 metros cuadrados. Como 100 del pasto más 50 de los árboles da 150, quedan 50 metros cuadrados sin usar.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Modelacion",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-4-2026-W04-fracciones-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    }
+  ]
+}
