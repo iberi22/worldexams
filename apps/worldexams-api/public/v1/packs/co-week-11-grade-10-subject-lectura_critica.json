@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-11-grade-10-subject-lectura_critica",
+    "generated_at": "2026-09-30T13:59:53.384Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-10-2026-W11-la-literatura-y-los-mitos-fundacionales-001-MASTERY-bundle-v1",
+      "statement": "¿A qué tradición de la literatura colombiana pertenece principalmente el Texto 1?",
+      "context": "En Bogotá, la profesora de Lectura Crítica pide a los estudiantes de décimo grado clasificar el Texto 1 según su tradición de origen.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A la literatura testimonial, porque relata hechos comprobados por cronistas coloniales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no presenta pruebas documentales ni datos verificables: su valor está en la tradición oral."
+        },
+        {
+          "letter": "B",
+          "text": "A la tradición oral y al mito, porque explica un origen y se transmite de generación en generación.",
+          "is_correct": true,
+          "feedback": "Correcto. El relato explica un origen colectivo y conserva la fuerza de la transmisión oral."
+        },
+        {
+          "letter": "C",
+          "text": "A la poesía lírica, porque el ritmo de las frases imita el canto de los ríos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque hay ritmo, el texto no organiza verso ni estrofa: su forma es narrativa."
+        },
+        {
+          "letter": "D",
+          "text": "A la crónica de la conquista, porque describe la llegada de los españoles a Bogotá.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los personajes y las acciones del texto no corresponden a la conquista, y no hay cronista ni fecha."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La tradición oral agrupa relatos que se transmiten de voz en voz y que una comunidad acepta como explicación de sí misma. Reconocer esa pertenencia ayuda a distinguir el mito de la crónica y de la ficción escrita. La forma en que un texto se transmite y se cree es tan importante como su argumento.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-10-2026-W11-la-literatura-y-los-mitos-fundacionales-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W11-la-literatura-y-los-mitos-fundacionales-001-MASTERY-bundle-v2",
+      "statement": "Según el Texto 1, ¿con qué objeto escondió Bochica el sol?",
+      "context": "En Bogotá, un grupo de décimo grado dibuja la secuencia del mito en un cartel para la sala de clase.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Con una red tejida por los habitantes del cerro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no menciona ninguna red: el objeto con el que se oculta el sol es otro."
+        },
+        {
+          "letter": "B",
+          "text": "Con un escudo de oro que le entregó Chichacupe.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay escudo en el relato, y Chichacupe es quien expulsa a Bochica, no quien le da un regalo."
+        },
+        {
+          "letter": "C",
+          "text": "Con el cerro entero, porque el texto dice que el cerro guardó el sol.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cerro es el lugar adonde llega, no el recipiente del sol."
+        },
+        {
+          "letter": "D",
+          "text": "Con un cántaro de barro, porque el texto dice que lo escondió allí hasta que la gente obedeciera.",
+          "is_correct": true,
+          "feedback": "Correcto. El cántaro de barro es el objeto con el que el texto explica el oscurecimiento del paisaje."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Identificar los objetos simbólicos del relato permite reconstruir paso a paso la secuencia mítica. En un mito cada objeto cumple una función dentro del argumento y por eso no se puede cambiar sin alterar la explicación. Localizar un dato literal es el primer paso para comparar dos versiones del mismo mito.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Literal",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-10-2026-W11-la-literatura-y-los-mitos-fundacionales-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W11-la-literatura-y-los-mitos-fundacionales-001-MASTERY-bundle-v3",
+      "statement": "En el Texto 1, ¿qué quiere decir la palabra «desobedecer»?",
+      "context": "En Bogotá, los estudiantes de décimo grado estudian el verbo que explica la partida de Bochica, porque les cuesta distinguir obediencia de independencia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No hacer lo que una autoridad ordena, en este caso el cacique Chichacupe.",
+          "is_correct": true,
+          "feedback": "Correcto. El verbo explica que la partida de Bochica se debe a que no acató la autoridad del otro cacique."
+        },
+        {
+          "letter": "B",
+          "text": "No volver a un lugar después de haberlo dejado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La palabra significa no cumplir una orden, no abandonar un lugar."
+        },
+        {
+          "letter": "C",
+          "text": "Hablar de manera que otros no entiendan lo que uno dice.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso sería ocultamiento en el habla, y no es lo que el verbo significa."
+        },
+        {
+          "letter": "D",
+          "text": "Cumplir una orden solo cuando conviene a los intereses propios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa actitud corresponde a la desobediencia interesada, no al significado de la palabra."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El diccionario es el primer filtro de lectura para textos antiguos, donde el vocabulario ha cambiado de significado. Conocer el valor de «desobedecer» permite entender el conflicto inicial del mito, que es la prueba a la que el héroe se enfrenta. Esa palabra sostiene todo el desarrollo del relato.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semantico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-10-2026-W11-la-literatura-y-los-mitos-fundacionales-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W11-la-literatura-y-los-mitos-fundacionales-001-MASTERY-bundle-v4",
+      "statement": "Según el Texto 1, ¿qué efecto tendría sobre las cosechas el hecho de que el sol hubiera permanecido en el cántaro durante años?",
+      "context": "En Bogotá, los estudiantes de décimo grado discuten qué habría ocurrido con las cosechas mientras el sol estuvo escondido.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las cosechas crecerían más rápido, porque sin sol la tierra resultaría más fértil.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El relato no describe ningún beneficio de la oscuridad para las cosechas."
+        },
+        {
+          "letter": "B",
+          "text": "Las cosechas se multiplicarían, porque la ausencia del sol eliminaría a las plagas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no menciona plagas ni ningún efecto benéfico de la oscuridad."
+        },
+        {
+          "letter": "C",
+          "text": "Las cosechas escasearían, porque el relato presenta el calor del sol como lo que hace posible la siembra.",
+          "is_correct": true,
+          "feedback": "Correcto. El texto explica que el sol quemaba las cosechas y que al esconderlo el paisaje queda oscuro y frío."
+        },
+        {
+          "letter": "D",
+          "text": "Las cosechas no cambiarían, porque el relato trata sobre la obediencia y no sobre la agricultura.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto sí conecta la luz del sol con el estado de las cosechas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Aplicar el relato a una situación permite comprobar si la lógica interna del mito se sostiene. La cadena de causas del Texto 1 va del exceso de calor al castigo y luego a la liberación del sol. Reconocer esa cadena ayuda a entender por qué muchas versiones del mito conservan el mismo núcleo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Inferencial",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-10-2026-W11-la-literatura-y-los-mitos-fundacionales-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W11-la-literatura-y-los-mitos-fundacionales-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la intención comunicativa principal del Texto 2?",
+      "context": "En Bogotá, la profesora pregunta a los estudiantes de décimo grado por qué reescribieron el mito en lugar de limitarse a recitarlo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Transmitir con exactitud el contenido del libro de textos de la institución.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El grupo cambia la interpretación del castigo y por tanto no busca repetir el relato al pie de la letra."
+        },
+        {
+          "letter": "B",
+          "text": "Ofrecer otra lectura del mito, desde la voz del protagonista y con un sentido del castigo distinto al original.",
+          "is_correct": true,
+          "feedback": "Correcto. Cambiar la voz y el significado del castigo es el objetivo declarado de la reescritura."
+        },
+        {
+          "letter": "C",
+          "text": "Criticar al libro de textos por contar de manera incorrecta la historia de Bogotá.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El grupo no acusa al libro: propone una versión propia sin desconocer la tradición."
+        },
+        {
+          "letter": "D",
+          "text": "Entretener al público con una actuación espectacular, sin buscar ninguna lectura del mito.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El balde de pintura y los aplausos son recursos de la puesta en escena, no el objetivo del texto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La intención de una reescritura se revela en las decisiones que se toman sobre la voz y el sentido del relato. Detectar que el grupo cambia la lectura y no solo el estilo permite distinguir una adaptación de una simple transcripción. Esa misma mirada sirve para valorar las reescrituras que se hacen en el aula de literatura.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-10-2026-W11-la-literatura-y-los-mitos-fundacionales-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W11-la-literatura-y-los-mitos-fundacionales-001-MASTERY-bundle-v6",
+      "statement": "En la oración «el eclipse se lee como una pausa y no como un castigo», ¿qué estructura se reconoce y qué efecto produce?",
+      "context": "En Bogotá, la profesora pide a los estudiantes de décimo grado revisar la oración con la que el grupo justifica su lectura del eclipse.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una oración pasiva de sujeto paciente, porque el eclipse es el objeto de la acción.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En una pasiva de sujeto paciente el eclipse sería agentado con «ser», y aquí el «se» no funciona así."
+        },
+        {
+          "letter": "B",
+          "text": "Es una oración activa con sujetos en aposición, porque «una pausa» y «un castigo» son sujetos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las dos expresiones son términos de comparación, no sujetos en aposición."
+        },
+        {
+          "letter": "C",
+          "text": "Es una oración con verbo copulativo, porque el eclipse y la pausa son dos sustantivos unidos por «como».",
+          "is_correct": false,
+          "feedback": "Incorrecto. La oración no lleva verbo copulativo: lleva una construcción con «se» y dos comparaciones."
+        },
+        {
+          "letter": "D",
+          "text": "Es una oración con construcción impersonal en «se lee», y las dos comparaciones con «como» ordenan la lectura del eclipse.",
+          "is_correct": true,
+          "feedback": "Correcto. La construcción con «se» evita nombrar a un responsable y las comparaciones fijan la interpretación que propone el grupo."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Reconocer la construcción impersonal y los términos de comparación muestra cómo el grupo expresa una valoración sin nombrar a nadie. Esa sintaxis hace visible la diferencia de enfoque frente al libro de textos. Analizar la forma de la frase es una herramienta directa para comparar dos versiones de un mismo mito.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LC-10-2026-W11-la-literatura-y-los-mitos-fundacionales-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W11-la-literatura-y-los-mitos-fundacionales-001-MASTERY-bundle-v7",
+      "statement": "¿Qué efecto tiene en el relato el hecho de que el Texto 2 hable desde la voz de Bochica y no desde la voz del narrador tradicional?",
+      "context": "En Bogotá, los estudiantes de décimo grado analizan la expresión «Desde la voz de Bochica» que aparece en el cartel del festival.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cambia la posición del lector, que ahora conoce los motivos del cacique y no solo sus acciones externas.",
+          "is_correct": true,
+          "feedback": "Correcto. La primera persona permite explicar el castigo desde adentro, que es la diferencia central frente al libro."
+        },
+        {
+          "letter": "B",
+          "text": "Convierte el relato en una crónica, porque la voz en primera persona garantiza la veracidad histórica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La primera persona no convierte un mito en crónica: la crónica exige datos y testigos, no solo un narrador."
+        },
+        {
+          "letter": "C",
+          "text": "Elimina el carácter colectivo del mito, porque ahora solo cuenta la experiencia de un personaje.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El relato sigue siendo colectivo: la versión del grupo mantiene el sentido comunitario del mito."
+        },
+        {
+          "letter": "D",
+          "text": "Reduce el relato a una anécdota personal, porque ya no hay una explicación del origen.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El grupo mantiene una explicación del origen y por eso el texto sigue siendo un mito."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cambiar la voz narrativa cambia lo que el lector sabe del héroe y, con ello, la valoración que hace de sus actos. En una reescritura, la voz es el mecanismo principal de la propuesta del autor. Analizar ese mecanismo permite explicar por qué dos versiones del mismo mito no cuentan lo mismo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-10-2026-W11-la-literatura-y-los-mitos-fundacionales-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W11-la-literatura-y-los-mitos-fundacionales-001-MASTERY-bundle-v8",
+      "statement": "Mientras el Texto 1 presenta el castigo como consecuencia de la desobediencia, ¿qué cambio de sentido introduce el Texto 2?",
+      "context": "En Bogotá, los estudiantes de décimo grado comparan en una mesa de trabajo qué función cumple el castigo en cada versión.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Convierte el castigo en un premio, porque el grupo afirma que el eclipse fue motivo de celebración.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Texto 2 no presenta el castigo como premio: lo interpreta como una pausa necesaria."
+        },
+        {
+          "letter": "B",
+          "text": "Elimina el castigo del relato, porque el grupo ya no menciona la desobediencia de Bochica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El castigo sigue presente, pero recibe otra explicación."
+        },
+        {
+          "letter": "C",
+          "text": "Reinterpreta el castigo como cuidado, porque el sol se esconde para que la comunidad descanse y vuelva a sembrar.",
+          "is_correct": true,
+          "feedback": "Correcto. El mismo hecho recibe un valor distinto: deja de ser un castigo y pasa a ser una pausa."
+        },
+        {
+          "letter": "D",
+          "text": "Copia la explicación del libro de textos, porque el grupo también presenta el castigo como respuesta a la desobediencia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El grupo reescribe precisamente la explicación del castigo, que es el punto de divergencia entre los dos textos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Comparar dos versiones permite ver que el cambio no está en los hechos narrados, sino en el valor que se les atribuye. Una misma secuencia puede sostener una intención distinta según la voz que la cuenta. Reconocer ese desplazamiento es la base para evaluar reescrituras y adaptaciones.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LC-10-2026-W11-la-literatura-y-los-mitos-fundacionales-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W11-la-literatura-y-los-mitos-fundacionales-001-MASTERY-bundle-v9",
+      "statement": "¿Qué deja inferir la frase del cartel «para que nadie diga que nuestra historia empieza con un castigo»?",
+      "context": "En Bogotá, los estudiantes de décimo grado discuten la frase del cartel del festival y su efecto sobre el público.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el grupo quiere que el público olvide por completo el mito de Bochica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cartel no pide olvidar el mito, sino cambiar cómo se lo interpreta."
+        },
+        {
+          "letter": "B",
+          "text": "Que el grupo interpreta la versión del libro como una lectura que castiga y quiere revertir esa lectura.",
+          "is_correct": true,
+          "feedback": "Correcto. La frase revela que el grupo percibe en el relato original una idea de castigo y propone lo contrario."
+        },
+        {
+          "letter": "C",
+          "text": "Que el grupo considera que el mito de Bochica no pertenece a la historia de Bogotá.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase habla de nuestra historia, es decir, reconoce el mito como parte de la identidad común."
+        },
+        {
+          "letter": "D",
+          "text": "Que el grupo sabe que el eclipse nunca tuvo relación con un castigo en la tradición original.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no presenta datos sobre la tradición oral que permitan sostener esa afirmación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Inferir una posición a partir de una frase de cierre exige conectar lo que el grupo dice con lo que hace en el relato. El cartel revela la intención que sostiene toda la reescritura. Esa lectura crítica de las declaraciones de intención es útil en cualquier versión reescrita de un texto tradicional.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Inferencial",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-10-2026-W11-la-literatura-y-los-mitos-fundacionales-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W11-la-literatura-y-los-mitos-fundacionales-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es la valoración más sólida sobre la reescritura del Texto 2?",
+      "context": "En Bogotá, la profesora pide a los estudiantes de décimo grado valorar si la versión del festival es una lectura crítica del mito o una alteración indebida.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es inválida, porque un mito no puede cambiarse sin romper la tradición que lo sostiene.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tradición oral admite versiones distintas; lo pertinente es evaluar la propuesta, no aplicarle una prohibición."
+        },
+        {
+          "letter": "B",
+          "text": "Es correcta sin más, porque toda reescritura mejora la versión original.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una reescritura no es mejor por ser nueva: hay que evaluar qué cambia y con qué propósito."
+        },
+        {
+          "letter": "C",
+          "text": "Es intermedia, porque mezcla una actuación teatral con una explicación que ya venía en el libro de textos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La versión del grupo no repite la explicación del libro: cambia precisamente el sentido del castigo."
+        },
+        {
+          "letter": "D",
+          "text": "Es una relectura legítima, porque conserva el núcleo del mito y explicita una posición que el relato original deja implícita.",
+          "is_correct": true,
+          "feedback": "Correcto. La versión conserva los hechos del mito y hace explícito un valor que estaba latente en la tradición."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Valorar una reescritura exige comprobar si conserva el núcleo del relato y si su propuesta puede justificarse. Conservar los hechos y explicitar una lectura es lo que distingue una relectura de una sustitución arbitraria. Ese criterio permite evaluar con fundamento la calidad de una adaptación.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.62,
+      "bundle_id": "CO-LC-10-2026-W11-la-literatura-y-los-mitos-fundacionales-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W11-la-literatura-y-los-mitos-fundacionales-001-MASTERY-bundle-v11",
+      "statement": "¿Qué combinación de textos permite entender mejor la diferencia entre tradición y reescritura?",
+      "context": "En Bogotá, el comité de eventos del colegio evalúa qué versión debe leerse en la celebración del día de la tradición oral.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo el Texto 1, porque muestra cómo los libros de textos fijan la versión definitiva de un mito.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un solo texto no permite contrastar versiones, y ningún libro fija por sí solo la versión definitiva de un mito."
+        },
+        {
+          "letter": "B",
+          "text": "Solo el Texto 2, porque resume en cuatro frases todo lo que hay que saber del mito.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un solo texto oculta la diferencia: sin la versión de referencia no se nota el cambio."
+        },
+        {
+          "letter": "C",
+          "text": "Los dos textos juntos, porque el contraste entre la versión del libro y la del festival hace visible qué se conserva y qué se transforma.",
+          "is_correct": true,
+          "feedback": "Correcto. La comparación revela el núcleo común del mito y el punto exacto de la relectura del grupo."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguno, porque el mito de Bochica no pertenece al plan de estudios del grado décimo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tradición oral es parte del trabajo de lectura e interpretación que se pide en este grado."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un análisis comparativo solo es posible cuando las dos versiones se leen una al lado de la otra. El contraste muestra qué elementos del mito resisten a la reescritura y cuáles cambian de sentido. Esa comparación es el método central del trabajo con textos de tradición oral.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LC-10-2026-W11-la-literatura-y-los-mitos-fundacionales-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W11-la-literatura-y-los-mitos-fundacionales-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es el criterio más útil para evaluar una versión propia de un mito regional?",
+      "context": "En Bogotá, la profesora propone que cada estudiante de décimo grado escriba su propia versión de un mito de la región y que la defienda ante el grupo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el estudiante mantenga los hechos centrales del mito, exponga su lectura personal y no la presente como la única versión verdadera.",
+          "is_correct": true,
+          "feedback": "Correcto. El ejercicio respeta la tradición y enseña a sostener una interpretación propia sin borrar las otras."
+        },
+        {
+          "letter": "B",
+          "text": "Que el estudiante cambie todos los nombres y la historia para demostrar que el mito original ya no sirve.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Modificar sin criterio la estructura o los nombres no constituye una lectura crítica: es solo un cambio de superficie."
+        },
+        {
+          "letter": "C",
+          "text": "Que el estudiante escriba la versión que encuentra en línea, porque allí está la fuente más confiable del mito.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguna fuente en línea es más confiable por el solo hecho de estar en línea: hay que contrastar y justificar."
+        },
+        {
+          "letter": "D",
+          "text": "Que el estudiante copie el texto del libro de textos, porque solo así la versión puede considerarse tradicional.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Copiar no es reescribir: el ejercicio pide una versión propia que se defienda con argumentos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar una versión propia exige tres condiciones: conservar el núcleo del relato, exponer una lectura y reconocer que existen otras. Sin las tres, el ejercicio se reduce a copiar o a inventar. Ese criterio de tres puntos sirve para calificar reescrituras con rigor y sin imponer una sola interpretación.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.58,
+      "bundle_id": "CO-LC-10-2026-W11-la-literatura-y-los-mitos-fundacionales-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}

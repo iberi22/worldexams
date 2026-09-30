@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-13-grade-10-subject-lectura_critica",
+    "generated_at": "2026-09-30T13:59:53.386Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-10-2026-W13-la-argumentacion-en-la-publicidad-y-los-medios-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la tesis central que defiende el aviso del Texto 1?",
+      "context": "En Cali, la profesora de Lectura Crítica pide a los estudiantes de décimo grado identificar la tesis del aviso radial del Texto 1.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el programa de electromecánica es la formación más costosa del instituto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El aviso presenta el programa como una opción accesible de doce cuotas, y no lo señala como caro."
+        },
+        {
+          "letter": "B",
+          "text": "Que estudiar una técnica no cierra las puertas laborales de quien lo hace.",
+          "is_correct": true,
+          "feedback": "Correcto. Esa afirmación abre el aviso y es la idea que todo lo demás intenta sostener."
+        },
+        {
+          "letter": "C",
+          "text": "Que la matrícula del instituto se paga aparte del programa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El aviso dice lo contrario: el derecho de matrícula queda incluido en las doce cuotas."
+        },
+        {
+          "letter": "D",
+          "text": "Que solo los egresados que trabajan en empresas de la ciudad alcanza para considerarlos exitosos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El aviso no evalúa el éxito de los egresados, y esa lectura distorsionada cambia el sentido del mensaje."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un texto publicitario se organiza alrededor de una afirmación principal que busca ser aceptada. En el Texto 1 esa afirmación aparece al inicio y el resto del aviso existe para apuntalarla. Reconocer la tesis es el primer paso para poder juzgar si los apoyos la sostienen.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-10-2026-W13-la-argumentacion-en-la-publicidad-y-los-medios-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W13-la-argumentacion-en-la-publicidad-y-los-medios-001-MASTERY-bundle-v2",
+      "statement": "Según el Texto 1, ¿en cuántas cuotas se paga el programa de electromecánica y de cuánto es cada una?",
+      "context": "En Cali, un grupo de décimo grado transcribe el aviso del Texto 1 para un trabajo de clase.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En seis cuotas de 45.000 pesos cada una.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ni el número de cuotas ni el valor coinciden con lo que declara la locución del aviso."
+        },
+        {
+          "letter": "B",
+          "text": "En doce cuotas de 120.000 pesos cada una.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El número de cuotas sí coincide, pero el valor que se escucha es de 89.000 pesos."
+        },
+        {
+          "letter": "C",
+          "text": "En treinta cuotas de 25.000 pesos cada una.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ni las cuotas ni el monto aparecen en el aviso, y esos datos vienen del precio mensual de otra publicación."
+        },
+        {
+          "letter": "D",
+          "text": "En doce cuotas de 89.000 pesos cada una.",
+          "is_correct": true,
+          "feedback": "Correcto. Ese es el dato explícito del apoyo económico que ofrece el aviso."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Los datos concretos de un anuncio son los puntos de contraste más seguros para un lector. Memorizar el monto y el número de cuotas permite comparar el costo real con el de otras instituciones. Separar el dato económico de la tesis general evita confundir el precio con el argumento.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Literal",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-10-2026-W13-la-argumentacion-en-la-publicidad-y-los-medios-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W13-la-argumentacion-en-la-publicidad-y-los-medios-001-MASTERY-bundle-v3",
+      "statement": "En el Texto 1, ¿qué busca conseguir el llamado a la acción «Inscríbete este mes en el formulario de la página del instituto»?",
+      "context": "En Cali, los estudiantes de décimo grado escuchan por segunda vez el cierre del aviso del Texto 1 y anotan la intención de esa frase.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el oyente actúa de inmediato y complete la inscripción durante el mismo mes en que escucha el aviso.",
+          "is_correct": true,
+          "feedback": "Correcto. El imperativo y el plazo de un mes buscan una respuesta inmediata del oyente."
+        },
+        {
+          "letter": "B",
+          "text": "Que el oyente se tome el tiempo de revisar con calma el costo total del programa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase apura la decisión e invita a no postergar la matrícula."
+        },
+        {
+          "letter": "C",
+          "text": "Que el oyente compare el programa con el de otros tres institutos de la ciudad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El aviso no menciona ninguna otra institución ni propone una comparación."
+        },
+        {
+          "letter": "D",
+          "text": "Que el oyente difunda el aviso entre sus compañeros para que suba la matrícula del instituto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase dirige la acción al posible estudiante, no a la difusión del mensaje."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El llamado a la acción es la parte del anuncio que traduce el argumento en una conducta concreta. Su funciona depende de quién debe hacer qué y en qué plazo. Reconocer esa intención permite medir después si la información que acompaña al llamado es suficiente o apenas un pretexto.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-10-2026-W13-la-argumentacion-en-la-publicidad-y-los-medios-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W13-la-argumentacion-en-la-publicidad-y-los-medios-001-MASTERY-bundle-v4",
+      "statement": "Un grupo de estudiantes debe separar en el Texto 1 la afirmación principal de los apoyos que la sostienen. ¿Cuál es la afirmación principal?",
+      "context": "En Cali, un grupo de décimo grado separa las partes del aviso radial para un trabajo escrito.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El 78 % de los egresados trabajan en empresas de la ciudad al año siguiente de graduarse.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa frase es un dato de apoyo, y no la afirmación que el resto del aviso intenta demostrar."
+        },
+        {
+          "letter": "B",
+          "text": "El programa de electromecánica se paga en doce cuotas de 89.000 pesos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa frase es un apoyo económico sobre las condiciones del programa, no la tesis del aviso."
+        },
+        {
+          "letter": "C",
+          "text": "Estudiar una técnica no cierra las puertas.",
+          "is_correct": true,
+          "feedback": "Correcto. Es la idea que el aviso enuncia primero y a la que apuntan el dato de egresados y el precio del programa."
+        },
+        {
+          "letter": "D",
+          "text": "La matrícula queda incluida en las doce cuotas del programa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa información complementa el precio y no sustituye la afirmación principal."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Separar tesis y apoyos es una tarea de lectura que se aplica a todo texto argumentativo. La tesis responde a la pregunta de qué quiere que creamos, y los apoyos responden a la de con qué razón. Ese mismo esquema sirve para leer un comercial, un editorial o una publicación de redes.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-10-2026-W13-la-argumentacion-en-la-publicidad-y-los-medios-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W13-la-argumentacion-en-la-publicidad-y-los-medios-001-MASTERY-bundle-v5",
+      "statement": "Un equipo quiere resumir en cinco palabras la idea central del Texto 1. ¿Cuál de las cuatro opciones respeta mejor el orden del texto, que empieza con una idea y luego la apoya?",
+      "context": "En Cali, un equipo de décimo grado prepara un aviso escolar usando como modelo el Texto 1.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "«Estudia electromecánica en doce cuotas.»",
+          "is_correct": false,
+          "feedback": "Incorrecto. El resumen se queda en una sola parte del aviso y no recoge la afirmación que organiza todo el mensaje."
+        },
+        {
+          "letter": "B",
+          "text": "«Estudiar una técnica no cierra puertas.»",
+          "is_correct": true,
+          "feedback": "Correcto. Resume la tesis del aviso, que es la afirmación a la que apuntan todos los apoyos."
+        },
+        {
+          "letter": "C",
+          "text": "«Inscríbete este mes en el formulario.»",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa frase es el llamado a la acción, no la idea que el aviso intenta demostrar."
+        },
+        {
+          "letter": "D",
+          "text": "«Doce cuotas de 89.000 pesos.»",
+          "is_correct": false,
+          "feedback": "Incorrecto. El resumen recoge solo el dato económico y descarta por completo la afirmación central."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un buen resumen de un texto publicitario conserva la afirmación principal y su relación con el resto. Si se queda en un dato aislado, el lector se queda con la información más fácil de repetir y pierde el mensaje real. Practicar el resumen breve entrena el criterio para distinguir tesis de apoyo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semantico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-10-2026-W13-la-argumentacion-en-la-publicidad-y-los-medios-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W13-la-argumentacion-en-la-publicidad-y-los-medios-001-MASTERY-bundle-v6",
+      "statement": "Al comparar el Texto 1 y el Texto 2, ¿qué estrategia de persuasión comparten los dos anuncios?",
+      "context": "En Bucaramanga, el grupo de décimo grado coloca los dos anuncios en una cartelera para compararlos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Presentar estadísticas comprobables publicadas por una fuente oficial.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo el Texto 1 incluye un dato, y ninguno de los dos indica de dónde sale."
+        },
+        {
+          "letter": "B",
+          "text": "Nombrar a los profesionales que respaldan la formación que ofrecen.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Texto 2 no menciona a ningún profesional y el Texto 1 solo recurre a un porcentaje."
+        },
+        {
+          "letter": "C",
+          "text": "Explicar en el texto todas las condiciones de pago antes del llamado a la acción.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Texto 2 esconde el precio en letra pequeña, y esa es justamente una diferencia entre los dos anuncios."
+        },
+        {
+          "letter": "D",
+          "text": "Ofrecer un beneficio fácil de recordar, como no pagar matrícula o estudiar desde casa, y cerrar con una llamada a la acción.",
+          "is_correct": true,
+          "feedback": "Correcto. Los dos anuncios venden una ventaja sencilla de memorizar y terminan invitando al público a actuar."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Comparar dos anuncios del mismo sector revela qué es propio de cada uno y qué es propio del género. La estructura común a toda publicidad es siempre la misma: promesa sencilla, apoyo y llamada a la acción. Identificar el rasgo común permite después evaluar si el apoyo de cada anuncio es suficiente para su promesa.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-10-2026-W13-la-argumentacion-en-la-publicidad-y-los-medios-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W13-la-argumentacion-en-la-publicidad-y-los-medios-001-MASTERY-bundle-v7",
+      "statement": "Dentro del aviso del Texto 1, ¿qué función cumple el dato del 78 % de egresados que trabajan en empresas de la ciudad?",
+      "context": "En Cali, un equipo de décimo grado reconstruye el esquema argumentativo del aviso del Texto 1.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es el apoyo que da credibilidad a la tesis de que estudiar una técnica no cierra las puertas.",
+          "is_correct": true,
+          "feedback": "Correcto. La estadística respalda la afirmación general que abre el aviso y le da apariencia de evidencia."
+        },
+        {
+          "letter": "B",
+          "text": "Es el precio del programa, presentado de manera que parezca un dato estadístico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El precio del programa se enuncia aparte, en doce cuotas de 89.000 pesos."
+        },
+        {
+          "letter": "C",
+          "text": "Es el llamado a la acción, porque invita al oyente a matricularse en el instituto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El llamado a la acción es la frase sobre el formulario, y el porcentaje no pide ninguna conducta."
+        },
+        {
+          "letter": "D",
+          "text": "Es la cita de un egresado que relata su experiencia laboral en la ciudad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El aviso no incluye ninguna cita ni la voz de un egresado identificado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar un anuncio consiste en reconstruir la cadena de razones que sostiene su afirmación principal. El porcentaje funciona como prueba, y una prueba apoya una tesis sin demostrarla por completo. Detectar esa función permite preguntarse por su calidad y por su origen, que aquí no se indica.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-10-2026-W13-la-argumentacion-en-la-publicidad-y-los-medios-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W13-la-argumentacion-en-la-publicidad-y-los-medios-001-MASTERY-bundle-v8",
+      "statement": "En el Texto 2, ¿cómo reforzó la fotografía del estudiante con bata y el ícono de reloj el titular «Estudia medicina desde tu casa»?",
+      "context": "En Bucaramanga, un grupo de décimo grado analiza cómo el diseño de la publicación del Texto 2 participa en la persuasión.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mostraron que el curso tiene un título universitario oficial, porque el ícono de reloj lo certifica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un ícono de reloj sugiere rapidez y no acredita ninguna titulación, y el texto no muestra ese respaldo."
+        },
+        {
+          "letter": "B",
+          "text": "Demostraron que la aplicación es gratuita, porque la bata blanca es el símbolo de un profesional sin costo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La imagen no comunica gratuidad, y el propio párrafo de la letra pequeña revela que hay un precio mensual."
+        },
+        {
+          "letter": "C",
+          "text": "Presentaron imágenes asociadas a la profesión médica y a la rapidez, dos valores que el lector supone en el curso sin que el texto los demuestre.",
+          "is_correct": true,
+          "feedback": "Correcto. Las imágenes sugieren lo que el texto no explica, y ese es un recurso habitual de la publicidad."
+        },
+        {
+          "letter": "D",
+          "text": "Anularon el efecto de la letra pequeña, porque un diseño ordenado vuelve confiable cualquier condición de pago.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El diseño ordenado no reemplaza la información, y ocultar el precio no lo vuelve transparente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En publicidad, la imagen y el color sustituyen a veces la explicación. El Texto 2 usa la bata y el reloj como atajos que prometen estado profesional y rapidez sin pruebas que los respalden. Analizar esos recursos permite entender por qué una promesa puede resultar creíble aunque el texto no la sostenga.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LC-10-2026-W13-la-argumentacion-en-la-publicidad-y-los-medios-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W13-la-argumentacion-en-la-publicidad-y-los-medios-001-MASTERY-bundle-v9",
+      "statement": "¿Por qué la frase «Estudia medicina desde tu casa» del Texto 2 es una afirmación más amplia de lo que el texto puede sostener?",
+      "context": "En Bucaramanga, un grupo de décimo grado examina el titular del Texto 2 y lo compara con el contenido real de la publicación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque «desde tu casa» es una expresión local que solo se entiende en Bucaramanga.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La expresión es comprensible en toda Colombia, y su dificultad no está en el sentido."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el texto no informa si ese título tiene respaldo académico ni cuánto dura el programa, y sin esos datos la promesa alcanza para cualquier formación.",
+          "is_correct": true,
+          "feedback": "Correcto. Al faltar los datos esenciales, el titular generaliza una promesa que el cuerpo de la publicación no puede demostrar."
+        },
+        {
+          "letter": "C",
+          "text": "Porque «medicina» aparece escrita con mayúscula inicial y por eso pierde precisión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El uso de mayúscula es una cuestión de estilo y no cambia el alcance del titular."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la frase no usa la palabra «gratis», que es la única que vuelve válida una promesa de formación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un titular no está obligado a usar esa palabra, y el problema está en los datos que faltan."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un titular publicitario promete más de lo que el cuerpo del anuncio puede demostrar. En el Texto 2 la promesa de estudiar medicina exige respaldo académico que no aparece por ninguna parte. Detectar ese desajuste entre titular y contenido es una forma temprana de cuestionar cualquier publicidad.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semantico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-10-2026-W13-la-argumentacion-en-la-publicidad-y-los-medios-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W13-la-argumentacion-en-la-publicidad-y-los-medios-001-MASTERY-bundle-v10",
+      "statement": "Una estudiante de Cali necesita información confiable para escoger dónde hacer una formación técnica. ¿Qué evaluación de los dos anuncios resulta más sólida?",
+      "context": "En Cali, una estudiante de décimo grado compara los dos anuncios antes de elegir dónde hacer una formación técnica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El aviso del Texto 1 es más confiable porque lo locuta un estudiante, y eso le da cercanía y veracidad al dato.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La voz del estudiante hace el aviso más cercano, pero no verifica ninguna de sus afirmaciones."
+        },
+        {
+          "letter": "B",
+          "text": "El aviso del Texto 1 y la publicación del Texto 2 son igualmente confiables porque los dos están hechos para vender.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que un mensaje sea publicitario no le da la misma calidad informativa, y aquí las diferencias son visibles."
+        },
+        {
+          "letter": "C",
+          "text": "La publicación del Texto 2 es más confiable porque trae un precio claro desde el inicio y un botón de registro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El precio aparece en letra pequeña al final, y ningún registro ni título avala el curso."
+        },
+        {
+          "letter": "D",
+          "text": "El Texto 1 ofrece un dato y un costo que se pueden consultar, mientras que en el Texto 2 el precio está escondido y no hay respaldo del título.",
+          "is_correct": true,
+          "feedback": "Correcto. La comparación se apoya en elementos observables en cada texto y no en la intención del anuncio."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Valorar la confiabilidad de un anuncio exige confrontar lo que promete con lo que efectivamente muestra. Un dato y un precio declarados permiten consultar; una promesa sin respaldo solo permite dudar. Ese criterio se apoya en la evidencia interna de cada texto y no en la intención del emisor.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.62,
+      "bundle_id": "CO-LC-10-2026-W13-la-argumentacion-en-la-publicidad-y-los-medios-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W13-la-argumentacion-en-la-publicidad-y-los-medios-001-MASTERY-bundle-v11",
+      "statement": "Un profesor pide al grupo de décimo grado que difunda la publicación del Texto 2 entre los compañeros del colegio. ¿Qué debería verificar el grupo antes de enviarla?",
+      "context": "En Bucaramanga, un profesor pide al grupo de décimo grado que difunda entre los compañeros la publicación del Texto 2.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Si el título que ofrece la aplicación tiene respaldo académico y si el costo total del año queda claro con sus descuentos.",
+          "is_correct": true,
+          "feedback": "Correcto. Esas dos comprobaciones atacan los puntos débiles reales del anuncio y protegen a quienes van a|Matricularse."
+        },
+        {
+          "letter": "B",
+          "text": "Si la fotografía del estudiante con bata fue autorizada por la persona que aparece en ella.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La identidad de la persona de la foto no es lo que el grupo está en capacidad de verificar."
+        },
+        {
+          "letter": "C",
+          "text": "Si el ícono de reloj tiene el tamaño correcto para que se vea bien en un celular de gama baja.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tamaño del ícono es un detalle de diseño y no guarda relación con la información del anuncio."
+        },
+        {
+          "letter": "D",
+          "text": "Si el titular de cinco palabras cabe sin romperse en la primera línea de la pantalla.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ajuste visual del titular es secundario frente a la pregunta de si el título tiene respaldo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Difundir un anuncio implica asumir parte de la responsabilidad de su contenido. Verificar el respaldo del título y el costo real antes de reenviar evita que una promesa vacía se convierta en matrícula y en gasto para una familia. Esa.Samewfewer. responsible uso de la publicidad digital es lo que se evalúa aquí.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LC-10-2026-W13-la-argumentacion-en-la-publicidad-y-los-medios-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W13-la-argumentacion-en-la-publicidad-y-los-medios-001-MASTERY-bundle-v12",
+      "statement": "Varios estudiantes reenvían la publicación del Texto 2 en el grupo del colegio y algunos terminan inscribiéndose. ¿Cuál es la consecuencia más grave de esa difusión?",
+      "context": "En Bucaramanga, varios estudiantes de décimo grado reenvían la publicación del Texto 2 en el grupo del colegio y algunos se inscriben.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el grupo del colegio se llene de mensajes y los estudiantes dejen de hacer la tarea.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un exceso de mensajes es un inconveniente menor al lado del daño económico y académico posible."
+        },
+        {
+          "letter": "B",
+          "text": "Que la aplicación del Texto 2 tenga más usuarios y por eso mejore la calidad de sus servicios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tener más usuarios no garantiza calidad, y el texto no aporta ningún dato que permita afirmarlo."
+        },
+        {
+          "letter": "C",
+          "text": "Que una formación sin respaldo académico se presente como si fuera un título profesional y una familia pague un año de servicios por una promesa no verificada.",
+          "is_correct": true,
+          "feedback": "Correcto. El reenvío masivo convierte una promesa sin pruebas en una decisión de matrícula con costo económico real."
+        },
+        {
+          "letter": "D",
+          "text": "Que el precio de 39.900 pesos deje de aparecer en letra pequeña y se vuelva más fácil de leer.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que el precio se lea mejor no es un daño, y el problema central es la ausencia de respaldo del título."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La publicidad se amplifica cuando circula sin filtro entre pares, y ahí la responsabilidad deja de ser solo del anunciante. La consecuencia más seria es económica y académica: una familia paga por una formación que nunca quedó demostrada. Evaluar ese daño permite tomar una decisión responsable antes de compartir un anuncio.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.58,
+      "bundle_id": "CO-LC-10-2026-W13-la-argumentacion-en-la-publicidad-y-los-medios-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}
