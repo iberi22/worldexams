@@ -8,6 +8,374 @@
   },
   "questions": [
     {
+      "id": "CO-LC-3-2026-W30-los-verbos-en-presente-001-MASTERY-bundle-v1",
+      "statement": "En el Texto 1, ¿qué recibe cada niño para hacer la actividad \"cartel de lo que hacemos\"?",
+      "context": "Los niños de tercero de Pereira reciben los materiales para el cartel de la semana en el salón de clases.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una cartulina y un marcador que cuesta $3.500.",
+          "is_correct": true,
+          "feedback": "Correcto. El texto dice que cada niño recibe una cartulina y un marcador que cuesta $3.500."
+        },
+        {
+          "letter": "B",
+          "text": "Un libro de lectura y un cuaderno nuevo.",
+          "is_correct": false,
+          "feedback": "El texto nunca menciona un libro como material de la actividad, aunque Camila sí lee en la biblioteca."
+        },
+        {
+          "letter": "C",
+          "text": "Una tabla de multiplicar y una regla de 30 centímetros.",
+          "is_correct": false,
+          "feedback": "Esos materiales no aparecen en el Texto 1, que solo nombra la cartulina y el marcador."
+        },
+        {
+          "letter": "D",
+          "text": "Un afiche grande y un pincel con pintura.",
+          "is_correct": false,
+          "feedback": "La actividad se hace con dibujos hechos a marcador, no con pincel ni con afiches grandes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En esta pregunta el estudiante ubica un dato explícito dentro del texto, que es el primer nivel de comprensión lectora.\nReconocer nombres de objetos y precios exactos enseña a leer con atención y a volver al texto cuando no se entiende algo.\nEste ejercicio prepara la mente del niño para después analizar los verbos, porque si no ubica los datos, no podrá razonar sobre la acción que estos cuentan.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-3-2026-W30-los-verbos-en-presente-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W30-los-verbos-en-presente-001-MASTERY-bundle-v2",
+      "statement": "En el Texto 2, ¿qué tipos de hechos cuentan los verbos en presente?",
+      "context": "La profesora Elena lee en voz alta la explicación de los verbos en presente a todo el salón de tercero.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los hechos que ya terminaron hace muchos años.",
+          "is_correct": false,
+          "feedback": "Esa es la función del pasado; el presente cuenta lo que pasa ahora o lo que se repite."
+        },
+        {
+          "letter": "B",
+          "text": "Las cosas que van a pasar el próximo mes.",
+          "is_correct": false,
+          "feedback": "Eso corresponde al futuro, y el Texto 2 no menciona el futuro como tema de la semana."
+        },
+        {
+          "letter": "C",
+          "text": "Los hechos que están pasando ahora o los que son costumbre.",
+          "is_correct": true,
+          "feedback": "Correcto. El texto dice que el presente cuenta hechos que están ocurriendo ahora mismo o que son costumbre."
+        },
+        {
+          "letter": "D",
+          "text": "Las órdenes que da la profesora en el salón.",
+          "is_correct": false,
+          "feedback": "Las órdenes son otra cosa; el Texto 2 explica el significado del tiempo verbal, no órdenes."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Comprender el significado de una palabra dentro de un texto es un salto importante frente a solo leer en voz alta.\nCuando el niño entiende qué cuenta el verbo en presente, puede relacionar la idea con lo que él vive todos los días.\nEsta comprensión semántica es la base para usar bien el tiempo verbal al escribir, que es el objetivo de la semana.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-3-2026-W30-los-verbos-en-presente-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W30-los-verbos-en-presente-001-MASTERY-bundle-v3",
+      "statement": "En el Texto 1, Daniel dice que sus compañeros hablan todos los días en el patio y la profesora contesta que eso es una costumbre. ¿Qué nos enseña ese ejemplo sobre los verbos en presente?",
+      "context": "Daniel responde en el salón de Pereira sobre lo que hacen sus compañeros durante el recreo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que los verbos en presente solo sirven para contar hechos que ya pasaron.",
+          "is_correct": false,
+          "feedback": "Si solo contaran el pasado, la profesora no habría llamado costumbre a lo que ocurre cada día."
+        },
+        {
+          "letter": "B",
+          "text": "Que también cuentan hechos que se repiten, como una costumbre diaria.",
+          "is_correct": true,
+          "feedback": "Correcto. Un hecho que pasa todos los días sigue en presente porque la costumbre continúa."
+        },
+        {
+          "letter": "C",
+          "text": "Que la profesora quiere cambiar de tema para no seguir con la actividad.",
+          "is_correct": false,
+          "feedback": "No hay nada en el texto que indique eso; la profesora aprovecha la respuesta de Daniel para explicar."
+        },
+        {
+          "letter": "D",
+          "text": "Que los niños deben copiar la palabra \"hablan\" sin entenderla.",
+          "is_correct": false,
+          "feedback": "Copiar sin explicar no es la estrategia; la profesora pide conversar sobre lo que hacen cada día."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El estudiante debe deducir una regla gramatical a partir de un ejemplo concreto, y no solamente repetir lo que el texto dice.\nReconocer que una costumbre está en presente porque sigue siendo verdad ayuda a reforzar el concepto de tiempo verbal.\nEsta habilidad inferencial se transfiere a todas las lecturas, porque casi ningún texto enuncia sus propias reglas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Inferencial",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-3-2026-W30-los-verbos-en-presente-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W30-los-verbos-en-presente-001-MASTERY-bundle-v4",
+      "statement": "Camila escribe la oración \"Nosotros ___ en la casa de la abuela\". Según el Texto 2, ¿qué verbo debe escribir y por qué?",
+      "context": "Camila completa una oración en el cuaderno usando la tabla de formas del Texto 2.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "comes, porque la oración habla de una sola persona.",
+          "is_correct": false,
+          "feedback": "La forma en -es es para \"tú\"; si la oración dice \"nosotros\", no puede ser la forma de una sola persona."
+        },
+        {
+          "letter": "B",
+          "text": "comen, porque termina en -en.",
+          "is_correct": false,
+          "feedback": "La forma en -en corresponde a \"ellos\", no a \"nosotros\", que usa la terminación -emos."
+        },
+        {
+          "letter": "C",
+          "text": "comieron, porque la acción ya terminó.",
+          "is_correct": false,
+          "feedback": "El pasado ya se estudió en la semana W23, y aquí la acción está ocurriendo ahora, no antes."
+        },
+        {
+          "letter": "D",
+          "text": "comemos, porque la forma de \"nosotros\" termina en -emos.",
+          "is_correct": true,
+          "feedback": "Correcto. El Texto 2 dice que nosotros comemos, con la terminación -emos."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Elegir la forma correcta del verbo según quién realiza la acción es un ejercicio de concordancia, la base de la gramática.\nCuando el niño entiende que cambiar de persona cambia la terminación, puede construir oraciones propias sin equivocarse.\nPracticar esto en oraciones cortas facilita después la lectura de textos más largos con muchos personajes.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-3-2026-W30-los-verbos-en-presente-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W30-los-verbos-en-presente-001-MASTERY-bundle-v5",
+      "statement": "Los niños quieren escribir en la cartelera \"lo que hacemos en la escuela cada día\". ¿Qué grupo de palabras les sirve mejor para esa cartelera?",
+      "context": "La cartelera del salón debe informar qué hacen los estudiantes de tercero cada día en la escuela.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los verbos en presente, porque cuentan lo que hacen ahora y lo que hacen siempre.",
+          "is_correct": true,
+          "feedback": "Correcto. La cartelera describe hechos que ocurren a diario, así que necesita verbos en presente."
+        },
+        {
+          "letter": "B",
+          "text": "Los verbos en pasado, porque cuentan lo que hicieron el año pasado.",
+          "is_correct": false,
+          "feedback": "El pasado sirve para hechos ya terminados, y la cartelera habla de lo que se repite cada día."
+        },
+        {
+          "letter": "C",
+          "text": "Los sustantivos, porque nombran los objetos del salón.",
+          "is_correct": false,
+          "feedback": "Los sustantivos nombran, pero no cuentan acciones; la cartelera necesita decir qué hacen."
+        },
+        {
+          "letter": "D",
+          "text": "Los adjetivos, porque describen cómo se ven las cartulinas.",
+          "is_correct": false,
+          "feedback": "Los adjetivos describen características, no acciones, así que no explican lo que hacen los niños."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Entender para qué sirve un texto según su lugar y su destinatario es una habilidad de lectura funcional.\nEl niño conecta el contenido con la intención comunicativa y usa el tiempo verbal adecuado para cada caso.\nEste uso práctico del presente prepara al estudiante para redactar avisos, carteles e informes, textos muy comunes en la vida diaria.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-3-2026-W30-los-verbos-en-presente-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W30-los-verbos-en-presente-001-MASTERY-bundle-v6",
+      "statement": "¿De qué manera el Texto 2 se relaciona con el Texto 1 dentro de esta semana de trabajo?",
+      "context": "La profesora Elena proyecta los dos textos de la semana y pide comparar su relación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Texto 2 cuenta otra historia que sucede en Pereira.",
+          "is_correct": false,
+          "feedback": "El Texto 2 es una explicación del tiempo verbal, no una narración con personajes ni lugares."
+        },
+        {
+          "letter": "B",
+          "text": "El Texto 2 enumera los nombres de todos los niños del salón.",
+          "is_correct": false,
+          "feedback": "Los nombres de Daniel, Camila y la profesora Elena aparecen en el Texto 1, no en el Texto 2."
+        },
+        {
+          "letter": "C",
+          "text": "El Texto 2 explica la idea que el Texto 1 muestra con ejemplos como \"hablan\" y \"escriben\".",
+          "is_correct": true,
+          "feedback": "Correcto. El Texto 2 explica la regla y el Texto 1 la pone en escena con verbos reales."
+        },
+        {
+          "letter": "D",
+          "text": "El Texto 2 dice cuánto cuestan los marcadores de la actividad.",
+          "is_correct": false,
+          "feedback": "El precio de $3.500 aparece en el Texto 1, porque el Texto 2 no habla de materiales ni de precios."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Analizar es ver cómo se conectan las partes de una lectura, no solo qué dice cada parte por separado.\nUn texto explicativo y un texto dramatizado cumplen funciones diferentes, y reconocerlo ayuda a ordenar la información.\nQuien entiende esta relación lee mejor cualquier material escolar, porque ya sabe qué esperar de cada tipo de texto.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LC-3-2026-W30-los-verbos-en-presente-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W30-los-verbos-en-presente-001-MASTERY-bundle-v7",
+      "statement": "Un compañero escribió la oración \"Ayer leo un libro en la biblioteca\". ¿Cuál es el problema de esa oración y cómo debe corregirse?",
+      "context": "Un estudiante de tercero entrega su tarea escrita con un error en el tiempo del verbo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No tiene problema, porque el verbo \"leer\" es igual en todos los tiempos.",
+          "is_correct": false,
+          "feedback": "El verbo sí cambia de forma, como muestra el Texto 2 con \"como\", \"comes\" y \"comen\"."
+        },
+        {
+          "letter": "B",
+          "text": "Usa el presente para contar algo que ya terminó y debe decir \"Ayer leí un libro\".",
+          "is_correct": true,
+          "feedback": "Correcto. \"Ayer\" ya pasó, así que el verbo va en pasado: leí, no leo."
+        },
+        {
+          "letter": "C",
+          "text": "Le sobra la palabra \"ayer\" y la oración queda bien sin ella.",
+          "is_correct": false,
+          "feedback": "Quitar \"ayer\" no arregla el error, porque el verbo en presente seguiría contando algo terminado."
+        },
+        {
+          "letter": "D",
+          "text": "Debe cambiar \"leer\" por una forma de futuro para sonar más formal.",
+          "is_correct": false,
+          "feedback": "El futuro tampoco corresponde, porque la acción ya ocurrió y lo que se necesita es el pasado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Valorar una oración implica juzgar si el tiempo verbal concuerda con la marca de tiempo que da el enunciado.\nEsta es la diferencia central de la semana: el mismo verbo cambia de forma para contar lo que ya terminó o lo que ocurre ahora.\nDetectar el error en un texto ajeno enseña a revisar la propia escritura, un hábito que acompaña a los lectores de todo el país.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-3-2026-W30-los-verbos-en-presente-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W30-los-verbos-en-presente-001-MASTERY-bundle-v8",
+      "statement": "¿Qué relación hay entre el Texto 2 de esta semana y el texto de la semana W23 sobre los verbos en pasado?",
+      "context": "La profesora pega en la cartelera el texto de la semana W23 sobre los verbos en pasado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los dos textos usan solamente el presente, así que cuentan exactamente lo mismo.",
+          "is_correct": false,
+          "feedback": "El texto de W23 trata del pasado, por eso se diferencia de este Texto 2 que trata del presente."
+        },
+        {
+          "letter": "B",
+          "text": "El texto de W23 no habla de verbos, sino de la vida de los animales.",
+          "is_correct": false,
+          "feedback": "El texto de W23 explica los verbos en pasado, no la vida de los animales."
+        },
+        {
+          "letter": "C",
+          "text": "El Texto 2 sirve para escribir cuentos de animales con mucha acción.",
+          "is_correct": false,
+          "feedback": "El Texto 2 no propone ningún tipo de cuento; su propósito es explicar el tiempo verbal."
+        },
+        {
+          "letter": "D",
+          "text": "Los dos usan el mismo verbo \"comer\", pero cambian el tiempo para decir si la acción ya terminó o si ocurre ahora.",
+          "is_correct": true,
+          "feedback": "Correcto. El presente y el pasado comparten el verbo y se distinguen por el momento en que situan la acción."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Comparar dos textos de semanas diferentes permite ver cómo se agranda el conocimiento y no se pierde lo aprendido.\nEl niño reconoce que el pasado no se reemplaza, sino que se complementa con el presente para ubicar cada hecho en su momento.\nEsta mirada de conjunto sobre los tiempos verbales le permite al estudiante seleccionar el verbo adecuado en cualquier escrito propio.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-3-2026-W30-los-verbos-en-presente-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
       "id": "CO-LC-3-2026-W30-ordenar-hechos-en-un-relato-001-MASTERY-bundle-v1",
       "statement": "En el Texto 1, ¿qué hizo Ana antes de salir de su casa en bicicleta?",
       "context": "En la sala 3A de Medellín los niños leen el Texto 1 siguiendo la secuencia con el dedo.",

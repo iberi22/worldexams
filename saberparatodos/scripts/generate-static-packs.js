@@ -323,6 +323,41 @@ const changedFiles = changedOnly
     )
   : null;
 const packs = {};
+// --changed-only must ADD to the published pack, never replace it. A pack key
+// is (country, week, grade, subject) and several bundles legitimately share one
+// key: a resumed batch that touches W31 must not drop the sibling bundle that
+// shipped weeks ago. Rebuilding the pack from the changed files alone silently
+// shrinks the published pack to just the changed bundle, which is how the
+// CO-LC-G3 W26-W35 packs lost 80 questions in cb6b6d8c5. So under
+// --changed-only we seed the pack with the questions already on disk for the
+// same key, then replace only the bundles we regenerate from markdown.
+const packsFromDisk = {};
+if (changedFiles) {
+  for (const outputDir of OUTPUT_DIRS) {
+    if (!fs.existsSync(outputDir)) continue;
+    for (const fileName of fs.readdirSync(outputDir)) {
+      if (!fileName.endsWith(".json")) continue;
+      try {
+        const parsed = JSON.parse(fs.readFileSync(path.join(outputDir, fileName), "utf8"));
+        if (parsed && Array.isArray(parsed.questions)) {
+          packsFromDisk[fileName.slice(0, -".json".length)] = parsed;
+        }
+      } catch (e) {
+        console.error(`Error reading existing pack ${fileName}: ${e.message}`);
+      }
+    }
+  }
+}
+const seededKeys = new Set();
+const seedFromDisk = (packKey) => {
+  if (seededKeys.has(packKey) || !packsFromDisk[packKey]) return null;
+  const existing = packsFromDisk[packKey];
+  seededKeys.add(packKey);
+  return {
+    metadata: { ...(existing.metadata || {}) },
+    questions: Array.isArray(existing.questions) ? [...existing.questions] : [],
+  };
+};
 
 for (const file of allFiles) {
   try {
@@ -453,22 +488,30 @@ for (const file of allFiles) {
     const packKey = `${prefix}${packId}-grade-${grade}-subject-${safeSubject}`;
 
     if (!packs[packKey]) {
+      const seeded = seedFromDisk(packKey);
       packs[packKey] = {
         metadata: {
+          ...(seeded?.metadata || {}),
           grade,
           subject,
           country: countryCode || "global",
           pack_id: packKey,
           generated_at: new Date().toISOString(),
         },
-        questions: [],
+        questions: seeded?.questions || [],
       };
     }
 
+    const bundleId = path.basename(file, ".md");
+    // Replace any previously published copy of THIS bundle rather than
+    // appending, so a disk-seeded pack does not duplicate it.
+    packs[packKey].questions = packs[packKey].questions.filter(
+      (q) => q.bundle_id !== bundleId,
+    );
     questions.forEach((q) => {
       packs[packKey].questions.push({
         ...q,
-        bundle_id: path.basename(file, ".md"),
+        bundle_id: bundleId,
         periodo: period,
         protocol_version: String(protocol),
         cefr_level: data.cefr_level || null,
