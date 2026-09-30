@@ -65,10 +65,10 @@ La tesis de un artículo de opinión es la afirmación que el resto del texto ex
 ¿Cuál de las siguientes cifras aparece en el Texto 1?
 
 ### Opciones
-- [x] A) El gasto anual de 720.000 pesos en pasajes de un estudiante de grado décimo.
-  <!-- feedback: Correcto. La columna multiplica el gasto diario de 4.000 pesos por los días del año lectivo. -->
-- [ ] B) Los 480.000 millones de pesos que la ciudad destinó a la gratuidad.
+- [ ] A) Los 480.000 millones de pesos que la ciudad destinó a la gratuidad.
   <!-- feedback: Incorrecto. Esa cifra pertenece al Texto 2, donde se usa para comparar dos rubros del presupuesto. -->
+- [x] B) El gasto anual de 720.000 pesos en pasajes de un estudiante de grado décimo.
+  <!-- feedback: Correcto. La columna multiplica el gasto diario de 4.000 pesos por los días del año lectivo. -->
 - [ ] C) Los 190.000 millones de pesos que la ciudad destinó a la reparación de calles.
   <!-- feedback: Incorrecto. Esa cifra también pertenece al Texto 2, y el Texto 1 no menciona reparación de calles. -->
 - [ ] D) El número de ciudades que aplicaron la gratuidad del transporte.
@@ -88,14 +88,14 @@ Ubicar una cifra en su texto evita confusiones frecuentes entre dos textos que d
 En el Texto 1, la expresión «una inversión que compra asistencia escolar» significa que:
 
 ### Opciones
-- [x] A) La gratuidad financia la posibilidad real de que el estudiante llegue a sus clases.
-  <!-- feedback: Correcto. La metáfora convierte el gasto público en una condición concreta de acceso, y por eso refuerza la tesis. -->
-- [ ] B) La gratuidad obliga a los estudiantes a asistir todos los días sin excepción.
+- [ ] A) La gratuidad obliga a los estudiantes a asistir todos los días sin excepción.
   <!-- feedback: Incorrecto. Ningún dinero obliga a asistir, y el texto no afirma ninguna obligación de ese tipo. -->
-- [ ] C) La gratuidad permite comprar libros y materiales para los estudiantes.
+- [ ] B) La gratuidad permite comprar libros y materiales para los estudiantes.
   <!-- feedback: Incorrecto. La expresión se refiere a la asistencia, y no a ningún material de estudio. -->
-- [ ] D) La gratuidad sustituye la matrícula y el pago de la primera cuota.
+- [ ] C) La gratuidad sustituye la matrícula y el pago de la primera cuota.
   <!-- feedback: Incorrecto. La expresión habla de asistencia escolar, y no de ningún trámite de matrícula. -->
+- [x] D) La gratuidad financia la posibilidad real de que el estudiante llegue a sus clases.
+  <!-- feedback: Correcto. La metáfora convierte el gasto público en una condición concreta de acceso, y por eso refuerza la tesis. -->
 
 ### Explicacion Pedagogica
 Una metáfora argumentativa esconde una comparación que el lector debe explicitar para poder valorarla. Cuando el columnista dice que el dinero compra asistencia, está comparando el gasto público con un bien de mercado. Hacer visible esa comparación ayuda al estudiante a evaluar si la imagen es justa o si exagera el efecto del dinero, porque ahí una imagen puede sostener una tesis débil.
@@ -111,12 +111,12 @@ Una metáfora argumentativa esconde una comparación que el lector debe explicit
 Un estudiante de Medellín quiere responder al Texto 2 antes de escribir su columna. ¿Qué debe revisar en primer lugar?
 
 ### Opciones
-- [x] A) La base de comparación que usa el Texto 2, es decir, los dos rubros del presupuesto que pone en contraste.
-  <!-- feedback: Correcto. Si la comparación cambia, la conclusión del Texto 2 cambia, de modo que ese es el punto donde empieza la réplica. -->
-- [ ] B) El número de columnas que el diario de Cali publica cada semana.
+- [ ] A) El número de columnas que el diario de Cali publica cada semana.
   <!-- feedback: Incorrecto. La periodicidad del otro diario no afecta la comparación que el Texto 2 realiza sobre el presupuesto. -->
-- [ ] C) El nombre del columnista del Texto 2, porque la identidad del autor no es un dato de la discusión.
+- [ ] B) El nombre del columnista del Texto 2, porque la identidad del autor no es un dato de la discusión.
   <!-- feedback: Incorrecto. La identidad del columnista es un dato menor y no sostiene el argumento que se quiere rebatir. -->
+- [x] C) La base de comparación que usa el Texto 2, es decir, los dos rubros del presupuesto que pone en contraste.
+  <!-- feedback: Correcto. Si la comparación cambia, la conclusión del Texto 2 cambia, de modo que ese es el punto donde empieza la réplica. -->
 - [ ] D) La cantidad de ciudades que aplican la gratuidad en el país.
   <!-- feedback: Incorrecto. Ese dato pertenece al Texto 1, y no interviene en la comparación presupuestal del Texto 2. -->
 
@@ -134,10 +134,10 @@ Responder a un artículo de opinión empieza por localizar la comparación que e
 En el Texto 2, la oración «La gratuidad del transporte municipal suena justa y no lo es» cumple una función discursiva específica. ¿Cuál es?
 
 ### Opciones
-- [x] A) Presenta una calidad aparente del asunto y la niega de inmediato, para obligar al lector a revisar su juicio inicial.
-  <!-- feedback: Correcto. La contradicción inicial obliga al lector a examinar el asunto antes de aceptarlo. -->
-- [ ] B) Presenta una cifra de gastos y la compara con la de los ingresos del municipio.
+- [ ] A) Presenta una cifra de gastos y la compara con la de los ingresos del municipio.
   <!-- feedback: Incorrecto. Las cifras aparecen en la oración siguiente, y la primera frase no contiene ninguna. -->
+- [x] B) Presenta una calidad aparente del asunto y la niega de inmediato, para obligar al lector a revisar su juicio inicial.
+  <!-- feedback: Correcto. La contradicción inicial obliga al lector a examinar el asunto antes de aceptarlo. -->
 - [ ] C) Concede el argumento contrario y lo declara irrelevante para el lector.
   <!-- feedback: Incorrecto. La frase no menciona ningún argumento contrario, y solo afirma que el asunto no es justo. -->
 - [ ] D) Define en términos técnicos qué es la gratuidad del transporte municipal.
@@ -181,12 +181,12 @@ Reconocer la estructura de una oración permite ver cómo el columnista ordena s
 Compare cómo se apoya cada columna en sus datos. ¿Cuál análisis describe correctamente la diferencia?
 
 ### Opciones
-- [x] A) El Texto 1 sostiene su tesis con un cálculo sobre el gasto familiar y el Texto 2 con un contraste entre dos rubros del presupuesto.
-  <!-- feedback: Correcto. Cada columna elige la prueba que le permite defender su postura, y eso define lo que puede discutir. -->
-- [ ] B) Los dos textos se apoyan en cifras oficiales de entidades públicas, con autor, año y metodología declarados.
+- [ ] A) Los dos textos se apoyan en cifras oficiales de entidades públicas, con autor, año y metodología declarados.
   <!-- feedback: Incorrecto. Los dos textos son columnas de opinión, y no informes con fuentes institucionales declaradas. -->
-- [ ] C) Los dos textos presentan un estudio completo, con nombre de autor, año y metodología.
+- [ ] B) Los dos textos presentan un estudio completo, con nombre de autor, año y metodología.
   <!-- feedback: Incorrecto. Ninguno de los dos textos identifica un estudio con esos tres elementos. -->
+- [x] C) El Texto 1 sostiene su tesis con un cálculo sobre el gasto familiar y el Texto 2 con un contraste entre dos rubros del presupuesto.
+  <!-- feedback: Correcto. Cada columna elige la prueba que le permite defender su postura, y eso define lo que puede discutir. -->
 - [ ] D) Los dos textos se apoyan en el testimonio directo de estudiantes y de sus familias.
   <!-- feedback: Incorrecto. Ninguna de las dos columnas recoge testimonios, y ambas trabajan con cifras y comparaciones. -->
 
@@ -204,14 +204,14 @@ La clase de prueba que elige cada autor revela qué acepta como prueba válida d
 En el Texto 2, la apertura «La gratuidad del transporte municipal suena justa y no lo es» produce en el lector:
 
 ### Opciones
-- [x] A) Una contradicción que lo obliga a revisar la aprobación que tenía por hecha.
-  <!-- feedback: Correcto. La frase instala una disonancia y con ello prepara una lectura más exigente del asunto. -->
-- [ ] B) Una invitación cordial a revisar el caso con datos de su propia ciudad.
+- [ ] A) Una invitación cordial a revisar el caso con datos de su propia ciudad.
   <!-- feedback: Incorrecto. La apertura no pide datos ni se dirige a un lector en particular, y solo afirma una opinión. -->
-- [ ] C) Un resumen del artículo que el lector puede saltarse sin perder nada.
+- [ ] B) Un resumen del artículo que el lector puede saltarse sin perder nada.
   <!-- feedback: Incorrecto. La frase anuncia una tesis contraria a la aprobación común, y no resume ningún contenido previo. -->
-- [ ] D) Una definición técnica del término gratuidad.
+- [ ] C) Una definición técnica del término gratuidad.
   <!-- feedback: Incorrecto. La apertura no define el término, y usa gratuidad como una noción que todos comparten. -->
+- [x] D) Una contradicción que lo obliga a revisar la aprobación que tenía por hecha.
+  <!-- feedback: Correcto. La frase instala una disonancia y con ello prepara una lectura más exigente del asunto. -->
 
 ### Explicacion Pedagogica
 Comprender el efecto de una apertura ayuda a construir entradas que enganchen al lector sin perder la honestidad intelectual. En el Texto 2 la disonancia se produce entre lo que el lector cree y lo que el autor afirma, y esa distancia es la que lo invita a seguir leyendo. Cuando el estudiante escribe su propia columna, puede reproducir ese mecanismo declarando desde el principio cuál es el juicio que va a poner a prueba.
@@ -296,14 +296,14 @@ Fortalecer una tesis no es agrandarla, sino volverla comprobable. La opción cor
 En un debate en Tunja, el equipo que defiende la tesis del Texto 1 debe responder al argumento del Texto 2 sobre el presupuesto. ¿Cuál es la mejor estrategia pragmática?
 
 ### Opciones
-- [x] A) Conceder que las calles están deterioradas y sostener que la gratuidad atiende un problema que el asfalto no resuelve.
-  <!-- feedback: Correcto. La réplica respeta el hecho admitido y desplaza la discusión hacia la pertinencia del gasto. -->
-- [ ] B) Declarar que las cifras del Texto 2 están mal calculadas, porque fueron publicadas en un portal y no en un diario.
+- [ ] A) Declarar que las cifras del Texto 2 están mal calculadas, porque fueron publicadas en un portal y no en un diario.
   <!-- feedback: Incorrecto. El medio de publicación no invalida una cifra, y atacar el lugar de publicación debilita la propia postura. -->
-- [ ] C) Repetir el cálculo de 720.000 pesos hasta que el público cambie de opinión.
+- [ ] B) Repetir el cálculo de 720.000 pesos hasta que el público cambie de opinión.
   <!-- feedback: Incorrecto. Repetir una cifra no responde a la objeción, porque no se dirige a ella en ningún momento. -->
-- [ ] D) Declarar que la deserción es un problema de las familias y no del municipio.
+- [ ] C) Declarar que la deserción es un problema de las familias y no del municipio.
   <!-- feedback: Incorrecto. Esa afirmación contradice la tesis del Texto 1, que sitúa la carga económica en las familias. -->
+- [x] D) Conceder que las calles están deterioradas y sostener que la gratuidad atiende un problema que el asfalto no resuelve.
+  <!-- feedback: Correcto. La réplica respeta el hecho admitido y desplaza la discusión hacia la pertinencia del gasto. -->
 
 ### Explicacion Pedagogica
 Una estrategia pragmática eficaz concede lo que el adversario demostró y desplaza la discusión hacia el punto que realmente importa. Al aceptar el deterioro de las calles, el equipo evita una descalificación y conserva intacta la fuerza de su petición. Esta disciplina de réplica es la que distingue los debates bien construidos de las confrontaciones en las que nadie escucha.
