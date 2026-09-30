@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-12-grade-4-subject-lectura_critica",
+    "generated_at": "2026-09-30T07:52:07.084Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-4-2026-W12-la-descripcion-de-personajes-y-lugares-001-MASTERY-bundle-v1",
+      "statement": "Lee con atención la descripción que el autor hace del mercado.\n\n*El mercado de Usaquén, en Bogotá, despierta antes que los carros. Por un pasillo angosto se oye el arrastre de las cajas de madera. En una esquina flota el olor a café recién molido, y en otra el olor a pan de queso. Los toldos son de colores vivos y las señoras que venden llaman a los clientes con una voz que se oye en toda la cuadra.*\n\n¿Qué detalle de esa descripción corresponde al sentido del oído?",
+      "context": "En un colegio de Bogotá, la profesora de cuarto lee la descripción de un mercado y les pide a los estudiantes que anoten qué detalles usa el autor en cada sentido.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los toldos de colores vivos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese detalle se percibe con la vista, porque los colores se ven, así que corresponde al sentido de la vista y no al del oído."
+        },
+        {
+          "letter": "B",
+          "text": "El arrastre de las cajas de madera por el pasillo",
+          "is_correct": true,
+          "feedback": "Correcto. Ese detalle es un sonido, porque la descripción dice que se oye, y por eso el lector imagina el ruido del mercado."
+        },
+        {
+          "letter": "C",
+          "text": "El olor a café recién molido",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese detalle se percibe con el olfato, porque la descripción dice que el olor flota en la esquina y no que se oiga."
+        },
+        {
+          "letter": "D",
+          "text": "La cantidad de señoras que llaman a los clientes",
+          "is_correct": false,
+          "feedback": "Incorrecto. La lista de vendedoras no es un sonido por sí misma, porque el único sonido nombrado de forma directa en el fragmento es el arrastre de las cajas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una descripción buena activa los sentidos del lector: la vista, el oído, el olfato, el tacto y el gusto. Reconocer cuál detalle pertenece a cada sentido ayuda a los estudiantes a entender por qué un texto se siente vivo. Cuando leen, pueden anotarse mentalmente los detalles de cada sentido para ver si el autor los usó todos o solo algunos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-4-2026-W12-la-descripcion-de-personajes-y-lugares-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W12-la-descripcion-de-personajes-y-lugares-001-MASTERY-bundle-v2",
+      "statement": "Lee con atención estas dos versiones que escribió un compañero de clase.\n\n*Versión uno: la plaza era grande.*\n*Versión dos: en la plaza había bancos de madera pintada de verde, un puesto de barro y el olor a empanadas recién fritas.*\n\n¿Cuál es la diferencia entre las dos versiones?",
+      "context": "En un colegio de Manizales, la profesora de cuarto compara con los estudiantes dos formas de describir el mismo lugar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las dos dicen lo mismo, porque ocupan el mismo número de palabras",
+          "is_correct": false,
+          "feedback": "Incorrecto. El número de palabras no es lo que hace que dos descripciones sean iguales, y la segunda versión muestra muchos más datos sobre la plaza."
+        },
+        {
+          "letter": "B",
+          "text": "La primera versión es mejor, porque nombrar una característica ocupa menos espacio en la página",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una descripción corta no es mejor por ser corta, y la segunda versión le da al lector muchos más elementos para imaginar la plaza."
+        },
+        {
+          "letter": "C",
+          "text": "La segunda versión describe a una persona, mientras que la primera versión describe un lugar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las dos versiones describen la misma plaza, y lo que cambia no es el objeto descrito sino el modo de describirlo."
+        },
+        {
+          "letter": "D",
+          "text": "La primera nombra una característica general, mientras que la segunda muestra el lugar con detalles que se pueden ver, oír y oler",
+          "is_correct": true,
+          "feedback": "Correcto. \"Grande\" es un adjetivo que califica la plaza entera, y los bancos, el puesto de barro y el olor a empanadas son detalles concretos que el lector puede imaginar."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Nombrar con un adjetivo es como poner una etiqueta: sirve, pero deja al lector con poca información. Mostrar con detalles es entregarle al lector imágenes concretas que cada quien completa con su imaginación. Esta diferencia entre decir y mostrar es una de las herramientas más útiles que un lector puede reconocer en cualquier texto.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-4-2026-W12-la-descripcion-de-personajes-y-lugares-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W12-la-descripcion-de-personajes-y-lugares-001-MASTERY-bundle-v3",
+      "statement": "Lee con atención la descripción que un compañero escribió en el taller.\n\n*Don Arturo es un señor muy simpático que vive en Armenia y le gusta mucho caminar.*\n\nEl grupo propone cuatro cambios. ¿Cuál de los cuatro cambios le agregaría un detalle concreto que el lector pueda imaginar?",
+      "context": "En un taller de escritura de cuarto en Armenia, la profesora pide que los estudiantes mejoren la descripción de un personaje con detalles concretos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Escribir que tiene las manos agrietadas de tanto tallar madera y que siempre lleva un sombrero de paja con una cinta azul",
+          "is_correct": true,
+          "feedback": "Correcto. Las manos agrietadas y la cinta azul son detalles que el lector puede ver, y por eso ayudan a imaginar a Don Arturo tal como es."
+        },
+        {
+          "letter": "B",
+          "text": "Escribir que es una persona complaciente y querido, y que por eso todos en el barrio lo quieren mucho",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Complaciente\" y \"querido\" son adjetivos, así que la versión seguiría siendo una lista de etiquetas sin ningún detalle que el lector pudiera ver."
+        },
+        {
+          "letter": "C",
+          "text": "Escribir que es un señor alto, amable, activo y muy conocido en el barrio",
+          "is_correct": false,
+          "feedback": "Incorrecto. La versión seguiría siendo una lista de adjetivos, y por eso no le daría al lector ninguna imagen nueva de Don Arturo."
+        },
+        {
+          "letter": "D",
+          "text": "Escribir que tiene muchas características y que por eso la descripción quedó mejor que antes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Decir que tiene muchas características no es un detalle del personaje, es un comentario sobre la descripción, y el lector sigue sin saber cómo es Don Arturo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un detalle concreto describe algo que se puede ver, oír, tocar u oler, y por eso ayuda al lector a construir una imagen mental del personaje. Añadir un detalle no significa llenar la oración de palabras, sino escoger una o dos que valgan la pena. Practicar esta elección enseña a los estudiantes a escribir con más precisión y con menos adjetivos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-4-2026-W12-la-descripcion-de-personajes-y-lugares-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W12-la-descripcion-de-personajes-y-lugares-001-MASTERY-bundle-v4",
+      "statement": "Lee con atención esta oración que aparece en el cuaderno del grupo.\n\n*En la plaza de Bucaramanga se oye el tintineo de las campanas de la iglesia y llega el olor a bollos de queso recién hechos.*\n\nEl grupo de cuarto debe elegir, entre cuatro oraciones, la que mejor describe la plaza donde viven, en el centro de Bucaramanga y cerca del río. ¿Cuál de las cuatro oraciones hace que el lector vea y oiga el lugar, en vez de solo nombrarlo?",
+      "context": "En un colegio de Ibagué, la profesora de cuarto pide al grupo que elija la oración que mejor muestra un lugar de la ciudad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El parque de la ciudad es grande y tiene muchos árboles",
+          "is_correct": false,
+          "feedback": "Incorrecto. La oración dice que es grande y que tiene árboles, pero eso son características generales que no dejan ver ni oír el lugar en detalle."
+        },
+        {
+          "letter": "B",
+          "text": "La plaza de Bucaramanga es un sitio bonito y muy limpio",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Bonito\" y \"limpio\" son adjetivos que califican la plaza entera, y no le dan al lector ningún detalle concreto que pueda imaginar."
+        },
+        {
+          "letter": "C",
+          "text": "En la plaza de Bucaramanga se oye el tintineo de las campanas de la iglesia y llega el olor a bollos de queso recién hechos",
+          "is_correct": true,
+          "feedback": "Correcto. El tintineo es un sonido y el olor a bollos es un olor, así que la oración le da al lector dos sentidos y una imagen clara de la plaza."
+        },
+        {
+          "letter": "D",
+          "text": "La plaza de Bucaramanga está ubicada en el centro de la ciudad, cerca del río",
+          "is_correct": false,
+          "feedback": "Incorrecto. La oración informa sobre la ubicación, pero no le da al lector ningún detalle que le permita ver u oír el lugar."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una oración que describe con sentidos permite que el lector vea, oiga o huela el lugar, mientras que una oración con solo adjetivos solo le dice cómo es. Reconocer esta diferencia ayuda a los estudiantes a entender por qué algunos textos se quedan en la memoria y otros no. También les sirve para revisar sus propias descripciones antes de entregar un trabajo escrito.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-4-2026-W12-la-descripcion-de-personajes-y-lugares-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W12-la-descripcion-de-personajes-y-lugares-001-MASTERY-bundle-v5",
+      "statement": "Lee con atención este fragmento de la descripción del mercado de Usaquén, en Bogotá.\n\n*Por un pasillo angosto se oye el arrastre de las cajas de madera. Las señoras que venden llaman a los clientes con una voz que se oye en toda la cuadra.*\n\nEn esa descripción, el autor pudo haber escrito simplemente que el mercado era ruidoso. ¿Cuál es la mejor explicación de esa decisión del autor?",
+      "context": "En un círculo de lectura de cuarto en Villavicencio, el grupo analiza por qué el autor no escribió solamente que el mercado era ruidoso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la palabra \"ruidoso\" ocupa más espacio en la página y el autor quería llenar la descripción",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Ruidoso\" es una palabra corta, y además el autor no estaba buscando llenar espacio sino dar información al lector."
+        },
+        {
+          "letter": "B",
+          "text": "Porque los detalles concretos permiten que el lector imagine ese mercado, mientras que un solo adjetivo solo le dice cómo es",
+          "is_correct": true,
+          "feedback": "Correcto. El sonido de las cajas y las voces de las señoras reconstruyen el mercado en la cabeza del lector, algo que un solo adjetivo no logra."
+        },
+        {
+          "letter": "C",
+          "text": "Porque en cuarto grado está prohibido usar adjetivos dentro de una descripción",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los adjetivos se pueden usar, y el fragmento de la plaza lo demuestra al escribir que era grande o que era bonito."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el autor quiso escribir una lista de los productos que se venden en el mercado",
+          "is_correct": false,
+          "feedback": "Incorrecto. La descripción no es una lista de productos, y el café y el pan de queso aparecen como olores y no como un inventario."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Analizar es explicar por qué el autor eligió una forma de escribir y no otra. Cuando un escritor cambia un adjetivo por un detalle concreto, está dando al lector la posibilidad de construir la escena por sí mismo. Reconocer esta decisión enseña a los estudiantes que escribir y leer son dos caras del mismo trabajo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-4-2026-W12-la-descripcion-de-personajes-y-lugares-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W12-la-descripcion-de-personajes-y-lugares-001-MASTERY-bundle-v6",
+      "statement": "Lee con atención esta descripción de una casa.\n\n*Las paredes de la casa tenían comecho verdoso, el techo de teja estaba cubierto de musgo y en el patio se oían ranas todas las noches. Dentro de la casa el aire era fresco y húmedo, y la abuela guardaba la ropa en un cajón de cedro para que no se mojara.*\n\n¿Qué se puede inferir a partir de esos detalles?",
+      "context": "En un colegio de Cartagena, la profesora de cuarto pide al grupo que infiera qué tipo de lugar y qué época del año muestra la descripción.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que es un lugar húmedo y lluvioso, y que la descripción probablemente corresponde a una época de lluvias",
+          "is_correct": true,
+          "feedback": "Correcto. El comecho, el musgo, las ranas y la humedad de la casa aparecen casi siempre en lugares con mucha lluvia, y por eso la estación más probable es la de lluvias."
+        },
+        {
+          "letter": "B",
+          "text": "Que es un lugar muy seco y con mucha luz, y que la escena es de un día de verano sin lluvia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguno de los detalles habla de sequedad ni de sol intenso, y el musgo y las ranas indican lo contrario, porque necesitan agua para vivir."
+        },
+        {
+          "letter": "C",
+          "text": "Que es un almacén cerrado al público, porque el comecho de las paredes no deja entrar a nadie",
+          "is_correct": false,
+          "feedback": "Incorrecto. El fragmento no dice que la casa esté cerrada, y el comecho es un detalle de humedad, no una barrera que impida el paso."
+        },
+        {
+          "letter": "D",
+          "text": "Que es una casa de tres pisos, porque el techo de teja y el musgo ocupan mucha altura",
+          "is_correct": false,
+          "feedback": "Incorrecto. El fragmento no menciona ningún segundo piso ni escalera, así que el número de pisos no se puede inferir de esos detalles."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Inferir es deducir algo que el texto no dice pero que sus detalles permiten suponer. Los autores cuentan con que el lector una esas pistas para construir la escena completa. Practicar inferencias enseña a los estudiantes a leer entre líneas y a justificar sus conclusiones con palabras del propio texto.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Inferencial",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-4-2026-W12-la-descripcion-de-personajes-y-lugares-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W12-la-descripcion-de-personajes-y-lugares-001-MASTERY-bundle-v7",
+      "statement": "Lee con atención la frase que trae un compañero de tu grupo.\n\n*Para describir bien un lugar basta con poner muchos adjetivos: un parque precioso, grande, verde y tranquilo.*\n\n¿Cuál es la respuesta más sólida que puede darle el grupo a esa afirmación?",
+      "context": "En la discusión de lectura de un colegio en Bogotá, un grupo de cuarto evalúa una afirmación sobre cómo se describen los lugares.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La afirmación es correcta, porque entre más adjetivos tenga una descripción, mejor va a quedar el texto",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una lista larga de adjetivos cansa al lector y no le da ninguna imagen, porque los adjetivos por sí solos no muestran el lugar."
+        },
+        {
+          "letter": "B",
+          "text": "La afirmación es correcta, y por eso un buen escritor nunca debe escribir frases cortas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las frases cortas con un detalle concreto suelen ser mejores que las frases largas de adjetivos, y eso no tiene nada que ver con el número de palabras."
+        },
+        {
+          "letter": "C",
+          "text": "La afirmación es incorrecta, porque los adjetivos no sirven de nada en una descripción",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los adjetivos sí sirven cuando combinan con detalles concretos, y por eso el error no es usarlos, sino usarlos solos, sin ningún detalle que los respalde."
+        },
+        {
+          "letter": "D",
+          "text": "La afirmación es insuficiente, porque una lista de adjetivos no muestra el lugar y hacen falta detalles que el lector pueda imaginar",
+          "is_correct": true,
+          "feedback": "Correcto. \"Precioso, grande, verde y tranquilo\" son solo etiquetas, y el lector necesita detalles concretos como un sonido, un olor o un objeto para ver el parque."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar es emitir un juicio sobre lo que dice otra persona y defenderlo con razones y con el texto. Cuando el grupo critica la lista de adjetivos, no está diciendo que sean palabras prohibidas, sino que por sí solas no construyen ninguna imagen. Una respuesta sólida en cuarto grado siempre incluye un ejemplo del texto que respalda el juicio.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-4-2026-W12-la-descripcion-de-personajes-y-lugares-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W12-la-descripcion-de-personajes-y-lugares-001-MASTERY-bundle-v8",
+      "statement": "Lee con atención los dos textos que se pegaron en la cartelera.\n\n*El primero describe a Don Arturo, el carpintero de Armenia, con sus manos agrietadas, su sombrero de paja y el olor a viruta que deja en la ropa.*\n*El segundo describe el mercado de Usaquén, en Bogotá, con el arrastre de las cajas, el olor a café y los toldos de colores.*\n\n¿Cuál es la respuesta que mejor explica la relación entre las dos descripciones?",
+      "context": "Como tarea final, los estudiantes de cuarto comparan en una cartelera del salón la descripción de un personaje y la descripción de un lugar, y defienden su conclusión.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La primera descripción es mejor, porque a un personaje nunca se le describen sonidos ni olores",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un personaje también se puede describir con todos los sentidos, y el olor a viruta de la primera descripción funciona muy bien."
+        },
+        {
+          "letter": "B",
+          "text": "La segunda descripción es mejor, porque a un lugar no se le pueden dar detalles concretos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los dos textos usan detalles concretos, y el segundo precisamente es el que más detalles sensoriales tiene."
+        },
+        {
+          "letter": "C",
+          "text": "Las dos descripciones usan el mismo recurso, que es mostrar con detalles en vez de solo nombrar, y por eso el lector puede ver a la persona y ver el lugar",
+          "is_correct": true,
+          "feedback": "Correcto. En los dos textos hay manos, telas, cajas, olores y colores, y esos detalles son los que permiten que el lector imagine cada escena."
+        },
+        {
+          "letter": "D",
+          "text": "Las dos descripciones son iguales, porque en las dos el autor solo usa adjetivos como \"grande\" y \"bonito\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguno de los dos textos se apoya en una lista de adjetivos, así que la explicación no corresponde a lo que dicen las descripciones."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Comparar dos textos permite descubrir que un mismo recurso de escritura sirve tanto para describir personas como para describir lugares. El detalle concreto es válido en los dos casos porque en los dos ayuda al lector a construir una imagen. Cuando los estudiantes reconocen esto, pueden usarlo con seguridad en sus propias descripciones de personajes y de lugares.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-4-2026-W12-la-descripcion-de-personajes-y-lugares-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    }
+  ]
+}
