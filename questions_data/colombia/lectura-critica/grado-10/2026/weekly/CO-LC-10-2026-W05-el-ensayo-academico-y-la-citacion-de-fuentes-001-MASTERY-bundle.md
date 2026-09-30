@@ -65,10 +65,10 @@ Un ensayo académico empieza por una afirmación que el autor se compromete a so
 ¿Cuál de los siguientes elementos permite rastrear una fuente en el Texto 1?
 
 ### Opciones
-- [x] A) Los dos nombres de los autores y el año de publicación entre paréntesis.
-  <!-- feedback: Correcto. Esos datos identifican a los responsables del estudio y permiten localizarlo en una biblioteca o en una base de datos. -->
-- [ ] B) El uso de la palabra «según», que introduce la referencia a la fuente.
+- [ ] A) El uso de la palabra «según», que introduce la referencia a la fuente.
   <!-- feedback: Incorrecto. El vocablo introduce una fuente, pero no permite identificarla ni localizarla por sí solo. -->
+- [x] B) Los dos nombres de los autores y el año de publicación entre paréntesis.
+  <!-- feedback: Correcto. Esos datos identifican a los responsables del estudio y permiten localizarlo en una biblioteca o en una base de datos. -->
 - [ ] C) El número 68, que corresponde al porcentaje de los lectores de pantalla.
   <!-- feedback: Incorrecto. La cifra identifica el resultado medido, y no señala quién lo midió ni cuándo lo publicó. -->
 - [ ] D) El número de página 118, que aparece al final de la cita.
@@ -88,14 +88,14 @@ Rastrear una fuente exige nombre, año y medio de publicación. En el Texto 1 es
 En el Texto 2, la expresión «Hoy en día todos sabemos que la pantalla daña la vista» presenta la afirmación como:
 
 ### Opciones
-- [x] A) Un conocimiento compartido por todos, que por eso no necesita demostración ni fuente.
-  <!-- feedback: Correcto. La expresión apela a un consenso general, y ese es justamente el recurso que sustituye la evidencia. -->
-- [ ] B) Una conclusión recientemente demostrada por un estudio de laboratorio.
+- [ ] A) Una conclusión recientemente demostrada por un estudio de laboratorio.
   <!-- feedback: Incorrecto. El texto no menciona estudios, y la afirmación se apoya solo en la creencia común. -->
-- [ ] C) Una opinión personal que el autor reconoce como discutible.
+- [ ] B) Una opinión personal que el autor reconoce como discutible.
   <!-- feedback: Incorrecto. El Texto 2 no presenta esa frase como opinión, y más adelante la sostiene con datos. -->
-- [ ] D) Una definición técnica del tiempo de uso de la pantalla.
+- [ ] C) Una definición técnica del tiempo de uso de la pantalla.
   <!-- feedback: Incorrecto. La frase no define nada, y se limita a afirmar una relación de causa. -->
+- [x] D) Un conocimiento compartido por todos, que por eso no necesita demostración ni fuente.
+  <!-- feedback: Correcto. La expresión apela a un consenso general, y ese es justamente el recurso que sustituye la evidencia. -->
 
 ### Explicacion Pedagogica
 Reconocer cómo se presenta una verdad como cierta evita confundir la seguridad del enunciado con su solidez. La frase del Texto 2 invoca un saber común que no se muestra y que por eso no puede comprobarse. En un ensayo académico ese tipo de apoyo debe sustituirse por una fuente, y esa sustitución es el trabajo central de la semana.
@@ -111,12 +111,12 @@ Reconocer cómo se presenta una verdad como cierta evita confundir la seguridad 
 Un estudiante de Armenia quiere reescribir la primera oración del Texto 2 añadiendo la fuente que necesita. ¿Cuál formulación lo consigue?
 
 ### Opciones
-- [x] A) «Hoy en día se sostiene que la pantalla daña la vista (García y Soto, 2024).»
-  <!-- feedback: Correcto. La atribución entra entre paréntesis al final de la afirmación, como exige la norma de citación. -->
-- [ ] B) «Hoy en día, según la ciencia, la pantalla daña la vista.»
+- [ ] A) «Hoy en día, según la ciencia, la pantalla daña la vista.»
   <!-- feedback: Incorrecto. La palabra ciencia no identifica ningún autor, año ni medio de publicación. -->
-- [ ] C) «Hoy en día la pantalla daña la vista, aunque algunos lo niegan.»
+- [ ] B) «Hoy en día la pantalla daña la vista, aunque algunos lo niegan.»
   <!-- feedback: Incorrecto. La frase conserva la afirmación sin fuente y añade una oposición que el texto original no contenía. -->
+- [x] C) «Hoy en día se sostiene que la pantalla daña la vista (García y Soto, 2024).»
+  <!-- feedback: Correcto. La atribución entra entre paréntesis al final de la afirmación, como exige la norma de citación. -->
 - [ ] D) «Hoy en día nadie discute que la pantalla daña la vista.»
   <!-- feedback: Incorrecto. La formulación refuerza la apelación al consenso y sigue sin atribuir la afirmación a nadie. -->
 
@@ -134,10 +134,10 @@ Añadir una cita no consiste en dejar de afirmar, sino en atribuir. La forma cor
 En el Texto 1, la expresión «según García y Soto (2024)» cumple una función discursiva específica dentro del párrafo. ¿Cuál es?
 
 ### Opciones
-- [x] A) Introduce la evidencia que sostiene la afirmación del párrafo y delimita de quién es el dato.
-  <!-- feedback: Correcto. La atribución separa lo que demuestra la fuente de lo que afirma la autora del ensayo. -->
-- [ ] B) Sustituye la tesis del ensayo por la conclusión de los autores citados.
+- [ ] A) Sustituye la tesis del ensayo por la conclusión de los autores citados.
   <!-- feedback: Incorrecto. La tesis del Texto 1 se enuncia al final y es propia, y no se reemplaza en ningún momento. -->
+- [x] B) Introduce la evidencia que sostiene la afirmación del párrafo y delimita de quién es el dato.
+  <!-- feedback: Correcto. La atribución separa lo que demuestra la fuente de lo que afirma la autora del ensayo. -->
 - [ ] C) Convierte una cita directa en una cita indirecta, porque reproduce el dato palabra por palabra.
   <!-- feedback: Incorrecto. El dato se reformula con palabras propias, y por eso la cita es indirecta. -->
 - [ ] D) Abre una comparación entre dos estudios distintos sobre la lectura en pantalla.
@@ -180,12 +180,12 @@ Analizar la oración con que comienza un ensayo ayuda a ver cómo el autor prese
 Compare cómo se sostiene la afirmación principal en los dos textos base. ¿Cuál análisis describe correctamente la diferencia?
 
 ### Opciones
-- [x] A) El Texto 1 apoya su afirmación en una fuente nombrada con autor y año, y el Texto 2 la apoya en un consenso que no muestra.
-  <!-- feedback: Correcto. Los dos textos afirman, pero solo uno permite devolver la afirmación a alguien que la respalda. -->
-- [ ] B) Los dos textos apoyan su afirmación en una fuente, porque los dos mencionan a un investigador.
+- [ ] A) Los dos textos apoyan su afirmación en una fuente, porque los dos mencionan a un investigador.
   <!-- feedback: Incorrecto. El Texto 2 menciona a un investigador sin nombre, sin año y sin medio de publicación. -->
-- [ ] C) Los dos textos apoyan su afirmación en cifras propias, calculadas por los autores.
+- [ ] B) Los dos textos apoyan su afirmación en cifras propias, calculadas por los autores.
   <!-- feedback: Incorrecto. Solo el Texto 1 usa una cifra con fuente, y el Texto 2 no calcula ningún valor propio. -->
+- [x] C) El Texto 1 apoya su afirmación en una fuente nombrada con autor y año, y el Texto 2 la apoya en un consenso que no muestra.
+  <!-- feedback: Correcto. Los dos textos afirman, pero solo uno permite devolver la afirmación a alguien que la respalda. -->
 - [ ] D) Los dos textos apoyan su afirmación en la norma vigente sobre pantallas en el aula.
   <!-- feedback: Incorrecto. Ninguno de los dos textos menciona normas, y ambos se apoyan en afirmaciones y datos. -->
 
@@ -203,14 +203,14 @@ Comparar dos ensayos permite ver que la diferencia no está en que uno cite y el
 En el Texto 2, la expresión «Según internet» dirige la afirmación a:
 
 ### Opciones
-- [x] A) Un destinatario general que no puede identificar la fuente, de modo que la afirmación queda sin respaldo comprobable.
-  <!-- feedback: Correcto. La expresión supone un conocimiento compartido y anónimo, y con ello impide toda verificación. -->
-- [ ] B) Un investigador concreto que publicó el dato en 2011 y cuyo nombre se omite por brevedad.
+- [ ] A) Un investigador concreto que publicó el dato en 2011 y cuyo nombre se omite por brevedad.
   <!-- feedback: Incorrecto. El texto nunca da ese nombre, y la omisión no puede atribuirse a una decisión de brevedad. -->
-- [ ] C) Un comité académico que revisó el ensayo antes de publicarlo.
+- [ ] B) Un comité académico que revisó el ensayo antes de publicarlo.
   <!-- feedback: Incorrecto. El Texto 2 no menciona revisión académica, y presenta el dato como claramente establecido. -->
-- [ ] D) El docente del curso, a quien el estudiante entrega el trabajo para su corrección.
+- [ ] C) El docente del curso, a quien el estudiante entrega el trabajo para su corrección.
   <!-- feedback: Incorrecto. La expresión se dirige al público del ensayo, y no a una instancia de evaluación. -->
+- [x] D) Un destinatario general que no puede identificar la fuente, de modo que la afirmación queda sin respaldo comprobable.
+  <!-- feedback: Correcto. La expresión supone un conocimiento compartido y anónimo, y con ello impide toda verificación. -->
 
 ### Explicacion Pedagogica
 Nombrar mal al destinatario es una falla de citación y también de argumentación. Cuando el respaldo se atribuye a internet, el lector no puede pedir cuentas a nadie y la afirmación queda flotando sin responsable. Reconocer esta indefinición ayuda al estudiante a entender por qué una norma de citación exige nombre, año y medio de publicación.
@@ -295,14 +295,14 @@ Declarar una fuente no siempre significa aceptar que esa fuente sea confiable. L
 En un trabajo en equipo de Medellín, el profesor entrega una lista de fuentes y pide que cada grupo sostenga su postura con dos de ellas. ¿Cuál es la mejor manera de usar esa lista?
 
 ### Opciones
-- [x] A) Elegir dos fuentes que midan lo que la postura afirma y citarlas con autor, año y medio de publicación.
-  <!-- feedback: Correcto. La fuente se escoge por su pertinencia y se declara de forma que el lector pueda localizarla. -->
-- [ ] B) Elegir dos fuentes cualesquiera y citarlas con el nombre del portal donde aparecieron.
+- [ ] A) Elegir dos fuentes cualesquiera y citarlas con el nombre del portal donde aparecieron.
   <!-- feedback: Incorrecto. Citar sin datos de publicación impide rastrear el origen y anula el sentido de la cita. -->
-- [ ] C) Citar las dos fuentes solo en el último párrafo para no interrumpir la lectura.
+- [ ] B) Citar las dos fuentes solo en el último párrafo para no interrumpir la lectura.
   <!-- feedback: Incorrecto. Reúnir todas las citas al final rompe la relación entre afirmación y respaldo dentro del ensayo. -->
-- [ ] D) Citar una sola fuente, pero escribirla completa en cada aparición a lo largo del texto.
+- [ ] C) Citar una sola fuente, pero escribirla completa en cada aparición a lo largo del texto.
   <!-- feedback: Incorrecto. Repetir la referencia completa en cada mención rompe la norma y dificulta la lectura del trabajo. -->
+- [x] D) Elegir dos fuentes que midan lo que la postura afirma y citarlas con autor, año y medio de publicación.
+  <!-- feedback: Correcto. La fuente se escoge por su pertinencia y se declara de forma que el lector pueda localizarla. -->
 
 ### Explicacion Pedagogica
 Usar bien una lista de fuentes consiste en escoger por pertinencia y declarar de forma rastreable. La fuente se elige según lo que la postura afirma, y la referencia se escribe con los datos que permiten localizarla. Este criterio evita dos errores frecuentes: citar sin identificar el documento y acumular referencias sin conectarlas con ninguna afirmación del ensayo.

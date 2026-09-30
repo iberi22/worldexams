@@ -65,10 +65,10 @@ Reconocer el tipo de texto evita confundir una opinión fundada con una opinión
 ¿Cuál de los siguientes enunciados del Texto 2 permite identificar el origen de la cifra?
 
 ### Opciones
-- [x] A) «aplicada en 2025 a 4.200 estudiantes de undécimo grado de 78 municipios»
-  <!-- feedback: Correcto. La frase indica el año, el tamaño de la muestra y el alcance territorial del estudio. -->
-- [ ] B) «el 22 por ciento lee por gusto»
+- [ ] A) «el 22 por ciento lee por gusto»
   <!-- feedback: Incorrecto. Esta frase enuncia el resultado de la medición, y no describe cómo se obtuvo ese resultado. -->
+- [x] B) «aplicada en 2025 a 4.200 estudiantes de undécimo grado de 78 municipios»
+  <!-- feedback: Correcto. La frase indica el año, el tamaño de la muestra y el alcance territorial del estudio. -->
 - [ ] C) «el 61 por ciento dedica más de una hora diaria a lectura en pantalla»
   <!-- feedback: Incorrecto. Este es un segundo resultado de la misma encuesta, y no el origen del primero. -->
 - [ ] D) «sin el detalle del método y de los otros indicadores»
@@ -88,14 +88,14 @@ Un dato solo es verificable cuando el texto informa quién lo produjo y cómo. L
 En el Texto 1, la expresión «Dato duro que llega de todas partes» presenta el dato como:
 
 ### Opciones
-- [x] A) Una verdad establecida por su propia condición de cifra, sin necesidad de mostrar cómo se obtuvo.
-  <!-- feedback: Correcto. La expresión presupone que el número se basta a sí mismo, y esa presuposición es el punto débil del texto. -->
-- [ ] B) Un resultado obtenido en un laboratorio con equipos especializados.
+- [ ] A) Un resultado obtenido en un laboratorio con equipos especializados.
   <!-- feedback: Incorrecto. El texto no menciona laboratorios ni equipos, y la expresión solo apela a la seguridad del dato. -->
-- [ ] C) Una demostración definitiva de que existe una emergencia educativa nacional.
+- [ ] B) Una demostración definitiva de que existe una emergencia educativa nacional.
   <!-- feedback: Incorrecto. El texto habla de un problema, pero no aporta pruebas para sostener que sea una emergencia. -->
-- [ ] D) Un dato que niega la responsabilidad de las familias y de la escuela.
+- [ ] C) Un dato que niega la responsabilidad de las familias y de la escuela.
   <!-- feedback: Incorrecto. El Texto 1 atribuye la causa a la familia y a la escuela, y no usa la cifra para negar nada. -->
+- [x] D) Una verdad establecida por su propia condición de cifra, sin necesidad de mostrar cómo se obtuvo.
+  <!-- feedback: Correcto. La expresión presupone que el número se basta a sí mismo, y esa presuposición es el punto débil del texto. -->
 
 ### Explicacion Pedagogica
 La expresión «dato duro» funciona como un argumento de autoridad disfrazado de cifra. Quien la usa da por sentado que un número no necesita explicación, y con esa afirmación le transfiere al lector la tarea de comprobarlo. Reconocer ese valor favorable es lo que permite responder a un texto de opinión con preguntas precisas y no solo con opiniones.
@@ -111,12 +111,12 @@ La expresión «dato duro» funciona como un argumento de autoridad disfrazado d
 Un estudiante de Armenia decide verificar el Texto 1. ¿Qué debe buscar en primer lugar?
 
 ### Opciones
-- [x] A) El informe original de la medición, con la pregunta hecha, la población entrevistada y el instrumento aplicado.
-  <!-- feedback: Correcto. Sin ese documento, la cifra sigue siendo una afirmación sin respaldo verificable. -->
-- [ ] B) La biografía del autor de la publicación, para conocer su formación académica.
+- [ ] A) La biografía del autor de la publicación, para conocer su formación académica.
   <!-- feedback: Incorrecto. La formación del autor puede dar contexto, pero no permite saber si la cifra es correcta. -->
-- [ ] C) Otro artículo de opinión que repita la misma cifra y la confirme.
+- [ ] B) Otro artículo de opinión que repita la misma cifra y la confirme.
   <!-- feedback: Incorrecto. Dos textos que repiten un dato sin fuente no se corroboran entre sí, y solo multiplican el mismo vacío. -->
+- [x] C) El informe original de la medición, con la pregunta hecha, la población entrevistada y el instrumento aplicado.
+  <!-- feedback: Correcto. Sin ese documento, la cifra sigue siendo una afirmación sin respaldo verificable. -->
 - [ ] D) La cantidad de libros vendidos en el país durante el mismo año.
   <!-- feedback: Incorrecto. Esa cifra mide el comercio del libro, y no explica qué mide el 22 por ciento del Texto 1. -->
 
@@ -134,10 +134,10 @@ Verificar una cifra consiste en rastrear su procedimiento, no en buscar opinione
 En el Texto 1, la oración «El problema no es la pantalla ni el tiempo: es que la familia dejó de pedir libros y la escuela dejó de exigirlos» cumple una función discursiva específica. ¿Cuál es?
 
 ### Opciones
-- [x] A) Descarta dos causas posibles e instala en su lugar una causa que el autor declara más importante.
-  <!-- feedback: Correcto. La construcción descarta, contrasta y reemplaza, y con ello fija la causa que el resto del texto sostiene. -->
-- [ ] B) Presenta dos pruebas numéricas que respaldan la postura del autor.
+- [ ] A) Presenta dos pruebas numéricas que respaldan la postura del autor.
   <!-- feedback: Incorrecto. La oración no contiene cifras, porque en ella el autor solo maneja causas posibles. -->
+- [x] B) Descarta dos causas posibles e instala en su lugar una causa que el autor declara más importante.
+  <!-- feedback: Correcto. La construcción descarta, contrasta y reemplaza, y con ello fija la causa que el resto del texto sostiene. -->
 - [ ] C) Concede la tesis de un adversario antes de discutirla.
   <!-- feedback: Incorrecto. No hay ninguna postura contraria en el Texto 1, y el autor no concede nada a un rival. -->
 - [ ] D) Define el término lectura con precisión técnica.
@@ -180,14 +180,14 @@ Comprender cómo se resuelve la referencia de un sintagma elíptico ayuda a eval
 En el Texto 1, la oración «Con ese número en la mano no hay discusión que valga» busca:
 
 ### Opciones
-- [x] A) Cerrar el debate antes de que empiece, porque presenta la cifra como un obstáculo que no admite discusión.
-  <!-- feedback: Correcto. La frase descarta de antemano cualquier réplica, y con ello evita que el lector busque la fuente. -->
-- [ ] B) Invitar al lector a consultar el informe original de la medición.
+- [ ] A) Invitar al lector a consultar el informe original de la medición.
   <!-- feedback: Incorrecto. El texto no menciona ningún informe, y la frase hace lo contrario: desaconseja la búsqueda. -->
-- [ ] C) Aclarar que el dato proviene de una encuesta nacional con datos publicados.
+- [ ] B) Aclarar que el dato proviene de una encuesta nacional con datos publicados.
   <!-- feedback: Incorrecto. El Texto 1 no atribuye el dato a ninguna encuesta, y esa ausencia es precisamente su falla. -->
-- [ ] D) Describir el método empleado para recoger la información.
+- [ ] C) Describir el método empleado para recoger la información.
   <!-- feedback: Incorrecto. Ninguna descripción metodológica aparece en el Texto 1, y la cifra se presenta sin explicación. -->
+- [x] D) Cerrar el debate antes de que empiece, porque presenta la cifra como un obstáculo que no admite discusión.
+  <!-- feedback: Correcto. La frase descarta de antemano cualquier réplica, y con ello evita que el lector busque la fuente. -->
 
 ### Explicacion Pedagogica
 Un cierre de debate es una jugada pragmática, y por eso puede valorarse sin discutir el tema. Cuando un texto afirma que no hay discusión posible, está haciendo suyo el trabajo de examinar las fuentes y le transfiere ese trabajo al lector, que queda sin margen para preguntar. Reconocer esta maniobra es lo que permite responder a un texto de opinión con preguntas y no solo con opiniones.
@@ -203,12 +203,12 @@ Un cierre de debate es una jugada pragmática, y por eso puede valorarse sin dis
 Los dos textos base citan el mismo 22 por ciento. ¿Cuál análisis describe correctamente la diferencia en su uso?
 
 ### Opciones
-- [x] A) El Texto 1 lo usa como conclusión y el Texto 2 como punto de partida, porque el segundo lo acompaña de método y de otros indicadores.
-  <!-- feedback: Correcto. La cifra ocupa un lugar distinto en la estructura de cada texto, y eso cambia lo que el dato prueba. -->
-- [ ] B) Los dos textos llegan a la misma conclusión, porque ninguno acepta que la lectura en pantalla tenga un peso alto.
+- [ ] A) Los dos textos llegan a la misma conclusión, porque ninguno acepta que la lectura en pantalla tenga un peso alto.
   <!-- feedback: Incorrecto. El Texto 2 informa que el 61 por ciento lee más de una hora diaria en pantalla, y ese dato sí pesa en su lectura. -->
-- [ ] C) Los dos textos critican el uso del celular en las aulas, porque los dos relacionan lectura y pantalla.
+- [ ] B) Los dos textos critican el uso del celular en las aulas, porque los dos relacionan lectura y pantalla.
   <!-- feedback: Incorrecto. El Texto 2 no critica el celular, y se limita a informar un indicador de la misma medición. -->
+- [x] C) El Texto 1 lo usa como conclusión y el Texto 2 como punto de partida, porque el segundo lo acompaña de método y de otros indicadores.
+  <!-- feedback: Correcto. La cifra ocupa un lugar distinto en la estructura de cada texto, y eso cambia lo que el dato prueba. -->
 - [ ] D) Los dos textos son igualmente verificables, porque los dos presentan la cifra con el mismo nivel de detalle.
   <!-- feedback: Incorrecto. El Texto 1 no indica fuente, muestra ni método, y por eso no es verificable. -->
 
@@ -249,10 +249,10 @@ Un texto correctivo no empieza por negar el dato, sino por aceptarlo y desplazar
 Un docente de Ibagué propone trabajar el Texto 1 en clase. ¿Cuál de los siguientes juicios evalúa correctamente esa propuesta?
 
 ### Opciones
-- [x] A) La propuesta es pertinente, porque el texto permite analizar cómo una cifra sin fuente verificable se convierte en un argumento.
-  <!-- feedback: Correcto. Un caso real de publicación sin fuente es un material valioso para enseñar a dudar de los números. -->
-- [ ] B) La propuesta es pertinente, porque la cifra del 22 por ciento ya aparece confirmada por el Texto 2.
+- [ ] A) La propuesta es pertinente, porque la cifra del 22 por ciento ya aparece confirmada por el Texto 2.
   <!-- feedback: Incorrecto. El Texto 2 confirma el número, y eso no convierte el Texto 1 en un texto con fuente identificable. -->
+- [x] B) La propuesta es pertinente, porque el texto permite analizar cómo una cifra sin fuente verificable se convierte en un argumento.
+  <!-- feedback: Correcto. Un caso real de publicación sin fuente es un material valioso para enseñar a dudar de los números. -->
 - [ ] C) La propuesta es impertinente, porque una publicación de un blog no es un texto válido para la lectura crítica.
   <!-- feedback: Incorrecto. El valor del material está en que imita prácticas comunes que la lectura crítica debe detectar. -->
 - [ ] D) La propuesta es impertinente, porque las cifras estadísticas no deben discutirse con estudiantes de décimo grado.
@@ -272,14 +272,14 @@ Valorar la pertinencia de un material exige mirar qué destreza permite entrenar
 Un estudiante de Armenia escribe un resumen del Texto 2 y debe dejar clara la relación entre el texto y su fuente. ¿Cuál formulación lo consigue mejor?
 
 ### Opciones
-- [x] A) «La encuesta nacional de hábitos de lectura, aplicada en 2025 a 4.200 estudiantes de 78 municipios, encontró que el 22 por ciento lee por gusto.»
-  <!-- feedback: Correcto. La atribución aparece dentro del período y permite reconstruir quién mide, a quién y cuándo. -->
-- [ ] B) «Según el 22 por ciento de los estudiantes, la lectura en pantalla no es un problema.»
+- [ ] A) «Según el 22 por ciento de los estudiantes, la lectura en pantalla no es un problema.»
   <!-- feedback: Incorrecto. La frase convierte el porcentaje en sujeto de una opinión, y eso falsea lo que el dato dice. -->
-- [ ] C) «Como se ha demostrado, la lectura en pantalla es la forma dominante de leer.»
+- [ ] B) «Como se ha demostrado, la lectura en pantalla es la forma dominante de leer.»
   <!-- feedback: Incorrecto. La expresión no muestra nada y no atribuye el dato a nadie, porque no hay fuente identificable. -->
-- [ ] D) «En un artículo de prensa se lee que la lectura en pantalla predomina entre los jóvenes.»
+- [ ] C) «En un artículo de prensa se lee que la lectura en pantalla predomina entre los jóvenes.»
   <!-- feedback: Incorrecto. La referencia al tipo de publicación es genérica y no identifica autor, medio, año ni estudio. -->
+- [x] D) «La encuesta nacional de hábitos de lectura, aplicada en 2025 a 4.200 estudiantes de 78 municipios, encontró que el 22 por ciento lee por gusto.»
+  <!-- feedback: Correcto. La atribución aparece dentro del período y permite reconstruir quién mide, a quién y cuándo. -->
 
 ### Explicacion Pedagogica
 Una atribución correcta se reconoce por tres rasgos: un sujeto que investiga, una fecha y un alcance preciso. La opción elegida reúne los tres dentro del párrafo, de modo que quien lea el resumen podrá rastrear el estudio sin volver al original. Esta es la diferencia entre citar y mencionar, y es la que el estudiante necesita dominar antes de redactar su ensayo de grado undécimo.

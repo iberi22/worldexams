@@ -65,12 +65,12 @@ La instancia tiene una estructura fija: destinatario, acto recurrido, razón del
 En el Texto 1, la expresión «interponer instancia» significa:
 
 ### Opciones
-- [x] A) Presentar un recurso para que otra autoridad revise una decisión ya tomada.
-  <!-- feedback: Correcto. La instancia es el mecanismo formal de revisión, y por eso se dirige a la rectoría y no a los profesores. -->
-- [ ] B) Guardar silencio mientras la institución vuelve a decidir sobre el mismo asunto.
+- [ ] A) Guardar silencio mientras la institución vuelve a decidir sobre el mismo asunto.
   <!-- feedback: Incorrecto. El texto no guarda silencio, porque presenta documentos, razones y una petición concreta. -->
-- [ ] C) Interrumpir de forma temporal las clases para que los estudiantes descansen.
+- [ ] B) Interrumpir de forma temporal las clases para que los estudiantes descansen.
   <!-- feedback: Incorrecto. El consejo no pide suspender el curso, sino trasladar la fecha de una sola prueba. -->
+- [x] C) Presentar un recurso para que otra autoridad revise una decisión ya tomada.
+  <!-- feedback: Correcto. La instancia es el mecanismo formal de revisión, y por eso se dirige a la rectoría y no a los profesores. -->
 - [ ] D) Convocar a una asamblea para aprobar un nuevo cronograma.
   <!-- feedback: Incorrecto. La asamblea ya se realizó y su acta se adjunta, y en ella no se aprobó ningún cronograma. -->
 
@@ -88,10 +88,10 @@ Comprender el valor de una palabra técnica evita errores graves de interpretaci
 En el Texto 2, la oración «Invitamos a la comunidad a un debate abierto en el auditorium, el próximo martes a las cuatro de la tarde» cumple principalmente una función de:
 
 ### Opciones
-- [x] A) Convocatoria, porque devuelve la discusión al grupo y fija un espacio, un día y una hora.
-  <!-- feedback: Correcto. La frase transforma la respuesta administrativa en un escenario de contraste entre las dos posturas. -->
-- [ ] B) Derogación, porque deja sin efecto la resolución 214 de 2026.
+- [ ] A) Derogación, porque deja sin efecto la resolución 214 de 2026.
   <!-- feedback: Incorrecto. El texto no deroga nada, y la resolución sigue vigente mientras no se modifique. -->
+- [x] B) Convocatoria, porque devuelve la discusión al grupo y fija un espacio, un día y una hora.
+  <!-- feedback: Correcto. La frase transforma la respuesta administrativa en un escenario de contraste entre las dos posturas. -->
 - [ ] C) Sanción, porque el Texto 2 castiga a la asamblea por haber firmado el acta.
   <!-- feedback: Incorrecto. No hay ninguna sanción en el Texto 2, y el texto no impone castigo alguno. -->
 - [ ] D) Definición, porque explica qué se entiende por debate abierto.
@@ -111,14 +111,14 @@ La pragmática permite preguntarse por qué el autor dice algo y qué efecto bus
 Cuatro estudiantes de Neiva proponen encabezados para una instancia. ¿Cuál cumple con la estructura exigida por el Texto 1?
 
 ### Opciones
-- [x] A) «A la rectoría de la institución educativa de Neiva. El consejo estudiantil de Neiva interpone instancia contra la resolución 214 de 2026 y solicita su modificación.»
-  <!-- feedback: Correcto. El encabezado identifica al destinatario, al recurrente, al acto recurrido y a lo que se pide. -->
-- [ ] B) «Estimados señores: queremos hablar del examen de vacaciones.»
+- [ ] A) «Estimados señores: queremos hablar del examen de vacaciones.»
   <!-- feedback: Incorrecto. La frase no identifica el acto recurrido ni formula una petición, de modo que no puede responderse. -->
-- [ ] C) «El consejo estudiantil de Neiva solicita ser recibido por la rectoría.»
+- [ ] B) «El consejo estudiantil de Neiva solicita ser recibido por la rectoría.»
   <!-- feedback: Incorrecto. El encabezado pide una audiencia, y no una modificación de la resolución que se quiere recurrir. -->
-- [ ] D) «Resolución 214 de 2026, que fija el examen final dentro de la segunda semana de vacaciones.»
+- [ ] C) «Resolución 214 de 2026, que fija el examen final dentro de la segunda semana de vacaciones.»
   <!-- feedback: Incorrecto. Este es el enunciado del acto que se recurre, y no el texto del recurso que se presenta. -->
+- [x] D) «A la rectoría de la institución educativa de Neiva. El consejo estudiantil de Neiva interpone instancia contra la resolución 214 de 2026 y solicita su modificación.»
+  <!-- feedback: Correcto. El encabezado identifica al destinatario, al recurrente, al acto recurrido y a lo que se pide. -->
 
 ### Explicacion Pedagogica
 Aplicar la estructura de la instancia es una habilidad que se verifica en la primera línea del escrito. Un encabezado eficaz permite saber de entrada quién decide, qué se impugna y qué se espera como resultado. Esta disciplina ahorra tiempo en la vida administrativa y, en el trabajo escolar, hace que el recurso sea evaluable porque deja por escrito su propio objeto.
@@ -157,14 +157,14 @@ Refutar no siempre significa negar. Una forma elegante de respuesta consiste en 
 En la oración «Adjuntamos el acta de la asamblea con 214 firmas y las fotografías del aviso publicado en la cartelera», ¿qué estructura sintáctica organiza el conjunto?
 
 ### Opciones
-- [x] A) Dos oraciones coordinadas asindéticas unidas por la conjunción y, con un sintagma adjetivo que modifica a la segunda.
-  <!-- feedback: Correcto. El sintagma «publicado en la cartelera» precisa dónde aparece el aviso, y la coordinación enumera las dos pruebas. -->
-- [ ] B) Una oración con subordinación temporal, porque la segunda parte indica el momento en que se adjuntó el acta.
+- [ ] A) Una oración con subordinación temporal, porque la segunda parte indica el momento en que se adjuntó el acta.
   <!-- feedback: Incorrecto. No hay ninguna marca de tiempo en la oración, y ambas partes se acumulan al mismo nivel. -->
-- [ ] C) Una oración en pasiva refleja, porque el consejo no aparece como sujeto de ninguna de las dos partes.
+- [ ] B) Una oración en pasiva refleja, porque el consejo no aparece como sujeto de ninguna de las dos partes.
   <!-- feedback: Incorrecto. El sujeto es el consejo, presente en el verbo «adjuntamos», y no hay pasiva refleja. -->
-- [ ] D) Una oración con aposición explicativa, porque el número 214 aclara el significado del sustantivo firmas.
+- [ ] C) Una oración con aposición explicativa, porque el número 214 aclara el significado del sustantivo firmas.
   <!-- feedback: Incorrecto. El número está unido al sustantivo por preposición, y no forma una aposición explicativa. -->
+- [x] D) Dos oraciones coordinadas asindéticas unidas por la conjunción y, con un sintagma adjetivo que modifica a la segunda.
+  <!-- feedback: Correcto. El sintagma «publicado en la cartelera» precisa dónde aparece el aviso, y la coordinación enumera las dos pruebas. -->
 
 ### Explicacion Pedagogica
 La sintaxis de un recurso administrativo ordena el peso de las pruebas. Una coordinación asindética permite acumular evidencias sin sumar oraciones largas, y el sintagma adjetivo precisado evita que el lector tenga que suponer dónde se publicó el aviso. Este dominio es transferible a cualquier texto expositivo escolar, donde enumerar datos y modificar sustantivos con precisión evita ambigüedades.
@@ -180,10 +180,10 @@ La sintaxis de un recurso administrativo ordena el peso de las pruebas. Una coor
 Compare cómo usan los dos textos base los datos que citan. ¿Cuál análisis describe correctamente la diferencia?
 
 ### Opciones
-- [x] A) El Texto 1 emplea la resolución y el acta para sostener la contradicción, mientras que el Texto 2 los reutiliza para mostrar que no prueban lo que el Texto 1 afirma.
-  <!-- feedback: Correcto. Es un mismo conjunto de datos puesto a trabajar en dos direcciones, y eso caracteriza el debate. -->
-- [ ] B) Los dos textos emplean los datos para demostrar que la comunidad está de acuerdo con el traslado del examen.
+- [ ] A) Los dos textos emplean los datos para demostrar que la comunidad está de acuerdo con el traslado del examen.
   <!-- feedback: Incorrecto. El Texto 2 niega justamente esa conclusión y explica por qué las firmas no la prueban. -->
+- [x] B) El Texto 1 emplea la resolución y el acta para sostener la contradicción, mientras que el Texto 2 los reutiliza para mostrar que no prueban lo que el Texto 1 afirma.
+  <!-- feedback: Correcto. Es un mismo conjunto de datos puesto a trabajar en dos direcciones, y eso caracteriza el debate. -->
 - [ ] C) Los dos textos dejan los datos sin usar y se apoyan solo en la autoridad de la rectoría.
   <!-- feedback: Incorrecto. El Texto 1 no invoca la autoridad de la rectoría, y además utiliza la resolución y el acta. -->
 - [ ] D) El Texto 1 cita la resolución y el Texto 2 la expide, de modo que solo uno de los textos usa datos ajenos.
@@ -203,12 +203,12 @@ Leer en debate implica seguirle el rastro a los datos, porque es ahí donde las 
 Un comité de Cúcuta debe escoger, entre los fragmentos de los dos textos, el que mejor sostiene la tesis del Texto 1 frente a la respuesta institucional. ¿Cuál fragmento cumple esa función?
 
 ### Opciones
-- [x] A) «No pedimos suprimir la prueba, pedimos que se traslade.»
-  <!-- feedback: Correcto. La frase delimita con exactitud lo que se pide, y esa precisión impide que la respuesta desvíe la discusión. -->
-- [ ] B) «La resolución 214 de 2026 no contradice el cronograma de septiembre.»
+- [ ] A) «La resolución 214 de 2026 no contradice el cronograma de septiembre.»
   <!-- feedback: Incorrecto. Este enunciado pertenece al Texto 2 y sostiene la postura opuesta a la del consejo estudiantil. -->
-- [ ] C) «Adjuntamos el acta de la asamblea con 214 firmas.»
+- [ ] B) «Adjuntamos el acta de la asamblea con 214 firmas.»
   <!-- feedback: Incorrecto. La frase aporta una prueba, pero no enuncia la contradicción que constituye el núcleo de la tesis. -->
+- [x] C) «No pedimos suprimir la prueba, pedimos que se traslade.»
+  <!-- feedback: Correcto. La frase delimita con exactitud lo que se pide, y esa precisión impide que la respuesta desvíe la discusión. -->
 - [ ] D) «Invitamos a la comunidad a un debate abierto en el auditorium.»
   <!-- feedback: Incorrecto. La convocatoria pertenece al Texto 2 y abre la discusión, pero no defiende la postura del Texto 1. -->
 
@@ -272,14 +272,14 @@ Valorar un argumento exige separar dos preguntas: si lo que se afirma es cierto 
 El comité de Neiva encuentra el reglamento interno de la institución, que obliga a notificar toda resolución con quince días de anticipación. ¿Qué relación intertextual puede establecer con el Texto 1 y qué efecto produce?
 
 ### Opciones
-- [x] A) Aporta una base normativa que el Texto 1 no tenía, porque traslada el reclamo del cumplimiento de una promesa administrativa a un procedimiento que el reglamento obliga a cumplir.
-  <!-- feedback: Correcto. El reglamento convierte una promesa documental en una obligación con plazo, y eso refuerza la instancia. -->
-- [ ] B) Contradice al Texto 1, porque el reglamento fija una fecha distinta para la notificación de resoluciones.
+- [ ] A) Contradice al Texto 1, porque el reglamento fija una fecha distinta para la notificación de resoluciones.
   <!-- feedback: Incorrecto. El reglamento no fija la fecha del examen, sino el plazo para notificar cualquier resolución. -->
-- [ ] C) Es citado literalmente en la última oración del Texto 1, que lo incluye entre los documentos adjuntos.
+- [ ] B) Es citado literalmente en la última oración del Texto 1, que lo incluye entre los documentos adjuntos.
   <!-- feedback: Incorrecto. El Texto 1 adjunta el acta y las fotografías, y el reglamento no aparece entre esos documentos. -->
-- [ ] D) No existe relación, porque el reglamento trata únicamente de asuntos disciplinarios y no de procedimientos.
+- [ ] C) No existe relación, porque el reglamento trata únicamente de asuntos disciplinarios y no de procedimientos.
   <!-- feedback: Incorrecto. El reglamento regula el procedimiento general de las decisiones, y ese es el punto en disputa. -->
+- [x] D) Aporta una base normativa que el Texto 1 no tenía, porque traslada el reclamo del cumplimiento de una promesa administrativa a un procedimiento que el reglamento obliga a cumplir.
+  <!-- feedback: Correcto. El reglamento convierte una promesa documental en una obligación con plazo, y eso refuerza la instancia. -->
 
 ### Explicacion Pedagogica
 Un buen recurso rara vez se apoya en un solo documento. Incorporar una norma institucional permite pasar de una queja razonable a un reclamo con fundamento procedimental verificable. Esta operación de ampliación del respaldo es transferible a otros contextos, y le enseña al estudiante que antes de exigir una respuesta debe preguntarse qué reglas existentes sustentan lo que pide.
@@ -295,12 +295,12 @@ Un buen recurso rara vez se apoya en un solo documento. Incorporar una norma ins
 En el debate del martes, el equipo que sostiene la tesis del Texto 1 debe responder a la objeción sobre el cronograma. ¿Cuál es la mejor estrategia pragmática?
 
 ### Opciones
-- [x] A) Aceptar que aquel documento era un plan de actividades y sostener que, de todos modos, la institución creó una expectativa documentada ante las familias y debe respetarla o avisar con tiempo.
-  <!-- feedback: Correcto. Conceder el dato y defender el efecto esperado de la decisión es la réplica más difícil de rebatir. -->
-- [ ] B) Negar que el cronograma de septiembre exista, porque mientras el documento no se muestre la objeción pierde fuerza.
+- [ ] A) Negar que el cronograma de septiembre exista, porque mientras el documento no se muestre la objeción pierde fuerza.
   <!-- feedback: Incorrecto. El cronograma fue entregado y está en manos del consejo, y negarlo dañaría la credibilidad de todo el equipo. -->
-- [ ] C) Repetir la cifra de 214 firmas hasta que el público se convenza de que la comunidad está de acuerdo con el traslado.
+- [ ] B) Repetir la cifra de 214 firmas hasta que el público se convenza de que la comunidad está de acuerdo con el traslado.
   <!-- feedback: Incorrecto. Un número de firmantes mide participación, y usarlo como sustituto de una razón debilita la postura. -->
+- [x] C) Aceptar que aquel documento era un plan de actividades y sostener que, de todos modos, la institución creó una expectativa documentada ante las familias y debe respetarla o avisar con tiempo.
+  <!-- feedback: Correcto. Conceder el dato y defender el efecto esperado de la decisión es la réplica más difícil de rebatir. -->
 - [ ] D) Señalar que la respuesta de la rectoría es un documento interno y que, por eso, no puede discutirse en público.
   <!-- feedback: Incorrecto. Si el documento no puede discutirse, la convocatoria al debate pierde su propio sentido. -->
 
