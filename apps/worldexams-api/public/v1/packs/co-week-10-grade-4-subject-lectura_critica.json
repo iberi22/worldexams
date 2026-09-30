@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-10-grade-4-subject-lectura_critica",
+    "generated_at": "2026-09-30T07:52:07.083Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-4-2026-W10-el-resumen-de-un-texto-001-MASTERY-bundle-v1",
+      "statement": "Lee con atención la explicación de la profesora.\n\n*Un resumen cuenta lo más importante de un texto en pocas palabras. Cuando copiamos, repetimos todas las palabras del texto original. Cuando resumimos, quitamos los detalles pequeños y dejamos solo lo que el lector necesita saber.*\n\nSegún esta explicación de la profesora, ¿qué es un resumen?",
+      "context": "En un colegio de Barranquilla, la profesora de cuarto explica la diferencia entre copiar y resumir.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un texto largo donde se cuenta todo lo que dice el original, palabra por palabra",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es copiar, y la profesora se opone justamente a esa forma de presentar la información."
+        },
+        {
+          "letter": "B",
+          "text": "Es un dibujo que representa lo que pasó en el texto original",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un resumen se escribe con palabras, y en las instrucciones de la profesora no aparece ningún dibujo."
+        },
+        {
+          "letter": "C",
+          "text": "Es un texto corto que cuenta lo más importante de lo que dice el texto original",
+          "is_correct": true,
+          "feedback": "Correcto. Esa es la definición exacta, porque el resumen conserva la idea principal y elimina los detalles que no hacen falta."
+        },
+        {
+          "letter": "D",
+          "text": "Es la opinión personal que un lector escribe sobre lo que leyó",
+          "is_correct": false,
+          "feedback": "Incorrecto. El resumen no incluye opiniones, y la profesora habla de quitar detalles y no de decir lo que uno piensa."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Reconocer qué es un resumen es el primer paso para poder escribirlo. La diferencia con copiar está en qué se conserva, porque el resumen guarda la idea principal y descarta lo accesorio. Cuando los niños manejan esta diferencia, sus textos se vuelven más claros desde muy pronto.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Literal",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-4-2026-W10-el-resumen-de-un-texto-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W10-el-resumen-de-un-texto-001-MASTERY-bundle-v2",
+      "statement": "La profesora proyectó un texto sobre las tortugas marinas y luego su resumen.\n\n*Texto original: las tortugas marinas llegan a las playas de la costa colombiana para desovar. Durante la noche suben a la arena y ponen sus huevos. Después entierran el nido y regresan al mar. Cada hembra pone entre ochenta y ciento veinte huevos. El texto ocupa cinco párrafos. Resumen: las tortugas marinas llegan de noche a las playas colombianas, ponen sus huevos en la arena y luego regresan al mar.*\n\n¿Qué deja por fuera el resumen que sí estaba en el texto original?",
+      "context": "En un salón de cuarto grado de Cartagena, la profesora pide a los niños que comparen un texto con su resumen.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La cantidad exacta de huevos que pone cada tortuga y la extensión de cinco párrafos",
+          "is_correct": true,
+          "feedback": "Correcto. El resumen conserva el grupo completo de acciones, y por eso puede quitar el dato numérico y la extensión sin perder lo esencial."
+        },
+        {
+          "letter": "B",
+          "text": "El lugar donde llegan las tortugas marinas y la hora en que lo hacen",
+          "is_correct": false,
+          "feedback": "Incorrecto. El resumen sí dice que llegan de noche a las playas colombianas, así que esos dos datos no quedaron por fuera."
+        },
+        {
+          "letter": "C",
+          "text": "La acción de poner los huevos y la acción de regresar al mar",
+          "is_correct": false,
+          "feedback": "Incorrecto. El resumen menciona las dos acciones, porque son justamente la idea principal del texto sobre las tortugas."
+        },
+        {
+          "letter": "D",
+          "text": "El dato de que las tortugas entierran el nido antes de regresar al mar",
+          "is_correct": false,
+          "feedback": "Incorrecto. El resumen no lo dice, pero esa acción no es necesaria para que el lector entienda de qué trata el texto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprender un resumen exige ver con claridad qué se conservó y qué se quitó del texto original. Los detalles numéricos y la extensión son los primeros que salen, porque no cambian lo que el lector entiende. Cuando los estudiantes identifican lo que se dejó por fuera, pueden escribir resúmenes más precisos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-4-2026-W10-el-resumen-de-un-texto-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W10-el-resumen-de-un-texto-001-MASTERY-bundle-v3",
+      "statement": "Lee el resumen incompleto de un texto sobre el mercado de Medellín.\n\n*El mercado de Medellín abre temprano, cuando los marchantes llegan con sus carretillas, y durante el día se escuchan las voces de quienes compran y venden. Resumen: el mercado de Medellín abre temprano y durante el día se escuchan muchas voces de compradores y vendedores. ____________*\n\n¿Cuál de estas oraciones debe completar el resumen para que conserve lo más importante del texto?",
+      "context": "En Medellín, los estudiantes de cuarto reciben un resumen para completar en el cuaderno.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los vendedores de cada puesto gritan el precio de los tomates desde las seis de la mañana",
+          "is_correct": false,
+          "feedback": "Incorrecto. El detalle del tomate y las seis de la mañana son detalles pequeños, y el resumen ya deja claro que hay voces de vendedores."
+        },
+        {
+          "letter": "B",
+          "text": "La gente llega temprano y todo el día se compran y se venden productos",
+          "is_correct": true,
+          "feedback": "Correcto. Esa oración recoge las dos ideas centrales, que son la llegada temprana y la actividad de compra y venta que dura todo el día."
+        },
+        {
+          "letter": "C",
+          "text": "El mercado de Medellín es más famoso que el de las otras ciudades del país",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa comparación no aparece en el texto del que viene el resumen, así que no se puede conservar."
+        },
+        {
+          "letter": "D",
+          "text": "El mercado está abierto los lunes, los miércoles y los viernes",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no dice qué días abre el mercado, y por eso esa oración no pertenece a este resumen."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicar la idea principal significa saber qué oración conserva lo esencial de un texto. Un buen resumen no necesita todos los datos, sino los que explican de qué trata el texto original. Practicar esta elección ayuda a los estudiantes a distinguir lo importante de lo accesorio en cualquier lectura.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-4-2026-W10-el-resumen-de-un-texto-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W10-el-resumen-de-un-texto-001-MASTERY-bundle-v4",
+      "statement": "Lee el cuento que la profesora dictó en el salón.\n\n*Doña Rosa tejía canastos en una vereda de Bucaramanga. Un día una camioneta se perdió por un aguacero y le pidió un lugar donde pasar la noche. Ella le dio un canasto viejo y le preparó un tinto. Al día siguiente el conductor le dejó un sobre con dinero, pero ella se lo devolvió porque dijo que a un desconocido no se le cobra por alojarlo.*\n\n¿Cuál es el mejor resumen de este cuento para un niño que nunca lo ha leído?",
+      "context": "En un taller de lectura de Bucaramanga, los niños deben escribir el resumen de un cuento corto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una camioneta se perdió en una vereda, Doña Rosa no abrió la puerta y el conductor durmió en la calle",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese resumen no describe lo que pasó, porque Doña Rosa sí abrió la puerta y le dio un lugar donde pasar la noche."
+        },
+        {
+          "letter": "B",
+          "text": "En una vereda de Bucaramanga viven muchas personas que tejen canastos y toman tinto por la mañana",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa oración describe la costumbre de la vereda, pero no cuenta lo que le pasó a Doña Rosa en este cuento."
+        },
+        {
+          "letter": "C",
+          "text": "El conductor perdió su camioneta por un aguacero y tuvo que buscar un hostal cercano",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese resumen no menciona lo que hizo Doña Rosa, y el cuento se trata justamente de su generosidad."
+        },
+        {
+          "letter": "D",
+          "text": "Doña Rosa alojó a un conductor perdido, le dio un canasto y un tinto, y después le devolvió lo que él le pagó",
+          "is_correct": true,
+          "feedback": "Correcto. Esa oración conserva las tres acciones centrales, que son alojar, dar la bienvenida y devolver el dinero."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Escribir un resumen exige seleccionar las acciones que explican el asunto completo del texto. Si se quita lo que hizo la protagonista, el lector se queda sin la idea que da sentido al cuento. Por eso un buen resumen incluye a quien actúa y lo que consigue, y no solo el escenario donde todo pasó.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Inferencial",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-4-2026-W10-el-resumen-de-un-texto-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W10-el-resumen-de-un-texto-001-MASTERY-bundle-v5",
+      "statement": "Un grupo de niños tiene tres textos: el original, un resumen y una copia.\n\n*El texto original ocupa cinco párrafos. El resumen ocupa tres oraciones. La copia ocupa los mismos cinco párrafos con las mismas palabras del original.*\n\n¿Por qué el resumen tiene menos líneas que el texto del que se hizo?",
+      "context": "En un colegio de Bogotá, un grupo de cuarto analiza por qué el resumen es más corto que el texto original.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el resumen escribe con palabras más largas que el texto original",
+          "is_correct": false,
+          "feedback": "Incorrecto. La longitud de las palabras no explica nada, y en este caso el resumen usa un vocabulario más sencillo."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el resumen se escribe a mano y el texto original se escribe en computador",
+          "is_correct": false,
+          "feedback": "Incorrecto. La forma de escribir no cambia lo que se conserva ni lo que se quita, y el fragmento no habla de computador."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el resumen quita los detalles y conserva solo las ideas que explican el asunto principal",
+          "is_correct": true,
+          "feedback": "Correcto. Al eliminar lo accesorio el resumen queda más corto, pero lo que dice sigue siendo suficiente para entender el texto original."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el resumen siempre ocupa exactamente la mitad de las líneas del texto original",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay una regla fija de esa proporción, y el tamaño del resumen depende de la cantidad de ideas principales."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Analizar un resumen es entender la lógica de lo que se quitó y lo que se dejó. La reducción de tamaño tiene un motivo, que es la eliminación de los detalles que no hacen falta. Cuando los estudiantes ven ese criterio, pueden aplicar el mismo razonamiento a textos mucho más largos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-4-2026-W10-el-resumen-de-un-texto-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W10-el-resumen-de-un-texto-001-MASTERY-bundle-v6",
+      "statement": "La profesora proyectó dos textos con sus resúmenes en la misma diapositiva.\n\n*Texto uno: un cuento sobre una niña que planta un árbol en el patio de su casa en Cartagena y lo riega todas las tardes. Resumen: una niña planta un árbol en su casa y lo riega cada tarde. Texto dos: un aviso de un museo que dice los pingüinos no vuelan, con tres párrafos sobre las aletas y con fecha de publicación. Resumen: el museo informa que los pingüinos no vuelan y explica por qué con el uso de sus aletas.*\n\n¿Qué diferencia hay entre los dos resúmenes?",
+      "context": "En un salón de cuarto grado de Cartagena, la profesora pide comparar el resumen de dos textos distintos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el primero es un resumen y el segundo es un cuento, porque el segundo habla de un museo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los dos textos vienen con su resumen, y ninguno de los dos resúmenes cuenta una historia."
+        },
+        {
+          "letter": "B",
+          "text": "Que el primero deja por fuera el lugar y el horario, y el segundo conserva el dato principal y su explicación",
+          "is_correct": true,
+          "feedback": "Correcto. El primer resumen quita la ciudad y la hora de la tarde, mientras que el segundo mantiene lo esencial del aviso del museo."
+        },
+        {
+          "letter": "C",
+          "text": "Que el segundo resumen es más corto porque las aletas son difíciles de explicar",
+          "is_correct": false,
+          "feedback": "Incorrecto. El segundo resumen conserva la idea y su explicación, así que su largo no depende de la dificultad de una palabra."
+        },
+        {
+          "letter": "D",
+          "text": "Que el primero resume un cuento y el segundo resume un aviso, por eso los dos se escriben igual",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los dos usan la técnica, pero uno se apoya en las acciones del personaje y el otro en la información del aviso."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comparar dos resúmenes muestra que la técnica funciona igual en textos de diferente género. Lo que cambia es qué se considera importante, y no el número de líneas ni la extensión. Cuando los estudiantes notan esta diferencia, pueden resumir cuentos y textos informativos con la misma seguridad.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-4-2026-W10-el-resumen-de-un-texto-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W10-el-resumen-de-un-texto-001-MASTERY-bundle-v7",
+      "statement": "*Un compañero de tu grupo afirma: \"Resumir un texto es escribirlo otra vez pero con menos palabras, usando exactamente las mismas frases del original\".*\n\n¿Cuál es la respuesta más sólida que puede darle el grupo a esa afirmación?",
+      "context": "En la discusión de lectura de Cúcuta, un compañero de cuarto defiende una afirmación sobre el resumen.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La afirmación es incorrecta, porque un resumen usa palabras propias y solo conserva la idea principal, no las frases del original",
+          "is_correct": true,
+          "feedback": "Correcto. Un resumen es un texto nuevo, y por eso escribe con otras palabras lo que era lo importante en la lectura."
+        },
+        {
+          "letter": "B",
+          "text": "La afirmación es correcta, porque un resumen siempre debe sonar igual que el texto que resume",
+          "is_correct": false,
+          "feedback": "Incorrecto. Repetir las frases del original convierte el resumen en una copia, y la profesora pide justamente lo contrario."
+        },
+        {
+          "letter": "C",
+          "text": "La afirmación es parcialmente correcta, porque solo los textos informativos se resumen con palabras propias",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los cuentos también se resumen con palabras propias, y por eso esa diferencia de género no salva la afirmación."
+        },
+        {
+          "letter": "D",
+          "text": "La afirmación es incorrecta, porque un resumen debe tener exactamente el mismo número de líneas que el texto",
+          "is_correct": false,
+          "feedback": "Incorrecto. El error de la afirmación está en las palabras y no en el número de líneas, y por eso esta respuesta no la refuta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar una afirmación exige refutarla con razones y no solo decir que se siente mal. Un resumen es un texto nuevo que reexpresa lo esencial con palabras propias, y no una versión recortada del original. Cuando los estudiantes defienden esta diferencia con ejemplos, aprenden a distinguir síntesis de copia.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-4-2026-W10-el-resumen-de-un-texto-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W10-el-resumen-de-un-texto-001-MASTERY-bundle-v8",
+      "statement": "Un equipo recibió tres versiones para resumir un texto que cuenta cómo unos estudiantes de Cúcuta construyeron un aviso de madera con botellas de vidrio reciclado.\n\n*La versión uno repite cinco párrafos del texto original casi palabra por palabra. La versión dos dice: el equipo construyó un aviso de madera con botellas de vidrio reciclado, y una oración explica cómo lo hicieron. La versión tres dice: el equipo construyó un aviso enorme que todo el mundo admiró, aunque el texto no dice de qué material ni para qué sirve.*\n\n¿Cuál de las tres versiones cumple mejor lo que un resumen debe hacer?",
+      "context": "Como tarea final, los estudiantes de cuarto eligen el mejor resumen entre tres versiones de un mismo texto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La versión uno, porque copia todo el texto y así no se puede equivocar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Copiar el texto entero no es resumir, y además repetir las palabras no garantiza que el resultado sea útil."
+        },
+        {
+          "letter": "B",
+          "text": "La versión tres, porque agregar datos que no estaban en el texto hace que el resumen sea más interesante",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un resumen no inventa información, y esa versión agrega una palabra enorme que el texto nunca menciona."
+        },
+        {
+          "letter": "C",
+          "text": "La versión dos, porque repite las mismas frases del original y así respeta la forma de escribir del autor",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa versión sí conserva lo importante, pero el criterio de repetir las frases no es el de un buen resumen."
+        },
+        {
+          "letter": "D",
+          "text": "La versión dos, porque conserva la idea principal y la información que la explica, sin agregar nada que el texto no tenga",
+          "is_correct": true,
+          "feedback": "Correcto. Esa versión deja claro qué construyeron y con qué material, y por eso el lector entiende el texto sin leerlo entero."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Elegir el mejor resumen exige revisar tres cosas a la vez: que sea corto, que conserve lo importante y que no agregue datos. Ninguna de esas condiciones se cumple sola, por eso el criterio final combina las tres. Con esta evaluación los estudiantes quedan preparados para resumir cualquier texto del año con rigor.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-4-2026-W10-el-resumen-de-un-texto-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    }
+  ]
+}
