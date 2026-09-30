@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-35-grade-9-subject-lengua",
+    "generated_at": "2026-09-30T05:53:13.046Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-9-2026-W35-el-humor-y-la-satira-en-la-literatura-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la diferencia entre humor y sátira en literatura?",
+      "context": "En Bogotá, la profesora de noveno escribe en el tablero dos definiciones y pide distinguirlas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El humor pertenece a la poesía y la sátira pertenece a la novela",
+          "is_correct": false,
+          "feedback": "Ambos recursos aparecen en cualquier género literario, y lo que los diferencia es su intención, no el formato."
+        },
+        {
+          "letter": "B",
+          "text": "El humor requiere un final feliz, mientras que la sátira exige un final triste",
+          "is_correct": false,
+          "feedback": "La risa es la clave del humor, pero la sátira también la utiliza, y su desenlace no depende del tono."
+        },
+        {
+          "letter": "C",
+          "text": "El humor divierte sin atacar, mientras que la sátira usa la risa para denunciar una conducta o una situación",
+          "is_correct": true,
+          "feedback": "El humor relajó y divierte, en cambio la sátira dirige su ironía contra un blanco para provocar reflexión o cambio."
+        },
+        {
+          "letter": "D",
+          "text": "El humor es un recurso antiguo y la sátira es una invención reciente",
+          "is_correct": false,
+          "feedback": "La sátira es tan antigua como la literatura occidental, y ambos recursos existen desde la antigüedad."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El humor busca entretener y crear complicidad con el lector o el público, mientras que la sátira emplea el humor con una intención crítica: señalar un defecto y provocar una reacción. La diferencia está en la presencia de un blanco, es decir, de aquello o aquello que es objeto de burla. Comprender esta frontera permite analizar por qué una misma escena puede resultar divertida en un contexto y offensive en otro.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Semantico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W35-el-humor-y-la-satira-en-la-literatura-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W35-el-humor-y-la-satira-en-la-literatura-001-MASTERY-bundle-v2",
+      "statement": "Un personaje dice: \"Cuando entro a una sala, el aire mismo se pone de pie y me saluda\". ¿Qué recurso humorístico se está usando?",
+      "context": "En Medellín, un profesor lee un fragmento en el que un personaje exagera su propia importancia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ironía, porque el autor dice lo contrario de lo que piensa",
+          "is_correct": false,
+          "feedback": "La ironía exige una distancia entre lo dicho y lo pensado por el autor, que aquí no aparece."
+        },
+        {
+          "letter": "B",
+          "text": "Metáfora, porque se comparan dos elementos de categorías distintas",
+          "is_correct": false,
+          "feedback": "Hay una imagen, pero lo característico es la exageración desmedida, no la comparación entre categorías."
+        },
+        {
+          "letter": "C",
+          "text": "Símil, porque se establece una comparación con la palabra como",
+          "is_correct": false,
+          "feedback": "No hay una comparación explícita con \"como\", de modo que el recurso no es un símil."
+        },
+        {
+          "letter": "D",
+          "text": "Hipérbole, porque se exagera desmedidamente la importancia del personaje",
+          "is_correct": true,
+          "feedback": "La hipérbole amplifica una cualidad hasta lo absurdo, y aquí se exagera el reconocimiento social del personaje."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La hipérbole es una figura que aumenta o disminuye los rasgos de algo para producir un efecto exagerado. Cuando el personaje se describe como alguien tan importante que el aire lo saluda, la exageración genera humor al poner en ridículo su vanidad. Identificar el mecanismo del chiste es el paso inicial para analizar el humor con criterio.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semantico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W35-el-humor-y-la-satira-en-la-literatura-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W35-el-humor-y-la-satira-en-la-literatura-001-MASTERY-bundle-v3",
+      "statement": "Un discurso del siglo XIX se burla de una figura religiosa muy representativa de su época. ¿Qué explica que hoy se lea de otra manera?",
+      "context": "En Cali, la profesora pregunta por qué el mismo chiste no funciona igual en todos los contextos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El contexto histórico cambió, y el mismo enunciado ya no activa las mismas sincerely convenciones de lectura",
+          "is_correct": true,
+          "feedback": "El humor depende de un conjunto de referencias compartidas, y si esas referencias cambian, cambia también el efecto del chiste."
+        },
+        {
+          "letter": "B",
+          "text": "Las obras largas nunca se entienden bien después de muchos años",
+          "is_correct": false,
+          "feedback": "La distancia temporal dificulta el acceso, pero no impide la comprensión, y no es la única causa del cambio."
+        },
+        {
+          "letter": "C",
+          "text": "El texto contiene errores de escritura que se notan más con el tiempo",
+          "is_correct": false,
+          "feedback": "La razón principal es el cambio de contexto y no la calidad de la escritura original."
+        },
+        {
+          "letter": "D",
+          "text": "Los lectores modernos carecen del conocimiento de las;—expresiones de la época pasada",
+          "is_correct": false,
+          "feedback": "La distancia con el pasado es real, pero la razón del cambio está en cómo se ha transformado la lectura social."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El humor solo funciona cuando emisor y receptor comparten un conjunto de referencias. Con el paso del tiempo, ese conjunto se transforma y lo que era gracioso puede volverse ofensivo o simplemente incomprensible. Reconocer esta dependencia del contexto evita exigir a un texto antiguo las mismas reacciones que tenía en su momento de escritura.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W35-el-humor-y-la-satira-en-la-literatura-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W35-el-humor-y-la-satira-en-la-literatura-001-MASTERY-bundle-v4",
+      "statement": "Un texto muestra a un personaje que cuenta monedas repetidamente mientras todos a su alrededor pasan hambre. ¿Qué efecto busca la escena?",
+      "context": "En Pasto, un grupo de noveno trabaja con un texto que ridiculiza a un personaje por su avaricia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Informar al lector sobre el nivel de vida en esa comunidad",
+          "is_correct": false,
+          "feedback": "La escena se constructs con fines de efecto, no con fines informativos oPk statistical."
+        },
+        {
+          "letter": "B",
+          "text": "Señalar la avaricia del personaje mediante el contraste con la necesidad ajena",
+          "is_correct": true,
+          "feedback": "El contraste entre la acumulación de monedas y el hambre circundante vuelve visible la falta deirce hasta convertirla en chiste."
+        },
+        {
+          "letter": "C",
+          "text": "Mostrar que el personaje es un buen administrador de sus bienes",
+          "is_correct": false,
+          "feedback": "La acumulación de monedas se presenta como un exceso ridículo, y no como una virtud administrativa."
+        },
+        {
+          "letter": "D",
+          "text": "Explicar cómo funcionaba el sistema monetario de la época",
+          "is_correct": false,
+          "feedback": "Las monedas aparecen como recurso dramático, y la escena no cumple la función de explicar el sistema económico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La sátira construye su efecto a partir del contraste: enfrenta lo que un personaje hace con lo que otros necesitan para poner en evidencia una conducta. Cuando la acumulación de riqueza se yuxtapone al hambre, la escena genera risa y, al mismo tiempo, crítica. Analizar el contraste es más preciso que limitarse a decir que el texto es gracioso.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semantico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-9-2026-W35-el-humor-y-la-satira-en-la-literatura-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W35-el-humor-y-la-satira-en-la-literatura-001-MASTERY-bundle-v5",
+      "statement": "Un personaje dice: \"Ojalá el dinero vuele, porque así no tendría que buscarlo\". ¿Cómo se vuelve más explícitamente satírica?",
+      "context": "En Villavicencio, un profesor pide que sus estudiantes reescriban una frase para darle un tono satírico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Ojalá mis deudas pudiesen volarse por sí solas, porque así ni siquiera tendría que esconderlas\"",
+          "is_correct": true,
+          "feedback": "La amplificación del deseo alude al problema de las deudas y vuelve más evidente la situacion crítica del personaje."
+        },
+        {
+          "letter": "B",
+          "text": "\"Ojalá el dinero vuele hacia mí, porque así podría seguir gastando lo que gane\"",
+          "is_correct": false,
+          "feedback": "La frase pierde el tono crítico y se convierte en un deseo de riqueza que no denuncia nada."
+        },
+        {
+          "letter": "C",
+          "text": "\"Ojalá el dinero no existiera, porque así nadie podría comprar nada en este país\"",
+          "is_correct": false,
+          "feedback": "La formulación es absurda en exceso y se aparta del problema concreto que el personaje quería señalar."
+        },
+        {
+          "letter": "D",
+          "text": "\"Ojalá nadie supiera que tengo deudas, porque así podría dormir tranquilo\"",
+          "is_correct": false,
+          "feedback": "El enunciadohide details ya no apunta a las deudas como problema, sino al secreto que las rodea."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reescribir un enunciado con intención satírica exige hacer visible el blanco de la crítica y amplificar la contradicción que lo caracteriza. En este caso, el deseo de que el dinero desaparezca revela una situación real de deuda. La intensificación del deseo mantiene el humor y hace más explícito el juicio sobre la conducta del personaje.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semantico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-9-2026-W35-el-humor-y-la-satira-en-la-literatura-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W35-el-humor-y-la-satira-en-la-literatura-001-MASTERY-bundle-v6",
+      "statement": "En una escena cómica, un personaje se burla de su propioخدمhya, así que el público ríe de sí mismo y no de él. ¿Qué efecto pragmatico tiene esa situación?",
+      "context": "En Florencia, Caquetá, un grupo de noveno prepara una presentación sobre el humor en el drama y su efecto en el público.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aumenta la irritation del público, porque nadie soporta escuchar burla de sí mismo",
+          "is_correct": false,
+          "feedback": "La autocrítica suele generar complicidad y no irritation, porque el público se reconoce en esa actitud."
+        },
+        {
+          "letter": "B",
+          "text": "Elimina el efectoIVO humorístico, porque el chiste pierde la capacidad de surprise",
+          "is_correct": false,
+          "feedback": "La autocrítica no elimina el humor, sino que lo vuelve más amable y evita el carácter ofensivo de la burla."
+        },
+        {
+          "letter": "C",
+          "text": "Reduce la defensividad del público, porque la burla recae sobre alguien que se expone voluntariamente",
+          "is_correct": true,
+          "feedback": "La autocrítica relaja al público, porque nadie puede sentirse atacado por una burla que el propio personaje asume."
+        },
+        {
+          "letter": "D",
+          "text": "Transforma la escena en una escena dramática, porque desaparece la risa",
+          "is_correct": false,
+          "feedback": "La escena sigue siendo cómica, y lo que cambia es el objeto de la risa, no su presencia."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cuando un personaje se ríe de sí mismo, el público se ríe con él y no contra él, lo que disuelve la dureza de la burla. Esta es una de lasotechnicals técnicas más antiguas para suavizar la sátira sin perder su efecto crítico. Comprender ese mecanismo ayuda a explicar por qué ciertos personajes cómicos resultan simpáticos y otros offensive.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-9-2026-W35-el-humor-y-la-satira-en-la-literatura-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W35-el-humor-y-la-satira-en-la-literatura-001-MASTERY-bundle-v7",
+      "statement": "Un autor describe a un PAN critical crítico como \"el hombre más serio del barrio, salvo cuando se ríe\". ¿Qué efecto produce esa construcción?",
+      "context": "En Bogotá, un grupo de noveno analiza cómo el autor usa el lenguaje para construir la figura de un PAN critical.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Crea una hipérbole, porque la seriedad del personaje se aumenta sin medida",
+          "is_correct": false,
+          "feedback": "La Hipérbole exageraría la seriedad, y aquí lo que opera es una contradicción interna, que es un mecanismo irónico."
+        },
+        {
+          "letter": "B",
+          "text": "Crea una personificación, porque se atribuye una acción humana a un objeto",
+          "is_correct": false,
+          "feedback": "El chiste se construye con la relación entre dos afirmaciones, no con la transferencia de rasgos a un objeto."
+        },
+        {
+          "letter": "C",
+          "text": "Crea una metáfora, porque se compara la seriedad con otra cualidad",
+          "is_correct": false,
+          "feedback": "No hay una comparación entre dos categorías distintas, que es lo que define a la metáfora."
+        },
+        {
+          "letter": "D",
+          "text": "Crea una ironía, porque la seriedad afirmada se contradice con la Admission del propio enunciado",
+          "is_correct": true,
+          "feedback": "La construcción afirma una seriedad absoluta y la desmonta en la misma frase, de modo que el lector percibe la contradicción."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La ironía se construye cuando el enunciado afirma una cosa y sugiere lo contrario, de modo que el lector perciba la distancia entre ambos planos. Aquí, la seriedad queda desmentida por el mismo enunciado que la sostiene. Detectar esa contradicción es fundamental para leer textos satíricos, donde casi siempre hay un segundo sentido que debe reconstruirse.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semantico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-9-2026-W35-el-humor-y-la-satira-en-la-literatura-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W35-el-humor-y-la-satira-en-la-literatura-001-MASTERY-bundle-v8",
+      "statement": "Una escena hace que el público se ría de un personaje; otra, más adelante, hace que se ría del mismo personaje y además de las expectativas del propio público. ¿Qué diferencia de estructura discursiva existe?",
+      "context": "En Sogamoso, la profesora de noveno presenta dos escenas de una misma obra y pide comparar su estructura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La primera risa es absurda y la segunda es lógica, porque el autor cambia de estilo entre escenas",
+          "is_correct": false,
+          "feedback": "La diferencia no depende del absurdo ni de la lógica, sino del nivel del discurso al que apunta cada escena."
+        },
+        {
+          "letter": "B",
+          "text": "La primera risa es referencial al personaje y la segunda es metalingüística, porque se dirige al código del relato",
+          "is_correct": true,
+          "feedback": "La risa sobre el personaje y la risa sobre el relato pertenecen a niveles distintos del discurso, y esa diferencia cambia el efecto."
+        },
+        {
+          "letter": "C",
+          "text": "La primera risa es individual y la segunda colectiva, porque el segundo caso incluye a todos los personajes",
+          "is_correct": false,
+          "feedback": "El número de personajes en escena no explica la diferencia, porque la estructura del discurso es la que organiza el efecto."
+        },
+        {
+          "letter": "D",
+          "text": "No hay diferencia estructural, porque las dos escenas producen el mismo efecto en el público",
+          "is_correct": false,
+          "feedback": "Los efectos no son idénticos, porque en la segunda escena el público participa de una reflexión sobre el relato."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El discurso tiene varios niveles: el de la historia narrada, el de los personajes y el del relato como construcción. Cuando el humor se dirige a la propia historia o a las expectativas del público, aparece una ironía en segunda persona que obliga a pensar el relato. Distinguir esos niveles es lo que permite explicar por qué un chiste puede ser sencillo o profundamente reflexivo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-9-2026-W35-el-humor-y-la-satira-en-la-literatura-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W35-el-humor-y-la-satira-en-la-literatura-001-MASTERY-bundle-v9",
+      "statement": "Un texto tradicional usa un proverbio para explicar un principio; otro texto contemporary uses el mismo proverbio con un significado invertido. ¿Qué relación se establece entre los dos?",
+      "context": "En Riohacha, un grupo de noveno compara un texto tradicional con un texto de la misma época que lo parodia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Parodia, porque el segundo texto imita la forma del primero para contradecir su sentido original",
+          "is_correct": true,
+          "feedback": "La parodia reutiliza la estructura del texto original con el fin de subvertirla, y ese es exactamente el caso descrito."
+        },
+        {
+          "letter": "B",
+          "text": "Copia fiel, porque los dos textos emplean exactamente la misma expresión",
+          "is_correct": false,
+          "feedback": "El empleo del mismo proverbio no convierte al segundo texto en copia, porque el sentido es deliberadamente distinto."
+        },
+        {
+          "letter": "C",
+          "text": "Contraste, porque los dos textos se oponen sin guardar relación de forma",
+          "is_correct": false,
+          "feedback": "Hay una relación de forma, porque el segundo texto toma la del primero y de ahí nace su efecto."
+        },
+        {
+          "letter": "D",
+          "text": "Continuidad, porque el segundo texto amplía el sentido del primero sin contradecirlo",
+          "is_correct": false,
+          "feedback": "El sentido está invertido, de modo que el segundo texto desmiente al primero en lugar de ampliarlo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La parodia es una forma de intertextualidad en la que un texto imita la estructura, el estilo o un recurso de otro para subvertir su sentido. Reconocerla permite ver que la risa puede construirse también por la referencia a otros textos. Este mecanismo es frecuente en la literatura colombiana y en el humor político contemporáneo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Critico-Intertextual",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-9-2026-W35-el-humor-y-la-satira-en-la-literatura-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W35-el-humor-y-la-satira-en-la-literatura-001-MASTERY-bundle-v10",
+      "statement": "Un texto burló a un líder político regional con unas frases que se han convertido en expresión de la cultura local. ¿Cuál es el juicio más sólido sobre su eficacia satírica?",
+      "context": "en Envigado, un profesor evalúa si un texto satírico cumple su función crítica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No es eficaz, porque una sátira que se populariza deja de tener crítica",
+          "is_correct": false,
+          "feedback": "La popularización no anula el efecto crítico, y a menudo refuerza la sátira al extenderse entre la gente."
+        },
+        {
+          "letter": "B",
+          "text": "Es eficaz solo si el público se ríe, porque el número de risas mide su potencia política",
+          "is_correct": false,
+          "feedback": "La risa es un efecto inmediato, y la eficacia de una sátira se mide por la crítica que provoca, no por su duración."
+        },
+        {
+          "letter": "C",
+          "text": "Es eficaz, porque el éxito de sus frases en la vida cotidiana demuestra que la crítica fue comprendida y recordada",
+          "is_correct": true,
+          "feedback": "Cuando una expresión satírica se incorpora al habla cotidiana, la crítica caló en la comunidad y alcanzó su propósito."
+        },
+        {
+          "letter": "D",
+          "text": "No es eficaz, porque la crítica directa a una autoridad está siempre prohibida",
+          "is_correct": false,
+          "feedback": "La literatura haninger crítica a las autoridades desde la antigüedad, y esa tradición es central para entender la sátira."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La eficacia de un texto satírico puede medirse por su capacidad de provocar reflexión crítica y por la huella que deja en la comunidad. Que sus frases se incorporen al habla cotidiana es un indicio de que la crítica fue asimilada por el imaginario común. Reconocer esta difusión ayuda a valorar el humor como una forma de intervención pública.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-9-2026-W35-el-humor-y-la-satira-en-la-literatura-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W35-el-humor-y-la-satira-en-la-literatura-001-MASTERY-bundle-v11",
+      "statement": "Un comic strap que antes se publicaba en un periódico local usa como blanco a un personaje que representa a toda una clase política. ¿Cuál es el juicio más preciso sobre su vigencia?",
+      "context": "En Maulé, un grupo de noveno discute sobre el cambio de tono que exige una traducción de sátira en la vida diaria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La vigencia no depende de nada, porque toda sátira antigua sigue siendo igualmente válida",
+          "is_correct": false,
+          "feedback": "La vigencia depende de que la crítica sea comprensible y de que el público pueda reconocer su vigencia, y no solo de su antigüedad."
+        },
+        {
+          "letter": "B",
+          "text": "La vigencia depende únicamente del número de seguidores que tiene la publicación",
+          "is_correct": false,
+          "feedback": "La audiencia importa para la difusión, pero no es lo que determina la eficacia crítica de una sátira."
+        },
+        {
+          "letter": "C",
+          "text": "La vigencia desaparece si se actualizan las referencias culturales del chiste",
+          "is_correct": false,
+          "feedback": "Actualizar referencias es una manera legítima de mantener viva una sátira, siempre que se conserve su crítica."
+        },
+        {
+          "letter": "D",
+          "text": "La vigencia depende de que la crítica se mantenga, porque cambiar el blanco sin conservar el argumento la vacía",
+          "is_correct": true,
+          "feedback": "Una sátira que cambia de blanco pero conserva su crítica sigue siendo eficaz, y una que solo cambia de objetivo pierde contenido."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Una sátira conserva su vigencia cuando mantiene la crítica, no cuando conserva exactamente las mismas referencias. Actualizar nombres,urrency escenarios o personajes es una operación legítima, siempre que el argumento crítico permanezca. Evaluar la vigencia de un texto humorístico exige separar el contenido de la crítica de las formas concretas que la vestían.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-9-2026-W35-el-humor-y-la-satira-en-la-literatura-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W35-el-humor-y-la-satira-en-la-literatura-001-MASTERY-bundle-v12",
+      "statement": "Un director teatral decide eliminar los chistes de una comedia y conservar únicamente los momentos de silencio y pausa. ¿Qué juicio sobre esa decisión es el más sólido?",
+      "context": "En Pereira, la profesora de noveno cierra la semana con una reflexión sobre la risa en la obra teatral.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La decisión es arriesgada, porque en la comedia la risa sostiene el ritmo y guía la valoración que el público hace de los personajes",
+          "is_correct": true,
+          "feedback": "La risa y el silencio cumplen funciones distintas en la construcción de la escena, y por eso no son intercambiables."
+        },
+        {
+          "letter": "B",
+          "text": "La decisión es correcta, porque lo cómico estorba y lo grave es siempre mejor",
+          "is_correct": false,
+          "feedback": "En una comedia, lo grave no es mejor por sí mismo, y eliminar la risa desarma el género que se quiere representar."
+        },
+        {
+          "letter": "C",
+          "text": "La decisión es neutral, porque la risa y el silencio tienen el mismo efecto sobre el público",
+          "is_correct": false,
+          "feedback": "La risa y el silencio no producen el mismo efecto, y cada uno cumple una función distinta en la construcción de la escena."
+        },
+        {
+          "letter": "D",
+          "text": "La decisión es imposible, porque ninguna obra teatral puede prescindir de sus chistes",
+          "is_correct": false,
+          "feedback": "Existen comedias sin chistes explícitos, de modo que la decisión no es imposible, aunque sí arriesgada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En la obra teatral, el humor cumple una función estructural: organiza el ritmo de la acción, marca la complicidad con el público y orienta la valoración de los personajes. Quitarlo no es una operación neutra, porque cambia la dinámica de la escena y el tipo de emoción que transmite. Evaluar el peso del humor en una comedia ayuda a entender cómo funcionan las categorías teatrales.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-9-2026-W35-el-humor-y-la-satira-en-la-literatura-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}

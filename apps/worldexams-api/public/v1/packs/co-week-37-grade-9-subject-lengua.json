@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-37-grade-9-subject-lengua",
+    "generated_at": "2026-09-30T05:53:13.046Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-9-2026-W37-la-obra-teatral-y-su-puesta-en-escena-001-MASTERY-bundle-v1",
+      "statement": "¿Qué son las acotaciones en el texto teatral?",
+      "context": "En Bogotá, la profesora de noveno lleva un programa de mano de una obra y lo proyecta en el aula.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son los discursos que pronuncian los personajes durante la obra",
+          "is_correct": false,
+          "feedback": "Los discursos de los personajes son los diálogos, y las acotaciones nunca se enuncian en escena."
+        },
+        {
+          "letter": "B",
+          "text": "Son las indicaciones que da el director a los actores antes de comenzar",
+          "is_correct": false,
+          "feedback": "Esas indicaciones son órdenes del director, y no forman parte del texto escrito por el autor."
+        },
+        {
+          "letter": "C",
+          "text": "Son los comentarios que el público hace al final de la función",
+          "is_correct": false,
+          "feedback": "Los comentarios del público no pertenecen al texto teatral, y ocurre después de la representación."
+        },
+        {
+          "letter": "D",
+          "text": "Son indicaciones del autor sobre el lugar, la hora, los gestos y el tono de los personajes",
+          "is_correct": true,
+          "feedback": "Las acotaciones aparecen entre paréntesis o en el texto yOrientan la representación sin que el personaje las pronuncie."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Las acotaciones son las indicaciones del autor sobre el espacio, el tiempo, la acción física y el tono de los personajes. Aparecen normalmente entre paréntesis y no se dicen en voz alta, aunque el director puede tomarlas como referencia. Reconocerlas es fundamental, porque esas indicaciones son parte del texto y condicionan la puesta en escena.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Semantico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W37-la-obra-teatral-y-su-puesta-en-escena-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W37-la-obra-teatral-y-su-puesta-en-escena-001-MASTERY-bundle-v2",
+      "statement": "Un personaje dice: \"Sal de aquí\". El autor escribe entre paréntesis: \"Lo dice en voz baja, mirando la puerta\". ¿Qué información aporta esa anotación?",
+      "context": "En Cali, un grupo de noveno compara el texto de una obra con la versión que su colegio quiere montar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aporta la intención y la acción física con que el personaje debe decir la frase",
+          "is_correct": true,
+          "feedback": "La acotación precisa el tono y el gesto, y por eso orienta al actor y al director en la puesta."
+        },
+        {
+          "letter": "B",
+          "text": "Aporta una frase adicional que el personaje pronuncia en ese momento",
+          "is_correct": false,
+          "feedback": "El contenido entre paréntesis no se pronuncia, y su función es indicar cómo se dice la frase."
+        },
+        {
+          "letter": "C",
+          "text": "Aporta una descripción del espacio donde se representa la escena",
+          "is_correct": false,
+          "feedback": "Aunque puede haber indicaciones de espacio, en este caso la anotación se concentra en el tono y en la mirada."
+        },
+        {
+          "letter": "D",
+          "text": "Aporta una reacción del público que se espera en ese momento",
+          "is_correct": false,
+          "feedback": "El texto teatral no anticipa la reacción del público, que se produce en la representación real."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las acotaciones enriquecen el diálogo con la información que la voz no transmite por sí sola: el tono, el gesto, la mirada y la intención. Al leer una obra, conviene atenderlas porque forman parte del texto y no son un adorno. En la puesta en escena, esas indicaciones se convierten en decisiones concretas de actuación.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semantico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W37-la-obra-teatral-y-su-puesta-en-escena-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W37-la-obra-teatral-y-su-puesta-en-escena-001-MASTERY-bundle-v3",
+      "statement": "¿Por qué se afirma que el teatro es un arte colaborativo?",
+      "context": "En Pereira, un profesor explica por qué el teatro necesita un conjunto de personas para existir.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque cualquier persona puede escribir y representar una obra sin preparación",
+          "is_correct": false,
+          "feedback": "La facilidad no es lo que define el teatro, y la obra exige trabajo sostenido de muchos participantes."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el texto teatral se escribe en grupo y por eso no tiene autor individual",
+          "is_correct": false,
+          "feedback": "El texto tiene un autor, y la colaboración se produce en el proceso de llevarlo a escena."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la obra se construye entre el autor, el director, los actores y el equipo técnico",
+          "is_correct": true,
+          "feedback": "Nadie produce una obra teatral por sí solo, y el resultado depende del trabajo conjunto de varias disciplinas."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el público participa activamente en la representación",
+          "is_correct": false,
+          "feedback": "El público asiste y responde, pero la construcción de la obra ocurre antes de su llegada a la sala."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El teatro es un arte colaborativo porque una obra solo existe cuando el texto del autor, la dirección, la actuación y los aportes técnicos se articulan en una representación concreta. Cada uno de esos aportes modifica el sentido de la obra. Comprender el trabajo colectivo del teatro ayuda a valorar el esfuerzo que hay detrás de cada función.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semantico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W37-la-obra-teatral-y-su-puesta-en-escena-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W37-la-obra-teatral-y-su-puesta-en-escena-001-MASTERY-bundle-v4",
+      "statement": "El colegio solo dispone del patio, y la obra exige un espacio cerrado con una sola entrada. ¿Qué decisión resuelve mejor esa diferencia?",
+      "context": "En Bucaramanga, un grupo de noveno prepara el montaje de una obra corta y debe decidir el espacio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cambiar el texto del autor para que la acción ya no requiera un espacio cerrado",
+          "is_correct": false,
+          "feedback": "El texto del autor no se modifica, porque la puesta es un problema de dirección y no de reescritura."
+        },
+        {
+          "letter": "B",
+          "text": "Adaptar la puesta para que la acción ocurra en un espacio abierto y con varios accesos",
+          "is_correct": true,
+          "feedback": "Modificar la puesta para respetar las condiciones del lugar es la solución propia de quien dirige una obra."
+        },
+        {
+          "letter": "C",
+          "text": "Pedir a los actores que imaginen que están dentro de una habitación cerrada",
+          "is_correct": false,
+          "feedback": "Improvisar la solución con los actores no resuelve una limitación real del espacio disponible."
+        },
+        {
+          "letter": "D",
+          "text": "Suspender el montaje hasta que el colegio construya una sala cerrada",
+          "is_correct": false,
+          "feedback": "La suspensión pospone la solución en lugar de resolverla, y el montaje puede realizarse con ajustes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La puesta en escena resuelve las diferencias entre el texto y las condiciones reales de representación, sin alterar el texto del autor. Cambiar el espacio, el ritmo o los elementos visuales es parte del trabajo de dirección. Esta capacidad de adaptación es esencial para quien decida llevar una obra a un espacio con recursos limitados.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-9-2026-W37-la-obra-teatral-y-su-puesta-en-escena-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W37-la-obra-teatral-y-su-puesta-en-escena-001-MASTERY-bundle-v5",
+      "statement": "En una versión, el director pide que un personaje hable muy rápido. En otra, que hable muy despacio. ¿Qué se está modificando en cada caso?",
+      "context": "En Manizales, un profesor pide a sus estudiantes que comparen dos versiones de la misma escena.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se modifica el argumento, porque el cambio de ritmo reescribe el conflicto central",
+          "is_correct": false,
+          "feedback": "El argumento permanece intacto, porque el director ajusta la interpretación y no la estructura del texto."
+        },
+        {
+          "letter": "B",
+          "text": "Se modifica el escenario, porque la velocidad determina el espacio donde ocurre la acción",
+          "is_correct": false,
+          "feedback": "El ritmo del habla es un recurso de actuación, y no interviene en la construcción del decorado."
+        },
+        {
+          "letter": "C",
+          "text": "Se modifica el ritmo del habla, y con él el carácter y la tensión que el público percibe",
+          "is_correct": true,
+          "feedback": "La velocidad de la dicción transforma la energía del personaje, de modo que el mismo diálogo produce efectos distintos."
+        },
+        {
+          "letter": "D",
+          "text": "Se modifica el público, porque cada versión atrae un tipo distinto de espectador",
+          "is_correct": false,
+          "feedback": "La expectant puede variar entre versiones, y esa consecuencia no es lo que el director controla."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El ritmo de la dicción es un recurso de actuación que modifica la Perception que el público tiene del personaje y de la situación. El mismo diálogo puede generar tensión, calma o ironía según cómo se diga. Por eso, dos_mounted versiones de una misma obra pueden ser muy distintas sin que haya cambiado una sola palabra del texto.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-9-2026-W37-la-obra-teatral-y-su-puesta-en-escena-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W37-la-obra-teatral-y-su-puesta-en-escena-001-MASTERY-bundle-v6",
+      "statement": "Un actor repite la misma frase del cartero con vocación cada vez más pesada y da obligatorias. ¿Qué efecto se busca con ese recurso?",
+      "context": "en Rionegro, el grupo de teatro del colegio trabaja con el personaje de un cartero.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Presentar al cartero como un personaje noble y respetado por su comunidad",
+          "is_correct": false,
+          "feedback": "La noblesza se marcaría con otro recurso, y aquí lo que se enuncia es el agotamiento."
+        },
+        {
+          "letter": "B",
+          "text": "Mostrar que el cartero está exhausto por el peso de su trabajo cotidiano",
+          "is_correct": true,
+          "feedback": "La variación del tono y del gesto hace visible el desgaste del personaje, un efecto propio del juego dehacer."
+        },
+        {
+          "letter": "C",
+          "text": "Separar el personaje de los demás haciendo que su voz no se parezca a la de nadie",
+          "is_correct": false,
+          "feedback": "La transformación de la voz no tiene como efecto aislarlo, y la repetición de la frase busca un desgaste."
+        },
+        {
+          "letter": "D",
+          "text": "Preparar la entrada de otro personaje en la escena",
+          "is_correct": false,
+          "feedback": "Ninguna indicación anuncia una entrada, y el recurso se dirige a la construcción del propio cartero."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La actuación construye al personaje con decisiones concretas: la voz, el gesto, el ritmo y la relación con los demás. Una frase idéntica cambia de sentido cuando el tono se vuelve más pesado y los gestos más lentos. Estas decisiones muestran que el personaje se construye en escena, y no solo en lo que dice.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semantico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-9-2026-W37-la-obra-teatral-y-su-puesta-en-escena-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W37-la-obra-teatral-y-su-puesta-en-escena-001-MASTERY-bundle-v7",
+      "statement": "Una escena presenta un personaje que habla largo, mientras el otro responde con frases muy breves. ¿Qué estructura discursiva se observa en ese intercambio?",
+      "context": "en Armenia, un grupo de noveno analiza cómo se organizan los diálogos en una escena.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hay un contraste entre turnos extensos y turnos breves, que refuerza la diferencia entre los dos personajes",
+          "is_correct": true,
+          "feedback": "La alternancia de turnos desiguales hace visible la relación de poder entre quienes participan en la escena."
+        },
+        {
+          "letter": "B",
+          "text": "Hay una estructura de contraste, porque los dos personajes discuten versiones opuestas del mismo hecho",
+          "is_correct": false,
+          "feedback": "Hay contraste en la extensión de los turnos, y no en la existencia de posturas opuestas sobre un hecho."
+        },
+        {
+          "letter": "C",
+          "text": "Hay una estructura de causa y efecto, porque cada respuesta depende de lo que dijo el anterior",
+          "is_correct": false,
+          "feedback": "La relación causal puede existir, y no es lo que define la organización de los turnos en este caso."
+        },
+        {
+          "letter": "D",
+          "text": "Hay una estructura deductiva, porque el diálogo va de lo general a lo particular",
+          "is_correct": false,
+          "feedback": "La secuencia de turnos desiguales no sigue un razonamiento de lo general a lo particular."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El diálogo teatral se organiza en turnos, y la relación entre la extensión de esos turnos comunica la dinámica de la escena. Cuando un personaje acapara la palabra y el otro responde con brevedad, la escena establece una asimetría que el público percibe de inmediato. Reconocer estas estructuras ayuda a explicar cómo el texto bien escrito ya anticipa la dinámica de los personajes.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-9-2026-W37-la-obra-teatral-y-su-puesta-en-escena-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W37-la-obra-teatral-y-su-puesta-en-escena-001-MASTERY-bundle-v8",
+      "statement": "En la versión A, el autor escribe: \"Un golpe seco se escucha en la puerta\". En la versión B escribe: \"Tocan\". ¿Qué análisis es el más preciso?",
+      "context": "En Montería, la profesora de noveno presenta dos versiones del mismo fragmento teatral.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La versión A es mejor, porque toda obra teatral debe ser siempre descriptiva",
+          "is_correct": false,
+          "feedback": "La brevedad también es una decisión legítima, y no hay una única forma correcta de escribir una acotación."
+        },
+        {
+          "letter": "B",
+          "text": "La versión B es mejor, porque en teatro importa la acción y no la forma de enunciarla",
+          "is_correct": false,
+          "feedback": "La forma de enunciar el sonido orienta al actor y al técnico de sonido, de modo que sí tiene efecto en escena."
+        },
+        {
+          "letter": "C",
+          "text": "Las dos versiones son equivalentes, porque significan exactamente lo mismo",
+          "is_correct": false,
+          "feedback": "Significan lo mismo en cuanto al hecho, yOrientan la escena de manera distinta al público y al equipo."
+        },
+        {
+          "letter": "D",
+          "text": "La versión A transmite el sonido y lo describe, mientras la versión B solo informa el hecho",
+          "is_correct": true,
+          "feedback": "La acotación de la versión A orienta la percepción y el sonido; el verbo de la versión B reduce la escena al dato."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Dos formulaciones sobre un mismo hecho pueden comunicar la misma información y generar efectos perceptivos diferentes. Una acotación detallada orienta al actor, al director y al técnico de sonido, mientras que una fórmula breve deja esa decisión abierta. Analizar estas diferencias enseña a valuing el texto teatral como un guion de decisiones, y no como un relato más.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semantico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-9-2026-W37-la-obra-teatral-y-su-puesta-en-escena-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W37-la-obra-teatral-y-su-puesta-en-escena-001-MASTERY-bundle-v9",
+      "statement": "Un director monta la misma obra transferring a un barrio popular y cambia el lenguaje de todos los personajes. ¿Qué relación se establece entre el texto original y esta versión?",
+      "context": "En Sincelejo, un grupo de noveno relaciona una obra deinna de su programa escolar con una versión Anonymous contemporánea.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hay una copia, porque cambiar el vocabulario no altera el contenido de la obra",
+          "is_correct": false,
+          "feedback": "El vocabulario define parte del mundo que la obra construye, y cambiarlo modifica su sentido y su recepción."
+        },
+        {
+          "letter": "B",
+          "text": "Hay una crítica, porque el director busca demostrar que el texto original no sirve",
+          "is_correct": false,
+          "feedback": "Nada en el cambio de lenguaje indica un propósito de descalificar el texto, y se trata de una adaptación."
+        },
+        {
+          "letter": "C",
+          "text": "Hay una reescritura que adapta el texto a un nuevo contexto social, conservando la estructura del original",
+          "is_correct": true,
+          "feedback": "Adaptar el lenguaje a un público nuevo modifica la recepción de la obra sin destruir su argumento central."
+        },
+        {
+          "letter": "D",
+          "text": "No hay relación intertextual, porque dos versiones de la misma obra no pueden compararse",
+          "is_correct": false,
+          "feedback": "La existencia de dos versiones de una misma obra constituye justamente una relación que permite el análisis."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una puesta en escena puede adaptar el texto a un contexto nuevo, cambiando el lenguaje, la ambientación y el estilo de actuación. Esa transformación es una relación intertextual: el texto original y su versión modificada se iluminan mutuamente. Analizarla permite entender cómo una misma historia puede decir cosas distintas en contextos distintos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Critico-Intertextual",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-9-2026-W37-la-obra-teatral-y-su-puesta-en-escena-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W37-la-obra-teatral-y-su-puesta-en-escena-001-MASTERY-bundle-v10",
+      "statement": "Un grupo de teatro modifica el final de la obra para que el personaje principal sea absorbent más virtuoso. ¿Cuál es el juicio más sólido sobre esa decisión?",
+      "context": "en Popayán, un comité evalúa si una puesta escolar respeta el texto del autor.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un cambio válido, porque la puesta en escena tiene libertad total sobre la obra",
+          "is_correct": false,
+          "feedback": "La libertad del director se ejerce sobre la representación, y no sobre el contenido escrito de la obra."
+        },
+        {
+          "letter": "B",
+          "text": "Es un cambio problemático, porque altera el sentido de la obra y va más allá de las decisiones propias de la puesta",
+          "is_correct": true,
+          "feedback": "La puesta puede cambiar el espacio y el ritmo, mientras que modificar el desenlaceayuday modifica el texto del autor."
+        },
+        {
+          "letter": "C",
+          "text": "Es un cambio válido, porque al público le disgustan los finales tristes",
+          "is_correct": false,
+          "feedback": "Las preferencias del público pueden orientar una elección, y no justifican alterar el texto escrito."
+        },
+        {
+          "letter": "D",
+          "text": "Es un cambio irrelevante, porque el final de una obra no afecta su valor artístico",
+          "is_correct": false,
+          "feedback": "El desenlace resuelve el conflicto central de la obra, de modo que cambiarlo sí afecta su sentido y su valor."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El director decide cómo representar la obra, y el autor decide qué historia contar. Cambiar el espacio, el ritmo o la ambientación es legítimo; alterar el desenlace ya es reescribir la obra. Distinguir ambos niveles es lo que permite evaluar con criterio si una puesta respeta el texto que dice representar.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-9-2026-W37-la-obra-teatral-y-su-puesta-en-escena-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W37-la-obra-teatral-y-su-puesta-en-escena-001-MASTERY-bundle-v11",
+      "statement": "Un estudiante afirma: \"Montar una obra en el colegio no sirve, porque no es una disciplina artística formal\". ¿Qué juicio sobre esta afirmación es el más sólido?",
+      "context": "In Villavicencio, un profesor pide un juicio sobre el valor de montar una obra escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La afirmación es débil, porque el montaje teatral desarrolla lectura, expresión oral, escucha y trabajo cooperativo",
+          "is_correct": true,
+          "feedback": "La experiencia teatral ejercita capacidades que el currículo valora, y no se reduce a la formación artística profesional."
+        },
+        {
+          "letter": "B",
+          "text": "La afirmación es correcta, porque solo el teatro profesional aporta conocimiento estimator",
+          "is_correct": false,
+          "feedback": "El conocimiento se construye en la práctica, y la experiencia escolar ofrece elementos valiosos aunque sea-Dovel resultado más modesto."
+        },
+        {
+          "letter": "C",
+          "text": "La afirmación es correcta, porque el teatro solo se estudia en la bachillerato con resultados académicos",
+          "is_correct": false,
+          "feedback": "El teatro forma parte de la formación general, y la ley nacional lo contempla como asignatura del ciclo básico."
+        },
+        {
+          "letter": "D",
+          "text": "La afirmación es débil, porque ninguna actividad escolar puede reemplazar el estudio teórico",
+          "is_correct": false,
+          "feedback": "La práctica y la teoría se complementan, y el montaje teatral no pretende reemplazar el estudio de la obra."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El montaje teatral escolar tiene un valor formativo que va mucho más allá de la representación pública: desarrolla la lectura crítica, la expresión oral, la escucha y el trabajo en equipo. Reconocer estos beneficios evita reducir el teatro a una disciplina reservada a los profesionales. Evaluar una práctica por sus efectos educativos es una mirada equilibrada sobre el aprendizaje.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-9-2026-W37-la-obra-teatral-y-su-puesta-en-escena-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W37-la-obra-teatral-y-su-puesta-en-escena-001-MASTERY-bundle-v12",
+      "statement": "Un grupo afirma: \"Leer la obra es suficiente, porque el texto ya contiene toda la información necesaria\". ¿Qué juicio sobre este Plantilla es el más sólido?",
+      "context": "In Duitama, Boyacá, la profesora de noveno pide una valoración final sobre la relación entre lectura y representación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La afirmación es correcta, porque la puesta en escena solo repite lo que el texto dice",
+          "is_correct": false,
+          "feedback": "La puesta añade decisiones que el texto no especificó, y esas decisiones cambian lo que el público comprende."
+        },
+        {
+          "letter": "B",
+          "text": "La afirmación es incorrecta, porque el texto teatral no sirve para nada sin representación",
+          "is_correct": false,
+          "feedback": "El texto puede leerse y estudiarse por sí mismo, de modo que la relación entre ambos no es de dependencia total."
+        },
+        {
+          "letter": "C",
+          "text": "La afirmación es parcial, porque el texto orienta la representación sin agotar las posibilidades de la puesta en escena",
+          "is_correct": true,
+          "feedback": "El texto contiene la acción y las acotaciones, y la escena añade concretización con el cuerpo, la voz y el decorado."
+        },
+        {
+          "letter": "D",
+          "text": "La afirmación es incorrecta, porque solo los autores pueden interpretar sus propias obras",
+          "is_correct": false,
+          "feedback": "La interpretación de una obra es un trabajo colectivo, y no un derecho reservado a quien la escribió."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El texto teatral orienta la representación, pero no agota sus posibilidades: la escena añade la concretización del cuerpo, la voz, el espacio y el tiempo. Leer y ver son experiencias distintas que se complementan. Reconocer esta relación enseña a valorar cada una por lo que aporta al conjunto de la obra.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-9-2026-W37-la-obra-teatral-y-su-puesta-en-escena-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}

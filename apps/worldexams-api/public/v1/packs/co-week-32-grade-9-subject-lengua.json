@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-32-grade-9-subject-lengua",
+    "generated_at": "2026-09-30T05:53:13.043Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-9-2026-W32-el-genero-informativo-y-el-texto-divulgativo-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál de los siguientes textos pertenece al género informativo?",
+      "context": "En Bogotá, la profesora de noveno lleva a clase tres textos y pide identificar cuál pertenece al género informativo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un artículo que explica cómo funciona el ciclo del agua y sus tres etapas principales",
+          "is_correct": true,
+          "feedback": "Explicar un fenómeno real y verificable es la función propia del género informativo."
+        },
+        {
+          "letter": "B",
+          "text": "Un relato de un viaje imaginario por un reino donde los árboles hablan",
+          "is_correct": false,
+          "feedback": "La invención de un mundo y de personajes corresponde al género narrativo, no al informativo."
+        },
+        {
+          "letter": "C",
+          "text": "Un poema que describe la lluvia con imágenes poéticas y frases rimadas",
+          "is_correct": false,
+          "feedback": "La expresión de emociones con recursos poéticos es propia del género lírico."
+        },
+        {
+          "letter": "D",
+          "text": "Un diálogo en el que dos personajes discuten sobre un tema con humor",
+          "is_correct": false,
+          "feedback": "El propósito dominante es entretener y hacer reír, no transmitir un conocimiento comprobable."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El género informativo agrupa textos que transmiten un conocimiento sobre un hecho real y verificable, con el propósito de informar sin intención de fictionar. Su rasgo más importante es la referencialidad: lo que se dice puede comprobarse. Reconocer las intenciones de los otros textos evita clasificar por la apariencia formal en lugar de por la función comunicativa.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Semantico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W32-el-genero-informativo-y-el-texto-divulgativo-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W32-el-genero-informativo-y-el-texto-divulgativo-001-MASTERY-bundle-v2",
+      "statement": "¿Qué característica del texto divulgativo se refleja en el uso de un ejemplo cotidiano para explicar el funcionamiento de las neuronas?",
+      "context": "En Medellín, un estudiante de noveno lee un texto divulgativo sobre el cerebro humano publicado en una revista escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La búsqueda de la verdad absoluta en un campo del conocimiento",
+          "is_correct": false,
+          "feedback": "Divulgar no es demostrar una tesis, sino compartir información de manera comprensible."
+        },
+        {
+          "letter": "B",
+          "text": "La intención de recrear una escena de la vida real con detalle literario",
+          "is_correct": false,
+          "feedback": "La escena literaria pertenece al relato, y no es un rasgo del texto divulgativo."
+        },
+        {
+          "letter": "C",
+          "text": "La necesidad de facilitar la comprensión de un contenido especializado para un lector no especialista",
+          "is_correct": true,
+          "feedback": "El ejemplo cotidiano es un recurso típico de la divulgación, porque acerca la ciencia al lector común."
+        },
+        {
+          "letter": "D",
+          "text": "El propósito de modificar la opinión del lector sobre un tema controversial",
+          "is_correct": false,
+          "feedback": "Persuadir y convencer es propio del texto argumentativo, no de la divulgación."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El texto divulgativo toma un conocimiento técnico y lo traduce a un lenguaje accesible, con el fin de ampliar el saber de un público no especialista. Para conseguirlo emplea ejemplos, comparaciones y definiciones sencillas. Identificar estos recursos revela la intención divulgativa y la diferencia frente a otros textos que también transmiten información, como el artículo científico o el periodístico.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Textual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W32-el-genero-informativo-y-el-texto-divulgativo-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W32-el-genero-informativo-y-el-texto-divulgativo-001-MASTERY-bundle-v3",
+      "statement": "En un párrafo expositivo, ¿qué función cumple la conclusión del párrafo?",
+      "context": "En Cali, un profesor de noveno explica las partes de un párrafo expositivo usando un ejemplo del entorno escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Introducir un nuevo tema que no se había mencionado en todo el texto",
+          "is_correct": false,
+          "feedback": "Introducir temas nuevos es tarea de la introducción del texto, no de la conclusión de un párrafo."
+        },
+        {
+          "letter": "B",
+          "text": "Recapitular lo expuesto y fijar la idea principal del párrafo",
+          "is_correct": true,
+          "feedback": "La conclusión o síntesis cierra el desarrollo del párrafo y deja fija la idea que se quería comunicar."
+        },
+        {
+          "letter": "C",
+          "text": "Definir por primera vez las palabras difíciles del texto",
+          "is_correct": false,
+          "feedback": "Definir los términos corresponde al apartado inicial, y la conclusión solo recapitula lo ya dicho."
+        },
+        {
+          "letter": "D",
+          "text": "Defender una postura propia del autor ante el tema tratado",
+          "is_correct": false,
+          "feedback": "Asumir una postura y defenderla con razones es propio del texto argumentativo, no del expositivo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El párrafo expositivo tiene una estructura habitual: presenta una idea central, la desarrolla mediante ejemplos y comparaciones, y cierra con una conclusión que la fija. Reconocer esta secuencia ayuda a leer con intención y a organizar la propia escritura informativa. Entender que la conclusión no introduce novedades sino que consolida lo expuesto evita confusiones con la introducción.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semantico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W32-el-genero-informativo-y-el-texto-divulgativo-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W32-el-genero-informativo-y-el-texto-divulgativo-001-MASTERY-bundle-v4",
+      "statement": "Un texto divulgativo sobre fauna del Magdalena debe usar un lenguaje distinto al de un texto científico especializado. ¿Cuál es el ajuste más adecuado?",
+      "context": "En Barranquilla, un museo escolar prepara un cartel sobre la fauna del río Magdalena y necesita escribir un texto breve para el público.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cambiar los datos por datos más faciles, aunque sean aproximados",
+          "is_correct": false,
+          "feedback": "Un dato aproximado contradice la condición de referencialidad, que es el compromiso del género informativo."
+        },
+        {
+          "letter": "B",
+          "text": "Añadir opiniones personales para que el público se identifique con el texto",
+          "is_correct": false,
+          "feedback": "La opinión es un recurso argumentativo, y su inclusión desorienta la intención informativa del texto."
+        },
+        {
+          "letter": "C",
+          "text": "Conservar el texto técnico tal cual, porque el público lo entenderá con el tiempo",
+          "is_correct": false,
+          "feedback": "La accesibilidad es precisamente el propósito de la divulgación, de modo que no puede dejarse de lado."
+        },
+        {
+          "letter": "D",
+          "text": "Mantener los datos y cambiar la forma: definiciones sencillas, ejemplos y analogías",
+          "is_correct": true,
+          "feedback": "La divulgación conserva la información y cambia la presentación, haciéndola comprensible sin perder precisión."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La divulgación es una tarea de traducción del conocimiento: la información se mantiene fidedigna, pero la forma se adapta al receptor. Sustituir tecnicismos por definiciones, ejemplos y analogías es la estrategia central del género. En cambio, simplificar los datos o añadir opiniones compromete la exactitud y mezcla la intención informativa con la argumentativa.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-9-2026-W32-el-genero-informativo-y-el-texto-divulgativo-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W32-el-genero-informativo-y-el-texto-divulgativo-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál de estas frases conserva mejor la idea central de un texto divulgativo sobre el ahorro de energía?",
+      "context": "En Pereira, un estudiante de noveno debe resumir en una frase el contenido de un texto divulgativo sobre el ahorro de energía en el hogar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El medidor de energía es un aparato que mide el consumo de una vivienda",
+          "is_correct": false,
+          "feedback": "La frase se limita a definir un objeto del texto y deja fuera la idea central sobre el ahorro."
+        },
+        {
+          "letter": "B",
+          "text": "Reducir el consumo eléctrico en casa contribuye a cuidar el medio ambiente y a disminuir la factura",
+          "is_correct": true,
+          "feedback": "La frase recoge la idea principal y su consecuencia más relevante, sin añadir lo que el texto no sostenga."
+        },
+        {
+          "letter": "C",
+          "text": "Hay muchos equipos electrónicos en las viviendas de Colombia",
+          "is_correct": false,
+          "feedback": "Es una afirmación general que no transmite la tesis del texto, que trata sobre cómo reducir el consumo."
+        },
+        {
+          "letter": "D",
+          "text": "El texto divulgativo fue escrito por un equipo de especialistas en energía",
+          "is_correct": false,
+          "feedback": "Habla de los autores del texto y no de su contenido, por lo que no cumple la función de resumir."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una idea central se identifica porque recoge lo esencial del texto y sus consecuencias más importantes, descartando definiciones secundarias y datos de contexto. Distinguir el asunto del que se habla de lo que realmente se afirma evita resumir con datos que no construyen el sentido. Esta habilidad se aplica directamente a la lectura de informes, notas de prensa y textos escolares.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-9-2026-W32-el-genero-informativo-y-el-texto-divulgativo-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W32-el-genero-informativo-y-el-texto-divulgativo-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál de los siguientes textos tiene el propósito de informar sin añadir una postura personal?",
+      "context": "En Tunja, un profesor pide clasificar varios enunciados según el propósito comunicativo de cada uno.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un texto que describe cómo se hace el compostaje en casa y explica sus beneficios",
+          "is_correct": true,
+          "feedback": "Describir un proceso y explicar sus resultados con datos verificables es informar, sin defender una postura."
+        },
+        {
+          "letter": "B",
+          "text": "Un texto que demuestra que el compostaje es mejor que los fertilizantes comerciales",
+          "is_correct": false,
+          "feedback": "Defender una opción frente a otra con la intención de convencer es propio del texto argumentativo."
+        },
+        {
+          "letter": "C",
+          "text": "Un texto que relata la historia de una familia dedicada a la agricultura",
+          "is_correct": false,
+          "feedback": "La narración de hechos con personajes es la función del relato, no la de informar sobre un proceso."
+        },
+        {
+          "letter": "D",
+          "text": "Un texto que explica cómo el compostaje mejora la vida de todo el barrio",
+          "is_correct": false,
+          "feedback": "Invocar un beneficio colectivo para convencer es un recurso argumentativo, no una descripción informativa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El propósito comunicativo distingue los textos incluso cuando comparten elementos del género informativo. Informar consiste en presentar un hecho o un proceso de manera verificable y sin postura; argumentar implica defender una posición. Reconocer cuándo un texto quiere convencer y cuándo solo quiere transmitir es un paso decisivo para leer con criterio y para escribir con claridad de intención.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semantico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-9-2026-W32-el-genero-informativo-y-el-texto-divulgativo-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W32-el-genero-informativo-y-el-texto-divulgativo-001-MASTERY-bundle-v7",
+      "statement": "El texto comienza con una definición general del término, continúa con tres casos particulares y termina con una síntesis. ¿Qué estructura discursiva utiliza?",
+      "context": "En Tunja, la profesora de noveno entrega a sus estudiantes un texto divulgativo sobre los avances de la medicina.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una estructura inductiva, porque parte de un caso único y generaliza",
+          "is_correct": false,
+          "feedback": "El texto no parte de un caso para llegar a la generalidad, sino que hace lo contrario desde el comienzo."
+        },
+        {
+          "letter": "B",
+          "text": "Una estructura de contraste, porque contrapone definiciones opuestas sobre el fenómeno",
+          "is_correct": false,
+          "feedback": "No hay definiciones opuestas ni comparación de posturas, de modo que no hay estructura de contraste."
+        },
+        {
+          "letter": "C",
+          "text": "Una estructura deductiva, porque pasa de una idea general a casos particulares",
+          "is_correct": true,
+          "feedback": "La secuencia de una definición general, su desarrollo en casos y una síntesis final es la estructura típica del texto expositivo."
+        },
+        {
+          "letter": "D",
+          "text": "Una estructura causal, porque todo el texto se organiza con la conjunción \"porque\"",
+          "is_correct": false,
+          "feedback": "La relación causal, si aparece, no articula todas las partes del texto, de modo que no define su estructura."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las estructuras discursivas más frecuentes en el texto expositivo son la deductiva, que va de lo general a lo particular, y la inductiva, que parte de casos concretos para llegar a una conclusión general. Reconocer cuál se usa permite anticipar cómo se argumentará el contenido y facilita la toma de apuntes. La estructura causal solo domina el texto cuando la relación de causa y efecto organiza realmente todas sus partes.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-9-2026-W32-el-genero-informativo-y-el-texto-divulgativo-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W32-el-genero-informativo-y-el-texto-divulgativo-001-MASTERY-bundle-v8",
+      "statement": "El texto dice: \"La polinización es, en esencia, como una entrega de correo: las abejas llevan el paquete de polen de una flor a otra\". ¿Para qué sirve específicamente esa comparación?",
+      "context": "En Villavicencio, un estudiante de noveno estudia un texto divulgativo sobre la polinización.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para demostrar que la polinización es un fenómeno recién descubierto",
+          "is_correct": false,
+          "feedback": "La comparación no sirve para probar la novedad del fenómeno, sino para explicar su funcionamiento de forma comprensible."
+        },
+        {
+          "letter": "B",
+          "text": "Para reemplazar los datos científicos por opiniones del autor del texto",
+          "is_correct": false,
+          "feedback": "Comparar no equivale a opinar, y el texto divulgativo conserva su compromiso con la información verificable."
+        },
+        {
+          "letter": "C",
+          "text": "Para aumentar la extensión del texto sin añadir información relevante",
+          "is_correct": false,
+          "feedback": "La comparación cumple una función explicativa concreta y no es un recurso de relleno dentro del texto."
+        },
+        {
+          "letter": "D",
+          "text": "Para hacer comprensible un proceso complejo, asimilándolo a algo conocido por el lector",
+          "is_correct": true,
+          "feedback": "La analogía con la entrega de correo permite entender la polinización sin conocerla, que es el recurso central de la divulgación."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La comparación y la analogía son recursos habituales de la divulgación porque permiten asimilar un fenómeno desconocido a otro conocido por el receptor. No sustituyen la información: la hacen más comprensible dentro de los límites de la exactitud. Reconocer esta función distingue el recurso didáctico de los recursos propios del texto argumentativo o del literario.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-9-2026-W32-el-genero-informativo-y-el-texto-divulgativo-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W32-el-genero-informativo-y-el-texto-divulgativo-001-MASTERY-bundle-v9",
+      "statement": "Un texto divulgativo escolar y una entrada de enciclopedia tratan los aneurismas cerebrales. ¿Qué diferencia es la más relevante para quien los compara?",
+      "context": "En Quibdó, un grupo de noveno compara un texto divulgativo escolar con una entrada de enciclopedia sobre aneurismas cerebrales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El divulgativo adapta la información a un lector no especialista, mientras que la enciclopedia ofrece un tratamiento más técnico",
+          "is_correct": true,
+          "feedback": "La diferencia central del género está en la destinación y en el grado de tecnicismo empleado en cada caso."
+        },
+        {
+          "letter": "B",
+          "text": "Los dos textos son idénticos, porque la información científica no admite variantes",
+          "is_correct": false,
+          "feedback": "Un mismo conocimiento puede redactarse de múltiples maneras según el público y el propósito de cada texto."
+        },
+        {
+          "letter": "C",
+          "text": "El divulgativo incluye datos que la enciclopedia omite, porque la ciencia avanza",
+          "is_correct": false,
+          "feedback": "Ninguno de los dos formatos omite datos por regla general, y la ciencia no avanza solo en un formato."
+        },
+        {
+          "letter": "D",
+          "text": "La enciclopedia es un texto argumentativo, mientras que el divulgativo es narrativo",
+          "is_correct": false,
+          "feedback": "Ambos pertenecen al género informativo, y ninguno tiene la intención de narrar un relato ni de defender una tesis."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comparar dos textos del mismo género y sobre el mismo tema permite identificar qué cambia según el propósito y el receptor. La enciclopedia registra el conocimiento de manera técnica y ordenada, mientras que la divulgación lo traduce para un público amplio. Reconocer esta diferencia afina la lectura y evita esperar del texto divulgativo el nivel de detalle propio de una fuente especializada.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Critico-Intertextual",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-9-2026-W32-el-genero-informativo-y-el-texto-divulgativo-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W32-el-genero-informativo-y-el-texto-divulgativo-001-MASTERY-bundle-v10",
+      "statement": "Un texto dice: \"El cerebro humano es una máquina perfecta. Las neuronas hacen todo el trabajo y el resto del cuerpo no sirve. Duerme ocho horas y serás un genio.\" ¿Cuál es el juicio más sólido sobre su calidad como texto divulgativo?",
+      "context": "En Popayán, un docente recibe un texto que le envía una familia y debe evaluar si es adecuado como material de lectura para noveno.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un texto divulgativo adecuado, porque todos los textos divulgativos deben ser cortos y directos",
+          "is_correct": false,
+          "feedback": "La claridad es una virtud del género, pero no puede usarse como excusa para afirmar lo que la evidencia no muestra."
+        },
+        {
+          "letter": "B",
+          "text": "Es un texto narrativo disfrazado de divulgativo, porque menciona el cuerpo humano",
+          "is_correct": false,
+          "feedback": "Mencionar partes del cuerpo no convierte un texto en narrativo, y el problema está en el contenido, no en el género."
+        },
+        {
+          "letter": "C",
+          "text": "Es un texto divulgativo deficiente, porque simplifica en exceso y afirma cosas que no corresponden a la evidencia científica",
+          "is_correct": true,
+          "feedback": "Simplificar no es deformar: el texto presenta afirmaciones absolutas y una recomendación sin respaldo, lo cual compromete su exactitud."
+        },
+        {
+          "letter": "D",
+          "text": "Es un texto aceptable, porque su propósito principal es entretener al lector",
+          "is_correct": false,
+          "feedback": "Entretener es un propósito del texto narrativo, y no el criterio de validez de un texto informativo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar un texto divulgativo exige verificar que lo que afirma sea compatible con el conocimiento disponible y que la simplificación no deforme el contenido. Un texto puede ser muy accesible y aun así ser deficiente si introduce afirmaciones falsas o recomendaciones infundadas. Esta capacidad de juicio es esencial en la era digital, donde circulan textos divulgativos sin ningún rigor.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-9-2026-W32-el-genero-informativo-y-el-texto-divulgativo-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W32-el-genero-informativo-y-el-texto-divulgativo-001-MASTERY-bundle-v11",
+      "statement": "El equipo escribe: \"El río Ariguaní es el segundo más caudaloso del departamento. Pasa por cuatro municipios y su cuenca alberga a unas 90.000 personas. El 40% de sus aguas están contaminadas por residuos agrícolas. Sin embargo, los pescadores de la región viven de este río, por lo que protegerlo es indispensable.\" ¿Cuál es el juicio más preciso sobre este texto?",
+      "context": "En Florencia, Caquetá, un equipo de noveno prepara un mural sobre el río Ariguaní para la semana cultural del colegio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El texto es puramente informativo, porque todos los datos que incluye son verificables",
+          "is_correct": false,
+          "feedback": "Que los datos sean verificables no elimina que el cierre exprese una posición y una recomendación al lector."
+        },
+        {
+          "letter": "B",
+          "text": "El texto es predominantemente informativo, pero la última oración introduce una valoración que lo acerca al género argumentativo",
+          "is_correct": true,
+          "feedback": "Los datos sobre caudal, municipios, población y contaminación son informativos, mientras que el cierre busca convencer al lector."
+        },
+        {
+          "letter": "C",
+          "text": "El texto es puramente argumentativo, porque todos los datos que incluye son verificables",
+          "is_correct": false,
+          "feedback": "El cuerpo del texto no defiende una tesis, sino que informa en detalle; la argumentación solo aparece al final."
+        },
+        {
+          "letter": "D",
+          "text": "El texto es narrativo, porque relata la historia de una población que vive del río",
+          "is_correct": false,
+          "feedback": "No hay personajes ni trama, por lo que no hay relato, aunque el texto hable de personas y de su vida."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un mismo texto puede combinar dos géneros cuando su propósito cambia a lo largo del desarrollo. Un cuerpo de datos verificables seguido de una valoración que busca convencer produce un texto con tendencia informativa y argumentativa. Identificar dónde cambia el propósito del texto es una tarea de lectura crítica que se aplica a artículos, informes y publicaciones de redes sociales.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-9-2026-W32-el-genero-informativo-y-el-texto-divulgativo-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W32-el-genero-informativo-y-el-texto-divulgativo-001-MASTERY-bundle-v12",
+      "statement": "La versión A empieza con el concepto técnico de erosión, seguido de tres ejemplos y una conclusión. La versión B empieza con una anécdota sobre una familia que perdió su casa, sigue con la explicación del fenómeno y termina con una propuesta de acción. ¿Cuál versión cumple mejor la función divulgativa y por qué?",
+      "context": "En Apartadó, un profesor de noveno pide a sus estudiantes que valoren dos versiones de un texto divulgativo sobre la erosión costera.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La versión A, porque empieza con el concepto y de ese modo respeta el orden científico antes que el interés del lector",
+          "is_correct": false,
+          "feedback": "El rigor del concepto no exige ir primero, y el propósito divulgativo prioriza la comprensión y el interés."
+        },
+        {
+          "letter": "B",
+          "text": "La versión A, porque las versiones divulgativas no pueden contener relatos ni ejemplos de la vida real",
+          "is_correct": false,
+          "feedback": "El ejemplo y la anécdota son precisamente los recursos más comunes y lícitos de la divulgación."
+        },
+        {
+          "letter": "C",
+          "text": "La versión B, porque toda versión divulgativa debe terminar con una propuesta de acción de alcance comunitario",
+          "is_correct": false,
+          "feedback": "La propuesta final es un recurso posible, pero no es un requisito del género que defina la mejor versión."
+        },
+        {
+          "letter": "D",
+          "text": "La versión B, porque abre con una situación reconocible que genera interés antes de entregar el concepto",
+          "is_correct": true,
+          "feedback": "Partir de un caso cercano capta la atención del lector y hace que la explicación técnica resulte más significativa."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La eficacia de un texto divulgativo depende de cómo se invite al lector a entrar en un conocimiento que, por sí solo, no le resulta motivador. Abrir con un caso cercano, explicar el concepto y cerrar con una orientación práctica es una secuencia probada. Evaluar versiones alternativas de un mismo contenido enseña a pensar el texto como una decisión de comunicación, no como un simple volcado de información.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-9-2026-W32-el-genero-informativo-y-el-texto-divulgativo-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}
