@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-26-grade-9-subject-lengua",
+    "generated_at": "2026-09-30T04:41:41.868Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-9-2026-W26-el-habla-y-la-oralidad-cotidiana-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la diferencia entre la lengua y el habla?",
+      "context": "En una clase de noveno en Bogotá, la profesora explica por qué en el libro de texto se habla de dos conceptos que parecen iguales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La lengua es el sistema abstracto y compartido; el habla es la realización concreta de ese sistema en boca de las personas.",
+          "is_correct": true,
+          "feedback": "Así se distinguen: la lengua existe como sistema de signos y reglas, y el habla aparece cada vez que alguien la usa."
+        },
+        {
+          "letter": "B",
+          "text": "La lengua es únicamente el conjunto de sonidos; el habla es el sistema de reglas gramaticales.",
+          "is_correct": false,
+          "feedback": "Esa separación es falsa: los sonidos y las reglas forman parte de la lengua, y ninguno de los dos es el habla."
+        },
+        {
+          "letter": "C",
+          "text": "Son dos palabras que significan lo mismo y pueden usarse indistintamente.",
+          "is_correct": false,
+          "feedback": "Aunque se parecen, no son sinónimos: una cosa es el sistema y otra su uso concreto."
+        },
+        {
+          "letter": "D",
+          "text": "La lengua cambia para cada hablante, mientras que el habla permanece estable entre generaciones.",
+          "is_correct": false,
+          "feedback": "Está invertido: es el habla la que varía entre personas; la lengua se mantiene como sistema común."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La lengua es el sistema de signos y reglas compartido por una comunidad; el habla es el uso que cada individuo hace de ese sistema en un momento dado. Por eso dos personas pueden hablar la misma lengua y producir frases muy distintas. Esta distinción permite entender que la variedad y los errores no cambian la lengua, sino la forma particular de usarla.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Semantico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W26-el-habla-y-la-oralidad-cotidiana-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W26-el-habla-y-la-oralidad-cotidiana-001-MASTERY-bundle-v2",
+      "statement": "¿Qué rasgo del texto es el que mejor identifica su oralidad cotidiana?",
+      "context": "Un compañero escribe un mensaje en el grupo de WhatsApp del aula, dirigido a una amiga que llega tarde.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La ausencia de puntos y comas, porque el textoWell no los necesita.",
+          "is_correct": false,
+          "feedback": "La falta de puntuación aparece en cualquier nota breve, escrita u oral, y no es exclusiva de la oralidad."
+        },
+        {
+          "letter": "B",
+          "text": "El uso de una muletilla al final de la frase y de una marca de sorpresa en la expresión.",
+          "is_correct": true,
+          "feedback": "Las muletillas y las exclamaciones son recursos típicos de un mensaje rápido, informal y hablable."
+        },
+        {
+          "letter": "C",
+          "text": "La cantidad de palabras del mensaje, porque la oralidad exige textos largos.",
+          "is_correct": false,
+          "feedback": "La duración no define la oralidad; un mensaje de voz puede ser largo y una intervención oral puede ser breve."
+        },
+        {
+          "letter": "D",
+          "text": "El hecho de que esté dirigido a varias personas, porque lo escrito solo puede tener un destinatario.",
+          "is_correct": false,
+          "feedback": "La cantidad de destinatarios es una decisión del medio, no un rasgo de la oralidad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La oralidad deja marcas identificables en el texto: muletillas, Appeals, repeticiones, desorden aparente de las ideas yexpriones abiertas. Reconocerlas permite leer un mensaje informal con criterio, porque la ausencia de marcas finales no es descuido, sino consecuencia de la urgencia y de la confianza entre los interlocutores.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Textual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W26-el-habla-y-la-oralidad-cotidiana-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W26-el-habla-y-la-oralidad-cotidiana-001-MASTERY-bundle-v3",
+      "statement": "¿Qué frase corresponde a un registro formal, adecuado para esa solicitud?",
+      "context": "En un colegio de Medellín, una estudiante necesita pedirle a un profesor un cambio de fecha de una entrega.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Profe, ¿nos mueve la entrega para el viernes? Es que el viernes tengo parcial de física.\"",
+          "is_correct": false,
+          "feedback": "Es una petición cercana y directa; resulta apropiada entre compañeros, pero no con un docente en un contexto formal."
+        },
+        {
+          "letter": "B",
+          "text": "\"Ey profe, un favor, ¿me la corrés para mañana? Es que tengo muchas cosas.\"",
+          "is_correct": false,
+          "feedback": "El tratamiento cercano y la petición de favor ubican la solicitud en un registro coloquial, no formal."
+        },
+        {
+          "letter": "C",
+          "text": "\"Profesora, ¿sería posible reprogramar la entrega para el viernes? Tengo una evaluación ese mismo día.\"",
+          "is_correct": true,
+          "feedback": "El trato completo, el uso del condicional y la exposición ordenada del motivo corresponden a un registro formal."
+        },
+        {
+          "letter": "D",
+          "text": "\"Necesito que me cambien la fecha de entrega, y le agradezco si me la pueden mover.\"",
+          "is_correct": false,
+          "feedback": "Una mezcla de registros debilita la petición: descuidar la forma hace que el pedido parezca poco serio."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El registro es la forma que adopta el lenguaje según la relación entre los interlocutores y la situación. Entre iguales se permite la cercanía; hacia una autoridad se espera mayor distancia y orden en la exposición del motivo. Saber cambiar de registro no es una simple muestra de cortesía, sino una forma de reconocer al otro y de hacer que la petición sea atendida con seriedad.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W26-el-habla-y-la-oralidad-cotidiana-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W26-el-habla-y-la-oralidad-cotidiana-001-MASTERY-bundle-v4",
+      "statement": "¿Qué estrategia debe seguir el equipo para adaptar su mensaje al nuevo destinatario?",
+      "context": "Un equipo de noveno en Cali prepara la carta de presentación para una empresa y quiere conservar su tono sin que la solicitud resulte poco profesional.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mantener el mismo texto y añadirle, al final, \"gracias por su atención y su tiempo\".",
+          "is_correct": false,
+          "feedback": "Agregar una fórmula de cortesía no corrige el tono: el problema está en el tratamiento y no en el cierre."
+        },
+        {
+          "letter": "B",
+          "text": "Cambiar únicamente el nombre del destinatario y enviar el mensaje tal como está.",
+          "is_correct": false,
+          "feedback": "Si la relación cambia, cambian también la forma de tratar y de exponer el motivo, no solo el nombre."
+        },
+        {
+          "letter": "C",
+          "text": "Escribir el mensaje en mayúsculas para llamar la atención sobre su importancia.",
+          "is_correct": false,
+          "feedback": "Las mayúsculas no son un recurso de formalidad, sino una marca de urgencia que puede leerse como grosería."
+        },
+        {
+          "letter": "D",
+          "text": "Sustituir las expresiones coloquiales por sus equivalentes formales y presentar la solicitud con un motivo ordenado.",
+          "is_correct": true,
+          "feedback": "Adaptar el registro exige cambiar los recursos del lenguaje, no solo la persona a la que se escribe."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Cambiar de registro es una operación de sustitución y reordenamiento: se identifican las marcas coloquiales, se reemplazan por equivalentes del registro deseado y se organiza el mensaje según lo que espera el destinatario. La finalidad no es sonar distante, sino hacer comprensible y serio lo que se pide.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W26-el-habla-y-la-oralidad-cotidiana-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W26-el-habla-y-la-oralidad-cotidiana-001-MASTERY-bundle-v5",
+      "statement": "¿Qué paráfrasis explica correctamente la expresión usada en ese contexto?",
+      "context": "En una conversación en un parque de Medellín, alguien dice que un vecino no dio \"ni pie con bola\" en la reunión del barrio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Significa que el vecino pateó la pelota, en una frase de respuesta directa.",
+          "is_correct": false,
+          "feedback": "Ese es el sentido literal, pero no el sentido que la expresión tiene en el habla cotidiana."
+        },
+        {
+          "letter": "B",
+          "text": "Significa que el vecino golpeó la pelota, por eso no pudo participar en el juego.",
+          "is_correct": false,
+          "feedback": "Interpretar la expresión como referencia a un deporte pierde el uso idiomático que tiene en la conversación."
+        },
+        {
+          "letter": "C",
+          "text": "Significa que el vecino no hizo nada, no se movió ni demuestran interés para lograr lo que se esperaba de él.",
+          "is_correct": true,
+          "feedback": "La expresión idiomática se usa para señalar la inacción completa, aun cuando existieran las condiciones para actuar."
+        },
+        {
+          "letter": "D",
+          "text": "Significa que el vecino se opuso activamente y revisó todas las opciones del debate.",
+          "is_correct": false,
+          "feedback": "La expresión no alude a una oposición activa, sino a la ausencia total de acción."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las expresiones idiomáticas y los modismos son unidades cuyo significado no se obtiene palabra por palabra, sino por convencionalidad. Por eso un estudiante puede comprender todas las partes de la frase y aun así no captar lo que se quiere decir. Interpretar bien el habla cotidiana pasa por reconocer esas unidades como piezas unitarias de la lengua.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semantico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W26-el-habla-y-la-oralidad-cotidiana-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W26-el-habla-y-la-oralidad-cotidiana-001-MASTERY-bundle-v6",
+      "statement": "¿Qué conectores debe usar el estudiante para que la transcripción conserve la lógica del discurso oral?",
+      "context": "Un docente de Barranquilla pide a sus estudiantes de noveno que recreen por escrito la explicación oral que dio sobre la Revolución del 30.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Puntuaciones, porque los puntos declaran la sucesión de las ideas.",
+          "is_correct": false,
+          "feedback": "La puntuación y la sucesión cumplen funciones distintas: una separa y la otra articula el discurso."
+        },
+        {
+          "letter": "B",
+          "text": "Conectores de secuencia y causa, como \"primero\", \"entonces\", \"por eso\" y \"finalmente\".",
+          "is_correct": true,
+          "feedback": "Estos recursos ordenan la información y hacen explícitas las relaciones que en el habla se dan por entendidas."
+        },
+        {
+          "letter": "C",
+          "text": "Adjetivos, porque las explicaciones orales necesitan más emoción.",
+          "is_correct": false,
+          "feedback": "Los adjetivos pueden calificar, pero no explican cómo se relacionan unas ideas con otras."
+        },
+        {
+          "letter": "D",
+          "text": "Títulos y subtítulos, porque sustituyen las partes del razonamiento original.",
+          "is_correct": false,
+          "feedback": "Los títulos ordenan el texto, pero no reconstruyen la lógica interna del discurso que se quiere recuperar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El discurso oral ya es organizado, aunque esa organización quede oculta por la inmediatez y por las muletillas. Al pasarlo por escrito hay que hacer visibles las relaciones entre las ideas mediante conectores. Ese trabajo de reescritura enseña que la oralidad no es desorden, sino un orden que se apoya en recursos distintos de los escritos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W26-el-habla-y-la-oralidad-cotidiana-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W26-el-habla-y-la-oralidad-cotidiana-001-MASTERY-bundle-v7",
+      "statement": "¿Qué problema dificulta la comprensión de esta intervención en un contexto escrito o en una conversación presencial?",
+      "context": "En una llamada de voz entre dos compañeros de noveno en Cali, uno dice: \"Traé ese cuaderno que te presté, que ahí tengo lo de la prueba\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las expresiones \"ese cuaderno\" y \"lo de la prueba\" dependen de una situación compartida que el texto no conserva.",
+          "is_correct": true,
+          "feedback": "Los elementos sustitutos y las expresiones elípticas son propios del habla, donde el contexto compensa lo no dicho."
+        },
+        {
+          "letter": "B",
+          "text": "La frase es demasiado larga para el tiempo disponible de una llamada.",
+          "is_correct": false,
+          "feedback": "La longitud no es lo que impide comprender; la llamada impone otros límites, no la extensión del enunciado."
+        },
+        {
+          "letter": "C",
+          "text": "El uso del verbo \"traé\" impide entender el mensaje en un contexto colombiano.",
+          "is_correct": false,
+          "feedback": "El imperativo es perfectamente comprensible; la dificultad no está en la forma verbal ni en el contexto."
+        },
+        {
+          "letter": "D",
+          "text": "La frase no contiene información, porque omite las palabras sujeto y verbo.",
+          "is_correct": false,
+          "feedback": "Sí contiene información: el problema es que la comprensión depende de lo que ambos interlocutores ya saben."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En el discurso oral buena parte de lo que se entiende no está en las palabras, sino en la situación compartida. Expresiones como \"ese\", \"eso\" o \"lo de la prueba\" funcionan como espacios que el interlocutor completa mentalmente. Identificar esa dependencia es el primer paso para poder escribir un texto que no dependa de la presencia del otro.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W26-el-habla-y-la-oralidad-cotidiana-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W26-el-habla-y-la-oralidad-cotidiana-001-MASTERY-bundle-v8",
+      "statement": "¿Qué revela este intercambio sobre la construcción del sentido en una conversación?",
+      "context": "En un chat de grupo del proyecto escolar, se lee este intercambio: \"Listo\" / \"No, no Listo. Lo que Listo es el archivo\" / \"Ya, ya, no se ponga difícil\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la palabra \"listo\" tiene un único significado aceptado por todos los participantes.",
+          "is_correct": false,
+          "feedback": "Si el significado fuera único, no habría necesidad de aclaraciones ni de correcciones entre los turnos."
+        },
+        {
+          "letter": "B",
+          "text": "Que la conversación carece de sentido porque los participantes no hablan la misma lengua.",
+          "is_correct": false,
+          "feedback": "Hay un conflicto de interpretación, no de lengua: los tres se entienden lo suficiente para discrepar."
+        },
+        {
+          "letter": "C",
+          "text": "Que el tono del último mensaje demuestra que la discusión es estrictamente matemática.",
+          "is_correct": false,
+          "feedback": "El tono es irónico y cercano; su función es relajar la tensión, no volver la discusión técnica o académica."
+        },
+        {
+          "letter": "D",
+          "text": "Que el sentido se construye y se negocia turno a turno, mediante aclaraciones y correcciones.",
+          "is_correct": true,
+          "feedback": "El primer participante interpreta, el segundo corrige y el tercero ironiza: el sentido no está dado de antemano."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "En una conversación el sentido no se transmite de una vez, sino que se ajusta. Cada participante aporta una lectura, y los turnos siguientes la confirman, la corrigen o la ironizan. Analizar estos movimientos ayuda a comprender que un desacuerdo no siempre es un problema de comprensión, sino una parte normal de la construcción colectiva del discurso.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W26-el-habla-y-la-oralidad-cotidiana-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W26-el-habla-y-la-oralidad-cotidiana-001-MASTERY-bundle-v9",
+      "statement": "¿Qué análisis permite responder correctamente a la afirmación de la estudiante?",
+      "context": "En un salón de Bucaramanga, una estudiante de noveno sostiene que la palabra \"tinto\" para el café es un error porque esa palabra solo existe en Colombia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se trata de una variación regional: la palabra es válida en Colombia, pero no es la única forma de nombrar esa bebida.",
+          "is_correct": true,
+          "feedback": "Reconocer la variación regional sin descalificarla muestra que el uso no es un error, sino una elección válida."
+        },
+        {
+          "letter": "B",
+          "text": "Se trata de un error de pronunciación que debe corregirse con insistencia en el aula.",
+          "is_correct": false,
+          "feedback": "No hay una forma única de decir la palabra; corregirla implicaría desvalorizar un uso regional legítimo."
+        },
+        {
+          "letter": "C",
+          "text": "Se trata de una expresión que solo existe en el español de la costa y no en el interior del país.",
+          "is_correct": false,
+          "feedback": "La afirmación no puede sostenerse con una división tan simple; la variación se distribuye de manera compleja."
+        },
+        {
+          "letter": "D",
+          "text": "Se trata de un error gramatical porque el artículo debe anteponerse a esa palabra.",
+          "is_correct": false,
+          "feedback": "El uso de \"tinto\" es un asunto de variedad léxica, y no un problema de concordancia de artículo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La variedad lingüística es un hecho de las lenguas vivas: hay usos regionales, sociales y generacionales que conviven sin que unos sean más correctos que otros. Analizar la variación como fenómeno, y no como error, cambia la forma de dictar en clase y evita que un estudiante se sienta excluido por el lugar de donde viene.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semantico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W26-el-habla-y-la-oralidad-cotidiana-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W26-el-habla-y-la-oralidad-cotidiana-001-MASTERY-bundle-v10",
+      "statement": "¿Qué comparación resulta más pertinente para analizar los cambios de la oralidad en esa zona?",
+      "context": "En una tarea de noveno, se pide comparar una descripción de las calles de Bogotá escrita a mediados del siglo XX con una publicación actual sobre el mismo sector.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Comparar la cantidad de palabras de ambos textos.",
+          "is_correct": false,
+          "feedback": "El volumen del texto no dice nada sobre los cambios de la oralidad ni sobre la forma de hablar de los habitantes."
+        },
+        {
+          "letter": "B",
+          "text": "Contrastar cómo se evocan las voces y las culturas de calle en cada texto.",
+          "is_correct": true,
+          "feedback": "Poner en diálogo ambas fuentes permite observar qué voces se escuchaban, cuáles se nombran y cómo cambió esa escucha."
+        },
+        {
+          "letter": "C",
+          "text": "Comparar el número de oraciones de cada descripción.",
+          "is_correct": false,
+          "feedback": "Contar oraciones mide la forma de la frase, no los usos orales ni los interlocutores que cada época supone."
+        },
+        {
+          "letter": "D",
+          "text": "Comparar el clima de las fechas en que se escribieron los dos textos.",
+          "is_correct": false,
+          "feedback": "El clima no es un factor de análisis de la oralidad, salvo en casos muy específicos que el enunciado no propone."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El análisis intertextual pone en relación dos textos de épocas distintas para observar procesos de cambio. En este caso, comparar cómo cada texto da voz a los habitantes permite ver qué se escuchaba en cada momento, qué se callaba y por qué. Esa mirada ayuda a entender que la oralidad también es un asunto histórico y no solo un asunto personal.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Critico-Intertextual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W26-el-habla-y-la-oralidad-cotidiana-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W26-el-habla-y-la-oralidad-cotidiana-001-MASTERY-bundle-v11",
+      "statement": "¿Qué juicio es el más proporcionado sobre esa indicación?",
+      "context": "Un colegio de Bogotá decide grabar a estudiantes de noveno en un pódcast sobre la vida en su barrio, y les pide que hablen \"como en la casa\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es adecuada, porque la cercanía garantiza que todos los oyentes se sientan identificados.",
+          "is_correct": false,
+          "feedback": "La cercanía no garantiza identificación: puede dejar fuera a quien no comparte esa forma de hablar."
+        },
+        {
+          "letter": "B",
+          "text": "Es inadecuada, porque toda oralidad cotidiana carece de valor comunicativo.",
+          "is_correct": false,
+          "feedback": "Descalificar la oralidad cotidiana contradice lo que el propio curso estudia: es un sistema plenamente comunicativo."
+        },
+        {
+          "letter": "C",
+          "text": "Es pertinente, siempre que se combine con una explicación de la diversidad de formas de hablar del barrio y con el cuidado de no exponer a nadie.",
+          "is_correct": true,
+          "feedback": "La indicación es válida si se acompaña de respeto por la variedad de cada participante y de criterios de protección."
+        },
+        {
+          "letter": "D",
+          "text": "Es irrelevante, porque en un pódcast solo importa la dicción y la voz del participante.",
+          "is_correct": false,
+          "feedback": "La forma de hablar importa, pero también la relación con el oyente y el cuidado por las personas que aparecen."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Juzgar una indicación exige valorar su pertinencia y sus efectos, no solo si suena agradable o cercana. En este caso, la indicación es defendible porque favorece la autenticidad del relato, pero queda incompleta si no incluye una reflexión sobre la diversidad de formas de hablar y sobre el cuidado de los participantes. Un buen juicioScali TD en el uso del lenguaje combina comprehend empathy y la revisión de sus consecuencias.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W26-el-habla-y-la-oralidad-cotidiana-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W26-el-habla-y-la-oralidad-cotidiana-001-MASTERY-bundle-v12",
+      "statement": "¿Qué evaluación es la más sólida frente a esa afirmación?",
+      "context": "En una discusión de grupo en noveno, un estudiante afirma: \"Como la oralidad no deja registro escrito, no sirve para nada en la vida académica\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La afirmación es verdadera, porque toda prueba escrita evalúa únicamente la ortografía.",
+          "is_correct": false,
+          "feedback": "Las pruebas evalúan comprensión y razonamiento; reducir la evaluación a la ortografía no describe la realidad del aula."
+        },
+        {
+          "letter": "B",
+          "text": "La afirmación es verdadera, porque el conocimiento escrito siempre vale más que el oral.",
+          "is_correct": false,
+          "feedback": "Esa jerarquía no existe: ambas formas de expresión son vehículos legítimos del conocimiento."
+        },
+        {
+          "letter": "C",
+          "text": "La afirmación es falsa, pero solo porque la oralidad es la única fuente de información en una comunidad.",
+          "is_correct": false,
+          "feedback": "La comunidad tiene múltiples fuentes de información; la oralidad es una de ellas, no la única."
+        },
+        {
+          "letter": "D",
+          "text": "La afirmación es falsa, porque la oralidad sostiene funciones como la negociación, la explicación y la deliberación.",
+          "is_correct": true,
+          "feedback": "La oralidad cumple funciones Cognitivas y sociales que la escritura no resuelve del mismo modo, y ambas se necesitan."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar una afirmación exige ponerla a prueba con razones y encontrar contraejemplos que la contradigan. La oralidad sostiene la explicación, la negociación y la deliberación, funciones que cambian según el contexto y los interlocutores. Reconocer ese valor cambia la manera de estudiar y de participar en un salón de clases.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W26-el-habla-y-la-oralidad-cotidiana-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}
