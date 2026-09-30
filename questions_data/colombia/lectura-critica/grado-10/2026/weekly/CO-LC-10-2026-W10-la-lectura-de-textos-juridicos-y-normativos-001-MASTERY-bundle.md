@@ -130,7 +130,7 @@ Aplicar una norma exige identificar quién es el destinatario y cuál es la cond
 ## Question 5 [D5-D6]
 **ID:** CO-LC-10-2026-W10-la-lectura-de-textos-juridicos-y-normativos-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Sintactico
+**ICFES:** Sintáctico
 **Expected_Success:** 0.78
 **Contexto:** En Medellín, la profesora de Lectura Crítica pide justificar por qué el artículo se dirige a la institución y no a un estudiante en particular.
 
@@ -153,7 +153,7 @@ El «se» impersonal es una de las marcas del registro de las normas, junto con 
 ## Question 6 [D5-D6]
 **ID:** CO-LC-10-2026-W10-la-lectura-de-textos-juridicos-y-normativos-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Pragmatico
+**ICFES:** Pragmático
 **Expected_Success:** 0.76
 **Contexto:** En Medellín, los estudiantes de décimo grado discuten qué resuelve el artículo 7 en la vida del colegio.
 
@@ -199,7 +199,7 @@ Un texto normativo no necesita convencer porque no discute: su fuerza está en l
 ## Question 8 [D7-D8]
 **ID:** CO-LC-10-2026-W10-la-lectura-de-textos-juridicos-y-normativos-001-MASTERY-bundle-v8
 **Bloom:** Analyze
-**ICFES:** Critico-Intertextual
+**ICFES:** Crítico-Intertextual
 **Expected_Success:** 0.68
 **Contexto:** En Medellín, los estudiantes de décimo grado contrastan la norma con la nota del periódico escolar para preparar un debate en clase.
 
@@ -268,7 +268,7 @@ Evaluar un texto de divulgación sobre una norma exige separar los planos: preci
 ## Question 11 [D9-D10]
 **ID:** CO-LC-10-2026-W10-la-lectura-de-textos-juridicos-y-normativos-001-MASTERY-bundle-v11
 **Bloom:** Evaluate
-**ICFES:** Critico-Intertextual
+**ICFES:** Crítico-Intertextual
 **Expected_Success:** 0.60
 **Contexto:** En Medellín, un estudiante de undécimo grado reclama porque considera injusta la sanción que recibió y el comité de convivencia debe resolver.
 

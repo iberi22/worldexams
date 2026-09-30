@@ -149,7 +149,7 @@ Una tesis se sostiene con los contrastes que el propio texto construye. La estud
 ## Question 6 [D5-D6]
 **ID:** CO-LC-10-2026-W06-la-critica-literaria-y-los-criterios-de-valoracion-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Pragmatico
+**ICFES:** Pragmático
 **Expected_Success:** 0.78
 **Contexto:** En Villavicencio, un club de lectura quiere presentar el Texto 1 a personas que no leyeron la novela.
 
@@ -172,7 +172,7 @@ El propósito comunicativo de una crítica cambia lo que conviene destacar. Ante
 ## Question 7 [D7-D8]
 **ID:** CO-LC-10-2026-W06-la-critica-literaria-y-los-criterios-de-valoracion-001-MASTERY-bundle-v7
 **Bloom:** Analyze
-**ICFES:** Critico-Intertextual
+**ICFES:** Crítico-Intertextual
 **Expected_Success:** 0.74
 **Contexto:** En Popayán, un profesor sostiene que solo uno de los dos textos es una crítica.
 
@@ -264,7 +264,7 @@ Evaluar una crítica exige aplicar criterios sobre la calidad de sus razones y n
 ## Question 11 [D9-D10]
 **ID:** CO-LC-10-2026-W06-la-critica-literaria-y-los-criterios-de-valoracion-001-MASTERY-bundle-v11
 **Bloom:** Evaluate
-**ICFES:** Critico-Intertextual
+**ICFES:** Crítico-Intertextual
 **Expected_Success:** 0.64
 **Contexto:** En Montería, un estudiante reescribe el Texto 2 con el fin de publicarlo en un periódico juvenil.
 
@@ -287,7 +287,7 @@ Reescribir una crítica exige conservar el tema y cambiar la calidad de las razo
 ## Question 12 [D9-D10]
 **ID:** CO-LC-10-2026-W06-la-critica-literaria-y-los-criterios-de-valoracion-001-MASTERY-bundle-v12
 **Bloom:** Evaluate
-**ICFES:** Pragmatico
+**ICFES:** Pragmático
 **Expected_Success:** 0.62
 **Contexto:** En Cartagena, un equipo de décimo grado construye una rúbrica para evaluar las críticas del trimestre.
 

@@ -82,7 +82,7 @@ Los datos concretos de un anuncio son los puntos de contraste más seguros para 
 ## Question 3 [D3-D4]
 **ID:** CO-LC-10-2026-W13-la-argumentacion-en-la-publicidad-y-los-medios-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**ICFES:** Pragmatico
+**ICFES:** Pragmático
 **Expected_Success:** 0.85
 **Contexto:** En Cali, los estudiantes de décimo grado escuchan por segunda vez el cierre del aviso del Texto 1 y anotan la intención de esa frase.
 
@@ -151,7 +151,7 @@ Un buen resumen de un texto publicitario conserva la afirmación principal y su 
 ## Question 6 [D5-D6]
 **ID:** CO-LC-10-2026-W13-la-argumentacion-en-la-publicidad-y-los-medios-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Critico-Intertextual
+**ICFES:** Crítico-Intertextual
 **Expected_Success:** 0.78
 **Contexto:** En Bucaramanga, el grupo de décimo grado coloca los dos anuncios en una cartelera para compararlos.
 
@@ -197,7 +197,7 @@ Analizar un anuncio consiste en reconstruir la cadena de razones que sostiene su
 ## Question 8 [D7-D8]
 **ID:** CO-LC-10-2026-W13-la-argumentacion-en-la-publicidad-y-los-medios-001-MASTERY-bundle-v8
 **Bloom:** Analyze
-**ICFES:** Critico-Intertextual
+**ICFES:** Crítico-Intertextual
 **Expected_Success:** 0.74
 **Contexto:** En Bucaramanga, un grupo de décimo grado analiza cómo el diseño de la publicación del Texto 2 participa en la persuasión.
 
@@ -266,7 +266,7 @@ Valorar la confiabilidad de un anuncio exige confrontar lo que promete con lo qu
 ## Question 11 [D9-D10]
 **ID:** CO-LC-10-2026-W13-la-argumentacion-en-la-publicidad-y-los-medios-001-MASTERY-bundle-v11
 **Bloom:** Evaluate
-**ICFES:** Pragmatico
+**ICFES:** Pragmático
 **Expected_Success:** 0.60
 **Contexto:** En Bucaramanga, un profesor pide al grupo de décimo grado que difunda entre los compañeros la publicación del Texto 2.
 

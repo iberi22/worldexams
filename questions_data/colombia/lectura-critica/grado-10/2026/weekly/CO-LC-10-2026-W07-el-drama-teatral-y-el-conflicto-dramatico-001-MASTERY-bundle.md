@@ -149,7 +149,7 @@ Agregar tensión a una escena no exige cambiar el tema sino devolver la oposici�
 ## Question 6 [D5-D6]
 **ID:** CO-LC-10-2026-W07-el-drama-teatral-y-el-conflicto-dramatico-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Pragmatico
+**ICFES:** Pragmático
 **Expected_Success:** 0.78
 **Contexto:** En Bogotá, el profesor de teatro pide distribuir los papeles de una obra corta.
 
@@ -172,7 +172,7 @@ Un reparto teatral se decide mirando qué hace que la escena funcione, y no cuá
 ## Question 7 [D7-D8]
 **ID:** CO-LC-10-2026-W07-el-drama-teatral-y-el-conflicto-dramatico-001-MASTERY-bundle-v7
 **Bloom:** Analyze
-**ICFES:** Critico-Intertextual
+**ICFES:** Crítico-Intertextual
 **Expected_Success:** 0.74
 **Contexto:** En Pereira, un profesor compara las dos escenas antes de la representación final.
 
@@ -264,7 +264,7 @@ Evaluar una obra teatral exige separar lo que hace verosímil una escena de lo q
 ## Question 11 [D9-D10]
 **ID:** CO-LC-10-2026-W07-el-drama-teatral-y-el-conflicto-dramatico-001-MASTERY-bundle-v11
 **Bloom:** Evaluate
-**ICFES:** Critico-Intertextual
+**ICFES:** Crítico-Intertextual
 **Expected_Success:** 0.64
 **Contexto:** En Valledupar, la directora de teatro propone cambiar la obra del grupo.
 
@@ -287,7 +287,7 @@ Evaluar un cambio en una puesta en escena exige preguntar qué material dramáti
 ## Question 12 [D9-D10]
 **ID:** CO-LC-10-2026-W07-el-drama-teatral-y-el-conflicto-dramatico-001-MASTERY-bundle-v12
 **Bloom:** Evaluate
-**ICFES:** Pragmatico
+**ICFES:** Pragmático
 **Expected_Success:** 0.62
 **Contexto:** En Popayán, el grupo evalúa un video de la representación del Texto 1.
 
