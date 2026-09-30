@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-28-grade-4-subject-lectura_critica",
+    "generated_at": "2026-09-30T09:29:09.276Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-4-2026-W28-el-cuadro-comparativo-y-la-informacion-organizada-001-MASTERY-bundle-v1",
+      "statement": "Lee con atención el cuadro que escribió la profesora en el tablero.\n\n*\"Columna 1: fruta. Columna 2: precio en el mercado de Cartagena. Columna 3: precio en el mercado de Barranquilla. Fila 1: naranja, tres mil doscientos pesos, tres mil cien pesos. Fila 2: mora, cuatro mil cien pesos, tres mil ochocientos pesos.\"*\n\n¿Qué información representa una fila del cuadro?",
+      "context": "En la clase de cuarto de Cartagena, la profesora explica cómo se arma un cuadro comparativo de precios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un solo dato de un solo mercado",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una fila reúne varios datos del mismo producto en las distintas columnas, y no se limita a un solo dato."
+        },
+        {
+          "letter": "B",
+          "text": "Todos los datos que corresponden a un mismo producto",
+          "is_correct": true,
+          "feedback": "Correcto. La primera fila junta la naranja con sus dos precios y la segunda hace lo mismo con la mora, y eso hace cada fila."
+        },
+        {
+          "letter": "C",
+          "text": "El nombre de todas las frutas que hay en el mercado",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los nombres de las frutas están en la primera columna, y una fila no reúne los nombres de varios productos."
+        },
+        {
+          "letter": "D",
+          "text": "El precio más alto de todos los que aparecen en el cuadro",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cuadro no marca ningún precio como el más alto, y cada fila solo compara los datos de un producto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un cuadro comparativo organiza la información en filas y en columnas, y las filas agrupan los datos de un mismo elemento para poder compararlos. Saber qué representa cada fila y cada columna evita el error más común, que es mezclar los datos de dos productos distintos. Esta lectura estructural prepara a los niños para cualquier tabla que encuentren en un libro de texto.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Literal",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-4-2026-W28-el-cuadro-comparativo-y-la-informacion-organizada-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W28-el-cuadro-comparativo-y-la-informacion-organizada-001-MASTERY-bundle-v2",
+      "statement": "Observa el encabezado del cuadro de una tarea escolar.\n\n*\"Encabezado: material que necesitan. Columna 1: cartulina. Columna 2: marcadores. Columna 3: pegante.\"*\n\n¿Qué le comunica al lector el encabezado del cuadro?",
+      "context": "En un taller de lectura de cuarto en Pereira, los estudiantes estudian para qué sirven los encabezados de un cuadro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le comunica que el cuadro habla de tres materiales y de lo que cuestan",
+          "is_correct": false,
+          "feedback": "Incorrecto. El encabezado no menciona precios, y los datos que aparecen en el cuadro son tres materiales y nada más."
+        },
+        {
+          "letter": "B",
+          "text": "Le comunica que el cuadro tiene que leerse de abajo hacia arriba",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un encabezado no indica el sentido de lectura, y los cuadros se leen como cualquier texto, de arriba hacia abajo."
+        },
+        {
+          "letter": "C",
+          "text": "Le comunica que los materiales son obligatorios para la clase de cuarto",
+          "is_correct": false,
+          "feedback": "Incorrecto. El encabezado solo dice de qué trata la tabla, y el cuadro no afirma que esos materiales sean obligatorios."
+        },
+        {
+          "letter": "D",
+          "text": "Le comunica que la información que sigue está organizada según el material que se necesita",
+          "is_correct": true,
+          "feedback": "Correcto. El encabezado anuncia el criterio con el que se organizó el cuadro, y así el lector sabe qué compara cada fila."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El encabezado de un cuadro es la frase que anuncia de qué trata la información antes de mostrar los datos. Esa frase permite entender el cuadro en un segundo y saber si la tabla sirve para lo que el lector busca. Enseñar a los niños a buscar el encabezado es uno de los pasos más sencillos para mejorar la lectura de textos informativos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-4-2026-W28-el-cuadro-comparativo-y-la-informacion-organizada-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W28-el-cuadro-comparativo-y-la-informacion-organizada-001-MASTERY-bundle-v3",
+      "statement": "Lee el cuadro de precios de la tarea.\n*\"Cuadro de precios en dos mercados. Naranja: dos mil novecientos pesos en el mercado de Villavicencio y tres mil doscientos pesos en el mercado de Cartagena. Mora: tres mil ochocientos pesos en el mercado de Villavicencio y cuatro mil cien pesos en el mercado de Cartagena. Pera: tres mil pesos en el mercado de Villavicencio y dos mil ochocientos pesos en el mercado de Cartagena.\"*\n\n¿Cuál de los dos mercados tiene la fruta más cara?",
+      "context": "En el aula de cuarto de Villavicencio, un grupo debe resolver una pregunta de una tarea usando solo el cuadro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El mercado de Cartagena, porque en las tres frutas sus precios son más altos",
+          "is_correct": true,
+          "feedback": "Correcto. En el cuadro, la naranja, la mora y la pera cuestan más en Cartagena, y los tres datos apuntan al mismo mercado."
+        },
+        {
+          "letter": "B",
+          "text": "El mercado de Villavicencio, porque la mora es la fruta que más cuesta en los dos mercados",
+          "is_correct": false,
+          "feedback": "Incorrecto. La comparación de las tres filas muestra que los precios más altos están en Cartagena, y no en Villavicencio."
+        },
+        {
+          "letter": "C",
+          "text": "El mercado de Cartagena, porque la pera es la fruta más cara y se repite",
+          "is_correct": false,
+          "feedback": "Incorrecto. La respuesta coincide por casualidad, pero el dato que importa es que en las tres frutas Cartagena tiene el precio más alto."
+        },
+        {
+          "letter": "D",
+          "text": "Los dos mercados, porque la naranja y la mora cuestan lo mismo en los dos sitios",
+          "is_correct": false,
+          "feedback": "Incorrecto. La naranja y la mora tienen precios diferentes en cada mercado, y el cuadro no muestra igualdad en ningún caso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar lo que dice un cuadro es recorrer todas las filas y no quedarse con el primer dato que se ve. Solo cuando se comparan los tres productos se puede afirmar con seguridad que un mercado es más caro que el otro. Este hábito de revisar todas las filas evita opiniones precipitadas y enseña a sustentar una conclusión con los datos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-4-2026-W28-el-cuadro-comparativo-y-la-informacion-organizada-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W28-el-cuadro-comparativo-y-la-informacion-organizada-001-MASTERY-bundle-v4",
+      "statement": "Lee el cuadro de tiempos de viaje.\n\n*\"Cuadro de tiempos de viaje a la escuela. Bus: cincuenta y cinco minutos. Ciclobus: treinta y cinco minutos. Nota al pie: la caminata a pie se demora cuarenta y cinco minutos, y solo es posible los días de lluvia.\"*\n\n¿Qué se puede inferir con los datos del cuadro?",
+      "context": "En la clase de cuarto de Ibagué, los estudiantes reciben un cuadro sobre el tiempo de viaje con dos medios de transporte.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el ciclobus siempre es más rápido que el bus en cualquier día",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cuadro no compara el ciclobus con la caminata los días de lluvia, y por eso no se puede afirmar que sea el más rápido siempre."
+        },
+        {
+          "letter": "B",
+          "text": "Que la lluvia cambia la ventaja entre el bus y el ciclobus, porque la caminata a pie solo se puede hacer ese día",
+          "is_correct": true,
+          "feedback": "Correcto. La nota al pie muestra que la caminata aparece como opción únicamente con lluvia, y ese detalle modifica la comparación."
+        },
+        {
+          "letter": "C",
+          "text": "Que el bus hace el mismo recorrido que el ciclobus, porque los dos son servicios públicos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cuadro no habla de recorridos ni de servicios públicos, y solo entrega tiempos de viaje de cada medio."
+        },
+        {
+          "letter": "D",
+          "text": "Que ninguno de los medios de transporte sirve para llegar a la escuela",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cuadro presenta tres medios con tiempos definidos, y eso muestra que hay opciones para el trayecto, no que ninguna sirva."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Inferir con un cuadro es fijarse en los detalles que solo aparecen al unir dos filas, como es el caso de una nota que cambia una cifra. Un comentario al pie o una aclaración de una columna puede modificar la comparación completa, y por eso hay que leer el cuadro entero. Leer con esa atención prepara a los niños para las tablas más complejas de los libros de texto de matemáticas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Inferencial",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-4-2026-W28-el-cuadro-comparativo-y-la-informacion-organizada-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W28-el-cuadro-comparativo-y-la-informacion-organizada-001-MASTERY-bundle-v5",
+      "statement": "Lee las dos versiones que escribieron dos grupos sobre las comidas del colegio.\n\n*\"Versión párrafo: \"En el restaurante escolar de Manizales, el lunes sirvieron arroz con pollo, el martes lentejas con arroz, el miércoles sopa de papa con carne y el jueves pescado con patacones\". Versión cuadro: \"Encabezado: día de la semana. Fila 1: lunes, arroz con pollo. Fila 2: martes, lentejas con arroz. Fila 3: miércoles, sopa de papa con carne. Fila 4: jueves, pescado con patacones.\"*\n\n¿Qué diferencia de organización se observa entre las dos versiones?",
+      "context": "En un trabajo en grupo de cuarto de Manizales, los estudiantes comparan cómo presentan la misma información un párrafo y un cuadro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El párrafo tiene más comidas que el cuadro y por eso está más completo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las dos versiones traen las mismas cuatro comidas, y la diferencia entre ellas no es la cantidad de datos."
+        },
+        {
+          "letter": "B",
+          "text": "El cuadro cambia los nombres de las comidas para que sean más fáciles",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cuadro repite exactamente las mismas comidas del párrafo, y ningún nombre fue cambiado en la organización."
+        },
+        {
+          "letter": "C",
+          "text": "El cuadro separa cada día en su propia fila, mientras que el párrafo obliga a leer todo en un solo bloque",
+          "is_correct": true,
+          "feedback": "Correcto. El cuadro permite buscar un día concreto de un vistazo, mientras que en el párrafo esa información está mezclada en un texto corrido."
+        },
+        {
+          "letter": "D",
+          "text": "El párrafo está organizado por columnas aunque no se vea ninguna tabla",
+          "is_correct": false,
+          "feedback": "Incorrecto. El párrafo es un bloque de texto corrido, y la única versión que usa filas y columnas es el cuadro."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Analizar la organización de un texto es preguntarse dónde queda cada dato y cuánto cuesta encontrarlo. El cuadro distribuye la información en filas y columnas, y por eso permite comparaciones rápidas que en un párrafo resultan lentas. Entender esa diferencia ayuda a los niños a elegir la mejor forma de presentar un trabajo y a entender mejor cualquier tabla.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-4-2026-W28-el-cuadro-comparativo-y-la-informacion-organizada-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W28-el-cuadro-comparativo-y-la-informacion-organizada-001-MASTERY-bundle-v6",
+      "statement": "Lee el enunciado de la tarea y las cuatro versiones del cuadro.\n\n*\"Tarea: investigar el precio de tres frutas en dos mercados. Versión 1: la naranja cuesta tres mil doscientos en Cartagena y dos mil ochocientos en Pasto. Versión 2: la naranja cuesta tres mil doscientos en Cartagena y tres mil doscientos en Pasto. Versión 3: la naranja cuesta tres milcientos en Cartagena y dos mil ochocientos en Pasto. Versión 4: la naranja cuesta tres mil doscientos en Cartagena y dos mil ochocientos en Villavicencio.\"*\n\n¿Cuál versión contradice lo que pidió la tarea?",
+      "context": "En el aula de cuarto de Pasto, la profesora encuentra cuatro versiones de un cuadro y pide a los grupos que revisen los datos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La versión 2, porque repite el precio de Cartagena en el dato de Pasto",
+          "is_correct": true,
+          "feedback": "Correcto. La tarea pide dos mercados distintos y esa versión pone el mismo precio dos veces, así que no aporta la comparación que se pidió."
+        },
+        {
+          "letter": "B",
+          "text": "La versión 1, porque no dice en qué unidades están los precios",
+          "is_correct": false,
+          "feedback": "Incorrecto. La versión 1 da los precios en pesos y sí menciona dos mercados, así que cumple con lo que la tarea pidió."
+        },
+        {
+          "letter": "C",
+          "text": "La versión 3, porque el precio de Cartagena no es un número redondo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un precio puede ser cualquier cantidad, y nada en la tarea pide que los números sean redondos."
+        },
+        {
+          "letter": "D",
+          "text": "La versión 4, porque usa el nombre de un mercado que queda lejos del colegio",
+          "is_correct": false,
+          "feedback": "Incorrecto. La versión 4 sí compara dos mercados distintos, y que uno esté lejos del colegio no contradice la tarea."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Revisar un cuadro es comparar lo que se entregó con lo que se pidió, y esa revisión se hace dato por dato. Cuando dos celdas que deberían ser distintas muestran el mismo valor, la comparación se pierde y el cuadro ya no sirve para el objetivo. Este hábito de verificación es el mismo que se necesita para revisar una tabla de notas o un cuadro de gastos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-4-2026-W28-el-cuadro-comparativo-y-la-informacion-organizada-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W28-el-cuadro-comparativo-y-la-informacion-organizada-001-MASTERY-bundle-v7",
+      "statement": "Un compañero de tu grupo afirma lo siguiente.\n\n*\"Este cuadro es mejor que el párrafo porque tiene más números y los niños entienden mejor los números.\"*\n\n¿Cuál es la respuesta más sólida que puede darle el grupo a esa afirmación?",
+      "context": "En la reunión de aula de un colegio en Armenia, un compañero de tu grupo defiende lo que dice un cuadro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La afirmación es correcta, porque cualquier cuadro es mejor que cualquier párrafo",
+          "is_correct": false,
+          "feedback": "Incorrecto. No todos los cuadros son mejores que todos los párrafos, y depende de si la información necesita comparación o no."
+        },
+        {
+          "letter": "B",
+          "text": "La afirmación es correcta, porque las filas del cuadro permiten comparar los mismos datos entre dos opciones",
+          "is_correct": true,
+          "feedback": "Correcto. La utilidad del cuadro está en que los datos de cada opción quedan alineados y así la comparación es inmediata."
+        },
+        {
+          "letter": "C",
+          "text": "La afirmación es incorrecta, porque los párrafos siempre son más fáciles de leer que los cuadros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un párrafo puede ser más ameno de leer, pero en este caso el cuadro facilita justo la comparación que se buscaba."
+        },
+        {
+          "letter": "D",
+          "text": "La afirmación es incorrecta, porque los niños de cuarto grado todavía no saben leer cuadros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los niños sí pueden leer cuadros con filas y columnas, y lo que necesitan es práctica para familiarizarse con ellos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar un recurso de lectura es poner a prueba la razón que se da para preferirlo, y no quedarse con la primera impresión. Un cuadro destaca cuando la información de dos o más opciones debe compararse, porque alinea los datos en filas iguales. Enseñar a los niños a justificar con ese criterio les permite elegir bien la forma de estudiar y de presentar un trabajo.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-4-2026-W28-el-cuadro-comparativo-y-la-informacion-organizada-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W28-el-cuadro-comparativo-y-la-informacion-organizada-001-MASTERY-bundle-v8",
+      "statement": "Cuatro grupos propusieron esta versión.\n\n*\"Cuadro 1: \"Encabezado: material que van a comprar. Solo tiene la fila 1: cartulina, mil doscientos pesos\". Cuadro 2: \"Encabezado: cuánto cuesta cada material. Fila 1: cartulina, mil doscientos pesos. Fila 2: marcadores, ocho mil quinientos pesos. Fila 3: pegante, dos mil pesos. Total: once mil setecientos pesos\". Cuadro 3: \"Encabezado: material. Fila 1: cartulina, barata. Fila 2: marcadores, costosa. Fila 3: pegante, de precio intermedio\". Cuadro 4: \"Encabezado: material. Fila 1: cartulina. Fila 2: marcadores. Fila 3: pegante\".*\n\n¿Cuál de los cuatro cuadros sirve mejor para decidir cuánto dinero hay que pedir a la dirección?",
+      "context": "Como tarea final, los grupos de cuarto de Bogotá deben elegir el cuadro que mejor sirve para una decisión del colegio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El cuadro 1, porque trae el precio de un material y con eso ya se puede pedir el dinero",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese cuadro solo trae el precio de la cartulina y deja fuera dos materiales, así que la suma quedaría incompleta."
+        },
+        {
+          "letter": "B",
+          "text": "El cuadro 3, porque usa palabras sencillas que todos los niños entienden",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese cuadro califica los precios de barata o costosa, y con esas palabras no se puede saber la cantidad de dinero que hace falta."
+        },
+        {
+          "letter": "C",
+          "text": "El cuadro 4, porque enumera los tres materiales y eso ya es suficiente para decidir",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cuadro 4 solo lista los nombres de los materiales y no incluye ningún precio, así que no permite calcular nada."
+        },
+        {
+          "letter": "D",
+          "text": "El cuadro 2, porque entrega el precio de cada material y el total que se debe pedir",
+          "is_correct": true,
+          "feedback": "Correcto. Ese cuadro da los tres precios y además suma el total, y con esa información la decisión queda resuelta."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Elegir el cuadro adecuado para una decisión exige mirar qué necesita saber quien va a decidir, no solo qué cuadra se ve más ordenado. Para pedir dinero hacen falta cantidades y un total, y un cuadro que solo da nombres o juicios como barata no alcanza. Practicar esta elección enseña a los niños a pensar para qué se hace un cuadro y no solo a llenarlo de datos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-4-2026-W28-el-cuadro-comparativo-y-la-informacion-organizada-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    }
+  ]
+}
