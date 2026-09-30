@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-12-grade-9-subject-lengua",
+    "generated_at": "2026-09-30T00:02:10.269Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-9-2026-W12-la-ortografia-y-la-puntuacion-001-MASTERY-bundle-v1",
+      "statement": "Por qué la palabra \"qué\" lleva tilde en la oración \"qué haces\"?",
+      "context": "En el aula de Español de Medellín, la docente explica a los estudiantes de noveno grado el uso de la tilde.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque es una palabra interrogativa y por eso siempre se escribe con tilde",
+          "is_correct": false,
+          "feedback": "No toda palabra interrogativa lleva tilde, sino las que introducen una pregunta."
+        },
+        {
+          "letter": "B",
+          "text": "Porque las palabras con tilde son siempre las más largas",
+          "is_correct": false,
+          "feedback": "La longitud de la palabra no determina el uso de la tilde."
+        },
+        {
+          "letter": "C",
+          "text": "Porque introduce una interrogación directa y esa función exige la tilde",
+          "is_correct": true,
+          "feedback": "Los signos de interrogación y la tilde van juntos en este caso."
+        },
+        {
+          "letter": "D",
+          "text": "Porque sin tilde la palabra cambiaría de significado en este enunciado",
+          "is_correct": false,
+          "feedback": "La razón principal es la función interrogativa, no un cambio de significado."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La tilde diacrítica cumple la función de señalar la diferencia entre palabras que se escriben igual. En las preguntas directas, el pronombre \"qué\" debe llevar siempre tilde, porque la puntuación del enunciado así lo exige. Lo mismo ocurre con \"qué\" y \"quién\" dentro de preguntas indirectas. Dominar esta norma evita uno de los errores más comunes en los textos de los estudiantes.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Semantico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W12-la-ortografia-y-la-puntuacion-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W12-la-ortografia-y-la-puntuacion-001-MASTERY-bundle-v2",
+      "statement": "Qué dos usos principales tiene la coma dentro de una oración?",
+      "context": "En la biblioteca escolar de Cali, un grupo de noveno grado revisa la puntuación de un texto que leyeron.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Separar elementos de una enumeración y aislar un inciso",
+          "is_correct": true,
+          "feedback": "La coma separa miembros de una lista y marca las aposiciones."
+        },
+        {
+          "letter": "B",
+          "text": "Terminar la oración y empezar otra con la misma función",
+          "is_correct": false,
+          "feedback": "Esa es la función del punto, y no la de la coma."
+        },
+        {
+          "letter": "C",
+          "text": "Indicar una relación de causa entre dos oraciones completas",
+          "is_correct": false,
+          "feedback": "La relación de causa entre oraciones corresponde al punto y coma."
+        },
+        {
+          "letter": "D",
+          "text": "Separar el sujeto del verbo, porque esa es la norma general",
+          "is_correct": false,
+          "feedback": "El sujeto y el verbo solo se separan con coma en oraciones muy largas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La coma cumple dos tareas principales en la escritura: separar los elementos de una enumeración y aislar las aposiciones o los incisos. Su uso correcto evita que el lector tenga que descifrar dónde termina una idea y dónde empieza la siguiente. Usarla de más dificulta la lectura y usarla de menos produce oraciones confusas. Revisar las comas de un texto propio es una tarea sencilla y muy productiva.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Textual",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LEN-9-2026-W12-la-ortografia-y-la-puntuacion-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W12-la-ortografia-y-la-puntuacion-001-MASTERY-bundle-v3",
+      "statement": "Un estudiante escribe \"Estimado director, solicito permiso para no asistir\". Qué signo falta al final de la línea de saludo?",
+      "context": "Un estudiante de noveno grado de Pereira redacta una carta para el director del colegio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una coma, porque la línea de saludo se separa con ese signo",
+          "is_correct": true,
+          "feedback": "La línea de saludo, el lugar y la fecha se terminan con coma."
+        },
+        {
+          "letter": "B",
+          "text": "Un punto y coma, porque el saludo introduce una explicación larga",
+          "is_correct": false,
+          "feedback": "El punto y coma separa oraciones y no se usa para cerrar el saludo."
+        },
+        {
+          "letter": "C",
+          "text": "Un punto, porque toda línea independiente se cierra con punto",
+          "is_correct": false,
+          "feedback": "El cierre con punto es propio de otras líneas de la carta, no del saludo."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguno, porque el saludo puede quedar sin ningún signo final",
+          "is_correct": false,
+          "feedback": "La norma ortográfica exige cerrar la línea de saludo con un signo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La carta mantiene una fórmula fija en su encabezamiento: lugar, fecha, línea de saludo y asunto, y cada una se cierra con el signo que le corresponde. La línea de saludo se termina con coma porque da paso a lo que sigue. Conocer estas marcas permite ordenar la comunicación escrita formal.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEN-9-2026-W12-la-ortografia-y-la-puntuacion-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W12-la-ortografia-y-la-puntuacion-001-MASTERY-bundle-v4",
+      "statement": "En qué situación conviene usar dos puntos antes de una explicación o una cita textual?",
+      "context": "En Pasto, un grupo de noveno grado revisa los dos puntos de un texto informational.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para separar dos oraciones que no tienen ninguna relación entre sí",
+          "is_correct": false,
+          "feedback": "Los dos puntos exigen una relación de anuncio o justificación entre lo que sigue."
+        },
+        {
+          "letter": "B",
+          "text": "Para anunciar una explicación, una definición o una cita que viene después",
+          "is_correct": true,
+          "feedback": "La función de los dos puntos es la de introducir lo que explica o completa lo anterior."
+        },
+        {
+          "letter": "C",
+          "text": "Para terminar el párrafo y empezar otro que trata del mismo tema",
+          "is_correct": false,
+          "feedback": "El paso de un párrafo a otro se hace con el punto, no con los dos puntos."
+        },
+        {
+          "letter": "D",
+          "text": "Para indicar que el autor del texto duda de lo que afirma",
+          "is_correct": false,
+          "feedback": "Esa señal la dan otros recursos, y los dos puntos solo anuncian y explican."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los dos puntos anuncian que lo que viene a continuación explica, aclara o amplía lo que se acaba de decir. Por eso no pueden usarse entre dos oraciones que no guardan relación. Su uso correcto mejora la comprensión, porque el lector sabe de antemano que viene un ejemplo o una definición. En cambio, colocarlos sin relación produce un texto confuso y difícil de seguir.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LEN-9-2026-W12-la-ortografia-y-la-puntuacion-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W12-la-ortografia-y-la-puntuacion-001-MASTERY-bundle-v5",
+      "statement": "Qué palabra debe llevar diéresis en la expresión \"ahi\" cuando significa \"allí\"?",
+      "context": "En Florencia, un estudiante de noveno grado escribe un texto sobre la fauna colombiana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La palabra \"ahí\", porque la diéresis solo aparece en las preguntas",
+          "is_correct": false,
+          "feedback": "La diéresis no se limita a las preguntas: aparece en varios adverbios y sustantivos."
+        },
+        {
+          "letter": "B",
+          "text": "La palabra \"ahí\" sin cambios, porque ahí y allí significan lo mismo",
+          "is_correct": false,
+          "feedback": "Ahí y allí tienen significados distintos, y la diéresis los distingue."
+        },
+        {
+          "letter": "C",
+          "text": "La palabra \"hay\", porque lleva diéresis para no confundirse con el verbo haber",
+          "is_correct": false,
+          "feedback": "El verbo \"haber\" no lleva diéresis y se distingue por su sonido y su forma."
+        },
+        {
+          "letter": "D",
+          "text": "La palabra \"allí\", porque la diéresis evita que se lea como una sola vocal",
+          "is_correct": true,
+          "feedback": "La diéresis indica que hay dos vocales y no un solo sonido vocálico."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La diéresis se coloca sobre la \"i\" cuando el encuentro de dos vocales debe leerse como dos sonidos separados. En \"allí\" y \"país\" la marca es necesaria para evitar una lectura distinta de la buscada. Su omisión es uno de los errores de ortografía más frecuentes en los textos escolares. Revisar estos casos es una tarea breve que mejora de inmediato la corrección formal.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semantico",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LEN-9-2026-W12-la-ortografia-y-la-puntuacion-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W12-la-ortografia-y-la-puntuacion-001-MASTERY-bundle-v6",
+      "statement": "Qué diferencia hay entre \"solo\" y \"sólo\" en un texto moderno?",
+      "context": "Un lector de noveno grado de Barranquilla compara dos versiones de una oración con tilde.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que \"solo\" se escribe sin tilde en el uso general, y con tilde solo en contextos cultos",
+          "is_correct": true,
+          "feedback": "La regla vigente prescinde de la tilde en el pronombre, y la conserva en contextos aversivos."
+        },
+        {
+          "letter": "B",
+          "text": "Que las dos formas son idénticas y la tilde no cambia nada",
+          "is_correct": false,
+          "feedback": "La tilde sí tiene una función en la regla actual, aunque sea de uso restringido."
+        },
+        {
+          "letter": "C",
+          "text": "Que \"sólo\" es la forma correcta y \"solo\" es una falta de educación",
+          "is_correct": false,
+          "feedback": "Ninguna de las dos formas es una falta: la norma vigente admite ambas en sus casos."
+        },
+        {
+          "letter": "D",
+          "text": "Que la diferencia depende del país donde se escribe el texto",
+          "is_correct": false,
+          "feedback": "La norma es la misma en todos los países de habla hispana."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La norma vigente admite el uso de \"solo\" sin tilde, que es la forma más frecuente en los textos actuales. La tilde se conserva en contextos cultos, especialmente cuando la palabra tiene valor de apoyo frente a otro término. Conocer esta norma evita tanto el error como el exceso de tildes que la regla ya no exige. Es un aspecto de la norma que se ha ido modificando con el tiempo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LEN-9-2026-W12-la-ortografia-y-la-puntuacion-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W12-la-ortografia-y-la-puntuacion-001-MASTERY-bundle-v7",
+      "statement": "Qué cambio de sentido produce la puntuación en estos dos enunciados?",
+      "context": "En el taller de escritura de Bucaramanga, un grupo de noveno grado compara dos versiones de un enunciado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Llegaron los niños que esperaban\" y \"Llegaron, los niños que esperaban\" significan lo mismo",
+          "is_correct": false,
+          "feedback": "La coma separa el sujeto del verbo y cambia por completo la estructura de la oración."
+        },
+        {
+          "letter": "B",
+          "text": "\"Los niños que esperaban, llegaron tarde\" invierte quién esperaba a quién",
+          "is_correct": true,
+          "feedback": "La coma convierte al sintagma en una aposición que explica a los niños."
+        },
+        {
+          "letter": "C",
+          "text": "Los dos enunciados son incorrectos, porque la coma no puede separarse del sujeto",
+          "is_correct": false,
+          "feedback": "La coma puede aparecer en ese lugar, y es lo que da sentido al segundo enunciado."
+        },
+        {
+          "letter": "D",
+          "text": "La puntuación solo cambia la extensión del enunciado, no su significado",
+          "is_correct": false,
+          "feedback": "La puntuación modifica directamente la relación entre las palabras de la oración."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La puntuación no es un adorno: determina qué palabras forman el sujeto y cuáles forman el predicado. En los dos enunciados del ejemplo, las mismas palabras expresan situaciones opuestas por el lugar de la coma. Comprender esta sensibilidad del texto es clave para escribir con precisión. También explica por qué una puntuación incorrecta cambia lo que el autor quiso decir.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LEN-9-2026-W12-la-ortografia-y-la-puntuacion-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W12-la-ortografia-y-la-puntuacion-001-MASTERY-bundle-v8",
+      "statement": "Un autor usa dos puntos antes de una definición y también entre dos oraciones sin relación. Qué puede concluir el lector?",
+      "context": "En el aula de Español de Pereira, un grupo de noveno grado analiza el uso de los dos puntos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que solo uno de los dos usos respeta la función de los dos puntos",
+          "is_correct": true,
+          "feedback": "Los dos puntos exigen una relación de anuncio o explicación entre lo que antecede y lo que sigue."
+        },
+        {
+          "letter": "B",
+          "text": "Que ambos usos son correctos, porque los dos puntos separan siempre cualquier elemento",
+          "is_correct": false,
+          "feedback": "Los dos puntos no separan elementos cualquiera: exigen una relación de sentido."
+        },
+        {
+          "letter": "C",
+          "text": "Que el primer uso es incorrecto, porque las definiciones nunca van después de dos puntos",
+          "is_correct": false,
+          "feedback": "Introducir una definición con dos puntos es uno de sus usos más frecuentes."
+        },
+        {
+          "letter": "D",
+          "text": "Que el segundo uso es correcto, porque toda oración puede ir después de dos puntos",
+          "is_correct": false,
+          "feedback": "La relación de sentido es indispensable para un uso adecuado de estos signos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los dos puntos cumplen su función cuando lo que sigue explica, define o completa lo que se ha dicho antes. Si no existe esa relación, el signo resulta arbitrario y la puntuación pierde sentido. Evaluar el uso de estos signos exige comprobar la relación entre las dos partes de la oración. Esta revisión es especialmente útil en los textos expositivos y argumentativos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semantico",
+      "expected_success": 0.66,
+      "bundle_id": "CO-LEN-9-2026-W12-la-ortografia-y-la-puntuacion-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W12-la-ortografia-y-la-puntuacion-001-MASTERY-bundle-v9",
+      "statement": "Un párrafo encadena once oraciones cortas sin comas ni dos puntos. Qué efecto tiene esa puntuación?",
+      "context": "En Valledupar, estudiantes de noveno grado revisan la puntuación de un texto que entregaron.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Facilita la lectura, porque las oraciones cortas se comprenden sin esfuerzo",
+          "is_correct": false,
+          "feedback": "Sin marcas, el lector debe reconstruir por su cuenta dónde se separan las ideas."
+        },
+        {
+          "letter": "B",
+          "text": "Convierte el párrafo en un solo período sin ninguna estructura interna",
+          "is_correct": false,
+          "feedback": "Cada punto sigue separando oraciones, aunque falten otras marcas de relación."
+        },
+        {
+          "letter": "C",
+          "text": "Dificulta la comprensión, porque no se marcan las relaciones entre las ideas",
+          "is_correct": true,
+          "feedback": "La ausencia de comas y dos puntos impide ver qué idea explica o continúa a la anterior."
+        },
+        {
+          "letter": "D",
+          "text": "Reduce el número de oraciones, porque las comas unen las que existen",
+          "is_correct": false,
+          "feedback": "La coma no elimina oraciones: solo modifica la relación que hay entre ellas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La puntuación organiza la lectura al mostrar cómo se relacionan las ideas entre sí. Cuando faltan las comas y los dos puntos, el lector no puede distinguir qué proposición explica a cuál. Un párrafo con oraciones muy cortas sin marcas se vuelve difícil de seguir, aunque cada oración sea correcta. Revisar la puntuación es, por eso, una forma directa de mejorar la claridad de lo que se escribe.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.64,
+      "bundle_id": "CO-LEN-9-2026-W12-la-ortografia-y-la-puntuacion-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W12-la-ortografia-y-la-puntuacion-001-MASTERY-bundle-v10",
+      "statement": "Un grupo afirma que un texto está bien escrito porque no tiene ningún error de ortografía. Qué evaluación de ese razonamiento es la más sólida?",
+      "context": "En el club de lectura de Leticia, un grupo de noveno grado evalúa la escritura de sus compañeros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es correcta, porque la ortografía abarca todo el contenido de un texto",
+          "is_correct": false,
+          "feedback": "La ortografía es solo un aspecto del texto: la puntuación y la claridad son otros."
+        },
+        {
+          "letter": "B",
+          "text": "Es insuficiente, porque un texto puede estar bien escrito y aun así ser confuso",
+          "is_correct": true,
+          "feedback": "Un texto con tildes correctas puede tener oraciones que no se entienden."
+        },
+        {
+          "letter": "C",
+          "text": "Es adecuada, porque la ortografía es lo primero que debe revisarse en un texto",
+          "is_correct": false,
+          "feedback": "El orden de revisión no convierte la ortografía en un criterio suficiente de calidad."
+        },
+        {
+          "letter": "D",
+          "text": "Es incorrecta, porque la ortografía nunca debe revisarse en un trabajo escolar",
+          "is_correct": false,
+          "feedback": "La ortografía es precisamente uno de los aspectos que se evalúa en el colegio."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar un texto exige aplicar varios criterios, no uno solo. La ortografía correcta es necesaria, pero no alcanza para garantizar que un texto sea claro ni bien construido. También deben revisarse la puntuación, la organización de las ideas y la precisión del vocabulario. Reconocer que un criterio es necesario pero no suficiente evita juicios incompletos sobre lo que otros escriben.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-9-2026-W12-la-ortografia-y-la-puntuacion-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W12-la-ortografia-y-la-puntuacion-001-MASTERY-bundle-v11",
+      "statement": "Un estudiante relee su trabajo y decide no corregir ningún signo de puntuación. Qué conviene concluir de esa decisión?",
+      "context": "Un estudiante de noveno grado de Bogotá revisa su propio trabajo antes de entregarlo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el trabajo está listo, porque la puntuación se corrige después de calificar",
+          "is_correct": false,
+          "feedback": "La puntuación forma parte del criterio de evaluación desde el principio."
+        },
+        {
+          "letter": "B",
+          "text": "Que la revisión no sirve, porque las comas son un detalle menor",
+          "is_correct": false,
+          "feedback": "La puntuación es uno de los principales indicadores de claridad del texto."
+        },
+        {
+          "letter": "C",
+          "text": "Que conviene revisarla, porque puede cambiar el significado de las oraciones",
+          "is_correct": true,
+          "feedback": "Una puntuación mal puesta altera lo que el lector entiende del texto."
+        },
+        {
+          "letter": "D",
+          "text": "Que solo debe corregirse la puntuación si el trabajo tiene más de dos páginas",
+          "is_correct": false,
+          "feedback": "La revisión de la puntuación es necesaria en cualquier extensión del texto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Releer el propio trabajo permite detectar problemas que no se perciben mientras se escribe. La puntuación merece una revisión aparte porque un signo mal colocado cambia la relación entre las palabras y, con ella, el sentido. Un texto correcto en las reglas formales es más fácil de entender y de evaluar. Esta costumbre de revisión es una habilidad que sirve para toda la vida académica.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.58,
+      "bundle_id": "CO-LEN-9-2026-W12-la-ortografia-y-la-puntuacion-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W12-la-ortografia-y-la-puntuacion-001-MASTERY-bundle-v12",
+      "statement": "Un manual afirma que basta con aprender las reglas de puntuación para escribir bien. Qué valoración de esa afirmación es la más sólida?",
+      "context": "En el proyecto de lectura de Arauca, los estudiantes de noveno grado elaboran un manual de normas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es adecuada, porque la puntuación determina la calidad de todo texto escrito",
+          "is_correct": false,
+          "feedback": "La puntuación es importante, pero no resuelve problemas de orden ni de claridad de ideas."
+        },
+        {
+          "letter": "B",
+          "text": "Es correcta, porque quien domina las normas de puntuación no necesita escribir con orden",
+          "is_correct": false,
+          "feedback": "Dominar las normas no exime de organizar las ideas de manera coherente."
+        },
+        {
+          "letter": "C",
+          "text": "Es insuficiente, porque escribir bien exige también sentido y organización de las ideas",
+          "is_correct": true,
+          "feedback": "La puntuación acompaña al contenido, pero no lo sustituye ni lo reemplaza."
+        },
+        {
+          "letter": "D",
+          "text": "Es inadecuada, porque las normas de puntuación no son aplicadas en el aula de Español",
+          "is_correct": false,
+          "feedback": "La puntuación sí se enseña y se evalúa como parte del componente de lectura y escritura."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las normas de puntuación son un medio para hacer comprensible un texto, no un fin en sí mismo. Un texto puede estar correctamente puntuado y aun así carecer de ideas ordenadas o de un sentido claro. Por eso conviene aprender las reglas junto con la capacidad de organizar el contenido. Esta comprensión evita reducir la buena escritura a un ejercicio puramente mecánico.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Semantico",
+      "expected_success": 0.56,
+      "bundle_id": "CO-LEN-9-2026-W12-la-ortografia-y-la-puntuacion-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}

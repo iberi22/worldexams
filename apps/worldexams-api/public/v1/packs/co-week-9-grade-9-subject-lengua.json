@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-9-grade-9-subject-lengua",
+    "generated_at": "2026-09-30T00:02:10.268Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-9-2026-W09-la-narracion-y-los-personajes-001-MASTERY-bundle-v1",
+      "statement": "Qué entiende por focalización en un texto narrativo?",
+      "context": "En el aula de Español de Bogotá, la docente repasa con los estudiantes de noveno grado la noción de focalización.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El tiempo que el narrador emplea para contar los hechos",
+          "is_correct": false,
+          "feedback": "El tiempo verbal organiza la narración, pero no determina qué información recibe el lector."
+        },
+        {
+          "letter": "B",
+          "text": "El lugar donde se desarrolla la historia narrada",
+          "is_correct": false,
+          "feedback": "El espacio es otro elemento del relato, distinto de la perspectiva desde la que se cuenta."
+        },
+        {
+          "letter": "C",
+          "text": "La cantidad de personajes que aparecen en la obra",
+          "is_correct": false,
+          "feedback": "El número de personajes no es lo que define la perspectiva de la narración."
+        },
+        {
+          "letter": "D",
+          "text": "La perspectiva desde la que el narrador da a conocer los hechos",
+          "is_correct": true,
+          "feedback": "La focalización es el ángulo de vision desde el cual el lector accede a la información."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La focalización responde a la pregunta de desde dónde se mira lo que se cuenta. Según esa perspectiva, el lector recibe una cantidad distinta de información sobre los hechos y sobre los personajes. Un narrador que conoce todo permite una visión amplia, mientras que un narrador limitado solo da a conocer lo que alcanza a saber. Es una noción clave para analizar cualquier relato con profundidad.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W09-la-narracion-y-los-personajes-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W09-la-narracion-y-los-personajes-001-MASTERY-bundle-v2",
+      "statement": "Qué distingue al antagonista dentro de una narración?",
+      "context": "En un grupo de noveno grado de Medellín, discuten quién es el antagonista de una novela que están leyendo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es el personaje que se opone al objetivo del protagonista y genera el conflicto",
+          "is_correct": true,
+          "feedback": "El antagonista funciona como fuerza contraria dentro de la trama."
+        },
+        {
+          "letter": "B",
+          "text": "Es el personaje que aparece con mayor frecuencia en el relato",
+          "is_correct": false,
+          "feedback": "La frecuencia de aparición no determina el papel que un personaje cumple en la trama."
+        },
+        {
+          "letter": "C",
+          "text": "Es el personaje que tiene menos importancia en el desarrollo de los hechos",
+          "is_correct": false,
+          "feedback": "El antagonista suele ser esencial para que el conflicto se mantenga y crezca."
+        },
+        {
+          "letter": "D",
+          "text": "Es el narrador que cuenta la historia desde fuera de la acción",
+          "is_correct": false,
+          "feedback": "Esa descripción corresponde a la posición del narrador, no a la función de un personaje."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El antagonista es el personaje que se opone a lo que el protagonista busca conseguir, y esa oposición es la que sostiene el conflicto. Puede ser una persona, un grupo o incluso una situación, y no siempre es un personaje odioso. Reconocerlo permite entender por qué la trama avanza y cómo se construye la tensión. Esta noción se aplica igual en cuentos, novelas y relatos de cualquier extensión.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semantico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LEN-9-2026-W09-la-narracion-y-los-personajes-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W09-la-narracion-y-los-personajes-001-MASTERY-bundle-v3",
+      "statement": "Un personaje llega a un pueblo buscando trabajo y termina cambiando su forma de ver el mundo. Qué hecho narrativo describe esa situación?",
+      "context": "Un estudiante de noveno grado de Pereira escribe el resumen de una novela para el boletín del colegio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un cambio en el espacio de la historia, que es lo único que importa en el resumen",
+          "is_correct": false,
+          "feedback": "El espacio puede cambiar, pero la pregunta se refiere a lo que le ocurre al personaje."
+        },
+        {
+          "letter": "B",
+          "text": "Un arco de transformación, porque el personaje cambia a lo largo del relato",
+          "is_correct": true,
+          "feedback": "La transformación interior del personaje es uno de los movimientos centrales de la trama."
+        },
+        {
+          "letter": "C",
+          "text": "Un cambio de narrador, porque la historia necesita otro punto de vista",
+          "is_correct": false,
+          "feedback": "La descripción no menciona ningún cambio en la voz que cuenta los hechos."
+        },
+        {
+          "letter": "D",
+          "text": "Un final abierto, porque el relato no explica cómo termina la historia",
+          "is_correct": false,
+          "feedback": "El enunciado no indica que la historia quede sin cerrar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El arco de transformación es el proceso por el cual un personaje cambia de manera de pensar, de actuar o de sentir a lo largo del relato.\nEse cambio suele ser el resultado de las decisiones que el personaje toma y de las consecuencias que debe asumir. Detectar este movimiento es lo que permite escribir un resumen con sentido, porque orienta la reconstrucción de la trama.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEN-9-2026-W09-la-narracion-y-los-personajes-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W09-la-narracion-y-los-personajes-001-MASTERY-bundle-v4",
+      "statement": "Un personaje miente repetidamente para proteger a su familia. Cómo debe interpretar el lector esa conducta?",
+      "context": "En el aula de Español de Cali, un grupo de noveno grado estudia la motivación de un protagonista.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Como una falla moral del autor, que no debió crear un personaje así",
+          "is_correct": false,
+          "feedback": "La conducta del personaje es una decisión narrativa y no un error del escritor."
+        },
+        {
+          "letter": "B",
+          "text": "Como un indicio de que la historia carece de sentido y de final coherente",
+          "is_correct": false,
+          "feedback": "Un motivo bien planteado da coherencia al comportamiento, aunque resulte incómodo."
+        },
+        {
+          "letter": "C",
+          "text": "Como la motivación del personaje, que explica por qué actúa de esa manera",
+          "is_correct": true,
+          "feedback": "La motivación es la razón interna que da lógica a las decisiones de un personaje."
+        },
+        {
+          "letter": "D",
+          "text": "Como un recurso del narrador para ocultar información importante al lector",
+          "is_correct": false,
+          "feedback": "Es una atribución al narrador que el enunciado no permite deducir."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La motivación es la razón que impulsa las decisiones de un personaje y le da coherencia interna. Un mismo comportamiento puede explicarse por motivos muy distintos según la historia en la que aparece. Reconocer la motivación evita julgar a los personajes por fuera de la obra y permite comprender la trama. Esta habilidad sustenta el análisis profundo de la narración.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semantico",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LEN-9-2026-W09-la-narracion-y-los-personajes-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W09-la-narracion-y-los-personajes-001-MASTERY-bundle-v5",
+      "statement": "Qué tipo de focalización presenta un fragmento en el que solo se conoce lo que piensa y siente un personaje?",
+      "context": "En Pasto, un lector de noveno grado analiza un fragmento de novela en el que solo se conoce el mundo interior de un personaje.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una focalización explícita, porque el narrador conoce la vida de todos",
+          "is_correct": false,
+          "feedback": "La visión amplia corresponde al narrador que conoce más de lo que cuenta."
+        },
+        {
+          "letter": "B",
+          "text": "Una focalización interna, porque el acceso a la información depende de un solo personaje",
+          "is_correct": true,
+          "feedback": "La visión se limita a la conciencia de un personaje y el lector no sale de ella."
+        },
+        {
+          "letter": "C",
+          "text": "Una focalización externa, porque el narrador observa desde muy lejos",
+          "is_correct": false,
+          "feedback": "La distancia del narrador no es lo que limita aquí la información disponible."
+        },
+        {
+          "letter": "D",
+          "text": "Una focalización nula, porque el narrador no cuenta nada en el fragmento",
+          "is_correct": false,
+          "feedback": "El narrador cuenta los hechos, aunque solo conozca los de un personaje."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cuando la narración se restringe a la conciencia de un personaje, el lector accede a los hechos a través de esa mirada. Esa limitación genera intriga y obliga a interpretar lo que el personaje no dice. El narrador sigue relatando, pero no puede apartarse de la conciencia que ha elegido. Analizar la focalización permite explicar por qué el lector siente curiosidad o simpatía.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LEN-9-2026-W09-la-narracion-y-los-personajes-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W09-la-narracion-y-los-personajes-001-MASTERY-bundle-v6",
+      "statement": "Al final de una novela, el protagonista actúa de un modo opuesto a como actúa en el primer capítulo. Qué efecto tiene ese cambio en la lectura?",
+      "context": "En Florencia, un grupo de noveno grado compara el inicio y el final de una novela.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Debilita la historia, porque el personaje ya no se parece al que el lector conocía",
+          "is_correct": false,
+          "feedback": "Esa distancia es justamente lo que hace valioso el arco de transformación."
+        },
+        {
+          "letter": "B",
+          "text": "Rompe la trama, porque los personajes no pueden cambiar dentro de un relato",
+          "is_correct": false,
+          "feedback": "Los personajes sí cambian, y ese cambio es uno de los movimientos más comunes de la novela."
+        },
+        {
+          "letter": "C",
+          "text": "Convierte la obra en un texto histórico, porque describe hechos del pasado",
+          "is_correct": false,
+          "feedback": "El cambio del personaje no convierte el relato en un texto de historia."
+        },
+        {
+          "letter": "D",
+          "text": "Permite ver el proceso de transformación como resultado de lo vivido",
+          "is_correct": true,
+          "feedback": "La comparación entre inicio y final revela el camino recorrido por el personaje."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Cuando un personaje actúa de manera distinta al final de la obra, el lector puede reconstruir el camino que lo llevó hasta ese punto. Ese recorrido interior es el arco de transformación, uno de los movimientos que dan profundidad a la novela. Sin ese cambio, muchas historias quedarían en la mera sucesión de hechos. Por eso la comparación entre el principio y el final es una herramienta habitual del análisis.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LEN-9-2026-W09-la-narracion-y-los-personajes-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W09-la-narracion-y-los-personajes-001-MASTERY-bundle-v7",
+      "statement": "Qué diferencia se observa entre un protagonista de cuento y otro de novela?",
+      "context": "En Bucaramanga, un grupo de noveno grado compara el protagonista de un cuento con el de una novela.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El del cuento es siempre un personaje valeroso y el de la novela nunca lo es",
+          "is_correct": false,
+          "feedback": "La valentía no es un rasgo que defina a uno u otro tipo de protagonista."
+        },
+        {
+          "letter": "B",
+          "text": "El del cuento siempre resuelve su problema y el de la novela deja todo sin resolver",
+          "is_correct": false,
+          "feedback": "Hay cuentos con finales abiertos y novelas que cierran su trama."
+        },
+        {
+          "letter": "C",
+          "text": "El del cuento se presenta en un momento puntual y el de la novela desarrolla un cambio sostenido",
+          "is_correct": true,
+          "feedback": "El relato breve concentra la transformación, mientras la novela la extiende."
+        },
+        {
+          "letter": "D",
+          "text": "Ambos son idénticos, porque el protagonista no cambia según el género del texto",
+          "is_correct": false,
+          "feedback": "La extensión del relato condiciona el tiempo disponible para la transformación."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El género influye en cómo se construye un personaje, y el tiempo disponible para mostrarlo es una de esas diferencias. Un cuento presenta a alguien en un momento preciso y concentra en él la información que el relato necesita. Una novela dispone de más espacio para mostrar decisiones, errores y cambios acumulados. Comparar ambos casos ayuda a entender que el personaje se construye en relación con la forma del texto.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Critico-Intertextual",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LEN-9-2026-W09-la-narracion-y-los-personajes-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W09-la-narracion-y-los-personajes-001-MASTERY-bundle-v8",
+      "statement": "Un antagonista actúa movido por el miedo a perder su posición. Qué revela esa motivación sobre el personaje?",
+      "context": "En Leticia, un grupo de noveno grado analiza la motivación de un antagonista de su novela preferida.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que tiene una razón interna clara que da sentido a su oposición al protagonista",
+          "is_correct": true,
+          "feedback": "Una motivación coherente explica el comportamiento, aunque el personaje sea antagonista."
+        },
+        {
+          "letter": "B",
+          "text": "Que el autor lo diseñó como un personaje plano y sin intención propia",
+          "is_correct": false,
+          "feedback": "Tener un motivo claro es justamente lo que le da complejidad al personaje."
+        },
+        {
+          "letter": "C",
+          "text": "Que su conducta es aleatoria y el narrador no la justifica en ningún momento",
+          "is_correct": false,
+          "feedback": "El enunciado atribuye la conducta a un motivo definido y verificable."
+        },
+        {
+          "letter": "D",
+          "text": "Que la oposición entre los dos personajes es solo de tipo físico",
+          "is_correct": false,
+          "feedback": "El miedo a perder la posición es un motivo de poder, no una rivalidad física."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los antagonistas también se construyen con motivaciones, y esas motivaciones determinan la clase de conflicto que generan. El miedo a perder una posición produce oposiciones de poder y de status, muy distintas de otros motivos. Analizar al antagonista desde sus razones permite entender la trama con la misma profundidad con que se analiza al protagonista. Este tratamiento simétrico enriquece la lectura crítica.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.66,
+      "bundle_id": "CO-LEN-9-2026-W09-la-narracion-y-los-personajes-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W09-la-narracion-y-los-personajes-001-MASTERY-bundle-v9",
+      "statement": "Qué cambia en un relato cuando el narrador es testigo directo de los hechos?",
+      "context": "En Valledupar, estudiantes de noveno grado discuten el uso del narrador testigo en una novela.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El relato pierde credibilidad, porque nadie puede confirmar lo que el narrador afirma",
+          "is_correct": false,
+          "feedback": "La condición de testigo es justamente una garantía de acceso directo a lo ocurrido."
+        },
+        {
+          "letter": "B",
+          "text": "El relato se vuelve confuso, porque el narrador se mezcla con los personajes",
+          "is_correct": false,
+          "feedback": "La presencia del narrador no genera por sí sola confusión en el relato."
+        },
+        {
+          "letter": "C",
+          "text": "El relato no cambia en nada, porque el tipo de narrador no altera la lectura",
+          "is_correct": false,
+          "feedback": "La posición del narrador cambia la cercanía del relato y los detalles que ofrece."
+        },
+        {
+          "letter": "D",
+          "text": "El relato gana cercanía y detalle, porque la experiencia vivida enriquece lo que se cuenta",
+          "is_correct": true,
+          "feedback": "El narrador testigo aporta una perspectiva próxima y datos que una voz distante omitiría."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El narrador testigo ofrece una versión cercana, en la que el lector vive los hechos a través de una experiencia vivida. Esa cercanía aporta detalles que una voz distante no alcanzaría a registrar, y también explica la simpatía que despierta hacia ciertos personajes. Reconocer la posición del narrador es clave para interpretar el relato completo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semantico",
+      "expected_success": 0.64,
+      "bundle_id": "CO-LEN-9-2026-W09-la-narracion-y-los-personajes-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W09-la-narracion-y-los-personajes-001-MASTERY-bundle-v10",
+      "statement": "Un grupo afirma que el arco de transformación de una novela es débil porque su protagonista no cambia de opinión. Qué evaluación de ese razonamiento es la más sólida?",
+      "context": "En el club de lectura de Bogotá, un grupo de noveno grado valora el arco de transformación de una novela.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es insuficiente, porque el cambio de un personaje puede ocurrir sin que se modifique su opinión",
+          "is_correct": true,
+          "feedback": "Un personaje puede transformar su conducta, sus vínculos o sus valores sin cambiar de ideas."
+        },
+        {
+          "letter": "B",
+          "text": "Es correcta, porque toda buena novela cambia la opinión de su protagonista",
+          "is_correct": false,
+          "feedback": "No es obligatorio que el personaje modifique sus ideas para que su cambio sea significativo."
+        },
+        {
+          "letter": "C",
+          "text": "Es incorrecta, porque el arco de transformación no existe en las novelas modernas",
+          "is_correct": false,
+          "feedback": "El arco de transformación es un recurso habitual en la novela de cualquier época."
+        },
+        {
+          "letter": "D",
+          "text": "Es adecuada, porque la opinión del personaje es el único cambio que puede valorarse",
+          "is_correct": false,
+          "feedback": "Reducir la transformación a un cambio de opinión empobrece el análisis del relato."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar un razonamiento exige preguntarse qué está realmente midiendo la afirmación. Un personaje puede cambiar su manera de actuar, sus relaciones o sus valores sin llegar a modificar su opinión sobre el mundo. Por eso reducir el arco de transformación a un cambio de ideas es una medida incompleta. Formular criterios más precisos permite evaluar lo que el autor efectivamente construyó.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-9-2026-W09-la-narracion-y-los-personajes-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W09-la-narracion-y-los-personajes-001-MASTERY-bundle-v11",
+      "statement": "Un crítico afirma que un relato es mejor que otro porque su narrador conoce la vida de todos sus personajes. Qué evaluación de ese argumento es la más sólida?",
+      "context": "En el proyecto de lectura de Florencia, los estudiantes de noveno grado escriben reseñas de novelas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es correcta, porque el narrador que más sabe construye siempre la mejor historia",
+          "is_correct": false,
+          "feedback": "La cantidad de información del narrador no mide por sí sola la calidad del relato."
+        },
+        {
+          "letter": "B",
+          "text": "Es insuficiente, porque la calidad depende de cómo se usa esa información y no de cuánto se sabe",
+          "is_correct": true,
+          "feedback": "La visión amplia es un recurso, y su valor depende del uso narrativo que hace de ella."
+        },
+        {
+          "letter": "C",
+          "text": "Es correcta, porque conocer a todos los personajes evita la ambigüedad en el relato",
+          "is_correct": false,
+          "feedback": "Una visión amplia no garantiza claridad, y puede reducir la intriga del lector."
+        },
+        {
+          "letter": "D",
+          "text": "Es adecuada, porque los lectores prefieren siempre conocerlo todo desde el comienzo",
+          "is_correct": false,
+          "feedback": "No todos los lectores valoran igual la información anticipada ni la sorpresa."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La elección de un narrador es una decisión de diseño narrativo que produce efectos concretos en el lector. Conocerlo todo desde el principio genera claridad, pero también puede reducir la intriga y anticipar decisiones del personaje. Evaluar esa elección exige atender al efecto que produce y no solo a la cantidad de información que el narrador maneja. Este criterio ayuda a justificar con fundamento el juicio sobre un relato.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Semantico",
+      "expected_success": 0.58,
+      "bundle_id": "CO-LEN-9-2026-W09-la-narracion-y-los-personajes-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W09-la-narracion-y-los-personajes-001-MASTERY-bundle-v12",
+      "statement": "Un mismo hecho histórico aparece contado desde la voz de un protagonista y desde la de un antagonista. Qué valoración de esa relación es la más sólida?",
+      "context": "En el proyecto de investigación de Arauca, los estudiantes de noveno grado comparan dos relatos sobre la misma época.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una de las dos versiones es falsa, porque los dos puntos de vista no coinciden",
+          "is_correct": false,
+          "feedback": "Las versiones difieren por la posición de quien cuenta, no por su veracidad."
+        },
+        {
+          "letter": "B",
+          "text": "El texto del protagonista es superior, porque la voz en primera persona es el mejor recurso",
+          "is_correct": false,
+          "feedback": "Ninguna de las dos posiciones narrativas es superior por el simple hecho de existir."
+        },
+        {
+          "letter": "C",
+          "text": "Es una relación intertextual en la que cada voz revela una parte distinta de lo ocurrido",
+          "is_correct": true,
+          "feedback": "Comparar las dos versiones permite reconstruir el hecho desde dos perspectivas complementarias."
+        },
+        {
+          "letter": "D",
+          "text": "No hay relación entre los textos, porque cuentan relatos completamente independientes",
+          "is_correct": false,
+          "feedback": "Ambos textos se refieren al mismo hecho y por eso se relacionan entre sí."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Presentar un mismo hecho desde posiciones opuestas es un recurso habitual de la narrativa y una técnica de la investigación histórica. Cada voz ilumina aspectos que la otra deja en la sombra, y el contraste entre ambas resulta productivo para el análisis. Reconocer que los dos textos se relacionan por tratar el mismo hecho permite usarlos como fuentes complementarias. Esta lectura comparada enriquece la comprensión del pasado y entrena el criterio del lector.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Critico-Intertextual",
+      "expected_success": 0.56,
+      "bundle_id": "CO-LEN-9-2026-W09-la-narracion-y-los-personajes-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}
