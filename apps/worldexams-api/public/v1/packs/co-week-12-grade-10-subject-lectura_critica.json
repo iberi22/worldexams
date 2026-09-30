@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-12-grade-10-subject-lectura_critica",
+    "generated_at": "2026-09-30T13:59:53.385Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-10-2026-W12-los-textos-no-continuos-y-su-comprension-visual-001-MASTERY-bundle-v1",
+      "statement": "¿Qué clase de texto es el Texto 1?",
+      "context": "En Medellín, la profesora de Lectura Crítica pide a los estudiantes de décimo grado reconocer qué clase de texto aparece en el Texto 1.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un texto no continuo, porque distribuye la información en bloques de barra, gráfico, ícono y tabla que se leen por separado.",
+          "is_correct": true,
+          "feedback": "Correcto. La información está repartida en bloques visuales independientes y no en un discurso corrido."
+        },
+        {
+          "letter": "B",
+          "text": "Un texto continuo argumentativo, porque presenta una tesis sobre el consumo de agua en el colegio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay tesis ni estructura argumentativa, y la información no se lee como discurso seguido."
+        },
+        {
+          "letter": "C",
+          "text": "Un texto narrativo, porque cuenta lo que hizo una comunidad de estudiantes durante un mes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay personajes, acciones ordenadas ni secuencia narrativa, solo datos distribuidos en bloques."
+        },
+        {
+          "letter": "D",
+          "text": "Un texto poético, porque combina imágenes y palabras para comunicar una sensación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los bloques responden a datos medidos y no a una intención poética."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El texto no continuo se reconoce porque su información no está escrita en párrafos, sino en bloques que el lector debe unir. En el Texto 1 cada bloque hace una tarea distinta: mostrar cantidades, comparar, recomendar y respaldar. Identificar esa organización es el punto de partida para leerlo bien.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-10-2026-W12-los-textos-no-continuos-y-su-comprension-visual-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W12-los-textos-no-continuos-y-su-comprension-visual-001-MASTERY-bundle-v2",
+      "statement": "Según el Texto 1, ¿cuánta agua consume una descarga de inodoro?",
+      "context": "En Medellín, un grupo de décimo grado revisa la infografía del Texto 1 antes de corregir una cifra del aviso posted en la cartelera.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2 litros por descarga.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor corresponde al lavamanos, y el Texto 1 distingue las dos barras horizontales."
+        },
+        {
+          "letter": "B",
+          "text": "44 litros por descarga.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El 44 % corresponde al peso del rinseado dentro del consumo total, no al volumen de una descarga."
+        },
+        {
+          "letter": "C",
+          "text": "9 litros por descarga.",
+          "is_correct": true,
+          "feedback": "Correcto. La barra horizontal del primer bloque asigna 9 litros a cada descarga de inodoro."
+        },
+        {
+          "letter": "D",
+          "text": "38 litros por descarga.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El 38 corresponde al consumo anual por persona de 2024 que registra la tabla."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En un texto no continuo cada dato vive en un bloque y pertenece a ese bloque. Al leer una cifra hay que preguntar siempre qué mide y dónde está ubicada, porque los números voisinos suelen llegar al lector equivocado.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Literal",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-10-2026-W12-los-textos-no-continuos-y-su-comprension-visual-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W12-los-textos-no-continuos-y-su-comprension-visual-001-MASTERY-bundle-v3",
+      "statement": "En el Texto 1, ¿qué comunica principalmente el ícono de una persona cerrando la llave junto al texto «Cierra la llave mientras te lavas»?",
+      "context": "En Medellín, los estudiantes de décimo grado analizan el bloque del ícono dentro de la infografía del Texto 1.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el agua del colegio ya se está agotando en el mes en que se publica la infografía.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ícono propone una conducta, no informa que ya haya ocurrido una escasez."
+        },
+        {
+          "letter": "B",
+          "text": "Una recomendación de conducta: interrumpir el agua mientras uno se lava para ahorrar.",
+          "is_correct": true,
+          "feedback": "Correcto. El ícono y la frase Invite a una acción concreta sobre el uso del agua."
+        },
+        {
+          "letter": "C",
+          "text": "El costo en pesos que tiene cada litro de agua en el recibo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El bloque no menciona precios, y esa información pertenece al Texto 2."
+        },
+        {
+          "letter": "D",
+          "text": "Que la llave del lavamanos del colegio está dañada y debe ser cambiada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Nada en el texto informa de una avería, y el ícono no representa un desperfecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un bloque icónico no solo decora: propone una conducta o resume una idea con muy pocas palabras. Comprender ese bloque exige traducir la imagen a una instrucción y no a un dato. Esa diferencia entre el bloque que informa y el bloque que recomienda es clave para leer infografías.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semantico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-10-2026-W12-los-textos-no-continuos-y-su-comprension-visual-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W12-los-textos-no-continuos-y-su-comprension-visual-001-MASTERY-bundle-v4",
+      "statement": "Un equipo de estudiantes quiere ampliar el impacto de la infografía del Texto 1. ¿Qué cambio aplicaría mejor?",
+      "context": "En Medellín, un equipo de décimo grado quiere mejorar la infografía del Texto 1 antes de imprimirla para el patio del colegio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sustituir la tabla del cuarto bloque por un párrafo largo que explique los datos del consumo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Convertir los datos en prosa elimina la lectura por bloques, que es justamente la fuerza del texto no continuo."
+        },
+        {
+          "letter": "B",
+          "text": "Quitar el pie de nota con la fuente para que la infografía ocupe todo el espacio de la cartelera.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sin la fuente se pierde la procedencia del dato, y el lector ya no puede verificarlo."
+        },
+        {
+          "letter": "C",
+          "text": "Cambiar los porcentajes del gráfico de torta por adjetivos que describan lo mucho que se consume.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los adjetivos no aportan información verificable y debilitan la precisión de la lectura visual."
+        },
+        {
+          "letter": "D",
+          "text": "Ordenar los bloques de mayor a menor impacto visual y dejar la fuente de los datos en un lugar visible.",
+          "is_correct": true,
+          "feedback": "Correcto. Reordenar para guiar la mirada y sacar la fuente del pie mejora la lectura sin alterar ningún dato."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Mejorar un texto no continuo exige trabajar sobre su organización, no sobre su contenido. El diseño decide por dónde entra el ojo y qué bloque se lee primero. Aplicar ese criterio a la infografía del Texto 1 es el ejercicio que enseña a diseñar, no solo a leer.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-10-2026-W12-los-textos-no-continuos-y-su-comprension-visual-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W12-los-textos-no-continuos-y-su-comprension-visual-001-MASTERY-bundle-v5",
+      "statement": "Un grupo debe armar el afiche con el gráfico, el ícono y el pie de fuente del Texto 1. ¿Cuál es el orden más adecuado para que el lector entienda primero el dato y después la conducta que se le pide?",
+      "context": "En Medellín, la profesora arma un afiche de campaña con tres bloques del Texto 1 y pide a los grupos que discutan el orden.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Primero el gráfico de torta con el dato del 44 %, después el ícono con la recomendación y al final el pie con la fuente.",
+          "is_correct": true,
+          "feedback": "Correcto. Ese orden entrega la evidencia, propone la acción y cierra con el respaldo, que es la secuencia lógica del afiche."
+        },
+        {
+          "letter": "B",
+          "text": "Primero el ícono con la recomendación, después el pie con la fuente y al final el gráfico de torta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Anticipar la recomendación deja al lector sin la evidencia que la justifica, y el dato queda como un adorno."
+        },
+        {
+          "letter": "C",
+          "text": "Primero el pie con la fuente, después el ícono y al final el gráfico de torta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Abrir con la fuente es una decisión técnica, no una forma de orientar la lectura de un afiche escolar."
+        },
+        {
+          "letter": "D",
+          "text": "El orden no importa, porque en un texto no continuo todos los bloques se leen al mismo tiempo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque los bloques son independientes, el diseño sí dirige la mirada y el orden sí cambia la comprensión."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Componer un afiche es aplicar la lógica del texto no continuo: primero la información, después la conducta y por último el respaldo. Ese criterio no es una preferencia estética, sino una forma de asegurar que el mensaje se entienda. Practicarlo con bloques reales enseña a diseñar mensajes con sentido.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-10-2026-W12-los-textos-no-continuos-y-su-comprension-visual-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W12-los-textos-no-continuos-y-su-comprension-visual-001-MASTERY-bundle-v6",
+      "statement": "Al comparar el Texto 1 y el Texto 2, ¿qué comparten como textos no continuos?",
+      "context": "En Barranquilla, el periódico escolar de los estudiantes de décimo grado publica la historieta del Texto 2 junto a un recuadro de precios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los dos presentan la información en párrafos largos que se leen de principio a fin.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguno de los dos está construido con párrafos continuos, y esa es justamente la diferencia con el texto discursivo."
+        },
+        {
+          "letter": "B",
+          "text": "Los dos entregan la información en bloques separados —barra, ícono, tabla, recuadro y viñeta— que el lector combina por su cuenta.",
+          "is_correct": true,
+          "feedback": "Correcto. Los dos organizan el contenido en unidades visuales independientes cuyo sentido depende de su relación."
+        },
+        {
+          "letter": "C",
+          "text": "Los dos dependen de un único párrafo central para transmitir todo su contenido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguno de los dos tiene un párrafo central, y su sentido está repartido entre varios bloques."
+        },
+        {
+          "letter": "D",
+          "text": "Los dos aparecen en un medio impreso y por eso se leen exactamente igual.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El soporte no determina la organización, y los dos textos tienen estructuras visuales distintas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comparar dos textos del mismo grupo permite identificar lo que los define por encima del formato. Barra, ícono, tabla, recuadro y viñeta son bloques distintos que cumplen la misma función estructural. Reconocer esa base común facilita entender otros textos no continuos nuevos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Critico-Intertextual",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-10-2026-W12-los-textos-no-continuos-y-su-comprension-visual-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W12-los-textos-no-continuos-y-su-comprension-visual-001-MASTERY-bundle-v7",
+      "statement": "¿Por qué el pie de nota «Fuente: medición de la empresa de agua, febrero de 2026» es una parte esencial del Texto 1 y no un dato adicional?",
+      "context": "En Medellín, el grupo de décimo grado discute cómo se sostienen entre sí los bloques de la infografía del Texto 1.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el pie de nota impide que el lector vea las barras horizontales del primer bloque.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El pie de nota ocupa el último renglón y no tapa ninguna barra del diseño."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el pie de nota convierte la infografía en un aviso publicitario de la empresa de agua.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mencionar la fuente de una medición no cambia la intención de la infografía, que es informar y recomendar."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el pie de nota reemplaza al ícono de la persona cerrando la llave.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos bloques cumplen tareas distintas y ninguno sustituye al otro."
+        },
+        {
+          "letter": "D",
+          "text": "Porque sin él los datos del gráfico y de la tabla quedan sin respaldo y el lector pierde la posibilidad de verificarlos.",
+          "is_correct": true,
+          "feedback": "Correcto. La fuente conecta cada cifra con una medición identificable, y sin ella los datos quedan como afirmaciones sueltas."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Analizar un texto no continuo consiste en preguntar qué función cumple cada bloque y cómo cooperan entre sí. La fuente no es un adorno administrativo: es lo que convierte cifras en información comprobable. Reconocer esa diferencia entre afirmar y sustentar es la habilidad que más pesa al evaluar un material visual.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-10-2026-W12-los-textos-no-continuos-y-su-comprension-visual-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W12-los-textos-no-continuos-y-su-comprension-visual-001-MASTERY-bundle-v8",
+      "statement": "En la viñeta donde «una gota crece hasta ocupar la bañera», ¿cómo se construye el mensaje sin que aparezca ninguna palabra?",
+      "context": "En Barranquilla, un grupo de décimo grado analiza la viñeta central de la historieta publicada en el Texto 2.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Con una secuencia de imágenes que muestra el cambio de tamaño de la gota, de modo que el lector entiende el desperdicio solo con ver.",
+          "is_correct": true,
+          "feedback": "Correcto. El crecimiento progresivo de la gota es una representación visual directa del agua perdida."
+        },
+        {
+          "letter": "B",
+          "text": "Con el color del fondo, que cambia de amarillo a rojo y le avisa al lector sobre el agua.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Texto 2 no menciona ningún cambio de color, y esa explicación inventa un recurso ausente."
+        },
+        {
+          "letter": "C",
+          "text": "Con la posición de los personajes, que se colocan en el centro del cuadro para llamar la atención.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En esa viñeta el elemento central es la gota, y la posición de los personajes no es lo que explica el mensaje."
+        },
+        {
+          "letter": "D",
+          "text": "Con el tamaño del recuadro de la tienda, que ocupa más espacio que las viñetas de la historieta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El recuadro pertenece al aviso publicitario y no participa en la construcción del sentido de la viñeta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En un texto visual, el significado puede construirse solo con imágenes y sin una sola palabra. La historieta del Texto 2 lo demuestra: el aumento de la gota comunica el desperdicio de manera inmediata. Analizar cómo se codifica ese mensaje enseña a reconocer los recursos del lenguaje visual.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semantico",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LC-10-2026-W12-los-textos-no-continuos-y-su-comprension-visual-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W12-los-textos-no-continuos-y-su-comprension-visual-001-MASTERY-bundle-v9",
+      "statement": "¿Qué se puede inferir a partir del dato de la tabla, que muestra que el consumo por persona subió de 38 a 46 litros entre 2024 y 2026?",
+      "context": "En Medellín, un equipo de décimo grado prepara una presentación sobre consumo de agua con los datos del Texto 1.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que en 2026 el colegio consume menos agua en total que en 2024.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si cada persona consume más, el consumo total del colegio también tiende a subir."
+        },
+        {
+          "letter": "B",
+          "text": "Que el aumento se debe a que la empresa de agua subió el precio del servicio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tabla no menciona precios, y el Texto 1 en ningún momento habla de tarifas."
+        },
+        {
+          "letter": "C",
+          "text": "Que cada persona consume hoy más agua que antes, y que esa es la tendencia que la campaña debe atacar.",
+          "is_correct": true,
+          "feedback": "Correcto. La comparación de los dos años revela una tendencia de aumento que la recomendación del ícono busca frenar."
+        },
+        {
+          "letter": "D",
+          "text": "Que el número de estudiantes del colegio se redujo a menos de la mitad entre esos dos años.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Texto 1 no informa sobre la matrícula del colegio, y esa conclusión no se puede derivar."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un dato comparativo permite deducir una tendencia, no solo repetir dos cifras. Al contrastar los dos años se obtiene información que ninguno de los números aislado entrega. Esa deducción es la base para formular una meta razonable en una campaña de ahorro.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Inferencial",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-10-2026-W12-los-textos-no-continuos-y-su-comprension-visual-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W12-los-textos-no-continuos-y-su-comprension-visual-001-MASTERY-bundle-v10",
+      "statement": "Un comité debe elegir el material más eficaz para convencer a la comunidad escolar de que hay que ahorrar agua. ¿Cuál cumple mejor esa función?",
+      "context": "En Medellín, el comité de ambiente escolar debe decidir qué material publica parafee convince a la comunidad de que hay que ahorrar agua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Texto 1, porque tiene cuatro bloques, y la cantidad de bloques por sí sola garantiza que el mensaje se entienda.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cantidad de bloques no mide eficacia, y lo que convence es la combinación entre dato, recomendación y fuente."
+        },
+        {
+          "letter": "B",
+          "text": "El Texto 1, porque combina un dato medido, una recomendación clara y una fuente verificable, mientras la historieta solo apela a lo emotivo.",
+          "is_correct": true,
+          "feedback": "Correcto. La información del Texto 1 llega con datos y con respaldo, resiste la crítica, y la historieta no ofrece argumento comprobable."
+        },
+        {
+          "letter": "C",
+          "text": "El Texto 2, porque la historia de la bañera resulta más fácil de entender para cualquiera que no lee infographics.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que el mensaje sea fácil de entender no equivale a que sea eficaz, y el texto no permite verificar nada."
+        },
+        {
+          "letter": "D",
+          "text": "Los dos cumplen la misma función, porque los dos son textos no continuos y por eso tienen la misma fuerza persuasiva.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Pertenecer al mismo grupo no iguala las estrategias: uno informa con datos y el otro narra una escena."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar la eficacia de un material exige comparar la calidad de sus apoyos, no su apariencia. Un dato con fuente resiste preguntas que una escena emotiva no puede responder. Ese criterio es el que permite justificar una decisión de publicación en lugar de escoger por gusto.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.62,
+      "bundle_id": "CO-LC-10-2026-W12-los-textos-no-continuos-y-su-comprension-visual-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W12-los-textos-no-continuos-y-su-comprension-visual-001-MASTERY-bundle-v11",
+      "statement": "La dirección del colegio escribe a la empresa de agua para confirmar el 44 % del Texto 1. ¿Qué muestra mejor esa gestión?",
+      "context": "En Medellín, la dirección del colegio escribe a la empresa de agua para confirmar el 44 % que aparece en el Texto 1.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la infografía se imprima a mayor tamaño, porque el tamaño es la medida de la seriedad de un dato.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El formato no altera la validez de la cifra, y agrandar la infografía no verifica nada."
+        },
+        {
+          "letter": "B",
+          "text": "Que la infografía tenga cuatro bloques idénticos, para que la cartelera se vea equilibrada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La simetría visual es una decisión de diseño y no tiene relación con la comprobación del dato."
+        },
+        {
+          "letter": "C",
+          "text": "Que el ícono se coloque en la parte superior, porque así el lector lo ve antes de leer los números.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El orden de los bloques importa para la lectura, pero no resuelve la procedencia del 44 %."
+        },
+        {
+          "letter": "D",
+          "text": "Que el dato quede confirmado por la fuente y que, si no se confirma, se retire o se marque como no verificado.",
+          "is_correct": true,
+          "feedback": "Correcto. Verificar contra la fuente es el único paso que protege la credibilidad del material publicado."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Un texto visual circula más rápido que cualquier nota aclaratoria y por eso su responsabilidad es mayor. Consultar la fuente antes de imprimir evita que una cifra sin respaldo se vuelva cierta por repetición. Evaluar esa gestión demuestra que se entiende la relación entre publicación y verificación.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LC-10-2026-W12-los-textos-no-continuos-y-su-comprension-visual-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W12-los-textos-no-continuos-y-su-comprension-visual-001-MASTERY-bundle-v12",
+      "statement": "Un grupo de décimo grado quiere combinar en un solo mural los bloques del Texto 1 con la historieta del Texto 2. ¿Cuál es el riesgo más grave de esa combinación?",
+      "context": "En Barranquilla, un grupo de décimo grado prepara un mural del patio combinando bloques de los dos textos base.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el mural ocupe demasiado espacio en el patio y alcance a leerse desde lejos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tamaño del mural es un ajuste de diseño, no un riesgo para el sentido del mensaje."
+        },
+        {
+          "letter": "B",
+          "text": "Que la historieta pierda su carácter de historieta al pasar de cuatro a cinco viñetas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Añadir una viñeta no destruye el género, y el problema central no está en el número de cuadros."
+        },
+        {
+          "letter": "C",
+          "text": "Que la imagen de la gota que llena la bañera se lea como un dato medido y se confunda con los porcentajes de la tabla.",
+          "is_correct": true,
+          "feedback": "Correcto. Mezclar una escena emotiva con cifras medidas borra la diferencia entre lo que se siente y lo que está sustentado."
+        },
+        {
+          "letter": "D",
+          "text": "Que los dos textos usen títulos parecidos y el lector no sepa cuál debe seguir primero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los títulos son distintos y, aunque coincidieran, el orden de lectura no pondría en riesgo la información."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Combinar textos no continuos exige conservar la diferencia de naturaleza entre sus bloques. Una imagen emotiva y una cifra medida responden a preguntas distintas, y al juntarlas sin marcar la diferencia se contaminan mutuamente. Reconocer ese riesgo es lo que permite diseñar materiales combinados sin perder precisión.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Critico-Intertextual",
+      "expected_success": 0.58,
+      "bundle_id": "CO-LC-10-2026-W12-los-textos-no-continuos-y-su-comprension-visual-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}
