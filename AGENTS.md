@@ -116,13 +116,13 @@ Texto de la pregunta.
 
 ### Opciones
 - [x] A) Respuesta correcta
-  <!-- feedback: Explica por que esta opcion es correcta. -->
+  <!-- feedback: Explica por que esta opcion es correcta: el concepto, la operacion o la formula concreta que la sostiene. -->
 - [ ] B) Distractor 1
-  <!-- feedback: Explica el error conceptual. -->
+  <!-- feedback: Explica el error conceptual concreto que cometio el estudiante al elegirla: "olvidaste sumar el termino independiente", "confundiste el signo al despejar", "esta palabra significa X, no Y". -->
 - [ ] C) Distractor 2
-  <!-- feedback: Explica el error conceptual. -->
+  <!-- feedback: Mismo nivel de detalle que B. Nombra el concepto o la operacion que hace que la opcion sea falsa. -->
 - [ ] D) Distractor 3
-  <!-- feedback: Explica el error conceptual. -->
+  <!-- feedback: Mismo nivel de detalle que B y C. Cada distractor explica SU error, no el de los demas. -->
 
 ### Explicacion Pedagogica
 Explicacion completa del concepto evaluado.
@@ -136,6 +136,49 @@ Reglas:
 - Exactamente una opcion con `[x]`.
 - Todas las opciones tienen feedback HTML en la linea siguiente o inmediata.
 - No usar "Todas las anteriores", "Ninguna de las anteriores", "A y B", ni equivalentes.
+
+### Feedback obligatorio: las 4 opciones DEBEN explicar el porqué (regla innegociable)
+
+**Esta regla no es negociable y aplica a TODOS los paises, todos los grados y todas las materias.**
+Una opcion sin explicacion del porque es un defecto de contenido, no un detalle de redaccion.
+Un distractor que no explica su error no cumple la funcion pedagogica: el estudiante ve que
+fallo, pero no aprende por que, y la siguiente pregunta vuelve a fallar igual.
+
+**Lo que esta PROHIBIDO** (el validador lo rechaza como ERROR):
+
+| Prohibido | Por que esta mal | Correcto |
+|---|---|---|
+| `Incorrecto.` | No explica nada | `Incorrecto. "transportacion" son medios de transporte, no un lugar donde alojarse.` |
+| `Correcto.` | No explica nada | `Correcto. "accommodation" corresponde a la definicion de lugar de hospedaje.` |
+| `Incorrect. Try again.` / `Intenta de nuevo.` | Manda al estudiante a releer, no enseña | `Incorrect. Here "could" is past ability, not future possibility.` |
+| `Incorrecto. Revisa el concepto.` | Igual: reenvia sin explicar | `Incorrect. "siempre" significa todos los dias, nunca "nunca".` |
+| `Incorrecto. Tense.` | Nombra la categoria pero no el error concreto | `Incorrect. Aqui hace falta pasado: "started" ya es pasado, por eso va "couldn't".` |
+
+**Lo que SI cumple**, para las 4 opciones:
+
+1. Empieza con el veredicto (`Correcto.` / `Incorrecto.`) — opcional pero recomendado.
+2. **Luego explica la razon**: el concepto, la operacion, la formula o el error especifico.
+3. Cada distractor explica SU error, no el de los demas.
+4. Una formula o calculo tambien es una explicacion valida:
+   `Correcto. vf = v0 + a*t = 6 + 2*5 = 16 m/s.` es correcto aunque sea corto.
+
+**Criterio que aplica el validador** (`scripts/validate-bundles-v52.mjs`):
+despues de quitar el veredicto inicial, el texto restante debe
+(a) medir al menos 18 caracteres, (b) no ser solo una instruccion de releer, y
+(c) contener evidencia concreta: una expresion matematica, un numero con operador,
+o vocabulario causal (`olvido`, `confundio`, `ignoro`, `señalaba`, `define`,
+`significa`, `porque`, `equivale`, `se aplica`, `corresponde`...).
+Una frase larga con prosa clara tambien se acepta.
+
+**Consecuencia en el pipeline:** un bundle que falla esta regla NO se publica.
+Ademas, si borras un bundle, debes regenerar los packs con:
+
+```bash
+cd saberparatodos && node scripts/generate-static-packs.js --all-weekly --changed-only
+```
+
+porque los packs son artefactos derivados: si no se regeneran, las preguntas del bundle
+borrado siguen sirviéndose por el API aunque el `.md` ya no exista.
 
 ## Difficulty And Bloom
 
@@ -179,19 +222,92 @@ Contexto minimo:
 3. No AI leakage: `<think>`, `<process>`, markdown fences alrededor del bundle, notas internas o prompts.
 4. No alucinaciones cientificas, historicas o legales.
 5. Exactamente una opcion `[x]` por pregunta.
-6. Todas las opciones tienen feedback.
+6. Todas las opciones tienen feedback **que explica el porque** (ver seccion anterior). Feedback tipo `Incorrecto.` o `Revisa el concepto.` es ERROR.
 7. Todas las preguntas tienen `### Explicacion Pedagogica`.
 8. Contextualizar al pais destino.
 9. Un PR de contenido solo debe agregar o modificar los bundles solicitados. No borrar bundles no solicitados.
+
+---
+
+## Post-Mortem: por que 109 bundles llegaron a produccion sin feedback (2026-09-30)
+
+Esta seccion existe para que el error no se repita. **La causa fue el validador, no los agentes.**
+
+### Que paso
+
+Un usuario reporto que muchas preguntas de Colombia y de otros paises llegaban sin
+explicacion. Al medir el corpus mergeado (2.789 bundles, 166.885 opciones):
+
+| Modo de fallo | Opciones | Que era |
+|---|---|---|
+| DEAD | 3.788 (2,3%) | `Incorrecto.` / `Correcto.` / `Try again.` — no explica nada |
+| VAGUE | 44.165 (26,5%) | `Revisa el concepto.` — presente pero no enseña |
+| USEFUL | 118.932 (71,3%) | Explica la razon correctamente |
+
+109 bundles (1.512 preguntas) eran dominantemente DEAD y se sirvian en produccion.
+
+### Por que fallo el gate anterior
+
+Protocol v5.2 validaba solo **presencia**:
+
+```js
+if (options.some((option) => !option.feedback)) errors.push(`every option needs feedback`);
+```
+
+Es decir: exigia que existiera un `<!-- feedback: -->`, no que explicara algo.
+`<!-- feedback: Incorrecto. -->` pasa ese test perfectamente. El gate era
+**estructural, no pedagogico**, asi que 109 bundles con feedback vacio se
+mergearon sin friccion durante semanas.
+
+Dos factores lo agravaron:
+
+1. **Los agentes generaban por lote** (`bundle-batch-*`), asi que un patron incorrecto
+   se repetia en decenas de archivos sin revision individual.
+2. **La deteccion por longitud produce falsos positivos.** Una primera version de la
+   regla uso "el feedback debe pesar 60+ caracteres" y marco como malo un feedback
+   excelente y corto: `Correcto. vf = v0 + a*t = 6 + 2*5 = 16 m/s.` (~38 chars).
+   La regla correcta es **pedagogica**, no de tamano.
+
+### Lecciones (reglas permanentes)
+
+1. **Un gate que valida presencia no valida calidad.** Si el requisito dice
+   "explicar el por que", el validador debe exigir la razon, no la etiqueta.
+2. **La deteccion debe ser semantica, no por longitud.** Quitar el veredicto inicial
+   y preguntar si queda evidencia concreta (formula, numero, vocabulario causal).
+   Un umbral de caracteres solo produce falsos positivos y falsos negativos.
+3. **Todo content gate necesita su propio test que pueda fallar**
+   (`node scripts/test-feedback-gate.mjs`, 7 casos). Un test que no puede fallar es
+   peor que no tener test.
+4. **Verificar la clasificacion con una segunda herramienta antes de borrar.**
+   El clasificador Python y el gate JS se cruzaron sobre los mismos 109 bundles:
+   109/109 de acuerdo. Sin ese cruce, un clasificador con bug habria borrado
+   contenido bueno.
+5. **Los artefactos derivados heredan el defecto.** Los packs JSON se generan del `.md`.
+   Borrar un bundle sin regenerar los packs deja sus preguntas sirviéndose igual: el
+   pack es un archivo independiente que el generador nunca borra.
+6. **Un prune global es peligroso.** Un intento de borrar "packs no regenerados"
+   elimino 2.499 packs legitimos de otros generadores. La regla correcta es por
+   procedencia: borrar solo el pack cuyo pais/grado/semana corresponde a un bundle
+   eliminado en este cambio.
 
 ## Validation Commands
 
 ```bash
 npm run validate
 npm run validate -- questions_data/colombia/lengua/grado-7/2026/weekly/CO-LEN-7-2026-W14-subordinacion-001-MASTERY-bundle.md
+
+# El gate de feedback tiene su propio test. Correrlo cuando se toque el validador:
+node scripts/test-feedback-gate.mjs
 ```
 
-No abrir PR si `npm run validate` falla.
+`npm run validate` con `--` sobre un DIRECTORIO (no un glob): el glob produce un
+falso verde. No abrir PR si `npm run validate` falla.
+
+**Nota sobre la cobertura:** el gate de feedback es mas estricto que el resto del
+validador y por diseno va a fallar sobre bundles legacy que ya estan mergeados con
+feedback vago (`Revisa el concepto.`). Eso es correcto: son la deuda que se va a
+reparar por oleadas. Al validar contenido NUEVO, el fallo indica un defecto real
+y debe corregirse antes de abrir el PR.
 
 ## Static Pack Publication
 
