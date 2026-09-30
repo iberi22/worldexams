@@ -34,15 +34,14 @@ creador: "Jules-Agent"
 ¿Qué es una anécdota dentro de un texto corto?
 
 ### Opciones
-- [x] A) Un relato breve que cuenta algo que le ocurrió a una persona o a un personaje, con frecuencia de humor.
-  <!-- feedback: ¡Correcto! La anécdota es un relato corto sobre un suceso concreto, real o inventado. -->
-- [ ] B) Una lista ordenada de pasos para preparar un alimento.
+- [ ] A) Una lista ordenada de pasos para preparar un alimento.
   <!-- feedback: Incorrecto. Los pasos ordenados corresponden a un texto instructivo, no a una anécdota. -->
+- [x] B) Un relato breve que cuenta algo que le ocurrió a una persona o a un personaje, con frecuencia de humor.
+  <!-- feedback: ¡Correcto! La anécdota es un relato corto sobre un suceso concreto, real o inventado. -->
 - [ ] C) Una descripción larga de un paisaje sin personajes ni acontecimientos.
   <!-- feedback: Incorrecto. La anécdota siempre incluye un suceso y alguien que lo vive, aunque sea breve. -->
 - [ ] D) Un diálogo largo entre dos personajes que nunca llega a un final.
   <!-- feedback: Incorrecto. La anécdota es breve y sí tiene un cierre; no es un diálogo extenso. -->
-
 ### Explicacion Pedagogica
 La anécdota es la forma más corta del relato: cuenta un solo suceso y lo narra en pocas líneas. En los textos de lectura infantil suele aparecer con humor, porque permite provocar la risa contando algo cotidiano de forma inesperada.
 ---
@@ -57,15 +56,14 @@ La anécdota es la forma más corta del relato: cuenta un solo suceso y lo narra
 ¿Qué recurso del humor se reconoce en la frase "tuvo que cargar el plato en la mano durante toda la semana"?
 
 ### Opciones
-- [x] A) La exageración, porque una arepa tan grande no podría sostenerse así durante siete días.
-  <!-- feedback: ¡Correcto! La exageración aumenta desmedidamente un detalle para provocar la risa. -->
-- [ ] B) La descripción detallada del sabor de la arepa.
+- [ ] A) La descripción detallada del sabor de la arepa.
   <!-- feedback: Incorrecto. La frase no habla de sabor, sino de un tamaño y una duración inverosímiles. -->
-- [ ] C) El consejo para preparar una arepa grande con más masa.
+- [ ] B) El consejo para preparar una arepa grande con más masa.
   <!-- feedback: Incorrecto. No hay ninguna indicación para cocinar; la frase solo narra, no enseña. -->
+- [x] C) La exageración, porque una arepa tan grande no podría sostenerse así durante siete días.
+  <!-- feedback: ¡Correcto! La exageración aumenta desmedidamente un detalle para provocar la risa. -->
 - [ ] D) La comparación entre la abuela y un perro.
   <!-- feedback: Incorrecto. No hay ningún animal ni comparación explícita en la frase. -->
-
 ### Explicacion Pedagogica
 La hipérbole o exageración es uno de los recursos más usados en el humor: se agranda un rasgo más allá de lo posible y ese despropósito genera la risa. Reconocerla permite entender por qué en muchos textos humorísticos aparece una frase que "no puede ser cierta" y sin embargo resulta divertida.
 ---
@@ -88,7 +86,6 @@ La hipérbole o exageración es uno de los recursos más usados en el humor: se 
   <!-- feedback: Incorrecto. La exageración que se describe en esa opción no explica la reacción de los vecinos. -->
 - [ ] D) Una instrucción para silenciar el despertador de la panadería.
   <!-- feedback: Incorrecto. La respuesta no da ninguna indicación; es una reacción hablada, no una instrucción. -->
-
 ### Explicacion Pedagogica
 La ironía se construye diciendo algo distinto de lo que se piensa, y el lector la descifra por el contexto. Este tipo de humor depende de la información adicional que el texto ofrece, por lo que exige una lectura atenta, no solo la palabra aislada.
 ---
@@ -103,15 +100,14 @@ La ironía se construye diciendo algo distinto de lo que se piensa, y el lector 
 ¿Cuál es la mejor explicación de por qué esta anécdota produce humor?
 
 ### Opciones
-- [x] A) Porque la exageración de Laura choca con el resultado real: después de tantas repeticiones, olvidó la poesía.
-  <!-- feedback: ¡Correcto! El humor nace del contraste entre lo que se dice y lo que realmente pasó. -->
-- [ ] B) Porque repetir muchas veces siempre hace que alguien olvide lo que iba a decir.
+- [ ] A) Porque repetir muchas veces siempre hace que alguien olvide lo que iba a decir.
   <!-- feedback: Incorrecto. La anécdota no demuestra eso; la moraleja es que estudiar sin atención no garantiza nada. -->
-- [ ] C) Porque la poesía que eligieron era demasiado corta y no daba tiempo para ensayar.
+- [ ] B) Porque la poesía que eligieron era demasiado corta y no daba tiempo para ensayar.
   <!-- feedback: Incorrecto. El texto no dice nada sobre la extensión de la poesía. -->
-- [ ] D) Porque la amiga se burló de Laura delante de todo el público del concurso.
+- [ ] C) Porque la amiga se burló de Laura delante de todo el público del concurso.
   <!-- feedback: Incorrecto. La historia no cuenta ninguna burla; el remate es el tropiezo de la propia Laura. -->
-
+- [x] D) Porque la exageración de Laura choca con el resultado real: después de tantas repeticiones, olvidó la poesía.
+  <!-- feedback: ¡Correcto! El humor nace del contraste entre lo que se dice y lo que realmente pasó. -->
 ### Explicacion Pedagogica
 El humor de una anécdota suele apoyarse en un remate: un desenlace que contradice lo que el lector esperaba. Cuando el remate es inesperado, coherente con los hechos y narrado con pocas palabras, el efecto cómico resulta más fuerte.
 ---
@@ -126,15 +122,14 @@ El humor de una anécdota suele apoyarse en un remate: un desenlace que contradi
 ¿Qué elementos de la organización de esta anécdota hacen que funcione como un texto humorístico corto?
 
 ### Opciones
-- [x] A) Plantea una situación cotidiana, incluye un diálogo breve y cierra con un remate inesperado que invierte el sentido del consejo.
-  <!-- feedback: ¡Correcto! La estructura de situación, diálogo y remate es la base discursiva del chiste escrito. -->
-- [ ] B) Usa solamente cifras y datos numéricos para demostrar una regla del tejo.
+- [ ] A) Usa solamente cifras y datos numéricos para demostrar una regla del tejo.
   <!-- feedback: Incorrecto. No aparecen datos numéricos; el efecto se sostiene en el relato. -->
+- [x] B) Plantea una situación cotidiana, incluye un diálogo breve y cierra con un remate inesperado que invierte el sentido del consejo.
+  <!-- feedback: ¡Correcto! La estructura de situación, diálogo y remate es la base discursiva del chiste escrito. -->
 - [ ] C) Narra varios capítulos con descripciones largas de la plaza de tejo.
   <!-- feedback: Incorrecto. Una anécdota es breve y no se divide en capítulos. -->
 - [ ] D) Termina con la definición técnica de los tipos de tejo existentes en el Llano.
   <!-- feedback: Incorrecto. El cierre es un remate divertido, no una definición. -->
-
 ### Explicacion Pedagogica
 El chiste escrito suele organizarse en tres movimientos: planta una situación conocida, introduce una expectativa y la resuelve con un remate que la subvierte. Analizar esta arquitectura revela cómo el autor controla la risa del lector paso a paso.
 ---
@@ -149,15 +144,14 @@ El chiste escrito suele organizarse en tres movimientos: planta una situación c
 ¿Qué recursos del lenguaje hacen que la frase de Samuel produzca risa en la anécdota?
 
 ### Opciones
-- [x] A) La repetición de palabras y los signos de exclamación, que transmiten urgencia, sorpresa y tono dramático.
-  <!-- feedback: ¡Correcto! Los recursos fónicos y gráficos exageran la reacción y amplifican el efecto humorístico. -->
-- [ ] B) El uso del modo imperativo para dar órdenes a la clase.
+- [ ] A) El uso del modo imperativo para dar órdenes a la clase.
   <!-- feedback: Incorrecto. Hay una pregunta y una exclamación, pero ninguna orden dirigida a otros. -->
-- [ ] C) El uso de oraciones largas y con muchas ideas secundarias.
+- [ ] B) El uso de oraciones largas y con muchas ideas secundarias.
   <!-- feedback: Incorrecto. La frase es breve; su comicidad no depende de la longitud. -->
-- [ ] D) La descripción técnica de los cuadernos escolares y de sus pastas.
+- [ ] C) La descripción técnica de los cuadernos escolares y de sus pastas.
   <!-- feedback: Incorrecto. El texto no describe los cuadernos, se limita a nombrarlos dentro de la exclamación. -->
-
+- [x] D) La repetición de palabras y los signos de exclamación, que transmiten urgencia, sorpresa y tono dramático.
+  <!-- feedback: ¡Correcto! Los recursos fónicos y gráficos exageran la reacción y amplifican el efecto humorístico. -->
 ### Explicacion Pedagogica
 El humor también se construye con recursos lingüísticos: la repetición marca la urgencia, la exclamación impone un tono dramático y la pausa entre repeticiones tensa al lector. Estos recursos verbales, fónicos y gráficos se combinan con el contenido para hacer la risa más efectiva.
 ---
@@ -180,7 +174,6 @@ El humor también se construye con recursos lingüísticos: la repetición marca
   <!-- feedback: Incorrecto. Un mismo suceso puede narrarse de muchas maneras, y solo una de ellas produce la risa. -->
 - [ ] D) La versión 2, porque tiene más palabras que la versión 1.
   <!-- feedback: Incorrecto. La extensión por sí sola no explica el humor; importa el tratamiento exagerado de los hechos. -->
-
 ### Explicacion Pedagogica
 Comparar dos textos que narran el mismo hecho permite evaluar decisiones de escritura y ver cómo una exageración bien colocada transforma un relato en algo divertido. Este tipo de comparación enseña que el humor es un recurso construido, no un accidente del texto.
 ---
@@ -195,14 +188,13 @@ Comparar dos textos que narran el mismo hecho permite evaluar decisiones de escr
 ¿Cuál afirmación evalúa correctamente el propósito del humor en estos textos?
 
 ### Opciones
-- [x] A) El humor hace que el texto se recuerde con facilidad y disminuye la tensión, pero no reemplaza la información paso a paso del texto instructivo.
-  <!-- feedback: ¡Correcto! El valor del humor es distinto: entretiene y fija ideas, sin sustituir la función informativa de otros géneros. -->
-- [ ] B) El humor reemplaza cualquier necesidad de explicar con claridad un procedimiento.
+- [ ] A) El humor reemplaza cualquier necesidad de explicar con claridad un procedimiento.
   <!-- feedback: Incorrecto. Divertir no es informar: un texto que hace reír no siempre indica cómo hacer algo. -->
-- [ ] C) El texto humorístico sirve solo para entretener y nunca enseña nada.
+- [ ] B) El texto humorístico sirve solo para entretener y nunca enseña nada.
   <!-- feedback: Incorrecto. El humor también comunica valores y a veces deja enseñanzas sobre la vida cotidiana. -->
+- [x] C) El humor hace que el texto se recuerde con facilidad y disminuye la tensión, pero no reemplaza la información paso a paso del texto instructivo.
+  <!-- feedback: ¡Correcto! El valor del humor es distinto: entretiene y fija ideas, sin sustituir la función informativa de otros géneros. -->
 - [ ] D) El texto instructivo siempre es mejor porque las anécdotas no aportan información de ningún tipo.
   <!-- feedback: Incorrecto. Es un juicio absoluto: cada género cumple una función distinta y ninguno reemplaza al otro. -->
-
 ### Explicacion Pedagogica
 Evaluar el humor significa reconocer su función comunicativa: atrae la atención, genera placer y deja una huella memorable. Al mismo tiempo, el lector debe advertir qué información sí aporta y qué información necesita buscar en otro texto.

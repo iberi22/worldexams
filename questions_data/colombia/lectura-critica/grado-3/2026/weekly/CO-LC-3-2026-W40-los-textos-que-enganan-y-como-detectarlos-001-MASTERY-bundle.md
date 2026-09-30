@@ -36,15 +36,14 @@ creador: "Jules-Agent"
 ¿Cuál de las afirmaciones del aviso es la más difícil de creer?
 
 ### Opciones
-- [x] A) "Quita todas las manchas en un segundo".
-  <!-- feedback: ¡Correcto! Prometer que resuelve todos los problemas en un segundo, con la palabra "todas", es una exageración que ningún producto real puede cumplir. -->
-- [ ] B) "Se llama Brillo Total".
+- [ ] A) "Se llama Brillo Total".
   <!-- feedback: Incorrecto. El nombre del producto es un dato sencillo que no genera promesas imposibles. -->
-- [ ] C) "Cuesta 5.000 COP".
+- [ ] B) "Cuesta 5.000 COP".
   <!-- feedback: Incorrecto. Un precio concreto se puede consultar y comparar en cualquier tienda del barrio. -->
-- [ ] D) "Aparece en un grupo de mensajes".
+- [ ] C) "Aparece en un grupo de mensajes".
   <!-- feedback: Incorrecto. Estar publicado en un grupo indica quién lo compartió, no si su contenido es cierto. -->
-
+- [x] D) "Quita todas las manchas en un segundo".
+  <!-- feedback: ¡Correcto! Prometer que resuelve todos los problemas en un segundo, con la palabra "todas", es una exageración que ningún producto real puede cumplir. -->
 ### Explicacion Pedagogica
 Las afirmaciones absolutas como "todas", "siempre" o "en un segundo" suelen esconder exageraciones. Reconocerlas es el primer paso para desconfiar de un texto que promete demasiado.
 
@@ -68,7 +67,6 @@ Las afirmaciones absolutas como "todas", "siempre" o "en un segundo" suelen esco
   <!-- feedback: Incorrecto. Los anuncios sí muestran precios, y por eso hay que revisar si corresponden a la realidad. -->
 - [ ] D) Porque leer todo garantiza que el producto sea bueno y barato.
   <!-- feedback: Incorrecto. Leer completo ayuda a decidir, pero no asegura la calidad del producto. -->
-
 ### Explicacion Pedagogica
 Los avisos suelen destacar lo atractivo en el título y esconder los costos y las condiciones al final. Leer el texto completo es una estrategia básica para no tomar decisiones engañadas.
 
@@ -84,15 +82,14 @@ Los avisos suelen destacar lo atractivo en el título y esconder los costos y la
 ¿Qué debe hacer Jhon antes de contar esa noticia en el patio?
 
 ### Opciones
-- [x] A) Consultar el aviso original del concurso para saber cuál es el premio real y quién puede ganarlo.
-  <!-- feedback: ¡Correcto! Verificar en la fuente oficial evita repetir información cambiada que después sería una mentira. -->
-- [ ] B) Contarla tal cual, porque si alguien ya la publicó debe ser verdadera.
+- [ ] A) Contarla tal cual, porque si alguien ya la publicó debe ser verdadera.
   <!-- feedback: Incorrecto. Que un mensaje circula en redes no garantiza que su contenido sea exacto. -->
+- [x] B) Consultar el aviso original del concurso para saber cuál es el premio real y quién puede ganarlo.
+  <!-- feedback: ¡Correcto! Verificar en la fuente oficial evita repetir información cambiada que después sería una mentira. -->
 - [ ] C) Contarla solo si su primo se lo pide, sin revisar ninguna información.
   <!-- feedback: Incorrecto. Esperar la autorización no corrige el dato equivocado que ya se va a repetir por otros. -->
 - [ ] D) Cambiar el nombre del concurso por el de uno más famoso para que suene mejor.
   <!-- feedback: Incorrecto. Cambiar el nombre agrava el problema y hace la información todavía más difícil de verificar. -->
-
 ### Explicacion Pedagogica
 Verificar antes de repetir es la costumbre más útil frente a las noticias que engañan. Consultar siempre la fuente original permite corregir o descartar los datos que llegan deformados por copia.
 
@@ -108,15 +105,14 @@ Verificar antes de repetir es la costumbre más útil frente a las noticias que 
 ¿Cuál es la forma más segura de verificar esta oferta antes de actuar?
 
 ### Opciones
-- [x] A) Buscar el nombre del producto en la página oficial de la empresa y leer qué dicen sus datos y sus condiciones reales.
-  <!-- feedback: ¡Correcto! La página oficial es la fuente primaria: permite comparar lo que promete el anuncio con lo que la empresa confirma. -->
-- [ ] B) Comprarlo rápido, porque el aviso dice que muchos niños ya lo tienen.
+- [ ] A) Comprarlo rápido, porque el aviso dice que muchos niños ya lo tienen.
   <!-- feedback: Incorrecto. La cantidad de usuarios es una afirmación del anuncio y no demuestra que el producto funcione. -->
-- [ ] C) Preguntar en el grupo de la familia si alguien lo ha comprado, sin consultar la empresa.
+- [ ] B) Preguntar en el grupo de la familia si alguien lo ha comprado, sin consultar la empresa.
   <!-- feedback: Incorrecto. Las opiniones de conocidos no reemplazan los datos verificables de la fuente oficial. -->
+- [x] C) Buscar el nombre del producto en la página oficial de la empresa y leer qué dicen sus datos y sus condiciones reales.
+  <!-- feedback: ¡Correcto! La página oficial es la fuente primaria: permite comparar lo que promete el anuncio con lo que la empresa confirma. -->
 - [ ] D) Comprarlo si el anuncio tiene muchos colores y fotos brillantes.
   <!-- feedback: Incorrecto. El diseño llamativo es una estrategia de persuasión, no una prueba de calidad. -->
-
 ### Explicacion Pedagogica
 Las fuentes oficiales permiten comparar lo que un anuncio promete con lo que la empresa efectivamente informa. Cuando no hay datos comprobables, la promesa queda sin respaldo y hay que aplazar la decisión.
 
@@ -140,7 +136,6 @@ Las fuentes oficiales permiten comparar lo que un anuncio promete con lo que la 
   <!-- feedback: Incorrecto. Esas condiciones no aparecen en el texto descrito. -->
 - [ ] D) Indica que el juego tiene un límite de tiempo diario.
   <!-- feedback: Incorrecto. El aviso no menciona ningún límite de tiempo. -->
-
 ### Explicacion Pedagogica
 La apelación a la popularidad —"muchos ya lo tienen"— es una técnica para provocar el deseo de no quedarse atrás. Analizarla ayuda a explicar por qué un anuncio puede parecer convincente sin aportar ninguna evidencia.
 
@@ -156,15 +151,14 @@ La apelación a la popularidad —"muchos ya lo tienen"— es una técnica para 
 ¿Cuál es la diferencia entre las dos afirmaciones sobre el agua de naranja?
 
 ### Opciones
-- [x] A) La primera es absoluta y no se puede comprobar con certeza; la segunda es moderada y se puede verificar con información médica.
-  <!-- feedback: ¡Correcto! La absolutidad oculta la incertidumbre, mientras que la frase moderada señala un beneficio concreto y comprobable. -->
-- [ ] B) Las dos son falsas porque ningún alimento afecta la calidad del sueño.
+- [ ] A) Las dos son falsas porque ningún alimento afecta la calidad del sueño.
   <!-- feedback: Incorrecto. Una afirmación absoluta no puede aceptarse; lo que se evalúa es el grado de certeza de cada frase. -->
-- [ ] C) La primera es científica y la segunda es de opinión personal.
+- [ ] B) La primera es científica y la segunda es de opinión personal.
   <!-- feedback: Incorrecto. Es exactamente al revés: la primera no muestra base científica y la segunda sí. -->
-- [ ] D) No hay diferencia, porque las dos dicen lo mismo con otras palabras.
+- [ ] C) No hay diferencia, porque las dos dicen lo mismo con otras palabras.
   <!-- feedback: Incorrecto. Una asegura un resultado total e inmediato y la otra describe un beneficio posible. -->
-
+- [x] D) La primera es absoluta y no se puede comprobar con certeza; la segunda es moderada y se puede verificar con información médica.
+  <!-- feedback: ¡Correcto! La absolutidad oculta la incertidumbre, mientras que la frase moderada señala un beneficio concreto y comprobable. -->
 ### Explicacion Pedagogica
 Las afirmaciones absolutas ("de un solo trago", "siempre", "100 %") impiden la verificación y suelen exagerar. Las afirmaciones moderadas describen un efecto concreto que se puede consultar y comprobar en fuentes confiables.
 
@@ -180,15 +174,14 @@ Las afirmaciones absolutas ("de un solo trago", "siempre", "100 %") impiden la v
 ¿Cuál de las dos afirmaciones es la más confiable y por qué lo es?
 
 ### Opciones
-- [x] A) La del Ministerio de Salud, porque es una fuente oficial que explica el procedimiento y sus fundamentos, mientras que el cartel solo promete un resultado rápido.
-  <!-- feedback: ¡Excelente! Una fuente autorizada explica el porqué y sus límites, no vende una solución milagrosa en tres días. -->
-- [ ] B) El cartel del centro comercial, porque promete resultados más rápidos.
+- [ ] A) El cartel del centro comercial, porque promete resultados más rápidos.
   <!-- feedback: Incorrecto. La rapidez prometida es justamente el indicio de que se trata de una exageración publicitaria. -->
-- [ ] C) Las dos son igual de confiables porque las dos hablan de los dientes.
+- [ ] B) Las dos son igual de confiables porque las dos hablan de los dientes.
   <!-- feedback: Incorrecto. Tratar el mismo tema no iguala la calidad ni los fundamentos de cada fuente. -->
+- [x] C) La del Ministerio de Salud, porque es una fuente oficial que explica el procedimiento y sus fundamentos, mientras que el cartel solo promete un resultado rápido.
+  <!-- feedback: ¡Excelente! Una fuente autorizada explica el porqué y sus límites, no vende una solución milagrosa en tres días. -->
 - [ ] D) Ninguna de las dos sirve, porque las dos mencionan la boca.
   <!-- feedback: Incorrecto. Una de las dos fuentes sí es confiable y explica cómo prevenir las enfermedades. -->
-
 ### Explicacion Pedagogica
 Evaluar una información exige mirar quién la produce, qué evidencia entrega y qué límites reconoce. Las fuentes oficiales suelen explicar el procedimiento y sus fundamentos, mientras que los anuncios prometen resultados rápidos sin sustento.
 
@@ -204,14 +197,13 @@ Evaluar una información exige mirar quién la produce, qué evidencia entrega y
 ¿Qué es lo más responsable que pueden hacer los estudiantes si quieren contar esa noticia en la familia?
 
 ### Opciones
-- [x] A) Contarla presentando las dos versiones y explicando de dónde salió cada una, para que la familia decida con información completa.
-  <!-- feedback: ¡Correcto! Compartir el origen y las diferencias entre las versiones permite que quien escucha valore la información por sí mismo. -->
-- [ ] B) Contar solo la versión que promete más cosas, porque resulta más interesante.
+- [ ] A) Contar solo la versión que promete más cosas, porque resulta más interesante.
   <!-- feedback: Incorrecto. Elegir la versión exagerada por entretenimiento es justamente lo que hace circular el engaño. -->
+- [x] B) Contarla presentando las dos versiones y explicando de dónde salió cada una, para que la familia decida con información completa.
+  <!-- feedback: ¡Correcto! Compartir el origen y las diferencias entre las versiones permite que quien escucha valore la información por sí mismo. -->
 - [ ] C) No contar nada, porque todo lo que circula en redes es falso.
   <!-- feedback: Incorrecto. Generalizar así es tan poco preciso como creerse todo: hay que revisar caso por caso. -->
 - [ ] D) Contarla con seguridad, porque si alguien la publicó debe ser cierta.
   <!-- feedback: Incorrecto. Publicar no garantiza que la información sea correcta ni que esté completa. -->
-
 ### Explicacion Pedagogica
 Comunicar información con honestidad implica señalar la fuente, comparar versiones y reconocer lo que no se ha podido comprobar. Esa actitud crítica es la mejor defensa frente a los textos que engañan.

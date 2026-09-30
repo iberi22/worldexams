@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-40-grade-3-subject-lectura_critica",
+    "generated_at": "2026-09-30T00:53:23.879Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-3-2026-W40-los-textos-que-enganan-y-como-detectarlos-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál de las afirmaciones del aviso es la más difícil de creer?",
+      "context": "En un grupo de mensajes de la familia apareció un aviso que decía: \"¡OJO! El limpiador Brillo Total quita todas las manchas de la ropa en un segundo. Cómpralo hoy por solo 5.000 COP\". La hermana de Daniela leyó el mensaje, se emocionó y quiso pedir el producto por la página del remitente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Se llama Brillo Total\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. El nombre del producto es un dato sencillo que no genera promesas imposibles."
+        },
+        {
+          "letter": "B",
+          "text": "\"Cuesta 5.000 COP\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un precio concreto se puede consultar y comparar en cualquier tienda del barrio."
+        },
+        {
+          "letter": "C",
+          "text": "\"Aparece en un grupo de mensajes\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estar publicado en un grupo indica quién lo compartió, no si su contenido es cierto."
+        },
+        {
+          "letter": "D",
+          "text": "\"Quita todas las manchas en un segundo\".",
+          "is_correct": true,
+          "feedback": "¡Correcto! Prometer que resuelve todos los problemas en un segundo, con la palabra \"todas\", es una exageración que ningún producto real puede cumplir."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Las afirmaciones absolutas como \"todas\", \"siempre\" o \"en un segundo\" suelen esconder exageraciones. Reconocerlas es el primer paso para desconfiar de un texto que promete demasiado.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Semántico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-3-2026-W40-los-textos-que-enganan-y-como-detectarlos-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W40-los-textos-que-enganan-y-como-detectarlos-001-MASTERY-bundle-v2",
+      "statement": "¿Por qué es importante leer el texto completo de un anuncio antes de comprar?",
+      "context": "El aviso de Brillo Total empezaba con un gran titular y un precio atractivo, pero al final, en letra pequeña, decía que el producto solo se vendía en dos tiendas de Bogotá, que el envío costaba 12.000 COP y que no aceptaba devoluciones. Daniela leyó esas condiciones después de copiarla.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque al final aparecen las condiciones y los detalles que el anuncio esconde en letra pequeña.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El titular busca llamar la atención, mientras que las condiciones finales muestran el verdadero costo y las limitaciones."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el texto completo siempre es mucho más corto que el titular.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las condiciones finales pueden ser más largas y son justamente las más importantes."
+        },
+        {
+          "letter": "C",
+          "text": "Porque los anuncios de internet no pueden mostrar precios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los anuncios sí muestran precios, y por eso hay que revisar si corresponden a la realidad."
+        },
+        {
+          "letter": "D",
+          "text": "Porque leer todo garantiza que el producto sea bueno y barato.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Leer completo ayuda a decidir, pero no asegura la calidad del producto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los avisos suelen destacar lo atractivo en el título y esconder los costos y las condiciones al final. Leer el texto completo es una estrategia básica para no tomar decisiones engañadas.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Textual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-3-2026-W40-los-textos-que-enganan-y-como-detectarlos-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W40-los-textos-que-enganan-y-como-detectarlos-001-MASTERY-bundle-v3",
+      "statement": "¿Qué debe hacer Jhon antes de contar esa noticia en el patio?",
+      "context": "Jhon quería contar en el patio que su primo había ganado \"un computador nuevo\" en un concurso de dibujo de Bogotá. Pero el aviso original que él había copiado decía que el premio era \"un certificado y un bono de 20.000 COP\" y que solo podían participar niños de siete a diez años.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Contarla tal cual, porque si alguien ya la publicó debe ser verdadera.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que un mensaje circula en redes no garantiza que su contenido sea exacto."
+        },
+        {
+          "letter": "B",
+          "text": "Consultar el aviso original del concurso para saber cuál es el premio real y quién puede ganarlo.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Verificar en la fuente oficial evita repetir información cambiada que después sería una mentira."
+        },
+        {
+          "letter": "C",
+          "text": "Contarla solo si su primo se lo pide, sin revisar ninguna información.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esperar la autorización no corrige el dato equivocado que ya se va a repetir por otros."
+        },
+        {
+          "letter": "D",
+          "text": "Cambiar el nombre del concurso por el de uno más famoso para que suene mejor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cambiar el nombre agrava el problema y hace la información todavía más difícil de verificar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Verificar antes de repetir es la costumbre más útil frente a las noticias que engañan. Consultar siempre la fuente original permite corregir o descartar los datos que llegan deformados por copia.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-3-2026-W40-los-textos-que-enganan-y-como-detectarlos-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W40-los-textos-que-enganan-y-como-detectarlos-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es la forma más segura de verificar esta oferta antes de actuar?",
+      "context": "En una página de internet se leía: \"Este cinturón inteligente ayuda a crecer cinco centímetros en una sola semana. Miles de niños ya lo usan. Garantizado o te devolvemos tu dinero\". Mateo tenía que decidir si le pedía el producto a su mamá para su cumpleaños en Cartagena.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Comprarlo rápido, porque el aviso dice que muchos niños ya lo tienen.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cantidad de usuarios es una afirmación del anuncio y no demuestra que el producto funcione."
+        },
+        {
+          "letter": "B",
+          "text": "Preguntar en el grupo de la familia si alguien lo ha comprado, sin consultar la empresa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las opiniones de conocidos no reemplazan los datos verificables de la fuente oficial."
+        },
+        {
+          "letter": "C",
+          "text": "Buscar el nombre del producto en la página oficial de la empresa y leer qué dicen sus datos y sus condiciones reales.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La página oficial es la fuente primaria: permite comparar lo que promete el anuncio con lo que la empresa confirma."
+        },
+        {
+          "letter": "D",
+          "text": "Comprarlo si el anuncio tiene muchos colores y fotos brillantes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El diseño llamativo es una estrategia de persuasión, no una prueba de calidad."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las fuentes oficiales permiten comparar lo que un anuncio promete con lo que la empresa efectivamente informa. Cuando no hay datos comprobables, la promesa queda sin respaldo y hay que aplazar la decisión.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-3-2026-W40-los-textos-que-enganan-y-como-detectarlos-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W40-los-textos-que-enganan-y-como-detectarlos-001-MASTERY-bundle-v5",
+      "statement": "¿Qué estrategia usa el anuncio para convencer a los niños sin demostrar que el juego sea adecuado ni seguro?",
+      "context": "El anuncio de un juego en línea para niños decía: \"Únete hoy: más de 500.000 niños ya juegan. Es el número uno en Colombia. Además te regalamos personajes\". El anuncio no explicaba qué datos pedía el juego ni cuánto tiempo ocupaba al jugador.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Apela a cifras enormes y no verificadas y a que \"muchos\" niños ya lo usan, sin responder las preguntas importantes.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La apelación a la popularidad crea presión para no quedarse atrás y evita entregar la información que permitiría juzgar el producto."
+        },
+        {
+          "letter": "B",
+          "text": "Explica con detalle qué información personal pide el juego.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El anuncio justamente oculta esos datos, que son los relevantes para decidir."
+        },
+        {
+          "letter": "C",
+          "text": "Publica las reglas completas de uso y las condiciones del premio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esas condiciones no aparecen en el texto descrito."
+        },
+        {
+          "letter": "D",
+          "text": "Indica que el juego tiene un límite de tiempo diario.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El aviso no menciona ningún límite de tiempo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La apelación a la popularidad —\"muchos ya lo tienen\"— es una técnica para provocar el deseo de no quedarse atrás. Analizarla ayuda a explicar por qué un anuncio puede parecer convincente sin aportar ninguna evidencia.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-3-2026-W40-los-textos-que-enganan-y-como-detectarlos-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W40-los-textos-que-enganan-y-como-detectarlos-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la diferencia entre las dos afirmaciones sobre el agua de naranja?",
+      "context": "En redes sociales circulaban dos frases sobre el mismo tema: \"Beber agua de naranja quita el sueño de un solo trago\" y \"Beber agua de naranja ayuda a hidratarte porque tiene agua y jugo de naranja\". La primera había sido publicada por una página sin nombre y la segunda por el programa de salud de la ciudad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las dos son falsas porque ningún alimento afecta la calidad del sueño.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una afirmación absoluta no puede aceptarse; lo que se evalúa es el grado de certeza de cada frase."
+        },
+        {
+          "letter": "B",
+          "text": "La primera es científica y la segunda es de opinión personal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es exactamente al revés: la primera no muestra base científica y la segunda sí."
+        },
+        {
+          "letter": "C",
+          "text": "No hay diferencia, porque las dos dicen lo mismo con otras palabras.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una asegura un resultado total e inmediato y la otra describe un beneficio posible."
+        },
+        {
+          "letter": "D",
+          "text": "La primera es absoluta y no se puede comprobar con certeza; la segunda es moderada y se puede verificar con información médica.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La absolutidad oculta la incertidumbre, mientras que la frase moderada señala un beneficio concreto y comprobable."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Las afirmaciones absolutas (\"de un solo trago\", \"siempre\", \"100 %\") impiden la verificación y suelen exagerar. Las afirmaciones moderadas describen un efecto concreto que se puede consultar y comprobar en fuentes confiables.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-3-2026-W40-los-textos-que-enganan-y-como-detectarlos-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W40-los-textos-que-enganan-y-como-detectarlos-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál de las dos afirmaciones es la más confiable y por qué lo es?",
+      "context": "En un centro comercial de Barranquilla había un cartel que prometía \"dientes blancos en tres días\". En cambio, un aviso del Ministerio de Salud explicaba que cepillarse los dientes dos veces al día y usar hilo dental ayuda a prevenir enfermedades de la boca, y que ningún producto reemplaza esa rutina.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El cartel del centro comercial, porque promete resultados más rápidos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La rapidez prometida es justamente el indicio de que se trata de una exageración publicitaria."
+        },
+        {
+          "letter": "B",
+          "text": "Las dos son igual de confiables porque las dos hablan de los dientes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tratar el mismo tema no iguala la calidad ni los fundamentos de cada fuente."
+        },
+        {
+          "letter": "C",
+          "text": "La del Ministerio de Salud, porque es una fuente oficial que explica el procedimiento y sus fundamentos, mientras que el cartel solo promete un resultado rápido.",
+          "is_correct": true,
+          "feedback": "¡Excelente! Una fuente autorizada explica el porqué y sus límites, no vende una solución milagrosa en tres días."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguna de las dos sirve, porque las dos mencionan la boca.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una de las dos fuentes sí es confiable y explica cómo prevenir las enfermedades."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar una información exige mirar quién la produce, qué evidencia entrega y qué límites reconoce. Las fuentes oficiales suelen explicar el procedimiento y sus fundamentos, mientras que los anuncios prometen resultados rápidos sin sustento.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-3-2026-W40-los-textos-que-enganan-y-como-detectarlos-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W40-los-textos-que-enganan-y-como-detectarlos-001-MASTERY-bundle-v8",
+      "statement": "¿Qué es lo más responsable que pueden hacer los estudiantes si quieren contar esa noticia en la familia?",
+      "context": "En clase de lectura en Medellín, la profesora Leslie mostró dos versiones de un mismo mensaje. La primera decía: \"Hoy en el parque repartimos veinte mesas nuevas para el colegio, todos pueden llevarlas\". La segunda nota, publicada por el periódico local, confirmaba que solo hubo dos mesas y que se entregaban a organizaciones del barrio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Contar solo la versión que promete más cosas, porque resulta más interesante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Elegir la versión exagerada por entretenimiento es justamente lo que hace circular el engaño."
+        },
+        {
+          "letter": "B",
+          "text": "Contarla presentando las dos versiones y explicando de dónde salió cada una, para que la familia decida con información completa.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Compartir el origen y las diferencias entre las versiones permite que quien escucha valore la información por sí mismo."
+        },
+        {
+          "letter": "C",
+          "text": "No contar nada, porque todo lo que circula en redes es falso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Generalizar así es tan poco preciso como creerse todo: hay que revisar caso por caso."
+        },
+        {
+          "letter": "D",
+          "text": "Contarla con seguridad, porque si alguien la publicó debe ser cierta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Publicar no garantiza que la información sea correcta ni que esté completa."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comunicar información con honestidad implica señalar la fuente, comparar versiones y reconocer lo que no se ha podido comprobar. Esa actitud crítica es la mejor defensa frente a los textos que engañan.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-3-2026-W40-los-textos-que-enganan-y-como-detectarlos-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    }
+  ]
+}
