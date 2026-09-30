@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "sociales_ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-4-grade-4-subject-sociales_ciudadanas",
+    "generated_at": "2026-09-30T23:53:03.768Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-4-2026-W04-los-derechos-de-los-ninos-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál de estas es una situación en la que se está respetando el derecho de Ana?",
+      "context": "Ana tiene nueve años y vive en Bucaramanga con su mamá y sus dos hermanas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ana estudia en el colegio y su mamá la lleva al médico cuando está enferma",
+          "is_correct": true,
+          "feedback": "Correcto. Ir al colegio y recibir atención médica son derechos que valen para todos los niños, sin importar su edad ni dónde vivan."
+        },
+        {
+          "letter": "B",
+          "text": "Ana no va al colegio porque ella no quiere aprender a leer",
+          "is_correct": false,
+          "feedback": "Incorrecto. No querer algo no cancela un derecho: la educación sigue siendo un derecho de todo niño y la familia debe ayudar a que la aproveche."
+        },
+        {
+          "letter": "C",
+          "text": "Ana trabaja todas las tardes para aportar dinero en la casa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hacer trabajo para tener con qué vivir vulnera los derechos de la infancia, porque ningún niño debe trabajar en lugar de estudiar."
+        },
+        {
+          "letter": "D",
+          "text": "Ana vive en la calle porque no tiene casa donde dormir",
+          "is_correct": false,
+          "feedback": "Incorrecto. No tener vivienda viola el derecho a un lugar seguro: la familia y el Estado están obligados a cuidar a ese niño."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los derechos de los niños están escritos en un documento llamado Declaración de los Derechos del Niño. Entre ellos están el derecho a la familia, a la educación, a la salud, a la vivienda y a un lugar seguro. Ninguno de esos derechos depende de lo que el niño quiera, porque están pensados para protegerlo aunque no pueda defenderse solo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-4-2026-W04-los-derechos-de-los-ninos-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-4-2026-W04-los-derechos-de-los-ninos-001-MASTERY-bundle-v2",
+      "statement": "¿Por qué un país tiene leyes y normas que todos deben cumplir?",
+      "context": "En el barrio Kennedy de Bogotá hay una librería gratuita, una escuela y un parque abiertos para todos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque organizan la vida de todos y protegen los derechos de las personas",
+          "is_correct": true,
+          "feedback": "Correcto. Las leyes sirven para ordenar la convivencia y para proteger los derechos de todos, no solo de algunos."
+        },
+        {
+          "letter": "B",
+          "text": "Porque las leyes sirven para castigar siempre a la gente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Castigar es solo una parte: lo principal de la ley es proteger, porque sin reglas claras nadie tiene garantizado su derecho."
+        },
+        {
+          "letter": "C",
+          "text": "Porque las leyes sirven para que cada persona haga lo que quiera",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ley no deja hacer cualquier cosa: pone límites justos, y esos límites son los que permiten que los derechos de todos se respeten."
+        },
+        {
+          "letter": "D",
+          "text": "Porque las leyes solo son para que las cumplan los adultos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las leyes alcanzan a todos por igual, y los niños también tienen responsabilidades que cumplir junto con sus derechos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En Colombia las normas están escritas en la Constitución y en las leyes. Ellas ordenan cómo se vive en sociedad y, sobre todo, protegen los derechos de cada persona. Nadie está por encima de la ley: los adultos igual que los niños deben respetar las normas, y por eso en las escuelas se enseña a conocerlas desde temprano.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-4-2026-W04-los-derechos-de-los-ninos-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-4-2026-W04-los-derechos-de-los-ninos-001-MASTERY-bundle-v3",
+      "statement": "Si un castigo parece muy duro, ¿qué pueden hacer esos estudiantes?",
+      "context": "En un colegio de Pereira, a dos estudiantes de cuarto grado se les quitó el recreo como castigo para todo el mes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pedir que se revise el castigo hablando con la directora, porque también existe un reglamento",
+          "is_correct": true,
+          "feedback": "Correcto. Cuando una norma parece injusta lo correcto es pedir que se revise por la vía institucional, porque el reglamento también tiene límites."
+        },
+        {
+          "letter": "B",
+          "text": "Quedarse callados, porque los adultos siempre tienen la razón",
+          "is_correct": false,
+          "feedback": "Incorrecto. Callarse equivale a aceptar que todo está bien, pero los estudiantes también pueden pedir una revisión y tienen derecho a ser escuchados."
+        },
+        {
+          "letter": "C",
+          "text": "Dejar de ir al colegio durante unos días",
+          "is_correct": false,
+          "feedback": "Incorrecto. No ir al colegio rompe el derecho a la educación, que es justamente lo que un niño debe proteger cuando reclama algo justo."
+        },
+        {
+          "letter": "D",
+          "text": "Contárselo a sus compañeros para que todos hagan lo mismo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Copiar el castigo solo agranda el problema y daña el derecho de los demás: lo correcto es pedir la revisión por la vía correcta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Exigir que se respeten los derechos de los niños no significa dejar de acatar las normas, significa pedir que las normas se apliquen como deben. Un castigo muy largo puede contradecir el reglamento del colegio, y por eso existe la posibilidad de pedir una revisión hablando con quien dirige. Pedir las cosas por la vía correcta enseña a los niños a defender sus derechos mejor que nadie.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-4-2026-W04-los-derechos-de-los-ninos-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-4-2026-W04-los-derechos-de-los-ninos-001-MASTERY-bundle-v4",
+      "statement": "¿Qué derecho de los niños se está viendo afectado en las casas donde no llega agua limpia?",
+      "context": "En el barrio La Esmeralda de Cartagena hay casas donde llega el agua potable y otras donde el agua llega unas pocas horas al día.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El derecho a tener un lugar sano donde vivir, con servicios básicos como el agua",
+          "is_correct": true,
+          "feedback": "Correcto. Tener agua limpia es parte del derecho a la salud y a una vivienda digna, y ese derecho le corresponde a los niños de esas casas."
+        },
+        {
+          "letter": "B",
+          "text": "El derecho a cambiar de ciudad cuando uno quiera",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mudarse de ciudad no es un derecho: lo que está en riesgo aquí es la salud y la calidad de vida en el lugar donde ya viven."
+        },
+        {
+          "letter": "C",
+          "text": "El derecho a no pagar ningún servicio",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguna norma quita la obligación de pagar: el problema es que el servicio no llega, y eso debe resolverse, no esquivarse."
+        },
+        {
+          "letter": "D",
+          "text": "El derecho a recibir dos casas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Recibir dos casas no aparece entre los derechos del niño: lo que está en riesgo aquí es un derecho que ya existe, el de vivir bien."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Entre los derechos de los niños está el de crecer en un lugar sano, y eso incluye poder contar con servicios básicos como el agua potable y el saneamiento. Cuando una comunidad no tiene esos servicios, la salud de los niños corre riesgo porque pueden enfermar con agua contaminada. Las familias y el municipio pueden pedir que se presten esos servicios, porque el derecho a la salud no depende del dinero que tenga cada casa.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-4-2026-W04-los-derechos-de-los-ninos-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-4-2026-W04-los-derechos-de-los-ninos-001-MASTERY-bundle-v5",
+      "statement": "¿Qué muestra mejor por qué todos esos niños necesitan que sus derechos sean respetados por igual?",
+      "context": "En una institución de Cartagena hay veinte niños: unos viven con sus dos padres, otros con una sola madre, otros con su abuela y otros en un hogar de paso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que todos los niños valen igual, sin importar con quién viven ni cuánto dinero tiene su familia",
+          "is_correct": true,
+          "feedback": "Correcto. Los derechos son iguales para todos los niños del mundo, y reconocer eso es justamente lo que evita que unos queden desfavorecidos."
+        },
+        {
+          "letter": "B",
+          "text": "Que los niños que viven con menos personas necesitan más derechos que los demás",
+          "is_correct": false,
+          "feedback": "Incorrecto. El número de personas que viven en la casa no cambia los derechos: todos los niños tienen los mismos, y por eso el trato debe ser igual."
+        },
+        {
+          "letter": "C",
+          "text": "Que los niños de los municipios pequeños son menos importantes que los de las ciudades",
+          "is_correct": false,
+          "feedback": "Incorrecto. El lugar de nacimiento no le quita derechos a nadie: todos los niños son iguales ante la ley, en la ciudad y en el campo."
+        },
+        {
+          "letter": "D",
+          "text": "Que solo los niños que estudian en colegios privados tienen derechos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tener derechos no depende del colegio: un niño que estudia en una escuela pública tiene exactamente los mismos que uno de colegio privado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los derechos de los niños se escribieron pensando en todos los niños del mundo, sin importar su origen ni su situación. Por eso el documento es igual para un niño que vive con sus padres y para uno que vive con su abuela. Reconocer esa igualdad es lo que evita la desigualdad, porque nadie puede decir que un niño vale menos que otro.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-4-2026-W04-los-derechos-de-los-ninos-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-4-2026-W04-los-derechos-de-los-ninos-001-MASTERY-bundle-v6",
+      "statement": "¿Por qué esa situación preocupa tanto a los adultos del barrio?",
+      "context": "En el barrio San Javier de Medellín, un niño de siete años se queda solo en la casa desde la una de la tarde hasta que su mamá llega a las seis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque un niño pequeño no tiene cómo protegerse de un accidente y su seguridad es lo más importante",
+          "is_correct": true,
+          "feedback": "Correcto. Un niño de siete años no puede cuidar solo su seguridad ante un accidente, por eso dejarlo sin adulto en la casa es un riesgo grave."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el niño se aburre mucho en la casa sin compañía",
+          "is_correct": false,
+          "feedback": "Incorrecto. El aburrimiento es un motivo pequeño: lo grave es el riesgo de un accidente o de que algo le pase sin que nadie lo sepa."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el niño debería estar jugando en la calle todo el día",
+          "is_correct": false,
+          "feedback": "Incorrecto. Jugar en la calle no es obligatorio para un niño pequeño: lo que se necesita es un adulto que vigile, no más tiempo sin supervisión."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la casa queda silenciosa sin un niño en ella",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ruido de la casa no es el problema: lo grave es que el niño está sin protección en un lugar donde no puede defenderse."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El derecho de los niños incluye su protección física, y eso significa que los adultos responsables deben cuidarlos cuando son muy pequeños. Un niño de siete años no sabe cruzar una calle con peligro ni reaccionar ante un incendio, así que necesita a un adulto cerca. Cuando esa protección falta, lo adecuado es avisar a alguien que pueda hacerse cargo y no dejar al niño solo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reflexión ética y política",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-4-2026-W04-los-derechos-de-los-ninos-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-4-2026-W04-los-derechos-de-los-ninos-001-MASTERY-bundle-v7",
+      "statement": "¿Qué respuesta respeta el derecho a la salud sin usar la fuerza ni asustarlo más?",
+      "context": "En Bucaramanga, un niño de nueve años no quiere ir al consultorio porque le inyectan y le da miedo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Conversar con él, explicarle por qué es necesario y escuchar cómo se siente",
+          "is_correct": true,
+          "feedback": "Correcto. Explicar y escuchar respeta el derecho del niño, porque la salud se cuida con información y con respeto, no con órdenes."
+        },
+        {
+          "letter": "B",
+          "text": "Meterlo a la fuerza a la consulta y ya",
+          "is_correct": false,
+          "feedback": "Incorrecto. Empujar a un niño contra su voluntad daña la confianza, y aparte así no se respeta su opinión como persona."
+        },
+        {
+          "letter": "C",
+          "text": "Dejarlo en la casa, porque la decisión es solo suya",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dejarlo sin atender no respeta el derecho a la salud: la salud de un menor es responsabilidad de sus padres y del Estado."
+        },
+        {
+          "letter": "D",
+          "text": "Amenazarlo con castigarlo si no coopera",
+          "is_correct": false,
+          "feedback": "Incorrecto. Amenazar es usar el miedo: eso daña la relación de confianza y convierte la consulta en un castigo en lugar de un cuidado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El derecho a la salud de los niños se respeta con una atención médica adecuada, y también con el respeto por lo que el niño siente. Un niño pequeño tiene miedo, y eso es normal, así que lo correcto es explicarle con palabras sencillas por qué la consulta sirve. Cuando se usa la fuerza o la amenaza, la salud no se cuida mejor: lo que se pierde es la confianza.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.6,
+      "bundle_id": "CO-SOC-4-2026-W04-los-derechos-de-los-ninos-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-4-2026-W04-los-derechos-de-los-ninos-001-MASTERY-bundle-v8",
+      "statement": "¿Qué sería un uso adecuado del derecho a participar?",
+      "context": "En una escuela de Cúcuta, los estudiantes de cuarto grado quieren cambiar una norma del recreo que consideran injusta, porque solo pueden jugar dos días a la semana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reunirse, explicar lo que piden con respeto y llevar la propuesta a quien decide",
+          "is_correct": true,
+          "feedback": "Correcto. Participar es expresar una opinión y llevarla por las vías correctas, y eso se hace mejor con respeto y sin dañar a nadie."
+        },
+        {
+          "letter": "B",
+          "text": "Romper las sillas del patio para que los adultos los escuchen",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dañar el patio daña a todos los estudiantes y quita la razón de la petición: el diálogo no necesita violencia para ser efficace."
+        },
+        {
+          "letter": "C",
+          "text": "No ir a clases hasta que acepten lo que piden",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dejar de ir a clases rompe el derecho a la educación, que es otro derecho de ellos mismos, y no cambia la norma que quieren cambiar."
+        },
+        {
+          "letter": "D",
+          "text": "Dejar que cualquier persona decida cuál es la norma nueva",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que cualquiera decida no es participar: es dejar el asunto en manos de cualquiera y perder el acuerdo del grupo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los niños también son ciudadanos y por eso pueden expresar lo que piensan de las normas que los afectan. Eso se hace con respeto: reuniéndose, escuchando las razones del otro y llevando la propuesta por los canales que existen. Un cambio de norma se consigue cuando hay argumentos, no cuando hay daños o ausencias.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.6,
+      "bundle_id": "CO-SOC-4-2026-W04-los-derechos-de-los-ninos-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 4,
+      "country": "co"
+    }
+  ]
+}
