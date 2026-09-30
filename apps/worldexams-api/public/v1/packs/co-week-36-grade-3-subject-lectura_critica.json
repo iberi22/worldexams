@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-36-grade-3-subject-lectura_critica",
+    "generated_at": "2026-09-30T00:53:23.876Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-3-2026-W36-los-textos-instructivos-y-como-funcionan-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es el propósito principal de un texto instructivo como el cartel de la abuela de Sofía?",
+      "context": "Para preparar arepas de choclo en Cartagena, la abuela de Sofía escribió unos pasos en un cartel pegado en la cocina de la casa: \"mezcla la harina con el agua, amasa, divide en bolas y lleva al fogón\". Sofía siguió el cartel completo y consiguió unas arepas doradas para el desayuno.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Indicar los pasos que deben seguirse para realizar una tarea o preparar un producto.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El texto instructivo existe justamente para guiar al lector en la ejecución de una acción."
+        },
+        {
+          "letter": "B",
+          "text": "Contar una historia sobre los viajes de la familia por Cartagena.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Narrar acontecimientos es propio de un texto narrativo, no de uno instructivo."
+        },
+        {
+          "letter": "C",
+          "text": "Describir cómo son el mar y la arena de la playa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La descripción de un paisaje pertenece a un texto descriptivo y no indica acciones."
+        },
+        {
+          "letter": "D",
+          "text": "Explicar por qué las arepas se doran cuando están cerca del fuego.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Explicar un fenómeno es un texto explicativo; el cartel indica qué hacer, paso a paso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El texto instructivo es un texto prescriptivo: su finalidad es comunicar, en un orden determinado, las acciones que el lector debe realizar para obtener un resultado concreto, como preparar un alimento, armar un juguete o sembrar una semilla.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Semántico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-3-2026-W36-los-textos-instructivos-y-como-funcionan-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W36-los-textos-instructivos-y-como-funcionan-001-MASTERY-bundle-v2",
+      "statement": "¿Qué función cumplen las expresiones \"primero\", \"luego\", \"después\" y \"finalmente\" dentro de un texto instructivo?",
+      "context": "En Bogotá, una receta de empanadas empieza así: \"Primero amasa la masa. Luego agrega el relleno de carne. Después dobla y sella cada empanada. Finalmente, fríe en aceite caliente\". La receta se entiende muy bien porque cada indicación aparece en el orden en que se debe hacer.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Indicar cuánto cuesta cada ingrediente en pesos colombianos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estas palabras no tienen relación con los precios; para eso se usa una lista de ingredientes."
+        },
+        {
+          "letter": "B",
+          "text": "Señalar el orden en que deben realizarse los pasos de la preparación.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Son conectores de secuencia y organizan la información haciendo posible seguir la preparación sin equivocarse."
+        },
+        {
+          "letter": "C",
+          "text": "Describir el aspecto y el color de las empanadas ya fritas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las expresiones aparecen antes de las acciones, no para describir el resultado."
+        },
+        {
+          "letter": "D",
+          "text": "Advertir que el aceite hirviendo puede producir quemaduras.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La advertencia es una parte aparte del texto instructivo y no usa estos conectores."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los conectores de secuencia (\"primero\", \"luego\", \"después\", \"finalmente\") articulan los pasos entre sí y hacen clara la progresión lógica del procedimiento. Reconocer su función ayuda al lector a no saltarse ningún paso y a mantener la secuencia mental de la tarea.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Textual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-3-2026-W36-los-textos-instructivos-y-como-funcionan-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W36-los-textos-instructivos-y-como-funcionan-001-MASTERY-bundle-v3",
+      "statement": "Según el reglamento, si en Medellín un jugador saca el balón con el pie y este sale por la línea lateral, ¿quién debe ejecutar el saque de banda?",
+      "context": "En las reglas del partido de fútbol de la escuela de Medellín se lee: \"Si el balón sale por la línea lateral, el juego se reinicia con un saque de banda. El equipo que puso la pelota fuera de juego pierde la posesión y el otro equipo ejecuta la jugada\". Julián quiere saber si su equipo puede sacar de banda después de un tiro suyo que salió por elcostado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El mismo equipo que puso el balón afuera, porque el saque de banda siempre lo hace quien perdió el balón.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La regla dice lo contrario: quien salió con la pelota pierde la posesión."
+        },
+        {
+          "letter": "B",
+          "text": "El árbitro, porque toda restarted jugada la ejecuta el árbitro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El árbitro supervisa y sanciona, pero el saque de banda lo ejecuta un jugador."
+        },
+        {
+          "letter": "C",
+          "text": "El equipo contrario, porque el equipo que puso la pelota fuera de juego pierde la posesión.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La regla es clara: perder la posesión significa que el rival realiza la siguiente jugada."
+        },
+        {
+          "letter": "D",
+          "text": "El mismo equipo, pero con un tiro de esquina en lugar de saque de banda.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tiro de esquina corresponde a cuando el balón sale por la línea de fondo, no por la lateral."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Comprender un texto instructivo aplicado a una situación real implica conectar la regla escrita con el caso concreto. El lector debe identificar quién pierde la posesión, quién ejecuta la jugada y distinguir reglas semejantes pero de condiciones distintas.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-3-2026-W36-los-textos-instructivos-y-como-funcionan-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W36-los-textos-instructivos-y-como-funcionan-001-MASTERY-bundle-v4",
+      "statement": "De acuerdo con el texto instructivo, ¿cuál es la acción que Martín debe ejecutar primero?",
+      "context": "En el cartel del botiquín de la escuela de Bucaramanga dice: \"Si alguien tiene un corte pequeño: lava la zona con agua limpia, aplica un producto desinfectante, coloca una gasa y presiona suavemente. Avisa a un adulto si el corte es profundo\". Martín se cortó un dedo levemente con el borde de una lata mientras sacaba la basura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Avisarle a un adulto de lo ocurrido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Avisar al adulto se hace solo si el corte es profundo, y la herida de Martín es pequeña."
+        },
+        {
+          "letter": "B",
+          "text": "Colocar una gasa sobre el dedo lastimado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La gasa viene después del lavado y del producto desinfectante."
+        },
+        {
+          "letter": "C",
+          "text": "Presionar suavemente la herida con los dedos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es la última acción indicada, no la primera."
+        },
+        {
+          "letter": "D",
+          "text": "Lavar la zona de la herida con agua limpia.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La indicación aparece en primer lugar dentro de la lista de acciones del botiquín."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Un texto instructivo ordena las acciones, y aplicar sus indicaciones significa respetar ese orden porque cada paso prepara el siguiente. Saltarse un paso, como lavar la herida antes de desinfectarla, puede hacer que la instrucción no cumpla su propósito.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-3-2026-W36-los-textos-instructivos-y-como-funcionan-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W36-los-textos-instructivos-y-como-funcionan-001-MASTERY-bundle-v5",
+      "statement": "¿Por qué es importante que este texto instructivo organice la información en partes separadas en vez de escribir todas las indicaciones en un solo párrafo?",
+      "context": "Un folleto para cultivar tomates en la huerta escolar de Bogotá está organizado así: un título (\"Cultivo de tomate en casa\"), una lista de materiales (semillas, tierra, macetas y agua), tres pasos numerados y, al final, una advertencia: \"No riegues en exceso, porque el tomate se pudre\". Los niños de primero siguen el folleto y sus plantas crecen bien.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque separar título, materiales, pasos y advertencia permite que el lector localice rápidamente lo que necesita en cada momento.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La organización en partes asigna una función a cada sección y facilita la consulta de la información."
+        },
+        {
+          "letter": "B",
+          "text": "Porque de esa forma el texto ocupa mucho menos espacio en la hoja.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La división en partes no tiene como objetivo reducir la extensión, sino clarificar la información."
+        },
+        {
+          "letter": "C",
+          "text": "Porque las advertencias solamente pueden escribirse al final de cualquier escrito.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una característica de este folleto concreto, no una regla general de los textos instructivos."
+        },
+        {
+          "letter": "D",
+          "text": "Porque un texto separado en partes ya no necesita ejemplos ni imágenes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La organización en secciones no elimina los ejemplos; al contrario, suele acompañarse de imágenes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La organización discursiva de un texto instructivo responde a funciones distintas: el título anuncia el tema, la lista de materiales informa lo necesario, los pasos ordenan la acción y las advertencias previenen riesgos. Analizar esta estructura ayuda a leer textos de este tipo con autonomía.\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-3-2026-W36-los-textos-instructivos-y-como-funcionan-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W36-los-textos-instructivos-y-como-funcionan-001-MASTERY-bundle-v6",
+      "statement": "¿Qué cambio de significado produce en el texto que la mamá de Julieth sustituya \"Corta\" por \"Cortar\"?",
+      "context": "Un texto instructivo para preparar limonada en Pereira está escrito con verbos en imperativo: \"Corta dos limones, exprímelos en la jarra, agrega cuatro tazas de agua y sirve en vasos con hielo\". Cuando la mamá de Julieth cambió \"Corta\" por \"Cortar\", el paso dejó de entenderse y ella volvió a escribir el verbo como estaba.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El paso pasa a informar que la acción ya se realizó y quedó terminada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Cortar\" no indica tiempo verbal alguno; solo cambia el modo en que se presenta la acción."
+        },
+        {
+          "letter": "B",
+          "text": "El paso se vuelve más corto y por eso resulta más fácil de recordar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La longitud no es el cambio; lo relevante es la pérdida del carácter imperativo."
+        },
+        {
+          "letter": "C",
+          "text": "El paso deja de ordenar una acción que el lector debe hacer y pasa a nombrar la acción sin exigir su ejecución.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El infinitivo describe, mientras que el imperativo ordena; por eso la instrucción pierde su fuerza."
+        },
+        {
+          "letter": "D",
+          "text": "El paso altera el orden en que deben realizarse las demás acciones de la receta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El orden de la secuencia depende de los conectores y de la posición del paso, no de la forma verbal."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El modo verbal es clave en los textos instructivos: el imperativo dirige la acción al lector, mientras que el infinitivo la presenta como un simple dato. Reconocer esta diferencia gramatical explica por qué un texto con \"cortar dos limones\" no funciona como instrucción clara.\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-3-2026-W36-los-textos-instructivos-y-como-funcionan-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W36-los-textos-instructivos-y-como-funcionan-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál de las dos guías es más adecuada para sembrar una habichuela y por qué?",
+      "context": "La clase de cuarto grado de Bogotá recibió dos guías para sembrar habichuelas. La guía 1 dice: \"Pon la semilla. Riega diario. Espera\". La guía 2 dice: \"1. Cave un hoyo de cinco centímetros. 2. Pon la semilla con el punto hacia abajo. 3. Cúbrela con tierra y presiona suavemente. 4. Riega tres veces por semana hasta que brote\". Los estudiantes que usaron la guía 2 obtuvieron mejores resultados.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La guía 1, porque es más corta y de esa forma no confunde a los niños de cuarto grado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La brevedad no garantiza utilidad: las indicaciones son demasiado vagas para saber qué hacer."
+        },
+        {
+          "letter": "B",
+          "text": "La guía 2, porque presenta pasos numerados, verbos claros y una frecuencia exacta de riego.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Evaluar un texto instructivo implica juzgar su claridad, su orden y si la información permite ejecutar la tarea."
+        },
+        {
+          "letter": "C",
+          "text": "Las dos guías son igualmente adecuadas porque sembrar no necesita explicaciones precisas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sin datos sobre profundidad, orientación ni riego, el lector no puede repetir la tarea con éxito."
+        },
+        {
+          "letter": "D",
+          "text": "La guía 1, porque todas las semillas necesitan agua todos los días sin excepción.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa afirmación no aparece en ninguna de las guías y el exceso de agua puede dañar la planta."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar la eficacia de un texto instructivo significa juzgar si su contenido, su orden y su precisión permiten realmente llevar a cabo la tarea. Un texto bien escrito anticipa dudas comunes del lector y entrega datos verificables, no solo frases breves.\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-3-2026-W36-los-textos-instructivos-y-como-funcionan-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W36-los-textos-instructivos-y-como-funcionan-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál afirmación justifica mejor la diferencia entre los dos textos?",
+      "context": "En la biblioteca de Medellín hay dos textos sobre el mismo tema: un texto instructivo titulado \"Cómo se hace el ponqué de panela\" y un cuento infantil titulado \"El ponqué que nadie quiso probar\", en el que una niña arruina la receta porque un vecino le sopla ingredientes equivocados. Los dos textos están en el mismo estante de la sección infantil.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los dos textos sirven exactamente para lo mismo porque los dos mencionan el ponqué.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Compartir un tema no significa compartir género ni propósito comunicativo."
+        },
+        {
+          "letter": "B",
+          "text": "El texto instructivo es mejor que el cuento porque el ponqué es más sabroso que cualquier otra comida.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un juicio de sabor y no una comparación de intenciones comunicativas."
+        },
+        {
+          "letter": "C",
+          "text": "El cuento sirve para aprender a cocinar y el texto instructivo sirve para inventar aventuras.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Está al revés: el instructivo enseña el procedimiento y el cuento construye una ficción."
+        },
+        {
+          "letter": "D",
+          "text": "El texto instructivo indica pasos para obtener un resultado, mientras que el cuento narra acontecimientos, personajes y un final.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Comparar dos textos del mismo tema permite distinguir el género y el propósito de cada uno."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La comparación intertextual enseña que un mismo tema puede tratarse con propósitos y estructuras distintas según el género. Reconocer que un texto instructivo informa y ordena, mientras que un texto narrativo inventa y entretiene, fortalece la comprensión lectora de ambos formatos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-3-2026-W36-los-textos-instructivos-y-como-funcionan-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    }
+  ]
+}
