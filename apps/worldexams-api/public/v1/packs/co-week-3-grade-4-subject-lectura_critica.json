@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-3-grade-4-subject-lectura_critica",
+    "generated_at": "2026-09-30T06:51:33.495Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-4-2026-W03-el-texto-informativo-sencillo-001-MASTERY-bundle-v1",
+      "statement": "¿Para qué sirve principalmente un texto informativo sencillo?",
+      "context": "En la sala de cuarto grado de una escuela de Popayán, la profesora pega en la pared una cartelera sobre el agua y les pide que la lean con atención.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para explicar un tema y dar datos que podemos comprobar",
+          "is_correct": true,
+          "feedback": "Correcto. Un texto informativo explica un tema con datos claros, como el agua que usamos todos los días."
+        },
+        {
+          "letter": "B",
+          "text": "Para inventar una historia con personajes y animales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las historias con personajes son cuentos, y en un texto informativo nadie vive una aventura."
+        },
+        {
+          "letter": "C",
+          "text": "Para escribir un poema con rimas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los poemas usan versos y rimas, y el texto informativo se escribe para explicar datos."
+        },
+        {
+          "letter": "D",
+          "text": "Para contar un sueño o algo que no ocurrió",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto informativo habla de cosas reales y comprobables, no de sueños ni de mentiras."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un texto informativo explica un tema usando datos que se pueden comprobar. Por eso aparece en las carteleras, en los libros de texto y en las enciclopedias. En cambio, los cuentos y los poemas sirven para imaginar y para sentir. Saber distinguir un texto informativo de un cuento es el primer paso para leerlo bien.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-4-2026-W03-el-texto-informativo-sencillo-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W03-el-texto-informativo-sencillo-001-MASTERY-bundle-v2",
+      "statement": "Lee el texto informativo y responde:\n\n*Las mariposas son insectos que tienen cuatro alas cubiertas de escamas diminutas. Hay especies que viajan miles de kilómetros cada año. Durante el viaje se detienen a descansar en las flores y a comer néctar. Sus alas cambian de color cuando se secan al sol.*\n\n¿Qué significa la palabra \"néctar\" en este texto?",
+      "context": "En una casa de Florencia, Caquetá, una niña de cuarto grado lee un texto sobre las mariposas y le pregunta a su madre qué quiere decir una palabra difícil.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las alas diminutas de la mariposa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las alas son las que tienen escamas, pero el néctar es lo que comen cuando paran en una flor."
+        },
+        {
+          "letter": "B",
+          "text": "El líquido dulce que las mariposas comen de las flores",
+          "is_correct": true,
+          "feedback": "Correcto. El texto dice que las mariposas comen néctar de las flores, y ese néctar es un líquido dulce."
+        },
+        {
+          "letter": "C",
+          "text": "La distancia que viaja la mariposa cada año",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa distancia se explica con la palabra viajar, y no tiene que ver con lo que comen."
+        },
+        {
+          "letter": "D",
+          "text": "El sol que seca las alas de la mariposa",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sol aparece al final del texto, pero el néctar tiene que ver con la comida."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los textos informativos usan palabras técnicas que hay que entender para seguir leyendo. Para descubrir el significado, buscamos la frase donde aparece la palabra. Aquí el texto dice que las mariposas comen néctar cuando paran en las flores, y por eso sabemos de qué se trata. Comprender estas palabras nos abre la puerta a temas nuevos como los insectos o las plantas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-4-2026-W03-el-texto-informativo-sencillo-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W03-el-texto-informativo-sencillo-001-MASTERY-bundle-v3",
+      "statement": "En un texto informativo, ¿para qué sirve el subtítulo que aparece debajo del título principal?",
+      "context": "En un colegio de Valledupar, la profesora de cuarto grado explica cómo se organiza un texto informativo antes de leer uno sobre el café.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para esconder el tema principal del texto",
+          "is_correct": false,
+          "feedback": "Incorrecto. El subtítulo no esconde nada, al contrario, ayuda a que el lector sepa qué va a leer."
+        },
+        {
+          "letter": "B",
+          "text": "Para cambiar el nombre del autor del texto",
+          "is_correct": false,
+          "feedback": "Incorrecto. El autor se presenta aparte, y el subtítulo no reemplaza esa información."
+        },
+        {
+          "letter": "C",
+          "text": "Para explicar mejor de qué trata el texto y preparar al lector",
+          "is_correct": true,
+          "feedback": "Correcto. El subtítulo aclara de qué se trata el texto y por eso va colocado debajo del título."
+        },
+        {
+          "letter": "D",
+          "text": "Para contar cuántas páginas tiene el texto",
+          "is_correct": false,
+          "feedback": "Incorrecto. El número de páginas no se escribe en el subtítulo, sino al final del texto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El título dice el tema general y el subtítulo lo precisa o lo divide en partes. Leer el subtítulo antes de empezar nos ayuda a saber qué vamos a encontrar. En un texto informativo largo hay varios subtítulos, uno por cada parte del tema. Esta forma de organizar la información facilita mucho la lectura y el estudio.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-4-2026-W03-el-texto-informativo-sencillo-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W03-el-texto-informativo-sencillo-001-MASTERY-bundle-v4",
+      "statement": "Un compañero te pregunta: ¿cuánto pesa un panela de queso? ¿Qué parte del texto debes buscar primero?",
+      "context": "En una escuela de Sincelejo, la profesora da a sus estudiantes de cuarto grado una tarea: buscar en un texto informativo el dato que responde a una pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La descripción del sabor del queso",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sabor es información interesante, pero no responde a una pregunta que pide un peso exacto."
+        },
+        {
+          "letter": "B",
+          "text": "El nombre del pueblo donde hacen el queso",
+          "is_correct": false,
+          "feedback": "Incorrecto. El lugar puede ser importante, pero no sirve para saber cuánto pesa un panela."
+        },
+        {
+          "letter": "C",
+          "text": "La opinión de la persona que escribió el texto",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las opiniones no se pueden comprobar, y la pregunta pide un dato exacto que se puede medir."
+        },
+        {
+          "letter": "D",
+          "text": "El dato numérico que habla del peso",
+          "is_correct": true,
+          "feedback": "Correcto. Como la pregunta pide un peso, debes buscar el dato numérico, porque ahí es donde está la medida."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Antes de leer, es muy útil saber qué información estamos buscando. Si la pregunta pide una medida, buscamos un dato con números. Si pide una descripción, buscamos una frase que explique cómo es algo. Esta estrategia se llama lectura con propósito y nos ahorra mucho tiempo. En clase la usamos siempre con los textos informativos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-4-2026-W03-el-texto-informativo-sencillo-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W03-el-texto-informativo-sencillo-001-MASTERY-bundle-v5",
+      "statement": "Une cada pregunta con la respuesta del texto informativo sobre las llamas:\n\n*Pregunta 1: ¿De qué se alimentan las llamas?*\n*Pregunta 2: ¿Cuánto tiempo pueden caminar sin agua?*\n*Pregunta 3: ¿Dónde viven cuando están salvajes?*\n*Pregunta 4: ¿Para qué se usa la lana?*\n\n*A) Se usa para hacer ropa y mantas.*\n*B) Comen pastos secos y hojas de arbustos.*\n*C) Viven en las altas montañas de los Andes.*\n*D) Pueden caminar varios días sin tomar agua.*\n\n¿Cuál de estas uniones es la correcta?",
+      "context": "En el salón de cuarto grado de una escuela de Quibdó, hay una caja con tarjetas y la profesora pide emparejarlas con la respuesta correcta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pregunta 1 con B, Pregunta 2 con D, Pregunta 3 con C y Pregunta 4 con A",
+          "is_correct": true,
+          "feedback": "Correcto. Cada respuesta da el dato que su pregunta pide: qué comen, cuánto aguantan, dónde viven y para qué sirve la lana."
+        },
+        {
+          "letter": "B",
+          "text": "Pregunta 1 con A, Pregunta 2 con B, Pregunta 3 con D y Pregunta 4 con C",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aquí se mezclan las respuestas, porque la lana no es lo que las llamas comen."
+        },
+        {
+          "letter": "C",
+          "text": "Pregunta 1 con C, Pregunta 2 con A, Pregunta 3 con B y Pregunta 4 con D",
+          "is_correct": false,
+          "feedback": "Incorrecto. El lugar donde viven no es lo que comen, así que esa unión no responde a la pregunta."
+        },
+        {
+          "letter": "D",
+          "text": "Pregunta 1 con D, Pregunta 2 con C, Pregunta 3 con A y Pregunta 4 con B",
+          "is_correct": false,
+          "feedback": "Incorrecto. El dato de caminar sin agua no dice qué comen las llamas, y las uniones quedan cruzadas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Emparejar preguntas con respuestas es una forma muy buena de comprobar si entendimos un texto. Para hacerlo bien, primero leemos la pregunta completa y vemos qué tipo de dato pide. Después buscamos la respuesta que habla de lo mismo. Este ejercicio enseña a leer con atención y a verificar si realmente entendimos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-4-2026-W03-el-texto-informativo-sencillo-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W03-el-texto-informativo-sencillo-001-MASTERY-bundle-v6",
+      "statement": "Lee las dos oraciones y decide cuál es un dato y cuál es una opinión:\n\n*Oración 1: La Sagrada Familia de Barcelona tiene ocho torres y fue terminada en el año mil ochocientos ochenta y dos.*\n*Oración 2: La Sagrada Familia de Barcelona es la iglesia más hermosa del mundo.*\n\n¿Qué oración es un dato que se puede comprobar y cuál es una opinión?",
+      "context": "En una escuela de Pereira, la profesora escribe dos oraciones en el tablero y pide a los estudiantes de cuarto grado que las clasifiquen.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La oración 1 es una opinión y la oración 2 es un dato",
+          "is_correct": false,
+          "feedback": "Incorrecto. Está al revés, porque las torres y el año se pueden contar, y la belleza se opina."
+        },
+        {
+          "letter": "B",
+          "text": "La oración 1 es un dato y la oración 2 es una opinión",
+          "is_correct": true,
+          "feedback": "Correcto. La primera se puede medir y verificar, mientras que la segunda expresa lo que alguien siente y valora."
+        },
+        {
+          "letter": "C",
+          "text": "Las dos oraciones son datos",
+          "is_correct": false,
+          "feedback": "Incorrecto. La segunda usa la palabra hermosa, que es un juicio personal y por eso es una opinión."
+        },
+        {
+          "letter": "D",
+          "text": "Las dos oraciones son opiniones",
+          "is_correct": false,
+          "feedback": "Incorrecto. La primera tiene números que se pueden contar, así que es un dato y no una opinión."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un dato es una información que se puede comprobar, contar o medir. Una opinión es lo que alguien piensa, siente o valora como más o menos bonito. En los textos informativos es muy común que las dos cosas aparezcan juntas. Cuando sepamos separarlas, podremos usar los datos y no nos confundiremos con los adjetivos que expresan gustos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-4-2026-W03-el-texto-informativo-sencillo-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W03-el-texto-informativo-sencillo-001-MASTERY-bundle-v7",
+      "statement": "Dos textos hablan del río Meta. El primero fue escrito por un grupo de estudiantes de cuarto grado y solo tiene tres frases. El segundo tiene varios subtítulos, un mapa y una tabla con el largo del río y el nombre de sus municipios.\n\n¿Cuál de los dos textos es más útil para hacer un trabajo sobre el río Meta?",
+      "context": "En un colegio de Yopal, los estudiantes de cuarto grado buscan información sobre el río Meta y encuentran dos textos distintos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El primero, porque las frases cortas son más fáciles de entender",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las frases cortas ayudan a leer, pero con solo tres frases no alcanza para un trabajo completo."
+        },
+        {
+          "letter": "B",
+          "text": "Los dos textos sirven igual porque los dos hablan del río",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que los dos hablen del río no significa que los dos ofrezcan la misma cantidad de información."
+        },
+        {
+          "letter": "C",
+          "text": "El segundo, porque organiza mejor la información y ofrece datos que se pueden comprobar",
+          "is_correct": true,
+          "feedback": "Correcto. Con subtítulos, mapa y tabla, el segundo texto ordena la información y permite usarla en un trabajo."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguno de los dos sirve porque son textos de estudiantes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que el texto lo escriban estudiantes no lo vuelve inútil, y el segundo sí trae datos comprobables."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un buen texto informativo organiza la información para que el lector la encuentre con facilidad. Los subtítulos separan las partes, el mapa ubica los lugares y la tabla muestra los datos. Un texto muy corto puede quedar a medias y no permitir un trabajo completo. Por eso, al buscar fuentes, primero leemos cómo está organizado el texto.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-4-2026-W03-el-texto-informativo-sencillo-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W03-el-texto-informativo-sencillo-001-MASTERY-bundle-v8",
+      "statement": "Un equipo ya escribió casi todo un texto informativo sobre el cocodrilo. ¿Cuál de estas oraciones cerraría mejor el texto?",
+      "context": "En el aula de cuarto grado de una escuela de Riohacha, un equipo debe escribir el párrafo final de un texto informativo sobre el cocodrilo de la ciénaga.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A mí me parecen estos animales los más interesantes del mundo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta oración es una opinión personal y no aporta ningún dato al texto informativo."
+        },
+        {
+          "letter": "B",
+          "text": "Ahora les voy a hablar de los peces que viven en el río.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta oración abre un tema nuevo y no cierra el texto que estaba hablando del cocodrilo."
+        },
+        {
+          "letter": "C",
+          "text": "Los peces son más bonitos que los cocodrilos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta oración compara dos animales y no da ningún dato sobre el cocodrilo del texto."
+        },
+        {
+          "letter": "D",
+          "text": "Con estos datos sabemos que el cocodrilo es un animal que necesita agua dulce para vivir.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta oración resume un dato del texto y lo usa para cerrar con una idea que el lector puede comprobar."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El cierre de un texto informativo debe recoger un dato y dejar clara la idea principal. Por eso conviene usar conectores como con estos datos, porque le avisan al lector que viene un resumen. Una opinión personal o un tema nuevo no sirven para cerrar. Un buen final deja al lector con una idea comprobable sobre lo que leyó.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-4-2026-W03-el-texto-informativo-sencillo-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    }
+  ]
+}
