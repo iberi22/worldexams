@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-29-grade-9-subject-lengua",
+    "generated_at": "2026-09-30T04:41:41.888Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-9-2026-W29-la-citacion-el-referido-y-las-fuentes-001-MASTERY-bundle-v1",
+      "statement": "¿Qué recurso se utiliza en la frase \"Como escribió el historiador, el cambio fue lento\"?",
+      "context": "En una clase de noveno en Bogotá, la profesora explica los recursos para dar crédito a las ideas de otros autores.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El referido, porque se indica quién es el responsable de la afirmación.",
+          "is_correct": true,
+          "feedback": "Nombrar al autor y usar un verbo de reporte es la forma más básica de introducir el referido."
+        },
+        {
+          "letter": "B",
+          "text": "La cita directa, porque se reproduce textualmente la frase del autor.",
+          "is_correct": false,
+          "feedback": "Aquí no hay reproducción literal: el autor aparece nombrado, pero sus palabras no se copian."
+        },
+        {
+          "letter": "C",
+          "text": "La cita indirecta, porque se altera el sentido original de la frase.",
+          "is_correct": false,
+          "feedback": "En este caso no se altera ningún contenido; lo que hay es una atribución de responsabilidad."
+        },
+        {
+          "letter": "D",
+          "text": "La bibliografía, porque se incluye el año de publicación del texto.",
+          "is_correct": false,
+          "feedback": "No aparece ningún año ni referencia al final: es una mención dentro del discurso, no una lista de fuentes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El referido es el espacio del discurso que señala que lo que se dice proviene de otra persona. Puede tomar la forma de una cita directa entre comillas o de una cita indirecta con un verbo de reporte. Reconocer el referido permite separar la voz del autor del discurso propio, que es el primer requisito de una investigación honesta.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W29-la-citacion-el-referido-y-las-fuentes-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W29-la-citacion-el-referido-y-las-fuentes-001-MASTERY-bundle-v2",
+      "statement": "¿Qué problema tiene esa frase como cita de una fuente?",
+      "context": "En un trabajo de noveno, un estudiante escribe: \"Según el DANE, en 2020 el 40 por ciento de los hogares tenía acceso a internet\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que usa comillas cuando debería usar cursiva.",
+          "is_correct": false,
+          "feedback": "El problema central no es el signo empleado, sino que la frase resulta incomprensible para el lector."
+        },
+        {
+          "letter": "B",
+          "text": "Que la proposición está formulada de manera confusa, lo que impide saber qué se cita.",
+          "is_correct": true,
+          "feedback": "Una cita debe ser inteligible por sí sola; si no se entiende, el lector no puede saber qué información se toma de la fuente."
+        },
+        {
+          "letter": "C",
+          "text": "Que no incluye el nombre del autor de la fuente.",
+          "is_correct": false,
+          "feedback": "Falta efecto de claridad interna, no de autoría: la fuente sí está identificada en el enunciado."
+        },
+        {
+          "letter": "D",
+          "text": "Que el porcentaje está escrito en cifras y debería estar en letras.",
+          "is_correct": false,
+          "feedback": "El uso de cifras es aceptable y, en este contexto, más claro que las letras."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una cita bien construida puede leerse sin necesidad del texto original. Si las palabras están desordenadas, el lector no distingue qué información pertenece a la fuente y cuál al autor del trabajo. Revisar la sintaxis de la cita es, por tanto, parte esencial del cuidado con las fuentes.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semantico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W29-la-citacion-el-referido-y-las-fuentes-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W29-la-citacion-el-referido-y-las-fuentes-001-MASTERY-bundle-v3",
+      "statement": "¿Qué información sobre la fuente aporta el verbo que cierra esa frase?",
+      "context": "En un texto de noveno se lee una frase que termina con: \"Así, el problema central de la seguridad vial sigue sin resolverse\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Indica que la fuente es reciente.",
+          "is_correct": false,
+          "feedback": "El tiempo de publicación no lo indica el verbo, sino la referencia o los datos que aparecen al final."
+        },
+        {
+          "letter": "B",
+          "text": "Señala que la afirmación es una conclusión del texto citado, no una opinión del autor del trabajo.",
+          "is_correct": true,
+          "feedback": "El verbo de reporte permite saber que lo afirmado procede del texto citado y no del discurso propio."
+        },
+        {
+          "letter": "C",
+          "text": "Indica que la fuente fue consultada por el autor del trabajo.",
+          "is_correct": false,
+          "feedback": "Consultar una fuente no es lo que comunica el verbo: lo que comunica es quién asume la afirmación."
+        },
+        {
+          "letter": "D",
+          "text": "Señala que la afirmación está basada en datos de una sola ciudad.",
+          "is_correct": false,
+          "feedback": "El alcance geográfico de la fuente no se deduce del verbo de reporte."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los verbos de reporte cumplen la función de atribuir: permiten saber a quién pertenece lo que se afirma. Esa atribución es lo que convierte una declaración en una cita y lo que protege la honestidad del trabajo académico. Elegir el verbo adecuado también matiza la posición del autor frente a lo que cita.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W29-la-citacion-el-referido-y-las-fuentes-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W29-la-citacion-el-referido-y-las-fuentes-001-MASTERY-bundle-v4",
+      "statement": "¿Qué decisión debe tomar para incorporar esa idea de manera legítima?",
+      "context": "Un estudiante de noveno en Cali lee un artículo de opinión y quiere incluir una idea de ese artículo en su propio trabajo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Copiar la frase tal como aparece, porque las ideas no necesitan atribución.",
+          "is_correct": false,
+          "feedback": "Copiar sin comillas ni referencia se presenta como idea propia y constituye un plagio."
+        },
+        {
+          "letter": "B",
+          "text": "Escribir la idea con otras palabras y no mencionar la fuente, porque ya no es la frase original.",
+          "is_correct": false,
+          "feedback": "Cambiar las palabras no elimina la necesidad de reconocer que la idea es de otro autor."
+        },
+        {
+          "letter": "C",
+          "text": "Mencionar al autor solo si la fuente es Internet, porque allí el riesgo de plagio es mayor.",
+          "is_correct": false,
+          "feedback": "La necesidad de atribución no depende del medio: una idea tomada de un libro también requiere crédito."
+        },
+        {
+          "letter": "D",
+          "text": "Incluirla entre comillas o como cita indirecta y añadir la referencia completa de la fuente.",
+          "is_correct": true,
+          "feedback": "Esa es la forma correcta de tomar prestada una idea: reconociendo su origen y señalando dónde puede encontrarse."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Tomar prestada una idea ajena nunca significa apropiársela. La forma legítima depende de la fidelidad al original: si se reproduce literalmente, se entrecomilla; si se reformula, se declara la fuente. Reconocer este procedimiento permite trabajar con material de otros manteniendo la propia voz y reconociendo el mérito de quien escribió esas ideas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W29-la-citacion-el-referido-y-las-fuentes-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W29-la-citacion-el-referido-y-las-fuentes-001-MASTERY-bundle-v5",
+      "statement": "¿Qué procedimiento les permitirá distinguir las dos fuentes con rigor?",
+      "context": "Un equipo de noveno en Medellín compara un artículo de un periódico con un informe oficial sobre el mismo asunto educativo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Identificar quién produjo cada texto, con qué propósito y a partir de qué datos.",
+          "is_correct": true,
+          "feedback": "Estos tres elementos permiten entender el origen, los intereses y las bases de cada afirmación."
+        },
+        {
+          "letter": "B",
+          "text": "Consultar cuál de los dos textos fue escrito por un autor más conocido.",
+          "is_correct": false,
+          "feedback": "La fama del autor no garantiza que una fuente sea más confiable para el tema estudiado."
+        },
+        {
+          "letter": "C",
+          "text": "Revisar cuál de los dos textos tiene más páginas y, por tanto, más contenido.",
+          "is_correct": false,
+          "feedback": "La extensión no es indicio de autoridad: un texto corto puede aportar información muy pertinente."
+        },
+        {
+          "letter": "D",
+          "text": "Elegir el texto que la mayoría de los compañeros recomienda como mejor.",
+          "is_correct": false,
+          "feedback": "La opinión del grupo no es un procedimiento de análisis de fuentes, salvo que se fundamente en criterios verificables."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar una fuente exige preguntar quién la produce, con qué intención y sobre qué base se apoya. Solo con esos tres datos se puede entender por qué dos textos sobre el mismo tema pueden afirmar cosas distintas. Ese método es aplicable a noticias, informes, artículos y publicaciones académicas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Critico-Intertextual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W29-la-citacion-el-referido-y-las-fuentes-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W29-la-citacion-el-referido-y-las-fuentes-001-MASTERY-bundle-v6",
+      "statement": "¿Qué cambio debe hacer el estudiante para que la expresión sea precisa?",
+      "context": "Un estudiante de noveno escribe: \"el científico dijeron que el clima está cambiando\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Escribir \"el científico dijo que el clima cambiaba\" sin indicar la fecha del estudio.",
+          "is_correct": false,
+          "feedback": "Añadir una fecha no resuelve la vaguedad: el problema es la falta de precisión sobre lo que se afirma y quién lo afirma."
+        },
+        {
+          "letter": "B",
+          "text": "Escribir \"el científico dijo que el clima cambiaba\" manteniendo la cursiva en toda la frase.",
+          "is_correct": false,
+          "feedback": "Sustituir una palabra no corrige la expresión: sigue faltando claridad sobre el contenido citado."
+        },
+        {
+          "letter": "C",
+          "text": "Escribir \"según el científico, el clima está cambiando\", identificando al autor y precisando el contenido.",
+          "is_correct": true,
+          "feedback": "Nombrar al autor y precisar el contenido citado hace que la atribución sea clara y verificable."
+        },
+        {
+          "letter": "D",
+          "text": "Escribir la frase entre comillas sin mencionar al autor, porque las comillas bastan para señalar una cita.",
+          "is_correct": false,
+          "feedback": "Las comillas marcan la reproducción literal, pero no dicen de quién es el texto citado."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La precisión de una cita depende de dos datos: quién habla y qué dice exactamente. Expresiones vagas como \"dijo que el clima\" no permiten verificar nada y abren la puerta a la deformación del sentido. Escribir con claridad y con la referencia completa protege tanto al lector como a quien cita.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semantico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W29-la-citacion-el-referido-y-las-fuentes-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W29-la-citacion-el-referido-y-las-fuentes-001-MASTERY-bundle-v7",
+      "statement": "¿Qué juicio es el más proporcionado sobre ese trabajo?",
+      "context": "Un docente de noveno en Barranquilla revisa un trabajo en el que un estudiante coloca la misma frase de un libro con comillas, pero no escribe de qué libro se trata.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El trabajo es válido, porque las comillas ya identifican el material prestado.",
+          "is_correct": false,
+          "feedback": "Las comillas señalan el carácter ajeno de la frase, pero no dicen de dónde fue tomada."
+        },
+        {
+          "letter": "B",
+          "text": "El trabajo está incompleto, porque sin la referencia no se puede localizar la fuente ni verificarla.",
+          "is_correct": true,
+          "feedback": "Una cita sin referencia deja al lector sin manera de comprobar el origen de la información."
+        },
+        {
+          "letter": "C",
+          "text": "El trabajo es inválido, porque toda frase entre comillas debe ir en cursiva.",
+          "is_correct": false,
+          "feedback": "Comillas y cursiva son convenciones distintas, y el problema aquí no es de formato sino de referencia."
+        },
+        {
+          "letter": "D",
+          "text": "El trabajo es defectuoso, porque las comillas están prohibidas en trabajos académicos.",
+          "is_correct": false,
+          "feedback": "Las comillas son el recurso habitual para la cita directa y no están prohibidas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La comilla y la referencia cumplen funciones distintas: la primera marca el carácter textual de lo citado, la segunda permite localizar la fuente. Usar una sin la otra deja el trabajo incompleto, porque el lector no puede verificar nada. Esta distinción es una de las más importantes al momento de presentar fuentes en una investigación escolar.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W29-la-citacion-el-referido-y-las-fuentes-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W29-la-citacion-el-referido-y-las-fuentes-001-MASTERY-bundle-v8",
+      "statement": "¿Qué efecto tiene la expresión \"los expertos dicen\" sobre la fuerza del enunciado?",
+      "context": "Un periodista de Bogotá escribe: \"Los expertos dicen, sin duda, que la situación se agravará\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ninguno, porque mencionar a los expertos no cambia el contenido de la afirmación.",
+          "is_correct": false,
+          "feedback": "La mención de autoridades cambia la forma en que el lector recibe la afirmación, aunque el contenido no cambie."
+        },
+        {
+          "letter": "B",
+          "text": "Refuerza la afirmación y la vuelve verificable, porque identifica a los expertos.",
+          "is_correct": false,
+          "feedback": "La autoridad se menciona sin nombrarla, de modo que el lector no puede verificar quién dice eso."
+        },
+        {
+          "letter": "C",
+          "text": "Debilita la afirmación, porque los expertos nunca se equivocan.",
+          "is_correct": false,
+          "feedback": "Nombrar a los expertos no convierte la frase en una demostración verificable."
+        },
+        {
+          "letter": "D",
+          "text": "Aporta autoridad sin aportar evidencia, porque no permite saber quiénes son esos expertos.",
+          "is_correct": true,
+          "feedback": "Cuando la autoridad no se precisa, la frase funciona como un apoyo genérico y no como una demostración."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La autoridad invocada funciona como apoyo solo cuando el lector puede comprobarla. Expresiones como \"los expertos dicen\", sin especificar quiénes son ni con base en qué, funcionan como un argumento de autoridad vacío. Exigir precisión en la fuente es lo que convierte esa fórmula en un apoyo real.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W29-la-citacion-el-referido-y-las-fuentes-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W29-la-citacion-el-referido-y-las-fuentes-001-MASTERY-bundle-v9",
+      "statement": "¿Qué efecto tiene la presencia de la atribución en medio de la frase?",
+      "context": "En un texto de noveno, un autor escribe: \"El presidente de la República, según un estudio reciente, sostiene que la situación requiere atención urgente\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Separa la afirmación del autor de la valoración que procede del presidente.",
+          "is_correct": true,
+          "feedback": "Al intercalar el referido, el autor toma distancia de esa valoración y la presenta como voz ajena."
+        },
+        {
+          "letter": "B",
+          "text": "Ninguno, porque insertar una atribución no cambia el sentido de la afirmación.",
+          "is_correct": false,
+          "feedback": "La atribución sí cambia el sentido: indica que la valoración de urgencia pertenece a otro y no al autor."
+        },
+        {
+          "letter": "C",
+          "text": "Convierte toda la oración en una cita directa entre comillas.",
+          "is_correct": false,
+          "feedback": "No hay reproducción literal: se reproduce una idea, no un texto exacto."
+        },
+        {
+          "letter": "D",
+          "text": "Elimina la responsabilidad del autor sobre lo que afirma.",
+          "is_correct": false,
+          "feedback": "La atribución no exime al autor de su responsabilidad, solo señala de dónde proviene la valoración."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Ubicar el referido dentro de la oración permite regular la distancia entre el autor y lo que dice. Cuando la atribución se intercala, el autor deja claro que esa valoración no es suya y la presenta como posición de otro. Esa marca de distancia es fundamental en el análisis de textos que contienen opiniones atribuidas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semantico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W29-la-citacion-el-referido-y-las-fuentes-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W29-la-citacion-el-referido-y-las-fuentes-001-MASTERY-bundle-v10",
+      "statement": "¿Qué información sobre la fuente aporta esa frase, comparada con \"el autor demuestra que el punto es cierto\"?",
+      "context": "Un estudiante de noveno encuentra en un texto la expresión: \"el autor no llega a conclusiones definitivas sobre este punto\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el autor expresa una opinión personal sobre el punto tratado.",
+          "is_correct": false,
+          "feedback": "La diferencia no está en la opinión, sino en el grado de compromiso que la fuente asume."
+        },
+        {
+          "letter": "B",
+          "text": "Que la fuente deja el asunto abierto, mientras la otra fórmula presenta el punto como demostrado.",
+          "is_correct": true,
+          "feedback": "La primera evita comprometerse con una conclusión y la segunda afirma que la demostración está hecha."
+        },
+        {
+          "letter": "C",
+          "text": "Que la fuente tiene menos información que la otra.",
+          "is_correct": false,
+          "feedback": "El número de datos no es lo que distingue las dos formulaciones, sino el grado de certeza que expresan."
+        },
+        {
+          "letter": "D",
+          "text": "Que la fuente fue escrita por un autor sin autoridad en el tema.",
+          "is_correct": false,
+          "feedback": "Nada en la frase permite deducir la autoridad del autor; solo se conoce su grado de compromiso."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los verbos de reporte gradúan el compromiso del autor con lo que afirma. Decir que alguien \"llega a conclusiones\", \"sugiere\" o \"demuestra\" construye una jerarquía de certeza que el lector puede evaluar. Reconocer esa jerarquía ayuda a no presentar como definitivo lo que la fuente dejó abierto.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W29-la-citacion-el-referido-y-las-fuentes-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W29-la-citacion-el-referido-y-las-fuentes-001-MASTERY-bundle-v11",
+      "statement": "¿Qué evaluación es la más sólida de usar únicamente fuentes oficiales en ese proyecto?",
+      "context": "En un proyecto de noveno, un grupo debe presentar información sobre el acceso al agua en Colombia usando fuentes periodísticas y fuentes oficiales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es la mejor opción, porque las fuentes oficiales son las únicas que pueden considerarse serias.",
+          "is_correct": false,
+          "feedback": "Excluir la prensa y la academia empobrece el proyecto y contradice el criterio de evaluar varias voces."
+        },
+        {
+          "letter": "B",
+          "text": "Es la mejor opción, porque las estadísticas oficiales no pueden equivocarse.",
+          "is_correct": false,
+          "feedback": "Ninguna fuente es infalible: la oportunidad está en conocer su método y comparar resultados."
+        },
+        {
+          "letter": "C",
+          "text": "Es limitada, porque deja fuera otras voces que podrían confirmar o cuestionar los mismos datos.",
+          "is_correct": true,
+          "feedback": "Usar una sola familia de fuentes impide contrastar y debilita la solidez de las conclusiones del proyecto."
+        },
+        {
+          "letter": "D",
+          "text": "Es incorrecta, porque en trabajos escolares está prohibido usar documentos del gobierno.",
+          "is_correct": false,
+          "feedback": "No existe tal prohibición: los documentos oficiales son fuentes legítimas y muy útiles."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar una estrategia de búsqueda de fuentes exige considerar qué se gana y qué se pierde al restringir el universo de fuentes. Usar solo documentos oficiales aporta datos confiables, pero impide contrastarlos con otras perspectivas. La mejor práctica combina fuentes de distinta naturaleza y explica por qué se eligieron.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W29-la-citacion-el-referido-y-las-fuentes-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W29-la-citacion-el-referido-y-las-fuentes-001-MASTERY-bundle-v12",
+      "statement": "¿Qué evaluación resulta la más adecuada de esa afirmación?",
+      "context": "En una discusión de noveno se afirma: \"En un trabajo académico, siempre es mejor citar poco para no cargar con referencias largas\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es verdadera, porque la cantidad de citas no afecta la calidad de un trabajo.",
+          "is_correct": false,
+          "feedback": "La cantidad y la pertinencia de las citas sí afectan la calidad, porque muestran el trabajo previo."
+        },
+        {
+          "letter": "B",
+          "text": "Es verdadera, porque las referencias largas sobran cuando el texto se puede escribir en pocas líneas.",
+          "is_correct": false,
+          "feedback": "La brevedad del texto no elimina la necesidad de acreditar de dónde provienen las ideas."
+        },
+        {
+          "letter": "C",
+          "text": "Es falsa, pero solo porque el profesor siempre exige muchas referencias.",
+          "is_correct": false,
+          "feedback": "La corrección no depende del gusto del docente, sino del principio de reconocer la autoría del material usado."
+        },
+        {
+          "letter": "D",
+          "text": "Es falsa, porque citar poco suele significar usar material ajeno sin reconocer a quién es el autor.",
+          "is_correct": true,
+          "feedback": "Reducir las citas sin verificar la procedencia de las ideas es justamente lo que produce apropiación indebida."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La cantidad de citas no es un fin, pero tampoco conviene reducirlas sin criterio. Lo esencial es que toda idea ajena usada en el trabajo tenga su fuente identificada. Evaluar esta afirmación exige aplicar el principio de honestidad académica, que protege tanto al autor del trabajo como a los autores citados.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W29-la-citacion-el-referido-y-las-fuentes-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}

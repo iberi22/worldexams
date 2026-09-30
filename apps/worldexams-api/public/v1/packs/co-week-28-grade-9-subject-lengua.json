@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-28-grade-9-subject-lengua",
+    "generated_at": "2026-09-30T04:41:41.888Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-9-2026-W28-la-argumentacion-en-textos-academicos-001-MASTERY-bundle-v1",
+      "statement": "¿Qué elemento de un texto académico corresponde a la postura que el autor defiende?",
+      "context": "En una clase de noveno en Bogotá, la profesora explica la estructura básica de un texto académico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La tesis.",
+          "is_correct": true,
+          "feedback": "La tesis es la afirmación central que el autor propone y que el resto del texto intenta sostener."
+        },
+        {
+          "letter": "B",
+          "text": "El marco teórico.",
+          "is_correct": false,
+          "feedback": "El marco teórico presenta los antecedentes que se usan para sostener la tesis."
+        },
+        {
+          "letter": "C",
+          "text": "La bibliografía.",
+          "is_correct": false,
+          "feedback": "La bibliografía enumera las fuentes consultadas y no constituye una postura."
+        },
+        {
+          "letter": "D",
+          "text": "La metodología.",
+          "is_correct": false,
+          "feedback": "La metodología explica el procedimiento seguido y no expresa la posición del autor."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un texto académico se organiza alrededor de una tesis, es decir, de una afirmación que el autor se compromete a defender. Los demás elementos cumplen funciones de apoyo: antecedentes, metodología, evidencia y conclusión. Reconocer cuál es la postura propia y cuáles son los apoyos ayuda a detectar los casos en que un autor expresa una opinión personal y la presenta como si fuera una demostración.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Semantico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W28-la-argumentacion-en-textos-academicos-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W28-la-argumentacion-en-textos-academicos-001-MASTERY-bundle-v2",
+      "statement": "¿Qué observación muestra que la afirmación todavía no está argumentada?",
+      "context": "En un trabajo de noveno, un estudiante escribe: \"El robo en Bogotá ha aumentado en los últimos años\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la oración está escrita en un solo renglón.",
+          "is_correct": false,
+          "feedback": "La extensión del renglón no guarda relación con la calidad del razonamiento."
+        },
+        {
+          "letter": "B",
+          "text": "Que la afirmación no incluye razones ni datos que la respalden.",
+          "is_correct": true,
+          "feedback": "Una afirmación sostenida necesita razones y evidencia; sin ellas es una afirmación sin demostración."
+        },
+        {
+          "letter": "C",
+          "text": "Que la oración no comienza con un signo de puntuación.",
+          "is_correct": false,
+          "feedback": "La puntuación inicial no interviene en el carácter argumentativo de la afirmación."
+        },
+        {
+          "letter": "D",
+          "text": "Que la oración está escrita en modo indicativo.",
+          "is_correct": false,
+          "feedback": "El modo verbal no determina si un enunciado está o no acompañado de razones."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un texto académico no se limita a declarar hechos: los sustenta. La diferencia se nota en que la afirmación sin razones es una descripción, mientras que la afirmación con razones y evidencia es un argumento. Entrenar esta diferencia es lo que permite a un estudiante pasar de un resumen de ideas a un trabajo con pensamiento propio.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W28-la-argumentacion-en-textos-academicos-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W28-la-argumentacion-en-textos-academicos-001-MASTERY-bundle-v3",
+      "statement": "¿Qué función cumplen esas expresiones dentro de un texto académico?",
+      "context": "En un texto de noveno se lee: \"acerca de\" y \"por consiguiente\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Señalan relaciones entre ideas, como el objeto de que se trata y la consecuencia que se sigue.",
+          "is_correct": true,
+          "feedback": "Los conectores delatan la estructura lógica del texto: hacia dónde apunta el párrafo y qué se deduce de lo anterior."
+        },
+        {
+          "letter": "B",
+          "text": "Señalan la cantidad de fuentes consultadas por el autor.",
+          "is_correct": false,
+          "feedback": "Ninguna de las dos expresiones indica un número; su función es relacionar, no contar."
+        },
+        {
+          "letter": "C",
+          "text": "Señalan una opinión personal del autor sobre el tema tratado.",
+          "is_correct": false,
+          "feedback": "Expresar una opinión corresponde a la tesis; estos conectores solo articulan el discurso."
+        },
+        {
+          "letter": "D",
+          "text": "Señalan la extensión aproximada del texto o del párrafo.",
+          "is_correct": false,
+          "feedback": "La extensión no se anuncia con conectores, sino con el número de páginas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los conectores son las señales visibles de la arquitectura lógica del texto. Señalan si lo que sigue explica, ilustra, contradice o se deduce de lo anterior. Identificarlos permite reconstruir el razonamiento del autor y, al escribir, organizar el propio trabajo con una estructura visible para quien lo lea.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Textual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W28-la-argumentacion-en-textos-academicos-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W28-la-argumentacion-en-textos-academicos-001-MASTERY-bundle-v4",
+      "statement": "¿Qué evidencia le exigiría al texto para sostener esa tesis con rigor?",
+      "context": "Un estudiante de noveno en Cali quiere sostener que el transporte público de su ciudad necesita más rutas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una descripción de cómo se ven los buses en la ciudad.",
+          "is_correct": false,
+          "feedback": "La descripción no demuestra la necesidad de más rutas; solo muestra un rasgo del servicio."
+        },
+        {
+          "letter": "B",
+          "text": "Una anecdotal personal sobre un trayecto que el estudiante hizo una vez.",
+          "is_correct": false,
+          "feedback": "Un solo relato personal no permite generalizar sobre toda la ciudad, aunque parezca legítimo."
+        },
+        {
+          "letter": "C",
+          "text": "Una comparación entre dos empresas de transporte privado de la ciudad.",
+          "is_correct": false,
+          "feedback": "Comparar empresas privadas no mide la calidad del transporte público que la tesis defiende."
+        },
+        {
+          "letter": "D",
+          "text": "Datos sobre el tiempo de espera promedio de los pasajeros y el número de rutas disponible.",
+          "is_correct": true,
+          "feedback": "Estos indicadores son pertinentes porque miden el problema que la tesis quiere demostrar."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Elegir evidencia exige preguntar qué mediría cada dato y cómo se relaciona con la tesis. Si se defiende que faltan rutas, la evidencia útil describe la demanda, los tiempos o la cobertura del servicio. Ese criterio evita reunir información interesante pero que no demuestra lo que se afirma.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W28-la-argumentacion-en-textos-academicos-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W28-la-argumentacion-en-textos-academicos-001-MASTERY-bundle-v5",
+      "statement": "¿Con qué criterio el grupo puede distinguir cuál de los dos argumentos es más sólido?",
+      "context": "En un debate de noveno en Medellín, dos estudiantes sostienen posturas opuestas sobre el transporte público en Bogotá.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Por la cantidad de palabras que cada estudiante usó para defender su postura.",
+          "is_correct": false,
+          "feedback": "La extensión no garantiza solidez: un texto largo puede repetir ideas sin demostrarlas."
+        },
+        {
+          "letter": "B",
+          "text": "Por la vehemencia con la que cada uno sostiene su opinión.",
+          "is_correct": false,
+          "feedback": "La intensidad del tono no es un criterio de solidez argumentativa."
+        },
+        {
+          "letter": "C",
+          "text": "Por la fuerza de las razones y por la pertinencia de los datos que cada uno aporta.",
+          "is_correct": true,
+          "feedback": "La solidez se mide por la capacidad de sostener la afirmación con razones relevantes y verificables."
+        },
+        {
+          "letter": "D",
+          "text": "Por la posición que ocupa cada estudiante en el grupo.",
+          "is_correct": false,
+          "feedback": "La jerarquía dentro del grupo no determina la calidad de un argumento académico."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un argumento es más sólido cuando sus razones se relacionan directamente con la tesis y cuando sus datos son pertinentes y verificables. Estos criterios son independientes del tono, la extensión o la autoridad del hablante. Aplicarlos permite que la discusión se resuelva con el análisis y no con la fuerza de la voz.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W28-la-argumentacion-en-textos-academicos-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W28-la-argumentacion-en-textos-academicos-001-MASTERY-bundle-v6",
+      "statement": "¿Qué reformulación convertiría esa afirmación en un argumento defendible?",
+      "context": "En un trabajo de noveno, un estudiante escribe: \"El uso del celular en clase afecta el rendimiento de los estudiantes\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"El celular es malo para los jóvenes\".",
+          "is_correct": false,
+          "feedback": "Esa versión es una valorización general que no puede sostenerse con datos y abre la puerta a opiniones."
+        },
+        {
+          "letter": "B",
+          "text": "\"Los estudiantes que usan el celular durante las explicaciones rind menos en las pruebas de lectura que quienes no lo usan\".",
+          "is_correct": true,
+          "feedback": "Alograd parte de una comparación verificable, la afirmación se vuelve un argumento comprobable."
+        },
+        {
+          "letter": "C",
+          "text": "\"Nadie debería llevar celular al colegio\".",
+          "is_correct": false,
+          "feedback": "La formulación es normativa y absoluta, y no presenta la relación que se quiere demostrar."
+        },
+        {
+          "letter": "D",
+          "text": "\"En mi clase hay muchoscellulars encendidos\".",
+          "is_correct": false,
+          "feedback": "Un dato de un solo salón no sostiene una afirmación general sobre el rendimiento."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un argumento defendible delimita con precisión lo que afirma, a quién se refiere y bajo qué condiciones. Limitar el alcance evita las generalizaciones que un solo dato no puede respaldar. Esta disciplina de delimitación es una de las herramientas más útiles para evitar que un trabajo académico sea cuestionado con facilidad.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semantico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W28-la-argumentacion-en-textos-academicos-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W28-la-argumentacion-en-textos-academicos-001-MASTERY-bundle-v7",
+      "statement": "¿Qué relación lógica está usando el estudiante entre sus dos afirmaciones?",
+      "context": "Un estudiante de noveno en Barranquilla escribe un párrafo que dice: \"El transporte es malo en esta ciudad. Sin embargo, no podemos decir que sea igual en todas partes\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una relación de causa, porque la segunda oración explica por qué el transporte es malo.",
+          "is_correct": false,
+          "feedback": "No hay relación causa-efecto: la segunda afirmación se opone a una generalización, no explica la primera."
+        },
+        {
+          "letter": "B",
+          "text": "Una relación de equivalencia, porque las dos oraciones dicen lo mismo.",
+          "is_correct": false,
+          "feedback": "Las afirmaciones se contradicen en alcance, de modo que no son equivalentes."
+        },
+        {
+          "letter": "C",
+          "text": "Una relación de restricción, en la que la segunda afirmación delimita el alcance de la primera.",
+          "is_correct": true,
+          "feedback": "El par conecta la tesis con una salvedad que delimita su alcance, propio de la argumentación académica."
+        },
+        {
+          "letter": "D",
+          "text": "Una relación de enumeración, porque la segunda oración enumera los casos del transporte.",
+          "is_correct": false,
+          "feedback": "La segunda oración no enumera casos: limita la afirmación general."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los conectores adversativos, como \"sin embargo\" o \"no obstante\", señalan que la segunda afirmación no se deduce de la primera sino que la restringe. Esa operación fortalece el texto porque le quita generalizaciones y deja el alcance de lo afirmado más preciso. Dominar esas relaciones permite construir párrafos que resistan preguntas difíciles.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W28-la-argumentacion-en-textos-academicos-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W28-la-argumentacion-en-textos-academicos-001-MASTERY-bundle-v8",
+      "statement": "¿Qué diferencia revela un análisis intertextual riguroso de esos dos textos?",
+      "context": "En una tarea de noveno, un estudiante compara un artículo de un periódico de Bogotá con un comunicado de una entidad pública sobre el mismo problema de movilidad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La cantidad de palabras que tienen cada uno de los textos.",
+          "is_correct": false,
+          "feedback": "La extensión no revela la diferencia de perspectiva que se busca analizar."
+        },
+        {
+          "letter": "B",
+          "text": "El número de veces que cada texto menciona la palabra movilidad.",
+          "is_correct": false,
+          "feedback": "Contar menciones es un conteo, no un análisis de las diferencias entre los textos."
+        },
+        {
+          "letter": "C",
+          "text": "El tamaño de la letra con la que está impreso cada texto.",
+          "is_correct": false,
+          "feedback": "El formato no es una variable interpretable en términos de posición ni de argumentación."
+        },
+        {
+          "letter": "D",
+          "text": "La manera en que cada texto define el problema y a quién considera responsable de él.",
+          "is_correct": true,
+          "feedback": "Definir el problema y asignar responsabilidades son decisiones discursivas que delatan la posición de cada fuente."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El análisis intertextual busca relaciones significativas entre textos más que semejanzas de superficie. En el caso de la prensa y un comunicado oficial, la diferencia decisiva suele estar en cómo se define el problema y en a quién se le atribuye la responsabilidad. Reconocer esa distancia entre las dos voces es clave para leer con criterio cualquier fuente de información.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Critico-Intertextual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W28-la-argumentacion-en-textos-academicos-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W28-la-argumentacion-en-textos-academicos-001-MASTERY-bundle-v9",
+      "statement": "¿Qué problema tiene esta expresión en el contexto de un texto académico?",
+      "context": "En un texto académico de noveno se lee: \"Es evidente que lagraphics thieves recuperó la economía del país\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un problema de extensión, porque la oración es demasiado larga.",
+          "is_correct": false,
+          "feedback": "La longitud de la oración no afecta la validez del argumento."
+        },
+        {
+          "letter": "B",
+          "text": "Es un problema de ortografía, porque la palabra escrita no corresponde al español estándar.",
+          "is_correct": false,
+          "feedback": "El asunto no es la escritura de la palabra, sino lo que la expresión comunica."
+        },
+        {
+          "letter": "C",
+          "text": "Es un problema de falta de precisión, porque presenta como evidente algo que debe demostrarse.",
+          "is_correct": true,
+          "feedback": "Presentar un dato como evidente exime al autor de demostrarlo y debilita la fuerza de la tesis."
+        },
+        {
+          "letter": "D",
+          "text": "Es un problema de longitud de párrafo, porque la afirmación ocupa todo el párrafo.",
+          "is_correct": false,
+          "feedback": "La distribución de las ideas en párrafos no es lo que se está evaluando en esta expresión."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una expresión como \"es evidente que\" desplaza la carga de la demostración: el autor afirma sin probar. En un texto académico, lo que se sostiene con datos es justamente lo que no puede darse por supuesto. Evitar ese tipo de fórmulas obliga a presentar la evidencia y hace que la tesis se sostenga de manera verificable.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W28-la-argumentacion-en-textos-academicos-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W28-la-argumentacion-en-textos-academicos-001-MASTERY-bundle-v10",
+      "statement": "¿Qué información sobre la estructura del párrafo permite obtener el análisis de esas marcas?",
+      "context": "Un texto de noveno recorre un párrafo con estas marcas: \"en consecuencia\", \"por el contrario\", \"en resumen\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el párrafo repite tres veces la misma idea con otras palabras.",
+          "is_correct": false,
+          "feedback": "La repetición de ideas no explica el cambio de función que tienen los tres conectores."
+        },
+        {
+          "letter": "B",
+          "text": "Que el párrafo presenta consecuencias, contradice una idea previa y cierra con una síntesis.",
+          "is_correct": true,
+          "feedback": "Esa lectura corresponde a la función de los tres conectores dentro de la secuencia del párrafo."
+        },
+        {
+          "letter": "C",
+          "text": "Que el párrafo no tiene un orden claro entre sus ideas.",
+          "is_correct": false,
+          "feedback": "Los conectores muestran justamente lo contrario: hay un orden explícito y una secuencia definida."
+        },
+        {
+          "letter": "D",
+          "text": "Que el párrafo incluye datos de fuentes distintas entre sí.",
+          "is_correct": false,
+          "feedback": "La variedad de fuentes es otra cuestión, no lo que estos tres conectores señalan."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los conectores funcionan como marcadores de ruta dentro del párrafo. Al identificarlos se puede reconstruir qué hace cada oración respecto de las demás: deducir, contradecir o resumir. Ese análisis es la base para escribir párrafos coherentes y para comprender la arquitectura de los textos que se leen en la investigación.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W28-la-argumentacion-en-textos-academicos-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W28-la-argumentacion-en-textos-academicos-001-MASTERY-bundle-v11",
+      "statement": "¿Qué evaluación es la más sólida de la opción de dar una sola nota al grupo?",
+      "context": "En una comisión de noveno en Bucaramanga, se debate si el trabajo grupal debe recibir una sola nota o notas individuales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es la mejor, porque simplifica la calificación y evita discusiones.",
+          "is_correct": false,
+          "feedback": "La conveniencia para quien califica no es un argumento a favor de la justicia del sistema."
+        },
+        {
+          "letter": "B",
+          "text": "Es la mejor, porque siempre todos los integrantes trabajan por igual.",
+          "is_correct": false,
+          "feedback": "Esa premisa no se cumple en la realidad de los grupos; no puede servir como base para decidir."
+        },
+        {
+          "letter": "C",
+          "text": "Es cuestionable, porque premia a quienes menos trabajaron y castiga a quienes más participaron.",
+          "is_correct": true,
+          "feedback": "Un sistema que no distingue el aporte individual no reparte con justicia los resultados del grupo."
+        },
+        {
+          "letter": "D",
+          "text": "Es la peor, porque en todo trabajo el tiempo de cada estudiante es idéntico.",
+          "is_correct": false,
+          "feedback": "La igualdad de tiempos no es un hecho universal, y en todo caso no resuelve la discusión planteada."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar una norma de trabajo exige comparar sus efectos sobre casos concretos y no solo sus ventajas aparentes. Una sola nota para todo el grupo se traduce en un efecto injusto: beneficia a quien menos aportó y perjudica a quien más trabajó. Reconocer ese efecto permite diseñar sistemas de evaluación más justos y más adaptados a la realidad de los grupos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W28-la-argumentacion-en-textos-academicos-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W28-la-argumentacion-en-textos-academicos-001-MASTERY-bundle-v12",
+      "statement": "¿Qué evaluación resulta la más adecuada de esa afirmación?",
+      "context": "En una discusión de noveno se afirma: \"Si una afirmación es falsa, entonces su argumento también es falso\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es verdadera, porque un argumento solo puede ser falso si su conclusión es falsa.",
+          "is_correct": false,
+          "feedback": "Un argumento puede tener una conclusión falsa y, aun así, ser un razonamiento válido."
+        },
+        {
+          "letter": "B",
+          "text": "Es verdadera, porque toda conclusión falsa invalida el procedimiento seguido.",
+          "is_correct": false,
+          "feedback": "La validez del procedimiento y la verdad de la conclusión son dos cuestiones distintas."
+        },
+        {
+          "letter": "C",
+          "text": "Es falsa, pero solo porque todas las afirmaciones pueden ser verdaderas o falsas por igual.",
+          "is_correct": false,
+          "feedback": "La corrección no depende de esa generalización, sino de la distinción entre validez y verdad."
+        },
+        {
+          "letter": "D",
+          "text": "Es falsa, porque la validez de un argumento y la verdad de su conclusión son cuestiones diferentes.",
+          "is_correct": true,
+          "feedback": "Un razonamiento puede ser correcto en su estructura y llegar a una conclusión equivocada, y a la inversa."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Un argumento es válido cuando su conclusión se sigue correctamente de las premisas, y verdadero cuando su conclusión coincide con los hechos. Evaluar la conclusión no es lo mismo que evaluar el procedimiento, y confundir ambos extremos debilita el trabajo académico. Mantener la distinción ayuda a detectar errores de razonamiento y a no descartar teses que solo necesitan mejor sustento.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Semantico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W28-la-argumentacion-en-textos-academicos-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}
