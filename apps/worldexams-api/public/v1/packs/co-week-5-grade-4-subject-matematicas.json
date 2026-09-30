@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-5-grade-4-subject-matematicas",
+    "generated_at": "2026-09-30T12:53:13.416Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-4-2026-W05-geometria-y-medicion-001-MASTERY-bundle-v1",
+      "statement": "¿Cómo se llama la figura que tiene tres lados y tres ángulos?",
+      "context": "En la plaza de mercado de Bogotá hay un dibujo grande hecho con figuras planas que representa las frutas que se venden.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un triángulo",
+          "is_correct": true,
+          "feedback": "¡Correcto! El triángulo tiene exactamente tres lados y tres ángulos."
+        },
+        {
+          "letter": "B",
+          "text": "Un cuadrilátero",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un cuadrilátero tiene cuatro lados y cuatro ángulos."
+        },
+        {
+          "letter": "C",
+          "text": "Un círculo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El círculo no tiene lados rectos ni ángulos: es una curva cerrada."
+        },
+        {
+          "letter": "D",
+          "text": "Un rectángulo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El rectángulo tiene cuatro lados y cuatro ángulos, por lo que no corresponde."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reconocer las figuras por la cantidad de lados y de ángulos es la base de la geometría de cuarto grado. El triángulo tiene tres lados y tres ángulos, el cuadrilátero cuatro de cada uno, y el rectángulo es un cuadrilátero con cuatro lados y cuatro ángulos rectos. El círculo, en cambio, no tiene lados ni ángulos porque es una curva. Conocer estos rasgos permite clasificar cualquier dibujo que aparezca en un aviso, en un libro o en un problema.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-4-2026-W05-geometria-y-medicion-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W05-geometria-y-medicion-001-MASTERY-bundle-v2",
+      "statement": "¿Qué tipo de ángulo representa esa marca de 90 grados?",
+      "context": "En la casa de la familia Gómez, en el barrio Castilla de Medellín, hay una puerta de madera con una marca de 90 grados pintada en la esquina.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un ángulo agudo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un ángulo agudo es menor que 90 grados, así que no puede medir exactamente 90."
+        },
+        {
+          "letter": "B",
+          "text": "Un ángulo recto",
+          "is_correct": true,
+          "feedback": "¡Correcto! Un ángulo de 90 grados se llama ángulo recto y es el que forman las esquinas de las puertas y las ventanas."
+        },
+        {
+          "letter": "C",
+          "text": "Un ángulo obtuso",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un ángulo obtuso es mayor que 90 grados, así que no corresponde a la marca descrita."
+        },
+        {
+          "letter": "D",
+          "text": "Un ángulo llano",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un ángulo llano mide 180 grados, el doble de la medida indicada."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los ángulos se clasifican según su medida. Un ángulo agudo es menor que 90 grados, un ángulo recto mide exactamente 90 grados y un ángulo obtuso es mayor que 90 grados pero menor que 180. El ángulo llano mide 180 grados y se forma con dos semirrectas que van en direcciones opuestas. Por eso una marca de 90 grados corresponde siempre a un ángulo recto, como el que se ve en las esquinas de una puerta.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-4-2026-W05-geometria-y-medicion-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W05-geometria-y-medicion-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es el perímetro del patio del colegio?",
+      "context": "El patio de un colegio de Medellín es un rectángulo de 18 metros de largo y 12 metros de ancho. La empresa de jardinería que adorna el patio necesita saber cuánto miden los cuatro lados.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "30 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste el largo y el ancho, pero eso da la mitad del contorno, no el perímetro completo."
+        },
+        {
+          "letter": "B",
+          "text": "36 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste el largo por el ancho, y eso corresponde a un área, no a un perímetro."
+        },
+        {
+          "letter": "C",
+          "text": "216 metros cuadrados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste el área del patio, pero el enunciado pide la longitud de los lados."
+        },
+        {
+          "letter": "D",
+          "text": "60 metros",
+          "is_correct": true,
+          "feedback": "¡Correcto! 18 x 2 = 36 y 12 x 2 = 24, y 36 + 24 = 60 metros de perímetro."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El perímetro es la suma de todos los lados de una figura. Como el patio es un rectángulo, tiene dos lados de 18 metros y dos lados de 12 metros: 18 + 18 + 12 + 12 = 60 metros. Un control útil es que el perímetro siempre se expresa en unidades de longitud, como metros, mientras que el área se expresa en unidades cuadradas. Por eso la opción de 216 metros cuadrados corresponde a otra medición y queda descartada.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-4-2026-W05-geometria-y-medicion-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W05-geometria-y-medicion-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es el perímetro de la mesa cuadrada?",
+      "context": "En la cocina de la casa de los Martínez, en Bucaramanga, hay una mesa de forma cuadrada y cada lado mide 90 centímetros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "90 centímetros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con solo un lado no se cierra la figura: el perímetro necesita los cuatro lados."
+        },
+        {
+          "letter": "B",
+          "text": "180 centímetros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste 90 por 2, pero hay cuatro lados, no dos."
+        },
+        {
+          "letter": "C",
+          "text": "360 centímetros",
+          "is_correct": true,
+          "feedback": "¡Correcto! 90 + 90 + 90 + 90 = 360 centímetros de perímetro."
+        },
+        {
+          "letter": "D",
+          "text": "8.100 centímetros cuadrados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el área de la mesa, porque 90 x 90 = 8.100, y el área se mide en unidades cuadradas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En un cuadrado los cuatro lados miden lo mismo, así que el perímetro se obtiene multiplicando la medida de un lado por cuatro. En esta mesa, 90 x 4 = 360 centímetros, que equivale a 3 metros y 60 centímetros. Es importante distinguir entre perímetro y área: el perímetro suma longitudes y se expresa en centímetros, mientras que el área multiplica dos lados y se expresa en centímetros cuadrados. Confundir las dos medidas es un error muy frecuente.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-4-2026-W05-geometria-y-medicion-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W05-geometria-y-medicion-001-MASTERY-bundle-v5",
+      "statement": "¿Qué le permite esa disposición de las figuras para saber si la bandera es simétrica?",
+      "context": "Para las fiestas de Cali, doña Olga diseñó una bandera con tres figuras iguales, un círculo, un rombo y un cuadrado, colocados uno al lado del otro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le permite cortar la bandera por la mitad en una recta y obtener dos partes iguales",
+          "is_correct": true,
+          "feedback": "¡Correcto! Una figura es simétrica si se puede dividir en dos mitades iguales mediante una recta."
+        },
+        {
+          "letter": "B",
+          "text": "Le permite girar la bandera un cuarto de vuelta y obtener la misma figura",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso corresponde a la simetría de rotación, y no es lo que se observa al mirar la bandera de frente."
+        },
+        {
+          "letter": "C",
+          "text": "Le permite que las tres figuras tengan el mismo color",
+          "is_correct": false,
+          "feedback": "Incorrecto. El color no define la simetría: dos figuras del mismo color pueden ser simétricas o no."
+        },
+        {
+          "letter": "D",
+          "text": "Le permite que las tres figuras tengan lados paralelos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los lados paralelos aparecen en el cuadrado y en el rombo, pero no explican la simetría de la bandera."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La simetría axial se reconoce cuando una figura se puede partir en dos mitades exactamente iguales usando una recta. En este caso, si las tres figuras están colocadas de manera uniforme y la bandera tiene la misma forma a la izquierda y a la derecha, existe una recta vertical que la divide en dos partes iguales. Al analizar otras banderas o carteles, esta prueba sirve para comprobar si el diseño está bien centrado. No tiene que ver con el color ni con los lados paralelos.\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-4-2026-W05-geometria-y-medicion-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W05-geometria-y-medicion-001-MASTERY-bundle-v6",
+      "statement": "¿Qué debe concluir doña Rosa sobre lo que ocurre?",
+      "context": "En una farmacia de Barranquilla, doña Rosa coloca un paquete de arroz en la báscula y la báscula marca 1.250 gramos. La etiqueta del paquete dice que pesa 1.350 gramos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El paquete pesa 1.350 gramos, porque eso dice la etiqueta",
+          "is_correct": false,
+          "feedback": "Incorrecto. La etiqueta es un dato declarado, pero la báscula es la que mide el paquete que realmente llegó a sus manos."
+        },
+        {
+          "letter": "B",
+          "text": "La báscula está dañada, porque marca menos de lo que dice el paquete",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se puede afirmar que la báscula esté dañada solo porque hay una diferencia entre el dato declarado y la medición."
+        },
+        {
+          "letter": "C",
+          "text": "La báscula marca 100 gramos menos que el peso de la etiqueta, así que hay que revisarla",
+          "is_correct": true,
+          "feedback": "¡Correcto! 1.350 - 1.250 = 100, y esa diferencia obliga a revisar el instrumento o el empaque."
+        },
+        {
+          "letter": "D",
+          "text": "El paquete y la báscula están bien porque los números son parecidos",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Parecidos\" no es una comprobación válida: aquí hay 100 gramos de diferencia entre el dato de la etiqueta y lo que marca la báscula."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cuando dos mediciones no coinciden, la diferencia exacta indica qué tanto se deben revisar los datos. En este caso 1.350 - 1.250 = 100 gramos, una diferencia pequeña pero que existe. Lo correcto es repetir la medición, revisar si el paquete estaba bien colocado y, si la diferencia se repite, avisar al proveedor. Un paquete que pesa menos de lo anunciado no cumple lo que dice la etiqueta, y por eso la comparación entre ambos datos es el punto de partida para actuar.\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-4-2026-W05-geometria-y-medicion-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W05-geometria-y-medicion-001-MASTERY-bundle-v7",
+      "statement": "¿Qué instrumento de medición y qué unidad le convienen para esa labor?",
+      "context": "En Bogotá, don Gerardo necesita medir una tabla de 3 metros de largo antes de cortarla con la sierra.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una báscula y el kilogramo",
+          "is_correct": false,
+          "feedback": "Incorrecto. La báscula y el kilogramo miden peso, pero don Gerardo necesita medir una longitud."
+        },
+        {
+          "letter": "B",
+          "text": "Una cinta métrica y el metro",
+          "is_correct": true,
+          "feedback": "¡Correcto! La cinta métrica sirve para medir longitudes de varios metros y el metro es la unidad adecuada."
+        },
+        {
+          "letter": "C",
+          "text": "Un reloj y el minuto",
+          "is_correct": false,
+          "feedback": "Incorrecto. El reloj mide tiempo, y el minuto es una unidad de tiempo, no de longitud."
+        },
+        {
+          "letter": "D",
+          "text": "Un termómetro y el grado",
+          "is_correct": false,
+          "feedback": "Incorrecto. El termómetro mide la temperatura, y no tiene relación con el largo de la tabla."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Elegir el instrumento adecuado depende de lo que se quiere medir. Para longitudes se usan la cinta métrica, la regla o la metrobra, y las unidades son el centímetro, el metro y el kilómetro. Para pesos se usa la báscula con el kilogramo o el gramo. Para temperatura se usa el termómetro con el grado, y para el tiempo el reloj con el minuto o la hora. Como don Gerardo va a cortar una tabla de 3 metros, la cinta métrica y el metro son la pareja indicada.\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Formulacion",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-4-2026-W05-geometria-y-medicion-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W05-geometria-y-medicion-001-MASTERY-bundle-v8",
+      "statement": "¿Cuántos tramos obtiene doña Olga y qué operación representa esa situación?",
+      "context": "En un taller de madera del barrio San Diego, en Bucaramanga, doña Olga tiene una cinta de 1 metro y quiere cortarla en tramos de 25 centímetros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2 tramos, porque 1 metro son 2 tramos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cálculo correcto es 100 : 25 = 4, y no 2."
+        },
+        {
+          "letter": "B",
+          "text": "100 tramos, porque 1 metro son 100 tramos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El 100 corresponde a la cantidad de centímetros del metro, no al número de tramos."
+        },
+        {
+          "letter": "C",
+          "text": "25 tramos, porque cada tramo mide 25 centímetros",
+          "is_correct": false,
+          "feedback": "Incorrecto. El 25 es la longitud de cada tramo, y los tramos que salen son cuatro."
+        },
+        {
+          "letter": "D",
+          "text": "4 tramos, porque 100 : 25 = 4",
+          "is_correct": true,
+          "feedback": "¡Correcto! 1 metro son 100 centímetros, y 100 : 25 = 4 tramos de 25 centímetros."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Antes de medir hay que convertir todo a la misma unidad. Un metro equivale a 100 centímetros, así que la cinta completa mide 100 centímetros. Al dividir esa longitud entre los 25 centímetros de cada tramo se obtiene 100 : 25 = 4 tramos. Este camino, convertir unidades y luego dividir entre la medida de la parte, sirve para muchas tareas reales: repartir medidas, cortar listones, colocar baldosas o repartir hilo. Convertir mal la unidad es el error más común en estos problemas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Modelacion",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-4-2026-W05-geometria-y-medicion-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    }
+  ]
+}
