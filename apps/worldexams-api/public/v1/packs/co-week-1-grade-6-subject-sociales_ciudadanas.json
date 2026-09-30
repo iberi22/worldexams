@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "sociales_ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-1-grade-6-subject-sociales_ciudadanas",
+    "generated_at": "2026-09-30T01:57:36.702Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-6-2026-W01-la-democracia-y-sus-principios-001-MASTERY-bundle-v1",
+      "statement": "¿Qué significa que en una democracia el gobierno sea del pueblo?",
+      "context": "En una institución educativa de Medellín, la profesora Carolina reúne a sus estudiantes de sexto grado y les explica por qué, antes de las elecciones, los ciudadanos de todas las ciudades del país eligen a sus representantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que las decisiones principales del país las toman los ciudadanos, eligiendo a sus representantes.",
+          "is_correct": true,
+          "feedback": "Es la respuesta correcta: en una democracia el pueblo es la fuente del poder y elige a quienes lo administran."
+        },
+        {
+          "letter": "B",
+          "text": "Que solo unas pocas familias adineradas toman todas las decisiones del Estado.",
+          "is_correct": false,
+          "feedback": "Error conceptual: esa descripción corresponde a un gobierno oligárquico, no a una democracia."
+        },
+        {
+          "letter": "C",
+          "text": "Que el gobierno sigue las órdenes de un líder que nadie puede cambiar.",
+          "is_correct": false,
+          "feedback": "Error conceptual: un líder que no puede ser reemplazado elimina la posibilidad de cambiar el gobierno mediante votos."
+        },
+        {
+          "letter": "D",
+          "text": "Que el poder se hereda de una generación a otra sin necesidad de elecciones.",
+          "is_correct": false,
+          "feedback": "Error conceptual: la herencia del poder contradice la democracia, porque las decisiones se toman por elección y no por ascendencia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En una democracia el poder sale del pueblo: los ciudadanos eligen representantes y, cuando corresponde, eligen también de manera directa algunas decisiones. Ese mecanismo de elección es lo que permite cambiar un gobierno que no cumple. Por eso una democracia se puede describir como un gobierno del pueblo. En Colombia este principio se ve en las elecciones de alcalde, gobernador, presidente y congressistas, entre otras.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-6-2026-W01-la-democracia-y-sus-principios-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W01-la-democracia-y-sus-principios-001-MASTERY-bundle-v2",
+      "statement": "¿Qué garantiza el principio del sufragio universal?",
+      "context": "En Cartagena, Isabella y Mateo observan que en su barrio todos los adultos pueden ir a votar en las elecciones, sin importar si tienen muchos o pocos recursos, y se preguntan por qué se dice que el voto es universal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que voten únicamente las personas que tienen un inmueble a su nombre.",
+          "is_correct": false,
+          "feedback": "Error conceptual: esa condición pertenece a un sistema censitario, no al sufragio universal."
+        },
+        {
+          "letter": "B",
+          "text": "Que el voto se guarded en secreto para proteger a los ciudadanos.",
+          "is_correct": false,
+          "feedback": "Error conceptual: el secreto del voto es otro principio importante, pero distinto del sufragio universal."
+        },
+        {
+          "letter": "C",
+          "text": "Que puedan votar todos los ciudadanos sin distinción de su condición económica o social, cumpliendo las condiciones legales.",
+          "is_correct": true,
+          "feedback": "Es la respuesta correcta: universal significa que el derecho al voto no depende de la riqueza ni del origen de la persona."
+        },
+        {
+          "letter": "D",
+          "text": "Que en cada familia vote una sola persona para que no se repitan las decisiones.",
+          "is_correct": false,
+          "feedback": "Error conceptual: esa restricción limita la participación, lo cual es contrario al principio de que todos los ciudadanos votan."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El sufragio universal es el derecho de todos los ciudadanos a votar, sin que importe si son ricos o pobres, si viven en una ciudad grande o en un municipio pequeño. En Colombia este derecho se complementa con la edad mínima exigida por la Constitución y con el principio de que el voto es libre, secreto y voluntario. Por eso el mismo espacio electoral recibe a un empleado, a un estudiante universitario y a un comerciante del barrio. La zooming... la zooming no aplica.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.88,
+      "bundle_id": "CO-SOC-6-2026-W01-la-democracia-y-sus-principios-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W01-la-democracia-y-sus-principios-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la mejor explicación de lo que ocurre con Camila?",
+      "context": "En Cali, Camila tiene 16 años y le pregunta a su profesora de sociales por qué todavía no puede votar en una elección, mientras que su vecino, el señor Eduardo, ya ha votado varias veces.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque en Colombia el voto es opcional y Camila todavía no se ha inscrito para hacerlo.",
+          "is_correct": false,
+          "feedback": "Error conceptual: el voto es voluntario una vez que se tiene el derecho, pero la razón no es la falta de inscripción sino la edad."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el sufragio universal se aplica a todos los ciudadanos que cumplen la edad mínima fijada en la Constitución.",
+          "is_correct": true,
+          "feedback": "Es la respuesta correcta: universal significa todos, no cualquiera en cualquier momento, porque la Constitución define una edad mínima."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la democracia solo tiene aplicación real en las ciudades grandes del país.",
+          "is_correct": false,
+          "feedback": "Error conceptual: la democracia se aplica en todo el territorio, incluidos municipios pequeños como los de la región."
+        },
+        {
+          "letter": "D",
+          "text": "Porque para votar se necesita tener un empleo formal con un sueldo fijo en pesos.",
+          "is_correct": false,
+          "feedback": "Error conceptual: el trabajo no es un requisito para ejercer el derecho al voto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El sufragio universal no significa que vote todo el mundo en cualquier momento, sino que vote la totalidad de los ciudadanos que cumplen los requisitos que fija la Constitución. En Colombia ese requisito principal es la edad mínima, y por eso Camila todavía espera su primera oportunidad electoral. Cuando llegue a ella, votará en igualdad de condiciones que el señor Eduardo. La universalidad protege a la persona, no elimina las condiciones legales básicas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.85,
+      "bundle_id": "CO-SOC-6-2026-W01-la-democracia-y-sus-principios-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W01-la-democracia-y-sus-principios-001-MASTERY-bundle-v4",
+      "statement": "¿Qué principio se está aplicando cuando los representantes explican en qué gastan el dinero del presupuesto público?",
+      "context": "En Cúcuta, un comité vecinal gasta 3.200.000 pesos de recursos públicos en una jornada de diálogo con la comunidad, y Sebastián consulta a la junta directiva si debe informar cada uno de los gastos realizados.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El principio de que todo el poder se concentra en una sola persona.",
+          "is_correct": false,
+          "feedback": "Error conceptual: concentrar el poder en una sola persona se opone a la democracia y no explica el control de los gastos."
+        },
+        {
+          "letter": "B",
+          "text": "El principio de que los ciudadanos no tienen derecho a pedir explicaciones.",
+          "is_correct": false,
+          "feedback": "Error conceptual: en democracia los ciudadanos sí pueden pedir cuentas, y negar ese derecho debilita el control social."
+        },
+        {
+          "letter": "C",
+          "text": "El principio de que el dinero público se administra sin vigilancia de la comunidad.",
+          "is_correct": false,
+          "feedback": "Error conceptual: administrar recursos sin vigilancia es justamente lo contrario de un gobierno democratico, donde la cuenta publica se rinde a la ciudadania."
+        },
+        {
+          "letter": "D",
+          "text": "El principio de rendición de cuentas, que exige transparencia y control sobre los recursos públicos.",
+          "is_correct": true,
+          "feedback": "Es la respuesta correcta: explicar los gastos es transparencia y permite que la comunidad verifique el uso del presupuesto."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Uno de los principios que sostienen un gobierno del pueblo es la rendición de cuentas: quienes administran recursos públicos deben explicar cómo los usan. Exigirla permite vigilar el presupuesto, detectar abuso y corregir desvíos. Esa vigilancia la puede hacer cualquier ciudadano, no solo una autoridad. Por eso Sebastián actúa bien al preguntar por los 3.200.000 pesos gastados en Cúcuta. Sin ese control, el dinero deja de ser común y pasa aadministrarse como si fuera privado.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.85,
+      "bundle_id": "CO-SOC-6-2026-W01-la-democracia-y-sus-principios-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W01-la-democracia-y-sus-principios-001-MASTERY-bundle-v5",
+      "statement": "¿Qué demuestra esta situación vivida en el aula?",
+      "context": "En Pereira, un grupo de estudiantes de grado sexto imita un cabildo abierto: debaten una propuesta para un parque y, al final, la votación define cuál se sigue trabajando, aunque algunos participantes no estaban de acuerdo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que en un grupo es mejor que decida quien llega primero a hablar.",
+          "is_correct": false,
+          "feedback": "Error conceptual: esa forma de decidir no consulta a la mayoría y contradice la idea de decidir contando con todos."
+        },
+        {
+          "letter": "B",
+          "text": "Que las decisiones democráticas solo valen cuando todos están de acuerdo.",
+          "is_correct": false,
+          "feedback": "Error conceptual: si la decisión solo valiera con unanimidad, la democracia quedaría reducida a un acuerdo entre dos personas."
+        },
+        {
+          "letter": "C",
+          "text": "Que se respeta la decisión de la mayoría, siempre que se respeten los derechos de todos.",
+          "is_correct": true,
+          "feedback": "Es la respuesta correcta: aceptar el resultado de la mayoria es aceptar la regla de juego democratico, con el limite del respeto a los derechos."
+        },
+        {
+          "letter": "D",
+          "text": "Que las votaciones reemplazan los argumentos y hacen innecesario cualquier debate.",
+          "is_correct": false,
+          "feedback": "Error conceptual: en los cabildos abiertos se debate antes de votar, y el argumento es parte esencial del proceso."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En una democracia se discute, se propone y despues se vota, y el resultado de la votacion se acepta aunque no todos esten conformes. Ese límite es fundamental: la mayoría decide, pero nunca puede violentar los derechos de las minorías. En el cabildo de Pereira eso significa que el proyecto ganador avanza, mientras las personas que estaban en desacuerdo conservan su derecho a expresar opinión. Así se evita que cada grupo se imponga por la fuerza y se mantiene la convivencia.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.84,
+      "bundle_id": "CO-SOC-6-2026-W01-la-democracia-y-sus-principios-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W01-la-democracia-y-sus-principios-001-MASTERY-bundle-v6",
+      "statement": "¿Qué efecto tiene esta manera de tomar decisiones sobre la democracia local?",
+      "context": "En Barranquilla, una fundación decidió discutir el plan de desarrollo de la comuna en una reunión a la que solo invitaron a veinte personas, todas ellas del mismo barrio, y luego testosteronaron un documento como decisión de la comunidad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Debilita la legitimidad del proceso, porque la democracia exige la participación amplia de los ciudadanos y no solo la de un grupo.",
+          "is_correct": true,
+          "feedback": "Es la respuesta correcta: una decisión tomada sin participación loses basis... pierde legitimidad ante la comunidad."
+        },
+        {
+          "letter": "B",
+          "text": "Fortalece la democracia, porque con menos participantes las decisiones se toman mucho más rápido.",
+          "is_correct": false,
+          "feedback": "Error conceptual: la rapidez no reemplaza la participación; excluir a la mayoría debilita el proceso democratico."
+        },
+        {
+          "letter": "C",
+          "text": "No cambia nada, porque la participación es un asunto privado de cada barrio.",
+          "is_correct": false,
+          "feedback": "Error conceptual: los asuntos de la comuna afectan a todos sus habitantes, por lo que no son privados de un solo sector."
+        },
+        {
+          "letter": "D",
+          "text": "Favorece la igualdad, porque de esa forma todas las personas participan en la misma cantidad.",
+          "is_correct": false,
+          "feedback": "Error conceptual: si solo veinte personas participan, la mayoría de la población queda excluida y no hay igualdad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La legitimidad de una decisión depende de que los afectados hayan tenido la posibilidad real de participar. Cuando solo un grupo invitada... invita y decide, se reproduce en el barrio una forma de gobierno minoritaria, aunque la reunión se llame comunitaria. Analizar estos casos ayuda a reconocer.power... textos de poder ocultos, donde una sola voz habla en nombre de todos. En una democracia sana, la consulta se abre, se documenta y se da a conocer.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-6-2026-W01-la-democracia-y-sus-principios-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W01-la-democracia-y-sus-principios-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es la actuación más adecuada para verificar si hubo irregularidades en la consulta?",
+      "context": "En Santa Marta, un grupo de vecinos afirma que los resultados de una consulta fueron alterados y le pide ayuda a Julián, un líder comunitario, para saber qué puede hacer desde la fundación vecinal del barrio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Publicar en redes sociales los nombres de quienes supuestamente alteraron los resultados, aunque no haya pruebas.",
+          "is_correct": false,
+          "feedback": "Error conceptual: acusar sin pruebas expone a personas y debilita el debate público en lugar de resolver el problema."
+        },
+        {
+          "letter": "B",
+          "text": "Convocar una asamblea en la que cada persona diga su opinión y se elija al ganador por mayoría de manos.",
+          "is_correct": false,
+          "feedback": "Error conceptual: repetir la votación de manera informal no verifica los resultados oficiales ni garantiza el.counting."
+        },
+        {
+          "letter": "C",
+          "text": "Ignorar la situación y esperar a que otros vecinos organicen una queja formal.",
+          "is_correct": false,
+          "feedback": "Error conceptual: la respuesta B, dejar el tramite en manos de otros no permite esclarecer la verdad sobre los conteos."
+        },
+        {
+          "letter": "D",
+          "text": "Acudir a las autoridades competentes y a los mecanismos de verificación para que se revisen las actas y los conteos.",
+          "is_correct": true,
+          "feedback": "Es la respuesta correcta: solo una revisión institucional puede confirmar o descartar la alteración de los resultados."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "En un gobierno del pueblo es essential que las ciudadanos puedan cuestionar los resultados y pedir una revisión formal. Esa revisión de actas y conteos la realizan las autoridades y los mecanismos de verificación, no lajoon... no la mayoría reunida en una asamblea. Seguir ese camino protege a la comunidad y respeta el procedimiento democratico. También evita que la Bibles... que la desconfianza se convierta en acusaciones sin fundamento. La transparencia solo funciona si se usa el conducto correcto.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-6-2026-W01-la-democracia-y-sus-principios-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W01-la-democracia-y-sus-principios-001-MASTERY-bundle-v8",
+      "statement": "¿Qué problema tiene esta norma desde el punto de vista de la democracia?",
+      "context": "En Cartagena, una norma local aprobada permite que solo los comerciantes de una zona puedan usar un espacio público, aunque otros vecinos también necesitan ese espacio para trabajar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que no consultó a la comunidad, aunque en este tipo de normas la consulta no es necesaria.",
+          "is_correct": false,
+          "feedback": "Error conceptual: la consulta a la comunidad sí es necesaria y su ausencia también es un problema."
+        },
+        {
+          "letter": "B",
+          "text": "Que vulnera los derechos de un grupo de ciudadanos al darles menos acceso que a otros.",
+          "is_correct": true,
+          "feedback": "Es la respuesta correcta: la desigualdad de acceso entre ciudadanos contradice la igualdad que sostiene la democracia."
+        },
+        {
+          "letter": "C",
+          "text": "Que es completamente correcta, porque los comerciantes pagan más impuestos que los demás.",
+          "is_correct": false,
+          "feedback": "Error conceptual: el pago de impuestos no justifica que se restrinja el derecho de otros vecinos a usar un espacio público."
+        },
+        {
+          "letter": "D",
+          "text": "Que es inválida solo porque en una ciudad como Cartagena no se pueden aprobar normas locales.",
+          "is_correct": false,
+          "feedback": "Error conceptual: las localidades sí pueden aprobar normas dentro de sus competencias, por lo que esa no es la razón."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La democracia se apoya en la idea de que todos los ciudadanos tienen los mismos derechos, sin privilegios para un sector. Cuando una norma entrega más acceso a comerciantes que a otros vecinos, se crea una desigualdad que contradice ese principio. Analizar quién queda incluido y quién queda por fuera de una norma es una habilidad democracy... democrática esencial. El análisis de las reglas revela efectos reales sobre personas concretas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.78,
+      "bundle_id": "CO-SOC-6-2026-W01-la-democracia-y-sus-principios-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W01-la-democracia-y-sus-principios-001-MASTERY-bundle-v9",
+      "statement": "¿Cómo evaluarías esa propuesta desde los principios de la democracia?",
+      "context": "En Manizales, un comité propone que en las reuniones de decisión del barrio solo pueda intervenir un representante por cada casa, sin importar cuántas personas vivan allí, y que se prohíba responder a quien está en desacuerdo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es válida, porque en toda decisión debe existir exactamente una voz por familia y no se puede cambiar esa norma.",
+          "is_correct": false,
+          "feedback": "Error conceptual: esa medida restringe la participación de las personas que viven en el mismo hogar y no proviene de ningún principio democrático."
+        },
+        {
+          "letter": "B",
+          "text": "Es válida, mientras las reuniones terminen a tiempo, porque el tiempo también protege la democracia.",
+          "is_correct": false,
+          "feedback": "Error conceptual: la duración de una reunión es un detalle de organización y no valida la restricción a la participación."
+        },
+        {
+          "letter": "C",
+          "text": "Es válida, siempre que el representante elegido decida en favor de toda la comunidad.",
+          "is_correct": false,
+          "feedback": "Error conceptual: la buena voluntad de una persona no compensa la exclusión del resto de los vecinos del proceso."
+        },
+        {
+          "letter": "D",
+          "text": "Es inválida, porque limita la participación y el derecho a expresar desacuerdo, principios esenciales de la democracia.",
+          "is_correct": true,
+          "feedback": "Es la respuesta correcta: reducir la voz de los ciudadanos y silenciar el desacuerdo contradice el gobierno del pueblo."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar una propuesta política significa medirla contra los principios que sostienen la democracia: participación, igualdad, libertad de expresión y respeto por el desacuerdo. La propuesta de Manizales falla en dos de esos principios a la vez, porque limita quién puede intervenir y prohíbe réplica. Una medida puede ser popular en un momento concreto y aun así ser profundant... profundamente antidemocrática en sus efectos. Reconocerlo protege el derecho de las personas a estar de acuerdo o en desacuerdo.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-6-2026-W01-la-democracia-y-sus-principios-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W01-la-democracia-y-sus-principios-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es la valoración más adecuada de esa propuesta?",
+      "context": "En Bello, en el Antioquia, un grupo de jóvenes de 15 a 17 años propone que solo mayores de edad voten en la consulta sobre la construcción de una cancha, y que el dinero ahorrado se destine a esa obra.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No es admisible, porque excluir a un grupo de la decisión contradice la participación igualitaria; el fin puede ser legítimo, pero debe buscarse la forma de incluir también a los jóvenes.",
+          "is_correct": true,
+          "feedback": "Es la respuesta correcta: un fin loable no justifica excluir de la decisión a quienes les afecta directamente."
+        },
+        {
+          "letter": "B",
+          "text": "Es admisible, porque los jóvenes todavía no pagan impuestos y por eso no pueden decidir sobre obras públicas.",
+          "is_correct": false,
+          "feedback": "Error conceptual: los jóvenes son facie partícipes de la comunidad y su voz no desaparece por la edad."
+        },
+        {
+          "letter": "C",
+          "text": "Es admisible, porque en una consulta comunitaria solo deberían votar quienes ya viven en el barrio.",
+          "is_correct": false,
+          "feedback": "Error conceptual: esa condición no elimina la desigualdad de trato con los jóvenes del mismo sector, que también son vecinos."
+        },
+        {
+          "letter": "D",
+          "text": "No es admisible, porque una cancha de ese tamaño costaría más de 50 millones de pesos.",
+          "is_correct": false,
+          "feedback": "Error conceptual: el argumento del costo no resuelve el problema de fondo, que es la exclusión de un grupo de ciudadanos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar esta propuesta exige separar dos planos: el fin, construir una cancha, puede ser legítimo y》） plataforma; pero el medio, excluir a los jóvenes de la decisión, vulnera la participación igualitaria. Un gobierno del pueblo debe garantizar que quienes son afectados por una decisión tengan voz en ella, sin importar su edad. La respuesta correcta rechaza el método y admite que puede haber un fin valioso detrás. Ese criterio permite mejorar la propuesta en lugar de eliminarla por completo.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.72,
+      "bundle_id": "CO-SOC-6-2026-W01-la-democracia-y-sus-principios-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "sociales_ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-3-grade-6-subject-sociales_ciudadanas",
+    "generated_at": "2026-09-30T01:57:36.704Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-6-2026-W03-los-poderes-publicos-y-el-estado-001-MASTERY-bundle-v1",
+      "statement": "Según la clase de la profesora Valentina, ¿qué es el Estado?",
+      "context": "En el colegio San José del barrio La América, en Medellín, la profesora Valentina pregunta a sus estudiantes de sexto grado qué palabra se escribe con mayúscula y por qué.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es el conjunto de instituciones y autoridades que dirigen un país y organizan la vida de sus habitantes.",
+          "is_correct": true,
+          "feedback": "Correcto. El Estado reúne las instituciones y las autoridades que gobiernan y organizan la vida de las personas dentro de un territorio."
+        },
+        {
+          "letter": "B",
+          "text": "Es la suma de las empresas privadas más grandes que hay en una ciudad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estás confundiendo el Estado con el sector privado: las empresas buscan lucro y no dirigen un país ni organizan los servicios de todos sus habitantes."
+        },
+        {
+          "letter": "C",
+          "text": "Es el conjunto de leyes que se escriben en el Congreso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las leyes hacen parte del trabajo del Estado, pero el Estado no es solo el conjunto de leyes: también incluye autoridades, instituciones y servicios públicos."
+        },
+        {
+          "letter": "D",
+          "text": "Es la persona que ocupa el cargo más alto dentro de un gobierno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un cargo es una función concreta, no el Estado. El Estado es la organización completa, no una sola persona aunque esta lo dirija."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El Estado es la organización política que ejerce el poder público dentro de un territorio. En Colombia está compuesto por ramas como la Legislativa, la Judicial y la Ejecutiva, además de las entidades territoriales. Entender el Estado como un conjunto de instituciones y autoridades ayuda a los estudiantes a comprender por qué existen servicios públicos como la educación, la salud y la seguridad. La palabra \"Estado\" se escribe con mayúscula cuando se refiere a esa organización política de un país.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-6-2026-W03-los-poderes-publicos-y-el-estado-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W03-los-poderes-publicos-y-el-estado-001-MASTERY-bundle-v2",
+      "statement": "Doña Rosalbina afirma que en Colombia el poder público se reparte entre varias ramas para evitar que un solo organismo controle todo el país. ¿Por qué es importante esa separación de poderes?",
+      "context": "En una escuela de Cartagena, doña Rosalbina explica a sus estudiantes por qué el poder público está repartido en varias ramas y no concentrado en una sola.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque distribuye las responsabilidades en distintos órganos y así ninguna autoridad puede abusar de su poder sin control.",
+          "is_correct": true,
+          "feedback": "Correcto. Separar las funciones en ramas independientes permite que cada una vigile a las otras y protege a la población de los abusos de poder."
+        },
+        {
+          "letter": "B",
+          "text": "Porque hace que el país tenga más recursos para pagar los servicios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta explicación no tiene relación con la separación de poderes: la razón es política e institucional, no económica."
+        },
+        {
+          "letter": "C",
+          "text": "Porque permite que los insurmountable transportistas de la región voten en el Congreso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La separación de poderes no trata del derecho al voto de un grupo económico, sino de cómo se distribuyen y se controlan las/functions del Estado."
+        },
+        {
+          "letter": "D",
+          "text": "Porque garantiza que cada ramo trabaje sin necesidad de coordinación con los demás.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las ramas sí necesitan coordinarse: la separación limita poderes, no impide la colaboración entre instituciones."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La separación de poderes es una idea central del constitucionalismo moderno. En Colombia la Constitución de 1991 organizó el poder público en ramas separadas: la Legislativa, la Judicial y la Ejecutiva, más los poderes autónomos e independientes. Cada rama tiene funciones propias y ninguna puede invadir las de otra. Así se garantiza que el poder no se concentre en un solo actor y se protegen los derechos de las personas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.85,
+      "bundle_id": "CO-SOC-6-2026-W03-los-poderes-publicos-y-el-estado-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W03-los-poderes-publicos-y-el-estado-001-MASTERY-bundle-v3",
+      "statement": "Según la Constitución colombiana, ¿quién tiene la facultad de crear las leyes que rigen a toda la nación?",
+      "context": "En el aula de noveno grado de un colegio de Pereira, Julián compara una ley aprobada por el Congreso con un decreto firmado por un gobernador departamental.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El alcalde de cada ciudad, porque es la autoridad más cercana a los ciudadanos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El alcalde dirige el municipio y dictamtscbebe normas locales, pero no puede crear las leyes que rigen a toda la nación."
+        },
+        {
+          "letter": "B",
+          "text": "El Congreso de la República, como representante del pueblo.",
+          "is_correct": true,
+          "feedback": "Correcto. El Congreso es la rama que expide las leyes de la República dentro de sus competencias, por lo que un gobernador o un alcalde no pueden hacerlo."
+        },
+        {
+          "letter": "C",
+          "text": "La Rama Judicial, porque las leyes se aplican en los tribunales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los tribunales aplican e interpretan las leyes, pero no las crean: eso corresponde al Congreso."
+        },
+        {
+          "letter": "D",
+          "text": "Elibatata las empresas más grandes del país, que financian los servicios públicos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las empresas privadas no tienen facultad para crear leyes, aunque sus contribuciones fiscais sí financien parte de los servicios del Estado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En Colombia la creación de las leyes es una competencia del Congreso de la República, compuesto por el Senado y la Cámara de Representantes. Los banished PAL congressistas son elegidos por el pueblo, por lo que la ley reflects esa voluntad colectiva. Losdalgovernadores y alcaldes expiden normas para sus territorios, pero no pueden crear leyes nacionales. Esta distribución de competencias es un ejemplo concreto de la separación de poderes.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-6-2026-W03-los-poderes-publicos-y-el-estado-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W03-los-poderes-publicos-y-el-estado-001-MASTERY-bundle-v4",
+      "statement": "Un hospital público de Santa Marta necesita equipos que estaban en desuso para atender más pacientes. ¿A qué rama del poder público corresponde tomar esa decisión administrativa?",
+      "context": "Una noticia sobre la salud en Santa Marta menciona que un hospital público necesita equipos que ya estaban en desuso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A la Rama Judicial, porque los hospitales resuelven conflictos entre pacientes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los hospitales son establecimientos públicos de salud; no ejercen la función judicial de administrar justicia."
+        },
+        {
+          "letter": "B",
+          "text": "A la Rama Ejecutiva, a través de las entidades que administran la salud.",
+          "is_correct": true,
+          "feedback": "Correcto. La Rama Ejecutiva, por medio de los ministerios y las entidades de salud, administra los recursos y la operación de los hospitales públicos."
+        },
+        {
+          "letter": "C",
+          "text": "Al Congreso, porque todas las compras del Estado deben aprobarse por ley.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Congreso aprueba el presupuesto general, pero la administración cotidiana de un hospital es una gestión ejecutiva."
+        },
+        {
+          "letter": "D",
+          "text": "A la Rama Legislativa, porque las leyes determinan qué equipos comprar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una ley puede establecer reglas generales de salud, pero la elección de un equipo concreto es una decisión administrativa."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La Rama Ejecutiva es la rama que administra y ejecuta las decisiones del Estado en el día a día. En el caso de la salud, los ministerios y las entidades del sistema de salud dirigen la operación de los hospitales públicos, la compra de equipos y la asignación de recursos. Entender que administrar también es una función pública ayuda a los estudiantes a valorar cómo se usa el dinero público. También muestra por qué los ciudadanos pueden pedir rendición de cuentas sobre esas compras.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-6-2026-W03-los-poderes-publicos-y-el-estado-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W03-los-poderes-publicos-y-el-estado-001-MASTERY-bundle-v5",
+      "statement": "En el debate, un estudiante afirma: \"El alcalde puede crear cualquier norma que le parezca necesaria\". ¿Qué respuesta corrige correctamente esa afirmación?",
+      "context": "En un colegio de Cúcuta, un noveno grado organiza un debate sobre una medida municipal que afecta el uso del espacio público.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es correcta, porque el alcalde dirige el municipio y decide sobre todas sus asuntos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El alcalde dirige el municipio, pero sus acciones están limitadas por la ley y no puede crear normas que contradigan la Constitución oulae leyes nacionales."
+        },
+        {
+          "letter": "B",
+          "text": "Es correcta, porque la Constitución deja la organización interna de los municipios sin regulación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Constitución y la ley organizan la autonomía municipal y definen qué puede hacer cada autoridad local."
+        },
+        {
+          "letter": "C",
+          "text": "Es incorrecta, porque solo el Congreso puede tomar cualquier decisión sobre un municipio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Congreso legisla a nivel nacional; la administración municipal corresponde al alcalde y al concejo, con límites legales."
+        },
+        {
+          "letter": "D",
+          "text": "Es incorrecta, porque el alcalde expide normas locales dentro de sus competencias y debe respetar la ley.",
+          "is_correct": true,
+          "feedback": "Correcto. El alcalde tiene facultades propias en el Plan de Desarrollo Municipal, pero no puede apartarse del marco legal nacional."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La autonomía municipal significa que los municipios tienenissan autoridades propias, pero no significa independencia absoluta. El alcalde y el concejo ejercen competencias definidas por la Constitución y por la ley, y sus decisiones deben respetar los derechos de las personas. Reconocer estos límites evita dos errores opuestos: creer que el alcalde puede hacer lo que quiera o creer que no puede decidir nada. También muestra cómo la norma protege a los ciudadanos frente al poder local.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.78,
+      "bundle_id": "CO-SOC-6-2026-W03-los-poderes-publicos-y-el-estado-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W03-los-poderes-publicos-y-el-estado-001-MASTERY-bundle-v6",
+      "statement": "Un estudiante afirma que un juez puede apartarse de una ley cuando la considera injusta, porque su conciencia lo obliga. ¿Qué análisis es más sólido?",
+      "context": "En un debate del grado sexto en Bucaramanga se discute si un juez puede ignorar una ley que le parece injusta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El juez tiene razón, porque la conciencia personal está por encima de la ley.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque la conciencia ethical es importante, el juez debe aplicar la Constitución y la ley dentro del marco competencial que le asigna la propia norma."
+        },
+        {
+          "letter": "B",
+          "text": "El juez no puede apartarse por cuenta propia, pero puede señalar la contradicción y pedir que otra instancia revise el caso.",
+          "is_correct": true,
+          "feedback": "Correcto. La acción de tutela y los recursosossary de revisión permiten que una decisión se revise ante una autoridad superior, sin que el juez ignore la norma por sí mismo."
+        },
+        {
+          "letter": "C",
+          "text": "El juez puede inaplicar la ley cuando le parece injusta, sin necesidad de justificarlo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La posibilidad de inaplicar una norma sin control dejaría sin efecto la seguridad jurídica y la separación de poderes."
+        },
+        {
+          "letter": "D",
+          "text": "La discusión es inválida, porque los jueces no pueden examinar la Constitución en sus decisiones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La aplicación de la Constitución es precisamente una de las funciones esenciales de la Rama Judicial."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La independencia judicial no significa arbitrariedad: significa que el juez decide sin recibir órdenes de otras ramas y siguiendo procedimientos establecidos. Un juez que considera que una decisiónget vulnera un derecho puede pedir su revisión mediante las acciones contempladas en la Constitución. Lade mezcla entre conciencia personal y aplicación de la ley es un ejercicio de análisis de alto nivel para estudiantes de sexto grado. Discutir este caso desarrolla pensamiento crítico frente al poder judicial.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reflexión ética y política",
+      "expected_success": 0.72,
+      "bundle_id": "CO-SOC-6-2026-W03-los-poderes-publicos-y-el-estado-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W03-los-poderes-publicos-y-el-estado-001-MASTERY-bundle-v7",
+      "statement": "Why banco electoral de la junta escolar registra la participación de los estudiantes. ¿Qué relación tiene ese registro con los principios del Estado?",
+      "context": "La Painter de un colegio de Villavicencio lleva un registro de la asistencia de sus estudiantes a las elecciones de la junta escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No tiene relación, porque las elecciones de junta escolar son asunto privado de cada familia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La participación en instancias escolares es un asunto de interés público porque afecta decisiones sobre la comunidad educativa."
+        },
+        {
+          "letter": "B",
+          "text": "Solo sirve para presionar a quienes no votan, porque el voto es una obligación legal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En Colombia el voto es principalmente un derecho; usarlo como mecanismo de control social requiere participación voluntaria y informada."
+        },
+        {
+          "letter": "C",
+          "text": "Es un mecanismo de participación y rendición de cuentas, propios de un Estado que reconoce a sus ciudadanos.",
+          "is_correct": true,
+          "feedback": "Correcto. Registrar la participación permite transparentar la representación y demuestra que el Estado reconoce el derecho de la comunidad a intervenir en los asuntos públicos."
+        },
+        {
+          "letter": "D",
+          "text": "Demuestra que el Estado delegó la educación a la comunidad, por lo que el registro es innecesario.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Delegar funciones no elimina la necesidad de transparencia ni de rendición de cuentas sobre lo que se decide."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los registros de participación son herramientas de transparencia que permiten a la comunidad saber a quién representa y cómo se toman las decisiones. Cuando el Estado reconoce a sus ciudadanos como sujetos con derecho a intervenir, necesita mechanisms de rendición de cuentas. Estos registros conectan el concepto de Estado con la vida cotidiana de la escuela. También permiten identificar pendientes, como la baja participación de ciertos grupos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-6-2026-W03-los-poderes-publicos-y-el-estado-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W03-los-poderes-publicos-y-el-estado-001-MASTERY-bundle-v8",
+      "statement": "Un participante afirma que un municipio es un Estado en pequeño porque tiene gobernador, alcalde y normas propias. ¿Cuál es el análisis más preciso?",
+      "context": "En un foro escolar de Manizales se compara el Estado colombiano con la administración de un municipio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una comparación útil para entender la organización territorial, pero el municipio no tiene la misma soberanía nacional del Estado.",
+          "is_correct": true,
+          "feedback": "Correcto. Comparar ambas estructuras ayuda a comprender cómo se organiza el poder, pero solo el Estado tiene soberanía plena y reconocimiento internacional."
+        },
+        {
+          "letter": "B",
+          "text": "Es exactamente igual, porque los municipios y el Estado tienen las mismas competencias y autoridades.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las competencias del municipio están delimitadas por la ley y sus decisiones no pueden contradecir la Constitución nacional."
+        },
+        {
+          "letter": "C",
+          "text": "No tiene sentido, porque en Colombia no existe la figura del municipio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El municipio es una entidad territorial fundamental en la Constitución colombiana desde 1991."
+        },
+        {
+          "letter": "D",
+          "text": "Es una comparación correcta, porque la soberanía se hereda automáticamente alაში municipal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La soberanía nacional no se hereda a los municipios: la autonomía municipal existe dentro del Estado y con límites legales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Colombia es un Estado unitario y los municipios hacen parte de su organización territorial. Comparar la estructura municipal con la del Estado ayuda a los estudiantes a visualizar niveles de gobierno distintos. Sin embargo, esta comparación tiene límites: los municipios no son soberanos, sus competencias están definidas por la ley y sus decisiones están sometidas al control constitucional y judicial. Reconocer estos límites evita confundir autonomía con soberanía.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-6-2026-W03-los-poderes-publicos-y-el-estado-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W03-los-poderes-publicos-y-el-estado-001-MASTERY-bundle-v9",
+      "statement": "Un estudiante propone que el presupuesto que la escuela destina al programa de convivencia se use para comprar equipos deportivos, porque son actividades más Permanentes. ¿Qué argumento es el más sólido para evaluar esa propuesta?",
+      "context": "En una asamblea de grado sexto en Pasto, un estudiante propone reducir el presupuesto de la-convivencia de la escuela para comprar equipos deportivos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La propuesta debe evaluarse comparando el costo y el beneficio de ambas opciones, considerando que la convivencia afecta el bienestar de todos los estudiantes.",
+          "is_correct": true,
+          "feedback": "Correcto. Evaluar con argumentos exige comparar opciones, pesar efectos sobre la comunidad y justificar la decisión, no solo expresar una preferencia."
+        },
+        {
+          "letter": "B",
+          "text": "La propuesta es válida porque los equipos deportivos los usan todos los días y la convivencia solo en algunos momentos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El argumento apela a una preferencia y no demuestra que la convivencia sea menos importante para el bienestar de la comunidad."
+        },
+        {
+          "letter": "C",
+          "text": "La propuesta es inválida porque ningún estudiante puede proponer cambios al presupuesto escolar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los estudiantes sí pueden proponer y discutir, la asamblea evalúa la propuesta con argumentos, no se descarta por quien la presenta."
+        },
+        {
+          "letter": "D",
+          "text": "La propuesta es inválida porque solo la junta directiva debe decidir cómo se usa el presupuesto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Exagerar la exclusividad de una autoridad para descartar el diálogo no constituye un argumento sólido."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar una propuesta pública exige comparar opciones, identificar efectos y justificar con criterios explícitos. La convivencia escolar influye en el bienestar de toda la comunidad educativa, mientras que los equipos deportivos tienen un valor recreativo real. Un buen argumento reconoce ambos valores y explica por qué se prioriza uno sobre otro. Descartar una propuesta por quien la propone, o sin comparar alternativas, es un razonamiento débil.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reflexión ética y política",
+      "expected_success": 0.65,
+      "bundle_id": "CO-SOC-6-2026-W03-los-poderes-publicos-y-el-estado-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W03-los-poderes-publicos-y-el-estado-001-MASTERY-bundle-v10",
+      "statement": "En el foro, alguien afirma: \"Conocer el texto de la Constitución es suficiente para cumplir con ella\". ¿Qué valoración de esa afirmación es la más adecuada?",
+      "context": "En un foro regional de los décimo años en Medellín se discute si basta conocer la Constitución o si es necesario respetar los derechos de los demás.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es correcta, porque el conocimiento de la norma es el único requisito para que se respete.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Conocer la norma es un punto de partida, pero su cumplimiento exige que las acciones y decisiones respeten efectivamente los derechos."
+        },
+        {
+          "letter": "B",
+          "text": "Es correcta, porque las constituciones solo tienen valor simbólico y no generan obligaciones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Constitución es la norma superior del ordenamiento colombiano y vincula a todas las personas y autoridades."
+        },
+        {
+          "letter": "C",
+          "text": "Es incorrecta, porque conocer el texto no garantiza que se respeten los derechos; el cumplimiento exige aplicarlos en las decisiones y en las conductas.",
+          "is_correct": true,
+          "feedback": "Correcto. La Constitución tiene fuerza normativa: obliga, y no solo informa. Su respeto se verifica en el comportamiento de las personas y en las decisiones del Estado."
+        },
+        {
+          "letter": "D",
+          "text": "Es incorrecta, porque la Constitución cambió y ya no reconoce ningún derecho.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Constitución de 1991 incorpora un catálogo amplio de derechos y deberes que sigue vigente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La Constitución no es un texto que se memoriza para un examen: es la norma que organiza el Estado y reconoce derechos. Conocer sus reglas permite entender los límites de la acción pública y privada, pero el cumplimiento se comprueba en la práctica. Reconocer la diferencia entre conocer una norma y aplicarla es una habilidad de pensamiento crítico. Esta distinción prepara a los estudiantes paraymm_IDENTIFY participar de forma consciente en la vida pública.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.65,
+      "bundle_id": "CO-SOC-6-2026-W03-los-poderes-publicos-y-el-estado-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}
