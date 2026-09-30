@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-23-grade-10-subject-lectura_critica",
+    "generated_at": "2026-09-30T16:29:28.741Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-10-2026-W23-el-ensayo-y-la-tesis-argumentativa-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la tesis que Mariana defiende en el Texto 1?",
+      "context": "En Sincelejo, la profesora de Lectura Crítica pide al grupo de décimo grado que anote la tesis que Mariana defiende en el Texto 1.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el archivo digital no debe sustituir el borrador escrito a mano, porque redactar a mano obliga a escribir con las propias palabras y permite corregir sin ayuda externa.",
+          "is_correct": true,
+          "feedback": "Correcto. Es la afirmación que el episodio presenta como posición propia y que los párrafos siguientes desarrollan y sostienen."
+        },
+        {
+          "letter": "B",
+          "text": "Que la entrega de trabajos finales debe hacerse siempre en archivos digitales, porque ese formato permite terminar más rápido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mariana sostiene lo contrario, y la rapidez de la entrega no aparece como argumento en el texto."
+        },
+        {
+          "letter": "C",
+          "text": "Que la corrección de la ortografía resulta más sencilla con un archivo digital que con el borrador escrito a mano.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tesis de Mariana afirma justamente lo contrario: la corrección sin ayuda favorece el borrador escrito a mano."
+        },
+        {
+          "letter": "D",
+          "text": "Que el formato digital y el papel deben alternarse según la asignatura, porque cada materia exige un tipo de entrega distinto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El acuerdo del cuarto párrafo distingue entre entregas diarias y presentación final, no entre asignaturas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Identificar la tesis antes de leer el resto del texto evita confundirla con el tema. Una tesis es la respuesta que el autor asume y sostiene, no el asunto del que habla. Reconocerla desde la primera lectura permite seguir después el argumento que la sostiene y evaluar si ese argumento cumple lo que promete.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Literal",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-10-2026-W23-el-ensayo-y-la-tesis-argumentativa-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W23-el-ensayo-y-la-tesis-argumentativa-001-MASTERY-bundle-v2",
+      "statement": "¿Cómo está organizado el Texto 1 y qué función cumple cada una de sus partes?",
+      "context": "En Sincelejo, el grupo de décimo grado cuenta los párrafos del Texto 1 para entender la estructura del ensayo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En dos partes, una definición del problema y una conclusión, sin argumentos intermedios que las conecten.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto recorre cuatro párrafos e incluye un argumento central y una objeción, que no son meras definiciones."
+        },
+        {
+          "letter": "B",
+          "text": "En cuatro párrafos idénticos que repiten la misma idea con otras palabras, sin cambiar de función.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los cuatro párrafos no repiten lo mismo: uno define, otro afirma, otro admite una objeción y el último propone."
+        },
+        {
+          "letter": "C",
+          "text": "En cuatro párrafos que narran la experiencia personal de quien escribe, sin tesis ni estructura argumentativa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El episodio sí contiene una tesis asumida y una secuencia de argumentos, que es lo que lo convierte en ensayo."
+        },
+        {
+          "letter": "D",
+          "text": "En cuatro párrafos: define el problema, sostiene una ventaja del formato escrito a mano, registra una objeción y cierra con un acuerdo.",
+          "is_correct": true,
+          "feedback": "Correcto. La secuencia coincide con la estructura clásica del ensayo y cada párrafo cumple una función identificable."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Reconocer la estructura de un ensayo ayuda a leer con una expectativa clara. Cada párrafo cumple una tarea: presentar el problema, sostener una posición, anticipar la objeción más fuerte y cerrar con una síntesis. Esa secuencia explica por qué un texto argumentativo convence en lugar de limitarse a afirmar.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Textual",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-10-2026-W23-el-ensayo-y-la-tesis-argumentativa-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W23-el-ensayo-y-la-tesis-argumentativa-001-MASTERY-bundle-v3",
+      "statement": "¿Qué diferencia semántica hay entre el primer párrafo de Mariana en el Texto 1 y el primer párrafo de la ficha del Texto 2?",
+      "context": "En Pereira, el comité de décimo grado compara la apertura del Texto 1 con la apertura del Texto 2.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mariana anuncia un resultado medido y el comité anuncia una opinión personal sin datos que la respalden.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguno de los dos textos anuncia resultados medidos, y los dos ofrecen una posición argumentada."
+        },
+        {
+          "letter": "B",
+          "text": "Mariana presenta un problema ya resuelto y el comité deja el problema explícitamente sin resolver.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El problema está abierto en ambos textos, y la diferencia se encuentra en la posición que cada autor asume."
+        },
+        {
+          "letter": "C",
+          "text": "Mariana fija desde el comienzo una posición sobre el formato de entrega, mientras el comité solo enuncia el debate y promete resolverlo con una propuesta.",
+          "is_correct": true,
+          "feedback": "Correcto. La diferencia es de posición comprometida: una respuesta ya asumida frente a una decisión todavía pendiente."
+        },
+        {
+          "letter": "D",
+          "text": "Mariana escribe en un registro coloquial y el comité escribe en un registro técnico que ningún estudiante puede seguir.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El registro de los dos textos es académico y comprensible, y esa diferencia no aparece en ninguno de ellos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Leer con atención la primera oración revela si la posición del autor está asumida o todavía en discusión. En un ensayo, esa decisión marca todo lo que viene después: la tesis, los argumentos elegidos y la forma de cerrar. Es un detalle pequeño que explica la diferencia entre un texto decidido y uno que apenas empieza a construirse.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semantico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-10-2026-W23-el-ensayo-y-la-tesis-argumentativa-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W23-el-ensayo-y-la-tesis-argumentativa-001-MASTERY-bundle-v4",
+      "statement": "Cuatro oraciones esperan ocupar un lugar distinto en el ensayo del grado. ¿Cuál clasificación es correcta?",
+      "context": "En Armenia, la profesora propone al grupo de décimo grado clasificar cuatro oraciones antes de construir el propio ensayo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todas son tesis, porque las cuatro hablan del mismo problema de formatos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Compartir un tema no convierte a cada oración en tesis, y el texto argumentativo necesita funciones distintas en cada aparte."
+        },
+        {
+          "letter": "B",
+          "text": "Una es tesis, una es argumento, una es contraargumento y una es conclusión.",
+          "is_correct": true,
+          "feedback": "Correcto. La clasificación reconoce las cuatro funciones que un ensayo bien construido necesita para sostenerse."
+        },
+        {
+          "letter": "C",
+          "text": "Solo la primera es tesis, y las otras tres son ejemplos que ilustran lo mismo que ella.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un ejemplo se limita a sustentar, mientras el contraargumento y la conclusión cumplen tareas propias que no ilustrar."
+        },
+        {
+          "letter": "D",
+          "text": "Son dos tesis, porque la segunda y la tercera oraciones también afirman una posición general sobre el problema.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una segunda afirmación general debilita el ensayo en lugar de reforzarlo, y aquí cada oración cumple un papel distinto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Distinguir tesis, argumento, contraargumento y conclusión evita la repetición disimulada. Cada función aporta algo distinto a la persuasión, y confundirlas produce ensayos que dicen lo mismo cuatro veces. Esta clasificación es la base del esquema de un trabajo argumentativo bien organizado.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-10-2026-W23-el-ensayo-y-la-tesis-argumentativa-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W23-el-ensayo-y-la-tesis-argumentativa-001-MASTERY-bundle-v5",
+      "statement": "Un párrafo defiende que el libro impreso permite concentrarse mejor y el siguiente admite que la pantalla facilita buscar información. ¿Qué conector expresa la relación correcta entre ambos?",
+      "context": "En Armenia, el comité editorial revisa la conexión entre los párrafos de un ensayo nuevo del periódico escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En consecuencia, porque la segunda idea se deduce directamente de la primera.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La segunda idea admite una limitación de la primera, y no se deduce de ella."
+        },
+        {
+          "letter": "B",
+          "text": "Sin embargo, porque la segunda idea contradice directamente lo afirmado en el párrafo anterior.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La segunda idea no contradice a la primera, sino que amplía el panorama aceptando un beneficio del otro formato."
+        },
+        {
+          "letter": "C",
+          "text": "No obstante, porque la segunda idea reconoce un límite de la posición sostenida en el primer párrafo.",
+          "is_correct": true,
+          "feedback": "Correcto. La relación es de concesión, y ese conector le indica al lector que el autor anticipa la objeción más fuerte a su propia tesis."
+        },
+        {
+          "letter": "D",
+          "text": "Es decir, porque la segunda idea explica con otras palabras lo que ya dijo la primera.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las dos ideas tratan de beneficios distintos de cada formato, y la segunda no resume a la primera."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los conectores hacen visible la lógica interna de un texto. Saber cuándo usar una concesión, una causa o una consecuencia evita que el lector tenga que adivinar cómo se relacionan los párrafos. En el ensayo, esa lógica es la columna vertebral de la argumentación y por eso conviene escolherla con cuidado.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-10-2026-W23-el-ensayo-y-la-tesis-argumentativa-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W23-el-ensayo-y-la-tesis-argumentativa-001-MASTERY-bundle-v6",
+      "statement": "El comité quiere sostener que el formato no es el problema central de la lectura. ¿Cuál formulación respeta el alcance de una tesis de ensayo?",
+      "context": "En Pereira, la profesora pide al grupo de décimo grado que construya la tesis de un ensayo sobre la lectura en pantallas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "«La dificultad de la lectura no depende solo del formato, sino de la concentración y de los hábitos de estudio».",
+          "is_correct": true,
+          "feedback": "Correcto. La formulación acota la afirmación a lo que el texto puede sostener y abre la puerta a una argumentación comprobable."
+        },
+        {
+          "letter": "B",
+          "text": "«Ningún estudiante lee bien hoy en día, sin importar qué formato use».",
+          "is_correct": false,
+          "feedback": "Incorrecto. La formulación convierte una observación sobre el formato en un juicio absoluto sobre todos los estudiantes."
+        },
+        {
+          "letter": "C",
+          "text": "«El libro impreso siempre será más eficaz que cualquier pantalla para aprender un tema difícil».",
+          "is_correct": false,
+          "feedback": "Incorrecto. La formulación incluye un absoluto comparativo, y nada en los textos permite sostener esa superioridad."
+        },
+        {
+          "letter": "D",
+          "text": "«El tiempo de estudio con pantalla siempre es mejor que el tiempo de estudio con papel».",
+          "is_correct": false,
+          "feedback": "Incorrecto. La formulación repite un absoluto que el texto no demuestra y que además resulta difícil de sostener con evidencia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una tesis de ensayo debe ser discutible, acotada y contestable. Evitar absolutos y abrir espacio al desacuerdo no debilita el texto: le da un alcance honesto que los argumentos pueden sostener. Formular en esos términos ahorra debates estériles durante la redacción final.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semantico",
+      "expected_success": 0.86,
+      "bundle_id": "CO-LC-10-2026-W23-el-ensayo-y-la-tesis-argumentativa-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W23-el-ensayo-y-la-tesis-argumentativa-001-MASTERY-bundle-v7",
+      "statement": "Un equipo ya desarrolló sus tres argumentos y necesita redactar la conclusión. ¿Qué redacción cumple mejor esa función?",
+      "context": "En Sincelejo, el grupo de décimo grado prepara la conclusión de su propio ensayo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una frase que reitere la tesis, seguida de dos párrafos que agreguen ejemplos nuevos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Repetir la tesis sin sintetizar los argumentos deja el cierre sin balance, y los ejemplos nuevos pertenecen al cuerpo."
+        },
+        {
+          "letter": "B",
+          "text": "Una frase que reitere la tesis y sintetice los tres argumentos en una sola formulación que cierre el problema planteado.",
+          "is_correct": true,
+          "feedback": "Correcto. La conclusión combina repetición y síntesis, y cierra el texto sin abrir temas que el ensayo no desarrolló."
+        },
+        {
+          "letter": "C",
+          "text": "Una frase que exponga por fin la posición que el autor había ocultado al principio del ensayo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En un ensayo la posición se declara desde la introducción, y ocultarla contradice la honestidad del texto."
+        },
+        {
+          "letter": "D",
+          "text": "Una frase que anuncie temas para otros ensayos, con el fin de abrir el debate a la comunidad escolar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Anunciar otros temas desplaza la atención del problema ya desarrollado, y esa es una tarea de la introducción."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La conclusión de un ensayo reitera la posición y la sostiene con el balance de lo ya demostrado. No introduce información nueva ni temas laterales, porque eso debilita el cierre. Practicar esta función por separado ayuda a que el equipo no termine con una conclusión que parece un resumen vacío.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LC-10-2026-W23-el-ensayo-y-la-tesis-argumentativa-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W23-el-ensayo-y-la-tesis-argumentativa-001-MASTERY-bundle-v8",
+      "statement": "¿Qué función cumple, para el conjunto del ensayo, el tercer párrafo del Texto 1?",
+      "context": "En Sincelejo, el grupo de décimo grado analiza el tercer párrafo del Texto 1 en relación con la tesis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Registrar la limitación de la propia tesis, admitiendo el riesgo de la pantalla antes de cerrar con un acuerdo que la matiza.",
+          "is_correct": true,
+          "feedback": "Correcto. El párrafo introduce una objeción, la sostiene con un riesgo concreto y prepara el equilibrio del cierre."
+        },
+        {
+          "letter": "B",
+          "text": "Introducir un ejemplo tomado del libro impreso que contradice directamente la tesis de Mariana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El párrafo no trae un ejemplo del libro impreso, y tampoco se opone a la tesis: la refuerza mostrando un riesgo."
+        },
+        {
+          "letter": "C",
+          "text": "Sustituir la tesis original por una posición nueva, porque el autor cambia de opinión al llegar a este punto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El párrafo reconoce un riesgo, y el acuerdo del cuarto párrafo confirma que la tesis inicial se mantiene."
+        },
+        {
+          "letter": "D",
+          "text": "Cerrar el ensayo con el acuerdo definitivo, aplazar la objeción para el final del episodio y dejarla sin responder.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto responde la objeción antes de proponer el acuerdo, y no la deja pendiente en ningún momento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reconocer la objeción fuerte antes de responderla es una técnica de persuasión clásica. Un texto que solo apoya su propia posición se vuelve frágil ante la primera pregunta difícil. Presentar la objeción y resolverla da más fuerza a la tesis que repetirla sin más.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.87,
+      "bundle_id": "CO-LC-10-2026-W23-el-ensayo-y-la-tesis-argumentativa-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W23-el-ensayo-y-la-tesis-argumentativa-001-MASTERY-bundle-v9",
+      "statement": "Si el Texto 2 cierra pidiendo que el colegio decida el formato de lectura para todo el año escolar, ¿qué problema se puede inferir del recorrido del texto?",
+      "context": "En Pereira, los estudiantes de décimo grado discuten qué le ocurre al Texto 2 cuando llega a su cierre.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El comité resuelve el problema en la última oración, y por eso el ensayo queda cerrado de manera satisfactoria.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La última oración amplía el alcance de la decisión, y esa ampliación no había sido discutida en el texto."
+        },
+        {
+          "letter": "B",
+          "text": "El comité ofrece la misma cantidad de argumentos a favor de cada formato, y por eso su petición no guarda relación con ellos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El comité sí desarrolla argumentos, y la relación entre esos argumentos y la petición es justamente el punto que se analiza."
+        },
+        {
+          "letter": "C",
+          "text": "El comité presenta una posición clara desde la introducción, y por eso su petición final resulta coherente con el resto del texto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El comité no declara una posición inicial, y esa ausencia es la causa del problema del cierre."
+        },
+        {
+          "letter": "D",
+          "text": "El comité reconoce que ambos formatos sirven, pero pide una decisión general que el desarrollo del texto no alcanza a fundamentar.",
+          "is_correct": true,
+          "feedback": "Correcto. La inferencia conecta el reconocimiento del cuarto párrafo con la fuerza desproporcionada de la petición final."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Un buen análisis sigue la distancia entre lo que un texto demuestra y lo que finalmente pide. Cuando el cierre pide más de lo que el desarrollo sostiene, la petición se vuelve frágil, aunque el texto sea honesto en sus admisiones. Detectar esa distancia es una habilidad de lectura muy útil para los textos de opinión reales.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Inferencial",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-10-2026-W23-el-ensayo-y-la-tesis-argumentativa-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W23-el-ensayo-y-la-tesis-argumentativa-001-MASTERY-bundle-v10",
+      "statement": "Una lectura afirma que el Texto 2 no resuelve el problema que plantea. ¿Por qué?",
+      "context": "En Pereira, la profesora pide al grupo de décimo grado que evalúe el cierre de la ficha de lectura del Texto 2.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el comité nunca menciona que la pantalla cansa la vista, que es el punto central del problema.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El comité sí menciona la fatiga visual, y el problema del texto no está en el planteo inicial."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el texto tiene solo cuatro páginas, y esa extensión resulta insuficiente para un debate serio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La extensión del texto no determina si el problema queda resuelto, y no es la base de la crítica."
+        },
+        {
+          "letter": "C",
+          "text": "Porque los argumentos se ocupan de los dos formatos por separado, y el cierre salta a una decisión general que ninguno de ellos permite sostener.",
+          "is_correct": true,
+          "feedback": "Correcto. La crítica señala exactamente dónde se rompe la relación entre argumentos y conclusión, sin depender de una impresión."
+        },
+        {
+          "letter": "D",
+          "text": "Porque en realidad el texto sí resuelve el problema: la petición final aplica directamente el reconocimiento del cuarto párrafo y cierra el debate.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El reconocimiento del cuarto párrafo trata de que los dos formatos permiten subrayar, y no se aplica al formato de lectura."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar un texto con criterios explícitos permite señalar el punto exacto en que su argumento falla, y no simplemente que no convence. El error más común en un ensayo no está en la calidad de los ejemplos, sino en pedir más de lo que ellos demuestran. Reconocerlo enseña a revisar el propio trabajo antes de entregarlo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.83,
+      "bundle_id": "CO-LC-10-2026-W23-el-ensayo-y-la-tesis-argumentativa-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W23-el-ensayo-y-la-tesis-argumentativa-001-MASTERY-bundle-v11",
+      "statement": "Frente a una rúbrica que exige tesis asumida, contraargumento resuelto y conclusión que no exceda lo demostrado, ¿cuál es el juicio mejor sostenido sobre los dos textos?",
+      "context": "En Armenia, la profesora de Lectura Crítica pide un juicio comparativo sobre los dos textos de la semana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los dos textos superan la rúbrica, porque los dos terminan con una petición concreta para el colegio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Pedir una decisión no es lo que exige la rúbrica, y el Texto 2 falla precisamente en el punto del cierre."
+        },
+        {
+          "letter": "B",
+          "text": "El Texto 1 se aproxima más al estándar, porque asume la tesis, anticipa la objeción y cierra dentro de lo demostrado, mientras el Texto 2 deja su posición abierta.",
+          "is_correct": true,
+          "feedback": "Correcto. El juicio aplica los tres criterios a cada texto y explica por qué la diferencia es de grado y no de naturaleza."
+        },
+        {
+          "letter": "C",
+          "text": "El Texto 2 supera al Texto 1, porque reconocer con honestidad la libertad de formato permite ver con más claridad la posición del comité.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Reconocer la libertad de formato no cumple los tres criterios de la rúbrica, y la ficha no desarrolla una tesis sostenida."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguno de los dos supera la rúbrica, porque ninguno presenta una tesis asumida desde el primer párrafo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Texto 1 sí asume su tesis desde el comienzo, de modo que la afirmación sobre los dos textos no se sostiene."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una rúbrica sirve para comparar textos con la misma vara y no para declarar ganador a quien escribe mejor prosa. Aplicar los mismos criterios a dos casos evita que la comparación dependa de la simpatía o de la familiaridad con el tema. Evaluar así enseña a mejorar el propio trabajo con criterios que cualquier lector puede aplicar.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-10-2026-W23-el-ensayo-y-la-tesis-argumentativa-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W23-el-ensayo-y-la-tesis-argumentativa-001-MASTERY-bundle-v12",
+      "statement": "El comité tiene ante sí los dos textos de la semana y un solo espacio de exposición. ¿Qué decisión está mejor justificada?",
+      "context": "En Sincelejo, el comité de grado debe decidir qué exposición de la semana usa para ilustrar la estructura del ensayo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Exponer solo el Texto 1, porque un único ejemplo de estructura bien construida ya demuestra el valor de la tesis argumentativa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un solo ejemplo no muestra la diferencia entre textos, y esa diferencia es la que permite aprender a evaluar el propio trabajo."
+        },
+        {
+          "letter": "B",
+          "text": "Exponer el Texto 2, porque su cierre pide una decisión escolar concreta que garantiza la participación de los estudiantes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Pedir una decisión no garantiza participación, y esa petición excede lo que el texto desarrolla."
+        },
+        {
+          "letter": "C",
+          "text": "Exponer los dos textos por igual, sin señalar diferencias, para que la audiencia juzgue por su cuenta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La exposición cumple una función orientadora, y presentarlos sin explicitar sus diferencias oculta lo que debe enseñar."
+        },
+        {
+          "letter": "D",
+          "text": "Exponer el Texto 1 como ejemplo de estructura completa, señalar en qué punto el Texto 2 se aparta de ese estándar y dejar para la discusión la tesis de cada texto.",
+          "is_correct": true,
+          "feedback": "Correcto. La decisión cumple una función didáctica clara y deja a la audiencia un criterio de análisis, no solo un ejemplo."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Decidir qué material exponer exige justificar la elección con un criterio explícito y ligado a la intención de la clase. Un buen ejemplo no se limita a mostrar lo correcto, también señala dónde falla el otro caso. Esa comparación es la que convierte una exposición en un verdadero ejercicio de pensamiento crítico.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Inferencial",
+      "expected_success": 0.86,
+      "bundle_id": "CO-LC-10-2026-W23-el-ensayo-y-la-tesis-argumentativa-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}

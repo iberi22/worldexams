@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-25-grade-10-subject-lectura_critica",
+    "generated_at": "2026-09-30T16:29:28.742Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-10-2026-W25-la-sintesis-y-la-organizacion-del-texto-argumentativo-001-MASTERY-bundle-v1",
+      "statement": "¿Qué dos posiciones sobre el celular en el aula sostienen Sara y Andrés en el Texto 1?",
+      "context": "En Medellín, la profesora de Lectura Crítica pide al grupo de décimo grado que anote las dos posiciones que sostienen Sara y Andrés en el episodio del Texto 1.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sara atribuye la pérdida de dos materias al celular que distrajo a sus compañeros, y Andrés atribuye esa misma distracción a las conversaciones del patio, donde el celular solo servía para consultar trabajos.",
+          "is_correct": true,
+          "feedback": "Correcto. Las dos posiciones se distinguen por el lugar donde sitúan la distracción: el aula en un caso y el patio en el otro."
+        },
+        {
+          "letter": "B",
+          "text": "Sara sostiene que el celular nunca distrajo a nadie, y Andrés sostiene que las conversaciones del patio sí lo hicieron durante todo el período.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sara sí atribuye una pérdida de materias al celular, y el Texto 1 no menciona una distracción durante todo el período."
+        },
+        {
+          "letter": "C",
+          "text": "Sara pide outright la prohibición del celular en el patio, y Andrés defiende que el dispositivo solo se use en la biblioteca pública del colegio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguno de los dos pide una prohibición, y el episodio no menciona la biblioteca ni un acuerdo de uso."
+        },
+        {
+          "letter": "D",
+          "text": "Sara y Andrés proponen la misma solución y solo discuten si el dispositivo debe permitirse durante el descanso o únicamente en la clase de química.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El episodio enfrenta dos explicaciones distintas y no llega a acordar una solución, de modo que ese acuerdo no aparece."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Registrar por separado lo que dice cada participante evita mezclarlos desde el principio. Un lector crítico identifica en cada posición su causa, su dato y su conclusión. Ese inventario ordenado es la base de una síntesis que no invente acuerdos donde no los hay.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Literal",
+      "expected_success": 0.94,
+      "bundle_id": "CO-LC-10-2026-W25-la-sintesis-y-la-organizacion-del-texto-argumentativo-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W25-la-sintesis-y-la-organizacion-del-texto-argumentativo-001-MASTERY-bundle-v2",
+      "statement": "Según el Texto 1, ¿qué hace la síntesis de Julián con las dos posiciones del episodio?",
+      "context": "En Medellín, el grupo analiza cómo construyó Julián la síntesis que se escucha al final del episodio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Elige la posición de Sara, porque la pérdida de dos materias es el único dato verificable del episodio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La síntesis no descarta ninguna de las dos posiciones, y el Texto 1 no habla de verificabilidad de datos."
+        },
+        {
+          "letter": "B",
+          "text": "Elige la posición de Andrés, porque el uso del celular para consultar trabajos explica mejor la distracción en las aulas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La síntesis no privilegia a Andrés, y su propósito declarado es reunir las dos razones, no elegir entre ellas."
+        },
+        {
+          "letter": "C",
+          "text": "Reúne las dos posiciones y las ordena a partir de lo que comparten, pero no resuelve la diferencia ni indica qué medida debe tomarse.",
+          "is_correct": true,
+          "feedback": "Correcto. La síntesis ordena lo común y deja pendiente el punto de desacuerdo, que es justo lo que impide cerrar el episodio."
+        },
+        {
+          "letter": "D",
+          "text": "Descarta las dos posiciones y las sustituye por una afirmación nueva sobre el uso de la tecnología en el colegio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Julián no formula una afirmación nueva, y su síntesis se construye únicamente con lo que ya dijeron Sara y Andrés."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Ordenar por lo común es un movimiento legítimo de síntesis, pero no es el único. El lector debe preguntar además si el texto resolved la diferencia. Si al final quedan dos causas distintas y ninguna medida propuesta, el texto está ordenado pero incompleto.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Textual",
+      "expected_success": 0.93,
+      "bundle_id": "CO-LC-10-2026-W25-la-sintesis-y-la-organizacion-del-texto-argumentativo-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W25-la-sintesis-y-la-organizacion-del-texto-argumentativo-001-MASTERY-bundle-v3",
+      "statement": "En el Texto 2, ¿qué designa la expresión «responder a la objeción»?",
+      "context": "En Pereira, la alumna de décimo grado explica al comité del periódico qué quiso decir con una frase de su artículo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la autora deja su tesis a un lado para dar la razón a los docentes que alegan falta de formación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El artículo no retira la tesis, y responder una objeción no consiste en abandonar la posición propia."
+        },
+        {
+          "letter": "B",
+          "text": "Que la autora repite la objeción de los docentes con otras palabras, sin aportar nada de su parte.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si solo se repitiera, el texto no avanzaría, y el comité no habría señalado una diferencia entre las posiciones."
+        },
+        {
+          "letter": "C",
+          "text": "Que la autora aplaza su respuesta hasta el final del artículo, de modo que la objeción queda sin contestar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Texto 2 dice que ella responde, y lo que se critiqua después es la calidad de esa respuesta."
+        },
+        {
+          "letter": "D",
+          "text": "Que la autora toma la razón que se le opone y la enfrenta con argumentos propios dentro del mismo texto.",
+          "is_correct": true,
+          "feedback": "Correcto. Responder una objeción es incorporarla al desarrollo del argumento, no dejarla aparte ni dejarla sin tratar."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Comprender el sentido de una expresión técnica del texto evita interpretar mal su organización. Responder a una objeción implica conservarla dentro del discurso y enfrentarla, y esa distinción separa una argumentación completa de una que solo menciona el desacuerdo. La claridad de estos conceptos sostiene el análisis crítico de la macroestructura.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semantico",
+      "expected_success": 0.91,
+      "bundle_id": "CO-LC-10-2026-W25-la-sintesis-y-la-organizacion-del-texto-argumentativo-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W25-la-sintesis-y-la-organizacion-del-texto-argumentativo-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es el conjunto de elementos que esa síntesis debe incluir para cumplir la tarea?",
+      "context": "En Medellín, la profesora entrega al grupo de décimo grado la tarea de escribir la síntesis del episodio para el archivo del podcast escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La cantidad total de palabras del episodio, la duración del audio y la fecha de grabación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esas tres referencias describen el material de origen y no ayudan a quien no lo escuchó a definir la discusión."
+        },
+        {
+          "letter": "B",
+          "text": "La idea principal, la diferencia central entre las dos posiciones y la consecuencia que se deriva de esa diferencia.",
+          "is_correct": true,
+          "feedback": "Correcto. Ese conjunto responde al uso pragmático de una síntesis: contar de qué seusiones, en qué disent*y qué se sigue."
+        },
+        {
+          "letter": "C",
+          "text": "La opinión de la profesora, la de Sara y la de Andrés, en el mismo orden en que aparecen en el episodio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un resumen ordenado por turnos no informa al oyente sobre la estructura del problema, y omite la consecuencia."
+        },
+        {
+          "letter": "D",
+          "text": "Todos los datos citados en el episodio, con su fuente completa, para que nadie pueda alegar que falta información.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una síntesis selecciona, y la tarea no pide una transcripción ni una bibliografía, sino un resumen utilizable."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Definir los elementos obligatorios de una síntesis es el primer paso de la práctica de lectura argumentativa. El uso pragmático del texto indica quién lo lee y para qué: un oyente nuevo necesita la diferencia entre las posiciones, no el inventario completo del material. Aplicar ese criterio evita las síntesis que solo reproducen el original.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-10-2026-W25-la-sintesis-y-la-organizacion-del-texto-argumentativo-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W25-la-sintesis-y-la-organizacion-del-texto-argumentativo-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál de las siguientes aperturas representa mejor la organización real del artículo?",
+      "context": "En Pereira, el comité del periódico pide al grupo de décimo grado que redacte la primera frase de la síntesis del Texto 2.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "«El artículo defiende ampliar el uso de tableros digitales, expone la objeción de los docentes por falta de formación y la responde, para luego volver a su idea inicial».",
+          "is_correct": true,
+          "feedback": "Correcto. La frase recoge la secuencia completa del texto, incluido el retorno a la tesis sin elementos nuevos."
+        },
+        {
+          "letter": "B",
+          "text": "«El artículo demuestra que los tableros digitales pueden reemplazar al docente en la explicación de las clases».",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa conclusión no aparece en el texto, y el Texto 2 nunca propone sustituir al docente."
+        },
+        {
+          "letter": "C",
+          "text": "«El artículo enumera tres datos de escolaridad y luego abandona la defensa de los tableros digitales para dar la razón a los docentes».",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no abandona su tesis, y la respuesta a la objeción forma parte de la defensa original."
+        },
+        {
+          "letter": "D",
+          "text": "«El artículo expone la posición del comité del periódico y la usa para rechazar la propuesta de ampliar los tableros digitales».",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tesis pertenece a la alumna firmante, y el comité solo aparece después, cuando solicita la síntesis."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una apertura de síntesis debe describir la trayectoria del texto original, no su Suposición. Reconocer dónde está la tesis, dónde la objeción y dónde el regreso a la idea inicial permite escribir un resumen que un lector ausente pueda seguir. Es la diferencia entre resumir y parafrasear sin criterio.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.89,
+      "bundle_id": "CO-LC-10-2026-W25-la-sintesis-y-la-organizacion-del-texto-argumentativo-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W25-la-sintesis-y-la-organizacion-del-texto-argumentativo-001-MASTERY-bundle-v6",
+      "statement": "Según lo que muestra el episodio, ¿cuál uso del conector es el más adecuado?",
+      "context": "En Medellín, un equipo de décimo grado debe unir en un mismo párrafo las dos posiciones del Texto 1.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "«Por lo tanto» después de exponer las dos posiciones, porque de ellas se deduce un único acuerdo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay acuerdo entre Sara y Andrés, y ese conector anuncia una conclusión que el episodio no alcanza."
+        },
+        {
+          "letter": "B",
+          "text": "«En conclusión» al final del segundo párrafo, porque así se anuncia un acuerdo entre los dos participantes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La conclusión no puede anticipar un acuerdo inexistente, y el texto termina precisamente sin resolver la diferencia."
+        },
+        {
+          "letter": "C",
+          "text": "«Por ejemplo» entre la síntesis y el episodio, porque el episodio ilustra un caso particular de lo que dice la síntesis.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La relación es de Síntesis a desarrollo, no de ejemplo a regla, y ese conector invierte los papeles."
+        },
+        {
+          "letter": "D",
+          "text": "«Mientras Sara sitúa la distracción en el aula, Andrés la sitúa en el patio», porque el conector contrapone las dos posiciones y deja la diferencia explícita.",
+          "is_correct": true,
+          "feedback": "Correcto. El uso contrastivo respeta el contenido del episodio y hace visible el desacuerdo en lugar de ocultarlo."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El conector no es un adorno: fija la relación lógica entre lo que el texto dice. Usar un conector de conclusión donde no hay acuerdo produce una síntesis falsa, mientras que un conector de contraste permite presentar las dos posiciones con fidelidad. Esa es una habilidad útil en cualquier disciplina y en el uso diario del lenguaje.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-10-2026-W25-la-sintesis-y-la-organizacion-del-texto-argumentativo-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W25-la-sintesis-y-la-organizacion-del-texto-argumentativo-001-MASTERY-bundle-v7",
+      "statement": "¿Qué problema presenta la síntesis de Julián como organización del episodio?",
+      "context": "En Medellín, el grupo de décimo grado rebuilde la síntesis del Texto 1 en un árbol de ideas de tres ramas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es demasiado corta para un episodio de doce minutos, de modo que no alcanza a recoger los datos de los participantes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El problema no es la extensión, y una síntesis puede ser breve y aun así cumplir su función."
+        },
+        {
+          "letter": "B",
+          "text": "Ordena los dos argumentos por el rasgo que comparten y deja fuera el rasgo que los separa, que es la causa real del desacuerdo.",
+          "is_correct": true,
+          "feedback": "Correcto. La síntesis selecciona el punto común y descarta la diferencia, y por eso no permite decidir nada sobre el aula."
+        },
+        {
+          "letter": "C",
+          "text": "Emplea un lenguaje coloquial que no corresponde al registro de un episodio escolar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tono del episodio es adecuado y el problema está en qué se synthesisó, no en el registro empleado."
+        },
+        {
+          "letter": "D",
+          "text": "Aparece antes que los argumentos de Sara y de Andrés, de modo que el oyente no puede compararlos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Texto 1 sitúa la síntesis al final, y el orden de aparición no es el defecto que se analiza aquí."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un análisis de la organización interna identifica qué criterio usó el autor para agrupar las ideas y qué quedó por fuera. En este caso, agrupar por lo común es legítimo, pero insuficiente cuando lo que se necesita decidir depende justamente de la diferencia. La revisión de ese criterio es un ejercicio de pensamiento crítico aplicado a la propia escritura.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.87,
+      "bundle_id": "CO-LC-10-2026-W25-la-sintesis-y-la-organizacion-del-texto-argumentativo-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W25-la-sintesis-y-la-organizacion-del-texto-argumentativo-001-MASTERY-bundle-v8",
+      "statement": "¿Qué efecto tiene, en el conjunto del texto, que la autora entregue una frase de cierre en lugar del párrafo de síntesis que pedía el comité?",
+      "context": "En Pereira, el comité del periódico guarda la frase de cierre que entregó la alumna firmante del Texto 2.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Permite al comité completar lo que falta, porque el artículo contiene toda la información necesaria.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque el artículo contiene el material, la tarea era resumirlo, y el comité no puede rehacer el resumen del autor."
+        },
+        {
+          "letter": "B",
+          "text": "Contradice la tesis del artículo y obliga al comité a elegir entre las dos posiciones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase repite la tesis original, de modo que no se opone a ella ni obliga a decidir entre posiciones."
+        },
+        {
+          "letter": "C",
+          "text": "Entrega una conclusión sin el desarrollo que la sostiene, de modo que la respuesta a la objeción queda ausente del resumen.",
+          "is_correct": true,
+          "feedback": "Correcto. Al volver a la idea inicial sin elementos nuevos, la síntesis pierde justo el contenido que justificaba la respuesta."
+        },
+        {
+          "letter": "D",
+          "text": "Reduce la extensión del artículo y por eso lo hace más adecuado para el formato del podcast del colegio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El problema no es de longitud, y la síntesis debía ser un párrafo completo, no una frase aislada."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un resumen se evalúa por la relación entre lo que afirma y lo que permite entender del original. Cuando el cierre repite la tesis y suprime el desarrollo, se obtiene una afirmación sin explicación. Detectar ese desajuste enseña a revisar la propia escritura con la misma exigencia que se aplica a la de los demás.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.86,
+      "bundle_id": "CO-LC-10-2026-W25-la-sintesis-y-la-organizacion-del-texto-argumentativo-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W25-la-sintesis-y-la-organizacion-del-texto-argumentativo-001-MASTERY-bundle-v9",
+      "statement": "¿Qué juicio sobre los dos textos se sostiene mejor al contrastarlos?",
+      "context": "En Medellín, el grupo de décimo grado compara el episodio del Texto 1 con el artículo del Texto 2 antes de redactar su propia síntesis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los dos textos respondieron a la misma petición, pero solo en Medellín la síntesis quedó incompleta, porque allí faltaba la medida y en Pereira faltaba el desarrollo de la respuesta.",
+          "is_correct": true,
+          "feedback": "Correcto. El contraste distingue con precisión qué falta en cada caso, en lugar de tratarlos como si fueran el mismo problema."
+        },
+        {
+          "letter": "B",
+          "text": "Los dos textos demuestran que la síntesis solo sirve para textos escritos, y por eso deberían descartarse como ejemplos los episodios de audio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguno de los dos textos dice eso, y el problema está en el contenido del resumen, no en el soporte."
+        },
+        {
+          "letter": "C",
+          "text": "Los dos textos coinciden en que la síntesis debe conservar el número de datos del original, y solo difieren en el soporte donde se publican.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguno de los dos textos plantea esa regla, y la diferencia está en lo que cada resumen dejó fuera."
+        },
+        {
+          "letter": "D",
+          "text": "Los dos textos rechazan la tarea de resumir, de modo que el episodio y el comité se opusieron desde el principio a producir una síntesis.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos textos aceptan la tarea de resumir, y el desacuerdo se produce en la calidad del resultado, no en su existencia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Contrastar dos textos del mismo tipo permite separar lo que se repite de lo que cambia. En ambos casos se pide una síntesis, pero lo que falla es distinto: en uno falta la consecuencia y en el otro falta el desarrollo. Ese análisis comparativo construye un criterio transferible a cualquier lectura argumentativa.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-10-2026-W25-la-sintesis-y-la-organizacion-del-texto-argumentativo-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W25-la-sintesis-y-la-organizacion-del-texto-argumentativo-001-MASTERY-bundle-v10",
+      "statement": "¿Qué juicio sobre esa propuesta está mejor sostenido?",
+      "context": "En Pereira, un docente propone que toda síntesis escolar conserve el mismo número de datos que el texto original.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La propuesta es aceptable, porque conservar todos los datos garantiza que ningún lector pierda información importante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Conservar todo equivale a no seleccionar nada, y esa es justamente la tarea que una síntesis asume."
+        },
+        {
+          "letter": "B",
+          "text": "La propuesta es aceptable siempre que la síntesis incluya al menos un dato numérico por cada párrafo del original.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El criterio basado en el número de datos no mide la utilidad de un resumen, y ningún texto de la semana lo propone."
+        },
+        {
+          "letter": "C",
+          "text": "La propuesta no es aceptable, porque una síntesis siempre debe duplicar la extensión del texto que resume.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una síntesis es más corta que el original por definición, y duplicar la extensión la convertiría en una copia."
+        },
+        {
+          "letter": "D",
+          "text": "La propuesta no es aceptable, porque lo que debe conservarse es la diferencia central entre las posiciones y no la cantidad de datos.",
+          "is_correct": true,
+          "feedback": "Correcto. El criterio se apoya en lo que los dos textos muestran como esencial, y no en un conteo de información."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar una propuesta exige medirla contra el propósito de la tarea. La usefulness de una síntesis depende de que un lector pueda identificar la diferencia y la consecuencia, no de que encuentre más datos. Un criterio útil se apoya en la función real del texto y no en su cantidad.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LC-10-2026-W25-la-sintesis-y-la-organizacion-del-texto-argumentativo-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W25-la-sintesis-y-la-organizacion-del-texto-argumentativo-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál de las siguientes listas sería el criterio de revisión mejor fundado?",
+      "context": "En Medellín, la coordinadora del podcast escolar prepara una lista de criterios para revisar las síntesis que entregarán los grupos de décimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la síntesis tenga el mismo número de páginas que el original, para comprobar que nadie recortó ideas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La extensión no es criterio de calidad, y esa comprobación mide el tamaño del archivo, no la síntesis."
+        },
+        {
+          "letter": "B",
+          "text": "Que la síntesis exponga el punto en común, marque la diferencia entre las posiciones y cierre con la consecuencia que se deriva, porque esos son los tres elementos que los textos de la semana muestran como faltantes.",
+          "is_correct": true,
+          "feedback": "Correcto. El criterio se deduce de los dos casos analizados y permite aplicarlo a cualquier entrega con la misma estructura."
+        },
+        {
+          "letter": "C",
+          "text": "Que la síntesis se escriba en un solo párrafo y sin conectores, para que la lectura en voz alta sea más rápida.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restringuir los conectores debilita la unmarked relación entre ideas, y el Texto 1 muestra que hace falta explicitar el contraste."
+        },
+        {
+          "letter": "D",
+          "text": "Que la síntesis omita la objeción del interlocutor, porque presentar desacuerdos debilita la posición de quien escribe.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Omitir la objeción empobrece el resumen, y el Texto 2 muestra que su ausencia deja la conclusión sin fundamento."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un criterio de evaluación derivado de la lectura se apoya en lo que los casos analizados tienen en común. Los tres elementos propuestos resuelven los dos problemas observados y pueden aplicarse igual a todos los grupos. Evaluar con un criterio explícito y discutido es lo que convierte la práctica de síntesis en un aprendizaje transferible.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Inferencial",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-10-2026-W25-la-sintesis-y-la-organizacion-del-texto-argumentativo-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W25-la-sintesis-y-la-organizacion-del-texto-argumentativo-001-MASTERY-bundle-v12",
+      "statement": "¿Qué decisión sostiene mejor el equipo?",
+      "context": "En Medellín, el grupo de décimo grado prepara la síntesis final de la semana y decide qué material va a usar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Copiar la síntesis de Julián palabra por palabra, porque ya funciona en un episodio del mismo grado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Copiar una síntesis sin resolver lo que le faltó reproduce el mismo defecto, y no permite evaluar nada."
+        },
+        {
+          "letter": "B",
+          "text": "Descartar los dos textos y escribir una síntesis sin ejemplos, para no repetir problemas ajenos que no las corresponden.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Descartar el material elimina la evidencia que permite justificar el criterio y debilita el aprendizaje."
+        },
+        {
+          "letter": "C",
+          "text": "Contrastar la síntesis de Medellín con la frase de cierre de Pereira y proponer a partir de ahí un criterio de redacción, porque así se responde a los dos casos sin copiar ninguno.",
+          "is_correct": true,
+          "feedback": "Correcto. La decisión usa los dos textos como evidencia comparativa y produce un criterio propio que puede justificarse ante el grupo."
+        },
+        {
+          "letter": "D",
+          "text": "Publicar las dos síntesis sin comentario, porque cada autor ya dejó resuelto lo que le correspondía.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguno de los dos textos resolvió su tarea, y publicarlos sin comentario consagra los dos defectos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La cierre de una semana se sostiene cuando el equipo puede justificar su criterio con la lectura hecha. Contrastar los dos casos permite proponer una regla de redacción que responde a los dos problemas, en lugar de elegir un ejemplo y descartar el otro. Esa capacidad de fundamentar y defender una decisión cierra el trabajo de lectura argumentativa.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.81,
+      "bundle_id": "CO-LC-10-2026-W25-la-sintesis-y-la-organizacion-del-texto-argumentativo-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}

@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-19-grade-10-subject-lectura_critica",
+    "generated_at": "2026-09-30T16:29:28.740Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-10-2026-W19-el-periodismo-de-investigacion-y-la-verificacion-de-fuentes-001-MASTERY-bundle-v1",
+      "statement": "¿Qué datos presenta el reporte de investigación del Texto 1?",
+      "context": "En Bucaramanga, la profesora de Lectura Crítica pide al grupo de décimo grado que registre los datos del Texto 1 antes de interpretarlo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un aviso de becas de 1.200.000 pesos, una resolución que aclaraba que el programa ya había cerrado y un listado de 340 solicitantes.",
+          "is_correct": true,
+          "feedback": "Correcto. Son los tres elementos que el grupo de estudiantes conseguiu y dejó registrados, y los tres se refieren al mismo caso."
+        },
+        {
+          "letter": "B",
+          "text": "Un aviso de becas, una encuesta aplicada a 340 personas y una conversación con el supuesto organizador.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Texto 1 no menciona ninguna encuesta ni registra una conversación, porque la pregunta escrita quedó sin respuesta."
+        },
+        {
+          "letter": "C",
+          "text": "Una resolución sin número, una copia de la página sin fecha y el nombre completo del organizador.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los tres elementos aparecen al contrario de como los da el texto, que sí incluye número, fecha y ausencia de contacto."
+        },
+        {
+          "letter": "D",
+          "text": "El número de 340 solicitantes, la cantidad de 30 productos y el nombre del almacén que surte el colegio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cifra de 30 productos y el almacén pertenecen al Texto 2, y el Texto 1 no habla de ese negocio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Transcribir los datos de una investigación antes de interpretarlos evita que se mezclen los elementos de un caso con los de otro. Un lector profesional distingue el documento original, la cifra comprobada y el contacto que no se pudo establecer. Ese registro es el punto de partida de cualquier verificación.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Literal",
+      "expected_success": 0.95,
+      "bundle_id": "CO-LC-10-2026-W19-el-periodismo-de-investigacion-y-la-verificacion-de-fuentes-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W19-el-periodismo-de-investigacion-y-la-verificacion-de-fuentes-001-MASTERY-bundle-v2",
+      "statement": "En el Texto 1, ¿qué elemento sostiene la afirmación del equipo de que las becas ya no se estaban entregando?",
+      "context": "En Bucaramanga, el equipo del podcast repasa con la profesora cuál de sus materiales sostiene el hallazgo central.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El número de solicitantes, porque demuestra que había interés masivo en el programa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El listado de 340 solicitantes es un dato de contexto y no es lo que determina el cierre del programa."
+        },
+        {
+          "letter": "B",
+          "text": "La cantidad de dinero prometida en el aviso de WhatsApp.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El monto solo describe lo que ofrecía el aviso y no dice si el programa seguía vigente."
+        },
+        {
+          "letter": "C",
+          "text": "Una resolución firmada y con número que se pronuncia sobre el cierre del programa.",
+          "is_correct": true,
+          "feedback": "Correcto. Es un documento oficial, identificable y fechado, y por eso puede usarse para sostener una afirmación central."
+        },
+        {
+          "letter": "D",
+          "text": "La copia guardada de la página, porque muestra la fecha en que se hizo la promesa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La copia fechada prueba que existió el aviso, pero no informa si el programa seguía abierto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una investigación no se apoya en lo que se Laurie capturar, sino en el documento que permite sostener la afirmación principal. El texto periodístico se separa del aviso que lo origina porque su valor está en la trazabilidad del documento, y un documento verificable debe poder citarse con número, firma y fecha.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Literal",
+      "expected_success": 0.93,
+      "bundle_id": "CO-LC-10-2026-W19-el-periodismo-de-investigacion-y-la-verificacion-de-fuentes-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W19-el-periodismo-de-investigacion-y-la-verificacion-de-fuentes-001-MASTERY-bundle-v3",
+      "statement": "En el Texto 1, ¿qué diferencia de fondo hay entre tratar el aviso como una pista y tratarlo como información?",
+      "context": "En Bucaramanga, el grupo de décimo grado discute la decisión que el equipo tomó en la primera reunión del proyecto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la pista se publica de inmediato, mientras que la información debe esperar a la próxima edición del podcast.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no habla de plazos de publicación, y esa no es la diferencia que el equipo definía."
+        },
+        {
+          "letter": "B",
+          "text": "Que la pista es más difícil de conseguir, y la información llega muy rápido por el grupo de WhatsApp.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El aviso llegó por el mismo canal que cualquier otra información, y su dificultad no está en la velocidad."
+        },
+        {
+          "letter": "C",
+          "text": "Que la información exige grabarla con sonido, y la pista puede mostrarse únicamente con una imagen.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no condiciona el formato a la clase de dato, y el criterio seguido fue el origen del contenido."
+        },
+        {
+          "letter": "D",
+          "text": "Que la pista sirve para buscar, mientras que la información es el hallazgo ya documentado que puede sostenerse.",
+          "is_correct": true,
+          "feedback": "Correcto. El equipo nunca tomó el aviso como un hecho, sino como el punto de partida para buscar documentos que lo confirmaran."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El periodismo de investigación empieza por el gesto contrario al de la difusión automática: detenerse antes de afirmar. Reconocer la diferencia entre lo que se recibe y lo que se ha documentado evita el error más común, que es repetir como hecho lo que solo se ha recibido. Esa distinción organiza todo el trabajo de campo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.92,
+      "bundle_id": "CO-LC-10-2026-W19-el-periodismo-de-investigacion-y-la-verificacion-de-fuentes-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W19-el-periodismo-de-investigacion-y-la-verificacion-de-fuentes-001-MASTERY-bundle-v4",
+      "statement": "Un estudiante trae cuatro materiales: una fotografía de una etiqueta sin fecha; la transcripción de un mensaje de voz cuyo remitente no identifica; una carta firmada y sellada expedida por la rectoría; y un fragmento de un artículo que él mismo escribió hace un año. ¿Cuál conjunto reúne lo que puede citarse con nombre, fecha y firma?",
+      "context": "En Manizales, un grupo de décimo grado revisa uno por uno los materiales que un compañero trajo para un trabajo de investigación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los cuatro materiales, porque cualquier registro escrito sirve para sustentar una afirmación periodística.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fotografía y la transcripción no permiten identificar quién las produjo, y el propio artículo tampoco es fuente externa."
+        },
+        {
+          "letter": "B",
+          "text": "La carta firmada y sellada, porque identifica al emisor, permite rastrear el documento y puede citarse con fecha.",
+          "is_correct": true,
+          "feedback": "Correcto. Es el único material que cumple con las tres condiciones de citabilidad y puede sostenerse frente a una respuesta."
+        },
+        {
+          "letter": "C",
+          "text": "La fotografía y la carta, porque son los dos materiales que se pudieron revisar en papel.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La posibilidad de revisar el papel no reemplaza los datos de origen, y esa diferencia es justamente la que exige la norma."
+        },
+        {
+          "letter": "D",
+          "text": "La transcripción del mensaje, porque escribir sus palabras permite corregir lo que dijo la persona.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Transcribir una declaración sin identificar a quien la emite conserva su valor de rumor, no de fuente citable."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Nombrar la fuente es la operación más simple y la que más se descuida. Citar un documento con firma, fecha y responsable permite que otra persona lo localice y lo confirme. Aplicar esos criterios antes de escribir evita atribuirle a un dato una solidez que no posee.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-10-2026-W19-el-periodismo-de-investigacion-y-la-verificacion-de-fuentes-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W19-el-periodismo-de-investigacion-y-la-verificacion-de-fuentes-001-MASTERY-bundle-v5",
+      "statement": "Un equipo de Manizales quiere sostener en su nota que un proveedor del colegio incumple el tiempo de entrega pactado. ¿Cuál de estas formulaciones está redactada de modo que los datos puedan sostenerla?",
+      "context": "En Manizales, la profesora pide al grupo de décimo grado que aplique a su propia investigación el criterio aprendido en el caso de los productos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "«El proveedor sabe de antemano qué se le va a exigir, y por eso entrega todo sin novedad».",
+          "is_correct": false,
+          "feedback": "Incorrecto. La expresión le atribuye una intención que ningún dato del caso puede probar, y el trabajo se apoya en hechos verificables."
+        },
+        {
+          "letter": "B",
+          "text": "«El proveedor entrega con una frecuencia menor a la pactada, y eso explica los atrasos que el colegio ha reportado».",
+          "is_correct": true,
+          "feedback": "Correcto. La frase se apoya en un hecho verificable, señala su efecto y evita anticipar intenciones que no se pueden demostrar."
+        },
+        {
+          "letter": "C",
+          "text": "«El proveedor es el mejor de la ciudad, y a pesar de eso recibe observaciones por su servicio».",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase combina un superlativo con una crítica, y esa mezcla debilita el texto porque su origen nunca puede comprobarse."
+        },
+        {
+          "letter": "D",
+          "text": "«El proveedor trabaja de esa manera desde hace años, y la coordinación debería cambiar de proveedor ya mismo».",
+          "is_correct": false,
+          "feedback": "Incorrecto. La expresión temporal no se puede documentar y la exigencia final excede con mucho lo que los datos permiten pedir."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En el periodismo escrito, el modo de decir construye la afirmación. Una frase apoyada en un hecho verificable y en su efecto es defendible; una que invoca intenciones o absolutos no lo es. Aplicar esa revisión al propio texto, y no solo al de los demás, es lo que distingue a quien informa de quien comenta.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semantico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-10-2026-W19-el-periodismo-de-investigacion-y-la-verificacion-de-fuentes-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W19-el-periodismo-de-investigacion-y-la-verificacion-de-fuentes-001-MASTERY-bundle-v6",
+      "statement": "El subtítulo del Texto 2 presenta el caso como un hecho comprobado. ¿Qué elemento del propio texto vuelve inconsistente esa presentación?",
+      "context": "En Manizales, la profesora pide que el grupo de décimo grado compruebe si el subtítulo del Texto 2 se sostiene con lo que el mismo artículo ofrece.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el texto cita la declaración de un padre de familia que el autor no nombra ni contacta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fuente aparece, aunque sin identificar, y por sí sola no contradice la etiqueta de hecho comprobado."
+        },
+        {
+          "letter": "B",
+          "text": "Que la fotografía llegó por un grupo de WhatsApp, y ese canal ya tiene suficiente difusión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El canal de llegada no determina la calidad de la prueba, porque una imagen puede llegar de cualquier manera."
+        },
+        {
+          "letter": "C",
+          "text": "Que el almacén de barrio surte al colegio, de modo que la noticia tiene interés para la comunidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La relación con el colegio explica el interés del caso, y no afecta la forma en que se presenta la evidencia."
+        },
+        {
+          "letter": "D",
+          "text": "Que el texto no explica cómo se contaron los 30 productos ni quién hizo ese conteo.",
+          "is_correct": true,
+          "feedback": "Correcto. Una cifra sin método ni responsable no puede presentarse como comprobada, y el propio artículo lo reconoce al no explicarlo."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Leer la coherencia interna de un texto es un control de primer orden. Cuando un subtítulo afirma una certeza que el desarrollo del artículo no sostiene, el problema no está en el estilo, sino en la promesa de evidencia. Detectar esa distancia es un criterio antes de publicar.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.87,
+      "bundle_id": "CO-LC-10-2026-W19-el-periodismo-de-investigacion-y-la-verificacion-de-fuentes-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W19-el-periodismo-de-investigacion-y-la-verificacion-de-fuentes-001-MASTERY-bundle-v7",
+      "statement": "Ante esa pregunta, ¿cuál es la justificación profesional más sólida para no publicar esa respuesta?",
+      "context": "En Manizales, la coordinación del colegio pregunta al periódico escolar por qué no publicó la respuesta escrita de la dueña del almacén.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Publicar una negación sin elementos de verificación ampliaría el reclamo y debilitaría el criterio del medio.",
+          "is_correct": true,
+          "feedback": "Correcto. La omisión responde a un criterio editorial explícito y defendible, no a una decisión personal ni a una preferencia."
+        },
+        {
+          "letter": "B",
+          "text": "La dueña no respondió a tiempo, y por eso el periódico no podía incluir su versión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Texto 2 dice que la dueña entregó una respuesta escrita, así que el problema no fue la falta de contestación."
+        },
+        {
+          "letter": "C",
+          "text": "Publicar la respuesta habría obligado al periódico a cambiar el título, y eso genera trabajo adicional.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La dificultad editorial no puede usarse como justificación, porque el criterio debe ser la verificación."
+        },
+        {
+          "letter": "D",
+          "text": "La respuesta se recibió en un formato que el periódico escolar todavía no sabe publicar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no menciona ninguna limitación técnica, y la omisión se decidió por un criterio de contenido."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Toda decisión editorial necesita una razón que pueda enunciarse por escrito y repetirse en el siguiente caso. El derecho de réplica se aplica cuando la versión de la persona se publica, y esa coherencia entre criterio y práctica es lo que sostiene la credibilidad de un medio escolar.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-10-2026-W19-el-periodismo-de-investigacion-y-la-verificacion-de-fuentes-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W19-el-periodismo-de-investigacion-y-la-verificacion-de-fuentes-001-MASTERY-bundle-v8",
+      "statement": "Si una investigación como la del Texto 1 dejara fuera la resolución que encontró, ¿qué cambiaría en el hallazgo sobre las becas?",
+      "context": "En Bucaramanga, la profesora de Lectura Crítica pregunta al grupo de décimo grado qué sostiene cada uno de los dos casos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nada cambiaría, porque el aviso de origen ya describía las becas y eso basta para sostener la conclusión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El aviso es la afirmación que se investiga, y sin un documento que la confirme el hallazgo pierde su base."
+        },
+        {
+          "letter": "B",
+          "text": "El hallazgo pasaría a depender de lo que dice el aviso, y se volvería una conjetura mejor redactada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una conjetura no mejora por estar bien escrita, y sin el documento la afirmación no alcanza rango de hallazgo."
+        },
+        {
+          "letter": "C",
+          "text": "La afirmación quedaría sin respaldo verificable, porque el aviso es el objeto de la investigación y no su prueba.",
+          "is_correct": true,
+          "feedback": "Correcto. Reconocer que el documento sostiene el hallazgo muestra qué parte del trabajo hay que rehacer si falta ese material."
+        },
+        {
+          "letter": "D",
+          "text": "El hallazgo seguiría siendo válido, pero solo podría presentarse como hipótesis y no como conclusión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La hipótesis exige un trabajo de comprobación que el texto no muestra, y la diferencia no se resuelve con un cambio de etiqueta."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Seguir las consecuencias de retirar un documento enseña qué sostiene realmente cada afirmación. Un hallazgo no se vuelve pequeño cuando falta una fuente: se vuelve otra cosa, y ese es el punto. Reconocer el cambio de categoría permite pedir una comprobación adicional en lugar de aceptar una conclusión.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Inferencial",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LC-10-2026-W19-el-periodismo-de-investigacion-y-la-verificacion-de-fuentes-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W19-el-periodismo-de-investigacion-y-la-verificacion-de-fuentes-001-MASTERY-bundle-v9",
+      "statement": "Un análisis sostiene que el Texto 2 expone un caso de acusación sin derecho de réplica. ¿Qué observación del texto respalda ese análisis?",
+      "context": "En Manizales, un comité del periódico escolar prepara el informe de la semana y compara los dos casos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El texto publica el nombre comercial del almacén y eso expone al negocio ante la comunidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El criterio del derecho de réplica se refiere a la versión de la persona acusada, no a la exposición pública del nombre."
+        },
+        {
+          "letter": "B",
+          "text": "El texto no incluye una fotografía del almacén, y esa omisión impide verificar la acusación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto sí incluye una fotografía, y el problema está en su falta de fecha y de lugar identificable."
+        },
+        {
+          "letter": "C",
+          "text": "El texto termina con una petición a la coordinación, y ese cierre convierte el caso en una acusación formal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un pedido administrativo no reemplaza el procedimiento de verificación ni incorpora la versión del acusado."
+        },
+        {
+          "letter": "D",
+          "text": "El texto presenta el caso como comprobado, aunque su propia evidencia no identifica a quien declara ni explica el conteo.",
+          "is_correct": true,
+          "feedback": "Correcto. La promesa de certeza y la falta de respaldo se contradicen dentro del mismo texto, y esa es la base del análisis."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Un buen análisis no se limita a decir que un texto es injusto: señala el elemento interno que lo demuestra. Contrastar la etiqueta que el subtítulo pone con la evidencia que el artículo desarrolla es un método que funciona con cualquier texto periodístico. Ese contraste da argumentos a la discusión pública sobre la calidad de un medio.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-10-2026-W19-el-periodismo-de-investigacion-y-la-verificacion-de-fuentes-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W19-el-periodismo-de-investigacion-y-la-verificacion-de-fuentes-001-MASTERY-bundle-v10",
+      "statement": "En el Texto 1, ¿qué función cumple la bitácora del grupo dentro de la investigación?",
+      "context": "En Bucaramanga, la profesora pregunta al grupo de décimo grado qué papel desempeña la bitácora en el caso del Texto 1.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dejar constancia de lo que se hizo, de lo que no se respondió y del criterio seguido, para que otro pueda repetir el procedimiento.",
+          "is_correct": true,
+          "feedback": "Correcto. La bitácora documenta el trabajo completo, incluidos los vacíos, y eso vuelve la investigación auditable."
+        },
+        {
+          "letter": "B",
+          "text": "Conservar el material ya editado, porque el archivo de audio del podcast todavía no estaba listo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La bitácora no almacena material editado, y el audio nunca aparece como un problema en el texto."
+        },
+        {
+          "letter": "C",
+          "text": "Reemplazar la respuesta del organizador, porque permite dejar por escrito lo que se suponía que diría.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La bitácora no puede sustituir la versión de la persona consultada, y solo deja constancia de la ausencia de respuesta."
+        },
+        {
+          "letter": "D",
+          "text": "Servir de guion para el episodio, porque el equipo escribe en ella el orden en que va a contar el caso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El guion del episodio es un texto de comunicación, y la bitácora cumple una función de registro del trabajo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La bitácora es la diferencia entre una investigación que se publica y una investigación que puede sostenerse. Registrar el camino completo, con sus vacíos, permite que otra persona repita el procedimiento y llegue al mismo lugar. Ese hábito de documentar el proceso es lo que hace transferible un trabajo escolar.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.81,
+      "bundle_id": "CO-LC-10-2026-W19-el-periodismo-de-investigacion-y-la-verificacion-de-fuentes-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W19-el-periodismo-de-investigacion-y-la-verificacion-de-fuentes-001-MASTERY-bundle-v11",
+      "statement": "Un estudiante propone aplicar esa norma a los dos textos. ¿Cuál evaluación es la mejor sostenida?",
+      "context": "En Bucaramanga, el comité editorial aprueba una norma de publicación para los productos del grado con cuatro criterios: fuente identificable, documento original, método explícito y derecho de réplica concedido.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los dos textos reprueban la norma, porque ninguna investigación escolar puede citar documentos oficiales de una entidad pública.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La norma pide documentos originales identificables, y no excluye a las entidades públicas como fuente."
+        },
+        {
+          "letter": "B",
+          "text": "El Texto 1 reprueba la norma, porque el supuesto organizador se negó a responder el requerimiento del equipo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La norma no exige obtener una respuesta, y el Texto 1 sí aporta el documento original que sostiene su hallazgo."
+        },
+        {
+          "letter": "C",
+          "text": "El Texto 1 supera la norma con el documento oficial que encontró, y el Texto 2 no la supera porque su evidencia carece de método y de versión de la persona acusada.",
+          "is_correct": true,
+          "feedback": "Correcto. La evaluación distingue con precisión qué caso cumple los cuatro criterios y cuál incumple dos de ellos."
+        },
+        {
+          "letter": "D",
+          "text": "El Texto 2 supera la norma, porque reunir una fotografía y un testimonio es más de lo que exige la norma de un medio escolar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El conteo no se explica y la versión de la persona acusada no se publica, y eso son dos criterios incumplidos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una norma editorial escrita con claridad permite aplicar el mismo criterio a casos distintos sin depender del criterio personal de quien edita. Un criterio útil es el que se puede aplicar por escrito, dejar constancia de su resultado y sostenerlo ante la persona señalada. Ese es el estándar al que aspire el periodismo escolar.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-10-2026-W19-el-periodismo-de-investigacion-y-la-verificacion-de-fuentes-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W19-el-periodismo-de-investigacion-y-la-verificacion-de-fuentes-001-MASTERY-bundle-v12",
+      "statement": "El equipo tiene una acusación grave, una fotografía sin fecha, una declaración sin nombre y una respuesta escrita que se niega a publicarse. ¿Qué decisión satisface mejor el criterio de la semana?",
+      "context": "En Manizales, el equipo de décimo grado cierra la nota de investigación de la semana y debe decidir qué publica del caso del almacén.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Publicar la acusación completa, porque la magnitud del caso justifica apartarse del rigor documental.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La gravedad de un caso aumenta la necesidad de verificar, y no reemplaza ninguno de los criterios fijados."
+        },
+        {
+          "letter": "B",
+          "text": "Presentar el caso como una acusación sin comprobar, explicar qué evidencia le falta, pedir por escrito la versión de la persona señalada y no afirmar su responsabilidad.",
+          "is_correct": true,
+          "feedback": "Correcto. La nota expone el estado real de la verificación, protege a la persona señalada y deja abierta la ruta para comprobarla."
+        },
+        {
+          "letter": "C",
+          "text": "No publicar nada, porque sin una fuente identificable ningún caso puede informarse en un medio escolar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa regla eliminaría los trabajos en curso y el equipo no podría investigar ningún caso."
+        },
+        {
+          "letter": "D",
+          "text": "Publicar la respuesta escrita de la dueña, porque es el único documento del expediente con firma y fecha.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Publicar solo la negación sin explicar el caso sería un manejo descontextualizado de una fuente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una nota de investigación comunica tres cosas: qué se afirmación, cómo se comprobó y qué falta por comprobar. Declarar lo que no tiene respaldo no debilita el trabajo, lo vuelve confiable, porque permite que la comunidad decida con información real. Ese es el estándar de calidad al que aspire el periodismo escolar.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-10-2026-W19-el-periodismo-de-investigacion-y-la-verificacion-de-fuentes-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}
