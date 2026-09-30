@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-37-grade-4-subject-lectura_critica",
+    "generated_at": "2026-09-30T10:39:37.344Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-4-2026-W37-los-textos-que-explican-las-normas-y-los-acuerdos-001-MASTERY-bundle-v1",
+      "statement": "Lee con atención el cartel del salón.\n\n*\"Cartel de normas del salón de cuarto: \"Cuando entres al salón, saluda a tus compañeros y deja tu maleta en el lugar marcado. Cuando llegue tu turno de hablar, levanta la mano y habla sin gritar\".\"*\n\nSegún el cartel, ¿qué debes hacer cuando llegues al salón?",
+      "context": "En la clase de cuarto de Neiva, la profesora lee el cartel de normas que la turma ravenó en diciembre.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sacar la maleta de cualquier sitio, porque el cartel no dice dónde dejarla",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cartel dice que la maleta se deja en el lugar marcado, así que sí indica dónde ubicarla."
+        },
+        {
+          "letter": "B",
+          "text": "Saludar a tus compañeros y dejar la maleta en el lugar marcado",
+          "is_correct": true,
+          "feedback": "Correcto. El cartel indica las dos acciones de entrada con esas palabras, así que la respuesta sale del texto."
+        },
+        {
+          "letter": "C",
+          "text": "Empezar a hablar sin esperar, porque hay que ganar la palabra rápido",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cartel pide esperar el turno y hablar sin gritar, así que la norma va en sentido contrario."
+        },
+        {
+          "letter": "D",
+          "text": "Guardar silencio toda la mañana, porque el cartel habla de esperar",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cartel no pide silencio permanente, y solo indica esperar la mano para hablar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Leer una norma de forma literal es reconocer la acción que el texto pide, sin agregarle reglas que nadie escribió. Los verbos en imperativo, como saluda o deja, muestran con claridad lo que se espera de cada estudiante. Esa lectura atenta evita que los niños crean que un cartel incluye prohibiciones que en realidad no están escritas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Literal",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-4-2026-W37-los-textos-que-explican-las-normas-y-los-acuerdos-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W37-los-textos-que-explican-las-normas-y-los-acuerdos-001-MASTERY-bundle-v2",
+      "statement": "Observa las dos frases que hablan del turno de hablar.\n\n*\"Frase 1: \"Espera tu turno para hablar\". Frase 2: \"Si cada uno espera su turno, todos alcanzamos a decir lo que pensaron y nadie se queda sin escuchar\".\"*\n\n¿Qué diferencia de significado hay entre las dos frases?",
+      "context": "En un taller de lectura de cuarto de Armenia, los estudiantes estudian por qué el texto explica cada norma.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La frase 1 es más corta y por eso se entiende mejor",
+          "is_correct": false,
+          "feedback": "Incorrecto. El significado de un texto no depende de la cantidad de palabras, y aquí cada frase cumple una función distinta."
+        },
+        {
+          "letter": "B",
+          "text": "La frase 1 es una opinión, y la frase 2 es una norma del colegio",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase 1 es una instrucción, porque indica lo que se debe hacer, y la frase 2 es la razón de esa instrucción."
+        },
+        {
+          "letter": "C",
+          "text": "La frase 1 dice lo que se debe hacer, y la frase 2 explica para qué sirve esa norma",
+          "is_correct": true,
+          "feedback": "Correcto. La primera presenta la instrucción y la segunda enseña el beneficio que se obtiene al cumplirla."
+        },
+        {
+          "letter": "D",
+          "text": "Las dos frases son normas, porque las dos hablan de hablar en clase",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo la primera manda una conducta, y la segunda únicamente explica el motivo de esa conducta."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Entender un texto de normas es distinguir la instrucción de su explicación. Cuando un cartel dice qué hacer y luego dice qué se gana con eso, el lector ya no obedece a ciegas: entiende el acuerdo. Esa comprensión ayuda a los niños a justificar por qué una regla les conviene a todos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-4-2026-W37-los-textos-que-explican-las-normas-y-los-acuerdos-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W37-los-textos-que-explican-las-normas-y-los-acuerdos-001-MASTERY-bundle-v3",
+      "statement": "Lee las tres partes que los grupos sacaron del texto de las reglas de la biblioteca.\n\n*\"Parte 1: \"En la biblioteca de nuestro colegio los niños pueden pedir dos libros al mismo tiempo\". Parte 2: \"Los libros se entregan a las siete de la mañana y se devuelven el mismo día\". Parte 3: \"Este texto se escribió porque el año pasado hubo pérdidas de libros\".*\n\n¿Cuál de las tres partes corresponde a la sección donde se explica para qué existe la norma?",
+      "context": "En el aula de cuarto de Bucaramanga, un grupo debe ubicar las partes de un texto de normas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La parte 1, porque habla de los niños y de los libros",
+          "is_correct": false,
+          "feedback": "Incorrecto. La parte 1 dice lo que se puede hacer, y eso es una norma, no la explicación de su motivo."
+        },
+        {
+          "letter": "B",
+          "text": "La parte 2, porque menciona la hora de entrega de los libros",
+          "is_correct": false,
+          "feedback": "Incorrecto. La parte 2 fija el momento de devolver los libros, así que también es una instrucción."
+        },
+        {
+          "letter": "C",
+          "text": "La parte 2, porque explica la causa de la pérdida de libros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa parte da un dato de tiempo para la devolución, y no explica por qué se escribió el texto."
+        },
+        {
+          "letter": "D",
+          "text": "La parte 3, porque dice que el texto nació de un problema del año anterior",
+          "is_correct": true,
+          "feedback": "Correcto. Esa parte responde el porqué del acuerdo, porque muestra la situación que hizo escribir las reglas."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Reconocer las partes de un texto explicativo es separar el qué del porqué y del cuándo. Un buen texto de normas no solo manda, también justifica y fecha. Enseñar a los niños a clasificar cada oración les sirve para entender cualquier reglamento del colegio o del municipio.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-4-2026-W37-los-textos-que-explican-las-normas-y-los-acuerdos-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W37-los-textos-que-explican-las-normas-y-los-acuerdos-001-MASTERY-bundle-v4",
+      "statement": "Lee la frase del acuerdo del equipo de fútbol del colegio.\n\n*\"Si todos los jugadores llegan a tiempo al entrenamiento, el entrenador puede empezar a la hora acordada\".*\n\nSegún cómo está construida la frase, ¿qué parte enuncia la consecuencia de la norma?",
+      "context": "En la clase de cuarto de Popayán, la profesora pide identificar cómo está construida una frase de norma.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La parte del sujeto, porque allí se menciona a los jugadores",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sujeto nombra a quién se aplica la norma, y no es la parte que anuncia qué pasa si se cumple."
+        },
+        {
+          "letter": "B",
+          "text": "La parte del predicado, porque ahí se dice qué ocurre si la condición se cumple",
+          "is_correct": true,
+          "feedback": "Correcto. El verbo puede empezar y lo que lo acompaña dependen de la frase que empieza con si, así que el predicado expresa la consecuencia."
+        },
+        {
+          "letter": "C",
+          "text": "La palabra tiempo, porque es la que resuelve el conflicto del equipo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tiempo solo indica la hora, y no es la parte de la frase que expresa la consecuencia de la condición."
+        },
+        {
+          "letter": "D",
+          "text": "La palabra acuerdo, porque es la que define la relación del equipo",
+          "is_correct": false,
+          "feedback": "Incorrecto. La palabra acuerdo nombra el documento, y la consecuencia está en el verbo y en lo que lo acompaña."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Analizar la estructura de una frase normativa enseña que una regla suele traer una condición y un resultado. El grupo pequeño observa que las frases que empiezan con si construyen un razonamiento completo y no solo un mandato. Esa mirada sintáctica ayuda a los niños a escribir acuerdos propios con la misma claridad.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-4-2026-W37-los-textos-que-explican-las-normas-y-los-acuerdos-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W37-los-textos-que-explican-las-normas-y-los-acuerdos-001-MASTERY-bundle-v5",
+      "statement": "Lee el comienzo del texto que la dirección del colegio publicó para los estudiantes.\n\n*\"Nadie te va a obligar a recordar esta norma: si alguien te pide la palabra, tú ya sabes qué hacer. Este acuerdo lo construimos nosotros, y también lo podemos cambiar si dejamos de cumplirlo\".*\n\n¿Qué busca el texto con esa forma de hablarle a los estudiantes?",
+      "context": "En un curso de cuarto de Montería, la profesora pregunta por qué el texto de normas usa ese tono.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Avisar que los acuerdos del colegio van a cambiar sin avisar",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto dice que los acuerdos se pueden cambiar si dejan de cumplirse, y ese no es un aviso repentino."
+        },
+        {
+          "letter": "B",
+          "text": "Mostrar que las normas solo importan cuando un adulto las impone",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto dice que nadie obliga y que el acuerdo lo construyeron ellos, así que no depende de un adulto."
+        },
+        {
+          "letter": "C",
+          "text": "Conseguir que los estudiantes se sientan parte del acuerdo y lo cumplan por convicción",
+          "is_correct": true,
+          "feedback": "Correcto. El texto usa frases como tú ya sabes qué hacer y lo construimos nosotros para que el lector se reconozca en la norma."
+        },
+        {
+          "letter": "D",
+          "text": "Enseñar a los estudiantes a cambiar las normas cada vez que quieran",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cambio se plantea solo si el acuerdo deja de cumplirse, y no como una libertad sin condiciones."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Analizar el propósito de un texto es preguntarse qué efecto busca lograr en su lector. Cuando un cartel se dirige con frases cortas y en segunda persona, está buscando complicidad y no obediencia ciega. Reconocer ese tono prepara a los niños para escribir mensajes que sí convenzan a su comunidad.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-4-2026-W37-los-textos-que-explican-las-normas-y-los-acuerdos-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W37-los-textos-que-explican-las-normas-y-los-acuerdos-001-MASTERY-bundle-v6",
+      "statement": "Observa el orden en que aparecen las ideas en este texto.\n\n*\"Nuestro acuerdo de la sala: Primero escribimos el nombre de quien tiene la palabra. Segundo, nadie se levanta mientras el otro habla. Tercero, al terminar cada frase pedimos un aplauso breve. Al final de la clase dejamos escrito qué nos costó más cumplir.\"*\n\n¿Cómo está organizado el texto?",
+      "context": "En el trabajo de grupo de cuarto de Cúcuta, los estudiantes revisan cómo está organizado un texto de normas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las normas están mezcladas con ejemplos de la casa, sin separación clara",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no incluye ejemplos de la casa, y cada norma ocupa una línea propia con su conector."
+        },
+        {
+          "letter": "B",
+          "text": "El texto empieza con una conclusión y luego vuelve a las normas",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto empieza con las normas y termina con una revisión del día, y no al revés."
+        },
+        {
+          "letter": "C",
+          "text": "El texto solo describe lo que no se debe hacer, sin decir qué sí se espera",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las tres primeras líneas dicen qué hacer, y solo la última línea revisa el cumplimiento."
+        },
+        {
+          "letter": "D",
+          "text": "El texto presenta las normas en lista ordenada y cierra con una revisión del cumplimiento",
+          "is_correct": true,
+          "feedback": "Correcto. Los conectores Primero, Segundo y Tercero ordenan el bloque de normas, y el cierre evalúa cómo se cumplieron."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Analizar la organización de un texto es observar si las ideas aparecen en orden y con marcadores claros. Los conectores de secuencia permiten seguir la lista sin perder el hilo, y el cierre convierte la norma en un compromiso medible para el día siguiente. Esa disciplina de estructura también sirve al escribir.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LC-4-2026-W37-los-textos-que-explican-las-normas-y-los-acuerdos-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W37-los-textos-que-explican-las-normas-y-los-acuerdos-001-MASTERY-bundle-v7",
+      "statement": "Un compañero de tu grupo afirma lo siguiente.\n\n*\"Basta con escribir una norma para que exista. Si está en el cartel, ya nadie puede discutirla\".*\n\n¿Cuál es la respuesta más sólida que puede darle el grupo a esa afirmación?",
+      "context": "En la reunión de aula de cuarto en Villavicencio, un compañero defiende su idea sobre las normas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La afirmación es correcta, porque un cartel es un documento oficial del colegio",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un cartel puede tener errores, y que esté escrito no garantiza que nadie pueda revisarlo."
+        },
+        {
+          "letter": "B",
+          "text": "La afirmación es incorrecta, porque un acuerdo necesita que quienes lo usan lo cumplan y lo revisen",
+          "is_correct": true,
+          "feedback": "Correcto. Un texto normativo es solo un principio, y la práctica y la revisión muestran si de verdad se cumple."
+        },
+        {
+          "letter": "C",
+          "text": "La afirmación es incorrecta, porque las normas solo valen cuando las escribe un adulto",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que una norma exista depende de lo acordado y de su claridad, y no de quién la haya escrito."
+        },
+        {
+          "letter": "D",
+          "text": "La afirmación es incorrecta, porque los niños de cuarto no pueden escribir normas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este texto muestra que los estudiantes sí construyeron el acuerdo de la sala."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar un texto de normas es poner su utilidad a prueba y no aceptar su autoridad solo por estar escrito. Un acuerdo se sostiene cuando se cumple, se revisa y puede corregirse sin miedo. Esa actitud crítica enseña a los niños a defender y también a mejorar las normas de su propia comunidad.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.73,
+      "bundle_id": "CO-LC-4-2026-W37-los-textos-que-explican-las-normas-y-los-acuerdos-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W37-los-textos-que-explican-las-normas-y-los-acuerdos-001-MASTERY-bundle-v8",
+      "statement": "Los cuatro grupos redactaron un acuerdo para el uso del salón de música.\n\n*\"Grupo 1: \"En el salón de música no se habla ni se corre, porque es un lugar muy importante\". Grupo 2: \"Nada de correr aquí adentro\". Grupo 3: \"El salón tiene cuarenta sillas y se usa para ensayar los himnos\". Grupo 4: \"Acordamos no correr en el salón porque hace poco el niño que llegó al último tropezó y se golpeó la cabeza\".\"*\n\n¿Cuál de las cuatro versiones es la más sólida como texto de normas?",
+      "context": "Como tarea final, los grupos de cuarto de Santa Marta deben escribir el acuerdo de su salón.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La del grupo 1, porque explica el motivo de la norma",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa versión solo dice que el lugar es importante, y eso no explica ninguna razón concreta para la prohibición."
+        },
+        {
+          "letter": "B",
+          "text": "La del grupo 2, porque es la versión más corta y se entiende de inmediato",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque es clara en la prohibición, no dice de dónde viene la regla ni qué debe hacerse en su lugar."
+        },
+        {
+          "letter": "C",
+          "text": "La del grupo 3, porque da datos concretos del salón",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa versión describe el salón, y no contiene ninguna norma sobre cómo usar ese espacio."
+        },
+        {
+          "letter": "D",
+          "text": "La del grupo 4, porque enuncia la norma y explica el hecho concreto que la hizo necesaria",
+          "is_correct": true,
+          "feedback": "Correcto. Esa versión dice qué se hace, cuenta qué ocurrió y aclara el motivo, así que el lector puede entenderla y valorarla."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Comparar cuatro versiones de un mismo acuerdo enseña qué tiene que reunir un texto de normas para ser confiable: la instrucción clara, el motivo y la consecuencia. Practicar estos criterios con grupos que se contradicen enseña a escribir acuerdos sin dejar palabras ambiguas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-4-2026-W37-los-textos-que-explican-las-normas-y-los-acuerdos-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    }
+  ]
+}
