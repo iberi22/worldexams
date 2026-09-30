@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-3-grade-4-subject-ciencias_naturales",
+    "generated_at": "2026-09-30T21:18:26.973Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CIE-4-2026-W03-ecosistemas-y-cadena-alimenticia-001-MASTERY-bundle-v1",
+      "statement": "En un ecosistema, ¿cómo se llama la forma en que los seres vivos se alimentan unos de otros?",
+      "context": "En un parque natural de Boyacá, un guía explica a un grupo de estudiantes cómo se alimentan los seres vivos de la selva.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La fotosíntesis",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fotosíntesis es el proceso con el cual las plantas fabrican su alimento usando la luz, no una forma de alimentarse entre animales."
+        },
+        {
+          "letter": "B",
+          "text": "La cadena alimentaria",
+          "is_correct": true,
+          "feedback": "Correcto. La cadena alimentaria muestra quién se come a quién y cómo la energía pasa de un ser vivo a otro dentro de un ecosistema."
+        },
+        {
+          "letter": "C",
+          "text": "La evaporación",
+          "is_correct": false,
+          "feedback": "Incorrecto. La evaporación es el paso del agua de estado líquido a gaseoso y no tiene relación con la alimentación de los seres vivos."
+        },
+        {
+          "letter": "D",
+          "text": "La metamorfosis",
+          "is_correct": false,
+          "feedback": "Incorrecto. La metamorfosis es el cambio de forma de un ser vivo mientras crece, por ejemplo la oruga que se vuelve mariposa."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En un ecosistema todos los seres vivos están relacionados, y una de esas relaciones es la alimentación. La cadena alimentaria es el orden en que se alimentan los seres vivos: las plantas producen su alimento, los animales herbívoros comen plantas y los carnívoros comen herbívoros. Esa secuencia permite entender cómo la energía y la materia pasan de un nivel a otro, y qué pasa cuando uno de los eslabones disminuye o desaparece.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CIE-4-2026-W03-ecosistemas-y-cadena-alimenticia-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W03-ecosistemas-y-cadena-alimenticia-001-MASTERY-bundle-v2",
+      "statement": "¿Por qué se dice que las plantas son los productores de un ecosistema?",
+      "context": "En una finca de Quindío, un agricultor observa los árboles de café, las aves que comen los frutos y los zorros que se alimentan de esas aves.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque son las que más agua necesitan de todos los seres vivos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todas las plantas necesitan agua, pero eso no las convierte en productores dentro de la cadena alimentaria."
+        },
+        {
+          "letter": "B",
+          "text": "Porque son las únicas que se mueven de un lugar a otro buscando comida",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa descripción corresponde a los animales; las plantas permanecen en su sitio y no buscan alimento."
+        },
+        {
+          "letter": "C",
+          "text": "Porque le quitan el alimento a los otros seres vivos del ecosistema",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las plantas no les quitan alimento a los animales; por el contrario, son el punto de partida de su alimentación."
+        },
+        {
+          "letter": "D",
+          "text": "Porque usan la luz del sol para fabricar su propio alimento",
+          "is_correct": true,
+          "feedback": "Correcto. Mediante la fotosíntesis, las plantas producen materia a partir de sustancias inanimadas y esa producción alimenta a toda la cadena."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "En una cadena alimentaria siempre hay un punto de partida, y ese punto son los productores. Las plantas, los algas y algunas bacterias son capaces de fabricar su propio alimento a partir de la luz del sol, el agua y el gas carbónico. Como los animales no pueden fabricar su alimento, dependen de comer plantas o de comer a otros animales que ya comieron plantas. Por eso, sin productores la cadena entera se quedaría sin energía.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CIE-4-2026-W03-ecosistemas-y-cadena-alimenticia-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W03-ecosistemas-y-cadena-alimenticia-001-MASTERY-bundle-v3",
+      "statement": "Un año después la pesca reduce mucho la cantidad de peces pequeños y el tucunaré se vuelve más escaso. ¿Cuál es la explicación más completa de lo ocurrido?",
+      "context": "En un río delPutumayo, una niña observa muchos peces pequeños y, entre ellos, algunos peces grandes como el tucunaré.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El tucunaré se quedó sin alimento, porque los peces pequeños son su presa en la cadena",
+          "is_correct": true,
+          "feedback": "Correcto. Al reducirse las presas, el eslabón superior de la cadena pierde su fuente de alimento y su población disminuye."
+        },
+        {
+          "letter": "B",
+          "text": "El tucunaré se volvió más fuerte y por eso se fue del río",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fuerza del pez no explica su desaparición del río; la cadena de alimentación sí ofrece una explicación."
+        },
+        {
+          "letter": "C",
+          "text": "El tucunaré se alimentaba de las hojas del bosque de la orilla",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tucunaré es un pez carnívoro, por eso no come hojas y su alimento viene de los peces pequeños."
+        },
+        {
+          "letter": "D",
+          "text": "Los peces pequeños se convirtieron en tucunarés al crecer",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ningún pez cambia de especie al crecer, y el enunciado no describe ningún cambio de ese tipo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar el concepto de cadena alimentaria permite anticipar qué ocurre cuando un nivel pierde individuos. En un río, los peces pequeños comen plantas y microorganismos, y los peces grandes como el tucunaré se alimentan de los pequeños. Si un eslabón disminuye, el siguiente se queda con menos alimento. Ese efecto se llama cascada, porque el problema se transmite a lo largo de la cadena hasta afectar a los niveles superiores.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CIE-4-2026-W03-ecosistemas-y-cadena-alimenticia-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W03-ecosistemas-y-cadena-alimenticia-001-MASTERY-bundle-v4",
+      "statement": "El niño dibujó lo que vio en la charca. ¿Cuál de estos dibujos representa mejor la cadena alimentaria observada?",
+      "context": "En una charca cerca de una finca en el Tolima, un niño quiere investigar qué seres vivos se alimentan de otros allí.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Viboras → ranas → libélulas → plantas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese orden está al revés: la víbora no puede comer plantas, y las plantas no pueden comer a nadie."
+        },
+        {
+          "letter": "B",
+          "text": "Ranas → plantas → viboras → libélulas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las plantas no comen ranas, por eso la secuencia no respeta quién se come a quién."
+        },
+        {
+          "letter": "C",
+          "text": "Plantas → libélulas → ranas → viboras",
+          "is_correct": true,
+          "feedback": "Correcto. Cada ser vivo se come al anterior: las libélulas adultas comen insectos pequeños, las ranas comen libélulas y las viboras comen ranas."
+        },
+        {
+          "letter": "D",
+          "text": "Plantas → viboras → ranas → libélulas",
+          "is_correct": false,
+          "feedback": "Incorrecto. En esta secuencia las viboras quedarían antes que su alimento, lo cual es imposible."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Representar una cadena alimentaria exige identificar el productor y seguir el sentido del flujo de energía, que siempre va de quien se come a quien es comido. La planta es el productor porque fabrica su propio alimento; los animales herbívoros o insectívoros la consumen; los que se alimentan de esos animales ocupan el siguiente nivel. Por eso una cadena válida empieza siempre en el productor y termina en el consumidor de último nivel.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.72,
+      "bundle_id": "CO-CIE-4-2026-W03-ecosistemas-y-cadena-alimenticia-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W03-ecosistemas-y-cadena-alimenticia-001-MASTERY-bundle-v5",
+      "statement": "Meses después, los vecinos se quejan de que el arroyo baja con menos agua y el suelo del barrio se está deslizando. ¿Qué explicación conecta mejor las dos consecuencias?",
+      "context": "En un páramo del norte del Valle, un finquero tala parte del bosque de frailejones que protege un nacimiento de agua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la tala hizo que las raíces de los árboles alcanzaran más hondo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al talar, las raíces mueren con el árbol y el agua se pierde más rápido, no se retiene mejor."
+        },
+        {
+          "letter": "B",
+          "text": "Que sin raíces y vegetación, el suelo ya no retiene el agua y se erosiona",
+          "is_correct": true,
+          "feedback": "Correcto. Las raíces y la vegetación sujetan el suelo y absorben el agua; sin ellas, el agua escurre y el terreno se desliza."
+        },
+        {
+          "letter": "C",
+          "text": "Que los árboles producirían más sombra y por eso llovía menos",
+          "is_correct": false,
+          "feedback": "Incorrecto. La sombra de los árboles no es lo que mejor explica la pérdida de agua, y esa relación no está planteada en el enunciado."
+        },
+        {
+          "letter": "D",
+          "text": "Que la madera talada se secó y por eso el arroyo se secó",
+          "is_correct": false,
+          "feedback": "Incorrecto. La madera retirada no era parte del arroyo; lo que desapareció fue la cobertura vegetal que frenaba el agua."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los ecosistemas cumplen funciones que apoyan también la vida humana. La vegetación y las raíces de las plantas retienen el agua de la lluvia, evitan que el suelo se arrastre ladera abajo y mantienen el caudal de los arroyos y los nacimientos de agua. Cuando se elimina esa cobertura, aparecen dos efectos relacionados: menos agua disponible y más erosión. Reconocer esa relación ayuda a valorar la conservación de los bosques y los páramos.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CIE-4-2026-W03-ecosistemas-y-cadena-alimenticia-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W03-ecosistemas-y-cadena-alimenticia-001-MASTERY-bundle-v6",
+      "statement": "Un día sube la temperatura del agua y las plantas acuáticas mueren. ¿Qué efecto tendrá eso en la red alimenticia del acuario?",
+      "context": "En un aula de Tolima, un grupo de niños mantiene un acuario con plantas acuáticas, peces y piedras.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ninguno, porque los peces se alimentan solo de lo que hay en el fondo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los peces de acuario se alimentan principalmente de las plantas y de organismos pequeños que dependen de ellas."
+        },
+        {
+          "letter": "B",
+          "text": "Solo aumentarán los peces, porque al morir las plantas habrá más alimento",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al morir las plantas disminuye el alimento y además baja el oxígeno, por eso los peces sufren."
+        },
+        {
+          "letter": "C",
+          "text": "Los peces mejorarán, porque el agua queda más caliente y con más oxígeno",
+          "is_correct": false,
+          "feedback": "Incorrecto. El agua caliente retiene menos oxígeno, y el enunciado también atribuye a la temperatura un beneficio que no tiene."
+        },
+        {
+          "letter": "D",
+          "text": "Los peces perderán alimento y oxígeno, porque las plantas producían ambos",
+          "is_correct": true,
+          "feedback": "Correcto. Las plantas acuáticas fabrican alimento y liberan oxígeno; al morir, la cadena y el aire del agua se debilitan."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Un ecosistema del acuario es un sistema donde cada ser vivo cumple una función. Las plantas acuáticas son los productores: usan la luz para fabricar alimento y liberan oxígeno disuelto en el agua. Los peces dependen de ese alimento y de ese oxígeno. Cuando los productores mueren, se rompe la base de la red alimenticia, y además el agua caliente retiene menos oxígeno. Analizar el efecto de un cambio exige revisar todos los eslabones relacionados, no solo uno.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CIE-4-2026-W03-ecosistemas-y-cadena-alimenticia-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W03-ecosistemas-y-cadena-alimenticia-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es el argumento que defiende mejor esa decisión con base en lo que sabemos de los ecosistemas?",
+      "context": "En una clase de ciencias de Neiva, un equipo propone construir un acuario con solo peces.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que los peces necesitan plantas que produzcan alimento y oxígeno, porque un ecosistema de un solo tipo de ser vivo no se sostiene",
+          "is_correct": true,
+          "feedback": "Correcto. Sin productores no hay alimento ni oxígeno suficiente, y el acuario perdería el equilibrio del que dependen los peces."
+        },
+        {
+          "letter": "B",
+          "text": "Que los peces se alimentan de las piedras, por eso no necesitan nada más",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las piedras no son alimento; son el fondo del acuario y no aportan alimento ni oxígeno."
+        },
+        {
+          "letter": "C",
+          "text": "Que con agua y piedras ya está completo, porque el aire llega solo por el vidrio",
+          "is_correct": false,
+          "feedback": "Incorrecto. El aire del acuario no llega solo por el vidrio, y el agua y las piedras no producen el alimento que necesitan los peces."
+        },
+        {
+          "letter": "D",
+          "text": "Que entre más peces haya, más alimento se produce dentro del acuario",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los peces son consumidores: aumentar su número aumenta la competencia por el alimento y no lo produce."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar un proyecto exige identificar las condiciones necesarias para que la propuesta funcione. Un ecosistema necesita productores que fabrica alimento y liberen oxígeno, consumidores que se alimenten de esos productores y un medio donde todo ocurra. Un acuario con solo peces no tiene productores, por eso no hay fuente de alimento ni de oxígeno y los peces no sobreviven mucho tiempo. La ausencia de un eslabón es una razón suficiente para rechazar la propuesta.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CIE-4-2026-W03-ecosistemas-y-cadena-alimenticia-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W03-ecosistemas-y-cadena-alimenticia-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál de estas acciones protege mejor el ecosistema de esa zona y explica mejor por qué?",
+      "context": "En un municipio del Caquetá, unos amigos ven que una finca está igual que antes de la tala del bosque cercano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cambiar los pastos de la finca por corrales de ganado de engorde",
+          "is_correct": false,
+          "feedback": "Incorrecto. La intensificación de la ganadería sobre pastos sin árboles aumenta la presión sobre el suelo y no recupera el bosque."
+        },
+        {
+          "letter": "B",
+          "text": "Poner una reja en la entrada de la finca para que no entre la gente",
+          "is_correct": false,
+          "feedback": "Incorrecto. La reja no recupera ni la vegetación ni los animales; solo limita el paso de las personas, sin restaurar el ecosistema."
+        },
+        {
+          "letter": "C",
+          "text": "Plantar árboles nativos y proteger el bosque, porque un ecosistema necesita muchos seres vivos relacionados entre sí",
+          "is_correct": true,
+          "feedback": "Correcto. Recuperar la vegetación nativa y proteger el bosque permite reconstruir la red de alimentación y los demás relaciones del ecosistema."
+        },
+        {
+          "letter": "D",
+          "text": "Construir más casas en el terreno para tener más vecinos cerca",
+          "is_correct": false,
+          "feedback": "Incorrecto. Construir más casas reduce la vegetación y aumenta los usuarios, tiene un efecto contrario sobre el ecosistema."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar acciones de conservación exige distinguir las que reconstruyen el ecosistema de las que solo cambian su apariencia. Un ecosistema es una red de seres vivos relacionados con el suelo, el agua y el aire; si se pierde la vegetación nativa, se pierden también las aves, los insectos y los microorganismos que dependían de ella. Plantar árboles nativos y proteger el bosque permite recuperar poco a poco esa red, mientras que las otras acciones solo cambian el uso del suelo sin restaurar la vida del lugar.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CIE-4-2026-W03-ecosistemas-y-cadena-alimenticia-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    }
+  ]
+}
