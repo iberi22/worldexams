@@ -194,8 +194,6 @@ Un reportaje publica una fotografía de una manifestación sin explicar cuándo 
 - [ ] D) Que la publicación de imágenes esté prohibida en el periodismo escrito <!-- feedback: Las fotografías son un recurso habitual y necesario en el periodismo escrito. -->
 
 ### Explicacion Pedagogica
-Una imagen periodística necesita contexto para ser interpretada correctamente. Cuando se omite la fecha, el lugar o la circumstances...
-
 Una imagen periodística necesita contexto para ser interpretada correctamente. Cuando se omite la fecha, el lugar o las circunstancias de la toma, el lector puede construir una impresión equivocada de lo ocurrido. Explicar el origen de la foto es una decisión ética que protege la precisión del relato. Analizar estos recursos enseña a los estudiantes a mirar más allá de lo evidente en una página de periódico.
 
 ## Question 10 [D9-D10]
