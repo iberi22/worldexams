@@ -240,7 +240,7 @@ El comité afirma que el Texto 2 no puede sostener su conclusión de que «el pr
   <!-- feedback: Incorrecto. El modo narrativo no invalida por sí mismo una conclusión, y el problema está en la ausencia de respaldo, no en la persona. -->
 
 ### Explicacion Pedagogica
-Un juicio sólido señala fallas que cualquier lector pueda comprobar, no impresiones generales. Cuando un texto afirma algo sobre un conjunto de personas, necesita al menos una evidencia y una voz responsable. Exigir eso es lo que distingue la crítica útil de la descalificación sin fundamento.
+Un juicio sólido señala fallas que cualquier lector pueda comprobar, no impresiones generales. Cuando un texto afirma algo sobre un conjunto de personas, necesita al menos una evidencia y una voz responsable. Exigir eso es lo que distingue la crítica útil de la descalificación simple.
 
 ## Question 10 [D7-D8]
 **ID:** CO-LC-10-2026-W18-la-narracion-y-la-voz-testimonial-001-MASTERY-bundle-v10
