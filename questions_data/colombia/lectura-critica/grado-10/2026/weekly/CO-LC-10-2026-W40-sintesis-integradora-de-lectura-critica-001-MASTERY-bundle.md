@@ -93,12 +93,12 @@ Reducir el asunto central con palabras propias evita copiar fragmentos y ayuda a
 ¿Para qué ofrece el narrador del Texto 1 leer en voz alta cualquier página?
 
 ### Opciones
-- [ ] A) Para demostrar que lee mejor que demás lectores de la antología.
+- [ ] A) Para demostrar que lee mejor que los demás lectores de la antología.
   <!-- feedback: El ofrecimiento no busca una competencia de lectura, sino sostener la afirmación sobre su memoria. -->
 - [x] B) Para sostener su versión con una prueba que el lector pueda comprobar en el momento.
   <!-- feedback: Correcto, la recitación en vivo es el único argumento que el narrador puede presentar ante alguien que lo cuestione. -->
 - [ ] C) Para conseguir que lo inviten a dictar conferencias en la universidad.
-  <!-- feedback: El relato no menciona invitaciones ni anticipa ninguna actividad docente de ningún tipo. -->
+  <!-- feedback: El relato no menciona invitaciones ni anticipa actividad docente alguna. -->
 - [ ] D) Para obtener que el diario publique otra vez su historia completa.
   <!-- feedback: El ofrecimiento no menciona publicaciones ni periodistas de prensa, y su destinatario es cualquiera que llegue. -->
 
