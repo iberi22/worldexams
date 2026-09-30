@@ -114,7 +114,7 @@ La motivación es la razón que impulsa las decisiones de un personaje y le da c
 Qué tipo de focalización presenta un fragmento en el que solo se conoce lo que piensa y siente un personaje?
 
 ### Opciones
-- [ ] A) Una focalización explícita, porque el narrador conoce la vida de todos <!-- feedback: La visión amplia corresponde al narrador que conoce más de lo que cuenta. -->
+- [ ] A) Una focalización cero u omnisciente, porque el narrador conoce la vida de todos <!-- feedback: La visión amplia corresponde al narrador que conoce más de lo que cuenta, no a quien solo conoce una conciencia. -->
 - [x] B) Una focalización interna, porque el acceso a la información depende de un solo personaje <!-- feedback: La visión se limita a la conciencia de un personaje y el lector no sale de ella. -->
 - [ ] C) Una focalización externa, porque el narrador observa desde muy lejos <!-- feedback: La distancia del narrador no es lo que limita aquí la información disponible. -->
 - [ ] D) Una focalización nula, porque el narrador no cuenta nada en el fragmento <!-- feedback: El narrador cuenta los hechos, aunque solo conozca los de un personaje. -->
