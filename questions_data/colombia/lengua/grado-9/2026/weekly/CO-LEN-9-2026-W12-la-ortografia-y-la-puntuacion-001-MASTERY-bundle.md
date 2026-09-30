@@ -35,7 +35,7 @@ Esta semana los estudiantes de noveno grado repasan las normas de ortografía y 
 Por qué la palabra "qué" lleva tilde en la oración "qué haces"?
 
 ### Opciones
-- [ ] A) Porque es una palabra interrogativa y por eso siempre se escribe con tilde <!-- feedback: No toda palabra interrogativa lleva tilde, sino las que introducen una pregunta. -->
+- [ ] A) Porque la tilde se usa para marcar los signos de interrogación <!-- feedback: Los signos de interrogación ya se colocan por separado; la tilde depende de la función interrogativa, no de la puntuación. -->
 - [ ] B) Porque las palabras con tilde son siempre las más largas <!-- feedback: La longitud de la palabra no determina el uso de la tilde. -->
 - [x] C) Porque introduce una interrogación directa y esa función exige la tilde <!-- feedback: Los signos de interrogación y la tilde van juntos en este caso. -->
 - [ ] D) Porque sin tilde la palabra cambiaría de significado en este enunciado <!-- feedback: La razón principal es la función interrogativa, no un cambio de significado. -->
@@ -72,13 +72,13 @@ La coma cumple dos tareas principales en la escritura: separar los elementos de 
 Un estudiante escribe "Estimado director, solicito permiso para no asistir". Qué signo falta al final de la línea de saludo?
 
 ### Opciones
-- [x] A) Una coma, porque la línea de saludo se separa con ese signo <!-- feedback: La línea de saludo, el lugar y la fecha se terminan con coma. -->
+- [x] A) Dos puntos, porque la línea de saludo introduce el cuerpo de la carta <!-- feedback: La línea de saludo se cierra con dos puntos, y el lugar y la fecha se terminan con coma. -->
 - [ ] B) Un punto y coma, porque el saludo introduce una explicación larga <!-- feedback: El punto y coma separa oraciones y no se usa para cerrar el saludo. -->
-- [ ] C) Un punto, porque toda línea independiente se cierra con punto <!-- feedback: El cierre con punto es propio de otras líneas de la carta, no del saludo. -->
+- [ ] C) Un punto, porque toda línea independiente se cierra con punto <!-- feedback: La línea de saludo tiene su propio signo de cierre, que no es el punto. -->
 - [ ] D) Ninguno, porque el saludo puede quedar sin ningún signo final <!-- feedback: La norma ortográfica exige cerrar la línea de saludo con un signo. -->
 
 ### Explicacion Pedagogica
-La carta mantiene una fórmula fija en su encabezamiento: lugar, fecha, línea de saludo y asunto, y cada una se cierra con el signo que le corresponde. La línea de saludo se termina con coma porque da paso a lo que sigue. Conocer estas marcas permite ordenar la comunicación escrita formal.
+La carta mantiene una fórmula fija en su encabezamiento: lugar, fecha, línea de saludo y asunto, y cada una se cierra con el signo que le corresponde. La línea de saludo se termina con dos puntos porque introduce el cuerpo de la carta, mientras que el lugar y la fecha se cierran con coma. Conocer estas marcas permite ordenar la comunicación escrita formal.
 
 ## Question 4 [D5-D6]
 **ID:** CO-LEN-9-2026-W12-la-ortografia-y-la-puntuacion-001-MASTERY-bundle-v4

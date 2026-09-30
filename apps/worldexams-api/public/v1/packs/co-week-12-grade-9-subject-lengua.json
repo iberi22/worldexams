@@ -14,9 +14,9 @@
       "options": [
         {
           "letter": "A",
-          "text": "Porque es una palabra interrogativa y por eso siempre se escribe con tilde",
+          "text": "Porque la tilde se usa para marcar los signos de interrogación",
           "is_correct": false,
-          "feedback": "No toda palabra interrogativa lleva tilde, sino las que introducen una pregunta."
+          "feedback": "Los signos de interrogación ya se colocan por separado; la tilde depende de la función interrogativa, no de la puntuación."
         },
         {
           "letter": "B",
@@ -106,9 +106,9 @@
       "options": [
         {
           "letter": "A",
-          "text": "Una coma, porque la línea de saludo se separa con ese signo",
+          "text": "Dos puntos, porque la línea de saludo introduce el cuerpo de la carta",
           "is_correct": true,
-          "feedback": "La línea de saludo, el lugar y la fecha se terminan con coma."
+          "feedback": "La línea de saludo se cierra con dos puntos, y el lugar y la fecha se terminan con coma."
         },
         {
           "letter": "B",
@@ -120,7 +120,7 @@
           "letter": "C",
           "text": "Un punto, porque toda línea independiente se cierra con punto",
           "is_correct": false,
-          "feedback": "El cierre con punto es propio de otras líneas de la carta, no del saludo."
+          "feedback": "La línea de saludo tiene su propio signo de cierre, que no es el punto."
         },
         {
           "letter": "D",
@@ -130,7 +130,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "La carta mantiene una fórmula fija en su encabezamiento: lugar, fecha, línea de saludo y asunto, y cada una se cierra con el signo que le corresponde. La línea de saludo se termina con coma porque da paso a lo que sigue. Conocer estas marcas permite ordenar la comunicación escrita formal.",
+      "explanation": "La carta mantiene una fórmula fija en su encabezamiento: lugar, fecha, línea de saludo y asunto, y cada una se cierra con el signo que le corresponde. La línea de saludo se termina con dos puntos porque introduce el cuerpo de la carta, mientras que el lugar y la fecha se cierran con coma. Conocer estas marcas permite ordenar la comunicación escrita formal.",
       "difficulty": "6",
       "images": [],
       "tags": [],

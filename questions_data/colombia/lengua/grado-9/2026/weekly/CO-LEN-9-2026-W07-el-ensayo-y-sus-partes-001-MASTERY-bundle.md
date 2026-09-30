@@ -71,7 +71,7 @@ El ensayo es un texto de opinión fundamentada: su autor selecciona un tema, ado
 **Expected_Success:** 0.78
 
 ### Enunciado
-La coordinadora pide un texto para la revista del colegio sobre el uso del celular en las aulas. Qué espera de ese escrito?
+La coordinadora pide para la revista del colegio un texto en el que los estudiantes defiendan su postura sobre el uso del celular en las aulas, sosteniéndola con razones. Qué espera de ese escrito?
 
 ### Opciones
 - [ ] A) Un relato en orden cronológico sobre la llegada del teléfono al colegio <!-- feedback: Contar los hechos en secuencia pertenece al relato, no al género ensayístico. -->

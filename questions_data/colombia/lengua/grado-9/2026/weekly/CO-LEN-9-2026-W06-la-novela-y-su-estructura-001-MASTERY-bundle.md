@@ -74,10 +74,10 @@ La diferencia entre novela y cuento no es solo de extensión, sino del uso que e
 Si el narrador conoce únicamente lo que piensa y siente un personaje, qué tipo de narrador es?
 
 ### Opciones
-- [ ] A) Un narrador explícito, que conoce la vida interior de todos los personajes <!-- feedback: El narrador explícito tiene una visión amplia; aquí el conocimiento está restringido a un personaje. -->
+- [ ] A) Un narrador omnisciente, que conoce la vida interior de todos los personajes <!-- feedback: El narrador omnisciente tiene una visión amplia; aquí el conocimiento está restringido a un personaje. -->
 - [ ] B) Un narrador ausente, porque no existe ningún personaje en el fragmento <!-- feedback: El narrador no está ausente y el fragmento incluye personajes con mundo interior. -->
-- [x] C) Un narrador en primera persona, con la perspectiva limitada de un personaje <!-- feedback: La narración desde un solo personaje corresponde al narrador en primera persona, con visibilidad limitada. -->
-- [ ] D) Un narrador en segunda persona, que se dirige directamente al lector <!-- feedback: En la segunda persona el relato emplea la forma "tú"; aquí se conoce lo que piensa un personaje concreto. -->
+- [x] C) Un narrador con focalización interna, que solo conoce lo que piensa y siente ese personaje <!-- feedback: La restricción del conocimiento a una sola conciencia es lo que define la focalización interna, con independencia de la persona narrativa. -->
+- [ ] D) Un narrador en segunda persona, que se dirige directamente al lector <!-- feedback: En la segunda persona el relato emplea la forma "tú", pero eso no explica por qué el lector solo conoce el mundo interior de un personaje. -->
 
 ### Explicacion Pedagogica
 La focalización determina cuánto sabe el narrador y, por tanto, qué información recibe el lector. Cuando la narración se limita a la conciencia de un personaje, el lector descubre los hechos a través de esa mirada y no puede salirse de ella. Esta restricción genera intriga, porque obliga a interpretar lo que el personaje no dice ni advierte. Analizarla ayuda a explicar por qué ciertas novelas resultan más inquietantes que otras.
