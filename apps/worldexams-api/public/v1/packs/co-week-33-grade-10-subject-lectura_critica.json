@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-33-grade-10-subject-lectura_critica",
+    "generated_at": "2026-09-30T20:35:27.718Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-10-2026-W33-el-dialogo-y-la-subtextualidad-001-MASTERY-bundle-v1",
+      "statement": "Según el Texto 1, ¿cuánto costaba el tinto que compartieron doña Rosalba y Julián?",
+      "context": "El profesor de Español lleva al grupo a una cafetería del centro para leer la escena en voz alta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4.500 pesos.",
+          "is_correct": true,
+          "feedback": "Correcto, el texto base indica expresamente que el tinto compartido junto a la ventana costaba 4.500 pesos."
+        },
+        {
+          "letter": "B",
+          "text": "3.200 pesos.",
+          "is_correct": false,
+          "feedback": "Esa cifra corresponde a una factura citada en otro material de la serie, no al tinto de esta escena."
+        },
+        {
+          "letter": "C",
+          "text": "6.800 pesos.",
+          "is_correct": false,
+          "feedback": "El precio de la milledera se menciona como tema de conversación, pero el texto no le asigna ese valor."
+        },
+        {
+          "letter": "D",
+          "text": "9.000 pesos.",
+          "is_correct": false,
+          "feedback": "Ese monto no aparece en ninguno de los dos textos base; el único dato económico del Texto 1 es el precio del tinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Localizar un dato explícito es la habilidad más básica de la lectura, pero sostiene todo lo demás. Si el estudiante no identifica el precio del tinto, no puede valorar el peso económico de la escena ni notar que la venta de la casa nunca aparece con cifras. Por eso la precisión en los datos verificables es el punto de partida de todo análisis posterior del subtexto.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Literal",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-10-2026-W33-el-dialogo-y-la-subtextualidad-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W33-el-dialogo-y-la-subtextualidad-001-MASTERY-bundle-v2",
+      "statement": "¿Cuáles son los dos personajes que participan en el diálogo del Texto 1?",
+      "context": "Antes de leer, los estudiantes anotan en el cuaderno los nombres de quienes participan.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Doña Rosalba y Julián.",
+          "is_correct": true,
+          "feedback": "Correcto, la escena reúne a la dueña de la cafetería y al estudiante de grado décimo, y no aparece ningún otro interlocutor."
+        },
+        {
+          "letter": "B",
+          "text": "Julián y el padre de Julián.",
+          "is_correct": false,
+          "feedback": "El padre de Julián no aparece en la escena; el texto no incluye a ningún miembro de la familia en la conversación."
+        },
+        {
+          "letter": "C",
+          "text": "La narradora y el panadero del barrio.",
+          "is_correct": false,
+          "feedback": "No hay narradora ni panadero en la escena; el narrador cuenta la acción desde fuera de la conversación."
+        },
+        {
+          "letter": "D",
+          "text": "Doña Rosalba y el inspector de la milledera.",
+          "is_correct": false,
+          "feedback": "El texto no menciona a ningún inspector, y el conflicto entre los dos personajes nunca llega a una discusión abierta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reconocer a los participantes de una escena permite medir qué información queda por fuera. Cuando el estudiante supone que hay un testigo o un inspector presente, aplica la lógica de la novela policial y no la del subtexto, pues aquí el conflicto se resuelve entre dos personas y en silencio. Detectar ese error evita inventar conflictos que el texto nunca plantea.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Textual",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-10-2026-W33-el-dialogo-y-la-subtextualidad-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W33-el-dialogo-y-la-subtextualidad-001-MASTERY-bundle-v3",
+      "statement": "En el Texto 1, la respuesta de doña Rosalba de que el que empiece a durar se acaba, ¿a qué se refiere principalmente?",
+      "context": "La lectura se hace por turnos y cada estudiante anota lo que no queda claro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Al precio de la milledera.",
+          "is_correct": false,
+          "feedback": "La milledera aparece como tema de la conversación, pero la frase no habla del valor de ningún objeto."
+        },
+        {
+          "letter": "B",
+          "text": "Al tiempo y a lo que es perecedero.",
+          "is_correct": true,
+          "feedback": "Correcto, la frase alude a que nada dura para siempre, y ese sentido se proyecta sobre el queso, la casa y la relación de los dos."
+        },
+        {
+          "letter": "C",
+          "text": "Al queso de la finca.",
+          "is_correct": false,
+          "feedback": "El queso es el detonante de la pregunta, pero nadie sabe si ella habla del queso, y esa duda es justamente el subtexto."
+        },
+        {
+          "letter": "D",
+          "text": "Al número de clientes de la cafetería.",
+          "is_correct": false,
+          "feedback": "El texto nunca habla de clientes ni de cifras del negocio, de modo que esa lectura se apoya en un dato inexistente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comprender una frase ambigua exige separar lo que la frase nombra de lo que sugiere. La expresión sobre lo que se acaba apunta al tiempo, y ese sentido general se proyecta después sobre varios objetos a la vez. Reconocer el traslado del sentido es el fundamento para leer el doble sentido y la ironía en cualquier escena.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.86,
+      "bundle_id": "CO-LC-10-2026-W33-el-dialogo-y-la-subtextualidad-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W33-el-dialogo-y-la-subtextualidad-001-MASTERY-bundle-v4",
+      "statement": "Según el Texto 2, ¿qué recurso comunica el conflicto entre Amparo y Julián sin que los dos lo declaren con palabras?",
+      "context": "El grupo proyecta las acotaciones del guion en el tablero antes de ensayar la lectura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El número de espectadores del teatro municipal.",
+          "is_correct": false,
+          "feedback": "El dato de los 1.200 espectadores pertenece al programa de mano y sirve de contexto, no de recurso dramático."
+        },
+        {
+          "letter": "B",
+          "text": "El título de la obra, que anuncia de antemano la pelea por un turno.",
+          "is_correct": false,
+          "feedback": "El título anuncia la fila, no el conflicto, y en todo caso no lo comunican los personajes durante la escena."
+        },
+        {
+          "letter": "C",
+          "text": "El nombre del colegio que escribió el guion en 2018.",
+          "is_correct": false,
+          "feedback": "Ese dato identifica al grupo autor, pero no produce ningún efecto dentro de la obra ni entre los personajes."
+        },
+        {
+          "letter": "D",
+          "text": "Las acotaciones que fijan la duración de los silencios.",
+          "is_correct": true,
+          "feedback": "Correcto, el guion mide los silencios en segundos y esa medición vuelve visible la tensión que las palabras no encienden."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Aplicar el concepto de subtexto significa localizar el procedimiento concreto que lo produce. En el guion ese procedimiento no es una frase, sino una instrucción técnica: cuánto dura una pausa. Reconocer que una acotación puede portar más información que una réplica enseña a leer la obra completa, incluidos sus silencios.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Inferencial",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LC-10-2026-W33-el-dialogo-y-la-subtextualidad-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W33-el-dialogo-y-la-subtextualidad-001-MASTERY-bundle-v5",
+      "statement": "De acuerdo con el Texto 2, ¿cuál es la diferencia entre la manera de pedir la palabra de Amparo y la de Julián?",
+      "context": "Los estudiantes comparan en parejas cómo pide la palabra cada personaje del guion.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Amparo la pide con la voz y Julián con el cuerpo.",
+          "is_correct": true,
+          "feedback": "Correcto, el guion describe a Amparo elevando la voz y a Julián cruzando los brazos y mirando al piso."
+        },
+        {
+          "letter": "B",
+          "text": "Amparo la pide con el cuerpo y Julián con la voz.",
+          "is_correct": false,
+          "feedback": "La relación está invertida, porque es Amparo quien usa la voz y Julián el cuerpo para pedir la palabra."
+        },
+        {
+          "letter": "C",
+          "text": "Los dos la piden mediante una pausa del Narrador.",
+          "is_correct": false,
+          "feedback": "La pausa del Narrador marca el ritmo de la obra, pero no es la forma en que los dos personajes solicitan hablar."
+        },
+        {
+          "letter": "D",
+          "text": "Los dos la piden con el dinero del puesto de empanadas.",
+          "is_correct": false,
+          "feedback": "El dinero pertenece al contexto del turno de trabajo y nunca se usa como recurso para pedir la palabra."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los turnos de palabra organizan el discurso y también muestran la posición de quien habla. Cuando un personaje pide con la voz y otro con el cuerpo, la escena establece una asimetría antes de cualquier discusión abierta. Analizar esa diferencia entre turnos es un ejercicio directo de comprensión discursiva y de lectura del poder.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-10-2026-W33-el-dialogo-y-la-subtextualidad-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W33-el-dialogo-y-la-subtextualidad-001-MASTERY-bundle-v6",
+      "statement": "¿Qué efecto busca la acotación que indica cuatro segundos de silencio en el Texto 2?",
+      "context": "La obra se representa el viernes en el teatro del colegio y el grupo analiza el efecto sobre el público.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mostrar que se apagaron las luces del teatro.",
+          "is_correct": false,
+          "feedback": "Las acotaciones del guion no registran cambios de iluminación; los silencios están medidos como parte del ritmo de la obra."
+        },
+        {
+          "letter": "B",
+          "text": "Explicar que los actores olvidaron el texto en esa escena.",
+          "is_correct": false,
+          "feedback": "Nada en el guion sugiere un error de memoria; la pausa está escrita a propósito y por eso se mide en segundos."
+        },
+        {
+          "letter": "C",
+          "text": "Hacer que el público note la incomodidad del momento.",
+          "is_correct": true,
+          "feedback": "Correcto, el silencio prolongado obliga a los espectadores a sentir el vacío de la palabra y la incomodidad de la espera."
+        },
+        {
+          "letter": "D",
+          "text": "Indicar que se entregó el primer premio del teatro municipal.",
+          "is_correct": false,
+          "feedback": "El premio aparece en el programa de mano como dato del festival, no como anotación de escena."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El efecto en el lector o en el espectador pertenece al nivel pragmático del texto. Una pausa escrita con medida exacta no es decorativa, porque obliga a quien asiste a llenar el espacio que los personajes no ocupan. Comprender esa intención es indispensable para justificar por qué una escena funciona sin revelaciones directas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-10-2026-W33-el-dialogo-y-la-subtextualidad-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W33-el-dialogo-y-la-subtextualidad-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál de las frases del Texto 1 funciona como subtexto, es decir, como un significado dicho de manera indirecta por el personaje?",
+      "context": "En el taller cada estudiante subraya las frases que le parecieron más importantes y menos claras.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Comparten un tinto de 4.500 pesos junto a la ventana.",
+          "is_correct": false,
+          "feedback": "Es una descripción directa y verificable del lugar y del gasto; no esconde ningún significado segundo."
+        },
+        {
+          "letter": "B",
+          "text": "Hablan del café y del precio de la milledera.",
+          "is_correct": false,
+          "feedback": "La frase informa sobre el tema de la conversación, pero lo hace de forma explícita y sin ambigüedad."
+        },
+        {
+          "letter": "C",
+          "text": "Ninguno de los dos sabe si habla del queso.",
+          "is_correct": false,
+          "feedback": "La frase registra una reacción del narrador ante la ambigüedad; describe la escena y no es una advertencia del personaje."
+        },
+        {
+          "letter": "D",
+          "text": "Ella le recomienda tener mucho cuidado con lo que no se dice.",
+          "is_correct": true,
+          "feedback": "Correcto, la recomendación es indirecta: llama la atención sobre lo callado justo mientras ella misma calla."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Identificar el subtexto exige preguntarse qué está diciendo realmente el personaje. Una advertencia sobre lo que no se dice opera en dos niveles: dice algo y al mismo tiempo señala que hay otro contenido oculto. Reconocer ese mecanismo muestra que el lector participa activamente en la construcción del significado.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Inferencial",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-10-2026-W33-el-dialogo-y-la-subtextualidad-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W33-el-dialogo-y-la-subtextualidad-001-MASTERY-bundle-v8",
+      "statement": "¿Qué procedimiento del Texto 1 se reconoce cuando doña Rosalba cobra el tinto como si nada, después de todo lo sugerido en la escena?",
+      "context": "El grupo analiza el final de la escena y discute el tono de la frase sobre el cobro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hipérbole.",
+          "is_correct": false,
+          "feedback": "La hipérbole exageraría una magnitud; aquí el efecto no viene de exagerar cantidades, sino del desajuste con la situación."
+        },
+        {
+          "letter": "B",
+          "text": "Ironía.",
+          "is_correct": true,
+          "feedback": "Correcto, la fingida normalidad contrasta con una situación grave que los dos evitan nombrar, y esa distancia produce la ironía."
+        },
+        {
+          "letter": "C",
+          "text": "Metáfora.",
+          "is_correct": false,
+          "feedback": "No hay comparación entre dos órdenes distintos; lo que hay es un contraste de intención, propio de la ironía."
+        },
+        {
+          "letter": "D",
+          "text": "Anáfora.",
+          "is_correct": false,
+          "feedback": "La anáfora es la repetición de una palabra al principio de varias oraciones, figura que el texto no construye."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Distinguir la ironía de la metáfora o la hipérbole exige atender a la distancia entre lo que se dice y lo que ocurre. Cuando alguien actúa como si nada mientras todo apunta a un problema grave, la escena ironiza sobre esa actitud y el lector completa el sentido. Analizar ese mecanismo da cuenta del tono, no solo del contenido.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-10-2026-W33-el-dialogo-y-la-subtextualidad-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W33-el-dialogo-y-la-subtextualidad-001-MASTERY-bundle-v9",
+      "statement": "¿Por qué el narrador del Texto 1 aclara que la novela nunca explica la venta de la casa?",
+      "context": "El profesor pide explicar por qué el cierre de la novela no menciona la casa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para que el lector construya el conflicto a partir del subtexto.",
+          "is_correct": true,
+          "feedback": "Correcto, al dejar la venta sin explicar, el narrador obliga al lector a deducirla de los silencios y de las frases ambiguas."
+        },
+        {
+          "letter": "B",
+          "text": "Para demostrar que la novela es más larga de lo que parece.",
+          "is_correct": false,
+          "feedback": "La longitud del texto no está en discusión, y la nota final cumple otra función, que es la de cerrar el relato."
+        },
+        {
+          "letter": "C",
+          "text": "Para volver real la historia con datos del periodo.",
+          "is_correct": false,
+          "feedback": "El narrador no agrega cifras ni documentos; los datos concretos aparecen en el año, en la calle y en el precio del tinto."
+        },
+        {
+          "letter": "D",
+          "text": "Para repetir lo que los dos personajes ya dijeron al final.",
+          "is_correct": false,
+          "feedback": "Ninguno de los dos nombró la venta durante la escena, de manera que no había nada que repetir."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar la voz del narrador exige preguntar qué trabajo hace cada decisión narrativa. Declarar que algo queda sin explicar es una instrucción: le retira al lector una solución para obligarlo a construirla. Esa autonomía del lector es una forma de subtexto y explica por qué la escena resulta más intensa.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.73,
+      "bundle_id": "CO-LC-10-2026-W33-el-dialogo-y-la-subtextualidad-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W33-el-dialogo-y-la-subtextualidad-001-MASTERY-bundle-v10",
+      "statement": "Al comparar el Texto 1 y el Texto 2, ¿qué afirmación se sostiene con mayor precisión?",
+      "context": "En la clase de taller se arman parejas con un texto de prosa y un texto de teatro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los dos textos usan exclusivamente la narración en primera persona.",
+          "is_correct": false,
+          "feedback": "El Texto 1 es narrado, pero el Texto 2 es un guion con personajes y Narrador, no una narración en primera persona."
+        },
+        {
+          "letter": "B",
+          "text": "Los dos textos dependen exclusivamente del diálogo directo para producir su efecto.",
+          "is_correct": false,
+          "feedback": "El efecto depende justamente de lo que no se dice, así que no puede sostenerse la exclusividad del diálogo directo."
+        },
+        {
+          "letter": "C",
+          "text": "Los dos textos son documentos históricos sobre Manizales y Tuluá.",
+          "is_correct": false,
+          "feedback": "Ambos textos son obras literarias que usan datos de esas ciudades, pero ninguno tiene la función de un documento histórico."
+        },
+        {
+          "letter": "D",
+          "text": "Los dos textos usan silencios y pausas para producir lo que las palabras no dicen.",
+          "is_correct": true,
+          "feedback": "Correcto, la novela registra dos silencios de tres segundos y el guion mide pausas de cuatro segundos."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Comparar dos textos exige aislar lo que comparten por encima del género y del lugar. Aquí el punto común es un procedimiento: la pausa como contenido. Reconocer que prosa y teatro pueden trabajar el mismo recurso permite transferir herramientas de lectura de un texto a otro sin importar su formato.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.71,
+      "bundle_id": "CO-LC-10-2026-W33-el-dialogo-y-la-subtextualidad-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W33-el-dialogo-y-la-subtextualidad-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es el valor artístico más sólido de usar el silencio como información en estas dos escenas?",
+      "context": "Los equipos presentan su lectura dramatizada y el sello del colegio evalúa el uso del silencio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reduce el número de personajes y hace la obra más rápida.",
+          "is_correct": false,
+          "feedback": "La atribución no guarda relación con la velocidad, porque el guion tiene tres personajes y la novela tiene dos."
+        },
+        {
+          "letter": "B",
+          "text": "Permite que el lector construya el conflicto y lo llene de tensión.",
+          "is_correct": true,
+          "feedback": "Correcto, la pausa traslada al lector la tarea de completar el sentido, y esa participación genera la tensión que la escena busca."
+        },
+        {
+          "letter": "C",
+          "text": "Evita que el lector tenga que interpretar los diálogos.",
+          "is_correct": false,
+          "feedback": "El silencio exige más interpretación, no menos, porque el lector debe reconstruir lo que quedó sin palabras."
+        },
+        {
+          "letter": "D",
+          "text": "Sustituye los datos concretos por descripciones generales.",
+          "is_correct": false,
+          "feedback": "Los textos conservan datos verificables como el precio del tinto y el número de espectadores, de modo que no hay sustitución."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar exige justificar por qué un recurso merece la pena narrativa y no solo describirlo. El silencio funciona porque entrega al lector una tarea activa: interpretar el vacío y completarlo. Ese criterio permite distinguir un uso artístico deliberado de una simple ausencia de diálogo en una escena mal construida.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LC-10-2026-W33-el-dialogo-y-la-subtextualidad-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W33-el-dialogo-y-la-subtextualidad-001-MASTERY-bundle-v12",
+      "statement": "¿Qué evidencia de los dos textos refuta mejor esa afirmación?",
+      "context": "Un grupo de dramaturgia del colegio sostiene que el subtexto solo sirve en el teatro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que en los dos textos el subtexto aparece dentro de las acotaciones.",
+          "is_correct": false,
+          "feedback": "Las acotaciones solo existen en el Texto 2, porque es un guion; la novela no las usa y el argumento no se sostiene."
+        },
+        {
+          "letter": "B",
+          "text": "Que el Texto 1 es una novela y el Texto 2 un guion, por lo que no se comparan.",
+          "is_correct": false,
+          "feedback": "La diferencia de género no invalida la comparación, pues permite observar el mismo recurso en dos formatos distintos."
+        },
+        {
+          "letter": "C",
+          "text": "Que el Texto 1 trabaja el subtexto en prosa y el Texto 2 en acotaciones y turnos de palabra.",
+          "is_correct": true,
+          "feedback": "Correcto, la novela lo produce con silencios narrados y frases ambiguas, mientras el guion lo produce con pausas medidas y turnos."
+        },
+        {
+          "letter": "D",
+          "text": "Que ninguno de los dos textos necesita la voz de los personajes.",
+          "is_correct": false,
+          "feedback": "Los dos textos tienen personajes que hablan, y esa voz es precisamente la que se contrasta con lo que queda callado."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar una afirmación ajena exige confrontarla con evidencia concreta y no con opiniones. Mostrar que el mismo efecto se consigue en prosa con silencios narrados y en teatro con acotaciones medidas demuestra que el subtexto es un principio general de la narrativa. Ese criterio sostiene la comparación entre géneros distintos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-10-2026-W33-el-dialogo-y-la-subtextualidad-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}
