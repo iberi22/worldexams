@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-16-grade-9-subject-lengua",
+    "generated_at": "2026-09-30T03:51:20.748Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-9-2026-W16-la-literatura-y-su-valor-001-MASTERY-bundle-v1",
+      "statement": "Según lo estudiado en clase, ¿qué caracteriza a la literatura como forma de lenguaje?",
+      "context": "En el aula de Español de Bogotá, la docente pregunta a los estudiantes de noveno grado qué entienden por literatura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que organiza datos comprobables en tablas y cuadros comparativos",
+          "is_correct": false,
+          "feedback": "La organización de datos en tablas corresponde a los textos informativos y no a la literatura."
+        },
+        {
+          "letter": "B",
+          "text": "Que emplea el lenguaje para representar mundos y experiencias humanas",
+          "is_correct": true,
+          "feedback": "La literatura construye mundos posibles a través del lenguaje y esa es su característica central."
+        },
+        {
+          "letter": "C",
+          "text": "Que sirve únicamente para definir las palabras que aparecen en el diccionario",
+          "is_correct": false,
+          "feedback": "Definir palabras es tarea de los textos lexicográficos y no de los textos literarios."
+        },
+        {
+          "letter": "D",
+          "text": "Que sustituye a la ciencia porque ofrece explicaciones más exactas del mundo",
+          "is_correct": false,
+          "feedback": "La literatura y la ciencia responden a preguntas distintas y no se reemplazan entre sí."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La literatura es una forma de lenguaje que, en lugar de limitarse a informar, construye mundos posibles mediante la palabra. Esos mundos pueden ser históricos, imaginarios o cotidianos, y todos responden a experiencias humanas. Reconocer esta diferencia ayuda a distinguir una novela de un manual o de un reporte oficial.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Semantico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LEN-9-2026-W16-la-literatura-y-su-valor-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W16-la-literatura-y-su-valor-001-MASTERY-bundle-v2",
+      "statement": "¿Por qué se afirma que la literatura cumple una función social en un país como Colombia?",
+      "context": "En la feria de libros del colegio de Medellín, un grupo de noveno grado prepara una cartelera sobre la función de la literatura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque transmite cifras oficiales sobre la población del país",
+          "is_correct": false,
+          "feedback": "Las cifras oficiales corresponden al informe estadístico y no a la creación literaria."
+        },
+        {
+          "letter": "B",
+          "text": "Porque fija las normas morales que todos los ciudadanos deben cumplir",
+          "is_correct": false,
+          "feedback": "La literatura plantea interrogantes y debate valores, pero no impone normas a nadie."
+        },
+        {
+          "letter": "C",
+          "text": "Porque ayuda a pensar la identidad y los problemas de una sociedad",
+          "is_correct": true,
+          "feedback": "Los textos literarios representan a las personas y permiten discutir sus problemas."
+        },
+        {
+          "letter": "D",
+          "text": "Porque conserva la única versión verdadera del pasado colombiano",
+          "is_correct": false,
+          "feedback": "La literatura ofrece versiones posibles y discutibles, nunca una versión única y definitiva."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se habla de función social de la literatura porque sus textos representan a las personas y permiten nombrar y discutir los problemas de un país. Una obra como la de Gabriel García Márquez no solo relata algo: también ayuda a pensar qué es Colombia y cómo viven sus habitantes. Esa capacidad de representación es la que se estudia esta semana.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.86,
+      "bundle_id": "CO-LEN-9-2026-W16-la-literatura-y-su-valor-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W16-la-literatura-y-su-valor-001-MASTERY-bundle-v3",
+      "statement": "¿Qué rasgo del texto permite reconocer que se trata de un texto literario y no de un informe periodístico?",
+      "context": "En la biblioteca de Cartagena, un estudiante de noveno grado lee un fragmento narrativo antes de escribir su análisis.",
+      "options": [
+        {
+          "letter": "D",
+          "text": "La selección de detalles, los personajes y un lenguaje con valor expresivo",
+          "is_correct": true,
+          "feedback": "La elección de detalles y el tono expresivo son propios del texto literario."
+        },
+        {
+          "letter": "A",
+          "text": "La presencia de datos numéricos y de fuentes citadas al final",
+          "is_correct": false,
+          "feedback": "Los datos con fuentes corresponden al informe, que busca informar de forma verificable."
+        },
+        {
+          "letter": "B",
+          "text": "La fecha de publicación y el nombre del medio donde apareceu",
+          "is_correct": false,
+          "feedback": "Esos datos identifican la publicación, pero no distinguen el género del texto."
+        },
+        {
+          "letter": "C",
+          "text": "El uso de un lenguaje que evita cualquier valoración o comentario",
+          "is_correct": false,
+          "feedback": "El lenguaje objetivo es propio del texto informativo y no del texto literario."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Un texto literario se reconoce por decisiones de estilo: qué detalles se conservan, qué personajes se presentan y cómo se construye el lenguaje. Un informe, en cambio, prioriza la precisión de los datos y la citación de fuentes. Identificar estos rasgos es un ejercicio de lectura crítica que permite analizar cualquier género con fundamento.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Textual",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LEN-9-2026-W16-la-literatura-y-su-valor-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W16-la-literatura-y-su-valor-001-MASTERY-bundle-v4",
+      "statement": "Un equipo debe elegir un texto que ilustre claramente la función social de la literatura. ¿Cuál cumple mejor esa condición?",
+      "context": "En el taller de lectura de Bucaramanga, la docente pide un ejemplo para ilustrar la función social de la literatura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una novela que representa la vida de una familia campesina en el valle del Cauca",
+          "is_correct": true,
+          "feedback": "El relato da voz y contexto a un grupo que rara vez aparece representado."
+        },
+        {
+          "letter": "B",
+          "text": "Un catálogo con los precios de los libros de una librería de Bogotá",
+          "is_correct": false,
+          "feedback": "El catálogo informa sobre productos y precios, y no representa experiencias humanas."
+        },
+        {
+          "letter": "C",
+          "text": "Un manual de instrucciones para armar una estantería de madera",
+          "is_correct": false,
+          "feedback": "El manual describe un procedimiento técnico mediante un lenguaje referencial."
+        },
+        {
+          "letter": "D",
+          "text": "Una tabla con las temperaturas registradas durante un mes en Tunja",
+          "is_correct": false,
+          "feedback": "Los datos climáticos forman parte de un informe y no de una obra literaria."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un texto cumple la condición pedida cuando permite reconocer una realidad social concreta a través de personajes y situaciones. La novela elegida da voz a un grupo que los informes casi nunca incluyen, y eso permite comprender mejor el campo colombiano. Este criterio resulta útil para cualquier análisis: primero se identifica qué realidad muestra el texto y después se valora su alcance.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semantico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-9-2026-W16-la-literatura-y-su-valor-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W16-la-literatura-y-su-valor-001-MASTERY-bundle-v5",
+      "statement": "Un estudiante afirma que lee literatura \"solo para distraerse y no pensar\". ¿Qué ajuste hace que esa respuesta cumpla mejor su propósito?",
+      "context": "En una exposición oral en Cali, un estudiante de noveno grado responde a la pregunta sobre por qué lee literatura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mantener la frase sin cambios, porque es sincera y con eso basta",
+          "is_correct": false,
+          "feedback": "Una respuesta sincera pero incompleta no desarrolla la idea que se propone."
+        },
+        {
+          "letter": "B",
+          "text": "Cambiar el destinatario, porque hablar con otro público hace válida la frase",
+          "is_correct": false,
+          "feedback": "Cambiar el público no amplía el contenido limitado de la afirmación inicial."
+        },
+        {
+          "letter": "C",
+          "text": "Reconocer el entretenimiento y añadir que también permite interpretar lo que lee",
+          "is_correct": true,
+          "feedback": "La respuesta suma una idea nueva sin contradecir lo que el estudiante ya dijo."
+        },
+        {
+          "letter": "D",
+          "text": "Reemplazar toda la intervención por una lectura completa de la obra",
+          "is_correct": false,
+          "feedback": "Leer en voz alta no convierte por sí solo la respuesta en un análisis del propósito."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una respuesta oral cumple su propósito cuando reconoce lo que ya dijo y completa su sentido. El entretenimiento no contradice la interpretación: una novela puede distraer y, al mismo tiempo, llevar a formular preguntas sobre lo que representa. Por eso el ajuste más sólido suma una idea nueva en lugar de contradecir la postura inicial.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEN-9-2026-W16-la-literatura-y-su-valor-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W16-la-literatura-y-su-valor-001-MASTERY-bundle-v6",
+      "statement": "Un grupo lee una descripción del campo colombiano en una novela y otra en un reporte estadístico. ¿Qué diferencia debe observar el estudiante?",
+      "context": "En el proyecto de lectura de Bogotá, un grupo de noveno grado compara dos textos sobre el campo colombiano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que solo el reporte sirve para conocer la realidad, porque entrega cifras exactas",
+          "is_correct": false,
+          "feedback": "Ambas fuentes informan, solo que cada una lo hace con recursos distintos."
+        },
+        {
+          "letter": "B",
+          "text": "Que la novela muestra lo que las cifras omiten y el reporte cuantifica lo que mide",
+          "is_correct": true,
+          "feedback": "Cada género aporta un conocimiento que el otro no alcanza a ofrecer por sí solo."
+        },
+        {
+          "letter": "C",
+          "text": "Que ambos textos son idénticos, porque describen el mismo territorio nacional",
+          "is_correct": false,
+          "feedback": "Comparten el referente, pero difieren en la forma de tratarlo y en su intención."
+        },
+        {
+          "letter": "D",
+          "text": "Que la novela es más útil, porque un dato aislado nunca permite entender nada",
+          "is_correct": false,
+          "feedback": "Los datos y el relato se necesitan mutuamente para comprender una realidad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un texto literario y uno informativo cumplen funciones distintas frente al mismo referente: la novela presenta la experiencia vivida y el reporte ofrece datos comprobables. Ninguno reemplaza al otro, y leídos en conjunto dan una comprensión más completa de esa realidad. Reconocer la diferencia enseña que cada género resuelve un problema distinto de lectura.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Critico-Intertextual",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LEN-9-2026-W16-la-literatura-y-su-valor-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W16-la-literatura-y-su-valor-001-MASTERY-bundle-v7",
+      "statement": "Un autor afirma que la literatura \"guarda la memoria de un pueblo\" y a continuación presenta varios ejemplos que lo confirman. ¿Qué estructura argumentativa está usando?",
+      "context": "En el círculo de lectura de Medellín, un grupo de noveno grado analiza cómo un autor sostiene su afirmación sobre la literatura.",
+      "options": [
+        {
+          "letter": "D",
+          "text": "Una tesis seguida de ejemplos que la respaldan y le dan credibilidad",
+          "is_correct": true,
+          "feedback": "Los ejemplos cumplen la función de sostener y comprobar la afirmación inicial."
+        },
+        {
+          "letter": "A",
+          "text": "Una serie de conclusiones sin ninguna idea que las organice",
+          "is_correct": false,
+          "feedback": "La presencia de ejemplos que confirman una idea indica que sí hay una tesis."
+        },
+        {
+          "letter": "B",
+          "text": "Una descripción de personajes que no se relaciona con la afirmación inicial",
+          "is_correct": false,
+          "feedback": "Los ejemplos del autor se relacionan directamente con lo que afirma al comienzo."
+        },
+        {
+          "letter": "C",
+          "text": "Un relato cronológico de la vida del autor, sin propósito demostrativo",
+          "is_correct": false,
+          "feedback": "En el texto descrito no aparece una narración biográfica del escritor."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Presentar una afirmación y luego reunir ejemplos que la sostienen constituye una estructura argumentativa sencilla pero eficaz. El lector puede comprobar si cada ejemplo corresponde a lo que la tesis afirma. Reconocer esta secuencia ayuda a evaluar la solidez de cualquier texto, porque separa la idea principal de su respaldo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LEN-9-2026-W16-la-literatura-y-su-valor-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W16-la-literatura-y-su-valor-001-MASTERY-bundle-v8",
+      "statement": "En un poema, el autor imagina un paisaje que nunca existió y lo describe con todo detalle. ¿Qué nos dice ese recurso sobre la función del texto?",
+      "context": "En el proyecto de lectura de Barranquilla, un grupo de noveno grado analiza un poema de Rafael Pombo.",
+      "options": [
+        {
+          "letter": "B",
+          "text": "Que el poema crea un mundo propio para provocar una experiencia estética",
+          "is_correct": true,
+          "feedback": "Construir con verosimilitud un paisaje inexistente es una labor propia de la poesía."
+        },
+        {
+          "letter": "A",
+          "text": "Que el poema busca informar sobre un lugar real de Colombia",
+          "is_correct": false,
+          "feedback": "Si el lugar no existió, el texto no puede estar cumpliendo una función informativa."
+        },
+        {
+          "letter": "C",
+          "text": "Que el poema copia la descripción publicada por un geógrafo",
+          "is_correct": false,
+          "feedback": "No se menciona ninguna fuente geográfica en el poema descrito."
+        },
+        {
+          "letter": "D",
+          "text": "Que el poema sirve para corregir los mapas que circulan en el país",
+          "is_correct": false,
+          "feedback": "Un poema no tiene la función de rectificar información cartográfica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Describir un paisaje inexistente muestra que el texto literario construye su propio objeto, con una verosimilitud que no depende de la comprobación factual. La combinación de palabras e imágenes hace que el lector imagine el lugar y reaccione ante él. Esa capacidad de crear mundos es lo que distingue a la literatura de los textos que solo informan.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-9-2026-W16-la-literatura-y-su-valor-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W16-la-literatura-y-su-valor-001-MASTERY-bundle-v9",
+      "statement": "Un poeta retoma un motivo tomado de un cuento popular de la costa colombiana. ¿Qué efecto produce esa relación entre los dos textos?",
+      "context": "En el aula de Barranquilla, la docente de noveno grado trabaja la relación entre la poesía y la tradición oral.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Conecta la obra con una tradición y muestra cómo los textos se alimentan entre sí",
+          "is_correct": true,
+          "feedback": "Retomar un motivo tradicional establece un diálogo entre la obra nueva y el texto anterior."
+        },
+        {
+          "letter": "B",
+          "text": "Sustituye el cuento original por una versión mejor y más completa",
+          "is_correct": false,
+          "feedback": "Un texto nuevo no borra ni reemplaza al texto tradicional que toma como base."
+        },
+        {
+          "letter": "C",
+          "text": "Convierte el texto tradicional en un dato que ya no tiene valor expresivo",
+          "is_correct": false,
+          "feedback": "El motivo conserva su valor expresivo y además gana otro con el uso nuevo."
+        },
+        {
+          "letter": "D",
+          "text": "Aísla la obra de toda tradición, porque crea un lenguaje completamente extraño",
+          "is_correct": false,
+          "feedback": "Retomar un motivo tradicional vincula la obra con una herencia, en vez de aislarla."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cuando un texto nuevo incorpora un motivo de otro texto anterior se establece una relación de intertextualidad que conecta tradiciones distintas. El motivo conserva su carga significativa y, a la vez, se enriquece con el contexto en que aparece. Esta relación muestra que la literatura no se produce aislada, sino en un diálogo permanente con lo ya escrito.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Critico-Intertextual",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LEN-9-2026-W16-la-literatura-y-su-valor-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W16-la-literatura-y-su-valor-001-MASTERY-bundle-v10",
+      "statement": "Un estudiante argumenta que la literatura no sirve hoy porque el cine y los videojuegos cuentan mejores historias. ¿Qué evaluación de ese razonamiento es la más sólida?",
+      "context": "En el foro virtual del colegio de Bogotá, los estudiantes de noveno grado discuten el valor de la literatura en la vida moderna.",
+      "options": [
+        {
+          "letter": "C",
+          "text": "Es insuficiente, porque no demuestra que los otros formatos no tengan valor propio",
+          "is_correct": true,
+          "feedback": "El ejemplo de otros formatos no prueba la irrelevancia de la literatura."
+        },
+        {
+          "letter": "A",
+          "text": "Es sólida, porque los formatos digitales han desplazado por completo al texto escrito",
+          "is_correct": false,
+          "feedback": "Sostener un reemplazo total exige pruebas que el razonamiento no presenta."
+        },
+        {
+          "letter": "B",
+          "text": "Es sólida, porque leer exige más esfuerzo que ver una adaptación audiovisual",
+          "is_correct": false,
+          "feedback": "La comparación de esfuerzo es una opinión personal y no una demostración."
+        },
+        {
+          "letter": "D",
+          "text": "Es incorrecta, porque la literatura siempre fue superior a toda forma de entretenimiento",
+          "is_correct": false,
+          "feedback": "Nadie dice eso en el texto, y esa afirmación tampoco refuta el argumento."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar un razonamiento exige distinguir entre lo que el argumento demuestra y lo que solo afirma. El ejemplo de otros formatos sí cierta experiencia narrativa, pero eso no demuestra que la literatura deje de tener valor propio. Una crítica responsable hubiera detallado qué queda sin responder, en lugar de suponer que la evidencia mostrada es completa.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.62,
+      "bundle_id": "CO-LEN-9-2026-W16-la-literatura-y-su-valor-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W16-la-literatura-y-su-valor-001-MASTERY-bundle-v11",
+      "statement": "Un texto afirma que la literatura no debe estudiarse en las universidades porque el país necesita profesionales técnicos. ¿Qué valoración de esa conclusión es la más sólida?",
+      "context": "En el club de lectura de Pasto, un grupo de noveno grado evalúa un texto que propone transformar la universidad pública.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es correcta, porque el mercado laboral solo valora los títulos técnicos",
+          "is_correct": false,
+          "feedback": "El texto no aporta datos del mercado laboral que sostengan esa generalización."
+        },
+        {
+          "letter": "B",
+          "text": "Es correcta, porque las universidades deben eliminar los departamentos de humanidades",
+          "is_correct": false,
+          "feedback": "Esa es una medida extrema que el texto no propone ni sustenta en ningún momento."
+        },
+        {
+          "letter": "C",
+          "text": "Es insuficiente, porque la conclusión no se deduce del hecho expuesto y simplifica la formación profesional",
+          "is_correct": true,
+          "feedback": "Hay un salto lógico entre la necesidad de técnicos y la supresión de una disciplina."
+        },
+        {
+          "letter": "D",
+          "text": "Es incorrecta, porque ninguna institución tiene derecho a programar asignaturas de literatura",
+          "is_correct": false,
+          "feedback": "Nadie afirma eso en el texto, y la crítica debe concentrarse en lo que sí se dice."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una conclusión sólida se apoya en lo que el texto efectivamente demuestra. El argumento citado salta de la necesidad de profesionales técnicos a la supresión de una disciplina, sin explicar esa relación. Detectar ese salto ayuda a evaluar los razonamientos con rigor, incluso cuando suenan convincentes por la fuerza de sus palabras.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-9-2026-W16-la-literatura-y-su-valor-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W16-la-literatura-y-su-valor-001-MASTERY-bundle-v12",
+      "statement": "Un texto publicitario asegura que leer literatura \"despierta la imaginación y cambia la vida de quien lo hace\". ¿Qué valoración de esa promesa es la más responsable?",
+      "context": "En el taller de investigación de Armenia, un grupo de noveno grado prepara una cartelera sobre el valor de leer.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es válida, porque toda promesa de un anuncio publicitario debe creerse sin reserva",
+          "is_correct": false,
+          "feedback": "La publicidad busca persuadir, y eso no garantiza que el efecto sea real."
+        },
+        {
+          "letter": "B",
+          "text": "Es válida, porque la imaginación solo se desarrolla con la lectura de obras literarias",
+          "is_correct": false,
+          "feedback": "Hay otras prácticas que desarrollan la imaginación, y el anuncio no lo demuestra."
+        },
+        {
+          "letter": "C",
+          "text": "Es exagerada, porque presenta un efecto amplio sin explicar cómo se produciría",
+          "is_correct": true,
+          "feedback": "La promesa salta de leer libros a cambiar la vida entera sin mostrar el camino."
+        },
+        {
+          "letter": "D",
+          "text": "Es inválida, porque la publicidad nunca puede hablar de beneficios reales",
+          "is_correct": false,
+          "feedback": "Un anuncio puede señalar beneficios, siempre que no exagere lo que ofrece."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un texto publicitario responde a fines de persuasión, por lo que conviene distinguir la promesa del efecto comprobable. Atribuir a la lectura un cambio total en la vida exige explicación de cómo se llega a ese resultado. Valorar la publicidad con sentido crítico enseña a los estudiantes a reconocer el lenguaje de la persuasión en cualquier medio.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.58,
+      "bundle_id": "CO-LEN-9-2026-W16-la-literatura-y-su-valor-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}

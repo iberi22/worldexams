@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-18-grade-9-subject-lengua",
+    "generated_at": "2026-09-30T03:51:20.749Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-9-2026-W18-la-oda-y-la-elegia-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál de los siguientes textos pertenece al género de la poesía de tema?",
+      "context": "En el aula de Español de Bogotá, la docente prepara un taller de poesía para los estudiantes de noveno grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una tabla que compara las obras de dos poetas colombianos del siglo XIX",
+          "is_correct": false,
+          "feedback": "Una tabla comparativa organiza información y pertenece al texto informativo."
+        },
+        {
+          "letter": "B",
+          "text": "Un informe que analiza las ventas de libros en las librerías de Medellín",
+          "is_correct": false,
+          "feedback": "El informe presenta datos de ventas y responde a una necesidad informativa."
+        },
+        {
+          "letter": "C",
+          "text": "Un poema que reflexiona sobre la ausencia de alguien y el duelo que provoca",
+          "is_correct": true,
+          "feedback": "La reflexión sobre una ausencia y el duelo es materia propia de la poesía de tema."
+        },
+        {
+          "letter": "D",
+          "text": "Un manual que explica paso a paso cómo se construye una estrofa de cuatro versos",
+          "is_correct": false,
+          "feedback": "El manual enseña un procedimiento técnico y pertenece al texto instruccional."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La poesía de tema expresa una reflexión personal frente a un asunto, ya sea alegre o triste. Un poema sobre la ausencia y el duelo cumple esa función, porque no informa sobre datos ni enseña un procedimiento: hace sentir. Por eso se distingue de una tabla comparativa, de un informe de ventas y de un manual de versificación, aunque los tres empleen el lenguaje escrito.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Semantico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LEN-9-2026-W18-la-oda-y-la-elegia-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W18-la-oda-y-la-elegia-001-MASTERY-bundle-v2",
+      "statement": "¿Qué rasgo del texto lírico permite reconocer la expresión de una emoción?",
+      "context": "En el taller de escritura de Bucaramanga, un grupo de noveno grado lee un poema y anota los recursos que encuentra.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La presentación de datos numéricos que exigen un cálculo para entenderse",
+          "is_correct": false,
+          "feedback": "Los cálculos y las cifras corresponden a textos informativos, no a la expresión emocional."
+        },
+        {
+          "letter": "B",
+          "text": "El uso de imágenes, metáforas y un ritmo que sugieren un sentimiento",
+          "is_correct": true,
+          "feedback": "Las imágenes y el ritmo hacen que el poema sugiera la emoción en lugar de enunciarla."
+        },
+        {
+          "letter": "C",
+          "text": "La organización de la información en apartados con títulos y subtítulos",
+          "is_correct": false,
+          "feedback": "Los apartados y los títulos corresponden a la estructura de un texto expositivo."
+        },
+        {
+          "letter": "D",
+          "text": "El uso de un vocabulario técnico acompañado de definiciones al final",
+          "is_correct": false,
+          "feedback": "El aparato de definiciones es propio de los textos técnicos, no de los líricos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El texto lírico se reconoce por un lenguaje que no describe con neutralidad, sino que evoca. Las imágenes, las metáforas y el ritmo sugieren una emoción en lugar de enunciarla de manera directa. Ese recurso es justamente lo que lo separa de una tabla, de un manual o de un texto con definiciones, donde lo importante es la precisión de los datos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Textual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W18-la-oda-y-la-elegia-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W18-la-oda-y-la-elegia-001-MASTERY-bundle-v3",
+      "statement": "¿Qué función cumple un poema dedicado a una persona querida y presentado en un acto público?",
+      "context": "En un encuentro de poesía de Medellín, un recita un poema dedicado a su abuela durante un acto escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Comunicar una experiencia personal y provocar una respuesta emocional en quien escucha",
+          "is_correct": true,
+          "feedback": "El poema busca conmover, y ese efecto es su propósito declarado ante el público."
+        },
+        {
+          "letter": "B",
+          "text": "Transmitir datos biográficos comprobables sobre la persona a quien se dedica",
+          "is_correct": false,
+          "feedback": "El poema no ofrece fuentes verificables, porque su intención no es ordenar datos."
+        },
+        {
+          "letter": "C",
+          "text": "Instruir al público sobre cómo debe comportarse en un acto cultural",
+          "is_correct": false,
+          "feedback": "El texto poético no dicta normas de conducta al público que lo escucha."
+        },
+        {
+          "letter": "D",
+          "text": "Defender una tesis sobre el valor económico de los libros en Colombia",
+          "is_correct": false,
+          "feedback": "La tesis económica pertenece al texto argumentativo, no a una recitación poética."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un poema presentado en un acto público busca conmover y compartir una experiencia. Aunque el texto mencione hechos reales, no se propone como fuente de datos comprobables, ni como instrucción de conducta, ni como argumento económico. Su efecto buscado es emocional, y en ese carácter está su diferencia más clara con los otros textos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.83,
+      "bundle_id": "CO-LEN-9-2026-W18-la-oda-y-la-elegia-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W18-la-oda-y-la-elegia-001-MASTERY-bundle-v4",
+      "statement": "Un poema habla de la lluvia que cae sobre Cartagena. ¿Qué lo convierte en un poema elegíaco y no en una descripción informativa del clima?",
+      "context": "Un equipo de noveno grado de Cartagena prepara una antología de poesía colombiana para la semana cultural.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que menciona la cantidad de lluvia que cae cada año en la ciudad",
+          "is_correct": false,
+          "feedback": "Las cifras y los promedios pertenecen al texto informativo y no definen la poesía elegíaca."
+        },
+        {
+          "letter": "B",
+          "text": "Que incluye los nombres de las estaciones del año",
+          "is_correct": false,
+          "feedback": "Nombrar estaciones es una manera de informar, no de expresar una pérdida."
+        },
+        {
+          "letter": "C",
+          "text": "Que emplea términos científicos para nombrar las nubes",
+          "is_correct": false,
+          "feedback": "El vocabulario científico orienta hacia el texto técnico, no hacia el poema."
+        },
+        {
+          "letter": "D",
+          "text": "Que usa esa lluvia para expresar un sentimiento, como la nostalgia o el duelo",
+          "is_correct": true,
+          "feedback": "La imagen meteorológica se pone al servicio de una emoción y por eso el texto es elegíaco."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La elegía se reconoce no por el asunto que menciona, sino por el sentimiento que comunica. Aunque la lluvia sea un fenómeno que también puede medirse, el poema la usa para expresar una pérdida o una nostalgia. Cuando la imagen se pone al servicio de una emoción, el texto pertenece a la poesía elegíaca y no al género informativo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.79,
+      "bundle_id": "CO-LEN-9-2026-W18-la-oda-y-la-elegia-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W18-la-oda-y-la-elegia-001-MASTERY-bundle-v5",
+      "statement": "Un estudiante convierte una descripción de la mar de Cartagena en unos versos. ¿Qué cambio define mejor el paso de la descripción al poema elegíaco?",
+      "context": "En el taller de escritura de Bogotá, un estudiante de noveno grado reescribe un fragmento de un poema.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El aumento del número de versos para que el texto ocupe más páginas",
+          "is_correct": false,
+          "feedback": "Agregar versos no cambia el carácter del texto, solamente su extensión."
+        },
+        {
+          "letter": "B",
+          "text": "La sustitución de la descripción por la expresión de un sentimiento",
+          "is_correct": true,
+          "feedback": "El poema aparece cuando la imagen deja de informar y pasa a expresar una emoción."
+        },
+        {
+          "letter": "C",
+          "text": "La adición de datos sobre la temperatura del mar en cada verso",
+          "is_correct": false,
+          "feedback": "Incorporar datos mantiene la función informativa y aleja el texto de la poesía."
+        },
+        {
+          "letter": "D",
+          "text": "El reemplazo de cada imagen por una explicación de causa y efecto",
+          "is_correct": false,
+          "feedback": "Explicar con lógica causal aparta el texto de la función expresiva de la poesía."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Convertir una descripción en poema elegíaco no depende de la cantidad de versos ni de la adición de datos. Depende de que la imagen del mar deje de informar y pase a expresar un sentimiento, como la ausencia de alguien o el recuerdo de un encuentro. Ese desplazamiento del dato hacia la emoción es la diferencia entre dos formas de hablar.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semantico",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LEN-9-2026-W18-la-oda-y-la-elegia-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W18-la-oda-y-la-elegia-001-MASTERY-bundle-v6",
+      "statement": "Un texto exalta con alegría el trabajo de los cafetales en Caldas y otro expresa el arrepentimiento por una persona que se va. ¿Qué explica mejor esa diferencia de tono?",
+      "context": "En el club de lectura de Manizales, un grupo de noveno grado compara dos poemas con tonos distintos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el primer texto usa más estrofas que el segundo",
+          "is_correct": false,
+          "feedback": "La cantidad de estrofas es una formalización y no explica la diferencia de emoción."
+        },
+        {
+          "letter": "B",
+          "text": "Que el segundo texto fue escrito por un autor que no conoce el asunto",
+          "is_correct": false,
+          "feedback": "El conocimiento del asunto no determina el tono que el poema expresa."
+        },
+        {
+          "letter": "C",
+          "text": "Que la oda y la elegía responden a propósitos distintos, porque una celebra y la otra llora",
+          "is_correct": true,
+          "feedback": "El propósito de cada poema explica el tono que adopta, y ese es el rasgo que los distingue."
+        },
+        {
+          "letter": "D",
+          "text": "Que la elegía pertenece al género informativo y la oda al género narrativo",
+          "is_correct": false,
+          "feedback": "La elegía es poesía de tema, igual que la oda, y no pertenece a los géneros informativos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La oda y la elegía son dos modos de la poesía de tema, distinguidos por la emoción que cada una pone en el centro. Una celebra y la otra llora. Por eso la diferencia de tono entre dos textos no se explica por su extensión ni por los datos que incluyen, sino por el propósito con el que fueron escritos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LEN-9-2026-W18-la-oda-y-la-elegia-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W18-la-oda-y-la-elegia-001-MASTERY-bundle-v7",
+      "statement": "Un poema de Rafael Pombo y una descripción técnica de la costa colombiana presentan el mismo paisaje. ¿Qué relación permite entender mejor esa comparación?",
+      "context": "En el proyecto de lectura de Barranquilla, un grupo de noveno grado compara dos textos sobre el mismo paisaje.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el poema ofrece una experiencia del paisaje que la descripción técnica no persigue",
+          "is_correct": true,
+          "feedback": "El poema busca evocar una vivencia, y ese propósito no coincide con el de la descripción."
+        },
+        {
+          "letter": "B",
+          "text": "Que la descripción técnica sirve para corregir los errores del poema",
+          "is_correct": false,
+          "feedback": "Ninguno de los dos textos es un error, cada uno responde a una intención distinta."
+        },
+        {
+          "letter": "C",
+          "text": "Que el poema y la descripción transmiten exactamente la misma información",
+          "is_correct": false,
+          "feedback": "Los dos textos describen lo mismo, pero cada uno lo hace con recursos distintos."
+        },
+        {
+          "letter": "D",
+          "text": "Que solo la descripción técnica puede considerarse una representación válida",
+          "is_correct": false,
+          "feedback": "Las dos formas son representaciones válidas porque responden a preguntas diferentes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un poema y una descripción técnica pueden mirar el mismo paisaje y llegar a resultados muy distintos. La descripción mide y enumera; el poema sugiere y con ello ofrece al lector una experiencia que no cabe en un dato. Comparar los dos textos no es un ejercicio de corrección, sino una manera de entender qué añade y qué deja de lado cada forma de representación.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Critico-Intertextual",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-9-2026-W18-la-oda-y-la-elegia-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W18-la-oda-y-la-elegia-001-MASTERY-bundle-v8",
+      "statement": "Un manual afirma que toda poesía de tema es elegía porque las dos tratan asuntos tristes. ¿Qué valoración de esa postura es la más sólida?",
+      "context": "En el semillero de lectura de Popayán, un grupo de noveno grado analiza una clasificación de géneros poéticos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es acertada, porque la tristeza es el único tema que la poesía trabaja",
+          "is_correct": false,
+          "feedback": "La poesía trabaja también la alegría, el amor, la justicia y muchos otros temas."
+        },
+        {
+          "letter": "B",
+          "text": "Es acertada, porque elegía y poesía de tema son exactamente la misma categoría",
+          "is_correct": false,
+          "feedback": "La elegía es un tipo particular de poesía de tema y no su sinónimo equivalente."
+        },
+        {
+          "letter": "C",
+          "text": "Es incorrecta, porque la elegía pertenece a la prosa y no a la poesía",
+          "is_correct": false,
+          "feedback": "La elegía es un género poético, de modo que esa clasificación no se sostiene."
+        },
+        {
+          "letter": "D",
+          "text": "Es imprecisa, porque la elegía es un tipo de poesía de tema con una emoción particular",
+          "is_correct": true,
+          "feedback": "La clasificación confunde una característica general con un rasgo particular del género."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La clasificación propuesta confunde una característica general con un rasgo particular. La elegía es un tipo de poesía de tema y se caracteriza por una emoción concreta: el duelo y la pérdida. Si toda poesía de tema fuera elegía, entonces cualquier poema alegre sería un error, lo cual es difícil de sostener con fundamento.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LEN-9-2026-W18-la-oda-y-la-elegia-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W18-la-oda-y-la-elegia-001-MASTERY-bundle-v9",
+      "statement": "Un recitalista lee su poema con voz baja y casi sin gestos, mientras otro lo dice con énfasis y pausas largas. ¿Qué diferencia explica mejor esa elección de cada uno?",
+      "context": "En una lectura pública de Tunja, dos estudiantes de noveno grado prepararon la lectura del mismo poema de manera distinta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el primero busca que nadie en el público lo escuche",
+          "is_correct": false,
+          "feedback": "Un tono bajo responde a una intención, no al desprecio del público."
+        },
+        {
+          "letter": "B",
+          "text": "Que el segundo no conoce bien el contenido del poema que recita",
+          "is_correct": false,
+          "feedback": "El énfasis en la lectura no depende del conocimiento que el recitalista tenga del texto."
+        },
+        {
+          "letter": "C",
+          "text": "Que cada uno ajusta su forma de decir a la intención que persigue con la lectura",
+          "is_correct": true,
+          "feedback": "La manera de leer comunica un propósito que el texto poético deja abierto."
+        },
+        {
+          "letter": "D",
+          "text": "Que la entonación no modifica de ninguna manera el efecto de un poema",
+          "is_correct": false,
+          "feedback": "La entonación y las pausas cambian la manera en que el público recibe el poema."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La manera de leer un poema forma parte de su sentido. Un tono bajo y contenido puede buscar una reflexión pausada, mientras un tono enfático puede buscar conmover con fuerza. La entonación, el volumen y los gestos son decisiones del recitador que completan el texto y le dan un matiz propio.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.66,
+      "bundle_id": "CO-LEN-9-2026-W18-la-oda-y-la-elegia-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W18-la-oda-y-la-elegia-001-MASTERY-bundle-v10",
+      "statement": "Un texto afirma que la poesía de tema ya no tiene utilidad social porque todos pueden expresarse en las redes sociales. ¿Qué valoración de esa conclusión es la más sólida?",
+      "context": "En el foro virtual del colegio de Cali, se discute el valor social de la poesía de tema.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es insuficiente, porque el ejemplo de las redes no demuestra que la poesía deje de cumplir un papel",
+          "is_correct": true,
+          "feedback": "Un solo ejemplo no basta para demostrar la desaparición de una función social."
+        },
+        {
+          "letter": "B",
+          "text": "Es sólida, porque la lectura de poesía está en desuso en todo el país",
+          "is_correct": false,
+          "feedback": "El texto no aporta datos sobre la lectura de poesía que sostengan esa afirmación."
+        },
+        {
+          "letter": "C",
+          "text": "Es sólida, porque escribir en redes produce mejores obras que la poesía",
+          "is_correct": false,
+          "feedback": "Nada en el texto demuestra que una forma de escritura supere a la otra en calidad."
+        },
+        {
+          "letter": "D",
+          "text": "Es incorrecta, porque la poesía siempre fue superior a toda forma de expresión",
+          "is_correct": false,
+          "feedback": "Nadie afirma esa superioridad y, además, no refuta el argumento que se plantea."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El argumento se apoya en un ejemplo que solo muestra una parte de la realidad. Aunque las redes sociales hayan cambiado la forma de expresarse, eso no demuestra que la poesía deje de cumplir una función. Una crítica más sólida tendría que explicar qué se pierde con ese cambio, en vez de suponer que el ejemplo basta.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.62,
+      "bundle_id": "CO-LEN-9-2026-W18-la-oda-y-la-elegia-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W18-la-oda-y-la-elegia-001-MASTERY-bundle-v11",
+      "statement": "Un compositoror toma un poema clásico colombiano y le compone música. ¿Qué evaluación describe mejor la relación entre las dos obras?",
+      "context": "En el círculo de lectura de Bogotá, un grupo de noveno grado compara un poema con una canción colombiana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es casual, porque las dos obras coinciden por azar en el mismo asunto",
+          "is_correct": false,
+          "feedback": "No hay azar en la relación, existe una selección consciente de un texto anterior."
+        },
+        {
+          "letter": "B",
+          "text": "Es de intertextualidad, porque una obra se construye a partir de un texto anterior",
+          "is_correct": true,
+          "feedback": "La composición dialoga con el poema y transforma su material al ponerle música."
+        },
+        {
+          "letter": "C",
+          "text": "Es de copia, porque la nueva obra repite la anterior palabra por palabra",
+          "is_correct": false,
+          "feedback": "Poner música no es repetir el texto, sino construir una obra nueva sobre él."
+        },
+        {
+          "letter": "D",
+          "text": "Es imposible, porque la música y la poesía nunca pueden convivir",
+          "is_correct": false,
+          "feedback": "La convivencia entre poesía y música es frecuente en la tradición popular."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cuando una obra nueva se construye a partir de un texto anterior se establece una relación de intertextualidad. Poner música a un poema no elimina la obra original ni la sustituye: crea una versión nueva que dialoga con ella. Reconocer ese diálogo permite entender cómo circulan y se transforman las obras entre generaciones.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Critico-Intertextual",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-9-2026-W18-la-oda-y-la-elegia-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W18-la-oda-y-la-elegia-001-MASTERY-bundle-v12",
+      "statement": "Una antología ofrece solo poemas alegres y deja fuera los poemas tristes. ¿Qué valoración de esa selección es la más responsable?",
+      "context": "En el centro cultural de Villavicencio, se prepara una antología de poesía para la biblioteca escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es acertada, porque la alegría resulta más apropiada para el entorno escolar",
+          "is_correct": false,
+          "feedback": "Adecuar el tono al entorno no justifica excluir una parte entera del género poético."
+        },
+        {
+          "letter": "B",
+          "text": "Es acertada, porque los poemas tristes no pertenecen a la poesía de tema",
+          "is_correct": false,
+          "feedback": "Los poemas tristes son justamente el núcleo de la elegía dentro de la poesía de tema."
+        },
+        {
+          "letter": "C",
+          "text": "Es limitada, porque los poemas tristes son menos conocidos entre los lectores",
+          "is_correct": false,
+          "feedback": "La fama de un poema no es un criterio para decidir si pertenece o no al conjunto."
+        },
+        {
+          "letter": "D",
+          "text": "Es incompleta, porque reducir la poesía de tema a un solo tono niega parte de su riqueza",
+          "is_correct": true,
+          "feedback": "Excluir el tono elegíaco deja afuera una de las líneas más antiguas de la poesía."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Seleccionar solo los poemas alegres reduce el conjunto de la poesía de tema a un solo tono. Si el propósito de una antología es representar el género, esa limitación deja afuera justamente el conjunto elegíaco, que ocupa un lugar central en la tradición poética. Una selección equilibrada mostraría la variedad de emociones que la poesía de tema maneja.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.58,
+      "bundle_id": "CO-LEN-9-2026-W18-la-oda-y-la-elegia-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}
