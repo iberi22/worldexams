@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-39-grade-9-subject-lengua",
+    "generated_at": "2026-09-30T05:53:13.047Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-9-2026-W39-la-revision-y-la-correccion-de-textos-001-MASTERY-bundle-v1",
+      "statement": "¿Por qué la revisión se considera una etapa necesaria de la escritura?",
+      "context": "En Bogotá, la profesora de noveno explica por qué entrega un trabajo después de haberlo terminado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la revisión sustituye por completo la fase de escritura inicial",
+          "is_correct": false,
+          "feedback": "Ninguna revisión reemplaza la escritura, y la etapa solo funciona cuando existe un borrador que evaluar."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el docente lo exige como un trámite sin relación con la calidad del texto",
+          "is_correct": false,
+          "feedback": "La revisión responde a una necesidad real de mejorar el texto, y no a un requisito administrativo."
+        },
+        {
+          "letter": "C",
+          "text": "Porque escribir de una sola sentada garantiza que no queden errores de ningún tipo",
+          "is_correct": false,
+          "feedback": "Escribir sin pausas suele producir más errores, porque falta la distancia necesaria para detectarlos."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el texto cambia deaspecto al ser leído de nuevo, y aparecen problemas que el escritor no veía al redactar",
+          "is_correct": true,
+          "feedback": "Mientras se escribe, la atención está puesta en la frase siguiente y no en la coherencia del conjunto."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La revisión cumple una función que la escritura no puede cumplir: permite volver sobre lo ya hecho con una mirada nueva. Mientras se redacta, la atención está absorbida por lo que sigue, y los problemas de coherencia y de estilo pasan inadvertidos. Por eso todo texto profesional atraviesa varias rondas de revisión antes de publicarse.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Semantico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W39-la-revision-y-la-correccion-de-textos-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W39-la-revision-y-la-correccion-de-textos-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la diferencia entre la corrección de estilo y la corrección de ortografía?",
+      "context": "En Medellín, un profesor presenta los cuatro niveles de corrección.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La de estilo corrige las tildes; la de ortografía reorganiza los párrafos",
+          "is_correct": false,
+          "feedback": "Las tildes pertenecen al nivel ortográfico, y la reorganización de párrafos es una tarea de estructura."
+        },
+        {
+          "letter": "B",
+          "text": "La de estilo ajusta la forma de expresar la idea; la de ortografía corrige la escritura de las palabras y su puntuación",
+          "is_correct": true,
+          "feedback": "Son niveles distintos: uno atiende a la manera de decir, y el otro a las normas de escritura y uso de signos."
+        },
+        {
+          "letter": "C",
+          "text": "Ambas correccionesseek el mismo objetivo, porque tienen los mismos criterios",
+          "is_correct": false,
+          "feedback": "Los niveles de corrección responden a problemas distintos, y separarlos permite revisar con orden."
+        },
+        {
+          "letter": "D",
+          "text": "La de estilo revisa el contenido; la de ortografía revisa si el texto resulta interesante",
+          "is_correct": false,
+          "feedback": "El contenido corresponde al nivel de revisión de contenido, y el interés del texto depende de muchos factores."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La corrección opera por niveles, y cada uno atiende a un tipo de problema distinto. El contenido y la estructura se revisan primero, porque una buena ortografía no arregla una idea que no se entiende. Solo cuando el texto está sólido en sus bases tiene sentido revisar el estilo y la ortografía.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semantico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W39-la-revision-y-la-correccion-de-textos-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W39-la-revision-y-la-correccion-de-textos-001-MASTERY-bundle-v3",
+      "statement": "Un texto repite seis veces la expresión \"en ese momento\". ¿Qué problema tiene y en qué nivel se corrige?",
+      "context": "En Cali, un grupo de noveno practica la relectura de un texto propio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tiene un problema de ortografía, y se corrige en ese mismo nivel",
+          "is_correct": false,
+          "feedback": "La repetición no es un error de escritura de las palabras, y la ortografía no interviene aquí."
+        },
+        {
+          "letter": "B",
+          "text": "Tiene un problema de contenido, porque repite la misma idea en cada párrafo",
+          "is_correct": false,
+          "feedback": "Si la idea se repite en cada párrafo, el problema sería de contenido, y no de repetición de una fórmula."
+        },
+        {
+          "letter": "C",
+          "text": "Tiene una repetición léxica, y se corrige en el nivel de estilo",
+          "is_correct": true,
+          "feedback": "La repetición de la misma fórmula es un problema de estilo, porque la repetición debilita la expresión."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene ningún problema, porque toda repetición es válida en un texto informativo",
+          "is_correct": false,
+          "feedback": "La repetición puede ser útil para reforzar, y seis apariciones de la misma fórmula debilitan el texto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La repetición de una misma fórmula léxica es uno de los problemas de estilo más frecuentes, porque el lector la percibe como monotonía. Corregirla implica buscar sinónimos o recurrir a construcciones que aporten variedad. Reconocer este problema es parte del trabajo de relectura, donde se repasa el texto buscando FatigaDe La FORMA y no solo errores gramaticales.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semantico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W39-la-revision-y-la-correccion-de-textos-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W39-la-revision-y-la-correccion-de-textos-001-MASTERY-bundle-v4",
+      "statement": "Un texto afirma que \"el principal río de Colombia es el Cauca\" cuando debería hablar de los dos grandes ríos. ¿Qué nivel de corrección debe aplicar?",
+      "context": "En Pereira, un estudiante debe corregir un texto con un error de contenido.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El nivel de contenido, porque el error afecta la veracidad de la afirmación, no su forma",
+          "is_correct": true,
+          "feedback": "Un dato falso es un problema de contenido, y corregirlo exige verificar la fuente antes de reescribir."
+        },
+        {
+          "letter": "B",
+          "text": "El nivel de ortografía, porque la palabra del nombre propio está mal escrita",
+          "is_correct": false,
+          "feedback": "La palabra está escrita correctamente, de modo que el error no pertenece al nivel ortográfico."
+        },
+        {
+          "letter": "C",
+          "text": "El nivel de estilo, porque la frase resulta poco elegante",
+          "is_correct": false,
+          "feedback": "La elegancia de la frase es secundaria frente a un dato que es falso, y el estilo se revisa después."
+        },
+        {
+          "letter": "D",
+          "text": "El nivel de puntuación, porque falta una coma entre los dos nombres de río",
+          "is_correct": false,
+          "feedback": "La puntuación puede revisarse después, y no resuelve el error principal del dato."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los niveles de corrección deben abordarse en orden, empezando por el contenido. Un dato falso invalida el texto por completo, mientras que un problema de estilo o de puntuación solo afecta su presentación. Verificar los datos antes de pulir la forma es la regla básica de una revisión seria.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semantico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-9-2026-W39-la-revision-y-la-correccion-de-textos-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W39-la-revision-y-la-correccion-de-textos-001-MASTERY-bundle-v5",
+      "statement": "Un correo dice: \"Perdón por el error en el trabajo de ayer\". ¿Qué ajuste lo hace más eficaz?",
+      "context": "en Bucaramanga, una estudiante debe enviar un correo de disculpa al profesor.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Añadir una explicación larga de por qué el error no fue culpa de la estudiante",
+          "is_correct": false,
+          "feedback": "Un discurso que se justificación desplaza el foco hacia la excusa, y debilita la disculpa ante el lector."
+        },
+        {
+          "letter": "B",
+          "text": "Reconocer el error, asumirlo y explicar qué se hará para que no vuelva a ocurrir",
+          "is_correct": true,
+          "feedback": "Un mensaje de disculpa eficaz reconoce el hecho, asume la responsabilidad y ofrece una medida concreta."
+        },
+        {
+          "letter": "C",
+          "text": "Escribir el mensaje en un tono muy formal, para mostrar respeto por la autoridad",
+          "is_correct": false,
+          "feedback": "El tono formal no repara la falta, y la eficacia de la disculpa depende del contenido, no del registro."
+        },
+        {
+          "letter": "D",
+          "text": "Eliminar la palabra \"perdón\", porque considerarla una palabra vacía resulta más profesional",
+          "is_correct": false,
+          "feedback": "Pedir perdón de manera explícita es lo esperado en esta situación, y omitir la palabra no aporta ninguna ventaja."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un discurso que se justifica desplaza el foco hacia la excusa, y suele leerse como una evasión.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-9-2026-W39-la-revision-y-la-correccion-de-textos-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W39-la-revision-y-la-correccion-de-textos-001-MASTERY-bundle-v6",
+      "statement": "Un corrector automático señala que una frase \"carece de punto final\". ¿Qué debe hacer el estudiante?",
+      "context": "En Barrancabermeja, un grupo de noveno trabaja con la herramienta de escritura del aula.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Revisar el sentido de la frase y añadir la puntuación que corresponda al período que quiso escribir",
+          "is_correct": true,
+          "feedback": "La herramienta señala un problema, pero quien decide cómo puntuar el período es el escritor que conoce su intención."
+        },
+        {
+          "letter": "B",
+          "text": "Aceptar la sugerencia sin mirar, porque el programa siempre tiene razón",
+          "is_correct": false,
+          "feedback": "Los correctores automáticos detectan patrones, y no siempre distinguen los usos intencionales de una estructura."
+        },
+        {
+          "letter": "C",
+          "text": "Ignorar el aviso, porque la puntuación no afecta la comprensión del texto",
+          "is_correct": false,
+          "feedback": "La puntuación orienta la lectura y muestra la relación entre las partes de la oración."
+        },
+        {
+          "letter": "D",
+          "text": "Reescribir todo el párrafo, porque un solo aviso indica que todo está mal",
+          "is_correct": false,
+          "feedback": "Un aviso isolated indica un punto concreto, y no obliga a descartar el trabajo realizado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las herramientas de escritura asistida son útiles para señalar problemas frecuentes, pero no sustituyen el criterio del escritor. El estudiante debe revisar el aviso y decidir la puntuación según la intención de su frase, porque solo él conoce el sentido que quiso expresar. Usar estas herramientas como apoyo, y no como sustituto, es la actitud correcta frente a ellas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semantico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-9-2026-W39-la-revision-y-la-correccion-de-textos-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W39-la-revision-y-la-correccion-de-textos-001-MASTERY-bundle-v7",
+      "statement": "La versión A repite \"como vimos\" al comienzo de seis párrafos. La versión B elimina esas expresiones y enlaza los párrafos con otras fórmulas. ¿Qué cambia con esa modificación?",
+      "context": "en Manizales, un profesor pide comparar dos versiones del mismo ensayo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cambia la extensión del texto, porque cada fórmula eliminada ocupa espacio",
+          "is_correct": false,
+          "feedback": "La diferencia no está en el volumen, y ambas versiones tienen una estructura de párrafos equivalente."
+        },
+        {
+          "letter": "B",
+          "text": "Cambia la ortografía, porque las fórmulas modifican la acentuación del texto",
+          "is_correct": false,
+          "feedback": "Sustituir una fórmula por otra no altera el sistema ortográfico del español."
+        },
+        {
+          "letter": "C",
+          "text": "Cambia la comparación entre versiones, y con ello la percepción del lector sobre la autoridad del autor",
+          "is_correct": true,
+          "feedback": "La repetición de \"como vimos\" se apoya en un saber compartido, y su repetición constante debilita esa autoridad."
+        },
+        {
+          "letter": "D",
+          "text": "No cambia nada relevante, porque las dos versiones dicen lo mismo",
+          "is_correct": false,
+          "feedback": "Dicen lo mismo en contenido, y sin embargo el efecto sobre el lector es distinto por el modo de presentarlo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las fórmulas de enlace dicen mucho sobre cómo se presenta el conocimiento: si el autor se apoya constantemente en un saber previo o si desarrolla su propia demostración. Cambiar una fórmula repetida por otras construcciones modifica la percepción que el lector tiene sobre su autoridad. Analizar estos recursos es lo que permite revisar un texto en el nivel discursivo y no solo en el superficial.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-9-2026-W39-la-revision-y-la-correccion-de-textos-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W39-la-revision-y-la-correccion-de-textos-001-MASTERY-bundle-v8",
+      "statement": "El primer párrafo dice: \"La contaminación del río es un problema grave. El río está contaminado. Nadie.action sobre esta situación\". ¿Qué problema tiene el texto?",
+      "context": "In Florencia, Caquetá, un grupo de noveno studyTWO Paragraphs y su relación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hay una contradicción, porque las dos oraciones niegan la contaminación",
+          "is_correct": false,
+          "feedback": "Las dos oraciones afirman lo mismo, y por eso no hay contradicción entre ellas."
+        },
+        {
+          "letter": "B",
+          "text": "Hay un error de ortografía, porque \"contaminación\" no es una palabra del español",
+          "is_correct": false,
+          "feedback": "La palabra es correcta, y el problema está en la organización de las ideas, no en la escritura."
+        },
+        {
+          "letter": "C",
+          "text": "No hay problema, porque toda insistencia sirve para reforzar el mensaje",
+          "is_correct": false,
+          "feedback": "La repetición tautológica no refuerza el mensaje, y lo único que consigue es hacer el texto más débil."
+        },
+        {
+          "letter": "D",
+          "text": "Hay redundancia, porque las dos primeras oraciones repiten la misma idea sin aportar nada nuevo",
+          "is_correct": true,
+          "feedback": "Decir lo mismo dos veces seguidas no aumenta el contenido, y la repetición tautológica solo alarga el párrafo."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La redundancia aparece cuando el mismo contenido se enuncia más de una vez sin aportar elementos nuevos. Es un problema frecuente en los escritos escolares, y se detecta con facilidad al releer cada párrafo preguntándose si algo cambió. Corregirla exige eliminar lo que sobra y organizar el resto en una progresión que avance.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semantico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-9-2026-W39-la-revision-y-la-correccion-de-textos-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W39-la-revision-y-la-correccion-de-textos-001-MASTERY-bundle-v9",
+      "statement": "Un texto presenta los datos de un manual y los repite palabra por palabra, con la única diferencia de las comas. ¿Qué juicio sobre este texto es el más sólido?",
+      "context": "En Soacha, un grupo de noveno compara un texto escolar con el manual del que se copiaron los datos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un caso de paráfrasis, porque las palabras son las mismas pero la puntuación cambia",
+          "is_correct": false,
+          "feedback": "La paráfrasis requiere reformular el contenido, y no solo alterar la puntuación de un texto copiado."
+        },
+        {
+          "letter": "B",
+          "text": "Es un caso de copia, porque la reformataación no constitutes una reescritura legítima",
+          "is_correct": true,
+          "feedback": "Copiar casi literalmente sin citar la fuente es un plagio, y cambiar solo la puntuación no lo convierte en trabajo propio."
+        },
+        {
+          "letter": "C",
+          "text": "Es un caso de cita, porque el texto menciona la fuente de los datos",
+          "is_correct": false,
+          "feedback": "Mencionar la fuente no convierte una copia literal en una cita, porque se conserva el texto tal como fue escrito."
+        },
+        {
+          "letter": "D",
+          "text": "Es un caso legítimo, porque los datos numéricos no pueden reescribirse",
+          "is_correct": false,
+          "feedback": "Los datos pueden citarse con la referencia correspondiente, y ese es el procedimiento que corresponde."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Reformatear un texto copiado no produce un trabajo propio, y esa práctica es un plagio. Una paráfrasis exige cambiar la manera de expresar el contenido, y una cita supone reproducir el texto original con su referencia. Reconocer la diferencia entre las tres prácticas es fundamental para evitar el plagio y para citar correctamente.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Critico-Intertextual",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-9-2026-W39-la-revision-y-la-correccion-de-textos-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W39-la-revision-y-la-correccion-de-textos-001-MASTERY-bundle-v10",
+      "statement": "Un estudiante reescribe por completo su ensayo porque, al releerlo, descubrió que el problema estaba en la organización y no en las frases. ¿Cuál es el juicio más sólido?",
+      "context": "En Pasto, un profesor evalúa el proceso de un trabajo escrito por un estudiante.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Procedimiento es un exceso, porque corregir solo exige cambiar palabras concretas",
+          "is_correct": false,
+          "feedback": "La corrección incluye la estructura del texto, y no se limita a sustituir términos."
+        },
+        {
+          "letter": "B",
+          "text": "El procedimiento es un error, porque un texto bien escrito no necesita reescribirse",
+          "is_correct": false,
+          "feedback": "La reescritura forma parte del proceso de escritura, y utilizarla cuando el diagnóstico lo pide es una decisión responsable."
+        },
+        {
+          "letter": "C",
+          "text": "El Procedimiento es adecuado, porque la revisión reveló un problema de estructura que la reescritura resuelve desde la base",
+          "is_correct": true,
+          "feedback": "Identificar que el problema está en la organización y rehacer el texto evita pulir un escrito que no tenía columna vertebral."
+        },
+        {
+          "letter": "D",
+          "text": "El procedimiento es adecuado, porque la reescritura siempre mejora cualquier texto",
+          "is_correct": false,
+          "feedback": "La reescritura no mejora por sí sola, y solo es pertinente cuando responde a un problema identificado."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La diferencia entre corregir y reescribir depende del diagnóstico de la revisión. Si el problema está en la forma de las frases, la corrección es suficiente; si está en la organización de las ideas, hace falta reconstruir el texto. Tomar esa decisión de manera consciente evita tanto el trabajo innecesario como el intento de mejorar una estructura defectuosa.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-9-2026-W39-la-revision-y-la-correccion-de-textos-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W39-la-revision-y-la-correccion-de-textos-001-MASTERY-bundle-v11",
+      "statement": "Un estudiante afirma: \"Mi texto está perfecto porque el corrector no marcó ningún error\". ¿Qué juicio sobre este razonamiento es el más sólido?",
+      "context": "en Arauca, un grupo de noveno discute la utilidad de los correctores automáticos en la redacción final.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El razonamiento es débil, porque el corrector no evalúa la coherencia, la precisión de los datos ni la:idoneidad del tono",
+          "is_correct": true,
+          "feedback": "La herramienta revisa normas de escritura, y no juzga si el texto dice algo verdadero, claro y pertinente."
+        },
+        {
+          "letter": "B",
+          "text": "El razonamiento es correcto, porque un texto sin errores de escritura cumple todos los requisitos de un buen texto",
+          "is_correct": false,
+          "feedback": "La ortografía y la puntuación son una parte del trabajo, y no la garantía de que el texto sea bueno."
+        },
+        {
+          "letter": "C",
+          "text": "El razonamiento es débil, porque el corrector también revisa la lógica de los argumentos",
+          "is_correct": false,
+          "feedback": "Los correctores automáticos no evalúan argumentos, y esa limitación es precisamente la que se está discutiendo."
+        },
+        {
+          "letter": "D",
+          "text": "El razonamiento es correcto, porque la evaluación docente se basa solo en la ausencia de errores",
+          "is_correct": false,
+          "feedback": "La calificación considera muchos aspectos, y entre ellos la comprensión, la coherencia y la ORIGINALIDAD."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los correctores automáticos resuelven una parte limitada del problema: la escritura convencional. No pueden verificar si un dato es verdadero, si un argumento se sostiene ni si el tono es el adecuado para el destinatario. Por eso el criterio final sobre la calidad de un texto sigue siendo humano y depende del propósito de la comunicación.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-9-2026-W39-la-revision-y-la-correccion-de-textos-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W39-la-revision-y-la-correccion-de-textos-001-MASTERY-bundle-v12",
+      "statement": "Un texto bien estructurado, con datos correctos y ortografía impecable, resultará sin embargo poco eficaz para su lector. ¿Qué explicación es la más precisa?",
+      "context": "In Apartadó, la profesora de noveno pide un juicio final sobre el valor de la relectura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Falla porque todos los textos deben ser cortos, y la longitud siempre resta claridad",
+          "is_correct": false,
+          "feedback": "La extensión no determina por sí sola la eficacia, y hay textos largos que orientan muy bien al lector."
+        },
+        {
+          "letter": "B",
+          "text": "Falla porque el autor no usó un corrector automático durante la escritura",
+          "is_correct": false,
+          "feedback": "La herramienta no sustituye a la organización discursiva, y su uso no garantiza que el lector comprenda."
+        },
+        {
+          "letter": "C",
+          "text": "Falla porque todo texto necesita imágenes, y un texto sin imágenes no resulta eficaz",
+          "is_correct": false,
+          "feedback": "La imagen es un recurso opcional, y la eficacia depende de la claridad de la exposición, no de las ilustraciones."
+        },
+        {
+          "letter": "D",
+          "text": "Cumple las normas formales, pero su estructura discursiva no orienta la comprensión del lector que se le pide",
+          "is_correct": true,
+          "feedback": "La forma correcta no garantiza que el camino seguido por el lector sea claro, y esa guía depende de la estructura del texto."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La eficacia de un texto depende de que su estructura discursiva conduzca al lector por el camino que el autor se propone. Una secuencia lógica, una jerarquía clara de ideas y transiciones adecuadas cumplen esa función mejor que cualquier corrección formal. Revisar el texto en el nivel discursivo es, por eso, lo que más pesa en la calidad final de un escrito.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-9-2026-W39-la-revision-y-la-correccion-de-textos-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}
