@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-30-grade-10-subject-lectura_critica",
+    "generated_at": "2026-09-30T18:10:10.523Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-10-2026-W30-la-tematizacion-y-la-inferencia-del-lector-001-MASTERY-bundle-v1",
+      "statement": "Según el Texto 1, ¿qué dato se presenta de forma explícita sobre el uso de la biblioteca del terminal?",
+      "context": "En Ibagué, el grupo de grado 10 identifica el dato explícito del editorial escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que los préstamos de novelas de aventura aumentaron un diez por ciento este trimestre.",
+          "is_correct": true,
+          "feedback": "Es la opción correcta porque ese porcentaje aparece escrito en la tercera oración del editorial."
+        },
+        {
+          "letter": "B",
+          "text": "Que la mayoría de los jóvenes lee por gusto en lugar de leer por obligación.",
+          "is_correct": false,
+          "feedback": "Incorrecta: el editorial plantea esa idea como una creencia y no como un dato comprobado."
+        },
+        {
+          "letter": "C",
+          "text": "Que el edificio del terminal de buses fue remodelado durante este trimestre.",
+          "is_correct": false,
+          "feedback": "Incorrecta: el texto no menciona ninguna remodelación del terminal."
+        },
+        {
+          "letter": "D",
+          "text": "Que la biblioteca del terminal cobra una tarifa mensual a los estudiantes.",
+          "is_correct": false,
+          "feedback": "Incorrecta: el texto afirma lo contrario, es decir, que se puede leer sin comprar un libro."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Distinguir el dato explícito de la creencia es el primer paso de la lectura inferencial. Solo lo que el texto escribe puede citarse como evidencia directa.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Literal",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-10-2026-W30-la-tematizacion-y-la-inferencia-del-lector-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W30-la-tematizacion-y-la-inferencia-del-lector-001-MASTERY-bundle-v2",
+      "statement": "En el Texto 2, ¿cuál es la diferencia entre el tema y la tesis del texto?",
+      "context": "En Neiva, estudiantes de grado 10 distinguen el tema de la tesis en el informe comunitario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El tema es la lluvia y la tesis es el techo.",
+          "is_correct": false,
+          "feedback": "Incorrecta: la lluvia y el techo son detalles del problema, no el tema general ni la tesis."
+        },
+        {
+          "letter": "B",
+          "text": "El tema es el funcionamiento de la biblioteca y la tesis es que también necesita reparación el local.",
+          "is_correct": true,
+          "feedback": "Es la opción correcta porque el texto desarrolla el servicio de préstamo y añade un reclamo concreto."
+        },
+        {
+          "letter": "C",
+          "text": "El tema es la novela y la tesis es la organización de los turnos de préstamo.",
+          "is_correct": false,
+          "feedback": "Incorrecta: las novelas son un ejemplo del comportamiento de lectura, no la tesis del texto."
+        },
+        {
+          "letter": "D",
+          "text": "No hay diferencia, porque tema y tesis son sinónimos en este tipo de informe.",
+          "is_correct": false,
+          "feedback": "Incorrecta: el tema es el asunto general y la tesis es la posición que el autor defiende sobre él."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema responde qué trata el texto y la tesis responde qué sostiene el autor. Confundirlos lleva a resumir sin comprender la posición del escritor.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Textual",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-10-2026-W30-la-tematizacion-y-la-inferencia-del-lector-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W30-la-tematizacion-y-la-inferencia-del-lector-001-MASTERY-bundle-v3",
+      "statement": "En el Texto 1, la frase «La pregunta correcta no es si leen, sino qué leen cuando lo hacen por obligación» cumple cuál función?",
+      "context": "En Ibagué, el comité editorial de grado 10 analiza la pregunta con que cierra el Texto 1.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Presenta un dato nuevo sobre el aumento de préstamos del trimestre.",
+          "is_correct": false,
+          "feedback": "Incorrecta: la frase no aporta cifras, sino una reorientación de la pregunta del texto."
+        },
+        {
+          "letter": "B",
+          "text": "Cierra el editorial con una conclusión sobre el estado del edificio del terminal.",
+          "is_correct": false,
+          "feedback": "Incorrecta: el editorial no menciona reformas ni el estado del edificio."
+        },
+        {
+          "letter": "C",
+          "text": "Reformula el tema y desplaza la reflexión hacia el gusto de la lectura, no hacia su cantidad.",
+          "is_correct": true,
+          "feedback": "Es la opción correcta porque la frase cambia la pregunta que orienta todo el editorial."
+        },
+        {
+          "letter": "D",
+          "text": "Resume la experiencia vivida por los jóvenes que llegan desde el campo.",
+          "is_correct": false,
+          "feedback": "Incorrecta: no hay ningún testimonio personal en el editorial."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una buena pregunta final tematiza el texto hacia adelante. Reconocerla ayuda a detectar hacia dónde quiere llevar el autor a su lector.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.86,
+      "bundle_id": "CO-LC-10-2026-W30-la-tematizacion-y-la-inferencia-del-lector-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W30-la-tematizacion-y-la-inferencia-del-lector-001-MASTERY-bundle-v4",
+      "statement": "Un lector del Texto 1 afirma que el autor defiende la lectura por gusto. ¿Cuál es el mejor sustento de esa inferencia?",
+      "context": "En Pasto, el equipo de grado 10 deduce una posición a partir de las pistas del editorial.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La frase final, porque cambia el criterio de lectura desde la cantidad hacia el contenido elegido.",
+          "is_correct": true,
+          "feedback": "Es la opción correcta porque la reformulación final es la pista que sostiene esa posición del autor."
+        },
+        {
+          "letter": "B",
+          "text": "El dato del diez por ciento, porque mide exactamente cuánto leen por gusto.",
+          "is_correct": false,
+          "feedback": "Incorrecta: ese porcentaje corresponde a préstamos de novelas, no a la lectura por gusto en general."
+        },
+        {
+          "letter": "C",
+          "text": "La mención a los pocos que pueden acceder, porque confirma la tesis del autor.",
+          "is_correct": false,
+          "feedback": "Incorrecta: esa mención describe una creencia que el autor primero presenta y luego relativiza."
+        },
+        {
+          "letter": "D",
+          "text": "La ausencia de datos sobre el costo de los libros, porque demuestra que leer por gusto es gratis.",
+          "is_correct": false,
+          "feedback": "Incorrecta: el editorial no trata el costo de los libros y la inferencia no puede apoyarse en eso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una inferencia sólida se apoya en una pista concreta del texto. Nombrar la evidencia correcta es lo que distingue la lectura crítica de la suposición.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Inferencial",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-10-2026-W30-la-tematizacion-y-la-inferencia-del-lector-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W30-la-tematizacion-y-la-inferencia-del-lector-001-MASTERY-bundle-v5",
+      "statement": "Un equipo de Florencia quiere escribir una nota editorial sobre lectura en el barrio. ¿Cuál enfoque tematiza mejor el texto?",
+      "context": "En Florencia, estudiantes de grado 10 escriben la versión final de la nota editorial.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Contar en orden alfabético todos los libros disponibles en el colegio.",
+          "is_correct": false,
+          "feedback": "Incorrecta: enumerar sin criterio no produce una pregunta que oriente la lectura."
+        },
+        {
+          "letter": "B",
+          "text": "Describir cada salón del colegio y enumerar los teachers que trabajan en ellos.",
+          "is_correct": false,
+          "feedback": "Incorrecta: la descripción del espacio no genera una tesis ni una pregunta sobre la lectura."
+        },
+        {
+          "letter": "C",
+          "text": "Recomendar tres novelas sin explicar a qué público están dirigidas.",
+          "is_correct": false,
+          "feedback": "Incorrecta: la recomendación sin pregunta ni datos no tematiza, solo informa de manera suelta."
+        },
+        {
+          "letter": "D",
+          "text": "Preguntar por qué los estudiantes leen por obligación y no por gusto, y responder con datos del barrio.",
+          "is_correct": true,
+          "feedback": "Es la opción correcta porque plantea una pregunta clara y la sostiene con evidencia verificable."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Tematizar es elegir una pregunta que un texto pueda responder con pruebas. Sin esa pregunta inicial, el texto se convierte en una lista de información suelta.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-10-2026-W30-la-tematizacion-y-la-inferencia-del-lector-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W30-la-tematizacion-y-la-inferencia-del-lector-001-MASTERY-bundle-v6",
+      "statement": "¿Qué cambio de tema se produce en el Texto 2 después de la frase de Doña Rosa?",
+      "context": "En Neiva, el club de lectura de grado 10 analiza el giro del Texto 2.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El texto pasa de la cantidad de títulos donados al horario de atención de la sede.",
+          "is_correct": false,
+          "feedback": "Incorrecta: el horario de los turnos se menciona antes de la intervención de Doña Rosa."
+        },
+        {
+          "letter": "B",
+          "text": "El texto pasa del comportamiento de lectura de los usuarios a la condición física del local.",
+          "is_correct": true,
+          "feedback": "Es la opción correcta porque la segunda mitad del párrafo introduce el reclamo por el techo."
+        },
+        {
+          "letter": "C",
+          "text": "El texto pasa del préstamo de novelas al abandono definitivo de la biblioteca.",
+          "is_correct": false,
+          "feedback": "Incorrecta: no hay ninguna afirmación de cierre ni de abandono del servicio."
+        },
+        {
+          "letter": "D",
+          "text": "El texto pasa del informe a una narración en primera persona firmada por Doña Rosa.",
+          "is_correct": false,
+          "feedback": "Incorrecta: el informe conserva la voz del redactor y solo cita a la coordinadora."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Detectar el giro de tema permite ver cómo un texto amplía su alcance. Reconocer ese movimiento evita leer el segundo tramo como una idea sin relación.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-10-2026-W30-la-tematizacion-y-la-inferencia-del-lector-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W30-la-tematizacion-y-la-inferencia-del-lector-001-MASTERY-bundle-v7",
+      "statement": "Según el Texto 2, ¿qué postura asume Doña Rosa frente al servicio de lectura?",
+      "context": "En Barrancabermeja, estudiantes de grado 10 infieren la postura de la coordinadora.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se opone a que los estudiantes consulten novelas y pretende limitar el préstamo a los cuadernos.",
+          "is_correct": false,
+          "feedback": "Incorrecta: la cita indica que ella registra la diferencia, no que intente impedirla."
+        },
+        {
+          "letter": "B",
+          "text": "Considera que la biblioteca ya cumple su función y por eso no necesita mejoras.",
+          "is_correct": false,
+          "feedback": "Incorrecta: el cierre del párrafo reclama una solución, de modo que no comparte esa postura."
+        },
+        {
+          "letter": "C",
+          "text": "Reconoce que la lectura útil y la lectura por gusto conviven y las describe con naturalidad.",
+          "is_correct": true,
+          "feedback": "Es la opción correcta porque su comentario informa de ambas prácticas sin valorarlas."
+        },
+        {
+          "letter": "D",
+          "text": "Cree que el aumento de novelAS es un problema que debe frenarse con nuevas normas.",
+          "is_correct": false,
+          "feedback": "Incorrecta: el texto no propone ninguna norma ni expresa ese juicio sobre las novelas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Inferir la postura exige combinar varias pistas del texto. La forma en que una persona describe una escena ya revela cómo la evalúa.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Inferencial",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LC-10-2026-W30-la-tematizacion-y-la-inferencia-del-lector-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W30-la-tematizacion-y-la-inferencia-del-lector-001-MASTERY-bundle-v8",
+      "statement": "Ambos textos hablan de bibliotecas. ¿Qué diferencia de tematización puede identificarse?",
+      "context": "En Chía, el semillero crítico de grado 10 compara el tratamiento del mismo tema en dos textos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los dos textos responden a la pregunta por el número de títulos disponibles en cada sede.",
+          "is_correct": false,
+          "feedback": "Incorrecta: el Texto 1 no informa sobre títulos disponibles y el Texto 2 no compara cantidades."
+        },
+        {
+          "letter": "B",
+          "text": "Los dos textos sostienen que leer por obligación reemplaza siempre a leer por gusto.",
+          "is_correct": false,
+          "feedback": "Incorrecta: ninguno de los dos textos afirma que una forma de lectura reemplaza a la otra."
+        },
+        {
+          "letter": "C",
+          "text": "Los dos textos presentan el horario de atención como su tesis principal.",
+          "is_correct": false,
+          "feedback": "Incorrecta: el Texto 1 no menciona horarios y el Texto 2 los usa solo como información secundaria."
+        },
+        {
+          "letter": "D",
+          "text": "Los dos textos parten del mismo tema, pero el Texto 1 responde por el gusto de leer y el Texto 2 por la infraestructura del local.",
+          "is_correct": true,
+          "feedback": "Es la opción correcta porque cada texto formula una pregunta distinta sobre un mismo asunto general."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Comparar dos textos del mismo tema muestra que la tematización depende de la pregunta elegida. Ese es el primer paso para construir una posición propia.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LC-10-2026-W30-la-tematizacion-y-la-inferencia-del-lector-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W30-la-tematizacion-y-la-inferencia-del-lector-001-MASTERY-bundle-v9",
+      "statement": "En el Texto 2, ¿qué permite inferir la expresión «se va con novelas» sobre las decisiones de los lectores?",
+      "context": "En Cartagena, estudiantes de grado 10 resuelven una ambigüedad del Texto 2.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Permite concluir que las novelas del municipio se agotaron durante el trimestre.",
+          "is_correct": false,
+          "feedback": "Incorrecta: la expresión habla del comportamiento de los lectores y no del inventario disponible."
+        },
+        {
+          "letter": "B",
+          "text": "Permite inferir que la lectura por gusto ocurre sin que la biblioteca la imponga.",
+          "is_correct": true,
+          "feedback": "Es la opción correcta porque la elección libre del lector indica que esa lectura surge por iniciativa propia."
+        },
+        {
+          "letter": "C",
+          "text": "Permite inferir que Doña Rosa prohíbe la salida de novelas del local.",
+          "is_correct": false,
+          "feedback": "Incorrecta: la coordinadora describe lo que ocurre y no prohíbe ninguna salida."
+        },
+        {
+          "letter": "D",
+          "text": "Permite inferir que las novelas se entregan únicamente a estudiantes de grado alto.",
+          "is_correct": false,
+          "feedback": "Incorrecta: el texto no establece ningún criterio de edad para el préstamo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las expresiones ambiguas exigen una inferencia respaldada por el contexto. Reconocer qué se puede y qué no se puede concluir es la base de la lectura crítica.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LC-10-2026-W30-la-tematizacion-y-la-inferencia-del-lector-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W30-la-tematizacion-y-la-inferencia-del-lector-001-MASTERY-bundle-v10",
+      "statement": "Un lector del Texto 2 concluye que la biblioteca es un espacio consolidado porque tiene mil doscientos títulos. ¿Qué evaluación corresponde?",
+      "context": "En Villavicencio, el equipo de grado 10 evalúa si una inferencia es sostenible.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La inferencia es válida porque la cantidad de títulos demuestra el éxito del proyecto.",
+          "is_correct": false,
+          "feedback": "Incorrecta: el volumen del fondo no demuestra consolidación si el local carece de condiciones básicas."
+        },
+        {
+          "letter": "B",
+          "text": "La inferencia es válida porque la existencia de una coordinadora responsable lo demuestra.",
+          "is_correct": false,
+          "feedback": "Incorrecta: un dato de inventario y un dato de personal no resuelven la situación del local."
+        },
+        {
+          "letter": "C",
+          "text": "La inferencia es insostenible porque el texto aporta un dato de inventario junto a un problema de infraestructura.",
+          "is_correct": true,
+          "feedback": "Es la opción correcta porque un dato favorable no cancela la objeción central del texto."
+        },
+        {
+          "letter": "D",
+          "text": "La inferencia es insostenible porque el texto no menciona ningún tipo de título en la colección.",
+          "is_correct": false,
+          "feedback": "Incorrecta: el texto sí ofrece la cifra de mil doscientos títulos donados por los vecinos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar una inferencia exige poner en diálogo todos los datos del texto. Un dato favorable no neutraliza la evidencia que contradice la conclusión.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-10-2026-W30-la-tematizacion-y-la-inferencia-del-lector-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W30-la-tematizacion-y-la-inferencia-del-lector-001-MASTERY-bundle-v11",
+      "statement": "Un editorial escolar de Sincelejo abre con un dato, cambia de tema sin aviso, usa seis adjetivos valorativos y termina con una pregunta rhetórica. ¿Cuál es el juicio más preciso?",
+      "context": "En Sincelejo, el comité editorial de grado 10 evalúa un editorial entregado por un equipo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El editorial está por debajo del estándar del área, porque falla en tema único, en precisión y en cierre temático.",
+          "is_correct": true,
+          "feedback": "Es la opción correcta porque las tres fallas afectan directamente la calidad de la argumentación escrita."
+        },
+        {
+          "letter": "B",
+          "text": "El editorial está resentido solo por el uso de adjetivos valorativos, porque el resto de los elementos es válido.",
+          "is_correct": false,
+          "feedback": "Incorrecta: además del estilo valorativo, el texto presenta problemas de tema y de cierre."
+        },
+        {
+          "letter": "C",
+          "text": "El editorial está aceptable porque el dato inicial y la pregunta final sostienen por sí solos la argumentación.",
+          "is_correct": false,
+          "feedback": "Incorrecta: el cambio de tema y los adjetivos debilitan la argumentación aunque haya dato y pregunta."
+        },
+        {
+          "letter": "D",
+          "text": "El editorial está resentido solo por carecer de fuentes, porque el resto del texto cumple con el estándar del área.",
+          "is_correct": false,
+          "feedback": "Incorrecta: el problema principal del texto no es la ausencia de fuentes, sino la estructura y la precisión."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar un texto propio exige revisar tema, precisión y cierre por separado. Cuando fallan varios elementos a la vez, la reescritura es la única vía de mejora.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-10-2026-W30-la-tematizacion-y-la-inferencia-del-lector-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W30-la-tematizacion-y-la-inferencia-del-lector-001-MASTERY-bundle-v12",
+      "statement": "Un texto propone prestar dos millones de pesos a las familias del municipio para crear una sede de lectura. El mismo texto afirma que el proyecto mejorará el rendimiento escolar. ¿Cuál es el juicio más preciso?",
+      "context": "En Duitama, el equipo redactor del periodillo decide qué texto publica en la página de opinión.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El texto es sólido porque la cifra JUSTifica por sí sola la mejora del rendimiento escolar.",
+          "is_correct": false,
+          "feedback": "Incorrecta: la cifra define el monto, pero no demuestra el efecto esperado sobre el rendimiento."
+        },
+        {
+          "letter": "B",
+          "text": "El texto es sólido porque combina un dato económico con una consecuencia educativa coherente.",
+          "is_correct": false,
+          "feedback": "Incorrecta: la consecuencia aparece sin evidencia que la respalde y por eso sigue siendo una suposición."
+        },
+        {
+          "letter": "C",
+          "text": "El texto es débil en su argumentación porque el monto de dos millones de pesos es demasiado alto.",
+          "is_correct": false,
+          "feedback": "Incorrecta: el criterio de lectura crítica es la evidencia, no el valor absoluto de la cifra."
+        },
+        {
+          "letter": "D",
+          "text": "El texto es débil en su argumentación porque enuncia un efecto educativo sin demostrarlo.",
+          "is_correct": true,
+          "feedback": "Es la opción correcta porque sin pruebas del efecto, la tesis queda solo enunciada y no sostenida."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Un texto que anuncia un efecto necesita demostrarlo. Evaluar con rigor supone separar el monto invertido del beneficio realmente comprobado.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LC-10-2026-W30-la-tematizacion-y-la-inferencia-del-lector-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}
