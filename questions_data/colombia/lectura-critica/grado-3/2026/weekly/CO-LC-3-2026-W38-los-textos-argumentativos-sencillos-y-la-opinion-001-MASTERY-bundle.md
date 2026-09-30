@@ -36,15 +36,14 @@ creador: "Jules-Agent"
 ¿Cuál de las oraciones de Sofía expresa la opinión que ella quiere defender?
 
 ### Opciones
-- [x] A) Leer en la biblioteca del barrio es mejor que quedarse en casa con el celular.
-  <!-- feedback: ¡Correcto! Esta oración presenta el punto de vista de Sofía, es decir, la idea que ella quiere que acepten los demás lectores. -->
-- [ ] B) La biblioteca del barrio abre a las ocho de la mañana.
+- [ ] A) La biblioteca del barrio abre a las ocho de la mañana.
   <!-- feedback: Incorrecto. Ese es un dato que se puede comprobar, no la opinión que Sofía defiende. -->
-- [ ] C) Sofía vive en el barrio de Medellín donde está la biblioteca.
+- [ ] B) Sofía vive en el barrio de Medellín donde está la biblioteca.
   <!-- feedback: Incorrecto. Es una información personal sobre la autora, no su posición sobre el tema. -->
+- [x] C) Leer en la biblioteca del barrio es mejor que quedarse en casa con el celular.
+  <!-- feedback: ¡Correcto! Esta oración presenta el punto de vista de Sofía, es decir, la idea que ella quiere que acepten los demás lectores. -->
 - [ ] D) Los celulares se cargan con un cable eléctrico.
   <!-- feedback: Incorrecto. Esta oración no habla de la biblioteca ni expresa ningún juicio de la niña. -->
-
 ### Explicacion Pedagogica
 La opinión es la idea que una persona sostiene y que puede ser distinta en cada quien. Reconocerla permite separar lo que alguien piensa de los datos que se pueden verificar.
 
@@ -68,7 +67,6 @@ La opinión es la idea que una persona sostiene y que puede ser distinta en cada
   <!-- feedback: Incorrecto. Cambiar de tema rompe la argumentación en lugar de conectarla. -->
 - [ ] D) Para terminar el texto sin tener que decir nada más.
   <!-- feedback: Incorrecto. El cierre es una parte del texto, no un efecto de las palabras de unión. -->
-
 ### Explicacion Pedagogica
 Los conectores lógicos son marcas del texto que señalan cómo se relacionan las ideas entre sí. Cuando se reconoce su función, el lector entiende dónde está la opinión y dónde aparecen las razones que la respaldan.
 
@@ -84,15 +82,14 @@ Los conectores lógicos son marcas del texto que señalan cómo se relacionan la
 ¿Cuál de los siguientes textos le serviría mejor a Tomás para cumplir lo que pide la convocatoria?
 
 ### Opciones
-- [x] A) "Mi deporte favorito es el fútbol porque juego con mis amigos en la cancha del barrio y porque mi profesora me enseña jugadas nuevas cada semana".
-  <!-- feedback: ¡Correcto! El texto enuncia la opinión y la apoya con razones concretas y verdaderas sobre su propia experiencia. -->
-- [ ] B) "El fútbol es el deporte más bonito del mundo y todo el mundo tiene que verlo sí o sí".
+- [ ] A) "El fútbol es el deporte más bonito del mundo y todo el mundo tiene que verlo sí o sí".
   <!-- feedback: Incorrecto. Es una afirmación sin razones que la respalden, y además impone una opinión con palabras como "todo el mundo". -->
-- [ ] C) "Ayer fui a la cancha con mis amigos y después volví a la casa muy cansado".
+- [ ] B) "Ayer fui a la cancha con mis amigos y después volví a la casa muy cansado".
   <!-- feedback: Incorrecto. Es un relato de hechos, pero no dice cuál es el deporte favorito ni lo defiende. -->
-- [ ] D) "Nadie en mi salón juega fútbol, por eso es el deporte que más prefiero".
+- [ ] C) "Nadie en mi salón juega fútbol, por eso es el deporte que más prefiero".
   <!-- feedback: Incorrecto. La razón contradice la opinión, porque se prefiere justamente lo que los demás no hacen. -->
-
+- [x] D) "Mi deporte favorito es el fútbol porque juego con mis amigos en la cancha del barrio y porque mi profesora me enseña jugadas nuevas cada semana".
+  <!-- feedback: ¡Correcto! El texto enuncia la opinión y la apoya con razones concretas y verdaderas sobre su propia experiencia. -->
 ### Explicacion Pedagogica
 Un texto argumentativo sencillo cumple su propósito cuando enuncia la opinión y la acompaña de razones pertinentes y comprobables. Saber distinguir un texto que argumenta de uno que solo narra o que afirma sin sustento permite responder bien este tipo de tareas.
 
@@ -108,15 +105,14 @@ Un texto argumentativo sencillo cumple su propósito cuando enuncia la opinión 
 ¿Cuál es el orden correcto en que el maestro esperaría encontrar esas ideas dentro del texto argumentativo?
 
 ### Opciones
-- [x] A) Primero la afirmación central, luego las razones que la apoyan y al final la recomendación que se deriva de ellas.
-  <!-- feedback: ¡Correcto! Enunciar primero la postura y después sostenerla con razones hace que el lector comprenda la argumentación desde el comienzo. -->
-- [ ] B) Primero las razones, después la recomendación y por último la afirmación central.
+- [ ] A) Primero las razones, después la recomendación y por último la afirmación central.
   <!-- feedback: Incorrecto. Sin la afirmación al inicio, el lector no sabe de antemano qué se está defendiendo. -->
+- [x] B) Primero la afirmación central, luego las razones que la apoyan y al final la recomendación que se deriva de ellas.
+  <!-- feedback: ¡Correcto! Enunciar primero la postura y después sostenerla con razones hace que el lector comprenda la argumentación desde el comienzo. -->
 - [ ] C) Primero la recomendación y después ninguna otra idea, porque basta con pedir.
   <!-- feedback: Incorrecto. Un pedido sin razones no funciona como texto argumentativo. -->
 - [ ] D) Todas las ideas mezcladas en un solo párrafo y sin orden definido.
   <!-- feedback: Incorrecto. La mezcla de ideas impide seguir el razonamiento que sostiene la opinión. -->
-
 ### Explicacion Pedagogica
 La organización discursiva de un texto argumentativo sigue un orden: tesis, razones y consecuencia o recomendación. Conocer ese orden ayuda tanto a escribir como a leer textos donde el autor defiende una postura.
 
@@ -132,15 +128,14 @@ La organización discursiva de un texto argumentativo sigue un orden: tesis, raz
 ¿Qué elemento del cartel hizo que Julia cambiara de opinión y comprara el libro?
 
 ### Opciones
-- [x] A) El cartel presentó razones concretas y comprobables que respaldaban su recomendación.
-  <!-- feedback: ¡Correcto! El cartel no solo pidió, sino que ofreció beneficios concretos que justifican la acción que le propone. -->
-- [ ] B) El cartel afirmaba que leer es la única actividad válida en el mundo.
+- [ ] A) El cartel afirmaba que leer es la única actividad válida en el mundo.
   <!-- feedback: Incorrecto. Decir que algo es lo único válido no ofrece ninguna razón que lo demuestre. -->
-- [ ] C) El cartel usó palabras técnicas que Julia entendió a la primera.
+- [ ] B) El cartel usó palabras técnicas que Julia entendió a la primera.
   <!-- feedback: Incorrecto. Lo que convenció fue el contenido de las razones, no el parecido de las palabras. -->
+- [x] C) El cartel presentó razones concretas y comprobables que respaldaban su recomendación.
+  <!-- feedback: ¡Correcto! El cartel no solo pidió, sino que ofreció beneficios concretos que justifican la acción que le propone. -->
 - [ ] D) Todos los amigos de Julia ya habían comprado ese mismo libro.
   <!-- feedback: Incorrecto. La compra de los amigos no aparece en el cartel ni funciona como una razón verificable. -->
-
 ### Explicacion Pedagogica
 Un texto persuade de manera efectiva cuando ofrece razones pertinentes y verificables, no solo cuando exige o promete. Analizar qué elementos convencen a un lector permite evaluar la calidad de una argumentación.
 
@@ -164,7 +159,6 @@ Un texto persuade de manera efectiva cuando ofrece razones pertinentes y verific
   <!-- feedback: Incorrecto. Que las dos hablen del mismo río no determina si una es un dato y la otra un juicio. -->
 - [ ] D) Las dos son datos porque las dos nombran un lugar de la ciudad.
   <!-- feedback: Incorrecto. Nombrar un lugar no garantiza que la afirmación sea comprobable. -->
-
 ### Explicacion Pedagogica
 Un dato puede comprobarse porque viene de una fuente verificable, mientras que una opinión expresa un juicio personal o colectivo. Distinguir ambos tipos de afirmación es la base para evaluar si un texto argumenta con seriedad.
 
@@ -180,15 +174,14 @@ Un dato puede comprobarse porque viene de una fuente verificable, mientras que u
 ¿Cuál de las dos opiniones está mejor sustentada y por qué lo está?
 
 ### Opciones
-- [x] A) La primera opinión, porque su razón explica un efecto real que se puede medir en la factura y no depende del punto de vista del autor.
-  <!-- feedback: ¡Excelente! Su razón es pertinente y comprobable, de modo que cualquier lector puede ponerla a prueba. -->
-- [ ] B) La segunda opinión, porque favorecer a una empresa siempre es un argumento sólido.
+- [ ] A) La segunda opinión, porque favorecer a una empresa siempre es un argumento sólido.
   <!-- feedback: Incorrecto. Que una empresa gane dinero es un interés particular y no demuestra que el hecho sea conveniente. -->
-- [ ] C) Las dos opiniones están igual de sustentadas porque las dos usan la palabra "bueno" o "mal".
+- [ ] B) Las dos opiniones están igual de sustentadas porque las dos usan la palabra "bueno" o "mal".
   <!-- feedback: Incorrecto. Que dos afirmaciones empleen el mismo adjetivo no dice nada sobre la calidad de sus razones. -->
-- [ ] D) Ninguna opinión sirve, porque en un texto argumentativo no se pueden dar razones.
+- [ ] C) Ninguna opinión sirve, porque en un texto argumentativo no se pueden dar razones.
   <!-- feedback: Incorrecto. Dar razones es precisamente el núcleo de la argumentación. -->
-
+- [x] D) La primera opinión, porque su razón explica un efecto real que se puede medir en la factura y no depende del punto de vista del autor.
+  <!-- feedback: ¡Excelente! Su razón es pertinente y comprobable, de modo que cualquier lector puede ponerla a prueba. -->
 ### Explicacion Pedagogica
 Evaluar un texto argumentativo exige comparar la solidez de las razones, no solo si la opinión suena convincente. Una buena razón es pertinente, verificable y se apoya en el interés común, no en el beneficio de un solo grupo.
 
@@ -204,14 +197,13 @@ Evaluar un texto argumentativo exige comparar la solidez de las razones, no solo
 ¿Qué tendría que mejorar Andrés en su texto para que su opinión quedara bien defendida?
 
 ### Opciones
-- [x] A) Añadir razones claras y un ejemplo concreto de cómo el celular termina quitando espacio para jugar en el recreo.
-  <!-- feedback: ¡Correcto! Con razones pertinentes y un ejemplo real, el texto pasa de una queja general a una argumentación completa. -->
-- [ ] B) Dejarlo como está, porque una opinión solo necesita apoyarse en lo que ocurre en su propio salón.
+- [ ] A) Dejarlo como está, porque una opinión solo necesita apoyarse en lo que ocurre en su propio salón.
   <!-- feedback: Incorrecto. Generalizar desde un caso concreto sin explicarlo debilita la defensa de la opinión. -->
+- [x] B) Añadir razones claras y un ejemplo concreto de cómo el celular termina quitando espacio para jugar en el recreo.
+  <!-- feedback: ¡Correcto! Con razones pertinentes y un ejemplo real, el texto pasa de una queja general a una argumentación completa. -->
 - [ ] C) Quitarle todas las razones, porque en un texto sencillo no se explican los argumentos.
   <!-- feedback: Incorrecto. Sin razones no hay argumentación, apenas una afirmación sin sustento. -->
 - [ ] D) Reemplazarla por un resumen de la clase de educación física, que es un texto informativo.
   <!-- feedback: Incorrecto. Cambiar el género del texto elimina la opinión que el concurso pedía defender. -->
-
 ### Explicacion Pedagogica
 Defender una opinión requiere razones pertinentes, ejemplos cotidianos y un vocabulario cuidado que no exagera. Estos recursos convierten un enunciado débil en un texto argumentativo sólido y evaluable.
