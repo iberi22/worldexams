@@ -106,9 +106,9 @@
       "options": [
         {
           "letter": "A",
-          "text": "Un narrador explícito, que conoce la vida interior de todos los personajes",
+          "text": "Un narrador omnisciente, que conoce la vida interior de todos los personajes",
           "is_correct": false,
-          "feedback": "El narrador explícito tiene una visión amplia; aquí el conocimiento está restringido a un personaje."
+          "feedback": "El narrador omnisciente tiene una visión amplia; aquí el conocimiento está restringido a un personaje."
         },
         {
           "letter": "B",
@@ -118,15 +118,15 @@
         },
         {
           "letter": "C",
-          "text": "Un narrador en primera persona, con la perspectiva limitada de un personaje",
+          "text": "Un narrador con focalización interna, que solo conoce lo que piensa y siente ese personaje",
           "is_correct": true,
-          "feedback": "La narración desde un solo personaje corresponde al narrador en primera persona, con visibilidad limitada."
+          "feedback": "La restricción del conocimiento a una sola conciencia es lo que define la focalización interna, con independencia de la persona narrativa."
         },
         {
           "letter": "D",
           "text": "Un narrador en segunda persona, que se dirige directamente al lector",
           "is_correct": false,
-          "feedback": "En la segunda persona el relato emplea la forma \"tú\"; aquí se conoce lo que piensa un personaje concreto."
+          "feedback": "En la segunda persona el relato emplea la forma \"tú\", pero eso no explica por qué el lector solo conoce el mundo interior de un personaje."
         }
       ],
       "correct_answer": "C",
