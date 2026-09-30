@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-7-grade-4-subject-lectura_critica",
+    "generated_at": "2026-09-30T06:51:33.497Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-4-2026-W07-los-dialogos-en-los-cuentos-001-MASTERY-bundle-v1",
+      "statement": "Lee con atención el siguiente fragmento de un cuento.\n\n*En el parque de la 74, en Bogotá, Camila y Julián están sentados en una banca. \"¡Ya leíste el cuento de la semana?\", pregunta Camila. \"Sí, dos veces\", responde Julián. \"A mí me gustó la parte del mercado, porque había mucha gente\", dice Camila. \"A mí me gustó la del parque, porque se siente tranquilo\", responde Julián. Los dos ríen y cierran el cuaderno.*\n\n¿Quién hace la primera pregunta del diálogo?",
+      "context": "En un colegio de Bogotá, la profesora de cuarto lee un diálogo en voz alta y pide a los niños que anoten quién habla en cada línea.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Camila",
+          "is_correct": true,
+          "feedback": "Correcto. El fragmento dice que Camila pregunta si Julián ya leyó el cuento, y esa pregunta abre toda la conversación del parque."
+        },
+        {
+          "letter": "B",
+          "text": "Julián",
+          "is_correct": false,
+          "feedback": "Incorrecto. Julián es el que responde, porque la pregunta la hace Camila en la primera línea del diálogo."
+        },
+        {
+          "letter": "C",
+          "text": "La profesora del colegio",
+          "is_correct": false,
+          "feedback": "Incorrecto. La profesora no aparece en el fragmento, porque la conversación está entre Camila y Julián en la banca del parque."
+        },
+        {
+          "letter": "D",
+          "text": "El narrador del cuento",
+          "is_correct": false,
+          "feedback": "Incorrecto. El narrador solo cuenta dónde están los niños, y la primera pregunta la dice uno de los dos personajes del diálogo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un diálogo son las palabras que los personajes de un cuento se dicen unas a otras. Reconocer quién hace cada pregunta ayuda a los estudiantes a seguir la conversación sin perderse. Cuando los niños anotan los nombres, también descubren que los diálogos permiten que dos personajes opinen lo mismo de manera distinta.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-4-2026-W07-los-dialogos-en-los-cuentos-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W07-los-dialogos-en-los-cuentos-001-MASTERY-bundle-v2",
+      "statement": "Lee con atención este fragmento.\n\n*En una tienda de barrio de Barranquilla, un niño pregunta a su abuela por un cuento. \"¿Por qué el cuervo se quedó sin una pata?\", pregunta el niño. \"Porque quiso llevarse más cosas de las que podía\", responde la abuela. \"¿Y él no lo sabía?\", insiste el niño. \"No lo sabía, pero los animales que quieren mucho a veces pierden lo que ya tienen\", dice la abuela. El niño guarda silencio y mira el dibujo de la pata del cuervo en el libro.*\n\n¿Qué quiere decir la abuela cuando habla de \"los animales que quieren mucho a veces pierden lo que ya tienen\"?",
+      "context": "En un colegio de Barranquilla, la profesora de cuarto lee el cuento de la abuela y pregunta a los niños qué lección queda en el diálogo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que los animales pierden la memoria cuando quieren mucho y por eso no recuerdan nada",
+          "is_correct": false,
+          "feedback": "Incorrecto. La abuela habla de querer más de la cuenta, y en ningún momento dice que el cuervo olvidó lo que ya tenía."
+        },
+        {
+          "letter": "B",
+          "text": "Que hay que conformarse con lo que uno tiene y no querer más de la cuenta",
+          "is_correct": true,
+          "feedback": "Correcto. La abuela explica la moraleja del cuento, y con esa frase enseña que pedir de más puede hacer que un personaje pierda lo que ya poseía."
+        },
+        {
+          "letter": "C",
+          "text": "Que los animales del bosque son traicioneros y por eso se pelean entre ellos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El fragmento no habla de peleas entre animales, y la lección de la abuela tiene que ver con lo mucho que se desea."
+        },
+        {
+          "letter": "D",
+          "text": "Que el niño debe darle su dibujo a la abuela para que ella se lo lea completo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El niño solo mira el dibujo del libro, y en el fragmento no dice que vaya a regalarle nada a su abuela."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comprender un diálogo es entender lo que el personaje quiere decir, aunque no lo diga con palabras exactas. La frase de la abuela esconde la enseñanza del cuento, y el niño la entiende al final porque guarda silencio. Estos momentos de diálogo suelen ser los que más recuerdan los lectores, porque una persona habla con sus propias palabras.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-4-2026-W07-los-dialogos-en-los-cuentos-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W07-los-dialogos-en-los-cuentos-001-MASTERY-bundle-v3",
+      "statement": "Vuelve al diálogo del parque de la 74. Cuando Camila pregunta si Julián ya leyó el cuento, él contesta solamente: \"Sí, dos veces\".\n\n¿Qué muestra esa respuesta corta sobre lo que piensa Julián?",
+      "context": "En un colegio de Bogotá, la profesora de cuarto pregunta a sus estudiantes qué dejan ver las respuestas cortas de cada personaje.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que Julián no entendió nada del cuento y por eso lo leyó dos veces",
+          "is_correct": false,
+          "feedback": "Incorrecto. El fragmento no muestra ninguna confusión de Julián, porque él dice que le gustó la parte del parque."
+        },
+        {
+          "letter": "B",
+          "text": "Que Julián estaba enojado con Camila por la pregunta que le hizo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tono del diálogo es de amistad, porque al final los dos ríen y cierran el cuaderno juntos."
+        },
+        {
+          "letter": "C",
+          "text": "Que Julián prestó mucha atención al cuento y le gustó lo suficiente para leerlo otra vez",
+          "is_correct": true,
+          "feedback": "Correcto. Decir que lo leyó dos veces muestra que le gustó el cuento, y esa respuesta breve dice más que una descripción larga."
+        },
+        {
+          "letter": "D",
+          "text": "Que Julián había leído ese cuento muchas veces, pero no lo había disfrutado",
+          "is_correct": false,
+          "feedback": "Incorrecto. El fragmento dice que le gustó la parte del parque, y eso demuestra que el cuento sí le agradó."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las respuestas cortas en un diálogo suelen decir más de lo que parecen, porque el personaje no repite lo evidente. Cuando Julián contesta que lo leyó dos veces, el lector entiende que le gustó el cuento sin necesidad de más explicaciones. Practicar esta lectura de respuestas breves ayuda a los estudiantes a captar las emociones de los personajes.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-4-2026-W07-los-dialogos-en-los-cuentos-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W07-los-dialogos-en-los-cuentos-001-MASTERY-bundle-v4",
+      "statement": "Un grupo edita el diálogo del parque de la 74. En lugar de que Julián responda \"Sí, dos veces\", escribe que todavía no había leído el cuento.\n\n¿Qué cambio introduciría esa modificación en la conversación?",
+      "context": "En un taller de lectura de cuarto en Bogotá, los estudiantes reciben el diálogo del parque y deben cambiar una línea para ver qué pasa con la conversación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Haría que el diálogo dejara de tener sentido, porque los dos niños ya no podrían hablar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dos personas pueden hablar sin haber leído el cuento, porque el diálogo no depende de que la lectura esté hecha."
+        },
+        {
+          "letter": "B",
+          "text": "Haría que Julián apareciera en el parque sin haber leído nunca un cuento en su vida",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no dice que Julián no lee cuentos, y el cambio solo habla de esa semana y no de toda su vida."
+        },
+        {
+          "letter": "C",
+          "text": "Haría que el parque de la 74 quedara vacío porque los niños se fueron a leer el cuento",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cambio no saca a los niños del parque, porque la respuesta modificada no dice que ellos se hayan ido."
+        },
+        {
+          "letter": "D",
+          "text": "Haría que Camila preguntara de nuevo por el cuento, porque la respuesta nueva deja el tema sin resolver",
+          "is_correct": true,
+          "feedback": "Correcto. Si Julián dice que no lo leyó, la conversación sigue de forma coherente, pero Camila tendría que insistir o cambiar de tema."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Aplicar es usar lo aprendido para probar cómo funciona un texto. Al cambiar una línea de un diálogo, el estudiante tiene que prever qué sigue y qué puede dejar de tener sentido. Esta actividad enseña que las palabras de un personaje están conectadas entre sí, y que modificar una respuesta obliga a revisar el resto de la conversación.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-4-2026-W07-los-dialogos-en-los-cuentos-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W07-los-dialogos-en-los-cuentos-001-MASTERY-bundle-v5",
+      "statement": "La profesora pide copiar en el cuaderno una de las líneas del diálogo de la abuela y usar el signo correcto cuando alguien pregunta.\n\n¿Cuál de estas líneas del diálogo está escrita como una pregunta?",
+      "context": "En un colegio de Barranquilla, la profesora de cuarto revisa con los niños cómo se escriben las líneas de un diálogo en el cuaderno.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Porque quiso llevarse más cosas de las que podía\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa línea es la respuesta de la abuela, y por eso termina con un punto y no con el signo de interrogación."
+        },
+        {
+          "letter": "B",
+          "text": "\"¿Por qué el cuervo se quedó sin una pata?\"",
+          "is_correct": true,
+          "feedback": "Correcto. Esa línea empieza con el signo de interrogación de apertura, termina con el de cierre y por eso está escrita como una pregunta."
+        },
+        {
+          "letter": "C",
+          "text": "\"No lo sabía, pero los animales que quieren mucho a veces pierden lo que ya tienen\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa frase también es una respuesta de la abuela, porque no empieza con el signo de interrogación de apertura."
+        },
+        {
+          "letter": "D",
+          "text": "\"El niño guarda silencio y mira el dibujo de la pata del cuervo en el libro\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa oración la cuenta el narrador, porque forma parte de la narración y no de las palabras de un personaje."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En español, las preguntas se escriben con un signo de interrogación de apertura y otro de cierre. Reconocer ese signo ayuda a los estudiantes a distinguir una pregunta de una respuesta cuando leen diálogos. Esta regla es pequeña, pero sin ella las conversaciones de un cuento se vuelven difíciles de entender.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-4-2026-W07-los-dialogos-en-los-cuentos-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W07-los-dialogos-en-los-cuentos-001-MASTERY-bundle-v6",
+      "statement": "Un compañero de tu grupo pregunta por qué el autor del cuento hizo que la abuela explicara la enseñanza con un diálogo y no con un párrafo largo donde contara todo.\n\n¿Cuál es la mejor respuesta para explicar esa elección del autor?",
+      "context": "En un colegio de Barranquilla, un grupo de cuarto analiza por qué el autor eligió esa conversación y no un párrafo largo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la explicación llega como respuesta a las preguntas del niño, y así el lector la entiende junto con él",
+          "is_correct": true,
+          "feedback": "Correcto. El autor arma una conversación, y por eso la enseñanza del cuervo se entiende mejor que en un párrafo que lo contara todo de golpe."
+        },
+        {
+          "letter": "B",
+          "text": "Porque los párrafos largos ya no se usan en los cuentos que se leen en cuarto grado",
+          "is_correct": false,
+          "feedback": "Incorrecto. El fragmento no dice que los párrafos estén prohibidos, y la razón de usar un diálogo es otra, tiene que ver con el efecto."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el niño del diálogo habla poco y por eso la explicación tiene que ser corta",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es la abuela quien da la enseñanza, y el fragmento muestra que el niño pregunta dos veces antes de recibir esa respuesta."
+        },
+        {
+          "letter": "D",
+          "text": "Porque los diálogos en los cuentos siempre deben terminar con una pregunta del niño",
+          "is_correct": false,
+          "feedback": "Incorrecto. El diálogo termina con la respuesta de la abuela, y el fragmento no establece ninguna regla sobre cómo terminan."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar es explicar por qué el autor escribió el texto de una manera y no de otra. Cuando la enseñanza llega como respuesta, el lector la recibe junto con el personaje que pregunta. Esta comprensión ayuda a los estudiantes a descubrir que un cuento puede decir lo mismo con muchos menos recursos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-4-2026-W07-los-dialogos-en-los-cuentos-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W07-los-dialogos-en-los-cuentos-001-MASTERY-bundle-v7",
+      "statement": "Una compañera de tu grupo afirma: \"En los cuentos los diálogos son solo para hablar de cosas que no importan, como el clima o la hora\".\n\n¿Cuál es la respuesta más sólida que puede darle el grupo a esa afirmación?",
+      "context": "En la discusión de lectura de un colegio de Bogotá, una estudiante de cuarto defiende una afirmación frente a sus compañeros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La afirmación es correcta, porque en un cuento las palabras de los personajes no aportan información",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las palabras de los personajes son justamente las que cuentan qué sienten y qué piensan, como se ve en los dos diálogos."
+        },
+        {
+          "letter": "B",
+          "text": "La afirmación es parcialmente correcta, porque los diálogos solo sirven en los cuentos de animales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los dos diálogos de la semana hablan de personas, y en los dos las palabras sirven para algo más que para distraer."
+        },
+        {
+          "letter": "C",
+          "text": "La afirmación es incorrecta, porque en los dos diálogos las palabras muestran lo que piensan y lo que sienten los personajes",
+          "is_correct": true,
+          "feedback": "Correcto. El primer diálogo muestra los gustos de Camila y Julián, y el segundo enseña la moraleja, así que las palabras sí importan mucho."
+        },
+        {
+          "letter": "D",
+          "text": "La afirmación es incorrecta, porque hay que quitar todos los diálogos de un cuento para que la lectura sea más rápida",
+          "is_correct": false,
+          "feedback": "Incorrecto. Quitar los diálogos deja a los personajes sin voz, y el lector pierde la oportunidad de conocer lo que sienten."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar es emitir un juicio sobre lo que dice otra persona y defenderlo con pruebas del texto. En este caso, la mejor defensa consiste en señalar qué recuerdan los personajes en cada diálogo. Cuando el grupo responde con ejemplos, aprende que un diálogo bien escrito es una de las formas más rápidas para contar quién es un personaje.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-4-2026-W07-los-dialogos-en-los-cuentos-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W07-los-dialogos-en-los-cuentos-001-MASTERY-bundle-v8",
+      "statement": "En la cartelera de la semana se pegaron los dos diálogos leídos. El primero es entre dos amigos que están sentados en una banca del parque de la 74, en Bogotá, y comentan qué parte del cuento les gustó más. El segundo es entre un niño y su abuela en una tienda de barrio de Barranquilla, y la abuela le explica por qué el cuervo perdió una pata.\n\n¿Cuál es la respuesta que mejor explica la diferencia entre los dos diálogos?",
+      "context": "Como tarea final, los estudiantes de cuarto comparan los dos diálogos de la semana en una cartelera del salón y defienden su conclusión.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los dos diálogos sirven para lo mismo, porque en los dos los personajes cuentan el clima del día",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguno de los dos diálogos trata del clima, porque las palabras se usan para hablar de un cuento y de lo que cada personaje recuerda."
+        },
+        {
+          "letter": "B",
+          "text": "El primer diálogo no es un diálogo, porque en el parque no puede haber dos personas hablando",
+          "is_correct": false,
+          "feedback": "Incorrecto. El fragmento cuenta que Camila y Julián hablan sentados en una banca, así que sí hay un diálogo en el parque."
+        },
+        {
+          "letter": "C",
+          "text": "El segundo diálogo es menos importante, porque lo que dice la abuela es solo una explicación de la vida real",
+          "is_correct": false,
+          "feedback": "Incorrecto. La explicación de la abuela es la enseñanza del cuento, y por eso es la parte más importante de esa conversación."
+        },
+        {
+          "letter": "D",
+          "text": "El primer diálogo sirve para mostrar una amistad y el segundo para explicar la enseñanza de un cuento",
+          "is_correct": true,
+          "feedback": "Correcto. Camila y Julián hablan de lo que les gustó, mientras que la abuela responde a las preguntas del niño con la moraleja."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Comparar dos textos permite ver que un mismo recurso, el diálogo, puede cumplir funciones muy distintas. En uno los personajes cuentan su amistad y en el otro una persona enseña lo que aprendió de un cuento. Reconocer esa diferencia ayuda a los estudiantes a elegir el diálogo adecuado cuando ellos mismos escriben una historia.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-4-2026-W07-los-dialogos-en-los-cuentos-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    }
+  ]
+}

@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-4-grade-4-subject-lectura_critica",
+    "generated_at": "2026-09-30T06:51:33.496Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-4-2026-W04-los-datos-y-las-estadisticas-001-MASTERY-bundle-v1",
+      "statement": "En una encuesta, ¿qué es una estadística?",
+      "context": "En una escuela de Bogotá, la profesora de cuarto grado coloca en la pared los resultados de una encuesta que hicieron sobre las frutas más queridas en el recreo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un dato que cuenta cuántas personas eligieron",
+          "is_correct": true,
+          "feedback": "Correcto. Una estadística es un dato numérico que cuenta algo, como cuántos niños eligieron cada fruta."
+        },
+        {
+          "letter": "B",
+          "text": "Una pregunta que el profesor hace en clase",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pregunta es parte de la encuesta, pero la estadística es el número que resulta después de contarla."
+        },
+        {
+          "letter": "C",
+          "text": "Un dibujo que representa a un grupo de personas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un dibujo puede ayudar a explicar un dato, pero no es la estadística en sí misma."
+        },
+        {
+          "letter": "D",
+          "text": "El nombre del colegio donde se hizo la encuesta",
+          "is_correct": false,
+          "feedback": "Incorrecto. El nombre del colegio solo dice dónde se hizo el estudio y no cuenta nada sobre las respuestas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cuando contamos algo y anotamos cuántas personas lo eligieron, obtenemos una estadística. Por ejemplo, la cantidad de niños que prefieren mango es un dato que se puede representar con números. Los datos nos ayudan a entender mejor un grupo o un tema. Por eso los encontramos en las encuestas de la escuela, en los censos y en los periódicos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Semántico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-4-2026-W04-los-datos-y-las-estadisticas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W04-los-datos-y-las-estadisticas-001-MASTERY-bundle-v2",
+      "statement": "En una gráfica de barras, ¿para qué sirve el título que aparece arriba?",
+      "context": "En un colegio de Villavicencio, la profesora reparte una gráfica de barras a sus estudiantes de cuarto grado y les explica qué hay que mirar primero.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para decir cuántas barras tiene la gráfica",
+          "is_correct": false,
+          "feedback": "Incorrecto. El número de barras se ve contando, y el título no se usa para eso."
+        },
+        {
+          "letter": "B",
+          "text": "Para decir de qué tema son los datos que muestra",
+          "is_correct": true,
+          "feedback": "Correcto. El título indica qué se contó y en qué lugar, para que el lector entienda la gráfica de un vistazo."
+        },
+        {
+          "letter": "C",
+          "text": "Para ocultar los nombres de las categorías",
+          "is_correct": false,
+          "feedback": "Incorrecto. El título no esconde nada, al contrario, aclara el tema de la gráfica."
+        },
+        {
+          "letter": "D",
+          "text": "Para cambiar los números de la gráfica",
+          "is_correct": false,
+          "feedback": "Incorrecto. El título es solo un nombre, y los datos de la gráfica no cambian por ponerlo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Antes de mirar los números de una gráfica, siempre leemos el título. El título nos dice qué se contó, a quién se le preguntó y en qué lugar. Después miramos los nombres de los ejes para saber qué mide cada barra. Leer en este orden evita confusiones y hace que la gráfica se entienda bien.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-4-2026-W04-los-datos-y-las-estadisticas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W04-los-datos-y-las-estadisticas-001-MASTERY-bundle-v3",
+      "statement": "Lee estos datos de la encuesta del grado cuarto y responde:\n\nEn la escuela de Neiva se preguntó a 90 niños cuántos hermanos tienen. Estos fueron los resultados:\n\n*1 hermano: 20 niños*\n*2 hermanos: 45 niños*\n*3 hermanos: 25 niños*\n\nSegún estos datos, ¿cuántos niños tienen dos hermanos?",
+      "context": "En una escuela de Neiva, los estudiantes de cuarto grado leen los resultados de una encuesta sobre el número de hermanos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "20 niños",
+          "is_correct": false,
+          "feedback": "Incorrecto. Veinte es el número de niños que tienen un hermano, no dos."
+        },
+        {
+          "letter": "B",
+          "text": "25 niños",
+          "is_correct": false,
+          "feedback": "Incorrecto. Veinticinco es el número de niños que tienen tres hermanos, y el dato está en otra línea."
+        },
+        {
+          "letter": "C",
+          "text": "45 niños",
+          "is_correct": true,
+          "feedback": "Correcto. En la lista, la categoría de dos hermanos tiene 45 niños, y eso es lo que pide la pregunta."
+        },
+        {
+          "letter": "D",
+          "text": "90 niños",
+          "is_correct": false,
+          "feedback": "Incorrecto. Noventa es el total de niños que respondieron, no solo los que tienen dos hermanos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una lista de datos tiene un nombre o una categoría y al lado el número que le corresponde. Para responder, buscamos la categoría que pide la pregunta y leemos el número de al lado. En este caso, la categoría de dos hermanos tiene 45. Leer los datos con cuidado evita confundirse entre una línea y otra.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Textual",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-4-2026-W04-los-datos-y-las-estadisticas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W04-los-datos-y-las-estadisticas-001-MASTERY-bundle-v4",
+      "statement": "Observa estos datos de una encuesta escolar:\n\n*Color favorito: azul, 30 niños. Verde, 10 niños.*\n*Deporte favorito: fútbol, 32 niños. Béisbol, 8 niños.*\n\nSegún los datos, ¿qué frase describe mejor lo que pasó?",
+      "context": "En una escuela de Armenia, los estudiantes de cuarto grado comparan los resultados de dos preguntas de una misma encuesta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La diferencia entre los dos colores es de 10 niños y la diferencia entre los dos deportes es de 8 niños",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos son los valores menores, y la pregunta pide la diferencia, que se calcula restando."
+        },
+        {
+          "letter": "B",
+          "text": "Los dos colores y los dos deportes tienen la misma cantidad de niños",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los datos son distintos, porque treinta no es igual a diez y treinta y dos no es igual a ocho."
+        },
+        {
+          "letter": "C",
+          "text": "La diferencia entre los dos deportes es de 20 niños",
+          "is_correct": false,
+          "feedback": "Incorrecto. Veinte es la diferencia de los colores, y la de los deportes es de 24."
+        },
+        {
+          "letter": "D",
+          "text": "La diferencia entre los dos colores es de 20 niños y la diferencia entre los dos deportes es de 24 niños",
+          "is_correct": true,
+          "feedback": "Correcto. Restando obtenemos 30 menos 10 es 20, y 32 menos 8 es 24, y eso compara los datos con exactitud."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Comparar datos significa restar la cantidad menor de la cantidad mayor. En este caso, 30 menos 10 da 20, y 32 menos 8 da 24. Cuando las diferencias son muy diferentes entre sí, podemos decir que una preferencia es mucho más común que la otra. Comparar es una de las operaciones más útiles con las estadísticas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-4-2026-W04-los-datos-y-las-estadisticas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W04-los-datos-y-las-estadisticas-001-MASTERY-bundle-v5",
+      "statement": "El equipo de cuarto grado quiere saber qué snack debe comprar la escuela para la feria. ¿Qué pregunta es la mejor para esa encuesta?",
+      "context": "En una escuela de Montería, los estudiantes de cuarto grado preparan una encuesta para elegir el snack de la feria escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "¿Qué snack te gusta más para la feria: empanada, buñuelo o pastel de pollo?",
+          "is_correct": true,
+          "feedback": "Correcto. La pregunta ofrece tres opciones de snack, así que los resultados quedan fácil de contar y comparar."
+        },
+        {
+          "letter": "B",
+          "text": "¿Te gustan mucho los snacks?",
+          "is_correct": false,
+          "feedback": "Incorrecto. La respuesta sería sí o no y no nos diría cuál snack comprar, así que el resultado no sirve."
+        },
+        {
+          "letter": "C",
+          "text": "¿Cuánto dinero gastas cada día en snacks?",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta pregunta habla del dinero y no de la preferencia, por eso no ayuda a elegir el snack."
+        },
+        {
+          "letter": "D",
+          "text": "¿Los snacks de la feria son ricos o no son ricos?",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pregunta solo da dos respuestas posibles y no menciona ningún snack, así que no sirve para elegir uno."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una buena encuesta hace preguntas claras y ofrece opciones fáciles de responder. Si queremos elegir un snack, la pregunta debe mencionar snacks y no otra cosa. Las opciones cerradas como empanada, buñuelo o pastel hacen que el conteo sea sencillo. Preguntar bien es casi tan importante como contar bien los resultados.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-4-2026-W04-los-datos-y-las-estadisticas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W04-los-datos-y-las-estadisticas-001-MASTERY-bundle-v6",
+      "statement": "Compara estas dos gráficas de dos ciudades:\n\n*Gráfica uno, Tunja: niños que leen, 60. Niños que no leen, 20.*\n*Gráfica dos, Bogotá: niños que leen, 30. Niños que no leen, 50.*\n\n¿Qué se puede concluir al comparar las dos gráficas?",
+      "context": "En una clase de cuarto grado en Tunja, la profesora muestra dos gráficas que representan dos cosas distintas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En las dos ciudades leen la misma cantidad de niños",
+          "is_correct": false,
+          "feedback": "Incorrecto. En Tunja leen 60 y en Bogotá leen 30, así que las cantidades no son iguales."
+        },
+        {
+          "letter": "B",
+          "text": "En Tunja leen más niños que en Bogotá, aunque en Tunja respondieron menos niños",
+          "is_correct": true,
+          "feedback": "Correcto. En Tunja leen 60 y en Bogotá 30, así que la proporción de lectores es mayor en Tunja, porque respondieron menos niños."
+        },
+        {
+          "letter": "C",
+          "text": "En Bogotá leen más niños porque el número de no lectores es mayor",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que haya más no lectores significa que menos leen, y el dato de Tunja muestra lo contrario."
+        },
+        {
+          "letter": "D",
+          "text": "No se puede comparar porque las gráficas son de ciudades distintas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si se compara la proporción, que en Tunja es tres de cada cuatro, sí se pueden sacar conclusiones."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para comparar dos gráficas que no tienen el mismo número de personas, hay que mirar la proporción y no solo la cantidad bruta. En Tunja leen tres de cada cuatro niños y en Bogotá leen tres de cada ocho. Esa comparación muestra que la lectura es más común en Tunja. Reconocer cuándo sí y cuándo no se pueden comparar es una habilidad muy importante.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-4-2026-W04-los-datos-y-las-estadisticas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W04-los-datos-y-las-estadisticas-001-MASTERY-bundle-v7",
+      "statement": "La cafetería de la escuela preguntó a 80 estudiantes qué comida prefieren. Estos fueron los resultados:\n\n*Arepa: 42 estudiantes. Empanada: 18 estudiantes. Hamburguesa: 12 estudiantes. Otros: 8 estudiantes.*\n\nUn compañero de grupo escribió esta conclusión: \"Casi todos los estudiantes prefieren la arepa\".\n\n¿La conclusión del compañero está bien apoyada en los datos?",
+      "context": "En una escuela de Santa Marta, un grupo de cuarto grado revisó la encuesta sobre la comida de la cafetería y ahora redacta una conclusión.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No, porque 42 es menos que la mitad de 80",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mitad de 80 es 40, y 42 es un poco más de 40, no menos."
+        },
+        {
+          "letter": "B",
+          "text": "No, porque la empanada quedó con 18 estudiantes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que la empanada tenga menos votos no contradice que la arepa sea la más elegida."
+        },
+        {
+          "letter": "C",
+          "text": "Sí, porque 42 de 80 estudiantes eligieron la arepa y eso es más de la mitad",
+          "is_correct": true,
+          "feedback": "Correcto. La conclusión dice casi todos y en realidad es algo más de la mitad, así que está bien apoyada."
+        },
+        {
+          "letter": "D",
+          "text": "No, porque el total de la encuesta no se menciona en el enunciado",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enunciado sí dice que se preguntó a 80 estudiantes, así que el total está claro."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una conclusión debe estar apoyada en los datos que realmente dice el texto. Si 42 de 80 estudiantes eligieron la arepa, eso es un poco más de la mitad, y decir casi todos es aceptable. Si solo 8 de 80 la hubieran elegido, esa conclusión no tendría respaldo. Revisar los números antes de afirmar es lo que hace que un análisis sea serio.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-4-2026-W04-los-datos-y-las-estadisticas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W04-los-datos-y-las-estadisticas-001-MASTERY-bundle-v8",
+      "statement": "El grado cuarto publicó una encuesta sobre la hora preferida para hacer deporte. El 50 por ciento eligió la mañana, el 30 por ciento la tarde y el 20 por ciento la noche. ¿Cuál comentario describe mejor estos datos?",
+      "context": "En el salón de cuarto grado de una escuela de Palmira, la profesora pide escribir el comentario de la cartelera donde el grado publicó su encuesta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La noche es la mejor hora, porque nadie eligió la mañana",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mañana sí tuvo votos y fue la más elegida, y la noche quedó con menos."
+        },
+        {
+          "letter": "B",
+          "text": "Las tres horas tuvieron el mismo número de votos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los porcentajes son 50, 30 y 20, y por eso las tres horas no tuvieron el mismo resultado."
+        },
+        {
+          "letter": "C",
+          "text": "No se puede saber qué hora prefieren sin preguntar otra vez",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los datos ya están en la cartelera y son suficientes para ver cuál hora tuvo más votos."
+        },
+        {
+          "letter": "D",
+          "text": "La mayoría de los estudiantes prefiere hacer deporte en la mañana, porque esa hora tuvo más votos",
+          "is_correct": true,
+          "feedback": "Correcto. La mañana recibió el 50 por ciento de los votos, y eso quiere decir que es la hora más elegida."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Para escribir un comentario sobre una encuesta, primero identificamos el dato más alto y lo comparamos con los demás. Aquí la mañana tiene el 50 por ciento, que es más de la mitad, así que es la hora más elegida. Decir por qué y con qué dato lo comprobamos hace que el comentario sea claro. Es la misma forma en que un periodista redacta su nota de prensa.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-4-2026-W04-los-datos-y-las-estadisticas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    }
+  ]
+}

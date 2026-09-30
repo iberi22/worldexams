@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-5-grade-4-subject-lectura_critica",
+    "generated_at": "2026-09-30T06:51:33.496Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-4-2026-W05-el-ambiente-en-los-cuentos-001-MASTERY-bundle-v1",
+      "statement": "Lee con atención el siguiente fragmento de un cuento.\n\n*Los domingos por la mañana el mercado de San Francisco, en Bogotá, amanece lleno de gente. Doña Rosalba llega temprano y coloca bananos y tomates en una mesa de madera. Afuera llueve apenas, pero el toldo de colores protege la fruta. Un señor que vende arepas grita: \"¡Pase, joven, que el frío pega!\". El ruido de las voces y el olor a la arepa hacen que el lugar se sienta cálido incluso en un día de lluvia.*\n\n¿En qué lugar ocurre la escena que acabas de leer?",
+      "context": "En un colegio de Bogotá, la profesora de cuarto lee en voz alta un fragmento y pide a los niños que dibujen el lugar antes de responder.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En una finca de café cerca de Pereira",
+          "is_correct": false,
+          "feedback": "Incorrecto. La finca de café no aparece en este fragmento, porque la escena ocurre en un mercado de ciudad, con toldos, mesas y vendedores de arepa."
+        },
+        {
+          "letter": "B",
+          "text": "En el mercado de San Francisco, en Bogotá",
+          "is_correct": true,
+          "feedback": "Correcto. El fragmento dice que el mercado de San Francisco, en Bogotá, amanece lleno de gente y que doña Rosalba llega temprano a montar su mesa."
+        },
+        {
+          "letter": "C",
+          "text": "En una panadería del centro de Medellín",
+          "is_correct": false,
+          "feedback": "Incorrecto. El fragmento no habla de ninguna panadería, porque lo que se describe es un mercado al aire libre donde se venden frutas y arepas."
+        },
+        {
+          "letter": "D",
+          "text": "En una estación de buses de Barranquilla",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se menciona ninguna estación de buses, porque el texto solo nombra un mercado, una mesa de madera y un toldo de colores."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El ambiente de un cuento es el conjunto de detalles que nos dicen dónde pasa la historia, cuándo, qué tiempo hace y qué cosas hay alrededor. Cuando leemos que hay toldos, mesas y vendedores de arepa, ya podemos imaginar el lugar sin necesidad de dibujarlo. Reconocer el ambiente desde el primer párrafo ayuda a los niños a leer con más claridad, porque ya saben en qué escena están los personajes.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-4-2026-W05-el-ambiente-en-los-cuentos-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W05-el-ambiente-en-los-cuentos-001-MASTERY-bundle-v2",
+      "statement": "Lee con atención este otro fragmento del mismo cuento.\n\n*Los domingos por la mañana el mercado de San Francisco, en Bogotá, amanece lleno de gente. Doña Rosalba llega temprano y coloca bananos y tomates en una mesa de madera. Afuera llueve apenas, pero el toldo de colores protege la fruta. Un señor que vende arepas grita: \"¡Pase, joven, que el frío pega!\". El ruido de las voces y el olor a la arepa hacen que el lugar se sienta cálido incluso en un día de lluvia.*\n\n¿Qué quiere decir el autor cuando escribe que \"el toldo de colores protege la fruta\" en este fragmento?",
+      "context": "En un colegio de Bogotá, los estudiantes de cuarto trabajan en parejas y deben explicar con sus palabras qué significa un detalle del fragmento que les entrega la profesora.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el toldo de colores es un árbol grande que crece en el patio del mercado",
+          "is_correct": false,
+          "feedback": "Incorrecto. El toldo es una tela que sostiene doña Rosalba sobre la mesa, porque el texto lo presenta como protección, no como un árbol."
+        },
+        {
+          "letter": "B",
+          "text": "Que doña Rosalba cerró su puesto en el momento en que empezó a llover",
+          "is_correct": false,
+          "feedback": "Incorrecto. El fragmento dice que ella llega temprano y coloca la fruta, así que el puesto estaba abierto mientras caía la lluvia."
+        },
+        {
+          "letter": "C",
+          "text": "Que la lluvia de afuera no moja los bananos ni los tomates que están debajo del toldo",
+          "is_correct": true,
+          "feedback": "Correcto. El toldo es un objeto del ambiente que sirve de escudo, y por eso la lluvia de afuera no llega a la fruta que está debajo."
+        },
+        {
+          "letter": "D",
+          "text": "Que el mercado solo abre los días de sol y nunca cuando hay lluvia",
+          "is_correct": false,
+          "feedback": "Incorrecto. La escena del texto ocurre un domingo de lluvia, por lo que el mercado abre con lluvia y el toldo cumple su función."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Comprender un detalle es descubrir lo que el autor quiso decir aunque no lo escriba de forma directa. Cuando el texto dice que el toldo protege la fruta, el niño debe pensar que la lluvia cae afuera, pero no moja lo que está debajo de la tela. Así se entiende que los objetos del ambiente pueden ser tan importantes como el clima dentro de un cuento.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-4-2026-W05-el-ambiente-en-los-cuentos-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W05-el-ambiente-en-los-cuentos-001-MASTERY-bundle-v3",
+      "statement": "Lee el fragmento del patio del colegio.\n\n*Al medio día, en el patio del colegio de Bucaramanga, los estudiantes de cuarto salen a recrear. El patio se llena de gente porque hay una cancha de cemento, un asta de bandera y dos árboles grandes. En una esquina funciona una cantina que cobra $18.500 por el jugo. Cuando suena la hora de volver a clase, el patio queda vacío otra vez.*\n\n¿Por qué el autor escribió que en el patio \"hay una cancha de cemento, un asta de bandera, dos árboles grandes y una cantina\"?",
+      "context": "En un colegio de Bucaramanga, la profesora de cuarto proyecta un fragmento en el tablero y pregunta por qué el autor escribió ciertos detalles.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para que el lector imagine cómo es ese lugar y sepa qué objetos hay en el patio",
+          "is_correct": true,
+          "feedback": "Correcto. Esos detalles son el ambiente del patio, y sin ellos el lector no podría dibujar la escena ni entender dónde juegan los niños."
+        },
+        {
+          "letter": "B",
+          "text": "Para que el autor indique que el patio del colegio está vacío todo el día",
+          "is_correct": false,
+          "feedback": "Incorrecto. El patio solo se llena cuando salen a recrear, porque el texto dice que queda vacío otra vez al terminar el recreo."
+        },
+        {
+          "letter": "C",
+          "text": "Para que el autor diga que en ese colegio no hay árboles ni zona verde",
+          "is_correct": false,
+          "feedback": "Incorrecto. El fragmento dice que hay dos árboles grandes, así que la zona verde existe y es justamente uno de los detalles del ambiente."
+        },
+        {
+          "letter": "D",
+          "text": "Para que los estudiantes compren el jugo de la cantina antes de entrar a clase",
+          "is_correct": false,
+          "feedback": "Incorrecto. El precio del jugo es un dato del ambiente, no una orden de compra, porque el texto no le pide nada al lector."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los cuentos describen el ambiente para que el lector vea la escena tal como si estuviera allí. La cancha, el asta, los árboles y la cantina son objetos que pertenecen a ese lugar y por eso el autor los escribe con detalle. Cuando los estudiantes reconocen estos elementos, entienden que la descripción del ambiente también es información que sirve para comprender el cuento.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-4-2026-W05-el-ambiente-en-los-cuentos-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W05-el-ambiente-en-los-cuentos-001-MASTERY-bundle-v4",
+      "statement": "Un fragmento cuenta lo que pasa en un mercado de Bogotá en un día de lluvia. El toldo protege la fruta, el señor de las arepas grita que hace frío y dentro se siente cálido. Ahora imagina que el autor hubiera escrito que ese domingo fue un día de sol fuerte y sin una sola gota de lluvia.\n\n¿Qué parte de la escena quedaría sin sentido si la lluvia desapareciera del fragmento?",
+      "context": "En un taller de lectura de cuarto en Bogotá, los estudiantes reciben un fragmento y deben imaginar cómo cambiaría si modificaran un detalle del clima.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El nombre del mercado donde ocurre la escena",
+          "is_correct": false,
+          "feedback": "Incorrecto. El nombre del mercado no depende del clima, porque el sitio se llama igual un domingo de lluvia o un domingo de sol."
+        },
+        {
+          "letter": "B",
+          "text": "La hora temprana en la que llegan los vendedores a montar sus mesas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa hora tiene que ver con el trabajo de los vendedores, no con la lluvia, porque el mercado abre temprano los domingos."
+        },
+        {
+          "letter": "C",
+          "text": "El grito del señor que anuncia sus arepas a la gente que pasa",
+          "is_correct": false,
+          "feedback": "Incorrecto. El grito del vendedor es un detalle del ambiente del mercado y podría seguir igual en un día de sol."
+        },
+        {
+          "letter": "D",
+          "text": "La idea de que el toldo protege la fruta, porque esa protección solo hacía falta mientras llovía",
+          "is_correct": true,
+          "feedback": "Correcto. Sin lluvia el toldo ya no cumple ninguna función, así que la frase que lo presenta como escudo quedaría sin motivo."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Aplicar es usar lo aprendido para probar cómo funciona un texto. Si cambiamos el clima de una historia, tenemos que revisar qué detalles estaban atados a ese clima. Esta actividad enseña que los detalles del ambiente no son libres: el autor los coloca porque su historia los necesita, y quitarlos rompe la escena.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-4-2026-W05-el-ambiente-en-los-cuentos-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W05-el-ambiente-en-los-cuentos-001-MASTERY-bundle-v5",
+      "statement": "La profesora pide completar esta tabla con detalles del fragmento sobre la finca de doña Olga: una fila para el lugar, una para el clima y una para la hora del día.\n\n*En la finca de doña Olga, cerca de Pereira, la niebla baja todas las mañanas entre los árboles de café. Las hojas están mojadas y por eso la cosecha se hace después de las diez de la mañana. Cuando la niebla se levanta, el sol aparece fuerte entre los cafetos y desde la colina se ve el pueblo de Santa Rosa.*\n\n¿Con qué detalle de este fragmento llenarías la fila que dice CLIMA?",
+      "context": "En un colegio de Pereira, la profesora de cuarto recorre los grupos del salón mientras cada uno completa en el cuaderno una tabla del ambiente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Con el pueblo de Santa Rosa, que se ve desde la colina",
+          "is_correct": false,
+          "feedback": "Incorrecto. El pueblo es el lugar que se ve desde la colina, así que ese detalle va en la fila del lugar y no en la del clima."
+        },
+        {
+          "letter": "B",
+          "text": "Con la niebla que baja entre los árboles y que sube cuando sale el sol",
+          "is_correct": true,
+          "feedback": "Correcto. La niebla y el sol son el clima de la mañana en la finca, y por eso son los detalles que corresponden a esa fila."
+        },
+        {
+          "letter": "C",
+          "text": "Con las diez de la mañana, que es la hora en que empieza la cosecha",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las diez de la mañana indican una hora del día, así que ese dato corresponde a la fila del tiempo y no a la del clima."
+        },
+        {
+          "letter": "D",
+          "text": "Con los árboles de café, que dan sombra a los trabajadores",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los árboles de café son parte del lugar de la finca, porque el fragmento no los presenta como un cambio de clima."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Clasificar información es una manera muy buena de practicar la comprensión lectora. Al llenar la tabla, el estudiante separa lugar, clima y hora, y así ve que el ambiente tiene varias clases de detalles. Esta separación le sirve después para explicar por qué un detalle es importante y por qué otro es solo un adorno.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-4-2026-W05-el-ambiente-en-los-cuentos-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W05-el-ambiente-en-los-cuentos-001-MASTERY-bundle-v6",
+      "statement": "Lee el fragmento y analiza la relación que hay entre sus detalles.\n\n*Un martes de julio, en el centro de Barranquilla, empezó un aguacero fuerte a media mañana. Las calles se llenaron de agua y los niños esperaron bajo el techo de una panadería. Cuando el aguacero pasó, el sol salió y los charcos fueron desapareciendo poco a poco. La calle quedó mojada, pero con el tiempo también quedó seca.*\n\n¿Qué le muestra a usted como grupo esa relación entre el aguacero, los niños que esperan y la calle que después queda seca?",
+      "context": "En un colegio de Barranquilla, un grupo de cuarto analiza por qué una familia espera el aguacero antes de salir de casa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el clima de ese día cambió la manera en que la gente se movió y esperó en la calle",
+          "is_correct": true,
+          "feedback": "Correcto. La lluvia obligó a los niños a refugiarse y luego el sol secó los charcos, así que el clima cambió todo lo que pasó ese día."
+        },
+        {
+          "letter": "B",
+          "text": "Que el aguacero no tuvo ningún efecto porque todos los niños volvieron a casa",
+          "is_correct": false,
+          "feedback": "Incorrecto. El fragmento muestra que sí hubo efecto, porque los niños tuvieron que esperar bajo el techo de la panadería."
+        },
+        {
+          "letter": "C",
+          "text": "Que la calle siempre está seca, sin importar qué clase de día haga",
+          "is_correct": false,
+          "feedback": "Incorrecto. La calle terminó mojada y después seca, porque ese cambio se explica por el aguacero y luego por el sol."
+        },
+        {
+          "letter": "D",
+          "text": "Que la panadería del centro cerró sus puertas durante el aguacero",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no dice que la panadería cerró, porque los niños se refugiaron en su techo, lo cual indica que seguía abierta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar es separar las partes de un fragmento y luego explicar cómo se conectan entre sí. Aquí el clima es la causa y la espera de los niños y la humedad de la calle son las consecuencias. Cuando los estudiantes entienden esta cadena, comprueban que el ambiente mueve la historia y no es un simple adorno del autor.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-4-2026-W05-el-ambiente-en-los-cuentos-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W05-el-ambiente-en-los-cuentos-001-MASTERY-bundle-v7",
+      "statement": "Una compañera de tu grupo afirma: \"En los cuentos el ambiente no importa, porque lo único que cuenta es lo que hacen los personajes\".\n\n¿Cuál es la respuesta más sólida que puede darle el grupo a esa afirmación?",
+      "context": "En la discusión de lectura de un colegio de Medellín, una estudiante de cuarto defiende una afirmación frente a sus compañeros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La afirmación es correcta, porque las acciones de los personajes explican por sí solas cualquier historia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una respuesta sólida necesita pruebas del texto, y los fragmentos muestran que el clima también interviene en la historia."
+        },
+        {
+          "letter": "B",
+          "text": "La afirmación es totalmente falsa, porque el ambiente nunca se relaciona con los personajes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Decir que el ambiente nunca se relaciona con los personajes también es falso y contradice lo que muestran los textos leídos."
+        },
+        {
+          "letter": "C",
+          "text": "La afirmación es incompleta, porque en los dos fragmentos el clima cambia lo que hacen y lo que sienten los personajes",
+          "is_correct": true,
+          "feedback": "Correcto. Los dos textos de la semana muestran que la lluvia, la niebla y el aguacero obligan a los personajes a actuar de otra manera."
+        },
+        {
+          "letter": "D",
+          "text": "La afirmación es correcta, porque los autores solo escriben sobre lugares hermosos y sin lluvia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los fragmentos de la semana tienen lluvia y niebla, porque lo valioso del ambiente está en lo que provoca y no en lo lindo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar es emitir un juicio sobre lo que dice otro y defenderlo con evidencia del texto. Una afirmación sobre el ambiente se comprueba buscando detalles concretos en los fragmentos, no con opiniones. Cuando el grupo responde con pruebas, aprende que discutir un cuento también es un ejercicio de lectura cuidadosa.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-4-2026-W05-el-ambiente-en-los-cuentos-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W05-el-ambiente-en-los-cuentos-001-MASTERY-bundle-v8",
+      "statement": "En la cartelera de la semana se pegaron estos dos fragmentos en la cartelera. El primero cuenta lo que pasa en un mercado de Bogotá un domingo de lluvia, donde el toldo protege la fruta y dentro hace calor. El segundo cuenta lo que pasa en una finca de café cerca de Pereira, donde la niebla baja todas las mañanas y la cosecha se hace después de las diez. Un compañero pregunta si esos dos fragmentos cuentan la misma idea.\n\n¿Cuál es la respuesta que mejor explica la relación entre los dos fragmentos?",
+      "context": "Como tarea final, los estudiantes de cuarto deben comparar los dos fragmentos de la semana y defender su conclusión en una cartelera del aula.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No tienen relación, porque uno ocurre en una ciudad y el otro en el campo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los lugares son distintos, pero los dos textos giran sobre la misma idea, que el clima influye en los personajes."
+        },
+        {
+          "letter": "B",
+          "text": "Cuentan exactamente lo mismo, porque en los dos fragmentos llueve y hay gente debajo de un techo",
+          "is_correct": false,
+          "feedback": "Incorrecto. En el segundo fragmento no llueve sino que hay niebla, y no hay techo, así que los dos textos no son iguales."
+        },
+        {
+          "letter": "C",
+          "text": "El segundo fragmento no tiene ambiente, porque todo lo que cuenta es el trabajo de la finca",
+          "is_correct": false,
+          "feedback": "Incorrecto. La niebla, las hojas mojadas y el sol de la mañana son ambiente, porque son detalles del tiempo y del lugar."
+        },
+        {
+          "letter": "D",
+          "text": "Cuentan la misma idea, que el clima de cada lugar cambia lo que hacen los personajes, pero lo muestran de manera distinta",
+          "is_correct": true,
+          "feedback": "Correcto. El primer fragmento usa la lluvia de la ciudad y el segundo la niebla del campo, y los dos muestran la misma idea con recursos distintos."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Comparar dos textos permite ver que una misma idea puede aparecer de muchas maneras. En esta semana la idea compartida es que el clima pesa en lo que pasa, y cada fragmento la presenta con su propio lugar y su propio tiempo. Reconocer esa diferencia enseña a los estudiantes que leer con cuidado significa atender tanto a lo que se dice como a la manera en que se dice.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-4-2026-W05-el-ambiente-en-los-cuentos-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    }
+  ]
+}
