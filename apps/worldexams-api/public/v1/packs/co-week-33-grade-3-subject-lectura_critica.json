@@ -1,377 +1,377 @@
 {
   "metadata": {
     "grade": 3,
-    "subject": "lectura_critica",
+    "subject": "lectura-critica",
     "country": "co",
     "pack_id": "co-week-33-grade-3-subject-lectura_critica",
     "generated_at": "2026-09-29T19:06:57.870Z"
   },
   "questions": [
     {
-      "id": "CO-LC-3-2026-W33-la-nota-periodistica-infantil-001-MASTERY-bundle-v1",
-      "statement": "En el Texto 1, ¿cuál es el título de la nota que leyeron los niños?",
-      "context": "En un colegio de Pereira, los niños de tercero leen en voz alta la nota que aparece en el Texto 1.",
+      "id": "CO-LC-3-2026-W33-quien-hablo-y-que-dijo-001-MASTERY-bundle-v1",
+      "statement": "En el Texto 1, ¿quién le dijo a Daniela que primero lavara el maíz?",
+      "context": "La profesora reparte el Texto 1 y pide que la sala 3B subraye los nombres de las personas que aparecen.",
       "options": [
         {
           "letter": "A",
-          "text": "\"Los jugos de la feria cuestan $2.500 cada uno\"",
+          "text": "La mamá de Daniela.",
           "is_correct": false,
-          "feedback": "Incorrecto. Ese dato aparece en la información principal, no en el título de la nota."
+          "feedback": "Error. La mamá de Daniela no aparece en el Texto 1; la única persona que da esa instrucción junto con Daniela es la abuela Rosalba."
         },
         {
           "letter": "B",
-          "text": "\"La feria de lectura ocupa todo el patio\"",
+          "text": "La abuela Rosalba.",
           "is_correct": true,
-          "feedback": "Correcto. El Texto 1 dice que el título de la nota es exactamente esa frase, escrita en la pared del salón."
+          "feedback": "Correcto. Rosalba responde \"Claro que sí, mija. Primero lava el maíz\", y la respuesta va seguida de su nombre, que es la señal que usa el narrador."
         },
         {
           "letter": "C",
-          "text": "\"La profesora Beatriz Londoño enseña en Manizales\"",
+          "text": "La propia Daniela.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esa oración habla de la profesora y del colegio, pero no es el título de la nota."
+          "feedback": "Error. Daniela es quien recibe la indicación y además responde con \"eso ya lo sé\"; no puede ser la que se la dio."
         },
         {
           "letter": "D",
-          "text": "\"Daniela y Julián escriben una nota periodística\"",
+          "text": "El vecino que vive en el apartamento de al lado.",
           "is_correct": false,
-          "feedback": "Incorrecto. Los nombres de los niños aparecen en el relato del salón, no en el título de la nota."
+          "feedback": "Error. El texto nunca menciona a un vecino ni le asigna ninguna palabra, así que esa opción no tiene apoyo en el relato."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Reconocer el título es el primer paso para entender cómo se organiza una nota periodística. Cuando el estudiante localiza el título, entiende que esa es la frase que resume el sujeto del texto. Esta pregunta es literal porque pide buscar una frase que está escrita en el Texto 1. Practicar esta localización ayuda a los niños de tercero a leer mejor cualquier noticia del periódico.",
+      "explanation": "Reconocer quién dijo cada línea es la habilidad que abre la comprensión de cualquier diálogo. En tercero se empieza por el dato más sencillo: volver al párrafo y buscar la señal que acompaña a las palabras. Cuando el estudiante marca con seguridad quién habla, ya no está leyendo letras sino siguiendo una conversación, que es el verdadero propósito de leer un cuento.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
       "icfes_type": "Textual",
       "expected_success": 0.9,
-      "bundle_id": "CO-LC-3-2026-W33-la-nota-periodistica-infantil-001-MASTERY-bundle",
+      "bundle_id": "CO-LC-3-2026-W33-quien-hablo-y-que-dijo-001-MASTERY-bundle",
       "periodo": 33,
       "protocol_version": "5.2",
       "cefr_level": null,
-      "subject": "lectura_critica",
+      "subject": "lectura-critica",
       "grade": 3,
       "country": "co"
     },
     {
-      "id": "CO-LC-3-2026-W33-la-nota-periodistica-infantil-001-MASTERY-bundle-v2",
-      "statement": "En el Texto 2, ¿para qué sirve la bajada de una nota periodística?",
-      "context": "En un salón de tercero en Bucaramanga, la profesora explica las cuatro partes de una nota periodística infantil.",
+      "id": "CO-LC-3-2026-W33-quien-hablo-y-que-dijo-001-MASTERY-bundle-v2",
+      "statement": "Según el Texto 1, ¿qué diferencia está señalando Rosalba entre el agua tibia y el agua caliente?",
+      "context": "La profesora escribe \"agua tibia\" en el tablero y pide a un estudiante que explique la diferencia.",
       "options": [
         {
           "letter": "A",
-          "text": "Para cambiar el tema de la nota por uno más interesante",
-          "is_correct": false,
-          "feedback": "Incorrecto. La bajada no cambia el tema, porque el tema ya está anunciado en el título."
+          "text": "Que el agua tibia se puede tocar sin arriesgarse a quemarse, mientras el agua caliente sí quema.",
+          "is_correct": true,
+          "feedback": "Correcto. La palabra \"tibia\" significa templada, y el relato lo confirma cuando Daniela responde \"Prometo que no me quemo\", es decir, que con agua caliente habría riesgo."
         },
         {
           "letter": "B",
-          "text": "Para repetir palabra por palabra lo que dice el título",
+          "text": "Que el agua tibia solo sirve para tomar y el agua caliente solo sirve para lavar el maíz.",
           "is_correct": false,
-          "feedback": "Incorrecto. Si la bajada repitiera el título, no aportaría información nueva al lector."
+          "feedback": "Error. El texto no asigna un uso a cada tipo de agua; la única diferencia que aparece es la temperatura y el riesgo de quemarse."
         },
         {
           "letter": "C",
-          "text": "Para colocar al final el nombre de quien confirmó el dato",
+          "text": "Que el agua caliente prepara las arepas más rápido y por eso Rosalba la prefiere.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esa es la función de las fuentes, que aparecen al final de la nota."
+          "feedback": "Error. Rosalba pide precisamente agua tibia, no caliente; si prefiriera el agua caliente, esa instrucción del texto sería incorrecta."
         },
         {
           "letter": "D",
-          "text": "Para ampliar el título y contar de qué trata el hecho que se informa",
-          "is_correct": true,
-          "feedback": "Correcto. El Texto 2 explica que la bajada amplía el título y explica de qué trata el hecho."
+          "text": "Que las dos palabras significan lo mismo y Rosalba se equivocó al usarlas.",
+          "is_correct": false,
+          "feedback": "Error. Tibia y caliente son palabras distintas con valores distintos, y el relato usa esa diferencia para proteger a Daniela de una quemadura."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Comprender la bajada es entender cómo el periodista completa la información para el lector. No es una repetición del título, sino una frase que amplía y aclara. Cuando los niños distinguen título y bajada, pueden escribir notas donde no falte ningún dato importante. Esta comprensión prepara a los estudiantes para textos más largos, como las noticias de un periódico de ciudad.",
+      "correct_answer": "A",
+      "explanation": "Comprender el significado de una palabra dentro del relato evita confusiones que después aparecen al resumir. En esta pregunta el estudiante debe unir el significado de \"tibia\" con una consecuencia que el texto menciona. Esa relación entre vocabulario y los hechos del relato es la base para leer con criterio cualquier cuento.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
       "icfes_type": "Semántico",
       "expected_success": 0.88,
-      "bundle_id": "CO-LC-3-2026-W33-la-nota-periodistica-infantil-001-MASTERY-bundle",
+      "bundle_id": "CO-LC-3-2026-W33-quien-hablo-y-que-dijo-001-MASTERY-bundle",
       "periodo": 33,
       "protocol_version": "5.2",
       "cefr_level": null,
-      "subject": "lectura_critica",
+      "subject": "lectura-critica",
       "grade": 3,
       "country": "co"
     },
     {
-      "id": "CO-LC-3-2026-W33-la-nota-periodistica-infantil-001-MASTERY-bundle-v3",
-      "statement": "En el Texto 1, cada uno de los noventa y seis estudiantes recibirá un jugo de $2.500. ¿Cuánto dinero gastará el colegio en los jugos de la feria?",
-      "context": "En el colegio de Manizales, la profesora pregunta cuánto dinero necesita para los jugos de la feria.",
+      "id": "CO-LC-3-2026-W33-quien-hablo-y-que-dijo-001-MASTERY-bundle-v3",
+      "statement": "Según el Texto 2, ¿qué le indica al lector un signo de interrogación dentro de las palabras de un personaje?",
+      "context": "Un grupo está leyendo la tabla del Texto 2 y la profesora señala la última fila.",
       "options": [
         {
           "letter": "A",
-          "text": "$240.000",
-          "is_correct": true,
-          "feedback": "Correcto. Al multiplicar noventa y seis jueces por $2.500 cada uno, el total es $240.000."
+          "text": "Que la persona que habla está gritando con mucha fuerza.",
+          "is_correct": false,
+          "feedback": "Error. Gritar se marca con el signo de exclamación y con verbos como exclamó; el signo de interrogación indica lo contrario."
         },
         {
           "letter": "B",
-          "text": "$96.500",
+          "text": "Que el narrador está contando algo que no quiere que se sepa.",
           "is_correct": false,
-          "feedback": "Incorrecto. Ese resultado solo suma el precio de un jugo al número de estudiantes, sin multiplicar."
+          "feedback": "Error. El Texto 2 no relaciona el signo de interrogación con secretos ni con la intención del narrador."
         },
         {
           "letter": "C",
-          "text": "$48.000",
-          "is_correct": false,
-          "feedback": "Incorrecto. El total corresponde solo a la mitad de los estudiantes, y la nota dice que participan los noventa y seis."
-        },
-        {
-          "letter": "D",
-          "text": "$2.400",
-          "is_correct": false,
-          "feedback": "Incorrecto. Ese número mezcla el precio del jugo con la cantidad de estudiantes, en lugar de multiplicar."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Aplicar los datos de una nota permite comprobar que la información principal sirve para tomar decisiones reales. Los niños deben leer la cantidad y el precio, y luego combinarlos con una operación. Este ejercicio enseña que un dato correcto, como el total de $240.000, es la base para comprar materiales o pedir presupuesto en el colegio. Leer cifras con cuidado es una habilidad que sirve en todas las asignaturas.",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Inferencial",
-      "expected_success": 0.8,
-      "bundle_id": "CO-LC-3-2026-W33-la-nota-periodistica-infantil-001-MASTERY-bundle",
-      "periodo": 33,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lectura_critica",
-      "grade": 3,
-      "country": "co"
-    },
-    {
-      "id": "CO-LC-3-2026-W33-la-nota-periodistica-infantil-001-MASTERY-bundle-v4",
-      "statement": "Julián quiere escribir la bajada de una nota que tiene como título \"La feria de lectura ocupa todo el patio\". ¿Cuál oración puede usar como bajada?",
-      "context": "En un colegio de Ibagué, Julián prepara la bajada de su propia nota sobre la feria de lectura.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "\"La feria de lectura ocupa todo el patio\"",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esa oración repite el título y no amplía la información para el lector."
-        },
-        {
-          "letter": "B",
-          "text": "\"La feria fue el mejor evento del año\"",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esa frase es una opinión personal y no amplía el título con datos del hecho."
-        },
-        {
-          "letter": "C",
-          "text": "\"La feria de lectura se hará el viernes a las ocho y treinta de la mañana en el patio cubierto\"",
+          "text": "Que la persona que habla está haciendo una pregunta.",
           "is_correct": true,
-          "feedback": "Correcto. La bajada amplía el título y aporta el día, la hora y el lugar del hecho."
+          "feedback": "Correcto. El Texto 2 dice que el signo de interrogación indica que la persona pregunta, y así se lee en la línea \"Rosalba, ¿yo te ayudo?\"."
         },
         {
           "letter": "D",
-          "text": "\"Fuentes: la profesora Beatriz Londoño y la directora Martha Bedoya\"",
+          "text": "Que esas palabras son una opinión del lector y no del personaje.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esa línea corresponde a las fuentes, que se escriben al final de la nota."
+          "feedback": "Error. Las palabras entre comillas pertenecen a un personaje del relato; el signo de interrogación solo avisa que esa persona pregunta."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Aplicar la estructura de la nota enseña a escribir con un orden que el lector pueda seguir. El estudiante debe elegir la oración que amplía el título sin inventar datos. Elegir bien la bajada evita repetir el título y evita meter una opinión donde van los datos. Esta habilidad se transfiere a otros textos informativos que se leen en la clase.",
-      "difficulty": "6",
+      "explanation": "Los signos de puntuación son señales que el lector usa para entender cómo se dijo algo. Cuando el estudiante reconoce que el signo de interrogación trae una pregunta, ya puede identificar voces dentro de una conversación sin necesidad de adivinar. Practicar esto evita el error de leer todas las líneas con la misma entonación, algo muy común en los lectores de tercero.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Pragmático",
-      "expected_success": 0.78,
-      "bundle_id": "CO-LC-3-2026-W33-la-nota-periodistica-infantil-001-MASTERY-bundle",
+      "bloom": "Understand",
+      "icfes_type": "Textual",
+      "expected_success": 0.86,
+      "bundle_id": "CO-LC-3-2026-W33-quien-hablo-y-que-dijo-001-MASTERY-bundle",
       "periodo": 33,
       "protocol_version": "5.2",
       "cefr_level": null,
-      "subject": "lectura_critica",
+      "subject": "lectura-critica",
       "grade": 3,
       "country": "co"
     },
     {
-      "id": "CO-LC-3-2026-W33-la-nota-periodistica-infantil-001-MASTERY-bundle-v5",
-      "statement": "Un compañero escribe en su nota: \"La feria de lectura fue la mejor del año, porque todos los niños se divirtieron mucho\". ¿Qué debe hacer para que la nota informe bien el hecho?",
-      "context": "En un aula de Pasto, un estudiante escribe su nota y le pide ayuda a la profesora para corregir una frase.",
+      "id": "CO-LC-3-2026-W33-quien-hablo-y-que-dijo-001-MASTERY-bundle-v4",
+      "statement": "El taller quedó así: \"—Buenos días —dijo—. ¿Cómo estás? —Muy bien —dijo—.\" No aparece ningún nombre. Según el Texto 2, ¿qué debe hacer el autor para que el lector sepa quién habla?",
+      "context": "En un taller, un niño copió el siguiente diálogo de un cuento y lo leyó en voz alta.",
       "options": [
         {
           "letter": "A",
-          "text": "Dejar la frase como está, porque los niños sí se divirtieron",
+          "text": "Debe escribir la palabra \"dijo\" un número mayor de veces.",
           "is_correct": false,
-          "feedback": "Incorrecto. Aunque los niños sí se divirtieron, esa sigue siendo una opinión personal y debe marcarse como tal."
+          "feedback": "Error. Repetir \"dijo\" no agrega ninguna señal nueva: el problema del fragmento es que nunca se nombra ni se describe a ninguna de las dos personas."
         },
         {
           "letter": "B",
-          "text": "Escribir los datos del evento y decir aparte que esa frase es su opinión",
+          "text": "Debe agregar junto a cada intervención el nombre del personaje o un gesto, para que quede claro a quién pertenecen esas palabras.",
           "is_correct": true,
-          "feedback": "Correcto. Así separa el dato, que se puede comprobar, de la opinión, que es una valoración personal."
+          "feedback": "Correcto. El Texto 2 explica que el nombre o el apodo y los gestos son señales de quién habla; sin ellas el lector no puede distinguir a las dos personas."
         },
         {
           "letter": "C",
-          "text": "Cambiar la frase por \"La feria fue buena\", sin decir que es su opinión",
+          "text": "Debe borrar las rayas que separan una intervención de la otra.",
           "is_correct": false,
-          "feedback": "Incorrecto. Sigue siendo una opinión, y además queda más vaga porque no explica con qué criterio se dice."
+          "feedback": "Error. La raya es justamente la señal que marca dónde empieza una intervención hablada, según la tabla del Texto 2."
         },
         {
           "letter": "D",
-          "text": "Borrar la frase completa, porque en una nota nunca se puede escribir lo que piensa la gente",
+          "text": "Debe cambiar los nombres de los personajes por apodos más largos y difíciles.",
           "is_correct": false,
-          "feedback": "Incorrecto. La nota sí puede incluir una opinión, siempre que se presente como una opinión y no como un dato."
+          "feedback": "Error. Un apodo más largo no mejora la claridad; lo que ayuda es que el apodo o el nombre aparezca cerca de las palabras dichas."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Aplicar la diferencia entre dato y opinión es una de las habilidades más importantes de la comprensión lectora en tercero. El dato se comprueba con una fuente y la opinión se declara como una valoración personal. Cuando el estudiante escribe \"mi opinión\", enseña al lector que esa frase no es un hecho comprobado. Esta práctica prepara a los niños para distinguir información seria de comentarios en redes sociales y en periódicos.",
+      "explanation": "Aplicar lo aprendido significa transformar un texto defectuoso en un texto claro. En esta semana la sala recibe diálogos mal construidos y debe repararlos usando la tabla de señales. Ese trabajo de reparación enseña que escribir y leer son caras de la misma habilidad: quien repara un diálogo aprende a construirlo bien.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
       "icfes_type": "Discursivo",
-      "expected_success": 0.75,
-      "bundle_id": "CO-LC-3-2026-W33-la-nota-periodistica-infantil-001-MASTERY-bundle",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-3-2026-W33-quien-hablo-y-que-dijo-001-MASTERY-bundle",
       "periodo": 33,
       "protocol_version": "5.2",
       "cefr_level": null,
-      "subject": "lectura_critica",
+      "subject": "lectura-critica",
       "grade": 3,
       "country": "co"
     },
     {
-      "id": "CO-LC-3-2026-W33-la-nota-periodistica-infantil-001-MASTERY-bundle-v6",
-      "statement": "Julián pregunta si la nota del Texto 1 cumple las reglas que explica el Texto 2. ¿Cuál respuesta está mejor justificada?",
-      "context": "En un salón de Villavicencio, los niños comparan la nota del Texto 1 con las reglas del Texto 2.",
+      "id": "CO-LC-3-2026-W33-quien-hablo-y-que-dijo-001-MASTERY-bundle-v5",
+      "statement": "Según las señales del Texto 1, ¿a quién pertenece la línea \"El agua debe estar tibia, no caliente\"?",
+      "context": "Una estudiante copió en su cuaderno una línea del Texto 1 y se la mostró a la profesora para que la ubicara.",
       "options": [
         {
           "letter": "A",
-          "text": "Sí, porque tiene título, bajada, información principal con datos y fuentes, y no inventa nombres ni fechas",
-          "is_correct": true,
-          "feedback": "Correcto. Compara las cuatro partes del Texto 2 con lo que realmente aparece en la nota del Texto 1."
+          "text": "A Daniela.",
+          "is_correct": false,
+          "feedback": "Error. Daniela es la que responde con \"Prometo que no me quemo\"; la indicación sobre el agua es de Rosalba."
         },
         {
           "letter": "B",
-          "text": "No, porque en una nota infantil no se pueden escribir nombres de personas",
+          "text": "Al narrador.",
           "is_correct": false,
-          "feedback": "Incorrecto. El Texto 2 explica que las fuentes son las personas que confirmaron el dato, así que los nombres sí se escriben."
+          "feedback": "Error. El narrador cuenta, pero esa indicación aparece atribuida a Rosalba mediante la expresión \"le explicó\"."
         },
         {
           "letter": "C",
-          "text": "Sí, porque toda nota periodística debe tener cuatro partes de la misma cantidad de palabras",
+          "text": "A la mamá de Daniela.",
           "is_correct": false,
-          "feedback": "Incorrecto. El Texto 2 nunca pide igualar la extensión de las partes, solo respetar el orden y los datos."
+          "feedback": "Error. La mamá no aparece en el Texto 1, de modo que esa atribución no tiene ningún apoyo en el relato."
         },
         {
           "letter": "D",
-          "text": "No, porque el título y la bajada son la misma parte repetida dos veces",
+          "text": "A la abuela Rosalba.",
+          "is_correct": true,
+          "feedback": "Correcto. La línea viene inmediatamente después de \"Rosalba le explicó\", y esa es la señal que el narrador usa para indicar que esas palabras son de Rosalba."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Vincular cada línea con su hablante es un ejercicio de precisión textual muy útil en tercero. El método es sencillo: buscar el nombre o el gesto que aparece junto a las palabras y preguntarse si esa señal pertenece a la persona o al narrador. Aplicar este método evita el error más caro de la lectura de cuentos, que es atribuir a un personaje lo que dijo otro.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-3-2026-W33-quien-hablo-y-que-dijo-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W33-quien-hablo-y-que-dijo-001-MASTERY-bundle-v6",
+      "statement": "Según el Texto 2, ¿qué le indica al lector que una raya seguida de comillas está marcando palabras habladas?",
+      "context": "La profesora dictó a la sala el primer renglón de la primera intervención de la historia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que ahí empieza una intervención hablada, y las comillas señalan hasta dónde llegan esas palabras.",
+          "is_correct": true,
+          "feedback": "Correcto. La tabla del Texto 2 dice que la raya y las comillas indican dónde empieza una intervención hablada y dónde termina."
+        },
+        {
+          "letter": "B",
+          "text": "Que el narrador está describiendo un lugar de la casa.",
           "is_correct": false,
-          "feedback": "Incorrecto. El Texto 2 dice que la bajada amplía el título, de modo que las dos partes cumplen papeles distintos."
+          "feedback": "Error. Las descripciones de lugares no se marcan con raya ni con comillas; esas marcas se reservan para lo que dice un personaje."
+        },
+        {
+          "letter": "C",
+          "text": "Que el narrador está pensando algo, pero no lo dice en voz alta.",
+          "is_correct": false,
+          "feedback": "Error. Lo que un personaje piensa se cuenta con verbos de pensar; la raya con comillas marca palabras que sí se dicen."
+        },
+        {
+          "letter": "D",
+          "text": "Que esas palabras son el título del cuento.",
+          "is_correct": false,
+          "feedback": "Error. El título va al comienzo del texto y no se encierra entre comillas precedidas de raya."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Analizar significa poner en relación dos textos para comprobar si uno aplica lo que el otro enseña. El estudiante debe recorrer la nota del Texto 1 y verificar cada regla del Texto 2 con un dato concreto. Comparar textos enseña a evaluar la calidad de una información escrita. Esta actividad construye un lector capaz de evaluar noticias reales, no solo de leerlas.",
+      "explanation": "La raya de diálogo y las comillas son marcas de escritura, y entenderlas ayuda a leer con fluidez. Cuando el estudiante sabe que esas señales separan lo dicho de lo narrado, ya distingue las voces de la historia. Esa distinción es la que le permite después recontar el cuento usando los verbos de habla correctos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LC-3-2026-W33-quien-hablo-y-que-dijo-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W33-quien-hablo-y-que-dijo-001-MASTERY-bundle-v7",
+      "statement": "Un autor escribió que Rosalba \"dijo\" cuatro veces y que Daniela \"dijo\" dos veces, sin cambiar nunca el verbo. Según el Texto 2, ¿qué efecto tiene usar siempre el mismo verbo de habla?",
+      "context": "Un autor reescribió la escena de la cocina usando siempre el mismo verbo de habla para todos los personajes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No produce ningún cambio, porque \"dijo\" comunica exactamente lo mismo que \"exclamó\".",
+          "is_correct": false,
+          "feedback": "Error. El Texto 2 distingue el signo de exclamación y el verbo exclamó, que muestran intensidad, de un simple dicho."
+        },
+        {
+          "letter": "B",
+          "text": "Hace que el lector pierda de vista las voces, porque no puede distinguir una intervención de otra ni el tono con que hablan.",
+          "is_correct": true,
+          "feedback": "Correcto. El Texto 2 muestra que los verbos de habla son señales; al repetirlos siempre, esas señales pierden valor y el diálogo se vuelve plano."
+        },
+        {
+          "letter": "C",
+          "text": "Hace que el cuento se vuelva más largo, porque hay que escribir más palabras para explicar lo mismo.",
+          "is_correct": false,
+          "feedback": "Error. Repetir un mismo verbo no alarga el relato; el problema que crea es la falta de claridad, no el tamaño del texto."
+        },
+        {
+          "letter": "D",
+          "text": "Mejora el cuento, porque en los cuentos todos los personajes deben sonar exactamente igual.",
+          "is_correct": false,
+          "feedback": "Error. Que todos suenen igual no es una virtud: impide reconocer las voces y hace que el diálogo pierda interés."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Analizar un texto supone explicar por qué un recurso funciona o estropea la lectura. Aquí el estudiante debe ver que un verbo repetido pierde su función de señal. Reconocer ese problema lo prepara para leer con criterio y para elegir verbos más precisos al escribir sus propios cuentos.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Crítico-Intertextual",
-      "expected_success": 0.74,
-      "bundle_id": "CO-LC-3-2026-W33-la-nota-periodistica-infantil-001-MASTERY-bundle",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-3-2026-W33-quien-hablo-y-que-dijo-001-MASTERY-bundle",
       "periodo": 33,
       "protocol_version": "5.2",
       "cefr_level": null,
-      "subject": "lectura_critica",
+      "subject": "lectura-critica",
       "grade": 3,
       "country": "co"
     },
     {
-      "id": "CO-LC-3-2026-W33-la-nota-periodistica-infantil-001-MASTERY-bundle-v7",
-      "statement": "¿Cuál de estas frases es una opinión escrita como opinión, es decir, una valoración personal que se presenta como tal?",
-      "context": "En un colegio de Cartagena, la profesora revisa cuatro frases para elegir una que sea una opinión declarada.",
+      "id": "CO-LC-3-2026-W33-quien-hablo-y-que-dijo-001-MASTERY-bundle-v8",
+      "statement": "La versión 1 usa siempre el mismo verbo de habla y nunca nombra a los personajes. La versión 2 combina verbos distintos, nombres, gestos y rayas. ¿Cuál versión conviene imprimir y por qué?",
+      "context": "La profesora leyó a la clase la misma escena en dos versiones impresas.",
       "options": [
         {
           "letter": "A",
-          "text": "\"La feria de lectura tuvo noventa y seis participantes\"",
+          "text": "La versión 1, porque es más corta y por eso se lee más rápido.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esa frase es un dato comprobable, porque se puede verificar contando o preguntando a las fuentes."
+          "feedback": "Error. La brevedad no garantiza comprensión: si el lector no sabe quién habla, la escena se vuelve confusa aunque sea corta."
         },
         {
           "letter": "B",
-          "text": "\"La feria fue el mejor evento del colegio, porque lo dice el título del mural\"",
+          "text": "La versión 1, porque usar un solo verbo evita confundir a los personajes entre sí.",
           "is_correct": false,
-          "feedback": "Incorrecto. Presenta una opinión como si fuera un hecho, y el mural no es una fuente que compruebe el dato."
+          "feedback": "Error. No es un solo verbo lo que confunde, sino la ausencia de nombres y gestos; de hecho quitar señales es lo que genera la confusión."
         },
         {
           "letter": "C",
-          "text": "\"Cada estudiante recibió un jugo de $2.500, según el mensaje de la profesora\"",
-          "is_correct": false,
-          "feedback": "Incorrecto. Es un dato con fuente, porque la profesora confirma la cantidad y el precio."
+          "text": "La versión 2, porque reúne varias señales y permite saber quién habla, cómo habla y dónde termina su intervención.",
+          "is_correct": true,
+          "feedback": "Correcto. La versión 2 usa las señales que el Texto 2 describe: verbos, nombres, gestos y rayas con comillas, de modo que el diálogo se entiende."
         },
         {
           "letter": "D",
-          "text": "\"Mi opinión: la feria de lectura fue muy divertida, porque los niños participaron en la lectura\"",
-          "is_correct": true,
-          "feedback": "Correcto. Declara que es una opinión personal y explica el motivo, sin presentarla como un dato comprobado."
+          "text": "Las dos versiones sirven igual, porque el Texto 2 no dice nada sobre los verbos de habla.",
+          "is_correct": false,
+          "feedback": "Error. El Texto 2 sí explica qué señales usa el narrador, así que sí se puede sostener una elección entre las dos versiones."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Evaluar es juzgar si una frase sirve para informar o solamente para expresar lo que alguien siente. La opción correcta marca la opinión con palabras claras y da su razón, mientras que las otras la disimulan como un hecho. Saber distinguir ambos casos enseña a leer con criterio y a noacceptar información sin comprobarla. En tercero, esta habilidad evita que el estudiante confunda lo que pasó con lo que alguien piensa que pasó.",
+      "correct_answer": "C",
+      "explanation": "Evaluar es escoger la opción mejor justificada y explicar con argumentos del texto. En esta semana la sala aprende a defender por qué una versión de un diálogo es mejor que otra. Ese razonamiento, basado en señales observables, es la base del pensamiento crítico que se trabaja en todos los grados.\n\n<!--FIN-->",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
       "icfes_type": "Evaluativo",
-      "expected_success": 0.72,
-      "bundle_id": "CO-LC-3-2026-W33-la-nota-periodistica-infantil-001-MASTERY-bundle",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LC-3-2026-W33-quien-hablo-y-que-dijo-001-MASTERY-bundle",
       "periodo": 33,
       "protocol_version": "5.2",
       "cefr_level": null,
-      "subject": "lectura_critica",
-      "grade": 3,
-      "country": "co"
-    },
-    {
-      "id": "CO-LC-3-2026-W33-la-nota-periodistica-infantil-001-MASTERY-bundle-v8",
-      "statement": "En el Texto 1, Julián escribió dos oraciones separadas: \"La feria ocurre en el patio. Ocurre el viernes a las ocho y treinta de la mañana\". ¿Qué cambio mejora la oración y explica mejor el hecho?",
-      "context": "En un aula de Barranquilla, Julián revisa la oración de su nota antes de entregarla.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Repetir el sujeto en las dos oraciones, para que la nota sea más larga",
-          "is_correct": false,
-          "feedback": "Incorrecto. Alargar la nota repitiendo el sujeto no agrega datos y hace la lectura más pesada."
-        },
-        {
-          "letter": "B",
-          "text": "Cambiar el verbo \"ocurre\" por \"parece\", porque así el texto suena más interesante",
-          "is_correct": false,
-          "feedback": "Incorrecto. Con \"parece\" el lector ya no puede estar seguro del hecho, y una nota debe informar datos comprobables."
-        },
-        {
-          "letter": "C",
-          "text": "Unir las dos oraciones en una sola: la feria ocurre el viernes a las ocho y treinta de la mañana en el patio",
-          "is_correct": true,
-          "feedback": "Correcto. Al unir las oraciones se evita repetir el sujeto y quedan juntos el día, la hora y el lugar."
-        },
-        {
-          "letter": "D",
-          "text": "Borrar el día y la hora, porque el título ya dice que la feria ocupa todo el patio",
-          "is_correct": false,
-          "feedback": "Incorrecto. El título no dice el día ni la hora, y quitar esos datos dejaría la información principal incompleta."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "Analizar una oración permite entender cómo se construyen los datos de una nota periodística. Unir oraciones evita repetir el sujeto y reúne el día, la hora y el lugar en un solo dato completo. Los estudiantes de tercero aprenden así que una oración bien escrita es más precisa y más fácil de comprobar. Esta práctica mejora la escritura de todos los textos informativos del colegio.",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Sintáctico",
-      "expected_success": 0.7,
-      "bundle_id": "CO-LC-3-2026-W33-la-nota-periodistica-infantil-001-MASTERY-bundle",
-      "periodo": 33,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lectura_critica",
+      "subject": "lectura-critica",
       "grade": 3,
       "country": "co"
     }
