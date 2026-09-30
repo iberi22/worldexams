@@ -167,6 +167,9 @@ tasks.json
 # Runtime y artefactos
 *.db-wal
 *.db-shm
+code_graph.db
+code_graph.db-wal
+code_graph.db-shm
 *.sqlite-wal
 *.sqlite-shm
 *.profraw
