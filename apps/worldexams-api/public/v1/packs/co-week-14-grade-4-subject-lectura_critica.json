@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-14-grade-4-subject-lectura_critica",
+    "generated_at": "2026-09-30T07:52:07.084Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-4-2026-W14-el-texto-informativo-cientifico-sencillo-001-MASTERY-bundle-v1",
+      "statement": "Lee con atención este texto informativo.\n\n*El agua nunca desaparece: viaja. Cuando el sol calienta un río, una parte del agua sube como vapor invisible. Ese vapor sube por el aire y forma las nubes. Cuando las nubes se vuelven pesadas, el agua cae otra vez en forma de lluvia, y esa lluvia vuelve a los ríos y al mar.*\n\n¿De qué trata principalmente este texto?",
+      "context": "En un colegio de Medellín, la profesora de cuarto reparte un texto informativo sobre el agua y pide a los niños que digan de qué trata.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Explica cómo el agua de la Tierra se transforma y vuelve una y otra vez a los mismos lugares",
+          "is_correct": true,
+          "feedback": "Correcto. El texto recorre el camino del agua, desde el río hasta el vapor, la nube, la lluvia y de vuelta al río, y eso es justamente lo que hace un texto informativo científico."
+        },
+        {
+          "letter": "B",
+          "text": "Cuenta la vida de una familia que vive al lado de un río durante todo un año",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay personajes ni familia en el fragmento, porque el texto está explicando un proceso de la naturaleza y no la vida de ninguna persona."
+        },
+        {
+          "letter": "C",
+          "text": "Explica cómo se construye una casa cerca de un río para que no se inunde",
+          "is_correct": false,
+          "feedback": "Incorrecto. El fragmento no habla de casas ni de construcciones, y su tema es el viaje del agua, no la arquitectura."
+        },
+        {
+          "letter": "D",
+          "text": "Cuenta por qué los niños de Medellín no deben bañarse en el río durante el día",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no da consejos a los niños, porque está describiendo lo que hace el agua en el aire, en las nubes y en el suelo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un texto informativo científico explica cómo funciona un fenómeno de la naturaleza por medio de causas y efectos. Reconocer el tema principal de un texto es el primer paso para no confundirlo con un cuento. Cuando los estudiantes identifican de qué trata, ya pueden preguntar quién lo escribió y para qué.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-4-2026-W14-el-texto-informativo-cientifico-sencillo-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W14-el-texto-informativo-cientifico-sencillo-001-MASTERY-bundle-v2",
+      "statement": "En el texto aparece esta frase.\n\n*\"Así el agua da vueltas y vueltas por la Tierra, y por eso se llama ciclo del agua.\"*\n\n¿Qué quiere decir aquí la palabra \"ciclo\"?",
+      "context": "En Bucaramanga, una niña de cuarto le pregunta a su maestra qué significa la palabra \"ciclo\" en el texto que leyeron en clase.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el agua desaparece para siempre después de convertirse en lluvia",
+          "is_correct": false,
+          "feedback": "Incorrecto. El fragmento dice que el agua nunca desaparece, y por eso no puede significar que se pierda después de la lluvia."
+        },
+        {
+          "letter": "B",
+          "text": "Que el agua solo puede recorrer este camino una sola vez y luego se detiene",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase dice que el agua da vueltas y vueltas, lo que muestra que el camino se repite y no se detiene."
+        },
+        {
+          "letter": "C",
+          "text": "Que el agua recorre un camino que se repite, porque siempre vuelve al punto de partida",
+          "is_correct": true,
+          "feedback": "Correcto. La palabra ciclo significa repetición, y en el texto el agua vuelve del mar a las nubes, de las nubes a la lluvia y de la lluvia otra vez al río."
+        },
+        {
+          "letter": "D",
+          "text": "Que el agua es un objeto redondo que rueda por el fondo del río",
+          "is_correct": false,
+          "feedback": "Incorrecto. El fragmento no habla de ningún objeto redondo, porque la idea de un camino que se repite no tiene que ver con la forma del agua."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Comprender una palabra nueva significa descubrir su significado dentro del contexto en el que aparece. Los estudiantes no necesitan el diccionario, porque la frase da vueltas y vueltas ya les sirve de pista. Practicar esta estrategia les permite entender textos científicos nuevos sin ayuda de un adulto.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-4-2026-W14-el-texto-informativo-cientifico-sencillo-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W14-el-texto-informativo-cientifico-sencillo-001-MASTERY-bundle-v3",
+      "statement": "La profesora escribe cuatro tarjetas en el tablero y pide que las coloquen en el orden en que ocurre el viaje del agua.\n\n*Tarjeta 1: el agua vuelve al río. Tarjeta 2: el agua sube como vapor. Tarjeta 3: el vapor forma las nubes. Tarjeta 4: las nubes producen lluvia.*\n\n¿Cuál es el orden correcto?",
+      "context": "En un taller de lectura en Pereira, los niños de cuarto deben ordenar tarjetas con los pasos del proceso que aprendieron en el texto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3, 2, 1, 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este orden empieza con las nubes y después menciona el vapor, cuando en realidad el vapor es lo que forma las nubes."
+        },
+        {
+          "letter": "B",
+          "text": "1, 2, 3, 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este orden pone el regreso al río como primer paso, cuando el texto explica que el agua vuelve al río al final, después de la lluvia."
+        },
+        {
+          "letter": "C",
+          "text": "2, 4, 1, 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este orden pone la lluvia antes de formar las nubes, y en el texto las nubes tienen que existir primero para poder soltar el agua."
+        },
+        {
+          "letter": "D",
+          "text": "2, 3, 4, 1",
+          "is_correct": true,
+          "feedback": "Correcto. Primero el agua sube como vapor, luego ese vapor forma las nubes, después las nubes producen lluvia y por último el agua regresa al río."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Aplicar es usar la información del texto para hacer una tarea, en este caso ordenar los pasos de un proceso. Los textos científicos suelen explicar las cosas en un orden, y entender ese orden ayuda a recordar el concepto. Cuando los niños trabajan con tarjetas, pueden revisar su respuesta volviendo al texto.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Literal",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-4-2026-W14-el-texto-informativo-cientifico-sencillo-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W14-el-texto-informativo-cientifico-sencillo-001-MASTERY-bundle-v4",
+      "statement": "En el texto se lee esta frase.\n\n*\"Una parte del agua sube como vapor invisible.\"*\n\nUn compañero del grupo pregunta: \"Si el vapor es invisible, ¿cómo sabemos que el agua sí sube?\"\n\n¿Cuál es la mejor respuesta para ese compañero?",
+      "context": "En un taller de Cartagena, un grupo de cuarto arma una maqueta del ciclo del agua con cartón, papel y coloreadores.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No se puede saber, porque el texto dice que el vapor no se ve y no da ninguna otra prueba",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto sí da una prueba, porque más adelante explica que ese vapor sube por el aire y forma las nubes."
+        },
+        {
+          "letter": "B",
+          "text": "Se sabe porque aunque no lo veamos, el vapor sí está en el aire, y más adelante forma las nubes",
+          "is_correct": true,
+          "feedback": "Correcto. El texto dice que ese vapor invisible sube por el aire y forma las nubes, y por eso hay pruebas de que el agua subió."
+        },
+        {
+          "letter": "C",
+          "text": "Hay que poner agua caliente en un vaso y esperar a que hierva para saberlo",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pregunta pide una explicación del texto, y la respuesta correcta no necesita ningún experimento en la cocina del colegio."
+        },
+        {
+          "letter": "D",
+          "text": "Se sabe porque el vapor invisible se puede tocar con la mano y dejar la mano mojada",
+          "is_correct": false,
+          "feedback": "Incorrecto. El vapor del que habla el texto no se toca, y además tocar vapor quema la piel, así que esa explicación no sirve."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una buena pregunta ayuda a entender mejor el texto en lugar de aceptarlo sin explicación. Cuando un compañero pregunta por algo que no se ve, el grupo busca la prueba en las líneas siguientes. Esta rutina de buscar evidencia enseña a los estudiantes a defender una idea con palabras del propio texto.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-4-2026-W14-el-texto-informativo-cientifico-sencillo-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W14-el-texto-informativo-cientifico-sencillo-001-MASTERY-bundle-v5",
+      "statement": "Vuelve a leer el fragmento con mucha atención.\n\n*\"Cuando el sol calienta el río, una parte del agua sube como vapor invisible.\"*\n\n¿Qué relación hay entre el calor del sol y la subida del vapor?",
+      "context": "En un colegio de Medellín, la profesora pide a los niños que descubran qué frase del texto explica una causa y su efecto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El calor del sol es la causa y la subida del vapor es el efecto que produce",
+          "is_correct": true,
+          "feedback": "Correcto. La frase une las dos ideas con la palabra cuando, y esa conexión muestra que el calor provoca la subida del vapor."
+        },
+        {
+          "letter": "B",
+          "text": "El calor del sol y la subida del vapor son dos cosas que no tienen relación entre sí",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase los une de manera directa, porque el vapor sube precisamente porque el sol calentó el agua del río."
+        },
+        {
+          "letter": "C",
+          "text": "La subida del vapor es la causa y el calor del sol es el efecto que produce",
+          "is_correct": false,
+          "feedback": "Incorrecto. El orden está invertido, porque primero el sol calienta el agua y después el vapor sube, no al revés."
+        },
+        {
+          "letter": "D",
+          "text": "El calor del sol y la subida del vapor son dos ejemplos de cosas que pasan en el mar",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase no menciona el mar, porque habla de un río calentado por el sol y del vapor que sube de él."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar es descubrir cómo están conectadas las ideas dentro de un párrafo, y en los textos científicos esas conexiones casi siempre son de causa y efecto. Los estudiantes aprenden a preguntar qué pasó primero y qué pasó después. Esa habilidad los ayuda después a explicar un fenómeno con sus propias palabras.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Inferencial",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-4-2026-W14-el-texto-informativo-cientifico-sencillo-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W14-el-texto-informativo-cientifico-sencillo-001-MASTERY-bundle-v6",
+      "statement": "En el pizarrón aparecen estos dos fragmentos.\n\n*Texto de ciencia: \"Cuando las nubes se vuelven pesadas, el agua cae en forma de lluvia.\"*\n\n*Cuento: \"La nubecita Cocori se hizo tan grande que se quedó dormida sobre el cerro y tardó tres días en despertarse para lloviznar.\"*\n\n¿Cuál es la diferencia principal entre los dos fragmentos?",
+      "context": "En Bucaramanga, la profesora escribe dos fragmentos en el pizarrón y pregunta a los niños en qué se diferencian.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La diferencia es que el cuento tiene más información científica que el texto de ciencia",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cuento no explica ningún proceso, porque solo cuenta lo que le pasó a una nube que se portó como si fuera gente."
+        },
+        {
+          "letter": "B",
+          "text": "La diferencia es que el texto de ciencia está escrito para adultos y el cuento está escrito para niños",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los dos fragmentos son sencillos y aparecen en la misma página del pizarrón, así que la diferencia no está en el público."
+        },
+        {
+          "letter": "C",
+          "text": "La diferencia es que el texto de ciencia menciona el agua y el cuento no menciona nada parecido",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los dos textos hablan de agua y de lluvia, así que el tema es el mismo y la diferencia está en otro lugar."
+        },
+        {
+          "letter": "D",
+          "text": "El texto de ciencia explica por qué llueve, y el cuento describe a una nube con características de persona",
+          "is_correct": true,
+          "feedback": "Correcto. El texto de ciencia da una causa real, y en el cuento la nube duerme y se despierta, como si fuera una persona."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Comparar dos textos permite ver que un mismo tema, la lluvia, puede explicarse de muy distintas maneras. El texto científico ofrece una causa real y el cuento ofrece un personaje inventado. Cuando los estudiantes notan esa diferencia, entienden mejor por qué los dos textos son valiosos y para qué se usan.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-4-2026-W14-el-texto-informativo-cientifico-sencillo-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W14-el-texto-informativo-cientifico-sencillo-001-MASTERY-bundle-v7",
+      "statement": "En la cartelera aparece esta afirmación.\n\n*\"En un texto informativo científico lo más importante es la historia de los animales, porque es la parte más divertida.\"*\n\n¿Cuál es la respuesta más sólida que puede darle el grupo a esa afirmación?",
+      "context": "En una cartelera del salón en Cartagena, un compañero de cuarto escribió una afirmación sobre los textos informativos científicos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La afirmación es correcta, porque todos los textos científicos cuentan la vida de un animal",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto que leyeron no cuenta la vida de ningún animal, porque su propósito es explicar un proceso de la naturaleza."
+        },
+        {
+          "letter": "B",
+          "text": "La afirmación es correcta, porque lo divertido siempre es mejor que lo exacto en cualquier lectura",
+          "is_correct": false,
+          "feedback": "Incorrecto. Entre las dos afirmaciones no se puede elegir por lo divertida, porque hay que preguntar si el texto cumple lo que promete."
+        },
+        {
+          "letter": "C",
+          "text": "La afirmación es incorrecta, porque un texto informativo científico explica un proceso de la naturaleza con causas y efectos",
+          "is_correct": true,
+          "feedback": "Correcto. El fragmento del agua muestra exactamente eso, el calor del sol causa la subida del vapor y la nube pesada causa la lluvia."
+        },
+        {
+          "letter": "D",
+          "text": "La afirmación es incorrecta, porque los textos científicos nunca pueden tener ninguna historia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Lo que se rechaza es que la historia sea lo más importante, y eso no significa que un texto científico no pueda contar algo pequeño como ejemplo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar es emitir un juicio sobre lo que dice otra persona y defenderlo con pruebas del texto. En este caso, la mejor defensa muestra que el fragmento científico organiza sus ideas como causa y efecto y no como relato. Los estudiantes aprenden a responder con evidencia y no con la idea de que algo sea divertido o feo.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-4-2026-W14-el-texto-informativo-cientifico-sencillo-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W14-el-texto-informativo-cientifico-sencillo-001-MASTERY-bundle-v8",
+      "statement": "En la cartelera de la semana se pegaron dos textos distintos sobre el mismo tema.\n\n*Texto 1, del club de ciencia de Bucaramanga: \"El sol calienta el agua de los ríos, el vapor sube, forma las nubes y de allí cae la lluvia. Por eso al agua se le llama viaje.\"*\n\n*Texto 2, nota de un periódico de Bogotá: \"Las lluvias fuertes en Cúcuta y en Bogotá pueden inundar las calles. Por eso la gente no debe cruzar una calle cubierta de agua.\"*\n\n¿Cuál es la respuesta que mejor explica la diferencia entre los dos textos?",
+      "context": "Como tarea final, los estudiantes de cuarto comparan en una cartelera dos textos que hablan de la lluvia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El segundo texto es menos importante, porque los periódicos no dicen nada que se pueda comprobar",
+          "is_correct": false,
+          "feedback": "Incorrecto. La nota del periódico da una recomendación que evita un accidente, y eso la hace valiosa para la comunidad."
+        },
+        {
+          "letter": "B",
+          "text": "Los dos hablan de la lluvia, pero el primero explica cómo se forma y el segundo qué hacer cuando cae muy fuerte",
+          "is_correct": true,
+          "feedback": "Correcto. Un texto da el proceso de la naturaleza y el otro previene un daño en la vida diaria, y por eso se complementan."
+        },
+        {
+          "letter": "C",
+          "text": "Los dos textos sirven para lo mismo, porque los dos hablan del mismo día de lluvia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los dos textos tocan la lluvia, pero el primero explica cómo se forma y el segundo da una recomendación práctica."
+        },
+        {
+          "letter": "D",
+          "text": "El primer texto no sirve para nada, porque los niños de cuarto no pueden entender un texto de club de ciencia",
+          "is_correct": false,
+          "feedback": "Incorrecto. El primer texto usa palabras sencillas y el propósito de la comparación es justamente ver que los dos textos son útiles."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comparar dos textos que hablan de lo mismo enseña que un tema puede abordarse desde ángulos distintos y todavía ser correcto. El primer texto responde cómo pasa y el segundo responde qué hacer. Cuando los estudiantes construyen una comparación así, ya usan textos de ciencia para tomar decisiones de su vida cotidiana.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-4-2026-W14-el-texto-informativo-cientifico-sencillo-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    }
+  ]
+}

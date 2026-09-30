@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-8-grade-4-subject-lectura_critica",
+    "generated_at": "2026-09-30T07:52:07.082Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-4-2026-W08-la-secuela-o-continuidad-del-cuento-001-MASTERY-bundle-v1",
+      "statement": "Lee con atención el siguiente fragmento de un cuento.\n\n*En una finca cafetalera cerca de Pereira, Simón y su hermana Luciana salieron a volar una cometa. El viento sopló tan fuerte que la cometa se enredó en las ramas altas de un cafeto. Luciana le dijo que no la tocara porque los cafetos se dañan, y los dos se quedaron mirando cómo la tela azul colgaba entre las hojas.*\n\n¿Qué ocurrió inmediatamente después de que la cometa se enredó en el cafeto?",
+      "context": "En una finca cafetalera cerca de Pereira, un grupo de niños de cuarto grado lee en voz alta un cuento sobre Simón y su cometa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Simón se subió al árbol y le pidió a Luciana que lo esperara abajo",
+          "is_correct": true,
+          "feedback": "Correcto. El fragmento cuenta que la cometa quedó en las ramas altas y que los dos se quedaron mirándola, así que la continuación más probable es que Simón buscara una forma de alcanzarla."
+        },
+        {
+          "letter": "B",
+          "text": "Simón se fue corriendo a la casa a contarlo todo, porque la cometa se había perdido para siempre",
+          "is_correct": false,
+          "feedback": "Incorrecto. El fragmento no dice que la cometa se perdiera, y Simón se quedó junto a Luciana mirando el cafeto en vez de marcharse de inmediato."
+        },
+        {
+          "letter": "C",
+          "text": "Luciana compró otra cometa en el mercado de Pereira y le costó dieciocho mil pesos",
+          "is_correct": false,
+          "feedback": "Incorrecto. En el fragmento no aparece ningún mercado ni dinero, y la historia todavía no ha pasado a la parte de las compras."
+        },
+        {
+          "letter": "D",
+          "text": "El viento paró de repente y los dos se fueron a la casa sin recoger la cometa",
+          "is_correct": false,
+          "feedback": "Incorrecto. El fragmento no dice que el viento paró, y los dos hermanos seguían frente al cafeto cuando termina este trozo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La secuela es lo que ocurre después de un acontecimiento del cuento. Reconocerla ayuda a los estudiantes a no confundir el final de una escena con el final de la historia completa. Cuando el lector entiende que la cometa quedó enredada, ya puede imaginar con fundamento lo que los personajes hacen después.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-4-2026-W08-la-secuela-o-continuidad-del-cuento-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W08-la-secuela-o-continuidad-del-cuento-001-MASTERY-bundle-v2",
+      "statement": "La profesora escribe una frase en el tablero y la lee dos veces.\n\n*Un cuento no se acaba con el momento más importante del asunto, sino con lo que los personajes hacen frente a lo que ese asunto les dejó.*\n\n¿Qué quiere decir la profesora cuando habla de la secuela de un cuento?",
+      "context": "En un colegio de Bucaramanga, la profesora de cuarto explica con un ejemplo de la casa qué significa la palabra secuela.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la secuela es el momento más triste de toda la historia",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase de la profesora no habla de tristeza, porque la secuela es una continuación y no un momento triste."
+        },
+        {
+          "letter": "B",
+          "text": "Que la secuela es el número de páginas que tiene el cuento",
+          "is_correct": false,
+          "feedback": "Incorrecto. La longitud de un libro no tiene nada que ver con lo que pasa después de un acontecimiento."
+        },
+        {
+          "letter": "C",
+          "text": "Que la secuela es lo que viene después de un acontecimiento del cuento",
+          "is_correct": true,
+          "feedback": "Correcto. La profesora lo dice al final de la frase, y por eso la secuela es justamente la continuación de lo que ya ocurrió."
+        },
+        {
+          "letter": "D",
+          "text": "Que la secuela es el nombre del autor que escribió el cuento",
+          "is_correct": false,
+          "feedback": "Incorrecto. El nombre del autor no es la secuela, porque la secuela se refiere a lo que pasa con los hechos y con los personajes."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Comprender un concepto narrativo exige poder explicarlo con palabras propias y no solo repetirlo. La secuela funciona como una cadena, porque cada acción deja una consecuencia que se convierte en el siguiente paso de la historia. Cuando los estudiantes separan el acontecimiento de su consecuencia, leen los cuentos con mucha más claridad.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-4-2026-W08-la-secuela-o-continuidad-del-cuento-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W08-la-secuela-o-continuidad-del-cuento-001-MASTERY-bundle-v3",
+      "statement": "Lee con atención este fragmento y luego lee lo que sigue en el cuaderno del autor.\n\n*En Cartagena, Mateo y su tío estaban jugando con una canica en las escaleras del barrio. La canica rodó y quedó enganchada en un clavo viejo de la pared. El tío le dijo a Mateo que no la tocara con la mano y que la bajara con el palo de la escoba.*\n\n¿Qué continuación del cuento se deduce mejor de lo que el tío le dice a Mateo?",
+      "context": "En un colegio de Cartagena, los estudiantes de cuarto leen un cuento corto y deben anticipar la continuación antes de que la profesora la muestre.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El tío le dijo a Mateo que dejara la canica ahí y que se fueran a jugar al parque",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tío no dice que dejen la canica, porque su instrucción fue la contraria, usar el palo para bajarla."
+        },
+        {
+          "letter": "B",
+          "text": "El tío ayuda a Mateo a bajar la canica con el palo, así nadie se lastima al buscarla",
+          "is_correct": true,
+          "feedback": "Correcto. La instrucción de no tocarla con la mano tiene que ver con la seguridad, y la herramienta que se menciona es el palo."
+        },
+        {
+          "letter": "C",
+          "text": "El tío se trepó por el clavo y alcanzó la canica desde arriba, como en un parque de diversiones",
+          "is_correct": false,
+          "feedback": "Incorrecto. El fragmento no dice que el tío se trepe, y además él mismo pidió usar el palo."
+        },
+        {
+          "letter": "D",
+          "text": "El tío le dijo a Mateo que la canica ya no servía y que compraran una nueva en la tienda",
+          "is_correct": false,
+          "feedback": "Incorrecto. El fragmento no menciona ninguna tienda, y la recomendación del tío va dirigida a resolver el problema con lo que ya tienen."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Inferir es deducir un hecho que el texto no escribe pero deja preparado. Las palabras del tío funcionan como una pista que permite imaginar la continuación con lógica. Esta habilidad es la base para que los estudiantes puedan predecir el desenlace de un cuento sin que nadie se lo cuente de antemano.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Inferencial",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-4-2026-W08-la-secuela-o-continuidad-del-cuento-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W08-la-secuela-o-continuidad-del-cuento-001-MASTERY-bundle-v4",
+      "statement": "Lee el comienzo del cuento que la profesora dictó en el salón.\n\n*Cuando Sara abrió la puerta de la cocina, vio la mesa llena de harina y el tarro de azúcar abierto. Su hermana menor estaba junto al fogón con las manos pegajosas y le dijo: \"Espera, te cuento\".*\n\nEscribe en tu cuaderno una secuela para este cuento. ¿Cuál de estas continuaciones se ajusta mejor a lo que ya pasó?",
+      "context": "En un taller de escritura de cuarto grado en Bucaramanga, cada estudiante debe escribir la continuación de un cuento breve.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sara salió corriendo a la calle y no volvió hasta la noche, porque la cocina ya no le servía",
+          "is_correct": false,
+          "feedback": "Incorrecto. Nadie le dijo a Sara que la cocina ya no servía, y esa reacción no responde a lo que su hermana acaba de decir."
+        },
+        {
+          "letter": "B",
+          "text": "Sara se quedó sentada en la puerta sin hacer nada hasta que amaneció en la cocina",
+          "is_correct": false,
+          "feedback": "Incorrecto. La historia quedaría parada ahí, y la pregunta pide justamente la continuación que hace avanzar el cuento."
+        },
+        {
+          "letter": "C",
+          "text": "Sara se fue al colegio y no volvió a la cocina, porque la harina no era importante",
+          "is_correct": false,
+          "feedback": "Incorrecto. La harina llena la mesa y la hermana quiere hablar, así que abandonar la cocina no responde a nada de lo que pasó."
+        },
+        {
+          "letter": "D",
+          "text": "Sara escuchó a su hermana y después le ayudó a limpiar la mesa y a recoger la cocina",
+          "is_correct": true,
+          "feedback": "Correcto. La continuación respeta lo que dijo la hermana y además resuelve el problema de la cocina con una acción concreta."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Escribir la secuela de un cuento es una tarea que exige respetar lo que ya está escrito. Un buen final no inventa una situación nueva, sino que responde a la última frase del fragmento. Practicar esta continuidad hace que los estudiantes entiendan que un relato es una cadena de decisiones y no una lista de escenas sueltas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-4-2026-W08-la-secuela-o-continuidad-del-cuento-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W08-la-secuela-o-continuidad-del-cuento-001-MASTERY-bundle-v5",
+      "statement": "En el cuaderno hay tres oraciones que cuentan un mismo episodio. Dos son hechos que ocurren y la tercera ya es el resultado de lo que pasó antes.\n\n*A) A las cuatro de la tarde empezó a llover muy fuerte en el barrio. B) Don Efraín sacó una lechuga del mercado por veinte mil pesos. C) Como el aguacero fue tan fuerte, la verdura se mojó y la familia alcanzó a hacer sopa para la cena.*\n\n¿Cuál de estas oraciones es la consecuencia y no un mero paso más de la historia?",
+      "context": "En un colegio de Cali, un grupo de cuarto trabaja con conectores que sirven para unir un acontecimiento con su consecuencia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La tercera oración, porque empieza con la causa y termina mostrando el resultado de la lluvia",
+          "is_correct": true,
+          "feedback": "Correcto. Esa oración une las dos líneas anteriores con el conector porque, y por eso muestra la consecuencia y no un paso más de la historia."
+        },
+        {
+          "letter": "B",
+          "text": "La primera oración, porque empieza con la hora y eso ya es un resultado",
+          "is_correct": false,
+          "feedback": "Incorrecto. La primera oración es el hecho que abre la secuencia, porque da la hora en que empezó la lluvia."
+        },
+        {
+          "letter": "C",
+          "text": "La segunda oración, porque menciona el precio de la lechuga",
+          "is_correct": false,
+          "feedback": "Incorrecto. El precio es un dato del hecho, y en ningún momento esa oración muestra el resultado de lo que pasó después."
+        },
+        {
+          "letter": "D",
+          "text": "Las tres oraciones son consecuencias, porque todas juntas cuentan el mismo problema",
+          "is_correct": false,
+          "feedback": "Incorrecto. La primera y la segunda narran hechos, y solo la tercera explica qué se produjo a partir de esos hechos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar una secuencia es separar el orden de los hechos del efecto que producen. Las palabras de unión como como, por eso o por lo tanto le dicen al lector que está leyendo una consecuencia. Cuando los estudiantes identifican esas señales, pueden justificar por qué un relato tiene sentido y por qué otro no.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-4-2026-W08-la-secuela-o-continuidad-del-cuento-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W08-la-secuela-o-continuidad-del-cuento-001-MASTERY-bundle-v6",
+      "statement": "Dos estudiantes escribieron finales distintos para un cuento sobre una niña que rompió un jarrón de la cocina.\n\n*El final del estudiante A dice: la niña se puso a llorar y la mamá llegó a la cocina para consolarla. El final del estudiante B dice: la niña juntó los pedazos, los guardó en una bolsa y le dijo a la mamá que iba a traer otro jarrón del mercado.*\n\n¿Cuál de los dos finales respeta mejor la continuidad del cuento y por qué?",
+      "context": "En una clase de cuarto grado de Pereira, la profesora pide comparar dos versiones del mismo final de cuento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El final del estudiante A, porque llorar es siempre la reacción más natural de los niños",
+          "is_correct": false,
+          "feedback": "Incorrecto. Llorar es una reacción posible, pero esa versión solo cuenta una emoción y no muestra cómo resuelve la niña lo que pasó."
+        },
+        {
+          "letter": "B",
+          "text": "El final del estudiante B, porque responde a lo que pasó y muestra qué hace la niña para arreglarlo",
+          "is_correct": true,
+          "feedback": "Correcto. Esa versión encadena una acción con otra y cierra el problema, que es justo lo que hace una buena secuela."
+        },
+        {
+          "letter": "C",
+          "text": "El final del estudiante A, porque el cuento ya estaba terminado cuando la niña rompió el jarrón",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que haya pasado un suceso no significa que la historia haya terminado, porque ese suceso es precisamente lo que pide continuación."
+        },
+        {
+          "letter": "D",
+          "text": "Los dos finales sirven igual, porque de dónde vino el jarrón no importa para la historia",
+          "is_correct": false,
+          "feedback": "Incorrecto. El final B sí explica algo sobre el cuento, y además muestra que hay una diferencia clara entre reaccionar y resolver."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comparar dos versiones de un mismo fragmento enseña que escribir es elegir un camino entre varios. Un final coherente toma los datos del texto y los usa, en vez de ignorarlos. Esta comparación desarrolla la capacidad de evaluar argumentos con base en lo que el texto sí dice.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Inferencial",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-4-2026-W08-la-secuela-o-continuidad-del-cuento-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W08-la-secuela-o-continuidad-del-cuento-001-MASTERY-bundle-v7",
+      "statement": "*Un compañero de tu grupo afirma con seguridad: \"Un cuento está bien terminado cuando le pasa algo importante al personaje, y en ese momento ya se puede cerrar la historia\".*\n\n¿Cuál es la respuesta más sólida que puede darle el grupo a esa afirmación?",
+      "context": "En la discusión de lectura de un colegio de Cúcuta, un compañero de cuarto quiere defender una idea sobre el final de los cuentos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La afirmación es correcta, porque los cuentos terminan siempre con un dibujo en la última página",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa respuesta no usa nada del texto y además inventa una regla que el grupo no discutió."
+        },
+        {
+          "letter": "B",
+          "text": "La afirmación es parcialmente correcta, porque hay cuentos que sí terminan con un dibujo final",
+          "is_correct": false,
+          "feedback": "Incorrecto. La discusión es sobre el argumento, no sobre si los cuentos llevan o no dibujo, y por eso la respuesta no lo refuta."
+        },
+        {
+          "letter": "C",
+          "text": "La afirmación es incorrecta, porque el suceso importante deja consecuencias que el lector necesita ver para saber cómo terminó de verdad",
+          "is_correct": true,
+          "feedback": "Correcto. La secuela es justamente la parte que explica qué pasó con lo importante, y sin ella el lector no puede valorar el desenlace."
+        },
+        {
+          "letter": "D",
+          "text": "La afirmación es incorrecta, porque para terminar un cuento hay que escribir dos páginas más",
+          "is_correct": false,
+          "feedback": "Incorrecto. La extensión no define la calidad de un final, y esta respuesta no explica nada sobre la continuidad del relato."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar una afirmación exige refutarla con razones que salen del texto y no de opiniones. La secuencia de hechos y consecuencias es la base de la coherencia narrativa, y defenderla con ejemplos es un ejercicio de argumentación. Esta práctica prepara a los estudiantes para opinar sobre lo que leen con fundamento.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-4-2026-W08-la-secuela-o-continuidad-del-cuento-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W08-la-secuela-o-continuidad-del-cuento-001-MASTERY-bundle-v8",
+      "statement": "*En la cartelera del salón se pegaron dos finales distintos para el mismo cuento, que habla de un niño de Bucaramanga que dejó su lonchera en el río. El primer final dice que el niño se quedó en la orilla hasta que la mamá fue a buscarlo. El segundo final dice que el niño siguió la corriente, encontró una tabla que le servía de remo, llegó a la finca de un tío y trajo la lonchera que la familia le había regalado esa semana.*\n\n¿Cuál de los dos finales explica mejor la continuidad del cuento y por qué?",
+      "context": "Como tarea final, los estudiantes de cuarto deben elegir el mejor final entre dos versiones para la cartelera del salón.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El primer final, porque quedarse en la orilla es una consecuencia lógica de perder una lonchera",
+          "is_correct": false,
+          "feedback": "Incorrecto. Quedarse quieto es una reacción, pero no explica el problema, y además el segundo final sí muestra una solución."
+        },
+        {
+          "letter": "B",
+          "text": "Los dos finales son igual de buenos, porque los dos cuentan algo triste y los dos dejan abierto el final",
+          "is_correct": false,
+          "feedback": "Incorrecto. El segundo final no deja nada abierto, y decir que los dos son buenos esconde que uno sí resuelve la dificultad."
+        },
+        {
+          "letter": "C",
+          "text": "El segundo final, porque la lonchera del cuento era un regalo y así se explicaría toda la historia",
+          "is_correct": false,
+          "feedback": "Incorrecto. La opción mezcla un detalle pequeño con la calidad del final, y el origen del objeto no explica la continuidad."
+        },
+        {
+          "letter": "D",
+          "text": "El segundo final, porque responde a lo que pasó, muestra una acción concreta y cierra la dificultad planteada",
+          "is_correct": true,
+          "feedback": "Correcto. Esa versión encadena decisiones y resultados, y por eso el lector entiende que el asunto del cuento quedó resuelto."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Comparar finales permite juzgar la continuidad de un relato y justificar la elección con criterios claros. Un final coherente toma el problema del cuento y muestra cómo se resuelve, no solo cómo se siente el personaje. Esta habilidad es el punto más alto del tema porque exige evaluar y defender una postura narrativa propia.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-4-2026-W08-la-secuela-o-continuidad-del-cuento-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    }
+  ]
+}
