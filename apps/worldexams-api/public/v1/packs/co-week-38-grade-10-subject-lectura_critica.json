@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-38-grade-10-subject-lectura_critica",
+    "generated_at": "2026-09-30T22:28:00.104Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-10-2026-W38-la-ironia-y-los-tipos-de-discurso-001-MASTERY-bundle-v1",
+      "statement": "¿En qué publicación apareció la columna del Texto 1?",
+      "context": "Al repartir los tres textos en clase, la profesora de Lenguaje pide que el curso anote el origen de cada material.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En la sección de deportes del mismo semanario.",
+          "is_correct": false,
+          "feedback": "Un semanario puede tener varias secciones, pero la columna de opinión no aparece en la de deportes."
+        },
+        {
+          "letter": "B",
+          "text": "En el boletín oficial del municipio de Popayán.",
+          "is_correct": false,
+          "feedback": "Un boletín municipal no publica columnas de opinión humorística firmadas por un escritor con nombre propio."
+        },
+        {
+          "letter": "C",
+          "text": "En la página de opinión del semanario La Chiva.",
+          "is_correct": true,
+          "feedback": "Correcto, la columna se publicó en el semanario regional y en su sección de opinión, no en un diario ni en una gaceta."
+        },
+        {
+          "letter": "D",
+          "text": "En la gaceta oficial del departamento del Cauca.",
+          "is_correct": false,
+          "feedback": "La gaceta oficial recoge actos administrativos, y ese tipo de texto no aparece en ella."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Reconocer el origen de un texto permite clasificarlo antes de interpretarlo. La sección donde se publica un material forma parte de su sentido, porque le indica al lector qué puede esperar. Ese dato sirve de base para las preguntas siguientes, donde importa distinguir la opinión humorística de la información periodística.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Literal",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-10-2026-W38-la-ironia-y-los-tipos-de-discurso-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W38-la-ironia-y-los-tipos-de-discurso-001-MASTERY-bundle-v2",
+      "statement": "¿De qué trata principalmente el Texto 2?",
+      "context": "El primer ejercicio de la semana es resumir en una línea cada texto antes de analizar cualquier recurso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "De una oferta de curso de preparación para el examen de Estado, dirigida a estudiantes.",
+          "is_correct": true,
+          "feedback": "Correcto, el aviso anuncia un curso, promete resultados y termina invitando al lector a matricularse."
+        },
+        {
+          "letter": "B",
+          "text": "De un informe sobre los precios de todos los cursos de preparación del país.",
+          "is_correct": false,
+          "feedback": "El aviso trata de un solo curso y de un solo instituto, no de los precios de la oferta nacional."
+        },
+        {
+          "letter": "C",
+          "text": "De un debate entre dos academias sobre la calidad de la preparación.",
+          "is_correct": false,
+          "feedback": "No hay dos academias en el texto ni una discusión entre ellas, porque el aviso es un mensaje único."
+        },
+        {
+          "letter": "D",
+          "text": "De una carta de un estudiante que pide un cupo en un colegio.",
+          "is_correct": false,
+          "feedback": "El texto no es una carta ni responde a una solicitud, sino que anuncia algo y busca clientes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reducir el asunto central de un texto con palabras propias es una habilidad semántica que evita el copiado literal. En un aviso publicitario el contenido evidente y el contenido real suelen estar separados, y el resumen correcto debe mencionar el producto, el destinatario y la intención. Reconocer esta estructura permite distinguir luego lo que el texto promete de lo que efectivamente ofrece.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-10-2026-W38-la-ironia-y-los-tipos-de-discurso-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W38-la-ironia-y-los-tipos-de-discurso-001-MASTERY-bundle-v3",
+      "statement": "En el Texto 2, ¿qué busca conseguir el aviso con su eslogan final?",
+      "context": "El profesor pregunta qué se espera que haga el lector del anuncio después de leerlo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Explicar cómo funciona el examen de Estado en cada uno de sus componentes.",
+          "is_correct": false,
+          "feedback": "El aviso no describe la estructura del examen, que es un tema del Ministerio y no del instituto."
+        },
+        {
+          "letter": "B",
+          "text": "Informar sobre el presupuesto oficial asignado a la educación superior.",
+          "is_correct": false,
+          "feedback": "El texto no menciona cifras oficiales ni presupuesto del sector, porque su interés es comercial."
+        },
+        {
+          "letter": "C",
+          "text": "Documentar los resultados que han obtenido los egresados del instituto.",
+          "is_correct": false,
+          "feedback": "El aviso presenta la cifra de 3.200 estudiantes formados, pero no publica datos de resultados individuales."
+        },
+        {
+          "letter": "D",
+          "text": "Convencer al lector de que se inscriba en el curso que ofrece el instituto.",
+          "is_correct": true,
+          "feedback": "Correcto, un eslogan publicitario ordena la acción y esa orden revela la intención comercial del mensaje."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Identificar la intención de un texto es una competencia pragmática que se construye comparando lo que se dice con lo que se busca. En el discurso publicitario, el llamado a la acción delata la intención mejor que cualquier declaración del texto. Reconocerlo permite pasar del contenido literal a la estrategia del mensaje.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-10-2026-W38-la-ironia-y-los-tipos-de-discurso-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W38-la-ironia-y-los-tipos-de-discurso-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál de estos elementos del Texto 1 deja en evidencia que los adjetivos del columnista no correspondían con lo que ocurría?",
+      "context": "El grupo de Bucaramanga busca en el texto una evidencia que contradiga los adjetivos del columnista.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El remate final, que revela que el público se había dormido mientras el columnista elogiaba la dicción.",
+          "is_correct": true,
+          "feedback": "Correcto, la inversión final es la prueba interna que obliga a releer todos los elogios anteriores en otro sentido."
+        },
+        {
+          "letter": "B",
+          "text": "La ausencia del nombre del ganador del premio en la columna.",
+          "is_correct": false,
+          "feedback": "La columna sí menciona al poeta invitado, de modo que esa ausencia no es lo que contradice los adjetivos."
+        },
+        {
+          "letter": "C",
+          "text": "El uso de numerales ordinales para ordenar la descripción.",
+          "is_correct": false,
+          "feedback": "Ordenar párrafos con numerales es un recurso de estructura, y no dice nada sobre la sinceridad de los elogios."
+        },
+        {
+          "letter": "D",
+          "text": "La publicación del texto en la página de opinión del semanario.",
+          "is_correct": false,
+          "feedback": "La sección del semanario orienta la expectativa del lector, pero no constituye evidencia interna sobre lo ocurrido."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una tesis necesita apoyo textual verificable, y esa exigencia se vuelve más estricta cuando el texto ironiza. La contradicción no está en una opinión externa del crítico, sino en un remate que pertenece al propio texto y que obliga a releerlo. Reconocer la evidencia interna es el paso previo y necesario para explicar por qué el elogio funciona como crítica.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LC-10-2026-W38-la-ironia-y-los-tipos-de-discurso-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W38-la-ironia-y-los-tipos-de-discurso-001-MASTERY-bundle-v5",
+      "statement": "¿Con qué rasgo del Texto 2 se parece el procedimiento del Texto 3?",
+      "context": "El taller de lectura cruzada pide comparar el poema con el aviso para encontrar un procedimiento compartido.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Con el uso de la segunda persona para dirigirse directamente al lector.",
+          "is_correct": false,
+          "feedback": "El poema usa primera persona del singular, y esa diferencia de voz hace que no sea el rasgo compartido."
+        },
+        {
+          "letter": "B",
+          "text": "Con la promesa exagerada: en los dos casos se anuncia más de lo que el texto puede sostener.",
+          "is_correct": true,
+          "feedback": "Correcto, tanto el aviso como el poema entregan promesas que exceden lo razonable, y ese exceso genera el efecto."
+        },
+        {
+          "letter": "C",
+          "text": "Con el hecho de que los dos textos hayan sido escritos en el mismo año.",
+          "is_correct": false,
+          "feedback": "El aviso es de 2021 y el poema de 2016, de modo que la coincidencia de fechas no se da."
+        },
+        {
+          "letter": "D",
+          "text": "Con la costumbre de cerrar los dos textos con un eslogan breve.",
+          "is_correct": false,
+          "feedback": "El poema termina con un verso que repite el nombre del producto, no con un eslogan publicitario."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comparar dos textos permite descubrir que un mismo procedimiento puede viajar entre géneros distintos. La promesa exagerada cumple esa función tanto en el lenguaje comercial como en el lenguaje poético. Ver que dos textos de contextos distintos comparten una estrategia lingüística es un primer paso hacia la lectura intertextual.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-10-2026-W38-la-ironia-y-los-tipos-de-discurso-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W38-la-ironia-y-los-tipos-de-discurso-001-MASTERY-bundle-v6",
+      "statement": "¿Qué decisión de organización explica mejor el efecto irónico del Texto 1?",
+      "context": "Los equipos de trabajo deben explicar en la puesta en común por qué la columna no puede leerse como un elogio sincero.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La columna sigue un orden cronológico estricto de la noche del premio.",
+          "is_correct": false,
+          "feedback": "La columna no reconstruye la noche paso a paso, sino que destaca una sola escena y la ornamenta."
+        },
+        {
+          "letter": "B",
+          "text": "La columna alterna descripciones del público con citas textuales del veredicto del jurado.",
+          "is_correct": false,
+          "feedback": "El texto no cita el veredicto del jurado, y el jurado tampoco aparece como fuente en la columna."
+        },
+        {
+          "letter": "C",
+          "text": "La columna expone tres tesis sobre el estado de la poesía en el sur de Colombia.",
+          "is_correct": false,
+          "feedback": "La columna no desarrolla tesis sobre poesía regional, se limita a narrar yhgiro una escena concreta."
+        },
+        {
+          "letter": "D",
+          "text": "La columna sostiene el elogio durante cuatro párrafos para que el remate final invierta todo lo afirmado.",
+          "is_correct": true,
+          "feedback": "Correcto, la acumulación de halagos crea la expectativa y el remate produce el contraste que hace posible la ironía."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Analizar la organización de un texto revela cómo se fabrica su efecto. En la ironía, la parte que se dice en serio existe para preparar la inversión final, y no para informar. Entender ese montaje ayuda a explicar por qué un texto puede parecer sincero en sus primeras líneas y terminar diciendo lo contrario.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-10-2026-W38-la-ironia-y-los-tipos-de-discurso-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W38-la-ironia-y-los-tipos-de-discurso-001-MASTERY-bundle-v7",
+      "statement": "¿Qué tipo de discurso predomina en el Texto 1?",
+      "context": "El profesor pide que el curso etiquete cada uno de los tres textos antes de analizarlos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un relato de ficción en tercera persona, con personajes y trama.",
+          "is_correct": false,
+          "feedback": "La columna no construye una trama ni usa personajes de ficción, aunque narre una escena."
+        },
+        {
+          "letter": "B",
+          "text": "Un texto informativo de carácter oficial, con datos comprobables y tono neutral.",
+          "is_correct": false,
+          "feedback": "La columna expresa la posición personal del escritor y su propósito es sarcástico, no informativo ni neutral."
+        },
+        {
+          "letter": "C",
+          "text": "Un discurso de opinión con intención de crítica, construido con humor e ironía.",
+          "is_correct": true,
+          "feedback": "Correcto, es un texto de opinión en el que el autor toma partido y usa el humor para desarmar el elogio."
+        },
+        {
+          "letter": "D",
+          "text": "Un texto publicitario cuyo fin es vender entradas para un evento.",
+          "is_correct": false,
+          "feedback": "El Texto 2 sí es publicitario; la columna no vende entradas y termina burlándose del evento."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Clasificar el tipo de discurso orienta la lectura porque cada género ofrece garantías distintas sobre lo que el texto quiere. Un texto de opinión no pretende describir la realidad de manera completa, sino sostener una postura. Reconocer el género permite interpretar el remate de la columna como una crítica y no como un simple fallo de información.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-10-2026-W38-la-ironia-y-los-tipos-de-discurso-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W38-la-ironia-y-los-tipos-de-discurso-001-MASTERY-bundle-v8",
+      "statement": "¿Qué deja entender el poema del Texto 3 cuando el yo poético anuncia efectos que el producto no puede producir?",
+      "context": "El taller pide a cada grupo qué efecto produce la promesa desmedida del poema.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la promesa es tan exagerada que el lector entiende que se trata de un juego verbal y no de una descripción.",
+          "is_correct": true,
+          "feedback": "Correcto, el exceso de la promesa es lo que permite al lector reconocer la ironía verbal del poema."
+        },
+        {
+          "letter": "B",
+          "text": "Que el vendedor habla con tono de médico y quiere convencer al público de un valor médico.",
+          "is_correct": false,
+          "feedback": "El poema no busca una convicción literal ni explica su trabajo, y el tono no es el de un profesional de salud."
+        },
+        {
+          "letter": "C",
+          "text": "Que el hielo se derrite muy rápido en el clima caluroso de la ciudad.",
+          "is_correct": false,
+          "feedback": "La exageración no apunta al clima ni a la duración del producto, sino a un efecto que no existe."
+        },
+        {
+          "letter": "D",
+          "text": "Que el vendedor necesita ayuda del público para mantener el producto frío.",
+          "is_correct": false,
+          "feedback": "El poema no pide ayuda ni describe problemas logísticos, porque su juego está en la promesa exagerada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Inferir el efecto de un enunciado exige reconstruir lo que el texto deja sin decir. Cuando la promesa es desmedida, el lector completa por sí mismo la distancia entre lo prometido y lo real. Esa reconstrucción automática es el mecanismo de la ironía verbal y explica por qué un poema tan corto puede sostener su efecto durante diez versos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Inferencial",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LC-10-2026-W38-la-ironia-y-los-tipos-de-discurso-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W38-la-ironia-y-los-tipos-de-discurso-001-MASTERY-bundle-v9",
+      "statement": "El equipo decide usar el Texto 3 como ejemplo principal. El argumento más sólido para esa elección es el que dice que:",
+      "context": "Un equipo prepara una exposición oral sobre ironía verbal y necesita un ejemplo que todo el curso pueda seguir.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El exceso de la promesa se puede señalar sin conocer el contexto previo, y su efecto es inmediato para cualquier lector.",
+          "is_correct": true,
+          "feedback": "Correcto, el poema funciona en un solo texto porque su ironía depende de la promesa desmedida y no de datos externos."
+        },
+        {
+          "letter": "B",
+          "text": "El poema es el texto más largo de los tres y por eso muestra mejor el recurso.",
+          "is_correct": false,
+          "feedback": "El poema tiene diez versos, y el hecho de ser largo no explica por qué resulta un ejemplo eficaz."
+        },
+        {
+          "letter": "C",
+          "text": "El poema menciona un producto real, de modo que sirve para comprobar si el precio del Texto 2 es excesivo.",
+          "is_correct": false,
+          "feedback": "El poema no menciona el precio ni las condiciones de ningún curso, y la comparación entre textos no es válida."
+        },
+        {
+          "letter": "D",
+          "text": "El poema es el único texto de la semana que no usa la primera persona.",
+          "is_correct": false,
+          "feedback": "El poema sí usa la primera persona del singular, de modo que este argumento parte de un dato falso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Elegir un ejemplo exige justificar la decisión con un criterio que pueda verificarse. Un buen ejemplo de ironía es el que hace visible el recurso sin exigir información adicional. Ese criterio ayuda al curso a distinguir textos que son entretenidos de textos que además son didácticamente útiles.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-10-2026-W38-la-ironia-y-los-tipos-de-discurso-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W38-la-ironia-y-los-tipos-de-discurso-001-MASTERY-bundle-v10",
+      "statement": "¿Qué conclusión sería más probable en un lector que lee únicamente el titular y el cuerpo del Texto 2?",
+      "context": "El profesor muestra el aviso sin el pie de letra pequeña y pide imaginar qué entiende un lector que mira solo la pantalla.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el curso incluye materiales y que el certificado tiene valor académico reconocido.",
+          "is_correct": false,
+          "feedback": "Esa conclusión exige leer el pie del recuadro, que es justamente el espacio donde el aviso la desmiente."
+        },
+        {
+          "letter": "B",
+          "text": "Que el instituto ofrece el curso más barato del mercado.",
+          "is_correct": false,
+          "feedback": "El aviso no menciona precios ni compara oferta, y esa conclusión no se deduce del texto."
+        },
+        {
+          "letter": "C",
+          "text": "Que el examen de Estado cambia de estructura cada dos años.",
+          "is_correct": false,
+          "feedback": "El aviso no habla de cambios en el examen, y esa afirmación excede por completo lo que el texto dice."
+        },
+        {
+          "letter": "D",
+          "text": "Que el curso incluye todo lo necesario y entrega un certificado con respaldo académico.",
+          "is_correct": true,
+          "feedback": "Correcto, esa es la expectativa que el titular crea y que la letra pequeña desmiente al final del aviso."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Este ejercicio revela un mecanismo frecuente del discurso publicitario: la promesa destacada y la aclaración escondida. El lector que solo consume el titular se queda con la expectativa más favorable. Evaluar esa distancia enseña a leer los avisos de manera crítica, algo que los estudiantes necesitan para cualquier decisión de inscripción.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-10-2026-W38-la-ironia-y-los-tipos-de-discurso-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W38-la-ironia-y-los-tipos-de-discurso-001-MASTERY-bundle-v11",
+      "statement": "¿Qué afirmación sobre los tres textos se sostiene mejor con lo que dice cada material?",
+      "context": "El cierre de la semana pide una afirmación que reúna a los tres materiales en una sola frase.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los tres textos describen con detalle el funcionamiento de una institución educativa.",
+          "is_correct": false,
+          "feedback": "Solo el aviso menciona una institución, y ni siquiera explica su funcionamiento con detalle."
+        },
+        {
+          "letter": "B",
+          "text": "Los tres textos exigen al lector que pague una cantidad de dinero para acceder al producto.",
+          "is_correct": false,
+          "feedback": "El aviso sí busca un pago, pero la columna se burla de la entrada de 25.000 pesos y el poema no pide dinero alguno."
+        },
+        {
+          "letter": "C",
+          "text": "Los tres textos producen un efecto que se apoya en una distancia entre lo que se dice y lo que realmente se quiere decir.",
+          "is_correct": true,
+          "feedback": "Correcto, el remate de la columna, la letra pequeña del aviso y la promesa del poema funcionan con esa misma distancia."
+        },
+        {
+          "letter": "D",
+          "text": "Los tres textos fueron escritos por personas que viven en ciudades diferentes del país.",
+          "is_correct": false,
+          "feedback": "Es cierto que los tres autores son distintos, pero ese dato no explica nada sobre el funcionamiento de los textos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Sintetizar exige encontrar el rasgo que comparten los textos y sostenerlo con la evidencia de cada uno. La coincidencia no está en el tema ni en el género, sino en un procedimiento del lenguaje. Reconocer ese núcleo común es lo que permite decir que la ironía es un efecto, y no una simple forma de escribir.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LC-10-2026-W38-la-ironia-y-los-tipos-de-discurso-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W38-la-ironia-y-los-tipos-de-discurso-001-MASTERY-bundle-v12",
+      "statement": "Si el equipo quisiera sostener una denuncia sobre publicidad engañosa, el apoyo más sólido dentro de estos materiales sería:",
+      "context": "Un equipo de 10.º prepara una nota final sobre prácticas de información engañosa en el barrio donde estudian.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El número de versos del Texto 3, porque muestra que la poesía usa menos palabras que el aviso.",
+          "is_correct": false,
+          "feedback": "La extensión de un poema no demuestra ninguna práctica engañosa en un aviso publicitario."
+        },
+        {
+          "letter": "B",
+          "text": "La contradicción del Texto 2, porque está escrita dentro del propio aviso y puede verificarse con el pie de letra pequeña.",
+          "is_correct": true,
+          "feedback": "Correcto, la diferencia entre el titular y el pie es comprobable sin información externa y por eso sostiene una denuncia."
+        },
+        {
+          "letter": "C",
+          "text": "La opinión del columnista del Texto 1, porque un escritor con nombre propio tiene autoridad para juzgar avisos.",
+          "is_correct": false,
+          "feedback": "La autoridad personal de un columnista no reemplaza la evidencia documental, y el texto no analiza ningún aviso."
+        },
+        {
+          "letter": "D",
+          "text": "El precio de la entrada al evento del Texto 1, porque todo lo que se paga es engañoso.",
+          "is_correct": false,
+          "feedback": "Pagar un precio no convierte una entrada en publicidad engañosa, y ese razonamiento generaliza sin fundamento."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un argumento de denuncia tiene que apoyarse en algo que la otra parte no pueda negar sin contradecir su propio texto. La contradicción interna del aviso cumple esa condición, porque ambas partes están escritas por el mismo emisor. Ese criterio de solidez es el que el curso traslada a la lectura de cualquier fuente antes de citarla en un trabajo escrito.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-10-2026-W38-la-ironia-y-los-tipos-de-discurso-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}
