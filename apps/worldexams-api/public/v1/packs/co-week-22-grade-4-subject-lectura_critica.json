@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-22-grade-4-subject-lectura_critica",
+    "generated_at": "2026-09-30T08:41:45.160Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-4-2026-W22-los-emails-y-los-mensajes-de-internet-001-MASTERY-bundle-v1",
+      "statement": "Lee este correo que uno de los niños escribió para pedir un permiso.\n\n*\"De: familia.buenaventura@correo.com. Para: profesora@carla.edu.co. Asunto: Permiso para la salida al museo. Estimada profesora Carla: Por favor le pido permiso para que mi hijo no asista el martes al museo, porque tenemos un cita médica. Muchas gracias por su atención. Atentamente, don Esteban Buendía, padre de familia.\"*\n\n¿Cuál es el asunto del correo?",
+      "context": "En la clase de cuarto de Manizales, la profesora enseña a sus estudiantes las partes de un correo electrónico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Permiso para la salida al museo",
+          "is_correct": true,
+          "feedback": "Correcto. El asunto es la línea que dice de qué trata el correo, y en este mensaje anuncia que se pide permiso para la salida."
+        },
+        {
+          "letter": "B",
+          "text": "familia.buenaventura@correo.com",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa dirección identifica a quien envía el correo, y por eso es la dirección del remitente y no el asunto."
+        },
+        {
+          "letter": "C",
+          "text": "Estimada profesora Carla",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa línea es el saludo con el que empieza el mensaje, y el saludo se escribe después del asunto."
+        },
+        {
+          "letter": "D",
+          "text": "Muchas gracias por su atención",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa frase es parte del cuerpo del correo, y sirve para agradecer, no para decir de qué trata el mensaje."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un correo electrónico siempre tiene un asunto, que es la línea que resume de qué trata el mensaje. Conocer las partes del correo ayuda a los niños a escribir correos completos y a encontrar rápido la información que buscan. También les facilita encontrar la información importante cuando reciben varios mensajes en un mismo día.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Literal",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-4-2026-W22-los-emails-y-los-mensajes-de-internet-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W22-los-emails-y-los-mensajes-de-internet-001-MASTERY-bundle-v2",
+      "statement": "Observa los dos saludos que usaron dos estudiantes de cuarto.\n\n*\"Saludo 1: \"Hola profe, ¿cómo estás? Te escribo para contarte lo de la salida\". Saludo 2: \"Estimada señora profesora adelante: Por medio de la presente me permito solicitarle una reunión\".\"*\n\n¿Qué diferencia en el uso del lenguaje se nota entre los dos saludos?",
+      "context": "En un taller de lectura de cuarto en Villavicencio, los estudiantes comparan dos saludos de correo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el primer saludo no habla con la profesora y el segundo sí le habla",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los dos saludos se dirigen a la profesora, y la diferencia que se observa es el nivel de formalidad y no si hablan o no con ella."
+        },
+        {
+          "letter": "B",
+          "text": "Que el primer saludo es un saludo de teléfono y el segundo es un saludo de correo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los dos saludos aparecen escritos y los dos pueden usarse en un correo, porque el formato del mensaje es el mismo."
+        },
+        {
+          "letter": "C",
+          "text": "Que el primer saludo pide algo y el segundo solo saluda",
+          "is_correct": false,
+          "feedback": "Incorrecto. El primer saludo también anuncia lo que quiere contar, y por eso la diferencia no está en pedir o no pedir."
+        },
+        {
+          "letter": "D",
+          "text": "Que el primer saludo es informal y cercano, mientras que el segundo es formal y de respeto",
+          "is_correct": true,
+          "feedback": "Correcto. El saludo informal trata a la profesora con confianza, y el formal usa palabras más elaboradas y un trato de señor."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El saludo de un mensaje muestra si quien escribe se dirige a la persona de una manera formal o informal. Los saludos formales usan palabras como estimada, señora o profesor, mientras que los informales usan palabras cercanas como hola o qué más. Reconocer esta diferencia enseña a los niños a escoger el saludo adecuado según a quién le escriben y para qué.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-4-2026-W22-los-emails-y-los-mensajes-de-internet-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W22-los-emails-y-los-mensajes-de-internet-001-MASTERY-bundle-v3",
+      "statement": "Lee el mensaje de un supuesto familiar.\n\n*\"Buenas tardes. Le escribo desde el celular de un primo, porque el mío se dañó. Necesito que me envíen la tarea de esta semana antes de las cuatro de la tarde de hoy, porque el profesor la pide mañana. Gracias.\"*\n\n¿Qué se puede inferir a partir del mensaje?",
+      "context": "En el aula de cuarto de Pasto, un grupo de cuarto lee un mensaje que llegó al correo del colegio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el mensaje se escribió con la computador del colegio porque está firmado con el nombre del profesor",
+          "is_correct": false,
+          "feedback": "Incorrecto. El mensaje no menciona ninguna computadora del colegio, y quien escribe se identifica como un primo del estudiante."
+        },
+        {
+          "letter": "B",
+          "text": "Que el remitente ya envió la tarea y solo escribe para confirmar la recepción",
+          "is_correct": false,
+          "feedback": "Incorrecto. El mensaje pide que le envíen la tarea, y por eso quien escribe todavía no la ha recibido."
+        },
+        {
+          "letter": "C",
+          "text": "Que quien escribe necesita la respuesta pronto, porque dice que tiene que entregarla al día siguiente",
+          "is_correct": true,
+          "feedback": "Correcto. El mensaje pide enviarla antes de las cuatro de la tarde de hoy y menciona una entrega para mañana, y eso muestra que hay poco tiempo."
+        },
+        {
+          "letter": "D",
+          "text": "Que el primo del estudiante trabaja en el colegio y por eso conoce la hora de entrega",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no dice que el primo trabaje en el colegio, y la hora de entrega solo aparece porque alguien se la indicó."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Inferir es deducir algo que el mensaje no escribe de forma directa pero que se puede descubrir en sus pistas. Las horas, las expresiones de urgencia y los plazos que se mencionan permiten deducir qué tan rápido se necesita una respuesta. Esta habilidad es muy útil en internet, donde los mensajes llegan con mucha rapidez y a veces hay que decidir rápido.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Inferencial",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-4-2026-W22-los-emails-y-los-mensajes-de-internet-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W22-los-emails-y-los-mensajes-de-internet-001-MASTERY-bundle-v4",
+      "statement": "Observa las cuatro partes de un correo que prepararon.\n\n*\"Parte 1: \"Atentamente, don Julián Herrera\". Parte 2: \"Asunto: cambio de horario de educación física\". Parte 3: \"Estimada profesora: el viernes no podré asistir a educación física porque tengo una cita médica\". Parte 4: \"De: familia.herrera@correo.com. Para: profesora@carla.edu.co.\"*\n\n¿Cuál es el orden correcto de las partes del correo?",
+      "context": "En el aula de cuarto de Pereira, los estudiantes arman un correo electrónico para la profesora.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Parte 2, parte 4, parte 3, parte 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese orden pone el asunto y las direcciones antes del saludo, y en un correo las direcciones van al principio, el asunto después y el saludo más abajo."
+        },
+        {
+          "letter": "B",
+          "text": "Parte 4, parte 2, parte 3, parte 1",
+          "is_correct": true,
+          "feedback": "Correcto. Primero van las direcciones de quien envía y de quien recibe, luego el asunto, después el saludo con el mensaje y al final la firma."
+        },
+        {
+          "letter": "C",
+          "text": "Parte 3, parte 1, parte 2, parte 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese orden empieza por el mensaje y termina con las direcciones, cuando las direcciones siempre van en la parte de arriba del correo."
+        },
+        {
+          "letter": "D",
+          "text": "Parte 1, parte 2, parte 3, parte 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese orden empieza con la firma, y por eso el lector no sabría quién escribe ni de qué trata el correo antes de leerlo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un correo electrónico sigue un orden fijo que ayuda a que el mensaje se entienda rápido. Las direcciones y el asunto van arriba, luego viene el saludo, el mensaje y al final la firma de quien escribe. Cuando los niños arman un correo con ese orden, sus mensajes se leen mejor y la profesora entiende rápido qué necesitan.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-4-2026-W22-los-emails-y-los-mensajes-de-internet-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W22-los-emails-y-los-mensajes-de-internet-001-MASTERY-bundle-v5",
+      "statement": "Observa los dos asuntos que escribieron dos estudiantes para el mismo correo.\n\n*\"Asunto 1: \"Información importante sobre la clase de educación física del viernes y el cambio que hay\". Asunto 2: \"Cambio de clase\".\"*\n\n¿Qué efecto busca el asunto 2 que no tiene el asunto 1?",
+      "context": "En la clase de cuarto de Cali, la profesora pregunta a sus estudiantes por qué el asunto debe ser corto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el lector sepa de qué trata el mensaje de un vistazo, sin tener que abrirlo",
+          "is_correct": true,
+          "feedback": "Correcto. El asunto 2 resume el mensaje en dos palabras, y esa brevedad permite decidir rápido si el correo se debe abrir o no."
+        },
+        {
+          "letter": "B",
+          "text": "Que el mensaje resulte más largo y por eso se lea con más calma",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un asunto corto no hace que el mensaje sea más largo, y en este caso el efecto buscado es todo lo contrario."
+        },
+        {
+          "letter": "C",
+          "text": "Que la profesora tenga que abrir el correo para entender de qué se trata",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un buen asunto justamente evita que la profesora abra el correo, porque le avisa de qué se trata con solo leerlo."
+        },
+        {
+          "letter": "D",
+          "text": "Que el asunto corto demuestre que el estudiante no sabe escribir correos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Escribir un asunto corto es una buena práctica de comunicación, y no demuestra que la persona no sepa escribir."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar un mensaje es preguntar qué efecto busca en quien lo recibe, y no solo qué información entrega. El asunto funciona como una etiqueta que permite elegir rápido entre muchos correos, y por eso conviene que sea corto y claro. Cuando los niños practican esta brevedad, escriben correos más fáciles de entender también para los maestros.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-4-2026-W22-los-emails-y-los-mensajes-de-internet-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W22-los-emails-y-los-mensajes-de-internet-001-MASTERY-bundle-v6",
+      "statement": "Lee los dos mensajes que enviaron a la profesora del colegio.\n\n*\"Mensaje 1: \"Profe, ¿me puede cambiar la tarea? Es que no la pude hacer porque me quedé sin batería en el celular y no copié nada\". Mensaje 2: \"Estimada profesora: por medio de la presente le solicito respectfulamente una prórroga para la tarea de lectura, debido a que el material no fue entregado a tiempo en el salón.\"*\n\n¿Cuál es la diferencia principal entre los dos mensajes?",
+      "context": "En un trabajo en grupo de cuarto en Bucaramanga, los estudiantes comparan dos mensajes dirigidos a la profesora.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El mensaje 1 pide algo y el mensaje 2 solo informa lo que pasó",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los dos mensajes piden lo mismo y los dos explican un motivo, y por eso esa no es la diferencia entre ellos."
+        },
+        {
+          "letter": "B",
+          "text": "El mensaje 1 es más largo y por eso explica mejor el problema",
+          "is_correct": false,
+          "feedback": "Incorrecto. El mensaje 1 es más corto y más directo, y el mensaje 2 es el que usa un lenguaje más extenso."
+        },
+        {
+          "letter": "C",
+          "text": "Los dos mensajes piden lo mismo, y el primero explica su motivo con detalle y el segundo con una sola frase",
+          "is_correct": false,
+          "feedback": "Incorrecto. El mensaje 2 es el que explica el motivo con una frase formal, y el mensaje 1 el que cuenta su motivo con más detalles cotidianos."
+        },
+        {
+          "letter": "D",
+          "text": "Los dos mensajes piden lo mismo, pero el primero usa un tono cercano y el segundo usa un tono formal y respetuoso",
+          "is_correct": true,
+          "feedback": "Correcto. Los dos mensajes piden una prórroga, y la diferencia está en cómo hablan a la profesora: uno de confianza y otro de respeto."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Comparar dos mensajes que buscan lo mismo permite ver cómo cambia el tono según el destinatario. Un mensaje informal cuenta el problema con palabras cotidianas, mientras que un mensaje formal usa un trato respetuoso y un orden cuidadoso. Saber cambiar el tono según a quién se escribe es una habilidad que los niños necesitan en internet y en la vida cotidiana.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-4-2026-W22-los-emails-y-los-mensajes-de-internet-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W22-los-emails-y-los-mensajes-de-internet-001-MASTERY-bundle-v7",
+      "statement": "Un compañero de tu grupo afirma lo siguiente.\n\n*\"Si un mensaje dice que es un familiar y pide dinero urgente, hay que responder de una vez porque la familia siempre tiene razón en esas situaciones.\"*\n\n¿Cuál es la respuesta más sólida que puede darle el grupo a esa afirmación?",
+      "context": "En una reunión de aula en Medellín, un estudiante de cuarto defiende una idea sobre los mensajes de internet.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La afirmación es correcta, porque la palabra familia garantiza que el mensaje es verdadero",
+          "is_correct": false,
+          "feedback": "Incorrecto. Decir que es un familiar no demuestra nada, porque esa palabra se puede escribir en cualquier teclado y no se puede comprobar sola."
+        },
+        {
+          "letter": "B",
+          "text": "La afirmación es correcta, porque las familias colombianas siempre escriben con un tono urgente",
+          "is_correct": false,
+          "feedback": "Incorrecto. El mensaje no dice de qué país escribe la familia, y la urgencia no es una prueba de que la persona sea real."
+        },
+        {
+          "letter": "C",
+          "text": "La afirmación es incorrecta, porque hay que comprobar con un familiar conocido quién escribe antes de enviar datos o dinero",
+          "is_correct": true,
+          "feedback": "Correcto. Llamar por teléfono a un familiar que ya se conoce permite confirmar si el mensaje es real, y esa es la forma más segura de verificar."
+        },
+        {
+          "letter": "D",
+          "text": "La afirmación es incorrecta, porque es mejor ignorar todos los mensajes que pidan dinero",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ignorar todos los mensajes no es la solución, y lo correcto es verificar primero y responder solo cuando se confirme quién escribe."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar un mensaje es ponerlo a prueba antes de darle una respuesta. Un mensaje que pide dinero urgente puede ser una mentira, y por eso hay que confirmarlo hablando con un familiar conocido. Cuando los niños aprenden a verificar antes de actuar, protegen sus datos y el dinero de la familia.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-4-2026-W22-los-emails-y-los-mensajes-de-internet-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W22-los-emails-y-los-mensajes-de-internet-001-MASTERY-bundle-v8",
+      "statement": "Los cuatro grupos escribieron un mensaje para invitar a las familias de cuarto a una jornada de lectura el próximo viernes.\n\n*\"Grupo 1: \"Assunto: Ven. El viernes es la jornada. Hay que traer un libro.\". Grupo 2: \"Asunto: Invitación a la jornada de lectura. Estimadas familias: los sentimos invitar a la jornada de lectura del próximo viernes en la biblioteca del colegio, a las ocho de la mañana. Su hijo puede traer el libro de su Preference. Agradecemos su asistencia.\" Grupo 3: \"Asunto: Jornada de lectura. Las familias deben obligar a sus hijos a participar sí o sí.\" Grupo 4: \"Asunto: Entrada gratis a todos. Nadie va a estar mirando lo que hacen sus hijos en esta actividad.\"*\n\n¿Cuál de los cuatro mensajes es el más conveniente para la invitación?",
+      "context": "Como tarea final, los grupos de cuarto deben elegir el mensaje más conveniente para invitar a las familias a una jornada escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El del grupo 1, porque es el más corto y así se lee en un segundo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un mensaje corto puede ser claro, y en este caso ese mensaje no dice la hora, el lugar ni quién está invitando."
+        },
+        {
+          "letter": "B",
+          "text": "El del grupo 2, porque explica quién invita, cuándo, dónde y qué deben traer las familias",
+          "is_correct": true,
+          "feedback": "Correcto. Ese mensaje entrega los datos completos de la invitación y usa un tono respetuoso, y por eso las familias saben qué hacer."
+        },
+        {
+          "letter": "C",
+          "text": "El del grupo 3, porque obliga a los niños y así todos participan sin problema",
+          "is_correct": false,
+          "feedback": "Incorrecto. Obligar no es invitary y ese mensaje suena a orden, y además no da ninguna información sobre el día y la hora."
+        },
+        {
+          "letter": "D",
+          "text": "El del grupo 4, porque promete que nadie va a mirar a los niños y así les da confianza",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese mensaje habla de una entrada gratis y de no mirar a los niños, y nada de eso corresponde a una invitación a una jornada de lectura."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Elegir el mejor mensaje es una tarea de evaluación, porque hay que comparar opciones y justificar la decisión con criterios. Una buena invitación debe decir quién invita, a quién, cuándo, dónde y qué se necesita llevar, todo en un tono respetuoso. Cuando los niños practican esta elección, escriben mensajes que de verdad se entienden y que la gente atiende.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-4-2026-W22-los-emails-y-los-mensajes-de-internet-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    }
+  ]
+}

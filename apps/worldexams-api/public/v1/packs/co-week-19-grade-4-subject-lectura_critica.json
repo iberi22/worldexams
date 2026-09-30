@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-19-grade-4-subject-lectura_critica",
+    "generated_at": "2026-09-30T08:41:45.158Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-4-2026-W19-los-titulares-y-los-subtitulos-001-MASTERY-bundle-v1",
+      "statement": "Observa el titular y el subtítulo de una noticia.\n\n*\"Titular: Abre el nuevo parque de los niños en Barranquilla. Subtítulo: El espacio tiene juegos, un área de lectura y árboles sembrados por los vecinos del barrio.\"*\n\n¿Qué información aparece en el subtítulo?",
+      "context": "En la sala de cuarto de Barranquilla, la profesora lee con sus estudiantes la primera página de un periódico de la ciudad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El nombre completo del parque y la fecha en que fue abierto",
+          "is_correct": false,
+          "feedback": "Incorrecto. El subtítulo no menciona el nombre oficial del parque ni la fecha de la apertura, y esos datos no aparecen en el texto."
+        },
+        {
+          "letter": "B",
+          "text": "Lo que tiene el parque y que los vecinos sembraron los árboles",
+          "is_correct": true,
+          "feedback": "Correcto. El subtítulo enumera los juegos, el área de lectura y los árboles, y además aclara que los vecinos los sembraron."
+        },
+        {
+          "letter": "C",
+          "text": "La cantidad de personas que visitaron el parque el primer día",
+          "is_correct": false,
+          "feedback": "Incorrecto. El subtítulo no dice cuántos visitantes teve el parque, y esa cifra no aparece en el texto que se leyó."
+        },
+        {
+          "letter": "D",
+          "text": "La opinión del periodista sobre lo buenos que son los árboles del barrio",
+          "is_correct": false,
+          "feedback": "Incorrecto. El subtítulo es informativo y no contiene juicios sobre los árboles, porque esa valoración personal no se escribe ahí."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El titular anuncia el tema principal de la noticia y el subtítulo agrega los detalles que lo explican. Separar las dos partes ayuda a los niños a entender que el subtítulo responde a la pregunta de qué se trata realmente la noticia. Esta distinción también les sirve cuando ellos mismos deben escribir títulos para sus trabajos del colegio.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Literal",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-4-2026-W19-los-titulares-y-los-subtitulos-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W19-los-titulares-y-los-subtitulos-001-MASTERY-bundle-v2",
+      "statement": "Lee el titular de una noticia local.\n\n*\"Inauguran dos nuevos puentes peatonales en Bogotá para que los estudiantes lleguen más seguros al colegio.\"*\n\n¿Qué significa la palabra \"peatonales\" en este titular?",
+      "context": "En un taller de lectura de cuarto en Bogotá, los estudiantes analizan un titular sobre obras de la ciudad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que los puentes son para vehículos que llevan muchos pasajeros",
+          "is_correct": false,
+          "feedback": "Incorrecto. La palabra descarta los vehículos, y por eso no puede referirse a buses ni a carros aunque el puente lo crucen personas."
+        },
+        {
+          "letter": "B",
+          "text": "Que los puentes son muy altos y por eso son muy largos",
+          "is_correct": false,
+          "feedback": "Incorrecto. La palabra no habla de altura ni de longitud, y en el titular no se menciona ninguna medida del puente."
+        },
+        {
+          "letter": "C",
+          "text": "Que los puentes se construyeron en otro país y fueron traídos a Bogotá",
+          "is_correct": false,
+          "feedback": "Incorrecto. El titular no menciona ningún traslado ni ningún otro país, y toda la noticia ocurre dentro de la ciudad."
+        },
+        {
+          "letter": "D",
+          "text": "Que los puentes están destinados a las personas que caminan",
+          "is_correct": true,
+          "feedback": "Correcto. La palabra significa propio de los peatones, y en el titular se refiere a los puentes para quienes van caminando al colegio."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Comprender el significado de las palabras del titular es indispensable para saber de qué trata la noticia. Los titulares usan palabras breves porque deben comunicar rápido, y a veces eso hace difícil su significado. Cuando los niños descifran el vocabulario de un titular, leen la noticia completa con mucho mejor comprensión.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-4-2026-W19-los-titulares-y-los-subtitulos-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W19-los-titulares-y-los-subtitulos-001-MASTERY-bundle-v3",
+      "statement": "Lee el titular y el subtítulo de esta noticia.\n\n*\"Titular: Baja el nivel del río que atraviesa dos municipios de Antioquia. Subtítulo: Durante esta semana el agua bajó diez centímetros y los pescadores de la región pudieron volver a pescar.\"*\n\n¿Qué se puede inferir a partir del texto?",
+      "context": "En el aula de cuarto de Medellín, un grupo lee una noticia del periódico local sobre un río.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el nivel del agua era un problema para los pescadores y que la bajada los benefició",
+          "is_correct": true,
+          "feedback": "Correcto. El subtítulo dice que con la bajada del nivel los pescadores pudieron volver a pescar, y eso muestra que antes la situación los afectaba."
+        },
+        {
+          "letter": "B",
+          "text": "Que el río se secó completamente durante esta semana",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no dice que el río se haya secado, y una bajada de diez centímetros es un cambio en el nivel y no la desaparición del agua."
+        },
+        {
+          "letter": "C",
+          "text": "Que los pescadores de la región se fueron a vivir a otro municipio",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto dice que pudieron volver a pescar, y eso indica que los pescadores siguieron trabajando en el lugar y no que se fueron."
+        },
+        {
+          "letter": "D",
+          "text": "Que la persona que escribió la noticia midió el nivel del río",
+          "is_correct": false,
+          "feedback": "Incorrecto. El subtítulo entrega la medida en centímetros, pero no dice quién la midió ni menciona a la persona que escribe."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Inferir es deducir algo que el texto no dice de manera directa, pero que se puede descubrir uniendo sus datos. En las noticias, el subtítulo suele explicar la consecuencia de lo que anuncia el titular, y esa relación permite deducir qué cambió y a favor de quién. Esta habilidad prepara a los estudiantes para leer noticias reales y no quedarse solamente con el titular.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Inferencial",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-4-2026-W19-los-titulares-y-los-subtitulos-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W19-los-titulares-y-los-subtitulos-001-MASTERY-bundle-v4",
+      "statement": "Observa los tres elementos de esta noticia.\n\n*\"Elemento 1: \"Tercera parte\". Elemento 2: \"Los niños de cuarto limpian la quebrada que pasa detrás del colegio, con ayuda de sus familias\". Elemento 3: \"La jornada empezó el martes y terminó el viernes con veinte bolsas de basura recogidas\".*\n\n¿Cuál es el orden correcto de los elementos de la noticia?",
+      "context": "En un taller de cuarto en Pereira, los estudiantes arman la parte superior de una noticia para el mural del aula.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Elemento 2, elemento 1, elemento 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. El subtítulo debe ir después del titular, y por eso no puede ocupar el segundo lugar antes del elemento 1."
+        },
+        {
+          "letter": "B",
+          "text": "Elemento 3, elemento 2, elemento 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese orden pone los resultados al principio y el titular al final, cuando en una noticia el titular siempre aparece primero."
+        },
+        {
+          "letter": "C",
+          "text": "Elemento 1, elemento 2, elemento 3",
+          "is_correct": true,
+          "feedback": "Correcto. Primero va el titular, luego el subtítulo que aclara de qué se trata y al final los datos que explican lo ocurrido."
+        },
+        {
+          "letter": "D",
+          "text": "Elemento 1, elemento 3, elemento 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese orden pone los resultados antes del subtítulo, y el subtítulo es justamente lo que le da sentido a esos resultados."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una noticia tiene un orden fijo que ayuda al lector a recorrerla con facilidad. Primero aparece el titular, después el subtítulo y más adelante los detalles que explican lo ocurrido. Cuando los niños reconocen ese orden, pueden escribir noticias propias para el periódico escolar sin perder a su lector en el primer párrafo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-4-2026-W19-los-titulares-y-los-subtitulos-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W19-los-titulares-y-los-subtitulos-001-MASTERY-bundle-v5",
+      "statement": "Lee los dos titulares que se escribieron para la misma noticia.\n\n*\"Titular 1: Los niños de la escuela de Villavicencio pintaron el patio y ordenaron sus cuadernos. Titular 2: ¡Increíble! ¡Los mejores pintores! ¡Pintaron su propio patio en solo dos días!\"*\n\n¿Qué efecto busca el segundo titular que no tiene el primero?",
+      "context": "En la clase de cuarto de Manizales, la profesora muestra dos versiones del titular de una misma noticia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Explicar con detalle los materiales que usaron los niños para pintar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguno de los dos titulares menciona los materiales, y el segundo no aporta ningún dato sobre la pintura ni sobre sus colores."
+        },
+        {
+          "letter": "B",
+          "text": "Llamar la atención del lector con palabras cortas y con signos de exclamación",
+          "is_correct": true,
+          "feedback": "Correcto. El segundo titular usa exclamaciones y adjetivos exagerados, y esa forma busca que el lector se detenga a leer la noticia."
+        },
+        {
+          "letter": "C",
+          "text": "Explicar mejor por qué fue importante pintar el patio de la escuela",
+          "is_correct": false,
+          "feedback": "Incorrecto. El primer titular sí explica la razón de manera más clara, y el segundo solo anuncia la acción sin justificar por qué importa."
+        },
+        {
+          "letter": "D",
+          "text": "Informar la cantidad exacta de niños que participaron en la jornada de pintura",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguno de los dos titulares da un número de participantes, y eso se contaría mejor en el subtítulo o en el cuerpo de la noticia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Analizar un titular es preguntarse qué efecto produce en el lector y no solo qué información entrega. Los titulares que quieren llamar la atención usan signos y palabras exageradas, mientras que los informativos dicen el hecho principal con claridad. Reconocer esa diferencia enseña a los niños a desconfiar de los títulos sensacionalistas y a elegir los que sí los informan.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-4-2026-W19-los-titulares-y-los-subtitulos-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W19-los-titulares-y-los-subtitulos-001-MASTERY-bundle-v6",
+      "statement": "Lee los dos titulares que corresponden a la misma noticia.\n\n*\"Titular A: Se calmó la discusión en el partido del barrio. Titular B: Hubo pelea en el partido del barrio y el juego se detuvo veinte minutos.\"*\n\n¿Cuál es la diferencia entre los dos titulares?",
+      "context": "En un trabajo en grupo de cuarto en Cali, los estudiantes comparan dos titulares sobre un mismo partido de fútbol.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La diferencia es que el titular A nombra a los jugadores y el titular B solo menciona el estadio",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguno de los dos titulares da nombres de jugadores ni menciona el estadio, y el fragmento no contiene esa información."
+        },
+        {
+          "letter": "B",
+          "text": "La diferencia es que el titular A es más largo y por eso explica más cosas",
+          "is_correct": false,
+          "feedback": "Incorrecto. El titular A es más corto que el titular B, y además el titular B no explica la causa de la pelea."
+        },
+        {
+          "letter": "C",
+          "text": "La diferencia es que el titular A habla de fútbol y el titular B habla de otro deporte",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los dos titulares hablan del mismo partido y del mismo deporte, y por eso el deporte no es lo que los diferencia."
+        },
+        {
+          "letter": "D",
+          "text": "La diferencia es que el titular A usa una frase corta y neutral, mientras el titular B cuenta lo ocurrido y su consecuencia",
+          "is_correct": true,
+          "feedback": "Correcto. El titular A solo lanza una frase ambigua, mientras el titular B explica que hubo pelea y que el juego se detuvo veinte minutos."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Comparar dos titulares de la misma noticia enseña a ver qué información da cada uno y qué le falta al otro. Un titular muy corto obliga al lector a adivinar, mientras que uno completo anticipa el hecho y su consecuencia. Cuando los niños hacen esta comparación, aprenden que la claridad de un titular vale más que el suspenso.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-4-2026-W19-los-titulares-y-los-subtitulos-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W19-los-titulares-y-los-subtitulos-001-MASTERY-bundle-v7",
+      "statement": "Un compañero de tu grupo afirma lo siguiente.\n\n*\"Un buen titular es el que dice todo el contenido de la noticia, para que nadie se equivoque al leerlo.\"*\n\n¿Cuál es la respuesta más sólida que puede darle el grupo a esa afirmación?",
+      "context": "En una reunión de aula en Cúcuta, un estudiante de cuarto defiende una idea sobre cómo deben escribirse los titulares.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La afirmación es incorrecta, porque el titular debe resumir y el subtítulo y el cuerpo de la noticia son los que dan los detalles",
+          "is_correct": true,
+          "feedback": "Correcto. Un titular corto anuncia el hecho principal, y poner todos los detalles en el título haría la noticia más difícil de leer."
+        },
+        {
+          "letter": "B",
+          "text": "La afirmación es correcta, porque los lectores nunca leen el subtítulo de una noticia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa razón no aparece en ningún texto de la clase, y además los estudiantes sí usaron subtítulos en las noticias del mural."
+        },
+        {
+          "letter": "C",
+          "text": "La afirmación es correcta, porque los periódicos exigen que el titular tenga varias líneas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguna de las noticias leídas en la clase tiene un titular de varias líneas, y eso demuestra que no es un requisito."
+        },
+        {
+          "letter": "D",
+          "text": "La afirmación es incorrecta, porque un buen titular nunca menciona a ninguna persona",
+          "is_correct": false,
+          "feedback": "Incorrecto. El criterio que se discute es el contenido del titular y no si nombra o no a una persona, y esa razón no responde a la afirmación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar es juzgar una afirmación con criterios claros y no con lo que simplemente suena seguro. La función de un titular es resumir y despertar el interés, y los detalles corresponden al subtítulo y al cuerpo de la noticia. Cuando los niños comprenden ese reparto de funciones, leen los periódicos con más criterio y pueden escribir mejores noticias para el aula.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-4-2026-W19-los-titulares-y-los-subtitulos-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W19-los-titulares-y-los-subtitulos-001-MASTERY-bundle-v8",
+      "statement": "Los cuatro grupos propusieron un par de titular y subtítulo para la misma actividad del colegio.\n\n*\"Grupo 1: \"Titular: Gran noticia del colegio. Subtítulo: Habrá un comunicado sobre la jornada.\" Grupo 2: \"Titular: La jornada de lectura se hará el jueves. Subtítulo: Todos los niños de cuarto deben traer un libro para compartir en la biblioteca.\" Grupo 3: \"Titular: ¡No te lo pierdas! Subtítulo: La jornada de lectura ya es un éxito.\" Grupo 4: \"Titular: La jornada de lectura se hará el jueves. Subtítulo: Trae tu libro para compartir en la biblioteca.\"*\n\n¿Cuál de los cuatro pares es el más conveniente para el aviso?",
+      "context": "Como tarea final, los grupos de cuarto deben elegir el mejor par de titular y subtítulo para un aviso del colegio en Bucaramanga.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El del grupo 1, porque no dice nada concreto y así nadie se confunde",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un aviso sin información concreta no cumple su función, porque el lector no sabe qué actividad es ni qué debe traer."
+        },
+        {
+          "letter": "B",
+          "text": "El del grupo 3, porque usa palabras exageradas y llama más la atención",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese par llama la atención con exageraciones, pero no informa la fecha ni lo que los niños deben hacer."
+        },
+        {
+          "letter": "C",
+          "text": "El del grupo 4, porque el titular da la información principal y el subtítulo explica lo que deben hacer",
+          "is_correct": true,
+          "feedback": "Correcto. Ese par reparte bien las funciones: el titular anuncia cuándo será la jornada y el subtítulo dice qué deben traer."
+        },
+        {
+          "letter": "D",
+          "text": "El del grupo 2, porque repite la palabra lectura varias veces y así la noticia queda más larga",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese par sí tiene información útil, pero repetir la palabra no mejora un aviso y el subtítulo queda menos claro que el del grupo 4."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Elegir el mejor titular y subtítulo es una tarea de evaluación, porque hay que comparar opciones y justificar la decisión con criterios. Un buen par reparte las funciones: el titular da la información principal y el subtítulo explica lo que hay que hacer. Cuando los niños practican esta elección, aprenden a escribir comunicados claros para su colegio y para cualquier evento cotidiano.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-4-2026-W19-los-titulares-y-los-subtitulos-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    }
+  ]
+}

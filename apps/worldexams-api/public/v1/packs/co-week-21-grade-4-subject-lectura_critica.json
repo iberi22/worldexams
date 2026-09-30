@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-21-grade-4-subject-lectura_critica",
+    "generated_at": "2026-09-30T08:41:45.159Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-4-2026-W21-las-leyendas-y-los-mitos-colombianos-001-MASTERY-bundle-v1",
+      "statement": "Lee el texto de la leyenda.\n\n*\"Se cuenta que un cacique en los montes de Bogotá escondió un tesoro antes de morir. Muchos buscadores fueron a las montañas y ninguno lo encontró. Hasta el día de hoy se sigue contando esta historia para explicar por qué la gente busca oro por toda la zona.\"*\n\n¿Cuál de las cuatro afirmaciones coincide con lo que dice el texto?",
+      "context": "En el aula de cuarto de Bogotá, la profesora lee una leyenda que se cuenta en la región desde hace siglos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el cacique entregó el tesoro al pioblo el día en que se fue",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto dice que el cacique lo escondió, y no dice que se lo entregara a nadie ni que apareciera otra persona en el relato."
+        },
+        {
+          "letter": "B",
+          "text": "Que todos los buscadores encontraron el tesoro y se fueron del país",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto afirma que ninguno de los buscadores lo encontró, y por eso esa opción cambia el final de la leyenda."
+        },
+        {
+          "letter": "C",
+          "text": "Que las montañas de Bogotá se llaman así porque guardan un tesoro escondido",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no explica de dónde viene el nombre de las montañas, y solo cuenta que allí se buscó un tesoro escondido."
+        },
+        {
+          "letter": "D",
+          "text": "Que el cacique escondió un tesoro en las montañas y que hasta hoy se sigue contando esa historia",
+          "is_correct": true,
+          "feedback": "Correcto. El texto dice que el cacique escondió el tesoro, que nadie lo encontró y que la historia se sigue contando."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Una leyenda es un relato tradicional que se cuenta durante muchas generaciones y que por eso se expresa con frases como se cuenta que. Los personajes pueden ser personas reales o imaginarias, y los hechos que se narran no se pueden comprobar como en una noticia. Reconocer estos rasgos ayuda a los niños a leer relatos tradicionales sin confundirlos con textos informativos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Literal",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-4-2026-W21-las-leyendas-y-los-mitos-colombianos-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W21-las-leyendas-y-los-mitos-colombianos-001-MASTERY-bundle-v2",
+      "statement": "Lee el comienzo de un texto sobre una tradición de la región del río Meta.\n\n*\"Cuentan que antes de que abrieran el puente, los pescadores de la zona pasaban el río en botes de madera. Los más viejos todavía lo cuentan como si lo hubieran visto.\"*\n\n¿Qué indica la expresión \"cuentan que\" al comienzo del texto?",
+      "context": "En un taller de lectura de cuarto en Villavicencio, la profesora explica cómo se cuentan las historias tradicionales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que lo que sigue está comprobado en documentos oficiales",
+          "is_correct": false,
+          "feedback": "Incorrecto. La expresión no anuncia una prueba documental, y por el contrario señala que la historia se cuenta de boca en boca."
+        },
+        {
+          "letter": "B",
+          "text": "Que lo que sigue es algo que la gente cuenta y que no se ha comprobado como un hecho",
+          "is_correct": true,
+          "feedback": "Correcto. Esa expresión introduce un relato tradicional, y por eso el texto no presenta pruebas sino historias que se han pasado de generación en generación."
+        },
+        {
+          "letter": "C",
+          "text": "Que la persona que escribe está de acuerdo con la historia",
+          "is_correct": false,
+          "feedback": "Incorrecto. La expresión no expresa la opinión de quien escribe, y solamente presenta algo que la gente cuenta."
+        },
+        {
+          "letter": "D",
+          "text": "Que esa historia pasó ayer en la mañana en el puente",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto dice que los antiguos pasaban el río en botes, y no menciona ninguna fecha ni el puente que existe hoy."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las leyendas y los mitos se anuncian con expresiones como se cuenta que, se dice que y cuentan que. Estas palabras le avisan al lector que viene un relato que pertenece a la tradición y no a una comprobación. Enseñar a reconocerlas ayuda a los niños a distinguir la imaginación popular de los datos que se pueden verificar.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-4-2026-W21-las-leyendas-y-los-mitos-colombianos-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W21-las-leyendas-y-los-mitos-colombianos-001-MASTERY-bundle-v3",
+      "statement": "Lee los dos textos.\n\n*\"Texto 1: \"Cuentan que una niña se quedó dormida junto a un río y al despertar había una cascada de agua donde antes no había nada\". Texto 2: \"Cuentan que un jinete muy conocido se perdió en la sierra y tardó días en volver a su casa por un sendero.\"*\n\n¿Qué se puede inferir a partir de los dos textos?",
+      "context": "En el aula de cuarto de Pasto, un grupo lee dos textos tradicionales para decidir cuál es un mito.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el texto 1 es un mito, porque explica el origen de un fenómeno natural, y el texto 2 es una leyenda",
+          "is_correct": true,
+          "feedback": "Correcto. Un mito explica cómo apareció un fenómeno de la naturaleza, mientras que la leyenda cuenta las andanzas de un personaje en un lugar y un tiempo definidos."
+        },
+        {
+          "letter": "B",
+          "text": "Que el texto 1 es una leyenda, porque el río de la región tiene muchas cascadas",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cantidad de cascadas del río no hace que el texto sea una leyenda, y lo que define al texto 1 es que explica un fenómeno."
+        },
+        {
+          "letter": "C",
+          "text": "Que el texto 2 es un mito, porque habla de la sierra y de un jinete famoso",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto 2 no explica ningún fenómeno natural, y por eso narrar las andanzas de un jinete lo convierte en una leyenda."
+        },
+        {
+          "letter": "D",
+          "text": "Que los dos textos son mitos, porque los dos empiezan con la palabra cuentan",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las dos expresiones sirven para las leyendas y para los mitos, y por eso esa palabra no permite distinguirlos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Inferir es deducir algo que el texto no dice de manera explícita. Cuando un relato explica el origen de un río, una montaña o el arco iris, se puede deducir que es un mito, porque esa es su función. Cuando un relato cuenta las andanzas de un personaje en un lugar, se puede deducir que es una leyenda. Distinguir ambos ayuda a organizar lo que los niños leen.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Inferencial",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-4-2026-W21-las-leyendas-y-los-mitos-colombianos-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W21-las-leyendas-y-los-mitos-colombianos-001-MASTERY-bundle-v4",
+      "statement": "Observa las cuatro tarjetas que corresponden a una leyenda de la costa.\n\n*\"Tarjeta 1: \"Un pescador salió de madrugada a pescar en la costa cerca de Mompos\". Tarjeta 2: \"De pronto el pescador avistó una luz extraña sobre el agua\". Tarjeta 3: \"Cuando volvió a la orilla, el agua se había calmado y él contó la historia a sus vecinos\". Tarjeta 4: \"Desde ese día los pescadores de la región cuentan que la luz protege a los que navegan de noche\".*\n\n¿Cuál es el orden en que se cuentan los hechos dentro de la leyenda?",
+      "context": "En un taller de cuarto en Cartagena, los estudiantes arman las partes de un relato tradicional para el mural del salón.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tarjeta 1, tarjeta 3, tarjeta 2, tarjeta 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese orden cuenta el final antes del acontecimiento, y una leyenda debe narrar los hechos en el orden en que ocurrieron."
+        },
+        {
+          "letter": "B",
+          "text": "Tarjeta 4, tarjeta 1, tarjeta 2, tarjeta 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tarjeta 4 es la conclusión de la historia, y por eso no puede aparecer antes de que se cuenten los hechos."
+        },
+        {
+          "letter": "C",
+          "text": "Tarjeta 1, tarjeta 2, tarjeta 3, tarjeta 4",
+          "is_correct": true,
+          "feedback": "Correcto. Primero aparece el personaje y su lugar, luego el acontecimiento extraordinario, después el desenlace y al final la costumbre que quedó."
+        },
+        {
+          "letter": "D",
+          "text": "Tarjeta 2, tarjeta 1, tarjeta 4, tarjeta 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. El acontecimiento extraordinario no puede contarse antes de presentar al personaje, y esa tarjeta 1 es la que sitúa la historia."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los relatos tradicionales siguen un orden que ayuda al oyente a seguir la historia completa. Primero se presenta al personaje y el lugar, después ocurre algo extraordinario y al final se cuenta qué quedó de esa historia. Cuando los niños ordenan las tarjetas, aprenden que hasta un relato imaginado tiene una estructura y por eso se puede contar bien.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-4-2026-W21-las-leyendas-y-los-mitos-colombianos-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W21-las-leyendas-y-los-mitos-colombianos-001-MASTERY-bundle-v5",
+      "statement": "Lee un mito sobre el arco iris.\n\n*\"Cuentan que el arco iris aparece cuando una doncella derrama agua de su cántaro en el cielo. Por eso, cuando alguien ve un arco iris, la gente le desea que no se le riegue el cántaro.\"*\n\n¿Qué efecto busca este mito en la comunidad que lo cuenta?",
+      "context": "En la clase de cuarto de Cali, la profesora explica por qué la gente cuenta mitos sobre el arco iris.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Enseñar a los niños a medir la altura del arco iris con una regla",
+          "is_correct": false,
+          "feedback": "Incorrecto. El mito no enseña a medir nada, y su propósito no es técnico sino contar y explicar algo de la naturaleza."
+        },
+        {
+          "letter": "B",
+          "text": "Avisar que el arco iris siempre trae lluvia y que hay que llevar paraguas",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no habla de lluvia ni de paraguas, y el mito explica la aparición del arco iris y no el clima."
+        },
+        {
+          "letter": "C",
+          "text": "Hacer que la gente deje de mirar el cielo para no ver el arco iris",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no pide que la gente deje de mirar el cielo, y por el contrario invita a mirar el fenómeno y a saludarlo."
+        },
+        {
+          "letter": "D",
+          "text": "Explicar por qué aparece el arco iris y conservar una costumbre bonita de la comunidad",
+          "is_correct": true,
+          "feedback": "Correcto. El mito responde de dónde viene ese fenómeno y, al final, mantiene viva la tradición de saludar al verlo."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Analizar un texto tradicional es preguntar qué función cumple dentro de la comunidad que lo transmite. Los mitos explican los fenómenos de la naturaleza y con ello crean costumbres que se repiten durante generaciones. Entender esa función evita que los niños confundan un mito con un error y también les enseña a respetar las tradiciones de otras comunidades.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-4-2026-W21-las-leyendas-y-los-mitos-colombianos-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W21-las-leyendas-y-los-mitos-colombianos-001-MASTERY-bundle-v6",
+      "statement": "Lee los dos textos.\n\n*\"Texto 1: \"Cuentan que las cigarras nacen del calor del verano y por eso aparecen en los días más calurosos.\" Texto 2: \"Cuenta la historia de un jinete que salió de Bucaramanga y llegó hasta el mar Caribe, contando su viaje.\"*\n\n¿Cuál es la diferencia principal entre los dos textos?",
+      "context": "En un trabajo en grupo de cuarto en Medellín, los estudiantes comparan un mito y una leyenda.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El texto 1 y el texto 2 cuentan lo mismo, y lo único que cambia es el lugar donde se cuentan",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los dos textos no cuentan lo mismo, y el primero se ocupa de la naturaleza mientras que el segundo sigue a un personaje."
+        },
+        {
+          "letter": "B",
+          "text": "El texto 1 explica un fenómeno de la naturaleza y el texto 2 cuenta las andanzas de un personaje",
+          "is_correct": true,
+          "feedback": "Correcto. Esa diferencia define a cada género, porque el mito explica la naturaleza y la leyenda narra lo que le ocurrió a un personaje."
+        },
+        {
+          "letter": "C",
+          "text": "El texto 1 está escrito en pasado y el texto 2 está escrito en presente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los dos textos usan el pasado para contar, y esa diferencia de tiempos verbales no es la que separa a un mito de una leyenda."
+        },
+        {
+          "letter": "D",
+          "text": "El texto 1 nombra un lugar de Colombia y el texto 2 no nombra ningún lugar",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto 2 también menciona lugares, y por eso la diferencia entre los dos no está en los nombres que aparecen."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comparar un mito y una leyenda ayuda a ver que los dos formatos sirven para cosas diferentes. El mito responde a la pregunta de por qué existe algo en la naturaleza, mientras que la leyenda responde a la pregunta de qué le pasó a un personaje. Cuando los niños distinguen las dos funciones, pueden clasificar cualquier relato tradicional que encuentren en un libro de la biblioteca.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-4-2026-W21-las-leyendas-y-los-mitos-colombianos-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W21-las-leyendas-y-los-mitos-colombianos-001-MASTERY-bundle-v7",
+      "statement": "Un compañero de tu grupo afirma lo siguiente.\n\n*\"Cualquier historia que tenga un animal que habla ya es una leyenda colombiana, y por eso se puede contar como tradición de nuestro país.\"*\n\n¿Cuál es la respuesta más sólida que puede darle el grupo a esa afirmación?",
+      "context": "En una reunión de aula en Pereira, un estudiante de cuarto defiende una idea sobre las leyendas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La afirmación es incorrecta, porque una leyenda necesita un personaje, un lugar y algo extraordinario, y hablar no basta",
+          "is_correct": true,
+          "feedback": "Correcto. Un animal que habla aparece en cuentos de hadas y en fábulas, y por eso no alcanza para que el relato sea una leyenda colombiana."
+        },
+        {
+          "letter": "B",
+          "text": "La afirmación es correcta, porque todos los animales que hablan cuentan historias de Colombia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa idea aparece en cuentos de muchos países, y el texto no muestra que el animal de la historia sea una tradición colombiana."
+        },
+        {
+          "letter": "C",
+          "text": "La afirmación es incorrecta, porque en las leyendas colombianas nunca aparecen animales",
+          "is_correct": false,
+          "feedback": "Incorrecto. En las leyendas sí pueden aparecer animales y hasta objetos que hablan, y por eso ese rasgo solo no alcanza para decidir."
+        },
+        {
+          "letter": "D",
+          "text": "La afirmación es correcta, porque las leyendas se escriben siempre en forma de diálogo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una leyenda no tiene que escribirse en forma de diálogo, y el texto de esta semana está narrado y no en conversación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar una afirmación significa ponerla a prueba con criterios y no con lo que a primera vista parece cierto. Una leyenda se reconoce por sus personajes, por el lugar donde suceden los hechos y por algo extraordinario que ocurre en la historia. Cuando los niños usan esos criterios, pueden decidir si un relato pertenece a la tradición de una región o si es solo un cuento más.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-4-2026-W21-las-leyendas-y-los-mitos-colombianos-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W21-las-leyendas-y-los-mitos-colombianos-001-MASTERY-bundle-v8",
+      "statement": "Los dos grupos encontraron dos versiones de una leyenda de la cordillera.\n\n*\"Versión 1, de un libro de tradiciones de la región: \"Cuentan que un arriero que subía con sus mulas oyó una canción en lo alto de la montaña. Cuando llegó a la cima, no vio a nadie, y desde esa vez ningún arriero vuelve a subir solo al amanecer.\" Versión 2, de un blog sin autor: \"Un arriero encontró una ciudad de oro y se quedó vivir allí con los arrieros del mundo entero.\"*\n\n¿Cuál de las dos versiones sirve mejor para la exposición del colegio?",
+      "context": "Como tarea final, los grupos de cuarto buscan dos versiones de la misma leyenda para preparar la exposición del viernes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La versión 1, porque no cuenta ningún detalle y así el público no se aburre",
+          "is_correct": false,
+          "feedback": "Incorrecto. La razón de una versión no puede ser la falta de detalles, y además esa opción no responde a lo que hace mejor a la versión 1."
+        },
+        {
+          "letter": "B",
+          "text": "La versión 2, porque se publicó en internet y por eso la gente puede leerla desde el celular",
+          "is_correct": false,
+          "feedback": "Incorrecto. Publicar un texto en internet no lo hace más confiable, y esa versión además agrega una ciudad de oro que el libro no cuenta."
+        },
+        {
+          "letter": "C",
+          "text": "La versión 1, porque explica qué creían los arrieros de la región y termina con la costumbre que quedó",
+          "is_correct": true,
+          "feedback": "Correcto. Esa versión cuenta la tradición con su personaje y su lugar, y además muestra qué hicieron los arrieros después de oír la historia."
+        },
+        {
+          "letter": "D",
+          "text": "Las dos versiones, porque cuentan la misma leyenda y la diferencia está solo en las palabras",
+          "is_correct": false,
+          "feedback": "Incorrecto. La versión 2 añade una ciudad de oro que el libro no menciona, y por eso no se trata solamente de un cambio de palabras."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Comparar dos versiones de una misma tradición enseña a valorar el origen de la información. Una versión que viene de una región y cuenta lo que la gente creía conserva el sentido de la leyenda, mientras que otra versión puede inventar detalles que la tradición no tiene. Cuando los niños aplican esta comparación, aprenden que las tradiciones se deben transmitir con respeto y que vale la pena conocer de dónde viene cada cuento.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-4-2026-W21-las-leyendas-y-los-mitos-colombianos-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    }
+  ]
+}
