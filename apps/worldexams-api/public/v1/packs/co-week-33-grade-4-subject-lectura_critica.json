@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-33-grade-4-subject-lectura_critica",
+    "generated_at": "2026-09-30T10:20:02.589Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-4-2026-W33-los-textos-que-dan-consejos-y-recomendaciones-001-MASTERY-bundle-v1",
+      "statement": "Lee con atención el afiche que la escuela pegó en el patio de recreo.\n\n*\"Afiche de la escuela: \"Para todos nuestros estudiantes de cuarto: traigan el termo con agua y un pañuelo limpio. El patio se puede usar hasta las dos de la tarde, y al terminar deben guardar el juego en la caja\".\"*\n\nSegún el afiche, ¿qué deben hacer los estudiantes de cuarto?",
+      "context": "En la clase de cuarto de Armenia, la profesora pega en la pared un afiche nuevo para el patio de recreo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pedir permiso para jugar después de las dos de la tarde",
+          "is_correct": false,
+          "feedback": "Incorrecto. El afiche dice que el patio se puede usar hasta las dos de la tarde, así que después de esa hora no hay permiso."
+        },
+        {
+          "letter": "B",
+          "text": "Traer el termo con agua y el pañuelo limpio, y guardar el juego en la caja",
+          "is_correct": true,
+          "feedback": "Correcto. El afiche pide las dos cosas y además ordena guardar el juego, y eso responde la pregunta de manera literal."
+        },
+        {
+          "letter": "C",
+          "text": "Traer una salida de la clase para poder jugar más rato",
+          "is_correct": false,
+          "feedback": "Incorrecto. El afiche no pide permiso ni habla de ninguna salida, y dice que el patio se cierra a las dos de la tarde."
+        },
+        {
+          "letter": "D",
+          "text": "Comprar una pelota nueva para el equipo de cuarto",
+          "is_correct": false,
+          "feedback": "Incorrecto. El afiche no menciona ninguna pelota ni ninguna compra, y solo pide llevar el termo, el pañuelo y guardar el juego."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Leer un texto de consejo de forma literal es responder solo con lo que el aviso escribe, sin inventar datos. Reconocer los verbos de la indicación, como traigan y guarden, ayuda a los niños a saber exactamente qué se espera de ellos. Esa disciplina les sirve para entender cualquier aviso del colegio, del parque o de la calle.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Literal",
+      "expected_success": 0.92,
+      "bundle_id": "CO-LC-4-2026-W33-los-textos-que-dan-consejos-y-recomendaciones-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W33-los-textos-que-dan-consejos-y-recomendaciones-001-MASTERY-bundle-v2",
+      "statement": "Observa las dos frases que hablan de la misma situación.\n\n*\"Frase 1: La mamá le dice a su hija: \"Te recomiendo que lleves un cuaderno extra en la maleta, por si se te pierde alguno\". Frase 2: La supervisora de la tienda le dice al niño: \"Traiga el cuaderno o no puede entrar a la tienda\".\"*\n\n¿Qué diferencia de significado hay entre las dos frases?",
+      "context": "En un taller de lectura de cuarto de Yopal, los estudiantes descubren la diferencia entre un consejo y una orden.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La frase 1 da una orden de la tienda y la frase 2 ofrece una sugerencia de la mamá",
+          "is_correct": false,
+          "feedback": "Incorrecto. Está al revés, porque la frase 1 es la sugerencia de la mamá y la frase 2 es la orden de la supervisora."
+        },
+        {
+          "letter": "B",
+          "text": "Las dos frases son una orden, porque las dos usan el mismo imperativo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo la frase 2 impone una consecuencia, y la frase 1 ofrece una alternativa sin obligar a nadie."
+        },
+        {
+          "letter": "C",
+          "text": "La frase 1 sugiere algo y deja decidir, mientras que la frase 2 obliga bajo una consecuencia",
+          "is_correct": true,
+          "feedback": "Correcto. En la frase 1 te recomiendo abre la puerta a aceptar o rechazar, y en la frase 2 la consecuencia cierra la elección."
+        },
+        {
+          "letter": "D",
+          "text": "La frase 1 habla de una tienda y la frase 2 habla de una maleta de colegio",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las dos frases giran alrededor del cuaderno, y lo que cambia no es el objeto sino la intención de quien habla."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Entender la diferencia entre un consejo y una orden es reconocer quién tiene el derecho a decidir. Cuando alguien sugiere, el lector puede aceptar o rechazar; cuando alguien obliga, hay una consecuencia. Los niños necesitan notar esa diferencia para entender por qué algunos textos de la vida diaria parecen amigables y otros presionan.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.89,
+      "bundle_id": "CO-LC-4-2026-W33-los-textos-que-dan-consejos-y-recomendaciones-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W33-los-textos-que-dan-consejos-y-recomendaciones-001-MASTERY-bundle-v3",
+      "statement": "Lee los tres textos que tres grupos quieren pegar en el pasillo.\n\n*\"Texto 1: \"Los niños que llegan puntuales a clase llevan una botella de agua, traen la ropa limpia y participan en los trabajos de sus compañeros. Por eso se recomienda seguir esta costumbre al estudiar\". Texto 2: \"Tarea: traer el cuaderno azul mañana\". Texto 3: \"Un equipo de investigadores dice que el cerebro descansa mejor cuando se duerme bien\".\"*\n\n¿Cuál de los tres textos sirve mejor para una campaña que quiere recomendar hábitos y no solamente dar una orden de una sola vez?",
+      "context": "En el aula de cuarto de Cúcuta, tres grupos deben elegir el mejor texto para una campaña del colegio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El texto 1, porque mencionar la ropa limpia convierte su consejo en el más completo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto 1 sí recomienda hábitos, y no afirma que la ropa limpia sea lo más importante ni que los otros hábitos valgan menos."
+        },
+        {
+          "letter": "B",
+          "text": "El texto 2, porque una tarea concreta enseña mejor que un hábito general",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto 2 es una orden de una sola vez, y por eso no sirve para una campaña que busca acompañar con hábitos."
+        },
+        {
+          "letter": "C",
+          "text": "El texto 3, porque el nombre de quien escribe le da autoridad al texto",
+          "is_correct": false,
+          "feedback": "Incorrecto. El nombre de un equipo aporta autoridad, y el texto 3 no propone ningún hábito concreto que los niños puedan seguir cada día."
+        },
+        {
+          "letter": "D",
+          "text": "El texto 1, porque ofrece varios hábitos seguidos y los presenta como algo que se recomienda",
+          "is_correct": true,
+          "feedback": "Correcto. El texto 1 junta tres costumbres y las presenta como sugerencia, y eso es justo lo que se busca en una campaña de hábitos."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Elegir el texto adecuado es preguntar qué función tiene cada escrito y para quién se escribe. Un texto que recomienda hábitos ofrece acciones para repetir, y no una orden que se cumple una vez y se olvida. Enseñar a los niños a distinguir ambas cosas les da una herramienta válida para cualquier trabajo escolar.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.86,
+      "bundle_id": "CO-LC-4-2026-W33-los-textos-que-dan-consejos-y-recomendaciones-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W33-los-textos-que-dan-consejos-y-recomendaciones-001-MASTERY-bundle-v4",
+      "statement": "Lee el siguiente fragmento de un recetario para niños de cuarto de grado.\n\n*\"Fragmento del recetario: \"Si dejas el banano con la leche reposando toda la noche, al día siguiente la bebida está lista. Para que salga espumosa, mueve el vaso despacio y no lo tapes\".\"*\n\n¿Cuál de estos órdenes presenta mejor las dos recomendaciones del fragmento?",
+      "context": "En la clase de cuarto de Pasto, la profesora pide ordenar las recomendaciones de un recetario infantil.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Primero lo de la bebida espumosa, porque lo más importante debe ir primero en cualquier texto",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un recetario se ordena por el tiempo en que ocurre cada paso, y no por lo que el autor considere más importante."
+        },
+        {
+          "letter": "B",
+          "text": "Primero lo que se hace durante la noche y después lo que se hace al servir, porque ese es el orden del tiempo",
+          "is_correct": true,
+          "feedback": "Correcto. El recetario cuenta primero el reposo de la noche y luego el movimiento del vaso, y así quien lee entiende la secuencia completa."
+        },
+        {
+          "letter": "C",
+          "text": "Primero lo del vaso, porque la persona lo necesita para poder dormir, y después lo de la leche",
+          "is_correct": false,
+          "feedback": "Incorrecto. El vaso no se necesita para dormir, y el orden del tiempo empieza por el banano con la leche reposando."
+        },
+        {
+          "letter": "D",
+          "text": "Primero lo de la leche, porque en toda instrucción la comida va antes que la bebida",
+          "is_correct": false,
+          "feedback": "Incorrecto. El fragmento no separa el alimento de la bebida, porque el banano y la leche van juntos en la misma preparación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Ordenar los pasos de un texto es reconocer que las palabras cuentan un proceso que avanza en el tiempo. Los conectores, como si, al día siguiente y para que, señalan el orden y ayudan a que quien lea no se pierda. Practicar ese ordenamiento enseña a los niños a escribir con claridad y también a seguir bien cualquier instrucción.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LC-4-2026-W33-los-textos-que-dan-consejos-y-recomendaciones-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W33-los-textos-que-dan-consejos-y-recomendaciones-001-MASTERY-bundle-v5",
+      "statement": "Lee el comienzo de un blog infantil escrito por una niña de cuarto de Bogotá.\n\n*\"Hoy quiero contarles mi forma de cuidar el humedal de la casa. Yo saco la basura de la cocina cuando veo que ya está llena, y le pido a mi papá que me acompañe a buscar las botellas en el parque. Les escribo a mis compañeros para que hagan lo mismo.\"*\n\n¿Qué busca el blog con esa forma de contar lo que ella hace?",
+      "context": "En un trabajo en grupo de cuarto de Bogotá, los estudiantes analizan por qué una niña escribe un blog infantil.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Avisar que el humedal se va a cerrar, porque cuenta un lugar que ya no existe",
+          "is_correct": false,
+          "feedback": "Incorrecto. El blog cuenta que la niña todavía saca la basura y visita el parque, así que no hay ningún aviso de cierre."
+        },
+        {
+          "letter": "B",
+          "text": "Enseñar a los niños a medir cuánto banano se usa en una bebida",
+          "is_correct": false,
+          "feedback": "Incorrecto. El blog nunca habla de cantidades ni de bebidas, y su tema es el cuidado del humedal y del parque."
+        },
+        {
+          "letter": "C",
+          "text": "Invitar a otros niños a cuidar el parque con acciones pequeñas, porque escribe para que copien su costumbre",
+          "is_correct": true,
+          "feedback": "Correcto. El texto dice que les escribe a sus compañeros para que hagan lo mismo, y de ahí se nota que la intención es compartir el hábito."
+        },
+        {
+          "letter": "D",
+          "text": "Demostrar que los niños de cuarto no pueden cuidar un parque por sí solos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no dice que no puedan, y todo lo que cuenta es que la niña sí lo hace acompañada de su papá."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Analizar el propósito de un texto es preguntar qué efecto quiere producir en quien lo lee, más allá de los datos que entrega. Cuando alguien cuenta lo que hace y escribe a sus compañeros para que lo repitan, la intención es compartir una costumbre. Reconocer esa intención enseña a los niños a leer también los textos que sus amigos publican.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.81,
+      "bundle_id": "CO-LC-4-2026-W33-los-textos-que-dan-consejos-y-recomendaciones-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W33-los-textos-que-dan-consejos-y-recomendaciones-001-MASTERY-bundle-v6",
+      "statement": "Lee los dos textos que hablan del sueño de los niños de cuarto.\n\n*\"Texto 1: \"Si duermes poco, al día siguiente te cuesta más pensar y te enervas con facilidad. Por eso te recomiendo dormir ocho horas, apagar la pantalla antes de acostarte y mantener un horario fijo\". Texto 2: \"Dormir ocho horas es muy importante. Yo lo hago todos los días y me siento muy bien. Les recomiendo a mis amigos que hagan lo mismo, pero sin decir por qué\".\"*\n\n¿Qué diferencia se observa en la forma de sostener el consejo en los dos textos?",
+      "context": "En el aula de cuarto de Cartagena, la profesora pide comparar dos versiones de un consejo sobre el sueño.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El texto 2 da una razón más clara, porque menciona que la autora se siente muy bien",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sentirse bien es una opinión personal, y el texto 1 explica el porqué con lo que pasa en el día siguiente."
+        },
+        {
+          "letter": "B",
+          "text": "Los dos textos apoyan igual su consejo, porque los dos dicen que el sueño es importante",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los dos nombran el sueño como importante, y solo uno de los dos explica qué pasa cuando el sueño es poco."
+        },
+        {
+          "letter": "C",
+          "text": "El texto 1 no da ninguna razón, porque sus consejos aparecen uno detrás de otro",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto 1 sí explica la causa, y dice que al día siguiente cuesta más pensar y que uno se enerva con facilidad."
+        },
+        {
+          "letter": "D",
+          "text": "El texto 1 apoya el consejo en lo que pasa en el cuerpo, y el texto 2 solo lo apoya en la costumbre de la autora",
+          "is_correct": true,
+          "feedback": "Correcto. El texto 1 explica que sin sueño cuesta más pensar, y el texto 2 se apoya en que ella lo hace y se siente bien."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Analizar cómo se sostiene un texto es preguntar si el autor explica el porqué de su consejo o solamente afirma que le funciona a él. Un consejo que muestra una causa entendible es más fácil de seguir que uno que se apoya solo en la costumbre personal. Notar esa diferencia enseña a los niños a valorar los argumentos y también a defender los suyos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.77,
+      "bundle_id": "CO-LC-4-2026-W33-los-textos-que-dan-consejos-y-recomendaciones-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W33-los-textos-que-dan-consejos-y-recomendaciones-001-MASTERY-bundle-v7",
+      "statement": "Un compañero de tu grupo afirma lo siguiente.\n\n*\"Leí que si como zanahoria todos los días, no voy a necesitar usar anteojos. Ese texto de internet lo debe haber escrito un médico, así que es mejor que todos dejemos de usarlos.\"*\n\n¿Cuál es la respuesta más sólida que puede darle el grupo a esa afirmación?",
+      "context": "En la reunión de aula de un colegio de Medellín, un compañero de tu grupo defiende un consejo que leyó en internet.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La afirmación es correcta, porque comer zanahoria en vez de otras verduras quita la necesidad de los anteojos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una alimentación buena ayuda a la salud, y no reemplaza un estudio de la vista ni lo que indique el médico."
+        },
+        {
+          "letter": "B",
+          "text": "La afirmación es incorrecta, porque un texto sin autor identificado y sin fuentes no reemplaza la revisión de un médico",
+          "is_correct": true,
+          "feedback": "Correcto. Cuando no se sabe quién escribió el texto ni de dónde salió la información, no hay forma de comprobar lo que afirma."
+        },
+        {
+          "letter": "C",
+          "text": "La afirmación es incorrecta, porque todos los niños usan anteojos desde el primer día",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa generalización no tiene ningún respaldo, y hay muchos niños que nunca han necesitado anteojos."
+        },
+        {
+          "letter": "D",
+          "text": "La afirmación es incorrecta, porque los niños de cuarto no están autorizados a leer textos de salud",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los niños sí pueden leer esos textos, y lo importante es que aprendan a revisarlos con criterio y a preguntar a un profesional."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar un consejo es ponerlo a prueba y no aceptar su autoridad solo porque parece escrito por alguien. Un texto de salud necesita decir quién lo escribió y de dónde sacó la información. Esta costumbre de contrastar es la base de cualquier lectura responsable y protege a los niños de las noticias que circulan sin fuente.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LC-4-2026-W33-los-textos-que-dan-consejos-y-recomendaciones-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W33-los-textos-que-dan-consejos-y-recomendaciones-001-MASTERY-bundle-v8",
+      "statement": "Los cuatro grupos redactaron una versión de un texto de recomendaciones para el colderio en días de frío.\n\n*\"Grupo 1: \"El abrigo es lo más importante, y todos deben traerlo sin excepción\". Grupo 2: \"Este texto no tiene autor conocido, pero varias personas dicen que es cierto y por eso hay que creerlo\". Grupo 3: \"Si hace frío en la mañana, ponte dos chaquetas delgadas en vez de una gruesa, cubre bien el cuello con una bufanda y lleva las manos en los bolsillos. Así el calor se conserva mejor\". Grupo 4: \"Mi abuela dice que el frío no produce nada y que todos los niños están exagerando por el invierno\".*\n\n¿Cuál de las cuatro versiones es la más sólida como texto de recomendaciones?",
+      "context": "Como tarea final, los grupos de cuarto de Valledupar deben escribir un texto de recomendaciones para el colderio en días fríos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La del grupo 1, porque una recomendación sin excepciones es la más fácil de aplicar",
+          "is_correct": false,
+          "feedback": "Incorrecto. El grupo 1 solo da una afirmación sin explicación, y además su regla no tiene en cuenta que cada cuerpo es distinto."
+        },
+        {
+          "letter": "B",
+          "text": "La del grupo 2, porque la opinión de varias personas sirve como prueba",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cantidad de personas que lo dicen no es una prueba, y esa versión no dice de dónde salió la información."
+        },
+        {
+          "letter": "C",
+          "text": "La del grupo 4, porque el testimonio de la abuela tiene más autoridad que un texto escrito",
+          "is_correct": false,
+          "feedback": "Incorrecto. El testimonio de la abuela es un recuerdo valioso, y su afirmación contradice lo que cualquiera puede comprobar con su propio cuerpo."
+        },
+        {
+          "letter": "D",
+          "text": "La del grupo 3, porque explica qué hacer, para qué sirve y cómo se aplica cada consejo",
+          "is_correct": true,
+          "feedback": "Correcto. Esa versión ofrece acciones concretas y además dice para qué sirven, y con eso quien la lee puede aplicarla en su día a día."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Comparar cuatro versiones de un mismo consejo enseña a ver qué tiene que tener un texto de recomendación para ser confiable. Explica la acción, menciona el motivo y respeta que cada persona decida. Practicar estos criterios les permite a los niños escribir y evaluar recomendaciones con honestidad y sin repetir lo que dicen sin fuente.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-4-2026-W33-los-textos-que-dan-consejos-y-recomendaciones-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    }
+  ]
+}
