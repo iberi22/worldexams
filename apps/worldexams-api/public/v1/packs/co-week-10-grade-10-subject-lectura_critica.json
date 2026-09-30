@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-10-grade-10-subject-lectura_critica",
+    "generated_at": "2026-09-30T13:59:53.383Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-10-2026-W10-la-lectura-de-textos-juridicos-y-normativos-001-MASTERY-bundle-v1",
+      "statement": "¿De qué tipo de texto se trata el Texto 1?",
+      "context": "En Medellín, la profesora de Lectura Crítica pide a los estudiantes de décimo grado clasificar el Texto 1 antes de leerlo completo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "De un texto narrativo, porque cuenta lo que ocurrió en el colegio durante la semana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no relata hechos ni presenta personajes: enuncia una disposición y su sanción."
+        },
+        {
+          "letter": "B",
+          "text": "De un texto argumentativo, porque expone razones a favor de la prohibición de los celulares.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un texto argumentativo defendería una tesis con argumentos; aquí no hay tesis, hay una regla."
+        },
+        {
+          "letter": "C",
+          "text": "De un texto normativo, porque enuncia una disposición obligatoria y la sanción prevista si se incumple.",
+          "is_correct": true,
+          "feedback": "Correcto. El artículo, la obligación, el incumplimiento y la sanción forman la estructura propia de un texto normativo."
+        },
+        {
+          "letter": "D",
+          "text": "De un texto informativo, porque informa sobre el uso del celular en la institución.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un texto informativo describe una situación sin imponer conducta alguna; este obliga."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un texto normativo se reconoce porque su lenguaje no describe lo que ocurre, sino lo que debe hacerse. Obligación, destinatario y sanción son sus tres marcas inseparables. Clasificar correctamente este tipo de texto evita confundir la norma con la noticia o con el ensayo de opinión.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-10-2026-W10-la-lectura-de-textos-juridicos-y-normativos-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W10-la-lectura-de-textos-juridicos-y-normativos-001-MASTERY-bundle-v2",
+      "statement": "Según el Texto 1, ¿qué ocurre cuando un estudiante de décimo grado usa el celular en una prueba de Lectura Crítica y ya había recibido un llamado de atención antes?",
+      "context": "En Medellín, un grupo de décimo grado arma una ficha de control a partir del Texto 1 para saber qué pasa si alguien incumple.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se genera un nuevo llamado de atención, porque cada uso del celular se sanciona por separado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El artículo distingue entre el primer incumplimiento y la reincidencia, y en la reincidencia la consecuencia es más grave."
+        },
+        {
+          "letter": "B",
+          "text": "El estudiante pierde el derecho a usar el celular en el recreo durante todo el mes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La norma no contempla esa sanción: no existe ninguna parte del artículo que quite el uso recreativo."
+        },
+        {
+          "letter": "C",
+          "text": "La coordinación solo registra el hecho en el acta, sin aplicar ninguna consecuencia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El acta es el registro de la infracción, pero la norma ya establece la sanción que corresponde."
+        },
+        {
+          "letter": "D",
+          "text": "Se aplica la sanción de un día, porque la reincidencia activa la segunda consecuencia prevista en el artículo.",
+          "is_correct": true,
+          "feedback": "Correcto. El artículo indica que el incumplimiento genera llamado de atención y que, si hay reincidencia, la sanción es de un día."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Una norma debe leerse completa para entender su lógica interna: la primera consecuencia y la segunda no son la misma. Reconocer el criterio de reincidencia evita deducciones precipitadas sobre lo que la norma realmente sanciona. En el uso cotidiano, ese mismo criterio distingue una medida correctiva de una sanción definitiva.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Literal",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-10-2026-W10-la-lectura-de-textos-juridicos-y-normativos-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W10-la-lectura-de-textos-juridicos-y-normativos-001-MASTERY-bundle-v3",
+      "statement": "En la oración «el estudiante deberá guardar el dispositivo en el bolsillo o en la mochila», ¿qué valor tiene la forma verbal «deberá»?",
+      "context": "En Medellín, los estudiantes de décimo grado analizan el verbo que obliga en el Texto 1, porque hasta ahora lo habían usado solo como sugerencia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sugiere una posibilidad, porque deja abierta la decisión del estudiante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La forma «deberá» no expresa posibilidad ni preferencia: impone una conducta obligatoria."
+        },
+        {
+          "letter": "B",
+          "text": "Expresa una necesidad obligatoria, porque convierte la norma en una conducta que el estudiante no puede omitir.",
+          "is_correct": true,
+          "feedback": "Correcto. La forma «deberá» expresa necesidad obligatoria y no admite excepción dentro del texto."
+        },
+        {
+          "letter": "C",
+          "text": "Expresa un deseo o una petición amable del reglamento hacia el estudiante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un deseo o una petición amable se marcarían con verbos como pedir o invitar, no con «deberá»."
+        },
+        {
+          "letter": "D",
+          "text": "Relata un hecho que ya ocurrió, porque el artículo informa sobre lo que el estudiante hizo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El artículo norma una conducta futura o permanente, no relata un hecho consumado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El valor de «deberá» es el de necesidad obligatoria, y esa es la diferencia entre un consejo escolar y una norma. Cambiar una palabra modal por otra modifica por completo el tipo de disposición. Reconocer la modalidad del verbo es lo que permite afirmar que una conducta es exigible y no meramente recomendable.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semantico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-10-2026-W10-la-lectura-de-textos-juridicos-y-normativos-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W10-la-lectura-de-textos-juridicos-y-normativos-001-MASTERY-bundle-v4",
+      "statement": "Ana, en clase de matemáticas, responde un mensaje del celular y es la primera vez que lo hace este mes. ¿Qué se puede deducir del Texto 1?",
+      "context": "En Medellín, en un salón de décimo grado, tres estudiantes discuten qué pasaría si alguien usara el celular en una clase de matemáticas, que no es de Lectura Crítica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ana queda sin efecto porque la norma solo se aplica durante las clases de Lectura Crítica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La restricción no es por asignatura: el artículo limita el uso al recreo y a la sala de sistemas, sin importar la clase."
+        },
+        {
+          "letter": "B",
+          "text": "Ana no puede ser sancionada porque el reglamento nunca menciona los mensajes de texto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El artículo prohíbe el uso de dispositivos móviles, y escribir un mensaje desde el celular es uso de dispositivo."
+        },
+        {
+          "letter": "C",
+          "text": "Ana solo puede ser sancionada si la coordinadora levanta un acta el mismo día de la infracción.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El acta es el registro de lo ocurrido, no un requisito previo para que exista la infracción."
+        },
+        {
+          "letter": "D",
+          "text": "A Ana le corresponde un llamado de atención y, si reincide, la sanción de un día.",
+          "is_correct": true,
+          "feedback": "Correcto. Al ser la primera vez, la consecuencia inicial es el llamado de atención y la reincidencia activa la sanción de un día."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Aplicar una norma exige identificar quién es el destinatario y cuál es la conducta descrita, sin añadir restricciones que el texto no tiene. La norma se aplica por el uso del dispositivo, no por la materia en la que ocurre. En la vida cotidiana, ese mismo criterio permite detectar cuándo un caso que parece excepcional no está realmente exceptuado.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Inferencial",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-10-2026-W10-la-lectura-de-textos-juridicos-y-normativos-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W10-la-lectura-de-textos-juridicos-y-normativos-001-MASTERY-bundle-v5",
+      "statement": "En la oración «Cuando la infracción ocurre en un aula, se informa a la coordinación en la misma jornada», ¿qué función cumple la construcción con «se»?",
+      "context": "En Medellín, la profesora de Lectura Crítica pide justificar por qué el artículo se dirige a la institución y no a un estudiante en particular.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una construcción impersonal: el «se» no tiene sujeto explícito y la acción se presenta como una costumbre del reglamento.",
+          "is_correct": true,
+          "feedback": "Correcto. La institución aparece como destinatario y el «se» impersonal evita nombrar a quien ejecuta el aviso."
+        },
+        {
+          "letter": "B",
+          "text": "Es una pasiva refleja: el «se» convierte en objeto al sujeto de la oración.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En una pasiva refleja el sujeto realiza la acción, y aquí no hay un agente identificado que la realice."
+        },
+        {
+          "letter": "C",
+          "text": "Es un pronombre reflexivo: el «se» indica que la coordinación se informa a sí misma.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La coordinación recibe el aviso, no se lo envía, así que no hay acción reflexiva."
+        },
+        {
+          "letter": "D",
+          "text": "Es un se impersonal que además señala a la institución responsable del aviso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El «se» no señala a la institución: el sustantivo que viene después es el sujeto explícito de la oración."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El «se» impersonal es una de las marcas del registro de las normas, junto con la ausencia de marcas personales como «yo» o «nosotros». Nombrar la función sintáctica permite explicar por qué el artículo se dirige a todos y por qué el estudiante es destinatario y no emisor. Esa comprensión es la base del análisis discursivo de la norma.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sintactico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-10-2026-W10-la-lectura-de-textos-juridicos-y-normativos-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W10-la-lectura-de-textos-juridicos-y-normativos-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la intención comunicativa principal del Texto 1?",
+      "context": "En Medellín, los estudiantes de décimo grado discuten qué resuelve el artículo 7 en la vida del colegio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Informar a los estudiantes sobre el uso correcto del celular en la institución.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El artículo no informa: fija una conducta obligatoria y la sanción del incumplimiento."
+        },
+        {
+          "letter": "B",
+          "text": "Convencer a los estudiantes de que el celular es un distractor durante las clases.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Convencer exige una tesis con argumentos; aquí hay una disposición con consecuencia interna."
+        },
+        {
+          "letter": "C",
+          "text": "Ordenar una conducta y asegurar su cumplimiento mediante la sanción prevista.",
+          "is_correct": true,
+          "feedback": "Correcto. El artículo hace las dos cosas: indica qué se debe hacer y qué pasa si no se hace."
+        },
+        {
+          "letter": "D",
+          "text": "Entretener a los estudiantes con una anécdota sobre el uso de celulares.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto es normativo, y la función de entretener no aplica a su estructura."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La intención comunicativa de un texto normativo es doble: regular la conducta y garantizar el cumplimiento. Esa doble intención explica la presencia de destinatario, obligación y sanción en un solo artículo. Distinguir esta intención de la informativa o de la argumentativa es lo que permite resolver preguntas de aplicación sobre documentos reales.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LC-10-2026-W10-la-lectura-de-textos-juridicos-y-normativos-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W10-la-lectura-de-textos-juridicos-y-normativos-001-MASTERY-bundle-v7",
+      "statement": "¿Qué estrategia discursiva permite que el Texto 1 se haga obedecer sin apelar a razones?",
+      "context": "En Medellín, la profesora pide a los estudiantes de décimo grado explicar por qué el artículo se hace obedecer sin usar argumentos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Presenta ejemplos de estudiantes sancionados, para que el lector se identifique con el castigo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El artículo no incluye nombres ni casos reales: enuncia la regla y la consecuencia."
+        },
+        {
+          "letter": "B",
+          "text": "Se apoya en la norma impersonal, en la obligatoriedad de la forma verbal y en el registro de la infracción en acta.",
+          "is_correct": true,
+          "feedback": "Correcto. La impersonalidad, el «deberá» y el acta construyen autoridad sin necesidad de persuasión."
+        },
+        {
+          "letter": "C",
+          "text": "Recurre al sentido de pertenencia del grupo de décimo grado, para que el estudiante se sienta parte de la comunidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El artículo no apela a lo colectivo ni a emociones: regula una conducta individual de forma verificable."
+        },
+        {
+          "letter": "D",
+          "text": "Usa cifras sobre el uso del celular en las aulas, para demostrar la magnitud del problema.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El artículo no aporta ningún dato estadístico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un texto normativo no necesita convencer porque no discute: su fuerza está en la validez de la regla y en la claridad de la consecuencia. Analizar la impersonalidad, la modalidad obligatoria y el registro en acta muestra cómo un texto sin argumentos igual obtiene obediencia. Esa es una diferencia clave frente al texto argumentativo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-10-2026-W10-la-lectura-de-textos-juridicos-y-normativos-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W10-la-lectura-de-textos-juridicos-y-normativos-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es la relación problemática entre el Texto 1 y el Texto 2?",
+      "context": "En Medellín, los estudiantes de décimo grado contrastan la norma con la nota del periódico escolar para preparar un debate en clase.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los dos textos se oponen porque el Texto 2 propone permitir el celular en todas las clases.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Judith no propone eliminar la norma: solo la describe, y con errores."
+        },
+        {
+          "letter": "B",
+          "text": "Los dos textos coinciden porque los dos imaginan la misma sanción para el compañero de undécimo grado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La coordinadora del Texto 2 corrige a Judith: la sanción no alcanza a toda la jornada."
+        },
+        {
+          "letter": "C",
+          "text": "El Texto 2 contradice al Texto 1 al presentar una norma más amplia de lo que realmente dice.",
+          "is_correct": true,
+          "feedback": "Correcto. Judith generaliza a toda la jornada, mientras el artículo limita la conducta a las clases y las pruebas."
+        },
+        {
+          "letter": "D",
+          "text": "El Texto 2 tiene más autoridad que el Texto 1 porque lo escribió alguien que estudió en la institución.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La autoridad de una norma está en su validez, no en la cercanía de quien la comenta."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Comparar dos textos sobre un mismo asunto permite detectar el desfase entre la norma y su versión coloquial. Ese desfase no es un detalle menor: es el origen de muchas explicaciones equivocadas sobre lo que la norma realmente dice. Leer el documento original antes de aceptar el resumen es un hábito de lectura crítica.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Critico-Intertextual",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LC-10-2026-W10-la-lectura-de-textos-juridicos-y-normativos-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W10-la-lectura-de-textos-juridicos-y-normativos-001-MASTERY-bundle-v9",
+      "statement": "¿Qué problema conceptual expone la frase «las normas sirven para que todos hagamos lo mismo, y por eso se escriben»?",
+      "context": "En Medellín, los estudiantes de décimo grado discuten la frase con que cierra la nota de El Eco y su efecto en los lectores.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reduce la norma a la uniformidad y desconecta la acción de la conducta que se sanciona.",
+          "is_correct": true,
+          "feedback": "Correcto. Justificar la norma por la uniformidad elimina el criterio de la conducta y borra la responsabilidad individual."
+        },
+        {
+          "letter": "B",
+          "text": "Exagera la eficacia de las normas y presenta al reglamento como inútil para prevenir infracciones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase no cuestiona la eficacia de la norma: le atribuye un fundamento equivocado."
+        },
+        {
+          "letter": "C",
+          "text": "Introduce un error de cálculo, porque la norma no menciona números ni horarios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ausencia de datos numéricos en la norma no es el problema que expone la frase."
+        },
+        {
+          "letter": "D",
+          "text": "Contradice el punto de vista de Judith sobre la sanción aplicada al compañero de undécimo grado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase no se ocupa de la sanción del compañero: habla del fundamento general de las normas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una frase de cierre puede tener efecto persuasivo aunque su contenido sea conceptualmente débil. Reconocer que la norma se sostiene en la conducta y no en la uniformidad es un ejercicio de evaluación del discurso. Ese criterio también sirve para detectar lemas que se repiten sin explicarse.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Inferencial",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-10-2026-W10-la-lectura-de-textos-juridicos-y-normativos-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W10-la-lectura-de-textos-juridicos-y-normativos-001-MASTERY-bundle-v10",
+      "statement": "¿Qué cambio haría la nota de El Eco más rigurosa sin alterar el sentido del Texto 1?",
+      "context": "En Medellín, la profesora propone que los estudiantes de décimo grado reescriban la nota de El Eco y justifiquen su respuesta con criterios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Eliminar la frase de cierre, porque cualquier opinión de un compañero desacredita la nota.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Retirar una opinión no corrige el problema de fondo: la inexactitud sobre el alcance de la norma permanece."
+        },
+        {
+          "letter": "B",
+          "text": "Reemplazar «se quedan guardados» por «no se pueden usar», sin citar el artículo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cambio mantiene la generalización y además elimina la referencia al documento que respalda la afirmación."
+        },
+        {
+          "letter": "C",
+          "text": "Precisar el alcance de la obligación, citar el artículo 7 y señalar quién aplica la sanción.",
+          "is_correct": true,
+          "feedback": "Correcto. El cambio corrige la inexactitud, respeta el texto normativo y da al lector los elementos para verificar."
+        },
+        {
+          "letter": "D",
+          "text": "Agregar una opinión a favor de la norma, para que la nota tenga la misma fuerza del artículo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una opinión adicional no reemplaza la precisión: el problema de la nota es la información, no la postura."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar un texto de divulgación sobre una norma exige separar los planos: precisión de la información, referencia verificable y efecto retórico. El rigor no depende del tono de la nota, sino de que el lector pueda comprobar lo que lee. Aplicar ese criterio permite mejorar textos sin traicionar su propósito informativo.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.62,
+      "bundle_id": "CO-LC-10-2026-W10-la-lectura-de-textos-juridicos-y-normativos-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W10-la-lectura-de-textos-juridicos-y-normativos-001-MASTERY-bundle-v11",
+      "statement": "Ante la reclamación, ¿qué texto conviene usar como base principal y por qué?",
+      "context": "En Medellín, un estudiante de undécimo grado reclama porque considera injusta la sanción que recibió y el comité de convivencia debe resolver.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Texto 2, porque recoge la reacción de los compañeros y refleja cómo se vive la norma.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La nota recoge una versión inexacta: basar la decisión en ella sería decidir sobre información no verificada."
+        },
+        {
+          "letter": "B",
+          "text": "El Texto 1, porque sus condiciones, su alcance y su criterio de sanción están definidos y se pueden aplicar al caso.",
+          "is_correct": true,
+          "feedback": "Correcto. El artículo delimita la conducta sancionada, la primera consecuencia y la causa de la sanción mayor."
+        },
+        {
+          "letter": "C",
+          "text": "Los dos textos por igual, porque citar las dos versiones garantiza la imparcialidad de la decisión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La imparcialidad no se obtiene contando versiones contradictorias: se aplica el texto que obliga y se resuelve el conflicto entre fuentes."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguno, porque el reglamento es interno y no puede usarse para resolver un reclamo de un estudiante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El reglamento interno es precisamente el instrumento que regula y permite revisar la reclamación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Ante una discrepancia hay que identificar cuál documento tiene fuerza normativa y cuál es una versión de divulgación. La base de una decisión administrativa es siempre el texto que obliga, y no el resumen que se hizo de él. Justificar la elección de la fuente es un criterio de lectura crítica de alto nivel.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Critico-Intertextual",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LC-10-2026-W10-la-lectura-de-textos-juridicos-y-normativos-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W10-la-lectura-de-textos-juridicos-y-normativos-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es la valoración más sólida sobre esa reforma al Texto 1?",
+      "context": "En Medellín, la coordinación de convivencia propone agregar al artículo una excepción: «salvo autorización expresa del docente de la asignatura».",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es correcta sin reservas, porque la autorización del docente da flexibilidad sin quitar ninguna obligación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Introduce una autorización no prevista y desplaza la decisión a un criterio subjetivo de cada docente."
+        },
+        {
+          "letter": "B",
+          "text": "Es inválida porque contradice de frente la expresión «el estudiante deberá guardar el dispositivo».",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una norma puede contener excepciones sin invalidarse; el problema está en si la excepción está bien formulada."
+        },
+        {
+          "letter": "C",
+          "text": "Es aceptable si el docente deja constancia escrita de cada autorización, con el fin de poder auditar el caso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La constancia escrita hace más verificable el uso, pero no resuelve el problema de fondo de la excepción."
+        },
+        {
+          "letter": "D",
+          "text": "Necesita reglas de aplicación claras, porque sin ellas la excepción vacía la obligación y deja la sanción sin alcance.",
+          "is_correct": true,
+          "feedback": "Correcto. Una excepción sin límites, sin registro y sin criterio de aplicación deja sin protección el contenido normativo."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar una reforma normativa exige preguntarse si mantiene la coherencia interna de la norma y si sus reglas de aplicación son precisables. Sin esa precisión, la excepción termina vaciando de contenido la obligación y la sanción. El mismo examen se aplica a cualquier reforma legal que se discuta en clase.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.58,
+      "bundle_id": "CO-LC-10-2026-W10-la-lectura-de-textos-juridicos-y-normativos-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}
