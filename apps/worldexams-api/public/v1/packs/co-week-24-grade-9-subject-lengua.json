@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-24-grade-9-subject-lengua",
+    "generated_at": "2026-09-30T03:51:20.751Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-9-2026-W24-la-narrativa-visual-y-el-lenguaje-grafico-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es un globo o bocadillo en una historieta?",
+      "context": "En el taller de historietas de Bogotá, un estudiante dibuja por primera vez un globo de diálogo para su personaje.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es el dibujo del fondo que sitúa al personaje en un lugar.",
+          "is_correct": false,
+          "feedback": "El fondo es el escenario de la escena, no el globo de diálogo."
+        },
+        {
+          "letter": "B",
+          "text": "Es el recuadro que contiene lo que dice o piensa un personaje.",
+          "is_correct": true,
+          "feedback": "El globo aloja el discurso del personaje y es una de las unidades básicas de la historieta."
+        },
+        {
+          "letter": "C",
+          "text": "Es la línea que separa una escena de la siguiente.",
+          "is_correct": false,
+          "feedback": "La línea que delimita escenas funciona como separador narrativo, no como globo."
+        },
+        {
+          "letter": "D",
+          "text": "Es el símbolo que representa un objeto importante del relato.",
+          "is_correct": false,
+          "feedback": "Los símbolos señalan objetos o ideas dentro de la viñeta, no contienen el discurso del personaje."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El globo es la unidad que conecta la imagen con la palabra: gracias a él sabemos qué dice el personaje. Reconocerlo permite distinguir, dentro de una viñeta, el escenario de los personajes, de los pensamientos que se atribuyen a cada uno. Sin esa distinción, la lectura de una historieta se vuelve confusa.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Semantico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W24-la-narrativa-visual-y-el-lenguaje-grafico-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W24-la-narrativa-visual-y-el-lenguaje-grafico-001-MASTERY-bundle-v2",
+      "statement": "¿Qué indica el borde irregular del globo?",
+      "context": "En una historieta publicada por un medio de Cali, un personaje grita dentro de un globo cuyo borde está dibujado con líneas irregulares.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Indica que el personaje está pensando, no hablando.",
+          "is_correct": false,
+          "feedback": "El globo con puntos suspensivos suele marcar el pensamiento; el borde irregular señala la intensidad de la voz."
+        },
+        {
+          "letter": "B",
+          "text": "Indica que el personaje habla con mayor intensidad, por ejemplo gritando o exclamando.",
+          "is_correct": true,
+          "feedback": "Los bordes con puntas irregulares son una convención del género para marcar la intensidad de la voz."
+        },
+        {
+          "letter": "C",
+          "text": "Indica que la frase está narrada por el autor de la historieta.",
+          "is_correct": false,
+          "feedback": "Los cartuchos narran con otra forma y con otra convención; no se usan bordes irregulares."
+        },
+        {
+          "letter": "D",
+          "text": "Indica que el personaje habla en un idioma diferente al de la historieta.",
+          "is_correct": false,
+          "feedback": "El idioma se marca con otras señales, como la cursiva o una ortografía distinta, no con el borde."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El dibujo también comunica: las convenciones del género convierten trazos en información. Un borde irregular vale más que un adverbio, porque comunica de inmediato la manera en que el personaje habla. Reconocer estas marcas permite leer la carga afectiva de una escena sin que haya que explicarla en el texto.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W24-la-narrativa-visual-y-el-lenguaje-grafico-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W24-la-narrativa-visual-y-el-lenguaje-grafico-001-MASTERY-bundle-v3",
+      "statement": "Ante la ausencia de texto, ¿qué efecto se produce en la lectura?",
+      "context": "En clase de Bucaramanga, la docente proyecta una historieta en la que tres viñetas consecutivas usan solo imágenes, sin ningún globo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Produce una pausa en la que la viñeta pierde toda importancia.",
+          "is_correct": false,
+          "feedback": "Una pausa narrativa puede ser deliberada y planificada por el autor."
+        },
+        {
+          "letter": "B",
+          "text": "Produce una ambigüedad que solo puede resolverse preguntando al autor.",
+          "is_correct": false,
+          "feedback": "La ambigüedad narrativa es un recurso, no un defecto de la historieta."
+        },
+        {
+          "letter": "C",
+          "text": "Produce una pausa deliberada que intensifica la tensión y obliga al lector a reconstruir lo ocurrido.",
+          "is_correct": true,
+          "feedback": "El silencio gráfico controla el ritmo de la lectura."
+        },
+        {
+          "letter": "D",
+          "text": "Produce un cambio de género, porque solo hay historieta cuando existe el diálogo.",
+          "is_correct": false,
+          "feedback": "Las historietas pueden narrar íntegramente con imágenes, sin que cambie el género."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El ritmo de una historieta se controla también con la ausencia de palabras. Una secuencia sin globos obliga al lector a observar con detalle y a suponer lo que no se dice, y esa reconstrucción es parte del placer de la lectura. Analizar el ritmo implica reconocer el silencio gráfico como una decisión narrativa.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Textual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W24-la-narrativa-visual-y-el-lenguaje-grafico-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W24-la-narrativa-visual-y-el-lenguaje-grafico-001-MASTERY-bundle-v4",
+      "statement": "¿Qué procedimiento conviene seguir para que el público comprenda el mensaje ambiental?",
+      "context": "Un equipo de noveno grado de Barranquilla prepara una historieta sobre el cuidado de los Humedales de la ciudad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Redactar el mensaje en un largo diálogo entre dos personajes, sin imágenes de apoyo.",
+          "is_correct": false,
+          "feedback": "Un diálogo largo sin apoyo visual no aprovecha los recursos propios del género."
+        },
+        {
+          "letter": "B",
+          "text": "Presentar solo datos en el cartucho narrativo, sin escenas que los ilustren.",
+          "is_correct": false,
+          "feedback": "Los datos cumplen una función, pero sin imagen el mensaje pierde fuerza en el género."
+        },
+        {
+          "letter": "C",
+          "text": "Distribuir la información en imágenes y globos, de modo que cada viñeta aporte una idea.",
+          "is_correct": true,
+          "feedback": "La combinación de imagen y palabra permite presentar la información por pasos y reforzar cada idea."
+        },
+        {
+          "letter": "D",
+          "text": "Incluir una única viñeta que muestre todo el mensaje, sin dividirlo.",
+          "is_correct": false,
+          "feedback": "Una sola viñeta con demasiada información resulta difícil de leer."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una historieta funciona mejor cuando reparte la información. Cada viñeta puede sostener una sola idea, apoyada en un dibujo claro y en un texto breve. Así, el lector avanza paso a paso y la información no se pierde.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W24-la-narrativa-visual-y-el-lenguaje-grafico-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W24-la-narrativa-visual-y-el-lenguaje-grafico-001-MASTERY-bundle-v5",
+      "statement": "¿Qué combinación de recursos expresa la soledad de forma más eficaz?",
+      "context": "En un trabajo escolar de Medellín, un estudiante debe explicar por qué su personaje se siente solo en la viñeta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un fondo con muchos personajes y un globo con una frase larga.",
+          "is_correct": false,
+          "feedback": "Muchos personajes y mucho texto dificultan que la soledad se perciba."
+        },
+        {
+          "letter": "B",
+          "text": "Un personaje aislado en un espacio amplio y un silencio entre dos viñetas.",
+          "is_correct": true,
+          "feedback": "El espacio vacío que rodea al personaje y el silencio gráfico construyen la sensación de soledad."
+        },
+        {
+          "letter": "C",
+          "text": "Un personaje acompañado de varios amigos y un diálogo alegre.",
+          "is_correct": false,
+          "feedback": "La compañía y la alegría se oponen a la soledad."
+        },
+        {
+          "letter": "D",
+          "text": "Un recuadro narrativo que explique que el personaje está solo.",
+          "is_correct": false,
+          "feedback": "Explicarlo con un cartucho funciona, pero no hace que el lector lo perciba; la imagen sí lo logra."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El lenguaje gráfico es capaz de expresar por sí mismo las emociones y los estados de ánimo, sin necesidad de explicarlos. Cuando el dibujo compone una escena y el silencio delata la pausa, la historieta se vuelve más expresiva y más económica: el lector siente antes de leer la explicación.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semantico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W24-la-narrativa-visual-y-el-lenguaje-grafico-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W24-la-narrativa-visual-y-el-lenguaje-grafico-001-MASTERY-bundle-v6",
+      "statement": "¿Con qué criterio debe revisar el juez si la historieta se entiende bien?",
+      "context": "En un concurso nacional de historietas, un juez de Bogotá nota que varias viñetas se leen con dificultad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Con el número de personajes que aparecen en la página, porque la claridad depende de la cantidad.",
+          "is_correct": false,
+          "feedback": "La cantidad de personajes no es un criterio de claridad; incluso puede dificultarla."
+        },
+        {
+          "letter": "B",
+          "text": "Con la cantidad de información que se transmite en cada viñeta, porque las viñetas recargadas entordecen la lectura.",
+          "is_correct": true,
+          "feedback": "Si una viñeta pide más de una lectura, la información está mal distribuida."
+        },
+        {
+          "letter": "C",
+          "text": "Con el color usado en los fondos, porque el color determina la comprensión del texto.",
+          "is_correct": false,
+          "feedback": "El color es un recurso de ambientación, no el criterio de legibilidad."
+        },
+        {
+          "letter": "D",
+          "text": "Con la cantidad de onomatopeyas, porque esos términos son los que más dificultan el dibujo.",
+          "is_correct": false,
+          "feedback": "Las onomatopeyas son detalles, no el criterio general de claridad de la lectura."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La legibilidad de una historieta depende de la economía de cada viñeta. Cuando en un solo recuadro se pide leer mucho texto, mirar muchos detalles y deducir varias cosas, la lectura se detiene. Un buen juez revisa, entonces, cuánto se le pide al lector en cada viñeta.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W24-la-narrativa-visual-y-el-lenguaje-grafico-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W24-la-narrativa-visual-y-el-lenguaje-grafico-001-MASTERY-bundle-v7",
+      "statement": "¿Qué relación se establece entre el trazo y lo que el trazo comunica?",
+      "context": "En una historieta publicada en Cartagena, el dibujante usa líneas cortas y sueltas para dibujar las manos de un personaje cuando está nervioso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una relación de causa, porque las líneas sueltas producen el color de las manos.",
+          "is_correct": false,
+          "feedback": "El color de la piel y el trazo son dos recursos distintos, no una relación de causa."
+        },
+        {
+          "letter": "B",
+          "text": "Una relación de tiempo, porque el trazo cambia después de que ocurre la escena.",
+          "is_correct": false,
+          "feedback": "El trazo no expresa una secuencia temporal, sino un estado."
+        },
+        {
+          "letter": "C",
+          "text": "Una relación de correspondencia simbólica, en la que el estilo del trazo sugiere el estado de ánimo del personaje.",
+          "is_correct": true,
+          "feedback": "En el lenguaje gráfico el trazo comunica indirectamente lo que el texto solo describiría."
+        },
+        {
+          "letter": "D",
+          "text": "Una relación de contradicción, porque el trazo muestra comodidad mientras la escena muestra tensión.",
+          "is_correct": false,
+          "feedback": "En este caso trazo y escena coinciden, y no se establece una contradicción entre ellos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En el lenguaje gráfico hay una relación de correspondencia: cada trazo evoca una idea. Cuando el estilo de la línea se vuelve nervioso, esa forma comunica tanto en el dibujo como lo haría la descripción de la mano temblorosa. Reconocer esa relación es lo que permite leer el trazo como información narrativa y no como simple técnica de dibujo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semantico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W24-la-narrativa-visual-y-el-lenguaje-grafico-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W24-la-narrativa-visual-y-el-lenguaje-grafico-001-MASTERY-bundle-v8",
+      "statement": "¿Sobre qué base puede sostenerse esa afirmación?",
+      "context": "En una historieta compartida por estudiantes de Pereira, un lector afirma que la viñeta final deja la historia sin cierre.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sobre la base de que toda historieta debe terminar con un cartucho que anuncie el final.",
+          "is_correct": false,
+          "feedback": "No existe la obligación de cerrar con un cartucho explicativo."
+        },
+        {
+          "letter": "B",
+          "text": "Sobre la base de que la última viñeta es la única que puede contener un dibujo.",
+          "is_correct": false,
+          "feedback": "Todas las viñetas pueden contener dibujos, incluida la última."
+        },
+        {
+          "letter": "C",
+          "text": "Sobre la base de que la viñeta final no resuelve el conflicto que las viñetas anteriores habían planteado.",
+          "is_correct": true,
+          "feedback": "La sensación de historia abierta proviene de un conflicto sin resolver, no de la forma de la viñeta."
+        },
+        {
+          "letter": "D",
+          "text": "Sobre la base de que el autor no incluyó los nombres de los personajes en el último dibujo.",
+          "is_correct": false,
+          "feedback": "Los nombres de los personajes no determinan el cierre del relato."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar el cierre de una historieta es mirar la resolución del conflicto, no la presencia de un recurso formal. Una historia abierta deja preguntas sin contestar a propósito, y esa decisión puede ser válida. Lo que hay que verificar es si el desenlace responde o no a lo que el relato había planteado.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W24-la-narrativa-visual-y-el-lenguaje-grafico-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W24-la-narrativa-visual-y-el-lenguaje-grafico-001-MASTERY-bundle-v9",
+      "statement": "¿Qué efecto pragmático tiene la diferencia entre las dos propuestas?",
+      "context": "En una campaña de lectura de Bucaramanga se comparan dos historietas: una de un solo color y otra que usa el color para distinguir los momentos del pasado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ninguno, porque el color no comunica nada en una historieta.",
+          "is_correct": false,
+          "feedback": "El color sí comunica: separa momentos, marca tonos y guía la lectura."
+        },
+        {
+          "letter": "B",
+          "text": "La primera obliga a leer el tiempo del relato, mientras la segunda usa el color como apoyo de la estructura.",
+          "is_correct": true,
+          "feedback": "Cuando el color acompaña una distinción temporal, deja de ser decorativo y pasa a ser un recurso narrativo."
+        },
+        {
+          "letter": "C",
+          "text": "La primera es mejor, porque el blanco y negro es la única forma artística válida.",
+          "is_correct": false,
+          "feedback": "No existe una única forma artística válida en la historieta."
+        },
+        {
+          "letter": "D",
+          "text": "La segunda impide entender la historia, porque el color siempre confunde al lector.",
+          "is_correct": false,
+          "feedback": "Un uso coherente del color ordena la lectura en lugar de impedirla."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El color cumple una función comunicativa cuando se usa con regularidad. Si un mismo color identifica siempre un pasado o un espacio, el lector aprende la convención y la aplica sin esfuerzo. En cambio, si el color cambia sin criterio, la lectura se vuelve confusa.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W24-la-narrativa-visual-y-el-lenguaje-grafico-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W24-la-narrativa-visual-y-el-lenguaje-grafico-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál de los siguientes enunciados evalúa mejor los dos trabajos?",
+      "context": "Un juez de un concurso nacional de historietas en Cali se enfrenta a dos trabajos: uno con dibujos detallados y poco texto, y otro con mucho texto y dibujos muy simples.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambos trabajos son igualmente buenos, porque cualquier combinación de imagen y texto sirve.",
+          "is_correct": false,
+          "feedback": "No toda combinación sirve: hay que comprobar si la información se distribuye bien."
+        },
+        {
+          "letter": "B",
+          "text": "El segundo trabajo es mejor, porque la cantidad de texto garantiza la comprensión.",
+          "is_correct": false,
+          "feedback": "La cantidad de texto no garantiza la comprensión y puede incluso dificultarla."
+        },
+        {
+          "letter": "C",
+          "text": "La calidad depende de si cada viñeta comunica una idea clara con apoyo visual, y no de la cantidad de texto ni de detalles.",
+          "is_correct": true,
+          "feedback": "El criterio pertinente es la claridad de la comunicación en cada viñeta, no el volumen del material."
+        },
+        {
+          "letter": "D",
+          "text": "El primer trabajo es mejor, porque en la historieta el texto nunca es necesario.",
+          "is_correct": false,
+          "feedback": "El texto cumple funciones narrativas; lo que se evalúa es su relación con el dibujo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un juez necesita un criterio que se aplique igual a los dos trabajos. El número de palabras o de detalles no permite hacerlo, porque ninguno de esos datos dice si la lectura funciona. La pregunta útil es si cada viñeta transmite una idea clara apoyada en su dibujo y en su texto.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W24-la-narrativa-visual-y-el-lenguaje-grafico-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W24-la-narrativa-visual-y-el-lenguaje-grafico-001-MASTERY-bundle-v11",
+      "statement": "¿Qué capacidad se desarrolla al escribir esa historieta y qué trabajo exige?",
+      "context": "En un clase de Bogotá, la docente proyecta una historieta que retoma un personaje de la obra de Andrés Bello, y pide a los estudiantes valorar el recurso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se desarrolla la capacidad de calcar, porque basta con copiar los dibujos del texto original.",
+          "is_correct": false,
+          "feedback": "Copiar no es crear: la historieta exige construir imágenes propias."
+        },
+        {
+          "letter": "B",
+          "text": "Se desarrolla la capacidad de inventar una obra sin relación con el texto de partida.",
+          "is_correct": false,
+          "feedback": "La relación con el texto de partida es justamente lo que hace posible la adaptación."
+        },
+        {
+          "letter": "C",
+          "text": "Se desarrolla la capacidad de adaptar información de un texto a otro género, lo que exige decidir qué se conserva y qué se transforma.",
+          "is_correct": true,
+          "feedback": "Toda adaptación supone selección: no todo puede trasladarse igual de un género a otro."
+        },
+        {
+          "letter": "D",
+          "text": "Se desarrolla la capacidad de resumir, porque la historieta siempre cuenta la misma historia en menos palabras.",
+          "is_correct": false,
+          "feedback": "Adaptar a la historieta exige cambiar la forma de contar, no solo reducir el volumen."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La historieta es un género que permite transformar la información. Tomar un texto de otro género y volverlo viñeta obliga a decidir qué momentos se conservan, cuáles se adaptan y cuáles se descartan. Ese trabajo de selección y de transformación es lo que convierte la historieta en una reinterpretación y no en un calco.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Critico-Intertextual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W24-la-narrativa-visual-y-el-lenguaje-grafico-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W24-la-narrativa-visual-y-el-lenguaje-grafico-001-MASTERY-bundle-v12",
+      "statement": "¿Cómo debe evaluar un lector informado esa afirmación?",
+      "context": "En un proyecto escolar de Armenia, un equipo afirma que su historieta comunica un mensaje mucho mejor que un artículo, porque tiene dibujos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Como verdadera, porque el dibujo siempre comunica mejor que la palabra escrita.",
+          "is_correct": false,
+          "feedback": "Ningún género es siempre superior; la eficacia depende del propósito y del público."
+        },
+        {
+          "letter": "B",
+          "text": "Como falsa, porque la historieta no puede transmitir ningún mensaje ideológico.",
+          "is_correct": false,
+          "feedback": "La historieta sí puede transmitir mensajes y opiniones a través de sus personajes y sus escenas."
+        },
+        {
+          "letter": "C",
+          "text": "Como válida, porque la historieta siempre tiene menos texto que el artículo.",
+          "is_correct": false,
+          "feedback": "La diferencia de longitud no determina por sí sola la eficacia comunicativa."
+        },
+        {
+          "letter": "D",
+          "text": "Como una comparación incompleta, porque hay que preguntar a qué público, con qué propósito y con qué tipo de mensaje.",
+          "is_correct": true,
+          "feedback": "Evaluar dos géneros exige definir las condiciones de la comparación antes de pronunciarse."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Comparar dos géneros exige precisar las condiciones de la comparación. Un mismo mensaje puede funcionar mejor en un género o en otro según quién lo recibe, cuál es la intención y cuánta información debe procesarse. Sin esas precisiones, la afirmación solo expresa una preferencia y no una valoración razonada.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W24-la-narrativa-visual-y-el-lenguaje-grafico-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}
