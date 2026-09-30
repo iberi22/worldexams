@@ -165,6 +165,27 @@ Los 2 residuales de Colombia son `Calculó 7!.` y `Calculó 4!.` — feedback re
 
 ## 8. Evidencia
 
+### 8.1 Verificación ad-hoc de las decisiones destructivas
+
+Borrar 109 bundles y 306 packs es irreversible en la práctica (se pierde trabajo de agentes), así que cada afirmación se revalidó **contra el validador del repo**, que es la fuente de verdad, y no contra el clasificador Python que motivó el borrado.
+
+```bash
+python3 ~/.hermes/cache/scratch/hermes-verify-feedback-cleanup.py
+```
+
+| Check | Resultado |
+|---|---|
+| **A.** Los 109 bundles borrados son rechazados por el validador actual | **109/109** |
+| **B.** Bundles sobrevivientes que fallan validación | 645 (deuda legacy, esperada) |
+| **C.** Packs borrados que contienen IDs de preguntas que un bundle vivo aún produce | **0/306** |
+| **D.** Packs sobrevivientes que todavía sirven un ID retirado | **0** |
+
+Los checks A, C y D son los que importan: **A** confirma que no se borró trabajo bueno, **C** que no se retiró un pack ajeno, y **D** que la API ya no puede servir lo retirado. El harness deja el árbol limpio y materializa las copias temporal dentro de `questions_data/` porque el validador ignora rutas fuera de ahí.
+
+Esta verificación es **ad-hoc, no una suite del proyecto**: es un script de un solo uso, instalado en scratch, que existe para auditar esta decisión concreta. La evidencia de suite es la de la sección 8.2.
+
+### 8.2 Suites del proyecto
+
 ```bash
 # Gate y sus tests
 node scripts/test-feedback-gate.mjs
