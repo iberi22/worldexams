@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-34-grade-4-subject-lectura_critica",
+    "generated_at": "2026-09-30T10:20:02.589Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-4-2026-W34-los-poemas-infantiles-y-su-ritmo-001-MASTERY-bundle-v1",
+      "statement": "Lee con atención el poema que la profesora escribió en la pizarra.\n\n*\"La lluvia cae sin prisa, / la lluvia cae sin ruido, / la lluvia salta de teja en teja, / y el patio se vuelve verde.\"*\n\nSegún el poema, ¿qué hace la lluvia?",
+      "context": "En la clase de cuarto de Montería, la profesora escribe un poema infantil en la pizarra.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sale corriendo y hace mucho ruido",
+          "is_correct": false,
+          "feedback": "Incorrecto. El poema dice que cae sin prisa y sin ruido, así que las dos ideas de esta opción están al revés."
+        },
+        {
+          "letter": "B",
+          "text": "Espera a que salga el sol para poder caer",
+          "is_correct": false,
+          "feedback": "Incorrecto. El poema nunca menciona el sol, y describe la lluvia mientras cae, sin hablar de ningún momento del día."
+        },
+        {
+          "letter": "C",
+          "text": "Cae despacio, salta de teja en teja y deja el patio verde",
+          "is_correct": true,
+          "feedback": "Correcto. Los cuatro versos dicen que cae sin prisa, que salta de teja en teja y que el patio se vuelve verde."
+        },
+        {
+          "letter": "D",
+          "text": "Golpea todas las ventanas de la casa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las ventanas aparecen en otro poema, y este solo habla de la lluvia, el patio y las tejas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Leer un poema de forma literal es responder solo con lo que los versos escriben, sin inventar escenas que el autor nunca imaginó. Reconocer los verbos, como cae y salta, ayuda a los niños a ver la acción que el poema describe. Esa disciplina les sirve para todo tipo de texto y también para entender mejor lo que el autor quiso dibujar.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Literal",
+      "expected_success": 0.93,
+      "bundle_id": "CO-LC-4-2026-W34-los-poemas-infantiles-y-su-ritmo-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W34-los-poemas-infantiles-y-su-ritmo-001-MASTERY-bundle-v2",
+      "statement": "Lee el verso que aparece en la pizarra del salón.\n\n*\"Verso: \"Sobre el río anda dormido / un barco de papel azul, / navega, navega, navega / sin ayuda de nadie\".\"*\n\n¿Qué quiere decir el autor con que el barco de papel navega sin ayuda de nadie?",
+      "context": "En un taller de lectura de cuarto de Manizales, los niños descubren el sentido de una palabra dentro de un poema.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el barco avanza solito, llevado por el agua, sin que nadie lo empuje",
+          "is_correct": true,
+          "feedback": "Correcto. La palabra ayuda se entiende gracias a navega repetido tres veces, que muestra que el barco sí se mueve sin que nadie lo lleve."
+        },
+        {
+          "letter": "B",
+          "text": "Que el barco de papel necesita un marinero grande que lo empuje desde la orilla",
+          "is_correct": false,
+          "feedback": "Incorrecto. El verso dice justamente que el barco navega sin ayuda de nadie, y por eso no menciona a ningún marinero."
+        },
+        {
+          "letter": "C",
+          "text": "Que el barco está tan solo que nadie lo puede ver",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sin ayuda se refiere a que nadie lo lleva, y el verso no dice que el barco esté oculto ni que no se pueda ver."
+        },
+        {
+          "letter": "D",
+          "text": "Que el río está tan quieto que el barco no se mueve",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si el río estuviera quieto el barco no avanzaría, y el verso dice tres veces que navega, que es justamente avanzar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Entender una palabra dentro de un poema es usarla junto a las palabras vecinas y no como un diccionario suelto. Aquí sin ayuda de nadie se entiende gracias a navega, que aparece repetido y muestra que el barco sí se mueve. Esa manera de leer el sentido enseña a los niños a disfrutar la poesía sin necesitar que todo esté explicado.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-4-2026-W34-los-poemas-infantiles-y-su-ritmo-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W34-los-poemas-infantiles-y-su-ritmo-001-MASTERY-bundle-v3",
+      "statement": "Lee el poema que los niños de cuarto están armando.\n\n*\"Poema: \"Yo voy temprano al colegio, / con la ________, / ______________ , / y saludo a la profesora. / Voy temprano al colegio, / con la ________, / y me siento a jugar\".\"*\n\n¿Qué palabra completa mejor el verso que está en blanco?",
+      "context": "En el aula de cuarto de Florencia, los niños deben completar un poema escrito en la pizarra.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La palabra \"medalla\", porque suena parecida a las otras del poema",
+          "is_correct": false,
+          "feedback": "Incorrecto. Puede sonar parecida, y una palabra que solo suena igual no dice nada en un poema de un niño que va al colegio."
+        },
+        {
+          "letter": "B",
+          "text": "La palabra \"galleta\", porque el poema habla de comida",
+          "is_correct": false,
+          "feedback": "Incorrecto. El poema no menciona ninguna comida, y nada en los otros versos pide una galleta."
+        },
+        {
+          "letter": "C",
+          "text": "La palabra \"mochila\", porque el niño lleva sus cosas al colegio",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es posible que lleve una mochila, y esa palabra no encaja con el número de sílabas que pide el verso."
+        },
+        {
+          "letter": "D",
+          "text": "La palabra \"sonrisa\", porque mantiene el número de sílabas del verso y sigue con la idea de saludar",
+          "is_correct": true,
+          "feedback": "Correcto. La sonrisa tiene la medida que pide el verso, y además conecta con el verso final que habla de saludar a la profesora."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Completar un poema es buscar la palabra que sirve por su significado y por su medida. Los versos no son líneas de prosa, y por eso la cantidad de sílabas importa tanto como lo que la palabra significa. Enseñar a los niños a medir versos les da la llave para poder escribir sus propios poemas más adelante.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.86,
+      "bundle_id": "CO-LC-4-2026-W34-los-poemas-infantiles-y-su-ritmo-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W34-los-poemas-infantiles-y-su-ritmo-001-MASTERY-bundle-v4",
+      "statement": "Lee las dos versiones de un mismo verso infantil.\n\n*\"Versión 1: \"Canta, canta, mi casita, / canta, canta sin parar\". Versión 2: \"Mi casita canta, canta, / casa, casa, sin parar\".\"*\n\n¿Qué tiene la versión 2 que no tiene la versión 1?",
+      "context": "En la clase de cuarto de Arauca, la profesora pide comparar dos versiones de un mismo poema.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un verbo nuevo que la versión 1 no usa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las dos versiones usan el mismo verbo canta, y en la segunda la palabra se repite porque el orden del verso cambió."
+        },
+        {
+          "letter": "B",
+          "text": "Un sonido final que se repite en las dos palabras del verso, y por eso la rima es más cerrada",
+          "is_correct": true,
+          "feedback": "Correcto. Casita y parar ya se acercaban, y en la versión 2 las dos palabras terminan con el mismo sonido y forman una rima plena."
+        },
+        {
+          "letter": "C",
+          "text": "Menos sílabas que la versión 1, y por eso se lee más rápido",
+          "is_correct": false,
+          "feedback": "Incorrecto. La versión 2 tiene el mismo número de sílabas que la primera, y lo que cambia es el orden de las palabras."
+        },
+        {
+          "letter": "D",
+          "text": "Un sentido nuevo, porque deja de decir de quién es la casita",
+          "is_correct": false,
+          "feedback": "Incorrecto. La versión 2 sigue hablando de la casita, y aunque cambia el orden de las palabras, el sentido se mantiene."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comparar dos versiones de un mismo poema es ver que cambiar el orden de las palabras puede cambiar la música y la rima. Cuando dos palabras terminan con el mismo sonido, el oído las reconoce como pareja y el poema fluye mejor. Ejercitar el oído con estas comparaciones enseña a los niños a revisar sus propios textos con más cuidado.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.83,
+      "bundle_id": "CO-LC-4-2026-W34-los-poemas-infantiles-y-su-ritmo-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W34-los-poemas-infantiles-y-su-ritmo-001-MASTERY-bundle-v5",
+      "statement": "Lee la primera parte de un poema infantil escrito por un niño de cuarto de Ibagué.\n\n*\"Yo te canto, yo te digo, / que la vida tiene un día. / Y te lo vuelvo a decir, / que la vida tiene un día.\"*\n\n¿Qué busca el autor al repetir la idea central del poema?",
+      "context": "En un trabajo en grupo de cuarto de Ibagué, los estudiantes analizan por qué el autor repite un verso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Avisar que la vida dura poco, porque el autor dice que tiene un día",
+          "is_correct": false,
+          "feedback": "Incorrecto. El autor no habla de que la vida dure poco, y el poema no contiene ningún aviso sobre la duración de la vida."
+        },
+        {
+          "letter": "B",
+          "text": "Contar la historia completa de su vida en cuatro versos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El poema no narra ninguna historia, y su contenido se reduce a una misma idea expresada de dos formas."
+        },
+        {
+          "letter": "C",
+          "text": "Grabar la idea en la memoria del lector, porque el oído retiene mejor lo que se repite",
+          "is_correct": true,
+          "feedback": "Correcto. Al volver a decir lo mismo con otras palabras, el autor asegura que el lector no olvide el mensaje del poema."
+        },
+        {
+          "letter": "D",
+          "text": "Dejar el poema en una advertencia triste",
+          "is_correct": false,
+          "feedback": "Incorrecto. El poema no es una advertencia triste, y la repetición sirve para fijar la idea y no para dejar al lector preocupado."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Analizar la forma de un poema es preguntarse por qué el autor elige repetir lo que dice. La repetición tiene una función concreta: hacer que la idea se grabe en el oído y en la memoria. Entender esa intención enseña a los niños a usar la repetición con propósito y no por descuido.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-4-2026-W34-los-poemas-infantiles-y-su-ritmo-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W34-los-poemas-infantiles-y-su-ritmo-001-MASTERY-bundle-v6",
+      "statement": "Lee los dos textos que hablan de la lluvia en dos estilos distintos.\n\n*\"Texto 1: \"La lluvia cae en las tejas, / golpea todas las ventanas, / y la ciudad se vuelve gris, / y la ciudad se despierta\". Texto 2: \"Hoy llovió toda la mañana en Bucaramanga, y por eso no salimos a jugar al parque\".*\n\n¿Cuál es la diferencia más importante entre los dos textos?",
+      "context": "En el aula de cuarto de Quibdó, la profesora pide comparar dos textos sobre la lluvia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El texto 1 usa imágenes y repeticiones para hacer sentir la lluvia, y el texto 2 solo informa el hecho",
+          "is_correct": true,
+          "feedback": "Correcto. El texto 1 junta imágenes y repite, y el texto 2 se limita a contar que llovió en la mañana."
+        },
+        {
+          "letter": "B",
+          "text": "El texto 2 es el único que usa versos, y el texto 1 es solo una descripción",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los dos textos usan la misma cantidad de versos, y por eso la diferencia no está en la forma sino en el contenido."
+        },
+        {
+          "letter": "C",
+          "text": "El texto 1 cuenta un hecho que pasó, y el texto 2 solo dice cómo se ve el cielo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto 1 es el que pinta una escena con imágenes, y el texto 2 es el que cuenta lo que pasó en la mañana."
+        },
+        {
+          "letter": "D",
+          "text": "Los dos textos dicen que la ciudad se despertó temprano",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo el texto 1 dice que la ciudad se despierta, y el texto 2 no habla de ningún despertar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar la diferencia entre un poema y una nota informativa es reconocer que el poema no solo informa, también hace sentir. Las imágenes y las repeticiones hacen que el lector sienta la lluvia, y esa es la diferencia que se busca en un texto poético. Reconocerlo enseña a los niños a aprender sin que la información se vuelva aburrida.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LC-4-2026-W34-los-poemas-infantiles-y-su-ritmo-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W34-los-poemas-infantiles-y-su-ritmo-001-MASTERY-bundle-v7",
+      "statement": "Un compañero de tu grupo afirma lo siguiente.\n\n*\"Mi poema es el mejor de todos, porque lo escribí yo solo, sin que nadie me ayudara. Que sea bonito o no, eso no importa, lo importante es que lo hice yo.\"*\n\n¿Cuál es la respuesta más sólida que puede darle el grupo a esa afirmación?",
+      "context": "En la reunión de aula de un colegio de Pereira, un compañero de tu grupo defiende un poema que escribió.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La afirmación es correcta, porque escribir solo siempre produce un mejor poema",
+          "is_correct": false,
+          "feedback": "Incorrecto. Escribir solo puede ser una buena experiencia, y esa razón no dice nada sobre si el poema quedó bien escrito."
+        },
+        {
+          "letter": "B",
+          "text": "La afirmación es incorrecta, porque un poema siempre necesita la ayuda de un adulto",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los niños pueden escribir solos sus poemas, y lo importante es el resultado del texto y no quién lo acompañe."
+        },
+        {
+          "letter": "C",
+          "text": "La afirmación es incorrecta, porque los mejores poemas siempre son los más largos",
+          "is_correct": false,
+          "feedback": "Incorrecto. La longitud no define la calidad de un poema, y un poema corto puede estar bien construido y ser muy expresivo."
+        },
+        {
+          "letter": "D",
+          "text": "La afirmación es incorrecta, porque lo que hace bueno un poema es su ritmo y sus imágenes, no quién lo escribió",
+          "is_correct": true,
+          "feedback": "Correcto. El valor de un poema está en cómo suena y en lo que evoca, y no en que su autor lo haya hecho sin compañía."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar un poema propio es ponerlo a prueba con criterios que no tengan que ver con quién lo escribió. Un texto poético se mide por su ritmo, por sus imágenes y por lo que deja en el lector. Practicar esa evaluación enseña a los niños a valorar el trabajo de sus compañeros con justicia y con respeto.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LC-4-2026-W34-los-poemas-infantiles-y-su-ritmo-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W34-los-poemas-infantiles-y-su-ritmo-001-MASTERY-bundle-v8",
+      "statement": "Los cuatro grupos escribieron una versión de un poema sobre la playa de Santa Marta.\n\n*\"Grupo 1: \"La playa es bonita\". Grupo 2: \"Hoy el mar brilla, / la arena canta, / y el sol se acuesta\". Grupo 3: \"En la playa hace calor, hay arena, hay mar y hay personas\". Grupo 4: \"La arena, la ola, el sol, / el mar y las palmeras, / todo se mezcla y brilla en la orilla\".*\n\n¿Cuál de las cuatro versiones es la más sólida como poema infantil?",
+      "context": "Como tarea final, los grupos de cuarto de Santa Marta deben escribir un poema infantil sobre la playa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La del grupo 1, porque un poema debe ser corto y decir una sola cosa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un poema es corto, y el grupo 1 no tiene versos, ni ritmo, ni ninguna imagen que lo convierta en poema."
+        },
+        {
+          "letter": "B",
+          "text": "La del grupo 4, porque usa imágenes, mantiene el ritmo y deja ver una escena completa",
+          "is_correct": true,
+          "feedback": "Correcto. Esa versión muestra una escena con varios elementos, y además las palabras se parecen entre sí y marcan el ritmo."
+        },
+        {
+          "letter": "C",
+          "text": "La del grupo 2, porque sus palabras son tan extrañas que nadie las entiende",
+          "is_correct": false,
+          "feedback": "Incorrecto. En el grupo 2 las palabras son del español de todos los días, y un poema no se hace mejor por usar palabras raras."
+        },
+        {
+          "letter": "D",
+          "text": "La del grupo 3, porque enumera con claridad todos los elementos de la playa",
+          "is_correct": false,
+          "feedback": "Incorrecto. El grupo 3 es una lista informativa, y en un poema las imágenes tienen que decir algo más que nombrar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comparar cuatro versiones de un mismo poema enseña a ver qué tiene que tener un poema para estar bien construido. Necesita imágenes que se puedan ver, una escena completa y un ritmo que permita leerlo en voz alta. Practicar estos criterios permite a los niños escribir poesía con intención y con orgullo.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-4-2026-W34-los-poemas-infantiles-y-su-ritmo-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    }
+  ]
+}
