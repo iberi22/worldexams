@@ -1,0 +1,200 @@
+---
+id: "CO-LC-3-2026-W37-las-anecotas-y-el-humor-en-los-textos-001-MASTERY-bundle"
+country: "colombia"
+grado: 3
+asignatura: "lectura_critica"
+tema: "las-anecdotas-y-el-humor-en-los-textos"
+periodo: "weekly"
+week: "W37"
+year: 2026
+bundle_type: "weekly"
+protocol_version: "5.2"
+total_questions: 8
+bundle_size: 8
+alignment: "DBA MEN Colombia"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
+---
+
+# MASTERY Bundle - Lectura Crítica: Las Anécdotas y el Humor en los Textos Cortos (W37)
+**8 preguntas | Lectura Crítica | DBA MEN Colombia**
+
+---
+## Question 1 [D3-D4]
+**ID:** CO-LC-3-2026-W37-las-anecotas-y-el-humor-en-los-textos-001-MASTERY-bundle-v1
+**Bloom:** Remember
+**ICFES:** Semántico
+**Expected_Success:** 0.85
+**Contexto:** En la clase de lectura de Medellín, Camila leyó un texto muy corto: "Ayer llegué tarde al colegio porque un perro me persiguió por todo el barrio y cuando por fin me soltó, ya había perdido el recreo". Sus compañeros rieron y ella dijo que esa historia era una anécdota.
+
+### Enunciado
+¿Qué es una anécdota dentro de un texto corto?
+
+### Opciones
+- [ ] A) Una lista ordenada de pasos para preparar un alimento.
+  <!-- feedback: Incorrecto. Los pasos ordenados corresponden a un texto instructivo, no a una anécdota. -->
+- [x] B) Un relato breve que cuenta algo que le ocurrió a una persona o a un personaje, con frecuencia de humor.
+  <!-- feedback: ¡Correcto! La anécdota es un relato corto sobre un suceso concreto, real o inventado. -->
+- [ ] C) Una descripción larga de un paisaje sin personajes ni acontecimientos.
+  <!-- feedback: Incorrecto. La anécdota siempre incluye un suceso y alguien que lo vive, aunque sea breve. -->
+- [ ] D) Un diálogo largo entre dos personajes que nunca llega a un final.
+  <!-- feedback: Incorrecto. La anécdota es breve y sí tiene un cierre; no es un diálogo extenso. -->
+### Explicacion Pedagogica
+La anécdota es la forma más corta del relato: cuenta un solo suceso y lo narra en pocas líneas. En los textos de lectura infantil suele aparecer con humor, porque permite provocar la risa contando algo cotidiano de forma inesperada.
+---
+## Question 2 [D3-D4]
+**ID:** CO-LC-3-2026-W37-las-anecotas-y-el-humor-en-los-textos-001-MASTERY-bundle-v2
+**Bloom:** Understand
+**ICFES:** Textual
+**Expected_Success:** 0.85
+**Contexto:** Andrés hace reír a sus compañeros de Bogotá con esta frase sobre su abuela: "Dice que cuando era niño se comió una arepa tan grande que durante toda la semana tuvo que cargar el plato en la mano". Todos en el salón saben que ninguna arepa real dura siete días en la mano.
+
+### Enunciado
+¿Qué recurso del humor se reconoce en la frase "tuvo que cargar el plato en la mano durante toda la semana"?
+
+### Opciones
+- [ ] A) La descripción detallada del sabor de la arepa.
+  <!-- feedback: Incorrecto. La frase no habla de sabor, sino de un tamaño y una duración inverosímiles. -->
+- [ ] B) El consejo para preparar una arepa grande con más masa.
+  <!-- feedback: Incorrecto. No hay ninguna indicación para cocinar; la frase solo narra, no enseña. -->
+- [x] C) La exageración, porque una arepa tan grande no podría sostenerse así durante siete días.
+  <!-- feedback: ¡Correcto! La exageración aumenta desmedidamente un detalle para provocar la risa. -->
+- [ ] D) La comparación entre la abuela y un perro.
+  <!-- feedback: Incorrecto. No hay ningún animal ni comparación explícita en la frase. -->
+### Explicacion Pedagogica
+La hipérbole o exageración es uno de los recursos más usados en el humor: se agranda un rasgo más allá de lo posible y ese despropósito genera la risa. Reconocerla permite entender por qué en muchos textos humorísticos aparece una frase que "no puede ser cierta" y sin embargo resulta divertida.
+---
+## Question 3 [D5-D6]
+**ID:** CO-LC-3-2026-W37-las-anecotas-y-el-humor-en-los-textos-001-MASTERY-bundle-v3
+**Bloom:** Apply
+**ICFES:** Pragmático
+**Expected_Success:** 0.80
+**Contexto:** En el mercado de Bogotá le preguntaron a Don Efraín, panadero de toda la vida, si le gustaba el sonido de su despertador, que suena a las cuatro de la mañana. Don Efraín respondió muy serio: "¡Oh, es la melodía más hermosa que he escuchado! Cada mañana me hace saltar de la cama con una alegría enorme". Los vecinos que lo conocían empezaron a reír.
+
+### Enunciado
+¿Qué tipo de humor se reconoce en la respuesta de Don Efraín sobre su despertador?
+
+### Opciones
+- [x] A) Ironía, porque dice que la melodía es hermosa cuando en realidad el despertador le obliga a trabajar desde las cuatro de la mañana.
+  <!-- feedback: ¡Correcto! La ironía se produce cuando se afirma lo contrario de lo que realmente se piensa. -->
+- [ ] B) Una descripción literal y seria de la música del despertador.
+  <!-- feedback: Incorrecto. El efecto no está en la descripción, sino en el contraste con lo que Efraín piensa realmente. -->
+- [ ] C) Una exageración a favor de la música de los despertadores.
+  <!-- feedback: Incorrecto. La exageración que se describe en esa opción no explica la reacción de los vecinos. -->
+- [ ] D) Una instrucción para silenciar el despertador de la panadería.
+  <!-- feedback: Incorrecto. La respuesta no da ninguna indicación; es una reacción hablada, no una instrucción. -->
+### Explicacion Pedagogica
+La ironía se construye diciendo algo distinto de lo que se piensa, y el lector la descifra por el contexto. Este tipo de humor depende de la información adicional que el texto ofrece, por lo que exige una lectura atenta, no solo la palabra aislada.
+---
+## Question 4 [D5-D6]
+**ID:** CO-LC-3-2026-W37-las-anecotas-y-el-humor-en-los-textos-001-MASTERY-bundle-v4
+**Bloom:** Apply
+**ICFES:** Pragmático
+**Expected_Success:** 0.80
+**Contexto:** Laura y su amiga ensayaban para el concurso de lectura de tercero en Cali. Laura dijo con mucha seguridad: "Yo ensayé un millón de veces, seguro voy a ganar". Su amiga, en cambio, solo ensayó veinte minutos. Cuando llegó el turno de Laura, se quedó en blanco y no pudo decir la primera línea de la poesía. Esa noche, Laura le contó lo ocurrido a su amiga y las dos se rieron.
+
+### Enunciado
+¿Cuál es la mejor explicación de por qué esta anécdota produce humor?
+
+### Opciones
+- [ ] A) Porque repetir muchas veces siempre hace que alguien olvide lo que iba a decir.
+  <!-- feedback: Incorrecto. La anécdota no demuestra eso; la moraleja es que estudiar sin atención no garantiza nada. -->
+- [ ] B) Porque la poesía que eligieron era demasiado corta y no daba tiempo para ensayar.
+  <!-- feedback: Incorrecto. El texto no dice nada sobre la extensión de la poesía. -->
+- [ ] C) Porque la amiga se burló de Laura delante de todo el público del concurso.
+  <!-- feedback: Incorrecto. La historia no cuenta ninguna burla; el remate es el tropiezo de la propia Laura. -->
+- [x] D) Porque la exageración de Laura choca con el resultado real: después de tantas repeticiones, olvidó la poesía.
+  <!-- feedback: ¡Correcto! El humor nace del contraste entre lo que se dice y lo que realmente pasó. -->
+### Explicacion Pedagogica
+El humor de una anécdota suele apoyarse en un remate: un desenlace que contradice lo que el lector esperaba. Cuando el remate es inesperado, coherente con los hechos y narrado con pocas palabras, el efecto cómico resulta más fuerte.
+---
+## Question 5 [D7-D8]
+**ID:** CO-LC-3-2026-W37-las-anecotas-y-el-humor-en-los-textos-001-MASTERY-bundle-v5
+**Bloom:** Analyze
+**ICFES:** Discursivo
+**Expected_Success:** 0.75
+**Contexto:** Una anécdota de Bogotá empieza con una pregunta: "Le pregunté a mi abuelo de los Llanos qué consejo me daba para mejorar en el juego de tejo". Él responde: "Deja de tirar tan fuerte. Ese es todo el consejo". La historia continúa: el niño siguió con la misma fuerza y volvió a perder todas las partidas. La anécdota termina con la frase: "El juego se llama tejo, pero el abuelo me ganó a mí".
+
+### Enunciado
+¿Qué elementos de la organización de esta anécdota hacen que funcione como un texto humorístico corto?
+
+### Opciones
+- [ ] A) Usa solamente cifras y datos numéricos para demostrar una regla del tejo.
+  <!-- feedback: Incorrecto. No aparecen datos numéricos; el efecto se sostiene en el relato. -->
+- [x] B) Plantea una situación cotidiana, incluye un diálogo breve y cierra con un remate inesperado que invierte el sentido del consejo.
+  <!-- feedback: ¡Correcto! La estructura de situación, diálogo y remate es la base discursiva del chiste escrito. -->
+- [ ] C) Narra varios capítulos con descripciones largas de la plaza de tejo.
+  <!-- feedback: Incorrecto. Una anécdota es breve y no se divide en capítulos. -->
+- [ ] D) Termina con la definición técnica de los tipos de tejo existentes en el Llano.
+  <!-- feedback: Incorrecto. El cierre es un remate divertido, no una definición. -->
+### Explicacion Pedagogica
+El chiste escrito suele organizarse en tres movimientos: planta una situación conocida, introduce una expectativa y la resuelve con un remate que la subvierte. Analizar esta arquitectura revela cómo el autor controla la risa del lector paso a paso.
+---
+## Question 6 [D7-D8]
+**ID:** CO-LC-3-2026-W37-las-anecotas-y-el-humor-en-los-textos-001-MASTERY-bundle-v6
+**Bloom:** Analyze
+**ICFES:** Sintáctico
+**Expected_Success:** 0.75
+**Contexto:** En una anécdota contada en Soacha, Samuel llegó tarde a la clase de Arte, abrió la puerta y vio a todos los compañeros volteados hacia él. Entonces gritó a todo pulmón: "¡Ese, ese, ese es mi cuaderno de matemáticas! ¿Quién se lo cogió?". Nadie lo había tocado; él había dejado el cuaderno en la casa. Toda la clase se echó a reír.
+
+### Enunciado
+¿Qué recursos del lenguaje hacen que la frase de Samuel produzca risa en la anécdota?
+
+### Opciones
+- [ ] A) El uso del modo imperativo para dar órdenes a la clase.
+  <!-- feedback: Incorrecto. Hay una pregunta y una exclamación, pero ninguna orden dirigida a otros. -->
+- [ ] B) El uso de oraciones largas y con muchas ideas secundarias.
+  <!-- feedback: Incorrecto. La frase es breve; su comicidad no depende de la longitud. -->
+- [ ] C) La descripción técnica de los cuadernos escolares y de sus pastas.
+  <!-- feedback: Incorrecto. El texto no describe los cuadernos, se limita a nombrarlos dentro de la exclamación. -->
+- [x] D) La repetición de palabras y los signos de exclamación, que transmiten urgencia, sorpresa y tono dramático.
+  <!-- feedback: ¡Correcto! Los recursos fónicos y gráficos exageran la reacción y amplifican el efecto humorístico. -->
+### Explicacion Pedagogica
+El humor también se construye con recursos lingüísticos: la repetición marca la urgencia, la exclamación impone un tono dramático y la pausa entre repeticiones tensa al lector. Estos recursos verbales, fónicos y gráficos se combinan con el contenido para hacer la risa más efectiva.
+---
+## Question 7 [D9-D10]
+**ID:** CO-LC-3-2026-W37-las-anecotas-y-el-humor-en-los-textos-001-MASTERY-bundle-v7
+**Bloom:** Evaluate
+**ICFES:** Crítico-Intertextual
+**Expected_Success:** 0.70
+**Contexto:** Un libro de lectura de Bogotá cuenta el mismo suceso en dos versiones. Versión 1: "Un niño se perdió en un centro comercial y su mamá lo encontró muy rápido". Versión 2: "Un niño se perdió en un centro comercial, se metió en todas las vitrinas, fue tomado por ladrón y terminó durmiendo en una carrija de bebé mientras un guardia lo buscaba".
+
+### Enunciado
+¿Cuál de las dos versiones es la más adecuada como texto de humor y por qué?
+
+### Opciones
+- [x] A) La versión 2, porque la exageración de los detalles convierte un suceso cualquiera en un relato divertido.
+  <!-- feedback: ¡Correcto! Comparar versiones permite valorar cómo la exageración y el remate construyen el efecto humorístico. -->
+- [ ] B) La versión 1, porque sus hechos son más precisos y por eso entretienen más.
+  <!-- feedback: Incorrecto. Ser preciso no garantiza el efecto cómico: la versión 1 no tiene ni exageración ni remate. -->
+- [ ] C) Las dos versiones son igualmente humorísticas porque cuentan el mismo suceso.
+  <!-- feedback: Incorrecto. Un mismo suceso puede narrarse de muchas maneras, y solo una de ellas produce la risa. -->
+- [ ] D) La versión 2, porque tiene más palabras que la versión 1.
+  <!-- feedback: Incorrecto. La extensión por sí sola no explica el humor; importa el tratamiento exagerado de los hechos. -->
+### Explicacion Pedagogica
+Comparar dos textos que narran el mismo hecho permite evaluar decisiones de escritura y ver cómo una exageración bien colocada transforma un relato en algo divertido. Este tipo de comparación enseña que el humor es un recurso construido, no un accidente del texto.
+---
+## Question 8 [D9-D10]
+**ID:** CO-LC-3-2026-W37-las-anecotas-y-el-humor-en-los-textos-001-MASTERY-bundle-v8
+**Bloom:** Evaluate
+**ICFES:** Evaluativo
+**Expected_Success:** 0.70
+**Contexto:** En la biblioteca de Cartagena hay dos textos: uno cuenta una anécdota divertida de un vendedor de empanadas que se enredó con su propia decisión de fijar los precios, y el otro explica, paso a paso, cómo se prepara la masa de las empanadas. Los niños eligen leer el primero cuando quieren reír, y consultan el segundo cuando ayudan en la cocina de la casa.
+
+### Enunciado
+¿Cuál afirmación evalúa correctamente el propósito del humor en estos textos?
+
+### Opciones
+- [ ] A) El humor reemplaza cualquier necesidad de explicar con claridad un procedimiento.
+  <!-- feedback: Incorrecto. Divertir no es informar: un texto que hace reír no siempre indica cómo hacer algo. -->
+- [ ] B) El texto humorístico sirve solo para entretener y nunca enseña nada.
+  <!-- feedback: Incorrecto. El humor también comunica valores y a veces deja enseñanzas sobre la vida cotidiana. -->
+- [x] C) El humor hace que el texto se recuerde con facilidad y disminuye la tensión, pero no reemplaza la información paso a paso del texto instructivo.
+  <!-- feedback: ¡Correcto! El valor del humor es distinto: entretiene y fija ideas, sin sustituir la función informativa de otros géneros. -->
+- [ ] D) El texto instructivo siempre es mejor porque las anécdotas no aportan información de ningún tipo.
+  <!-- feedback: Incorrecto. Es un juicio absoluto: cada género cumple una función distinta y ninguno reemplaza al otro. -->
+### Explicacion Pedagogica
+Evaluar el humor significa reconocer su función comunicativa: atrae la atención, genera placer y deja una huella memorable. Al mismo tiempo, el lector debe advertir qué información sí aporta y qué información necesita buscar en otro texto.
