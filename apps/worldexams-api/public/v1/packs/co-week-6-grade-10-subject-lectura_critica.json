@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-6-grade-10-subject-lectura_critica",
+    "generated_at": "2026-09-30T13:53:46.345Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-10-2026-W06-la-critica-literaria-y-los-criterios-de-valoracion-001-MASTERY-bundle-v1",
+      "statement": "Cuántos criterios de valoración explícitos maneja la estudiante en su crítica del Texto 1?",
+      "context": "En Medellín, la profesora de décimo grado pide identificar los criterios que sostienen la crítica del Texto 1.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dos: la distancia del narrador y la repetición de la carta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La estudiante nombra un tercer criterio, el contraste entre los animales y los oficiales, y ese recurso también sostiene su juicio."
+        },
+        {
+          "letter": "B",
+          "text": "Tres: la distancia del narrador, la repetición de la carta y el contraste entre animales y oficiales.",
+          "is_correct": true,
+          "feedback": "Correcto. Los tres recursos aparecen nombrados de manera explícita y cada uno se conecta con una característica concreta de la novela."
+        },
+        {
+          "letter": "C",
+          "text": "Cuatro: la distancia del narrador, la repetición de la carta, el contraste y el final abierto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El final abierto es la consecuencia que la estudiante deduce, y no un cuarto criterio independiente."
+        },
+        {
+          "letter": "D",
+          "text": "Uno: el final abierto de la novela.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase sobre el final es el juicio que se apoya en los criterios, y no el criterio que lo sostiene."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una crítica se reconoce por la cantidad de criterios que hace explícitos y por la forma en que los vincula con el texto. En el Texto 1 cada recurso nombrado puede verificarse en páginas concretas de la novela. Contar esos criterios es el primer paso para poder discutirlos con argumentos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-10-2026-W06-la-critica-literaria-y-los-criterios-de-valoracion-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W06-la-critica-literaria-y-los-criterios-de-valoracion-001-MASTERY-bundle-v2",
+      "statement": "¿Qué recurso narrativo convierte la soledad del coronel en una característica del relato, según el Texto 1?",
+      "context": "En Medellín, un grupo de décimo grado repasa la relación entre narrador y personaje en el Texto 1.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La distancia del narrador, que observa al personaje en tercera persona sin intervenir en la acción.",
+          "is_correct": true,
+          "feedback": "Correcto. El Texto 1 explica que esa distancia del narrador convierte la soledad del personaje en una característica de la obra."
+        },
+        {
+          "letter": "B",
+          "text": "La cantidad de cartas que el coronel recibió a lo largo de su vida.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Texto 1 indica que el coronel nunca recibe ninguna carta, y por eso no hay cantidad alguna que contar."
+        },
+        {
+          "letter": "C",
+          "text": "El número de personajes que participan en las conversaciones del pueblo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no menciona una lista de personajes, y ese dato no aparece como recurso de la narración."
+        },
+        {
+          "letter": "D",
+          "text": "La rapidez con la que el narrador presenta los recuerdos del coronel.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El narrador no presenta recuerdos, y el recurso central descrito es la distancia, no la rapidez."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los recursos de la narración se nombran con el vocabulario técnico de la asignatura y luego se explican con lo que hacen en la obra. Cuando el narrador observa sin participar, su distancia se convierte en una decisión artística y no en un detalle cualquiera. Identificar ese recurso permite después discutirlo con precisión.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Literal",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-10-2026-W06-la-critica-literaria-y-los-criterios-de-valoracion-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W06-la-critica-literaria-y-los-criterios-de-valoracion-001-MASTERY-bundle-v3",
+      "statement": "En el Texto 2, la expresión «es la mejor novela que ha escrito el autor, y eso no lo discute nadie» presenta el juicio como:",
+      "context": "En Cali, la profesora pide explicar por qué el Texto 2 no alcanza a funcionar como crítica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una conclusión sostenida por el análisis de la estructura interna del relato.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Texto 2 no analiza la estructura, y apela a una certeza general en lugar de demostrar una tesis."
+        },
+        {
+          "letter": "B",
+          "text": "Una valoración que el texto justifica con la lentitud de la narración.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El comentario menciona que la historia es lenta como una queja, y no como prueba de que sea la mejor."
+        },
+        {
+          "letter": "C",
+          "text": "Una opinión que la autora del comentario reconoce como discutible entre los lectores.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase dice lo contrario, porque asegura que el juicio no admite discusión."
+        },
+        {
+          "letter": "D",
+          "text": "Una preferencia personal elevada a verdad que no admite réplica.",
+          "is_correct": true,
+          "feedback": "Correcto. El agrado se presenta como un hecho comprobado, y esa es la falla central del comentario."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Presentar un gusto como una verdad aceptada por todos es el recurso más frecuente para cerrar la discusión. El Texto 2 usa esa fórmula en su primera oración y por eso su juicio no puede comprobarse ni refutarse. Reconocer el mecanismo es el paso inicial para construir críticas que sí sostengan su postura.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semantico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-10-2026-W06-la-critica-literaria-y-los-criterios-de-valoracion-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W06-la-critica-literaria-y-los-criterios-de-valoracion-001-MASTERY-bundle-v4",
+      "statement": "Un estudiante de Armenia quiere sustituir una impresión personal del Texto 2 por un criterio comprobable. ¿Qué reformulación lo consigue?",
+      "context": "En Armenia, un estudiante de décimo grado reescribe una oración del Texto 2 para volverla verificable.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "«La historia de Arturo Cúrcar y la Denis es la mejor del género.»",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase reemplaza la impresión por un superlativo, y sigue siendo una preferencia sin apoyo en el texto."
+        },
+        {
+          "letter": "B",
+          "text": "«La historia de Arturo Cúrcar y la Denis es bonita y mejor que otras novelas del mismo tema.»",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no ofrece ningún criterio que permita sostener la comparación con otras novelas."
+        },
+        {
+          "letter": "C",
+          "text": "«La descripción del río se repite en varios capítulos, y esa repetición hace lenta la secuencia del viaje.»",
+          "is_correct": true,
+          "feedback": "Correcto. La frase señala un recurso del texto y el efecto que produce, y por eso puede comprobarse leyendo la novela."
+        },
+        {
+          "letter": "D",
+          "text": "«La novela es mejor corta, porque a mí me gustaría que la cortaran a la mitad.»",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase mantiene el deseo del lector como única razón, y no aporta ningún recurso de la obra."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Convertir una impresión en criterio exige señalar un recurso del texto y el efecto que ese recurso produce. La opción correcta puede verificarse en la lectura porque cualquiera puede ubicar las repeticiones. Este es el ajuste que convierte un comentario de lectura en una crítica.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-10-2026-W06-la-critica-literaria-y-los-criterios-de-valoracion-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W06-la-critica-literaria-y-los-criterios-de-valoracion-001-MASTERY-bundle-v5",
+      "statement": "La tesis del Texto 1 sostiene que el final abierto no es un fallo, sino una consecuencia. ¿Qué contraste del texto respalda mejor esa afirmación?",
+      "context": "En Medellín, un grupo de décimo grado busca el respaldo textual de la tesis del Texto 1.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El hecho de que la novela fue escrita hace muchos años y no hace poco.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fecha de composición no aparece en el Texto 1, y no explica por qué el final queda abierto."
+        },
+        {
+          "letter": "B",
+          "text": "La oposición entre la cordialidad de los animales y la indiferencia de los oficiales del pueblo.",
+          "is_correct": true,
+          "feedback": "Correcto. Ese contraste muestra que las relaciones imposibles sostienen todo el relato, y por eso el desenlace no resulta inesperado."
+        },
+        {
+          "letter": "C",
+          "text": "El número de cartas que el coronel dejó sin abrir durante doce años.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Texto 1 dice que las cartas nunca llegaron, y esa carta nunca recibida no es una elección del coronel."
+        },
+        {
+          "letter": "D",
+          "text": "La longitud de la novela y la cantidad de capítulos que la dividen.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Texto 1 no informa sobre la extensión de la obra, y ese dato tampoco explica el final."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una tesis se sostiene con los contrastes que el propio texto construye. La estudiante elige un contraste entre el calor humano y la indiferencia de las autoridades, y ese contraste explica la situación final sin apelar al gusto. Buscar el respaldo en los contrastes del relato es la técnica más útil para argumentar en crítica.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Inferencial",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-10-2026-W06-la-critica-literaria-y-los-criterios-de-valoracion-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W06-la-critica-literaria-y-los-criterios-de-valoracion-001-MASTERY-bundle-v6",
+      "statement": "¿Qué versión del criterio del Texto 1 sería más útil para un público que nunca leyó la obra?",
+      "context": "En Villavicencio, un club de lectura quiere presentar el Texto 1 a personas que no leyeron la novela.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Describir los recursos que sostienen el final abierto, porque permiten entender la novela sin haberla leído completa.",
+          "is_correct": true,
+          "feedback": "Correcto. La descripción de los recursos permite entender por qué la obra importa y ayuda a seguir la explicación del final."
+        },
+        {
+          "letter": "B",
+          "text": "Mencionar que la novela es la mejor que ha escrito el autor, porque esa opinión genera interés inmediato.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un juicio sin criterio no explica por qué la obra importa, y es justamente lo que hace mal el Texto 2."
+        },
+        {
+          "letter": "C",
+          "text": "Contar el argumento completo de la novela, porque el público necesita conocer la historia antes de opinar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Resumir el argumento no muestra los recursos del texto, y no es lo que distingue una crítica de un resumen."
+        },
+        {
+          "letter": "D",
+          "text": "Recomendar que todos lean la novela antes de escuchar el comentario, porque el criterio no puede anticiparse.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los criterios justamente permiten anticipar qué se discutirá, y esa anticipación es parte del ejercicio crítico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El propósito comunicativo de una crítica cambia lo que conviene destacar. Ante un público nuevo, describir los recursos funciona mejor que decir si la obra fue del agrado, porque entrega herramientas para interpretarla. Reconocer esa diferencia ayuda a escribir una misma valoración para contextos distintos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-10-2026-W06-la-critica-literaria-y-los-criterios-de-valoracion-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W06-la-critica-literaria-y-los-criterios-de-valoracion-001-MASTERY-bundle-v7",
+      "statement": "¿Qué análisis sostiene mejor la afirmación de que el Texto 1 es una crítica y el Texto 2 un simple comentario de lectura?",
+      "context": "En Popayán, un profesor sostiene que solo uno de los dos textos es una crítica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Texto 1 menciona el nombre completo del autor, y el Texto 2 no lo hace nunca.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La crítica no depende de escribir el nombre, y el Texto 2 sí menciona al autor de la obra."
+        },
+        {
+          "letter": "B",
+          "text": "El Texto 1 relata el final de la novela, y el Texto 2 no relata nada del argumento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los dos textos cuentan el final de sus novelas, y esa similitud no distingue ninguna de las dos formas de escribir."
+        },
+        {
+          "letter": "C",
+          "text": "El Texto 1 se publica en una revista nacional, y el Texto 2 aparece en una carpeta de clase.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no da información sobre el medio de publicación, y ese dato tampoco define una crítica."
+        },
+        {
+          "letter": "D",
+          "text": "El Texto 1 apoya cada juicio en recursos verificables del relato, mientras el Texto 2 apoya los suyos en el agrado personal.",
+          "is_correct": true,
+          "feedback": "Correcto. La diferencia está en la base argumental de cada juicio, y no en el resumen, en el tono ni en el lugar donde aparece."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Comparar dos textos del mismo tema exige buscar la diferencia que afecta la forma de pensar. La crítica se distingue por la calidad de sus razones, y el agrado personal no puede verificarse porque no depende del texto. Analizar esa diferencia enseña a clasificar textos con fundamento y no por apariencia.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LC-10-2026-W06-la-critica-literaria-y-los-criterios-de-valoracion-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W06-la-critica-literaria-y-los-criterios-de-valoracion-001-MASTERY-bundle-v8",
+      "statement": "¿Qué efecto produce en el Texto 2 la frase «a mí me hubiera gustado que la cortaran a la mitad»?",
+      "context": "En Cali, un grupo de décimo grado examina el uso de la primera persona en el Texto 2.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ordena la trama y muestra que la autora conoce el ritmo de su propia novela.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase no ordena la trama ni habla de la novela, y solo expresa el deseo de quien comenta."
+        },
+        {
+          "letter": "B",
+          "text": "Sustituye el argumento por un dato comprobable sobre la extensión del texto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase no aporta ningún dato sobre la obra, y por eso no puede reemplazar un argumento."
+        },
+        {
+          "letter": "C",
+          "text": "Debilita el juicio, porque deja claro que la valoración depende del gusto del lector y no de un criterio.",
+          "is_correct": true,
+          "feedback": "Correcto. La primera persona declara el criterio real del texto, y con eso muestra que el juicio no puede sostenerse ni comprobarse."
+        },
+        {
+          "letter": "D",
+          "text": "Refuerza el juicio, porque introduce la opinión de una lectora que conoce la novela completa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase no presenta ninguna prueba de que quien comenta la haya leído, y su función es la contraria."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las marcas discursivas indican desde dónde habla quien escribe y qué puede exigirse a su afirmación. La primera persona del Texto 2 revela que el juicio depende de una preferencia, y por eso el argumento pierde fuerza. Analizar quién habla y con qué autoridad es una técnica central de la lectura crítica.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-10-2026-W06-la-critica-literaria-y-los-criterios-de-valoracion-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W06-la-critica-literaria-y-los-criterios-de-valoracion-001-MASTERY-bundle-v9",
+      "statement": "¿Por qué el juicio del Texto 1 resiste el debate y el del Texto 2 no?",
+      "context": "En Medellín, se pide explicar por qué una de las críticas resiste el debate y la otra no.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el Texto 1 usa un vocabulario más técnico que el Texto 2.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La dificultad de las palabras no garantiza nada, y el Texto 1 puede explicarse con frases sencillas."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el Texto 1 muestra los recursos del relato, mientras el Texto 2 se apoya en una preferencia que nadie puede comprobar.",
+          "is_correct": true,
+          "feedback": "Correcto. Quien puede mostrar el recurso puede discutirlo, y quien solo expresa un agrado no ofrece nada que se pueda rebatir."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el Texto 1 tiene cuatro párrafos y el Texto 2 tiene cuatro frases.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La extensión del texto no determina la solidez de un juicio, y comparar tamaños no explica nada."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el Texto 1 habla de una novela colombiana y el Texto 2 no.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las dos críticas se refieren a novelas colombianas, y ese dato no interviene en la solidez del juicio."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un juicio resiste el debate cuando entrega las razones que lo sostienen. El Texto 1 ofrece tres recursos comprobables y el Texto 2 no ofrece ninguno. Inferir esa diferencia permite evaluar críticas propias y ajenas con un criterio claro y aplicable.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Inferencial",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-10-2026-W06-la-critica-literaria-y-los-criterios-de-valoracion-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W06-la-critica-literaria-y-los-criterios-de-valoracion-001-MASTERY-bundle-v10",
+      "statement": "Un comité de Pasto propone publicar el Texto 2 en el boletín. ¿Qué juicio evalúa correctamente esa propuesta?",
+      "context": "En Pasto, un comité académico debe decidir si acepta el Texto 2 como crítica para el boletín del colegio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La propuesta debe rechazarse como crítica, porque el texto no ofrece ningún criterio que pueda comprobarse en la obra.",
+          "is_correct": true,
+          "feedback": "Correcto. Sin criterios verificables el texto solo expresa opiniones, y eso no cumple lo que se espera de una crítica escolar."
+        },
+        {
+          "letter": "B",
+          "text": "La propuesta debe aceptarse sin cambios, porque el texto trata una novela colombiana y ese es el único requisito del boletín.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La nacionalidad de la obra no sustituye los argumentos, y el boletín exige textos que sostengan su postura."
+        },
+        {
+          "letter": "C",
+          "text": "La propuesta debe aceptarse con cambios, porque basta con quitar la frase sobre la mejor novela para convertir el texto en crítica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque se quite esa frase, el resto del texto sigue apoyándose en el agrado personal sin criterio verificable."
+        },
+        {
+          "letter": "D",
+          "text": "La propuesta debe rechazarse, porque una crítica de décimo grado tiene que incluir datos biográficos del autor de la novela.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La crítica no exige datos biográficos, y esa condición tampoco aparece en el texto ni en las normas del boletín."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar una crítica exige aplicar criterios sobre la calidad de sus razones y no sobre su apariencia ni sobre su tema. El comité puede usar una lista sencilla que pregunte por los criterios, por el respaldo textual y por la posibilidad de réplica. Ese mismo instrumento sirve para revisar el trabajo propio antes de entregarlo.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.66,
+      "bundle_id": "CO-LC-10-2026-W06-la-critica-literaria-y-los-criterios-de-valoracion-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W06-la-critica-literaria-y-los-criterios-de-valoracion-001-MASTERY-bundle-v11",
+      "statement": "¿Qué reescritura del Texto 2 respeta mejor la relación entre la crítica y la obra analizada?",
+      "context": "En Montería, un estudiante reescribe el Texto 2 con el fin de publicarlo en un periódico juvenil.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "«La vorágine es la mejor novela que ha escrito el autor, y eso no lo discute nadie. La historia de Arturo Cúrcar y la Denis es bonita, pero lenta.»",
+          "is_correct": false,
+          "feedback": "Incorrecto. La reescritura conserva el juicio absoluto del original y mantiene la valoración como una preferencia personal."
+        },
+        {
+          "letter": "B",
+          "text": "«La novela cuenta el viaje de un empleado por el río hasta una playa donde lo devora la selva. En mi opinión vale mucho porque es muy colombiana.»",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto se limita a resumir el argumento y conserva el juicio sin ningún criterio que lo sostenga."
+        },
+        {
+          "letter": "C",
+          "text": "«La novela me debió gustar más, porque el final me pareció muy triste y la historia me pareció lenta.»",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase intensifica el gusto personal y mantiene la falla central del original, que es la ausencia de criterios."
+        },
+        {
+          "letter": "D",
+          "text": "«La repetición de las descripciones del río detiene el ritmo del viaje, y esa pausa hace que el final se sienta anunciado.»",
+          "is_correct": true,
+          "feedback": "Correcto. La reescritura nombra un recurso del texto, explica su efecto y permite que el lector lo compruebe en la novela."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Reescribir una crítica exige conservar el tema y cambiar la calidad de las razones. La versión correcta describe un recurso concreto y su efecto sobre el lector, con lo cual el juicio queda abierto a discusión. Ese es el modelo de reescritura que el estudiante puede aplicar a cualquier obra leída este trimestre.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.64,
+      "bundle_id": "CO-LC-10-2026-W06-la-critica-literaria-y-los-criterios-de-valoracion-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W06-la-critica-literaria-y-los-criterios-de-valoracion-001-MASTERY-bundle-v12",
+      "statement": "¿Qué criterio conviene incluir en una rúbrica para distinguir una crítica sólida de un simple comentario de lectura?",
+      "context": "En Cartagena, un equipo de décimo grado construye una rúbrica para evaluar las críticas del trimestre.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Si el texto usa la palabra «novela» al menos una vez.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese vocabulario básico aparece en cualquier comentario y no dice nada sobre la calidad del juicio."
+        },
+        {
+          "letter": "B",
+          "text": "Si el comentario tiene cuatro párrafos y ocupa una hoja completa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La extensión mide la cantidad de texto escrito, y no la capacidad de sostener un juicio con razones."
+        },
+        {
+          "letter": "C",
+          "text": "Si el texto nombra al menos tres criterios y muestra en cada uno un fragmento de la obra que lo respalda.",
+          "is_correct": true,
+          "feedback": "Correcto. El criterio exige razones comprobables, y además impide que los criterios queden apenas enunciados."
+        },
+        {
+          "letter": "D",
+          "text": "Si el autor de la obra es colombiano y la obra pertenece al temario del grado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La selección de textos la hace el docente, y ese dato no mide la calidad de los argumentos del estudiante."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una rúbrica traduce los objetivos de la asignatura en requisitos observables. Exigir criterios nombrados y respaldados con fragmentos separa el trabajo que razona del que solo afirma. Diseñar esta lista ayuda al estudiante a entender qué se espera de él antes de escribir y a revisarse después de escribir.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.62,
+      "bundle_id": "CO-LC-10-2026-W06-la-critica-literaria-y-los-criterios-de-valoracion-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}

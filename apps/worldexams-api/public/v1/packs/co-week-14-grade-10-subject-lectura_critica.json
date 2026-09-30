@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-14-grade-10-subject-lectura_critica",
+    "generated_at": "2026-09-30T14:05:17.432Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-10-2026-W14-la-redaccion-del-texto-argumentativo-propio-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la tesis que defiende el Texto 1?",
+      "context": "En Popayán, la profesora de Lectura Crítica pide al grupo de décimo grado que señale la tesis de la carta escrita por sus compañeros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la jornada del colegio debe terminar antes de las dos de la tarde.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La carta pide empezar más tarde, y en ningún momento propone cambiar la hora de salida."
+        },
+        {
+          "letter": "B",
+          "text": "Que a las 6:30 de la mañana los estudiantes no han dormido lo suficiente para aprender.",
+          "is_correct": true,
+          "feedback": "Correcto. Esa afirmación organiza todo el texto y es la idea que el registro de sueño y la respuesta a la objeción intentan sostener."
+        },
+        {
+          "letter": "C",
+          "text": "Que el colegio debe ofrecer talleres de refuerzo durante la tarde.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los talleres son la respuesta que se ofrece a la objeción, y no la afirmación principal que se quiere demostrar."
+        },
+        {
+          "letter": "D",
+          "text": "Que el registro de horas de sueño debe entregarse cada mes a la coordinación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese formato es una propuesta final para poner a prueba la tesis, y no la tesis misma."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La tesis es la afirmación que el texto entero se compromete a defender, y todas las demás partes se ordenan en torno a ella. Reconocerla permite distinguir el argumento central de los apoyos y de las propuestas. En un texto propio, escribir la tesis en una sola oración al principio es el primer control de calidad.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-10-2026-W14-la-redaccion-del-texto-argumentativo-propio-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W14-la-redaccion-del-texto-argumentativo-propio-001-MASTERY-bundle-v2",
+      "statement": "Según el Texto 1, ¿con qué datos se sostuvieron los estudiantes para defender su tesis?",
+      "context": "En Popayán, el grupo de décimo grado construye una tabla con los datos que sustentan la carta del Texto 1.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Con una encuesta a 340 estudiantes de Popayán, en la que el promedio de sueño fue de 5 horas y 20 minutos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La carta habla de un grupo de 34 estudiantes y no de 340, y el promedio que registra es de 5 horas y 40 minutos."
+        },
+        {
+          "letter": "B",
+          "text": "Con un estudio del Ministerio de Educación que demuestra que dormir improves el rendimiento escolar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La carta no cita ningún estudio oficial, y esa conclusión pertenece a la discusión de otro texto del curso."
+        },
+        {
+          "letter": "C",
+          "text": "Con un registro de dos semanas en un grupo de 34 estudiantes, con un promedio de 5 horas y 40 minutos de sueño entre domingo y jueves.",
+          "is_correct": true,
+          "feedback": "Correcto. Esos tres datos son los que el texto declara, y con ellos se respalda la afirmación sobre el cansancio de la mañana."
+        },
+        {
+          "letter": "D",
+          "text": "Con una comparación entre dos colegios de la ciudad, uno que empieza a las seis y otro a las siete.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La carta no compara dos colegios, y el único estudio de referencia es el registro de sueño de sus propios compañeros."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los datos concretos son el esqueleto de un argumento: sin cifras verificables, una opinión queda en el aire. Al leer un texto argumentativo conviene separar el número de personas estudiadas, el valor medido y el periodo del estudio. Esa lectura rigurosa es la que permite después citar o discutir el dato sin deformarlo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Literal",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-10-2026-W14-la-redaccion-del-texto-argumentativo-propio-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W14-la-redaccion-del-texto-argumentativo-propio-001-MASTERY-bundle-v3",
+      "statement": "En el Texto 1, ¿qué función cumple el párrafo que menciona la objeción de que retrasar la hora aumentaría el tiempo de permanencia en el colegio?",
+      "context": "En Popayán, la profesora pregunta por qué la carta del Texto 1 incluye un párrafo que parece estar en contra de los estudiantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Presentar la restricción más fuerte y mostrar cómo el texto la supera con una alternativa concreta.",
+          "is_correct": true,
+          "feedback": "Correcto. El texto expone la objeción y la refuta con una solución, los talleres de refuerzo, en lugar de esquivarla."
+        },
+        {
+          "letter": "B",
+          "text": "Añadir un dato del registro de sueño que refuerza la cifra de 5 horas y 40 minutos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El registro de sueño se usa más arriba, y ese párrafo no contiene cifras de sueño."
+        },
+        {
+          "letter": "C",
+          "text": "Cambiar la tesis de la carta por la propuesta de hacer talleres de refuerzo en la tarde.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tesis sigue siendo la hora de inicio de la jornada, y los talleres solo refuerzan la respuesta a la objeción."
+        },
+        {
+          "letter": "D",
+          "text": "Reproducir la voz del rector para anticipar cómo será recibido el pedido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no reproduce ninguna declaración del rector, y la objeción se formula desde la posición de un lector desconfiado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Refutar no significa atacar al adversario, sino incorporarlo al propio texto para mostrar que la tesis resiste. Un buen texto argumentativo anticipa la objeción más fuerte porque así gana credibilidad ante un lector escéptico. Reconocer esa estructura es lo que separa un texto persuasivo de una simple opinión.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-10-2026-W14-la-redaccion-del-texto-argumentativo-propio-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W14-la-redaccion-del-texto-argumentativo-propio-001-MASTERY-bundle-v4",
+      "statement": "Un equipo editorial revisa el Texto 2 antes de publicarlo. ¿Qué elemento argumentativo encuentra ausente?",
+      "context": "En Soacha, un grupo de décimo grado revisa con una lista de chequeo la opinión que se va a publicar en el periódico escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una tesis claramente identificable en la primera oración.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto sí enuncia una tesis clara: los trabajos en grupo no sirven para aprender."
+        },
+        {
+          "letter": "B",
+          "text": "Un apoyo basado en una experiencia propia narrada de manera explícita.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto sí incluye ese apoyo, con el caso del proyecto de ciencias que el estudiante hizo casi solo."
+        },
+        {
+          "letter": "C",
+          "text": "La respuesta al argumento contrario expuesto en el número anterior del periódico.",
+          "is_correct": true,
+          "feedback": "Correcto. El texto ignora por completo la opinión opuesta y repite su propia tesis, de modo que su fuerza persuasiva queda sin probar."
+        },
+        {
+          "letter": "D",
+          "text": "Una conclusión que reitere la posición del autor al cerrar el escrito.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La última oración repite la afirmación inicial, y por ese lado el texto sí tiene un cierre, aunque sea vacío de novedades."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una lista de chequeo para textos argumentativos incluye tesis, apoyos, respuesta a la objeción y propuesta. Revisar el propio borrador con esa lista convierte las carencias en tareas concretas. Cuando un texto solo repite lo que ya dijo, el lector no encuentra razones para cambiar de opinión.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-10-2026-W14-la-redaccion-del-texto-argumentativo-propio-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W14-la-redaccion-del-texto-argumentativo-propio-001-MASTERY-bundle-v5",
+      "statement": "Un estudiante de Soacha escribe una opinión en la que necesita presentar la objeción de un compañero y luego responderla. ¿Cuál es el par de conectores más adecuado?",
+      "context": "En Soacha, la profesora pide la versión final de una opinión para el mural del colegio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "«Por lo tanto» y «en consecuencia», porque ambos encadenan dos ideas del mismo nivel.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los dos conectores solo sirven para deducir o resumir, y ninguno anuncia que va a aparecer una postura distinta."
+        },
+        {
+          "letter": "B",
+          "text": "«En resumen» y «por consiguiente», porque ordenan el cierre de manera parecida.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa pareja sirve para cerrar, y aquí lo que se necesita es abrir un desacuerdo y luego superarlo."
+        },
+        {
+          "letter": "C",
+          "text": "«De la misma manera» y «igualmente», porque comparan dos posturas que se parecen.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Comparar dos posturas parecidas impide presentar una opinión que contradice a la propia."
+        },
+        {
+          "letter": "D",
+          "text": "«Es cierto que» y «aun así», porque introducen la objeción y marcan la respuesta del autor.",
+          "is_correct": true,
+          "feedback": "Correcto. La primera fórmula concede el punto antes de discutirlo y la segunda señala el giro que devuelve la fuerza a la tesis."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Los conectores no son adornos: ordenan la relación lógica entre las ideas. Reconocer qué hace cada uno, conceder, rebatir, deducir o resumir, permite elegir el que corresponde a cada momento del texto. Usarlos bien evita el error más común del argumento propio: apilar frases sin que se entienda por qué una idea responde a la anterior.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-10-2026-W14-la-redaccion-del-texto-argumentativo-propio-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W14-la-redaccion-del-texto-argumentativo-propio-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál reescritura reemplaza mejor la repetición del Texto 2 por una frase que aporte información nueva?",
+      "context": "En Soacha, el estudiante autor del Texto 2 reescribe el párrafo que más se repite en su borrador.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "«Los trabajos en grupo son un problema serio, y son un problema muy serio que hay que revisar cuanto antes».",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase sigue siendo una generalización y solo cambia una palabra por otra, de modo que la repetición se mantiene."
+        },
+        {
+          "letter": "B",
+          "text": "«En el proyecto de ciencias cada integrante recibió una tarea y, a pesar de eso, el trabajo se entregó con la autoría de un solo estudiante».",
+          "is_correct": true,
+          "feedback": "Correcto. La reformulación entrega un detalle verificable del caso, y con ese dato la experiencia deja de ser una opinión general."
+        },
+        {
+          "letter": "C",
+          "text": "«Creo que todavía no es momento de hablar de los trabajos en grupo, y creo que es mejor dejar el tema para más adelante».",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase se contradice a sí misma y tampoco aporta datos sobre la experiencia narrada."
+        },
+        {
+          "letter": "D",
+          "text": "«Nadie aprende nada en los trabajos en grupo, y eso es una cosa que comprobé yo mismo con mis compañeros».",
+          "is_correct": false,
+          "feedback": "Incorrecto. Repite la generalización del Texto 2 y además la presenta como comprobación, sin explicar cómo se comprobó."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Reescribir no significa cambiar sinónimos, sino hacer más precisa la idea. Cuando una oración repite lo ya dicho, el remedio es sustituir la generalización por un detalle comprobable. Esa precisión es lo que convierte una queja en un argumento que un lector puede evaluar.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semantico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-10-2026-W14-la-redaccion-del-texto-argumentativo-propio-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W14-la-redaccion-del-texto-argumentativo-propio-001-MASTERY-bundle-v7",
+      "statement": "Un análisis del Texto 1 señala que el piloto propuesto por los estudiantes refuerza su propia tesis. ¿Por qué?",
+      "context": "En Popayán, el grupo de décimo grado analiza por qué la carta del Texto 1 tiene más fuerza que otras peticiones del mismo tipo que han llegado al rectorado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el piloto pone a prueba la relación entre las horas de sueño y el aprendizaje con datos que los propios estudiantes pueden recoger.",
+          "is_correct": true,
+          "feedback": "Correcto. La propuesta no queda en un deseo, sino en un procedimiento que produciría evidencia y, con ella, una decisión bien fundada."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el piloto amenaza al colegio con dejar de asistir si la hora de la jornada no cambia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La carta no contiene amenazas, y un argumento que apela al castigo pierde credibilidad ante el rector."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el piloto incluye los nombres de los 34 estudiantes, y así el rector puede contactarlos uno por uno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no publica nombres, y la fuerza del piloto no está en eso sino en su carácter verificable."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el piloto garantiza que todos los estudiantes del colegio duerman más horas durante ese mes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguna propuesta puede garantizar un cambio de hábito en toda la población, y el texto no promete eso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un buen cierre convierte la tesis en algo que puede comprobarse y discutirse con datos nuevos. La propuesta final funciona como un puente entre lo que el texto afirma y lo que el lector puede verificar después. Analizar esa relación ayuda a construir un texto propio que termine con fuerza y no con una queja.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LC-10-2026-W14-la-redaccion-del-texto-argumentativo-propio-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W14-la-redaccion-del-texto-argumentativo-propio-001-MASTERY-bundle-v8",
+      "statement": "Según el Texto 2, ¿qué problema de fondo tiene el uso de un solo ejemplo personal para sostener la afirmación de que los trabajos en grupo no sirven para aprender?",
+      "context": "En Soacha, la profesora pide al grupo de décimo grado explicar por qué un texto puede sonar convincente y aun así ser débil como argumento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el ejemplo no menciona el nombre de la profesora de ciencias.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto sí menciona a la profesora, y ese detalle no es lo que limita la fuerza del argumento."
+        },
+        {
+          "letter": "B",
+          "text": "Que el ejemplo aparece al final del texto y no al principio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La posición del ejemplo no es el problema, y en el Texto 2 el caso personal está justamente al principio del apoyo."
+        },
+        {
+          "letter": "C",
+          "text": "Que un solo caso no permite decidir por todos los grupos, y el autor generaliza a partir de una experiencia personal.",
+          "is_correct": true,
+          "feedback": "Correcto. La generalización es el punto ciego del texto: un caso aislado no demuestra una regla general sobre todos los trabajos en grupo."
+        },
+        {
+          "letter": "D",
+          "text": "Que el ejemplo del proyecto de ciencias contradice la tesis que el autor defiende.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ejemplo acompaña la tesis del autor, y su límite es la falta de representatividad, no la contradicción."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un ejemplo personal puede ser cierto y, al mismo tiempo, insuficiente para sostener una afirmación general. Por eso un texto argumentativo necesita distinguir entre lo que le pasó a una persona y lo que ocurre en un conjunto. Reconocer ese salto permite reemplazar la anécdota por evidencia o limitar la afirmación a lo que realmente demuestra.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Inferencial",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-10-2026-W14-la-redaccion-del-texto-argumentativo-propio-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W14-la-redaccion-del-texto-argumentativo-propio-001-MASTERY-bundle-v9",
+      "statement": "Al comparar el Texto 1 y el Texto 2, ¿cuál es la diferencia de fondo que explica que uno cambie la discusión y el otro la deje igual?",
+      "context": "En Soacha, los estudiantes de décimo grado comparan ambos textos para preparar una exposición oral.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La diferencia es el número de páginas, porque la carta ocupa mucho más espacio que la opinión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La extensión no determina la solidez de un argumento, y los dos textos son de longitud parecida."
+        },
+        {
+          "letter": "B",
+          "text": "El Texto 1 ofrece una evidencia medida y responde a la objeción más fuerte, mientras que el Texto 2 se apoya en un caso aislado y repite su propia tesis.",
+          "is_correct": true,
+          "feedback": "Correcto. Esa diferencia combina el tipo de apoyo y el tratamiento de la opinión contraria, que son los dos ejes que hacen que un texto convenza."
+        },
+        {
+          "letter": "C",
+          "text": "El Texto 1 está dirigido al rector y el Texto 2 a los lectores del periódico, y por eso sus efectos son distintos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos textos se dirigen a la comunidad del colegio, y el destinatario no explica por sí solo la diferencia de fuerza."
+        },
+        {
+          "letter": "D",
+          "text": "El Texto 1 menciona cifras y el Texto 2 no, de modo que solo uno cumple con las normas de escritura del colegio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tener datos no garantiza por sí solo la solidez, y el reglamento del colegio no se ocupa de esa distinción."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comparar dos textos del mismo género y del mismo curso permite ver qué hace que un argumento funcione. La diferencia no suele estar en el tema, sino en la calidad de los apoyos y en el tratamiento de la discrepancia. Esa lectura comparada es la base del criterio propio que se construye semana a semana.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-10-2026-W14-la-redaccion-del-texto-argumentativo-propio-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W14-la-redaccion-del-texto-argumentativo-propio-001-MASTERY-bundle-v10",
+      "statement": "El comité debe decidir si el Texto 2 merece un espacio de opinión en el periódico escolar. ¿Cuál es el juicio mejor sostenido?",
+      "context": "En Soacha, el comité editorial del periódico escolar decide si reimprime o no la opinión del Texto 2.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vale la pena publicarlo porque presenta una tesis clara, y esa claridad ya garantiza que el texto sea convincente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tesis es clara, pero claridad sin apoyos ni respuesta a la objeción produce un texto que no convence."
+        },
+        {
+          "letter": "B",
+          "text": "No debe publicarse porque los trabajos en grupo son beneficiosos, y el texto miente al presentar una experiencia aislada como regla.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no afirma una mentira, y la crítica justa se dirige a la inferencia, no a la experiencia aislada."
+        },
+        {
+          "letter": "C",
+          "text": "Debe publicarse tal como está, porque la página de opinión acepta todas las voces del colegio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aceptar todas las voces no significa publicar textos que no cumplen la estructura mínima del género argumentativo."
+        },
+        {
+          "letter": "D",
+          "text": "Puede publicarse si el autor responde al argumento contrario, apoya su tesis con evidencia y cierra con una propuesta concreta.",
+          "is_correct": true,
+          "feedback": "Correcto. El juicio es proporcionado: no se descarta la voz y se señalan las tres carencias concretas que deben corregirse."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar un texto argumentativo propio exige decir qué debería cambiar y por qué, no simplemente si gusta o no gusta. Un juicio académico se apoya en criterios del género: tesis, evidencia, respuesta a la discrepancia y propuesta. Aplicar esos criterios con justicia es lo que permite defender la calidad sin descalificar a quien escribe.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LC-10-2026-W14-la-redaccion-del-texto-argumentativo-propio-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W14-la-redaccion-del-texto-argumentativo-propio-001-MASTERY-bundle-v11",
+      "statement": "Una rúbrica valorará los dos textos del curso según cuatro criterios: evidencia, respuesta a la opinión contraria, propuesta verificable y uso de conectores. ¿Cuál es la comparación correcta?",
+      "context": "En Soacha, la profesora de Lectura Crítica construye una rúbrica para que los estudiantes revisen sus propios textos antes de entregarlos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Texto 1 cumple evidencia, respuesta a la opinión contraria y propuesta, y en los conectores solo falla uno; el Texto 2 no cumple ninguno de los tres primeros.",
+          "is_correct": true,
+          "feedback": "Correcto. La lectura con rúbrica refleja con precisión lo que cada texto logra y lo que le falta, incluido el manejo desigual de los conectores."
+        },
+        {
+          "letter": "B",
+          "text": "Ambos textos cumplen los cuatro criterios, porque los dos tienen tesis, apoyo y cierre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tener tesis, apoyo y cierre no garantiza respuesta a la opinión contraria, y el Texto 2 no la incluye."
+        },
+        {
+          "letter": "C",
+          "text": "El Texto 1 cumple solo el criterio de evidencia, y el Texto 2 cumple únicamente el de conectores.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La comparación invierte los logros: el Texto 1 responde a la objeción y propone un piloto, y el Texto 2 es el que repite sin avanzar."
+        },
+        {
+          "letter": "D",
+          "text": "El Texto 2 supera al Texto 1 en evidencia y en propuesta, y solo pierde en conectores.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Texto 2 no propone nada y su único apoyo es un caso sin medir, de modo que la comparación va en la dirección contraria."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La rúbrica convierte un juicio subjetivo en criterios observables y comparables. Cuando el criterio está escrito con claridad, dos textos pueden evaluarse con la misma vara sin que la opinión personal decida el resultado. Esa práctica prepara a los estudiantes para la escritura académica y para el debate en clase.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.66,
+      "bundle_id": "CO-LC-10-2026-W14-la-redaccion-del-texto-argumentativo-propio-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W14-la-redaccion-del-texto-argumentativo-propio-001-MASTERY-bundle-v12",
+      "statement": "El grupo necesita un texto que sirva de antecedente para una campaña sobre el descanso de los estudiantes. ¿Cuál es la decisión mejor justificada y por qué?",
+      "context": "En Popayán, el grupo de décimo grado debe elegir cuál de los dos textos le sirve como antecedente para una campaña escolar sobre el sueño.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Elegir el Texto 1, porque su tono es más cercano al de un estudiante que escribe a escondidas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El criterio está equivocado: un texto escolar que exige secreto pierde fuerza ante la comunidad a la que pretende convencer."
+        },
+        {
+          "letter": "B",
+          "text": "Elegir el Texto 2, porque duda de la capacidad de los estudiantes y eso le da mayor autoridad ante los lectores.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dudar de los demás no es un argumento, y el texto no aporta evidencia para sostener una afirmación tan general."
+        },
+        {
+          "letter": "C",
+          "text": "Elegir el Texto 1, porque combina una tesis medible, un dato comprobado y una propuesta que puede ponerse a prueba.",
+          "is_correct": true,
+          "feedback": "Correcto. La decisión se apoya en la calidad argumentativa verificable, que es lo que permite usar el texto como antecedente de una campaña."
+        },
+        {
+          "letter": "D",
+          "text": "Elegir ninguno, porque las campañas escolares deben apoyarse en textos de organismos nacionales y no en producción de los propios alumnos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un antecedente escrito por estudiantes tiene valor si su evidencia es comprobable, y el Texto 1 cumple esa condición."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Tomar una decisión editorial exige nombrar el criterio que la sostiene y defenderlo con elementos del texto. La coherencia entre criterio y evidencia es lo que distingue una evaluación académica de una preferencia. Ese mismo criterio se aplica después a los propios trabajos del curso.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.64,
+      "bundle_id": "CO-LC-10-2026-W14-la-redaccion-del-texto-argumentativo-propio-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}
