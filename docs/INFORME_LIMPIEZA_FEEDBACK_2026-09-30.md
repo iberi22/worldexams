@@ -16,7 +16,7 @@ El hallazgo central: **la causa no fueron los agentes, fue el validador.** El ga
 | Packs sirviendo contenido retirado | 306 | 0 |
 | Regla que exige la razón | ninguna | `feedback-no-reason`, siempre ERROR |
 | Test del gate | no existía | 16 casos, incluidos 9 del corpus real |
-| Ramas `bundle-batch-*` | 67 | 0 |
+| Ramas `bundle-batch-*` huérfanas | 67 | 0 (1 activa en worktree) |
 | Commits sin pushear | 11 | 0 |
 
 ---
@@ -148,7 +148,9 @@ Los 2 residuales de Colombia son `Calculó 7!.` y `Calculó 4!.` — feedback re
 
 ### Ramas
 
-67 `bundle-batch-*` → **0**. Total 186 → 20 ramas funcionales. 17 worktrees de agentes removidos. `main` y `develop` en `0 0` contra el remoto, working tree limpio.
+67 `bundle-batch-*` huérfanas → **0**. Total 186 → 20 ramas funcionales. 17 worktrees de agentes removidos. `main` y `develop` en `0 0` contra el remoto, working tree limpio.
+
+Una `bundle-batch-*` puede reaparecer en cualquier momento y no es deuda: la crea un agente al empezar una tanda y vive en su worktree hasta que entrega. La que había al cerrar esto tenía 40 preguntas de Sociales Ciudadanas G4 sin integrar. Regla: una rama con worktree activo es trabajo en curso; solo se limpian las huérfanas.
 
 ---
 
@@ -181,12 +183,17 @@ python3 ~/.hermes/cache/scratch/hermes-verify-feedback-cleanup.py
 
 | Check | Resultado |
 |---|---|
-| **A.** Los 109 bundles borrados son rechazados por el validador actual | **109/109** |
-| **B.** Bundles sobrevivientes que fallan validación | 645 (deuda legacy, esperada) |
-| **C.** Packs borrados que contienen IDs de preguntas que un bundle vivo aún produce | **0/306** |
-| **D.** Packs sobrevivientes que todavía sirven un ID retirado | **0** |
+| **1.** Las 10 herramientas de análisis en scratch siguen compilando | **10/10** |
+| **2.** Packs borrados que contienen IDs de preguntas que un bundle vivo aún produce | **0/306** |
+| **3.** Packs sobrevivientes que todavía sirven un ID retirado | **0** |
+| **4.** Los 109 bundles borrados son rechazados por el validador actual | **109/109** |
+| **5.** main = develop = origin, árbol limpio, 0 ramas batch huérfanas | 0/0 en ambos |
 
-Los checks A, C y D son los que importan: **A** confirma que no se borró trabajo bueno, **C** que no se retiró un pack ajeno, y **D** que la API ya no puede servir lo retirado. El harness deja el árbol limpio y materializa las copias temporal dentro de `questions_data/` porque el validador ignora rutas fuera de ahí.
+Los checks 2, 3 y 4 son los que importan: **2** confirma que no se retiró un pack ajeno, **3** que la API ya no puede servir lo retirado, y **4** que el validador de hoy sigue respaldando cada borrado — es decir, que la decisión no dependía del clasificador que la motivó.
+
+**El check 1 existe por una razón concreta:** esas herramientas son desechables y no se versionan, pero una herramienta que ya no corre es una herramienta cuya salida pasada no significa nada, y fueron ellas las que decidieron qué borrar. Que compilen es la condición mínima para que su historial sea legible.
+
+**Sobre el conteo de ramas batch:** hay 1 `bundle-batch-*` y es lo correcto, no deuda. Está en un worktree vivo con 40 preguntas de Sociales Ciudadanas G4 sin integrar de un agente en marcha. Una rama con worktree activo pertenece a un agente corriendo; borrarla destruiría su trabajo. El check distingue *activa* de *huérfana* justamente para no confundirlas.
 
 Esta verificación es **ad-hoc, no una suite del proyecto**: es un script de un solo uso, instalado en scratch, que existe para auditar esta decisión concreta. La evidencia de suite es la de la sección 8.2.
 
@@ -214,7 +221,7 @@ curl "https://api.saberparatodos.space/v1/questions?country=mx&grade=11&subject=
 
 # Git
 git rev-list --left-right --count origin/main...main      # -> 0  0
-git branch --list 'bundle-batch*' | wc -l                 # -> 0
+git worktree list | grep -c bundle-batch                  # -> 1 (agente en curso, no deuda)
 git status --short | wc -l                                 # -> 0
 
 # CI
