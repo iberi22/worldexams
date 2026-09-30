@@ -164,7 +164,7 @@ La legitimidad de una decisión depende de que los afectados hayan tenido la pos
 **Bloom:** Analyze
 **ICFES:** Ciudadano
 **Expected_Success:** 0.80
-**Contexto:** En Santa Marta, un grupo de vecinos afirma que los resultados de una consulta fueron alterados y le pide ayuda a Julián, un líder comunitario, para saber qué puede hacer desde laEIC...
+**Contexto:** En Santa Marta, un grupo de vecinos afirma que los resultados de una consulta fueron alterados y le pide ayuda a Julián, un líder comunitario, para saber qué puede hacer desde la fundación vecinal del barrio.
 
 ### Enunciado
 ¿Cuál es la actuación más adecuada para verificar si hubo irregularidades en la consulta?
@@ -218,7 +218,7 @@ La democracia se apoya en la idea de que todos los ciudadanos tienen los mismos 
 ### Opciones
 - [ ] A) Es válida, porque en toda decisión debe existir exactamente una voz por familia y no se puede cambiar esa norma.
   <!-- feedback: Error conceptual: esa medida restringe la participación de las personas que viven en el mismo hogar y no proviene de ningún principio democrático. -->
-- [ ] B) Es válida, mientras las reunionesWQ terminen a tiempo, porque el tiempo también protege la democracia.
+- [ ] B) Es válida, mientras las reuniones terminen a tiempo, porque el tiempo también protege la democracia.
   <!-- feedback: Error conceptual: la duración de una reunión es un detalle de organización y no valida la restricción a la participación. -->
 - [ ] C) Es válida, siempre que el representante elegido decida en favor de toda la comunidad.
   <!-- feedback: Error conceptual: la buena voluntad de una persona no compensa la exclusión del resto de los vecinos del proceso. -->
