@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-35-grade-10-subject-lectura_critica",
+    "generated_at": "2026-09-30T20:35:27.727Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-10-2026-W35-la-cronica-urbana-y-el-retrato-de-la-ciudad-001-MASTERY-bundle-v1",
+      "statement": "Según el Texto 1, ¿cuánto cuesta el pasaje del tranvía en Popayán?",
+      "context": "El profesor dicta en el tablero los tres datos concretos del Texto 1.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1.500 pesos.",
+          "is_correct": false,
+          "feedback": "La cifra de 1.500 corresponde a los metros de vía, no al valor del pasaje."
+        },
+        {
+          "letter": "B",
+          "text": "4.000 pesos.",
+          "is_correct": true,
+          "feedback": "Correcto, la crónica señala expresamente que el pasaje del tranvía cuesta 4.000 pesos."
+        },
+        {
+          "letter": "C",
+          "text": "3.000 pesos.",
+          "is_correct": false,
+          "feedback": "Ese precio corresponde a la empanada de las vendedoras del parque Caldas, informada en el Texto 2."
+        },
+        {
+          "letter": "D",
+          "text": "2.500 pesos.",
+          "is_correct": false,
+          "feedback": "Esa cifra no aparece en ninguno de los dos textos base, de modo que la respuesta no se apoya en la crónica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Reconocer una cifra y su referente es la base de toda lectura crítica de un periódico. Un dato suelto, sin saber si habla de metros o de pesos, no permite valorar nada. Por eso los estudiantes deben anotar en el cuaderno cada número junto al objeto que mide antes de interpretar la crónica.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Literal",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-10-2026-W35-la-cronica-urbana-y-el-retrato-de-la-ciudad-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W35-la-cronica-urbana-y-el-retrato-de-la-ciudad-001-MASTERY-bundle-v2",
+      "statement": "¿Qué material se menciona en el Texto 1 para la restauración de los vagones del tranvía?",
+      "context": "En clase se revisa la restauración de los vagones con la ayuda de un mapa del centro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Acero traído de la Costa del Pacifico.",
+          "is_correct": false,
+          "feedback": "La crónica no menciona acero ni trabajos en la costa; el material indicado es uno solo y de origen nariñense."
+        },
+        {
+          "letter": "B",
+          "text": "Vidrio de las ventanas del parque Caldas.",
+          "is_correct": false,
+          "feedback": "El parque Caldas pertenece a la otra crónica, la del Texto 2, y allí no se mencionan materiales de restauración."
+        },
+        {
+          "letter": "C",
+          "text": "Pintura del edificio de la estación.",
+          "is_correct": false,
+          "feedback": "El texto no habla de pintar la estación; el dato corresponde al material usado para reconstruir los vagones."
+        },
+        {
+          "letter": "D",
+          "text": "Madera de nogal traída de Nariño.",
+          "is_correct": true,
+          "feedback": "Correcto, la crónica indica que los vagones fueron restaurados con madera de nogal traída de Nariño."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Comprender la información del texto exige distinguir el material principal de los detalles de contexto. La madera de nogal explica por qué la restauración del tranvía se hizo despacio y con una técnica cuidada. Reconocer el dato exacto permite después evaluar el grado de detalle que alcanza una crónica breve.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Literal",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-10-2026-W35-la-cronica-urbana-y-el-retrato-de-la-ciudad-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W35-la-cronica-urbana-y-el-retrato-de-la-ciudad-001-MASTERY-bundle-v3",
+      "statement": "De acuerdo con la nota de estilo del Texto 2, ¿qué exige el periódico a quienes escriben las crónicas?",
+      "context": "El grupo lee en voz alta la nota de estilo impresa al pie de las crónicas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fechar toda cifra, nombrar a quien aparece y evitar adjetivos valorativos en los subtítulos.",
+          "is_correct": true,
+          "feedback": "Correcto, esos tres requisitos aparecen enunciados en la nota de estilo que el periódico publica al pie de las crónicas."
+        },
+        {
+          "letter": "B",
+          "text": "Publicar las crónicas sin ningún dato numérico.",
+          "is_correct": false,
+          "feedback": "La nota no prohíbe las cifras, sino que obliga a fecharlas y a identificar su fuente."
+        },
+        {
+          "letter": "C",
+          "text": "Escribir en segunda persona para acercarse al lector.",
+          "is_correct": false,
+          "feedback": "La nota de estilo no habla de personas gramaticales; se ocupa de cifras, nombres y subtítulos."
+        },
+        {
+          "letter": "D",
+          "text": "Reservar el nombre de los personajes para el pie de foto.",
+          "is_correct": false,
+          "feedback": "El nombre debe aparecer en el texto, según la nota de estilo, y no únicamente en la página de photographs."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprender una instrucción editorial permite entender el criterio con el que se escribe un género. La nota de estilo protege la precisión y la dignidad de las personas, y limita el tono subjetivo en los títulos. Reconocer esas reglas ayuda a evaluar después si una crónica las cumple o las incumple.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Textual",
+      "expected_success": 0.86,
+      "bundle_id": "CO-LC-10-2026-W35-la-cronica-urbana-y-el-retrato-de-la-ciudad-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W35-la-cronica-urbana-y-el-retrato-de-la-ciudad-001-MASTERY-bundle-v4",
+      "statement": "¿Qué efecto busca producir en el lector la frase final de la crónica, que dice que el tranvía no avanza, recuerda?",
+      "context": "En la clase final cada grupo lee el subtítulo de su crónica ante el aula.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Describir el estado mecánico de los vagones restaurados.",
+          "is_correct": false,
+          "feedback": "La frase no habla de motores ni de restauradores; su efecto depende del sentido que sugiere, no del funcionamiento técnico."
+        },
+        {
+          "letter": "B",
+          "text": "Recomendar que los lean cuatro mil pesos en total.",
+          "is_correct": false,
+          "feedback": "La cifra del pasaje ya aparece en el cuerpo de la crónica y no se usa aquí como recomendación ni como remate."
+        },
+        {
+          "letter": "C",
+          "text": "Presentar el tranvía como una memoria viva de la ciudad.",
+          "is_correct": true,
+          "feedback": "Correcto, al quitarle el avance y darle la capacidad de recordar, el tranvía se convierte en símbolo del pasado urbano."
+        },
+        {
+          "letter": "D",
+          "text": "Mostrar que la periodista dudó durante los cuarenta minutos del viaje.",
+          "is_correct": false,
+          "feedback": "El texto presenta una certeza y una imagen final, no una duda profesional, y esa duda no se sostiene con la frase."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Aplicar la lectura inferencial consiste en deducir el efecto de una frase final a partir de sus términos. Negarle el avance al tranvía y darle la memoria transforma un medio de transporte en símbolo de la ciudad. Captar ese desplazamiento imaginativo muestra que la crónica conclude con una imagen y no con un resumen.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Inferencial",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LC-10-2026-W35-la-cronica-urbana-y-el-retrato-de-la-ciudad-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W35-la-cronica-urbana-y-el-retrato-de-la-ciudad-001-MASTERY-bundle-v5",
+      "statement": "Cuando la crónica dice que el tranvía no avanza sino que recuerda, ¿qué procedimiento se está usando?",
+      "context": "Los estudiantes discuten si esa frase es una metáfora o una descripción literal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hipérbole.",
+          "is_correct": false,
+          "feedback": "No hay exageración de una magnitud, sino la transferencia de una facultad humana a un objeto, que es otro procedimiento."
+        },
+        {
+          "letter": "B",
+          "text": "Personificación.",
+          "is_correct": true,
+          "feedback": "Correcto, se le atribuye a un medio de transporte una capacidad humana, la memoria, para decir algo sobre la ciudad."
+        },
+        {
+          "letter": "C",
+          "text": "Símbolo.",
+          "is_correct": false,
+          "feedback": "El símbolo es el resultado leído en el texto, mientras que el procedimiento concreto que lo produce es la transferencia de la acción."
+        },
+        {
+          "letter": "D",
+          "text": "Metonimia.",
+          "is_correct": false,
+          "feedback": "La metonimia sustituye un término por otro cercano, y aquí lo que se hace es atribuir una acción humana a un objeto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Distinguir el procedimiento del efecto evita confusiones frecuentes en el análisis literario. El procedimiento es la transferencia de una acción humana al tranvía, y el símbolo es la consecuencia que esa transferencia produce en el lector. Nombrar con precisión cada nivel permite explicar mejor la fuerza del cierre de la crónica.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-10-2026-W35-la-cronica-urbana-y-el-retrato-de-la-ciudad-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W35-la-cronica-urbana-y-el-retrato-de-la-ciudad-001-MASTERY-bundle-v6",
+      "statement": "¿Qué relación tiene el subtítulo de las crónicas con el cuerpo del texto?",
+      "context": "En el tablero los estudiantes separan el subtítulo del cuerpo de cada crónica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El subtítulo repite palabra por palabra el primer párrafo.",
+          "is_correct": false,
+          "feedback": "La nota de estilo solo exige evitar adjetivos valorativos en los subtítulos, y no impone la repetición del texto."
+        },
+        {
+          "letter": "B",
+          "text": "El subtítulo contradice el tono informativo del cuerpo.",
+          "is_correct": false,
+          "feedback": "El subtítulo anuncia el asunto y no contradice el tono; el cuerpo desarrolla con datos lo que el título anuncia."
+        },
+        {
+          "letter": "C",
+          "text": "El subtítulo sirve para que el lector decida si lee o no, y el cuerpo no lo necesita.",
+          "is_correct": false,
+          "feedback": "El subtítulo orienta la lectura, pero el cuerpo es el que documenta y explica con datos concretos lo prometido."
+        },
+        {
+          "letter": "D",
+          "text": "El subtítulo anuncia el asunto y el cuerpo lo desarrolla con datos y escenas.",
+          "is_correct": true,
+          "feedback": "Correcto, la estructura es de anticipación y desarrollo, y ese es el mecanismo que sostiene la lectura periodística."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Comprender la estructura de un texto-periodístico permite seguir el hilo de la información. El subtítulo anuncia y el cuerpo demuestra, y esa secuencia evita que el lector reciba afirmaciones sin respaldo. Analizar esa relación ayuda además a redactar una crónica propia con títulos que no prometan más de lo que el texto cumple.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-10-2026-W35-la-cronica-urbana-y-el-retrato-de-la-ciudad-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W35-la-cronica-urbana-y-el-retrato-de-la-ciudad-001-MASTERY-bundle-v7",
+      "statement": "¿A qué lector sirve principalmente el suplemento de crónicas del Texto 1 y del Texto 2?",
+      "context": "El profesor pregunta para quién se escriben estas crónicas del centro de Popayán.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A quien ya conoce la ciudad y quiere reconocerla en los detalles.",
+          "is_correct": true,
+          "feedback": "Correcto, las crónicas apoyan su valor en lo conocido y en lo cotidiano, por eso funcionan mejor para el lector local."
+        },
+        {
+          "letter": "B",
+          "text": "A un turista que busca datos exacto para organizar un viaje.",
+          "is_correct": false,
+          "feedback": "La nota de estilo prohíbe precisamente ese tipo de dato utilitario en favor de los nombres propios y de las fechas."
+        },
+        {
+          "letter": "C",
+          "text": "A un investigador que necesita mediciones de tráfico y de temperatura.",
+          "is_correct": false,
+          "feedback": "Las crónicas no publican mediciones de tráfico ni de temperatura, y ese tipo de lector no es su destinatario natural."
+        },
+        {
+          "letter": "D",
+          "text": "A un lector que busca únicamente una opinión sobre el tranvía.",
+          "is_correct": false,
+          "feedback": "Las crónicas no expresan una opinión valorativa, y la nota de estilo evita precisamente los adjetivos valorativos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Identificar el destinatario de un texto es un ejercicio de lectura pragmática. Las crónicas del centro valoran el reconocimiento, de modo que aparecen dirigidas a quien ya recorre la ciudad. Reconocer ese lector asignado explica por qué el detalle cotidiano pesa más que el dato de servicio en estas páginas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-10-2026-W35-la-cronica-urbana-y-el-retrato-de-la-ciudad-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W35-la-cronica-urbana-y-el-retrato-de-la-ciudad-001-MASTERY-bundle-v8",
+      "statement": "Según el Texto 1, ¿de qué manera construye la crónica el retrato de la ciudad?",
+      "context": "Los equipos analizan cómo pasa de un objeto a un conjunto de personajes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mediante la comparación del centro de Popayán con ciudades más grandes.",
+          "is_correct": false,
+          "feedback": "La crónica no compara a Popayán con ninguna otra ciudad; su mirada se queda en lo local y en lo que la cámara ve."
+        },
+        {
+          "letter": "B",
+          "text": "Mediante la publicación de un mapa con los sitios turísticos más visitados.",
+          "is_correct": false,
+          "feedback": "El recuadro que aparece en la página indica la ruta del tranvía, y no un mapa turístico con lugares más visitados."
+        },
+        {
+          "letter": "C",
+          "text": "Mediante un objeto cotidiano y las historias de quienes lo usan.",
+          "is_correct": true,
+          "feedback": "Correcto, la crónica toma el tranvía como punto de partida y construye el retrato con lo que dicen sus pasajeros."
+        },
+        {
+          "letter": "D",
+          "text": "Mediante el inventario de los edificios del centro y su año de construcción.",
+          "is_correct": false,
+          "feedback": "El texto no incluye inventarios ni fechas de construcción; su información se concentra en personas y en objetos de uso."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Analizar el procedimiento de un género exige identificar desde dónde construye su mirada. La crónica arranca de un objeto de uso cotidiano y avanza hacia las personas que lo comparten. Reconocer ese camino permite explicar por qué un texto breve logra un retrato amplio sin salirse de lo concreto.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Inferencial",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-10-2026-W35-la-cronica-urbana-y-el-retrato-de-la-ciudad-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W35-la-cronica-urbana-y-el-retrato-de-la-ciudad-001-MASTERY-bundle-v9",
+      "statement": "¿Qué ganancia tiene el Texto 2 al presentar a las vendedoras como dueñas de facto del parque, en vez de describirlas como decorado del centro?",
+      "context": "El grupo lee la frase sobre el parque Caldas y debate su tono.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Permite que la crónica evite mencionar el número de puestos que existen.",
+          "is_correct": false,
+          "feedback": "El texto informa los veintidós puestos, de modo que esa omisión no se produce en ningún momento."
+        },
+        {
+          "letter": "B",
+          "text": "Recupera a las vendedoras como sujetos activos de la ciudad y no como paisaje.",
+          "is_correct": true,
+          "feedback": "Correcto, esa mirada cambia el papel de las mujeres del centro, que aparecen como dueñas del espacio y no como decorado."
+        },
+        {
+          "letter": "C",
+          "text": "Obliga al periódico a retirar la nota de estilo del pie de página.",
+          "is_correct": false,
+          "feedback": "La nota de estilo sigue vigente y se aplica por igual a las tres crónicas del suplemento."
+        },
+        {
+          "letter": "D",
+          "text": "Convierte la crónica del parque Caldas en un texto de opinion política.",
+          "is_correct": false,
+          "feedback": "El texto conserva el registro informativo y crónico, y no cambia de género en ningún momento."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Analizar un texto exige preguntar a quién le habla y desde dónde observa. Cuando la crónica deja de tratar a las vendedoras como decorado y las presenta como dueñas del espacio, cambia la relación de poder de la mirada. Identificar ese desplazamiento revela el criterio ético que también exige la nota de estilo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.73,
+      "bundle_id": "CO-LC-10-2026-W35-la-cronica-urbana-y-el-retrato-de-la-ciudad-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W35-la-cronica-urbana-y-el-retrato-de-la-ciudad-001-MASTERY-bundle-v10",
+      "statement": "¿Qué efecto tiene que las dos crónicas del Texto 2 terminen con un dato seco, sin adjetivos?",
+      "context": "Los estudiantes revisan el cierre de las dos crónicas del Texto 2.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Convierte el final en una conclusión moral sobre el centro de la ciudad.",
+          "is_correct": false,
+          "feedback": "Un dato seco no formula juicio moral; su función es informativa y el texto no busca moralizar en el cierre."
+        },
+        {
+          "letter": "B",
+          "text": "Hace que el lector sospeche de la veracidad de las cifras citadas.",
+          "is_correct": false,
+          "feedback": "La nota de estilo exige justamente fechar las cifras, de manera que el dato seco refuerza la confianza del lector."
+        },
+        {
+          "letter": "C",
+          "text": "Elimina la necesidad de las escenas y de los personajes del cuerpo.",
+          "is_correct": false,
+          "feedback": "Las escenas y los personajes sostienen el texto, y el dato final funciona como remate y no como sustituto."
+        },
+        {
+          "letter": "D",
+          "text": "Convierte el dato en el remate emocional de la escena.",
+          "is_correct": true,
+          "feedback": "Correcto, al terminar con el número, la crónica deja que el hecho hable por sí mismo y ese contraste produce el efecto."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Analizar un cierre exige atender a la tensión entre lo que se dice y lo que se calla. Un dato seco después de una escena larga obliga al lector a interpretar por sí mismo, y esa transferencia produce emoción sin adjetivos. Reconocer ese mecanismo explica por qué el dato final de una crónica pesa más que una conclusión explicada.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.71,
+      "bundle_id": "CO-LC-10-2026-W35-la-cronica-urbana-y-el-retrato-de-la-ciudad-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W35-la-cronica-urbana-y-el-retrato-de-la-ciudad-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es la mayor fortaleza del híbrido entre periodismo y literatura en estas tres crónicas?",
+      "context": "En la clase se debate qué distingue a la crónica de un simple nota periodística.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reportan hechos verificables y, a la vez, construyen personajes a partir de esos hechos.",
+          "is_correct": true,
+          "feedback": "Correcto, esa doble función es el núcleo del género: el dato sostiene la imagen y la imagen da sentido al dato."
+        },
+        {
+          "letter": "B",
+          "text": "Publican datos más recientes que los demás medios de comunicación.",
+          "is_correct": false,
+          "feedback": "La nota de estilo exige fechar, pero no establece que estas crónicas sean más recientes ni más actuales que otros medios."
+        },
+        {
+          "letter": "C",
+          "text": "Evitan por completo el uso de cifras para no perder la libertad del detalle.",
+          "is_correct": false,
+          "feedback": "El texto ofrece varios datos concretos: mil quinientos metros, cuatro mil pesos y veinte años en el mismo puesto."
+        },
+        {
+          "letter": "D",
+          "text": "Cumplen una función de entretenimiento sin pretensiones informativas.",
+          "is_correct": false,
+          "feedback": "Las crónicas buscan informar al público, y su nota de estilo exige rigor con las cifras sin reducir el texto al entretenimiento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar el género exige sostener un criterio que explique su valor propio. La crónica funciona cuando el dato verificable y la construcción del personaje se refuerzan, y no compiten entre sí. Ese criterio permite defender la crónica como un texto serio dentro del periodismo y dentro de la literatura.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LC-10-2026-W35-la-cronica-urbana-y-el-retrato-de-la-ciudad-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W35-la-cronica-urbana-y-el-retrato-de-la-ciudad-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es el mejor argumento para refutar esa afirmación con los dos textos?",
+      "context": "Un compañero del grado sostiene que una crónica con datos verificables deja de ser literatura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el Texto 1 no tiene cifras y por eso puede ser considerado literatura.",
+          "is_correct": false,
+          "feedback": "El Texto 1 ofrece tres datos concretos, y esa cifra es precisamente la que permite responder a la afirmación."
+        },
+        {
+          "letter": "B",
+          "text": "Que la literatura nunca incluye datos y esa es la diferencia con el periodismo.",
+          "is_correct": false,
+          "feedback": "Ninguno de los dos textos usa esa diferencia, y ambos incorporan cifras dentro de un relato con imágenes."
+        },
+        {
+          "letter": "C",
+          "text": "Que en las crónicas las cifras sostienen imágenes y personajes, de modo que la precisión amplía la lectura literaria.",
+          "is_correct": true,
+          "feedback": "Correcto, los datos sostienen personajes, escenas y el cierre simbólico, así que la cifra trabaja a favor de lo literario."
+        },
+        {
+          "letter": "D",
+          "text": "Que las crónicas no leen como periodismo porque terminan con una imagen.",
+          "is_correct": false,
+          "feedback": "Un cierre poético no borra el carácter informativo del texto, y el género se define por el modo de trabajar los hechos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar un juicio ajeno exige responder con la evidencia interna de los textos y no con una generalización. Las crónicas muestran que la cifra puede sostener una imagen y un personaje en lugar de reemplazarlos. Ese razonamiento sostiene una postura crítica frente a la idea de que el dato destruye lo literario.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-10-2026-W35-la-cronica-urbana-y-el-retrato-de-la-ciudad-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}
