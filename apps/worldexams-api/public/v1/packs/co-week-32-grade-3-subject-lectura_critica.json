@@ -374,6 +374,374 @@
       "subject": "lectura_critica",
       "grade": 3,
       "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W32-los-refranes-colombianos-001-MASTERY-bundle-v1",
+      "statement": "En el Texto 1, ¿cuántos niños dijeron un refrán antes de que la profesora comprara los marcadores?",
+      "context": "En el salón 3B de Pereira, los niños de tercero cuentan en voz alta cuántos compañeros dijeron un refrán antes de pegar el mural.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cuatro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la cantidad de marcadores que compró la profesora, no la cantidad de niños que hablaron."
+        },
+        {
+          "letter": "B",
+          "text": "Cinco.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La narración cuenta los nombres de los niños que dijeron un refrán y son seis, no cinco."
+        },
+        {
+          "letter": "C",
+          "text": "Seis.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Sofía, Camilo, Valentina, Tomás, Sebastián y Marcela dijeron uno cada uno, y el texto lo resume así: seis niños dijeron un refrán."
+        },
+        {
+          "letter": "D",
+          "text": "Ocho.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ocho es el número de refranes que quedaron en el mural al final, porque la profesora añadió dos más."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La lectura literal permite localizar datos que el texto dice de manera directa y comprobable. Contar nombres y cantidades ayuda a los estudiantes de tercero a fijar la información explícita antes de interpretar. Separar la cantidad de niños que hablaron de la cantidad de refranes del mural enseña a no confundir dos números parecidos que aparecen en el mismo relato.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-3-2026-W32-los-refranes-colombianos-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W32-los-refranes-colombianos-001-MASTERY-bundle-v2",
+      "statement": "En el Texto 2, ¿qué quiere decir que un refrán tenga sentido figurado?",
+      "context": "En una clase de tercero en Manizales, la profesora pide a los niños que expliquen con sus propias palabras qué significa la expresión sentido figurado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que las palabras del refrán son difíciles de pronunciar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto dice que el sentido figurado tiene que ver con el significado, no con la manera de pronunciar."
+        },
+        {
+          "letter": "B",
+          "text": "Que sus palabras no se toman de manera literal, sino que esconden una idea más grande.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El Texto 2 explica que las palabras sirven de imagen para expresar un consejo o una experiencia, sin decir exactamente eso."
+        },
+        {
+          "letter": "C",
+          "text": "Que el refrán se cuenta en un solo párrafo y no en varios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La extensión del texto no tiene relación con el sentido figurado, que trata del significado de las palabras."
+        },
+        {
+          "letter": "D",
+          "text": "Que las palabras del refrán no se pueden cambiar nunca.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Texto 2 aclara que el mismo sentido se puede decir con palabras distintas en cada región."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comprender el sentido figurado es el paso inicial para leer un refrán sin tomarlo a la ligera. En tercero los estudiantes necesitan separar lo que las palabras dicen de lo que quieren decir. Esta comprensión abre la puerta a los niveles de aplicación y análisis de los textos sobre refranes.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-3-2026-W32-los-refranes-colombianos-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W32-los-refranes-colombianos-001-MASTERY-bundle-v3",
+      "statement": "Según el Texto 1 y el Texto 2, ¿cuál de los refranes leídos le encaja mejor a ese compañero y por qué?",
+      "context": "En Bucaramanga, un compañero de clase promete entregar el trabajo de la tarde y después no lo entrega.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Al que madruga, Dios le ayuda, porque el refrán habla de levantarse temprano.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese refrán habla de empezar temprano, no de cumplir una promesa o de terminar lo que se empieza."
+        },
+        {
+          "letter": "B",
+          "text": "A laaruplata, no hay como la plata ajena, porque el refrán trata del dinero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Texto 1 aclara que ese refrán se usa para no tomar lo que no le pertenece a otro."
+        },
+        {
+          "letter": "C",
+          "text": "Ojos que no ven, corazón que no siente, porque el refrán habla de no hacer caso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese refrán se refiere a mirar sin prestar atención, no a incumplir lo que se dijo que se iba a hacer."
+        },
+        {
+          "letter": "D",
+          "text": "Del dicho al hecho hay mucho trecho, porque una cosa es decir y otra es hacer.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Prometer es el dicho y entregar el trabajo es el hecho, y el Texto 2 explica que ese refrán no habla de caminos sino de esa diferencia."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Aplicar un refrán consiste en elegir la frase que explica una situación real y justificar la elección con el sentido figurado. El uso adecuado del lenguaje es una competencia que se practica en muchos casos de la vida diaria. Cuando el estudiante justifica su respuesta, ya está pensando como un hablante adulto de su región.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-3-2026-W32-los-refranes-colombianos-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W32-los-refranes-colombianos-001-MASTERY-bundle-v4",
+      "statement": "En el Texto 1, ¿qué sentido de los refranes leídos está aplicando Camilo con esa costumbre?",
+      "context": "En Pasto, Camilo cuenta en el salón que todos los viernes se despierta temprano para leer antes de que suenen las campanas del colegio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El consejo de Al que madruga, Dios le ayuda, porque el esfuerzo de empezar temprano le trae buenos resultados.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El Texto 1 dice que Camilo dijo esa frase justamente porque madruga los viernes para leer, o sea, por empezar con tiempo."
+        },
+        {
+          "letter": "B",
+          "text": "Del dicho al hecho hay mucho trecho, porque él habla mucho de leer y lee poco.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Nada en el Texto 1 dice que Camilo hable de leer sin hacerlo; el texto cuenta que sí lee los viernes."
+        },
+        {
+          "letter": "C",
+          "text": "A laaruplata, no hay como la plata ajena, porque él lee material prestado de la biblioteca.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese refrán se usa cuando alguien toma lo que no es suyo, y de prestado de libros nada se dice en el texto."
+        },
+        {
+          "letter": "D",
+          "text": "Quien mucho abarca, poco aprieta, porque él hace muchas cosas sin terminar ninguna.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no dice que Camilo deje todo a medias; describe una rutina que sí realiza."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Inferir es buscar la idea que el texto no escribe pero que se deduce de lo que sí dice. El estudiante que reconoce el consejo de madrugar dentro de la rutina de Camilo está aplicando el sentido figurado en un caso concreto. Esta habilidad prepara la lectura crítica de textos más complejos en grados posteriores.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Inferencial",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-3-2026-W32-los-refranes-colombianos-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W32-los-refranes-colombianos-001-MASTERY-bundle-v5",
+      "statement": "Como el Texto 2 dice que en Colombia hay refranes de muchas regiones, ¿qué deben hacer en la clase de tercero esos dos niños que dicen lo mismo con palabras distintas?",
+      "context": "En un intercambio de carteles entre niños de Cartagena y de Medellín, dos niños explican el mismo consejo con palabras diferentes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Escoger solamente el refrán más largo para que los demás lo entiendan.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Texto 2 no dice que el tamaño de la frase importa; lo que importa es conocer su origen."
+        },
+        {
+          "letter": "B",
+          "text": "Contar cuántas veces dijo cada refrán su abuelo o su abuela.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no pide medir la repetición, sino entender por qué se dice el refrán y cuándo conviene usarlo."
+        },
+        {
+          "letter": "C",
+          "text": "Estudiar el origen de cada uno para entender por qué se dice y cuándo conviene usarlo.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El Texto 2 afirma que en tercero se estudia el origen del refrán para saber por qué se dice y cuándo es conveniente usarlo."
+        },
+        {
+          "letter": "D",
+          "text": "Cambiar los dos refranes por palabras nuevas para que sean iguales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto dice que el mismo sentido se puede decir con palabras distintas, y no que haya que borrar las diferentes."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Reconocer que una misma idea puede expresarse de varias maneras amplia la comprensión de los textos. Comparar dos versiones permite entender cómo cambia el lenguaje según la región sin cambiar el mensaje. Este trabajo de comparación prepara el pensamiento crítico frente a textos de distintas fuentes.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-3-2026-W32-los-refranes-colombianos-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W32-los-refranes-colombianos-001-MASTERY-bundle-v6",
+      "statement": "Un compañero dice que el refrán A laaruplata, no hay como la plata ajena significa que la plata de los demás es mejor que la propia. ¿Por qué esa lectura es incorrecta?",
+      "context": "En el salón de tercero de Ibagué, un compañero de clase interpreta el refrán de la abuela de Sofía de una manera equivocada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el refrán no tiene nada que ver con el dinero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Texto 1 sí menciona la plata, y por eso precisamente usa esa imagen para enseñar."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el Texto 2 explica que el refrán no se toma literal: usa la imagen de la plata para advertir que no se debe tomar lo que no es tuyo.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Nadie está diciendo que la plata ajena sea mejor; el sentido figurado esconde una advertencia sobre lo que no nos pertenece."
+        },
+        {
+          "letter": "C",
+          "text": "Porque Sofía solo lo dijo una vez y nadie de la clase lo repitió.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Texto 1 cuenta que seis niños dijeron un refrán, así que la repetición no es el problema."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la palabra plata no aparece en el mural que quedó en la ventana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La discusión es sobre el significado del refrán, no sobre qué palabras quedaron pegadas en el mural."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Analizar una interpretación permite detectar cuándo el lector tomó las palabras de manera literal. Reconocer que el refrán esconde una advertencia enseña que la letra no es todo el mensaje. Esta capacidad de evaluar respuestas es uno de los pasos finales del proceso lector de tercero.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LC-3-2026-W32-los-refranes-colombianos-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W32-los-refranes-colombianos-001-MASTERY-bundle-v7",
+      "statement": "La profesora propone pegar en el mural únicamente los dos refranes que ella escribió, para que todos se vean iguales. ¿Qué le contestaría un niño que entendió el Texto 2?",
+      "context": "En Villavicencio, la profesora propone cambiar el mural hecho por los niños por una lista escrita solamente por ella.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que está bien, porque así el mural queda más ordenado y más limpio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Texto 2 no pide uniformidad; explica que los refranes vienen de regiones y personas distintas."
+        },
+        {
+          "letter": "B",
+          "text": "Que es mejor no pegar refranes, porque la gente no los entiende.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si nadie los entendiera, no se usarían todos los días como cuentan las abuelas en el Texto 1."
+        },
+        {
+          "letter": "C",
+          "text": "Que dejen el mural en blanco hasta el viernes de la otra semana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa propuesta no tiene relación con lo que explica el Texto 2 sobre el origen de los refranes."
+        },
+        {
+          "letter": "D",
+          "text": "Que es mejor incluir los refranes de cada región y de cada niño, porque así se conoce de dónde vienen y se pueden comparar.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El Texto 2 dice que en Colombia hay refranes de muchas regiones, y conocer ese origen es justamente lo que estudia el grado."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar una propuesta exige contrastarla con lo que el texto enseña y decir con razones por qué se acepta o se rechaza. Incluir la voz de los estudiantes en el mural valoriza las palabras heredadas de sus familias. Esta forma de razonar prepara a los niños para tomar parte en decisiones de su propio aprendizaje.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-3-2026-W32-los-refranes-colombianos-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W32-los-refranes-colombianos-001-MASTERY-bundle-v8",
+      "statement": "En el Texto 1 se lee el refrán Ojos que no ven, corazón que no siente. ¿Qué palabra une las dos partes del refrán y qué trabajo hace?",
+      "context": "En el aula de Barranquilla, la profesora pide a los niños que revisen con lupa las palabras que unen las partes de un refrán.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La palabra que, porque enlaza los dos sujetos para compararlos entre sí.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Sin que no se unirían las dos partes, y el refrán usa esa palabra justamente para mostrar que una cosa va con la otra."
+        },
+        {
+          "letter": "B",
+          "text": "La palabra porque, porque el refrán presenta una causa y no una comparación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El refrán no presenta una causa con porque, sino dos partes que se comparan con que."
+        },
+        {
+          "letter": "C",
+          "text": "La palabra ven, porque nombra la acción que hacen los ojos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ver es un verbo, no la palabra que une las dos partes del refrán."
+        },
+        {
+          "letter": "D",
+          "text": "La palabra siente, porque explica cómo se debe entender el refrán.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Siente es el último verbo del refrán y no cumple la función de unir."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Mirar con atención cómo están armadas las frases revela que las palabras pequeñas también tienen un trabajo. Reconocer las palabras que unen y comparan ayuda a entender por qué el refrán es breve y fuerte. Este trabajo de análisis se convierte después en una herramienta para escribir frases propias con sentido claro.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-3-2026-W32-los-refranes-colombianos-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
     }
   ]
 }
