@@ -84,7 +84,7 @@ La carta mantiene una fórmula fija en su encabezamiento: lugar, fecha, línea d
 **ID:** CO-LEN-9-2026-W12-la-ortografia-y-la-puntuacion-001-MASTERY-bundle-v4
 **Bloom:** Apply
 **ICFES:** Discursivo
-**Contexto:** En Pasto, un grupo de noveno grado revisa los dos puntos de un texto informational.
+**Contexto:** En Pasto, un grupo de noveno grado revisa los dos puntos de un texto informativo.
 **Expected_Success:** 0.76
 
 ### Enunciado

@@ -163,11 +163,10 @@ Responder en un debate exige atacar la idea del otro con una razón y no simplem
 
 ### Enunciado
 Un expositor habla muy rápido, con datos exactos, pero nadie lo sigue. Qué conviene concluir de esa situación?
-Un expositor habla muy rápido, con datos exactos, pero nadie lo sigue. Qué conviene concluir de esa situación?
 
 ### Opciones
 - [ ] A) Que los datos son innecesarios cuando el público no puede seguirlos <!-- feedback: Los datos siguen siendo valiosos; lo que falla es el ritmo de la exposición. -->
-- [ ] B) Que el problema está en la accuracy de los datos y no en la forma de hablar <!-- feedback: Los datos son exactos, así que el problema se encuentra en otro aspecto de la exposición. -->
+- [ ] B) Que el problema está en la exactitud de los datos y no en la forma de hablar <!-- feedback: Los datos son exactos, así que el problema se encuentra en otro aspecto de la exposición. -->
 - [x] C) Que la claridad depende tanto del contenido como de la forma de decirlo <!-- feedback: Un buen contenido puede no comprenderse si se presenta con un ritmo inaccesible. -->
 - [ ] D) Que la oralidad no sirve para trabajar, porque los datos se aprenden mejor leyendo <!-- feedback: La oralidad también es un medio válido para transmitir información comprobada. -->
 
@@ -201,7 +200,6 @@ Mencionar la fuente de un dato es lo que permite a quien escucha comprobarlo y v
 **Expected_Success:** 0.60
 
 ### Enunciado
-Un participante sostiene que su postura es la correcta porque su exposición duró más tiempo. Qué evaluación de ese razonamiento es la más sólida?
 Un participante sostiene que su postura es la correcta porque su exposición duró más tiempo. Qué evaluación de ese razonamiento es la más sólida?
 
 ### Opciones
