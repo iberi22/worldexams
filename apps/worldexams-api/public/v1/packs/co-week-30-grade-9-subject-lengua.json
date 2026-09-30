@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-30-grade-9-subject-lengua",
+    "generated_at": "2026-09-30T04:41:41.889Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-9-2026-W30-el-resumen-y-la-sintesis-textual-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la diferencia entre un resumen y una síntesis?",
+      "context": "En una clase de noveno en Bogotá, la profesora prepara una evaluación sobre técnicas de compresión de textos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El resumen reproduce el contenido de un texto; la síntesis reorganiza y compara contenidos de varios.",
+          "is_correct": true,
+          "feedback": "La distinción está en la fuente y en el procedimiento: uno comprime un solo texto y el otro articula varios."
+        },
+        {
+          "letter": "B",
+          "text": "El resumen es más largo que la síntesis, porque conserva todos los detalles.",
+          "is_correct": false,
+          "feedback": "Ambos textos son más cortos que el original; lo que los diferencia no es la extensión."
+        },
+        {
+          "letter": "C",
+          "text": "La síntesis copia frases completas; el resumen las reescribe con otras palabras.",
+          "is_correct": false,
+          "feedback": "La diferencia no está en copiar o reescribir, sino en trabajar con uno o varios textos."
+        },
+        {
+          "letter": "D",
+          "text": "El resumen se escribe siempre en segunda persona y la síntesis en tercera persona.",
+          "is_correct": false,
+          "feedback": "La persona narrativa es una elección del autor y no define el tipo de texto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El resumen comprime un texto conservando su contenido, mientras que la síntesis articula contenidos de distintas fuentes para responder a un problema. Ambas técnicas exigen identificar lo esencial, pero la síntesis añade un trabajo de comparación y de relación. Distinguirlas es lo que permite elegir la herramienta adecuada para cada tarea académica.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Semantico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W30-el-resumen-y-la-sintesis-textual-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W30-el-resumen-y-la-sintesis-textual-001-MASTERY-bundle-v2",
+      "statement": "¿Qué información del texto permite identificar con mayor facilidad su idea principal?",
+      "context": "En un texto informativo de noveno, el primer párrafo anuncia el tema y los siguientes desarrollan cuatro subtemas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La oración que anuncia el tema y de la que se derivan los subtemas.",
+          "is_correct": true,
+          "feedback": "La tesis inicial funciona como referencia: los párrafos siguientes la desarrollan y la justifican."
+        },
+        {
+          "letter": "B",
+          "text": "La oración más larga del texto, porque la longitud señala la importancia.",
+          "is_correct": false,
+          "feedback": "Una oración larga puede contener detalles secundarios y noexprestar la idea central."
+        },
+        {
+          "letter": "C",
+          "text": "La última oración del texto, porque todo resumen termina con una conclusión.",
+          "is_correct": false,
+          "feedback": "La posición final no es una garantía: la idea principal puede aparecer al principio o en el centro."
+        },
+        {
+          "letter": "D",
+          "text": "La oración que contiene más cifras, porque los datos cuantitativos son siempre centrales.",
+          "is_correct": false,
+          "feedback": "Un dato numérico puede ser un ejemplo dentro de un subtema y no la idea que organiza el texto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La idea principal es la afirmación que el texto usa como eje y a la que todos los demás contenidos se subordinan. Identificarla exige preguntar qué quedaría sin relación si esa afirmación desapareciera. Ese criterio de dependencia es más seguro que los indicadores de posición o de longitud.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Textual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W30-el-resumen-y-la-sintesis-textual-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W30-el-resumen-y-la-sintesis-textual-001-MASTERY-bundle-v3",
+      "statement": "¿Qué problema tiene ese resumen con respecto a la estructura del texto original?",
+      "context": "Un estudiante de noveno escribe un resumen de un texto de seis páginas y solo conserva el primer párrafo y el último.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No tiene problema, porque el resumen solo debe ser breve.",
+          "is_correct": false,
+          "feedback": "La brevedad no autoriza a descartar la estructura: sin la lógica interna, el resumen pierde sentido."
+        },
+        {
+          "letter": "B",
+          "text": "Omite los párrafos que desarrollan los subtemas y deja el texto sin su relación central.",
+          "is_correct": true,
+          "feedback": "Sin las secciones intermedias desaparece el vínculo entre la idea principal y sus apoyos."
+        },
+        {
+          "letter": "C",
+          "text": "Repite el contenido del original, en lugar de reducirlo.",
+          "is_correct": false,
+          "feedback": "Repetir no es resumir: un resumen selecciona lo esencial y lo reescribe de forma compacta."
+        },
+        {
+          "letter": "D",
+          "text": "Consume más palabras que el texto original.",
+          "is_correct": false,
+          "feedback": "El problema no es la extensión, sino la pérdida de la estructura argumentativa."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un resumen conserva la organización lógica del texto original, no solo sus extremos. Al eliminar los párrafos intermedios se pierde la cadena de razones que sostiene la idea principal. Por eso resumir bien exige leer el texto completo antes de decidir qué se conserva.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W30-el-resumen-y-la-sintesis-textual-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W30-el-resumen-y-la-sintesis-textual-001-MASTERY-bundle-v4",
+      "statement": "¿Qué forma de presentación resulta más pertinente para ese informe?",
+      "context": "Un comité escolar en Medellín debe informar a los padres sobre el rendimiento del período en cinco minutos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Leer íntegramente el informe escrito, sin modificarlo.",
+          "is_correct": false,
+          "feedback": "Leer todo excede el tiempo disponible y obliga a los padres a extraer ellos mismos lo esencial."
+        },
+        {
+          "letter": "B",
+          "text": "Presentar únicamente los resultados que favorecen al colegio.",
+          "is_correct": false,
+          "feedback": "Ocultar resultados dificulta la comprensión y rompe la confianza con la comunidad educativa."
+        },
+        {
+          "letter": "C",
+          "text": "Entregar el documento escrito para que cada padre lo lea por su cuenta.",
+          "is_correct": false,
+          "feedback": "Entregar el documento sin explicación oral traslada la tarea al público y no cumple el objetivo de informar."
+        },
+        {
+          "letter": "D",
+          "text": "Presentar los datos principales, explicados de manera ordenada y sin añadir opiniones propias.",
+          "is_correct": true,
+          "feedback": "Adaptar la información al tiempo y al propósito requiere seleccionar lo esencial y explicarlo con claridad."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Un informe en un tiempo limitado exige un criterio de selección basado en el propósito y en la audiencia. Lo que debe conservarse es lo que los padres necesitan para comprehend lo ocurrido, y debe explicarse en un orden que facilite la comprensión. La síntesis cumple precisamente esa función de comprimir sin traicionar.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W30-el-resumen-y-la-sintesis-textual-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W30-el-resumen-y-la-sintesis-textual-001-MASTERY-bundle-v5",
+      "statement": "¿Qué característica le falta a ese texto para considerarse un resumen adecuado?",
+      "context": "Un estudiante de noveno en Cali resume un texto y escribe: \"El artículo habla de muchas cosas y tiene información interesante\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le falta el contenido, porque no informa qué dice el texto ni qué sostiene su autor.",
+          "is_correct": true,
+          "feedback": "Un resumen sin información sobre el contenido no cumple la función de comprimir el texto original."
+        },
+        {
+          "letter": "B",
+          "text": "Le faltan comillas, porque todo resumen debe citar literalmente al original.",
+          "is_correct": false,
+          "feedback": "Un resumen no obliga a reproducir literalmente; puede reformular el contenido original."
+        },
+        {
+          "letter": "C",
+          "text": "Le falta un título, porque los resúmenes siempre necesitan uno.",
+          "is_correct": false,
+          "feedback": "El título es recomendable, pero su ausencia no invalida la calidad del resumen."
+        },
+        {
+          "letter": "D",
+          "text": "Le falta la firma del autor, porque todo trabajo personal debe firmarse.",
+          "is_correct": false,
+          "feedback": "La firma pertenece al autor del trabajo, no al texto resumido, y no resuelve la falta de contenido."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un resumen debe responder a la pregunta de qué dice el texto y cómo lo dice. Las expresiones generales, como \"habla de muchas cosas\", no aportan información verificable sobre el contenido original. Por eso un resumen se evalúa por su capacidad de sustituir al texto sin deformarlo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semantico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W30-el-resumen-y-la-sintesis-textual-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W30-el-resumen-y-la-sintesis-textual-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál debe ser la organización del texto que el grupo debe escribir?",
+      "context": "Un grupo de noveno en Bucaramanga debe escribir una síntesis sobre el transporte escolar con base en tres textos distintos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Copiar el primer texto completo y luego pegar los otros dos al final.",
+          "is_correct": false,
+          "feedback": "Unir textos completos no produce una síntesis: el lector no encuentra una respuesta articulada."
+        },
+        {
+          "letter": "B",
+          "text": "Resumir cada texto por separado y presentar los tres resúmenes en columnas.",
+          "is_correct": false,
+          "feedback": "Esa organización mantiene las fuentes separadas y no establece relaciones entre sus contenidos."
+        },
+        {
+          "letter": "C",
+          "text": "Articular los contenidos de los tres textos alrededor de un problema, usando la referencia de cada fuente.",
+          "is_correct": true,
+          "feedback": "La síntesis exige un eje común y la atribución explícita de lo que se toma de cada texto."
+        },
+        {
+          "letter": "D",
+          "text": "Elegir el texto más largo y resumirlo, mencionando que los otros no eran relevantes.",
+          "is_correct": false,
+          "feedback": "Descartar fuentes sin examinarlas empobrece la síntesis y puede dejar fuera información importante."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La síntesis no es la suma de resúmenes, sino la construcción de un discurso nuevo a partir de varios. Eso exige un eje que organice la información y una atribución clara de lo que se toma de cada fuente. El resultado es un texto que responde a una pregunta y que permite rastrear cada idea hasta su origen.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Critico-Intertextual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W30-el-resumen-y-la-sintesis-textual-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W30-el-resumen-y-la-sintesis-textual-001-MASTERY-bundle-v7",
+      "statement": "¿Qué juicio es el más proporcionado sobre ese resumen?",
+      "context": "En un trabajo de noveno, un estudiante escribe un resumen que incluye comentarios propios sobre lo que el autor del texto dice.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El resumen es mejor, porque los comentarios personales enriquecen la información.",
+          "is_correct": false,
+          "feedback": "Un comentario propio no pertenece a un resumen: mezcla la voz del autor con la del resumidor."
+        },
+        {
+          "letter": "B",
+          "text": "El resumen está contaminado, porque no separa el contenido del texto original de la valoración personal.",
+          "is_correct": true,
+          "feedback": "La valoración personal transforma el resumen en un comentario y falsea la representación del original."
+        },
+        {
+          "letter": "C",
+          "text": "El resumen es correcto, porque todo lector puede opinar sobre lo que lee.",
+          "is_correct": false,
+          "feedback": "Poder opinar no significa que esa opinión pueda insertarse dentro de un resumen."
+        },
+        {
+          "letter": "D",
+          "text": "El resumen es defectuoso, porque no puede contener ninguna frase propia del resumidor.",
+          "is_correct": false,
+          "feedback": "Un resumen sí se redacta con palabras propias; lo que no admite es añadir juicios sobre el contenido."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El resumen debe representar el contenido del texto original con palabras del resumidor, pero sin introducir valoraciones. Confundir la reformulación con el comentario lleva a atribuir al autor posiciones que nunca sostuvo. Mantener separadas las dos voces es la condición básica de un resumen fiel.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W30-el-resumen-y-la-sintesis-textual-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W30-el-resumen-y-la-sintesis-textual-001-MASTERY-bundle-v8",
+      "statement": "¿Qué puede concluir un buen análisis a partir de esa distribución del texto?",
+      "context": "Un texto informativo de noveno está dividido en cuatro párrafos, y el tercero ocupa la mitad de la extensión total.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el tercer párrafo contiene la idea principal, porque ocupa la mayor parte.",
+          "is_correct": false,
+          "feedback": "La extensión puede deberse al desarrollo de un ejemplo y no a la afirmación central del texto."
+        },
+        {
+          "letter": "B",
+          "text": "Que los demás párrafos son innecesarios, porque el texto se puede reducir a uno.",
+          "is_correct": false,
+          "feedback": "Los demás párrafos cumplen la función de preparar y sustainer el contenido desarrollado."
+        },
+        {
+          "letter": "C",
+          "text": "Que el texto está mal organizado, porque un buen texto reparte por igual sus partes.",
+          "is_correct": false,
+          "feedback": "El desarrollo desigual entre párrafos es normal en un texto que profundiza en un punto."
+        },
+        {
+          "letter": "D",
+          "text": "Que el tercer párrafo desarrolla en detalle algún contenido que el texto considera importante.",
+          "is_correct": true,
+          "feedback": "Un párrafo que ocupa la mitad del texto probablemente desarrolla con profundidad un contenido relevante."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La distribución del espacio textual ofrece un indicio sobre las prioridades del autor. Un párrafo mucho más largo sugiere que allí se desarrolla un contenido con detalle, ya sea porque es central o porque requiere ejemplos. Ese indicio debe confirmarse leyendo el contenido, no solo contando páginas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W30-el-resumen-y-la-sintesis-textual-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W30-el-resumen-y-la-sintesis-textual-001-MASTERY-bundle-v9",
+      "statement": "¿Qué criterio le permite decidir cuál se ajusta mejor a la tarea?",
+      "context": "Un profesor de noveno recibe dos resúmenes del mismo texto: uno de cuarenta palabras y otro de doscientas, ambos correctos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El de menos palabras, porque un resumen debe ser siempre muy breve.",
+          "is_correct": false,
+          "feedback": "La extensión no define la calidad: un resumen puede tener distintas longitudes según el original."
+        },
+        {
+          "letter": "B",
+          "text": "El de más palabras, porque un resumen largo conserva más información.",
+          "is_correct": false,
+          "feedback": "Un resumen que se acerca al tamaño del original ya no cumple la función de comprimir."
+        },
+        {
+          "letter": "C",
+          "text": "El que conserva las ideas principales sin introducir información que el original no contiene.",
+          "is_correct": true,
+          "feedback": "La fidelidad y la selección son los criterios centrales: ni exceso de brevedad ni adición de datos ajenos."
+        },
+        {
+          "letter": "D",
+          "text": "El que conserva la redacción exacta del texto, porque eso demuestra fidelidad.",
+          "is_correct": false,
+          "feedback": "La resumen no exige copia literal: puede reformular siempre que conserve el sentido del original."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar un resumen exige comparar dos criterios: que conserve lo esencial y que no añada nada. La extensión es un indicio, pero no un criterio suficiente, porque un resumen largo puede seguir siendo pertinente. La pregunta decisiva es si el texto comprimido representa fielmente el original.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W30-el-resumen-y-la-sintesis-textual-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W30-el-resumen-y-la-sintesis-textual-001-MASTERY-bundle-v10",
+      "statement": "¿Qué información aporta esa frase sobre la postura del autor frente al tema?",
+      "context": "En un texto de noveno, el autor escribe: \"el transporte público es un problema complejo que no admite soluciones sencillas\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el autor rechaza de plano la existencia del problema del transporte público.",
+          "is_correct": false,
+          "feedback": "La frase reconoce el problema; lo que cuestiona es la posibilidad de una solución simple."
+        },
+        {
+          "letter": "B",
+          "text": "Que el autor reconoce la existencia del problema, pero rechaza las soluciones fáciles.",
+          "is_correct": true,
+          "feedback": "La frase combina el reconocimiento del problema con una advertencia sobre la complejidad de sus causas."
+        },
+        {
+          "letter": "C",
+          "text": "Que el autor afirma que el problema ya fue resuelto por las autoridades correspondientes.",
+          "is_correct": false,
+          "feedback": "Nada en la frase indica que el problema se haya resuelto."
+        },
+        {
+          "letter": "D",
+          "text": "Que el autor no tiene una posición clara sobre el asunto tratado.",
+          "is_correct": false,
+          "feedback": "La posición es clara: el problema existe y su solución no es simple."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Reconocer la postura del autor es un paso previo a cualquier resumen o síntesis, porque determina qué debe conservarse del texto. La frase analizada tiene dos componentes: la existencia del problema y la negación de su solución sencilla. Captar ambos permite comprimir el contenido sin perder el matiz que el autor quiso dejar.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semantico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W30-el-resumen-y-la-sintesis-textual-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W30-el-resumen-y-la-sintesis-textual-001-MASTERY-bundle-v11",
+      "statement": "¿Qué evaluación es la más sólida del criterio que debe seguir el resumen?",
+      "context": "En un proyecto de noveno, el grupo debe resumir un texto de opinión que presenta dos posturas sobre un mismo tema.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Debe conservar solo la postura que el autor considera correcta.",
+          "is_correct": false,
+          "feedback": "Favorecer una postura convierte el resumen en una intervención parcial del resumidor."
+        },
+        {
+          "letter": "B",
+          "text": "Debe presentar las dos posturas en el mismo orden en que aparecen, sin comentarlas.",
+          "is_correct": false,
+          "feedback": "El orden sin explicación no permite ver la relación entre las posturas, que es lo esencial del texto."
+        },
+        {
+          "letter": "C",
+          "text": "Debe recoger las dos posturas y explicitar en qué se diferencian.",
+          "is_correct": true,
+          "feedback": "Mostrar la diferencia entre las posturas es lo que permite que el resumen Capture el conflicto central del texto."
+        },
+        {
+          "letter": "D",
+          "text": "Debe dejar las posturas sin exponer para evitar que el lector se incline por una de ellas.",
+          "is_correct": false,
+          "feedback": "Ocultar el conflicto central empobrece el resumen y traiciona la estructura del original."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un texto de opinión se resume mostrando el conflicto que lo organiza, no eligiendo un bando. La función del resumen es hacer visible en qué se distinguen las posturas, de modo que el lector pueda seguir el razonamiento original. Explicitar esas diferencias es lo que distingue una síntesis útil de una simple lista de afirmaciones.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W30-el-resumen-y-la-sintesis-textual-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W30-el-resumen-y-la-sintesis-textual-001-MASTERY-bundle-v12",
+      "statement": "¿Qué evaluación resulta la más adecuada de esa afirmación?",
+      "context": "En una discusión de noveno se afirma: \"Quien sabe resumir un texto cualquiera puede resumirlo sin necesidad de leerlo completo\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es verdadera, porque el resumen se puede hacer con el título y las primeras líneas.",
+          "is_correct": false,
+          "feedback": "Un texto puede ocultar sus conclusiones o su idea principal al final, de modo que esa estrategia falla."
+        },
+        {
+          "letter": "B",
+          "text": "Es verdadera, porque la lectura completa nunca es necesaria para resumir.",
+          "is_correct": false,
+          "feedback": "Sin lectura completa no se puede saber qué ideas son principales y cuáles son ejemplos."
+        },
+        {
+          "letter": "C",
+          "text": "Es falsa, pero solo porque los resúmenes deben copiarse al pie de la letra.",
+          "is_correct": false,
+          "feedback": "La corrección no depende de la copia literal: un buen resumen puede ser una reformulación fiel."
+        },
+        {
+          "letter": "D",
+          "text": "Es falsa, porque resumir bien exige identificar la estructura completa antes de seleccionar lo esencial.",
+          "is_correct": true,
+          "feedback": "La selección de lo esencial solo es posible cuando se conoce la organización total del texto."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Resumir no es una técnica de atajo, sino una operación que supone comprensión completa. El resumen decide qué conservar y qué descartar, y esa decisión solo es responsable si el resumidor conoce la estructura total del texto. Sin esa lectura, la síntesis se convierte en suposición sobre lo que el texto dice.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W30-el-resumen-y-la-sintesis-textual-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}
