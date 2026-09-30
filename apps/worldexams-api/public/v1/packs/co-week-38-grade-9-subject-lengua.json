@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-38-grade-9-subject-lengua",
+    "generated_at": "2026-09-30T05:53:13.047Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-9-2026-W38-la-escritura-creativa-y-la-imaginacion-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es la invención dentro del proceso de escritura creativa?",
+      "context": "En Bogotá, la profesora de noveno escribe tres consignas en el tablero y pide definirlas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La creación de elementos que no existen en la realidad pero que el texto presenta como posibles",
+          "is_correct": true,
+          "feedback": "Inventar es construir un hecho, un personaje o un lugar que el mundo real no contiene, y|Español coherencia interna."
+        },
+        {
+          "letter": "B",
+          "text": "La repetición de hechos reales contados con palabras sencillas",
+          "is_correct": false,
+          "feedback": "Narrar hechos reales es referenciar, y no la operación de crear algo que antes no existía."
+        },
+        {
+          "letter": "C",
+          "text": "La copia exacta de un texto que el autor considera un buen modelo",
+          "is_correct": false,
+          "feedback": "La imitación no crea elementos nuevos, y la escritura creativa exige una construcción propia."
+        },
+        {
+          "letter": "D",
+          "text": "La memoria de una situación vivida por el autor en su infancia",
+          "is_correct": false,
+          "feedback": "Recordar la propia experiencia es un insumo para escribir, y no equivale a inventar elementos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La invención es una de las operaciones de la imaginación: permite crear hechos, personajes o lugares que la realidad no contiene. Para que funcione, el inventions invention debe ser coherente dentro del mundo que el texto construye. Reconocer esta operación ayuda a distinguir la libertad creativa de la simple arbitrariedad.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Semantico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W38-la-escritura-creativa-y-la-imaginacion-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W38-la-escritura-creativa-y-la-imaginacion-001-MASTERY-bundle-v2",
+      "statement": "Una consigna dice: \"Describe un paraguas que cae del cielo en tu colegio\". ¿Qué operación de la imaginación se está pidiendo?",
+      "context": "En Medellín, un grupo de noveno trabaja con una consigna de escritura sobre un objeto cotidiano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Transformación, porque se cambia la materia del paraguas",
+          "is_correct": false,
+          "feedback": "La consigna no cambia la naturaleza del objeto, y lo que hace es situarlo en un contexto imposible."
+        },
+        {
+          "letter": "B",
+          "text": "Combinación, porque se une un objeto común con un acontecimiento imposible",
+          "is_correct": true,
+          "feedback": "La imaginación combina elementos conocidos en una situación nueva, y esa combinación improbable genera el relato."
+        },
+        {
+          "letter": "C",
+          "text": "Invención, porque crea un objeto que no existe",
+          "is_correct": false,
+          "feedback": "El paraguas existe, y no se trata de crear un objeto nuevo, sino de combinarlo con otro escenario."
+        },
+        {
+          "letter": "D",
+          "text": "Analización, porque pide explicar las causas del fenómeno",
+          "is_correct": false,
+          "feedback": "La consigna solicita una descripción narrativa, y no una explicación causal del hecho."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las operaciones de la imaginación son invención, combinación y transformación. La combinación une elementos que no suelen relacionarse entre sí para producir una situación nueva, a menudo absurda o humorística. Identificar qué operación se enuncia en una consigna es el primer paso para cumplirla de manera productiva.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semantico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W38-la-escritura-creativa-y-la-imaginacion-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W38-la-escritura-creativa-y-la-imaginacion-001-MASTERY-bundle-v3",
+      "statement": "En el verso \"el río se durmió de noche\", ¿qué procedimiento se observa?",
+      "context": "En Cali, el profesor explica una de las figuras más usadas en la poesía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Comparación explícita entre el río y un animal",
+          "is_correct": false,
+          "feedback": "No hay una comparación con \"como\", de modo que el procedimiento no es un símil."
+        },
+        {
+          "letter": "B",
+          "text": "Repetición de la palabra río para reforzar el efecto",
+          "is_correct": false,
+          "feedback": "La palabra aparece una sola vez en el verso, y no hay ningún recurso de repetición."
+        },
+        {
+          "letter": "C",
+          "text": "Atribución de vida a un elemento sin vida, que se presenta como un ser capaz de dormir",
+          "is_correct": true,
+          "feedback": "El río recibe una acción propia de los seres vivos, y por eso el procedimiento es una personificación."
+        },
+        {
+          "letter": "D",
+          "text": "Sustracción de un atributo al objeto descrito",
+          "is_correct": false,
+          "feedback": "La figura no quita características del río, y lo que hace es añadirle una acción."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La personificación atribuye rasgos y acciones humanas o animales a elementos que carecen de vida. En el verso propuesto, el río-duerme, y esa transferencia genera una imagen sugiere silencio y descanso. Reconocer esta figura ayuda a construir imágenes poéticas que comuniquen más que la simple descripción del objeto.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semantico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W38-la-escritura-creativa-y-la-imaginacion-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W38-la-escritura-creativa-y-la-imaginacion-001-MASTERY-bundle-v4",
+      "statement": "Un texto dice: \"La ventana estaba rota\". ¿Qué ampliación mejora más la descripción?",
+      "context": "en Pereira, un estudiante debe ampliar una frase breve para construir una descripción.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"La ventana estaba rota y eso era un problema muy grave para todos\"",
+          "is_correct": false,
+          "feedback": "La ampliación sustituye la imagen por un comentario valorativo, y con eso la descripción pierde su fuerza visual."
+        },
+        {
+          "letter": "B",
+          "text": "\"La ventana estaba rota, es decir, el cristal no estaba entero en ninguna parte\"",
+          "is_correct": false,
+          "feedback": "La ampliación traduce lo mismo en otras palabras, y no aporta ninguna imagen nueva."
+        },
+        {
+          "letter": "C",
+          "text": "\"La ventana estaba rota y por eso el dueño decidió cambiarla entera\"",
+          "is_correct": false,
+          "feedback": "La ampliación avanza hacia una acción futura, y no desarrolla la imagen del presente que se pedía."
+        },
+        {
+          "letter": "D",
+          "text": "\"La ventana estaba rota y el aire de la noche entraba sin obstáculos por el hueco del marco\"",
+          "is_correct": true,
+          "feedback": "La ampliación añade la consecuencia de la rotura y una imagen sensorial, y con eso el lector imagina la escena."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Una buena ampliación descriptiva no repite el dato inicial, sino que lo rodea de detalles sensoriales, de contexto y de consecuencias. Esos detalles son los que permiten al lector construir la imagen por sí mismo. Distinguir una ampliación productiva de una simple reformulación es una habilidad esencial en la escritura creativa.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semantico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-9-2026-W38-la-escritura-creativa-y-la-imaginacion-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W38-la-escritura-creativa-y-la-imaginacion-001-MASTERY-bundle-v5",
+      "statement": "Un concurso pide un cuento de terror que no contenga sustos, ni sangre, ni monstruos. ¿Qué deben hacer los participantes para cumplir la consigna?",
+      "context": "En Bucaramanga, un grupo de noveno prepara un concurso de cuento en el colegio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Incluir un monstruo invisible, porque así el cuento respeta la palabra \"monstruo\"",
+          "is_correct": false,
+          "feedback": "Un monstruo invisible sigue siendo un monstruo, de modo que la solución no respeta el sentido de la restricción."
+        },
+        {
+          "letter": "B",
+          "text": "Crear la tensión con la atmósfera, los silencios y lo que se sugiere sin mostrarlo",
+          "is_correct": true,
+          "feedback": "La restricción obliga a trabajar la suggestion el atmosferik y la ambigüedad, que son recursos propios del relato de terror."
+        },
+        {
+          "letter": "C",
+          "text": "Describir lashten de forma rápida para no dar lugar al miedo",
+          "is_correct": false,
+          "feedback": "Mostrar las escenasibujo con rapidez no genera tensión, y el recurso que funciona es lo contrario."
+        },
+        {
+          "letter": "D",
+          "text": "Escribir el cuento en un tono alegre, porque la alegría es el antídoto contra el miedo",
+          "is_correct": false,
+          "feedback": "El tono alegre no produce el efecto buscado, y lo que la consigna exige es tensión sin violentación explícita."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las restricciones creativas son un excelente ejercicio de escritura, porque obligan a explorar recursos poco habituales. En el relato de terror, la sugerencia y el silencio reemplazan con eficacia a la imagen explícita. Cumplir una consigna limitada demuestra la capacidad de resolver problemas narrativos con los recursos disponibles.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-9-2026-W38-la-escritura-creativa-y-la-imaginacion-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W38-la-escritura-creativa-y-la-imaginacion-001-MASTERY-bundle-v6",
+      "statement": "Un texto afirma: \"Así será la ciudad dentro de cincuenta años:eninhabitada por(scope)\". ¿Qué error conceptual comete?",
+      "context": "En Villavicencio, un profesor distingue inventar de especular.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Confunde la invención con la descripción, porque usa un tiempo verbal inappropriate",
+          "is_correct": false,
+          "feedback": "El problema no está en el tiempo verbal, y el deceit principal es presentar como real lo que solo es conjetura."
+        },
+        {
+          "letter": "B",
+          "text": "Usa correctamente la invención, porque cualquier futuro es un espacio abierto para la imaginación",
+          "is_correct": false,
+          "feedback": "Se puede imaginar el futuro, y presentarlo con seguridad como si estuviera verificado es lo que resulta problemático."
+        },
+        {
+          "letter": "C",
+          "text": "Confunde la invención con la especulación, porque presenta como un hecho imaginario un futuro que no puede verificarse",
+          "is_correct": true,
+          "feedback": "La invención se sabe fingida, y la especulación se presenta en tono de certeza, lo que la vuelve engañosa."
+        },
+        {
+          "letter": "D",
+          "text": "Usa correctamente la invención, porque toda obra de ciencia ficción hace lo mismo",
+          "is_correct": false,
+          "feedback": "La ciencia ficción construye mundos posibles de forma explícita, y no presenta sus hipótesis como hechos comprobados."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La invención se enuncia como ficción y el lector sabe que se trata de una construcción. La especulación, en cambio, se presenta con tono de certeza aunque no pueda comprobarse, y esa diferencia resulta engañosa. Distinguir ambas operaciones es clave para escribir ficción con honestidad y para reconocer los límites de lo que sabemos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semantico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-9-2026-W38-la-escritura-creativa-y-la-imaginacion-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W38-la-escritura-creativa-y-la-imaginacion-001-MASTERY-bundle-v7",
+      "statement": "El cuento tiene ocho párrafos, y en cinco de ellos solo se describe la habitación del protagonista. ¿Qué problema tiene la estructura del texto?",
+      "context": "En Armenia, un grupo de noveno analiza la organización de un cuento escrito por un compañero.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El conflicto no avanza, porque el narrador se detiene en descripciones sin que la acción modifique la situación",
+          "is_correct": true,
+          "feedback": "Cuando la descripción no aporta tensión, el relato pierde su motor, que es el cambio de situación que sostiene la atención."
+        },
+        {
+          "letter": "B",
+          "text": "El texto es correcto, porque toda obra de calidad describe con detalle antes de narrar",
+          "is_correct": false,
+          "feedback": "El detalle descriptivo tiene sentido cuando construye tensión o revela un rasgo del personaje, no cuando solo rellena."
+        },
+        {
+          "letter": "C",
+          "text": "El problema está en la extensión, porque los cuadros de más de cuatro párrafos no pertenecen a un cuento",
+          "is_correct": false,
+          "feedback": "No existe un número fijo de párrafos para un cuento, de modo que la extensión no es el criterio del problema."
+        },
+        {
+          "letter": "D",
+          "text": "No hay problema, porque la descripción de espacios es el recurso más valioso de la literatura",
+          "is_correct": false,
+          "feedback": "La descripción es un recurso valioso cuando cumple una función, y en este caso no modifica la acción de la historia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En un relato, cada párrafo debería aportar algo al avance de la acción o a la construcción de los personajes. Una descripción larga que no genera tensión convierte el relato en un inventario de objetos. Detectar ese desequilibrio es lo que permite pasar de un texto descriptivo a un texto narrativo con conflictos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-9-2026-W38-la-escritura-creativa-y-la-imaginacion-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W38-la-escritura-creativa-y-la-imaginacion-001-MASTERY-bundle-v8",
+      "statement": "La versión A dice: \"El pueblo era pequeño\". La versión B dice: \"El pueblo tenía tres calles y ninguna panadería, y los niños jugaban en la plaza vacía\". ¿Qué análisis es el más preciso?",
+      "context": "En Barbosa, un maestro pidió comparar dos versiones de un mismo párrafo descriptivo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La versión A es mejor, porque la brevedad siempre resulta más elegante",
+          "is_correct": false,
+          "feedback": "La brevedad no es por sí misma una virtud, y aquí la versión B comunica mucho más con el mismo esfuerzo."
+        },
+        {
+          "letter": "B",
+          "text": "Las dos versiones dicen lo mismo, porque el pueblo sigue siendo un pueblo pequeño",
+          "is_correct": false,
+          "feedback": "La versión B no solo califica el tamaño, y aporta información que la versión A deja completamente ausente."
+        },
+        {
+          "letter": "C",
+          "text": "La versión B es peor, porque enumera datos en lugar de usar imágenes poéticas",
+          "is_correct": false,
+          "feedback": "La enumeración de datos concretos es un recurso legítimo, y aquí funciona mejor que un adjetivo vacío."
+        },
+        {
+          "letter": "D",
+          "text": "La versión B usa la concreción de detalles para que el lector construya la imagen, y no solo la imagine",
+          "is_correct": true,
+          "feedback": "El detalle concreto permite imaginar el lugar con precisión, mientras que el adjetivo exige un esfuerzo de completar."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La descripción se vuelve eficaz cuando ofrece elementos concretos que el lector puede visualizar, en lugar de adjetivos que exigen completar la imagen. El número de calles, la ausencia de la panadería y la plaza vacía construyen un pueblo con una atmósfera definida. Esta es una técnica básica del estilo directo, y resulta más concreta que cualquier etiqueta general.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semantico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-9-2026-W38-la-escritura-creativa-y-la-imaginacion-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W38-la-escritura-creativa-y-la-imaginacion-001-MASTERY-bundle-v9",
+      "statement": "Un autor toma un personaje de un cuento tradicional y lo sitúa en un contexto urbano actual. ¿Qué relación se establece con el texto de origen?",
+      "context": "In Ipiales, un grupo de noveno compara un cuento propio con un cuento tradicional de la región.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Recontextualización, porque el personaje conserva su essence pero se actualiza el mundo en el que actúa",
+          "is_correct": true,
+          "feedback": "La recontextualización conserva elementos reconocibles del original y los inserta en una realidad distinta, y eso genera nuevas lecturas."
+        },
+        {
+          "letter": "B",
+          "text": "Copia, porque el autor se apropiado del personaje y por eso ya no hay creación propia",
+          "is_correct": false,
+          "feedback": "Tomar un personaje tradicional es una operación legítima de intertextualidad, y no elimina la creación propia."
+        },
+        {
+          "letter": "C",
+          "text": "Parodia, porque el autor se burla de las tradiciones de la región",
+          "is_correct": false,
+          "feedback": "Nada en el cambio de contexto indica burla, y la operación descrita es una actualización, no una parodia."
+        },
+        {
+          "letter": "D",
+          "text": "Inexistencia de relación, porque los personajes tradicionales no se pueden reutilizar",
+          "is_correct": false,
+          "feedback": "La reutilización de personajes y motivos tradicionales es una práctica literaria consolidada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La recontextualización traslada elementos de un texto a un mundo nuevo, y esa operación permite que el lector compruebe qué se conserva y qué cambia. Reconocer este recurso ayuda a distinguir laoriginalidad de la simple originalidad de la fuente. Analizar qué elementos permanecen y cuáles se modifican agudiza la mirada crítica sobre la tradición.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Critico-Intertextual",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-9-2026-W38-la-escritura-creativa-y-la-imaginacion-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W38-la-escritura-creativa-y-la-imaginacion-001-MASTERY-bundle-v10",
+      "statement": "Un cuento inventa un país, sus leyes y sus costumbres, y todo resulta coherente dentro de ese mundo. ¿Cuál es el juicio más sólido sobre su validez?",
+      "context": "En Neiva, un profesor evalúa un cuento escrito por un estudiante de noveno.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una obra inválida, porque la literatura solo puede describir lugares que existen",
+          "is_correct": false,
+          "feedback": "La literatura puede construir mundos que no existen, y esa libertad es precisamente una de sus competencias."
+        },
+        {
+          "letter": "B",
+          "text": "Es una obra válida, porque la coherencia interna del mundoinventado es el criterio central de la ficción",
+          "is_correct": true,
+          "feedback": "Un mundo inventado no necesita parecerse al nuestro, y lo que debe mantener es su propia lógica interna."
+        },
+        {
+          "letter": "C",
+          "text": "Es una obra inválida, porque las leyes imaginarias contradicen la Constitución colombiana",
+          "is_correct": false,
+          "feedback": "Las leyes de un país inventado no se miden con la Constitución real, porque pertenecen a otro mundo."
+        },
+        {
+          "letter": "D",
+          "text": "Es una obra válida, porque todo lo que no se ve es verdad",
+          "is_correct": false,
+          "feedback": "La validez de un relato no depende de que sus hechos sean verdaderos, y la coherencia es lo que realmente importa."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El criterio de validez de una obra de ficción no es su parecido con la realidad, sino la coherencia interna del mundo que construye. Un personaje puede comportarse de un modo que sería imposible aquí, siempre que el conjunto del relato tenga lógica. Entender este criterio libera al escritor de la obligación de copiar la realidad y le permite explorar posibilidades.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-9-2026-W38-la-escritura-creativa-y-la-imaginacion-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W38-la-escritura-creativa-y-la-imaginacion-001-MASTERY-bundle-v11",
+      "statement": "Un estudiante afirma: \"La buena escritura creativa no debe ofender a nadie, porque toda representación de un grupo es una calumnia\". ¿Qué juicio sobre este Plantilla es el más sólido?",
+      "context": "En Arauca, un grupo de noveno discute qué significa escribir con sensibilidad hacia los demás.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La afirmación es correcta, porque toda crítica en una obra es una difamación",
+          "is_correct": false,
+          "feedback": "La crítica es un género literario consolidado desde la antigüedad, y no se puede equiparar con la difamación."
+        },
+        {
+          "letter": "B",
+          "text": "La afirmación es correcta, porque la literatura debe limitarse aEMSAR temas universally aceptados",
+          "is_correct": false,
+          "feedback": "Restringir la literatura a temas uncontroversos reduciría su capacidad de proponer y de discutir."
+        },
+        {
+          "letter": "C",
+          "text": "La afirmación es parcial, porque representar un grupo con matiz no equivale a atacar a sus miembros",
+          "is_correct": true,
+          "feedback": "La representación crítica pertenece a la literatura, y lo que la vuelve ofensiva es el desprecio, no el tratamiento del tema."
+        },
+        {
+          "letter": "D",
+          "text": "La afirmación es parcial, porque solo las representaciones de personas reales exigen sensibilidad especial",
+          "is_correct": false,
+          "feedback": "La RepresentationsIp de un grupo también exige cuidado, y la afirmación reduce la cuestión a los personajes reales."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Escribir con sensibilidad significa tratar con respeto a las personas y a los grupos representados, y eso no impide construir personajes ni plantear críticas. La literatura puede y debe abordar temas difíciles. El límite está en el respeto por quien es representado, y no en la presencia del conflicto en la obra.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-9-2026-W38-la-escritura-creativa-y-la-imaginacion-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W38-la-escritura-creativa-y-la-imaginacion-001-MASTERY-bundle-v12",
+      "statement": "Un consejo del colegio propone: \"La creatividad no se enseña, solo aparece por inspiración\". ¿Qué juicio sobre este criterio es el más sólido?",
+      "context": "In Garzón, la profesora de noveno pide un juicio final sobre el proceso creativo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un criterio correcto, porque ninguna técnica puede desarrollar la creatividad",
+          "is_correct": false,
+          "feedback": "Las técnicasilling limitan y orientan la imaginación, en lugar de impedirla."
+        },
+        {
+          "letter": "B",
+          "text": "Es un criterio correcto, porque la imaginación solo se activate con las lecturas obligatorias",
+          "is_correct": false,
+          "feedback": "La lectura ayuda, y no es el único factor que interviene en el desarrollo del acto creativo."
+        },
+        {
+          "letter": "C",
+          "text": "Es un criterio débil, porque la creatividad depende solo de la inteligencia del estudiante",
+          "is_correct": false,
+          "feedback": "Reducir la creatividad a la inteligencia natural contradice todo lo que sabemos sobre cómo se aprende."
+        },
+        {
+          "letter": "D",
+          "text": "Es un criterio débil, porque la creatividad se desarrolla con técnicas, lectura y práctica deliberada",
+          "is_correct": true,
+          "feedback": "La escritura creativa responde a un proceso que se puede enseñar y entrenar, y no a un accidente afortunado."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La creatividad es una capacidad que se desarrolla mediante la lectura, la práctica deliberada y el conocimiento de técnicas narrativas y poéticas. Considerarla un accidente de inspiración deja fuera la Möglich más importante para mejorar en la escritura. Enseñar a escribir de forma creativa es posible, y ese es precisamente el objetivo de la disciplina.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-9-2026-W38-la-escritura-creativa-y-la-imaginacion-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}
