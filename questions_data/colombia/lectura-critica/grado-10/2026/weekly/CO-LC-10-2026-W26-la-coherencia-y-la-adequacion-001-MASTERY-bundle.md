@@ -1,0 +1,312 @@
+---
+id: "CO-LC-10-2026-W26-la-coherencia-y-la-adequacion-001-MASTERY-bundle"
+country: "colombia"
+grado: 10
+asignatura: "lectura_critica"
+tema: "la-coherencia-y-la-adequacion"
+periodo: "weekly"
+week: "W26"
+year: 2026
+bundle_type: "weekly"
+protocol_version: "5.2"
+total_questions: 12
+bundle_size: 12
+alignment: "DBA MEN Colombia"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
+---
+
+# Bundle MASTERY: La coherencia y la adecuación entre los tipos de enunciación - Grado 10 (W26)
+
+## Semana W26
+
+La coherencia es la relación lógica que permite que las partes de un texto se sostengan entre sí, y la adecuación es el ajuste entre el tipo de enunciación que elige el autor y el propósito que se propone. Esta semana los estudiantes de décimo grado trabajan dos decisiones conectadas: sostener una sola línea de razonamiento y ajustar la voz a ese propósito. Así, una intervención escolar que empieza como relato en primera persona puede pasar a la voz de la profesora para explicar, y ese cambio resulta pertinente solamente si la información que aporta corresponde a la voz que la enuncia.
+
+En el aula colombiana, la aplicación parte de materiales que los propios estudiantes producen: episodios de podcast escolar, artículos del periódico del colegio y actas de asamblea. La secuencia incluye la revisión de los saltos de enunciación que quiebran la línea lógica, la corrección de los cambios de persona y de tiempo verbal, y la discusión sobre cuándo la adecuación exige volver a la enunciación inicial para cerrar. Cada grupo de décimo grado reescribe el cierre de su propio producto y lo somete al criterio de sus compañeros, dentro del marco del DBA MEN Colombia.
+
+## Textos Base
+
+**Texto 1 (Episodio de podcast escolar de Cali):**
+Camila abrió el episodio de podcast escolar de Cali diciendo que entregaba la mitad de sus tareas a destiempo. Preguntó a su profesora de Lenguaje si debía cambiar de estrategia. La profesora respondió que el problema no era la cantidad de tareas, sino que nadie las leía en orden y por eso se acumulaban. La producción entrevistó luego a dos compañeros de décimo grado, que contaron que estudian con el celular cerca y que por eso se distraen al leer. Al final, Camila resume en su voz lo que dijo la profesora y cierra con un compromiso: ordenar las tareas antes de empezar.
+
+**Texto 2 (Artículo de opinión del periódico escolar de Manizales):**
+Un artículo de opinión del periódico escolar de Manizales, firmado por un alumno de décimo grado, defiende la creación de una hora de lectura semanal en el patio. El texto arranca en primera persona con una anécdota sobre una tarde en la que leyó un libro completo mientras esperaba el transporte. En la parte central, el autor pasa a la voz de la coordinadora académica para presentar los datos de asistencia del trimestre. El cierre vuelve a la voz del estudiante y afirma, sin explicación, que los números prueban la propuesta.
+
+## Question 1 [D3-D4]
+**ID:** CO-LC-10-2026-W26-la-coherencia-y-la-adequacion-001-MASTERY-bundle-v1
+**Bloom:** Remember
+**ICFES:** Literal
+**Expected_Success:** 0.92
+**Contexto:** En Cali, la profesora de Lectura Crítica pide al grupo de décimo grado que anote las voces que aparecen en el episodio.
+
+### Enunciado
+¿Qué dos voces principales se distinguen en el Texto 1?
+
+### Opciones
+- [x] A) La voz de Camila, que narra y pregunta, y la voz de su profesora de Lenguaje, que explica.
+  <!-- feedback: Correcto. El episodio reparte la palabra entre la alumna que plantea el problema y la docente que ofrece la explicación. -->
+- [ ] B) La voz de la producción del podcast y la voz de la coordinadora académica del colegio.
+  <!-- feedback: Incorrecto. La coordinadora académica no participa en el episodio de Cali, que reúne a Camila, a su profesora y a dos compañeros. -->
+- [ ] C) La voz de un familiar de Camila y la voz de un compañero que no aparece entrevistado.
+  <!-- feedback: Incorrecto. El episodio no incluye la participación de un familiar, y los dos compañeros sí aparecen en el programa. -->
+- [ ] D) La voz del rector del colegio y la voz de un periodista invitado a la grabación.
+  <!-- feedback: Incorrecto. Es un producto escolar elaborado por estudiantes, sin intervención del rector ni de un periodista invitado. -->
+
+### Explicacion Pedagogica
+Registrar por separado las voces evita atribuir a alguien lo que dijo otro participante. Un lector crítico identifica en cada voz su función, porque la pertinencia del giro depende de qué información aporta quien habla y desde qué posición lo hace.
+
+## Question 2 [D3-D4]
+**ID:** CO-LC-10-2026-W26-la-coherencia-y-la-adequacion-001-MASTERY-bundle-v2
+**Bloom:** Understand
+**ICFES:** Textual
+**Expected_Success:** 0.88
+**Contexto:** En Manizales, el comité del periódico escolar pide al grupo de décimo grado que ubique el cambio de voz del artículo.
+
+### Enunciado
+¿En qué persona está narrada la anécdota que abre el Texto 2 y qué elemento lo evidencia?
+
+### Opciones
+- [ ] A) En tercera persona, porque el artículo se refiere al autor y a la coordinadora mediante sus nombres y su grado.
+  <!-- feedback: Incorrecto. La frase que abre el artículo no menciona nombres propios ni grado alguno, de modo que no hay marcas de tercera persona. -->
+- [ ] B) En segunda persona, porque el autor se dirige directamente al lector de la asamblea con un tratamiento.
+  <!-- feedback: Incorrecto. No aparecen tratamientos como "tú" ni "usted"; la anécdota corre a nombre de quien la vivió. -->
+- [x] C) En primera persona, porque el autor emplea el pronombre "yo" al narrar una tarde en la que leyó el libro.
+  <!-- feedback: Correcto. El pronombre "yo" es la marca directa de primera persona y abre la voz testimonial del artículo. -->
+- [ ] D) En primera persona, porque el párrafo central incluye cifras de asistencia.
+  <!-- feedback: Incorrecto. Las cifras pertenecen a la coordinadora y no pueden establecer la persona en que se cuenta una anécdota. -->
+
+### Explicacion Pedagogica
+Reconocer la persona del discurso es el paso previo para valorar si el cambio de voz está justificado. En décimo grado se practica esa lectura antes de emitir juicio, porque la valoración de la pertinencia del giro se apoya en datos textuales y no en impresiones.
+
+## Question 3 [D3-D4]
+**ID:** CO-LC-10-2026-W26-la-coherencia-y-la-adequacion-001-MASTERY-bundle-v3
+**Bloom:** Understand
+**ICFES:** Pragmático
+**Expected_Success:** 0.86
+**Contexto:** En Cali, la profesora de Lenguaje pide al grupo de décimo grado que justifique por qué el episodio cierra con relato personal.
+
+### Enunciado
+¿Por qué resulta pertinente que el Texto 1 termine con Camila resumiendo lo que dijo la profesora, en lugar de terminar con la voz de la profesora?
+
+### Opciones
+- [ ] A) Porque la profesora no alcanzó a preparar una frase de cierre para el episodio.
+  <!-- feedback: Incorrecto. El episodio se grabó en varias jornadas, de modo que una frase no preparada no explica la elección del cierre. -->
+- [x] B) Porque el episodio rinde cuentas y el relato personal permite recoger la enseñanza y el compromiso sin romper el tono del programa.
+  <!-- feedback: Correcto. La primera persona traduce lo aprendido a una decisión propia, de modo que la pertinencia del cierre está en su función formadora. -->
+- [ ] C) Porque Camila conduce el programa y por esa razón debe aparecer última en la grabación.
+  <!-- feedback: Incorrecto. La última intervención se explica por la pertinencia del cierre y no por un turno de palabra asignado al formato. -->
+- [ ] D) Porque el episodio busca imparcialidad y por eso retira del programa las voces de los adultos.
+  <!-- feedback: Incorrecto. El episodio incluye a la profesora y a dos compañeros, de modo que no retira las voces de los adultos. -->
+
+### Explicacion Pedagogica
+La adecuación se juzga por la relación entre el propósito del texto y el tipo de enunciación que lo sostiene. Reconocer que un cierre en primera persona recoge el aprendizaje convierte un detalle formal en una decisión comunicativa con sentido.
+
+## Question 4 [D5-D6]
+**ID:** CO-LC-10-2026-W26-la-coherencia-y-la-adequacion-001-MASTERY-bundle-v4
+**Bloom:** Apply
+**ICFES:** Semántico
+**Expected_Success:** 0.80
+**Contexto:** En Cali, la profesora de Lectura Crítica propone al grupo de décimo grado corregir el episodio antes de publicarlo.
+
+### Enunciado
+Si se quisiera resolver el salto que se produce en el Texto 1 entre la respuesta de la profesora y los testimonios de los compañeros, ¿qué intervención sería más directa?
+
+### Opciones
+- [ ] A) Dividir la explicación de la profesora en dos oraciones, porque la extensión de un período impide entender el diagnóstico.
+  <!-- feedback: Incorrecto. La longitud de la oración no explica el salto, porque el problema no está en la extensión sino en el cambio de función. -->
+- [ ] B) Añadir un dato sobre el número de tareas del trimestre, porque todo diagnóstico necesita cifras para sostenerse.
+  <!-- feedback: Incorrecto. Añadir un dato nuevo no resuelve la distancia entre una voz que explica y dos voces que describen conductas. -->
+- [ ] C) Cambiar el verbo "contar" por "explicar" en los testimonios de los compañeros.
+  <!-- feedback: Incorrecto. Un cambio de verbo altera el estilo de los testimonios, pero no conecta las dos partes del episodio. -->
+- [x] D) Escribir una instancia breve que anuncie que la explicación se completa con lo que viven los compañeros y prepare así el cierre.
+  <!-- feedback: Correcto. Una instancia anuncia el giro y le da una función, de modo que el paso de voz queda sostenido por la propia relación del texto. -->
+
+### Explicacion Pedagogica
+Reparar un salto de enunciación exige explicitar la relación entre las partes y no agregar relleno. Los estudiantes de décimo grado practican ese recurso porque la instancia es el instrumento que convierte con mayor claridad dos fragmentos consecutivos en un segmento con sentido propio.
+
+## Question 5 [D5-D6]
+**ID:** CO-LC-10-2026-W26-la-coherencia-y-la-adequacion-001-MASTERY-bundle-v5
+**Bloom:** Apply
+**ICFES:** Pragmático
+**Expected_Success:** 0.78
+**Contexto:** En Manizales, el grupo de décimo grado prepara una asamblea escolar sobre el uso del patio.
+
+### Enunciado
+¿Qué cambio haría más adecuada la intervención del Texto 2 para esa asamblea de estudiantes?
+
+### Opciones
+- [x] A) Conservar la anécdota, explicar en voz de la coordinadora cómo se midió la asistencia y volver a la voz del estudiante para sustentar la propuesta.
+  <!-- feedback: Correcto. Cada voz asume la función que le corresponde: la experiencia acerca, el dato acredita y la conclusión sostiene. -->
+- [ ] B) Conservar el texto tal como está y agregar una portada grande, porque una asamblea se apoya más en el soporte visual.
+  <!-- feedback: Incorrecto. La portada no modifica la relación entre las voces, de modo que el cierre sigue sin explicar el vínculo con el dato. -->
+- [ ] C) Cambiar la anécdota por una definición del término "patio" en la primera oración, porque toda intervención empieza definiciones.
+  <!-- feedback: Incorrecto. Una definición desplaza el propósito de la intervención, que es defender una propuesta y no aclarar vocabulario. -->
+- [ ] D) Reemplazar el cierre del estudiante por una lista de actividades, porque el cierre debe enumerar para ser convincente.
+  <!-- feedback: Incorrecto. La lista añade contenido nuevo y deja sin resolver la relación entre la asistencia y la hora de lectura. -->
+
+### Explicacion Pedagogica
+Adecuación significa ajustar la forma al propósito sin perder el hilo que da unidad al texto. En una asamblea, el relato cercano capta la atención, el dato administrativo da respaldo y la conclusión del estudiante cierra el circuito de manera verificable.
+
+## Question 6 [D5-D6]
+**ID:** CO-LC-10-2026-W26-la-coherencia-y-la-adequacion-001-MASTERY-bundle-v6
+**Bloom:** Apply
+**ICFES:** Sintáctico
+**Expected_Success:** 0.78
+**Contexto:** En Manizales, el grupo de décimo grado revisa el párrafo central del artículo antes de imprimirlo.
+
+### Enunciado
+¿Qué cambio haría coherente el párrafo central del Texto 2, donde el texto pasa de la voz del estudiante a la de la coordinadora?
+
+### Opciones
+- [ ] A) Conservar "el autor pasa a la voz de la coordinadora", porque el verbo "pasar" ya anuncia el cambio de sujeto.
+  <!-- feedback: Incorrecto. El verbo anuncia el giro, pero el sujeto que realiza la acción sigue siendo el autor y no la coordinadora. -->
+- [x] B) Cambiar "el autor pasa a la voz de la coordinadora" por una oración donde la coordinadora sea el sujeto y el verbo concuerde con ella.
+  <!-- feedback: Correcto. Cuando la coordinadora enuncia los datos, el sujeto y el tiempo verbal deben ajustarse a la voz que realmente habla. -->
+- [ ] C) Dividir el párrafo en dos y separarlo con un título, porque un título resuelve el cambio de voz.
+  <!-- feedback: Incorrecto. El título ordena el material, pero la relación entre el sujeto y lo que dice sigue sin establecerse. -->
+- [ ] D) Suprimir el párrafo central, porque dos voces dentro de un mismo texto siempre son incoherentes.
+  <!-- feedback: Incorrecto. La variedad de voces no es un defecto, porque lo que rompe la coherencia es una voz que no aporta nada a la tesis. -->
+
+### Explicacion Pedagogica
+La coherencia discursiva tiene una base sintáctica: el sujeto que se nombra debe corresponder a quien enuncia. Trabajar ese ajuste en grado décimo enseña que la línea lógica de un texto se sostiene también en el nivel de la oración y no solo en el plan general.
+
+## Question 7 [D5-D6]
+**ID:** CO-LC-10-2026-W26-la-coherencia-y-la-adequacion-001-MASTERY-bundle-v7
+**Bloom:** Apply
+**ICFES:** Textual
+**Expected_Success:** 0.76
+**Contexto:** En Manizales, el profesor de Español pide al grupo de décimo grado que reorganice el artículo para la edición del próximo número.
+
+### Enunciado
+¿Cuál es el orden más adecuado para los tres segmentos del Texto 2, teniendo en cuenta la función de cada uno?
+
+### Opciones
+- [ ] A) La afirmación de cierre, después el párrafo de datos y por último la anécdota.
+  <!-- feedback: Incorrecto. Ese orden anticipa la conclusión sin los apoyos que la sostienen y deja la experiencia al final, sin función. -->
+- [ ] B) La afirmación de cierre, después la anécdota y por último el párrafo de datos.
+  <!-- feedback: Incorrecto. Mantiene la conclusión en la primera posición y desplaza el dato al final, cuando ya no puede sostenerla. -->
+- [ ] C) La anécdota, luego la afirmación de cierre y por último el párrafo de datos.
+  <!-- feedback: Incorrecto. El dato queda después de la conclusión, de modo que se convierte en un agregado y no en respaldo. -->
+- [x] D) El párrafo de datos, luego la anécdota y al final el cierre que vuelve a la voz del estudiante.
+  <!-- feedback: Correcto. El dato acredita la propuesta, la anécdota acerca el problema al lector y el cierre retoma la voz propia del autor. -->
+
+### Explicacion Pedagogica
+Ordenar un texto según la función de sus segmentos es un ejercicio de lógica discursiva. En grado décimo, los estudiantes practican esa distribución porque revela cómo una conclusión pierde fuerza cuando los apoyos se colocan después de ella.
+
+## Question 8 [D7-D8]
+**ID:** CO-LC-10-2026-W26-la-coherencia-y-la-adequacion-001-MASTERY-bundle-v8
+**Bloom:** Analyze
+**ICFES:** Discursivo
+**Expected_Success:** 0.72
+**Contexto:** En Manizales, la asamblea de décimo grado discute el artículo antes de aprobarlo para publicación.
+
+### Enunciado
+¿Por qué el cierre del Texto 2 es incoherente con el párrafo central?
+
+### Opciones
+- [ ] A) Porque repite la anécdota inicial con otras palabras y activa una redundancia que debilita el texto.
+  <!-- feedback: Incorrecto. El cierre no repite la anécdota, ya que vuelve a la voz del estudiante para afirmar sobre los datos. -->
+- [ ] B) Porque usa un dato numérico que no había aparecido en el párrafo central del artículo.
+  <!-- feedback: Incorrecto. Las cifras de asistencia sí aparecen en el párrafo central, de modo que no hay información nueva en el cierre. -->
+- [x] C) Porque vuelve a la voz del estudiante y afirma que los datos prueban la propuesta, sin mostrar el razonamiento que conecta la asistencia con la lectura.
+  <!-- feedback: Correcto. La incoherencia es de relación, porque la conclusión salta del dato a la tesis sin explicitar el puente argumentativo. -->
+- [ ] D) Porque abandona el registro del periódico escolar y adopta un tono publicitario con exageraciones.
+  <!-- feedback: Incorrecto. El cierre no exagera ni usa lenguaje publicitario, ya que su problema es la falta de explicación. -->
+
+### Explicacion Pedagogica
+Analizar un cierre exige preguntar qué relación sostiene la conclusión con el resto del texto. Una afirmación puede ser verdadera y aun así incoherente, porque la coherencia exige además que se muestre el camino que conecta la evidencia con la tesis.
+
+## Question 9 [D7-D8]
+**ID:** CO-LC-10-2026-W26-la-coherencia-y-la-adequacion-001-MASTERY-bundle-v9
+**Bloom:** Analyze
+**ICFES:** Discursivo
+**Expected_Success:** 0.72
+**Contexto:** En Cali, el grupo de décimo grado edita el episodio de podcast antes de subirlo al sitio del colegio.
+
+### Enunciado
+En el Texto 1, ¿qué efecto busca el paso de la explicación de la profesora a los testimonios de los compañeros?
+
+### Opciones
+- [x] A) Reforzar el diagnóstico con dos voces que describen una causa distinta, la distracción, y preparar un cierre centrado en el orden.
+  <!-- feedback: Correcto. El giro amplía el problema hacia un factor nuevo y sostiene el compromiso final sin contradecir lo expuesto antes. -->
+- [ ] B) Sustituir el problema central por uno de disciplina, porque así el episodio gana un tema más interesante.
+  <!-- feedback: Incorrecto. Los testimonios hablan de distraerse al leer y no cambian el tema del episodio hacia la disciplina. -->
+- [ ] C) Introducir una posición que contradice a la profesora, para que el debate quede abierto hasta el final.
+  <!-- feedback: Incorrecto. Los dos compañeros confirman el diagnóstico y no lo contradicen, ya que concuerdan con la explicación dada. -->
+- [ ] D) Repartir el turno de palabra con el fin de que el episodio alcance más minutos de duración.
+  <!-- feedback: Incorrecto. La duración no es un efecto discursivo, porque el paso de voz aporta información que sostiene la tesis del episodio. -->
+
+### Explicacion Pedagogica
+Reconocer la función de cada voz dentro de una secuencia permite explicar por qué el autor elige ese orden. En el análisis de grado décimo, esa pregunta entrena la habilidad de rastrear la relación entre afirmaciones, en lugar de aceptar cada intervención como un añadido.
+
+## Question 10 [D7-D8]
+**ID:** CO-LC-10-2026-W26-la-coherencia-y-la-adequacion-001-MASTERY-bundle-v10
+**Bloom:** Analyze
+**ICFES:** Crítico-Intertextual
+**Expected_Success:** 0.70
+**Contexto:** En Cali y en Manizales, el grupo de décimo grado compara los dos productos escolares para contrastar estilos de escritura.
+
+### Enunciado
+¿Qué relación de forma se puede establecer entre el Texto 1 y el Texto 2?
+
+### Opciones
+- [ ] A) Los dos textos parten de una voz individual y terminan con un compromiso del mismo protagonista, en voz propia.
+  <!-- feedback: Incorrecto. Solo el Texto 1 cierra con el compromiso de Camila, mientras el Texto 2 cierra con una afirmación general. -->
+- [x] B) Los dos textos abren con una voz personal y terminan con una afirmación general, pero solo uno desarrolla la relación que la sostiene.
+  <!-- feedback: Correcto. La comparación aísla el mismo procedimiento en la apertura y una diferencia decisiva en el desarrollo del cierre. -->
+- [ ] C) Los dos textos son expositivos desde la primera línea y ninguno incluye una experiencia narrada en primera persona.
+  <!-- feedback: Incorrecto. Ambos textos abren con una anécdota personal, de modo que no son expositivos desde el comienzo. -->
+- [ ] D) Los dos textos cierran con la voz de una autoridad escolar, lo que garantiza la pertinencia de sus conclusiones.
+  <!-- feedback: Incorrecto. El Texto 1 cierra con Camila y el Texto 2 con el estudiante autor, sin intervención de una autoridad. -->
+
+### Explicacion Pedagogica
+Comparar dos textos del mismo grado permite aislar qué recurso es común y cuál es propio de cada uno. Esa distinción afina el criterio de los estudiantes, porque les muestra que un procedimiento puede reproducirse bien y aun así fallar en un punto específico.
+
+## Question 11 [D9-D10]
+**ID:** CO-LC-10-2026-W26-la-coherencia-y-la-adequacion-001-MASTERY-bundle-v11
+**Bloom:** Evaluate
+**ICFES:** Evaluativo
+**Expected_Success:** 0.66
+**Contexto:** En Manizales, el comité del periódico escolar decide qué versión del cierre enviará a la asamblea del patio.
+
+### Enunciado
+¿Cuál sería la versión más adecuada del cierre, según la relación entre coherencia y adecuación?
+
+### Opciones
+- [ ] A) Mantener el cierre actual, porque una afirmación breve resulta más breve y se acomoda mejor al tiempo de la asamblea.
+  <!-- feedback: Incorrecto. La brevedad no repara la incoherencia, porque el cierre sigue sin el razonamiento que conecta el dato con la tesis. -->
+- [ ] B) Añadir al cierre una frase de la coordinadora que enlace el dato de asistencia con la propuesta de lectura.
+  <!-- feedback: Incorrecto. La intervención es útil, pero deja en manos de una autoridad externa el puente argumentativo que corresponde al autor. -->
+- [ ] C) Reemplazar el cierre por una definición del concepto de "patio" para que el público entienda de qué se habla.
+  <!-- feedback: Incorrecto. Una definición no desarrolla la relación interna del texto, porque no responde por la coherencia entre dato y propuesta. -->
+- [x] D) Rehacer el cierre en la voz del estudiante y explicar en dos oraciones por qué la asistencia es un indicio a favor de la lectura.
+  <!-- feedback: Correcto. La propuesta respeta la voz propia del autor, mantiene el hilo del texto y hace explícito el puente entre evidencia y tesis. -->
+
+### Explicacion Pedagogica
+Evaluar una versión exige ponderar dos criterios a la vez: la pertinencia de la voz y la explicitación del razonamiento. En grado décimo, los estudiantes practican esa doble ponderación porque un cierre puede sonar adecuado y aun así dejar la conclusión sin fundamento dentro del texto.
+
+## Question 12 [D9-D10]
+**ID:** CO-LC-10-2026-W26-la-coherencia-y-la-adequacion-001-MASTERY-bundle-v12
+**Bloom:** Evaluate
+**ICFES:** Inferencial
+**Expected_Success:** 0.64
+**Contexto:** En Cali, un compañero del grupo de décimo grado afirma que el episodio está mal escrito porque no todos hablan igual.
+
+### Enunciado
+Un compañero afirma que el Texto 1 es incoherente porque Camila, la profesora y los compañeros no cuentan la misma historia. ¿Qué evaluación de esa afirmación es la más precisa?
+
+### Opciones
+- [ ] A) La afirmación es correcta, porque la coherencia exige que todos los participantes compartan exactamente la misma posición.
+  <!-- feedback: Incorrecto. La coherencia admite varias posiciones, porque lo que exige es que se relacionen entre sí y no que coincidan. -->
+- [ ] B) La afirmación es correcta, porque la variedad de voces invalida por sí sola la línea argumentativa de un episodio.
+  <!-- feedback: Incorrecto. Una variedad de voces bien llevadas amplía y sostiene el texto, en lugar de invalidar su línea. -->
+- [x] C) La afirmación es imprecisa, porque la coherencia admite varias voces si sus aportes se encadenan; el testimonio amplía el diagnóstico y el cierre recoge esa ampliación.
+  <!-- feedback: Correcto. La respuesta distingue entre divergencia de posiciones y ruptura del encadenamiento, que es el criterio pertinente en este caso. -->
+- [ ] D) La afirmación es imprecisa, porque el único problema del episodio está en el uso de la voz y no en la relación entre las partes.
+  <!-- feedback: Incorrecto. La observación del compañero no señala un problema de voz, ya que se apoya en el contenido que cuenta cada participante. -->
+
+### Explicacion Pedagogica
+Evaluar un juicio ajeno obliga a precisarlo antes de refutarlo. Esa disciplina es central en Lectura Crítica de grado décimo, porque permite distinguir un desacuerdo legítimo de una ruptura argumentativa y evita que el criterio se apoye solo en la impresión.
