@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-38-grade-3-subject-lectura_critica",
+    "generated_at": "2026-09-30T00:53:23.877Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-3-2026-W38-los-textos-argumentativos-sencillos-y-la-opinion-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál de las oraciones de Sofía expresa la opinión que ella quiere defender?",
+      "context": "En el colegio de Medellín, la niña Sofía quiere convencer a sus compañeros de que leer en la biblioteca del barrio es mejor que quedarse en casa con el celular. Por eso escribe un texto en el que dice que allá hay más de mil libros gratuitos y que allí se pueden hacer las tareas con tranquilidad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La biblioteca del barrio abre a las ocho de la mañana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es un dato que se puede comprobar, no la opinión que Sofía defiende."
+        },
+        {
+          "letter": "B",
+          "text": "Sofía vive en el barrio de Medellín donde está la biblioteca.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una información personal sobre la autora, no su posición sobre el tema."
+        },
+        {
+          "letter": "C",
+          "text": "Leer en la biblioteca del barrio es mejor que quedarse en casa con el celular.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Esta oración presenta el punto de vista de Sofía, es decir, la idea que ella quiere que acepten los demás lectores."
+        },
+        {
+          "letter": "D",
+          "text": "Los celulares se cargan con un cable eléctrico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta oración no habla de la biblioteca ni expresa ningún juicio de la niña."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La opinión es la idea que una persona sostiene y que puede ser distinta en cada quien. Reconocerla permite separar lo que alguien piensa de los datos que se pueden verificar.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Semántico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-3-2026-W38-los-textos-argumentativos-sencillos-y-la-opinion-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W38-los-textos-argumentativos-sencillos-y-la-opinion-001-MASTERY-bundle-v2",
+      "statement": "¿Para qué son útiles esas palabras de unión en un texto argumentativo sencillo?",
+      "context": "Cuando Sofía terminó de escribir, le pidió ayuda a su maestro para organizar el texto. El maestro le explicó que en los textos argumentativos se usan palabras de unión como \"porque\", \"por eso\" y \"además\" para mostrar con qué razones se apoya cada opinión.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para mostrar de manera clara con qué razones se apoya la opinión que se está defendiendo.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los conectores delatan la relación entre la opinión y las razones que la sostienen, y le facilitan la comprensión al lector."
+        },
+        {
+          "letter": "B",
+          "text": "Para alargar el escrito sin agregar información nueva.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si las palabras de unión no conectan ideas, el texto pierde sentido."
+        },
+        {
+          "letter": "C",
+          "text": "Para cambiar de tema a la mitad del escrito.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cambiar de tema rompe la argumentación en lugar de conectarla."
+        },
+        {
+          "letter": "D",
+          "text": "Para terminar el texto sin tener que decir nada más.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cierre es una parte del texto, no un efecto de las palabras de unión."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los conectores lógicos son marcas del texto que señalan cómo se relacionan las ideas entre sí. Cuando se reconoce su función, el lector entiende dónde está la opinión y dónde aparecen las razones que la respaldan.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Textual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-3-2026-W38-los-textos-argumentativos-sencillos-y-la-opinion-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W38-los-textos-argumentativos-sencillos-y-la-opinion-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál de los siguientes textos le serviría mejor a Tomás para cumplir lo que pide la convocatoria?",
+      "context": "En Bogotá, el colegio abrió una convocatoria para escribir un texto de cinco líneas contando cuál es el deporte favorito de cada estudiante y defendiendo esa respuesta. Tomás conoce a varios niños de 3.° y le costó trabajo decidir cómo presentar su respuesta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"El fútbol es el deporte más bonito del mundo y todo el mundo tiene que verlo sí o sí\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una afirmación sin razones que la respalden, y además impone una opinión con palabras como \"todo el mundo\"."
+        },
+        {
+          "letter": "B",
+          "text": "\"Ayer fui a la cancha con mis amigos y después volví a la casa muy cansado\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un relato de hechos, pero no dice cuál es el deporte favorito ni lo defiende."
+        },
+        {
+          "letter": "C",
+          "text": "\"Nadie en mi salón juega fútbol, por eso es el deporte que más prefiero\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. La razón contradice la opinión, porque se prefiere justamente lo que los demás no hacen."
+        },
+        {
+          "letter": "D",
+          "text": "\"Mi deporte favorito es el fútbol porque juego con mis amigos en la cancha del barrio y porque mi profesora me enseña jugadas nuevas cada semana\".",
+          "is_correct": true,
+          "feedback": "¡Correcto! El texto enuncia la opinión y la apoya con razones concretas y verdaderas sobre su propia experiencia."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Un texto argumentativo sencillo cumple su propósito cuando enuncia la opinión y la acompaña de razones pertinentes y comprobables. Saber distinguir un texto que argumenta de uno que solo narra o que afirma sin sustento permite responder bien este tipo de tareas.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-3-2026-W38-los-textos-argumentativos-sencillos-y-la-opinion-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W38-los-textos-argumentativos-sencillos-y-la-opinion-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es el orden correcto en que el maestro esperaría encontrar esas ideas dentro del texto argumentativo?",
+      "context": "En clase de Cali, el maestro dejó un ejercicio para organizar las ideas de un texto sobre los canales de la ciudad. Las tarjetas decían: \"El río Cali llega sucio a la ciudad\", \"Las basuras se acumulan en los canales\", \"Por eso hay que recoger el rastrojo en los canales de la ciudad\", \"Los canales deben limpiarse cada mes\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Primero las razones, después la recomendación y por último la afirmación central.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sin la afirmación al inicio, el lector no sabe de antemano qué se está defendiendo."
+        },
+        {
+          "letter": "B",
+          "text": "Primero la afirmación central, luego las razones que la apoyan y al final la recomendación que se deriva de ellas.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Enunciar primero la postura y después sostenerla con razones hace que el lector comprenda la argumentación desde el comienzo."
+        },
+        {
+          "letter": "C",
+          "text": "Primero la recomendación y después ninguna otra idea, porque basta con pedir.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un pedido sin razones no funciona como texto argumentativo."
+        },
+        {
+          "letter": "D",
+          "text": "Todas las ideas mezcladas en un solo párrafo y sin orden definido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mezcla de ideas impide seguir el razonamiento que sostiene la opinión."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La organización discursiva de un texto argumentativo sigue un orden: tesis, razones y consecuencia o recomendación. Conocer ese orden ayuda tanto a escribir como a leer textos donde el autor defiende una postura.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-3-2026-W38-los-textos-argumentativos-sencillos-y-la-opinion-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W38-los-textos-argumentativos-sencillos-y-la-opinion-001-MASTERY-bundle-v5",
+      "statement": "¿Qué elemento del cartel hizo que Julia cambiara de opinión y comprara el libro?",
+      "context": "En la cartelera del colegio de Armenia había un cartel azul que decía: \"Lee treinta minutos al día y tu rendimiento en matemáticas mejorará. Además, leer ayuda a dormir mejor y a pensar con más claridad\". Julia lo leyó, quedó convencida y fue a comprar un libro de lectura ese mismo día.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El cartel afirmaba que leer es la única actividad válida en el mundo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Decir que algo es lo único válido no ofrece ninguna razón que lo demuestre."
+        },
+        {
+          "letter": "B",
+          "text": "El cartel usó palabras técnicas que Julia entendió a la primera.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Lo que convenció fue el contenido de las razones, no el parecido de las palabras."
+        },
+        {
+          "letter": "C",
+          "text": "El cartel presentó razones concretas y comprobables que respaldaban su recomendación.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El cartel no solo pidió, sino que ofreció beneficios concretos que justifican la acción que le propone."
+        },
+        {
+          "letter": "D",
+          "text": "Todos los amigos de Julia ya habían comprado ese mismo libro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La compra de los amigos no aparece en el cartel ni funciona como una razón verificable."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un texto persuade de manera efectiva cuando ofrece razones pertinentes y verificables, no solo cuando exige o promete. Analizar qué elementos convencen a un lector permite evaluar la calidad de una argumentación.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-3-2026-W38-los-textos-argumentativos-sencillos-y-la-opinion-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W38-los-textos-argumentativos-sencillos-y-la-opinion-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál de las dos afirmaciones es una opinión y cuál es un dato que se puede verificar?",
+      "context": "Durante la clase, la profesora de Bogotá escribió dos afirmaciones en el tablero. La primera decía: \"El programa de agua de la ciudad reporta que al río Bogotá llegan aguas residuales de miles de hogares cada día\". La segunda decía: \"El río Bogotá es el río más sucio del planeta y por eso ya no queda un solo pez en él\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La segunda es una opinión, porque usa la expresión \"el más sucio del planeta\" sin dar pruebas; la primera es un dato verificable.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La superlativa sin evidencia revela un juicio, mientras que la primera remite a un informe que puede consultarse."
+        },
+        {
+          "letter": "B",
+          "text": "La primera es una opinión porque menciona una cantidad de hogares.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las cantidades no convierten un dato en opinión; el carácter depende de si se puede comprobar."
+        },
+        {
+          "letter": "C",
+          "text": "Las dos son opiniones porque las dos hablan del río Bogotá.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que las dos hablen del mismo río no determina si una es un dato y la otra un juicio."
+        },
+        {
+          "letter": "D",
+          "text": "Las dos son datos porque las dos nombran un lugar de la ciudad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Nombrar un lugar no garantiza que la afirmación sea comprobable."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un dato puede comprobarse porque viene de una fuente verificable, mientras que una opinión expresa un juicio personal o colectivo. Distinguir ambos tipos de afirmación es la base para evaluar si un texto argumenta con seriedad.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-3-2026-W38-los-textos-argumentativos-sencillos-y-la-opinion-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W38-los-textos-argumentativos-sencillos-y-la-opinion-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál de las dos opiniones está mejor sustentada y por qué lo está?",
+      "context": "En un cartel del grado 3.° de Medellín aparecían dos opiniones sobre el ahorro de energía. La primera decía: \"Dejar el celular cargando toda la noche es un mal servicio para todos, porque ese consumo se paga en la factura de luz de cada casa\". La segunda decía: \"Dejar el celular cargando toda la noche es bueno, porque con eso la empresa de energía gana más dinero\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La segunda opinión, porque favorecer a una empresa siempre es un argumento sólido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que una empresa gane dinero es un interés particular y no demuestra que el hecho sea conveniente."
+        },
+        {
+          "letter": "B",
+          "text": "Las dos opiniones están igual de sustentadas porque las dos usan la palabra \"bueno\" o \"mal\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que dos afirmaciones empleen el mismo adjetivo no dice nada sobre la calidad de sus razones."
+        },
+        {
+          "letter": "C",
+          "text": "Ninguna opinión sirve, porque en un texto argumentativo no se pueden dar razones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dar razones es precisamente el núcleo de la argumentación."
+        },
+        {
+          "letter": "D",
+          "text": "La primera opinión, porque su razón explica un efecto real que se puede medir en la factura y no depende del punto de vista del autor.",
+          "is_correct": true,
+          "feedback": "¡Excelente! Su razón es pertinente y comprobable, de modo que cualquier lector puede ponerla a prueba."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar un texto argumentativo exige comparar la solidez de las razones, no solo si la opinión suena convincente. Una buena razón es pertinente, verificable y se apoya en el interés común, no en el beneficio de un solo grupo.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-3-2026-W38-los-textos-argumentativos-sencillos-y-la-opinion-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W38-los-textos-argumentativos-sencillos-y-la-opinion-001-MASTERY-bundle-v8",
+      "statement": "¿Qué tendría que mejorar Andrés en su texto para que su opinión quedara bien defendida?",
+      "context": "La revista del colegio de Pereira propuso el concurso \"Defiende tu opinión\". Andrés escribió: \"El celular en el recreo es horrible, porque todos en mi salón lo usan y ya nadie juega en el patio\". La profesora le explicó que había expuesto un juicio, pero que le faltaban razones claras y un ejemplo de la vida diaria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dejarlo como está, porque una opinión solo necesita apoyarse en lo que ocurre en su propio salón.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Generalizar desde un caso concreto sin explicarlo debilita la defensa de la opinión."
+        },
+        {
+          "letter": "B",
+          "text": "Añadir razones claras y un ejemplo concreto de cómo el celular termina quitando espacio para jugar en el recreo.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Con razones pertinentes y un ejemplo real, el texto pasa de una queja general a una argumentación completa."
+        },
+        {
+          "letter": "C",
+          "text": "Quitarle todas las razones, porque en un texto sencillo no se explican los argumentos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sin razones no hay argumentación, apenas una afirmación sin sustento."
+        },
+        {
+          "letter": "D",
+          "text": "Reemplazarla por un resumen de la clase de educación física, que es un texto informativo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cambiar el género del texto elimina la opinión que el concurso pedía defender."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Defender una opinión requiere razones pertinentes, ejemplos cotidianos y un vocabulario cuidado que no exagera. Estos recursos convierten un enunciado débil en un texto argumentativo sólido y evaluable.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-3-2026-W38-los-textos-argumentativos-sencillos-y-la-opinion-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    }
+  ]
+}
