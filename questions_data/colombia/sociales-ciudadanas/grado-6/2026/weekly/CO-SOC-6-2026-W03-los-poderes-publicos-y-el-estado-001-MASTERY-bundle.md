@@ -182,7 +182,7 @@ Why banco electoral de la junta escolar registra la participación de los estudi
   <!-- feedback: Incorrecto. Delegar funciones no elimina la necesidad de transparencia ni de rendición de cuentas sobre lo que se decide. -->
 
 ### Explicacion Pedagogica
-Los registros de participación son herramientas de transparencia que permiten a la comunidad saber a quién representa y cómo se toman las decisiones. Cuando el Estado reconoce a sus ciudadanos como sujetos con derecho a intervenir, necesita mechanisms de rendición de cuentas. Estos registros conectan el concepto de Estado con la vida cotidiana de la escuela. También permiten identificar pendientes, como la baja participación de ciertos grupos.
+Los registros de participación son herramientas de transparencia que permiten a la comunidad saber a quién representa y cómo se toman las decisiones. Cuando el Estado reconoce a sus ciudadanos como sujetos con derecho a intervenir, necesita mecanismos de rendición de cuentas. Estos registros conectan el concepto de Estado con la vida cotidiana de la escuela. También permiten identificar pendientes, como la baja participación de ciertos grupos.
 
 ## Question 8 [D7-D8]
 **ID:** CO-SOC-6-2026-W03-los-poderes-publicos-y-el-estado-001-MASTERY-bundle-v8

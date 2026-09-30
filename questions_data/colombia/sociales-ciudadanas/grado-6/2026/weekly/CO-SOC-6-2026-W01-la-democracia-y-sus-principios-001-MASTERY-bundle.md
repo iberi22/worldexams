@@ -65,7 +65,7 @@ En una democracia el poder sale del pueblo: los ciudadanos eligen representantes
   <!-- feedback: Error conceptual: esa restricción limita la participación, lo cual es contrario al principio de que todos los ciudadanos votan. -->
 
 ### Explicacion Pedagogica
-El sufragio universal es el derecho de todos los ciudadanos a votar, sin que importe si son ricos o pobres, si viven en una ciudad grande o en un municipio pequeño. En Colombia este derecho se complementa con la edad mínima exigida por la Constitución y con el principio de que el voto es libre, secreto y voluntario. Por eso el mismo espacio electoral recibe a un empleado, a un estudiante universitario y a un comerciante del barrio. La zooming... la zooming no aplica.
+El sufragio universal es el derecho de todos los ciudadanos a votar, sin que importe si son ricos o pobres, si viven en una ciudad grande o en un municipio pequeño. En Colombia este derecho se complementa con la edad mínima exigida por la Constitución y con el principio de que el voto es libre, secreto y voluntario. Por eso el mismo espacio electoral recibe a un empleado, a un estudiante universitario y a un comerciante del barrio.
 
 ## Question 3 [D5-D6]
 **ID:** CO-SOC-6-2026-W01-la-democracia-y-sus-principios-001-MASTERY-bundle-v3
@@ -106,7 +106,7 @@ El sufragio universal no significa que vote todo el mundo en cualquier momento, 
 - [ ] B) El principio de que los ciudadanos no tienen derecho a pedir explicaciones.
   <!-- feedback: Error conceptual: en democracia los ciudadanos sí pueden pedir cuentas, y negar ese derecho debilita el control social. -->
 - [ ] C) El principio de que el dinero público se administra sin vigilancia de la comunidad.
-  <!-- feedback: Error conceptual: administrar recursos sin vigilancia es justamente lo contrario de un gobierno democratico, donde la cuenta publica se rinde a la ciudadania. -->
+  <!-- feedback: Error conceptual: administrar recursos sin vigilancia es justamente lo contrario de un gobierno democrático, donde la cuenta publica se rinde a la ciudadania. -->
 - [x] D) El principio de rendición de cuentas, que exige transparencia y control sobre los recursos públicos.
   <!-- feedback: Es la respuesta correcta: explicar los gastos es transparencia y permite que la comunidad verifique el uso del presupuesto. -->
 
@@ -129,7 +129,7 @@ Uno de los principios que sostienen un gobierno del pueblo es la rendición de c
 - [ ] B) Que las decisiones democráticas solo valen cuando todos están de acuerdo.
   <!-- feedback: Error conceptual: si la decisión solo valiera con unanimidad, la democracia quedaría reducida a un acuerdo entre dos personas. -->
 - [x] C) Que se respeta la decisión de la mayoría, siempre que se respeten los derechos de todos.
-  <!-- feedback: Es la respuesta correcta: aceptar el resultado de la mayoria es aceptar la regla de juego democratico, con el limite del respeto a los derechos. -->
+  <!-- feedback: Es la respuesta correcta: aceptar el resultado de la mayoria es aceptar la regla de juego democrático, con el limite del respeto a los derechos. -->
 - [ ] D) Que las votaciones reemplazan los argumentos y hacen innecesario cualquier debate.
   <!-- feedback: Error conceptual: en los cabildos abiertos se debate antes de votar, y el argumento es parte esencial del proceso. -->
 
@@ -148,16 +148,16 @@ En una democracia se discute, se propone y despues se vota, y el resultado de la
 
 ### Opciones
 - [x] A) Debilita la legitimidad del proceso, porque la democracia exige la participación amplia de los ciudadanos y no solo la de un grupo.
-  <!-- feedback: Es la respuesta correcta: una decisión tomada sin participación loses basis... pierde legitimidad ante la comunidad. -->
+  <!-- feedback: Es la respuesta correcta: una decisión tomada sin participación pierde legitimidad ante la comunidad. -->
 - [ ] B) Fortalece la democracia, porque con menos participantes las decisiones se toman mucho más rápido.
-  <!-- feedback: Error conceptual: la rapidez no reemplaza la participación; excluir a la mayoría debilita el proceso democratico. -->
+  <!-- feedback: Error conceptual: la rapidez no reemplaza la participación; excluir a la mayoría debilita el proceso democrático. -->
 - [ ] C) No cambia nada, porque la participación es un asunto privado de cada barrio.
   <!-- feedback: Error conceptual: los asuntos de la comuna afectan a todos sus habitantes, por lo que no son privados de un solo sector. -->
 - [ ] D) Favorece la igualdad, porque de esa forma todas las personas participan en la misma cantidad.
   <!-- feedback: Error conceptual: si solo veinte personas participan, la mayoría de la población queda excluida y no hay igualdad. -->
 
 ### Explicacion Pedagogica
-La legitimidad de una decisión depende de que los afectados hayan tenido la posibilidad real de participar. Cuando solo un grupo invitada... invita y decide, se reproduce en el barrio una forma de gobierno minoritaria, aunque la reunión se llame comunitaria. Analizar estos casos ayuda a reconocer.power... textos de poder ocultos, donde una sola voz habla en nombre de todos. En una democracia sana, la consulta se abre, se documenta y se da a conocer.
+La legitimidad de una decisión depende de que los afectados hayan tenido la posibilidad real de participar. Cuando solo un grupo invita y decide, se reproduce en el barrio una forma de gobierno minoritaria, aunque la reunión se llame comunitaria. Analizar estos casos ayuda a reconocer textos de poder ocultos, donde una sola voz habla en nombre de todos. En una democracia sana, la consulta se abre, se documenta y se da a conocer.
 
 ## Question 7 [D7-D8]
 **ID:** CO-SOC-6-2026-W01-la-democracia-y-sus-principios-001-MASTERY-bundle-v7
@@ -180,7 +180,7 @@ La legitimidad de una decisión depende de que los afectados hayan tenido la pos
   <!-- feedback: Es la respuesta correcta: solo una revisión institucional puede confirmar o descartar la alteración de los resultados. -->
 
 ### Explicacion Pedagogica
-En un gobierno del pueblo es essential que las ciudadanos puedan cuestionar los resultados y pedir una revisión formal. Esa revisión de actas y conteos la realizan las autoridades y los mecanismos de verificación, no lajoon... no la mayoría reunida en una asamblea. Seguir ese camino protege a la comunidad y respeta el procedimiento democratico. También evita que la Bibles... que la desconfianza se convierta en acusaciones sin fundamento. La transparencia solo funciona si se usa el conducto correcto.
+En un gobierno del pueblo es esencial que las ciudadanos puedan cuestionar los resultados y pedir una revisión formal. Esa revisión de actas y conteos la realizan las autoridades y los mecanismos de verificación, no la mayoría reunida en una asamblea. Seguir ese camino protege a la comunidad y respeta el procedimiento democrático. También evita que la desconfianza se convierta en acusaciones sin fundamento. La transparencia solo funciona si se usa el conducto correcto.
 
 ## Question 8 [D7-D8]
 **ID:** CO-SOC-6-2026-W01-la-democracia-y-sus-principios-001-MASTERY-bundle-v8
@@ -203,7 +203,7 @@ En un gobierno del pueblo es essential que las ciudadanos puedan cuestionar los 
   <!-- feedback: Error conceptual: las localidades sí pueden aprobar normas dentro de sus competencias, por lo que esa no es la razón. -->
 
 ### Explicacion Pedagogica
-La democracia se apoya en la idea de que todos los ciudadanos tienen los mismos derechos, sin privilegios para un sector. Cuando una norma entrega más acceso a comerciantes que a otros vecinos, se crea una desigualdad que contradice ese principio. Analizar quién queda incluido y quién queda por fuera de una norma es una habilidad democracy... democrática esencial. El análisis de las reglas revela efectos reales sobre personas concretas.
+La democracia se apoya en la idea de que todos los ciudadanos tienen los mismos derechos, sin privilegios para un sector. Cuando una norma entrega más acceso a comerciantes que a otros vecinos, se crea una desigualdad que contradice ese principio. Analizar quién queda incluido y quién queda por fuera de una norma es una habilidad democrática esencial. El análisis de las reglas revela efectos reales sobre personas concretas.
 
 ## Question 9 [D9-D10]
 **ID:** CO-SOC-6-2026-W01-la-democracia-y-sus-principios-001-MASTERY-bundle-v9
@@ -226,7 +226,7 @@ La democracia se apoya en la idea de que todos los ciudadanos tienen los mismos 
   <!-- feedback: Es la respuesta correcta: reducir la voz de los ciudadanos y silenciar el desacuerdo contradice el gobierno del pueblo. -->
 
 ### Explicacion Pedagogica
-Evaluar una propuesta política significa medirla contra los principios que sostienen la democracia: participación, igualdad, libertad de expresión y respeto por el desacuerdo. La propuesta de Manizales falla en dos de esos principios a la vez, porque limita quién puede intervenir y prohíbe réplica. Una medida puede ser popular en un momento concreto y aun así ser profundant... profundamente antidemocrática en sus efectos. Reconocerlo protege el derecho de las personas a estar de acuerdo o en desacuerdo.
+Evaluar una propuesta política significa medirla contra los principios que sostienen la democracia: participación, igualdad, libertad de expresión y respeto por el desacuerdo. La propuesta de Manizales falla en dos de esos principios a la vez, porque limita quién puede intervenir y prohíbe réplica. Una medida puede ser popular en un momento concreto y aun así ser profundamente antidemocrática en sus efectos. Reconocerlo protege el derecho de las personas a estar de acuerdo o en desacuerdo.
 
 ## Question 10 [D9-D10]
 **ID:** CO-SOC-6-2026-W01-la-democracia-y-sus-principios-001-MASTERY-bundle-v10
