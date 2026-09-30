@@ -164,7 +164,7 @@ Cada forma poética define sus propias reglas, y una de ellas es qué se deja li
 ## Question 6 [D5-D6]
 **ID:** CO-LC-10-2026-W08-la-poesia-y-la-organizacion-estetica-del-verso-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Sintactico
+**ICFES:** Sintáctico
 **Expected_Success:** 0.78
 **Contexto:** En Medellín, un compañero de décimo grado dejó a medias el verso «Cae el agua sobre el patio de la casa» y el grupo debe completarlo.
 
@@ -233,7 +233,7 @@ El campo semántico agrupa palabras que comparten un mismo núcleo de significad
 ## Question 9 [D7-D8]
 **ID:** CO-LC-10-2026-W08-la-poesia-y-la-organizacion-estetica-del-verso-001-MASTERY-bundle-v9
 **Bloom:** Analyze
-**ICFES:** Critico-Intertextual
+**ICFES:** Crítico-Intertextual
 **Expected_Success:** 0.70
 **Contexto:** En Medellín, la asignación de literatura compara el soneto con la tradición clásica en la que se sustenta.
 
@@ -302,7 +302,7 @@ Un texto transmite la experiencia de un lugar cuando incluye detalles que ese lu
 ## Question 12 [D9-D10]
 **ID:** CO-LC-10-2026-W08-la-poesia-y-la-organizacion-estetica-del-verso-001-MASTERY-bundle-v12
 **Bloom:** Evaluate
-**ICFES:** Pragmatico
+**ICFES:** Pragmático
 **Expected_Success:** 0.58
 **Contexto:** En Medellín, un grupo de estudiantes de décimo grado prepara el cierre de la unidad sobre poesía para presentar en la reunión de padres.
 
