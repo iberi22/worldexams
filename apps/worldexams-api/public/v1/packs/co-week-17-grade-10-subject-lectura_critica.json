@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-17-grade-10-subject-lectura_critica",
+    "generated_at": "2026-09-30T16:29:28.738Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-10-2026-W17-la-intertextualidad-y-los-otros-textos-001-MASTERY-bundle-v1",
+      "statement": "¿Con qué elemento empieza el Texto 1?",
+      "context": "En Pereira, la profesora de Lectura Crítica pide al grupo de décimo grado que ubique en la columna del Texto 1 el primer contacto con otro texto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Con una frase escrita entre comillas y atribuida a un autor identificado solo con las iniciales «F. R.».",
+          "is_correct": true,
+          "feedback": "Correcto. Esas comillas, esas iniciales y la ausencia del nombre completo son los tres rasgos que convierten la apertura en una cita de otro texto."
+        },
+        {
+          "letter": "B",
+          "text": "Con la publicación de una encuesta hecha entre los estudiantes de la feria del libro del colegio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La columna no menciona ninguna encuesta, y su primer elemento es una frase tomada de un texto anterior."
+        },
+        {
+          "letter": "C",
+          "text": "Con un recuento de los árboles sembrados en los patios del barrio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La columna no da cantidades de árboles ni menciona los patios del barrio, y ese dato no aparece en el texto."
+        },
+        {
+          "letter": "D",
+          "text": "Con una cita de un acuerdo de la municipalidad sobre el cuidado de los espacios públicos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no invoca ningún documento oficial ni municipal, y la referencia que abre la columna es literaria."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reconocer desde la primera línea que hay una voz ajena en el texto es el gesto inicial de la lectura intertextual. Las comillas, las iniciales y la falta de una referencia completa son señales que un lector entrenado detecta de inmediato. Identificar ese contacto con el otro texto antes de comentar el contenido evita confundir lo que el autor dice con lo que está citando.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Literal",
+      "expected_success": 0.94,
+      "bundle_id": "CO-LC-10-2026-W17-la-intertextualidad-y-los-otros-textos-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W17-la-intertextualidad-y-los-otros-textos-001-MASTERY-bundle-v2",
+      "statement": "Según el Texto 1, ¿qué problema señala la frase que la columna atribuye a F. R.?",
+      "context": "En Pereira, el grupo de décimo grado discute qué dice, en sustancia, la idea que la columna pone en voz de F. R.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que los cuentos deben narrarse en primera persona para ser válidos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La columna no habla de la persona narrativa ni de la validez de un cuento, y ese punto no aparece en el texto."
+        },
+        {
+          "letter": "B",
+          "text": "Que los árboles de la feria del libro fueron comprados y no cultivados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La columna no menciona la compra de árboles, y la idea que se atribuye al autor es de otro orden."
+        },
+        {
+          "letter": "C",
+          "text": "Que una idea que circula entre varios textos cambia de dueño, y alguien debe decidir qué ocurre con la voz de su primer autor.",
+          "is_correct": true,
+          "feedback": "Correcto. Ese es el contenido que la columna pone en voz ajena y el eje de su reflexión sobre el paso de un texto a otro."
+        },
+        {
+          "letter": "D",
+          "text": "Que un periódico escolar debe publicar artículos largos para dar espacio a sus autores.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La columna no habla de la extensión de los artículos, y su conclusión se ocupa de la circulación de las frases."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Comprender una cita exige reconstruir la idea que el texto de origen expresaba, no solo leer las palabras. Cuando esa idea se enuncia con otras palabras, hay que poner a prueba el sentido y no la forma. Esa lectura del contenido es la que permite después discutir si la cita se usó con fidelidad o si se vació de su sentido.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semantico",
+      "expected_success": 0.91,
+      "bundle_id": "CO-LC-10-2026-W17-la-intertextualidad-y-los-otros-textos-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W17-la-intertextualidad-y-los-otros-textos-001-MASTERY-bundle-v3",
+      "statement": "¿Qué cambio sufrió la frase de F. R. cuando apareció en el cartel de la feria del libro?",
+      "context": "En Pereira, los estudiantes de décimo grado revisan la cartelera de la feria del libro del colegio donde se reprodujo la frase.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cambió de tema, porque el cartel la trasladó a hablar de árboles y de obras en la ciudad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La columna no afirma que el tema haya cambiado, y el problema que describe es de atribución, no de contenido."
+        },
+        {
+          "letter": "B",
+          "text": "Dejó las comillas y apareció con el nombre de la estudiante, como si la frase fuera de ella.",
+          "is_correct": true,
+          "feedback": "Correcto. Ese paso de las comillas al nombre propio es exactamente lo que la columna señala como problema."
+        },
+        {
+          "letter": "C",
+          "text": "Se acortó, porque el cartel solo podía mostrar la primera mitad de la frase original.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La columna no menciona que la frase se hubiera recortado, y el cambio que describe es de autoría."
+        },
+        {
+          "letter": "D",
+          "text": "Se tradujo, porque la feria del libro invita a lectores de otros países.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay ninguna traducción en el Texto 1, y ese detalle no aparece en la narración de la columna."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un cambio de comillas a nombre propio es un desplazamiento de autoría, no un cambio de estilo. Los estudiantes deben ver cómo un mismo enunciado puede pasar de voz citada a voz propia sin que ninguna de las dos formas altere una sola palabra. Detectar ese mecanismo en un caso local y cotidiano vuelve visible la operación más común de la mala citación.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Textual",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-10-2026-W17-la-intertextualidad-y-los-otros-textos-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W17-la-intertextualidad-y-los-otros-textos-001-MASTERY-bundle-v4",
+      "statement": "El grupo debe clasificar tres referencias: la frase de F. R. con sus iniciales y sin año, la canción que un compañero pasa por el grupo de WhatsApp de la clase, y la afirmación del cartel que no menciona a nadie. ¿Cuál clasificación es correcta?",
+      "context": "En Pereira, la profesora entrega al grupo de décimo grado tres referencias para preparar la nota de intertextualidad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las tres son alusiones, porque las tres vienen de textos que el grupo ya leyó.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que un grupo haya leído algo no convierte cada referencia en una exhibición con función identificable."
+        },
+        {
+          "letter": "B",
+          "text": "Solo la canción es una cita, y las otras dos referencias son afirmaciones originales del periódico y del cartel.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La columna copia la frase de F. R. y el cartel repite ese mismo enunciado, de modo que ninguna de las dos son originales."
+        },
+        {
+          "letter": "C",
+          "text": "La frase de F. R. y la afirmación del cartel son la misma referencia, porque proceden del mismo texto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Comparten un enunciado, pero funcionan de manera distinta: una cita declarada y una repetición sin autor."
+        },
+        {
+          "letter": "D",
+          "text": "La frase de F. R. es una cita incompleta, la canción es una alusión identificable y la afirmación del cartel es un texto sin fuente declarada.",
+          "is_correct": true,
+          "feedback": "Correcto. La clasificación separa las tres figuras según su grado de reconocimiento y de respaldo."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Nombrar con precisión lo que hace cada referencia evita usar una sola palabra para tres fenómenos diferentes. Una cita incompleta se corrige con una nota; una alusión reconocible se cita con su autor; una afirmación sin fuente no se sostiene por más verdadera que parezca. Esta distinción organiza el trabajo con otros textos desde el primer día.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.86,
+      "bundle_id": "CO-LC-10-2026-W17-la-intertextualidad-y-los-otros-textos-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W17-la-intertextualidad-y-los-otros-textos-001-MASTERY-bundle-v5",
+      "statement": "Una alusión a la canción del Texto 2 solo es sólida como cita si se acompaña de ciertos datos. ¿Cuáles son?",
+      "context": "En Manizales, el grupo de décimo grado prepara la edición del podcast sobre cómo llegan las frases a la cabeza de la gente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "De que la frase sea muy conocida entre los estudiantes del grado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La difusión amplia no identifica al compositor ni fija el origen, y no convierte una repetición en una cita."
+        },
+        {
+          "letter": "B",
+          "text": "Del título de la canción, del nombre de su compositor y del año en que se grabó.",
+          "is_correct": true,
+          "feedback": "Correcto. Esos tres datos permiten volver a la obra, en lugar de apoyarse solo en la familiaridad de la frase."
+        },
+        {
+          "letter": "C",
+          "text": "De un enlace a un video informal donde la grabó el amigo que la circula.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un enlace a una copia aislada no da acceso a la obra ni a sus datos de autoría."
+        },
+        {
+          "letter": "D",
+          "text": "De la anotación que hizo la estudiante en la columna del periódico escolar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La columna de Pereira trata de otro texto, y su anotación no identifica esta canción."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una alusión se vuelve cita cuando entrega los datos que permiten reconstruir su origen. Título, autor y fecha son el mínimo razonable para un trabajo escolar, y su ausencia es lo que vuelve frágil una referencia. Aplicar este criterio a una canción que circula por el grupo de la clase muestra que la exigencia es igual para todos los formatos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-10-2026-W17-la-intertextualidad-y-los-otros-textos-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W17-la-intertextualidad-y-los-otros-textos-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál reformulación de la intervención del compañero respeta mejor lo que los dos textos permiten afirmar?",
+      "context": "En Manizales, la profesora propone al grupo de décimo grado reescribir la intervención del compañero que trae la canción.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "«Una canción que circula en el grado afirma que los datos bastan para mejorar la ciudad, pero el episodio muestra que esa fórmula no tiene autor conocido».",
+          "is_correct": true,
+          "feedback": "Correcto. La versión atribuye la idea a su verdadero dueño, conserva el matiz interrogativo y no presenta la frase como un hecho comprobado."
+        },
+        {
+          "letter": "B",
+          "text": "«Los datos que aparecen en el periódico del fin de semana ya fueron revisados por los tres estudiantes del podcast».",
+          "is_correct": false,
+          "feedback": "Incorrecto. El episodio cuenta que los informes no están abiertos al público y que nadie se los explica, así que esa afirmación no tiene respaldo."
+        },
+        {
+          "letter": "C",
+          "text": "«La ciudad se arregla con datos, y por eso la canción del grupo debería adoptarse como lema del colegio».",
+          "is_correct": false,
+          "feedback": "Incorrecto. La reformulación borra al compositor y convierte una frase sin autor en una recomendación institucional."
+        },
+        {
+          "letter": "D",
+          "text": "«Los informes de origen se cierran para evitar que los estudiantes entiendan los datos que publican».",
+          "is_correct": false,
+          "feedback": "Incorrecto. El episodio describe la dificultad de acceso y la falta de explicación, no una intención de ocultar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reformular para devolver la frase a su dueño y para no exagerar lo que el texto permite es una práctica de lectura crítica. La versión revisada mantiene la fuerza de la idea y la deja, al mismo tiempo, dentro de lo verificable. Ese equilibrio entre interés y rigor es lo que distingue un texto escolar bien escrito de uno que solo resulta llamativo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LC-10-2026-W17-la-intertextualidad-y-los-otros-textos-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W17-la-intertextualidad-y-los-otros-textos-001-MASTERY-bundle-v7",
+      "statement": "¿Con cuál de estos criterios el comité puede evaluar mejor la columna antes de reimprimirla?",
+      "context": "En Pereira, el comité editorial del periódico escolar revisa la columna del Texto 1 antes de reimprimirla en la edición digital.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Con la cantidad de palabras que tiene la columna, porque los textos más largos dejan más espacio para citar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La extensión no dice nada sobre la calidad de las referencias, y la columna falla precisamente en sus citas."
+        },
+        {
+          "letter": "B",
+          "text": "Con el nombre completo de la autora de la columna, porque la firma identifica al responsable del texto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La firma de la columna es necesaria, pero no resuelve la ausencia de datos en la frase que se cita."
+        },
+        {
+          "letter": "C",
+          "text": "Con una lista de verificación de referencias: comillas, autor identificable, obra, año y una nota que indique qué se tomó de cada texto.",
+          "is_correct": true,
+          "feedback": "Correcto. Cada punto de la lista se apoya en algo verificable del texto y puede revisarse uno por uno."
+        },
+        {
+          "letter": "D",
+          "text": "Con la cantidad de comentarios que el texto recibió en el grupo de WhatsApp de la clase.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La reacción de los compañeros mide interés, no la solidez de las citas del texto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un criterio de evaluación útil se formula como una lista de puntos comprobables, no como una impresión general. Aplicado a la intertextualidad, ese inventario desplaza la discusión desde si el texto gusta hacia si sus referencias se pueden rastrear. Enseñar a formularlo es la base para que un medio escolar sea consistente en muchas ediciones.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-10-2026-W17-la-intertextualidad-y-los-otros-textos-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W17-la-intertextualidad-y-los-otros-textos-001-MASTERY-bundle-v8",
+      "statement": "¿Qué se puede inferir del hecho de que la columna hable del cambio de autoría sin decir nunca de qué libro ni de qué año tomó la frase?",
+      "context": "En Pereira, los estudiantes de décimo grado discuten qué efecto tiene en el lector la ausencia de datos en la columna.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la columna quiere demostrar que las bibliotecas no necesitan decir de dónde sacan los textos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Nada en el texto sugiere esa intención, y la columna no menciona bibliotecas ni depósito alguno."
+        },
+        {
+          "letter": "B",
+          "text": "Que el autor del cuento se opuso a que su frase se publicara en el periódico escolar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no registra ninguna oposición de ese tipo, y el silencio es de la columnista, no del autor."
+        },
+        {
+          "letter": "C",
+          "text": "Que las iniciales «F. R.» bastan para que cualquier lector encuentre el libro por su cuenta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dos iniciales no identifican de manera fiable una obra, y esa es justamente la crítica implícita de la columna."
+        },
+        {
+          "letter": "D",
+          "text": "Que el texto pide al propio lector una exigencia que no cumple, lo que hace visible la distancia entre lo que propone y lo que hace.",
+          "is_correct": true,
+          "feedback": "Correcto. Esa contradicción es la clave de lectura del Texto 1 y es lo que le da su fuerza crítica."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Un texto que predica una virtud y no la practica deja al lector en una posición incómoda y muy productiva para el análisis. Reconocer esa incoherencia es una forma temprana y segura de analizar la argumentación, y funciona tanto en una columna escolar como en un artículo de prensa.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Inferencial",
+      "expected_success": 0.86,
+      "bundle_id": "CO-LC-10-2026-W17-la-intertextualidad-y-los-otros-textos-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W17-la-intertextualidad-y-los-otros-textos-001-MASTERY-bundle-v9",
+      "statement": "Al comparar los dos textos, ¿qué paralelo se establece entre la columna de Pereira y el episodio de Manizales?",
+      "context": "En Manizales, el grupo de décimo grado arma un cuadro comparativo con las dos formas de hacer circular frases en los dos textos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los dos textos usaron las mismas palabras y en los dos casos el resultado es un error de escritura.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguno de los dos textos presenta un error de escritura, y las frases que usan son distintas."
+        },
+        {
+          "letter": "B",
+          "text": "En los dos, una frase llega a un público nuevo por un camino distinto, y en ambos casos el texto señala quién es el dueño de esas palabras.",
+          "is_correct": true,
+          "feedback": "Correcto. La columna traza el paso del periódico a la feria, y el episodio el de la canción al grupo de WhatsApp."
+        },
+        {
+          "letter": "C",
+          "text": "Los dos textos muestran que solo los textos escolares pueden citar a otros autores sin perder su valor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguno de los dos se ocupa de los textos escolares como género, y sus observaciones no se limitan a ese ámbito."
+        },
+        {
+          "letter": "D",
+          "text": "Los dos textos consideran que la memoria de los lectores basta para reconocer el origen de una frase.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos textos muestran que la memoria no identifica el origen, y por eso proponen registrarlo por escrito."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Poner dos textos distintos en una misma tabla revela qué repiten y qué resuelven de manera diferente. La comparación intertextual enseña que la intertextualidad no es un adorno sino un mecanismo social por el que las frases viajan, y que los textos pueden criticarlo o documentarlo. Ese hábito de contraste es lo que permite distinguir un rasgo general de un simple parecido.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.83,
+      "bundle_id": "CO-LC-10-2026-W17-la-intertextualidad-y-los-otros-textos-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W17-la-intertextualidad-y-los-otros-textos-001-MASTERY-bundle-v10",
+      "statement": "¿Por qué la frase «la ciudad se arregla con datos» funciona en el episodio como si fuera una verdad comprobada?",
+      "context": "En Manizales, la profesora pregunta al grupo de décimo grado por qué la frase de la canción suena convincente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque usa la palabra «datos», que remite a un procedimiento técnico y le transfiere una autoridad que la frase no tiene.",
+          "is_correct": true,
+          "feedback": "Correcto. La palabra convierte el enunciado en un argumento, pero no aporta ni una sola medición que lo respalde."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el episodio demuestra que los informes de origen están abiertos para todos los estudiantes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El episodio dice lo contrario, y la falta de acceso es justamente lo que señala."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el compositor de la canción escribió esas palabras después de estudiar los informes de la ciudad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto solo aporta compositor y año, y nada dice sobre un estudio previo de esa persona."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el compañero del grupo repetía la fórmula con seguridad al decirlo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La seguridad al repetir no genera autoridad, y es un caso típico de argumento por repetición."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar el funcionamiento interno de una frase obliga a separar su poder persuasivo de su contenido verificable. Muchos enunciados cotidianos convierten una palabra técnica en autoridad sin aportar ninguna prueba. Nombrar ese recurso es lo que permite desmontarlo y seguir buscando el dato que sí falta.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semantico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-10-2026-W17-la-intertextualidad-y-los-otros-textos-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W17-la-intertextualidad-y-los-otros-textos-001-MASTERY-bundle-v11",
+      "statement": "El comité propone una norma: toda frase, verso o titular tomado de otro texto debe conservar comillas, autor, obra y año, y debe anotarse qué se cambió. ¿Cuál es el juicio mejor sostenido sobre esa norma?",
+      "context": "En Pereira, la asamblea de estudiantes del colegio tiene que aprobar una norma sobre los otros textos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La norma es excesiva, porque en un periódico escolar basta con mencionar al autor cuando se lo conoce.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Reducir la norma a un solo dato deja fuera obra y año, que es justamente lo que permite rastrear la fuente."
+        },
+        {
+          "letter": "B",
+          "text": "La norma no sirve, porque obliga a citar a autores que a los estudiantes no les convence.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El criterio de la norma se apoya en el rastreo del origen, no en las preferencias de lectura de quien escribe."
+        },
+        {
+          "letter": "C",
+          "text": "La norma es pertinente porque ataca el punto débil que ambos textos muestran: referencias que viajan sin dueño identificable.",
+          "is_correct": true,
+          "feedback": "Correcto. El juicio conecta la regla con un problema verificable en los dos textos, y eso es lo que la hace sostenible."
+        },
+        {
+          "letter": "D",
+          "text": "La norma es imposible de aplicar, porque cada texto de la feria del libro trae datos de publicación distintos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La variedad del catálogo no impide registrar autor, obra y año de cada referencia."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una norma se defiende por su capacidad de resolver problemas observados, no por lo estricta que parezca. Los dos textos ofrecen exactamente el problema que la norma aborda, y eso le da fundamento frente a cualquier crítica. Evaluar reglas con este criterio enseña a diseñar acuerdos escolares que se sostienen porque responden a lo que ya se ha visto.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-10-2026-W17-la-intertextualidad-y-los-otros-textos-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W17-la-intertextualidad-y-los-otros-textos-001-MASTERY-bundle-v12",
+      "statement": "El episodio tiene un dato comprobable y una fórmula sin autor. ¿Qué decisión de la nota de intertextualidad sostiene mejor el trabajo con otros textos?",
+      "context": "En Manizales, el grupo de décimo grado debe decidir si publica el episodio piloto tal como está grabado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Transmitir el episodio igual, porque los oyentes pueden aceptar o rechazar cada frase por su cuenta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Trasladar al oyente la decisión sobre qué dato es real es lo contrario de una nota que documenta el origen."
+        },
+        {
+          "letter": "B",
+          "text": "Borrar la frase sin autor del episodio, sin más, porque en un podcast no hay espacio para explicaciones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El problema no es el espacio, sino que borrar deja sin explicar por qué se descartó la frase."
+        },
+        {
+          "letter": "C",
+          "text": "Cambiar la frase por otra de un compositor conocido, porque así el episodio conservaría su mensaje.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sustituir el enunciado sin comentarlo impide que el oyente entienda el problema que se está corrigiendo."
+        },
+        {
+          "letter": "D",
+          "text": "Conservar la canción con compositor y año, y dejar constancia de que la fórmula de la ciudad no tiene autor conocido.",
+          "is_correct": true,
+          "feedback": "Correcto. La decisión separa lo citable de lo que no lo es, y hace auditable el criterio aplicado."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Un trabajo con otros textos se cierra declarando qué se conserva, qué se descarta y por qué. Documentar el descarte es lo que permite que otra persona repita el análisis y evalúe el criterio, no solo el resultado. Ese es el estándar de calidad al que apunta la intertextualidad en el aula de décimo grado.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-10-2026-W17-la-intertextualidad-y-los-otros-textos-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}

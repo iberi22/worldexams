@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-20-grade-10-subject-lectura_critica",
+    "generated_at": "2026-09-30T16:29:28.740Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-10-2026-W20-el-comentario-y-la-opinion-publicada-001-MASTERY-bundle-v1",
+      "statement": "Según el Texto 1, ¿a cuántos compañeros preguntó el autor del comentario y cuántos respondieron que sí?",
+      "context": "En Pereira, la profesora de Lectura Crítica pide al grupo de décimo grado que anote el recuento que aparece en el Texto 1.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Preguntó a treinta compañeros y veintidós le dijeron que sí.",
+          "is_correct": true,
+          "feedback": "Correcto. Son las dos cifras que el texto registra, y el recuento se hizo en el patio del colegio."
+        },
+        {
+          "letter": "B",
+          "text": "Preguntó a treinta compañeros y ocho de ellos le dijeron que sí.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no menciona ocho respuestas, y la cifra que acompaña a treinta es veintidós."
+        },
+        {
+          "letter": "C",
+          "text": "Preguntó a veintidós compañeros y treinta de ellos le dijeron que sí.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los dos números aparecen invertidos, y el texto dice que veintidós de las treinta personas consultadas dijeron que sí."
+        },
+        {
+          "letter": "D",
+          "text": "Preguntó a todos los estudiantes de décimo grado y veintidós le dijeron que sí.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El autor consultó a treinta compañeros y no a todo el grado, y esa diferencia es la que él mismo borra al presentar el recuento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Transcribir las cifras de un texto antes de interpretarlas evita que la memoria las mezcle o las altere. Un lector crítico distingue el número de personas consultadas, el número de respuestas obtenidas y la población a la que el autor dice representar. Ese registro ordenado es el punto de partida de cualquier lectura de un comentario.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Literal",
+      "expected_success": 0.94,
+      "bundle_id": "CO-LC-10-2026-W20-el-comentario-y-la-opinion-publicada-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W20-el-comentario-y-la-opinion-publicada-001-MASTERY-bundle-v2",
+      "statement": "Según el Texto 1, ¿qué dice el autor sobre la forma en que obtuvo la cifra de 4.500 libros de la biblioteca?",
+      "context": "En Pereira, el grupo de décimo grado revisa la segunda parte del Texto 1 para preparar la lectura en voz alta del comentario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que revisó el registro de préstamos del colegio durante los últimos tres años.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El comentario no menciona ningún registro ni ningún período de revisión, y esa ausencia es justamente lo que el texto señala."
+        },
+        {
+          "letter": "B",
+          "text": "Que el número se lo entregó la persona encargada de la biblioteca para sustentar la petición.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguna persona aparece como fuente del dato, y el texto solo atribuye al autor la afirmación sobre la cantidad de libros."
+        },
+        {
+          "letter": "C",
+          "text": "Que la biblioteca tiene 4.500 libros y que casi ninguno se presta, sin explicar cómo contó.",
+          "is_correct": true,
+          "feedback": "Correcto. El enunciado recoge lo que el texto afirma y, al mismo tiempo, la ausencia de método que el propio autor deja escrita."
+        },
+        {
+          "letter": "D",
+          "text": "Que el número de libros se calculó a partir de la cantidad de estantes del salón.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El comentario no explica el procedimiento de ninguna manera, y esa omisión es justamente lo que el enunciado debe recoger."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Reconocer lo que un texto afirma y lo que deja sin decir es una distinción de lectura y no un defecto de atención. Cuando un comentario ofrece una cifra y no explica su origen, el lector no está obligado a dudar de ella, pero sí a anotarlo como una limitación. Ese registro permite después ajustar la fuerza de la petición.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Literal",
+      "expected_success": 0.92,
+      "bundle_id": "CO-LC-10-2026-W20-el-comentario-y-la-opinion-publicada-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W20-el-comentario-y-la-opinion-publicada-001-MASTERY-bundle-v3",
+      "statement": "En el Texto 2, ¿qué efecto busca la frase «todos sabemos que ese peligro se repite todos los días»?",
+      "context": "En Manizales, la profesora de Lectura Crítica pide al grupo de décimo grado que identifique el recurso usado en el Texto 2.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Informar al oyente sobre la cantidad de accidentes registrados en la calle del colegio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase no aporta ninguna cantidad, y el episodio deja claro que no hay registro de accidentes."
+        },
+        {
+          "letter": "B",
+          "text": "Presentar un riesgo cotidiano como algo comprobado por todos, para darle peso a la petición.",
+          "is_correct": true,
+          "feedback": "Correcto. La generalización reemplaza la medición ausente y refuerza el pedido, que es el propósito declarado del episodio."
+        },
+        {
+          "letter": "C",
+          "text": "Reconocer que los dos estudiantes no pudieron medir el tráfico de la calle.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase afirma lo contrario: da por sentado que todos conocen el riesgo y no menciona ninguna limitación."
+        },
+        {
+          "letter": "D",
+          "text": "Pedir al oyente que escuche el episodio completo antes de formar su propia opinión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase no es una instrucción de escucha, y el episodio no incluye ese pedido en ningún momento."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Detectar un recurso retórico consiste en preguntar qué función cumple la frase dentro del texto y no solamente qué afirma. Cuando una expresión atribuye a todo el mundo un conocimiento que nadie midió, el lector puede seguir el razonamiento y, a la vez, poner en duda el respaldo. Esa doble atención es la base de una lectura crítica del comentario.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-10-2026-W20-el-comentario-y-la-opinion-publicada-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W20-el-comentario-y-la-opinion-publicada-001-MASTERY-bundle-v4",
+      "statement": "Un estudiante clasifica lo que dice el Texto 2: la anécdota del uniforme salpicado, la frase sobre lo que todos saben y la referencia a un cierre hecho en otra ciudad. ¿Cuál clasificación respeta mejor la diferencia entre una anécdota, un recurso retórico y una referencia sin fuente?",
+      "context": "En Manizales, el grupo de décimo grado debe clasificar las tres afirmaciones principales del Texto 2.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las tres afirmaciones son datos medibles, porque se enuncian en pasado y en segunda persona.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La forma de la oración no convierte una afirmación en un dato, y el episodio no ofrece mediciones para ninguna de las tres."
+        },
+        {
+          "letter": "B",
+          "text": "La primera es un dato, la segunda una opinión y la tercera una referencia con fuente, de modo que las tres tienen el mismo valor probatorio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La primera afirmación es una anécdota y la tercera no tiene fuente identificable, así que su valor probatorio no es el mismo."
+        },
+        {
+          "letter": "C",
+          "text": "La primera es una opinión, la segunda un dato y la tercera una anécdota de segunda mano.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La clasificación intercambia las categorías, y el texto no presenta la frase sobre lo que todos saben como un dato medido."
+        },
+        {
+          "letter": "D",
+          "text": "La primera es una anécdota personal, la segunda un recurso para dar autoridad a la afirmación y la tercera una referencia que no puede comprobarse.",
+          "is_correct": true,
+          "feedback": "Correcto. La clasificación separa la experiencia individual, la generalización retórica y la referencia sin fuente identificable."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Clasificar antes de argumentar evita que un mismo peso probatorio se reparta entre elementos muy distintos. La anécdota puede abrir un comentario y mostrar que el problema existe, pero no dice con qué frecuencia ocurre. Reconocer ese límite por escrito es lo que impide que la conclusión termine siendo más fuerte de lo que la prueba permite.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semantico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-10-2026-W20-el-comentario-y-la-opinion-publicada-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W20-el-comentario-y-la-opinion-publicada-001-MASTERY-bundle-v5",
+      "statement": "En el Texto 1, ¿qué función cumple la petición de contratar una persona más para abrir el salón los viernes dentro de la estructura del comentario?",
+      "context": "En Pereira, el grupo de décimo grado analiza cómo está organizado el comentario del Texto 1.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es la conclusión que da sentido a los datos citados y que el comentario busca hacer prosperar.",
+          "is_correct": true,
+          "feedback": "Correcto. La petición es el objetivo del texto, y tanto el recuento como la cifra de libros aparecen al servicio de esa conclusión."
+        },
+        {
+          "letter": "B",
+          "text": "Es una consecuencia secundaria, porque el comentario se ocupa principalmente de contar los libros de la biblioteca.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El conteo de libros aparece como apoyo, no como tema central, y la estructura del texto apunta a la petición."
+        },
+        {
+          "letter": "C",
+          "text": "Es un dato estadístico que reemplaza el recuento hecho en el patio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La petición es una propuesta y no una cifra, y el texto no dice que sustituya el recuento."
+        },
+        {
+          "letter": "D",
+          "text": "Es una cita del rector, reproducida para mostrar que el colegio comparte la decisión de cerrar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El rector no habla en el texto, y el comentario no contiene ninguna cita atribuida a una autoridad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reconocer la tesis y la petición de un comentario permite reconstruir su arquitectura lógica. Todo lo que el texto afirma debería poder sostener la conclusión que propone.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.87,
+      "bundle_id": "CO-LC-10-2026-W20-el-comentario-y-la-opinion-publicada-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W20-el-comentario-y-la-opinion-publicada-001-MASTERY-bundle-v6",
+      "statement": "Si el rector atendiera la petición del Texto 1 sin pedir más respaldo, ¿qué problema aparecería en el colegio?",
+      "context": "En Pereira, el grupo de décimo grado discute qué pasaría si el rector atendiera la petición tal como está escrita.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El colegio no podría pagar a la persona porque el presupuesto ya está comprometido en otros proyectos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no menciona el presupuesto del colegio, y el problema no es económico sino de fundamento."
+        },
+        {
+          "letter": "B",
+          "text": "Los estudiantes de otros grados podrían usar la biblioteca los viernes sin ningún tipo de supervisión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Nada en el comentario plantea una medida de supervisión, y la apertura del salón no implica eso."
+        },
+        {
+          "letter": "C",
+          "text": "Se tomaría una decisión de contratación apoyada en un recuento informal presentado como si representara a todo el colegio.",
+          "is_correct": true,
+          "feedback": "Correcto. Sin revisar el fundamento, la decisión queda sostenida por una limitación que el propio comentario no esconde."
+        },
+        {
+          "letter": "D",
+          "text": "La biblioteca abriría los viernes y el tema del periódico escolar quedaría sin contenido para la siguiente edición.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El comentario no controla la agenda del periódico, y esa consecuencia no se deriva de nada en el texto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Seguir las consecuencias de una propuesta muestra hasta dónde llega un argumento mal sustentado. Cuando la evidencia no resiste, el daño se desplaza del texto a la comunidad que lo aplica. Por eso el pensamiento crítico no es un ejercicio de aula, sino una defensa de las decisiones colectivas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Inferencial",
+      "expected_success": 0.86,
+      "bundle_id": "CO-LC-10-2026-W20-el-comentario-y-la-opinion-publicada-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W20-el-comentario-y-la-opinion-publicada-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál reformulación respeta mejor lo que el recuento del Texto 1 permite afirmar?",
+      "context": "En Pereira, un estudiante del grupo de décimo grado quiere corregir el recuento del Texto 1 antes de reimprimir el comentario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "«Casi todos los estudiantes de este colegio dependen de la biblioteca los viernes por la tarde».",
+          "is_correct": false,
+          "feedback": "Incorrecto. La reformulación amplia el dato a toda la población del colegio, y el texto solo recoge lo que respondió un grupo pequeño."
+        },
+        {
+          "letter": "B",
+          "text": "«De treinta compañeros consultados en el patio, veintidós dijeron que el horario del viernes les sirve».",
+          "is_correct": true,
+          "feedback": "Correcto. La versión acota la afirmación a lo que el recuento efectivamente muestra y no inventa una generalización."
+        },
+        {
+          "letter": "C",
+          "text": "«Más de la mitad de los estudiantes del colegio necesita la biblioteca el viernes por la tarde».",
+          "is_correct": false,
+          "feedback": "Incorrecto. La reformulación presenta como dato general una proporción obtenida en una muestra de treinta personas."
+        },
+        {
+          "letter": "D",
+          "text": "«Ninguna encuesta del colegio respalda la propuesta de abrir la biblioteca los viernes».",
+          "is_correct": false,
+          "feedback": "Incorrecto. La reformulación afirma algo que el texto no dice, y además contradice el recuento que el propio autor realizó."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Acotar la afirmación al alcance real de la evidencia evita las exageraciones que luego debilitan el argumento. Un recuento parcial sostiene una afirmación proporcional y no una regla general. Reformular para que la conclusión no supere a la prueba es una habilidad central del pensamiento crítico.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-10-2026-W20-el-comentario-y-la-opinion-publicada-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W20-el-comentario-y-la-opinion-publicada-001-MASTERY-bundle-v8",
+      "statement": "¿Qué secuencia argumental sigue el Texto 2 desde la anécdota del uniforme hasta la petición al municipio?",
+      "context": "En Manizales, el grupo de décimo grado reconstruye la secuencia argumental del Texto 2.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Medición del tráfico, comparación entre ciudades, petición al municipio y conclusión sobre el presupuesto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La secuencia empieza con una anécdota y no incluye ninguna medición, de modo que el orden descrito no corresponde al texto."
+        },
+        {
+          "letter": "B",
+          "text": "Cita de una norma municipal, anécdota personal, dato estadístico y propuesta de horario.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El episodio no cita ninguna norma ni incluye ningún dato estadístico, y la propuesta final no es un horario."
+        },
+        {
+          "letter": "C",
+          "text": "Referencia sin fuente, anécdota personal, generalización y, al final, la petición de escribir al municipio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El episodio invierte ese orden: empieza con la anécdota, generaliza después y menciona la referencia sin fuente más adelante."
+        },
+        {
+          "letter": "D",
+          "text": "Anécdota personal, generalización que la presenta como comprobada y respuesta que apela a un caso no identificado, para terminar pidiendo la acción.",
+          "is_correct": true,
+          "feedback": "Correcto. La secuencia muestra cómo cada paso se apoya en el anterior y cómo ninguno de esos pasos añade la verificación que falta."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Reconstruir el recorrido de un texto permite ver dónde se apoya cada paso y dónde aparece el salto. En este caso, el episodio no se debilita por su tono, sino por la ausencia de un dato que el oyente pueda revisar.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LC-10-2026-W20-el-comentario-y-la-opinion-publicada-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W20-el-comentario-y-la-opinion-publicada-001-MASTERY-bundle-v9",
+      "statement": "Un análisis del Texto 2 señala que la anécdota del uniforme salpicado no puede sostener por sí sola la petición de cerrar la calle. ¿Por qué?",
+      "context": "En Manizales, un grupo de análisis del Texto 2 afirma que la anécdota no basta para sostener la petición.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque es una experiencia individual que no permite medir la frecuencia del riesgo, aunque sí muestra que el riesgo existe.",
+          "is_correct": true,
+          "feedback": "Correcto. El análisis distingue lo que la anécdota probó de lo que no pudo probar, en lugar de descalificarla por completo."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el episodio incluye datos que contradicen lo que le ocurrió a la estudiante en la calle.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El episodio no aporta ningún dato y no contradice la anécdota, que es el único testimonio que presenta."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el bus que salpicó el uniforme fue detenido ese mismo día.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Nada en el texto menciona una detención, y ese dato no aparece en ningún momento del episodio."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la anécdota aparece al final del episodio y por eso el oyente no la recuerda.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La anécdota abre el episodio y no cierra, y su posición no altera lo que el texto puede probar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar un recurso narrativo exige separar lo que aporta de lo que no alcanza para sostener. La anécdota cumple una función real: hace ver el problema. Lo que no hace es medirlo. Esa frontera, dicha con precisión, es lo que permite usar el recurso sin exagerar su valor.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.83,
+      "bundle_id": "CO-LC-10-2026-W20-el-comentario-y-la-opinion-publicada-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W20-el-comentario-y-la-opinion-publicada-001-MASTERY-bundle-v10",
+      "statement": "El Texto 1 aparece escrito, con título y firma, en un periódico escolar, y el Texto 2 es un episodio de podcast. ¿Qué diferencia de presentación explica lo que un lector puede hacer con cada uno?",
+      "context": "En Pereira, el grupo de décimo grado compara la presentación de los dos textos de la semana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El comentario permite leer sus frases una sola vez, porque en un impreso la lectura resulta más lenta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un texto impreso se puede releer las veces que haga falta, y esa es la diferencia relevante."
+        },
+        {
+          "letter": "B",
+          "text": "El episodio permite consultar por escrito todo lo dicho, porque el audio se puede repetir cuantas veces se quiera.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Repetir el audio no produce un texto consultable, y el episodio no incluye transcripción en los materiales de la semana."
+        },
+        {
+          "letter": "C",
+          "text": "El comentario deja las afirmaciones escritas y localizables, mientras que en el episodio no hay un texto que pueda revisarse después.",
+          "is_correct": true,
+          "feedback": "Correcto. La descripción explica qué puede hacer el lector con cada medio sin afirmar que uno sea mejor que el otro."
+        },
+        {
+          "letter": "D",
+          "text": "La firma del autor en el comentario reemplaza a la fuente, porque identifica quién responde por los datos citados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La firma identifica al responsable de las afirmaciones, pero no reemplaza la fuente que un dato necesita."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La forma de publicación condiciona qué observaciones puede hacer el lector después. Saber dónde está escrita una afirmación permite revisarla, discutirla y anotarla; un episodio obliga a confiar en la memoria. Reconocer esa diferencia ayuda a escribir mejor en cada medio, en lugar de trasladar un texto de un formato a otro sin ajustes.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-10-2026-W20-el-comentario-y-la-opinion-publicada-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W20-el-comentario-y-la-opinion-publicada-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál juicio comparativo sobre el Texto 1 y el Texto 2 está mejor sostenido?",
+      "context": "En Pereira, el comité editorial de los medios escolares del departamento revisa los dos textos antes de publicarlos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los dos textos son igualmente débiles, porque ninguno cita un documento oficial del municipio o del colegio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El juicio borra una diferencia real: uno explica de dónde salen sus cifras y el otro no ofrece ningún dato verificable."
+        },
+        {
+          "letter": "B",
+          "text": "El comentario del Texto 1 al menos expone cómo apoya su cifra, y el episodio del Texto 2 no permite rastrear ninguna afirmación.",
+          "is_correct": true,
+          "feedback": "Correcto. El juicio distingue el dato visible de la afirmación sin rastro y no necesita descalificar ninguno de los dos textos."
+        },
+        {
+          "letter": "C",
+          "text": "El episodio del Texto 2 es más sólido, porque dos personas discuten el tema y se contradicen.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La contradicción no es una fuente, y el episodio no aporta ningún dato que el comentario no exponga."
+        },
+        {
+          "letter": "D",
+          "text": "El comentario del Texto 1 es más débil, porque se publica en un periódico escolar y no en un medio de alcance nacional.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La circulación del medio no determina la solidez de los argumentos, y el texto no apela al alcance de su publicación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comparar dos textos exige un criterio explícito y el mismo para ambos. Aplicar el mismo criterio permite que la diferencia entre ellos sea visible y discutible, en lugar de reducir la comparación a quién escribió mejor o dónde se publicó. Ese es el estándar de una lectura intertextual seria.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.81,
+      "bundle_id": "CO-LC-10-2026-W20-el-comentario-y-la-opinion-publicada-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W20-el-comentario-y-la-opinion-publicada-001-MASTERY-bundle-v12",
+      "statement": "La norma dice que ningún comentario ni episodio se publica si presenta un dato sin explicar cómo se obtuvo. ¿Cuál es la aplicación correcta a los dos textos?",
+      "context": "En Manizales, el comité del podcast escolar aprueba una norma editorial antes de la próxima temporada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los dos textos pueden publicarse, porque ninguno atribuye cifras a instituciones oficiales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La norma no exige fuentes oficiales, y ambos textos presentan datos sin explicar su origen."
+        },
+        {
+          "letter": "B",
+          "text": "El Texto 1 puede publicarse, porque su recuento está escrito y se puede auditar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El recuento no incluye una explicación de método y la cifra de libros tampoco la tiene, de modo que la norma se incumple."
+        },
+        {
+          "letter": "C",
+          "text": "El Texto 2 puede publicarse, porque no afirma ningún dato numérico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El episodio menciona un cierre anterior en otra ciudad y un riesgo cotidiano, y presenta las dos cosas sin fuente comprobable."
+        },
+        {
+          "letter": "D",
+          "text": "Los dos textos reprueban la norma, porque en los dos se presenta un dato sin explicar cómo se obtuvo.",
+          "is_correct": true,
+          "feedback": "Correcto. La aplicación identifica en ambos textos la misma falla y respeta el criterio aprobado sin excepciones."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Una norma editorial escrita con claridad permite aplicar el mismo criterio a textos distintos sin depender del criterio personal de quien edita. Verificar que cada dato tenga un origen declarado protege a la comunidad que lee y enseña que la opinión publicada también se somete a revisión.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-10-2026-W20-el-comentario-y-la-opinion-publicada-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}

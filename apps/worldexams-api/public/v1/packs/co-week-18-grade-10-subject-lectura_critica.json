@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-18-grade-10-subject-lectura_critica",
+    "generated_at": "2026-09-30T16:29:28.739Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-10-2026-W18-la-narracion-y-la-voz-testimonial-001-MASTERY-bundle-v1",
+      "statement": "Según el Texto 1, ¿quién narra el episodio y con qué intención editorial se grabó?",
+      "context": "En Cali, el grado décimo escucha el último episodio del podcast escolar antes de la clase de Lectura Crítica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lo narra una estudiante de su propio grado, en primera persona, para el podcast de su colegio.",
+          "is_correct": true,
+          "feedback": "Correcto. La voz es la de una narradora que vivió algo y lo cuenta desde dentro, y el episodio pertenece al podcast del colegio."
+        },
+        {
+          "letter": "B",
+          "text": "Lo narra un periodista de Cali, en tercera persona, para el periódico escolar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El episodio no lleva firma de periodista ni aparece en un periódico, y el registro es de primera persona."
+        },
+        {
+          "letter": "C",
+          "text": "Lo narra la coordinadora del colegio, en primera persona, para el podcast escolar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Nada en el texto atribuye la voz a una coordinadora, y el relato se apoya en una experiencia propia de estudiante."
+        },
+        {
+          "letter": "D",
+          "text": "Lo narra un estudiante de otra ciudad, en primera persona, para el podcast de un colegio distinto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto sitúa la historia en la Avenida 4 Oeste de Cali y la narradora estudia en el colegio que produce el podcast."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Antes de interpretar un relato conviene registrar quién habla y desde dónde. La voz en primera persona entrega un conocimiento que nadie más tiene: el de quien vivió el trayecto. Reconocer eso desde el primer párrafo evita que el estudiante atribuya a un testigo cosas que nunca dijo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Literal",
+      "expected_success": 0.94,
+      "bundle_id": "CO-LC-10-2026-W18-la-narracion-y-la-voz-testimonial-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W18-la-narracion-y-la-voz-testimonial-001-MASTERY-bundle-v2",
+      "statement": "En el Texto 1, ¿qué cambio produce la frase «hoy la ruta la hacemos cuatro compañeros del grado»?",
+      "context": "En Cali, la profesora pide al grupo que analice el momento del episodio en que la narradora deja de hablar sola.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Convierte el relato en una instrucción dirigida a quien está escuchando el episodio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase no contiene una orden ni un consejo, y el episodio no se dirige a nadie como si fuera una instrucción."
+        },
+        {
+          "letter": "B",
+          "text": "Separa la experiencia individual de la experiencia de los demás.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El efecto es el contrario: la frase conecta la vivencia propia con la de otros, y no las distancia."
+        },
+        {
+          "letter": "C",
+          "text": "Amplía lo vivido por la narradora e incorpora a quienes ahora repiten la misma ruta.",
+          "is_correct": true,
+          "feedback": "Correcto. El plural comparte la experiencia y muestra que el recorrido dejó de ser un asunto de una sola estudiante."
+        },
+        {
+          "letter": "D",
+          "text": "Sustituye la experiencia personal por una cifra medida por el colegio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase no introduce ningún dato numérico, y el episodio sigue siendo un relato de experiencia."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El paso del yo al nosotros es una de las operaciones más frecuentes de la voz testimonial. Cuando el narrador incluye a otros, el relato deja deDescribe un caso aislado y empieza a insinuar una costumbre, sin necesidad deElect un dato. Detectar ese paso es clave para valorar después cuánto puede sostener la generalization.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Textual",
+      "expected_success": 0.92,
+      "bundle_id": "CO-LC-10-2026-W18-la-narracion-y-la-voz-testimonial-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W18-la-narracion-y-la-voz-testimonial-001-MASTERY-bundle-v3",
+      "statement": "La última frase del Texto 1 sostiene su afirmación sobre todo en…",
+      "context": "En Cali, el grupo de décimo grado debate sobre qué da solidez a la frase con que termina el episodio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En una cifra publicada en el grupo de WhatsApp del grado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El episodio no cita cifras, y la frase final se apoya en lo vivido y no en un mensaje compartido."
+        },
+        {
+          "letter": "B",
+          "text": "En la experiencia propia de la narradora y en la observación de quienes ahora hacen lo mismo.",
+          "is_correct": true,
+          "feedback": "Correcto. La fuerza de esa frase está en lo vivido y en la repetición observada, no en un dato externo."
+        },
+        {
+          "letter": "C",
+          "text": "En una medición del tiempo de recorrido hecha por el colegio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Nadie midió ese tiempo, y el episodio solo menciona que la ruta dura media hora."
+        },
+        {
+          "letter": "D",
+          "text": "En un testimonio ampliado de la señora de la panadería, citado textualmente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La señora de la panadería aparece en una escena del relato, pero no da ninguna declaración que se cite."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una reflexión personal puede sostenerse bien sin cifras, siempre que el lector sepa sobre qué experiencia se levanta. El error aparece cuando se presenta esa reflexión como si fuera el resultado de una investigación. Preguntar en qué se apoya una afirmación es un control sencillo y muy poderoso.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Inferencial",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-10-2026-W18-la-narracion-y-la-voz-testimonial-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W18-la-narracion-y-la-voz-testimonial-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál de estas transcripciones conserva mejor lo que el Texto 1 realmente sostiene?",
+      "context": "En Cali, un grupo de estudiantes debe llevar el episodio a un trabajo escrito para la exposición del período.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "«La ruta mide cuatro kilómetros y media hora, según medición del grado».",
+          "is_correct": false,
+          "feedback": "Incorrecto. Nadie midió la distancia, y la media hora es un dato del relato, no el resultado de una medición."
+        },
+        {
+          "letter": "B",
+          "text": "«Los estudiantes que llegan tarde son los que viven más lejos del colegio».",
+          "is_correct": false,
+          "feedback": "Incorrecto. El episodio no habla de llegadas tarde ni de distancias, y esa relación no aparece en el texto."
+        },
+        {
+          "letter": "C",
+          "text": "«La señora de la panadería responde por el éxito académico de quienes hacen la ruta».",
+          "is_correct": false,
+          "feedback": "Incorrecto. La señora solo aparece en una escena del relato, y nada en el episodio le atribuye ese papel."
+        },
+        {
+          "letter": "D",
+          "text": "«Quien narra el episodio aprendió a recorrer la ciudad antes que a leer el mapa, y hoy otros repiten esa ruta».",
+          "is_correct": true,
+          "feedback": "Correcto. La versión recoge las dos ideas del relato y no agrega datos, causas ni responsables que el texto no menciona."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Al pasar de un medio a otro es fácil colar información que el original no contenía. Una transcripción fiel conserva el alcance de lo dicho: si el relato es una experiencia, la transcripción debe seguir siendo una experiencia. Este control es lo que mantiene útil el trabajo escrito.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-10-2026-W18-la-narracion-y-la-voz-testimonial-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W18-la-narracion-y-la-voz-testimonial-001-MASTERY-bundle-v5",
+      "statement": "¿Qué lectura de esa expresión demuestra una comprensión precisa del texto?",
+      "context": "En Cali, dos estudiantes discuten la expresión «a las cinco y veinte de la mañana» del Texto 1.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una hora aproximada por la voz del relato, y no un dato exacto tomado de un reloj o de un registro.",
+          "is_correct": true,
+          "feedback": "Correcto. La hora llega narrada dentro de un testimonio y por eso admite un margen, en lugar de presentarse como un dato verificado."
+        },
+        {
+          "letter": "B",
+          "text": "Es la hora exacta de llegada al colegio, y el episodio la registra con precisión de reloj.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La hora corresponde a la salida de la casa, y el episodio no la presenta como una precisión de reloj."
+        },
+        {
+          "letter": "C",
+          "text": "Es una duración: la ruta lasted cinco horas y veinte minutos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La construcción con «a las» señala un momento del día, y en ningún sentido del texto hay una duración de cinco horas."
+        },
+        {
+          "letter": "D",
+          "text": "Es la hora en que el colegio inicia todas las clases del día.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El episodio no menciona el horario escolar, y la hora se refiere a la salida de la narradora de su casa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La manera en que un dato llega al texto indica qué tan confiable es. Un número incorporado en un testimonio es parte de la voz; un número con fuente identificable es un dato comprobable. Usar esa distinción en la práctica evita exigir precisión a las descripciones y descartar los datos verificables.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semantico",
+      "expected_success": 0.86,
+      "bundle_id": "CO-LC-10-2026-W18-la-narracion-y-la-voz-testimonial-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W18-la-narracion-y-la-voz-testimonial-001-MASTERY-bundle-v6",
+      "statement": "En el Texto 2, ¿qué función cumple la expresión «según un líder del barrio»?",
+      "context": "En Pereira, la profesora pide al grupo que marque en el Texto 2 las expresiones que aportan respaldo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Introduce una fuente institucional que respalda la afirmación general del artículo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un líder del barrio no es una fuente institucional, y el artículo no aporta ningún dato que la respalde."
+        },
+        {
+          "letter": "B",
+          "text": "Señala que el artículo verificó la afirmación con dos fuentes independientes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La expresión no menciona una segunda fuente, y el texto no muestra ninguna verificación de ese tipo."
+        },
+        {
+          "letter": "C",
+          "text": "Recoge una afirmación amplia sin decir quién la pronuncia ni dónde se dijo.",
+          "is_correct": true,
+          "feedback": "Correcto. La fórmula delega la idea en una voz que el artículo no identifica, y por eso la afirmación queda sin responsable comprobable."
+        },
+        {
+          "letter": "D",
+          "text": "Cierra el párrafo con una conclusión que el propio artículo da por verificada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La expresión está en la parte central del párrafo, y lo que sigue es una afirmación general sobre el problema del barrio."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las fórmulas de atribución son un punto de control crítico: según quién, en qué lugar y con qué fecha. Cuando una cita se luzca con una fuente genérica, la responsabilidad se desvanece. Preguntar quién habla es la forma más directa de evitar que un texto convierta la opinión de alguien en la voz de todo un barrio.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-10-2026-W18-la-narracion-y-la-voz-testimonial-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W18-la-narracion-y-la-voz-testimonial-001-MASTERY-bundle-v7",
+      "statement": "Al comparar los dos textos, ¿qué diferencia estructural es la más importante?",
+      "context": "En Pereira, el grado décimo coloca los dos textos uno al lado del otro y busca la diferencia de fondo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Texto 1 incluye datos numéricos y el Texto 2 no incluye ninguno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Texto 2 también maneja cifras, como el precio del pasaje, y el Texto 1 maneja tiempos y cantidades."
+        },
+        {
+          "letter": "B",
+          "text": "El Texto 1 expone una experiencia situada en un lugar y un tiempo, y el Texto 2 la convierte en una afirmación sobre toda la comunidad.",
+          "is_correct": true,
+          "feedback": "Correcto. La comparación muestra el desplazamiento central: de una voz que narra lo suyo a una voz que habla en nombre de muchos."
+        },
+        {
+          "letter": "C",
+          "text": "El Texto 1 oculta quién narra y el Texto 2 identifica con nombre a cada fuente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ocurre lo contrario: el podcast se presenta en primera persona, y el artículo usa una fuente sin nombre propio."
+        },
+        {
+          "letter": "D",
+          "text": "El Texto 1 se difunde por un medio local y el Texto 2 por un medio de alcance nacional.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los dos textos son piezas escolares, y ninguno indica una circulación de alcance nacional."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comparar dos textos que cuentan algo parecido permite ver el trabajo que hace la voz. Mantener el relato pegado a quien lo vivió y convertirlo en un enunciado general son operaciones distintas, con consecuencias distintas sobre lo que el lector puede aceptar. Nombrar esa diferencia es el primer paso hacia un juicio propio.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Inferencial",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LC-10-2026-W18-la-narracion-y-la-voz-testimonial-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W18-la-narracion-y-la-voz-testimonial-001-MASTERY-bundle-v8",
+      "statement": "En el Texto 2, ¿qué efecto tiene la expresión «una línea de tiempo que va desde las cinco y veinte de la mañana hasta la llegada al colegio»?",
+      "context": "En Pereira, la profesora pide al grupo que explique cómo el artículo organiza el relato que ahora resume.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Convierte el episodio en un relato colectivo que incluye a todo el barrio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La construcción ordena el trayecto de una sola persona, y no incorpora a otros narradores ni a la comunidad."
+        },
+        {
+          "letter": "B",
+          "text": "Deja entender que hubo una medición exacta del tiempo empleado por cada estudiante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El artículo no habla de mediciones, y esa construcción solo marca el comienzo y el final de una secuencia."
+        },
+        {
+          "letter": "C",
+          "text": "Sitúa el relato en un clima de urgencia y de peligro para quien camina.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El artículo menciona el frío y la espera, pero no construye una atmósfera de riesgo, y eso no es lo que hace la secuencia."
+        },
+        {
+          "letter": "D",
+          "text": "Ordena la experiencia como una sucesión de momentos y desplaza el foco hacia el trayecto.",
+          "is_correct": true,
+          "feedback": "Correcto. La secuencia temporal es lo que permite al artículo recorrer los pasos, y con ello convertir una experiencia en un relato en tercera persona."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El resumen en tercera persona conserva los hechos del relato pero cambia su modo de presentación. Esa reorganización no es neutra: al convertir una experiencia en secuencia, desplaza la atención desde quien la vivió hacia el trayecto mismo. Reconocer el cambio de modo es lo que permite ver dónde aparece la interpretación del medio.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.83,
+      "bundle_id": "CO-LC-10-2026-W18-la-narracion-y-la-voz-testimonial-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W18-la-narracion-y-la-voz-testimonial-001-MASTERY-bundle-v9",
+      "statement": "El comité afirma que el Texto 2 no puede sostener su conclusión de que «el problema no es la distancia sino la confianza». ¿Qué razón apoya mejor ese juicio?",
+      "context": "En Pereira, un comité editorial de estudiantes analiza la conclusión del Texto 2 antes de publicarlo en el periódico escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el texto no presenta datos que midan el trayecto ni identifica a quien sostiene la idea de confianza.",
+          "is_correct": true,
+          "feedback": "Correcto. El juicio señala las dos carencias comprobables del artículo y explica por qué impiden sostener una conclusión general."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el artículo usa demasiadas palabras y eso impide comprender bien el problema del barrio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La longitud no es un problema de fundamentación, y el artículo se entiende con normalidad."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el artículo menciona el precio del pasaje y ese dato vuelve indefendible cualquier conclusión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El precio del pasaje es el único dato del artículo y no debilita por sí mismo la conclusión, sino que podría sostenerla."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el artículo está escrito en tercera persona y ese rasgo resta autoridad a toda afirmación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El modo narrativo no invalida por sí mismo una conclusión, y el problema está en la ausencia de respaldo, no en la persona."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un juicio sólido señala fallas que cualquier lector pueda comprobar, no impresiones generales. Cuando un texto afirma algo sobre un conjunto de personas, necesita al menos una evidencia y una voz responsable. Exigir eso es lo que distingue la crítica útil de la descalificación sin fundamento.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-10-2026-W18-la-narracion-y-la-voz-testimonial-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W18-la-narracion-y-la-voz-testimonial-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es el juicio editorial mejor construido si se comparan los dos textos?",
+      "context": "En Cali y Pereira, los dos equipos editoriales se reunen para decidir qué material sirve como fuente para el número del período.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los dos textos sirven igual como prueba, porque describen la misma jornada escolar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tratar como equivalentes dos textos con niveles distintos de respaldo elimina justamente el criterio que se busca aplicar."
+        },
+        {
+          "letter": "B",
+          "text": "El Texto 1 no sirve para nada, porque su voz es demasiado personal para una publicación escolar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La experiencia personal es una fuente legítima, y el problema de un texto nunca está en que su voz sea personal."
+        },
+        {
+          "letter": "C",
+          "text": "El Texto 1 ofrece una experiencia que se puede comprobar con quien habla, y el Texto 2 exige revisar sus atribuciones antes de citarlo.",
+          "is_correct": true,
+          "feedback": "Correcto. El juicio distingue el valor probatorio de cada texto y señala la verificación concreta que el segundo necesita."
+        },
+        {
+          "letter": "D",
+          "text": "El Texto 2 es preferible, porque presenta a la comunidad como una sola voz y evita los detalles individuales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hablar por toda la comunidad sin identificar voces debilita el texto, y los detalles individuales son justamente lo comprobable."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cuando dos textos cuentan lo mismo, la diferencia de calidad no está en el tema, sino en lo que cada uno permite comprobar. Un relato con voz identificable puede contrastarse; una síntesis con atribuciones vagas exige una revisión previa. Nombrar qué verificación corresponde a cada texto es lo que hace utilizable un criterio editorial.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.81,
+      "bundle_id": "CO-LC-10-2026-W18-la-narracion-y-la-voz-testimonial-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W18-la-narracion-y-la-voz-testimonial-001-MASTERY-bundle-v11",
+      "statement": "La norma exige identificar a quien habla, situar el hecho en tiempo y lugar, y no convertir un testimonio en una afirmación general. ¿Cuál texto supera el filtro?",
+      "context": "En Cali, el grupo editorial redacta la norma que aplicará a los episodios del podcast escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los dos textos superan el filtro, porque los dos describen el mismo recorrido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Describir lo mismo no garantiza el cumplimiento de los tres criterios, y el filtro se aplica a cada texto por separado."
+        },
+        {
+          "letter": "B",
+          "text": "El Texto 1 supera el filtro y el Texto 2 no lo supera, porque no identifica la voz que sostiene su afirmación general.",
+          "is_correct": true,
+          "feedback": "Correcto. La aplicación señala con precisión qué criterio falla en cada texto y no confunde coincidencia temática con cumplimiento normativo."
+        },
+        {
+          "letter": "C",
+          "text": "El Texto 2 supera el filtro y el Texto 1 no lo supera, porque no incluye datos numéricos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La norma no exige cifras, y el Texto 1 sí identifica a quien habla y sitúa el hecho en diciembre y en la Avenida 4 Oeste."
+        },
+        {
+          "letter": "D",
+          "text": "Los dos textos reprueban el filtro, porque la norma exige que toda fuente provenga del barrio y ninguno la cumple.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El criterio de la norma no es la procedencia geográfica, y ese requisito tampoco aparece en ninguno de los tres puntos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una norma editorial escrita en tres puntos claros permite aplicarla igual a textos muy distintos, sin depender del criterio personal de quien edita. Verificar la identidad de la voz y el alcance de lo que afirma evita que un testimonio se convierta sin aviso en la posición de una comunidad. Ese control es el que da credibilidad a un medio escolar pequeño.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-10-2026-W18-la-narracion-y-la-voz-testimonial-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W18-la-narracion-y-la-voz-testimonial-001-MASTERY-bundle-v12",
+      "statement": "¿Qué decisión sostiene mejor lo que la evidencia permite afirmar?",
+      "context": "En Cali, el grupo de décimo grado prepara el episodio de cierre del período y debe definir qué hace con cada texto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reproducir únicamente el Texto 2, porque la voz en primera persona no sirve para un medio escolar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La voz en primera persona es una fuente válida, y descartar el relato comprobable por estilo sería un error de criterio."
+        },
+        {
+          "letter": "B",
+          "text": "Reproducir el Texto 1 y descartar el Texto 2, porque un relato con fechas no puede sostenerse ante una comunidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El problema del Texto 2 está en sus atribuciones, no en que incluya fechas, y esa falla no invalida todo el artículo."
+        },
+        {
+          "letter": "C",
+          "text": "Reproducir los dos en bloque, sin distinguir el origen de cada afirmación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Presentar los dos textos como si tuvieran el mismo respaldo borra precisamente la diferencia que el análisis anterior."
+        },
+        {
+          "letter": "D",
+          "text": "Reproducir el Texto 1 y usar el Texto 2 como punto de partida, dejando por revisar cada afirmación general atribuida a una voz sin identificar.",
+          "is_correct": true,
+          "feedback": "Correcto. La decisión aprovecha lo comprobable de un texto y deja explícito el trabajo pendiente en el otro, sin descartar contenido útil."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Un cierre editorial no tiene que elegir entre publicar y callar: puede publicar lo verificable y dejar por revisar lo que aún no lo es. Señalar qué afirmación queda pendiente y por qué es una decisión profesional, y además un modelo de uso honesto de las fuentes para el resto del período.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Inferencial",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-10-2026-W18-la-narracion-y-la-voz-testimonial-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}
