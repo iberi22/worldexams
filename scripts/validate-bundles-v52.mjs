@@ -108,6 +108,15 @@ export function feedbackProblem(feedback) {
   // A run of characters with no spaces carries no explanation, however long:
   // "123456789012345678901234" is not a reason, it is noise.
   if (!/\s/.test(reason)) return 'feedback is an unbroken string, it does not explain why';
+  // A calculation or a formula IS the explanation. AGENTS.md says so, and the
+  // corpus is full of correct feedback like "2 + 1 = 3", "pOH es 11" or
+  // "$Q_c\neq K_c$". The character floor does not apply to them.
+  if (/[=+\-*/×÷<>^]|\$[^$]+\$/.test(reason)) return null;
+  // A short statement that answers the question is an explanation, even without
+  // an operator: "pOH es 11", "son 2 moles", "es 35 m". Scientific and numerical
+  // answers carry the reasoning in the value itself.
+  if (/\b\d/.test(reason) && /\b(es|son|valen|equivale|significa|da|son)\b/i.test(reason)) return null;
+  if (/\b\d+\s*(m|km|g|kg|cm|mm|mol|mols|L|l|ml|°C|°F|K|Pa|Hz|N|J|W|V|A|%|x)\b/.test(reason)) return null;
   if (VAGUE_ONLY.test(reason)) return 'feedback only tells the student to look again, it does not explain why';
   if (reason.length < MIN_REASON_CHARS) {
     return `feedback gives no usable reason (${reason.length} chars): "${reason}"`;

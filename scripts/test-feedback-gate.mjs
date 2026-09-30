@@ -41,6 +41,11 @@ const REAL_GOOD = [
   ['math: slope reciprocal', 'Incorrecto. Esa es la pendiente reciproca de la dada.'],
   ['english: plural be', 'Incorrecto. "Are" is used with you, we, or they.'],
   ['math: negative root', 'Incorrecto. Olvidó la raíz negativa al despejar la ecuación.'],
+  // Short calculations. These are real explanations and are under the character
+  // floor, which is why the floor must not apply when a formula is present.
+  ['chem: arithmetic', 'Incorrecto. 2 + 1 = 3'],
+  ['chem: pOH', 'Correcto. pOH es 11'],
+  ['chem: Kc relation', 'Incorrecto. $Q_c\\neq K_c$'],
 ];
 
 
