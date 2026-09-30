@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-35-grade-4-subject-lectura_critica",
+    "generated_at": "2026-09-30T10:23:30.128Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-4-2026-W35-el-cuaderno-de-observaciones-y-los-datos-001-MASTERY-bundle-v1",
+      "statement": "Lee con atención una anotación del cuaderno.\n\n*\"Martes, 10 de marzo, 8:30 de la mañana. El germen de la puerta tiene dos hojas verdes y sigue en la ventana. Hoy no le puse agua porque la profesora dijo que el agua del Assigned se recoge al final de la clase.\"*\n\nSegún la anotación, ¿qué hizo la niña con el germen de la puerta?",
+      "context": "En el aula de cuarto de Medellín, la profesora abre el cuaderno de observaciones del germen de la puerta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lo regó con agua del Assigned, porque todas las plantas necesitan agua cada día",
+          "is_correct": false,
+          "feedback": "Incorrecto. La anotación dice que hoy no le puso agua y que el agua del Assigned se recoge al final, así que esa acción nunca ocurrió."
+        },
+        {
+          "letter": "B",
+          "text": "Lo cambió de ventana, porque el cuaderno menciona que la planta cambió de lugar",
+          "is_correct": false,
+          "feedback": "Incorrecto. La anotación dice que el germen sigue en la ventana, así que no hubo ningún cambio de lugar."
+        },
+        {
+          "letter": "C",
+          "text": "No lo regó ese día, porque la profesora dijo que esa agua se recogía al final de la clase",
+          "is_correct": true,
+          "feedback": "Correcto. La niña anotó que no le puso agua y por qué, y eso responde la pregunta de manera directa."
+        },
+        {
+          "letter": "D",
+          "text": "Lo tapó para protegerlo del frío, porque el cuaderno protege a las plantas",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cuaderno solo guarda lo que la niña escribe, y el germen siguió en la ventana sinmentionar nada de frío."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Leer un cuaderno de observaciones de forma literal es responder solo con lo que la página escribe, sin inventar datos que el registro no tiene. Reconocer el verbo principal de una anotación ayuda a los niños a distinguir lo que ocurrió de lo que alguien suponía. Esa disciplina es la base para trabajar con cualquier fuente de datos en todas las materias.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Literal",
+      "expected_success": 0.92,
+      "bundle_id": "CO-LC-4-2026-W35-el-cuaderno-de-observaciones-y-los-datos-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W35-el-cuaderno-de-observaciones-y-los-datos-001-MASTERY-bundle-v2",
+      "statement": "Observa las dos frases de un cuaderno de observaciones que hablan de la misma mata.\n\n*\"Frase 1, dato anotado: \"El jueves la mata medía nueve centímetros\". Frase 2, opinión escrita: \"Esa mata es la más bonita del salón\".\"*\n\n¿Qué diferencia de significado hay entre las dos frases?",
+      "context": "En un taller de lectura de cuarto de Bucaramanga, los estudiantes descubren la diferencia entre un dato y una opinión.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La frase 1 cuenta una historia y la frase 2 da un dato que se puede medir",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase 2 no es un dato, y la frase 1 es justamente la que trae una medición del cuaderno."
+        },
+        {
+          "letter": "B",
+          "text": "La frase 1 describe un dato que alguien midió, y la frase 2 expresa un gusto personal",
+          "is_correct": true,
+          "feedback": "Correcto. Una frase se apoya en una medición y la otra en el criterio de quien escribe, y eso cambia lo que se puede comprobar."
+        },
+        {
+          "letter": "C",
+          "text": "Las dos frases dicen lo mismo, porque las dos hablan de la misma mata",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las dos frases hablan de la misma mata, y solo una de ellas trae un dato medible."
+        },
+        {
+          "letter": "D",
+          "text": "La frase 1 es menos confiable porque las mediciones se equivocan",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un dato medido con una regla se puede volver a medir y a verificar, y por eso es más confiable que un gusto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Entender qué significa cada tipo de frase en un cuaderno es el primer paso para usar bien esa fuente. Un dato se puede volver a medir o comparar, mientras que un gusto personal se puede tener o no, pero no se comprueba. Saber cuándo se está leyendo cada uno evita confundir una opinión con un hecho registrado.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-4-2026-W35-el-cuaderno-de-observaciones-y-los-datos-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W35-el-cuaderno-de-observaciones-y-los-datos-001-MASTERY-bundle-v3",
+      "statement": "Lee las tres anotaciones que llenaron tres grupos del mismo experimento.\n\n*\"Anotación 1: \"Le eché más agua\". Anotación 2: \"El jueves la planta midió siete centímetros y tenía cuatro hojas\". Anotación 3: \"Todas las plantas del salón son bonitas\".\"*\n\n¿Cuál de las tres anotaciones sirve mejor para saber cómo creció la planta en un día exacto?",
+      "context": "En el aula de cuarto de Cali, un grupo debe completar la tabla de un experimento con plantas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La anotación 2, porque trae la fecha y las medidas de la planta ese día",
+          "is_correct": true,
+          "feedback": "Correcto. La anotación dice el día, cuántos centímetros tenía y cuántas hojas, y con eso se puede comparar el cambio."
+        },
+        {
+          "letter": "B",
+          "text": "La anotación 1, porque el agua es lo único que hace crecer una planta",
+          "is_correct": false,
+          "feedback": "Incorrecto. La anotación 1 no da ninguna medida de crecimiento, y solo dice que le echaron más agua."
+        },
+        {
+          "letter": "C",
+          "text": "La anotación 3, porque describe la planta completa y permite ver su progreso",
+          "is_correct": false,
+          "feedback": "Incorrecto. La anotación 3 es un gusto general y no dice nada de medidas ni de fechas."
+        },
+        {
+          "letter": "D",
+          "text": "Las tres anotaciones sirven por igual, porque las tres hablan de la misma planta",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las tres anotaciones sirven para cosas distintas, y solo una tiene los datos que pide la pregunta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Elegir la anotación adecuada es preguntar qué dato responde a la pregunta que se está haciendo. Para saber cuánto creció una planta en un día, sirve la anotación que trae fecha y medición. Enseñar a los niños a emparejar pregunta y dato les da una herramienta válida para cualquier trabajo de investigación escolar.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.86,
+      "bundle_id": "CO-LC-4-2026-W35-el-cuaderno-de-observaciones-y-los-datos-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W35-el-cuaderno-de-observaciones-y-los-datos-001-MASTERY-bundle-v4",
+      "statement": "Lee con atención la frase que escribió un niño en su cuaderno.\n\n*\"Como la planta estaba inclinada, el niño la enderezó con un palo.\"*\n\nSegún esa frase, ¿qué relación hay entre el problema y la solución que el niño registró?",
+      "context": "En la clase de cuarto de Villavicencio, los estudiantes revisan cómo está construida una frase del cuaderno.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El problema fue que la planta era muy alta, y la solución fue esperar a que creciera más",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase dice que la planta estaba inclinada, y el niño no esperó, sino que usó un palo para arreglarla."
+        },
+        {
+          "letter": "B",
+          "text": "La frase une el problema de la inclinación con la solución del palo usando la palabra como",
+          "is_correct": true,
+          "feedback": "Correcto. La expresión como introduce la causa dentro de la misma frase, y así se entiende el problema y la solución unidos."
+        },
+        {
+          "letter": "C",
+          "text": "La frase junta dos ideas sin ningún conector, y por eso el lector no puede saber qué pasó",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase sí usa el conector como, y ese nexo le permite al lector entender la relación entre las dos ideas."
+        },
+        {
+          "letter": "D",
+          "text": "La frase describe el problema con un nombre propio y la solución con un adjetivo",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay ningún nombre propio en la frase, y las dos partes describen acciones, no sustantivos ni adjetivos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Mirar cómo está construida una frase es notar qué palabras la unen y qué papel juega cada parte. Los conectores como porque, como o entonces sirven para mostrar la relación entre un hecho y otro, y entenderlos ayuda a los niños a escribir con claridad y a leer frases largas sin perderse.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.83,
+      "bundle_id": "CO-LC-4-2026-W35-el-cuaderno-de-observaciones-y-los-datos-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W35-el-cuaderno-de-observaciones-y-los-datos-001-MASTERY-bundle-v5",
+      "statement": "Lee la explicación que dio una niña sobre su cuaderno de observaciones.\n\n*\"Anoto todos los días porque el profesor dijo que así. También anoto las cosas raras que pasan, como el día que la hoja se puso amarilla y al día siguiente volvió a ponerse verde.\"*\n\n¿Qué busca esta niña con su forma de escribir?",
+      "context": "En un trabajo en grupo de cuarto de Popayán, los estudiantes analizan por qué una niña escribe su cuaderno todos los días.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Querer ganar el premio del mejor cuaderno del salón, porque anota sin falta todos los días",
+          "is_correct": false,
+          "feedback": "Incorrecto. La niña no menciona ningún premio, y su motivo real es que el profesor se lo pidió."
+        },
+        {
+          "letter": "B",
+          "text": "Avisar que la planta estaba enferma todo el mes, porque cuenta que una hoja se puso amarilla",
+          "is_correct": false,
+          "feedback": "Incorrecto. La niña cuenta que la hoja volvió a ponerse verde, así que no estaba enferma todo el mes."
+        },
+        {
+          "letter": "C",
+          "text": "Demostrar que las plantas del salón no sirven, porque las hojas cambian de color",
+          "is_correct": false,
+          "feedback": "Incorrecto. La niña nunca dice que las plantas no sirvan, y solo está contando lo que vio en el cuaderno."
+        },
+        {
+          "letter": "D",
+          "text": "Cumplir la indicación del profesor y dejar registro de los cambios raros de la planta",
+          "is_correct": true,
+          "feedback": "Correcto. Al decir que anota porque el profesor lo dijo, y al copiar el día raro, muestra que su intención es seguir la regla y conservar el dato."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Analizar el propósito de un texto es preguntar qué efecto quiere producir en quien lo lee, más allá de los datos que entrega. Cuando una niña dice que anota porque se lo pidieron y además copia un cambio raro, su intención es obedecer la regla y conservar un dato que no se va a repetir. Reconocer esa intención enseña a los niños a leer también los cuadernos de sus compañeros.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-4-2026-W35-el-cuaderno-de-observaciones-y-los-datos-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W35-el-cuaderno-de-observaciones-y-los-datos-001-MASTERY-bundle-v6",
+      "statement": "Lee los dos textos que cuentan el crecimiento de la misma mata.\n\n*\"Texto 1: \"La mata midió siete centímetros el jueves y el viernes midió ocho centímetros. Así creció durante toda la semana, y por eso anotamos de un día a otro\". Texto 2: \"La planta estaba pequeña. Después ya no fue tan pequeña. Al final se veía más grande que al principio\".\"*\n\n¿Qué diferencia en la organización del texto se observa entre los dos textos?",
+      "context": "En el aula de cuarto de Armenia, un grupo compara dos versiones de cómo contó el crecimiento de una mata.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El texto 2 tiene más datos numéricos y por eso explica mejor el crecimiento",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto 2 no trae ningún número, y su forma de contar es más general que la del texto 1."
+        },
+        {
+          "letter": "B",
+          "text": "Los dos textos cuentan el crecimiento con el mismo orden y solo cambian las palabras",
+          "is_correct": false,
+          "feedback": "Incorrecto. El primero da días y medidas, y el segundo solo describe estados sin marcar el paso del tiempo."
+        },
+        {
+          "letter": "C",
+          "text": "El texto 1 está incompleto porque no menciona el nombre de la persona que midió",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un registro de observaciones no necesita nombres, y el texto 1 sí completa la cuenta que se propone hacer."
+        },
+        {
+          "letter": "D",
+          "text": "El texto 1 avanza con fechas y medidas, y el texto 2 usa comparaciones sin marcar el tiempo",
+          "is_correct": true,
+          "feedback": "Correcto. El texto 1 nombra el jueves y el viernes con centímetros, y el texto 2 dice más grande que al principio sin decir cuánto."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Analizar la forma de un texto es observar si el autor ordena los hechos en el tiempo o solo los presenta como escenas sueltas. Cuando un registro nombra días y medidas, el lector puede ver el cambio; cuando solo dice que algo estaba pequeño y después grande, el lector tiene que imaginarlo. Notar esa diferencia enseña a los niños a escribir sus propios registros con datos que se puedan verificar.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-4-2026-W35-el-cuaderno-de-observaciones-y-los-datos-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W35-el-cuaderno-de-observaciones-y-los-datos-001-MASTERY-bundle-v7",
+      "statement": "Un compañero de tu grupo afirma lo siguiente.\n\n*\"Si una hoja se puso amarilla el martes, ese es un dato comprobado de mi cuaderno, y con eso ya se puede saber por qué se puso amarilla.\"*\n\n¿Cuál es la respuesta más sólida que puede darle el grupo a esa afirmación?",
+      "context": "En la reunión de aula de un colegio en Montería, un compañero de tu grupo defiende lo que dice su cuaderno.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La afirmación es correcta, porque el cuaderno de observaciones solo escribe datos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cuaderno también guarda opiniones, y además un dato de color no explica por qué ocurrió el cambio."
+        },
+        {
+          "letter": "B",
+          "text": "La afirmación es incorrecta, porque anotar un cambio de color es un dato y no una explicación de su causa",
+          "is_correct": true,
+          "feedback": "Correcto. El cuaderno sí registra lo que pasó de manera valiosa, y para saber la razón hay que buscar o preguntar, no suponerla."
+        },
+        {
+          "letter": "C",
+          "text": "La afirmación es incorrecta, porque solo el profesor puede escribir en un cuaderno de observaciones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los estudiantes observan y registran datos, y cualquier niño del salón puede usar su propio cuaderno."
+        },
+        {
+          "letter": "D",
+          "text": "La afirmación es correcta, porque todas las hojas amarillas tienen la misma causa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una hoja puede ponerse amarilla por razones distintas, y el cuaderno solo describe lo que se vio, no la causa."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar lo que dice un cuaderno es distinguir entre un dato y una explicación. El dato es lo que el niño vio y anotó, y es muy valioso; la causa de ese dato todavía falta y hay que buscarla en otro lugar. Esta costumbre de separar el hecho de la explicación es la base de cualquier trabajo serio con información.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LC-4-2026-W35-el-cuaderno-de-observaciones-y-los-datos-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W35-el-cuaderno-de-observaciones-y-los-datos-001-MASTERY-bundle-v8",
+      "statement": "Los cuatro grupos redactaron una versión de cómo contó su experimento con germenes.\n\n*\"Grupo 1: \"Todos los germenes salieron hermosos, el mío y el de la ventana\". Grupo 2: \"El cuaderno muestra que el germen de la mesa creció tres centímetros entre el lunes y el viernes, y tenía seis hojas al final\". Grupo 3: \"El germen creció solo porque mi abuela así lo hace siempre\". Grupo 4: \"El experimento salió perfecto, y por eso el grupo merece un punto extra\".\"*\n\n¿Cuál de las cuatro versiones es la más sólida como informe de observaciones?",
+      "context": "Como tarea final, los grupos de cuarto de Neiva deben escribir un informe de un experimento con plantas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La del grupo 1, porque dice que todos los germenes salieron bien",
+          "is_correct": false,
+          "feedback": "Incorrecto. El grupo 1 no trae ningún dato del cuaderno, solo un adjetivo, y con eso no se puede comprobar nada."
+        },
+        {
+          "letter": "B",
+          "text": "La del grupo 4, porque pedir un punto extra demuestra que el trabajo quedó bien hecho",
+          "is_correct": false,
+          "feedback": "Incorrecto. Pedir un punto extra no es un dato del experimento, y esa versión no registra ninguna observación verificable."
+        },
+        {
+          "letter": "C",
+          "text": "La del grupo 2, porque se apoya en el cuaderno y da días, medidas y un cambio concreto",
+          "is_correct": true,
+          "feedback": "Correcto. Esa versión menciona la fuente, los días, la medida y el cambio de las hojas, y con eso el lector puede volver a revisar el cuaderno."
+        },
+        {
+          "letter": "D",
+          "text": "La del grupo 3, porque su abuela es la fuente principal del experimento",
+          "is_correct": false,
+          "feedback": "Incorrecto. La versión del grupo 2 es la que entrega días, medidas y un cambio observable desde el cuaderno, y esa es la más sólida."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Comparar cuatro versiones de un mismo experimento enseña qué tiene que tener un informe de observaciones para ser confiable. Nombra la fuente, da los días, trae medidas y explica el cambio con palabras que se pueden volver a revisar. Practicar estos criterios les permite a los niños escribir sus conclusiones con honestidad y sin inventar datos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-4-2026-W35-el-cuaderno-de-observaciones-y-los-datos-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    }
+  ]
+}
