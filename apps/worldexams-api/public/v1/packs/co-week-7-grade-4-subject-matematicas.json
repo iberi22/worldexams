@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-7-grade-4-subject-matematicas",
+    "generated_at": "2026-09-30T15:17:18.737Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-4-2026-W07-el-fraccionamiento-y-la-fraccion-comun-001-MASTERY-bundle-v1",
+      "statement": "¿Qué significa la fracción 1/2?",
+      "context": "En la casa de la familia Rodríguez, en el barrio La Esmeralda de Bogotá, la abuela parte un pandebono en dos porciones iguales para sus dos nietos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Significa dos partes iguales de un todo, y el 1 indica cuántas partes hay",
+          "is_correct": false,
+          "feedback": "Incorrecto. El 2 indica cuántas partes hay y el 1 indica cuántas se toman, así que esa opción intercambia los dos números."
+        },
+        {
+          "letter": "B",
+          "text": "Significa que un pandebono entero pesa medio kilo",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fracción no habla de peso ni de masa: describe partes de un todo que ya fue dividido."
+        },
+        {
+          "letter": "C",
+          "text": "Significa una de dos partes iguales en que se divide el todo, con 1 parte Ilena y 2 partes en total",
+          "is_correct": true,
+          "feedback": "¡Correcto! El número de abajo, 2, indica en cuántas partes iguales se dividió el todo, y el de arriba, 1, cuántas se toman."
+        },
+        {
+          "letter": "D",
+          "text": "Significa que el todo se dividió en 1 parte y se tomó la parte 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se puede tomar una parte que no existe: en 1/2 hay dos partes y se toma una sola."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una fracción común tiene dos números separados por una línea. El número de abajo se llama denominador y indica en cuántas partes iguales se dividió el todo. El número de arriba se llama numerador e indica cuántas de esas partes se toman. En 1/2 el pandebono se dividió en dos partes y la abuela tomó una, así que cada nieto recibe la mitad.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Numerico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-4-2026-W07-el-fraccionamiento-y-la-fraccion-comun-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W07-el-fraccionamiento-y-la-fraccion-comun-001-MASTERY-bundle-v2",
+      "statement": "¿Qué fracción de la pizza se comieron?",
+      "context": "En una pizzería de Medellín, una pizza se sirve dividida en 8 porciones iguales. En una familia, tres personas comieron y las otras cinco no.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3/8, porque se dividió el todo en 8 partes iguales y se tomaron 3",
+          "is_correct": true,
+          "feedback": "¡Correcto! El denominador 8 son las partes en que se dividió la pizza y el numerador 3 son las partes que comieron."
+        },
+        {
+          "letter": "B",
+          "text": "8/3, porque se dividió en 8 partes y se tomaron 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. El numerador nunca puede ser mayor que el denominador en una fracción propia como esta, porque no se puede tomar más de todo lo que hay."
+        },
+        {
+          "letter": "C",
+          "text": "3/5, porque quedaron 5 partes sin comer",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las 5 partes sin comer sirven para un cálculo de resta, pero la fracción que se comieron se mide sobre las 8 partes del total."
+        },
+        {
+          "letter": "D",
+          "text": "1/8, porque las ocho partes tienen el mismo tamaño",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que las partes sean iguales describe el denominador, pero comieron 3 partes y no solamente una."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para escribir una fracción hay que mirar dos cosas: en cuántas partes iguales se dividió el todo y cuántas de esas partes se tomaron. En este caso la pizza se dividió en 8 partes, así que el denominador es 8, y se comieron 3 partes, así que el numerador es 3. La fracción 3/8 describe exactamente lo que pasó y además indica que la porción comida fue menor que la porción que quedó.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Numerico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-4-2026-W07-el-fraccionamiento-y-la-fraccion-comun-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W07-el-fraccionamiento-y-la-fraccion-comun-001-MASTERY-bundle-v3",
+      "statement": "¿Cuántas canicas se usan en el taller de arte?",
+      "context": "En una tienda de juguetes de Bogotá hay una bolsa con 24 canicas de colores y se usan las tres cuartas partes para un taller de arte.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6 canicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Encontraste la cuarta parte de la bolsa, pero se necesitan las tres cuartas partes, que son tres veces esa porción."
+        },
+        {
+          "letter": "B",
+          "text": "18 canicas",
+          "is_correct": true,
+          "feedback": "¡Correcto! 24 : 4 = 6 y 6 x 3 = 18, porque tres cuartas partes equivalen a tres de los cuatro grupos iguales de la bolsa."
+        },
+        {
+          "letter": "C",
+          "text": "21 canicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste de 24 lo que faltaba para completar el todo, cuando lo que se busca es justamente la parte que se usa."
+        },
+        {
+          "letter": "D",
+          "text": "27 canicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste las tres cuartas partes en lugar de tomarlas, y esa cuenta excede lo que hay en la bolsa."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para calcular una fracción de una cantidad conviene primero dividir la cantidad entre el denominador y luego multiplicar por el numerador. Aquí 24 canicas divididas entre 4 dan 6 canicas por cuarta parte, y como se necesitan tres cuartas partes se multiplica 6 por 3 para obtener 18 canicas. Un control útil es comprobar que la parte usada más la parte que sobra dan el total: 18 + 6 = 24.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-4-2026-W07-el-fraccionamiento-y-la-fraccion-comun-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W07-el-fraccionamiento-y-la-fraccion-comun-001-MASTERY-bundle-v4",
+      "statement": "¿Qué fracción de los estudiantes llegaron tarde?",
+      "context": "En una escuela de Bucaramanga hay 20 estudiantes en el salón de cuarto grado y 5 de ellos llegaron tarde el día de la semana de exámenes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5/15",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usaste 15 en el denominador, pero el total del salón es 20 estudiantes y no 15."
+        },
+        {
+          "letter": "B",
+          "text": "1/5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste la parte por el todo, cuando la fracción de un grupo se escribe con la parte de abajo y el grupo completo arriba."
+        },
+        {
+          "letter": "C",
+          "text": "20/5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa fracción tiene el total en el numerador y la parte en el denominador, o sea al revés de lo que significa llegar tarde."
+        },
+        {
+          "letter": "D",
+          "text": "5/20",
+          "is_correct": true,
+          "feedback": "¡Correcto! Se escribieron 5 estudiantes que llegaron tarde sobre los 20 estudiantes del salón, que son el grupo completo."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La fracción de un grupo se escribe colocando la parte que nos interesa en el numerador y el grupo completo en el denominador. En este caso la parte es 5 estudiantes que llegaron tarde y el grupo son 20 estudiantes, así que la fracción es 5/20. Esta misma fracción se puede simplificar dividiendo numerador y denominador entre 5 para obtener 1/4, lo que significa que uno de cada cuatro estudiantes llegó tarde.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Formulacion",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-4-2026-W07-el-fraccionamiento-y-la-fraccion-comun-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W07-el-fraccionamiento-y-la-fraccion-comun-001-MASTERY-bundle-v5",
+      "statement": "Si la primera franja es 5/8 del muro y la segunda es 3/8 del muro, ¿qué afirmación es correcta?",
+      "context": "En un taller de arte de Cali, don Gerardo pintó dos franjas de un mismo muro para un evento del colegio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3/8 es mayor, porque el numerador 3 es menor que el 5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un numerador menor produce una fracción menor cuando el denominador es el mismo, no mayor."
+        },
+        {
+          "letter": "B",
+          "text": "Son iguales, porque las dos fracciones tienen el mismo denominador",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tener el mismo denominador permite comparar con facilidad, pero no las hace iguales si los numeradores son distintos."
+        },
+        {
+          "letter": "C",
+          "text": "5/8 es mayor, porque tiene el mismo denominador y un numerador mayor",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al tener las dos el mismo denominador, se comparan los numeradores y 5 es mayor que 3."
+        },
+        {
+          "letter": "D",
+          "text": "5/8 es mayor, porque su denominador es mayor que el de la otra fracción",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las dos fracciones tienen el mismo denominador, 8, así que la diferencia no está en ese número."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cuando dos fracciones tienen el mismo denominador se puede comparar mirando solamente sus numeradores, porque las dos fracciones miden sobre la misma cantidad de partes iguales. Si 5/8 es mayor que 3/8, es porque 5 partes de 8 llenan más mural que 3 partes de 8. Este criterio es sencillo y evita comparar fracciones con denominadores distintos, donde la comparación sí exige otros procedimientos.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-4-2026-W07-el-fraccionamiento-y-la-fraccion-comun-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W07-el-fraccionamiento-y-la-fraccion-comun-001-MASTERY-bundle-v6",
+      "statement": "¿Qué relación se cumple entre 7/9 y 7/15?",
+      "context": "En la sala de cuarto grado de un colegio de Bogotá, dos fracciones aparecen en el tablero: 7/9 y 7/15. La profesora pide justificar cuál ocupa más parte de la hoja.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son iguales, porque tienen el mismo numerador",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tener el mismo numerador no basta para que dos fracciones sean iguales: también importa cuántas partes tiene el todo."
+        },
+        {
+          "letter": "B",
+          "text": "7/9 es mayor que 7/15, porque con el mismo numerador la fracción de menor denominador es mayor",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al dividir el mismo 7 en más partes, 9, cada parte queda más pequeña y por eso la fracción es mayor."
+        },
+        {
+          "letter": "C",
+          "text": "7/9 es menor que 7/15, porque tiene un denominador más grande",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con el mismo numerador, un denominador más grande produce una fracción más pequeña y no más grande."
+        },
+        {
+          "letter": "D",
+          "text": "7/15 es mayor, porque el denominador 15 es el número más alto de los dos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un número más alto en el denominador no significa una fracción mayor: hay que pensar en el tamaño de cada parte."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para comparar fracciones que tienen el mismo numerador se debe mirar el denominador, porque ahí está la clave de la comparación. Si repartimos 7 unidades en 9 partes, cada parte vale 7 : 9, y al repartirlas en 15 partes cada una vale 7 : 15, que es un número más pequeño. Por eso 7/9 ocupa más parte de la hoja que 7/15. Este análisis muestra que no basta con comparar los números de la fracción sin saber qué papel juega cada uno.\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Modelacion",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-4-2026-W07-el-fraccionamiento-y-la-fraccion-comun-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W07-el-fraccionamiento-y-la-fraccion-comun-001-MASTERY-bundle-v7",
+      "statement": "¿Cuántas tazas de arroz necesita el cocinero para 8 personas?",
+      "context": "En el comedor escolar de Medellín, la receta de aguado para 4 personas usa 3/2 de taza de arroz. El cocinero debe prepararla para 8 personas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3/2 de taza, porque la fracción de la receta no cambia",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fracción respecto a una persona sí se mantiene, pero la cantidad total depende de cuántas personas se sirvan."
+        },
+        {
+          "letter": "B",
+          "text": "3/4 de taza, porque al duplicar las personas se divide la fracción",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al duplicar las personas la cantidad de arroz aumenta, y no disminuye, porque hay que alimentar el doble."
+        },
+        {
+          "letter": "C",
+          "text": "3 tazas, porque cada persona usa media taza",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste media taza por 3, cuando hay que multiplicar por las 8 personas que se van a servir."
+        },
+        {
+          "letter": "D",
+          "text": "6 tazas, porque al duplicar las personas se duplica la cantidad total",
+          "is_correct": true,
+          "feedback": "¡Correcto! 3/2 x 2 = 3 y 3 x 2 = 6, porque al duplicar el número de comensales se duplica el total de arroz."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Cuando una receta se prepara para el doble de personas, todas las cantidades se duplican. En este caso 3/2 de taza para 4 personas equivale a 6 tazas para 8 personas, y eso se comprueba con dos caminos: multiplicar 3/2 por 2 para obtener 3 tazas por cada 4 personas, y luego multiplicar 3 por 2. Este procedimiento sirve para cualquier problema de cocina, pintura o trabajo en grupo donde las cantidades se repiten.\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Modelacion",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-4-2026-W07-el-fraccionamiento-y-la-fraccion-comun-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W07-el-fraccionamiento-y-la-fraccion-comun-001-MASTERY-bundle-v8",
+      "statement": "¿Qué fracción representa la mitad de la mitad?",
+      "context": "En una clase de cuarto grado en Bucaramanga, la profesora escribe en el tablero 1/2 y pregunta cuál es la mitad de esa mitad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1/4, porque la mitad de la mitad se obtiene dividiendo otra vez entre 2",
+          "is_correct": true,
+          "feedback": "¡Correcto! 1/2 de 1/2 es 1/4, y esto se ve al dividir el pandebono en 2 y luego cada mitad en 2."
+        },
+        {
+          "letter": "B",
+          "text": "1/2, porque todas las mitades tienen la misma medida",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es cierto que las dos mitades del pandebono son iguales entre sí, pero la mitad de una mitad es más pequeña que una mitad completa."
+        },
+        {
+          "letter": "C",
+          "text": "1/3, porque las partes de un todo siempre suman tres",
+          "is_correct": false,
+          "feedback": "Incorrecto. El número de partes depende de cuántas veces se divide el todo, y aquí el pandebono se divide dos veces en mitades."
+        },
+        {
+          "letter": "D",
+          "text": "3/4, porque la mitad del todo es la mitad menos una parte",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa resta no corresponde a dividir, y 3/4 es más grande que la mitad en lugar de más pequeña."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dividir un todo a la mitad dos veces equivale a dividirlo en cuatro partes iguales. Si se parte el pandebono en dos y luego se parte cada mitad en dos, aparecen cuatro trozos y cada nieto del segundo nivel recibe uno de ellos, es decir 1/4 del pandebono. Esta multiplicación de denominadores se escribe 1/2 x 1/2 = 1/4, y es la base para entender conceptos más avanzados como las fracciones de fracciones.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Formulacion",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-4-2026-W07-el-fraccionamiento-y-la-fraccion-comun-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    }
+  ]
+}
