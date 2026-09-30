@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-34-grade-9-subject-lengua",
+    "generated_at": "2026-09-30T05:53:13.045Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-9-2026-W34-la-literatura-y-su-contexto-social-001-MASTERY-bundle-v1",
+      "statement": "¿Qué significa afirmar que la literatura es un producto social?",
+      "context": "En Bogotá, la profesora de noveno abre el tema con la pregunta sobre por qué los libros hablan del mundo en el que fueron escritos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la literatura solo describe problemas sociales sin tomar partido por nadie",
+          "is_correct": false,
+          "feedback": "La obra literatura puede tomar partido, y reducirla a descripción neutra elimina su capacidad crítica."
+        },
+        {
+          "letter": "B",
+          "text": "Que la literatura se escribe exclusivamente para los miembros de una clase social elevada",
+          "is_correct": false,
+          "feedback": "El readership de la literatura es amplio, y ninguna obra se limita por principio a un sector social."
+        },
+        {
+          "letter": "C",
+          "text": "Que la literatura conserva su sentido original aunque cambie la sociedad que la produce",
+          "is_correct": false,
+          "feedback": "La obra sigue siendo válida, pero su sentido se enriquece cuando se lee dentro del contexto que la originó."
+        },
+        {
+          "letter": "D",
+          "text": "Que las obras literarias nacen de un contexto social y también intervienen en él",
+          "is_correct": true,
+          "feedback": "La literatura surge de las condiciones de una época y, al mismo tiempo, influye en la manera de pensar de quienes la leen."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La literatura es una práctica social porque se produce dentro de unas condiciones históricas concretas y porque participa en la construcción de imaginarios colectivos. Estudiar su contexto no reduce su valor artístico, sino que lo aclara. Many obras que se leen hoy conservan su potencia precisamente porque se comprenden los problemas que las originaron.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Semantico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W34-la-literatura-y-su-contexto-social-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W34-la-literatura-y-su-contexto-social-001-MASTERY-bundle-v2",
+      "statement": "¿Por qué es pertinente conocer el contexto social e histórico de una obra antigua?",
+      "context": "En Cartagena, un profesor pregunta por qué se estudia la obra de un autor que vivió hace más de un siglo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque demuestra que el pasado no tiene relación con el presente",
+          "is_correct": false,
+          "feedback": "Conocer el pasado es útil justamente porque permite ver qué se repite y qué ha cambiado en la sociedad actual."
+        },
+        {
+          "letter": "B",
+          "text": "Porque permite comprender los problemas, las mentalidades y los conflictos que la obra registra",
+          "is_correct": true,
+          "feedback": "Conocer el contexto ilumina los temas de la obra y explica por qué sus personajes y_arguments responden a esas Homeland problemas."
+        },
+        {
+          "letter": "C",
+          "text": "Porque las obras antiguas fueron escritas siempre con intención de ser una lección moral",
+          "is_correct": false,
+          "feedback": "No toda obra tiene una intención moral explícita, y reducirla a ese propósito sería una lectura incompleta."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el contexto permite descartar las obras que no reflejan la realidad de hoy",
+          "is_correct": false,
+          "feedback": "Una obra antigua puede no reflejar el presente y, aun así, conservar gran valor artístico e histórico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El contexto social e histórico de una obra explica los problemas que sus personajes y argumentos abordan. Permite ver cómo una época entendía el mundo, qué valores dominaban y qué conflictos estaban vigentes. Esta mirada enriquece la lectura y conecta el pasado con las preguntas del presente, sin reducir la obra a un simple documento histórico.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Critico-Intertextual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W34-la-literatura-y-su-contexto-social-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W34-la-literatura-y-su-contexto-social-001-MASTERY-bundle-v3",
+      "statement": "¿Qué función social cumple la representación de un grupo social en una obra literaria?",
+      "context": "En Medellín, un grupo de noveno analiza cómo un autor representa a los personajes de las clases populares.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hace visible una realidad que a menudo queda fuera de la atención pública o de los relatos oficiales",
+          "is_correct": true,
+          "feedback": "La literatura puede dar voz y visibilidad a experiencias que no ocupan lugar en los discursos dominantes de una época."
+        },
+        {
+          "letter": "B",
+          "text": "Sustituye la información estadística y documentada sobre ese grupo social",
+          "is_correct": false,
+          "feedback": "La obra ilumina aspectos de la vida social, pero no reemplaza los datos ni las fuentes documentales."
+        },
+        {
+          "letter": "C",
+          "text": "Obliga a todos los lectores a aceptar la visión del autor sobre ese grupo",
+          "is_correct": false,
+          "feedback": "Una obra propone una mirada, pero deja espacio para la lectura crítica y el desacuerdo del lector."
+        },
+        {
+          "letter": "D",
+          "text": "Conserva la representación sin cambio aunque la sociedad haya cambiado después",
+          "is_correct": false,
+          "feedback": "Las representaciones literarias también se transforman junto con la sociedad que las produce y las lee."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La literatura puede hacer visibles las experiencias de grupos que los relatos oficiales suelen omitir. Al representar un sector social, el escritor documenta una realidad y abre la discusión sobre ella. Esta capacidad de la ficción de volverse testimonio social es una de las razones por las que se estudia la literatura con enfoque histórico y crítico.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W34-la-literatura-y-su-contexto-social-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W34-la-literatura-y-su-contexto-social-001-MASTERY-bundle-v4",
+      "statement": "Una novela colombiana de los años cincuenta muestra a una familia de jornaleros que debe abandonar su tierra por falta de trabajo. ¿Qué aspecto del contexto social está registrando la obra?",
+      "context": "En Tunja, un grupo de noveno relaciona una novela colombiana de los años cincuenta con las mentalidades dominantes de esa época.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El gusto musical de la década, que la novela utiliza para ambientar las escenas",
+          "is_correct": false,
+          "feedback": "El dato musical es un detalle de ambientación, y no es el conflicto social central que explica la partida de la familia."
+        },
+        {
+          "letter": "B",
+          "text": "La forma en que se escribían las novelas de esa década",
+          "is_correct": false,
+          "feedback": "La novela registra una realidad social concreta, no las convenciones técnicas de la escritura de su época."
+        },
+        {
+          "letter": "C",
+          "text": "La desigualdad en el acceso al empleo rural, que empujaba a las familias a migrar",
+          "is_correct": true,
+          "feedback": "La situación narrada refleja un problema económico y social verificable de la época rural colombiana."
+        },
+        {
+          "letter": "D",
+          "text": "La biografía personal del autor durante sus años de_countryhood juveniles",
+          "is_correct": false,
+          "feedback": "Aunque la biografía del autor puede influir en la obra, lo que el enunciado narrativo deja ver es la situación laboral de la familia."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Reconocer el problema social que una obra registra exige identificar el conflicto central de la narración y vincularlo con una situación histórica comprobable. Cuando un personaje se ve obligado a migrar por falta de empleo, la obra documenta una desigualdad económica concreta. Esta lectura conecta el relato con la historia social del país y evita quedar en la pura reconstrucción de la trama.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semantico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-9-2026-W34-la-literatura-y-su-contexto-social-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W34-la-literatura-y-su-contexto-social-001-MASTERY-bundle-v5",
+      "statement": "Un cuento describe la vida de un panadero en un barrio popular. ¿Qué debería comparar un estudiante para establecer un diálogo intertextual entre ambos textos?",
+      "context": "En Ibagué, la profesora de noveno pide comparar dos textos que abordan el mismo problema social.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La cantidad de páginas de cada texto, porque la extensión determina el valor de la obra",
+          "is_correct": false,
+          "feedback": "La extensión no es un criterio de valor, y no permite establecer ninguna relación interpretativa entre los textos."
+        },
+        {
+          "letter": "B",
+          "text": "El nombre del autor de cada obra, porque la autoría reemplaza al contexto social",
+          "is_correct": false,
+          "feedback": "Conocer al autor es relevante, pero el contexto social de las obras es lo que permite el diálogo que se busca."
+        },
+        {
+          "letter": "C",
+          "text": "La forma en que cada texto representa el mismo contexto social y qué dice sobre el lugar de los personajes",
+          "is_correct": true,
+          "feedback": "Comparar las representaciones permite ver qué problema del contexto se destaca en cada obra y con qué intención."
+        },
+        {
+          "letter": "D",
+          "text": "El año de publicación de cada obra, sin considerar qué representan los textos",
+          "is_correct": false,
+          "feedback": "La fecha orienta la lectura del contexto, pero sin analizar las representaciones no hay comparación posible."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un diálogo intertextual entre dos obras que abordan un mismo contexto exige comparar sus representaciones, no sus datos bibliográficos. Interesa observar qué aspectos de la realidad resaltan, a qué personajes dan voz y qué:callposiciones asumen. Ese ejercicio de contraste es la base de una lectura crítica de la literatura en clave social.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Critico-Intertextual",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-9-2026-W34-la-literatura-y-su-contexto-social-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W34-la-literatura-y-su-contexto-social-001-MASTERY-bundle-v6",
+      "statement": "Un escritor de finales del siglo XIX usa un lenguaje formal y una estructura de capítulo pausada para representar a las clases altas. ¿Qué efecto pragmático tiene esa decisión?",
+      "context": "En el colegio de Rionegro, un profesor de noveno trabaja con el propósito de los_resaltados de un texto de la época.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Refuerza la distancia entre el autor y el lector, y con ello la imagen de solemnidad que se busca",
+          "is_correct": true,
+          "feedback": "El registro elevado y la estructura pausada crean una distancia reverencial coherente con el mundo que se representa."
+        },
+        {
+          "letter": "B",
+          "text": "Reduce la distancia con el lector y acerca la obra al público general",
+          "is_correct": false,
+          "feedback": "Un lenguaje formal no acerca al lector común, sino que establece una distancia jerárquica con él."
+        },
+        {
+          "letter": "C",
+          "text": "Hace que el texto resulte más divertido para el público que no tiene formación literaria",
+          "is_correct": false,
+          "feedback": "El tono solemne no produce humor, y la solemnidad responde a una función representacional, no de entretenimiento."
+        },
+        {
+          "letter": "D",
+          "text": "Convierte el texto en un documento histórico sin valor literario",
+          "is_correct": false,
+          "feedback": "Un registro formal no elimina el valor artístico, y la obra sigue siendo una construcción literaria."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las decisiones de estilo tienen efectos pragmáticos: sitúan al autor frente a su público y determinan el tipo de relación que el texto establece. Un registro elevado genera distancia y solemnidad, mientras que uno coloquial genera cercanía. Reconocer estos efectos ayuda a explicar por qué dos obras sobre un mismo contexto producen efectos de lectura diferentes.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-9-2026-W34-la-literatura-y-su-contexto-social-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W34-la-literatura-y-su-contexto-social-001-MASTERY-bundle-v7",
+      "statement": "En una obra Colombian del siglo XX, la protagonista woman's en el trabajo aparece en una publicación conservadora, luego en un diario liberal, y por último en la revista de moda. ¿Qué análisis explica mejor ese cambio?",
+      "context": "En Cartagena, el grupo de noveno analiza un texto sobre la excluido de la mujer en la sociedad tradicional.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los tres medios pertenecen a la misma línea, porque en esa época no había prensa escrita",
+          "is_correct": false,
+          "feedback": "Existía prensa escrita con líneas ideológicas diferenciadas, y esa distinción es precisamente la relevante."
+        },
+        {
+          "letter": "B",
+          "text": "La ampliación de la mujer en el espacio público se refleja en la ampliación de los medios que la dan a conocer",
+          "is_correct": true,
+          "feedback": "El progreso en la autonomía del personaje y en los medios que lo difunden son dos caras de un mismo cambio social."
+        },
+        {
+          "letter": "C",
+          "text": "El cambio se debe a una decisión comercial de los editores para vender más ejemplares",
+          "is_correct": false,
+          "feedback": "La hipótesis comercial no explica un avance sostenido en tres medios, y no sustituye al análisis del contexto."
+        },
+        {
+          "letter": "D",
+          "text": "El cambio demuestra que la literatura Colombiana siempre tuvo la misma temática social",
+          "is_correct": false,
+          "feedback": "Si el tema fuera siempre el mismo, no habría un cambio de medios, de modo que la afirmación contradice la evidencia textual."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Analizar la representación de un personaje exige observar tanto su evolución interna como los espacios que lo presentan. Cuando un personaje accede a una vida pública, las publicaciones que lo difunden también se amplían. Ese movimiento conjunto entre ficción y circulación real es lo que hace visible un cambio histórico en la condición de un grupo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semantico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-9-2026-W34-la-literatura-y-su-contexto-social-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W34-la-literatura-y-su-contexto-social-001-MASTERY-bundle-v8",
+      "statement": "Dos novelistas colombianos cuentan el mismo conflicto. ¿Qué efecto produce en el lector que uno lo narre desde la voz de un terrateniente y el otro desde la voz de un líder comunitario?",
+      "context": "En el colegio de Palmira, la profesora de noveno trabaja con dos versiones de un mismo periodo narrativo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No produce ningún efecto, porque los hechos narrados son idénticos",
+          "is_correct": false,
+          "feedback": "Aunque los hechos coincidan, el punto de vista cambia la selección y la valoración que el lector hace de ellos."
+        },
+        {
+          "letter": "B",
+          "text": "Reduce la extensión de la novela, porque la voz del líder ocupa menos espacio narrativo",
+          "is_correct": false,
+          "feedback": "El efecto del punto de vista no es de longitud, sino de enfoque: cambia qué se dice y desde qué posición se dice."
+        },
+        {
+          "letter": "C",
+          "text": "Convierte las dos novelas en obras de no ficción, porque el narrador desaparece",
+          "is_correct": false,
+          "feedback": "Un narrador en primera persona no desaparece, y la novela sigue siendo ficción aunque narre hechos reales."
+        },
+        {
+          "letter": "D",
+          "text": "Cambia la valorización del conflicto, porque cada voz muestra una de las partes y deja en segundo plano a la otra",
+          "is_correct": true,
+          "feedback": "El punto de vista del narrador determina qué hechos se detallan y cuáles quedan fuera, alterando la simpatía del lector."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El punto de vista del narrador es una decisión de la que depende la valorización de los hechos. Contar un conflicto desde uno de los participantes involved implica que la otra parte aparezca en segundo plano. Analizar esta decisión narrativa revela cómo la literatura construye Provincial la realidad social que representa, sin dejar de ser ficción.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-9-2026-W34-la-literatura-y-su-contexto-social-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W34-la-literatura-y-su-contexto-social-001-MASTERY-bundle-v9",
+      "statement": "Un poeta describe el trabajo en los llanos y el clima de hardship. ¿Qué relación se establece entre el texto y la realidad que representa?",
+      "context": "En Valledupar, un grupo de noveno estudia la poesía de la región y su vínculo con la vida rural.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El texto no se relaciona con ninguna realidad, porque la poesía pertenece al mundo de la fantasía",
+          "is_correct": false,
+          "feedback": "La poesía puede referirse a hechos reales, y el poema sobre un oficio sigue siendo una experiencia documentada."
+        },
+        {
+          "letter": "B",
+          "text": "El texto es un registro técnico que sustituye a las fuentes históricas del campo",
+          "is_correct": false,
+          "feedback": "El poema es una creación literaria, y su valor no está en reemplazar la documentación histórica de la región."
+        },
+        {
+          "letter": "C",
+          "text": "El texto poetiza una experiencia verificable,IMALy la eleva a valor universal mediante imágenes y ritmo",
+          "is_correct": true,
+          "feedback": "La poesía parte de un contexto material real y lo transforma en lenguaje simbólico, sin dejar de referirse a ese contexto."
+        },
+        {
+          "letter": "D",
+          "text": "El texto expresa únicamente la opinión personal del autor sobre el clima de la región",
+          "is_correct": false,
+          "feedback": "Aunque hay una valoración personal, el poema se apoya en una experiencia compartida y por eso alcanza valor universal."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La poesía puede tomar un hecho verificable y convertirlo en imagen, símbolo y ritmo sin perder su anclaje en la realidad. Esa transformación es lo que permite que una experiencia local se convierta en un valor universal. Reconocer el vínculo entre la forma poética y la vida que representa evita reducir la poesía a simple decorado, pero también a documento histórico.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Critico-Intertextual",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-9-2026-W34-la-literatura-y-su-contexto-social-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W34-la-literatura-y-su-contexto-social-001-MASTERY-bundle-v10",
+      "statement": "Un museo local propone exhibir objetos de la vida rural junto con obras que los representan. ¿Cuál es el juicio más sólido sobre esta propuesta?",
+      "context": "En Neiva, un profesor pide a sus estudiantes que valoren el uso de la literatura en un museo regional.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una propuesta incorrecta, porque la obra de arte y los objetos de la vida real no pueden coexistir",
+          "is_correct": false,
+          "feedback": "La propuesta del museo no excluye ningún material, y la combinación de ambos enriquece la lectura del conjunto."
+        },
+        {
+          "letter": "B",
+          "text": "Es una propuesta pertinente, porque permite contrastar la experiencia real con su representación literaria",
+          "is_correct": true,
+          "feedback": "Poner el objeto y la representación en el mismo espacio multimodal la mirada del visitante y documenta una misma realidad."
+        },
+        {
+          "letter": "C",
+          "text": "Es una propuesta parcial, porque debería exhibirse solo la obra literaria y ocultar los objetos",
+          "is_correct": false,
+          "feedback": "Ocultar los objetos elimina precisamente el contraste que da sentido histórico a la obrarepresentation representation."
+        },
+        {
+          "letter": "D",
+          "text": "Es una propuesta correcta, pero solo si se descarta el texto explicativo de cada pieza",
+          "is_correct": false,
+          "feedback": "El texto explicativo enriquece la visita, y el sentido de la propuesta no depende de eliminar información."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Presentar en un mismo espacio la obra literaria y los objetos que documenta la experiencia permite al visitante construir una lectura comparada de lo real y lo representado. Este montaje transforma el museo en un lugar de pensamiento crítico y no solo de exposición de piezas. El valor de la propuesta está justamente en esa verificación material del discurso literario.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-9-2026-W34-la-literatura-y-su-contexto-social-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W34-la-literatura-y-su-contexto-social-001-MASTERY-bundle-v11",
+      "statement": "Un estudiante sostiene que \"la literatura sirve para formar lectores críticos porque muestra que las sociedades pueden ser transformadas\". ¿Qué juicio sobre este argumento es el más sólido?",
+      "context": "En Bogotá, un grupo de noveno discute el lugar de la literatura en el currículo escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El argumento es sólido, porque la literatura muestra problemas sociales que el lector puede reconocer y cuestionar",
+          "is_correct": true,
+          "feedback": "La literatura ofrece modelos de realidad social que permiten comprendery cuestionar las estructuras de una época."
+        },
+        {
+          "letter": "B",
+          "text": "El argumento es débil, porque la literatura no puede producir ningún efecto en quien la lee",
+          "is_correct": false,
+          "feedback": "La literatura sí influye en la sensibilidad y en la mirada crítica de sus lectores, aunque el efecto no sea uniforme."
+        },
+        {
+          "letter": "C",
+          "text": "El argumento es sólido, pero solo si la obra pertenece a la literatura colombiana contemporánea",
+          "is_correct": false,
+          "feedback": "Lasdk capacidad crítica no es exclusiva de un país ni de una época, y la literatura en general la comparte."
+        },
+        {
+          "letter": "D",
+          "text": "El argumento es débil, porque las sociedades solo cambian por causas económicas",
+          "is_correct": false,
+          "feedback": "Las transformaciones sociales tienen múltiples causas, entre ellas las culturales y las Forms symbolically comprensivas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La literatura contribuye a la formación crítica cuando representa problemas sociales de manera que el lector pueda reconocerlos, discutirlos y pensarlos de otro modo. No es la única fuente de cambio social, pero sí ofrece imágenes y argumentos que alimentan la imagination colectiva. Evaluar esta contribución es parte de comprender por qué la literatura se estudia en la escuela.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-9-2026-W34-la-literatura-y-su-contexto-social-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W34-la-literatura-y-su-contexto-social-001-MASTERY-bundle-v12",
+      "statement": "Un grupo afirma que \"la literatura es el mejor archivo de la historia de un país\". ¿Qué juicio sobre esta afirmación es el más preciso?",
+      "context": "En Quibdó, la profesora de noveno pide una valoración final sobre el alcance de la literatura como archivo social.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La afirmación es correcta, porque toda obra literaria es un documento notarial de su época",
+          "is_correct": false,
+          "feedback": "La obra es una construcción artística, y su valor testimonial no equivale al de un documento histórico o notarial."
+        },
+        {
+          "letter": "B",
+          "text": "La afirmación es incorrecta, porque la literatura no puede usarse para conocer el pasado",
+          "is_correct": false,
+          "feedback": "La literatura sí informa sobre el pasado, aunque de manera parcial, selectiva y mediada por la ficción."
+        },
+        {
+          "letter": "C",
+          "text": "La afirmación es correcta, porque no existen otras fuentes que permitan conocer la historia de un país",
+          "is_correct": false,
+          "feedback": "Existen archivos, crónicas, documentos y testimonios, que complementan la lectura de las obras literarias."
+        },
+        {
+          "letter": "D",
+          "text": "La afirmación es parcial, porque la literatura registra una realidad posible, no la totalidad de la experiencia social vivida",
+          "is_correct": true,
+          "feedback": "La obra da testimony de una experiencia, pero no agota la complejidad ni la variedad de las vidas que narres."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La literatura es una fuente valiosa para conocer el pasado, pero su testimonio es parcial y está mediado por la construcción artística. Una obra revela cómo alguien experimentó y يمثل una época, no cómo la vivieron todos sus habitantes. Reconocer estos límites permite usar la literatura con rigor, junto a otras fuentes, sin reducirla ni descalificarla.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-9-2026-W34-la-literatura-y-su-contexto-social-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}
