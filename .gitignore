@@ -167,6 +167,11 @@ tasks.json
 # Runtime y artefactos
 *.db-wal
 *.db-shm
+# CodeGraph runtime cache (Xavier code index). Never commit: it is a build
+# artefact, it is large, and it is rewritten on every index run.
+code_graph.db
+code_graph.db-wal
+code_graph.db-shm
 *.sqlite-wal
 *.sqlite-shm
 *.profraw
