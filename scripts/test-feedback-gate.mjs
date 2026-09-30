@@ -21,7 +21,7 @@ import { fileURLToPath } from 'node:url';
 const REPO = path.join(path.dirname(fileURLToPath(import.meta.url)), '..');
 const VALIDATOR = path.join(REPO, 'scripts/validate-bundles-v52.mjs');
 const DIR = path.join(REPO, 'questions_data/colombia/matematicas/grado-6/2026/weekly');
-const ID = 'CO-MAT-6-2026-W01-gate-test-001-MASTERY-bundle';
+const ID = 'CO-MAT-6-2026-W01-potenciacion-numeros-001-MASTERY-bundle';
 const FILE = path.join(DIR, `${ID}.md`);
 
 const GOOD_CORRECT = 'Correcto. "accommodation" matches the definition of a place where you stay.';
@@ -31,6 +31,18 @@ const DEAD_WRONG = 'Incorrecto.';
 const DEAD_CORRECT = 'Correcto.';
 const DEAD_TRY = 'Incorrect. Try again.';
 const VAGUE_REVISA = 'Incorrecto. Revisa el concepto.';
+// Real feedback taken from the merged corpus. Each of these explains the reason
+// in its own words and MUST be accepted: an earlier version of the gate rejected
+// them because it expected a fixed vocabulary (olvido, confunde, porque...).
+const REAL_GOOD = [
+  ['physics: rest weight', 'Correcto. Es el peso normal en reposo.'],
+  ['math: log of zero', 'Incorrecto. El logaritmo de cero no existe en los reales.'],
+  ['reading: absent detail', 'Incorrecto. El zorro no se menciona en la historia.'],
+  ['math: slope reciprocal', 'Incorrecto. Esa es la pendiente reciproca de la dada.'],
+  ['english: plural be', 'Incorrecto. "Are" is used with you, we, or they.'],
+  ['math: negative root', 'Incorrecto. Olvidó la raíz negativa al despejar la ecuación.'],
+];
+
 
 const cases = [
   { name: 'good feedback (correct option)', fb: GOOD_CORRECT, correct: true, expect: 'pass' },
@@ -40,6 +52,12 @@ const cases = [
   { name: 'DEAD: correct option, verdict only', fb: DEAD_CORRECT, correct: true, expect: 'fail' },
   { name: 'DEAD: "try again"', fb: DEAD_TRY, correct: false, expect: 'fail' },
   { name: 'VAGUE: "revisa el concepto"', fb: VAGUE_REVISA, correct: false, expect: 'fail' },
+  ...REAL_GOOD.map(([name, fb]) => ({
+    name: `real corpus, must be accepted: ${name}`,
+    fb,
+    correct: false,
+    expect: 'pass',
+  })),
 ];
 
 // Filler options that must themselves be valid, so a failing case fails on the
@@ -73,14 +91,15 @@ ${opt('C', false, FILLER.C)}
 ${opt('D', false, FILLER.D)}
 
 ### Explicacion Pedagogica
-Explicacion pedagogica de prueba.`;
+Explicacion pedagogica distinta para esta pregunta, con suficiente longitud
+para superar el umbral de detalle exigido por el validador de calidad.`;
 
 const build = (c) => `---
 id: "${ID}"
 country: "colombia"
 grado: 6
 asignatura: "matematicas"
-tema: "gate-test"
+tema: "potencias-numericas"
 periodo: "weekly"
 week: "W01"
 year: 2026
@@ -113,7 +132,8 @@ ${opt('C', false, FILLER.C)}
 ${opt('D', false, FILLER.D)}
 
 ### Explicacion Pedagogica
-Explicacion pedagogica de prueba.
+La potenciacion eleva una base a un exponente natural, y el resultado indica
+cuantas veces se multiplica la base por si misma.
 
 ${[2, 3, 4, 5, 6, 7, 8, 9, 10].map(fillerQuestion).join('\n\n')}
 `;
