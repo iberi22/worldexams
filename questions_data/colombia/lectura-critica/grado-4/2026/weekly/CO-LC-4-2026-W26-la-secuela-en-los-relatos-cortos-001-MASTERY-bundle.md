@@ -21,7 +21,7 @@ creador: "Jules-Agent"
 
 # Bundle MASTERY: La Secuela en los Relatos Cortos - Grado 4 (W26)
 
-Esta semana los estudiantes de cuarto aprenden a reconocer la secuela de un relato corto, es decir, todo lo que el texto cuenta después del problema. Vamos a comparar la secuela con el problema, a identificar las pistas que muestran que un relato ya llegó a su desenlace y a revisar dos versiones de la misma secuela para ver cómo cambian los personajes. También practicaremos por qué un final abierto deja pensando al lector y por qué una buena secuela depende de cerrar bien el problema. Leer relatos con atención a su secuela enseña a reconocer cómo un texto resuelve lo que había_SHA — let me now write the actual content in pure Spanish with correct accents, no foreign characters.
+Esta semana los estudiantes de cuarto aprenden a reconocer la secuela de un relato corto, es decir, todo lo que el texto cuenta después del problema. Vamos a comparar la secuela con el problema, a identificar las pistas que muestran que un relato ya llegó a su desenlace y a revisar dos versiones de la misma secuela para ver cómo cambian los personajes. También practicaremos por qué un final abierto deja pensando al lector y por qué una buena secuela depende de cerrar bien el problema. Leer relatos con atención a su secuela enseña a reconocer cómo un texto resuelve lo que había quedado pendiente.
 
 ## Question 1 [D3-D4]
 **ID:** CO-LC-4-2026-W26-la-secuela-en-los-relatos-cortos-001-MASTERY-bundle-v1
@@ -33,17 +33,17 @@ Esta semana los estudiantes de cuarto aprenden a reconocer la secuela de un rela
 ### Enunciado
 Lee el relato corto completo que leyeron en clase.
 
-*"El martes, antes de la clase de educación física, Mateo abrió su mochila y notó que no estaba el cuaderno de ciencias con la tarea. Estuvo buscando debajo de los pupitres y en la mochila de un compañero, pero el cuaderno no apareció. A la salida vio que su compañero Camilo lo tenía, porque lo habíatomado por error."*
+*"El martes, antes de la clase de educación física, Mateo abrió su mochila y notó que no estaba el cuaderno de ciencias con la tarea. Estuvo buscando debajo de los pupitres y en la mochila de un compañero, pero el cuaderno no apareció. A la salida vio que su compañero Camilo lo tenía, porque lo había tomado por error."*
 
 ¿Cuál es la parte del relato que corresponde a la secuela, es decir, lo que pasa después del problema?
 
 ### Opciones
 - [x] A) "A la salida vio que su compañero Camilo lo tenía, porque lo había tomado por error."
-  <!-- feedback: Correcto. Esa frase viene al final del relato, después de que el cuaderno no aparecía, y por eso es la secuela. -->
+  <!-- feedback: Correcto. Esa frase aparece al final del relato, después de que el cuaderno no aparecía, y por eso es la secuela. -->
 - [ ] B) "El martes, antes de la clase de educación física, Mateo abrió su mochila."
   <!-- feedback: Incorrecto. Esa frase es el comienzo del relato, y lo que allí se presenta es el problema que después tiene solución. -->
 - [ ] C) "Notó que no estaba el cuaderno de ciencias con la tarea."
-  <!-- feedback: Incorrecto. Esa frase cuenta el problema, porque en ella se explica lo que salió mal y todavía no hay nada que pase después. -->
+  <!-- feedback: Incorrecto. Esa frase cuenta el problema, porque en ella se explica lo que salió mal y todavía no ocurre nada después. -->
 - [ ] D) "Estuvo buscando debajo de los pupitres y en la mochila de un compañero."
   <!-- feedback: Incorrecto. Esa frase cuenta la búsqueda que hace parte del problema, porque el cuaderno todavía no aparecía. -->
 
@@ -102,7 +102,7 @@ Lee la secuela de este relato corto.
   <!-- feedback: Incorrecto. Nada en el texto menciona un cierre del corredor, y esa consecuencia no aparece en ninguna de las frases. -->
 
 ### Explicacion Pedagogica
-Inferir es deducir algo que el relato no escribe de forma directa pero que se puede descubrir en sus pistas. Las acciones de los personajes, como contar la verdad y pedir ayuda, permiten deducir cómo se_sentían — se sintieron y por qué la secuela es una buena respuesta. Esta habilidad sirve en todas las lecturas, no solamente en los relatos.
+Inferir es deducir algo que el relato no escribe de forma directa pero que se puede descubrir en sus pistas. Las acciones de los personajes, como contar la verdad y pedir ayuda, permiten deducir cómo se sintieron y por qué la secuela es una buena respuesta. Esta habilidad sirve en todas las lecturas, no solamente en los relatos.
 
 ## Question 4 [D5-D6]
 **ID:** CO-LC-4-2026-W26-la-secuela-en-los-relatos-cortos-001-MASTERY-bundle-v4
@@ -114,9 +114,7 @@ Inferir es deducir algo que el relato no escribe de forma directa pero que se pu
 ### Enunciado
 Observa el problema del relato y las cuatro continuaciones que escribieron los grupos.
 
-*"Problema del relato: "Un árbol grande cayó sobre el camino de la vereda y tapó el paso del bus del pueblo."*
-
-*Grupo 1: "En el bus, los pasajeros discutían entre ellos porque nadie sabía a qué hora llegarían." Grupo 2: "A tres cuadras del camino se veía un letrero viejo que nadie leía con atención." Grupo 3: "Los árboles de la vereda eran tan altos que desde lejos parecían una montaña." Grupo 4: "Los vecinos salieron con machetes y, junto con los niños de la escuela, abrieron una brecha en el camino para que el bus volviera a pasar."*
+*"Problema del relato: "Un árbol grande cayó sobre el camino de la vereda y tapó el paso del bus del pueblo." Grupo 1: "En el bus, los pasajeros discutían entre ellos porque nadie sabía a qué hora llegarían." Grupo 2: "A tres cuadras del camino se veía un letrero viejo que nadie leía con atención." Grupo 3: "Los árboles de la vereda eran tan altos que desde lejos parecían una montaña." Grupo 4: "Los vecinos salieron con machetes y, junto con los niños de la escuela, abrieron una brecha en el camino para que el bus volviera a pasar."*
 
 ¿Cuál de las cuatro continuaciones sirve mejor como secuela del relato?
 
@@ -158,21 +156,19 @@ Observa el final del relato corto que leyó la estudiante.
   <!-- feedback: Incorrecto. El final no busca ser memorizado, y lo que logra con esa falta de respuesta es provocar una reflexión en el lector. -->
 
 ### Explicacion Pedagogica
-Analizar un final es preguntarse qué efecto produce en quien lee, y no solamente qué dice. Un final abierto, que no cuenta cómo se resolvió el problema, deja al lector pensando y probing. Saber distinguir entre finales cerrados y finales abiertos enseña a los niños a entender por qué algunas historias se sienten completas y otras se quedan en el aire.
+Analizar un final es preguntarse qué efecto produce en quien lee, y no solamente qué dice. Un final abierto, que no cuenta cómo se resolvió el problema, deja al lector pensando y preguntándose qué habrá pasado. Saber distinguir entre finales cerrados y finales abiertos enseña a los niños a entender por qué algunas historias se sienten completas y otras se quedan en el aire.
 
 ## Question 6 [D7-D8]
 **ID:** CO-LC-4-2026-W26-la-secuela-en-los-relatos-cortos-001-MASTERY-bundle-v6
 **Bloom:** Analyze
 **ICFES:** Discursivo
 **Expected_Success:** 0.75
-**Contexto:** En un trabajo en grupo de cuarto en Barranquilla, los estudiantes comparan dos pseudos secuela — dos secuelas del mismo problema.
+**Contexto:** En un trabajo en grupo de cuarto en Barranquilla, los estudiantes comparan dos secuelas del mismo problema.
 
 ### Enunciado
 Observa las dos secuelas que escribieron los grupos para el mismo problema.
 
-*"Problema del relato: "Después de la tormenta, un árbol cayó sobre la entrada de la escuela y los niños no pudieron entrar a estudiar."*
-
-*Secuela 1: "Los vecinos salieron a limpiar el patio y, entre todos, levantaron el árbol para que la entrada quedara libre." Secuela 2: "Después de la tormenta, el árbol seguía en la entrada y el pueblo decidió cerrar la escuela hasta que llegara una máquina."*
+*"Problema del relato: "Después de la tormenta, un árbol cayó sobre la entrada de la escuela y los niños no pudieron entrar a estudiar." Secuela 1: "Los vecinos salieron a limpiar el patio y, entre todos, levantaron el árbol para que la entrada quedara libre." Secuela 2: "Después de la tormenta, el árbol seguía en la entrada y el pueblo decidió cerrar la escuela hasta que llegara una máquina."*
 
 ¿Cuál es la diferencia principal entre las dos secuelas?
 
@@ -214,7 +210,7 @@ Un compañero de tu grupo afirma lo siguiente.
   <!-- feedback: Correcto. El criterio justo es que la secuela resuelva lo que pasó, y una sola frase bien escrita vale más que varias frases que no dicen nada. -->
 
 ### Explicacion Pedagogica
-Evaluar un final es ponerlo a prueba con un criterio claro antes de aprobarlo. Un final puede tener muchas frases o muy pocas, y lo que decide su calidad es si cierra el problema del relato y deja Logical — deja lógico a los personajes. Cuando los niños usan ese criterio, escriben secuelas más-Official — más effective, y también pueden explicar con seguridad por qué un final es mejor que otro.
+Evaluar un final es ponerlo a prueba con un criterio claro antes de aprobarlo. Un final puede tener muchas frases o muy pocas, y lo que decide su calidad es si cierra el problema del relato y deja lógico a los personajes. Cuando los niños usan ese criterio, escriben secuelas más efectivas y también pueden explicar con seguridad por qué un final es mejor que otro.
 
 ## Question 8 [D9-D10]
 **ID:** CO-LC-4-2026-W26-la-secuela-en-los-relatos-cortos-001-MASTERY-bundle-v8
@@ -241,4 +237,4 @@ Lee el relato corto y el cuento que los estudiantes leyeron en clase.
   <!-- feedback: Incorrecto. Esa secuela borra la situación que da fuerza al relato, y además no usa nada de lo que pasa en el cuento conocido. -->
 
 ### Explicacion Pedagogica
-Comparar un relato con un cuento conocido ayuda a reconocer los mismos temas y las mismas soluciones en textos diferentes. Cuando los estudiantes escriben una secuela apoyándose en un cuento, entienden que las historias dialogan entre sí a través del tiempo. Esa práctica también les da ideas propias para resolver los problemas que se presentan en sus lecturas del colegio.
+Comparar un relato con un cuento conocido ayuda a reconocer temas y soluciones parecidas en textos diferentes. Cuando los estudiantes escriben una secuela apoyándose en un cuento, entienden que las historias dialogan entre sí aunque tengan años de diferencia. Esa práctica también les da ideas propias para resolver los problemas que se presentan en sus lecturas del colegio.
