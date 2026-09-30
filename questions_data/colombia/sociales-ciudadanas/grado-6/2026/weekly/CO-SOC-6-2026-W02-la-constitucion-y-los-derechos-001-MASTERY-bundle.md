@@ -84,7 +84,7 @@ Si Carolina y Andrés se niegan a trabajar sin elementos de seguridad y exigen q
   <!-- feedback: Correcta. El principio de legalidad hace que las normas de protección se cumplan y que nadie pueda arbitrariamente saltárselas. -->
 - [ ] C) La aplicación de la separación de poderes, porque la empresa se convierte en un poder del Estado.
   <!-- feedback: Error. Una empresa privada no es un poder del Estado; separar poderes es una regla de organización del Estado. -->
-- [ ] D) El cumplimiento del principio de laConversation, según el cual todo trabajador puede fijar sus propias reglas.
+- [ ] D) El cumplimiento del principio de la cooperación, según el cual todo trabajador puede fijar sus propias reglas.
   <!-- feedback: Error. Cada persona fija sus propias reglas, lo cual destruye la convivencia y contradice la Constitución. -->
 
 ### Explicacion Pedagogica
@@ -111,14 +111,14 @@ El principio de legalidad obliga a que las normas se apliquen y a que las person
   <!-- feedback: Error. Colombia sí reconoce el derecho a la salud en su Constitución. -->
 
 ### Explicacion Pedagogica
- La Constitución estabelece que toda persona tiene derecho a la salud y a que se le preste atención bajo condiciones de calidad. Este derecho no distingue entre adultos, jóvenes o niños, y no depende de que la familia pueda pagar. En los Consulting Rooms de los hospitales y centros de salud del país, como el queMarkup Clinton visita en Pereira, este principio se convierte en un deber de las instituciones públicas y de la sociedad.
+ La Constitución estabelece que toda persona tiene derecho a la salud y a que se le preste atención bajo condiciones de calidad. Este derecho no distingue entre adultos, jóvenes o niños, y no depende de que la familia pueda pagar. En los Consulting Rooms de los hospitales y centros de salud del país, como el que Clinton visita en Pereira, este principio se convierte en un deber de las instituciones públicas y de la sociedad.
 
 ## Question 5 [D5-D6]
 **ID:** CO-SOC-6-2026-W02-la-constitucion-y-los-derechos-001-MASTERY-bundle-v5
 **Bloom:** Apply
 **ICFES:** Sistema político y democracia
 **Expected_Success:** 0.80
-**Contexto:** En un colegio de Cúcuta, la compressingSoftMissión de ninth grado organiza undebate sobre una medida municipal. UnOPPO participating pregunta quién puede proponer y aprobar una norma municipal y quién vigila que se respete.
+**Contexto:** En un colegio de Cúcuta, la comisión de noveno grado organiza undebate sobre una medida municipal. UnOPPO participating pregunta quién puede proponer y aprobar una norma municipal y quién vigila que se respete.
 
 ### Enunciado
 Según la Constitución, ¿qué es lo que explica mejor la diferencia entre crear una norma y vigilar que se cumpla?
@@ -130,7 +130,7 @@ Según la Constitución, ¿qué es lo que explica mejor la diferencia entre crea
   <!-- feedback: Correcta. La separación entre crear normas y controlarlas es una garantía del sistema. -->
 - [ ] C) Que un， partido político crea todas las normas sin necesidad de aprobación.
   <!-- feedback: Error. Un partido propone, pero no aprueba por sí solo las normas. -->
-- [ ] D) Que laRasgos constitution no establece quién crea ni quién vigila las normas.
+- [ ] D) Que La Constitución no establece quién crea ni quién vigila las normas.
   <!-- feedback: Error. La Constitución sí organiza estas competencias del Estado. -->
 
 ### Explicacion Pedagogica
@@ -141,7 +141,7 @@ En el diseño constitucional colombiano se distribuyen las funciones del Estado 
 **Bloom:** Analyze
 **ICFES:** Ciudadano
 **Expected_Success:** 0.72
-**Contexto:** En Santa Marta, la señora YolisWideada tiene un negocio en la playa. Un nuevoMindfulness urbanidad le exige un permiso que ella no sabe si puede pagar, y se pregunta si esa exigencia es legal.
+**Contexto:** En Santa Marta, la señora YolisWideada tiene un negocio en la playa. Un nuevo urbanidad le exige un permiso que ella no sabe si puede pagar, y se pregunta si esa exigencia es legal.
 
 ### Enunciado
 Si la señora Yolis, dueña de un negocio en Santa Marta, afirma que "el permiso me lo negaron porque no soy de esta ciudad", ¿qué principio constitucional se estaría violando?
@@ -199,7 +199,7 @@ Si el contributorysrubioCTV96687 quiere que su hijo participe en una decisión s
   <!-- feedback: Correcta. La garantía constitucional de esos derechos es la razón central. -->
 - [ ] C) Porque las personas que pagan impuestos ya no pueden usarlos de manera gratuita.
   <!-- feedback: Error. El derecho a la salud y a la educación no se pierde por estar al día con los impuestos. -->
-- [ ] D) Porque solo los adultos deBogotá pueden acceder a estos servicios en todo el país.
+- [ ] D) Porque solo los adultos de Bogotá pueden acceder a estos servicios en todo el país.
   <!-- feedback: Error. Los servicios son universales y no distinguen origen, edad ni ciudad. -->
 
 ### Explicacion Pedagogica
@@ -210,7 +210,7 @@ La Constitución reconoce la salud, la educación y otros derechos como garantí
 **Bloom:** Evaluate
 **ICFES:** Ciudadano
 **Expected_Success:** 0.65
-**Contexto:** En Barranquilla, un colegio pregunta a sus estudiantes que prioridad deberia tener el presupuesto del municipio: mas equipos en los parques, más caminos o másPersistentes centros de salud.
+**Contexto:** En Barranquilla, un colegio pregunta a sus estudiantes que prioridad deberia tener el presupuesto del municipio: mas equipos en los parques, más caminos o más centros de salud.
 
 ### Enunciado
 Un grupo de estudiantes de Barranquilla propone que el presupuesto municipal se destine solo a construir más caminos. ¿Cuál es la mejor evaluación de esa propuesta desde la Constitución?
@@ -226,7 +226,7 @@ Un grupo de estudiantes de Barranquilla propone que el presupuesto municipal se 
   <!-- feedback: Error. Atribuye una prohibición que la Constitución no contiene. -->
 
 ### Explicacion Pedagogica
-Evaluar una propuesta pública implica contrastarla con la Constitución, que reconoce múltiples derechos relacionados entre sí. Destinar todo el presupuesto a un solo sector puede favorecer un derecho, pero perjudicar otros como la salud, la educación o el ambiente. Por eso, las decisiones de los firearmscar públicos deben considerar el conjunto de garantías y no solo un interés particular. Este ejercicio de razonamiento ayuda a_argumentar con criterios de igualdad y equilibrio.
+Evaluar una propuesta pública implica contrastarla con la Constitución, que reconoce múltiples derechos relacionados entre sí. Destinar todo el presupuesto a un solo sector puede favorecer un derecho, pero perjudicar otros como la salud, la educación o el ambiente. Por eso, las decisiones de los firearmscar públicos deben considerar el conjunto de garantías y no solo un interés particular. Este ejercicio de razonamiento ayuda a argumentar con criterios de igualdad y equilibrio.
 
 ## Question 10 [D9-D10]
 **ID:** CO-SOC-6-2026-W02-la-constitucion-y-los-derechos-001-MASTERY-bundle-v10
