@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-1-grade-10-subject-lectura_critica",
+    "generated_at": "2026-09-30T12:03:35.111Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-10-2026-W01-lectura-de-textos-argumentativos-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál de las siguientes afirmaciones corresponde a la tesis de un texto argumentativo?",
+      "context": "En un colegio de Medellín, la profesora de décimo grado explica por qué no todas las afirmaciones de un texto valen lo mismo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es la afirmación central que el autor defiende y que organiza el resto del texto.",
+          "is_correct": true,
+          "feedback": "Correcto. La tesis es la posición sostenida por el autor, y los demás párrafos se construyen para fundamentarla o refutarla."
+        },
+        {
+          "letter": "B",
+          "text": "Es el primer párrafo del texto, porque toda tesis debe anunciarse al comienzo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tesis puede aparecer al inicio, en el centro o al final, según la estrategia que elija el autor."
+        },
+        {
+          "letter": "C",
+          "text": "Es el conjunto de cifras y datos que el autor incluyó para sustentar su postura.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las cifras son evidencias que apoyan la tesis; la tesis es la afirmación que esas evidencias permiten defender."
+        },
+        {
+          "letter": "D",
+          "text": "Es el título del texto, porque todo título bien escrito enuncia la tesis del autor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El título puede ser informativo, descriptivo o neutro, y con frecuencia no enuncia la tesis."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La tesis cumple la función de eje del texto argumentativo: sin ella, los párrafos quedan sueltos y el lector no sabe qué debe aceptar. Reconocerla permite además valorar la calidad del texto, porque una buena tesis hace que cada afirmación posterior se conecte de manera visible con ella. Cuando el estudiante escribe, definir la tesis antes de redactar evita los textos que describen un tema sin defender nada.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-10-2026-W01-lectura-de-textos-argumentativos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W01-lectura-de-textos-argumentativos-001-MASTERY-bundle-v2",
+      "statement": "Según el Texto 1, ¿por qué la petición de retirar las máquinas de gaseosa funciona como tesis y no como una descripción?",
+      "context": "Un grupo de décimo grado en Pereira analiza la primera oración del Texto 1 antes de entregar un ensayo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque nombra el colegio y la ciudad donde se ubica, lo que da contexto a la.Argumentación",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ubicar el texto da contexto y credibilidad, pero no convierte una petición en una afirmación defendible."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el documento fue firmado por trescientos doce vecinos, lo que le da autoridad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las firmas corresponden al Texto 2, y además el número de firmantes no define qué se está defendiendo."
+        },
+        {
+          "letter": "C",
+          "text": "Porque enuncia una posición que puede sostenerse o refutarse con pruebas y que el resto del texto desarrolla.",
+          "is_correct": true,
+          "feedback": "Correcto. La tesis es discutible y verificable, y el texto aporta después la evidencia que intenta sostenerla."
+        },
+        {
+          "letter": "D",
+          "text": "Porque aparece entre comillas, signo que en este curso está reservado para las tesis.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las comillas solo delimitan la cita del texto base y no tienen ninguna función argumentativa."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una tesis argumentativa debe ser discutible: si nadie puede negarla, no hay nada que demostrar. La petición del Texto 1 admite réplica, porque alguien podría responder que el costo del bebedero es alto o que el consumo es una decisión de cada familia. Esa posibilidad de réplica es precisamente lo que convierte la afirmación en una tesis y no en un relato de lo queplash ocurrió en la cafetería.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-10-2026-W01-lectura-de-textos-argumentativos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W01-lectura-de-textos-argumentativos-001-MASTERY-bundle-v3",
+      "statement": "En el Texto 1, la oración «Quien nos discuta debe responder con evidencia» cumple principalmente una función de:",
+      "context": "En Tunja, un estudiante de décimo grado nota que la última oración del Texto 1 está dirigida a alguien que no está presente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Resumen de los datos Asynconic Económicamentetopsiplamad",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa oración no consolida cifras, sino que fija una exigencia para quien quiera refutar la tesis."
+        },
+        {
+          "letter": "B",
+          "text": "Apertura de un tema nuevo, porque anuncia que el textoudar a continuacin",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se abre ningún tema, la frase cierra el texto fijando las reglas de la discusión."
+        },
+        {
+          "letter": "C",
+          "text": "Desafío al lector contrario, porque anticipa a un oponente y le impone una carga de prueba.",
+          "is_correct": true,
+          "feedback": "Correcto. La frase presupone un detractor y le exige responder con datos, lo que refuerza la solidez de la postura propia."
+        },
+        {
+          "letter": "D",
+          "text": "Definición de un término, porque explica el conceptojurídico de evidencia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La evidencia de la que se habla es la de un estudio escolar y no una noción jurídica."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La pragmática estudia para qué se dice algo y qué efecto busca producir en el destinatario. Esta oración anticipa a un interlocutor ausente, el posible detractor, y le asigna la obligación de responder con pruebas. Ese movimiento es típico del texto argumentativo serio, porque desplaza el peso de la demostración hacia el adversario y refuerza la solidez percibida de la postura propia.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-10-2026-W01-lectura-de-textos-argumentativos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W01-lectura-de-textos-argumentativos-001-MASTERY-bundle-v4",
+      "statement": "Cuatro estudiantes de Bucaramanga proponen frases para iniciar un texto sobre el uso del celular en el salón de clase. ¿Cuál de ellas tiene la estructura de una tesis argumentativa?",
+      "context": "La profesora de Bucaramanga pide a sus estudiantes de décimo grado clasificar cuatro afirmaciones antes de escribir.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En nuestro colegio se usan celulares en todas las clases desde segundo grado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase se limita a constatar un hecho, sin defender una posición que pueda ser discutida."
+        },
+        {
+          "letter": "B",
+          "text": "Los celulares distraen a los estudiantes, pero algunos profesores los usan para exponer.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase equilibra dos apreciaciones y no escoge una posición que el autor sostenga con pruebas."
+        },
+        {
+          "letter": "C",
+          "text": "Nadie ha estudiado todavía el efecto de los celulares en la concentración de grado décimo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase informa sobre un vacío de investigación, pero no propone ni defiende ninguna postura."
+        },
+        {
+          "letter": "D",
+          "text": "El Colegio debería limitar el celular a actividades de investigación, porque en las demás clases reduce la atención.",
+          "is_correct": true,
+          "feedback": "Correcto. La frase propone una acción, la justifica con un porqué y por tanto puede sostenerse o refutarse con pruebas."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Una tesis funcional combina tres elementos: un alcance delimitado, una acción defendida y una razón que la sustenta. La opción correcta presenta los tres, mientras que las demás se quedan en descripción, en equilibrio neutral o en ausencia de postura. Aplicar esta prueba de tres pasos permite depurar el propio borrador antes de presentarlo, porque detecta enseguida las frases que parecen opiniones firmes pero no son defendibles.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-10-2026-W01-lectura-de-textos-argumentativos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W01-lectura-de-textos-argumentativos-001-MASTERY-bundle-v5",
+      "statement": "En el Texto 2, la expresión «no es que la música sea un problema, sino que el permiso vigente solo mide el volumen» cumple una función argumentativa específica. ¿Cuál es?",
+      "context": "En Cali, un grupo de décimo grado estudia cómo un autor delimita su tesis frente a las lecturas que no quiere dejar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Descarta una lectura contraria y delimita con precisión el objeto real de la reclamación.",
+          "is_correct": true,
+          "feedback": "Correcto. La construcción en «no es esto, sino aquello» limpia el terreno y deja claro contra qué se dirige la petición."
+        },
+        {
+          "letter": "B",
+          "text": "Presenta un dato numérico que respalda el horario solicitado para el cierre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa oración no aporta cifras, porque el Texto 2 se apoya en observaciones y no en montos."
+        },
+        {
+          "letter": "C",
+          "text": "Concluye el texto con una síntesis de los dos textos base de la semana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La expresión está en el cuerpo del Texto 2 y no resume nada de lo tratado en el Texto 1."
+        },
+        {
+          "letter": "D",
+          "text": "Introduce un contraargumento tomado de la dirección de la sala de conciertos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase descarta la objeción contraria en lugar de recogerla, y eso no es introducir un contraargumento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Delimitar la tesis es una operación frecuente en el texto argumentativo bien construido. El autor anticipa la lectura errónea más probable y la descarta de manera explícita, para que el lector no le atribuya una posición que el autor no sostiene. Reconocer ese movimiento ayuda a escribir con precisión, porque muestra que una tesis fuerte no solo afirma, también delimita el terreno en el que su afirmación es válida.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-10-2026-W01-lectura-de-textos-argumentativos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W01-lectura-de-textos-argumentativos-001-MASTERY-bundle-v6",
+      "statement": "En el Texto 2, la oración «No pedimos cerrar la sala, sino ajustar una sola variable del permiso» usa una estructura sintáctica con un efecto argumentativo preciso. ¿Cuál es?",
+      "context": "Un estudiante de Villavicencio estudia cómo se construyen las oraciones que sostienen la petición en el Texto 2.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una oración con subordinación temporal, que sitúa los hechos en una línea cronológica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La oración no contiene marcas de tiempo, sino una relación de alternativa entre dos acciones."
+        },
+        {
+          "letter": "B",
+          "text": "Una oración con coordinación adversativa, que opone lo que se rechaza a lo que se pide.",
+          "is_correct": true,
+          "feedback": "Correcto. El «no esto, sino aquello» contrapone el cierre total con el ajuste puntual y así delimita la petición."
+        },
+        {
+          "letter": "C",
+          "text": "Una oración con sujeto tácito, porque el autor omite deliberadamente al colectivo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sujeto está presente en la expresión «nosotros» implícita, y no hay omisión de ese tipo."
+        },
+        {
+          "letter": "D",
+          "text": "Una oración con aposición explicativa, que aclara el significado de la palabra permiso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay aposición, porque ningún término aparece seguido de una precisión entre comas o dos puntos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La sintaxis del texto argumentativo no es decorativa, sino que organiza la fuerza de la postura. Una coordinación adversativa permite presentar en un solo movimiento lo que el autor rechaza y lo que realmente propone, lo cual refuerza la exactitud de la demanda. Para el estudiante que escribe, dominar estas estructuras equivale a poder matizar lo que pide sin agregar oraciones enteras de explicación.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-10-2026-W01-lectura-de-textos-argumentativos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W01-lectura-de-textos-argumentativos-001-MASTERY-bundle-v7",
+      "statement": "Compare las tesis de los dos textos base. ¿Cuál de los siguientes análisis describe correctamente la diferencia entre ellas?",
+      "context": "En el aula de décimo grado de Bogotá, la profesora pide comparar la calidad argumentativa de los dos textos base.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La tesis del Texto 1 es más fuerte porque se apoya en una cifra, mientras que la del Texto 2 es solo una queja.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Texto 2 no es una queja sin fundamento, porque identifica con precisión el permiso vigente como causa."
+        },
+        {
+          "letter": "B",
+          "text": "Las dos tesis son equivalentes en fuerza, porque ambas terminan con una exigencia dirigida al adversario.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguno de los dos textos termina así, y la fuerza de una tesis depende de su verificabilidad."
+        },
+        {
+          "letter": "C",
+          "text": "La tesis del Texto 1 es medible porque incluye un monto verificable, y la del Texto 2 es causal porque señala qué variable falla.",
+          "is_correct": true,
+          "feedback": "Correcto. Cada tesis exige un tipo distinto de evidencia, y esa diferencia define qué prueba sería pertinente."
+        },
+        {
+          "letter": "D",
+          "text": "La tesis del Texto 2 es más débil porque no incluye cifras, ya que toda tesis necesita Supporting datos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una tesis puede sostenerse con observaciones sistematizadas, y aquí el error causal está bien delimitado."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Comparar tesis obliga a identificar qué clase de evidencia cada postura exige. Cuando una tesis incluye un monto verificable, admite una comprobación documental sencilla; cuando señala una causa, admite un análisis del procedimiento o del permiso. Reconocer esta diferencia fortalece la lectura crítica, porque evita el error frecuente de rechazar una tesis solo porque no trae cifras, y ayuda al autor a escoger la forma de probar que su afirmación necesita.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-10-2026-W01-lectura-de-textos-argumentativos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W01-lectura-de-textos-argumentativos-001-MASTERY-bundle-v8",
+      "statement": "Un grupo de estudiantes de Cúcuta elige uno de los dos textos base como modelo de argumentación escolar. ¿Cuál elección está mejor justificada y por qué?",
+      "context": "Un grupo de décimo grado en Cúcuta decide cuál de los dos textos base le sirve como modelo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Texto 1, porque la cifra de 38.000 pesos demuestra por sí sola que la petición es justa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cifra es un dato aislado y, por sí sola, no demuestra la justicia de la petición."
+        },
+        {
+          "letter": "B",
+          "text": "El Texto 2, porque mencionar el barrio y la ciudad vuelve más serio el texto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La referencia al lugar da contexto y credibilidad, pero no constituye por sí misma argumentación."
+        },
+        {
+          "letter": "C",
+          "text": "El Texto 1, porque termina exigiendo evidencia y con eso queda completa toda la demostración.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Exigir evidencia no reemplaza la evidencia, y el texto no comprueba el origen de ese gasto familiar."
+        },
+        {
+          "letter": "D",
+          "text": "El Texto 1, porque combina una tesis discutible con un dato que un tercero puede verificar o refutar.",
+          "is_correct": true,
+          "feedback": "Correcto. La combinación de postura y dato comprobable es lo que hace transferible el modelo a otros casos escolares."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Valorar un texto argumentativo exige separar la solidez de la forma. La cifra del Texto 1 no demuestra por sí sola nada, pero junto con una tesis claramente delimitada produce un argumento que otra persona puede comprobar. Ese criterio de verificabilidad es el que el estudiante puede transferir a sus propios textos, porque le permite distinguir los argumentos que parecen convincentes de los que realmente pueden sostenerse.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-10-2026-W01-lectura-de-textos-argumentativos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W01-lectura-de-textos-argumentativos-001-MASTERY-bundle-v9",
+      "statement": "Un estudiante de Armenia relaciona el Texto 1 con el manual de convivencia de su colegio, que también prohíbe la venta de bebidas azucaradas en la cafetería. ¿Qué relación intertextual puede establecer correctamente?",
+      "context": "En Armenia, la profesora de décimo grado pide relacionar los textos base con el manual de convivencia del colegio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El manual ofrece el respaldo institucional que al Texto 1 le faltaba, porque en el Texto 1 el grupo no dejó constancia de que solicitaba ese cambio.",
+          "is_correct": true,
+          "feedback": "Correcto. El manual convierte la petición estudiantil en una norma vigente, y con ello refuerza la postura sostenida."
+        },
+        {
+          "letter": "B",
+          "text": "Los dos textos se contradicen, porque el manual obliga a instalar máquinas y el Texto 1 pide retirarlas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguna de las dos fuentes pide instalar máquinas, y la prohibición se aplica en el mismo sentido."
+        },
+        {
+          "letter": "C",
+          "text": "El Texto 1 cita el manual, porque en su segunda oración reproduce la norma del reglamento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Texto 1 no reproduce la norma, y la relación entre ambos textos es temática y no de cita literal."
+        },
+        {
+          "letter": "D",
+          "text": "El manual es el texto base de la semana y el Texto 1 es su comentario marginal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los textos base de esta semana son el Texto 1 y el Texto 2, y ninguno de los dos es el manual."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La relación intertextual identifica con qué otros textos de la comunidad dialoga un texto. En este caso, el manual de convivencia no es citado por el Texto 1, pero comparte su objeto y le aporta un respaldo que el planteamiento estudiantil no tenía, porque lo convierte en norma aplicable. Reconocer este vínculo ayuda al estudiante a escribir mejor, ya que le muestra que una buena demanda puede apoyarse en documentos que ya existen en su colegio.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-10-2026-W01-lectura-de-textos-argumentativos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W01-lectura-de-textos-argumentativos-001-MASTERY-bundle-v10",
+      "statement": "Un comité de Ibagué afirma que el Texto 1 es el más sólido de los dos textos base. ¿Cuál de los siguientes juicios evalúa correctamente esa afirmación?",
+      "context": "En Ibagué, un comité estudiantil examina la solidez de la evidencia presentada en el Texto 1.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El juicio es acertado, porque el monto de 38.000 pesos demuestra que las familias compran por culpa de la cafetería.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El monto mide el gasto familiar, pero no establece una relación causal con la máquina del colegio."
+        },
+        {
+          "letter": "B",
+          "text": "El juicio es incompleto, porque el dato no aísla el origen del consumo y no sostiene por sí solo la conclusión.",
+          "is_correct": true,
+          "feedback": "Correcto. Sin comparar con un grupo sin máquinas, la cifra no prueba que el colegio genere ese gasto."
+        },
+        {
+          "letter": "C",
+          "text": "El juicio es incorrecto, porque ninguna cifra puede aportar evidencia en un texto argumentativo escolar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las cifras son pruebas válidas cuando se indica su origen, su alcance y su modo de medición."
+        },
+        {
+          "letter": "D",
+          "text": "El juicio es acertado, porque la tesis del Texto 1 es más precisa que la del Texto 2 y por eso no necesita más pruebas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una tesis más específica exige más precisión en la evidencia, y no una cantidad menor de pruebas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar evidencia exige preguntar qué quedaría probado si la cifra no estuviera. En el Texto 1, el monto demuestra que existe un gasto, pero no que ese gasto dependa de la máquina del colegio, porque las familias podrían comprar la bebida fuera. Esa brecha es un punto ciego legítimo, y señalarla con argumentos es lo que distingue a un lector crítico de uno que solo acepta los números como prueba suficiente.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LC-10-2026-W01-lectura-de-textos-argumentativos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W01-lectura-de-textos-argumentativos-001-MASTERY-bundle-v11",
+      "statement": "Un grupo de Pereira quiere fortalecer la tesis del Texto 2. ¿Qué reformulación respeta mejor las condiciones de alcance y de verificabilidad?",
+      "context": "En Pereira, un grupo de décimo grado reescribe la tesis del Texto 2 para hacerla más verificable.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "«La música en Cartagena es un peligro para los niños del barrio San Diego.»",
+          "is_correct": false,
+          "feedback": "Incorrecto. La reformulación generaliza sin delimitar el alcance y elimina la precisión causal de la tesis original."
+        },
+        {
+          "letter": "B",
+          "text": "«El ruido afecta a los niños de San Diego, y la música no es un problema para nadie.»",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase incluye una afirmación que contradice la tesis sostenida en el Texto 2."
+        },
+        {
+          "letter": "C",
+          "text": "«El permiso de la sala de San Diego debería medir también la hora de cierre, porque hoy solo regula el volumen.»",
+          "is_correct": true,
+          "feedback": "Correcto. La nueva tesis conserva el alcance, la acción defendida y la causa, y por eso admite prueba y refutación."
+        },
+        {
+          "letter": "D",
+          "text": "«El barrio de San Diego necesita más actividades para los jóvenes después de las nueve de la noche.»",
+          "is_correct": false,
+          "feedback": "Incorrecto. La reformulación propone otra solución y omite la causa identificable, de modo que ya no es la misma tesis."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Fortalecer una tesis no significa agrandarla, sino hacerla más comprobable. La opción correcta conserva los tres componentes de la original, el alcance territorial, la acción propuesta y la causa señalada, y solo los vuelve explícitos. Esta disciplina prepara al estudiante para los textos argumentativos de grado undécimo, donde sustain una postura con fuentes citadas y no solo con opiniones.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.66,
+      "bundle_id": "CO-LC-10-2026-W01-lectura-de-textos-argumentativos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W01-lectura-de-textos-argumentativos-001-MASTERY-bundle-v12",
+      "statement": "En un simulacro de debate en Bogotá, un grupo debe sostener la tesis opuesta a la del Texto 2, es decir, que la sala de conciertos debe conservar su horario actual. ¿Cuál es la mejor estrategia discursiva?",
+      "context": "En Bogotá, un simulacro de debate obliga a dos grupos de décimo grado a defender posiciones opuestas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Repetir la tesis del Texto 2 cambiando solamente el nombre del barrio, para aprovechar la familiaridad del caso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cambiar un dato menor no modifica la postura, y el público rechaza con facilidad los textos reciclados."
+        },
+        {
+          "letter": "B",
+          "text": "Citar la cifra de 312 firmas y concluir que el número demuestra que los vecinos están equivocados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una cantidad de firmas indica participación, y no la calidad de la causa que se defiende."
+        },
+        {
+          "letter": "C",
+          "text": "Alegar que la música es buena para los jóvenes y pedir que se preserve toda la programación actual.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese argumento no responde al problema de la hora, que es el que el Texto 2 identificó con precisión."
+        },
+        {
+          "letter": "D",
+          "text": "Reconocer el daño a las familias y sostener que la hora no es el problema más urgente que debe atender el permiso.",
+          "is_correct": true,
+          "feedback": "Correcto. Desplazar la discusión hacia la pertinencia del problema respeta los hechos admitidos y evita la descalificación."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Defender una posición no implica negar todo lo que dice el rival. Una estrategia legítima consiste en aceptar el hecho admitido y desplazar la discusión hacia otro punto, por ejemplo si el horario es o no el problema más urgente, y sostener ese punto con pruebas. Ese tipo de réplica respeta la veracidad del texto contrario y es la forma en que los debates mejor construidos evitan las descalificaciones.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-10-2026-W01-lectura-de-textos-argumentativos-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}
