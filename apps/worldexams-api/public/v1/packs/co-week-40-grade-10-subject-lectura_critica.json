@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-40-grade-10-subject-lectura_critica",
+    "generated_at": "2026-09-30T22:28:00.107Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-10-2026-W40-sintesis-integradora-de-lectura-critica-001-MASTERY-bundle-v1",
+      "statement": "¿Qué labor afirma haber ejercido el narrador del Texto 1?",
+      "context": "La lectura de arranque se hace en clase, con los tres textos impresos y el tablero dividido en tres columnas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Marinero en el puerto de Tumaco.",
+          "is_correct": false,
+          "feedback": "El relato no menciona trabajo en puerto ni ningún oficio de ese tipo."
+        },
+        {
+          "letter": "B",
+          "text": "Maestro rural en una vereda de Nariño.",
+          "is_correct": false,
+          "feedback": "El narrador nunca habla de enseñanza rural, y su historia ocurre íntegramente en la costa."
+        },
+        {
+          "letter": "C",
+          "text": "Periodista de un medio de Cali.",
+          "is_correct": false,
+          "feedback": "El periodista del medio es el autor de la entrevista del Texto 2, no el narrador del relato."
+        },
+        {
+          "letter": "D",
+          "text": "Auxiliar de la biblioteca municipal de Tumaco.",
+          "is_correct": true,
+          "feedback": "Correcto, el narrador declara haber trabajado como auxiliar de esa biblioteca hasta el incendio de 2019."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Reconocer lo que un texto afirma de manera literal es el punto de partida de toda lectura crítica. En esta semana el dato declarado por el narrador importa tanto como los datos que él omite. Anotar la afirmación literal permite después contrastarla con la versión del Texto 2 sin mezclar una con otra.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Literal",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-10-2026-W40-sintesis-integradora-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W40-sintesis-integradora-de-lectura-critica-001-MASTERY-bundle-v2",
+      "statement": "¿De qué trata principalmente el Texto 2?",
+      "context": "El primer ejercicio de la semana es resumir en una línea cada texto antes de comparar las versiones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "De una entrevista a la hermana del narrador del Texto 1, que contradice su versión de los hechos.",
+          "is_correct": true,
+          "feedback": "Correcto, la entrevista recoge la voz de Laura, que niega el trabajo en la biblioteca y el incendio del local."
+        },
+        {
+          "letter": "B",
+          "text": "De un reportaje gráfico sobre el estado de las bibliotecas del Pacífico.",
+          "is_correct": false,
+          "feedback": "La entrevista se ocupa de una sola persona y de un caso concreto, no del estado general de las bibliotecas."
+        },
+        {
+          "letter": "C",
+          "text": "De una crónica sobre el premio nacional al que se refiere el Texto 3.",
+          "is_correct": false,
+          "feedback": "El premio aparece en el Texto 3, y el Texto 2 no menciona ningún premio ni concurso."
+        },
+        {
+          "letter": "D",
+          "text": "De un obituario dedicado a las victims del incendio de 2019 en Tumaco.",
+          "is_correct": false,
+          "feedback": "No hay muertos ni obituario en la entrevista, porque su contenido es una versión testimonial en conflicto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reducir el asunto central con palabras propias evita copiar fragmentos y ayuda a ver qué aporta cada fuente. La entrevista aporta una versión distinta sobre los mismos hechos, y eso la convierte en un contraste. Entender esa función evita que el curso la lea como un texto más sobre bibliotecas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-10-2026-W40-sintesis-integradora-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W40-sintesis-integradora-de-lectura-critica-001-MASTERY-bundle-v3",
+      "statement": "¿Para qué ofrece el narrador del Texto 1 leer en voz alta cualquier página?",
+      "context": "El profesor pregunta qué busca conseguir el narrador con su ofrecimiento final.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para demostrar que lee mejor que demás lectores de la antología.",
+          "is_correct": false,
+          "feedback": "El ofrecimiento no busca una competencia de lectura, sino sostener la afirmación sobre su memoria."
+        },
+        {
+          "letter": "B",
+          "text": "Para sostener su versión con una prueba que el lector pueda comprobar en el momento.",
+          "is_correct": true,
+          "feedback": "Correcto, la recitación en vivo es el único argumento que el narrador puede presentar ante alguien que lo cuestione."
+        },
+        {
+          "letter": "C",
+          "text": "Para conseguir que lo inviten a dictar conferencias en la universidad.",
+          "is_correct": false,
+          "feedback": "El relato no menciona invitaciones ni anticipa ninguna actividad docente de ningún tipo."
+        },
+        {
+          "letter": "D",
+          "text": "Para obtener que el diario publique otra vez su historia completa.",
+          "is_correct": false,
+          "feedback": "El ofrecimiento no menciona publicaciones ni periodistas de prensa, y su destinatario es cualquiera que llegue."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comprender la intención de una frase final evita leer el relato como una simple autobiografía. El ofrecimiento responde a la misma duda que el Texto 2 plantea: si realmente memorizó los textos. Detectar que la prueba propuesta no puede verificarse desde la lectura prepara el terreno para evaluar la fiabilidad del testimonio.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-10-2026-W40-sintesis-integradora-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W40-sintesis-integradora-de-lectura-critica-001-MASTERY-bundle-v4",
+      "statement": "¿Qué diferencia entre el Texto 1 y el Texto 3 revela que la noticia alteró la historia al contarla?",
+      "context": "Los equipos de Medellín cruzan el pasaje citado en el Texto 1 con lo que afirma el Texto 3.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Texto 3 cambia el nombre del puerto donde se produjo el incendio.",
+          "is_correct": false,
+          "feedback": "El puerto no aparece en ninguno de los dos textos, y el nombre del lugar no es lo que fue alterado."
+        },
+        {
+          "letter": "B",
+          "text": "El Texto 3 afirma que el incendio se produjo de noche y el Texto 1 que ocurrió al mediodía.",
+          "is_correct": false,
+          "feedback": "Ninguno de los dos textos indica la hora del incendio, de modo que esa diferencia no existe."
+        },
+        {
+          "letter": "C",
+          "text": "El Texto 3 atribuye a un periódico antiguo un pasaje que en el Texto 1 pertenece a una novela clásica.",
+          "is_correct": true,
+          "feedback": "Correcto, ese desplazamiento del origen de la cita es una alteración comprobable entre las dos versiones."
+        },
+        {
+          "letter": "D",
+          "text": "El Texto 3 presenta la historia como una opinión personal y el Texto 1 como un informe técnico.",
+          "is_correct": false,
+          "feedback": "Ambos textos cuentan la historia en tercera o primera persona sin convertirla en un informe técnico."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Comparar dos versiones permite detectar el punto exacto donde una noticia se aparta del relato que dice resumir. Aquí el error está en el origen de la cita, un detalle que cualquiera puede rastrear en el texto. Ese tipo de contraste es el que permite decir que una publicación responde a criterios periodísticos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LC-10-2026-W40-sintesis-integradora-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W40-sintesis-integradora-de-lectura-critica-001-MASTERY-bundle-v5",
+      "statement": "¿Qué diferencia de discurso explica mejor el contraste entre los Textos 1 y 2?",
+      "context": "El cuaderno del curso pide anotar una diferencia de discurso entre dos de los textos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Texto 1 es un testimonio en primera persona y el Texto 2 una entrevista que pone a hablar a otra persona.",
+          "is_correct": true,
+          "feedback": "Correcto, el relato depende de la voz de quien lo cuenta y la entrevista pone en escena a alguien que lo contradice."
+        },
+        {
+          "letter": "B",
+          "text": "El Texto 1 está escrito en pasado y el Texto 2 en presente, lo que cambia por completo su valor.",
+          "is_correct": false,
+          "feedback": "La diferencia de tiempo verbal no es el rasgo que explica el contraste, y ambos textos narran hechos consumados."
+        },
+        {
+          "letter": "C",
+          "text": "El Texto 1 usa un vocabulario técnico y el Texto 2 uno sencillo, de modo que solo uno es fiable.",
+          "is_correct": false,
+          "feedback": "El registro del Texto 1 es coloquial y el del Texto 2 periodístico, pero el vocabulario no decide la fiabilidad."
+        },
+        {
+          "letter": "D",
+          "text": "El Texto 1 tiene tres capítulos y el Texto 2 no los tiene, lo que invalida su estructura periodística.",
+          "is_correct": false,
+          "feedback": "La cantidad de capítulos es una decisión de forma y no un criterio para medir la solidez de una fuente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comparar discursivamente consiste en preguntar quién habla, en nombre de quién y con qué interés. La versión en primera persona depende por completo de la palabra de quien se presenta como protagonista. La entrevista introduce a un segundo hablante, y esa diferencia explica por qué el contraste es posible.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-10-2026-W40-sintesis-integradora-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W40-sintesis-integradora-de-lectura-critica-001-MASTERY-bundle-v6",
+      "statement": "¿Cómo está construido el Texto 3?",
+      "context": "La clase de Cali analiza cómo está armado el Texto 3 antes de valorarlo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Como una crónica de investigación con documentos, nombres y fechas comprobadas.",
+          "is_correct": false,
+          "feedback": "La pieza no incluye documentos ni firmas, y esa ausencia es justamente uno de los problemas del texto."
+        },
+        {
+          "letter": "B",
+          "text": "Como un resumen con titular emocionante, cita sin autor y enlace a una votación.",
+          "is_correct": true,
+          "feedback": "Correcto, esos cuatro elementos forman una secuencia pensada para propagarse y para conseguir participación."
+        },
+        {
+          "letter": "C",
+          "text": "Como un registro de entrevistas con el protagonista, la hermana y el bibliotecario.",
+          "is_correct": false,
+          "feedback": "Solo se menciona una cita atribuada a un testimonio no identificado, y no hay entrevistas en el texto."
+        },
+        {
+          "letter": "D",
+          "text": "Como una crónica de opinión con datos estadísticos sobre las bibliotecas del país.",
+          "is_correct": false,
+          "feedback": "La pieza no incluye datos estadísticos ni informes, y su tono es informativo sin crónica de opinión."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Describir cómo se arma un texto permite distinguir una noticia de un relato construido para circular. El titular, la cita indeterminada y el formulario forman una cadena que empuja al lector a participar.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-10-2026-W40-sintesis-integradora-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W40-sintesis-integradora-de-lectura-critica-001-MASTERY-bundle-v7",
+      "statement": "¿Por qué la autoridad del narrador del Texto 1 queda sostenida solo por una afirmación que el lector no puede comprobar?",
+      "context": "El profesor pide una lectura cuidadosa de la voz del narrador del Texto 1.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el narrador nunca habla en primera persona y por eso su identidad queda sin confirmar.",
+          "is_correct": false,
+          "feedback": "El narrador sí usa la primera persona, y esa es justamente la razón por la que todo depende de su palabra."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el narrador incluye cifras y datos que contradicen su propia versión a lo largo del relato.",
+          "is_correct": false,
+          "feedback": "El relato no incluye cifras, y su fuerza persuasiva está en los detalles concretos que narró."
+        },
+        {
+          "letter": "C",
+          "text": "Porque toda su autoridad descansa en que memorizó los textos, algo que solo él afirma y nadie puede verificar.",
+          "is_correct": true,
+          "feedback": "Correcto, la recitación es la única prueba ofrecida, y como no puede comprobarse, el relato queda abierto a la duda."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el narrador firma con un nombre falso y por eso el texto no tiene autor identificable.",
+          "is_correct": false,
+          "feedback": "El relato firma con nombre y apellido en la antología, y el problema no es la identidad del autor del libro."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Analizar un personaje exige preguntarse sobre qué se apoya su autoridad dentro del relato. Cuando toda la credibilidad se apoya en una capacidad que el texto no puede mostrar más allá de una promesa, el relato queda abierto. Reconocer ese punto ciego permite valorar el testimonio sin convertirlo en certeza ni descartarlo sin motivo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-10-2026-W40-sintesis-integradora-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W40-sintesis-integradora-de-lectura-critica-001-MASTERY-bundle-v8",
+      "statement": "¿Qué efecto busca el Texto 2 al incluir la dirección del local y el nombre del bibliotecario?",
+      "context": "Los equipos discuten qué efecto busca la entrevista al incluir al final un enlace al archivo del periódico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mostrar que la entrevista se hizo en un lugar lejano y difícil de visitar.",
+          "is_correct": false,
+          "feedback": "La dirección no expresa dificultad, y su función no tiene que ver con la distancia al lector."
+        },
+        {
+          "letter": "B",
+          "text": "Señalar que el periodista tuvo que pagar un alquiler por el local.",
+          "is_correct": false,
+          "feedback": "El texto no menciona pagos ni alquileres, y ese tipo de información no guarda relación con el caso."
+        },
+        {
+          "letter": "C",
+          "text": "Invitar al lector a que cambie de posición sobre la versión del Texto 1.",
+          "is_correct": false,
+          "feedback": "La entrevista no busca mover la postura de quien ya leyó el relato, sino sostener la versión de Laura con datos comprobables."
+        },
+        {
+          "letter": "D",
+          "text": "Ofrecer al lector la posibilidad de ir al lugar y comprobar por sí mismo lo que se afirma.",
+          "is_correct": true,
+          "feedback": "Correcto, los datos concretos convierten la afirmación de Laura en algo que un tercero puede verificar."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Inferir la función de un detalle exige relacionarlo con el propósito general del texto. Una dirección y un nombre de responsable son elementos localizables, que es justo lo que le falta a la versión del relato. Ese contraste enseña que dar elementos de comprobación es más fuerte que añadir adjetivos de emoción.\n\nInferir la función de un detalle exige relacionarlo con el propósito general del texto. Una dirección y un nombre de responsable son elementos localizables, que es justo lo que le falta a la versión del relato. Ese contraste enseña que dar elementos de comprobación es más fuerte que añadir adjetivos de emoción.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Inferencial",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LC-10-2026-W40-sintesis-integradora-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W40-sintesis-integradora-de-lectura-critica-001-MASTERY-bundle-v9",
+      "statement": "¿Qué uso de las tres fuentes permite una conclusión más sólida?",
+      "context": "El equipo de Barranquilla prepara una conclusión sobre lo que ocurrió en Tumaco.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Presentar el Texto 1 como una versión, el Texto 2 como un contraste y el Texto 3 como un material que hay que verificar antes de citarlo.",
+          "is_correct": true,
+          "feedback": "Correcto, esa distribución declara qué es testimonio, qué es contraste y qué está pendiente de comprobación."
+        },
+        {
+          "letter": "B",
+          "text": "Elegir el Texto 1 porque su autor firma con nombre y el Texto 3 no lleva firma.",
+          "is_correct": false,
+          "feedback": "La firma del relato en la antología garantiza que alguien lo escribió, y no garantiza que lo que cuenta sea cierto."
+        },
+        {
+          "letter": "C",
+          "text": "Elegir el Texto 2 porque una entrevista siempre es más confiable que un relato publicado.",
+          "is_correct": false,
+          "feedback": "Que un género sea más verificable que otro no significa que en este caso concreto lo sea, y la fuente debe evaluarse caso a caso."
+        },
+        {
+          "letter": "D",
+          "text": "Elegir el Texto 3 porque resume los tres hechos y por eso es el más completo.",
+          "is_correct": false,
+          "feedback": "Un resumen no hereda la fiabilidad de lo que resume, y el Texto 3 altera el origen de una cita."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar un conjunto de fuentes exige asignar a cada una un papel y un grado de verificabilidad. Esa distribución permite escribir una conclusión con límites, en lugar de una afirmación rotunda. Es la diferencia entre decir que algo se sabe y decir que alguien lo cuenta, y esa distinción sostiene todo el trabajo académico.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-10-2026-W40-sintesis-integradora-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W40-sintesis-integradora-de-lectura-critica-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es el riesgo principal de citar el Texto 3 en un trabajo escolar?",
+      "context": "Un grupo incluye el Texto 3 en un archivo de investigación escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que se cite su titular sin el cuerpo del texto, y el lector se quede con una versión recortada.",
+          "is_correct": false,
+          "feedback": "Ese riesgo existe, pero no es el principal, porque se puede citar el texto completo y ver el problema de fondo."
+        },
+        {
+          "letter": "B",
+          "text": "Que se presente como noticia verificada cuando carece de autor, de fuente identificable y de datos comprobables.",
+          "is_correct": true,
+          "feedback": "Correcto, sus tres garantías periodísticas son ausentes, y eso convierte la publicación en una fuente no verificable."
+        },
+        {
+          "letter": "C",
+          "text": "Que el uso de la palabra tragedia exagere el daoño y perjudique a los protagonistas.",
+          "is_correct": false,
+          "feedback": "La exageración del lenguaje es un problema menor comparado con la ausencia total de verificación."
+        },
+        {
+          "letter": "D",
+          "text": "Que el formulario de votación del texto collecte datos del curso y los use con fines publicitarios.",
+          "is_correct": false,
+          "feedback": "El texto enlaza a un formulario, pero el riesgo central para el trabajo no está en ese enlace."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar una fuente en un trabajo escrito exige preguntar qué garantías ofrece y cuáles le faltan. Una publicación sin autor, sin fuente identificable y sin datos comprobables no puede sostenerse sola. Reconocer esa carencia es lo que permite citarla como objeto de análisis y no como prueba.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-10-2026-W40-sintesis-integradora-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W40-sintesis-integradora-de-lectura-critica-001-MASTERY-bundle-v11",
+      "statement": "¿Qué explica mejor que el Texto 3 circule sin necesidad de ser cierto?",
+      "context": "El profesor explica por qué el Texto 3 circula aunque nadie pueda comprobarlo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el texto está firmado por un periodista con muchos años de experiencia.",
+          "is_correct": false,
+          "feedback": "La pieza no lleva firma, de modo que la experiencia profesional no explica su circulación."
+        },
+        {
+          "letter": "B",
+          "text": "Que el texto incluye el archivo completo de la biblioteca para que cualquiera lo consulte.",
+          "is_correct": false,
+          "feedback": "No hay ningún archivo adjunto ni documento disponible, y la circulación no depende de eso."
+        },
+        {
+          "letter": "C",
+          "text": "Que combina una historia emocional, un premio que despierta curiosidad y un enlace que invita a participar.",
+          "is_correct": true,
+          "feedback": "Correcto, esos tres elementos se refuerzan entre sí y explican una circulación que no depende de la exactitud."
+        },
+        {
+          "letter": "D",
+          "text": "Que el incendio del Texto 1 fue documentado por tres fuentes reales que la página menciona.",
+          "is_correct": false,
+          "feedback": "Las fuentes no se nombran y no aparecen en ninguna parte, de modo que esa afirmación no sostiene nada."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar un efecto de circulación exige separar lo que hace que un texto se difunda de lo que lo hace verdadero. La emoción, la curiosidad y la invitación a participar forman una combinación eficaz de persuasión. Entender esa combinación enseña que la difusión de un contenido no puede usarse como prueba de su contenido.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LC-10-2026-W40-sintesis-integradora-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W40-sintesis-integradora-de-lectura-critica-001-MASTERY-bundle-v12",
+      "statement": "¿Qué estándar resume mejor lo aprendido en este ciclo?",
+      "context": "La última semana del año cierra con el criterio que el curso entrega a los estudiantes de 10.º.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Leer más textos por trimestre, porque la cantidad de lectura garantiza por sí misma criterio.",
+          "is_correct": false,
+          "feedback": "Leer mucho sin método no garantiza criterio, y el estándar del curso se apoya en el análisis, no en el volumen."
+        },
+        {
+          "letter": "B",
+          "text": "Elegir siempre al autor con nombre propio, porque la firma convierte cualquier texto en fuente confiable.",
+          "is_correct": false,
+          "feedback": "La firma acredita a alguien, pero no impide que su versión sea falsa o que su relato sea inexacto."
+        },
+        {
+          "letter": "C",
+          "text": "Descartar todo relato en primera persona, porque solo los datos agregados son fiables.",
+          "is_correct": false,
+          "feedback": "Un testimonio puede ser verdadero y valioso, y lo que se evalúa es su grado de verificabilidad, no su género."
+        },
+        {
+          "letter": "D",
+          "text": "Contrastar fuentes, reconocer la voz del narrador, rastrear citas y declarar qué sigue sin verificar.",
+          "is_correct": true,
+          "feedback": "Correcto, ese criterio reúne las herramientas de la semana y sirve para cualquier texto que el estudiante reciba después."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Una síntesis final debe recoger los procedimientos concretos y no solo un aprendizaje general sobre la importancia de leer bien. Contrastar, reconocer la voz, rastrear el origen de una cita y declarar lo abierto son acciones verificables. Ese es el criterio que el curso entrega para la etapa universitaria, donde ninguna fuente llega sin contexto.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-10-2026-W40-sintesis-integradora-de-lectura-critica-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}
