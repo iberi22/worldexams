@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-23-grade-9-subject-lengua",
+    "generated_at": "2026-09-30T03:51:20.750Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-9-2026-W23-la-resena-y-la-opinion-escrita-001-MASTERY-bundle-v1",
+      "statement": "¿Qué distingue a una reseña de una noticia periodística?",
+      "context": "En la sección de libros de un periódico de Bogotá aparece la reseña de una novela colombiana recién publicada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La reseña informa sobre un hecho reciente mientras la noticia resume el argumento de una obra.",
+          "is_correct": false,
+          "feedback": "Es al revés: la noticia informa sobre un hecho y la reseña se ocupa de una obra."
+        },
+        {
+          "letter": "B",
+          "text": "La reseña emite un juicio sobre una obra y la noticia se limita a informar sobre un hecho.",
+          "is_correct": true,
+          "feedback": "La reseña interpreta y califica con criterios; la noticia se limita a registrar lo ocurrido."
+        },
+        {
+          "letter": "C",
+          "text": "La reseña solo aparece en libros y la noticia solo aparece en la radio.",
+          "is_correct": false,
+          "feedback": "Ambos tipos de texto pueden publicarse en cualquier medio, impreso o digital."
+        },
+        {
+          "letter": "D",
+          "text": "La reseña usa únicamente datos numéricos y la noticia usa únicamente descripciones.",
+          "is_correct": false,
+          "feedback": "Ambos tipos de texto pueden apoyarse en datos, descripciones y opiniones."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La diferencia no está en el medio donde aparecen ni en la cantidad de información que ofrecen, sino en la intención de quien escribe. El periodista da cuenta de un hecho; el reseñista da cuenta de una obra y, además, la evalúa con criterios explícitos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Semantico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W23-la-resena-y-la-opinion-escrita-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W23-la-resena-y-la-opinion-escrita-001-MASTERY-bundle-v2",
+      "statement": "Según el fragmento, ¿qué función cumple la parte introductoria de la frase?",
+      "context": "Al final de la reseña de una novela, el crítico de Cartagena escribe que, a pesar de su estilo sobrio, la obra logra sostener a su público.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ataca la competencia del autor para desacreditar su trabajo.",
+          "is_correct": false,
+          "feedback": "La introducción no ataca al autor, sino que reconoce un rasgo de su estilo."
+        },
+        {
+          "letter": "B",
+          "text": "Reconoce un rasgo del texto que será considerado en la valoración final.",
+          "is_correct": true,
+          "feedback": "La construcción \"a pesar de\" anuncia un rasgo que no impide el juicio favorable."
+        },
+        {
+          "letter": "C",
+          "text": "Introduce la biografía del autor para contextualizar su obra.",
+          "is_correct": false,
+          "feedback": "La biografía es un dato distinto; aquí se habla del estilo de la obra."
+        },
+        {
+          "letter": "D",
+          "text": "Concluye la reseña con una recomendación de compra.",
+          "is_correct": false,
+          "feedback": "La recomendación pertenece al cierre, no a la parte inicial de la frase."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los conectores lógicos señalan el tipo de relación que se establece entre las ideas. Cuando el crítico escribe \"a pesar de\", prepara un contraste: reconoce una dificultad y, sin embargo, sostiene un juicio favorable. Reconocer ese mecanismo ayuda a entender la argumentación del texto y a distinguirla de una simple descripción.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Textual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W23-la-resena-y-la-opinion-escrita-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W23-la-resena-y-la-opinion-escrita-001-MASTERY-bundle-v3",
+      "statement": "¿Qué característica del texto revela cuál es la tesis defendida por el autor?",
+      "context": "En un taller de escritura de Medellín, se pide a los estudiantes identificar la tesis de un artículo de opinión sobre el transporte público.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La presencia de una afirmación que el resto del texto se dedica a sostener con razones.",
+          "is_correct": true,
+          "feedback": "La tesis es la afirmación que organiza y explica todos los argumentos del texto."
+        },
+        {
+          "letter": "B",
+          "text": "La cantidad de datos estadísticos que el texto incluye en el segundo párrafo.",
+          "is_correct": false,
+          "feedback": "La cantidad de datos no indica cuál es la postura del autor."
+        },
+        {
+          "letter": "C",
+          "text": "El uso de un título corto y de un subtítulo que anuncia el tema.",
+          "is_correct": false,
+          "feedback": "El título anuncia un tema; no determina la postura que se defiende."
+        },
+        {
+          "letter": "D",
+          "text": "La extensión del texto, porque los artículos largos siempre defienden una tesis.",
+          "is_correct": false,
+          "feedback": "La extensión no es un indicio fiable de la existencia de una tesis."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una tesis no se reconoce por su posición ni por su longitud, sino por su función: es la afirmación que da sentido a los demás enunciados. Quien identifica la tesis puede comprobar después si cada argumento sirve para sostenerla o si, en cambio, se aparta del tema.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W23-la-resena-y-la-opinion-escrita-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W23-la-resena-y-la-opinion-escrita-001-MASTERY-bundle-v4",
+      "statement": "¿Qué información debe incluir en el primer párrafo para que la reseña sea útil?",
+      "context": "Un estudiante de Bogotá debe escribir una reseña de una exposición que se presenta en el museo de la ciudad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una cita larga del catálogo del museo para mostrar la seriedad del trabajo.",
+          "is_correct": false,
+          "feedback": "Una cita larga del catálogo ocupa espacio sin aportar a la valoración propia."
+        },
+        {
+          "letter": "B",
+          "text": "Una comparación con exposiciones de otros países que el estudiante no ha visto.",
+          "is_correct": false,
+          "feedback": "Comparar con lo desconocido debilita la reseña y no ayuda al lector."
+        },
+        {
+          "letter": "C",
+          "text": "El nombre de la obra, su autoría y el momento en que fue creada, para que el lector sepa de qué se trata.",
+          "is_correct": true,
+          "feedback": "Identificar la reseñada es la información indispensable: sin ella, el juicio del crítico queda sin objeto."
+        },
+        {
+          "letter": "D",
+          "text": "Una opinión sobre la vida personal del artista, porque interesa más que la obra.",
+          "is_correct": false,
+          "feedback": "Los datos biográficos no son obligatorios y pueden ser irrelevantes para valorar la obra."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una reseña bien escrita permite que alguien que no asistió a la exposición conozca la obra y pueda valorar el juicio del crítico. Para lograrlo, el primer párrafo debe identificar con claridad qué se reseña y quién lo hizo. Sin esa identificación, el resto del texto queda sin un referente claro.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W23-la-resena-y-la-opinion-escrita-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W23-la-resena-y-la-opinion-escrita-001-MASTERY-bundle-v5",
+      "statement": "¿Con qué criterio deben evaluar las novelas para que su juicio sea defendible?",
+      "context": "En clase de Bogotá, un grupo prepara reseñas de dos novelas colombianas, una de Jorge Isaacs y otra de José Eustasio Rivera.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Con el mismo criterio con que evalúan su propia vida, porque reseñar es opinar libremente.",
+          "is_correct": false,
+          "feedback": "La opinión libre no garantiza que el juicio pueda sostenerse ante un lector exigente."
+        },
+        {
+          "letter": "B",
+          "text": "Con el número de lectores que tuvo cada obra, porque el éxito demuestra la calidad.",
+          "is_correct": false,
+          "feedback": "La popularidad es un dato externo que no sustituye el análisis de la obra."
+        },
+        {
+          "letter": "C",
+          "text": "Con criterios explícitos, como el tratamiento de los personajes y la calidad de la escritura, aplicados a cada obra.",
+          "is_correct": true,
+          "feedback": "Un juicio defendible se apoya en criterios declarados que pueden comprobarse en la propia obra."
+        },
+        {
+          "letter": "D",
+          "text": "Con la presentación del libro, porque la forma física es siempre el rasgo más importante.",
+          "is_correct": false,
+          "feedback": "La presentación física no es el rasgo más importante y no reemplaza el análisis del texto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un juicio de opinión deja de ser una preferencia para convertirse en una valoración cuando se apoya en criterios declarados y verificables en la obra. Nombrar los rasgos que se examinan permite que otra persona los compruebe y, si lo desea, los discuta con fundamento.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W23-la-resena-y-la-opinion-escrita-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W23-la-resena-y-la-opinion-escrita-001-MASTERY-bundle-v6",
+      "statement": "Si la columna busca que el lector actúe, ¿qué elemento debe incluir además de sus argumentos?",
+      "context": "Un medio digital de Cali publica una columna en la que una periodista opina sobre el aumento del pasaje en los buses de la ciudad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una lista con los nombres de todos los políticos que gobiernan la ciudad.",
+          "is_correct": false,
+          "feedback": "Nombrar autoridades no constituye una propuesta de acción para el lector."
+        },
+        {
+          "letter": "B",
+          "text": "Un resumen de las noticias del día, para rellenar el espacio que queda al final.",
+          "is_correct": false,
+          "feedback": "Rellenar con noticias del día no cumple ninguna función argumentativa."
+        },
+        {
+          "letter": "C",
+          "text": "Una comparación con las tarifas de otras ciudades, sin ninguna propuesta.",
+          "is_correct": false,
+          "feedback": "Comparar puede servir como argumento, pero por sí solo no induce a la acción."
+        },
+        {
+          "letter": "D",
+          "text": "Una sugerencia final de conducta o de apoyo, coherente con lo defendido a lo largo del texto.",
+          "is_correct": true,
+          "feedback": "La llamada a la acción cierra el texto y conecta la postura defendida con una conducta posible."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El artículo de opinión que pretende mover al lector termina normalmente con una propuesta, porque la opinión sola no modifica ninguna situación. Para que esa propuesta tenga sentido, debe ser consecuencia directa de los argumentos expuestos: si el texto defiende una causa, la conducta sugerida debe servir a esa causa.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W23-la-resena-y-la-opinion-escrita-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W23-la-resena-y-la-opinion-escrita-001-MASTERY-bundle-v7",
+      "statement": "¿Qué función cumple la referencia a la otra novela dentro de la reseña?",
+      "context": "En una librería de Barranquilla, el reseñista de una novela menciona Cien años de soledad para mostrar la continuidad de un estilo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sustituye el análisis de la obra reseñada por el de la obra mencionada.",
+          "is_correct": false,
+          "feedback": "La referencia complementa el análisis, no lo reemplaza."
+        },
+        {
+          "letter": "B",
+          "text": "Permite al lector comprar la obra nueva sin necesidad de consultarla.",
+          "is_correct": false,
+          "feedback": "Una referencia a otra obra no reemplaza el conocimiento directo de la reseñada."
+        },
+        {
+          "letter": "C",
+          "text": "Ofrece un punto de comparación que orienta el juicio sobre la obra reseñada.",
+          "is_correct": true,
+          "feedback": "La obra mencionada funciona como término de comparación desde el cual se evalúa la nueva."
+        },
+        {
+          "letter": "D",
+          "text": "Demuestra que el reseñista no leyó la obra que reseña.",
+          "is_correct": false,
+          "feedback": "Una comparación informativa no es prueba de que el reseñista ignorara la obra."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La referencia a otra obra es un recurso intertextual: activa en el lector lo que ya conoce para usarlo como criterio de valoración. Quien analiza una reseña debe preguntar si la referencia aporta un término de comparación útil o si solo interrumpe, porque de eso depende su valor explicativo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Critico-Intertextual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W23-la-resena-y-la-opinion-escrita-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W23-la-resena-y-la-opinion-escrita-001-MASTERY-bundle-v8",
+      "statement": "¿Qué permite afirmar la estructura del texto sobre la fuerza de su argumentación?",
+      "context": "Un profesor de Medellín entrega a sus estudiantes un artículo de opinión que tiene tres párrafos y quinientas palabras.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Permite afirmar que la fuerza depende del espacio físico del texto, no de sus ideas.",
+          "is_correct": false,
+          "feedback": "El espacio físico del texto no determina la calidad de la argumentación."
+        },
+        {
+          "letter": "B",
+          "text": "Permite afirmar que la argumentación se apoya más en la selección y el orden de las ideas que en su cantidad.",
+          "is_correct": true,
+          "feedback": "Un texto breve puede sostener mejor una postura que uno largo, si sus ideas están bien elegidas y ordenadas."
+        },
+        {
+          "letter": "C",
+          "text": "Permite afirmar que cualquier texto breve carece de argumentos.",
+          "is_correct": false,
+          "feedback": "La brevedad no implica ausencia de argumentos."
+        },
+        {
+          "letter": "D",
+          "text": "Permite afirmar que un texto largo siempre presenta una tesis más clara.",
+          "is_correct": false,
+          "feedback": "La longitud no garantiza que la tesis sea más clara."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La estructura de un texto revela qué considera esencial su autor. Cuando un artículo breve concentra sus ideas, el lector puede seguir la argumentación con precisión. Analizar la estructura consiste, entonces, en preguntar qué decisiones tomó el autor con su material y qué efecto producen sobre la comprensión.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W23-la-resena-y-la-opinion-escrita-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W23-la-resena-y-la-opinion-escrita-001-MASTERY-bundle-v9",
+      "statement": "¿A qué tipo de relación entre conceptos apunta la estructura de esa oración?",
+      "context": "En una columna de opinión de Pereira, el autor escribe que el problema no es la cantidad de recursos del colegio, sino la manera de distribuirlos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A una relación de causa, porque una cosa produce directamente a la otra.",
+          "is_correct": false,
+          "feedback": "No se establece que una cosa produzca a la otra; se compara y se desplaza la atención."
+        },
+        {
+          "letter": "B",
+          "text": "A una relación de sustitución, en la que un factor deja de considerarse relevante y se destaca otro.",
+          "is_correct": true,
+          "feedback": "La construcción \"no es X sino Y\" deja en segundo plano un factor y establece otro como el factor importante."
+        },
+        {
+          "letter": "C",
+          "text": "A una relación de tiempo, porque un factor ocurre antes que el otro.",
+          "is_correct": false,
+          "feedback": "La oración no ordena los factores en el tiempo, sino que cambia el factor que se considera importante."
+        },
+        {
+          "letter": "D",
+          "text": "A una relación de modalidad, porque el autor expresa un deseo sobre el futuro.",
+          "is_correct": false,
+          "feedback": "La oración expresa un diagnóstico sobre el presente, no un deseo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La estructura \"no es X sino Y\" es una forma de corrección: el autor descarta un factor y establece otro como el relevante. Reconocer esa operación semántica permite entender que el columnista no niega el primer factor, sino que rechaza su importancia. Esa precisión importa al evaluar un argumento, porque la oración parece una contradicción y en realidad es una delimitación.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semantico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W23-la-resena-y-la-opinion-escrita-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W23-la-resena-y-la-opinion-escrita-001-MASTERY-bundle-v10",
+      "statement": "¿Qué criterio permite que el jurado decida con fundamento?",
+      "context": "En un concurso escolar de Medellín, un jurado debe escoger la mejor reseña de un poemario de Rafael Pombo entre doce trabajos presentados.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La cantidad de páginas, porque los trabajos más extensos demuestran mayor esfuerzo.",
+          "is_correct": false,
+          "feedback": "La extensión mide volumen, no calidad de argumentación."
+        },
+        {
+          "letter": "B",
+          "text": "La cantidad de reseñas que el autor ha publicado antes, porque revela su experiencia.",
+          "is_correct": false,
+          "feedback": "La experiencia del reseñista no garantiza la solidez de una reseña concreta."
+        },
+        {
+          "letter": "C",
+          "text": "La claridad de la tesis, el uso de criterios explícitos y la capacidad de sostenerlos con razones de la obra.",
+          "is_correct": true,
+          "feedback": "Estos tres elementos permiten verificar el razonamiento del texto y comprobar cada juicio en la obra reseñada."
+        },
+        {
+          "letter": "D",
+          "text": "La presentación de la edición reseñada, porque la forma física determina la calidad crítica.",
+          "is_correct": false,
+          "feedback": "La presentación física es un dato marginal frente a la argumentación del texto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un jurado evalúa la calidad de una argumentación, no la identidad de quien la escribe. Los criterios verificables permiten que la decisión se sostenga: permiten comprobar que la tesis está clara, que los criterios fueron declarados y que cada juicio se apoya en evidencias localizables dentro de la obra reseñada.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W23-la-resena-y-la-opinion-escrita-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W23-la-resena-y-la-opinion-escrita-001-MASTERY-bundle-v11",
+      "statement": "¿Qué se puede concluir razonablemente a partir de esa decisión editorial?",
+      "context": "Un periódico de Bogotá publica la misma información en dos versiones: una en la sección de opinión y otra como nota informativa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la información de ambas versiones es falsa, porque fue publicada dos veces.",
+          "is_correct": false,
+          "feedback": "Publicar dos versiones no convierte la información en falsa."
+        },
+        {
+          "letter": "B",
+          "text": "Que los lectores de la sección de opinión deben desconfiar de la nota informativa.",
+          "is_correct": false,
+          "feedback": "La coexistencia de dos versiones no induce a desconfiar de ninguna en particular."
+        },
+        {
+          "letter": "C",
+          "text": "Que la nota informativa y la columna buscan efectos comunicativos distintos en sus lectores.",
+          "is_correct": false,
+          "feedback": "La sección elegida revela la intención del medio respecto de cada versión y, con ella, el efecto buscado."
+        },
+        {
+          "letter": "D",
+          "text": "Que la columna incluye una valoración personal que la nota informativa evita.",
+          "is_correct": true,
+          "feedback": "Publicar en la sección de opinión supone un juicio que la nota informativa, por definición, no emite."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La sección en que se publica un texto forma parte de su diseño discursivo: orienta la lectura y anticipa el efecto buscado. Comparar una columna y una nota informativa permite observar que la diferencia no está solo en el contenido, sino en la intención comunicativa que cada formato persigue y en el tipo de lector que cada uno supone.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W23-la-resena-y-la-opinion-escrita-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W23-la-resena-y-la-opinion-escrita-001-MASTERY-bundle-v12",
+      "statement": "¿Cómo debe valorar un lector experto el uso de esa afirmación en la reseña?",
+      "context": "En una publicación de Cartagena, un crítico afirma que la novela reseñada es la mejor continuadora de la tradición de Gabriel García Márquez, y no aporta argumentos adicionales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Como una comparación con categoría universal, porque así lo ha decidido la crítica.",
+          "is_correct": false,
+          "feedback": "Una comparación no es definitiva; el respaldo de la afirmación está en los argumentos que la sostienen."
+        },
+        {
+          "letter": "B",
+          "text": "Como una afirmación falsa, porque todas las obras terminan pareciéndose entre sí.",
+          "is_correct": false,
+          "feedback": "La relación entre las obras no es inexistente ni total, y eso no vuelve falsa la afirmación."
+        },
+        {
+          "letter": "C",
+          "text": "Como una afirmación que necesita respaldo, porque la comparación solo es válida si el crítico muestra en qué se parecen y en qué se diferencian las obras.",
+          "is_correct": true,
+          "feedback": "Una comparación sin criterios explícitos se queda en el terreno de la subjetividad y no puede verificarse."
+        },
+        {
+          "letter": "D",
+          "text": "Como una afirmación correcta por tradición, porque las continuaciones no requieren demostración.",
+          "is_correct": false,
+          "feedback": "Ningún género de opinión exime de demostrar las afirmaciones que sostiene."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una comparación entre textos tiene valor cuando se apoya en rasgos que el lector puede identificar en ambas obras. Cuando la comparación llega sin respaldo, se convierte en una etiqueta valorativa que ni siquiera un lector experto puede comprobar. Reconocer esa diferencia permite distinguir el juicio especializado del simple entusiasmo del crítico.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Critico-Intertextual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W23-la-resena-y-la-opinion-escrita-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}

@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-21-grade-9-subject-lengua",
+    "generated_at": "2026-09-30T03:51:20.750Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-9-2026-W21-la-lengua-y-la-sociedad-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es un gentilicio?",
+      "context": "En el aula de Español de Bogotá, la docente prepara un cartel sobre la diversidad lingüística de Colombia para la semana cultural del colegio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es la palabra que designa el alimento típico de una región del país.",
+          "is_correct": false,
+          "feedback": "Un gentilicio no es un alimento ni un objeto; es una forma de nombrar a los habitantes."
+        },
+        {
+          "letter": "B",
+          "text": "Es la variedad de la lengua que se habla en una comarca y que solo usan sus nativos.",
+          "is_correct": false,
+          "feedback": "Un gentilicio es una palabra, no una variedad completa de la lengua."
+        },
+        {
+          "letter": "C",
+          "text": "Es el sustantivo que se usa para nombrar a los habitantes de un lugar o de una región.",
+          "is_correct": true,
+          "feedback": "El gentilicio nombra a las personas que viven en un lugar, como lo muestran los términos usados en el país."
+        },
+        {
+          "letter": "D",
+          "text": "Es el conjunto de palabras que usa un grupo de música para sus canciones.",
+          "is_correct": false,
+          "feedback": "El conjunto de palabras de un grupo artístico se llama léxico propio, no gentilicio."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El gentilicio responde a la pregunta por quién es alguien, no a la pregunta por dónde viene. En Colombia hay gentilicios formados con ayuda de sufijos, y cada uno muestra cómo una comunidad nombra a los suyos. Reconocer el gentilicio como una palabra que designa habitantes ayuda a distinguirlo de otras formas de variación lingüística, porque el gentilicio cambia de un lugar a otro mientras la persona a la que designa permanece.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Semantico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W21-la-lengua-y-la-sociedad-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W21-la-lengua-y-la-sociedad-001-MASTERY-bundle-v2",
+      "statement": "¿Qué rasgo del texto muestra que esas palabras pertenecen a una jerga?",
+      "context": "En un grupo de mensajería de estudiantes de noveno grado de Medellín, dos compañeros usan una palabra que los adultos no entienden.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aparecen en un diccionario general de la lengua, con una definición académica.",
+          "is_correct": false,
+          "feedback": "Las palabras de la jerga no suelen estar registradas en los diccionarios generales."
+        },
+        {
+          "letter": "B",
+          "text": "Son palabras que solo entiende y usa un grupo concreto en una situación concreta.",
+          "is_correct": true,
+          "feedback": "La jerga es un conjunto de palabras propio de un grupo, y su uso marca la pertenencia a ese grupo."
+        },
+        {
+          "letter": "C",
+          "text": "Son palabras antiguas que se conservan para evitar la mezcla de idiomas.",
+          "is_correct": false,
+          "feedback": "Conservar palabras antiguas pertenece a la tradición, no a la jerga de un grupo."
+        },
+        {
+          "letter": "D",
+          "text": "Son palabras que se escriben con mayúscula para llamar la atención del lector.",
+          "is_correct": false,
+          "feedback": "El uso de mayúsculas es una decisión de escritura, no un rasgo de la jerga."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La jerga es un fenómeno social antes que lingüístico: aparece cuando un grupo decide nombrar con palabras propias lo que le pasa o lo que hace. Esa palabra puede tener dentro del grupo un significado exacto y, fuera de él, ningún significado. Por eso el estudiante que identifica una jerga entiende que no se trata de palabras equivocadas, sino de palabras que cumplen la función de identificar a quienes las usan.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Textual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W21-la-lengua-y-la-sociedad-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W21-la-lengua-y-la-sociedad-001-MASTERY-bundle-v3",
+      "statement": "Desde la situación de comunicación, ¿por qué resulta necesario conocer la norma culta de la lengua?",
+      "context": "En Bucaramanga, la recepción de un centro de salud solicita a sus usuarios el diligenciamiento de una fórmula para poder atenderlos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque permite comunicarse de manera clara en situaciones formales como la de llenar un formulario médico.",
+          "is_correct": true,
+          "feedback": "La norma culta garantiza que el mensaje se entienda en contextos oficiales y scrupulosos."
+        },
+        {
+          "letter": "B",
+          "text": "Porque obliga a todos los usuarios a preferir las palabras de su propia región.",
+          "is_correct": false,
+          "feedback": "Conocer la norma no obliga a abandonar la variedad propia de la región."
+        },
+        {
+          "letter": "C",
+          "text": "Porque sirve para corregir el habla de las personas mayores de un barrio.",
+          "is_correct": false,
+          "feedback": "La norma no se enseña para corregir el habla de hablantes nativos de otra variedad."
+        },
+        {
+          "letter": "D",
+          "text": "Porque elimina la posibilidad de que existan gentilicios en el país.",
+          "is_correct": false,
+          "feedback": "Los gentilicios son parte de la riqueza de la lengua y no desaparecen por conocer la norma."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Conocer la norma culta amplía las posibilidades de comunicación en lugar de restringirlas. Un estudiante que habla con su familia en la variedad de la costa o del llano puede escribir un reclamo, presentarse a una entrevista de trabajo o llenar un formulario y ser entendido sin renunciar a su manera de hablar en la casa. La norma es una herramienta de acceso, no un castigo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W21-la-lengua-y-la-sociedad-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W21-la-lengua-y-la-sociedad-001-MASTERY-bundle-v4",
+      "statement": "¿Qué decisión sobre el uso de la lengua es la más adecuada en esa situación?",
+      "context": "Un estudiante de noveno grado de Cali debe redactar la carta de presentación para una práctica en una empresa de software de Medellín.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Escribir con la jerga de sus compañeros, porque demuestra que está actualizado.",
+          "is_correct": false,
+          "feedback": "La jerga no es un aval de competencia profesional y puede impedir que lo entiendan."
+        },
+        {
+          "letter": "B",
+          "text": "Escribir en un registro coloquial, porque todos hablan igual en el trabajo.",
+          "is_correct": false,
+          "feedback": "El registro coloquial no es el adecuado para una carta de presentación formal."
+        },
+        {
+          "letter": "C",
+          "text": "Escribir con la máxima variedad de términos regionales, porque enriquece el texto.",
+          "is_correct": false,
+          "feedback": "Acumular variantes regionales sin criterio vuelve el texto confuso y poco profesional."
+        },
+        {
+          "letter": "D",
+          "text": "Escribir con un registro cuidado, ajustando el tono a la formalidad del trámite.",
+          "is_correct": true,
+          "feedback": "El registro cuidado es el adecuado porque el texto cumple una función institucional."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Elegir la variedad equivale a medir el grado de formalidad que pide la situación. Una carta de presentación se dirige a una empresa, se lee una sola vez y sirve como filtro, así que exige un registro cuidado: frases claras, puntuación correcta y un vocabulario preciso. La lengua coloquial y la jerga tienen su lugar, pero no en un texto cuyo propósito es conseguir una entrevista.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W21-la-lengua-y-la-sociedad-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W21-la-lengua-y-la-sociedad-001-MASTERY-bundle-v5",
+      "statement": "¿Qué palabra de ese mensaje revela mejor que se trata de una jerga juvenil?",
+      "context": "En un chat escolar de Cartagena, un estudiante escribe que no va a la fiesta porque le dio una chonchada de tales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La palabra \"fiesta\", que nombra un evento social conocido por todos.",
+          "is_correct": false,
+          "feedback": "Fiesta es una palabra común del español y no pertenece a la jerga de un grupo."
+        },
+        {
+          "letter": "B",
+          "text": "La palabra \"chonchada\", que solo el grupo de amigos usa con ese sentido preciso.",
+          "is_correct": true,
+          "feedback": "Es una expresión propia del grupo, con un significado compartido que los demás no conocen."
+        },
+        {
+          "letter": "C",
+          "text": "La palabra \"porque\", que conecta dos ideas dentro del mensaje.",
+          "is_correct": false,
+          "feedback": "Porque es un conector del español, no una palabra de jerga."
+        },
+        {
+          "letter": "D",
+          "text": "La palabra \"tales\", que cierra la frase y expresa cantidad indeterminada.",
+          "is_correct": false,
+          "feedback": "Tales es un cuantificador propio del español estándar, no un rasgo de la jerga."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una jerga se reconoce porque sus palabras tienen un significado que solo existe dentro del grupo. Esa palabra cumple la función de mostrar pertenencia: quien la usa pertenece a la conversación y quien no la usa queda por fuera. Identificar la jerga en un texto no es descalificarlo, es comprender que el léxico es una de las formas en que los grupos construyen su identidad.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semantico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W21-la-lengua-y-la-sociedad-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W21-la-lengua-y-la-sociedad-001-MASTERY-bundle-v6",
+      "statement": "¿Qué registro debe usarse en ese comunicado?",
+      "context": "En una preparatoria de Medellín, la coordinadora debe enviar un comunicado a los padres de familia sobre el inicio del segundo trimestre.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El registro coloquial, porque los padres hacen parte de la comunidad del colegio.",
+          "is_correct": false,
+          "feedback": "La cercanía no elimina la formalidad de un comunicado institucional."
+        },
+        {
+          "letter": "B",
+          "text": "El registro cuidado, porque el texto tiene una función institucional y se lee como documento oficial.",
+          "is_correct": true,
+          "feedback": "Un comunicado escolar es un documento oficial y exige un registro cuidado y claro."
+        },
+        {
+          "letter": "C",
+          "text": "La jerga del grupo de mensajería del colegio, porque todos están en el mismo chat.",
+          "is_correct": false,
+          "feedback": "La jerga no corresponde a un documento oficial, aunque se comparta por un chat."
+        },
+        {
+          "letter": "D",
+          "text": "La lengua coloquial de la región, porque refleja mejor a la comunidad educativa.",
+          "is_correct": false,
+          "feedback": "La variedad regional puede aparecer en otros contextos, pero no en un comunicado oficial."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El registro se elige según la función y el destinatario, no según el medio por donde se envía el texto. Un comunicado escolar tiene una función institucional: informa a los padres y deja constancia de una decisión, así que se redacta en un registro cuidado. Usar jerga o coloquialidades en ese documento puede hacer que la información se entienda peor y reste seriedad a la institución.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W21-la-lengua-y-la-sociedad-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W21-la-lengua-y-la-sociedad-001-MASTERY-bundle-v7",
+      "statement": "¿Qué observación explica mejor las diferencias de léxico entre las dos versiones?",
+      "context": "Un grupo de noveno grado de Bogotá compara dos versiones de la misma conversación: una grabada en una discoteca de la capital y otra en una tertulia de Cartagena.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las dos conversaciones usan jergas distintas porque los grupos y las actividades son diferentes.",
+          "is_correct": true,
+          "feedback": "El léxico cambia con el grupo y con la actividad, y por eso las dos conversaciones comparten poco vocabulario específico."
+        },
+        {
+          "letter": "B",
+          "text": "Las dos conversaciones usan el mismo léxico porque la lengua es igual en todo el país.",
+          "is_correct": false,
+          "feedback": "La variación regional y grupal hace que el léxico cambie de una versión a otra."
+        },
+        {
+          "letter": "C",
+          "text": "Las diferencias se deben a que una de las conversaciones fue escrita y la otra hablada.",
+          "is_correct": false,
+          "feedback": "Las dos versiones son habladas, de modo que el soporte no explica la diferencia de léxico."
+        },
+        {
+          "letter": "D",
+          "text": "Las diferencias se deben a que los participantes de una versión son niños y los de la otra son adultos.",
+          "is_correct": false,
+          "feedback": "La edad puede influir, pero en este caso el factor decisivo es el grupo y la actividad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La jerga muestra que la lengua cambia según el grupo social y la actividad que se comparte. Quien frequenta una discoteca nombra de una manera la música y el baile, mientras que quien participa en una tertulia nombra de otra las lecturas y la conversación. Comparar las dos versiones permite entender que el léxico es un índice social: dice algo de quien habla y con quién está hablando.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W21-la-lengua-y-la-sociedad-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W21-la-lengua-y-la-sociedad-001-MASTERY-bundle-v8",
+      "statement": "¿Qué aporta el uso de un gentilicio en ese texto?",
+      "context": "En un texto de José Eustasio Rivera, la narradora usa un gentilicio para presentar a un grupo de personajes de la región.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aporta un dato estadístico sobre la cantidad de habitantes de una región.",
+          "is_correct": false,
+          "feedback": "El gentilicio no es un dato estadístico; es una palabra que nombra a los habitantes."
+        },
+        {
+          "letter": "B",
+          "text": "Cambia el registro del texto, porque convierte la narración en un documento oficial.",
+          "is_correct": false,
+          "feedback": "El gentilicio no cambia el registro del texto ni su naturaleza narrativa."
+        },
+        {
+          "letter": "C",
+          "text": "Borra las diferencias entre las regiones, porque todos los habitantes se nombran igual.",
+          "is_correct": false,
+          "feedback": "El gentilicio destaca justamente la pertenencia de esos personajes a un territorio."
+        },
+        {
+          "letter": "D",
+          "text": "Ubica a los personajes y refuerza su vínculo con el territorio del que vienen.",
+          "is_correct": true,
+          "feedback": "El gentilicio sitúa a los personajes y les asigna una identidad regional compartida."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El gentilicio cumple en la literatura la misma función que en la vida cotidiana: identificar a un grupo por su territorio. Cuando un narrador lo emplea, el lector entiende de inmediato de dónde vienen los personajes y qué comparten entre ellos, sin necesidad de explicaciones largas. Por eso un texto como el de José Eustasio Rivera se apoya en estas palabras para dibujar el carácter de una región con muy pocas líneas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Critico-Intertextual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W21-la-lengua-y-la-sociedad-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W21-la-lengua-y-la-sociedad-001-MASTERY-bundle-v9",
+      "statement": "Si un personaje habla con regionalismos y otro usa un registro cuidado, ¿qué está haciendo el autor con esa diferencia?",
+      "context": "En clase de noveno grado en Bucaramanga, la docente pide comparar el habla de dos personajes de un mismo libro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Está mostrando que uno de los dos personajes habla mal y por eso es menos confiable.",
+          "is_correct": false,
+          "feedback": "El autor no señala a nadie como mal hablante; usa la diferencia para caracterizar."
+        },
+        {
+          "letter": "B",
+          "text": "Está aplicando una jerarquía de valores, porque una forma de hablar es mejor que la otra.",
+          "is_correct": false,
+          "feedback": "La diferencia de habla no establece una jerarquía; construye personajes distintos."
+        },
+        {
+          "letter": "C",
+          "text": "Está caracterizando a cada personaje según su origen, su educación y su posición social.",
+          "is_correct": true,
+          "feedback": "El lenguaje de cada personaje revela quién es y de dónde viene dentro del relato."
+        },
+        {
+          "letter": "D",
+          "text": "Está copiando la realidad sin ningún propósito, porque el registro no funciona en la ficción.",
+          "is_correct": false,
+          "feedback": "El registro sí cumple una función: da información sobre el personaje y sobre el mundo del texto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En la literatura el lenguaje es un instrumento de construcción de personajes. Un regionalismo puede ubicar a alguien en una región y un registro cuidado puede indicar educación o distancia social. Reconocer esta función evita el error de confundir la variación lingüística con un defecto de los personajes y permite entender al escritor como un diseñador de voces.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W21-la-lengua-y-la-sociedad-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W21-la-lengua-y-la-sociedad-001-MASTERY-bundle-v10",
+      "statement": "¿Qué explica mejor que una palabra tenga dos significados en regiones distintas?",
+      "context": "Un equipo de noveno grado de Medellín registra que en un mercado de barrio la palabra \"carpeta\" designa el membrillo, mientras en otra región la misma palabra designa una carpeta de documentos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que los diccionarios generales no registran esa palabra.",
+          "is_correct": false,
+          "feedback": "La ausencia en un diccionario es una consecuencia, no la causa de la variación de sentido."
+        },
+        {
+          "letter": "B",
+          "text": "Que la palabra sea nueva y por eso todavía no tenga un significado estable.",
+          "is_correct": false,
+          "feedback": "Las dos acepciones son antiguas; no se trata de una palabra recién incorporada."
+        },
+        {
+          "letter": "C",
+          "text": "Que la palabra se haya usado en cada región para nombrar objetos diferentes.",
+          "is_correct": true,
+          "feedback": "El uso local asigna a la palabra un referente distinto en cada zona del país."
+        },
+        {
+          "letter": "D",
+          "text": "Que los hablantes hayan olvidado el significado original de la palabra.",
+          "is_correct": false,
+          "feedback": "No es un olvido colectivo: es la distribución de usos por regiones diferentes."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El léxico regional muestra que una palabra puede viajar y adquirir un referente distinto según el lugar. Cuando dos zonas del país llaman \"carpeta\" a cosas diferentes, ninguna de las dos tiene la razón: ambas responden al uso de su comunidad. Esta observación es la base de los diccionarios de gentilicios y de plantas del país, y explica por qué el mismo término puede ser cotidiano en una región y desconocido en otra.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semantico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W21-la-lengua-y-la-sociedad-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W21-la-lengua-y-la-sociedad-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es el criterio más sólido para evaluar esa afirmación?",
+      "context": "En una clase de noveno grado de Bogotá, un estudiante afirma que la norma culta es la única forma correcta de hablar en Colombia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es incorrecta, porque la norma culta sirve para las situaciones formales y convive con otras variedades.",
+          "is_correct": true,
+          "feedback": "La norma ordena la comunicación formal, pero no elimina ni descalifica las variedades regionales."
+        },
+        {
+          "letter": "B",
+          "text": "Es correcta, porque las demás formas de hablar son únicamente errores de los hablantes.",
+          "is_correct": false,
+          "feedback": "Las variantes regionales son sistemas ordenados y no simples errores."
+        },
+        {
+          "letter": "C",
+          "text": "Es correcta, porque la norma culta fue escrita por el gobierno y por eso obliga a todos.",
+          "is_correct": false,
+          "feedback": "La norma es el resultado de un consenso académico, no de una decisión del gobierno."
+        },
+        {
+          "letter": "D",
+          "text": "Es incorrecta, porque ninguna forma de hablar sirve para tipos distintos de situación comunicativa.",
+          "is_correct": false,
+          "feedback": "Sí hay formas que sirven para cada situación; por eso la norma tiene un uso concreto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar una afirmación sobre la norma exige distinguir su función real. La norma culta organiza el uso de la lengua en contextos que exigen precisión, como un examen, un contrato o un informe, y por eso resulta indispensable. Pero no es la única forma válida de hablar: en la casa, en la plaza y con los amigos sostienen la identidad de las comunidades. Reconocer ambos planos evita tanto el rechazo equivocado de la norma como su conversión en una imposición.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W21-la-lengua-y-la-sociedad-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W21-la-lengua-y-la-sociedad-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál de los siguientes proyectos respeta mejor la variación lingüística como un hecho social?",
+      "context": "En un colegio de Cartagena, un grupo de noveno grado prepara una campaña para recuperar el habla de los abuelos del barrio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un taller que corrige a los mayores del barrio cuando usan palabras que no están en el diccionario.",
+          "is_correct": false,
+          "feedback": "Corregir el habla de hablantes nativos contradice la idea de que la variación es un hecho social."
+        },
+        {
+          "letter": "B",
+          "text": "Un mural que reúne gentilicios, jergas y palabras regionales, con la explicación de dónde viene cada una.",
+          "is_correct": true,
+          "feedback": "El mural reúne las variedades y las explica, que es exactamente lo que propone la campaña."
+        },
+        {
+          "letter": "C",
+          "text": "Un concurso de escritura en el que solo se acepta el español estándar, porque es el único correcto.",
+          "is_correct": false,
+          "feedback": "Un concurso que solo admite una variedad contradice el propósito de recuperar la diversidad."
+        },
+        {
+          "letter": "D",
+          "text": "Un archivo sonoro donde las entrevistas se graban sin transcribir, porque la palabra hablada no necesita texto.",
+          "is_correct": false,
+          "feedback": "Un archivo sin transcripción pierde información y dificulta su estudio y su difusión."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un proyecto que respeta la variación lingüística la trata como un patrimonio y no como un problema. Reúnir gentilicios, jergas y palabras regionales, y explicar de dónde viene cada una, permite que los estudiantes valoren la diversidad y comprendan que las variantes responden a la vida de las comunidades. La campaña cumple así su objetivo educativo sin reducir la lengua a una sola forma correcta de hablar.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W21-la-lengua-y-la-sociedad-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}
