@@ -31,7 +31,7 @@ La semana 37 trabaja la intertextualidad entendida como la red de relaciones que
 Ensayo de Jorge Luis Borges titulado Kafka y sus precursores, publicado en 1951 en la revista Sur de Buenos Aires y recogido después en Otras inquisiciones. Tiene 1.500 palabras, está escrito en un registro expositivo y se dirige al lector con la segunda persona. Su estructura es nítida: afirma que ciertos textos anteriores ya anticipaban el mundo de Kafka, enumera seis antecedentes leídos en bibliotecas y tradiciones distintas (Zenón de Elea, un prosista chino del siglo IX, Kierkegaard, Browning, Léon Bloy y Lord Dunsany), analiza cada uno en un párrafo breve y cierra con una tesis general según la cual cada escritor crea a sus precursores. El ensayo no consulta archivos ni documentos: nombra obras y fechas y transcribe una sola línea de cada fuente.
 
 **Texto 2 (descripcion breve):**
-Cuento titulado El que escribe despacio, de Leidy Marcela Sandoval Ocampo, publicado en 2018 en la antología escolar Voces del Eje Cafetero, impresa en Bogotá. Tiene 1.400 palabras y una sola voz narrativa en primera persona: una joven de dieciséis años que narra seis visitas de sábado a la casa de su abuelo en Manizales, un ex tipógrafo que quedó ciego. El relato avanza en tres escenas y en la última la narradora reproduce, palabra por palabra, una oración antigua que su abuelo también leyó en un libro. El texto practica dos alusiones explícitas: la prueba de la tinta y la legitimidad, tomada del Quijote del Manzana, y la misión de anunciar a los pobres, tomada del evangelio de Lucas.
+Cuento titulado El que escribe despacio, de Leidy Marcela Sandoval Ocampo, publicado en 2018 en la antología escolar Voces del Eje Cafetero, impresa en Bogotá. Tiene 1.400 palabras y una sola voz narrativa en primera persona: una joven de dieciséis años que narra seis visitas de sábado a la casa de su abuelo en Manizales, un ex tipógrafo que quedó ciego. El relato avanza en tres escenas y en la última la narradora reproduce, palabra por palabra, una oración antigua que su abuelo también leyó en un libro. El texto practica dos alusiones explícitas: la prueba de la tinta y la legitimidad, tomada del Quijote de la Mancha, y la misión de anunciar a los pobres, tomada del evangelio de Lucas.
 
 **Texto 3 (descripcion breve):**
 Crónica periodística titulada La mesa de lectura de la Escuela Normal, firmada por Julián Escobar Rendón y publicada el 12 de marzo de 2022 en la sección Cultura del diario El Espectador. Tiene 700 palabras, voz en tercera persona y estructura de entradilla, declaración de una docente, fragmento citado del Texto 2 y remate sobre una jornada de lectura en Cali. La crónica no revisa los posibles errores del cuento, no contrasta el criterio editorial del periódico y no menciona las dos alusiones intertextuales que contiene el relato.
@@ -110,7 +110,7 @@ Nombrar el procedimiento del texto es un paso hacia el análisis intertextual, p
 **Bloom:** Apply
 **ICFES:** Crítico-Intertextual
 **Expected_Success:** 0.84
-**Contexto:** En la ficha de intertextualidad cada grupo debe señalar el fragmento del Texto 2 que sostiene la referencia al Quijote del Manzana.
+**Contexto:** En la ficha de intertextualidad cada grupo debe señalar el fragmento del Texto 2 que sostiene la referencia al Quijote de la Mancha.
 
 ### Enunciado
 Para justificar la primera de las dos alusiones del Texto 2, el estudiante necesita señalar:
@@ -126,7 +126,7 @@ Para justificar la primera de las dos alusiones del Texto 2, el estudiante neces
   <!-- feedback: Correcto, ese detalle de la tinta reproduce la prueba del hidalgo y de Sancho, que es el vínculo intertextual real. -->
 
 ### Explicacion Pedagogica
-Toda afirmación sobre un vínculo necesita una evidencia localizable, y eso es lo que la ficha de la semana exige. En el caso del Quijote del Manzana, el indicio no está en el nombre del libro sino en un procedimiento narrativo: tinta, prueba y duda sobre quién está loco. Ese detalle confirma que la relación es temática y argumental, y no una simple mención de autor.
+Toda afirmación sobre un vínculo necesita una evidencia localizable, y eso es lo que la ficha de la semana exige. En el caso del Quijote de la Mancha, el indicio no está en el nombre del libro sino en un procedimiento narrativo: tinta, prueba y duda sobre quién está loco. Ese detalle confirma que la relación es temática y argumental, y no una simple mención de autor.
 
 ## Question 5 [D5-D6]
 **ID:** CO-LC-10-2026-W37-la-intertextualidad-y-las-fuentes-001-MASTERY-bundle-v5
