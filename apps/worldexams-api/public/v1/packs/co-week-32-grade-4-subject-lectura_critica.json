@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-32-grade-4-subject-lectura_critica",
+    "generated_at": "2026-09-30T10:20:02.588Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-4-2026-W32-la-descripcion-del-espacio-y-como-lo-vemos-001-MASTERY-bundle-v1",
+      "statement": "Lee con atención el fragmento.\n\n*\"Al fondo de la plaza hay una biblioteca de madera con techo de tejas verdes. Frente a la fuente hay dos mesas de piedra que esperan a quien quiera descansar.\"*\n\nSegún el texto, ¿qué hay al fondo de la plaza?",
+      "context": "En el aula de cuarto de Cartagena, la profesora lee la descripción de una plaza.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una fuente de agua, porque el fragmento la menciona primero",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fuente aparece frente a la biblioteca, y el fragmento no dice que esté al fondo de la plaza."
+        },
+        {
+          "letter": "B",
+          "text": "Un parque de diversiones, porque el fragmento describe un lugar abierto",
+          "is_correct": false,
+          "feedback": "Incorrecto. El fragmento no menciona ningún parque de diversiones ni ningún juego."
+        },
+        {
+          "letter": "C",
+          "text": "Una biblioteca de madera con techo de tejas verdes",
+          "is_correct": true,
+          "feedback": "Correcto. La primera oración del fragmento dice exactamente qué hay al fondo de la plaza."
+        },
+        {
+          "letter": "D",
+          "text": "Dos mesas de piedra, porque el autor las coloca cerca de la fuente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las mesas aparecen después de la fuente, y no son lo que se ubica al fondo de la plaza."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Leer una descripción de forma literal es responder solo con lo que el texto escribe, sin agregar lugares que el autor nunca menciona. Reconocer la frase que dice el dónde ayuda a los niños a ubicar cada objeto dentro del espacio que se está describiendo. Esa precisión es la base para construir descripciones claras.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Literal",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-4-2026-W32-la-descripcion-del-espacio-y-como-lo-vemos-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W32-la-descripcion-del-espacio-y-como-lo-vemos-001-MASTERY-bundle-v2",
+      "statement": "Observa las dos frases que describen la misma plaza.\n\n*\"Frase 1: \"La plaza se llenó de toldos de colores que los vendedores extendieron al llegar\". Frase 2: \"Los toldos de colores me hicieron pensar en las mantas que tejía mi abuela\".\"*\n\n¿Qué diferencia de significado hay entre las dos frases?",
+      "context": "En un taller de lectura de cuarto en Tunja, los estudiantes descubren dos maneras de ver el mismo lugar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La frase 1 nombra un lugar y la frase 2 nombra a una persona",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las dos frases hablan de un lugar, y la segunda también menciona a la abuela del narrator."
+        },
+        {
+          "letter": "B",
+          "text": "Las dos frases dicen lo mismo, porque las dos mencionan los toldos",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase 1 describe lo que se ve y la frase 2 expresa lo que esa vista provocan."
+        },
+        {
+          "letter": "C",
+          "text": "La frase 1 describe lo que el lector puede ver y la frase 2 cuenta lo que esa vista hizo pensar al narrator",
+          "is_correct": true,
+          "feedback": "Correcto. Una frase se queda en la imagen y la otra agrega la reacción personal que surge al verla."
+        },
+        {
+          "letter": "D",
+          "text": "La frase 1 es menos completa porque no menciona ningún color",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase 1 sí dice que los toldos eran de colores, y no le falta ese detalle."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Entender el significado de una descripción es separar lo que se ve de lo que se siente al verlo. Cuando un autor compara un lugar con algo conocido, el lector entiende una emoción que ninguna lista de objetos podría transmitir. Notar esa diferencia enseña a los niños a valorar la parte expresiva de los textos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-4-2026-W32-la-descripcion-del-espacio-y-como-lo-vemos-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W32-la-descripcion-del-espacio-y-como-lo-vemos-001-MASTERY-bundle-v3",
+      "statement": "Lee las tres listas que armaron tres grupos.\n\n*\"Lista 1: \"Paredes de cal, techo de palma, piso de tierra y olor a leña\". Lista 2: \"Mucho público en el parque, venta de la casa y un mercado cerca\". Lista 3: \"El dueño de la casa, un primo y un vecino que vende el pan\".*\n\n¿Cuál de las tres listas sirve mejor para que alguien imagine cómo es una casa antigua de campo?",
+      "context": "En un grupo de cuarto de Montería, los estudiantes deben elegir los detalles que sirven para describir un lugar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La lista 1, porque usa detalles que se ven y se sienten en una casa así",
+          "is_correct": true,
+          "feedback": "Correcto. Los materiales, el techo y el olor permiten que el lector imagine la casa completa."
+        },
+        {
+          "letter": "B",
+          "text": "La lista 2, porque tiene muchos detalles y eso completa la descripción",
+          "is_correct": false,
+          "feedback": "Incorrecto. La lista 2 mezcla datos que no describen el aspecto de la casa, y sus palabras no permiten imaginarla."
+        },
+        {
+          "letter": "C",
+          "text": "La lista 3, porque menciona a las personas que viven en la casa",
+          "is_correct": false,
+          "feedback": "Incorrecto. La lista 3 nombra personas y una acción, y no dice cómo se ve ni cómo se siente la casa."
+        },
+        {
+          "letter": "D",
+          "text": "Las tres listas sirven por igual, porque las tres mencionan algo de la casa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cada lista sirve para algo distinto, y solo una describe el aspecto y la sensación del lugar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar lo aprendido es separar los detalles que ayudan a ver un lugar de los que solo hablan de personas o de acciones. Una buena descripción mezcla lo que se ve, lo que se oye y lo que se huele. Enseñar a los niños a escoger esos detalles les da un método sencillo para escribir mejores descripciones.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-4-2026-W32-la-descripcion-del-espacio-y-como-lo-vemos-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W32-la-descripcion-del-espacio-y-como-lo-vemos-001-MASTERY-bundle-v4",
+      "statement": "Lee esta oración de una descripción.\n\n*\"El patio es más pequeño que el corredor, pero el corredor es más fresco que el patio.\"*\n\n¿Qué efecto produce esa oración en la descripción?",
+      "context": "En la clase de cuarto de Arauca, la profesora trabaja las palabras que comparan lugares.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Enumera los objetos del patio sin seguir ningún orden",
+          "is_correct": false,
+          "feedback": "Incorrecto. La oración no enumera objetos sin orden, y compara dos partes de la casa."
+        },
+        {
+          "letter": "B",
+          "text": "Compara dos partes de la casa y así ayuda a entender cómo es cada una",
+          "is_correct": true,
+          "feedback": "Correcto. Al poner una al lado de la otra, el lector entiende que el patio es más pequeño y el corredor más fresco."
+        },
+        {
+          "letter": "C",
+          "text": "Cuenta una serie de acciones que ocurren dentro de la casa",
+          "is_correct": false,
+          "feedback": "Incorrecto. La oración no describe acciones, y solo establece comparaciones entre dos lugares."
+        },
+        {
+          "letter": "D",
+          "text": "Explica por qué el patio se queda solo, porque cambia de tema",
+          "is_correct": false,
+          "feedback": "Incorrecto. La oración no explica motivos ni cambia de tema, y por eso nada de eso ocurre."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Observar la estructura de una oración es reconocer qué pieza cumple cada parte de la descripción. Las comparaciones con que y con pero muestran cómo es un lugar, porque acercan dos cosas y dejan claro en qué se diferencian. Dominar esa herramienta mejora tanto la lectura como la escritura de los niños.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-4-2026-W32-la-descripcion-del-espacio-y-como-lo-vemos-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W32-la-descripcion-del-espacio-y-como-lo-vemos-001-MASTERY-bundle-v5",
+      "statement": "Lee el comienzo de una descripción que un colegio de Santa Marta publicó sobre su patio.\n\n*\"Este patio no tiene cancha de fútbol ni pista de atletismo, y sin embargo cada día los niños lo llenan de sas, rayuela y carreras. Aquí nadie se aburre nunca.\"*\n\n¿Qué busca el texto con esa forma de describir el patio?",
+      "context": "En el aula de cuarto de Santa Marta, la profesora pide analizar por qué el autor describe así un lugar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Avisar que el patio va a ser cerrado, porque cuenta lo que hoy ocurre allí",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto dice que los niños lo llenan de juegos y que nunca se aburren, así que no hay ningún aviso de cierre."
+        },
+        {
+          "letter": "B",
+          "text": "Enseñar a los niños a medir el patio, porque el texto lo describe con detalle",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no habla de medidas ni de cálculos, y su propósito no es ese."
+        },
+        {
+          "letter": "C",
+          "text": "Mostrar que un espacio sencillo puede ser muy divertido, porque destaca los juegos y no las instalaciones",
+          "is_correct": true,
+          "feedback": "Correcto. El texto contrasta la falta de equipos con la diversión de los niños, y esa es su intención."
+        },
+        {
+          "letter": "D",
+          "text": "Invitar a todos los niños de la ciudad a visitar el patio, porque promete actividades recreativas",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no convoca a una visita ni anuncia actividades, y solo describe lo que ya ocurre."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Analizar el propósito de un texto es preguntar qué efecto quiere producir en quien lo lee, más allá de los datos que entrega. Cuando un autor destaca algo que seAleja de lo que se espera, busca cambiar la opinión de sus lectores. Reconocer esa intención enseña a los niños a leer también los mensajes de sus propios espacios.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-4-2026-W32-la-descripcion-del-espacio-y-como-lo-vemos-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W32-la-descripcion-del-espacio-y-como-lo-vemos-001-MASTERY-bundle-v6",
+      "statement": "Lee las dos descripciones de la plaza del pueblo.\n\n*\"Descripción 1: \"La plaza tiene un reloj en el centro. Al rededor hay bancas. Cada noche los vecinos se sientan a charlar bajo las luces.\" Descripción 2: \"Al rededor, cuatro filas de bancas. En el centro, un reloj alto. Debajo, luces que iluminan las hojas del nogal.\"*\n\n¿Qué diferencia en la organización de la descripción se observa entre los dos textos?",
+      "context": "En un trabajo en grupo de cuarto de Valledupar, los estudiantes analizan dos descripciones del mismo lugar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La descripción 2 empieza por el centro y la descripción 1 empieza por el borde",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las dos descripciones empiezan por el centro y después pasan al rededor."
+        },
+        {
+          "letter": "B",
+          "text": "La descripción 1 nombra más objetos y por eso es más completa",
+          "is_correct": false,
+          "feedback": "Incorrecto. La descripción 2 también nombra varios objetos, y el número de ellos no es lo que las diferencia."
+        },
+        {
+          "letter": "C",
+          "text": "Las dos descripciones recorren el lugar en el mismo orden y solo cambian las palabras",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una agrupa los elementos y la otra los presenta uno por uno, así que el orden es distinto."
+        },
+        {
+          "letter": "D",
+          "text": "La descripción 1 agrupa las ideas y la descripción 2 las presenta una por una",
+          "is_correct": true,
+          "feedback": "Correcto. La primera organiza lo que hay en cada parte, y la segunda separa los detalles en frases cortas."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Analizar la organización de un texto es observar si el autor agrupa las ideas o las presenta de una en una. Las dos formas sirven para describir, y cada una tiene su propia ventaja para el lector. Reconocer esa diferencia enseña a los niños a elegir la manera más conveniente cada vez que escriben.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LC-4-2026-W32-la-descripcion-del-espacio-y-como-lo-vemos-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W32-la-descripcion-del-espacio-y-como-lo-vemos-001-MASTERY-bundle-v7",
+      "statement": "Un compañero de tu grupo afirma lo siguiente.\n\n*\"En una descripción solo tiene que haber muchos sustantivos, porque mientras más nombres tenga el texto, mejor será la descripción.\"*\n\n¿Cuál es la respuesta más sólida que puede darle el grupo a esa afirmación?",
+      "context": "En la reunión de aula de un colegio de Popayán, un compañero de tu grupo defiende lo que dice sobre las descripciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La afirmación es correcta, porque un texto con más nombres ocupa más páginas",
+          "is_correct": false,
+          "feedback": "Incorrecto. La extensión del texto no indica que la descripción sea mejor, y una palabra bien elegida puede decir mucho."
+        },
+        {
+          "letter": "B",
+          "text": "La afirmación es incorrecta, porque lo que importa es que los detalles ayuden a ver el lugar y estén ordenados",
+          "is_correct": true,
+          "feedback": "Correcto. Un detalle sirve cuando aclara cómo es el espacio y ocupa un lugar dentro de la descripción."
+        },
+        {
+          "letter": "C",
+          "text": "La afirmación es incorrecta, porque las descripciones no pueden usar sustantivos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los sustantivos nombran los objetos del lugar, y son una parte necesaria de cualquier descripción."
+        },
+        {
+          "letter": "D",
+          "text": "La afirmación es incorrecta, porque en cuarto de primaria no se enseñan descripciones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las descripciones son parte del plan de estudios del grado, y sí se trabaja ese tipo de texto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar una afirmación sobre la descripción es ponerla a prueba y no creer que más palabras significan mejor texto. Un detalle vale cuando aclara cómo es el lugar, y de nada sirve si se repite o rompe el orden. Practicar este criterio enseña a los niños a escribir con economía y con claridad.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LC-4-2026-W32-la-descripcion-del-espacio-y-como-lo-vemos-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W32-la-descripcion-del-espacio-y-como-lo-vemos-001-MASTERY-bundle-v8",
+      "statement": "Los cuatro grupos escribieron una descripción del parque donde juegan.\n\n*\"Grupo 1: \"El parque es el más lindo de todo el municipio y todos lo saben, por eso merece un premio\". Grupo 2: \"El parque tiene una atracción, muchas mesas y un tobogán, aunque el autor no aclara cómo se llega hasta él\". Grupo 3: \"A mi hermana se le salió la correa en el tobogán, y por eso hoy no pudo jugar; el tobogán es largo y tiene una rampa\". Grupo 4: \"El parque tiene un tobogán alto al fondo, una rampa de cemento a la derecha y un árbol grande que da sombra junto a las bancas. Por la entrada se llega caminando cinco minutos desde la calle principal\".*\n\n¿Cuál de las cuatro versiones es la más sólida como descripción de un espacio?",
+      "context": "Como tarea final, los grupos de cuarto de Yopal deben describir un espacio de su barrio tomando como modelo una descripción que ya leyeron.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La del grupo 1, porque declara que el parque es el más lindo y así queda claro su valor",
+          "is_correct": false,
+          "feedback": "Incorrecto. El grupo 1 solo da una opinión sin ningún detalle del lugar, y por eso no describe nada."
+        },
+        {
+          "letter": "B",
+          "text": "La del grupo 2, porque enumera varios objetos del parque y eso ya es una descripción completa",
+          "is_correct": false,
+          "feedback": "Incorrecto. El grupo 2 menciona objetos sin decir cómo están dispuestos, y el propio texto advierte que no aclara la forma de llegar."
+        },
+        {
+          "letter": "C",
+          "text": "La del grupo 3, porque cuenta una anécdota divertida que le pasó a la hermana de quien escribe",
+          "is_correct": false,
+          "feedback": "Incorrecto. El grupo 3 mezcla un episodio personal con la descripción, y el episodio no reemplaza al lugar."
+        },
+        {
+          "letter": "D",
+          "text": "La del grupo 4, porque ubica cada elemento, muestra cómo se ve el parque y explica cómo llegar hasta él",
+          "is_correct": true,
+          "feedback": "Correcto. Esa versión da un recorrido posible del parque, con detalles que permiten dibujarlo y llegar hasta él."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Comparar cuatro descripciones del mismo espacio enseña qué tiene que tener un texto para que el lector imagine el lugar con exactitud. Debe decir dónde está cada elemento, cómo se ve y cómo se llega. Practicar estos criterios permite a los niños describir bien su barrio, y con ello poner más atención a los espacios donde viven.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-4-2026-W32-la-descripcion-del-espacio-y-como-lo-vemos-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    }
+  ]
+}

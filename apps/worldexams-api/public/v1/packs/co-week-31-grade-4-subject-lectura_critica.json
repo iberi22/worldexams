@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-31-grade-4-subject-lectura_critica",
+    "generated_at": "2026-09-30T10:20:02.585Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-4-2026-W31-el-dialogo-entre-dos-personajes-que-explica-un-problema-001-MASTERY-bundle-v1",
+      "statement": "Lee con atención el diálogo.\n\n*\"— Abuela, ¿dónde guardé la cartuchera antes de salir? — Pregúntale a tu mamá, mija, porque yo la vi por la mañana junto a la puerta.\"*\n\nSegún el diálogo, ¿qué le sugiere la abuela a la niña?",
+      "context": "En el aula de cuarto de Popayán, la profesora lee en voz alta un diálogo familiar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que espere en la casa, porque la abuela va a buscar la cartuchera por ella",
+          "is_correct": false,
+          "feedback": "Incorrecto. La abuela no ofrece ir a buscarla, y el diálogo no dice que fuera a hacer esa tarea."
+        },
+        {
+          "letter": "B",
+          "text": "Que lacartuchera está perdida y por eso no hay dónde buscarla",
+          "is_correct": false,
+          "feedback": "Incorrecto. La abuela da una pista concreta sobre dónde estaba, así que la cartuchera no está perdida."
+        },
+        {
+          "letter": "C",
+          "text": "Que le pregunte a su mamá, porque la abuela la vio por la mañana junto a la puerta",
+          "is_correct": true,
+          "feedback": "Correcto. La respuesta de la abuela es una sugerencia directa y el motivo aparece en el mismo diálogo."
+        },
+        {
+          "letter": "D",
+          "text": "Que revise la puerta, porque la abuela guardó la cartuchera detrás de esa puerta",
+          "is_correct": false,
+          "feedback": "Incorrecto. La abuela dice que la vio junto a la puerta, y no que la haya guardado detrás de ella."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Leer un diálogo de forma literal es identificar quién habla y responder solo con lo que ese personaje dice, sin inventar acciones que nadie menciona. Cuando los turnos de una conversación están bien marcados, la niña entiende que cada respuesta trae información nueva. Esa disciplina de lectura es la base para comprender cualquier conversación.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Literal",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-4-2026-W31-el-dialogo-entre-dos-personajes-que-explica-un-problema-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W31-el-dialogo-entre-dos-personajes-que-explica-un-problema-001-MASTERY-bundle-v2",
+      "statement": "Observa las dos frases que aparecen en dos diálogos distintos.\n\n*\"Frase 1: \"Préstame tu esfero un momentico, es que el mío se quedó sin tinta\". Frase 2: \"Yo también perdí el esfero el viernes en el patio, y el de mi mamá se quedó sin tinta en la cartera\".\"*\n\n¿Qué diferencia de significado hay entre las dos frases?",
+      "context": "En un taller de lectura de cuarto en Medellín, los estudiantes comparan dos formas de pedir ayuda.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La frase 1 pide un favor y la frase 2 cuenta una queja",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las dos frases piden un favor, y la frase 2 también cuenta lo que ocurrió antes de pedirlo."
+        },
+        {
+          "letter": "B",
+          "text": "Las dos frases dicen lo mismo, porque las dos mencionan un esfero",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase 1 se apoya en la falta de tinta y la frase 2 en un esfero perdido, así que el motivo es distinto."
+        },
+        {
+          "letter": "C",
+          "text": "La frase 1 explica el motivo con un problema concreto y la frase 2 lo cuenta como algo que le pasó a quien habla",
+          "is_correct": true,
+          "feedback": "Correcto. Una frase se apoya en un hecho cercano y verificable, mientras la otra narra una experiencia vivida."
+        },
+        {
+          "letter": "D",
+          "text": "La frase 1 es menos amable porque no dice por qué pide el esfero",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase 1 sí dice el motivo, y su razón aparece completa desde el principio."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Entender el significado de cada frase es notar qué información aporta y qué propósito tiene dentro de la conversación. Un mismo pedido puede apoyarse en datos diferentes, y reconocer esas diferencias ayuda a entender mejor a quien habla. Practicar esta comparación deja a los niños mejor preparados para conversar con claridad y respeto.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-4-2026-W31-el-dialogo-entre-dos-personajes-que-explica-un-problema-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W31-el-dialogo-entre-dos-personajes-que-explica-un-problema-001-MASTERY-bundle-v3",
+      "statement": "Lee el diálogo que hubo entre dos compañeros.\n\n*\"— No sé qué pasó con la bolsa que llevamos al mercado: se nos abrió en el camino. — ¿Y qué hacemos ahora? — Vamos a la panadería de la esquina y pedimos otro empaque, y con lo que nos sobró compramos pan para la merienda.\"*\n\nSi un grupo quiere escribir la solución del problema, ¿en qué parte del diálogo debe buscarla?",
+      "context": "En un grupo de cuarto de Armenia, los estudiantes deben señalar dónde está la solución de un problema conversado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En la primera intervención, porque ahí se explica que la bolsa se abrió",
+          "is_correct": false,
+          "feedback": "Incorrecto. La primera intervención solo presenta el problema, y en ella no aparece ninguna solución."
+        },
+        {
+          "letter": "B",
+          "text": "En la pregunta que hace el segundo compañero, porque pregunta qué se puede hacer",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pregunta abre la posibilidad de buscar una respuesta, y todavía no propone ninguna solución."
+        },
+        {
+          "letter": "C",
+          "text": "En la última palabra de la segunda intervención, porque ahí termina el diálogo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que el diálogo termine no convierte la última palabra en la solución, y la respuesta completa está antes."
+        },
+        {
+          "letter": "D",
+          "text": "En la última intervención del primer compañero, porque ahí propone lo que van a hacer",
+          "is_correct": true,
+          "feedback": "Correcto. Esa intervención contiene la propuesta concreta de ir a la panadería y comprar el pan, que es la solución buscada."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Aplicar lo que se ha leído es ubicar en el texto la parte que responde a lo que se busca. En un diálogo, la intervención que trae la propuesta es la que resuelve el problema, y suele ser la última antes de que otro personaje responda. Enseñar a los niños a señalarla con el dedo les da una técnica útil para cualquier lectura.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-4-2026-W31-el-dialogo-entre-dos-personajes-que-explica-un-problema-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W31-el-dialogo-entre-dos-personajes-que-explica-un-problema-001-MASTERY-bundle-v4",
+      "statement": "Lee esta intervención de un diálogo entre un niño y su hermana.\n\n*\"Yo busqué el cuaderno por toda la casa y, al final, lo encontré debajo de la cama de mi hermana.\"*\n\n¿Qué función cumple la parte de la oración que une las dos ideas?",
+      "context": "En la clase de cuarto de Cúcuta, la profesora trabaja la oración que une las ideas de un diálogo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Separa dos personajes distintos del diálogo y por eso vuelve a nombrar a la hermana",
+          "is_correct": false,
+          "feedback": "Incorrecto. La oración menciona a la hermana como lugar donde estaba el cuaderno, y no está separando personajes."
+        },
+        {
+          "letter": "B",
+          "text": "Une la acción de buscar con el resultado de encontrar, y muestra que una cosa pasó después de la otra",
+          "is_correct": true,
+          "feedback": "Correcto. La expresión introduce el resultado y marca la sucesión, de modo que el lector entiende que el hallazgo vino después de la búsqueda."
+        },
+        {
+          "letter": "C",
+          "text": "Repite la idea principal para darle más énfasis a la respuesta del niño",
+          "is_correct": false,
+          "feedback": "Incorrecto. La oración no repite ninguna idea, y el énfasis no es la función de ese conector."
+        },
+        {
+          "letter": "D",
+          "text": "Convierte la narración en un diálogo, porque agrega palabras del personaje que habla",
+          "is_correct": false,
+          "feedback": "Incorrecto. La intervención ya es un diálogo, y el conector solo une dos partes de la misma oración."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Observar la estructura de una oración es reconocer qué parte une o separa las ideas. Conectores como al final o entonces muestran que una acción terminó y que la otra vino después, y eso hace que el lector siga el orden de los hechos. Reconocer esa función en la lectura mejora la comprensión y también la escritura de los niños.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-4-2026-W31-el-dialogo-entre-dos-personajes-que-explica-un-problema-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W31-el-dialogo-entre-dos-personajes-que-explica-un-problema-001-MASTERY-bundle-v5",
+      "statement": "Lee la intervención de la mamá en este diálogo sobre un trabajo del colegio.\n\n*\"Miren, ese trabajo quedó muy por debajo de lo que yo esperaba. Vuelvan a hacerlo y tráiganlo mañana, porque la próxima ya no les voy a pedir que lo repitan.\"*\n\n¿Qué busca la mamá con la forma en que habla?",
+      "context": "En el aula de cuarto de Pasto, la profesora pide analizar el tono con que un personaje habla.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Avisar que ya no quiere recibir trabajos de los niños, porque así los obliga a dejar la clase",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mamá pide un trabajo nuevo y no dice que haya dejado de recibir trabajos."
+        },
+        {
+          "letter": "B",
+          "text": "Contar que ella hizo ese mismo trabajo de niña, porque lo dice al comienzo",
+          "is_correct": false,
+          "feedback": "Incorrecto. La intervención no menciona ningún trabajo de la infancia de la mamá."
+        },
+        {
+          "letter": "C",
+          "text": "Llamar la atención sobre la calidad del trabajo y dejar clara la consecuencia de no mejorarlo",
+          "is_correct": true,
+          "feedback": "Correcto. La frase inicial señala el problema y la última anuncia que no habrá otra oportunidad, así que avisa y expone la consecuencia."
+        },
+        {
+          "letter": "D",
+          "text": "Enseñar a los niños a escribir trabajos, porque explica con detalle cómo se hace uno",
+          "is_correct": false,
+          "feedback": "Incorrecto. La intervención no enseña a escribir, y solo evalúa un trabajo que ya fue entregado."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Analizar el propósito de un diálogo es preguntarse qué efecto busca la persona con lo que dice, más allá de las palabras exactas. Cuando alguien señala un problema y anuncia una consecuencia, intenta cambiar una conducta concreta. Reconocer esa intención enseña a los niños a entender las conversaciones de su vida diaria.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-4-2026-W31-el-dialogo-entre-dos-personajes-que-explica-un-problema-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W31-el-dialogo-entre-dos-personajes-que-explica-un-problema-001-MASTERY-bundle-v6",
+      "statement": "Lee los dos diálogos que cuentan el mismo problema.\n\n*\"Diálogo 1: \"Se nos cayó la tarea al río. ¿Qué hacemos? Yo le pregunto al profesor si podemos entregarla mañana.\" Diálogo 2: \"Nos preguntaron si la tarea se había perdido. Dijimos que sí. El profesor nos dijo que hiciéramos una foto del texto y lo entregáramos al día siguiente.\"*\n\n¿Qué diferencia en la organización de la conversación se observa entre los dos diálogos?",
+      "context": "En un trabajo en grupo de cuarto de Villavicencio, los estudiantes analizan cómo se organiza una conversación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El diálogo 2 tiene más personajes y por eso explica mejor el problema",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los dos diálogos tienen dos participantes, y esa no es la diferencia de organización."
+        },
+        {
+          "letter": "B",
+          "text": "El diálogo 1 está completo porque incluye la respuesta del profesor",
+          "is_correct": false,
+          "feedback": "Incorrecto. El diálogo 1 termina con la pregunta, y no incluye ninguna respuesta del profesor."
+        },
+        {
+          "letter": "C",
+          "text": "Los dos diálogos cuentan el problema con el mismo orden y solo cambian el lugar donde suceden",
+          "is_correct": false,
+          "feedback": "Incorrecto. El diálogo 1 se detiene en la pregunta y el diálogo 2 llega hasta la respuesta, así que el recorrido es distinto."
+        },
+        {
+          "letter": "D",
+          "text": "El diálogo 1 avanza solo hasta la pregunta, mientras el diálogo 2 llega a la respuesta y a la decisión final",
+          "is_correct": true,
+          "feedback": "Correcto. En el primero la conversación queda abierta y en el segundo se ve cómo se resuelve, y esa es la diferencia de organización."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Analizar la organización de un diálogo es observar si la conversación llega hasta la solución o si queda detenida en el primer intercambio. Comparar dos versiones del mismo hecho ayuda a ver que una puede quedarse a medio camino y otra recorrerlo completo. Esa comparación enseña a los niños a seguir el hilo de cualquier conversación.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LC-4-2026-W31-el-dialogo-entre-dos-personajes-que-explica-un-problema-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W31-el-dialogo-entre-dos-personajes-que-explica-un-problema-001-MASTERY-bundle-v7",
+      "statement": "Un compañero de tu grupo afirma lo siguiente.\n\n*\"Basta con que un personaje diga algo en un diálogo para que eso sea verdad, porque los personajes siempre están diciendo la verdad.\"*\n\n¿Cuál es la respuesta más sólida que puede darle el grupo a esa afirmación?",
+      "context": "En la reunión de aula de un colegio de Neiva, un compañero de tu grupo defiende lo que dice sobre los diálogos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La afirmación es correcta, porque los diálogos se escriben solo con datos comprobados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un diálogo puede tener opiniones y hasta humor, y no todo lo que en él se dice es un dato comprobado."
+        },
+        {
+          "letter": "B",
+          "text": "La afirmación es incorrecta, porque los personajes pueden opinar, equivocarse o querer convencer a alguien",
+          "is_correct": true,
+          "feedback": "Correcto. En una conversación cada quien expresa su manera de ver, y por eso lo que dice uno no siempre describe lo que pasó de verdad."
+        },
+        {
+          "letter": "C",
+          "text": "La afirmación es incorrecta, porque los diálogos no sirven para explicar problemas de la vida real",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los diálogos explican problemas cotidianos, y esa es justamente la razón por la que se leen en clase."
+        },
+        {
+          "letter": "D",
+          "text": "La afirmación es incorrecta, porque solo los adultos pueden escribir diálogos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los niños también pueden escribir diálogos, y esa limitación no existe."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar una afirmación sobre los diálogos es ponerla a prueba y no aceptar que las palabras de un personaje sean siempre verdaderas. Un personaje puede opinar, puede equivocarse y puede intentar convencer al otro, y el lector tiene que notar esas tres cosas. Esta costumbre de poner en duda a los personajes es la base para leer con criterio cualquier texto.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LC-4-2026-W31-el-dialogo-entre-dos-personajes-que-explica-un-problema-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W31-el-dialogo-entre-dos-personajes-que-explica-un-problema-001-MASTERY-bundle-v8",
+      "statement": "Los cuatro grupos redactaron el diálogo de una situación en la que se perdió una mascota.\n\n*\"Grupo 1: \"La perrita salió sola y nadie la vio, así que no hay forma de saber nada\". Grupo 2: \"Mi hermana abrió la ventana porque la perrita ya iba a caerse, y mi mamá la recogió con una cobija\". Grupo 3: \"La perrita se perdió porque la dueña no la cuidó, y por eso todos en el barrio lo saben\". Grupo 4: \"La perrita se escapó por la puerta del patio, los vecinos la vieron cruzar hacia la calle y mi tía fue a buscarla; la encontró en la esquina y la trajo de vuelta\".\"*\n\n¿Cuál de las cuatro versiones es la más sólida como diálogo que explica un problema?",
+      "context": "Como tarea final, los grupos de cuarto de Bogotá deben escribir el diálogo de una situación problema usando la estructura de un diálogo que ya leyeron.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La del grupo 1, porque termina rápido y por eso resulta más fácil de leer",
+          "is_correct": false,
+          "feedback": "Incorrecto. El grupo 1 no resuelve el problema y además afirma que no hay forma de saber nada, así que deja la historia sin explicación."
+        },
+        {
+          "letter": "B",
+          "text": "La del grupo 2, porque menciona a la mamá y eso le da autoridad al relato",
+          "is_correct": false,
+          "feedback": "Incorrecto. Nombrar a un adulto no garantiza nada, y esa versión además no cuenta cómo la dueña supo que la perrita iba a caerse."
+        },
+        {
+          "letter": "C",
+          "text": "La del grupo 3, porque explica la causa del problema y por eso cierra bien la historia",
+          "is_correct": false,
+          "feedback": "Incorrecto. El grupo 3 solo culpa a la dueña y no cuenta qué pasó después, así que la historia queda sin resolver."
+        },
+        {
+          "letter": "D",
+          "text": "La del grupo 4, porque cuenta la salida, la búsqueda y el final con datos que el lector puede comprobar",
+          "is_correct": true,
+          "feedback": "Correcto. Esa versión sigue el problema hasta su solución y entrega detalles concretos que otro lector podría verificar."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Comparar cuatro versiones del mismo problema enseña qué tiene que tener un diálogo para ser sólido. Debe mostrar quién habla, presentar el problema y llegar hasta la solución con datos que el lector pueda comprobar. Practicar estos criterios les permite a los niños escribir relatos propios con honestitud y sin inventar datos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-4-2026-W31-el-dialogo-entre-dos-personajes-que-explica-un-problema-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    }
+  ]
+}
