@@ -8,44 +8,44 @@
   },
   "questions": [
     {
-      "id": "CO-LC-3-2026-W30-los-verbos-en-presente-001-MASTERY-bundle-v1",
-      "statement": "En el Texto 1, ¿qué recibe cada niño para hacer la actividad \"cartel de lo que hacemos\"?",
-      "context": "Los niños de tercero de Pereira reciben los materiales para el cartel de la semana en el salón de clases.",
+      "id": "CO-LC-3-2026-W30-ordenar-hechos-en-un-relato-001-MASTERY-bundle-v1",
+      "statement": "En el Texto 1, ¿qué hizo Ana antes de salir de su casa en bicicleta?",
+      "context": "En la sala 3A de Medellín los niños leen el Texto 1 siguiendo la secuencia con el dedo.",
       "options": [
         {
           "letter": "A",
-          "text": "Una cartulina y un marcador que cuesta $3.500.",
-          "is_correct": true,
-          "feedback": "Correcto. El texto dice que cada niño recibe una cartulina y un marcador que cuesta $3.500."
+          "text": "Lavó los platos después de ayudar a preparar el almuerzo.",
+          "is_correct": false,
+          "feedback": "Error. Lavar los platos es el último hecho del relato, mucho posterior a la salida en bicicleta."
         },
         {
           "letter": "B",
-          "text": "Un libro de lectura y un cuaderno nuevo.",
+          "text": "Compró tres tomates, media libra de papa y una bolsa de nueces.",
           "is_correct": false,
-          "feedback": "El texto nunca menciona un libro como material de la actividad, aunque Camila sí lee en la biblioteca."
+          "feedback": "Error. Esa compra ocurre en el mercado, es decir después de que Ana salió de su casa y recorrió el camino en bicicleta."
         },
         {
           "letter": "C",
-          "text": "Una tabla de multiplicar y una regla de 30 centímetros.",
-          "is_correct": false,
-          "feedback": "Esos materiales no aparecen en el Texto 1, que solo nombra la cartulina y el marcador."
+          "text": "Bajó a la cocina, tomó un jugo de mango y guardó dos arepas en una bolsa de tela.",
+          "is_correct": true,
+          "feedback": "Correcto. El Texto 1 cuenta que Ana bajó a la cocina, tomó el jugo y guardó las arepas antes de salir en bicicleta."
         },
         {
           "letter": "D",
-          "text": "Un afiche grande y un pincel con pintura.",
+          "text": "Frenó de golpe porque un perro se le cruzó frente a la bicicleta.",
           "is_correct": false,
-          "feedback": "La actividad se hace con dibujos hechos a marcador, no con pincel ni con afiches grandes."
+          "feedback": "Error. Ese freno ocurre al salir del mercado, de modo que es posterior a la salida y al viaje."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "En esta pregunta el estudiante ubica un dato explícito dentro del texto, que es el primer nivel de comprensión lectora.\nReconocer nombres de objetos y precios exactos enseña a leer con atención y a volver al texto cuando no se entiende algo.\nEste ejercicio prepara la mente del niño para después analizar los verbos, porque si no ubica los datos, no podrá razonar sobre la acción que estos cuentan.",
+      "correct_answer": "C",
+      "explanation": "Reconocer qué ocurre primero es la base para ordenar cualquier relato. En tercero el estudiante aprende que el texto cuenta los hechos en un orden fijo, y que ese orden se apoya en expresiones como \"la mañana\", \"antes de salir\" o \"a las siete\". Entrenar la lectura cronológica evita que el niño responda por lo que le parece más importante en lugar de por lo que ocurrió antes.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
       "icfes_type": "Textual",
       "expected_success": 0.9,
-      "bundle_id": "CO-LC-3-2026-W30-los-verbos-en-presente-001-MASTERY-bundle",
+      "bundle_id": "CO-LC-3-2026-W30-ordenar-hechos-en-un-relato-001-MASTERY-bundle",
       "periodo": 30,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -54,44 +54,44 @@
       "country": "co"
     },
     {
-      "id": "CO-LC-3-2026-W30-los-verbos-en-presente-001-MASTERY-bundle-v2",
-      "statement": "En el Texto 2, ¿qué tipos de hechos cuentan los verbos en presente?",
-      "context": "La profesora Elena lee en voz alta la explicación de los verbos en presente a todo el salón de tercero.",
+      "id": "CO-LC-3-2026-W30-ordenar-hechos-en-un-relato-001-MASTERY-bundle-v2",
+      "statement": "Según el Texto 2, ¿qué diferencia hay entre la palabra \"luego\" y la palabra \"por fin\"?",
+      "context": "La profesora escribe en el tablero las palabras \"luego\" y \"por fin\" y pide que las expliquen con sus propias palabras.",
       "options": [
         {
           "letter": "A",
-          "text": "Los hechos que ya terminaron hace muchos años.",
+          "text": "\"Luego\" marca el primer hecho y \"por fin\" marca un hecho cualquiera.",
           "is_correct": false,
-          "feedback": "Esa es la función del pasado; el presente cuenta lo que pasa ahora o lo que se repite."
+          "feedback": "Error. Al revés de lo que dice el texto: \"luego\" une un hecho con el que sigue y \"por fin\" señala el último hecho."
         },
         {
           "letter": "B",
-          "text": "Las cosas que van a pasar el próximo mes.",
-          "is_correct": false,
-          "feedback": "Eso corresponde al futuro, y el Texto 2 no menciona el futuro como tema de la semana."
+          "text": "\"Luego\" conecta un hecho con el que viene después, mientras que \"por fin\" señala el último hecho.",
+          "is_correct": true,
+          "feedback": "Correcto. El Texto 2 explica que \"luego\" y \"después\" unen un hecho con el siguiente, y que \"por fin\" y \"al final\" señalan el último hecho."
         },
         {
           "letter": "C",
-          "text": "Los hechos que están pasando ahora o los que son costumbre.",
-          "is_correct": true,
-          "feedback": "Correcto. El texto dice que el presente cuenta hechos que están ocurriendo ahora mismo o que son costumbre."
+          "text": "Las dos palabras indican que un hecho ocurre al mismo tiempo que otro.",
+          "is_correct": false,
+          "feedback": "Error. Ninguna de las dos marca simultaneidad: \"luego\" y \"por fin\" construyen una secuencia, una cosa después de otra."
         },
         {
           "letter": "D",
-          "text": "Las órdenes que da la profesora en el salón.",
+          "text": "\"Luego\" se usa solo en relatos de animales y \"por fin\" solo en descripciones.",
           "is_correct": false,
-          "feedback": "Las órdenes son otra cosa; el Texto 2 explica el significado del tiempo verbal, no órdenes."
+          "feedback": "Error. El texto no hace esa distinción de género narrativo; las dos palabras sirven para ordenar el tiempo dentro del relato."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Comprender el significado de una palabra dentro de un texto es un salto importante frente a solo leer en voz alta.\nCuando el niño entiende qué cuenta el verbo en presente, puede relacionar la idea con lo que él vive todos los días.\nEsta comprensión semántica es la base para usar bien el tiempo verbal al escribir, que es el objetivo de la semana.",
+      "correct_answer": "B",
+      "explanation": "Comprender la función de los conectores de tiempo es lo que permite ordenar los hechos sin ayuda del dibujo. El Texto 2 muestra que estas palabras no son adornos: son señales que le avisan al lector en qué momento ocurre cada cosa. Cuando el estudiante las reconoce, puede reconstruir la secuencia aunque el relato cambie de tema o de personaje.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
       "icfes_type": "Semántico",
       "expected_success": 0.88,
-      "bundle_id": "CO-LC-3-2026-W30-los-verbos-en-presente-001-MASTERY-bundle",
+      "bundle_id": "CO-LC-3-2026-W30-ordenar-hechos-en-un-relato-001-MASTERY-bundle",
       "periodo": 30,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -100,90 +100,44 @@
       "country": "co"
     },
     {
-      "id": "CO-LC-3-2026-W30-los-verbos-en-presente-001-MASTERY-bundle-v3",
-      "statement": "En el Texto 1, Daniel dice que sus compañeros hablan todos los días en el patio y la profesora contesta que eso es una costumbre. ¿Qué nos enseña ese ejemplo sobre los verbos en presente?",
-      "context": "Daniel responde en el salón de Pereira sobre lo que hacen sus compañeros durante el recreo.",
+      "id": "CO-LC-3-2026-W30-ordenar-hechos-en-un-relato-001-MASTERY-bundle-v3",
+      "statement": "¿Qué hecho del Texto 1 ocurre al final del relato?",
+      "context": "Los estudiantes de Bogotá reciben tarjetas sueltas con los hechos del Texto 1 y las colocan sobre el escritorio.",
       "options": [
         {
           "letter": "A",
-          "text": "Que los verbos en presente solo sirven para contar hechos que ya pasaron.",
+          "text": "Ana besó a su mamá cuando se levantó.",
           "is_correct": false,
-          "feedback": "Si solo contaran el pasado, la profesora no habría llamado costumbre a lo que ocurre cada día."
+          "feedback": "Error. Ese beso es el primer hecho de la mañana, de modo que queda al comienzo y no al final."
         },
         {
           "letter": "B",
-          "text": "Que también cuentan hechos que se repiten, como una costumbre diaria.",
-          "is_correct": true,
-          "feedback": "Correcto. Un hecho que pasa todos los días sigue en presente porque la costumbre continúa."
+          "text": "Ana y Julián llegaron al mercado de la plaza.",
+          "is_correct": false,
+          "feedback": "Error. Llegar al mercado ocurre a mitad del camino: es anterior tanto a la compra como al regreso a la casa."
         },
         {
           "letter": "C",
-          "text": "Que la profesora quiere cambiar de tema para no seguir con la actividad.",
+          "text": "Un perro pequeño se le cruzó por delante de la bicicleta.",
           "is_correct": false,
-          "feedback": "No hay nada en el texto que indique eso; la profesora aprovecha la respuesta de Daniel para explicar."
+          "feedback": "Error. Ese susto ocurre al salir del mercado, antes del almuerzo y de las tareas de la casa."
         },
         {
           "letter": "D",
-          "text": "Que los niños deben copiar la palabra \"hablan\" sin entenderla.",
-          "is_correct": false,
-          "feedback": "Copiar sin explicar no es la estrategia; la profesora pide conversar sobre lo que hacen cada día."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "El estudiante debe deducir una regla gramatical a partir de un ejemplo concreto, y no solamente repetir lo que el texto dice.\nReconocer que una costumbre está en presente porque sigue siendo verdad ayuda a reforzar el concepto de tiempo verbal.\nEsta habilidad inferencial se transfiere a todas las lecturas, porque casi ningún texto enuncia sus propias reglas.",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Inferencial",
-      "expected_success": 0.8,
-      "bundle_id": "CO-LC-3-2026-W30-los-verbos-en-presente-001-MASTERY-bundle",
-      "periodo": 30,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lectura_critica",
-      "grade": 3,
-      "country": "co"
-    },
-    {
-      "id": "CO-LC-3-2026-W30-los-verbos-en-presente-001-MASTERY-bundle-v4",
-      "statement": "Camila escribe la oración \"Nosotros ___ en la casa de la abuela\". Según el Texto 2, ¿qué verbo debe escribir y por qué?",
-      "context": "Camila completa una oración en el cuaderno usando la tabla de formas del Texto 2.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "comes, porque la oración habla de una sola persona.",
-          "is_correct": false,
-          "feedback": "La forma en -es es para \"tú\"; si la oración dice \"nosotros\", no puede ser la forma de una sola persona."
-        },
-        {
-          "letter": "B",
-          "text": "comen, porque termina en -en.",
-          "is_correct": false,
-          "feedback": "La forma en -en corresponde a \"ellos\", no a \"nosotros\", que usa la terminación -emos."
-        },
-        {
-          "letter": "C",
-          "text": "comieron, porque la acción ya terminó.",
-          "is_correct": false,
-          "feedback": "El pasado ya se estudió en la semana W23, y aquí la acción está ocurriendo ahora, no antes."
-        },
-        {
-          "letter": "D",
-          "text": "comemos, porque la forma de \"nosotros\" termina en -emos.",
+          "text": "Ana fue a jugar al parque de la esquina después de lavar los platos.",
           "is_correct": true,
-          "feedback": "Correcto. El Texto 2 dice que nosotros comemos, con la terminación -emos."
+          "feedback": "Correcto. El último hecho del Texto 1 es que Ana, ya con el almuerzo servido y los platos lavados, fue a jugar al parque."
         }
       ],
       "correct_answer": "D",
-      "explanation": "Elegir la forma correcta del verbo según quién realiza la acción es un ejercicio de concordancia, la base de la gramática.\nCuando el niño entiende que cambiar de persona cambia la terminación, puede construir oraciones propias sin equivocarse.\nPracticar esto en oraciones cortas facilita después la lectura de textos más largos con muchos personajes.",
-      "difficulty": "6",
+      "explanation": "Identificar el hecho final entrena la misma habilidad que identificar el primero, pero con la secuencia completa. El estudiante que reconoce dónde termina el relato ya entendió que los cuatro hechos del Texto 1 están unidos y que ninguno puede quitarse sin romper el cuento. Es el paso previo para resumir, porque un resumen siempre conserva el principio y el final.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Sintáctico",
-      "expected_success": 0.78,
-      "bundle_id": "CO-LC-3-2026-W30-los-verbos-en-presente-001-MASTERY-bundle",
+      "bloom": "Understand",
+      "icfes_type": "Textual",
+      "expected_success": 0.86,
+      "bundle_id": "CO-LC-3-2026-W30-ordenar-hechos-en-un-relato-001-MASTERY-bundle",
       "periodo": 30,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -192,44 +146,44 @@
       "country": "co"
     },
     {
-      "id": "CO-LC-3-2026-W30-los-verbos-en-presente-001-MASTERY-bundle-v5",
-      "statement": "Los niños quieren escribir en la cartelera \"lo que hacemos en la escuela cada día\". ¿Qué grupo de palabras les sirve mejor para esa cartelera?",
-      "context": "La cartelera del salón debe informar qué hacen los estudiantes de tercero cada día en la escuela.",
+      "id": "CO-LC-3-2026-W30-ordenar-hechos-en-un-relato-001-MASTERY-bundle-v4",
+      "statement": "Cuatro tarjetas dicen: (1) \"El pescador sacó el pez del agua\". (2) \"El pescador llegó al río al amanecer\". (3) \"El pescador volvió a su casa con el pez\". (4) \"El pescador preparó la sopa para la familia\". ¿Cuál es el orden correcto?",
+      "context": "En el salón hay cuatro tarjetas con cuatro hechos de un cuento de un pescador y el niño debe armar la secuencia.",
       "options": [
         {
           "letter": "A",
-          "text": "Los verbos en presente, porque cuentan lo que hacen ahora y lo que hacen siempre.",
-          "is_correct": true,
-          "feedback": "Correcto. La cartelera describe hechos que ocurren a diario, así que necesita verbos en presente."
+          "text": "2, 4, 1, 3.",
+          "is_correct": false,
+          "feedback": "Error. Intercambia la preparación de la sopa con la pesca, pero la sopa se hace con el pez que todavía no se había capturado."
         },
         {
           "letter": "B",
-          "text": "Los verbos en pasado, porque cuentan lo que hicieron el año pasado.",
+          "text": "1, 2, 3, 4.",
           "is_correct": false,
-          "feedback": "El pasado sirve para hechos ya terminados, y la cartelera habla de lo que se repite cada día."
+          "feedback": "Error. Coloca la llegada al río después de sacar el pez, cuando no era posible tener el pez antes de llegar al río."
         },
         {
           "letter": "C",
-          "text": "Los sustantivos, porque nombran los objetos del salón.",
-          "is_correct": false,
-          "feedback": "Los sustantivos nombran, pero no cuentan acciones; la cartelera necesita decir qué hacen."
+          "text": "2, 1, 3, 4.",
+          "is_correct": true,
+          "feedback": "Correcto. Primero llega al río, después saca el pez, luego lleva el pez a la casa y por último prepara la sopa."
         },
         {
           "letter": "D",
-          "text": "Los adjetivos, porque describen cómo se ven las cartulinas.",
+          "text": "3, 1, 2, 4.",
           "is_correct": false,
-          "feedback": "Los adjetivos describen características, no acciones, así que no explican lo que hacen los niños."
+          "feedback": "Error. Pone el regreso a la casa como primer hecho, cuando el pescador solo podía regresar con el pez después de pescarlo."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Entender para qué sirve un texto según su lugar y su destinatario es una habilidad de lectura funcional.\nEl niño conecta el contenido con la intención comunicativa y usa el tiempo verbal adecuado para cada caso.\nEste uso práctico del presente prepara al estudiante para redactar avisos, carteles e informes, textos muy comunes en la vida diaria.",
+      "correct_answer": "C",
+      "explanation": "Ordenar tarjetas es una actividad que convierte la secuencia en algo que el niño construye con las manos. El razonamiento que se activa es de causa: no se puede preparar la sopa sin el pez, y no se puede volver a la casa con el pez sin haberlo sacado del agua. Esa lógica de dependencias explica por qué una tarjeta no puede colocarse antes que la que la hace posible.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
       "icfes_type": "Pragmático",
-      "expected_success": 0.75,
-      "bundle_id": "CO-LC-3-2026-W30-los-verbos-en-presente-001-MASTERY-bundle",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LC-3-2026-W30-ordenar-hechos-en-un-relato-001-MASTERY-bundle",
       "periodo": 30,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -238,44 +192,136 @@
       "country": "co"
     },
     {
-      "id": "CO-LC-3-2026-W30-los-verbos-en-presente-001-MASTERY-bundle-v6",
-      "statement": "¿De qué manera el Texto 2 se relaciona con el Texto 1 dentro de esta semana de trabajo?",
-      "context": "La profesora Elena proyecta los dos textos de la semana y pide comparar su relación.",
+      "id": "CO-LC-3-2026-W30-ordenar-hechos-en-un-relato-001-MASTERY-bundle-v5",
+      "statement": "Un relato dice: \"Diego abrió la puerta de la casa. Salió a la calle. Cerró la puerta detrás de él. Caminó hasta el parque. Cuando llegó, vio a sus amigos.\" ¿Qué palabra de tiempo debería aparecer al inicio para que el lector sepa que el texto comienza en ese momento?",
+      "context": "La profesora dicta un relato sin conectores de tiempo para que los estudiantes descubran las pistas que lo ordenan.",
       "options": [
         {
           "letter": "A",
-          "text": "El Texto 2 cuenta otra historia que sucede en Pereira.",
-          "is_correct": false,
-          "feedback": "El Texto 2 es una explicación del tiempo verbal, no una narración con personajes ni lugares."
+          "text": "\"Una vez\".",
+          "is_correct": true,
+          "feedback": "Correcto. \"Una vez\" es la fórmula que abre un relato y le avisa al lector que los hechos que siguen son el comienzo de la historia."
         },
         {
           "letter": "B",
-          "text": "El Texto 2 enumera los nombres de todos los niños del salón.",
+          "text": "\"Por fin\".",
           "is_correct": false,
-          "feedback": "Los nombres de Daniel, Camila y la profesora Elena aparecen en el Texto 1, no en el Texto 2."
+          "feedback": "Error. \"Por fin\" señala la culminación, de modo que pondría el inicio del relato en el lugar equivocado."
         },
         {
           "letter": "C",
-          "text": "El Texto 2 explica la idea que el Texto 1 muestra con ejemplos como \"hablan\" y \"escriben\".",
-          "is_correct": true,
-          "feedback": "Correcto. El Texto 2 explica la regla y el Texto 1 la pone en escena con verbos reales."
+          "text": "\"Al final\".",
+          "is_correct": false,
+          "feedback": "Error. \"Al final\" marca el último hecho del relato, y aquí se está indicando el comienzo."
         },
         {
           "letter": "D",
-          "text": "El Texto 2 dice cuánto cuestan los marcadores de la actividad.",
+          "text": "\"De repente\".",
           "is_correct": false,
-          "feedback": "El precio de $3.500 aparece en el Texto 1, porque el Texto 2 no habla de materiales ni de precios."
+          "feedback": "Error. \"De repente\" marca un cambio inesperado dentro de la historia, no el arranque de la historia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Completar un relato con el conector que le falta es una aplicación directa de lo aprendido sobre las llaves del tiempo. El estudiante debe elegir la palabra según el puesto que ocupa el hecho, no porque suene bonita. Esta práctica los prepara para escribir: un relato escrito por ellos también necesita marcas de tiempo que guíen al lector.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-3-2026-W30-ordenar-hechos-en-un-relato-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W30-ordenar-hechos-en-un-relato-001-MASTERY-bundle-v6",
+      "statement": "Un relato no tiene palabras como \"luego\" ni \"después\". Según el Texto 2, ¿qué puede usar el escritor para ordenar los hechos en ese caso?",
+      "context": "En el grado 3A los niños leen el Texto 2 y marcan las palabras que, además de ordenar, dan pistas sobre el momento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El número de páginas del libro, porque cada página es un momento.",
+          "is_correct": false,
+          "feedback": "Error. La cantidad de páginas no dice nada sobre el orden de los hechos; solo señala el avance dentro del libro."
+        },
+        {
+          "letter": "B",
+          "text": "Otras pistas, como el momento del día o lo que el personaje ya tenía en las manos.",
+          "is_correct": true,
+          "feedback": "Correcto. El Texto 2 explica que, si el texto no trae las marcas de tiempo, hay que fijarse en pistas como el momento del día, la estación del año o lo que el personaje ya llevaba."
+        },
+        {
+          "letter": "C",
+          "text": "El nombre del autor, porque todos los relatos de un autor tienen el mismo orden.",
+          "is_correct": false,
+          "feedback": "Error. El autor no aporta información sobre el momento en que ocurre cada hecho de un relato."
+        },
+        {
+          "letter": "D",
+          "text": "Nada: sin las palabras de tiempo, el orden de los hechos queda escondido para siempre.",
+          "is_correct": false,
+          "feedback": "Error. El Texto 2 deja claro que siempre hay pistas: los conectores o los datos del momento y de las acciones del personaje."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Este ejercicio amplía la estrategia de lectura: el orden no depende de una palabra clave, sino de un conjunto de pistas. Cuando el conector falta, el lector puede apoyarse en el contexto, en lo que el personaje ya tenía y en el momento del día. Este tipo de razonamiento es la diferencia entre un lector que sigue el texto y uno que solo lo descifra palabra por palabra.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-3-2026-W30-ordenar-hechos-en-un-relato-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W30-ordenar-hechos-en-un-relato-001-MASTERY-bundle-v7",
+      "statement": "Un niño cuenta el Texto 1 de esta manera: \"Ana fue a jugar al parque. Antes había comprado tomates en el mercado. Mucho antes se había levantado y había tomado jugo. Al final volvió en bicicleta con Julián.\" ¿Por qué ese resumen no está bien construido?",
+      "context": "En clase de lectura los estudiantes de tercero revisan por qué un resumen no puede alterar el orden de los hechos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el resumen repite la palabra \"juego\" y eso vuelve confuso el relato.",
+          "is_correct": false,
+          "feedback": "Error. El problema no es la repetición de una palabra, sino que el niño invierte por completo la secuencia de los hechos del texto."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el resumen cuenta cuatro hechos, y un resumen de grado 3 debe contar más de cinco.",
+          "is_correct": false,
+          "feedback": "Error. El número de hechos no es lo que falla; el fallo es alterar el orden cronológico, que es lo que sí rompe el relato."
+        },
+        {
+          "letter": "C",
+          "text": "Porque invierte el orden de los hechos, ya que en el Texto 1 el juego en el parque ocurre al final y no al principio.",
+          "is_correct": true,
+          "feedback": "Correcto. En el Texto 1 Ana primero se levantó, después salió al mercado, luego volvió a la casa y al final fue al parque; el niño coloca el último hecho de primero."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el resumen menciona a Julián, y el resumen solo puede hablar de la protagonista.",
+          "is_correct": false,
+          "feedback": "Error. Nombrar a un personaje secundario no invalida un resumen; lo que no se puede es cambiar el orden de los hechos."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Analizar es ver cómo se conectan las partes de una lectura, no solo qué dice cada parte por separado.\nUn texto explicativo y un texto dramatizado cumplen funciones diferentes, y reconocerlo ayuda a ordenar la información.\nQuien entiende esta relación lee mejor cualquier material escolar, porque ya sabe qué esperar de cada tipo de texto.",
+      "explanation": "Analizar por qué un resumen está mal armado enseña que el orden es parte del significado. Si los hechos se invierten, cambia la historia: un cuento puede dejar de tener sentido cuando se cuentan sus partes al revés. Por eso el lector crítico no solo pregunta qué pasó, sino en qué momento pasó, y el resumen debe conservar esa secuencia original.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
       "icfes_type": "Discursivo",
-      "expected_success": 0.74,
-      "bundle_id": "CO-LC-3-2026-W30-los-verbos-en-presente-001-MASTERY-bundle",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-3-2026-W30-ordenar-hechos-en-un-relato-001-MASTERY-bundle",
       "periodo": 30,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -284,90 +330,44 @@
       "country": "co"
     },
     {
-      "id": "CO-LC-3-2026-W30-los-verbos-en-presente-001-MASTERY-bundle-v7",
-      "statement": "Un compañero escribió la oración \"Ayer leo un libro en la biblioteca\". ¿Cuál es el problema de esa oración y cómo debe corregirse?",
-      "context": "Un estudiante de tercero entrega su tarea escrita con un error en el tiempo del verbo.",
+      "id": "CO-LC-3-2026-W30-ordenar-hechos-en-un-relato-001-MASTERY-bundle-v8",
+      "statement": "Un autor escribe un relato con los hechos en orden y otro autor escribe el mismo relato pero coloca el final antes del principio. ¿Por qué se considera mejor la primera versión?",
+      "context": "La profesora de tercero propone comparar dos versiones del mismo relato para ver qué versión respeta mejor el orden.",
       "options": [
         {
           "letter": "A",
-          "text": "No tiene problema, porque el verbo \"leer\" es igual en todos los tiempos.",
-          "is_correct": false,
-          "feedback": "El verbo sí cambia de forma, como muestra el Texto 2 con \"como\", \"comes\" y \"comen\"."
+          "text": "Porque respeta el orden en que ocurrieron los hechos y así el lector puede comprender la historia con claridad.",
+          "is_correct": true,
+          "feedback": "Correcto. La primera versión mantiene la secuencia real de los hechos, de modo que el lector entiende qué causó qué y sigue la historia sin problemas."
         },
         {
           "letter": "B",
-          "text": "Usa el presente para contar algo que ya terminó y debe decir \"Ayer leí un libro\".",
-          "is_correct": true,
-          "feedback": "Correcto. \"Ayer\" ya pasó, así que el verbo va en pasado: leí, no leo."
+          "text": "Porque tiene más palabras y eso hace que el relato sea mejor.",
+          "is_correct": false,
+          "feedback": "Error. La extensión no determina la calidad de un relato; lo importante aquí es el orden, no la cantidad de texto."
         },
         {
           "letter": "C",
-          "text": "Le sobra la palabra \"ayer\" y la oración queda bien sin ella.",
+          "text": "Porque el lector puede inventar el final que quiera al final del relato.",
           "is_correct": false,
-          "feedback": "Quitar \"ayer\" no arregla el error, porque el verbo en presente seguiría contando algo terminado."
+          "feedback": "Error. Un buen relato no depende de que el lector invente el final, sino de que los hechos estén ordenados y se comprendan."
         },
         {
           "letter": "D",
-          "text": "Debe cambiar \"leer\" por una forma de futuro para sonar más formal.",
+          "text": "Porque el orden correcto permite leer el relato por la mitad y entenderlo igual.",
           "is_correct": false,
-          "feedback": "El futuro tampoco corresponde, porque la acción ya ocurrió y lo que se necesita es el pasado."
+          "feedback": "Error. Aunque leer un fragmento puede ayudar, la calidad del relato no depende de eso sino de que la secuencia temporal sea coherente."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Valorar una oración implica juzgar si el tiempo verbal concuerda con la marca de tiempo que da el enunciado.\nEsta es la diferencia central de la semana: el mismo verbo cambia de forma para contar lo que ya terminó o lo que ocurre ahora.\nDetectar el error en un texto ajeno enseña a revisar la propia escritura, un hábito que acompaña a los lectores de todo el país.",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Evaluativo",
-      "expected_success": 0.72,
-      "bundle_id": "CO-LC-3-2026-W30-los-verbos-en-presente-001-MASTERY-bundle",
-      "periodo": 30,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lectura_critica",
-      "grade": 3,
-      "country": "co"
-    },
-    {
-      "id": "CO-LC-3-2026-W30-los-verbos-en-presente-001-MASTERY-bundle-v8",
-      "statement": "¿Qué relación hay entre el Texto 2 de esta semana y el texto de la semana W23 sobre los verbos en pasado?",
-      "context": "La profesora pega en la cartelera el texto de la semana W23 sobre los verbos en pasado.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Los dos textos usan solamente el presente, así que cuentan exactamente lo mismo.",
-          "is_correct": false,
-          "feedback": "El texto de W23 trata del pasado, por eso se diferencia de este Texto 2 que trata del presente."
-        },
-        {
-          "letter": "B",
-          "text": "El texto de W23 no habla de verbos, sino de la vida de los animales.",
-          "is_correct": false,
-          "feedback": "El texto de W23 explica los verbos en pasado, no la vida de los animales."
-        },
-        {
-          "letter": "C",
-          "text": "El Texto 2 sirve para escribir cuentos de animales con mucha acción.",
-          "is_correct": false,
-          "feedback": "El Texto 2 no propone ningún tipo de cuento; su propósito es explicar el tiempo verbal."
-        },
-        {
-          "letter": "D",
-          "text": "Los dos usan el mismo verbo \"comer\", pero cambian el tiempo para decir si la acción ya terminó o si ocurre ahora.",
-          "is_correct": true,
-          "feedback": "Correcto. El presente y el pasado comparten el verbo y se distinguen por el momento en que situan la acción."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "Comparar dos textos de semanas diferentes permite ver cómo se agranda el conocimiento y no se pierde lo aprendido.\nEl niño reconoce que el pasado no se reemplaza, sino que se complementa con el presente para ubicar cada hecho en su momento.\nEsta mirada de conjunto sobre los tiempos verbales le permite al estudiante seleccionar el verbo adecuado en cualquier escrito propio.",
+      "correct_answer": "A",
+      "explanation": "Evaluar una versión de un texto obliga a justificar con un criterio propio por qué una es mejor que otra. Aquí el criterio es la claridad: el orden de los hechos es lo que permite que el lector siga el relato y relacione causas y consecuencias. Con esta pregunta el estudiante ya no solo ordena tarjetas, sino que razona sobre la estructura de los textos.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Crítico-Intertextual",
-      "expected_success": 0.7,
-      "bundle_id": "CO-LC-3-2026-W30-los-verbos-en-presente-001-MASTERY-bundle",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-3-2026-W30-ordenar-hechos-en-un-relato-001-MASTERY-bundle",
       "periodo": 30,
       "protocol_version": "5.2",
       "cefr_level": null,

@@ -8,44 +8,44 @@
   },
   "questions": [
     {
-      "id": "CO-LC-3-2026-W27-los-adverbios-de-tiempo-001-MASTERY-bundle-v1",
-      "statement": "Según el Texto 2, ¿qué son los adverbios de tiempo?",
-      "context": "En el salón 3B de Manizales, la profesora Diana pasa por las filas preguntando qué aprendieron hoy.",
+      "id": "CO-LC-3-2026-W27-resumen-de-un-cuento-001-MASTERY-bundle-v1",
+      "statement": "Según el Texto 1, ¿de qué barrio de Bogotá es Mateo?",
+      "context": "La profesora Carolina pide a la sala 3B que abran el cuaderno en la página del resumen.",
       "options": [
         {
           "letter": "A",
-          "text": "Son las palabras que indican cuándo ocurre lo que se narra.",
+          "text": "Del barrio La América.",
           "is_correct": true,
-          "feedback": "El Texto 2 los define así: palabras que dicen el momento en que sucede un hecho, como antes, después o nunca."
+          "feedback": "Correcto. La primera oración del Texto 1 dice que Mateo vivía en el barrio La América de Bogotá."
         },
         {
           "letter": "B",
-          "text": "Son las palabras que indican dónde está algo, como cerca o debajo.",
+          "text": "Del barrio La Candelaria.",
           "is_correct": false,
-          "feedback": "Esas palabras dicen lugar, no tiempo; un adverbio de tiempo responde a la pregunta \"¿cuándo?\"."
+          "feedback": "Error. El texto menciona el barrio La América; La Candelaria no aparece en ningún momento del relato."
         },
         {
           "letter": "C",
-          "text": "Son las palabras que indican cuántas cosas hay, como tres oraciones o dos grupos.",
+          "text": "Del barrio Santa Fe.",
           "is_correct": false,
-          "feedback": "Cuando esas palabras acompañan a un sustantivo y sirven para contar, expresan cantidad y no momento."
+          "feedback": "Error. Ninguna oración nombra el barrio Santa Fe, de modo que esa opción no tiene apoyo en el texto."
         },
         {
           "letter": "D",
-          "text": "Son las palabras que indican quién hizo la acción, como Camila o Julián.",
+          "text": "Del barrio Usaquén.",
           "is_correct": false,
-          "feedback": "Esos son nombres propios de personas; un adverbio de tiempo no señala quién actúa, sino cuándo ocurre."
+          "feedback": "Error. El barrio que aparece escrito en el Texto 1 es La América, no Usaquén."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Recordar la definición es el primer paso para reconocer estas palabras en cualquier lectura. Un niño de tercero puede memorizar una pregunta guía muy simple: si la palabra responde a \"¿cuándo?\", es un adverbio de tiempo. Esa pregunta corta resuelve casi todos los casos y sirve también para reescribir las oraciones que él mismo escribe.",
+      "explanation": "Localizar un dato explícito es la habilidad base de la lectura en tercero. Antes de resumir, el estudiante debe comprobar que entendió bien los nombres y los lugares del texto. Volver al párrafo para confirmar un dato evita que el resumen se construya sobre información equivocada.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Semántico",
+      "icfes_type": "Textual",
       "expected_success": 0.9,
-      "bundle_id": "CO-LC-3-2026-W27-los-adverbios-de-tiempo-001-MASTERY-bundle",
+      "bundle_id": "CO-LC-3-2026-W27-resumen-de-un-cuento-001-MASTERY-bundle",
       "periodo": 27,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -54,44 +54,44 @@
       "country": "co"
     },
     {
-      "id": "CO-LC-3-2026-W27-los-adverbios-de-tiempo-001-MASTERY-bundle-v2",
-      "statement": "En el Texto 1, el grupo de Julián Ramírez \"siempre terminaba con la pareja de la fila siete\". ¿Qué significa esa palabra \"siempre\" dentro de esa oración?",
-      "context": "En Manizales, la profesora Diana pide a Julián que lea en voz alta la parte del relato donde aparece la palabra \"siempre\".",
+      "id": "CO-LC-3-2026-W27-resumen-de-un-cuento-001-MASTERY-bundle-v2",
+      "statement": "Según el Texto 2, ¿qué es un resumen?",
+      "context": "La profesora escribe la palabra \"resumen\" en el tablero y pregunta a qué se refiere.",
       "options": [
         {
           "letter": "A",
-          "text": "Que la pareja de la fila siete terminó una sola vez, el lunes.",
+          "text": "Una copia del texto con algunas palabras cambiadas.",
           "is_correct": false,
-          "feedback": "Si solo hubiera ocurrido una vez, la palabra correcta sería \"una vez\", porque \"siempre\" afirma que se repite."
+          "feedback": "Error. El Texto 2 dice que un resumen no copia el texto; si fuera una copia con cambios, no sería un resumen."
         },
         {
           "letter": "B",
-          "text": "Que la pareja de la fila siete terminó después de que Julián leyó.",
+          "text": "Un dibujo que representa lo que pasó en el cuento.",
           "is_correct": false,
-          "feedback": "Eso sería \"después\", que anuncia un momento posterior; \"siempre\" no dice cuándo, sino cuántas veces se repite un hecho."
+          "feedback": "Error. Un dibujo no es un resumen: el texto define el resumen como un escrito que cuenta lo más importante con menos palabras."
         },
         {
           "letter": "C",
-          "text": "Que todas las veces que leyó el grupo, la última fue la pareja de la fila siete.",
+          "text": "Un escrito que cuenta lo más importante de un texto usando menos palabras.",
           "is_correct": true,
-          "feedback": "\"Siempre\" es lo contrario de \"nunca\": indica que un hecho ocurrió en todos los momentos, sin excepción."
+          "feedback": "Correcto. Esa es la definición que aparece en la primera oración del Texto 2."
         },
         {
           "letter": "D",
-          "text": "Que la pareja de la fila siete nunca leyó con el grupo de Julián.",
+          "text": "Una lista de los personajes que aparecen en el texto.",
           "is_correct": false,
-          "feedback": "\"Nunca\" negaría que la pareja leyó; el texto dice lo contrario, porque esa pareja siempre terminó con ellos."
+          "feedback": "Error. Una lista de personajes es solo una parte de la información; el resumen debe contar además qué quiere el personaje y cómo termina."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Comprender un adverbio de tiempo es notar si la frase está siguiendo, precediendo o simultaneando un hecho, y también si lo repite o lo niega. En el caso de \"siempre\", el niño debe entender que la palabra habla de todas las ocurrencias y no de un solo día concreto. Esa comprensión prepara al lector para detectar afirmaciones absolutas en los textos que lee.",
+      "explanation": "Comprender el concepto de resumen antes de practicarlo evita que los estudiantes copien el cuento. En esta semana se usa el contraste entre copiar y resumir, que es el error más común a esta edad. Entender que el resumen es más corto y más completo prepara el camino hacia la síntesis de textos más extensos.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Textual",
+      "icfes_type": "Semántico",
       "expected_success": 0.88,
-      "bundle_id": "CO-LC-3-2026-W27-los-adverbios-de-tiempo-001-MASTERY-bundle",
+      "bundle_id": "CO-LC-3-2026-W27-resumen-de-un-cuento-001-MASTERY-bundle",
       "periodo": 27,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -100,44 +100,90 @@
       "country": "co"
     },
     {
-      "id": "CO-LC-3-2026-W27-los-adverbios-de-tiempo-001-MASTERY-bundle-v3",
-      "statement": "En el Texto 1, Julián leyó primero y, mientras él leía, los demás seguían la lectura en la cartulina. Si un compañero quiere escribir esa misma situación, ¿cuál oración usa \"mientras\" de manera correcta?",
-      "context": "En el salón de Manizales, Julián Ramírez practicó con sus compañeros la manera de contar dos hechos que ocurrieron al mismo tiempo.",
+      "id": "CO-LC-3-2026-W27-resumen-de-un-cuento-001-MASTERY-bundle-v3",
+      "statement": "En el Texto 1, ¿por qué era importante que Mateo hubiera prometido llegar temprano ese día?",
+      "context": "Un grupo leyó el Texto 1 y escribe en el pizarrón la razón por la que Mateo fue a casa de su abuela.",
       "options": [
         {
           "letter": "A",
-          "text": "\"Mientras los demás seguían la cartulina, Julián leía, pero después nadie escuchó nada.\"",
+          "text": "Porque su abuela estaba enferma y él la iba a cuidar.",
           "is_correct": false,
-          "feedback": "La oración mezcla dos momentos distintos con \"después\" y rompe lo que pasó al mismo tiempo en la historia."
+          "feedback": "Error. El texto no dice que la abuela estuviera enferma; dice que toda la familia se reunía para el almuerzo."
         },
         {
           "letter": "B",
-          "text": "\"Mientras Julián leía, los demás seguían la lectura en la cartulina.\"",
-          "is_correct": true,
-          "feedback": "La oración conserva lo que dice el texto: las dos acciones ocurren al mismo tiempo, y por eso \"mientras\" funciona como adverbio de tiempo."
+          "text": "Porque él tenía que devolver un libro que le habían prestado.",
+          "is_correct": false,
+          "feedback": "Error. El Texto 1 no menciona ningún libro prestado; la razón de la visita es la reunión familiar para el almuerzo."
         },
         {
           "letter": "C",
-          "text": "\"Julián leía mientras, porque los demás seguían la cartulina en la fila cinco.\"",
-          "is_correct": false,
-          "feedback": "\"Mientras\" necesita ir acompañado de un segundo hecho para mostrar simultaneidad; separado por coma, la frase queda incompleta."
+          "text": "Porque toda la familia se iba a reunir en esa casa para el almuerzo.",
+          "is_correct": true,
+          "feedback": "Correcto. El Texto 1 explica que ese día toda la familia se reunía para el almuerzo, y por eso Mateo había prometido llegar temprano."
         },
         {
           "letter": "D",
-          "text": "\"Mientras leía, los demás seguían la cartulina, y nunca Julián leyó primero.\"",
+          "text": "Porque él necesitaba hablar con su abuela antes de ir al colegio.",
           "is_correct": false,
-          "feedback": "Al agregar \"nunca\" se cambia el relato, porque el texto sí cuenta que Julián leyó primero."
+          "feedback": "Error. El texto no menciona el colegio como motivo de la visita; el almuerzo familiar es la razón que el relato da."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Reconocer el motivo de un personaje ayuda a construir el resumen con la pregunta qué quiere. Cuando el estudiante identifica por qué el personaje fue a un lugar, ya tiene una de las cuatro respuestas del método. Ese dato no se inventa: siempre se apoya en una oración del texto.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.86,
+      "bundle_id": "CO-LC-3-2026-W27-resumen-de-un-cuento-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W27-resumen-de-un-cuento-001-MASTERY-bundle-v4",
+      "statement": "Un grupo llenó la fila del método que dice \"qué quiere\" con la frase \"Mateo quería que su abuela no se olvidara de él\". ¿Qué le falta a esa respuesta?",
+      "context": "La profesora reparte la hoja del método en cuatro filas a cada estudiante de la sala 3A.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le falta un nombre: debería decir qué color tenía la bicicleta de Mateo.",
+          "is_correct": false,
+          "feedback": "Error. La fila del método pide lo que el personaje quiere, no datos de objetos; el color de la bicicleta no responde a esa pregunta."
+        },
+        {
+          "letter": "B",
+          "text": "Le falta apoyarse en el texto, porque en el relato no aparece que Mateo quisiera eso.",
+          "is_correct": true,
+          "feedback": "Correcto. El Texto 1 no dice que Mateo quisiera que su abuela no lo olvidara, de modo que esa frase es una invención y no un resumen."
+        },
+        {
+          "letter": "C",
+          "text": "Le falta tener dos personajes, porque el método solo funciona con dos personajes.",
+          "is_correct": false,
+          "feedback": "Error. El método no pide dos personajes: pide identificar quién es el principal, qué quiere, qué ocurre y cómo termina."
+        },
+        {
+          "letter": "D",
+          "text": "No le falta nada, porque toda frase sobre el personaje sirve para la fila del método.",
+          "is_correct": false,
+          "feedback": "Error. No toda frase sirve: el Texto 2 explica que un resumen no puede agregar cosas que el texto nunca dijo."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Aplicar un adverbio de tiempo es elegir la palabra adecuada para el hecho que se quiere contar. Cuando dos acciones suceden a la vez, \"mientras\" es la herramienta precisa, y el niño debe notar que las dos partes de la oración ocurren en el mismo instante. Practicar este uso en la actividad del salón ayuda a ordenar descripciones, no solo relatos.",
+      "explanation": "Aplicar el método significa usar sus cuatro filas con criterio, no solo escribir frases bonitas. Esta pregunta enseña que una respuesta del resumen debe salir del texto original. Detectar la invención es la diferencia entre resumir y contar otra historia, y es un error frecuente en tercero.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Inferencial",
+      "icfes_type": "Discursivo",
       "expected_success": 0.8,
-      "bundle_id": "CO-LC-3-2026-W27-los-adverbios-de-tiempo-001-MASTERY-bundle",
+      "bundle_id": "CO-LC-3-2026-W27-resumen-de-un-cuento-001-MASTERY-bundle",
       "periodo": 27,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -146,90 +192,90 @@
       "country": "co"
     },
     {
-      "id": "CO-LC-3-2026-W27-los-adverbios-de-tiempo-001-MASTERY-bundle-v4",
-      "statement": "Según el Texto 2, cuando el adverbio de tiempo se coloca al principio, la oración responde a la pregunta \"¿cuándo?\". ¿Cuál de estas oraciones está construida correctamente?",
-      "context": "En el aula de Bucaramanga, la profesora escribe en el tablero la oración del día para que copien en el cuaderno.",
+      "id": "CO-LC-3-2026-W27-resumen-de-un-cuento-001-MASTERY-bundle-v5",
+      "statement": "Un grupo hizo este resumen del Texto 1: \"Mateo fue a la casa de su abuela. La abuela no estaba en la puerta. Cocinaron sopa. Mateo volvió a su casa.\" ¿Qué le falta para ser un buen resumen?",
+      "context": "En la segunda parte de la clase la profesora pide un resumen más corto para el cuaderno.",
       "options": [
         {
           "letter": "A",
-          "text": "\"Leyeron el cuento después del recreo de la mañana en el patio.\"",
-          "is_correct": false,
-          "feedback": "Así queda correcto, pero no coloca el adverbio al principio, y la actividad pide justamente ese orden."
+          "text": "Decir qué quería Mateo y cómo le hizo sentir ese día lo que ocurrió.",
+          "is_correct": true,
+          "feedback": "Correcto. El resumen solo enumera hechos sueltos: le faltan las dos preguntas del método que dan sentido al relato, qué quiere el personaje y qué terminan."
         },
         {
           "letter": "B",
-          "text": "\"Los niños, después del recreo, leyeron el cuento en la cartulina.\"",
+          "text": "Sacarle el nombre de la abuela, porque los nombres no se ponen en un resumen.",
           "is_correct": false,
-          "feedback": "Con esa puntuación el grupo queda suelto en medio de la frase y el lector no entiende de una vez cuándo ocurrió la lectura."
+          "feedback": "Error. Los nombres sí pueden aparecer: el método pide identificar quién es el personaje principal, y quitar el nombre debilita el resumen."
         },
         {
           "letter": "C",
-          "text": "\"Leído fue el cuento después del recreo en la cartulina grande.\"",
+          "text": "Agregar una descripción larga de la casa de la abuela.",
           "is_correct": false,
-          "feedback": "Al comenzar con un participio, la oración pierde su forma natural de lectura para un niño de tercero."
+          "feedback": "Error. Una descripción larga de la casa es un detalle pequeño; el Texto 2 dice que así se pierde lo esencial."
         },
         {
           "letter": "D",
-          "text": "\"Después del recreo, los niños leyeron el cuento en la cartulina.\"",
-          "is_correct": true,
-          "feedback": "La oración empieza por el adverbio, responde a \"¿cuándo?\" de entrada y ordena el párrafo, tal como explica el Texto 2."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "La posición del adverbio dentro de la oración no es un detalle menor: cambia lo primero que entiende quien lee. Si va al principio, el niño se entera de inmediato de cuándo pasó el hecho; si va al final, el foco queda en la acción. Reconocer ambas colocaciones es un paso importante hacia la comprensión de párrafos más largos.",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Sintáctico",
-      "expected_success": 0.78,
-      "bundle_id": "CO-LC-3-2026-W27-los-adverbios-de-tiempo-001-MASTERY-bundle",
-      "periodo": 27,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lectura_critica",
-      "grade": 3,
-      "country": "co"
-    },
-    {
-      "id": "CO-LC-3-2026-W27-los-adverbios-de-tiempo-001-MASTERY-bundle-v5",
-      "statement": "La profesora Gloria quiere que sus estudiantes organicen los hechos de la semana y entiendan que ocurrió primero lo del lunes. ¿Cuál de estas indicaciones cumple mejor esa intención?",
-      "context": "En Villavicencio, la profesora Gloria explica a sus estudiantes de tercero para qué sirve la lista de adverbios de tiempo.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "\"Escribe primero lo que pasó el lunes y después lo que ocurrió el martes, usando las palabras antes y luego.\"",
-          "is_correct": true,
-          "feedback": "La indicación usa adverbios de tiempo y ordena los hechos, que es exactamente lo que la profesora quiere lograr."
-        },
-        {
-          "letter": "B",
-          "text": "\"Escribe primero lo que pasó el lunes y después lo que ocurrió el martes, usando las palabras cerca y debajo.\"",
+          "text": "Poner el texto completo del cuento, para que nadie se pierda.",
           "is_correct": false,
-          "feedback": "\"Cerca\" y \"debajo\" indican lugar, no tiempo; con ellas el lector sabe dónde, pero no cuándo ocurrieron los hechos."
-        },
-        {
-          "letter": "C",
-          "text": "\"Escribe primero lo que pasó el lunes y después lo que ocurrió el martes, usando las palabras ayer y hoy.\"",
-          "is_correct": false,
-          "feedback": "Esas palabras sí hablan del tiempo, pero cambian la historia a días que no son los de la semana que se está contando."
-        },
-        {
-          "letter": "D",
-          "text": "\"Escribe primero lo que pasó el lunes y después lo que ocurrió el martes, usando la palabra nunca.\"",
-          "is_correct": false,
-          "feedback": "\"Nunca\" serviría solo para negar un hecho; no sirve para ordenar dos hechos que sí ocurrieron."
+          "feedback": "Error. El Texto 2 explica que un resumen cuenta lo importante con menos palabras, no con todas las del cuento."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Usar un adverbio de tiempo con una intención concreta es una habilidad de lectura y de escritura a la vez. El niño aprende que la palabra que elige no es un detalle de estilo, sino la herramienta que guía al lector. Elegir la palabra adecuada para cada propósito prepara al estudiante para ordenar información y para explicar procedimientos.",
+      "explanation": "Revisar el resumen de un grupo permite ver en la práctica qué es un buen resumen. El problema típico es la lista de hechos sin relación: contar qué pasó sin decir por qué importa. Aplicar las cuatro preguntas del método enseña a volver sobre el relato y elegir lo que de verdad sostiene la historia.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-3-2026-W27-resumen-de-un-cuento-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W27-resumen-de-un-cuento-001-MASTERY-bundle-v6",
+      "statement": "Un grupo escribió: \"El resumen de mi cuento es que el niño fue a un lugar y después se fue a otro, y al final todo terminó.\" Según el Texto 2, ¿qué debe mejorar ese grupo?",
+      "context": "Los estudiantes deben escribir un resumen del cuento que leyeron en la cartilla del grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Poner el resumen en un cartel grande para que se lea mejor.",
+          "is_correct": false,
+          "feedback": "Error. El formato del resumen no importa aquí: el problema es que el texto no responde ninguna de las cuatro preguntas del método."
+        },
+        {
+          "letter": "B",
+          "text": "Usar palabras más difíciles para que el resumen parezca más interesante.",
+          "is_correct": false,
+          "feedback": "Error. El Texto 2 no pide palabras difíciles: pide contar lo más importante del relato, y eso se logra con claridad."
+        },
+        {
+          "letter": "C",
+          "text": "Nombrar al personaje, decir qué quiere, contar qué le ocurre y explicar cómo termina.",
+          "is_correct": true,
+          "feedback": "Correcto. Son exactamente las cuatro preguntas que el Texto 2 recomienda responder en un buen resumen."
+        },
+        {
+          "letter": "D",
+          "text": "Escribir el resumen con la misma cantidad de palabras que el cuento original.",
+          "is_correct": false,
+          "feedback": "Error. Un resumen debe usar menos palabras que el texto original, no la misma cantidad."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Mejorar un escrito propio es una tarea de autorrevisión que se practica desde tercero. Al comparar su resumen con la lista del Texto 2, el estudiante aprende a evaluar su propio trabajo con una pauta clara. Esa rutina de revisar contra una lista es la que después sostiene la buena redacción en pruebas y talleres.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
       "icfes_type": "Pragmático",
-      "expected_success": 0.75,
-      "bundle_id": "CO-LC-3-2026-W27-los-adverbios-de-tiempo-001-MASTERY-bundle",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LC-3-2026-W27-resumen-de-un-cuento-001-MASTERY-bundle",
       "periodo": 27,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -238,136 +284,90 @@
       "country": "co"
     },
     {
-      "id": "CO-LC-3-2026-W27-los-adverbios-de-tiempo-001-MASTERY-bundle-v6",
-      "statement": "En el Texto 1, el narrador menciona el lunes, el martes, el miércoles y el viernes, y entre esos días usa \"luego\", \"mientras\" y \"antes\". ¿Qué función cumple esa mezcla de nombres de días y adverbios dentro de la narración?",
-      "context": "En Manizales, los estudiantes de tercero releen el Texto 1 y completan la cartulina de la línea del tiempo.",
+      "id": "CO-LC-3-2026-W27-resumen-de-un-cuento-001-MASTERY-bundle-v7",
+      "statement": "El Texto 1 es un relato y el Texto 2 es una explicación. Al mirar los dos juntos, ¿cuál es la relación entre ellos?",
+      "context": "La profesora proyecta el Texto 1 y el Texto 2 en la pantalla del salón y pide comparar.",
       "options": [
         {
           "letter": "A",
-          "text": "Fija cada hecho en un día y, además, muestra cómo se relacionan los hechos entre sí.",
-          "is_correct": true,
-          "feedback": "Los nombres de días ubican y los adverbios conectan: esa combinación es lo que mantiene la línea del tiempo del relato."
+          "text": "Los dos textos cuentan la misma historia con las mismas palabras.",
+          "is_correct": false,
+          "feedback": "Error. El Texto 2 no cuenta la historia de Mateo: explica una forma general de hacer resúmenes, así que los textos no son equivalentes."
         },
         {
           "letter": "B",
-          "text": "Repite la misma información, porque el lunes y el lunes son sinónimos dentro del texto.",
+          "text": "El Texto 1 sirve para cambiar las reglas que da el Texto 2.",
           "is_correct": false,
-          "feedback": "El texto no repite días: el lunes, el martes, el miércoles y el viernes son días distintos de la misma semana."
+          "feedback": "Error. Un relato no cambia las reglas de un texto explicativo: el Texto 1 es un ejemplo y el Texto 2 es la explicación que lo guía."
         },
         {
           "letter": "C",
-          "text": "Describe el lugar donde están los niños, como el salón 3B y la fila cinco.",
+          "text": "El Texto 2 no sirve para nada, porque todos los resúmenes se hacen como uno quiere.",
           "is_correct": false,
-          "feedback": "Los lugares aparecen en el relato, pero los nombres de días y los adverbios no dicen dónde está nadie."
+          "feedback": "Error. El Texto 2 propone un método con cuatro preguntas, y por eso es la guía que sirve para construir un buen resumen."
         },
         {
           "letter": "D",
-          "text": "Sustituye a los personajes, porque ninguna acción del texto tiene un niño que la realice.",
-          "is_correct": false,
-          "feedback": "Las acciones siguen siendo de Diana, Camila, Julián y Andrés; los días no reemplazan a esos personajes."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Analizar cómo se sostiene un texto significa ver que el autor combina dos recursos: nombres de día y adverbios de tiempo. Los nombres dan el marco y los adverbios tejen la relación entre los hechos. Reconocer ese tejido ayuda al niño a entender por qué un relato se puede seguir sin perder el hilo de lo que sucede.",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Discursivo",
-      "expected_success": 0.74,
-      "bundle_id": "CO-LC-3-2026-W27-los-adverbios-de-tiempo-001-MASTERY-bundle",
-      "periodo": 27,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lectura_critica",
-      "grade": 3,
-      "country": "co"
-    },
-    {
-      "id": "CO-LC-3-2026-W27-los-adverbios-de-tiempo-001-MASTERY-bundle-v7",
-      "statement": "Un niño de la clase de Cartagena dice: \"En el Texto 1 la palabra más importante es \"lunes\", y las demás se pueden quitar porque el texto igual se entiende\". ¿Cuál de estos razonamientos está mejor sustentado?",
-      "context": "En una clase de tercero de Cartagena, un estudiante escribió su opinión sobre las palabras del tablero y un compañero la discute con argumentos.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "El razonamiento es correcto, porque el día no cambia nunca y solo importa el nombre de la semana.",
-          "is_correct": false,
-          "feedback": "Si el día no cambiara, las palabras \"lunes\", \"martes\" y \"jueves\" dejarían de distinguir un día de otro."
-        },
-        {
-          "letter": "B",
-          "text": "El razonamiento es correcto, porque \"nunca\" y \"siempre\" solo sirven para hablar del pasado lejano.",
-          "is_correct": false,
-          "feedback": "Esas dos palabras se pueden usar en cualquier momento; el problema no es el tiempo al que apuntan, sino que quitarlas quita información."
-        },
-        {
-          "letter": "C",
-          "text": "El razonamiento no se sostiene, porque ninguna palabra del tablero es un adverbio de tiempo.",
-          "is_correct": false,
-          "feedback": "Todas las palabras de la lista del Texto 1, desde \"antes\" hasta \"nunca\", son adverbios de tiempo."
-        },
-        {
-          "letter": "D",
-          "text": "El razonamiento no se sostiene, porque cada palabra aporta algo distinto y quitar una deja el relato menos claro.",
+          "text": "El Texto 2 enseña la manera de resumir el Texto 1, es decir, sirve para hacerlo mejor.",
           "is_correct": true,
-          "feedback": "\"Lunes\" y \"martes\" fijan el día, \"mientras\" y \"luego\" conectan los hechos y \"nunca\" completa la respuesta de Andrés."
+          "feedback": "Correcto. El Texto 1 es el relato que hay que resumir y el Texto 2 explica cómo hacerlo, de modo que uno sirve de guía para el otro."
         }
       ],
       "correct_answer": "D",
-      "explanation": "Evaluar un razonamiento propio o ajeno es una de las tareas más valiosas de la lectura crítica, y en tercero se puede empezar con frases sobre el texto que se acaba de leer. El niño aprende que una palabra no es importante solo porque suene conocida, sino porque aporta información que el lector necesita. Este hábito de poner a prueba las propias afirmaciones prepara para leer los textos informativos del colegio.",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Evaluativo",
-      "expected_success": 0.72,
-      "bundle_id": "CO-LC-3-2026-W27-los-adverbios-de-tiempo-001-MASTERY-bundle",
-      "periodo": 27,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lectura_critica",
-      "grade": 3,
-      "country": "co"
-    },
-    {
-      "id": "CO-LC-3-2026-W27-los-adverbios-de-tiempo-001-MASTERY-bundle-v8",
-      "statement": "En el Texto 1, cuando Andrés pregunta por qué una palabra pequeña puede ordenar toda la clase, la profesora responde: \"Porque sin ella los hechos aparecen sueltos\". ¿Qué relación hay entre esa respuesta y lo que explica el Texto 2?",
-      "context": "En Pasto, el grupo de tercero compara la respuesta de la profesora Diana con lo que aprendieron en el Texto 2.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "No hay relación, porque el Texto 2 habla de lugares y la respuesta de Diana habla de días.",
-          "is_correct": false,
-          "feedback": "Los dos textos hablan de tiempo: el Texto 2 explica qué son los adverbios de tiempo y la respuesta los aplica a una situación real."
-        },
-        {
-          "letter": "B",
-          "text": "La respuesta de Diana resume la idea del Texto 2: sin adverbios de tiempo el lector no puede seguir el orden de los hechos.",
-          "is_correct": true,
-          "feedback": "Los dos textos se complementan: el Texto 2 explica el concepto y la frase de Diana muestra cómo funciona en el salón."
-        },
-        {
-          "letter": "C",
-          "text": "La respuesta de Diana sirve para definir el precio de los marcadores que se repartieron ese día.",
-          "is_correct": false,
-          "feedback": "El precio de $4.500 es un dato del relato, pero la respuesta de la profesora no trata de cantidades ni de dinero."
-        },
-        {
-          "letter": "D",
-          "text": "La respuesta de Diana contradice el Texto 2, porque ella afirma que las palabras pequeñas no sirven.",
-          "is_correct": false,
-          "feedback": "La profesora no dice que sirvan poco; dice que sin ellas los hechos se desordenan, que es la idea central del Texto 2."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Relacionar dos textos permite ver que una explicación y un relato enseñan la misma idea con palabras distintas. Cuando el niño reconoce que la frase de la profesora es casi el resumen del Texto 2, consolida el concepto y aprende a buscar conexiones entre fuentes diferentes. Esa mirada cruzada también le será útil al leer consignas, instrucciones y noticias.",
+      "explanation": "Distinguir el relato del texto que explica cómo trabajarlo es una habilidad de lectura crítica desde tercero. Notar que un texto sirve de guía para el otro evita confundir el ejemplo con la explicación. Esa mirada prepara al estudiante para las pruebas, donde conviven textos de distintos tipos sobre el mismo contenido.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
       "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-3-2026-W27-resumen-de-un-cuento-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W27-resumen-de-un-cuento-001-MASTERY-bundle-v8",
+      "statement": "El Resumen 1 dice: \"Mateo fue a la casa de su abuela, no la encontró en la puerta, la encontró en la cocina, cocinaron sopa y él volvió más contento.\" El Resumen 2 dice: \"Mateo fue a la casa de su abuela en bicicleta. Como no estaba en la puerta, entró y la encontró en la cocina. Cocinaron sopa y, al volver a casa, la abrazó más rato que de costumbre.\" ¿Cuál resumen es mejor?",
+      "context": "La profesora proyecta dos resúmenes del Texto 1 y pregunta a la clase cuál publicar en el mural.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Resumen 2, porque cuenta el camino, la dificultad y el cambio final, y todo sale del texto.",
+          "is_correct": true,
+          "feedback": "Correcto. El Resumen 2 responde qué quiere, qué ocurre y cómo termina, y además sus datos aparecen en el Texto 1."
+        },
+        {
+          "letter": "B",
+          "text": "El Resumen 1, porque los resúmenes deben ser lo más cortos posible.",
+          "is_correct": false,
+          "feedback": "Error. Un resumen no gana por ser corto: el Texto 2 dice que debe contar lo más importante, y al Resumen 1 le falta el desenlace."
+        },
+        {
+          "letter": "C",
+          "text": "Los dos resúmenes son iguales, porque los dos mencionan la sopa.",
+          "is_correct": false,
+          "feedback": "Error. No son equivalentes: el Resumen 1 deja por fuera el cambio final de Mateo, que es lo que cierra el relato."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguno de los dos sirve, porque el Texto 1 es un cuento y los cuentos no se resumen.",
+          "is_correct": false,
+          "feedback": "Error. Los cuentos sí se resumen: el Texto 2 explica justamente cómo se hace, y por eso los dos resúmenes se pueden evaluar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar dos resúmenes enseña a usar criterios de lectura y no solo a responder. Comparar qué le falta a cada uno enseña que un resumen debe ser completo, fiel al texto y estar bien organizado. Practicar ese juicio desde tercero da la base para elegir y defender respuestas en las tareas de mayor dificultad.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
       "expected_success": 0.7,
-      "bundle_id": "CO-LC-3-2026-W27-los-adverbios-de-tiempo-001-MASTERY-bundle",
+      "bundle_id": "CO-LC-3-2026-W27-resumen-de-un-cuento-001-MASTERY-bundle",
       "periodo": 27,
       "protocol_version": "5.2",
       "cefr_level": null,

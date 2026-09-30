@@ -8,44 +8,44 @@
   },
   "questions": [
     {
-      "id": "CO-LC-3-2026-W29-la-carta-y-el-correo-001-MASTERY-bundle-v1",
-      "statement": "En el Texto 1, ¿qué hizo Sofia con el billete de $2.500 el martes 15 de septiembre?",
-      "context": "Sofia vive en Manizales y llega temprano todos los días a la Escuela Los Alpes.",
+      "id": "CO-LC-3-2026-W29-palabras-que-emparejan-001-MASTERY-bundle-v1",
+      "statement": "En el Texto 1, ¿de qué barrio de Bogotá son los niños que se reúnen a cantar?",
+      "context": "En la clase de música los niños de la sala 3C llevan la ronda escrita en hojas sueltas.",
       "options": [
         {
           "letter": "A",
-          "text": "Lo guardó en su cartuchera para comprar un cuaderno nuevo.",
-          "is_correct": false,
-          "feedback": "El texto no dice que Sofia guardara el billete; ella lo entregó apenas llegó la profesora."
+          "text": "Del barrio La Candelaria.",
+          "is_correct": true,
+          "feedback": "Correcto. La primera oración del Texto 1 dice que los niños son del barrio La Candelaria en Bogotá."
         },
         {
           "letter": "B",
-          "text": "Lo entregó a la profesora para pagar la fotocopia de la guía del proyecto.",
-          "is_correct": true,
-          "feedback": "Esta es la respuesta correcta, porque el Texto 1 cuenta que Sofia entregó ese billete a la profesora para pagar la fotocopia de la guía."
+          "text": "Del barrio La América.",
+          "is_correct": false,
+          "feedback": "Error. El Texto 1 nombra el barrio La Candelaria; La América no aparece en esa oración."
         },
         {
           "letter": "C",
-          "text": "Lo usó para comprar un paquete de papel de carta para toda la clase.",
+          "text": "Del barrio Usaquén.",
           "is_correct": false,
-          "feedback": "El papel de carta lo trajo la profesora Nancy, así que Sofia no lo compró con ese billete."
+          "feedback": "Error. Ninguna oración del Texto 1 menciona el barrio Usaquén, así que esa respuesta no tiene apoyo."
         },
         {
           "letter": "D",
-          "text": "Lo metió en un sobre para enviarlo a Cali junto con las cartas del proyecto.",
+          "text": "Del barrio Santa Fe.",
           "is_correct": false,
-          "feedback": "El sobre lo usaron los niños para las cartas del proyecto; el billete de Sofia fue para pagar una fotocopia."
+          "feedback": "Error. El barrio que aparece escrito en el Texto 1 es La Candelaria, no Santa Fe."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Reconocer datos explícitos de un texto es el primer paso para comprenderlo bien. En tercero el estudiante aprende que cada detalle del texto cuenta algo: un nombre, un lugar, un día o una cantidad de dinero. Buscar esa información ayuda a responder preguntas de memoria sin inventar nada y a sostener después lecturas más difíciles.",
+      "correct_answer": "A",
+      "explanation": "Reconocer los lugares que aparecen en un texto es una habilidad básica que acompaña cualquier trabajo con la sonoridad o la descripción. Verificar el dato en el párrafo evita responder por suposición. Esta costumbre de comprobar localiza desde temprano y sostiene la comprensión de textos más difíciles.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
       "icfes_type": "Textual",
       "expected_success": 0.9,
-      "bundle_id": "CO-LC-3-2026-W29-la-carta-y-el-correo-001-MASTERY-bundle",
+      "bundle_id": "CO-LC-3-2026-W29-palabras-que-emparejan-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -54,44 +54,44 @@
       "country": "co"
     },
     {
-      "id": "CO-LC-3-2026-W29-la-carta-y-el-correo-001-MASTERY-bundle-v2",
-      "statement": "En el Texto 2, ¿por qué se dice que una carta no se parece a un cuento?",
-      "context": "En el salón de Manizales los niños preguntan por qué la carta no se parece a un cuento.",
+      "id": "CO-LC-3-2026-W29-palabras-que-emparejan-001-MASTERY-bundle-v2",
+      "statement": "Según el Texto 2, ¿cuál es la diferencia entre la rima asonante y la rima consonante?",
+      "context": "La profesora escribe en el tablero dos tipos de rima y pide un ejemplo de cada uno.",
       "options": [
         {
           "letter": "A",
-          "text": "Porque los cuentos se escriben a mano y las cartas se escriben en computador.",
+          "text": "La asonante rima mejor que la consonante.",
           "is_correct": false,
-          "feedback": "El Texto 2 no dice eso; la diferencia está en lo que cuenta cada escrito, no en el medio usado."
+          "feedback": "Error. El Texto 2 no dice que una rima sea mejor que la otra: solo explica en qué se diferencia cada una."
         },
         {
           "letter": "B",
-          "text": "Porque la carta siempre tiene cuatro párrafos y el cuento nunca los tiene.",
-          "is_correct": false,
-          "feedback": "El Texto 2 aclara que una carta puede tener cuatro párrafos o uno solo largo, así que los párrafos no son la diferencia."
+          "text": "La asonante se parece solo en las vocales y la consonante se parece en las últimas sílabas completas.",
+          "is_correct": true,
+          "feedback": "Correcto. Esa es exactamente la diferencia que explica el Texto 2 entre los dos tipos de rima."
         },
         {
           "letter": "C",
-          "text": "Porque la carta cuenta algo que de verdad ocurrió y el cuento inventa lo que no pasó.",
-          "is_correct": true,
-          "feedback": "Esta es la respuesta correcta, porque el Texto 2 dice que la carta no inventa: cuenta algo que de verdad ocurrió."
+          "text": "La consonante se parece solo en las vocales y la asonante en las sílabas completas.",
+          "is_correct": false,
+          "feedback": "Error. Está invertido: el Texto 2 dice que la asonante se parece en las vocales y la consonante en las últimas sílabas."
         },
         {
           "letter": "D",
-          "text": "Porque solo la carta necesita un saludo y una despedida.",
+          "text": "Las dos rimas son lo mismo y solo se nombran de dos maneras.",
           "is_correct": false,
-          "feedback": "El saludo y la despedida son partes de la carta, pero esa diferencia no explica por qué la carta no es un cuento."
+          "feedback": "Error. No son lo mismo: el Texto 2 las define de forma distinta según qué parte del sonido se parece."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Comprender una definición es entender el significado, no solo repetirla. El Texto 2 explica qué es una carta y, al mismo tiempo, la diferencia con el cuento: una cuenta hechos que ocurrieron y la otra los imagina. Este contraste ayuda a los estudiantes de tercero a clasificar textos por su intención, que es la base de toda lectura posterior.",
+      "correct_answer": "B",
+      "explanation": "Distinguir los dos tipos de rima ayuda a escuchar con más detalle. En esta semana los estudiantes de tercero aprenden a notar si dos palabras coinciden en las vocales o en toda la sílaba final. Esa atención al sonido les permite después crear sus propios versos con un criterio claro y no por azar.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
       "icfes_type": "Semántico",
       "expected_success": 0.88,
-      "bundle_id": "CO-LC-3-2026-W29-la-carta-y-el-correo-001-MASTERY-bundle",
+      "bundle_id": "CO-LC-3-2026-W29-palabras-que-emparejan-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -100,44 +100,90 @@
       "country": "co"
     },
     {
-      "id": "CO-LC-3-2026-W29-la-carta-y-el-correo-001-MASTERY-bundle-v3",
-      "statement": "Un estudiante escribe esto: \"Querido Luis: hoy comí mango en la casa de mi abuela\". El escrito no tiene lugar, ni fecha, ni firma. Según el Texto 2, ¿qué debe hacer para que su carta quede completa?",
-      "context": "Un estudiante de Villavicencio escribe a un amigo y busca dejar la carta bien armada.",
+      "id": "CO-LC-3-2026-W29-palabras-que-emparejan-001-MASTERY-bundle-v3",
+      "statement": "En el Texto 1, ¿qué bebida les sirvió doña Elena a los niños al final de la ronda?",
+      "context": "Julián lee su parte de la ronda y la clase le pregunta qué palabra le gustó más.",
       "options": [
         {
           "letter": "A",
-          "text": "Agregar el lugar, la fecha y su firma al final del escrito.",
+          "text": "Un jugo de mango.",
           "is_correct": true,
-          "feedback": "Esta es la respuesta correcta, porque el Texto 2 pide el lugar con la fecha al principio y la firma al final para que la carta esté completa."
+          "feedback": "Correcto. La última oración del Texto 1 dice que doña Elena les sirvió un jugo de mango."
         },
         {
           "letter": "B",
-          "text": "Escribirla en un sobre de color para que se note que es una carta.",
+          "text": "Un jugo de fresa.",
           "is_correct": false,
-          "feedback": "El sobre sirve para proteger la carta, pero no reemplaza los datos que exige el Texto 2."
+          "feedback": "Error. El texto no menciona jugo de fresa; la bebida que aparece escrita es un jugo de mango."
         },
         {
           "letter": "C",
-          "text": "Pedirle a la profesora que escriba la fecha y el lugar en el sobre.",
+          "text": "Un agua de panela.",
           "is_correct": false,
-          "feedback": "Si otra persona pone los datos, la carta deja de decir quién la escribió; el Texto 2 pide que los datos los deje quien escribe."
+          "feedback": "Error. Ninguna oración del Texto 1 habla de agua de panela, de modo que esa opción no tiene apoyo."
         },
         {
           "letter": "D",
-          "text": "Repartir el escrito en cuatro párrafos: saludo, cuerpo, despedida y firma.",
+          "text": "Una limonada.",
           "is_correct": false,
-          "feedback": "El Texto 2 dice que una carta puede tener cuatro párrafos o uno solo largo; separar párrafos no completa los datos que faltan."
+          "feedback": "Error. La bebida del relato es jugo de mango; la limonada no aparece en el Texto 1."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Aplicar lo leído significa usar la estructura de la carta para revisar un escrito propio. Cuando un estudiante reconoce que le faltan el lugar, la fecha y la firma, ya no está copiando: está revisando con criterio. Esa rutina de chequeo es una estrategia de escritura que sirve en tercero para todos los textos que pidan datos concretos.",
+      "explanation": "Localizar un dato al final de un texto más largo enseña a no leer solo el comienzo. En esta semana los estudiantes deben recorrer el relato completo para responder. Esa costumbre de llegar hasta la última oración evita que pierdan información por apuro, algo que después importa en las lecturas de prueba.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.86,
+      "bundle_id": "CO-LC-3-2026-W29-palabras-que-emparejan-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W29-palabras-que-emparejan-001-MASTERY-bundle-v4",
+      "statement": "En el Texto 1, ¿cuál de estos grupos de palabras forma una pareja consonante?",
+      "context": "La profesora pide a un grupo que señale las parejas de palabras del Texto 1.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Florido y sonriente, porque se parecen en las últimas sílabas completas.",
+          "is_correct": true,
+          "feedback": "Correcto. Las dos palabras terminan igual que en la parte final, así que forman una rima consonante como explica el Texto 2."
+        },
+        {
+          "letter": "B",
+          "text": "Canto y Julián, porque las dos son palabras que aparecen en el texto.",
+          "is_correct": false,
+          "feedback": "Error. Que dos palabras aparezcan en el texto no las hace rima: para eso deben parecerse en cómo suenan al final."
+        },
+        {
+          "letter": "C",
+          "text": "Vida y leal, porque las dos describen algo bueno.",
+          "is_correct": false,
+          "feedback": "Error. El significado no es lo que define la rima: se define por el sonido final de las palabras, y estas dos no coinciden."
+        },
+        {
+          "letter": "D",
+          "text": "Leal y tenaz, porque las dos son adjetivos.",
+          "is_correct": false,
+          "feedback": "Error. Ser adjetivo no las convierte en rima: el Texto 2 explica que lo que empareja es el sonido, no la categoría de la palabra."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar la diferencia entre rima asonante y consonante significa reconocerlas en un texto real. Buscar las parejas de palabras del Texto 1 entrena el oído y la vista al mismo tiempo. Ese doble ejercicio fortalece la comprensión de textos poéticos y narrativos, donde la sonoridad siempre acompaña al contenido.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Inferencial",
+      "icfes_type": "Semántico",
       "expected_success": 0.8,
-      "bundle_id": "CO-LC-3-2026-W29-la-carta-y-el-correo-001-MASTERY-bundle",
+      "bundle_id": "CO-LC-3-2026-W29-palabras-que-emparejan-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -146,44 +192,44 @@
       "country": "co"
     },
     {
-      "id": "CO-LC-3-2026-W29-la-carta-y-el-correo-001-MASTERY-bundle-v4",
-      "statement": "En el Texto 1, la profesora Nancy explica que las cartas del proyecto no llevan timbre porque se entregan en la misma clase. ¿Para qué sirve entender esa explicación?",
-      "context": "Daniel pregunta en voz alta en el salón 3B de Manizales si su carta lleva timbre.",
+      "id": "CO-LC-3-2026-W29-palabras-que-emparejan-001-MASTERY-bundle-v5",
+      "statement": "Un grupo escribió: \"El gato duerme en el patio, y el perro se esconde debajo. Luego llega la luna y todos salen a mirar.\" ¿Qué debe corregir el grupo según el Texto 2?",
+      "context": "La profesora pide a los grupos que escriban cuatro versos usando pares de palabras que riman.",
       "options": [
         {
           "letter": "A",
-          "text": "Para saber que cualquier carta, incluso las que llegan de otras ciudades, se puede entregar sin pagar estampilla.",
+          "text": "Debe cambiar el nombre del gato, porque los animales no pueden aparecer en un poema.",
           "is_correct": false,
-          "feedback": "Esa conclusión es demasiado amplia: la profesora habla solo de las cartas del proyecto, que se entregan dentro del salón."
+          "feedback": "Error. El Texto 2 no prohíbe nombrar animales: lo que pide es cuidar el sonido y el significado de las palabras."
         },
         {
           "letter": "B",
-          "text": "Para saber que los sobres del proyecto se pueden tirar a la basura al final del año.",
-          "is_correct": false,
-          "feedback": "El Texto 1 no habla de tirar sobres; la explicación es sobre el timbre y la entrega, no sobre el desecho."
+          "text": "Debe buscar palabras que suenen parecidas entre sí, porque la rima se forma con el sonido final.",
+          "is_correct": true,
+          "feedback": "Correcto. El Texto 2 explica que dos palabras emparejan cuando tienen el mismo sonido final, que es lo que el grupo no logró en los versos."
         },
         {
           "letter": "C",
-          "text": "Para saber que la profesora no quiere recibir ningún sobre en la escuela.",
+          "text": "Debe escribir más páginas, porque un poema corto no alcanza.",
           "is_correct": false,
-          "feedback": "Al contrario: la profesora recibe las cartas del proyecto y las recoge al final de la hora."
+          "feedback": "Error. El problema no es la extensión: el Texto 2 trata del sonido de las palabras y no de la cantidad de versos."
         },
         {
           "letter": "D",
-          "text": "Para entender que el timbre solo se necesita cuando la carta viaja, y que en el proyecto lo importante es lo que la carta dice por escrito.",
-          "is_correct": true,
-          "feedback": "Esta es la respuesta correcta, porque Daniel pregunta por el timbre y la profesora aclara que al entregar en clase lo que cuenta es la información escrita."
+          "text": "No debe cambiar nada, porque cualquier grupo de palabras forma una rima.",
+          "is_correct": false,
+          "feedback": "Error. No cualquier grupo rima: hacen falta palabras con sonidos finales parecidos, como explica el Texto 2."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Las palabras tienen una intención, y entenderla es parte de comprender un texto. La respuesta de la profesora no es un dato suelto: explica por qué el timbre no aparece en la actividad. Cuando los estudiantes captan ese propósito, comprenden que un escrito sirve para que otro entienda lo que uno quiere contar, pedir o avisar.",
+      "correct_answer": "B",
+      "explanation": "Crear versos obliga a poner en práctica lo aprendido sobre el sonido. Cuando un grupo escribe y su texto no rima, tiene que buscar nuevas palabras y comparar cómo suenan. Esa práctica de intentar, corregir y volver a escribir desarrolla el oído y la paciencia, dos habilidades que acompañan la escritura literaria.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
       "icfes_type": "Pragmático",
       "expected_success": 0.78,
-      "bundle_id": "CO-LC-3-2026-W29-la-carta-y-el-correo-001-MASTERY-bundle",
+      "bundle_id": "CO-LC-3-2026-W29-palabras-que-emparejan-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -192,44 +238,44 @@
       "country": "co"
     },
     {
-      "id": "CO-LC-3-2026-W29-la-carta-y-el-correo-001-MASTERY-bundle-v5",
-      "statement": "Camila terminó de escribir a sus primos en Pasto, pero olvidó el lugar y la fecha. Al leer el Texto 1 y el Texto 2 juntos, ¿qué se puede afirmar de la carta de Camila?",
-      "context": "Camila salió del salón de Manizales con una carta sin lugar, sin fecha y sin firma.",
+      "id": "CO-LC-3-2026-W29-palabras-que-emparejan-001-MASTERY-bundle-v6",
+      "statement": "Un grupo propuso estas dos parejas para el Texto 1: \"canto y amigo\" y \"regalo y leal\". Según el Texto 2, ¿qué problema tienen esas parejas?",
+      "context": "La profesora proyecta dos listas de palabras y pide que elijan la pareja correcta.",
       "options": [
         {
           "letter": "A",
-          "text": "Está completa, porque en clase se había trabajado antes cómo se armaba una carta.",
+          "text": "Las dos parejas están bien, porque todas las palabras del Texto 1 son válidas para rimar.",
           "is_correct": false,
-          "feedback": "Saber de antemano la estructura no completa el escrito: el Texto 1 cuenta que a Camila le faltaron el lugar, la fecha y la firma."
+          "feedback": "Error. Que las palabras aparezcan en el texto no basta: la rima exige que suenen parecidas al final."
         },
         {
           "letter": "B",
-          "text": "Está incompleta, porque el Texto 2 explica que sin lugar y sin fecha no se sabe cuándo se escribió ni desde dónde.",
+          "text": "Ninguna de las dos parejas, porque esas palabras no coinciden en su sonido final.",
           "is_correct": true,
-          "feedback": "Esta es la respuesta correcta, porque el Texto 1 muestra lo que le falta a Camila y el Texto 2 explica por qué esos datos son necesarios."
+          "feedback": "Correcto. En canto y amigo, y en regalo y leal, los sonidos finales no coinciden, así que no forman rimas."
         },
         {
           "letter": "C",
-          "text": "Está mal escrita, porque a los estudiantes de tercero no se les permite escribir cartas.",
+          "text": "Solo la primera pareja está mal, porque en la segunda las dos palabras son largas.",
           "is_correct": false,
-          "feedback": "La actividad de la semana es justamente escribir cartas, así que la carta de Camila no está mal por ser una carta."
+          "feedback": "Error. El largo de una palabra no define la rima; lo que importa es que coincidan en las últimas sílabas o en las vocales."
         },
         {
           "letter": "D",
-          "text": "Está completa, porque la profesora la recogió junto con las otras diecinueve cartas.",
+          "text": "Las dos parejas están mal, porque las rimas solo se pueden hacer con sustantivos.",
           "is_correct": false,
-          "feedback": "El Texto 1 cuenta que la profesora recogió diecinueve cartas completas y que la de Camila fue la única que quedó sin firma."
+          "feedback": "Error. El Texto 2 no limita las rimas a los sustantivos: el problema de esas parejas es que no suenan parecidas."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Cuando dos textos hablan del mismo asunto, el estudiante puede unirlos y sacar una conclusión que ninguno dice solo. Comparar la escena del salón con la explicación de la estructura permite ver un mismo problema desde dos puntos de vista. Esa práctica de unir dos lecturas distintas enseña que un dato de un texto puede resolver una duda que aparece en el otro.",
+      "explanation": "Revisar parejas de palabras con un criterio claro evita errores al escribir. En esta semana los estudiantes aprenden que elegir palabras por sonido y no por parecido de significado es lo que hace que un verso rime. Esa precisión al seleccionar palabras prepara mejores textos literarios para la lectura evaluativa de más adelante.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Discursivo",
-      "expected_success": 0.75,
-      "bundle_id": "CO-LC-3-2026-W29-la-carta-y-el-correo-001-MASTERY-bundle",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LC-3-2026-W29-palabras-que-emparejan-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -238,44 +284,44 @@
       "country": "co"
     },
     {
-      "id": "CO-LC-3-2026-W29-la-carta-y-el-correo-001-MASTERY-bundle-v6",
-      "statement": "Una niña de Cartagena le dice a su mamá que ya no escribe lugar ni fecha porque la aplicación del celular muestra sola el día. Si aplicamos lo que enseñan el Texto 1 y el Texto 2, ¿qué le podríamos responder?",
-      "context": "Una niña de Cartagena escribe a su mamá desde la casa y le explica por qué no pone lugar ni fecha.",
+      "id": "CO-LC-3-2026-W29-palabras-que-emparejan-001-MASTERY-bundle-v7",
+      "statement": "El Texto 1 usa muchas palabras que riman y el Texto 2 explica qué es la rima. ¿Cuál es la relación entre los dos textos?",
+      "context": "La profesora proyecta el Texto 1 y el Texto 2 y pide que la clase los compare.",
       "options": [
         {
           "letter": "A",
-          "text": "Que tiene razón, porque la aplicación ya pone la fecha y el lugar es un dato viejo que ya no sirve.",
+          "text": "El Texto 2 corrige al Texto 1, porque en el Texto 1 hay rimas que están mal.",
           "is_correct": false,
-          "feedback": "Los dos textos piden el lugar y la fecha porque el lector los necesita; ninguna de las dos cosas es un dato que ya no sirva."
+          "feedback": "Error. El Texto 1 usa la rima de manera correcta, y el Texto 2 no lo corrige: solo explica en qué consiste."
         },
         {
           "letter": "B",
-          "text": "Que la fecha del celular sí sirve, siempre que la carta termine con la palabra \"amor\".",
+          "text": "Los dos textos son iguales, porque los dos hablan de música.",
           "is_correct": false,
-          "feedback": "Una palabra de cariño no reemplaza los datos que exige la estructura de la carta descrita en el Texto 2."
+          "feedback": "Error. El Texto 2 no habla de música: explica la sonoridad y la rima, aunque use ejemplos cantables."
         },
         {
           "letter": "C",
-          "text": "Que el lugar, la fecha y la firma siguen importando, porque son los datos que le dicen al lector desde dónde se escribió, para quién es y quién la escribió.",
-          "is_correct": true,
-          "feedback": "Esta es la respuesta correcta, porque el Texto 2 explica la función de cada parte y el Texto 1 muestra qué le faltaba a la carta de Camila."
+          "text": "El Texto 1 sirve para comprobar si lo que dice el Texto 2 es cierto.",
+          "is_correct": false,
+          "feedback": "Error. El Texto 1 es un ejemplo de uso, no una prueba: el Texto 2 es el que define y el primero solo lo aplica."
         },
         {
           "letter": "D",
-          "text": "Que solo importa la firma, porque el lugar y la fecha se pueden inventar sin que nadie lo note.",
-          "is_correct": false,
-          "feedback": "El Texto 2 dice que la carta cuenta algo que de verdad ocurrió, con lugares y fechas reales."
+          "text": "El Texto 1 es un ejemplo de lo que el Texto 2 explica, porque usa parejas de palabras que suenan parecidas.",
+          "is_correct": true,
+          "feedback": "Correcto. El Texto 1 muestra en la práctica lo que el Texto 2 define, y por eso uno sirve de ejemplo para el otro."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Analizar es poner en diálogo una idea nueva con lo que ya se leyó. La niña trae la costumbre de escribir sin lugar ni fecha, y los dos textos permiten evaluar esa costumbre con argumentos. Así el estudiante aprende que su criterio propio también se puede revisar leyendo con atención.",
+      "correct_answer": "D",
+      "explanation": "Reconocer cuándo un texto es un ejemplo y cuándo es una explicación evita confusiones comunes en la lectura escolar. En esta semana los estudiantes ven que el ejemplo y la regla se necesitan mutuamente. Esa mirada prepara al estudiante para las pruebas, donde la misma destreza aparece en textos de distintos niveles.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
       "icfes_type": "Crítico-Intertextual",
-      "expected_success": 0.74,
-      "bundle_id": "CO-LC-3-2026-W29-la-carta-y-el-correo-001-MASTERY-bundle",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-3-2026-W29-palabras-que-emparejan-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -284,90 +330,44 @@
       "country": "co"
     },
     {
-      "id": "CO-LC-3-2026-W29-la-carta-y-el-correo-001-MASTERY-bundle-v7",
-      "statement": "La profesora leyó dos cartas del proyecto en voz alta. La primera, escrita por Camilo de Bucaramanga, empezaba con \"Bucaramanga, 14 de septiembre\" y terminaba con \"Tu amigo, Camilo\". La segunda empezaba con \"Querido amigo\" y terminaba con \"tu amigo Camilo\". ¿Cuál de las dos está completa y por qué?",
-      "context": "La profesora de Pasto compara dos cartas del proyecto antes de ponerlas en el mural de la clase.",
+      "id": "CO-LC-3-2026-W29-palabras-que-emparejan-001-MASTERY-bundle-v8",
+      "statement": "La profesora escribió: \"Oración uno: pan y caza se pronuncian igual pero no quieren decir lo mismo. Oración dos: pan y caza son lo mismo porque suenan igual.\" ¿Cuál oración está mejor escrita y por qué?",
+      "context": "La profesora escribe en el tablero dos oraciones y pide que la clase decida cuál se entiende mejor.",
       "options": [
         {
           "letter": "A",
-          "text": "La primera, porque tiene lugar, fecha, saludo, cuerpo y firma, y el lector sabe desde dónde, cuándo, para quién y quién escribió.",
-          "is_correct": true,
-          "feedback": "Esta es la respuesta correcta, porque la primera carta reúne las cuatro partes que describe el Texto 2."
+          "text": "La oración dos, porque si dos palabras suenan igual entonces significan lo mismo.",
+          "is_correct": false,
+          "feedback": "Error. El Texto 2 advierte justo lo contrario: hay palabras que suenan parecidas y significan cosas distintas."
         },
         {
           "letter": "B",
-          "text": "Las dos, porque las dos le hablan a un amigo y las dos fueron escritas por niños de tercero.",
-          "is_correct": false,
-          "feedback": "Hablar a un amigo y ser escrita por un niño no garantiza que estén los datos; la segunda no tiene lugar ni fecha."
+          "text": "La oración uno, porque recuerda que el sonido no basta para conocer el significado.",
+          "is_correct": true,
+          "feedback": "Correcto. La primera oración refleja la advertencia del Texto 2 de que además del sonido hay que atender lo que cada palabra dice."
         },
         {
           "letter": "C",
-          "text": "La segunda, porque es más corta y directa, y en una carta hay que escribir lo menos posible.",
+          "text": "Las dos oraciones están iguales de bien, porque repiten la misma idea.",
           "is_correct": false,
-          "feedback": "La brevedad no es un criterio de la carta; el Texto 2 pide los datos aunque el texto sea largo."
+          "feedback": "Error. No expresan la misma idea: una afirma una igualdad de significado y la otra la niega con un ejemplo."
         },
         {
           "letter": "D",
-          "text": "La primera, porque las cartas siempre se escriben en mayúsculas y con el nombre de quien escribe entre comillas.",
+          "text": "La oración uno, porque es la que usa más palabras difíciles.",
           "is_correct": false,
-          "feedback": "El Texto 2 no pide mayúsculas ni comillas; lo que hace falta son el lugar, la fecha, el saludo, el cuerpo y la firma."
+          "feedback": "Error. El valor de esa oración está en que dice algo cierto, no en que sus palabras sean difíciles."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Evaluar es decir cuál escrito funciona mejor y sostenerlo con razones del texto. Aquí el estudiante no solo escoge: tiene que nombrar las partes que hacen que una carta quede completa. Esa forma de argumentar prepara a los estudiantes para la comprensión lectora de más adelante, donde defender un criterio es la tarea central.",
+      "correct_answer": "B",
+      "explanation": "Evaluar la claridad de una oración enseña a cuidar tanto el sonido como el sentido. Esta semana se trabaja el límite de la sonoridad: parecido sonido no significa igual significado. Reconocer ese cuidado prepara a los estudiantes para escribir con precisión y para comprender sin errores los textos de las pruebas.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
       "icfes_type": "Evaluativo",
-      "expected_success": 0.72,
-      "bundle_id": "CO-LC-3-2026-W29-la-carta-y-el-correo-001-MASTERY-bundle",
-      "periodo": 29,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lectura_critica",
-      "grade": 3,
-      "country": "co"
-    },
-    {
-      "id": "CO-LC-3-2026-W29-la-carta-y-el-correo-001-MASTERY-bundle-v8",
-      "statement": "La profesora dijo en el Texto 1: \"Falta la firma de Camila, que había terminado de escribir a sus primos en Pasto y se había olvidado del lugar y de la fecha\". ¿Qué parte de ese enunciado explica la causa de por qué la carta de Camila está incompleta?",
-      "context": "En el salón 3B de Manizales la profesora señala una oración en la pizarra para explicar el error.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "\"Falta la firma de Camila\", porque esa es la parte que señala lo que no aparece en el escrito.",
-          "is_correct": false,
-          "feedback": "Esa parte nombra lo que falta, es decir el efecto; la causa de la falta está en la otra oración del mismo enunciado."
-        },
-        {
-          "letter": "B",
-          "text": "\"que había terminado de escribir a sus primos en Pasto\", porque cuenta lo que hizo Camila durante la hora.",
-          "is_correct": false,
-          "feedback": "Esa parte cuenta una acción pasada de Camila, pero no explica por qué le faltaron datos en la carta."
-        },
-        {
-          "letter": "C",
-          "text": "\"Los niños escribieron cartas para un compañero que vive en Cali\", porque esa oración pertenece al mismo párrafo del Texto 1.",
-          "is_correct": false,
-          "feedback": "Esa oración habla de toda la clase y no de la carta de Camila, así que no explica la causa de lo que pasó con su escrito."
-        },
-        {
-          "letter": "D",
-          "text": "\"se había olvidado del lugar y de la fecha\", porque esa oración explica el motivo del problema y por eso muestra que esos datos deben aparecer.",
-          "is_correct": true,
-          "feedback": "Esta es la respuesta correcta, porque esa oración da la razón de la ausencia y conecta con la idea de que el lugar y la fecha deben aparecer."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "Mirar cómo se armó una oración ayuda a entender qué es cada parte del mensaje. En esta oración, una parte cuenta lo que ve y otra explica por qué pasó, y esa segunda es la que enseña. Practicar este análisis en grado tercero da base para distinguir la causa del efecto en la comprensión lectora de textos más extensos.",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Sintáctico",
       "expected_success": 0.7,
-      "bundle_id": "CO-LC-3-2026-W29-la-carta-y-el-correo-001-MASTERY-bundle",
+      "bundle_id": "CO-LC-3-2026-W29-palabras-que-emparejan-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",
       "cefr_level": null,

@@ -8,44 +8,44 @@
   },
   "questions": [
     {
-      "id": "CO-LC-3-2026-W28-las-onomatopeyas-001-MASTERY-bundle-v1",
-      "statement": "En el Texto 1, ¿cuánto costó cada marcapáginas de cartón que compró la profesora al final de la dramatización?",
-      "context": "En Cali, la profesora Daniela pasa por los salones preguntando por el marcapáginas de la dramatización.",
+      "id": "CO-LC-3-2026-W28-el-ambiente-y-el-clima-001-MASTERY-bundle-v1",
+      "statement": "En el Texto 1, ¿en qué ciudad queda la finca de la familia de Juliana?",
+      "context": "La profesora abre la ventana del salón porque la mañana está húmeda.",
       "options": [
         {
           "letter": "A",
-          "text": "$7.200",
-          "is_correct": false,
-          "feedback": "Incorrecto. El Texto 1 dice que el marcapáginas de cartón con un perro y una campana costó $8.500 cada uno."
+          "text": "En Manizales.",
+          "is_correct": true,
+          "feedback": "Correcto. La primera oración del Texto 1 dice que la finca queda arriba de Manizales."
         },
         {
           "letter": "B",
-          "text": "$9.500",
+          "text": "En Bogotá.",
           "is_correct": false,
-          "feedback": "Incorrecto. Ese monto no aparece escrito en el Texto 1, que da para el marcapáginas el precio de $8.500."
+          "feedback": "Error. El texto ubica la finca arriba de Manizales; Bogotá no se menciona en esa oración."
         },
         {
           "letter": "C",
-          "text": "$8.500",
-          "is_correct": true,
-          "feedback": "Correcto. El precio está escrito de manera explícita al final del Texto 1: el marcapáginas costó $8.500 cada uno."
+          "text": "En Cali.",
+          "is_correct": false,
+          "feedback": "Error. Ninguna oración del Texto 1 nombra a Cali como el lugar de la finca."
         },
         {
           "letter": "D",
-          "text": "$18.000",
+          "text": "En Medellín.",
           "is_correct": false,
-          "feedback": "Incorrecto. En el Texto 1 el precio es el de una unidad, $8.500, y el monto de $18.000 no está escrito."
+          "feedback": "Error. El lugar que aparece escrito en el Texto 1 es Manizales, no Medellín."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Este ejercicio entrena la localización de un dato explícito dentro del texto. Los estudiantes de tercero deben aprender que la respuesta está escrita y que se puede volver al párrafo para comprobarla. Reconocer precios, nombres y lugares ayuda a fijar la escena de la lectura antes de empezar a interpretarla.",
+      "correct_answer": "A",
+      "explanation": "Reconocer el lugar donde ocurre una historia es el primer paso para describir su ambiente. Los estudiantes de tercero deben aprender a ubicar en un mapa mental o en un dibujo los sitios que nombran los textos que leen. Esa localización ayuda a imaginar mejor las escenas y a responder con seguridad.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
       "icfes_type": "Textual",
       "expected_success": 0.9,
-      "bundle_id": "CO-LC-3-2026-W28-las-onomatopeyas-001-MASTERY-bundle",
+      "bundle_id": "CO-LC-3-2026-W28-el-ambiente-y-el-clima-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -54,44 +54,44 @@
       "country": "co"
     },
     {
-      "id": "CO-LC-3-2026-W28-las-onomatopeyas-001-MASTERY-bundle-v2",
-      "statement": "Según el Texto 2, ¿qué es una onomatopeya?",
-      "context": "En una biblioteca de Medellín un grupo de niños lee la explicación de la semana antes de escribir.",
+      "id": "CO-LC-3-2026-W28-el-ambiente-y-el-clima-001-MASTERY-bundle-v2",
+      "statement": "Según el Texto 2, ¿cuál es la diferencia entre el ambiente de un cuento y el clima?",
+      "context": "La profesora escribe dos palabras en el tablero y las señala con el marcador.",
       "options": [
         {
           "letter": "A",
-          "text": "Un sustantivo que nombra un animal del bosque",
+          "text": "No hay diferencia: las dos palabras significan exactamente lo mismo.",
           "is_correct": false,
-          "feedback": "Incorrecto. Un sustantivo nombra algo, pero la onomatopeya copia un ruido; el Texto 2 no la define como un nombre de animal."
+          "feedback": "Error. El Texto 2 explica que el ambiente es el lugar y el clima es la parte que puede cambiar dentro de ese lugar."
         },
         {
           "letter": "B",
-          "text": "Una palabra que imita o sugiere el sonido de algo, escrita como se oye",
-          "is_correct": true,
-          "feedback": "Correcto. El Texto 2 la define como la palabra escrita tal como se oye el ruido, y da ejemplos como guau y miau."
+          "text": "El clima es el lugar y el ambiente es el tiempo que hace.",
+          "is_correct": false,
+          "feedback": "Error. Está al revés de lo que dice el Texto 2: el ambiente es el lugar junto con el clima, y el clima es la parte que cambia."
         },
         {
           "letter": "C",
-          "text": "Una oración larga que describe cómo era un lugar",
-          "is_correct": false,
-          "feedback": "Incorrecto. Describir un lugar es otra tarea del texto; la onomatopeya, según el Texto 2, solo imita un sonido."
+          "text": "El ambiente es el lugar donde pasa la historia, y el clima es la parte de ese ambiente que puede cambiar.",
+          "is_correct": true,
+          "feedback": "Correcto. El Texto 2 define el ambiente como el lugar junto con el clima, y explica que el clima es lo que puede cambiar."
         },
         {
           "letter": "D",
-          "text": "Un signo de puntuación que separa las escenas del cuento",
+          "text": "El ambiente solo existe en los cuentos y el clima solo existe en la vida real.",
           "is_correct": false,
-          "feedback": "Incorrecto. Los signos de puntuación marcan pausas y comas, mientras que la onomatopeya representa el ruido de algo."
+          "feedback": "Error. El Texto 2 trata el clima como parte del ambiente en los cuentos y en la vida real, no como algo de un solo tipo de texto."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Comprender la definición es el paso anterior a reconocerlas dentro de un cuento. Cuando el estudiante entiende que la onomatopeya copia un ruido, puede buscar con facilidad palabras como miau, zas o pum. Esta comprensión también evita pensar que son palabras sin sentido o un simple adorno sin importancia.",
+      "correct_answer": "C",
+      "explanation": "Distinguir lugares de clima evita una confusión frecuente en tercero, donde se mezclan los dos conceptos. Entender que el clima es la parte variable del ambiente permite comprender por qué un mismo lugar puede sentirse distinto en días diferentes. Esa comprensión es la base para analizar cómo el clima influye en las acciones de los personajes.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
       "icfes_type": "Semántico",
       "expected_success": 0.88,
-      "bundle_id": "CO-LC-3-2026-W28-las-onomatopeyas-001-MASTERY-bundle",
+      "bundle_id": "CO-LC-3-2026-W28-el-ambiente-y-el-clima-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -100,44 +100,90 @@
       "country": "co"
     },
     {
-      "id": "CO-LC-3-2026-W28-las-onomatopeyas-001-MASTERY-bundle-v3",
-      "statement": "En el Texto 1 había dieciocho niños en el salón y cada marcapáginas costó $8.500. Si la profesora compró uno para cada niño, ¿cuánto gastó en total?",
-      "context": "En la secretaría de la escuela de Cali se anota cuánto gastó la profesora en la actividad del martes.",
+      "id": "CO-LC-3-2026-W28-el-ambiente-y-el-clima-001-MASTERY-bundle-v3",
+      "statement": "En el Texto 1, ¿qué detalle muestra que el clima de ese día era de lluvia?",
+      "context": "Un grupo dibuja el clima de la finca y le pone un nombre a cada parte del dibujo.",
       "options": [
         {
           "letter": "A",
-          "text": "$153.000",
+          "text": "Que el cielo estaba gris y el aire olía a tierra mojada.",
           "is_correct": true,
-          "feedback": "Correcto. Dieciocho por $8.500 da $153.000, que es el total de los marcapáginas para todos los niños del salón."
+          "feedback": "Correcto. El Texto 1 dice que el cielo estaba gris y que el aire olía a tierra mojada, dos señales propias de un día de lluvia."
         },
         {
           "letter": "B",
-          "text": "$12.500",
+          "text": "Que la finca quedaba arriba de Manizales.",
           "is_correct": false,
-          "feedback": "Incorrecto. $12.500 sale de restar y no de multiplicar; el total se obtiene con dieciocho por $8.500."
+          "feedback": "Error. La ubicación de la finca explica el clima habitual, pero no muestra el clima de ese día; para eso están el cielo gris y el olor a tierra mojada."
         },
         {
           "letter": "C",
-          "text": "$8.500",
+          "text": "Que el tío de Juliana estaba en el corral.",
           "is_correct": false,
-          "feedback": "Incorrecto. $8.500 es el precio de un solo marcapáginas, y la pregunta pide el total de los dieciocho niños."
+          "feedback": "Error. La presencia del tío dice quién estaba ahí, no cómo estaba el tiempo ese día."
         },
         {
           "letter": "D",
-          "text": "$85.000",
+          "text": "Que Juliana durmió tranquila esa noche.",
           "is_correct": false,
-          "feedback": "Incorrecto. Ese resultado corresponde a unos diez marcapáginas; en el salón había dieciocho niños y el total es $153.000."
+          "feedback": "Error. Cómo durmió la niña es el desenlace del relato, no un detalle que muestre el clima del día."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Aplicar la información del texto significa usar dos datos escritos para obtener un dato nuevo. Los estudiantes de tercero practican el uso de la cantidad de niños y el precio de un solo objeto para resolver un problema del salón. Este ejercicio muestra que los números de una lectura sirven para tareas concretas de la vida diaria.",
+      "explanation": "Buscar el detalle que demuestra el clima entrena la lectura de descripciones. Los estudiantes de tercero deben aprender que un escritor muestra el clima con palabras concretas y no con la palabra clima. Reconocer esas señales permite entender la escena y también anticipar lo que los personajes podrán hacer.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.86,
+      "bundle_id": "CO-LC-3-2026-W28-el-ambiente-y-el-clima-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W28-el-ambiente-y-el-clima-001-MASTERY-bundle-v4",
+      "statement": "Según el Texto 1 y el Texto 2, ¿por qué el tío de Juliana dice que no van a poder bajar?",
+      "context": "La profesora pregunta qué puede hacer la familia en la finca según el clima de ese día.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el camino estaba lleno de hojas secas que tocaba recoger antes.",
+          "is_correct": false,
+          "feedback": "Error. El texto no menciona hojas secas: lo que aparece es el agua del río desbordado sobre el camino de herradura."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el aguacero desbordó el río y el agua cubría el camino.",
+          "is_correct": true,
+          "feedback": "Correcto. El Texto 1 dice que el río se había desbordado y que el agua cubría el camino, y el Texto 2 explica que con lluvia no se puede caminar."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la finca quedaba muy lejos y ya era tarde para bajar a la ciudad.",
+          "is_correct": false,
+          "feedback": "Error. La distancia no aparece en el texto: la razón que el tío da se relaciona con el agua sobre el camino."
+        },
+        {
+          "letter": "D",
+          "text": "Porque hacía mucho calor y todos necesitaban descansar en el corredor.",
+          "is_correct": false,
+          "feedback": "Error. Ese día no hacía calor sino que llovía fuerte, como muestran el cielo gris y el agua del río desbordado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Relacionar el clima con las acciones de los personajes es el propósito de esta semana. Aplicar la idea del Texto 2 de que el clima influye en lo que se puede hacer enseña a leer las descripciones con causa y efecto. Esa relación explica por qué el clima importa y no es solo un adorno del relato.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Inferencial",
+      "icfes_type": "Semántico",
       "expected_success": 0.8,
-      "bundle_id": "CO-LC-3-2026-W28-las-onomatopeyas-001-MASTERY-bundle",
+      "bundle_id": "CO-LC-3-2026-W28-el-ambiente-y-el-clima-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -146,44 +192,90 @@
       "country": "co"
     },
     {
-      "id": "CO-LC-3-2026-W28-las-onomatopeyas-001-MASTERY-bundle-v4",
-      "statement": "Sara escribe: \"La puerta del almacén se cerró de golpe cuando llegó el perro\". Si ella quiere que el lector imagine el ruido de la puerta, ¿qué palabra debe escribir entre comillas?",
-      "context": "En un taller de lectura de Manizales cada niño escribe una escena y debe escoger el sonido que falta.",
+      "id": "CO-LC-3-2026-W28-el-ambiente-y-el-clima-001-MASTERY-bundle-v5",
+      "statement": "Un grupo escribió: \"En el parque hace mucho calor y todos buscan la sombra del árbol para leer.\" Según el Texto 2, ¿qué muestra esa frase?",
+      "context": "La profesora pide que cada grupo escriba una frase sobre el clima de su propio barrio.",
       "options": [
         {
           "letter": "A",
-          "text": "Miau",
+          "text": "Muestra que el parque es el clima del texto.",
           "is_correct": false,
-          "feedback": "Incorrecto. Miau es el sonido del gato, no el de una puerta que se cierra; el enunciado pide el ruido de la puerta."
+          "feedback": "Error. El parque es el lugar, es decir parte del ambiente; el clima es el calor que hace ahí ese día."
         },
         {
           "letter": "B",
-          "text": "Guau",
+          "text": "Muestra que los lectores del parque leen poco.",
           "is_correct": false,
-          "feedback": "Incorrecto. Guau imita el ladrido del perro, y en esta frase el ruido que se busca es el de la puerta."
+          "feedback": "Error. La frase no habla de la cantidad de lectura, sino de que el calor lleva a la gente a buscar sombra."
         },
         {
           "letter": "C",
-          "text": "Tín-tin",
-          "is_correct": false,
-          "feedback": "Incorrecto. Tín-tin pertenece a la campana y a los cubiertos, no a una puerta que se cierra de golpe."
+          "text": "Muestra que el clima influye en lo que hacen los personajes, porque el calor los lleva a buscar sombra.",
+          "is_correct": true,
+          "feedback": "Correcto. Esa es la idea del Texto 2: el clima cambia lo que hacen las personas, en este caso buscar la sombra del árbol."
         },
         {
           "letter": "D",
-          "text": "Zas",
-          "is_correct": true,
-          "feedback": "Correcto. Zas imita el golpe seco de una puerta que se cierra, que es justo el ruido que Sara quiere que imagine el lector."
+          "text": "Muestra que el clima no tiene ninguna importancia en un cuento.",
+          "is_correct": false,
+          "feedback": "Error. La frase justamente muestra lo contrario: el calor sí cambia la conducta de quienes están en el parque."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "La intención de quien escribe se apoya en el sonido que la palabra imita. Reconocer que zas sugiere un golpe y que miau pertenece al gato enseña a distinguir el ruido de cada cosa. Esa comparación permite escoger la palabra que de verdad corresponde a la escena que se quiere contar.",
+      "correct_answer": "C",
+      "explanation": "Observar el ambiente del propio entorno cercano ayuda a transferir lo aprendido a la vida real. Los estudiantes de tercero ven que el clima de su barrio también influye en sus actividades. Ese ejercicio hace que la lectura de descripciones se vuelva algo útil y cotidiano, y no solo un ejercicio del libro.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-3-2026-W28-el-ambiente-y-el-clima-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W28-el-ambiente-y-el-clima-001-MASTERY-bundle-v6",
+      "statement": "Un grupo dibujó una finca con sol fuerte y dejó el espacio en blanco. Su relato no menciona el clima. ¿Qué debe hacer el grupo?",
+      "context": "La profesora revisa los dibujos que los grupos hicieron del lugar de su cuento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Escribir en el relato qué clima hay, porque el ambiente incluye el clima y este no estaba.",
+          "is_correct": true,
+          "feedback": "Correcto. El Texto 2 explica que el ambiente es el lugar junto con el clima, así que falta describir el clima de esa finca."
+        },
+        {
+          "letter": "B",
+          "text": "Dejar el dibujo igual, porque el clima no hace falta cuando ya hay un dibujo.",
+          "is_correct": false,
+          "feedback": "Error. Un buen ambiente dice cómo es el lugar y qué tiempo hace, como explica el Texto 2; el dibujo no reemplaza esa descripción."
+        },
+        {
+          "letter": "C",
+          "text": "Cambiar el dibujo por un paisaje de la ciudad, para que se vea más bonito.",
+          "is_correct": false,
+          "feedback": "Error. Cambiar el lugar no resuelve el problema: lo que falta es decir qué clima hay en el lugar que el relato ya eligió."
+        },
+        {
+          "letter": "D",
+          "text": "Agregar muchos personajes al dibujo, para que la escena se vea más animada.",
+          "is_correct": false,
+          "feedback": "Error. La cantidad de personajes no es lo que falta: el Texto 2 pide que el ambiente incluya el clima, además del lugar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Revisar el trabajo propio contra la lista del Texto 2 enseña a detectar lo que falta antes de entregar. Muchos resúmenes y descripciones se quedan a medio camino porque olvidan el clima. Practicar esta revisión desde tercero forma una costumbre de calidad que el estudiante llevará a las tareas de lectura de mayor nivel.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
       "icfes_type": "Pragmático",
-      "expected_success": 0.78,
-      "bundle_id": "CO-LC-3-2026-W28-las-onomatopeyas-001-MASTERY-bundle",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LC-3-2026-W28-el-ambiente-y-el-clima-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -192,182 +284,90 @@
       "country": "co"
     },
     {
-      "id": "CO-LC-3-2026-W28-las-onomatopeyas-001-MASTERY-bundle-v5",
-      "statement": "Un niño escribió: \"Cuando sonó el timbre, todos oímos tín-tin, tín-tin y salimos al patio\". ¿Qué palabra de esa oración es la onomatopeya y por qué?",
-      "context": "En el cuaderno de la semana de Villavicencio la profesora pide subrayar la onomatopeya de cada oración.",
+      "id": "CO-LC-3-2026-W28-el-ambiente-y-el-clima-001-MASTERY-bundle-v7",
+      "statement": "En el Texto 1 el clima es de lluvia y en el Texto 2 se explica qué papel cumple el clima. ¿Qué relación hay entre los dos textos?",
+      "context": "La profesora proyecta el Texto 1 y el Texto 2 y pide que la clase los relacione.",
       "options": [
         {
           "letter": "A",
-          "text": "Timbre, porque es el objeto que suena",
-          "is_correct": false,
-          "feedback": "Incorrecto. Timbre nombra el objeto del que sale el sonido, pero no copia el ruido, que es lo propio de la onomatopeya."
+          "text": "El Texto 2 explica lo que el Texto 1 muestra: que el clima cambia lo que los personajes pueden hacer.",
+          "is_correct": true,
+          "feedback": "Correcto. El Texto 1 muestra a Juliana sin poder bajar por el aguacero, y el Texto 2 explica que el clima influye en lo que hacen los personajes."
         },
         {
           "letter": "B",
-          "text": "Tín-tin, porque está escrita como se oye el sonido del timbre",
-          "is_correct": true,
-          "feedback": "Correcto. Tín-tin imita el sonido metálico del timbre, y por eso funciona como onomatopeya dentro de la oración."
+          "text": "El Texto 1 corrige al Texto 2, porque en el Texto 1 sí se puede caminar con lluvia.",
+          "is_correct": false,
+          "feedback": "Error. El Texto 1 no camina con lluvia: el tío dice que no pueden bajar, de modo que el relato está de acuerdo con el Texto 2."
         },
         {
           "letter": "C",
-          "text": "Patio, porque dice a dónde fueron los niños",
+          "text": "El Texto 2 sirve para cambiar el clima del Texto 1 por uno más agradable.",
           "is_correct": false,
-          "feedback": "Incorrecto. Patio es el lugar de destino y no representa ningún ruido, de modo que no puede ser la onomatopeya."
+          "feedback": "Error. Un texto explicativo no cambia lo que pasó en un relato: solo aclara qué significa ese clima en la historia."
         },
         {
           "letter": "D",
-          "text": "Salimos, porque es la acción que cuenta el niño",
+          "text": "Los dos textos hablan del clima de Bogotá, por eso se parecen.",
           "is_correct": false,
-          "feedback": "Incorrecto. Salimos es un verbo de acción; la palabra que copia el ruido de esa oración es tín-tin."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "En una oración la onomatopeya ocupa el lugar donde estaría el ruido, y por eso puede ir entre comillas o en cursiva. Identificarla ayuda a los estudiantes a ver que no todas las palabras de la frase hacen lo mismo. Practicar esto con oraciones propias prepara al estudiante para escribir cuentos con sonido.",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Sintáctico",
-      "expected_success": 0.75,
-      "bundle_id": "CO-LC-3-2026-W28-las-onomatopeyas-001-MASTERY-bundle",
-      "periodo": 28,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lectura_critica",
-      "grade": 3,
-      "country": "co"
-    },
-    {
-      "id": "CO-LC-3-2026-W28-las-onomatopeyas-001-MASTERY-bundle-v6",
-      "statement": "Un autor escribe que la puerta se cerró con un golpe y otro escribe que la puerta se cerró \"zas\". ¿Qué gana el lector con la segunda versión?",
-      "context": "En Pasto dos grupos comparan cómo se siente el mismo cuento escrito con y sin palabras que imitan ruidos.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Imagina el golpe en el momento en que lo lee, como si el ruido estuviera cerca",
-          "is_correct": true,
-          "feedback": "Correcto. El Texto 2 explica que la onomatopeya hace que quien lea imagine la escena de inmediato, con el sonido presente."
-        },
-        {
-          "letter": "B",
-          "text": "Entiende mejor que la puerta era de madera y que ya estaba vieja",
-          "is_correct": false,
-          "feedback": "Incorrecto. Zas no dice el material ni la antigüedad de la puerta, solo el ruido del golpe, como explica el Texto 2."
-        },
-        {
-          "letter": "C",
-          "text": "Sabe que el cuento tiene menos personajes y menos escenas",
-          "is_correct": false,
-          "feedback": "Incorrecto. Agregar una onomatopeya no cambia la cantidad de personajes ni de escenas, solo la sensación del golpe."
-        },
-        {
-          "letter": "D",
-          "text": "Aprende que esa palabra es la única forma correcta de escribir un cuento",
-          "is_correct": false,
-          "feedback": "Incorrecto. Ninguna palabra es la única forma correcta; el Texto 2 dice que ayudan a entender, pero no las vuelve obligatorias."
+          "feedback": "Error. El Texto 1 ocurre en una finca arriba de Manizales, no en Bogotá, así que esa no es la relación."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Comparar dos versiones del mismo cuento enseña para qué sirven las onomatopeyas. Cuando el lector nota que zas trae el golpe a la mente, entiende que la palabra trabaja dentro de la historia. Esta comparación también lo prepara para decidir, al escribir, si un sonido ayuda o sobra en su escena.",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Discursivo",
-      "expected_success": 0.74,
-      "bundle_id": "CO-LC-3-2026-W28-las-onomatopeyas-001-MASTERY-bundle",
-      "periodo": 28,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lectura_critica",
-      "grade": 3,
-      "country": "co"
-    },
-    {
-      "id": "CO-LC-3-2026-W28-las-onomatopeyas-001-MASTERY-bundle-v7",
-      "statement": "Un niño escribió: \"Mi perro Duque corre todas las tardes por el parque\". Quiere que el lector sienta el ladrido del perro. ¿Qué cambio cumple mejor esa intención?",
-      "context": "En Bucaramanga un niño escribe un párrafo sobre su perro y lo lee en voz alta el domingo en la sala de la casa.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Cambiar \"corre\" por \"corre más rápido\"",
-          "is_correct": false,
-          "feedback": "Incorrecto. Aclarar la velocidad del perro no introduce ningún ruido, y la intención del niño era que se oyera el ladrido."
-        },
-        {
-          "letter": "B",
-          "text": "Añadir que el parque es grande y tiene mucha sombra",
-          "is_correct": false,
-          "feedback": "Incorrecto. Describir el lugar mejora la escena, pero no trae ningún sonido, y el enunciado pide oír el ladrido."
-        },
-        {
-          "letter": "C",
-          "text": "Escribir que el perro ladró guau, guau al verlo llegar",
-          "is_correct": true,
-          "feedback": "Correcto. Al añadir guau, guau el párrafo lleva el sonido del ladrido, y el lector imagina al perro de inmediato."
-        },
-        {
-          "letter": "D",
-          "text": "Cambiar \"Mi perro Duque\" por \"Mi perro\"",
-          "is_correct": false,
-          "feedback": "Incorrecto. Quitar el nombre del perro no produce ningún sonido; el cambio que funciona es el que imita el ladrido."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "Evaluar significa juzgar si una versión cumple o no lo que el autor quiere decir. En este caso la intención es que el lector sienta el ladrido del perro, y eso se logra con una palabra como guau. Esta práctica enseña que las onomatopeyas tienen un trabajo real dentro del cuento y no son un adorno.",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Evaluativo",
-      "expected_success": 0.72,
-      "bundle_id": "CO-LC-3-2026-W28-las-onomatopeyas-001-MASTERY-bundle",
-      "periodo": 28,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lectura_critica",
-      "grade": 3,
-      "country": "co"
-    },
-    {
-      "id": "CO-LC-3-2026-W28-las-onomatopeyas-001-MASTERY-bundle-v8",
-      "statement": "Después de leer el Texto 1, un niño dice que las palabras guau y zas no sirven porque no son nombres de animales. Según el Texto 2, ¿qué le puedes responder?",
-      "context": "En un salón de Cartagena un estudiante cuestiona lo que escuchó durante la dramatización del martes.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Que tiene razón, porque toda palabra de un cuento debe nombrar un animal o un objeto",
-          "is_correct": false,
-          "feedback": "Incorrecto. El Texto 2 explica que una onomatopeya copia un ruido, así que no tiene que nombrar animales ni objetos."
-        },
-        {
-          "letter": "B",
-          "text": "Que está equivocado, pero porque esas palabras sirven solo para contar cosas",
-          "is_correct": false,
-          "feedback": "Incorrecto. Contar cosas no es la función de la onomatopeya; su función es imitar o sugerir el sonido de algo."
-        },
-        {
-          "letter": "C",
-          "text": "Que son palabras de otro idioma y por eso deben cambiarse por nombres",
-          "is_correct": false,
-          "feedback": "Incorrecto. Guau y zas son palabras del español, escritas como se oyen, y no se cambian por nombres de animales."
-        },
-        {
-          "letter": "D",
-          "text": "Que esas palabras están escritas como se oye el ruido y por eso son onomatopeyas",
-          "is_correct": true,
-          "feedback": "Correcto. El Texto 2 dice que la onomatopeya está escrita tal como suena el ruido, y esa es la razón de guau y zas."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "Relacionar un cuento con un texto que explica un concepto permite defender una idea con argumentos. En este caso el Texto 2 da la razón por la cual guau y zas sí sirven dentro de la historia. Practicar estas conexiones enseña a responder con lo que dice la lectura y no solo con la propia opinión.",
+      "explanation": "Ver cómo un texto de explicación aclara un relato es una habilidad de lectura crítica que se construye desde tercero. El estudiante aprende que el ejemplo y la regla se refuerzan entre sí. Esa comprensión lo prepara para las pruebas, donde un mismo contenido aparece narrated en un texto y explicado en otro.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
       "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-3-2026-W28-el-ambiente-y-el-clima-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W28-el-ambiente-y-el-clima-001-MASTERY-bundle-v8",
+      "statement": "Dos grupos escribieron el inicio de un cuento que pasa en la Costa Caribe. El Grupo 1 escribió: \"Había una casa, un río y unas palmeras. El clima hacía calor. Después llegó el protagonista.\" El Grupo 2 escribió: \"El sol pegaba duro sobre la arena y el agua del mar brillaba. Un pescador sacaba su red mientras el sudor le bajaba por la frente.\" ¿Cuál grupo describe mejor el ambiente y por qué?",
+      "context": "La profesora lee dos versiones del inicio de un cuento y pregunta cuál describe mejor el ambiente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Grupo 1, porque nombra más objetos: casa, río y palmeras.",
+          "is_correct": false,
+          "feedback": "Error. Nombrar objetos no basta: el Texto 2 dice que un buen ambiente usa palabras que muestran, no solo palabras que nombran."
+        },
+        {
+          "letter": "B",
+          "text": "Los dos grupos describen igual, porque los dos nombran lugares de la costa.",
+          "is_correct": false,
+          "feedback": "Error. No son equivalentes: el Grupo 1 solo nombra, mientras el Grupo 2 muestra el calor con el sol, la arena y el sudor."
+        },
+        {
+          "letter": "C",
+          "text": "El Grupo 2, porque sus palabras hacen sentir el calor y el ambiente, no solo nombran cosas.",
+          "is_correct": true,
+          "feedback": "Correcto. El Grupo 2 describe con el sol, la arena y el sudor, que es justo lo que el Texto 2 llama palabras que muestran."
+        },
+        {
+          "letter": "D",
+          "text": "El Grupo 2, porque escribe más palabras que el Grupo 1.",
+          "is_correct": false,
+          "feedback": "Error. La diferencia no es la cantidad de palabras: el Grupo 1 es corto y por eso no alcanza a mostrar el ambiente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar descripciones del ambiente enseña a mirar el efecto de las palabras, no su número. Aplicar la diferencia entre mostrar y nombrar permite preferir la escritura que hace que el lector sienta el lugar. Ese criterio de lectura es el que se necesita para entender y valorar los textos literarios en las pruebas superiores.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
       "expected_success": 0.7,
-      "bundle_id": "CO-LC-3-2026-W28-las-onomatopeyas-001-MASTERY-bundle",
+      "bundle_id": "CO-LC-3-2026-W28-el-ambiente-y-el-clima-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",
       "cefr_level": null,
