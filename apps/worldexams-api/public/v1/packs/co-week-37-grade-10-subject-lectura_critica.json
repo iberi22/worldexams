@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-37-grade-10-subject-lectura_critica",
+    "generated_at": "2026-09-30T22:28:00.101Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-10-2026-W37-la-intertextualidad-y-las-fuentes-001-MASTERY-bundle-v1",
+      "statement": "¿En qué publicación apareció originalmente el Texto 1?",
+      "context": "Antes de repartir la fotocopia del taller, la profesora de Lenguaje pide que el curso registre la publicación original de cada texto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En la revista Sur.",
+          "is_correct": true,
+          "feedback": "Correcto, el ensayo se publicó en 1951 en la revista argentina Sur y solo después fue recogido en un libro."
+        },
+        {
+          "letter": "B",
+          "text": "En el periódico El Tiempo.",
+          "is_correct": false,
+          "feedback": "El Tiempo es un diario, pero el texto se publicó en una revista cultural y no en un periódico."
+        },
+        {
+          "letter": "C",
+          "text": "En la revista Paula.",
+          "is_correct": false,
+          "feedback": "El nombre de esa revista no corresponde a la publicación del ensayo, que apareció en Argentina."
+        },
+        {
+          "letter": "D",
+          "text": "En la colección de cuentos El Aleph.",
+          "is_correct": false,
+          "feedback": "El Aleph reúne cuentos de Borges, no el ensayo que analiza los antecedentes de Kafka."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reconocer dónde se publicó un texto es la primera evidencia documental que un lector puede levantar. En esta semana los estudiantes trabajan con copias de taller, y el primer ejercicio consiste en volver a la fuente original para no confundir la revista donde se publicó el ensayo con el libro donde después fue recopilado. Esa precisión sostiene todo el trabajo de intertextualidad que viene después.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Literal",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-10-2026-W37-la-intertextualidad-y-las-fuentes-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W37-la-intertextualidad-y-las-fuentes-001-MASTERY-bundle-v2",
+      "statement": "¿De qué trata principalmente el Texto 2?",
+      "context": "La semana arranca con una lectura guiada en voz alta y el curso resume en una línea el asunto de cada texto antes de discutir sus vínculos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "De un viaje de una periodista por Europa para entrevistar escritores.",
+          "is_correct": false,
+          "feedback": "No hay ningún viaje ni entrevista en el relato, que se queda en seis visitas de sábado en Manizales."
+        },
+        {
+          "letter": "B",
+          "text": "De una discusión entre el abuelo y su nieta por el valor de la lectura.",
+          "is_correct": false,
+          "feedback": "El relato no incluye una discusión ni una tensión entre las dos voces, solo un cuidado compartido."
+        },
+        {
+          "letter": "C",
+          "text": "De una joven que acompaña a un abuelo ciego que todavía escribe con las yemas de los dedos.",
+          "is_correct": true,
+          "feedback": "Correcto, esa escena de las manos, la tinta y la lentitud es el eje del cuento y aparece en las tres escenas."
+        },
+        {
+          "letter": "D",
+          "text": "De un accidente de trabajo ocurrido en una imprenta de Manizales.",
+          "is_correct": false,
+          "feedback": "El cuento no narra ningún accidente, solo la consecuencia de la ceguera del abuelo en su oficio de tipógrafo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Reducir el asunto central de un texto con sus palabras propias es una habilidad semántica de primer nivel y evita el copiado literal. El resumen no es un trámite: obliga a decidir qué información organiza el relato y cuál es decorado. Un buen resumen de este texto debe conservar los tres elementos que luego explican las alusiones del cuento.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-10-2026-W37-la-intertextualidad-y-las-fuentes-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W37-la-intertextualidad-y-las-fuentes-001-MASTERY-bundle-v3",
+      "statement": "Si un estudiante tuviera que nombrar con una sola palabra el procedimiento del Texto 1, la opción más precisa sería:",
+      "context": "El grupo de transición de Cali debe definir en una sola palabra el procedimiento que sigue el ensayo de Borges.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Copia, porque reproduce fragmentos completos de cada obra citada.",
+          "is_correct": false,
+          "feedback": "El ensayo transcribe una sola línea por fuente y no reproduce obras enteras, así que la copia no describe su método."
+        },
+        {
+          "letter": "B",
+          "text": "Reconstrucción analítica, porque reúne antecedentes dispersos y demuestra el vínculo con cada uno.",
+          "is_correct": true,
+          "feedback": "Correcto, el procedimiento consiste en localizar textos lejanos y probar, uno por uno, que anticipan un rasgo central de Kafka."
+        },
+        {
+          "letter": "C",
+          "text": "Parodia, porque imita con humor el estilo de los autores que menciona.",
+          "is_correct": false,
+          "feedback": "El tono del ensayo es serio y expositivo, sin burla ni imitación de voces ajenas."
+        },
+        {
+          "letter": "D",
+          "text": "Resumen, porque cuenta el argumento de cada obra sin relacionarlas entre sí.",
+          "is_correct": false,
+          "feedback": "El ensayo no se limita a contar argumentos: lo decisivo es el vínculo que establece entre textos de épocas distintas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Nombrar el procedimiento del texto es un paso hacia el análisis intertextual, porque distingue entre copiar, resumir y demostrar una relación. El ensayo pertenece a la intertextualidad transformada: no repite un texto anterior, muestra cómo ya estaba en él una posibilidad que el lector solo descubre después. Reconocer ese tipo de vínculo permite comparar después cómo lo trabajan el cuento y la crónica.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-10-2026-W37-la-intertextualidad-y-las-fuentes-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W37-la-intertextualidad-y-las-fuentes-001-MASTERY-bundle-v4",
+      "statement": "Para justificar la primera de las dos alusiones del Texto 2, el estudiante necesita señalar:",
+      "context": "En la ficha de intertextualidad cada grupo debe señalar el fragmento del Texto 2 que sostiene la referencia al Quijote del Manzana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una descripción de la imprenta del pueblo donde trabajó el abuelo.",
+          "is_correct": false,
+          "feedback": "El taller aparece en el relato, pero no es el fragmento que activa la referencia al Quijote."
+        },
+        {
+          "letter": "B",
+          "text": "Un comentario sobre las novelas de Gabriel García Márquez.",
+          "is_correct": false,
+          "feedback": "La obra de García Márquez no aparece en el texto 2, de modo que no puede sostener esa alusión."
+        },
+        {
+          "letter": "C",
+          "text": "Una mención al periódico El Espectador.",
+          "is_correct": false,
+          "feedback": "El Espectador aparece en el Texto 3, no en el cuento, y por eso no funciona como evidencia."
+        },
+        {
+          "letter": "D",
+          "text": "La descripción de la tinta con la que el abuelo demuestra a su nieta quién sigue loca.",
+          "is_correct": true,
+          "feedback": "Correcto, ese detalle de la tinta reproduce la prueba del hidalgo y de Sancho, que es el vínculo intertextual real."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Toda afirmación sobre un vínculo necesita una evidencia localizable, y eso es lo que la ficha de la semana exige. En el caso del Quijote del Manzana, el indicio no está en el nombre del libro sino en un procedimiento narrativo: tinta, prueba y duda sobre quién está loco. Ese detalle confirma que la relación es temática y argumental, y no una simple mención de autor.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LC-10-2026-W37-la-intertextualidad-y-las-fuentes-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W37-la-intertextualidad-y-las-fuentes-001-MASTERY-bundle-v5",
+      "statement": "¿Para qué utiliza el Texto 3 el fragmento citado del Texto 2?",
+      "context": "El profesor pregunta para qué sirve citar un texto ajeno cuando el propósito de quien escribe no es académico sino periodístico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para dar un rostro y un relato a la jornada de lectura y sostener la nota de la crónica.",
+          "is_correct": true,
+          "feedback": "Correcto, la cita funciona como evidencia para un propósito informativo y de promoción cultural, no como conclusión crítica."
+        },
+        {
+          "letter": "B",
+          "text": "Para demostrar que el cuento de Sandoval Ocampo está mal construido.",
+          "is_correct": false,
+          "feedback": "La crónica no contiene ninguna crítica al cuento, y su tono no busca corregir a la autora."
+        },
+        {
+          "letter": "C",
+          "text": "Para medir cuánto tiempo tardan los jóvenes en leer en voz alta.",
+          "is_correct": false,
+          "feedback": "La crónica no incluye mediciones ni tiempos de lectura, de modo que esa función no aparece en ella."
+        },
+        {
+          "letter": "D",
+          "text": "Para consignar las referencias bibliográficas del periódico.",
+          "is_correct": false,
+          "feedback": "Citar para sostener una nota no equivale a una referencia bibliográfica, y además el periódico no publica un listado de fuentes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprender para qué escribe quien cita es un ejercicio pragmático: la misma frase cambia de sentido según la intención del texto que la usa. La crónica no busca formar ni Polemizar sobre literatura, busca informar y convo_car. Por eso la cita del cuento funciona aquí como prueba de que el proyecto de lectura existió, aunque no incluya ninguna valoración del relato.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-10-2026-W37-la-intertextualidad-y-las-fuentes-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W37-la-intertextualidad-y-las-fuentes-001-MASTERY-bundle-v6",
+      "statement": "¿Qué efecto_argumentativo produce en el Texto 1 la enumeración de antecedentes tan diversos como un filósofo griego, un prosista chino y un poeta inglés?",
+      "context": "En los salones de Medellín el debate se centra en por qué el ensayo elige antecedentes tan distintos entre sí.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ordena la historia de la literatura por países y cronologías.",
+          "is_correct": false,
+          "feedback": "El ensayo no propone ninguna cronología, y el criterio de selección de los textos no es geográfico."
+        },
+        {
+          "letter": "B",
+          "text": "Muestra que el vínculo con Kafka atraviesa épocas y culturas y no depende de una sola tradición.",
+          "is_correct": true,
+          "feedback": "Correcto, la variedad de las fuentes deja ver que la relación intertextual no se agota en una línea nacional o de una sola época."
+        },
+        {
+          "letter": "C",
+          "text": "Entrega datos biográficos que el lector puede usar para construir las vidas de los autores.",
+          "is_correct": false,
+          "feedback": "El ensayo no biografía a los autores, sino que analiza los textos y su anticipación de Kafka."
+        },
+        {
+          "letter": "D",
+          "text": "Alarga el desarrollo para darle al lector más información sobre cada autor.",
+          "is_correct": false,
+          "feedback": "Cada antecedente ocupa solo un párrafo breve, de modo que la extensión no es el objetivo de la selección."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Analizar un texto incluye preguntar para qué está organizado, no solo qué dice. La dispersión geográfica y cronológica de los antecedentes funciona como argumento: si textos tan distantes anticipan lo mismo, la relación entre obras no puede atribuirse a una influencia cercana y única. Decodificar esa estrategia del ensayista enseña a leer la selección de ejemplos como una decisión con sentido.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-10-2026-W37-la-intertextualidad-y-las-fuentes-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W37-la-intertextualidad-y-las-fuentes-001-MASTERY-bundle-v7",
+      "statement": "La tesis final del Texto 1, según la cual cada escritor crea a sus precursores, funciona en el texto como:",
+      "context": "El taller de escritura pide que el curso identifique qué clase de oración cierra el ensayo de Borges.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una cita atribuida al propio Kafka.",
+          "is_correct": false,
+          "feedback": "La frase es del ensayista y funciona como cierre del argumento, no como testimonio del propio Kafka."
+        },
+        {
+          "letter": "B",
+          "text": "Una opinión personal que el texto no respalda con ningún ejemplo.",
+          "is_correct": false,
+          "feedback": "La tesis llega después de seis ejemplos comentados, de modo que se apoya en evidencia construida."
+        },
+        {
+          "letter": "C",
+          "text": "Una descripción de los personajes que aparecen en las obras citadas.",
+          "is_correct": false,
+          "feedback": "El ensayo analiza textos y anticipaciones, no personajes, y su remate no describe figuras."
+        },
+        {
+          "letter": "D",
+          "text": "Una conclusión general que se apoya en los antecedentes reunidos y eleva el caso particular a tesis.",
+          "is_correct": true,
+          "feedback": "Correcto, la frase recoge lo demostrado en cada ejemplo y lo convierte en una afirmación de alcance general."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Identificar la función de una oración dentro del texto es una habilidad textual que permite distinguir tesis, cita, descripción y opinión. La afirmación final del ensayo es una generalización legítima porque antes construyó los casos que la sostienen. Este ejemplo sirve de modelo para que los estudiantes escriban sus propias conclusiones sin quedarse en la simple repetición de lo leído.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-10-2026-W37-la-intertextualidad-y-las-fuentes-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W37-la-intertextualidad-y-las-fuentes-001-MASTERY-bundle-v8",
+      "statement": "Según el Texto 2, ¿por qué la narradora insiste en que su abuelo escribe despacio?",
+      "context": "La profesora escribe en el tablero el título del cuento y pregunta por qué el relato vuelve siempre a la palabra despacio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque ya no ve y necesita recorrer las letras con las yemas de los dedos antes de saber cuáles son.",
+          "is_correct": true,
+          "feedback": "Correcto, la lentitud es el procedimiento que le permite seguir leyendo, y por eso el título define al personaje."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la imprenta de Manizales tenía una máquina lenta que él mismo había diseñado.",
+          "is_correct": false,
+          "feedback": "La lentitud pertenece al cuerpo del abuelo y no a una máquina, que ni siquiera aparece en la acción."
+        },
+        {
+          "letter": "C",
+          "text": "Porque escribe en otra lengua que la narradora no puede leer.",
+          "is_correct": false,
+          "feedback": "No hay ninguna lengua distinta en el relato: la dificultad es visual, no lingüística."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la narradora quiere retrasar la resolución del cuento y alargar el suspenso.",
+          "is_correct": false,
+          "feedback": "La insistencia responde a la ceguera del abuelo y no a una maniobra narrativa de suspenso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Inferir permite explicar los detalles que el texto repite y relaciona ese detalle con la situación del personaje. El cuento usa la lentitud como dato verosímil y como rasgo caracterizador al mismo tiempo. Reconocer que un mismo rasgo cumple dos funciones evita leer la información de forma plana y abre la puerta a preguntas de mayor dificultad.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Inferencial",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LC-10-2026-W37-la-intertextualidad-y-las-fuentes-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W37-la-intertextualidad-y-las-fuentes-001-MASTERY-bundle-v9",
+      "statement": "Un grupo afirma que el Texto 1 es el material más adecuado para trabajar intertextualidad en 10.º. El argumento más sólido para sostener esa elección es el que:",
+      "context": "Cada grupo debe justificar con un criterio comprobable por qué escoge uno de los tres textos como material de trabajo principal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Señala que el ensayo tiene solamente 1.500 palabras y por eso se lee completo en clase.",
+          "is_correct": false,
+          "feedback": "La extensión facilita la lectura, pero no explica por qué el texto sirve para analizar vínculos entre textos."
+        },
+        {
+          "letter": "B",
+          "text": "Recuerda que el ensayo es más conocido que el cuento y la crónica del conjunto.",
+          "is_correct": false,
+          "feedback": "La fama del autor o la difusión del texto no constituyen una razón metodológica para escogerlo."
+        },
+        {
+          "letter": "C",
+          "text": "Señala que el texto nombra los antecedentes, analiza uno por uno y cierra con una tesis comprobable por el lector.",
+          "is_correct": true,
+          "feedback": "Correcto, esa secuencia hace visible la relación intertextual y permite al estudiante replicarla en otros casos."
+        },
+        {
+          "letter": "D",
+          "text": "Argumenta que el ensayo tiene más de setenta años y por eso sirve mejor para pensar.",
+          "is_correct": false,
+          "feedback": "La antigüedad de un texto no garantiza nada sobre su utilidad para el trabajo de la semana."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar una fuente exige un criterio explícito y conectado con la tarea, no una preferencia personal. El ensayo muestra su propio procedimiento: enumera, analiza y concluye de manera que el lector pueda comprobar cada paso. Justificar una elección con ese criterio enseña a los estudiantes que una buena fuente hace visible su argumentación.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-10-2026-W37-la-intertextualidad-y-las-fuentes-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W37-la-intertextualidad-y-las-fuentes-001-MASTERY-bundle-v10",
+      "statement": "En el Texto 3, la frase entrecomillada atribuida a la docente se usa sin indicar de dónde procede. ¿Qué problema tiene esa práctica para un trabajo de intertextualidad?",
+      "context": "Un grupo de Barranquilla revisa las comillas de la crónica antes de citarla en el informe final del proyecto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la frase no existe en ningún texto y por eso es falsa.",
+          "is_correct": false,
+          "feedback": "El problema no es de existencia sino de trazabilidad: la atribución existe pero no indica su origen."
+        },
+        {
+          "letter": "B",
+          "text": "Que el lector no puede rastrear la cita hasta el cuento ni comprobar que es fiel al original.",
+          "is_correct": true,
+          "feedback": "Correcto, sin referencia identificable la cita se vuelve una afirmación sin respaldo y el trabajo pierde verificabilidad."
+        },
+        {
+          "letter": "C",
+          "text": "Que en un periódico no se pueden usar comillas para citar a alguien.",
+          "is_correct": false,
+          "feedback": "El uso de comillas es legítimo en el periodismo; lo discute aquí es la falta de referencia."
+        },
+        {
+          "letter": "D",
+          "text": "Que la crónica aparece en la sección de Cultura y no en la de Opinión.",
+          "is_correct": false,
+          "feedback": "La sección del periódico no altera en nada la validez de la cita ni sus condiciones de rastreo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un trabajo de intertextualidad vive de la posibilidad de volver al fragmento y comprobarlo. Cuando una cita se suelta del contexto de publicación, el lector queda en manos de quien la usó y el análisis se vuelve incontrastable. Detectar ese punto ciego es una de las exigencias más altas del curso, porque afecta la confianza en todo el documento.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-10-2026-W37-la-intertextualidad-y-las-fuentes-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W37-la-intertextualidad-y-las-fuentes-001-MASTERY-bundle-v11",
+      "statement": "¿Qué error está cometiendo ese estudiante al usar el Texto 3 como fuente sobre las jornadas de lectura en Colombia?",
+      "context": "Un transcurrido de la clase de 10.º de Bogotá lee la crónica como si reseñara todas las jornadas de lectura del país.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Atribuir a una crónica periodística un propósito de censo documental que el género no persigue.",
+          "is_correct": true,
+          "feedback": "Correcto, el género informa sobre un hecho concreto para persuadir a su público, y no levanta el inventario de un fenómeno nacional."
+        },
+        {
+          "letter": "B",
+          "text": "Leer un texto informativo como si fuera un texto literario con trama.",
+          "is_correct": false,
+          "feedback": "La dificultad no está en el género, porque el estudiante sí lo trata como información; el problema es el alcance que le asigna."
+        },
+        {
+          "letter": "C",
+          "text": "Buscar en la crónica datos que solo aparecen en el Texto 2.",
+          "is_correct": false,
+          "feedback": "La crónica y el cuento son textos distintos, y nada impideFd consultarlos por separado."
+        },
+        {
+          "letter": "D",
+          "text": "Suponer que lo que afirma un periodista está verificado por ley y no puede discutirse.",
+          "is_correct": false,
+          "feedback": "Un periodista no es infalible, y suponer lo contrario terminaría en un criterio igualmente dogmático."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El género periodístico tiene un alcance limitado y un propósito persuasivo que conviene reconocer antes de citar. Presentar una crónica como descripción global de un fenómeno es una généralización sin respaldo. Evaluar el texto según su intención real evita tanto el escepticismo automático como la crédulidad ingenua frente a lo publicado.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LC-10-2026-W37-la-intertextualidad-y-las-fuentes-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W37-la-intertextualidad-y-las-fuentes-001-MASTERY-bundle-v12",
+      "statement": "Para el cuaderno del curso, ¿cuál es el procedimiento más riguroso para presentar un vínculo intertextual?",
+      "context": "El cuaderno del curso recoge en una sola página el balance de la semana y de las tres fuentes trabajadas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nombrar los dos textos y afirmar que los dos hablan de lo mismo.",
+          "is_correct": false,
+          "feedback": "La coincidencia de tema no alcanza para demostrar un vínculo, y ese razonamiento se queda en la superficie."
+        },
+        {
+          "letter": "B",
+          "text": "Copiar completo el párrafo del texto de destino para que no quede ninguna duda.",
+          "is_correct": false,
+          "feedback": "La extensión no sustituye la argumentación, y copiar todo el párrafo ocupa espacio sin explicar el efecto del vínculo."
+        },
+        {
+          "letter": "C",
+          "text": "Citar el fragmento exacto, identificar el texto de destino con autor y fecha, y explicar qué efecto produce en el texto que lo usa.",
+          "is_correct": true,
+          "feedback": "Correcto, ese procedimiento une evidencia, referencia completa y explicación del efecto, que es lo que hace verificable la afirmación."
+        },
+        {
+          "letter": "D",
+          "text": "Mencionar cuántos lectores tuvieron cada publicación para mostrar que ambas son conocidas.",
+          "is_correct": false,
+          "feedback": "La difusión no es evidencia de relación entre textos y no responde a la pregunta sobre el vínculo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El balance de la semana se cierra fijando un estándar de escritura argumentativa que el curso reutilizará en lecturas más largas. Un vínculo intertextual se afirma con evidencia, se identifica con datos de publicación y se explica por su efecto. Dominar ese formato evita el problema más común de esta tarea: decir que dos textos se parecen sin demostrar en qué ni cómo.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-10-2026-W37-la-intertextualidad-y-las-fuentes-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}

@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-39-grade-10-subject-lectura_critica",
+    "generated_at": "2026-09-30T22:28:00.106Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-10-2026-W39-la-fiabilidad-de-las-fuentes-001-MASTERY-bundle-v1",
+      "statement": "¿En qué tipo de plataforma se publicó el Texto 1?",
+      "context": "Al abrir la semana, la profesora de Lenguaje pregunta de dónde salió cada uno de los tres materiales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En la página oficial del Ministerio de Educación Nacional.",
+          "is_correct": false,
+          "feedback": "El material no está en un portal institucional, sino en un grupo cerrado de una red social."
+        },
+        {
+          "letter": "B",
+          "text": "En un foro académico de la universidad donde estudia el curso.",
+          "is_correct": false,
+          "feedback": "La publicación aparece en un grupo de estudiantes de undécimo grado de Pasto y no en un foro universitario."
+        },
+        {
+          "letter": "C",
+          "text": "En un medio digital dedicado a noticias del departamento del Cauca.",
+          "is_correct": false,
+          "feedback": "Un medio noticioso publica con criterio editorial, y esa no es la plataforma del Texto 1."
+        },
+        {
+          "letter": "D",
+          "text": "En un grupo cerrado de Facebook de estudiantes de undécimo grado de Pasto.",
+          "is_correct": true,
+          "feedback": "Correcto, el texto describe un grupo cerrado de una red social con estudiantes de undécimo grado de Pasto."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Reconocer la plataforma de origen es el primer filtro de fiabilidad, porque cada medio tiene reglas propias de publicación. Un grupo cerrado de una red social no responde a ningún código editorial ni a una revisión de datos. Identificar ese origen evita que el material se presente más adelante como si fuera información oficial.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Literal",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-10-2026-W39-la-fiabilidad-de-las-fuentes-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W39-la-fiabilidad-de-las-fuentes-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la promesa central del Texto 1?",
+      "context": "El primer ejercicio de la semana es resumir en una línea cada texto antes de valorar sus credenciales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que se abre una nueva sede del Ministerio en el departamento de Nariño.",
+          "is_correct": false,
+          "feedback": "El texto no habla de sedes ni de apertura de oficinas, porque su contenido gira en torno a un beneficio económico."
+        },
+        {
+          "letter": "B",
+          "text": "Que los estudiantes de undécimo grado reciben 500.000 COP antes del viernes.",
+          "is_correct": true,
+          "feedback": "Correcto, esa es la afirmación principal del mensaje y la que motivates a compartirlo con tanta rapidez."
+        },
+        {
+          "letter": "C",
+          "text": "Que se nombran nuevos maestros en el norte del departamento.",
+          "is_correct": false,
+          "feedback": "El mensaje no menciona docentes ni nombramientos, y esa información no aparece en ninguna línea del texto."
+        },
+        {
+          "letter": "D",
+          "text": "Que se aplaza la aplicación de las pruebas nacionales del próximo mes.",
+          "is_correct": false,
+          "feedback": "El texto no se refiere a las pruebas nacionales ni a ningún aplazamiento de calendario."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Reducir el contenido central con palabras propias permite detectar de inmediato el propósito de un mensaje. En este caso el resumen revela que el texto ofrece un beneficio económico con fecha límite. Ese par de elementos, beneficio y urgencia, es la estructura más común de los mensajes engañosos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-10-2026-W39-la-fiabilidad-de-las-fuentes-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W39-la-fiabilidad-de-las-fuentes-001-MASTERY-bundle-v3",
+      "statement": "¿Para qué recurre el Texto 1 a la urgencia en su mensaje?",
+      "context": "El profesor pregunta qué efecto busca provocar la frase solo hasta el viernes del Texto 1.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para que el lector actúe antes de verificar y entregue sus datos sin comprobarlos.",
+          "is_correct": true,
+          "feedback": "Correcto, el plazo corto impide la comprobación y empuja a completar el formulario de inmediato."
+        },
+        {
+          "letter": "B",
+          "text": "Para informar el calendario real de entrega del beneficio oficial.",
+          "is_correct": false,
+          "feedback": "El mensaje no es un calendario oficial, y la urgencia responde a una estrategia de persuasión, no a un dato de origen."
+        },
+        {
+          "letter": "C",
+          "text": "Para mostrar que el programa es conocido en toda la región del sur.",
+          "is_correct": false,
+          "feedback": "La urgencia no dice nada sobre el alcance geográfico del programa, porque el texto no aporta esa información."
+        },
+        {
+          "letter": "D",
+          "text": "Para ordenar los pasos del trámite que deben seguir los estudiantes.",
+          "is_correct": false,
+          "feedback": "Un trámite se explica paso a paso y sin apremio, de modo que la urgencia no cumple esa función."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La urgencia es una decisión pragmática: modifica el orden en que el lector normalmente verifica antes de actuar. Un mensaje que ofrece un beneficio con fecha límite busca saltarse ese paso. Reconocer la estrategia explica por qué el texto pide datos personales en lugar de limitarse a informar.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-10-2026-W39-la-fiabilidad-de-las-fuentes-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W39-la-fiabilidad-de-las-fuentes-001-MASTERY-bundle-v4",
+      "statement": "¿Qué detalle del Texto 1 ofrece una señal clara para sospechar de su origen?",
+      "context": "El grupo de Barranquilla revisa la imagen del Texto 1 antes de decidir si la comparte en el aula.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la publicación no incluye la fecha del supuesto evento.",
+          "is_correct": false,
+          "feedback": "El mensaje sí está fechado dentro de la plataforma, y la ausencia de fecha no es lo que delata su origen."
+        },
+        {
+          "letter": "B",
+          "text": "Que el texto usa la segunda persona para dirigirse a los estudiantes.",
+          "is_correct": false,
+          "feedback": "El uso de la segunda persona es normal en cualquier mensaje dirigido a jóvenes, y no indica manipulación."
+        },
+        {
+          "letter": "C",
+          "text": "Que el escudo institucional aparece con un nombre que no corresponde al Ministerio de Educación.",
+          "is_correct": true,
+          "feedback": "Correcto, ese detalle delata la falsificación porque el escudo pretenderepresents una entidad que no firma el mensaje."
+        },
+        {
+          "letter": "D",
+          "text": "Que la imagen es más grande que el texto que acompaña al enlace.",
+          "is_correct": false,
+          "feedback": "El tamaño de los elementos gráficos es una decisión de diseño, no un indicio sobre la veracidad."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un lector informado busca detalles internos que puedan contradecir lo que el mensaje afirma ser. El escudo con un nombre institucional equivocado es una contradicción verificable sin salir del propio texto. Adquirir ese tipo de señal permite detectar falsificaciones antes de compartir o de entregar datos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LC-10-2026-W39-la-fiabilidad-de-las-fuentes-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W39-la-fiabilidad-de-las-fuentes-001-MASTERY-bundle-v5",
+      "statement": "¿Qué debería hacer un lector que encuentra la afirmación de que el valor de la matrícula subió 180 por ciento en todo el país?",
+      "context": "El curso revisa la infografía del Texto 2 y decide qué habría que consultar antes de citarla.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Revisar en el boletín del Ministerio si ese dato corresponde a todo el país o solo a un grupo de instituciones.",
+          "is_correct": true,
+          "feedback": "Correcto, el pie de la infografía ya revela que la medición es más estrecha que el titular, y eso obliga a verificar el alcance."
+        },
+        {
+          "letter": "B",
+          "text": "Aceptarla sin más porque la entidad que publica es una fundación con trayectoria.",
+          "is_correct": false,
+          "feedback": "La trayectoria de quien publica no sustituye la verificación del dato, sobre todo cuando la propia pieza lo acota."
+        },
+        {
+          "letter": "C",
+          "text": "Repetirla en el cuaderno porque aparece en un gráfico bien diseñado.",
+          "is_correct": false,
+          "feedback": "El diseño del gráfico no convierte un dato acotado en una afirmación nacional, porque son planos distintos."
+        },
+        {
+          "letter": "D",
+          "text": "Descartar toda la pieza porque el color usado en la portada es muy llamativo.",
+          "is_correct": false,
+          "feedback": "Un recurso visual no invalida una fuente completa, y la pieza incluye un dato correctamente citado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cuando un texto acota en su propio pie lo que mide, esa nota se convierte en el punto de partida de la verificación. La afirmación titular y la nota al pie viven en planos distintos, y el lector debe decidir cuál gobierna. Ese ejercicio prepara al estudiante para trabajar con fuentes que mezclan datos correctos y conclusiones exageradas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-10-2026-W39-la-fiabilidad-de-las-fuentes-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W39-la-fiabilidad-de-las-fuentes-001-MASTERY-bundle-v6",
+      "statement": "¿Qué estructura explica mejor la eficacia del Texto 1?",
+      "context": "Los equipos de trabajo analizan qué estructura hace que el Texto 1 resulte tan eficaz para cumplir su propósito.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sigue una secuencia cronológica detallada de los siete meses del programa.",
+          "is_correct": false,
+          "feedback": "El mensaje no desarrolla ninguna cronología, porque su fuerza está en ser breve, no en ser exhaustivo."
+        },
+        {
+          "letter": "B",
+          "text": "Combina un beneficio económico, una fecha límite y un enlace que solicita datos, en ese orden.",
+          "is_correct": true,
+          "feedback": "Correcto, esa secuencia engancha al lector, apura la decisión y conduce al formulario sin dar tiempo a verificar."
+        },
+        {
+          "letter": "C",
+          "text": "Expone los requisitos del programa en orden alfabético para facilitar la lectura.",
+          "is_correct": false,
+          "feedback": "No hay lista de requisitos ni orden alfabético en el mensaje, y ese no es el mecanismo que lo hace eficaz."
+        },
+        {
+          "letter": "D",
+          "text": "Alterna estadísticas de matrículas con opiniones de estudiantes de años anteriores.",
+          "is_correct": false,
+          "feedback": "El mensaje no incluye estadísticas ni opiniones ajenas, porque su contenido se limita a una promesa de dinero."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Analizar la estructura de un texto permite explicar por qué funciona como funciona, y no solo qué dice. El orden beneficio, plazo y formulario es una secuencia probada para obtener respuestas rápidas. Identificar ese montaje enseña a reconocer una estrategia persuasiva aun cuando el texto use un lenguaje muy sencillo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-10-2026-W39-la-fiabilidad-de-las-fuentes-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W39-la-fiabilidad-de-las-fuentes-001-MASTERY-bundle-v7",
+      "statement": "Según el Texto 3, ¿por qué la carta del lector resulta creíble para gran parte de sus lectores?",
+      "context": "La pregunta del taller pide a los grupos qué hace que una carta de lector resulte convincente para el público.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque incluye las cifras oficiales del programa de becas que recibió el autor.",
+          "is_correct": false,
+          "feedback": "La carta no incluye cifras oficiales, y la ausencia de ese dato no es lo que produce el efecto de veracidad."
+        },
+        {
+          "letter": "B",
+          "text": "Porque aporta el número de expediente que permite rastrear la beca en los archivos públicos.",
+          "is_correct": false,
+          "feedback": "El texto no menciona ningún expediente, y el efecto de la carta no depende de la posibilidad de rastrearla."
+        },
+        {
+          "letter": "C",
+          "text": "Porque los detalles concretos convierten la historia en algo que cualquier lector puede reconocer como propio.",
+          "is_correct": true,
+          "feedback": "Correcto, el examen que no pudo presentar y la bicicleta vendida conectan la historia con la experiencia de cualquiera."
+        },
+        {
+          "letter": "D",
+          "text": "Porque fue publicada por un periódico de circulación nacional con un equipo editorial reconocido.",
+          "is_correct": false,
+          "feedback": "La carta se publicó en un diario regional, y el efecto no proviene de la tirada ni del reconocimiento del medio."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Inferir la causa de un efecto significa relacionar lo que el texto hace con lo que el lector siente. Un relato cargado de detalles cotidianos se vuelve comprensible en la imaginación del público. Esa fuerza persuasiva explica por qué un texto sin datos puede mover a un público amplio, y también por qué no permite generalizar.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Inferencial",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-10-2026-W39-la-fiabilidad-de-las-fuentes-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W39-la-fiabilidad-de-las-fuentes-001-MASTERY-bundle-v8",
+      "statement": "¿Qué efecto tiene en la lectura del Texto 2 que el eje del gráfico no vuelva a cero?",
+      "context": "Los grupos revisan el gráfico del Texto 2 antes de escribir el análisis de la semana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hace que la diferencia entre los valores de los años comparados parezca mayor de lo que es.",
+          "is_correct": true,
+          "feedback": "Correcto, un eje que arranca en un valor alto exagera visualmente la variación y la hace más impactante de lo real."
+        },
+        {
+          "letter": "B",
+          "text": "Hace que la diferencia entre los valores de los años comparados parezca menor de lo que es.",
+          "is_correct": false,
+          "feedback": "Un eje que no vuelve a cero amplifica la variación y no la reduce, de modo que ese efecto es el contrario del real."
+        },
+        {
+          "letter": "C",
+          "text": "No altera en nada la interpretación, porque el gráfico incluye los valores numéricos escritos.",
+          "is_correct": false,
+          "feedback": "La escala del eje modifica la impresión que produce la comparación, aunque los números estén visibles junto a las barras."
+        },
+        {
+          "letter": "D",
+          "text": "Convierte el gráfico en una prueba de que el dato del boletín es falso.",
+          "is_correct": false,
+          "feedback": "El eje distorsiona la presentación, pero no demuestra que el dato de origen sea falso ni verdadero."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un gráfico es un texto, y se lee con la misma exigencia con que se lee un párrafo. La escala elegida cambia lo que el lector percibe, incluso cuando los números son correctos. Este ejemplo prepara al curso para mirar cualquier pieza visual como una afirmación que puede ser evaluada con criterios.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LC-10-2026-W39-la-fiabilidad-de-las-fuentes-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W39-la-fiabilidad-de-las-fuentes-001-MASTERY-bundle-v9",
+      "statement": "¿Qué combinación de fuentes es la más sólida para sostener una investigación sobre el costo de la educación superior?",
+      "context": "Los grupos arman una tabla de contraste con las tres fuentes para un trabajo sobre acceso a la educación superior.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las tres fuentes, porque provienen de tres regiones distintas del país.",
+          "is_correct": false,
+          "feedback": "La procedencia geográfica no garantiza nada, porque el problema del Texto 1 y de la carta del Texto 3 no es de origen."
+        },
+        {
+          "letter": "B",
+          "text": "El Texto 1 y la carta del Texto 3, porque ambos cuentan historias que se pueden emocionar al lector.",
+          "is_correct": false,
+          "feedback": "Emocionar no es verificar, y ninguno de los dos materiales aporta datos comprobables sobre costos."
+        },
+        {
+          "letter": "C",
+          "text": "El boletín oficial junto con la ficha de verificación que menciona el alcance real de la infografía.",
+          "is_correct": true,
+          "feedback": "Correcto, esa pareja permite contrastar el dato publicado con el límite real de la medición y llegar a una conclusión verificable."
+        },
+        {
+          "letter": "D",
+          "text": "La carta del Texto 3, porque un testimonio personal nunca puede estar manipulado.",
+          "is_correct": false,
+          "feedback": "Un testimonio puede ser cierto y aun así estar incompleto, porque no permite generalizar a toda la población."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar un conjunto de fuentes exige entender que cada una cubre una parte del problema y ninguna lo resuelve sola. La fuente institucional aporta el dato y la ficha revela su alcance. Combinar ambas permite escribir una conclusión con límites claros, en lugar de una afirmación rotunda que nadie puede defender.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-10-2026-W39-la-fiabilidad-de-las-fuentes-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W39-la-fiabilidad-de-las-fuentes-001-MASTERY-bundle-v10",
+      "statement": "¿Qué revela que el Texto 1 circulóó masivamente entre personas a quienes el supuesto beneficio no corresponde?",
+      "context": "El profesor pregunta porñ por qué el Texto 1 circula incluso entre estudiantes que no estudian en undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el mensaje fue escrito por alguien que no conoce el sistema educativo del país.",
+          "is_correct": false,
+          "feedback": "La circulación masiva no depende de quién escribió el texto, sino de la forma en que está construido."
+        },
+        {
+          "letter": "B",
+          "text": "Que el subsidy del que habla el mensaje en realidad existe en todo el territorio nacional.",
+          "is_correct": false,
+          "feedback": "Nada en el texto indica que el beneficio exista, y la circulación no prueba su veracidad."
+        },
+        {
+          "letter": "C",
+          "text": "Que la imagen del escudo institucional fue tomada de un documento auténtico del Ministerio.",
+          "is_correct": false,
+          "feedback": "La circulación no dependía de la autenticidad del escudo, y ese punto ya es precisamente una señal de falsificación."
+        },
+        {
+          "letter": "D",
+          "text": "Que el texto está diseñado con independencia de quién lo lea y solo necesita que alguien lo comparta.",
+          "is_correct": true,
+          "feedback": "Correcto, el mecanismo no depende del perfil del lector, sino de que la promesa y la urgencia se transmitan sin filtro."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar el alcance de un mensaje exige mirar a quién alcanza realmente, no solo a quién está dirigido. Un texto construido para propagarse no necesita que su beneficio sea real ni que su lector tenga derecho a él. Ese detalle explica por qué los mensajes de este tipo circulan tan rápido en comunidades de estudiantes.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-10-2026-W39-la-fiabilidad-de-las-fuentes-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W39-la-fiabilidad-de-las-fuentes-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es el procedimiento más riguroso para verificar un dato que aparece por primera vez en un mensaje de redes sociales?",
+      "context": "La semana cierra con el protocolo de verificación que el curso usará en el trabajo final de grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Buscar la fuente que dice haberlo producido, comparar el alcance y la fecha, y solo después citarlo.",
+          "is_correct": true,
+          "feedback": "Correcto, ese procedimiento devuelve el dato a su origen y evita repetir como certain lo que solo alguien afirmó."
+        },
+        {
+          "letter": "B",
+          "text": "Contar cuántos usuarios compartieron el mensaje, porque la difusión confirma la veracidad.",
+          "is_correct": false,
+          "feedback": "La difusión mide interés, no verdad, y un mensaje falso puede reproducirse miles de veces sin volverse cierto."
+        },
+        {
+          "letter": "C",
+          "text": "Consultar la fuente original y reproducir su frase exacta aunque el contexto la contradiga.",
+          "is_correct": false,
+          "feedback": "Copiar la frase sin contexto puede invertir el sentido y convertir una advertencia en una afirmación."
+        },
+        {
+          "letter": "D",
+          "text": "Preguntar en el salón de clase si alguien conoce el programa antes de buscarlo.",
+          "is_correct": false,
+          "feedback": "La memoria colectiva del grupo puede ser exacto, y de todos modos la consulta no reemplaza la fuente primaria."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un protocolo de verificación sirve para que la decisión no dependa del ánimo del lector en un momento dado. Rastrear el dato hasta quien dice haberlo producido es el paso que casi ningún mensaje engañoso puede superar. Aplicar ese mismo orden a fuentes verdaderas mantiene la misma exigencia y evita que la desconfianza se convierta en un automatismo.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LC-10-2026-W39-la-fiabilidad-de-las-fuentes-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W39-la-fiabilidad-de-las-fuentes-001-MASTERY-bundle-v12",
+      "statement": "¿Qué actuar del curso es el más prudente?",
+      "context": "Un compañero de 10.º recibió el mensaje del Texto 1 y le pregunta al curso qué debe hacer.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Compartir el enlace con el resto del salón para que todos puedan aprovechar el beneficio.",
+          "is_correct": false,
+          "feedback": "Compartir sin verificar amplifica el riesgo, porque el curso no puede confirmar que el beneficio exista."
+        },
+        {
+          "letter": "B",
+          "text": "Publicar un mensaje en el grupo de Facebook del colegio que desmienta la información.",
+          "is_correct": false,
+          "feedback": "Un desmentido en el mismo canal y sin evidencia solo agrega ruido, porque no resuelve la verificación del dato original."
+        },
+        {
+          "letter": "C",
+          "text": "Completar el formulario con datos personales para saber si el beneficio es real.",
+          "is_correct": false,
+          "feedback": "Entregar datos a un mensaje no verificado expone al estudiante y no ofrece ninguna garantía de que el beneficio exista."
+        },
+        {
+          "letter": "D",
+          "text": "No entregar sus datos y consultar el portal oficial del programa, siguiendo el protocolo de la semana.",
+          "is_correct": true,
+          "feedback": "Correcto, esa actuación respeta el protocolo y evita el daño personal sin dejar de buscar la información verdadera."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El ejercicio final traduce la lectura crítica a una conducta concreta. Ante un mensaje con beneficio y urgencia, la respuesta segura es no entregar datos y verificar en la fuente oficial. Aplicar ese mismo criterio en la vida diaria es el objetivo de la semana: menos enunciados repetidos y más fuentes comprobadas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-10-2026-W39-la-fiabilidad-de-las-fuentes-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}
