@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-40-grade-4-subject-lectura_critica",
+    "generated_at": "2026-09-30T10:38:23.064Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-4-2026-W40-la-revista-y-el-contraste-entre-secciones-001-MASTERY-bundle-v1",
+      "statement": "Lee con atención el siguiente fragmento de la revista.\n\n*\"En la página de la sección de ciencias de la revista escolar, la profesora escribe: \"Los estudiantes de cuarto grado midieron la temperatura del patio a las nueve de la mañana y anotaron treinta grados\".\"*\n\nSegún el fragmento, ¿qué midieron los estudiantes?",
+      "context": "En la clase de cuarto de Bogotá, la profesora reparte la revista escolar antes de empezar la lectura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La longitud del patio, porque la sección aparece en la página de ciencias",
+          "is_correct": false,
+          "feedback": "Incorrecto. La sección de ciencias no se ocupa de longitudes, y el fragmento no menciona ninguna medición de ese tipo."
+        },
+        {
+          "letter": "B",
+          "text": "La temperatura del patio, porque el fragmento lo dice de forma directa",
+          "is_correct": true,
+          "feedback": "Correcto. El texto afirma que midieron la temperatura del patio y que anotaron treinta grados, y eso responde la pregunta de manera literal."
+        },
+        {
+          "letter": "C",
+          "text": "El número de estudiantes del curso, porque el fragmento menciona a los estudiantes",
+          "is_correct": false,
+          "feedback": "Incorrecto. El fragmento menciona a los estudiantes como quienes hacen la medición, y no dice cuántos estudiantes hay en el curso."
+        },
+        {
+          "letter": "D",
+          "text": "La hora de la salida, porque el fragmento dice que la medición fue a las nueve",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las nueve de la mañana son la hora en que tomaron la temperatura, y no la hora de la salida del colegio."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Leer un texto de forma literal es responder solo con lo que el escrito dice, sin agregar datos de nuestra imaginación. Reconocer el verbo principal de una frase, como medir o anotar, ayuda a los niños a no inventar hechos que el autor nunca escribe. Esa disciplina es la base para trabajar con las secciones de una revista escolar.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Literal",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-4-2026-W40-la-revista-y-el-contraste-entre-secciones-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W40-la-revista-y-el-contraste-entre-secciones-001-MASTERY-bundle-v2",
+      "statement": "Observa las dos frases que usan la palabra nota.\n\n*\"Frase 1: En la sección de deportes de la revista, la nota cuenta que los alumnos llegaron primeros a la meta. Frase 2: En la sección de música, la nota es un papel pequeño donde el profesor escribió qué canción era la primera.\"*\n\n¿Qué diferencia de significado hay entre las dos frases?",
+      "context": "En un taller de lectura de cuarto de Medellín, los estudiantes descubren que una palabra puede tener sentidos distintos según la sección donde aparece.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La frase 1 usa la palabra en sentido amplio y la frase 2 en sentido literal",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es al revés: en la frase 1 la palabra nombra un escrito periodístico y en la frase 2 nombra un papel pequeño."
+        },
+        {
+          "letter": "B",
+          "text": "Las dos frases usan la palabra con el mismo sentido, porque las dos están en una revista",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una frase habla de un resultado deportivo y la otra de un papel escrito, así que no es el mismo sentido."
+        },
+        {
+          "letter": "C",
+          "text": "La frase 1 usa la palabra como escrito de una noticia y la frase 2 como papel pequeño",
+          "is_correct": true,
+          "feedback": "Correcto. En la sección de deportes la nota es el escrito que informa, y en la sección de música es el papel donde se anota."
+        },
+        {
+          "letter": "D",
+          "text": "La frase 2 usa la palabra en sentido amplio y la frase 1 como papel pequeño",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase 1 no habla de un papel, sino del escrito que cuenta lo ocurrido en el deporte."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Entender el sentido de una palabra según el contexto evita confusiones al leer una revista. La misma palabra puede nombrar el escrito que informa o un papel donde se anota algo. Saber cuándo se usa en un sentido y cuándo en otro enseña a los niños a comprender mejor cada sección de una publicación.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-4-2026-W40-la-revista-y-el-contraste-entre-secciones-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W40-la-revista-y-el-contraste-entre-secciones-001-MASTERY-bundle-v3",
+      "statement": "Lee los cuatro textos que encontraron los cuatro grupos.\n\n*\"Texto 1: \"La librería cambió el precio del cuaderno del colegio\". Texto 2: \"Preguntamos a la señora de la panadería por qué abrió temprano. Ella dijo que empieza en su casa cuando era pequeña\". Texto 3: \"El colegio compró treinta cuadernos nuevos para el salón de cuarto\". Texto 4: \"Los alumnos pintaron un mural con las manos y lo secaron al sol junto a la pared\".*\n\n¿Cuál de los cuatro textos corresponde mejor a la sección de Entrevistas de la revista?",
+      "context": "En el aula de cuarto de Bucaramanga, un grupo debe completar la tabla de contenidos de la revista del colegio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El texto 1, porque menciona un precio que hay que pagar",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto 1 anuncia un valor y no recoge la voz de una persona, así que no es una entrevista."
+        },
+        {
+          "letter": "B",
+          "text": "El texto 3, porque entrega una hora exacta de un evento",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto 3 solo informa de una compra, y eso corresponde a la sección de noticias del colegio y no a una entrevista."
+        },
+        {
+          "letter": "C",
+          "text": "El texto 4, porque cuenta una actividad manual que hicieron los alumnos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto 4 describe una actividad del mural, y una entrevista necesita la voz de alguien que responde."
+        },
+        {
+          "letter": "D",
+          "text": "El texto 2, porque incluye una pregunta y luego la respuesta de la señora",
+          "is_correct": true,
+          "feedback": "Correcto. Una entrevista tiene una pregunta y una respuesta, y por eso ese texto corresponde a esa sección de la revista."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Clasificar un texto dentro de una revista es identificar la forma que tiene. Una entrevista empieza con una pregunta y sigue con la respuesta de la persona, mientras que una noticia informa de un hecho. Enseñar a los niños a clasificar por la forma les da una herramienta útil para cualquier lectura.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-4-2026-W40-la-revista-y-el-contraste-entre-secciones-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W40-la-revista-y-el-contraste-entre-secciones-001-MASTERY-bundle-v4",
+      "statement": "Lee las dos frases de la sección de ciencias y fíjate en cómo están organizadas.\n\n*\"Frase 1: \"El agua del río bajó porque llovió en la montaña\". Frase 2: \"¿Por qué bajó el agua del río durante la noche?\"*\n\n¿Qué diferencia se observa entre las dos frases?",
+      "context": "En la clase de cuarto de Villavicencio, la profesora pide observar cómo están escritas las frases de una página de la revista.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La frase 1 tiene dos oraciones y la frase 2 es un título de sección",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase 1 es una sola oración con un porque, y la frase 2 es una oración con signo de interrogación."
+        },
+        {
+          "letter": "B",
+          "text": "La frase 1 es una oración con un conector causal, y la frase 2 es una oración en forma de pregunta",
+          "is_correct": true,
+          "feedback": "Correcto. La primera expresa una causa con porque, y la segunda se construye como pregunta para pedir una explicación."
+        },
+        {
+          "letter": "C",
+          "text": "La frase 1 termina con un punto y la frase 2 termina con un signo de interrogación",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las dos frases sí terminan con esos signos, y esa diferencia es de puntuación y no de estructura."
+        },
+        {
+          "letter": "D",
+          "text": "La frase 1 tiene un sujeto simple y la frase 2 tiene un sujeto compuesto",
+          "is_correct": false,
+          "feedback": "Incorrecto. En las dos frases el sujeto es una sola cosa, y por eso ninguna de las dos tiene un sujeto compuesto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Observar cómo está construida una frase ayuda a los niños a entender qué afirma cada una y qué pide. Una oración puede unir un hecho y su causa con porque, y otra puede convertirse en pregunta. Reconocer esas dos estructuras ayuda tanto a leer una revista como a escribir el informe de un experimento.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-4-2026-W40-la-revista-y-el-contraste-entre-secciones-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W40-la-revista-y-el-contraste-entre-secciones-001-MASTERY-bundle-v5",
+      "statement": "Lee el comienzo del texto que la profesora escribió en la sección de ciencias de la revista.\n\n*\"Cuando medimos la temperatura del patio vimos que el patio estaba más caliente que el salón. En esta nota explicamos el resultado con palabras sencillas, porque cualquiera de los lectores quiere entenderlo y lo va a usar en la casa\".\"*\n\n¿Qué busca la profesora con esa forma de escribir?",
+      "context": "En un trabajo en grupo de cuarto de Armenia, los estudiantes analizan por qué la profesora eligió la forma de nota que usó.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Avisar que el patio se va a cerrar, porque cuenta que estaba muy caliente",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto solo compara la temperatura del patio con la del salón, y en ningún momento anuncia un cierre."
+        },
+        {
+          "letter": "B",
+          "text": "Enseñar a los niños a comprar un termómetro nuevo para el colegio",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no habla de comprar nada, y su propósito es explicar un resultado de manera sencilla."
+        },
+        {
+          "letter": "C",
+          "text": "Que cualquier lector entienda el resultado, porque explica el dato con palabras sencillas",
+          "is_correct": true,
+          "feedback": "Correcto. La profesora dice que usa palabras sencillas para que cualquier persona lo entienda, y eso es el propósito que ella declara."
+        },
+        {
+          "letter": "D",
+          "text": "Invitar a los niños a medir la temperatura en la casa, porque anuncia una actividad nueva",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no invita a nadie a medir en la casa, y su propósito declarado es que los lectores entiendan el resultado."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Analizar el propósito de un texto es preguntar qué efecto quiere producir en quien lo lee, más allá de los datos que entrega. Cuando un autor declara que escribe con palabras sencillas, está pensando en su lector. Reconocer esa intención enseña a los niños a valorar la claridad al escribir para la revista del colegio.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-4-2026-W40-la-revista-y-el-contraste-entre-secciones-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W40-la-revista-y-el-contraste-entre-secciones-001-MASTERY-bundle-v6",
+      "statement": "Lee los dos textos que cuentan la feria escolar.\n\n*\"Texto 1: \"La feria empezó temprano y con mucha gente. Hubo ventas en cada salón. La música no paró en todo el día. Al final todos volvimos a las casas\". Texto 2: \"La feria del colegio abrió a las ocho de la mañana. En los salones hubo ventas de comida típica y de artesanías. Cerró a la una de la tarde\".*\n\n¿Qué diferencia en la organización se observa entre los dos textos?",
+      "context": "En el aula de cuarto de Cali, la profesora pide comparar dos textos de la revista sobre la misma feria del colegio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El texto 2 tiene más fechas y por eso informa mejor sobre la feria",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto 2 no incluye fechas del calendario, y su ventaja no está en los datos del calendario."
+        },
+        {
+          "letter": "B",
+          "text": "Los dos textos informan con el mismo orden y solo cambian las palabras",
+          "is_correct": false,
+          "feedback": "Incorrecto. El primero sigue la feria como una serie de momentos y el segundo solo presenta datos sueltos sin ordenar la sucesión."
+        },
+        {
+          "letter": "C",
+          "text": "El texto 1 está incompleto porque no menciona quién organizó la feria",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un informe breve no necesita nombrar organizadores, y el texto 1 sí cumple con lo que se propone contar."
+        },
+        {
+          "letter": "D",
+          "text": "El texto 2 ordena los hechos con datos concretos, y el texto 1 avanza con momentos más generales",
+          "is_correct": true,
+          "feedback": "Correcto. El texto 2 da horas y lugares precisos, y el texto 1 usa expresiones generales como temprano y con mucha gente."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Analizar la forma en que un texto informa es observar si entrega datos concretos o solo impresiones generales. Expresiones como temprano o con mucha gente describen sin precisar, mientras que las horas y los lugares fijan el hecho. Notar esa diferencia enseña a los niños a escribir noticias claras para la revista del colegio.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LC-4-2026-W40-la-revista-y-el-contraste-entre-secciones-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W40-la-revista-y-el-contraste-entre-secciones-001-MASTERY-bundle-v7",
+      "statement": "Un compañero de tu grupo afirma lo siguiente.\n\n*\"Como la sección de deportes de la revista cuenta que el colegio obtuvo un campeonato, entonces todos los alumnos tienen que ser ótimos corredores. Además, lo que dice la revista es verdad porque lo escribió nuestro propio profesor.\"*\n\n¿Cuál es la respuesta más sólida que puede darle el grupo a esa afirmación?",
+      "context": "En la reunión de aula de un colegio en Popayán, un compañero de tu grupo defiende lo que dice una sección de la revista.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La afirmación es correcta, porque ganar un campeonato demuestra que todos los alumnos corren bien",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un logro del colegio en deportes no dice nada sobre el rendimiento de cada alumno en particular."
+        },
+        {
+          "letter": "B",
+          "text": "La afirmación es incorrecta, porque un dato de la revista se puede comparar con otras secciones y con otras fuentes",
+          "is_correct": true,
+          "feedback": "Correcto. Contrastar el dato con otras secciones y con otras fuentes permite confirmar lo que dice y detectar lo que falta."
+        },
+        {
+          "letter": "C",
+          "text": "La afirmación es incorrecta, porque la sección de deportes de una revista escolar nunca está bien escrita",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una sección puede estar muy bien escrita, y lo importante es leerla con criterio y compararla."
+        },
+        {
+          "letter": "D",
+          "text": "La afirmación es incorrecta, porque los textos de la revista del colegio no sirven para nada",
+          "is_correct": false,
+          "feedback": "Incorrecto. La revista escolar es una fuente muy valiosa del colegio, y lo importante es saber usarla bien."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar lo que afirma un texto es ponerlo a prueba y no darlo por verdadero solo porque lo escribió alguien de confianza. Un dato de la revista se vuelve más confiable cuando se compara con otras secciones y con otras fuentes del colegio. Esta costumbre de contrastar enseña a los niños a leer cualquier publicación con ojos críticos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-4-2026-W40-la-revista-y-el-contraste-entre-secciones-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W40-la-revista-y-el-contraste-entre-secciones-001-MASTERY-bundle-v8",
+      "statement": "Los cuatro grupos redactaron una versión sobre la feria del colegio.\n\n*\"Grupo 1: \"La feria fue la más bonita del colegio y por eso no hay nada más que contar\". Grupo 2: \"La sección de noticias dice que la feria abrió a las ocho de la mañana, y la sección de deportes cuenta que hubo tres equipos en la final del torneo de futbol\". Grupo 3: \"Una alumna cuenta que la feria apareció sola, porque el patio siempre estuvo lleno de mesas\". Grupo 4: \"La feria fue la más bonita del colegio, y eso es algo que todos saben\".\"*\n\n¿Cuál de las cuatro versiones es la más sólida como crónica escolar?",
+      "context": "Como tarea final, los grupos de cuarto de Cartagena deben escribir la crónica de un evento de la revista usando dos secciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La del grupo 1, porque da una opinión sobre la feria y con eso responde todo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El grupo 1 solo da un adjetivo sobre la feria y no aporta dato, momento ni sección de la revista."
+        },
+        {
+          "letter": "B",
+          "text": "La del grupo 3, porque un testimonio de una alumna vale más que las secciones de la revista",
+          "is_correct": false,
+          "feedback": "Incorrecto. El testimonio es una fuente valiosa, y decir que la feria apareció solo no coincide con las secciones que ya cuentan la feria."
+        },
+        {
+          "letter": "C",
+          "text": "La del grupo 4, porque todos los alumnos están de acuerdo con esa afirmación",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa versión solo repite un adjetivo y no aporta dato, momento ni sección, así que no es una crónica."
+        },
+        {
+          "letter": "D",
+          "text": "La del grupo 2, porque señala las secciones, da la hora de apertura y cuenta lo que pasó en la final del torneo",
+          "is_correct": true,
+          "feedback": "Correcto. Esa versión menciona dos secciones de la revista, da un dato exacto de hora y describe lo ocurrido en la final, y con eso se puede comprobar."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Comparar cuatro versiones sobre un mismo evento enseña a ver qué tiene que tener una crónica escolar para ser confiable. Nombra las secciones que usa, da datos comprobables y cuenta lo que ocurrió con claridad. Practicar estos criterios les permite a los niños escribir la crónica de su colegio con honestidad y sin inventar datos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-4-2026-W40-la-revista-y-el-contraste-entre-secciones-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    }
+  ]
+}
