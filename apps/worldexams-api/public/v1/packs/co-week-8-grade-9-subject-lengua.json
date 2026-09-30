@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-8-grade-9-subject-lengua",
+    "generated_at": "2026-09-30T00:02:10.268Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-9-2026-W08-la-cronica-y-el-reportaje-001-MASTERY-bundle-v1",
+      "statement": "Qué característica comparten la crónica y el reportaje como géneros periodísticos?",
+      "context": "En el aula de Español de Medellín, la docente presenta a los estudiantes de noveno grado dos textos del periódico local.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se construyen a partir de hechos reales comprobados y de fuentes identificadas",
+          "is_correct": true,
+          "feedback": "Ambos géneros se apoyan en datos verificables y en personas que pueden ser citadas."
+        },
+        {
+          "letter": "B",
+          "text": "Relatan hechos antiguos que ya nadie recuerda y de los que no queda registro",
+          "is_correct": false,
+          "feedback": "Los géneros periodísticos tratan hechos recientes y comprobables."
+        },
+        {
+          "letter": "C",
+          "text": "Expresan la opinión del periodista sin comprobar ningún dato",
+          "is_correct": false,
+          "feedback": "La opinión puede aparecer, pero separada de los hechos comprobados."
+        },
+        {
+          "letter": "D",
+          "text": "Son textos de ficción que recrean personajes y diálogos inventados",
+          "is_correct": false,
+          "feedback": "La ficción pertenece a la literatura y no al periodismo de información."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La crónica y el reportaje comparten la base del periodismo: el trabajo sobre hechos reales que pueden ser comprobados. Ambos se apoyan en fuentes citadas, en testimonios y en la observación directa de lo ocurrido. Esta base verificada distingue a la prensa de la literatura y obliga al periodista a separar el dato de la interpretación personal.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W08-la-cronica-y-el-reportaje-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W08-la-cronica-y-el-reportaje-001-MASTERY-bundle-v2",
+      "statement": "Cuál es la diferencia principal entre una crónica y un reportaje?",
+      "context": "En la biblioteca escolar de Cali, un grupo de noveno grado lee una crónica y un reportaje sobre un mismo tema.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La crónica es de opinión y el reportaje es de ficción",
+          "is_correct": false,
+          "feedback": "Ninguno de los dos pertenece a la ficción, y la crónica no es un texto de opinión."
+        },
+        {
+          "letter": "B",
+          "text": "La crónica se publica en libros y el reportaje solo en periódicos",
+          "is_correct": false,
+          "feedback": "Los dos formatos se difunden por radio, prensa escrita y medios digitales."
+        },
+        {
+          "letter": "C",
+          "text": "El reportaje utiliza únicamente cifras, y la crónica no incluye ningún dato",
+          "is_correct": false,
+          "feedback": "Ambos géneros emplean datos, entrevistas y testimonios para sustentar su relato."
+        },
+        {
+          "letter": "D",
+          "text": "La crónica narra desde la experiencia del periodista, mientras el reportaje investiga a fondo un tema",
+          "is_correct": true,
+          "feedback": "La voz del cronista y la profundidad de la investigación marcan la diferencia entre ambos."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La crónica es un relato periodístico en el que el redactor aparece como testigo de los hechos y los cuenta desde su propia experiencia. El reportaje, en cambio, es una investigación que indaga en profundidad un tema y combina datos, documentos y entrevistas de varias fuentes. Entender esta diferencia ayuda a identificar las dos formas de hacer periodismo que conviven en la prensa colombiana.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semantico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LEN-9-2026-W08-la-cronica-y-el-reportaje-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W08-la-cronica-y-el-reportaje-001-MASTERY-bundle-v3",
+      "statement": "Un periodista entrevista a tres vecinos sobre la falta de agua en su barrio. Qué debe incluir el texto para que el testimonio sea confiable?",
+      "context": "Un estudiante de noveno grado de Pereira prepara una nota de prensa para el boletín del colegio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La opinión del periodista sobre si el barrio merece ayuda",
+          "is_correct": false,
+          "feedback": "La valoración personal del periodista no sustituye la identificación de las fuentes."
+        },
+        {
+          "letter": "B",
+          "text": "Una descripción larga del paisaje del barrio antes de consignar cualquier dato",
+          "is_correct": false,
+          "feedback": "La descripción ambienta el relato, pero no vuelve confiable un testimonio."
+        },
+        {
+          "letter": "C",
+          "text": "La identificación de las fuentes y la cita literal de sus palabras",
+          "is_correct": true,
+          "feedback": "Sin fuente identificable ni cita textual, el testimonio no puede verificarse."
+        },
+        {
+          "letter": "D",
+          "text": "Una indicación de lo que el barrio debería hacer a partir de ese día",
+          "is_correct": false,
+          "feedback": "Una indicación práctica no reemplaza la identificación de las personas entrevistadas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un testimonio confiable es aquel que puede rastrearse hasta la persona que lo dio y que se reproduce con fidelidad. Identificar a la fuente y citar sus palabras textualmente permite al lector comprobar la información. Esta práctica protege la credibilidad del medio y respeta a la persona entrevistada. Es un criterio que los estudiantes pueden aplicar al leer cualquier nota de prensa.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEN-9-2026-W08-la-cronica-y-el-reportaje-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W08-la-cronica-y-el-reportaje-001-MASTERY-bundle-v4",
+      "statement": "Un reportaje afirma que el noventa por ciento de los estudiantes del colegio leen todos los días. Cómo debe interpretar el lector ese dato?",
+      "context": "En Pasto, un grupo de noveno grado analiza cómo se presenta un dato en un reportaje.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Como una verdad comprobada, porque el reportaje cita siempre datos verificados",
+          "is_correct": false,
+          "feedback": "Un dato publicado puede tener errores de método y requiere verificación crítica."
+        },
+        {
+          "letter": "B",
+          "text": "Como una afirmación sin sentido, porque los datos nunca sirven en el periodismo",
+          "is_correct": false,
+          "feedback": "Los datos son fundamentales, pero su valor depende de cómo se obtuvieron."
+        },
+        {
+          "letter": "C",
+          "text": "Con atención al origen de la información y al modo en que se recogió el dato",
+          "is_correct": true,
+          "feedback": "Preguntar quién lo midió, cómo y sobre qué población da la clave para valorar el dato."
+        },
+        {
+          "letter": "D",
+          "text": "Como una opinión del periodista disfrazada de estadística",
+          "is_correct": false,
+          "feedback": "Sostener que todo dato es opinión elimina la diferencia entre dato y comentario."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un dato estadístico no es confiable por el simple hecho de estar publicado. El lector atento pregunta quién lo recogió, sobre qué población, con qué método y en qué periodo. Solo con esa información se puede juzgar si la cifra describe realmente lo que dice describir. Este hábito de interrogar las fuentes es una competencia crítica que el aula desarrolla desde noveno grado.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LEN-9-2026-W08-la-cronica-y-el-reportaje-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W08-la-cronica-y-el-reportaje-001-MASTERY-bundle-v5",
+      "statement": "En una crónica, qué papel desempeña la voz del periodista que presencia el hecho?",
+      "context": "En Florencia, un reportero prepara una crónica sobre la feria del municipio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ocupa el lugar de las personas entrevistadas, porque su versión sustituye a las demás",
+          "is_correct": false,
+          "feedback": "La voz del periodista no borra los testimonios, los complementa con su observación."
+        },
+        {
+          "letter": "B",
+          "text": "Aporta el punto de vista de quien estuvo presente y da contexto a lo que relataron las fuentes",
+          "is_correct": true,
+          "feedback": "El cronista observa, narra y ordena los testimonios desde su experiencia directa."
+        },
+        {
+          "letter": "C",
+          "text": "Desaparece del texto, porque la crónica debe ser objetiva y sin firma",
+          "is_correct": false,
+          "feedback": "La crónica no es anónima: su fuerza está en la voz de quien fue testigo."
+        },
+        {
+          "letter": "D",
+          "text": "Se usa únicamente para dar opiniones personales sobre los hechos relatados",
+          "is_correct": false,
+          "feedback": "La voz del cronista es testigo, y no solo comentarista, aunque pueda opinar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La crónica se construye desde la experiencia del periodista que estuvo en el lugar de los hechos. Su voz da color, ritmo y contexto a lo que relatan las personas entrevistadas, sin borrar sus voces. Cuando la observación se combina con el testimonio, el lector obtiene una imagen más completa del hecho. Comprender este papel del cronista es clave para distinguir su texto del reportaje de investigación.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semantico",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LEN-9-2026-W08-la-cronica-y-el-reportaje-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W08-la-cronica-y-el-reportaje-001-MASTERY-bundle-v6",
+      "statement": "Un reportaje sobre la contaminación de un río incluye el testimonio de un pescador, un análisis de laboratorio y fotografías. Qué muestra ese conjunto?",
+      "context": "Un estudiante de noveno grado de Leticia observa la estructura de un reportaje sobre un río contaminado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el reportaje cruza fuentes distintas para sostener su afirmación",
+          "is_correct": true,
+          "feedback": "El cruce de fuentes es el procedimiento que da solidez a una investigación periodística."
+        },
+        {
+          "letter": "B",
+          "text": "Que el reportaje se apoya en un solo testimonio y por eso es frágil",
+          "is_correct": false,
+          "feedback": "El texto incluye varias fuentes, de modo que no depende de un solo testimonio."
+        },
+        {
+          "letter": "C",
+          "text": "Que el reportaje repite la misma información por razones de claridad",
+          "is_correct": false,
+          "feedback": "Cada fuente aporta un elemento distinto, no una repetición del mismo dato."
+        },
+        {
+          "letter": "D",
+          "text": "Que el reportaje prefiere la emoción del testimonio a los datos objetivos",
+          "is_correct": false,
+          "feedback": "El texto no descarta los datos: los combina con el testimonio de quien los vive."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El reportaje se caracteriza por el cruce de fuentes: un dato de laboratorio, un testimonio y una imagen verifican el mismo hecho desde ángulos distintos. Cuando varias fuentes independientes confirman lo ocurrido, la afirmación gana solidez. Reconocer este procedimiento ayuda a valorar la calidad de una investigación periodística.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LEN-9-2026-W08-la-cronica-y-el-reportaje-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W08-la-cronica-y-el-reportaje-001-MASTERY-bundle-v7",
+      "statement": "Una crónica describe con detalle un aguacero que sacudió a un barrio y luego presenta el testimonio de los afectados. Qué efecto produce esa combinación de recursos?",
+      "context": "En el taller de lectura de Bucaramanga, un grupo de noveno grado revisa una crónica sobre su ciudad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Convierte el texto en un relato de ficción, porque los detalles son inventados",
+          "is_correct": false,
+          "feedback": "La crónica parte de hechos reales comprobados, aunque use descripciones vivas."
+        },
+        {
+          "letter": "B",
+          "text": "Debilita el relato, porque la descripción detiene el avance de la información",
+          "is_correct": false,
+          "feedback": "La descripción y el testimonio se complementan y no se anulan entre sí."
+        },
+        {
+          "letter": "C",
+          "text": "Convierte el texto en un informe técnico, porque mezcla descripción y testimonio",
+          "is_correct": false,
+          "feedback": "Un informe técnico no incluye la voz de las personas ni la experiencia del cronista."
+        },
+        {
+          "letter": "D",
+          "text": "Enriquece el relato, porque el dato concreto y la voz de los afectados se refuerzan entre sí",
+          "is_correct": true,
+          "feedback": "La escena vivida y el testimonio dan veracidad y humanidad al relato periodístico."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La combinación de la escena observada y el testimonio de los afectados es una de las fortalezas de la crónica. La descripción aporta el dónde y el cuándo, y el testimonio aporta la experiencia concreta de quien vivió el hecho. Juntas, estas voces dan veracidad y humanidad al relato. Analizar cómo se articulan estos recursos es parte del trabajo con textos periodísticos reales.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LEN-9-2026-W08-la-cronica-y-el-reportaje-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W08-la-cronica-y-el-reportaje-001-MASTERY-bundle-v8",
+      "statement": "Dos medios cubren el mismo hecho: uno cita a tres fuentes y el otro se apoya en una sola declaración. Qué puede concluir el lector?",
+      "context": "En Valledupar, estudiantes de noveno grado comparan dos versiones de una misma noticia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la versión basada en una sola fuente es necesariamente falsa",
+          "is_correct": false,
+          "feedback": "Una versión con pocos testimonios puede ser verdadera, solo que está menos comprobada."
+        },
+        {
+          "letter": "B",
+          "text": "Que la pluralidad de fuentes garantiza por sí sola que la información es correcta",
+          "is_correct": false,
+          "feedback": "Reunir muchas fuentes no sustituye la comprobación de cada una de ellas."
+        },
+        {
+          "letter": "C",
+          "text": "Que la segunda versión presenta menos elementos para comprobar lo que afirma",
+          "is_correct": true,
+          "feedback": "Con una sola declaración el lector tiene menos puntos de contraste disponibles."
+        },
+        {
+          "letter": "D",
+          "text": "Que la primera versión es mejor porque el medio que la publica es más antiguo",
+          "is_correct": false,
+          "feedback": "La antigüedad del medio no mide la solidez de la información que publica."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El contraste entre fuentes es el procedimiento que permite al lector valorar un texto periodístico. Cuando un relato se apoya en una sola declaración, hay menos puntos de comparación y la verificación se vuelve más difícil. La cantidad de fuentes no decide la verdad por sí sola, pero sí influye en la posibilidad de comprobar lo afirmado. Esta distinción es esencial para leer con criterio los textos de la prensa.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semantico",
+      "expected_success": 0.66,
+      "bundle_id": "CO-LEN-9-2026-W08-la-cronica-y-el-reportaje-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W08-la-cronica-y-el-reportaje-001-MASTERY-bundle-v9",
+      "statement": "Un reportaje publica una fotografía de una manifestación sin explicar cuándo se tomó. Qué riesgo tiene esa decisión?",
+      "context": "En Pereira, un grupo de noveno grado discute el uso de la fotografía en el periodismo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la fotografía sustituya el texto y vuelva innecesario el reportaje",
+          "is_correct": false,
+          "feedback": "La imagen complementa la información escrita y no reemplaza el texto del reportaje."
+        },
+        {
+          "letter": "B",
+          "text": "Que la imagen pierda valor informativo por no mostrar los rostros",
+          "is_correct": false,
+          "feedback": "El valor de una imagen depende del contexto que se explica, no de mostrar rostros."
+        },
+        {
+          "letter": "C",
+          "text": "Que el lector no pueda valorar el contexto en que se produjo el hecho",
+          "is_correct": true,
+          "feedback": "Sin fecha ni lugar, la imagen puede dar una impresión distinta de la realidad."
+        },
+        {
+          "letter": "D",
+          "text": "Que la publicación de imágenes esté prohibida en el periodismo escrito",
+          "is_correct": false,
+          "feedback": "Las fotografías son un recurso habitual y necesario en el periodismo escrito."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una imagen periodística necesita contexto para ser interpretada correctamente. Cuando se omite la fecha, el lugar o la circumstances...\n\nUna imagen periodística necesita contexto para ser interpretada correctamente. Cuando se omite la fecha, el lugar o las circunstancias de la toma, el lector puede construir una impresión equivocada de lo ocurrido. Explicar el origen de la foto es una decisión ética que protege la precisión del relato. Analizar estos recursos enseña a los estudiantes a mirar más allá de lo evidente en una página de periódico.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.64,
+      "bundle_id": "CO-LEN-9-2026-W08-la-cronica-y-el-reportaje-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W08-la-cronica-y-el-reportaje-001-MASTERY-bundle-v10",
+      "statement": "Un grupo afirma que un reportaje es confiable porque fue publicado en un medio reconocido. Qué evaluación de ese razonamiento es la más sólida?",
+      "context": "En el club de lectura de Bogotá, un grupo de noveno grado evalúa el trabajo periodístico de su escuela.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es insuficiente, porque el prestigio del medio no exime de comprobar fuentes y datos",
+          "is_correct": true,
+          "feedback": "Un medio reconocido puede publicar errores, así que la verificación sigue siendo necesaria."
+        },
+        {
+          "letter": "B",
+          "text": "Es correcta, porque todo lo publicado en un medio reconocido es cierto",
+          "is_correct": false,
+          "feedback": "El prestigio del medio no garantiza la exactitud de cada una de sus notas."
+        },
+        {
+          "letter": "C",
+          "text": "Es adecuada, porque la reputación del medio sustituye la comprobación de los hechos",
+          "is_correct": false,
+          "feedback": "Sustituir la comprobación por la reputación cierra la puerta a la verificación."
+        },
+        {
+          "letter": "D",
+          "text": "Es inadecuada, porque la reputación del medio nunca debe considerarse al valorar un texto",
+          "is_correct": false,
+          "feedback": "La reputación es un dato pertinente, pero por sí sola no acredita la información."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar un razonamiento exige separar lo que el argumento menciona de lo que realmente demuestra. El prestigio del medio es un dato de contexto pertinente, pero no reemplaza la comprobación de fuentes y datos. Un criterio sólido combina varios elementos: origen de la fuente, método de verificación y coherencia interna. Este razonamiento prepara al estudiante para el trabajo con fuentes de información reales.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-9-2026-W08-la-cronica-y-el-reportaje-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W08-la-cronica-y-el-reportaje-001-MASTERY-bundle-v11",
+      "statement": "Qué valoración es la más sólida de ese texto?",
+      "context": "Un estudiante de noveno grado de Cali lee una crónica escrita por un periodista que fue testigo de los hechos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un texto de ficción, porque incluye descripciones y testimonios",
+          "is_correct": false,
+          "feedback": "Los testimonios y las descripciones no convierten un relato real en ficción."
+        },
+        {
+          "letter": "B",
+          "text": "Es un texto publicitario, porque busca convencer al lector de comprar algo",
+          "is_correct": false,
+          "feedback": "No hay ningún propósito comercial en una crónica escrita sobre hechos reales."
+        },
+        {
+          "letter": "C",
+          "text": "Es un texto periodístico de experiencia, respaldado por la observación directa del hecho",
+          "is_correct": true,
+          "feedback": "La observación directa del redactor es justamente lo que distingue a la crónica del reportaje."
+        },
+        {
+          "letter": "D",
+          "text": "Es un texto histórico, porque reconstruye hechos de épocas anteriores",
+          "is_correct": false,
+          "feedback": "La crónica trata hechos recientes, no reconstruye el pasado como lo hace la historia."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La crónica pertenece al periodismo de experiencia: su autor estuvo en el lugar de los hechos y los narra desde esa observación directa. Esa condición la distingue del reportaje, que investiga a fondo y del texto histórico, que reconstruye el pasado. Valorar un texto periodístico exige identificar cuál es su intención y qué relación tiene con los hechos. Esta clasificación prepara al estudiante para leer la prensa con criterio crítico.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Critico-Intertextual",
+      "expected_success": 0.58,
+      "bundle_id": "CO-LEN-9-2026-W08-la-cronica-y-el-reportaje-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W08-la-cronica-y-el-reportaje-001-MASTERY-bundle-v12",
+      "statement": "Un grupo decide publicar un reportaje escolar con datos que no ha verificado. Qué valoración de esa decisión es la más sólida?",
+      "context": "En el proyecto de investigación de Arauca, los estudiantes de noveno grado preparan un reportaje escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es adecuada, porque en un trabajo escolar no hace falta comprobar la información",
+          "is_correct": false,
+          "feedback": "La exigencia de verificar no desaparece por tratarse de un trabajo escolar."
+        },
+        {
+          "letter": "B",
+          "text": "Es inadecuada, porque publicar sin verificar puede perjudicar a las personas citadas",
+          "is_correct": true,
+          "feedback": "Un dato falso puede dañar a quien fue entrevistado y desacreditar el medio que lo publica."
+        },
+        {
+          "letter": "C",
+          "text": "Es adecuada, porque los lectores del colegio ya conocen bien los hechos",
+          "is_correct": false,
+          "feedback": "Que el público conozca el tema no sustituye la comprobación de lo que se afirma."
+        },
+        {
+          "letter": "D",
+          "text": "Es insuficiente, porque el problema solo aparece cuando algún lector encuentra el error",
+          "is_correct": false,
+          "feedback": "La responsabilidad de verificar existe antes de la publicación, no después del error."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Publicar información sin comprobar tiene consecuencias que afectan a más de una persona. Un dato falso puede perjudicar a quien fue citado y desacreditar el medio que lo publica. El periodismo se sostiene sobre la verificación, porque el lector confía en que lo que lee fue comprobado. En los trabajos escolares de investigación se aplica el mismo principio: comprobar antes de publicar.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.56,
+      "bundle_id": "CO-LEN-9-2026-W08-la-cronica-y-el-reportaje-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}

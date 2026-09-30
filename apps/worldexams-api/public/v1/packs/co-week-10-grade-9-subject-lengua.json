@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-10-grade-9-subject-lengua",
+    "generated_at": "2026-09-30T00:02:10.269Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-9-2026-W10-la-descripcion-y-el-entorno-001-MASTERY-bundle-v1",
+      "statement": "Qué función cumple la descripción de un lugar dentro de un texto narrativo?",
+      "context": "En el aula de Español de Bogotá, la docente explica a los estudiantes de noveno grado la descripción del espacio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Detener la acción para mostrar cómo es un lugar sin que importe el resto",
+          "is_correct": false,
+          "feedback": "La descripción no es una pausa gratuita: cumple una función dentro del relato."
+        },
+        {
+          "letter": "B",
+          "text": "Situar la acción y mostrar el entorno en el que se desarrollan los hechos",
+          "is_correct": true,
+          "feedback": "El lugar descrito funciona como escenario y condiciona la vida de los personajes."
+        },
+        {
+          "letter": "C",
+          "text": "Sustituir la narración, porque el paisaje explica mejor que los personajes",
+          "is_correct": false,
+          "feedback": "La descripción complementa la acción y no reemplaza el desarrollo de los hechos."
+        },
+        {
+          "letter": "D",
+          "text": "Aumentar la extensión del texto, porque toda descripción exige varias páginas",
+          "is_correct": false,
+          "feedback": "Una descripción puede ser breve y aun así cumplir su función dentro del relato."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La descripción de un lugar cumple varias funciones dentro de un relato: sitúa la acción, muestra las condiciones de vida de los personajes y puede anticipar conflictos. Un espacio no es un decorado neutro, sino un elemento que interactúa con las decisiones de quienes lo habitan. Por eso una descripción bien hecha aporta información y profundidad al mismo tiempo. Analizarla exige atender tanto a lo que se dice como a la manera de decirlo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W10-la-descripcion-y-el-entorno-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W10-la-descripcion-y-el-entorno-001-MASTERY-bundle-v2",
+      "statement": "Qué distingue a la descripción poética de la descripción literal o científica?",
+      "context": "En la biblioteca escolar de Medellín, un grupo de noveno grado compara dos descripciones del mismo río.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la descripción poética omite la información y la literal la inventa",
+          "is_correct": false,
+          "feedback": "Ninguna de las dos inventa datos: la diferencia está en el propósito y en el procedimiento."
+        },
+        {
+          "letter": "B",
+          "text": "Que la descripción poética expresa la impresión del paisaje con imágenes y metáforas",
+          "is_correct": true,
+          "feedback": "Lo poético aparece cuando el lugar se evoca con imágenes que transmiten una emoción."
+        },
+        {
+          "letter": "C",
+          "text": "Que la descripción científica busca emocionar y la poética busca informar",
+          "is_correct": false,
+          "feedback": "Los propósitos están intercambiados: la científica informa y la poética evoca."
+        },
+        {
+          "letter": "D",
+          "text": "Que solo una de las dos describe lugares de la naturaleza",
+          "is_correct": false,
+          "feedback": "Ambas descripciones pueden aplicarse a paisajes, ciudades o ambientes construidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La descripción literal o científica busca precisión: indica medidas, materiales, colores y estados de forma verificable. La descripción poética, en cambio, busca transmitir una impresión mediante imágenes, metáforas y recursos sensoriales. Ambas pueden describir el mismo lugar y cumplir funciones distintas dentro de un texto. Saber distinguir ambos registros permite interpretar lo que un autor pretende provocar en quien lee.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semantico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LEN-9-2026-W10-la-descripcion-y-el-entorno-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W10-la-descripcion-y-el-entorno-001-MASTERY-bundle-v3",
+      "statement": "Un guía turístico necesita describir un parque para que lo visiten. Qué descripción resulta más eficaz para ese propósito?",
+      "context": "Un estudiante de noveno grado de Pereira redacta la descripción de un parque para una exposición del colegio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una que resalte los espacios, los juegos y la seguridad para todos los visitantes",
+          "is_correct": true,
+          "feedback": "La descripción responde a la intención de quien la escribe y al destinatario."
+        },
+        {
+          "letter": "B",
+          "text": "Una que contraste la zona con un paisaje que ningún visitante ha visto antes",
+          "is_correct": false,
+          "feedback": "Exagerar el contraste no ayuda a un posible visitante a decidir si le conviene venir."
+        },
+        {
+          "letter": "C",
+          "text": "Una que use imágenes poéticas para impresionar sin mencionar datos concretos",
+          "is_correct": false,
+          "feedback": "En un texto informativo conviene la precisión, y no solo la evocación sin datos."
+        },
+        {
+          "letter": "D",
+          "text": "Una que omita las actividades disponibles para no saturar de información al lector",
+          "is_correct": false,
+          "feedback": "Omitir información necesaria perjudica la finalidad práctica de la descripción."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Toda descripción responde a una intención y a un destinatario concreto. Un texto promocional necesita datos que despierten el interés y ayuden a decidir, mientras que un texto poético puede prescindir de ellos. Reconocer el propósito del escrito permite elegir los recursos adecuados y ordenar la información de manera útil. Esta capacidad de ajustar el registro al lector es una competencia comunicativa central.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEN-9-2026-W10-la-descripcion-y-el-entorno-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W10-la-descripcion-y-el-entorno-001-MASTERY-bundle-v4",
+      "statement": "Una descripción dice que el río era una cinta de plata entre las montañas. Qué recurso expresivo está usando?",
+      "context": "En Pasto, un grupo de noveno grado analiza los recursos de una descripción del paisaje.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una comparación explícita mediante un verbo comparativo",
+          "is_correct": false,
+          "feedback": "La frase no employs ningún verbo de comparación, solo una identificación directa."
+        },
+        {
+          "letter": "B",
+          "text": "Una descripción técnica que informa sobre la anchura del cauce y su caudal",
+          "is_correct": false,
+          "feedback": "La frase no ofrece datos medibles, sino una imagen de carácter poético."
+        },
+        {
+          "letter": "C",
+          "text": "Una metáfora, porque presenta el río con la imagen de una cinta de plata",
+          "is_correct": true,
+          "feedback": "La identificación directa entre el río y la cinta constituye una figura metáfica."
+        },
+        {
+          "letter": "D",
+          "text": "Una personificación, porque atribuye al río acciones que solo hacen las personas",
+          "is_correct": false,
+          "feedback": "La personificación exige acciones humanas, y la frase solo acerca el agua a un objeto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La metáfora establece una relación de semejanza sin usar un verbo comparativo, y por eso resulta más directa que la comparación. Presentar el río como una cinta de plata destaca su brillo y su recorrido entre las montañas. Reconocer este recurso permite explicar cómo la descripción poética produce imágenes en la mente del lector. El análisis de las figuras es una herramienta habitual del trabajo con textos literarios.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LEN-9-2026-W10-la-descripcion-y-el-entorno-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W10-la-descripcion-y-el-entorno-001-MASTERY-bundle-v5",
+      "statement": "Qué información aporta una descripción que indica materiales, medidas y colores de forma verificable?",
+      "context": "En Cali, un lector de noveno grado compara dos versiones de una descripción de un mercado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Permite reconstruir el lugar con precisión, como en una descripción literal",
+          "is_correct": true,
+          "feedback": "Los datos verificables permiten reconstruir el lugar tal como es."
+        },
+        {
+          "letter": "B",
+          "text": "Permite sentir la atmósfera del lugar, como en una descripción poética",
+          "is_correct": false,
+          "feedback": "Sentir la atmósfera exige imágenes y metáforas, no datos materiales y medidas."
+        },
+        {
+          "letter": "C",
+          "text": "Permite conocer las intenciones del autor, que quedan siempre al descubierto",
+          "is_correct": false,
+          "feedback": "Una descripción puede ocultar o mostrar intenciones según el registro que elija."
+        },
+        {
+          "letter": "D",
+          "text": "Permite saber el horario del lugar y los servicios que ofrece a los visitantes",
+          "is_correct": false,
+          "feedback": "Esos datos no corresponden a lo que la pregunta plantea como descripción literal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cuando una descripción ofrece materiales, medidas y colores verificables, se aproxima al discurso técnico o literal. Ese tipo de información permite que otra persona reconstruya el lugar con fidelidad. Comprender esta diferencia ayuda a valorar el alcance de cada descripción dentro de un texto.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semantico",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LEN-9-2026-W10-la-descripcion-y-el-entorno-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W10-la-descripcion-y-el-entorno-001-MASTERY-bundle-v6",
+      "statement": "Un estudiante describe el barrio donde vive con frases breves y datos concretos sobre calles y tiendas. Qué tipo de discurso está usando?",
+      "context": "En Barranquilla, un grupo de noveno grado escribe la descripción del entorno donde vive.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un discurso poético, porque las frases breves producen imágenes en el lector",
+          "is_correct": false,
+          "feedback": "El uso de datos concretos corresponde al discurso literal y no al poético."
+        },
+        {
+          "letter": "B",
+          "text": "Un discurso argumentativo, porque intenta convencer al lector de algo",
+          "is_correct": false,
+          "feedback": "El fragmento informa sobre un lugar y no busca defender ninguna postura."
+        },
+        {
+          "letter": "C",
+          "text": "Un discurso narrativo, porque relata hechos que le ocurrieron al autor",
+          "is_correct": false,
+          "feedback": "La narración exige acciones y personajes, y el fragmento solo informa sobre un lugar."
+        },
+        {
+          "letter": "D",
+          "text": "Un discurso literal, porque informa con datos concretos y verificables",
+          "is_correct": true,
+          "feedback": "Los datos concretos y las frases informativas son propios del discurso literal."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El discurso literal se apoya en datos concretos y verificables, y por eso es el registro adecuado para informar con precisión. Las frases breves no determinan el tipo de discurso: lo decisivo es la clase de información que se transmite. Distinguir el discurso literal del poético y del argumentativo permite identificar la intención de cada texto. Esta clasificación apoya el análisis de cualquier descripción escrita en el aula.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LEN-9-2026-W10-la-descripcion-y-el-entorno-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W10-la-descripcion-y-el-entorno-001-MASTERY-bundle-v7",
+      "statement": "Una descripción dice que la mañana era de color gris y que el frío entraba por las ventanas. Qué efecto producen esos recursos?",
+      "context": "En el taller de lectura de Bucaramanga, un grupo de noveno grado analiza la descripción de un paisaje.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Construyen la atmósfera del lugar y transmiten una sensación de melancolía",
+          "is_correct": true,
+          "feedback": "El color y la sensación del frío transmiten una emoción y definen el clima del lugar."
+        },
+        {
+          "letter": "B",
+          "text": "Aportan datos métricos sobre la temperatura de ese día",
+          "is_correct": false,
+          "feedback": "La frase expresa una impresión y no ofrece mediciones verificables."
+        },
+        {
+          "letter": "C",
+          "text": "Explican las causas por las que el paisaje se vio así ese día",
+          "is_correct": false,
+          "feedback": "La descripción no aporta explicaciones causales, solo una impresión del entorno."
+        },
+        {
+          "letter": "D",
+          "text": "Reducen el lugar a una lista de objetos que se pueden tocar",
+          "is_correct": false,
+          "feedback": "La enumeración de objetos sería una descripción literal y no lo que hace esta frase."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los recursos sensoriales, como el color y la temperatura, no solo informan: generan una atmósfera. Cuando un texto invita a ver un gris y a sentir un frío, está construyendo un clima emocional en el lector. Esa atmósfera prepara la forma en que el lector recibe los hechos que ocurren en ese lugar. Reconocer estos efectos permite explicar por qué una descripción puede anticipar el tono de un relato.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LEN-9-2026-W10-la-descripcion-y-el-entorno-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W10-la-descripcion-y-el-entorno-001-MASTERY-bundle-v8",
+      "statement": "Un autor describe una plaza con datos exactos y otro la describe con imágenes evocadoras. Qué puede concluir el lector?",
+      "context": "En Florencia, un grupo de noveno grado compara cómo describen el mismo lugar dos autores.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el primer texto es mejor, porque los datos siempre valen más que las imágenes",
+          "is_correct": false,
+          "feedback": "La valoración depende del propósito de cada texto y no solo de la clase de datos."
+        },
+        {
+          "letter": "B",
+          "text": "Que el segundo texto es peor, porque no ofrece información verificable",
+          "is_correct": false,
+          "feedback": "Un texto poético no necesita datos verificables para cumplir su función."
+        },
+        {
+          "letter": "C",
+          "text": "Que cada descripción cumple una función distinta según lo que el autor pretende",
+          "is_correct": true,
+          "feedback": "Literal y poético atienden a propósitos distintos y ambos pueden ser pertinentes."
+        },
+        {
+          "letter": "D",
+          "text": "Que las dos descripciones dicen lo mismo con palabras diferentes",
+          "is_correct": false,
+          "feedback": "Los datos y las imágenes no expresan lo mismo: operan sobre dimensiones diferentes."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El propósito del texto determina qué clase de descripción resulta pertinente. Un informe técnico necesita datos verificables, mientras que una página de evocación busca transmitir una atmósfera. Por eso dos descripciones del mismo lugar pueden ser pertinentes para fines distintos. Compararlas ayuda a reconocer que el lector también necesita preguntar para qué se escribe cada texto. Esa pregunta orienta el análisis y evita juicios precipitados sobre la calidad de una descripción.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semantico",
+      "expected_success": 0.66,
+      "bundle_id": "CO-LEN-9-2026-W10-la-descripcion-y-el-entorno-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W10-la-descripcion-y-el-entorno-001-MASTERY-bundle-v9",
+      "statement": "Un texto describe un río como una fuerza poderosa y otro lo describe como un problema de contaminación. Qué relación existe entre esas dos descripciones?",
+      "context": "En Leticia, un grupo de noveno grado compara la descripción de un río en dos textos distintos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No existe relación, porque los dos textos describen ríos distintos",
+          "is_correct": false,
+          "feedback": "Ambas descripciones se refieren al mismo río y ofrecen dos lecturas distintas."
+        },
+        {
+          "letter": "B",
+          "text": "Son lecturas distintas del mismo entorno, construidas desde intenciones diferentes",
+          "is_correct": true,
+          "feedback": "Un mismo lugar admite una valoración poética y también una lectura crítica."
+        },
+        {
+          "letter": "C",
+          "text": "Una de las dos descripciones es incorrecta, porque no puede ser las dos cosas a la vez",
+          "is_correct": false,
+          "feedback": "Un elemento puede ser a la vez valioso y problemático, y ambas cosas pueden sostenerse."
+        },
+        {
+          "letter": "D",
+          "text": "Son la misma descripción, porque las dos palabras significan exactamente lo mismo",
+          "is_correct": false,
+          "feedback": "Las dos imágenes no significan lo mismo: una evoca fuerza y la otra señala un daño."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Describir un mismo entorno desde intenciones diferentes produce lecturas que pueden convivir en un mismo trabajo. Una imagen puede evocar la fuerza de un río mientras otra lo señala como fuente de un problema. Reconocer que la descripción expresa un punto de vista y no una verdad única enriquece la lectura crítica. Esta conciencia resulta clave cuando se comparan textos de distintos autores sobre un mismo lugar.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Critico-Intertextual",
+      "expected_success": 0.64,
+      "bundle_id": "CO-LEN-9-2026-W10-la-descripcion-y-el-entorno-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W10-la-descripcion-y-el-entorno-001-MASTERY-bundle-v10",
+      "statement": "Un grupo afirma que la mejor descripción de un entorno es la que más adjetivos usa. Qué evaluación de ese razonamiento es la más sólida?",
+      "context": "En Valledupar, un comité escolar revisa los textos de la feria de literatura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es insuficiente, porque la cantidad de adjetivos no mide ni la precisión ni la poeticidad",
+          "is_correct": true,
+          "feedback": "Un adjetivo puede ser preciso, impreciso o redundante según el uso que se le dé."
+        },
+        {
+          "letter": "B",
+          "text": "Es correcta, porque más adjetivos significan siempre más información",
+          "is_correct": false,
+          "feedback": "La repetición de adjetivos puede volver un texto más pesado y menos claro."
+        },
+        {
+          "letter": "C",
+          "text": "Es adecuada, porque el adjetivo es el recurso más importante de la descripción",
+          "is_correct": false,
+          "feedback": "Existen muchos recursos expresivos, y ninguno sustituye a los demás."
+        },
+        {
+          "letter": "D",
+          "text": "Es correcta, porque los textos sin adjetivos nunca resultan poéticos",
+          "is_correct": false,
+          "feedback": "La poeticidad puede lograrse con otros recursos, como la metáfora o la personificación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar un razonamiento exige identificar qué criterio se está aplicando y si ese criterio mide lo que dice medir. La cantidad de adjetivos es un dato formal que no dice nada sobre la precisión de la información ni sobre la poeticidad. Un uso pertinente de los adjetivos enriquece la descripción, mientras que su repetición la vuelve confusa. Formular criterios más adecuados permite evaluar textos con más precisión.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-9-2026-W10-la-descripcion-y-el-entorno-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W10-la-descripcion-y-el-entorno-001-MASTERY-bundle-v11",
+      "statement": "Un estudiante escribe una descripción de su barrio dirigida a personas que quieren vivir en él. Qué ajuste del registro es más pertinente?",
+      "context": "En el proyecto de lectura de Bogotá, los estudiantes de noveno grado escriben la descripción de su barrio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Usar imágenes muy poéticas, porque todo texto sobre un barrio debería ser literario",
+          "is_correct": false,
+          "feedback": "Un texto dirigido a posibles vecinos necesita información útil y no solo evocación."
+        },
+        {
+          "letter": "B",
+          "text": "Usar un lenguaje técnico, porque las personas no entienden nada sencillo",
+          "is_correct": false,
+          "feedback": "Un registro demasiado especializado dificulta la comprensión del público general."
+        },
+        {
+          "letter": "C",
+          "text": "Redactar una descripción muy breve, porque la extensión siempre resta claridad",
+          "is_correct": false,
+          "feedback": "La extensión no resta claridad cuando la información está bien organizada."
+        },
+        {
+          "letter": "D",
+          "text": "Priorizar datos concretos sobre servicios, costos y accesos del barrio",
+          "is_correct": true,
+          "feedback": "Quien va a vivir allí necesita información precisa para tomar una decisión."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El registro de un texto debe ajustarse al destinatario y a la situación comunicativa. Un texto dirigido a personas que quieren vivir en el barrio necesita datos concretos sobre servicios, costos y accesos. Ajustar el registro a esa necesidad hace que la descripción cumpla su función informativa. Esta capacidad de elegir el tono adecuado es una competencia clave en la producción escrita.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.58,
+      "bundle_id": "CO-LEN-9-2026-W10-la-descripcion-y-el-entorno-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W10-la-descripcion-y-el-entorno-001-MASTERY-bundle-v12",
+      "statement": "Un texto sobre una región la presenta con datos precisos y también con imágenes evocadoras. Qué valoración de esa combinación es la más sólida?",
+      "context": "En un proyecto de investigación de Arauca, los estudiantes de noveno grado analizan un texto sobre su región.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un error, porque una descripción no puede mezclar discurso literal y discurso poético",
+          "is_correct": false,
+          "feedback": "La mezcla de registros es posible y suele enriquecer el texto cuando se usa con criterio."
+        },
+        {
+          "letter": "B",
+          "text": "Es un acierto, porque la mezcla de registros produce siempre una descripción perfecta",
+          "is_correct": false,
+          "feedback": "La mezcla no garantiza el acierto: depende del criterio con que se aplique cada recurso."
+        },
+        {
+          "letter": "C",
+          "text": "Es un acierto, porque los datos dan fundamento y las imágenes dan expresividad",
+          "is_correct": true,
+          "feedback": "Cada registro aporta algo distinto y ambos se complementan dentro de la descripción."
+        },
+        {
+          "letter": "D",
+          "text": "Es un error, porque las imágenes poéticas invalidan los datos que las sostienen",
+          "is_correct": false,
+          "feedback": "La imagen poética no invalida los datos: se apoya en ellos para evocar una impresión."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El uso combinado del discurso literal y del discurso poético permite fundamentar un entorno con datos y al mismo tiempo transmitir una impresión con imágenes. La calidad de esa combinación depende de que cada recurso se aplique con criterio y con un propósito claro. Cuando ambos registros se articulan bien, la descripción resulta más rica y más precisa al mismo tiempo. Evaluar esa articulación es una tarea habitual del análisis de textos en noveno grado.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.56,
+      "bundle_id": "CO-LEN-9-2026-W10-la-descripcion-y-el-entorno-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}

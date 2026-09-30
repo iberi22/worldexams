@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-14-grade-9-subject-lengua",
+    "generated_at": "2026-09-30T00:02:10.270Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-9-2026-W14-el-texto-argumentativo-y-la-tesis-001-MASTERY-bundle-v1",
+      "statement": "Qué es la tesis en un texto argumentativo?",
+      "context": "En el aula de Español de Medellín, la docente explica a los estudiantes de noveno grado qué es una tesis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es el resumen de todo lo que el texto dice al final",
+          "is_correct": false,
+          "feedback": "El resumen final recoge la tesis, pero no la define."
+        },
+        {
+          "letter": "B",
+          "text": "Es la postura que el autor defiende y que intenta demostrar a lo largo del texto",
+          "is_correct": true,
+          "feedback": "La tesis es la afirmación central que organiza y sostiene todo el argumento."
+        },
+        {
+          "letter": "C",
+          "text": "Es la cita de un autor famoso que respalda la posición del autor",
+          "is_correct": false,
+          "feedback": "Una cita puede apoyar la tesis, pero no es la tesis en sí misma."
+        },
+        {
+          "letter": "D",
+          "text": "Es el título del texto, que anuncia de qué trata la discusión",
+          "is_correct": false,
+          "feedback": "El título anuncia un tema y no necesariamente la postura que se defiende."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La tesis es la afirmación que el autor decide sostener y demostrar durante todo el texto. A partir de ella se construyen los argumentos y se seleccionan las evidencias que la respaldan. Reconocer la tesis permite seguir el hilo del razonamiento y valorar si el autor logró defenderla. Es el elemento central de cualquier texto argumentativo y por eso se identifica desde las primeras líneas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W14-el-texto-argumentativo-y-la-tesis-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W14-el-texto-argumentativo-y-la-tesis-001-MASTERY-bundle-v2",
+      "statement": "Cuál es la diferencia entre un argumento y una evidencia?",
+      "context": "En la biblioteca escolar de Cali, un grupo de noveno grado distingue el argumento de la evidencia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El argumento es la opinión y la evidencia es la razon que la sostiene",
+          "is_correct": false,
+          "feedback": "Se han intercambiado: la razón que sostiene es el argumento, no la evidencia."
+        },
+        {
+          "letter": "B",
+          "text": "El argumento es la razón que sostiene la tesis y la evidencia es el dato que la respalda",
+          "is_correct": true,
+          "feedback": "La evidencia apoya, y el argumento explica por qué esa evidencia favorece la tesis."
+        },
+        {
+          "letter": "C",
+          "text": "Ambos son lo mismo, porque siempre aparecen juntos en un texto",
+          "is_correct": false,
+          "feedback": "Pueden aparecer por separado, y cada uno cumple una función distinta."
+        },
+        {
+          "letter": "D",
+          "text": "La evidencia es siempre una cifra y el argumento es siempre una frase larga",
+          "is_correct": false,
+          "feedback": "La forma de cada uno no es fija: ambos pueden expresarse de muy distintas maneras."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El argumento es la razón que el autor ofrece para sostener su tesis, y la evidencia es el dato concreto que le da respaldo. Por ejemplo, si la tesis afirma que hace falta un centro de lectura en el municipio, el argumento explica por qué y la evidencia muestra las cifras. Comprender esta diferencia permite construir razonamientos sólidos. También ayuda a detectar los textos que afirman mucho pero no demuestran nada.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semantico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LEN-9-2026-W14-el-texto-argumentativo-y-la-tesis-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W14-el-texto-argumentativo-y-la-tesis-001-MASTERY-bundle-v3",
+      "statement": "Un grupo quiere defender que los parques del municipio necesitan más árboles. Qué necesita añadir para sostener esa tesis?",
+      "context": "Un estudiante de noveno grado de Pereira prepara un texto para la revista del colegio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un resumen de la historia del municipio, para dar contexto general",
+          "is_correct": false,
+          "feedback": "El contexto histórico es interesante, pero no respalda la petición sobre los parques."
+        },
+        {
+          "letter": "B",
+          "text": "Una lista de otras ciudades donde sí se plantaron árboles, sin datos del municipio",
+          "is_correct": false,
+          "feedback": "La comparación con otras ciudades no demuestra la necesidad en este municipio."
+        },
+        {
+          "letter": "C",
+          "text": "Datos sobre el estado actual de los árboles y su efecto en la temperatura",
+          "is_correct": true,
+          "feedback": "Esos datos respaldan directamente la necesidad de plantar más árboles."
+        },
+        {
+          "letter": "D",
+          "text": "Una narración sobre la infancia de los vecinos en ese parque",
+          "is_correct": false,
+          "feedback": "La anécdota personal no sustituye a la evidencia que necesita la tesis."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una tesis se sostiene con razones y con datos que la respalden. Elegir la evidencia correcta exige preguntarse qué información demostraría que la tesis es verdadera. Los datos sobre el estado actual de los árboles atacan directamente el problema que la tesis plantea. Esta selección de evidencias es una competencia central del texto argumentativo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEN-9-2026-W14-el-texto-argumentativo-y-la-tesis-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W14-el-texto-argumentativo-y-la-tesis-001-MASTERY-bundle-v4",
+      "statement": "Alguien objeta que la medida que defiende el autor no produciría resultados. Qué debe hacer el autor para responder?",
+      "context": "En Pasto, un grupo de noveno grado trabaja la respuesta a un contraargumento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ignorar la objeción, porque su tesis ya está demostrada",
+          "is_correct": false,
+          "feedback": "Ignorar la objeción deja sin responder una crítica razonable del lector."
+        },
+        {
+          "letter": "B",
+          "text": "Cambiar de tesis, porque toda objeción demuestra que la postura era errónea",
+          "is_correct": false,
+          "feedback": "Una objeción no obliga a abandonar la tesis, sino a defenderla mejor."
+        },
+        {
+          "letter": "C",
+          "text": "Repetir los mismos argumentos, porque volver a decirlos refuerza la postura",
+          "is_correct": false,
+          "feedback": "Repetir sin responder lo expuesto no resuelve la objeción planteada."
+        },
+        {
+          "letter": "D",
+          "text": "Reconocer la objeción y responder con razones y datos que la superen",
+          "is_correct": true,
+          "feedback": "Refutar exige reconocer lo expuesto y demostrar por qué no se sostiene."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El contraargumento es una objeción razonable que el autor debe anticipar e incorporar a su razonamiento. Refutarlo implica comprender lo que se objeta y demostrar con razones y datos por qué no se sostiene. Esta práctica fortalece el texto, porque muestra que la postura resistió una prueba seria. Ignorar la objeción o cambiar de tesis son las dos rutas que menos conviene tomar.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LEN-9-2026-W14-el-texto-argumentativo-y-la-tesis-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W14-el-texto-argumentativo-y-la-tesis-001-MASTERY-bundle-v5",
+      "statement": "Una tesis afirma que \"el transporte público de la ciudad es un problema\". Qué problema tiene esa formulación?",
+      "context": "En Florencia, un estudiante de noveno grado revisa la tesis de su propio trabajo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es demasiado corta, porque toda tesis debe tener varias oraciones",
+          "is_correct": false,
+          "feedback": "La extensión no es lo que hace eficaz a una tesis."
+        },
+        {
+          "letter": "B",
+          "text": "Es correcta, porque toda afirmación es válida como tesis",
+          "is_correct": false,
+          "feedback": "Una tesis necesita ser discutible y sostener una postura, no solo nombrar un asunto."
+        },
+        {
+          "letter": "C",
+          "text": "Es vaga, porque no dice qué aspectos del transporte hacen que sea un problema",
+          "is_correct": true,
+          "feedback": "Sin precisar qué falla y por qué, la tesis no puede sostenerse con argumentos definidos."
+        },
+        {
+          "letter": "D",
+          "text": "Es incorrecta, porque el transporte público no puede considerarse un problema",
+          "is_correct": false,
+          "feedback": "La formulación es demasiado general, pero eso no invalida el asunto que plantea."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una tesis debe ser precisa y debatable: ha de señalar exactamente qué se defiende y por qué importa. La frase sobre el transporte podría corresponder a mil situaciones distintas, y con esa vaguedad no hay argumentos posibles. Acotar la afirmación, por ejemplo señalando las rutas sin cobertura, permite discutirla con datos. Esta precisión es uno de los criterios más importantes de un buen texto argumentativo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semantico",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LEN-9-2026-W14-el-texto-argumentativo-y-la-tesis-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W14-el-texto-argumentativo-y-la-tesis-001-MASTERY-bundle-v6",
+      "statement": "Qué distingue a un texto argumentativo de uno simplemente expositivo?",
+      "context": "En Barranquilla, un grupo de noveno grado debate sobre el consumo de agua en su municipio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el argumentativo busca defender una postura y el expositivo solo informar",
+          "is_correct": true,
+          "feedback": "La intención de persuadir es lo que separa a uno del otro."
+        },
+        {
+          "letter": "B",
+          "text": "Que el argumentativo es más largo que el expositivo",
+          "is_correct": false,
+          "feedback": "La extensión no determina el género: hay textos breves de ambos tipos."
+        },
+        {
+          "letter": "C",
+          "text": "Que el expositivo usa datos y el argumentativo no los necesita",
+          "is_correct": false,
+          "feedback": "Un texto argumentativo también necesita evidencia para sostener su postura."
+        },
+        {
+          "letter": "D",
+          "text": "Que el argumentativo solo puede escriberse en primera persona",
+          "is_correct": false,
+          "feedback": "La persona narrativa no determina el género del texto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El texto expositivo informa de manera objetiva sobre un tema, mientras que el argumentativo busca convencer al lector de una postura. Ambos pueden apoyarse en datos y ambos se escriben con las personas que resulten más adecuadas. La diferencia está en la intención comunicativa, no en la extensión ni en la persona. Reconocer esa intención ayuda a clasificar correctamente lo que se lee y lo que se escribe.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LEN-9-2026-W14-el-texto-argumentativo-y-la-tesis-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W14-el-texto-argumentativo-y-la-tesis-001-MASTERY-bundle-v7",
+      "statement": "Un párrafo afirma que el transporte público es pésimo y lo apoya con datos de horarios y kilómetros recorridos. Qué problema tiene ese apoyo?",
+      "context": "En el taller de argumentación de Bucaramanga, un grupo de noveno grado revisa la solidez de un párrafo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El párrafo no tiene problema, porque los datos siempre respaldan una afirmación",
+          "is_correct": false,
+          "feedback": "Los datos solo respaldan si se relacionan con lo que la afirmación afirma."
+        },
+        {
+          "letter": "B",
+          "text": "El problema es que el párrafo usa un adjetivo valorativo y no debería usarlo",
+          "is_correct": false,
+          "feedback": "Los adjetivos valorativos son comunes en los textos argumentativos."
+        },
+        {
+          "letter": "C",
+          "text": "Los datos no se relacionan con la afirmación, porque midieron otra cosa distinta",
+          "is_correct": true,
+          "feedback": "La evidencia debe atacar el problema que la tesis plantea para poder sostenerla."
+        },
+        {
+          "letter": "D",
+          "text": "El problema es que el párrafo necesita un contraargumento antes de cualquier dato",
+          "is_correct": false,
+          "feedback": "El contraargumento es útil, pero no es un requisito previo a presentar datos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una evidencia solo cumple su función si se relaciona de manera directa con la afirmación que sostiene. Medir horarios y kilómetros demuestra cómo funciona el sistema, pero no demuestra que sea malo. Para que el dato sirva, tendría que mostrar el tiempo de espera o la cantidad de viajes que deben hacer. Esta relación entre tesis y evidencia es la que determina la solidez de un argumento.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LEN-9-2026-W14-el-texto-argumentativo-y-la-tesis-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W14-el-texto-argumentativo-y-la-tesis-001-MASTERY-bundle-v8",
+      "statement": "Un texto menciona la postura contraria sin nombrar a nadie que la sostenga. Qué efecto tiene esa decisión?",
+      "context": "En Leticia, un grupo de noveno grado compara dos versiones de un texto argumentativo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reforza la tesis propia, porque no hay a quién responderle",
+          "is_correct": false,
+          "feedback": "Una postura sin responsable no puede evaluarse ni refutarse con precisión."
+        },
+        {
+          "letter": "B",
+          "text": "Debilita el texto, porque mencionar al contrario es siempre innecesario",
+          "is_correct": false,
+          "feedback": "Considerar la postura contraria es una práctica que fortalece un argumento."
+        },
+        {
+          "letter": "C",
+          "text": "Mejora el texto, porque la objetividad exige no mencionar a nadie",
+          "is_correct": false,
+          "feedback": "La objetividad no exige borrar a las personas, sino fundar con precisión lo que se afirma."
+        },
+        {
+          "letter": "D",
+          "text": "Impide una refutación precisa, porque no se sabe a qué argumento se responde",
+          "is_correct": true,
+          "feedback": "Sin identificar al autor de la postura, la respuesta queda sin destinatario claro."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Para responder a un contraargumento hay que saber exactamente qué se afirma y quién lo afirma. Cuando la postura contraria aparece sin autor, el lector no puede evaluar si la respuesta la refuta o si solo ataca a alguien anónimo. Nombrar la postura con precisión hace la discusión más transparente. Esta disciplina es esencial en el debate escrito de calidad.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semantico",
+      "expected_success": 0.66,
+      "bundle_id": "CO-LEN-9-2026-W14-el-texto-argumentativo-y-la-tesis-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W14-el-texto-argumentativo-y-la-tesis-001-MASTERY-bundle-v9",
+      "statement": "Un texto defiende que hay que proteger los bosques y luego incluye argumentos que contradicen esa defensa. Qué falla en ese texto?",
+      "context": "En Valledupar, un grupo de noveno grado revisa la coherencia de un argumento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La ortografía, porque hay demasiadas palabras técnicas en un mismo párrafo",
+          "is_correct": false,
+          "feedback": "El problema del texto no está en las palabras, sino en el sentido del conjunto."
+        },
+        {
+          "letter": "B",
+          "text": "El título, porque no anuncia la contradicción que aparece en el texto",
+          "is_correct": false,
+          "feedback": "Un título eficaz anuncia el tema y no está obligado a anticipar cada giro."
+        },
+        {
+          "letter": "C",
+          "text": "La coherencia, porque el desarrollo contradice lo que la tesis defiende",
+          "is_correct": true,
+          "feedback": "Cuando los argumentos niegan la propia tesis, el texto pierde su unidad lógica."
+        },
+        {
+          "letter": "D",
+          "text": "La extensión, porque el texto debería ser más largo para explicar su postura",
+          "is_correct": false,
+          "feedback": "Agregar páginas no corrige una contradicción entre la tesis y el desarrollo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La coherencia exige que todas las partes de un texto trabajen en la misma dirección. Si la tesis pide proteger los bosques y los argumentos terminan justificando lo contrario, el lector encuentra un texto que se contradice. Revisar que el desarrollo sostenga la tesis evita estas rupturas, frecuentes en los trabajos escolares. Detectar la contradicción es el primer paso para corregirla.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Critico-Intertextual",
+      "expected_success": 0.64,
+      "bundle_id": "CO-LEN-9-2026-W14-el-texto-argumentativo-y-la-tesis-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W14-el-texto-argumentativo-y-la-tesis-001-MASTERY-bundle-v10",
+      "statement": "Un grupo afirma que un texto argumentativo es sólido porque su tesis está escrita con elegancia. Qué evaluación de ese razonamiento es la más sólida?",
+      "context": "En el club de lectura de Bogotá, un grupo de noveno grado evalúa la calidad de un ensayo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es correcta, porque una tesis escrita con elegancia siempre convence al lector",
+          "is_correct": false,
+          "feedback": "El brillo de la redacción no sustituye a la solidez de los argumentos."
+        },
+        {
+          "letter": "B",
+          "text": "Es insuficiente, porque la solidez depende de los argumentos y no de cómo está escrita la tesis",
+          "is_correct": true,
+          "feedback": "Una tesis puede estar escrita con elegancia y no sostenerse con ninguna razón."
+        },
+        {
+          "letter": "C",
+          "text": "Es adecuada, porque la forma de la tesis revela el pensamiento del autor",
+          "is_correct": false,
+          "feedback": "La redacción elegante no demuestra que los argumentos tengan fundamento."
+        },
+        {
+          "letter": "D",
+          "text": "Es incorrecta, porque el estilo nunca influye en la convicción del lector",
+          "is_correct": false,
+          "feedback": "El estilo sí influye en cómo se percibe la solidez de un texto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar la solidez de un texto exige aplicar criterios internos: la precisión de la tesis, la calidad de los argumentos y la pertinencia de las evidencias. El estilo de la redacción es un factor de presentación y no una demostración de fundamento. Distinguir entre cómo se dice algo y qué se demuestra evita confusiones frecuentes al valorar trabajos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-9-2026-W14-el-texto-argumentativo-y-la-tesis-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W14-el-texto-argumentativo-y-la-tesis-001-MASTERY-bundle-v11",
+      "statement": "Un estudiante afirma que su texto es objetivo porque presenta hechos y cifras. Qué evaluación de esa afirmación es la más sólida?",
+      "context": "Un estudiante de noveno grado de Medellín revisa su texto antes de entregarlo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es correcta, porque la sola presencia de datos elimina toda valoración personal",
+          "is_correct": false,
+          "feedback": "Presentar datos no elimina la selección ni la interpretación de quien escribe."
+        },
+        {
+          "letter": "B",
+          "text": "Es correcta, porque los hechos son objetivos y las cifras no admiten discusión",
+          "is_correct": false,
+          "feedback": "Las cifras requieren método y contexto para poder valorarse."
+        },
+        {
+          "letter": "C",
+          "text": "Es insuficiente, porque la elección de los datos revela la postura de quien los selecciona",
+          "is_correct": true,
+          "feedback": "Todo dato escogido es un dato elegido, y esa decisión expresa un punto de vista."
+        },
+        {
+          "letter": "D",
+          "text": "Es adecuada, porque en un texto objetivo no debe aparecer ninguna tesis",
+          "is_correct": false,
+          "feedback": "Un texto puede informar con objetividad y defender al mismo tiempo una postura."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Ningún texto es completamente neutral, porque quien escribe decide qué datos incluir, cuáles omitir y cómo interpretarlos. Esa selección revela un punto de vista que el lector puede analizar. Distinguir entre la honestidad intelectual y la supuesta ausencia de subjectivity ayuda a leer con más criterio. Esta reflexión es fundamental en la formación de lectores críticos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Semantico",
+      "expected_success": 0.58,
+      "bundle_id": "CO-LEN-9-2026-W14-el-texto-argumentativo-y-la-tesis-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W14-el-texto-argumentativo-y-la-tesis-001-MASTERY-bundle-v12",
+      "statement": "Dos autores sostienen posturas opuestas sobre un mismo asunto y ambos presentan datos. Qué valoración de esa relación es la más sólida?",
+      "context": "En el proyecto de investigación de Arauca, los estudiantes de noveno grado comparan dos textos sobre un mismo problema.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo uno de los textos es válido, porque los datos no pueden contradecirse",
+          "is_correct": false,
+          "feedback": "Dos conjuntos de datos distintos pueden sostener posturas opuestas sin que ninguno sea falso."
+        },
+        {
+          "letter": "B",
+          "text": "El texto que presenta más datos tiene la razón, porque la cantidad lo demuestra",
+          "is_correct": false,
+          "feedback": "La cantidad de datos no determina cuál de las dos posturas es la correcta."
+        },
+        {
+          "letter": "C",
+          "text": "El contraste permite evaluar ambas posturas, porque los datos de cada uno se pueden comparar",
+          "is_correct": true,
+          "feedback": "Poner los dos textos en relación revela en qué se diferencian y con qué respaldo."
+        },
+        {
+          "letter": "D",
+          "text": "No hay relación entre los textos, porque tratan asuntos opuestos",
+          "is_correct": false,
+          "feedback": "Tratar el mismo asunto con posturas opuestas es precisamente lo que los relaciona."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Contrastar dos textos que tratan el mismo asunto con posturas opuestas permite comparar sus razonamientos y sus evidencias. El lector puede identificar en qué se diferencian, qué datos emplea cada uno y qué queda sin demostrar. Este ejercicio de contraste es una de las prácticas más valiosas del trabajo con textos argumentativos. También ayuda a descubrir los sesgos que cada autor incorpora sin advertirlo.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Critico-Intertextual",
+      "expected_success": 0.56,
+      "bundle_id": "CO-LEN-9-2026-W14-el-texto-argumentativo-y-la-tesis-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}
