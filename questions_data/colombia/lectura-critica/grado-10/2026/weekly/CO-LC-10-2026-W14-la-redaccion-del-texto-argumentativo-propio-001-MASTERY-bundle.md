@@ -130,7 +130,7 @@ Una lista de chequeo para textos argumentativos incluye tesis, apoyos, respuesta
 ## Question 5 [D5-D6]
 **ID:** CO-LC-10-2026-W14-la-redaccion-del-texto-argumentativo-propio-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Pragmatico
+**ICFES:** Pragmático
 **Expected_Success:** 0.80
 **Contexto:** En Soacha, la profesora pide la versión final de una opinión para el mural del colegio.
 
@@ -222,7 +222,7 @@ Un ejemplo personal puede ser cierto y, al mismo tiempo, insuficiente para soste
 ## Question 9 [D7-D8]
 **ID:** CO-LC-10-2026-W14-la-redaccion-del-texto-argumentativo-propio-001-MASTERY-bundle-v9
 **Bloom:** Analyze
-**ICFES:** Critico-Intertextual
+**ICFES:** Crítico-Intertextual
 **Expected_Success:** 0.70
 **Contexto:** En Soacha, los estudiantes de décimo grado comparan ambos textos para preparar una exposición oral.
 
@@ -268,7 +268,7 @@ Evaluar un texto argumentativo propio exige decir qué debería cambiar y por qu
 ## Question 11 [D9-D10]
 **ID:** CO-LC-10-2026-W14-la-redaccion-del-texto-argumentativo-propio-001-MASTERY-bundle-v11
 **Bloom:** Evaluate
-**ICFES:** Critico-Intertextual
+**ICFES:** Crítico-Intertextual
 **Expected_Success:** 0.66
 **Contexto:** En Soacha, la profesora de Lectura Crítica construye una rúbrica para que los estudiantes revisen sus propios textos antes de entregarlos.
 

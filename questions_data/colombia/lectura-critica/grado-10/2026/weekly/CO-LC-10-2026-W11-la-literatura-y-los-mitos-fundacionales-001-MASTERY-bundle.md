@@ -130,7 +130,7 @@ Aplicar el relato a una situación permite comprobar si la lógica interna del m
 ## Question 5 [D5-D6]
 **ID:** CO-LC-10-2026-W11-la-literatura-y-los-mitos-fundacionales-001-MASTERY-bundle-v5
 **Bloom:** Apply
-**ICFES:** Pragmatico
+**ICFES:** Pragmático
 **Expected_Success:** 0.78
 **Contexto:** En Bogotá, la profesora pregunta a los estudiantes de décimo grado por qué reescribieron el mito en lugar de limitarse a recitarlo.
 
@@ -153,7 +153,7 @@ La intención de una reescritura se revela en las decisiones que se toman sobre 
 ## Question 6 [D5-D6]
 **ID:** CO-LC-10-2026-W11-la-literatura-y-los-mitos-fundacionales-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Sintactico
+**ICFES:** Sintáctico
 **Expected_Success:** 0.76
 **Contexto:** En Bogotá, la profesora pide a los estudiantes de décimo grado revisar la oración con la que el grupo justifica su lectura del eclipse.
 
@@ -199,7 +199,7 @@ Cambiar la voz narrativa cambia lo que el lector sabe del héroe y, con ello, la
 ## Question 8 [D7-D8]
 **ID:** CO-LC-10-2026-W11-la-literatura-y-los-mitos-fundacionales-001-MASTERY-bundle-v8
 **Bloom:** Analyze
-**ICFES:** Critico-Intertextual
+**ICFES:** Crítico-Intertextual
 **Expected_Success:** 0.68
 **Contexto:** En Bogotá, los estudiantes de décimo grado comparan en una mesa de trabajo qué función cumple el castigo en cada versión.
 
@@ -268,7 +268,7 @@ Valorar una reescritura exige comprobar si conserva el núcleo del relato y si s
 ## Question 11 [D9-D10]
 **ID:** CO-LC-10-2026-W11-la-literatura-y-los-mitos-fundacionales-001-MASTERY-bundle-v11
 **Bloom:** Evaluate
-**ICFES:** Critico-Intertextual
+**ICFES:** Crítico-Intertextual
 **Expected_Success:** 0.60
 **Contexto:** En Bogotá, el comité de eventos del colegio evalúa qué versión debe leerse en la celebración del día de la tradición oral.
 

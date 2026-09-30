@@ -107,7 +107,7 @@ Un dato sin origen no es automáticamente falso, pero sí es indescartable. Por 
 ## Question 4 [D5-D6]
 **ID:** CO-LC-10-2026-W15-la-verificacion-de-datos-y-el-pensamiento-critico-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Pragmatico
+**ICFES:** Pragmático
 **Expected_Success:** 0.82
 **Contexto:** En Villavicencio, un grupo de décimo grado recibe tres fuentes para construir un trabajo sobre el uso de pantallas.
 
@@ -176,7 +176,7 @@ Acotar la tesis al alcance real de la evidencia evita las exageraciones que lueg
 ## Question 7 [D7-D8]
 **ID:** CO-LC-10-2026-W15-la-verificacion-de-datos-y-el-pensamiento-critico-001-MASTERY-bundle-v7
 **Bloom:** Analyze
-**ICFES:** Critico-Intertextual
+**ICFES:** Crítico-Intertextual
 **Expected_Success:** 0.74
 **Contexto:** En Tunja, el grupo de décimo grado analiza la nota al pie de página del Texto 2 en relación con el resto del artículo.
 
@@ -268,7 +268,7 @@ Un juicio editorial sólido se apoya en problemas que cualquier lector pueda com
 ## Question 11 [D9-D10]
 **ID:** CO-LC-10-2026-W15-la-verificacion-de-datos-y-el-pensamiento-critico-001-MASTERY-bundle-v11
 **Bloom:** Evaluate
-**ICFES:** Critico-Intertextual
+**ICFES:** Crítico-Intertextual
 **Expected_Success:** 0.66
 **Contexto:** En Villavicencio, el equipo de la bitácora convierte su método en una norma editorial para el periódico del colegio.
 

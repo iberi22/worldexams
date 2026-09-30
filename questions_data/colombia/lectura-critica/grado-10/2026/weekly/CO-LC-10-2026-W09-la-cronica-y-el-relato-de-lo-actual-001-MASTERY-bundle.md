@@ -151,7 +151,7 @@ Un relato que narra lo actual puede permanecer en el plano de los hechos o pasar
 ## Question 6 [D5-D6]
 **ID:** CO-LC-10-2026-W09-la-cronica-y-el-relato-de-lo-actual-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Pragmatico
+**ICFES:** Pragmático
 **Expected_Success:** 0.78
 **Contexto:** En Bogotá, un equipo de estudiantes de décimo grado edita su crónica para publicarla en el periódico del colegio.
 
@@ -197,7 +197,7 @@ Comparar dos textos del mismo tema permite aislar la variable decisiva: el tipo 
 ## Question 8 [D7-D8]
 **ID:** CO-LC-10-2026-W09-la-cronica-y-el-relato-de-lo-actual-001-MASTERY-bundle-v8
 **Bloom:** Analyze
-**ICFES:** Sintactico
+**ICFES:** Sintáctico
 **Expected_Success:** 0.74
 **Contexto:** En Bogotá, un grupo de décimo grado estudia cómo se introduce la voz de un tercero dentro de la crónica del Texto 1.
 
@@ -220,7 +220,7 @@ La cita directa cumple una función delimitadora: separa la voz del que narra de
 ## Question 9 [D7-D8]
 **ID:** CO-LC-10-2026-W09-la-cronica-y-el-relato-de-lo-actual-001-MASTERY-bundle-v9
 **Bloom:** Analyze
-**ICFES:** Critico-Intertextual
+**ICFES:** Crítico-Intertextual
 **Expected_Success:** 0.70
 **Contexto:** En Bogotá, la asignación de la unidad conecta el género crónica con las noticias y con las redes sociales del colegio.
 
@@ -266,7 +266,7 @@ Evaluar un texto para un informe exige medir su capacidad de sostenerse por sí 
 ## Question 11 [D9-D10]
 **ID:** CO-LC-10-2026-W09-la-cronica-y-el-relato-de-lo-actual-001-MASTERY-bundle-v11
 **Bloom:** Evaluate
-**ICFES:** Pragmatico
+**ICFES:** Pragmático
 **Expected_Success:** 0.60
 **Contexto:** En Bogotá, la junta directiva del colegio evalúa usar las crónicas del curso en el boletín del fin de periodo.
 
@@ -289,7 +289,7 @@ Valorar un uso comunicativo exige considerar el beneficio y el riesgo al mismo t
 ## Question 12 [D9-D10]
 **ID:** CO-LC-10-2026-W09-la-cronica-y-el-relato-de-lo-actual-001-MASTERY-bundle-v12
 **Bloom:** Evaluate
-**ICFES:** Critico-Intertextual
+**ICFES:** Crítico-Intertextual
 **Expected_Success:** 0.58
 **Contexto:** En Bogotá, un grupo de décimo grado discute los riesgos de publicar el Texto 1 en un medio digital del colegio.
 

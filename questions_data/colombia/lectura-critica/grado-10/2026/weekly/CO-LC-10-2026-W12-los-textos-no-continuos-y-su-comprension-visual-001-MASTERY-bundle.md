@@ -105,7 +105,7 @@ Un bloque icónico no solo decora: propone una conducta o resume una idea con mu
 ## Question 4 [D5-D6]
 **ID:** CO-LC-10-2026-W12-los-textos-no-continuos-y-su-comprension-visual-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Pragmatico
+**ICFES:** Pragmático
 **Expected_Success:** 0.82
 **Contexto:** En Medellín, un equipo de décimo grado quiere mejorar la infografía del Texto 1 antes de imprimirla para el patio del colegio.
 
@@ -151,7 +151,7 @@ Componer un afiche es aplicar la lógica del texto no continuo: primero la infor
 ## Question 6 [D5-D6]
 **ID:** CO-LC-10-2026-W12-los-textos-no-continuos-y-su-comprension-visual-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**ICFES:** Critico-Intertextual
+**ICFES:** Crítico-Intertextual
 **Expected_Success:** 0.78
 **Contexto:** En Barranquilla, el periódico escolar de los estudiantes de décimo grado publica la historieta del Texto 2 junto a un recuadro de precios.
 
@@ -266,7 +266,7 @@ Evaluar la eficacia de un material exige comparar la calidad de sus apoyos, no s
 ## Question 11 [D9-D10]
 **ID:** CO-LC-10-2026-W12-los-textos-no-continuos-y-su-comprension-visual-001-MASTERY-bundle-v11
 **Bloom:** Evaluate
-**ICFES:** Pragmatico
+**ICFES:** Pragmático
 **Expected_Success:** 0.60
 **Contexto:** En Medellín, la dirección del colegio escribe a la empresa de agua para confirmar el 44 % que aparece en el Texto 1.
 
@@ -289,7 +289,7 @@ Un texto visual circula más rápido que cualquier nota aclaratoria y por eso su
 ## Question 12 [D9-D10]
 **ID:** CO-LC-10-2026-W12-los-textos-no-continuos-y-su-comprension-visual-001-MASTERY-bundle-v12
 **Bloom:** Evaluate
-**ICFES:** Critico-Intertextual
+**ICFES:** Crítico-Intertextual
 **Expected_Success:** 0.58
 **Contexto:** En Barranquilla, un grupo de décimo grado prepara un mural del patio combinando bloques de los dos textos base.
 
