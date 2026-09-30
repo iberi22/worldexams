@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-9-grade-10-subject-lectura_critica",
+    "generated_at": "2026-09-30T13:53:46.348Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-10-2026-W09-la-cronica-y-el-relato-de-lo-actual-001-MASTERY-bundle-v1",
+      "statement": "¿A qué género narrativo pertenece el Texto 1?",
+      "context": "En Bogotá, la profesora de Lectura Crítica pide a los estudiantes de décimo grado clasificar el Texto 1 según el género narrativo al que pertenece.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A una novela histórica, porque relata hechos que ocurrieron en el pasado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los hechos relatados son recientes y el texto no construye personajes ni una trama larga."
+        },
+        {
+          "letter": "B",
+          "text": "A un cuento de hadas, porque incluye un personaje que habla dentro de comillas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una cita directa no convierte un texto en cuento de hadas, y no hay elementos de fantasía en el relato."
+        },
+        {
+          "letter": "C",
+          "text": "A una crónica, porque relata un hecho reciente desde una posición concreta y con datos verificables.",
+          "is_correct": true,
+          "feedback": "Correcto. La combinación de hecho actual, testigo identificable y datos que se pueden comprobar define el género."
+        },
+        {
+          "letter": "D",
+          "text": "A un informe estadístico, porque incluye el número de personas contadas en la fila.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un dato numérico aislado no convierte el texto en informe, y aquí el relato sigue siendo narrativo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El género se reconoce por la intención con la que se cuenta, no por la presencia accidental de un dato. Una crónica relata hechos recientes desde un lugar concreto y aporta datos comprobables por terceros. Reconocer esa combinación evita confundir crónica con novela, con reporte periodístico o con una narración de estilo indefinido.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-10-2026-W09-la-cronica-y-el-relato-de-lo-actual-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W09-la-cronica-y-el-relato-de-lo-actual-001-MASTERY-bundle-v2",
+      "statement": "Según el Texto 1, ¿a qué hora abrió Doña Rosa su puesto de verduras?",
+      "context": "En Bogotá, un grupo de décimo grado construye una línea de tiempo a partir del Texto 1 para fijar el orden del relato.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A las ocho y media de la mañana.",
+          "is_correct": true,
+          "feedback": "Correcto. El texto indica con precisión ese horario para la apertura del puesto."
+        },
+        {
+          "letter": "B",
+          "text": "A las siete de la mañana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa hora corresponde a la llegada del cronista a la plaza, y no a la apertura del puesto."
+        },
+        {
+          "letter": "C",
+          "text": "A las nueve de la mañana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa hora corresponde al descenso del teleférico lleno de estudiantes."
+        },
+        {
+          "letter": "D",
+          "text": "A las once de la mañana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa hora corresponde al momento en que el autor contó las personas de la fila."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una crónica ordena los hechos de manera cronológica y por eso sus datos horarios forman una secuencia comprobable. Cada hora del Texto 1 corresponde a una acción distinta, y confundir una con otra cambia el sentido del relato. Identificar el dato literal es el primer paso para comprobar la veracidad de una crónica.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Literal",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-10-2026-W09-la-cronica-y-el-relato-de-lo-actual-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W09-la-cronica-y-el-relato-de-lo-actual-001-MASTERY-bundle-v3",
+      "statement": "En el Texto 1, ¿qué expresa la afirmación de Don Efraín «si el agua sigue subiendo, en diciembre esto se llena de lodo»?",
+      "context": "En Bogotá, los estudiantes de décimo grado analizan la frase que un vendedor de la plaza de mercado pronuncia en el Texto 1.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la plaza de mercado ya está cubierta de lodo en el momento en que se escribe el texto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El agua todavía no ha subido, y la frase proyecta un hecho futuro con una condición."
+        },
+        {
+          "letter": "B",
+          "text": "Que el gobierno de la ciudad tiene la obligación de retirar a los vendedores del lugar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no menciona al gobierno ni menciona una obligación de traslado."
+        },
+        {
+          "letter": "C",
+          "text": "Que el precio de la papa y del tomate baja cuando llega el agua.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto informa que los precios subieron, y la frase del vendedor no se refiere a los precios."
+        },
+        {
+          "letter": "D",
+          "text": "Que, si el agua sigue subiendo, la plaza puede quedar inundada antes de terminar el año.",
+          "is_correct": true,
+          "feedback": "Correcto. La frase expresa un riesgo futuro y condicionado, no un hecho que ya ocurrió."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Comprender una cita directa implica reconstruir la condición y el tiempo que enuncia el testigo. Don Efraín no informa un hecho consumado, sino una posibilidad que depende de lo que ocurra con el agua. Diferenciar un riesgo previsto de un hecho comprobado es una habilidad central para leer cualquier crónica.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semantico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-10-2026-W09-la-cronica-y-el-relato-de-lo-actual-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W09-la-cronica-y-el-relato-de-lo-actual-001-MASTERY-bundle-v4",
+      "statement": "Un estudiante de Bogotá debe escribir el primer párrafo de su crónica sobre el primer día de clases. ¿Cuál de los siguientes criterios aplica mejor?",
+      "context": "En Bogotá, un estudiante de décimo grado prepara un párrafo de su propia crónica sobre el arranque de las clases en su colegio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Abrir con una opinión sobre lo difícil que es el transporte escolar y cerrar con la hora de llegada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Abrir con una opinión desplaza el relato crónico, y la hora de llegada debe aparecer dentro del orden de los hechos."
+        },
+        {
+          "letter": "B",
+          "text": "Ordenar los hechos por horas, desde la llegada al colegio hasta la salida, con un dato comprobable en cada paso.",
+          "is_correct": true,
+          "feedback": "Correcto. El orden cronológico con datos verificables es la estructura básica que exige una crónica."
+        },
+        {
+          "letter": "C",
+          "text": "Empezar por el clima de la mañana y terminar con un recuerdo personal de las vacaciones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El recuerdo no pertenece al hecho relatado, y esa opción desplaza la noticia central del párrafo."
+        },
+        {
+          "letter": "D",
+          "text": "Presentar a todos los compañeros del curso antes de mencionar cualquier hora del día.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Presentar personajes de forma anticipada rompe el orden del relato y retrasa el dato central."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Escribir una crónica exige aplicar su estructura, que es ordenar hechos y verificarlos. El esquema del Texto 1 avanza por horas y cada hora trae un dato comprobable que el lector podría confirmar. Aplicar ese mismo esquema a un hecho propio es el ejercicio que consolida el género.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-10-2026-W09-la-cronica-y-el-relato-de-lo-actual-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W09-la-cronica-y-el-relato-de-lo-actual-001-MASTERY-bundle-v5",
+      "statement": "Un equipo de estudiantes revisa el Texto 2 y necesita ubicar la oración que introduce el punto de vista del autor. ¿Cuál es esa oración?",
+      "context": "En Barranquilla, un equipo de estudiantes de décimo grado revisa el Texto 2 antes de presentarlo en la clase de Expresión Escrita.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "«El sábado fui al estadio con mi tío y salimos de la casa sin desayunar.»",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa oración solo narra un hecho y no incorpora la valoración del autor."
+        },
+        {
+          "letter": "B",
+          "text": "«Mi tío compró tres abanicos en la entrada y nos quedamos donde estaba el sol.»",
+          "is_correct": false,
+          "feedback": "Incorrecto. La oración narra una acción y una decisión de ubicación, y no emite un juicio personal."
+        },
+        {
+          "letter": "C",
+          "text": "«En mi opinión el árbitro no vio dos faltas clarísimas, y eso me molestó mucho.»",
+          "is_correct": true,
+          "feedback": "Correcto. La fórmula «en mi opinión» y el verbo «molestó» convierten el enunciado en un juicio personal."
+        },
+        {
+          "letter": "D",
+          "text": "«Salimos cuando empezó a llover y nos tocó caminar cuatro cuadras bajo el agua.»",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa oración narra una dificultad del día, y no contiene ningún juicio del autor."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un relato que narra lo actual puede permanecer en el plano de los hechos o pasar al plano del juicio. En el Texto 2 la frontera está marcada por fórmulas que anuncian la valoración personal. Reconocerlas permite separar el dato del comentario, que es la diferencia central entre crónica y relato de opinión.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Inferencial",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-10-2026-W09-la-cronica-y-el-relato-de-lo-actual-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W09-la-cronica-y-el-relato-de-lo-actual-001-MASTERY-bundle-v6",
+      "statement": "Antes de publicar su crónica en el periódico escolar, un equipo de estudiantes debería modificar su texto. ¿Qué ajuste es el más necesario?",
+      "context": "En Bogotá, un equipo de estudiantes de décimo grado edita su crónica para publicarla en el periódico del colegio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sustituir la hora de apertura del puesto por una expresión que suene más literaria.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La precisión del dato es la marca de la crónica, el registro literario no lo resuelve."
+        },
+        {
+          "letter": "B",
+          "text": "Cambiar la cita directa de Don Efraín por un resumen con las mismas palabras del autor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La voz del testigo es un recurso central del género, y resumirla elimina el dato testimonial."
+        },
+        {
+          "letter": "C",
+          "text": "Añadir adjetivos que describan el ambiente para que el relato tenga más emoción.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Añadir adjetivos no corrige un problema informativo, y desplaza el relato hacia la literatura de ficción."
+        },
+        {
+          "letter": "D",
+          "text": "Añadir la fuente de la que proviene el dato de los precios, para que el lector pueda verificarlo.",
+          "is_correct": true,
+          "feedback": "Correcto. Una crónica verificada ofrece la procedencia del dato, y con ella el lector puede confirmarlo por sí mismo."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Un dato sin fuente obliga al lector a confiar en el narrador, y una crónica pierde entonces su diferencia con el cuento. Añadir la procedencia del dato convierte la cifra en información verificable, que es la promesa central del género. Ese ajuste es el que separa un trabajo publicable de una narración interesante pero imprecisa.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-10-2026-W09-la-cronica-y-el-relato-de-lo-actual-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W09-la-cronica-y-el-relato-de-lo-actual-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es la diferencia de fondo entre el Texto 1 y el Texto 2?",
+      "context": "En Bogotá, dos estudiantes de décimo grado comparan el Texto 1 y el Texto 2 para preparar una presentación sobre crónica y relato de opinión.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Texto 1 apoya su relato en datos comprobables y en una cita de testigo, mientras que el Texto 2 apoya su relato en la valoración personal de quien escribe.",
+          "is_correct": true,
+          "feedback": "Correcto. La diferencia está en el tipo de apoyo que sostiene cada relato, y no en el tema ni en el lugar donde sucedieron las cosas."
+        },
+        {
+          "letter": "B",
+          "text": "El Texto 1 se escribe en tercera persona y el Texto 2 en segunda persona.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los dos textos están escritos en primera persona, y ese rasgo no los diferencia."
+        },
+        {
+          "letter": "C",
+          "text": "El Texto 1 relata hechos que ocurrieron hace muchos años, mientras que el Texto 2 relata hechos del día anterior.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los dos textos relatan hechos recientes, y ninguno menciona un pasado lejano."
+        },
+        {
+          "letter": "D",
+          "text": "El Texto 1 fue escrito por un profesional del periodismo y el Texto 2 por un estudiante de bachillerato.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los dos textos fueron escritos por estudiantes de décimo grado, y la diferencia no está en la formación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comparar dos textos del mismo tema permite aislar la variable decisiva: el tipo de apoyo que sostiene lo narrado. El Texto 1 ofrece datos, horarios y una cita verificable, y el Texto 2 ofrece la experiencia del autor. Analizar esa diferencia es más útil que clasificar los textos por su apariencia formal.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-10-2026-W09-la-cronica-y-el-relato-de-lo-actual-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W09-la-cronica-y-el-relato-de-lo-actual-001-MASTERY-bundle-v8",
+      "statement": "¿Por qué la voz de Don Efraín aparece entrecomillada en el Texto 1 en lugar de narrada por el cronista?",
+      "context": "En Bogotá, un grupo de décimo grado estudia cómo se introduce la voz de un tercero dentro de la crónica del Texto 1.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque entrecomillar un testimonio permite al autor dejar claro que él no comparte lo dicho.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las comillas no marcan desacuerdo, y el cronista no toma distancia del testimonio."
+        },
+        {
+          "letter": "B",
+          "text": "Porque las comillas convierten las palabras en cita directa y mantienen visible que la voz pertenece al testigo.",
+          "is_correct": true,
+          "feedback": "Correcto. El entrecomillado marca un discurso ajeno y permite al lector distinguir la voz del autor de la del testigo."
+        },
+        {
+          "letter": "C",
+          "text": "Porque entrecomillar una frase obliga a que su contenido sea falso dentro de la crónica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las comillas no invalidan la información, y el testimonio es coherente con el resto del relato."
+        },
+        {
+          "letter": "D",
+          "text": "Porque las comillas indican que el testimonio de Don Efraín es un rumor sin respaldo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto identifica al testigo y su antigüedad en el puesto, y esa información respalda su voz."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La cita directa cumple una función delimitadora: separa la voz del que narra de la voz del que fue entrevistado. En una crónica esa marca es más importante, porque evita que el lector atribuya al cronista un juicio que no es suyo. Analizar la función de las comillas ayuda a escribir entrevistas sin perder precisión.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LC-10-2026-W09-la-cronica-y-el-relato-de-lo-actual-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W09-la-cronica-y-el-relato-de-lo-actual-001-MASTERY-bundle-v9",
+      "statement": "¿Qué relación existe entre lo que hace la crónica en el Texto 1 y lo que hacen las noticias de un medio de comunicación?",
+      "context": "En Bogotá, la asignación de la unidad conecta el género crónica con las noticias y con las redes sociales del colegio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No existe ninguna relación, porque la crónica se escribe en pasado y la noticia se escribe en presente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambas relataron hechos recientes, y esa similitud es precisamente el punto de contacto."
+        },
+        {
+          "letter": "B",
+          "text": "La noticia busca entretener y la crónica busca informar, de modo que sus finalidades nunca coinciden.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La crónica también informa, y esa es la finalidad principal que comparte con la noticia."
+        },
+        {
+          "letter": "C",
+          "text": "La crónica solo puede publicarse en prensa impresa, y por eso no comparte nada con la noticia digital.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La crónica aparece en medios impresos y digitales, y el soporte no cambia su finalidad."
+        },
+        {
+          "letter": "D",
+          "text": "Las dos ponen un hecho reciente en palabras ordenadas y verificables, pero la crónica conserva la voz de quien lo vivió directamente.",
+          "is_correct": true,
+          "feedback": "Correcto. Ambas ordenan y verifican el hecho, y en la crónica se suma el testimonio directo de un participante."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Conocer un género exige saber qué comparte con otros y en qué se distingue. La crónica comparte con la noticia el trabajo de ordenar un hecho reciente y sostenerlo con datos, y añade la mirada de quien estuvo ahí. Reconocer ese vínculo permite entender por qué la crónica se usa en revistas, informes y diarios locales.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-10-2026-W09-la-cronica-y-el-relato-de-lo-actual-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W09-la-cronica-y-el-relato-de-lo-actual-001-MASTERY-bundle-v10",
+      "statement": "Un comité necesita un informe confiable sobre la situación de una plaza de mercado. ¿Cuál de los dos textos reúne mejores condiciones para ese informe?",
+      "context": "En Bogotá, la profesora de Lectura Crítica pide evaluar cuál de los dos textos sirve mejor como informe de un hecho local.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Texto 1, porque ofrece horas, precios, un conteo y la declaración de un testigo con nombre y oficio.",
+          "is_correct": true,
+          "feedback": "Correcto. Todos esos elementos son comprobables por un tercero, y por eso sostienen un informe y no una simple narración."
+        },
+        {
+          "letter": "B",
+          "text": "El Texto 2, porque cuenta lo que vivió el autor y por eso nadie puede discutir su versión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La experiencia personal no garantiza exactitud, y en el Texto 2 hay juicios que no son verificables."
+        },
+        {
+          "letter": "C",
+          "text": "Los dos textos sirven por igual, porque relatan hechos recientes de una misma ciudad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los textos no tienen la misma calidad informativa, y solo uno ofrece datos comprobables."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguno de los dos sirve, porque ninguno menciona el nombre de la persona que escribió la crónica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Texto 1 es anónimo como relato, y eso no impide que sus datos puedan verificarse."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar un texto para un informe exige medir su capacidad de sostenerse por sí mismo. Un informe necesita que el lector pueda contrastar cada afirmación, y solo el Texto 1 ofrece elementos con esa propiedad. La opinionión del autor puede ser interesante, pero no reemplaza la evidencia.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.62,
+      "bundle_id": "CO-LC-10-2026-W09-la-cronica-y-el-relato-de-lo-actual-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W09-la-cronica-y-el-relato-de-lo-actual-001-MASTERY-bundle-v11",
+      "statement": "Una junta directiva de colegio considera publicar las crónicas del curso en el boletín del periodo. ¿Qué evaluación resulta más sensata?",
+      "context": "En Bogotá, la junta directiva del colegio evalúa usar las crónicas del curso en el boletín del fin de periodo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es conveniente publicarlas porque todo lo que escribe un estudiante tiene calidad de publicación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Escribir en un medio no verifica los hechos, y el Texto 2 demuestra que hay relatos sin comprobación."
+        },
+        {
+          "letter": "B",
+          "text": "Es útil porque acerca a las familias a lo que vive el barrio, siempre que se revisen datos y nombres antes de imprimir.",
+          "is_correct": true,
+          "feedback": "Correcto. La crónica aproxima el entorno y esa utilidad se conserva si se verifica lo que se afirma y se protegen las personas citadas."
+        },
+        {
+          "letter": "C",
+          "text": "No es conveniente porque toda crónica usa una opinión personal sobre los hechos relatados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Texto 1 no expresa juicios sobre el hecho relatado, y por eso no puede generalizarse al género."
+        },
+        {
+          "letter": "D",
+          "text": "Es conveniente porque el modelo de la opinión declarada siempre está presente en una crónica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La boorma declarada pertenece al relato de opinión, y aquí se confunden dos textos de la unidad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Valorar un uso comunicativo exige considerar el beneficio y el riesgo al mismo tiempo. Una crónica acerca la vida del barrio a las familias, pero publicar sin revisión expone a personas citadas y difunde datos sin confirmar. La evaluación responsable combina las dos condiciones y no sacrifica la una por la otra.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LC-10-2026-W09-la-cronica-y-el-relato-de-lo-actual-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W09-la-cronica-y-el-relato-de-lo-actual-001-MASTERY-bundle-v12",
+      "statement": "¿Qué riesgo es más grave para el barrio si el Texto 1 se publica en un medio digital sin revisión?",
+      "context": "En Bogotá, un grupo de décimo grado discute los riesgos de publicar el Texto 1 en un medio digital del colegio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que los lectores no puedan reconstruir la secuencia del día, porque la crónica no usa horas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Texto 1 sí organiza el relato con horas precisas, de modo que ese riesgo no se presenta."
+        },
+        {
+          "letter": "B",
+          "text": "Que la crónica pierda su condición de relato actual y pase a leerse como una narración antigua.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto relata hechos recientes y esa condición se mantiene aunque se publique en un medio digital."
+        },
+        {
+          "letter": "C",
+          "text": "Que un testimonio personal se lea como un hecho comprobado y termine circulando sin el matiz que tenía.",
+          "is_correct": true,
+          "feedback": "Correcto. Al perder el contexto de quién dijo qué, el testimonio pierde sus límites y puede deformar la información."
+        },
+        {
+          "letter": "D",
+          "text": "Que el precio de la papa se presente como un dato oficial cuando en realidad es una cifra del mercado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El precio es un dato de mercado correctamente identificado, y su publicación no genera ese riesgo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Publicar sin revisar elimina el contexto que protegía la información original. La frase de Don Efraín es un testimonio condicionado sobre el agua, y al circular sola puede convertirse en una afirmación categórica que él nunca hizo. Evaluar ese riesgo es lo que distingue una publicación responsable de una difusión descuidada.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.58,
+      "bundle_id": "CO-LC-10-2026-W09-la-cronica-y-el-relato-de-lo-actual-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}
