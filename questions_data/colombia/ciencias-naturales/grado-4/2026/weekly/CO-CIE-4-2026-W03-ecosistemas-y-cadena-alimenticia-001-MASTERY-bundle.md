@@ -70,7 +70,7 @@ En una cadena alimentaria siempre hay un punto de partida, y ese punto son los p
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento científico
 **Expected_Success:** 0.75
-**Contexto:** En un río delPutumayo, una niña observa muchos peces pequeños y, entre ellos, algunos peces grandes como el tucunaré.
+**Contexto:** En un río del Putumayo, una niña observa muchos peces pequeños y, entre ellos, algunos peces grandes como el tucunaré.
 ### Enunciado
 Un año después la pesca reduce mucho la cantidad de peces pequeños y el tucunaré se vuelve más escaso. ¿Cuál es la explicación más completa de lo ocurrido?
 
