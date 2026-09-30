@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-29-grade-10-subject-lectura_critica",
+    "generated_at": "2026-09-30T18:10:10.522Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-10-2026-W29-los-modificadores-y-la-precision-lexica-001-MASTERY-bundle-v1",
+      "statement": "En el Texto 1, ¿qué palabras cumplen la función de modificador del sustantivo «pinturas»?",
+      "context": "En Sincelejo, el grupo de grado 10 identifica los modificadores que aparecen en la reseña de la exposición.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "«coloniales» y «restauradas».",
+          "is_correct": true,
+          "feedback": "Es la opción correcta porque ambos adjetivos acotan y precisar qué tipo de pinturas se exhiben."
+        },
+        {
+          "letter": "B",
+          "text": "«paredes» y «cubiertas».",
+          "is_correct": false,
+          "feedback": "Incorrecta: son sustantivos y un verbo, no modificadores del sustantivo «pinturas»."
+        },
+        {
+          "letter": "C",
+          "text": "«ultima» y «sala».",
+          "is_correct": false,
+          "feedback": "Incorrecta: el sustantivo modificado es «pinturas», no «sala» ni ningún otro término."
+        },
+        {
+          "letter": "D",
+          "text": "«arte» y «colonial».",
+          "is_correct": false,
+          "feedback": "Incorrecta: esos dos términos califican a «exposición» y no a «pinturas»."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reconocer el modificador exige identificar primero el sustantivo que califica. Ese hábito evita confundir una palabra precisa con una que pertenece a otra categoría.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Literal",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-10-2026-W29-los-modificadores-y-la-precision-lexica-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W29-los-modificadores-y-la-precision-lexica-001-MASTERY-bundle-v2",
+      "statement": "Según el criterio de precisión léxica, ¿cuál de estos modificadores aporta más información verificable?",
+      "context": "En Montería, estudiantes de grado 10 revisan la precisión de los modificadores del artículo escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "«muy bonita».",
+          "is_correct": false,
+          "feedback": "Incorrecta: el término expresa una opinión personal y no permite verificar nada."
+        },
+        {
+          "letter": "B",
+          "text": "«coloniales restauradas hace dos años».",
+          "is_correct": true,
+          "feedback": "Es la opción correcta porque informa origen, estado y fecha, tres datos comprobables."
+        },
+        {
+          "letter": "C",
+          "text": "«bastante grande».",
+          "is_correct": false,
+          "feedback": "Incorrecta: el adverbio «bastante» refuerza la vaguedad y no aporta un dato medible."
+        },
+        {
+          "letter": "D",
+          "text": "«realmente interesante».",
+          "is_correct": false,
+          "feedback": "Incorrecta: es una valoración subjetiva que no puede comprobarse con evidencia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un modificador preciso puede verificarse o descartarse con evidencia. Reemplazar adjetivos valorativos por datos es el ejercicio central de la semana.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-10-2026-W29-los-modificadores-y-la-precision-lexica-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W29-los-modificadores-y-la-precision-lexica-001-MASTERY-bundle-v3",
+      "statement": "En el Texto 1, ¿cuál de los siguientes segmentos funciona como modificador del sustantivo «exposición»?",
+      "context": "En Sincelejo, el club de lectura de grado 10 distingue entre modificador oracional y adjetivo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "«que muchos estudiantes consideraron muy bella».",
+          "is_correct": false,
+          "feedback": "Incorrecta: este segmento sí es un modificador del sustantivo «exposición», no del término «pinturas»."
+        },
+        {
+          "letter": "B",
+          "text": "«de arte colonial».",
+          "is_correct": true,
+          "feedback": "Es la opción correcta porque el grupo de palabras especifica de qué tipo de exposición se trata."
+        },
+        {
+          "letter": "C",
+          "text": "«los cuadros ocuparon el corredor central del colegio».",
+          "is_correct": false,
+          "feedback": "Incorrecta: es una oración completa que funciona como oración del relato, no como modificador."
+        },
+        {
+          "letter": "D",
+          "text": "«donde las paredes estaban cubiertas».",
+          "is_correct": false,
+          "feedback": "Incorrecta: es una oración que modifica a «sala» y no a «exposición»."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El modificador puede ser una sola palabra o un grupo entero. Reconocer la categoría y el término que modifica es la base del análisis sintáctico del adjetivo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Textual",
+      "expected_success": 0.86,
+      "bundle_id": "CO-LC-10-2026-W29-los-modificadores-y-la-precision-lexica-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W29-los-modificadores-y-la-precision-lexica-001-MASTERY-bundle-v4",
+      "statement": "Una estudiante de Palmira escribe: «La exposición era bonita y grande». ¿Cuál es la corrección que respeta mejor el criterio de precisión léxica?",
+      "context": "En Palmira, el equipo de grado 10 reescribe una reseña escolar usando modificadores precisos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "«La exposición de cerámica precolombina ocupaba dos salas y reunía cuarenta piezas».",
+          "is_correct": true,
+          "feedback": "Es la opción correcta porque cada modificador aporta un dato identificable y comprobable."
+        },
+        {
+          "letter": "B",
+          "text": "«La exposición era muy bonita y bastante grande».",
+          "is_correct": false,
+          "feedback": "Incorrecta: conserva los dos adjetivos valorativos y los adverbios que no aportan información."
+        },
+        {
+          "letter": "C",
+          "text": "«La exposición bonita y grande fue Algo que vimos por ahí».",
+          "is_correct": false,
+          "feedback": "Incorrecta: mantiene los adjetivos vagos y añade una expresión que impide verificar."
+        },
+        {
+          "letter": "D",
+          "text": "«La exposición grande era bonita, segúnblocking todos los compañeros del salón».",
+          "is_correct": false,
+          "feedback": "Incorrecta: solo cambia el orden de los adjetivos y mantiene los términos sin precisión."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reescribir no consiste en reordenar palabras sino en cambiar el contenido informativo. Preguntar qué se puede medir es el paso previo a elegir el modificador.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-10-2026-W29-los-modificadores-y-la-precision-lexica-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W29-los-modificadores-y-la-precision-lexica-001-MASTERY-bundle-v5",
+      "statement": "En el Texto 2, ¿qué modificador debería reemplazar a «limitado» para que la afirmación sobre el agua sea más precisa?",
+      "context": "En Ocaña, estudiantes de grado 10 editan el artículo de Montería antes de publicarlo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "«bastante difícil de conseguir».",
+          "is_correct": false,
+          "feedback": "Incorrecta: sigue siendo una valoración subjetiva y no describe el nivel real del acceso."
+        },
+        {
+          "letter": "B",
+          "text": "«solo disponible en algunos municipios».",
+          "is_correct": false,
+          "feedback": "Incorrecta: confunde la disponibilidad del recurso con la cobertura de la red de acueducto."
+        },
+        {
+          "letter": "C",
+          "text": "«olvidado por la mayoría de las comunidades rurales del departamento».",
+          "is_correct": false,
+          "feedback": "Incorrecta: introduce una afirmación absoluta que el texto no demuestra con datos."
+        },
+        {
+          "letter": "D",
+          "text": "«restringido a un porcentaje mínimo de los hogares del área rural».",
+          "is_correct": true,
+          "feedback": "Es la opción correcta porque indica alcance, cobertura y proporción, y por tanto puede verificarse."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Un modificador bien elegido responde qué, cuánto y para quién. Esa claridad es lo que distingue un argumento riguroso de una impresión.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-10-2026-W29-los-modificadores-y-la-precision-lexica-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W29-los-modificadores-y-la-precision-lexica-001-MASTERY-bundle-v6",
+      "statement": "En el Texto 1, ¿qué efecto tiene el uso de «muy bella» y «gran tamaño» como modificadores?",
+      "context": "En Sincelejo, el taller de grado 10 analiza cómo los modificadores sostienen el criterio del texto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mezcla una valoración subjetiva con una descripción verificable dentro de la misma reseña.",
+          "is_correct": true,
+          "feedback": "Es la opción correcta porque el texto alterna el juicio personal y el dato objetivo."
+        },
+        {
+          "letter": "B",
+          "text": "Convierte la reseña en un texto informativo con datos comprobables.",
+          "is_correct": false,
+          "feedback": "Incorrecta: «muy bella» es subjetiva, de modo que la reseña conserva un tono valorativo."
+        },
+        {
+          "letter": "C",
+          "text": "Contradice la descripción de las pinturas restauradas de la última sala.",
+          "is_correct": false,
+          "feedback": "Incorrecta: no hay contradicción, porque los modificadores se refieren a objetos distintos."
+        },
+        {
+          "letter": "D",
+          "text": "Cierra el texto con una valoración que el lector debe aceptar sin reservas.",
+          "is_correct": false,
+          "feedback": "Incorrecta: el texto no cierra con una valoración, sino con una descripción de las pinturas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un mismo texto puede sostener un tono mixto. Reconocer cuándo el autor evalúa y cuándo informa ayuda a valorar la confiabilidad del mensaje.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-10-2026-W29-los-modificadores-y-la-precision-lexica-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W29-los-modificadores-y-la-precision-lexica-001-MASTERY-bundle-v7",
+      "statement": "A partir del Texto 2, ¿qué tesis sostiene mejor el uso de modificadores como «rurales dispersas» y «zonas más apartadas»?",
+      "context": "En Montería, estudiantes de grado 10 infieren la tesis del artículo a partir de sus modificadores.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El gobierno nacional ha invertido más recursos en las cabeceras que en las comunidades pequeñas.",
+          "is_correct": false,
+          "feedback": "Incorrecta: el texto critica la falta de explicación, no la magnitud de la inversión."
+        },
+        {
+          "letter": "B",
+          "text": "La tesis general del artículo es que el problema del agua se concentra en las comunidades rurales dispersas.",
+          "is_correct": false,
+          "feedback": "Incorrecta: el artículo no se limita a describir el problema, también cuestiona la respuesta oficial."
+        },
+        {
+          "letter": "C",
+          "text": "La tesis implícita es que las obras públicas quedan abandonadas en las comunidades rurales dispersas.",
+          "is_correct": true,
+          "feedback": "Es la opción correcta porque los modificadores delimitan el escenario donde se concentra el abandono."
+        },
+        {
+          "letter": "D",
+          "text": "Las comunidades rurales dispersas no valoran las obras de acueducto que reciben.",
+          "is_correct": false,
+          "feedback": "Incorrecta: el texto no atribuye esa actitud a las comunidades y evita culpar a la respuesta institucional."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los modificadores indican el escenario de la afirmación. Delimitar bien el ámbito permite inferir la tesis que el autor defiende en el texto.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Inferencial",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LC-10-2026-W29-los-modificadores-y-la-precision-lexica-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W29-los-modificadores-y-la-precision-lexica-001-MASTERY-bundle-v8",
+      "statement": "Una institución afirma: «El programa de agua benefició a muchas familias». El Texto 2 afirma: «el acceso al agua potable sigue siendo limitado en varios municipios». ¿Qué relación se establece?",
+      "context": "En Cartagena, el semillero crítico de grado 10 compara dos versiones del mismo dato.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El segundo enunciado apoya al primero porque ambos hablan del mismo territorio.",
+          "is_correct": false,
+          "feedback": "Incorrecta: los dos enunciados admiten conclusiones opuestas sobre la misma realidad."
+        },
+        {
+          "letter": "B",
+          "text": "El segundo enunciado contradice al primero solo en cuanto al número de municipios mencionados.",
+          "is_correct": false,
+          "feedback": "Incorrecta: la tensión no está en la cantidad de municipios sino en el alcance real del beneficio."
+        },
+        {
+          "letter": "C",
+          "text": "El segundo enunciado relativiza al primero al delimitar el alcance del beneficio del programa.",
+          "is_correct": true,
+          "feedback": "Es la opción correcta porque el modificador acota la afirmación general de la institución."
+        },
+        {
+          "letter": "D",
+          "text": "Ambos enunciados son equivalentes porque describen la misma política pública.",
+          "is_correct": false,
+          "feedback": "Incorrecta: uno destaca el beneficio y el otro sus límites, de modo que no son equivalentes."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Comparar dos versiones del mismo dato revela el uso del modificador como acotación. Reconocer esa acotación es la base de la lectura crítica de fuentes oficiales.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LC-10-2026-W29-los-modificadores-y-la-precision-lexica-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W29-los-modificadores-y-la-precision-lexica-001-MASTERY-bundle-v9",
+      "statement": "En la oración «Los libros que donaron los padres son nuevos», ¿qué efecto tiene la oración modificadora sobre el sustantivo «libros»?",
+      "context": "En Duitama, el equipo de grado 10 distingue el alcance del modificador según su posición.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lo sustituye por un término equivalente para evitar la repetición.",
+          "is_correct": false,
+          "feedback": "Incorrecta: la oración modificadora acota el sustantivo y no lo reemplaza por un sinónimo."
+        },
+        {
+          "letter": "B",
+          "text": "Lo restringe al grupo de libros donados específicamente por los padres.",
+          "is_correct": true,
+          "feedback": "Es la opción correcta porque la oración delimita qué libros se consideran: solo los donados por los padres."
+        },
+        {
+          "letter": "C",
+          "text": "Lo amplía para incluir cualquier libro que esté en el aula.",
+          "is_correct": false,
+          "feedback": "Incorrecta: la oración tiene valor restrictivo y por tanto reduce el conjunto de libros."
+        },
+        {
+          "letter": "D",
+          "text": "Lo convierte en un término abstracto que ya no designa objetos concretos.",
+          "is_correct": false,
+          "feedback": "Incorrecta: la oración no cambia la categoría del sustantivo, solo delimita su alcance."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La posición del modificador oracional decide si amplía o restringe. Dominar esa diferencia evita interpretar mal el alcance de cualquier afirmación.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LC-10-2026-W29-los-modificadores-y-la-precision-lexica-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W29-los-modificadores-y-la-precision-lexica-001-MASTERY-bundle-v10",
+      "statement": "En el Texto 2, se reemplaza «el acceso al agua potable sigue siendo limitado» por «el acceso al agua potable ha mejorado». ¿Qué ocurre con el texto?",
+      "context": "En Pasto, estudiantes de grado 10 evalúan el efecto de cambiar modificadores en un texto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El texto mantiene su tesis porque el cambio afecta solo al estilo.",
+          "is_correct": false,
+          "feedback": "Incorrecta: el cambio modifica el contenido y por ello altera directamente la tesis del artículo."
+        },
+        {
+          "letter": "B",
+          "text": "El texto pierde su crítica porque el nuevo modificador contradice el cierre del párrafo.",
+          "is_correct": false,
+          "feedback": "Incorrecta: el cierre cuestiona el abandono de las obras, y esa crítica sigue siendo válida."
+        },
+        {
+          "letter": "C",
+          "text": "El texto se vuelve más preciso porque el nuevo modificador es un dato medible.",
+          "is_correct": false,
+          "feedback": "Incorrecta: el nuevo modificador no aporta un dato verificable, solo cambia la valoración."
+        },
+        {
+          "letter": "D",
+          "text": "El texto invierte el sentido de la primera oración y debilita la crítica posterior al gobierno.",
+          "is_correct": true,
+          "feedback": "Es la opción correcta porque el texto ya no puede sostener su tesis si el problema se declara resuelto."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Cambiar un modificador puede invertir el sentido del párrafo. Por eso toda edición debe revisar no solo la forma, sino el efecto del reemplazo en la tesis.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-10-2026-W29-los-modificadores-y-la-precision-lexica-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W29-los-modificadores-y-la-precision-lexica-001-MASTERY-bundle-v11",
+      "statement": "Un equipo reemplazó «los jóvenes del barrio» por «los estudiantes de décimo grado de Villa del Rosario». ¿Cuál es el juicio más preciso sobre esa intervención?",
+      "context": "En Barrancabermeja, el comité de grado 10 evalúa la revisión de modificadores hecha por un equipo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La intervención es válida porque el nombre del barrio identifica mejor a los jóvenes que cualquier adjetivo.",
+          "is_correct": false,
+          "feedback": "Incorrecta: identificar el barrio no elimina la ambigüedad sobre cuáles jóvenes del barrio son estos."
+        },
+        {
+          "letter": "B",
+          "text": "La intervención es insuficiente porque los nombres propios nunca funcionan como modificadores.",
+          "is_correct": false,
+          "feedback": "Incorrecta: los nombres propios sí pueden cumplir la función de modificador cuando acotan al sustantivo."
+        },
+        {
+          "letter": "C",
+          "text": "La intervención mejora la precisión del referente, aunque por sí sola no garantiza la verificación de lo afirmado.",
+          "is_correct": true,
+          "feedback": "Es la opción correcta porque delimita mejor el grupo, aunque falta un dato que permita comprobar las afirmaciones."
+        },
+        {
+          "letter": "D",
+          "text": "La intervención es incorrecta porque el nombre del barrio introduce una referencia extraterritorial.",
+          "is_correct": false,
+          "feedback": "Incorrecta: el municipio citado es colombiano y no introduce ninguna referencia ajena al contexto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un buen modificador acota y otro verificable. Distinguir entre acotar y demostrar permite escribir descripciones que el lector pueda comprobar.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-10-2026-W29-los-modificadores-y-la-precision-lexica-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W29-los-modificadores-y-la-precision-lexica-001-MASTERY-bundle-v12",
+      "statement": "Un texto usa «el grave problema del agua» y «las disastrosas obras del gobierno». ¿Qué juicio global corresponde?",
+      "context": "En Arauca, el equipo redactor del periodillo escolar decide el tono de su informe.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El texto es correcto porque los términos valorativos capturan mejor la gravedad de la situación.",
+          "is_correct": false,
+          "feedback": "Incorrecta: un juicio emocional no sustituye la evidencia que el lector necesita para evaluar la situación."
+        },
+        {
+          "letter": "B",
+          "text": "El texto es correcto porque el uso de adjetivos fuertes garantiza la atención del lector.",
+          "is_correct": false,
+          "feedback": "Incorrecta: llamar la atención no equivale a informar bien ni a sostener una tesis verificable."
+        },
+        {
+          "letter": "C",
+          "text": "El texto necesita solo un ajuste de estilo, porque su tesis es sólida pese a los adjetivos.",
+          "is_correct": false,
+          "feedback": "Incorrecta: sin datos que respalden la gravedad invocada, la tesis tampoco queda sólida."
+        },
+        {
+          "letter": "D",
+          "text": "El texto es poco preciso y poco confiable, porque acumula valoraciones subjetivas donde debería aportar datos.",
+          "is_correct": true,
+          "feedback": "Es la opción correcta porque los dos modificadores expresan juicios y reemplazan los datos que sostienen el texto."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar la precisión implica preguntar qué se puede comprobar. Un texto que sustituye datos por adjetivos fuertes pierde confiabilidad ante el lector.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LC-10-2026-W29-los-modificadores-y-la-precision-lexica-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}
