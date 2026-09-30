@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-28-grade-10-subject-lectura_critica",
+    "generated_at": "2026-09-30T18:10:10.522Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-10-2026-W28-el-parrafo-y-la-unidad-textual-001-MASTERY-bundle-v1",
+      "statement": "Según el Texto 1, ¿qué información presenta el párrafo sobre el uso de la biblioteca?",
+      "context": "En Tunja, el grupo de grado 10 cuenta los datos que aparecen en el borrador del párrafo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que los estudiantes de noveno y undécimo grado realizan casi la mitad de los préstamos.",
+          "is_correct": true,
+          "feedback": "Es la opción correcta porque ese dato aparece explícito en la segunda oración del texto."
+        },
+        {
+          "letter": "B",
+          "text": "Que la biblioteca del colegio permanece cerrada durante todo el primer semestre.",
+          "is_correct": false,
+          "feedback": "Incorrecta: el texto afirma que la biblioteca abrió en marzo y que registra préstamos."
+        },
+        {
+          "letter": "C",
+          "text": "Que la coordinadora académica propone ampliar el número de libros del colegio.",
+          "is_correct": false,
+          "feedback": "Incorrecta: la coordinadora propone cambiar la distribución de los turnos, no comprar más libros."
+        },
+        {
+          "letter": "D",
+          "text": "Que los estudiantes de décimo grado utilizan la biblioteca con mayor frecuencia que los demás.",
+          "is_correct": false,
+          "feedback": "Incorrecta: el texto dice que los estudiantes de décimo grado casi no utilizan la biblioteca antes de la tarde."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Localizar datos explícitos es el primer paso de la lectura literal. Solo cuando el estudiante reconoce la información escrita puede evaluar la interpretación del párrafo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Literal",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-10-2026-W28-el-parrafo-y-la-unidad-textual-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W28-el-parrafo-y-la-unidad-textual-001-MASTERY-bundle-v2",
+      "statement": "En el Texto 2, ¿cuál de las oraciones funciona como idea central del párrafo?",
+      "context": "En Armenia, estudiantes de grado 10 identifican la oración que resume el sentido del Texto 2.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "«En los municipios pequeños de la región, muchos estudiantes recorren más de una hora».",
+          "is_correct": false,
+          "feedback": "Incorrecta: es una idea de apoyo que respalda la tesis, no el núcleo del párrafo."
+        },
+        {
+          "letter": "B",
+          "text": "«Por consiguiente, el gobierno departamental ha destinado recursos a la ampliación de rutas».",
+          "is_correct": false,
+          "feedback": "Incorrecta: es una consecuencia que el autor critica más adelante y no organiza todo el párrafo."
+        },
+        {
+          "letter": "C",
+          "text": "«El transporte escolar no es un asunto menor».",
+          "is_correct": true,
+          "feedback": "Es la opción correcta porque esa oración anuncia la tesis que el resto del párrafo desarrolla."
+        },
+        {
+          "letter": "D",
+          "text": "«Ese trayecto consume horas de sueño y reduce el rendimiento en las primeras clases».",
+          "is_correct": false,
+          "feedback": "Incorrecta: describe un efecto concreto, pero funciona como argumento de apoyo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La oración temática suele aparecer al inicio y condensa el sentido del párrafo. Identificarla ayuda a ordenar las ideas de apoyo al resumir un texto largo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Textual",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-10-2026-W28-el-parrafo-y-la-unidad-textual-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W28-el-parrafo-y-la-unidad-textual-001-MASTERY-bundle-v3",
+      "statement": "En el Texto 1, la expresión «Sin embargo» cumple cuál función?",
+      "context": "En Tunja, el comité editorial de grado 10 revisa el valor del conector usado en el Texto 1.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Conceder una excepción que refuerza la opinión del comité estudiantil.",
+          "is_correct": false,
+          "feedback": "Incorrecta: la expresión no concede una excepción, sino que opone dos datos."
+        },
+        {
+          "letter": "B",
+          "text": "Ordenar los hechos según la línea de tiempo de la apertura de la biblioteca.",
+          "is_correct": false,
+          "feedback": "Incorrecta: la expresión no ordena hechos en el tiempo, sino que cambia el sentido de la afirmación previa."
+        },
+        {
+          "letter": "C",
+          "text": "Señalar un contraste entre el uso alto de unos grados y el uso bajo de otro.",
+          "is_correct": true,
+          "feedback": "Es la opción correcta porque la expresión introduce el dato contrario al éxito general de la biblioteca."
+        },
+        {
+          "letter": "D",
+          "text": "Concluir el párrafo con la propuesta del comité estudiantil.",
+          "is_correct": false,
+          "feedback": "Incorrecta: la propuesta aparece al final del párrafo mediante «Por eso», no mediante «Sin embargo»."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Comprender el valor del conector evita leer el párrafo como una lista de datos sin jerarquía. La marca de contraste indica dónde está el verdadero problema.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.86,
+      "bundle_id": "CO-LC-10-2026-W28-el-parrafo-y-la-unidad-textual-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W28-el-parrafo-y-la-unidad-textual-001-MASTERY-bundle-v4",
+      "statement": "Un párrafo de un especial escolar dice: «La reparación de los bathrooms costó ocho millones de pesos. La pintura del auditorium costó cinco millones. Además, el mantenimiento de las luces lleva dos años sin ejecutado.» ¿Cuál es el problema principal de este párrafo?",
+      "context": "En Manizales, el equipo de grado 10 reorganiza un borrador antes de enviarlo al especial del periódico escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Usa demasiados conectores adversativos que dificultan la lectura.",
+          "is_correct": false,
+          "feedback": "Incorrecta: el problema central no es el exceso de conectores sino la mezcla de ideas distintas."
+        },
+        {
+          "letter": "B",
+          "text": "Mezcla tres ideas que no se relacionan, por lo que no sostiene una unidad temática.",
+          "is_correct": true,
+          "feedback": "Es la opción correcta porque un párrafo debe desarrollar una sola idea y este cambia de tema sin transición."
+        },
+        {
+          "letter": "C",
+          "text": "Carece de datos numéricos suficientes para sostener la afirmación general.",
+          "is_correct": false,
+          "feedback": "Incorrecta: el párrafo sí incluye cifras en las dos primeras oraciones."
+        },
+        {
+          "letter": "D",
+          "text": "Repite la palabra costo en varias oraciones del mismo párrafo.",
+          "is_correct": false,
+          "feedback": "Incorrecta: la repetición del término no es el defecto descrito por el enunciado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La unidad textual exige una sola idea central. Cuando el párrafo cambia de tema sin transición, el lector pierde el hilo y la tesis se fragmenta.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-10-2026-W28-el-parrafo-y-la-unidad-textual-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W28-el-parrafo-y-la-unidad-textual-001-MASTERY-bundle-v5",
+      "statement": "¿En qué oración del Texto 2 debería terminar el párrafo si el especial escolar se limitara a presentar el problema del transporte escolar?",
+      "context": "En Tunja, el comité editorial de grado 10 decide dónde cortar el Texto 2 para publicarlo en el especial.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En «El transporte escolar no es un asunto menor».",
+          "is_correct": false,
+          "feedback": "Incorrecta: esa oración anuncia la tesis y aún no hay evidencia que la respalde."
+        },
+        {
+          "letter": "B",
+          "text": "En «Ese trayecto consume horas de sueño y reduce el rendimiento en las primeras clases de la mañana».",
+          "is_correct": true,
+          "feedback": "Es la opción correcta porque cierra el problema con dos consecuencias descritas y verificables."
+        },
+        {
+          "letter": "C",
+          "text": "En «En los municipios pequeños de la región, muchos estudiantes recorren más de una hora».",
+          "is_correct": false,
+          "feedback": "Incorrecta: esa oración presenta el dato de distancia, pero no el efecto del trayecto."
+        },
+        {
+          "letter": "D",
+          "text": "En «No obstante, la inversión sigue concentrada en las cabeceras municipales».",
+          "is_correct": false,
+          "feedback": "Incorrecta: esa oración abre el segundo tema del artículo, relativo a la distribución del presupuesto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Delimitar el párrafo equivale a decidir hasta dónde se desarrolla una idea. Un criterio útil es cerrar cuando el problema ya está descrito con evidencia.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-10-2026-W28-el-parrafo-y-la-unidad-textual-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W28-el-parrafo-y-la-unidad-textual-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la diferencia de organización entre el Texto 1 y el Texto 2?",
+      "context": "En Armenia, el club de lectura de grado 10 compara la estructura de los dos textos base.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Texto 1 presenta el dato y cierra con una propuesta; el Texto 2 presenta el problema, su efecto y una crítica a la solución.",
+          "is_correct": true,
+          "feedback": "Es la opción correcta porque los dos párrafos recorren trayectorias argumentativas distintas."
+        },
+        {
+          "letter": "B",
+          "text": "Los dos textos presentan el problema y terminan con una propuesta idéntica de horario.",
+          "is_correct": false,
+          "feedback": "Incorrecta: solo el Texto 1 cierra con una propuesta concreta; el Texto 2 cierra con una objeción."
+        },
+        {
+          "letter": "C",
+          "text": "El Texto 1 usa datos y el Texto 2 se apoya únicamente en la valoración personal.",
+          "is_correct": false,
+          "feedback": "Incorrecta: ambos textos combinan afirmaciones y datos numéricos."
+        },
+        {
+          "letter": "D",
+          "text": "El Texto 2 presenta una narración en primera persona y el Texto 1 un informe de datos.",
+          "is_correct": false,
+          "feedback": "Incorrecta: los dos textos están escritos en tercera persona y tono expositivo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comparar estructuras ayuda a reconocer recetas argumentativas. Saber cómo se construye un párrafo permite después producir uno propio con la misma lógica.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-10-2026-W28-el-parrafo-y-la-unidad-textual-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W28-el-parrafo-y-la-unidad-textual-001-MASTERY-bundle-v7",
+      "statement": "En el Texto 1, ¿qué inferencia se sostiene mejor sobre la propuesta del comité estudiantil?",
+      "context": "En Villavicencio, estudiantes de grado 10 infieren qué idea sostiene el párrafo de Tunja.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El comité propone ampliar el horario para mejorar el total de préstamos registrados.",
+          "is_correct": false,
+          "feedback": "Incorrecta: la propuesta responde al uso bajo de un grado específico, no a los préstamos totales."
+        },
+        {
+          "letter": "B",
+          "text": "El comité propone comprar más libros porque la biblioteca resulta demasiado pequeña.",
+          "is_correct": false,
+          "feedback": "Incorrecta: el comité descarta comprar más libros y se concentra en cambiar la distribución de los turnos."
+        },
+        {
+          "letter": "C",
+          "text": "El comité propone cerrar la biblioteca durante el segundo semestre para ahorrar presupuesto.",
+          "is_correct": false,
+          "feedback": "Incorrecta: el párrafo no menciona cierre, ahorro ni reducción de presupuesto."
+        },
+        {
+          "letter": "D",
+          "text": "El comité propone ampliar el horario porque el problema es la distribución de los turnos, no la falta de libros.",
+          "is_correct": true,
+          "feedback": "Es la opción correcta porque la propuesta se deriva del diagnóstico hecho en el párrafo."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Toda propuesta de un párrafo debe poder rastrearse hasta su diagnóstico. Inferir esa cadena ayuda a evaluar si el cierre es coherente con lo propuesto.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Inferencial",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LC-10-2026-W28-el-parrafo-y-la-unidad-textual-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W28-el-parrafo-y-la-unidad-textual-001-MASTERY-bundle-v8",
+      "statement": "Al revisar el Texto 1, el comité descarta dos oraciones porque rompen la unidad temática. ¿Cuáles son las más probables?",
+      "context": "En Florencia, el semillero de grado 10 evalúa la unidad de cada párrafo antes de publicarlo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La oración sobre la apertura de la biblioteca y la oración sobre el total de préstamos.",
+          "is_correct": false,
+          "feedback": "Incorrecta: esas dos oraciones construyen el diagnóstico del párrafo y forman una secuencia coherente."
+        },
+        {
+          "letter": "B",
+          "text": "La oración sobre el total de préstamos y la oración del reporte de la coordinadora.",
+          "is_correct": false,
+          "feedback": "Incorrecta: el reporte interpreta el dato de préstamos y por eso se apoya en la oración anterior."
+        },
+        {
+          "letter": "C",
+          "text": "La oración del reporte de la coordinadora y la oración del comité estudiantil.",
+          "is_correct": false,
+          "feedback": "Incorrecta: la propuesta del comité se apoya directamente en el diagnóstico de la coordinadora."
+        },
+        {
+          "letter": "D",
+          "text": "La oración sobre el total de préstamos del primer semestre y la oración final del comité, si se invirtieran.",
+          "is_correct": true,
+          "feedback": "Es la opción correcta porque, al invertir ese orden, la propuesta quedaría antes del dato que la justifica."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La unidad del párrafo depende del orden de las ideas. Un cierre que aparece antes de la evidencia deja la propuesta sin sustento y rompe la progresión.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LC-10-2026-W28-el-parrafo-y-la-unidad-textual-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W28-el-parrafo-y-la-unidad-textual-001-MASTERY-bundle-v9",
+      "statement": "Un equipo de Popayán quiere construir un párrafo sobre el transporte escolar. ¿Cuál secuencia respeta mejor la relación entre idea central, dato y consecuencia?",
+      "context": "En Popayán, el equipo de grado 10 reordena las oraciones del Texto 2 para construir su propio párrafo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "«El transporte escolar no es un asunto menor», después «muchos estudiantes recorren más de una hora» y por último «ese trayecto reduce el rendimiento en la mañana».",
+          "is_correct": true,
+          "feedback": "Es la opción correcta porque avanza de la tesis al dato y termina en la consecuencia, como en el Texto 2."
+        },
+        {
+          "letter": "B",
+          "text": "«Ese trayecto reduce el rendimiento en la mañana», después «el transporte escolar no es un asunto menor» y por último «muchos estudiantes recorren más de una hora».",
+          "is_correct": false,
+          "feedback": "Incorrecta: esta secuencia empieza por la consecuencia y deja la tesis para el final, lo que desorienta al lector."
+        },
+        {
+          "letter": "C",
+          "text": "«Muchos estudiantes recorren más de una hora», después «el transporte escolar no es un asunto menor» y por último «ese trayecto reduce el rendimiento en la mañana».",
+          "is_correct": false,
+          "feedback": "Incorrecta: la tesis queda encerrada entre el dato y la consecuencia y se pierde su función global."
+        },
+        {
+          "letter": "D",
+          "text": "Las tres oraciones en el mismo orden del Texto 2, pero unidas por comas y sin punto final.",
+          "is_correct": false,
+          "feedback": "Incorrecta: unir con comas no crea un párrafo completo y dificulta la comprensión."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Ordenar un párrafo exige respetar la jerarquía entre tesis, apoyo y cierre. Esa secuencia es la que el lector espera y la que mejor sostiene la comprensión.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LC-10-2026-W28-el-parrafo-y-la-unidad-textual-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W28-el-parrafo-y-la-unidad-textual-001-MASTERY-bundle-v10",
+      "statement": "Al Texto 2 se le añade: «Por lo tanto, cada colegio rural debería medir el tiempo de trayecto de sus estudiantes». ¿Qué efecto produce esa oración?",
+      "context": "En Yopal, estudiantes de grado 10 agregan una oración a un párrafo ya publicado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Convierte el párrafo en un cierre definitivo que elimina la necesidad de seguir escribiendo.",
+          "is_correct": false,
+          "feedback": "Incorrecta: la oración propone una acción futura y por tanto abre el texto, no lo cierra."
+        },
+        {
+          "letter": "B",
+          "text": "Cierra el párrafo con una consecuencia práctica que se deriva de la crítica a la distribución de la inversión.",
+          "is_correct": true,
+          "feedback": "Es la opción correcta porque la oración traduce la crítica en una recomendación coherente con el párrafo."
+        },
+        {
+          "letter": "C",
+          "text": "Rompe la unidad temática porque introduce un tema nuevo sobre medición escolar.",
+          "is_correct": false,
+          "feedback": "Incorrecta: la medición del trayecto es una consecuencia directa de la crítica formulada."
+        },
+        {
+          "letter": "D",
+          "text": "Contradice la tesis del párrafo al sugerir que solo los colegios rurales tienen problemas de transporte.",
+          "is_correct": false,
+          "feedback": "Incorrecta: la oración no culpa a los colegios rurales, sino que propone una acción para todos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una oración final debe prolongar la tesis sin contradecirla. Cuando la recomendación se apoya en la crítica previa, el párrafo gana fuerza en lugar de perderla.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-10-2026-W28-el-parrafo-y-la-unidad-textual-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W28-el-parrafo-y-la-unidad-textual-001-MASTERY-bundle-v11",
+      "statement": "Un párrafo de Quibdó dice: «La biblioteca digital es buena. La biblioteca digital es útil. Por eso la biblioteca digital es buena». ¿Cuál es el juicio más preciso?",
+      "context": "En Quibdó, el comité de grado 10 evalúa un párrafo entregado por un compañero.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El párrafo es correcto porque repite su tesis para asegurarla ante el lector.",
+          "is_correct": false,
+          "feedback": "Incorrecta: la repetición sin desarrollo no asegura la tesis, solo la vuelve monótona."
+        },
+        {
+          "letter": "B",
+          "text": "El párrafo es débil porque le falta un dato, aunque mantiene una unidad temática clara.",
+          "is_correct": false,
+          "feedback": "Incorrecta: aunque le falta apoyo, la unidad temática sí está presente en las tres oraciones."
+        },
+        {
+          "letter": "C",
+          "text": "El párrafo no alcanza la unidad textual, porque repite la misma idea sin desarrollarla ni aportar respaldo.",
+          "is_correct": true,
+          "feedback": "Es la opción correcta porque un párrafo debe hacer avanzar la idea, no limitarse a reencarnarla."
+        },
+        {
+          "letter": "D",
+          "text": "El párrafo falla solo por la ausencia de conectores entre sus oraciones.",
+          "is_correct": false,
+          "feedback": "Incorrecta: el defecto principal no es la falta de conectores sino la ausencia de desarrollo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar un párrafo propio exige distinguir entre estilo y contenido. Una tesis repetida sin argumentos sigue siendo un párrafo incompleto.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-10-2026-W28-el-parrafo-y-la-unidad-textual-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W28-el-parrafo-y-la-unidad-textual-001-MASTERY-bundle-v12",
+      "statement": "Un especial escolar de Riohacha necesita informar sobre el acceso a la tecnología en el municipio. ¿Cuál de los dos párrafos base encaja mejor y por qué?",
+      "context": "En Riohacha, el equipo de grado 10 decide qué párrafo ocupa la portada del especial escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Texto 1, porque anuncia desde la primera línea que la biblioteca abrió en marzo.",
+          "is_correct": false,
+          "feedback": "Incorrecta: el dato de apertura es necesario, pero no responde al problema de acceso que plantea el especial."
+        },
+        {
+          "letter": "B",
+          "text": "El Texto 2, porque presenta cifras y menciona al gobierno departamental en la misma oración.",
+          "is_correct": false,
+          "feedback": "Incorrecta: la mención institucional no sustituye a un argumento bien desarrollado."
+        },
+        {
+          "letter": "C",
+          "text": "El Texto 1, porque cierra con una propuesta concreta que permite pedir una respuesta inmediata.",
+          "is_correct": false,
+          "feedback": "Incorrecta: la propuesta es relevante, pero no describe las condiciones de acceso de los estudiantes."
+        },
+        {
+          "letter": "D",
+          "text": "El Texto 2, porque describe el problema, sus consecuencias y la crítica a la solución, que es lo que el especial requiere.",
+          "is_correct": true,
+          "feedback": "Es la opción correcta porque la adecuación al propósito comunicativo exige problema, efecto y evaluación."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Adecuar un texto a un propósito exige medir qué información necesita el lector. El párrafo útil es el que cubre diagnóstico, impacto y respuesta institucional.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LC-10-2026-W28-el-parrafo-y-la-unidad-textual-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}
