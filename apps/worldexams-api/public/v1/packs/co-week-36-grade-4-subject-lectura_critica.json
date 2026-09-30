@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-36-grade-4-subject-lectura_critica",
+    "generated_at": "2026-09-30T10:23:30.129Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-4-2026-W36-las-noticias-cortas-del-barrio-001-MASTERY-bundle-v1",
+      "statement": "Lee con atención la noticia del tablero.\n\n*\"La biblioteca de la calle 45 abre un taller de lectura para niños el sábado a las nueve de la mañana. Las inscripciones se hacen en la recepción, y el taller es gratuito.\"*\n\nSegún la noticia, ¿a qué hora empieza el taller de lectura el sábado?",
+      "context": "En la clase de cuarto de Cartagena, la profesora pega en el tablero una noticia corta del barrio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A las nueve de la noche, porque la noticia dice que el taller es por la mañana",
+          "is_correct": false,
+          "feedback": "Incorrecto. La noticia dice que el sábado a las nueve de la mañana, así que el horario es por la mañana y no por la noche."
+        },
+        {
+          "letter": "B",
+          "text": "A las nueve de la tarde, porque las inscripciones se hacen en la recepción",
+          "is_correct": false,
+          "feedback": "Incorrecto. La noticia solo menciona la recepción como lugar de inscripción, y no cambia la hora del taller."
+        },
+        {
+          "letter": "C",
+          "text": "A las nueve de la mañana, porque la noticia lo dice de forma directa",
+          "is_correct": true,
+          "feedback": "Correcto. La noticia anuncia el sábado a las nueve de la mañana, y eso responde la pregunta de manera literal."
+        },
+        {
+          "letter": "D",
+          "text": "El taller no tiene hora fija, porque las inscripciones se hacen en la recepción",
+          "is_correct": false,
+          "feedback": "Incorrecto. El horario está escrito en la noticia, y por eso el taller sí tiene una hora definida."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Leer una noticia de forma literal es responder solo con lo que el aviso escribe, sin agregar datos de la imaginación de uno. Reconocer la palabra que da la hora, como a las nueve de la mañana, ayuda a los niños a no inventar detalles que el texto nunca dice. Esa disciplina es la base para trabajar con cualquier texto informativo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Literal",
+      "expected_success": 0.92,
+      "bundle_id": "CO-LC-4-2026-W36-las-noticias-cortas-del-barrio-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W36-las-noticias-cortas-del-barrio-001-MASTERY-bundle-v2",
+      "statement": "Observa las dos frases que hablan de la misma actividad del parque.\n\n*\"Frase 1, dato de la noticia: \"El sábado hubo cincuenta personas en el parque\". Frase 2, comentario de un niño: \"Ese parque es el mejor de toda la ciudad\".\"*\n\n¿Qué diferencia de significado hay entre las dos frases?",
+      "context": "En un taller de lectura de cuarto de Ibagué, los estudiantes descubren la diferencia entre un dato y una opinión.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La frase 1 expresa un gusto y la frase 2 da un dato que alguien contó",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase 2 no es un dato, y la frase 1 es justamente la que trae un número del texto."
+        },
+        {
+          "letter": "B",
+          "text": "La frase 1 informa una cantidad que se puede comprobar, y la frase 2 expresa una opinión personal",
+          "is_correct": true,
+          "feedback": "Correcto. Una frase se apoya en un dato verificable y la otra en el criterio de quien la escribe, y eso cambia lo que se puede comprobar."
+        },
+        {
+          "letter": "C",
+          "text": "Las dos frases dicen lo mismo, porque las dos hablan del mismo parque",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las dos frases hablan del parque, y solo una de ellas trae un dato que se puede contar."
+        },
+        {
+          "letter": "D",
+          "text": "La frase 1 es menos confiable porque las noticias a veces exageran",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una noticia informa un dato concreto, y el dato es más confiable que un adjetivo como el mejor."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Entender qué significa cada tipo de frase en una noticia es el primer paso para valorarla con justicia. Un dato se puede contar y comparar con otra fuente, mientras que una opinión personal se puede tener o no, pero no se comprueba. Saber cuándo se está leyendo cada una evita confundir el criterio de uno con la información que el texto entrega.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-4-2026-W36-las-noticias-cortas-del-barrio-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W36-las-noticias-cortas-del-barrio-001-MASTERY-bundle-v3",
+      "statement": "Lee la noticia y los cuatro títulos que propuso un grupo.\n\n*\"Noticia: La empresa de buses del barrio cambió el paradero de la calle 20. A partir del lunes, los buses paran dos cuadras más arriba, cerca del parque. La empresa dice que el cambio es para mejorar el tránsito de los estudiantes.\"*\n\nLos títulos del grupo fueron estos.\n\n*\"Título 1: \"Lo que dice un vecino\". Título 2: \"Cambió el paradero de los buses en la calle 20\". Título 3: \"Los mejores buses del municipio\". Título 4: \"Nadie sabe por qué cambió el paradero\".\"*\n\n¿Cuál de los cuatro títulos anuncia mejor lo que cuenta la noticia?",
+      "context": "En el aula de cuarto de Armenia, un grupo debe elegir el mejor título para una noticia corta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El título 2, porque nombra el hecho principal y el lugar donde ocurrió",
+          "is_correct": true,
+          "feedback": "Correcto. El título 2 resume el hecho central de la noticia y dice dónde pasó, y por eso orienta bien al lector antes de leer."
+        },
+        {
+          "letter": "B",
+          "text": "El título 1, porque una noticia debe empezar contando lo que dice la gente",
+          "is_correct": false,
+          "feedback": "Incorrecto. El título 1 no anuncia el hecho, y la noticia no comienza con la voz de un vecino."
+        },
+        {
+          "letter": "C",
+          "text": "El título 3, porque un titular debe calificar a los buses de la ciudad",
+          "is_correct": false,
+          "feedback": "Incorrecto. El título 3 da una opinión sobre los buses y no informa del cambio del paradero."
+        },
+        {
+          "letter": "D",
+          "text": "El título 4, porque el titular debe dejar dudas en el lector",
+          "is_correct": false,
+          "feedback": "Incorrecto. El título 4 afirma que nadie sabe el motivo, y la noticia sí dice que la empresa lo explicó."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Elegir un buen titular es preguntar qué información puede esperar el lector después de leerlo. Un buen título anuncia el hecho principal y el lugar, y no expresa deseos ni juicios vacíos. Enseñar a los niños a construir y a revisar titulares les da una herramienta válida para cualquier texto informativo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.86,
+      "bundle_id": "CO-LC-4-2026-W36-las-noticias-cortas-del-barrio-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W36-las-noticias-cortas-del-barrio-001-MASTERY-bundle-v4",
+      "statement": "Lee con atención la frase que aparece en el párrafo central de la noticia.\n\n*\"Como los estudiantes llegan temprano, la empresa de buses cambió el paradero más arriba.\"*\n\nSegún esa frase, ¿qué relación hay entre el cambio del paradero y la razón que se da?",
+      "context": "En la clase de cuarto de Valledupar, los estudiantes revisan cómo está construida una frase de la noticia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La frase presenta dos hechos unidos por la palabra cuando, y por eso el lector no puede saber cuál es la razón",
+          "is_correct": false,
+          "feedback": "Incorrecto. La palabra que une las dos ideas es como, y esa palabra justamente sí presenta la causa del cambio."
+        },
+        {
+          "letter": "B",
+          "text": "La frase usa como para mostrar que el cambio del paradero se hizo porque los estudiantes llegan temprano",
+          "is_correct": true,
+          "feedback": "Correcto. El conector como introduce la causa dentro de la misma frase, y así se entiende el motivo detrás del cambio."
+        },
+        {
+          "letter": "C",
+          "text": "La frase describe el cambio con un nombre propio y la razón con un adjetivo",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay ningún nombre propio en la frase, y las dos partes son acciones unidas por un conector."
+        },
+        {
+          "letter": "D",
+          "text": "La frase separa el cambio y la razón en dos oraciones que no se entienden entre sí",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase es una sola oración, y el conector como conecta el cambio con su razón de manera clara."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Mirar cómo está construida una frase es notar qué palabras la unen y qué papel juega cada parte. Los conectores como porque, como o entonces muestran la relación entre un hecho y su razón, y entenderlos ayuda a los niños a escribir con claridad y a leer frases largas sin perderse.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.83,
+      "bundle_id": "CO-LC-4-2026-W36-las-noticias-cortas-del-barrio-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W36-las-noticias-cortas-del-barrio-001-MASTERY-bundle-v5",
+      "statement": "Lee el comienzo de la noticia que un colegio publicó sobre una jornada de limpieza en su cuadra.\n\n*\"Este sábado nos reunimos desde las siete de la mañana para recoger las basuras de la calle 12. Traimos guantes, bolsa y agua, y al terminar sembramos un árbol en el parque de la esquina.\"*\n\n¿Qué busca esa noticia con esa forma de contar?",
+      "context": "En un trabajo en grupo de cuarto de Santa Marta, los estudiantes analizan por qué se escribió una noticia del barrio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Avisar que el parque de la esquina va a cerrar, porque la jornada termina con un árbol",
+          "is_correct": false,
+          "feedback": "Incorrecto. La noticia no anuncia ningún cierre, y el árbol del parque se sembró para mejorar el lugar, no para acabarlo."
+        },
+        {
+          "letter": "B",
+          "text": "Enseñar a los niños a calcular cuánta plata se ahorra el barrio con la limpieza",
+          "is_correct": false,
+          "feedback": "Incorrecto. La noticia nunca habla de dinero ni de ahorros, y su propósito es convocar e informar."
+        },
+        {
+          "letter": "C",
+          "text": "Contar la cantidad de basuras que se recogieron en toda la ciudad",
+          "is_correct": false,
+          "feedback": "Incorrecto. La noticia trata solo de la calle 12 y de una jornada, y no da ninguna cantidad de basuras de la ciudad."
+        },
+        {
+          "letter": "D",
+          "text": "Informar y convocar a los vecinos, porque da el día, la hora y lo que deben llevar",
+          "is_correct": true,
+          "feedback": "Correcto. Al decir el sábado, las siete de la mañana y lo que hay que llevar, la noticia informa y llama a participar."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Analizar el propósito de una noticia es preguntar qué efecto quiere producir en quien lo lee, más allá de los datos que entrega. Cuando un texto da un día, una hora y una lista de lo que hay que llevar, está informando y convocando a la vez. Reconocer esa intención enseña a los niños a leer también las noticias de su propio barrio.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-4-2026-W36-las-noticias-cortas-del-barrio-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W36-las-noticias-cortas-del-barrio-001-MASTERY-bundle-v6",
+      "statement": "Lee los dos textos que cuentan la jornada de pintura del mural del colegio.\n\n*\"Texto 1: \"El lunes definimos el diseño. El martes pintamos el fondo y el miércoles pusimos los colores. El jueves los niños firmamos el mural y la pared quedó lista\". Texto 2: \"Un día empezamos a pensar el mural. Otro día lo pintamos. Al final todo quedó bonito y los niños se fueron contentes\".*\n\n¿Qué diferencia en la organización del texto se observa entre los dos textos?",
+      "context": "En el aula de cuarto de Pasto, un grupo compara dos versiones de cómo se contó la misma jornada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El texto 2 tiene más fechas y por eso cuenta mejor la jornada",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto 2 no incluye ninguna fecha, y su ventaja no está en los datos del calendario."
+        },
+        {
+          "letter": "B",
+          "text": "El texto 1 está incompleto porque no menciona los colores que se pintaron",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un texto informativo no necesita nombrar los colores, y el texto 1 sí completa la cuenta que se propone hacer."
+        },
+        {
+          "letter": "C",
+          "text": "Los dos textos cuentan la jornada con el mismo orden y solo cambian las palabras",
+          "is_correct": false,
+          "feedback": "Incorrecto. El primero ordena los días de la semana, y el segundo solo presenta escenas sueltas sin secuencia."
+        },
+        {
+          "letter": "D",
+          "text": "El texto 1 avanza en orden con los días nombrados, y el texto 2 presenta momentos sueltos sin marcar el tiempo",
+          "is_correct": true,
+          "feedback": "Correcto. El texto 1 nombra el lunes, el martes, el miércoles y el jueves, y el texto 2 solo dice un día y otro día."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Analizar la forma de un texto es observar si el autor ordena los hechos o solo los presenta como escenas sueltas. Los conectores de tiempo, como el lunes o el martes, muestran una sucesión y ayudan a entender cómo avanzó la jornada. Notar esa diferencia enseña a los niños a escribir y también a leer relatos con un hilo claro.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-4-2026-W36-las-noticias-cortas-del-barrio-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W36-las-noticias-cortas-del-barrio-001-MASTERY-bundle-v7",
+      "statement": "Un compañero de tu grupo afirma lo siguiente.\n\n*\"La noticia de la plaza dice que vendieron las mesas del parque, y con eso ya sabemos que el parque quedó vacío.\"*\n\n¿Cuál es la respuesta más sólida que puede darle el grupo a esa afirmación?",
+      "context": "En la reunión de aula de un colegio en Arauca, un compañero de tu grupo defiende lo que dice una noticia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La afirmación es correcta, porque las noticias siempre cuentan la verdad completa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una noticia informa lo que le pasó a quien la escribió, y una sola fuente no alcanza para saber todo lo que ocurrió."
+        },
+        {
+          "letter": "B",
+          "text": "La afirmación es incorrecta, porque en las noticias nunca se venden cosas",
+          "is_correct": false,
+          "feedback": "Incorrecto. En las noticias sí se pueden vender o cambiar elementos de un parque, y eso no hace la afirmación verdadera ni falsa."
+        },
+        {
+          "letter": "C",
+          "text": "La afirmación es incorrecta, porque una sola fuente no basta para afirmar que todo el parque quedó vacío",
+          "is_correct": true,
+          "feedback": "Correcto. El grupo necesita comparar la noticia con otras fuentes antes de concluir algo tan grande como que el parque quedó vacío."
+        },
+        {
+          "letter": "D",
+          "text": "La afirmación es correcta, porque el vendedor fue la última persona que vio el parque lleno",
+          "is_correct": false,
+          "feedback": "Incorrecto. La noticia no dice que el vendedor fuera la última persona que lo vio, y una persona no puede representar todo el parque."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar una noticia es ponerla a prueba y no aceptar su autoridad solo porque la escribió alguien del barrio. Una fuente es un comienzo, y se vuelve confiable cuando se compara con otra fuente o con otro testimonio. Esta costumbre de contrastar es la base de cualquier trabajo serio con información.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LC-4-2026-W36-las-noticias-cortas-del-barrio-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W36-las-noticias-cortas-del-barrio-001-MASTERY-bundle-v8",
+      "statement": "Los cuatro grupos redactaron una versión de la noticia sobre el nuevo parque del barrio.\n\n*\"Grupo 1: \"El parque del barrio es muy bonito y todos lo!\". Grupo 2: \"Según el boletín de la junta del barrio, el parque se inauguró el martes pasado y tiene una pista de fútbol y cuatro equipos para los niños\". Grupo 3: \"Un vecino cuenta que el parque es el mejor de Bogotá, y no hay nadie que diga lo contrario\". Grupo 4: \"El parque quedó listo y muy bonito, pero no se puede entrar porque todo está cerrado\".*\n\n¿Cuál de las cuatro versiones es la más sólida como noticia del barrio?",
+      "context": "Como tarea final, los grupos de cuarto de Bogotá deben escribir la noticia de un hecho de su barrio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La del grupo 1, porque escribe sobre el parque del barrio con palabras sencillas",
+          "is_correct": false,
+          "feedback": "Incorrecto. La versión del grupo 1 no trae ningún dato verificable del hecho, y con palabras sencillas no se construye una noticia."
+        },
+        {
+          "letter": "B",
+          "text": "La del grupo 3, porque un vecino del barrio tiene más autoridad que los demás",
+          "is_correct": false,
+          "feedback": "Incorrecto. La versión del grupo 3 solo da un adjetivo, y estar cerca del lugar no reemplaza los datos ni una fuente comprobable."
+        },
+        {
+          "letter": "C",
+          "text": "La del grupo 2, porque señala la fuente, da un día y describe lo que tiene el parque",
+          "is_correct": true,
+          "feedback": "Correcto. Esa versión menciona un boletín, la fecha de inauguración y los elementos del parque, y con eso el lector puede buscar la evidencia."
+        },
+        {
+          "letter": "D",
+          "text": "La del grupo 4, porque avisa que el parque está cerrado para que la gente no entre",
+          "is_correct": false,
+          "feedback": "Incorrecto. La versión se contradice al decir que quedó listo, y no da ninguna fuente ni ningún dato del cierre."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Comparar cuatro versiones de un mismo hecho enseña qué tiene que tener una noticia para ser confiable. Nombra la fuente, da la fecha y describe los hechos con palabras comprobables. Practicar estos criterios les permite a los niños escribir la noticia de su barrio con honestidad y sin inventar datos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-4-2026-W36-las-noticias-cortas-del-barrio-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    }
+  ]
+}
