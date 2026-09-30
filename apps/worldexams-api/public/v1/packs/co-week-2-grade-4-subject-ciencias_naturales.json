@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-2-grade-4-subject-ciencias_naturales",
+    "generated_at": "2026-09-30T21:18:26.968Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CIE-4-2026-W02-la-materia-y-sus-cambios-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál de estos hechos corresponde a la materia en estado sólido?",
+      "context": "En una nevera de una casa en Cali, una niña abre el congelador y ve un bloque de hielo donde ayer guardó agua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El vapor que sale de la tetera cuando hierve el agua",
+          "is_correct": false,
+          "feedback": "Incorrecto. El vapor es agua en estado gaseoso, porque sus partículas están muy separadas y se mueven libremente."
+        },
+        {
+          "letter": "B",
+          "text": "El bloque de hielo que quedó en el congelador",
+          "is_correct": true,
+          "feedback": "Correcto. El hielo es agua en estado sólido, con partículas muy juntas y ordenadas, que conservan una forma definida."
+        },
+        {
+          "letter": "C",
+          "text": "El agua que corre por el río mientras llueve",
+          "is_correct": false,
+          "feedback": "Incorrecto. El agua del río es un líquido, porque sus partículas están juntas pero pueden moverse unas sobre otras."
+        },
+        {
+          "letter": "D",
+          "text": "El aire que entra por la ventana abierta",
+          "is_correct": false,
+          "feedback": "Incorrecto. El aire es un conjunto de gases, con partículas muy separadas que ocupan todo el espacio disponible."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La materia es todo lo que tiene masa y ocupa un lugar, y se puede encontrar en tres estados principales. En el estado sólido, como el hielo, las partículas están muy unidas y ordenadas, por eso el objeto tiene forma y volumen fijos. En el estado líquido, como el agua, las partículas siguen unidas pero se deslizan unas sobre otras. En el estado gaseoso, como el vapor o el aire, las partículas están separadas y se mueven en todas las direcciones.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CIE-4-2026-W02-la-materia-y-sus-cambios-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W02-la-materia-y-sus-cambios-001-MASTERY-bundle-v2",
+      "statement": "Después de un tiempo, aparecen burbujas y sale vapor de la olla. ¿Qué cambio de estado está ocurrriendo y por qué?",
+      "context": "En una vereda del municipio de Tibú (Norte de Santander), una mujer pone una olla con agua al fuego y espera un rato.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El agua pasa de sólido a líquido, porque el fuego la enfría",
+          "is_correct": false,
+          "feedback": "Incorrecto. El fuego calienta, no enfría, y el agua de la olla estaba en estado líquido desde el principio."
+        },
+        {
+          "letter": "B",
+          "text": "El agua pasa de líquido a gas, porque el vapor es más pesado que el agua",
+          "is_correct": false,
+          "feedback": "Incorrecto. El estado final sí es gaseoso, pero la razón es incorrecta: el vapor es agua en estado gaseoso y se forma porque el agua se calienta."
+        },
+        {
+          "letter": "C",
+          "text": "El agua desaparece, porque la materia se puede perder con el calor",
+          "is_correct": false,
+          "feedback": "Incorrecto. La materia no desaparece; se transforma en vapor, que sigue siendo agua y por eso ocupa más lugar."
+        },
+        {
+          "letter": "D",
+          "text": "El agua pasa de líquido a gas porque el calor separó sus partículas",
+          "is_correct": true,
+          "feedback": "Correcto. Al aumentar la temperatura, las partículas del agua se mueven más rápido, se separan y el líquido se convierte en gas."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Los cambios de estado ocurren cuando la temperatura de la materia sube o baja. Al calentar el agua, sus partículas reciben más energía, se mueven con mayor rapidez, se alejan unas de otras y el líquido se convierte en gas; ese gas es el vapor que sale de la olla. Si ese vapor se enfría, vuelve a formar gotas de agua, y si se enfría más, se convierte en hielo. La materia se conserva: el agua del río, la gota de la olla y el vapor son la misma sustancia en distintos estados.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CIE-4-2026-W02-la-materia-y-sus-cambios-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W02-la-materia-y-sus-cambios-001-MASTERY-bundle-v3",
+      "statement": "Cuando vuelve en la tarde, encuentra que el agua del vaso está convertida en un bloque sólido. ¿Qué ocurrió con esa agua?",
+      "context": "En una casa de Villavicencio, Carolina deja un vaso con agua en la nevera y sale a la escuela.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pasó de líquido a sólido, porque al enfriarse sus partículas se ordenaron y quedaron muy juntas",
+          "is_correct": true,
+          "feedback": "Correcto. La baja de temperatura reduce el movimiento de las partículas, que se ordenan y quedan juntas formando el hielo."
+        },
+        {
+          "letter": "B",
+          "text": "Pasó de sólido a líquido, porque el agua se calentó dentro de la nevera",
+          "is_correct": false,
+          "feedback": "Incorrecto. La nevera no calienta, enfría; por eso el agua no puede pasar de sólido a líquido."
+        },
+        {
+          "letter": "C",
+          "text": "Se convirtió en gas, porque el agua se evapora con el frío",
+          "is_correct": false,
+          "feedback": "Incorrecto. El agua se evapora con el calor, no con el frío; en la nevera se forma hielo, no vapor."
+        },
+        {
+          "letter": "D",
+          "text": "Siguió siendo líquido, pero se veía más oscura por falta de luz",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enunciado describe un bloque sólido, y un niño no vería el agua por falta de luz."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar el concepto de cambio de estado permite describir lo que pasa en la nevera. Como la nevera baja la temperatura, el agua pierde energía, sus partículas se mueven más lento y se acomodan unas junto a otras en una estructura ordenada. En esa situación la materia es sólida. Si la temperatura sube otra vez, el hielo vuelve a líquido y después a gas, sin dejar de ser agua en ningún momento.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CIE-4-2026-W02-la-materia-y-sus-cambios-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W02-la-materia-y-sus-cambios-001-MASTERY-bundle-v4",
+      "statement": "¿Qué tipo de mezcla obtiene el cocinero y qué debería observar?",
+      "context": "En la cocina de un restaurante en Barranquilla, el cocinero prepara un recipiente transparente con aceite y agua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una mezcla homogénea, porque se ve igual en toda su superficie",
+          "is_correct": false,
+          "feedback": "Incorrecto. El aceite y el agua no se combinan: se forman dos capas bien diferenciadas, una arriba y otra abajo."
+        },
+        {
+          "letter": "B",
+          "text": "Una sustancia pura, porque al combinarse se forma un compuesto nuevo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al mezclarlos no se forma ninguna sustancia nueva, solo se juntan dos sustancias que ya existían."
+        },
+        {
+          "letter": "C",
+          "text": "Una mezcla heterogénea, porque el aceite y el agua no se mezclan y se ven por separado",
+          "is_correct": true,
+          "feedback": "Correcto. Al no fundirse entre sí, cada sustancia conserva su aspecto, por eso se distinguen dos capas claramente."
+        },
+        {
+          "letter": "D",
+          "text": "Un gas, porque al agitar el recipiente los dos líquidos se vuelven invisibles",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque se agite, el aceite y el agua siguen siendo líquidos y se separan de nuevo al dejar el recipiente quieto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las mezclas se pueden clasificar según sus componentes se mezclen de manera uniforme o no. En una mezcla homogénea, como el agua con sal disuelta, todas las partes se ven iguales. En una mezcla heterogénea, como el aceite con agua, los componentes no se disuelven y se distinguen a simple vista, separados por una frontera clara. Reconocer el tipo de mezcla ayuda a predecir qué se verá al dejar el recipiente en reposo.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.72,
+      "bundle_id": "CO-CIE-4-2026-W02-la-materia-y-sus-cambios-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W02-la-materia-y-sus-cambios-001-MASTERY-bundle-v5",
+      "statement": "Un compañero afirma que derritir mantequilla es un cambio químico porque la mantequilla cambia de aspecto. ¿Cuál es el análisis correcto?",
+      "context": "En una cocina en Bucaramanga, la abuela derrite mantequilla en una sartén caliente mientras prepara el desayuno.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un cambio químico, porque al calentarse la mantequilla se vuelve de otro color",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enunciado inventa un cambio de color; el enunciado solo describe que la mantequilla pasa de sólido a líquido."
+        },
+        {
+          "letter": "B",
+          "text": "Es un cambio físico, porque la mantequilla sigue siendo mantequilla y solo cambió de estado",
+          "is_correct": true,
+          "feedback": "Correcto. No se forma ninguna sustancia nueva; al enfriar, la mantequilla vuelve a quedar sólida, y eso confirma el cambio físico."
+        },
+        {
+          "letter": "C",
+          "text": "Es un cambio químico, porque el calor destruye las moléculas de la mantequilla",
+          "is_correct": false,
+          "feedback": "Incorrecto. En un cambio de estado no se destruyen las moléculas; simplemente se separan un poco más unas de otras."
+        },
+        {
+          "letter": "D",
+          "text": "Es un cambio físico, porque todos los cambios que ocurren con calor son físicos",
+          "is_correct": false,
+          "feedback": "Incorrecto. No todos los cambios con calor son físicos; cocer un huevo o tostar el pan son cambios químicos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La diferencia entre un cambio físico y uno químico está en las sustancias. En un cambio físico la materia sigue siendo la misma y solo cambia su forma, su estado o su tamaño. En un cambio químico se forman sustancias nuevas, como cuando el huevo se cocina o el pan se tuesta. Para distinguir entre los dos casos una buena prueba es intentar recuperar la sustancia original: si solo con enfriar basta, el cambio fue físico.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CIE-4-2026-W02-la-materia-y-sus-cambios-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W02-la-materia-y-sus-cambios-001-MASTERY-bundle-v6",
+      "statement": "La mamá dice que ese huevo ya no puede volver a su estado anterior. ¿Qué explica correctamente esa frase?",
+      "context": "En una casa de Sincelejo, una mamá cocina un huevo y nota que la clara se puso opaca y se volvió dura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que se rompió por el calor y por eso se derramó",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enunciado no menciona derrame; el cambio descrito es el de la clara y la yema al cocerse."
+        },
+        {
+          "letter": "B",
+          "text": "Que se congeló, porque el agua del huevo bajó de temperatura",
+          "is_correct": false,
+          "feedback": "Incorrecto. El huevo se calentó, no se enfrió; no hay ningún proceso de congelación en la situación."
+        },
+        {
+          "letter": "C",
+          "text": "Que el huevo era un sólido y por eso no puede cambiar",
+          "is_correct": false,
+          "feedback": "Incorrecto. El huevo sí cambió de estado y de aspecto, así que la idea de que los sólidos no cambian es falsa."
+        },
+        {
+          "letter": "D",
+          "text": "Que se formaron sustancias nuevas, y esas ya no se pueden recuperar solo enfriando",
+          "is_correct": true,
+          "feedback": "Correcto. Al cocinarse, las proteínas del huevo se transforman en otras sustancias, por eso el cambio no se puede deshacer."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Un cambio químico se reconoce porque la sustancia inicial ya no se puede recuperar de la misma manera. En el huevo, el calor transforma las proteínas de la clara y la yema en nuevas sustancias, por eso el huevo cocido no vuelve a ser huevo crudo aunque se enfríe. Esa irreversibilidad práctica distingue un cambio químico de uno físico, en el que basta con enfriar o calentar para recuperar la sustancia original.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CIE-4-2026-W02-la-materia-y-sus-cambios-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W02-la-materia-y-sus-cambios-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál de los siguientes razonamientos refuta mejor esa afirmación?",
+      "context": "En una exposición de ciencias en un colegio de Quibdó, un visitante sostiene frente al público que los gases tienen sus partículas muy juntas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque si las partículas estuvieran muy juntas y ordenadas, la materia sería sólida o líquida; en un gas están muy separadas y se mueven libremente",
+          "is_correct": true,
+          "feedback": "Correcto. La afirmación contradice la relación entre la cercanía de las partículas y el estado de la materia, y el razonamiento la explica con la causa."
+        },
+        {
+          "letter": "B",
+          "text": "Porque los gases no tienen partículas y por eso no ocupan lugar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los gases sí están formados por partículas; lo que cambia es que están muy separadas y en movimiento."
+        },
+        {
+          "letter": "C",
+          "text": "Porque los gases son invisibles y las partículas solo se ven en los sólidos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que un gas sea invisible no significa que no tenga partículas; ese razonamiento confunde visibilidad con existencia."
+        },
+        {
+          "letter": "D",
+          "text": "Porque los gases ocupan todo el espacio del recipiente, entonces sus partículas están juntas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un gas ocupa todo el espacio precisamente porque sus partículas están separadas, no juntas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Refutar una afirmación requiere mostrar que sus consecuencias no se pueden sostener. La cercanía de las partículas es lo que distingue a los estados de la materia: juntas y ordenadas, sólida; juntas pero móviles, líquida; separadas y en movimiento, gaseosa. Reconocer esta relación permite detectar el error del expositor y, al mismo tiempo, usar el mismo conocimiento para comprobar si la afirmación era falsa.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CIE-4-2026-W02-la-materia-y-sus-cambios-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W02-la-materia-y-sus-cambios-001-MASTERY-bundle-v8",
+      "statement": "Un compañero propone que basta con mirar si el color cambió para distinguir un cambio físico de uno químico. ¿Cuál opción es la más confiable y por qué?",
+      "context": "En un laboratorio escolar de Bogotá, un equipo de estudiantes debe investigar qué cambios son físicos y cuáles son químicos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Medir el peso antes y después, porque todo cambio altera el peso",
+          "is_correct": false,
+          "feedback": "Incorrecto. El peso casi nunca cambia; de hecho, en una reacción química puede haber pérdida de gas y el peso medido disminuye, lo que confunde el criterio."
+        },
+        {
+          "letter": "B",
+          "text": "Esperar un minuto y ver si el cambio se nota más, porque los cambios lentos son químicos",
+          "is_correct": false,
+          "feedback": "Incorrecto. La rapidez no distingue el tipo de cambio: el hielo tarda en derretirse y el hierro tarda en oxidarse."
+        },
+        {
+          "letter": "C",
+          "text": "Intentar recuperar la sustancia original solo con calor o enfriamiento, porque los cambios físicos sí se pueden deshacer",
+          "is_correct": true,
+          "feedback": "Correcto. La recuperabilidad es una prueba directa: si la sustancia vuelve a su estado inicial, el cambio fue físico."
+        },
+        {
+          "letter": "D",
+          "text": "Contar cuántas sustancias hay antes y después, porque los cambios físicos crean sustancias nuevas",
+          "is_correct": false,
+          "feedback": "Incorrecto. La afirmación es contradictoria: en un cambio físico el número de sustancias no aumenta, solo cambian sus características."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Elegir un criterio confiable exige que la prueba tenga relación directa con lo que se quiere saber. Como en un cambio físico la sustancia conserva su identidad, un buen criterio es intentar volver a obtenerla mediante calor o enfriamiento. Si se recupera, fue un cambio físico; si aparecen sustancias nuevas que no se pueden recuperar así, fue un cambio químico. Los demás criterios se apoyan en señales que pueden ser iguales en los dos tipos de cambio.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CIE-4-2026-W02-la-materia-y-sus-cambios-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    }
+  ]
+}

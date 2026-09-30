@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-1-grade-4-subject-ciencias_naturales",
+    "generated_at": "2026-09-30T21:18:26.963Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CIE-4-2026-W01-partes-de-la-planta-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la parte de la planta que absorbe el agua y los minerales que se encuentran en el suelo?",
+      "context": "En la finca del abuelo, en el municipio de Arma (Caldas), un niño saca de la tierra una zanahoria y le pregunta por qué la planta crecía bajo tierra.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La hoja",
+          "is_correct": false,
+          "feedback": "Incorrecto. La hoja usa la luz del sol para fabricar el alimento de la planta, no absorbe agua de la tierra."
+        },
+        {
+          "letter": "B",
+          "text": "La raíz",
+          "is_correct": true,
+          "feedback": "Correcto. La raíz está enterrada en el suelo y allí absorbe el agua y las sales minerales que la planta necesita para vivir."
+        },
+        {
+          "letter": "C",
+          "text": "El tallo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tallo sostiene las hojas y lleva el agua desde la raíz hasta el resto de la planta."
+        },
+        {
+          "letter": "D",
+          "text": "La flor",
+          "is_correct": false,
+          "feedback": "Incorrecto. La flor sirve para formar los frutos y las semillas, no toma agua de la tierra."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La planta tiene partes que cumplen funciones diferentes. La raíz se encuentra dentro del suelo y absorbe el agua y los minerales; además, fija la planta para que no se caiga. El tallo sostiene las hojas y transporta el agua desde la raíz. Las hojas realizan la fotosíntesis, proceso en el que la planta usa la luz del sol, el agua y el gas carbónico para fabricar su propio alimento. Conocer la función de cada parte ayuda a explicar por qué una planta necesita tierra, agua, luz y aire para crecer.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CIE-4-2026-W01-partes-de-la-planta-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W01-partes-de-la-planta-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la razón principal por la que las hojas son tan importantes para la vida de la planta?",
+      "context": "En una casa de Medellín, una abuela coloca una planta de cola de zorro en el marco de la ventana y la observa todos los días.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque son las que sujetan la planta al suelo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa función la cumplen las raíces, que se entierran en el suelo y sostienen la planta."
+        },
+        {
+          "letter": "B",
+          "text": "Porque guardan el agua para las temporadas de lluvia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las hojas no almacenan agua para las lluvias; el agua la absorbe la raíz y la sube por el tallo."
+        },
+        {
+          "letter": "C",
+          "text": "Porque producen las semillas de la planta",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las semillas se forman en la flor, después de la polinización."
+        },
+        {
+          "letter": "D",
+          "text": "Porque realizan la fotosíntesis y fabrican el alimento de la planta",
+          "is_correct": true,
+          "feedback": "Correcto. Las hojas captan la luz del sol y, con el agua que llega desde la raíz, producen el alimento que sostiene a la planta."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Las hojas son la parte de la planta donde se realiza la fotosíntesis. En este proceso, las hojas usan la luz del sol, el agua que llega desde la raíz y el gas carbónico del aire para fabricar su propio alimento y liberar oxígeno. Si una planta pierde la mayoría de sus hojas, deja de producir suficiente alimento, se debilita y puede morir. Por eso, el follaje verde es un indicador de que una planta está sana.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CIE-4-2026-W01-partes-de-la-planta-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W01-partes-de-la-planta-001-MASTERY-bundle-v3",
+      "statement": "La profesora pide a sus estudiantes que investiguen la causa más probable de esa situación. ¿Qué deberían revisar primero y por qué?",
+      "context": "En un jardín escolar de Bogotá, la profesora de ciencias muestra una albahaca cuyas hojas están amarillas y se están secando.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La tierra y las raíces de la planta, para comprobar si le falta agua o nutrientes",
+          "is_correct": true,
+          "feedback": "Correcto. Las hojas amarillas suelen indicar que la raíz no está recibiendo suficiente agua o minerales del suelo, por eso conviene revisar primero la tierra y las raíces."
+        },
+        {
+          "letter": "B",
+          "text": "El color de las flores, porque ese color se traspasa a las hojas",
+          "is_correct": false,
+          "feedback": "Incorrecto. La albahaca de este caso todavía no tiene flores, y el color de una flor no determina el estado de las hojas."
+        },
+        {
+          "letter": "C",
+          "text": "La profundidad de la maceta, porque las hojas se secan por la profundidad",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tamaño de la maceta puede influir, pero lo que primero explica las hojas amarillas es la falta de agua y de minerales en la raíz."
+        },
+        {
+          "letter": "D",
+          "text": "La cantidad de insectos que hay alrededor de la maceta",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los insectos pueden dañar la planta, pero el enunciado no menciona mordidas ni agujeros, solo color amarillento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una hoja amarilla indica que la planta no está funcionando bien. Como las hojas dependen del agua y de los minerales que absorbe la raíz, un suelo seco, pobre o muy apelmazado impide que la raíz haga su trabajo. El razonamiento científico empieza por observar el síntoma, enumerar las causas posibles y después buscar pruebas: tocar la tierra, revisar si está húmeda, mirar las raíces. Así se pasa de una suposición a una explicación apoyada en evidencias.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CIE-4-2026-W01-partes-de-la-planta-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W01-partes-de-la-planta-001-MASTERY-bundle-v4",
+      "statement": "El grupo coloca una ramita con hojas en un vaso con agua de color y, al día siguiente, observa que el tallo se tiñe. ¿Qué estaban buscando demostrar con ese experimento?",
+      "context": "En el salón de un colegio de Pereira, un grupo de estudiantes prepara un experimento para la exposición de ciencias.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que las hojas producen oxígeno durante la noche",
+          "is_correct": false,
+          "feedback": "Incorrecto. El experimento no mide la producción de oxígeno ni se hizo de noche, por eso esa opción no corresponde."
+        },
+        {
+          "letter": "B",
+          "text": "Que la raíz absorbe la luz del sol a través del tallo",
+          "is_correct": false,
+          "feedback": "Incorrecto. La raíz está en la tierra y no absorbe luz; la luz del sol la reciben principalmente las hojas."
+        },
+        {
+          "letter": "C",
+          "text": "Que el tallo transporta el agua y los minerales desde la raíz hasta las hojas",
+          "is_correct": true,
+          "feedback": "Correcto. Al subir el agua coloreada por el tallo hasta las hojas, el grupo demuestra que el tallo funciona como una vía de transporte."
+        },
+        {
+          "letter": "D",
+          "text": "Que la flor convierte el agua en frutos",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ramita no tenía flores, y el agua no se convierte en frutos, que se forman a partir de la flor."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un buen experimento científico tiene un objetivo claro, un procedimiento ordenado y una prueba. Al usar agua coloreada, el grupo hace visible el recorrido del agua: esta sube desde la raíz, recorre el tallo y llega a las hojas. Como el agua que llega a las hojas trae los minerales absorbidos en la tierra, el tallo se convierte en el camino de conexión entre la raíz y el resto de la planta.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.72,
+      "bundle_id": "CO-CIE-4-2026-W01-partes-de-la-planta-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W01-partes-de-la-planta-001-MASTERY-bundle-v5",
+      "statement": "Después de unas semanas, las hojas de la planta se ven pálidas, amarillas y se han caído casi todas. ¿Cuál es la explicación más completa de lo que ocurrió?",
+      "context": "En un apartamento de Bogotá, una familia guarda una planta de interior en un cuarto cerrado donde casi nunca entra luz.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La planta recibió demasiada agua y por eso se ahogó",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enunciado no menciona exceso de agua; el problema descrito es la falta de luz en un cuarto cerrado."
+        },
+        {
+          "letter": "B",
+          "text": "Sin luz, las hojas no pudieron hacer fotosíntesis y la planta se quedó sin alimento",
+          "is_correct": true,
+          "feedback": "Correcto. La fotosíntesis necesita luz del sol; en la oscuridad las hojas no fabrican alimento, se debilitan, se amarillan y finalmente caen."
+        },
+        {
+          "letter": "C",
+          "text": "La planta envejeció y murió porque todas las plantas tienen fecha de vencimiento",
+          "is_correct": false,
+          "feedback": "Incorrecto. La planta es joven y el cambio fue rápido; la edad no explica la pérdida de sus hojas."
+        },
+        {
+          "letter": "D",
+          "text": "Las hojas se cayeron porque la raíz dejó de absorber agua del suelo",
+          "is_correct": false,
+          "feedback": "Incorrecto. La causa que explica mejor el fenómeno es la falta de luz para las hojas, no un problema del agua."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Explicar un fenómeno significa conectar la causa con una secuencia de efectos. La luz del sol es el insumo que permite que las hojas fabriquen su alimento. Cuando esa luz falta, las hojas, que son verdes, dejan de fabricar alimento, se vuelven pálidas y amarillas y finalmente la planta suelta el follaje para conservar la energía que le queda. Un razonamiento completo identifica el insumo que falta y luego explica los cambios observados uno por uno.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CIE-4-2026-W01-partes-de-la-planta-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W01-partes-de-la-planta-001-MASTERY-bundle-v6",
+      "statement": "¿Qué diferencia entre el árbol y el pasto explica mejor que el árbol sea mucho más alto?",
+      "context": "En una finca cerca de Ibagué, un productor compara un árbol de eucalipto de varios metros con el pasto que crece a sus pies.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el árbol recibe más luz porque es más alto",
+          "is_correct": false,
+          "feedback": "Incorrecto. La diferencia de tamaño es el resultado, no la causa; además, el pasto también recibe luz durante el día."
+        },
+        {
+          "letter": "B",
+          "text": "Que el árbol tiene flores y por eso crece más",
+          "is_correct": false,
+          "feedback": "Incorrecto. La flor sirve para formar frutos y semillas, no determina la altura de la planta."
+        },
+        {
+          "letter": "C",
+          "text": "Que el pasto no puede absorber agua de la tierra",
+          "is_correct": false,
+          "feedback": "Incorrecto. El pasto sí tiene raíces y absorbe agua, solo que son más cortas y superficiales."
+        },
+        {
+          "letter": "D",
+          "text": "Que el árbol tiene raíces más profundas y extensas que le dan más agua y minerales",
+          "is_correct": true,
+          "feedback": "Correcto. Un sistema de raíces profundo y amplio alcanza más agua y sales minerales, lo que permite un crecimiento mucho mayor."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Comparar dos seres vivos permite aislar las diferencias que explican sus características. El eucalipto desarrolla un tronco grueso y un sistema de raíces que puede llegar a gran profundidad, por eso alcanza varios metros de altura. El pasto tiene raíces cortas que solo exploran la capa superior del suelo. La diferencia en la disponibilidad de agua y minerales en la zona donde llegan las raíces explica la diferencia de tamaño, y también por qué un árbol resiste mejor las sequías.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CIE-4-2026-W01-partes-de-la-planta-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W01-partes-de-la-planta-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál de las siguientes afirmaciones refuta mejor esa afirmación y explica por qué?",
+      "context": "En una finca cafetera del eje cafetero, un hijo le dice a su madre que con solo regar bien basta para que las plantas den café.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La planta necesita flores, porque solo después de la polinización se forman el fruto y las semillas",
+          "is_correct": true,
+          "feedback": "Correcto. Sin flor no hay fruto ni semilla; por eso regar garantiza el agua, pero no basta para que la planta produzca café."
+        },
+        {
+          "letter": "B",
+          "text": "La planta necesita más tierra, porque la tierra produce las flores por sí sola",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tierra da soporte y minerales, pero las flores son estructuras de la propia planta, no un producto de la tierra."
+        },
+        {
+          "letter": "C",
+          "text": "La planta necesita luz todo el día, porque la luz produce directamente los frutos",
+          "is_correct": false,
+          "feedback": "Incorrecto. La luz permite la fotosíntesis, que da alimento, pero el fruto se forma a partir de la flor después de la polinización."
+        },
+        {
+          "letter": "D",
+          "text": "La planta necesita agua del río, porque el agua de la lluvia no alimenta a la planta",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enunciado inventa un problema de agua que no se menciona; el agua es necesaria y la absorbe la raíz."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar una afirmación exige buscar la evidencia que la contradice. En el caso de la planta de café, el agua es una condición necesaria, pero no suficiente. La producción de frutos depende de que la planta tenga flores y de que estas sean polinizadas; solo después de ese proceso se forma el fruto, que en el café es la semilla que consumimos. Reconocer las condiciones necesarias frente a las solamente favorables permite manejar razonamientos más precisos sobre los seres vivos.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CIE-4-2026-W01-partes-de-la-planta-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W01-partes-de-la-planta-001-MASTERY-bundle-v8",
+      "statement": "Un compañero propone cortar una hoja de la planta para comprobar si la planta sigue viva. ¿Cuál de estos planes es más adecuado para probar su hipótesis?",
+      "context": "En una clase de ciencias de un colegio de Manizales, un equipo de estudiantes prepara una maqueta para explicar cómo se transporta el agua en las plantas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dejar la planta a oscuras durante un mes y anotar el color de las hojas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese plan sirve para estudiar la fotosíntesis, no para demostrar cómo se transporta el agua."
+        },
+        {
+          "letter": "B",
+          "text": "Medir el largo de la raíz cada día sin cortar nada",
+          "is_correct": false,
+          "feedback": "Incorrecto. Medir la raíz da información sobre el crecimiento, pero no demuestra el recorrido del agua por el tallo."
+        },
+        {
+          "letter": "C",
+          "text": "Poner una ramita en agua con colorante y observar por dónde sube el líquido",
+          "is_correct": true,
+          "feedback": "Correcto. El agua coloreada hace visible el recorrido desde el tallo hacia las hojas y respalda la hipótesis con una prueba directa."
+        },
+        {
+          "letter": "D",
+          "text": "Regar la tierra y contar cuántas hojas nuevas aparecen",
+          "is_correct": false,
+          "feedback": "Incorrecto. Regar la tierra demuestra que el agua llega a la raíz, pero no permite observar el transporte interno de esa agua."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Elegir un buen plan de trabajo es parte del razonamiento científico. Una hipótesis sobre el transporte del agua necesita una prueba que haga visible ese transporte. El agua coloreada actúa como una marca que se puede seguir a simple vista, de modo que el grupo puede ver por dónde sube el líquido y comparar esa observación con su predicción. Los otros planes son válidos en sí mismos, pero responden a otras preguntas distintas de la que se quiere investigar.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CIE-4-2026-W01-partes-de-la-planta-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    }
+  ]
+}
