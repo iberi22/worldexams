@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-36-grade-10-subject-lectura_critica",
+    "generated_at": "2026-09-30T20:35:27.728Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-10-2026-W36-el-personaje-y-su-construccion-001-MASTERY-bundle-v1",
+      "statement": "En el Texto 1, ¿qué hace el narrador con los pensamientos del protagonista?",
+      "context": "El profesor pide anotar quién cuenta la historia en cada uno de los dos cuentos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los cuenta uno por uno en segunda persona.",
+          "is_correct": false,
+          "feedback": "El narrador nunca entra en la cabeza del personaje y tampoco usa la segunda persona para contar lo que ocurre."
+        },
+        {
+          "letter": "B",
+          "text": "No los cuenta nunca, solo narra sus gestos y sus acciones.",
+          "is_correct": true,
+          "feedback": "Correcto, el relato se apoya en acciones y objetos, y no incluye ni una frase de interior ni un juicio sobre el hombre."
+        },
+        {
+          "letter": "C",
+          "text": "Los cuenta al final, cuando el visitante ya se ha ido.",
+          "is_correct": false,
+          "feedback": "Al final el narrador mira la misma pared, de modo que no hay ningunawagen revelación de pensamientos."
+        },
+        {
+          "letter": "D",
+          "text": "Los delega en los diálogos de la visita.",
+          "is_correct": false,
+          "feedback": "Los diálogos son palabras dichas, no pensamientos, y el narrador no los usa como sustituto del mundo interior."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Reconocer cómo cuenta el narrador un relato es el primer paso para analizar a un personaje. Cuando el narrador omite los pensamientos y se limita a acciones, el lector debe deducir la vida interior a partir de gestos. Identificar ese procedimiento explica por qué el cuento deja tantas preguntas abiertas al final.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Literal",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-10-2026-W36-el-personaje-y-su-construccion-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W36-el-personaje-y-su-construccion-001-MASTERY-bundle-v2",
+      "statement": "¿Qué detalle del Texto 1 revela mejor el carácter del protagonista sin que el narrador lo comente?",
+      "context": "En el taller los estudiantes marcan con un lápiz cada cosa que hace o dice el protagonista del Texto 1.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La ropa que viste durante la visita.",
+          "is_correct": false,
+          "feedback": "El texto describe una camisa nueva, pero ese dato por sí solo no explica el carácter del hombre frente a su amigo."
+        },
+        {
+          "letter": "B",
+          "text": "El retrato de la familia que cuelga en la pared.",
+          "is_correct": false,
+          "feedback": "El retrato aparece en el relato, pero su función es la de un recordatorio del pasado que el personaje mira al final."
+        },
+        {
+          "letter": "C",
+          "text": "El discurso ensayado que incluye la fecha de la muerte de un vecino.",
+          "is_correct": true,
+          "feedback": "Correcto, ensayar de memoria la fecha exacta de una muerte revela el control y el miedo que ese hombre necesita frente a su visita."
+        },
+        {
+          "letter": "D",
+          "text": "El café que ofrece al visitante.",
+          "is_correct": false,
+          "feedback": "El café es una cortesía común entre visitas y no distingue el carácter de este hombre frente a otro cualquiera."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un detalle bien elegido revela un rasgo entero sin necesidad de adjetivos. Un hombre que ensaya la fecha exacta de una muerte muestra control y un miedo que no quiere mostrar. Reconocer ese poder de los objetos permite construir el análisis sin recurrir a la descripción fácil de los personajes.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Textual",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-10-2026-W36-el-personaje-y-su-construccion-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W36-el-personaje-y-su-construccion-001-MASTERY-bundle-v3",
+      "statement": "En el Texto 2, ¿qué cambio se observa en la voz de Camila a lo largo del relato?",
+      "context": "Los estudiantes leen por separado las tres versiones de la voz de Camila en el Texto 2.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pasa de una versión práctica a una versión corregida por la experiencia.",
+          "is_correct": true,
+          "feedback": "Correcto, la voz empieza explicando que el turno es por dinero y termina corrigiendo esa explicación después de vivir la experiencia."
+        },
+        {
+          "letter": "B",
+          "text": "Pasa de un tono alegre a un tono de tristeza constante.",
+          "is_correct": false,
+          "feedback": "El cambio del relato no es de ánimo constante, sino de comprensión, y ese es un rasgo distinto del que propone la opción."
+        },
+        {
+          "letter": "C",
+          "text": "Deja de narrar en primera persona y pasa a la voz del Narrador.",
+          "is_correct": false,
+          "feedback": "El relato conserva la primera persona durante toda la historia, y no aparece un narrador externo que tome la palabra."
+        },
+        {
+          "letter": "D",
+          "text": "Mantiene la misma explicación durante toda la historia, sin revisarla.",
+          "is_correct": false,
+          "feedback": "El relato incluye una corrección explícita al final, por lo que la explicación inicial sí cambia de sentido."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprender un cambio de voz exige seguir la posición de quien narra a lo largo del relato. La primera persona de Camila se mantiene, pero lo que afirma se corrige, y ese giro revela aprendizaje. Distinguir cambio de voz de cambio de argumento separa a un lector atento de uno que solo resume.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.86,
+      "bundle_id": "CO-LC-10-2026-W36-el-personaje-y-su-construccion-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W36-el-personaje-y-su-construccion-001-MASTERY-bundle-v4",
+      "statement": "Según los dos textos, ¿cuál de los dos personajes es un personaje complejo?",
+      "context": "El profesor propone clasificar a cada protagonista como plano o complejo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El hombre del Texto 1, porque tiene una sola manera de actuar.",
+          "is_correct": false,
+          "feedback": "Tener una sola manera de actuar corresponde a un personaje plano, y ese criterio no describe al hombre del Texto 1."
+        },
+        {
+          "letter": "B",
+          "text": "Camila del Texto 2, porque no cambia de opinión en ningún momento.",
+          "is_correct": false,
+          "feedback": "Camila sí cambia de opinión y eso prueba lo contrario, de manera que la opción no describe bien a su personaje."
+        },
+        {
+          "letter": "C",
+          "text": "Camila del Texto 2, porque el relato cuenta todo lo que ella piensa.",
+          "is_correct": false,
+          "feedback": "Camila cuenta su versión, pero esa versión cambia y se contradice, de modo que la razón dada no sustenta la clasificación."
+        },
+        {
+          "letter": "D",
+          "text": "Camila del Texto 2, porque sostiene dos motivos contradictorios y corrige su versión.",
+          "is_correct": true,
+          "feedback": "Correcto, Camila actúa por dos razones opuestas y corrige su propia versión, y esa contradicción la vuelve un personaje complejo."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Aplicar el criterio de personaje complejo exige revisar la existencia de contradicciones. Camila sostiene dos motivos incompatibles y corrige su propia versión, y por eso pertenece a esa categoría. Reconocer el rasgo permite clasificar con fundamento y no por intuición o por simpatía.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Inferencial",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LC-10-2026-W36-el-personaje-y-su-construccion-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W36-el-personaje-y-su-construccion-001-MASTERY-bundle-v5",
+      "statement": "En el Texto 1, ¿qué función cumple el amigo de la infancia dentro de la historia del protagonista?",
+      "context": "Los equipos arman en el tablero un mapa de las relaciones de cada cuento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es el antagonista que se opone a los planes del protagonista.",
+          "is_correct": false,
+          "feedback": "El visitante no se opone a nada, porque viene de visita y solo pone al hombre en una situación incómoda."
+        },
+        {
+          "letter": "B",
+          "text": "Es el testigo que activa la demostración del personaje ante el visitante.",
+          "is_correct": true,
+          "feedback": "Correcto, el amigo pone al hombre en la situación de recitar todo su discurso ensayado, y en esa escena se revela su carácter."
+        },
+        {
+          "letter": "C",
+          "text": "Es el narrador implícito que explica los gestos del hombre.",
+          "is_correct": false,
+          "feedback": "El narrador ya existe por separado y además no habla, de modo que esa función no corresponde al amigo de la infancia."
+        },
+        {
+          "letter": "D",
+          "text": "Es el beneficiario de la casa que el protagonista quiere vender.",
+          "is_correct": false,
+          "feedback": "No hay venta de casa en el relato y el texto no ofrece ningún dato que sitúe al visitante como propietario."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comprender el papel de un personaje secundario exige medir su efecto sobre el protagonista. El visitante no aporta conflicto ni información, porque solo crea la condición para que el hombre se muestre. Identificar esa función distingue una red de relaciones de una simple lista de personajes presentes.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-10-2026-W36-el-personaje-y-su-construccion-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W36-el-personaje-y-su-construccion-001-MASTERY-bundle-v6",
+      "statement": "Que el Texto 2 termine sin explicar la decisión final de Camila, ¿qué efecto produce en el lector?",
+      "context": "En clase se lee el último párrafo del Texto 2 y se pide justificar el final.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Deja al lector con una decisión abierta que debe completar con lo que leyó.",
+          "is_correct": true,
+          "feedback": "Correcto, el relato expone dos versiones y no elige por el lector, que debe resolver el sentido con su propia lectura."
+        },
+        {
+          "letter": "B",
+          "text": "Reduce el valor del relato, porque los finales abiertos carecen de sentido.",
+          "is_correct": false,
+          "feedback": "Un final abierto no es un error, porque obliga al lector a construir el sentido y por eso resulta más exigente."
+        },
+        {
+          "letter": "C",
+          "text": "Convierte el relato en un informe periodístico.",
+          "is_correct": false,
+          "feedback": "La falta de explicación no convierte el cuento en un informe, porque conserva su narración en primera persona."
+        },
+        {
+          "letter": "D",
+          "text": "Permite que la madre de Camila decida por ella, ya que aparece en el relato.",
+          "is_correct": false,
+          "feedback": "La madre solo aparece en una llamada de dos minutos y no interviene en la decisión que el relato deja abierta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar un final exige medir su efecto sobre el lector y no solo su claridad. Un relato que cierra sin resolver delega en quien lee la tarea de construir el sentido. Reconocer esa transferencia explica por qué un final abierto amplía la lectura de un personaje complejo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-10-2026-W36-el-personaje-y-su-construccion-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W36-el-personaje-y-su-construccion-001-MASTERY-bundle-v7",
+      "statement": "Según el Texto 1, ¿qué efecto busca el narrador al no decir nunca qué piensa el protagonista?",
+      "context": "Cada grupo presenta ante el curso la ficha de personaje del cuento que le asignaron.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Facilitar la lectura rápida de quien no conoce la obra.",
+          "is_correct": false,
+          "feedback": "Ocultar la vida interior no facilita la lectura, porque obliga a deducirla y a releer el relato con atención."
+        },
+        {
+          "letter": "B",
+          "text": "Hacer que el relato parezca más corto de lo que es.",
+          "is_correct": false,
+          "feedback": "La copia de taller tiene 1.200 palabras, y el efecto buscado no es el de comprimir el texto."
+        },
+        {
+          "letter": "C",
+          "text": "Mostrar que el protagonista no entiende lo que le pasa.",
+          "is_correct": false,
+          "feedback": "El relato no afirma esa dificultad, y el efecto buscado recae sobre el lector y no sobre el personaje."
+        },
+        {
+          "letter": "D",
+          "text": "Dejar al lector como único responsable de interpretar al personaje.",
+          "is_correct": true,
+          "feedback": "Correcto, al retirar la voz que explicaría al personaje, el narrador entrega esa tarea y esa responsabilidad al lector."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Identificar la intención del narrador pertenece al nivel pragmático de la lectura. Cuando se ocultan los pensamientos, quien lee queda obligado a interpretar, y esa es una decisión deliberada del relato. Reconocer la intención explica por qué esa omisión no es una carencia sino un recurso.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Inferencial",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-10-2026-W36-el-personaje-y-su-construccion-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W36-el-personaje-y-su-construccion-001-MASTERY-bundle-v8",
+      "statement": "¿Qué diferencia estructural separa la construcción del personaje en los dos textos?",
+      "context": "El profesor pide comparar cómo se construye el protagonista en los dos cuentos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Texto 1 cuenta con un narrador que todo lo explica y el Texto 2 con un narrador mudo.",
+          "is_correct": false,
+          "feedback": "La relación está al revés, porque el Texto 1 omite la vida interior y el Texto 2 la cuenta en primera persona."
+        },
+        {
+          "letter": "B",
+          "text": "El Texto 1 construye al personaje con su discurso y el Texto 2 con el silencio de los demás.",
+          "is_correct": false,
+          "feedback": "El silencio de los demás pertenece al Texto 1, mientras que en el Texto 2 narra la propia protagonista."
+        },
+        {
+          "letter": "C",
+          "text": "El Texto 1 lo construye con acciones y el Texto 2 con su propia voz en revisión.",
+          "is_correct": true,
+          "feedback": "Correcto, en el primer caso el lector infiere, y en el segundo la protagonista es quien corrige su propia versión."
+        },
+        {
+          "letter": "D",
+          "text": "Los dos textos usan exclusivamente el diálogo directo.",
+          "is_correct": false,
+          "feedback": "El Texto 1 incluye gestos y objetos sin diálogo directo, de modo que ese rasgo compartido no se sostiene."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Analizar dos formas de construir un personaje exige nombrar el procedimiento de cada texto por separado. Acciones sin psicología en un caso y voz propia revisada en el otro producen efectos distintos sobre el lector. Distinguir esas dos estrategias permite comparar las obras sin reducirlas a una misma categoría.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Inferencial",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-10-2026-W36-el-personaje-y-su-construccion-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W36-el-personaje-y-su-construccion-001-MASTERY-bundle-v9",
+      "statement": "Según el Texto 2, ¿qué papel cumple la madre dentro de la historia de Camila?",
+      "context": "El grupo analiza cómo la presencia de la madre estructura el relato del Texto 2.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es la antagonista que obliga a Camila a trabajar en la sala de espera.",
+          "is_correct": false,
+          "feedback": "El texto no presenta oposición entre madre e hija, y no atribuye a la madre ninguna presión para que tome el turno."
+        },
+        {
+          "letter": "B",
+          "text": "Es una figura lejana que aparece una sola vez y no resuelve el conflicto.",
+          "is_correct": true,
+          "feedback": "Correcto, la madre aparece en una llamada breve y el relato deja la decisión de Camila sin cerrar y sin ayuda externa."
+        },
+        {
+          "letter": "C",
+          "text": "Es la única persona con la que Camila habla durante toda la noche.",
+          "is_correct": false,
+          "feedback": "Camila comparte la noche con otros personajes del turno, y la llamada de la madre dura solo dos minutos."
+        },
+        {
+          "letter": "D",
+          "text": "Es quien explica el sentido final del relato a los lectores.",
+          "is_correct": false,
+          "feedback": "La explicación final pertenece a Camila, que corrige su propia versión, y no a la madre ni a ningún narrador."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Analizar una red de relaciones exige medir la presencia efectiva de cada figura y no susimple mención. Una madre que aparece una vez y no interviene deja la decisión en manos de la hija. Entender ese lugar de la red ayuda a identificar dónde está el verdadero núcleo del conflicto.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.73,
+      "bundle_id": "CO-LC-10-2026-W36-el-personaje-y-su-construccion-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W36-el-personaje-y-su-construccion-001-MASTERY-bundle-v10",
+      "statement": "¿Qué puede afirmarse con mayor precisión al comparar los dos textos?",
+      "context": "En el aula se discuten las dos versiones sobre qué es un personaje bien construido.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los dos cuentos obligan al lector a construir la vida interior del personaje.",
+          "is_correct": true,
+          "feedback": "Correcto, uno lo hace callando al narrador y el otro entregando la palabra a la protagonista para que ella misma se corrija."
+        },
+        {
+          "letter": "B",
+          "text": "Los dos cuentos construyen al personaje con descripciones del aspecto físico.",
+          "is_correct": false,
+          "feedback": "Ninguno de los dos textos se apoya en descripciones físicas para construir a sus personajes, de manera que la afirmación no se sostiene."
+        },
+        {
+          "letter": "C",
+          "text": "Los dos cuentos terminan igual, con una decisión explicada por el narrador.",
+          "is_correct": false,
+          "feedback": "El Texto 2 termina con una decisión no explicada y solo el Texto 1 cierra con la mirada final del hombre en la pared."
+        },
+        {
+          "letter": "D",
+          "text": "Los dos cuentos usan el narrador como único instrumento para crear al personaje.",
+          "is_correct": false,
+          "feedback": "En el Texto 2 el instrumento principal es la voz de la propia Camila y no la del narrador que acompaña su relato."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comparar dos cuentos exige buscar lo que comparten por encima del estilo. En los dos casos el lector completa el retrato que el texto deja incompleto. Reconocer ese rasgo común ayuda a construir una tesis de lectura que no dependa de un solo autor ni de una sola época.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.71,
+      "bundle_id": "CO-LC-10-2026-W36-el-personaje-y-su-construccion-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W36-el-personaje-y-su-construccion-001-MASTERY-bundle-v11",
+      "statement": "Frente a esa propuesta, ¿cuál es la mejor evaluación que se puede hacer con los dos cuentos?",
+      "context": "Un equipo propone definir al personaje ideal como el que siempre actúa por un solo motivo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La contradicción entre motivos no aporta nada a la construcción del personaje.",
+          "is_correct": false,
+          "feedback": "Camila actúa por dos razones opuestas y el relato no borra ninguna, de modo que la tensión sí aporta a su construcción."
+        },
+        {
+          "letter": "B",
+          "text": "Un personaje con un solo motivo resulta más complejo y por eso se recuerda mejor.",
+          "is_correct": false,
+          "feedback": "La facilidad de recordar no equivale a complejidad, y Camila demuestra que la contradicción produce mayor profundidad."
+        },
+        {
+          "letter": "C",
+          "text": "La contradicción entre motivos es lo que vuelve complejo y memorable a un personaje.",
+          "is_correct": true,
+          "feedback": "Correcto, Camila sostiene dos motivos incompatibles y el hombre del otro relato también muestra tensión, y esa mezcla sostiene la construcción."
+        },
+        {
+          "letter": "D",
+          "text": "El número de motivos es un criterio válido para construir a un personaje.",
+          "is_correct": false,
+          "feedback": "Nada en los dos cuentos presenta el número de motivos como un criterio de calidad narrativa, y la opción no se apoya en el texto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar una propuesta exige ponerla a prueba con la evidencia de los textos y no con preferencias personales. La contradicción entre motivos aparece en los dos cuentos y produce profundidad en ambos casos. Ese criterio permite defender por qué la complejidad del personaje no es un defecto de coherencia.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LC-10-2026-W36-el-personaje-y-su-construccion-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W36-el-personaje-y-su-construccion-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es el mejor argumento para refutar esa afirmación con los dos cuentos?",
+      "context": "Un lector sostiene que solo un narrador que lo sabe todo puede construir un personaje complejo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el Texto 1 sí usa un narrador que conoce todo lo que ocurre.",
+          "is_correct": false,
+          "feedback": "El Texto 1 no conoce el interior del hombre, de manera que esa opción contradice lo que el relato hace."
+        },
+        {
+          "letter": "B",
+          "text": "Que Camila no es un personaje porque aparece hablando en primera persona.",
+          "is_correct": false,
+          "feedback": "La primera persona no impide ser personaje, y Camila es justamente la construcción más elaborada de los dos textos."
+        },
+        {
+          "letter": "C",
+          "text": "Que los dos cuentos son demasiado cortos para desarrollar un personaje completo.",
+          "is_correct": false,
+          "feedback": "Ninguno de los dos textos se descarta por su extensión, porque la complejidad depende del uso del detalle y no del número de páginas."
+        },
+        {
+          "letter": "D",
+          "text": "Que el Texto 1 construye un personaje complejo con acciones y el Texto 2 con una voz que se corrige.",
+          "is_correct": true,
+          "feedback": "Correcto, ninguno de los dos cuentos necesita que un narrador declare los pensamientos para lograr la complejidad del personaje."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar un juicio ajeno exige responder con la evidencia interna de los dos textos. La complejidad del personaje se sostiene en acciones y en una voz que se revisa, sin necesidad de un narrador que declare los pensamientos. Ese razonamiento sostiene una postura crítica frente a la idea de que solo la omnisciencia construye personajes profundos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-10-2026-W36-el-personaje-y-su-construccion-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}
