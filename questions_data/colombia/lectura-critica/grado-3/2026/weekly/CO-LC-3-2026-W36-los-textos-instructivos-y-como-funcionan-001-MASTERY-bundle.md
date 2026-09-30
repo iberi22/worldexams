@@ -72,7 +72,7 @@ Los conectores de secuencia ("primero", "luego", "después", "finalmente") artic
 **Bloom:** Apply
 **ICFES:** Pragmático
 **Expected_Success:** 0.80
-**Contexto:** En las reglas del partido de fútbol de la escuela de Medellín se lee: "Si el balón sale por la línea lateral, el juego se reinicia con un saque de banda. El equipo que puso la pelota fuera de juego pierde la posesión y el otro equipo ejecuta la jugada". Julián quiere saber si su equipo puede sacar de banda después de un tiro suyo que salió por elcostado.
+**Contexto:** En las reglas del partido de fútbol de la escuela de Medellín se lee: "Si el balón sale por la línea lateral, el juego se reinicia con un saque de banda. El equipo que puso la pelota fuera de juego pierde la posesión y el otro equipo ejecuta la jugada". Julián quiere saber si su equipo puede sacar de banda después de un tiro suyo que salió por el costado.
 
 ### Enunciado
 Según el reglamento, si en Medellín un jugador saca el balón con el pie y este sale por la línea lateral, ¿quién debe ejecutar el saque de banda?
@@ -80,7 +80,7 @@ Según el reglamento, si en Medellín un jugador saca el balón con el pie y est
 ### Opciones
 - [ ] A) El mismo equipo que puso el balón afuera, porque el saque de banda siempre lo hace quien perdió el balón.
   <!-- feedback: Incorrecto. La regla dice lo contrario: quien salió con la pelota pierde la posesión. -->
-- [ ] B) El árbitro, porque toda restarted jugada la ejecuta el árbitro.
+- [ ] B) El árbitro, porque toda jugada reiniciada la ejecuta el árbitro.
   <!-- feedback: Incorrecto. El árbitro supervisa y sanciona, pero el saque de banda lo ejecuta un jugador. -->
 - [x] C) El equipo contrario, porque el equipo que puso la pelota fuera de juego pierde la posesión.
   <!-- feedback: ¡Correcto! La regla es clara: perder la posesión significa que el rival realiza la siguiente jugada. -->
