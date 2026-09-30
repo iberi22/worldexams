@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-20-grade-4-subject-lectura_critica",
+    "generated_at": "2026-09-30T08:41:45.159Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-4-2026-W20-los-textos-que-explican-como-funcionan-las-cosas-001-MASTERY-bundle-v1",
+      "statement": "Lee el texto que explica cómo funciona un grifo.\n\n*\"El grifo tiene una manija que se gira y un orificio por donde sale el agua. Cuando giramos la manija hacia un lado, una pieza de metal tapa el orificio y el agua deja de salir. Cuando la giramos hacia el otro lado, la pieza se aparta, el orificio queda descubierto y el agua vuelve a correr.\"*\n\n¿Cuál es la idea principal que explica este texto?",
+      "context": "En la clase de cuarto de Medellín, la profesora reparte una lectura sobre el grifo de la casa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el grifo se cambia por otro cuando deja de funcionar",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no habla de cambiar el grifo, y la pieza de metal que se mueve es parte del mismo grifo."
+        },
+        {
+          "letter": "B",
+          "text": "Que el agua de la casa viene de un río cercano",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no menciona ningún río ni el origen del agua, porque solo explica cómo se abre y se cierra el paso del agua."
+        },
+        {
+          "letter": "C",
+          "text": "Que al girar la manija el grifo tapa o destapa el orificio por donde sale el agua",
+          "is_correct": true,
+          "feedback": "Correcto. Esa es la idea que organiza todo el texto, porque los dos casos que cuenta muestran la pieza tapando y destapando el orificio."
+        },
+        {
+          "letter": "D",
+          "text": "Que la manija del grifo debe girarse siempre hacia el mismo lado",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto dice que hay dos sentidos de giro, y por eso no afirma que la manija deba girarse siempre hacia el mismo lado."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los textos que explican cómo funcionan las cosas giran alrededor de una idea principal y luego muestran los pasos que la demuestran. Reconocer la idea principal ayuda a los niños a no perderse en los detalles de la explicación. Esta estrategia también les sirve para estudiar cualquier tema, porque primero se identifica de qué se trata y después se siguen los detalles.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Literal",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-4-2026-W20-los-textos-que-explican-como-funcionan-las-cosas-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W20-los-textos-que-explican-como-funcionan-las-cosas-001-MASTERY-bundle-v2",
+      "statement": "Lee el fragmento del texto sobre el freno de una bicicleta.\n\n*\"El freno tiene un cable que se estira. Cuando apretamos la maniguera, el cable tira de dos piezas de hule que se presionan contra la llanta. El rozamiento entre el hule y la llanta hace que la bicicleta baje la velocidad.\"*\n\n¿Qué significa la palabra \"rozamiento\" en este texto?",
+      "context": "En un taller de lectura de cuarto en Cali, los estudiantes estudian un texto sobre el freno de la bicicleta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que una superficie se opone al deslizamiento de otra cuando se tocan y se frota",
+          "is_correct": true,
+          "feedback": "Correcto. La palabra nombra la fuerza que aparece cuando dos superficies se tocan, y en el texto esa fuerza frena la llanta."
+        },
+        {
+          "letter": "B",
+          "text": "Que las dos piezas de hule se parten por la presión",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no dice que el hule se rompa, y el rozamiento es lo que impide que la llanta siga rodando sin más resistencia."
+        },
+        {
+          "letter": "C",
+          "text": "Que el cable del freno se estira cada vez que se frena la bicicleta",
+          "is_correct": false,
+          "feedback": "Incorrecto. El rozamiento no es el estiramiento del cable, y por eso esa palabra no corresponde a lo que ocurre entre el hule y la llanta."
+        },
+        {
+          "letter": "D",
+          "text": "Que la llanta se vuelve más lisa cuando el freno está apretado",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto explica lo contrario, porque la fricción entre el hule y la llanta hace que la bicicleta pierda velocidad al frenar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprender una palabra técnica dentro del texto es lo que permite entender cómo funciona un objeto. Los textos explicativos usan palabras como rozamiento, orificio o interruptor, y cada una nombra algo concreto que ocurre. Cuando los niños entienden esas palabras, dejan de leer la explicación como un relato y empiezan a ver el mecanismo que se describe.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-4-2026-W20-los-textos-que-explican-como-funcionan-las-cosas-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W20-los-textos-que-explican-como-funcionan-las-cosas-001-MASTERY-bundle-v3",
+      "statement": "Lee el texto sobre la botella que se lleva al colegio.\n\n*\"La botella tiene una pared de metal y otra de plástico con un espacio vacío entre las dos. El metal refleja el calor hacia afuera y el espacio vacío no deja que el calor pase de un lado al otro. Por eso el agua caliente se enfría muy despacio.\"*\n\n¿Qué se puede inferir a partir del texto?",
+      "context": "En el aula de cuarto de Pereira, un grupo lee un texto sobre la botella térmica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que esa botella sirve para calentar el agua más rápido que una olla",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto dice que el agua caliente se enfría muy despacio, y por eso la botella sirve para conservarla y no para calentarla."
+        },
+        {
+          "letter": "B",
+          "text": "Que el plástico de la botella debe tener el doble de grosor para que sirva",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto explica que el espacio vacío entre las paredes frena el calor, y no que el grosor del plástico sea lo importante."
+        },
+        {
+          "letter": "C",
+          "text": "Que si se rompe una de las paredes de la botella el agua sigue caliente por un día",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no dice que la botella siga funcionando si se daña, y el mecanismo depende de tener las dos paredes y el espacio entre ellas."
+        },
+        {
+          "letter": "D",
+          "text": "Que esa botella se puede usar con agua fría sin que se caliente pronto, porque también frena la entrada del calor",
+          "is_correct": true,
+          "feedback": "Correcto. Si el material frena el calor, también dificulta que el calor entre desde afuera, y por eso el agua fría se calienta muy despacio."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Inferir es deducir una información que el texto no escribe de forma directa pero que se puede deducir de sus datos. Cuando un texto explica cómo algo frena el calor en un caso, el niño puede deducir que también lo frena en el caso contrario. Esa forma de razonar es la base de la ciencia y por eso se practica desde cuarto de primaria.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Inferencial",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-4-2026-W20-los-textos-que-explican-como-funcionan-las-cosas-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W20-los-textos-que-explican-como-funcionan-las-cosas-001-MASTERY-bundle-v4",
+      "statement": "Observa los cuatro pasos que escribió un grupo de cuarto.\n\n*\"Paso 1: Se abre la tapa del poste y se conecta el cable. Paso 2: La corriente eléctrica llega hasta la bombilla. Paso 3: Se cierra el interruptor y el circuito queda completo. Paso 4: La bombilla se enciende y produce luz.\"*\n\n¿Cuál es el orden en que deben seguirse los pasos para que la linterna funcione?",
+      "context": "En el aula de cuarto de Barranquilla, los estudiantes ordenan los pasos de un texto explicativo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Paso 2, paso 3, paso 1, paso 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese orden empieza por la corriente eléctrica antes de abrir la tapa y conectar el cable, y sin esa conexión no llega corriente a la bombilla."
+        },
+        {
+          "letter": "B",
+          "text": "Paso 1, paso 3, paso 2, paso 4",
+          "is_correct": true,
+          "feedback": "Correcto. Primero se conecta el cable, después se cierra el interruptor para completar el circuito, luego llega la corriente y al final la bombilla da luz."
+        },
+        {
+          "letter": "C",
+          "text": "Paso 4, paso 1, paso 3, paso 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Poner el encendido de la bombilla al principio contradice el orden de la explicación, porque la luz aparece cuando ya llegó la corriente."
+        },
+        {
+          "letter": "D",
+          "text": "Paso 3, paso 2, paso 4, paso 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese orden cierra el interruptor antes de conectar el cable, y por eso el circuito no puede quedar completo como dice el texto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los textos que explican cómo funcionan las cosas suelen seguir el orden en que ocurren los pasos, y ese orden hace que la explicación se pueda comprobar. Si los pasos se leen en desorden, la explicación se vuelve difícil de entender y hasta parecen contradictorias. Enseñar a ordenar los pasos es la base para entender recetas, instrucciones y manualidades del colegio.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-4-2026-W20-los-textos-que-explican-como-funcionan-las-cosas-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W20-los-textos-que-explican-como-funcionan-las-cosas-001-MASTERY-bundle-v5",
+      "statement": "Lee el comienzo de un texto que explica cómo funciona un IDisposable.\n\n*\"Este aparato funciona sin cargador y sin enchufe. Trae una pila adentro. Cuando apretamos el botón, la pila manda corriente al pequeño motor y el aparato empieza a girar.\"*\n\n¿Por qué el escritor usa palabras sencillas en este texto?",
+      "context": "En la clase de cuarto de Cúcuta, la profesora pregunta a sus estudiantes por qué un texto usa palabras sencillas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para que el texto ocupe menos hojas y que quepa en un solo cuaderno",
+          "is_correct": false,
+          "feedback": "Incorrecto. El número de hojas depende de lo que se cuenta y no del vocabulario, y el texto no dice nada sobre el tamaño."
+        },
+        {
+          "letter": "B",
+          "text": "Para que el lector tenga que buscar palabras difíciles en el diccionario",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un texto explicado con palabras difíciles no se vuelve mejor, y este texto busca que cualquier niño lo entienda sin buscar palabras."
+        },
+        {
+          "letter": "C",
+          "text": "Para que los estudiantes de cuarto puedan entender la explicación sin conocimientos especiales",
+          "is_correct": true,
+          "feedback": "Correcto. Las palabras sencillas hacen posible que un niño sin formación científica siga la explicación y entienda cada paso."
+        },
+        {
+          "letter": "D",
+          "text": "Para que el texto parezca escrito por una persona famosa y no por un niño",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no busca imitar a nadie, y el efecto contrario es que su lenguaje sencillo lo acerca a los lectores jóvenes."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Analizar un texto es preguntar para qué está escrito y qué efecto busca en el lector. Los textos explicativos para niños usan un vocabulario sencillo porque el objetivo es que cualquier persona pueda seguir la explicación. Reconocer esa decisión del autor ayuda a los niños a evaluar si un texto se dirige a ellos o a personas con otros conocimientos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-4-2026-W20-los-textos-que-explican-como-funcionan-las-cosas-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W20-los-textos-que-explican-como-funcionan-las-cosas-001-MASTERY-bundle-v6",
+      "statement": "Lee los dos textos que explican cómo funciona un paraguas.\n\n*\"Texto 1: \"Un paraguas tiene un eje, ocho varillas y una tela. Cuando el viento empuja la tela, el eje se inclina y las varillas se abren. Así el agua se desliza hacia los bordes y no cae sobre la cabeza.\" Texto 2: \"El paraguas es muy importante, sobre todo cuando llueve. Sin paraguas las personas se mojan. Por eso todos debemos llevar uno.\"*\n\n¿Cuál es la diferencia principal entre los dos textos?",
+      "context": "En un trabajo en grupo de cuarto en Pasto, los estudiantes comparan dos textos sobre el mismo objeto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El texto 1 explica el mecanismo con sus partes y el texto 2 solo habla de la utilidad sin explicar cómo funciona",
+          "is_correct": true,
+          "feedback": "Correcto. El texto 1 nombra las piezas del paraguas y cuenta el proceso, mientras que el texto 2 se queda en decir que es importante."
+        },
+        {
+          "letter": "B",
+          "text": "El texto 1 es más corto y por eso explica peor que el texto 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto 1 es más largo y además entrega partes y procesos, y por eso su explicación es más completa que la del texto 2."
+        },
+        {
+          "letter": "C",
+          "text": "Los dos textos explican lo mismo, y lo único que cambia es la ciudad donde se escribieron",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto 2 no menciona ninguna ciudad, y la diferencia real está en que uno explica el funcionamiento y el otro no."
+        },
+        {
+          "letter": "D",
+          "text": "El texto 2 sirve para aprender cómo se arma un paraguas y el texto 1 solo entretiene",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto 1 es el que explica el funcionamiento, y ninguno de los dos textos habla de armar el paraguas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comparar dos textos permite descubrir que no todos los textos que hablan de un objeto realmente lo explican. Un texto explicativo nombra las partes y cuenta el proceso, mientras que otro solo dice para qué sirve. Cuando los niños distinguen entre explicar y comentar, aprenden a buscar la información que de verdad necesitan.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-4-2026-W20-los-textos-que-explican-como-funcionan-las-cosas-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W20-los-textos-que-explican-como-funcionan-las-cosas-001-MASTERY-bundle-v7",
+      "statement": "Un compañero de tu grupo afirma lo siguiente.\n\n*\"Un texto que explica cómo funciona una cosa está bien escrito si menciona muchas palabras difíciles y técnicas.\"*\n\n¿Cuál es la respuesta más sólida que puede darle el grupo a esa afirmación?",
+      "context": "En una reunión de aula en Manizales, un grupo de cuarto evalúa un texto que leyeron sobre un paraguas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La afirmación es correcta, porque entre más palabras técnicas, más completo está el texto",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cantidad de palabras técnicas no hace completo un texto, y en los textos de esta clase la claridad estaba en las palabras sencillas."
+        },
+        {
+          "letter": "B",
+          "text": "La afirmación es correcta, porque solo quien sabe mucha ciencia puede escribir un texto explicativo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los textos explicativos de esta semana se escribieron con palabras sencillas, y por eso no se necesita ser experto para escribirlos."
+        },
+        {
+          "letter": "C",
+          "text": "La afirmación es incorrecta, porque un texto explicativo no debe mencionar ninguna pieza del objeto",
+          "is_correct": false,
+          "feedback": "Incorrecto. Nombrar las piezas es justamente lo que permite entender cómo funciona, y el texto 1 del ejercicio anterior lo hizo de esa manera."
+        },
+        {
+          "letter": "D",
+          "text": "La afirmación es incorrecta, porque un texto explicativo debe seguir el orden de los pasos y usar palabras que el lector entienda",
+          "is_correct": true,
+          "feedback": "Correcto. El orden de los pasos y un vocabulario comprensible son lo que hacen que la explicación se pueda seguir, y no el uso de palabras difíciles."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar es juzgar la calidad de un texto con criterios que se pueden aplicar a cualquier explicación. Los dos criterios más importantes son que los pasos estén en orden y que las palabras sean entendibles por el lector. Cuando los niños usan esos criterios, pueden decir con seguridad si un texto explica bien o solo parece que explica.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-4-2026-W20-los-textos-que-explican-como-funcionan-las-cosas-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W20-los-textos-que-explican-como-funcionan-las-cosas-001-MASTERY-bundle-v8",
+      "statement": "Los dos grupos encontraron dos textos que explican cómo funciona un cepillo dental.\n\n*\"Texto A, de un blog sin autor: \"Este cepillo es increíble, tiene cinco modos y deja los dientes más blancos. Cómpralo hoy mismo y verás el cambio.\" Texto B, de un manual del colegio: \"El cepillo tiene un mango y un cabezal con miles de fibras. Cuando movemos el cepillo, las fibras se doblan sobre los dientes y arrastran la placa.\"*\n\n¿Cuál de los dos textos explica mejor cómo funciona un cepillo dental?",
+      "context": "Como tarea final, los grupos de cuarto deben buscar la mejor explicación de cómo funciona un Cepillo dental.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El texto A, porque menciona cinco modos y por eso la explicación es más completa",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto A nombra características y no explica ningún proceso, y por eso el lector no entiende cómo se limpian los dientes."
+        },
+        {
+          "letter": "B",
+          "text": "El texto B, porque nombra las partes del cepillo y explica qué ocurre cuando se usa",
+          "is_correct": true,
+          "feedback": "Correcto. El texto B identifica las piezas y cuenta el proceso completo, de modo que el lector puede entender cómo funciona el cepillo."
+        },
+        {
+          "letter": "C",
+          "text": "El texto A, porque convence más con palabras grandes y por eso explica mejor",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las palabras grandes no reemplazan una explicación, y ese texto solo busca que alguien compre el producto sin decir cómo funciona."
+        },
+        {
+          "letter": "D",
+          "text": "Los dos textos explican lo mismo, y la diferencia es solamente que uno está en internet",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un texto anuncia y vende el producto y el otro explica el funcionamiento, y por eso dicen cosas muy distintas sobre el cepillo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comparar textos permite decidir cuál explica y cuál solamente anuncia o vende. Un texto explicativo de calidad nombra las partes del objeto y cuenta el proceso que ocurre al usarlo. Cuando los niños aplican estos criterios para elegir entre fuentes distintas, aprenden a buscar información de verdad y no promesas publicitarias.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-4-2026-W20-los-textos-que-explican-como-funcionan-las-cosas-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    }
+  ]
+}
