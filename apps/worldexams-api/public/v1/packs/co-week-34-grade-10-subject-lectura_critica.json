@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-34-grade-10-subject-lectura_critica",
+    "generated_at": "2026-09-30T20:35:27.727Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-10-2026-W34-la-descripcion-y-el-escenario-001-MASTERY-bundle-v1",
+      "statement": "Según el Texto 1, ¿cuánto cuesta el pasaje del bote a Barrancabermeja?",
+      "context": "El profesor reparte la fotocopia del fragmento y pide que los estudiantes subrayen los datos verificables.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2.000 pesos.",
+          "is_correct": false,
+          "feedback": "Ese valor corresponde a la torta de yuca del puesto, que es otro dato económico distinto dentro del mismo fragmento."
+        },
+        {
+          "letter": "B",
+          "text": "1.640.000 pesos.",
+          "is_correct": false,
+          "feedback": "Esa cifra es el sueldo mensual de Ombú, no el precio del pasaje del bote."
+        },
+        {
+          "letter": "C",
+          "text": "3.500 pesos.",
+          "is_correct": true,
+          "feedback": "Correcto, el fragmento indica expresamente que el pasaje del bote a Barrancabermeja cuesta 3.500 pesos."
+        },
+        {
+          "letter": "D",
+          "text": "27.000 pesos.",
+          "is_correct": false,
+          "feedback": "Ese monto no aparece en el Texto 1; el número 27 corresponde a la temperatura medida en el guion del Texto 2."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Localizar un dato explícito permite después valorar el peso económico de una escena y comprobar que la descripción se apoya en la vida real. Un lector que confunde el pasaje con el sueldo pierde de vista que el fragmento no poetiza la pobreza sino que la ubica con exactitud. Por eso la precisión en las cifras es el primer paso de la lectura crítica.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Literal",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-10-2026-W34-la-descripcion-y-el-escenario-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W34-la-descripcion-y-el-escenario-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál de los detalles del Texto 1 muestra que la protagonista lleva mucho tiempo trabajando junto al río?",
+      "context": "En clase los estudiantes anotan qué se sabe de Ombú sin que el narrador lo declare.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se sabe de memoria el horario exacto en que sube el caudal.",
+          "is_correct": true,
+          "feedback": "Correcto, ese conocimiento preciso del río solo se alcanza después de años de observación diaria en el mismo lugar."
+        },
+        {
+          "letter": "B",
+          "text": "Camina por el malecón con un paraguas nuevo.",
+          "is_correct": false,
+          "feedback": "El fragmento no menciona ningún paraguas ni objeto nuevo; la atmósfera se construye con agua, manguera y fluorescente."
+        },
+        {
+          "letter": "C",
+          "text": "Llama a laconflictividad global un solo nombre propio.",
+          "is_correct": false,
+          "feedback": "El fragmento no reduce la protagonista a un apodo, y la pregunta apunta a la experiencia acumulada, no al lenguaje."
+        },
+        {
+          "letter": "D",
+          "text": "Compra una torta de yuca todos los días.",
+          "is_correct": false,
+          "feedback": "El texto menciona una sola compra de torta de yuca, y ese dato no permite concluir una costumbre diaria."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un detalle mínimo puede revelar la experiencia larga de un personaje. Cuando alguien conoce el horario exacto del caudal, ese conocimiento funciona como índice de los años vividos en el lugar. Reconocer qué detalles del entorno tienen esa carga informativa es el fundamento del retrato indirecto de un personaje.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Literal",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-10-2026-W34-la-descripcion-y-el-escenario-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W34-la-descripcion-y-el-escenario-001-MASTERY-bundle-v3",
+      "statement": "Según el Texto 2, ¿qué pide el guion a quienes colaboran en el documental?",
+      "context": "El club de medios proyecta el guion en el aula y el profesor pide la instrucción central del proyecto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que narren la historia personal de los rowing.",
+          "is_correct": false,
+          "feedback": "El guion no recounts biografías; su instrucción se centra en cómo se describe el río, no en la vida de nadie."
+        },
+        {
+          "letter": "B",
+          "text": "Que graben imágenes desde el agua.",
+          "is_correct": false,
+          "feedback": "La hoja de ruta señala seis puntos del malecón, y en ninguno se describe una grabación desde el agua."
+        },
+        {
+          "letter": "C",
+          "text": "Que usen la mayor cantidad posible de adjetivos.",
+          "is_correct": false,
+          "feedback": "El guion hace lo contrario: prohíbe expresamente el uso de adjetivos para forzar una descripción con acciones."
+        },
+        {
+          "letter": "D",
+          "text": "Que describan el río con lo que la gente hace en el muelle.",
+          "is_correct": true,
+          "feedback": "Correcto, el guion pide nombrar amarrar los botes, contar patos y cargar sacos en lugar de adjetivos vacíos."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Entender una instrucción textual permite reconocer el criterio que maneja el autor. El guion prohíbe los adjetivos porque un elemento concreto dice más que una palabra que empalidece. Esa misma lógica explica por qué el fragmento de novela enumera objetos en vez de calificarlos, y une los dos textos bajo una sola idea.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Textual",
+      "expected_success": 0.86,
+      "bundle_id": "CO-LC-10-2026-W34-la-descripcion-y-el-escenario-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W34-la-descripcion-y-el-escenario-001-MASTERY-bundle-v4",
+      "statement": "¿Qué efecto busca la comparación del río con una lámina de estaño en el Texto 2?",
+      "context": "Los estudiantes ven la secuencia del amanecer en la versión editada del documental.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mostrar que el agua estaba contaminada por residuos metálicos.",
+          "is_correct": false,
+          "feedback": "Nada en el guion indica contaminación de ese tipo; la comparación se ocupa del brillo y del color del agua al amanecer."
+        },
+        {
+          "letter": "B",
+          "text": "Hacer visible el brillo uniforme y quieto del agua al amanecer.",
+          "is_correct": true,
+          "feedback": "Correcto, el estaño evoca una superficie Lisa,reflectiva y plana, que es exactamente lo que la escena del amanecer muestra."
+        },
+        {
+          "letter": "C",
+          "text": "Anunciar que más adelante se fabricarán objetos de metal en el muelle.",
+          "is_correct": false,
+          "feedback": "El guion no anuncia ninguna fabricación ni trabajo de metal; la imagen se usa solo para describir el agua."
+        },
+        {
+          "letter": "D",
+          "text": "Explicar por qué el club de medios eligió rodar con teléfono celular.",
+          "is_correct": false,
+          "feedback": "El guion no justifica el equipo de grabación, y la comparación pertenece a la escena, no a las decisiones técnicas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicar la lectura inferencial consiste en deducir el efecto de una imagen a partir de sus rasgos. Una lámina de estaño es lisa, reflectante y quieta, y esos tres rasgos describen con exactitud el agua del amanecer. Comprender cómo una comparación concentra atributos sensoriales enseña a evaluar la eficacia de las imágenes.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Inferencial",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LC-10-2026-W34-la-descripcion-y-el-escenario-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W34-la-descripcion-y-el-escenario-001-MASTERY-bundle-v5",
+      "statement": "En el Texto 1, decir que la tubería respira es un ejemplo de qué procedimiento descriptivo?",
+      "context": "En la lectura en voz alta, el profesor pide que subrayen los términos que aplican vida a las máquinas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hipérbole.",
+          "is_correct": false,
+          "feedback": "No hay exageración de una magnitud; el efecto se produce por prête una acción humana a un objeto, no por exceso."
+        },
+        {
+          "letter": "B",
+          "text": "Metáfora.",
+          "is_correct": false,
+          "feedback": "No se comparan dos órdenes distintos con una relación de semejanza, sino que se le atribuye una acción a una máquina."
+        },
+        {
+          "letter": "C",
+          "text": "Personificación.",
+          "is_correct": true,
+          "feedback": "Correcto, atribuir la acción de respirar a una tubería humaniza un objeto, que es la definición del procedimiento."
+        },
+        {
+          "letter": "D",
+          "text": "Metonimia.",
+          "is_correct": false,
+          "feedback": "No se usa una palabra para nombrar otra por relación de cercanía, que es lo que hace la metonimia en sentido estricto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Distinguir procedimientos exige definir con precisión cada figura. La personificación presta acciones humanas a elementos materiales, y por eso una tubería que respira despierta la atención del lector. Identificar el nombre correcto del procedimiento permite después explicar qué efecto produce en la construcción de la atmósfera.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-10-2026-W34-la-descripcion-y-el-escenario-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W34-la-descripcion-y-el-escenario-001-MASTERY-bundle-v6",
+      "statement": "¿Qué relación se establece en el Texto 2 entre la frase descriptiva de la voz en off y el dato que aparece en pantalla?",
+      "context": "En el tablero aparecen dos columnas, una con frases y otra con datos medidos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El dato en pantalla contradice lo que dice la voz en off.",
+          "is_correct": false,
+          "feedback": "No hay contradicción: el rótulo de 27 grados y pH de 6,8 corresponde a la mañana descrita por el guion."
+        },
+        {
+          "letter": "B",
+          "text": "El dato en pantalla da precisión a lo que la voz en off describe con imágenes.",
+          "is_correct": true,
+          "feedback": "Correcto, la imagen evoca una superficie de estaño y el dato mide la temperatura y la acidez, de modo que ambos se refuerzan."
+        },
+        {
+          "letter": "C",
+          "text": "La frase de la voz en off sirve para distinguir el documental de una novela.",
+          "is_correct": false,
+          "feedback": "El guion no busca esa distinción, sino reunir sensación y dato en una misma descripción del amanecer."
+        },
+        {
+          "letter": "D",
+          "text": "El dato en pantalla reemplaza la imagen por razones de presupuesto del club de medios.",
+          "is_correct": false,
+          "feedback": "Nada en el guion menciona una razón de presupuesto; el dato se incluye deliberadamente junto a la imagen."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comprender la relación entre dos niveles del mismo texto evita leerlos como bloques contradictorios. Cuando una imagen da sensación y un dato da medida, ambos cumplen funciones distintas y se potencian. Ese criterio permite analizar la descripción técnica sin perder el valor artístico de la imagen.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-10-2026-W34-la-descripcion-y-el-escenario-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W34-la-descripcion-y-el-escenario-001-MASTERY-bundle-v7",
+      "statement": "¿Qué busca lograr el guion del Texto 2 al pedir que se describa el río con acciones del muelle?",
+      "context": "El documental se proyecta en el aula y al final se pregunta qué cambió en la mirada del público.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el espectador mire el río como un lugar habitado y no como un paisaje vacío.",
+          "is_correct": true,
+          "feedback": "Correcto, al enumerar amarrar botes, contar patos y cargar sacos, el guion devuelve al río la presencia de las personas que lo usan."
+        },
+        {
+          "letter": "B",
+          "text": "Que el espectador copie los datos técnicos en su cuaderno de ciencias.",
+          "is_correct": false,
+          "feedback": "Los rótulos del documental no tienen como destinatario al cuaderno de ciencias, sino a quien mira la imagen."
+        },
+        {
+          "letter": "C",
+          "text": "Que el club de medios del colegio supere a un documental de televisión.",
+          "is_correct": false,
+          "feedback": "El guion no contiene ninguna comparación con otro medio ni busca competir con canales de televisión."
+        },
+        {
+          "letter": "D",
+          "text": "Que los patos aparezcan por última vez en la versión de nueve minutos y medio.",
+          "is_correct": false,
+          "feedback": "El tiempo del archivo corresponde a la duración del documental, y no se usa para justificar la elección de las acciones."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar el efecto de un texto exige preguntar a quién se dirige y qué quiere provocar. El guion busca cambiar la mirada del espectador sobre el río, y para eso desplaza la atención del paisaje hacia la actividad humana. Identificar esa intención pragmática ayuda a justificar por qué una descripción resulta más eficaz que otra.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-10-2026-W34-la-descripcion-y-el-escenario-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W34-la-descripcion-y-el-escenario-001-MASTERY-bundle-v8",
+      "statement": "Según el Texto 1, ¿de qué modo la descripción revela la vida interior de Ombú?",
+      "context": "El profesor pide comparar el río del amanecer con el ruido de la planta described en el fragmento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Declarando que ella es una mujer valiente.",
+          "is_correct": false,
+          "feedback": "El fragmento no califica a la protagonista con adjetivos de valor; su carácter se deduce de lo que hace y de lo que recuerda."
+        },
+        {
+          "letter": "B",
+          "text": "Contando que ella defensa a los trabajadores de la planta.",
+          "is_correct": false,
+          "feedback": "El fragmento no relata Conflicts laborales ni discursos de la protagonista; describe una jornada y una máquina que arranca."
+        },
+        {
+          "letter": "C",
+          "text": "Describiendo el elegante uniforme con el que llega al trabajo.",
+          "is_correct": false,
+          "feedback": "No hay ningún uniforme en la escena, y la descripción enumera manguera, fluorescente y válvula, no ropa."
+        },
+        {
+          "letter": "D",
+          "text": "Por el contraste entre la calma gris del río y el ruido interior de la planta.",
+          "is_correct": true,
+          "feedback": "Correcto, ese choque de dos ambientes, uno sereno y otro industrial, dice más sobre su vida que cualquier adjetivo."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Analizar cómo un texto construye un personaje exige mirar el contraste entre ambientes y no solo las acciones. El río quieto y la planta ruidosa describen dos mundos entre los que Ombú se mueve a diario. Interpretar ese choque permite explicar la construcción del personaje a partir del escenario.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Inferencial",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-10-2026-W34-la-descripcion-y-el-escenario-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W34-la-descripcion-y-el-escenario-001-MASTERY-bundle-v9",
+      "statement": "Al comparar el Texto 1 y el Texto 2, ¿cuál es la convergencia más precisa entre ambas descripciones?",
+      "context": "El grupo debate qué significan las dos descripciones del amanecer del río en conjunto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los dos textos describen el amanecer del río como un momento de descanso para el mundo del trabajo.",
+          "is_correct": false,
+          "feedback": "Ninguno de los dos presenta descanso: el trabajo empieza de madrugada y la escena nunca interrumpe la actividad del muelle."
+        },
+        {
+          "letter": "B",
+          "text": "Los dos textos presentan la magnitud del río con sustantivos abstractos.",
+          "is_correct": false,
+          "feedback": "Los dos textos usan sustantivos concretos, como lámina, manguera, botes y sacos, y evitan deliberadamente lo abstracto."
+        },
+        {
+          "letter": "C",
+          "text": "Los dos textos coinciden en que el amanecer del río exige trabajo y atención, no contemplación.",
+          "is_correct": true,
+          "feedback": "Correcto, tanto en la planta como en el muelle, el amanecer aparece asociado a tareas precisas y a observación atenta."
+        },
+        {
+          "letter": "D",
+          "text": "Los dos textos afirman que el río es un paisaje más bello que la ciudad.",
+          "is_correct": false,
+          "feedback": "Ninguno de los dos textos compara el río con la ciudad; su interés está en el trabajo de quienes lo usan."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Comparar textos exige separar las coincidencias verdaderas de las coincidencias inventadas. El punto en común que resiste la prueba es la relación entre amanecer y labor: los dos textos muestran el mismo inicio de jornada. Reconocer una convergencia basada en evidencia protege al lector de generalizaciones sin sustento.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.73,
+      "bundle_id": "CO-LC-10-2026-W34-la-descripcion-y-el-escenario-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W34-la-descripcion-y-el-escenario-001-MASTERY-bundle-v10",
+      "statement": "¿Por qué el Texto 1 intercala cifras del pasaje, la torta y el sueldo dentro de la descripción del amanecer?",
+      "context": "Los estudiantes revisan por qué el autor intercala cifras dentro de un texto que se quiere leer por su atmósfera.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para anclar la atmósfera en una vida económica real y verificable.",
+          "is_correct": true,
+          "feedback": "Correcto, las cifras sitúan a la protagonista dentro de una economía concreta y dan peso a lo que la escena describe."
+        },
+        {
+          "letter": "B",
+          "text": "Para demostrar que el autor conoce los precios de la región.",
+          "is_correct": false,
+          "feedback": "El fragmento no busca exhibir un conocimiento de precios, sino instalar al lector en las condiciones vividas por Ombú."
+        },
+        {
+          "letter": "C",
+          "text": "Para que los estudiantes puedan calcular el costo total de la jornada.",
+          "is_correct": false,
+          "feedback": "Ninguna pregunta del corpus pide cálculos, y el fragmento no organiza sus datos como un presupuesto ni como una tabla."
+        },
+        {
+          "letter": "D",
+          "text": "Para interrumpir la escena y cambiar el registro narrativo a una crónica periodística.",
+          "is_correct": false,
+          "feedback": "El fragmento conserva el registro de novela: las cifras están al servicio de la atmósfera, no la convierten en reportaje."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar la función de un dato dentro de una escena narrativa requiere preguntar qué trabajo narrativo cumple. Las cifras no interrumpen la descripción, la anclan y le dan veracidad. Ese criterio permite defender la precisión como allied herramienta literaria en lugar de verla como una interrupción.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.71,
+      "bundle_id": "CO-LC-10-2026-W34-la-descripcion-y-el-escenario-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W34-la-descripcion-y-el-escenario-001-MASTERY-bundle-v11",
+      "statement": "Frente a una descripción que solo acumula adjetivos, ¿cuál es la ventaja más sólida de la descripción del Texto 1?",
+      "context": "Un compañero propone reescribir el fragmento sustituyendo los objetos por adjetivos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es más corta y por eso se lee con mayor rapidez.",
+          "is_correct": false,
+          "feedback": "La longitud no es el criterio, y el fragmento conserva su ritmo cuando cambia los adjetivos por objetos enumerados."
+        },
+        {
+          "letter": "B",
+          "text": "Usa detalles concretos y sensoriales que permiten reconstruir el lugar y la vida del personaje.",
+          "is_correct": true,
+          "feedback": "Correcto, la manguera, el fluorescente y la válvula onsite permiten ver, oír y oler el espacio y con él la rutina de Ombú."
+        },
+        {
+          "letter": "C",
+          "text": "Evita cualquier sensación porque el narrador quiere permanecer frío y objetivo.",
+          "is_correct": false,
+          "feedback": "El fragmento no evita la sensación: el olor a gasolina es un dato sensorial central de la escena."
+        },
+        {
+          "letter": "D",
+          "text": "Resulta más fácil de traducir a otros idiomas.",
+          "is_correct": false,
+          "feedback": "Ningún objetivo del texto apunta a la traducción, y sus dificultades radican en las imágenes, no en el vocabulario."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar una descripción exige sostener un criterio, no expresar una preferencia. Los detalles concretos y sensoriales permiten reconstruir el lugar y, con él, la vida del personaje. Ese criterio explica por qué la enumeración de objetos supera a la adjetivación en la construcción de una atmósfera creíble.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LC-10-2026-W34-la-descripcion-y-el-escenario-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-10-2026-W34-la-descripcion-y-el-escenario-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es el mejor argumento para refutar esa afirmación con los dos textos?",
+      "context": "Un docente del colegio afirma que un dato técnico arruina cualquier texto que hable del río.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el Texto 1 no incluye ningún dato y por eso no puede ser refutado.",
+          "is_correct": false,
+          "feedback": "El Texto 1 incluye cifras expresas, y precisamente su comparación con el Texto 2 es la que refuta la afirmación."
+        },
+        {
+          "letter": "B",
+          "text": "Que solo la novela puede describir el río con datos y el documental no.",
+          "is_correct": false,
+          "feedback": "La restricción entre formatos no aparece en el guion, que combina imagen y dato de manera deliberada."
+        },
+        {
+          "letter": "C",
+          "text": "Que la temperatura de 27 grados contradice la imagen de la lámina de estaño.",
+          "is_correct": false,
+          "feedback": "No hay contradicción: la cifra mide la temperatura y el pH, y la imagen describe el aspecto; son dimensiones distintas."
+        },
+        {
+          "letter": "D",
+          "text": "Que en el Texto 2 el dato técnico y la frase descriptiva se refuerzan, porque uno da precisión y el otro da sensación.",
+          "is_correct": true,
+          "feedback": "Correcto, la conjunción de las dos capas en un mismo guion demuestra que la medida puede mejorar la imagen y no destruirla."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar un juicio externo exige confrontarlo con la evidencia de los textos y no con opiniones previas. El guion demuestra que la medida y la sensación ocupan lugares distintos y se complementan. Ese razonamiento sostiene una postura crítica frente a la idea de que el dato destruye la descripción literaria.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-10-2026-W34-la-descripcion-y-el-escenario-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}
