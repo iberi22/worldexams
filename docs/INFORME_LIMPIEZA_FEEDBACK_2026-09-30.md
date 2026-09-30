@@ -93,7 +93,13 @@ Restauré el archivo desde `102d6469` y cambié solo la función de feedback.
 
 Un "borrar packs no regenerados" eliminó **2.499 packs legítimos** de otros generadores (el repo tiene 5.127 packs y el generador solo reproduce 2.628). Revertido de inmediato. La regla correcta es por procedencia: borrar solo el pack cuyo país/grado/semana corresponde a un bundle eliminado en *este* cambio. Así se retiraron exactamente 306.
 
----
+### 4.5 Un agente encontró un bug que yo introduje
+
+Al publicar los 10 packs rescatados (`cb6b6d8c5`), el generador los dejó en **8 preguntas en vez de 16**. La causa no era mi rescate: `generate-static-packs.js` reconstruía cada pack desde cero y, con `--changed-only`, escribía ese objeto parcial encima del pack ya publicado. Como una clave de pack es `(país, semana, grado, materia)` y varios bundles legítimos comparten clave, cualquier push que tocara un bundle borraba en silencio a sus hermanos.
+
+**Esto no era hipotético:** el pre-push hook corre `--all-weekly --changed-only --api-only` en cada push que toca un bundle, así que cada semana con varios bundles estaba a un cambio de perder la mitad de sus preguntas. Lo detectó y corrigió un agente en `25424d1a2` (#1590), que regeneró y restauró las 80 preguntas. Los 10 packs volvieron a 16 y el generador ahora siembra desde el JSON en disco.
+
+**Lección:** publicar artefactos derivados usando una bandera incremental es una trampa: la bandera dice *qué revisar*, no *cómo fusionar*. Un artefacto derivado nunca debe reconstruirse desde cero con un filtro parcial.
 
 ## 5. Rescate de trabajo que estaba a punto de perderse
 
