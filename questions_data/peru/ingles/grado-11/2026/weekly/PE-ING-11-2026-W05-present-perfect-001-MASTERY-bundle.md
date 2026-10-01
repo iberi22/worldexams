@@ -181,7 +181,7 @@ Como 'in 2018' es un tiempo cerrado, la respuesta va en pasado simple: 'went'. C
 **Contexto:** Consolidacion del presente perfecto, Huancayo.
 
 ### Enunciado
-Which sentence is grammatically correct?
+Which sentence forms the present perfect correctly?
 
 ### Opciones
 - [ ] A) They have already submit the forms.

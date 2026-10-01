@@ -155,10 +155,10 @@ A probe is an unmanned exploratory spacecraft that transmits information from ou
 Data from the James Webb Telescope is being analyzed by astronomers around the globe.
 
 ### Opciones
-- [ ] A) is analyzing <!-- feedback: Incorrect. Active voice. -->
+- [ ] A) is analyzing <!-- feedback: "Is analyzing" is the active voice: it would make the data the thing doing the analyzing. The astronomers are the ones analysing, so the sentence needs the passive. -->
 - [x] C) is being analyzed <!-- feedback: Correct. Present continuous passive for an ongoing process. -->
 - [ ] B) analyzed <!-- feedback: Incorrect. Past simple. -->
-- [ ] D) have analyzed <!-- feedback: Incorrect. Active voice. -->
+- [ ] D) have analyzed <!-- feedback: "Have analyzed" is the active voice and a perfect form; here the analysis is still under way, and the data is what receives the analysis. -->
 
 ### Explicacion Pedagogica
 The present continuous passive describes the current and continuous scientific work being done.

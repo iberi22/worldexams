@@ -137,13 +137,13 @@ The student distinguishes between nouns that can take a plural form and those th
 
 ### Opciones
 - [ ] A) a / an / some
-  <!-- feedback: Incorrect. Bread is uncountable. -->
+  <!-- feedback: Bread is uncountable, so 'a bread' is not possible; it needs 'some bread'. -->
 - [x] B) some / an / some
-  <!-- feedback: Correct! Some bread (uncountable), an egg (singular countable), some milk (uncountable). -->
+  <!-- feedback: Correct. 'Some' fits the uncountable bread, 'an' fits the singular countable egg, and 'some' fits the uncountable milk. -->
 - [ ] C) some / a / a
-  <!-- feedback: Incorrect. Egg starts with a vowel and milk is uncountable. -->
+  <!-- feedback: 'A' cannot go before 'egg' here because the singular countable egg needs 'an', and milk is uncountable so it cannot take 'a'. -->
 - [ ] D) a / some / some
-  <!-- feedback: Incorrect. Bread is uncountable. -->
+  <!-- feedback: Bread is uncountable, so the first blank cannot be 'a'; it has to be 'some'. -->
 
 ### Explicacion Pedagogica
 The student applies knowledge of a/an/some to a mixture of countable and uncountable nouns.
@@ -213,13 +213,13 @@ Which of the following is INCORRECT?
 
 ### Opciones
 - [ ] A) A piece of bread.
-  <!-- feedback: Correct structure. -->
+  <!-- feedback: 'A piece of' is the standard way to count bread, so the structure is correct. -->
 - [ ] B) A glass of water.
-  <!-- feedback: Correct structure. -->
+  <!-- feedback: 'A glass of' is the standard container word used to count water, so the structure is correct. -->
 - [x] C) A milk.
-  <!-- feedback: Incorrect! You cannot use "a" with an uncountable noun like milk without a container word. -->
+  <!-- feedback: Correct. 'Milk' is uncountable, so 'a milk' is wrong; English needs a container word such as 'a glass of milk'. -->
 - [ ] D) A bottle of milk.
-  <!-- feedback: Correct structure. -->
+  <!-- feedback: 'A bottle of' is the standard container word used to count milk, so the structure is correct. -->
 
 ### Explicacion Pedagogica
 The student analyzes how to correctly quantify uncountable nouns using container or portion words.

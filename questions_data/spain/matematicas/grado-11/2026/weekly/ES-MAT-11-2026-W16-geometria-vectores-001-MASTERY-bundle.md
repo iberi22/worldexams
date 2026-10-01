@@ -281,10 +281,10 @@ Resolvemos la ecuación del producto escalar igualada a cero. Es un procedimient
 ¿Cuál es el coseno del ángulo $\alpha$ que forman estos dos vectores?
 
 ### Opciones
-- [ ] A) $1/2$ <!-- feedback: Valor incorrecto. -->
-- [x] B) $1/\sqrt{2}$ <!-- feedback: Correcto. $\cos(\alpha) = \frac{\vec{u} \cdot \vec{v}}{|\vec{u}| |\vec{v}|} = \frac{6}{3 \cdot \sqrt{8}} = \frac{6}{3 \cdot 2\sqrt{2}} = 1/\sqrt{2}$. -->
-- [ ] C) $1$ <!-- feedback: Solo si fueran paralelos y del mismo sentido. -->
-- [ ] D) $\sqrt{3}/2$ <!-- feedback: Valor incorrecto. -->
+- [ ] A) $1/2$ <!-- feedback: $\cos \alpha = 1/2$ correspondería a un ángulo de $60^\circ$, pero el producto escalar da $\alpha = 45^\circ$. -->
+- [x] B) $1/\sqrt{2}$ <!-- feedback: $\cos(\alpha) = \frac{\vec{u} \cdot \vec{v}}{|\vec{u}||\vec{v}|} = \frac{6}{3 \cdot 2\sqrt{2}} = \frac{1}{\sqrt{2}}$, que es el coseno de $45^\circ$. -->
+- [ ] C) $1$ <!-- feedback: El coseno vale 1 sólo si los vectores son paralelos y del mismo sentido; aquí el producto escalar es menor que el producto de los módulos. -->
+- [ ] D) $\sqrt{3}/2$ <!-- feedback: $\sqrt{3}/2$ es el coseno de $30^\circ$, y este ángulo mide $45^\circ$. -->
 
 ### Explicacion Pedagogica
 El producto escalar permite calcular ángulos. El coseno del ángulo es el cociente entre el producto escalar de los vectores y el producto de sus módulos.

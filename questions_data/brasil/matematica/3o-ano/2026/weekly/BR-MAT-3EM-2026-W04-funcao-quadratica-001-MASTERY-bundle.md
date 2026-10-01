@@ -317,8 +317,8 @@ O gráfico de $f(x) = ax^2 + bx + c$ tem vértice em $(2, -1)$ e passa por $(0, 
 ### Opciones
 - [ ] A) $a = -1$ <!-- feedback: Se a fosse negativo, a parábola abriria para baixo e não passaria em y=3 vindo de y=-1. -->
 - [x] B) $a = 1$ <!-- feedback: Usando a forma canônica y = a(x-h)² + k: 3 = a(0-2)² - 1 => 3 = 4a - 1 => 4a = 4 => a = 1. -->
-- [ ] C) $a = 2$ <!-- feedback: Incorreto ao resolver a equação do ponto dado. -->
-- [ ] D) $a = 0,5$ <!-- feedback: Incorreto ao resolver a equação do ponto dado. -->
+- [ ] C) $a = 2$ <!-- feedback: Substituindo (0, 3) na forma canônica: 3 = a(0-2)² - 1 dá 4 = 4a, logo a = 1. Com a = 2, a parábola chega a y = 7 em x = 0, e não a y = 3. -->
+- [ ] D) $a = 0,5$ <!-- feedback: Substituindo (0, 3) na forma canônica: 3 = a(0-2)² - 1 dá 4 = 4a, logo a = 1. O valor 0,5 corresponderia a y = -1/4 no ponto x = 0. -->
 
 ### Explicacion Pedagogica
 Usamos a forma canônica da função quadrática: $f(x) = a(x - x_v)^2 + y_v$. Substituindo o vértice $(2, -1)$: $f(x) = a(x - 2)^2 - 1$. Agora usamos o ponto $(0, 3)$ para achar $a$: $3 = a(0 - 2)^2 - 1 \Rightarrow 3 = 4a - 1 \Rightarrow 4 = 4a \Rightarrow a = 1$.

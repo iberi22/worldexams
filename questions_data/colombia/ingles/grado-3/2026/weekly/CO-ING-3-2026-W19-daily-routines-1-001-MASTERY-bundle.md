@@ -169,7 +169,7 @@ Which sentence uses the present simple correctly with a plural subject?
   <!-- feedback: 'Are' plus the bare verb 'play' is not a valid combination. -->
 
 ### Explicacion Pedagogica
-Un sujeto plural no lleva -s en el presente simple; el verbo aparece en forma base.
+Un sujeto plural no lleva -s en el presente simple; el verbo aparece en forma base. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.
 
 ---
 

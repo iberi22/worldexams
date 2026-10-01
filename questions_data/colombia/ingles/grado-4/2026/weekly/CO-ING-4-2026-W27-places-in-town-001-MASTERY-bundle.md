@@ -35,10 +35,10 @@ Este bundle evalúa conceptos de places in town en inglés, nivel CEFR A1 para g
 I go to the ________ to study.
 
 ### Opciones
-- [x] A) school <!-- feedback: Correct! -->
-- [ ] B) park <!-- feedback: No. -->
-- [ ] C) cinema <!-- feedback: No. -->
-- [ ] D) zoo <!-- feedback: No. -->
+- [x] A) school <!-- feedback: You go to school to study. -->
+- [ ] B) park <!-- feedback: A park is for playing and relaxing, not for lessons. -->
+- [ ] C) cinema <!-- feedback: The cinema is where films are shown. -->
+- [ ] D) zoo <!-- feedback: The zoo is where wild animals are kept for people to see. -->
 
 ### Explicación Pedagógica
 This question evaluates remember skills regarding places in town at the CEFR A1 level.
@@ -56,10 +56,10 @@ This question evaluates remember skills regarding places in town at the CEFR A1 
 I go to the ________ when I am sick.
 
 ### Opciones
-- [ ] A) bank <!-- feedback: No. -->
-- [x] B) hospital <!-- feedback: Correct! -->
-- [ ] C) supermarket <!-- feedback: No. -->
-- [ ] D) library <!-- feedback: No. -->
+- [ ] A) bank <!-- feedback: A bank holds your money; it is not where you are treated for illness. -->
+- [x] B) hospital <!-- feedback: You go to the hospital when you are sick. -->
+- [ ] C) supermarket <!-- feedback: A supermarket sells food, and you visit it to shop, not to be treated. -->
+- [ ] D) library <!-- feedback: A library lends books, and it is not a place of medical care. -->
 
 ### Explicación Pedagógica
 This question evaluates understand skills regarding places in town at the CEFR A1 level.
@@ -77,10 +77,10 @@ This question evaluates understand skills regarding places in town at the CEFR A
 I buy food at the ________.
 
 ### Opciones
-- [ ] A) church <!-- feedback: No. -->
-- [ ] B) gym <!-- feedback: No. -->
-- [x] C) supermarket <!-- feedback: Correct! -->
-- [ ] D) police station <!-- feedback: No. -->
+- [ ] A) church <!-- feedback: A church is a place of worship, not a place where food is sold. -->
+- [ ] B) gym <!-- feedback: A gym is for exercise, not for buying groceries. -->
+- [x] C) supermarket <!-- feedback: You buy food at the supermarket. -->
+- [ ] D) police station <!-- feedback: A police station is where the police work, not where groceries are sold. -->
 
 ### Explicación Pedagógica
 This question evaluates apply skills regarding places in town at the CEFR A1 level.
@@ -98,10 +98,10 @@ This question evaluates apply skills regarding places in town at the CEFR A1 lev
 I watch movies at the ________.
 
 ### Opciones
-- [ ] A) bakery <!-- feedback: No. -->
-- [ ] B) pharmacy <!-- feedback: No. -->
-- [ ] C) museum <!-- feedback: No. -->
-- [x] D) cinema <!-- feedback: Correct! -->
+- [ ] A) bakery <!-- feedback: A bakery sells bread and cakes; films are not shown there. -->
+- [ ] B) pharmacy <!-- feedback: A pharmacy sells medicines. -->
+- [ ] C) museum <!-- feedback: A museum shows old objects and paintings, not films. -->
+- [x] D) cinema <!-- feedback: You watch movies at the cinema. -->
 
 ### Explicación Pedagógica
 This question evaluates analyze skills regarding places in town at the CEFR A1 level.
@@ -119,10 +119,10 @@ This question evaluates analyze skills regarding places in town at the CEFR A1 l
 I play with my friends at the ________.
 
 ### Opciones
-- [x] A) park <!-- feedback: Correct! -->
-- [ ] B) office <!-- feedback: No. -->
-- [ ] C) factory <!-- feedback: No. -->
-- [ ] D) station <!-- feedback: No. -->
+- [x] A) park <!-- feedback: You play with your friends at the park. -->
+- [ ] B) office <!-- feedback: An office is a place where people work, not where children play outside. -->
+- [ ] C) factory <!-- feedback: A factory makes things with machines. -->
+- [ ] D) station <!-- feedback: A station is a stop for trains or buses. -->
 
 ### Explicación Pedagógica
 This question evaluates evaluate skills regarding places in town at the CEFR A1 level.
@@ -140,10 +140,10 @@ This question evaluates evaluate skills regarding places in town at the CEFR A1 
 I buy bread at the ________.
 
 ### Opciones
-- [ ] A) pet shop <!-- feedback: No. -->
-- [x] B) bakery <!-- feedback: Correct! -->
-- [ ] C) shoe shop <!-- feedback: No. -->
-- [ ] D) toy shop <!-- feedback: No. -->
+- [ ] A) pet shop <!-- feedback: A pet shop sells animals and their food, not bread. -->
+- [x] B) bakery <!-- feedback: You buy bread at the bakery. -->
+- [ ] C) shoe shop <!-- feedback: A shoe shop sells footwear. -->
+- [ ] D) toy shop <!-- feedback: A toy shop sells toys, not food. -->
 
 ### Explicación Pedagógica
 This question evaluates apply skills regarding places in town at the CEFR A1 level.
@@ -161,10 +161,10 @@ This question evaluates apply skills regarding places in town at the CEFR A1 lev
 I borrow books from the ________.
 
 ### Opciones
-- [ ] A) stadium <!-- feedback: No. -->
-- [ ] B) airport <!-- feedback: No. -->
-- [x] C) library <!-- feedback: Correct! -->
-- [ ] D) bookstore <!-- feedback: No. -->
+- [ ] A) stadium <!-- feedback: A stadium is where sports matches are played. -->
+- [ ] B) airport <!-- feedback: An airport is where planes take off and land. -->
+- [x] C) library <!-- feedback: You borrow books from the library. -->
+- [ ] D) bookstore <!-- feedback: A bookstore sells books to buy; a library lends them. -->
 
 ### Explicación Pedagógica
 This question evaluates understand skills regarding places in town at the CEFR A1 level.
@@ -182,10 +182,10 @@ This question evaluates understand skills regarding places in town at the CEFR A
 I save my money in the ________.
 
 ### Opciones
-- [ ] A) restaurant <!-- feedback: No. -->
-- [ ] B) hotel <!-- feedback: No. -->
-- [ ] C) pool <!-- feedback: No. -->
-- [x] D) bank <!-- feedback: Correct! -->
+- [ ] A) restaurant <!-- feedback: A restaurant is where you go to eat a meal, not to keep savings. -->
+- [ ] B) hotel <!-- feedback: A hotel is where you stay when you travel. -->
+- [ ] C) pool <!-- feedback: A pool is where you swim. -->
+- [x] D) bank <!-- feedback: You save your money in the bank. -->
 
 ### Explicación Pedagógica
 This question evaluates remember skills regarding places in town at the CEFR A1 level.

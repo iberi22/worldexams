@@ -75,8 +75,8 @@ Which colors do you see in the three horizontal stripes?
 
 ### Opciones
 - [x] A) Light blue and white <!-- feedback: Correct. The Argentine flag has two light blue stripes and one white stripe. -->
-- [ ] B) Blue and red <!-- feedback: Incorrect. These are not the colors of the Argentine flag. -->
-- [ ] C) Yellow and green <!-- feedback: Incorrect. These are not the colors of the Argentine flag. -->
+- [ ] B) Blue and red <!-- feedback: Blue and red are not part of the Argentine flag; it uses light blue and white only. -->
+- [ ] C) Yellow and green <!-- feedback: Yellow and green belong to other flags; the Argentine one has no yellow or green stripe. -->
 - [ ] D) Red and white <!-- feedback: Incorrect. These are not the stripes colors. -->
 
 ### Explicación Pedagógica

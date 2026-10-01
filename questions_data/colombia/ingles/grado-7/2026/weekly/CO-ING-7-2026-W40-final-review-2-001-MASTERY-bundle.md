@@ -41,9 +41,9 @@ What is the opposite of "shy"?
 - [x] A) Outgoing
   <!-- feedback: Correct! Outgoing refers to someone who is friendly and socially confident. -->
 - [ ] C) Lazy
-  <!-- feedback: Incorrect. -->
+  <!-- feedback: Lazy describes unwillingness to work, and a shy person can be either hard-working or lazy, so it is not the opposite of 'shy'. -->
 - [ ] D) Small
-  <!-- feedback: Incorrect. -->
+  <!-- feedback: Small is about size. 'Shy' is about a person's manner with other people, so a size word cannot be its opposite. -->
 
 ### Explicacion Pedagogica
 The student identifies basic antonyms for personality adjectives.
@@ -118,7 +118,7 @@ The student understands the correct quantifier for uncountable nouns in a nutrit
 - [ ] B) most high
   <!-- feedback: Incorrect. "High" is a short adjective. -->
 - [ ] C) as high
-  <!-- feedback: Incorrect. -->
+  <!-- feedback: 'As high' introduces a comparison, as in 'as high as Chimborazo'. The blank after 'the' needs the superlative, which is what 'the highest' is. -->
 
 ### Explicacion Pedagogica
 The student understands the correct superlative form for a short adjective.
@@ -139,11 +139,11 @@ The student understands the correct superlative form for a short adjective.
 - [ ] B) opposite
   <!-- feedback: Incorrect. "Opposite" usually refers to one thing. -->
 - [ ] C) behind
-  <!-- feedback: Incorrect. -->
+  <!-- feedback: 'Behind' says one thing is at the back of another, which would put the bakery to one side, not in the middle. -->
 - [x] A) between
   <!-- feedback: Correct! "Between" indicates a position in the middle of two points. -->
 - [ ] D) under
-  <!-- feedback: Incorrect. -->
+  <!-- feedback: 'Under' says one thing is below another, as in 'under the table', so it describes a vertical position rather than one between two points. -->
 
 ### Explicacion Pedagogica
 The student applies knowledge of prepositions of place to describe city layouts.

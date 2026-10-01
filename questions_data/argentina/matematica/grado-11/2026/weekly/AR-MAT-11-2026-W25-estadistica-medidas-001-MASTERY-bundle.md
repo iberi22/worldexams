@@ -131,7 +131,7 @@ El rango es la medida de dispersión más simple y se calcula restando el valor 
 
 ### Opciones
 - [ ] A) 15 <!-- feedback: Incorrecto. Olvidó sumar todos los valores o dividió mal. -->
-- [x] C) 17,5 <!-- feedback: Correcto. (10 + 20 + 15 + 25) / 4 = 70 / 4 = 17,5. -->
+- [x] C) 17,5 <!-- feedback: El promedio se obtiene sumando los cuatro valores y dividiendo por la cantidad de partidos: (10 + 20 + 15 + 25) = 70 y 70 / 4 = 17,5. -->
 - [ ] B) 18 <!-- feedback: Incorrecto. Error de redondeo o suma. -->
 - [ ] D) 20 <!-- feedback: Incorrecto. No es el promedio. -->
 
@@ -437,7 +437,7 @@ La varianza es una suma de cuadrados, por lo que siempre es mayor o igual a cero
 
 ### Opciones
 - [ ] B) Serán menores a 150. <!-- feedback: Incorrecto. En distribuciones simétricas coinciden. -->
-- [ ] C) La mediana será 150 y la moda mayor. <!-- feedback: Incorrecto. -->
+- [ ] C) La mediana será 150 y la moda mayor. <!-- feedback: En una distribución simétrica y unimodal la moda también es 150, así que este valor mayor es incorrecto. -->
 - [x] A) Ambas serán iguales a 150. <!-- feedback: Correcto. En distribuciones simétricas unimodales (como la Normal), las tres medidas de tendencia central coinciden. -->
 - [ ] D) No se puede determinar sin los datos originales. <!-- feedback: Incorrecto. Es una propiedad de la forma de la distribución. -->
 

@@ -55,10 +55,10 @@ Cultural diversity is the existence of a variety of cultural or ethnic groups wi
 Cultural exchange programs are being promoted by many universities to broaden students' perspectives.
 
 ### Opciones
-- [ ] A) are promoting <!-- feedback: Incorrect. Active voice. -->
-- [x] B) are being promoted <!-- feedback: Correct. Present continuous passive for an ongoing initiative. -->
-- [ ] C) promoted <!-- feedback: Incorrect. Past simple. -->
-- [ ] D) have promoted <!-- feedback: Incorrect. Active voice. -->
+- [ ] A) are promoting <!-- feedback: Active voice makes the universities the agents doing the promoting, but the sentence describes an initiative that is being carried out on many fronts rather than by one named actor. -->
+- [x] B) are being promoted <!-- feedback: The present continuous passive ('are being promoted') marks an ongoing initiative and keeps the universities in the background, which is how the sentence presents the programme. -->
+- [ ] C) promoted <!-- feedback: 'Promoted' alone is a past participle with no auxiliary, so it cannot form a tense here. -->
+- [ ] D) have promoted <!-- feedback: 'Have promoted' is the present perfect active, which would mean the universities finished the promotion; the promotion is still under way. -->
 
 ### Explicacion Pedagogica
 The present continuous passive describes the active and ongoing effort to support these programs.
@@ -95,10 +95,10 @@ The second conditional describes the imaginary result of a shift in social attit
 A pluralistic society is one where different groups maintain their unique cultural identities while participating in a common social system.
 
 ### Opciones
-- [x] D) pluralistic <!-- feedback: Correct. Pluralism is the coexistence of distinct groups. -->
-- [ ] A) homogeneous <!-- feedback: Incorrect. Homogeneous means all the same. -->
-- [ ] B) isolated <!-- feedback: Incorrect. Groups in this society participate together. -->
-- [ ] C) secret <!-- feedback: Incorrect. -->
+- [x] D) pluralistic <!-- feedback: Pluralistic describes a society in which distinct groups keep their own identities, which is exactly what the definition says. -->
+- [ ] A) homogeneous <!-- feedback: Homogeneous means uniform, with all groups the same, the opposite of maintaining unique identities. -->
+- [ ] B) isolated <!-- feedback: Isolated means separated from one another, while this society has its groups participating in a common system. -->
+- [ ] C) secret <!-- feedback: Nothing in the definition concerns keeping identities hidden; secrecy is not what pluralism requires. -->
 
 ### Explicacion Pedagogica
 'Pluralistic' is the formal term for a society that values and maintains diverse cultural identities.
@@ -135,10 +135,10 @@ Cultural relativism is the principle that a person's beliefs and activities shou
 Inclusion is the practice or policy of providing equal access to opportunities and resources for people who might otherwise be excluded or marginalized.
 
 ### Opciones
-- [ ] B) Exclusion <!-- feedback: Incorrect. The opposite of inclusion. -->
-- [x] A) Inclusion <!-- feedback: Correct. Active effort to involve everyone. -->
-- [ ] C) Isolation <!-- feedback: Incorrect. -->
-- [ ] D) Silence <!-- feedback: Incorrect. -->
+- [ ] B) Exclusion <!-- feedback: Exclusion is the opposite practice: it is the barrier that the definition says inclusion is designed to remove. -->
+- [x] A) Inclusion <!-- feedback: Inclusion is providing equal access to people who might otherwise be left out, which is the practice described. -->
+- [ ] C) Isolation <!-- feedback: Isolation means keeping people apart from one another, which is the effect the definition argues against, not the policy itself. -->
+- [ ] D) Silence <!-- feedback: Silence means saying nothing; the definition is about access to opportunities and resources, not about staying quiet. -->
 
 ### Explicacion Pedagogica
 'Inclusion' is the standard term for the practice of ensuring all groups have equal access and involvement.
@@ -155,10 +155,10 @@ Inclusion is the practice or policy of providing equal access to opportunities a
 She spoke passionately about the importance of embracing diversity in the workplace.
 
 ### Opciones
-- [ ] A) passionate <!-- feedback: Incorrect. Adjective where an adverb is needed. -->
-- [x] D) passionately <!-- feedback: Correct. Adverb modifying the verb 'spoke'. -->
-- [ ] B) passion <!-- feedback: Incorrect. Noun. -->
-- [ ] C) passivity <!-- feedback: Incorrect. Different meaning. -->
+- [ ] A) passionate <!-- feedback: 'Passionate' is an adjective and cannot modify the verb 'spoke' directly in this construction. -->
+- [x] D) passionately <!-- feedback: 'Passionately' is the adverb that says in what manner she spoke, so it is the form the sentence needs. -->
+- [ ] B) passion <!-- feedback: 'Passion' is a noun, so it cannot describe how the verb 'spoke' was performed. -->
+- [ ] C) passivity <!-- feedback: 'Passivity' means being passive, which is the opposite of speaking passionately about something. -->
 
 ### Explicacion Pedagogica
 The adverb 'passionately' describes the manner in which the speaker delivered her message.
@@ -175,10 +175,10 @@ The adverb 'passionately' describes the manner in which the speaker delivered he
 Xenophobia is the dislike of or prejudice against people from other countries.
 
 ### Opciones
-- [ ] A) Philanthropy <!-- feedback: Incorrect. Love of humanity. -->
-- [x] D) Xenophobia <!-- feedback: Correct. Fear or hatred of strangers/foreigners. -->
-- [ ] B) Empathy <!-- feedback: Incorrect. Understanding others. -->
-- [ ] C) Curiosity <!-- feedback: Incorrect. -->
+- [ ] A) Philanthropy <!-- feedback: Philanthropy is love of humanity, the opposite attitude to the prejudice described. -->
+- [x] D) Xenophobia <!-- feedback: Xenophobia means dislike of and prejudice against people from other countries, which matches the definition. -->
+- [ ] B) Empathy <!-- feedback: Empathy is the ability to understand other people's feelings, not a negative attitude towards foreigners. -->
+- [ ] C) Curiosity <!-- feedback: Curiosity is a desire to know or learn about something, which carries no negative judgement. -->
 
 ### Explicacion Pedagogica
 'Xenophobia' is the technical term for the negative social attitude described.
@@ -195,10 +195,10 @@ Xenophobia is the dislike of or prejudice against people from other countries.
 I had never experienced such a vibrant festival before I visited India.
 
 ### Opciones
-- [ ] A) have never experienced <!-- feedback: Incorrect. Present perfect is for past to present. -->
-- [x] D) had never experienced <!-- feedback: Correct. Past perfect for a state before a past point (visiting). -->
-- [ ] B) never experience <!-- feedback: Incorrect. -->
-- [ ] C) experiencing <!-- feedback: Incorrect. -->
+- [ ] A) have never experienced <!-- feedback: The present perfect connects a past action to the present, but the past point here is the visit, so an earlier tense is needed. -->
+- [x] D) had never experienced <!-- feedback: The past perfect sets the speaker's experience before the past moment of visiting India, which is what 'before I visited' requires. -->
+- [ ] B) never experience <!-- feedback: 'Never experience' is the base form with no tense marker, so it cannot fill the verb slot. -->
+- [ ] C) experiencing <!-- feedback: 'Experiencing' is an -ing form and needs a helper verb, which the blank does not have. -->
 
 ### Explicacion Pedagogica
 The past perfect 'had never experienced' establishes the state of the speaker's experience prior to the trip.
@@ -215,10 +215,10 @@ The past perfect 'had never experienced' establishes the state of the speaker's 
 Forced assimilation can lead to the erosion of unique cultural practices and a sense of alienation among minority groups.
 
 ### Opciones
-- [ ] A) empowerment <!-- feedback: Incorrect. Forced assimilation is disempowering. -->
-- [x] C) erosion <!-- feedback: Correct. Erosion means the gradual destruction or diminution of something. -->
-- [ ] B) preservation <!-- feedback: Incorrect. It destroys, doesn't preserve. -->
-- [ ] D) celebration <!-- feedback: Incorrect. -->
+- [ ] A) empowerment <!-- feedback: Empowerment means giving people power and control, but forced assimilation takes their distinct practices away. -->
+- [x] C) erosion <!-- feedback: Erosion is the gradual wearing down of something, which matches the slow loss of cultural practices under pressure. -->
+- [ ] B) preservation <!-- feedback: Preservation means keeping something safe; the sentence describes what happens to those practices, not their protection. -->
+- [ ] D) celebration <!-- feedback: Celebration is marking something with joy, and nothing here marks the practices as worth celebrating; they are being lost. -->
 
 ### Explicacion Pedagogica
 'Erosion' metaphorically describes the gradual loss of cultural elements due to external pressure.
@@ -235,10 +235,10 @@ Forced assimilation can lead to the erosion of unique cultural practices and a s
 Tolerance is the ability or willingness to tolerate something, in particular the existence of opinions or behavior that one does not necessarily agree with.
 
 ### Opciones
-- [ ] A) Hatred <!-- feedback: Incorrect. -->
-- [x] B) Tolerance <!-- feedback: Correct. Acceptance of difference. -->
-- [ ] C) Envy <!-- feedback: Incorrect. -->
-- [ ] D) Greed <!-- feedback: Incorrect. -->
+- [ ] A) Hatred <!-- feedback: Hatred is a strong dislike, which is the opposite of being willing to accept opinions one disagrees with. -->
+- [x] B) Tolerance <!-- feedback: Tolerance is the willingness to accept the existence of opinions or behaviour one does not share, exactly as defined. -->
+- [ ] C) Envy <!-- feedback: Envy is wanting what someone else has; the definition is about accepting difference, not about wanting others' possessions. -->
+- [ ] D) Greed <!-- feedback: Greed is wanting to acquire more than one needs, which is unrelated to tolerating other people's views. -->
 
 ### Explicacion Pedagogica
 'Tolerance' is the foundational value for peaceful coexistence in a diverse society.
@@ -275,10 +275,10 @@ The future perfect indicates that the state of interconnectedness will be an acc
 Cultivating empathy allows us to bridge the gap between ourselves and those from different cultural backgrounds.
 
 ### Opciones
-- [x] C) bridge <!-- feedback: Correct. To bridge a gap means to connect two different things. -->
-- [ ] A) widen <!-- feedback: Incorrect. We want to close the gap. -->
-- [ ] B) ignore <!-- feedback: Incorrect. -->
-- [ ] D) create <!-- feedback: Incorrect. -->
+- [x] C) bridge <!-- feedback: To bridge a gap is to connect two sides that are apart, which is what cultivating empathy does between groups. -->
+- [ ] A) widen <!-- feedback: To widen a gap makes it larger, while the sentence says empathy lets us close the distance. -->
+- [ ] B) ignore <!-- feedback: To ignore is to refuse to pay attention, which cannot bring anyone closer to anyone else. -->
+- [ ] D) create <!-- feedback: To create a gap means to open a distance, the opposite of the connection described. -->
 
 ### Explicacion Pedagogica
 'Bridge' is the standard metaphorical verb for connecting different groups or closing a social gap.
@@ -315,10 +315,10 @@ The second conditional describes how a hypothetical shift in values would result
 The author concludes that embracing cultural diversity is not just an ethical choice but a practical necessity in our globalized world.
 
 ### Opciones
-- [ ] A) optional <!-- feedback: Incorrect. Author says it's a necessity. -->
-- [x] D) necessity <!-- feedback: Correct. Necessity means the fact of being required or indispensable. -->
-- [ ] B) burden <!-- feedback: Incorrect. Author sees it as a positive requirement. -->
-- [ ] C) secret <!-- feedback: Incorrect. -->
+- [ ] A) optional <!-- feedback: Calling it optional contradicts the author, who says it is required, not merely a choice. -->
+- [x] D) necessity <!-- feedback: A necessity is something that is needed or indispensable, matching the author's claim about a globalized world. -->
+- [ ] B) burden <!-- feedback: A burden is a heavy, unwelcome duty, but the author presents diversity positively rather than as an encumbrance. -->
+- [ ] C) secret <!-- feedback: There is nothing hidden about the conclusion; the author states the judgement openly. -->
 
 ### Explicacion Pedagogica
 'Necessity' correctly identify the author's strong evaluation of diversity as essential for modern life.
@@ -335,10 +335,10 @@ The author concludes that embracing cultural diversity is not just an ethical ch
 Stereotypes are often based on ignorance and can lead to unfair treatment of individuals.
 
 ### Opciones
-- [ ] A) Facts <!-- feedback: Incorrect. -->
-- [x] B) Stereotypes <!-- feedback: Correct. Oversimplified and often biased ideas. -->
-- [ ] C) Truths <!-- feedback: Incorrect. -->
-- [ ] D) News <!-- feedback: Incorrect. -->
+- [ ] A) Facts <!-- feedback: Facts are verified pieces of information; the sentence describes ideas formed from ignorance, which is the opposite. -->
+- [x] B) Stereotypes <!-- feedback: Stereotypes are oversimplified and biased generalizations about groups, which is what leads to unfair treatment. -->
+- [ ] C) Truths <!-- feedback: Truths are accurate statements of fact, not the reductive ideas the sentence is warning about. -->
+- [ ] D) News <!-- feedback: News is information reported from events; it is not a term for the biased generalizations described. -->
 
 ### Explicacion Pedagogica
 'Stereotypes' is the term for the reductive generalizations that social movements work to overcome.
@@ -375,10 +375,10 @@ I wish everyone would appreciate the beauty of different cultural traditions.
 Cultural hybridity involves the blending of different cultural elements to create something new and unique.
 
 ### Opciones
-- [ ] B) Isolation <!-- feedback: Incorrect. -->
-- [x] A) blending <!-- feedback: Correct. To blend means to mix or combine. -->
-- [ ] C) destruction <!-- feedback: Incorrect. It's a creative process. -->
-- [ ] D) separation <!-- feedback: Incorrect. -->
+- [ ] B) Isolation <!-- feedback: Isolation means keeping cultures apart, whereas hybridity is about combining them. -->
+- [x] A) blending <!-- feedback: Blending is mixing different elements into something new, which is what cultural hybridity involves. -->
+- [ ] C) destruction <!-- feedback: Destruction would end the elements rather than combine them, and the definition describes a creative result. -->
+- [ ] D) separation <!-- feedback: Separation means keeping things apart, the opposite of the blending that defines hybridity. -->
 
 ### Explicacion Pedagogica
 'Blending' correctly describes the creative mixing that characterizes cultural hybridity.
@@ -395,10 +395,10 @@ Cultural hybridity involves the blending of different cultural elements to creat
 The educator advised that students engage with cultures different from their own.
 
 ### Opciones
-- [x] A) engage <!-- feedback: Correct. Subjunctive base form after 'advised'. -->
-- [ ] B) engages <!-- feedback: Incorrect. -->
-- [ ] C) to engage <!-- feedback: Incorrect. Doesn't fit 'that' clause. -->
-- [ ] D) engaging <!-- feedback: Incorrect. -->
+- [x] A) engage <!-- feedback: After 'advised that' the subjunctive takes the base form, so the verb appears as 'engage'. -->
+- [ ] B) engages <!-- feedback: 'Engages' is the third-person form, but a subjunctive clause does not agree with the subject in this way. -->
+- [ ] C) to engage <!-- feedback: 'To engage' would need the bare infinitive marker after 'advised', and the sentence uses 'that', which takes a full clause. -->
+- [ ] D) engaging <!-- feedback: 'Engaging' is a participle and would need 'should be' or a relative clause; it cannot fill this bare position. -->
 
 ### Explicacion Pedagogica
 The base form 'engage' is used in the subjunctive mood after verbs of advice like 'advise'.
@@ -415,10 +415,10 @@ The base form 'engage' is used in the subjunctive mood after verbs of advice lik
 Ultimately, our diversity is a source of strength that allows us to approach challenges from many different perspectives.
 
 ### Opciones
-- [x] A) source of strength <!-- feedback: Correct. Something that provides power or support. -->
-- [ ] B) reason for conflict <!-- feedback: Incorrect. While it can cause conflict, the author frames it positively as 'strength'. -->
-- [ ] C) burden to society <!-- feedback: Incorrect. Negative. -->
-- [ ] D) barrier to progress <!-- feedback: Incorrect. It helps progress by adding perspectives. -->
+- [x] A) source of strength <!-- feedback: A source of strength is what provides power or support, which is how the sentence presents diversity. -->
+- [ ] B) reason for conflict <!-- feedback: It can be read as reason for conflict, but the author deliberately frames it positively as 'strength'. -->
+- [ ] C) burden to society <!-- feedback: A burden to society is a heavy negative cost, which contradicts the positive framing of the sentence. -->
+- [ ] D) barrier to progress <!-- feedback: A barrier to progress blocks progress; diversity adds perspectives that help solve problems instead. -->
 
 ### Explicacion Pedagogica
 'Source of strength' is a common positive evaluation of the role of diversity in a healthy society.

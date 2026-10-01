@@ -242,7 +242,7 @@ Resolva a inequação exponencial: $(\frac{1}{2})^x < \frac{1}{8}$.
 - [ ] A) $x < 3$ <!-- feedback: Cuidado: ao lidar com bases entre 0 e 1, a ordem da desigualdade se inverte ao comparar expoentes. -->
 - [x] B) $x > 3$ <!-- feedback: (1/2)^x < (1/2)³. Como a base é menor que 1, x deve ser maior que 3. -->
 - [ ] C) $x > 4$ <!-- feedback: O valor comparativo correto é 3, pois 2³ = 8. -->
-- [ ] D) $x < -3$ <!-- feedback: Incorreto. -->
+- [ ] D) $x < -3$ <!-- feedback: Como a base 1/2 é menor que 1, a desigualdade inverte o sentido e vale x > 3, e não x < −3. -->
 
 ### Explicacion Pedagogica
 Escrevemos ambos os lados na mesma base: $(\frac{1}{2})^x < (\frac{1}{2})^3$. Como a base $1/2$ está entre 0 e 1, a função é decrescente. Isso significa que, para o valor da função ser menor, o expoente deve ser maior: $x > 3$.
@@ -372,8 +372,8 @@ A base é maior que 1, então a função cresce com o aumento do expoente. O exp
 Determine o conjunto solução da inequação: $2^{x^2 - 4} > (\frac{1}{2})^{x - 2}$.
 
 ### Opciones
-- [ ] A) $x > 2$ <!-- feedback: Esta é apenas uma parte da solução. -->
-- [ ] B) $x < -3$ <!-- feedback: Esta é apenas uma parte da solução. -->
+- [ ] A) $x > 2$ <!-- feedback: x > 2 é só uma das partes da solução. Como a parábola x² + x - 6 é positiva fora das raízes, também vale todo x < -3. -->
+- [ ] B) $x < -3$ <!-- feedback: x < -3 é apenas metade da solução: a desigualdade x² + x - 6 > 0 também é satisfeita para x > 2. -->
 - [x] D) $x < -3$ ou $x > 2$ <!-- feedback: 2^(x²-4) > 2^{-(x-2)} => x² - 4 > -x + 2 => x² + x - 6 > 0. Raízes -3 e 2. Parábola para cima, positiva fora das raízes. -->
 - [ ] C) $-3 < x < 2$ <!-- feedback: Este é o intervalo onde a expressão quadrática é negativa. -->
 

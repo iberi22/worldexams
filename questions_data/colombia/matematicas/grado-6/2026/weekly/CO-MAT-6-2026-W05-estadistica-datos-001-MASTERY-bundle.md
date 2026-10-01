@@ -73,13 +73,13 @@ Las variables cualitativas representan características no numéricas.
 Las notas de un estudiante son 4, 3, 5 y 2. ¿Cuál es su promedio?
 ### Opciones
 - [x] C) 3.5.
-  <!-- feedback: Correcto. $(4 + 3 + 5 + 2)/4 = 3.5$. -->
+  <!-- feedback: El promedio se obtiene dividiendo la suma entre la cantidad de datos: $(4+3+5+2)/4 = 14/4 = 3.5$. -->
 - [ ] A) 14.
-  <!-- feedback: Incorrecto. Esa es la suma, no el promedio. -->
+  <!-- feedback: El promedio es $3.5$; el valor $4$ correspondería a dividir por $3.5$ en lugar de por $4$. -->
 - [ ] B) 4.
-  <!-- feedback: Incorrecto. Aproximaste. -->
+  <!-- feedback: Si sumas mal y obtienes un total menor, el cociente queda por debajo del promedio real de $3.5$. -->
 - [ ] D) 3.
-  <!-- feedback: Incorrecto. No promediaste correctamente. -->
+  <!-- feedback: El promedio es $3.5$, no $3$: al dividir $14$ entre $4$ el resultado no baja de $3.5$. -->
 ### Explicacion Pedagogica
 La media aritmética se calcula sumando los datos y dividiendo por la cantidad.
 

@@ -36,10 +36,10 @@ creador: "Jules-Agent"
 My mother's brother is my ________.
 
 ### Opciones
-- [x] A) uncle <!-- feedback: Correct! Well done. -->
-- [ ] B) grandfather <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] C) nephew <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] D) aunt <!-- feedback: Incorrect. Please review the topic. -->
+- [x] A) uncle <!-- feedback: Your mother's brother is your uncle. -->
+- [ ] B) grandfather <!-- feedback: A grandfather is your parent's father, two generations above you, not your mother's brother. -->
+- [ ] C) nephew <!-- feedback: A nephew is the son of your sibling, a generation below you. -->
+- [ ] D) aunt <!-- feedback: An aunt is your parent's sister; your mother's brother is her male sibling, so he is your uncle. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to remember the topic of Review: Family and Descriptions at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
@@ -58,10 +58,10 @@ This question evaluates the student's ability to remember the topic of Review: F
 My sister is my parents' ________.
 
 ### Opciones
-- [ ] A) niece <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] B) cousin <!-- feedback: Incorrect. Please review the topic. -->
-- [x] C) daughter <!-- feedback: Correct! Well done. -->
-- [ ] D) son <!-- feedback: Incorrect. Please review the topic. -->
+- [ ] A) niece <!-- feedback: A niece is the daughter of your brother or sister. -->
+- [ ] B) cousin <!-- feedback: A cousin is the child of your uncle or aunt, not of your parents. -->
+- [x] C) daughter <!-- feedback: Your sister is your parents' daughter. -->
+- [ ] D) son <!-- feedback: 'Son' is the word for a boy, but your sister is a girl. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to remember the topic of Review: Family and Descriptions at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
@@ -80,10 +80,10 @@ This question evaluates the student's ability to remember the topic of Review: F
 My father's father is my ________.
 
 ### Opciones
-- [ ] A) grandmother <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] B) brother <!-- feedback: Incorrect. Please review the topic. -->
-- [x] C) grandfather <!-- feedback: Correct! Well done. -->
-- [ ] D) uncle <!-- feedback: Incorrect. Please review the topic. -->
+- [ ] A) grandmother <!-- feedback: A grandmother is the mother of your father; the stem asks about the male parent. -->
+- [ ] B) brother <!-- feedback: A brother shares your parents, so he is your generation, not your father's. -->
+- [x] C) grandfather <!-- feedback: Your father's father is your grandfather. -->
+- [ ] D) uncle <!-- feedback: An uncle is the brother of your parent, not the father of your parent. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to understand the topic of Review: Family and Descriptions at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
@@ -102,10 +102,10 @@ This question evaluates the student's ability to understand the topic of Review:
 I am my uncle's ________.
 
 ### Opciones
-- [x] A) nephew <!-- feedback: Correct! Well done. -->
-- [ ] B) niece <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] C) son <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] D) brother <!-- feedback: Incorrect. Please review the topic. -->
+- [x] A) nephew <!-- feedback: Your uncle's son is your nephew, because he is the son of your parent's brother. -->
+- [ ] B) niece <!-- feedback: A niece is the daughter of your sibling, but your uncle's child here is a son. -->
+- [ ] C) son <!-- feedback: 'Son' would describe your uncle's son as your father's child, which he is not. -->
+- [ ] D) brother <!-- feedback: A brother shares your parents, while your uncle is not your parent. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to understand the topic of Review: Family and Descriptions at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
@@ -124,10 +124,10 @@ This question evaluates the student's ability to understand the topic of Review:
 My father's wife is my ________.
 
 ### Opciones
-- [x] A) mother <!-- feedback: Correct! Well done. -->
-- [ ] B) sister <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] C) cousin <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] D) aunt <!-- feedback: Incorrect. Please review the topic. -->
+- [x] A) mother <!-- feedback: Your father's wife is your mother. -->
+- [ ] B) sister <!-- feedback: Your sister shares your parents; your father's wife is their wife, not their daughter. -->
+- [ ] C) cousin <!-- feedback: A cousin is the child of your uncle or aunt, your own generation. -->
+- [ ] D) aunt <!-- feedback: An aunt is your father's sister, which is a different relationship from his wife. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to apply the topic of Review: Family and Descriptions at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
@@ -146,10 +146,10 @@ This question evaluates the student's ability to apply the topic of Review: Fami
 My aunt's children are my ________.
 
 ### Opciones
-- [ ] A) brothers <!-- feedback: Incorrect. Please review the topic. -->
-- [x] B) cousins <!-- feedback: Correct! Well done. -->
-- [ ] C) uncles <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] D) sisters <!-- feedback: Incorrect. Please review the topic. -->
+- [ ] A) brothers <!-- feedback: Brothers share your parents, but your aunt's children have your uncle and aunt as parents. -->
+- [x] B) cousins <!-- feedback: Your aunt's children are your cousins. -->
+- [ ] C) uncles <!-- feedback: Uncles are the brothers of your parents, a generation above you. -->
+- [ ] D) sisters <!-- feedback: Sisters share your parents, so they are not your aunt's children. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to apply the topic of Review: Family and Descriptions at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
@@ -168,10 +168,10 @@ This question evaluates the student's ability to apply the topic of Review: Fami
 I have two ________: a brother and a sister.
 
 ### Opciones
-- [ ] A) parents <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] B) cousins <!-- feedback: Incorrect. Please review the topic. -->
-- [x] C) siblings <!-- feedback: Correct! Well done. -->
-- [ ] D) uncles <!-- feedback: Incorrect. Please review the topic. -->
+- [ ] A) parents <!-- feedback: Parents are the older generation; a brother and a sister are the children. -->
+- [ ] B) cousins <!-- feedback: Cousins are the children of your uncles and aunts, not of your parents. -->
+- [x] C) siblings <!-- feedback: A brother and a sister are both your siblings. -->
+- [ ] D) uncles <!-- feedback: Uncles are your parents' brothers, one generation above you. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to apply the topic of Review: Family and Descriptions at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
@@ -190,10 +190,10 @@ This question evaluates the student's ability to apply the topic of Review: Fami
 My daughter's son is my ________.
 
 ### Opciones
-- [ ] A) son <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] B) nephew <!-- feedback: Incorrect. Please review the topic. -->
-- [x] C) grandson <!-- feedback: Correct! Well done. -->
-- [ ] D) granddaughter <!-- feedback: Incorrect. Please review the topic. -->
+- [ ] A) son <!-- feedback: A son is a male child of your own generation, while your daughter's son is below you. -->
+- [ ] B) nephew <!-- feedback: A nephew is the son of your brother or sister, not of your daughter. -->
+- [x] C) grandson <!-- feedback: Your daughter's son is your grandson. -->
+- [ ] D) granddaughter <!-- feedback: A granddaughter is the daughter of your daughter; the stem says 'son'. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to analyze the topic of Review: Family and Descriptions at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
@@ -212,10 +212,10 @@ This question evaluates the student's ability to analyze the topic of Review: Fa
 The male parent is the ________.
 
 ### Opciones
-- [x] A) father <!-- feedback: Correct! Well done. -->
-- [ ] B) sister <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] C) daughter <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] D) mother <!-- feedback: Incorrect. Please review the topic. -->
+- [x] A) father <!-- feedback: The male parent is the father. -->
+- [ ] B) sister <!-- feedback: A sister is a sibling, not a parent. -->
+- [ ] C) daughter <!-- feedback: A daughter is a child, one generation below. -->
+- [ ] D) mother <!-- feedback: The female parent is the mother, so the male one is the father. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to analyze the topic of Review: Family and Descriptions at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
@@ -234,10 +234,10 @@ This question evaluates the student's ability to analyze the topic of Review: Fa
 My brother's daughter is my ________.
 
 ### Opciones
-- [ ] A) nephew <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] B) cousin <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] C) sister <!-- feedback: Incorrect. Please review the topic. -->
-- [x] D) niece <!-- feedback: Correct! Well done. -->
+- [ ] A) nephew <!-- feedback: A nephew is the son of your sibling; your brother's child here is a girl. -->
+- [ ] B) cousin <!-- feedback: A cousin is the child of your uncle or aunt. -->
+- [ ] C) sister <!-- feedback: A sister is a female sibling of your own generation, not your brother's child. -->
+- [x] D) niece <!-- feedback: Your brother's daughter is your niece. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to evaluate the topic of Review: Family and Descriptions at an A2 level. It focuses on Colombian contexts and standard A2 grammar.

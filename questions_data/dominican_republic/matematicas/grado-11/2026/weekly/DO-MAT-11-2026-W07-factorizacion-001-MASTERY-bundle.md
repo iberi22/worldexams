@@ -179,7 +179,7 @@ Factoriza $ax + ay + bx + by$.
 - [ ] A) $(a + y)(b + x)$ <!-- feedback: Incorrecto. No coincide expansión. -->
 - [x] D) $(a + b)(x + y)$ <!-- feedback: Correcto. Agrupando por parejas. -->
 - [ ] B) $ab(x + y)$ <!-- feedback: Incorrecto. Multiplicaría a y b. -->
-- [ ] C) $a(x + y) + b$ <!-- feedback: Incorrecto. Incompleto. -->
+- [ ] C) $a(x + y) + b$ <!-- feedback: El factor a aparece solo en los dos primeros términos, así que el factor común debe ser (x + y) y el resto es b(x + y), no un término suelto. -->
 
 ### Explicacion Pedagogica
 Agrupación estratégica para hallar binomios comunes repetidos.
@@ -283,7 +283,7 @@ Proceso secuencial de aplicación de métodos de factorización.
 ### Opciones
 - [ ] A) $x^2 - 25$ <!-- feedback: Incorrecto. Sí se puede (x+5)(x-5). -->
 - [x] B) $x^2 + 4$ <!-- feedback: Correcto. Suma de cuadrados no factoriza en R. -->
-- [ ] C) $x^3 + 8$ <!-- feedback: Incorrecto. Sí es factorizable. -->
+- [ ] C) $x^3 + 8$ <!-- feedback: $x^3 + 8$ sí factoriza como $(x+2)(x^2 - 2x + 4)$, aplicando la suma de cubos. -->
 - [ ] D) $x^3 - 27$ <!-- feedback: Incorrecto. Sí es factorizable. -->
 
 ### Explicacion Pedagogica
@@ -386,7 +386,7 @@ Ampliación del campo numérico para permitir factores en sumas de cuadrados.
 Halla todos los factores reales.
 
 ### Opciones
-- [ ] B) $(x^2+9)(x^2-9)$ <!-- feedback: Incorrecto. Incompleto. -->
+- [ ] B) $(x^2+9)(x^2-9)$ <!-- feedback: (x²+9) no tiene factores reales, así que esa expresión no es la descomposición completa en Reales de x⁴ − 81. -->
 - [x] A) $(x^2+9)(x+3)(x-3)$ <!-- feedback: Correcto. Descomposición sucesiva completa. -->
 - [ ] C) $(x+3)^2(x-3)^2$ <!-- feedback: Incorrecto. Expansión distinta. -->
 - [ ] D) $(x-3)^4$ <!-- feedback: Incorrecto. No es binomio a la cuarta. -->

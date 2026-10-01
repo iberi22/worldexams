@@ -117,7 +117,7 @@ Un terreno triangular tiene base 12 m y altura 8 m. ¿Cuál es su área?
 - [ ] A) 96 m².
   <!-- feedback: Incorrecto. No dividiste entre 2. -->
 - [ ] B) 20 m².
-  <!-- feedback: Incorrecto. Sumaste. -->
+  <!-- feedback: El área es base por altura divididas entre dos: (12 × 8) / 2 = 48. Sumar 12 + 8 = 20 no da el área. -->
 - [ ] D) 24 m².
   <!-- feedback: Incorrecto. Dividiste entre 4. -->
 ### Explicacion Pedagogica
@@ -133,7 +133,7 @@ La fórmula del área triangular se aplica con base y altura perpendiculares.
 Un cuadrado tiene lado 9 cm. ¿Cuál es su área?
 ### Opciones
 - [x] B) 81 cm².
-  <!-- feedback: Correcto. $9^2 = 81$. -->
+  <!-- feedback: El área de un cuadrado es lado por lado, así que 9 cm × 9 cm = 81 cm². -->
 - [ ] A) 36 cm².
   <!-- feedback: Incorrecto. Usaste $6^2$. -->
 - [ ] C) 18 cm².
@@ -177,7 +177,7 @@ Si duplicas el lado de un cuadrado, ¿qué ocurre con su área?
 - [ ] A) Se duplica.
   <!-- feedback: Incorrecto. Crece más rápido. -->
 - [ ] B) Permanece igual.
-  <!-- feedback: Incorrecto. Cambia. -->
+  <!-- feedback: El área depende del cuadrado del lado, así que al duplicar el lado pasa de l² a (2l)² = 4l² y cambia. -->
 - [ ] C) Se reduce a la mitad.
   <!-- feedback: Incorrecto. Se agranda. -->
 ### Explicacion Pedagogica
@@ -199,7 +199,7 @@ Una habitación rectangular de 4 m por 5 m se cubre con baldosas de 0.5 m² cada
 - [ ] B) 10.
   <!-- feedback: Incorrecto. Tomaste la mitad. -->
 - [ ] C) 80.
-  <!-- feedback: Incorrecto. Multiplicaste. -->
+  <!-- feedback: Las baldosas se obtienen dividiendo el área entre el área de cada baldosa: 20 / 0.5 = 40. Multiplicar 20 × 0.5 daría 10, no 80. -->
 ### Explicacion Pedagogica
 El número de unidades se obtiene dividiendo el área total entre el área de cada unidad.
 

@@ -36,10 +36,10 @@ creador: "Jules-Agent"
 She ________ a very good student in Cali.
 
 ### Opciones
-- [x] C) is <!-- feedback: Correct! Well done. -->
-- [ ] A) am <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] B) are <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] D) be <!-- feedback: Incorrect. Please review the topic. -->
+- [x] C) is <!-- feedback: 'Am' goes with 'I', and the subject here is 'she'. -->
+- [ ] A) am <!-- feedback: 'Are' goes with 'you', 'we', 'they' and plural nouns, but not with 'she'. -->
+- [ ] B) are <!-- feedback: Correct. The present simple of 'be' is 'is' for the third person singular, which is 'she'. -->
+- [ ] D) be <!-- feedback: 'Be' is the base form, used after modals or in the infinitive, not on its own in a statement. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to remember the topic of Verb To Be: Affirmative at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
@@ -58,10 +58,10 @@ This question evaluates the student's ability to remember the topic of Verb To B
 We ________ from Colombia.
 
 ### Opciones
-- [x] C) are <!-- feedback: Correct! Well done. -->
-- [ ] A) am <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] B) be <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] D) is <!-- feedback: Incorrect. Please review the topic. -->
+- [x] C) are <!-- feedback: 'Am' goes with 'I', and the subject here is 'we'. -->
+- [ ] A) am <!-- feedback: Correct. 'Are' is the form of 'be' used with 'we', so 'We are' is correct. -->
+- [ ] B) be <!-- feedback: 'Be' is the infinitive form and cannot stand alone in a simple statement. -->
+- [ ] D) is <!-- feedback: 'Is' is used with a singular subject like 'he' or 'it', not with 'we'. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to remember the topic of Verb To Be: Affirmative at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
@@ -80,10 +80,10 @@ This question evaluates the student's ability to remember the topic of Verb To B
 ________ they at school today?
 
 ### Opciones
-- [ ] B) Do <!-- feedback: Incorrect. Please review the topic. -->
-- [x] A) Are <!-- feedback: Correct! Well done. -->
-- [ ] C) Is <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] D) Am <!-- feedback: Incorrect. Please review the topic. -->
+- [ ] B) Do <!-- feedback: 'Do' builds questions with main verbs such as 'do you like', not with the verb 'be'. -->
+- [x] A) Are <!-- feedback: Correct. A question made with 'be' inverts it, so 'Are they' is the correct form here. -->
+- [ ] C) Is <!-- feedback: 'Is' goes with a singular subject, and 'they' is plural. -->
+- [ ] D) Am <!-- feedback: 'Am' goes with 'I', and the subject of the question is 'they'. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to understand the topic of Verb To Be: Affirmative at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
@@ -102,10 +102,10 @@ This question evaluates the student's ability to understand the topic of Verb To
 I ________ not a doctor, I am a student.
 
 ### Opciones
-- [ ] A) is <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] C) be <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] D) are <!-- feedback: Incorrect. Please review the topic. -->
-- [x] B) am <!-- feedback: Correct! Well done. -->
+- [ ] A) is <!-- feedback: 'Is' goes with 'he', 'she' or 'it', and the subject here is 'I'. -->
+- [ ] C) be <!-- feedback: 'Be' is the infinitive and does not agree with a subject on its own. -->
+- [ ] D) are <!-- feedback: 'Are' goes with plural subjects, and 'I' is always singular. -->
+- [x] B) am <!-- feedback: Correct. With the pronoun 'I' the present simple of 'be' is always 'am'. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to understand the topic of Verb To Be: Affirmative at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
@@ -124,10 +124,10 @@ This question evaluates the student's ability to understand the topic of Verb To
 The books ________ on the desk.
 
 ### Opciones
-- [ ] A) is <!-- feedback: Incorrect. Please review the topic. -->
-- [x] C) are <!-- feedback: Correct! Well done. -->
-- [ ] B) am <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] D) was <!-- feedback: Incorrect. Please review the topic. -->
+- [ ] A) is <!-- feedback: 'Is' is for a single subject, and 'the books' is plural. -->
+- [x] C) are <!-- feedback: 'Am' goes with 'I', and the subject is 'the books'. -->
+- [ ] B) am <!-- feedback: Correct. 'The books' is plural, so it takes 'are' in the present simple. -->
+- [ ] D) was <!-- feedback: 'Was' is the past tense; the books are on the desk now, so the present simple is needed. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to apply the topic of Verb To Be: Affirmative at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
@@ -146,10 +146,10 @@ This question evaluates the student's ability to apply the topic of Verb To Be: 
 My dog ________ very small and brown.
 
 ### Opciones
-- [x] A) is <!-- feedback: Correct! Well done. -->
-- [ ] B) are <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] C) am <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] D) be <!-- feedback: Incorrect. Please review the topic. -->
+- [x] A) is <!-- feedback: 'Are' goes with plural subjects, and 'my dog' is singular. -->
+- [ ] B) are <!-- feedback: 'Am' goes with 'I', and the subject is 'my dog'. -->
+- [ ] C) am <!-- feedback: Correct. 'My dog' is a single animal, so it takes 'is'. -->
+- [ ] D) be <!-- feedback: 'Be' is the infinitive and cannot stand alone in a simple statement. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to apply the topic of Verb To Be: Affirmative at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
@@ -168,10 +168,10 @@ This question evaluates the student's ability to apply the topic of Verb To Be: 
 ________ you tired after the soccer match?
 
 ### Opciones
-- [x] B) Are <!-- feedback: Correct! Well done. -->
-- [ ] A) Am <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] C) Is <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] D) Do <!-- feedback: Incorrect. Please review the topic. -->
+- [x] B) Are <!-- feedback: 'Am' goes with 'I', and the subject of this question is 'you'. -->
+- [ ] A) Am <!-- feedback: Correct. A question with 'be' inverts the order, so 'Are you' is the correct form. -->
+- [ ] C) Is <!-- feedback: 'Is' goes with a singular subject such as 'he' or 'it', but not with 'you'. -->
+- [ ] D) Do <!-- feedback: 'Do' is used to make questions with main verbs, such as 'do you play'. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to apply the topic of Verb To Be: Affirmative at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
@@ -190,10 +190,10 @@ This question evaluates the student's ability to apply the topic of Verb To Be: 
 Bogota ________ the capital of Colombia.
 
 ### Opciones
-- [x] D) is <!-- feedback: Correct! Well done. -->
-- [ ] A) are <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] B) stay <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] C) am <!-- feedback: Incorrect. Please review the topic. -->
+- [x] D) is <!-- feedback: 'Are' goes with plural subjects, and 'Bogota' is one single city. -->
+- [ ] A) are <!-- feedback: 'Stay' is an action verb and the sentence needs the verb 'be'. -->
+- [ ] B) stay <!-- feedback: 'Am' goes with 'I', and the subject is 'Bogota'. -->
+- [ ] C) am <!-- feedback: Correct. 'Bogota' is a single place, so the third person singular form 'is' is used. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to analyze the topic of Verb To Be: Affirmative at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
@@ -212,10 +212,10 @@ This question evaluates the student's ability to analyze the topic of Verb To Be
 They ________ happy with their grades.
 
 ### Opciones
-- [x] D) are <!-- feedback: Correct! Well done. -->
-- [ ] A) be <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] B) is <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] C) is being <!-- feedback: Incorrect. Please review the topic. -->
+- [x] D) are <!-- feedback: 'Be' is the infinitive and cannot stand alone here. -->
+- [ ] A) be <!-- feedback: 'Is' goes with a singular subject, but 'they' is plural. -->
+- [ ] B) is <!-- feedback: 'Is being' is the continuous form and does not fit this simple statement. -->
+- [ ] C) is being <!-- feedback: Correct. 'They' is plural, so it takes 'are' with an adjective in the present simple. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to analyze the topic of Verb To Be: Affirmative at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
@@ -234,10 +234,10 @@ This question evaluates the student's ability to analyze the topic of Verb To Be
 It ________ a very sunny day in Cartagena.
 
 ### Opciones
-- [ ] A) am <!-- feedback: Incorrect. Please review the topic. -->
-- [x] B) is <!-- feedback: Correct! Well done. -->
-- [ ] C) has <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] D) are <!-- feedback: Incorrect. Please review the topic. -->
+- [ ] A) am <!-- feedback: 'Am' goes with 'I', and the subject here is 'it'. -->
+- [x] B) is <!-- feedback: Correct. 'It' is a third person singular subject, so it takes 'is'. -->
+- [ ] C) has <!-- feedback: 'Has' is used for possession, such as 'it has a car', not for a description with an adjective. -->
+- [ ] D) are <!-- feedback: 'Are' goes with plural subjects, and 'it' is singular. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to evaluate the topic of Verb To Be: Affirmative at an A2 level. It focuses on Colombian contexts and standard A2 grammar.

@@ -56,9 +56,9 @@ This bundle explores significant scientific discoveries using B2-level grammar, 
 "Alexander Fleming discovered ____ penicillin by accident in ____ 1928."
 
 ### Opciones
-- [ ] A) the / the <!-- feedback: Incorrect. -->
+- [ ] A) the / the <!-- feedback: 'The' is used for a specific unique object, but a year takes no article, so 'the' cannot appear before 1928. -->
 - [x] C) - / - <!-- feedback: Correct. Zero article for substances (penicillin) and years. -->
-- [ ] B) a / - <!-- feedback: Incorrect for substances. -->
+- [ ] B) a / - <!-- feedback: 'A' is right for the year but wrong for penicillin: names of substances take no article. -->
 - [ ] D) the / - <!-- feedback: Possible but B is more standard for the substance itself. -->
 
 ### Explicación Pedagógica
@@ -77,10 +77,10 @@ Zero article is used with the names of substances (like penicillin) and specific
 "____ Moon is ____ only natural satellite of ____ Earth."
 
 ### Opciones
-- [ ] A) A / an / the <!-- feedback: Incorrect. -->
+- [ ] A) A / an / the <!-- feedback: 'A' and 'an' are used for any single countable object, but the Moon is unique and takes 'the'. -->
 - [x] D) The / the / - <!-- feedback: Correct. 'The' for unique bodies + zero article for planets like Earth (unless preceded by 'the planet'). -->
 - [ ] B) The / the / the <!-- feedback: Possible, but 'Earth' usually takes zero article. -->
-- [ ] C) - / - / - <!-- feedback: Incorrect. -->
+- [ ] C) - / - / - <!-- feedback: The Moon is a unique body and requires 'the'; zero article would leave the sentence ungrammatical. -->
 
 ### Explicación Pedagógica
 'The' is used for unique objects like 'the Moon' or 'the Sun'. Planets like 'Earth', 'Mars', etc., usually take no article.
@@ -98,10 +98,10 @@ Zero article is used with the names of substances (like penicillin) and specific
 "____ technology has played ____ crucial role in ____ development of medicine."
 
 ### Opciones
-- [ ] B) The / a / - <!-- feedback: Incorrect. -->
+- [ ] B) The / a / - <!-- feedback: 'The' is not right for technology as a general concept, and the phrase 'the role' would also be wrong: it is 'a role'. -->
 - [x] A) - / a / the <!-- feedback: Correct. Zero article for general concepts (technology) + 'a' for singular + 'the' for specific noun phrase. -->
 - [ ] C) - / - / the <!-- feedback: Needs 'a' for 'role'. -->
-- [ ] D) The / the / - <!-- feedback: Incorrect. -->
+- [ ] D) The / the / - <!-- feedback: Zero article is right for technology, but 'the crucial role' needs 'a' since the role is singular and countable. -->
 
 ### Explicación Pedagógica
 Zero article for abstract/general concepts (technology). 'The' is used for specific noun groups (the development of...).
@@ -143,7 +143,7 @@ Use 'the' with specific prize names and superlative adjectives. Use zero article
 - [ ] A) - / the / a <!-- feedback: Incorrect for 'results'. -->
 - [x] C) The / the / a <!-- feedback: Correct. Specific results + specific experiment + any journal. -->
 - [ ] B) The / an / the <!-- feedback: Possible, but B is more standard for a narrative. -->
-- [ ] D) - / - / - <!-- feedback: Incorrect. -->
+- [ ] D) - / - / - <!-- feedback: Zero article cannot introduce 'results of experiment' here, because both the results and the experiment are specific and identified. -->
 
 ### Explicación Pedagógica
 'The' for specific plural nouns (the results). 'A' for non-specific singular nouns (a journal).
@@ -163,8 +163,8 @@ Use 'the' with specific prize names and superlative adjectives. Use zero article
 ### Opciones
 - [ ] A) The / an / - <!-- feedback: Incorrect for general energy. -->
 - [x] D) - / an / - <!-- feedback: Correct. Zero article for general energy sources (solar power, coal) + 'an' for singular adjective-noun. -->
-- [ ] B) - / a / the <!-- feedback: Incorrect article/preposition. -->
-- [ ] C) The / the / the <!-- feedback: Incorrect. -->
+- [ ] B) - / a / the <!-- feedback: Solar power and coal as general energy sources take no article, so 'the coal' is wrong here. -->
+- [ ] C) The / the / the <!-- feedback: 'The solar power' and 'the coal' are wrong: as general energy sources both take zero article. -->
 
 ### Explicación Pedagógica
 Zero article is used for general energy sources and materials.
@@ -225,9 +225,9 @@ B2 complexity: Correct article usage with celestial bodies and general groups of
 
 ### Opciones
 - [x] D) The / a / - / - <!-- feedback: Correct. 'The' for specific geographic regions + 'a' for 'a number of' + zero for science. -->
-- [ ] A) - / the / - / the <!-- feedback: Incorrect. -->
-- [ ] B) The / the / the / - <!-- feedback: Incorrect. -->
-- [ ] C) - / a / the / the <!-- feedback: Incorrect. -->
+- [ ] A) - / the / - / the <!-- feedback: The Amazon is a specific region and needs 'The', and 'science' as an academic discipline takes zero article. -->
+- [ ] B) The / the / the / - <!-- feedback: 'The number' is wrong: the phrase is 'a number of', and 'the which' cannot follow 'many of'. -->
+- [ ] C) - / a / the / the <!-- feedback: The Amazon needs 'The' for a specific region, and 'science' takes zero article, not 'the'. -->
 
 ### Explicación Pedagógica
 Advanced B2 structure: Geographic names (The Amazon) vs academic disciplines (science).
@@ -248,7 +248,7 @@ Advanced B2 structure: Geographic names (The Amazon) vs academic disciplines (sc
 - [ ] B) A / - / - / - <!-- feedback: Incorrect for specific theory. -->
 - [x] A) The / - / - / - <!-- feedback: Correct. 'The' for specific theory + zero for name and general abstract concepts. -->
 - [ ] C) The / the / the / the <!-- feedback: Incorrect for abstract concepts. -->
-- [ ] D) - / - / - / - <!-- feedback: Incorrect. -->
+- [ ] D) - / - / - / - <!-- feedback: 'The' is needed for a specific named theory, so the sentence cannot start with the zero article. -->
 
 ### Explicación Pedagógica
 Using zero article for abstract nouns like 'time' and 'space' in a scientific context.
@@ -267,9 +267,9 @@ Using zero article for abstract nouns like 'time' and 'space' in a scientific co
 
 ### Opciones
 - [x] D) The / the / the / - <!-- feedback: Correct double comparative with specific 'universe' and general 'life'. -->
-- [ ] A) - / the / - / the <!-- feedback: Incorrect. -->
+- [ ] A) - / the / - / the <!-- feedback: The structure is 'The more..., the more...', so both comparatives need 'the'; zero article breaks the second half. -->
 - [ ] B) The / - / the / - <!-- feedback: 'The universe' is the standard unique name. -->
-- [ ] C) More / the / more / - <!-- feedback: Incorrect. -->
+- [ ] C) More / the / more / - <!-- feedback: 'More more' has no article on either comparative, so the parallel structure the sentence requires is lost. -->
 
 ### Explicación Pedagógica
 Mastery level: Combining the 'The + comparative, the + comparative' structure with complex article rules for unique and abstract nouns.

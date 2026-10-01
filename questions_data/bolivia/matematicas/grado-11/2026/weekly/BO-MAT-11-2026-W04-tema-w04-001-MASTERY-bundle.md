@@ -54,10 +54,10 @@ El desarrollo algebraico de (a + b)^2 se obtiene multiplicando (a + b)(a + b) = 
 ¿Cuál es el resultado de factorizar la diferencia de cuadrados perfectos x^2 - y^2?
 
 ### Opciones
-- [x] D) (x - y)(x + y) <!-- feedback: ¡Correcto! La diferencia de cuadrados de dos términos es igual al producto de la suma por la diferencia de dichos términos. -->
-- [ ] A) (x - y)^2 <!-- feedback: Incorrecto. Esto expande a x^2 - 2xy + y^2, no a x^2 - y^2. -->
-- [ ] B) (x + y)^2 <!-- feedback: Incorrecto. Esto expande a x^2 + 2xy + y^2, no a x^2 - y^2. -->
-- [ ] C) x^2 - 2xy + y^2 <!-- feedback: Incorrecto. Esta expresión es el trinomio de un binomio al cuadrado, no la forma factorizada. -->
+- [x] D) (x - y)(x + y) <!-- feedback: La diferencia de cuadrados se factoriza como el producto de la suma por la diferencia: $(x-y)(x+y) = x^2 - y^2$. -->
+- [ ] A) (x - y)^2 <!-- feedback: $(x-y)^2$ se desarrolla como $x^2 - 2xy + y^2$, que tiene término cruzado, no $x^2 - y^2$. -->
+- [ ] B) (x + y)^2 <!-- feedback: $(x+y)^2$ se desarrolla como $x^2 + 2xy + y^2$, con término cruzado, así que no sirve. -->
+- [ ] C) x^2 - 2xy + y^2 <!-- feedback: $x^2 - 2xy + y^2$ es el desarrollo de un cuadrado perfecto, no la forma factorizada de $x^2 - y^2$. -->
 
 ### Explicacion Pedagogica
 Por la regla de productos notables, la diferencia de cuadrados se descompone en el producto de binomios conjugados: (x - y)(x + y).

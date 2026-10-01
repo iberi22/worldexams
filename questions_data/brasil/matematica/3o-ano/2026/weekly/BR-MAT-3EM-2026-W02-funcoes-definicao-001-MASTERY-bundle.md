@@ -372,10 +372,10 @@ Uma função estritamente crescente preserva a ordem estrita dos elementos. Isso
 Determine a função $f(x)$ que satisfaz a equação $f(2x + 1) = 4x^2 + 4x + 5$ para todo $x$ real.
 
 ### Opciones
-- [ ] A) $f(x) = x^2 + 5$ <!-- feedback: Substituindo x por 2x+1 teríamos (2x+1)² + 5 = 4x² + 4x + 6, diferente do dado. -->
-- [x] B) $f(x) = x^2 + 4$ <!-- feedback: (2x + 1)² + 4 = (4x² + 4x + 1) + 4 = 4x² + 4x + 5. Correto. -->
-- [ ] C) $f(x) = 2x^2 + 3$ <!-- feedback: Incorreto ao testar a substituição da variável. -->
-- [ ] D) $f(x) = x^2 + 2x + 1$ <!-- feedback: Incorreto ao testar a substituição da variável. -->
+- [ ] A) $f(x) = x^2 + 5$ <!-- feedback: Substituindo: $(2x+1)^2 + 5 = 4x^2 + 4x + 1 + 5 = 4x^2 + 4x + 6$, e o enunciado pede $4x^2 + 4x + 5$. -->
+- [x] B) $f(x) = x^2 + 4$ <!-- feedback: $(2x+1)^2 + 4 = 4x^2 + 4x + 1 + 4 = 4x^2 + 4x + 5$, que é exatamente o lado direito da equação. -->
+- [ ] C) $f(x) = 2x^2 + 3$ <!-- feedback: Substituindo: $(2x+1)^2 + 3 = 4x^2 + 4x + 4$, e o termo constante ficaria $4$ em vez de $5$. -->
+- [ ] D) $f(x) = x^2 + 2x + 1$ <!-- feedback: O termo em $x$ está dobrado: $f(2x+1) = (2x+1)^2 + 2(2x+1) + 1 = 4x^2 + 8x + 4$, que não é o enunciado. -->
 
 ### Explicacion Pedagogica
 Fazemos uma mudança de variável: seja $t = 2x + 1$. Então $x = \frac{t - 1}{2}$. Substituindo na expressão original: $f(t) = 4(\frac{t-1}{2})^2 + 4(\frac{t-1}{2}) + 5$. Simplificando: $f(t) = 4(\frac{t^2-2t+1}{4}) + 2(t-1) + 5 = t^2 - 2t + 1 + 2t - 2 + 5 = t^2 + 4$. Portanto, $f(x) = x^2 + 4$.

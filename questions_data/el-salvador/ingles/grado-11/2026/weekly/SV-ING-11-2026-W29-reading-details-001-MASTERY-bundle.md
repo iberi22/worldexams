@@ -169,7 +169,7 @@ Read the text: 'The train leaves at 7:45. The platform closes ten minutes before
   <!-- feedback: That would be an hour early, which the text does not require. -->
 
 ### Explicacion Pedagogica
-Si el anden cierra diez minutos antes de las 7:45, el limite para llegar es 7:35.
+Si el anden cierra diez minutos antes de las 7:45, el limite para llegar es 7:35. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.
 
 ---
 

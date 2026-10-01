@@ -194,7 +194,7 @@ Que productos definieron la economia de exportacion de El Salvador en el siglo X
   <!-- feedback: La industrializacion ocurrio a lo largo del siglo XX. -->
 
 ### Explicacion Pedagogica
-El indigo y luego el cafe fueron los grandes productos de exportacion de esa etapa.
+El indigo y luego el cafe fueron los grandes productos de exportacion de esa etapa. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.
 
 ---
 
@@ -519,6 +519,6 @@ Que era una hacienda durante el siglo XIX?
   <!-- feedback: La hacienda era una unidad de produccion, no un deposito. -->
 
 ### Explicacion Pedagogica
-La hacienda era una gran propiedad rural dedicada al monocultivo de exportacion.
+La hacienda era una gran propiedad rural dedicada al monocultivo de exportacion. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.
 
 ---

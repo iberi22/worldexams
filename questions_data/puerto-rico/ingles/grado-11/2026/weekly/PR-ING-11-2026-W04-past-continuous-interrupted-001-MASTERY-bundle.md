@@ -17,466 +17,507 @@ tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
 ---
-# MASTERY Bundle - Ingles: Past Continuous Interrupted (W04)
+# MASTERY Bundle - Ingles: past-continuous-interrupted (W04)
 **20 preguntas | Ingles | Curriculo de Ingles**
 
 ---
-## Question 1 [D3]
+
+## Question 1 [D3-D4]
 **ID:** PR-ING-11-2026-W04-past-continuous-interrupted-001-MASTERY-bundle-v1
-**Bloom:** Remember
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Past continuous, San Juan, grado 11.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+Which sentence uses the past continuous correctly?
 
 ### Opciones
-- [x] C) accommodation
-  <!-- feedback: Correct! 'accommodation' matches the definition. -->
-- [ ] A) transportation
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) entertainment
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) currency
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) While I studied, the phone was ringing.
+  <!-- feedback: 'Was ringing' makes the interruption the ongoing action, which reverses the roles. -->
+- [ ] B) While I study, the phone rang.
+  <!-- feedback: 'Study' would need the past simple to match a past 'rang'. -->
+- [x] C) While I was studying, the phone rang.
+  <!-- feedback: 'Was studying' sets the action in progress and 'rang' interrupts it. -->
+- [ ] D) While I was study, the phone rang.
+  <!-- feedback: 'Was study' is not a valid past continuous form. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
+El pasado continuo describe una accion en curso en un momento del pasado. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.
+
 ---
-## Question 2 [D4]
+
+## Question 2 [D3-D4]
 **ID:** PR-ING-11-2026-W04-past-continuous-interrupted-001-MASTERY-bundle-v2
-**Bloom:** Remember
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Past continuous en contexto, Ponce, grado 11.
 
 ### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
+Complete: 'We ____ TV at nine when the power went out.'
 
 ### Opciones
-- [x] C) itinerary
-  <!-- feedback: Correct! 'itinerary' matches the definition. -->
-- [ ] A) baggage
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) destination
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) passport
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) watched
+  <!-- feedback: The simple past would place the action as a completed event, not as background. -->
+- [x] B) were watching
+  <!-- feedback: 'Were watching' is the past continuous of 'watch'. -->
+- [ ] C) have watched
+  <!-- feedback: The present perfect refers to the present, not to that past moment. -->
+- [ ] D) are watching
+  <!-- feedback: The present continuous refers to now, not to the past. -->
 
 ### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
+La accion en curso en ese momento del pasado va en pasado continuo. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.
+
 ---
-## Question 3 [D3]
+
+## Question 3 [D5-D6]
 **ID:** PR-ING-11-2026-W04-past-continuous-interrupted-001-MASTERY-bundle-v3
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Analisis del pasado continuo, Mayaguez.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+What does the past continuous express when it is interrupted?
 
 ### Opciones
-- [x] A) destination
-  <!-- feedback: Correct! 'destination' matches the definition. -->
-- [ ] B) departure
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) arrival
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) journey
-  <!-- feedback: Incorrect. Try again. -->
+- [x] A) The longer background action that the shorter action interrupts
+  <!-- feedback: This is the classic interrupted-action pattern. -->
+- [ ] B) The shorter action that interrupts the longer one
+  <!-- feedback: The roles are reversed: the continuous is the background. -->
+- [ ] C) Two actions completed at the same time
+  <!-- feedback: Two simple past actions would be needed for that reading. -->
+- [ ] D) A habit in the past
+  <!-- feedback: Habits require 'used to' plus the base form. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
+El pasado continuo marca la accion larga de fondo y el pasado simple la accion corta que la interrumpe.
+
 ---
-## Question 4 [D4]
+
+## Question 4 [D3-D4]
 **ID:** PR-ING-11-2026-W04-past-continuous-interrupted-001-MASTERY-bundle-v4
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Past continuous, Aguadilla, grado 11.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+Complete: 'I ____ my homework when my friend called me.'
 
 ### Opciones
-- [x] B) luggage
-  <!-- feedback: Correct! 'luggage' matches the definition. -->
-- [ ] A) ticket
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) flight
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) reservation
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) did
+  <!-- feedback: 'Did' is the simple past and would mark a completed action. -->
+- [x] B) was doing
+  <!-- feedback: 'Was doing' is the past continuous of 'do'. -->
+- [ ] C) do
+  <!-- feedback: The bare form would need an auxiliary. -->
+- [ ] D) have done
+  <!-- feedback: The present perfect refers to the present, not to the past. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
+La accion que ya estaba ocurriendo cuando llego la llamada va en pasado continuo. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.
+
 ---
-## Question 5 [D5]
+
+## Question 5 [D3-D4]
 **ID:** PR-ING-11-2026-W04-past-continuous-interrupted-001-MASTERY-bundle-v5
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Evaluate
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Consolidacion del pasado continuo, Humacao.
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+Which sentence is correct?
 
 ### Opciones
-- [x] A) passenger
-  <!-- feedback: Correct! 'passenger' matches the definition. -->
-- [ ] B) pedestrian
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) commuter
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) tourist
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) She is reading when her phone rang.
+  <!-- feedback: The present continuous would conflict with the past 'rang'. -->
+- [ ] B) She read when her phone was ringing.
+  <!-- feedback: This reverses the background and interrupting actions. -->
+- [x] C) She was reading when her phone rang.
+  <!-- feedback: The pattern is past continuous plus 'when' plus simple past. -->
+- [ ] D) She was reading while her phone rang.
+  <!-- feedback: 'While' needs both clauses in the continuous for simultaneity. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
+La oracion correcta combina el pasado continuo con un conector temporal y el pasado simple.
+
 ---
-## Question 6 [D6]
+
+## Question 6 [D3-D4]
 **ID:** PR-ING-11-2026-W04-past-continuous-interrupted-001-MASTERY-bundle-v6
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Analisis de la accion en curso, Carolina, grado 11.
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+Look at the sentence: 'They were playing football at 5 p.m. and then they stopped.' What does 'were playing' tell us?
 
 ### Opciones
-- [x] D) customs
-  <!-- feedback: Correct! 'customs' matches the definition. -->
-- [ ] A) security
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) terminal
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) gate
-  <!-- feedback: Incorrect. Try again. -->
+- [x] A) The action was in progress at that hour
+  <!-- feedback: The past continuous fixes a moment with the action ongoing. -->
+- [ ] B) The action started exactly at five
+  <!-- feedback: The start of the action is not stated by the continuous. -->
+- [ ] C) The action finished at five
+  <!-- feedback: 'Stopped' marks the end, not the continuous itself. -->
+- [ ] D) The action was repeated daily
+  <!-- feedback: Repetition would need 'every day' or a similar marker. -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
+Indica que la accion estaba en curso a las cinco y termino mas tarde. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.
+
 ---
-## Question 7 [D5]
+
+## Question 7 [D5-D6]
 **ID:** PR-ING-11-2026-W04-past-continuous-interrupted-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Conectores temporales, Caguas, grado 11.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+Choose the preposition that correctly introduces the interruption: 'He fell ____ he was climbing the wall.'
 
 ### Opciones
-- [x] B) boarding pass
-  <!-- feedback: Correct! 'boarding pass' matches the definition. -->
-- [ ] A) visa
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) receipt
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) brochure
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) during
+  <!-- feedback: 'During' marks a period and cannot introduce this clause. -->
+- [ ] B) since
+  <!-- feedback: 'Since' marks an origin in time, not a background action. -->
+- [x] C) while
+  <!-- feedback: 'While' introduces the background action of the past continuous. -->
+- [ ] D) until
+  <!-- feedback: 'Until' marks an endpoint and would reverse the meaning. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+'While' introduce la accion de fondo y 'as soon as' la interrupcion en el instante exacto.
+
 ---
-## Question 8 [D6]
+
+## Question 8 [D3-D4]
 **ID:** PR-ING-11-2026-W04-past-continuous-interrupted-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Past continuous, Arecibo, grado 11.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+Complete: 'At eight o'clock I ____ dinner when the lights went off.'
 
 ### Opciones
-- [x] B) sightseeing
-  <!-- feedback: Correct! 'sightseeing' matches the definition. -->
-- [ ] A) shopping
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) hiking
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) camping
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) had
+  <!-- feedback: 'Had' would be the simple past and would mark a completed action. -->
+- [x] B) was having
+  <!-- feedback: 'Was having' is the past continuous of 'have' in this sense. -->
+- [ ] C) have
+  <!-- feedback: The bare form requires an auxiliary. -->
+- [ ] D) am having
+  <!-- feedback: The present continuous refers to the present. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+La cena ya estaba en curso a las ocho cuando ocurrio el corte de luz. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.
+
 ---
-## Question 9 [D5]
+
+## Question 9 [D5-D6]
 **ID:** PR-ING-11-2026-W04-past-continuous-interrupted-001-MASTERY-bundle-v9
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
-
-### Opciones
-- [x] A) souvenir
-  <!-- feedback: Correct! 'souvenir' matches the definition. -->
-- [ ] B) gift
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) award
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) prize
-  <!-- feedback: Incorrect. Try again. -->
-
-### Explicacion Pedagogica
-The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
----
-## Question 10 [D6]
-**ID:** PR-ING-11-2026-W04-past-continuous-interrupted-001-MASTERY-bundle-v10
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A period of time by which something is late or postponed."
-
-### Opciones
-- [x] C) delay
-  <!-- feedback: Correct! 'delay' matches the definition. -->
-- [ ] A) cancellation
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) departure
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) arrival
-  <!-- feedback: Incorrect. Try again. -->
-
-### Explicacion Pedagogica
-The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
----
-## Question 11 [D7]
-**ID:** PR-ING-11-2026-W04-past-continuous-interrupted-001-MASTERY-bundle-v11
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
-
-### Opciones
-- [x] C) check-in
-  <!-- feedback: Correct! 'check-in' matches the definition. -->
-- [ ] A) check-out
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) booking
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) reservation
-  <!-- feedback: Incorrect. Try again. -->
-
-### Explicacion Pedagogica
-The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
----
-## Question 12 [D8]
-**ID:** PR-ING-11-2026-W04-past-continuous-interrupted-001-MASTERY-bundle-v12
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A period of rest or waiting before a further stage in a journey."
-
-### Opciones
-- [x] C) layover
-  <!-- feedback: Correct! 'layover' matches the definition. -->
-- [ ] A) stopover
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) transfer
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) transit
-  <!-- feedback: Incorrect. Try again. -->
-
-### Explicacion Pedagogica
-The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
----
-## Question 13 [D7]
-**ID:** PR-ING-11-2026-W04-past-continuous-interrupted-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Dos acciones simultaneas, Guaynabo, grado 11.
 
 ### Enunciado
-What is the English word for: "A system of money in general use in a particular country."
+Which sentence uses two past continuous actions correctly?
 
 ### Opciones
-- [x] D) currency
-  <!-- feedback: Correct! 'currency' matches the definition. -->
-- [ ] A) coin
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) banknote
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) cash
-  <!-- feedback: Incorrect. Try again. -->
+- [x] A) While she was cooking, her brother was setting the table.
+  <!-- feedback: Both actions are simultaneous and both use the continuous. -->
+- [ ] B) While she was cooking, her brother set the table.
+  <!-- feedback: The simple past turns the second action into an interruption. -->
+- [ ] C) While she is cooking, her brother was setting the table.
+  <!-- feedback: A present continuous would clash with the past tense. -->
+- [ ] D) While she was cooking, her brother has set the table.
+  <!-- feedback: The present perfect would link the second action to the present. -->
 
 ### Explicacion Pedagogica
-The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
+Dos acciones en curso al mismo tiempo se expresan ambas en pasado continuo. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.
+
 ---
-## Question 14 [D8]
+
+## Question 10 [D5-D6]
+**ID:** PR-ING-11-2026-W04-past-continuous-interrupted-001-MASTERY-bundle-v10
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Orden de acciones, Vega Baja, grado 11.
+
+### Enunciado
+Read the text: 'I was walking home when a car stopped beside me.' What happened first?
+
+### Opciones
+- [x] A) The walk had already started
+  <!-- feedback: The past continuous gives the background action that was running. -->
+- [ ] B) The car stopped first
+  <!-- feedback: The sentence presents the walk as the ongoing action and the car as the interruption. -->
+- [ ] C) Both began at the same moment
+  <!-- feedback: Nothing in the sentence marks a simultaneous beginning. -->
+- [ ] D) The walk started after the car stopped
+  <!-- feedback: That would be the reverse of the information given. -->
+
+### Explicacion Pedagogica
+El camino a casa ya estaba en curso cuando el coche se detuvo. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.
+
+---
+
+## Question 11 [D5-D6]
+**ID:** PR-ING-11-2026-W04-past-continuous-interrupted-001-MASTERY-bundle-v11
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Uso de 'while', Cayey, grado 11.
+
+### Enunciado
+Which sentence correctly uses the past continuous with 'while'?
+
+### Opciones
+- [ ] A) While the baby will sleep, the phone rang.
+  <!-- feedback: 'Will' cannot be used in a past background clause. -->
+- [ ] B) While the baby sleeps, the phone rang.
+  <!-- feedback: The present continuous would not match a past interruption. -->
+- [x] C) While the baby slept, the phone rang.
+  <!-- feedback: 'Slept' is the short background action interrupted by 'rang'. -->
+- [ ] D) While the baby slept, the phone rang yesterday again.
+  <!-- feedback: The trailing 'yesterday again' adds nothing coherent. -->
+
+### Explicacion Pedagogica
+'While' se usa con acciones simultaneas; el pasado continuo encaja con esa relacion.
+
+---
+
+## Question 12 [D3-D4]
+**ID:** PR-ING-11-2026-W04-past-continuous-interrupted-001-MASTERY-bundle-v12
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Deteccion de errores, Dorado, grado 11.
+
+### Enunciado
+Look at the sentence: 'We were play tennis when it started to rain.' What is the error?
+
+### Opciones
+- [ ] A) Nothing is wrong with the sentence
+  <!-- feedback: The missing -ing makes the sentence ungrammatical. -->
+- [ ] B) 'Rained' must be 'raining'
+  <!-- feedback: 'Rained' is correct for the interrupting action. -->
+- [ ] C) 'We' must be 'They'
+  <!-- feedback: The subject agrees with the rest of the sentence. -->
+- [x] D) 'Were play' must be 'were playing'
+  <!-- feedback: The past continuous always requires the -ing form. -->
+
+### Explicacion Pedagogica
+El pasado continuo exige la forma con 'ing': 'were playing'. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.
+
+---
+
+## Question 13 [D3-D4]
+**ID:** PR-ING-11-2026-W04-past-continuous-interrupted-001-MASTERY-bundle-v13
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Past continuous, Jayuya, grado 11.
+
+### Enunciado
+Complete: 'He ____ TV when the neighbours called.' Choose the best option.
+
+### Opciones
+- [ ] A) watch
+  <!-- feedback: The bare form needs an auxiliary. -->
+- [x] B) was watching
+  <!-- feedback: 'Was watching' is the past continuous form required here. -->
+- [ ] C) watches
+  <!-- feedback: The simple present would not match the past 'called'. -->
+- [ ] D) is watching
+  <!-- feedback: The present continuous refers to the present. -->
+
+### Explicacion Pedagogica
+La accion de fondo es ver television y por tanto requiere pasado continuo. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.
+
+---
+
+## Question 14 [D5-D6]
 **ID:** PR-ING-11-2026-W04-past-continuous-interrupted-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Comparacion de tiempos, Yauco, grado 11.
 
 ### Enunciado
-What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
+What is the difference between 'I was reading' and 'I read'?
 
 ### Opciones
-- [x] C) guidebook
-  <!-- feedback: Correct! 'guidebook' matches the definition. -->
-- [ ] A) map
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) dictionary
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) encyclopedia
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) Both mean exactly the same thing
+  <!-- feedback: The two tenses differ in aspect, not merely in style. -->
+- [ ] B) The continuous refers to the present
+  <!-- feedback: It refers to a moment in the past. -->
+- [ ] C) The simple past is used only in questions
+  <!-- feedback: It is used in statements, questions and negatives alike. -->
+- [x] D) The continuous shows an action in progress; the simple shows a completed event
+  <!-- feedback: The continuous carries the background and duration reading. -->
 
 ### Explicacion Pedagogica
-The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
+El pasado continuo muestra la accion como parte de un fondo en curso; el pasado simple la presenta como un hecho ponctual.
+
 ---
-## Question 15 [D7]
+
+## Question 15 [D5-D6]
 **ID:** PR-ING-11-2026-W04-past-continuous-interrupted-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Duracion en el pasado, Barceloneta, grado 11.
 
 ### Enunciado
-What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
+Which sentence describes an action that started in the past and continued into another past moment?
 
 ### Opciones
-- [x] B) backpack
-  <!-- feedback: Correct! 'backpack' matches the definition. -->
-- [ ] A) suitcase
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) briefcase
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) handbag
-  <!-- feedback: Incorrect. Try again. -->
+- [x] A) They were living in Ponce while their children were studying in Mayaguez
+  <!-- feedback: Both prolonged situations are expressed in the past continuous. -->
+- [ ] B) They lived in Ponce while their children studied in Mayaguez
+  <!-- feedback: Two simple pasts lose the sense of ongoing duration. -->
+- [ ] C) They are living in Ponce while their children study in Mayaguez
+  <!-- feedback: The present continuous would refer to current, not past, situations. -->
+- [ ] D) They have lived in Ponce while their children have studied in Mayaguez
+  <!-- feedback: The present perfect would link both facts to the present. -->
 
 ### Explicacion Pedagogica
-The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
+El pasado continuo encaja con acciones extendidas que coexisten en el pasado. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.
+
 ---
-## Question 16 [D8]
+
+## Question 16 [D5-D6]
 **ID:** PR-ING-11-2026-W04-past-continuous-interrupted-001-MASTERY-bundle-v16
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Past continuous con 'by the time', Maunabo, grado 11.
 
 ### Enunciado
-What is the English word for: "In or to a foreign country, especially one across the sea."
+Complete the sentence: 'By the time we arrived, the film ____.'
 
 ### Opciones
-- [x] C) overseas
-  <!-- feedback: Correct! 'overseas' matches the definition. -->
-- [ ] A) domestic
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) local
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) national
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) already started
+  <!-- feedback: Without an auxiliary the sentence cannot express the past perfect. -->
+- [ ] B) has already started
+  <!-- feedback: The present perfect refers to the present, not to that past moment. -->
+- [ ] C) was already starting
+  <!-- feedback: The progressive here would suggest a continuing action rather than a completed start. -->
+- [x] D) had already started
+  <!-- feedback: 'Had started' is the past perfect, which marks the earlier of two past events. -->
 
 ### Explicacion Pedagogica
-The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
+La escena ya estaba en curso cuando llego el equipo, por eso va en pasado continuo. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.
+
 ---
-## Question 17 [D9]
+
+## Question 17 [D5-D6]
 **ID:** PR-ING-11-2026-W04-past-continuous-interrupted-001-MASTERY-bundle-v17
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Understand
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Conectores de tiempo, Naguabo, grado 11.
 
 ### Enunciado
-What is the English word for: "An estimate of income and expenditure for a set period of time."
+What does 'as' mean in the sentence 'She dropped the book as she fell'?
 
 ### Opciones
-- [x] C) budget
-  <!-- feedback: Correct! 'budget' matches the definition. -->
-- [ ] A) expense
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) cost
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) price
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) One action happened long before the other
+  <!-- feedback: That would be the reading of 'after' or 'by the time'. -->
+- [ ] B) One action caused the other
+  <!-- feedback: Causation requires 'because' or 'so'. -->
+- [ ] C) One action happened every day
+  <!-- feedback: Repetition would need 'every time'. -->
+- [x] D) Both actions happened at the same time
+  <!-- feedback: 'As' marks simultaneity between two past events. -->
 
 ### Explicacion Pedagogica
-The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
+'As' indica que ambas acciones ocurrieron al mismo tiempo. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.
+
 ---
-## Question 18 [D10]
+
+## Question 18 [D5-D6]
 **ID:** PR-ING-11-2026-W04-past-continuous-interrupted-001-MASTERY-bundle-v18
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Revision del pasado continuo, Toa Baja, grado 11.
 
 ### Enunciado
-What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
+Which sentence is NOT correct?
 
 ### Opciones
-- [x] A) insurance
-  <!-- feedback: Correct! 'insurance' matches the definition. -->
-- [ ] B) warranty
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) guarantee
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) policy
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) I was tired and I was sleeping early.
+  <!-- feedback: Both clauses can be in the past continuous with no conflict. -->
+- [x] B) I was sleeping while I slept.
+  <!-- feedback: The same subject cannot sleep twice at once in two tenses. -->
+- [ ] C) I was tired and I slept early.
+  <!-- feedback: That combination of continuous and simple past is also valid. -->
+- [ ] D) I was sleeping while she was working.
+  <!-- feedback: Two different subjects in the continuous cause no conflict. -->
 
 ### Explicacion Pedagogica
-The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
+El pasado continuo no puede usarse con el pasado simple en la misma oracion para el mismo sujeto.
+
 ---
-## Question 19 [D9]
+
+## Question 19 [D5-D6]
 **ID:** PR-ING-11-2026-W04-past-continuous-interrupted-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Actividades superpuestas, Luquillo, grado 11.
 
 ### Enunciado
-What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
+Choose the sentence that best describes two overlapping past activities.
 
 ### Opciones
-- [x] B) vaccination
-  <!-- feedback: Correct! 'vaccination' matches the definition. -->
-- [ ] A) medication
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) prescription
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) infection
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) She revised for the test while her friends were partying next door
+  <!-- feedback: The simple past would make her revision a bounded event. -->
+- [ ] B) She will revise for the test while her friends were partying next door
+  <!-- feedback: A future clause cannot overlap a past clause in that way. -->
+- [x] C) She was revising for the test while her friends were partying next door
+  <!-- feedback: Two simultaneous background activities, both in the continuous. -->
+- [ ] D) She has revised for the test while her friends party next door
+  <!-- feedback: The present perfect and present simple refer to the present. -->
 
 ### Explicacion Pedagogica
-The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
+El pasado continuo en ambas clausulas expresa dos actividades simultaneas. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.
+
 ---
-## Question 20 [D10]
+
+## Question 20 [D3-D4]
 **ID:** PR-ING-11-2026-W04-past-continuous-interrupted-001-MASTERY-bundle-v20
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Pregunta sobre accion en curso, Ciales, grado 11.
 
 ### Enunciado
-What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
+Complete the dialogue: 'A: What were you doing at eight last night? B: I ____ my online class.'
 
 ### Opciones
-- [x] A) jet lag
-  <!-- feedback: Correct! 'jet lag' matches the definition. -->
-- [ ] B) fatigue
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) exhaustion
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) insomnia
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) took
+  <!-- feedback: The simple past would answer a question about a completed event. -->
+- [ ] B) have taken
+  <!-- feedback: The present perfect refers to the present. -->
+- [ ] C) am taking
+  <!-- feedback: The present continuous refers to the present. -->
+- [x] D) was taking
+  <!-- feedback: 'Was taking' is the past continuous and answers a question about an action in progress. -->
 
 ### Explicacion Pedagogica
-The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.
+La pregunta pide la accion en curso en ese momento, por lo que la respuesta va en pasado continuo.
+
+---

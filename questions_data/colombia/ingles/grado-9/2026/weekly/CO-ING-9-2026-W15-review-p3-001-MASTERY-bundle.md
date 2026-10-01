@@ -102,7 +102,7 @@ ________ the new law, the citizens gathered in the square to celebrate.
 - [ ] A) Passing <!-- feedback: Incorrect. The citizens didn't pass the law; the law was passed. -->
 - [x] C) Having heard about <!-- feedback: Correct! Active perfect participle for an action completed by the citizens. -->
 - [ ] B) Heard about <!-- feedback: Incorrect. Passive meaning. -->
-- [ ] D) To hear about <!-- feedback: Incorrect. -->
+- [ ] D) To hear about <!-- feedback: An infinitive would leave the citizens as the ones about to hear about the law, when the hearing is already complete. -->
 
 ### Explicacion Pedagogica
 El participio de perfecto (*Having heard*) indica que los ciudadanos se reunieron después de haber escuchado la noticia, estableciendo una secuencia lógica.
@@ -186,7 +186,7 @@ ________ by the beautiful landscape, the artist decided to stay for another week
 - [ ] A) Inspiring <!-- feedback: Incorrect. This would mean the artist was inspiring someone else. -->
 - [x] B) Inspired <!-- feedback: Correct! Past participle clause shows the passive cause of the artist's decision. -->
 - [ ] C) Having inspired <!-- feedback: Incorrect. Active meaning. -->
-- [ ] D) To inspire <!-- feedback: Incorrect. -->
+- [ ] D) To inspire <!-- feedback: An infinitive would make the artist the one inspiring the landscape, while the landscape is what inspires him. -->
 
 ### Explicacion Pedagogica
 Usamos el participio pasado (*Inspired*) para describir cómo se siente el sujeto o qué le ha afectado, funcionando como una causa pasiva ("Because he was inspired...").

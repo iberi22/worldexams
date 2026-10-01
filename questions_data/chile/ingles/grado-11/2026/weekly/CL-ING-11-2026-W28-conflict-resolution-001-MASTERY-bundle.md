@@ -96,9 +96,9 @@ Active listening is a technique used in conflict resolution to ensure that all p
 
 ### Opciones
 - [x] A) heard <!-- feedback: Correct. The goal of active listening is to make the speaker feel heard. -->
-- [ ] B) ignored <!-- feedback: Incorrect. Opposite of the goal. -->
+- [ ] B) ignored <!-- feedback: 'Ignored' means the listener failed to pay attention, which defeats the whole purpose of the technique. -->
 - [ ] C) judged <!-- feedback: Incorrect. Active listening should be non-judgmental. -->
-- [ ] D) silenced <!-- feedback: Incorrect. Opposite of the goal. -->
+- [ ] D) silenced <!-- feedback: 'Silenced' means the listener stopped the speaker from talking, the opposite of making that speaker feel heard. -->
 
 ### Explicacion Pedagogica
 Being 'heard' is the fundamental psychological need that active listening aims to satisfy in a conflict.
@@ -135,7 +135,7 @@ A "win-win" situation is one in which a compromise is reached that benefits all 
 A treaty is a formally concluded and ratified agreement between countries.
 
 ### Opciones
-- [ ] A) fight <!-- feedback: Incorrect. Conflict. -->
+- [ ] A) fight <!-- feedback: A fight is the armed clash itself, not the written agreement made to end it; 'fight' also takes no formal object such as 'a treaty'. -->
 - [x] D) treaty <!-- feedback: Correct. Formal international agreement. -->
 - [ ] B) rumor <!-- feedback: Incorrect. Informal. -->
 - [ ] C) protest <!-- feedback: Incorrect. Expression of objection. -->
@@ -155,10 +155,10 @@ A treaty is a formally concluded and ratified agreement between countries.
 New terms for the agreement are being discussed by the legal teams this week.
 
 ### Opciones
-- [ ] B) are discussing <!-- feedback: Incorrect. Active voice. -->
+- [ ] B) are discussing <!-- feedback: 'Are discussing' is active, so the legal teams would have to be the subject, but the sentence makes the terms the thing being discussed. -->
 - [x] A) are being discussed <!-- feedback: Correct. Present continuous passive for an ongoing process. -->
 - [ ] C) discussed <!-- feedback: Incorrect. Past simple. -->
-- [ ] D) have discussed <!-- feedback: Incorrect. Active voice. -->
+- [ ] D) have discussed <!-- feedback: 'Have discussed' is an active present perfect, which would mean the teams already finished this week's talks. -->
 
 ### Explicacion Pedagogica
 The present continuous passive describes the current status of the negotiation process.
@@ -235,10 +235,10 @@ Zero-sum thinking is the belief that one side can only gain if the other side lo
 Empathy is a vital skill for mediators, as it allows them to understand the perspectives of all parties.
 
 ### Opciones
-- [ ] A) Hatred <!-- feedback: Incorrect. -->
+- [ ] A) Hatred <!-- feedback: Hatred is a strong dislike, and it would block a mediator from seeing any other side's point of view. -->
 - [x] B) Empathy <!-- feedback: Correct. The ability to understand others' feelings. -->
-- [ ] C) Greed <!-- feedback: Incorrect. -->
-- [ ] D) Apathy <!-- feedback: Incorrect. -->
+- [ ] C) Greed <!-- feedback: Greed is a selfish desire for more, which is the opposite of the concern for others this definition describes. -->
+- [ ] D) Apathy <!-- feedback: Apathy is a lack of interest in the matter, whereas the definition stresses actively understanding every perspective. -->
 
 ### Explicacion Pedagogica
 'Empathy' is a key competency for professionals who help others resolve disputes.
@@ -275,10 +275,10 @@ The future perfect passive describes a desired goal as a finished fact at a spec
 Reconciliation is the restoration of friendly relations after a conflict.
 
 ### Opciones
-- [ ] B) Aggression <!-- feedback: Incorrect. -->
+- [ ] B) Aggression <!-- feedback: Aggression is hostile behaviour that damages relations, so it is the opposite of the healing this term names. -->
 - [x] A) Reconciliation <!-- feedback: Correct. The process of healing relationships. -->
 - [ ] C) Separation <!-- feedback: Incorrect. Often the opposite of reconciliation. -->
-- [ ] D) Competition <!-- feedback: Incorrect. -->
+- [ ] D) Competition <!-- feedback: Competition sets parties against each other to win, which continues the division instead of repairing it. -->
 
 ### Explicacion Pedagogica
 'Reconciliation' is the standard term for the process of repairing trust and connection after a dispute.
@@ -336,8 +336,8 @@ A neutral person is one who does not take sides in an argument or conflict.
 
 ### Opciones
 - [ ] A) biased <!-- feedback: Incorrect. Taking a side. -->
-- [x] D) neutral <!-- feedback: Correct. Impartial. -->
-- [ ] B) hostile <!-- feedback: Incorrect. Unfriendly. -->
+- [x] D) neutral <!-- feedback: Correct. Neutral is the exact term for someone who takes no side in the argument, so it matches the definition word for word. -->
+- [ ] B) hostile <!-- feedback: Hostile means unfriendly and ready to fight, which is the opposite of staying out of the dispute. -->
 - [ ] C) active <!-- feedback: Incorrect. While they can be active in the process, 'neutral' refers specifically to side-taking. -->
 
 ### Explicacion Pedagogica

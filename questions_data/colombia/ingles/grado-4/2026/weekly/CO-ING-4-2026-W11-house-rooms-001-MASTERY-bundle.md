@@ -35,10 +35,10 @@ Este bundle evalúa conceptos de house rooms en inglés, nivel CEFR A1 para grad
 Where do you sleep?
 
 ### Opciones
-- [x] A) In the bedroom <!-- feedback: Correct! -->
-- [ ] B) In the kitchen <!-- feedback: No. -->
-- [ ] C) In the bathroom <!-- feedback: No. -->
-- [ ] D) In the garage <!-- feedback: No. -->
+- [x] A) In the bedroom <!-- feedback: Correct. The bedroom is the room built for sleeping, so that is where you sleep. -->
+- [ ] B) In the kitchen <!-- feedback: The kitchen is for cooking and eating, not for sleeping. -->
+- [ ] C) In the bathroom <!-- feedback: The bathroom is for washing and using the toilet, not for sleeping. -->
+- [ ] D) In the garage <!-- feedback: The garage is where the car is kept, and nobody sleeps there. -->
 
 ### Explicación Pedagógica
 This question evaluates remember skills regarding house rooms at the CEFR A1 level.
@@ -56,10 +56,10 @@ This question evaluates remember skills regarding house rooms at the CEFR A1 lev
 Where does your mother cook food?
 
 ### Opciones
-- [ ] A) In the dining room <!-- feedback: No. -->
-- [x] B) In the kitchen <!-- feedback: Correct! -->
-- [ ] C) In the garden <!-- feedback: No. -->
-- [ ] D) In the attic <!-- feedback: No. -->
+- [ ] A) In the dining room <!-- feedback: The dining room is where the family eats together, not where the food is prepared. -->
+- [x] B) In the kitchen <!-- feedback: Correct. The kitchen is the room with the stove and the utensils where food is cooked. -->
+- [ ] C) In the garden <!-- feedback: A garden is outside and grows plants, it is not a room for cooking. -->
+- [ ] D) In the attic <!-- feedback: An attic is a space at the top of the roof for storage, not a kitchen. -->
 
 ### Explicación Pedagógica
 This question evaluates understand skills regarding house rooms at the CEFR A1 level.
@@ -77,10 +77,10 @@ This question evaluates understand skills regarding house rooms at the CEFR A1 l
 We watch TV in the ________.
 
 ### Opciones
-- [ ] A) hallway <!-- feedback: No. -->
-- [ ] B) pantry <!-- feedback: No. -->
-- [x] C) living room <!-- feedback: Correct! -->
-- [ ] D) bathroom <!-- feedback: No. -->
+- [ ] A) hallway <!-- feedback: A hallway is a corridor for walking through, not a room with a sofa. -->
+- [ ] B) pantry <!-- feedback: A pantry is a small room where food is stored, not for watching television. -->
+- [x] C) living room <!-- feedback: Correct. The living room is where the family sits to watch television together. -->
+- [ ] D) bathroom <!-- feedback: The bathroom is for washing, not for watching television. -->
 
 ### Explicación Pedagógica
 This question evaluates apply skills regarding house rooms at the CEFR A1 level.
@@ -98,10 +98,10 @@ This question evaluates apply skills regarding house rooms at the CEFR A1 level.
 I take a shower in the ________.
 
 ### Opciones
-- [ ] A) kitchen <!-- feedback: No. -->
-- [ ] B) bedroom <!-- feedback: No. -->
-- [ ] C) office <!-- feedback: No. -->
-- [x] D) bathroom <!-- feedback: Correct! -->
+- [ ] A) kitchen <!-- feedback: A kitchen is for cooking food, so the shower is not there. -->
+- [ ] B) bedroom <!-- feedback: A bedroom is for sleeping and resting, not for washing. -->
+- [ ] C) office <!-- feedback: An office is a room with a desk for working, not a place with a shower. -->
+- [x] D) bathroom <!-- feedback: Correct. A bathroom is the room with the shower and the taps where you wash. -->
 
 ### Explicación Pedagógica
 This question evaluates analyze skills regarding house rooms at the CEFR A1 level.
@@ -119,10 +119,10 @@ This question evaluates analyze skills regarding house rooms at the CEFR A1 leve
 Where do you park the car?
 
 ### Opciones
-- [x] A) In the garage <!-- feedback: Correct! -->
-- [ ] B) In the kitchen <!-- feedback: No. -->
-- [ ] C) In the living room <!-- feedback: No. -->
-- [ ] D) On the roof <!-- feedback: No. -->
+- [x] A) In the garage <!-- feedback: Correct. A garage is the building or room where a car is kept and parked. -->
+- [ ] B) In the kitchen <!-- feedback: A kitchen is for cooking, a car cannot be parked in it. -->
+- [ ] C) In the living room <!-- feedback: The living room is a sitting room, not a place for a car. -->
+- [ ] D) On the roof <!-- feedback: A roof is the top of a house, and no car is parked up there. -->
 
 ### Explicación Pedagógica
 This question evaluates evaluate skills regarding house rooms at the CEFR A1 level.
@@ -140,10 +140,10 @@ This question evaluates evaluate skills regarding house rooms at the CEFR A1 lev
 We eat dinner together in the ________.
 
 ### Opciones
-- [ ] A) closet <!-- feedback: No. -->
-- [x] B) dining room <!-- feedback: Correct! -->
-- [ ] C) bedroom <!-- feedback: No. -->
-- [ ] D) laundry room <!-- feedback: No. -->
+- [ ] A) closet <!-- feedback: A closet is a small space for hanging clothes, not a place to sit down for dinner. -->
+- [x] B) dining room <!-- feedback: Correct. The dining room is the room with the table where the family eats the evening meal. -->
+- [ ] C) bedroom <!-- feedback: A bedroom is where you sleep, and dinner is not eaten there. -->
+- [ ] D) laundry room <!-- feedback: A laundry room is where clothes are washed, not a place to share a meal. -->
 
 ### Explicación Pedagógica
 This question evaluates apply skills regarding house rooms at the CEFR A1 level.
@@ -161,10 +161,10 @@ This question evaluates apply skills regarding house rooms at the CEFR A1 level.
 My house has a small ________ with flowers.
 
 ### Opciones
-- [ ] A) ceiling <!-- feedback: No. -->
-- [ ] B) floor <!-- feedback: No. -->
-- [x] C) garden <!-- feedback: Correct! -->
-- [ ] D) staircase <!-- feedback: No. -->
+- [ ] A) ceiling <!-- feedback: A 'ceiling' is the flat surface overhead, it is not an outdoor place with plants. -->
+- [ ] B) floor <!-- feedback: A 'floor' is the ground inside a room, not a place where flowers grow. -->
+- [x] C) garden <!-- feedback: Correct. A garden is the outdoor area of a house where flowers and plants are grown. -->
+- [ ] D) staircase <!-- feedback: A 'staircase' is the set of steps between floors, not a place with flowers. -->
 
 ### Explicación Pedagógica
 This question evaluates understand skills regarding house rooms at the CEFR A1 level.
@@ -182,10 +182,10 @@ This question evaluates understand skills regarding house rooms at the CEFR A1 l
 You enter the house through the ________.
 
 ### Opciones
-- [ ] A) window <!-- feedback: No. -->
-- [ ] B) wall <!-- feedback: No. -->
-- [ ] C) chimney <!-- feedback: No. -->
-- [x] D) door <!-- feedback: Correct! -->
+- [ ] A) window <!-- feedback: A window is an opening in the wall for light and air, not the main way in. -->
+- [ ] B) wall <!-- feedback: A wall is a solid side of the house, you cannot walk through it. -->
+- [ ] C) chimney <!-- feedback: A chimney is the pipe that takes smoke out of a fireplace, not an entrance. -->
+- [x] D) door <!-- feedback: Correct. The door is the movable part of the entrance that a person opens to go in. -->
 
 ### Explicación Pedagógica
 This question evaluates remember skills regarding house rooms at the CEFR A1 level.

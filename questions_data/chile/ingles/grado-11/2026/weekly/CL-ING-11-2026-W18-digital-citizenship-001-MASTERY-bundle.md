@@ -55,9 +55,9 @@ Digital citizenship refers to the responsible use of technology by anyone who us
 Users should ensure that their private information is kept secure from potential cyber threats.
 
 ### Opciones
-- [ ] A) keep <!-- feedback: Incorrect. Active voice. -->
+- [ ] A) keep <!-- feedback: "Keep" is the plain form and is the active voice; the advice is about the information being kept secure, not about the users doing the keeping directly in this clause. -->
 - [x] C) is kept <!-- feedback: Correct. Present simple passive for a general requirement. -->
-- [ ] B) keeps <!-- feedback: Incorrect. Active voice. -->
+- [ ] B) keeps <!-- feedback: "Keeps" has an -s ending for a third person singular subject; the subject here is the uncountable "information" inside a that-clause, which needs "is kept". -->
 - [ ] D) being kept <!-- feedback: Incorrect. Gerund. -->
 
 ### Explicacion Pedagogica
@@ -135,7 +135,7 @@ The digital divide highlights the inequality in access to information and commun
 Netiquette is the set of rules for behaving properly online.
 
 ### Opciones
-- [ ] A) Software <!-- feedback: Incorrect. Programs. -->
+- [ ] A) Software <!-- feedback: Netiquette is a code of conduct, not a product; the word that completes the pair is "etiquette". -->
 - [x] C) Netiquette <!-- feedback: Correct. Portmanteau of network and etiquette. -->
 - [ ] B) Hardware <!-- feedback: Incorrect. Physical parts of a computer. -->
 - [ ] D) Malware <!-- feedback: Incorrect. Harmful software. -->
@@ -197,8 +197,8 @@ Your browsing habits are being tracked by various companies to target you with a
 ### Opciones
 - [ ] A) are tracking <!-- feedback: Incorrect. Active voice. -->
 - [x] D) are being tracked <!-- feedback: Correct. Present continuous passive for an ongoing process. -->
-- [ ] B) were tracked <!-- feedback: Incorrect. Past simple. -->
-- [ ] C) tracked <!-- feedback: Incorrect. Past simple. -->
+- [ ] B) were tracked <!-- feedback: "Were tracked" is the past simple, which would place the tracking at a finished past moment; the tracking described here is still going on. -->
+- [ ] C) tracked <!-- feedback: The bare past participle "tracked" has no auxiliary and cannot complete the sentence on its own. -->
 
 ### Explicacion Pedagogica
 The present continuous passive describes how user data is currently and continuously being monitored.
@@ -317,8 +317,8 @@ The author concludes that digital literacy is the most effective tool for naviga
 ### Opciones
 - [ ] B) distraction <!-- feedback: Incorrect. Literacy is a help, not a distraction. -->
 - [x] A) digital literacy <!-- feedback: Correct. Digital literacy is the ability to find, evaluate, and communicate information through various digital platforms. -->
-- [ ] C) isolation <!-- feedback: Incorrect. Negative. -->
-- [ ] D) aggression <!-- feedback: Incorrect. Negative. -->
+- [ ] C) isolation <!-- feedback: "Isolation" is the opposite of what an essay on digital ethics argues for; literacy connects people to information and to each other. -->
+- [ ] D) aggression <!-- feedback: "Aggression" describes hostile behaviour, the opposite of the careful, informed use of digital tools that the author praises. -->
 
 ### Explicacion Pedagogica
 'Digital literacy' refers to the set of skills needed to use technology effectively and critically.
@@ -337,8 +337,8 @@ Phishing is a fraudulent attempt to obtain sensitive information such as usernam
 ### Opciones
 - [ ] A) Fishing <!-- feedback: Incorrect spelling for this context. -->
 - [x] D) Phishing <!-- feedback: Correct. Specific term for this type of cybercrime. -->
-- [ ] B) Shopping <!-- feedback: Incorrect. -->
-- [ ] C) Blogging <!-- feedback: Incorrect. -->
+- [ ] B) Shopping <!-- feedback: "Shopping" is the activity of buying things; it has nothing to do with deceiving people online for their passwords. -->
+- [ ] C) Blogging <!-- feedback: "Blogging" is writing posts on a blog; it is not a fraudulent method of stealing credentials. -->
 
 ### Explicacion Pedagogica
 'Phishing' is the technical term for deceptive attempts to steal user data.

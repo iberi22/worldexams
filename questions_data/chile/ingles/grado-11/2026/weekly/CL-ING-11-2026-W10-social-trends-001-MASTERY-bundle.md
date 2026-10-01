@@ -195,10 +195,10 @@ Minimalism is a lifestyle choice that focuses on living with fewer material poss
 Many people used to commute to an office every day, but now they work from home.
 
 ### Opciones
-- [ ] A) are used to <!-- feedback: Incorrect. This means 'accustomed to'. -->
-- [x] D) used to <!-- feedback: Correct. Describes a past habit that has changed. -->
-- [ ] B) use to <!-- feedback: Incorrect grammar. -->
-- [ ] C) would <!-- feedback: Incorrect. 'Used to' is better for contrasting the past and present. -->
+- [ ] A) are used to <!-- feedback: 'Are used to' followed by a noun or by 'to' plus verb means 'accustomed to', which is a different idea. -->
+- [x] D) used to <!-- feedback: 'Use to' is not correct English; the structure is always 'used to' with a d in the negative and in the past. -->
+- [ ] B) use to <!-- feedback: 'Would' expresses a repeated past action but does not form the structure the sentence uses to contrast past habit with present reality. -->
+- [ ] C) would <!-- feedback: Correct. 'Used to' is the standard structure for a past habit that no longer holds, which is exactly the contrast the sentence makes. -->
 
 ### Explicacion Pedagogica
 'Used to' is the standard structure for comparing past habits with present reality.

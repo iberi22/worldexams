@@ -118,7 +118,7 @@ Choose the correct question with the present perfect.
   <!-- feedback: 'Do' plus participle is not a valid structure. -->
 
 ### Explicacion Pedagogica
-La pregunta conserva el auxiliar 'have' delante del sujeto y el participio despues.
+La pregunta conserva el auxiliar 'have' delante del sujeto y el participio despues. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.
 
 ---
 
@@ -230,7 +230,7 @@ Which sentence is correct with 'since'?
 **Contexto:** Consolidacion del presente perfecto, Guayaquil.
 
 ### Enunciado
-Which sentence is grammatically correct?
+Which option is the correct present perfect form?
 
 ### Opciones
 - [ ] A) We have know each other since primary school.

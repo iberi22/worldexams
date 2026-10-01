@@ -52,7 +52,7 @@ Na Sequência de Fibonacci $(1, 1, 2, 3, 5, 8, ...)$, como é obtido cada termo 
 - [ ] A) Multiplicando o termo anterior por 2. <!-- feedback: Esta seria uma progressão geométrica. -->
 - [ ] C) Somando um valor constante ao termo anterior. <!-- feedback: Esta seria uma progressão aritmética. -->
 - [x] B) Somando os dois termos imediatamente anteriores. <!-- feedback: Correto. a_n = a_{n-1} + a_{n-2}. -->
-- [ ] D) Elevando o termo anterior ao quadrado. <!-- feedback: Incorreto. -->
+- [ ] D) Elevando o termo anterior ao quadrado. <!-- feedback: Elevar ao quadrado não produz Fibonacci: $2^2=4$, e a sequência pede $1+1=2$. Esse método geraria $1,1,4,16,256,\dots$. -->
 
 ### Explicacion Pedagogica
 A Sequência de Fibonacci é uma sequência recursiva clássica. Após os dois primeiros termos (ambos iguais a 1), cada novo número é a soma dos seus dois antecessores diretos: $1+1=2, 1+2=3, 2+3=5, 3+5=8$, e assim por diante.
@@ -89,7 +89,7 @@ Qual é a razão ($r$) da Progressão Aritmética (PA) definida pela sequência 
 ### Opciones
 - [ ] A) 7 <!-- feedback: Este é o primeiro termo, não a razão. -->
 - [x] B) 5 <!-- feedback: r = 12 - 7 = 5. A diferença entre termos consecutivos é constante e igual a 5. -->
-- [ ] C) 19 <!-- feedback: Incorreto. -->
+- [ ] C) 19 <!-- feedback: A razão é a diferença entre termos consecutivos, $12-7=5$; o valor $19$ é $12+7$, a soma de dois termos. -->
 - [ ] D) -5 <!-- feedback: A sequência é crescente, logo a razão deve ser positiva. -->
 
 ### Explicacion Pedagogica
@@ -109,7 +109,7 @@ Considere a Progressão Geométrica (PG) $(2, 6, 18, 54, ...)$. Qual é a razão
 - [ ] A) 4 <!-- feedback: 4 é a diferença, mas em PG buscamos o quociente (razão multiplicativa). -->
 - [ ] B) 2 <!-- feedback: Este é o primeiro termo da sequência. -->
 - [x] C) 3 <!-- feedback: q = 6 / 2 = 3. Cada termo é o anterior multiplicado por 3. -->
-- [ ] D) 12 <!-- feedback: Incorreto. -->
+- [ ] D) 12 <!-- feedback: Em PG a razão é o quociente $6/2=3$; o valor $12$ vem de somar $6+2+4$ e não de dividir termos consecutivos. -->
 
 ### Explicacion Pedagogica
 Em uma Progressão Geométrica, a razão é o quociente constante entre um termo e o seu anterior: $q = a_2 / a_1$. No exemplo: $6 / 2 = 3$.
@@ -203,8 +203,8 @@ Qual é o próximo termo da sequência $(2, 5, 10, 17, 26, ...)$?
 ### Opciones
 - [ ] A) 35 <!-- feedback: Diferença constante não se aplica aqui. -->
 - [x] C) 37 <!-- feedback: A sequência segue a lei an = n² + 1. Para n=6: 6² + 1 = 37. Ou as diferenças são 3, 5, 7, 9, logo a próxima é 11: 26+11=37. -->
-- [ ] B) 39 <!-- feedback: Incorreto. -->
-- [ ] D) 41 <!-- feedback: Incorreto. -->
+- [ ] B) 39 <!-- feedback: As diferenças crescem de 2 em 2 ($3,5,7,9$), logo a próxima é $11$ e $26+11=37$; o valor $39$ soma $13$ em vez de $11$. -->
+- [ ] D) 41 <!-- feedback: O termo $41$ resultaria de somar $15$, mas o passo da sequência é $11$, dando $26+11=37$. -->
 
 ### Explicacion Pedagogica
 Podemos observar o padrão das diferenças entre termos: $5-2=3, 10-5=5, 17-10=7, 26-17=9$. As diferenças formam uma PA de razão 2. A próxima diferença deve ser 11. Somando ao último termo: $26 + 11 = 37$. Alternativamente, notamos que cada termo é da forma $n^2 + 1$.
@@ -244,7 +244,7 @@ Determine a soma dos 6 primeiros termos da PG $(3, 6, 12, ...)$.
 - [ ] A) 93 <!-- feedback: Valor muito baixo para a soma solicitada. -->
 - [x] C) 189 <!-- feedback: S6 = a1 * (q⁶ - 1) / (q - 1) = 3 * (2⁶ - 1) / (2 - 1) = 3 * 63 = 189. -->
 - [ ] B) 192 <!-- feedback: Este é apenas o sétimo termo da sequência, não a soma. -->
-- [ ] D) 378 <!-- feedback: Incorreto. -->
+- [ ] D) 378 <!-- feedback: A soma é $189$; o valor $378$ é o dobro e corresponderia a tomar $a_1=6$ em vez de $a_1=3$. -->
 
 ### Explicacion Pedagogica
 Usamos a fórmula da soma da PG finita: $S_n = \frac{a_1(q^n - 1)}{q - 1}$. Com $a_1 = 3$ e $q = 2$: $S_6 = \frac{3(2^6 - 1)}{2 - 1} = \frac{3(64 - 1)}{1} = 3 \cdot 63 = 189$.
@@ -341,8 +341,8 @@ Se a temperatura inicial é 100°C e cai 4°C por minuto, qual será a temperatu
 ### Opciones
 - [ ] A) 44°C <!-- feedback: a16 = 100 + 15*(-4) = 40. -->
 - [x] C) 40°C <!-- feedback: a16 = 100 + 15 * (-4) = 40. -->
-- [ ] B) 60°C <!-- feedback: Incorreto. -->
-- [ ] D) 36°C <!-- feedback: Incorreto. -->
+- [ ] B) 60°C <!-- feedback: A queda é de $4$ por minuto, então após $15$ minutos restam $60$ graus de perda a mais: $100-60=40$ e não $60$. -->
+- [ ] D) 36°C <!-- feedback: Com $15$ minutos e $4$ graus por minuto a perda total é $60$ graus; $36$ supõe uma taxa de $4{,}27$ graus por minuto. -->
 
 ### Explicacion Pedagogica
 O tempo 0 é a1=100. Após 15 minutos, estamos no termo a16. a16 = 100 + 15*(-4) = 100 - 60 = 40°C.
@@ -360,8 +360,8 @@ Insira dois meios geométricos entre 3 e 24. Qual é o valor do segundo termo da
 ### Opciones
 - [ ] A) 12 <!-- feedback: Se q=2, os meios seriam 6 e 12. Mas 12*2=24, confere. -->
 - [x] D) 6 <!-- feedback: 24 = 3 * q³ => q³ = 8 => q = 2. Termos: 3, 6, 12, 24. O segundo termo é 6. -->
-- [ ] B) 8 <!-- feedback: Incorreto. -->
-- [ ] C) 9 <!-- feedback: Incorreto. -->
+- [ ] B) 8 <!-- feedback: A PG é $3,6,12,24$ com razão $2$, de modo que o segundo termo é $6$; o valor $8$ é $3+6-1$ e não um termo da PG. -->
+- [ ] C) 9 <!-- feedback: A razão é $q=2$, logo os termos são $3,6,12,24$ e o segundo é $6$; o valor $9$ é a média de $6$ e $12$. -->
 
 ### Explicacion Pedagogica
 Temos a1=3 e a4=24. 24 = 3 * q^3 => q^3 = 8 => q = 2. A PG é (3, 6, 12, 24). O segundo termo é 6.
@@ -380,7 +380,7 @@ Uma aplicação de R\$ 1.000,00 rende 10\% ao mês. Qual é o montante acumulado
 - [ ] A) R\$ 1.300,00 <!-- feedback: Este seria o valor com juros simples. -->
 - [x] C) R\$ 1.331,00 <!-- feedback: 1000 * (1,1)³ = 1000 * 1,331 = 1331. -->
 - [ ] B) R\$ 1.210,00 <!-- feedback: Este é o valor após 2 meses. -->
-- [ ] D) R\$ 1.400,00 <!-- feedback: Incorreto. -->
+- [ ] D) R\$ 1.400,00 <!-- feedback: Com $10\%$ ao mês em juros compostos, o montante é $1000\cdot(1{,}1)^3=1331$; o valor $1400$ usaria $40\%$ de acréscimo no total. -->
 
 ### Explicacion Pedagogica
 Usamos PG com a1=1000 e q=1,1. O montante após 3 meses é o termo a4 = 1000 * (1,1)^3 = 1000 * 1,331 = 1331.
@@ -399,7 +399,7 @@ Dada a PA (1, 3, 5), qual é a soma dos quadrados de seus termos?
 - [ ] A) 9 <!-- feedback: Soma simples 1+3+5=9. -->
 - [x] C) 35 <!-- feedback: 1² + 3² + 5² = 1 + 9 + 25 = 35. -->
 - [ ] B) 81 <!-- feedback: (1+3+5)² = 81. -->
-- [ ] D) 45 <!-- feedback: Incorreto. -->
+- [ ] D) 45 <!-- feedback: Elevando cada termo ao quadrado, $1+9+25=35$; o valor $45$ somaria $1+3+5$ aos quadrados, contando os termos duas vezes. -->
 
 ### Explicacion Pedagogica
 Elevamos cada termo ao quadrado: 1^2 = 1, 3^2 = 9, 5^2 = 25. Somamos os resultados: 1 + 9 + 25 = 35.

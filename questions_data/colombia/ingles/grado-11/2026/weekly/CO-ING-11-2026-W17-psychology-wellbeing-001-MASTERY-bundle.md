@@ -136,13 +136,13 @@ According to a recent report on psychology & well-being in Cartagena, what is im
 
 ### Opciones
 - [x] C) It serves as a critical tool for nuanced communication.
-  <!-- feedback: Correct. C1+ level reading requires identifying subtle implications about language use. -->
+  <!-- feedback: Correct. Modal verbs used for nuance is the point here: modals grade certainty on a scale: "must" certain, "should" probable, "might" possible, "could" conceivable, so a finding can be read as a strong claim or a cautious one, which is how a study hedges responsibly. Reading that implication is what the question asks. -->
 - [ ] A) It is largely irrelevant to the general public.
-  <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
+  <!-- feedback: This calls the device irrelevant, but the report builds on the idea that this gradation is what matters to the public, so calling it irrelevant contradicts the text. -->
 - [ ] B) It simplifies complex socio-political messages.
-  <!-- feedback: Incorrect. The use of {grammar} actually adds complexity and depth. -->
+  <!-- feedback: This claims the device makes the claim plainer, whereas the modal qualifies the claim and adds a degree of certainty to it, so the message gains depth rather than simplicity. -->
 - [ ] D) It is only used by academic elites in {city}.
-  <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
+  <!-- feedback: This restricts the device to specialists in a single city, but the report presents this as normal usage in media and discourse, not as a marker reserved for one city's scholars. -->
 
 ### Explicacion Pedagogica
 This question requires inferential reading skills to understand how complex structures convey deeper meaning.
@@ -161,13 +161,13 @@ According to a recent report on psychology & well-being in Bogotá, what is impl
 
 ### Opciones
 - [x] A) It serves as a critical tool for nuanced communication.
-  <!-- feedback: Correct. C1+ level reading requires identifying subtle implications about language use. -->
+  <!-- feedback: Correct. Modal verbs used for nuance is the point here: modals grade certainty on a scale: "must" certain, "should" probable, "might" possible, "could" conceivable, so a finding can be read as a strong claim or a cautious one, which is how a study hedges responsibly. Reading that implication is what the question asks. -->
 - [ ] B) It is largely irrelevant to the general public.
-  <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
+  <!-- feedback: This calls the device irrelevant, but the report builds on the idea that this gradation is what matters to the public, so calling it irrelevant contradicts the text. -->
 - [ ] C) It simplifies complex socio-political messages.
-  <!-- feedback: Incorrect. The use of {grammar} actually adds complexity and depth. -->
+  <!-- feedback: This claims the device makes the claim plainer, whereas the modal qualifies the claim and adds a degree of certainty to it, so the message gains depth rather than simplicity. -->
 - [ ] D) It is only used by academic elites in {city}.
-  <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
+  <!-- feedback: This restricts the device to specialists in a single city, but the report presents this as normal usage in media and discourse, not as a marker reserved for one city's scholars. -->
 
 ### Explicacion Pedagogica
 This question requires inferential reading skills to understand how complex structures convey deeper meaning.
@@ -186,13 +186,13 @@ According to a recent report on psychology & well-being in Cali, what is implied
 
 ### Opciones
 - [x] A) It serves as a critical tool for nuanced communication.
-  <!-- feedback: Correct. C1+ level reading requires identifying subtle implications about language use. -->
+  <!-- feedback: Correct. Modal verbs used for nuance is the point here: modals grade certainty on a scale: "must" certain, "should" probable, "might" possible, "could" conceivable, so a finding can be read as a strong claim or a cautious one, which is how a study hedges responsibly. Reading that implication is what the question asks. -->
 - [ ] B) It is largely irrelevant to the general public.
-  <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
+  <!-- feedback: This calls the device irrelevant, but the report builds on the idea that this gradation is what matters to the public, so calling it irrelevant contradicts the text. -->
 - [ ] C) It simplifies complex socio-political messages.
-  <!-- feedback: Incorrect. The use of {grammar} actually adds complexity and depth. -->
+  <!-- feedback: This claims the device makes the claim plainer, whereas the modal qualifies the claim and adds a degree of certainty to it, so the message gains depth rather than simplicity. -->
 - [ ] D) It is only used by academic elites in {city}.
-  <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
+  <!-- feedback: This restricts the device to specialists in a single city, but the report presents this as normal usage in media and discourse, not as a marker reserved for one city's scholars. -->
 
 ### Explicacion Pedagogica
 This question requires inferential reading skills to understand how complex structures convey deeper meaning.
@@ -211,13 +211,13 @@ According to a recent report on psychology & well-being in Cartagena, what is im
 
 ### Opciones
 - [x] B) It serves as a critical tool for nuanced communication.
-  <!-- feedback: Correct. C1+ level reading requires identifying subtle implications about language use. -->
+  <!-- feedback: Correct. Modal verbs used for nuance is the point here: modals grade certainty on a scale: "must" certain, "should" probable, "might" possible, "could" conceivable, so a finding can be read as a strong claim or a cautious one, which is how a study hedges responsibly. Reading that implication is what the question asks. -->
 - [ ] A) It is largely irrelevant to the general public.
-  <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
+  <!-- feedback: This calls the device irrelevant, but the report builds on the idea that this gradation is what matters to the public, so calling it irrelevant contradicts the text. -->
 - [ ] C) It simplifies complex socio-political messages.
-  <!-- feedback: Incorrect. The use of {grammar} actually adds complexity and depth. -->
+  <!-- feedback: This claims the device makes the claim plainer, whereas the modal qualifies the claim and adds a degree of certainty to it, so the message gains depth rather than simplicity. -->
 - [ ] D) It is only used by academic elites in {city}.
-  <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
+  <!-- feedback: This restricts the device to specialists in a single city, but the report presents this as normal usage in media and discourse, not as a marker reserved for one city's scholars. -->
 
 ### Explicacion Pedagogica
 This question requires inferential reading skills to understand how complex structures convey deeper meaning.
@@ -236,13 +236,13 @@ According to a recent report on psychology & well-being in Bucaramanga, what is 
 
 ### Opciones
 - [x] B) It serves as a critical tool for nuanced communication.
-  <!-- feedback: Correct. C1+ level reading requires identifying subtle implications about language use. -->
+  <!-- feedback: Correct. Modal verbs used for nuance is the point here: modals grade certainty on a scale: "must" certain, "should" probable, "might" possible, "could" conceivable, so a finding can be read as a strong claim or a cautious one, which is how a study hedges responsibly. Reading that implication is what the question asks. -->
 - [ ] A) It is largely irrelevant to the general public.
-  <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
+  <!-- feedback: This calls the device irrelevant, but the report builds on the idea that this gradation is what matters to the public, so calling it irrelevant contradicts the text. -->
 - [ ] C) It simplifies complex socio-political messages.
-  <!-- feedback: Incorrect. The use of {grammar} actually adds complexity and depth. -->
+  <!-- feedback: This claims the device makes the claim plainer, whereas the modal qualifies the claim and adds a degree of certainty to it, so the message gains depth rather than simplicity. -->
 - [ ] D) It is only used by academic elites in {city}.
-  <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
+  <!-- feedback: This restricts the device to specialists in a single city, but the report presents this as normal usage in media and discourse, not as a marker reserved for one city's scholars. -->
 
 ### Explicacion Pedagogica
 This question requires inferential reading skills to understand how complex structures convey deeper meaning.
@@ -261,13 +261,13 @@ According to a recent report on psychology & well-being in Cali, what is implied
 
 ### Opciones
 - [x] C) It serves as a critical tool for nuanced communication.
-  <!-- feedback: Correct. C1+ level reading requires identifying subtle implications about language use. -->
+  <!-- feedback: Correct. Modal verbs used for nuance is the point here: modals grade certainty on a scale: "must" certain, "should" probable, "might" possible, "could" conceivable, so a finding can be read as a strong claim or a cautious one, which is how a study hedges responsibly. Reading that implication is what the question asks. -->
 - [ ] A) It is largely irrelevant to the general public.
-  <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
+  <!-- feedback: This calls the device irrelevant, but the report builds on the idea that this gradation is what matters to the public, so calling it irrelevant contradicts the text. -->
 - [ ] B) It simplifies complex socio-political messages.
-  <!-- feedback: Incorrect. The use of {grammar} actually adds complexity and depth. -->
+  <!-- feedback: This claims the device makes the claim plainer, whereas the modal qualifies the claim and adds a degree of certainty to it, so the message gains depth rather than simplicity. -->
 - [ ] D) It is only used by academic elites in {city}.
-  <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
+  <!-- feedback: This restricts the device to specialists in a single city, but the report presents this as normal usage in media and discourse, not as a marker reserved for one city's scholars. -->
 
 ### Explicacion Pedagogica
 This question requires inferential reading skills to understand how complex structures convey deeper meaning.

@@ -494,7 +494,7 @@ Listen: 'The teacher will correct the compositions on Friday, not on Thursday.' 
   <!-- feedback: The day is stated explicitly in the sentence. -->
 
 ### Explicacion Pedagogica
-La correccion ocurre el viernes; el jueves queda descartado por la negacion 'not'.
+La correccion ocurre el viernes; el jueves queda descartado por la negacion 'not'. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.
 
 ---
 

@@ -355,10 +355,10 @@ The performance received a standing ovation from the appreciative audience.
 She is interested in learning more about contemporary dance.
 
 ### Opciones
-- [ ] A) of <!-- feedback: Incorrect preposition. -->
-- [x] B) in <!-- feedback: Correct. We use 'interested in'. -->
-- [ ] C) at <!-- feedback: Incorrect preposition. -->
-- [ ] D) with <!-- feedback: Incorrect preposition. -->
+- [ ] A) of <!-- feedback: 'Interested' takes the preposition 'in' for what someone wants to learn about, so 'of' does not fit. -->
+- [x] B) in <!-- feedback: The fixed adjective-preposition combination is 'interested in', so 'in' is the correct choice. -->
+- [ ] C) at <!-- feedback: 'At' follows verbs such as 'look at' or 'arrive at'; it does not follow 'interested'. -->
+- [ ] D) with <!-- feedback: 'With' expresses an accompaniment ('interested with you'), which is not the meaning here. -->
 
 ### Explicacion Pedagogica
 'Interested in' is the standard adjective-preposition combination.
