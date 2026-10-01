@@ -18,467 +18,507 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 ---
-# MASTERY Bundle - ingles: collocations (W21)
-**20 preguntas | ingles | MINED - PAES El Salvador**
+# MASTERY Bundle - Ingles: collocations (W21)
+**20 preguntas | Ingles | MINED - PAES El Salvador**
 
 ---
 
 ## Question 1 [D3-D4]
 **ID:** SV-ING-11-2026-W21-collocations-001-MASTERY-bundle-v1
 **Bloom:** Apply
-**EJE:** collocations
+**EJE:** Lexical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** English class in Mejicanos, SV.
+**Contexto:** Practica de collocations, San Salvador.
 
 ### Enunciado
-Choose the correct option: 'I ___ reading a book right now.'
+Choose the correct collocation: 'She decided to ____ the offer.'
 
 ### Opciones
-- [x] B) am
-  <!-- feedback: Correct! -->
-- [ ] A) is
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] C) are
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] D) be
-  <!-- feedback: Incorrect. Review the concept. -->
+- [ ] A) refuse
+  <!-- feedback: 'Refuse an offer' is possible but changes the meaning; the neutral verb is 'accept'. -->
+- [ ] B) make
+  <!-- feedback: 'Make an offer' is the collocation used from the side of the person who offers. -->
+- [x] C) accept
+  <!-- feedback: 'Accept an offer' is a fixed and natural collocation. -->
+- [ ] D) take
+  <!-- feedback: 'Take an offer' is not a standard English collocation. -->
 
 ### Explicacion Pedagogica
-Present continuous: I am + verb-ing.
+'Accept an offer' es una combinacion fija y natural del ingles; las demas no encajan con 'offer' en este sentido.
+
+---
 
 ## Question 2 [D3-D4]
 **ID:** SV-ING-11-2026-W21-collocations-001-MASTERY-bundle-v2
-**Bloom:** Understand
-**EJE:** collocations
+**Bloom:** Analyze
+**EJE:** Lexical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** English class in San Salvador, SV.
+**Contexto:** Collocations adjetivales, San Miguel.
 
 ### Enunciado
-What does 'benevolent' mean?
+Which adjective and noun form a natural collocation?
 
 ### Opciones
-- [x] A) Kind and generous
-  <!-- feedback: Correct! -->
-- [ ] B) Mean and cruel
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] C) Quick and fast
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] D) Slow and lazy
-  <!-- feedback: Incorrect. Review the concept. -->
+- [ ] A) a close enemy
+  <!-- feedback: 'Close enemy' is not idiomatic; one says 'a sworn enemy'. -->
+- [x] B) a close friend
+  <!-- feedback: 'Close friend' is a fixed combination in English. -->
+- [ ] C) an immediate friend
+  <!-- feedback: 'Immediate' describes time or sequence, not friendship. -->
+- [ ] D) a near friend
+  <!-- feedback: 'Near' refers to distance or time, not to closeness of a bond. -->
 
 ### Explicacion Pedagogica
-'Benevolent' means kind, generous, or charitable.
+'Close friend' es una combinacion fija del ingles; 'close enemy' no lo es: se dice 'bitter enemy' o 'sworn enemy'.
+
+---
 
 ## Question 3 [D3-D4]
 **ID:** SV-ING-11-2026-W21-collocations-001-MASTERY-bundle-v3
-**Bloom:** Analyze
-**EJE:** collocations
-**Expected_Success:** 0.70
-**Contexto:** English class in Mejicanos, SV.
+**Bloom:** Apply
+**EJE:** Lexical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Verbo y sustantivo en collocations, San Salvador.
 
 ### Enunciado
-Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'
+Complete: 'The teacher asked the students to ____ their homework carefully.'
 
 ### Opciones
-- [x] A) Bees are important for pollination and honey
-  <!-- feedback: Correct! -->
-- [ ] B) Bees are dangerous insects
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] C) Honey is the only product bees make
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] D) Flowers don't need bees
-  <!-- feedback: Incorrect. Review the concept. -->
+- [ ] A) make
+  <!-- feedback: 'Make' collocates with a meal or a decision, not with homework in this sense. -->
+- [ ] B) write
+  <!-- feedback: 'Write' takes 'an essay' or 'a report', not 'homework'. -->
+- [ ] C) take
+  <!-- feedback: 'Take' collocates with an exam or a medicine, not with homework. -->
+- [x] D) do
+  <!-- feedback: 'Do homework' is the standard verb-noun collocation. -->
 
 ### Explicacion Pedagogica
-The main idea summarizes the key points about bees: pollination and honey.
+'Do one's homework' es la collocation estandar; los demas verbos no se combinan de forma natural con 'homework'.
+
+---
 
 ## Question 4 [D3-D4]
 **ID:** SV-ING-11-2026-W21-collocations-001-MASTERY-bundle-v4
-**Bloom:** Remember
-**EJE:** collocations
-**Expected_Success:** 0.85
-**Contexto:** English class in San Miguel, SV.
+**Bloom:** Apply
+**EJE:** Lexical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Collocations con 'decision', San Miguel.
 
 ### Enunciado
-Which is the correct past form of 'go'?
+Choose the best verb: 'We need to ____ a decision before Friday.'
 
 ### Opciones
-- [x] C) went
-  <!-- feedback: Correct! -->
-- [ ] A) goed
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] B) gone
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] D) going
-  <!-- feedback: Incorrect. Review the concept. -->
+- [ ] A) do
+  <!-- feedback: 'Do' collocates with tasks, homework or business, not with a decision. -->
+- [x] B) make
+  <!-- feedback: 'Make a decision' is the fixed collocation in standard English. -->
+- [ ] C) take
+  <!-- feedback: 'Take a decision' appears in some legal registers but is not the common collocation. -->
+- [ ] D) give
+  <!-- feedback: 'Give a decision' would suggest handing the decision over to someone else. -->
 
 ### Explicacion Pedagogica
-'Go' is an irregular verb: go → went (past simple).
+'Make a decision' es la combinacion natural del ingles; 'do a decision' no existe.
+
+---
 
 ## Question 5 [D5-D6]
 **ID:** SV-ING-11-2026-W21-collocations-001-MASTERY-bundle-v5
-**Bloom:** Remember
-**EJE:** collocations
-**Expected_Success:** 0.85
-**Contexto:** English class in San Miguel, SV.
+**Bloom:** Analyze
+**EJE:** Lexical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Preposiciones y sustantivos, San Salvador.
 
 ### Enunciado
-Which sentence uses the present simple correctly?
+Which prepositional collocation is correct?
 
 ### Opciones
-- [x] A) She goes to school every day.
-  <!-- feedback: Correct! -->
-- [ ] B) She go to school every day.
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] C) She going to school every day.
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] D) She gone to school every day.
-  <!-- feedback: Incorrect. Review the concept. -->
+- [ ] A) She is responsible of the project.
+  <!-- feedback: 'Responsible of' is not standard English; use 'for'. -->
+- [ ] B) She is responsible from the project.
+  <!-- feedback: 'From' would suggest origin, not responsibility. -->
+- [ ] C) She is responsible to the project.
+  <!-- feedback: 'Responsible to' takes a person, not a task. -->
+- [x] D) She is responsible for the project.
+  <!-- feedback: 'Responsible for' is the fixed prepositional collocation. -->
 
 ### Explicacion Pedagogica
-Present simple: subject + verb(-s for he/she/it).
+En ingles se dice 'responsible for'; las demas preposiciones no forman parte de esa collocation.
 
-## Question 6 [D5-D6]
+---
+
+## Question 6 [D3-D4]
 **ID:** SV-ING-11-2026-W21-collocations-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**EJE:** collocations
+**EJE:** Lexical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** English class in Mejicanos, SV.
+**Contexto:** Adjetivo y preposicion, San Salvador.
 
 ### Enunciado
-Choose the correct option: 'I ___ reading a book right now.'
+Choose the natural collocation: 'He is very ____ about arriving on time.'
 
 ### Opciones
-- [x] D) am
-  <!-- feedback: Correct! -->
-- [ ] A) is
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] B) are
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] C) be
-  <!-- feedback: Incorrect. Review the concept. -->
+- [x] A) concerned
+  <!-- feedback: 'Concerned about' is the natural collocation with punctuality. -->
+- [ ] B) concerning
+  <!-- feedback: 'Concerning' is a preposition meaning 'about' and cannot follow 'very'. -->
+- [ ] C) concern
+  <!-- feedback: 'Concern' is a noun here and cannot follow 'very' in this pattern. -->
+- [ ] D) concernful
+  <!-- feedback: 'Concernful' is not a standard English adjective. -->
 
 ### Explicacion Pedagogica
-Present continuous: I am + verb-ing.
+La combinacion fija es 'concerned about', que expresa preocupacion o interes. Expresa worried about, pleased with o surprised at.
 
-## Question 7 [D5-D6]
+---
+
+## Question 7 [D3-D4]
 **ID:** SV-ING-11-2026-W21-collocations-001-MASTERY-bundle-v7
-**Bloom:** Understand
-**EJE:** collocations
+**Bloom:** Apply
+**EJE:** Lexical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** English class in San Miguel, SV.
+**Contexto:** Collocations con el clima, San Miguel.
 
 ### Enunciado
-What does 'benevolent' mean?
+Complete: 'The weather was so ____ that the match was cancelled.'
 
 ### Opciones
-- [x] C) Kind and generous
-  <!-- feedback: Correct! -->
-- [ ] A) Mean and cruel
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] B) Quick and fast
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] D) Slow and lazy
-  <!-- feedback: Incorrect. Review the concept. -->
+- [ ] A) the rain was strong
+  <!-- feedback: 'Strong rain' is not idiomatic; one says 'heavy rain' or 'torrential rain'. -->
+- [x] B) the rain was heavy
+  <!-- feedback: 'Heavy rain' is the standard English collocation. -->
+- [ ] C) the rain was hard
+  <!-- feedback: 'Hard rain' is informal and refers to droplets, not to intensity here. -->
+- [ ] D) the rain was big
+  <!-- feedback: 'Big rain' is informal and does not fit a formal register. -->
 
 ### Explicacion Pedagogica
-'Benevolent' means kind, generous, or charitable.
+'Heavy rain' es la combinacion natural del ingles; 'strong rain' no se usa. El adjetivo describe la intensidad de la precipitacion.
 
-## Question 8 [D5-D6]
+---
+
+## Question 8 [D3-D4]
 **ID:** SV-ING-11-2026-W21-collocations-001-MASTERY-bundle-v8
 **Bloom:** Analyze
-**EJE:** collocations
-**Expected_Success:** 0.70
-**Contexto:** English class in San Salvador, SV.
+**EJE:** Lexical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Collocaciones con sustantivos abstractos, San Salvador.
 
 ### Enunciado
-Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'
+Which verb goes with the noun 'progress'?
 
 ### Opciones
-- [x] D) Bees are important for pollination and honey
-  <!-- feedback: Correct! -->
-- [ ] A) Bees are dangerous insects
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] B) Honey is the only product bees make
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] C) Flowers don't need bees
-  <!-- feedback: Incorrect. Review the concept. -->
+- [ ] A) do
+  <!-- feedback: 'Do' does not collocate with 'progress' in standard English. -->
+- [ ] B) take
+  <!-- feedback: 'Take' collocates with a bath, a break or a decision. -->
+- [x] C) make
+  <!-- feedback: 'Make progress' is the fixed and standard combination. -->
+- [ ] D) get
+  <!-- feedback: 'Get' would require an adjective: 'get progress' is not idiomatic. -->
 
 ### Explicacion Pedagogica
-The main idea summarizes the key points about bees: pollination and honey.
+'Make progress' es la collocation estandar del ingles; 'do progress' no existe. Tambien se dice 'make headway' con el mismo sentido.
 
-## Question 9 [D5-D6]
+---
+
+## Question 9 [D3-D4]
 **ID:** SV-ING-11-2026-W21-collocations-001-MASTERY-bundle-v9
-**Bloom:** Remember
-**EJE:** collocations
-**Expected_Success:** 0.85
-**Contexto:** English class in San Salvador, SV.
-
-### Enunciado
-Which is the correct past form of 'go'?
-
-### Opciones
-- [x] A) went
-  <!-- feedback: Correct! -->
-- [ ] B) goed
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] C) gone
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] D) going
-  <!-- feedback: Incorrect. Review the concept. -->
-
-### Explicacion Pedagogica
-'Go' is an irregular verb: go → went (past simple).
-
-## Question 10 [D5-D6]
-**ID:** SV-ING-11-2026-W21-collocations-001-MASTERY-bundle-v10
-**Bloom:** Remember
-**EJE:** collocations
-**Expected_Success:** 0.85
-**Contexto:** English class in Santa Ana, SV.
-
-### Enunciado
-Which sentence uses the present simple correctly?
-
-### Opciones
-- [x] C) She goes to school every day.
-  <!-- feedback: Correct! -->
-- [ ] A) She go to school every day.
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] B) She going to school every day.
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] D) She gone to school every day.
-  <!-- feedback: Incorrect. Review the concept. -->
-
-### Explicacion Pedagogica
-Present simple: subject + verb(-s for he/she/it).
-
-## Question 11 [D7-D8]
-**ID:** SV-ING-11-2026-W21-collocations-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**EJE:** collocations
+**EJE:** Lexical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** English class in Soyapango, SV.
+**Contexto:** Collocations con 'rain', San Miguel.
 
 ### Enunciado
-Choose the correct option: 'I ___ reading a book right now.'
+Choose the best adjective for the noun 'rain': 'We had ____ rain this year, so the reservoir is full.'
 
 ### Opciones
-- [x] D) am
-  <!-- feedback: Correct! -->
-- [ ] A) is
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] B) are
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] C) be
-  <!-- feedback: Incorrect. Review the concept. -->
+- [x] A) abundant
+  <!-- feedback: 'Abundant rain' is a natural collocation meaning plentiful rain. -->
+- [ ] B) abundante
+  <!-- feedback: 'Abundante' is not a standard English adjective. -->
+- [ ] C) abundantly
+  <!-- feedback: An adverb cannot modify the noun 'rain' in this position. -->
+- [ ] D) abundancy
+  <!-- feedback: 'Abundancy' is a noun and does not modify 'rain'. -->
 
 ### Explicacion Pedagogica
-Present continuous: I am + verb-ing.
+'Abundant rain' describe una cantidad grande de lluvia y combina natural con 'rain'.
 
-## Question 12 [D7-D8]
+---
+
+## Question 10 [D3-D4]
+**ID:** SV-ING-11-2026-W21-collocations-001-MASTERY-bundle-v10
+**Bloom:** Apply
+**EJE:** Lexical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Collocaciones con 'look forward to', San Salvador.
+
+### Enunciado
+Complete the sentence: 'We are looking forward to ____ the festival next month.'
+
+### Opciones
+- [ ] A) celebrate
+  <!-- feedback: The base form is wrong after the preposition-like 'to' in 'look forward to'. -->
+- [ ] B) celebration
+  <!-- feedback: A noun would need no 'to' before it: 'look forward to the celebration'. -->
+- [ ] C) celebrated
+  <!-- feedback: 'Celebrated' is a past participle and cannot follow 'to' here. -->
+- [x] D) celebrating
+  <!-- feedback: 'Look forward to' is always followed by a gerund or a noun. -->
+
+### Explicacion Pedagogica
+Despues de 'look forward to' se usa un gerundio o un sustantivo; por eso corresponde 'celebrating'.
+
+---
+
+## Question 11 [D5-D6]
+**ID:** SV-ING-11-2026-W21-collocations-001-MASTERY-bundle-v11
+**Bloom:** Evaluate
+**EJE:** Lexical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Evaluacion de collocations, San Salvador.
+
+### Enunciado
+Which phrase is the correct collocation?
+
+### Opciones
+- [ ] A) She makes a research on climate change.
+  <!-- feedback: 'Make a research' is not idiomatic; one says 'do research'. -->
+- [ ] B) She does a research about climate change.
+  <!-- feedback: 'A research' is not standard; 'research' is uncountable in this sense. -->
+- [x] C) She carries out research on climate change.
+  <!-- feedback: 'Carry out research' is a standard collocation and 'research' is uncountable here. -->
+- [ ] D) She makes researches on climate change.
+  <!-- feedback: 'Researches' as a countable plural is rare and 'make' is not its verb. -->
+
+### Explicacion Pedagogica
+'Carry out research' es una collocation estandar y 'research' funciona aqui como sustantivo incontable.
+
+---
+
+## Question 12 [D5-D6]
 **ID:** SV-ING-11-2026-W21-collocations-001-MASTERY-bundle-v12
-**Bloom:** Understand
-**EJE:** collocations
+**Bloom:** Apply
+**EJE:** Lexical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** English class in San Salvador, SV.
+**Contexto:** Collocaciones con verbos de recomendacion, San Miguel.
 
 ### Enunciado
-What does 'benevolent' mean?
+Complete: 'The doctor recommended me to ____ more exercise.'
 
 ### Opciones
-- [x] C) Kind and generous
-  <!-- feedback: Correct! -->
-- [ ] A) Mean and cruel
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] B) Quick and fast
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] D) Slow and lazy
-  <!-- feedback: Incorrect. Review the concept. -->
+- [ ] A) make
+  <!-- feedback: 'Make exercise' is not a natural collocation in English. -->
+- [ ] B) give
+  <!-- feedback: 'Give exercise' is not idiomatic in English. -->
+- [ ] C) take
+  <!-- feedback: 'Take exercise' exists in British English but 'recommend me to take' is less natural than 'do'. -->
+- [x] D) do
+  <!-- feedback: 'Recommend somebody to do' is a standard recommendation pattern. -->
 
 ### Explicacion Pedagogica
-'Benevolent' means kind, generous, or charitable.
+El patron estandar es 'recommend somebody to do something' o 'recommend doing something'.
 
-## Question 13 [D7-D8]
+---
+
+## Question 13 [D5-D6]
 **ID:** SV-ING-11-2026-W21-collocations-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**EJE:** collocations
-**Expected_Success:** 0.70
-**Contexto:** English class in Santa Ana, SV.
+**EJE:** Lexical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Collocaciones de verbos y sustantivos, San Salvador.
 
 ### Enunciado
-Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'
+Choose the correct verb-noun collocation.
 
 ### Opciones
-- [x] B) Bees are important for pollination and honey
-  <!-- feedback: Correct! -->
-- [ ] A) Bees are dangerous insects
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] C) Honey is the only product bees make
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] D) Flowers don't need bees
-  <!-- feedback: Incorrect. Review the concept. -->
+- [x] A) pay attention
+  <!-- feedback: 'Pay attention' is a fixed collocation in English. -->
+- [ ] B) do attention
+  <!-- feedback: 'Do attention' does not exist in English. -->
+- [ ] C) make attention
+  <!-- feedback: 'Make attention' is not idiomatic. -->
+- [ ] D) give attention
+  <!-- feedback: 'Give attention to' takes a problem as its object, not the act of listening. -->
 
 ### Explicacion Pedagogica
-The main idea summarizes the key points about bees: pollination and honey.
+'Pay attention' es una collocation fija; el verbo 'pay' se combina con 'attention', 'a bill' y 'a price'.
 
-## Question 14 [D7-D8]
+---
+
+## Question 14 [D5-D6]
 **ID:** SV-ING-11-2026-W21-collocations-001-MASTERY-bundle-v14
-**Bloom:** Remember
-**EJE:** collocations
-**Expected_Success:** 0.85
-**Contexto:** English class in Mejicanos, SV.
+**Bloom:** Analyze
+**EJE:** Lexical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Adjetivos y sustantivos, San Salvador.
 
 ### Enunciado
-Which is the correct past form of 'go'?
+What is the natural collocation with the adjective 'strong'?
 
 ### Opciones
-- [x] A) went
-  <!-- feedback: Correct! -->
-- [ ] B) goed
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] C) gone
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] D) going
-  <!-- feedback: Incorrect. Review the concept. -->
+- [ ] A) strong water
+  <!-- feedback: 'Strong water' is not a standard collocation. -->
+- [ ] B) strong rain
+  <!-- feedback: 'Strong rain' is not idiomatic; one says 'heavy rain'. -->
+- [ ] C) strong food
+  <!-- feedback: 'Strong food' is not a standard collocation in everyday English. -->
+- [x] D) strong coffee
+  <!-- feedback: 'Strong coffee' is a natural collocation describing a high caffeine content. -->
 
 ### Explicacion Pedagogica
-'Go' is an irregular verb: go → went (past simple).
+'Strong coffee', 'strong tea' y 'strong opinion' son combinaciones naturales; 'strong water' no lo es.
 
-## Question 15 [D7-D8]
+---
+
+## Question 15 [D3-D4]
 **ID:** SV-ING-11-2026-W21-collocations-001-MASTERY-bundle-v15
-**Bloom:** Remember
-**EJE:** collocations
-**Expected_Success:** 0.85
-**Contexto:** English class in Santa Ana, SV.
+**Bloom:** Apply
+**EJE:** Lexical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Sustantivos y preposiciones, San Miguel.
 
 ### Enunciado
-Which sentence uses the present simple correctly?
+Complete the sentence: 'She has a ____ for classical music.'
 
 ### Opciones
-- [x] B) She goes to school every day.
-  <!-- feedback: Correct! -->
-- [ ] A) She go to school every day.
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] C) She going to school every day.
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] D) She gone to school every day.
-  <!-- feedback: Incorrect. Review the concept. -->
+- [x] A) passion
+  <!-- feedback: 'Have a passion for' is a fixed collocation meaning a strong love for something. -->
+- [ ] B) passion to
+  <!-- feedback: 'Passion to' is not correct; the preposition is 'for'. -->
+- [ ] C) passions of
+  <!-- feedback: 'Of' would need a following noun: 'a passion of music' is wrong. -->
+- [ ] D) passion at
+  <!-- feedback: 'At' does not introduce the object of this collocation. -->
 
 ### Explicacion Pedagogica
-Present simple: subject + verb(-s for he/she/it).
+'Have a passion for' es una collocation natural; la preposicion debe ser 'for'. 'She has an affinity for art' funciona con el mismo sentido.
 
-## Question 16 [D7-D8]
+---
+
+## Question 16 [D3-D4]
 **ID:** SV-ING-11-2026-W21-collocations-001-MASTERY-bundle-v16
 **Bloom:** Apply
-**EJE:** collocations
+**EJE:** Lexical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** English class in Soyapango, SV.
+**Contexto:** Collocaciones con 'so ... that', San Salvador.
 
 ### Enunciado
-Choose the correct option: 'I ___ reading a book right now.'
+Choose the natural expression: 'The story is so ____ that I could not stop reading it.'
 
 ### Opciones
-- [x] A) am
-  <!-- feedback: Correct! -->
-- [ ] B) is
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] C) are
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] D) be
-  <!-- feedback: Incorrect. Review the concept. -->
+- [ ] A) excited
+  <!-- feedback: 'Excited' describes the reader's feeling, not the quality of the story. -->
+- [ ] B) excitement
+  <!-- feedback: 'Excitement' is a noun and cannot complete 'is so' without an adjective. -->
+- [x] C) exciting
+  <!-- feedback: The story causes the excitement, so the adjective describing it is 'exciting'. -->
+- [ ] D) excitedly
+  <!-- feedback: 'Excitedly' is an adverb and cannot follow the linking verb 'is'. -->
 
 ### Explicacion Pedagogica
-Present continuous: I am + verb-ing.
+'Exciting' describe lo que provoca emocion; 'excited' describe la emocion de la persona.
 
-## Question 17 [D9-D10]
+---
+
+## Question 17 [D5-D6]
 **ID:** SV-ING-11-2026-W21-collocations-001-MASTERY-bundle-v17
-**Bloom:** Understand
-**EJE:** collocations
-**Expected_Success:** 0.80
-**Contexto:** English class in San Miguel, SV.
-
-### Enunciado
-What does 'benevolent' mean?
-
-### Opciones
-- [x] B) Kind and generous
-  <!-- feedback: Correct! -->
-- [ ] A) Mean and cruel
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] C) Quick and fast
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] D) Slow and lazy
-  <!-- feedback: Incorrect. Review the concept. -->
-
-### Explicacion Pedagogica
-'Benevolent' means kind, generous, or charitable.
-
-## Question 18 [D9-D10]
-**ID:** SV-ING-11-2026-W21-collocations-001-MASTERY-bundle-v18
 **Bloom:** Analyze
-**EJE:** collocations
-**Expected_Success:** 0.70
-**Contexto:** English class in Santa Ana, SV.
+**EJE:** Lexical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Verbos frasales, San Miguel.
 
 ### Enunciado
-Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'
+Which of these verb and particle combinations does not exist in English?
 
 ### Opciones
-- [x] D) Bees are important for pollination and honey
-  <!-- feedback: Correct! -->
-- [ ] A) Bees are dangerous insects
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] B) Honey is the only product bees make
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] C) Flowers don't need bees
-  <!-- feedback: Incorrect. Review the concept. -->
+- [ ] A) turn down
+  <!-- feedback: 'Turn down' is a real phrasal verb meaning to lower the volume or refuse. -->
+- [x] B) spend off
+  <!-- feedback: 'Spend off' is not an English verb-particle combination. -->
+- [ ] C) give up
+  <!-- feedback: 'Give up' is a real phrasal verb meaning to stop trying. -->
+- [ ] D) look after
+  <!-- feedback: 'Look after' is a real phrasal verb meaning to take care of. -->
 
 ### Explicacion Pedagogica
-The main idea summarizes the key points about bees: pollination and honey.
+'Turn down', 'give up' y 'look after' son phrasal verbs reales; 'spend off' no existe.
 
-## Question 19 [D9-D10]
+---
+
+## Question 18 [D5-D6]
+**ID:** SV-ING-11-2026-W21-collocations-001-MASTERY-bundle-v18
+**Bloom:** Apply
+**EJE:** Lexical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Collocaciones de verbos de negocio, San Salvador.
+
+### Enunciado
+Complete: 'The company had to ____ its production because of the strike.'
+
+### Opciones
+- [x] A) cut back on
+  <!-- feedback: 'Cut back on' is a natural collocation meaning to reduce the amount. -->
+- [ ] B) cut off of
+  <!-- feedback: 'Cut off' means to interrupt a relationship or a supply, not to reduce production. -->
+- [ ] C) cut down
+  <!-- feedback: 'Cut down' normally collocates with trees. -->
+- [ ] D) cut away
+  <!-- feedback: 'Cut away' describes removing material from a surface. -->
+
+### Explicacion Pedagogica
+'Cut back on' significa reducir la cantidad y es la combinacion natural con 'production'.
+
+---
+
+## Question 19 [D5-D6]
 **ID:** SV-ING-11-2026-W21-collocations-001-MASTERY-bundle-v19
-**Bloom:** Remember
-**EJE:** collocations
-**Expected_Success:** 0.85
-**Contexto:** English class in Mejicanos, SV.
+**Bloom:** Evaluate
+**EJE:** Lexical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Revision final de collocations, San Salvador.
 
 ### Enunciado
-Which is the correct past form of 'go'?
+Which sentence uses natural collocations throughout?
 
 ### Opciones
-- [x] B) went
-  <!-- feedback: Correct! -->
-- [ ] A) goed
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] C) gone
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] D) going
-  <!-- feedback: Incorrect. Review the concept. -->
+- [ ] A) The committee will do a decision, get an agreement and arrive the deadline.
+  <!-- feedback: None of these three combinations is idiomatic in standard English. -->
+- [x] B) The committee will take a decision, reach an agreement and meet the deadline.
+  <!-- feedback: All three verb-noun pairs are standard English collocations. -->
+- [ ] C) The committee will make a decision, achieve an agreement and touch the deadline.
+  <!-- feedback: 'Make a decision' is correct, but the other two pairs are not natural. -->
+- [ ] D) The committee will take a decision, reach an agreement and hit the deadline.
+  <!-- feedback: 'Hit the deadline' exists informally, but 'meet the deadline' is the standard formal collocation. -->
 
 ### Explicacion Pedagogica
-'Go' is an irregular verb: go → went (past simple).
+'Take a decision', 'reach an agreement' y 'meet a deadline' son las tres collocaciones estandar de la oracion.
 
-## Question 20 [D9-D10]
+---
+
+## Question 20 [D5-D6]
 **ID:** SV-ING-11-2026-W21-collocations-001-MASTERY-bundle-v20
-**Bloom:** Remember
-**EJE:** collocations
-**Expected_Success:** 0.85
-**Contexto:** English class in San Miguel, SV.
+**Bloom:** Apply
+**EJE:** Lexical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Collocations con 'complete', San Miguel.
 
 ### Enunciado
-Which sentence uses the present simple correctly?
+Choose the correct adverb: 'She completed the task ____.'
 
 ### Opciones
-- [x] A) She goes to school every day.
-  <!-- feedback: Correct! -->
-- [ ] B) She go to school every day.
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] C) She going to school every day.
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] D) She gone to school every day.
-  <!-- feedback: Incorrect. Review the concept. -->
+- [ ] A) in time
+  <!-- feedback: 'In time' means soon enough to be able to do something, not exactly by the deadline. -->
+- [ ] B) at time
+  <!-- feedback: 'At time' requires a specific hour and is not idiomatic on its own. -->
+- [x] C) on time
+  <!-- feedback: 'On time' is the fixed collocation for meeting a deadline. -->
+- [ ] D) with time
+  <!-- feedback: 'With time' means 'as time passes' and does not express punctuality. -->
 
 ### Explicacion Pedagogica
-Present simple: subject + verb(-s for he/she/it).
+'On time' es la expresion fija para indicar que algo se hizo dentro del plazo. 'In time' se reserva para llegar con margen suficiente.
+
+---
