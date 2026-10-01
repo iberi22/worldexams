@@ -157,7 +157,7 @@ If I had brought my camera, I would have taken a picture of the penguin colony.
 ### Opciones
 - [ ] A) brought <!-- feedback: Incorrect. Second conditional. -->
 - [x] B) had brought <!-- feedback: Correct. Third conditional for hypothetical past. -->
-- [ ] C) bring <!-- feedback: Incorrect. Present tense. -->
+- [ ] C) bring <!-- feedback: Incorrect. The third conditional needs the past perfect "had brought"; "bring" is a bare infinitive and marks no past time at all. -->
 - [ ] D) would bring <!-- feedback: Incorrect. 'Would' not used in 'if' clause. -->
 
 ### Explicacion Pedagogica
@@ -358,7 +358,7 @@ By the time we reached the summit, it had been snowing for three hours.
 - [ ] A) was snowing <!-- feedback: Incorrect. Past continuous. -->
 - [x] B) had been snowing <!-- feedback: Correct. Past perfect continuous for a duration before a past point. -->
 - [ ] C) has been snowing <!-- feedback: Incorrect. Present perfect continuous. -->
-- [ ] D) snowed <!-- feedback: Incorrect. Past simple. -->
+- [ ] D) snowed <!-- feedback: Incorrect. The past perfect continuous is "had been snowing"; "snowed" is the past simple and drops the duration that was still ongoing at that past point. -->
 
 ### Explicacion Pedagogica
 The past perfect continuous describes an action that was ongoing up to a certain point in the past.

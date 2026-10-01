@@ -298,7 +298,7 @@
           "letter": "C",
           "text": "bring",
           "is_correct": false,
-          "feedback": "Incorrect. Present tense."
+          "feedback": "Incorrect. The third conditional needs the past perfect \"had brought\"; \"bring\" is a bare infinitive and marks no past time at all."
         },
         {
           "letter": "D",
@@ -754,7 +754,7 @@
           "letter": "D",
           "text": "snowed",
           "is_correct": false,
-          "feedback": "Incorrect. Past simple."
+          "feedback": "Incorrect. The past perfect continuous is \"had been snowing\"; \"snowed\" is the past simple and drops the duration that was still ongoing at that past point."
         }
       ],
       "correct_answer": "B",
