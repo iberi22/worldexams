@@ -40,7 +40,7 @@ Este bundle reune 12 preguntas sobre el movimiento democratico y el voto joven e
   <!-- feedback: Correcto. La abstencion consiste en no ejercer el derecho al voto el dia de la jornada, por causa o decisión de la persona. -->
 - [ ] C) Es la anulacion de una mesa de votacion por parte de la Registraduria cuando faltan jurados de mesa.
   <!-- feedback: Incorrecto. La anulacion de una mesa es una sancion administrativa electoral, y no tiene relacion con la decisión de los ciudadanos. -->
-- [ ] D) Es el resultado que arroja la Registraduria cuando el numero de votos supera el total de inscritos en el padron.
+- [ ] D) Es el resultado que arroja la Registraduria cuando el número de votos supera el total de inscritos en el padron.
   <!-- feedback: Incorrecto. La diferencia entre votos depositados e inscritos corresponde a votos nulos o marcados, no a la abstencion. -->
 
 ### Explicacion Pedagogica
@@ -60,7 +60,7 @@ según la constitución colombiana, el voto de los ciudadanos debe ser:
 - [ ] A) Coercitivo, porque la ley obliga a todos los mayores de edad a votar y sanciona a quien se abstenga.
   <!-- feedback: Incorrecto. La ley no sanciona la abstencion: el voto es un deber civico, pero no una obligacion coercitiva frente al ciudadano. -->
 - [ ] B) Publico, porque la transparencia de la jornada electoral exige conocer la preferencia de cada votante.
-  <!-- feedback: Incorrecto. Si el voto fuera publico dejaria de ser secreto, y con el se pierde la garantia de la libertad de la voluntad. -->
+  <!-- feedback: Incorrecto. Si el voto fuera público dejaria de ser secreto, y con el se pierde la garantia de la libertad de la voluntad. -->
 - [ ] C) Consultivo, porque la decision sobre los resultados finales la toma siempre el Congreso de la Republica.
   <!-- feedback: Incorrecto. El Congreso elige a sus propios miembros, pero los resultados de una jornada los certifica la Registraduria, no el Congreso. -->
 - [x] D) Secreto, libre, informado y directo, para proteger la voluntad del elector frente a toda presion.
@@ -129,14 +129,14 @@ El ejercicio muestra que el voto no se pierde por estar en otro país, sino por 
 - [ ] A) Porque el registrador tiene un periodo fijo de cuatro anos y solo puede ser removido por el Congreso de la Republica.
   <!-- feedback: Incorrecto. El periodo de cuatro anos corresponde a otros officials del ramo ejecutivo, y no es la garantia de independencia del registrador. -->
 - [ ] B) Porque la Junta Nacional Electoral es la unica autoridad facultada para apartar del cargo a un registrador.
-  <!-- feedback: Incorrecto. La Junta Nacional Electoral administra el proceso de eleccion, pero no tiene facultad de destITUATION del registrador. -->
+  <!-- feedback: Incorrecto. La Junta Nacional Electoral administra el proceso de eleccion, pero no tiene facultad de destitución del registrador. -->
 - [ ] C) Porque el registrador es funcionario de planta permanente y goza de estabilidad laboral igual que un empleado de ministerio.
-  <!-- feedback: Incorrecto. La garantia del registrador no proviene de la estabilidad laboral del empleado publico, sino de la autonomia constitucional de la Registraduria. -->
+  <!-- feedback: Incorrecto. La garantia del registrador no proviene de la estabilidad laboral del empleado público, sino de la autonomia constitucional de la Registraduria. -->
 - [x] D) Porque la Registraduria es una autoridad administrativa del ramo judicial con autonomia, que certifica los resultados y no puede ser presionada.
   <!-- feedback: Correcto. La independencia de la Registraduria garantiza que el conteo de votos y la certificacion de resultados no dependan de quien gane. -->
 
 ### Explicacion Pedagogica
-La independencia de la Registraduria es una garantia institucional disenada para blindar el conteo. Si el poder ejecutivo pudiera destITUIR al registrador cuando el resultado no le conviene, la laden electoral perderia su valor decisorio. Por eso la constitución la coloca como autoridad administrativa del ramo judicial y con autonomia. El caso del presidente municipal de Tunja ilustra la presion que la separacion de poderes limita.
+La independencia de la Registraduria es una garantia institucional disenada para blindar el conteo. Si el poder ejecutivo pudiera destituir al registrador cuando el resultado no le conviene, la laden electoral perderia su valor decisorio. Por eso la constitución la coloca como autoridad administrativa del ramo judicial y con autonomia. El caso del presidente municipal de Tunja ilustra la presion que la separacion de poderes limita.
 
 ## Question 6 [D7-D8]
 **ID:** CO-SOC-9-2026-W13-movimiento-democratico-y-voto-juvenil-001-MASTERY-bundle-v6
@@ -153,7 +153,7 @@ La independencia de la Registraduria es una garantia institucional disenada para
   <!-- feedback: Incorrecto. Los electos al Congreso ejercen funcion legislativa; el voto que los elige no es consultivo sino uninominal y directo. -->
 - [x] B) En la eleccion el voto es obligatorio en el sentido de que la ley no sanciona la abstencion, y en la consulta popular es facultativo: quien no vota queda registrado como tal sin invalidar la votacion.
   <!-- feedback: Correcto. La abstencion no invalida ninguna de las dos jornadas; lo que cambia es el caracter facultativo del voto en la consulta popular. -->
-- [ ] C) En la consulta popular solo pueden votar los mayores de 21 anos, y en la eleccion al Congreso tambien los adolescentes de 16 anos.
+- [ ] C) En la consulta popular solo pueden votar los mayores de 21 anos, y en la eleccion al Congreso también los adolescentes de 16 anos.
   <!-- feedback: Incorrecto. La diferencia no esta en la edad para votar, que es la misma en ambas jornadas, sino en el caracter vinculante de cada una. -->
 - [ ] D) En la eleccion al Congreso la proclamacion del resultado depende del Congreso, y en la consulta popular depende de la Registraduria.
   <!-- feedback: Incorrecto. En ambas jornadas la certificacion del resultado la realiza la Registraduria Nacional del Estado Civil. -->
@@ -189,23 +189,23 @@ La diferencia entre intencion de voto y resultado es una competencia de lectura 
 **Bloom:** Analyze
 **ICFES:** Reflexión ética y política
 **Expected_Success:** 0.70
-**Contexto:** Una lider estudiantil de Armenia publica en redes sociales una grafica con el porcentaje de abstencion por barrio y pide a sus companeros una campana deParticipation.
+**Contexto:** Una lider estudiantil de Armenia pública en redes sociales una grafica con el porcentaje de abstencion por barrio y pide a sus companeros una campana deParticipation.
 
 ### Enunciado
  según el dato de la grafica, por que puede ser problematico interpretar un barrio con abstencion alta como un barrio que no le interesa la política?
 
 ### Opciones
-- [ ] A) Porque la abstencion nunca tiene relacion con la oferta politica de los candidatos, por lo que la grafica no mide nada relevante.
+- [ ] A) Porque la abstencion nunca tiene relacion con la oferta política de los candidatos, por lo que la grafica no mide nada relevante.
   <!-- feedback: Incorrecto. La abstencion si puede estar relacionada con la oferta política, pero la relacion no es directa ni automatica. -->
 - [ ] B) Porque el porcentaje de abstencion siempre esta mal calculado por la Registraduria, y por eso los datos locales no sirven.
   <!-- feedback: Incorrecto. No hay base para afirmar un error sistematico en el cálculo: la grafica es un dato valido, aunque su interpretacion si puede fallar. -->
 - [x] C) Porque la abstencion puede deberse a barreras reales como distancia a las mesas, falta de cedula o ICFES, y trabajo en horarios incompatibles con el horario de votacion.
   <!-- feedback: Correcto. Confundir barreras de acceso con desinteres es un error de interpretacion que invisibiliza condiciones materiales concretas. -->
 - [ ] D) Porque en Colombia la participacion electoral de un barrio no puede medirse, ya que el voto es secreto y las cifras son reservadas.
-  <!-- feedback: Incorrecto. El secreto del voto protege la preferencia individual, pero la Registraduria si publica cifras agregadas de participación. -->
+  <!-- feedback: Incorrecto. El secreto del voto protege la preferencia individual, pero la Registraduria si pública cifras agregadas de participación. -->
 
 ### Explicacion Pedagogica
-Interpretar un dato social exige distinguir la causa real de la asociacion aparente. Un barrio con abstencion alta no es necesariamente un barrio apatico: puede haber distancia física a las mesas, jornadas laborales que se cruzan con las horas de votacion o falta de documentacion. Confundir esas barreras con falta de interes conduce a politicas equivocadas. La lectura critica de indicadores también exige preguntar por quienes no aparecen en las estadisticas oficiales.
+Interpretar un dato social exige distinguir la causa real de la asociacion aparente. Un barrio con abstencion alta no es necesariamente un barrio apatico: puede haber distancia física a las mesas, jornadas laborales que se cruzan con las horas de votacion o falta de documentacion. Confundir esas barreras con falta de interes conduce a políticas equivocadas. La lectura critica de indicadores también exige preguntar por quienes no aparecen en las estadisticas oficiales.
 
 ## Question 9 [D7-D8]
 **ID:** CO-SOC-9-2026-W13-movimiento-democratico-y-voto-juvenil-001-MASTERY-bundle-v9
@@ -222,10 +222,10 @@ Interpretar un dato social exige distinguir la causa real de la asociacion apare
   <!-- feedback: Incorrecto. La afiliacion a un partido es una opcion, y la comunidad admite multiples formas de participación sin ella. -->
 - [ ] B) La afiliacion es un tramite que solo tiene efecto cuando llega la jornada electoral, y la participacion es un comportamiento individual.
   <!-- feedback: Incorrecto. La afiliacion tiene efectos desde que se firma, y la participación es un conjunto de practicas colectivas. -->
-- [x] C) La afiliacion es una opcion individual de Pertenencia a una organization politica; la participacion incluye acciones colectivas como estudiar un proyecto local, reclamar, negociar y vigilar la gestion publica.
-  <!-- feedback: Correcto. La política se ejerce de muchas formas, y la militancia es solo una de ellas: también es(vecindad, veeduria, negociacion) y control. -->
+- [x] C) La afiliación es una opción individual de pertenencia a una organización política; la participación incluye acciones colectivas como estudiar un proyecto local, reclamar, negociar y vigilar la gestión pública.
+  <!-- feedback: Correcto. La política se ejerce de muchas formas, y la militancia es solo una de ellas: también la vecindad, la veeduría, la negociación y el control. -->
 - [ ] D) La participacion comunitaria es un asunto privado que el Estado no puede conocer, por lo que la afiliacion es el unico canal formal.
-  <!-- feedback: Incorrecto. La participación comunitaria es publica, y el Estado y la sociedad pueden conocerla y registrarla. -->
+  <!-- feedback: Incorrecto. La participación comunitaria es pública, y el Estado y la sociedad pueden conocerla y registrarla. -->
 
 ### Explicacion Pedagogica
 Entender la política como un conjunto amplio de practicas ciudadanas amplia la participación de los jovenes. La afiliacion a un partido es una alternativa más, con sus ventajas y sus riesgos, entre ellos el clientelismo. Participar también significa estudiar un proyecto local, negociar con la administracion, hacer veeduria o conformar organizaciones comunitarias. Reconocer esa diversidad permite que muchos jovenes se reconozcan como actores politicos sin necesidad de afiliarse.
@@ -241,11 +241,11 @@ Entender la política como un conjunto amplio de practicas ciudadanas amplia la 
  Esta bien justificado ese programa como solucion a la baja participación juvenil en su municipio?
 
 ### Opciones
-- [ ] A) Si, porque toda baja participacion se explica por el desconocimiento del sistema electoral y por eso la educacion resuelve el problema.
+- [ ] A) Si, porque toda baja participacion se explica por el desconocimiento del sistema electoral y por eso la educación resuelve el problema.
   <!-- feedback: Incorrecto. El desconocimiento es solo una causa, e ignorarla deja fuera las barreras materiales de cedula, distancia y jornada laboral. -->
 - [ ] B) Si, porque el sistema electoral colombiano obliga a todos los ciudadanos a votar, y el programa solo recuerda ese deber.
   <!-- feedback: Incorrecto. El voto es un deber civico no coercitivo, y ningun programa puede apoyarse en una obligacion que la ley no sanciona. -->
-- [ ] C) No, porque los jovenes no muestran interes por la politica, y por eso el Estado debe insistir unicamente en la instruccion electoral.
+- [ ] C) No, porque los jovenes no muestran interes por la política, y por eso el Estado debe insistir unicamente en la instruccion electoral.
   <!-- feedback: Incorrecto. Negar todo interes joven sin evidencia contradice la existencia de organizaciones juveniles activas en el municipio. -->
 - [x] D) Si, pero solo es suficiente si incluye la eliminacion de las barreras materiales: cedula, transporte, horarios compatibles y flexibilizacion de la jornada escolar.
   <!-- feedback: Correcto. La educación civica funciona, y es aun más necesaria cuando el programa también elimina las condiciones que impiden votar. -->
@@ -266,11 +266,11 @@ Evaluar una propuesta política exige separar lo que resuelve de lo que solo aco
 ### Opciones
 - [ ] A) Debe aceptarlo sin revision, porque el lider vecinal conoce mejor la Norma Local que cualquier estudiante de noveno.
   <!-- feedback: Incorrecto. La autoridad de una persona no sustituye la verificacion, y la afirmacion sobre los 16 anos es imprecisa. -->
-- [x] B) Debe tomarlo como una afirmacion por comprobar, verificarla en la Constitucion y en la Registraduria, y solo entonces usarla como informacion.
+- [x] B) Debe tomarlo como una afirmacion por comprobar, verificarla en la Constitucion y en la Registraduria, y solo entonces usarla como información.
   <!-- feedback: Correcto. Verificar antes de difundir es un acto de ciudadanía digital: distingue la afirmacion del dato comprobado. -->
-- [ ] C) Debe reenviarlo con una nota que diga que la informacion es dudosa, pero dejandolo igual de claro a sus companeros.
+- [ ] C) Debe reenviarlo con una nota que diga que la información es dudosa, pero dejandolo igual de claro a sus companeros.
   <!-- feedback: Incorrecto. Reenviar un contenido no verificado, incluso con advertencia, sigue difundiendo el error a quien no lee la nota. -->
-- [ ] D) Debe ignorarlo, porque toda informacion que no proviene de un medio oficial carece de valor para la comunidad.
+- [ ] D) Debe ignorarlo, porque toda información que no proviene de un medio oficial carece de valor para la comunidad.
   <!-- feedback: Incorrecto. La transparencia exige aprender a verificar, no a descartar todo lo que no viene de un medio oficial. -->
 
 ### Explicacion Pedagogica
@@ -287,8 +287,8 @@ La circulacion de información falsa por mensajeria es uno de los riesgos más v
  Que estrategia de participación juvenil es más adecuada para fortalecer la democracia en ese municipio?
 
 ### Opciones
-- [x] A) Formar un observatorio ciudadano que analice las promesas de los candidatos, difunda esa informacion y abra un espacio de conversacion publica sobre sus propias.
-  <!-- feedback: Correcto. Un observatorio ciudadano combina información publica, veeduria y deliberacion, que es justamente la participación responsable. -->
+- [x] A) Formar un observatorio ciudadano que analice las promesas de los candidatos, difunda esa información y abra un espacio de conversacion pública sobre sus propias.
+  <!-- feedback: Correcto. Un observatorio ciudadano combina información pública, veeduria y deliberacion, que es justamente la participación responsable. -->
 - [ ] B) Ofrecer apoyo logistico a un solo candidato local, para asegurar que gane el que la comunidad considera mas serio.
   <!-- feedback: Incorrecto. Apoyar a un solo candidato desde la escuela clienteliza la decisión y contradice el pluralismo. -->
 - [ ] C) Invitar a los jovenes a repetir los discursos de los candidatos en redes sociales, para mejorar la comunicacion de la comunidad.
@@ -297,4 +297,4 @@ La circulacion de información falsa por mensajeria es uno de los riesgos más v
   <!-- feedback: Incorrecto. Esperar los 18 anos como unico umbral deja fuera la veeduria y la negociacion que un menor de edad ya puede realizar. -->
 
 ### Explicacion Pedagogica
-Una estrategia de participación juvenil debe combinar tres elementos: información verificada, vigilancia de lo prometido y conversacion publica sobre el interes comun. Un observatorio ciudadano reune las tres cosas y permite que los jovenes actuen como sujetos antes de alcanzar la mayoria de edad. Descartar esas opciones empobrece la democracia, porque reduce la deliberacion critica que enriquece el debate. Es el tipo de proyecto que demuestra que la ciudadanía se ejerce con conocimiento y con los otros.
+Una estrategia de participación juvenil debe combinar tres elementos: información verificada, vigilancia de lo prometido y conversacion pública sobre el interes comun. Un observatorio ciudadano reune las tres cosas y permite que los jovenes actuen como sujetos antes de alcanzar la mayoria de edad. Descartar esas opciones empobrece la democracia, porque reduce la deliberacion critica que enriquece el debate. Es el tipo de proyecto que demuestra que la ciudadanía se ejerce con conocimiento y con los otros.
