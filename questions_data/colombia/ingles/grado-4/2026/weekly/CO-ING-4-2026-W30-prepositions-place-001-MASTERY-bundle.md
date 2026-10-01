@@ -35,13 +35,13 @@ Look at the picture: the closed book is resting on top of the school desk. Which
 
 ### Opciones
 - [x] A) on
-  <!-- feedback: on indica que un objeto descansa sobre una superficie y la toca, que es exactamente lo que muestra el dibujo. -->
+  <!-- feedback: on indicates that an object rests on a surface and touches it, which is exactly what the picture shows. -->
 - [ ] B) in
-  <!-- feedback: in significa dentro de algo cerrado; el libro esta encima del escritorio, no dentro de el. -->
+  <!-- feedback: in means inside something closed; the book is on top of the desk, not inside it. -->
 - [ ] C) under
-  <!-- feedback: under significa debajo de algo; el libro esta sobre el escritorio y no por debajo. -->
+  <!-- feedback: under means below something; the book is on the desk and not underneath it. -->
 - [ ] D) at
-  <!-- feedback: at se usa para puntos precisos como una esquina o un punto de reunion, no para una superficie completa. -->
+  <!-- feedback: at is used for precise points such as a corner or a meeting point, not for a whole surface. -->
 
 ### Explicacion Pedagogica
 on, in y under son las tres preposiciones de lugar del nivel A1. La diferencia esta en la posicion: on es encima y en contacto, in es dentro y under es debajo. Para escoger la correcta hay que preguntar si el objeto toca la superficie, si esta dentro de ella o si queda por debajo.
@@ -58,13 +58,13 @@ The little cat is lying below the bed, not on it. Which preposition fits? "The c
 
 ### Opciones
 - [ ] A) on
-  <!-- feedback: on describe algo apoyado encima; el gato esta en el piso, debajo de la cama, no encima. -->
+  <!-- feedback: on describes something resting on top; the cat is on the floor, below the bed, not on top of it. -->
 - [x] B) under
-  <!-- feedback: under significa debajo de algo, y el enunciado dice explicitamente que el gato esta por debajo de la cama. -->
+  <!-- feedback: under means below something, and the sentence says explicitly that the cat is below the bed. -->
 - [ ] C) between
-  <!-- feedback: between exige dos elementos a cada lado, como entre la cama y la mesa; aqui solo hay una referencia. -->
+  <!-- feedback: between requires two elements on each side, like between the bed and the table; here there is only one reference. -->
 - [ ] D) near
-  <!-- feedback: near solo dice que algo esta cerca, sin indicar si esta encima, debajo o al lado. -->
+  <!-- feedback: near only says that something is close by, without saying whether it is above, below or beside. -->
 
 ### Explicacion Pedagogica
 under se usa cuando un objeto queda por debajo de otro, haya contacto o no. near es una preposicion de aproximacion: dice que algo esta en la misma zona pero no aclara la direccion. En este caso el enunciado ya confirma la posicion vertical, asi que la unica opcion exacta es under.
@@ -81,13 +81,13 @@ Complete the sentence with the right preposition: "My mother is ___ the kitchen.
 
 ### Opciones
 - [ ] A) at
-  <!-- feedback: at se usa con lugares pequenos o puntos de referencia; una cocina es un espacio cerrado, por eso se usa in. -->
+  <!-- feedback: at is used with small places or reference points; a kitchen is a closed space, so in is used. -->
 - [ ] B) on
-  <!-- feedback: on indica apoyo sobre una superficie; aqui no hay superficie sino un espacio interior. -->
+  <!-- feedback: on indicates support on a surface; here there is no surface but an interior space. -->
 - [x] C) in
-  <!-- feedback: in describe estar dentro de un espacio cerrado, como una cocina o una habitacion. -->
+  <!-- feedback: in describes being inside a closed space, such as a kitchen or a bedroom. -->
 - [ ] D) under
-  <!-- feedback: under significa debajo de algo; no hay ningun objeto sobre el que la madre quede por debajo. -->
+  <!-- feedback: under means below something; there is no object under which the mother would be. -->
 
 ### Explicacion Pedagogica
 Los lugares de la casa, la escuela y el trabajo son los sustantivos mas frecuentes con in: in the kitchen, in the bedroom, in the classroom. La diferencia clave es que in necesita un espacio con interior, mientras que at se reserva para puntos geograficos o para una parte concreta como at the door.
@@ -104,13 +104,13 @@ The students put the poster flat against the wall, in a vertical position. Which
 
 ### Opciones
 - [ ] A) in
-  <!-- feedback: in serviria para algo metido dentro de la pared, pero el cartel esta a la vista, no empotrado. -->
+  <!-- feedback: in would be for something built into the wall, but the poster is in view, not embedded. -->
 - [ ] B) under
-  <!-- feedback: under indica estar debajo de algo; el cartel esta a la altura de la pared, no debajo del piso. -->
+  <!-- feedback: under indicates being below something; the poster is at the height of the wall, not under the floor. -->
 - [ ] C) above
-  <!-- feedback: above necesita un punto de comparacion mas alto y aqui se busca una posicion fija sobre la pared. -->
+  <!-- feedback: above needs a higher point of comparison, and here a fixed position on the wall is being sought. -->
 - [x] D) on
-  <!-- feedback: on se usa para objetos aplanados apoyados en una superficie vertical, como un cartel o un cuadro. -->
+  <!-- feedback: on is used for flat objects resting on a vertical surface, such as a poster or a picture. -->
 
 ### Explicacion Pedagogica
 Aunque on suele aparecer en trabajos de clase, tambien se usa con superficies verticales para objetos planos y delgados como carteles, cuadros, espejos y calendarios. En espanol la palabra "en" no distingue entre superficie horizontal y vertical, y ese es el motivo de error mas comun en cuarto grado.
@@ -127,13 +127,13 @@ Choose the correct preposition: "We are ___ school. Our English class is in room
 
 ### Opciones
 - [x] A) at
-  <!-- feedback: at school es la forma fija del ingles para indicar que alguien esta en un centro educativo, sin nombrar el aula. -->
+  <!-- feedback: at school is the fixed English way to say that someone is at an educational centre, without naming the classroom. -->
 - [ ] B) in
-  <!-- feedback: in se usaria con in the classroom o in the library, pero no con la palabra school sola. -->
+  <!-- feedback: in would be used with in the classroom or in the library, but not with the word school on its own. -->
 - [ ] C) on
-  <!-- feedback: on school no existe en ingles; esa secuencia solo aparece en palabras compuestas como online. -->
+  <!-- feedback: on school does not exist in English; that sequence only appears in compound words such as online. -->
 - [ ] D) to
-  <!-- feedback: to indica destino o movimiento, y aqui la frase describe una posicion estable. -->
+  <!-- feedback: to indicates destination or movement, and here the sentence describes a stable position. -->
 
 ### Explicacion Pedagogica
 Hay combinaciones fijas que hay que memorizar como chunk: at school, at home, at work. Cuando se nombra un lugar dentro del centro educativo se cambia a in the classroom o in the library. Por eso la respuesta depende de si el enunciado nombra el centro completo o un espacio concreto dentro de el.
@@ -150,13 +150,13 @@ The pencils, the eraser and the ruler are all inside the same container. Which p
 
 ### Opciones
 - [ ] A) on
-  <!-- feedback: on indicaria que los lapices descansan encima de la cartuchera, cosa que no ocurre. -->
+  <!-- feedback: on would indicate the pencils are resting on top of the pencil case, which does not happen. -->
 - [x] B) in
-  <!-- feedback: in describe estar dentro de un recipiente, y la cartuchera es un recipiente que contiene los objetos. -->
+  <!-- feedback: in describes being inside a container, and the pencil case is a container that holds the objects. -->
 - [ ] C) above
-  <!-- feedback: above solo compara alturas y ademas necesita un referente mas alto, como above the desk. -->
+  <!-- feedback: above only compares heights and also needs a higher referent, like above the desk. -->
 - [ ] D) between
-  <!-- feedback: between requiere dos elementos que la separan, como between the book and the bag. -->
+  <!-- feedback: between requires two elements that separate it, like between the book and the bag. -->
 
 ### Explicacion Pedagogica
 Las preposiciones de lugar no dependen solo de lo que hay arriba o abajo, sino de la relacion espacial completa. Un recipiente como cartuchera, caja, bolso o maleta se expresa con in. Un apoyo plano como mesa, silla o estante se expresa con on, aunque no haya contacto visible.
@@ -173,13 +173,13 @@ Read: "The dog sleeps under the table because the floor is hot." What does the s
 
 ### Opciones
 - [ ] A) The dog is above the table.
-  <!-- feedback: above dice que el perro esta mas alto que la mesa, y en el texto esta claramente mas abajo. -->
+  <!-- feedback: above says the dog is higher than the table, and in the text it is clearly lower. -->
 - [ ] B) The dog is next to the table.
-  <!-- feedback: next to solo indica que estan al lado uno del otro, pero el texto dice que esta debajo. -->
+  <!-- feedback: next to only indicates they are side by side, but the text says it is below. -->
 - [x] C) The dog is below the table.
-  <!-- feedback: under y below describen la misma relacion vertical: lo que esta por debajo, y el perro evita el piso caliente. -->
+  <!-- feedback: under and below describe the same vertical relationship: what is underneath, and the dog avoids the hot floor. -->
 - [ ] D) The dog is inside the table.
-  <!-- feedback: inside describe un espacio cerrado como una caja; una mesa no tiene interior donde quepa un perro. -->
+  <!-- feedback: inside describes a closed space such as a box; a piece of furniture has no interior where a dog could fit. -->
 
 ### Explicacion Pedagogica
 under y below se usan como sinonimos en la mayoria de los contextos. Comprender la relacion vertical antes de escoger la preposicion evita el error tipico de traducir automaticamente la preposicion "bajo" del espanol como down en lugar de under.
@@ -196,13 +196,13 @@ Complete the sentence: "My school bag is ___ the chair. I put it there before I 
 
 ### Opciones
 - [ ] A) between
-  <!-- feedback: between requiere dos objetos a los lados; aqui solo hay una silla como referencia. -->
+  <!-- feedback: between requires two objects on the sides; here there is only one chair as a reference. -->
 - [ ] B) under
-  <!-- feedback: under significaria que el morral quedo por debajo de la silla, y el texto no dice eso. -->
+  <!-- feedback: under would mean the bag ended up below the chair, and the text does not say that. -->
 - [ ] C) near
-  <!-- feedback: near no precisa la posicion; podria estar al lado, en el piso o sobre la silla. -->
+  <!-- feedback: near does not pin down the position; it could be beside it, on the floor or on the chair. -->
 - [x] D) on
-  <!-- feedback: on es la preposicion para objetos que descansan sobre la superficie de otro objeto, como un bolso en una silla. -->
+  <!-- feedback: on is the preposition for objects that rest on the surface of another object, like a bag on a chair. -->
 
 ### Explicacion Pedagogica
 La eleccion entre on, in y under se hace preguntando por la relacion del objeto con la superficie: contacto por encima, contacto por dentro o por debajo. near, between y above son opciones de aproximacion o de relacion multiple y por eso casi nunca sirven cuando el enunciado ya describe una posicion concreta.

@@ -17,466 +17,507 @@ tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
 ---
-# MASTERY Bundle - Ingles: Present Continuous Actions (W02)
-**20 preguntas | Ingles | BGU - Ministerio de Educacion**
+# MASTERY Bundle - Ingles: present-continuous-actions (W02)
+**20 preguntas | Ingles | Curriculo de Ingles**
 
 ---
-## Question 1 [D3]
-**ID:** EC-ING-11-2026-W02-present-continuous-actions-001-MASTERY-v1
+
+## Question 1 [D3-D4]
+**ID:** EC-ING-11-2026-W02-present-continuous-actions-001-MASTERY-bundle-v1
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Practica de presente continuo, Quito, grado 11.
+
+### Enunciado
+Choose the sentence in the present continuous: 'Look! The children ____ a poster for the school fair.'
+
+### Opciones
+- [ ] A) make
+  <!-- feedback: The simple present describes a general fact, not an action in progress. -->
+- [ ] B) made
+  <!-- feedback: The simple past refers to a finished action. -->
+- [x] C) are making
+  <!-- feedback: 'Are' plus gerund describes an action happening now. -->
+- [ ] D) are made
+  <!-- feedback: Passive voice would mean the poster is being made by someone else. -->
+
+### Explicacion Pedagogica
+'Look' indica una accion en curso en este momento, por lo que corresponde 'are making'.
+
+---
+
+## Question 2 [D3-D4]
+**ID:** EC-ING-11-2026-W02-present-continuous-actions-001-MASTERY-bundle-v2
+**Bloom:** Understand
+**EJE:** Grammatical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Comprension del presente continuo, Guayaquil.
+
+### Enunciado
+What does 'She is writing an email right now' tell us about the action?
+
+### Opciones
+- [ ] A) It is a repeated past habit.
+  <!-- feedback: The continuous tense does not describe repeated past habits. -->
+- [ ] B) It will be finished next week.
+  <!-- feedback: Nothing in the sentence refers to next week. -->
+- [x] C) It is happening at this moment.
+  <!-- feedback: 'Is writing' plus 'right now' marks an action in progress. -->
+- [ ] D) It happened before she spoke.
+  <!-- feedback: That would require the past continuous. -->
+
+### Explicacion Pedagogica
+'Right now' situa la accion en el momento presente, y por eso se usa el presente continuo.
+
+---
+
+## Question 3 [D3-D4]
+**ID:** EC-ING-11-2026-W02-present-continuous-actions-001-MASTERY-bundle-v3
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Revisión de presente continuo, Cuenca.
+
+### Enunciado
+Which sentence is correct?
+
+### Opciones
+- [ ] A) He is repair his bicycle in the garage.
+  <!-- feedback: After 'is' the verb must be in the gerund form 'repairing'. -->
+- [x] B) He is repairing his bicycle in the garage.
+  <!-- feedback: 'Is repairing' is the present continuous of the verb 'repair'. -->
+- [ ] C) He repairing his bicycle in the garage.
+  <!-- feedback: The auxiliary 'is' is missing from the sentence. -->
+- [ ] D) He are repairing his bicycle in the garage.
+  <!-- feedback: 'Are' does not agree with the singular subject 'he'. -->
+
+### Explicacion Pedagogica
+Solo la opcion con 'is' mas gerundio forma un presente continuo valido con sujeto singular.
+
+---
+
+## Question 4 [D3-D4]
+**ID:** EC-ING-11-2026-W02-present-continuous-actions-001-MASTERY-bundle-v4
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Situacion de viaje, Quito.
+
+### Enunciado
+Complete: 'We ____ our bags right now because the bus is arriving.'
+
+### Opciones
+- [x] A) are packing
+  <!-- feedback: 'Are packing' with 'right now' describes an action currently in progress. -->
+- [ ] B) pack
+  <!-- feedback: The simple present would describe a general habit instead. -->
+- [ ] C) packed
+  <!-- feedback: The simple past refers to a completed action. -->
+- [ ] D) have pack
+  <!-- feedback: The present perfect requires the past participle 'packed'. -->
+
+### Explicacion Pedagogica
+La expresion 'right now' pide presente continuo, y el sujeto plural 'we' exige 'are'.
+
+---
+
+## Question 5 [D5-D6]
+**ID:** EC-ING-11-2026-W02-present-continuous-actions-001-MASTERY-bundle-v5
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Contraste de tiempos, Guayaquil.
+
+### Enunciado
+What is the difference between 'She sings in the choir' and 'She is singing in the choir'?
+
+### Opciones
+- [x] A) The simple describes a habit; the continuous describes an action now
+  <!-- feedback: Time reference, not grammar validity, is what separates the two forms. -->
+- [ ] B) Both sentences describe the same moment
+  <!-- feedback: The two forms differ precisely in their time reference. -->
+- [ ] C) The continuous is only used in questions
+  <!-- feedback: The continuous appears in statements as well as in questions. -->
+- [ ] D) The simple is ungrammatical here
+  <!-- feedback: The simple present is perfectly grammatical in a habitual sentence. -->
+
+### Explicacion Pedagogica
+El presente simple describe una actividad habitual; el continuo describe una accion que ocurre ahora.
+
+---
+
+## Question 6 [D3-D4]
+**ID:** EC-ING-11-2026-W02-present-continuous-actions-001-MASTERY-bundle-v6
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Practica de acciones en curso, Quito.
+
+### Enunciado
+Choose the best option: 'Listen! Someone ____ at the door.'
+
+### Opciones
+- [ ] A) knocks
+  <!-- feedback: The simple present would suggest a repeated habit. -->
+- [ ] B) knocked
+  <!-- feedback: The simple past refers to a completed action before now. -->
+- [ ] C) is knock
+  <!-- feedback: After 'is' the verb must be in the gerund form. -->
+- [x] D) is knocking
+  <!-- feedback: 'Is knocking' describes an action audible at this moment. -->
+
+### Explicacion Pedagogica
+'Listen' senala algo que ocurre en ese instante, y el gerundio 'knocking' completa la idea.
+
+---
+
+## Question 7 [D3-D4]
+**ID:** EC-ING-11-2026-W02-present-continuous-actions-001-MASTERY-bundle-v7
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Concordancia en presente continuo, Cuenca.
+
+### Enunciado
+Which sentence correctly uses the present continuous with a plural subject?
+
+### Opciones
+- [ ] A) The students is taking an exam right now.
+  <!-- feedback: 'Is' is used only with he, she or it. -->
+- [ ] B) The students are take an exam right now.
+  <!-- feedback: After 'are' the verb must be a gerund, not the base form. -->
+- [x] C) The students are taking an exam right now.
+  <!-- feedback: 'Are taking' agrees with the plural subject 'the students'. -->
+- [ ] D) The students takes an exam right now.
+  <!-- feedback: 'Takes' is the simple present third person singular. -->
+
+### Explicacion Pedagogica
+Un sujeto plural como 'the students' lleva 'are' y el verbo en gerundio. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.
+
+---
+
+## Question 8 [D3-D4]
+**ID:** EC-ING-11-2026-W02-present-continuous-actions-001-MASTERY-bundle-v8
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Deteccion de errores, Guayaquil.
+
+### Enunciado
+Look at the sentence: 'She is work at the hospital.' What is the error?
+
+### Opciones
+- [ ] A) 'Is' must be 'are'.
+  <!-- feedback: The subject 'she' is singular, so 'is' is correct. -->
+- [x] B) 'Work' must be the gerund 'working'.
+  <!-- feedback: The present continuous requires the -ing form after the auxiliary. -->
+- [ ] C) The sentence has no error.
+  <!-- feedback: The base form after 'is' is a real grammatical error. -->
+- [ ] D) 'Hospital' must be 'the hospital'.
+  <!-- feedback: The article is not the problem in this sentence. -->
+
+### Explicacion Pedagogica
+Despues de 'is' el verbo debe ir en gerundio ('working'), no en forma base. Conviene practicarlo con otros ejemplos antes del examen.
+
+---
+
+## Question 9 [D5-D6]
+**ID:** EC-ING-11-2026-W02-present-continuous-actions-001-MASTERY-bundle-v9
+**Bloom:** Understand
+**EJE:** Grammatical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Comprension de un texto informativo, Quito.
+
+### Enunciado
+Read the text: 'The volcano is erupting again this morning. Scientists are watching from a safe distance.' What is happening?
+
+### Opciones
+- [x] A) An eruption is happening now and scientists are observing it
+  <!-- feedback: 'Is erupting' and 'are watching' both mark actions in progress. -->
+- [ ] B) The eruption ended years ago
+  <!-- feedback: The present continuous places the eruption in the present moment. -->
+- [ ] C) Scientists are planning a future trip
+  <!-- feedback: No future activity is described in the text. -->
+- [ ] D) The volcano is dormant
+  <!-- feedback: 'Is erupting' indicates the opposite of being dormant. -->
+
+### Explicacion Pedagogica
+Ambas acciones del texto estan en presente continuo: una erupcion en curso y la observacion de los científicos.
+
+---
+
+## Question 10 [D3-D4]
+**ID:** EC-ING-11-2026-W02-present-continuous-actions-001-MASTERY-bundle-v10
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Marcadores temporales, Cuenca.
+
+### Enunciado
+Which time expression normally goes with the present continuous?
+
+### Opciones
+- [ ] A) every day
+  <!-- feedback: 'Every day' marks a habit and requires the simple present. -->
+- [ ] B) yesterday
+  <!-- feedback: 'Yesterday' is a past marker and requires a past tense. -->
+- [x] C) at the moment
+  <!-- feedback: 'At the moment' marks an action in progress right now. -->
+- [ ] D) last week
+  <!-- feedback: 'Last week' is a finished past period and requires the past simple. -->
+
+### Explicacion Pedagogica
+'Now', 'at the moment' y 'Look!' senalan una accion en curso en el presente. Esta estructura se repite con otros verbos del mismo grupo.
+
+---
+
+## Question 11 [D3-D4]
+**ID:** EC-ING-11-2026-W02-present-continuous-actions-001-MASTERY-bundle-v11
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Interrogacion en presente continuo, Guayaquil.
+
+### Enunciado
+Complete the question: 'What ____ you doing at the moment?'
+
+### Opciones
+- [ ] A) do
+  <!-- feedback: 'Do' builds the simple present, not the continuous. -->
+- [ ] B) is
+  <!-- feedback: 'Is' does not agree with the subject 'you'. -->
+- [ ] C) does
+  <!-- feedback: 'Does' plus base verb is the simple present interrogative. -->
+- [x] D) are
+  <!-- feedback: 'Are' plus subject plus gerund forms the question correctly. -->
+
+### Explicacion Pedagogica
+La pregunta en presente continuo conserva el auxiliar 'are' delante del sujeto y el gerundio al final.
+
+---
+
+## Question 12 [D3-D4]
+**ID:** EC-ING-11-2026-W02-present-continuous-actions-001-MASTERY-bundle-v12
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Negacion en presente continuo, Quito.
+
+### Enunciado
+Choose the correct negative form of the present continuous.
+
+### Opciones
+- [ ] A) He not is sleeping right now.
+  <!-- feedback: The auxiliary must precede the adverb 'not'. -->
+- [ ] B) He is not sleep right now.
+  <!-- feedback: After 'is not' the verb must be the gerund 'sleeping'. -->
+- [x] C) He is not sleeping right now.
+  <!-- feedback: 'Is not' plus gerund is the correct negative structure. -->
+- [ ] D) He does not sleeps right now.
+  <!-- feedback: The present continuous requires 'is not', not 'does not'. -->
+
+### Explicacion Pedagogica
+La negacion se forma con 'am/is/are' mas 'not' y el verbo en gerundio. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.
+
+---
+
+## Question 13 [D3-D4]
+**ID:** EC-ING-11-2026-W02-present-continuous-actions-001-MASTERY-bundle-v13
 **Bloom:** Remember
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Formacion del gerundio, Cuenca.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+What does the verb 'study' become in the present continuous?
 
 ### Opciones
-- [x] A) accommodation
-  <!-- feedback: Correct! 'accommodation' matches the definition. -->
-- [ ] B) transportation
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) entertainment
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) currency
-  <!-- feedback: Incorrect. Try again. -->
+- [x] A) studying
+  <!-- feedback: Verbs ending in -y drop the -y before -ing: 'studying'. -->
+- [ ] B) studyying
+  <!-- feedback: The ending is simply -ing; the -y is not duplicated. -->
+- [ ] C) studys
+  <!-- feedback: 'Studys' is not a verb form in English. -->
+- [ ] D) study
+  <!-- feedback: 'Study' is the base form, not the gerund. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
+El gerundio se forma anadiendo -ing al verbo base; en el caso de 'study' se elimina la y final.
+
 ---
-## Question 2 [D4]
-**ID:** EC-ING-11-2026-W02-present-continuous-actions-001-MASTERY-v2
-**Bloom:** Remember
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
 
-### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
-
-### Opciones
-- [x] A) itinerary
-  <!-- feedback: Correct! 'itinerary' matches the definition. -->
-- [ ] B) baggage
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) destination
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) passport
-  <!-- feedback: Incorrect. Try again. -->
-
-### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
----
-## Question 3 [D3]
-**ID:** EC-ING-11-2026-W02-present-continuous-actions-001-MASTERY-v3
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
-
-### Opciones
-- [x] B) destination
-  <!-- feedback: Correct! 'destination' matches the definition. -->
-- [ ] A) departure
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) arrival
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) journey
-  <!-- feedback: Incorrect. Try again. -->
-
-### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
----
-## Question 4 [D4]
-**ID:** EC-ING-11-2026-W02-present-continuous-actions-001-MASTERY-v4
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
-
-### Opciones
-- [x] D) luggage
-  <!-- feedback: Correct! 'luggage' matches the definition. -->
-- [ ] A) ticket
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) flight
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) reservation
-  <!-- feedback: Incorrect. Try again. -->
-
-### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
----
-## Question 5 [D5]
-**ID:** EC-ING-11-2026-W02-present-continuous-actions-001-MASTERY-v5
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
-
-### Opciones
-- [x] D) passenger
-  <!-- feedback: Correct! 'passenger' matches the definition. -->
-- [ ] A) pedestrian
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) commuter
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) tourist
-  <!-- feedback: Incorrect. Try again. -->
-
-### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
----
-## Question 6 [D6]
-**ID:** EC-ING-11-2026-W02-present-continuous-actions-001-MASTERY-v6
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
-
-### Opciones
-- [x] C) customs
-  <!-- feedback: Correct! 'customs' matches the definition. -->
-- [ ] A) security
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) terminal
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) gate
-  <!-- feedback: Incorrect. Try again. -->
-
-### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
----
-## Question 7 [D5]
-**ID:** EC-ING-11-2026-W02-present-continuous-actions-001-MASTERY-v7
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
-
-### Opciones
-- [x] B) boarding pass
-  <!-- feedback: Correct! 'boarding pass' matches the definition. -->
-- [ ] A) visa
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) receipt
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) brochure
-  <!-- feedback: Incorrect. Try again. -->
-
-### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
----
-## Question 8 [D6]
-**ID:** EC-ING-11-2026-W02-present-continuous-actions-001-MASTERY-v8
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
-
-### Opciones
-- [x] B) sightseeing
-  <!-- feedback: Correct! 'sightseeing' matches the definition. -->
-- [ ] A) shopping
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) hiking
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) camping
-  <!-- feedback: Incorrect. Try again. -->
-
-### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
----
-## Question 9 [D5]
-**ID:** EC-ING-11-2026-W02-present-continuous-actions-001-MASTERY-v9
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
-
-### Opciones
-- [x] B) souvenir
-  <!-- feedback: Correct! 'souvenir' matches the definition. -->
-- [ ] A) gift
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) award
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) prize
-  <!-- feedback: Incorrect. Try again. -->
-
-### Explicacion Pedagogica
-The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
----
-## Question 10 [D6]
-**ID:** EC-ING-11-2026-W02-present-continuous-actions-001-MASTERY-v10
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A period of time by which something is late or postponed."
-
-### Opciones
-- [x] B) delay
-  <!-- feedback: Correct! 'delay' matches the definition. -->
-- [ ] A) cancellation
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) departure
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) arrival
-  <!-- feedback: Incorrect. Try again. -->
-
-### Explicacion Pedagogica
-The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
----
-## Question 11 [D7]
-**ID:** EC-ING-11-2026-W02-present-continuous-actions-001-MASTERY-v11
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
-
-### Opciones
-- [x] C) check-in
-  <!-- feedback: Correct! 'check-in' matches the definition. -->
-- [ ] A) check-out
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) booking
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) reservation
-  <!-- feedback: Incorrect. Try again. -->
-
-### Explicacion Pedagogica
-The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
----
-## Question 12 [D8]
-**ID:** EC-ING-11-2026-W02-present-continuous-actions-001-MASTERY-v12
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A period of rest or waiting before a further stage in a journey."
-
-### Opciones
-- [x] B) layover
-  <!-- feedback: Correct! 'layover' matches the definition. -->
-- [ ] A) stopover
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) transfer
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) transit
-  <!-- feedback: Incorrect. Try again. -->
-
-### Explicacion Pedagogica
-The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
----
-## Question 13 [D7]
-**ID:** EC-ING-11-2026-W02-present-continuous-actions-001-MASTERY-v13
-**Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A system of money in general use in a particular country."
-
-### Opciones
-- [x] D) currency
-  <!-- feedback: Correct! 'currency' matches the definition. -->
-- [ ] A) coin
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) banknote
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) cash
-  <!-- feedback: Incorrect. Try again. -->
-
-### Explicacion Pedagogica
-The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
----
-## Question 14 [D8]
-**ID:** EC-ING-11-2026-W02-present-continuous-actions-001-MASTERY-v14
-**Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
-
-### Opciones
-- [x] C) guidebook
-  <!-- feedback: Correct! 'guidebook' matches the definition. -->
-- [ ] A) map
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) dictionary
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) encyclopedia
-  <!-- feedback: Incorrect. Try again. -->
-
-### Explicacion Pedagogica
-The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
----
-## Question 15 [D7]
-**ID:** EC-ING-11-2026-W02-present-continuous-actions-001-MASTERY-v15
-**Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
-
-### Opciones
-- [x] C) backpack
-  <!-- feedback: Correct! 'backpack' matches the definition. -->
-- [ ] A) suitcase
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) briefcase
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) handbag
-  <!-- feedback: Incorrect. Try again. -->
-
-### Explicacion Pedagogica
-The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
----
-## Question 16 [D8]
-**ID:** EC-ING-11-2026-W02-present-continuous-actions-001-MASTERY-v16
-**Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "In or to a foreign country, especially one across the sea."
-
-### Opciones
-- [x] A) overseas
-  <!-- feedback: Correct! 'overseas' matches the definition. -->
-- [ ] B) domestic
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) local
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) national
-  <!-- feedback: Incorrect. Try again. -->
-
-### Explicacion Pedagogica
-The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
----
-## Question 17 [D9]
-**ID:** EC-ING-11-2026-W02-present-continuous-actions-001-MASTERY-v17
+## Question 14 [D5-D6]
+**ID:** EC-ING-11-2026-W02-present-continuous-actions-001-MASTERY-bundle-v14
 **Bloom:** Evaluate
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Correccion de errores, Guayaquil.
 
 ### Enunciado
-What is the English word for: "An estimate of income and expenditure for a set period of time."
+Look at the sentence and choose the best correction: 'They are plays football at the moment.'
 
 ### Opciones
-- [x] B) budget
-  <!-- feedback: Correct! 'budget' matches the definition. -->
-- [ ] A) expense
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) cost
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) price
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) They play football at the moment.
+  <!-- feedback: That would be the simple present, which does not match 'at the moment'. -->
+- [x] B) They are playing football at the moment.
+  <!-- feedback: The gerund 'playing' follows the auxiliary 'are'. -->
+- [ ] C) They are play football at the moment.
+  <!-- feedback: That is the original incorrect form with the same error. -->
+- [ ] D) They is playing football at the moment.
+  <!-- feedback: 'Is' does not agree with the plural subject 'they'. -->
 
 ### Explicacion Pedagogica
-The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
+El error es la forma base despues de 'are'; la forma correcta es 'are playing'. Conviene practicarlo con otros ejemplos antes del examen.
+
 ---
-## Question 18 [D10]
-**ID:** EC-ING-11-2026-W02-present-continuous-actions-001-MASTERY-v18
-**Bloom:** Evaluate
-**EJE:** Lexico
+
+## Question 15 [D5-D6]
+**ID:** EC-ING-11-2026-W02-present-continuous-actions-001-MASTERY-bundle-v15
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Contraste entre habitos y accion puntual, Quito.
 
 ### Enunciado
-What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
+Read: 'I usually walk to class, but today I am taking the bus.' What does this tell us?
 
 ### Opciones
-- [x] D) insurance
-  <!-- feedback: Correct! 'insurance' matches the definition. -->
-- [ ] A) warranty
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) guarantee
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) policy
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) The speaker always takes the bus
+  <!-- feedback: The text states the opposite: the bus is only for today. -->
+- [ ] B) The speaker never walks
+  <!-- feedback: The simple present describes walking as the usual action. -->
+- [ ] C) The speaker has not decided yet
+  <!-- feedback: The decision is already stated: today the bus is taken. -->
+- [x] D) A usual habit is replaced today by a different arrangement
+  <!-- feedback: The 'but' contrasts the routine with today's exception. -->
 
 ### Explicacion Pedagogica
-The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
+La oracion contrasta un habito general ('usually walk') con una excepcion concreta del presente ('today').
+
 ---
-## Question 19 [D9]
-**ID:** EC-ING-11-2026-W02-present-continuous-actions-001-MASTERY-v19
+
+## Question 16 [D5-D6]
+**ID:** EC-ING-11-2026-W02-present-continuous-actions-001-MASTERY-bundle-v16
 **Bloom:** Evaluate
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Usos del presente continuo, Cuenca.
 
 ### Enunciado
-What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
+Which sentence uses the present continuous for a temporary situation?
 
 ### Opciones
-- [x] D) vaccination
-  <!-- feedback: Correct! 'vaccination' matches the definition. -->
-- [ ] A) medication
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) prescription
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) infection
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) This week she works from home.
+  <!-- feedback: The simple present would imply a permanent arrangement. -->
+- [x] B) This week she is working from home.
+  <!-- feedback: 'This week' marks a temporary arrangement, typical of the continuous. -->
+- [ ] C) She worked from home this week.
+  <!-- feedback: The simple past would refer to a completed week. -->
+- [ ] D) She will work from home this week.
+  <!-- feedback: The future refers to an arrangement not yet in progress. -->
 
 ### Explicacion Pedagogica
-The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
+'This week' limita el uso a un periodo concreto y no habitual, por eso corresponde el presente continuo.
+
 ---
-## Question 20 [D10]
-**ID:** EC-ING-11-2026-W02-present-continuous-actions-001-MASTERY-v20
-**Bloom:** Evaluate
-**EJE:** Lexico
+
+## Question 17 [D5-D6]
+**ID:** EC-ING-11-2026-W02-present-continuous-actions-001-MASTERY-bundle-v17
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Presente continuo en contexto de planes, Guayaquil.
 
 ### Enunciado
-What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
+What does 'They are not coming' usually imply?
 
 ### Opciones
-- [x] A) jet lag
-  <!-- feedback: Correct! 'jet lag' matches the definition. -->
-- [ ] B) fatigue
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) exhaustion
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) insomnia
-  <!-- feedback: Incorrect. Try again. -->
+- [x] A) A future arrangement already decided
+  <!-- feedback: 'Are not coming' can signal a planned change of intention. -->
+- [ ] B) A past habit that has stopped
+  <!-- feedback: A stopped habit would be expressed with the simple past. -->
+- [ ] C) A refusal to answer the question
+  <!-- feedback: The structure itself does not express refusal. -->
+- [ ] D) An action repeated every day
+  <!-- feedback: Daily repetition requires the simple present. -->
 
 ### Explicacion Pedagogica
-The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.
+El presente continuo tambien expresa planes o decisiones futuras acordadas, no solo acciones en curso.
+
+---
+
+## Question 18 [D5-D6]
+**ID:** EC-ING-11-2026-W02-present-continuous-actions-001-MASTERY-bundle-v18
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Orden de palabras en presente continuo, Quito.
+
+### Enunciado
+Which sentence correctly places the gerund after the auxiliary?
+
+### Opciones
+- [ ] A) She currently is waiting for the results.
+  <!-- feedback: Placing the adverb between the auxiliary and the verb breaks the normal order. -->
+- [ ] B) Is she currently waiting for the results.
+  <!-- feedback: Without a question mark this is not a correctly punctuated question. -->
+- [ ] C) She is waiting now for the results for.
+  <!-- feedback: 'Now' and 'for' cannot be placed in that order at the end. -->
+- [x] D) She is currently waiting for the results.
+  <!-- feedback: 'Is' before the subject and 'waiting' at the end follows the standard order. -->
+
+### Explicacion Pedagogica
+En afirmativo el auxiliar precede al sujeto y el gerundio se coloca al final de la oracion.
+
+---
+
+## Question 19 [D5-D6]
+**ID:** EC-ING-11-2026-W02-present-continuous-actions-001-MASTERY-bundle-v19
+**Bloom:** Understand
+**EJE:** Grammatical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Inferencia temporal, Cuenca.
+
+### Enunciado
+Read: 'An earthquake is shaking the windows right now.' What can you infer about the timing?
+
+### Opciones
+- [ ] A) The earthquake happened in the past
+  <!-- feedback: The continuous form does not refer to a completed past event. -->
+- [x] B) The earthquake is happening at the time of speaking
+  <!-- feedback: Both the continuous form and 'right now' place the event in the present. -->
+- [ ] C) The earthquake will happen tomorrow
+  <!-- feedback: Nothing in the sentence refers to the future. -->
+- [ ] D) The earthquake happens every week
+  <!-- feedback: Daily frequency would require the simple present. -->
+
+### Explicacion Pedagogica
+'Is shaking' y 'right now' sitúan el fenomeno en el momento de la lectura del texto.
+
+---
+
+## Question 20 [D5-D6]
+**ID:** EC-ING-11-2026-W02-present-continuous-actions-001-MASTERY-bundle-v20
+**Bloom:** Evaluate
+**EJE:** Grammatical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Consolidacion de presente continuo, Guayaquil.
+
+### Enunciado
+Choose the correct sentence that contrasts a habit with a temporary action.
+
+### Opciones
+- [ ] A) He cook at home, but tonight he eat out.
+  <!-- feedback: Both verbs lack the -s required by the third person singular. -->
+- [ ] B) He is cooking at home, but tonight he cooks out.
+  <!-- feedback: The tense assignment is reversed: the habit is not the continuous one. -->
+- [ ] C) He cooks at home, but tonight he cook out.
+  <!-- feedback: The second clause lacks the -s on the simple present verb. -->
+- [x] D) He cooks at home, but tonight he is eating out.
+  <!-- feedback: Simple present for the habit, continuous for tonight's exception. -->
+
+### Explicacion Pedagogica
+La oracion correcta usa el presente simple para el habito y el continuo para la excepcion temporal.
+
+---

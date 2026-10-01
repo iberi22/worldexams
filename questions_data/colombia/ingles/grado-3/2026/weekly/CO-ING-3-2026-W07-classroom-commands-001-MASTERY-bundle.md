@@ -18,190 +18,207 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 ---
-# MASTERY Bundle - Ingles: Classroom Commands (W07)
-**8 preguntas | Ingles | {alignment}**
+# MASTERY Bundle - Ingles: classroom-commands (W07)
+**8 preguntas | Ingles | DBA MEN Colombia**
 
 ---
+
 ## Question 1 [D3-D4]
 **ID:** CO-ING-3-2026-W07-classroom-commands-001-MASTERY-bundle-v1
-**Bloom:** Remember
-**ICFES:** Lexico
+**Bloom:** Understand
+**ICFES:** Pragmatic Competence
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Ordenes en el aula, grado 3.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+Which command asks a student to close the window?
 
 ### Opciones
-- [x] B) accommodation
-  <!-- feedback: Correct! 'accommodation' matches the definition. -->
-- [ ] A) transportation
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) entertainment
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) currency
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) Shut down the window, please.
+  <!-- feedback: 'Shut down' applies to machines, not to windows. -->
+- [x] B) Close the window, please.
+  <!-- feedback: 'Close' is the verb used with a window or a door. -->
+- [ ] C) Open the window, please.
+  <!-- feedback: 'Open' is the opposite action. -->
+- [ ] D) Break the window, please.
+  <!-- feedback: 'Break' would be a destructive instruction. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
+El verbo 'close' se usa para ventanas y puertas; 'turn off' es para aparatos. Esta estructura se repite con otros sustantivos del mismo grupo.
+
 ---
+
 ## Question 2 [D3-D4]
 **ID:** CO-ING-3-2026-W07-classroom-commands-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Lexico
+**ICFES:** Pragmatic Competence
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Normas del aula, grado 3.
 
 ### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
+Look at this instruction: 'Don't run in the hallway.' What does it mean?
 
 ### Opciones
-- [x] A) itinerary
-  <!-- feedback: Correct! 'itinerary' matches the definition. -->
-- [ ] B) baggage
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) destination
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) passport
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) You can run in the hallway.
+  <!-- feedback: 'Don't' negates the action instead of allowing it. -->
+- [ ] B) You should run in the hallway.
+  <!-- feedback: 'Don't' states a prohibition, not a suggestion. -->
+- [ ] C) You must run in the hallway.
+  <!-- feedback: That is the opposite of the instruction given. -->
+- [x] D) You must not run in the hallway.
+  <!-- feedback: 'Don't' plus the base verb expresses a prohibition. -->
 
 ### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
+'Don't' es la forma negativa del imperativo: prohibe la accion de correr en el pasillo.
+
 ---
-## Question 3 [D5-D6]
+
+## Question 3 [D3-D4]
 **ID:** CO-ING-3-2026-W07-classroom-commands-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Lexico
+**ICFES:** Pragmatic Competence
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Peticiones cortesanes, grado 3.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+Which sentence is a polite request?
 
 ### Opciones
-- [x] D) destination
-  <!-- feedback: Correct! 'destination' matches the definition. -->
-- [ ] A) departure
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) arrival
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) journey
-  <!-- feedback: Incorrect. Try again. -->
+- [x] A) Could you help me, please?
+  <!-- feedback: 'Could you... please?' is a polite request in question form. -->
+- [ ] B) Help me now.
+  <!-- feedback: The bare imperative is a command, not a polite request. -->
+- [ ] C) You must help me.
+  <!-- feedback: 'Must' imposes an obligation. -->
+- [ ] D) Helping me is good.
+  <!-- feedback: That is a statement about behaviour, not a request. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
+Las peticiones amables suelen usar 'Could' o 'Can' con 'please'; la forma imperativa es mas directa.
+
 ---
-## Question 4 [D5-D6]
+
+## Question 4 [D3-D4]
 **ID:** CO-ING-3-2026-W07-classroom-commands-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Lexico
+**ICFES:** Pragmatic Competence
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Respuesta a una orden, grado 3.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+Choose the correct response to the instruction: 'Put your books on the desk.'
 
 ### Opciones
-- [x] C) luggage
-  <!-- feedback: Correct! 'luggage' matches the definition. -->
-- [ ] A) ticket
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) flight
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) reservation
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) My books are on the table.
+  <!-- feedback: A statement about location does not respond to the command. -->
+- [x] B) I put my books on the desk.
+  <!-- feedback: The student carries out the instruction given. -->
+- [ ] C) I want to put my books there.
+  <!-- feedback: 'Want to' expresses a wish, not compliance. -->
+- [ ] D) The books put on the desk.
+  <!-- feedback: That order of words is not a grammatical English sentence. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
+La respuesta correcta ejecuta la orden: coloca los libros sobre el escritorio. La regla se aprende junto con los demas ejemplos de la unidad.
+
 ---
-## Question 5 [D7-D8]
+
+## Question 5 [D3-D4]
 **ID:** CO-ING-3-2026-W07-classroom-commands-001-MASTERY-bundle-v5
-**Bloom:** Analyze
-**ICFES:** Lexico
+**Bloom:** Understand
+**ICFES:** Pragmatic Competence
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Comprension de instrucciones, grado 3.
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+What does the teacher mean by 'Please take your seats'?
 
 ### Opciones
-- [x] A) passenger
-  <!-- feedback: Correct! 'passenger' matches the definition. -->
-- [ ] B) pedestrian
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) commuter
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) tourist
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) Leave the classroom quickly.
+  <!-- feedback: Nothing in the sentence mentions leaving. -->
+- [ ] B) Stand near the window.
+  <!-- feedback: 'Take your seats' has nothing to do with the window. -->
+- [x] C) Sit down in your assigned seats.
+  <!-- feedback: 'Take your seats' means to go and sit in your place. -->
+- [ ] D) Give your books to the teacher.
+  <!-- feedback: That would be 'hand in your books', a different instruction. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
+La instruccion pide a los estudiantes que ocupen sus asientos, no que se levanten.
+
 ---
-## Question 6 [D7-D8]
+
+## Question 6 [D3-D4]
 **ID:** CO-ING-3-2026-W07-classroom-commands-001-MASTERY-bundle-v6
-**Bloom:** Analyze
-**ICFES:** Lexico
+**Bloom:** Apply
+**ICFES:** Pragmatic Competence
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Normas del aula, grado 3.
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+Choose the word that completes: 'Don't talk while the teacher is ____.'
 
 ### Opciones
-- [x] B) customs
-  <!-- feedback: Correct! 'customs' matches the definition. -->
-- [ ] A) security
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) terminal
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) gate
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) speak
+  <!-- feedback: 'While' requires the present continuous for an action in progress. -->
+- [ ] B) spoke
+  <!-- feedback: 'Spoke' is the simple past and does not fit 'while'. -->
+- [x] C) speaking
+  <!-- feedback: 'Speaking' fits 'while' plus the present continuous sense. -->
+- [ ] D) spoken
+  <!-- feedback: 'Spoken' is a past participle and cannot follow 'while' here. -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
+'Speaking' describe la accion de hablar en ese momento. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.
+
 ---
-## Question 7 [D9-D10]
+
+## Question 7 [D5-D6]
 **ID:** CO-ING-3-2026-W07-classroom-commands-001-MASTERY-bundle-v7
-**Bloom:** Evaluate
-**ICFES:** Lexico
+**Bloom:** Analyze
+**ICFES:** Pragmatic Competence
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Registro de la orden, grado 3.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+Which sentence gives an instruction politely?
 
 ### Opciones
-- [x] A) boarding pass
-  <!-- feedback: Correct! 'boarding pass' matches the definition. -->
-- [ ] B) visa
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) receipt
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) brochure
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) Open the window.
+  <!-- feedback: The bare imperative sounds direct and unfriendly. -->
+- [ ] B) You will open the window.
+  <!-- feedback: 'Will' imposes an instruction, not a request. -->
+- [ ] C) Opening the window is required.
+  <!-- feedback: That is a statement of obligation, not a request. -->
+- [x] D) Would you mind opening the window?
+  <!-- feedback: 'Would you mind' plus -ing is a standard polite request. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+'Would you mind opening the window?' es una formula cortese; el imperativo directo seria mas brusco.
+
 ---
-## Question 8 [D9-D10]
+
+## Question 8 [D3-D4]
 **ID:** CO-ING-3-2026-W07-classroom-commands-001-MASTERY-bundle-v8
-**Bloom:** Evaluate
-**ICFES:** Lexico
+**Bloom:** Understand
+**ICFES:** Pragmatic Competence
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Antonimos en instrucciones, grado 3.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+What is the opposite of the instruction 'Stand up'?
 
 ### Opciones
-- [x] B) sightseeing
-  <!-- feedback: Correct! 'sightseeing' matches the definition. -->
-- [ ] A) shopping
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) hiking
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) camping
-  <!-- feedback: Incorrect. Try again. -->
+- [x] A) Sit down.
+  <!-- feedback: 'Sit down' is the direct opposite of 'stand up'. -->
+- [ ] B) Look up.
+  <!-- feedback: 'Look up' refers to the direction of the eyes, not posture. -->
+- [ ] C) Stand still.
+  <!-- feedback: 'Stand still' still requires standing, only motionless. -->
+- [ ] D) Lie down.
+  <!-- feedback: 'Lie down' is a different action, not the direct opposite. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+'Sit down' es la instruccion contraria a 'stand up'. Conviene practicarlo con otros ejemplos antes del examen.
+
+---

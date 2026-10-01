@@ -34,15 +34,14 @@ creador: "Jules-Agent"
 Which word names the sport where players kick a ball and try to score in a goal?
 
 ### Opciones
-### Opciones
 - [x] D) soccer
-  <!-- feedback: soccer es el deporte en el que se patea un balon y se busca anotar en una porteria. -->
+  <!-- feedback: Soccer is the sport in which a ball is kicked and you try to score in a goal. -->
 - [ ] A) basketball
-  <!-- feedback: en basketball el balon se introduce con las manos y la canasta esta en alto, no en una porteria. -->
+  <!-- feedback: In basketball the ball goes in with the hands and the hoop is up high, not in a goal. -->
 - [ ] B) swimming
-  <!-- feedback: en natacion el jugador se desplaza en el agua y no existe ningun goal donde anotar. -->
+  <!-- feedback: In swimming the player moves through the water and there is no goal to score in. -->
 - [ ] C) tennis
-  <!-- feedback: en tenis la pelota se golpea con una raqueta y el punto no se marca en una porteria. -->
+  <!-- feedback: In tennis the ball is hit with a racket and the point is not scored in a goal. -->
 
 ### Explicacion Pedagogica
 Para distinguir deportes en ingles basta identificar dos rasgos: como se mueve el objeto y donde se marca el punto. Soccer tiene las dos caracteristicas del enunciado, patear y porteria, mientras que las demas opciones se descartan por el uso de las manos, el agua o la raqueta.
@@ -55,18 +54,17 @@ Para distinguir deportes en ingles basta identificar dos rasgos: como se mueve e
 **Contexto:** Ejercicio de emparejamiento de deportes con el lugar donde se practican.
 
 ### Enunciado
-Which sentence is correct?
+Which sentence correctly pairs the sport with the place where it is played?
 
 ### Opciones
-### Opciones
 - [ ] A) We swim in the swimming pool.
-  <!-- feedback: la frase es correcta, pero el enunciado ya dice que el estudiante juega soccer, y esta opcion cambia el deporte. -->
+  <!-- feedback: Swimming in a pool is a correct pairing in itself, but it is swimming and not basketball, so it does not match the sport the prompt is asking about. -->
 - [x] D) We play basketball on the court.
-  <!-- feedback: basketball se juega en la cancha, y on the court es la combinacion que usan los estudiantes en ingles. -->
+  <!-- feedback: Basketball is played on a court, and on the court is the combination students use in English. -->
 - [ ] B) We play soccer in the swimming pool.
-  <!-- feedback: soccer se juega en un campo de futbol, no en una piscina, aunque las dos palabras sean reales. -->
+  <!-- feedback: Soccer is played on a football pitch, not in a swimming pool, even though both words are real. -->
 - [ ] C) We play tennis in the ring.
-  <!-- feedback: el tenis se juega en una cancha y con una raqueta; the ring no es ningun espacio de juego. -->
+  <!-- feedback: Tennis is played on a court and with a racket; the ring is not a playing space at all. -->
 
 ### Explicacion Pedagogica
 Cada deporte tiene un espacio propio, y la combinacion correcta se memoriza como bloque: play soccer on the field, play basketball on the court, play tennis on the court, swim in the pool. Reconocer el espacio equivocado es tan importante como reconocer el nombre del deporte.
@@ -82,15 +80,14 @@ Cada deporte tiene un espacio propio, y la combinacion correcta se memoriza como
 Read: "Ana likes swimming because she wants to be healthy." Why does Ana like swimming?
 
 ### Opciones
-### Opciones
 - [ ] A) Because she wants to win a race
-  <!-- feedback: el texto no menciona ninguna carrera ni querer ganar una competencia. -->
+  <!-- feedback: The text does not mention a race or wanting to win a competition. -->
 - [ ] B) Because she likes the pool
-  <!-- feedback: el texto no habla de la piscina ni de que le guste el lugar donde nada. -->
+  <!-- feedback: The text does not talk about the pool or about liking the place where she swims. -->
 - [x] C) Because she wants to be healthy
-  <!-- feedback: la segunda parte del texto dice literalmente que ella quiere estar sana. -->
+  <!-- feedback: The second part of the text says literally that she wants to be healthy. -->
 - [ ] D) Because her friends swim with her
-  <!-- feedback: no se menciona a ningun amigo ni a la compania en el enunciado. -->
+  <!-- feedback: No friend or company is mentioned in the sentence. -->
 
 ### Explicacion Pedagogica
 La palabra because introduce la razon y siempre enlaza con la segunda mitad de la oracion. Reconocer el conector causal permite responder preguntas de motivo sin inventar informacion que no aparece en el texto, que es el error tipico en comprension de grado tercero.
@@ -106,15 +103,14 @@ La palabra because introduce la razon y siempre enlaza con la segunda mitad de l
 Which question finds out about a team sport?
 
 ### Opciones
-### Opciones
 - [ ] B) Do you like ice cream?
-  <!-- feedback: la pregunta es sobre comida y no tiene relacion con los deportes ni con los equipos. -->
+  <!-- feedback: That question is about food and has nothing to do with sports or teams. -->
 - [x] A) Do you play on a team?
-  <!-- feedback: on a team define un deporte de equipo, y esa pregunta identifica exactamente la caracteristica buscada. -->
+  <!-- feedback: On a team defines a team sport, and that question identifies exactly the feature being looked for. -->
 - [ ] C) Is your bedroom big?
-  <!-- feedback: la pregunta trata sobre la casa del estudiante y no sobre la practica deportiva. -->
+  <!-- feedback: That question is about the student's house and not about sporting practice. -->
 - [ ] D) How old is your brother?
-  <!-- feedback: esa pregunta pide la edad de un familiar y no permite saber nada sobre el deporte. -->
+  <!-- feedback: That question asks for the age of a relative and gives no information at all about the sport. -->
 
 ### Explicacion Pedagogica
 Los deportes se clasifican en individuales y de equipo, y la diferencia se expresa con expresiones concretas como on a team o alone. Preguntar por esa caracteristica es la manera correcta de clasificar, mientras que las demas opciones cambian de tema y no ofrecen informacion util.
@@ -130,15 +126,14 @@ Los deportes se clasifican en individuales y de equipo, y la diferencia se expre
 In soccer, players need this to kick the ball. What is it?
 
 ### Opciones
-### Opciones
 - [x] A) A ball
-  <!-- feedback: el balon es el objeto que se patea en el futbol, que es exactamente lo que pide el enunciado. -->
+  <!-- feedback: The ball is the object that is kicked in football, which is exactly what the sentence asks for. -->
 - [ ] B) A racket
-  <!-- feedback: la raqueta se usa en tenis y en badmin, y no tiene ninguna funcion en el futbol. -->
+  <!-- feedback: The racket is used in tennis and badminton, and it has no function in football. -->
 - [ ] C) A net
-  <!-- feedback: la red se coloca en la valla o en el campo, pero no es el objeto que el jugador golpea. -->
+  <!-- feedback: The net is placed on the goal or across the pitch, but it is not the object the player hits. -->
 - [ ] D) A bat
-  <!-- feedback: el bate pertenece a beisbol y a softball, deportes en los que se golpea con las manos. -->
+  <!-- feedback: The bat belongs to baseball and softball, sports in which the ball is hit with the hands. -->
 
 ### Explicacion Pedagogica
 Agrupar el material por deporte ayuda a retener el vocabulario: racket for tennis, bat for baseball, ball for soccer and basketball, net for volleyball. Cuando el enunciado nombra una accion, el objeto que la corresponde identifica por si solo la opcion correcta.
@@ -154,15 +149,14 @@ Agrupar el material por deporte ayuda a retener el vocabulario: racket for tenni
 Choose the correct word: "Run to the wall and then ___ back to the line."
 
 ### Opciones
-### Opciones
 - [ ] A) comes
-  <!-- feedback: comes concuerda con un sujeto en tercera persona, y el enunciado se dirige a los estudiantes. -->
+  <!-- feedback: comes agrees with a third person subject, and the sentence is addressed to the students. -->
 - [x] B) come
-  <!-- feedback: come es la forma del presente que concuerda con el grupo de estudiantes al que el docente se dirige. -->
+  <!-- feedback: come is the present form that agrees with the group of students the teacher is addressing. -->
 - [ ] C) coming
-  <!-- feedback: coming es la forma en -ing y necesita un verbo auxiliar delante, como is coming. -->
+  <!-- feedback: coming is the -ing form and needs an auxiliary verb in front of it, like is coming. -->
 - [ ] D) to came
-  <!-- feedback: el verbo to come es irregular y su pasado es came, pero el enunciado esta en presente. -->
+  <!-- feedback: The verb to come is irregular and its past is came, but the sentence is in the present. -->
 
 ### Explicacion Pedagogica
 Las instrucciones de clase suelen dirigirse a un grupo, y ese grupo se trata como usted, por lo que el verbo aparece en la forma de you. Reconocer a quien se dirige la oracion evita el error de conjugar en tercera persona cuando en realidad se habla con varios estudiantes.
@@ -178,15 +172,14 @@ Las instrucciones de clase suelen dirigirse a un grupo, y ese grupo se trata com
 Read: "Playing sports helps children stay strong and makes them happy." What is the main benefit mentioned?
 
 ### Opciones
-### Opciones
 - [ ] A) Getting good grades
-  <!-- feedback: el texto no menciona calificaciones ni el rendimiento escolar. -->
+  <!-- feedback: The text does not mention grades or school performance. -->
 - [x] B) Staying strong and feeling happy
-  <!-- feedback: el texto nombra exactamente esos dos beneficios, fuerte y feliz. -->
+  <!-- feedback: The text names exactly those two benefits, strong and happy. -->
 - [ ] C) Making new friends
-  <!-- feedback: no se habla de amistades ni de relaciones sociales en el texto. -->
+  <!-- feedback: The text does not talk about friendships or social relationships. -->
 - [ ] D) Learning to swim fast
-  <!-- feedback: la natacion no aparece en el texto, que habla de los deportes en general. -->
+  <!-- feedback: Swimming does not appear in the text, which talks about sports in general. -->
 
 ### Explicacion Pedagogica
 La idea principal suele aparecer resumida al final del texto. Las tres opciones incorrectas introducen temas que el lector podria suponer por el contexto general del deporte, y por eso son distractores utiles: obligan a volver al texto para confirmar la informacion.
@@ -202,15 +195,14 @@ La idea principal suele aparecer resumida al final del texto. Las tres opciones 
 Which answer is the best one for a student who plays soccer on Saturdays?
 
 ### Opciones
-### Opciones
 - [ ] A) I play basketball.
-  <!-- feedback: esa respuesta nombra un deporte distinto del que el enunciado asigna al estudiante. -->
+  <!-- feedback: That answer names a sport different from the one the prompt gives to the student. -->
 - [ ] B) I like sports very much.
-  <!-- feedback: esa frase muestra una opinion general y no identifica ningun deporte concreto. -->
+  <!-- feedback: That sentence shows a general opinion and does not identify any specific sport. -->
 - [ ] D) I go swimming on Mondays.
-  <!-- feedback: esa respuesta incluye un dia y un deporte que no coinciden con los sabados ni con el futbol. -->
+  <!-- feedback: That answer includes a day and a sport that do not match Saturdays or football. -->
 - [x] C) I play soccer on Saturdays.
-  <!-- feedback: la respuesta repite el deporte y el dia del enunciado, que es la forma de presentar la informacion completa. -->
+  <!-- feedback: The answer repeats the sport and the day from the prompt, which is how to present the complete information. -->
 
 ### Explicacion Pedagogica
 La oracion completa debe reunir las dos piezas de informacion del ejercicio: el deporte y el momento en que se practica. Una respuesta con opinion general es gramaticalmente correcta pero pierde los datos que la consigna pide, y por eso no es aceptable como respuesta final.

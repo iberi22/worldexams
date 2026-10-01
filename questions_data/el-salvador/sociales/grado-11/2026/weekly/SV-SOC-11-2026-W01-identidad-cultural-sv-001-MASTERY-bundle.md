@@ -18,467 +18,507 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 ---
-# MASTERY Bundle - sociales: identidad cultural sv (W01)
-**20 preguntas | sociales | MINED - PAES El Salvador**
+# MASTERY Bundle - Estudio Social: identidad-cultural-sv (W01)
+**20 preguntas | Estudio Social | MINED - PAES El Salvador**
 
 ---
 
 ## Question 1 [D3-D4]
 **ID:** SV-SOC-11-2026-W01-identidad-cultural-sv-001-MASTERY-bundle-v1
-**Bloom:** Understand
+**Bloom:** Analyze
 **EJE:** identidad cultural sv
 **Expected_Success:** 0.80
-**Contexto:** Clase de ciencias sociales en Santa Ana estudiando identidad cultural sv.
+**Contexto:** Clase de Estudio Social en San Salvador, grado 11.
 
 ### Enunciado
-¿Qué documento establece la organización del Estado?
+Cual de los siguientes grupos es un pueblo indigena de El Salvador?
 
 ### Opciones
-- [x] D) La Constitución
-  <!-- feedback: ¡Correcto! -->
-- [ ] A) Una ley ordinaria
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] B) Un decreto presidencial
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] C) Un tratado internacional
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) Los nahuas y los pipiles
+  <!-- feedback: Ambos pueblos originarios aparecen en las fuentes historicas del territorio. -->
+- [ ] B) Los ascendientes de los colonizadores europeos
+  <!-- feedback: El grupo colonial llego con la conquista y no es un pueblo indigena. -->
+- [ ] C) Los trabajadores de las plantaciones del siglo XX
+  <!-- feedback: Ese grupo se formo durante el periodo colonial posterior. -->
+- [ ] D) Las comunidades de la diaspora africana en el exterior
+  <!-- feedback: La diaspora no es la base de la identidad interna del territorio. -->
 
 ### Explicacion Pedagogica
-La Constitución es la norma suprema que organiza el Estado y garantiza derechos.
+Los nahuas y los pipiles son los pueblos originarios que habitaban el territorio salvadoreño antes de la conquista.
 
-## Question 2 [D3-D4]
+---
+
+## Question 2 [D5-D6]
 **ID:** SV-SOC-11-2026-W01-identidad-cultural-sv-001-MASTERY-bundle-v2
 **Bloom:** Analyze
 **EJE:** identidad cultural sv
-**Expected_Success:** 0.70
-**Contexto:** Clase de ciencias sociales en San Miguel estudiando identidad cultural sv.
+**Expected_Success:** 0.80
+**Contexto:** Analisis del concepto de cultura, San Miguel.
 
 ### Enunciado
-¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?
+Por que se afirma que la cultura es un proceso de construccion social?
 
 ### Opciones
-- [x] B) Urbanización masiva y nuevas clases sociales
-  <!-- feedback: ¡Correcto! -->
-- [ ] A) Retorno a la vida agrícola
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] C) Disminución del comercio global
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] D) Eliminación del trabajo manual
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] A) Porque todas las culturas son falsas
+  <!-- feedback: Esa afirmacion no explica por que cambian ni como se construyen. -->
+- [ ] B) Porque no tiene origen historico
+  <!-- feedback: Los hechos culturales si tienen origenes historicos identificables. -->
+- [x] C) Porque se construye mediante practicas que las generaciones se transmiten
+  <!-- feedback: Cada grupo produce y reproduce sus propias formas culturales. -->
+- [ ] D) Porque solo sobreviven las Practicas utiles
+  <!-- feedback: La utilidad no es el criterio de permanencia de una forma cultural. -->
 
 ### Explicacion Pedagogica
-La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.
+La cultura se construye mediante practicas compartidas y transmitidas, no es algo fijo ni .
 
-## Question 3 [D3-D4]
+---
+
+## Question 3 [D5-D6]
 **ID:** SV-SOC-11-2026-W01-identidad-cultural-sv-001-MASTERY-bundle-v3
-**Bloom:** Understand
+**Bloom:** Analyze
 **EJE:** identidad cultural sv
-**Expected_Success:** 0.85
-**Contexto:** Clase de ciencias sociales en Soyapango estudiando identidad cultural sv.
+**Expected_Success:** 0.80
+**Contexto:** Historia social, San Salvador.
 
 ### Enunciado
-¿Qué derechos protegen la Constitución de un país democrático?
+El surgimiento de la categoria 'ladino' en El Salvador ilustra el proceso de:
 
 ### Opciones
-- [x] A) Derechos humanos fundamentales
-  <!-- feedback: ¡Correcto! -->
-- [ ] B) Solo derechos de propiedad
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] C) Únicamente derechos políticos
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] D) Derechos exclusivos del gobierno
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] A) Aislamiento de un mismo grupo humano
+  <!-- feedback: El aislamiento impediria justamente la mezcla que origina al ladino. -->
+- [ ] B) Migracion masiva del siglo XX
+  <!-- feedback: La migracion es posterior al proceso que dio origen a la categoria. -->
+- [ ] C) Imposicion de una lengua sin mezcla
+  <!-- feedback: Una imposicion sin mezcla no genera una categoria intermedia. -->
+- [x] D) Mezcla de poblaciones y lenguas tras la conquista
+  <!-- feedback: El mestizaje produce categorias intermedias como el ladino. -->
 
 ### Explicacion Pedagogica
-Las constituciones democráticas protegen derechos humanos fundamentales.
+La categoria de ladino nace del cruce demografico y linguistico entre indigenas y espanolles.
+
+---
 
 ## Question 4 [D3-D4]
 **ID:** SV-SOC-11-2026-W01-identidad-cultural-sv-001-MASTERY-bundle-v4
-**Bloom:** Apply
-**EJE:** identidad cultural sv
-**Expected_Success:** 0.80
-**Contexto:** Clase de ciencias sociales en San Miguel estudiando identidad cultural sv.
-
-### Enunciado
-Si un país exporta más de lo que importa, ¿qué tiene?
-
-### Opciones
-- [x] A) Superávit comercial
-  <!-- feedback: ¡Correcto! -->
-- [ ] B) Déficit comercial
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] C) Balanza equilibrada
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] D) Crisis económica
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-
-### Explicacion Pedagogica
-Exportar más que importar genera superávit comercial favorable.
-
-## Question 5 [D5-D6]
-**ID:** SV-SOC-11-2026-W01-identidad-cultural-sv-001-MASTERY-bundle-v5
-**Bloom:** Remember
-**EJE:** identidad cultural sv
-**Expected_Success:** 0.85
-**Contexto:** Clase de ciencias sociales en San Salvador estudiando identidad cultural sv.
-
-### Enunciado
-¿Cuál fue una causa importante de la Primera Guerra Mundial?
-
-### Opciones
-- [x] A) El asesinato del Archiduque Francisco Fernando
-  <!-- feedback: ¡Correcto! -->
-- [ ] B) El Tratado de Versalles
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] C) La Revolución Rusa
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] D) La invención del avión
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-
-### Explicacion Pedagogica
-El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.
-
-## Question 6 [D5-D6]
-**ID:** SV-SOC-11-2026-W01-identidad-cultural-sv-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** identidad cultural sv
 **Expected_Success:** 0.80
-**Contexto:** Clase de ciencias sociales en Soyapango estudiando identidad cultural sv.
+**Contexto:** Valores culturales, La Libertad.
 
 ### Enunciado
-¿Qué documento establece la organización del Estado?
+Cual de los siguientes valores se asocia directamente con la identidad cultural?
 
 ### Opciones
-- [x] C) La Constitución
-  <!-- feedback: ¡Correcto! -->
-- [ ] A) Una ley ordinaria
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] B) Un decreto presidencial
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] D) Un tratado internacional
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] A) El aislamiento
+  <!-- feedback: El aislamiento rompe el tejido social que sostiene una identidad compartida. -->
+- [ ] B) La discriminacion
+  <!-- feedback: La discriminacion excluye a los grupos y debilita la identidad comun. -->
+- [x] C) La tolerancia
+  <!-- feedback: La tolerancia sostiene la convivencia de los grupos que comparten territorio. -->
+- [ ] D) La indiferencia
+  <!-- feedback: La indiferencia tampoco permite mantener vinculos entre los miembros de una sociedad. -->
 
 ### Explicacion Pedagogica
-La Constitución es la norma suprema que organiza el Estado y garantiza derechos.
+La tolerancia es el valor que permite la convivencia de grupos con costumbres distintas en un mismo territorio.
+
+---
+
+## Question 5 [D3-D4]
+**ID:** SV-SOC-11-2026-W01-identidad-cultural-sv-001-MASTERY-bundle-v5
+**Bloom:** Understand
+**EJE:** identidad cultural sv
+**Expected_Success:** 0.80
+**Contexto:** Comprension lectora, Santa Ana.
+
+### Enunciado
+Que caracteriza la festandizuacion de una sociedad?
+
+### Opciones
+- [ ] A) La copia exacta de una tradicion europea
+  <!-- feedback: Las fiestas no son copias, sino combinaciones propias. -->
+- [ ] B) La eliminacion de todas las tradiciones
+  <!-- feedback: La fusion conserva elementos de ambas tradiciones. -->
+- [ ] C) La importacion directa de una fiesta extranjera
+  <!-- feedback: Ningun caso del texto corresponde a una importacion directa. -->
+- [x] D) La fusion de tradiciones distintas en una celebracion propia
+  <!-- feedback: Las fiestas combinan elementos indigenas y espanoles en una forma nueva. -->
+
+### Explicacion Pedagogica
+La festandizuacion combina tradiciones de distintos origenes en una celebracion propia y nueva.
+
+---
+
+## Question 6 [D5-D6]
+**ID:** SV-SOC-11-2026-W01-identidad-cultural-sv-001-MASTERY-bundle-v6
+**Bloom:** Analyze
+**EJE:** identidad cultural sv
+**Expected_Success:** 0.80
+**Contexto:** Sociolinguisitica, El Salvador.
+
+### Enunciado
+Por que una lengua minoritaria puede sentirse amenazada por una lengua nacional unica?
+
+### Opciones
+- [ ] A) Porque las lenguas siempre son inferiores
+  <!-- feedback: Esa valoracion no es un argumento sociolinguisitico. -->
+- [x] B) Porque el uso unico reduce el espacio de transmision de la otra lengua
+  <!-- feedback: Sin contextos de uso, una lengua deja de aprenderse en la familia. -->
+- [ ] C) Porque sus hablantes siempre estan equivocados
+  <!-- feedback: La lengua no se mide por el numero de hablantes sino por su uso. -->
+- [ ] D) Porque no pueden aprenderse
+  <!-- feedback: Cualquier lengua puede aprendirse; el problema es el uso real. -->
+
+### Explicacion Pedagogica
+Al reducirse los espacios de uso, la lengua deja de transmitirse a las nuevas generacions.
+
+---
 
 ## Question 7 [D5-D6]
 **ID:** SV-SOC-11-2026-W01-identidad-cultural-sv-001-MASTERY-bundle-v7
 **Bloom:** Analyze
 **EJE:** identidad cultural sv
-**Expected_Success:** 0.70
-**Contexto:** Clase de ciencias sociales en Mejicanos estudiando identidad cultural sv.
+**Expected_Success:** 0.80
+**Contexto:** Persistencia cultural, San Salvador.
 
 ### Enunciado
-¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?
+Cuando una festindad tradicional se celebra hoy en El Salvador, ese hecho primarily demuestra:
 
 ### Opciones
-- [x] B) Urbanización masiva y nuevas clases sociales
-  <!-- feedback: ¡Correcto! -->
-- [ ] A) Retorno a la vida agrícola
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] C) Disminución del comercio global
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] D) Eliminación del trabajo manual
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] A) Que la tradicion se congelo en el pasado
+  <!-- feedback: Seguir celebrandola prueba que sigue vigente. -->
+- [ ] B) Que ya no tiene sentido en la sociedad actual
+  <!-- feedback: La supervivencia de la fiesta indica que conserva significados. -->
+- [x] C) Que la tradicion se adapta y permanece viva
+  <!-- feedback: La celebracion contemporanea demuestra continuidad con capacidad de cambio. -->
+- [ ] D) Que solo interesa a los visitantes extranjeros
+  <!-- feedback: El texto no distingue entre asistentes nacionales y extranjeros. -->
 
 ### Explicacion Pedagogica
-La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.
+La continuidad de la celebracion en el presente demuestra que el hecho cultural se adapta y permanece vivo.
 
-## Question 8 [D5-D6]
+---
+
+## Question 8 [D3-D4]
 **ID:** SV-SOC-11-2026-W01-identidad-cultural-sv-001-MASTERY-bundle-v8
 **Bloom:** Understand
 **EJE:** identidad cultural sv
-**Expected_Success:** 0.85
-**Contexto:** Clase de ciencias sociales en San Miguel estudiando identidad cultural sv.
+**Expected_Success:** 0.80
+**Contexto:** Estudio de la identidad, San Miguel.
 
 ### Enunciado
-¿Qué derechos protegen la Constitución de un país democrático?
+Que caracteriza a un estereotipo social?
 
 ### Opciones
-- [x] A) Derechos humanos fundamentales
-  <!-- feedback: ¡Correcto! -->
-- [ ] B) Solo derechos de propiedad
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] C) Únicamente derechos políticos
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] D) Derechos exclusivos del gobierno
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] A) Una descripcion exacta de cada individuo
+  <!-- feedback: Una descripcion exacta no es la simplificacion propia del estereotipo. -->
+- [x] B) Una idea simplificada y general sobre un grupo de personas
+  <!-- feedback: El estereotipo reduce a todos los miembros de un grupo a una misma caracteristica. -->
+- [ ] C) Un estudio cientifico sobre la poblacion
+  <!-- feedback: El estereotipo es lo contrario de un estudio riguroso. -->
+- [ ] D) Una ley que protege a un grupo
+  <!-- feedback: Una ley no es una idea generalizada sobre un grupo. -->
 
 ### Explicacion Pedagogica
-Las constituciones democráticas protegen derechos humanos fundamentales.
+Un estereotipo es una imagen simplificada y generalizada sobre un grupo, sin considerar las diferencias individuales.
+
+---
 
 ## Question 9 [D5-D6]
 **ID:** SV-SOC-11-2026-W01-identidad-cultural-sv-001-MASTERY-bundle-v9
-**Bloom:** Apply
+**Bloom:** Evaluate
 **EJE:** identidad cultural sv
 **Expected_Success:** 0.80
-**Contexto:** Clase de ciencias sociales en Santa Ana estudiando identidad cultural sv.
+**Contexto:** Analisis de procesos actuales, San Salvador.
 
 ### Enunciado
-Si un país exporta más de lo que importa, ¿qué tiene?
+Cual es la relacion entre identidad cultural y globalizacion?
 
 ### Opciones
-- [x] A) Superávit comercial
-  <!-- feedback: ¡Correcto! -->
-- [ ] B) Déficit comercial
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] C) Balanza equilibrada
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] D) Crisis económica
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] A) La globalizacion elimina todas las culturas locales
+  <!-- feedback: Las culturas locales se transforman, no desaparecen de golpe. -->
+- [ ] B) La globalizacion impide el surgimiento de identidades nuevas
+  <!-- feedback: Surgen identidades hibridas precisamente por la globalizacion. -->
+- [ ] C) Identidad cultural y globalizacion son el mismo proceso
+  <!-- feedback: Una es un proceso local de identificacion y la otra uno global de influencia. -->
+- [x] D) La globalizacion difunde formas culturales y genera a la vez respuestas locales
+  <!-- feedback: Ambos procesos coexisten: influencia externa y apropiacion interna. -->
 
 ### Explicacion Pedagogica
-Exportar más que importar genera superávit comercial favorable.
+La globalizacion difunde formas culturales y al mismo tiempo genera respuestas locales de afirmacion.
+
+---
 
 ## Question 10 [D5-D6]
 **ID:** SV-SOC-11-2026-W01-identidad-cultural-sv-001-MASTERY-bundle-v10
-**Bloom:** Remember
-**EJE:** identidad cultural sv
-**Expected_Success:** 0.85
-**Contexto:** Clase de ciencias sociales en Soyapango estudiando identidad cultural sv.
-
-### Enunciado
-¿Cuál fue una causa importante de la Primera Guerra Mundial?
-
-### Opciones
-- [x] D) El asesinato del Archiduque Francisco Fernando
-  <!-- feedback: ¡Correcto! -->
-- [ ] A) El Tratado de Versalles
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] B) La Revolución Rusa
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] C) La invención del avión
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-
-### Explicacion Pedagogica
-El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.
-
-## Question 11 [D7-D8]
-**ID:** SV-SOC-11-2026-W01-identidad-cultural-sv-001-MASTERY-bundle-v11
-**Bloom:** Understand
+**Bloom:** Analyze
 **EJE:** identidad cultural sv
 **Expected_Success:** 0.80
-**Contexto:** Clase de ciencias sociales en Soyapango estudiando identidad cultural sv.
+**Contexto:** Patrimonio cultural, Santa Ana.
 
 ### Enunciado
-¿Qué documento establece la organización del Estado?
+La arquitectura colonial de un pueblo/badge en San Vicente evidencia sobre su identidad que:
 
 ### Opciones
-- [x] B) La Constitución
-  <!-- feedback: ¡Correcto! -->
-- [ ] A) Una ley ordinaria
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] C) Un decreto presidencial
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] D) Un tratado internacional
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] A) Que el pueblo fue fundado ayer
+  <!-- feedback: La arquitectura colonial es por definicion antigua. -->
+- [x] B) Que conserva formas del periodo colonial
+  <!-- feedback: Los materiales y la construccion reflejan la epoca en que se levanto. -->
+- [ ] C) Que no hay tradicion en ese lugar
+  <!-- feedback: Un monumento colonial es precisamente una tradicion conservada. -->
+- [ ] D) Que toda la poblacion es descendiente de indigenas
+  <!-- feedback: La arquitectura no informa sobre la ascendencia de los habitantes. -->
 
 ### Explicacion Pedagogica
-La Constitución es la norma suprema que organiza el Estado y garantiza derechos.
+La arquitectura colonial conserva formas del periodo de la conquista y funciona como huella material del pasado.
 
-## Question 12 [D7-D8]
+---
+
+## Question 11 [D5-D6]
+**ID:** SV-SOC-11-2026-W01-identidad-cultural-sv-001-MASTERY-bundle-v11
+**Bloom:** Evaluate
+**EJE:** identidad cultural sv
+**Expected_Success:** 0.80
+**Contexto:** Ciudadania y diversidad, San Salvador.
+
+### Enunciado
+En una sociedad pluricultural, el reconocimiento de la diferencia implica:
+
+### Opciones
+- [ ] A) Separar el pais en estados independientes
+  <!-- feedback: La convivencia cultural no implica division politica. -->
+- [ ] B) Ocultar las practicas de los grupos minoritarios
+  <!-- feedback: Ocultar Practicas es lo contrario de reconocerlas. -->
+- [ ] C) Imponer una sola practica a todos los ciudadanos
+  <!-- feedback: Imponer una unica practica contradice el reconocimiento de la diferencia. -->
+- [x] D) Aceptar que conviven grupos con practicas distintas
+  <!-- feedback: El reconocimiento no exige renunciar a una identidad compartida. -->
+
+### Explicacion Pedagogica
+Reconocer la diferencia implica aceptar que conviven grupos distintos con practicas propias dentro de un mismo Estado.
+
+---
+
+## Question 12 [D5-D6]
 **ID:** SV-SOC-11-2026-W01-identidad-cultural-sv-001-MASTERY-bundle-v12
 **Bloom:** Analyze
 **EJE:** identidad cultural sv
-**Expected_Success:** 0.70
-**Contexto:** Clase de ciencias sociales en Mejicanos estudiando identidad cultural sv.
+**Expected_Success:** 0.80
+**Contexto:** Estudio de la discriminacion, La Libertad.
 
 ### Enunciado
-¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?
+Que efecto tiene la discriminacion sobre la identidad de un grupo?
 
 ### Opciones
-- [x] C) Urbanización masiva y nuevas clases sociales
-  <!-- feedback: ¡Correcto! -->
-- [ ] A) Retorno a la vida agrícola
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] B) Disminución del comercio global
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] D) Eliminación del trabajo manual
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] A) Refuerza la unidad de todo el grupo
+  <!-- feedback: La discriminacion divide en lugar de fortalecer. -->
+- [ ] B) No tiene ningun efecto sobre la identidad
+  <!-- feedback: La discriminacion tiene efectos profundos sobre la pertenencia. -->
+- [ ] C) Aumenta el respeto hacia sus practicas
+  <!-- feedback: La discriminacion reduce el respeto en lugar de aumentarlo. -->
+- [x] D) Debilita la pertenencia y la participacion de sus miembros
+  <!-- feedback: La exclusion reduce el sentido de comunidad y de participacion. -->
 
 ### Explicacion Pedagogica
-La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.
+La discriminacion debilita la pertenencia porque excluye a las personas del derecho a reconocerse como parte del conjunto.
 
-## Question 13 [D7-D8]
+---
+
+## Question 13 [D5-D6]
 **ID:** SV-SOC-11-2026-W01-identidad-cultural-sv-001-MASTERY-bundle-v13
-**Bloom:** Understand
-**EJE:** identidad cultural sv
-**Expected_Success:** 0.85
-**Contexto:** Clase de ciencias sociales en Mejicanos estudiando identidad cultural sv.
-
-### Enunciado
-¿Qué derechos protegen la Constitución de un país democrático?
-
-### Opciones
-- [x] C) Derechos humanos fundamentales
-  <!-- feedback: ¡Correcto! -->
-- [ ] A) Solo derechos de propiedad
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] B) Únicamente derechos políticos
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] D) Derechos exclusivos del gobierno
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-
-### Explicacion Pedagogica
-Las constituciones democráticas protegen derechos humanos fundamentales.
-
-## Question 14 [D7-D8]
-**ID:** SV-SOC-11-2026-W01-identidad-cultural-sv-001-MASTERY-bundle-v14
-**Bloom:** Apply
+**Bloom:** Analyze
 **EJE:** identidad cultural sv
 **Expected_Success:** 0.80
-**Contexto:** Clase de ciencias sociales en San Salvador estudiando identidad cultural sv.
+**Contexto:** Tradicion oral, San Salvador.
 
 ### Enunciado
-Si un país exporta más de lo que importa, ¿qué tiene?
+Si una leyenda se transmite oralmente cambiando detalles, esto demuestra que:
 
 ### Opciones
-- [x] D) Superávit comercial
-  <!-- feedback: ¡Correcto! -->
-- [ ] A) Déficit comercial
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] B) Balanza equilibrada
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] C) Crisis económica
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) La cultura es un proceso vivo que se adapta
+  <!-- feedback: La transformacion del relato evidencia la creatividad de la tradicion oral. -->
+- [ ] B) La leyenda es falsa porque cambia
+  <!-- feedback: La variabilidad no invalida el valor cultural del relato. -->
+- [ ] C) La tradicion oral no existe
+  <!-- feedback: La existencia de variaciones prueba que la tradicion oral si existe. -->
+- [ ] D) Los relatores no recuerdan bien
+  <!-- feedback: Los cambios responden a factores culturales, no solo a fallos de memoria. -->
 
 ### Explicacion Pedagogica
-Exportar más que importar genera superávit comercial favorable.
+La variacion en la transmision oral muestra que la cultura es un proceso vivo que se adapta.
 
-## Question 15 [D7-D8]
-**ID:** SV-SOC-11-2026-W01-identidad-cultural-sv-001-MASTERY-bundle-v15
-**Bloom:** Remember
+---
+
+## Question 14 [D5-D6]
+**ID:** SV-SOC-11-2026-W01-identidad-cultural-sv-001-MASTERY-bundle-v14
+**Bloom:** Analyze
 **EJE:** identidad cultural sv
-**Expected_Success:** 0.85
-**Contexto:** Clase de ciencias sociales en San Miguel estudiando identidad cultural sv.
+**Expected_Success:** 0.80
+**Contexto:** Conceptos de identidad, San Salvador.
 
 ### Enunciado
-¿Cuál fue una causa importante de la Primera Guerra Mundial?
+Que distingue la identidad nacional de la identidad cultural?
 
 ### Opciones
-- [x] C) El asesinato del Archiduque Francisco Fernando
-  <!-- feedback: ¡Correcto! -->
-- [ ] A) El Tratado de Versalles
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] B) La Revolución Rusa
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] D) La invención del avión
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] A) Son exactamente lo mismo
+  <!-- feedback: Se relacionan, pero no son equivalentes. -->
+- [ ] B) La cultural se basa solo en el escudo nacional
+  <!-- feedback: La identidad cultural no se limita a los simbolos del Estado. -->
+- [x] C) La nacional se apoya en el Estado; la cultural, en practicas y lenguas
+  <!-- feedback: Los dos ambitos son distintos, aunque puedan coincidir en un mismo pueblo. -->
+- [ ] D) La nacional desaparece cuando hay varias culturas
+  <!-- feedback: La identidad nacional convive con la pluralidad cultural. -->
 
 ### Explicacion Pedagogica
-El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.
+La identidad nacional se apoya en lo politico y el territorio; la cultural, en las practicas y lenguas compartidas.
 
-## Question 16 [D7-D8]
+---
+
+## Question 15 [D5-D6]
+**ID:** SV-SOC-11-2026-W01-identidad-cultural-sv-001-MASTERY-bundle-v15
+**Bloom:** Analyze
+**EJE:** identidad cultural sv
+**Expected_Success:** 0.80
+**Contexto:** Migracion y cultura, San Salvador.
+
+### Enunciado
+Cuando un migrante incorpora su gastronomia al pais receptor, ocurre que:
+
+### Opciones
+- [ ] A) La cultura del migrante desaparece sin rastro
+  <!-- feedback: La adopcion de su gastronomia es la prueba de que permanece. -->
+- [x] B) La cultura del pais receptor incorpora tradiciones del lugar de origen
+  <!-- feedback: La comida es un vehiculo THROUGH que las migraciones aportan. -->
+- [ ] C) El pais receptor pierde su identidad
+  <!-- feedback: Sumar practicas no elimina la identidad previa. -->
+- [ ] D) La migracion impide el intercambio cultural
+  <!-- feedback: El intercambio es un efecto caracteristico de la migracion. -->
+
+### Explicacion Pedagogica
+La adopcion de la gastronomia muestra como las migraciones enriquecen el repertorio cultural del pais de llegada.
+
+---
+
+## Question 16 [D5-D6]
 **ID:** SV-SOC-11-2026-W01-identidad-cultural-sv-001-MASTERY-bundle-v16
 **Bloom:** Understand
 **EJE:** identidad cultural sv
 **Expected_Success:** 0.80
-**Contexto:** Clase de ciencias sociales en Santa Ana estudiando identidad cultural sv.
+**Contexto:** Marco conceptual, Santa Ana.
 
 ### Enunciado
-¿Qué documento establece la organización del Estado?
+Que es el multiculturalismo?
 
 ### Opciones
-- [x] B) La Constitución
-  <!-- feedback: ¡Correcto! -->
-- [ ] A) Una ley ordinaria
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] C) Un decreto presidencial
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] D) Un tratado internacional
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [x] A) La convivencia legitima de varias culturas en un mismo territorio
+  <!-- feedback: La definicion central es la coexistencia de culturas diferentes. -->
+- [ ] B) La ausencia de cualquier cultura dominante
+  <!-- feedback: No elimina las culturas dominantes, solo limita su exclusividad. -->
+- [ ] C) La supresion de las culturas minoritarias
+  <!-- feedback: La supresion es lo contrario de lo que el multiculturalismo propone. -->
+- [ ] D) La mezcla total hasta perder cada cultura
+  <!-- feedback: La convivencia no exige la fusion completa de las culturas. -->
 
 ### Explicacion Pedagogica
-La Constitución es la norma suprema que organiza el Estado y garantiza derechos.
+El multiculturalismo sostiene que en un mismo territorio conviven varias culturas con practicas legitimas.
 
-## Question 17 [D9-D10]
+---
+
+## Question 17 [D5-D6]
 **ID:** SV-SOC-11-2026-W01-identidad-cultural-sv-001-MASTERY-bundle-v17
-**Bloom:** Analyze
-**EJE:** identidad cultural sv
-**Expected_Success:** 0.70
-**Contexto:** Clase de ciencias sociales en Santa Ana estudiando identidad cultural sv.
-
-### Enunciado
-¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?
-
-### Opciones
-- [x] C) Urbanización masiva y nuevas clases sociales
-  <!-- feedback: ¡Correcto! -->
-- [ ] A) Retorno a la vida agrícola
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] B) Disminución del comercio global
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] D) Eliminación del trabajo manual
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-
-### Explicacion Pedagogica
-La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.
-
-## Question 18 [D9-D10]
-**ID:** SV-SOC-11-2026-W01-identidad-cultural-sv-001-MASTERY-bundle-v18
-**Bloom:** Understand
-**EJE:** identidad cultural sv
-**Expected_Success:** 0.85
-**Contexto:** Clase de ciencias sociales en San Salvador estudiando identidad cultural sv.
-
-### Enunciado
-¿Qué derechos protegen la Constitución de un país democrático?
-
-### Opciones
-- [x] D) Derechos humanos fundamentales
-  <!-- feedback: ¡Correcto! -->
-- [ ] A) Solo derechos de propiedad
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] B) Únicamente derechos políticos
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] C) Derechos exclusivos del gobierno
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-
-### Explicacion Pedagogica
-Las constituciones democráticas protegen derechos humanos fundamentales.
-
-## Question 19 [D9-D10]
-**ID:** SV-SOC-11-2026-W01-identidad-cultural-sv-001-MASTERY-bundle-v19
-**Bloom:** Apply
+**Bloom:** Evaluate
 **EJE:** identidad cultural sv
 **Expected_Success:** 0.80
-**Contexto:** Clase de ciencias sociales en Soyapango estudiando identidad cultural sv.
+**Contexto:** Patrimonio e identidad, San Salvador.
 
 ### Enunciado
-Si un país exporta más de lo que importa, ¿qué tiene?
+Que papel cumplen los bienes patrimonio cultural en la construccion de identidad?
 
 ### Opciones
-- [x] B) Superávit comercial
-  <!-- feedback: ¡Correcto! -->
-- [ ] A) Déficit comercial
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] C) Balanza equilibrada
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] D) Crisis económica
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] A) Son objetos sin valor simbolico
+  <!-- feedback: El patrimonio tiene un valor symbolic ademas de material. -->
+- [x] B) Dan soporte material y simbolico a la memoria colectiva
+  <!-- feedback: Los bienes conservados anclan la identidad en el tiempo. -->
+- [ ] C) Son reservas de uso exclusivo para el turismo
+  <!-- feedback: Su valor principal es identitario y comunitario. -->
+- [ ] D) Desplazan a las practicas actuales
+  <!-- feedback: El patrimonio convive con las practicas del presente. -->
 
 ### Explicacion Pedagogica
-Exportar más que importar genera superávit comercial favorable.
+El patrimonio cultural tangible e intangible da soporte material y simbolico a la memoria colectiva de un pueblo.
 
-## Question 20 [D9-D10]
-**ID:** SV-SOC-11-2026-W01-identidad-cultural-sv-001-MASTERY-bundle-v20
+---
+
+## Question 18 [D5-D6]
+**ID:** SV-SOC-11-2026-W01-identidad-cultural-sv-001-MASTERY-bundle-v18
+**Bloom:** Analyze
+**EJE:** identidad cultural sv
+**Expected_Success:** 0.80
+**Contexto:** Sociolinguisitica, San Salvador.
+
+### Enunciado
+Si una comunidad pierde su lengua por falta de transmision, esto significa que:
+
+### Opciones
+- [x] A) Se pierde una parte del patrimonio cultural de esa comunidad
+  <!-- feedback: La lengua es uno de los elementos centrales del patrimonio inmaterial. -->
+- [ ] B) La comunidad deja de existir
+  <!-- feedback: La comunidad puede continuar aunque cambie su lengua. -->
+- [ ] C) La lengua sigue viva en los adultos mayores
+  <!-- feedback: Los adultos mayores pueden hablarla, pero no se esta transmitiendo. -->
+- [ ] D) El patrimonio material tambien se destruye
+  <!-- feedback: La lengua y los bienes materiales son componentes distintos del patrimonio. -->
+
+### Explicacion Pedagogica
+Sin transmision generacional la lengua deja de aprenderse y con ella se pierde parte del patrimonio inmaterial.
+
+---
+
+## Question 19 [D5-D6]
+**ID:** SV-SOC-11-2026-W01-identidad-cultural-sv-001-MASTERY-bundle-v19
 **Bloom:** Remember
 **EJE:** identidad cultural sv
-**Expected_Success:** 0.85
-**Contexto:** Clase de ciencias sociales en Mejicanos estudiando identidad cultural sv.
+**Expected_Success:** 0.80
+**Contexto:** Marco legal, San Salvador.
 
 ### Enunciado
-¿Cuál fue una causa importante de la Primera Guerra Mundial?
+Que establece la Constitucion salvadoreña sobre los derechos de las comunidades culturales?
 
 ### Opciones
-- [x] B) El asesinato del Archiduque Francisco Fernando
-  <!-- feedback: ¡Correcto! -->
-- [ ] A) El Tratado de Versalles
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] C) La Revolución Rusa
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] D) La invención del avión
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+- [ ] A) La prohibicion de ciertos grupos culturales
+  <!-- feedback: La prohibicion contradice el principio de igualdad. -->
+- [ ] B) La prioridad de una sola cultura oficial
+  <!-- feedback: La Constitucion no establece una cultura unica con preferencia legal. -->
+- [x] C) El reconocimiento de la diversidad y la igualdad de derechos de todos
+  <!-- feedback: El texto garantiza igualdad sin distincion de origen. -->
+- [ ] D) La exencion de obligaciones para ciertos grupos
+  <!-- feedback: La Constitucion no exime a nadie de sus obligaciones. -->
 
 ### Explicacion Pedagogica
-El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.
+La Constitucion reconoce la diversidad cultural como hecho de la sociedad y garantiza la igualdad de derechos de sus miembros.
+
+---
+
+## Question 20 [D5-D6]
+**ID:** SV-SOC-11-2026-W01-identidad-cultural-sv-001-MASTERY-bundle-v20
+**Bloom:** Evaluate
+**EJE:** identidad cultural sv
+**Expected_Success:** 0.80
+**Contexto:** Analisis de conceptos, San Miguel.
+
+### Enunciado
+Que diferencia hay entre tolerancia y respeto en el trato entre culturas?
+
+### Opciones
+- [x] A) El respeto valora la diferencia; la tolerancia solo la permite
+  <!-- feedback: El respeto incluye una valoracion positiva de la otra practica. -->
+- [ ] B) Son terminos exactamente iguales
+  <!-- feedback: Se relacionan, pero los niveles de valoracion son distintos. -->
+- [ ] C) La tolerancia obliga a compartir Practicas
+  <!-- feedback: La tolerancia no exige adoptar las practicas ajenas. -->
+- [ ] D) El respeto impone las propias Practicas
+  <!-- feedback: El respeto no obliga a nadie a dejar sus propias practicas. -->
+
+### Explicacion Pedagogica
+La tolerancia permite la existencia de la diferencia; el respeto la valoriza positivamente.
+
+---

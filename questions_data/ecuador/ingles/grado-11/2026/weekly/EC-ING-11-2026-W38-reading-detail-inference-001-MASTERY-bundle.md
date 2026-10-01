@@ -17,466 +17,507 @@ tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
 ---
-# MASTERY Bundle - Ingles: Reading Detail Inference (W38)
-**20 preguntas | Ingles | BGU - Ministerio de Educacion**
+# MASTERY Bundle - Ingles: reading-detail-inference (W38)
+**20 preguntas | Ingles | Curriculo de Ingles**
 
 ---
-## Question 1 [D3]
-**ID:** EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-v1
-**Bloom:** Remember
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
 
-### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
-
-### Opciones
-- [x] B) accommodation
-  <!-- feedback: Correct! 'accommodation' matches the definition. -->
-- [ ] A) transportation
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) entertainment
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) currency
-  <!-- feedback: Incorrect. Try again. -->
-
-### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
----
-## Question 2 [D4]
-**ID:** EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-v2
-**Bloom:** Remember
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
-
-### Opciones
-- [x] B) itinerary
-  <!-- feedback: Correct! 'itinerary' matches the definition. -->
-- [ ] A) baggage
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) destination
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) passport
-  <!-- feedback: Incorrect. Try again. -->
-
-### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
----
-## Question 3 [D3]
-**ID:** EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-v3
+## Question 1 [D3-D4]
+**ID:** EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-bundle-v1
 **Bloom:** Understand
-**EJE:** Lexico
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Lectura de detalles, Quito, grado 11.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+Read the text: 'The Galapagos Islands were declared a marine reserve in 1978.' When did this happen?
 
 ### Opciones
-- [x] C) destination
-  <!-- feedback: Correct! 'destination' matches the definition. -->
-- [ ] A) departure
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) arrival
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) journey
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) In 1958
+  <!-- feedback: The figure is 1978, not 1958. -->
+- [x] B) In 1978
+  <!-- feedback: The text states 'in 1978' directly. -->
+- [ ] C) In 1878
+  <!-- feedback: The figure is 1978, not 1878. -->
+- [ ] D) In 1988
+  <!-- feedback: The figure is 1978, not 1988. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
+La fecha indicada de forma explicita en el texto es 1978. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.
+
 ---
-## Question 4 [D4]
-**ID:** EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-v4
+
+## Question 2 [D5-D6]
+**ID:** EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-bundle-v2
+**Bloom:** Analyze
+**EJE:** Reading Comprehension
+**Expected_Success:** 0.80
+**Contexto:** Inferencia sobre una causa, Quito.
+
+### Enunciado
+Read the text: 'Visitors must stay on the marked paths to protect the endemic species.' What is the reason for the rule?
+
+### Opciones
+- [ ] A) To reduce the number of visitors
+  <!-- feedback: The text gives no reason related to visitor numbers. -->
+- [ ] B) To speed up the tours
+  <!-- feedback: Nothing in the text concerns the pace of tours. -->
+- [x] C) To protect the endemic species
+  <!-- feedback: 'To protect' states the purpose of the rule directly. -->
+- [ ] D) To raise the entrance fee
+  <!-- feedback: No fee is mentioned in the text. -->
+
+### Explicacion Pedagogica
+La razon se expresa con 'to protect', es decir, la proteccion de las especies endemicas.
+
+---
+
+## Question 3 [D5-D6]
+**ID:** EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-bundle-v3
+**Bloom:** Analyze
+**EJE:** Reading Comprehension
+**Expected_Success:** 0.80
+**Contexto:** Analisis de conectores, Guayaquil.
+
+### Enunciado
+Read the text: 'Although the region receives little rainfall, its soil is very fertile.' What does 'although' signal?
+
+### Opciones
+- [ ] A) A cause and its effect
+  <!-- feedback: The connector used for cause and effect would be 'because' or 'therefore'. -->
+- [ ] B) A sequence of events in time
+  <!-- feedback: Time sequence requires 'then', 'after that' or similar markers. -->
+- [ ] C) An addition of similar information
+  <!-- feedback: An additive connector would be 'also', 'moreover' or 'besides'. -->
+- [x] D) A contrast between two facts
+  <!-- feedback: 'Although' sets up a concession that partly contradicts the main clause. -->
+
+### Explicacion Pedagogica
+'Although' introduce un contraste entre la escasez de lluvia y la fertilidad del suelo.
+
+---
+
+## Question 4 [D3-D4]
+**ID:** EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**EJE:** Lexico
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Lectura de datos cuantitativos, Cuenca.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+Read the text: 'The survey included 250 households from three provinces.' What is the exact size of the sample?
 
 ### Opciones
-- [x] D) luggage
-  <!-- feedback: Correct! 'luggage' matches the definition. -->
-- [ ] A) ticket
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) flight
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) reservation
-  <!-- feedback: Incorrect. Try again. -->
+- [x] A) 250 households
+  <!-- feedback: '250 households' is the figure stated in the text. -->
+- [ ] B) 253 households
+  <!-- feedback: The province count is not part of the household figure. -->
+- [ ] C) 500 households
+  <!-- feedback: That would double the stated figure without basis. -->
+- [ ] D) 25 households
+  <!-- feedback: The text states two hundred and fifty, not twenty-five. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
+El texto indica un total de 250 hogares,provenientes de tres provincias. Conviene practicarlo con otros ejemplos antes del examen.
+
 ---
-## Question 5 [D5]
-**ID:** EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-v5
+
+## Question 5 [D5-D6]
+**ID:** EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-bundle-v5
+**Bloom:** Analyze
+**EJE:** Reading Comprehension
+**Expected_Success:** 0.80
+**Contexto:** Inferencia a partir de comparaciones, Quito.
+
+### Enunciado
+Read the text: 'Fewer students enrolled in 2023 than in 2022.' What can be inferred?
+
+### Opciones
+- [ ] A) Enrolment increased between the two years
+  <!-- feedback: That is the opposite of what 'fewer' states. -->
+- [x] B) Enrolment decreased between the two years
+  <!-- feedback: 'Fewer ... than' expresses a smaller number in 2023. -->
+- [ ] C) Enrolment stayed the same in both years
+  <!-- feedback: 'Fewer' excludes equality between the two years. -->
+- [ ] D) No data exist for 2022
+  <!-- feedback: The sentence compares both years, so both have data. -->
+
+### Explicacion Pedagogica
+'Fewer' establece una comparacion decreciente entre dos anos consecutivos. Este matiz se comprueba comparando con el resto de opciones.
+
+---
+
+## Question 6 [D5-D6]
+**ID:** EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-bundle-v6
+**Bloom:** Analyze
+**EJE:** Reading Comprehension
+**Expected_Success:** 0.80
+**Contexto:** Funcion del contexto numerico, Guayaquil.
+
+### Enunciado
+Read the text: 'The bridge cost two million dollars, a huge sum for a country of three million people.' What does the last part add?
+
+### Opciones
+- [ ] A) It explains how the bridge was built
+  <!-- feedback: No construction method is mentioned in the text. -->
+- [ ] B) It gives the number of workers involved
+  <!-- feedback: The population is not a figure of workers. -->
+- [ ] C) It proves the bridge is dangerous
+  <!-- feedback: No danger is mentioned in the text. -->
+- [x] D) It puts the cost in proportion to the size of the country
+  <!-- feedback: The population figure makes the expenditure meaningful as a share of national wealth. -->
+
+### Explicacion Pedagogica
+La cifra de la poblacion convierte el costo en un dato relativo y muestra su gran impacto.
+
+---
+
+## Question 7 [D5-D6]
+**ID:** EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-bundle-v7
 **Bloom:** Understand
-**EJE:** Lexico
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Vocabulario academico, Cuenca.
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+Read the text: 'Historians disagree about the cause of the conflict.' What does 'disagree' indicate?
 
 ### Opciones
-- [x] B) passenger
-  <!-- feedback: Correct! 'passenger' matches the definition. -->
-- [ ] A) pedestrian
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) commuter
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) tourist
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) They all agree on the cause
+  <!-- feedback: That is the opposite of what 'disagree' states. -->
+- [x] B) They hold different opinions
+  <!-- feedback: 'Disagree' indicates a lack of consensus among historians. -->
+- [ ] C) They refuse to study the conflict
+  <!-- feedback: The text says they study it and simply differ in opinion. -->
+- [ ] D) They have no sources at all
+  <!-- feedback: Sources are not discussed in the text. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
+'Disagree' significa no compartir la misma opinion; por eso existen varias interpretaciones.
+
 ---
-## Question 6 [D6]
-**ID:** EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-v6
+
+## Question 8 [D5-D6]
+**ID:** EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-bundle-v8
+**Bloom:** Analyze
+**EJE:** Reading Comprehension
+**Expected_Success:** 0.80
+**Contexto:** Cambio de funcion, Guayaquil.
+
+### Enunciado
+Look at the sentence: 'The factory was closed in 1998. It now houses a science museum.' What happened to the building?
+
+### Opciones
+- [ ] A) It was destroyed in 1998
+  <!-- feedback: The text says the factory was closed, not destroyed. -->
+- [ ] B) It still produces goods
+  <!-- feedback: The text states that it now houses a museum. -->
+- [x] C) It changed from industrial to educational use
+  <!-- feedback: 'Closed' as a factory and 'now houses a museum' describe a change of function. -->
+- [ ] D) It was sold to another factory
+  <!-- feedback: No sale to another factory is mentioned in the text. -->
+
+### Explicacion Pedagogica
+El edificio cambio de uso: dejo de ser fabrica y ahora alberga un museo de ciencias.
+
+---
+
+## Question 9 [D5-D6]
+**ID:** EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-bundle-v9
+**Bloom:** Analyze
+**EJE:** Reading Comprehension
+**Expected_Success:** 0.80
+**Contexto:** Condicionales en lectura, Quito.
+
+### Enunciado
+Read the text: 'The ceremony will take place unless it rains.' What will happen if it rains?
+
+### Opciones
+- [ ] A) The ceremony will take place
+  <!-- feedback: The sentence states the opposite condition for the event to happen. -->
+- [ ] B) The ceremony will start late
+  <!-- feedback: No delay clause appears in the text. -->
+- [x] C) The ceremony will not take place
+  <!-- feedback: 'Unless' means 'if not', so rain cancels the event. -->
+- [ ] D) The ceremony will move indoors
+  <!-- feedback: That detail is not mentioned in the text. -->
+
+### Explicacion Pedagogica
+'Unless' equivale a 'if not', de modo que la lluvia cancelaria la ceremonia. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.
+
+---
+
+## Question 10 [D5-D6]
+**ID:** EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-bundle-v10
+**Bloom:** Analyze
+**EJE:** Reading Comprehension
+**Expected_Success:** 0.80
+**Contexto:** Tipos de preguntas de comprension, Cuenca.
+
+### Enunciado
+Which question best tests inference rather than explicit recall?
+
+### Opciones
+- [ ] A) What date appears in the first paragraph?
+  <!-- feedback: That asks for information stated explicitly. -->
+- [ ] B) How many words does the text contain?
+  <!-- feedback: That is a mechanical count, not an interpretation. -->
+- [ ] C) What is the title of the text?
+  <!-- feedback: That is retrieval of a literal element. -->
+- [x] D) What can be inferred from the author's choice of examples?
+  <!-- feedback: It asks the reader to derive meaning beyond the literal words. -->
+
+### Explicacion Pedagogica
+Una pregunta de inferencia exige deducir una consecuencia que el texto no enuncia de forma literal.
+
+---
+
+## Question 11 [D3-D4]
+**ID:** EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-bundle-v11
+**Bloom:** Apply
+**EJE:** Reading Comprehension
+**Expected_Success:** 0.80
+**Contexto:** Seguimiento de informacion, Guayaquil.
+
+### Enunciado
+Read: 'The museum opens at ten, but on Sundays it opens at noon.' When does it open on Sundays?
+
+### Opciones
+- [ ] A) At ten
+  <!-- feedback: Ten is the general opening time, overridden on Sundays. -->
+- [x] B) At noon
+  <!-- feedback: 'On Sundays it opens at noon' states the specific exception. -->
+- [ ] C) At midnight
+  <!-- feedback: No midnight opening is mentioned in the text. -->
+- [ ] D) It does not open on Sundays
+  <!-- feedback: The text says it opens at noon on Sundays. -->
+
+### Explicacion Pedagogica
+La excepcion para los domingos aparece despues de 'but' y es la que prevalece. Conviene practicarlo con otros ejemplos antes del examen.
+
+---
+
+## Question 12 [D5-D6]
+**ID:** EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-bundle-v12
+**Bloom:** Apply
+**EJE:** Reading Comprehension
+**Expected_Success:** 0.80
+**Contexto:** Sustitucion de sinonimos, Quito.
+
+### Enunciado
+Which word best replaces 'beneficial' in the sentence: 'Exercise is beneficial for cardiovascular health'?
+
+### Opciones
+- [ ] A) delicate
+  <!-- feedback: 'Delicate' describes something fragile, which is not the meaning here. -->
+- [ ] B) distant
+  <!-- feedback: 'Distant' refers to distance, not to benefit. -->
+- [ ] C) dormant
+  <!-- feedback: 'Dormant' means inactive, the opposite sense. -->
+- [x] D) favourable
+  <!-- feedback: 'Favourable' is a close synonym of 'beneficial' in this context. -->
+
+### Explicacion Pedagogica
+'Beneficial' significa favorable o util; las demas opciones no expresan una idea de ventaja.
+
+---
+
+## Question 13 [D5-D6]
+**ID:** EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-bundle-v13
+**Bloom:** Analyze
+**EJE:** Reading Comprehension
+**Expected_Success:** 0.80
+**Contexto:** Inferencia sobre una frase, Cuenca.
+
+### Enunciado
+Read the text: 'Few students disagreed with the proposal, which suggests broad support.' What does this suggest?
+
+### Opciones
+- [ ] A) The proposal was rejected
+  <!-- feedback: Rejection would require many students to disagree. -->
+- [ ] B) Only a few students attended the vote
+  <!-- feedback: Attendance is not mentioned in the text. -->
+- [x] C) Most students supported the proposal
+  <!-- feedback: Few disagreeing students implies a majority in favour. -->
+- [ ] D) The proposal caused an argument
+  <!-- feedback: An argument would be signalled by many disagreements, not few. -->
+
+### Explicacion Pedagogica
+Que pocos estudiantes estuvieran en desacuerdo indica que la propuesta tuvo amplia aceptacion.
+
+---
+
+## Question 14 [D5-D6]
+**ID:** EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-bundle-v14
+**Bloom:** Analyze
+**EJE:** Reading Comprehension
+**Expected_Success:** 0.80
+**Contexto:** Identificacion de la idea principal, Guayaquil.
+
+### Enunciado
+Read the text: 'Local schools have introduced recycling bins. The city expects to cut waste by a third.' What is the main idea?
+
+### Opciones
+- [x] A) A city plan aims to reduce waste through school recycling
+  <!-- feedback: Both sentences support this overall purpose. -->
+- [ ] B) Schools have more recycling bins than before
+  <!-- feedback: That is only the first detail, not the main idea. -->
+- [ ] C) The city will build a new waste plant
+  <!-- feedback: No new plant is mentioned in the text. -->
+- [ ] D) Students should separate paper from glass
+  <!-- feedback: That recommendation is not stated in the text. -->
+
+### Explicacion Pedagogica
+La idea central es que el reciclaje escolar forma parte de un plan para reducir los residuos.
+
+---
+
+## Question 15 [D5-D6]
+**ID:** EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-bundle-v15
+**Bloom:** Evaluate
+**EJE:** Reading Comprehension
+**Expected_Success:** 0.80
+**Contexto:** Evaluacion de evidencia, Quito.
+
+### Enunciado
+Which detail would you look for to verify the claim in the text: 'Recycling reduces landfill use by 40 percent'?
+
+### Opciones
+- [ ] A) The colour of the recycling bins
+  <!-- feedback: The colour has no bearing on the statistical claim. -->
+- [ ] B) The names of the schools involved
+  <!-- feedback: The list of schools does not verify a statistical percentage. -->
+- [x] C) The source and the year of the measurement
+  <!-- feedback: A percentage requires a documented source and a date to be credible. -->
+- [ ] D) The number of bins in each school
+  <!-- feedback: The bin count does not establish the landfill reduction figure. -->
+
+### Explicacion Pedagogica
+Para verificar una cifra hace falta la fuente, la unidad de medida y el periodo de tiempo del estudio.
+
+---
+
+## Question 16 [D3-D4]
+**ID:** EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-bundle-v16
 **Bloom:** Understand
-**EJE:** Lexico
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Comprension de fracciones, Cuenca.
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+Read: 'The 2019 survey found that two thirds of respondents preferred remote work.' What does 'two thirds' mean?
 
 ### Opciones
-- [x] A) customs
-  <!-- feedback: Correct! 'customs' matches the definition. -->
-- [ ] B) security
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) terminal
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) gate
-  <!-- feedback: Incorrect. Try again. -->
+- [x] A) Two out of every three respondents
+  <!-- feedback: 'Two thirds' expresses a proportion of two in every three. -->
+- [ ] B) Two respondents out of three surveyed in 2019
+  <!-- feedback: The sentence gives no total sample size, so this reading is not supported. -->
+- [ ] C) Two percent of the respondents
+  <!-- feedback: That would be 'two per cent', a much smaller proportion. -->
+- [ ] D) Three respondents out of two
+  <!-- feedback: The fraction is inverted in that reading. -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
+'Two thirds' significa dos partes de cada tres, es decir, aproximadamente el 66,7 por ciento.
+
 ---
-## Question 7 [D5]
-**ID:** EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-v7
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
 
-### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
-
-### Opciones
-- [x] D) boarding pass
-  <!-- feedback: Correct! 'boarding pass' matches the definition. -->
-- [ ] A) visa
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) receipt
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) brochure
-  <!-- feedback: Incorrect. Try again. -->
-
-### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
----
-## Question 8 [D6]
-**ID:** EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-v8
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
-
-### Opciones
-- [x] A) sightseeing
-  <!-- feedback: Correct! 'sightseeing' matches the definition. -->
-- [ ] B) shopping
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) hiking
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) camping
-  <!-- feedback: Incorrect. Try again. -->
-
-### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
----
-## Question 9 [D5]
-**ID:** EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-v9
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
-
-### Opciones
-- [x] A) souvenir
-  <!-- feedback: Correct! 'souvenir' matches the definition. -->
-- [ ] B) gift
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) award
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) prize
-  <!-- feedback: Incorrect. Try again. -->
-
-### Explicacion Pedagogica
-The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
----
-## Question 10 [D6]
-**ID:** EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-v10
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A period of time by which something is late or postponed."
-
-### Opciones
-- [x] B) delay
-  <!-- feedback: Correct! 'delay' matches the definition. -->
-- [ ] A) cancellation
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) departure
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) arrival
-  <!-- feedback: Incorrect. Try again. -->
-
-### Explicacion Pedagogica
-The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
----
-## Question 11 [D7]
-**ID:** EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-v11
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
-
-### Opciones
-- [x] A) check-in
-  <!-- feedback: Correct! 'check-in' matches the definition. -->
-- [ ] B) check-out
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) booking
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) reservation
-  <!-- feedback: Incorrect. Try again. -->
-
-### Explicacion Pedagogica
-The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
----
-## Question 12 [D8]
-**ID:** EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-v12
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A period of rest or waiting before a further stage in a journey."
-
-### Opciones
-- [x] A) layover
-  <!-- feedback: Correct! 'layover' matches the definition. -->
-- [ ] B) stopover
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) transfer
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) transit
-  <!-- feedback: Incorrect. Try again. -->
-
-### Explicacion Pedagogica
-The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
----
-## Question 13 [D7]
-**ID:** EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-v13
+## Question 17 [D5-D6]
+**ID:** EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-bundle-v17
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Actitud del autor, Guayaquil.
 
 ### Enunciado
-What is the English word for: "A system of money in general use in a particular country."
+Choose the statement that best summarises the author's attitude in: 'Unfortunately, the programme was cancelled twice.'
 
 ### Opciones
-- [x] D) currency
-  <!-- feedback: Correct! 'currency' matches the definition. -->
-- [ ] A) coin
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) banknote
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) cash
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) The author considers the programme a success
+  <!-- feedback: That would be signalled by 'fortunately' or 'luckily'. -->
+- [ ] B) The author is indifferent to the cancellations
+  <!-- feedback: Indifference would not be marked with 'unfortunately'. -->
+- [ ] C) The author blames the participants
+  <!-- feedback: No blame is expressed in this short sentence. -->
+- [x] D) The author considers the cancellations regrettable
+  <!-- feedback: 'Unfortunately' signals the author's negative judgement. -->
 
 ### Explicacion Pedagogica
-The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
+El adverbio 'unfortunately' revela una valoracion negativa del autor ante la cancelacion.
+
 ---
-## Question 14 [D8]
-**ID:** EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-v14
+
+## Question 18 [D5-D6]
+**ID:** EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-bundle-v18
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Funcion del contraste en el texto, Quito.
 
 ### Enunciado
-What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
+Read the text: 'The results were promising, although the sample was small.' Why does the author add the second clause?
 
 ### Opciones
-- [x] B) guidebook
-  <!-- feedback: Correct! 'guidebook' matches the definition. -->
-- [ ] A) map
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) dictionary
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) encyclopedia
-  <!-- feedback: Incorrect. Try again. -->
+- [x] A) To introduce a limitation that qualifies the positive claim
+  <!-- feedback: 'Although' signals a concession that weakens the praise. -->
+- [ ] B) To state an additional positive result
+  <!-- feedback: The second clause is a limitation, not a further positive finding. -->
+- [ ] C) To repeat the first clause in other words
+  <!-- feedback: The two clauses are in contrast, not in paraphrase. -->
+- [ ] D) To describe the method in detail
+  <!-- feedback: The clause only mentions the sample size briefly. -->
 
 ### Explicacion Pedagogica
-The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
+La segunda clausula matiza la valoracion positiva introduciendo una limitacion metodologica.
+
 ---
-## Question 15 [D7]
-**ID:** EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-v15
-**Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
 
-### Enunciado
-What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
-
-### Opciones
-- [x] D) backpack
-  <!-- feedback: Correct! 'backpack' matches the definition. -->
-- [ ] A) suitcase
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) briefcase
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) handbag
-  <!-- feedback: Incorrect. Try again. -->
-
-### Explicacion Pedagogica
-The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
----
-## Question 16 [D8]
-**ID:** EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-v16
-**Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "In or to a foreign country, especially one across the sea."
-
-### Opciones
-- [x] A) overseas
-  <!-- feedback: Correct! 'overseas' matches the definition. -->
-- [ ] B) domestic
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) local
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) national
-  <!-- feedback: Incorrect. Try again. -->
-
-### Explicacion Pedagogica
-The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
----
-## Question 17 [D9]
-**ID:** EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-v17
+## Question 19 [D5-D6]
+**ID:** EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**EJE:** Lexico
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Inferencia Logical, Guayaquil.
 
 ### Enunciado
-What is the English word for: "An estimate of income and expenditure for a set period of time."
+Which inference is best supported by the text: 'The bus service was suspended for three months during the flood'?
 
 ### Opciones
-- [x] B) budget
-  <!-- feedback: Correct! 'budget' matches the definition. -->
-- [ ] A) expense
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) cost
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) price
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) The flood lasted exactly three months
+  <!-- feedback: The text gives the duration of the suspension, not of the flood. -->
+- [x] B) Passengers had to find alternative transport during that period
+  <!-- feedback: A three-month suspension necessarily displaced regular service users. -->
+- [ ] C) The bus service was never restored
+  <!-- feedback: The text does not state whether service resumed. -->
+- [ ] D) No other transport options existed
+  <!-- feedback: The text does not exclude alternatives such as trains or taxis. -->
 
 ### Explicacion Pedagogica
-The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
+La suspension durante tres meses implica que los pasajeros debieron buscar Alternatives durante ese periodo.
+
 ---
-## Question 18 [D10]
-**ID:** EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-v18
-**Bloom:** Evaluate
-**EJE:** Lexico
+
+## Question 20 [D3-D4]
+**ID:** EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-bundle-v20
+**Bloom:** Understand
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Estrategia de lectura, Quito.
 
 ### Enunciado
-What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
+What is the purpose of a heading in a reading text?
 
 ### Opciones
-- [x] D) insurance
-  <!-- feedback: Correct! 'insurance' matches the definition. -->
-- [ ] A) warranty
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) guarantee
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) policy
-  <!-- feedback: Incorrect. Try again. -->
+- [x] A) To give an idea of what the section is about
+  <!-- feedback: A heading works as a preview of the content. -->
+- [ ] B) To present the full argument with evidence
+  <!-- feedback: That is the function of the body of the text, not of a heading. -->
+- [ ] C) To list the sources consulted
+  <!-- feedback: Sources appear in the bibliography, not in a heading. -->
+- [ ] D) To introduce the author of the text
+  <!-- feedback: That information belongs in a byline, not in a heading. -->
 
 ### Explicacion Pedagogica
-The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
+El encabezado anticipa el tema y orienta la lectura del contenido que sigue. Este matiz se comprueba comparando con el resto de opciones.
+
 ---
-## Question 19 [D9]
-**ID:** EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-v19
-**Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
-
-### Opciones
-- [x] D) vaccination
-  <!-- feedback: Correct! 'vaccination' matches the definition. -->
-- [ ] A) medication
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) prescription
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) infection
-  <!-- feedback: Incorrect. Try again. -->
-
-### Explicacion Pedagogica
-The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
----
-## Question 20 [D10]
-**ID:** EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-v20
-**Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
-
-### Opciones
-- [x] A) jet lag
-  <!-- feedback: Correct! 'jet lag' matches the definition. -->
-- [ ] B) fatigue
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) exhaustion
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) insomnia
-  <!-- feedback: Incorrect. Try again. -->
-
-### Explicacion Pedagogica
-The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.

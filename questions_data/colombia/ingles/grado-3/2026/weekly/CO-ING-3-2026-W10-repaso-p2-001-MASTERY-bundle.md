@@ -34,15 +34,14 @@ creador: "Jules-Agent"
 Read: "My name is Sofia. I am eight years old." Which question is Sofia's sentence answering?
 
 ### Opciones
-### Opciones
 - [x] D) What is your name and how old are you?
-  <!-- feedback: el texto da exactamente el nombre y la edad, que son los dos datos que pide esa pregunta. -->
+  <!-- feedback: The text gives exactly the name and the age, which are the two pieces of information that question asks for. -->
 - [ ] A) Where do you live?
-  <!-- feedback: la pregunta pide el lugar de residencia y el texto no menciona ni ciudad ni direccion. -->
+  <!-- feedback: That question asks for the place of residence and the text mentions neither a city nor an address. -->
 - [ ] B) What do you like to eat?
-  <!-- feedback: la pregunta pide una comida preferida y en la frase no aparece ningun alimento. -->
+  <!-- feedback: That question asks for a favourite food and no food appears in the sentence. -->
 - [ ] C) How do you get to school?
-  <!-- feedback: la pregunta pide el medio de transporte y el texto no habla de como llega a la escuela. -->
+  <!-- feedback: That question asks for the means of transport and the text does not speak about how he gets to school. -->
 
 ### Explicacion Pedagogica
 En un ejercicio de repaso es clave revisar que cada dato del texto tenga una pregunta que lo pida. La frase de Sofia contiene nombre y edad, y solo la primera opcion reproduce esos dos elementos. Las demas opciones introducen informacion nueva que nunca aparece en el enunciado.
@@ -58,15 +57,14 @@ En un ejercicio de repaso es clave revisar que cada dato del texto tenga una pre
 Choose the correct answer: "Good morning! ___ name is Luis."
 
 ### Opciones
-### Opciones
 - [ ] A) She
-  <!-- feedback: she es un pronombre o articulo femenino y Luis es un nombre de hombre, asi que no concuerda. -->
+  <!-- feedback: she is a feminine pronoun or article and Luis is a male name, so they do not agree. -->
 - [x] D) My
-  <!-- feedback: my es el posesivo que se usa para el nombre o algo propio, y el hablante se presenta a si mismo. -->
+  <!-- feedback: my is the possessive used for one's own name or belongings, and the speaker is talking about himself. -->
 - [ ] B) His
-  <!-- feedback: his indica posesion de un tercero, y aqui el sujeto esta hablando de si mismo, no de otra persona. -->
+  <!-- feedback: his indicates possession by a third person, and here the subject is talking about himself, not someone else. -->
 - [ ] C) Me
-  <!-- feedback: me es un pronombre objeto y no puede ocupar el lugar de un posesivo delante del sustantivo name. -->
+  <!-- feedback: me is an object pronoun and cannot take the place of a possessive before the noun name. -->
 
 ### Explicacion Pedagogica
 El error mas comun es escoger la palabra por sonido parecido sin revisar su funcion gramatical. My siempre va delante de un sustantivo y se refiere a algo del hablante, mientras que his y her indican que ese sustantivo pertenece a una tercera persona y me funciona solo como objeto de una accion.
@@ -82,15 +80,14 @@ El error mas comun es escoger la palabra por sonido parecido sin revisar su func
 Look at the picture: a T-shirt that is completely blue. Which colour is it?
 
 ### Opciones
-### Opciones
 - [ ] A) green
-  <!-- feedback: green es el color de la mezcla de azul y amarillo, y el enunciado describe algo totalmente azul. -->
+  <!-- feedback: green is the colour made by mixing blue and yellow, and the sentence describes something completely blue. -->
 - [x] C) blue
-  <!-- feedback: blue es el nombre exacto del color que el enunciado describe y lo que muestra el dibujo. -->
+  <!-- feedback: blue is the exact name of the colour the sentence describes and what the picture shows. -->
 - [ ] B) yellow
-  <!-- feedback: yellow es el color del sol y de los canarios, y no corresponde a una camisa azul. -->
+  <!-- feedback: yellow is the colour of the sun and of canaries, and it does not match a blue shirt. -->
 - [ ] D) white
-  <!-- feedback: white significa blanco y describe ausencia de color, justo lo contrario de lo que dice el enunciado. -->
+  <!-- feedback: white means white and describes the absence of colour, which is the opposite of what the sentence says. -->
 
 ### Explicacion Pedagogica
 Esta pregunta de repaso es deliberadamente simple: comprueba que el estudiante reconoce un color apresentado en un contexto visual. Sirve como control rapido antes de pasar a preguntas de vocabulario mas exigente, donde el mismo color debe ser identificado dentro de una oracion.
@@ -106,15 +103,14 @@ Esta pregunta de repaso es deliberadamente simple: comprueba que el estudiante r
 Count the objects: one pen, two pencils and three notebooks. How many things are there in total?
 
 ### Opciones
-### Opciones
 - [ ] B) Five
-  <!-- feedback: cinco seria el resultado si solo se sumaran lapices y cuadernos, pero el enunciado tambien incluye el lapiz. -->
+  <!-- feedback: Five would be the result if only the pencils and the notebooks were added, but the sentence also includes the pen. -->
 - [x] A) Six
-  <!-- feedback: 1 + 2 + 3 = 6, y la suma de las tres cantidades da exactamente seis objetos. -->
+  <!-- feedback: 1 + 2 + 3 = 6, and adding the three amounts gives exactly six objects. -->
 - [ ] C) Seven
-  <!-- feedback: siete seria el resultado si las cantidades fueran 2, 2 y 3, que no es lo que dice el enunciado. -->
+  <!-- feedback: Seven would be the result if the amounts were 2, 2 and 3, which is not what the sentence says. -->
 - [ ] D) Four
-  <!-- feedback: cuatro cuenta el numero de categorias de objetos, no la cantidad total de piezas. -->
+  <!-- feedback: Four counts the number of categories of objects, not the total number of pieces. -->
 
 ### Explicacion Pedagogica
 El ejercicio de repaso combina vocabulario y numeros en una sola tarea: primero se identifican los objetos y luego se opera con sus cantidades. La respuesta se comprueba sumando los tres grupos, un procedimiento que el estudiante puede repetir oralmente frente al grupo para justificar su eleccion.
@@ -130,15 +126,14 @@ El ejercicio de repaso combina vocabulario y numeros en una sola tarea: primero 
 Read: "This is my brother. He is six years old." Who is six years old?
 
 ### Opciones
-### Opciones
 - [ ] B) The speaker
-  <!-- feedback: el enunciado no dice la edad del hablante, asi que no hay base para atribuirle los seis anos. -->
+  <!-- feedback: The sentence does not give the age of the speaker, so there is no basis for attributing the six years to him. -->
 - [ ] C) The sister
-  <!-- feedback: no aparece ninguna hermana en el texto; la unica familia mencionada es el hermano. -->
+  <!-- feedback: No sister appears in the text; the only family member mentioned is the brother. -->
 - [x] A) The brother
-  <!-- feedback: el texto dice que el hermano tiene seis anos, y el pronombre he confirma que se trata del varon. -->
+  <!-- feedback: The text says the brother is six years old, and the pronoun he confirms it is the boy. -->
 - [ ] D) The mother
-  <!-- feedback: la madre no se menciona en el texto, que solo habla del hermano del hablante. -->
+  <!-- feedback: The mother is not mentioned in the text, which only speaks about the speaker's brother. -->
 
 ### Explicacion Pedagogica
 El pronombre he se usa para un varon y she para una mujer, de modo que la segunda frase del enunciado ya confirma que se trata de un hermano. Combinar el sustantivo del primer renglon con el pronombre del segundo es la estrategia basica para resolver preguntas de comprension de este tipo.
@@ -154,15 +149,14 @@ El pronombre he se usa para un varon y she para una mujer, de modo que la segund
 Choose the correct word: "There is ___ apple on the table."
 
 ### Opciones
-### Opciones
 - [ ] A) many
-  <!-- feedback: many se usa con sustantivos contables en plural, como many apples, y aqui el sustantivo esta en singular. -->
+  <!-- feedback: many is used with countable nouns in the plural, like many apples, and here the noun is in the singular. -->
 - [x] B) an
-  <!-- feedback: an se coloca delante de un sustantivo singular que empieza por vocal, como apple. -->
+  <!-- feedback: an goes before a singular noun that begins with a vowel, like apple. -->
 - [ ] C) a
-  <!-- feedback: a se usa con sustantivos singulares que empiezan por consonante, como book o table. -->
+  <!-- feedback: a is used with singular nouns that begin with a consonant, like book or table. -->
 - [ ] D) much
-  <!-- feedback: much se emplea con sustantivos incontables, y una manzana es un objeto contable. -->
+  <!-- feedback: much is used with uncountable nouns, and an apple is a countable object. -->
 
 ### Explicacion Pedagogica
 El articulo se elige por dos criterios a la vez: si el sustantivo es contable y singular, y cual es su primera letra. apple empieza por vocal, por eso lleva an. Este es el punto que el repaso del primer periodo suele consolidar, porque los estudiantes translated el articulo del espanol sin consultar la letra inicial.
@@ -178,15 +172,14 @@ El articulo se elige por dos criterios a la vez: si el sustantivo es contable y 
 Choose the correct question: "___ does your father work? At a hospital."
 
 ### Opciones
-### Opciones
 - [ ] A) Why
-  <!-- feedback: why pregunta por el motivo o la razon, y la respuesta At a hospital indica el lugar de trabajo. -->
+  <!-- feedback: why asks for the motive or reason, and the answer At a hospital indicates the place of work. -->
 - [x] B) Where
-  <!-- feedback: where pregunta por el lugar y At a hospital responde precisamente con la ubicacion del trabajo del padre. -->
+  <!-- feedback: where asks for the place and At a hospital answers precisely with the location of the father's job. -->
 - [ ] C) What
-  <!-- feedback: what pregunta por el objeto o la profesion, y la respuesta no nombra ninguna profesion. -->
+  <!-- feedback: what asks for the object or the profession, and the answer names no profession. -->
 - [ ] D) Who
-  <!-- feedback: who pregunta por una persona concreta, y la respuesta solo informa sobre el sitio donde trabaja. -->
+  <!-- feedback: who asks for a specific person, and the answer only tells us about the place where he works. -->
 
 ### Explicacion Pedagogica
 La palabra interrogativa se deduce del tipo de respuesta, no del tema. En el repaso del primer periodo se praclica esta associating: una respuesta que empieza con At a es una respuesta de lugar, y la pregunta que produce una respuesta de lugar es where. Este cruce pregunta-respuesta es el paso previo a los wh-questions mas complejos.
@@ -202,15 +195,14 @@ La palabra interrogativa se deduce del tipo de respuesta, no del tema. En el rep
 Read the dialogue: "Good night, Mom." "Good night! Sweet dreams." When do they say this?
 
 ### Opciones
-### Opciones
 - [ ] A) In the morning, when they get up
-  <!-- feedback: esa es la rutina de Good morning, y el dialogo usa la palabra night. -->
+  <!-- feedback: That is the routine of Good morning, and the dialogue uses the word night. -->
 - [ ] B) At school, before class starts
-  <!-- feedback: en la escuela se dice Hello o Hi al llegar, no Good night con Good night!. -->
+  <!-- feedback: At school you say Hello or Hi when you arrive, not Good night followed by Good night!. -->
 - [x] C) At night, before going to sleep
-  <!-- feedback: Good night se usa al despedirse por la noche antes de dormir, y Sweet dreams lo confirma. -->
+  <!-- feedback: Good night is used to say goodbye at night before going to sleep, and Sweet dreams confirms it. -->
 - [ ] D) At noon, before eating lunch
-  <!-- feedback: al mediodia no se dice Good night, porque todavia falta la mayor parte del dia. -->
+  <!-- feedback: At noon you do not say Good night, because most of the day is still left. -->
 
 ### Explicacion Pedagogica
 Reconocer el momento del dia a partir de unaformula fija es una estrategia de comprehension eficiente: no hace falta entender palabra por palabra cuando la expresion es predecible. Good night y Sweet dreams funcionan siempre como una unidad al final del dia.
