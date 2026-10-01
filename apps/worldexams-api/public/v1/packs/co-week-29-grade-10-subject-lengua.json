@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-29-grade-10-subject-lengua",
+    "generated_at": "2026-10-01T14:40:30.994Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-10-2026-W29-la-novela-contemporanea-colombiana-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es el Boom en el contexto de la literatura latinoamericana?",
+      "context": "En el aula de Medellín, la profesora de Español escribe en el tablero el nombre de un movimiento literario y tres décadas posibles, y pide al grupo que ubique ese movimiento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un estilo de prosa que solo puede usarse en el cuento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Boom no es un estilo ni se limita al cuento: es un conjunto de obras y autores con un momento histórico preciso."
+        },
+        {
+          "letter": "B",
+          "text": "El conjunto de obras y autores latinoamericanos que dieron visibilidad al continente en los años sesenta.",
+          "is_correct": true,
+          "feedback": "Correcto. El Boom agrupa a escritores como García Márquez, Cortázar y Carlos Fuentes, cuyo trabajo hizo circular la literatura latinoamericana."
+        },
+        {
+          "letter": "C",
+          "text": "El conjunto de novelas colombianas que se escribieron después de 1990.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las fechas no corresponden: el Boom se sitúa en los años sesenta del siglo veinte, no en la literatura posterior."
+        },
+        {
+          "letter": "D",
+          "text": "El premio literario que se otorga cada año a la mejor novela colombiana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Boom es un movimiento literario, no un premio, y no se decide mediante una votación anual de esa manera."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El Boom es el nombre con el que se designa el conjunto de escritores latinoamericanos que, sobre todo en la década de 1960, dieron visibilidad internacional a la literatura del continente. Autores como Gabriel García Márquez, Julio Cortázar y Carlos Vargas Llosa publicaron entonces novelas que rompieron con la narrativa anterior y fueron traducidas a otros idiomas. En Colombia ese movimiento deja una huella decisiva en la novela de las décadas siguientes.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-10-2026-W29-la-novela-contemporanea-colombiana-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W29-la-novela-contemporanea-colombiana-001-MASTERY-bundle-v2",
+      "statement": "Frente a un pasaje en que un hecho imposible ocurre como si fuera cotidiano, ¿qué interpretación es la más precisa?",
+      "context": "En un colegio de Bogotá, dos estudiantes discuten si un pasaje en el que un pueblo entero levita durante unos días es un error del autor o un recurso narrativo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un recurso del realismo mágico, porque el narrador presenta lo extraordinario con la misma calma que lo cotidiano.",
+          "is_correct": true,
+          "feedback": "Correcto. El realismo mágico lo consigue al narrar lo prodigioso con tono cotidiano, como si nada de eso asustara a los personajes."
+        },
+        {
+          "letter": "B",
+          "text": "Es un error de la novela, porque el narrador debió convertir el hecho en un sueño del personaje.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se trata de un sueño ni de un descuido: es una convención narrativa que el lector acepta dentro del mundo de la obra."
+        },
+        {
+          "letter": "C",
+          "text": "Es un recurso del Boom, porque ese movimiento prohíbe representar la realidad sin magia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Boom es una etapa histórica de la literatura; lo que define este pasaje es un recurso narrativo, no un movimiento de los años sesenta."
+        },
+        {
+          "letter": "D",
+          "text": "Es una costumbre del pueblo, porque el narrador solo recoge lo que le cuenta la tradición local.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El pasaje no cita una costumbre ni una tradición: es una invención del narrador dentro de la ficción de la novela."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El realismo mágico es una convención narrativa latinoamericana que consiste en narrar hechos extraordinarios con el mismo tono que se usa para los hechos cotidianos, sin marcar la sorpresa. El lector no intenta explicarlo, porque dentro del mundo de la novela lo prodigioso forma parte de lo posible. Este recurso se asocia al trabajo de escritores como Gabriel García Márquez, cuya obra usa esa mirada tranquila sobre lo increíble.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semantico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LEN-10-2026-W29-la-novela-contemporanea-colombiana-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W29-la-novela-contemporanea-colombiana-001-MASTERY-bundle-v3",
+      "statement": "En ese fragmento de una novela colombiana contemporánea, ¿qué función cumple la descripción detallada de la casa?",
+      "context": "En Tunja, la profesora lee un fragmento donde el narrador describe con detalle cómo era una casa antes de un incendio. Los estudiantes piden identificar qué hace ese fragmento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sitúa la vida cotidiana anterior al incendio, y con ella muestra lo que se pierde cuando ocurre.",
+          "is_correct": true,
+          "feedback": "Correcto. Describir la casa en detalle fija una vida previa, y por eso el incendio deja de ser un dato para volverse una pérdida concreta."
+        },
+        {
+          "letter": "B",
+          "text": "Interrumpe la acción, porque la lista de objetos aplana el ritmo del relato.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La descripción no tiene por función frenar la acción: cumple con el papel de dar contexto y peso a lo que ocurre después."
+        },
+        {
+          "letter": "C",
+          "text": "Sustituye a los personajes, porque el narrador usa el espacio en lugar de sostener una trama.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El espacio describe a los personajes y su vida; su función es construir el mundo narrativo, no reemplazar a quienes actúan."
+        },
+        {
+          "letter": "D",
+          "text": "Introduce un personaje nuevo, porque cada objeto descrito se convierte en un participante del relato.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los objetos no se convierten en personajes: son elementos del decorado que el narrador usa para caracterizar a quienes viven allí."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Describir un espacio en detalle antes de un hecho traumático es un recurso habitual de la novela contemporánea. La descripción detallada fija la vida cotidiana que existía, de manera que la transformación se percibe como pérdida concreta y no como simple dato. La función del pasaje no es frenar la acción ni crear personajes, sino dar contexto emocional y material a lo que el narrador cuenta después.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-10-2026-W29-la-novela-contemporanea-colombiana-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W29-la-novela-contemporanea-colombiana-001-MASTERY-bundle-v4",
+      "statement": "Frente a un narrador que cuenta la historia sin participar en ella, ¿qué estrategia de lectura es más precisa?",
+      "context": "En Medellín, una novela de la que todos hablan usa un narrador que cuenta la historia sin intervenir en ella. La profesora consulta una edición con prólogo de un crítico y pide a los alumnos comparar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Buscar solamente a los personajes secundarios, porque son los que sostienen la trama principal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La estrategia no es buscar un personaje concreto: es revisar lo que el narrador deja de decir, porque ahí suele estar el conflicto."
+        },
+        {
+          "letter": "B",
+          "text": "Ignorar el prólogo del crítico, porque la interpretación de la obra depende solo de la novela.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El prólogo orienta la lectura y puede contrastarse con el texto: ignorarlo como regla no tiene ningún fundamento."
+        },
+        {
+          "letter": "C",
+          "text": "Observar qué omite ese narrador, porque las ausencias suelen revelar el conflicto central de la obra.",
+          "is_correct": true,
+          "feedback": "Correcto. Cuando un narrador no cuenta algo evidente, esa omisión suele señalarlo, y por ahí conviene entrar al análisis de la novela."
+        },
+        {
+          "letter": "D",
+          "text": "Leer el texto en orden inverso, porque así se entienden mejor las omisiones del narrador.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertir el orden de lectura destruye la secuencia narrativa y no es un procedimiento para analizar lo que el narrador omite."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un narrador que cuenta sin participar deja espacio para que el lector complete lo que no dice, y esas omisiones suelen apuntar al conflicto central de la obra. Una estrategia de lectura precisa consiste en preguntarse qué evita ese narrador y qué efecto produce esa ausencia. La edición crítica, con su prólogo, orienta la interpretación y se contrasta con el texto, pero no es el punto de partida exclusivo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEN-10-2026-W29-la-novela-contemporanea-colombiana-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W29-la-novela-contemporanea-colombiana-001-MASTERY-bundle-v5",
+      "statement": "Frente a dos novelas que presentan el mismo territorio de manera distinta, ¿qué análisis es el más preciso?",
+      "context": "En Cali, dos novelas colombianas describen el mismo pueblo: una lo presenta como un espacio de familia y otra como un lugar de violencia. La profesora pide comparar los dos textos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una de las dos novelas es correcta y la otra es falsa, porque describen el mismo lugar con datos distintos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La novela no compite con el dato duro: sus dos versiones son construcciones de ficción sobre el mismo territorio."
+        },
+        {
+          "letter": "B",
+          "text": "La segunda novela es superior, porque toda descripción del territorio resulta más realista que la primera.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El realismo de una novela no se mide por la cantidad de datos, sino por lo que cada autor construye con el espacio."
+        },
+        {
+          "letter": "C",
+          "text": "La mirada de cada narrador cambia el sentido del territorio, porque el espacio narrado hereda la visión de quien cuenta.",
+          "is_correct": true,
+          "feedback": "Correcto. El mismo territorio cambia de significado según la voz del narrador, y lo que se cuenta nunca está separado de quién lo cuenta."
+        },
+        {
+          "letter": "D",
+          "text": "No hay diferencia entre las dos, porque un mismo territorio siempre produce la misma lectura.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El territorio es el mismo, pero la mirada narrativa lo transforma en dos textos distintos con efectos distintos sobre el lector."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El territorio en la novela contemporánea no es un fondo neutro: es parte de lo que el texto construye. La misma región, un pueblo de la costa o una ciudad del interior, aparece con valores distintos según la voz del narrador, y esa variación transforma el sentido de lo que el lector cree que conoce. Analizar dos novelas que comparten territorio exige comparar las miradas, no decidir cuál describe mejor.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEN-10-2026-W29-la-novela-contemporanea-colombiana-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W29-la-novela-contemporanea-colombiana-001-MASTERY-bundle-v6",
+      "statement": "Si en la novela la muerte se repite de generación en generación, ¿qué inferencia es la más sólida sobre ese recurso?",
+      "context": "En el aula de Bogotá, una alumna lee la novela y dice que la presencia de la muerte en cada generación del pueblo no es un dato cualquiera. La profesora le pide que deduzca la consecuencia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La repetición construye una atmósfera de destino, porque el narrador presenta ese ciclo como algo que se hereda.",
+          "is_correct": true,
+          "feedback": "Correcto. La repetición de la muerte a lo largo de las generaciones produce la sensación de un ciclo heredado, es decir, un destino colectivo."
+        },
+        {
+          "letter": "B",
+          "text": "El narrador cuenta mal, porque en una novela la muerte no puede aparecer más de una vez.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La muerte repetida es un recurso que da profundidad al conflicto: esa restricción pertenece a otro género, no a la novela."
+        },
+        {
+          "letter": "C",
+          "text": "Los personajes no tienen vida propia, porque el narrador los usa para cumplir un plan fijado de antemano.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa conclusión no se deduce del texto: la repetición de un hecho revela una estructura narrativa, no la falta de voluntad de los personajes."
+        },
+        {
+          "letter": "D",
+          "text": "El lector debe ignorar el final, porque la muerte ya aparece anunciada desde la primera página.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un recurso que se repite desde el principio no anuncia un final: construye una condición que atraviesa toda la novela."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cuando un narrador inscribe un mismo hecho en varias generaciones, ese hecho deja de ser un episodio y se convierte en una condición del mundo que narra. La consecuencia que se puede inferir es una atmósfera de destino, en la que el presente hereda el pasado. Reconocer esa estructura permite entender por qué el lector percibe la historia como algo más amplio que la vida de un solo personaje.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LEN-10-2026-W29-la-novela-contemporanea-colombiana-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W29-la-novela-contemporanea-colombiana-001-MASTERY-bundle-v7",
+      "statement": "Si el narrador enumera objetos y luego explica quién habitó la casa, ¿qué relación se puede establecer entre ambos planos?",
+      "context": "En Medellín, un grupo lee un capítulo en el que el narrador enumera objetos encontrados en una casa y luego cuenta quién vivió allí. La profesora pide explicar la relación entre las dos cosas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son planos sin relación, porque el narrador cambia de tema sin avisar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La enumeración y la reconstrucción de la vida de la casa están conectadas: los objetos materializan a quienes habitaron el espacio."
+        },
+        {
+          "letter": "B",
+          "text": "Los objetos materializan a los personajes, porque lo que se enumera da forma concreta a lo que el narrador cuenta después.",
+          "is_correct": true,
+          "feedback": "Correcto. La lista de objetos no está suelta: da soporte concreto al relato de los personajes que ocuparon esa casa a lo largo de los años."
+        },
+        {
+          "letter": "C",
+          "text": "Los objetos contradicen a los personajes, porque los dos planos describen versiones distintas del pasado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay contradicción: el narrador usa los objetos para mostrar a las personas, y ambos planos dicen lo mismo desde dos ángulos."
+        },
+        {
+          "letter": "D",
+          "text": "Los objetos sustituyen a los personajes, porque el narrador prefiere mostrar las cosas antes que a las personas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los objetos no reemplazan a los personajes: acompañan la reconstrucción de su vida y de su historia, no la eliminan."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Enumerar objetos y luego contar la vida de quienes habitaron el espacio es un procedimiento narrativo frecuente en la novela contemporánea. La enumeración da soporte material y concreto a la reconstrucción: los objetos acompañan la historia de las personas y no las sustituyen. Por eso los dos planos se refuerzan y el lector entiende el pasado a través de lo que quedó de él.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semantico",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LEN-10-2026-W29-la-novela-contemporanea-colombiana-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W29-la-novela-contemporanea-colombiana-001-MASTERY-bundle-v8",
+      "statement": "Frente a dos novelas que construyen un espacio con mucho detalle, ¿qué lectura es la más precisa sobre ese rasgo común?",
+      "context": "En la clase de Barranquilla, la profesora pide comparar una novela de Cepeda Samudio con una de García Márquez y los estudiantes notan que ambas construyen un espacio habitado con mucho detalle.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El espacio detallado cumple una función narrativa, porque se construye con lo que los personajes hacen y necesitan para vivir.",
+          "is_correct": true,
+          "feedback": "Correcto. En ambas novelas el espacio se arma con necesidades y acciones concretas: ese detalle va más allá de la descripción y empuja la acción."
+        },
+        {
+          "letter": "B",
+          "text": "El espacio detallado es un rasgo de estilo, porque todas las novelas contemporáneas describen así los lugares.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No todas las novelas contemporáneas comparten ese rasgo: el detalle del espacio cumple aquí una función dentro del relato."
+        },
+        {
+          "letter": "C",
+          "text": "El espacio detallado es decorativo, porque el lector solo necesita saber que la historia ocurre en un pueblo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El detalle del lugar no es decorativo: el lector necesita esa información para entender las acciones y los conflictos de la novela."
+        },
+        {
+          "letter": "D",
+          "text": "El espacio detallado pertenece al Boom, porque ese movimiento se caractérise por el exceso de descripciones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Boom es un movimiento histórico y no un estilo de exceso descriptivo; lo relevante es la función que cumple el detalle espacial en la trama."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En novelas como las de Álvaro Cepeda Samudio o Gabriel García Márquez, el espacio se construye con un detalle que no es decorativo: los objetos, las distancias y las condiciones de vida se explican por lo que los personajes hacen y necesitan. Ese material da verosimilitud a la historia y, a la vez, condiciona la acción. Por eso el detalle del lugar es un recurso narrativo antes que un rasgo de estilo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-10-2026-W29-la-novela-contemporanea-colombiana-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W29-la-novela-contemporanea-colombiana-001-MASTERY-bundle-v9",
+      "statement": "Frente a la comparación entre dos novelas colombianas de ritmos distintos, ¿qué lectura crítica sostiene mejor la valoración?",
+      "context": "En Tunja, un grupo discute si una novela de ritmo pausado, con su voz tranquila, es inferior a una novela de acción rápida que le habla mejor a un público joven.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La novela de ritmo pausado es inferior, porque toda novela exige acciones rápidas y frecuentes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay una exigencia de velocidad en la novela: cada obra elige su ritmo según el efecto que busca provocar en el lector."
+        },
+        {
+          "letter": "B",
+          "text": "La novela de acción rápida es superior, porque capta mejor la atención de un público joven.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Medir la calidad según la edad del lector no es un criterio literario: lo que se valora es el efecto que cada obra propone."
+        },
+        {
+          "letter": "C",
+          "text": "Ambas son válidas, porque el ritmo de cada obra responde al efecto que busca provocar en el lector.",
+          "is_correct": true,
+          "feedback": "Correcto. Un ritmo pausado invita a habitar el mundo del texto, mientras un ritmo rápido genera suspenso: cada decisión sirve a un efecto distinto."
+        },
+        {
+          "letter": "D",
+          "text": "Ambas son igualmente válidas, porque el ritmo es un detalle menor dentro de la novela contemporánea.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ritmo organiza la tensión y el efecto de la lectura, de manera que no es un detalle menor sino una decisión narrativa central."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El ritmo es una decisión narrativa central en la novela contemporánea, porque controla la tensión y la manera en que el lector recorre el texto. Una novela pausada construye ambiente e invita a entender una vida; una novela de acción rápida genera suspenso y ansiedad. Ninguna de las dos opciones es mejor por definición: lo que se valora es si el ritmo cumple el efecto que la obra se propone provocar.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEN-10-2026-W29-la-novela-contemporanea-colombiana-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W29-la-novela-contemporanea-colombiana-001-MASTERY-bundle-v10",
+      "statement": "Frente a esa propuesta de reducir la novela a la historia de una familia, ¿qué juicio es más preciso?",
+      "context": "En Bogotá, una alumna propone reducir toda la novela a la historia de una familia y descartar los demás elementos porque no son esenciales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La propuesta es correcta, porque el núcleo emocional de la novela está siempre en la familia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La familia suele ser un núcleo importante, pero la novela no se agota ahí: el contexto social también es portador de sentido."
+        },
+        {
+          "letter": "B",
+          "text": "La propuesta es correcta, porque los capítulos que hablan de política distraen al lector del argumento central.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los capítulos que muestran un conflicto social no distraen: son parte del argumento porque conectan la vida privada con la historia del país."
+        },
+        {
+          "letter": "C",
+          "text": "La propuesta es correcta, porque el estilo de la novela pide limitarse a la vida doméstica de sus personajes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El estilo de una novela no pide esa limitación: pertenece a la obra y el lector debe valorar el conjunto completo."
+        },
+        {
+          "letter": "D",
+          "text": "La propuesta no se sostiene, porque el contexto social y político que la novela representa también construye su sentido.",
+          "is_correct": true,
+          "feedback": "Correcto. La familia es una parte del relato, pero el contexto que la novela representa le da profundidad y explica por qué esas páginas no sobran."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Una novela colombiana contemporánea no se reduce a su argumento familiar, porque el contexto social, histórico y político que representa forma parte de su sentido y le da profundidad. Ese contexto conecta la vida privada con la historia del país, y leerlo como una distracción equivoca al análisis del texto. Una lectura crítica completa analiza el conjunto: la familia, el territorio y el momento histórico aparecen como un todo.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEN-10-2026-W29-la-novela-contemporanea-colombiana-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W29-la-novela-contemporanea-colombiana-001-MASTERY-bundle-v11",
+      "statement": "Al comparar el tratamiento de la violencia en esas dos novelas, ¿qué lectura sostiene mejor el análisis?",
+      "context": "En Cali, la profesora pide comparar el tratamiento de la violencia en una novela de Rafael Humberto Moreno-Durán con el de una novela de García Márquez.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La novela de García Márquez muestra más violencia porque incluye escenas bélicas y la otra no.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cantidad de escenas no mide el tratamiento: lo que se compara es la manera en que cada novela presenta lo que ocurre."
+        },
+        {
+          "letter": "B",
+          "text": "La novela de Moreno-Durán es más violenta porque su narrador usa un lenguaje más duro y directo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un lenguaje duro no implica violencia mayor: el tratamiento se evalúa por la construcción de la escena y por su efecto en el lector."
+        },
+        {
+          "letter": "C",
+          "text": "Ninguna de las dos presenta violencia, porque ese tema pertenece a la historia y no a la ficción.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La violencia es un tema que la ficción representa con procedimientos propios, y esa representación es justamente lo que se analiza."
+        },
+        {
+          "letter": "D",
+          "text": "El tratamiento se valora por los recursos narrativos que usa cada una, porque la construcción de la escena determina su efecto.",
+          "is_correct": true,
+          "feedback": "Correcto. Comparar el tratamiento de la violencia es comparar los recursos: punto de vista, tono, ritmo y distancia con que cada novela presenta el hecho."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Comparar cómo dos novelas presentan la violencia no es contar escenas ni comparar la dureza del lenguaje, sino analizar los recursos narrativos que cada autor emplea: el punto de vista, el tono, el ritmo y la distancia que el narrador pone entre el hecho y el lector. Esa construcción determina el efecto que la violencia produce en quien lee. Por eso dos novelas pueden tratar el mismo hecho de maneras opuestas y seguir siendo igualmente válidas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Critico-Intertextual",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEN-10-2026-W29-la-novela-contemporanea-colombiana-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W29-la-novela-contemporanea-colombiana-001-MASTERY-bundle-v12",
+      "statement": "Si una novela colombiana presenta un pueblo que pierde su identidad por un encantamiento, ¿qué lectura interpretativa es la más precisa?",
+      "context": "En un grupo de Barranquilla, se discute si una novela que presenta un pueblo donde todos olvidan su identidad por un encantamiento es una crítica social o solo un cuento de hadas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es solo un cuento de hadas, porque el encantamiento pertenece al mundo de la fantasía y no al de la novela.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El realismo mágico integra lo extraordinario en el mundo cotidiano, de modo que el encantamiento puede sostener una crítica social."
+        },
+        {
+          "letter": "B",
+          "text": "Es una crítica directa, porque el narrador dice con claridad cuál es el problema del pueblo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La crítica no necesita ser explícita: el narrador presenta la situación y deja que el lector construya el juicio sobre lo que significa."
+        },
+        {
+          "letter": "C",
+          "text": "Es un proyecto político, porque el autor propone un programa para arreglar la situación del pueblo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una novela no es un plan de gobierno: su trabajo es representar una situación para que el lector la valore, no proponer soluciones."
+        },
+        {
+          "letter": "D",
+          "text": "Es una crítica social, porque el encantamiento simboliza una situación que el lector reconoce en su propia realidad.",
+          "is_correct": true,
+          "feedback": "Correcto. Cuando lo prodigioso simboliza una situación real, el lector reconoce su propio mundo en la ficción y la crítica surge sin que nadie la enuncie."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "En el realismo mágico, un hecho prodigioso puede simbolizar una situación colectiva que el lector reconoce en su propia realidad. El encantamiento deja de ser un juego de fantasía cuando encarna algo que la comunidad vive, como el olvido de su propia identidad, y entonces la novela se convierte en una crítica social sin necesidad de discurso explicativo. Esa lectura interpretativa exige del lector el trabajo de relacionar lo simbólico con lo cotidiano.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEN-10-2026-W29-la-novela-contemporanea-colombiana-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}

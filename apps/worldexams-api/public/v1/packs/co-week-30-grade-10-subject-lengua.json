@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-30-grade-10-subject-lengua",
+    "generated_at": "2026-10-01T14:40:30.994Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-10-2026-W30-la-teoria-de-la-lectura-001-MASTERY-bundle-v1",
+      "statement": "En la teoría de la lectura, ¿cómo se entiende el acto de leer?",
+      "context": "En el salón de Bogotá, la profesora de Español pregunta al grupo qué hace un lector cuando toma un texto entre las manos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Como una copia mecánica de lo que el texto dice, sin intervención del lector.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La lectura no es una copia: el lector selecciona, completa e interpreta, y esa intervención es parte del proceso."
+        },
+        {
+          "letter": "B",
+          "text": "Como un proceso activo en el que el lector reconstruye el sentido del texto y aporta lo que el texto deja abierto.",
+          "is_correct": true,
+          "feedback": "Correcto. Leer es completar los vacíos del texto con lo que el lector sabe y quiere, de manera que el sentido se construye en esa interacción."
+        },
+        {
+          "letter": "C",
+          "text": "Como una búsqueda de los datos más importantes del documento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Extraer datos pertenece a la lectura instrumental; la teoría de la lectura incluye además la interpretación del texto."
+        },
+        {
+          "letter": "D",
+          "text": "Como una reconstrucción de la biografía del autor a partir de lo que escribe.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La biografía del autor es un dato exterior; la lectura consiste en construir sentido con el texto, no en reconstruir una vida."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La teoría de la lectura reciente entiende la lectura como un proceso activo en el que el lector no recibe un sentido ya terminado, sino que lo construye. El texto ofrece señales, estructuras y vacíos, y el lector los completa con lo que sabe, lo que experimenta y lo que aporta el contexto de la situación. Esa interacción es lo que Iser describe cuando habla del texto como una estructura significativa que espera ser completada.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-10-2026-W30-la-teoria-de-la-lectura-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W30-la-teoria-de-la-lectura-001-MASTERY-bundle-v2",
+      "statement": "Frente a esos dos casos, ¿qué diferencia separa a las dos formas de leer?",
+      "context": "En un colegio de Medellín, dos estudiantes leen el mismo manual de matemáticas: uno busca la fórmula y el otro discute el sentido de los símbolos que encuentra.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Uno lee para obtener información y el otro interpreta, porque no buscan lo mismo en el mismo texto.",
+          "is_correct": true,
+          "feedback": "Correcto. La lectura instrumental recupera un dato y la lectura interpretativa construye sentido: el texto es el mismo y cambia el propósito de la lectura."
+        },
+        {
+          "letter": "B",
+          "text": "Los dos leen igual, porque los dos sostienen el mismo texto en las mismas manos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que el texto sea el mismo no iguala las lecturas: el propósito que el lector trae determina lo que encuentra en él."
+        },
+        {
+          "letter": "C",
+          "text": "El primero lee mejor, porque el segundo se distrae con los símbolos y no encuentra la fórmula.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Interpretar los símbolos no es una distracción: es otra operación legítima sobre el mismo texto."
+        },
+        {
+          "letter": "D",
+          "text": "El segundo lee mejor, porque interpretar siempre vale más que recuperar un dato.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguna de las dos lecturas vale más en general: cada una sirve para un fin distinto y depende de lo que el lector necesite del texto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Leer para obtener información y leer para interpretar son dos operaciones legítimas sobre un mismo texto. La primera recupera datos concretos, como una fórmula o una fecha, y responde a una pregunta puntual. La segunda construye sentido, examina relaciones y pregunta por los efectos del lenguaje. El texto no cambia entre una lectura y otra: cambia el propósito del lector, y por eso encuentra cosas distintas en él.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semantico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LEN-10-2026-W30-la-teoria-de-la-lectura-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W30-la-teoria-de-la-lectura-001-MASTERY-bundle-v3",
+      "statement": "Si dos estudiantes leen el mismo fragmento y relatan cosas diferentes, ¿qué se puede concluir sobre la lectura?",
+      "context": "En Tunja, la profesora lee un fragmento de una novela sin explicar nada más y pide que cada estudiante escriba qué entendió. Las respuestas son muy distintas entre sí.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que uno de los dos leyó mal, porque el sentido de un texto siempre es único.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La teoría de la lectura no supone un sentido único y cerrado: el texto ofrece límites dentro de los cuales las lecturas pueden variar."
+        },
+        {
+          "letter": "B",
+          "text": "Que ambos construyeron una lectura válida, siempre que sus versiones respeten lo que el texto dice.",
+          "is_correct": true,
+          "feedback": "Correcto. Las lecturas plurales son esperadas, y la condición es que se apoyen en evidencias del texto y no en preferencias personales."
+        },
+        {
+          "letter": "C",
+          "text": "Que el fragmento es ambiguo por escrito, y por eso debería reescribirse para evitar confusiones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pluralidad de lecturas no es un defecto de escritura: es una consecuencia de que el texto no cierre la construcción del sentido."
+        },
+        {
+          "letter": "D",
+          "text": "Que la profesora debería decir cuál es la lectura correcta antes de pedir las respuestas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dar por anticipado la lectura correcta elimina el trabajo del lector, que es justamente el proceso que esta unidad estudia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un texto no entrega su sentido completo: deja vacíos, ambigüedades y puntos de intersección que el lector completa. Por eso dos personas pueden leer el mismo fragmento y relatarlo de manera distinta sin que ninguna esté equivocada. La condición para que una lectura sea defendible es que se apoye en evidencias del texto y no en la simple preferencia del lector. La variación entre lecturas es el objeto de estudio de la teoría de la lectura.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-10-2026-W30-la-teoria-de-la-lectura-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W30-la-teoria-de-la-lectura-001-MASTERY-bundle-v4",
+      "statement": "En esa situación, ¿qué debe hacer el estudiante para construir una lectura defendible?",
+      "context": "En Cali, un grupo de grado décimo tiene que entregar un ensayo sobre una novela y la profesora les aclara que quiere evidencias, no opiniones sueltas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Escribir lo que le pareció el libro, porque la opinión personal es la base de toda lectura.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La opinión puede ser el punto de partida, pero una lectura defendible necesita apoyarse en lo que el texto dice."
+        },
+        {
+          "letter": "B",
+          "text": "Recoger pasajes del texto que sostengan la interpretación y explicar cómo se relacionan con la tesis.",
+          "is_correct": true,
+          "feedback": "Correcto. Una lectura defendible se apoya en evidencias textuales y explica cómo esas evidencias sostienen lo que se afirma."
+        },
+        {
+          "letter": "C",
+          "text": "Resumir el argumento de la novela en un párrafo, porque el resumen ya es la interpretación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El resumen cuenta lo que ocurre; la interpretación explica qué significa y por qué esos detalles importan."
+        },
+        {
+          "letter": "D",
+          "text": "Consultar una reseña en internet y copiarla, porque ahí ya hay una lectura hecha por alguien más.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una reseña orienta, pero no sustituye la construcción propia: la evidencia debe localizarse en el texto que se analiza."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una lectura defendible en el marco de la teoría de la lectura se construye con dos movimientos: se formula una tesis y luego se buscan en el texto los pasajes que la sostienen. La opinión personal puede abrir el trabajo, pero no lo sustenta sola, y el resumen cuenta lo que ocurre en lugar de explicar lo que significa. Una reseña externa orienta la búsqueda, aunque la evidencia debe localizarse en el texto que se analiza.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEN-10-2026-W30-la-teoria-de-la-lectura-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W30-la-teoria-de-la-lectura-001-MASTERY-bundle-v5",
+      "statement": "Frente a esos dos textos, ¿qué afirmación describe mejor qué espera el lector de cada uno?",
+      "context": "En Medellín, un profesor compara dos textos muy distintos, el manual de biología y un cuento, y pide describir qué espera de cada uno el lector.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que los dos esperan lo mismo, porque cualquier texto se lee de la misma manera.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La forma del texto orienta lo que el lector espera: un manual ofrece información y un cuento propone una experiencia narrativa."
+        },
+        {
+          "letter": "B",
+          "text": "Que el manual espera una interpretación simbólica, porque el lector quiere construir un sentido poético con los datos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El lector del manual busca información concreta; la interpretación simbólica corresponde a textos narrativos o poéticos."
+        },
+        {
+          "letter": "C",
+          "text": "Que el cuento espera una secuencia de hechos, mientras el manual solo ofrece datos sin organización ninguna.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El manual sí organiza sus datos en tablas y apartados: lo que falta ahí es la secuencia narrativa, no la organización."
+        },
+        {
+          "letter": "D",
+          "text": "Que el manual ofrece información para consultar y el cuento propone una experiencia con la que identificarse.",
+          "is_correct": true,
+          "feedback": "Correcto. El lector busca un dato en el manual y una vivencia en el cuento: son dos expectativas distintas que el género orienta desde el inicio."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El género textual orienta las expectativas del lector desde el primer momento. Quien abre un manual busca una información concreta y la localiza con rapidez, mientras quien abre un cuento espera una historia que lo Involucre emocionalmente y que pueda vivenciar. Entender esa diferencia es lo que permite acercarse a cada texto con la estrategia adecuada, en lugar de aplicar a todos el mismo modo de leer.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEN-10-2026-W30-la-teoria-de-la-lectura-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W30-la-teoria-de-la-lectura-001-MASTERY-bundle-v6",
+      "statement": "Si un narrador deja de contar algo que claramente conoce, ¿qué efecto produce en la lectura?",
+      "context": "En Bogotá, un estudiante de décimo lee El nombre de la rosa y dice que el narrador no cuenta todo lo que sabe, lo que obliga al lector a deducir parte de la historia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Obliga al lector a deducir lo que no se dice, porque el vacío del texto se convierte en trabajo del lector.",
+          "is_correct": true,
+          "feedback": "Correcto. Cuando el narrador calla, el lector completa el vacío con inferencias, y ese mecanismo es lo que el texto propone al que lee."
+        },
+        {
+          "letter": "B",
+          "text": "Confunde al lector, porque un narrador que calla convierte el texto en una secuencia sin sentido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las omisiones del narrador no destruyen el sentido: producen un vacío que el lector llena y que suele aumentar la tensión narrativa."
+        },
+        {
+          "letter": "C",
+          "text": "Simplifica la lectura, porque el lector recibe menos información y termina antes el texto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Reducir el volumen de lo narrado no simplifica la lectura: la obliga a deducir más y aumenta el trabajo interpretativo."
+        },
+        {
+          "letter": "D",
+          "text": "Deja la obra incompleta, porque el narrador debería informar todo lo que sabe sobre los personajes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un narrador no está obligado a informar todo: la selección de lo que cuenta es parte del oficio narrativo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un narrador nunca informa todo lo que sabe: elige qué mostrar y qué callar, y esa selección es parte del oficio narrativo. Cuando deja un vacío, el lector se ve obligado a deducir lo que no se dice, y ese trabajo aumenta la tensión y el interés por la obra. En novelas como El nombre de la rosa, ese mecanismo es deliberado y forma parte de la manera en que el texto está construido.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LEN-10-2026-W30-la-teoria-de-la-lectura-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W30-la-teoria-de-la-lectura-001-MASTERY-bundle-v7",
+      "statement": "En la teoría de la lectura, ¿qué significa decir que el lector está dentro del texto?",
+      "context": "En la clase de Tunja, la profesora explica que el lector también está dentro del texto y un alumno pregunta cómo es posible.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el lector viaja físicamente al lugar donde se escribió el libro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La afirmación no se refiere a un lugar geográfico: describe una función dentro de la estructura del texto y no a un desplazamiento."
+        },
+        {
+          "letter": "B",
+          "text": "Que el texto está construido de manera que le da al lector un papel y unos límites dentro de la lectura.",
+          "is_correct": true,
+          "feedback": "Correcto. La obra ofrece pistas y deja vacíos, de modo que el lector ocupa un papel definido y con límites que no puede sobrepasar."
+        },
+        {
+          "letter": "C",
+          "text": "Que el nombre del lector aparece escrito en la portada del libro que está leyendo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se trata de un dato de autoría o de portada: la frase describe una relación estructural entre el texto y quien lo lee."
+        },
+        {
+          "letter": "D",
+          "text": "Que el lector puede cambiar el texto a voluntad sin que nadie lo note.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El lector no modifica el texto: lo completa dentro de los límites que el propio texto establece."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cuando la teoría afirma que el lector está dentro del texto, se refiere a una relación estructural: la obra presenta pistas, propone vacíos y define una serie de límites dentro de los cuales la lectura puede moverse. El lector no modifica el texto, sino que ocupa un papel dentro de él, con lo permitido y con lo que el texto deja abierto. Esa es la idea que Iser desarrolla al hablar del lector como parte de la estructura significativa.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semantico",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LEN-10-2026-W30-la-teoria-de-la-lectura-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W30-la-teoria-de-la-lectura-001-MASTERY-bundle-v8",
+      "statement": "Frente a esos dos trabajos, ¿qué lectura es la más precisa sobre lo que aporta la teoría de la lectura?",
+      "context": "En Cali, dos grupos leen el mismo cuento: el primero lo resume en diez líneas y el segundo explica qué es lo que el personaje no dice y por qué.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El segundo trabajo aporta más, porque explicar lo que el texto sugiere es el trabajo propio de la lectura interpretativa.",
+          "is_correct": true,
+          "feedback": "Correcto. Detectar lo que el texto sugiere sin decirlo es la operación central de la lectura interpretativa, y por eso supera al resumen."
+        },
+        {
+          "letter": "B",
+          "text": "El primer trabajo aporta más, porque el resumen demuestra que el grupo entendió la obra completa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Entender qué ocurre no es lo mismo que interpretar lo que significa: el resumen deja fuera la operación central de la lectura."
+        },
+        {
+          "letter": "C",
+          "text": "Los dos trabajos aportan igual, porque un resumen y un análisis dicen cosas distintas del mismo texto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se trata de que aporten lo mismo: uno recupera la trama y el otro construye sentido, y esa segunda operación es la que se estudia."
+        },
+        {
+          "letter": "D",
+          "text": "El segundo trabajo aporta más, porque interpreta el texto desde la biografía del autor y no desde el texto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La teoría de la lectura exige interpretar desde el texto y con evidencias suyas, no desde datos biográficos del autor."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La teoría de la lectura distingue entre recuperar lo que un texto cuenta y construir lo que un texto significa. Un resumen pertenece al primer trabajo y es útil como base; un análisis que detecta lo que el texto sugiere pertenece al segundo y es el que la teoría explica. Ese segundo trabajo se apoya en señales del propio texto, y por eso permite comprender la capacidad de la obra más allá de su argumento.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-10-2026-W30-la-teoria-de-la-lectura-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W30-la-teoria-de-la-lectura-001-MASTERY-bundle-v9",
+      "statement": "Frente a la pregunta por si un texto puede tener varias lecturas válidas, ¿qué posición sostiene mejor la teoría de la lectura?",
+      "context": "En un colegio de Bogotá, dos profesores discuten si un texto puede tener varias lecturas válidas o si solo tiene una lectura correcta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo hay una lectura correcta, porque el autor escribe el sentido con el que quiso que se entendiera.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La intención del autor no fija por sí sola el sentido: el texto se sostiene en lo que dice y en lo que permite deducir."
+        },
+        {
+          "letter": "B",
+          "text": "Todas las lecturas son válidas, porque el lector siempre tiene razón sobre lo que el texto significa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa postura es demasiado amplia y no sirve: hay interpretaciones que contradicen directamente lo que el texto dice."
+        },
+        {
+          "letter": "C",
+          "text": "Hay varias lecturas posibles, pero cada una debe justificarse con evidencias del texto.",
+          "is_correct": true,
+          "feedback": "Correcto. La teoría reconoce la pluralidad de lecturas y al mismo tiempo establece una exigencia: quien interpreta debe mostrar en qué pasaje se apoya."
+        },
+        {
+          "letter": "D",
+          "text": "Solo el profesor puede decir cuál es la lectura correcta, porque su respuesta es la oficial del curso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La autoridad del docente no convierte su interpretación en la única posible: el criterio válido es la evidencia textual de cada lectura."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La teoría de la lectura rechaza la idea de un sentido único ya terminado y también la idea de que cualquier lectura sirva igual. Lo que propone es una posición intermedia: un texto puede sostener varias interpretaciones, pero cada una tiene que apoyarse en señales verificables del propio texto. Esa exigencia es la que distingue una lectura crítica de una simple opinión, y por eso la evidencia es el criterio y no la autoridad de quien habla.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEN-10-2026-W30-la-teoria-de-la-lectura-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W30-la-teoria-de-la-lectura-001-MASTERY-bundle-v10",
+      "statement": "Frente a esa afirmación, ¿qué respuesta es la más sólida?",
+      "context": "En Medellín, un alumno afirma que una novela es mejor que otra porque su autor es más famoso. La profesora le pide una razón que se pueda defender con el texto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La afirmación es válida, porque la fama del autor garantiza la calidad de la obra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fama del autor no garantiza la calidad: el criterio de una lectura crítica es lo que el texto hace, no quién lo escribió."
+        },
+        {
+          "letter": "B",
+          "text": "La afirmación es válida, porque la obra de un autor conocido siempre se lee mejor que las demás.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fama es un dato exterior al texto: no permite juzgar la construcción de la obra ni el efecto que produce en el lector."
+        },
+        {
+          "letter": "C",
+          "text": "La afirmación no se puede sostener, porque comparar dos novelas exige conocer a fondo a sus autores.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La comparación no requiere datos biográficos: se sostiene en el análisis de los textos y de sus recursos narrativos."
+        },
+        {
+          "letter": "D",
+          "text": "La afirmación no se sostiene, porque el valor de una obra se juzga por su construcción y no por la celebridad de quien la escribió.",
+          "is_correct": true,
+          "feedback": "Correcto. El criterio pertinente son los recursos del texto y su efecto en el lector, y la fama del autor no interviene en esa valoración."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Un juicio sobre una obra debe apoyarse en su construcción: los recursos narrativos, el lenguaje, la estructura y el efecto que producen en el lector. La fama, la biografía o las expectativas que despierta el nombre del autor son datos exteriores, útiles para conocer el contexto de la obra pero no para juzgarla. Esa distinción entre información externa y evidencia textual es central en una lectura crítica madura.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEN-10-2026-W30-la-teoria-de-la-lectura-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W30-la-teoria-de-la-lectura-001-MASTERY-bundle-v11",
+      "statement": "Frente a esos dos textos, ¿qué lectura sostiene mejor la relación entre ellos?",
+      "context": "En Tunja, la profesora pide que los estudiantes comparen cómo se lee un manual de biología y cómo se lee una novela escritas por la misma autora.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se leen igual, porque una misma autora garantiza un estilo común en los dos textos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una misma autora puede escribir con estilos distintos según el género: el estilo no se hereda de manera automática entre obras."
+        },
+        {
+          "letter": "B",
+          "text": "Se leen de manera distinta, porque el género determina la estrategia y no solo el contenido del texto.",
+          "is_correct": true,
+          "feedback": "Correcto. Un manual exige localizar información y un texto narrativo exige construir sentido, de modo que el género orienta la manera de leer."
+        },
+        {
+          "letter": "C",
+          "text": "No se pueden comparar, porque un manual y una novela pertenecen a campos del conocimiento diferentes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La comparación es posible y es precisamente lo que permite ver cómo el género modifica la estrategia de lectura de un texto."
+        },
+        {
+          "letter": "D",
+          "text": "Se leen igual, porque cualquier texto se entiende mejor cuando se lee en voz alta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Leer en voz alta ayuda con la poesía, pero no es lo que determina la estrategia para entender un manual o una novela."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El género textual orienta la estrategia de lectura: el manual pide localizar información y seguir una organización técnica, mientras la novela pide construir sentido y seguir el desarrollo de unos personajes. Comparar dos textos permite ver cómo esa expectativa cambia lo que el lector busca en cada uno. El criterio pertinente es el género y sus convenciones, no el nombre del autor ni una técnica de lectura aislada.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Critico-Intertextual",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEN-10-2026-W30-la-teoria-de-la-lectura-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W30-la-teoria-de-la-lectura-001-MASTERY-bundle-v12",
+      "statement": "Frente a esa discusión, ¿qué respuesta sintetiza mejor la teoría de la lectura?",
+      "context": "En un grupo de Barranquilla se discute si leer es solo descifrar signos o si el lector siempre participa en la construcción del sentido.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Leer es solo descifrar signos, porque el sentido ya está escrito y el lector solo lo extrae.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si el sentido estuviera terminado, la lectura sería pasiva: la teoría muestra que el lector completa los espacios vacíos del texto."
+        },
+        {
+          "letter": "B",
+          "text": "Leer es inventar el sentido, porque el texto no impone ningún límite a lo que el lector puede decir de él.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa postura elimina los límites del texto: hay cosas que no pueden leerse en él porque contradicen lo que dice."
+        },
+        {
+          "letter": "C",
+          "text": "Leer es un proceso intermedio, porque el sentido se produce a mitad de camino entre el texto y el lector.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sentido no aparece a mitad de camino entre dos cosas: se construye en la interacción entre lo que el texto ofrece y lo que el lector aporta."
+        },
+        {
+          "letter": "D",
+          "text": "Leer es un proceso de interacción, porque el texto ofrece estructura y el lector completa lo que queda abierto.",
+          "is_correct": true,
+          "feedback": "Correcto. La teoría describe la lectura como encuentro: el texto da límites y pistas, y el lector los usa para construir una interpretación."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La teoría de la lectura entiende el acto como una interacción: el texto ofrece una estructura, pistas y vacíos, y el lector los completa con lo que sabe, lo que vive y lo que aporta el contexto de la situación. De esa doble participación surge el sentido, que por eso no es único ni está terminado antes de la lectura. Esta posición explica tanto por qué dos personas leen distinto un mismo texto como por qué no puede leerse en él cualquier cosa.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEN-10-2026-W30-la-teoria-de-la-lectura-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}
