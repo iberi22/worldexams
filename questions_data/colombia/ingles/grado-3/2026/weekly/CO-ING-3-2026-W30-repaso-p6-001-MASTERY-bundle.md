@@ -18,190 +18,199 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 ---
-# MASTERY Bundle - Ingles: Repaso P6 (W30)
-**8 preguntas | Ingles | {alignment}**
+# MASTERY Bundle - Ingles: Repaso Sexto Periodo (W30)
+**8 preguntas | Ingles | DBA MEN Colombia**
 
 ---
+
 ## Question 1 [D3-D4]
 **ID:** CO-ING-3-2026-W30-repaso-p6-001-MASTERY-bundle-v1
-**Bloom:** Remember
-**ICFES:** Lexico
+**Bloom:** Apply
+**ICFES:** Uso de la lengua
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Repaso del sexto periodo en el que los estudiantes describen su fin de semana.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+Choose the correct word: "Last Saturday I ___ to the park with my father."
 
 ### Opciones
-- [x] B) accommodation
-  <!-- feedback: Correct! 'accommodation' matches the definition. -->
-- [ ] A) transportation
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) entertainment
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) currency
-  <!-- feedback: Incorrect. Try again. -->
+### Opciones
+- [ ] A) go
+  <!-- feedback: go es la forma del presente; la palabra Last Saturday fija la accion en el pasado. -->
+- [x] D) went
+  <!-- feedback: went es el pasado simple irregular de go y el enunciado habla de una accion ya terminada. -->
+- [ ] B) am going
+  <!-- feedback: am going es el presente continuo y describe una accion en curso, no algo que ya ocurrio. -->
+- [ ] C) will go
+  <!-- feedback: will go expresa un plan o una prediccion futura, y el enunciado ya situa la accion en el pasado. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
----
+El indicio de tiempo es lo que decide el verbo, no el sentido de la oracion. Last Saturday, yesterday y last night obligan al pasado simple, y entre las formas del pasado el verbo to go es irregular, por eso se memoriza como went y no como goed.
+
 ## Question 2 [D3-D4]
 **ID:** CO-ING-3-2026-W30-repaso-p6-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Lexico
+**ICFES:** Uso de la lengua
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Ejercicio de repaso de los snacks y la comida del recreo.
 
 ### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
+Read: "I eat an apple and a banana for snack every day." How many fruits does the child eat?
 
 ### Opciones
-- [x] C) itinerary
-  <!-- feedback: Correct! 'itinerary' matches the definition. -->
-- [ ] A) baggage
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) destination
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) passport
-  <!-- feedback: Incorrect. Try again. -->
+### Opciones
+- [ ] A) One
+  <!-- feedback: one seria la respuesta si el texto mencionara un solo tipo de fruta. -->
+- [x] D) Two
+  <!-- feedback: el texto nombra dos frutas distintas, una manzana y un platano. -->
+- [ ] B) Three
+  <!-- feedback: tres exigiria un tercer alimento en la enumeracion, y el enunciado solo lista dos. -->
+- [ ] C) Four
+  <!-- feedback: cuatro exceede lo que el texto enumera, que se limita a dos frutas por colacion. -->
 
 ### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
----
-## Question 3 [D5-D6]
+Contar elementos de una enumeracion escrita es una habilidad de comprension lectora basica y muy usada en las pruebas de grado tercero. La clave esta en identificar la conjunction and, que anuncia que la lista sigue y que hay un elemento mas.
+
+## Question 3 [D3-D4]
 **ID:** CO-ING-3-2026-W30-repaso-p6-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**ICFES:** Uso de la lengua
+**Expected_Success:** 0.85
+**Contexto:** Repaso de la hora en que empiezan las actividades de la tarde.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+It is afternoon now and the sun is still up. Choose the better question for your brother.
 
 ### Opciones
-- [x] A) destination
-  <!-- feedback: Correct! 'destination' matches the definition. -->
-- [ ] B) departure
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) arrival
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) journey
-  <!-- feedback: Incorrect. Try again. -->
+### Opciones
+- [ ] A) What time do you go to bed?
+  <!-- feedback: esa pregunta se hace por la noche, al final del dia, no a la tarde con el sol aun arriba. -->
+- [x] C) What time is it now?
+  <!-- feedback: What time is it now pregunta la hora actual, que es justo lo que el estudiante quiere saber a la tarde. -->
+- [ ] B) When did you wake up?
+  <!-- feedback: esa pregunta se hace por la manana para saber la hora del despertar, y no al mediodia. -->
+- [ ] D) How long do you sleep?
+  <!-- feedback: esa pregunta pide una duracion de tiempo en horas, y no pide la hora en punto de este momento. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
----
-## Question 4 [D5-D6]
+Repetir la palabra tiempo en ingles no significa que todas las preguntas sean equivalentes: What time is it pide la hora, When pregunta el momento y How long pide una duracion. Diferenciar esos tres usos evita que el estudiante responda con una informacion que no fue solicitada.
+
+## Question 4 [D3-D4]
 **ID:** CO-ING-3-2026-W30-repaso-p6-001-MASTERY-bundle-v4
-**Bloom:** Apply
-**ICFES:** Lexico
+**Bloom:** Understand
+**ICFES:** Uso de la lengua
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Lectura de un texto sobre las partes del dia en la rutina de una familia.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+Read: "My brother goes to school at seven and comes home at four." How many hours is he at school?
 
 ### Opciones
-- [x] A) luggage
-  <!-- feedback: Correct! 'luggage' matches the definition. -->
-- [ ] B) ticket
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) flight
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) reservation
-  <!-- feedback: Incorrect. Try again. -->
+### Opciones
+- [ ] B) Two hours
+  <!-- feedback: dos horas no corresponden a la diferencia entre las siete y las cuatro. -->
+- [x] A) Nine hours
+  <!-- feedback: de 7:00 a 16:00 hay nueve horas, que es lo que dura la jornada escolar del texto. -->
+- [ ] C) Twenty-four hours
+  <!-- feedback: veinticuatro horas es un dia completo y no el tiempo que el hermano pasa en la escuela. -->
+- [ ] D) Eleven hours
+  <!-- feedback: once seria la cuenta desde medianoche hasta las once, que es otra forma de medir el mismo horario. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
----
-## Question 5 [D7-D8]
+Resolver problemas de reloj convierte un texto en un calculo. La estrategia es restar la hora de llegada a la hora de salida, y en este caso da 16 - 7 = 9. La opcion de once horas es el error tipico cuando el estudiante cuenta el tiempo desde medianoche en lugar de calcular la duracion real.
+
+## Question 5 [D3-D4]
 **ID:** CO-ING-3-2026-W30-repaso-p6-001-MASTERY-bundle-v5
-**Bloom:** Analyze
-**ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Apply
+**ICFES:** Uso de la lengua
+**Expected_Success:** 0.85
+**Contexto:** Repaso de las preposiciones de tiempo en las expresiones de la vida diaria.
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+Choose the correct preposition: "My English class starts ___ eight o'clock and ends ___ twelve."
 
 ### Opciones
-- [x] B) passenger
-  <!-- feedback: Correct! 'passenger' matches the definition. -->
-- [ ] A) pedestrian
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) commuter
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) tourist
-  <!-- feedback: Incorrect. Try again. -->
+### Opciones
+- [x] A) at ... at
+  <!-- feedback: las horas en punto se preceden con at, tanto a las ocho como a las doce. -->
+- [ ] B) in ... in
+  <!-- feedback: in se usa con expresiones mas amplias como in the morning, no con una hora exacta como las ocho. -->
+- [ ] C) on ... on
+  <!-- feedback: on se usa con dias y fechas, como on Monday, y no con horas del reloj. -->
+- [ ] D) to ... to
+  <!-- feedback: to indica destino o intervalo entre dos puntos, y no introduce la hora de inicio de una clase. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
----
-## Question 6 [D7-D8]
+La preposicion de tiempo depende de la granularidad del dato: at para horas exactas, in para periodos amplios como la manana o la tarde y on para dias y fechas. En el repaso del sexto periodo los estudiantes ya deben aplicar esa tabla a dos espacios en la misma oracion.
+
+## Question 6 [D3-D4]
 **ID:** CO-ING-3-2026-W30-repaso-p6-001-MASTERY-bundle-v6
-**Bloom:** Analyze
-**ICFES:** Lexico
+**Bloom:** Understand
+**ICFES:** Uso de la lengua
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Ejercicio de repaso sobre los animales en la granja de la escuela.
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+Which animal gives us milk?
 
 ### Opciones
-- [x] C) customs
-  <!-- feedback: Correct! 'customs' matches the definition. -->
-- [ ] A) security
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) terminal
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) gate
-  <!-- feedback: Incorrect. Try again. -->
+### Opciones
+- [ ] A) The hen
+  <!-- feedback: la gallina pone huevos y no produce leche. -->
+- [x] B) The cow
+  <!-- feedback: la vaca es el animal dari que obtenemos la leche que consumimos. -->
+- [ ] C) The horse
+  <!-- feedback: el caballo se usa para montar y para transporte, no para producir leche. -->
+- [ ] D) The sheep
+  <!-- feedback: la oveja da lana y carne, y su leche no es el alimento diario del que habla el ejercicio. -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
----
-## Question 7 [D9-D10]
+Asociar un animal con su producto es el contenido principal de esta unidad de repaso: la gallina da huevos, la oveja da lana y la vaca da leche. Este tipo de emparejamiento de vocabulario aparece con frecuencia en las pruebas de grado tercero porque comprueba comprension activa y no solo reconocimiento.
+
+## Question 7 [D3-D4]
 **ID:** CO-ING-3-2026-W30-repaso-p6-001-MASTERY-bundle-v7
-**Bloom:** Evaluate
-**ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Apply
+**ICFES:** Uso de la lengua
+**Expected_Success:** 0.85
+**Contexto:** Repaso de las preguntas de experiencia con el verbo have.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+Look at the sentence: "___ you ever eaten sushi?" Which auxiliary makes the question correct?
 
 ### Opciones
-- [x] D) boarding pass
-  <!-- feedback: Correct! 'boarding pass' matches the definition. -->
-- [ ] A) visa
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) receipt
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) brochure
-  <!-- feedback: Incorrect. Try again. -->
+### Opciones
+- [ ] A) Are
+  <!-- feedback: are combina con un participio como eaten y se usa con el verbo to be, no con el verbo to have. -->
+- [x] B) Have
+  <!-- feedback: haveever forma el presente perfecto con el participio eaten, que es la estructura que pide el ejercicio. -->
+- [ ] C) Do
+  <!-- feedback: do sirve para el presente simple, como Do you like sushi, y no para un participio. -->
+- [ ] D) Did
+  <!-- feedback: did forma el pasado simple interrogativo y necesita el verbo base, no la forma eaten. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
----
-## Question 8 [D9-D10]
+La presencia de un participio como eaten revela que la oracion pide el presente perfecto. El auxiliar que acompaña al participio es have, y el orden correcto es have you ever eaten. Reconocer la forma del participio es la estrategia mas segura para escoger el auxiliar en preguntas de este tipo.
+
+## Question 8 [D3-D4]
 **ID:** CO-ING-3-2026-W30-repaso-p6-001-MASTERY-bundle-v8
-**Bloom:** Evaluate
-**ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Understand
+**ICFES:** Uso de la lengua
+**Expected_Success:** 0.85
+**Contexto:** Prueba final de repaso del periodo con preguntas sobre el numero y la cantidad.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+Read: "There are seven pencils and three erasers on my desk." How many objects are on the desk in total?
 
 ### Opciones
-- [x] B) sightseeing
-  <!-- feedback: Correct! 'sightseeing' matches the definition. -->
-- [ ] A) shopping
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) hiking
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) camping
-  <!-- feedback: Incorrect. Try again. -->
+### Opciones
+- [ ] A) Ten
+  <!-- feedback: diez seria el total si los numeros fueran siete y tres, pero hay que sumar los dos grupos. -->
+- [ ] B) Nine
+  <!-- feedback: nueve corresponde solo a los lapices mas dos de mas, y no suma los tres sacapuntas. -->
+- [x] C) Seven plus three, ten in total
+  <!-- feedback: 7 + 3 = 10, y la opcion muestra la operacion que justifica el total. -->
+- [ ] D) Three
+  <!-- feedback: tres es solo la cantidad de sacapuntas y deja fuera el grupo de siete lapices. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+Mostrar la operacion en la respuesta es una buena estrategia de comprension numerica: permite al docente ver el procedimiento y no solo el resultado. Cuando un total resulta ser mas de diez, conviene expresar la cuenta en dos pasos, siete y luego tres, para evitar errores de suma mental.

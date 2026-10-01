@@ -18,190 +18,199 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 ---
-# MASTERY Bundle - Ingles: House Furniture (W14)
-**8 preguntas | Ingles | {alignment}**
+# MASTERY Bundle - Ingles: House and Furniture (W14)
+**8 preguntas | Ingles | DBA MEN Colombia**
 
 ---
+
 ## Question 1 [D3-D4]
 **ID:** CO-ING-3-2026-W14-house-furniture-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Lexico
+**ICFES:** Uso de la lengua
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Clase de ingles de tercer grado en la que los estudiantes identifican los muebles de una casa dibujada.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+Which word names the piece of furniture where you sit and watch television?
 
 ### Opciones
-- [x] A) accommodation
-  <!-- feedback: Correct! 'accommodation' matches the definition. -->
-- [ ] B) transportation
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) entertainment
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) currency
-  <!-- feedback: Incorrect. Try again. -->
+### Opciones
+- [x] D) sofa
+  <!-- feedback: el sofa es el mueble de tres o cuatro plazas donde una familia se sienta a ver la television. -->
+- [ ] A) bed
+  <!-- feedback: la cama sirve para dormir y no para sentarse frente al televisor. -->
+- [ ] B) wardrobe
+  <!-- feedback: el armario guarda ropa y no se usa como asiento. -->
+- [ ] C) fridge
+  <!-- feedback: la nevera conserva alimentos y no es un mueble donde sentarse. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
----
+Los muebles de la sala se distinguen por su funcion: sofa para sentarse, armchair para una sola persona y coffee table para apoyar objetos. Cuando el enunciado describe una accion, como ver television, se elige el mueble disenado para ella.
+
 ## Question 2 [D3-D4]
 **ID:** CO-ING-3-2026-W14-house-furniture-001-MASTERY-bundle-v2
-**Bloom:** Understand
-**ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
-
-### Opciones
-- [x] A) itinerary
-  <!-- feedback: Correct! 'itinerary' matches the definition. -->
-- [ ] B) baggage
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) destination
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) passport
-  <!-- feedback: Incorrect. Try again. -->
-
-### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
----
-## Question 3 [D5-D6]
-**ID:** CO-ING-3-2026-W14-house-furniture-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Lexico
+**ICFES:** Uso de la lengua
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Ejercicio de descripcion de la habitacion donde duerme el estudiante.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+Complete the sentence with the best word: "I sleep in my ___. It is next to the window."
 
 ### Opciones
-- [x] B) destination
-  <!-- feedback: Correct! 'destination' matches the definition. -->
-- [ ] A) departure
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) arrival
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) journey
-  <!-- feedback: Incorrect. Try again. -->
+### Opciones
+- [ ] A) kitchen
+  <!-- feedback: la cocina es un espacio de la casa, pero no es un mueble donde alguien duerme. -->
+- [x] D) wardrobe
+  <!-- feedback: bed es el nombre correcto en ingles, y el enunciado dice que uno duerme en ese mueble. -->
+- [ ] B) mirror
+  <!-- feedback: el espejo cuelga en la pared y no tiene funcion de descanso. -->
+- [ ] C) garden
+  <!-- feedback: el jardin es un area exterior de la casa, no un mueble del dormitorio. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
----
-## Question 4 [D5-D6]
+Repasando el vocabulario de la casa conviene separar espacios de casa como kitchen y garden de muebles como bed y wardrobe. El enunciado pide un mueble, y esa distincion de categoria descarta las dos opciones que nombran lugares.
+
+## Question 3 [D3-D4]
+**ID:** CO-ING-3-2026-W14-house-furniture-001-MASTERY-bundle-v3
+**Bloom:** Understand
+**ICFES:** Uso de la lengua
+**Expected_Success:** 0.85
+**Contexto:** Lectura de un texto sobre la casa de la familia de un estudiante.
+
+### Enunciado
+Read: "There is a small table in the kitchen and a big table in the dining room." How many tables are there?
+
+### Opciones
+### Opciones
+- [ ] A) One
+  <!-- feedback: uno seria la respuesta si el texto mencionara una sola mesa. -->
+- [x] C) Two
+  <!-- feedback: el texto nombra dos mesas distintas, una en la cocina y otra en el comedor. -->
+- [ ] B) Three
+  <!-- feedback: tres exigiria una tercera mesa que el texto no menciona. -->
+- [ ] D) Four
+  <!-- feedback: cuatro excede lo que el enunciado enumera, que se limita a dos mesas. -->
+
+### Explicacion Pedagogica
+Contar objetos que aparecen en dos lugares distintos es una comprension numerica basica. La estrategia es identificar cada mencion y anotarla antes de totalizar, porque en los textos cortos es facil perder de vista el segundo elemento.
+
+## Question 4 [D3-D4]
 **ID:** CO-ING-3-2026-W14-house-furniture-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**ICFES:** Uso de la lengua
+**Expected_Success:** 0.85
+**Contexto:** Actividad de escritura de una lista de los muebles de un salon.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+Which sentence is correct?
 
 ### Opciones
-- [x] B) luggage
-  <!-- feedback: Correct! 'luggage' matches the definition. -->
-- [ ] A) ticket
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) flight
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) reservation
-  <!-- feedback: Incorrect. Try again. -->
+### Opciones
+- [ ] B) There is two armchairs in the living room.
+  <!-- feedback: con dos sillones el verbo debe ser are, porque el sujeto two armchairs es plural. -->
+- [ ] C) The wardrobe are next to the door.
+  <!-- feedback: el sujeto the wardrobe es singular y por eso lleva el verbo is. -->
+- [x] A) The shelves are above the TV.
+  <!-- feedback: el sujeto the shelves es plural y por eso concuerda con are. -->
+- [ ] D) A lamp are on the table.
+  <!-- feedback: con el sujeto singular a lamp el verbo tiene que ser is y no are. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
----
-## Question 5 [D7-D8]
+La concordancia entre sujeto y verbo se comprueba mirando si el sustantivo lleva articulo plural o numeral mayor que uno. Las tres opciones incorrectas fallan en ese mismo punto, por lo que un solo ejercicio de revision de la concordancia resuelve toda la pregunta.
+
+## Question 5 [D3-D4]
 **ID:** CO-ING-3-2026-W14-house-furniture-001-MASTERY-bundle-v5
-**Bloom:** Analyze
-**ICFES:** Lexico
+**Bloom:** Understand
+**ICFES:** Uso de la lengua
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Ejercicio de ubicacion de muebles en una habitacion a partir de un plano.
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+Which word names the piece of furniture where clothes hang?
 
 ### Opciones
-- [x] D) passenger
-  <!-- feedback: Correct! 'passenger' matches the definition. -->
-- [ ] A) pedestrian
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) commuter
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) tourist
-  <!-- feedback: Incorrect. Try again. -->
+### Opciones
+- [ ] B) bookshelf
+  <!-- feedback: el estante de libros guarda libros y no ropa colgando. -->
+- [x] A) wardrobe
+  <!-- feedback: el armario tiene una barra donde la ropa cuelga y es el mueble que pide el enunciado. -->
+- [ ] C) nightstand
+  <!-- feedback: la mesa de noche sostiene objetos pequenos como una lampara o un vaso. -->
+- [ ] D) oven
+  <!-- feedback: el horno es un electrodomestico de la cocina y no almacena ropa. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
----
-## Question 6 [D7-D8]
+Cada mueble de la casa tiene un contenido caracteristico: el armario recibe ropa, el estante recibe libros y la nevera recibe alimentos. Esta association mueble y contenido es la que permite responder preguntas de vocabulario de la casa con rapidez.
+
+## Question 6 [D3-D4]
 **ID:** CO-ING-3-2026-W14-house-furniture-001-MASTERY-bundle-v6
-**Bloom:** Analyze
-**ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Apply
+**ICFES:** Uso de la lengua
+**Expected_Success:** 0.85
+**Contexto:** Ejercicio de conversacion en casa entre madre e hija.
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+Complete the dialogue: "Where is the remote control?" "It is ___ the sofa."
 
 ### Opciones
-- [x] D) customs
-  <!-- feedback: Correct! 'customs' matches the definition. -->
-- [ ] A) security
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) terminal
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) gate
-  <!-- feedback: Incorrect. Try again. -->
+### Opciones
+- [x] B) on
+  <!-- feedback: on describe un objeto apoyado sobre la superficie de otro, como el control sobre el sofa. -->
+- [ ] A) in
+  <!-- feedback: in indicaria que el control esta dentro del sofa, lo cual no es posible porque es un mueble solido. -->
+- [ ] C) under
+  <!-- feedback: under significaria que el control esta debajo del mueble y la pregunta no indica esa posicion. -->
+- [ ] D) between
+  <!-- feedback: between exige dos objetos que flanqueen el control y aqui solo se menciona el sofa. -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
----
-## Question 7 [D9-D10]
+En una habitacion los objetos pequeños suelen aparecer en las superficies horizontales, y por eso se localizan con on. La combinacion mas frecuente en dialogos domésticos es on the table, on the sofa y on the shelf.
+
+## Question 7 [D3-D4]
 **ID:** CO-ING-3-2026-W14-house-furniture-001-MASTERY-bundle-v7
-**Bloom:** Evaluate
-**ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Understand
+**ICFES:** Uso de la lengua
+**Expected_Success:** 0.85
+**Contexto:** Lectura de un texto publicitario sobre la venta de una casa.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+Read: "The house has three bedrooms, one kitchen and two bathrooms." How many rooms does the house have in total?
 
 ### Opciones
-- [x] B) boarding pass
-  <!-- feedback: Correct! 'boarding pass' matches the definition. -->
-- [ ] A) visa
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) receipt
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) brochure
-  <!-- feedback: Incorrect. Try again. -->
+### Opciones
+- [ ] A) Five
+  <!-- feedback: cinco seria el resultado de sumar solo las habitaciones y las cocinas, sin los banos. -->
+- [x] B) Six
+  <!-- feedback: 3 + 1 + 2 = 6, y las tres categorias del anuncio suman exactamente seis espacios. -->
+- [ ] C) Four
+  <!-- feedback: cuatro cuenta las categorias de habitacion, no el total de espacios. -->
+- [ ] D) Seven
+  <!-- feedback: siete exigiria un dato adicional que el anuncio no incluye. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
----
-## Question 8 [D9-D10]
+El anuncio proves numeros en tres categorias distintas, y sumarlos es un ejercicio de comprension numerica en contexto. La respuesta debe mostrar la operacion para que el estudiante compruebe que no omitio ninguna de las categorias enumeradas.
+
+## Question 8 [D3-D4]
 **ID:** CO-ING-3-2026-W14-house-furniture-001-MASTERY-bundle-v8
-**Bloom:** Evaluate
-**ICFES:** Lexico
+**Bloom:** Apply
+**ICFES:** Uso de la lengua
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Actividad final en la que los estudiantes dibujan las partes de una casa y las rotulan.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+Which group contains only furniture from a house?
 
 ### Opciones
-- [x] C) sightseeing
-  <!-- feedback: Correct! 'sightseeing' matches the definition. -->
-- [ ] A) shopping
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) hiking
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) camping
-  <!-- feedback: Incorrect. Try again. -->
+### Opciones
+- [ ] A) Kitchen, garden, bathroom
+  <!-- feedback: esas tres palabras nombran espacios de la casa, no muebles. -->
+- [ ] B) Sofa, bed, television
+  <!-- feedback: el televisor es un aparato y no un mueble, por lo que el grupo no es correcto. -->
+- [x] C) Bookshelf, wardrobe, coffee table
+  <!-- feedback: los tres son muebles que se usan para guardar o apoyar objetos dentro de una vivienda. -->
+- [ ] D) Car, sofa, lamp
+  <!-- feedback: el carro no pertenece al interior de una casa y rompe la clasificacion. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+Distinguir espacios, muebles y electrodomésticos es una clasificacion basica que aparece en las pruebas. Los muebles sostienen o guardan objetos, mientras que un televisor o una lampara funcionan por si mismos, y esa funcion los separa del resto.
