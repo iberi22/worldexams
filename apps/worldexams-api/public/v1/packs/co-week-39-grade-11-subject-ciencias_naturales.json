@@ -13,31 +13,31 @@
       "context": "En clase en Medellín, se define el concepto de ácido según Brønsted-Lowry.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Dona protones (H⁺) en una reacción química.",
           "is_correct": true,
           "feedback": "Ácido = dador de protones."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Acepta protones.",
           "is_correct": false,
           "feedback": "Esa es la definición de base."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Libera electrones en solución.",
           "is_correct": false,
           "feedback": "No es el criterio Brønsted-Lowry."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Produce iones OH⁻.",
           "is_correct": false,
           "feedback": "Eso corresponde a una base de Arrhenius."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La definición de Brønsted-Lowry se centra en la transferencia de protones en solución acuosa.",
       "difficulty": "4",
       "images": [],
@@ -59,13 +59,13 @@
       "context": "En un laboratorio en Bogotá, se mide el pH de varias sustancias cotidianas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La temperatura de la solución.",
           "is_correct": false,
           "feedback": "La temperatura es otra propiedad."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La concentración de iones hidrógeno (H⁺) en solución acuosa.",
           "is_correct": true,
           "feedback": "pH = -log[H⁺]."
@@ -83,7 +83,7 @@
           "feedback": "La presión osmótica es diferente."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La escala de pH va de 0 a 14: pH < 7 es ácido, pH = 7 neutro y pH > 7 básico.",
       "difficulty": "4",
       "images": [],
@@ -105,13 +105,13 @@
       "context": "En clase en Cali, se estudia el jugo gástrico y sus propiedades.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Muy ácido, con alta concentración de H⁺.",
           "is_correct": true,
           "feedback": "pH bajo indica alta concentración de protones."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Neutro.",
           "is_correct": false,
           "feedback": "Neutro corresponde a pH 7."
@@ -129,7 +129,7 @@
           "feedback": "Un pH bajo nunca es básico."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El ácido clorhídrico gástrico ayuda a la digestión de proteínas y a la activación de enzimas.",
       "difficulty": "4",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "En clase en Pereira, se mide la neutralización de un ácido con una base.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "50 mL.",
           "is_correct": false,
           "feedback": "No es necesario duplicar el volumen."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "25 mL.",
           "is_correct": true,
           "feedback": "Relación 1:1 en neutralización HCl + NaOH → NaCl + H₂O."
@@ -267,7 +267,7 @@
           "feedback": "Exageraste el cálculo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "En una neutralización ácido-base fuerte, moles de H⁺ = moles de OH⁻.",
       "difficulty": "6",
       "images": [],
@@ -289,31 +289,31 @@
       "context": "En un laboratorio en Armenia, se mide el pH de soluciones tampón.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Resistir cambios de pH al añadir pequeñas cantidades de ácido o base.",
           "is_correct": true,
           "feedback": "Está formada por un ácido débil y su base conjugada."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Cambiar drásticamente el pH.",
           "is_correct": false,
           "feedback": "Un tampón mantiene el pH estable."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ser siempre neutra (pH 7).",
           "is_correct": false,
           "feedback": "Su pH depende del par conjugado."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Contener solo sales fuertes.",
           "is_correct": false,
           "feedback": "Requiere un par ácido/base conjugado."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Los tampones son esenciales en sistemas biológicos como la sangre (pH ≈ 7.4).",
       "difficulty": "6",
       "images": [],
@@ -381,13 +381,13 @@
       "context": "En clase en Ibagué, se aplica la ecuación de Henderson-Hasselbalch.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La densidad de una solución.",
           "is_correct": false,
           "feedback": "No aplica a densidad."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El pH de una solución tampón a partir del pKa y la relación de concentraciones.",
           "is_correct": true,
           "feedback": "pH = pKa + log([A⁻]/[HA])."
@@ -405,7 +405,7 @@
           "feedback": "No aplica a sistemas ácido-base."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La ecuación de Henderson-Hasselbalch es esencial para diseñar tampones en química y bioquímica.",
       "difficulty": "6",
       "images": [],
@@ -433,25 +433,25 @@
           "feedback": "pOH = -log(0.001) = 3."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "3.",
           "is_correct": true,
           "feedback": "pOH = -log(10⁻³) = 3."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "11.",
           "is_correct": false,
           "feedback": "Sería el pH correspondiente, no el pOH."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "14.",
           "is_correct": false,
           "feedback": "Solo si la concentración fuera 1 M."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "En una base fuerte, [OH⁻] = C, por lo que pOH = -log[OH⁻] y pH = 14 - pOH.",
       "difficulty": "6",
       "images": [],
@@ -565,13 +565,13 @@
       "context": "En clase en Tunja, se estudia el producto iónico del agua.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "1.0 × 10⁻⁷.",
           "is_correct": false,
           "feedback": "Es solo la concentración de H⁺ en agua pura."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "1.0 × 10⁻¹⁴.",
           "is_correct": true,
           "feedback": "Kw = 10⁻¹⁴ a 25 °C."
@@ -589,7 +589,7 @@
           "feedback": "Implicaría neutralidad en cualquier condición."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El producto iónico del agua varía con la temperatura, pero a 25 °C vale 1.0 × 10⁻¹⁴.",
       "difficulty": "8",
       "images": [],
@@ -703,13 +703,13 @@
       "context": "En clase en Medellín, se estudian curvas de titulación.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "pH menor que 3.",
           "is_correct": false,
           "feedback": "Es típico de ácidos débiles titulados con base fuerte."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "pH = 7, donde moles de ácido igualan a moles de base.",
           "is_correct": true,
           "feedback": "El salto de pH cruza por 7."
@@ -727,7 +727,7 @@
           "feedback": "El pH inicial puede ser menor."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La curva de titulación presenta un salto brusco de pH cerca del punto de equivalencia, fácilmente identificable con un indicador.",
       "difficulty": "8",
       "images": [],
@@ -795,13 +795,13 @@
       "context": "En clase en Bogotá, se discute la acidificación de los océanos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La absorción de CO₂ atmosférico por el agua de mar formando ácido carbónico.",
           "is_correct": true,
           "feedback": "El CO₂ baja el pH del océano al formar H₂CO₃."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Aumento de la salinidad.",
           "is_correct": false,
           "feedback": "La salinidad no es responsable directa."
@@ -819,7 +819,7 @@
           "feedback": "No es el factor principal."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La acidificación oceánica afecta arrecifes de coral y organismos con conchas de carbonato de calcio.",
       "difficulty": "10",
       "images": [],
@@ -841,13 +841,13 @@
       "context": "En un estudio agrícola en Armenia, se evalúa el encalado de suelos ácidos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Neutralizar la acidez del suelo, elevando el pH y mejorando la disponibilidad de nutrientes.",
           "is_correct": true,
           "feedback": "La cal agrícola corrige el pH para cultivos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Incrementar la acidez del suelo.",
           "is_correct": false,
           "feedback": "Contrario al propósito."
@@ -865,7 +865,7 @@
           "feedback": "No es el efecto buscado."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El encalado mejora la estructura del suelo y la disponibilidad de nutrientes para las plantas.",
       "difficulty": "10",
       "images": [],
@@ -893,13 +893,13 @@
           "feedback": "Es lo opuesto a su función."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Reacciona con el HCl gástrico formando CaCl₂, agua y CO₂, aliviando la acidez.",
           "is_correct": true,
           "feedback": "Reacción típica de neutralización."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Disminuye la producción de mucina gástrica.",
           "is_correct": false,
           "feedback": "No afecta la mucina directamente."
@@ -911,7 +911,7 @@
           "feedback": "Los inhibidores de bomba son otra clase de fármacos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Los antiácidos son bases débiles que neutralizan el exceso de HCl en el estómago.",
       "difficulty": "10",
       "images": [],

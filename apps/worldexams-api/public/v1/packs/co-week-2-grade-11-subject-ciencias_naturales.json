@@ -59,19 +59,19 @@
       "context": "En la autopista Norte de Medellín, un automóvil parte del reposo y alcanza una velocidad de $20\\text{ m/s}$ en $5\\text{ segundos}$ con aceleración constante.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$4\\text{ m/s}^2$",
           "is_correct": true,
           "feedback": "Correcto. La aceleración promedio es $a = \\frac{v_f - v_i}{t} = \\frac{20 - 0}{5} = 4\\text{ m/s}^2$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$100\\text{ m/s}^2$",
           "is_correct": false,
           "feedback": "Incorrecto. Corresponde al producto $v \\cdot t$, no al cociente $\\Delta v / t$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$5\\text{ m/s}^2$",
           "is_correct": false,
           "feedback": "Incorrecto. Se obtiene al dividir incorrectamente el tiempo entre un valor no indicado."
@@ -83,7 +83,7 @@
           "feedback": "Incorrecto. Esta es la velocidad final alcanzada, no la aceleración."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La aceleración mide la tasa de cambio de la velocidad en el tiempo ($a = \\frac{\\Delta v}{\\Delta t}$). Al pasar de $0$ a $20\\text{ m/s}$ en $5\\text{ s}$, la aceleración es $4\\text{ m/s}^2$.",
       "difficulty": "4",
       "images": [],
@@ -105,13 +105,13 @@
       "context": "Un ciclista en el velódromo de Cali se desplaza en una pista circular manteniendo una rapidez constante de $10\\text{ m/s}$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Porque la dirección del vector velocidad cambia continuamente a lo largo de la trayectoria circular.",
           "is_correct": true,
           "feedback": "Correcto. La aceleración no solo cambia la magnitud de la velocidad, sino también su dirección."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque la fuerza de fricción destruye la energía mecánica del sistema.",
           "is_correct": false,
           "feedback": "Incorrecto. La aceleración centrípeta es un concepto cinemático debido al cambio de dirección del vector velocidad."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecto. Los efectos relativistas no son aplicables a velocidades no relativistas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El vector velocidad es tangente a la trayectoria. En un Movimiento Circular Uniforme (MCU), aunque la rapidez es constante, la dirección del vector cambia en cada instante, originando una aceleración dirigida hacia el centro ($a_c = v^2/r$).",
       "difficulty": "4",
       "images": [],
@@ -151,19 +151,19 @@
       "context": "Una piedra se deja caer libremente desde el viaducto César Gaviria Trujillo en Pereira hacia el cauce del río Otún. Se desprecia la resistencia del aire.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Una línea recta ascendente que pasa por el origen.",
           "is_correct": true,
           "feedback": "Correcto. En caída libre con $a = g$ constante, $v(t) = g \\cdot t$, que es una función lineal creciente."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Una parábola cóncava hacia abajo que parte del origen.",
           "is_correct": false,
           "feedback": "Incorrecto. La parábola representa la posición $y(t)$, no la velocidad $v(t)$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Una línea horizontal paralela al eje del tiempo.",
           "is_correct": false,
           "feedback": "Incorrecto. Una línea horizontal correspondería a velocidad constante (MRU)."
@@ -175,7 +175,7 @@
           "feedback": "Incorrecto. La aceleración constante produce una variación lineal de la velocidad."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "En la caída libre bajo la acción de la gravedad constante $g$, la velocidad aumenta proporcionalmente con el tiempo ($v = g \\cdot t$), lo que se grafica como una recta de pendiente constante $g$.",
       "difficulty": "4",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "Durante una competencia deportiva en Bucaramanga, un atleta lanza una bala con un ángulo de $45^\\circ$ respecto a la horizontal.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La componente vertical de la velocidad es cero y la aceleración es $g$ dirigida hacia abajo.",
           "is_correct": true,
           "feedback": "Correcto. En el vértice parabólico $v_y = 0$, pero la gravedad $g$ sigue actuando ininterrumpidamente hacia abajo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Tanto la velocidad vertical como la aceleración son simultáneamente cero.",
           "is_correct": false,
           "feedback": "Incorrecto. Si la aceleración fuera cero, la bala continuaría flotando horizontalmente de forma indefinida."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto. La componente horizontal $v_x = v_0 \\cos\\theta$ permanece constante y diferente de cero."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "En un movimiento parabólico, el movimiento horizontal es MRU ($v_x = \\text{constante}$) y el vertical es MRUA bajo la aceleración de la gravedad $g$. En la altura máxima, la velocidad vertical se anula ($v_y = 0$), pero la aceleración $g$ permanece constante.",
       "difficulty": "6",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "Un tren de carga en el departamento del Cesar frena uniformemente desde $30\\text{ m/s}$ hasta detenerse por completo en $15\\text{ segundos}$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$225\\text{ metros}$",
           "is_correct": true,
           "feedback": "Correcto. En MRUA, $x = \\frac{v_i + v_f}{2} \\cdot t = \\frac{30 + 0}{2} \\cdot 15 = 15 \\cdot 15 = 225\\text{ m}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$450\\text{ metros}$",
           "is_correct": false,
           "feedback": "Incorrecto. Corresponde al cálculo sin dividir la velocidad inicial entre 2 ($30 \\cdot 15$)."
@@ -267,7 +267,7 @@
           "feedback": "Incorrecto. Valor sobreestimado por error en la fórmula de posición."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La distancia recorrida en un frenado con aceleración constante se calcula con $x = v_{prom} \\cdot t = \\frac{v_i + v_f}{2} \\cdot t$. Sustituyendo $v_i = 30$, $v_f = 0$ y $t = 15$, obtenemos $225\\text{ m}$.",
       "difficulty": "6",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "Un dron de fotografía en Cartagena vuela horizontalmente a $12\\text{ m/s}$ y deja caer un paquete desde una altura de $45\\text{ m}$. Considere $g = 10\\text{ m/s}^2$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$3\\text{ segundos}$",
           "is_correct": true,
           "feedback": "Correcto. El tiempo depende solo de la caída vertical: $h = \\frac{1}{2}g t^2 \\implies 45 = 5 t^2 \\implies t^2 = 9 \\implies t = 3\\text{ s}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$4.5\\text{ segundos}$",
           "is_correct": false,
           "feedback": "Incorrecto. Se obtiene al dividir $45$ entre $10$ sin considerar la raíz cuadrada."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecto. Error al multiplicar por la velocidad horizontal."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Los movimientos horizontal y vertical son independientes. La caída vertical sigue $y = \\frac{1}{2} g t^2$. Despejando $t = \\sqrt{\\frac{2h}{g}} = \\sqrt{\\frac{2(45)}{10}} = \\sqrt{9} = 3\\text{ s}$.",
       "difficulty": "6",
       "images": [],
@@ -335,19 +335,19 @@
       "context": "En una prueba en el laboratorio de física en Manizales, se analiza la gráfica de posición ($x$) en función del tiempo ($t$) de una partícula. La gráfica muestra una parábola cóncava hacia arriba.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "La partícula se mueve con una aceleración constante positiva.",
           "is_correct": true,
           "feedback": "Correcto. La ecuación $x(t) = x_0 + v_0 t + \\frac{1}{2}a t^2$ es parabólica; si es cóncava hacia arriba, $a > 0$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La velocidad de la partícula es constante y diferente de cero.",
           "is_correct": false,
           "feedback": "Incorrecto. Una velocidad constante produce una recta con pendiente no nula en un gráfico $x$ vs $t$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La partícula se encuentra completamente en reposo.",
           "is_correct": false,
           "feedback": "Incorrecto. El reposo se grafica como una línea horizontal en el gráfico $x$ vs $t$."
@@ -359,7 +359,7 @@
           "feedback": "Incorrecto. Una concavidad hacia arriba implica aceleración constante positiva."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La segunda derivada de la posición respecto al tiempo es la aceleración ($a = \\frac{d^2 x}{dt^2}$). En una curva $x(t)$, la concavidad indica el signo de la aceleración: concavidad hacia arriba representa aceleración positiva constante.",
       "difficulty": "6",
       "images": [],
@@ -427,13 +427,13 @@
       "context": "Un auto deportivo acelera uniformemente en una pista de pruebas cerca de Villavicencio, aumentando su velocidad de $10\\text{ m/s}$ a $30\\text{ m/s}$ en un recorrido de $80\\text{ m}$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$5\\text{ m/s}^2$",
           "is_correct": true,
           "feedback": "Correcto. Usando $v_f^2 = v_i^2 + 2a\\Delta x \\implies 30^2 = 10^2 + 2a(80) \\implies 900 - 100 = 160a \\implies a = \\frac{800}{160} = 5\\text{ m/s}^2$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$10\\text{ m/s}^2$",
           "is_correct": false,
           "feedback": "Incorrecto. Se obtiene si se olvida el factor $2$ en el denominador."
@@ -451,7 +451,7 @@
           "feedback": "Incorrecto. Cálculo equivocado al restar directamente las velocidades sin elevar al cuadrado."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Utilizando la ecuación cinemática independiente del tiempo $v_f^2 = v_i^2 + 2a \\Delta x$, despejamos $a = \\frac{v_f^2 - v_i^2}{2\\Delta x} = \\frac{900 - 100}{160} = 5\\text{ m/s}^2$.",
       "difficulty": "6",
       "images": [],
@@ -473,31 +473,31 @@
       "context": "Un estudiante analiza el gráfico de velocidad ($v$) contra tiempo ($t$) de un bote de remos en el embalse de Guatapé. La gráfica forma un triángulo rectángulo con base de $10\\text{ s}$ y altura de $6\\text{ m/s}$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Representa el desplazamiento total realizado y es igual a $30\\text{ metros}$.",
           "is_correct": true,
           "feedback": "Correcto. El área bajo la curva $v(t)$ es el desplazamiento: $A = \\frac{b \\cdot h}{2} = \\frac{10 \\cdot 6}{2} = 30\\text{ m}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Representa la aceleración promedio y equivale a $0.6\\text{ m/s}^2$.",
           "is_correct": false,
           "feedback": "Incorrecto. La pendiente representa la aceleración, no el área bajo la curva."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Representa la fuerza neta aplicada y equivale a $60\\text{ N}$.",
           "is_correct": false,
           "feedback": "Incorrecto. El área en un gráfico $v(t)$ tiene unidades de longitud (metros), no fuerza."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Representa el tiempo total de retorno y es igual a $5\\text{ segundos}$.",
           "is_correct": false,
           "feedback": "Incorrecto. El tiempo está en el eje horizontal, el área es la integral de la velocidad."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "En un gráfico de velocidad versus tiempo $v(t)$, la integral $\\int v \\, dt$ representa geométricamente el área bajo la curva, la cual corresponde al desplazamiento $\\Delta x$. Para un triángulo, $A = \\frac{1}{2} \\text{base} \\times \\text{altura} = \\frac{1}{2}(10)(6) = 30\\text{ m}$.",
       "difficulty": "8",
       "images": [],
@@ -519,13 +519,13 @@
       "context": "Dos proyectiles 1 y 2 son lanzados con la misma rapidez inicial $v_0$ desde el nivel del suelo en Armenia. El proyectil 1 se lanza a $30^\\circ$ y el proyectil 2 a $60^\\circ$ respecto a la horizontal.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Ambos proyectiles tienen el mismo alcance horizontal, pero el proyectil 2 tiene mayor tiempo de vuelo.",
           "is_correct": true,
           "feedback": "Correcto. Ángulos complementarios ($30^\\circ + 60^\\circ = 90^\\circ$) dan el mismo alcance $R = \\frac{v_0^2 \\sin(2\\theta)}{g}$. Como $\\sin(60^\\circ) = \\sin(120^\\circ)$, $R_1 = R_2$. El tiempo $t_v = \\frac{2v_0\\sin\\theta}{g}$ es mayor para $60^\\circ$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El proyectil 1 alcanza mayor distancia horizontal y permanece más tiempo en el aire.",
           "is_correct": false,
           "feedback": "Incorrecto. El tiempo de vuelo depende del seno del ángulo, que es mayor para $60^\\circ$."
@@ -543,7 +543,7 @@
           "feedback": "Incorrecto. El tiempo de vuelo difiere porque la componente vertical de la velocidad inicial es distinta."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El alcance horizontal es $R = \\frac{v_0^2 \\sin(2\\theta)}{g}$. Para ángulos complementarios $\\theta_1 + \\theta_2 = 90^\\circ$, $\\sin(2\\theta_1) = \\sin(2\\theta_2)$, resultando en igual alcance. El tiempo de vuelo $t_v = \\frac{2v_0\\sin\\theta}{g}$ crece con $\\sin\\theta$, siendo mayor para $60^\\circ$.",
       "difficulty": "8",
       "images": [],
@@ -611,13 +611,13 @@
       "context": "Se deja caer una esfera de acero desde la cúspide de una torre en Tunja. En el segundo segundo de su caída ($t = 1\\text{ s}$ a $t = 2\\text{ s}$), se mide su distancia recorrida. Considere $g = 10\\text{ m/s}^2$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$15\\text{ metros}$",
           "is_correct": true,
           "feedback": "Correcto. Posición a $t=1$: $y(1) = 5(1)^2 = 5\\text{ m}$. Posición a $t=2$: $y(2) = 5(2)^2 = 20\\text{ m}$. La distancia en el 2do segundo es $20 - 5 = 15\\text{ m}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$20\\text{ metros}$",
           "is_correct": false,
           "feedback": "Incorrecto. $20\\text{ m}$ es la distancia acumulada total desde $t=0$ hasta $t=2$."
@@ -635,7 +635,7 @@
           "feedback": "Incorrecto. $5\\text{ m}$ es la distancia recorrida únicamente durante el primer segundo ($t=0$ a $t=1$)."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La posición en caída libre es $y(t) = \\frac{1}{2}g t^2 = 5t^2$. A $t=1\\text{ s}$, $y_1 = 5\\text{ m}$. A $t=2\\text{ s}$, $y_2 = 20\\text{ m}$. El desplazamiento durante el segundo segundo es $\\Delta y = y_2 - y_1 = 20 - 5 = 15\\text{ m}$.",
       "difficulty": "8",
       "images": [],
@@ -657,13 +657,13 @@
       "context": "En un sistema de referencia ligado a un bote que navega río abajo en el río Magdalena a $5\\text{ m/s}$ respecto a la orilla, un pasajero camina hacia la proa a $2\\text{ m/s}$ respecto al bote.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$7\\text{ m/s}$ en la misma dirección del movimiento del río.",
           "is_correct": true,
           "feedback": "Correcto. Por transformación Galileana de velocidades: $v_{total} = v_{bote/orilla} + v_{pasajero/bote} = 5 + 2 = 7\\text{ m/s}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$3\\text{ m/s}$ en dirección opuesta a la corriente.",
           "is_correct": false,
           "feedback": "Incorrecto. Corresponde si el pasajero caminara hacia la popa (atrás)."
@@ -681,7 +681,7 @@
           "feedback": "Incorrecto. Las velocidades no se multiplican en la transformación de marcos de referencia."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Según la adición galileana de velocidades para sistemas de referencia inerciales alineados: $v_{P/O} = v_{P/B} + v_{B/O} = 2 + 5 = 7\\text{ m/s}$.",
       "difficulty": "8",
       "images": [],
@@ -749,19 +749,19 @@
       "context": "En un experimento de física avanzada en la Universidad Nacional en Bogotá, se estudia el movimiento de una partícula cuya ecuación de posición está dada por $x(t) = 2t^3 - 9t^2 + 12t + 4$ (donde $x$ está en metros y $t$ en segundos).",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "A los $t = 1\\text{ s}$ y $t = 2\\text{ s}$.",
           "is_correct": true,
           "feedback": "Correcto. Derivando la posición: $v(t) = 6t^2 - 18t + 12$. Igualando a cero: $6(t^2 - 3t + 2) = 0 \\implies (t-1)(t-2) = 0 \\implies t = 1\\text{ s}$ y $t = 2\\text{ s}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Únicamente a los $t = 3\\text{ s}$.",
           "is_correct": false,
           "feedback": "Incorrecto. $t=3$ es la raíz de la ecuación de aceleración nula, no de velocidad nula."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "A los $t = 0\\text{ s}$ y $t = 4\\text{ s}$.",
           "is_correct": false,
           "feedback": "Incorrecto. A $t=0$, $v(0) = 12\\text{ m/s}$."
@@ -773,7 +773,7 @@
           "feedback": "Incorrecto. La función derivada posee dos raíces reales positivas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La velocidad es la primera derivada de la posición: $v(t) = \\frac{dx}{dt} = 6t^2 - 18t + 12$. Para hallar los puntos donde la partícula se detiene ($v(t)=0$), resolvemos $6(t^2-3t+2)=0$, dando las soluciones $t=1\\text{ s}$ y $t=2\\text{ s}$.",
       "difficulty": "10",
       "images": [],
@@ -795,13 +795,13 @@
       "context": "Un satélite de observación ambiental colombiano orbita la Tierra en una trayectoria circular a una altitud fija. Se evalúa el efecto de duplicar su rapidez orbital $v$ manteniendo constante el radio $r$ de su órbita.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La aceleración centrípeta se cuadruplica ($4 a_c$).",
           "is_correct": true,
           "feedback": "Correcto. Como $a_c = \\frac{v^2}{r}$, al sustituir $v' = 2v$, se obtiene $a_c' = \\frac{(2v)^2}{r} = \\frac{4v^2}{r} = 4 a_c$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La aceleración centrípeta se duplica ($2 a_c$).",
           "is_correct": false,
           "feedback": "Incorrecto. Asume una relación lineal entre velocidad y aceleración centrípeta."
@@ -819,7 +819,7 @@
           "feedback": "Incorrecto. $a_c$ depende directamente del cuadrado de la rapidez orbital."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La aceleración centrípeta es proporcional al cuadrado de la rapidez tangencial ($a_c = \\frac{v^2}{r}$). Duplicar la rapidez eleva al cuadrado dicho factor ($2^2 = 4$), cuadruplicando la aceleración centrípeta.",
       "difficulty": "10",
       "images": [],
@@ -841,31 +841,31 @@
       "context": "Se prueba un prototipo de frenado de emergencia para autobuses en Neiva. El vehículo frena con una desaceleración proporcional a su velocidad: $a(t) = -k v(t)$, donde $k$ es una constante positiva.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Una función decreciente de tipo exponencial: $v(t) = v_0 e^{-kt}$.",
           "is_correct": true,
           "feedback": "Correcto. Integrando la ecuación diferencial $\\frac{dv}{dt} = -k v \\implies \\frac{dv}{v} = -k dt \\implies \\ln(v) = -kt + C \\implies v(t) = v_0 e^{-kt}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Una función lineal decreciente: $v(t) = v_0 - kt$.",
           "is_correct": false,
           "feedback": "Incorrecto. La linealidad ocurre solo cuando la aceleración $a$ es constante, no cuando depende de $v$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Una función polinómica cuadrática: $v(t) = v_0 - k t^2$.",
           "is_correct": false,
           "feedback": "Incorrecto. Una aceleración dependiente de $v$ no genera un polinomio de segundo grado en tiempo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Una constante independiente del tiempo.",
           "is_correct": false,
           "feedback": "Incorrecto. Al existir desaceleración no nula, la velocidad debe variar con el tiempo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La ecuación diferencial $\\frac{dv}{dt} = -k v$ es separable. Su integración conduce a $\\ln\\left(\\frac{v}{v_0}\\right) = -kt$, lo cual al despejar nos entrega la solución exponencial $v(t) = v_0 e^{-kt}$.",
       "difficulty": "10",
       "images": [],

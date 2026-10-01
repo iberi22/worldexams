@@ -19,25 +19,25 @@
           "feedback": "Incorrect. Tradition focuses on the past."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Automation",
           "is_correct": true,
           "feedback": "Correct. Key concept for future labor markets."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Manual labor",
           "is_correct": false,
           "feedback": "Incorrect. Done by hand."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Craftsmanship",
           "is_correct": false,
           "feedback": "Incorrect. Skilled manual work."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "'Automation' is the standard term for the technological replacement of human labor.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,13 +148,13 @@
       "context": "Article about \"Universal Basic Income\" (UBI).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "regardless of",
           "is_correct": true,
           "feedback": "Correct. Means without paying attention to or being affected by."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "because of",
           "is_correct": false,
           "feedback": "Incorrect. UBI is not dependent on these factors."
@@ -172,7 +172,7 @@
           "feedback": "Incorrect. UBI is usually proposed as a base, not necessarily a replacement for all other systems."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "'Regardless of' is the essential prepositional phrase for describing the unconditional nature of UBI.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -238,13 +238,13 @@
       "context": "Space colonization.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "visit",
           "is_correct": false,
           "feedback": "Incorrect. Visiting is temporary."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "colonize",
           "is_correct": true,
           "feedback": "Correct. To establish a permanent presence."
@@ -262,7 +262,7 @@
           "feedback": "Incorrect. Opposite of exploration."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "'Colonize' is the standard term for establishing a new permanent human community in a new location.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -334,13 +334,13 @@
           "feedback": "Incorrect. Rural areas have plenty of land for traditional farming."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "urban",
           "is_correct": true,
           "feedback": "Correct. Vertical farming is designed for city environments."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "arctic",
           "is_correct": false,
           "feedback": "Incorrect. Too cold."
@@ -352,7 +352,7 @@
           "feedback": "Incorrect. While possible, 'urban' is the primary context for vertical farming."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "'Urban' is the appropriate context for vertical farming, which aims to produce food where land is scarce.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -508,13 +508,13 @@
       "context": "Passive voice in a futuristic scenario.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "will submerge",
           "is_correct": false,
           "feedback": "Incorrect. Active voice."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "will have been submerged",
           "is_correct": true,
           "feedback": "Correct. Future perfect passive for a completed state."
@@ -532,7 +532,7 @@
           "feedback": "Incorrect. Gerund."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "The future perfect passive indicates that the state of being submerged will be a completed fact by the next century.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -553,19 +553,19 @@
       "context": "Discussing longevity.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "longevity",
           "is_correct": true,
           "feedback": "Correct. Longevity means long life."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "height",
           "is_correct": false,
           "feedback": "Incorrect. Not a primary focus of biotechnology."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "confusion",
           "is_correct": false,
           "feedback": "Incorrect. Science aims for clarity."
@@ -577,7 +577,7 @@
           "feedback": "Incorrect. Usually used for resources."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "'Longevity' is the specific term for length of life, a major area of future medical research.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -688,13 +688,13 @@
       "context": "Digital currency.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Cash",
           "is_correct": false,
           "feedback": "Incorrect. Physical."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Cryptocurrency",
           "is_correct": true,
           "feedback": "Correct. The specific digital term."
@@ -712,7 +712,7 @@
           "feedback": "Incorrect. Too broad."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "'Cryptocurrency' is the specific name for the decentralized digital payment systems.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -733,13 +733,13 @@
       "context": "Reporting a future prediction.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "will",
           "is_correct": false,
           "feedback": "Incorrect. Backshifted in reported speech."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "would",
           "is_correct": true,
           "feedback": "Correct. Backshifted from 'will' to 'would'."
@@ -757,7 +757,7 @@
           "feedback": "Incorrect. Backshifted to 'could'."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "In reported speech, we change 'will' to 'would' when the reporting verb is in the past tense.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -868,19 +868,19 @@
       "context": "Final thought on future ethics.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "ethics",
           "is_correct": true,
           "feedback": "Correct. Moral principles that govern behavior."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "speed",
           "is_correct": false,
           "feedback": "Incorrect. Speed is part of technology, but not the 'guide'."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "profit",
           "is_correct": false,
           "feedback": "Incorrect. Profit is a guide for business, but the 'challenge' is usually about higher principles."
@@ -892,7 +892,7 @@
           "feedback": "Incorrect. Curiosity drives the progress, but ethics must guide its application."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "'Ethics' refers to the moral framework necessary to ensure that technology is used for the benefit of humanity.",
       "difficulty": "10",
       "images": [],

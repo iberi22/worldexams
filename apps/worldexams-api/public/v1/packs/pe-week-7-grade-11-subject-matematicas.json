@@ -13,13 +13,13 @@
       "context": "Un estudiante de Arequipa repasa temas de tema-w07 como parte de su preparación para postular a la UNT.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$2$",
           "is_correct": true,
           "feedback": "Correcto. Despejando obtenemos la diferencia exacta."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$10$",
           "is_correct": false,
           "feedback": "Incorrecto. Se sumaron las constantes en lugar de restar."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Error de signo al transponer términos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Para hallar el valor de $x$, restamos 4 a ambos lados de la ecuación: $x = 6 - 4 = 2$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -103,31 +103,31 @@
       "context": "Un estudiante de Iquitos repasa temas de tema-w07 como parte de su preparación para postular a la UNI.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Restar 4 a ambos miembros y luego dividir entre 3, obteniendo $x = 6$.",
           "is_correct": true,
           "feedback": "Correcto. Esta secuencia de pasos cancela el término independiente 4 y luego el coeficiente 3."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Dividir entre 3 antes de restar 4, lo cual es incorrecto.",
           "is_correct": false,
           "feedback": "Incorrecto. Si dividimos entre 3 primero, tendríamos que dividir también el término independiente 4."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Restar 3 a ambos miembros, lo cual es incorrecto.",
           "is_correct": false,
           "feedback": "Incorrecto. El número 3 está multiplicando a la variable, no sumando."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Sumar 4 a ambos lados de la ecuación lineal.",
           "is_correct": false,
           "feedback": "Incorrecto. Se debe restar 4 a ambos lados para anular el término sumado."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Para resolver la ecuación, primero eliminamos la constante sumada aplicando la operación opuesta: $3x = 18$. Luego dividimos ambos lados entre el coeficiente de la variable: $x = 6$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -193,13 +193,13 @@
       "context": "Un estudiante de Huaraz repasa temas de tema-w07 como parte de su preparación para postular a la UNSCH.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$4$",
           "is_correct": true,
           "feedback": "Correcto. Restando exponentes obtenemos la potencia al cuadrado de la base."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$2$",
           "is_correct": false,
           "feedback": "Incorrecto. Error de simplificación al restar exponentes."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. Error de cálculo aritmético."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Por leyes de exponentes de la división de bases iguales, restamos el exponente del denominador del exponente del numerador: $2^{b+2-b} = 2^2 = 4$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -283,31 +283,31 @@
       "context": "Un estudiante de Moquegua repasa temas de tema-w07 como parte de su preparación para postular a la UNSA.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "S/ 68",
           "is_correct": true,
           "feedback": "Correcto. Restamos el gasto total de la denominación del billete de pago."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "S/ 73",
           "is_correct": false,
           "feedback": "Incorrecto. Error en la suma de los consumos realizados."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "S/ 84",
           "is_correct": false,
           "feedback": "Incorrecto. No se restó el gasto de las verduras."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "S/ 63",
           "is_correct": false,
           "feedback": "Incorrecto. Error aritmético en la sustracción."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El gasto total es la suma de ambos rubros: 16 + 16 = 32 soles. El vuelto es la diferencia respecto a 100: 100 - 32 = 68 soles.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -373,19 +373,19 @@
       "context": "Un estudiante de Piura repasa temas de tema-w07 como parte de su preparación para postular a la Udep.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$6$",
           "is_correct": true,
           "feedback": "Correcto. El valor absoluto de la diferencia es el módulo de 3 menos la suma 3 más 6, que resulta en el valor absoluto de menos 6, es decir, 6."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$-6$",
           "is_correct": false,
           "feedback": "Incorrecto. El valor absoluto de cualquier expresión real es siempre un número no negativo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$12$",
           "is_correct": false,
           "feedback": "Incorrecto. Se sumaron las cantidades en lugar de restarlas."
@@ -397,7 +397,7 @@
           "feedback": "Incorrecto. Error aritmético en la resolución del módulo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La diferencia es $3 - (9) = -6$. El valor absoluto de este resultado negativo es su opuesto positivo, es decir, $6$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -418,31 +418,31 @@
       "context": "Un estudiante de Puno repasa temas de tema-w07 como parte de su preparación para postular a la PUCP.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$3.00$",
           "is_correct": true,
           "feedback": "Correcto. Multiplicamos de forma cruzada para despejar la variable del numerador."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$4.00$",
           "is_correct": false,
           "feedback": "Incorrecto. Error en la multiplicación de los factores cruzados."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$2.00$",
           "is_correct": false,
           "feedback": "Incorrecto. Error en la división de los coeficientes."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$16.00$",
           "is_correct": false,
           "feedback": "Incorrecto. Se multiplicaron denominadores incorrectos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Multiplicamos por 4 en ambos lados de la ecuación de proporcionalidad para despejar $y$: $y = \\frac{4 \\cdot 3}{4} = \\frac{12}{4} = 3.00$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -463,13 +463,13 @@
       "context": "Un estudiante de Ica repasa temas de tema-w07 como parte de su preparación para postular a la UNT.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$6$",
           "is_correct": true,
           "feedback": "Correcto. La suma de coeficientes de un polinomio es equivalente a evaluarlo en $x = 1$, dando 2 más 4 igual a 6."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$8$",
           "is_correct": false,
           "feedback": "Incorrecto. Se multiplicaron los coeficientes en lugar de sumarlos."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto. Suma aritmética errónea."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La suma de coeficientes se halla evaluando el polinomio para la variable en 1: $P(1) = 2(1) + 4 = 2 + 4 = 6$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -508,31 +508,31 @@
       "context": "Un estudiante de Ayacucho repasa temas de tema-w07 como parte de su preparación para postular a la UNSAAC.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$3$",
           "is_correct": true,
           "feedback": "Correcto. Un triángulo equilátero tiene tres lados iguales, por lo que cada lado mide la tercera parte de su perímetro, dando 3."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$4$",
           "is_correct": false,
           "feedback": "Incorrecto. Longitud inconsistente con la definición de equilátero de este perímetro."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$6$",
           "is_correct": false,
           "feedback": "Incorrecto. Excede el perímetro total al sumar dos lados de esta medida."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$2$",
           "is_correct": false,
           "feedback": "Incorrecto. Valor que generaría un perímetro menor al real."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El perímetro de un triángulo equilátero de lado $L$ es $3L$. Sabiendo que el perímetro es $9$ m, planteamos $3L = 9 \\Rightarrow L = 3$ m.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -553,19 +553,19 @@
       "context": "Un estudiante de Pucallpa repasa temas de tema-w07 como parte de su preparación para postular a la UNI.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$\\mathbb{R} - \\{6\\}$",
           "is_correct": true,
           "feedback": "Correcto. El denominador no puede ser cero, por lo que se debe excluir el valor de x = 6."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\mathbb{R}$",
           "is_correct": false,
           "feedback": "Incorrecto. El valor de x causa una división indeterminada por cero."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\langle 6, +\\infty \\rangle$",
           "is_correct": false,
           "feedback": "Incorrecto. La función también está perfectamente definida para valores reales menores que 6."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. Error de signo al hallar el punto de discontinuidad del denominador."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Para que la función racional esté definida en el campo real, el denominador debe ser diferente de cero: x - 6 \\ne 0 \\Rightarrow x \\ne 6.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -598,13 +598,13 @@
       "context": "Un estudiante de Lima repasa temas de tema-w07 como parte de su preparación para postular a la UNPRG.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$0$",
           "is_correct": true,
           "feedback": "Correcto. Evaluando el polinomio para y = a resulta cero."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$2$",
           "is_correct": false,
           "feedback": "Incorrecto. Error de cálculo en los productos parciales."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. Error aritmético en las adiciones."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Sustituimos el valor de $y = 2$ en el polinomio cuadrático: P(2) = 2^2 - 5(2) + 6 = 0.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -643,13 +643,13 @@
       "context": "Un estudiante de Trujillo repasa temas de tema-w07 como parte de su preparación para postular a la UNSCH.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$4$",
           "is_correct": true,
           "feedback": "Correcto. Sumando ambas ecuaciones para eliminar la variable y."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$3$",
           "is_correct": false,
           "feedback": "Incorrecto. Este corresponde al valor de la variable y, no de x."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. Corresponde a la diferencia de las variables, no al valor de x."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Sumamos miembro a miembro las dos ecuaciones lineales del sistema para eliminar y: 2x = 8 \\Rightarrow x = 4.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -688,19 +688,19 @@
       "context": "Un estudiante de Huancayo repasa temas de tema-w07 como parte de su preparación para postular a la UNMSM.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$1$",
           "is_correct": true,
           "feedback": "Correcto. El discriminante se calcula como b^2 - 4ac."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$3$",
           "is_correct": false,
           "feedback": "Incorrecto. Error al restar el término cuadrático del discriminante."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$-1$",
           "is_correct": false,
           "feedback": "Incorrecto. Error en los signos del producto de los coeficientes."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. Se olvidó restar el término de la fórmula fundamental."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El discriminante de una ecuación cuadrática is b^2 - 4ac. Aquí es 81 - 4(20) = 1.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -733,31 +733,31 @@
       "context": "Un estudiante de Chimbote repasa temas de tema-w07 como parte de su preparación para postular a la UNSA.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$1$",
           "is_correct": true,
           "feedback": "Correcto. Por definición, el producto de cualquier número real no nulo y su inverso multiplicativo es 1."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$2$",
           "is_correct": false,
           "feedback": "Incorrecto. Ese es el número original, no el producto con su recíproco."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$0.50$",
           "is_correct": false,
           "feedback": "Incorrecto. Corresponde al inverso aditivo o multiplicativo individual."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "No se puede determinar",
           "is_correct": false,
           "feedback": "Incorrecto. El producto es constante e independiente del número real elegido."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Por definición del inverso multiplicativo, el producto de un número no nulo y su recíproco siempre es igual a 1.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -778,19 +778,19 @@
       "context": "Un estudiante de Tacna repasa temas de tema-w07 como parte de su preparación para postular a la UNALM.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$6$",
           "is_correct": true,
           "feedback": "Correcto. Por Cardano-Vieta, la suma de raíces es -b/a."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$-6$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidó cambiar el signo del término lineal."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$9$",
           "is_correct": false,
           "feedback": "Incorrecto. Este corresponde al producto de las raíces."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. Error aritmético al aplicar la fórmula."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Las relaciones de Cardano-Vieta establecen que para una ecuación cuadrática ax^2 + bx + c = 0, la suma de raíces es -b/a = 6.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -823,19 +823,19 @@
       "context": "Un estudiante de Huanuco repasa temas de tema-w07 como parte de su preparación para postular a la Udep.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$64$ metros cuadrados",
           "is_correct": true,
           "feedback": "Correcto. El área máxima para un perímetro dado se logra cuando la figura es un cuadrado."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$60$ metros cuadrados",
           "is_correct": false,
           "feedback": "Incorrecto. Corresponde a una configuración rectangular desigual subóptima."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$68$ metros cuadrados",
           "is_correct": false,
           "feedback": "Incorrecto. Un perímetro de la magnitud dada no puede encerrar un área rectangular de valor superior al máximo."
@@ -847,7 +847,7 @@
           "feedback": "Incorrecto. Subestimación del área máxima."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Sean los lados x e y. El perímetro es 2(x+y) = 32 \\Rightarrow x+y = 16. El área máxima se da cuando x = y = 8, resultando en 64 metros cuadrados.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -868,19 +868,19 @@
       "context": "Un estudiante de Chachapoyas repasa temas de tema-w07 como parte de su preparación para postular a la PUCP.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$(2, 5)$",
           "is_correct": true,
           "feedback": "Correcto. Completando cuadrados: f(x) = (x - a)^2 + b."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$(-2, 5)$",
           "is_correct": false,
           "feedback": "Incorrecto. Error de signo al despejar la coordenada horizontal h."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$(2, -5)$",
           "is_correct": false,
           "feedback": "Incorrecto. Error de signo al determinar la coordenada vertical k."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. Coordenadas mal identificadas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Escribimos la función como: f(x) = (x - 2)^2 + 5. En esta forma, el vértice es (2, 5).",
       "difficulty": "10",
       "images": [],

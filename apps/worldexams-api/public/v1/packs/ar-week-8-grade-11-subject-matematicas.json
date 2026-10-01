@@ -19,25 +19,25 @@
           "feedback": "Incorrecto. El cociente constante define a la razón de una progresión geométrica."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Es el valor constante que se suma a cada término para obtener el siguiente.",
           "is_correct": true,
           "feedback": "Correcto. Por definición, en una progresión aritmética, cada término se obtiene sumando un valor constante $d$ al término anterior ($a_n = a_{n-1} + d$)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Es la suma total de los primeros $N$ términos de la sucesión.",
           "is_correct": false,
           "feedback": "Incorrecto. Este concepto corresponde a la suma de la progresión ($S_n$)."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Es el exponente al que se eleva la variable independiente.",
           "is_correct": false,
           "feedback": "Incorrecto. Las progresiones aritméticas tienen un comportamiento lineal, no potencial."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Una progresión aritmética es una sucesión de números reales en la que la diferencia entre dos términos consecutivos cualesquiera es constante. Esta constante se denomina diferencia común.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -58,13 +58,13 @@
       "context": "Matías analiza la rapidez con la que crecen las progresiones geométricas en Córdoba.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La diferencia común de la sucesión.",
           "is_correct": false,
           "feedback": "Incorrecto. La diferencia se asocia a las progresiones aritméticas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La razón de la progresión geométrica.",
           "is_correct": true,
           "feedback": "Correcto. En una progresión geométrica, cada término se obtiene multiplicando el anterior por una constante llamada razón de la progresión ($a_n = a_{n-1} \\cdot r$)."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. La razón determina si converge, pero no es el límite en sí."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La razón de una progresión geométrica es el factor constante por el cual se multiplica cada término para generar el término inmediato siguiente.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -109,13 +109,13 @@
           "feedback": "Incorrecto. El primer término es la constante $a_1$."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "El valor de la diferencia común entre términos.",
           "is_correct": false,
           "feedback": "Incorrecto. La diferencia es la constante $d$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La posición o índice del término dentro de la sucesión.",
           "is_correct": true,
           "feedback": "Correcto. La variable $n$ es un número entero positivo que indica el lugar o posición del término $a_n$ en la secuencia."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. Las sucesiones pueden ser infinitas."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "En la fórmula explícita de una sucesión, el índice $n \\in \\mathbb{N}$ determina la posición ordinal de cada término en la secuencia secuencial de valores.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -154,13 +154,13 @@
           "feedback": "Incorrecto. Si $r > 1$, la serie diverge y la suma tiende a infinito."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Cuando el valor absoluto de la razón es estrictamente menor que uno ($|r| < 1$).",
           "is_correct": true,
           "feedback": "Correcto. Si $-1 < r < 1$, las potencias de la razón tienden a cero a medida que sumamos infinitos términos, permitiendo calcular la suma exacta como $S = \\frac{a_1}{1 - r}$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Únicamente si la razón es igual a cero ($r = 0$).",
           "is_correct": false,
           "feedback": "Incorrecto. Para $r=0$ la serie se anula de inmediato, pero existen infinitos valores decimales que también convergen."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. En este caso la serie oscila divergiendo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Una serie geométrica infinita converge a un valor numérico finito si y solo si la razón se halla estrictamente contenida entre $-1$ y $1$, lo que se expresa como $|r| < 1$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -193,13 +193,13 @@
       "context": "Lucía analiza las cuotas mensuales constantes de un plan de pagos en Rosario.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Que los términos alternan de signo de manera regular.",
           "is_correct": false,
           "feedback": "Incorrecto. Las progresiones aritméticas comunes no alternan de signo si la diferencia es constante positiva."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Que la suma de términos equidistantes de los extremos es constante.",
           "is_correct": true,
           "feedback": "Correcto. La suma de los términos simétricos respecto al centro de la progresión siempre es constante y es igual a la suma del primer y del último término ($a_1 + a_n$)."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. La diferencia $d$ es una constante no nula."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El método desarrollado por Gauss para sumar progresiones se basa en el principio de que los pares de términos equidistantes de los extremos tienen una suma idéntica y constante a la suma de $a_1 + a_n$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -244,13 +244,13 @@
           "feedback": "Incorrecto. En este caso la progresión es creciente."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Cuando la diferencia común es negativa ($d < 0$).",
           "is_correct": true,
           "feedback": "Correcto. Si sumamos un valor negativo, cada término será estrictamente menor que su antecesor ($a_n < a_{n-1}$), haciendo decrecer a la progresión."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Únicamente si el primer término es menor que cero ($a_1 < 0$).",
           "is_correct": false,
           "feedback": "Incorrecto. El signo del primer término no determina el crecimiento o decrecimiento de la serie."
@@ -262,7 +262,7 @@
           "feedback": "Incorrecto. Esto generaría un crecimiento lineal simple."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El signo de la diferencia común $d$ rige de forma absoluta la monotonía de una progresión aritmética. Si $d > 0$ es creciente, si $d < 0$ es decreciente, y si $d = 0$ es constante.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -289,13 +289,13 @@
           "feedback": "Incorrecto. Se cometió un error en el valor del índice al aplicar la fórmula."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$68\\text{ asientos}$",
           "is_correct": true,
           "feedback": "Correcto. Identificamos la progresión: $a_1 = 12$, $d = 4$. Aplicando la fórmula: $a_{15} = 12 + (15 - 1) \\cdot 4 = 12 + 14 \\cdot 4 = 12 + 56 = 68$ asientos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$60\\text{ asientos}$",
           "is_correct": false,
           "feedback": "Incorrecto. Se sumaron de manera errónea las cantidades."
@@ -307,7 +307,7 @@
           "feedback": "Incorrecto. No respeta la posición secuencial exacta de la fila 15."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La cantidad de asientos forma una progresión aritmética con término inicial $12$ y diferencia común $4$. Aplicando la fórmula explícita para la posición $n=15$, se obtiene $a_{15} = 12 + 14 \\cdot 4 = 68$ asientos.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -379,25 +379,25 @@
           "feedback": "Incorrecto. Se aplicó una progresión lineal en lugar de geométrica."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$486\\text{ computadoras}$",
           "is_correct": true,
           "feedback": "Correcto. Es una progresión geométrica con $a_1 = 2$ y $r = 3$. El sexto término es $a_6 = a_1 \\cdot r^{6-1} = 2 \\cdot 3^5 = 2 \\cdot 243 = 486$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$1458\\text{ computadoras}$",
           "is_correct": false,
           "feedback": "Incorrecto. Esto sería el cálculo para el séptimo día ($a_7$)."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$324\\text{ computadoras}$",
           "is_correct": false,
           "feedback": "Incorrecto. Se calculó de manera errónea la potencia de la razón."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La cantidad de nuevas computadoras infectadas diariamente se modela mediante una progresión geométrica de razón $r=3$ y término inicial $a_1=2$. Para la posición $n=6$, resulta $a_6 = 2 \\cdot 3^5 = 486$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -424,25 +424,25 @@
           "feedback": "Incorrecto. Dado que la razón es $1/2 < 1$, la serie es perfectamente convergente."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "La suma es exactamente igual a $2$.",
           "is_correct": true,
           "feedback": "Correcto. Es una serie geométrica infinita con $a_1 = 1$ y razón $r = 1/2$. Usando la fórmula de la suma infinita: $S = \\frac{1}{1 - 1/2} = \\frac{1}{1/2} = 2$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La suma es exactamente igual a $1,5$.",
           "is_correct": false,
           "feedback": "Incorrecto. Esto es solo la suma de los dos primeros términos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La suma es igual a $3$.",
           "is_correct": false,
           "feedback": "Incorrecto. Se operó de forma incorrecta el divisor."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Para una serie geométrica infinita convergente, la suma de todos sus términos se determina mediante la fórmula $S = \\frac{a_1}{1-r}$. Sustituyendo $a_1 = 1$ y $r = \\frac{1}{2}$, se obtiene que la suma converge exactamente al valor de $2$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -469,13 +469,13 @@
           "feedback": "Incorrecto. No consideró de forma correcta la progresión acumulada."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$\\$16200$",
           "is_correct": true,
           "feedback": "Correcto. Progresión aritmética: $a_1 = 100, d = 50, n = 24$. El depósito 24 es $a_{24} = 100 + 23 \\cdot 50 = 1250$. La suma es $S_{24} = \\frac{(100 + 1250) \\cdot 24}{2} = 1350 \\cdot 12 = 16200$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\$15000$",
           "is_correct": false,
           "feedback": "Incorrecto. Error de cálculo en la suma total acumulada."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto. Esto resultaría de sumas estimadas por encima de la progresión real."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Los depósitos forman una progresión aritmética con $a_1 = 100$ y $d = 50$. El vigésimo cuarto término es $a_{24} = 1250$. Sumando estos $24$ términos mediante la fórmula correspondiente, resulta un capital acumulado de $\\$16200$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -559,25 +559,25 @@
           "feedback": "Incorrecto. La razón es menor que 1, por lo que la serie es convergente."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Es convergente y su suma infinita es exactamente igual a $2$.",
           "is_correct": true,
           "feedback": "Correcto. Serie geométrica con primer término $a_1 = 2/3$ (para $n=1$) y razón $r = 2/3$. Suma: $S = \\frac{2/3}{1 - 2/3} = \\frac{2/3}{1/3} = 2$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Es convergente y su suma infinita es igual a $3$.",
           "is_correct": false,
           "feedback": "Incorrecto. Error al evaluar el primer término de la serie (comienza en $n=1$)."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Es oscilante y no se puede definir su suma.",
           "is_correct": false,
           "feedback": "Incorrecto. Los términos son estrictamente positivos y decrecientes."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Dado que la razón de la serie geométrica es $r = 2/3$, y cumple que $|r| < 1$, la serie es convergente. Su primer término es $a_1 = 2/3$. Aplicando la fórmula de la suma infinita se obtiene que converge a exactamente $2$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -604,13 +604,13 @@
           "feedback": "Incorrecto. Con 5 paredes la potencia es $64 / 2^5 = 64/32 = 2\\\\text{ mW}$, que sigue siendo mayor que 1."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Como mínimo 7 paredes.",
           "is_correct": true,
           "feedback": "Correcto. La potencia tras $n$ paredes es $P(n) = 64 \\cdot (1/2)^n$. Buscamos $64 \\cdot (1/2)^n < 1 \\Rightarrow (1/2)^n < 1/64 \\Rightarrow 2^n > 64 \\Rightarrow n > 6$. Al ser un número entero de paredes, el valor mínimo es 7."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Como mínimo 6 paredes.",
           "is_correct": false,
           "feedback": "Incorrecto. Con 6 paredes la potencia es exactamente de 1 mW, pero se pide estrictamente menor."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. Excede el número mínimo de paredes requeridas para atenuar la señal por debajo del límite de 1 mW."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La atenuación se modela como una progresión geométrica decreciente de razón $r = \\frac{1}{2}$. Planteamos la desigualdad $64 \\cdot (\\frac{1}{2})^n < 1 \\Rightarrow 2^n > 64 \\Rightarrow n > 6$. Al requerirse que sea estrictamente menor, se necesitan al menos $7$ paredes.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -694,13 +694,13 @@
           "feedback": "Incorrecto. Estos corresponden a las posiciones 5 y 6 de la sucesión."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$a_6 = 8, a_7 = 13$",
           "is_correct": true,
           "feedback": "Correcto. Los términos sucesivos de la secuencia son: $a_1=1, a_2=1, a_3=2, a_4=3, a_5=5, a_6=8, a_7=13$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$a_6 = 13, a_7 = 21$",
           "is_correct": false,
           "feedback": "Incorrecto. Estos valores corresponden a las posiciones 7 y 8."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. Fibonacci no se define como una progresión aritmética simple de diferencia 1."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La sucesión de Fibonacci se construye sumando los dos términos anteriores para generar el siguiente: $1, 1, 2, 3, 5, 8, 13$. El sexto término es $8$ y el séptimo es $13$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -733,13 +733,13 @@
       "context": "Nicolas utiliza series geométricas para expresar números periódicos como fracciones exactas en Corrientes.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$\\frac{23}{100}$",
           "is_correct": false,
           "feedback": "Incorrecto. Esto representaría al decimal exacto $0,23$, no al periódico puro."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\frac{23}{99}$",
           "is_correct": true,
           "feedback": "Correcto. Escribimos como serie: $\\frac{23}{100} + \\frac{23}{10000} + \\dots$ con $a_1 = \\frac{23}{100}$ y razón $r = \\frac{1}{100}$. Suma: $S = \\frac{23/100}{1 - 1/100} = \\frac{23/100}{99/100} = \\frac{23}{99}$."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. Esta fracción equivale al número decimal $0,666\\dots$."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Un decimal periódico se puede modelar como una suma de infinitas fracciones decimales simétricas. Al aplicar la fórmula de la serie geométrica infinita convergente se obtiene de manera analítica la fracción generatriz $\\frac{23}{99}$.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -784,25 +784,25 @@
           "feedback": "Incorrecto. Esto describiría un modelo de interés simple con crecimiento lineal, no compuesto."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$a_n = 1000 \\cdot (1,05)^n$",
           "is_correct": true,
           "feedback": "Correcto. En el interés compuesto el capital se multiplica mensualmente por el factor de crecimiento $1 + i = 1,05$, lo que constituye una progresión geométrica de la forma $a_n = P_0 \\cdot (1 + i)^n$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$a_n = 1000 \\cdot (0,05)^n$",
           "is_correct": false,
           "feedback": "Incorrecto. La base menor a 1 indicaría un decrecimiento severo del capital."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$a_n = 1000 \\cdot (1,5)^n$",
           "is_correct": false,
           "feedback": "Incorrecto. El factor de crecimiento correspondería a un interés del $50\\%$ mensual."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El interés compuesto capitaliza los intereses generados mes a mes, de modo que el capital crece de forma geométrica exponencial de acuerdo con la fórmula clásica de capitalización financiera $a_n = C_0 (1 + i)^n$.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -874,25 +874,25 @@
           "feedback": "Incorrecto. La matemática moderna demuestra que el alcance ocurre en un punto de tiempo finito."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "La paradoja se resuelve al demostrar que una suma infinita de intervalos de tiempo decrecientes puede dar como resultado un valor de tiempo total finito, instante exacto en el que ocurre el alcance.",
           "is_correct": true,
           "feedback": "Correcto. Aunque el número de intervalos de aproximación sea infinito, al formar una serie geométrica decreciente convergente ($|r| < 1$), la suma del tiempo total requerido converge a un valor finito de tiempo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La paradoja se resuelve porque la distancia recorrida es una progresión aritmética estrictamente creciente.",
           "is_correct": false,
           "feedback": "Incorrecto. La distancia recorrida por Zenón forma una serie geométrica convergente, no una serie aritmética infinita divergente."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El dilema no tiene solución matemática y solo puede explicarse mediante posturas de la filosofía clásica.",
           "is_correct": false,
           "feedback": "Incorrecto. El cálculo de límites y series converge resolviendo de manera absoluta el dilema."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Zenón planteaba que una suma infinita de lapsos de tiempo debía prolongarse indefinidamente hasta el infinito. El análisis de límites y series demuestra de manera contundente que una suma infinita de términos decrecientes puede converger de forma absoluta a una cantidad de tiempo finita y exacta.",
       "difficulty": "10",
       "images": [],

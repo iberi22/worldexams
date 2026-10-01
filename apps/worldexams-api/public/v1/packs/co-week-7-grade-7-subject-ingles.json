@@ -13,13 +13,13 @@
       "context": "Describing a person's height.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Thin",
           "is_correct": false,
           "feedback": "Incorrect. \"Thin\" is the opposite of \"fat\" or \"heavy\"."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Short",
           "is_correct": true,
           "feedback": "Correct! \"Short\" refers to someone with little height."
@@ -37,7 +37,7 @@
           "feedback": "Incorrect. \"Big\" is the opposite of \"small\"."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "The student identifies basic antonyms for physical descriptions.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -65,25 +65,25 @@
           "feedback": "Incorrect. This refers to length, not shape."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Curly",
           "is_correct": true,
           "feedback": "Correct! \"Curly\" describes hair with curves or spirals."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Blond",
           "is_correct": false,
           "feedback": "Incorrect. This refers to color."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Dark",
           "is_correct": false,
           "feedback": "Incorrect. This refers to color."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "The student identifies specific vocabulary for hair types.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -151,13 +151,13 @@
       "context": "Describing eyes using the verb \"have\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "I am green eyes.",
           "is_correct": false,
           "feedback": "Incorrect. You don't \"be\" a color of eyes; you \"have\" them."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "I have green eyes.",
           "is_correct": true,
           "feedback": "Correct! We use the verb \"have\" for body features like eyes and hair."
@@ -175,7 +175,7 @@
           "feedback": "Incorrect. In English, the adjective (green) comes before the noun (eyes)."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "The student understands the grammatical structure for describing physical features (verb have + adjective + noun).\n\n---",
       "difficulty": "6",
       "images": [],
@@ -197,31 +197,31 @@
       "context": "Describing a family member.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "has / is",
           "is_correct": true,
           "feedback": "Correct! \"Has\" for hair (possession) and \"is\" for personality (state)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "is / has",
           "is_correct": false,
           "feedback": "Incorrect. The verbs are in the wrong places."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "has / has",
           "is_correct": false,
           "feedback": "Incorrect. You \"are\" friendly, you don't \"have\" friendly."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "is / is",
           "is_correct": false,
           "feedback": "Incorrect. You \"have\" hair, you don't \"be\" hair."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "The student applies the correct usage of \"be\" and \"have\" in descriptions.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -243,19 +243,19 @@
       "context": "A description of a missing person.\n\n\"The boy is 12 years old. He has short, blond hair and blue eyes. He is wearing a red t-shirt. He is very shy.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "He has blond hair.",
           "is_correct": false,
           "feedback": "Incorrect. This is a physical description, not a personality trait."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "He is wearing a red t-shirt.",
           "is_correct": false,
           "feedback": "Incorrect. This is about his clothes."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "He is shy.",
           "is_correct": true,
           "feedback": "Correct! Being \"shy\" is a personality trait."
@@ -267,7 +267,7 @@
           "feedback": "Incorrect. This is his age."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "The student applies the distinction between physical description, clothing, and personality traits.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "Talking about a funny person.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "serious",
           "is_correct": false,
           "feedback": "Incorrect. Serious is the opposite of funny."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "funny",
           "is_correct": true,
           "feedback": "Correct! Making people laugh is the definition of being funny."
@@ -313,7 +313,7 @@
           "feedback": "Incorrect. Quiet people don't talk much."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "The student applies personality vocabulary based on a behavioral description.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -341,25 +341,25 @@
           "feedback": "Incorrect. Size (long) usually comes before shape (curly)."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "She has long curly black hair.",
           "is_correct": true,
           "feedback": "Correct! The order is usually Size -> Shape -> Color."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "She has black long curly hair.",
           "is_correct": false,
           "feedback": "Incorrect. Color usually comes last among these three."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "She has curly black long hair.",
           "is_correct": false,
           "feedback": "Incorrect. Size should be at the beginning."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "The student analyzes the conventional order of multiple adjectives in English descriptions.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -393,19 +393,19 @@
           "feedback": "Incorrect. Only Mateo loves sports."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Lucas is quiet while Mateo is talkative.",
           "is_correct": true,
           "feedback": "Correct! These are the personality traits mentioned for each."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Lucas is strong and Mateo is thin.",
           "is_correct": false,
           "feedback": "Incorrect. The physical descriptions are reversed."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "The student analyzes a text to distinguish and compare personality traits between two subjects.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -433,13 +433,13 @@
           "feedback": "Incorrect. The text says they \"don't need to be\"."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Personality traits are more valuable than physical appearance in a friendship.",
           "is_correct": true,
           "feedback": "Correct! The text emphasizes honesty, loyalty, and humor over height or looks."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Loyal friends are always funny.",
           "is_correct": false,
           "feedback": "Incorrect. The text lists these as separate qualities, not dependent on each other."
@@ -451,7 +451,7 @@
           "feedback": "Incorrect. The text says physical appearance \"changes\"."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "The student evaluates the core argument of a short reflective text about personal qualities.",
       "difficulty": "10",
       "images": [],

@@ -13,13 +13,13 @@
       "context": "Valentina analiza situaciones académicas en Chillán.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$9/3$",
           "is_correct": true,
           "feedback": "¡Correcto! m = (11 - 2)/(4 - 1) = 9/3."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$3/9$",
           "is_correct": false,
           "feedback": "Incorrecto. Invertiste la relación dividiendo la diferencia en x por la diferencia en y."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Cometiste un error de resta en el denominador."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La pendiente se calcula mediante m = (y2 - y1) / (x2 - x1) = (11 - 2) / (4 - 1) = 9/3.",
       "difficulty": "4",
       "images": [],
@@ -58,13 +58,13 @@
       "context": "Isidora analiza situaciones académicas en Calama.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$9/3$",
           "is_correct": true,
           "feedback": "¡Correcto! m = (12 - 3)/(5 - 2) = 9/3."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$3/9$",
           "is_correct": false,
           "feedback": "Incorrecto. Invertiste la relación dividiendo la diferencia en x por la diferencia en y."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. Cometiste un error de resta en el denominador."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La pendiente se calcula mediante m = (y2 - y1) / (x2 - x1) = (12 - 3) / (5 - 2) = 9/3.",
       "difficulty": "4",
       "images": [],
@@ -103,19 +103,19 @@
       "context": "Martina analiza situaciones académicas en Valdivia.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$9/3$",
           "is_correct": true,
           "feedback": "¡Correcto! m = (13 - 4)/(6 - 3) = 9/3."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$3/9$",
           "is_correct": false,
           "feedback": "Incorrecto. Invertiste la relación dividiendo la diferencia en x por la diferencia en y."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$10/3$",
           "is_correct": false,
           "feedback": "Incorrecto. Cometiste un error de resta en el numerador."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. Cometiste un error de resta en el denominador."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La pendiente se calcula mediante m = (y2 - y1) / (x2 - x1) = (13 - 4) / (6 - 3) = 9/3.",
       "difficulty": "4",
       "images": [],
@@ -238,19 +238,19 @@
       "context": "Matías analiza situaciones académicas en Concepción.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$9/3$",
           "is_correct": true,
           "feedback": "¡Correcto! m = (16 - 7)/(9 - 6) = 9/3."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$3/9$",
           "is_correct": false,
           "feedback": "Incorrecto. Invertiste la relación dividiendo la diferencia en x por la diferencia en y."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$10/3$",
           "is_correct": false,
           "feedback": "Incorrecto. Cometiste un error de resta en el numerador."
@@ -262,7 +262,7 @@
           "feedback": "Incorrecto. Cometiste un error de resta en el denominador."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La pendiente se calcula mediante m = (y2 - y1) / (x2 - x1) = (16 - 7) / (9 - 6) = 9/3.",
       "difficulty": "6",
       "images": [],
@@ -283,31 +283,31 @@
       "context": "Benjamín analiza situaciones académicas en Antofagasta.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$9/3$",
           "is_correct": true,
           "feedback": "¡Correcto! m = (17 - 8)/(10 - 7) = 9/3."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$3/9$",
           "is_correct": false,
           "feedback": "Incorrecto. Invertiste la relación dividiendo la diferencia en x por la diferencia en y."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$10/3$",
           "is_correct": false,
           "feedback": "Incorrecto. Cometiste un error de resta en el numerador."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$9/5$",
           "is_correct": false,
           "feedback": "Incorrecto. Cometiste un error de resta en el denominador."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La pendiente se calcula mediante m = (y2 - y1) / (x2 - x1) = (17 - 8) / (10 - 7) = 9/3.",
       "difficulty": "6",
       "images": [],
@@ -373,13 +373,13 @@
       "context": "Camila analiza situaciones académicas en La Serena.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$9/3$",
           "is_correct": true,
           "feedback": "¡Correcto! m = (19 - 10)/(12 - 9) = 9/3."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$3/9$",
           "is_correct": false,
           "feedback": "Incorrecto. Invertiste la relación dividiendo la diferencia en x por la diferencia en y."
@@ -397,7 +397,7 @@
           "feedback": "Incorrecto. Cometiste un error de resta en el denominador."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La pendiente se calcula mediante m = (y2 - y1) / (x2 - x1) = (19 - 10) / (12 - 9) = 9/3.",
       "difficulty": "6",
       "images": [],
@@ -418,31 +418,31 @@
       "context": "Catalina analiza situaciones académicas en Viña del Mar.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$9/3$",
           "is_correct": true,
           "feedback": "¡Correcto! m = (20 - 11)/(13 - 10) = 9/3."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$3/9$",
           "is_correct": false,
           "feedback": "Incorrecto. Invertiste la relación dividiendo la diferencia en x por la diferencia en y."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$10/3$",
           "is_correct": false,
           "feedback": "Incorrecto. Cometiste un error de resta en el numerador."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$9/5$",
           "is_correct": false,
           "feedback": "Incorrecto. Cometiste un error de resta en el denominador."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La pendiente se calcula mediante m = (y2 - y1) / (x2 - x1) = (20 - 11) / (13 - 10) = 9/3.",
       "difficulty": "6",
       "images": [],
@@ -463,13 +463,13 @@
       "context": "Sofía analiza situaciones académicas en Iquique.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$9/3$",
           "is_correct": true,
           "feedback": "¡Correcto! m = (21 - 12)/(14 - 11) = 9/3."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$3/9$",
           "is_correct": false,
           "feedback": "Incorrecto. Invertiste la relación dividiendo la diferencia en x por la diferencia en y."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto. Cometiste un error de resta en el denominador."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La pendiente se calcula mediante m = (y2 - y1) / (x2 - x1) = (21 - 12) / (14 - 11) = 9/3.",
       "difficulty": "8",
       "images": [],
@@ -508,19 +508,19 @@
       "context": "Lucas analiza situaciones académicas en Rancagua.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$9/3$",
           "is_correct": true,
           "feedback": "¡Correcto! m = (22 - 13)/(15 - 12) = 9/3."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$3/9$",
           "is_correct": false,
           "feedback": "Incorrecto. Invertiste la relación dividiendo la diferencia en x por la diferencia en y."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$10/3$",
           "is_correct": false,
           "feedback": "Incorrecto. Cometiste un error de resta en el numerador."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. Cometiste un error de resta en el denominador."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La pendiente se calcula mediante m = (y2 - y1) / (x2 - x1) = (22 - 13) / (15 - 12) = 9/3.",
       "difficulty": "8",
       "images": [],
@@ -553,19 +553,19 @@
       "context": "Diego analiza situaciones académicas en Talca.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$9/3$",
           "is_correct": true,
           "feedback": "¡Correcto! m = (23 - 14)/(16 - 13) = 9/3."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$3/9$",
           "is_correct": false,
           "feedback": "Incorrecto. Invertiste la relación dividiendo la diferencia en x por la diferencia en y."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$10/3$",
           "is_correct": false,
           "feedback": "Incorrecto. Cometiste un error de resta en el numerador."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. Cometiste un error de resta en el denominador."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La pendiente se calcula mediante m = (y2 - y1) / (x2 - x1) = (23 - 14) / (16 - 13) = 9/3.",
       "difficulty": "8",
       "images": [],
@@ -598,19 +598,19 @@
       "context": "Vicente analiza situaciones académicas en Arica.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$9/3$",
           "is_correct": true,
           "feedback": "¡Correcto! m = (24 - 15)/(17 - 14) = 9/3."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$3/9$",
           "is_correct": false,
           "feedback": "Incorrecto. Invertiste la relación dividiendo la diferencia en x por la diferencia en y."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$10/3$",
           "is_correct": false,
           "feedback": "Incorrecto. Cometiste un error de resta en el numerador."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. Cometiste un error de resta en el denominador."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La pendiente se calcula mediante m = (y2 - y1) / (x2 - x1) = (24 - 15) / (17 - 14) = 9/3.",
       "difficulty": "8",
       "images": [],
@@ -643,19 +643,19 @@
       "context": "Sebastián analiza situaciones académicas en Puerto Montt.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$9/3$",
           "is_correct": true,
           "feedback": "¡Correcto! m = (25 - 16)/(18 - 15) = 9/3."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$3/9$",
           "is_correct": false,
           "feedback": "Incorrecto. Invertiste la relación dividiendo la diferencia en x por la diferencia en y."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$10/3$",
           "is_correct": false,
           "feedback": "Incorrecto. Cometiste un error de resta en el numerador."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. Cometiste un error de resta en el denominador."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La pendiente se calcula mediante m = (y2 - y1) / (x2 - x1) = (25 - 16) / (18 - 15) = 9/3.",
       "difficulty": "8",
       "images": [],
@@ -688,13 +688,13 @@
       "context": "Valentina analiza situaciones académicas en Chillán.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$9/3$",
           "is_correct": true,
           "feedback": "¡Correcto! m = (26 - 17)/(19 - 16) = 9/3."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$3/9$",
           "is_correct": false,
           "feedback": "Incorrecto. Invertiste la relación dividiendo la diferencia en x por la diferencia en y."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. Cometiste un error de resta en el denominador."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La pendiente se calcula mediante m = (y2 - y1) / (x2 - x1) = (26 - 17) / (19 - 16) = 9/3.",
       "difficulty": "8",
       "images": [],
@@ -778,19 +778,19 @@
       "context": "Martina analiza situaciones académicas en Valdivia.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$9/3$",
           "is_correct": true,
           "feedback": "¡Correcto! m = (28 - 19)/(21 - 18) = 9/3."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$3/9$",
           "is_correct": false,
           "feedback": "Incorrecto. Invertiste la relación dividiendo la diferencia en x por la diferencia en y."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$10/3$",
           "is_correct": false,
           "feedback": "Incorrecto. Cometiste un error de resta en el numerador."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. Cometiste un error de resta en el denominador."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La pendiente se calcula mediante m = (y2 - y1) / (x2 - x1) = (28 - 19) / (21 - 18) = 9/3.",
       "difficulty": "10",
       "images": [],
@@ -823,31 +823,31 @@
       "context": "Fernanda analiza situaciones académicas en Santiago.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$9/3$",
           "is_correct": true,
           "feedback": "¡Correcto! m = (29 - 20)/(22 - 19) = 9/3."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$3/9$",
           "is_correct": false,
           "feedback": "Incorrecto. Invertiste la relación dividiendo la diferencia en x por la diferencia en y."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$10/3$",
           "is_correct": false,
           "feedback": "Incorrecto. Cometiste un error de resta en el numerador."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$9/5$",
           "is_correct": false,
           "feedback": "Incorrecto. Cometiste un error de resta en el denominador."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La pendiente se calcula mediante m = (y2 - y1) / (x2 - x1) = (29 - 20) / (22 - 19) = 9/3.",
       "difficulty": "10",
       "images": [],
@@ -868,31 +868,31 @@
       "context": "Tomás analiza situaciones académicas en Valparaíso.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$9/3$",
           "is_correct": true,
           "feedback": "¡Correcto! m = (30 - 21)/(23 - 20) = 9/3."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$3/9$",
           "is_correct": false,
           "feedback": "Incorrecto. Invertiste la relación dividiendo la diferencia en x por la diferencia en y."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$10/3$",
           "is_correct": false,
           "feedback": "Incorrecto. Cometiste un error de resta en el numerador."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$9/5$",
           "is_correct": false,
           "feedback": "Incorrecto. Cometiste un error de resta en el denominador."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La pendiente se calcula mediante m = (y2 - y1) / (x2 - x1) = (30 - 21) / (23 - 20) = 9/3.",
       "difficulty": "10",
       "images": [],

@@ -105,19 +105,19 @@
       "context": "En una ciclovia de Cali, una bicicleta recorre $30$ metros en $6$ segundos con movimiento rectilineo uniforme.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$5$ m/s.",
           "is_correct": true,
           "feedback": "Correcto. $v = \\Delta x / \\Delta t = 30\\text{ m} / 6\\text{ s} = 5\\text{ m/s}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$0,2$ m/s.",
           "is_correct": false,
           "feedback": "Incorrecto. Corresponderia a $30 / 150$, valor incorrecto."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$36$ m/s.",
           "is_correct": false,
           "feedback": "Incorrecto. Es la conversion erronea multiplicando en lugar de dividir."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecto. Es el producto $30 \\cdot 6$, sin relacion con la velocidad."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Velocidad media $v = d / t = 30\\text{ m} / 6\\text{ s} = 5\\text{ m/s}$ en el SI.",
       "difficulty": "6",
       "images": [],
@@ -151,19 +151,19 @@
       "context": "En una pista de atletismo de Bucaramanga, una atleta corre $400$ m en $80$ segundos con velocidad constante.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$100$ m.",
           "is_correct": true,
           "feedback": "Correcto. A velocidad constante $v = 400 / 80 = 5\\text{ m/s}$; en $20$ s recorre $5 \\cdot 20 = 100$ m."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$80$ m.",
           "is_correct": false,
           "feedback": "Incorrecto. Corresponde a una proporcion inversa mal aplicada."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$400$ m.",
           "is_correct": false,
           "feedback": "Incorrecto. Es la distancia total en $80$ s, no en $20$ s."
@@ -175,7 +175,7 @@
           "feedback": "Incorrecto. Implicaria una velocidad doble de la real."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "En MRU, $x = v \\cdot t$. Si $v = 5$ m/s y $t = 20$ s, entonces $x = 100$ m.",
       "difficulty": "6",
       "images": [],
@@ -197,19 +197,19 @@
       "context": "En el sistema integrado de transporte masivo TransMilenio de Bogotá, un autobus se desplaza a $40$ km/h constantes por la troncal Caracas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$1,5$ horas.",
           "is_correct": true,
           "feedback": "Correcto. $t = d / v = 60\\text{ km} / 40\\text{ km/h} = 1,5$ h."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$1$ hora.",
           "is_correct": false,
           "feedback": "Incorrecto. Corresponderia a una velocidad de $60$ km/h."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$2,4$ horas.",
           "is_correct": false,
           "feedback": "Incorrecto. Es la inversa multiplicada por $60$: $60 \\cdot 40 = 2400$ min."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto. Corresponde a recorrer $26,7$ km, no $60$ km."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "$t = d / v$: en MRU, el tiempo es directamente proporcional a la distancia e inversamente proporcional a la velocidad.",
       "difficulty": "6",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "En un laboratorio escolar de Pereira, se construye la gráfica posicion-tiempo de un carrito en una pista recta, obteniendose una linea recta ascendente.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Que el cuerpo se mueve con velocidad constante en la misma direccion.",
           "is_correct": true,
           "feedback": "Correcto. La pendiente constante representa una velocidad uniforme."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Que el cuerpo esta en reposo absoluto durante todo el intervalo.",
           "is_correct": false,
           "feedback": "Incorrecto. Si estuviera en reposo, la gráfica seria horizontal en $x$ constante."
@@ -267,7 +267,7 @@
           "feedback": "Incorrecto. Una linea recta continua indica una sola direccion."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "En $x$ vs $t$, una recta con pendiente positiva describe MRU; la pendiente equivale a la velocidad del movil.",
       "difficulty": "8",
       "images": [],
@@ -289,19 +289,19 @@
       "context": "En el puerto de Santa Marta, un ferry viaja a velocidad constante de $15$ m/s y un pasajero camina dentro del barco a $2$ m/s respecto al barco en el mismo sentido.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$17$ m/s en el sentido del movimiento del ferry.",
           "is_correct": true,
           "feedback": "Correcto. $v_{pasajero/costa} = v_{barco/costa} + v_{pasajero/barco} = 15 + 2 = 17$ m/s."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$13$ m/s en sentido contrario al del ferry.",
           "is_correct": false,
           "feedback": "Incorrecto. Es la diferencia, pero solo si el pasajero caminara en sentido contrario."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$0$ m/s porque el pasajero esta dentro del barco.",
           "is_correct": false,
           "feedback": "Incorrecto. El pasajero si se mueve respecto a la costa porque el barco lo arrastra."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecto. La suma es $17$ m/s, no el producto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Suma de velocidades en una dimension: $v_{A/C} = v_{A/B} + v_{B/C}$ cuando los movimientos son en el mismo sentido.",
       "difficulty": "8",
       "images": [],
@@ -381,19 +381,19 @@
       "context": "En una clase de Cartagena, una docente explica la diferencia entre velocidad y rapidez usando el caso de un carro que recorre una pista circular regresando al mismo punto.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Porque la direccion del movimiento cambia en cada instante, alterando el vector velocidad aunque el modulo sea constante.",
           "is_correct": true,
           "feedback": "Correcto. La velocidad es vectorial: depende de modulo y direccion."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque la rapidez siempre cambia aun cuando el carro no acelere.",
           "is_correct": false,
           "feedback": "Incorrecto. En MCU la rapidez permanece constante en modulo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque el carro se detiene momentaneamente en cada punto de la circunferencia.",
           "is_correct": false,
           "feedback": "Incorrecto. No se detiene; cambia de direccion pero mantiene rapidez."
@@ -405,7 +405,7 @@
           "feedback": "Incorrecto. Esa diferencia existe pero no explica el cambio vectorial de velocidad."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Velocidad es vectorial (modulo $+$ direccion $+$ sentido). Si la direccion cambia, el vector velocidad cambia aunque el modulo (rapidez) sea constante.",
       "difficulty": "8",
       "images": [],
@@ -473,19 +473,19 @@
       "context": "En el plan de movilidad de Manizales, se discute reducir el limite de velocidad en zonas escolares de $40$ km/h a $20$ km/h para proteger a los estudiantes.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "La distancia de frenado se reduce aproximadamente a la mitad al diminuir la velocidad a la mitad.",
           "is_correct": true,
           "feedback": "Correcto. En condiciones ideales, distancia proporcional a la velocidad inicial."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La distancia de frenado se duplica al reducir la velocidad.",
           "is_correct": false,
           "feedback": "Incorrecto. La distancia es proporcional a la velocidad, no inversa."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La distancia de frenado no se ve afectada por cambios en la velocidad.",
           "is_correct": false,
           "feedback": "Incorrecto. La distancia depende directamente de la velocidad."
@@ -497,7 +497,7 @@
           "feedback": "Incorrecto. Aumentaria cuatro veces si la velocidad se duplicara, no al reducirla."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "En MRU, distancia de frenado $d = v \\cdot t_{frenado}$. Si $v$ se reduce a la mitad, $d$ también se reduce aproximadamente a la mitad.",
       "difficulty": "10",
       "images": [],
@@ -519,19 +519,19 @@
       "context": "En Neiva, una empresa de drones analiza si su vehiculo aereo no tripulado cumple la norma de velocidad máxima sobre zonas residenciales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Limites de velocidad reducen la energía cinética del impacto, disminuyendo el riesgo de danos a personas y bienes.",
           "is_correct": true,
           "feedback": "Correcto. La energía cinética depende del cuadrado de la velocidad, asi que reducirla disminuye notablemente el riesgo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La velocidad no afecta el riesgo de un drone porque solo importa su tamano.",
           "is_correct": false,
           "feedback": "Incorrecto. La velocidad es critica para la gravedad del impacto."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Los drones urbanos no pueden controlarse y siempre van a alta velocidad.",
           "is_correct": false,
           "feedback": "Incorrecto. Los drones modernos tienen control preciso de velocidad y altitud."
@@ -543,7 +543,7 @@
           "feedback": "Incorrecto. La regulacion de velocidad reduce el riesgo de accidentes."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La energía cinética es proporcional a $v^2$; reducir la velocidad disminuye drasticamente la energía del impacto, mejorando la seguridad.",
       "difficulty": "10",
       "images": [],

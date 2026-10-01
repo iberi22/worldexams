@@ -13,19 +13,19 @@
       "context": "Scenario about verb-to-be-affirmative in a Colombian school or city context.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "is",
           "is_correct": true,
           "feedback": "Correct! Well done."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "am",
           "is_correct": false,
           "feedback": "Incorrect. Please review the topic."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "are",
           "is_correct": false,
           "feedback": "Incorrect. Please review the topic."
@@ -37,7 +37,7 @@
           "feedback": "Incorrect. Please review the topic."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "This question evaluates the student's ability to remember the topic of Verb To Be: Affirmative at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -59,19 +59,19 @@
       "context": "Scenario about verb-to-be-affirmative in a Colombian school or city context.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "are",
           "is_correct": true,
           "feedback": "Correct! Well done."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "am",
           "is_correct": false,
           "feedback": "Incorrect. Please review the topic."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "be",
           "is_correct": false,
           "feedback": "Incorrect. Please review the topic."
@@ -83,7 +83,7 @@
           "feedback": "Incorrect. Please review the topic."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "This question evaluates the student's ability to remember the topic of Verb To Be: Affirmative at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -105,13 +105,13 @@
       "context": "Scenario about verb-to-be-affirmative in a Colombian school or city context.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Do",
           "is_correct": false,
           "feedback": "Incorrect. Please review the topic."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Are",
           "is_correct": true,
           "feedback": "Correct! Well done."
@@ -129,7 +129,7 @@
           "feedback": "Incorrect. Please review the topic."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "This question evaluates the student's ability to understand the topic of Verb To Be: Affirmative at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -157,25 +157,25 @@
           "feedback": "Incorrect. Please review the topic."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "be",
           "is_correct": false,
           "feedback": "Incorrect. Please review the topic."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "are",
           "is_correct": false,
           "feedback": "Incorrect. Please review the topic."
         },
         {
-          "letter": "D",
+          "letter": "B",
           "text": "am",
           "is_correct": true,
           "feedback": "Correct! Well done."
         }
       ],
-      "correct_answer": "D",
+      "correct_answer": "B",
       "explanation": "This question evaluates the student's ability to understand the topic of Verb To Be: Affirmative at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -203,13 +203,13 @@
           "feedback": "Incorrect. Please review the topic."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "are",
           "is_correct": true,
           "feedback": "Correct! Well done."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "am",
           "is_correct": false,
           "feedback": "Incorrect. Please review the topic."
@@ -221,7 +221,7 @@
           "feedback": "Incorrect. Please review the topic."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "This question evaluates the student's ability to apply the topic of Verb To Be: Affirmative at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "Scenario about verb-to-be-affirmative in a Colombian school or city context.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Are",
           "is_correct": true,
           "feedback": "Correct! Well done."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Am",
           "is_correct": false,
           "feedback": "Incorrect. Please review the topic."
@@ -313,7 +313,7 @@
           "feedback": "Incorrect. Please review the topic."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "This question evaluates the student's ability to apply the topic of Verb To Be: Affirmative at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -335,31 +335,31 @@
       "context": "Scenario about verb-to-be-affirmative in a Colombian school or city context.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "is",
           "is_correct": true,
           "feedback": "Correct! Well done."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "are",
           "is_correct": false,
           "feedback": "Incorrect. Please review the topic."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "stay",
           "is_correct": false,
           "feedback": "Incorrect. Please review the topic."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "am",
           "is_correct": false,
           "feedback": "Incorrect. Please review the topic."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "This question evaluates the student's ability to analyze the topic of Verb To Be: Affirmative at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -381,31 +381,31 @@
       "context": "Scenario about verb-to-be-affirmative in a Colombian school or city context.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "are",
           "is_correct": true,
           "feedback": "Correct! Well done."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "be",
           "is_correct": false,
           "feedback": "Incorrect. Please review the topic."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "is",
           "is_correct": false,
           "feedback": "Incorrect. Please review the topic."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "is being",
           "is_correct": false,
           "feedback": "Incorrect. Please review the topic."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "This question evaluates the student's ability to analyze the topic of Verb To Be: Affirmative at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
       "difficulty": "10",
       "images": [],

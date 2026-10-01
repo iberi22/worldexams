@@ -58,13 +58,13 @@
       "context": "Modelo de crecimiento exponencial en producción o demografía Caso N° 2.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Población inicial = $200$, Tasa anual = $5\\%$",
           "is_correct": true,
           "feedback": "Correcto. $P(0) = 200 \\cdot 1 = 200$. La tasa $r$ surge de la base $1 + r = 1,05 \\Rightarrow r = 5\\%$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Población inicial = $0$, Tasa anual = $5\\%$",
           "is_correct": false,
           "feedback": "Incorrecto. $P(0)$ no es cero sino la constante inicial."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. Valores alterados arbitrariamente."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "En la ecuación $P(t) = P_0 (1 + r)^t$, el coeficiente $P_0 = 200$ representa el valor en $t=0$. La base $1 + r = 1,05$ indica una tasa de aumento $r = 5\\%$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -103,19 +103,19 @@
       "context": "Modelo de crecimiento exponencial en producción o demografía Caso N° 3.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Población inicial = $300$, Tasa anual = $6\\%$",
           "is_correct": true,
           "feedback": "Correcto. $P(0) = 300 \\cdot 1 = 300$. La tasa $r$ surge de la base $1 + r = 1,06 \\Rightarrow r = 6\\%$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Población inicial = $0$, Tasa anual = $6\\%$",
           "is_correct": false,
           "feedback": "Incorrecto. $P(0)$ no es cero sino la constante inicial."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Población inicial = $300$, Tasa anual = $1,06\\%$",
           "is_correct": false,
           "feedback": "Incorrecto. La tasa es el porcentaje de exceso sobre el 100% (es decir, sobre 1)."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. Valores alterados arbitrariamente."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "En la ecuación $P(t) = P_0 (1 + r)^t$, el coeficiente $P_0 = 300$ representa el valor en $t=0$. La base $1 + r = 1,06$ indica una tasa de aumento $r = 6\\%$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,19 +148,19 @@
       "context": "Modelo de crecimiento exponencial en producción o demografía Caso N° 4.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Población inicial = $400$, Tasa anual = $7\\%$",
           "is_correct": true,
           "feedback": "Correcto. $P(0) = 400 \\cdot 1 = 400$. La tasa $r$ surge de la base $1 + r = 1,07 \\Rightarrow r = 7\\%$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Población inicial = $0$, Tasa anual = $7\\%$",
           "is_correct": false,
           "feedback": "Incorrecto. $P(0)$ no es cero sino la constante inicial."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Población inicial = $400$, Tasa anual = $1,07\\%$",
           "is_correct": false,
           "feedback": "Incorrecto. La tasa es el porcentaje de exceso sobre el 100% (es decir, sobre 1)."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. Valores alterados arbitrariamente."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "En la ecuación $P(t) = P_0 (1 + r)^t$, el coeficiente $P_0 = 400$ representa el valor en $t=0$. La base $1 + r = 1,07$ indica una tasa de aumento $r = 7\\%$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -193,31 +193,31 @@
       "context": "Modelo de crecimiento exponencial en producción o demografía Caso N° 5.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Población inicial = $500$, Tasa anual = $8\\%$",
           "is_correct": true,
           "feedback": "Correcto. $P(0) = 500 \\cdot 1 = 500$. La tasa $r$ surge de la base $1 + r = 1,08 \\Rightarrow r = 8\\%$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Población inicial = $0$, Tasa anual = $8\\%$",
           "is_correct": false,
           "feedback": "Incorrecto. $P(0)$ no es cero sino la constante inicial."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Población inicial = $500$, Tasa anual = $1,08\\%$",
           "is_correct": false,
           "feedback": "Incorrecto. La tasa es el porcentaje de exceso sobre el 100% (es decir, sobre 1)."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Población inicial = $1000$, Tasa anual = $16\\%$",
           "is_correct": false,
           "feedback": "Incorrecto. Valores alterados arbitrariamente."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "En la ecuación $P(t) = P_0 (1 + r)^t$, el coeficiente $P_0 = 500$ representa el valor en $t=0$. La base $1 + r = 1,08$ indica una tasa de aumento $r = 8\\%$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -238,13 +238,13 @@
       "context": "Modelo de crecimiento exponencial en producción o demografía Caso N° 6.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Población inicial = $600$, Tasa anual = $9\\%$",
           "is_correct": true,
           "feedback": "Correcto. $P(0) = 600 \\cdot 1 = 600$. La tasa $r$ surge de la base $1 + r = 1,09 \\Rightarrow r = 9\\%$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Población inicial = $0$, Tasa anual = $9\\%$",
           "is_correct": false,
           "feedback": "Incorrecto. $P(0)$ no es cero sino la constante inicial."
@@ -262,7 +262,7 @@
           "feedback": "Incorrecto. Valores alterados arbitrariamente."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "En la ecuación $P(t) = P_0 (1 + r)^t$, el coeficiente $P_0 = 600$ representa el valor en $t=0$. La base $1 + r = 1,09$ indica una tasa de aumento $r = 9\\%$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -328,13 +328,13 @@
       "context": "Modelo de crecimiento exponencial en producción o demografía Caso N° 8.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Población inicial = $800$, Tasa anual = $11\\%$",
           "is_correct": true,
           "feedback": "Correcto. $P(0) = 800 \\cdot 1 = 800$. La tasa $r$ surge de la base $1 + r = 1,11 \\Rightarrow r = 11\\%$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Población inicial = $0$, Tasa anual = $11\\%$",
           "is_correct": false,
           "feedback": "Incorrecto. $P(0)$ no es cero sino la constante inicial."
@@ -352,7 +352,7 @@
           "feedback": "Incorrecto. Valores alterados arbitrariamente."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "En la ecuación $P(t) = P_0 (1 + r)^t$, el coeficiente $P_0 = 800$ representa el valor en $t=0$. La base $1 + r = 1,11$ indica una tasa de aumento $r = 11\\%$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -373,31 +373,31 @@
       "context": "Modelo de crecimiento exponencial en producción o demografía Caso N° 9.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Población inicial = $900$, Tasa anual = $12\\%$",
           "is_correct": true,
           "feedback": "Correcto. $P(0) = 900 \\cdot 1 = 900$. La tasa $r$ surge de la base $1 + r = 1,12 \\Rightarrow r = 12\\%$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Población inicial = $0$, Tasa anual = $12\\%$",
           "is_correct": false,
           "feedback": "Incorrecto. $P(0)$ no es cero sino la constante inicial."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Población inicial = $900$, Tasa anual = $1,12\\%$",
           "is_correct": false,
           "feedback": "Incorrecto. La tasa es el porcentaje de exceso sobre el 100% (es decir, sobre 1)."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Población inicial = $1800$, Tasa anual = $24\\%$",
           "is_correct": false,
           "feedback": "Incorrecto. Valores alterados arbitrariamente."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "En la ecuación $P(t) = P_0 (1 + r)^t$, el coeficiente $P_0 = 900$ representa el valor en $t=0$. La base $1 + r = 1,12$ indica una tasa de aumento $r = 12\\%$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -418,31 +418,31 @@
       "context": "Modelo de crecimiento exponencial en producción o demografía Caso N° 10.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Población inicial = $1000$, Tasa anual = $13\\%$",
           "is_correct": true,
           "feedback": "Correcto. $P(0) = 1000 \\cdot 1 = 1000$. La tasa $r$ surge de la base $1 + r = 1,13 \\Rightarrow r = 13\\%$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Población inicial = $0$, Tasa anual = $13\\%$",
           "is_correct": false,
           "feedback": "Incorrecto. $P(0)$ no es cero sino la constante inicial."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Población inicial = $1000$, Tasa anual = $1,13\\%$",
           "is_correct": false,
           "feedback": "Incorrecto. La tasa es el porcentaje de exceso sobre el 100% (es decir, sobre 1)."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Población inicial = $2000$, Tasa anual = $26\\%$",
           "is_correct": false,
           "feedback": "Incorrecto. Valores alterados arbitrariamente."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "En la ecuación $P(t) = P_0 (1 + r)^t$, el coeficiente $P_0 = 1000$ representa el valor en $t=0$. La base $1 + r = 1,13$ indica una tasa de aumento $r = 13\\%$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -508,31 +508,31 @@
       "context": "Modelo de crecimiento exponencial en producción o demografía Caso N° 12.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Población inicial = $1200$, Tasa anual = $15\\%$",
           "is_correct": true,
           "feedback": "Correcto. $P(0) = 1200 \\cdot 1 = 1200$. La tasa $r$ surge de la base $1 + r = 1,15 \\Rightarrow r = 15\\%$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Población inicial = $0$, Tasa anual = $15\\%$",
           "is_correct": false,
           "feedback": "Incorrecto. $P(0)$ no es cero sino la constante inicial."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Población inicial = $1200$, Tasa anual = $1,15\\%$",
           "is_correct": false,
           "feedback": "Incorrecto. La tasa es el porcentaje de exceso sobre el 100% (es decir, sobre 1)."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Población inicial = $2400$, Tasa anual = $30\\%$",
           "is_correct": false,
           "feedback": "Incorrecto. Valores alterados arbitrariamente."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "En la ecuación $P(t) = P_0 (1 + r)^t$, el coeficiente $P_0 = 1200$ representa el valor en $t=0$. La base $1 + r = 1,15$ indica una tasa de aumento $r = 15\\%$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -553,31 +553,31 @@
       "context": "Modelo de crecimiento exponencial en producción o demografía Caso N° 13.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Población inicial = $1300$, Tasa anual = $16\\%$",
           "is_correct": true,
           "feedback": "Correcto. $P(0) = 1300 \\cdot 1 = 1300$. La tasa $r$ surge de la base $1 + r = 1,16 \\Rightarrow r = 16\\%$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Población inicial = $0$, Tasa anual = $16\\%$",
           "is_correct": false,
           "feedback": "Incorrecto. $P(0)$ no es cero sino la constante inicial."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Población inicial = $1300$, Tasa anual = $1,16\\%$",
           "is_correct": false,
           "feedback": "Incorrecto. La tasa es el porcentaje de exceso sobre el 100% (es decir, sobre 1)."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Población inicial = $2600$, Tasa anual = $32\\%$",
           "is_correct": false,
           "feedback": "Incorrecto. Valores alterados arbitrariamente."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "En la ecuación $P(t) = P_0 (1 + r)^t$, el coeficiente $P_0 = 1300$ representa el valor en $t=0$. La base $1 + r = 1,16$ indica una tasa de aumento $r = 16\\%$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -598,13 +598,13 @@
       "context": "Modelo de crecimiento exponencial en producción o demografía Caso N° 14.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Población inicial = $1400$, Tasa anual = $17\\%$",
           "is_correct": true,
           "feedback": "Correcto. $P(0) = 1400 \\cdot 1 = 1400$. La tasa $r$ surge de la base $1 + r = 1,17 \\Rightarrow r = 17\\%$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Población inicial = $0$, Tasa anual = $17\\%$",
           "is_correct": false,
           "feedback": "Incorrecto. $P(0)$ no es cero sino la constante inicial."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. Valores alterados arbitrariamente."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "En la ecuación $P(t) = P_0 (1 + r)^t$, el coeficiente $P_0 = 1400$ representa el valor en $t=0$. La base $1 + r = 1,17$ indica una tasa de aumento $r = 17\\%$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -688,31 +688,31 @@
       "context": "Modelo de crecimiento exponencial en producción o demografía Caso N° 16.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Población inicial = $1600$, Tasa anual = $19\\%$",
           "is_correct": true,
           "feedback": "Correcto. $P(0) = 1600 \\cdot 1 = 1600$. La tasa $r$ surge de la base $1 + r = 1,19 \\Rightarrow r = 19\\%$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Población inicial = $0$, Tasa anual = $19\\%$",
           "is_correct": false,
           "feedback": "Incorrecto. $P(0)$ no es cero sino la constante inicial."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Población inicial = $1600$, Tasa anual = $1,19\\%$",
           "is_correct": false,
           "feedback": "Incorrecto. La tasa es el porcentaje de exceso sobre el 100% (es decir, sobre 1)."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Población inicial = $3200$, Tasa anual = $38\\%$",
           "is_correct": false,
           "feedback": "Incorrecto. Valores alterados arbitrariamente."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "En la ecuación $P(t) = P_0 (1 + r)^t$, el coeficiente $P_0 = 1600$ representa el valor en $t=0$. La base $1 + r = 1,19$ indica una tasa de aumento $r = 19\\%$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -733,31 +733,31 @@
       "context": "Modelo de crecimiento exponencial en producción o demografía Caso N° 17.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Población inicial = $1700$, Tasa anual = $20\\%$",
           "is_correct": true,
           "feedback": "Correcto. $P(0) = 1700 \\cdot 1 = 1700$. La tasa $r$ surge de la base $1 + r = 1,20 \\Rightarrow r = 20\\%$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Población inicial = $0$, Tasa anual = $20\\%$",
           "is_correct": false,
           "feedback": "Incorrecto. $P(0)$ no es cero sino la constante inicial."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Población inicial = $1700$, Tasa anual = $1,20\\%$",
           "is_correct": false,
           "feedback": "Incorrecto. La tasa es el porcentaje de exceso sobre el 100% (es decir, sobre 1)."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Población inicial = $3400$, Tasa anual = $40\\%$",
           "is_correct": false,
           "feedback": "Incorrecto. Valores alterados arbitrariamente."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "En la ecuación $P(t) = P_0 (1 + r)^t$, el coeficiente $P_0 = 1700$ representa el valor en $t=0$. La base $1 + r = 1,20$ indica una tasa de aumento $r = 20\\%$.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -823,19 +823,19 @@
       "context": "Modelo de crecimiento exponencial en producción o demografía Caso N° 19.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Población inicial = $1900$, Tasa anual = $22\\%$",
           "is_correct": true,
           "feedback": "Correcto. $P(0) = 1900 \\cdot 1 = 1900$. La tasa $r$ surge de la base $1 + r = 1,22 \\Rightarrow r = 22\\%$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Población inicial = $0$, Tasa anual = $22\\%$",
           "is_correct": false,
           "feedback": "Incorrecto. $P(0)$ no es cero sino la constante inicial."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Población inicial = $1900$, Tasa anual = $1,22\\%$",
           "is_correct": false,
           "feedback": "Incorrecto. La tasa es el porcentaje de exceso sobre el 100% (es decir, sobre 1)."
@@ -847,7 +847,7 @@
           "feedback": "Incorrecto. Valores alterados arbitrariamente."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "En la ecuación $P(t) = P_0 (1 + r)^t$, el coeficiente $P_0 = 1900$ representa el valor en $t=0$. La base $1 + r = 1,22$ indica una tasa de aumento $r = 22\\%$.\n\n---",
       "difficulty": "10",
       "images": [],

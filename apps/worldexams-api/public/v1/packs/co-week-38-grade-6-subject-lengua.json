@@ -19,25 +19,25 @@
           "feedback": "Incorrecto. Esa es la regla de las palabras graves."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Cuando terminan en n, s o vocal.",
           "is_correct": true,
           "feedback": "Correcto. Ejemplos: camión, compás, café."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Siempre llevan tilde, sin importar en qué letra terminen.",
           "is_correct": false,
           "feedback": "Incorrecto. Esa es la regla de las esdrújulas."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Solo cuando se escriben con mayúscula inicial.",
           "is_correct": false,
           "feedback": "Incorrecto. Las mayúsculas también siguen las reglas generales de acentuación."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Las palabras agudas se tildan si terminan en las consonantes n o s, o en cualquiera de las cinco vocales. Esta regla ayuda a identificar la pronunciación correcta de miles de palabras en español.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -59,19 +59,19 @@
       "context": "Un estudiante de 6° grado en Tunja escribe un texto sobre el clima frío y debe clasificar las palabras por su acento.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Balón, café, canción.",
           "is_correct": false,
           "feedback": "Incorrecto. Son palabras agudas con tilde."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Mesa, silla, puerta.",
           "is_correct": false,
           "feedback": "Incorrecto. Son palabras graves sin tilde."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Música, teléfono, pájaro.",
           "is_correct": true,
           "feedback": "Correcto. Son palabras cuya sílaba tónica es la antepenúltima y siempre se tildan."
@@ -83,7 +83,7 @@
           "feedback": "Incorrecto. Son palabras agudas sin tilde."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Las palabras esdrújulas son aquellas que tienen el acento en la antepenúltima sílaba. En español, la regla es universal: todas las palabras esdrújulas deben llevar tilde.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -163,19 +163,19 @@
           "feedback": "Correcto. Se escribe con \"h\" inicial antes del diptongo \"ue\"."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Erbol.",
           "is_correct": true,
           "feedback": "Incorrecto. La palabra correcta es \"Árbol\" (con tilde y sin h)."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Zanahoria.",
           "is_correct": false,
           "feedback": "Correcto. Lleva una \"h\" intermedia."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La letra \"h\" es muda en español, pero su uso responde a la etimología y a reglas específicas, como preceder a los diptongos ia, ie, ue, ui al inicio de palabra.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -197,19 +197,19 @@
       "context": "Un estudiante de Bucaramanga debe decidir qué signo de puntuación usar para separar elementos de una lista larga.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Indicar que el autor está muy cansado de escribir.",
           "is_correct": false,
           "feedback": "Incorrecto. La puntuación no mide el cansancio del autor."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Separar el sujeto del predicado.",
           "is_correct": false,
           "feedback": "Incorrecto. Nunca se debe poner coma entre el sujeto y el verbo."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Separar los elementos de una enumeración sencilla.",
           "is_correct": true,
           "feedback": "Correcto. Es uno de los usos más básicos y frecuentes de la coma."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto. Esa es la función del punto final."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "La coma enumerativa permite organizar los elementos de una serie, facilitando la lectura rítmica y la comprensión de los componentes de un grupo.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -249,25 +249,25 @@
           "feedback": "Incorrecto. Los dos puntos tienen funciones conectivas específicas."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Antes de empezar una cita textual o una enumeración anunciada.",
           "is_correct": true,
           "feedback": "Correcto. Ejemplo: El profesor dijo: \"Saquen sus cuadernos\"."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Entre el artículo y el sustantivo.",
           "is_correct": false,
           "feedback": "Incorrecto. Rompe la unidad de la frase sin sentido."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Después de un signo de interrogación.",
           "is_correct": false,
           "feedback": "Incorrecto. No es un uso normativo de los dos puntos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Los dos puntos detienen el discurso para llamar la atención sobre lo que sigue, que generalmente es una explicación, una enumeración o una cita literal.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "En una clase en Pereira, se estudia la diferencia entre **porque**, **por qué**, **porqué** y **por que**.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Porque / Por qué.",
           "is_correct": false,
           "feedback": "Incorrecto. El orden y las formas están invertidos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Por qué / porque.",
           "is_correct": true,
           "feedback": "Correcto. \"Por qué\" (separado y con tilde) se usa para preguntas; \"porque\" (pegado y sin tilde) se usa para responder dando una causa."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecto. La pregunta requiere la forma separada y tildada."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Estas cuatro formas son homófonas pero tienen funciones gramaticales distintas. Distinguirlas es un signo de madurez ortográfica y ayuda a la claridad del mensaje.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -341,13 +341,13 @@
           "feedback": "Incorrecto. Los nombres propios de accidentes geográficos y departamentos deben iniciar con mayúscula."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "El río Magdalena atraviesa gran parte de Colombia.",
           "is_correct": true,
           "feedback": "Correcto. Se usa mayúscula al inicio de la oración y en los nombres propios geográficos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Colombia Tiene Muchos Ríos Importantes En Su Territorio.",
           "is_correct": false,
           "feedback": "Incorrecto. No se debe poner mayúscula en cada palabra (como ríos o importantes)."
@@ -359,7 +359,7 @@
           "feedback": "Incorrecto. El uso de mayúsculas sostenidas no es adecuado para este tipo de enunciados."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Las mayúsculas sirven para jerarquizar la información y distinguir los nombres propios (entidades únicas) de los nombres comunes (clases de objetos).\n\n---",
       "difficulty": "8",
       "images": [],
@@ -387,13 +387,13 @@
           "feedback": "Incorrecto. Como pronombre es \"te\" (sin tilde)."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Cuando se refiere a la planta o a la infusión (bebida).",
           "is_correct": true,
           "feedback": "Correcto. Es una tilde diacrítica para diferenciar el sustantivo del pronombre."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Siempre que aparezca al final de una pregunta.",
           "is_correct": false,
           "feedback": "Incorrecto. La posición no determina la tilde en este caso."
@@ -405,7 +405,7 @@
           "feedback": "Incorrecto. La ortografía no depende del soporte físico."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La tilde diacrítica es una excepción a la regla de los monosílabos (que generalmente no se tildan) para permitir distinguir palabras que se escriben igual pero tienen funciones diferentes.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -433,13 +433,13 @@
           "feedback": "Incorrecto. El verbo \"vaya\" está mal conjugado para el pasado."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Ayer fui a la calle y vi un pájaro azul.",
           "is_correct": true,
           "feedback": "Correcto. Corrige la mayúscula inicial, el verbo en pasado, la letra \"c\", la conjunción \"y\" y la tilde en \"pájaro\"."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ayer fuy a la calle y bi un pajaro azul.",
           "is_correct": false,
           "feedback": "Incorrecto. \"Fuy\" y \"bi\" son errores ortográficos graves."
@@ -451,7 +451,7 @@
           "feedback": "Incorrecto. Falta la tilde en la palabra esdrújula \"pájaro\"."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La corrección ortográfica integral implica revisar simultáneamente la puntuación, la acentuación, el uso de letras dudosas (b/v, y/ll) y la concordancia gramatical.\n\n[//]: # (QUALITY_REVIEW)\n\n| Dimensión | Score | Notas |\n|-----------|-------|-------|\n| Técnico | 30/30 | Formato Protocolo v5.2 respetado. |\n| Curricular | 40/40 | Cubre acentuación, letras b/v/h, puntuación y mayúsculas. |\n| Contexto | 20/20 | Contextos colombianos diversos y educativos. |\n| Redacción | 10/10 | Alta claridad y rigor pedagógico. |\n| **TOTAL** | **100/100** | |",
       "difficulty": "10",
       "images": [],

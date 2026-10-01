@@ -111,25 +111,25 @@
           "feedback": "Incorrect. \"Our\" is the possessive adjective; it doesn't need an apostrophe."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Our",
           "is_correct": true,
           "feedback": "Correct! \"Our\" is the possessive adjective for \"We\"."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Your",
           "is_correct": false,
           "feedback": "Incorrect. \"Your\" is for \"You\"."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Their",
           "is_correct": false,
           "feedback": "Incorrect. \"Their\" is for \"They\"."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "The student understands the use of the possessive adjective for the first person plural.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -157,25 +157,25 @@
           "feedback": "Incorrect. \"It's\" means \"It is\"."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "its",
           "is_correct": true,
           "feedback": "Correct! \"Its\" is the possessive adjective for animals or things."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "his",
           "is_correct": false,
           "feedback": "Incorrect. \"His\" is for male humans (though sometimes used for pets, \"its\" is the general rule)."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "her",
           "is_correct": false,
           "feedback": "Incorrect. \"Her\" is for female humans."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "The student distinguishes between the contraction \"it's\" and the possessive adjective \"its\".\n\n---",
       "difficulty": "6",
       "images": [],
@@ -203,25 +203,25 @@
           "feedback": "Incorrect. \"My\" would refer to me, not the car's color."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Its",
           "is_correct": true,
           "feedback": "Correct! We use \"Its\" to refer to the color of the car (an object)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "It's",
           "is_correct": false,
           "feedback": "Incorrect. \"It's\" is \"It is\"."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "His",
           "is_correct": false,
           "feedback": "Incorrect. \"His\" is for a male person."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "The student applies the possessive adjective \"its\" to refer to a characteristic of an inanimate object.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "Identifying ownership of multiple items.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "boy's",
           "is_correct": false,
           "feedback": "Incorrect. This means only one boy."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "boys'",
           "is_correct": true,
           "feedback": "Correct! For plural nouns ending in -s, we just add an apostrophe."
@@ -313,7 +313,7 @@
           "feedback": "Incorrect. Missing the possessive marker."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "The student applies the specific rule for the Saxon Genitive with plural nouns ending in -s.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -393,19 +393,19 @@
           "feedback": "Incorrect. My father is Jorge."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "My aunt's",
           "is_correct": true,
           "feedback": "Correct! Clara is the aunt, and the text says \"Clara's car is red\"."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "My car",
           "is_correct": false,
           "feedback": "Incorrect. The car belongs to Clara."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "The student analyzes a sequence of possessive relationships to identify the owner of an object.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -433,25 +433,25 @@
           "feedback": "Incorrect. That would be \"customer's\"."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Because it refers to the feedback of many customers.",
           "is_correct": true,
           "feedback": "Correct! The plural \"customers\" adds just an apostrophe for possession."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Because \"feedback\" is a plural noun.",
           "is_correct": false,
           "feedback": "Incorrect. The apostrophe location depends on the owner, not the object."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "It is a spelling mistake.",
           "is_correct": false,
           "feedback": "Incorrect. It is a correct and standard grammatical rule."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "The student evaluates and explains the grammatical logic behind a specific punctuation mark in a possessive context.",
       "difficulty": "10",
       "images": [],

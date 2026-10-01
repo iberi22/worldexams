@@ -13,31 +13,31 @@
       "context": "En una finca cafetera del departamento de Caldas, don Hernando cultiva y recolecta granos de café para venderlos en la cooperativa municipal.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Sector primario.",
           "is_correct": true,
           "feedback": "El sector primario comprende las actividades de extracción y aprovechamiento directo de los recursos naturales, como la agricultura y la ganadería."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Sector secundario.",
           "is_correct": false,
           "feedback": "El sector secundario se encarga de transformar las materias primas en productos manufacturados en fábricas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Sector terciario.",
           "is_correct": false,
           "feedback": "El sector terciario presta servicios a la comunidad, como transporte, comercio, salud y educación."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Sector cuaternario.",
           "is_correct": false,
           "feedback": "El sector cuaternario se relaciona con la investigación científica, la consultoría avanzada y las tecnologías de la información."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El sector primario abarca todas las actividades económicas basadas en la obtención y extracción directa de recursos de la naturaleza, entre ellas la agricultura, la silvicultura, la pesca y la minería.",
       "difficulty": "4",
       "images": [],
@@ -105,31 +105,31 @@
       "context": "En Cartagena de Indias, doña Marcela administra un hotel que ofrece hospedaje, recorridos guiados y alimentación a turistas nacionales y extranjeros.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Sector terciario o de servicios.",
           "is_correct": true,
           "feedback": "El turismo, la hotelería y la gastronomía son actividades que prestan servicios a las personas y forman parte del sector terciario."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Sector primario o extractivo.",
           "is_correct": false,
           "feedback": "El sector primario se dedica a extraer recursos naturales, no a la prestación de servicios hoteleros."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Sector secundario o industrial.",
           "is_correct": false,
           "feedback": "El sector secundario fabrica bienes físicos mediante transformación industrial, a diferencia de la hotelería."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Sector agropecuario tradicional.",
           "is_correct": false,
           "feedback": "El sector agropecuario corresponde al cultivo de la tierra y la cría de animales en el campo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El sector terciario reúne todas las actividades económicas dedicadas a la prestación de servicios que satisfacen necesidades de la población, tales como el turismo, el comercio, el transporte y la educación.",
       "difficulty": "6",
       "images": [],
@@ -151,31 +151,31 @@
       "context": "En la sabana de Bogotá, una empresa compra leche a los ganaderos locales, la pasteuriza y envasa en botellas de yogur, y luego contrata camiones para distribuirla a tiendas de barrio.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Sector primario (ordeño de vacas), sector secundario (elaboración del yogur) y sector terciario (distribución y venta).",
           "is_correct": true,
           "feedback": "Primero se extrae la leche (primario), luego se procesa en la fábrica (secundario) y finalmente se comercializa (terciario)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Sector secundario (ordeño de vacas), sector primario (elaboración del yogur) y sector terciario (distribución y venta).",
           "is_correct": false,
           "feedback": "El ordeño es una actividad primaria y el procesamiento industrial es secundario."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Sector terciario (ordeño de vacas), sector secundario (elaboración del yogur) y sector primario (distribución y venta).",
           "is_correct": false,
           "feedback": "La distribución y venta es una actividad de servicios del sector terciario."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Sector primario (ordeño de vacas), sector terciario (elaboración del yogur) y sector secundario (distribución y venta).",
           "is_correct": false,
           "feedback": "La elaboración y envasado de alimentos es una actividad industrial del sector secundario."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Una cadena productiva inicia con la obtención de materia prima (sector primario), continúa con la transformación industrial (sector secundario) y concluye con la distribución, transporte y comercialización (sector terciario).",
       "difficulty": "6",
       "images": [],
@@ -243,19 +243,19 @@
       "context": "En un municipio del departamento del Cesar, la economía local depende en un 80% de la extracción minera de carbón. Durante un foro ciudadano, los habitantes analizan el futuro económico del territorio.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "La alta vulnerabilidad frente a la caída de precios internacionales y el eventual agotamiento de los recursos no renovables.",
           "is_correct": true,
           "feedback": "Si el mineral se agota o baja de precio en el mercado mundial, el municipio puede enfrentar crisis de desempleo e ingresos fiscales."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El aumento inevitable de fábricas textiles y talleres automotrices en el área rural.",
           "is_correct": false,
           "feedback": "La dependencia minera suele inhibir el surgimiento de otras industrias por falta de diversificación."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La desaparición inmediata de la necesidad de construir hospitales y escuelas públicas.",
           "is_correct": false,
           "feedback": "Los servicios de salud y educación siguen siendo indispensables independientemente de la actividad económica."
@@ -267,7 +267,7 @@
           "feedback": "El desarrollo de software pertenece al sector cuaternario y no surge automáticamente de la minería."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La excesiva dependencia de actividades extractivas (monoactividad económica) genera fragilidad ante fluctuaciones de precios externos y compromete la sostenibilidad a largo plazo una vez los recursos se agotan.",
       "difficulty": "8",
       "images": [],
@@ -289,31 +289,31 @@
       "context": "Un grupo de estudiantes en Bucaramanga analiza un informe económico donde se observa que el sector terciario (comercio, salud, educación, transporte y finanzas) concentra la mayor proporción de trabajadores en Colombia.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Las zonas urbanas demandan una gran variedad de servicios para satisfacer las necesidades diarias de sus habitantes.",
           "is_correct": true,
           "feedback": "El crecimiento poblacional de las ciudades impulsa actividades como el comercio, el transporte, la educación y los servicios públicos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "En las ciudades ya no se consumen productos provenientes del sector primario ni de la industria.",
           "is_correct": false,
           "feedback": "La población urbana sigue requiriendo alimentos del sector primario y bienes elaborados del sector secundario."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El sector de servicios puede operar sin necesidad de infraestructura vial ni comunicación.",
           "is_correct": false,
           "feedback": "Los servicios dependen críticamente de vías, energía eléctrica, agua potable y redes de telecomunicaciones."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La totalidad de la fuerza laboral del país se dedica exclusivamente a actividades agropecuarias en el campo.",
           "is_correct": false,
           "feedback": "El informe demuestra justamente que la mayoría labora en servicios y comercio en centros urbanos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El predominio del sector terciario (terciarización de la economía) es una característica de las sociedades urbanizadas, donde el intercambio comercial y los servicios son los mayores generadores de empleo.",
       "difficulty": "8",
       "images": [],
@@ -335,31 +335,31 @@
       "context": "En un municipio del Tolima conocido por sus cultivos de arroz y sus fuentes de agua limpia, una empresa presenta un proyecto para instalar una fábrica industrial. La comunidad y las autoridades locales deben evaluar la conveniencia del proyecto.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Exigir estudios de impacto ambiental y tecnología no contaminante antes de conceder la licencia, protegiendo las fuentes hídricas y el empleo agrícola.",
           "is_correct": true,
           "feedback": "Esta alternativa equilibra el crecimiento industrial con la conservación ecológica y la seguridad alimentaria de la comunidad."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Aprobar la construcción de la fábrica de forma inmediata sin evaluar los riesgos ambientales para priorizar el dinero a corto plazo.",
           "is_correct": false,
           "feedback": "Ignorar el impacto ambiental pone en grave peligro la salud comunitaria, el agua y la producción agrícola a largo plazo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Prohibir cualquier tipo de actividad económica moderna para forzar a la comunidad a vivir exclusivamente de la recolección silvestre.",
           "is_correct": false,
           "feedback": "Frenar todo desarrollo productivo impide el acceso a oportunidades laborales, servicios de salud y bienestar social."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Ordenar el cierre definitivo de todos los cultivos de arroz para convertir todo el municipio en una sola zona industrial.",
           "is_correct": false,
           "feedback": "Eliminar la agricultura destruye la vocación tradicional del territorio y afecta la seguridad alimentaria regional."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El desarrollo sostenible exige conciliar el crecimiento económico con la preservación del patrimonio natural y la cohesión social, evaluando rigurosamente los impactos de cualquier proyecto productivo.",
       "difficulty": "10",
       "images": [],

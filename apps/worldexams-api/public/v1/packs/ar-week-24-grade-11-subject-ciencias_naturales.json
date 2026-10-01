@@ -13,19 +13,19 @@
       "context": "Hidrostática, Presión y Principio de Arquímedes - Caso N° 1.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Constituye un principio fundamental de Física - Fluidos que explica el comportamiento del sistema según las leyes de la naturaleza.",
           "is_correct": true,
           "feedback": "Correcto. La definición de $Densidad$ corresponde con los principios teóricos de Física - Fluidos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Representa un fenómeno aislado sin relación con las leyes de conservación en Física.",
           "is_correct": false,
           "feedback": "Incorrecto. El concepto de $Densidad$ está íntimamente ligado a las leyes de Física."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Es una magnitud exclusivamente teórica que no se puede medir experimentalmente en el laboratorio.",
           "is_correct": false,
           "feedback": "Incorrecto. Es una propiedad medible y verificable."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Se aplica de forma general bajo condiciones estándar MKS."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El estudio de Densidad es clave para comprender los fundamentos teóricos y prácticos de Física - Fluidos.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -58,13 +58,13 @@
       "context": "Hidrostática, Presión y Principio de Arquímedes - Caso N° 2.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Constituye un principio fundamental de Física - Fluidos que explica el comportamiento del sistema según las leyes de la naturaleza.",
           "is_correct": true,
           "feedback": "Correcto. La definición de $Presión Hidrostática$ corresponde con los principios teóricos de Física - Fluidos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Representa un fenómeno aislado sin relación con las leyes de conservación en Física.",
           "is_correct": false,
           "feedback": "Incorrecto. El concepto de $Presión Hidrostática$ está íntimamente ligado a las leyes de Física."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. Se aplica de forma general bajo condiciones estándar MKS."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El estudio de Presión Hidrostática es clave para comprender los fundamentos teóricos y prácticos de Física - Fluidos.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -103,13 +103,13 @@
       "context": "Hidrostática, Presión y Principio de Arquímedes - Caso N° 3.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El sistema responde de forma proporcional a las variables involucradas manteniendo la consistencia teórica de $Principio de Pascal$.",
           "is_correct": true,
           "feedback": "Correcto. La respuesta del sistema refleja la ley física/química de $Principio de Pascal$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El sistema permanece completamente inerte sin registrar variación alguna.",
           "is_correct": false,
           "feedback": "Incorrecto. Las variables se modifican según las ecuaciones del modelo."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. El fenómeno sigue un patrón determinista bien definido."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Las observaciones experimentales confirman las predicciones del modelo teórico de Principio de Pascal.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,13 +148,13 @@
       "context": "Hidrostática, Presión y Principio de Arquímedes - Caso N° 4.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El sistema responde de forma proporcional a las variables involucradas manteniendo la consistencia teórica de $Empuje Hidrostático$.",
           "is_correct": true,
           "feedback": "Correcto. La respuesta del sistema refleja la ley física/química de $Empuje Hidrostático$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El sistema permanece completamente inerte sin registrar variación alguna.",
           "is_correct": false,
           "feedback": "Incorrecto. Las variables se modifican según las ecuaciones del modelo."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. El fenómeno sigue un patrón determinista bien definido."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Las observaciones experimentales confirman las predicciones del modelo teórico de Empuje Hidrostático.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -238,31 +238,31 @@
       "context": "Hidrostática, Presión y Principio de Arquímedes - Caso N° 6.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Se aplica la ecuación correspondiente a $Densidad$, donde las magnitudes se relacionan de forma directa o inversamente proporcional según la ley de Física.",
           "is_correct": true,
           "feedback": "Correcto. Refleja la formulación correcta para $Densidad$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Se suman de forma arbitraria todas las variables sin considerar sus unidades de medida.",
           "is_correct": false,
           "feedback": "Incorrecto. Las unidades deben ser consistentes en el sistema SI."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Se ignora la influencia de las condiciones iniciales del experimento.",
           "is_correct": false,
           "feedback": "Incorrecto. Las condiciones iniciales determinan la solución del sistema."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Se asume que la constante del proceso es igual a cero en todo instante.",
           "is_correct": false,
           "feedback": "Incorrecto. Las constantes del sistema tienen valores finitos y definidos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La aplicación cuantitativa de Densidad requiere el uso riguroso de las ecuaciones de Física - Fluidos.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -283,19 +283,19 @@
       "context": "Hidrostática, Presión y Principio de Arquímedes - Caso N° 7.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Se aplica la ecuación correspondiente a $Presión Hidrostática$, donde las magnitudes se relacionan de forma directa o inversamente proporcional según la ley de Física.",
           "is_correct": true,
           "feedback": "Correcto. Refleja la formulación correcta para $Presión Hidrostática$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Se suman de forma arbitraria todas las variables sin considerar sus unidades de medida.",
           "is_correct": false,
           "feedback": "Incorrecto. Las unidades deben ser consistentes en el sistema SI."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Se ignora la influencia de las condiciones iniciales del experimento.",
           "is_correct": false,
           "feedback": "Incorrecto. Las condiciones iniciales determinan la solución del sistema."
@@ -307,7 +307,7 @@
           "feedback": "Incorrecto. Las constantes del sistema tienen valores finitos y definidos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La aplicación cuantitativa de Presión Hidrostática requiere el uso riguroso de las ecuaciones de Física - Fluidos.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -373,31 +373,31 @@
       "context": "Hidrostática, Presión y Principio de Arquímedes - Caso N° 9.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Se aplica la ecuación correspondiente a $Empuje Hidrostático$, donde las magnitudes se relacionan de forma directa o inversamente proporcional según la ley de Física.",
           "is_correct": true,
           "feedback": "Correcto. Refleja la formulación correcta para $Empuje Hidrostático$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Se suman de forma arbitraria todas las variables sin considerar sus unidades de medida.",
           "is_correct": false,
           "feedback": "Incorrecto. Las unidades deben ser consistentes en el sistema SI."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Se ignora la influencia de las condiciones iniciales del experimento.",
           "is_correct": false,
           "feedback": "Incorrecto. Las condiciones iniciales determinan la solución del sistema."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Se asume que la constante del proceso es igual a cero en todo instante.",
           "is_correct": false,
           "feedback": "Incorrecto. Las constantes del sistema tienen valores finitos y definidos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La aplicación cuantitativa de Empuje Hidrostático requiere el uso riguroso de las ecuaciones de Física - Fluidos.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -418,19 +418,19 @@
       "context": "Hidrostática, Presión y Principio de Arquímedes - Caso N° 10.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Se aplica la ecuación correspondiente a $Principio de Arquímedes$, donde las magnitudes se relacionan de forma directa o inversamente proporcional según la ley de Física.",
           "is_correct": true,
           "feedback": "Correcto. Refleja la formulación correcta para $Principio de Arquímedes$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Se suman de forma arbitraria todas las variables sin considerar sus unidades de medida.",
           "is_correct": false,
           "feedback": "Incorrecto. Las unidades deben ser consistentes en el sistema SI."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Se ignora la influencia de las condiciones iniciales del experimento.",
           "is_correct": false,
           "feedback": "Incorrecto. Las condiciones iniciales determinan la solución del sistema."
@@ -442,7 +442,7 @@
           "feedback": "Incorrecto. Las constantes del sistema tienen valores finitos y definidos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La aplicación cuantitativa de Principio de Arquímedes requiere el uso riguroso de las ecuaciones de Física - Fluidos.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -463,13 +463,13 @@
       "context": "Hidrostática, Presión y Principio de Arquímedes - Caso N° 11.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El cambio en las variables modifica el estado final según las restricciones impuestas por $Densidad$ y las leyes de Física.",
           "is_correct": true,
           "feedback": "Correcto. El análisis deductivo confirma el impacto directo sobre el estado final."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El estado final es independiente de cualquier cambio realizado en el estado inicial.",
           "is_correct": false,
           "feedback": "Incorrecto. Existe una dependencia funcional entre las condiciones iniciales y finales."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto. No se puede crear masa ni energía de la nada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El análisis analítico de Densidad demuestra la coherencia interna de los modelos en Física - Fluidos.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -508,19 +508,19 @@
       "context": "Hidrostática, Presión y Principio de Arquímedes - Caso N° 12.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "El cambio en las variables modifica el estado final según las restricciones impuestas por $Presión Hidrostática$ y las leyes de Física.",
           "is_correct": true,
           "feedback": "Correcto. El análisis deductivo confirma el impacto directo sobre el estado final."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El estado final es independiente de cualquier cambio realizado en el estado inicial.",
           "is_correct": false,
           "feedback": "Incorrecto. Existe una dependencia funcional entre las condiciones iniciales y finales."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Se rompe el equilibrio del sistema de forma irreversible sin posibilidad de balance.",
           "is_correct": false,
           "feedback": "Incorrecto. El balance se mantiene bajo las leyes de conservación."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. No se puede crear masa ni energía de la nada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El análisis analítico de Presión Hidrostática demuestra la coherencia interna de los modelos en Física - Fluidos.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -553,19 +553,19 @@
       "context": "Hidrostática, Presión y Principio de Arquímedes - Caso N° 13.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "El cambio en las variables modifica el estado final según las restricciones impuestas por $Principio de Pascal$ y las leyes de Física.",
           "is_correct": true,
           "feedback": "Correcto. El análisis deductivo confirma el impacto directo sobre el estado final."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El estado final es independiente de cualquier cambio realizado en el estado inicial.",
           "is_correct": false,
           "feedback": "Incorrecto. Existe una dependencia funcional entre las condiciones iniciales y finales."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Se rompe el equilibrio del sistema de forma irreversible sin posibilidad de balance.",
           "is_correct": false,
           "feedback": "Incorrecto. El balance se mantiene bajo las leyes de conservación."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. No se puede crear masa ni energía de la nada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El análisis analítico de Principio de Pascal demuestra la coherencia interna de los modelos en Física - Fluidos.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -598,13 +598,13 @@
       "context": "Hidrostática, Presión y Principio de Arquímedes - Caso N° 14.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El cambio en las variables modifica el estado final según las restricciones impuestas por $Empuje Hidrostático$ y las leyes de Física.",
           "is_correct": true,
           "feedback": "Correcto. El análisis deductivo confirma el impacto directo sobre el estado final."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El estado final es independiente de cualquier cambio realizado en el estado inicial.",
           "is_correct": false,
           "feedback": "Incorrecto. Existe una dependencia funcional entre las condiciones iniciales y finales."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. No se puede crear masa ni energía de la nada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El análisis analítico de Empuje Hidrostático demuestra la coherencia interna de los modelos en Física - Fluidos.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -688,13 +688,13 @@
       "context": "Hidrostática, Presión y Principio de Arquímedes - Caso N° 16.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El cambio en las variables modifica el estado final según las restricciones impuestas por $Densidad$ y las leyes de Física.",
           "is_correct": true,
           "feedback": "Correcto. El análisis deductivo confirma el impacto directo sobre el estado final."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El estado final es independiente de cualquier cambio realizado en el estado inicial.",
           "is_correct": false,
           "feedback": "Incorrecto. Existe una dependencia funcional entre las condiciones iniciales y finales."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. No se puede crear masa ni energía de la nada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El análisis analítico de Densidad demuestra la coherencia interna de los modelos en Física - Fluidos.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -733,31 +733,31 @@
       "context": "Hidrostática, Presión y Principio de Arquímedes - Caso N° 17.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "El modelo es válido porque respeta estrictamente los principios de conservación y las relaciones cuantitativas de $Presión Hidrostática$.",
           "is_correct": true,
           "feedback": "Correcto. La evaluación fundamentada confirma la solidez del modelo para $Presión Hidrostática$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El modelo es inválido porque invalida las leyes universales de la termodinámica y la masa.",
           "is_correct": false,
           "feedback": "Incorrecto. El modelo propuesto cumple con los principios universales de la ciencia."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El modelo sólo funciona si se desestiman las unidades del Sistema Internacional.",
           "is_correct": false,
           "feedback": "Incorrecto. Debe operar de forma consistente en el Sistema Internacional."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El modelo presenta inconsistencias graves al asumir que el rendimiento puede superar el 100%.",
           "is_correct": false,
           "feedback": "Incorrecto. El modelo respeta el límite físico del 100% de eficiencia."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La evaluación crítica de modelos en Física - Fluidos exige verificar el cumplimiento de los límites teóricos de Presión Hidrostática.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -778,19 +778,19 @@
       "context": "Hidrostática, Presión y Principio de Arquímedes - Caso N° 18.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "El modelo es válido porque respeta estrictamente los principios de conservación y las relaciones cuantitativas de $Principio de Pascal$.",
           "is_correct": true,
           "feedback": "Correcto. La evaluación fundamentada confirma la solidez del modelo para $Principio de Pascal$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El modelo es inválido porque invalida las leyes universales de la termodinámica y la masa.",
           "is_correct": false,
           "feedback": "Incorrecto. El modelo propuesto cumple con los principios universales de la ciencia."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El modelo sólo funciona si se desestiman las unidades del Sistema Internacional.",
           "is_correct": false,
           "feedback": "Incorrecto. Debe operar de forma consistente en el Sistema Internacional."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. El modelo respeta el límite físico del 100% de eficiencia."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La evaluación crítica de modelos en Física - Fluidos exige verificar el cumplimiento de los límites teóricos de Principio de Pascal.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -868,13 +868,13 @@
       "context": "Hidrostática, Presión y Principio de Arquímedes - Caso N° 20.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El modelo es válido porque respeta estrictamente los principios de conservación y las relaciones cuantitativas de $Principio de Arquímedes$.",
           "is_correct": true,
           "feedback": "Correcto. La evaluación fundamentada confirma la solidez del modelo para $Principio de Arquímedes$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El modelo es inválido porque invalida las leyes universales de la termodinámica y la masa.",
           "is_correct": false,
           "feedback": "Incorrecto. El modelo propuesto cumple con los principios universales de la ciencia."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. El modelo respeta el límite físico del 100% de eficiencia."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La evaluación crítica de modelos en Física - Fluidos exige verificar el cumplimiento de los límites teóricos de Principio de Arquímedes.\n\n---",
       "difficulty": "10",
       "images": [],

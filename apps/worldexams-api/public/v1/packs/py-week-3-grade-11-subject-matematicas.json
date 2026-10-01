@@ -13,19 +13,19 @@
       "context": "En Asunción, un grupo de estudiantes de Paraguay analiza un problema de Logaritmos y sus Propiedades.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$b^c = a$",
           "is_correct": true,
           "feedback": "¡Correcto! El logaritmo es el exponente al que se debe elevar la base $b$ para obtener el argumento $a$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$a^c = b$",
           "is_correct": false,
           "feedback": "Incorrecto. Intercambió la base y el argumento."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$b^a = c$",
           "is_correct": false,
           "feedback": "Incorrecto. Esta relación es incorrecta por definición."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Esta relación no define al logaritmo de base $b$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Por definición básica de logaritmos, $\\log_b(a) = c \\iff b^c = a$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -58,13 +58,13 @@
       "context": "En San Lorenzo, un grupo de estudiantes de Paraguay analiza un problema de Logaritmos y sus Propiedades.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$\\log_b(x) + \\log_b(y)$",
           "is_correct": true,
           "feedback": "¡Correcto! El logaritmo de un producto es igual a la suma de los logaritmos de los factores."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\log_b(x) \\cdot \\log_b(y)$",
           "is_correct": false,
           "feedback": "Incorrecto. No se multiplican los logaritmos."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. La resta corresponde al logaritmo de un cociente."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Una propiedad fundamental de los logaritmos establece que el logaritmo de un producto de dos números reales positivos es igual a la suma de sus logaritmos individuales.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -103,13 +103,13 @@
       "context": "En Luque, un grupo de estudiantes de Paraguay analiza un problema de Logaritmos y sus Propiedades.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "3 años",
           "is_correct": true,
           "feedback": "¡Correcto! $\\log_{10}(1000) = 3$ porque $10^3 = 1000$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "4 años",
           "is_correct": false,
           "feedback": "Incorrecto. Verifique la potencia de 10 correspondiente."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. El doble del tiempo excedería ampliamente el valor de crecimiento."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Para resolver $10^t = 1000$, aplicamos logaritmo en base 10 en ambos lados: $t = \\log_{10}(1000) = 3$ años.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,19 +148,19 @@
       "context": "En Encarnación, un grupo de estudiantes de Paraguay analiza un problema de Logaritmos y sus Propiedades.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "2 años",
           "is_correct": true,
           "feedback": "¡Correcto! $\\log_{10}(100) = 2$ porque $10^2 = 100$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "3 años",
           "is_correct": false,
           "feedback": "Incorrecto. Verifique la potencia de 10 correspondiente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "1 años",
           "is_correct": false,
           "feedback": "Incorrecto. El valor es menor del esperado."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. El doble del tiempo excedería ampliamente el valor de crecimiento."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Para resolver $10^t = 100$, aplicamos logaritmo en base 10 en ambos lados: $t = \\log_{10}(100) = 2$ años.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -193,19 +193,19 @@
       "context": "En Ciudad del Este, un grupo de estudiantes de Paraguay analiza un problema de Logaritmos y sus Propiedades.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "3 años",
           "is_correct": true,
           "feedback": "¡Correcto! $\\log_{10}(1000) = 3$ porque $10^3 = 1000$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "4 años",
           "is_correct": false,
           "feedback": "Incorrecto. Verifique la potencia de 10 correspondiente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "2 años",
           "is_correct": false,
           "feedback": "Incorrecto. El valor es menor del esperado."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. El doble del tiempo excedería ampliamente el valor de crecimiento."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Para resolver $10^t = 1000$, aplicamos logaritmo en base 10 en ambos lados: $t = \\log_{10}(1000) = 3$ años.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -238,31 +238,31 @@
       "context": "En Caacupé, un grupo de estudiantes de Paraguay analiza un problema de Logaritmos y sus Propiedades.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "2 años",
           "is_correct": true,
           "feedback": "¡Correcto! $\\log_{10}(100) = 2$ porque $10^2 = 100$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "3 años",
           "is_correct": false,
           "feedback": "Incorrecto. Verifique la potencia de 10 correspondiente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "1 años",
           "is_correct": false,
           "feedback": "Incorrecto. El valor es menor del esperado."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "4 años",
           "is_correct": false,
           "feedback": "Incorrecto. El doble del tiempo excedería ampliamente el valor de crecimiento."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Para resolver $10^t = 100$, aplicamos logaritmo en base 10 en ambos lados: $t = \\log_{10}(100) = 2$ años.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -328,13 +328,13 @@
       "context": "En Coronel Oviedo, un grupo de estudiantes de Paraguay analiza un problema de Logaritmos y sus Propiedades.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "2 años",
           "is_correct": true,
           "feedback": "¡Correcto! $\\log_{10}(100) = 2$ porque $10^2 = 100$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "3 años",
           "is_correct": false,
           "feedback": "Incorrecto. Verifique la potencia de 10 correspondiente."
@@ -352,7 +352,7 @@
           "feedback": "Incorrecto. El doble del tiempo excedería ampliamente el valor de crecimiento."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Para resolver $10^t = 100$, aplicamos logaritmo en base 10 en ambos lados: $t = \\log_{10}(100) = 2$ años.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -373,13 +373,13 @@
       "context": "En Concepción, un grupo de estudiantes de Paraguay analiza un problema de Logaritmos y sus Propiedades.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "3 años",
           "is_correct": true,
           "feedback": "¡Correcto! $\\log_{10}(1000) = 3$ porque $10^3 = 1000$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "4 años",
           "is_correct": false,
           "feedback": "Incorrecto. Verifique la potencia de 10 correspondiente."
@@ -397,7 +397,7 @@
           "feedback": "Incorrecto. El doble del tiempo excedería ampliamente el valor de crecimiento."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Para resolver $10^t = 1000$, aplicamos logaritmo en base 10 en ambos lados: $t = \\log_{10}(1000) = 3$ años.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -418,31 +418,31 @@
       "context": "En Villarrica, un grupo de estudiantes de Paraguay analiza un problema de Logaritmos y sus Propiedades.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "2 años",
           "is_correct": true,
           "feedback": "¡Correcto! $\\log_{10}(100) = 2$ porque $10^2 = 100$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "3 años",
           "is_correct": false,
           "feedback": "Incorrecto. Verifique la potencia de 10 correspondiente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "1 años",
           "is_correct": false,
           "feedback": "Incorrecto. El valor es menor del esperado."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "4 años",
           "is_correct": false,
           "feedback": "Incorrecto. El doble del tiempo excedería ampliamente el valor de crecimiento."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Para resolver $10^t = 100$, aplicamos logaritmo en base 10 en ambos lados: $t = \\log_{10}(100) = 2$ años.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -463,19 +463,19 @@
       "context": "En Asunción, un grupo de estudiantes de Paraguay analiza un problema de Logaritmos y sus Propiedades.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "3 años",
           "is_correct": true,
           "feedback": "¡Correcto! $\\log_{10}(1000) = 3$ porque $10^3 = 1000$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "4 años",
           "is_correct": false,
           "feedback": "Incorrecto. Verifique la potencia de 10 correspondiente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "2 años",
           "is_correct": false,
           "feedback": "Incorrecto. El valor es menor del esperado."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto. El doble del tiempo excedería ampliamente el valor de crecimiento."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Para resolver $10^t = 1000$, aplicamos logaritmo en base 10 en ambos lados: $t = \\log_{10}(1000) = 3$ años.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -508,19 +508,19 @@
       "context": "En San Lorenzo, un grupo de estudiantes de Paraguay analiza un problema de Logaritmos y sus Propiedades.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "2 años",
           "is_correct": true,
           "feedback": "¡Correcto! $\\log_{10}(100) = 2$ porque $10^2 = 100$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "3 años",
           "is_correct": false,
           "feedback": "Incorrecto. Verifique la potencia de 10 correspondiente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "1 años",
           "is_correct": false,
           "feedback": "Incorrecto. El valor es menor del esperado."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. El doble del tiempo excedería ampliamente el valor de crecimiento."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Para resolver $10^t = 100$, aplicamos logaritmo en base 10 en ambos lados: $t = \\log_{10}(100) = 2$ años.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -553,31 +553,31 @@
       "context": "En Luque, un grupo de estudiantes de Paraguay analiza un problema de Logaritmos y sus Propiedades.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "3 años",
           "is_correct": true,
           "feedback": "¡Correcto! $\\log_{10}(1000) = 3$ porque $10^3 = 1000$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "4 años",
           "is_correct": false,
           "feedback": "Incorrecto. Verifique la potencia de 10 correspondiente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "2 años",
           "is_correct": false,
           "feedback": "Incorrecto. El valor es menor del esperado."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "6 años",
           "is_correct": false,
           "feedback": "Incorrecto. El doble del tiempo excedería ampliamente el valor de crecimiento."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Para resolver $10^t = 1000$, aplicamos logaritmo en base 10 en ambos lados: $t = \\log_{10}(1000) = 3$ años.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -598,31 +598,31 @@
       "context": "En Encarnación, un grupo de estudiantes de Paraguay analiza un problema de Logaritmos y sus Propiedades.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "2 años",
           "is_correct": true,
           "feedback": "¡Correcto! $\\log_{10}(100) = 2$ porque $10^2 = 100$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "3 años",
           "is_correct": false,
           "feedback": "Incorrecto. Verifique la potencia de 10 correspondiente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "1 años",
           "is_correct": false,
           "feedback": "Incorrecto. El valor es menor del esperado."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "4 años",
           "is_correct": false,
           "feedback": "Incorrecto. El doble del tiempo excedería ampliamente el valor de crecimiento."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Para resolver $10^t = 100$, aplicamos logaritmo en base 10 en ambos lados: $t = \\log_{10}(100) = 2$ años.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -643,13 +643,13 @@
       "context": "En Ciudad del Este, un grupo de estudiantes de Paraguay analiza un problema de Logaritmos y sus Propiedades.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "3 años",
           "is_correct": true,
           "feedback": "¡Correcto! $\\log_{10}(1000) = 3$ porque $10^3 = 1000$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "4 años",
           "is_correct": false,
           "feedback": "Incorrecto. Verifique la potencia de 10 correspondiente."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. El doble del tiempo excedería ampliamente el valor de crecimiento."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Para resolver $10^t = 1000$, aplicamos logaritmo en base 10 en ambos lados: $t = \\log_{10}(1000) = 3$ años.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -778,31 +778,31 @@
       "context": "En Coronel Oviedo, un grupo de estudiantes de Paraguay analiza un problema de Logaritmos y sus Propiedades.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "2 años",
           "is_correct": true,
           "feedback": "¡Correcto! $\\log_{10}(100) = 2$ porque $10^2 = 100$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "3 años",
           "is_correct": false,
           "feedback": "Incorrecto. Verifique la potencia de 10 correspondiente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "1 años",
           "is_correct": false,
           "feedback": "Incorrecto. El valor es menor del esperado."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "4 años",
           "is_correct": false,
           "feedback": "Incorrecto. El doble del tiempo excedería ampliamente el valor de crecimiento."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Para resolver $10^t = 100$, aplicamos logaritmo en base 10 en ambos lados: $t = \\log_{10}(100) = 2$ años.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -868,13 +868,13 @@
       "context": "En Villarrica, un grupo de estudiantes de Paraguay analiza un problema de Logaritmos y sus Propiedades.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "2 años",
           "is_correct": true,
           "feedback": "¡Correcto! $\\log_{10}(100) = 2$ porque $10^2 = 100$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "3 años",
           "is_correct": false,
           "feedback": "Incorrecto. Verifique la potencia de 10 correspondiente."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. El doble del tiempo excedería ampliamente el valor de crecimiento."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Para resolver $10^t = 100$, aplicamos logaritmo en base 10 en ambos lados: $t = \\log_{10}(100) = 2$ años.",
       "difficulty": "10",
       "images": [],

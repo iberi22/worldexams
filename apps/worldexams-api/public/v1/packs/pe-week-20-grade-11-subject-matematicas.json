@@ -13,13 +13,13 @@
       "context": "Un estudiante en Lima repasa los criterios de semejanza para su examen de admisión.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Que tengan sus tres lados proporcionales.",
           "is_correct": false,
           "feedback": "Incorrecto. Este es el criterio LLL."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Que tengan dos de sus ángulos internos respectivamente iguales.",
           "is_correct": true,
           "feedback": "Correcto. Si dos triángulos comparten dos ángulos, el tercero también será igual y sus formas serán idénticas (semejantes)."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. El área no determina la semejanza de forma."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El criterio AA establece que si dos ángulos de un triángulo son congruentes con dos ángulos de otro triángulo, entonces ambos triángulos son semejantes. Esto implica que sus lados correspondientes son proporcionales.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -103,13 +103,13 @@
       "context": "Medición de alturas mediante sombras en el Centro Histórico de Lima.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "20 metros",
           "is_correct": false,
           "feedback": "Incorrecto. Error en el planteamiento de la proporción."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "30 metros",
           "is_correct": true,
           "feedback": "Correcto. Proporción: $2 / 3 = h / 45 \\Rightarrow 3h = 90 \\Rightarrow h = 30$."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. Invirtió los términos de la razón de altura y sombra."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Los rayos del sol son paralelos, por lo que los objetos y sus sombras forman triángulos rectángulos semejantes. Planteamos la igualdad de las razones entre altura y sombra para ambos objetos.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -154,13 +154,13 @@
           "feedback": "Incorrecto. Multiplicó en lugar de aplicar la proporción directa."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "3",
           "is_correct": true,
           "feedback": "Correcto. Por Teorema de Tales: $AD / DB = AE / EC \\Rightarrow 4 / 2 = 6 / EC \\Rightarrow 2 = 6 / EC \\Rightarrow EC = 3$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "4",
           "is_correct": false,
           "feedback": "Incorrecto. Asumió que los segmentos eran iguales."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. Error en el despeje de la proporción."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El Teorema de Tales indica que una paralela a uno de los lados de un triángulo determina sobre los otros dos lados segmentos proporcionales.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -244,25 +244,25 @@
           "feedback": "Incorrecto. Las longitudes de los lados se han reducido."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "24 cm",
           "is_correct": true,
           "feedback": "Correcto. Cada lado del nuevo triángulo es una base media, que mide la mitad del lado correspondiente del original. Por lo tanto, el perímetro también es la mitad: $48 / 2 = 24$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "12 cm",
           "is_correct": false,
           "feedback": "Incorrecto. Dividió el perímetro original por 4 por error."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "16 cm",
           "is_correct": false,
           "feedback": "Incorrecto. No corresponde a la relación de semejanza 1:2 de las longitudes."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El segmento que une los puntos medios de dos lados de un triángulo se llama base media y es paralelo y mide la mitad del tercer lado. Al aplicar esto a los tres lados, obtenemos un triángulo semejante con razón $1:2$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -289,13 +289,13 @@
           "feedback": "Incorrecto. Proporción mal aplicada."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "32 metros",
           "is_correct": true,
           "feedback": "Correcto. Razón de semejanza $20 / 5 = 4$. Entonces el otro cateto es $8 \\times 4 = 32$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "40 metros",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicó por un factor incorrecto."
@@ -307,7 +307,7 @@
           "feedback": "Incorrecto. Sumó los catetos del triángulo menor."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Identificamos la razón de semejanza comparando los lados correspondientes conocidos. Luego aplicamos esa misma razón al lado cuya medida deseamos encontrar.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -379,25 +379,25 @@
           "feedback": "Incorrecto. Error en la conversión de unidades o en la proporción."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "10 cm",
           "is_correct": true,
           "feedback": "Correcto. Los triángulos son semejantes. $\\text{Altura}_{\\text{árbol}} / \\text{Distancia} = \\text{Altura}_{\\text{imagen}} / \\text{Largo}_{\\text{cámara}}$. $15 / 30 = h / 0.20 \\Rightarrow 0.5 = h / 0.20 \\Rightarrow h = 0.10$ m $= 10$ cm."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "15 cm",
           "is_correct": false,
           "feedback": "Incorrecto. La imagen no puede tener el mismo valor numérico que la altura real en unidades diferentes."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "7.5 cm",
           "is_correct": false,
           "feedback": "Incorrecto. Realizó mal el cálculo de la razón."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El orificio de la cámara actúa como el vértice común de dos triángulos semejantes opuestos por el vértice. Es fundamental trabajar con las mismas unidades o realizar la conversión correcta al final.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -418,13 +418,13 @@
       "context": "Relación entre los elementos de triángulos semejantes (alturas y medianas).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "10 cm",
           "is_correct": false,
           "feedback": "Incorrecto. Aplicó una razón diferente a la dada."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "15 cm",
           "is_correct": true,
           "feedback": "Correcto. La razón entre cualquier par de líneas notables correspondientes (como las alturas) es la misma que la razón de los perímetros. $h / 25 = 3 / 5 \\Rightarrow 5h = 75 \\Rightarrow h = 15$."
@@ -442,7 +442,7 @@
           "feedback": "Incorrecto. Error al operar con la razón de semejanza."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "En triángulos semejantes, no solo los lados son proporcionales, sino también todas sus líneas notables (alturas, medianas, bisectrices) y sus perímetros, todos siguiendo la misma razón de semejanza $k$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -469,25 +469,25 @@
           "feedback": "Incorrecto. Valor obtenido por una suposición de punto medio incorrecta."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "4",
           "is_correct": true,
           "feedback": "Correcto. Sea $x$ el lado del rombo. Por semejanza de triángulos ($EFC \\sim ABC$): $x / 12 = (6 - x) / 6 \\Rightarrow 6x = 12(6 - x) \\Rightarrow 6x = 72 - 12x \\Rightarrow 18x = 72 \\Rightarrow x = 4$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "4.5",
           "is_correct": false,
           "feedback": "Incorrecto. Error en el planteamiento de la relación de semejanza."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "2",
           "is_correct": false,
           "feedback": "Incorrecto. El rombo ocuparía una porción muy pequeña del triángulo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Al inscribir el rombo, el triángulo pequeño $EFC$ es semejante al triángulo original $ABC$. Planteamos la proporción entre sus lados usando la medida del lado del rombo como variable $x$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -508,13 +508,13 @@
       "context": "Uso de la semejanza en trapecios.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "4 cm",
           "is_correct": false,
           "feedback": "Incorrecto. Esta es la distancia a la base menor."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "6 cm",
           "is_correct": true,
           "feedback": "Correcto. Los triángulos $AOD$ y $BOC$ son semejantes. Razón $= 12 / 8 = 1.5$. Si $h_1$ es la distancia a la base mayor y $h_2$ a la menor: $h_1 / h_2 = 1.5$ y $h_1 + h_2 = 10$. Resolviendo: $1.5h_2 + h_2 = 10 \\Rightarrow 2.5h_2 = 10 \\Rightarrow h_2 = 4$. Entonces $h_1 = 6$."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. Error al resolver el sistema de ecuaciones para las alturas parciales."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "En un trapecio, los triángulos formados por las bases y el punto de intersección de las diagonales son siempre semejantes. La razón de sus alturas es igual a la razón de sus bases.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -604,25 +604,25 @@
           "feedback": "Incorrecto. Promedio simple que no aplica en este modelo de semejanza."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "1.2 metros",
           "is_correct": true,
           "feedback": "Correcto. Por semejanza se demuestra la fórmula $1/h = 1/a + 1/b$. Entonces $1/h = 1/2 + 1/3 = 5/6 \\Rightarrow h = 6/5 = 1.2$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "1.0 metros",
           "is_correct": false,
           "feedback": "Incorrecto. No satisface la relación armónica de las alturas."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "2.5 metros",
           "is_correct": false,
           "feedback": "Incorrecto. La altura de cruce siempre es menor que la menor de las alturas de los postes."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Este es el clásico problema de la media armónica en geometría. La altura del cruce depende únicamente de las alturas de los soportes laterales mediante la relación recíproca.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -643,13 +643,13 @@
       "context": "Semejanza en el triángulo rectángulo: relaciones métricas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "15 cm",
           "is_correct": false,
           "feedback": "Incorrecto. Este es el valor del cateto cuya proyección es 9."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "20 cm",
           "is_correct": true,
           "feedback": "Correcto. Primero hallamos la otra proyección $n$: $12^2 = 9 \\cdot n \\Rightarrow 144 = 9n \\Rightarrow n = 16$. El cateto $b$ cumple $b^2 = n \\cdot hipotenusa = 16 \\cdot (9+16) = 16 \\cdot 25 = 400 \\Rightarrow b = 20$."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. Esta es la medida de la proyección, no del cateto."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Combinamos dos relaciones métricas: 1) el cuadrado de la altura es el producto de las proyecciones, y 2) el cuadrado de un cateto es el producto de su proyección por la hipotenusa completa.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -688,13 +688,13 @@
       "context": "Un problema de diseño de logotipos basado en la proporción áurea y semejanza.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "2",
           "is_correct": false,
           "feedback": "Incorrecto. No es una relación de números enteros simple."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\frac{1 + \\sqrt{5}}{2}$ (Número de oro)",
           "is_correct": true,
           "feedback": "Correcto. Este es el llamado \"triángulo áureo\". Al trazar la bisectriz se genera un triángulo semejante al original. La relación entre sus lados corresponde a la proporción áurea $\\phi$."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. Aproximación insuficiente para la precisión geométrica del triángulo áureo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El triángulo con ángulos 36-72-72 es especial porque su bisectriz base genera otro triángulo semejante (también 36-72-72). Al plantear la proporción de sus lados, se llega a la ecuación de segundo grado que define al número áureo.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -739,25 +739,25 @@
           "feedback": "Incorrecto. Sumó los segmentos sin considerar la semejanza."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "9",
           "is_correct": true,
           "feedback": "Correcto. Los triángulos $ABD$ y $ACB$ son semejantes por el criterio AA (comparten el ángulo $A$ y tienen otro ángulo igual por dato). Proporción: $AB / AC = AD / AB \\Rightarrow 6 / AC = 4 / 6 \\Rightarrow 4 AC = 36 \\Rightarrow AC = 9$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "8",
           "is_correct": false,
           "feedback": "Incorrecto. Error en la correspondencia de los lados en la proporción."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "12",
           "is_correct": false,
           "feedback": "Incorrecto. Valor inconsistente con la razón de semejanza encontrada."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Identificamos dos triángulos que comparten un ángulo y tienen otro par de ángulos iguales según el enunciado. Establecemos la correspondencia de los lados opuestos a los ángulos iguales y resolvemos la proporción resultante.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -784,13 +784,13 @@
           "feedback": "Incorrecto. Este es el área del triángulo pequeño superior."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "30 cm²",
           "is_correct": true,
           "feedback": "Correcto. Área superior $= (1/3)^2 \\cdot 90 = 10$. Área hasta la segunda paralela $= (2/3)^2 \\cdot 90 = 40$. El área del trapecio central es la diferencia: $40 - 10 = 30$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "40 cm²",
           "is_correct": false,
           "feedback": "Incorrecto. Este es el área acumulada de las dos primeras secciones."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. Error en la aplicación de la razón cuadrática de áreas."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Usamos la propiedad de que el área de un triángulo semejante es proporcional al cuadrado de la razón de semejanza de su altura. Calculamos el área de los dos triángulos superiores y restamos para hallar la porción central.\n\n---",
       "difficulty": "10",
       "images": [],

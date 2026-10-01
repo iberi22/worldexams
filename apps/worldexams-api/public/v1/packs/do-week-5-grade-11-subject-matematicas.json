@@ -19,13 +19,13 @@
           "feedback": "Incorrecto. Es el cubo del número."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$3x + 5$",
           "is_correct": true,
           "feedback": "Correcto. Triple es multiplicar por 3, aumentar es sumar."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$3(x + 5)$",
           "is_correct": false,
           "feedback": "Incorrecto. Es el triple de la suma."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Es la tercera parte."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Modelación básica de frases verbales en expresiones algebraicas.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -64,25 +64,25 @@
           "feedback": "Incorrecto. El coeficiente incluye el signo."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "-7",
           "is_correct": true,
           "feedback": "Correcto. Es el factor numérico con su signo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "2",
           "is_correct": false,
           "feedback": "Incorrecto. Es un exponente."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$x^2y^3$",
           "is_correct": false,
           "feedback": "Incorrecto. Es la parte literal."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Identificación de los elementos de un monomio.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -154,25 +154,25 @@
           "feedback": "Incorrecto. Solo sumó dos lados."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$6x + 8$",
           "is_correct": true,
           "feedback": "Correcto. $2(2x+3) + 2(x+1) = 6x+8$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$2x^2 + 5x + 3$",
           "is_correct": false,
           "feedback": "Incorrecto. Es el área."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$6x + 4$",
           "is_correct": false,
           "feedback": "Incorrecto. Distribución incompleta."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Suma de todos los lados combinando términos semejantes.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -193,19 +193,19 @@
       "context": "Clasificación de expresiones según términos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Monomio",
           "is_correct": false,
           "feedback": "Incorrecto. Tiene 3 términos."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Binomio",
           "is_correct": false,
           "feedback": "Incorrecto. Tiene 3 términos."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Trinomio",
           "is_correct": true,
           "feedback": "Correcto. Polinomio de exactamente tres términos."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. Es grado 2."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Nomenclatura de polinomios por cantidad de sumandos.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -238,13 +238,13 @@
       "context": "Valor numérico de $3x^2 - 2x + 5$ para $x = -2$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "13",
           "is_correct": false,
           "feedback": "Incorrecto. Error en signo del término lineal."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "21",
           "is_correct": true,
           "feedback": "Correcto. $3(4) - 2(-2) + 5 = 12+4+5=21$."
@@ -262,7 +262,7 @@
           "feedback": "Incorrecto. Error de cálculo total."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Sustitución y jerarquía con números negativos.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -289,13 +289,13 @@
           "feedback": "Incorrecto. No es solo el exponente mayor de x."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "5",
           "is_correct": false,
           "feedback": "Incorrecto. Grado de los primeros términos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "6",
           "is_correct": true,
           "feedback": "Correcto. Grado del último término: $2+4=6$."
@@ -307,7 +307,7 @@
           "feedback": "Incorrecto. No se suman todos los exponentes."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "El grado de un polinomio es el máximo de los grados de sus términos.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -328,13 +328,13 @@
       "context": "Simplificación de $5x - 3y + 2x - 8y + 4$ en San Francisco de Macorís.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$7x + 11y + 4$",
           "is_correct": false,
           "feedback": "Incorrecto. Error en signo de y."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$7x - 11y + 4$",
           "is_correct": true,
           "feedback": "Correcto. $(5+2)x$ y $(-3-8)y$."
@@ -352,7 +352,7 @@
           "feedback": "Incorrecto. Error en combinación de y."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Agrupación de términos con la misma parte literal.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -379,25 +379,25 @@
           "feedback": "Incorrecto. No sumó exponentes."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$-12x^3y^4$",
           "is_correct": true,
           "feedback": "Correcto. Coeficientes se multiplican, exponentes se suman."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x^3y^4$",
           "is_correct": false,
           "feedback": "Incorrecto. Ignoró coeficientes."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$12x^3y^4$",
           "is_correct": false,
           "feedback": "Incorrecto. Error de signo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Multiplicación de monomios aplicando leyes de exponentes.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -424,25 +424,25 @@
           "feedback": "Incorrecto. Sumó en lugar de restar."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$5a^2b$",
           "is_correct": true,
           "feedback": "Correcto. $15/3=5$, $a^{4-2}=a^2$, $b^{2-1}=b$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$12a^2b$",
           "is_correct": false,
           "feedback": "Incorrecto. Restó coeficientes."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$5a^2$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidó la variable b."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Cociente de monomios restando exponentes de variables iguales.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -469,25 +469,25 @@
           "feedback": "Incorrecto. Sumó términos."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$3x + 8$",
           "is_correct": true,
           "feedback": "Correcto. $5x-2x$ y $3-(-5)=8$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$3x - 2$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidó cambiar signo al -5."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$-3x - 8$",
           "is_correct": false,
           "feedback": "Incorrecto. Orden invertido."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Resta de polinomios mediante el cambio de signo del sustraendo.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -514,13 +514,13 @@
           "feedback": "Incorrecto. $x \\cdot x^2 = x^3$."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$6x^3 - 8x$",
           "is_correct": true,
           "feedback": "Correcto. Multiplicación término a término."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$5x^3 - 6x$",
           "is_correct": false,
           "feedback": "Incorrecto. Sumó en lugar de multiplicar."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. No distribuyó en el segundo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Producto de monomio por binomio.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -559,13 +559,13 @@
           "feedback": "Incorrecto. Coeficiente principal."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "-1",
           "is_correct": false,
           "feedback": "Incorrecto. Coeficiente cuadrático."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "7",
           "is_correct": true,
           "feedback": "Correcto. Término sin variable."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. Grado del polinomio."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Identificación del valor constante en una expresión polinómica.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -649,25 +649,25 @@
           "feedback": "Incorrecto. Error en distribución de negativos."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$13 - 3x$",
           "is_correct": true,
           "feedback": "Correcto. $10 - (x-3+2x) = 10 - (3x-3) = 13 - 3x$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$13 - x$",
           "is_correct": false,
           "feedback": "Incorrecto. No agrupó las x internas."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$7 - 3x$",
           "is_correct": false,
           "feedback": "Incorrecto. Error en término independiente."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Resolución de signos de agrupación de adentro hacia afuera.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -784,13 +784,13 @@
           "feedback": "Incorrecto. El residuo es el valor de la función."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "0",
           "is_correct": false,
           "feedback": "Incorrecto. Sería si (x-3) fuera factor."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "10",
           "is_correct": true,
           "feedback": "Correcto. Por definición del teorema del residuo."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. 3 es la entrada, no la salida."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Relación fundamental entre división polinómica y evaluación funcional.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -829,13 +829,13 @@
           "feedback": "Incorrecto. 2x rompe la paridad."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$3x^4 - x^2 + 5$",
           "is_correct": true,
           "feedback": "Correcto. Todos los exponentes son pares."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x^3 - x$",
           "is_correct": false,
           "feedback": "Incorrecto. Es impar."
@@ -847,7 +847,7 @@
           "feedback": "Incorrecto. x es exponente impar."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Condición de exponentes para la simetría respecto al eje Y.\n\n---",
       "difficulty": "10",
       "images": [],

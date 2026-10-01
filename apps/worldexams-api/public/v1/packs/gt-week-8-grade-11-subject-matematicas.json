@@ -109,25 +109,25 @@
           "feedback": "La pendiente es la variación en $y$ sobre la variación en $x$, no al revés."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$m = \\frac{y_2 - y_1}{x_2 - x_1}$",
           "is_correct": true,
           "feedback": "Correcto. Representa la razón de cambio vertical respecto al cambio horizontal."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$m = (y_2 - y_1)(x_2 - x_1)$",
           "is_correct": false,
           "feedback": "El producto de las diferencias no define la inclinación."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$m = y_2 + y_1 + x_2 + x_1$",
           "is_correct": false,
           "feedback": "Fórmula incorrecta para la pendiente."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La pendiente cuantifica la inclinación de una recta. Si $m > 0$ la recta es creciente; si $m < 0$ es decreciente.",
       "difficulty": "4",
       "images": [],
@@ -148,19 +148,19 @@
       "context": "En la geometría analítica, existen diferentes formas de expresar la ecuación de una misma recta.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Forma punto-pendiente",
           "is_correct": false,
           "feedback": "La forma punto-pendiente es $y - y_1 = m(x - x_1)$."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Forma pendiente-intercepto",
           "is_correct": false,
           "feedback": "Esta forma es $y = mx + b$."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Forma general o normal",
           "is_correct": true,
           "feedback": "Correcto. En esta forma, todos los términos se igualan a cero."
@@ -172,7 +172,7 @@
           "feedback": "La forma simétrica es $x/a + y/b = 1$."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "La ecuación general de la recta permite representar cualquier recta en el plano, incluyendo las rectas verticales (donde $B=0$).",
       "difficulty": "4",
       "images": [],
@@ -283,13 +283,13 @@
       "context": "Un estudiante calcula la pendiente de una calle empinada en una zona residencial de Mixco.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$1$",
           "is_correct": false,
           "feedback": "$(6 - (-3)) / (5 - 2) = 9 / 3 = 3$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$3$",
           "is_correct": true,
           "feedback": "Correcto. $m = (6 - (-3)) / (5 - 2) = 9 / 3 = 3$."
@@ -307,7 +307,7 @@
           "feedback": "Error en el manejo de signos al restar $-3$ de $6$."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La pendiente se halla restando las ordenadas ($y$) y dividiendo por la resta de las abscisas ($x$), manteniendo el mismo orden en ambos términos.",
       "difficulty": "6",
       "images": [],
@@ -328,13 +328,13 @@
       "context": "Un arquitecto utiliza la forma punto-pendiente para definir la línea de drenaje de una construcción.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$y = -2x + 7$",
           "is_correct": true,
           "feedback": "Correcto. $y - 1 = -2(x - 3) \\Rightarrow y = -2x + 6 + 1 \\Rightarrow y = -2x + 7$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$y = -2x + 1$",
           "is_correct": false,
           "feedback": "Error al calcular el intercepto $b$. El punto dado no es el intercepto con el eje $y$."
@@ -352,7 +352,7 @@
           "feedback": "Error de signos al despejar la ecuación."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Usando la forma punto-pendiente ($y - y_1 = m(x - x_1)$), se sustituyen los valores conocidos y se simplifica para obtener la forma pendiente-intercepto.",
       "difficulty": "6",
       "images": [],
@@ -379,13 +379,13 @@
           "feedback": "Esta es la condición para que sean perpendiculares."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Sus pendientes deben ser iguales ($m_1 = m_2$).",
           "is_correct": true,
           "feedback": "Correcto. Si tienen la misma inclinación y diferentes interceptos, nunca se cortarán."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El producto de sus pendientes debe ser igual a $1$.",
           "is_correct": false,
           "feedback": "El producto de pendientes no tiene una regla simple para el paralelismo."
@@ -397,7 +397,7 @@
           "feedback": "Esto causaría que las rectas se intersecten en algún punto."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El paralelismo geométrico implica igualdad en la inclinación algebraica (pendiente) de las rectas en el plano cartesiano.",
       "difficulty": "6",
       "images": [],
@@ -424,13 +424,13 @@
           "feedback": "Si $x=4, y=16 \\ne 12$."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$y = 3x$",
           "is_correct": true,
           "feedback": "Correcto. Pendiente $m = 12/4 = 3$. Como pasa por el origen, $b=0$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$y = x + 8$",
           "is_correct": false,
           "feedback": "No pasa por el origen $(0,0)$."
@@ -442,7 +442,7 @@
           "feedback": "Pendiente incorrecta."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Una recta que pasa por el origen se llama función lineal proporcional y su ecuación es de la forma $y = mx$, donde $b = 0$.",
       "difficulty": "6",
       "images": [],
@@ -463,19 +463,19 @@
       "context": "En el diseño de una lotificación en Villa Nueva, se requiere que dos calles sean perpendiculares entre sí.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$1/3$",
           "is_correct": false,
           "feedback": "Pendientes iguales significan paralelismo."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$3$",
           "is_correct": false,
           "feedback": "Falta el cambio de signo (debe ser la opuesta de la recíproca)."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "$-3$",
           "is_correct": true,
           "feedback": "Correcto. $(1/3) \\times (-3) = -1$."
@@ -487,7 +487,7 @@
           "feedback": "Solo se cambió el signo, falta invertir la fracción."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Dos rectas son perpendiculares si y solo si el producto de sus pendientes es $-1$. Esto se cumple cuando una pendiente es la recíproca y opuesta de la otra.",
       "difficulty": "8",
       "images": [],
@@ -514,13 +514,13 @@
           "feedback": "No se despejó la variable $y$."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$m = 2, b = 5$",
           "is_correct": true,
           "feedback": "Correcto. $2y = 4x + 10 \\Rightarrow y = 2x + 5$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$m = -2, b = -5$",
           "is_correct": false,
           "feedback": "Error al manejar los signos durante el despeje de $y$."
@@ -532,7 +532,7 @@
           "feedback": "Olvidaste dividir el término independiente por el coeficiente de $y$."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Para hallar la pendiente y el intercepto a partir de la forma general, se debe despejar la variable $y$ para llevar la ecuación a la forma $y = mx + b$.",
       "difficulty": "8",
       "images": [],
@@ -553,31 +553,31 @@
       "context": "Un ingeniero calcula la distancia más corta (perpendicular) desde un punto de control a una carretera recta.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$2$ unidades",
           "is_correct": true,
           "feedback": "Correcto. $d = |3(2) + 4(3) - 8| / \\sqrt{3^2 + 4^2} = |6 + 12 - 8| / 5 = 10 / 5 = 2$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$10$ unidades",
           "is_correct": false,
           "feedback": "Olvidaste dividir por la magnitud del vector normal ($\\sqrt{A^2+B^2}$)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$1.5$ unidades",
           "is_correct": false,
           "feedback": "Error en el cálculo aritmético del numerador o denominador."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$5$ unidades",
           "is_correct": false,
           "feedback": "Error al aplicar la fórmula de distancia de un punto a una recta."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La distancia de un punto $(x_0, y_0)$ a una recta $Ax+By+C=0$ se halla con la fórmula $d = \\frac{|Ax_0 + By_0 + C|}{\\sqrt{A^2 + B^2}}$.",
       "difficulty": "8",
       "images": [],
@@ -598,13 +598,13 @@
       "context": "Se estudian las propiedades de los cuadriláteros en el plano cartesiano mediante sus pendientes.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$0$",
           "is_correct": false,
           "feedback": "Esta sería la pendiente si el ángulo fuera $0^\\circ$ (horizontal)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$1$",
           "is_correct": true,
           "feedback": "Correcto. La pendiente es igual a la tangente del ángulo de inclinación: $\\tan(45^\\circ) = 1$."
@@ -622,7 +622,7 @@
           "feedback": "Esta sería la pendiente si el ángulo fuera $90^\\circ$ (vertical)."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Existe una relación directa entre la trigonometría y la geometría analítica: la pendiente $m$ de una recta es la tangente de su ángulo de inclinación $\\alpha$.",
       "difficulty": "8",
       "images": [],
@@ -643,13 +643,13 @@
       "context": "Un estudiante de ingeniería de la USAC utiliza la forma simétrica de la recta para identificar rápidamente los puntos de corte con los ejes.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$3x + 4y - 1 = 0$",
           "is_correct": false,
           "feedback": "No se realizó correctamente el producto por el mínimo común múltiplo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$4x + 3y - 12 = 0$",
           "is_correct": true,
           "feedback": "Correcto. Multiplicando por 12: $4x + 3y = 12 \\Rightarrow 4x + 3y - 12 = 0$."
@@ -667,7 +667,7 @@
           "feedback": "Se intercambiaron los coeficientes de las variables."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "En la forma simétrica $x/a + y/b = 1$, los valores $a$ y $b$ representan las intersecciones con los ejes $x$ e $y$ respectivamente.",
       "difficulty": "8",
       "images": [],
@@ -688,31 +688,31 @@
       "context": "Un estudiante analiza si tres puntos dados en el plano están alineados (son colineales).",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Sí, porque la pendiente entre $A$ y $B$ es igual a la pendiente entre $B$ y $C$.",
           "is_correct": true,
           "feedback": "Correcto. $m_{AB} = (4-2)/(2-1) = 2$ y $m_{BC} = (6-4)/(3-2) = 2$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "No, porque forman un triángulo de área pequeña.",
           "is_correct": false,
           "feedback": "Si las pendientes son iguales, el área del triángulo formado por ellos es exactamente cero."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Sí, porque las coordenadas $x$ aumentan de 1 en 1.",
           "is_correct": false,
           "feedback": "Esto no garantiza colinealidad si las coordenadas $y$ no aumentan de manera proporcional."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "No, porque no hay una recta que pase por el origen.",
           "is_correct": false,
           "feedback": "La colinealidad no depende de si la recta pasa o no por el origen."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Tres o más puntos son colineales si pertenecen a la misma recta, lo cual algebraicamente se verifica comprobando que las pendientes entre cualquier par de puntos sean idénticas.",
       "difficulty": "8",
       "images": [],
@@ -733,13 +733,13 @@
       "context": "Un matemático estudia las rectas que dividen a un segmento en una razón dada (no solo el punto medio).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$(4, 2.5)$",
           "is_correct": false,
           "feedback": "Este es el punto medio (razón 1)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$(5, 3)$",
           "is_correct": true,
           "feedback": "Correcto. $x_p = (1 + 2 \\times 7) / (1 + 2) = 15/3 = 5$; $y_p = (1 + 2 \\times 4) / (1 + 2) = 9/3 = 3$."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. No satisface la razón de distancias requerida."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La división de un segmento en una razón $r$ utiliza la fórmula $x = (x_1 + r x_2) / (1 + r)$. Si $r=2$, el punto está al doble de distancia de A que de B.",
       "difficulty": "10",
       "images": [],
@@ -784,25 +784,25 @@
           "feedback": "Incorrecto."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$45^\\circ$",
           "is_correct": true,
           "feedback": "Correcto. $\\tan(\\theta) = |(m_2 - m_1) / (1 + m_1 m_2)| = |(-3 - 2) / (1 + (2)(-3))| = |-5 / -5| = 1$. $\\arctan(1) = 45^\\circ$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$60^\\circ$",
           "is_correct": false,
           "feedback": "Incorrecto."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$90^\\circ$",
           "is_correct": false,
           "feedback": "Solo si el producto de pendientes fuera $-1$, pero $2 \\times (-3) = -6$."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El ángulo entre dos rectas se halla mediante la fórmula de la tangente de la diferencia de sus ángulos de inclinación, expresada en términos de sus pendientes.",
       "difficulty": "10",
       "images": [],
@@ -829,13 +829,13 @@
           "feedback": "Este es el intercepto con $x$, no necesariamente el más cercano al origen."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$(2, 1)$",
           "is_correct": true,
           "feedback": "Correcto. El punto más cercano está en la recta perpendicular que pasa por el origen ($y = 0.5x$). Intersección: $2x + 0.5x = 5 \\Rightarrow 2.5x = 5 \\Rightarrow x=2, y=1$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$(1, 3)$",
           "is_correct": false,
           "feedback": "Este punto está en la recta, pero su distancia al origen ($\\sqrt{10}$) es mayor que la de $(2,1)$ que es $\\sqrt{5}$."
@@ -847,7 +847,7 @@
           "feedback": "Este es el intercepto con $y$, más alejado que el punto perpendicular."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El punto de una recta más cercano al origen es el pie de la perpendicular trazada desde el origen a dicha recta.",
       "difficulty": "10",
       "images": [],
@@ -874,13 +874,13 @@
           "feedback": "Esta recta pasa por los puntos, no es la mediatriz."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$x + 2y - 9 = 0$",
           "is_correct": true,
           "feedback": "Correcto. Punto medio $M(3, 3)$. Pendiente $AB = 4/2 = 2$. Pendiente mediatriz $m = -1/2$. Ecuación: $y - 3 = -1/2(x - 3) \\Rightarrow 2y - 6 = -x + 3 \\Rightarrow x + 2y - 9 = 0$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$2x + y - 9 = 0$",
           "is_correct": false,
           "feedback": "Error al calcular la pendiente perpendicular."
@@ -892,7 +892,7 @@
           "feedback": "Error en los signos de la ecuación general resultante."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La mediatriz es la recta perpendicular a un segmento que pasa por su punto medio. Requiere combinar los conceptos de punto medio y pendiente perpendicular.",
       "difficulty": "10",
       "images": [],

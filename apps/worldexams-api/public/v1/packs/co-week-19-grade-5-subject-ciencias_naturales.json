@@ -13,19 +13,19 @@
       "context": "En una clase de ciencias en Bogotá, la profesora muestra fotos de un frailejón en el páramo y de un cactus en La Guajira.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Una característica que ayuda al ser vivo a sobrevivir en su hábitat.",
           "is_correct": true,
           "feedback": "Las adaptaciones son rasgos como el pelaje, las espinas o el color que favorecen la supervivencia."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Un cambio que ocurre solamente en los animales domésticos.",
           "is_correct": false,
           "feedback": "Las adaptaciones ocurren en plantas, animales y otros seres vivos, silvestres o domésticos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Una enfermedad que afecta a las plantas en clima frío.",
           "is_correct": false,
           "feedback": "Una adaptación no es una enfermedad, sino una característica que ayuda a sobrevivir."
@@ -37,7 +37,7 @@
           "feedback": "El alimento es parte de la dieta, no una característica adaptativa del cuerpo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Reconocer que las adaptaciones son características que favorecen la supervivencia en un ambiente determinado.",
       "difficulty": "4",
       "images": [],
@@ -105,19 +105,19 @@
       "context": "Una estudiante de Medellín observa un cactus de La Guajira en el jardín botánico y nota que no tiene hojas grandes.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Reduce la pérdida de agua, porque las espinas transpiran menos que las hojas.",
           "is_correct": true,
           "feedback": "Al reducir la superficie, el cactus pierde menos agua y sobrevive en el desierto."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Aumenta la cantidad de agua que pierde por las hojas.",
           "is_correct": false,
           "feedback": "Ocurre lo contrario: el cactus busca perder la menor cantidad de agua posible."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Le permite crecer más rápido en lugares muy húmedos.",
           "is_correct": false,
           "feedback": "El cactus está adaptado a zonas secas; la humedad excesiva no es su ambiente típico."
@@ -129,7 +129,7 @@
           "feedback": "Las espinas protegen a la planta; no son una trampa para alimentarse."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Aplicar el concepto de adaptación para explicar la reducción de la pérdida de agua en plantas del desierto.",
       "difficulty": "6",
       "images": [],
@@ -151,19 +151,19 @@
       "context": "En un colegio de Armenia, los estudiantes preparan un hábitat para una rana dorada que está en peligro de extinción.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Un ambiente húmedo y limpio, parecido a su bosque natural.",
           "is_correct": true,
           "feedback": "La rana dorada depende de la humedad y la limpieza de su bosque para respirar y reproducirse."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Una jaula seca y con mucha luz directa del sol.",
           "is_correct": false,
           "feedback": "La sequedad y el sol directo afectan la piel húmeda de la rana y su supervivencia."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Agua con detergente para mantenerla siempre limpia.",
           "is_correct": false,
           "feedback": "El detergente es un contaminante que daña la piel de la rana y el agua de su hábitat."
@@ -175,7 +175,7 @@
           "feedback": "Las temperaturas bajo cero no corresponden al ambiente cálido y húmedo de esta rana."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Aplicar el concepto de hábitat para seleccionar las condiciones que una especie necesita para sobrevivir.",
       "difficulty": "6",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "Un agricultor de Boyacá nota que las heladas dañan sus cultivos, pero los frailejones cercanos sobreviven.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Sus hojas peludas y su tallo grueso lo protegen de las bajas temperaturas.",
           "is_correct": true,
           "feedback": "La cubierta peluda y el tallo actúan como aislantes frente al frío extremo del páramo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque cambia de color según la temporada de lluvias.",
           "is_correct": false,
           "feedback": "El color del frailejón no es lo que lo protege del frío; el cambio de color no explica su resistencia."
@@ -221,7 +221,7 @@
           "feedback": "El frailejón vive en climas fríos de páramo; no requiere calor intenso."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Relacionar las estructuras del frailejón con su capacidad de resistir las bajas temperaturas del páramo.",
       "difficulty": "6",
       "images": [],
@@ -289,31 +289,31 @@
       "context": "Lee: \"La rana dorada es una de las especies más venenosas del mundo y su piel brillante advierte a los depredadores. Sin embargo, está en peligro por la destrucción de su hábitat.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Porque la rana depende de las condiciones específicas de su bosque húmedo y no puede vivir en cualquier lugar.",
           "is_correct": true,
           "feedback": "Al desaparecer su bosque, la rana pierde el ambiente húmedo y limpio que necesita para vivir."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque el veneno de su piel deja de funcionar fuera del bosque.",
           "is_correct": false,
           "feedback": "El veneno proviene de su alimentación, pero el problema central es la pérdida del hábitat."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque los depredadores aprenden a comer ranas venenosas.",
           "is_correct": false,
           "feedback": "Los depredadores evitan a la rana por su veneno; la amenaza principal es el hábitat destruido."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Porque su color brillante desaparece cuando cambia de ambiente.",
           "is_correct": false,
           "feedback": "El color brillante hace parte de su cuerpo; no es la razón de la amenaza."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Analizar la relación entre la supervivencia de una especie y la conservación de su hábitat natural.",
       "difficulty": "8",
       "images": [],
@@ -335,31 +335,31 @@
       "context": "Lee: 'En Colombia, el frailejón, la rana dorada y el cactus de La Guajira son especies adaptadas a hábitats muy distintos. Proteger esos hábitats es proteger su supervivencia.'",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Proteger y conservar los hábitats naturales donde viven.",
           "is_correct": true,
           "feedback": "Conservar el hábitat mantiene las condiciones que cada especie necesita para sobrevivir."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Llevar todas las especies a un solo hábitat para agruparlas.",
           "is_correct": false,
           "feedback": "Cada especie necesita su propio ambiente; reunirlas las pondría en riesgo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Cambiar el clima de cada región para que todas vivan igual.",
           "is_correct": false,
           "feedback": "Cambiar el clima alteraría los hábitats y afectaría a las especies adaptadas a ellos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Capturar ejemplares y mantenerlos en jaulas individuales.",
           "is_correct": false,
           "feedback": "Sacarlas de su hábitat reduce su bienestar y no resuelve la pérdida del ambiente natural."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Evaluar decisiones de conservación a partir de la relación entre las adaptaciones y la protección del hábitat.",
       "difficulty": "10",
       "images": [],

@@ -13,13 +13,13 @@
       "context": "Un estudiante de secundaria en Lima repasa las definiciones básicas de los tipos de ángulos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Ángulos suplementarios.",
           "is_correct": false,
           "feedback": "Incorrecto. Los ángulos suplementarios suman 180°."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Ángulos complementarios.",
           "is_correct": true,
           "feedback": "Correcto. Por definición, dos ángulos son complementarios si la suma de sus medidas es un ángulo recto (90°)."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Adyacente se refiere a la posición (comparten un lado), no necesariamente a la suma de sus medidas."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La clasificación de los ángulos según la suma de sus medidas es fundamental en geometría. El término \"complemento\" se reserva para la diferencia con 90°, y \"suplemento\" para la diferencia con 180°.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -154,13 +154,13 @@
           "feedback": "Incorrecto. Este es el ángulo menor."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "60°",
           "is_correct": true,
           "feedback": "Correcto. $x + 2x = 90 \\Rightarrow 3x = 90 \\Rightarrow x = 30$. El mayor es $2x = 60$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "45°",
           "is_correct": false,
           "feedback": "Incorrecto. En este caso los ángulos serían iguales."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. Supera el límite de la suma de ángulos complementarios (90°)."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Planteamos la ecuación basada en la definición de complementarios: la suma es 90°. Si uno es $x$, el otro es $2x$. La solución de $3x = 90$ nos da los valores de ambos ángulos.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -199,13 +199,13 @@
           "feedback": "Incorrecto. Verifique la suma total de los ángulos sobre una recta."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "30°",
           "is_correct": true,
           "feedback": "Correcto. La suma es 180°. $x + 2x + 3x = 180 \\Rightarrow 6x = 180 \\Rightarrow x = 30$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "60°",
           "is_correct": false,
           "feedback": "Incorrecto. Este es el ángulo intermedio."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. La suma total con este valor no llegaría a 180°."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Los ángulos que forman una recta (ángulo llano) siempre suman 180°. Resolvemos la ecuación de primer grado resultante de la suma de las tres expresiones.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -244,25 +244,25 @@
           "feedback": "Incorrecto. Olvidó sumar la segunda partición al primer sector."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "60°",
           "is_correct": true,
           "feedback": "Correcto. $OM$ divide al ángulo en dos de 40°. $MOB$ mide 40°. Su bisectriz $ON$ lo divide en dos de 20°. $AON = AOM + MON = 40 + 20 = 60$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "20°",
           "is_correct": false,
           "feedback": "Incorrecto. Esta es solo la medida de la última partición efectuada."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "70°",
           "is_correct": false,
           "feedback": "Incorrecto. Supera la medida lógica de la suma de los sectores."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La bisectriz divide a un ángulo en dos partes iguales. Realizamos el cálculo por etapas: primero dividimos el ángulo total, y luego dividimos uno de los resultados obtenidos, sumando finalmente las partes correspondientes al ángulo solicitado.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -283,13 +283,13 @@
       "context": "Ángulos opuestos por el vértice en un cruce de avenidas en Arequipa.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "5",
           "is_correct": false,
           "feedback": "Incorrecto. Error al agrupar los términos de la ecuación."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "10",
           "is_correct": true,
           "feedback": "Correcto. Los ángulos opuestos por el vértice son iguales. $5x - 10 = 2x + 20 \\Rightarrow 3x = 30 \\Rightarrow x = 10$."
@@ -307,7 +307,7 @@
           "feedback": "Incorrecto. Error en la división final."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La propiedad fundamental de los ángulos opuestos por el vértice es que son congruentes. Igualamos las expresiones dadas y resolvemos la ecuación lineal resultante.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -334,13 +334,13 @@
           "feedback": "Incorrecto. El suplemento sería 150 y el complemento 60; 150 no es el triple de 60."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "45°",
           "is_correct": true,
           "feedback": "Correcto. $180 - x = 3(90 - x) \\Rightarrow 180 - x = 270 - 3x \\Rightarrow 2x = 90 \\Rightarrow x = 45$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "60°",
           "is_correct": false,
           "feedback": "Incorrecto. El suplemento 120 no es el triple del complemento 30."
@@ -352,7 +352,7 @@
           "feedback": "Incorrecto. No satisface la igualdad planteada."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Traducción literal del enunciado a lenguaje algebraico: $S(x) = 3 C(x)$. Sustituimos las fórmulas $180 - x$ y $90 - x$, y resolvemos para $x$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -379,13 +379,13 @@
           "feedback": "Incorrecto. Igualó los ángulos en lugar de sumarlos."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "40",
           "is_correct": true,
           "feedback": "Correcto. Los ángulos conjugados internos entre paralelas son suplementarios. $(x + 40) + (2x + 20) = 180 \\Rightarrow 3x + 60 = 180 \\Rightarrow 3x = 120 \\Rightarrow x = 40$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "60",
           "is_correct": false,
           "feedback": "Incorrecto. Al sustituir, la suma excedería los 180°."
@@ -397,7 +397,7 @@
           "feedback": "Incorrecto. Error en la simplificación de la ecuación."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Los ángulos conjugados internos (del mismo lado de la secante) entre paralelas siempre suman 180°. Planteamos la suma e igualamos a 180.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -424,25 +424,25 @@
           "feedback": "Incorrecto. Olvidó que al restar de 90°, debe \"pedir prestado\" un grado convirtiéndolo en 60 minutos."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "47° 25'",
           "is_correct": true,
           "feedback": "Correcto. $90° 00' - 42° 35' = 89° 60' - 42° 35' = 47° 25'$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "47° 35'",
           "is_correct": false,
           "feedback": "Incorrecto. Error en la resta de los minutos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "48° 35'",
           "is_correct": false,
           "feedback": "Incorrecto. Error tanto en grados como en minutos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Para restar ángulos en grados y minutos, transformamos un grado en 60 minutos si la resta lo requiere. 90° equivale a 89° y 60 minutos. Realizamos la resta por separado para cada unidad.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -514,13 +514,13 @@
           "feedback": "Incorrecto. Error en el sentido de la igualdad de la propiedad."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "50°",
           "is_correct": true,
           "feedback": "Correcto. Propiedad del serrucho: Suma de ángulos a la derecha = Suma de ángulos a la izquierda. $20 + x = 30 + 40 \\Rightarrow 20 + x = 70 \\Rightarrow x = 50$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "70°",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidó restar el ángulo ya conocido del lado derecho."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. Valor físicamente imposible para el esquema descrito."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La propiedad del serrucho para rectas paralelas establece que la suma de las medidas de los ángulos agudos formados hacia un lado de la línea quebrada es igual a la suma de los que apuntan hacia el otro lado.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -559,25 +559,25 @@
           "feedback": "Incorrecto. Este es un ángulo de 90°, que es igual a su suplemento, no a la mitad."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$\\pi/3$",
           "is_correct": true,
           "feedback": "Correcto. $x = (180 - x) / 2 \\Rightarrow 2x = 180 - x \\Rightarrow 3x = 180 \\Rightarrow x = 60°$. En radianes: $60 \\cdot (\\pi / 180) = \\pi/3$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\pi/6$",
           "is_correct": false,
           "feedback": "Incorrecto. Corresponde a 30°, que es la sexta parte del suplemento de 150."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$2\\pi/3$",
           "is_correct": false,
           "feedback": "Incorrecto. Este ángulo (120°) es el doble de su suplemento."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Primero resolvemos el problema en el sistema sexagesimal para facilitar el cálculo. Una vez obtenido el valor de 60°, aplicamos el factor de conversión $\\pi / 180$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -604,13 +604,13 @@
           "feedback": "Incorrecto. Este es el ángulo si la manecilla de la hora estuviera fija en el 3."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "130°",
           "is_correct": true,
           "feedback": "Correcto. Fórmula: $\\theta = |30H - 5.5M|$. $\\theta = |30(3) - 5.5(40)| = |90 - 220| = |-130| = 130$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "150°",
           "is_correct": false,
           "feedback": "Incorrecto. Error al calcular el desplazamiento de la manecilla de las horas."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. Realizó mal la resta en la fórmula de ángulos horarios."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Usamos la fórmula para el ángulo entre manecillas: $\\theta = |30H - \\frac{11}{2}M|$. Donde $H$ son las horas y $M$ los minutos. Esto contempla el pequeño avance de la manecilla de las horas mientras los minutos transcurren.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -649,13 +649,13 @@
           "feedback": "Incorrecto. El ángulo entre bisectrices siempre es menor que la suma total."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "55°",
           "is_correct": true,
           "feedback": "Correcto. Sean $2\\alpha$ y $2\\beta$ los ángulos. $2\\alpha + 2\\beta = 110 \\Rightarrow \\alpha + \\beta = 55$. El ángulo entre bisectrices es justamente $\\alpha + \\beta$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "45°",
           "is_correct": false,
           "feedback": "Incorrecto. No es la mitad de 110."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. Dividió la suma dos veces por 2 de manera errónea."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Por teorema, el ángulo formado por las bisectrices de dos ángulos adyacentes es igual a la mitad de la suma de dichos ángulos. Es una propiedad de bisección y aditividad.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -694,25 +694,25 @@
           "feedback": "Incorrecto. Este es el valor si la diferencia fuera 2."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$\\pi/5$",
           "is_correct": true,
           "feedback": "Correcto. Sabemos que $S = 9k$ y $C = 10k$. Entonces $10k - 9k = 4 \\Rightarrow k = 4$. El ángulo en sexagesimales es $9(4) = 36°$. En radianes: $36 \\cdot (\\pi/180) = \\pi/5$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\pi/20$",
           "is_correct": false,
           "feedback": "Incorrecto. Valor muy pequeño para la relación dada."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$2\\pi/5$",
           "is_correct": false,
           "feedback": "Incorrecto. Corresponde al doble del valor correcto."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Usamos la relación fundamental entre sistemas: $S/180 = C/200 = R/\\pi$, que se simplifica a $S/9 = C/10 = k$. Resolvemos para $k$ usando la diferencia dada y convertimos al sistema radial.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -739,25 +739,25 @@
           "feedback": "Incorrecto. El doble sería 180, pero la diferencia $S-C$ es siempre 90."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "45°",
           "is_correct": true,
           "feedback": "Correcto. $(180 - x) - (90 - x) = 2x \\Rightarrow 90 = 2x \\Rightarrow x = 45$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "30°",
           "is_correct": false,
           "feedback": "Incorrecto. No satisface la condición del doble."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "60°",
           "is_correct": false,
           "feedback": "Incorrecto. La diferencia $S-C$ es constante e independiente de $x$, pero aquí se iguala a una función de $x$."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Notamos que la expresión \"suplemento menos complemento\" siempre es igual a 90° para cualquier ángulo (ya que $(180-x)-(90-x) = 90$). Planteamos entonces que $90 = 2x$, de donde $x = 45$.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -778,13 +778,13 @@
       "context": "Problema de ángulos entre bisectrices con condiciones de perpendicularidad, nivel avanzado.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "130°",
           "is_correct": false,
           "feedback": "Incorrecto. No consideró que las bisectrices incluyen solo la mitad de los ángulos extremos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "140°",
           "is_correct": true,
           "feedback": "Correcto. Sean $2\\alpha = AOB$ y $2\\gamma = COD$. El ángulo entre bisectrices es $\\alpha + 40 + \\gamma = 90 \\Rightarrow \\alpha + \\gamma = 50$. El ángulo total $AOD = 2\\alpha + 40 + 2\\gamma = 2(\\alpha + \\gamma) + 40 = 2(50) + 40 = 140$."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. Error en la aplicación de la propiedad de suma de sectores."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Definimos las medidas de los ángulos extremos como pares ($2\\alpha$ y $2\\gamma$) para facilitar el trabajo con bisectrices. Planteamos que el ángulo entre las bisectrices es la suma de las mitades de los extremos más el ángulo central común. Despejamos la suma de las mitades y duplicamos para hallar el total.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -829,25 +829,25 @@
           "feedback": "Incorrecto. La suma excedería los 360°."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "12",
           "is_correct": true,
           "feedback": "Correcto. Suma $= (10 + 50) \\cdot n / 2 = 360 \\Rightarrow 60 \\cdot n = 720 \\Rightarrow n = 12$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "9",
           "is_correct": false,
           "feedback": "Incorrecto. La suma sería de 270°, insuficiente para rodear el punto."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "15",
           "is_correct": false,
           "feedback": "Incorrecto. La suma superaría el límite de un giro completo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Aplicamos la fórmula de la suma de una progresión aritmética aplicada al contexto de ángulos que completan un giro (360°). Conocemos los extremos, por lo que despejamos directamente el número de términos $n$.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -874,25 +874,25 @@
           "feedback": "Incorrecto. La perpendicularidad no garantiza la maximización de una componente específica tras rotación."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "La bisectriz del ángulo entre ellos forma 60° con el eje $X$ original.",
           "is_correct": true,
           "feedback": "Correcto. Para maximizar la componente $x$ total tras rotar 30°, la resultante debe quedar sobre el nuevo eje $X$. Por lo tanto, la resultante original debía estar a 30° del eje $X$. Si los vectores tienen igual magnitud, su bisectriz coincide con la resultante. (Nota: Asumiendo magnitudes iguales para la simplicidad del reto)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Los vectores son paralelos.",
           "is_correct": false,
           "feedback": "Incorrecto. No permitiría la variación analizada."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El ángulo $\\theta$ debe ser de 120°.",
           "is_correct": false,
           "feedback": "Incorrecto. El valor del ángulo no es la clave, sino la orientación de la resultante."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Este problema evalúa la comprensión de la rotación de coordenadas y la proyección de vectores. La componente $x$ se maximiza cuando el vector resultante se alinea con el eje horizontal. Si la rotación óptima es de 30°, significa que la dirección de la suma vectorial estaba originalmente a 30° de la horizontal.",
       "difficulty": "10",
       "images": [],

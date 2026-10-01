@@ -13,19 +13,19 @@
       "context": "En Medellín, la profesora escribe en el tablero la sucesión 3, 6, 9, 12, 15 para iniciar la clase de patrones.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Es una lista ordenada de números que sigue una regla; el siguiente término es 18.",
           "is_correct": true,
           "feedback": "Correcto. La regla es sumar 3 cada vez, por eso 15 + 3 = 18."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Es un conjunto desordenado de números; el siguiente término es 10.",
           "is_correct": false,
           "feedback": "Incorrecto. La sucesión sí tiene orden y regla; 10 rompe el patrón."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Es una operación con letras; el siguiente término es 21.",
           "is_correct": false,
           "feedback": "Incorrecto. Eso describe una expresión algebraica, no la sucesión, y 21 no sigue el paso de 3."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. La definición es correcta, pero 16 no continúa el patrón de sumar 3."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Una sucesión es un conjunto ordenado de términos generados por una regla o patrón. En 3, 6, 9, 12, 15 la diferencia constante es 3, así que el sexto término es 15 + 3 = 18.",
       "difficulty": "4",
       "images": [],
@@ -65,25 +65,25 @@
           "feedback": "Incorrecto. Esa es la característica de una sucesión geométrica, no aritmética."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Cada término se obtiene sumando una diferencia constante al anterior.",
           "is_correct": true,
           "feedback": "Correcto. Aquí la diferencia constante es 3."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Los términos no tienen ninguna relación entre sí.",
           "is_correct": false,
           "feedback": "Incorrecto. En una sucesión aritmética sí hay una relación fija."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Cada término se obtiene elevando al cuadrado el anterior.",
           "is_correct": false,
           "feedback": "Incorrecto. Esa regla generaría un crecimiento mucho mayor."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Una sucesión es aritmética cuando la diferencia entre términos consecutivos es constante. En 4, 7, 10, 13 se cumple que 7 − 4 = 3, 10 − 7 = 3 y 13 − 10 = 3.",
       "difficulty": "4",
       "images": [],
@@ -111,25 +111,25 @@
           "feedback": "Incorrecto. 5 es el primer término, no la diferencia entre consecutivos."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Diferencia 4 y siguiente término 21.",
           "is_correct": true,
           "feedback": "Correcto. Cada término aumenta 4 unidades: 17 + 4 = 21."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Diferencia 4 y siguiente término 20.",
           "is_correct": false,
           "feedback": "Incorrecto. La diferencia es correcta, pero 17 + 4 = 21, no 20."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Diferencia 3 y siguiente término 20.",
           "is_correct": false,
           "feedback": "Incorrecto. La diferencia real es 4, no 3."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La diferencia común se halla restando términos consecutivos: 9 − 5 = 4. Como el patrón es sumar 4, el quinto término es 17 + 4 = 21.",
       "difficulty": "4",
       "images": [],
@@ -157,25 +157,25 @@
           "feedback": "Incorrecto. Con 6n + 6, el primer término sería 12, no 6."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Término general 6n y 8 cajas acumulan 48 cuadernos.",
           "is_correct": true,
           "feedback": "Correcto. Para n = 8, 6 por 8 = 48."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Término general 6n y 8 cajas acumulan 54 cuadernos.",
           "is_correct": false,
           "feedback": "Incorrecto. La fórmula es correcta, pero 6 por 8 = 48, no 54."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Término general n + 6 y 8 cajas acumulan 14 cuadernos.",
           "is_correct": false,
           "feedback": "Incorrecto. Esa fórmula describe otra sucesión distinta."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El término general de esta sucesión aritmética es a(n) = 6n, porque el primer término es 6 × 1 y la diferencia es 6. Al evaluar en n = 8 se obtiene a(8) = 48 cuadernos.",
       "difficulty": "6",
       "images": [],
@@ -203,13 +203,13 @@
           "feedback": "Incorrecto. La sucesión no suma una cantidad fija, sino que multiplica."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Geométrica con razón 2; sexta hora: 64.",
           "is_correct": true,
           "feedback": "Correcto. Cada término es el doble del anterior y 32 por 2 = 64."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Geométrica con razón 2; sexta hora: 48.",
           "is_correct": false,
           "feedback": "Incorrecto. La razón es correcta, pero 32 por 2 = 64, no 48."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto. Las diferencias 2, 4, 8, 16 no son constantes."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Es una sucesión geométrica porque cada término se obtiene multiplicando por la razón 2. Su término general es a(n) = 2 elevado a n. Para n = 6, a(6) = 64.",
       "difficulty": "6",
       "images": [],
@@ -295,25 +295,25 @@
           "feedback": "Incorrecto. Compartir el primer término no garantiza el mismo tipo de patrón."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Ahorro A es geométrico de razón 2 y Ahorro B es aritmético de diferencia 3.000.",
           "is_correct": true,
           "feedback": "Correcto. En A cada término se duplica; en B cada término suma 3.000."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ahorro A es aritmético y Ahorro B es geométrico.",
           "is_correct": false,
           "feedback": "Incorrecto. Es al contrario: A multiplica y B suma una cantidad fija."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Ninguna tiene patrón porque los valores son diferentes.",
           "is_correct": false,
           "feedback": "Incorrecto. Ambas tienen reglas claras y verificables."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "En Ahorro A los cocientes son constantes: 4.000/2.000 = 2, 8.000/4.000 = 2, 16.000/8.000 = 2, luego es geométrica. En Ahorro B las diferencias son constantes: 3.000 en cada paso, luego es aritmética. El crecimiento geométrico acelera más rápido.",
       "difficulty": "8",
       "images": [],
@@ -335,13 +335,13 @@
       "context": "En Pereira, la sucesión de sillas que se arman por día es 7, 12, 17, 22. El jefe de taller propone la fórmula a(n) = 5n + 2.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Sí, porque a(1) = 7, a(2) = 12, a(3) = 17 y a(4) = 22.",
           "is_correct": true,
           "feedback": "Correcto. Al evaluar n = 1, 2, 3, 4 se reproducen exactamente los términos dados."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "No, porque la diferencia de la sucesión es 7.",
           "is_correct": false,
           "feedback": "Incorrecto. La diferencia constante es 5, no 7; 7 es el primer término."
@@ -359,7 +359,7 @@
           "feedback": "Incorrecto. Al evaluar se obtiene a(1) = 5 por 1 + 2 = 7."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Para validar una fórmula se evalúa en los primeros valores de n. Aquí a(1) = 5 + 2 = 7, a(2) = 10 + 2 = 12, a(3) = 15 + 2 = 17 y a(4) = 20 + 2 = 22. Como coinciden todos, la fórmula es correcta.",
       "difficulty": "8",
       "images": [],
@@ -387,13 +387,13 @@
           "feedback": "Incorrecto. Las diferencias 3, 5, 7, 9 no son constantes, así que no es lineal."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Patrón cuadrático n al cuadrado; sexto término: 36.",
           "is_correct": true,
           "feedback": "Correcto. Cada término es la posición elevada al cuadrado y 6 al cuadrado = 36."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Patrón geométrico de razón 4; sexto término: 100.",
           "is_correct": false,
           "feedback": "Incorrecto. Los cocientes 4, 9/4, 16/9, 25/16 no son constantes."
@@ -405,7 +405,7 @@
           "feedback": "Incorrecto. El patrón es correcto, pero 6 al cuadrado = 36, no 30."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Cada término es el cuadrado de su posición: 1² = 1, 2² = 4, 3² = 9, 4² = 16, 5² = 25. No es aritmética ni geométrica; es cuadrática con término general a(n) = n². Por tanto, a(6) = 36.",
       "difficulty": "8",
       "images": [],
@@ -479,13 +479,13 @@
           "feedback": "Incorrecto. Esa fórmula daría 7.500 para n = 1 por coincidencia, pero 19.500 para n = 2, lo cual no coincide."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "C(n) = 6.000 + 1.500n y para 10 km cuesta 21.000 COP.",
           "is_correct": true,
           "feedback": "Correcto. La fórmula reproduce 7.500, 9.000 y 10.500, y en n = 10 da 21.000 COP."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "C(n) = 6.000 + 1.500n y para 10 km cuesta 75.000 COP.",
           "is_correct": false,
           "feedback": "Incorrecto. La fórmula es correcta, pero 6.000 + 15.000 = 21.000, no 75.000."
@@ -497,7 +497,7 @@
           "feedback": "Incorrecto. Ese modelo ignora la tarifa base y solo sirve para el primer kilómetro."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El costo forma una sucesión aritmética de diferencia 1.500 con primer término 7.500. El modelo es C(n) = 6.000 + 1.500n en COP. Para n = 10: C(10) = 6.000 + 15.000 = 21.000 COP.",
       "difficulty": "10",
       "images": [],
@@ -519,13 +519,13 @@
       "context": "En Pasto, un estudiante observa la sucesión 2, 6, 12, 20, 30 y afirma que es aritmética porque \"siempre aumenta\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Es correcta: es aritmética de diferencia 4 y sigue 34.",
           "is_correct": false,
           "feedback": "Incorrecto. Las diferencias son 4, 6, 8, 10, no una constante 4."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Es incorrecta: las diferencias 4, 6, 8, 10 no son constantes; el patrón es n(n + 1) y sigue 42.",
           "is_correct": true,
           "feedback": "Correcto. Cada término es la posición por la posición más uno: 6 por 7 = 42."
@@ -543,7 +543,7 @@
           "feedback": "Incorrecto. Los cocientes 3, 2, 5/3, 3/2 no son constantes."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Que una sucesión crezca no la hace aritmética; se requiere diferencia constante. Aquí las primeras diferencias son 4, 6, 8, 10, que a su vez forman un patrón. La regla es a(n) = n(n + 1): 1×2 = 2, 2×3 = 6, 3×4 = 12, 4×5 = 20, 5×6 = 30, 6×7 = 42.",
       "difficulty": "10",
       "images": [],

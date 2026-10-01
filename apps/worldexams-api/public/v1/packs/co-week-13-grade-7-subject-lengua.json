@@ -59,13 +59,13 @@
       "context": "Valentina quiere organizar su día: \"Primero desayunaré, luego iré a clase y finalmente haré la tarea\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Conectores de oposición (adversativos).",
           "is_correct": false,
           "feedback": "Incorrecto. Las acciones no se oponen entre sí."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Conectores de orden o secuencia temporal.",
           "is_correct": true,
           "feedback": "¡Correcto! Indican la sucesión de los hechos en el tiempo."
@@ -83,7 +83,7 @@
           "feedback": "Incorrecto. No está sintetizando una idea previa, sino enumerando pasos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Los conectores de orden (en primer lugar, después, a continuación, por último) son vitales en los textos instructivos y narrativos para que el lector entienda el proceso paso a paso.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -117,19 +117,19 @@
           "feedback": "Incorrecto. El conector afirma una consecuencia lógica."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Relación de consecuencia o conclusión.",
           "is_correct": true,
           "feedback": "¡Correcto! La protección es la consecuencia lógica de que sean vitales."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Relación de tiempo pasado.",
           "is_correct": false,
           "feedback": "Incorrecto. No indica cuándo ocurre, sino por qué debe ocurrir una acción."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Los conectores de consecuencia (por eso, en consecuencia, por consiguiente) son las herramientas estrella de los textos argumentativos. Permiten derivar conclusiones sólidas a partir de premisas o datos presentados previamente.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -157,13 +157,13 @@
           "feedback": "Incorrecto. \"Porque\" es un conector de causa."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Mañana lloverá en Bogotá, así que llevaré paraguas.",
           "is_correct": false,
           "feedback": "Incorrecto. \"Así que\" es un conector de consecuencia."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Estudié mucho para el examen de sociales; sin embargo, me sentí muy nervioso.",
           "is_correct": true,
           "feedback": "¡Correcto! \"Sin embargo\" presenta un contraste entre el estudio y el nerviosismo."
@@ -175,7 +175,7 @@
           "feedback": "Incorrecto. \"Además\" es un conector de adición o suma."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Saber contrastar ideas con conectores como \"pero\", \"aunque\", \"no obstante\" o \"al contrario\" demuestra un manejo avanzado del idioma. Ayuda a mostrar matices en la realidad donde las cosas no siempre son de una sola forma.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "Santiago está escribiendo un cuento sobre un viaje al Amazonas. Quiere añadir una idea más sobre los animales que vio.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "En resumen",
           "is_correct": false,
           "feedback": "Incorrecto. Se usa para terminar o sintetizar, no para añadir datos nuevos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Asimismo",
           "is_correct": true,
           "feedback": "¡Correcto! Es un conector formal de adición, similar a \"también\" o \"además\"."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto. Se usa para oponer dos situaciones."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Los conectores de adición (además, también, igualmente, por otra parte) permiten enriquecer un párrafo sin sonar repetitivo. \"Asimismo\" es una opción elegante y formal muy usada en textos académicos y literarios.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -335,13 +335,13 @@
       "context": "Al escribir la conclusión de un ensayo sobre la paz en Colombia, es importante usar conectores que sinteticen lo dicho.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Por otra parte",
           "is_correct": false,
           "feedback": "Incorrecto. Indica que se va a hablar de un tema nuevo o distinto."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "En conclusión",
           "is_correct": true,
           "feedback": "¡Correcto! Avisa al lector que se ha llegado al final y se van a resumir las ideas principales."
@@ -359,7 +359,7 @@
           "feedback": "Incorrecto. Se usa para contrastar ideas, no para cerrar un texto completo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El uso de conectores conclusivos (para terminar, finalmente, en suma, en conclusión) le da una estructura profesional al escrito. Ayuda a \"amarrar\" todas las ideas presentadas y a dejar una impresión clara en el lector al final del camino.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -393,19 +393,19 @@
           "feedback": "Incorrecto. El texto perdería su sentido de advertencia y contraste."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Se perdería la relación de oposición y parecería que la deforestación es una \"riqueza\" o algo bueno que se suma a la región.",
           "is_correct": true,
           "feedback": "¡Correcto! Se cambiaría un contraste por una suma, creando un sinsentido lógico."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El texto se volvería una poesía sobre los ríos.",
           "is_correct": false,
           "feedback": "Incorrecto. El cambio de conector afecta la lógica, no necesariamente el género literario."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Elegir el conector equivocado puede cambiar totalmente el mensaje. El análisis crítico implica entender que los conectores no son adornos, sino indicadores de la postura del autor ante los hechos. \"No obstante\" indica una preocupación; \"Además\" indicaría una simple acumulación.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -433,25 +433,25 @@
           "feedback": "Incorrecto. Indicaría que la lesión fue el resultado de no terminar la carrera, lo cual no tiene sentido."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "puesto que",
           "is_correct": true,
           "feedback": "¡Correcto! \"Puesto que\" introduce la causa o motivo por el cual no terminó la carrera."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "pero",
           "is_correct": false,
           "feedback": "Incorrecto. Indicaría un obstáculo que no necesariamente explica la causa directa en este contexto."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "en primer lugar",
           "is_correct": false,
           "feedback": "Incorrecto. Indicaría orden, no el motivo de la acción."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Los conectores causales (ya que, debido a que, porque, puesto que) son esenciales para explicar el porqué de las cosas. Su uso correcto permite que el lector comprenda la cadena de eventos y la motivación de los personajes o de los hechos históricos descritos.\n\n---\n\n[//]: # (QUALITY_REVIEW)\n| Dimension | Puntaje |\n|-----------|---------|\n| Tecnico | 10/10 |\n| Curricular | 10/10 |\n| Contexto | 10/10 |\n| Redaccion | 10/10 |\n| **Total** | **40/40** |",
       "difficulty": "10",
       "images": [],

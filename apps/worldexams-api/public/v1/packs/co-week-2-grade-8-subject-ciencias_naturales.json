@@ -59,19 +59,19 @@
       "context": "En una clase de ciencias en Medellín, se compara el número de cromosomas de células somaticas y gametos humanos para entender la importancia biologica de cada tipo de división celular.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "La mitosis realiza una división y produce dos células hijas; la meiosis realiza dos divisiones y produce cuatro células hijas.",
           "is_correct": true,
           "feedback": "Correcto. Mitosis: 1 división, 2 células. Meiosis: 2 divisiones consecutivas, 4 células haploides."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La mitosis realiza dos divisiones y produce cuatro células hijas; la meiosis realiza una división y produce dos células hijas.",
           "is_correct": false,
           "feedback": "Incorrecto. Invertiste los procesos: la meiosis es la que requiere dos rondas de división."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ambos procesos producen exactamente el mismo número de células hijas con la misma dotacion cromosomica.",
           "is_correct": false,
           "feedback": "Incorrecto. La dotacion cromosomica y el número de células hijas son los rasgos distintivos entre ambos."
@@ -83,7 +83,7 @@
           "feedback": "Incorrecto. Ocurre al contrario: mitosis en somaticas y meiosis en gonadicas para gametos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Mitosis: 1 división nuclear $\\to$ 2 células hijas diploides (2n). Meiosis: 2 divisiones nucleares $\\to$ 4 células hijas haploides (n).",
       "difficulty": "4",
       "images": [],
@@ -105,31 +105,31 @@
       "context": "En un cultivo de células vegetales de arracacha (Arracacia xanthorrhiza) en el laboratorio de la Universidad Nacional, sede Bogotá, se observa una célula con 22 cromosomas en la fase G2 del ciclo celular.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "22 cromosomas en cada célula hija.",
           "is_correct": true,
           "feedback": "Correcto. La mitosis conserva la dotacion cromosomica diploide de la célula madre (2n = 22)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "11 cromosomas en cada célula hija.",
           "is_correct": false,
           "feedback": "Incorrecto. La reduccion a la mitad (haploide) es caracteristica de la meiosis, no de la mitosis."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "44 cromosomas en cada célula hija.",
           "is_correct": false,
           "feedback": "Incorrecto. Implicaria una duplicacion no controlada del material genético."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "22 cromosomas solo en una célula hija y 0 en la otra.",
           "is_correct": false,
           "feedback": "Incorrecto. La mitosis reparte equitativamente el material duplicado entre las dos hijas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Durante la mitosis (fase S previa) el ADN se duplica y luego se reparte en partes iguales. Resultado: dos células hijas con la misma dotacion 2n de la progenitora.",
       "difficulty": "6",
       "images": [],
@@ -151,19 +151,19 @@
       "context": "En el laboratorio de genética de la Universidad de Antioquia, se analiza la meiosis en células germinales de una planta de frijol (Phaseolus vulgaris) con dotacion 2n = 22 cromosomas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "11 cromosomas en cada gameto.",
           "is_correct": true,
           "feedback": "Correcto. La meiosis reduce la dotacion a la mitad: n = 22/2 = 11 cromosomas por célula haploide."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "22 cromosomas en cada gameto.",
           "is_correct": false,
           "feedback": "Incorrecto. Esto seria el resultado de una mitosis, no de una meiosis."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "44 cromosomas en cada gameto.",
           "is_correct": false,
           "feedback": "Incorrecto. Supera el número diploide y no corresponde a ninguna división normal."
@@ -175,7 +175,7 @@
           "feedback": "Incorrecto. La meiosis regulada distribuye exactamente n cromosomas a cada gameto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Meiosis reduce la dotacion: célula diploide 2n = 22 $\\to$ cuatro células haploides n = 11.",
       "difficulty": "6",
       "images": [],
@@ -197,19 +197,19 @@
       "context": "En el barrio Getsemani de Cartagena, una estudiante observa durante el ciclo celular la fase en la que los cromosomas se condensan al máximo y la membrana nuclear desaparece.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Metafase",
           "is_correct": true,
           "feedback": "Correcto. En metafase los cromosomas se alinean en el plano ecuatorial unidos a las fibras del huso."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Profase",
           "is_correct": false,
           "feedback": "Incorrecto. En profase los cromosomas se condensan pero aun no se alinean en el ecuador."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Anafase",
           "is_correct": false,
           "feedback": "Incorrecto. En anafase las cromatidas hermanas se separan y emigran a polos opuestos."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto. En telofase los cromosomas se descondensan y se reconstruyen las nucleos hijas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Orden de fases mitoticas: Profase $\\to$ Metafase (alineacion ecuatorial) $\\to$ Anafase (segregacion) $\\to$ Telofase (reorganizacion nuclear).",
       "difficulty": "6",
       "images": [],
@@ -335,31 +335,31 @@
       "context": "En el jardin botanico Jose Celestino Mutis de Bogotá, se estudia la reproducción sexual de las orquideas endemicas, comparando mitosis y meiosis en sus tejidos somaticos y reproductivos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Generar gametos haploides (n) que al fecundarse restablecen la dotacion diploide (2n) de la especie.",
           "is_correct": true,
           "feedback": "Correcto. La meiosis reduce el número cromosomico a la mitad para mantener constante la dotacion de la especie."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Duplicar el material genético para acelerar el crecimiento de los tejidos.",
           "is_correct": false,
           "feedback": "Incorrecto. La duplicacion del ADN ocurre en interfase (fase S), no es la funcion de la meiosis."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Producir células somaticas identicas para renovar tejidos danados.",
           "is_correct": false,
           "feedback": "Incorrecto. Esa funcion la cumple la mitosis en células somaticas."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Eliminar completamente todo el material genético defectuoso de la linea germinal.",
           "is_correct": false,
           "feedback": "Incorrecto. La meiosis recombina el material genético, pero no elimina de forma absoluta los alelos defectuosos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La meiosis es esencial para la reproducción sexual: reduce a n la dotacion cromosomica y genera variabilidad genética por recombinacion.",
       "difficulty": "8",
       "images": [],
@@ -427,19 +427,19 @@
       "context": "En Neiva, una investigacion evalua dos hipótesis para explicar la causa de un tumor maligno: la primera sostiene que es por mutaciones en genes reguladores del ciclo celular; la segunda, por agentes externos que destruyen la membrana celular.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Las mutaciones en protooncogenes y genes supresores de tumores desregulan el ciclo celular, provocando división celular descontrolada.",
           "is_correct": true,
           "feedback": "Correcto. La desregulacion del ciclo celular por mutaciones oncogenicas es la causa conocida del cáncer."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La destruccion de la membrana celular impide la división celular y favorece los tumores.",
           "is_correct": false,
           "feedback": "Incorrecto. Danar la membrana no causa división descontrolada, sino necrosis o muerte celular."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Los tumores aparecen exclusivamente por falta de mitosis en los tejidos.",
           "is_correct": false,
           "feedback": "Incorrecto. El cáncer se caracteriza por mitosis excesiva, no por ausencia de división."
@@ -451,7 +451,7 @@
           "feedback": "Incorrecto. Carcinogenos externos (radiacion, químicos) pueden inducir mutaciones oncogenicas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El cáncer es esencialmente una enfermedad de regulacion del ciclo celular: las mutaciones oncogenicas eliminan los controles que limitan la división celular.",
       "difficulty": "10",
       "images": [],
@@ -473,13 +473,13 @@
       "context": "En el Eje Cafetero, un agricultor decide propagar asexualmente por estacas una planta de cafe caturra con alta productividad. Una investigadora le explica que deberia conocer las diferencias entre reproducción sexual y asexual para decidir la estrategia genética optima.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La reproducción asexual por estacas preserva exactamente el genotipo deseado, mientras que la sexual recombina los alelos y genera variabilidad.",
           "is_correct": true,
           "feedback": "Correcto. El clon por estacas mantiene el genotipo; la semilla lo recombina geneticamente."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La reproducción asexual es siempre menos productiva que la sexual en cualquier cultivo.",
           "is_correct": false,
           "feedback": "Incorrecto. La productividad depende del genotipo, no del tipo de reproducción elegido."
@@ -497,7 +497,7 @@
           "feedback": "Incorrecto. Ambos tipos de plantas producen semillas si llegan a la fase reproductiva."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La clonacion asexual preserva el genotipo ventajoso. La reproducción sexual recombina alelos y aumenta la diversidad genética de la descendencia.",
       "difficulty": "10",
       "images": [],
@@ -519,13 +519,13 @@
       "context": "En Ibague, una autoridad de salud publica debe justificar ante el Consejo Municipal por que es importante incluir la educacion sobre división celular y reproducción en los programas de prevencion del cáncer.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Comprender la regulacion del ciclo celular permite identificar factores de riesgo y promover habitos que reducen mutaciones oncogenicas.",
           "is_correct": true,
           "feedback": "Correcto. La educacion científica informada modifica conductas de riesgo (tabaco, radiacion UV, dieta)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Conocer la división celular garantiza por si sola que las personas no desarrollaran cáncer.",
           "is_correct": false,
           "feedback": "Incorrecto. El conocimiento no garantiza la ausencia de la enfermedad, solo reduce riesgos."
@@ -543,7 +543,7 @@
           "feedback": "Incorrecto. La prevencion combina educacion, estilos de vida y atencion medica."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La educacion científica sobre ciclo celular y mutaciones oncogenicas es pieza clave de la prevencion primaria del cáncer en politicas publicas de salud.",
       "difficulty": "10",
       "images": [],

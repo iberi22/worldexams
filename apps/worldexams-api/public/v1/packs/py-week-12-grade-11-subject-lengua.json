@@ -58,13 +58,13 @@
       "context": "En San Lorenzo, se analiza la incorrección sintáctica conocida como dequeísmo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Pienso de que mañana lloverá en la capital.",
           "is_correct": true,
           "feedback": "¡Correcto! El verbo \"pensar\" es transitivo y exige un complemento directo sin la preposición \"de\" (\"Pienso que...\")."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Estoy seguro de que vendrás a la reunión.",
           "is_correct": false,
           "feedback": "Incorrecto. El adjetivo \"seguro\" exige la preposición \"de\" (dequeísmo correcto o complemento de régimen)."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. El verbo \"acordarse\" rige la preposición \"de\"."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El dequeísmo consiste en el uso indebido de la preposición 'de' delante de la conjunción 'que' cuando la subordinada es complemento directo de verbos de pensamiento o dicción como 'pensar', 'decir', 'creer'.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,13 +148,13 @@
       "context": "En Encarnación, se estudia la clasificación de las oraciones compuestas coordinadas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Coordinada adversativa",
           "is_correct": true,
           "feedback": "¡Correcto! La conjunción \"pero\" contrapone dos proposiciones señalando un contraste."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Coordinada copulativa",
           "is_correct": false,
           "feedback": "Incorrecto. Las copulativas unen oraciones mediante \"y\", \"e\", \"ni\"."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. Las explicativas aclaran mediante \"es decir\", \"esto es\"."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Las oraciones coordinadas adversativas expresan una oposición o restricción entre dos proposiciones conectadas por nexos como 'pero', 'mas', 'sin embargo'.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -193,13 +193,13 @@
       "context": "En Ciudad del Este, se analizan los usos del pronombre 'se' en la lengua castellana.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Pasiva refleja",
           "is_correct": true,
           "feedback": "¡Correcto! Contiene el pronombre \"se\", verbo en 3.ª persona plural (\"venden\") y un sujeto paciente en plural (\"productos artesanales\")."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Impersonal sintáctica",
           "is_correct": false,
           "feedback": "Incorrecto. Las impersonales no llevan sujeto paciente en plural (\"Se atiende al público\")."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. No indica una acción mutua entre dos o más sujetos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "En la pasiva refleja ('Se venden productos'), el elemento 'productos artesanales' es el sujeto paciente en plural que concuerda en número con el verbo 'venden'.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -418,13 +418,13 @@
       "context": "En Concepción, se revisan las normas de tildación en palabras compuestas y adverbios en -mente.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "fácilmente (conserva la tilde del adjetivo original \"fácil\")",
           "is_correct": true,
           "feedback": "¡Correcto! Los adverbios terminados en -mente mantienen la tilde si el adjetivo base la llevaba."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "facilmente (pierde la tilde por convertirse en palabra sobreesdrújula)",
           "is_correct": false,
           "feedback": "Incorrecto. No pierde la tilde del adjetivo de origen."
@@ -442,7 +442,7 @@
           "feedback": "Incorrecto. Se escribe en una sola palabra sin guion."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Los adverbios formados con la terminación '-mente' conservan la tilde del adjetivo del que derivan si este la lleva por sí solo ('fácil' -> 'fácilmente').\n\n---",
       "difficulty": "6",
       "images": [],
@@ -463,31 +463,31 @@
       "context": "En Asunción, se analizan las oraciones subordinadas sustantivas en función de sujeto.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Nos conviene que todos asistan puntualmente a la asamblea.",
           "is_correct": true,
           "feedback": "¡Correcto! La subordinada \"que todos asistan puntualmente\" es el sujeto del verbo \"conviene\" (\"Nos conviene eso / Nos convienen esas cosas\")."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El director anunció que las clases comenzarán mañana.",
           "is_correct": false,
           "feedback": "Incorrecto. La subordinada es complemento directo del verbo \"anunció\"."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Tengo la certeza de que alcanzaremos la meta.",
           "is_correct": false,
           "feedback": "Incorrecto. La subordinada funciona como complemento del sustantivo \"certeza\"."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La estudiante ingresó sin que nadie la notara.",
           "is_correct": false,
           "feedback": "Incorrecto. Es una subordinada adverbial de modo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "En 'Nos conviene que todos asistan', al sustituir por el pronombre 'eso' vemos: 'Nos conviene eso' / 'Nos convienen esas cosas'. El cambio de número demuestra que es el sujeto gramatical.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -553,31 +553,31 @@
       "context": "En Luque, se distingue entre oraciones subordinadas adjetivas explicativas y especificativas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "En I solo abandonaron los atletas fatigados (especificativa); en II todos los atletas estaban fatigados y todos abandonaron (explicativa).",
           "is_correct": true,
           "feedback": "¡Correcto! La especificativa restringe el grupo de atletas; la explicativa describe una condición común a la totalidad del sujeto."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "En I todos los atletas abandonaron; en II solo abandonó una parte.",
           "is_correct": false,
           "feedback": "Incorrecto. Invirtió las interpretaciones semánticas de las proposiciones."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "No existe ninguna diferencia semántica entre ambas oraciones.",
           "is_correct": false,
           "feedback": "Incorrecto. El uso de comas cambia radicalmente el alcance especificativo o explicativo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La oración II es gramaticalmente incorrecta por llevar comas.",
           "is_correct": false,
           "feedback": "Incorrecto. Las adjetivas explicativas se escriben entre comas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Las subordinadas adjetivas especificativas (sin comas) delimitan el alcance del sustantivo (solo los cansados). Las explicativas (entre comas) aportan una cualidad aplicable a todo el antecedente.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -643,13 +643,13 @@
       "context": "En Ciudad del Este, se estudia la concordancia de adjetivos pospuestos a varios sustantivos de distinto género.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "el abrigo y la bufanda nuevos",
           "is_correct": true,
           "feedback": "¡Correcto! Cuando se coordinan sustantivos de diferente género (masculino y femenino), el adjetivo en plural concuerda en masculino (\"nuevos\")."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "el abrigo y la bufanda nuevas",
           "is_correct": false,
           "feedback": "Incorrecto. El femenino plural no puede abarcar al sustantivo masculino \"abrigo\"."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. Discordancia de número respecto al conjunto coordinado."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "En la norma sintáctica castellana, la coordinación de sustantivos de género mixto en singular (masculino + femenino) exige que el adjetivo pospuesto vaya en masculino plural ('nuevos').\n\n---",
       "difficulty": "8",
       "images": [],
@@ -688,31 +688,31 @@
       "context": "En Coronel Oviedo, se analiza el régimen preposicional de diversos verbos de movimiento.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Ingresó a la universidad tras aprobar los exámenes.",
           "is_correct": true,
           "feedback": "¡Correcto! El verbo \"ingresar\" en su sentido de entrar a una institución rige la preposición \"a\"."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Discrepo con tu punto de vista sobre el tema.",
           "is_correct": false,
           "feedback": "Incorrecto. Se prefiere \"Discrepo de tu punto de vista\"."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Se quedó de sentarse en la primera fila.",
           "is_correct": false,
           "feedback": "Incorrecto. Incurre en un régimen verbal anómalo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Acostumbra a levantarse muy temprano.",
           "is_correct": false,
           "feedback": "Incorrecto. El verbo \"acostumbrar\" como transitivo directo se usa habitualmente sin la preposición \"a\" (\"Acostumbra levantarse\")."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El régimen preposicional culto establece que el verbo 'ingresar' cuando indica incorporación o entrada a un organismo se construya con la preposición 'a' ('Ingresó a la facultad').\n\n---",
       "difficulty": "8",
       "images": [],
@@ -733,13 +733,13 @@
       "context": "En Villarrica, se evalúa el valor gramatical del valor modal del subjuntivo en oraciones independientes de deseo o duda.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Valor desiderativo o optativo (expresión de deseo)",
           "is_correct": true,
           "feedback": "¡Correcto! El adverbio \"ojalá\" introduciendo el presente de subjuntivo denota un deseo vehemente del emisor."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Valor dubitativo de incertidumbre objetiva",
           "is_correct": false,
           "feedback": "Incorrecto. No expresa duda sobre un hecho sino el anhelo de que ocurra."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. Carece de la prótasis hipotética con \"si\"."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El modo subjuntivo junto a partículas como 'ojalá' cumple una función desiderativa (optativa), manifestando la actitud del hablante hacia la realización de un suceso anhelado.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -778,13 +778,13 @@
       "context": "En Caacupé, se analiza la estructura profunda de las oraciones subordinadas adverbiales impropias de causa y consecuencia.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "1 es subordinada adverbial causal; 2 es subordinada adverbial consecutiva ponderativa.",
           "is_correct": true,
           "feedback": "¡Correcto! En 1 \"Como\" introduce la causa; en 2 \"tanto que\" pondera la intensidad para señalar la consecuencia."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Ambas son oraciones subordinadas causales puras.",
           "is_correct": false,
           "feedback": "Incorrecto. La oración 2 presenta la estructura consecutiva intensiva \"tanto... que\"."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. La clasificación de las partículas y el sentido difieren."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El nexo 'Como' antepuesto al verbo expresa causa ('porque llovió'); mientras que la correlación 'tanto... que' constituye la fórmula típica de las oraciones consecutivas ponderativas.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -868,31 +868,31 @@
       "context": "En Concepción, se analizan los valores discursivos del conector 'sin embargo' frente a 'por lo tanto'.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "\"sin embargo\" limita o rectifica lo dicho en el enunciado anterior; \"por lo tanto\" presenta la deducción o efecto lógico resultante.",
           "is_correct": true,
           "feedback": "¡Correcto! Define con precisión la función adverso-rectificativa del primero frente a la relación de causalidad-efecto del segundo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "\"sin embargo\" añade información sumativa; \"por lo tanto\" introduce una duda.",
           "is_correct": false,
           "feedback": "Incorrecto. \"sin embargo\" no es copulativo ni \"por lo tanto\" es dubitativo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ambos conectores son intercambiables en cualquier contexto discursivo.",
           "is_correct": false,
           "feedback": "Incorrecto. Pertenecen a familias conectoras opuestas."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "\"sin embargo\" se usa solo en textos poéticos y \"por lo tanto\" en textos dramáticos.",
           "is_correct": false,
           "feedback": "Incorrecto. Son marcadores discursivos de uso general en prosa expositiva y argumentativa."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "'Sin embargo' es un conector contraargumentativo que introduce una objeción o contraste con respecto a la premisa previa. 'Por lo tanto' es un marcador consecutivo que presenta la conclusión deducida.",
       "difficulty": "10",
       "images": [],

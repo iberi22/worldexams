@@ -13,19 +13,19 @@
       "context": "En la biblioteca escolar de una institución en Manizales, la profesora presenta varios textos sobre la vida de personajes colombianos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Un texto narrativo que cuenta la vida de una persona real, organizada en orden cronológico.",
           "is_correct": true,
           "feedback": "La biografía narra hechos reales de una persona en orden temporal."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Un cuento de hadas con personajes inventados.",
           "is_correct": false,
           "feedback": "La biografía se basa en personas reales, no en ficción."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Un texto que solo habla del presente de una persona famosa.",
           "is_correct": false,
           "feedback": "La biografía incluye infancia, juventud y adultez."
@@ -37,7 +37,7 @@
           "feedback": "La biografía narra hechos organizados en una historia."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Reconocer la definición básica de biografía como texto narrativo sobre la vida de una persona real.",
       "difficulty": "4",
       "images": [],
@@ -59,13 +59,13 @@
       "context": "Lee el fragmento: \"Nació en Bogotá en 1834. Desde niño soñaba con volar. Estudió leyes, pero nunca abandonó su pasión por la aeronáutica\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El lugar y año de nacimiento, junto con los primeros intereses de su infancia.",
           "is_correct": true,
           "feedback": "Estos datos ubican al personaje en un tiempo y lugar concretos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El color favorito del personaje.",
           "is_correct": false,
           "feedback": "El fragmento no menciona el color favorito."
@@ -83,7 +83,7 @@
           "feedback": "No se mencionan los vecinos en el fragmento."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Comprender qué tipo de información aparece al inicio de una biografía para presentar al personaje.",
       "difficulty": "4",
       "images": [],
@@ -151,13 +151,13 @@
       "context": "En el colegio leen una biografía del pintor Fernando Botero y subrayan: \"Botero nació en Medellín en 1932, estudió en Europa y es reconocido worldwide por sus figuras voluminosas\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Que Fernando Botero es un pintor colombiano reconocido por su estilo de figuras grandes y redondeadas.",
           "is_correct": true,
           "feedback": "La idea principal resume quién es y por qué es famoso."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Que Botero únicamente vivió en Europa.",
           "is_correct": false,
           "feedback": "El texto menciona Europa como etapa, no como lugar único."
@@ -175,7 +175,7 @@
           "feedback": "El texto indica que nació en 1932."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Aplicar la identificación de la idea principal para sintetizar la información biográfica.",
       "difficulty": "6",
       "images": [],
@@ -243,31 +243,31 @@
       "context": "Compara dos textos: \"Texto A: biografía de una científica colombiana que descubrió una especie de rana en el Chocó. Texto B: cuento inventado sobre un personaje que descubre una rana mágica en el Amazonas\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "El texto A narra hechos reales verificables de una persona existente, mientras el texto B es ficción.",
           "is_correct": true,
           "feedback": "La biografía se basa en hechos reales, el cuento es ficción."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Los dos textos son biografías porque hablan de ranas.",
           "is_correct": false,
           "feedback": "Hablar de ranas no convierte un cuento en biografía."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El texto B es más real porque menciona lugares de Colombia.",
           "is_correct": false,
           "feedback": "Mencionar un lugar real no convierte un cuento en biografía."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El texto A no tiene personajes.",
           "is_correct": false,
           "feedback": "El texto A sí tiene un personaje principal, la científica."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Analizar las diferencias entre una biografía y un texto narrativo de ficción.",
       "difficulty": "8",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "Lee: \"Gracias al esfuerzo de García Márquez, la literatura latinoamericana obtuvo mayor reconocimiento mundial. Aunque enfrentó pobreza y muchos rechazos, nunca abandonó la escritura\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Que la perseverancia y el esfuerzo permiten superar las dificultades y alcanzar logros importantes.",
           "is_correct": true,
           "feedback": "El texto muestra cómo la constancia llevó al éxito."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Que cualquier persona famosa siempre tuvo dinero.",
           "is_correct": false,
           "feedback": "El texto menciona pobreza y rechazos en su camino."
@@ -313,7 +313,7 @@
           "feedback": "El texto muestra que fue un camino difícil."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Analizar el mensaje o enseñanza que transmite una biografía de un personaje colombiano.",
       "difficulty": "8",
       "images": [],
@@ -335,31 +335,31 @@
       "context": "Al finalizar la lectura, una docente pregunta: \"¿Por qué es importante leer biografías de personajes colombianos en la escuela?\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Porque permiten conocer la historia del país, valorar los aportes de sus personajes y aprender de sus experiencias.",
           "is_correct": true,
           "feedback": "Las biografías conectan la historia personal con la historia colectiva."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque reemplazan a los libros de ciencia en el currículo.",
           "is_correct": false,
           "feedback": "Las biografías complementan, pero no reemplazan otros textos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque solo sirven para aprobar el examen final.",
           "is_correct": false,
           "feedback": "Su valor va mucho más allá de una evaluación."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Porque prohiben conocer la historia universal.",
           "is_correct": false,
           "feedback": "Las biografías colombianas enriquecen, no prohíben, el estudio de otras historias."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Evaluar la importancia de las biografías para la formación cultural y ciudadana en Colombia.",
       "difficulty": "10",
       "images": [],
@@ -381,19 +381,19 @@
       "context": "En la clase de lenguaje en Cali, la profesora explica qué es un diario personal.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Se escribe en primera persona y cuenta vivencias propias del autor.",
           "is_correct": true,
           "feedback": "El diario personal recoge lo que le ocurre a quien lo escribe, usando \"yo\"."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Se escribe en tercera persona sobre la vida de un personaje famoso.",
           "is_correct": false,
           "feedback": "Eso corresponde a una biografía, no a un diario personal."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Se escribe para convencer a un lector de comprar un producto.",
           "is_correct": false,
           "feedback": "Ese propósito es el de un aviso publicitario."
@@ -405,7 +405,7 @@
           "feedback": "Ese tipo de texto es un instructivo o manual."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Reconocer las características básicas del diario personal: narración en primera persona de experiencias propias.",
       "difficulty": "4",
       "images": [],
@@ -427,31 +427,31 @@
       "context": "Lee este fragmento del diario de Tomás: \"Lunes, 3 de marzo. Hoy llegué a casa muy contento porque gané el concurso de dibujo. Mi mamá me abrazó y preparamos arepas para celebrar.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Alegría, porque ganó el concurso y celebró con su mamá.",
           "is_correct": true,
           "feedback": "Las palabras \"muy contento\" y \"celebrar\" muestran alegría."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Tristeza, porque perdió el concurso de dibujo.",
           "is_correct": false,
           "feedback": "El texto dice que ganó el concurso, no que lo perdió."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Miedo, porque se quedó solo en casa.",
           "is_correct": false,
           "feedback": "El fragmento no menciona miedo ni soledad."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Aburrimiento, porque no tenía nada que hacer.",
           "is_correct": false,
           "feedback": "Tomás estuvo ocupado celebrando, no aburrido."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Comprender el significado de un fragmento de diario e identificar las emociones que expresa el autor.",
       "difficulty": "4",
       "images": [],
@@ -473,13 +473,13 @@
       "context": "Mariana escribe en su diario: \"El sábado fui al parque con mi prima y comimos helado.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "\"El sábado\", porque señala cuándo sucedió lo narrado.",
           "is_correct": true,
           "feedback": "\"El sábado\" es la expresión de tiempo que ubica los hechos en un día concreto."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "\"fui\", porque indica la acción de ir.",
           "is_correct": false,
           "feedback": "\"Fui\" es el verbo que expresa la acción, no el momento."
@@ -497,7 +497,7 @@
           "feedback": "\"Prima\" nombra a una persona, no un momento."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Aplicar el reconocimiento de expresiones de tiempo que organizan la secuencia de un diario.",
       "difficulty": "6",
       "images": [],
@@ -519,19 +519,19 @@
       "context": "El diario de Valentina dice: \"Martes, 5 de abril. Me siento un poco triste porque mi mejor amiga se mudó a otra ciudad.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Para expresar y desahogar lo que siente en ese momento.",
           "is_correct": true,
           "feedback": "El diario personal sirve para contar y expresar las emociones propias."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Para dar una orden a su mejor amiga.",
           "is_correct": false,
           "feedback": "El fragmento no pide nada; solo expresa un sentimiento."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Para informar a toda la comunidad sobre una noticia.",
           "is_correct": false,
           "feedback": "Un diario personal es íntimo, no un medio de noticias."
@@ -543,7 +543,7 @@
           "feedback": "El texto no da instrucciones; narra una emoción personal."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Aplicar la comprensión del propósito comunicativo del diario personal como espacio de expresión íntima.",
       "difficulty": "6",
       "images": [],
@@ -565,19 +565,19 @@
       "context": "Lee el diario de Santiago: \"Lunes, 10 de junio. En la mañana ayudé a mi papá en la tienda. Luego, en la tarde, jugué fútbol con mis amigos. Por la noche, leí un cuento antes de dormir.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "En orden cronológico, desde la mañana hasta la noche.",
           "is_correct": true,
           "feedback": "Las expresiones \"en la mañana\", \"en la tarde\" y \"por la noche\" ordenan los hechos en secuencia."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Por orden de importancia, sin importar el momento del día.",
           "is_correct": false,
           "feedback": "El texto sigue el paso del día, no un orden de importancia."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Comparando lo que hizo él con lo que hicieron otros niños.",
           "is_correct": false,
           "feedback": "Santiago narra sus propios hechos, sin compararlos con los de otros."
@@ -589,7 +589,7 @@
           "feedback": "El fragmento relata varias actividades en secuencia, no una sola causa."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Analizar cómo se organiza la secuencia de vivencias en un diario mediante expresiones de tiempo.",
       "difficulty": "8",
       "images": [],
@@ -611,19 +611,19 @@
       "context": "Lee: \"Miércoles, 12 de julio. Pensé que sería un día aburrido, pero cuando llegué al colegio encontré una sorpresa: mis compañeros me habían preparado una fiesta por mi cumpleaños.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Esperaba un día aburrido y terminó viviendo una alegre celebración.",
           "is_correct": true,
           "feedback": "El fragmento muestra un contraste entre lo que esperaba y lo que ocurrió."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Esperaba una fiesta y terminó aburrido en el colegio.",
           "is_correct": false,
           "feedback": "El orden es al revés: esperaba aburrimiento y encontró la fiesta."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "No hubo ningún cambio entre lo esperado y lo sucedido.",
           "is_correct": false,
           "feedback": "Sí hubo un cambio: de la expectativa de aburrimiento a la sorpresa."
@@ -635,7 +635,7 @@
           "feedback": "El texto dice que sus compañeros le prepararon una fiesta."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Analizar el contraste entre expectativa y realidad en la narración personal y comprender su intención expresiva.",
       "difficulty": "8",
       "images": [],
@@ -703,31 +703,31 @@
       "context": "Tu profesora te pide escribir un fragmento de diario sobre algo importante que te haya ocurrido en los últimos días.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "\"Jueves, 15 de agosto. Hoy gané una carrera en el colegio y me sentí feliz.\"",
           "is_correct": true,
           "feedback": "Tiene fecha, está en primera persona y expresa una vivencia y una emoción."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "\"Las carreras se ganan entrenando todos los días.\"",
           "is_correct": false,
           "feedback": "Es una opinión general, sin fecha, sin primera persona y sin vivencia personal."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "\"Señor lector, compre ya este producto para correr más rápido.\"",
           "is_correct": false,
           "feedback": "Es un aviso publicitario, no un fragmento de diario."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "\"Ayer la campeona mundial de atletismo rompió un récord.\"",
           "is_correct": false,
           "feedback": "Narra la vida de otra persona en tercera persona, no una vivencia propia."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Evaluar si un texto cumple con las características del diario personal: fecha, primera persona, vivencias y emociones propias.",
       "difficulty": "10",
       "images": [],

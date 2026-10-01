@@ -13,31 +13,31 @@
       "context": "Doña Rosa vendió agua de jamaica en la kermés de la escuela en Guadalajara y anotó que reunió $235.75.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "7 décimas de peso",
           "is_correct": true,
           "feedback": "El 7 está en la primera posición después del punto decimal, que corresponde a las décimas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "7 centésimas de peso",
           "is_correct": false,
           "feedback": "Las centésimas es la segunda posición después del punto; ahí está el 5."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "7 pesos",
           "is_correct": false,
           "feedback": "Los pesos completos son la parte entera (235); el 7 ya está después del punto."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "7 decenas",
           "is_correct": false,
           "feedback": "Las decenas del número son el 3 de 235; el 7 pertenece a la parte decimal."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "En el contexto del dinero, el punto separa pesos de centavos: $235.75 son 235 pesos con 75 centavos. La primera cifra decimal son décimas y la segunda centésimas, por eso el 7 representa 7 décimas.",
       "difficulty": "4",
       "images": [],
@@ -58,31 +58,31 @@
       "context": "El maestro escribió en el pizarrón de una escuela de Chetumal: \"Tres con cuatro décimas\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "3.4",
           "is_correct": true,
           "feedback": "La parte entera es 3 y las 4 décimas se escriben justo después del punto: 3.4."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "3.04",
           "is_correct": false,
           "feedback": "3.04 son tres con cuatro centésimas; las décimas irían en la primera posición decimal."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "34",
           "is_correct": false,
           "feedback": "34 es treinta y cuatro, un número entero sin parte decimal."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "0.34",
           "is_correct": false,
           "feedback": "0.34 carece de unidades completas; el enunciado indica tres enteros."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Escribir decimales a partir de su nombre exige ubicar cada cifra según su lugar: primero la parte entera y después las décimas. Confundir décimas con centésimas (3.4 contra 3.04) es el error más común y se evita nombrando cada posición.",
       "difficulty": "4",
       "images": [],
@@ -103,19 +103,19 @@
       "context": "Luis midió la longitud de un lápiz con una regla y anotó 14.6 cm; su regla marcaba también 14.60 cm en otra escala.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Miden lo mismo, porque agregar ceros a la derecha del último decimal no cambia el valor",
           "is_correct": true,
           "feedback": "14.6 = 14.60 porque el cero en las centésimas no añade valor; ambos representan la misma longitud."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "14.60 es mayor, porque tiene más cifras",
           "is_correct": false,
           "feedback": "Más cifras no implican mayor valor cuando los dígitos extra son ceros al final del decimal."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "14.6 es menor, porque 6 es menor que 60",
           "is_correct": false,
           "feedback": "Comparar \"6 contra 60\" ignora el lugar: en 14.60 el 6 está en las décimas y el 0 en las centésimas."
@@ -127,7 +127,7 @@
           "feedback": "Ambos números expresan la misma cantidad; basta escribirlos con el mismo número de cifras decimales."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Los ceros a la derecha de la última cifra decimal no alteran el valor: 14.6 = 14.60 = 14.600. Esta propiedad permite igualar longitudes decimales para compararlos o sumarlos sin ambigüedad.",
       "difficulty": "6",
       "images": [],
@@ -193,31 +193,31 @@
       "context": "En la tiendita de la esquina en Monterrey, Carlos compró un jugo de $12.50 y unas galletas de $8.75.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$21.25",
           "is_correct": true,
           "feedback": "12.50 + 8.75 = 21.25; al alinear el punto, 50 + 75 centavos son 125 centavos, es decir 1 peso con 25 centavos que se acumulan a 12 + 8."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$20.25",
           "is_correct": false,
           "feedback": "Falta el peso generado por los 125 centavos; la parte entera es 21."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$21.75",
           "is_correct": false,
           "feedback": "50 + 75 centavos dan 125, no 175; el excedente de 100 centavos pasa a los pesos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$21.15",
           "is_correct": false,
           "feedback": "La suma de centavos 50 + 75 termina en 25; 15 proviene de un error en las centésimas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Sumar decimales requiere alinear el punto decimal y sumar por columnas como con enteros, considerando el canje: 125 centavos equivalen a 1.25 pesos. El total es $21.25, verificable al descontar de un billete de $20 más $5.",
       "difficulty": "6",
       "images": [],
@@ -328,19 +328,19 @@
       "context": "Al pagar $47.90 con un billete de $50, tres cajeros propusieron el cambio: uno dijo $2.10, otro dijo $2.90 y una cajera dijo $3.10.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$2.10",
           "is_correct": true,
           "feedback": "50.00 − 47.90 = 2.10; al restar, 47.90 + 2.10 = 50.00, lo que confirma el cálculo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$2.90",
           "is_correct": false,
           "feedback": "47.90 + 2.90 = 50.80, más que el billete entregado."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$3.10",
           "is_correct": false,
           "feedback": "47.90 + 3.10 = 51.00; excede los $50 pagados."
@@ -352,7 +352,7 @@
           "feedback": "47.90 + 2.01 = 49.91, que no llega a $50; es 2.10 escrito con las cifras decimales invertidas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Calcular cambios aplica la resta de decimales con canje a través del punto: 50.00 − 47.90 = 2.10. La verificación por suma inversa (gastado + cambio = pagado) es el método confiable para evaluar cuál cajero acertó.",
       "difficulty": "10",
       "images": [],

@@ -13,19 +13,19 @@
       "context": "En clase en Bogotá, se diferencia entre sustancias puras y mezclas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "La mezcla está formada por dos o más componentes que conservan sus propiedades.",
           "is_correct": true,
           "feedback": "Correcto. Cada componente mantiene sus propiedades."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La sustancia pura tiene varios componentes.",
           "is_correct": false,
           "feedback": "Incorrecto. Solo tiene uno."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La mezcla no se puede separar.",
           "is_correct": false,
           "feedback": "Incorrecto. Se puede separar."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Mantiene composición fija."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Las mezclas se clasifican en homogéneas y heterogéneas según su apariencia.",
       "difficulty": "4",
       "images": [],
@@ -59,31 +59,31 @@
       "context": "En clase en Medellín, se observa el agua con sal.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Presenta una sola fase y composición uniforme.",
           "is_correct": true,
           "feedback": "Correcto. No se distinguen sus componentes a simple vista."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Tiene componentes visibles.",
           "is_correct": false,
           "feedback": "Incorrecto. Sería heterogénea."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Solo contiene gases.",
           "is_correct": false,
           "feedback": "Incorrecto. Puede ser sólida, líquida o gaseosa."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Es siempre sólida.",
           "is_correct": false,
           "feedback": "Incorrecto. Hay mezclas homogéneas líquidas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Ejemplos de mezclas homogéneas son el agua con sal disuelta o el aire.",
       "difficulty": "4",
       "images": [],
@@ -151,19 +151,19 @@
       "context": "En clase en Pereira, se introducen métodos de separación.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Decantación, porque tienen distinta densidad.",
           "is_correct": true,
           "feedback": "Correcto. El aceite flota sobre el agua."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Filtración simple únicamente.",
           "is_correct": false,
           "feedback": "Incorrecto. No retiene el aceite."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Sublimación.",
           "is_correct": false,
           "feedback": "Incorrecto. Ninguno sublima."
@@ -175,7 +175,7 @@
           "feedback": "Incorrecto. No aplica aquí."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La decantación aprovecha la diferencia de densidad entre dos líquidos inmiscibles.",
       "difficulty": "4",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "En Manizales, se destila agua con sal.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Líquidos con diferentes puntos de ebullición o un sólido disuelto en un líquido.",
           "is_correct": true,
           "feedback": "Correcto. Se evapora un componente y se condensa."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Solo sólidos insolubles.",
           "is_correct": false,
           "feedback": "Incorrecto. Para eso se filtra."
@@ -267,7 +267,7 @@
           "feedback": "Incorrecto. Se usa imán."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La destilación combina evaporación y condensación para purificar líquidos.",
       "difficulty": "6",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "En clase en Armenia, se usa un imán.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Imantación, porque el hierro es atraído por el imán.",
           "is_correct": true,
           "feedback": "Correcto. Las limaduras se adhieren al imán."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Decantación.",
           "is_correct": false,
           "feedback": "Incorrecto. No hay diferencia de densidad suficiente."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecto. No aplica."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La imantación aprovecha las propiedades magnéticas de algunos materiales.",
       "difficulty": "6",
       "images": [],
@@ -335,31 +335,31 @@
       "context": "En clase en Popayán, se analiza la evaporación.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Evaporación y cristalización.",
           "is_correct": true,
           "feedback": "Correcto. El agua se evapora y la sal cristaliza."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Centrifugación únicamente.",
           "is_correct": false,
           "feedback": "Incorrecto. No separa la sal."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Cromatografía.",
           "is_correct": false,
           "feedback": "Incorrecto. No escala industrialmente."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Sublimación.",
           "is_correct": false,
           "feedback": "Incorrecto. La sal no sublima."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La sal marina se obtiene por evaporación solar en grandes extensiones.",
       "difficulty": "8",
       "images": [],
@@ -381,13 +381,13 @@
       "context": "En un proyecto en Bucaramanga, se elige un método.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Hervirla y/o usar filtros con carbón activado.",
           "is_correct": true,
           "feedback": "Correcto. Elimina patógenos y mejora sabor."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Agregar más microorganismos.",
           "is_correct": false,
           "feedback": "Incorrecto. Aumenta el riesgo."
@@ -405,7 +405,7 @@
           "feedback": "Incorrecto. Riesgo para la salud."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El acceso a agua limpia es clave para la salud pública.",
       "difficulty": "10",
       "images": [],
@@ -427,13 +427,13 @@
       "context": "En un cierre en Medellín, se reflexiona sobre el reciclaje.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Permite reciclar, reduce la contaminación y aprovecha los materiales.",
           "is_correct": true,
           "feedback": "Correcto. La separación en la fuente es clave."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Solo incrementa el trabajo en las ciudades.",
           "is_correct": false,
           "feedback": "Incorrecto. Tiene beneficios ambientales."
@@ -451,7 +451,7 @@
           "feedback": "Incorrecto. Contribuye a la sostenibilidad."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La separación adecuada en la fuente es la base del reciclaje efectivo.",
       "difficulty": "10",
       "images": [],

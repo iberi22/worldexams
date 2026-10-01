@@ -59,13 +59,13 @@
       "context": "Lee: \"Un ángulo agudo mide menos de 90 grados, un ángulo recto mide 90 grados y un ángulo obtuso mide más de 90 grados pero menos de 180.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La abertura de una puerta que está más abierta que un ángulo recto.",
           "is_correct": true,
           "feedback": "Cuando una puerta se abre más de 90°, forma un ángulo obtuso."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La esquina de una hoja de papel cuaderno.",
           "is_correct": false,
           "feedback": "La esquina del papel forma un ángulo recto, no obtuso."
@@ -83,7 +83,7 @@
           "feedback": "Una línea recta no forma un ángulo, sino 180°."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Identificar ejemplos de ángulo obtuso en situaciones reales y cotidianas.",
       "difficulty": "4",
       "images": [],
@@ -105,19 +105,19 @@
       "context": "Un estudiante traza dos rectas en el cuaderno que se cruzan formando una \"X\" en el centro.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Ángulos opuestos por el vértice.",
           "is_correct": true,
           "feedback": "Los ángulos opuestos por el vértice son los que están frente a frente al cruzarse dos rectas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Ángulos consecutivos.",
           "is_correct": false,
           "feedback": "Los ángulos consecutivos están uno al lado del otro, no enfrente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ángulos complementarios.",
           "is_correct": false,
           "feedback": "Los complementarios suman 90°, lo cual no es la relación descrita."
@@ -129,7 +129,7 @@
           "feedback": "Los suplementarios suman 180°, lo cual no es la relación descrita."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Aplicar la nomenclatura correcta a los ángulos formados por dos rectas que se cortan.",
       "difficulty": "6",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "En una cartulina, un estudiante pega dos tiras de papel que se cruzan formando una \"L\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Un ángulo recto.",
           "is_correct": true,
           "feedback": "La forma de \"L\" representa dos segmentos que se encuentran a 90 grados."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Un ángulo agudo de 30 grados.",
           "is_correct": false,
           "feedback": "Un ángulo de 30° es más pequeño que una \"L\" formada por tiras perpendiculares."
@@ -221,7 +221,7 @@
           "feedback": "El ángulo llano corresponde a una línea recta, no a una \"L\"."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Relacionar la forma de \"L\" con la formación de un ángulo recto entre dos rectas.",
       "difficulty": "6",
       "images": [],
@@ -289,31 +289,31 @@
       "context": "Lee: \"Un ángulo llano mide 180 grados. Si se divide en dos partes iguales, cada parte mide 90 grados, que corresponde a un ángulo recto.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Un ángulo llano equivale a la suma de dos ángulos rectos (180° = 90° + 90°).",
           "is_correct": true,
           "feedback": "90° + 90° = 180°, confirmando la equivalencia descrita."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Un ángulo recto es mayor que un ángulo llano.",
           "is_correct": false,
           "feedback": "El ángulo recto (90°) es menor que el llano (180°)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Dos ángulos rectos suman solo 90 grados.",
           "is_correct": false,
           "feedback": "Dos ángulos rectos suman 180°, no 90°."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Un ángulo llano mide 90 grados.",
           "is_correct": false,
           "feedback": "El ángulo llano mide 180°, no 90°."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Analizar la relación numérica entre el ángulo llano y los ángulos rectos.",
       "difficulty": "8",
       "images": [],
@@ -335,19 +335,19 @@
       "context": "Lee: 'Los ángulos y las rectas son fundamentales en arquitectura, diseño, ingeniería y arte. Saber medir e identificar ángulos permite construir estructuras seguras y crear composiciones visuales equilibradas.'",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Porque permite diseñar y construir objetos, estructuras y espacios con precisión y seguridad.",
           "is_correct": true,
           "feedback": "El uso de ángulos es clave en construcción, diseño y muchas profesiones técnicas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque los ángulos solo aparecen en los libros de texto sin aplicación práctica.",
           "is_correct": false,
           "feedback": "Los ángulos tienen aplicaciones prácticas en muchos oficios y profesiones."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque medir ángulos no aporta ninguna ventaja a la sociedad.",
           "is_correct": false,
           "feedback": "Medir ángulos aporta precisión y seguridad en muchos contextos."
@@ -359,7 +359,7 @@
           "feedback": "El conocimiento de ángulos es útil para muchas personas y profesiones."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Evaluar la importancia de los ángulos y las rectas para la vida cotidiana y diferentes profesiones.",
       "difficulty": "10",
       "images": [],

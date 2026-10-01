@@ -59,19 +59,19 @@
       "context": "Un camión de carga de $5000\\text{ kg}$ arrastra un remolque en una carretera llana cerca de Ibagué.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Permanece en reposo o se mueve en línea recta a velocidad constante.",
           "is_correct": true,
           "feedback": "Correcto. Según la primera ley de Newton (inercia), si la fuerza neta es cero, la aceleración es nula."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Se acelera uniformemente hacia adelante.",
           "is_correct": false,
           "feedback": "Incorrecto. Para acelerarse se requiere una fuerza neta no nula."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Se frena paulatinamente hasta detenerse.",
           "is_correct": false,
           "feedback": "Incorrecto. Frenar requiere una fuerza neta de fricción o frenado opuesta al movimiento."
@@ -83,7 +83,7 @@
           "feedback": "Incorrecto. Girar requiere una fuerza centrípeta neta diferente de cero."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La primera ley de Newton establece que un cuerpo permanece en estado de reposo o de movimiento rectilíneo uniforme a menos que sobre él actúe una fuerza neta diferente de cero.",
       "difficulty": "4",
       "images": [],
@@ -105,31 +105,31 @@
       "context": "En un experimento escolar en Bogotá, se tira de una caja con una fuerza horizontal constante de $20\\text{ N}$ sobre dos superficies distintas: hielo liso y concreto rugoso.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "En el concreto rugoso, porque presenta un mayor coeficiente de rozamiento $\\mu$.",
           "is_correct": true,
           "feedback": "Correcto. La fuerza de fricción $f_k = \\mu_k N$ aumenta con la rugosidad del contacto (mayor $\\mu$)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "En el hielo liso, porque el frío aumenta la fricción intermolecular.",
           "is_correct": false,
           "feedback": "Incorrecto. El hielo reduce drásticamente el coeficiente de fricción."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La fricción es idéntica en ambas superficies porque la fuerza aplicada es constante.",
           "is_correct": false,
           "feedback": "Incorrecto. La fricción depende de las propiedades de las superficies en contacto."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "En el hielo liso, porque la fuerza normal es mayor sobre el hielo.",
           "is_correct": false,
           "feedback": "Incorrecto. La normal depende de la masa y la gravedad, no del material de la superficie."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La fuerza de fricción cinemática es $f_k = \\mu_k N$. El coeficiente $\\mu_k$ cuantifica la rugosidad microscópica de las superficies en contacto. El concreto tiene un $\\mu_k$ superior al del hielo.",
       "difficulty": "4",
       "images": [],
@@ -197,19 +197,19 @@
       "context": "Un bloque de $4\\text{ kg}$ es empujado sobre una mesa horizontal lisa mediante una fuerza constante de $12\\text{ N}$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$3\\text{ m/s}^2$",
           "is_correct": true,
           "feedback": "Correcto. Según la segunda ley de Newton $a = \\frac{F}{m} = \\frac{12\\text{ N}}{4\\text{ kg}} = 3\\text{ m/s}^2$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$48\\text{ m/s}^2$",
           "is_correct": false,
           "feedback": "Incorrecto. Corresponde a multiplicar fuerza por masa ($12 \\times 4$)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$0.33\\text{ m/s}^2$",
           "is_correct": false,
           "feedback": "Incorrecto. Resulta de dividir masa entre fuerza ($4 / 12$)."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto. Resta errónea de fuerza menos masa."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "De la segunda ley de Newton $F_{neta} = m \\cdot a$, despejamos $a = \\frac{F}{m}$. Para $F = 12\\text{ N}$ y $m = 4\\text{ kg}$, $a = 3\\text{ m/s}^2$.",
       "difficulty": "6",
       "images": [],
@@ -243,31 +243,31 @@
       "context": "Una masa de $2\\text{ kg}$ cuelga de una cuerda inextensible suspendida del techo en un laboratorio de Neiva. Considere $g = 10\\text{ m/s}^2$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$20\\text{ N}$",
           "is_correct": true,
           "feedback": "Correcto. En equilibrio estático vertical, $T - mg = 0 \\implies T = mg = 2 \\times 10 = 20\\text{ N}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$2\\text{ N}$",
           "is_correct": false,
           "feedback": "Incorrecto. Se omitió multiplicar por la aceleración de la gravedad."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$5\\text{ N}$",
           "is_correct": false,
           "feedback": "Incorrecto. Corresponde a dividir la gravedad entre la masa."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$0\\text{ N}$",
           "is_correct": false,
           "feedback": "Incorrecto. Si la tensión fuera cero, el objeto caería libremente."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Para un cuerpo sostenido en equilibrio por una cuerda vertical, la tensión soporta exactamente el peso de la masa: $T = w = m \\cdot g = 2\\text{ kg} \\times 10\\text{ m/s}^2 = 20\\text{ N}$.",
       "difficulty": "6",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "Un cajón de $10\\text{ kg}$ se desliza sobre un piso horizontal con fricción. El coeficiente de rozamiento cinético es $\\mu_k = 0.2$. Considere $g = 10\\text{ m/s}^2$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$20\\text{ N}$",
           "is_correct": true,
           "feedback": "Correcto. $N = mg = 10 \\times 10 = 100\\text{ N}$. La fricción es $f_k = \\mu_k N = 0.2 \\times 100 = 20\\text{ N}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$2\\text{ N}$",
           "is_correct": false,
           "feedback": "Incorrecto. Se omitió la masa o la gravedad en la fuerza normal."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecto. Esta es la fuerza normal $N$, no la fricción $f_k$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La normal en un plano horizontal es $N = m \\cdot g = 10 \\times 10 = 100\\text{ N}$. La fuerza de fricción cinemática es $f_k = \\mu_k \\cdot N = 0.2 \\times 100\\text{ N} = 20\\text{ N}$.",
       "difficulty": "6",
       "images": [],
@@ -335,19 +335,19 @@
       "context": "En una rampa inclinada $30^\\circ$ sin fricción en Medellín, se ubica un bloque de masa $m = 5\\text{ kg}$. Considere $g = 10\\text{ m/s}^2$ y $\\sin(30^\\circ) = 0.5$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$25\\text{ N}$",
           "is_correct": true,
           "feedback": "Correcto. La componente del peso paralela al plano inclinado es $F_{\\parallel} = mg \\sin\\theta = 5 \\times 10 \\times 0.5 = 25\\text{ N}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$50\\text{ N}$",
           "is_correct": false,
           "feedback": "Incorrecto. $50\\text{ N}$ es el peso total del bloque ($mg$)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$43.3\\text{ N}$",
           "is_correct": false,
           "feedback": "Incorrecto. Corresponde a la componente perpendicular al plano ($mg \\cos\\theta$)."
@@ -359,7 +359,7 @@
           "feedback": "Incorrecto. Valor arbitrario derivado únicamente de la aceleración de la gravedad."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Al descomponer el vector peso en un plano inclinado de ángulo $\\theta$, la componente que actúa a lo largo de la rampa es $w_{\\parallel} = mg \\sin\\theta = 5 \\times 10 \\times \\sin(30^\\circ) = 25\\text{ N}$.",
       "difficulty": "6",
       "images": [],
@@ -381,31 +381,31 @@
       "context": "Un automóvil de $1000\\text{ kg}$ gira en una curva plana circular de $50\\text{ m}$ de radio a una rapidez constante de $10\\text{ m/s}$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$2000\\text{ N}$",
           "is_correct": true,
           "feedback": "Correcto. $F_c = \\frac{m v^2}{r} = \\frac{1000 \\times 10^2}{50} = \\frac{100000}{50} = 2000\\text{ N}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$200\\text{ N}$",
           "is_correct": false,
           "feedback": "Incorrecto. Se omitió elevar al cuadrado la velocidad."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$10000\\text{ N}$",
           "is_correct": false,
           "feedback": "Incorrecto. Cálculo erróneo sin dividir entre el radio."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$500\\text{ N}$",
           "is_correct": false,
           "feedback": "Incorrecto. Corresponde a dividir la masa entre el radio sin considerar la velocidad."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La fuerza centrípeta responsable del cambio de dirección en trayectoria circular es $F_c = m a_c = \\frac{m v^2}{r}$. Sustituyendo $m=1000$, $v=10$ y $r=50$, da $2000\\text{ N}$.",
       "difficulty": "6",
       "images": [],
@@ -473,31 +473,31 @@
       "context": "Un bloque se encuentra sobre un plano horizontal rugoso. Se aplica una fuerza horizontal progresiva $F$. El gráfico de fuerza de fricción $f$ en función de $F$ muestra una fase lineal creciente hasta un máximo de $30\\text{ N}$, tras el cual la fricción cae y se estabiliza en $24\\text{ N}$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$30\\text{ N}$ es la fricción estática máxima y $24\\text{ N}$ es la fricción cinemática.",
           "is_correct": true,
           "feedback": "Correcto. Para iniciar el movimiento se debe superar la fricción estática máxima ($f_{s,max}=30\\text{ N}$); una vez en movimiento, actúa la fricción cinemática ($f_k=24\\text{ N} < f_{s,max}$)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$30\\text{ N}$ es la fricción cinemática y $24\\text{ N}$ es la fuerza peso del bloque.",
           "is_correct": false,
           "feedback": "Incorrecto. La fricción cinemática es menor que la estática máxima."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$30\\text{ N}$ es la fuerza normal y $24\\text{ N}$ es la fricción estática promedio.",
           "is_correct": false,
           "feedback": "Incorrecto. La fricción estática no tiene un valor fijo sino que equilibra a la fuerza aplicada hasta alcanzar su pico."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Ambos valores corresponden a la fricción viscosa del aire.",
           "is_correct": false,
           "feedback": "Incorrecto. El gráfico describe el rozamiento entre dos sólidos secos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El coeficiente de fricción estático es mayor que el cinético ($\\mu_s > \\mu_k$). Por ello, la fuerza requerida para romper el reposo ($f_{s,max} = \\mu_s N = 30\\text{ N}$) es superior a la resistencia experimentada durante el deslizamiento ($f_k = \\mu_k N = 24\\text{ N}$).",
       "difficulty": "8",
       "images": [],
@@ -519,31 +519,31 @@
       "context": "Un resorte de constante elástica $k = 400\\text{ N/m}$ se comprime $0.1\\text{ m}$ mediante un bloque de $1\\text{ kg}$ sobre una superficie horizontal lisa en Cartagena.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$40\\text{ m/s}^2$",
           "is_correct": true,
           "feedback": "Correcto. La fuerza elástica es $F = k x = 400 \\times 0.1 = 40\\text{ N}$. La aceleración es $a = \\frac{F}{m} = \\frac{40}{1} = 40\\text{ m/s}^2$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$4\\text{ m/s}^2$",
           "is_correct": false,
           "feedback": "Incorrecto. Ocurre por un error de coma en la compresión del resorte."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$400\\text{ m/s}^2$",
           "is_correct": false,
           "feedback": "Incorrecto. Se ignoró la distancia de compresión $x$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$10\\text{ m/s}^2$",
           "is_correct": false,
           "feedback": "Incorrecto. Se confundió con la constante gravitacional $g$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Según la ley de Hooke, la fuerza ejercida por el resorte comprimido es $F_e = k \\cdot x = 400 \\times 0.1 = 40\\text{ N}$. De la segunda ley de Newton, $a = \\frac{F_e}{m} = \\frac{40\\text{ N}}{1\\text{ kg}} = 40\\text{ m/s}^2$.",
       "difficulty": "8",
       "images": [],
@@ -565,13 +565,13 @@
       "context": "Una masa de $0.5\\text{ kg}$ atada a una cuerda de $1\\text{ m}$ gira en un plano vertical en Manizales. En el punto más bajo de la trayectoria circular, la rapidez es $4\\text{ m/s}$. Considere $g = 10\\text{ m/s}^2$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$13\\text{ N}$",
           "is_correct": true,
           "feedback": "Correcto. En el punto inferior $T - mg = \\frac{m v^2}{r} \\implies T = mg + \\frac{m v^2}{r} = 0.5(10) + \\frac{0.5(16)}{1} = 5 + 8 = 13\\text{ N}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$8\\text{ N}$",
           "is_correct": false,
           "feedback": "Incorrecto. $8\\text{ N}$ es únicamente la fuerza centrípeta sin incluir la fuerza del peso."
@@ -589,7 +589,7 @@
           "feedback": "Incorrecto. Se restó la fuerza centrípeta del peso en lugar de sumarla."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "En el punto más bajo del movimiento circular vertical, la tensión soporta el peso y proporciona la aceleración centrípeta hacia el centro: $T = mg + \\frac{mv^2}{r} = 0.5(10) + \\frac{0.5(4^2)}{1} = 5 + 8 = 13\\text{ N}$.",
       "difficulty": "8",
       "images": [],
@@ -611,19 +611,19 @@
       "context": "Dos bloques $A$ de $2\\text{ kg}$ y $B$ de $3\\text{ kg}$ están en contacto sobre una superficie lisa horizontal. Se aplica una fuerza horizontal de $15\\text{ N}$ sobre el bloque $A$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$9\\text{ N}$",
           "is_correct": true,
           "feedback": "Correcto. Aceleración del conjunto $a = \\frac{15}{2+3} = 3\\text{ m/s}^2$. La fuerza sobre $B$ transmitida por $A$ es $F_{AB} = m_B \\cdot a = 3 \\times 3 = 9\\text{ N}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$15\\text{ N}$",
           "is_correct": false,
           "feedback": "Incorrecto. $15\\text{ N}$ es la fuerza externa total ejercida sobre el bloque $A$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$6\\text{ N}$",
           "is_correct": false,
           "feedback": "Incorrecto. $6\\text{ N}$ es la fuerza neta consumida para acelerar al bloque $A$."
@@ -635,7 +635,7 @@
           "feedback": "Incorrecto. Corresponde únicamente al valor numérico de la aceleración del sistema."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La aceleración global del sistema es $a = \\frac{F}{m_A + m_B} = \\frac{15}{5} = 3\\text{ m/s}^2$. Aislando el bloque $B$, la única fuerza horizontal que actúa sobre él es la normal de contacto de $A$, por lo que $F_{AB} = m_B \\cdot a = 3 \\text{ kg} \\times 3 \\text{ m/s}^2 = 9\\text{ N}$.",
       "difficulty": "8",
       "images": [],
@@ -657,31 +657,31 @@
       "context": "En un día de lluvia en Bogotá, un vehículo frena en una curva de radio $r$. El coeficiente de fricción estática entre llantas y asfalto húmedo disminuye a la mitad ($\\mu_s' = \\mu_s / 2$).",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "La rapidez máxima se reduce por un factor de $\\frac{1}{\\sqrt{2}}$ (aproximadamente al 71% de su valor inicial).",
           "is_correct": true,
           "feedback": "Correcto. Como $v_{max} = \\sqrt{\\mu_s g r}$, si $\\mu_s' = \\frac{\\mu_s}{2}$, entonces $v_{max}' = \\sqrt{\\frac{\\mu_s g r}{2}} = \\frac{v_{max}}{\\sqrt{2}}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La rapidez máxima se reduce a la mitad.",
           "is_correct": false,
           "feedback": "Incorrecto. Asume erróneamente una relación lineal entre rapidez y coeficiente de fricción."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La rapidez máxima disminuye a la cuarta parte.",
           "is_correct": false,
           "feedback": "Incorrecto. Se aplicó el factor cuadrático de forma inversa."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La rapidez permanece constante porque la masa del vehículo no varió.",
           "is_correct": false,
           "feedback": "Incorrecto. La fuerza centrípeta máxima disponible depende directamente de la fricción."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La velocidad máxima de giro sin deslizarse se obtiene al igualar la fuerza de fricción estática máxima con la fuerza centrípeta: $\\mu_s m g = \\frac{m v_{max}^2}{r} \\implies v_{max} = \\sqrt{\\mu_s g r}$. Al reducir $\\mu_s$ a la mitad, $v_{max}$ se escala por $\\sqrt{1/2} = \\frac{1}{\\sqrt{2}}$.",
       "difficulty": "8",
       "images": [],
@@ -749,13 +749,13 @@
       "context": "Un bloque de masa $m$ descansa sobre una cuña de masa $M$ libre de deslizarse sobre un suelo horizontal liso en el laboratorio de la Universidad del Valle. La superficie de la cuña forma un ángulo $\\theta$ con la horizontal y tampoco presenta fricción.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El centro de masa no se acelera horizontalmente ($\\sum F_{x,ext} = 0$), por lo que su posición horizontal permanece constante.",
           "is_correct": true,
           "feedback": "Correcto. Al no existir fuerzas externas horizontales actuando sobre el conjunto, el momento lineal horizontal se conserva."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El centro de masa acelera horizontalmente hacia la derecha con fuerza $m g \\sin\\theta$.",
           "is_correct": false,
           "feedback": "Incorrecto. No hay fuerzas externas horizontales; las fuerzas entre el bloque y la cuña son internas."
@@ -773,7 +773,7 @@
           "feedback": "Incorrecto. La fuerza normal entre el bloque y la cuña empuja a la cuña horizontalmente en sentido opuesto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Como no hay fricción con el piso, no existen fuerzas externas aplicadas sobre el sistema en el eje horizontal ($\\sum F_{x,ext} = 0$). De acuerdo con el teorema del centro de masa, el movimiento del centro de masa en la dirección $x$ permanece inalterado ($a_{CM,x} = 0$).",
       "difficulty": "10",
       "images": [],
@@ -841,31 +841,31 @@
       "context": "En una prueba cinético-dinámica en la pista de Tocancipá, un carro frena con una desaceleración dependiente de la posición: $a(x) = -c x$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$v(x) = \\sqrt{v_0^2 - c x^2}$",
           "is_correct": true,
           "feedback": "Correcto. $a = v \\frac{dv}{dx} = -c x \\implies v dv = -c x dx \\implies \\frac{v^2 - v_0^2}{2} = -\\frac{c x^2}{2} \\implies v(x) = \\sqrt{v_0^2 - c x^2}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$v(x) = v_0 - c x$",
           "is_correct": false,
           "feedback": "Incorrecto. Es la solución para aceleración constante respecto al tiempo, no respecto a la posición $x$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$v(x) = v_0 e^{-cx}$",
           "is_correct": false,
           "feedback": "Incorrecto. Solución de una aceleración proporcional a la velocidad $a(v) = -cv$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$v(x) = \\sqrt{v_0^2 - 2cx}$",
           "is_correct": false,
           "feedback": "Incorrecto. Corresponde a desaceleración constante $a = -c$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Usando la identidad cinemática $a = v \\frac{dv}{dx}$: $v dv = -c x dx$. Integrando ambos lados desde $(x=0, v_0)$ hasta $(x, v)$: $\\int_{v_0}^v v dv = \\int_0^x -c x dx \\implies \\frac{v^2 - v_0^2}{2} = -\\frac{c x^2}{2} \\implies v(x) = \\sqrt{v_0^2 - c x^2}$.",
       "difficulty": "10",
       "images": [],

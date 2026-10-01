@@ -59,13 +59,13 @@
       "context": "Read: \"Sofia sleeps in her bedroom. Her bed is big and comfortable.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "A bed.",
           "is_correct": true,
           "feedback": "The text says her bed is big and comfortable, and people sleep in beds."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "A table.",
           "is_correct": false,
           "feedback": "A table is used for eating or studying, not for sleeping."
@@ -83,7 +83,7 @@
           "feedback": "A sofa is in the living room for sitting, not the furniture named in the text."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Recognizing basic furniture vocabulary from a short descriptive text in English.",
       "difficulty": "4",
       "images": [],
@@ -105,13 +105,13 @@
       "context": "In an apartment in Envigado, the cat is sleeping under the table in the dining room.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Under the table.",
           "is_correct": true,
           "feedback": "\"Under\" correctly describes something below the table."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "On the table.",
           "is_correct": false,
           "feedback": "\"On\" means on the surface, but the cat is below the table."
@@ -129,7 +129,7 @@
           "feedback": "This option adds an incorrect extra object and does not match the sentence."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Using the preposition \"under\" to describe the location of objects and animals at home.",
       "difficulty": "6",
       "images": [],
@@ -151,19 +151,19 @@
       "context": "At a finca near Pereira, a boy says: \"My books are on the chair in the living room.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "There are books on the chair in the living room.",
           "is_correct": true,
           "feedback": "\"There are\" agrees with the plural noun \"books\" to describe location."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "There is books on the chair in the living room.",
           "is_correct": false,
           "feedback": "\"There is\" is singular and does not agree with plural \"books\"."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "There are book on the chair in the living room.",
           "is_correct": false,
           "feedback": "\"Book\" should be plural \"books\" to agree with \"there are\"."
@@ -175,7 +175,7 @@
           "feedback": "The original sentence talks about books, not about a sofa."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Using \"there is / there are\" with prepositions of place to describe objects at home.",
       "difficulty": "6",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "Compare two homes: \"Camilo lives in a finca near Pereira with a big garden. Laura lives in a small apartment in Envigado without a garden.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Camilo has a big garden, while Laura has no garden.",
           "is_correct": true,
           "feedback": "The text contrasts the finca with a big garden against the apartment without one."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Camilo lives in a small apartment, while Laura lives in a finca.",
           "is_correct": false,
           "feedback": "The homes are reversed: Camilo lives in the finca and Laura in the apartment."
@@ -313,7 +313,7 @@
           "feedback": "Both children have homes, one a finca and one an apartment."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Comparing descriptions of different Colombian homes to identify similarities and differences in English.",
       "difficulty": "8",
       "images": [],
@@ -335,31 +335,31 @@
       "context": "Read: \"A tidy bedroom helps you sleep better and find your things. When clothes are in the closet, books are on the shelf, and toys are under the bed, the room is clean and comfortable.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Keeping things in their place makes the bedroom clean and comfortable.",
           "is_correct": true,
           "feedback": "The text links each object in its place with a clean and comfortable room."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Sleeping with toys on the bed is the best way to rest.",
           "is_correct": false,
           "feedback": "The text says toys belong under the bed, not on the bed."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Clothes on the floor make the bedroom comfortable.",
           "is_correct": false,
           "feedback": "The paragraph recommends clothes in the closet, not on the floor."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Books under the bed help children study better.",
           "is_correct": false,
           "feedback": "The text places books on the shelf, not under the bed."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Evaluating the main message of a short expository paragraph about keeping the bedroom tidy.",
       "difficulty": "10",
       "images": [],

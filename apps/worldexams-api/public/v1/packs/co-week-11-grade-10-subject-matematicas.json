@@ -13,19 +13,19 @@
       "context": "En Bogotá, en clase de geometría analítica se define la elipse con centro en el origen y eje mayor horizontal.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$\\frac{x^2}{a^2} + \\frac{y^2}{b^2} = 1$",
           "is_correct": true,
           "feedback": "Correcto. Con $a > b$, el eje mayor es horizontal."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\frac{x^2}{b^2} + \\frac{y^2}{a^2} = 1$",
           "is_correct": false,
           "feedback": "Incorrecto. Eso corresponde a un eje mayor vertical."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\frac{x^2}{a^2} - \\frac{y^2}{b^2} = 1$",
           "is_correct": false,
           "feedback": "Incorrecto. Esa es la ecuación de una hipérbola."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Esa es una circunferencia, no una elipse."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La elipse canónica con eje mayor horizontal tiene ecuación $\\frac{x^2}{a^2} + \\frac{y^2}{b^2} = 1$, donde $a > b$.",
       "difficulty": "4",
       "images": [],
@@ -59,13 +59,13 @@
       "context": "En Medellín, se identifican los elementos de la elipse $\\frac{x^2}{25} + \\frac{y^2}{16} = 1$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$a = 5$ y $b = 4$",
           "is_correct": true,
           "feedback": "Correcto. $a^2 = 25$ y $b^2 = 16$, por lo que $a = 5$ y $b = 4$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$a = 25$ y $b = 16$",
           "is_correct": false,
           "feedback": "Incorrecto. Esos son los cuadrados de los semiejes."
@@ -83,7 +83,7 @@
           "feedback": "Incorrecto. No hay semieje igual a $3$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "En $\\frac{x^2}{25} + \\frac{y^2}{16} = 1$, $a^2 = 25$ y $b^2 = 16$, luego $a = 5$ y $b = 4$.",
       "difficulty": "4",
       "images": [],
@@ -105,31 +105,31 @@
       "context": "En Cali, se estudia la relación entre los semiejes y la distancia focal de una elipse.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$c^2 = a^2 - b^2$",
           "is_correct": true,
           "feedback": "Correcto. La distancia focal cumple $c^2 = a^2 - b^2$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$c^2 = a^2 + b^2$",
           "is_correct": false,
           "feedback": "Incorrecto. Eso corresponde a una hipérbola."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$c = a + b$",
           "is_correct": false,
           "feedback": "Incorrecto. La relación no es aditiva."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$c = \\frac{a}{b}$",
           "is_correct": false,
           "feedback": "Incorrecto. Esa no es la relación correcta."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "En una elipse, $c^2 = a^2 - b^2$, donde $c$ es la distancia del centro a cada foco.",
       "difficulty": "4",
       "images": [],
@@ -151,19 +151,19 @@
       "context": "En Barranquilla, se determinan los focos de la elipse $\\frac{x^2}{25} + \\frac{y^2}{9} = 1$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$(\\pm 4, 0)$",
           "is_correct": true,
           "feedback": "Correcto. $c^2 = 25 - 9 = 16$, luego $c = 4$; focos en $(\\pm 4, 0)$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$(0, \\pm 4)$",
           "is_correct": false,
           "feedback": "Incorrecto. El eje mayor es horizontal, los focos están sobre el eje $x$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$(\\pm 5, 0)$",
           "is_correct": false,
           "feedback": "Incorrecto. Esos son los vértices, no los focos."
@@ -175,7 +175,7 @@
           "feedback": "Incorrecto. $3$ es el semieje menor."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Como $a^2 = 25$ y $b^2 = 9$, $c^2 = 25 - 9 = 16$, $c = 4$. Los focos son $(\\pm 4, 0)$ sobre el eje mayor.",
       "difficulty": "6",
       "images": [],
@@ -243,19 +243,19 @@
       "context": "En Pereira, se calcula la excentricidad de la elipse $\\frac{x^2}{100} + \\frac{y^2}{36} = 1$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$0.8$",
           "is_correct": true,
           "feedback": "Correcto. $c^2 = 100 - 36 = 64$, $c = 8$; $e = \\frac{c}{a} = \\frac{8}{10} = 0.8$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$0.6$",
           "is_correct": false,
           "feedback": "Incorrecto. $0.6$ sería $\\frac{b}{a}$ o el cálculo con datos erróneos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$0.36$",
           "is_correct": false,
           "feedback": "Incorrecto. Confundiste con $b^2$."
@@ -267,7 +267,7 @@
           "feedback": "Incorrecto. Es el valor de $c^2/a^2$, no de $e$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "$c = \\sqrt{a^2 - b^2} = \\sqrt{100 - 36} = 8$. La excentricidad es $e = \\frac{c}{a} = \\frac{8}{10} = 0.8$.",
       "difficulty": "6",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "En Manizales, se identifica el centro de la elipse $(x - 2)^2/16 + (y + 3)^2/9 = 1$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$(2, -3)$",
           "is_correct": true,
           "feedback": "Correcto. El centro es $(h, k) = (2, -3)$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$(-2, 3)$",
           "is_correct": false,
           "feedback": "Incorrecto. Los signos están invertidos."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecto. La abscisa del centro es $2$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La forma $(x - h)^2/a^2 + (y - k)^2/b^2 = 1$ tiene centro en $(h, k)$. Aquí es $(2, -3)$.",
       "difficulty": "8",
       "images": [],
@@ -335,31 +335,31 @@
       "context": "En Cartagena, se convierten los focos de una elipse centrada en el origen. Sus focos son $(\\pm 5, 0)$ y su semieje mayor es $13$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$\\frac{x^2}{169} + \\frac{y^2}{144} = 1$",
           "is_correct": true,
           "feedback": "Correcto. $a = 13$ y $b^2 = a^2 - c^2 = 169 - 25 = 144$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\frac{x^2}{144} + \\frac{y^2}{169} = 1$",
           "is_correct": false,
           "feedback": "Incorrecto. El eje mayor es horizontal, asociado a $x^2$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\frac{x^2}{169} + \\frac{y^2}{25} = 1$",
           "is_correct": false,
           "feedback": "Incorrecto. $b^2$ no es $c^2$; usa $b^2 = a^2 - c^2$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$\\frac{x^2}{25} + \\frac{y^2}{169} = 1$",
           "is_correct": false,
           "feedback": "Incorrecto. Confundiste los ejes."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Con $c = 5$ y $a = 13$: $b^2 = a^2 - c^2 = 169 - 25 = 144$. Ecuación: $\\frac{x^2}{169} + \\frac{y^2}{144} = 1$.",
       "difficulty": "8",
       "images": [],
@@ -381,31 +381,31 @@
       "context": "En Cúcuta, se determina el semieje menor de una elipse con excentricidad $0.6$ y semieje mayor $10$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$8$",
           "is_correct": true,
           "feedback": "Correcto. $c = 0.6 \\cdot 10 = 6$; $b = \\sqrt{100 - 36} = 8$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$6$",
           "is_correct": false,
           "feedback": "Incorrecto. $6$ es la distancia focal $c$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$4$",
           "is_correct": false,
           "feedback": "Incorrecto. Subestimaste el valor de $b$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$10$",
           "is_correct": false,
           "feedback": "Incorrecto. Ese es el semieje mayor."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "$c = ea = 0.6 \\cdot 10 = 6$. Luego $b^2 = a^2 - c^2 = 100 - 36 = 64$, por lo que $b = 8$.",
       "difficulty": "8",
       "images": [],
@@ -427,19 +427,19 @@
       "context": "En Pasto, un plano cartesiano contiene la elipse $9x^2 + 4y^2 = 36$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Vertical, con longitud $6$.",
           "is_correct": true,
           "feedback": "Correcto. Dividiendo entre $36$: $\\frac{x^2}{4} + \\frac{y^2}{9} = 1$; el semieje mayor es $3$, longitud $6$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Horizontal, con longitud $6$.",
           "is_correct": false,
           "feedback": "Incorrecto. $9 > 4$ en el denominador, el eje mayor es vertical."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Horizontal, con longitud $4$.",
           "is_correct": false,
           "feedback": "Incorrecto. El eje mayor mide $2a = 6$."
@@ -451,7 +451,7 @@
           "feedback": "Incorrecto. El semieje mayor es $3$, no $2$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Dividiendo entre $36$: $\\frac{x^2}{4} + \\frac{y^2}{9} = 1$. Como $9 > 4$, el semieje mayor es $3$ sobre el eje $y$; el eje mayor mide $2a = 6$ y es vertical.",
       "difficulty": "10",
       "images": [],
@@ -473,13 +473,13 @@
       "context": "En Ibagué, se compara la forma de dos elipses: $E_1: \\frac{x^2}{25} + \\frac{y^2}{24} = 1$ y $E_2: \\frac{x^2}{25} + \\frac{y^2}{9} = 1$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$E_1$, porque su excentricidad es menor.",
           "is_correct": true,
           "feedback": "Correcto. $e_1 = \\sqrt{1 - 24/25} = 0.2$ y $e_2 = \\sqrt{1 - 9/25} = 0.8$; menor excentricidad es más redonda."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$E_2$, porque su excentricidad es mayor.",
           "is_correct": false,
           "feedback": "Incorrecto. Mayor excentricidad implica elipse más achatada."
@@ -497,7 +497,7 @@
           "feedback": "Incorrecto. Un semieje menor pequeño hace la elipse más achatada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "$e_1 = \\sqrt{1 - \\frac{24}{25}} = 0.2$ y $e_2 = \\sqrt{1 - \\frac{9}{25}} = 0.8$. Como $e_1 < e_2$, $E_1$ es más redonda.",
       "difficulty": "10",
       "images": [],
@@ -519,31 +519,31 @@
       "context": "En Villavicencio, un puente tiene un arco elíptico de $20$ m de largo (eje mayor) y $6$ m de altura máxima (semieje menor).",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$\\frac{x^2}{100} + \\frac{y^2}{9} = 1$",
           "is_correct": true,
           "feedback": "Correcto. $a = 10$ y $b = 3$: $a^2 = 100$ y $b^2 = 9$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\frac{x^2}{400} + \\frac{y^2}{36} = 1$",
           "is_correct": false,
           "feedback": "Incorrecto. $20$ es el eje mayor, no el semieje; $a = 10$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\frac{x^2}{100} + \\frac{y^2}{36} = 1$",
           "is_correct": false,
           "feedback": "Incorrecto. $b = 3$, por lo que $b^2 = 9$, no $36$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$\\frac{x^2}{20} + \\frac{y^2}{6} = 1$",
           "is_correct": false,
           "feedback": "Incorrecto. Los semiejes van al cuadrado."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El eje mayor mide $20$ m, así que $a = 10$. La altura máxima es $6$ m, es decir $b = 3$. Ecuación: $\\frac{x^2}{100} + \\frac{y^2}{9} = 1$.",
       "difficulty": "10",
       "images": [],

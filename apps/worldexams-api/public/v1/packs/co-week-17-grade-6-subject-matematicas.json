@@ -13,13 +13,13 @@
       "context": "En un colegio de Bogotá la profesora marca puntos en una recta numérica dibujada en el tablero.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "1/2",
           "is_correct": true,
           "feedback": "Explica por qué es correcta: medio es mayor que 0 y menor que 1, por eso se ubica entre ambos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "2",
           "is_correct": false,
           "feedback": "Explica el error conceptual: 2 es mayor que 1, queda a la derecha del 1, no entre 0 y 1."
@@ -37,7 +37,7 @@
           "feedback": "Explica el error conceptual: 3 está lejos a la derecha del 1 en la recta numérica."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Los números entre 0 y 1 son fracciones o decimales positivos menores que la unidad, como 1/2 = 0.5. Ubicarlos correctamente exige comparar cada valor con los extremos del intervalo.",
       "difficulty": "4",
       "images": [],
@@ -59,31 +59,31 @@
       "context": "En una tienda de Medellín dos quesos pesan 3/4 de libra y 2/3 de libra.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "3/4 de libra",
           "is_correct": true,
           "feedback": "Explica por qué es correcta: 3/4 = 0.75 es mayor que 2/3 ≈ 0.67 al comparar decimales o fracciones equivalentes."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "2/3 de libra",
           "is_correct": false,
           "feedback": "Explica el error conceptual: 2/3 ≈ 0.67 es menor que 0.75, por eso pesa menos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Pesan exactamente lo mismo",
           "is_correct": false,
           "feedback": "Explica el error conceptual: solo serían iguales si las fracciones fueran equivalentes, y 3/4 no equivale a 2/3."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "No se pueden comparar fracciones con distinto denominador",
           "is_correct": false,
           "feedback": "Explica el error conceptual: sí se pueden comparar usando fracciones equivalentes (9/12 y 8/12) o decimales."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Para comparar fracciones con distinto denominador se convierten a un denominador común (3/4 = 9/12 y 2/3 = 8/12) o a decimal. La fracción con mayor numerador equivalente es la mayor.",
       "difficulty": "4",
       "images": [],
@@ -151,19 +151,19 @@
       "context": "En Tunja el termómetro marcó -2.5 °C al amanecer y 3.5 °C al mediodía.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "6.0 °C",
           "is_correct": true,
           "feedback": "Explica por qué es correcta: 3.5 - (-2.5) = 3.5 + 2.5 = 6.0 grados de aumento."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "1.0 °C",
           "is_correct": false,
           "feedback": "Explica el error conceptual: resta 3.5 - 2.5 ignorando que la temperatura inicial era negativa."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "5.0 °C",
           "is_correct": false,
           "feedback": "Explica el error conceptual: suma 3.5 + 2.5 pero comete un error aritmético en el total."
@@ -175,7 +175,7 @@
           "feedback": "Explica el error conceptual: invierte el orden de la resta y obtiene un descenso en vez de un aumento."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La variación se calcula como valor final menos valor inicial: 3.5 - (-2.5). Restar un negativo equivale a sumar, por eso el aumento total es 6.0 °C.",
       "difficulty": "6",
       "images": [],
@@ -197,31 +197,31 @@
       "context": "Una buseta de Bucaramanga recorre 2.75 km en su primera vuelta y 1.5 km en la segunda.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "4 1/4 km",
           "is_correct": true,
           "feedback": "Explica por qué es correcta: 2.75 + 1.5 = 4.25 = 4 + 1/4, es decir, 4 1/4 km."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "3 3/4 km",
           "is_correct": false,
           "feedback": "Explica el error conceptual: suma solo las partes decimales y conserva mal la parte entera."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "4 1/2 km",
           "is_correct": false,
           "feedback": "Explica el error conceptual: convierte 0.25 en 1/2 en lugar de 1/4 al pasar el decimal a fracción."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "4 3/4 km",
           "is_correct": false,
           "feedback": "Explica el error conceptual: suma 2.75 + 2.0 en vez de 2.75 + 1.5, agregando medio kilómetro de más."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Primero se suma en decimal (4.25) y luego se convierte la parte decimal: 0.25 = 25/100 = 1/4. Así, 4.25 equivale al número mixto 4 1/4.",
       "difficulty": "6",
       "images": [],
@@ -243,19 +243,19 @@
       "context": "En un juego de mesa en Cartagena dos fichas están en 1/3 y 1/2 de la pista.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "5/12, porque 4/12 < 5/12 < 6/12",
           "is_correct": true,
           "feedback": "Explica por qué es correcta: 1/3 = 4/12 y 1/2 = 6/12, y 5/12 queda justo entre ambos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "1/4, porque tiene denominador mayor",
           "is_correct": false,
           "feedback": "Explica el error conceptual: un denominador mayor no garantiza un valor mayor; 1/4 = 0.25 es menor que 1/3."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "2/3, porque está después de 1/2",
           "is_correct": false,
           "feedback": "Explica el error conceptual: 2/3 ≈ 0.67 es mayor que 1/2, queda fuera del intervalo por la derecha."
@@ -267,7 +267,7 @@
           "feedback": "Explica el error conceptual: no toda fracción propia está en ese intervalo; 1/5 = 0.2 es menor que 1/3."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Entre dos racionales siempre hay infinitos racionales (densidad). Con denominador común 12, el intervalo (4/12, 6/12) contiene a 5/12, lo que demuestra la afirmación.",
       "difficulty": "8",
       "images": [],
@@ -289,19 +289,19 @@
       "context": "En Pasto tres estudiantes ordenan de menor a mayor estos números: 0.6, 3/5 y 0.55.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "0.55 < 0.6 = 3/5",
           "is_correct": true,
           "feedback": "Explica por qué es correcta: 3/5 = 0.6, y 0.55 es menor que 0.60 al comparar cifra por cifra."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "0.6 < 3/5 < 0.55",
           "is_correct": false,
           "feedback": "Explica el error conceptual: 0.6 y 3/5 son iguales, no puede ir uno antes que el otro."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "3/5 < 0.55 < 0.6",
           "is_correct": false,
           "feedback": "Explica el error conceptual: 3/5 = 0.60 es mayor que 0.55, no menor."
@@ -313,7 +313,7 @@
           "feedback": "Explica el error conceptual: separa 3/5 y 0.6 como si fueran distintos, pero ambos valen 0.60."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Convertir todo a decimal revela igualdades ocultas: 3/5 = 0.60. Luego se comparan décimas y centésimas: 0.55 < 0.60. Reconocer equivalencias evita errores de orden.",
       "difficulty": "8",
       "images": [],
@@ -335,19 +335,19 @@
       "context": "Un agricultor de Boyacá riega 5/6 de su cultivo en la mañana y le quedan 2 litros de agua de 12 que tenía.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "1/6 del agua total",
           "is_correct": true,
           "feedback": "Explica por qué es correcta: 2 de 12 litros es 2/12 = 1/6 del total."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "1/5 del agua total",
           "is_correct": false,
           "feedback": "Explica el error conceptual: compara los 2 litros que quedan con los 10 usados en vez de con el total de 12."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "5/6 del agua total",
           "is_correct": false,
           "feedback": "Explica el error conceptual: esa es la fracción usada en la mañana, no la que queda."
@@ -359,7 +359,7 @@
           "feedback": "Explica el error conceptual: usa 1 litro como referencia en lugar de los 2 litros restantes."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Toda fracción es una razón parte-todo: 2 litros restantes de 12 totales = 2/12 = 1/6. Coherencia: 5/6 usado + 1/6 restante = 6/6 = el total.",
       "difficulty": "8",
       "images": [],

@@ -13,19 +13,19 @@
       "context": "En Bogotá, la profesora registra en una tabla cuántos estudiantes prefieren cada fruta de la tienda escolar.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "El número de veces que aparece ese dato",
           "is_correct": true,
           "feedback": "Correcto. La frecuencia absoluta cuenta las repeticiones de cada dato."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La suma de todos los datos recogidos",
           "is_correct": false,
           "feedback": "Incorrecto. Esa suma es el total de datos, no la frecuencia de uno."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El dato que aparece en la mitad de la tabla",
           "is_correct": false,
           "feedback": "Incorrecto. Eso se acerca a la idea de mediana, no de frecuencia."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Eso describe la frecuencia relativa, no la absoluta."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La frecuencia absoluta es el conteo de repeticiones de cada valor. La suma de todas las frecuencias absolutas es el total de datos.",
       "difficulty": "4",
       "images": [],
@@ -105,13 +105,13 @@
       "context": "En Cali, $20$ estudiantes votan por su deporte favorito: fútbol $10$ votos, baloncesto $6$ votos y ciclismo $4$ votos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$50\\%$",
           "is_correct": true,
           "feedback": "Correcto. $\\frac{10}{20} = 0.5$, es decir el $50\\%$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$10\\%$",
           "is_correct": false,
           "feedback": "Incorrecto. Tomaste el número de votos como porcentaje."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecto. Ese sería el resultado con $12$ votos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La frecuencia relativa es $\\frac{\\text{frecuencia absoluta}}{\\text{total}} = \\frac{10}{20} = 0.5 = 50\\%$.",
       "difficulty": "6",
       "images": [],
@@ -151,31 +151,31 @@
       "context": "En Barranquilla, una tabla de mascotas registra: perro $9$, gato $7$, pájaro $5$ y pez $3$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$16$",
           "is_correct": true,
           "feedback": "Correcto. $9 + 7 = 16$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$7$",
           "is_correct": false,
           "feedback": "Incorrecto. Esa es solo la frecuencia del gato."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$9$",
           "is_correct": false,
           "feedback": "Incorrecto. Esa es solo la frecuencia del perro."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$24$",
           "is_correct": false,
           "feedback": "Incorrecto. Ese es el total de todas las categorías."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La frecuencia acumulada suma las frecuencias hasta esa fila: $9 + 7 = 16$.",
       "difficulty": "6",
       "images": [],
@@ -197,19 +197,19 @@
       "context": "En Pereira, $30$ estudiantes indican cómo llegan al colegio: bus $12$, a pie $9$, bicicleta $6$ y moto $3$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$18$ estudiantes",
           "is_correct": true,
           "feedback": "Correcto. $12 + 6 = 18$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$12$ estudiantes",
           "is_correct": false,
           "feedback": "Incorrecto. Contaste solo a quienes usan bus."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$15$ estudiantes",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste bus con moto en lugar de bus con bicicleta."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto. Sumaste bus, bicicleta y moto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Se suman las frecuencias de las dos categorías pedidas: $12 + 6 = 18$ estudiantes.",
       "difficulty": "6",
       "images": [],
@@ -243,19 +243,19 @@
       "context": "En Bucaramanga, una tabla de colores favoritos de $40$ estudiantes registra: azul $14$, verde $9$, rojo $x$ y amarillo $6$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$11$",
           "is_correct": true,
           "feedback": "Correcto. $14 + 9 + 6 = 29$; $40 - 29 = 11$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$9$",
           "is_correct": false,
           "feedback": "Incorrecto. Repetiste la frecuencia del verde."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$10$",
           "is_correct": false,
           "feedback": "Incorrecto. Error al restar del total."
@@ -267,7 +267,7 @@
           "feedback": "Incorrecto. Sumaste mal las frecuencias conocidas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La suma de frecuencias debe ser el total: $x = 40 - (14 + 9 + 6) = 40 - 29 = 11$.",
       "difficulty": "8",
       "images": [],
@@ -289,19 +289,19 @@
       "context": "En Manizales, en el curso A a $12$ de $30$ estudiantes les gusta la lectura, y en el curso B a $15$ de $40$ les gusta la lectura.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "El curso A, con el $40\\%$",
           "is_correct": true,
           "feedback": "Correcto. A: $\\frac{12}{30} = 40\\%$; B: $\\frac{15}{40} = 37.5\\%$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El curso B, con el $37.5\\%$",
           "is_correct": false,
           "feedback": "Incorrecto. Tiene más lectores en cantidad, pero menor proporción."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ambos tienen la misma proporción",
           "is_correct": false,
           "feedback": "Incorrecto. $40\\% \\ne 37.5\\%$."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecto. Dividiste $12$ entre $40$ mezclando los dos cursos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Comparar frecuencias relativas: curso A $\\frac{12}{30} = 0.40$ y curso B $\\frac{15}{40} = 0.375$. La proporción mayor es la del curso A.",
       "difficulty": "8",
       "images": [],
@@ -335,13 +335,13 @@
       "context": "En Cartagena, una tabla registra cuántos hermanos tienen los estudiantes: $0$ hermanos: $6$, $1$ hermano: $10$, $2$ hermanos: $8$, $3$ hermanos: $4$, $4$ hermanos: $2$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$24$ estudiantes",
           "is_correct": true,
           "feedback": "Correcto. $6 + 10 + 8 = 24$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$18$ estudiantes",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste solo $0$ y $2$ hermanos, sin el $1$."
@@ -359,7 +359,7 @@
           "feedback": "Incorrecto. Contaste solo a quienes tienen exactamente $1$ hermano."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Es la frecuencia acumulada hasta $2$ hermanos: $6 + 10 + 8 = 24$ estudiantes.",
       "difficulty": "8",
       "images": [],
@@ -381,31 +381,31 @@
       "context": "En Medellín, una encuesta de $200$ personas sobre el festival de las flores muestra que la frecuencia relativa del color azul es $0.45$. Un estudiante afirma que más de la mitad prefiere el azul.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "No, porque $0.45$ equivale al $45\\%$, menos de la mitad",
           "is_correct": true,
           "feedback": "Correcto. $0.45 = 45\\% < 50\\%$, así que no es más de la mitad."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Sí, porque $0.45$ supera a la mitad",
           "is_correct": false,
           "feedback": "Incorrecto. La mitad es $0.50$ y $0.45$ es menor."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "No, porque $0.45$ equivale al $4.5\\%$",
           "is_correct": false,
           "feedback": "Incorrecto. $0.45$ es $45\\%$, no $4.5\\%$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Sí, porque $90$ personas son más de la mitad de $200$",
           "is_correct": false,
           "feedback": "Incorrecto. $90$ es menos que $100$, la mitad de $200$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La frecuencia absoluta del azul es $0.45 \\times 200 = 90$, que es el $45\\%$, menor que el $50\\%$. La afirmación es falsa.",
       "difficulty": "10",
       "images": [],

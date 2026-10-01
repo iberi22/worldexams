@@ -109,25 +109,25 @@
           "feedback": "Incorrecto. El neutro es el resultado, no la propiedad del número operado."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Inverso Multiplicativo",
           "is_correct": true,
           "feedback": "Correcto. Todo número real distinto de cero tiene un recíproco que al multiplicarse por él da la unidad."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Propiedad Conmutativa",
           "is_correct": false,
           "feedback": "Incorrecto. No se refiere al orden."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Propiedad Clausurativa",
           "is_correct": false,
           "feedback": "Incorrecto. Indica que el resultado permanece en los reales."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La existencia del inverso multiplicativo (recíproco) es una propiedad de campo de los números reales para todo $a \\neq 0$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,13 +148,13 @@
       "context": "Simplificando la expresión $2(x + 3)$ en un cuaderno de matemáticas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Propiedad Distributiva",
           "is_correct": true,
           "feedback": "Correcto. La multiplicación se distribuyó sobre cada término de la suma."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Propiedad Asociativa",
           "is_correct": false,
           "feedback": "Incorrecto. No hubo cambios en el agrupamiento de operaciones iguales."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. No se operó con el elemento neutro."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La propiedad distributiva vincula la multiplicación con la suma: $a(b+c) = ab + ac$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -193,13 +193,13 @@
       "context": "En un laboratorio en San Cristóbal, se miden temperaturas extremas de $-15.5$ °C y $22.3$ °C.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "6.8",
           "is_correct": false,
           "feedback": "Incorrecto. Has restado los valores absolutos en lugar de sumarlos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "37.8",
           "is_correct": true,
           "feedback": "Correcto. $|22.3 - (-15.5)| = 22.3 + 15.5 = 37.8$."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. Error en la suma decimal."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La distancia entre dos puntos $a$ y $b$ en la recta real se calcula con el valor absoluto de su diferencia: $|a - b|$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -244,13 +244,13 @@
           "feedback": "Incorrecto. Olvidaste elevar el radio al cuadrado."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "314 m2",
           "is_correct": true,
           "feedback": "Correcto. $3.14 \\cdot 10^2 = 3.14 \\cdot 100 = 314$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "628 m2",
           "is_correct": false,
           "feedback": "Incorrecto. Has multiplicado por 2 en lugar de elevar al cuadrado."
@@ -262,7 +262,7 @@
           "feedback": "Incorrecto. Error en el desplazamiento del punto decimal."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Se aplica la jerarquía de operaciones: primero la potencia ($10^2 = 100$) y luego la multiplicación por la constante real.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -289,13 +289,13 @@
           "feedback": "Incorrecto. Es menor que 0.5 (1/2)."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "0.60",
           "is_correct": true,
           "feedback": "Correcto. 0.60 está entre 0.50 y 0.75."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "0.80",
           "is_correct": false,
           "feedback": "Incorrecto. Es mayor que 0.75 (3/4)."
@@ -307,7 +307,7 @@
           "feedback": "Incorrecto. Es mucho menor que el rango solicitado."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Convertimos las fracciones a decimales: $1/2 = 0.5$ y $3/4 = 0.75$. El número $0.6$ cae dentro de ese intervalo.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -373,19 +373,19 @@
       "context": "Análisis de la recta numérica en un liceo de Baní.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Propiedad Conmutativa",
           "is_correct": false,
           "feedback": "Incorrecto. Se refiere al orden de operaciones."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Propiedad de Densidad",
           "is_correct": false,
           "feedback": "Incorrecto. La densidad dice que hay infinitos entre dos, pero los racionales son densos y tienen \"huecos\"."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Propiedad de Completitud",
           "is_correct": true,
           "feedback": "Correcto. Los reales completan la recta al incluir todos los puntos posibles (racionales e irracionales)."
@@ -397,7 +397,7 @@
           "feedback": "Incorrecto. Se refiere a la permanencia en el conjunto."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "La completitud es lo que diferencia a los reales de los racionales.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -418,13 +418,13 @@
       "context": "Un arquitecto en Higüey necesita calcular la diagonal de una habitación de 3m por 4m.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "7 m",
           "is_correct": false,
           "feedback": "Incorrecto. Has sumado los lados sin elevar al cuadrado."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "5 m",
           "is_correct": true,
           "feedback": "Correcto. $\\sqrt{3^2 + 4^2} = \\sqrt{9 + 16} = \\sqrt{25} = 5$."
@@ -442,7 +442,7 @@
           "feedback": "Incorrecto. Error de cálculo en las potencias."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Se aplica el teorema de Pitágoras sobre números reales enteros.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -475,19 +475,19 @@
           "feedback": "Incorrecto. Para negativos sí se cumple."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Para los números reales negativos y el cero.",
           "is_correct": true,
           "feedback": "Correcto. Si x es negativo, -x es positivo, igualando al valor absoluto."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Solo para x = 0.",
           "is_correct": false,
           "feedback": "Incorrecto. También se cumple para -1, -2, etc."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Por definición, $|x| = -x$ si $x \\leq 0$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -508,13 +508,13 @@
       "context": "Simplificación de la expresión $(2 + \\sqrt{2}) - (1 - \\sqrt{2})$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "1",
           "is_correct": false,
           "feedback": "Incorrecto. Los radicales no se cancelan, se suman."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$1 + 2\\sqrt{2}$",
           "is_correct": true,
           "feedback": "Correcto. $2 - 1 = 1$ y $\\sqrt{2} - (-\\sqrt{2}) = 2\\sqrt{2}$."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. Error de signo en la operación con radicales."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Agrupamos términos semejantes: enteros con enteros y radicales con radicales.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -688,19 +688,19 @@
       "context": "Análisis de conjuntos infinitos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Enteros",
           "is_correct": false,
           "feedback": "Incorrecto. Subconjunto de reales."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Racionales",
           "is_correct": false,
           "feedback": "Incorrecto. Subconjunto de reales."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Complejos",
           "is_correct": true,
           "feedback": "Correcto. Incluyen la unidad imaginaria."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. Subconjunto muy pequeño."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Los complejos permiten resolver $x^2 + 1 = 0$, imposible en los reales.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -733,13 +733,13 @@
       "context": "Análisis avanzado en la UASD sobre la propiedad de Arquímedes.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Que todo real tiene raíz cuadrada.",
           "is_correct": false,
           "feedback": "Incorrecto. Solo los no negativos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Que dado cualquier real, existe un natural mayor.",
           "is_correct": true,
           "feedback": "Correcto. El conjunto de los naturales no está acotado en los reales."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. Afirmación falsa."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Garantiza que no hay números reales \"infinitamente grandes\" comparados con los naturales.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -778,13 +778,13 @@
       "context": "Reflexión sobre la multiplicación por cero.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Propiedad Conmutativa",
           "is_correct": false,
           "feedback": "Incorrecto. Se refiere al orden."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Propiedad del Producto Cero",
           "is_correct": true,
           "feedback": "Correcto. Indica que al menos uno de los factores debe ser cero."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. Se refiere al conjunto resultado."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Es fundamental para resolver ecuaciones factorizadas.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -829,13 +829,13 @@
           "feedback": "Incorrecto. Los valores están disminuyendo."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "0",
           "is_correct": true,
           "feedback": "Correcto. Los términos se hacen infinitamente pequeños."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Infinito",
           "is_correct": false,
           "feedback": "Incorrecto. Se están acercando a un valor central."
@@ -847,7 +847,7 @@
           "feedback": "Incorrecto. Todos los términos son positivos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Concepto de límite fundamental en el análisis de los números reales.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -874,25 +874,25 @@
           "feedback": "Incorrecto. Su cuadrado es positivo (2)."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Porque pertenece al conjunto de los irracionales, y los reales incluyen a estos.",
           "is_correct": true,
           "feedback": "Correcto. Los reales son la unión de racionales e irracionales."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque se puede redondear a 1.41.",
           "is_correct": false,
           "feedback": "Incorrecto. El redondeo no define la pertenencia al conjunto."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Porque es un número entero.",
           "is_correct": false,
           "feedback": "Incorrecto. Tiene decimales infinitos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La estructura de los reales engloba a todos los números de la recta continua.\n\n[//]: # (QUALITY_REVIEW)\n| Dimensión | Puntuación |\n|-----------|------------|\n| Técnico | 30/30 |\n| Curricular | 40/40 |\n| Context | 20/20 |\n| Redacción | 10/10 |\n| **Total** | **100/100** |",
       "difficulty": "10",
       "images": [],

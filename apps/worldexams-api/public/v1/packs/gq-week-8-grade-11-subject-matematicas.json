@@ -25,19 +25,19 @@
           "feedback": "Este es el simbolo de \"menor que\"."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "$\\le$",
           "is_correct": true,
           "feedback": "¡Correcto! Indica que el valor de la izquierda puede ser menor o exactamente igual al de la derecha."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$\\neq$",
           "is_correct": false,
           "feedback": "Este es el simbolo de \"distinto de\"."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Las inecuaciones expresan una relacion de orden entre dos expresiones algebraicas. El simbolo $\\le$ incluye la posibilidad de igualdad, lo que afecta la representacion del intervalo (usando corchetes) y de la recta numerica (usando un punto cerrado).",
       "difficulty": "4",
       "images": [],
@@ -58,13 +58,13 @@
       "context": "Un profesor en Bata explica una regla critica al multiplicar o dividir una inecuacion por un numero negativo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El sentido se mantiene igual.",
           "is_correct": false,
           "feedback": "Esto solo ocurre si multiplicamos por un numero positivo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El sentido de la desigualdad se invierte (cambia).",
           "is_correct": true,
           "feedback": "¡Correcto! Multiplicar por un negativo cambia la orientacion de la relacion de orden."
@@ -82,7 +82,7 @@
           "feedback": "No tiene relacion con el signo del multiplicador."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Esta es una propiedad fundamental de las desigualdades. Por ejemplo, si $2 < 5$, al multiplicar por $-1$ obtenemos $-2$ y $-5$. Como $-2 > -5$, el simbolo debe invertirse para mantener la veracidad de la expresion.",
       "difficulty": "4",
       "images": [],
@@ -154,13 +154,13 @@
           "feedback": "Error al sumar 2 en lugar de restarlo."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$x < 3$",
           "is_correct": true,
           "feedback": "¡Correcto! Al restar 2 en ambos lados obtenemos $x < 3$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x > 3$",
           "is_correct": false,
           "feedback": "El sentido de la desigualdad no cambia al restar un numero."
@@ -172,7 +172,7 @@
           "feedback": "Una inecuacion generalmente tiene un conjunto de soluciones, no un unico valor."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Las inecuaciones lineales se resuelven de forma muy similar a las ecuaciones, aplicando operaciones inversas. Restar un numero en ambos lados mantiene el sentido original de la desigualdad.",
       "difficulty": "4",
       "images": [],
@@ -193,13 +193,13 @@
       "context": "Un transportista en Mongomo tiene un camion con una capacidad maxima de carga de $3000$ kg. Ya lleva una carga de $1200$ kg.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x + 1200 > 3000$",
           "is_correct": false,
           "feedback": "Esto diria que la carga debe superar el limite, lo cual es peligroso."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x + 1200 \\le 3000$",
           "is_correct": true,
           "feedback": "¡Correcto! El peso total (actual mas adicional) no debe exceder el limite permitido."
@@ -217,7 +217,7 @@
           "feedback": "Esto limitaria la carga adicional a la que ya tiene, sin considerar el limite del camion."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El termino \"capacidad maxima\" implica un limite superior que incluye el valor limite. Por tanto, se utiliza el simbolo $\\le$ para modelar restricciones fisicas o legales.",
       "difficulty": "6",
       "images": [],
@@ -238,13 +238,13 @@
       "context": "Un estudiante en Annobon resuelve la inecuacion $-2x < 10$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x < -5$",
           "is_correct": false,
           "feedback": "Olvido invertir el sentido de la desigualdad al dividir por -2."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x > -5$",
           "is_correct": true,
           "feedback": "¡Correcto! Al dividir por -2, el sentido de la desigualdad cambia de $<$ a $>$."
@@ -262,7 +262,7 @@
           "feedback": "Error en el signo del resultado final."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Al dividir ambos miembros por un numero negativo ($-2$), debemos recordar dos cosas: 1) Realizar la division aritmetica normal ($10 / -2 = -5$). 2) Invertir el signo de la desigualdad.",
       "difficulty": "6",
       "images": [],
@@ -289,25 +289,25 @@
           "feedback": "$3(4-2) = 6$, que no es mayor o igual a 12."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$x = 6$",
           "is_correct": true,
           "feedback": "¡Correcto! $x - 2 \\ge 4 \\rightarrow x \\ge 6$. El valor minimo es 6."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = 8$",
           "is_correct": false,
           "feedback": "8 activa la alarma, pero no es el valor minimo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$x = 2$",
           "is_correct": false,
           "feedback": "Con x=2 el resultado seria 0."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Resolvemos la inecuacion: dividimos por 3 para obtener $x - 2 \\ge 4$, y luego sumamos 2 para obtener $x \\ge 6$. Como la desigualdad incluye el signo igual, 6 es el valor minimo aceptable.",
       "difficulty": "6",
       "images": [],
@@ -424,13 +424,13 @@
           "feedback": "Esto incluiria al -3, que ya pertenece al conjunto original."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$x < -3$",
           "is_correct": true,
           "feedback": "¡Correcto! El complemento de \"mayor o igual\" es estrictamente \"menor que\"."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x > -3$",
           "is_correct": false,
           "feedback": "Esto es casi lo mismo que el conjunto original."
@@ -442,7 +442,7 @@
           "feedback": "Un conjunto complemento suele ser un intervalo infinito, no un solo punto."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El complemento de una desigualdad incluye todos los valores de la recta real que no cumplen la condicion original. Si la original incluye el extremo ($\\ge$), el complemento no debe incluirlo ($<$).",
       "difficulty": "6",
       "images": [],
@@ -463,13 +463,13 @@
       "context": "Un estudiante en Guinea Ecuatorial quiere saber que nota necesita en su ultimo examen para aprobar. Sus notas actuales son $4.5$ y $5.5$. El promedio de las tres notas debe ser al menos $5.0$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$(4.5 + 5.5 + x) < 5$",
           "is_correct": false,
           "feedback": "Esto buscaria reprobar, no aprobar."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\frac{4.5 + 5.5 + x}{3} \\ge 5$",
           "is_correct": true,
           "feedback": "¡Correcto! El promedio debe ser mayor o igual al limite de aprobado."
@@ -487,7 +487,7 @@
           "feedback": "Esto no considera las notas previas del estudiante."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El promedio se calcula sumando todos los valores y dividiendo por la cantidad de elementos. La condicion \"al menos\" se traduce como $\\ge$. Al resolver, el estudiante veria que necesita $x \\ge 5$.",
       "difficulty": "8",
       "images": [],
@@ -508,13 +508,13 @@
       "context": "Un analista en Malabo resuelve una inecuacion con variables en ambos lados: $5x - 3 > 2x + 9$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x > 2$",
           "is_correct": false,
           "feedback": "Error al agrupar los terminos independientes."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x > 4$",
           "is_correct": true,
           "feedback": "¡Correcto! $3x > 12 \\rightarrow x > 4$."
@@ -532,7 +532,7 @@
           "feedback": "Error al dividir 12 entre 3."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Agrupamos los terminos con $x$ en el lado izquierdo ($3x$) y los terminos independientes en el derecho ($12$). Al dividir por 3 (numero positivo), el sentido de la desigualdad se mantiene.",
       "difficulty": "8",
       "images": [],
@@ -559,13 +559,13 @@
           "feedback": "Esto representaria valores fuera del rango de operacion."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$-10 \\le x \\le 40$",
           "is_correct": true,
           "feedback": "¡Correcto! El valor debe estar simultaneamente por encima del minimo y por debajo del maximo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = -10$ y $x = 40$",
           "is_correct": false,
           "feedback": "Esto solo permitiria dos temperaturas exactas, no un rango."
@@ -577,7 +577,7 @@
           "feedback": "No tiene relacion con los limites establecidos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Las inecuaciones compuestas del tipo \"y\" (conjuncion) representan un intervalo de valores que satisfacen dos condiciones al mismo tiempo. Se expresan elegantemente como una desigualdad encadenada.",
       "difficulty": "8",
       "images": [],
@@ -598,13 +598,13 @@
       "context": "En un examen de la UNGE, se pide identificar el grafico de la inecuacion $x \\le -2$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Una linea que comienza en -2 con un circulo abierto y va hacia la derecha.",
           "is_correct": false,
           "feedback": "El circulo abierto es para < o >, y el sentido es incorrecto."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Una linea que comienza en -2 con un circulo cerrado y va hacia la izquierda.",
           "is_correct": true,
           "feedback": "¡Correcto! El circulo cerrado incluye al -2, y los valores menores estan a la izquierda."
@@ -622,7 +622,7 @@
           "feedback": "Eso representaria x >= -2."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La representacion grafica es una herramienta visual para entender los conjuntos de soluciones infinitos. El uso de circulos abiertos/cerrados y flechas de direccion es estandar en todas las matematicas.",
       "difficulty": "8",
       "images": [],
@@ -649,25 +649,25 @@
           "feedback": "Error de signo al agrupar los terminos."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$x < 7$",
           "is_correct": true,
           "feedback": "¡Correcto! $3(x-1) < 2(x+2) \\rightarrow 3x-3 < 2x+4 \\rightarrow x < 7$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x > 7$",
           "is_correct": false,
           "feedback": "No hay cambio de signo por multiplicacion negativa."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$x < -1$",
           "is_correct": false,
           "feedback": "Error en el calculo de los productos cruzados."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Al tener fracciones con denominadores positivos, multiplicamos toda la inecuacion por el mcm (6) o realizamos el producto cruzado. El sentido de la desigualdad se mantiene porque los multiplicadores son positivos.",
       "difficulty": "8",
       "images": [],
@@ -688,13 +688,13 @@
       "context": "Un taller en Bata analiza el coste $C = 10x + 500$ y quiere que el coste sea menor a $2000$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "100 unidades",
           "is_correct": false,
           "feedback": "$1500$, cumple pero no es el maximo absoluto."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "149 unidades",
           "is_correct": true,
           "feedback": "¡Correcto! $10x < 1500 \\rightarrow x < 150$. El mayor entero menor que 150 es 149."
@@ -712,7 +712,7 @@
           "feedback": "Supera ampliamente el presupuesto."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Resolvemos la inecuacion $10x + 500 < 2000$. Obtenemos $x < 150$. Dado que la pregunta pide el numero maximo de unidades enteras bajo un limite estricto, debemos elegir el entero inmediatamente inferior.",
       "difficulty": "8",
       "images": [],
@@ -733,13 +733,13 @@
       "context": "Un estudiante avanzado analiza una inecuacion que parece contradictoria: $2x + 5 < 2x - 1$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Todos los numeros reales.",
           "is_correct": false,
           "feedback": "Ningun numero puede satisfacer esta condicion."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Conjunto vacio ($\\emptyset$).",
           "is_correct": true,
           "feedback": "¡Correcto! Al simplificar queda $5 < -1$, lo cual es una falsedad absoluta."
@@ -757,7 +757,7 @@
           "feedback": "No hay valores de x que salven la contradiccion numerica."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Al igual que las ecuaciones, las inecuaciones pueden no tener solucion si conducen a una contradiccion matematica. En este caso, no existe ningun valor de $x$ que haga que un numero sumado con 5 sea menor que ese mismo numero sumado con -1.",
       "difficulty": "10",
       "images": [],
@@ -784,13 +784,13 @@
           "feedback": "Falta el limite inferior."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$[-2, 8]$",
           "is_correct": true,
           "feedback": "¡Correcto! Se traduce como $-5 \\le x - 3 \\le 5$, lo que resulta en $-2 \\le x \\le 8$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$(-2, 8)$",
           "is_correct": false,
           "feedback": "Los extremos deben estar incluidos debido al simbolo $\\le$."
@@ -802,7 +802,7 @@
           "feedback": "Falta el limite superior."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El valor absoluto representa distancia. $|x - 3| \\le 5$ significa que la distancia entre $x$ y $3$ es como maximo 5 unidades. Esto genera un intervalo cerrado que abarca desde 3-5 hasta 3+5.",
       "difficulty": "10",
       "images": [],
@@ -874,25 +874,25 @@
           "feedback": "La primera inecuacion define una linea diagonal, no un cuadrado."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Un triangulo con vertices en $(0,0), (4,0)$ y $(0,4)$.",
           "is_correct": true,
           "feedback": "¡Correcto! Es la region en el primer cuadrante por debajo de la recta $x+y=4$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Todo el primer cuadrante.",
           "is_correct": false,
           "feedback": "La condicion $x+y \\le 4$ limita la region."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Una linea recta infinita.",
           "is_correct": false,
           "feedback": "Las desigualdades definen regiones o areas, no solo lineas."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Este es el fundamento de la Programacion Lineal. Cada inecuacion lineal define un semiplano. La interseccion de varios semiplanos genera una region factible, que en este caso es un triangulo rectangulo en el origen.\n\n[//]: # (QUALITY_REVIEW)\n| Dimension | Puntaje |\n|-----------|---------|\n| Técnico | 30/30 |\n| Curricular | 40/40 |\n| Contexto | 20/20 |\n| Redacción | 10/10 |\n| **Total** | **100/100** |",
       "difficulty": "10",
       "images": [],

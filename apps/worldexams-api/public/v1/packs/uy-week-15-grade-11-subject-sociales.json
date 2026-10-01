@@ -13,13 +13,13 @@
       "context": "En el año 2007, Uruguay se convirtió en el primer país del mundo en implementar a escala nacional el Plan Ceibal (Conectividad Educativa de Informática Básica para el Aprendizaje en Línea).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Democratizar el acceso a la tecnología, reducir la brecha digital y promover la equidad educativa.",
           "is_correct": true,
           "feedback": "Correcto. El Plan Ceibal garantizó acceso universal e igualitario a internet y dispositivos digitales para toda la educación pública."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Sustituir por completo a los docentes de aula por algoritmos automatizados.",
           "is_correct": false,
           "feedback": "Incorrecto. El Plan Ceibal es una herramienta pedagógica que jerarquiza el rol del docente en el aula."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Los dispositivosCeibal se entregan de forma gratuita en la educación pública."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El Plan Ceibal posicionó a Uruguay como líder pionero en inclusión digital educativa, garantizando acceso universal y gratuito a dispositivos y conectividad.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -58,13 +58,13 @@
       "context": "En el marco de la diversidad cultural y patrimonial de Uruguay, el candombe y el tango fueron declarados Patrimonio Cultural Inmaterial de la Humanidad por la UNESCO.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Inmigrantes procedentes de la zona alpina europea.",
           "is_correct": false,
           "feedback": "Incorrecto. Las colectividades alpinas europeas aportaron otras expresiones folclóricas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La población afrodescendiente uruguaya, a partir de las vivencias de los colectivos afrouruguayos y los conventillos.",
           "is_correct": true,
           "feedback": "Correcto. El candombe es la máxima expresión cultural de la comunidad afrouruguaya, transmitida oral y comunitariamente a través de los tambores (chico, repique y piano)."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. El candombe es una manifestación cultural urbana autóctona de los barrios populares de Montevideo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El candombe es una manifestación identitaria fundamental de la comunidad afrouruguaya reconocida por la UNESCO como Patrimonio Inmaterial de la Humanidad.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -103,13 +103,13 @@
       "context": "La laicidad es un principio rector de la escuela pública uruguaya consagrado históricamente por la Reforma Escolar de José Pedro Varela en 1876.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La enseñanza obligatoria de la doctrina de la iglesia mayoritaria.",
           "is_correct": false,
           "feedback": "Incorrecto. La laicidad prohíbe la enseñanza dogmática de cualquier religión en la escuela pública."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La neutralidad del Estado frente a dogmas religiosos y filosofías, garantizando la libre formación del juicio del estudiante sin adoctrinamiento.",
           "is_correct": true,
           "feedback": "Correcto. Garantiza que la enseñanza pública respete todas las creencias sin imponer dogmas confesionales o ideológicos, promoviendo el pensamiento crítico."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. El cuerpo docente ejerce la libertad de cátedra dentro del marco curricular laico."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El principio vareliano de laicidad garantiza la neutralidad confesional de la educación pública y el respeto a la libertad de conciencia de los educandos.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,13 +148,13 @@
       "context": "En las últimas dos décadas, Uruguay aprobó un paquete de leyes conocido como la 'Agenda de Derechos' (matrimonio igualitario, identidad de género, interrupción voluntaria del embarazo, regulación del cannabis).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Establecer la obligación de que todas las personas se casen al cumplir 18 años.",
           "is_correct": false,
           "feedback": "Incorrecto. El matrimonio es una decisión voluntaria de la persona."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Reconocer la institución del matrimonio civil con los mismos derechos y obligaciones para parejas del mismo o de diferente sexo.",
           "is_correct": true,
           "feedback": "Correcto. Equiparó jurídicamente el derecho al matrimonio civil sin distinción de orientación sexual o género."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. La ley regula justamente las inscripciones de matrimonio ante el Registro Civil."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La Ley de Matrimonio Igualitario consolidó a Uruguay como referente internacional en la ampliación de derechos civiles y no discriminación por orientación sexual.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -199,13 +199,13 @@
           "feedback": "Incorrecto. Los datos indican mayor vulnerabilidad socioeconómica e ingresos inferiores al promedio."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Mayor incidencia de la pobreza, menores tasas de egreso en educación media y mayor concentración en empleos de baja calificación.",
           "is_correct": true,
           "feedback": "Correcto. A pesar de los avances normativos, la población afrouruguaya sufre brechas estructurales de desigualdad socioeconómica derivadamente históricas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Exención permanente de pagar impuestos a las rentas.",
           "is_correct": false,
           "feedback": "Incorrecto. Las normas tributarias rigen sin distinción étnico-racial."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. El FONASA brinda cobertura universal independientemente del origen étnico."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Las estadísticas oficiales evidencian la persistencia de brechas estructurales de inequidad racial en ingresos, empleo de calidad y logros educativos en la población afrouruguaya.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -244,25 +244,25 @@
           "feedback": "Incorrecto. No es una norma legal ni física; es una barrera invisible sociocultural."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Barreras invisibles (prejuicios, sesgos de género, roles de cuidado) que impiden a las mujeres calificadas ascender a puestos directivos de mayor jerarquía.",
           "is_correct": true,
           "feedback": "Correcto. El 'techo de cristal' alude a los obstáculos no explícitos que limitan la progresión de las mujeres hacia roles de liderazgo empresarial o político."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El aumento de la contratación de mujeres en el sector de la construcción de viviendas.",
           "is_correct": false,
           "feedback": "Incorrecto. Refiere a la segregación vertical en la escala jerárquica laboral."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La obligación de jubilarse a una edad menor que los hombres.",
           "is_correct": false,
           "feedback": "Incorrecto. Refiere al desarrollo de la carrera profesional durante la etapa activa."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El 'techo de cristal' sintetiza las barreras invisibles socioculturales y corporativas que restringen el ascenso de las mujeres a posiciones de decisión y liderazgo.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -334,13 +334,13 @@
           "feedback": "Incorrecto. El acceso a plataformas digitales se ha expandido masivamente."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "El riesgo de pérdida de referencia sobre la cultura local frente a la hegemonía de contenidos globales, exigiendo políticas de fomento al audiovisual y música nacional.",
           "is_correct": true,
           "feedback": "Correcto. La masividad de producciones globales en redes desplaza a creadores locales, demandando cuotas de pantalla e incentivos a la producción cultural uruguaya."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La prohibición de escuchar candombe y murga durante los carnavales.",
           "is_correct": false,
           "feedback": "Incorrecto. El carnaval y sus expresiones gozan de amplia vitalidad popular."
@@ -352,7 +352,7 @@
           "feedback": "Incorrecto. El idioma español se mantiene como lengua oficial con sus modismos locales."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La globalización digital promueve pautas de consumo cultural estandarizadas, desafiando a las políticas públicas a proteger la diversidad y creación artística local.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -373,13 +373,13 @@
       "context": "Se analiza el fenómeno de la discontinuidad educativa en la Educación Media Superior (Liceo y UTU), donde Uruguay presenta tasas de egreso en secundaria inferiores al promedio regional.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La falta de centros educativos en las ciudades capitales del país.",
           "is_correct": false,
           "feedback": "Incorrecto. La infraestructura liceal y de UTU cubre el territorio urbano nacional."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La necesidad de inserción laboral precaria temprana para aportar ingresos al hogar, sumada a la desvinculación pedagógica con el formato curricular tradicional.",
           "is_correct": true,
           "feedback": "Correcto. Las urgencias económicas del hogar presionan hacia el trabajo informal temprano, debilitando la continuidad educativa si no hay acompañamiento becario ni currículo flexible."
@@ -397,7 +397,7 @@
           "feedback": "Incorrecto. La educación pública en Uruguay es 100% gratuita en todos sus niveles."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La deserción en educación media se explica por la interacción entre presiones de inserción laboral temprana por vulnerabilidad del hogar y desfases del modelo pedagógico tradicional.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -424,13 +424,13 @@
           "feedback": "Incorrecto. Las Piedras fue la victoria patriota contra las tropas realistas españolas."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "La emboscada de Salsipuedes ejecutada bajo el gobierno de Fructuoso Rivera en 1831.",
           "is_correct": true,
           "feedback": "Correcto. La campaña militar de Salsipuedes (1831) persiguió y exterminó a las agrupaciones charrúas, diezmando a la población indígena originaria."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La firma del Tratado de San José de Flores en 1859.",
           "is_correct": false,
           "feedback": "Incorrecto. El Tratado de San José de Flores es un acuerdo de la historia argentina."
@@ -442,7 +442,7 @@
           "feedback": "Incorrecto. Corresponde a las corrientes migratorias europeas de ultramar."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La acción militar de Salsipuedes (1831) representó la supresión trágica de los pueblos originarios charrúas en los orígenes del Estado uruguayo.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -463,13 +463,13 @@
       "context": "Analizás el concepto de 'sociedad hiperintegrada' con el que la sociología clásica caracterizó al Uruguay de mediados del siglo XX (el 'país de la cercanía') frente a la brecha de fragmentación social actual.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La desaparición completa de la educación pública universitaria.",
           "is_correct": false,
           "feedback": "Incorrecto. La Universidad de la República ha expandido su matrícula e infraestructura en el interior."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El debilitamiento de los canales de movilidad social ascendente (como la escuela pública integradora), generando un núcleo duro de exclusión reproducible en la periferia.",
           "is_correct": true,
           "feedback": "Correcto. La sociedad del siglo XXI enfrenta segmentación residencial y educativa, dificultando que la educación funcione como el 'ascensor social' homogéneo del modelo batllista tradicional."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto. La libertad sindical está plenamente amparada por la Constitución y convenios de la OIT."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La fragmentación social contemporánea ha debilitado los tradicionales motores de integración de la 'sociedad hiperintegrada' batllista, generando núcleos duros de marginación.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -514,25 +514,25 @@
           "feedback": "Incorrecto. La cotización al FONASA es un porcentaje progresivo del salario, no un monto fijo."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Aporta un porcentaje progresivo del salario del trabajador, otorgando cobertura idéntica al trabajador, sus hijos menores y cónyuge a cargo.",
           "is_correct": true,
           "feedback": "Correcto. El FONASA financia la salud mediante un descuento proporcional al ingreso (aporte progresivo), garantizando acceso al mismo seguro de salud (público o privado)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Financia exclusivamente la atención de ciudadanos extranjeros no residentes.",
           "is_correct": false,
           "feedback": "Incorrecto. Coopera sobre la población residente afiliada formalmente al sistema de seguridad social."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Exige el pago en efectivo de un impuesto de aduana antes de cada consulta médica.",
           "is_correct": false,
           "feedback": "Incorrecto. La atención se canaliza en los prestadores integrados mediante el carné de salud."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El FONASA encarna un modelo de solidaridad intergeneracional e distributiva donde el aporte se realiza según capacidad contributiva y el servicio se recibe según necesidad sanitaria.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -553,13 +553,13 @@
       "context": "En el marco de la diversidad de género y combate a la discriminación, la Ley N° 19.684 (Ley Integral para Personas Trans) aprobada en 2018 incluyó medidas de acción afirmativa.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Prohibir que las personas trans ejerzan cargos en el poder judicial.",
           "is_correct": false,
           "feedback": "Incorrecto. La ley busca promover el acceso y eliminar discriminaciones."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Reservar una cuota del 1% de los puestos de trabajo que se generen en los organismos públicos para personas trans que reúnan las condiciones de idoneidad.",
           "is_correct": true,
           "feedback": "Correcto. La cuota del 1% en vacantes públicas es una medida de acción afirmativa para reparar la exclusión histórica del mercado formal de trabajo."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. Las normas penales aplican de forma igualitaria a todos los habitantes."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Las medidas de acción afirmativa de la Ley N° 19.684 buscan revertir la exclusión socio-laboral histórica garantizando cuotas de inclusión en llamados públicos.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -604,13 +604,13 @@
           "feedback": "Incorrecto. Suelen enfrentar graves déficits habitacionales y dificultades de acceso a vivienda."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Doble sobrecarga de cuidados y trabajo no remunerado, mayor riesgo de informalidad laboral y menor ingreso per cápita del hogar.",
           "is_correct": true,
           "feedback": "Correcto. Al asumir solas la crianza de los hijos con restricciones de tiempo para el empleo formal remunerado, enfrentan el mayor riesgo de pobreza urbana."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Prohibición de acceder a asignaciones familiares del BPS.",
           "is_correct": false,
           "feedback": "Incorrecto. Las Asignaciones Familiares del BPS priorizan precisamente a los hogares vulnerables."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. Son dinámicas del mercado de trabajo local e ingresos del hogar."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Los hogares monoparentales con jefatura femenina concentran situaciones de alta vulnerabilidad debido a la restricción de tiempo para el trabajo remunerado y la sobrecarga de cuidado.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -649,25 +649,25 @@
           "feedback": "Incorrecto. El pensamiento crítico fomenta la diversidad de juicios informados, no la uniformidad."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Permiten evaluar la veracidad y sesgos de las fuentes de información, protegiendo al electorado de la manipulación algorítmica y la polarización extrema.",
           "is_correct": true,
           "feedback": "Correcto. La alfabetización informacional capacita para verificar hechos, discernir desinformación y participar con autonomía en el debate público democrático."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque garantizan que las redes sociales dejen de funcionar de forma definitiva.",
           "is_correct": false,
           "feedback": "Incorrecto. No buscan destruir las tecnologías sino usarlas con sentido ético y reflexivo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Porque otorgan el derecho de calumniar impunemente a cualquier vecino en redes.",
           "is_correct": false,
           "feedback": "Incorrecto. El pensamiento crítico promueve el rigor cívico y el respeto de la verdad demostrable."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La alfabetización mediática e informacional fortalece el juicio autónomo ciudadano frente a las campañas de desinformación y manipulación digital.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -733,19 +733,19 @@
       "context": "Evalúas la tensión filosófica entre el paradigma del 'desarrollo como crecimiento del PIB' versus el paradigma del 'Desarrollo Humano Sostenible' promovido por el PNUD (Amartya Sen).",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Porque el PIB es un indicador cuantitativo monetario que no refleja la distribución de la riqueza, la longevidad de la población ni los logros en educación y salud.",
           "is_correct": true,
           "feedback": "Correcto. El PIB sólo mide producción monetaria total; el IDH evalúa las capacidades humanas reales de las personas (salud, conocimiento y estándar de vida digno)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque el IDH se mide exclusivamente en kilos de carne exportados por año.",
           "is_correct": false,
           "feedback": "Incorrecto. Mide indicadores sociales estandarizados (salud, educación e ingresos)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque el PIB prohíbe el cálculo del ingreso nacional en países democráticos.",
           "is_correct": false,
           "feedback": "Incorrecto. El PIB es la métrica de contabilidad macroeconómica estándar mundial."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. El IDH exige y evalúa precisamente los logros de los sistemas educativos y sanitarios."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El paradigma del Desarrollo Humano concibe al crecimiento económico como un medio y no como un fin en sí mismo, priorizando la expansión de las libertades y capacidades humanas.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -784,13 +784,13 @@
           "feedback": "Incorrecto. La tesis universalista sostiene que 'servicios para pobres terminan siendo pobres servicios', defendiendo bienes universales de alta calidad."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Que el universalismo genera cohesión social, evita la estigmatización de los beneficiarios, construye ciudadanía compartida y consolida un amplio apoyo fiscal de las clases medias.",
           "is_correct": true,
           "feedback": "Correcto. Las políticas universales integran a las distintas clases en las mismas instituciones públicas, generando cohesión social y respaldo tributario broad-based."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Que las prestaciones universales deben privatizarse en un 100% en el mercado bursátil.",
           "is_correct": false,
           "feedback": "Incorrecto. El universalismo defiende la responsabilidad pública garante del Estado."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. Las políticas puramente focalizadas tienden a generar 'trampas de pobreza' y fragmentación."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El paradigma universalista de protección social postula que garantizar derechos básicos compartidos construye cohesión e integración cívica igualitaria.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -823,13 +823,13 @@
       "context": "Se analiza el desafío del cambio tecnológico y la Inteligencia Artificial sobre los derechos a la privacidad y la protección de datos personales en la sociedad uruguaya (Ley N° 18.331).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El recurso de Habeas Corpus de libertad física procesal.",
           "is_correct": false,
           "feedback": "Incorrecto. El Habeas Corpus protege la libertad física frente a detenciones ilegítimas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La Acción de Habeas Data (que permite conocer, rectificar, actualizar o suprimir datos personales almacenados en bases públicas o privadas).",
           "is_correct": true,
           "feedback": "Correcto. El Habeas Data protege la autodeterminación informativa y la privacidad personal frente al procesamiento indebido de datos."
@@ -847,7 +847,7 @@
           "feedback": "Incorrecto. No restringe el uso tecnológico sino que regula la protección jurídica de la información privada."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El Habeas Data es la garantía procesal específica que tutela el derecho a la privacidad y la autodeterminación informativa en la era de los datos digitales.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -874,25 +874,25 @@
           "feedback": "Incorrecto. Eso condenaría al país a la dependencia y a la obsolescencia productiva."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Transformar la matriz productiva hacia el conocimiento y la sostenibilidad ambiental, respaldada en una fuerte inversión en I+D, reforma educativa equitativa y fortalecimiento de la red de bienestar social.",
           "is_correct": true,
           "feedback": "Correcto. El desarrollo sustentable del siglo XXI exige articular innovación científica, educación de calidad, transición ecológica y cohesión social sin exclusión."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Eliminar las exportaciones de servicios y basar la economía únicamente en la minería pesada.",
           "is_correct": false,
           "feedback": "Incorrecto. La tendencia mundial va hacia economías descarbonizadas e intensivas en servicios e innovación."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Suprimir los derechos de las minorías y suspender las elecciones democráticas.",
           "is_correct": false,
           "feedback": "Incorrecto. La democracia y los derechos humanos son el cimiento indispensable de la convivencia y el desarrollo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El desarrollo sostenible del Uruguay del siglo XXI exige integrar la innovación biotecnológica y digital con la equidad educativa y la fortaleza democrática de su Estado de bienestar.\n\n---",
       "difficulty": "10",
       "images": [],

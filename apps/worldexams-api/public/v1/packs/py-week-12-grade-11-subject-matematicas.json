@@ -58,19 +58,19 @@
       "context": "En Encarnación, unos estudiantes observan el puente San Roque González de Santa Cruz formando un ángulo de elevación de $30^\\circ$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$\\frac{1}{2}$",
           "is_correct": true,
           "feedback": "¡Correcto! El valor exacto de $\\sin(30^\\circ)$ en la tabla de ángulos notables es $1/2$ o $0,5$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\frac{\\sqrt{3}}{2}$",
           "is_correct": false,
           "feedback": "Incorrecto. $\\frac{\\sqrt{3}}{2}$ corresponde al $\\cos(30^\\circ)$ o $\\sin(60^\\circ)$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\frac{\\sqrt{2}}{2}$",
           "is_correct": false,
           "feedback": "Incorrecto. $\\frac{\\sqrt{2}}{2}$ es el valor para $45^\\circ$."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. 1 es el valor del seno para $90^\\circ$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "En un triángulo rectángulo notable de $30^\\circ - 60^\\circ$, el cateto opuesto a $30^\\circ$ mide la mitad de la hipotenusa, por lo que $\\sin(30^\\circ) = \\frac{1}{2}$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -103,13 +103,13 @@
       "context": "En San Lorenzo, se revisa la identidad fundamental trigonométrica para simplificar expresiones numéricas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$\\sin^2(\\theta) + \\cos^2(\\theta) = 1$",
           "is_correct": true,
           "feedback": "¡Correcto! Es la identidad trigonométrica fundamental derivada del teorema de Pitágoras."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\sin^2(\\theta) - \\cos^2(\\theta) = 1$",
           "is_correct": false,
           "feedback": "Incorrecto. La suma de los cuadrados debe ser 1, no la resta."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. La relación aplica a los cuadrados de las funciones trigonométricas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Aplicando el teorema de Pitágoras en la circunferencia unitaria ($x^2 + y^2 = 1$), donde $x = \\cos(\\theta)$ y $y = \\sin(\\theta)$, obtenemos la identidad pitagórica fundamental $\\sin^2(\\theta) + \\cos^2(\\theta) = 1$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,19 +148,19 @@
       "context": "Un topógrafo en Luque mide un terreno rectangular y utiliza la relación de la tangente para hallar un ángulo de inclinación.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$\\frac{3}{4}$ (o $0,75$)",
           "is_correct": true,
           "feedback": "¡Correcto! $\\tan(\\alpha) = \\frac{\\text{opuesto}}{\\text{adyacente}} = \\frac{6}{8} = \\frac{3}{4}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\frac{4}{3}$ (o $1,33$)",
           "is_correct": false,
           "feedback": "Incorrecto. Dividió el adyacente entre el opuesto (cotangente)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\frac{3}{5}$ (o $0,60$)",
           "is_correct": false,
           "feedback": "Incorrecto. Dividió el opuesto entre la hipotenusa ($10\\text{ m}$), que es el seno."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. Dividió el adyacente entre la hipotenusa, que es el coseno."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Por definición, $\\tan(\\alpha) = \\frac{\\text{Cateto opuesto}}{\\text{Cateto adyacente}}$. Al sustituir los datos dados: $\\tan(\\alpha) = \\frac{6}{8} = \\frac{3}{4} = 0,75$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -193,31 +193,31 @@
       "context": "En Ciudad del Este, se proyecta construir una rampa de acceso a un edificio con una longitud de $10\\text{ m}$ e inclinación de $30^\\circ$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$5\\text{ m}$",
           "is_correct": true,
           "feedback": "¡Correcto! $\\text{Altura} = \\text{Hipotenusa} \\cdot \\sin(30^\\circ) = 10 \\cdot 0,5 = 5\\text{ m}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$5\\sqrt{3}\\text{ m}$ (aprox. $8,66\\text{ m}$)",
           "is_correct": false,
           "feedback": "Incorrecto. Calculó la distancia horizontal utilizando el coseno."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$10\\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Es la longitud de la rampa (hipotenusa), no su altura."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$2,5\\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Dividió por 4 en lugar de multiplicar por $\\sin(30^\\circ) = 0,5$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La altura $h$ se relaciona con la hipotenusa $L = 10\\text{ m}$ mediante $\\sin(30^\\circ) = \\frac{h}{L} \\Rightarrow h = 10 \\cdot \\sin(30^\\circ) = 10 \\cdot 0,5 = 5\\text{ m}$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -238,13 +238,13 @@
       "context": "En Villarrica, un grupo de estudiantes utiliza la Ley de Senos para calcular la distancia inaccesible entre dos árboles en la plaza armas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$6\\sqrt{2}\\text{ cm}$ (aprox. $8,49\\text{ cm}$)",
           "is_correct": true,
           "feedback": "¡Correcto! Por Ley de Senos: $\\frac{b}{\\sin(30^\\circ)} = \\frac{12}{\\sin(45^\\circ)} \\Rightarrow b = \\frac{12 \\cdot 1/2}{\\sqrt{2}/2} = \\frac{12}{\\sqrt{2}} = 6\\sqrt{2}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$12\\sqrt{2}\\text{ cm}$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidó multiplicar por $\\sin(30^\\circ) = 1/2$."
@@ -262,7 +262,7 @@
           "feedback": "Incorrecto. Calculó una proporción directa de ángulos en lugar de senos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Por la Ley de Senos: $\\frac{a}{\\sin(A)} = \\frac{b}{\\sin(B)}$. Sustituyendo valores: $\\frac{12}{\\sin(45^\\circ)} = \\frac{b}{\\sin(30^\\circ)} \\Rightarrow \\frac{12}{\\sqrt{2}/2} = \\frac{b}{1/2} \\Rightarrow b = \\frac{12 \\cdot 1/2}{\\sqrt{2}/2} = \\frac{12}{\\sqrt{2}} = 6\\sqrt{2}\\text{ cm}$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -283,13 +283,13 @@
       "context": "En Coronel Oviedo, un arquitecto aplica la Ley de Cosenos para calcular el tercer lado de una parcela triangular.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$7\\text{ m}$",
           "is_correct": true,
           "feedback": "¡Correcto! Por Ley de Cosenos: $a^2 = 5^2 + 8^2 - 2(5)(8)\\cos(60^\\circ) = 25 + 64 - 80(0,5) = 89 - 40 = 49 \\Rightarrow a = \\sqrt{49} = 7$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\sqrt{89}\\text{ m}$ (aprox. $9,43\\text{ m}$)",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidó restar el término del doble producto con el coseno."
@@ -307,7 +307,7 @@
           "feedback": "Incorrecto. Sumó el producto $2bc\\cos(A)$ en lugar de restarlo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Por la Ley de Cosenos: $a^2 = b^2 + c^2 - 2bc \\cos(A)$. Al sustituir $b=5$, $c=8$ y $\\cos(60^\\circ) = 0,5$: $a^2 = 25 + 64 - 2(5)(8)(0,5) = 89 - 40 = 49$. Así, $a = \\sqrt{49} = 7\\text{ m}$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -328,19 +328,19 @@
       "context": "En Caacupé, se analiza el signo de las razones trigonométricas en los cuatro cuadrantes del plano cartesiano.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Seno positivo ($+$), Coseno negativo ($-$)",
           "is_correct": true,
           "feedback": "¡Correcto! En el II cuadrante la ordenada $y > 0$ (seno positivo) y la abscisa $x < 0$ (coseno negativo)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Seno negativo ($-$), Coseno positivo ($+$)",
           "is_correct": false,
           "feedback": "Incorrecto. Corresponde al IV cuadrante."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ambos negativos ($-,-$)",
           "is_correct": false,
           "feedback": "Incorrecto. Corresponde al III cuadrante."
@@ -352,7 +352,7 @@
           "feedback": "Incorrecto. Corresponde al I cuadrante."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "En la circunferencia trigonométrica, el seno corresponde a la coordenada $y$ (positiva en I y II cuadrante) y el coseno corresponde a la coordenada $x$ (negativa en II y III cuadrante). Por ende, en el II cuadrante: $\\sin(\\theta) > 0$ y $\\cos(\\theta) < 0$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -373,31 +373,31 @@
       "context": "En Pilar, unos estudiantes reducen al primer cuadrante un ángulo obtuso para calcular su seno.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$\\sin(30^\\circ) = \\frac{1}{2}$",
           "is_correct": true,
           "feedback": "¡Correcto! Por reducción al I cuadrante: $\\sin(150^\\circ) = \\sin(180^\\circ - 30^\\circ) = \\sin(30^\\circ) = 1/2$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$-\\sin(30^\\circ) = -\\frac{1}{2}$",
           "is_correct": false,
           "feedback": "Incorrecto. El seno es positivo en el segundo cuadrante."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\cos(30^\\circ) = \\frac{\\sqrt{3}}{2}$",
           "is_correct": false,
           "feedback": "Incorrecto. $\\sin(150^\\circ)$ no cambia de función a coseno salvo que se use $90^\\circ + 60^\\circ$, en cuyo caso es $+\\cos(60^\\circ) = 1/2$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$-\\cos(30^\\circ) = -\\frac{\\sqrt{3}}{2}$",
           "is_correct": false,
           "feedback": "Incorrecto. Asignó signo negativo a una razón positiva en el II cuadrante."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El ángulo $150^\\circ$ está en el II cuadrante. La reducción mediante el ángulo suplementario es $\\sin(180^\\circ - 30^\\circ) = \\sin(30^\\circ) = 0,5$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -418,31 +418,31 @@
       "context": "En Concepción, se repasa la fórmula del seno del ángulo doble durante una guía de ejercicios.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$2 \\sin(\\theta) \\cos(\\theta)$",
           "is_correct": true,
           "feedback": "¡Correcto! La identidad del seno del ángulo doble es $\\sin(2\\theta) = 2 \\sin(\\theta) \\cos(\\theta)$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\sin^2(\\theta) - \\cos^2(\\theta)$",
           "is_correct": false,
           "feedback": "Incorrecto. Esa expresión corresponde a $-\\cos(2\\theta)$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\cos^2(\\theta) - \\sin^2(\\theta)$",
           "is_correct": false,
           "feedback": "Incorrecto. Corresponde a la identidad de $\\cos(2\\theta)$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$2 \\sin(\\theta)$",
           "is_correct": false,
           "feedback": "Incorrecto. Falta multiplicar por el coseno del ángulo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La fórmula de adición para el seno $\\sin(\\alpha + \\beta) = \\sin\\alpha\\cos\\beta + \\cos\\alpha\\sin\\beta$, haciendo $\\alpha = \\beta = \\theta$, da $\\sin(2\\theta) = 2\\sin\\theta\\cos\\theta$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -508,13 +508,13 @@
       "context": "En San Lorenzo, un estudiante resuelve una ecuación trigonométrica elemental en el intervalo $[0^\\circ, 360^\\circ)$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x_1 = 30^\\circ$ y $x_2 = 150^\\circ$",
           "is_correct": true,
           "feedback": "¡Correcto! $\\sin(x) = 1/2$, lo cual ocurre en el I cuadrante ($30^\\circ$) y II cuadrante ($180^\\circ - 30^\\circ = 150^\\circ$)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x_1 = 30^\\circ$ y $x_2 = 210^\\circ$",
           "is_correct": false,
           "feedback": "Incorrecto. $210^\\circ$ está en el III cuadrante donde el seno es $-1/2$."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. Olvidó incluir la solución del segundo cuadrante."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Despejando: $\\sin(x) = \\frac{1}{2}$. En $[0^\\circ, 360^\\circ)$, el seno es positivo en los cuadrantes I y II. La solución en el cuadrante I es $30^\\circ$ y en el cuadrante II es $180^\\circ - 30^\\circ = 150^\\circ$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -598,13 +598,13 @@
       "context": "En Encarnación, los alumnos transforman expresiones trigonométricas usando identidades de cociente y recíprocas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$\\sec(x)$",
           "is_correct": true,
           "feedback": "¡Correcto! $\\tan(x) \\cdot \\csc(x) = \\frac{\\sin(x)}{\\cos(x)} \\cdot \\frac{1}{\\sin(x)} = \\frac{1}{\\cos(x)} = \\sec(x)$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\cos(x)$",
           "is_correct": false,
           "feedback": "Incorrecto. Invirtió la relación recíproca final."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. Canceló incorrectamente el coseno en lugar del seno."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Reemplazando por senos y cosenos: $\\tan(x) = \\frac{\\sin(x)}{\\cos(x)}$ y $\\csc(x) = \\frac{1}{\\sin(x)}$. Al multiplicar: $\\frac{\\sin(x)}{\\cos(x)} \\cdot \\frac{1}{\\sin(x)} = \\frac{1}{\\cos(x)} = \\sec(x)$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -643,19 +643,19 @@
       "context": "En un levantamiento fotogramétrico en Ciudad del Este, se calcula el área de una parcela triangular usando la fórmula trigonométrica del área.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$20\\text{ m}^2$",
           "is_correct": true,
           "feedback": "¡Correcto! $\\text{Área} = \\frac{1}{2} a b \\sin(C) = \\frac{1}{2} (8) (10) \\sin(30^\\circ) = 40 \\cdot 0,5 = 20\\text{ m}^2$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$40\\text{ m}^2$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidó multiplicar por el factor $1/2$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$20\\sqrt{3}\\text{ m}^2$",
           "is_correct": false,
           "feedback": "Incorrecto. Usó $\\cos(30^\\circ) = \\sqrt{3}/2$ en lugar de $\\sin(30^\\circ) = 1/2$."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. Dividió adicionalmente por 2 sin necesidad."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La fórmula del área de un triángulo con dos lados y el ángulo comprendido es $\\text{Área} = \\frac{1}{2} a b \\sin(C)$. Sustituyendo: $\\frac{1}{2} \\cdot 8 \\cdot 10 \\cdot 0,5 = 20\\text{ m}^2$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -733,19 +733,19 @@
       "context": "En Caacupé, se analiza una ecuación trigonométrica cuadrática de segundo grado: $2 \\cos^2(x) + \\cos(x) - 1 = 0$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$\\frac{\\pi}{3}$, $\\pi$, $\\frac{5\\pi}{3}$",
           "is_correct": true,
           "feedback": "¡Correcto! Factorizando $(2\\cos(x) - 1)(\\cos(x) + 1) = 0 \\Rightarrow \\cos(x) = 1/2 \\Rightarrow x = \\pi/3, 5\\pi/3$; o $\\cos(x) = -1 \\Rightarrow x = \\pi$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\frac{\\pi}{6}$, $\\pi$, $\\frac{11\\pi}{6}$",
           "is_correct": false,
           "feedback": "Incorrecto. $\\cos(\\pi/6) = \\sqrt{3}/2$, no $1/2$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\frac{\\pi}{3}$, $\\frac{2\\pi}{3}$, $\\pi$",
           "is_correct": false,
           "feedback": "Incorrecto. $\\cos(2\\pi/3) = -1/2$, que no satisface $2\\cos(x)-1=0$."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. $\\cos(0) = 1$, que no satisface la ecuación."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Factorizando $(2\\cos(x) - 1)(\\cos(x) + 1) = 0$.\n1) $2\\cos(x) - 1 = 0 \\Rightarrow \\cos(x) = 1/2 \\Rightarrow x = \\pi/3$ y $x = 5\\pi/3$.\n2) $\\cos(x) + 1 = 0 \\Rightarrow \\cos(x) = -1 \\Rightarrow x = \\pi$.\nLas soluciones en el intervalo son $\\frac{\\pi}{3}, \\pi, \\frac{5\\pi}{3}$.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -778,19 +778,19 @@
       "context": "En Pilar, se evalúa una suma de cosenos para determinar el comportamiento armónico de una onda sonora.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$\\frac{\\sqrt{6}}{2}$",
           "is_correct": true,
           "feedback": "¡Correcto! $\\cos(A) + \\cos(B) = 2 \\cos\\left(\\frac{A+B}{2}\\right) \\cos\\left(\\frac{A-B}{2}\\right) = 2 \\cos(45^\\circ) \\cos(30^\\circ) = 2 \\left(\\frac{\\sqrt{2}}{2}\\right) \\left(\\frac{\\sqrt{3}}{2}\\right) = \\frac{\\sqrt{6}}{2}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\frac{\\sqrt{2}}{2}$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidó el factor $\\cos(30^\\circ) = \\sqrt{3}/2$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\sqrt{3}$",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicó en lugar de simplificar adecuadamente."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. Olvidó el factor $\\cos(45^\\circ) = \\sqrt{2}/2$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Usando la identidad de suma a producto: $\\cos(A) + \\cos(B) = 2 \\cos\\left(\\frac{A+B}{2}\\right) \\cos\\left(\\frac{A-B}{2}\\right)$. Para $A=75^\\circ$ y $B=15^\\circ$: $\\frac{A+B}{2} = 45^\\circ$ y $\\frac{A-B}{2} = 30^\\circ$. La suma resulta $2 \\cdot \\frac{\\sqrt{2}}{2} \\cdot \\frac{\\sqrt{3}}{2} = \\frac{\\sqrt{6}}{2}$.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -823,19 +823,19 @@
       "context": "En Villarrica, se resuelve un triángulo oblicuángulo donde se conocen los tres lados $a = 7$, $b = 8$, $c = 9$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$\\frac{2}{7}$",
           "is_correct": true,
           "feedback": "¡Correcto! Por Ley de Cosenos: $c^2 = a^2 + b^2 - 2ab \\cos(C) \\Rightarrow 81 = 49 + 64 - 2(7)(8) \\cos(C) \\Rightarrow 81 = 113 - 112 \\cos(C) \\Rightarrow 112 \\cos(C) = 32 \\Rightarrow \\cos(C) = 32/112 = 2/7$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\frac{5}{7}$",
           "is_correct": false,
           "feedback": "Incorrecto. Restó de forma errónea $113 - 81$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\frac{1}{4}$",
           "is_correct": false,
           "feedback": "Incorrecto. Cometió un error en el denominador al simplificar $32/112$."
@@ -847,7 +847,7 @@
           "feedback": "Incorrecto. Confundió los lados al aplicar la fórmula."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Despejando $\\cos(C)$ de la Ley de Cosenos: $\\cos(C) = \\frac{a^2 + b^2 - c^2}{2ab}$. Sustituyendo: $\\cos(C) = \\frac{7^2 + 8^2 - 9^2}{2(7)(8)} = \\frac{49 + 64 - 81}{112} = \\frac{32}{112} = \\frac{2}{7}$.\n\n---",
       "difficulty": "10",
       "images": [],

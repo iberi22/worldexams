@@ -19,25 +19,25 @@
           "feedback": "Incorrecto. El texto no menciona generación de energía hidroeléctrica."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Proveer de agua potable a más del $60\\%$ de la población del Uruguay.",
           "is_correct": true,
           "feedback": "¡Correcto! El fragmento indica explícitamente que abastece de agua potable a más del $60\\%$ de la población."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Servir como vía de navegación comercial para el transporte de granos hacia el puerto.",
           "is_correct": false,
           "feedback": "Incorrecto. No se hace alusión al transporte ni a la navegación fluvial."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Proteger los bancos de pesca de agua dulce para la exportación.",
           "is_correct": false,
           "feedback": "Incorrecto. El informe no aborda la pesca comercial."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La información se presenta de forma explícita en la primera oración del texto científico informativo.",
       "difficulty": "4",
       "images": [],
@@ -58,19 +58,19 @@
       "context": "Leé el fragmento del informe científico publicado por la Facultad de Ciencias de la UdelaR: \"La cuenca del río Santa Lucía provee de agua potable a más del $60\\%$ de la población uruguaya. Las actividades agropecuarias intensivas en sus márgenes han incrementado los niveles de fósforo y nitrógeno, provocando el florecimiento recurrente de cianobacterias durante los meses de verano\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Las actividades agropecuarias intensivas en las márgenes del río.",
           "is_correct": true,
           "feedback": "¡Correcto! El texto señala directamente a las actividades agropecuarias intensivas como causa del incremento de nutrientes."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El aumento del turismo estival en las playas de Canelones.",
           "is_correct": false,
           "feedback": "Incorrecto. No se menciona la actividad turística en el pasaje."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Las sequías prolongadas registradas durante el invierno.",
           "is_correct": false,
           "feedback": "Incorrecto. No atribuye el fósforo y nitrógeno a sequías invernales."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. La cuenca del Santa Lucía se analiza en relación a sus márgenes agrícolas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El texto establece una relación de causa-efecto explícita entre la agricultura/ganadería intensiva en los márgenes y la carga de nutrientes.",
       "difficulty": "4",
       "images": [],
@@ -109,25 +109,25 @@
           "feedback": "Incorrecto. El sujeto es \"Los técnicos de OSE\"."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Complemento Directo (se sustituye por *las*: \"las inspeccionaron\").",
           "is_correct": true,
           "feedback": "¡Correcto! Recibe directamente la acción del verbo transitivo \"inspeccionaron\"."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Complemento Indirecto.",
           "is_correct": false,
           "feedback": "Incorrecto. No expresa el destinatario o beneficiario de la acción."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Complemento Circunstancial de lugar.",
           "is_correct": false,
           "feedback": "Incorrecto. El complemento directo es el objeto examinado, no la localización abstracta."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El sintagma nominal que sigue al verbo transitivo \"inspeccionar\" y admite la pronominalización por el pronombre átono *las* funciona como complemento directo.",
       "difficulty": "4",
       "images": [],
@@ -148,19 +148,19 @@
       "context": "Leé el enunciado: \"No bien el sol se ocultó tras la cuchilla, el frío comenzó a hacerse sentir en la pradera\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "No bien",
           "is_correct": true,
           "feedback": "¡Correcto! \"No bien\" es una locución conjuntiva temporal que denota inmediatez (*tan pronto como*)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Tras",
           "is_correct": false,
           "feedback": "Incorrecto. \"Tras\" es una preposición de espacio/tiempo dentro del término subordinado."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "A hacerse",
           "is_correct": false,
           "feedback": "Incorrecto. Es parte de la perífrasis verbal de infinitivo."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. Es la contracción preposicional con artículo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La locución \"No bien\" actúa como nexo subordinante temporal que indica que la acción principal ocurre inmediatamente después de la subordinada.",
       "difficulty": "4",
       "images": [],
@@ -199,13 +199,13 @@
           "feedback": "Incorrecto. No hay alteración del orden sintáctico habitual de la oración."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Símil (o comparación explícita mediada por el verbo *parecer*).",
           "is_correct": true,
           "feedback": "¡Correcto! El verbo \"parecían\" actúa como nexo comparativo entre las calles y el laberinto."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Oxímoron.",
           "is_correct": false,
           "feedback": "Incorrecto. No une dos términos contradictorios e incompatibles (*un fuego helado*)."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. La relación no es de causa-efecto o parte-todo sino analógica."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El símil o comparación establece una relación de semejanza entre dos elementos a través de nexos explícitos como *como*, *parecer*, *cual*.",
       "difficulty": "6",
       "images": [],
@@ -244,25 +244,25 @@
           "feedback": "Incorrecto. No hay leísmo; refleja contacto de lenguas en la frontera norte."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "El contacto de lenguas e interferencia portugués-español (portuñol o dialectos portugueses del Uruguay).",
           "is_correct": true,
           "feedback": "¡Correcto! La alternancia y convivencia gramatical entre el portugués y el español es típica de la frontera Rivera-Livramento."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El uso del lunfardo de los barrios de Montevideo.",
           "is_correct": false,
           "feedback": "Incorrecto. El lunfardo es argot urbano rioplatense, no el habla híbrida fronteriza del norte."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La conservación del latín vulgar medieval.",
           "is_correct": false,
           "feedback": "Incorrecto. No se trata de latín medieval sino de contacto lingüístico ibérico contemporáneo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "En la frontera norte de Uruguay (Rivera, Rocha, Artigas, Cerro Largo), el contacto dinámico entre español y portugués genera variaciones sociolingüísticas y bilingüismo de frontera.",
       "difficulty": "6",
       "images": [],
@@ -283,19 +283,19 @@
       "context": "Leé la oración: \"A pesar de que el informe meteorológico preveía ráfagas de viento de $80\\text{ km/h}$, las embarcaciones pesqueras de Punta del Este salieron a la mar\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Subordinada adverbial concesiva.",
           "is_correct": true,
           "feedback": "¡Correcto! Presenta un obstáculo que no impide el cumplimiento de la oración principal."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Subordinada adverbial causal.",
           "is_correct": false,
           "feedback": "Incorrecto. No indica la razón por la que salieron a la mar."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Subordinada sustantiva en función de sujeto.",
           "is_correct": false,
           "feedback": "Incorrecto. Es una subordinada oracional concesiva."
@@ -307,7 +307,7 @@
           "feedback": "Incorrecto. No modifica a ningún sustantivo antecedente."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Las oraciones concesivas introducidas por *a pesar de que*, *aun cuando*, *pese a que* señalan una objeción que no anula la realización de la acción principal.",
       "difficulty": "6",
       "images": [],
@@ -334,13 +334,13 @@
           "feedback": "Incorrecto. La forma \"Vení\" pertenece al voseo rioplatense."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "El imperativo voseante rioplatense (\"Vení\") con función apelativa para convocar al cliente.",
           "is_correct": true,
           "feedback": "¡Correcto! Utiliza la forma aguda del voseo local para lograr cercanía e interpelación persuasiva."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Un uso del pretérito subjuntivo despectivo.",
           "is_correct": false,
           "feedback": "Incorrecto. \"Vení\" no es subjuntivo."
@@ -352,7 +352,7 @@
           "feedback": "Incorrecto. Interpela directamente a la segunda persona (*vos*)."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El imperativo del voseo rioplatense (*vení*, *mirá*, *comprá*) se caracteriza por la acentuación aguda final y se emplea ampliamente en la publicidad nacional para buscar cercanía pragmática.",
       "difficulty": "6",
       "images": [],
@@ -373,13 +373,13 @@
       "context": "Leé el fragmento: \"El intendente rechazó el dictamen de la comisión de tránsito; en su lugar, propuso crear un equipo técnico multidisciplinario\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Introduce una consecuencia inevitable de la votación.",
           "is_correct": false,
           "feedback": "Incorrecto. No es un conector consecutivo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Sustituye o reemplaza la opción previa por una alternativa propuesta.",
           "is_correct": true,
           "feedback": "¡Correcto! Es un conector sustitutivo/sustitutivo-rectificativo que reemplaza la primera acción negada por otra nueva."
@@ -397,7 +397,7 @@
           "feedback": "Incorrecto. Funciona como conector discursivo de reemplazo conceptual, no topográfico."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Los conectores sustitutivos (*en su lugar*, *en vez de ello*) introducen una propuesta o hecho que reemplaza a la entidad o acción descartada previamente.",
       "difficulty": "6",
       "images": [],
@@ -469,13 +469,13 @@
           "feedback": "Incorrecto. Es exactamente al revés."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "En la 1 la cláusula es explicativa (todos los estudiantes leyeron la novela y todos aprobaron); en la 2 es especificativa (solo aprobaron aquellos estudiantes que leyeron la novela).",
           "is_correct": true,
           "feedback": "¡Correcto! La puntuación delimita entre una aclaración que abarca a la totalidad (explicativa) y una restricción del conjunto (especificativa)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La oración 1 es incorrecta según la normativa de la RAE.",
           "is_correct": false,
           "feedback": "Incorrecto. Ambas oraciones son normativamente correctas pero expresan significados distintos."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto. Las comas cambian el valor restrictivo del adjetivo de relativo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Las proposiciones subordinadas adjetivas explicativas (entre comas) añaden una información secundaria que afecta a todo el antecedente. Las especificativas (sin comas) delimitan o restringen la extensión del sustantivo.",
       "difficulty": "8",
       "images": [],
@@ -559,25 +559,25 @@
           "feedback": "Incorrecto. \"No obstante\" introduce una objeción crítica."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "La segunda postura cuestiona la visión idealizada del 'país modelo' exponiendo evidencias históricas de exclusión social.",
           "is_correct": true,
           "feedback": "¡Correcto! Contrapone el relato mítico de homogeneidad frente a los hallazgos críticos de la historiografía contemporánea."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ambas posturas demuestran que en Montevideo nunca existieron problemas sociales.",
           "is_correct": false,
           "feedback": "Incorrecto. El texto habla expresamente de \"índices de exclusión urbana\"."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Se compara la historia de Montevideo con la de otras capitales europeas.",
           "is_correct": false,
           "feedback": "Incorrecto. No hay comparaciones internacionales en el pasaje."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El análisis del discurso argumentativo evalúa cómo los conectores adversativos (*sin embargo*, *no obstante*) sirven para desarticular relatos o mitos consensuados confrontándolos con datos críticos.",
       "difficulty": "8",
       "images": [],
@@ -598,19 +598,19 @@
       "context": "Leé la frase: \"Ojalá los legisladores escuchen los reclamos de la comunidad científica e incrementen las partidas presupuestarias para la investigación\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Modo subjuntivo en modalidad desiderativa (expresión de deseo).",
           "is_correct": true,
           "feedback": "¡Correcto! La partícula \"Ojalá\" exige el modo subjuntivo para formular anhelos o deseos del emisor."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Modo indicativo en modalidad aseverativa fáctica.",
           "is_correct": false,
           "feedback": "Incorrecto. El indicativo expresa hechos reales y seguros (*escuchan*)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Modo imperativo en modalidad de mandato directo.",
           "is_correct": false,
           "feedback": "Incorrecto. \"Escuchen\" no funciona aquí como orden apelativa directa."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. No es una estructura condicional pasada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La partícula \"Ojalá\" (del árabe *law šá lláh*) rige obligatoriamente subjuntivo y configura la modalidad oracional desiderativa.",
       "difficulty": "8",
       "images": [],
@@ -688,19 +688,19 @@
       "context": "Considerá el fragmento literario: \"El arroyo era una serpiente de plata que atravesaba la sombra de los ceibos en flor\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Metáfora pura/impura en forma atributiva (A es B), asociando el brillo y la sinuosidad del cauce con la serpiente.",
           "is_correct": true,
           "feedback": "¡Correcto! Transfiere las propiedades visuales y de forma del reptil plateado al arroyo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Anáfora sintáctica.",
           "is_correct": false,
           "feedback": "Incorrecto. No hay repeticiones al inicio de cláusulas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Hipérbole cuantitativa.",
           "is_correct": false,
           "feedback": "Incorrecto. No es una exageración descomunal de magnitud."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. Es una asociación por semejanza analógica (metáfora)."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La metáfora proyecta las características de un dominio origen (la sinuosidad y brillo de una serpiente plateada) sobre un dominio destino (el curso del arroyo entre la vegetación).",
       "difficulty": "8",
       "images": [],
@@ -733,13 +733,13 @@
       "context": "Leé el fragmento de una crítica pedagógica sobre la didáctica de la lengua: \"Sustituir el análisis sintáctico por la mera lectura recreativa en Secundaria es un error garrafal. Sin el dominio consciente de la estructura gramatical, el estudiante queda desarmado para redactar textos académicos complejos y para detectar la manipulación ideológica en el discurso político\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Sostiene que la lectura recreativa es el único método válido para aprender gramática.",
           "is_correct": false,
           "feedback": "Incorrecto. El autor critica justamente la sustitución del análisis por la sola lectura recreativa."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Defiende que el aprendizaje sistemático de la gramática es indispensable para el desarrollo de la escritura reflexiva y el pensamiento crítico frente a los discursos.",
           "is_correct": true,
           "feedback": "¡Correcto! Vincula el conocimiento gramatical consciente con la autonomía de redacción y la capacidad de resistencia crítica."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. Aboga por fortalecer la enseñanza sintáctica consciente."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La lectura crítica evalúa cómo el autor fundamenta la utilidad social y cognitiva de la gramática: no como fin memorístico en sí, sino como herramienta de emancipación intelectual y competencia comunicativa.",
       "difficulty": "10",
       "images": [],
@@ -784,13 +784,13 @@
           "feedback": "Incorrecto. Su fin en la política no es poético sino de atenuación ideológica."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Funciona como un recurso de manipulación o atenuación discursiva diseñado para suavizar realidades conflictivas y acondicionar la opinión pública.",
           "is_correct": true,
           "feedback": "¡Correcto! El texto devela que la sustitución léxica persigue mitigar el costo político y la reacción ciudadana."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Sirve para garantizar que el idioma español se mantenga puro y sin extranjerismos.",
           "is_correct": false,
           "feedback": "Incorrecto. No aborda la pureza lingüística contra los extranjerismos."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. Al contrario: muestra una selección deliberada y calculada del léxico."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El eufemismo es una estrategia discursiva de atenuación que reemplaza términos de carga negativa o conflictiva por expresiones neutras o amables para enmascarar aspectos impopulares de la realidad.",
       "difficulty": "10",
       "images": [],
@@ -868,31 +868,31 @@
       "context": "Leé el análisis de un poema uruguayo contemporáneo: \"Al romper la métrica tradicional y prescindir de la rima consonante, el poeta no abandona el ritmo; por el contrario, construye una cadencia interna basada en las pausas sintácticas y en la repetición de imágenes sensoriales\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Muestra la transición del formalismo métrico estricto hacia el verso libre, donde el ritmo se genera mediante recursos sintácticos y semánticos internos en lugar de esquemas fijos.",
           "is_correct": true,
           "feedback": "¡Correcto! Explica cómo el verso libre no es caos, sino una búsqueda de ritmo orgánico basado en la sintaxis y las imágenes."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Demuestra que la poesía moderna es de menor calidad por carecer de rima.",
           "is_correct": false,
           "feedback": "Incorrecto. El análisis valora positivamente la construcción de la cadencia interna."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Afirma que los poetas contemporáneos deben regresar obligatoriamente al soneto clásico.",
           "is_correct": false,
           "feedback": "Incorrecto. Defiende la legitimidad del verso libre."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Prueba que el ritmo es un elemento innecesario en la creación poética.",
           "is_correct": false,
           "feedback": "Incorrecto. Sostiene que el poema \"construye una cadencia interna\", redefiniendo el ritmo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El análisis del verso libre en la poesía moderna demuestra que la emancipación de la rima y la métrica fija da paso a un ritmo musical basado en la sintaxis, el encabalgamiento y las figuras de repetición.",
       "difficulty": "10",
       "images": [],

@@ -59,13 +59,13 @@
       "context": "En los llanos de Villavicencio, se observa un hongo sombrilla descomponiendo materia orgánica sobre el suelo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Heterótrofa por absorción (saprófita)",
           "is_correct": true,
           "feedback": "Correcto. Secretan enzimas digestivas al exterior y absorben los nutrientes degradados."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Autótrofa fotosintética",
           "is_correct": false,
           "feedback": "Incorrecto. Los hongos no poseen clorofila ni realizan fotosíntesis."
@@ -83,7 +83,7 @@
           "feedback": "Incorrecto. La ingestión fagocítica es característica de animales y fagótrofos protistas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Los hongos son heterótrofos absorbentes: liberan enzimas exógenas y absorben moléculas orgánicas simples.",
       "difficulty": "4",
       "images": [],
@@ -105,31 +105,31 @@
       "context": "En un laboratorio escolar de Bucaramanga, un estudiante observa al microscopio células con pared de quitina y múltiples núcleos, pero sin cloroplastos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Reino Fungi",
           "is_correct": true,
           "feedback": "Correcto. La pared celular de quitina y la ausencia de cloroplastos caracterizan a los hongos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Reino Plantae",
           "is_correct": false,
           "feedback": "Incorrecto. Las plantas poseen pared de celulosa y cloroplastos con clorofila."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Reino Animalia",
           "is_correct": false,
           "feedback": "Incorrecto. Los animales carecen totalmente de pared celular."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Reino Protista",
           "is_correct": false,
           "feedback": "Incorrecto. La presencia de pared de quitina orienta directamente al reino Fungi."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La composición de la pared celular por quitina sin cloroplastos es diagnóstico exclusivo del reino Fungi.",
       "difficulty": "6",
       "images": [],
@@ -151,13 +151,13 @@
       "context": "En la selva del Amazonas colombiano, un biólogo identifica una especie fotosintética pluricelular con tejidos diferenciados y paredes celulares de celulosa.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La presencia de tejidos especializados (verdaderos) y órganos como raíces o hojas",
           "is_correct": true,
           "feedback": "Correcto. Las plantas verdaderas poseen diferenciación tisular (xilema, floema, estomas)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La presencia de ADN en el núcleo",
           "is_correct": false,
           "feedback": "Incorrecto. Tanto algas como plantas son eucariotas y poseen ADN nuclear."
@@ -175,7 +175,7 @@
           "feedback": "Incorrecto. Las plantas tienen reproducción sexual y alternancia de generaciones."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El Reino Plantae se diferencia de las algas protistas por su organización tisular verdadera (tejidos vascularizados y órganos especializados).",
       "difficulty": "6",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "Un grupo de investigación en Santa Marta analiza una muestra de agua de mar y encuentra amebas unicelulares eucariotas con seudópodos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Reino Protista (Protozoos)",
           "is_correct": true,
           "feedback": "Correcto. Las amebas son protozoarios eucariotas unicelulares pertenecientes al reino Protista."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Reino Monera (Bacterias)",
           "is_correct": false,
           "feedback": "Incorrecto. Poseen núcleo verdadero (eucariotas), descartando el reino Monera."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto. No tienen pared de quitina ni nutrición por absorción saprófita."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Las amebas son eucariotas unicelulares heterótrofas que se desplazan por seudópodos, perteneciendo al reino Protista.",
       "difficulty": "6",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "En Pasto, se analiza la clave dicotómica de clasificación vegetal. Un liquen encontrado en los frailejones del páramo de Cumbal es examinado.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Porque es una asociación simbiótica mutua entre un hongo (Fungi) y un alga o cianobacteria (Protista o Monera).",
           "is_correct": true,
           "feedback": "Correcto. El liquen no es un único organismo biológico, sino una simbiosis dual."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque cambia de reino dependiendo de la estación del año.",
           "is_correct": false,
           "feedback": "Incorrecto. Las categorías taxonómicas no cambian estacionalmente."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecto. Está constituido por millones de células fúngicas y fotosintéticas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Un liquen es un holobionte simbiótico formado por la unión de un micobionte (hongo) y un fotobionte (alga verde o cianobacteria).",
       "difficulty": "8",
       "images": [],
@@ -335,13 +335,13 @@
       "context": "En Cali, se estudia la diferencia fisiológica entre bacterias Gram-positivas y Gram-negativas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Una gruesa capa de peptidoglicano (mureína)",
           "is_correct": true,
           "feedback": "Correcto. La pared celular con capa gruesa de peptidoglicano retiene el tinte cristal violeta."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Una capa de celulosa celular",
           "is_correct": false,
           "feedback": "Incorrecto. La celulosa es propia de las paredes de plantas y algas."
@@ -359,7 +359,7 @@
           "feedback": "Incorrecto. La quitina es característica de la pared de hongos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Las bacterias Gram-positivas poseen una pared celular gruesa compuesta de peptidoglicano que fija la tinción.",
       "difficulty": "8",
       "images": [],
@@ -427,13 +427,13 @@
       "context": "En un debate científico en Armenia sobre la clasificación de los virus, un grupo sostiene que los virus no pertenecen a ninguno de los reinos tradicionales de la naturaleza.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Carecen de estructura celular (son acelulares) y requieren la maquinaria metabólica de una célula hospedadora para replicarse.",
           "is_correct": true,
           "feedback": "Correcto. La teoría celular establece que la célula es la unidad fundamental; los virus carecen de metabolismo propio y organización celular."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "No poseen ningún tipo de material genético como ADN o ARN.",
           "is_correct": false,
           "feedback": "Incorrecto. Los virus poseen genomas de ADN o ARN."
@@ -451,7 +451,7 @@
           "feedback": "Incorrecto. Los virus presentan altas tasas de mutación y evolución adaptativa."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Los virus son entidades acelulares parásitas intracelulares obligadas sin metabolismo propio, por lo que no se incluyen en el árbol celular de la vida (reinos biológicos).",
       "difficulty": "10",
       "images": [],

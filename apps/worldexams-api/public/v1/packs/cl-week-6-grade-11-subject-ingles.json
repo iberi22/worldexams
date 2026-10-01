@@ -19,13 +19,13 @@
           "feedback": "Incorrect. Exploitation means using something for benefit."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "preservation",
           "is_correct": true,
           "feedback": "Correct. Preservation is the act of keeping something as it is."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "destruction",
           "is_correct": false,
           "feedback": "Incorrect. Destruction is the opposite."
@@ -37,7 +37,7 @@
           "feedback": "Incorrect. Consumption means using something up."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "'Preservation' refers to the careful management and protection of resources to ensure they last.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -109,25 +109,25 @@
           "feedback": "Incorrect. Second conditional."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "had acted",
           "is_correct": true,
           "feedback": "Correct. Third conditional for hypothetical past situations."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "act",
           "is_correct": false,
           "feedback": "Incorrect. Present tense."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "would act",
           "is_correct": false,
           "feedback": "Incorrect. 'Would' is not used in the 'if' clause."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "The third conditional (if + past perfect) describes an alternative past that did not happen.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,19 +148,19 @@
       "context": "Text about \"greenwashing\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "greenwashing",
           "is_correct": true,
           "feedback": "Correct. Greenwashing is deceptive environmental marketing."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "recycling",
           "is_correct": false,
           "feedback": "Incorrect. Recycling is a real environmental action."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "reforestation",
           "is_correct": false,
           "feedback": "Incorrect. Reforestation is planting trees."
@@ -172,7 +172,7 @@
           "feedback": "Incorrect. Composting is recycling organic waste."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "'Greenwashing' is the specific term for misleading consumers regarding the environmental practices of a company.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -199,13 +199,13 @@
           "feedback": "Incorrect. Solubility refers to dissolving."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "persistence",
           "is_correct": true,
           "feedback": "Correct. Persistence refers to the ability to remain for a long time."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "variety",
           "is_correct": false,
           "feedback": "Incorrect. Variety refers to diversity."
@@ -217,7 +217,7 @@
           "feedback": "Incorrect. Weight is not the main problem."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "'Persistence' correctly describes the quality of plastic remaining in the environment without breaking down.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -244,13 +244,13 @@
           "feedback": "Incorrect. Fuel usually refers to combustibles."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "electricity",
           "is_correct": true,
           "feedback": "Correct. Solar panels produce electrical energy."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "heat",
           "is_correct": false,
           "feedback": "Incorrect. While related, electricity is the main discussion."
@@ -262,7 +262,7 @@
           "feedback": "Incorrect. Gas is a different source."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "The primary function of photovoltaic solar panels is to generate electricity.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -283,19 +283,19 @@
       "context": "Recommendation for water conservation.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "reduce",
           "is_correct": true,
           "feedback": "Correct. Subjunctive form after 'It is essential that...'."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "reduces",
           "is_correct": false,
           "feedback": "Incorrect. Third person singular."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "to reduce",
           "is_correct": false,
           "feedback": "Incorrect. Infinitive doesn't fit here."
@@ -307,7 +307,7 @@
           "feedback": "Incorrect. Gerund doesn't fit here."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "'Reduce' is the base form used in the subjunctive mood to express necessity.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -334,13 +334,13 @@
           "feedback": "Incorrect. Rejuvenation means making something young again."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "sprawl",
           "is_correct": true,
           "feedback": "Correct. Urban sprawl is the expansion of cities."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "density",
           "is_correct": false,
           "feedback": "Incorrect. Density refers to compact building."
@@ -352,7 +352,7 @@
           "feedback": "Incorrect. Forestry is about managing forests."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "'Urban sprawl' describes the outward growth of cities into rural areas.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -379,25 +379,25 @@
           "feedback": "Incorrect. Needs 'used' for past habits."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "used to",
           "is_correct": true,
           "feedback": "Correct. 'Used to' describes past habits."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "would",
           "is_correct": false,
           "feedback": "Incorrect. 'Used to' is better for states."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "are used to",
           "is_correct": false,
           "feedback": "Incorrect. This means 'accustomed to'."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "'Used to' is the appropriate structure for describing a past habit or state that has changed.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -424,13 +424,13 @@
           "feedback": "Incorrect. While related, convenience is the focus."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "convenience",
           "is_correct": true,
           "feedback": "Correct. Desired for easy, one-time use."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "tradition",
           "is_correct": false,
           "feedback": "Incorrect. Modern phenomenon."
@@ -442,7 +442,7 @@
           "feedback": "Incorrect. General culture is about ease."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "'Convenience' is the primary driver of the consumption of single-use products.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -514,13 +514,13 @@
           "feedback": "Incorrect. Active voice."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "are being cleared",
           "is_correct": true,
           "feedback": "Correct. Present continuous passive for ongoing process."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "cleared",
           "is_correct": false,
           "feedback": "Incorrect. Past simple."
@@ -532,7 +532,7 @@
           "feedback": "Incorrect. Active voice."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "The present continuous passive 'are being cleared' describes the current destruction.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -604,25 +604,25 @@
           "feedback": "Incorrect. First conditional."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "imposed",
           "is_correct": true,
           "feedback": "Correct. Second conditional for hypothetical policy."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "had imposed",
           "is_correct": false,
           "feedback": "Incorrect. Third conditional."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "would impose",
           "is_correct": false,
           "feedback": "Incorrect. 'Would' not used in 'if' clause."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "The second conditional is used to describe a hypothetical scenario and its likely outcome.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -643,13 +643,13 @@
       "context": "Conclusion of a study on marine biology.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "if",
           "is_correct": false,
           "feedback": "Incorrect. Collapse happens if we don't fix it."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "unless",
           "is_correct": true,
           "feedback": "Correct. 'Unless' means 'if not'."
@@ -667,7 +667,7 @@
           "feedback": "Incorrect. 'Provided' means 'if'."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "'Unless' sets the condition that collapse is inevitable if acidification is not addressed.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -694,25 +694,25 @@
           "feedback": "Incorrect. Often not biodegradable."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Biodegradable",
           "is_correct": true,
           "feedback": "Correct. Capable of being decomposed."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Permanent",
           "is_correct": false,
           "feedback": "Incorrect. Lasts forever."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Hazardous",
           "is_correct": false,
           "feedback": "Incorrect. Means dangerous."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "'Biodegradable' is the property of substances that decompose naturally.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -733,13 +733,13 @@
       "context": "Speculating about the arctic.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "might be",
           "is_correct": true,
           "feedback": "Correct. Expresses possibility."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "is",
           "is_correct": false,
           "feedback": "Incorrect. Present simple."
@@ -757,7 +757,7 @@
           "feedback": "Incorrect. Future perfect."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "'Might' is appropriate for expressing a scientific projection with uncertainty.\n\n---",
       "difficulty": "10",
       "images": [],

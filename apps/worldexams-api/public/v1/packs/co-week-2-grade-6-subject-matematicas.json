@@ -13,31 +13,31 @@
       "context": "En un salón de clases en Ibagué hay $12$ niños y $18$ niñas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$2:3$",
           "is_correct": true,
           "feedback": "Correcto. Dividiendo ambos entre 6: $12/18 = 2/3$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$3:2$",
           "is_correct": false,
           "feedback": "Incorrecto. Invertiste la razón (niñas a niños)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$1:2$",
           "is_correct": false,
           "feedback": "Incorrecto. Dividiste de forma desigual."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$2:5$",
           "is_correct": false,
           "feedback": "Incorrecto. Comparaste niños con el total de estudiantes."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La razón es $\\frac{12}{18}$. Al simplificar dividiendo por $6$, se obtiene $\\frac{2}{3}$, o $2:3$.",
       "difficulty": "4",
       "images": [],
@@ -151,13 +151,13 @@
       "context": "Una receta en Popayán indica que por cada $500\\text{ g}$ de harina se requieren $200\\text{ ml}$ de leche.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$500\\text{ ml}$",
           "is_correct": true,
           "feedback": "Correcto. $1.250 / 500 = 2.5$; $2.5 \\times 200 = 500\\text{ ml}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$400\\text{ ml}$",
           "is_correct": false,
           "feedback": "Incorrecto. Consideraste solo $1.000\\text{ g}$ de harina."
@@ -175,7 +175,7 @@
           "feedback": "Incorrecto. Estimación imprecisa de la proporción."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "$\\frac{500}{200} = \\frac{1250}{x} \\implies 500x = 250.000 \\implies x = 500\\text{ ml}$.",
       "difficulty": "6",
       "images": [],
@@ -197,31 +197,31 @@
       "context": "En una fábrica de calzado en Bucaramanga, $3$ máquinas producen $150$ pares de zapatos en un día.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$250$ pares",
           "is_correct": true,
           "feedback": "Correcto. Cada máquina produce $50$ pares. $5 \\times 50 = 250$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$200$ pares",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste solo 50 pares más por 2 máquinas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$300$ pares",
           "is_correct": false,
           "feedback": "Incorrecto. Duplicaste la producción total."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$225$ pares",
           "is_correct": false,
           "feedback": "Incorrecto. Error en la tasa unitaria."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Producción por máquina = $150/3 = 50$ pares. Para $5$ máquinas: $5 \\times 50 = 250$ pares.",
       "difficulty": "6",
       "images": [],
@@ -243,19 +243,19 @@
       "context": "En Cali, se reparte un premio de $900.000$ COP entre dos atletas en razón de $4:5$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$500.000$ COP",
           "is_correct": true,
           "feedback": "Correcto. Total partes = $9$. Parte mayor = $\\frac{5}{9} \\times 900.000 = 500.000$ COP."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$400.000$ COP",
           "is_correct": false,
           "feedback": "Incorrecto. Corresponde a la parte menor."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$450.000$ COP",
           "is_correct": false,
           "feedback": "Incorrecto. Dividiste el premio en partes iguales."
@@ -267,7 +267,7 @@
           "feedback": "Incorrecto. Cálculo incorrecto de las fracciones relativas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Total partes $4 + 5 = 9$. Cada parte equivale a $100.000$ COP. La parte mayor ($5$ partes) es $500.000$ COP.",
       "difficulty": "8",
       "images": [],
@@ -335,13 +335,13 @@
       "context": "En una escala de arquitectura en Cúcuta, $3\\text{ cm}$ en el plano equivalen a $15\\text{ m}$ reales. El área de un salón cuadrado en el plano es de $9\\text{ cm}^2$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$225\\text{ m}^2$",
           "is_correct": true,
           "feedback": "Correcto. $3\\text{ cm} = 15\\text{ m} \\implies 1\\text{ cm} = 5\\text{ m}$. Lado real = $3 \\times 5 = 15\\text{ m}$. Área = $15^2 = 225\\text{ m}^2$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$45\\text{ m}^2$",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicaste el área del plano por la escala lineal."
@@ -359,7 +359,7 @@
           "feedback": "Incorrecto. Error en el cálculo cuadrático del área real."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Escala lineal $1\\text{ cm} : 5\\text{ m}$. El salón tiene lado de $3\\text{ cm}$ en plano, que es $15\\text{ m}$ real. Área real = $15 \\times 15 = 225\\text{ m}^2$.",
       "difficulty": "8",
       "images": [],
@@ -427,31 +427,31 @@
       "context": "En Pasto, $4$ trabajadores construyen un muro en $12$ días. Se contratan $2$ trabajadores adicionales con la misma eficiencia.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$4$ días menos",
           "is_correct": true,
           "feedback": "Correcto. $4 \\times 12 = 48$ trabajador-días. Con $6$ trabajadores: $48/6 = 8$ días. Tardarán $12 - 8 = 4$ días menos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$8$ días menos",
           "is_correct": false,
           "feedback": "Incorrecto. $8$ es el número total de días que tardan, no los días ahorrados."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$6$ días menos",
           "is_correct": false,
           "feedback": "Incorrecto. Asumiste una relación lineal directa."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$2$ días menos",
           "is_correct": false,
           "feedback": "Incorrecto. Restaste directamente la cantidad de trabajadores adicionales."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Proporción inversa: $4 \\times 12 = 6 \\times t \\implies t = 8$ días. Reducción = $12 - 8 = 4$ días menos.",
       "difficulty": "10",
       "images": [],

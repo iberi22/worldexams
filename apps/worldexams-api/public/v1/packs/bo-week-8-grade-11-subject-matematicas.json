@@ -13,31 +13,31 @@
       "context": "En Santa Cruz, Roxana del Colegio Nacional Santa Cruz calcula las inecuaciones de tolerancia de temperatura de estabilidad de los metales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "El sentido de la desigualdad se invierte obligatoriamente.",
           "is_correct": true,
           "feedback": "¡Correcto! Multiplicar o dividir una inecuación por un número negativo invierte el signo de desigualdad (por ejemplo de < a >)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El sentido de la desigualdad se mantiene exactamente igual.",
           "is_correct": false,
           "feedback": "Incorrecto. Esto solo ocurre si multiplicamos o dividimos por un número positivo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La inecuación se transforma de manera obligatoria en una de segundo grado.",
           "is_correct": false,
           "feedback": "Incorrecto. Sigue siendo una inecuación de primer grado si se realiza la operación."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La desigualdad se anula y no tiene solución en el campo real.",
           "is_correct": false,
           "feedback": "Incorrecto. Sigue siendo perfectamente válida e invertible."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Por las propiedades fundamentales del orden en la recta real, multiplicar o dividir ambos miembros por una constante negativa requiere invertir el sentido de la desigualdad.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -103,31 +103,31 @@
       "context": "En El Alto, Marisol del Colegio Nacional El Alto calcula las inecuaciones de tolerancia de temperatura de estabilidad de los metales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "[-3, 3]",
           "is_correct": true,
           "feedback": "¡Correcto! Por propiedad del valor absoluto, |x| <= a equivale a -a <= x <= a. Así, el intervalo es [-3, 3]."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "(-3, 3)",
           "is_correct": false,
           "feedback": "Incorrecto. La inecuación incluye la igualdad (<=), por lo que el intervalo debe ser cerrado (con corchetes) y no abierto."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "(-infinito, -3] U [3, +infinito)",
           "is_correct": false,
           "feedback": "Incorrecto. Este conjunto es el resultado de resolver la desigualdad |x| >= 3."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "[0, 3]",
           "is_correct": false,
           "feedback": "Incorrecto. El valor absoluto también incluye a los números reales negativos comprendidos en el límite."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La inecuación |x| <= 3 se traduce geométricamente como la distancia al origen menor o igual que 3, lo cual equivale a -3 <= x <= 3, representado por el intervalo cerrado [-3, 3].\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,13 +148,13 @@
       "context": "En Sucre, Walter del Colegio Nacional Junín calcula las inecuaciones de tolerancia de temperatura de estabilidad de los metales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "x > 3",
           "is_correct": true,
           "feedback": "¡Correcto! Al dividir por el término negativo se invierte el sentido de la desigualdad."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "x < 3",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste invertir la desigualdad al dividir entre el término negativo de la variable."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. Toda inecuación lineal posee solución real en un intervalo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Despejando: -4x < -12. Al dividir por el coeficiente negativo -4, invertimos obligatoriamente el sentido, resultando en x > 3.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -238,19 +238,19 @@
       "context": "En Oruro, Ramiro del Colegio Nacional Potosí calcula las inecuaciones de tolerancia de temperatura de estabilidad de los metales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "x > 3",
           "is_correct": true,
           "feedback": "¡Correcto! Al dividir por el término negativo se invierte el sentido de la desigualdad."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "x < 3",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste invertir la desigualdad al dividir entre el término negativo de la variable."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "x > 6",
           "is_correct": false,
           "feedback": "Incorrecto. Error al realizar la división aritmética de las constantes."
@@ -262,7 +262,7 @@
           "feedback": "Incorrecto. Toda inecuación lineal posee solución real en un intervalo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Despejando: -6x < -18. Al dividir por el coeficiente negativo -6, invertimos obligatoriamente el sentido, resultando en x > 3.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -283,13 +283,13 @@
       "context": "En Potosí, Yolanda del Colegio Nacional San Luis calcula las inecuaciones de tolerancia de temperatura de estabilidad de los metales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "x > 3",
           "is_correct": true,
           "feedback": "¡Correcto! Al dividir por el término negativo se invierte el sentido de la desigualdad."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "x < 3",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste invertir la desigualdad al dividir entre el término negativo de la variable."
@@ -307,7 +307,7 @@
           "feedback": "Incorrecto. Toda inecuación lineal posee solución real en un intervalo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Despejando: -7x < -21. Al dividir por el coeficiente negativo -7, invertimos obligatoriamente el sentido, resultando en x > 3.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -328,13 +328,13 @@
       "context": "En Cobija, Jaime del Colegio Nacional Trinidad calcula las inecuaciones de tolerancia de temperatura de estabilidad de los metales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "x > 3",
           "is_correct": true,
           "feedback": "¡Correcto! Al dividir por el término negativo se invierte el sentido de la desigualdad."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "x < 3",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste invertir la desigualdad al dividir entre el término negativo de la variable."
@@ -352,7 +352,7 @@
           "feedback": "Incorrecto. Toda inecuación lineal posee solución real en un intervalo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Despejando: -8x < -24. Al dividir por el coeficiente negativo -8, invertimos obligatoriamente el sentido, resultando en x > 3.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -373,31 +373,31 @@
       "context": "En Trinidad, Marcela del Colegio Nacional Cobija calcula las inecuaciones de tolerancia de temperatura de estabilidad de los metales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "x > 3",
           "is_correct": true,
           "feedback": "¡Correcto! Al dividir por el término negativo se invierte el sentido de la desigualdad."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "x < 3",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste invertir la desigualdad al dividir entre el término negativo de la variable."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "x > 9",
           "is_correct": false,
           "feedback": "Incorrecto. Error al realizar la división aritmética de las constantes."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "No tiene solución real",
           "is_correct": false,
           "feedback": "Incorrecto. Toda inecuación lineal posee solución real en un intervalo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Despejando: -9x < -27. Al dividir por el coeficiente negativo -9, invertimos obligatoriamente el sentido, resultando en x > 3.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -418,13 +418,13 @@
       "context": "En La Paz, Grover del Colegio Nacional Ayacucho calcula las inecuaciones de tolerancia de temperatura de estabilidad de los metales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "x > 3",
           "is_correct": true,
           "feedback": "¡Correcto! Al dividir por el término negativo se invierte el sentido de la desigualdad."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "x < 3",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste invertir la desigualdad al dividir entre el término negativo de la variable."
@@ -442,7 +442,7 @@
           "feedback": "Incorrecto. Toda inecuación lineal posee solución real en un intervalo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Despejando: -10x < -30. Al dividir por el coeficiente negativo -10, invertimos obligatoriamente el sentido, resultando en x > 3.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -463,31 +463,31 @@
       "context": "En Santa Cruz, Roxana del Colegio Nacional Santa Cruz calcula las inecuaciones de tolerancia de temperatura de estabilidad de los metales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "x > 3",
           "is_correct": true,
           "feedback": "¡Correcto! Al dividir por el término negativo se invierte el sentido de la desigualdad."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "x < 3",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste invertir la desigualdad al dividir entre el término negativo de la variable."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "x > 11",
           "is_correct": false,
           "feedback": "Incorrecto. Error al realizar la división aritmética de las constantes."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "No tiene solución real",
           "is_correct": false,
           "feedback": "Incorrecto. Toda inecuación lineal posee solución real en un intervalo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Despejando: -11x < -33. Al dividir por el coeficiente negativo -11, invertimos obligatoriamente el sentido, resultando en x > 3.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -508,19 +508,19 @@
       "context": "En Cochabamba, Jhonny del Colegio Nacional Sucre calcula las inecuaciones de tolerancia de temperatura de estabilidad de los metales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "x > 3",
           "is_correct": true,
           "feedback": "¡Correcto! Al dividir por el término negativo se invierte el sentido de la desigualdad."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "x < 3",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste invertir la desigualdad al dividir entre el término negativo de la variable."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "x > 12",
           "is_correct": false,
           "feedback": "Incorrecto. Error al realizar la división aritmética de las constantes."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. Toda inecuación lineal posee solución real en un intervalo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Despejando: -12x < -36. Al dividir por el coeficiente negativo -12, invertimos obligatoriamente el sentido, resultando en x > 3.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -553,31 +553,31 @@
       "context": "En El Alto, Marisol del Colegio Nacional El Alto calcula las inecuaciones de tolerancia de temperatura de estabilidad de los metales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "x > 3",
           "is_correct": true,
           "feedback": "¡Correcto! Al dividir por el término negativo se invierte el sentido de la desigualdad."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "x < 3",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste invertir la desigualdad al dividir entre el término negativo de la variable."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "x > 13",
           "is_correct": false,
           "feedback": "Incorrecto. Error al realizar la división aritmética de las constantes."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "No tiene solución real",
           "is_correct": false,
           "feedback": "Incorrecto. Toda inecuación lineal posee solución real en un intervalo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Despejando: -13x < -39. Al dividir por el coeficiente negativo -13, invertimos obligatoriamente el sentido, resultando en x > 3.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -643,19 +643,19 @@
       "context": "En Tarija, Sonia del Colegio Nacional Bolivar calcula las inecuaciones de tolerancia de temperatura de estabilidad de los metales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "x > 3",
           "is_correct": true,
           "feedback": "¡Correcto! Al dividir por el término negativo se invierte el sentido de la desigualdad."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "x < 3",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste invertir la desigualdad al dividir entre el término negativo de la variable."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "x > 15",
           "is_correct": false,
           "feedback": "Incorrecto. Error al realizar la división aritmética de las constantes."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. Toda inecuación lineal posee solución real en un intervalo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Despejando: -15x < -45. Al dividir por el coeficiente negativo -15, invertimos obligatoriamente el sentido, resultando en x > 3.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -733,13 +733,13 @@
       "context": "En Potosí, Yolanda del Colegio Nacional San Luis calcula las inecuaciones de tolerancia de temperatura de estabilidad de los metales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "x > 3",
           "is_correct": true,
           "feedback": "¡Correcto! Al dividir por el término negativo se invierte el sentido de la desigualdad."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "x < 3",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste invertir la desigualdad al dividir entre el término negativo de la variable."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. Toda inecuación lineal posee solución real en un intervalo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Despejando: -17x < -51. Al dividir por el coeficiente negativo -17, invertimos obligatoriamente el sentido, resultando en x > 3.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -778,31 +778,31 @@
       "context": "En Cobija, Jaime del Colegio Nacional Trinidad calcula las inecuaciones de tolerancia de temperatura de estabilidad de los metales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "x > 3",
           "is_correct": true,
           "feedback": "¡Correcto! Al dividir por el término negativo se invierte el sentido de la desigualdad."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "x < 3",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste invertir la desigualdad al dividir entre el término negativo de la variable."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "x > 18",
           "is_correct": false,
           "feedback": "Incorrecto. Error al realizar la división aritmética de las constantes."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "No tiene solución real",
           "is_correct": false,
           "feedback": "Incorrecto. Toda inecuación lineal posee solución real en un intervalo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Despejando: -18x < -54. Al dividir por el coeficiente negativo -18, invertimos obligatoriamente el sentido, resultando en x > 3.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -823,13 +823,13 @@
       "context": "En Trinidad, Marcela del Colegio Nacional Cobija calcula las inecuaciones de tolerancia de temperatura de estabilidad de los metales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "x > 3",
           "is_correct": true,
           "feedback": "¡Correcto! Al dividir por el término negativo se invierte el sentido de la desigualdad."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "x < 3",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste invertir la desigualdad al dividir entre el término negativo de la variable."
@@ -847,7 +847,7 @@
           "feedback": "Incorrecto. Toda inecuación lineal posee solución real en un intervalo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Despejando: -19x < -57. Al dividir por el coeficiente negativo -19, invertimos obligatoriamente el sentido, resultando en x > 3.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -868,31 +868,31 @@
       "context": "En La Paz, Grover del Colegio Nacional Ayacucho calcula las inecuaciones de tolerancia de temperatura de estabilidad de los metales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "x > 3",
           "is_correct": true,
           "feedback": "¡Correcto! Al dividir por el término negativo se invierte el sentido de la desigualdad."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "x < 3",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste invertir la desigualdad al dividir entre el término negativo de la variable."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "x > 20",
           "is_correct": false,
           "feedback": "Incorrecto. Error al realizar la división aritmética de las constantes."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "No tiene solución real",
           "is_correct": false,
           "feedback": "Incorrecto. Toda inecuación lineal posee solución real en un intervalo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Despejando: -20x < -60. Al dividir por el coeficiente negativo -20, invertimos obligatoriamente el sentido, resultando en x > 3.\n\n---",
       "difficulty": "10",
       "images": [],

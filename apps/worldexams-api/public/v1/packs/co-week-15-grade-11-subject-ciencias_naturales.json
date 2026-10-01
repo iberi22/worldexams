@@ -13,31 +13,31 @@
       "context": "En una clase de química orgánica en Bogotá, se estudia la clasificación estructural de los carbohidratos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Glucosa.",
           "is_correct": true,
           "feedback": "Correcto. La glucosa es una aldohexosa ($C_6H_{12}O_6$) indispensable en el metabolismo energético."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Sacarosa.",
           "is_correct": false,
           "feedback": "Incorrecto. La sacarosa es un disacárido formado por glucosa y fructosa."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Almidón.",
           "is_correct": false,
           "feedback": "Incorrecto. El almidón es un polisacárido de reserva vegetal."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Glucógeno.",
           "is_correct": false,
           "feedback": "Incorrecto. El glucógeno es un polisacárido de reserva animal ramificado."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La glucosa es el monosacárido hexosa fundamental utilizado por las células para obtener ATP.",
       "difficulty": "4",
       "images": [],
@@ -105,19 +105,19 @@
       "context": "En un laboratorio agrícola en Cali, se analiza la pared celular de muestras vegetales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Celulosa.",
           "is_correct": true,
           "feedback": "Correcto. La celulosa es un polímero lineal de glucosas unidas por enlaces $\\beta(1\\rightarrow 4)$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Quitina.",
           "is_correct": false,
           "feedback": "Incorrecto. La quitina forma el exoesqueleto de artrópodos y pared celular de hongos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Maltosa.",
           "is_correct": false,
           "feedback": "Incorrecto. La maltosa es un disacárido de glucosa."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecto. La insulina es una hormona proteica reguladora de glucemia."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La celulosa es el biopolímero estructural más abundante en la naturaleza, constituyente de la pared vegetal.",
       "difficulty": "4",
       "images": [],
@@ -151,19 +151,19 @@
       "context": "En Barranquilla se estudia la digestibilidad de los azúcares presentes en la leche de vaca.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Lactosa.",
           "is_correct": true,
           "feedback": "Correcto. La lactosa es el azúcar característico de la leche."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Fructosa.",
           "is_correct": false,
           "feedback": "Incorrecto. La fructosa es un monosacárido presente en frutas y miel."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Celobiosa.",
           "is_correct": false,
           "feedback": "Incorrecto. Proviene de la hidrólisis parcial de la celulosa."
@@ -175,7 +175,7 @@
           "feedback": "Incorrecto. La ribosa es una pentosa del ARN."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La lactosa es el disacárido compuesto por galactosa y glucosa unidas por enlace $\\beta(1\\rightarrow 4)$.",
       "difficulty": "4",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "Un estudiante de Bucaramanga mezcla una solución de glucosa con reactivo de Fehling (cobre alcalino) y calienta la mezcla.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La glucosa es un azúcar reductor con grupo carbonilo libre que reduce el $Cu^{2+}$ a $Cu^+$.",
           "is_correct": true,
           "feedback": "Correcto. El grupo aldehído hemiacetálico libre de la glucosa se oxida a ácido carboxílico reduciendo el cobre."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La sacarosa precipita por evaporación del solvente acuoso.",
           "is_correct": false,
           "feedback": "Incorrecto. La reacción ocurre por reducción iónica, no por evaporación."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto. Los azúcares no contienen enlaces peptídicos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Los monosacáridos reductores poseen carbonilos libres que reducen los cationes $Cu^{2+}$ a $Cu_2O$ (rojo ladrillo).",
       "difficulty": "6",
       "images": [],
@@ -243,31 +243,31 @@
       "context": "En Manizales se compara la velocidad de digestión digestiva del almidón de yuca frente a la celulosa de pasto en humanos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Porque carecemos de la enzima celulasa capaz de hidrolizar los enlaces $\\beta(1\\rightarrow 4)$.",
           "is_correct": true,
           "feedback": "Correcto. El sistema digestivo humano sólo sintetiza enzimas para enlaces $\\alpha$-glucosídicos del almidón."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque la celulosa está compuesta por aminoácidos hidrofóbicos tóxicos.",
           "is_correct": false,
           "feedback": "Incorrecto. La celulosa es un polisacárido puro de glucosa."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque el estómago destruye las glucosas por exceso de sodio.",
           "is_correct": false,
           "feedback": "Incorrecto. El sodio no destruye los anillos de glucosa."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Porque los puentes disulfuro de la celulosa son indestructibles.",
           "is_correct": false,
           "feedback": "Incorrecto. La celulosa no contiene azufre ni puentes disulfuro."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La especificidad enzimática impide a las amilasas humanas romper el enlace $\\beta(1\\rightarrow 4)$ glucosídico.",
       "difficulty": "6",
       "images": [],
@@ -289,31 +289,31 @@
       "context": "En Tunja, se añade solución de yodo (Lugol) a tres tubos que contienen: 1. Almidón, 2. Glucosa, 3. Agua destilada.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Coloración azul-violeta intensa únicamente en el tubo 1 con almidón.",
           "is_correct": true,
           "feedback": "Correcto. Las moléculas de yodo ($I_3^-$) se alojan en el interior de las hélices de amilosa del almidón dando color azul."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Coloración roja en los tres tubos por igual.",
           "is_correct": false,
           "feedback": "Incorrecto. La prueba de Lugol es específica para almidón."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Precipitado blanco en el tubo 2 con glucosa.",
           "is_correct": false,
           "feedback": "Incorrecto. La glucosa libre no atrapa al yodo en hélices."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Efervescencia de gas dióxido de carbono en el tubo 3.",
           "is_correct": false,
           "feedback": "Incorrecto. El agua con Lugol no produce efervescencia."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Lugol forma un complejo de inclusión azul oscuro al alojarse en el eje central de las hélices de amilosa del almidón.",
       "difficulty": "6",
       "images": [],
@@ -427,19 +427,19 @@
       "context": "En Cartagena se analiza la mutarrotación de la D-glucosa al disolver cristales puros de la anómero alfa en agua.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "El cambio gradual en la rotación óptica hasta alcanzar un equilibrio entre los anómeros $\\alpha$ y $\\beta$ a través de la forma abierta.",
           "is_correct": true,
           "feedback": "Correcto. En solución acuosa las formas cíclicas hemiacetálicas se abren y cierran interconvirtiéndose."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La evaporación del agua con emisión de fotones de luz visible.",
           "is_correct": false,
           "feedback": "Incorrecto. No hay emisión fotónica en la mutarrotación."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La inversión completa de la configuración D a enantiómero L.",
           "is_correct": false,
           "feedback": "Incorrecto. Los enantiómeros D y L no se interconvierten por mutarrotación."
@@ -451,7 +451,7 @@
           "feedback": "Incorrecto. La mutarrotación no altera la fórmula molecular."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La mutarrotación refleja el equilibrio entre anómeros $\\alpha$ y $\\beta$ de la glucosa en fase acuosa.",
       "difficulty": "6",
       "images": [],
@@ -473,19 +473,19 @@
       "context": "Se compara la estructura altamente ramificada del glucógeno (ramificación $\\alpha(1\\rightarrow 6)$ cada 8-12 residuos) con la amilosa del almidón (lineal).",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Multiplica los extremos no reductores donde la glucógeno fosforilasa libera glucosa-1-fosfato rápidamente durante la contracción.",
           "is_correct": true,
           "feedback": "Correcto. Múltiples extremos permiten la degradación enzimática simultánea en situaciones de alta demanda de ATP."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Hace que el glucógeno sea 100% insoluble e inerte al agua.",
           "is_correct": false,
           "feedback": "Incorrecto. Las ramificaciones aumentan la interacción con agua comparado con agregados lineales."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Evita que el páncreas reconozca los niveles de glucosa en sangre.",
           "is_correct": false,
           "feedback": "Incorrecto. La regulación hormonal pancreática actúa independientemente de la ramificación."
@@ -497,7 +497,7 @@
           "feedback": "Incorrecto. La glucogenólisis libera glucosas foforiladas para la glucólisis."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Las ramificaciones proveen numerosos extremos no reductores atacables simultáneamente por enzimas degradativas.",
       "difficulty": "8",
       "images": [],
@@ -519,19 +519,19 @@
       "context": "Investigadores en Bogotá estudian pacientes con intolerancia hereditaria a la fructosa por deficiencia de aldolasa B hepática.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Fructosa-1-fosfato.",
           "is_correct": true,
           "feedback": "Correcto. La fructoquinasa fosforila la fructosa a fructosa-1-fosfato; al fallar la aldolasa B esta se acumula depletando el ATP y $P_i$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Glucosa-6-fosfato.",
           "is_correct": false,
           "feedback": "Incorrecto. La glucosa-6-fosfato es intermediario de la glucólisis normal de glucosa."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Piruvato.",
           "is_correct": false,
           "feedback": "Incorrecto. El piruvato es el producto final de la vía glucolítica."
@@ -543,7 +543,7 @@
           "feedback": "Incorrecto. El lactato resulta de la fermentación anaeróbica."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La deficiencia de aldolasa B provoca acumulación de fructosa-1-fosfato, bloqueando el ATP hepático.",
       "difficulty": "8",
       "images": [],
@@ -611,13 +611,13 @@
       "context": "En Medellín se sintetiza un oligosacárido sulfatado sintético para inhibir la entrada de virus encobijados a células humanas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Bloquean electrostáticamente las proteínas de la envoltura viral impidiendo su unión a los heparán sulfatos de la membrana celular.",
           "is_correct": true,
           "feedback": "Correcto. Las cargas negativas de los sulfatos compiten por los sitios de acoplamiento de la espícula viral."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Degradan las mitocondrias de la célula hospedera.",
           "is_correct": false,
           "feedback": "Incorrecto. No destruyen la maquinaria energética de la célula."
@@ -635,7 +635,7 @@
           "feedback": "Incorrecto. Los oligosacáridos no acidifican el plasma."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Los polímeros sulfatados mimetizan receptores membranales bloqueando el acoplamiento del virus.",
       "difficulty": "8",
       "images": [],
@@ -657,19 +657,19 @@
       "context": "Se somete una muestra de almidón a hidrólisis ácida controlada midiendo la variación de su poder reductor a diferentes tiempos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "El equivalente de dextrosa aumenta al incrementarse el número de grupos anoméricos libres.",
           "is_correct": true,
           "feedback": "Correcto. Romper enlaces glucosídicos genera fragmentos más cortos, cada uno con un extremo reductor libre nuevo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El poder reductor disminuye a cero al romperse los polímeros.",
           "is_correct": false,
           "feedback": "Incorrecto. La hidrólisis incrementa los extremos reductores expuestos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La solución se convierte en proteína sin alterar su masa.",
           "is_correct": false,
           "feedback": "Incorrecto. Los carbohidratos no mutan a proteínas."
@@ -681,7 +681,7 @@
           "feedback": "Incorrecto. Cada corte químico genera un nuevo extremo reductor."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La hidrólisis rompe los enlaces glucosídicos liberando carbonilos anoméricos y aumentando el DE.",
       "difficulty": "8",
       "images": [],
@@ -703,31 +703,31 @@
       "context": "En Pasto se aísla un mutante bacteriano que produce glucano inulina (polímero de fructosa $\\beta(2\\rightarrow 1)$).",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Porque se filtra libremente en el glomérulo sin ser reabsorbida ni secretada en los túbulos renales.",
           "is_correct": true,
           "feedback": "Correcto. La inulina es el marcador de referencia estándar para evaluar la tasa de filtración glomerular (TFG)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque se metaboliza rápidamente en el túbulo proximal generando glucosa.",
           "is_correct": false,
           "feedback": "Incorrecto. Si se reabsorbiera o metabolizara no serviría para medir filtración neta."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque se une irreversiblemente a la albúmina del plasma.",
           "is_correct": false,
           "feedback": "Incorrecto. Debe estar libre en plasma para filtrarse por los fenestras glomerulares."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Porque tiñe la orina de verde fluorescente espontáneamente.",
           "is_correct": false,
           "feedback": "Incorrecto. La inulina es incolora y requiere cuantificación química."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La inulina se filtra totalmente en el glomérulo renal y no sufre transporte tubular, siendo ideal para medir la TFG.",
       "difficulty": "8",
       "images": [],
@@ -749,31 +749,31 @@
       "context": "Un grupo biomédico en Bogotá analiza el papel de los grupos sanguíneos ABO, los cuales dependen de cadenas de oligosacáridos específicas en la membrana de los glóbulos rojos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "La adición de una N-acetilgalactosamina al antígeno H básico.",
           "is_correct": true,
           "feedback": "Correcto. La enzima transferasa A añade N-acetilgalactosamina terminal al antígeno H del grupo O."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La adición de tres moléculas de celulosa cristalina.",
           "is_correct": false,
           "feedback": "Incorrecto. Los antígenos de grupo sanguíneo no contienen celulosa."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La eliminación de todas las glucosas de la membrana.",
           "is_correct": false,
           "feedback": "Incorrecto. Los antígenos ABO se basan en ramificaciones específicas de oligosacáridos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La sustitución de monosacáridos por cadenas polipeptídicas de hemoglobina.",
           "is_correct": false,
           "feedback": "Incorrecto. La especificidad del grupo ABO es de naturaleza glucosídica."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El antígeno A se forma al añadir N-acetilgalactosamina al residuo H; el grupo B añade D-galactosa.",
       "difficulty": "10",
       "images": [],
@@ -795,13 +795,13 @@
       "context": "Se evalúa el uso de edulcorantes artificiales como la sucralosa (sacarosa clorada) en pacientes diabéticos en Medellín.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Impide el reconocimiento estérico por las enzimas glucosidasas digestivas, pasando sin absorberse ni metabolizarse.",
           "is_correct": true,
           "feedback": "Correcto. Las modificacione estéricas por cloro hacen que las amilasas y disacaridasas no puedan hidrolizar la molécula."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Destruye las células pancreáticas bloqueando la digestión de grasas.",
           "is_correct": false,
           "feedback": "Incorrecto. La sucralosa es segura e inerte digestivamente."
@@ -819,7 +819,7 @@
           "feedback": "Incorrecto. La sucralosa es químicamente estable en el tubo digestivo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La sustitución por cloro bloquea el encaje enzimático, impidiendo la hidrólisis y absorción de energía de la sucralosa.",
       "difficulty": "10",
       "images": [],
@@ -887,13 +887,13 @@
       "context": "Un laboratorio de biopolímeros en Barranquilla desarrolla un hidrogel de quitosano (deacetilación de la quitina del caparazón de camarón) para curación de quemaduras graves.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Sus grupos amina protonados ($-NH_3^+$) interactúan electrostáticamente con las membranas bacterianas cargadas negativamente, lisándolas.",
           "is_correct": true,
           "feedback": "Correcto. La naturaleza policatiónica del quitosano altera el potencial de membrana de las bacterias deteniendo infecciones."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Es un polisacárido que evapora instantáneamente el agua de las heridas.",
           "is_correct": false,
           "feedback": "Incorrecto. Los hidrogeles mantienen ambiente húmedo óptimo para cicatrización."
@@ -911,7 +911,7 @@
           "feedback": "Incorrecto. Es una matriz polimérica biodegradable de soporte."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La densidad de carga positiva de los grupos amino del quitosano rompe la pared y membrana bacteriana catiónicamente.",
       "difficulty": "10",
       "images": [],

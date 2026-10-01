@@ -58,13 +58,13 @@
       "context": "En un colmado de Santiago, el dueño anota las deudas como números negativos y las ganancias como positivos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Números Fraccionarios",
           "is_correct": false,
           "feedback": "Incorrecto. Son divisiones."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Números Enteros",
           "is_correct": true,
           "feedback": "Correcto. Incluyen positivos, negativos y cero."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. Es un subconjunto de los naturales."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El conjunto de los números enteros ($\\mathbb{Z}$) incluye naturales, negativos y el cero.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,13 +148,13 @@
       "context": "Un ingeniero calcula el área de una plaza circular en Puerto Plata usando $\\pi$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Números Enteros",
           "is_correct": false,
           "feedback": "Incorrecto. No es un valor exacto sin decimales."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Números Irracionales",
           "is_correct": true,
           "feedback": "Correcto. Tiene decimales infinitos no periódicos."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. No se puede escribir como fracción de enteros."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Los números irracionales tienen representación decimal infinita no periódica.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -205,19 +205,19 @@
           "feedback": "Incorrecto. Son parte de los racionales."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Números Reales",
           "is_correct": true,
           "feedback": "Correcto. Los reales agrupan a ambos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Números Naturales",
           "is_correct": false,
           "feedback": "Incorrecto. Solo son una parte."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Los números reales ($\\mathbb{R}$) son la unión de racionales e irracionales.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -283,19 +283,19 @@
       "context": "Un estudiante simplifica la expresión $(-8 + 5) \\times 2$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Números Enteros",
           "is_correct": true,
           "feedback": "Correcto. El resultado es -6."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Números Naturales",
           "is_correct": false,
           "feedback": "Incorrecto. Es negativo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Números Irracionales",
           "is_correct": false,
           "feedback": "Incorrecto. Es exacto."
@@ -307,7 +307,7 @@
           "feedback": "Incorrecto. Es real."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "$-3 \\times 2 = -6$, el cual es un número entero.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -334,13 +334,13 @@
           "feedback": "Incorrecto. No incluyen la unidad i."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Números Complejos",
           "is_correct": true,
           "feedback": "Correcto. Tienen parte real e imaginaria."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Números Irracionales",
           "is_correct": false,
           "feedback": "Incorrecto. Son decimales."
@@ -352,7 +352,7 @@
           "feedback": "Incorrecto. Son naturales."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Los complejos ($\\mathbb{C}$) incluyen reales e imaginarios.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -373,19 +373,19 @@
       "context": "Reto sobre la densidad en San Pedro de Macorís.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "No hay racionales entre 1 y 2.",
           "is_correct": false,
           "feedback": "Incorrecto. Hay infinitos."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Todo racional es natural.",
           "is_correct": false,
           "feedback": "Incorrecto. 1/2 no es natural."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Entre dos racionales siempre hay otro.",
           "is_correct": true,
           "feedback": "Correcto. Es la densidad racional."
@@ -397,7 +397,7 @@
           "feedback": "Incorrecto. Son disjuntos."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "La densidad racional permite hallar siempre un número entre otros dos.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -424,25 +424,25 @@
           "feedback": "Incorrecto. Son cerrados."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Números Enteros",
           "is_correct": true,
           "feedback": "Correcto. 5/2 no es entero."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Números Reales",
           "is_correct": false,
           "feedback": "Incorrecto. Son cerrados."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Números Complejos",
           "is_correct": false,
           "feedback": "Incorrecto. Son cerrados."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Los enteros no son cerrados bajo la división.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -469,25 +469,25 @@
           "feedback": "Incorrecto. Orden invertido."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$N \\subset Z \\subset Q \\subset R$",
           "is_correct": true,
           "feedback": "Correcto. Los naturales están dentro de todos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$Q \\subset N \\subset Z \\subset R$",
           "is_correct": false,
           "feedback": "Incorrecto. Racionales es el más grande de los tres primeros."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$N \\subset R \\subset Q \\subset Z$",
           "is_correct": false,
           "feedback": "Incorrecto. Reales es el conjunto mayor."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Cada conjunto numérico expande las capacidades del anterior.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -553,19 +553,19 @@
       "context": "Análisis de $\\sqrt{-4}$ en San Juan de la Maguana.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "-2",
           "is_correct": false,
           "feedback": "Incorrecto. (-2)^2 es 4."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "2",
           "is_correct": false,
           "feedback": "Incorrecto. 2^2 es 4."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "$2i$",
           "is_correct": true,
           "feedback": "Correcto. Raíz de negativo usa unidad i."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. Existe en complejos."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "La raíz de un negativo requiere números imaginarios.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -604,25 +604,25 @@
           "feedback": "Verdadero. n = n/1."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Algunos irracionales son racionales.",
           "is_correct": true,
           "feedback": "Falso. Son conjuntos disjuntos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Cero es real.",
           "is_correct": false,
           "feedback": "Verdadero. Está en la recta."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$\\sqrt{2}$ es real.",
           "is_correct": false,
           "feedback": "Verdadero. Está en la recta."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Racionales e irracionales no tienen elementos comunes.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -649,13 +649,13 @@
           "feedback": "Incorrecto. Hay uno menor."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Números Naturales",
           "is_correct": true,
           "feedback": "Correcto. Resultado es 2."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Números Racionales",
           "is_correct": false,
           "feedback": "Incorrecto. Hay uno menor."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. El pi se cancela."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El resultado 2 es un número natural.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -694,13 +694,13 @@
           "feedback": "Incorrecto. Es irracional."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Trascendente",
           "is_correct": true,
           "feedback": "Correcto. Como pi o e."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Entero",
           "is_correct": false,
           "feedback": "Incorrecto. Son algebraicos."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. Son reales."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Números como $\\pi$ son trascendentes.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -739,25 +739,25 @@
           "feedback": "Incorrecto. Ver contraejemplo."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Falsa, $\\sqrt{2} + (-\\sqrt{2}) = 0$.",
           "is_correct": true,
           "feedback": "Correcto. El cero es racional."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Verdadera por infinitud.",
           "is_correct": false,
           "feedback": "Incorrecto. No es argumento válido."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Falsa por ser siempre entera.",
           "is_correct": false,
           "feedback": "Incorrecto. No siempre es entera."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La suma de opuestos irracionales da cero.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -784,25 +784,25 @@
           "feedback": "Incorrecto. Empieza en 1."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Enteros",
           "is_correct": true,
           "feedback": "Correcto. Infinitos hacia negativos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Primos",
           "is_correct": false,
           "feedback": "Incorrecto. Empieza en 2."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Enteros pos.",
           "is_correct": false,
           "feedback": "Incorrecto. Empieza en 1."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Los enteros no tienen un límite inferior.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -823,13 +823,13 @@
       "context": "Desafío de olimpiada en Santo Domingo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Racional",
           "is_correct": false,
           "feedback": "Incorrecto. No es periódico."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Irracional",
           "is_correct": true,
           "feedback": "Correcto. Patrón no repetitivo."
@@ -847,7 +847,7 @@
           "feedback": "Incorrecto. Es decimal."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Es irracional porque su patrón cambia siempre.\n\n---",
       "difficulty": "10",
       "images": [],

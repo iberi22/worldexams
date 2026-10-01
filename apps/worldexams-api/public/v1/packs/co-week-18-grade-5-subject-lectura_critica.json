@@ -13,31 +13,31 @@
       "context": "En clase de Lectura Crítica en Medellín, la profesora explica qué es una crónica deportiva antes de leer una sobre el clásico entre Atlético Nacional y Millonarios.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Un relato que narra un hecho deportivo real combinando información con descripciones y opiniones del autor.",
           "is_correct": true,
           "feedback": "La crónica mezcla hechos verificables con la mirada personal del cronista."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Una lista de instrucciones para fabricar balones de fútbol.",
           "is_correct": false,
           "feedback": "Las instrucciones son un texto instructivo, no una crónica."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Un anuncio publicitario que vende camisetas de fútbol.",
           "is_correct": false,
           "feedback": "La publicidad busca vender, no narrar un hecho deportivo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Un diccionario con el significado de palabras del fútbol.",
           "is_correct": false,
           "feedback": "El diccionario define palabras, no relata un partido."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Reconocer las características del género \"crónica\": narra un hecho real, describe ambientes y personajes, y admite la mirada personal del autor.",
       "difficulty": "4",
       "images": [],
@@ -105,13 +105,13 @@
       "context": "Lee este fragmento de una crónica: \"El estadio Atanasio Girardot de Medellín tiene capacidad para más de 40.000 espectadores.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Un hecho, porque presenta un dato verificable sobre el estadio.",
           "is_correct": true,
           "feedback": "La capacidad del estadio es un dato comprobable, por eso es un hecho."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Una opinión, porque expresa un sentimiento del autor.",
           "is_correct": false,
           "feedback": "No hay juicio de valor ni emoción; es información objetiva."
@@ -129,7 +129,7 @@
           "feedback": "El fragmento describe una realidad presente, no un deseo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Distinguir un hecho (dato comprobable) de una opinión (juicio personal) en un texto periodístico.",
       "difficulty": "6",
       "images": [],
@@ -151,13 +151,13 @@
       "context": "En una crónica se lee: \"El volante repartió pases precisos y manejó los tiempos del partido con maestría.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "\"maestría\", porque califica la actuación del jugador con admiración.",
           "is_correct": true,
           "feedback": "\"Maestría\" es un juicio valorativo que refleja la opinión del cronista."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "\"volante\", porque es el nombre de una posición.",
           "is_correct": false,
           "feedback": "\"Volante\" nombra una posición, es información objetiva."
@@ -175,7 +175,7 @@
           "feedback": "\"Partido\" nombra el evento, no emite ninguna opinión."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Identificar las palabras valorativas (adjetivos, adverbios) que revelan la opinión del autor dentro de la crónica.",
       "difficulty": "6",
       "images": [],
@@ -197,19 +197,19 @@
       "context": "Lee este enunciado de una crónica: \"La hinchada del Junior llenó por completo el estadio Metropolitano de Barranquilla.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "\"La hinchada del Junior\", porque es quien realiza la acción de llenar.",
           "is_correct": true,
           "feedback": "El sujeto es el grupo que ejecuta la acción del verbo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "\"llenó por completo\", porque es la acción principal.",
           "is_correct": false,
           "feedback": "Esa es la parte del predicado que indica la acción."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "\"el estadio Metropolitano\", porque es el lugar de la acción.",
           "is_correct": false,
           "feedback": "El estadio recibe la acción, es el complemento, no el sujeto."
@@ -221,7 +221,7 @@
           "feedback": "Esa expresión indica lugar, no el sujeto de la oración."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Identificar la función del sujeto dentro de la oración para comprender la estructura sintáctica del texto.",
       "difficulty": "6",
       "images": [],
@@ -243,31 +243,31 @@
       "context": "Lee esta crónica breve: \"El domingo, América de Cali venció 2-1 a Deportivo Cali en el estadio Pascual Guerrero. Fue un partido emocionante, de principio a fin, y los hinchas lo recordarán por mucho tiempo.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "El marcador 2-1 es un hecho; \"partido emocionante\" es una opinión del autor.",
           "is_correct": true,
           "feedback": "El marcador es verificable; \"emocionante\" es una valoración subjetiva."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Todo el fragmento es una opinión porque habla de fútbol.",
           "is_correct": false,
           "feedback": "El fragmento incluye datos verificables, no solo opiniones."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El marcador es una opinión y \"emocionante\" es un hecho.",
           "is_correct": false,
           "feedback": "Es al revés: el marcador es objetivo y \"emocionante\" es subjetivo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "No hay hechos ni opiniones, solo datos sin sentido.",
           "is_correct": false,
           "feedback": "El texto contiene hechos claros y una valoración del autor."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Analizar un párrafo para separar la información verificable (hechos) de las valoraciones subjetivas (opiniones).",
       "difficulty": "8",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "Dos crónicas sobre el mismo partido: la crónica A destaca \"la entrega y el coraje de los jugadores\"; la crónica B describe \"las fallas del árbitro y los errores del equipo visitante\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Cada cronista resalta aspectos distintos del mismo partido, según su mirada y su intención.",
           "is_correct": true,
           "feedback": "El hecho es el mismo, pero la mirada del autor cambia los elementos que destaca."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Ambos autores escriben exactamente lo mismo sobre el partido.",
           "is_correct": false,
           "feedback": "Cada crónica resalta aspectos diferentes, por eso no son idénticas."
@@ -313,7 +313,7 @@
           "feedback": "Ambas son válidas; simplemente enfocan el partido de manera distinta."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Analizar cómo la mirada y la intención del autor influyen en los elementos que destaca una crónica, aunque el hecho narrado sea el mismo.",
       "difficulty": "8",
       "images": [],

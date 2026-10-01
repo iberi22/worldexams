@@ -103,19 +103,19 @@
       "context": "Durante un seminario sobre demografía en Asunción, se presenta una pirámide de población de la República del Paraguay.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Se caracteriza por ser una población mayoritariamente joven, aunque se observa un paulatino proceso de transición demográfica con reducción de la natalidad",
           "is_correct": true,
           "feedback": "Correcto. La pirámide posee una base ancha por la juventud de su población, aunque se encamina hacia una transición con caída paulatina de la tasa global de fecundidad."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Es una estructura sumamente envejecida donde los mayores de 80 años constituyen el 60% de la población total",
           "is_correct": false,
           "feedback": "Incorrecto. El envejecimiento demográfico paraguayo es incipiente, manteniéndose un bono demográfico caracterizado por alta juventud laboral."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Presenta una tasa de natalidad nula de cero nacimientos anuales en todo el territorio",
           "is_correct": false,
           "feedback": "Incorrecto. Paraguay mantiene tasas de crecimiento vegetativo positivas y dinámicas, alejándose de un escenario de natalidad nula."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. La población paraguaya posee un fuerte mestizaje hispano-guaraní originario, enriquecido por corrientes migratorias europeas y de otros países."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La población del Paraguay es predominantemente joven, gozando actualmente del denominado 'bono demográfico', lo que representa una gran oportunidad económica.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,13 +148,13 @@
       "context": "En Encarnación, la estudiante María de la Unidad Educativa San Roque estudia la evolución histórica de la lengua guaraní y su uso cotidiano.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Es ampliamente hablada por la población no indígena y mestiza de todos los estratos sociales, tanto en zonas rurales como urbanas",
           "is_correct": true,
           "feedback": "Correcto. El guaraní paraguayo trascendió las fronteras de las comunidades nativas para consolidarse como idioma de uso cotidiano de la gran mayoría de la población nacional mestiza."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Su uso está restringido de forma exclusiva a pequeños rituales religiosos en el departamento de Boquerón",
           "is_correct": false,
           "feedback": "Incorrecto. El guaraní es oficial, se enseña en escuelas y se emplea a diario por millones de habitantes en todo el Paraguay."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. Todo lo contrario, la Constitución de 1992 consagró la oficialidad y co-igualdad del guaraní junto al castellano nacional."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El guaraní paraguayo es un caso de bilingüismo extendido único en América, ya que es dominado por el segmento mestizo y mayoritario no indígena de la nación.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -193,19 +193,19 @@
       "context": "El estudiante Santiago de Caacupé analiza los procesos migratorios internacionales de los paraguayos durante las últimas décadas del siglo XX.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Argentina (principalmente Buenos Aires) y España (principalmente Madrid y Barcelona)",
           "is_correct": true,
           "feedback": "Correcto. La vecina Argentina ha albergado históricamente la mayor colectividad paraguaya en el exterior, seguida en este siglo por España por facilidades idiomáticas y laborales."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Rusia, China y los países de la península escandinava",
           "is_correct": false,
           "feedback": "Incorrecto. La distancia geográfica, idiomática y las exigencias de visados limitaron las migraciones masivas de trabajadores paraguayos a estos destinos lejanos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ecuador, Bolivia y los pequeños Estados de la Polinesia",
           "is_correct": false,
           "feedback": "Incorrecto. No constituyen flujos migratorios de gran volumen numérico ni destinos tradicionales históricos para los emigrantes del país."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. La Antártida es un continente de investigación científica sin población civil permanente y carente de flujos de emigración laboral paraguaya."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Los flujos migratorios paraguayos se dirigen preferentemente hacia Argentina por cercanía geográfica, y España por afinidad idiomática y oportunidades laborales en el área de servicios.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -283,31 +283,31 @@
       "context": "La estudiante Liz investiga la distribución espacial de la población en la Región Oriental y los factores geográficos determinantes de la misma.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "La construcción de la Ruta Nacional N° 2 (antiguas Rutas 2 y 7) que unió Asunción con Ciudad del Este y conectó con el puente de la Amistad hacia el Brasil",
           "is_correct": true,
           "feedback": "Correcto. Este corredor vial de exportación e importación abrió vastas tierras boscosas a la colonización agrícola y el surgimiento de pujantes ciudades."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La excavación de un canal navegable transcontinental que unió la cordillera de Amambay con el mar Caribe",
           "is_correct": false,
           "feedback": "Incorrecto. No se construyó tal canal hidráulico transcontinental que cruzara por la cordillera norteña con el Caribe."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La implantación obligatoria de vías de tren bala ultrasónicos por parte de los imperios coloniales europeos",
           "is_correct": false,
           "feedback": "Incorrecto. Paraguay posee una rica historia ferroviaria (ferrocarril Carlos Antonio López) pero no contó con trenes bala supersónicos de potencias imperiales en su poblamiento esteño."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La prohibición de circular en carretas para obligar a usar carruajes tirados por elefantes asiáticos",
           "is_correct": false,
           "feedback": "Incorrecto. Planteamiento fantasioso sin asidero histórico, geográfico ni biológico en la colonización del este paraguayo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La conexión terrestre este-oeste por carretera fue el catalizador del dinamismo económico, la colonización agrícola y el crecimiento poblacional de la Región Oriental.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -328,13 +328,13 @@
       "context": "El estudiante Joaquín de Ciudad del Este analiza el impacto de la migración brasileña en el este de la Región Oriental del país.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Los brasiguayos",
           "is_correct": true,
           "feedback": "Correcto. 'Brasiguayos' es el término sociológico y popular que designa a los inmigrantes de origen brasileño y sus hijos nacidos en suelo paraguayo dedicados a actividades del agro."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Los bandeirantes históricos",
           "is_correct": false,
           "feedback": "Incorrecto. Los bandeirantes eran exploradores coloniales paulistas del siglo XVII y XVIII que incursionaban cazando indígenas guaraníes de las misiones."
@@ -352,7 +352,7 @@
           "feedback": "Incorrecto. Se refiere a un cargo laboral de administración en estancias ganaderas rurales, no a una colectividad migratoria transnacional definida."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El fenómeno demográfico 'brasiguayo' se consolidó en los años 1970 y 1980 a través de la venta de tierras fiscales para el agro de gran escala en la frontera esteña.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -373,31 +373,31 @@
       "context": "En Pilar, los estudiantes de bachillerato debaten sobre la migración interna desde el campo a la ciudad (éxodo rural) en Paraguay.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "La búsqueda de mejores empleos en el sector de comercio y servicios, sumada a la mayor oferta de servicios de salud, educación y la falta de tierras agrícolas para los jóvenes",
           "is_correct": true,
           "feedback": "Correcto. El minifundio improductivo y la mecanización agrícola expulsan mano de obra rural hacia los cinturones metropolitanos que concentran servicios y ofertas laborales informales."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La inundación volcánica permanente de todos los campos de cultivo del interior del país",
           "is_correct": false,
           "feedback": "Incorrecto. Las tierras rurales paraguayas son fértiles y estables geológicamente; las inundaciones de ríos son locales y no volcánicas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La prohibición constitucional de consumir mandioca en las fincas familiares del interior",
           "is_correct": false,
           "feedback": "Incorrecto. La mandioca es el alimento primordial de consumo y sustento diario nacional, de ninguna manera está prohibida."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La obligación estatal de residir en departamentos que tengan cines ultrasónicos en 3D",
           "is_correct": false,
           "feedback": "Incorrecto. No existe ninguna medida gubernamental autoritaria o directiva de traslado vinculada al acceso de cines modernos de entretenimiento."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La migración campo-ciudad en Paraguay está determinada por la asimetría de desarrollo territorial y oportunidades de empleo y servicios de salud/educación.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -418,31 +418,31 @@
       "context": "Un simposio de antropología en Asunción examina el estatus de los pueblos indígenas sobrevivientes del Paraguay y sus familias lingüísticas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Aproximadamente 19 pueblos indígenas distribuidos en 5 familias lingüísticas (Guaraní, Maskoy, Mataco-Mataguayo, Zamuco y Lengua-Enlhet)",
           "is_correct": true,
           "feedback": "Correcto. El Paraguay posee una rica diversidad de pueblos originarios que conservan lenguas propias, no limitadas de forma exclusiva al guaraní mestizo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Solo existe un único pueblo indígena que reside de forma exclusiva en el centro de Asunción",
           "is_correct": false,
           "feedback": "Incorrecto. Existen múltiples pueblos originarios de riquísima cultura y lenguas que habitan tanto la Región Oriental como el Chaco."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Existen más de 5000 pueblos indígenas que hablan dialectos europeos y germánicos medievales",
           "is_correct": false,
           "feedback": "Incorrecto. La población indígena paraguaya pertenece a familias lingüísticas netamente americanas prehispánicas, no de procedencia germánica europea medieval."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Todos los pueblos indígenas emigraron de forma definitiva a las costas de Chile en el siglo XVIII",
           "is_correct": false,
           "feedback": "Incorrecto. Los pueblos originarios paraguayos siguen residiendo en sus territorios ancestrales del país y resistiendo presiones agroexportadoras."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La diversidad de pueblos indígenas (como los Nivaclé, Ayoreo o Maká) complementa la complejidad demográfica y lingüística del Paraguay bilingüe.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -463,13 +463,13 @@
       "context": "En un panel sobre bilingüismo en Concepción, un educador paraguayo debate sobre la discriminación histórica y la diglosia en el Paraguay.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La tendencia a preferir formalmente el castellano en los ámbitos jurídicos, académicos y de administración oficial del Estado, relegando al guaraní mayormente a la oralidad coloquial o familiar",
           "is_correct": true,
           "feedback": "Correcto. La diglosia implica el uso asimétrico de dos lenguas donde una goza de mayor estatus formal o escrito en ámbitos de poder e instituciones del Estado frente al uso informal de la otra."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La prohibición de emitir programas de radio o televisión empleando el idioma castellano",
           "is_correct": false,
           "feedback": "Incorrecto. Los medios paraguayos emplean abundantemente ambos idiomas de manera abierta sin prohibiciones al castellano."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto. La población paraguaya siente un profundo orgullo nacionalista por su idioma materno guaraní, el cual es americano autóctono nativo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La superación de la diglosia requiere la efectiva implementación de la Ley de Lenguas y la estandarización escrita de los trámites y comunicaciones oficiales en guaraní.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -508,31 +508,31 @@
       "context": "Durante un estudio urbano en la ciudad de Luque, el estudiante Jorge analiza la consolidación de los denominados 'bañados' en las riberas asuncenas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "La migración de familias campesinas desplazadas de sus tierras que se asientan en zonas inundables fiscales por falta de políticas de vivienda social e inserción urbana planificada",
           "is_correct": true,
           "feedback": "Correcto. Los bañados de Asunción albergan población rural migrante de escasos recursos que se establece de manera precaria sobre planicies de inundación del río Paraguay."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La decisión voluntaria de la élite de Asunción de mudarse a zonas insalubres para pagar menos impuestos de alcantarillado",
           "is_correct": false,
           "feedback": "Incorrecto. Los bañados son asentamientos habitados por sectores populares vulnerables empujados por la marginación, no por la élite económica."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Un decreto del presidente de la República que prohíbe de forma perpetua construir casas en terrenos firmes y elevados de Luque",
           "is_correct": false,
           "feedback": "Incorrecto. No existe tal decreto restrictivo o autoritario que fuerce la precariedad habitacional en zonas de inundación."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La presencia de pozos de petróleo subterráneo que obligan a cavar en las riberas del río Paraguay",
           "is_correct": false,
           "feedback": "Incorrecto. Paraguay no destaca por producción petrolífera comercial subterránea y los bañados son zonas residenciales populares, no petroleras."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Los bañados asuncenos ilustran la segregación espacial urbana resultante de corrientes migratorias no planificadas y debilidad de políticas habitacionales.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -553,19 +553,19 @@
       "context": "En la ciudad de Caaguazú, la estudiante Valentina analiza el crecimiento de las colonias menonitas en el Chaco paraguayo y su impacto socioeconómico.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "El establecimiento de un modelo cooperativo interno rígido de producción, apoyo mutuo financiero e inversión en infraestructura láctea y cárnica",
           "is_correct": true,
           "feedback": "Correcto. El cooperativismo menonita centralizó el procesamiento industrial y la comercialización de su producción, convirtiendo al Chaco en un gran polo agroindustrial paraguayo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La importación de mano de obra esclava caribeña bajo la supervisión de las fuerzas militares de la corona española",
           "is_correct": false,
           "feedback": "Incorrecto. Los menonitas ingresaron a partir de la década de 1920 bajo leyes republicanas de libertad de culto y exención militar, sin usar mano de obra esclava colonial."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El desvío permanente de las corrientes de agua del río Paraná para inundar el Chaco de forma artificial",
           "is_correct": false,
           "feedback": "Incorrecto. El Chaco menonita carece de agua superficial del Paraná; el agua se almacena penosamente de lluvias o pozos profundos de agua salobre."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. Los menonitas del Chaco conservan activamente su idioma plautdietsch y alemán estándar para sus cultos e intercambios internos comunitarios."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El cooperativismo es la columna vertebral de la prosperidad de las colonias menonitas en los departamentos chaqueños paraguayos.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -598,31 +598,31 @@
       "context": "Un sociólogo paraguayo analiza en Asunción los cambios culturales derivados de las remesas enviadas por los emigrantes en España.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Constituyen un importante sustento de consumo para los hogares de menores ingresos, financiando alimentación, educación de hijos y pequeñas mejoras de vivienda",
           "is_correct": true,
           "feedback": "Correcto. Las remesas alivian de forma directa la pobreza de miles de familias paraguayas y representan una inyección importante de moneda extranjera en la economía local."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Se destinan en su totalidad a financiar la compra de flotas de satélites espaciales militares para el país",
           "is_correct": false,
           "feedback": "Incorrecto. Las remesas son recursos familiares privados y no se canalizan para gastos de satélites espaciales o armamento militar estatal."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Provocan la quiebra absoluta y obligatoria de todos los bancos locales por falta de moneda nacional",
           "is_correct": false,
           "feedback": "Incorrecto. Al contrario, las remesas dinamizan la banca comercial nacional y la red cambiaria de transacciones financieras del país."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Se canjean exclusivamente por oro que se entierra en cofres en el cerro Tres Kandu",
           "is_correct": false,
           "feedback": "Incorrecto. Las divisas extranjeras se ingresan y consumen libremente en el comercio legal cotidiano, no se entierran ritualmente en cofres."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La migración económica al exterior actúa como válvula de escape al desempleo, repercutiendo positivamente en la economía nacional a través de las remesas de dinero.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -643,31 +643,31 @@
       "context": "En la biblioteca de Pilar, la estudiante Camila lee sobre las corrientes inmigratorias no hispanas que llegaron al Paraguay a fines del siglo XIX y siglo XX.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Italianos, alemanes, menonitas, japoneses, sirio-libaneses y, más recientemente, colonos brasileños",
           "is_correct": true,
           "feedback": "Correcto. Estas colectividades fundaron colonias agrícolas (como los japoneses en La Colmena o alemanes en San Bernardino) y dinamizaron el comercio y la agricultura nacional."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Migraciones masivas de esquimales de Groenlandia y aborígenes australianos nómadas",
           "is_correct": false,
           "feedback": "Incorrecto. No se registraron corrientes inmigratorias masivas procedentes del Ártico de Groenlandia o de los desiertos australianos en la historia paraguaya."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Monjes budistas del Tíbet que fundaron industrias de acero templado en el departamento del Chaco",
           "is_correct": false,
           "feedback": "Incorrecto. La inmigración del Chaco fue mayormente menonita o de ganaderos paraguayos, sin fundaciones industriales budistas de acero."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La inmigración forzada de piratas del Caribe de los siglos XVII y XVIII",
           "is_correct": false,
           "feedback": "Incorrecto. Es un completo anacronismo e inexactitud histórica ajena a las corrientes demográficas modernas de colonización legal en el país."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La inmigración selectiva y espontánea del siglo XX contribuyó a la diversificación productiva del agro y al crecimiento urbano de varias ciudades paraguayas.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -688,13 +688,13 @@
       "context": "En Filadelfia, se debate el concepto de interculturalidad frente al bilingüismo y multilingüismo de la región del Chaco paraguayo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Garantizar servicios públicos traducidos y adaptados a las pautas culturales de cada pueblo respetando sus lenguas nativas, superando barreras idiomáticas históricas",
           "is_correct": true,
           "feedback": "Correcto. La educación escolar básica y la atención médica deben respetar la lengua materna de los diversos pueblos para asegurar eficacia y derechos humanos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Imponer el uso obligatorio y exclusivo del inglés en todas las transacciones informales del Chaco",
           "is_correct": false,
           "feedback": "Incorrecto. Imponer una lengua extranjera ajena a las comunidades empeoraría los niveles de exclusión social en la región chaqueña."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. Los profesionales deben utilizar las lenguas oficiales y comunitarias locales para asegurar el acceso a servicios y la comprensión académica."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El bilingüismo en el Paraguay no es uniforme. El Chaco paraguayo presenta un mosaico lingüístico y cultural complejo que requiere políticas estatales sensibles e interculturales.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -778,31 +778,31 @@
       "context": "Durante un foro sobre dinámicas demográficas en Encarnación, se evalúa críticamente el fenómeno de la transición demográfica paraguaya.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Realizar masivas inversiones públicas en la calidad de la educación técnica, universitaria y de salud, y crear oportunidades de empleo formal de calidad para los jóvenes que ingresan al mercado de trabajo",
           "is_correct": true,
           "feedback": "Correcto. Contar con una gran masa de población en edad de trabajar solo se traduce en crecimiento si existen capacitación laboral adecuada y puestos de empleo formal estructurados, de lo contrario se estimula el subempleo y la emigración."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Decretar la jubilación forzada de todos los paraguayos mayores de 30 años para dejar los empleos a adolescentes sin escolaridad",
           "is_correct": false,
           "feedback": "Incorrecto. Esto destruiría el sistema de previsión social familiar y privaría al país de trabajadores experimentados, precarizando la producción general."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Subvencionar la emigración masiva e ininterrumpida de todos los jóvenes paraguayos hacia los desiertos del norte de África",
           "is_correct": false,
           "feedback": "Incorrecto. Fomentar la pérdida definitiva de capital humano de jóvenes talentos agravaría el subdesarrollo y deprimiría las dinámicas productivas locales."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Prohibir de forma absoluta e inmediata la apertura de fábricas industriales y universidades técnicas en el país",
           "is_correct": false,
           "feedback": "Incorrecto. Es un planteamiento que anula cualquier posibilidad de desarrollo económico agrario o urbano moderno para la juventud paraguaya."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El bono demográfico es una ventana de oportunidad temporal de algunas décadas en la cual el porcentaje de población dependiente (niños y ancianos) es menor en relación con la población potencialmente activa productiva.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -823,31 +823,31 @@
       "context": "En la ciudad de Caaguazú, se debate críticamente sobre la tenencia de la tierra en el Paraguay y su influencia directa en el vaciamiento demográfico rural.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Que la expansión del cultivo masivo mecanizado de soja adquiere pequeñas parcelas de la agricultura familiar campesina, reduciendo la superficie para cultivos de subsistencia y empujando a los campesinos hacia los cinturones informales urbanos",
           "is_correct": true,
           "feedback": "Correcto. El agro extensivo mecanizado requiere poca mano de obra directa. Al expandirse, presiona sobre los minifundios minifundistas tradicionales obligando al éxodo de familias rurales campesinas por pérdida de arraigo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Que los grandes propietarios de tierra obligan a los campesinos a estudiar el idioma guaraní de forma exclusiva bajo pena de destierro fluvial",
           "is_correct": false,
           "feedback": "Incorrecto. Los campesinos ya dominan el guaraní como lengua nativa materna tradicional; la expulsión no se origina por imposiciones lingüísticas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Que la mecanización agrícola del agro ha provocado que todas las tierras rurales del este se vuelvan desiertos de sal donde no crece ningún cultivo vegetal",
           "is_correct": false,
           "feedback": "Incorrecto. Las tierras orientales son fértiles para cultivos como la soja y el trigo; el conflicto es de orden social distributivo y no de desertificación por salinización química total."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La prohibición gubernamental de utilizar tractores modernos para forzar el uso de herramientas de piedra de la era de piedra andina",
           "is_correct": false,
           "feedback": "Incorrecto. Paraguay destaca por utilizar alta tecnología en el sector del agro de exportación; el debate se enfoca en la exclusión de pequeños productores agrarios tradicionales."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La concentración de la propiedad rural de la tierra es uno de los factores estructurales del éxodo campesino y el crecimiento informal metropolitano en el Paraguay.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -868,31 +868,31 @@
       "context": "Un simposio de lingüística y educación en Asunción concluye evaluando el estado del bilingüismo paraguayo ante los desafíos de la globalización cultural del siglo XXI.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "La escasez de contenidos formales y educativos de calidad en internet, sumada a la influencia dominante del inglés y español en redes sociales y la tecnología digital, lo que desincentiva la lectoescritura del guaraní en la juventud urbana",
           "is_correct": true,
           "feedback": "Correcto. La era digital demanda la presencia activa de las lenguas nativas en el desarrollo de interfaces y contenidos virtuales; de lo contrario, su utilidad se reduce al habla informal relegada de la globalización."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La prohibición gubernamental explícita de hablar guaraní a través de teléfonos inteligentes y redes sociales en todo el territorio",
           "is_correct": false,
           "feedback": "Incorrecto. No existen prohibiciones gubernamentales; la Ley de Lenguas y la Secretaría de Políticas Lingüísticas alientan activamente su uso digital."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El rechazo absoluto de todos los círculos intelectuales europeos para que el guaraní sea estudiado en universidades extranjeras",
           "is_correct": false,
           "feedback": "Incorrecto. Al contrario, el guaraní paraguayo es objeto de enorme interés lingüístico y filológico en círculos académicos universitarios de todo el mundo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El desvanecimiento físico del alfabeto latino que impide escribir palabras que lleven vocales nasales en computadoras modernas",
           "is_correct": false,
           "feedback": "Incorrecto. La informática moderna y los caracteres Unicode permiten tipificar perfectamente las vocales nasales de la ortografía oficial del guaraní sin problemas físicos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La vitalidad del guaraní en el siglo XXI depende de su activa inserción en las tecnologías de la información y la producción cultural contemporánea formal escrita.\n\n---",
       "difficulty": "10",
       "images": [],

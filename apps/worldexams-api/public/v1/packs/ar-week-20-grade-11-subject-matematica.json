@@ -13,13 +13,13 @@
       "context": "Secciones cónicas: Elipse centrada en el origen Caso N° 1.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$a = 4$, $b = 2$",
           "is_correct": true,
           "feedback": "Correcto. $a = \\sqrt{16} = 4$ y $b = \\sqrt{4} = 2$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$a = 16$, $b = 4$",
           "is_correct": false,
           "feedback": "Incorrecto. $a^2$ y $b^2$ son los cuadrados de los semiejes."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Invirtió los semiejes mayor y menor."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "En la ecuación estándar $\\frac{x^2}{a^2} + \\frac{y^2}{b^2} = 1$, los semiejes se obtienen mediante $a = \\sqrt{16} = 4$ y $b = \\sqrt{4} = 2$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -103,31 +103,31 @@
       "context": "Secciones cónicas: Elipse centrada en el origen Caso N° 3.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$a = 6$, $b = 4$",
           "is_correct": true,
           "feedback": "Correcto. $a = \\sqrt{36} = 6$ y $b = \\sqrt{16} = 4$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$a = 36$, $b = 16$",
           "is_correct": false,
           "feedback": "Incorrecto. $a^2$ y $b^2$ son los cuadrados de los semiejes."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$a = 12$, $b = 8$",
           "is_correct": false,
           "feedback": "Incorrecto. Esos son los ejes completos ($2a$ y $2b$), no los semiejes."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$a = 4$, $b = 6$",
           "is_correct": false,
           "feedback": "Incorrecto. Invirtió los semiejes mayor y menor."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "En la ecuación estándar $\\frac{x^2}{a^2} + \\frac{y^2}{b^2} = 1$, los semiejes se obtienen mediante $a = \\sqrt{36} = 6$ y $b = \\sqrt{16} = 4$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,13 +148,13 @@
       "context": "Secciones cónicas: Elipse centrada en el origen Caso N° 4.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$a = 7$, $b = 5$",
           "is_correct": true,
           "feedback": "Correcto. $a = \\sqrt{49} = 7$ y $b = \\sqrt{25} = 5$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$a = 49$, $b = 25$",
           "is_correct": false,
           "feedback": "Incorrecto. $a^2$ y $b^2$ son los cuadrados de los semiejes."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. Invirtió los semiejes mayor y menor."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "En la ecuación estándar $\\frac{x^2}{a^2} + \\frac{y^2}{b^2} = 1$, los semiejes se obtienen mediante $a = \\sqrt{49} = 7$ y $b = \\sqrt{25} = 5$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -238,19 +238,19 @@
       "context": "Secciones cónicas: Elipse centrada en el origen Caso N° 6.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$a = 9$, $b = 7$",
           "is_correct": true,
           "feedback": "Correcto. $a = \\sqrt{81} = 9$ y $b = \\sqrt{49} = 7$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$a = 81$, $b = 49$",
           "is_correct": false,
           "feedback": "Incorrecto. $a^2$ y $b^2$ son los cuadrados de los semiejes."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$a = 18$, $b = 14$",
           "is_correct": false,
           "feedback": "Incorrecto. Esos son los ejes completos ($2a$ y $2b$), no los semiejes."
@@ -262,7 +262,7 @@
           "feedback": "Incorrecto. Invirtió los semiejes mayor y menor."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "En la ecuación estándar $\\frac{x^2}{a^2} + \\frac{y^2}{b^2} = 1$, los semiejes se obtienen mediante $a = \\sqrt{81} = 9$ y $b = \\sqrt{49} = 7$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -283,19 +283,19 @@
       "context": "Secciones cónicas: Elipse centrada en el origen Caso N° 7.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$a = 10$, $b = 8$",
           "is_correct": true,
           "feedback": "Correcto. $a = \\sqrt{100} = 10$ y $b = \\sqrt{64} = 8$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$a = 100$, $b = 64$",
           "is_correct": false,
           "feedback": "Incorrecto. $a^2$ y $b^2$ son los cuadrados de los semiejes."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$a = 20$, $b = 16$",
           "is_correct": false,
           "feedback": "Incorrecto. Esos son los ejes completos ($2a$ y $2b$), no los semiejes."
@@ -307,7 +307,7 @@
           "feedback": "Incorrecto. Invirtió los semiejes mayor y menor."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "En la ecuación estándar $\\frac{x^2}{a^2} + \\frac{y^2}{b^2} = 1$, los semiejes se obtienen mediante $a = \\sqrt{100} = 10$ y $b = \\sqrt{64} = 8$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -373,13 +373,13 @@
       "context": "Secciones cónicas: Elipse centrada en el origen Caso N° 9.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$a = 12$, $b = 10$",
           "is_correct": true,
           "feedback": "Correcto. $a = \\sqrt{144} = 12$ y $b = \\sqrt{100} = 10$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$a = 144$, $b = 100$",
           "is_correct": false,
           "feedback": "Incorrecto. $a^2$ y $b^2$ son los cuadrados de los semiejes."
@@ -397,7 +397,7 @@
           "feedback": "Incorrecto. Invirtió los semiejes mayor y menor."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "En la ecuación estándar $\\frac{x^2}{a^2} + \\frac{y^2}{b^2} = 1$, los semiejes se obtienen mediante $a = \\sqrt{144} = 12$ y $b = \\sqrt{100} = 10$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -463,31 +463,31 @@
       "context": "Secciones cónicas: Elipse centrada en el origen Caso N° 11.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$a = 14$, $b = 12$",
           "is_correct": true,
           "feedback": "Correcto. $a = \\sqrt{196} = 14$ y $b = \\sqrt{144} = 12$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$a = 196$, $b = 144$",
           "is_correct": false,
           "feedback": "Incorrecto. $a^2$ y $b^2$ son los cuadrados de los semiejes."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$a = 28$, $b = 24$",
           "is_correct": false,
           "feedback": "Incorrecto. Esos son los ejes completos ($2a$ y $2b$), no los semiejes."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$a = 12$, $b = 14$",
           "is_correct": false,
           "feedback": "Incorrecto. Invirtió los semiejes mayor y menor."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "En la ecuación estándar $\\frac{x^2}{a^2} + \\frac{y^2}{b^2} = 1$, los semiejes se obtienen mediante $a = \\sqrt{196} = 14$ y $b = \\sqrt{144} = 12$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -508,13 +508,13 @@
       "context": "Secciones cónicas: Elipse centrada en el origen Caso N° 12.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$a = 15$, $b = 13$",
           "is_correct": true,
           "feedback": "Correcto. $a = \\sqrt{225} = 15$ y $b = \\sqrt{169} = 13$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$a = 225$, $b = 169$",
           "is_correct": false,
           "feedback": "Incorrecto. $a^2$ y $b^2$ son los cuadrados de los semiejes."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. Invirtió los semiejes mayor y menor."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "En la ecuación estándar $\\frac{x^2}{a^2} + \\frac{y^2}{b^2} = 1$, los semiejes se obtienen mediante $a = \\sqrt{225} = 15$ y $b = \\sqrt{169} = 13$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -598,13 +598,13 @@
       "context": "Secciones cónicas: Elipse centrada en el origen Caso N° 14.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$a = 17$, $b = 15$",
           "is_correct": true,
           "feedback": "Correcto. $a = \\sqrt{289} = 17$ y $b = \\sqrt{225} = 15$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$a = 289$, $b = 225$",
           "is_correct": false,
           "feedback": "Incorrecto. $a^2$ y $b^2$ son los cuadrados de los semiejes."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. Invirtió los semiejes mayor y menor."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "En la ecuación estándar $\\frac{x^2}{a^2} + \\frac{y^2}{b^2} = 1$, los semiejes se obtienen mediante $a = \\sqrt{289} = 17$ y $b = \\sqrt{225} = 15$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -643,13 +643,13 @@
       "context": "Secciones cónicas: Elipse centrada en el origen Caso N° 15.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$a = 18$, $b = 16$",
           "is_correct": true,
           "feedback": "Correcto. $a = \\sqrt{324} = 18$ y $b = \\sqrt{256} = 16$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$a = 324$, $b = 256$",
           "is_correct": false,
           "feedback": "Incorrecto. $a^2$ y $b^2$ son los cuadrados de los semiejes."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. Invirtió los semiejes mayor y menor."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "En la ecuación estándar $\\frac{x^2}{a^2} + \\frac{y^2}{b^2} = 1$, los semiejes se obtienen mediante $a = \\sqrt{324} = 18$ y $b = \\sqrt{256} = 16$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -688,31 +688,31 @@
       "context": "Secciones cónicas: Elipse centrada en el origen Caso N° 16.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$a = 19$, $b = 17$",
           "is_correct": true,
           "feedback": "Correcto. $a = \\sqrt{361} = 19$ y $b = \\sqrt{289} = 17$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$a = 361$, $b = 289$",
           "is_correct": false,
           "feedback": "Incorrecto. $a^2$ y $b^2$ son los cuadrados de los semiejes."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$a = 38$, $b = 34$",
           "is_correct": false,
           "feedback": "Incorrecto. Esos son los ejes completos ($2a$ y $2b$), no los semiejes."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$a = 17$, $b = 19$",
           "is_correct": false,
           "feedback": "Incorrecto. Invirtió los semiejes mayor y menor."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "En la ecuación estándar $\\frac{x^2}{a^2} + \\frac{y^2}{b^2} = 1$, los semiejes se obtienen mediante $a = \\sqrt{361} = 19$ y $b = \\sqrt{289} = 17$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -733,13 +733,13 @@
       "context": "Secciones cónicas: Elipse centrada en el origen Caso N° 17.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$a = 20$, $b = 18$",
           "is_correct": true,
           "feedback": "Correcto. $a = \\sqrt{400} = 20$ y $b = \\sqrt{324} = 18$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$a = 400$, $b = 324$",
           "is_correct": false,
           "feedback": "Incorrecto. $a^2$ y $b^2$ son los cuadrados de los semiejes."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. Invirtió los semiejes mayor y menor."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "En la ecuación estándar $\\frac{x^2}{a^2} + \\frac{y^2}{b^2} = 1$, los semiejes se obtienen mediante $a = \\sqrt{400} = 20$ y $b = \\sqrt{324} = 18$.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -778,13 +778,13 @@
       "context": "Secciones cónicas: Elipse centrada en el origen Caso N° 18.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$a = 21$, $b = 19$",
           "is_correct": true,
           "feedback": "Correcto. $a = \\sqrt{441} = 21$ y $b = \\sqrt{361} = 19$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$a = 441$, $b = 361$",
           "is_correct": false,
           "feedback": "Incorrecto. $a^2$ y $b^2$ son los cuadrados de los semiejes."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. Invirtió los semiejes mayor y menor."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "En la ecuación estándar $\\frac{x^2}{a^2} + \\frac{y^2}{b^2} = 1$, los semiejes se obtienen mediante $a = \\sqrt{441} = 21$ y $b = \\sqrt{361} = 19$.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -823,31 +823,31 @@
       "context": "Secciones cónicas: Elipse centrada en el origen Caso N° 19.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$a = 22$, $b = 20$",
           "is_correct": true,
           "feedback": "Correcto. $a = \\sqrt{484} = 22$ y $b = \\sqrt{400} = 20$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$a = 484$, $b = 400$",
           "is_correct": false,
           "feedback": "Incorrecto. $a^2$ y $b^2$ son los cuadrados de los semiejes."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$a = 44$, $b = 40$",
           "is_correct": false,
           "feedback": "Incorrecto. Esos son los ejes completos ($2a$ y $2b$), no los semiejes."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$a = 20$, $b = 22$",
           "is_correct": false,
           "feedback": "Incorrecto. Invirtió los semiejes mayor y menor."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "En la ecuación estándar $\\frac{x^2}{a^2} + \\frac{y^2}{b^2} = 1$, los semiejes se obtienen mediante $a = \\sqrt{484} = 22$ y $b = \\sqrt{400} = 20$.\n\n---",
       "difficulty": "10",
       "images": [],

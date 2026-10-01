@@ -65,25 +65,25 @@
           "feedback": "Incorrecto. La repetición usaría la misma palabra \"perro\"."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "La sinonimia.",
           "is_correct": true,
           "feedback": "Correcto. El uso de sinónimos evita la monotonía y enriquece el texto manteniendo el referente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El uso de mayúsculas.",
           "is_correct": false,
           "feedback": "Incorrecto. No es un mecanismo de cohesión léxica."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La puntuación.",
           "is_correct": false,
           "feedback": "Incorrecto. La puntuación organiza pausas, no reemplaza términos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La sinonimia es un recurso de cohesión léxica que permite volver sobre un tema sin cansar al lector con la misma palabra repetida constantemente.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -117,19 +117,19 @@
           "feedback": "Incorrecto. \"Porque\" indica causa."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Sin embargo.",
           "is_correct": true,
           "feedback": "Correcto. \"Sin embargo\" es un conector adversativo que introduce una idea contraria a la anterior."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Por lo tanto.",
           "is_correct": false,
           "feedback": "Incorrecto. Indica consecuencia, no oposición."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Los conectores lógicos son palabras que establecen relaciones de sentido (causa, consecuencia, oposición, tiempo) entre las oraciones, facilitando el hilo conductor del texto.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -157,13 +157,13 @@
           "feedback": "Incorrecto. Esa es función del verbo \"compraron\"."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Sustituye a los sustantivos \"María y Juan\" para evitar repetirlos.",
           "is_correct": true,
           "feedback": "Correcto. Este mecanismo se llama referencia o anáfora."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Describe cómo son físicamente María y Juan.",
           "is_correct": false,
           "feedback": "Incorrecto. El pronombre no da características descriptivas."
@@ -175,7 +175,7 @@
           "feedback": "Incorrecto. El pronombre no es un signo de puntuación."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La referencia pronominal permite mantener el hilo temático refiriéndose a personas o cosas ya mencionadas sin necesidad de nombrarlas nuevamente.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -203,13 +203,13 @@
           "feedback": "Incorrecto. Son conectores de oposición."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Primero, luego, después, finalmente.",
           "is_correct": true,
           "feedback": "Correcto. Son conectores temporales que ordenan los hechos cronológicamente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ya que, puesto que, debido a.",
           "is_correct": false,
           "feedback": "Incorrecto. Son conectores de causa."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto. Son conectores explicativos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Los conectores de orden o secuencia son vitales para la cohesión en textos narrativos e instructivos, guiando al lector a través de los pasos o momentos del relato.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "Un grupo de alumnos en Cartagena analiza un texto que utiliza la **elipsis** para ser más fluido.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "En repetir la misma idea con las mismas palabras.",
           "is_correct": false,
           "feedback": "Incorrecto. Eso es redundancia."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "En omitir (quitar) una palabra que ya se sobreentiende para no ser repetitivo.",
           "is_correct": true,
           "feedback": "Correcto. Ejemplo: \"Yo estudio lengua; mi hermano, matemáticas\" (se omite el verbo estudia)."
@@ -267,7 +267,7 @@
           "feedback": "Incorrecto. Eso es propio del género lírico (rima)."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La elipsis aprovecha el contexto para evitar la pesadez de repetir elementos obvios, haciendo que el texto sea más ágil y elegante.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -295,13 +295,13 @@
           "feedback": "Incorrecto. Indica oposición."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Llovió mucho **y** saqué el paraguas.",
           "is_correct": false,
           "feedback": "Incorrecto. Indica suma de acciones."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Llovió mucho; **por consiguiente**, se inundó el patio.",
           "is_correct": true,
           "feedback": "Correcto. El segundo hecho es un resultado lógico del primero."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecto. Indica simultaneidad temporal."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Los conectores de consecuencia (así que, por lo tanto, en consecuencia) establecen una relación de efecto entre la primera idea y la segunda.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -347,19 +347,19 @@
           "feedback": "Incorrecto. La longitud de la palabra no afecta su corrección."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Porque el conector \"pero\" indica oposición, y ser \"rico\" no se opone a que \"me guste\".",
           "is_correct": true,
           "feedback": "Correcto. Los conectores deben respetar la lógica de las ideas que unen."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Porque falta un punto final después de la palabra chocolate.",
           "is_correct": false,
           "feedback": "Incorrecto. El error es de significado lógico del nexo."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La cohesión requiere que el nexo elegido coincida con la relación real entre las ideas. Si las ideas se apoyan entre sí, se requiere un conector de suma (y) o de causa (porque).\n\n---",
       "difficulty": "8",
       "images": [],
@@ -381,13 +381,13 @@
       "context": "En un ejercicio de análisis en Villavicencio, se estudia la **cohesión léxica** por campos semánticos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "No ayudan, solo sirven para aprender nombres de animales.",
           "is_correct": false,
           "feedback": "Incorrecto. El vocabulario seleccionado tiene una función estructural."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Crean un campo semántico relacionado con la fauna llanera, dándole unidad léxica al texto.",
           "is_correct": true,
           "feedback": "Correcto. La selección de palabras de una misma familia o tema refuerza la cohesión."
@@ -405,7 +405,7 @@
           "feedback": "Incorrecto. Al contrario, ayudan a situar al lector en el contexto ambiental."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La cohesión léxica se logra cuando el autor utiliza palabras que pertenecen a un mismo ámbito de la realidad, creando una red de significados coherente.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -433,25 +433,25 @@
           "feedback": "Incorrecto. Eso empeora la conexión."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Usar conectores y pronombres: \"Fui al mercado y compré papas y cebollas; luego volví a casa porque estaba cansado\".",
           "is_correct": true,
           "feedback": "Correcto. El uso de nexos (y, luego, porque) y la elipsis del sujeto dan fluidez y conexión al texto."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ponerle un título más largo al texto.",
           "is_correct": false,
           "feedback": "Incorrecto. El título no soluciona los problemas internos de conexión."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Usar solo puntos seguidos entre cada palabra.",
           "is_correct": false,
           "feedback": "Incorrecto. Eso haría el texto aún más entrecortado e incoherente."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Un texto sin cohesión es una suma de oraciones aisladas. La verdadera escritura consiste en tejer esas oraciones mediante mecanismos lingüísticos para crear un mensaje fluido y profesional.\n\n[//]: # (QUALITY_REVIEW)\n\n| Dimensión | Score | Notas |\n|-----------|-------|-------|\n| Técnico | 30/30 | Protocolo v5.2 respetado. |\n| Curricular | 40/40 | Alineado con DBA de G6 sobre cohesión. |\n| Contexto | 20/20 | Referencias a Barranquilla, Medellín, Cali, etc. |\n| Redacción | 10/10 | Alta calidad en las preguntas y respuestas. |\n| **TOTAL** | **100/100** | |",
       "difficulty": "10",
       "images": [],

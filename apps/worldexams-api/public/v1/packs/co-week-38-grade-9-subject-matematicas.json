@@ -65,13 +65,13 @@
           "feedback": "Incorrecto. La suma y el producto son operaciones distintas y solo coinciden en casos muy especificos."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Porque cada una de las $3$ bandejas puede acompanarse con cualquiera de los $4$ jugos, formando parejas independientes, y eso se cuenta con el principio multiplicativo.",
           "is_correct": true,
           "feedback": "Correcto. Cuando las decisiones son independientes, el conteo se hace con el principio multiplicativo: $3 \\times 4 = 12$ combinaciones posibles."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque sumando se obtiene exactamente el mismo resultado cuando los numeros son pequenos.",
           "is_correct": false,
           "feedback": "Incorrecto. $3+4=7$ y $3 \\times 4 = 12$ son distintos; no coinciden por ser pequenos."
@@ -83,7 +83,7 @@
           "feedback": "Incorrecto. El principio multiplicativo se aplica siempre que las elecciones sean independientes, sin importar la cantidad."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El principio multiplicativo establece que si una decision puede tomarse de $m$ formas y otra decision independiente de $n$ formas, entonces hay $m \\times n$ formas de tomar ambas. Sumar seria incorrecto porque eso contaria las opciones como excluyentes, cuando aqui pueden combinarse libremente.",
       "difficulty": "4",
       "images": [],
@@ -111,13 +111,13 @@
           "feedback": "Incorrecto. Esa cuenta corresponderia a placas con una sola letra y un solo digito, no al formato completo de seis posiciones."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$26^3 \\times 10^3 = 17576000$ placas, porque cada posicion se elige de manera independiente.",
           "is_correct": true,
           "feedback": "Correcto. En cada una de las $3$ posiciones de letra hay $26$ opciones y en cada una de las $3$ posiciones de digito hay $10$ opciones, y el principio multiplicativo da $26^3 \\times 10^3$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$26 + 10 = 36$ placas, una por cada simbolo distinto del alfabeto alfanumerico.",
           "is_correct": false,
           "feedback": "Incorrecto. Sumar seria valido solo si letras y digitos fueran opciones excluyentes para la misma posicion, lo cual no es el caso."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecto. Multiplicar por $3$ repite las letras o los digitos, lo que duplica cuentas que ya estan contempladas en las potencias."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Aplicar el principio multiplicativo a un problema de varios caracteres equivale a elevar la cantidad de simbolos de cada tipo al numero de posiciones disponibles. Asi, $26^3$ cubre las letras y $10^3$ los digitos, y el producto final es el numero total de placas posibles.",
       "difficulty": "6",
       "images": [],
@@ -157,13 +157,13 @@
           "feedback": "Incorrecto. Multiplicar asume que se elige una torta, un helado y una fruta a la vez, cuando en realidad solo se escoge un postre."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$3 + 4 + 2 = 9$ formas, sumando las opciones excluyentes de cada categoria.",
           "is_correct": true,
           "feedback": "Correcto. Como las categorias son excluyentes, se aplica el principio aditivo y se obtiene $3+4+2 = 9$ formas posibles."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$3 + 4 \\times 2 = 11$ formas, mezclando un producto parcial con una suma.",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicar helado por fruta y luego sumar tortas no corresponde a ninguna regla valida del conteo."
@@ -175,7 +175,7 @@
           "feedback": "Incorrecto. Las potencias $3^4$ y $2^4$ no tienen sentido porque ninguna categoria tiene $4$ sub-opciones."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El principio aditivo dice que cuando las opciones son mutuamente excluyentes, el total se obtiene sumando los conteos de cada categoria. En este caso torta, helado y fruta no se eligen a la vez, asi que el total es $3+4+2 = 9$ formas posibles de pedir un postre.",
       "difficulty": "6",
       "images": [],
@@ -203,13 +203,13 @@
           "feedback": "Incorrecto. $5^5$ describe colocaciones con repeticion donde un mismo corredor podria estar en varios lugares a la vez."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$5! = 120$ formas, aplicando una permutacion sin repeticion de los $5$ corredores.",
           "is_correct": true,
           "feedback": "Correcto. Como cada corredor ocupa exactamente una posicion, se trata de una permutacion de $5$ elementos distintos y el total es $5! = 120$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$5 \\times 4 = 20$ formas, contando solo el primero y el segundo lugar.",
           "is_correct": false,
           "feedback": "Incorrecto. Esa cuenta ignora el tercer, cuarto y quinto lugar, que tambien son posiciones distintas."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto. Sumar cantidades no relacionadas no produce el numero de ordenamientos posibles."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Una permutacion de $n$ elementos distintos es el numero de formas de ordenarlos sin repetir ninguno, que es $n!$. Para $n=5$, se obtiene $5! = 120$ posibles llegadas, una cifra clave para calcular probabilidades en competencias con todos los resultados igualmente probables.",
       "difficulty": "6",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "Una familia de Medellin esta planeando las vacaciones y debe elegir: $2$ posibles fechas de salida, $3$ posibles destinos dentro de Colombia y $2$ tipos de hospedaje (hotel o finca).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$2 \\times 3 \\times 2 = 12$ ramas, una por cada combinacion completa de las tres decisiones.",
           "is_correct": true,
           "feedback": "Correcto. Cada nivel del arbol multiplica el numero de opciones, dando $2 \\times 3 \\times 2 = 12$ combinaciones finales, una por hoja del diagrama."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$2 + 3 + 2 = 7$ ramas, una por cada decision sumada.",
           "is_correct": false,
           "feedback": "Incorrecto. La suma seria valida solo si las decisiones fueran excluyentes, lo que no ocurre porque se toman en paralelo."
@@ -267,7 +267,7 @@
           "feedback": "Incorrecto. $3!$ solo reordena los destinos, pero aqui no se trata de ordenar sino de combinarlos con fechas y hospedaje."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Un diagrama de arbol permite visualizar todas las combinaciones cuando las decisiones son independientes: cada nivel aporta un factor multiplicativo. Por eso, con $2$ fechas, $3$ destinos y $2$ hospedajes, las hojas del arbol son exactamente $12$ combinaciones posibles.",
       "difficulty": "6",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "En un club juvenil de Medellin hay $8$ candidatos para ocupar los cargos de presidente, vicepresidente y tesorero. Cada cargo lo ocupa una persona distinta y nadie puede tener dos cargos a la vez.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$8^3 = 512$ formas, porque en cada cargo puede caer cualquiera de los $8$ candidatos.",
           "is_correct": false,
           "feedback": "Incorrecto. $8^3$ permitiria que la misma persona ocupara varios cargos, lo que viola la condicion del problema."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$8 \\times 7 \\times 6 = 336$ formas, aplicando una permutacion sin repeticion $P(8,3)$.",
           "is_correct": true,
           "feedback": "Correcto. Para presidente hay $8$ opciones, para vicepresidente quedan $7$ y para tesorero $6$, dando $8 \\times 7 \\times 6 = 336$ asignaciones."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecto. $3!$ solo reordena los cargos entre si, sin considerar cuantos candidatos hay para cada uno."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Cuando se asignan cargos distintos a partir de un conjunto de personas y nadie puede repetirse, se trata de una permutacion sin repeticion $P(n,k) = n!/(n-k)!$. Con $n=8$ y $k=3$, se obtiene $P(8,3) = 8 \\times 7 \\times 6 = 336$ formas validas de asignacion.",
       "difficulty": "8",
       "images": [],
@@ -387,13 +387,13 @@
           "feedback": "Incorrecto. $10^4$ no aplica la prohibicion de repetir digitos ni la restriction sobre el cero."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$10 \\times 10 \\times 10 \\times 10 = 10000$ claves, equivalente al conteo anterior sin restricciones.",
           "is_correct": false,
           "feedback": "Incorrecto. Es la misma cuenta que la opcion A y omite las dos restricciones."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$9 \\times 9 \\times 8 \\times 7 = 4536$ claves, aplicando la primera restriction al primer digito y la no repeticion a los demas.",
           "is_correct": true,
           "feedback": "Correcto. El primer digito tiene $9$ opciones ($1$ a $9$), el segundo $9$ opciones (cualquier digito excepto el primero), el tercero $8$ y el cuarto $7$, dando $9 \\times 9 \\times 8 \\times 7 = 4536$."
@@ -405,7 +405,7 @@
           "feedback": "Incorrecto. Esa cuenta prohibe el cero en todas las posiciones, lo que es mas estricto de lo pedido y reduce las claves."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "El problema combina dos restricciones: el primer digito no puede ser cero, lo que reduce las opciones a $9$, y la no repeticion reduce las opciones en cada paso siguiente. Asi, la cuenta correcta es una permutacion parcial $P(10,4)$ con la primera restriction adicional: $9 \\times 9 \\times 8 \\times 7 = 4536$.",
       "difficulty": "8",
       "images": [],
@@ -427,13 +427,13 @@
       "context": "En una empresa textil de Medellin se quiere conformar un comite de $3$ personas a partir de $10$ empleados aptos. Dentro del comite todos tienen la misma jerarquia, asi que el orden de los elegidos no importa, solo quienes lo conforman.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$10 \\times 9 \\times 8 = 720$ comites, como si los cargos dentro del comite fueran distintos.",
           "is_correct": false,
           "feedback": "Incorrecto. Esa cuenta distingue el orden de los miembros, pero aqui el orden no importa, asi que sobrecuenta."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\dfrac{10!}{3! \\cdot 7!} = \\binom{10}{3} = 120$ comites, aplicando una combinacion.",
           "is_correct": true,
           "feedback": "Correcto. Como el orden dentro del comite no importa, se divide la permutacion entre las $3!$ reordenaciones posibles de los elegidos, quedando $\\binom{10}{3} = 120$ comites."
@@ -451,7 +451,7 @@
           "feedback": "Incorrecto. Multiplicar asi no es una regla de conteo valida para elegir grupos sin orden."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La combinacion $\\binom{n}{k} = \\frac{n!}{k!(n-k)!}$ cuenta cuantos subconjuntos de $k$ elementos pueden formarse a partir de $n$ elementos sin importar el orden. Para $n=10$ y $k=3$, el resultado es $\\binom{10}{3} = 120$ comites posibles.",
       "difficulty": "8",
       "images": [],
@@ -473,13 +473,13 @@
       "context": "Una estudiante de noveno grado en Bogota presenta la siguiente argumentacion: para calcular cuantas contrasenas de $5$ caracteres (formadas solo por letras minusculas y digitos) pueden crearse, calculo $36^5$ porque en cada una de las $5$ posiciones puedo colocar cualquiera de los $36$ simbolos y son posiciones independientes.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El razonamiento es correcto siempre que se permitan letras y digitos repetidos y el orden importe, produciendo $36^5 = 60466176$ contrasenas.",
           "is_correct": true,
           "feedback": "Correcto. El principio multiplicativo con $36$ opciones por posicion y $5$ posiciones independientes da exactamente $36^5 = 60466176$, valido si no hay restricciones adicionales."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El razonamiento es incorrecto porque las letras y los digitos no pueden mezclarse dentro de una misma contrasena.",
           "is_correct": false,
           "feedback": "Incorrecto. Las contrasenas usualmente si mezclan letras y digitos, por eso el alfabeto de $36$ simbolos es valido."
@@ -497,7 +497,7 @@
           "feedback": "Incorrecto. $5^{36}$ invierte base y exponente, lo cual no corresponde a ninguna regla de conteo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Evaluar un argumento de conteo implica verificar si se cumplen las hipotesis del principio aplicado. Aqui cada posicion es independiente, los simbolos pueden repetirse y el orden importa, por lo que $36^5$ es efectivamente la cantidad de contrasenas. La regla clave es reconocer que la estrategia es valida bajo las condiciones dadas.",
       "difficulty": "10",
       "images": [],
@@ -531,19 +531,19 @@
           "feedback": "Incorrecto. El problema prohibe que un club reciba dos lugares, asi que no hay repeticion."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Aplicar una permutacion $P(8,3) = 8 \\times 7 \\times 6$ porque los lugares del podio son posiciones ordenadas.",
           "is_correct": true,
           "feedback": "Correcto. Como oro, plata y bronce son posiciones distintas y cada club aparece a lo sumo una vez, se trata de una permutacion sin repeticion $P(8,3) = 336$ podios posibles."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Aplicar el principio aditivo con $8 + 7 + 6 = 21$ porque se suman las opciones por lugar.",
           "is_correct": false,
           "feedback": "Incorrecto. El principio aditivo se usa para opciones excluyentes, no para lugares que deben asignarse de manera consistente."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Evaluar la mejor estrategia de conteo exige distinguir si el orden importa y si hay repeticion. En un podio los lugares son posiciones ordenadas y los clubes no pueden repetirse, por lo que la herramienta adecuada es la permutacion sin repeticion $P(8,3) = 8 \\times 7 \\times 6 = 336$ podios validos.",
       "difficulty": "10",
       "images": [],

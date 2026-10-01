@@ -13,19 +13,19 @@
       "context": "En Bogotá, una receta familiar indica que por cada 2 tazas de arroz se usan 5 tazas de agua.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "La comparación entre dos cantidades mediante división",
           "is_correct": true,
           "feedback": "Correcto. La razón expresa cuántas veces una cantidad contiene a otra."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La suma de dos cantidades",
           "is_correct": false,
           "feedback": "Incorrecto. La razón no es una suma."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La resta entre dos cantidades",
           "is_correct": false,
           "feedback": "Incorrecto. La razón no es una resta."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. La razón no es un producto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Una razón es una comparación entre dos magnitudes mediante una división, por ejemplo 5:2 o el cociente 5/2.",
       "difficulty": "4",
       "images": [],
@@ -59,19 +59,19 @@
       "context": "En Medellín, en una panadería se venden 24 panes en 6 horas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "4 panes por hora",
           "is_correct": true,
           "feedback": "Correcto. 24 panes ÷ 6 horas = 4 panes/hora."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "6 panes por hora",
           "is_correct": false,
           "feedback": "Incorrecto. Dividiste 24 entre 4, no entre 6."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "8 panes por hora",
           "is_correct": false,
           "feedback": "Incorrecto. Dividiste entre 3 horas."
@@ -83,7 +83,7 @@
           "feedback": "Incorrecto. Dividiste entre 2 horas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La tasa unitaria es el cociente entre la cantidad y la unidad de tiempo: 24 ÷ 6 = 4 panes por hora.",
       "difficulty": "4",
       "images": [],
@@ -105,19 +105,19 @@
       "context": "En Cali, un auto recorre 180 km en 3 horas por la vía a Buenaventura.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "300 km",
           "is_correct": true,
           "feedback": "Correcto. Velocidad = 180/3 = 60 km/h; 60 × 5 = 300 km."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "240 km",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicaste 180 por 4/3, no por 5/3."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "360 km",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicaste por 2, no por 5 horas."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecto. Sumaste los 180 a 300 en lugar de calcular la distancia nueva."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Se calcula la tasa unitaria 180/3 = 60 km/h y se aplica a 5 horas: 60 × 5 = 300 km.",
       "difficulty": "6",
       "images": [],
@@ -197,31 +197,31 @@
       "context": "En Pereira, en un colegio la razón entre estudiantes y profesores es de 24:3.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "8:1",
           "is_correct": true,
           "feedback": "Correcto. Dividir ambos términos entre 3 da 8:1."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "12:1",
           "is_correct": false,
           "feedback": "Incorrecto. Dividiste entre 2 en lugar de entre 3."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "4:1",
           "is_correct": false,
           "feedback": "Incorrecto. Dividiste entre 6."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "24:2",
           "is_correct": false,
           "feedback": "Incorrecto. No simplificaste la razón."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Para simplificar una razón se divide numerador y denominador entre el mismo número: 24/3 = 8 y 3/3 = 1. Resultado 8:1.",
       "difficulty": "6",
       "images": [],
@@ -243,19 +243,19 @@
       "context": "En Bucaramanga, dos tiendas venden el mismo producto: tienda A cobra $12 000 por 3 kg, tienda B cobra $18 000 por 5 kg.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "La tienda B, porque su razón es $3600/kg",
           "is_correct": true,
           "feedback": "Correcto. A: 12 000/3 = 4 000/kg; B: 18 000/5 = 3 600/kg."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La tienda A, porque cobra menos en total",
           "is_correct": false,
           "feedback": "Incorrecto. Cobra menos en total, pero por kg es más cara."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Las dos ofrecen el mismo precio por kg",
           "is_correct": false,
           "feedback": "Incorrecto. 4 000/kg es distinto de 3 600/kg."
@@ -267,7 +267,7 @@
           "feedback": "Incorrecto. El peso menor no determina mejor precio."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Comparar tasas unitarias: dividir precio total entre kg. La tienda B tiene mejor precio por kilogramo.",
       "difficulty": "8",
       "images": [],
@@ -335,13 +335,13 @@
       "context": "En Cartagena, una empresa reporta que \"por cada 3 accidentes hubo 2 lesionados\". Un auditor cree que faltan datos porque un accidente puede tener varios lesionados.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El total de lesionados y el total de accidentes para obtener la tasa por accidente",
           "is_correct": true,
           "feedback": "Correcto. Esa tasa refleja lesionados promedio por accidente."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El número de vehículos investigados",
           "is_correct": false,
           "feedback": "Incorrecto. La cantidad de vehículos no es la magnitud adecuada."
@@ -359,7 +359,7 @@
           "feedback": "Incorrecto. La edad no es la magnitud base de la tasa."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Una tasa bien definida precisa las dos magnitudes que se comparan, en este caso lesionados por accidente.",
       "difficulty": "8",
       "images": [],

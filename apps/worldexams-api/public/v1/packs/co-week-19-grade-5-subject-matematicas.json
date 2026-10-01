@@ -13,19 +13,19 @@
       "context": "En clase de matemáticas en Popayán, la profesora explica qué es la moda al analizar los datos de una encuesta.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "El dato que más se repite en el conjunto.",
           "is_correct": true,
           "feedback": "La moda es la medida que indica el dato con mayor frecuencia."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El dato más grande de la lista.",
           "is_correct": false,
           "feedback": "El dato más grande es el máximo, no la moda."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El dato más pequeño de la lista.",
           "is_correct": false,
           "feedback": "El dato más pequeño es el mínimo, no la moda."
@@ -37,7 +37,7 @@
           "feedback": "Ese resultado es el promedio, no la moda."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Reconocer la moda como la medida de tendencia central que indica el dato con mayor frecuencia.",
       "difficulty": "4",
       "images": [],
@@ -59,13 +59,13 @@
       "context": "La profesora de un colegio de Ibagué dice que el promedio de notas ayuda a resumir mucha información en un solo número.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Porque resume los datos en un solo valor que representa al grupo.",
           "is_correct": true,
           "feedback": "El promedio permite comparar conjuntos de datos de forma sencilla."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque borra los datos originales y los hace desaparecer.",
           "is_correct": false,
           "feedback": "Los datos originales se conservan; el promedio solo los resume."
@@ -83,7 +83,7 @@
           "feedback": "El promedio opera con valores numéricos, no ordena nombres."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Comprender que el promedio es un valor representativo que permite comparar conjuntos de datos de forma sencilla.",
       "difficulty": "4",
       "images": [],
@@ -105,13 +105,13 @@
       "context": "Las notas de matemáticas de Valentina en Popayán son: 4, 4, 5, 3.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "4, porque (4 + 4 + 5 + 3) ÷ 4 = 4.",
           "is_correct": true,
           "feedback": "Se suman las notas y se dividen entre 4, y el resultado es 4."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "5, porque es la nota más alta.",
           "is_correct": false,
           "feedback": "La nota más alta es el máximo, no el promedio."
@@ -129,7 +129,7 @@
           "feedback": "16 es la suma; falta dividir entre el número de notas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Aplicar el procedimiento del promedio: sumar todos los datos y dividir entre el número total de datos.",
       "difficulty": "6",
       "images": [],
@@ -151,13 +151,13 @@
       "context": "En una encuesta del salón de un colegio de Cali sobre el sabor de helado favorito, 8 niños eligieron chocolate, 5 fresa, 4 vainilla y 3 mango.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Chocolate, porque es el sabor que más se repite.",
           "is_correct": true,
           "feedback": "El chocolate fue elegido 8 veces, más que los demás sabores."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Fresa, porque fue el segundo sabor.",
           "is_correct": false,
           "feedback": "La moda es el dato más frecuente, no el segundo."
@@ -175,7 +175,7 @@
           "feedback": "La moda depende de la frecuencia, no de ser clásico."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Aplicar el concepto de moda para identificar la categoría con mayor frecuencia en una encuesta.",
       "difficulty": "6",
       "images": [],
@@ -197,31 +197,31 @@
       "context": "Las edades de cinco estudiantes de quinto en Manizales son: 10, 11, 10, 12, 10.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "10 años, porque aparece tres veces, más que las demás edades.",
           "is_correct": true,
           "feedback": "El 10 se repite 3 veces, mientras 11 y 12 aparecen una sola vez."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "12 años, porque es la edad más alta.",
           "is_correct": false,
           "feedback": "La edad más alta es el máximo, no la moda."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "11 años, porque está en el medio de la lista.",
           "is_correct": false,
           "feedback": "El valor central es la mediana, no la moda."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "9 años, porque es la edad más baja.",
           "is_correct": false,
           "feedback": "El 9 no aparece en los datos y no es la moda."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Razonar con datos numéricos para hallar la moda, contando cuántas veces se repite cada valor.",
       "difficulty": "6",
       "images": [],
@@ -243,19 +243,19 @@
       "context": "En un colegio de Barranquilla, dos cursos hicieron una encuesta sobre frutas favoritas. En 5A la moda fue \"mango\"; en 5B la moda fue \"banano\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "La fruta que más se repite es distinta en cada curso.",
           "is_correct": true,
           "feedback": "Cada curso tiene una moda diferente, lo que muestra gustos distintos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Los dos cursos tienen exactamente los mismos gustos.",
           "is_correct": false,
           "feedback": "Las modas distintas indican gustos diferentes."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "En los dos cursos el mango fue la fruta más repetida.",
           "is_correct": false,
           "feedback": "El mango solo fue la moda en 5A, no en 5B."
@@ -267,7 +267,7 @@
           "feedback": "El banano fue la fruta más repetida en 5B."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Analizar y comparar las modas de dos conjuntos de datos para interpretar diferencias de preferencia.",
       "difficulty": "8",
       "images": [],
@@ -289,19 +289,19 @@
       "context": "La tabla muestra las notas finales de un grupo en ciencias: 5, 3, 4, 4, 4, 5, 3.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "La moda es 4 y el promedio es 4.",
           "is_correct": true,
           "feedback": "El 4 se repite 3 veces y la suma (28) dividida entre 7 da 4."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La moda es 5 y el promedio es 3.",
           "is_correct": false,
           "feedback": "El 5 se repite solo 2 veces y el promedio no es 3."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La moda es 3 y el promedio es 5.",
           "is_correct": false,
           "feedback": "El 3 se repite solo 2 veces y el promedio no es 5."
@@ -313,7 +313,7 @@
           "feedback": "Con esos datos sí se pueden calcular la moda y el promedio."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Analizar un conjunto de datos calculando a la vez la moda y el promedio para describir su comportamiento.",
       "difficulty": "8",
       "images": [],
@@ -335,13 +335,13 @@
       "context": "Una cooperativa escolar de Tunja quiere saber qué fruta vender más en los descansos y qué nota promedio tuvo el grupo para felicitar a un curso.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La moda para elegir la fruta preferida y el promedio para resumir las notas.",
           "is_correct": true,
           "feedback": "La moda señala la preferencia más frecuente y el promedio resume el desempeño general."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El promedio para elegir la fruta y la moda para las notas.",
           "is_correct": false,
           "feedback": "Para preferencias se usa la moda y para notas se usa el promedio."
@@ -359,7 +359,7 @@
           "feedback": "El dato más alto no representa ni la preferencia ni el grupo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Evaluar la pertinencia de cada medida: la moda ayuda a conocer la preferencia más frecuente y el promedio resume el desempeño general.",
       "difficulty": "10",
       "images": [],

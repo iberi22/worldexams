@@ -13,13 +13,13 @@
       "context": "Lea el siguiente párrafo incompleto: \"El páramo de Sumapaz es el más grande del mundo. ______, enfrenta graves amenazas debido a la expansión no controlada de la frontera agrícola\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Sin embargo",
           "is_correct": true,
           "feedback": "Correcto. \"Sin embargo\" es el conector adversativo que contrapone la importancia ecológica del páramo con la amenaza de degradación."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Por consiguiente",
           "is_correct": false,
           "feedback": "Incorrecto. \"Por consiguiente\" es un conector de consecuencia lógica, no de oposición o contraste."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. \"Además\" es un conector aditivo que sumaría información en el mismo sentido sin marcar adversidad."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Los conectores adversativos (sin embargo, no obstante, pero) garantizan la cohesión superficial al enlazar proposiciones que contraponen significados.",
       "difficulty": "4",
       "images": [],
@@ -59,31 +59,31 @@
       "context": "Observe la relación anafórica en la oración: \"Gabriel García Márquez publicó *Cien años de soledad* en 1967. **Esta obra** inmortalizó el realismo mágico en la literatura universal\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Una anáfora mediante un sintagma nominal demostrativo que retoma la novela mencionada previamente.",
           "is_correct": true,
           "feedback": "Correcto. La anáfora evita la repetición del título sustituyéndolo por un determinante demostrativo más sustantivo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Una catáfora que anuncia un personaje nuevo que aparecerá en el siguiente párrafo.",
           "is_correct": false,
           "feedback": "Incorrecto. La catáfora anticipa elementos posteriores; aquí se refiere a algo ya nombrado (*Cien años de soledad*)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Un conector de causa y efecto que explica el año de nacimiento del autor.",
           "is_correct": false,
           "feedback": "Incorrecto. No es un nexo conjuntivo causal sino un mecanismo de referencia pronominal/nominal."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Una elipsis donde se omite completamente el verbo principal de la oración.",
           "is_correct": false,
           "feedback": "Incorrecto. La elipsis consiste en suprimir elementos; aquí se introduce una frase sustitutiva explícita."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La anáfora es un mecanismo de cohesión léxico-gramatical que permite aludir a una entidad mencionada anteriormente en el texto, garantizando la continuidad temática.",
       "difficulty": "4",
       "images": [],
@@ -105,13 +105,13 @@
       "context": "Considere el texto: \"La deforestación destruye los bosques tropicales. En consecuencia, muchas especies de aves pierden su hábitat natural\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Causa y efecto, donde la pérdida de hábitat deriva de la destrucción de los bosques.",
           "is_correct": true,
           "feedback": "Correcto. \"En consecuencia\" señala que el segundo hecho es el resultado o efecto directo de la primera acción expuesta."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Condición hipotética que depende de un evento futuro impredecible.",
           "is_correct": false,
           "feedback": "Incorrecto. Los conectores condicionales son \"si\", \"siempre que\"; aquí se afirma una relación causal directa."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecto. Hay una ligazón lógica de derivación causal fundamental entre ambos enunciados."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Los conectores consecutivos o de consecuencia (en consecuencia, por lo tanto, por ende) estructuran el razonamiento causa-efecto en los textos.",
       "difficulty": "4",
       "images": [],
@@ -151,19 +151,19 @@
       "context": "Lea el fragmento: \"Los estudiantes llegaron al laboratorio. Sacaron las batas, limpiaron las mesas y comenzaron la titulación química\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Se omite el sujeto (\"Los estudiantes\") en las oraciones siguientes para evitar repeticiones innecesarias.",
           "is_correct": true,
           "feedback": "Correcto. La elipsis de sujeto mantiene la referencia temática implícita sin necesidad de escribir \"Los estudiantes\" antes de cada verbo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Se repite cinco veces el nombre del profesor a cargo del laboratorio.",
           "is_correct": false,
           "feedback": "Incorrecto. La elipsis consiste en la omisión y no en la repetición de palabras."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Se introduce un conector adversativo que contradice la primera frase.",
           "is_correct": false,
           "feedback": "Incorrecto. No hay conectores de oposición en el fragmento."
@@ -175,7 +175,7 @@
           "feedback": "Incorrecto. Los verbos están presentes; lo que se elide es el sujeto pronominal/nominal."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La elipsis es la supresión intencionada de elementos lingüísticos fácilmente deducibles por el contexto, evitando la redundancia y aligerando la lectura.",
       "difficulty": "4",
       "images": [],
@@ -197,31 +197,31 @@
       "context": "Determine qué grupo de conectores completa lógicamente el siguiente texto: \"El cambio climático avanza aceleradamente; ______, varios gobiernos continúan subsidiando los combustibles fósiles. ______, la emisión de gases de efecto invernadero sigue aumentando. ______, los científicos exigen acuerdos internacionales vinculantes\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "no obstante / Por esta razón / Por ello",
           "is_correct": true,
           "feedback": "Correcto. \"no obstante\" marca el contraste del subsidio; \"Por esta razón\" la consecuencia de emisiones; \"Por ello\" la conclusión con la exigencia científica."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "es decir / Por ejemplo / Sin embargo",
           "is_correct": false,
           "feedback": "Incorrecto. \"es decir\" no encaja para contrastar el avance del cambio con la inacción estatal."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "en primer lugar / porque / por el contrario",
           "is_correct": false,
           "feedback": "Incorrecto. Rompe la lógica deductiva y causal entre los párrafos del fragmento."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "además / aunque / pero",
           "is_correct": false,
           "feedback": "Incorrecto. \"además\" en la primera posición ignora el fuerte contraste entre la amenaza climática y los subsidios."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La elección articulada de secuencias de conectores (adversativo + consecutivo + explicativo) garantiza la progresión temática fluida y coherente del texto.",
       "difficulty": "6",
       "images": [],
@@ -243,31 +243,31 @@
       "context": "Un texto argumentativo de un estudiante dice: \"La música popular colombiana es hermosa. Mi tío tiene una tienda de zapatos en el centro de Pereira. El café suave tiene un excelente precio en el mercado internacional\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Porque sus oraciones no comparten una unidad temática común ni un hilo conductor que las vincule.",
           "is_correct": true,
           "feedback": "Correcto. La coherencia exige que las proposiciones estén subordinadas a un tema o sentido global; saltar de la música a la zapatería y al café destruye el tema."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque no utiliza suficientes comas ni puntos seguidos en la puntuación.",
           "is_correct": false,
           "feedback": "Incorrecto. El fallo no es superficial ni de puntuación gramatical sino de desconexión lógica y temática profunda."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque no cita a ningún autor extranjero de la Ilustración.",
           "is_correct": false,
           "feedback": "Incorrecto. Citar autores no otorga coherencia si las oraciones no guardan relación de sentido."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Porque fue escrito utilizando un procesador de texto digital.",
           "is_correct": false,
           "feedback": "Incorrecto. La coherencia es una propiedad del significado del texto independientemente del medio de escritura."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La coherencia global es la propiedad semántica que hace que un texto sea percibido como una unidad con sentido, donde todos los párrafos aportan a un tema central.",
       "difficulty": "6",
       "images": [],
@@ -289,19 +289,19 @@
       "context": "Lea el enunciado: \"Aunque la inflación ha cedido en los últimos meses, los precios de los alimentos básicos no han bajado en los supermercados\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Señala un obstáculo o condición previa (la baja de la inflación) que no impide la realización del hecho principal (precios altos).",
           "is_correct": true,
           "feedback": "Correcto. Los conectores concesivos (aunque, aun cuando) introducen una objeción que no invalida el hecho de la oración principal."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Demuestra que la inflación y los precios de alimentos son el mismo concepto económico.",
           "is_correct": false,
           "feedback": "Incorrecto. El texto los diferencia y contrapone su comportamiento."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Explica la causa biológica por la cual las personas consumen alimentos.",
           "is_correct": false,
           "feedback": "Incorrecto. El tema es estrictamente económico y no de nutrición o biología humana."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecto. No hay ninguna lista alfabética de bienes."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Los conectores concesivos (como \"Aunque\") introducen una restricción que no llega a anular la verdad de la proposición dominante.",
       "difficulty": "6",
       "images": [],
@@ -335,19 +335,19 @@
       "context": "Analice la sustitución léxica en el fragmento: \"La **biodiversidad** del Chocó biogeográfico es extraordinaria. Esta **riqueza biológica** constituye un patrimonio natural de la humanidad\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Sinónimo hiperonímico o sustituto léxico que evita la repetición exacta del término \"biodiversidad\".",
           "is_correct": true,
           "feedback": "Correcto. La sustitución por sinonimia o paráfrasis conceptual mantiene el referente temático enriqueciendo el vocabulario del escrito."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Antónimo absoluto que niega el valor ambiental de la región del Chocó.",
           "is_correct": false,
           "feedback": "Incorrecto. La frase reafirma y destaca el valor biológico, no lo contradice."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Conector ilativo de consecuencia lógica.",
           "is_correct": false,
           "feedback": "Incorrecto. Es un sintagma nominal sustitutivo y no una conjunción o conector lógico."
@@ -359,7 +359,7 @@
           "feedback": "Incorrecto. \"Riqueza biológica\" es un grupo nominal y no una forma verbal."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La cohesión léxica mediante sinonimia, hiperonimia o paráfrasis permite mantener la continuidad referente sin incurrir en repeticiones léxicas monótonas.",
       "difficulty": "6",
       "images": [],
@@ -427,31 +427,31 @@
       "context": "Un estudiante escribe el siguiente Párrafo A: \"La educación virtual creció durante la pandemia. Esto facilitó el acceso a clases desde casa. Muchos estudiantes no contaban con computador ni internet\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "No obstante",
           "is_correct": true,
           "feedback": "Correcto. Insertar \"No obstante\" explicita el fuerte contraste entre la facilidad teórica del acceso desde casa y la barrera real de conectividad."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "En consecuencia",
           "is_correct": false,
           "feedback": "Incorrecto. No tener computador no es la consecuencia de facilitar el acceso desde casa, sino un obstáculo oposicional."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Por ejemplo",
           "is_correct": false,
           "feedback": "Incorrecto. La falta de equipos es una limitación adverso-contrastiva y no un ejemplo de haber facilitado el acceso."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Es decir",
           "is_correct": false,
           "feedback": "Incorrecto. No se está refraseando la oración previa sino introduciendo la paradoja de la brecha digital."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Restablecer la cohesión exige identificar las grietas de significado entre proposiciones contiguas para insertar el conector que explicite la relación lógica oculta.",
       "difficulty": "6",
       "images": [],
@@ -473,31 +473,31 @@
       "context": "Analice el pasaje: \"La investigación científica requiere rigor metodológico y ética. Cuando los datos son falsificados para obtener financiamiento, la ciencia pierde su credibilidad ante la sociedad. De ahí que la honestidad intelectual sea el pilar insustituible del progreso académico\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Introduce la deducción necesaria derivada de la pérdida de credibilidad por fraude expuesta en la oración anterior.",
           "is_correct": true,
           "feedback": "Correcto. \"De ahí que\" opera como un marcador consecutivo-deductivo que vincula la consecuencia ética al diagnóstico de fraude precedente."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Contradice abiertamente la afirmación inicial sobre la necesidad del rigor metodológico.",
           "is_correct": false,
           "feedback": "Incorrecto. El cierre reafirma y consolida el rigor inicial y no lo contradice."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Cambia repentinamente la temática hacia la venta de insumos de laboratorio.",
           "is_correct": false,
           "feedback": "Incorrecto. Mantiene la unidad temática de la ética científica en el trabajo de investigación."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Añade una anécdota personal ficticia sobre un investigador colombiano.",
           "is_correct": false,
           "feedback": "Incorrecto. No hay una anécdota personal sino la formulación de un principio ético de cierre."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Los conectores ilativos o consecutivos (de ahí que, por ende) aseguran la coherencia lógica interna al derivar principios generales a partir de la evidencia analizada.",
       "difficulty": "8",
       "images": [],
@@ -519,19 +519,19 @@
       "context": "Lea el siguiente párrafo donde se incurre en una falla de **referencia pronominal amibgua**: \"El ministro de Hacienda se reunió con el director del banco central. **Él** declaró que los tipos de interés subirían el próximo mes\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "No permite determinar con certeza a cuál de los dos masculinos (el ministro o el director) se refiere la declaración.",
           "is_correct": true,
           "feedback": "Correcto. La presencia de dos antecedentes gramaticales masculinos en la frase anterior impide saber quién hizo la afirmación."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Transforma la oración en un poema en verso libre sobre los bancos.",
           "is_correct": false,
           "feedback": "Incorrecto. La falla es de imprecisión pronominal anafórica y no de género literario."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Demuestra que las tasas de interés son ilegales en Colombia.",
           "is_correct": false,
           "feedback": "Incorrecto. El problema abordado es de análisis lingüístico-cohesivo y no de legalidad bancaria."
@@ -543,7 +543,7 @@
           "feedback": "Incorrecto. El verbo no altera su sentido; el fallo es la referencia imprecisa del pronombre."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La ambigüedad en la referencia anafórica ocurre cuando un pronombre posee dos o más antecedentes posibles en el texto, quebrantando la claridad del sentido.",
       "difficulty": "8",
       "images": [],
@@ -703,19 +703,19 @@
       "context": "En un ensayo académico se pasa de discutir la teoría del contrato social en Jean-Jacques Rousseau a analizar la tasa de interés del Banco de la República en 2024, sin ningún párrafo de transición ni justificación metodológica.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Ruptura o abismo conceptual que desconcierta al lector y quiebra la unidad del ensayo.",
           "is_correct": true,
           "feedback": "Correcto. La ausencia de puentes explicativos entre disciplinas disímiles genera un salto injustificado en el desarrollo del texto."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Agilidad comunicativa propia de la poesía vanguardista moderna.",
           "is_correct": false,
           "feedback": "Incorrecto. En el texto expositivo-académico el salto inconexo destruye el rigor y no se justifica como licencia poética."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Demostración impecable de las matemáticas financieras aplicadas al derecho.",
           "is_correct": false,
           "feedback": "Incorrecto. La falta de transición justamente impide entender cuál es la posible relación entre ambos temas."
@@ -727,7 +727,7 @@
           "feedback": "Incorrecto. Las normas APA regulan la citación bibliográfica y no disimulan los vacíos de transición temática."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Los párrafos de transición cumplen la función crucial de vincular bloques temáticos diversos, garantizando que el lector comprenda la relación entre las partes.",
       "difficulty": "8",
       "images": [],
@@ -749,31 +749,31 @@
       "context": "Un candidato a un cargo público presenta un plan de gobierno redactado con párrafos que inician todos con la frase: \"En lo que respecta a...\". El texto utiliza conectores sofisticados (\"no obstante\", \"por consiguiente\", \"en suma\"), pero al examinar las propuestas, se observa que son vagas y contradictorias entre sí.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Mantiene una apariencia superficial de cohesión (uso de conectores) que enmascara una falta de coherencia profunda de las propuestas.",
           "is_correct": true,
           "feedback": "Correcto. La cohesión es la estructura formal externa; un texto puede tener excelente cohesión gramatical y ser vacíamente incoherente en su contenido real."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Es un modelo de rigor técnico que debería ser imitado por todos los políticos del país.",
           "is_correct": false,
           "feedback": "Incorrecto. La vaguedad y contradicción de las propuestas anulan el valor de la propuesta de gobierno."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Demuestra que la cohesión gramatical es completamente innecesaria para la redacción de leyes.",
           "is_correct": false,
           "feedback": "Incorrecto. La cohesión es necesaria pero no suficiente si el contenido subyacente es incoherente."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Fue escrito por un equipo de lingüistas especializados en gramática generativa.",
           "is_correct": false,
           "feedback": "Incorrecto. El uso de conectores comodín es un vicio común en la retórica engañosa y no prueba rigor lingüístico."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Diferenciar entre cohesión (forma gramatical externa) y coherencia (unidad de sentido profunda) permite evaluar críticamente textos con alta retórica pero escasa solidez lógica.",
       "difficulty": "10",
       "images": [],
@@ -795,13 +795,13 @@
       "context": "Dos periódicos relatan la misma reunión diplomática. El Periódico A utiliza conectores de adición y causa (\"y\", \"debido a que\") para mostrar un clima de diálogo continuo. El Periódico B utiliza conectores adversativos y de ruptura (\"sin embargo\", \"a pesar de la fricción\") para destacar las divergencias.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La selección intencionada de marcas de cohesión (aditiva vs. adversativa) orienta la percepción política de la reunión en la audiencia.",
           "is_correct": true,
           "feedback": "Correcto. Los conectores no son marcas neutras; elegir resaltar el consenso (adición) o la tensión (adversidad) construye el enfoque ideológico de la noticia."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Ambos periódicos son idénticos y no producen ningún efecto diferencial en los lectores.",
           "is_correct": false,
           "feedback": "Incorrecto. Las marcas de cohesión seleccionadas modifican sustancialmente el encuadre político de la reunión."
@@ -819,7 +819,7 @@
           "feedback": "Incorrecto. No hay prohibición sobre conectores; lo que se evalúa es el sesgo de la elección discursiva."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Evaluar el papel ideológico de la cohesión permite comprender cómo la gramática de conectores moldea la interpretación del hecho periodístico.",
       "difficulty": "10",
       "images": [],
@@ -841,13 +841,13 @@
       "context": "Un estudiante entrega un ensayo de 5 páginas sin una sola división de párrafo, escrito como un bloque gigantesco continuo de texto sin puntos aparte ni conectores entre oraciones.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Saturación visual y falta de segmentación de las unidades de pensamiento, lo que impide identificar la jerarquía y progresión temática del escrito.",
           "is_correct": true,
           "feedback": "Correcto. Los párrafos y puntos aparte funcionan como descansos cognitivos e indicadores de cambio de subtema; omitirlos ahoga la lectura."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Un error exclusivo de caligrafía que se resuelve cambiando el color de la tinta de la impresora.",
           "is_correct": false,
           "feedback": "Incorrecto. Es un fallo de maquetación textual e hiper-estructuración sintáctica y no de tinta física."
@@ -865,7 +865,7 @@
           "feedback": "Incorrecto. Atenta contra la procesabilidad cognitiva del escrito y no contra la propiedad intelectual."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La división en párrafos y el uso de puntuación estructurante son herramientas indispensables para que el lector pueda procesar la información de forma ordenada.",
       "difficulty": "10",
       "images": [],
@@ -887,19 +887,19 @@
       "context": "En un análisis sobre el discurso de las redes sociales, un lingüista afirma: \"El formato de comunicación mediante hilos de micro-mensajes (*threads*) fomenta una cohesión ultralocal entre frases inmediatas, pero sacrifica la coherencia global del razonamiento a largo plazo\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Privilegia el encadenamiento veloz de respuestas inmediatas en detrimento de la articulación sintética y profunda de un argumento amplio.",
           "is_correct": true,
           "feedback": "Correcto. Los micro-mensajes enlazan bien la respuesta al tuit anterior (cohesión local), pero pierden el hilo del argumento matriz amplio (coherencia global)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Prohíbe que los jóvenes utilicen el idioma español para escribir sus tareas escolares.",
           "is_correct": false,
           "feedback": "Incorrecto. El análisis se enfoca en la estructura lógica del formato de hilo y no en la prohibición del idioma."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Demuestra que las redes sociales son invulnerables a las fallas de ortografía.",
           "is_correct": false,
           "feedback": "Incorrecto. El texto aborda la coherencia del pensamiento y no la corrección ortográfica de los tuits."
@@ -911,7 +911,7 @@
           "feedback": "Incorrecto. El lingüista justamente contrapone la fragmentación del hilo frente al rigor amplio del libro estructurado."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Evaluar las nuevas formas de escritura digital requiere analizar las tensiones entre la cohesión local rápida y la pérdida de la coherencia temática sostenida.",
       "difficulty": "10",
       "images": [],

@@ -13,31 +13,31 @@
       "context": "En la mina La Colosa, ubicada en el municipio de Cajamarca en el Tolima, los ingenieros analizan muestras de roca que contienen el elemento químico oro, símbolo Au y número atómico 79.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Au, número atómico 79.",
           "is_correct": true,
           "feedback": "Correcto. El oro se representa con el símbolo Au (del latín aurum) y posee 79 protones en su núcleo, lo que corresponde a su número atómico."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Or, número atómico 80.",
           "is_correct": false,
           "feedback": "Incorrecto. El símbolo del oro no es Or sino Au, derivado del latín aurum; además su número atómico es 79, no 80."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "AG, número atómico 47.",
           "is_correct": false,
           "feedback": "Incorrecto. AG corresponde a la plata (del latín argentum), no al oro; además el número atómico 47 pertenece a la plata."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "O, número atómico 8.",
           "is_correct": false,
           "feedback": "Incorrecto. La letra O representa al oxígeno, un no metal del grupo 16; el oro es un metal de transición del grupo 11."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El símbolo químico del oro es Au, derivado de su nombre en latín aurum, y su número atómico es 79, lo que significa que cada átomo de oro tiene 79 protones en su núcleo. El oro pertenece al grupo 11 de la tabla periódica y se clasifica como metal de transición. En Colombia, la extracción artesanal de oro se realiza principalmente en los departamentos de Antioquia, Chocó y Bolívar.",
       "difficulty": "4",
       "images": [],
@@ -59,13 +59,13 @@
       "context": "En la clase de ciencias del colegio San José de Barranquilla, la profesora explica que el berilio (Be), el magnesio (Mg) y el calcio (Ca) presentan comportamientos químicos similares.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Porque los tres elementos tienen el mismo número de electrones de valencia en su última capa.",
           "is_correct": true,
           "feedback": "Correcto. Los elementos de un mismo grupo comparten la cantidad de electrones en su capa de valencia, lo que determina su comportamiento químico similar."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque los tres elementos tienen la misma masa atómica expresada en unidades de masa atómica.",
           "is_correct": false,
           "feedback": "Incorrecto. Aunque estén en el mismo grupo, su masa atómica es distinta porque tienen diferente número de protones y neutrones."
@@ -83,7 +83,7 @@
           "feedback": "Incorrecto. La ubicación geográfica de los yacimientos no determina la posición de un elemento en la tabla periódica."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Los elementos ubicados en el mismo grupo (columna vertical) de la tabla periódica comparten el mismo número de electrones de valencia, es decir, la misma cantidad de electrones en su última capa electrónica. Esto explica que tengan propiedades químicas similares, como formar el mismo tipo de iones o enlaces. El berilio (Be), magnesio (Mg) y calcio (Ca) son metales alcalinotérreos del grupo 2 y todos tienden a perder dos electrones para formar cationes con carga +2.",
       "difficulty": "4",
       "images": [],
@@ -105,13 +105,13 @@
       "context": "En el taller de mineralogía del Instituto Tecnológico de Medellín, los estudiantes comparan dos muestras: una contiene berilio (Be, grupo 2, período 2) y otra contiene estroncio (Sr, grupo 2, período 5).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El radio atómico del estroncio es mayor que el del berilio porque tiene más niveles de energía.",
           "is_correct": true,
           "feedback": "Correcto. Al descender en un grupo se añaden capas electrónicas, lo que aumenta la distancia entre el núcleo y los electrones más externos, incrementando el radio atómico."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El radio atómico del berilio es mayor que el del estroncio porque tiene mayor número de protones.",
           "is_correct": false,
           "feedback": "Incorrecto. Aunque el berilio tiene menos protones, el número de capas electrónicas determina el radio; más capas significan mayor radio."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecto. El radio atómico está determinado principalmente por el número de capas electrónicas y la carga nuclear efectiva, no por los neutrones."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El radio atómico aumenta al descender en un grupo de la tabla periódica, porque cada período adicional añade una nueva capa de electrones más alejada del núcleo. Por esta razón, el estroncio (Sr, período 5) tiene un radio atómico mucho mayor que el berilio (Be, período 2), a pesar de estar en el mismo grupo 2. Esta tendencia explica por qué elementos como el cesio y el francio, ubicados en la parte inferior de la tabla, son los metales más grandes.",
       "difficulty": "4",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "En una práctica de laboratorio del colegio INEM de Bucaramanga, los estudiantes miden la energía necesaria para arrancar el primer electrón de tres muestras metálicas: litio (Li), sodio (Na) y potasio (K).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La energía de ionización del litio es mayor que la del sodio, y la del sodio mayor que la del potasio.",
           "is_correct": true,
           "feedback": "Correcto. La energía de ionización disminuye al descender en un grupo, porque los electrones externos están más alejados del núcleo y se retienen con menor fuerza."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La energía de ionización del potasio es mayor que la del litio porque tiene más protones.",
           "is_correct": false,
           "feedback": "Incorrecto. Aunque el potasio tiene más protones, su electrón externo está más lejos del núcleo y se retiene con menor fuerza, requiriendo menos energía."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto. La energía de ionización depende de la distancia del electrón al núcleo y de la carga nuclear efectiva, no del número de neutrones."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La energía de ionización es la energía mínima necesaria para arrancar el primer electrón de un átomo neutro en estado gaseoso. En un grupo de la tabla periódica, la energía de ionización disminuye de arriba hacia abajo, porque al añadir capas electrónicas el electrón más externo está más lejos del núcleo y experimenta menor atracción. Por eso el litio tiene mayor energía de ionización que el sodio, y este mayor que el potasio.",
       "difficulty": "6",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "En el proceso de refinación del oro en una planta de Medellín, los químicos utilizan mercurio (Hg) y cianuro de sodio (NaCN) para extraer el metal precioso del mineral triturado.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Porque pertenecen a períodos distintos y tienen diferente configuración electrónica en sus niveles internos.",
           "is_correct": true,
           "feedback": "Correcto. Aunque comparten bloque, su ubicación en períodos diferentes genera configuraciones electrónicas y propiedades físico-químicas distintas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque ambos elementos tienen el mismo número atómico y la misma cantidad de neutrones en el núcleo.",
           "is_correct": false,
           "feedback": "Incorrecto. El oro tiene número atómico 79 y el mercurio 80; además sus cantidades de neutrones son diferentes."
@@ -267,7 +267,7 @@
           "feedback": "Incorrecto. El oro y el mercurio tienen orígenes históricos y descubridores diferentes; su ubicación periódica es independiente de su descubrimiento geográfico."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Aunque el oro (Au) y el mercurio (Hg) pertenecen al bloque d de los metales de transición, ocupan períodos distintos: el oro está en el período 6 y el mercurio en el período 6 también pero grupo 12. La diferente configuración electrónica en sus capas internas explica sus propiedades únicas, como que el mercurio sea líquido a temperatura ambiente mientras que el oro es sólido. La posición en la tabla periódica determina el comportamiento de cada elemento, no su origen geográfico.",
       "difficulty": "6",
       "images": [],
@@ -289,31 +289,31 @@
       "context": "En el laboratorio de la Universidad Nacional sede Bogotá, los investigadores clasifican muestras minerales traídas de la mina de esmeraldas de Coscuez, en Boyacá, según los elementos que las componen.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Son metales de transición del bloque d, ubicados en el centro de la tabla periódica.",
           "is_correct": true,
           "feedback": "Correcto. El cromo y el vanadio son metales de transición del bloque d, y precisamente el cromo y el vanadio dan el color verde a las esmeraldas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Son gases nobles del grupo 18, ubicados en el extremo derecho de la tabla.",
           "is_correct": false,
           "feedback": "Incorrecto. Los gases nobles como el helio y el neón son inertes, mientras que el cromo y el vanadio son metales reactivos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Son metaloides del bloque p, ubicados en la escalera diagonal de la tabla.",
           "is_correct": false,
           "feedback": "Incorrecto. El cromo y el vanadio son metales típicos, no metaloides como el silicio o el boro."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Son lantánidos del período 6, ubicados en la parte inferior de la tabla.",
           "is_correct": false,
           "feedback": "Incorrecto. Los lantánidos como el cerio y el neodimio están separados en la parte inferior; el cromo y el vanadio están en el bloque d principal."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El cromo (Cr, grupo 6) y el vanadio (V, grupo 5) son metales de transición ubicados en el bloque d de la tabla periódica. Estos elementos se caracterizan por tener electrones en sus orbitales d y pueden presentar varios estados de oxidación. En el caso de las esmeraldas colombianas, pequeñas cantidades de cromo y vanadio sustituyen al aluminio en la estructura del cristal de berilo, y son los responsables del característico color verde intenso.",
       "difficulty": "6",
       "images": [],
@@ -335,19 +335,19 @@
       "context": "En la planta de procesamiento de oro de Segovia, Antioquia, los ingenieros comparan dos métodos de extracción: uno usa mercurio (Hg) y otro usa cianuro (CN-). Ambos métodos dependen de las propiedades periódicas de los elementos involucrados.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Porque el oro forma enlaces estables con ligandos que le ofrecen pares de electrones, aprovechando su baja electronegatividad y configuración electrónica particular.",
           "is_correct": true,
           "feedback": "Correcto. El oro, aunque poco electronegativo, forma complejos estables debido a efectos relativistas y a su configuración electrónica, lo que permite su unión con el cianuro."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque el oro es el elemento más electronegativo de la tabla periódica y atrae cualquier electrón disponible.",
           "is_correct": false,
           "feedback": "Incorrecto. El oro no es el elemento más electronegativo; el flúor ocupa ese lugar, y el oro es un metal con baja electronegatividad."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque el mercurio y el cianuro son gases nobles y no reaccionan con el oro de manera permanente.",
           "is_correct": false,
           "feedback": "Incorrecto. El mercurio es un metal líquido y el cianuro es un anión muy reactivo; ninguno es un gas noble como el helio o el argón."
@@ -359,7 +359,7 @@
           "feedback": "Incorrecto. El oro pertenece al grupo 11 de los metales de transición, no al grupo 1 de los metales alcalinos como el sodio o el potasio."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La extracción del oro se basa en su capacidad para formar complejos estables con ligandos como el cianuro (CN-) y para formar amalgamas con el mercurio. Estos procesos aprovechan las propiedades periódicas del oro: su baja electronegatividad, su configuración electrónica con orbitales d incompletos y efectos relativistas que hacen que el oro tenga comportamiento químico único. La amalgama con mercurio y el complejo aurocianuro son ejemplos clásicos del comportamiento de los metales de transición en la tabla periódica.",
       "difficulty": "8",
       "images": [],
@@ -381,31 +381,31 @@
       "context": "En el Museo de Esmeraldas de Bogotá, los guías explican a los turistas que las gemas más valoradas son las de Muzo (Boyacá), y que su color verde se debe a impurezas de ciertos metales en la estructura del cristal.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Realizar un análisis espectroscópico para detectar la presencia de cromo y vanadio en ambas muestras.",
           "is_correct": true,
           "feedback": "Correcto. La espectroscopia atómica permite identificar los elementos presentes y sus cantidades, confirmando si ambas contienen cromo y vanadio."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Observar únicamente el brillo y la transparencia bajo una lámpara de luz normal.",
           "is_correct": false,
           "feedback": "Incorrecto. El brillo y la transparencia son propiedades ópticas subjetivas que no permiten identificar qué elementos específicos contiene el mineral."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Calentar las muestras hasta fundirlas y medir el volumen del líquido resultante.",
           "is_correct": false,
           "feedback": "Incorrecto. El volumen del líquido no indica la composición elemental; muchas sustancias tienen puntos de fusión similares."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Comparar el peso exacto de las esmeraldas en una balanza de precisión de joyería.",
           "is_correct": false,
           "feedback": "Incorrecto. La masa de la gema depende de su tamaño y densidad, pero no permite identificar qué elementos cromóforos contiene."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Para confirmar la presencia de elementos específicos en una muestra mineral se usan técnicas analíticas como la espectroscopia de absorción atómica o la fluorescencia de rayos X. Estas técnicas identifican los elementos químicos presentes y permiten diferenciar, por ejemplo, si el color verde de una esmeralda se debe a cromo, vanadio o hierro. Las esmeraldas colombianas de mayor calidad contienen trazas de cromo y vanadio dentro de la estructura cristalina del berilio.",
       "difficulty": "8",
       "images": [],
@@ -473,13 +473,13 @@
       "context": "En un foro ambiental en Cali, expertos debaten si Colombia debería prohibir completamente el uso de mercurio en la minería de oro, considerando que este elemento (Hg, grupo 12, período 6) es altamente tóxico pero muy efectivo para extraer oro.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El mercurio es líquido a temperatura ambiente por su configuración electrónica particular; su toxicidad se debe a su afinidad por el azufre biológico, por lo que debería sustituirse por métodos menos dañinos como la cianuración controlada.",
           "is_correct": true,
           "feedback": "Correcto. El argumento combina correctamente las propiedades periódicas del mercurio (líquido, afinidad por azufre) con una propuesta ambiental viable para Colombia."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El mercurio debería seguir utilizándose porque es un gas noble que no contamina el aire ni el agua de los ríos colombianos.",
           "is_correct": false,
           "feedback": "Incorrecto. El mercurio no es un gas noble; pertenece al grupo 12 de metales de transición y contamina gravemente los ecosistemas acuáticos."
@@ -497,7 +497,7 @@
           "feedback": "Incorrecto. Los elementos químicos no se eliminan de la tabla periódica; la solución es regular su uso y buscar alternativas químicas más seguras."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El mercurio (Hg) es un metal de transición del grupo 12 y período 6, único metal líquido a temperatura ambiente. Su toxicidad se debe a su fuerte afinidad por los grupos tiol (-SH) de las proteínas, alterando funciones biológicas esenciales. En Colombia, la minería de oro con mercurio afecta a comunidades en Antioquia, Chocó y Bolívar, contaminando ríos y causando enfermedades neurológicas. La solución implica reemplazar el mercurio por métodos más limpios como la cianuración en circuitos cerrados, respetando el conocimiento de las propiedades periódicas para diseñar procesos seguros.",
       "difficulty": "10",
       "images": [],
@@ -519,31 +519,31 @@
       "context": "El Ministerio de Minas y Energía debe decidir si financia una nueva explotación de tierras raras en La Guajira, elementos como el neodimio (Nd) y el disprosio (Dy), fundamentales para fabricar imanes de turbinas eólicas y teléfonos celulares.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Las tierras raras son metales de transición interna con propiedades magnéticas únicas y alto valor estratégico en tecnología limpia; su extracción debe hacerse con técnicas que minimicen el impacto ambiental.",
           "is_correct": true,
           "feedback": "Correcto. El argumento combina la posición de las tierras raras en la tabla (lantánidos) con su valor tecnológico y la necesidad de prácticas ambientalmente responsables."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Las tierras raras son gases nobles abundantes en la atmósfera colombiana y se obtienen fácilmente sin riesgo ambiental.",
           "is_correct": false,
           "feedback": "Incorrecto. Las tierras raras son metales sólidos del bloque f, no gases nobles, y su extracción es compleja y contaminante si no se regula."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Las tierras raras son más peligrosas que el oro porque explotan al contacto con el agua de los mares colombianos.",
           "is_correct": false,
           "feedback": "Incorrecto. Las tierras raras no explotan al contacto con el agua; esa propiedad corresponde a metales alcalinos como el sodio o el potasio."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Las tierras raras carecen de aplicación industrial porque son inertes y no forman compuestos químicos estables.",
           "is_correct": false,
           "feedback": "Incorrecto. Las tierras raras forman múltiples compuestos y son esenciales en imanes, catalizadores, láseres y electrónica moderna."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Las tierras raras son un grupo de diecisiete elementos químicos: los quince lantánidos más el escandio y el itrio. Incluyen elementos como el neodimio (Nd) y el disprosio (Dy), fundamentales en la fabricación de imanes permanentes para turbinas eólicas, vehículos eléctricos y teléfonos celulares. Poseen propiedades magnéticas y ópticas únicas gracias a su configuración electrónica con orbitales f parcialmente ocupados. Una extracción responsable de estos elementos en La Guajira podría diversificar la economía minera colombiana más allá del oro, reduciendo el impacto ambiental y aumentando el valor agregado tecnológico.",
       "difficulty": "10",
       "images": [],

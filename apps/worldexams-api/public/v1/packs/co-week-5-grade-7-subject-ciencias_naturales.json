@@ -13,31 +13,31 @@
       "context": "En la huerta escolar de Duitama, los estudiantes siembran papa por tubérculos y maíz por semillas y comparan ambos métodos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "La sexual une células de dos progenitores y la asexual genera descendientes de uno solo",
           "is_correct": true,
           "feedback": "Correcta porque define el número de progenitores y la combinación genética."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La asexual necesita dos progenitores y la sexual solo uno",
           "is_correct": false,
           "feedback": "Incorrecta porque invierte la definición de cada tipo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ambas necesitan siempre flores y frutos",
           "is_correct": false,
           "feedback": "Incorrecta porque la reproducción asexual no requiere flores ni frutos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Ambas producen hijos idénticos sin variación",
           "is_correct": false,
           "feedback": "Incorrecta porque la reproducción sexual genera variación genética."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La reproducción sexual combina material genético y crea diversidad, mientras la asexual copia al progenitor. Recordar esta diferencia permite clasificar casos como el tubérculo de papa frente a la semilla de maíz.",
       "difficulty": "4",
       "images": [],
@@ -65,13 +65,13 @@
           "feedback": "Incorrecta porque la caída de hojas no traslada polen."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "El traslado del polen hasta el estigma para permitir la fecundación",
           "is_correct": true,
           "feedback": "Correcta porque ese traslado inicia la formación de frutos y semillas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La absorción de agua por las raíces",
           "is_correct": false,
           "feedback": "Incorrecta porque la absorción de agua es nutrición, no reproducción."
@@ -83,7 +83,7 @@
           "feedback": "Incorrecta porque el intercambio gaseoso no produce fecundación."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Los polinizadores como abejas y colibríes llevan polen entre flores. Sin polinización no hay fecundación ni cosecha, por eso proteger a los polinizadores cuida la producción de café y frutales.",
       "difficulty": "4",
       "images": [],
@@ -203,13 +203,13 @@
           "feedback": "Incorrecta porque eso describe mitosis del crecimiento, no fecundación."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "La unión del óvulo y el espermatozoide que forma una nueva célula",
           "is_correct": true,
           "feedback": "Correcta porque esa unión origina el cigoto con información de ambos progenitores."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El crecimiento del bebé solo con información de la madre",
           "is_correct": false,
           "feedback": "Incorrecta porque el cigoto combina información de ambos progenitores."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecta porque las semillas corresponden a la reproducción de plantas."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La fecundación forma el cigoto, que se divide y desarrolla hasta el nacimiento. Abordar el tema con lenguaje científico y respeto permite comprender el origen de la variación hereditaria en humanos.",
       "difficulty": "6",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "En un trapiche panelero del Valle del Cauca siembran caña por trozos de tallo y siempre obtienen cañas idénticas a la planta madre.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Porque hubo polinización cruzada con otras variedades",
           "is_correct": false,
           "feedback": "Incorrecta porque la polinización cruzada generaría variación, no clones."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque es reproducción asexual sin combinación de gametos",
           "is_correct": true,
           "feedback": "Correcta porque al no haber fecundación, el material genético se conserva."
@@ -267,7 +267,7 @@
           "feedback": "Incorrecta porque el trozo proviene de un solo progenitor."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La propagación vegetativa produce clones: útil para mantener variedades dulces y rendidoras, pero riesgoso ante plagas porque todas las plantas comparten la misma vulnerabilidad. Analizar ventajas y riesgos orienta decisiones agrícolas.",
       "difficulty": "8",
       "images": [],
@@ -341,25 +341,25 @@
           "feedback": "Incorrecta porque la disponibilidad de agua sí presiona la supervivencia vegetal."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "El potrero de semilla tendrá plantas variadas y más probabilidad de resistir",
           "is_correct": true,
           "feedback": "Correcta porque la variación genética aumenta las opciones de adaptación."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El potrero clonado tendrá mayor variación genética",
           "is_correct": false,
           "feedback": "Incorrecta porque los clones son genéticamente idénticos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Ambos potreros morirán porque la reproducción no influye en la resistencia",
           "is_correct": false,
           "feedback": "Incorrecta porque la diversidad genética sí influye en la resistencia poblacional."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La reproducción sexual genera combinaciones nuevas y la asexual las conserva. Comparar potreros muestra que la diversidad es un seguro biológico frente a sequías, plagas y enfermedades.",
       "difficulty": "8",
       "images": [],
@@ -387,25 +387,25 @@
           "feedback": "Incorrecta porque el número de compartidos no es evidencia científica."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Se contrasta con estudios médicos y se consulta al personal de salud antes de decidir",
           "is_correct": true,
           "feedback": "Correcta porque aplica pensamiento crítico y acude a fuentes confiables."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Se acepta porque todas las vacunas causan infertilidad",
           "is_correct": false,
           "feedback": "Incorrecta porque no existe evidencia de que esa vacuna cause infertilidad."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Se rechaza la vacuna sin consultar porque las redes siempre mienten",
           "is_correct": false,
           "feedback": "Incorrecta porque decidir sin consultar fuentes confiables también es acrítico."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Evaluar mensajes de salud exige verificar estudios, entidades sanitarias y profesionales. La vacuna contra el papiloma previene cáncer y protege la salud reproductiva, según la evidencia médica disponible.",
       "difficulty": "10",
       "images": [],
@@ -433,13 +433,13 @@
           "feedback": "Incorrecta porque una sola observación no representa el fenómeno."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Comparar flores cubiertas que excluyen insectos con flores visitadas libremente y registrar frutos formados",
           "is_correct": true,
           "feedback": "Correcta porque aísla la variable polinizador y mide su efecto en la fructificación."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Regar todas las plantas con jugos de colores",
           "is_correct": false,
           "feedback": "Incorrecta porque introduce sustancias extrañas y no mide polinización."
@@ -451,7 +451,7 @@
           "feedback": "Incorrecta porque destruye el objeto de estudio e impide observar la fructificación."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Un experimento con grupo de exclusión y grupo libre, con registro de frutos y repeticiones, demuestra causalmente el papel de los polinizadores. Este diseño conecta polinización, fecundación y ciclo de vida con evidencia local.",
       "difficulty": "10",
       "images": [],

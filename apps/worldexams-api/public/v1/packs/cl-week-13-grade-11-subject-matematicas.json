@@ -58,13 +58,13 @@
       "context": "Valentina analiza situaciones académicas en Santiago.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$\\sqrt{56}$ unidades",
           "is_correct": true,
           "feedback": "¡Correcto! |v| = sqrt(2^2 + 4^2 + 6^2) = sqrt(56)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$12$ unidades",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste las componentes directamente sin elevar al cuadrado."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. Calculaste mal la suma de los cuadrados."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La magnitud de un vector 3D es |v| = sqrt(x^2 + y^2 + z^2) = sqrt(2^2 + 4^2 + 6^2) = sqrt(56) unidades.",
       "difficulty": "4",
       "images": [],
@@ -103,13 +103,13 @@
       "context": "Camila analiza situaciones académicas en Valparaíso.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$\\sqrt{83}$ unidades",
           "is_correct": true,
           "feedback": "¡Correcto! |v| = sqrt(3^2 + 5^2 + 7^2) = sqrt(83)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$15$ unidades",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste las componentes directamente sin elevar al cuadrado."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. Calculaste mal la suma de los cuadrados."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La magnitud de un vector 3D es |v| = sqrt(x^2 + y^2 + z^2) = sqrt(3^2 + 5^2 + 7^2) = sqrt(83) unidades.",
       "difficulty": "4",
       "images": [],
@@ -148,19 +148,19 @@
       "context": "Isidora analiza situaciones académicas en Concepción.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$\\sqrt{116}$ unidades",
           "is_correct": true,
           "feedback": "¡Correcto! |v| = sqrt(4^2 + 6^2 + 8^2) = sqrt(116)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$18$ unidades",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste las componentes directamente sin elevar al cuadrado."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$116$ unidades",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste aplicar la raíz cuadrada al resultado."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. Calculaste mal la suma de los cuadrados."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La magnitud de un vector 3D es |v| = sqrt(x^2 + y^2 + z^2) = sqrt(4^2 + 6^2 + 8^2) = sqrt(116) unidades.",
       "difficulty": "4",
       "images": [],
@@ -193,31 +193,31 @@
       "context": "Catalina analiza situaciones académicas en Antofagasta.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$\\sqrt{155}$ unidades",
           "is_correct": true,
           "feedback": "¡Correcto! |v| = sqrt(5^2 + 7^2 + 9^2) = sqrt(155)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$21$ unidades",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste las componentes directamente sin elevar al cuadrado."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$155$ unidades",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste aplicar la raíz cuadrada al resultado."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$\\sqrt{167}$ unidades",
           "is_correct": false,
           "feedback": "Incorrecto. Calculaste mal la suma de los cuadrados."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La magnitud de un vector 3D es |v| = sqrt(x^2 + y^2 + z^2) = sqrt(5^2 + 7^2 + 9^2) = sqrt(155) unidades.",
       "difficulty": "6",
       "images": [],
@@ -238,19 +238,19 @@
       "context": "Martina analiza situaciones académicas en Temuco.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$\\sqrt{200}$ unidades",
           "is_correct": true,
           "feedback": "¡Correcto! |v| = sqrt(6^2 + 8^2 + 10^2) = sqrt(200)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$24$ unidades",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste las componentes directamente sin elevar al cuadrado."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$200$ unidades",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste aplicar la raíz cuadrada al resultado."
@@ -262,7 +262,7 @@
           "feedback": "Incorrecto. Calculaste mal la suma de los cuadrados."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La magnitud de un vector 3D es |v| = sqrt(x^2 + y^2 + z^2) = sqrt(6^2 + 8^2 + 10^2) = sqrt(200) unidades.",
       "difficulty": "6",
       "images": [],
@@ -283,31 +283,31 @@
       "context": "Sofía analiza situaciones académicas en La Serena.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$\\sqrt{251}$ unidades",
           "is_correct": true,
           "feedback": "¡Correcto! |v| = sqrt(7^2 + 9^2 + 11^2) = sqrt(251)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$27$ unidades",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste las componentes directamente sin elevar al cuadrado."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$251$ unidades",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste aplicar la raíz cuadrada al resultado."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$\\sqrt{263}$ unidades",
           "is_correct": false,
           "feedback": "Incorrecto. Calculaste mal la suma de los cuadrados."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La magnitud de un vector 3D es |v| = sqrt(x^2 + y^2 + z^2) = sqrt(7^2 + 9^2 + 11^2) = sqrt(251) unidades.",
       "difficulty": "6",
       "images": [],
@@ -328,19 +328,19 @@
       "context": "Fernanda analiza situaciones académicas en Viña del Mar.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$\\sqrt{308}$ unidades",
           "is_correct": true,
           "feedback": "¡Correcto! |v| = sqrt(8^2 + 10^2 + 12^2) = sqrt(308)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$30$ unidades",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste las componentes directamente sin elevar al cuadrado."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$308$ unidades",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste aplicar la raíz cuadrada al resultado."
@@ -352,7 +352,7 @@
           "feedback": "Incorrecto. Calculaste mal la suma de los cuadrados."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La magnitud de un vector 3D es |v| = sqrt(x^2 + y^2 + z^2) = sqrt(8^2 + 10^2 + 12^2) = sqrt(308) unidades.",
       "difficulty": "6",
       "images": [],
@@ -373,31 +373,31 @@
       "context": "Lucas analiza situaciones académicas en Iquique.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$\\sqrt{371}$ unidades",
           "is_correct": true,
           "feedback": "¡Correcto! |v| = sqrt(9^2 + 11^2 + 13^2) = sqrt(371)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$33$ unidades",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste las componentes directamente sin elevar al cuadrado."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$371$ unidades",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste aplicar la raíz cuadrada al resultado."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$\\sqrt{383}$ unidades",
           "is_correct": false,
           "feedback": "Incorrecto. Calculaste mal la suma de los cuadrados."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La magnitud de un vector 3D es |v| = sqrt(x^2 + y^2 + z^2) = sqrt(9^2 + 11^2 + 13^2) = sqrt(371) unidades.",
       "difficulty": "6",
       "images": [],
@@ -463,19 +463,19 @@
       "context": "Diego analiza situaciones académicas en Talca.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$\\sqrt{515}$ unidades",
           "is_correct": true,
           "feedback": "¡Correcto! |v| = sqrt(11^2 + 13^2 + 15^2) = sqrt(515)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$39$ unidades",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste las componentes directamente sin elevar al cuadrado."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$515$ unidades",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste aplicar la raíz cuadrada al resultado."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto. Calculaste mal la suma de los cuadrados."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La magnitud de un vector 3D es |v| = sqrt(x^2 + y^2 + z^2) = sqrt(11^2 + 13^2 + 15^2) = sqrt(515) unidades.",
       "difficulty": "8",
       "images": [],
@@ -508,31 +508,31 @@
       "context": "Matías analiza situaciones académicas en Arica.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$\\sqrt{596}$ unidades",
           "is_correct": true,
           "feedback": "¡Correcto! |v| = sqrt(12^2 + 14^2 + 16^2) = sqrt(596)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$42$ unidades",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste las componentes directamente sin elevar al cuadrado."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$596$ unidades",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste aplicar la raíz cuadrada al resultado."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$\\sqrt{608}$ unidades",
           "is_correct": false,
           "feedback": "Incorrecto. Calculaste mal la suma de los cuadrados."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La magnitud de un vector 3D es |v| = sqrt(x^2 + y^2 + z^2) = sqrt(12^2 + 14^2 + 16^2) = sqrt(596) unidades.",
       "difficulty": "8",
       "images": [],
@@ -553,19 +553,19 @@
       "context": "Vicente analiza situaciones académicas en Puerto Montt.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$\\sqrt{683}$ unidades",
           "is_correct": true,
           "feedback": "¡Correcto! |v| = sqrt(13^2 + 15^2 + 17^2) = sqrt(683)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$45$ unidades",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste las componentes directamente sin elevar al cuadrado."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$683$ unidades",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste aplicar la raíz cuadrada al resultado."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. Calculaste mal la suma de los cuadrados."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La magnitud de un vector 3D es |v| = sqrt(x^2 + y^2 + z^2) = sqrt(13^2 + 15^2 + 17^2) = sqrt(683) unidades.",
       "difficulty": "8",
       "images": [],
@@ -643,13 +643,13 @@
       "context": "Sebastián analiza situaciones académicas en Calama.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$\\sqrt{875}$ unidades",
           "is_correct": true,
           "feedback": "¡Correcto! |v| = sqrt(15^2 + 17^2 + 19^2) = sqrt(875)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$51$ unidades",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste las componentes directamente sin elevar al cuadrado."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. Calculaste mal la suma de los cuadrados."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La magnitud de un vector 3D es |v| = sqrt(x^2 + y^2 + z^2) = sqrt(15^2 + 17^2 + 19^2) = sqrt(875) unidades.",
       "difficulty": "8",
       "images": [],
@@ -688,19 +688,19 @@
       "context": "Javier analiza situaciones académicas en Valdivia.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$\\sqrt{980}$ unidades",
           "is_correct": true,
           "feedback": "¡Correcto! |v| = sqrt(16^2 + 18^2 + 20^2) = sqrt(980)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$54$ unidades",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste las componentes directamente sin elevar al cuadrado."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$980$ unidades",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste aplicar la raíz cuadrada al resultado."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. Calculaste mal la suma de los cuadrados."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La magnitud de un vector 3D es |v| = sqrt(x^2 + y^2 + z^2) = sqrt(16^2 + 18^2 + 20^2) = sqrt(980) unidades.",
       "difficulty": "8",
       "images": [],
@@ -733,19 +733,19 @@
       "context": "Valentina analiza situaciones académicas en Santiago.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$\\sqrt{1091}$ unidades",
           "is_correct": true,
           "feedback": "¡Correcto! |v| = sqrt(17^2 + 19^2 + 21^2) = sqrt(1091)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$57$ unidades",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste las componentes directamente sin elevar al cuadrado."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$1091$ unidades",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste aplicar la raíz cuadrada al resultado."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. Calculaste mal la suma de los cuadrados."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La magnitud de un vector 3D es |v| = sqrt(x^2 + y^2 + z^2) = sqrt(17^2 + 19^2 + 21^2) = sqrt(1091) unidades.",
       "difficulty": "10",
       "images": [],
@@ -778,13 +778,13 @@
       "context": "Camila analiza situaciones académicas en Valparaíso.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$\\sqrt{1208}$ unidades",
           "is_correct": true,
           "feedback": "¡Correcto! |v| = sqrt(18^2 + 20^2 + 22^2) = sqrt(1208)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$60$ unidades",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste las componentes directamente sin elevar al cuadrado."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. Calculaste mal la suma de los cuadrados."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La magnitud de un vector 3D es |v| = sqrt(x^2 + y^2 + z^2) = sqrt(18^2 + 20^2 + 22^2) = sqrt(1208) unidades.",
       "difficulty": "10",
       "images": [],
@@ -868,31 +868,31 @@
       "context": "Catalina analiza situaciones académicas en Antofagasta.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$\\sqrt{1460}$ unidades",
           "is_correct": true,
           "feedback": "¡Correcto! |v| = sqrt(20^2 + 22^2 + 24^2) = sqrt(1460)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$66$ unidades",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste las componentes directamente sin elevar al cuadrado."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$1460$ unidades",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste aplicar la raíz cuadrada al resultado."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$\\sqrt{1472}$ unidades",
           "is_correct": false,
           "feedback": "Incorrecto. Calculaste mal la suma de los cuadrados."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La magnitud de un vector 3D es |v| = sqrt(x^2 + y^2 + z^2) = sqrt(20^2 + 22^2 + 24^2) = sqrt(1460) unidades.",
       "difficulty": "10",
       "images": [],

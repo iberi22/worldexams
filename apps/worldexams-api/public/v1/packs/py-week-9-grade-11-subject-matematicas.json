@@ -13,31 +13,31 @@
       "context": "En Asunción, un grupo de estudiantes de Paraguay analiza un problema de Función Lineal y Afín.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$f(x) = mx + n$",
           "is_correct": true,
           "feedback": "¡Correcto! Esta expresión representa la ecuación explícita de la recta."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$f(x) = mx^2 + n$",
           "is_correct": false,
           "feedback": "Incorrecto. Esta ecuación es cuadrática, no afín lineal."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$f(x) = m(x - n)^2$",
           "is_correct": false,
           "feedback": "Incorrecto. Es un modelo polinomial cuadrático trasladado."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$f(x) = \\frac{m}{x} + n$",
           "is_correct": false,
           "feedback": "Incorrecto. Esta es una función racional, no afín."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Una función afín se expresa como $f(x) = mx + n$, donde $m$ representa la pendiente de la recta y $n$ la ordenada en el origen.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -58,31 +58,31 @@
       "context": "En San Lorenzo, un grupo de estudiantes de Paraguay analiza un problema de Función Lineal y Afín.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$m = \\frac{y_2 - y_1}{x_2 - x_1}$",
           "is_correct": true,
           "feedback": "¡Correcto! La pendiente es la razón de cambio entre la ordenada y la abscisa de ambos puntos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$m = \\frac{x_2 - x_1}{y_2 - y_1}$",
           "is_correct": false,
           "feedback": "Incorrecto. Colocó el cambio de la abscisa en el numerador de la razón de cambio."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$m = (y_2 - y_1)(x_2 - x_1)$",
           "is_correct": false,
           "feedback": "Incorrecto. La pendiente se define como cociente, no como producto."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$m = y_2 - x_2$",
           "is_correct": false,
           "feedback": "Incorrecto. Revise la definición clásica de la pendiente de una recta."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La pendiente de una recta es la relación entre el cambio vertical y el cambio horizontal, definida por la razón $m = \\frac{y_2 - y_1}{x_2 - x_1}$ para $x_2 \\neq x_1$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -103,13 +103,13 @@
       "context": "En Luque, un grupo de estudiantes de Paraguay analiza un problema de Función Lineal y Afín.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$f(x) = 3.000x + 13.000$",
           "is_correct": true,
           "feedback": "¡Correcto! La tarifa fija actúa como la ordenada en el origen ($n$) y el costo por kilómetro como la pendiente ($m$)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$f(x) = 13.000x + 3.000$",
           "is_correct": false,
           "feedback": "Incorrecto. Colocó la tarifa por kilómetro como el costo fijo constante."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. No se suman ambos costos directamente de forma proporcional."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El costo de un viaje consta de una parte fija (₲ 13000) y una parte variable que depende de los kilómetros recorridos ($3.000$ por cada uno de los $x$ kilómetros). Por tanto, la función afín es $f(x) = 3.000x + 13000$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,31 +148,31 @@
       "context": "En Encarnación, un grupo de estudiantes de Paraguay analiza un problema de Función Lineal y Afín.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$f(x) = 3.000x + 14.000$",
           "is_correct": true,
           "feedback": "¡Correcto! La tarifa fija actúa como la ordenada en el origen ($n$) y el costo por kilómetro como la pendiente ($m$)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$f(x) = 14.000x + 3.000$",
           "is_correct": false,
           "feedback": "Incorrecto. Colocó la tarifa por kilómetro como el costo fijo constante."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$f(x) = 3.000(x + 14.000)$",
           "is_correct": false,
           "feedback": "Incorrecto. Esto multiplicaría la tarifa de base por los kilómetros, lo cual es incorrecto."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$f(x) = 17.000x$",
           "is_correct": false,
           "feedback": "Incorrecto. No se suman ambos costos directamente de forma proporcional."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El costo de un viaje consta de una parte fija (₲ 14000) y una parte variable que depende de los kilómetros recorridos ($3.000$ por cada uno de los $x$ kilómetros). Por tanto, la función afín es $f(x) = 3.000x + 14000$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -193,13 +193,13 @@
       "context": "En Ciudad del Este, un grupo de estudiantes de Paraguay analiza un problema de Función Lineal y Afín.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$f(x) = 3.000x + 15.000$",
           "is_correct": true,
           "feedback": "¡Correcto! La tarifa fija actúa como la ordenada en el origen ($n$) y el costo por kilómetro como la pendiente ($m$)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$f(x) = 15.000x + 3.000$",
           "is_correct": false,
           "feedback": "Incorrecto. Colocó la tarifa por kilómetro como el costo fijo constante."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. No se suman ambos costos directamente de forma proporcional."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El costo de un viaje consta de una parte fija (₲ 15000) y una parte variable que depende de los kilómetros recorridos ($3.000$ por cada uno de los $x$ kilómetros). Por tanto, la función afín es $f(x) = 3.000x + 15000$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -238,13 +238,13 @@
       "context": "En Caacupé, un grupo de estudiantes de Paraguay analiza un problema de Función Lineal y Afín.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$f(x) = 3.000x + 16.000$",
           "is_correct": true,
           "feedback": "¡Correcto! La tarifa fija actúa como la ordenada en el origen ($n$) y el costo por kilómetro como la pendiente ($m$)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$f(x) = 16.000x + 3.000$",
           "is_correct": false,
           "feedback": "Incorrecto. Colocó la tarifa por kilómetro como el costo fijo constante."
@@ -262,7 +262,7 @@
           "feedback": "Incorrecto. No se suman ambos costos directamente de forma proporcional."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El costo de un viaje consta de una parte fija (₲ 16000) y una parte variable que depende de los kilómetros recorridos ($3.000$ por cada uno de los $x$ kilómetros). Por tanto, la función afín es $f(x) = 3.000x + 16000$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -283,19 +283,19 @@
       "context": "En Pilar, un grupo de estudiantes de Paraguay analiza un problema de Función Lineal y Afín.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$f(x) = 3.000x + 17.000$",
           "is_correct": true,
           "feedback": "¡Correcto! La tarifa fija actúa como la ordenada en el origen ($n$) y el costo por kilómetro como la pendiente ($m$)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$f(x) = 17.000x + 3.000$",
           "is_correct": false,
           "feedback": "Incorrecto. Colocó la tarifa por kilómetro como el costo fijo constante."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$f(x) = 3.000(x + 17.000)$",
           "is_correct": false,
           "feedback": "Incorrecto. Esto multiplicaría la tarifa de base por los kilómetros, lo cual es incorrecto."
@@ -307,7 +307,7 @@
           "feedback": "Incorrecto. No se suman ambos costos directamente de forma proporcional."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El costo de un viaje consta de una parte fija (₲ 17000) y una parte variable que depende de los kilómetros recorridos ($3.000$ por cada uno de los $x$ kilómetros). Por tanto, la función afín es $f(x) = 3.000x + 17000$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -328,31 +328,31 @@
       "context": "En Coronel Oviedo, un grupo de estudiantes de Paraguay analiza un problema de Función Lineal y Afín.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$f(x) = 3.000x + 18.000$",
           "is_correct": true,
           "feedback": "¡Correcto! La tarifa fija actúa como la ordenada en el origen ($n$) y el costo por kilómetro como la pendiente ($m$)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$f(x) = 18.000x + 3.000$",
           "is_correct": false,
           "feedback": "Incorrecto. Colocó la tarifa por kilómetro como el costo fijo constante."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$f(x) = 3.000(x + 18.000)$",
           "is_correct": false,
           "feedback": "Incorrecto. Esto multiplicaría la tarifa de base por los kilómetros, lo cual es incorrecto."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$f(x) = 21.000x$",
           "is_correct": false,
           "feedback": "Incorrecto. No se suman ambos costos directamente de forma proporcional."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El costo de un viaje consta de una parte fija (₲ 18000) y una parte variable que depende de los kilómetros recorridos ($3.000$ por cada uno de los $x$ kilómetros). Por tanto, la función afín es $f(x) = 3.000x + 18000$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -463,13 +463,13 @@
       "context": "En Asunción, un grupo de estudiantes de Paraguay analiza un problema de Función Lineal y Afín.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$f(x) = 3.000x + 21.000$",
           "is_correct": true,
           "feedback": "¡Correcto! La tarifa fija actúa como la ordenada en el origen ($n$) y el costo por kilómetro como la pendiente ($m$)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$f(x) = 21.000x + 3.000$",
           "is_correct": false,
           "feedback": "Incorrecto. Colocó la tarifa por kilómetro como el costo fijo constante."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto. No se suman ambos costos directamente de forma proporcional."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El costo de un viaje consta de una parte fija (₲ 21000) y una parte variable que depende de los kilómetros recorridos ($3.000$ por cada uno de los $x$ kilómetros). Por tanto, la función afín es $f(x) = 3.000x + 21000$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -553,13 +553,13 @@
       "context": "En Luque, un grupo de estudiantes de Paraguay analiza un problema de Función Lineal y Afín.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$f(x) = 3.000x + 23.000$",
           "is_correct": true,
           "feedback": "¡Correcto! La tarifa fija actúa como la ordenada en el origen ($n$) y el costo por kilómetro como la pendiente ($m$)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$f(x) = 23.000x + 3.000$",
           "is_correct": false,
           "feedback": "Incorrecto. Colocó la tarifa por kilómetro como el costo fijo constante."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. No se suman ambos costos directamente de forma proporcional."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El costo de un viaje consta de una parte fija (₲ 23000) y una parte variable que depende de los kilómetros recorridos ($3.000$ por cada uno de los $x$ kilómetros). Por tanto, la función afín es $f(x) = 3.000x + 23000$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -598,13 +598,13 @@
       "context": "En Encarnación, un grupo de estudiantes de Paraguay analiza un problema de Función Lineal y Afín.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$f(x) = 3.000x + 24.000$",
           "is_correct": true,
           "feedback": "¡Correcto! La tarifa fija actúa como la ordenada en el origen ($n$) y el costo por kilómetro como la pendiente ($m$)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$f(x) = 24.000x + 3.000$",
           "is_correct": false,
           "feedback": "Incorrecto. Colocó la tarifa por kilómetro como el costo fijo constante."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. No se suman ambos costos directamente de forma proporcional."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El costo de un viaje consta de una parte fija (₲ 24000) y una parte variable que depende de los kilómetros recorridos ($3.000$ por cada uno de los $x$ kilómetros). Por tanto, la función afín es $f(x) = 3.000x + 24000$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -688,19 +688,19 @@
       "context": "En Caacupé, un grupo de estudiantes de Paraguay analiza un problema de Función Lineal y Afín.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$f(x) = 3.000x + 26.000$",
           "is_correct": true,
           "feedback": "¡Correcto! La tarifa fija actúa como la ordenada en el origen ($n$) y el costo por kilómetro como la pendiente ($m$)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$f(x) = 26.000x + 3.000$",
           "is_correct": false,
           "feedback": "Incorrecto. Colocó la tarifa por kilómetro como el costo fijo constante."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$f(x) = 3.000(x + 26.000)$",
           "is_correct": false,
           "feedback": "Incorrecto. Esto multiplicaría la tarifa de base por los kilómetros, lo cual es incorrecto."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. No se suman ambos costos directamente de forma proporcional."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El costo de un viaje consta de una parte fija (₲ 26000) y una parte variable que depende de los kilómetros recorridos ($3.000$ por cada uno de los $x$ kilómetros). Por tanto, la función afín es $f(x) = 3.000x + 26000$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -733,13 +733,13 @@
       "context": "En Pilar, un grupo de estudiantes de Paraguay analiza un problema de Función Lineal y Afín.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$f(x) = 3.000x + 27.000$",
           "is_correct": true,
           "feedback": "¡Correcto! La tarifa fija actúa como la ordenada en el origen ($n$) y el costo por kilómetro como la pendiente ($m$)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$f(x) = 27.000x + 3.000$",
           "is_correct": false,
           "feedback": "Incorrecto. Colocó la tarifa por kilómetro como el costo fijo constante."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. No se suman ambos costos directamente de forma proporcional."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El costo de un viaje consta de una parte fija (₲ 27000) y una parte variable que depende de los kilómetros recorridos ($3.000$ por cada uno de los $x$ kilómetros). Por tanto, la función afín es $f(x) = 3.000x + 27000$.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -778,13 +778,13 @@
       "context": "En Coronel Oviedo, un grupo de estudiantes de Paraguay analiza un problema de Función Lineal y Afín.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$f(x) = 3.000x + 28.000$",
           "is_correct": true,
           "feedback": "¡Correcto! La tarifa fija actúa como la ordenada en el origen ($n$) y el costo por kilómetro como la pendiente ($m$)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$f(x) = 28.000x + 3.000$",
           "is_correct": false,
           "feedback": "Incorrecto. Colocó la tarifa por kilómetro como el costo fijo constante."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. No se suman ambos costos directamente de forma proporcional."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El costo de un viaje consta de una parte fija (₲ 28000) y una parte variable que depende de los kilómetros recorridos ($3.000$ por cada uno de los $x$ kilómetros). Por tanto, la función afín es $f(x) = 3.000x + 28000$.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -868,31 +868,31 @@
       "context": "En Villarrica, un grupo de estudiantes de Paraguay analiza un problema de Función Lineal y Afín.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$f(x) = 3.000x + 30.000$",
           "is_correct": true,
           "feedback": "¡Correcto! La tarifa fija actúa como la ordenada en el origen ($n$) y el costo por kilómetro como la pendiente ($m$)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$f(x) = 30.000x + 3.000$",
           "is_correct": false,
           "feedback": "Incorrecto. Colocó la tarifa por kilómetro como el costo fijo constante."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$f(x) = 3.000(x + 30.000)$",
           "is_correct": false,
           "feedback": "Incorrecto. Esto multiplicaría la tarifa de base por los kilómetros, lo cual es incorrecto."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$f(x) = 33.000x$",
           "is_correct": false,
           "feedback": "Incorrecto. No se suman ambos costos directamente de forma proporcional."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El costo de un viaje consta de una parte fija (₲ 30000) y una parte variable que depende de los kilómetros recorridos ($3.000$ por cada uno de los $x$ kilómetros). Por tanto, la función afín es $f(x) = 3.000x + 30000$.",
       "difficulty": "10",
       "images": [],

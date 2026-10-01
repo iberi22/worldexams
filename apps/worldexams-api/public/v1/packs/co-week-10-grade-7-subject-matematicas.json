@@ -13,19 +13,19 @@
       "context": "En Bogotá, el profesor explica que dos magnitudes son inversamente proporcionales cuando una aumenta y la otra disminuye en la misma proporción.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Cuando al aumentar una, la otra disminuye en la misma proporción",
           "is_correct": true,
           "feedback": "Correcto. Esa es la definición de proporcionalidad inversa."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Cuando al aumentar una, la otra también aumenta",
           "is_correct": false,
           "feedback": "Incorrecto. Eso describe la proporcionalidad directa."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Cuando las dos magnitudes siempre valen lo mismo",
           "is_correct": false,
           "feedback": "Incorrecto. La igualdad de valores no define la proporcionalidad."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Eso no describe ninguna relación de proporcionalidad."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Dos magnitudes son inversamente proporcionales si su producto es constante: al multiplicar una por un factor, la otra se divide entre ese mismo factor.",
       "difficulty": "4",
       "images": [],
@@ -59,19 +59,19 @@
       "context": "En Medellín, se presentan cuatro situaciones de una obra para identificar la proporcionalidad inversa.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Más obreros en la obra, menos días para terminarla",
           "is_correct": true,
           "feedback": "Correcto. Al aumentar los obreros, el tiempo necesario disminuye."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Más cuadernos comprados, mayor costo total",
           "is_correct": false,
           "feedback": "Incorrecto. Ambas magnitudes aumentan juntas: es directa."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Más velocidad de un carro, mayor distancia recorrida en una hora",
           "is_correct": false,
           "feedback": "Incorrecto. A mayor velocidad, mayor distancia: es directa."
@@ -83,7 +83,7 @@
           "feedback": "Incorrecto. No hay una relación proporcional constante entre ellas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "En la opción correcta el producto (obreros $\\times$ días) se mantiene constante, que es la señal de la proporcionalidad inversa.",
       "difficulty": "4",
       "images": [],
@@ -151,31 +151,31 @@
       "context": "En Barranquilla, un bus viaja de la ciudad a Santa Marta a $60\\text{ km/h}$ y tarda $3$ horas. Otro día viaja a $90\\text{ km/h}$ por la misma ruta.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$2$ horas",
           "is_correct": true,
           "feedback": "Correcto. Distancia $60 \\times 3 = 180\\text{ km}$; tiempo $180 \\div 90 = 2$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$1.5$ horas",
           "is_correct": false,
           "feedback": "Incorrecto. Error al dividir la distancia constante entre $90$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$4.5$ horas",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicaste por el factor en lugar de dividir."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$3$ horas",
           "is_correct": false,
           "feedback": "Incorrecto. A mayor velocidad, el tiempo debe disminuir."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Velocidad y tiempo son inversamente proporcionales cuando la distancia es fija: $60 \\times 3 = 90 \\times t$, de donde $t = 2$ horas.",
       "difficulty": "6",
       "images": [],
@@ -243,31 +243,31 @@
       "context": "En Bucaramanga, una tabla registra obreros y días: con $2$ obreros se tarda $24$ días, con $4$ obreros $12$ días y con $8$ obreros $6$ días.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$48$",
           "is_correct": true,
           "feedback": "Correcto. $2 \\times 24 = 48$, $4 \\times 12 = 48$ y $8 \\times 6 = 48$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$26$",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste $2 + 24$ en lugar de multiplicar."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$12$",
           "is_correct": false,
           "feedback": "Incorrecto. Tomaste solo uno de los valores de la tabla."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$24$",
           "is_correct": false,
           "feedback": "Incorrecto. Confundiste un dato de la tabla con la constante."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "En la proporcionalidad inversa el producto es constante: $2 \\times 24 = 4 \\times 12 = 8 \\times 6 = 48$.",
       "difficulty": "8",
       "images": [],
@@ -289,19 +289,19 @@
       "context": "En Manizales, $3$ máquinas iguales producen un pedido de cajas en $5$ días. La fábrica pone a trabajar $6$ máquinas al mismo ritmo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$2.5$ días",
           "is_correct": true,
           "feedback": "Correcto. $3 \\times 5 = 15$; $15 \\div 6 = 2.5$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$10$ días",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicaste por $2$ en lugar de dividir."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$7.5$ días",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste días en lugar de repartir la carga constante."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecto. Restaste máquinas de días sin usar el producto constante."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La carga total es $3 \\times 5 = 15$ unidades máquina-día. Con $6$ máquinas: $15 \\div 6 = 2.5$ días.",
       "difficulty": "8",
       "images": [],
@@ -335,31 +335,31 @@
       "context": "En Cartagena, se estudian cuatro tablas que relacionan las magnitudes $A$ y $B$ en un experimento.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$(1, 20)$, $(2, 10)$, $(4, 5)$",
           "is_correct": true,
           "feedback": "Correcto. Los productos son $20$, $20$ y $20$: la constante se mantiene."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$(1, 20)$, $(2, 40)$, $(4, 80)$",
           "is_correct": false,
           "feedback": "Incorrecto. Aquí el cociente es constante: es proporcionalidad directa."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$(1, 20)$, $(2, 22)$, $(4, 24)$",
           "is_correct": false,
           "feedback": "Incorrecto. Ni el producto ni el cociente se mantienen constantes."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$(1, 20)$, $(2, 18)$, $(4, 10)$",
           "is_correct": false,
           "feedback": "Incorrecto. Los productos $20$, $36$ y $40$ no son iguales."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Solo la tabla A mantiene el producto constante ($A \\times B = 20$), condición de la proporcionalidad inversa.",
       "difficulty": "8",
       "images": [],

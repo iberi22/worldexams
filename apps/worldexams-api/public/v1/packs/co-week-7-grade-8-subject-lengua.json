@@ -19,13 +19,13 @@
           "feedback": "Quevedo es el líder del Conceptismo, la corriente opuesta."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Luis de Góngora",
           "is_correct": true,
           "feedback": "Su estilo fue tan influyente que al Culteranismo también se le llama Gongorismo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Lope de Vega",
           "is_correct": false,
           "feedback": "Lope de Vega es conocido principalmente por su teatro y una poesía más clara."
@@ -37,7 +37,7 @@
           "feedback": "Cervantes es el maestro de la novela moderna, no del culteranismo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Luis de Góngora transformó la poesía española buscando la perfección formal y un lenguaje noble que se alejara de la expresión cotidiana.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -71,19 +71,19 @@
           "feedback": "Aunque podía haber crítica, su foco era la belleza estética."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Crear un mundo de belleza absoluta mediante un lenguaje sonoro y brillante.",
           "is_correct": true,
           "feedback": "Se prioriza la forma, la musicalidad y la riqueza de las imágenes."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Registrar de forma objetiva los descubrimientos científicos del siglo XVII.",
           "is_correct": false,
           "feedback": "La literatura culterana es subjetiva e idealizada, no científica."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "El Culteranismo busca la fascinación del lector a través de los sentidos (oído, vista) y de un vocabulario culto y selecto.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -105,19 +105,19 @@
       "context": "Los poetas culteranos utilizaban palabras de origen latino para elevar el tono de sus poemas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Arcaísmos",
           "is_correct": false,
           "feedback": "Los arcaísmos son palabras antiguas que han caído en desuso."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Neologismos",
           "is_correct": false,
           "feedback": "Los neologismos son palabras nuevas creadas para realidades nuevas."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Cultismos",
           "is_correct": true,
           "feedback": "El uso masivo de cultismos es una de las señas de identidad del Culteranismo."
@@ -129,7 +129,7 @@
           "feedback": "Las jergas son lenguajes técnicos o de grupos específicos, no necesariamente cultos."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Los cultismos (como \"púrpura\", \"argénteo\", \"canoro\") permiten al poeta crear una atmósfera de nobleza y erudición clásica.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -157,13 +157,13 @@
           "feedback": "Eran expertos en gramática y dominaban perfectamente la lengua."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Para imitar la estructura sintáctica del latín y dar mayor prestigio al poema.",
           "is_correct": true,
           "feedback": "El latín era la lengua de cultura suprema y el hipérbaton le daba un aire solemne."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Para que las rimas fueran más fáciles de encontrar al final de los versos.",
           "is_correct": false,
           "feedback": "Aunque ayuda a la rima, el motivo principal era la distinción estilística."
@@ -175,7 +175,7 @@
           "feedback": "Sus poemas eran fruto de un trabajo de pulido y corrección minucioso."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El hipérbaton obliga al lector a detenerse y reconstruir la frase, convirtiendo la lectura en un desafío intelectual reservado para personas cultas.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -249,13 +249,13 @@
           "feedback": "Es una influencia cultural y literaria, no un proyecto político."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "El rechazo a la religión cristiana en favor de los dioses antiguos.",
           "is_correct": false,
           "feedback": "El uso de la mitología era un recurso estético aceptado por la cultura cristiana del momento."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La vinculación de la poesía con la tradición culta y clásica de la Antigüedad.",
           "is_correct": true,
           "feedback": "El mito sirve como marco para el despliegue de imágenes brillantes y cultas."
@@ -267,7 +267,7 @@
           "feedback": "Los temas clásicos se recreaban con una sensibilidad y estilo totalmente nuevos."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "La mitología clásica proporciona al Culteranismo un repertorio de imágenes y símbolos conocidos por la élite intelectual, permitiendo juegos alusivos complejos.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -301,19 +301,19 @@
           "feedback": "Se le criticaba por ser excesivamente culto y oscuro."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Que se preocupaba tanto por el adorno exterior que el contenido perdía sentido u oscuridad.",
           "is_correct": true,
           "feedback": "Se decía que era una cáscara brillante pero vacía o difícil de romper."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Que no sabía rimar correctamente en los sonetos.",
           "is_correct": false,
           "feedback": "Góngora era un maestro absoluto de la técnica métrica."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La \"oscuridad\" culterana era vista por sus detractores como un defecto que impedía la comunicación, mientras que para sus defensores era una virtud que elevaba la poesía.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -341,13 +341,13 @@
           "feedback": "En el Barroco todas las artes comparten la misma sensibilidad estética."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Ambas buscan la sencillez para que el fiel se concentre en la oración.",
           "is_correct": false,
           "feedback": "Ambas buscan la fascinación mediante la complejidad y el adorno."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ambas comparten el principio de llenar el espacio con adornos complejos para maravillar al espectador.",
           "is_correct": true,
           "feedback": "Es el concepto de \"horror vacui\" o miedo al vacío, propio del Barroco."
@@ -359,7 +359,7 @@
           "feedback": "El mecenazgo existía, pero la relación es estética y conceptual."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "El Culteranismo es la manifestación literaria de la tendencia barroca hacia la ornamentación, la curva y el dinamismo visual trasladado a las palabras.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -427,13 +427,13 @@
       "context": "Durante el siglo XX, la Generación del 27 (Lorca, Alberti, etc.) rescató la figura de Góngora en su tercer centenario, considerándolo un maestro de la metáfora moderna.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Porque querían volver a escribir en latín y griego como él.",
           "is_correct": false,
           "feedback": "Los poetas del 27 escribían en un español moderno y vibrante."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque apreciaban su capacidad para crear imágenes autónomas y su libertad creativa con el lenguaje.",
           "is_correct": true,
           "feedback": "Vieron en Góngora a un precursor de la metáfora pura y el arte por el arte."
@@ -451,7 +451,7 @@
           "feedback": "Eran profundos conocedores de toda la tradición literaria española."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La reivindicación de Góngora en 1927 supuso el reconocimiento de la importancia de la forma y la autonomía del lenguaje poético frente al sentimentalismo.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -473,13 +473,13 @@
       "context": "El Culteranismo ha sido criticado a veces como un arte \"elitista\" que desprecia la comunicación con la mayoría de la gente.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Como un acto de bondad para no molestar a la gente que no sabía leer.",
           "is_correct": false,
           "feedback": "No era por bondad, sino por una concepción aristocrática del arte."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Como una visión aristocrática del arte que prioriza la excelencia técnica sobre la accesibilidad social.",
           "is_correct": true,
           "feedback": "Para Góngora, el esfuerzo del lector era parte del valor de la obra de arte."
@@ -497,7 +497,7 @@
           "feedback": "En su época la poesía se difundía mucho por copias manuscritas, no solo por venta de libros."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El debate sobre el elitismo en el arte tiene en el Culteranismo uno de sus ejemplos más claros, enfrentando la \"oscuridad brillante\" con la \"claridad popular\".\n\n---",
       "difficulty": "10",
       "images": [],

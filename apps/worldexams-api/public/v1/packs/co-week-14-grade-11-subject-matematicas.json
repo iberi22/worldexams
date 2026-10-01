@@ -59,13 +59,13 @@
       "context": "Un laboratorio farmacéutico en Bogotá analiza la concentración de un medicamento en el torrente sanguíneo a lo largo de las horas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$m = 4$",
           "is_correct": true,
           "feedback": "Correcto: la derivada evaluada en x=1 otorga la pendiente exacta."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$m = 2$",
           "is_correct": false,
           "feedback": "Incorrecto: solo se tomó el coeficiente del término lineal."
@@ -83,7 +83,7 @@
           "feedback": "Incorrecto: se confundió el valor de f(1) con la derivada f'(1)."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La pendiente de la recta tangente es $m = f'(1)$. Como $f'(x) = 2x + 2$, evaluando en $x = 1$ se obtiene $m = 2(1) + 2 = 4$.",
       "difficulty": "4",
       "images": [],
@@ -151,13 +151,13 @@
       "context": "Un cultivo de flores en la Sabana de Bogotá estudia la tasa de crecimiento de las plantas bajo ciertas condiciones de riego.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$m = 6$",
           "is_correct": true,
           "feedback": "Correcto: la derivada evaluada en x=1 otorga la pendiente exacta."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$m = 4$",
           "is_correct": false,
           "feedback": "Incorrecto: solo se tomó el coeficiente del término lineal."
@@ -175,7 +175,7 @@
           "feedback": "Incorrecto: se confundió el valor de f(1) con la derivada f'(1)."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La pendiente de la recta tangente es $m = f'(1)$. Como $f'(x) = 2x + 4$, evaluando en $x = 1$ se obtiene $m = 2(1) + 4 = 6$.",
       "difficulty": "4",
       "images": [],
@@ -197,19 +197,19 @@
       "context": "En la ciudad de Cali, un sistema de transporte masivo monitorea la velocidad de los buses y la aceleración instantánea.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$m = 7$",
           "is_correct": true,
           "feedback": "Correcto: la derivada evaluada en x=1 otorga la pendiente exacta."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$m = 5$",
           "is_correct": false,
           "feedback": "Incorrecto: solo se tomó el coeficiente del término lineal."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$m = 10$",
           "is_correct": false,
           "feedback": "Incorrecto: se sumaron valores adicionales erróneos."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto: se confundió el valor de f(1) con la derivada f'(1)."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La pendiente de la recta tangente es $m = f'(1)$. Como $f'(x) = 2x + 5$, evaluando en $x = 1$ se obtiene $m = 2(1) + 5 = 7$.",
       "difficulty": "6",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "Un ingeniero civil en el proyecto del metro de Bogotá evalúa la curva de deformación de una viga de concreto.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$m = 8$",
           "is_correct": true,
           "feedback": "Correcto: la derivada evaluada en x=1 otorga la pendiente exacta."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$m = 6$",
           "is_correct": false,
           "feedback": "Incorrecto: solo se tomó el coeficiente del término lineal."
@@ -267,7 +267,7 @@
           "feedback": "Incorrecto: se confundió el valor de f(1) con la derivada f'(1)."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La pendiente de la recta tangente es $m = f'(1)$. Como $f'(x) = 2x + 6$, evaluando en $x = 1$ se obtiene $m = 2(1) + 6 = 8$.",
       "difficulty": "6",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "En un proyecto agrícola en el departamento del Tolima, se calcula la producción máxima de arroz optimizando la fertilización.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$m = 9$",
           "is_correct": true,
           "feedback": "Correcto: la derivada evaluada en x=1 otorga la pendiente exacta."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$m = 7$",
           "is_correct": false,
           "feedback": "Incorrecto: solo se tomó el coeficiente del término lineal."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecto: se confundió el valor de f(1) con la derivada f'(1)."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La pendiente de la recta tangente es $m = f'(1)$. Como $f'(x) = 2x + 7$, evaluando en $x = 1$ se obtiene $m = 2(1) + 7 = 9$.",
       "difficulty": "6",
       "images": [],
@@ -335,19 +335,19 @@
       "context": "Una empresa de energía solar en Barranquilla modela la acumulación diaria de energía mediante la tasa de radiación captada.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$m = 10$",
           "is_correct": true,
           "feedback": "Correcto: la derivada evaluada en x=1 otorga la pendiente exacta."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$m = 8$",
           "is_correct": false,
           "feedback": "Incorrecto: solo se tomó el coeficiente del término lineal."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$m = 13$",
           "is_correct": false,
           "feedback": "Incorrecto: se sumaron valores adicionales erróneos."
@@ -359,7 +359,7 @@
           "feedback": "Incorrecto: se confundió el valor de f(1) con la derivada f'(1)."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La pendiente de la recta tangente es $m = f'(1)$. Como $f'(x) = 2x + 8$, evaluando en $x = 1$ se obtiene $m = 2(1) + 8 = 10$.",
       "difficulty": "6",
       "images": [],
@@ -381,31 +381,31 @@
       "context": "En un estudio económico en Bucaramanga, se analiza el costo marginal y la utilidad máxima de una fábrica de calzado.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$m = 11$",
           "is_correct": true,
           "feedback": "Correcto: la derivada evaluada en x=1 otorga la pendiente exacta."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$m = 9$",
           "is_correct": false,
           "feedback": "Incorrecto: solo se tomó el coeficiente del término lineal."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$m = 14$",
           "is_correct": false,
           "feedback": "Incorrecto: se sumaron valores adicionales erróneos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$m = 20$",
           "is_correct": false,
           "feedback": "Incorrecto: se confundió el valor de f(1) con la derivada f'(1)."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La pendiente de la recta tangente es $m = f'(1)$. Como $f'(x) = 2x + 9$, evaluando en $x = 1$ se obtiene $m = 2(1) + 9 = 11$.",
       "difficulty": "6",
       "images": [],
@@ -473,13 +473,13 @@
       "context": "En una empresa textil de Medellín, se modela el volumen de producción diaria en función del tiempo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$m = 13$",
           "is_correct": true,
           "feedback": "Correcto: la derivada evaluada en x=1 otorga la pendiente exacta."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$m = 11$",
           "is_correct": false,
           "feedback": "Incorrecto: solo se tomó el coeficiente del término lineal."
@@ -497,7 +497,7 @@
           "feedback": "Incorrecto: se confundió el valor de f(1) con la derivada f'(1)."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La pendiente de la recta tangente es $m = f'(1)$. Como $f'(x) = 2x + 11$, evaluando en $x = 1$ se obtiene $m = 2(1) + 11 = 13$.",
       "difficulty": "8",
       "images": [],
@@ -519,19 +519,19 @@
       "context": "Un laboratorio farmacéutico en Bogotá analiza la concentración de un medicamento en el torrente sanguíneo a lo largo de las horas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$m = 14$",
           "is_correct": true,
           "feedback": "Correcto: la derivada evaluada en x=1 otorga la pendiente exacta."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$m = 12$",
           "is_correct": false,
           "feedback": "Incorrecto: solo se tomó el coeficiente del término lineal."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$m = 17$",
           "is_correct": false,
           "feedback": "Incorrecto: se sumaron valores adicionales erróneos."
@@ -543,7 +543,7 @@
           "feedback": "Incorrecto: se confundió el valor de f(1) con la derivada f'(1)."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La pendiente de la recta tangente es $m = f'(1)$. Como $f'(x) = 2x + 12$, evaluando en $x = 1$ se obtiene $m = 2(1) + 12 = 14$.",
       "difficulty": "8",
       "images": [],
@@ -565,31 +565,31 @@
       "context": "En el puerto de Buenaventura, se registra el nivel de la marea y la tasa de variación del nivel del agua.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$m = 15$",
           "is_correct": true,
           "feedback": "Correcto: la derivada evaluada en x=1 otorga la pendiente exacta."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$m = 13$",
           "is_correct": false,
           "feedback": "Incorrecto: solo se tomó el coeficiente del término lineal."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$m = 18$",
           "is_correct": false,
           "feedback": "Incorrecto: se sumaron valores adicionales erróneos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$m = 24$",
           "is_correct": false,
           "feedback": "Incorrecto: se confundió el valor de f(1) con la derivada f'(1)."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La pendiente de la recta tangente es $m = f'(1)$. Como $f'(x) = 2x + 13$, evaluando en $x = 1$ se obtiene $m = 2(1) + 13 = 15$.",
       "difficulty": "8",
       "images": [],
@@ -611,19 +611,19 @@
       "context": "Un cultivo de flores en la Sabana de Bogotá estudia la tasa de crecimiento de las plantas bajo ciertas condiciones de riego.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$m = 16$",
           "is_correct": true,
           "feedback": "Correcto: la derivada evaluada en x=1 otorga la pendiente exacta."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$m = 14$",
           "is_correct": false,
           "feedback": "Incorrecto: solo se tomó el coeficiente del término lineal."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$m = 19$",
           "is_correct": false,
           "feedback": "Incorrecto: se sumaron valores adicionales erróneos."
@@ -635,7 +635,7 @@
           "feedback": "Incorrecto: se confundió el valor de f(1) con la derivada f'(1)."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La pendiente de la recta tangente es $m = f'(1)$. Como $f'(x) = 2x + 14$, evaluando en $x = 1$ se obtiene $m = 2(1) + 14 = 16$.",
       "difficulty": "8",
       "images": [],
@@ -703,19 +703,19 @@
       "context": "Un ingeniero civil en el proyecto del metro de Bogotá evalúa la curva de deformación de una viga de concreto.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$m = 18$",
           "is_correct": true,
           "feedback": "Correcto: la derivada evaluada en x=1 otorga la pendiente exacta."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$m = 16$",
           "is_correct": false,
           "feedback": "Incorrecto: solo se tomó el coeficiente del término lineal."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$m = 21$",
           "is_correct": false,
           "feedback": "Incorrecto: se sumaron valores adicionales erróneos."
@@ -727,7 +727,7 @@
           "feedback": "Incorrecto: se confundió el valor de f(1) con la derivada f'(1)."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La pendiente de la recta tangente es $m = f'(1)$. Como $f'(x) = 2x + 16$, evaluando en $x = 1$ se obtiene $m = 2(1) + 16 = 18$.",
       "difficulty": "8",
       "images": [],
@@ -749,19 +749,19 @@
       "context": "En un proyecto agrícola en el departamento del Tolima, se calcula la producción máxima de arroz optimizando la fertilización.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$m = 19$",
           "is_correct": true,
           "feedback": "Correcto: la derivada evaluada en x=1 otorga la pendiente exacta."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$m = 17$",
           "is_correct": false,
           "feedback": "Incorrecto: solo se tomó el coeficiente del término lineal."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$m = 22$",
           "is_correct": false,
           "feedback": "Incorrecto: se sumaron valores adicionales erróneos."
@@ -773,7 +773,7 @@
           "feedback": "Incorrecto: se confundió el valor de f(1) con la derivada f'(1)."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La pendiente de la recta tangente es $m = f'(1)$. Como $f'(x) = 2x + 17$, evaluando en $x = 1$ se obtiene $m = 2(1) + 17 = 19$.",
       "difficulty": "10",
       "images": [],
@@ -795,13 +795,13 @@
       "context": "Una empresa de energía solar en Barranquilla modela la acumulación diaria de energía mediante la tasa de radiación captada.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$m = 20$",
           "is_correct": true,
           "feedback": "Correcto: la derivada evaluada en x=1 otorga la pendiente exacta."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$m = 18$",
           "is_correct": false,
           "feedback": "Incorrecto: solo se tomó el coeficiente del término lineal."
@@ -819,7 +819,7 @@
           "feedback": "Incorrecto: se confundió el valor de f(1) con la derivada f'(1)."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La pendiente de la recta tangente es $m = f'(1)$. Como $f'(x) = 2x + 18$, evaluando en $x = 1$ se obtiene $m = 2(1) + 18 = 20$.",
       "difficulty": "10",
       "images": [],
@@ -887,13 +887,13 @@
       "context": "Un centro meteorológico en Cartagena registra el incremento de la temperatura promedio durante el medio día.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$m = 22$",
           "is_correct": true,
           "feedback": "Correcto: la derivada evaluada en x=1 otorga la pendiente exacta."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$m = 20$",
           "is_correct": false,
           "feedback": "Incorrecto: solo se tomó el coeficiente del término lineal."
@@ -911,7 +911,7 @@
           "feedback": "Incorrecto: se confundió el valor de f(1) con la derivada f'(1)."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La pendiente de la recta tangente es $m = f'(1)$. Como $f'(x) = 2x + 20$, evaluando en $x = 1$ se obtiene $m = 2(1) + 20 = 22$.",
       "difficulty": "10",
       "images": [],

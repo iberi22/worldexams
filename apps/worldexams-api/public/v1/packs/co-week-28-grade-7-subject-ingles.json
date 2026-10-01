@@ -13,13 +13,13 @@
       "context": "Identifying the auxiliary for \"be going to\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Do",
           "is_correct": false,
           "feedback": "Incorrect. \"Do\" is for present simple."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Be (Am, Is, Are)",
           "is_correct": true,
           "feedback": "Correct! \"Be going to\" requires the verb to be conjugated correctly."
@@ -37,7 +37,7 @@
           "feedback": "Incorrect. \"Will\" is a separate way to form the future."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "The student identifies the basic structural component of the \"going to\" future tense.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -157,25 +157,25 @@
           "feedback": "Incorrect. The verb \"be\" must come before the subject in a question."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "What are you going to do?",
           "is_correct": true,
           "feedback": "Correct! Standard auxiliary + subject + going to + verb structure."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "What do you going to do?",
           "is_correct": false,
           "feedback": "Incorrect. Don't use \"do\" with \"going to\"."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Are you will go to do?",
           "is_correct": false,
           "feedback": "Incorrect. Grammatically wrong."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "The student understands the word order requirements for questions in the \"going to\" future.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -203,13 +203,13 @@
           "feedback": "Incorrect. Missing \"ing\"."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "is going to",
           "is_correct": true,
           "feedback": "Correct! \"Is going to\" is used for predictions based on current evidence."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "are going to",
           "is_correct": false,
           "feedback": "Incorrect. \"It\" (weather) is singular."
@@ -221,7 +221,7 @@
           "feedback": "Incorrect. Missing the auxiliary."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "The student applies the use of \"be going to\" for predictions based on visible evidence.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -289,19 +289,19 @@
       "context": "Describing a future professional goal.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "going to",
           "is_correct": false,
           "feedback": "Incorrect. Missing \"is\"."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "am going to",
           "is_correct": false,
           "feedback": "Incorrect. For \"He\", use \"is\"."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "is going to",
           "is_correct": true,
           "feedback": "Correct! Shows a firm intention or plan based on his current effort."
@@ -313,7 +313,7 @@
           "feedback": "Incorrect. For plural."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "The student applies the \"be going to\" structure to express long-term plans or intentions.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -341,13 +341,13 @@
           "feedback": "Incorrect. Missing \"am\"."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "I don't going to eat junk food.",
           "is_correct": false,
           "feedback": "Incorrect. Use \"am not\" for \"going to\"."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "I am not going to eat junk food.",
           "is_correct": true,
           "feedback": "Correct! Auxiliary \"am\" + \"not\" + \"going to\"."
@@ -359,7 +359,7 @@
           "feedback": "Incorrect. \"Not\" should come after the verb \"be\"."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "The student analyzes the position of the negative particle \"not\" within the \"be going to\" structure.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -381,31 +381,31 @@
       "context": "Comparing two people's plans.\n\n\"Ana has her plane ticket to Cali. Luis says he might go to Cali but he doesn't have a ticket yet.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Ana is going to travel to Cali.",
           "is_correct": true,
           "feedback": "Correct! Having a ticket shows a definite plan/evidence."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Luis is going to travel to Cali.",
           "is_correct": false,
           "feedback": "Incorrect. He only \"might\" go; it's not a definite plan yet."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Both are going to travel to Cali.",
           "is_correct": false,
           "feedback": "Incorrect. Only Ana has a confirmed plan."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Neither is going to travel.",
           "is_correct": false,
           "feedback": "Incorrect. Ana is definitely planning to."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "The student analyzes the level of certainty and evidence in the text to correctly use \"going to\" for the person with the definite plan.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -433,13 +433,13 @@
           "feedback": "Incorrect. Asking questions and starting earlier shows initiative."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "The student has a proactive plan to achieve better academic results.",
           "is_correct": true,
           "feedback": "Correct! Both intentions (starting earlier and asking questions) are proactive steps toward the goal."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "The student is going to fail because they have too many plans.",
           "is_correct": false,
           "feedback": "Incorrect. The plans are realistic and positive."
@@ -451,7 +451,7 @@
           "feedback": "Incorrect. They also plan to start homework earlier."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "The student evaluates a set of future intentions to determine the underlying attitude and goal of the speaker.",
       "difficulty": "10",
       "images": [],

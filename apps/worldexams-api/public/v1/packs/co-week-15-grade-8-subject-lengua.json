@@ -13,13 +13,13 @@
       "context": "El Naturalismo es una corriente literaria que surgió en la segunda mitad del siglo XIX, llevando al extremo los principios del Realismo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Gustave Flaubert",
           "is_correct": false,
           "feedback": "Flaubert es un maestro del Realismo, pero no el teórico del Naturalismo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Émile Zola",
           "is_correct": true,
           "feedback": "Zola propuso que el novelista debía actuar como un científico que estudia el comportamiento humano."
@@ -37,7 +37,7 @@
           "feedback": "Balzac es el precursor del Realismo con su \"Comedia Humana\"."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Émile Zola definió el Naturalismo como la aplicación del método científico de la experimentación a la creación literaria.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -111,25 +111,25 @@
           "feedback": "Estos escenarios son más propios de la novela realista burguesa."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Ambientes marginales, miseria, alcoholismo y enfermedades.",
           "is_correct": true,
           "feedback": "Se busca analizar la realidad en sus condiciones más extremas y difíciles."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Paisajes exóticos en islas desiertas y selvas vírgenes.",
           "is_correct": false,
           "feedback": "El Naturalismo se centra en la sociedad industrial y urbana."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Sueños e imágenes fantásticas del subconsciente.",
           "is_correct": false,
           "feedback": "Esto es propio de movimientos vanguardistas posteriores."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El Naturalismo pone el foco en los aspectos más sórdidos de la realidad para denunciar las condiciones que degradan al ser humano.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -163,19 +163,19 @@
           "feedback": "Se busca la objetividad impersonal, dejando que los hechos hablen solos."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Observar y registrar los hechos de forma objetiva, sin juzgar moralmente a los personajes.",
           "is_correct": true,
           "feedback": "El autor es un observador imparcial que analiza causas y efectos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Escribir poemas líricos sobre la belleza de la naturaleza salvaje.",
           "is_correct": false,
           "feedback": "El Naturalismo prefiere la prosa narrativa y temas sociales crudos."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La impersonalidad narrativa busca que el relato parezca un documento científico de la realidad, eliminando la voz subjetiva del autor.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -203,13 +203,13 @@
           "feedback": "No es suerte, es una ley biológica predecible según el autor."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Que la voluntad del joven es débil y no quiere esforzarse.",
           "is_correct": false,
           "feedback": "El Naturalismo minimiza la importancia de la voluntad frente a la herencia."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La herencia biológica como un factor determinante e inevitable de la conducta.",
           "is_correct": true,
           "feedback": "Los vicios o virtudes se transmiten a través de la sangre según esta visión."
@@ -221,7 +221,7 @@
           "feedback": "El alcoholismo se presenta como una patología social y biológica."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "La herencia funciona en el Naturalismo como una \"maldición\" biológica que encadena al individuo a los errores de sus antepasados.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -295,13 +295,13 @@
           "feedback": "Es una crítica metafórica sobre el contenido, no física sobre el objeto."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Porque los autores escribían sus obras dentro de los túneles del metro.",
           "is_correct": false,
           "feedback": "No se refiere al lugar de escritura, sino a la temática marginal."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Por su insistencia en describir los aspectos más crudos, feos y animales del ser humano.",
           "is_correct": true,
           "feedback": "La descripción de enfermedades y vicios rompía con el decoro tradicional de la literatura."
@@ -313,7 +313,7 @@
           "feedback": "Al contrario, solían describir ambientes sucios y descuidados."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "La crudeza descriptiva del Naturalismo buscaba la verdad científica, pero fue interpretada como falta de gusto o morbosidad por los sectores tradicionales.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -341,13 +341,13 @@
           "feedback": "La obra muestra que el trabajo excesivo en esas condiciones es deshumanizador."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Demostrar que los dueños de las fábricas eran siempre personas santas.",
           "is_correct": false,
           "feedback": "Critica duramente la explotación y la desigualdad social."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Denunciar las injusticias del sistema y provocar una reflexión sobre la necesidad de cambios sociales profundos.",
           "is_correct": true,
           "feedback": "El naturalismo tiene una fuerte carga de denuncia social y política."
@@ -359,7 +359,7 @@
           "feedback": "No es un manual técnico, sino una obra de arte con compromiso social."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "El Naturalismo es el arte de la conciencia social de finales del siglo XIX, visibilizando los conflictos de clase generados por la Revolución Industrial.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -387,13 +387,13 @@
           "feedback": "El Naturalismo es realista, no usa elementos fantásticos."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Que los lobos son animales muy inteligentes y parecidos a nosotros.",
           "is_correct": false,
           "feedback": "La comparación busca degradar al hombre a su estado puramente biológico."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Que bajo condiciones extremas, la cultura desaparece y el hombre queda reducido a sus impulsos biológicos.",
           "is_correct": true,
           "feedback": "Es la visión materialista del ser humano como un organismo regido por instintos."
@@ -405,7 +405,7 @@
           "feedback": "La metáfora se aplica a la condición humana en la miseria."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "La animalización subraya el pesimismo naturalista: el hombre no es un ser espiritual superior, sino un animal más sometido a las leyes de la naturaleza.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -427,19 +427,19 @@
       "context": "Blasco Ibáñez, en sus novelas valencianas como \"La barraca\", aplicó el Naturalismo a la realidad del campo español.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "En el Renacimiento el campo era feo y en el Naturalismo es muy bonito.",
           "is_correct": false,
           "feedback": "Es exactamente al revés."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "En el Renacimiento los pastores eran pobres y en el Naturalismo son todos ricos.",
           "is_correct": false,
           "feedback": "En el Naturalismo se muestra la pobreza real y la lucha por la tierra."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "El Renacimiento muestra una naturaleza armoniosa; el Naturalismo muestra una naturaleza hostil y un trabajo campesino agotador y brutal.",
           "is_correct": true,
           "feedback": "El campo naturalista es un lugar de lucha, sudor y conflictos sociales violentos."
@@ -451,7 +451,7 @@
           "feedback": "Cada movimiento literario proyecta una visión distinta sobre la naturaleza."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "La visión naturalista del campo elimina cualquier rastro de nostalgia pastoril para centrarse en la lucha por la supervivencia y la propiedad.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -485,19 +485,19 @@
           "feedback": "Eran novelas muy extensas y densas."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Mediante el uso de \"planos\" descriptivos, atención a la luz y una mirada casi mecánica sobre la realidad.",
           "is_correct": true,
           "feedback": "La minuciosidad descriptiva preparó al lector para la narrativa visual de la cámara."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Porque los personajes hablaban poco para que se pudiera ver bien la acción.",
           "is_correct": false,
           "feedback": "Los diálogos eran extensos, pero la fuerza residía en la ambientación visual detallada."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La estética naturalista buscaba una precisión tal que la palabra casi se convertía en imagen, influyendo profundamente en el posterior realismo cinematográfico.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -519,19 +519,19 @@
       "context": "El Naturalismo ha sido criticado por ser excesivamente pesimista, eliminando la esperanza de cambio personal.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Tiene un gran valor porque siempre logran vencer al destino al final.",
           "is_correct": false,
           "feedback": "En el Naturalismo puro, el destino suele ser trágico e inevitable."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Ningún valor, por eso las novelas naturalistas no tienen protagonistas.",
           "is_correct": false,
           "feedback": "Tienen protagonistas, pero su lucha es contra fuerzas superiores."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Un valor trágico: la lucha resalta la injusticia de un sistema y de unas leyes que aplastan al individuo a pesar de su esfuerzo.",
           "is_correct": true,
           "feedback": "La tragedia reside en la imposibilidad de escapar de la \"trampa\" biológica y social."
@@ -543,7 +543,7 @@
           "feedback": "Los personajes actúan según su naturaleza, no según teorías literarias."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "El pesimismo naturalista no es gratuito; busca sacudir al lector mostrando la inevitabilidad del fracaso bajo ciertas condiciones sociales, impulsando así el deseo de cambio externo (político).\n\n---",
       "difficulty": "10",
       "images": [],

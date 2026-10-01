@@ -64,13 +64,13 @@
           "feedback": "Incorrecto: el anuncio no describe materiales; menciona beneficios y una promoción."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Persuadir al público para que compre el producto.",
           "is_correct": true,
           "feedback": "Correcto: el anuncio exalta beneficios y ofrece descuento con el fin de vender."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Criticar a otras marcas de zapatillas.",
           "is_correct": false,
           "feedback": "Incorrecto: no hay referencia ni valoración negativa de otras marcas."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto: explicar un proceso es propio del texto expositivo; aquí la meta es comercial."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El propósito persuasivo busca modificar la conducta del receptor, en este caso lograr la compra. Los recursos del anuncio —adjetivos valorativos, eslogan y oferta— apuntan a convencer, no a informar con objetividad. La publicidad es el ejemplo prototípico de texto con finalidad persuasiva.",
       "difficulty": "4",
       "images": [],
@@ -103,19 +103,19 @@
       "context": "Ximena, de la Ciudad de México, lee un poema breve: \"La tarde se ha dormido / en tu pañuelo verde, / y el viento cuenta historias / que nadie ha de saber\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Explicar el ciclo de la tarde.",
           "is_correct": false,
           "feedback": "Incorrecto: el poema no explica fenómenos; construye imágenes, no un razonamiento."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Convencer al lector de usar pañuelos verdes.",
           "is_correct": false,
           "feedback": "Incorrecto: no hay argumentación ni llamado a la acción."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Expresar sensaciones y estados de ánimo mediante imágenes.",
           "is_correct": true,
           "feedback": "Correcto: el poema busca transmitir emociones a través de imágenes poéticas, no informar ni persuadir."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto: los datos objetivos son propios del informe; la poesía prioriza la expresión subjetiva."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "El texto lírico tiene como propósito predominante la expresión de la subjetividad: emociones, sensaciones y visiones del mundo, construidas con imágenes y recursos literarios. A diferencia del texto informativo o persuasivo, no busca datos objetivos ni cambiar la conducta del lector.",
       "difficulty": "4",
       "images": [],
@@ -154,13 +154,13 @@
           "feedback": "Incorrecto: la caricatura no da datos precisos; usa la exageración para opinar."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Elogiar la gestión del político.",
           "is_correct": false,
           "feedback": "Incorrecto: la escena ridiculiza la contradicción entre el discurso y la acción."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Criticar con humor la contradicción entre lo que dice y lo que hace el personaje.",
           "is_correct": true,
           "feedback": "Correcto: la caricatura exagera la contradicción para burlarse y criticar."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto: no explica el funcionamiento; satiriza una situación."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "La caricatura política combina humor y crítica: exagera rasgos o contradicciones para denunciar o ridiculizar. El contraste entre la frase del personaje y su acción revela la intención crítica del autor. Identificar el blanco de la burla permite reconocer el propósito satírico.",
       "difficulty": "4",
       "images": [],
@@ -193,13 +193,13 @@
       "context": "Fernanda, de Oaxaca, lee un texto titulado \"Cómo preparar mole negro oaxaqueño\" que detalla ingredientes, tiempos de cocción y pasos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Convencer de que el mole es el mejor platillo del país.",
           "is_correct": false,
           "feedback": "Incorrecto: no hay argumentación ni comparación con otros platillos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Guiar al lector paso a paso para que prepare el platillo.",
           "is_correct": true,
           "feedback": "Correcto: el texto instructivo organiza ingredientes y pasos para lograr un resultado práctico."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto: no hay valoración negativa de otros productos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El texto instructivo (receta, manual, reglamento) tiene como propósito guiar una acción concreta mediante pasos ordenados. Se distingue del narrativo (cuenta hechos), del expositivo (explica conceptos) y del argumentativo (defiende una postura). La presencia de ingredientes y procedimiento indica la finalidad práctica.",
       "difficulty": "6",
       "images": [],
@@ -250,19 +250,19 @@
           "feedback": "Incorrecto: no hay un llamado a actuar; el texto narra, no persuade."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Narrar una experiencia real desde la perspectiva de quien la vivió o la presenció.",
           "is_correct": true,
           "feedback": "Correcto: la crónica combina relato y testimonio para acercar al lector a una vivencia concreta."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Definir el concepto legal de migración.",
           "is_correct": false,
           "feedback": "Incorrecto: definir conceptos es propio del texto expositivo o normativo."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La crónica es un texto híbrido: narra hechos reales con recursos literarios y suele incluir la mirada del cronista. Su propósito principal es relatar y acercar la experiencia, no exponer cifras, persuadir ni definir conceptos. Identificar la mezcla de narración y testimonio orienta hacia la intención del autor.",
       "difficulty": "6",
       "images": [],
@@ -289,13 +289,13 @@
           "feedback": "Incorrecto: la carta no describe cómo funciona el servicio; expone una queja."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Entretener con una anécdota de la colonia.",
           "is_correct": false,
           "feedback": "Incorrecto: el tono de denuncia no busca el entretenimiento."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Denunciar un problema y exigir una solución a las autoridades.",
           "is_correct": true,
           "feedback": "Correcto: la carta expone una queja colectiva y demanda acción del ayuntamiento."
@@ -307,7 +307,7 @@
           "feedback": "Incorrecto: explicar el presupuesto sería un informe técnico, no una denuncia ciudadana."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "La carta al director o carta abierta es un espacio de opinión donde los ciudadanos exponen quejas, reclamos o propuestas. Su propósito es denunciar una situación y presionar por una respuesta. La presencia de un problema, afectados y una exigencia revela la intención reivindicativa del texto.",
       "difficulty": "6",
       "images": [],
@@ -334,25 +334,25 @@
           "feedback": "Incorrecto: el párrafo usa una imagen, no cifras ni citas."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Atraer al lector con una escena cercana y anunciar la tesis del ensayo.",
           "is_correct": true,
           "feedback": "Correcto: la imagen inicial capta la atención y la frase final presenta la postura que se defenderá."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Resumir todas las conclusiones del texto.",
           "is_correct": false,
           "feedback": "Incorrecto: resumir conclusiones es función del cierre, no de la introducción."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Refutar las posturas contrarias.",
           "is_correct": false,
           "feedback": "Incorrecto: refutar es una estrategia del desarrollo argumentativo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La introducción de un ensayo suele cumplir dos funciones: captar el interés del lector y presentar la tesis. La escena del amanecer en una avenida reconocible crea cercanía, y el anuncio del \"derecho al silencio\" fija la postura. Reconocer estas funciones ayuda a anticipar el desarrollo del texto.",
       "difficulty": "6",
       "images": [],
@@ -385,19 +385,19 @@
           "feedback": "Incorrecto: el resumen científico excluye lo anecdótico y personal."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Comunicar de forma breve y precisa el contenido esencial del estudio.",
           "is_correct": true,
           "feedback": "Correcto: el abstract sintetiza problema, método y resultados para que el lector decida si le interesa el texto completo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Criticar a otros equipos de investigación.",
           "is_correct": false,
           "feedback": "Incorrecto: el resumen científico es objetivo y no polemiza."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "El resumen académico tiene una finalidad comunicativa específica: condensar el contenido esencial de una investigación (problema, método, resultados) para facilitar su difusión y consulta. Es un texto expositivo objetivo; no persuade, no narra vivencias ni polemiza.",
       "difficulty": "6",
       "images": [],
@@ -424,13 +424,13 @@
           "feedback": "Incorrecto: la biografía no argumenta ni recomienda; presenta información."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Contextualizar la vida y la obra del personaje biografiado.",
           "is_correct": true,
           "feedback": "Correcto: el inicio sitúa al personaje en su lugar, época e influencias para que el lector entienda su trayectoria."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Criticar la época en que vivió el escritor.",
           "is_correct": false,
           "feedback": "Incorrecto: no hay valoración negativa; el texto describe, no juzga."
@@ -442,7 +442,7 @@
           "feedback": "Incorrecto: resumir la obra completa excede la función del fragmento inicial."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La biografía busca dar a conocer la vida de una persona y su contexto. La introducción suele contextualizar: lugar de nacimiento, entorno, influencias. Su propósito es expositivo-informativo, no persuasivo ni crítico. Distinguir el dato contextual de la opinión permite reconocer la intención del autor.",
       "difficulty": "6",
       "images": [],
@@ -463,19 +463,19 @@
       "context": "Ximena, de la Ciudad de México, analiza un discurso sobre la contaminación que termina con la pregunta: \"¿Qué ciudad queremos dejarles a nuestros hijos?\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Obtener una respuesta exacta y verificable del público.",
           "is_correct": false,
           "feedback": "Incorrecto: la pregunta es retórica; no espera datos, sino reflexión."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Presentar una estadística sobre la niñez.",
           "is_correct": false,
           "feedback": "Incorrecto: no hay cifras; la pregunta apela a los valores del receptor."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Involucrar emocionalmente al receptor y reforzar su llamado a la acción.",
           "is_correct": true,
           "feedback": "Correcto: la pregunta retórica moviliza la conciencia del público y cierra el discurso con fuerza."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto: la pregunta es una estrategia, no una confesión de ignorancia."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "La pregunta retórica no busca información: busca hacer pensar al receptor y generar adhesión emocional. Al cerrar un discurso con la pregunta sobre los hijos, el autor apela a los afectos y a la responsabilidad, reforzando el propósito persuasivo de todo el texto.",
       "difficulty": "8",
       "images": [],
@@ -559,25 +559,25 @@
           "feedback": "Incorrecto: ambos opinan; la diferencia no es de tipo textual sino de postura valorativa."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "El primero prioriza la defensa de las personas; el segundo prioriza el control administrativo del fenómeno.",
           "is_correct": true,
           "feedback": "Correcto: las palabras clave \"protección\" y \"control\" revelan posturas opuestas frente al mismo fenómeno."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ambos autores tienen exactamente la misma opinión.",
           "is_correct": false,
           "feedback": "Incorrecto: \"protección\" y \"control\" expresan valoraciones distintas y casi opuestas."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El segundo autor no tiene opinión.",
           "is_correct": false,
           "feedback": "Incorrecto: proponer mayor control ya es una postura."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La postura del autor se infiere de la selección léxica y de lo que propone. \"Protección\" orienta hacia la defensa de derechos; \"control\" hacia la regulación restrictiva. Comparar textos sobre un mismo tema permite detectar posturas distintas y los recursos lingüísticos que las construyen.",
       "difficulty": "8",
       "images": [],
@@ -604,25 +604,25 @@
           "feedback": "Incorrecto: la ironía no elogia; la segunda parte desmiente la primera."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Criticar la contradicción entre el discurso patriótico y el desinterés cotidiano.",
           "is_correct": true,
           "feedback": "Correcto: la ironía enfrenta la celebración simbólica con la falta de compromiso en lo cotidiano."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Informar sobre el costo de la electricidad.",
           "is_correct": false,
           "feedback": "Incorrecto: la cuenta de luz es un recurso irónico, no el tema del texto."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Narrar una anécdota personal del autor.",
           "is_correct": false,
           "feedback": "Incorrecto: la frase es una observación irónica, no un relato biográfico."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La ironía consiste en decir lo contrario de lo que se piensa para criticar. La frase celebra el patriotismo para inmediatamente desmentirlo con la realidad doméstica, revelando la postura crítica del autor frente a un patriotismo puramente simbólico. Detectar la ironía evita leer el texto en sentido literal.",
       "difficulty": "8",
       "images": [],
@@ -649,13 +649,13 @@
           "feedback": "Incorrecto: la cita no busca embellecer; aporta respaldo técnico."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Narrar la experiencia de la especialista.",
           "is_correct": false,
           "feedback": "Incorrecto: la cita expone un saber experto, no una vivencia personal."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Respaldar con autoridad técnica la afirmación del autor sobre los daños del ruido.",
           "is_correct": true,
           "feedback": "Correcto: citar a una especialista da credibilidad y sustento científico al argumento."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto: el autor la cita para apoyarse en ella, no para contradecirla."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "La cita de autoridad es un recurso argumentativo: el autor incorpora la voz de un experto para respaldar sus afirmaciones y ganar credibilidad. Su función es probatoria, no decorativa ni narrativa. Identificar por qué se cita ayuda a evaluar la solidez del argumento.",
       "difficulty": "8",
       "images": [],
@@ -688,19 +688,19 @@
       "context": "Ximena, de Oaxaca, lee un ensayo sobre la alimentación que, para ilustrar su tesis, elige hablar del maíz nativo y de las tortillas hechas a mano en lugar de la comida rápida.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Porque es el único alimento que existe en México.",
           "is_correct": false,
           "feedback": "Incorrecto: el ejemplo no busca exhaustividad; es representativo, no exclusivo."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Porque quiere criticar a quienes comen tortillas.",
           "is_correct": false,
           "feedback": "Incorrecto: el maíz es el objeto de defensa del autor, no de crítica."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Porque es un referente cultural cercano que conecta la tesis con la experiencia del lector mexicano.",
           "is_correct": true,
           "feedback": "Correcto: el maíz condensa identidad, tradición y alimentación, por lo que hace tangible y cercana la tesis."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto: el precio no es el eje del ejemplo; el valor cultural es lo que el autor aprovecha."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "La elección de ejemplos no es neutral: el autor selecciona casos que hacen comprensible y cercana su tesis. El maíz nativo condensa valores culturales e identitarios del lector mexicano, por lo que el ejemplo no solo ilustra, sino que genera adhesión emocional y cultural al argumento.",
       "difficulty": "8",
       "images": [],
@@ -733,19 +733,19 @@
       "context": "José, de la Ciudad de México, escribió un artículo cuyo propósito es convencer a los jóvenes de participar en el servicio de limpieza de su colonia, y debe elegir un título.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "\"El servicio de limpieza: definición y antecedentes.\"",
           "is_correct": false,
           "feedback": "Incorrecto: el título expositivo promete información neutral, no un llamado a participar."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "\"Historia de la limpieza urbana en México.\"",
           "is_correct": false,
           "feedback": "Incorrecto: el título histórico anuncia un recorrido cronológico, ajeno a la persuasión."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "\"Tu colonia te necesita: súmate a la brigada de limpieza.\"",
           "is_correct": true,
           "feedback": "Correcto: el apóstrofe directo y el verbo en imperativo reflejan el fin de movilizar al lector."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto: la pregunta cuantitativa sugiere un texto informativo o estadístico, no un llamado a la acción."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "El título debe ser coherente con el propósito del texto. Un propósito persuasivo se refleja en títulos que apelan directamente al receptor: vocativos, imperativos y promesas de beneficio. Los títulos expositivos o históricos corresponderían a textos informativos, no a un llamado a participar.",
       "difficulty": "10",
       "images": [],
@@ -823,19 +823,19 @@
       "context": "Fernanda, de Cancún, compara dos textos sobre el sargazo: uno es un comunicado de una empresa que vende maquinaria de limpieza y asegura que \"solo su tecnología resolverá el problema\"; el otro es un informe de un centro de investigación que describe varias opciones con sus ventajas y límites.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Ambos buscan vender maquinaria.",
           "is_correct": false,
           "feedback": "Incorrecto: el informe del centro de investigación no vende nada."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "El comunicado informa y el informe persuade.",
           "is_correct": false,
           "feedback": "Incorrecto: es al revés: el comunicado persuade (vender) y el informe informa."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "El comunicado tiene un propósito comercial que promueve un producto único; el informe tiene un propósito expositivo que presenta opciones con matices.",
           "is_correct": true,
           "feedback": "Correcto: la empresa promociona su tecnología; el informe describe alternativas sin promover una sola."
@@ -847,7 +847,7 @@
           "feedback": "Incorrecto: presentar ventajas y límites de varias opciones es un rasgo de objetividad, no de ocultamiento."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Comparar propósitos exige analizar los intereses de cada emisor. El lenguaje excluyente (\"solo su tecnología\") y la afiliación comercial delatan la intención de vender; la presentación de múltiples opciones con ventajas y límites caracteriza al texto expositivo-científico. El propósito se infiere de la combinación de emisor, recursos y lenguaje.",
       "difficulty": "10",
       "images": [],
@@ -874,13 +874,13 @@
           "feedback": "Incorrecto: enumerar requisitos puede informar, pero no persuade a nadie a participar."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Sí, porque el tema es el servicio social.",
           "is_correct": false,
           "feedback": "Incorrecto: tratar el tema no equivale a lograr el propósito de convencer."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "No, porque la lista de trámites no ofrece razones ni beneficios que motiven al lector a participar.",
           "is_correct": true,
           "feedback": "Correcto: sin argumentos que apelen al lector, el texto no consigue persuadirlo."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto: los errores de forma afectan la calidad, pero el fracaso del propósito se debe a la ausencia de argumentación."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Evaluar si se cumple el propósito exige contrastar la intención declarada (persuadir) con los recursos empleados (requisitos sin argumentos). Un texto persuasivo necesita razones, beneficios o apelaciones emocionales; la mera enumeración de trámites informa, pero no convence. El propósito no se logra por el tema, sino por la eficacia de los recursos.",
       "difficulty": "10",
       "images": [],
@@ -919,25 +919,25 @@
           "feedback": "Incorrecto. El texto aborda aspectos culturales, históricos y ecológicos del México contemporáneo, desvinculado de reglamentos contables coloniales."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "El papel y la relevancia de movimientos del 68 en la dinámica de la región.",
           "is_correct": true,
           "feedback": "Correcto. El texto expone de manera explícita la trascendencia de movimientos del 68 para entender la problemática o fenómeno de la zona."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Una teoría de la física moderna abstracta desprovista de registro empírico terrestre.",
           "is_correct": false,
           "feedback": "Incorrecto. El escrito se enfoca en realidades tangibles y de campo observables, no en teorías físicas abstractas."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La prohibición de toda actividad de artes clásicas en las universidades públicas de la federación.",
           "is_correct": false,
           "feedback": "Incorrecto. No se menciona ninguna prohibición de índole académica artística en las facultades."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El fragmento señala textualmente y describe la relevancia de movimientos del 68 como el eje central de su exposición informativa.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -958,13 +958,13 @@
       "context": "**Pasaje:** *La crónica periodística de Carlos Monsiváis*\n\nCarlos Monsiváis fue el cronista indispensable del México contemporáneo, registrando con agudeza irónica e ingenio inigualable los movimientos sociales, el auge de la cultura popular, la vida urbana de la capital y las contradicciones morales de la clase política. A través de sus célebres crónicas, recopiladas en obras fundamentales, Monsiváis elevó la crónica periodística a la categoría de gran arte literario. Su mirada, siempre atenta a las protestas civiles del 68, la solidaridad comunitaria tras el sismo de 1985 y la hibridación de la identidad nacional ante la globalización, funcionó como un desmontaje crítico de los discursos oficiales de poder, celebrando la resistencia de la sociedad civil organizada.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El desinterés absoluto de las comunidades ejidales locales por cuidar el patrimonio.",
           "is_correct": false,
           "feedback": "Incorrecto. Los ejidos y ciudadanos se organizan y participan activamente, no se atribuye desinterés absoluto en la lectura."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La confluencia de variables como sismo de 1985 que alteran el equilibrio.",
           "is_correct": true,
           "feedback": "Correcto. El fragmento identifica expresamente a sismo de 1985 como una variable causante o catalizadora de los cambios descritos."
@@ -982,7 +982,7 @@
           "feedback": "Incorrecto. Esto no se asocia de forma directa con los factores biofísicos o culturales detallados en la lectura."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El texto cita que sismo de 1985 interviene como una de las causas directas en la evolución o alteración del fenómeno analizado.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -1009,25 +1009,25 @@
           "feedback": "Incorrecto. Concebir el sistema como cerrado contradice la interconexión dinámica de flujos descrita."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Un flujo dinámico e interconectado, ejemplificado por el papel de sociedad civil.",
           "is_correct": true,
           "feedback": "Correcto. El autor argumenta que sociedad civil representa la interdependencia y dinamismo del sistema, que no puede entenderse de forma aislada."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Un inventario de catálogos administrativos inalterable dictado por las aduanas arancelarias.",
           "is_correct": false,
           "feedback": "Incorrecto. El enfoque del autor es de ecología o sociocultural, no arancelario o fiscal de aduanas comerciales."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Una imitación dócil de los modelos de planeación de las ciudades del viejo mundo.",
           "is_correct": false,
           "feedback": "Incorrecto. El texto exalta el desarrollo autónomo o la asimilación creativa de la realidad local de la federación."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La dinámica de sociedad civil sirve para ilustrar que los procesos estudiados operan como flujos interconectados de gran escala.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -1048,13 +1048,13 @@
       "context": "**Pasaje:** *La crónica periodística de Carlos Monsiváis*\n\nCarlos Monsiváis fue el cronista indispensable del México contemporáneo, registrando con agudeza irónica e ingenio inigualable los movimientos sociales, el auge de la cultura popular, la vida urbana de la capital y las contradicciones morales de la clase política. A través de sus célebres crónicas, recopiladas en obras fundamentales, Monsiváis elevó la crónica periodística a la categoría de gran arte literario. Su mirada, siempre atenta a las protestas civiles del 68, la solidaridad comunitaria tras el sismo de 1985 y la hibridación de la identidad nacional ante la globalización, funcionó como un desmontaje crítico de los discursos oficiales de poder, celebrando la resistencia de la sociedad civil organizada.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Señalar una falla metodológica grave que invalida los argumentos del escrito.",
           "is_correct": false,
           "feedback": "Incorrecto. El autor valora positivamente este concepto, no lo presenta como un error de método."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Funcionar como un valioso cultura popular para evaluar y diagnosticar el estado del equilibrio general del medio.",
           "is_correct": true,
           "feedback": "Correcto. Se introduce este término para ilustrar cómo ciertos elementos reflejan de manera fáctica las alteraciones o salud del sistema."
@@ -1072,7 +1072,7 @@
           "feedback": "Incorrecto. Al contrario, el uso excesivo de agroquímicos o el mercantilismo son señalados como factores de riesgo a regular."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El concepto de cultura popular representa el instrumento metodológico o biológico para medir cuantitativa y cualitativamente el impacto del desarrollo sobre el entorno.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -1093,19 +1093,19 @@
       "context": "**Pasaje:** *La crónica periodística de Carlos Monsiváis*\n\nCarlos Monsiváis fue el cronista indispensable del México contemporáneo, registrando con agudeza irónica e ingenio inigualable los movimientos sociales, el auge de la cultura popular, la vida urbana de la capital y las contradicciones morales de la clase política. A través de sus célebres crónicas, recopiladas en obras fundamentales, Monsiváis elevó la crónica periodística a la categoría de gran arte literario. Su mirada, siempre atenta a las protestas civiles del 68, la solidaridad comunitaria tras el sismo de 1985 y la hibridación de la identidad nacional ante la globalización, funcionó como un desmontaje crítico de los discursos oficiales de poder, celebrando la resistencia de la sociedad civil organizada.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "El enfoque esencialista que busca encapsular la realidad en definiciones fijas e inmutables.",
           "is_correct": true,
           "feedback": "Correcto. El autor aboga por superar visiones estáticas de cronista urbano para acoger un marco dinámico de transformación y resiliencia."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La recolección manual y el saneamiento ecológico de las costas de la península de Yucatán.",
           "is_correct": false,
           "feedback": "Incorrecto. El saneamiento manual es valorado como una medida paliativa necesaria, no es cuestionado por el autor de esta sección."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La enseñanza de la historia prehispánica en las escuelas secundarias de la SEP.",
           "is_correct": false,
           "feedback": "Incorrecto. Estudiar la historia y herencia indígena es fundamental para descolonizar el conocimiento y es respaldado por el autor de forma explícita."
@@ -1117,7 +1117,7 @@
           "feedback": "Incorrecto. La variable lingüística del voseo rioplatense no es objeto de debate en este fragmento."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Frente a cronista urbano, el autor rechaza la rigidez conceptual, proponiendo esquemas abiertos que asimilen la constante evolución histórica del medio.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -1138,13 +1138,13 @@
       "context": "**Pasaje:** *La crónica periodística de Carlos Monsiváis*\n\nCarlos Monsiváis fue el cronista indispensable del México contemporáneo, registrando con agudeza irónica e ingenio inigualable los movimientos sociales, el auge de la cultura popular, la vida urbana de la capital y las contradicciones morales de la clase política. A través de sus célebres crónicas, recopiladas en obras fundamentales, Monsiváis elevó la crónica periodística a la categoría de gran arte literario. Su mirada, siempre atenta a las protestas civiles del 68, la solidaridad comunitaria tras el sismo de 1985 y la hibridación de la identidad nacional ante la globalización, funcionó como un desmontaje crítico de los discursos oficiales de poder, celebrando la resistencia de la sociedad civil organizada.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Provoca una contracción inmediata del producto interno bruto y desempleo crónico.",
           "is_correct": false,
           "feedback": "Incorrecto. No se asocia con catástrofes financieras directas o parálisis comercial total en el texto."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Funciona como el refugio o cimiento que estabiliza el sistema y le otorga viabilidad frente a las perturbaciones.",
           "is_correct": true,
           "feedback": "Correcto. La cohesión de crónica irónica (ya sea el dosel del bosque, el acuífero arcilloso o la base mestiza) actúa como la cobija y protección del equilibrio general."
@@ -1162,7 +1162,7 @@
           "feedback": "Incorrecto. Al contrario, se fomenta y valora la ciencia unida a la ética de resguardo público."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La integridad de crónica irónica es indispensable: su destrucción o fragmentación rompe el microclima o tejido que cobija y da sustento al equilibrio colectivo.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -1285,19 +1285,19 @@
           "feedback": "Incorrecto. No se asocia directamente con la deparación espontánea de monumentos de la época virreinal colonial de México."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Un fallo sistémico común donde el ritmo de extracción o impacto supera la capacidad de asimilación del sistema.",
           "is_correct": true,
           "feedback": "Correcto. Ambos casos demuestran que vulnerar las tasas de recarga o reposición desestabiliza y colapsa de forma acelerada la resiliencia del medio."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La abolición obligatoria de las materias de ética y humanidades en las universidades del país.",
           "is_correct": false,
           "feedback": "Incorrecto. El colapso de polinizadores o acuíferos no se produce por revocar planes de estudio de filosofía."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La comparación con periodismo narrativo resalta el principio de ecología sistémica: la explotación desmedida compromete a los vectores de estabilidad general.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -1324,13 +1324,13 @@
           "feedback": "Incorrecto. La contracción del suelo arcilloso o deparación forestal no solidifica la caliza marina caribeña, mezclando de forma absurda los temas geográficos."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "La degradación severa de crítica de costumbres, comprometiendo la biodiversidad y la calidad de vida de las familias mexicanas.",
           "is_correct": true,
           "feedback": "Correcto. Ignorar los límites de carga biofísica o social de la zona conduce a fallos graves en cascada que deterioran el patrimonio común y aumentan la vulnerabilidad."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La elevación artificial de la altitud de la ciudad por encima del nivel del mar.",
           "is_correct": false,
           "feedback": "Incorrecto. El desequilibrio ambiental deprime las oportunidades y hunde el relieve arcilloso, no eleva la altitud física de la urbe."
@@ -1342,7 +1342,7 @@
           "feedback": "Incorrecto. Los problemas biofísicos no tienen la propiedad legal de suspender regulaciones impositivas del agro."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La degradación continuada de crítica de costumbres ilustra que la omisión de límites ecológicos o cívicos genera daños acumulativos irreversibles para el porvenir nacional.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -1414,25 +1414,25 @@
           "feedback": "Incorrecto. El desarrollo mecánico agroindustrial es un asunto de comercio, desvinculado de la exclusión social descrita en el texto."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Genera condiciones inequitativas donde las familias periféricas ven vulnerado su derecho debido a palacios novohispanos.",
           "is_correct": true,
           "feedback": "Correcto. La asimetría (digital, de museos o de salud) margina a amplios sectores por razones de geografía y economía, limitando su bienestar y desarrollo humano."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Fuerza a toda la población del norte de la federación a hablar exclusivamente en lenguas mesoamericanas antiguas.",
           "is_correct": false,
           "feedback": "Incorrecto. La problemática no impone el uso lingüístico indígena, sino que restringe el ejercicio de los derechos de la población de los estados."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Obliga a las universidades públicas a deparar arena artificial para suplir las playas del Caribe mexicano.",
           "is_correct": false,
           "feedback": "Incorrecto. Las playas caribeñas y el sargazo no guardan relación lógica con la conectividad de los estados de la República."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La brecha provocada por palacios novohispanos segrega a la población, privando a los estados periféricos de oportunidades básicas de educación, conectividad, salud o consumo estético.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -1453,13 +1453,13 @@
       "context": "**Pasaje:** *El rescate patrimonial del Centro Histórico de la Ciudad de México*\n\nEl rescate y conservación del Centro Histórico de la Ciudad de México, el corazón político y cultural de la nación, ha sido objeto de intensos debates urbanísticos e históricos. Los proyectos de peatonalización, restauración de palacios coloniales novohispanos y saneamiento del espacio público han recuperado el atractivo turístico e histórico de la zona. No obstante, críticos señalan que este saneamiento físico ha propiciado un severo proceso de gentrificación, encareciendo el suelo, desplazando a las familias y comercios tradicionales de origen e imponiendo un modelo de consumo hotelero de corte internacional que privatiza el disfrute del patrimonio de la federación.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Los habitantes de los estados de la República carecían de la deparación intelectual para asimilar la técnica.",
           "is_correct": false,
           "feedback": "Incorrecto. El autor rechaza cualquier sesgo de superioridad o desprecio intelectual biológico de capacidad."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La capital o el modelo de mercado tradicional constituía el único polo idóneo para validar y gestionar gentrificación.",
           "is_correct": true,
           "feedback": "Correcto. El centralismo (institucional o de mercado) presupone que solo el núcleo central concentra la legitimidad, recursos y criterios de validación de gentrificación de la federación."
@@ -1477,7 +1477,7 @@
           "feedback": "Incorrecto. Las exploraciones subacuáticas de cenotes no forman parte del debate de este fragmento educativo o de servicios."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La macrocefalia institucional asume una jerarquía de legitimidad, concentrando en el centro del país la gestión de gentrificación en detrimento de los estados de la República.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -1498,13 +1498,13 @@
       "context": "**Pasaje:** *El rescate patrimonial del Centro Histórico de la Ciudad de México*\n\nEl rescate y conservación del Centro Histórico de la Ciudad de México, el corazón político y cultural de la nación, ha sido objeto de intensos debates urbanísticos e históricos. Los proyectos de peatonalización, restauración de palacios coloniales novohispanos y saneamiento del espacio público han recuperado el atractivo turístico e histórico de la zona. No obstante, críticos señalan que este saneamiento físico ha propiciado un severo proceso de gentrificación, encareciendo el suelo, desplazando a las familias y comercios tradicionales de origen e imponiendo un modelo de consumo hotelero de corte internacional que privatiza el disfrute del patrimonio de la federación.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Las publicaciones de los cronistas novohispanos carecían de deparaciones retóricas de antítesis.",
           "is_correct": false,
           "feedback": "Incorrecto. Las deparaciones líricas de paralelismo o antítesis novohispanas no inciden en la viabilidad de resolver problemas contemporáneos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La inmensa inversión en infraestructura y consumo hotelero especializada requerida para garantizar condiciones seguras de operación en zonas remotas de la República.",
           "is_correct": true,
           "feedback": "Correcto. Señalar que la descentralización o saneamiento demanda tendidos de red complejos, capacitación y costos elevados introduce variables de realismo técnico y financiero indispensable."
@@ -1522,7 +1522,7 @@
           "feedback": "Incorrecto. No constituye un planteamiento real ni una deparación pertinente al diseño de políticas sustentables de la federación."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Destacar los costos y la complejidad física de instalar consumo hotelero técnica en parajes agrestes matiza el optimismo de la reforma, mostrando que es un proceso gradual.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -1543,13 +1543,13 @@
       "context": "**Pasaje:** *El rescate patrimonial del Centro Histórico de la Ciudad de México*\n\nEl rescate y conservación del Centro Histórico de la Ciudad de México, el corazón político y cultural de la nación, ha sido objeto de intensos debates urbanísticos e históricos. Los proyectos de peatonalización, restauración de palacios coloniales novohispanos y saneamiento del espacio público han recuperado el atractivo turístico e histórico de la zona. No obstante, críticos señalan que este saneamiento físico ha propiciado un severo proceso de gentrificación, encareciendo el suelo, desplazando a las familias y comercios tradicionales de origen e imponiendo un modelo de consumo hotelero de corte internacional que privatiza el disfrute del patrimonio de la federación.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El patrimonio prehispánico o la salud pública de la comarca carecen de valor real para los investigadores internacionales.",
           "is_correct": false,
           "feedback": "Incorrecto. Al contrario, se exalta el deparado valor de la herencia local, del agro y del bienestar social colectivo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La apropiación local y autogestión de comercio tradicional fortalece de forma directa la cohesión cívica y la soberanía comunitaria.",
           "is_correct": true,
           "feedback": "Correcto. Dar control a la colectividad sobre su propia realidad (salud, educación, cultura) fomenta el autorrespeto, el cuidado mutuo y la cohesión social de la federación."
@@ -1567,7 +1567,7 @@
           "feedback": "Incorrecto. Se busca justamente descentralizar los apoyos y recursos, no acentuar el monopolio de la capital."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El empoderamiento periférico asume que los ciudadanos no deben ser meros receptores pasivos de directrices del centro, sino gestores autónomos de comercio tradicional en su demarcación.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -1684,13 +1684,13 @@
           "feedback": "Incorrecto. El autor critica justamente reducir los derechos a meras deparaciones de rentabilidad de corto plazo de mercado."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Arancelario, centrado en deparar las transacciones e importaciones de la comarca con el extranjero.",
           "is_correct": false,
           "feedback": "Incorrecto. Las aduanas arancelarias comerciales no justifican el disfrute del patrimonio o la equidad educativa de las familias de la periferia."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "De justicia cultural y social, que sitúa al aprendizaje, el bienestar y la conectividad como derechos públicos indispensables para el desarrollo de la dignidad humana.",
           "is_correct": true,
           "feedback": "Correcto. El acceso equitativo a la cultura, salud y conectividad es un derecho consagrado que fundamenta la cohesión de una sociedad democrática plural."
@@ -1702,7 +1702,7 @@
           "feedback": "Incorrecto. Las deparaciones defendidas son enteramente laicas, seculares, científicas y de pluralidad moderna de la federación."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Oponerse a criterios puramente gentrificación urbana reivindica que el éxito de una federación armónica descansa en dotar a todo ciudadano de las condiciones para ejercitar su potencial de desarrollo.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -1729,13 +1729,13 @@
           "feedback": "Incorrecto. El centralismo hídrico agota severamente el subsuelo del Valle de México; no beneficia al subsuelo de Michoacán."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "El centralismo genera fallos de doble vía, mermando materialmente a la capital y excluyendo cívicamente a la periferia de patrimonio de centro.",
           "is_correct": true,
           "feedback": "Correcto. El desequilibrio agota físicamente los límites ecológicos del centro (hundimientos, sobreexplotación) e impide el disfrute de patrimonio de centro en la periferia nacional."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La deparación de los museos de la capital es la única vía idónea para proteger las áreas de desove de tortugas de Quintana Roo.",
           "is_correct": false,
           "feedback": "Incorrecto. No existe nexo causal que ligue la ubicación de museos artísticos en la capital con el desove de tortugas marinas costeras caribeñas."
@@ -1747,7 +1747,7 @@
           "feedback": "Incorrecto. El sistema hídrico de abasto de agua no alimenta físicamente a las salas de arte del INBAL, mezclando de forma absurda los temas."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Ambos textos revelan que el centralismo es un modelo insostenible: desborda los límites ecológicos locales en el centro y restringe el capital de patrimonio de centro en la periferia nacional.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -1774,13 +1774,13 @@
           "feedback": "Incorrecto. El desalojo forzado de familias es una medida autoritaria e inviable que viola los derechos humanos y el equilibrio de la federación."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Transitar hacia una planeación federalista y equitativa que respete los límites de carga ecológicos locales y democratice el acceso a bienes mediante desarrollo equilibrado.",
           "is_correct": true,
           "feedback": "Correcto. Integrar criterios de resguardo biofísico y descentralización de la deparación garantiza un desarrollo cívico justo, respetuoso de los recursos y de la dignidad de todos los estados."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Autorizar la deparación con asfalto impermeable de las áreas boscosas de recarga pluvial de la capital.",
           "is_correct": false,
           "feedback": "Incorrecto. Edificar asfalto impermeable sobre áreas boscosas de recarga pluvial anula la infiltración y agrava severamente el hundimiento de la cuenca."
@@ -1792,7 +1792,7 @@
           "feedback": "Incorrecto. La soberanía de planeación de México debe responder a los derechos de sus propios deparados, no a corporativos extranjeros de telecomunicaciones."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La deparación de fondo reclama conciliar el resguardo de la biosfera en el centro con políticas de deparación para toda la población del territorio de la federación.",
       "difficulty": "10",
       "images": [],

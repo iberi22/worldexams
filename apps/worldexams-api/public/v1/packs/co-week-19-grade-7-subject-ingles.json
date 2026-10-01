@@ -19,13 +19,13 @@
           "feedback": "Incorrect. This refers to the end of life."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Was born",
           "is_correct": true,
           "feedback": "Correct! \"Was born\" indicates the beginning of a life story."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Studied",
           "is_correct": false,
           "feedback": "Incorrect. This refers to education."
@@ -37,7 +37,7 @@
           "feedback": "Incorrect. This refers to a professional life."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "The student identifies basic vocabulary used in biographical texts.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -163,19 +163,19 @@
           "feedback": "Incorrect. Present tense."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "died",
           "is_correct": true,
           "feedback": "Correct! Past simple of the regular verb \"die\"."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "dead",
           "is_correct": false,
           "feedback": "Incorrect. \"Dead\" is an adjective, not a verb."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "The student understands the correct verb form to describe a past biographical event.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -203,25 +203,25 @@
           "feedback": "Incorrect. Present tense."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "was living / wrote",
           "is_correct": true,
           "feedback": "Correct! Background state (living) and specific action (wrote)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "lived / was writing",
           "is_correct": false,
           "feedback": "Incorrect. \"Lived\" is possible, but \"was living\" is more natural for a background state in a biography."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "is living / wrote",
           "is_correct": false,
           "feedback": "Incorrect. Tense inconsistency."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "The student applies the contrast between Past Continuous and Past Simple in a biographical narrative.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "Describing education in the past.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "study",
           "is_correct": false,
           "feedback": "Incorrect. He completed the study."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "graduated",
           "is_correct": true,
           "feedback": "Correct! \"Graduated\" is the standard verb for finishing university."
@@ -313,7 +313,7 @@
           "feedback": "Incorrect. Grammatically incorrect."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "The student applies specific biographical vocabulary for educational milestones.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -347,19 +347,19 @@
           "feedback": "Incorrect. He \"didn't stop\"."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "He continued his creative career despite a physical challenge.",
           "is_correct": true,
           "feedback": "Correct! His persistence after losing his sight is the main point."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "He only painted when he was young.",
           "is_correct": false,
           "feedback": "Incorrect. He created masterpieces after his accident."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "The student analyzes the narrative to identify the core message or most significant fact of the biography.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -387,25 +387,25 @@
           "feedback": "Incorrect. \"Start\" should be \"started\"."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "In 2010, he started his first business; he was only 18 years old.",
           "is_correct": true,
           "feedback": "Correct! Proper use of past simple and age expression."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "In 2010, he starting his first business and he has 18 years.",
           "is_correct": false,
           "feedback": "Incorrect. \"Starting\" needs \"was\", and age uses \"be\", not \"have\"."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "He started his first business in 2010 when he has 18.",
           "is_correct": false,
           "feedback": "Incorrect. Age must be in the past: \"was\"."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "The student analyzes complex sentence structures common in biographies to ensure correct tense and age usage.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -439,19 +439,19 @@
           "feedback": "Incorrect. This is an education fact."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Sentence 3",
           "is_correct": false,
           "feedback": "Incorrect. This is about his style."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Sentence 4",
           "is_correct": true,
           "feedback": "Correct! This evaluates his overall legacy and recognition."
         }
       ],
-      "correct_answer": "D",
+      "correct_answer": "C",
       "explanation": "The student evaluates the function of different sentences within a biographical text to distinguish between facts and overall significance.",
       "difficulty": "10",
       "images": [],

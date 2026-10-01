@@ -13,13 +13,13 @@
       "context": "En una clase de matemáticas en Colima, los estudiantes exploran funciones que se representan como el cociente de dos polinomios.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Es una función donde la variable independiente $x$ está elevada a una potencia fraccionaria.",
           "is_correct": false,
           "feedback": "Esto describe una función radical o de potencia racional, no una función racional estándar."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Es una función que puede expresarse como el cociente de dos polinomios, $f(x) = \\frac{P(x)}{Q(x)}$, donde $Q(x)$ no es el polinomio cero.",
           "is_correct": true,
           "feedback": "¡Correcto! Una función racional es la razón de dos expresiones polinomiales."
@@ -37,7 +37,7 @@
           "feedback": "El dominio de una función racional son casi todos los números reales (excepto donde el denominador es cero)."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Una función racional es de la forma $f(x) = \\frac{p(x)}{q(x)}$. Su comportamiento está fuertemente influenciado por los valores que hacen que el denominador sea igual a cero.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -103,13 +103,13 @@
       "context": "Se estudia el comportamiento de una función cuando los valores de $x$ se acercan a un valor prohibido en el dominio.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Eje de simetría.",
           "is_correct": false,
           "feedback": "El eje de simetría divide a una figura en dos partes iguales, no es necesariamente una línea de aproximación infinita."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Asíntota vertical.",
           "is_correct": true,
           "feedback": "¡Correcto! Las asíntotas verticales ocurren en los valores de x que anulan al denominador (y no al numerador)."
@@ -127,7 +127,7 @@
           "feedback": "Una tangente toca a la curva; una asíntota es una línea límite que no se toca."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Las asíntotas verticales son rectas de la forma $x = c$. Indican que cuando $x$ se acerca a $c$, los valores de la función tienden a $+\\infty$ o $-\\infty$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -154,25 +154,25 @@
           "feedback": "Este es el valor de la asíntota horizontal (coeficientes principales), no de la intersección con y."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$(0, 5)$",
           "is_correct": true,
           "feedback": "¡Correcto! C(0) = (2*0 + 10) / (0 + 2) = 10 / 2 = 5."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$(0, 10)$",
           "is_correct": false,
           "feedback": "Olvidaste dividir por el término constante del denominador (2)."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$(-2, 0)$",
           "is_correct": false,
           "feedback": "Este punto ni siquiera está en el dominio de la función."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Para cualquier función, la intersección con el eje $y$ se encuentra evaluando la función en $x = 0$. En funciones racionales, esto resulta en el cociente de los términos constantes de los polinomios.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -205,19 +205,19 @@
           "feedback": "Este es el valor que anula al numerador (intersección con x), no al denominador."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "$x = 3$ y $x = -3$",
           "is_correct": true,
           "feedback": "¡Correcto! x^2 - 9 = 0 => (x-3)(x+3) = 0, por lo tanto x=3 y x=-3."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$y = 0$",
           "is_correct": false,
           "feedback": "Esta es una asíntota horizontal, no vertical."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Las asíntotas verticales se localizan encontrando los ceros del denominador que no anulan simultáneamente al numerador. Se resuelven mediante factorización o despeje.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -244,13 +244,13 @@
           "feedback": "Esto solo ocurre cuando el grado del denominador es mayor que el del numerador."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$y = 3$",
           "is_correct": true,
           "feedback": "¡Correcto! Cuando los grados son iguales, la asíntota horizontal es el cociente de los coeficientes principales: 6 / 2 = 3."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$y = -0.4$",
           "is_correct": false,
           "feedback": "Este valor es el cociente de los términos constantes, no de los principales."
@@ -262,7 +262,7 @@
           "feedback": "Todas las funciones racionales donde el grado del numerador es menor o igual al del denominador tienen asíntota horizontal."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Si el grado del numerador es igual al grado del denominador, la asíntota horizontal es la recta $y = \\frac{a}{b}$, donde $a$ y $b$ son los coeficientes de los términos de mayor grado.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -328,19 +328,19 @@
       "context": "Se observa la función $f(x) = \\frac{10}{x^2 + 1}$. Un estudiante nota que para valores muy grandes de $x$, el resultado de la función es casi cero.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$y = 0$",
           "is_correct": true,
           "feedback": "¡Correcto! Como el grado del denominador (2) es mayor que el del numerador (0), la función tiende a cero cuando x tiende a infinito."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$y = 10$",
           "is_correct": false,
           "feedback": "El 10 es el numerador, no la ubicación de la asíntota horizontal."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = 0$",
           "is_correct": false,
           "feedback": "x=0 es una recta vertical; las asíntotas horizontales se definen con y = ..."
@@ -352,7 +352,7 @@
           "feedback": "El hecho de que no tenga asíntotas verticales no impide que tenga una asíntota horizontal."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Cuando el grado del polinomio del denominador es mayor que el grado del polinomio del numerador, el eje $x$ ($y = 0$) es automáticamente la asíntota horizontal de la función.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -379,25 +379,25 @@
           "feedback": "Este es el costo variable por libreta, pero falta prorratear el costo fijo entre las 500 unidades."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "\\$7.00",
           "is_correct": true,
           "feedback": "¡Correcto! P(500) = (5*500 + 1000) / 500 = (2500 + 1000) / 500 = 3500 / 500 = 7."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "\\$10.00",
           "is_correct": false,
           "feedback": "Revisa la suma: 2500 + 1000 = 3500. Al dividir entre 500 da 7."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "\\$2.00",
           "is_correct": false,
           "feedback": "Error en el cálculo. El costo promedio debe ser mayor al costo variable (5)."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Las funciones de costo promedio suelen ser racionales. Evaluar para un valor $n$ implica calcular el costo total y dividirlo entre la cantidad de artículos producidos.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -418,13 +418,13 @@
       "context": "Partiendo de la función básica $f(x) = \\frac{1}{x}$, un estudiante aplica transformaciones para obtener $g(x) = \\frac{1}{x - 5} + 2$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "5 unidades a la izquierda y 2 arriba; asíntotas en $x = -5, y = 2$.",
           "is_correct": false,
           "feedback": "El signo -5 desplaza hacia la derecha (valor que anula al denominador)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "5 unidades a la derecha y 2 arriba; asíntotas en $x = 5, y = 2$.",
           "is_correct": true,
           "feedback": "¡Correcto! x-5=0 indica asíntota en x=5. El +2 externo desplaza la asíntota horizontal a y=2."
@@ -442,7 +442,7 @@
           "feedback": "Se confundieron los valores de los desplazamientos horizontal y vertical."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "En la forma $y = \\frac{a}{x - h} + k$, el valor de $h$ desplaza la asíntota vertical a $x = h$ y el valor de $k$ desplaza la asíntota horizontal a $y = k$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -514,25 +514,25 @@
           "feedback": "Esta función tiene asíntota vertical en x=0, no en 1 o -1."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$f(x) = \\frac{x}{x^2 - 1}$",
           "is_correct": true,
           "feedback": "¡Correcto! El denominador x^2-1 se anula en 1 y -1 (asíntotas verticales). Al ser grado denominador > numerador, y=0 es asíntota horizontal."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$f(x) = \\frac{1}{x - 1}$",
           "is_correct": false,
           "feedback": "Solo tiene una asíntota vertical en x=1."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$f(x) = \\frac{x^2}{x^2 - 1}$",
           "is_correct": false,
           "feedback": "Esta tendría una asíntota horizontal en y=1, no en y=0."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Para tener asíntotas en \\$1$ y $-1$, el denominador debe contener los factores $(x-1)$ y $(x+1)$. Para que la asíntota horizontal sea $y=0$, el grado del numerador debe ser menor al del denominador.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -553,13 +553,13 @@
       "context": "Un investigador estudia el signo de la función $f(x) = \\frac{x - 3}{x + 2}$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$(-\\infty, -2) \\cup (3, \\infty)$",
           "is_correct": false,
           "feedback": "En estos intervalos los signos del numerador y denominador coinciden, resultando en valores positivos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$(-2, 3)$",
           "is_correct": true,
           "feedback": "¡Correcto! Si x=0 (dentro del intervalo), f(0) = -3/2 = -1.5, que es negativo."
@@ -577,7 +577,7 @@
           "feedback": "Aquí tanto x-3 como x+2 son negativos, por lo que el cociente es positivo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El signo cambia en los valores que anulan al numerador (\\$3$) o al denominador ($-2$). Al probar valores en los intervalos definidos por estos puntos, se determina la región donde la función es negativa.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -604,25 +604,25 @@
           "feedback": "El grado del numerador es mayor al del denominador, por lo que no hay asíntota horizontal."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Una asíntota oblicua (diagonal).",
           "is_correct": true,
           "feedback": "¡Correcto! Esto ocurre cuando el grado del numerador es exactamente uno mayor que el del denominador."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ninguna otra asíntota.",
           "is_correct": false,
           "feedback": "Al realizar la división sintética o larga se obtiene una parte lineal que define una recta oblicua."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Una asíntota horizontal en $y = 0$.",
           "is_correct": false,
           "feedback": "Esto solo ocurre si el denominador tiene mayor grado."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Las asíntotas oblicuas ocurren cuando el grado del numerador ($n$) es exactamente $n = m + 1$, donde $m$ es el grado del denominador. Se obtiene realizando la división de los polinomios.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -649,13 +649,13 @@
           "feedback": "x^2+4 nunca se hace cero para valores reales de x (2^2+4=8, (-2)^2+4=8)."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Todos los números reales ($(-\\infty, \\infty)$).",
           "is_correct": true,
           "feedback": "¡Correcto! El denominador x^2+4 es siempre mayor o igual a 4, por lo que nunca es cero y no hay restricciones."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\{x \\in \\mathbb{R} \\mid x > 4\\}$.",
           "is_correct": false,
           "feedback": "No hay restricciones para valores pequeños o negativos."
@@ -667,7 +667,7 @@
           "feedback": "El valor x=4 daría 4^2+4=20 en el denominador, lo cual es válido."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "No todas las funciones racionales tienen asíntotas verticales. Si el denominador nunca es igual a cero para ningún valor real de $x$, el dominio de la función es todo el conjunto $\\mathbb{R}$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -694,13 +694,13 @@
           "feedback": "Olvidaste factorizar el 2 y aplicar la diferencia de cuadrados correctamente."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "\\$2x - 4$",
           "is_correct": true,
           "feedback": "¡Correcto! 2(x^2 - 4) / (x + 2) = 2(x-2)(x+2) / (x+2) = 2(x-2) = 2x - 4."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x - 2$",
           "is_correct": false,
           "feedback": "El factor 2 que multiplica a x^2 debe conservarse en el resultado final."
@@ -712,7 +712,7 @@
           "feedback": "El factor que queda tras cancelar (x+2) es (x-2), por lo tanto 2(x-2) = 2x-4."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Simplificar funciones racionales requiere factorizar tanto el numerador como el denominador para identificar y cancelar factores comunes, teniendo en cuenta las restricciones del dominio original.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -739,25 +739,25 @@
           "feedback": "Los tiempos de ida y vuelta se calculan por separado y se suman, no se puede simplemente promediar las velocidades en el denominador."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$T(v) = \\frac{120}{v} + \\frac{120}{v + 20}$",
           "is_correct": true,
           "feedback": "¡Correcto! Tiempo = Distancia / Velocidad. T_total = T_ida (120/v) + T_regreso (120/(v+20))."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$T(v) = \\frac{v}{120} + \\frac{v + 20}{120}$",
           "is_correct": false,
           "feedback": "Esto representaría el recíproco del tiempo, no el tiempo en sí."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$T(v) = \\frac{240v + 2400}{v^2 + 20v}$",
           "is_correct": false,
           "feedback": "Esta es una forma simplificada parcial, pero la opción B es la representación directa del problema de modelado."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "En problemas de tiempo-distancia-velocidad, si hay diferentes tramos, el tiempo total es la suma de las funciones racionales que representan el tiempo en cada tramo: $T = \\frac{d_1}{v_1} + \\frac{d_2}{v_2}$.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -913,13 +913,13 @@
       "context": "En un salón de clases en Puebla, se registran las calificaciones finales de matemáticas de un grupo de estudiantes.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "8.4",
           "is_correct": true,
           "feedback": "¡Correcto! Sumando las calificaciones: 7 + 8 + 8 + 9 + 10 = 42. Al dividir entre el número de estudiantes (5), obtenemos 42 / 5 = 8.4."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "8.0",
           "is_correct": false,
           "feedback": "Incorrecto. Este valor corresponde a la mediana y a la moda del conjunto de datos."
@@ -937,7 +937,7 @@
           "feedback": "Incorrecto. Este valor es una calificación individual de la muestra analizada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Para calcular la media aritmética, sumamos todos los datos de la muestra y dividimos el resultado entre el número total de observaciones. Suma = 7 + 8 + 8 + 9 + 10 = 42. Dividimos entre 5 observaciones: Media = 42 / 5 = 8.4.",
       "difficulty": "4",
       "images": [],
@@ -958,13 +958,13 @@
       "context": "Un estudiante de bachillerato en Toluca lanza un dado estándar de seis caras para un experimento probabilístico.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "1/2",
           "is_correct": true,
           "feedback": "¡Correcto! Los números primos posibles en un dado de 6 caras son 2, 3 y 5 (3 casos favorables). La probabilidad es 3/6 = 1/2 o 50%."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "1/3",
           "is_correct": false,
           "feedback": "Incorrecto. Se identificaron incorrectamente la cantidad de números primos en el dado."
@@ -982,7 +982,7 @@
           "feedback": "Incorrecto. Esta es la probabilidad de obtener cualquier número específico individual."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El espacio muestral al lanzar un dado de 6 caras es S = {1, 2, 3, 4, 5, 6}, que contiene 6 casos posibles. Los números primos de este conjunto son 2, 3 y 5 (3 casos favorables). Aplicando la probabilidad clásica: P = Casos favorables / Casos posibles = 3/6 = 1/2.",
       "difficulty": "4",
       "images": [],
@@ -1003,19 +1003,19 @@
       "context": "Análisis estadístico descriptivo en un bachillerato de México, caso 3.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "7",
           "is_correct": true,
           "feedback": "¡Correcto! Dado que el número de observaciones es impar (5 datos) y ya se encuentran ordenados, el dato del centro es el tercero, es decir, el 7."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "5",
           "is_correct": false,
           "feedback": "Incorrecto. Este es el segundo dato del conjunto, no el central."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "11",
           "is_correct": false,
           "feedback": "Incorrecto. Este es el cuarto dato de la distribución ordenada."
@@ -1027,7 +1027,7 @@
           "feedback": "Incorrecto. No corresponde al valor de la mediana de este conjunto de datos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La mediana es el valor que se encuentra en la posición central de un conjunto de datos previamente ordenados de menor a mayor. Como el número de datos es 5 (impar), la posición de la mediana es el tercer elemento. En la serie [3, 5, 7, 11, 15], el tercer elemento es exactamente 7.",
       "difficulty": "4",
       "images": [],
@@ -1048,13 +1048,13 @@
       "context": "Análisis estadístico descriptivo en un bachillerato de México, caso 4.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "7",
           "is_correct": true,
           "feedback": "¡Correcto! Dado que el número de observaciones es impar (5 datos) y ya se encuentran ordenados, el dato del centro es el tercero, es decir, el 7."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "5",
           "is_correct": false,
           "feedback": "Incorrecto. Este es el segundo dato del conjunto, no el central."
@@ -1072,7 +1072,7 @@
           "feedback": "Incorrecto. No corresponde al valor de la mediana de este conjunto de datos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La mediana es el valor que se encuentra en la posición central de un conjunto de datos previamente ordenados de menor a mayor. Como el número de datos es 5 (impar), la posición de la mediana es el tercer elemento. En la serie [3, 5, 7, 12, 15], el tercer elemento es exactamente 7.",
       "difficulty": "4",
       "images": [],
@@ -1093,31 +1093,31 @@
       "context": "Análisis estadístico descriptivo en un bachillerato de México, caso 5.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "7",
           "is_correct": true,
           "feedback": "¡Correcto! Dado que el número de observaciones es impar (5 datos) y ya se encuentran ordenados, el dato del centro es el tercero, es decir, el 7."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "5",
           "is_correct": false,
           "feedback": "Incorrecto. Este es el segundo dato del conjunto, no el central."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "13",
           "is_correct": false,
           "feedback": "Incorrecto. Este es el cuarto dato de la distribución ordenada."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "9",
           "is_correct": false,
           "feedback": "Incorrecto. No corresponde al valor de la mediana de este conjunto de datos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La mediana es el valor que se encuentra en la posición central de un conjunto de datos previamente ordenados de menor a mayor. Como el número de datos es 5 (impar), la posición de la mediana es el tercer elemento. En la serie [3, 5, 7, 13, 15], el tercer elemento es exactamente 7.",
       "difficulty": "6",
       "images": [],
@@ -1138,19 +1138,19 @@
       "context": "Análisis estadístico descriptivo en un bachillerato de México, caso 6.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "7",
           "is_correct": true,
           "feedback": "¡Correcto! Dado que el número de observaciones es impar (5 datos) y ya se encuentran ordenados, el dato del centro es el tercero, es decir, el 7."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "5",
           "is_correct": false,
           "feedback": "Incorrecto. Este es el segundo dato del conjunto, no el central."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "14",
           "is_correct": false,
           "feedback": "Incorrecto. Este es el cuarto dato de la distribución ordenada."
@@ -1162,7 +1162,7 @@
           "feedback": "Incorrecto. No corresponde al valor de la mediana de este conjunto de datos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La mediana es el valor que se encuentra en la posición central de un conjunto de datos previamente ordenados de menor a mayor. Como el número de datos es 5 (impar), la posición de la mediana es el tercer elemento. En la serie [3, 5, 7, 14, 15], el tercer elemento es exactamente 7.",
       "difficulty": "6",
       "images": [],
@@ -1183,19 +1183,19 @@
       "context": "Análisis estadístico descriptivo en un bachillerato de México, caso 7.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "7",
           "is_correct": true,
           "feedback": "¡Correcto! Dado que el número de observaciones es impar (5 datos) y ya se encuentran ordenados, el dato del centro es el tercero, es decir, el 7."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "5",
           "is_correct": false,
           "feedback": "Incorrecto. Este es el segundo dato del conjunto, no el central."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "15",
           "is_correct": false,
           "feedback": "Incorrecto. Este es el cuarto dato de la distribución ordenada."
@@ -1207,7 +1207,7 @@
           "feedback": "Incorrecto. No corresponde al valor de la mediana de este conjunto de datos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La mediana es el valor que se encuentra en la posición central de un conjunto de datos previamente ordenados de menor a mayor. Como el número de datos es 5 (impar), la posición de la mediana es el tercer elemento. En la serie [3, 5, 7, 15, 15], el tercer elemento es exactamente 7.",
       "difficulty": "6",
       "images": [],
@@ -1228,31 +1228,31 @@
       "context": "Análisis estadístico descriptivo en un bachillerato de México, caso 8.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "7",
           "is_correct": true,
           "feedback": "¡Correcto! Dado que el número de observaciones es impar (5 datos) y ya se encuentran ordenados, el dato del centro es el tercero, es decir, el 7."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "5",
           "is_correct": false,
           "feedback": "Incorrecto. Este es el segundo dato del conjunto, no el central."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "16",
           "is_correct": false,
           "feedback": "Incorrecto. Este es el cuarto dato de la distribución ordenada."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "9",
           "is_correct": false,
           "feedback": "Incorrecto. No corresponde al valor de la mediana de este conjunto de datos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La mediana es el valor que se encuentra en la posición central de un conjunto de datos previamente ordenados de menor a mayor. Como el número de datos es 5 (impar), la posición de la mediana es el tercer elemento. En la serie [3, 5, 7, 16, 15], el tercer elemento es exactamente 7.",
       "difficulty": "6",
       "images": [],
@@ -1273,31 +1273,31 @@
       "context": "Análisis estadístico descriptivo en un bachillerato de México, caso 9.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "7",
           "is_correct": true,
           "feedback": "¡Correcto! Dado que el número de observaciones es impar (5 datos) y ya se encuentran ordenados, el dato del centro es el tercero, es decir, el 7."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "5",
           "is_correct": false,
           "feedback": "Incorrecto. Este es el segundo dato del conjunto, no el central."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "17",
           "is_correct": false,
           "feedback": "Incorrecto. Este es el cuarto dato de la distribución ordenada."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "9",
           "is_correct": false,
           "feedback": "Incorrecto. No corresponde al valor de la mediana de este conjunto de datos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La mediana es el valor que se encuentra en la posición central de un conjunto de datos previamente ordenados de menor a mayor. Como el número de datos es 5 (impar), la posición de la mediana es el tercer elemento. En la serie [3, 5, 7, 17, 15], el tercer elemento es exactamente 7.",
       "difficulty": "6",
       "images": [],
@@ -1363,31 +1363,31 @@
       "context": "Análisis estadístico descriptivo en un bachillerato de México, caso 11.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "7",
           "is_correct": true,
           "feedback": "¡Correcto! Dado que el número de observaciones es impar (5 datos) y ya se encuentran ordenados, el dato del centro es el tercero, es decir, el 7."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "5",
           "is_correct": false,
           "feedback": "Incorrecto. Este es el segundo dato del conjunto, no el central."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "19",
           "is_correct": false,
           "feedback": "Incorrecto. Este es el cuarto dato de la distribución ordenada."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "9",
           "is_correct": false,
           "feedback": "Incorrecto. No corresponde al valor de la mediana de este conjunto de datos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La mediana es el valor que se encuentra en la posición central de un conjunto de datos previamente ordenados de menor a mayor. Como el número de datos es 5 (impar), la posición de la mediana es el tercer elemento. En la serie [3, 5, 7, 19, 15], el tercer elemento es exactamente 7.",
       "difficulty": "8",
       "images": [],
@@ -1453,31 +1453,31 @@
       "context": "Análisis estadístico descriptivo en un bachillerato de México, caso 13.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "7",
           "is_correct": true,
           "feedback": "¡Correcto! Dado que el número de observaciones es impar (5 datos) y ya se encuentran ordenados, el dato del centro es el tercero, es decir, el 7."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "5",
           "is_correct": false,
           "feedback": "Incorrecto. Este es el segundo dato del conjunto, no el central."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "21",
           "is_correct": false,
           "feedback": "Incorrecto. Este es el cuarto dato de la distribución ordenada."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "9",
           "is_correct": false,
           "feedback": "Incorrecto. No corresponde al valor de la mediana de este conjunto de datos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La mediana es el valor que se encuentra en la posición central de un conjunto de datos previamente ordenados de menor a mayor. Como el número de datos es 5 (impar), la posición de la mediana es el tercer elemento. En la serie [3, 5, 7, 21, 15], el tercer elemento es exactamente 7.",
       "difficulty": "8",
       "images": [],
@@ -1543,19 +1543,19 @@
       "context": "Análisis estadístico descriptivo en un bachillerato de México, caso 15.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "7",
           "is_correct": true,
           "feedback": "¡Correcto! Dado que el número de observaciones es impar (5 datos) y ya se encuentran ordenados, el dato del centro es el tercero, es decir, el 7."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "5",
           "is_correct": false,
           "feedback": "Incorrecto. Este es el segundo dato del conjunto, no el central."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "23",
           "is_correct": false,
           "feedback": "Incorrecto. Este es el cuarto dato de la distribución ordenada."
@@ -1567,7 +1567,7 @@
           "feedback": "Incorrecto. No corresponde al valor de la mediana de este conjunto de datos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La mediana es el valor que se encuentra en la posición central de un conjunto de datos previamente ordenados de menor a mayor. Como el número de datos es 5 (impar), la posición de la mediana es el tercer elemento. En la serie [3, 5, 7, 23, 15], el tercer elemento es exactamente 7.",
       "difficulty": "8",
       "images": [],
@@ -1633,13 +1633,13 @@
       "context": "Análisis estadístico descriptivo en un bachillerato de México, caso 17.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "7",
           "is_correct": true,
           "feedback": "¡Correcto! Dado que el número de observaciones es impar (5 datos) y ya se encuentran ordenados, el dato del centro es el tercero, es decir, el 7."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "5",
           "is_correct": false,
           "feedback": "Incorrecto. Este es el segundo dato del conjunto, no el central."
@@ -1657,7 +1657,7 @@
           "feedback": "Incorrecto. No corresponde al valor de la mediana de este conjunto de datos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La mediana es el valor que se encuentra en la posición central de un conjunto de datos previamente ordenados de menor a mayor. Como el número de datos es 5 (impar), la posición de la mediana es el tercer elemento. En la serie [3, 5, 7, 25, 15], el tercer elemento es exactamente 7.",
       "difficulty": "10",
       "images": [],
@@ -1678,19 +1678,19 @@
       "context": "Análisis estadístico descriptivo en un bachillerato de México, caso 18.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "7",
           "is_correct": true,
           "feedback": "¡Correcto! Dado que el número de observaciones es impar (5 datos) y ya se encuentran ordenados, el dato del centro es el tercero, es decir, el 7."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "5",
           "is_correct": false,
           "feedback": "Incorrecto. Este es el segundo dato del conjunto, no el central."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "26",
           "is_correct": false,
           "feedback": "Incorrecto. Este es el cuarto dato de la distribución ordenada."
@@ -1702,7 +1702,7 @@
           "feedback": "Incorrecto. No corresponde al valor de la mediana de este conjunto de datos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La mediana es el valor que se encuentra en la posición central de un conjunto de datos previamente ordenados de menor a mayor. Como el número de datos es 5 (impar), la posición de la mediana es el tercer elemento. En la serie [3, 5, 7, 26, 15], el tercer elemento es exactamente 7.",
       "difficulty": "10",
       "images": [],
@@ -1723,13 +1723,13 @@
       "context": "Análisis estadístico descriptivo en un bachillerato de México, caso 19.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "7",
           "is_correct": true,
           "feedback": "¡Correcto! Dado que el número de observaciones es impar (5 datos) y ya se encuentran ordenados, el dato del centro es el tercero, es decir, el 7."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "5",
           "is_correct": false,
           "feedback": "Incorrecto. Este es el segundo dato del conjunto, no el central."
@@ -1747,7 +1747,7 @@
           "feedback": "Incorrecto. No corresponde al valor de la mediana de este conjunto de datos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La mediana es el valor que se encuentra en la posición central de un conjunto de datos previamente ordenados de menor a mayor. Como el número de datos es 5 (impar), la posición de la mediana es el tercer elemento. En la serie [3, 5, 7, 27, 15], el tercer elemento es exactamente 7.",
       "difficulty": "10",
       "images": [],
@@ -1768,13 +1768,13 @@
       "context": "Análisis estadístico descriptivo en un bachillerato de México, caso 20.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "7",
           "is_correct": true,
           "feedback": "¡Correcto! Dado que el número de observaciones es impar (5 datos) y ya se encuentran ordenados, el dato del centro es el tercero, es decir, el 7."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "5",
           "is_correct": false,
           "feedback": "Incorrecto. Este es el segundo dato del conjunto, no el central."
@@ -1792,7 +1792,7 @@
           "feedback": "Incorrecto. No corresponde al valor de la mediana de este conjunto de datos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La mediana es el valor que se encuentra en la posición central de un conjunto de datos previamente ordenados de menor a mayor. Como el número de datos es 5 (impar), la posición de la mediana es el tercer elemento. En la serie [3, 5, 7, 28, 15], el tercer elemento es exactamente 7.",
       "difficulty": "10",
       "images": [],

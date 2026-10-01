@@ -13,19 +13,19 @@
       "context": "En Santa Cruz, Jhonny en el Colegio Nacional Santa Cruz analiza el ejercicio #1: Un líder comunitario señala: 'Si no aprobamos este proyecto minero hoy, la pobreza destruirá nuestro pueblo el próximo mes'..",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Falacia del falso dilema",
           "is_correct": true,
           "feedback": "¡Correcto! Reduce un problema socioeconómico complejo a solo dos alternativas extremas excluyendo soluciones intermedias."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Falacia ad hominem",
           "is_correct": false,
           "feedback": "Incorrecto. No se ataca a la persona de ningún interlocutor."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Falacia de apelación a la autoridad",
           "is_correct": false,
           "feedback": "Incorrecto. No apoya su argumento en el prestigio de un tercero."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. No concluye a partir de una muestra de datos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El falso dilema fuerza al interlocutor a elegir entre dos opciones polares opuestas ignorando posibilidades intermedias.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -58,13 +58,13 @@
       "context": "En Cochabamba, Marisol en el Colegio Nacional Sucre analiza el ejercicio #2: Un spot publicitario sostiene: 'Consuma este tónico energético porque lo recomienda una famosa modelo de televisión'..",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Falacia de apelación a la falsa autoridad",
           "is_correct": true,
           "feedback": "¡Correcto! Utiliza el prestigio de una figura del espectáculo en un tema médico-nutricional ajeno a su competencia."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Falacia de causa falsa",
           "is_correct": false,
           "feedback": "Incorrecto. No establece una relación causa-efecto temporal errónea."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. No recurre a la amenaza o la fuerza física."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Apelar a una falsa autoridad consiste en justificar la calidad de una afirmación respaldándose en alguien que carece de idoneidad técnica en el tema.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -103,31 +103,31 @@
       "context": "En Sucre, Walter en el Colegio Nacional Junín analiza el ejercicio #3: En un debate político, un candidato afirma: 'La propuesta sobre salud de mi oponente no vale nada porque él nunca vivió en el campo'..",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Falacia ad hominem de ataque personal",
           "is_correct": true,
           "feedback": "¡Correcto! Ataca la condición o procedencia del emisor para descalificar su argumento en lugar de refutar la propuesta."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Falacia de petición de principio",
           "is_correct": false,
           "feedback": "Incorrecto. No incurre en un argumento circular."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Falacia de la pendiente resbaladiza",
           "is_correct": false,
           "feedback": "Incorrecto. No describe una cadena catastrófica de eventos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Falacia ad ignorantiam",
           "is_correct": false,
           "feedback": "Incorrecto. No sostiene que algo sea cierto por no haberse probado falso."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La falacia ad hominem pretende invalidar una idea dirigiendo el ataque hacia los atributos o biografía de la persona que la sostiene.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,19 +148,19 @@
       "context": "En Potosí, Sonia en el Colegio Nacional Bolívar analiza el ejercicio #4: El informe empresarial destaca las altas ganancias obtenidas en el trimestre, pero oculta la cifra de trabajadores despedidos..",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Sesgo por omisión de datos contrastantes",
           "is_correct": true,
           "feedback": "¡Correcto! Presenta una visión unilateral positiva ocultando los costos sociales o impactos colaterales."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Uso de metáforas poéticas",
           "is_correct": false,
           "feedback": "Incorrecto. No se trata de un recurso de estética lírica."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Demostración axiomática rigurosa",
           "is_correct": false,
           "feedback": "Incorrecto. Carece de la neutralidad requerida en un informe objetivo."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. Contiene un sesgo deliberado de selección de información."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El sesgo por omisión selecciona únicamente la información conveniente al emisor y silencia los hechos desfavorables.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -193,31 +193,31 @@
       "context": "En Oruro, Ramiro en el Colegio Nacional Potosí analiza el ejercicio #5: Una columna de opinión concluye: 'Todos los jóvenes de hoy son apáticos porque vi a dos muchachos mirando su teléfono en la plaza'..",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Falacia de generalización apresurada",
           "is_correct": true,
           "feedback": "¡Correcto! Extrae una conclusión universal sobre toda la juventud a partir de una muestra insuficiente de dos personas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Falacia ad antiquitatem",
           "is_correct": false,
           "feedback": "Incorrecto. No justifica una acción por tradición antigua."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Falacia de falso dilema",
           "is_correct": false,
           "feedback": "Incorrecto. No limita las opciones a dos alternativas."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Falacia de apelación a la piedad",
           "is_correct": false,
           "feedback": "Incorrecto. No busca despertar compasión o lástima."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La generalización apresurada comete el error de extender un juicio categórico a toda una población a partir de pocos casos aislados.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -283,19 +283,19 @@
       "context": "En Trinidad, Jaime en el Liceo Pantaleón Dalence analiza el ejercicio #7: Un discurso señala: 'Debemos mantener esta ley intacta porque siempre se ha hecho así durante los últimos cincuenta años'..",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Falacia ad antiquitatem o de la tradición",
           "is_correct": true,
           "feedback": "¡Correcto! Justifica la validez de una norma únicamente por su antigüedad e inercia histórica."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Falacia de la pendiente resbaladiza",
           "is_correct": false,
           "feedback": "Incorrecto. No describe consecuencias en cadena."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Falacia del hombre de paja",
           "is_correct": false,
           "feedback": "Incorrecto. No tergiversa la postura del oponente."
@@ -307,7 +307,7 @@
           "feedback": "Incorrecto. No sostiene que algo sea mejor por ser nuevo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La falacia ad antiquitatem afirma que una costumbre o norma es correcta únicamente porque ha perdurado durante mucho tiempo.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -373,13 +373,13 @@
       "context": "En El Alto, Grover en el Colegio San Calixto analiza el ejercicio #9: Un expositor afirma: 'Mi teoría sobre el clima es cierta porque ninguno de ustedes ha podido demostrar de forma absoluta que sea falsa'..",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Falacia ad ignorantiam o apelación a la ignorancia",
           "is_correct": true,
           "feedback": "¡Correcto! Dar por probada una afirmación solo porque no se ha demostrado formalmente su falsedad."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Falacia ad populum",
           "is_correct": false,
           "feedback": "Incorrecto. No apela a la opinión de las masas."
@@ -397,7 +397,7 @@
           "feedback": "Incorrecto. No limita el caso a dos opciones opuestas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La falacia ad ignorantiam pretende que una afirmación es verdadera basándose en la falta de pruebas en su contra.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -418,31 +418,31 @@
       "context": "En La Paz, Carlos en el Colegio Nacional Ayacucho analiza el ejercicio #10: En un foro se argumenta: 'La ley de transportes es buena porque fue redactada para hacer el bien a todos los ciudadanos'..",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Falacia de petición de principio o argumento circular",
           "is_correct": true,
           "feedback": "¡Correcto! Repite la premisa inicial en la conclusión sin aportar razones independientes."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Falacia ad hominem",
           "is_correct": false,
           "feedback": "Incorrecto. No ataca a ninguna persona."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Falacia de la pendiente resbaladiza",
           "is_correct": false,
           "feedback": "Incorrecto. No augura catástrofes sucesivas."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Falacia ad baculum",
           "is_correct": false,
           "feedback": "Incorrecto. No recurre a la fuerza o intimidación."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La petición de principio asume como probado en las premisas lo mismo que se pretende demostrar en la conclusión.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -463,31 +463,31 @@
       "context": "En Santa Cruz, Ana en el Colegio Nacional Santa Cruz analiza el ejercicio #11: El titular de prensa dice: '¡Escándalo total en la alcaldía!', pero el cuerpo de la noticia solo relata la reprogramación de una reunión..",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Sensacionalismo o amarillismo mediático",
           "is_correct": true,
           "feedback": "¡Correcto! Exagera de forma desproporcionada el titular para atraer al público mediante el morbo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Periodismo de investigación riguroso",
           "is_correct": false,
           "feedback": "Incorrecto. El cuerpo del texto no demuestra la acusación del titular."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Crónica literaria de viaje",
           "is_correct": false,
           "feedback": "Incorrecto. No es un relato de costumbres ni desplazamientos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Ensayo filosófico académico",
           "is_correct": false,
           "feedback": "Incorrecto. No es una reflexión conceptual estructurada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El sensacionalismo mediático deforma la jerarquía informativa usando titulares alarmistas incongruentes con el contenido real.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -508,19 +508,19 @@
       "context": "En Cochabamba, Marcos en el Colegio Nacional Sucre analiza el ejercicio #12: Un comunicado oficial utiliza la expresión 'ajuste de tarifas' en lugar de 'aumento de precios'..",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Uso de eufemismos persuasivos",
           "is_correct": true,
           "feedback": "¡Correcto! Suaviza o disfraza una realidad desfavorable mediante términos de menor impacto emotivo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Uso de disfemismos peyorativos",
           "is_correct": false,
           "feedback": "Incorrecto. El disfemismo busca enfatizar lo negativo de forma cruda."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Uso de metáforas poéticas líricas",
           "is_correct": false,
           "feedback": "Incorrecto. No tiene una intención estética sino administrativa."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. Es un lenguaje formal burocrático."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El eufemismo sustituye una palabra de connotación negativa o dura por una expresión más neutra para atenuar la reacción del público.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -553,13 +553,13 @@
       "context": "En Sucre, Lidia en el Colegio Nacional Junín analiza el ejercicio #13: En un discurso electoral se repiten las palabras 'dignidad' y 'futuro' sin explicar ninguna medida concreta de gobierno..",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Uso de palabras eslogan vacías de contenido",
           "is_correct": true,
           "feedback": "¡Correcto! Apela a la emotividad del auditorio mediante conceptos abstractos sin sustento propositivo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Demostración estadística empírica",
           "is_correct": false,
           "feedback": "Incorrecto. Carece por completo de datos cuantitativos."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. No es la lectura de un reglamento oficial."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Los discursos de persuasión masiva recurren a términos de alta carga emotiva positiva sin definir compromisos concretos.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -688,31 +688,31 @@
       "context": "En Tarija, Rosmery en el Colegio Nacional San Luis analiza el ejercicio #16: Un folleto turístico describe una ciudad histórica usando adjetivos calificativos como 'paraíso celestial único en el mundo'..",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Lenguaje valorativo altamente connotativo",
           "is_correct": true,
           "feedback": "¡Correcto! Sugestiona positivamente la percepción del lector mediante adjetivación afectiva."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Lenguaje técnico denotativo neutro",
           "is_correct": false,
           "feedback": "Incorrecto. El texto no busca la neutralidad de un informe geográfico."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Lenguaje jurídico normativo",
           "is_correct": false,
           "feedback": "Incorrecto. No establece artículos ni sanciones legales."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Lenguaje algebraico abstracto",
           "is_correct": false,
           "feedback": "Incorrecto. No utiliza fórmulas ni variables numéricas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La publicidad turística recurre al lenguaje connotativo y a los adjetivos ponderativos para crear una imagen idílica de los destinos.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -733,31 +733,31 @@
       "context": "En Trinidad, Willy en el Liceo Pantaleón Dalence analiza el ejercicio #17: El portavoz gubernamental responde a una pregunta sobre corrupción hablando sobre el clima y el deporte nacional..",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Técnica de evasión o 'cortina de humo'",
           "is_correct": true,
           "feedback": "¡Correcto! Desvía la atención del tema central hacia un asunto irrelevante para evitar dar explicaciones."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Respuesta directa fundamentada",
           "is_correct": false,
           "feedback": "Incorrecto. Evitó por completo abordar la pregunta formulada."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Análisis estadístico riguroso",
           "is_correct": false,
           "feedback": "Incorrecto. No aportó datos sobre el tema de corrupción."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Conclusión silogística válida",
           "is_correct": false,
           "feedback": "Incorrecto. No construyó ningún razonamiento sobre la pregunta."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La cortina de humo o maniobra evasiva sustituye la respuesta requerida por un discurso irrelevante para distraer la atención pública.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -778,19 +778,19 @@
       "context": "En Cobija, Teresa en el Colegio Don Bosco analiza el ejercicio #18: Un anuncio utiliza la imagen de una familia sonriente en un campo primaveral para vender un producto químico de limpieza..",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Asociación de transferencia emotiva",
           "is_correct": true,
           "feedback": "¡Correcto! Vincula valores positivos del inconsciente (familia, naturaleza) con un bien comercial."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Demostración científica de laboratorio",
           "is_correct": false,
           "feedback": "Incorrecto. No presenta pruebas químicas del producto."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Argumentación lógica deductiva",
           "is_correct": false,
           "feedback": "Incorrecto. No construye premisas sobre la fórmula del limpiador."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. No analiza el efecto químico del producto en el agua."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La publicidad asociativa transfiere las emociones positivas evocadas por una imagen idílica hacia la marca comercial.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -823,13 +823,13 @@
       "context": "En El Alto, Felipe en el Colegio San Calixto analiza el ejercicio #19: En una entrevista se formuló la pregunta: '¿Sigue usted ocultando la información sobre los gastos del proyecto?'..",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Pregunta compleja o presuposición tramposa",
           "is_correct": true,
           "feedback": "¡Correcto! Da por sentada una acusación previa implícita (que el entrevistado ocultaba información)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Pregunta neutra abierta",
           "is_correct": false,
           "feedback": "Incorrecto. No es imparcial pues fuerza una admisión implícita."
@@ -847,7 +847,7 @@
           "feedback": "Incorrecto. No es una figura estética sino una técnica periodística inquisitiva."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La pregunta compleja encierra una presuposición no demostrada de modo que cualquier respuesta directa ('sí' o 'no') admite la falta.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -868,13 +868,13 @@
       "context": "En La Paz, Roxana en el Colegio Nacional Ayacucho analiza el ejercicio #20: Un ensayo crítico deconstruye los estereotipos de género presentes en los textos escolares del siglo XIX..",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Análisis ideológico del discurso",
           "is_correct": true,
           "feedback": "¡Correcto! Identifica y cuestiona las estructuras de poder y prejuicios culturales naturalizados."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Análisis métrico de versificación",
           "is_correct": false,
           "feedback": "Incorrecto. Los textos escolares en prosa no poseen métrica poética."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. No se limita a revisar reglas de acentuación o grafías."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El análisis ideológico del discurso examina cómo los textos reproducen o legitiman relaciones de poder y prejuicios sociales.",
       "difficulty": "10",
       "images": [],

@@ -13,13 +13,13 @@
       "context": "En Bogotá, un estudiante debe calcular la longitud del borde de una tapa circular de radio r.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "2πr",
           "is_correct": true,
           "feedback": "Correcto. La longitud de la circunferencia es 2πr, equivalente a π por el diámetro."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "πr²",
           "is_correct": false,
           "feedback": "Incorrecto. Esa expresión corresponde al área del círculo, no a su longitud."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Ese producto duplica el área del círculo y no representa una longitud."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La longitud de la circunferencia se obtiene con la fórmula L = 2πr, donde r es el radio.",
       "difficulty": "4",
       "images": [],
@@ -105,19 +105,19 @@
       "context": "En Cali, una piscina circular tiene un radio de 5 m. Use π ≈ 3.14.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "78.5 m²",
           "is_correct": true,
           "feedback": "Correcto. A = πr² = 3.14 × 25 = 78.5 m²."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "31.4 m²",
           "is_correct": false,
           "feedback": "Incorrecto. Ese valor es la longitud de la circunferencia (2πr), no el área."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "15.7 m²",
           "is_correct": false,
           "feedback": "Incorrecto. Calculaste πr sin elevar el radio al cuadrado."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecto. Duplicaste el área correcta sin justificación."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Con r = 5 m se obtiene A = πr² = 3.14 × 25 = 78.5 m².",
       "difficulty": "6",
       "images": [],
@@ -151,13 +151,13 @@
       "context": "En Barranquilla, una tapa de alcantarilla tiene un diámetro de 14 dm. Use π ≈ 3.14.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "21.98 dm",
           "is_correct": false,
           "feedback": "Incorrecto. Usaste el radio (7 dm) como si fuera el diámetro."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "43.96 dm",
           "is_correct": true,
           "feedback": "Correcto. L = πd = 3.14 × 14 = 43.96 dm."
@@ -175,7 +175,7 @@
           "feedback": "Incorrecto. Duplicaste la longitud correcta sin justificación."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Como la longitud es π por el diámetro, L = 3.14 × 14 = 43.96 dm.",
       "difficulty": "6",
       "images": [],
@@ -249,13 +249,13 @@
           "feedback": "Incorrecto. Ese valor corresponde a la semicircunferencia, no a un arco de 90°."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "6π cm",
           "is_correct": true,
           "feedback": "Correcto. L = (90/360) × 2πr = 0.25 × 24π = 6π cm."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "3π cm",
           "is_correct": false,
           "feedback": "Incorrecto. Dividiste entre 8 en vez de entre 4."
@@ -267,7 +267,7 @@
           "feedback": "Incorrecto. Ese es el valor de la circunferencia completa."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La longitud del arco es L = (90/360) × 2π × 12 = 6π cm.",
       "difficulty": "6",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "En Manizales, la circunferencia del borde de un estanque circular mide 31.4 m. Use π ≈ 3.14.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "78.5 m²",
           "is_correct": true,
           "feedback": "Correcto. r = 31.4/(2×3.14) = 5 m, y A = 3.14 × 25 = 78.5 m²."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "314 m²",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicaste la longitud por 10 sin despejar el radio."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecto. Duplicaste la longitud conocida en vez de hallar el área."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "De L = 2πr se despeja r = 31.4/6.28 = 5 m; luego A = πr² = 3.14 × 25 = 78.5 m².",
       "difficulty": "8",
       "images": [],
@@ -335,31 +335,31 @@
       "context": "En Cartagena, un círculo A tiene radio de 3 cm y un círculo B tiene el doble de radio.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "4 veces",
           "is_correct": true,
           "feedback": "Correcto. Al duplicar el radio, el área se multiplica por 2² = 4."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "2 veces",
           "is_correct": false,
           "feedback": "Incorrecto. El área depende del cuadrado del radio, no del radio directamente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "3 veces",
           "is_correct": false,
           "feedback": "Incorrecto. Comparaste los radios, pero el área crece con el cuadrado."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "8 veces",
           "is_correct": false,
           "feedback": "Incorrecto. Confundiste el factor del área con el del volumen."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Si el radio se duplica, el área queda multiplicada por 2² = 4, porque A = πr².",
       "difficulty": "8",
       "images": [],
@@ -427,19 +427,19 @@
       "context": "En Armenia, una fuente circular tiene un borde exterior de 5 m de radio y una isla central circular de 2 m de radio. Use π ≈ 3.14.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "65.94 m²",
           "is_correct": true,
           "feedback": "Correcto. A = π(5² − 2²) = 3.14 × 21 = 65.94 m²."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "91.06 m²",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste las áreas en vez de restarlas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "28.26 m²",
           "is_correct": false,
           "feedback": "Incorrecto. Ese es el área de la isla central, no la corona."
@@ -451,7 +451,7 @@
           "feedback": "Incorrecto. Restaste los radios sin elevarlos al cuadrado."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El área del agua es la diferencia de las áreas: π(5² − 2²) = 3.14 × 21 = 65.94 m².",
       "difficulty": "8",
       "images": [],

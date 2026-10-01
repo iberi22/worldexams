@@ -105,19 +105,19 @@
       "context": "En el puerto de Buenaventura, se registra el nivel de la marea y la tasa de variación del nivel del agua.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$9$",
           "is_correct": true,
           "feedback": "Correcto: evaluación exacta de la antiderivada en los límites superior e inferior."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$12$",
           "is_correct": false,
           "feedback": "Incorrecto: se evaluó la función integrandola con un error en los límites."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$16$",
           "is_correct": false,
           "feedback": "Incorrecto: error al sumar una constante arbitraria."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecto: se agregó un término espurio tras integrar."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La antiderivada de $2x$ es $x^2$. Aplicando el Teorema Fundamental del Cálculo: $\\int_{0}^{3} 2x \\, dx = [x^2]_{0}^{3} = 3^2 - 0^2 = 9$.",
       "difficulty": "4",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "En la ciudad de Cali, un sistema de transporte masivo monitorea la velocidad de los buses y la aceleración instantánea.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$25$",
           "is_correct": true,
           "feedback": "Correcto: evaluación exacta de la antiderivada en los límites superior e inferior."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$28$",
           "is_correct": false,
           "feedback": "Incorrecto: se evaluó la función integrandola con un error en los límites."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto: se agregó un término espurio tras integrar."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La antiderivada de $2x$ es $x^2$. Aplicando el Teorema Fundamental del Cálculo: $\\int_{0}^{5} 2x \\, dx = [x^2]_{0}^{5} = 5^2 - 0^2 = 25$.",
       "difficulty": "6",
       "images": [],
@@ -243,19 +243,19 @@
       "context": "Un ingeniero civil en el proyecto del metro de Bogotá evalúa la curva de deformación de una viga de concreto.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$36$",
           "is_correct": true,
           "feedback": "Correcto: evaluación exacta de la antiderivada en los límites superior e inferior."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$39$",
           "is_correct": false,
           "feedback": "Incorrecto: se evaluó la función integrandola con un error en los límites."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$43$",
           "is_correct": false,
           "feedback": "Incorrecto: error al sumar una constante arbitraria."
@@ -267,7 +267,7 @@
           "feedback": "Incorrecto: se agregó un término espurio tras integrar."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La antiderivada de $2x$ es $x^2$. Aplicando el Teorema Fundamental del Cálculo: $\\int_{0}^{6} 2x \\, dx = [x^2]_{0}^{6} = 6^2 - 0^2 = 36$.",
       "difficulty": "6",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "En un proyecto agrícola en el departamento del Tolima, se calcula la producción máxima de arroz optimizando la fertilización.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$49$",
           "is_correct": true,
           "feedback": "Correcto: evaluación exacta de la antiderivada en los límites superior e inferior."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$52$",
           "is_correct": false,
           "feedback": "Incorrecto: se evaluó la función integrandola con un error en los límites."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecto: se agregó un término espurio tras integrar."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La antiderivada de $2x$ es $x^2$. Aplicando el Teorema Fundamental del Cálculo: $\\int_{0}^{7} 2x \\, dx = [x^2]_{0}^{7} = 7^2 - 0^2 = 49$.",
       "difficulty": "6",
       "images": [],
@@ -335,13 +335,13 @@
       "context": "Una empresa de energía solar en Barranquilla modela la acumulación diaria de energía mediante la tasa de radiación captada.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$64$",
           "is_correct": true,
           "feedback": "Correcto: evaluación exacta de la antiderivada en los límites superior e inferior."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$67$",
           "is_correct": false,
           "feedback": "Incorrecto: se evaluó la función integrandola con un error en los límites."
@@ -359,7 +359,7 @@
           "feedback": "Incorrecto: se agregó un término espurio tras integrar."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La antiderivada de $2x$ es $x^2$. Aplicando el Teorema Fundamental del Cálculo: $\\int_{0}^{8} 2x \\, dx = [x^2]_{0}^{8} = 8^2 - 0^2 = 64$.",
       "difficulty": "6",
       "images": [],
@@ -381,31 +381,31 @@
       "context": "En un estudio económico en Bucaramanga, se analiza el costo marginal y la utilidad máxima de una fábrica de calzado.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$81$",
           "is_correct": true,
           "feedback": "Correcto: evaluación exacta de la antiderivada en los límites superior e inferior."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$84$",
           "is_correct": false,
           "feedback": "Incorrecto: se evaluó la función integrandola con un error en los límites."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$88$",
           "is_correct": false,
           "feedback": "Incorrecto: error al sumar una constante arbitraria."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$93$",
           "is_correct": false,
           "feedback": "Incorrecto: se agregó un término espurio tras integrar."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La antiderivada de $2x$ es $x^2$. Aplicando el Teorema Fundamental del Cálculo: $\\int_{0}^{9} 2x \\, dx = [x^2]_{0}^{9} = 9^2 - 0^2 = 81$.",
       "difficulty": "6",
       "images": [],
@@ -427,31 +427,31 @@
       "context": "Un centro meteorológico en Cartagena registra el incremento de la temperatura promedio durante el medio día.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$100$",
           "is_correct": true,
           "feedback": "Correcto: evaluación exacta de la antiderivada en los límites superior e inferior."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$103$",
           "is_correct": false,
           "feedback": "Incorrecto: se evaluó la función integrandola con un error en los límites."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$107$",
           "is_correct": false,
           "feedback": "Incorrecto: error al sumar una constante arbitraria."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$112$",
           "is_correct": false,
           "feedback": "Incorrecto: se agregó un término espurio tras integrar."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La antiderivada de $2x$ es $x^2$. Aplicando el Teorema Fundamental del Cálculo: $\\int_{0}^{10} 2x \\, dx = [x^2]_{0}^{10} = 10^2 - 0^2 = 100$.",
       "difficulty": "6",
       "images": [],
@@ -473,19 +473,19 @@
       "context": "En una empresa textil de Medellín, se modela el volumen de producción diaria en función del tiempo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$121$",
           "is_correct": true,
           "feedback": "Correcto: evaluación exacta de la antiderivada en los límites superior e inferior."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$124$",
           "is_correct": false,
           "feedback": "Incorrecto: se evaluó la función integrandola con un error en los límites."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$128$",
           "is_correct": false,
           "feedback": "Incorrecto: error al sumar una constante arbitraria."
@@ -497,7 +497,7 @@
           "feedback": "Incorrecto: se agregó un término espurio tras integrar."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La antiderivada de $2x$ es $x^2$. Aplicando el Teorema Fundamental del Cálculo: $\\int_{0}^{11} 2x \\, dx = [x^2]_{0}^{11} = 11^2 - 0^2 = 121$.",
       "difficulty": "8",
       "images": [],
@@ -611,13 +611,13 @@
       "context": "Un cultivo de flores en la Sabana de Bogotá estudia la tasa de crecimiento de las plantas bajo ciertas condiciones de riego.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$196$",
           "is_correct": true,
           "feedback": "Correcto: evaluación exacta de la antiderivada en los límites superior e inferior."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$199$",
           "is_correct": false,
           "feedback": "Incorrecto: se evaluó la función integrandola con un error en los límites."
@@ -635,7 +635,7 @@
           "feedback": "Incorrecto: se agregó un término espurio tras integrar."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La antiderivada de $2x$ es $x^2$. Aplicando el Teorema Fundamental del Cálculo: $\\int_{0}^{14} 2x \\, dx = [x^2]_{0}^{14} = 14^2 - 0^2 = 196$.",
       "difficulty": "8",
       "images": [],
@@ -703,19 +703,19 @@
       "context": "Un ingeniero civil en el proyecto del metro de Bogotá evalúa la curva de deformación de una viga de concreto.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$256$",
           "is_correct": true,
           "feedback": "Correcto: evaluación exacta de la antiderivada en los límites superior e inferior."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$259$",
           "is_correct": false,
           "feedback": "Incorrecto: se evaluó la función integrandola con un error en los límites."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$263$",
           "is_correct": false,
           "feedback": "Incorrecto: error al sumar una constante arbitraria."
@@ -727,7 +727,7 @@
           "feedback": "Incorrecto: se agregó un término espurio tras integrar."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La antiderivada de $2x$ es $x^2$. Aplicando el Teorema Fundamental del Cálculo: $\\int_{0}^{16} 2x \\, dx = [x^2]_{0}^{16} = 16^2 - 0^2 = 256$.",
       "difficulty": "8",
       "images": [],
@@ -749,13 +749,13 @@
       "context": "En un proyecto agrícola en el departamento del Tolima, se calcula la producción máxima de arroz optimizando la fertilización.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$289$",
           "is_correct": true,
           "feedback": "Correcto: evaluación exacta de la antiderivada en los límites superior e inferior."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$292$",
           "is_correct": false,
           "feedback": "Incorrecto: se evaluó la función integrandola con un error en los límites."
@@ -773,7 +773,7 @@
           "feedback": "Incorrecto: se agregó un término espurio tras integrar."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La antiderivada de $2x$ es $x^2$. Aplicando el Teorema Fundamental del Cálculo: $\\int_{0}^{17} 2x \\, dx = [x^2]_{0}^{17} = 17^2 - 0^2 = 289$.",
       "difficulty": "10",
       "images": [],
@@ -795,31 +795,31 @@
       "context": "Una empresa de energía solar en Barranquilla modela la acumulación diaria de energía mediante la tasa de radiación captada.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$324$",
           "is_correct": true,
           "feedback": "Correcto: evaluación exacta de la antiderivada en los límites superior e inferior."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$327$",
           "is_correct": false,
           "feedback": "Incorrecto: se evaluó la función integrandola con un error en los límites."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$331$",
           "is_correct": false,
           "feedback": "Incorrecto: error al sumar una constante arbitraria."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$336$",
           "is_correct": false,
           "feedback": "Incorrecto: se agregó un término espurio tras integrar."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La antiderivada de $2x$ es $x^2$. Aplicando el Teorema Fundamental del Cálculo: $\\int_{0}^{18} 2x \\, dx = [x^2]_{0}^{18} = 18^2 - 0^2 = 324$.",
       "difficulty": "10",
       "images": [],
@@ -841,19 +841,19 @@
       "context": "En un estudio económico en Bucaramanga, se analiza el costo marginal y la utilidad máxima de una fábrica de calzado.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$361$",
           "is_correct": true,
           "feedback": "Correcto: evaluación exacta de la antiderivada en los límites superior e inferior."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$364$",
           "is_correct": false,
           "feedback": "Incorrecto: se evaluó la función integrandola con un error en los límites."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$368$",
           "is_correct": false,
           "feedback": "Incorrecto: error al sumar una constante arbitraria."
@@ -865,7 +865,7 @@
           "feedback": "Incorrecto: se agregó un término espurio tras integrar."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La antiderivada de $2x$ es $x^2$. Aplicando el Teorema Fundamental del Cálculo: $\\int_{0}^{19} 2x \\, dx = [x^2]_{0}^{19} = 19^2 - 0^2 = 361$.",
       "difficulty": "10",
       "images": [],
@@ -887,19 +887,19 @@
       "context": "Un centro meteorológico en Cartagena registra el incremento de la temperatura promedio durante el medio día.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$400$",
           "is_correct": true,
           "feedback": "Correcto: evaluación exacta de la antiderivada en los límites superior e inferior."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$403$",
           "is_correct": false,
           "feedback": "Incorrecto: se evaluó la función integrandola con un error en los límites."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$407$",
           "is_correct": false,
           "feedback": "Incorrecto: error al sumar una constante arbitraria."
@@ -911,7 +911,7 @@
           "feedback": "Incorrecto: se agregó un término espurio tras integrar."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La antiderivada de $2x$ es $x^2$. Aplicando el Teorema Fundamental del Cálculo: $\\int_{0}^{20} 2x \\, dx = [x^2]_{0}^{20} = 20^2 - 0^2 = 400$.",
       "difficulty": "10",
       "images": [],

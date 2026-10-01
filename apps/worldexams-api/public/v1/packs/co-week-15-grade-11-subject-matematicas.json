@@ -59,13 +59,13 @@
       "context": "Un laboratorio farmacéutico en Bogotá analiza la concentración de un medicamento en el torrente sanguíneo a lo largo de las horas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x = 2$",
           "is_correct": true,
           "feedback": "Correcto: al despejar f'(x) = 0 se obtiene la coordenada x del mínimo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = -2$",
           "is_correct": false,
           "feedback": "Incorrecto: error de signo en el despeje."
@@ -83,7 +83,7 @@
           "feedback": "Incorrecto: se asumió por error el origen."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Para encontrar los puntos críticos igualamos la primera derivada a cero: $f'(x) = 2x - 4 = 0 \\implies 2x = 4 \\implies x = 2$.",
       "difficulty": "4",
       "images": [],
@@ -151,13 +151,13 @@
       "context": "Un cultivo de flores en la Sabana de Bogotá estudia la tasa de crecimiento de las plantas bajo ciertas condiciones de riego.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x = 4$",
           "is_correct": true,
           "feedback": "Correcto: al despejar f'(x) = 0 se obtiene la coordenada x del mínimo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = -4$",
           "is_correct": false,
           "feedback": "Incorrecto: error de signo en el despeje."
@@ -175,7 +175,7 @@
           "feedback": "Incorrecto: se asumió por error el origen."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Para encontrar los puntos críticos igualamos la primera derivada a cero: $f'(x) = 2x - 8 = 0 \\implies 2x = 8 \\implies x = 4$.",
       "difficulty": "4",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "En la ciudad de Cali, un sistema de transporte masivo monitorea la velocidad de los buses y la aceleración instantánea.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x = 5$",
           "is_correct": true,
           "feedback": "Correcto: al despejar f'(x) = 0 se obtiene la coordenada x del mínimo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = -5$",
           "is_correct": false,
           "feedback": "Incorrecto: error de signo en el despeje."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto: se asumió por error el origen."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Para encontrar los puntos críticos igualamos la primera derivada a cero: $f'(x) = 2x - 10 = 0 \\implies 2x = 10 \\implies x = 5$.",
       "difficulty": "6",
       "images": [],
@@ -243,31 +243,31 @@
       "context": "Un ingeniero civil en el proyecto del metro de Bogotá evalúa la curva de deformación de una viga de concreto.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$x = 6$",
           "is_correct": true,
           "feedback": "Correcto: al despejar f'(x) = 0 se obtiene la coordenada x del mínimo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = -6$",
           "is_correct": false,
           "feedback": "Incorrecto: error de signo en el despeje."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = 13$",
           "is_correct": false,
           "feedback": "Incorrecto: falta dividir por el coeficiente 2."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$x = 0$",
           "is_correct": false,
           "feedback": "Incorrecto: se asumió por error el origen."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Para encontrar los puntos críticos igualamos la primera derivada a cero: $f'(x) = 2x - 12 = 0 \\implies 2x = 12 \\implies x = 6$.",
       "difficulty": "6",
       "images": [],
@@ -289,19 +289,19 @@
       "context": "En un proyecto agrícola en el departamento del Tolima, se calcula la producción máxima de arroz optimizando la fertilización.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$x = 7$",
           "is_correct": true,
           "feedback": "Correcto: al despejar f'(x) = 0 se obtiene la coordenada x del mínimo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = -7$",
           "is_correct": false,
           "feedback": "Incorrecto: error de signo en el despeje."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = 15$",
           "is_correct": false,
           "feedback": "Incorrecto: falta dividir por el coeficiente 2."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecto: se asumió por error el origen."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Para encontrar los puntos críticos igualamos la primera derivada a cero: $f'(x) = 2x - 14 = 0 \\implies 2x = 14 \\implies x = 7$.",
       "difficulty": "6",
       "images": [],
@@ -335,19 +335,19 @@
       "context": "Una empresa de energía solar en Barranquilla modela la acumulación diaria de energía mediante la tasa de radiación captada.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$x = 8$",
           "is_correct": true,
           "feedback": "Correcto: al despejar f'(x) = 0 se obtiene la coordenada x del mínimo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = -8$",
           "is_correct": false,
           "feedback": "Incorrecto: error de signo en el despeje."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = 17$",
           "is_correct": false,
           "feedback": "Incorrecto: falta dividir por el coeficiente 2."
@@ -359,7 +359,7 @@
           "feedback": "Incorrecto: se asumió por error el origen."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Para encontrar los puntos críticos igualamos la primera derivada a cero: $f'(x) = 2x - 16 = 0 \\implies 2x = 16 \\implies x = 8$.",
       "difficulty": "6",
       "images": [],
@@ -381,13 +381,13 @@
       "context": "En un estudio económico en Bucaramanga, se analiza el costo marginal y la utilidad máxima de una fábrica de calzado.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x = 9$",
           "is_correct": true,
           "feedback": "Correcto: al despejar f'(x) = 0 se obtiene la coordenada x del mínimo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = -9$",
           "is_correct": false,
           "feedback": "Incorrecto: error de signo en el despeje."
@@ -405,7 +405,7 @@
           "feedback": "Incorrecto: se asumió por error el origen."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Para encontrar los puntos críticos igualamos la primera derivada a cero: $f'(x) = 2x - 18 = 0 \\implies 2x = 18 \\implies x = 9$.",
       "difficulty": "6",
       "images": [],
@@ -473,19 +473,19 @@
       "context": "En una empresa textil de Medellín, se modela el volumen de producción diaria en función del tiempo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$x = 11$",
           "is_correct": true,
           "feedback": "Correcto: al despejar f'(x) = 0 se obtiene la coordenada x del mínimo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = -11$",
           "is_correct": false,
           "feedback": "Incorrecto: error de signo en el despeje."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = 23$",
           "is_correct": false,
           "feedback": "Incorrecto: falta dividir por el coeficiente 2."
@@ -497,7 +497,7 @@
           "feedback": "Incorrecto: se asumió por error el origen."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Para encontrar los puntos críticos igualamos la primera derivada a cero: $f'(x) = 2x - 22 = 0 \\implies 2x = 22 \\implies x = 11$.",
       "difficulty": "8",
       "images": [],
@@ -565,31 +565,31 @@
       "context": "En el puerto de Buenaventura, se registra el nivel de la marea y la tasa de variación del nivel del agua.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$x = 13$",
           "is_correct": true,
           "feedback": "Correcto: al despejar f'(x) = 0 se obtiene la coordenada x del mínimo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = -13$",
           "is_correct": false,
           "feedback": "Incorrecto: error de signo en el despeje."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = 27$",
           "is_correct": false,
           "feedback": "Incorrecto: falta dividir por el coeficiente 2."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$x = 0$",
           "is_correct": false,
           "feedback": "Incorrecto: se asumió por error el origen."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Para encontrar los puntos críticos igualamos la primera derivada a cero: $f'(x) = 2x - 26 = 0 \\implies 2x = 26 \\implies x = 13$.",
       "difficulty": "8",
       "images": [],
@@ -611,31 +611,31 @@
       "context": "Un cultivo de flores en la Sabana de Bogotá estudia la tasa de crecimiento de las plantas bajo ciertas condiciones de riego.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$x = 14$",
           "is_correct": true,
           "feedback": "Correcto: al despejar f'(x) = 0 se obtiene la coordenada x del mínimo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = -14$",
           "is_correct": false,
           "feedback": "Incorrecto: error de signo en el despeje."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = 29$",
           "is_correct": false,
           "feedback": "Incorrecto: falta dividir por el coeficiente 2."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$x = 0$",
           "is_correct": false,
           "feedback": "Incorrecto: se asumió por error el origen."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Para encontrar los puntos críticos igualamos la primera derivada a cero: $f'(x) = 2x - 28 = 0 \\implies 2x = 28 \\implies x = 14$.",
       "difficulty": "8",
       "images": [],
@@ -657,13 +657,13 @@
       "context": "En la ciudad de Cali, un sistema de transporte masivo monitorea la velocidad de los buses y la aceleración instantánea.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x = 15$",
           "is_correct": true,
           "feedback": "Correcto: al despejar f'(x) = 0 se obtiene la coordenada x del mínimo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = -15$",
           "is_correct": false,
           "feedback": "Incorrecto: error de signo en el despeje."
@@ -681,7 +681,7 @@
           "feedback": "Incorrecto: se asumió por error el origen."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Para encontrar los puntos críticos igualamos la primera derivada a cero: $f'(x) = 2x - 30 = 0 \\implies 2x = 30 \\implies x = 15$.",
       "difficulty": "8",
       "images": [],
@@ -703,31 +703,31 @@
       "context": "Un ingeniero civil en el proyecto del metro de Bogotá evalúa la curva de deformación de una viga de concreto.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$x = 16$",
           "is_correct": true,
           "feedback": "Correcto: al despejar f'(x) = 0 se obtiene la coordenada x del mínimo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = -16$",
           "is_correct": false,
           "feedback": "Incorrecto: error de signo en el despeje."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = 33$",
           "is_correct": false,
           "feedback": "Incorrecto: falta dividir por el coeficiente 2."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$x = 0$",
           "is_correct": false,
           "feedback": "Incorrecto: se asumió por error el origen."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Para encontrar los puntos críticos igualamos la primera derivada a cero: $f'(x) = 2x - 32 = 0 \\implies 2x = 32 \\implies x = 16$.",
       "difficulty": "8",
       "images": [],
@@ -749,19 +749,19 @@
       "context": "En un proyecto agrícola en el departamento del Tolima, se calcula la producción máxima de arroz optimizando la fertilización.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$x = 17$",
           "is_correct": true,
           "feedback": "Correcto: al despejar f'(x) = 0 se obtiene la coordenada x del mínimo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = -17$",
           "is_correct": false,
           "feedback": "Incorrecto: error de signo en el despeje."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = 35$",
           "is_correct": false,
           "feedback": "Incorrecto: falta dividir por el coeficiente 2."
@@ -773,7 +773,7 @@
           "feedback": "Incorrecto: se asumió por error el origen."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Para encontrar los puntos críticos igualamos la primera derivada a cero: $f'(x) = 2x - 34 = 0 \\implies 2x = 34 \\implies x = 17$.",
       "difficulty": "10",
       "images": [],
@@ -795,13 +795,13 @@
       "context": "Una empresa de energía solar en Barranquilla modela la acumulación diaria de energía mediante la tasa de radiación captada.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x = 18$",
           "is_correct": true,
           "feedback": "Correcto: al despejar f'(x) = 0 se obtiene la coordenada x del mínimo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = -18$",
           "is_correct": false,
           "feedback": "Incorrecto: error de signo en el despeje."
@@ -819,7 +819,7 @@
           "feedback": "Incorrecto: se asumió por error el origen."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Para encontrar los puntos críticos igualamos la primera derivada a cero: $f'(x) = 2x - 36 = 0 \\implies 2x = 36 \\implies x = 18$.",
       "difficulty": "10",
       "images": [],
@@ -887,13 +887,13 @@
       "context": "Un centro meteorológico en Cartagena registra el incremento de la temperatura promedio durante el medio día.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x = 20$",
           "is_correct": true,
           "feedback": "Correcto: al despejar f'(x) = 0 se obtiene la coordenada x del mínimo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = -20$",
           "is_correct": false,
           "feedback": "Incorrecto: error de signo en el despeje."
@@ -911,7 +911,7 @@
           "feedback": "Incorrecto: se asumió por error el origen."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Para encontrar los puntos críticos igualamos la primera derivada a cero: $f'(x) = 2x - 40 = 0 \\implies 2x = 40 \\implies x = 20$.",
       "difficulty": "10",
       "images": [],

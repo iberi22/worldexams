@@ -103,19 +103,19 @@
       "context": "Resolución de ecuaciones exponenciales y logarítmicas Caso N° 3.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$x = 6$",
           "is_correct": true,
           "feedback": "Correcto. Igualando exponentes: $x - 3 = 3 \\Rightarrow x = 6$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 3$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidó sumar la constante del exponente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = 0$",
           "is_correct": false,
           "feedback": "Incorrecto. $x=0$ no satisface la igualdad."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. Error algebraico en el despeje."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Por la propiedad de inyectividad de la base $3$: $x - 3 = 3 \\Rightarrow x = 6$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,13 +148,13 @@
       "context": "Resolución de ecuaciones exponenciales y logarítmicas Caso N° 4.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x = 8$",
           "is_correct": true,
           "feedback": "Correcto. Igualando exponentes: $x - 4 = 4 \\Rightarrow x = 8$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 4$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidó sumar la constante del exponente."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. Error algebraico en el despeje."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Por la propiedad de inyectividad de la base $3$: $x - 4 = 4 \\Rightarrow x = 8$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -193,13 +193,13 @@
       "context": "Resolución de ecuaciones exponenciales y logarítmicas Caso N° 5.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x = 10$",
           "is_correct": true,
           "feedback": "Correcto. Igualando exponentes: $x - 5 = 5 \\Rightarrow x = 10$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 5$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidó sumar la constante del exponente."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. Error algebraico en el despeje."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Por la propiedad de inyectividad de la base $3$: $x - 5 = 5 \\Rightarrow x = 10$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -238,19 +238,19 @@
       "context": "Resolución de ecuaciones exponenciales y logarítmicas Caso N° 6.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$x = 12$",
           "is_correct": true,
           "feedback": "Correcto. Igualando exponentes: $x - 6 = 6 \\Rightarrow x = 12$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 6$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidó sumar la constante del exponente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = 0$",
           "is_correct": false,
           "feedback": "Incorrecto. $x=0$ no satisface la igualdad."
@@ -262,7 +262,7 @@
           "feedback": "Incorrecto. Error algebraico en el despeje."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Por la propiedad de inyectividad de la base $3$: $x - 6 = 6 \\Rightarrow x = 12$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -328,31 +328,31 @@
       "context": "Resolución de ecuaciones exponenciales y logarítmicas Caso N° 8.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$x = 16$",
           "is_correct": true,
           "feedback": "Correcto. Igualando exponentes: $x - 8 = 8 \\Rightarrow x = 16$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 8$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidó sumar la constante del exponente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = 0$",
           "is_correct": false,
           "feedback": "Incorrecto. $x=0$ no satisface la igualdad."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$x = 9$",
           "is_correct": false,
           "feedback": "Incorrecto. Error algebraico en el despeje."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Por la propiedad de inyectividad de la base $3$: $x - 8 = 8 \\Rightarrow x = 16$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -418,13 +418,13 @@
       "context": "Resolución de ecuaciones exponenciales y logarítmicas Caso N° 10.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x = 20$",
           "is_correct": true,
           "feedback": "Correcto. Igualando exponentes: $x - 10 = 10 \\Rightarrow x = 20$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 10$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidó sumar la constante del exponente."
@@ -442,7 +442,7 @@
           "feedback": "Incorrecto. Error algebraico en el despeje."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Por la propiedad de inyectividad de la base $3$: $x - 10 = 10 \\Rightarrow x = 20$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -463,13 +463,13 @@
       "context": "Resolución de ecuaciones exponenciales y logarítmicas Caso N° 11.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x = 22$",
           "is_correct": true,
           "feedback": "Correcto. Igualando exponentes: $x - 11 = 11 \\Rightarrow x = 22$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 11$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidó sumar la constante del exponente."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto. Error algebraico en el despeje."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Por la propiedad de inyectividad de la base $3$: $x - 11 = 11 \\Rightarrow x = 22$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -508,19 +508,19 @@
       "context": "Resolución de ecuaciones exponenciales y logarítmicas Caso N° 12.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$x = 24$",
           "is_correct": true,
           "feedback": "Correcto. Igualando exponentes: $x - 12 = 12 \\Rightarrow x = 24$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 12$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidó sumar la constante del exponente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = 0$",
           "is_correct": false,
           "feedback": "Incorrecto. $x=0$ no satisface la igualdad."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. Error algebraico en el despeje."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Por la propiedad de inyectividad de la base $3$: $x - 12 = 12 \\Rightarrow x = 24$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -553,31 +553,31 @@
       "context": "Resolución de ecuaciones exponenciales y logarítmicas Caso N° 13.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$x = 26$",
           "is_correct": true,
           "feedback": "Correcto. Igualando exponentes: $x - 13 = 13 \\Rightarrow x = 26$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 13$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidó sumar la constante del exponente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = 0$",
           "is_correct": false,
           "feedback": "Incorrecto. $x=0$ no satisface la igualdad."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$x = 14$",
           "is_correct": false,
           "feedback": "Incorrecto. Error algebraico en el despeje."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Por la propiedad de inyectividad de la base $3$: $x - 13 = 13 \\Rightarrow x = 26$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -598,31 +598,31 @@
       "context": "Resolución de ecuaciones exponenciales y logarítmicas Caso N° 14.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$x = 28$",
           "is_correct": true,
           "feedback": "Correcto. Igualando exponentes: $x - 14 = 14 \\Rightarrow x = 28$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 14$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidó sumar la constante del exponente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = 0$",
           "is_correct": false,
           "feedback": "Incorrecto. $x=0$ no satisface la igualdad."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$x = 15$",
           "is_correct": false,
           "feedback": "Incorrecto. Error algebraico en el despeje."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Por la propiedad de inyectividad de la base $3$: $x - 14 = 14 \\Rightarrow x = 28$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -643,13 +643,13 @@
       "context": "Resolución de ecuaciones exponenciales y logarítmicas Caso N° 15.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x = 30$",
           "is_correct": true,
           "feedback": "Correcto. Igualando exponentes: $x - 15 = 15 \\Rightarrow x = 30$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 15$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidó sumar la constante del exponente."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. Error algebraico en el despeje."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Por la propiedad de inyectividad de la base $3$: $x - 15 = 15 \\Rightarrow x = 30$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -688,13 +688,13 @@
       "context": "Resolución de ecuaciones exponenciales y logarítmicas Caso N° 16.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x = 32$",
           "is_correct": true,
           "feedback": "Correcto. Igualando exponentes: $x - 16 = 16 \\Rightarrow x = 32$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 16$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidó sumar la constante del exponente."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. Error algebraico en el despeje."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Por la propiedad de inyectividad de la base $3$: $x - 16 = 16 \\Rightarrow x = 32$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -733,13 +733,13 @@
       "context": "Resolución de ecuaciones exponenciales y logarítmicas Caso N° 17.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x = 34$",
           "is_correct": true,
           "feedback": "Correcto. Igualando exponentes: $x - 17 = 17 \\Rightarrow x = 34$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 17$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidó sumar la constante del exponente."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. Error algebraico en el despeje."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Por la propiedad de inyectividad de la base $3$: $x - 17 = 17 \\Rightarrow x = 34$.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -778,13 +778,13 @@
       "context": "Resolución de ecuaciones exponenciales y logarítmicas Caso N° 18.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x = 36$",
           "is_correct": true,
           "feedback": "Correcto. Igualando exponentes: $x - 18 = 18 \\Rightarrow x = 36$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 18$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidó sumar la constante del exponente."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. Error algebraico en el despeje."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Por la propiedad de inyectividad de la base $3$: $x - 18 = 18 \\Rightarrow x = 36$.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -823,13 +823,13 @@
       "context": "Resolución de ecuaciones exponenciales y logarítmicas Caso N° 19.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x = 38$",
           "is_correct": true,
           "feedback": "Correcto. Igualando exponentes: $x - 19 = 19 \\Rightarrow x = 38$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 19$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidó sumar la constante del exponente."
@@ -847,7 +847,7 @@
           "feedback": "Incorrecto. Error algebraico en el despeje."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Por la propiedad de inyectividad de la base $3$: $x - 19 = 19 \\Rightarrow x = 38$.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -868,13 +868,13 @@
       "context": "Resolución de ecuaciones exponenciales y logarítmicas Caso N° 20.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x = 40$",
           "is_correct": true,
           "feedback": "Correcto. Igualando exponentes: $x - 20 = 20 \\Rightarrow x = 40$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 20$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidó sumar la constante del exponente."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. Error algebraico en el despeje."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Por la propiedad de inyectividad de la base $3$: $x - 20 = 20 \\Rightarrow x = 40$.",
       "difficulty": "10",
       "images": [],

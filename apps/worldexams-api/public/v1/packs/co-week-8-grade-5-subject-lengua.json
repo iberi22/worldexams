@@ -13,31 +13,31 @@
       "context": "En Medellín, Santiago cuenta lo que hace su familia cada mañana antes de salir hacia la escuela.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Desayuna",
           "is_correct": true,
           "feedback": "Es correcta porque expresa la acción que realiza Valentina."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Valentina",
           "is_correct": false,
           "feedback": "Es incorrecta porque nombra a una persona y es un sustantivo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Arepa",
           "is_correct": false,
           "feedback": "Es incorrecta porque nombra un alimento y es un sustantivo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Con",
           "is_correct": false,
           "feedback": "Es incorrecta porque es una palabra de enlace y no expresa acción."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El verbo es la palabra que expresa la acción, el estado o el proceso dentro de la oración. Para encontrarlo se pregunta \"¿qué hace?\" el sujeto. En este caso, lo que hace Valentina es \"desayunar\". Reconocer el verbo es esencial para comprender cualquier oración.",
       "difficulty": "4",
       "images": [],
@@ -59,19 +59,19 @@
       "context": "Juan escribe en su diario en Bogotá lo que hizo ayer en el parque Simón Bolívar con sus primos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "En pasado, porque la acción ya ocurrió ayer.",
           "is_correct": true,
           "feedback": "Es correcta porque la palabra \"ayer\" indica un tiempo anterior al momento presente."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "En presente, porque la acción ocurre en este momento.",
           "is_correct": false,
           "feedback": "Es incorrecta porque el marcador \"ayer\" muestra que no es una acción actual."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "En futuro, porque la acción todavía no ha ocurrido.",
           "is_correct": false,
           "feedback": "Es incorrecta porque el partido ya se jugó y no es un plan futuro."
@@ -83,7 +83,7 @@
           "feedback": "Es incorrecta porque todo verbo conjugado ubica la acción en un tiempo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Los tiempos básicos ubican la acción: el presente ocurre ahora, el pasado ya ocurrió y el futuro ocurrirá después. Las marcas como \"ayer\", \"hoy\" y \"mañana\" ayudan a reconocer el tiempo. Comprender estas marcas facilita la lectura de diarios, cuentos y noticias.",
       "difficulty": "4",
       "images": [],
@@ -105,13 +105,13 @@
       "context": "En Cali, Mariana promete a su mamá que ordenará su cuarto después del almuerzo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Mañana ordenaré mi cuarto antes de salir a jugar.",
           "is_correct": true,
           "feedback": "Es correcta porque \"ordenaré\" y \"mañana\" anuncian una acción que aún no ocurre."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Ayer ordené mi cuarto antes de salir a jugar.",
           "is_correct": false,
           "feedback": "Es incorrecta porque \"ayer\" y \"ordené\" indican una acción ya terminada."
@@ -129,7 +129,7 @@
           "feedback": "Es incorrecta porque describe un estado actual y no una acción futura."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El futuro se forma con terminaciones como \"é\", \"ás\", \"á\", \"emos\" y \"án\", y suele acompañarse de marcas como \"mañana\" o \"después\". Aplicar el futuro permite hacer promesas, planes y predicciones en forma correcta dentro de los textos.",
       "difficulty": "6",
       "images": [],
@@ -197,31 +197,31 @@
       "context": "En Cartagena, Valentina describe su rutina con cinco mil pesos para las onces: \"Yo compro jugo y pan\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Ellas compran jugo y pan.",
           "is_correct": true,
           "feedback": "Es correcta porque \"compran\" concuerda en presente con el sujeto plural \"ellas\"."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Ellas compro jugo y pan.",
           "is_correct": false,
           "feedback": "Es incorrecta porque \"compro\" es primera persona singular y no concuerda con \"ellas\"."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ellas comprar jugo y pan.",
           "is_correct": false,
           "feedback": "Es incorrecta porque \"comprar\" es infinitivo y no está conjugado."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Ellas comprará jugo y pan.",
           "is_correct": false,
           "feedback": "Es incorrecta porque \"comprará\" es futuro singular y no presente plural."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El verbo concuerda con el sujeto en persona y número: yo compro, tú compras, ella compra, ellas compran. Al cambiar el sujeto se debe cambiar también la terminación del verbo. Esta concordancia mantiene la coherencia de la oración en cualquier tiempo.",
       "difficulty": "6",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "Santiago escribió en Pereira: \"Mañana fuimos a la biblioteca a leer cuentos\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La marca \"mañana\" exige futuro, pero el verbo \"fuimos\" está en pasado.",
           "is_correct": true,
           "feedback": "Es correcta porque hay contradicción entre el tiempo anunciado y el tiempo del verbo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El verbo \"fuimos\" está bien porque \"mañana\" también indica pasado.",
           "is_correct": false,
           "feedback": "Es incorrecta porque \"mañana\" siempre anuncia una acción posterior al presente."
@@ -267,7 +267,7 @@
           "feedback": "Es incorrecta porque mezclar futuro con pasado rompe la coherencia temporal."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Analizar la coherencia temporal exige comparar las marcas de tiempo con la conjugación. \"Mañana\" pide formas como \"iremos\" o \"vamos a ir\". Mantener un solo tiempo según la intención del texto evita confusiones en el lector.",
       "difficulty": "8",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "Dos estudiantes de Bogotá escriben sobre el partido. Texto 1: \"Ayer el equipo juega muy bien y gana el torneo\". Texto 2: \"Ayer el equipo jugó muy bien y ganó el torneo\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El texto 2, porque los verbos \"jugó\" y \"ganó\" están en pasado como lo pide \"ayer\".",
           "is_correct": true,
           "feedback": "Es correcta porque identifica la coherencia entre la marca temporal y los dos verbos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El texto 1, porque los verbos \"juega\" y \"gana\" están en pasado.",
           "is_correct": false,
           "feedback": "Es incorrecta porque esas formas están en presente y contradicen la marca \"ayer\"."
@@ -313,7 +313,7 @@
           "feedback": "Es incorrecta porque \"jugó\" y \"ganó\" son formas de pasado, no de futuro."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Un relato coherente mantiene el mismo tiempo verbal cuando los hechos pertenecen al mismo momento. Si el relato inicia con \"ayer\", todos los verbos de esos hechos deben ir en pasado. Comparar textos ayuda a descubrir saltos de tiempo indebidos.",
       "difficulty": "8",
       "images": [],
@@ -335,13 +335,13 @@
       "context": "Mariana debe elegir el mejor párrafo en pasado para el periódico escolar de Cali sobre la jornada deportiva.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El viernes jugamos el torneo. Corrimos con alegría, compartimos las onces y recibimos una medalla.",
           "is_correct": true,
           "feedback": "Es correcta porque todos los verbos están en pasado y narran hechos terminados con secuencia clara."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El viernes jugaremos el torneo. Corremos con alegría, compartimos las onces y recibiremos una medalla.",
           "is_correct": false,
           "feedback": "Es incorrecta porque mezcla presente y futuro para hechos que ya terminaron el viernes."
@@ -359,7 +359,7 @@
           "feedback": "Es incorrecta porque combina pasado, futuro y presente y rompe la coherencia del relato."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Evaluar un relato en pasado exige verificar cada verbo y su concordancia con el sujeto y con la marca temporal. La opción correcta mantiene la secuencia completa en pasado: \"jugamos, corrimos, compartimos, recibimos\". Esta unidad temporal permite al lector seguir la historia sin confusión.",
       "difficulty": "10",
       "images": [],

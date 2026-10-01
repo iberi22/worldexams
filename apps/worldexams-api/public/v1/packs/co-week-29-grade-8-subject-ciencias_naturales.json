@@ -59,31 +59,31 @@
       "context": "En una práctica de laboratorio en el Colegio San Bartolomé de La Jagua, un estudiante de Neiva registra en una balanza digital una lectura constante sin importar la posición del objeto sobre el plato.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Porque la masa es la cantidad de materia y permanece constante; el peso depende de la aceleración gravitacional local.",
           "is_correct": true,
           "feedback": "Correcto. La masa es una propiedad intrínseca del cuerpo y no depende del lugar; el peso es una fuerza y varía con la gravedad local."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque la balanza corrige automáticamente las diferencias de gravedad.",
           "is_correct": false,
           "feedback": "Incorrecto. La balanza solo mide; no modifica las propiedades del objeto."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque la materia se evapora a distintas temperaturas.",
           "is_correct": false,
           "feedback": "Incorrecto. La pérdida de materia por evaporación es despreciable y no explica la constancia de la masa."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Porque el peso solo se mide en otros planetas.",
           "is_correct": false,
           "feedback": "Incorrecto. El peso se mide en cualquier lugar donde exista un campo gravitacional, incluyendo la Tierra."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La masa mide la cantidad de materia de un cuerpo y es invariante en cualquier punto del universo. El peso es la fuerza con que la gravedad atrae a ese cuerpo: P = m · g. Como g varía ligeramente con la altitud y la latitud, también varía el peso.",
       "difficulty": "4",
       "images": [],
@@ -105,19 +105,19 @@
       "context": "Una docente del Colegio Comfenalco de Neiva muestra a sus estudiantes fotografías de los planetas tomadas durante la noche de estrellas en el Desierto de la Tatacoa.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Marte.",
           "is_correct": true,
           "feedback": "Correcto. Marte debe su color rojizo al óxido de hierro (Fe₂O₃) que cubre gran parte de su superficie."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Venus.",
           "is_correct": false,
           "feedback": "Incorrecto. Venus tiene una atmósfera densa de CO₂ con nubes de ácido sulfúrico que le dan un color amarillento."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Mercurio.",
           "is_correct": false,
           "feedback": "Incorrecto. Mercurio tiene una superficie gris similar a la Luna, sin óxidos rojos notables."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecto. Saturno es un gigante gaseoso con tonos dorados y anillos, no una superficie oxidada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Marte recibe el apodo de \"planeta rojo\" por la abundancia de óxidos de hierro en su superficie. Su atmósfera tenue y rica en CO₂ permite observar este color incluso con telescopios pequeños desde la Tierra.",
       "difficulty": "4",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "En la escuela rural de Aipe (Huila), un docente proyecta en el aula la distancia entre el Sol y la Tierra explicada durante la jornada de astronomía en la Tatacoa.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Unos 8 minutos.",
           "is_correct": true,
           "feedback": "Correcto. t = d / v = 1,5 · 10⁸ km / 3 · 10⁵ km/s ≈ 500 s ≈ 8,3 minutos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Un segundo.",
           "is_correct": false,
           "feedback": "Incorrecto. A esa velocidad, un segundo apenas recorrería 300.000 km, mucho menos de la distancia Sol-Tierra."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto. Aunque la luz es muy rápida, el espacio es enorme y existe un tiempo de viaje finito."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La luz del Sol tarda en promedio 8 minutos y 20 segundos en llegar a la Tierra. Por eso siempre vemos al Sol como era hace más de ocho minutos: cualquier variación importante en su superficie sería invisible para nosotros durante ese lapso.",
       "difficulty": "6",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "En una charla del Planetario de Bogotá se explica a estudiantes de la Institución Educativa Distrital Gustavo Restrepo cómo ciertos satélites se mantienen sobre un mismo punto del ecuador terrestre.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Orbitar con un período igual al de rotación de la Tierra (≈ 24 h) y en el plano ecuatorial.",
           "is_correct": true,
           "feedback": "Correcto. A unos 35.786 km de altitud, en órbita ecuatorial directa, el satélite gira a la misma velocidad angular que la Tierra."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Permanecer estático fuera de la atmósfera sin moverse.",
           "is_correct": false,
           "feedback": "Incorrecto. Un satélite en órbita nunca está detenido; se mueve por inercia y es atraído por la gravedad."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecto. La órbita geoestacionaria es directa, en el mismo sentido de la rotación terrestre."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Un satélite geoestacionario tiene un período orbital igual al período de rotación de la Tierra (un día sidéreo ≈ 23 h 56 min) y órbita en el plano ecuatorial. Esto hace que desde la superficie parezca fijo sobre un punto del ecuador.",
       "difficulty": "6",
       "images": [],
@@ -381,31 +381,31 @@
       "context": "Una estudiante del Colegio Tolimense de Ibagué compara las estaciones del año en Bogotá con las observadas durante un intercambio escolar en Buenos Aires.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "La inclinación del eje (~23,5°) cambia el ángulo con que la radiación solar incide sobre cada hemisferio a lo largo del año.",
           "is_correct": true,
           "feedback": "Correcto. Cuando el hemisferio sur se inclina hacia el Sol recibe más energía por unidad de área; el opuesto experimenta invierno."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque la Tierra se aleja mucho del Sol en invierno y se acerca en verano.",
           "is_correct": false,
           "feedback": "Incorrecto. En el hemisferio norte el invierno coincide con el perihelio (mayor cercanía al Sol), no con el afelio."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque la Luna oculta parcialmente al Sol en cada estación.",
           "is_correct": false,
           "feedback": "Incorrecto. Los eclipses lunares y solares son eventos puntuales y no causan las estaciones."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Porque la precipitación anual cambia la radiación absorbida.",
           "is_correct": false,
           "feedback": "Incorrecto. Aunque afecta el clima, no es el origen astronómico de las estaciones."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La inclinación axial de la Tierra (~23,5°) hace que en distintas épocas del año los rayos solares incidan más perpendicularmente sobre un hemisferio que sobre el otro, generando las estaciones. La distancia Sol-Tierra solo varía alrededor de un 3% y su efecto es secundario.",
       "difficulty": "8",
       "images": [],
@@ -427,13 +427,13 @@
       "context": "Un profesor del Gimnasio Campestre de Chía compara la aceleración gravitacional de la Luna (1,62 m/s²) con la de Júpiter (24,79 m/s²) durante una clase sobre el sistema solar.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El peso en Júpiter es aproximadamente 15 veces el peso en la Luna.",
           "is_correct": true,
           "feedback": "Correcto. Peso en Luna = 10 · 1,62 ≈ 16,2 N; peso en Júpiter = 10 · 24,79 ≈ 247,9 N. La razón 247,9 / 16,2 ≈ 15,3."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El peso en Júpiter es igual al peso en la Luna.",
           "is_correct": false,
           "feedback": "Incorrecto. La gravedad de Júpiter es más de quince veces mayor que la lunar."
@@ -451,7 +451,7 @@
           "feedback": "Incorrecto. El peso es fuerza y depende de la gravedad local; la masa sí es invariante."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "P = m · g. Para 10 kg, en la Luna el peso es ≈ 16,2 N y en Júpiter ≈ 247,9 N. Júpiter es un gigante gaseoso con una gravedad superficial mucho mayor que la de los cuerpos rocosos pequeños como la Luna.",
       "difficulty": "8",
       "images": [],
@@ -473,31 +473,31 @@
       "context": "En una feria de ciencias del Colegio Rafael Uribe Uribe en Cali, un equipo de estudiantes presenta una maqueta donde cuerdas conectan a los planetas con el Sol para representar la gravedad.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Es incorrecta; la gravedad no se propaga como un rayo luminoso, sino como una fuerza instantánea a distancia modelada por F = G · m₁ · m₂ / r².",
           "is_correct": true,
           "feedback": "Correcto. La gravitación newtoniana es una interacción entre masas, no un haz de luz. Además, las ondas gravitacionales descritas por Einstein tardan en propagarse."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Es totalmente correcta y reproduce exactamente la física moderna.",
           "is_correct": false,
           "feedback": "Incorrecto. La física actual describe la gravedad como curvatura del espacio-tiempo, no como rayos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Solo es válida para planetas cercanos al Sol, como Mercurio.",
           "is_correct": false,
           "feedback": "Incorrecto. La atracción gravitacional se aplica a todos los cuerpos del sistema solar por igual."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La afirmación es indemostrable y debe dejarse sin evaluar.",
           "is_correct": false,
           "feedback": "Incorrecto. En ciencia las afirmaciones se contrastan con modelos y evidencia; siempre se pueden evaluar."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La fuerza de gravedad entre dos cuerpos se calcula con F = G · m₁ · m₂ / r². No depende de la luz. En relatividad general, además, la gravedad se interpreta como curvatura del espacio-tiempo, no como un \"rayo\" emitido por el astro central.",
       "difficulty": "10",
       "images": [],

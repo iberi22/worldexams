@@ -13,13 +13,13 @@
       "context": "En una clase de ciencias en Villavicencio, la profesora hace vibrar una cuerda de guitarra y pregunta qué se produce.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Una vibración que se propaga por un medio material como el aire, el agua o los sólidos.",
           "is_correct": true,
           "feedback": "El sonido es una onda mecánica que necesita un medio para viajar."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Un tipo de luz que sale de los objetos.",
           "is_correct": false,
           "feedback": "El sonido no es luz, sino una vibración que se transmite por medios materiales."
@@ -37,7 +37,7 @@
           "feedback": "El sonido no es olor; los olores son percibidos por otro sentido."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Comprender el concepto básico del sonido como vibración que se propaga por un medio.",
       "difficulty": "4",
       "images": [],
@@ -151,19 +151,19 @@
       "context": "Un médico usa un estetoscopio para escuchar los latidos del corazón de un paciente.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Porque concentra y conduce las vibraciones sonoras desde el cuerpo hasta los oídos.",
           "is_correct": true,
           "feedback": "El estetoscopio canaliza el sonido y amplifica las vibraciones internas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque convierte el sonido del cuerpo en electricidad.",
           "is_correct": false,
           "feedback": "El estetoscopio no transforma el sonido en electricidad, solo lo conduce mejor."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque produce un sonido nuevo que tapa los latidos.",
           "is_correct": false,
           "feedback": "El estetoscopio no emite sonidos adicionales, solo recoge los del cuerpo."
@@ -175,7 +175,7 @@
           "feedback": "El estetoscopio no elimina sonidos del ambiente, pero ayuda a focalizar los internos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Aplicar la conducción del sonido en materiales sólidos para explicar el funcionamiento del estetoscopio.",
       "difficulty": "6",
       "images": [],
@@ -197,19 +197,19 @@
       "context": "En una piscina, dos niños hablan debajo del agua y se escuchan claramente, aunque sus voces suenan diferentes.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Porque el agua es un medio material que permite la propagación de las vibraciones sonoras.",
           "is_correct": true,
           "feedback": "El agua transmite las vibraciones, aunque el sonido viaje más rápido que en el aire."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque bajo el agua la luz se convierte en sonido.",
           "is_correct": false,
           "feedback": "La luz no se convierte en sonido al sumergirse."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque los oídos cambian de forma al estar mojados.",
           "is_correct": false,
           "feedback": "Los oídos no cambian de forma; lo importante es que el agua transmite el sonido."
@@ -221,7 +221,7 @@
           "feedback": "Los rayos solares no se transforman en ruido dentro del agua."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Reconocer que el sonido puede propagarse por medios líquidos como el agua.",
       "difficulty": "6",
       "images": [],
@@ -243,19 +243,19 @@
       "context": "Compara: \"Un silbato produce un sonido agudo, y un tambor grande produce un sonido grave. El silbato tiene vibraciones rápidas; el tambor, vibraciones más lentas.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Mayor frecuencia produce sonidos más agudos; menor frecuencia produce sonidos más graves.",
           "is_correct": true,
           "feedback": "La frecuencia alta genera tonos agudos y la baja genera tonos graves."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La frecuencia no influye en el tono del sonido.",
           "is_correct": false,
           "feedback": "La frecuencia es precisamente la propiedad que determina el tono."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Siempre que la frecuencia baja, el sonido es más agudo.",
           "is_correct": false,
           "feedback": "Cuando la frecuencia baja, el sonido se vuelve más grave, no más agudo."
@@ -267,7 +267,7 @@
           "feedback": "Cualquier sonido puede variar de tono según su frecuencia de vibración."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Analizar la relación entre la frecuencia de vibración y las cualidades del sonido (agudo o grave).",
       "difficulty": "8",
       "images": [],
@@ -289,31 +289,31 @@
       "context": "Lee: \"La contaminación sonora es el exceso de sonido en el ambiente. Vivir cerca de aeropuertos o carreteras muy transitadas puede afectar la salud auditiva y el sueño.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Pérdida de la capacidad auditiva, estrés y problemas para dormir o concentrarse.",
           "is_correct": true,
           "feedback": "El ruido constante puede dañar la audición y afectar la salud mental."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Mejora de la memoria y el aprendizaje.",
           "is_correct": false,
           "feedback": "La contaminación sonora no mejora la memoria ni el aprendizaje."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Aumento de la temperatura corporal.",
           "is_correct": false,
           "feedback": "La contaminación sonora no cambia la temperatura del cuerpo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Crecimiento más rápido del cabello.",
           "is_correct": false,
           "feedback": "El ruido excesivo no tiene relación con el crecimiento del cabello."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Analizar los efectos de la contaminación sonora en la salud humana y en la calidad de vida.",
       "difficulty": "8",
       "images": [],

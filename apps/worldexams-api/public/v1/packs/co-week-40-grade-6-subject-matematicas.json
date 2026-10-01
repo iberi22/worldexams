@@ -13,31 +13,31 @@
       "context": "En un taller de artesanías de Bogotá una artesana borda triángulos en el siguiente orden: 2, 4, 6, 8.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "10",
           "is_correct": true,
           "feedback": "Es correcta porque la secuencia aumenta de 2 en 2: después del 8 sigue el 10."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "9",
           "is_correct": false,
           "feedback": "Error conceptual: la secuencia avanza de 2 en 2, no de 1 en 1."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "12",
           "is_correct": false,
           "feedback": "Error conceptual: se adelanta un paso y omite el número que sigue al 8."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "16",
           "is_correct": false,
           "feedback": "Error conceptual: duplica el último término en vez de sumar dos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "En una secuencia se observa cómo cambia cada término respecto al anterior. Aquí los triángulos aumentan de 2 en 2, por lo que después del 8 viene el 10.",
       "difficulty": "4",
       "images": [],
@@ -59,13 +59,13 @@
       "context": "Un tejedor de Medellín explica que en su tejido el número de rombos aumenta de 3 en 3: 3, 6, 9, 12.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Que cada término se obtiene sumando 3 al término anterior",
           "is_correct": true,
           "feedback": "Es correcta porque la regla de formación indica sumar 3 para pasar de un término al siguiente."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Que cada término es el triple del anterior",
           "is_correct": false,
           "feedback": "Error conceptual: multiplicar por 3 daría 3, 9, 27, que no coincide con la secuencia."
@@ -83,7 +83,7 @@
           "feedback": "Error conceptual: el 12 es solo un término; la secuencia puede continuar."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Decir que una secuencia aumenta de 3 en 3 describe su regla de formación: cada término se obtiene sumando 3 al anterior. Así, 3, 6, 9 y 12 siguen creciendo de la misma manera.",
       "difficulty": "4",
       "images": [],
@@ -105,13 +105,13 @@
       "context": "En una artesanía de Cali se forman cuadrados con fichas y la cantidad sigue la secuencia 1, 4, 9, 16.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "25",
           "is_correct": true,
           "feedback": "Es correcta porque los términos son los cuadrados de 1, 2, 3, 4 y 5: 5 × 5 = 25."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "20",
           "is_correct": false,
           "feedback": "Error conceptual: suma 4 en lugar de seguir el patrón de números cuadrados."
@@ -129,7 +129,7 @@
           "feedback": "Error conceptual: duplica el 16 en vez de aplicar la regla de la secuencia."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La secuencia 1, 4, 9, 16 corresponde a los cuadrados de 1, 2, 3 y 4. El siguiente término es el cuadrado de 5, es decir 25 fichas.",
       "difficulty": "6",
       "images": [],
@@ -151,31 +151,31 @@
       "context": "En un tejido artesanal de Cartagena las figuras tienen 3, 6, 9 y 12 lados en los primeros cuatro pasos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "18",
           "is_correct": true,
           "feedback": "Es correcta porque la regla es multiplicar el número de paso por 3: 6 × 3 = 18."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "15",
           "is_correct": false,
           "feedback": "Error conceptual: corresponde al quinto paso, no al sexto."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "21",
           "is_correct": false,
           "feedback": "Error conceptual: suma un paso de más y calcula el séptimo término."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "36",
           "is_correct": false,
           "feedback": "Error conceptual: duplica el valor correcto del sexto paso."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La secuencia 3, 6, 9, 12 aumenta de 3 en 3 y el término de cada paso es igual al número de paso multiplicado por 3. Para el sexto paso se calcula 6 × 3 = 18 lados.",
       "difficulty": "6",
       "images": [],
@@ -197,31 +197,31 @@
       "context": "En un telar de Manizales una fila lleva 1 cuadrado, la segunda 3 y la tercera 5, aumentando siempre de 2 en 2.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "15",
           "is_correct": true,
           "feedback": "Es correcta porque la regla es 1 + 2 × (8 − 1) = 1 + 14 = 15."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "13",
           "is_correct": false,
           "feedback": "Error conceptual: calcula la séptima fila en lugar de la octava."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "16",
           "is_correct": false,
           "feedback": "Error conceptual: suma un cuadrado de más al resultado correcto."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "17",
           "is_correct": false,
           "feedback": "Error conceptual: usa la posición de la fila sin restar el primer término."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La secuencia 1, 3, 5, 7 aumenta de 2 en 2. El término de la fila n se obtiene con 1 + 2 × (n − 1). Para n = 8: 1 + 2 × 7 = 15 cuadrados.",
       "difficulty": "6",
       "images": [],
@@ -243,31 +243,31 @@
       "context": "Un artesano de Ibagué observa la secuencia de puntadas 40, 37, 34, 31 y quiere describir su regla de formación.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Restar 3 a cada término para obtener el siguiente",
           "is_correct": true,
           "feedback": "Es correcta porque 40 − 3 = 37, 37 − 3 = 34 y 34 − 3 = 31."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Sumar 3 a cada término para obtener el siguiente",
           "is_correct": false,
           "feedback": "Error conceptual: la secuencia disminuye, no aumenta."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Multiplicar cada término por 3",
           "is_correct": false,
           "feedback": "Error conceptual: 40 × 3 sería 120, que no sigue la secuencia."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Dividir cada término entre 2",
           "is_correct": false,
           "feedback": "Error conceptual: dividir no reproduce los términos 37, 34 y 31."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La secuencia 40, 37, 34, 31 es decreciente y cada término es 3 unidades menor que el anterior. Por eso la regla de formación consiste en restar 3 para pasar de un término al siguiente.",
       "difficulty": "8",
       "images": [],
@@ -335,13 +335,13 @@
       "context": "En una feria artesanal de Santa Marta, Ana hace collares con 3, 5, 7 y 9 cuentas por paso, y Beto los hace con 4, 6, 8 y 10 cuentas por paso.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Las dos crecen de 2 en 2 y la diferencia entre ellas se mantiene constante",
           "is_correct": true,
           "feedback": "Es correcta porque ambas aumentan de 2 en 2 y Beto siempre lleva una cuenta más que Ana."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La secuencia de Ana crece más rápido que la de Beto",
           "is_correct": false,
           "feedback": "Error conceptual: ambas crecen al mismo ritmo, de 2 en 2."
@@ -359,7 +359,7 @@
           "feedback": "Error conceptual: la diferencia es constante (una cuenta) en todos los pasos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Ana parte de 3 y Beto de 4, pero ambos suman 2 en cada paso. Por eso crecen a la misma razón y la diferencia entre sus cantidades permanece constante, siempre igual a una cuenta.",
       "difficulty": "8",
       "images": [],
@@ -381,31 +381,31 @@
       "context": "En un taller de tejidos de Villavicencio se analiza la secuencia 3, 6, 12, 24. Un artesano propone la regla A: \"sumar 3 cada vez\" y la regla B: \"multiplicar por 2 cada vez\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "La regla B, porque 3 × 2 = 6, 6 × 2 = 12 y 12 × 2 = 24",
           "is_correct": true,
           "feedback": "Es correcta porque cada término es el doble del anterior, lo que reproduce toda la secuencia."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La regla A, porque 3 + 3 = 6 y 6 + 3 = 9",
           "is_correct": false,
           "feedback": "Error conceptual: al sumar 3 se obtiene 9, que no aparece en la secuencia."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Las dos reglas describen igual la secuencia",
           "is_correct": false,
           "feedback": "Error conceptual: sumar 3 produce 3, 6, 9, 12, que no coincide con la secuencia."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Ninguna regla sirve para describir la secuencia",
           "is_correct": false,
           "feedback": "Error conceptual: multiplicar por 2 sí reproduce todos los términos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Para validar una regla de formación se aplica a cada término y se verifica si reproduce la secuencia. Multiplicar por 2 cumple con 3, 6, 12, 24, mientras que sumar 3 daría 3, 6, 9, 12, que no es la secuencia dada.",
       "difficulty": "10",
       "images": [],
@@ -427,19 +427,19 @@
       "context": "En una artesanía de Neiva se estudia la secuencia 5, 8, 11, 14, que aumenta de 3 en 3, y se quiere hallar el término 20 sin escribir todos los términos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Encontrar la regla de formación y calcular 5 + 3 × (20 − 1) = 62",
           "is_correct": true,
           "feedback": "Es correcta porque el término de la posición n es 5 + 3 × (n − 1), y para n = 20 se obtiene 62."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Multiplicar 20 por 3 y sumar 5",
           "is_correct": false,
           "feedback": "Error conceptual: así se obtiene 65, que corresponde a sumar un paso de más."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Duplicar el término 14 varias veces hasta llegar al 20",
           "is_correct": false,
           "feedback": "Error conceptual: duplicar no respeta la regla de sumar 3 cada vez."
@@ -451,7 +451,7 @@
           "feedback": "Error conceptual: es posible, pero no es la estrategia más eficiente ni la que usa la regla."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Para hallar un término lejano conviene encontrar la regla de formación y generalizarla. En esta secuencia el término de la posición n es 5 + 3 × (n − 1); por eso el término 20 es 5 + 3 × 19 = 62.",
       "difficulty": "10",
       "images": [],

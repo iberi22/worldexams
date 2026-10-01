@@ -19,13 +19,13 @@
           "feedback": "Esta es una función potencia (cuadrática)."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$f(x) = a^x$",
           "is_correct": true,
           "feedback": "Correcto, donde la variable independiente se encuentra en el exponente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$f(x) = \\log_a(x)$",
           "is_correct": false,
           "feedback": "Esta es una función logarítmica."
@@ -37,7 +37,7 @@
           "feedback": "Esta es una función afín."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Una función exponencial es aquella en la que la variable independiente $x$ aparece en el exponente de una base constante $a$ ($a > 0$ y $a \\neq 1$). Su forma general básica es $f(x) = a^x$.",
       "difficulty": "4",
       "images": [],
@@ -58,19 +58,19 @@
       "context": "Un estudiante analiza el intercepto con el eje Y de una función exponencial.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$(a, 0)$",
           "is_correct": false,
           "feedback": "Este no es el intercepto estándar."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$(0, a)$",
           "is_correct": false,
           "feedback": "El intercepto no depende directamente del valor de la base sino de la potencia cero."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "$(0, 1)$",
           "is_correct": true,
           "feedback": "Correcto, ya que cualquier número (distinto de cero) elevado a 0 es 1."
@@ -82,7 +82,7 @@
           "feedback": "Este es un punto por el que pasan las funciones logarítmicas."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "El intercepto con el eje Y se halla evaluando $f(0)$. Para la función $f(x) = a^x$, tenemos $f(0) = a^0$. Por propiedad de potencias, si $a \\neq 0$, $a^0 = 1$. Por lo tanto, el punto es $(0, 1)$.",
       "difficulty": "4",
       "images": [],
@@ -193,19 +193,19 @@
       "context": "Valentina evalúa una función exponencial con exponente negativo en Valparaíso.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "-8",
           "is_correct": false,
           "feedback": "Las potencias de base positiva nunca resultan en valores negativos."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "-6",
           "is_correct": false,
           "feedback": "Multiplicaste base por exponente y mantuviste el signo."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "1/8",
           "is_correct": true,
           "feedback": "$2^{-3} = 1 / 2^3 = 1/8$."
@@ -217,7 +217,7 @@
           "feedback": "Error al calcular la potencia en el denominador."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Un exponente negativo indica el recíproco de la potencia con exponente positivo: $a^{-n} = 1 / a^n$. En este caso, $2^{-3} = 1 / 2^3 = 1 / (2 \\cdot 2 \\cdot 2) = 1/8$.",
       "difficulty": "6",
       "images": [],
@@ -238,13 +238,13 @@
       "context": "Se analiza el comportamiento asintótico de la función.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El eje Y ($x = 0$).",
           "is_correct": false,
           "feedback": "Las funciones exponenciales básicas tienen asíntotas horizontales, no verticales."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El eje X ($y = 0$).",
           "is_correct": true,
           "feedback": "Correcto, la función se acerca a 0 cuando $x$ tiende a $-\\infty$, pero nunca lo toca."
@@ -262,7 +262,7 @@
           "feedback": "Las funciones exponenciales siempre tienen una dirección en la que se estabilizan cerca de una recta."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Para la función $f(x) = a^x$, el valor de $y$ siempre es positivo y se aproxima a cero a medida que el exponente se hace muy grande negativamente (si $a>1$) o muy grande positivamente (si $0<a<1$). Por tanto, el eje X ($y=0$) es su asíntota horizontal.",
       "difficulty": "6",
       "images": [],
@@ -289,13 +289,13 @@
           "feedback": "El crecimiento poblacional es multiplicativo, no aditivo."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$N(t) = 100 \\cdot 2^t$",
           "is_correct": true,
           "feedback": "Correcto. 100 es el valor inicial y 2 es el factor de crecimiento (duplicación)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$N(t) = 2 \\cdot 100^t$",
           "is_correct": false,
           "feedback": "Invertiste la base y el coeficiente inicial."
@@ -307,7 +307,7 @@
           "feedback": "El exponente solo debe afectar al factor de crecimiento."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El modelo general de crecimiento exponencial es $f(t) = C \\cdot a^t$, donde $C$ es la cantidad inicial y $a$ es el factor de cambio. Con 100 bacterias iniciales y duplicación ($a=2$), la función es $100 \\cdot 2^t$.",
       "difficulty": "6",
       "images": [],
@@ -334,13 +334,13 @@
           "feedback": "Esto significaría que queda solo el 20% del valor cada año."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$V(t) = 800.000 \\cdot (0,80)^t$",
           "is_correct": true,
           "feedback": "Si pierde 20%, conserva el 80% ($1 - 0,2 = 0,8$)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$V(t) = 800.000 - (0,20)^t$",
           "is_correct": false,
           "feedback": "La depreciación porcentual es una relación multiplicativa."
@@ -352,7 +352,7 @@
           "feedback": "Esto representaría un aumento de valor del 20% anual."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Cuando una cantidad disminuye un porcentaje fijo $r$, el factor de crecimiento es $(1 - r)$. Aquí, $r = 0,20$, por lo que el factor es $0,80$. La función que modela el valor en el tiempo es $800.000 \\cdot (0,80)^t$.",
       "difficulty": "6",
       "images": [],
@@ -463,19 +463,19 @@
       "context": "Un capital de \\$1.000.000 se invierte a un interés compuesto anual del 10%.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "\\$1.100.000",
           "is_correct": false,
           "feedback": "Solo calculaste el interés del primer año."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "\\$1.200.000",
           "is_correct": false,
           "feedback": "Esto sería interés simple ($100.000 \\cdot 2$)."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "\\$1.210.000",
           "is_correct": true,
           "feedback": "$1.000.000 \\cdot (1,10)^2 = 1.000.000 \\cdot 1,21 = 1.210.000$."
@@ -487,7 +487,7 @@
           "feedback": "Este es el valor para 3 años."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Fórmula de interés compuesto: $M = P(1 + i)^t$. Sustituimos: $M = 1.000.000 \\cdot (1 + 0,10)^2$. Resolvemos: $1.000.000 \\cdot (1,1)^2 = 1.000.000 \\cdot 1,21 = 1.210.000$.",
       "difficulty": "8",
       "images": [],
@@ -604,25 +604,25 @@
           "feedback": "Las traslaciones cambian la posición, no el sentido de crecimiento."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Mediante una reflexión respecto al eje Y.",
           "is_correct": true,
           "feedback": "$(1/2)^x = 2^{-x}$, lo cual es una reflexión en el eje vertical."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Mediante una reflexión respecto al eje X.",
           "is_correct": false,
           "feedback": "Eso daría $-2^x$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "No tienen ninguna relación geométrica simple.",
           "is_correct": false,
           "feedback": "Sí la tienen a través del cambio de signo en el exponente."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Notamos que $(1/2)^x = (2^{-1})^x = 2^{-x}$. Reemplazar $x$ por $-x$ en una función $f(x)$ produce geométricamente una reflexión de su gráfica con respecto al eje de las ordenadas (Eje Y).",
       "difficulty": "8",
       "images": [],
@@ -688,19 +688,19 @@
       "context": "Una inversión crece según la función $M(t) = 500.000 \\cdot (1,05)^t$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "1,05%",
           "is_correct": false,
           "feedback": "El factor es $1 + r$, no $r$."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "50%",
           "is_correct": false,
           "feedback": "Eso requeriría un factor de 1,50."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "5%",
           "is_correct": true,
           "feedback": "$1 + r = 1,05 \\Rightarrow r = 0,05$, que equivale al 5%."
@@ -712,7 +712,7 @@
           "feedback": "Olvidaste multiplicar por 100 para obtener el porcentaje."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "En el modelo $C(1+r)^t$, el valor $r$ representa la tasa de crecimiento decimal. Aquí $1+r = 1,05$, por lo que $r = 0,05$. Para expresarlo como porcentaje, multiplicamos por 100: $0,05 \\cdot 100 = 5\\%$.",
       "difficulty": "8",
       "images": [],
@@ -739,25 +739,25 @@
           "feedback": "Sustituir da $9 = 1$, falso."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$x = 3$",
           "is_correct": true,
           "feedback": "$(3^2)^x = (3^3)^{x-1} \\Rightarrow 2x = 3x - 3 \\Rightarrow x = 3$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = 2$",
           "is_correct": false,
           "feedback": "$81 \\neq 27$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$x = 1,5$",
           "is_correct": false,
           "feedback": "Error en el despeje de la ecuación lineal resultante."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Igualamos bases usando la base común 3: $(3^2)^x = (3^3)^{x-1}$. Aplicamos potencia de una potencia: $3^{2x} = 3^{3x-3}$. Igualamos exponentes: $2x = 3x - 3$. Despejamos: $x = 3$.",
       "difficulty": "10",
       "images": [],
@@ -790,19 +790,19 @@
           "feedback": "Esto daría 1/4."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "-1/2",
           "is_correct": true,
           "feedback": "$2^{-1/2} = 1 / 2^{1/2} = 1 / \\sqrt{2}$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "-1",
           "is_correct": false,
           "feedback": "Esto daría 1/2."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Expresamos el lado derecho como potencia de 2: $\\frac{1}{\\sqrt{2}} = \\frac{1}{2^{1/2}} = 2^{-1/2}$. Al igualar con $2^x$, obtenemos directamente que $x = -1/2$.",
       "difficulty": "10",
       "images": [],
@@ -829,13 +829,13 @@
           "feedback": "Toda función $a^x$ tiende a 1 cuando $x$ se acerca a 0."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "El resultado es cercano a 1.",
           "is_correct": true,
           "feedback": "Correcto, $a^0 = 1$ para cualquier $a > 0$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El resultado es cercano a 1000.",
           "is_correct": false,
           "feedback": "Eso sería si $x$ fuera cercano a 1."
@@ -847,7 +847,7 @@
           "feedback": "Esto ocurre si $x$ crece mucho, no si se acerca a 0."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Sin importar qué tan grande sea la base $a$, la función exponencial siempre pasa por el punto $(0, 1)$. Por lo tanto, para cualquier valor de $x$ suficientemente cercano a cero, $a^x$ estará muy cerca de 1.",
       "difficulty": "10",
       "images": [],
@@ -868,19 +868,19 @@
       "context": "Un profesor en Puerto Montt pregunta sobre la relación entre la función exponencial y su inversa.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$g(x) = e^{-x}$",
           "is_correct": false,
           "feedback": "Esta es una reflexión, no la inversa."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$g(x) = 1/e^x$",
           "is_correct": false,
           "feedback": "Este es el recíproco."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "$g(x) = \\ln(x)$",
           "is_correct": true,
           "feedback": "Correcto, el logaritmo natural es la función inversa de la exponencial de base $e$."
@@ -892,7 +892,7 @@
           "feedback": "Esta es una función potencia."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Por definición, la función inversa de una función exponencial de base $a$ es la función logarítmica de la misma base. Para la base natural $e$ (número de Euler), la inversa es el logaritmo natural, denotado como $\\ln(x)$.",
       "difficulty": "10",
       "images": [],
@@ -919,13 +919,13 @@
           "feedback": "Esta es una función potencia (cuadrática)."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$f(x) = a^x$",
           "is_correct": true,
           "feedback": "Correcto, donde la variable independiente se encuentra en el exponente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$f(x) = \\log_a(x)$",
           "is_correct": false,
           "feedback": "Esta es una función logarítmica."
@@ -937,7 +937,7 @@
           "feedback": "Esta es una función afín."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Una función exponencial es aquella en la que la variable independiente $x$ aparece en el exponente de una base constante $a$ ($a > 0$ y $a \\neq 1$). Su forma general básica es $f(x) = a^x$.",
       "difficulty": "4",
       "images": [],
@@ -970,19 +970,19 @@
           "feedback": "El intercepto no depende directamente del valor de la base sino de la potencia cero."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "$(0, 1)$",
           "is_correct": true,
           "feedback": "Correcto, ya que cualquier número (distinto de cero) elevado a 0 es 1."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$(1, 0)$",
           "is_correct": false,
           "feedback": "Este es un punto por el que pasan las funciones logarítmicas."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "El intercepto con el eje Y se halla evaluando $f(0)$. Para la función $f(x) = a^x$, tenemos $f(0) = a^0$. Por propiedad de potencias, si $a \\neq 0$, $a^0 = 1$. Por lo tanto, el punto es $(0, 1)$.",
       "difficulty": "4",
       "images": [],
@@ -1054,25 +1054,25 @@
           "feedback": "Si la base es mayor a 1, la función es creciente."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$0 < a < 1$",
           "is_correct": true,
           "feedback": "Correcto, una base entre 0 y 1 implica que a mayor $x$, menor es el valor de $y$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$a < 0$",
           "is_correct": false,
           "feedback": "La base de una función exponencial real debe ser siempre positiva."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$a = 1$",
           "is_correct": false,
           "feedback": "Si $a=1$, la función es constante ($1^x = 1$)."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Si la base $a$ está entre 0 y 1 (por ejemplo $1/2$), cada vez que $x$ aumenta, estamos multiplicando por una fracción, lo que reduce el valor total. Esto genera una curva decreciente que se acerca al eje X.",
       "difficulty": "4",
       "images": [],
@@ -1093,19 +1093,19 @@
       "context": "Valentina evalúa una función exponencial con exponente negativo en Valparaíso.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "-8",
           "is_correct": false,
           "feedback": "Las potencias de base positiva nunca resultan en valores negativos."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "-6",
           "is_correct": false,
           "feedback": "Multiplicaste base por exponente y mantuviste el signo."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "1/8",
           "is_correct": true,
           "feedback": "$2^{-3} = 1 / 2^3 = 1/8$."
@@ -1117,7 +1117,7 @@
           "feedback": "Error al calcular la potencia en el denominador."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Un exponente negativo indica el recíproco de la potencia con exponente positivo: $a^{-n} = 1 / a^n$. En este caso, $2^{-3} = 1 / 2^3 = 1 / (2 \\cdot 2 \\cdot 2) = 1/8$.",
       "difficulty": "6",
       "images": [],
@@ -1144,13 +1144,13 @@
           "feedback": "Las funciones exponenciales básicas tienen asíntotas horizontales, no verticales."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "El eje X ($y = 0$).",
           "is_correct": true,
           "feedback": "Correcto, la función se acerca a 0 cuando $x$ tiende a $-\\infty$, pero nunca lo toca."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La recta $y = 5$.",
           "is_correct": false,
           "feedback": "Este es solo un valor que la función alcanza cuando $x=1$."
@@ -1162,7 +1162,7 @@
           "feedback": "Las funciones exponenciales siempre tienen una dirección en la que se estabilizan cerca de una recta."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Para la función $f(x) = a^x$, el valor de $y$ siempre es positivo y se aproxima a cero a medida que el exponente se hace muy grande negativamente (si $a>1$) o muy grande positivamente (si $0<a<1$). Por tanto, el eje X ($y=0$) es su asíntota horizontal.",
       "difficulty": "6",
       "images": [],
@@ -1234,13 +1234,13 @@
           "feedback": "Esto significaría que queda solo el 20% del valor cada año."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$V(t) = 800.000 \\cdot (0,80)^t$",
           "is_correct": true,
           "feedback": "Si pierde 20%, conserva el 80% ($1 - 0,2 = 0,8$)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$V(t) = 800.000 - (0,20)^t$",
           "is_correct": false,
           "feedback": "La depreciación porcentual es una relación multiplicativa."
@@ -1252,7 +1252,7 @@
           "feedback": "Esto representaría un aumento de valor del 20% anual."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Cuando una cantidad disminuye un porcentaje fijo $r$, el factor de crecimiento es $(1 - r)$. Aquí, $r = 0,20$, por lo que el factor es $0,80$. La función que modela el valor en el tiempo es $800.000 \\cdot (0,80)^t$.",
       "difficulty": "6",
       "images": [],
@@ -1285,19 +1285,19 @@
           "feedback": "Eso sería después de 20 años."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "8 g",
           "is_correct": true,
           "feedback": "Han pasado 3 periodos de 10 años. $64 \\cdot (1/2)^3 = 64/8 = 8$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "4 g",
           "is_correct": false,
           "feedback": "Error en el conteo de los periodos de vida media."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "30 años corresponden a 3 periodos de 10 años ($30/10 = 3$). En cada periodo la masa se divide por 2. Entonces: $64 \\rightarrow 32 \\rightarrow 16 \\rightarrow 8$. O matemáticamente: $64 \\cdot (0,5)^3 = 8$ gramos.",
       "difficulty": "6",
       "images": [],
@@ -1369,13 +1369,13 @@
           "feedback": "Solo calculaste el interés del primer año."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "\\$1.200.000",
           "is_correct": false,
           "feedback": "Esto sería interés simple ($100.000 \\cdot 2$)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "\\$1.210.000",
           "is_correct": true,
           "feedback": "$1.000.000 \\cdot (1,10)^2 = 1.000.000 \\cdot 1,21 = 1.210.000$."
@@ -1387,7 +1387,7 @@
           "feedback": "Este es el valor para 3 años."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Fórmula de interés compuesto: $M = P(1 + i)^t$. Sustituimos: $M = 1.000.000 \\cdot (1 + 0,10)^2$. Resolvemos: $1.000.000 \\cdot (1,1)^2 = 1.000.000 \\cdot 1,21 = 1.210.000$.",
       "difficulty": "8",
       "images": [],
@@ -1504,13 +1504,13 @@
           "feedback": "Las traslaciones cambian la posición, no el sentido de crecimiento."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Mediante una reflexión respecto al eje Y.",
           "is_correct": true,
           "feedback": "$(1/2)^x = 2^{-x}$, lo cual es una reflexión en el eje vertical."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Mediante una reflexión respecto al eje X.",
           "is_correct": false,
           "feedback": "Eso daría $-2^x$."
@@ -1522,7 +1522,7 @@
           "feedback": "Sí la tienen a través del cambio de signo en el exponente."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Notamos que $(1/2)^x = (2^{-1})^x = 2^{-x}$. Reemplazar $x$ por $-x$ en una función $f(x)$ produce geométricamente una reflexión de su gráfica con respecto al eje de las ordenadas (Eje Y).",
       "difficulty": "8",
       "images": [],
@@ -1549,25 +1549,25 @@
           "feedback": "Pasaría por $(2, 625)$."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$f(x) = 5^x$",
           "is_correct": true,
           "feedback": "$5^0 = 1$ y $5^2 = 25$. Cumple ambos puntos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$f(x) = x^5$",
           "is_correct": false,
           "feedback": "Pasaría por $(2, 32)$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$f(x) = 12,5x$",
           "is_correct": false,
           "feedback": "Esta es una función lineal, no exponencial."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Buscamos $f(x) = a^x$. Usamos el punto $(2, 25)$: $25 = a^2$. Aplicando raíz cuadrada (y considerando que $a > 0$), obtenemos $a = 5$. La función es $f(x) = 5^x$.",
       "difficulty": "8",
       "images": [],
@@ -1594,13 +1594,13 @@
           "feedback": "El factor es $1 + r$, no $r$."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "50%",
           "is_correct": false,
           "feedback": "Eso requeriría un factor de 1,50."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "5%",
           "is_correct": true,
           "feedback": "$1 + r = 1,05 \\Rightarrow r = 0,05$, que equivale al 5%."
@@ -1612,7 +1612,7 @@
           "feedback": "Olvidaste multiplicar por 100 para obtener el porcentaje."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "En el modelo $C(1+r)^t$, el valor $r$ representa la tasa de crecimiento decimal. Aquí $1+r = 1,05$, por lo que $r = 0,05$. Para expresarlo como porcentaje, multiplicamos por 100: $0,05 \\cdot 100 = 5\\%$.",
       "difficulty": "8",
       "images": [],
@@ -1633,13 +1633,13 @@
       "context": "Se analiza una ecuación exponencial donde las bases no son potencias evidentes una de la otra.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x = 1$",
           "is_correct": false,
           "feedback": "Sustituir da $9 = 1$, falso."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 3$",
           "is_correct": true,
           "feedback": "$(3^2)^x = (3^3)^{x-1} \\Rightarrow 2x = 3x - 3 \\Rightarrow x = 3$."
@@ -1657,7 +1657,7 @@
           "feedback": "Error en el despeje de la ecuación lineal resultante."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Igualamos bases usando la base común 3: $(3^2)^x = (3^3)^{x-1}$. Aplicamos potencia de una potencia: $3^{2x} = 3^{3x-3}$. Igualamos exponentes: $2x = 3x - 3$. Despejamos: $x = 3$.",
       "difficulty": "10",
       "images": [],
@@ -1684,13 +1684,13 @@
           "feedback": "Esto daría $\\sqrt{2}$."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "-2",
           "is_correct": false,
           "feedback": "Esto daría 1/4."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "-1/2",
           "is_correct": true,
           "feedback": "$2^{-1/2} = 1 / 2^{1/2} = 1 / \\sqrt{2}$."
@@ -1702,7 +1702,7 @@
           "feedback": "Esto daría 1/2."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Expresamos el lado derecho como potencia de 2: $\\frac{1}{\\sqrt{2}} = \\frac{1}{2^{1/2}} = 2^{-1/2}$. Al igualar con $2^x$, obtenemos directamente que $x = -1/2$.",
       "difficulty": "10",
       "images": [],
@@ -1723,13 +1723,13 @@
       "context": "Se analiza el comportamiento de la función $f(x) = a^x$ cuando $a$ es muy grande.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El resultado es cercano a 0.",
           "is_correct": false,
           "feedback": "Toda función $a^x$ tiende a 1 cuando $x$ se acerca a 0."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El resultado es cercano a 1.",
           "is_correct": true,
           "feedback": "Correcto, $a^0 = 1$ para cualquier $a > 0$."
@@ -1747,7 +1747,7 @@
           "feedback": "Esto ocurre si $x$ crece mucho, no si se acerca a 0."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Sin importar qué tan grande sea la base $a$, la función exponencial siempre pasa por el punto $(0, 1)$. Por lo tanto, para cualquier valor de $x$ suficientemente cercano a cero, $a^x$ estará muy cerca de 1.",
       "difficulty": "10",
       "images": [],
@@ -1780,19 +1780,19 @@
           "feedback": "Este es el recíproco."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "$g(x) = \\ln(x)$",
           "is_correct": true,
           "feedback": "Correcto, el logaritmo natural es la función inversa de la exponencial de base $e$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$g(x) = x^e$",
           "is_correct": false,
           "feedback": "Esta es una función potencia."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Por definición, la función inversa de una función exponencial de base $a$ es la función logarítmica de la misma base. Para la base natural $e$ (número de Euler), la inversa es el logaritmo natural, denotado como $\\ln(x)$.",
       "difficulty": "10",
       "images": [],

@@ -19,13 +19,13 @@
           "feedback": "Incorrecta, porque mezclar todo impide el aprovechamiento aunque los materiales sirvan."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Un material descartado como papel, cartón, plástico o vidrio limpio que puede reciclarse o reutilizarse.",
           "is_correct": true,
           "feedback": "Correcta, porque define el residuo aprovechable por su capacidad de reincorporarse a un ciclo productivo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Un veneno que siempre debe enterrarse en el patio del colegio sin avisar.",
           "is_correct": false,
           "feedback": "Incorrecta, porque los residuos peligrosos exigen manejo especial y nunca se entierran en el patio."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecta, porque un alimento sin usar no es un residuo descartado."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Los residuos aprovechables conservan valor: el papel, el cartón, el plástico limpio, el vidrio y el metal pueden reciclarse. Separarlos en la fuente evita que se contaminen con restos de comida. En Colombia la caneca blanca recibe estos materiales secos y limpios para los recicladores.",
       "difficulty": "4",
       "images": [],
@@ -59,19 +59,19 @@
       "context": "En un barrio de Bogotá, los vecinos dejan bolsas abiertas junto al caño y después del aguacero el agua baja oscura, con mal olor y espuma, hacia el río Bogotá.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "La alteración de la calidad del agua por basuras y sustancias que llegan con la escorrentía y dañan la vida acuática.",
           "is_correct": true,
           "feedback": "Correcta, porque relaciona los residuos arrastrados con el cambio de la calidad del agua."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El aumento del nivel del agua porque llovió mucho y el caño se puso contento.",
           "is_correct": false,
           "feedback": "Incorrecta, porque el nivel puede subir sin que el agua esté contaminada; lo clave es la calidad."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La evaporación normal del agua que forma nubes blancas sobre los cerros.",
           "is_correct": false,
           "feedback": "Incorrecta, porque la evaporación es un proceso natural del ciclo del agua, no contaminación."
@@ -83,7 +83,7 @@
           "feedback": "Incorrecta, porque los peces no contaminan y más bien sufren la contaminación del agua."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Contaminar es agregar al agua, al aire o al suelo sustancias o microorganismos que cambian sus propiedades y dañan la salud y los ecosistemas. Las basuras en calles terminan en caños y ríos con la lluvia. Por eso separar, no arrojar basura y recoger los residuos protege las fuentes de agua.",
       "difficulty": "4",
       "images": [],
@@ -105,13 +105,13 @@
       "context": "En Medellín, una familia separa en casa con tres bolsas siguiendo el código de colores: restos de comida y cáscaras, botellas plásticas limpias y papel, y polvo de barrido con servilletas usadas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Todo revuelto en una sola bolsa negra porque separar gasta demasiado tiempo.",
           "is_correct": false,
           "feedback": "Incorrecta, porque revolver impide el reciclaje y contamina los materiales aprovechables."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Restos de comida en bolsa verde, botellas y papel limpio en bolsa blanca, y polvo con servilletas usadas en bolsa negra.",
           "is_correct": true,
           "feedback": "Correcta, porque aplica el código de colores: verde orgánicos, blanca aprovechables y negra no aprovechables."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecta, porque quemar basuras contamina el aire y está prohibido en la ciudad."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El código colombiano usa verde para orgánicos aprovechables, blanco para reciclables limpios y negro para no aprovechables. Separar bien permite compostar los orgánicos y reciclar papel, plástico, vidrio y metal. La bolsa negra va al relleno sanitario y debe ser lo mínimo posible.",
       "difficulty": "6",
       "images": [],
@@ -157,25 +157,25 @@
           "feedback": "Incorrecta, porque el problema no es estético sino la toxicidad de sus componentes."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Porque contienen metales pesados y sustancias tóxicas que contaminan el suelo y el agua si llegan al relleno común.",
           "is_correct": true,
           "feedback": "Correcta, porque identifica los residuos peligrosos por su riesgo químico para el ambiente y la salud."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque las pilas usadas sirven como alimento para las plantas del jardín.",
           "is_correct": false,
           "feedback": "Incorrecta, porque los químicos de las pilas envenenan las plantas en lugar de nutrirlas."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Porque los bombillos rotos se convierten solos en arena limpia dentro de la bolsa.",
           "is_correct": false,
           "feedback": "Incorrecta, porque los vidrios con químicos no se transforman en arena limpia."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Las pilas, bombillos, medicamentos vencidos y pinturas son residuos peligrosos: liberan mercurio, plomo, cadmio y otros tóxicos que se filtran al suelo y al agua. Colombia exige llevarlos a puntos limpios para su gestión especial. Nunca se entierran, se queman ni se tiran al caño.",
       "difficulty": "6",
       "images": [],
@@ -203,13 +203,13 @@
           "feedback": "Incorrecta, porque enviar todo al relleno desperdicia lo compostable y lo reciclable."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Compostar las cáscaras en la huerta, reciclar las botellas limpias y dejar solo las envolturas sucias para la bolsa negra.",
           "is_correct": true,
           "feedback": "Correcta, porque asigna cada fracción a su mejor tratamiento y minimiza lo enviado al relleno."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Enterrar las botellas plásticas en la cancha para esconderlas del profesor.",
           "is_correct": false,
           "feedback": "Incorrecta, porque enterrar plástico contamina el suelo y no es ningún tratamiento válido."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecta, porque quemar genera humo tóxico y destruye materiales que podían aprovecharse."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Las 3R se aplican con datos: reducir, reutilizar y reciclar. Las cáscaras van al compostaje, las botellas al reciclaje y solo lo no aprovechable al relleno. Pesar por fracciones muestra dónde está el mayor potencial: aquí 13 de 16 kilos podían aprovecharse.",
       "difficulty": "6",
       "images": [],
@@ -249,25 +249,25 @@
           "feedback": "Incorrecta, porque los síntomas descritos en cada quebrada son distintos y graves."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Los detergentes y la materia orgánica consumen el oxígeno del agua y matan los peces, mientras los escombros enturbian y colmatan el cauce.",
           "is_correct": true,
           "feedback": "Correcta, porque distingue la contaminación química y orgánica de la carga de sedimentos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Los escombros matan por veneno y los detergentes limpian el agua para que los peces vivan mejor.",
           "is_correct": false,
           "feedback": "Incorrecta, porque invierte los efectos: el detergente agota el oxígeno y no limpia el río."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Ninguna descarga contamina porque el agua de la quebrada se limpia sola en un minuto.",
           "is_correct": false,
           "feedback": "Incorrecta, porque la autodepuración tiene límites y no elimina cargas grandes y continuas."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La materia orgánica y los detergentes aumentan la demanda de oxígeno: los microbios la descomponen, agotan el oxígeno disuelto y los peces mueren. Los sedimentos de obra bloquean la luz, tapan branquias y rellenan el cauce. Analizar exige conectar cada contaminante con su mecanismo de daño específico.",
       "difficulty": "8",
       "images": [],
@@ -289,31 +289,31 @@
       "context": "En Barranquilla, un grupo mide con tiras el pH del agua de tres puntos del mismo arroyo: junto al mercado da 5, en el parque da 7 y junto a la salida del barrio da 6, y repite la medida tres días seguidos con igual resultado.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "El punto junto al mercado muestra la mayor alteración ácida y el parque está en condición neutra, con un patrón que se repite los tres días.",
           "is_correct": true,
           "feedback": "Correcta, porque interpreta la escala de pH y reconoce la consistencia de las réplicas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Los tres puntos están iguales porque 5, 6 y 7 son el mismo número en la tira.",
           "is_correct": false,
           "feedback": "Incorrecta, porque cada unidad de pH representa un cambio grande en la acidez del agua."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El pH 5 es mejor que el pH 7 porque los números pequeños siempre indican agua pura.",
           "is_correct": false,
           "feedback": "Incorrecta, porque el agua neutra está cerca de 7 y el 5 indica acidez por vertidos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Las tiras no sirven porque medir tres días seguidos inventa la contaminación.",
           "is_correct": false,
           "feedback": "Incorrecta, porque repetir la medida fortalece la evidencia en lugar de inventarla."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El pH mide acidez: 7 es neutro, valores menores son ácidos. Un pH de 5 junto al mercado sugiere vertidos que alteran el agua. Repetir tres días y obtener lo mismo descarta un accidente de un solo día. Analizar es comparar entre puntos y en el tiempo antes de señalar la fuente.",
       "difficulty": "8",
       "images": [],
@@ -335,13 +335,13 @@
       "context": "En Cúcuta, el colegio compara dos jornadas: el lunes sin campaña recoge 40 kilos de basura revuelta, y el viernes con campaña de separación recoge 15 kilos en bolsa negra, 18 en blanca y 12 en verde.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La campaña fracasó porque el viernes se recogieron más kilos en total que el lunes.",
           "is_correct": false,
           "feedback": "Incorrecta, porque el total del viernes es 45 kilos y lo importante es la fracción que va al relleno."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La bolsa negra bajó de 40 a 15 kilos porque 30 kilos se desviaron a reciclaje y compostaje.",
           "is_correct": true,
           "feedback": "Correcta, porque compara lo enviado al relleno antes y después y calcula el material recuperado."
@@ -359,7 +359,7 @@
           "feedback": "Incorrecta, porque cero residuos es imposible y la meta es aprovechar al máximo, no eliminar todo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El indicador de éxito es cuánto deja de ir al relleno: de 40 kilos revueltos a 15 en bolsa negra significa 25 a 30 kilos recuperados según el día base. La suma por fracciones permite verificar: 15 más 18 más 12 confirma el total. Analizar exige comparar el mismo indicador antes y después.",
       "difficulty": "8",
       "images": [],
@@ -381,13 +381,13 @@
       "context": "En Manizales, la alcaldía propone dos planes con 2000000 COP: quemar toda la basura en un lote del barrio o montar una ruta de reciclaje con recicladores y compostera comunitaria.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Quemar es mejor porque el humo alimenta a las plantas y desaparece la basura sin dejar nada.",
           "is_correct": false,
           "feedback": "Incorrecta, porque la quema abierta libera gases tóxicos y cenizas peligrosas para la salud."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La ruta de reciclaje es mejor porque reduce el relleno, genera ingreso a recicladores y evita humos tóxicos, aunque exige separar bien.",
           "is_correct": true,
           "feedback": "Correcta, porque pondera beneficios sanitarios, ambientales y sociales frente al costo de la separación."
@@ -405,7 +405,7 @@
           "feedback": "Incorrecta, porque experiencias barriales muestran que separar y compostar sí reduce la basura."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Evaluar es comparar impactos: la quema abierta produce material particulado, dioxinas y malos olores que enferman; el reciclaje con compostaje cierra ciclos y dignifica el trabajo del reciclador. El plan sostenible cuesta organización, pero protege el aire, el suelo y la salud a largo plazo.",
       "difficulty": "10",
       "images": [],
@@ -433,25 +433,25 @@
           "feedback": "Incorrecta, porque una impresión sin datos no supera una serie de medidas repetidas."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "El curso A es confiable porque presenta réplicas, tablas y fotos, mientras el curso B opina sin evidencia.",
           "is_correct": true,
           "feedback": "Correcta, porque juzga la calidad de la evidencia y la coherencia entre datos y conclusión."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ambos cursos son iguales porque todas las opiniones sobre el caño valen lo mismo.",
           "is_correct": false,
           "feedback": "Incorrecta, porque en ciencia las afirmaciones con datos pesan más que las opiniones sin medida."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Ningún curso puede concluir porque los caños de Santa Marta no se pueden estudiar nunca.",
           "is_correct": false,
           "feedback": "Incorrecta, porque los caños sí se pueden monitorear con instrumentos sencillos y registro ordenado."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Una conclusión sólida necesita datos repetidos, registro ordenado y relación directa con lo medido. El curso A cumple esos criterios; el curso B generaliza desde una impresión. Evaluar indagaciones es revisar instrumentos, réplicas y honestidad entre lo observado y lo afirmado.",
       "difficulty": "10",
       "images": [],

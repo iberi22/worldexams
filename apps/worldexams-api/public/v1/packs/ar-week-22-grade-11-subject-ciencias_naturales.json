@@ -13,31 +13,31 @@
       "context": "Leyes de Newton y Fuerzas de Rozamiento - Caso N° 1.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Permanece en reposo o continúa moviéndose en línea recta a velocidad constante.",
           "is_correct": true,
           "feedback": "Correcto. Sin fuerza neta, no hay aceleración ($a = 0$), por lo que mantiene su estado de reposo o MRU."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Acelera progresivamente en la dirección del movimiento original.",
           "is_correct": false,
           "feedback": "Incorrecto. Se requiere una fuerza neta no nula para generar aceleración."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Se detiene inmediatamente debido a la falta de fuerza impulsora.",
           "is_correct": false,
           "feedback": "Incorrecto. Este es un mito clásico Aristotélico; la inercia mantiene el movimiento."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Comienza a describir una trayectoria circular uniforme.",
           "is_correct": false,
           "feedback": "Incorrecto. El movimiento circular requiere una fuerza centrípeta no nula."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La Primera Ley de Newton indica que todo cuerpo conserva su estado de reposo o de movimiento rectilíneo uniforme a menos que sea obligado a cambiar dicho estado por fuerzas netas ejercidas sobre él.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,19 +148,19 @@
       "context": "Leyes de Newton y Fuerzas de Rozamiento - Caso N° 4.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Es igual en módulo y de sentido contrario a la fuerza aplicada.",
           "is_correct": true,
           "feedback": "Correcto. Para mantener el equilibrio estático (fuerza neta cero), la fuerza de rozamiento se equipara a la fuerza aplicada."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Es mayor que la fuerza aplicada por la persona.",
           "is_correct": false,
           "feedback": "Incorrecto. Si fuera mayor, la caja se movería hacia la persona."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Es igual a cero porque la caja no está en movimiento.",
           "is_correct": false,
           "feedback": "Incorrecto. Hay fuerza de rozamiento estático opuesta al intento de deslizamiento."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. El peso es vertical y la fuerza de empuje es horizontal."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "En reposo, la fuerza de rozamiento estático reacciona aumentando linealmente con la fuerza aplicada hasta alcanzar su valor límite $f_{e,\\text{máx}} = \\mu_e N$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -193,13 +193,13 @@
       "context": "Leyes de Newton y Fuerzas de Rozamiento - Caso N° 5.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "10 N.",
           "is_correct": true,
           "feedback": "Correcto. $f_d = \\mu_d \\cdot N = 0,2 \\cdot 50\\text{ N} = 10\\text{ N}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "25 N.",
           "is_correct": false,
           "feedback": "Incorrecto. Se dividió la normal por 2."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. Se dividió la normal por la masa."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La fuerza de rozamiento dinámico se calcula como el producto del coeficiente de rozamiento dinámico por la fuerza normal: $f_d = \\mu_d \\cdot N$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -238,19 +238,19 @@
       "context": "Leyes de Newton y Fuerzas de Rozamiento - Caso N° 6.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "6000 N.",
           "is_correct": true,
           "feedback": "Correcto. $T - P = m \\cdot a \\Rightarrow T = m(g + a) = 500(10 + 2) = 6000\\text{ N}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "5000 N.",
           "is_correct": false,
           "feedback": "Incorrecto. Ese sería el peso en reposo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "4000 N.",
           "is_correct": false,
           "feedback": "Incorrecto. Se restó la aceleración en lugar de sumarla."
@@ -262,7 +262,7 @@
           "feedback": "Incorrecto. Se calculó sólo la fuerza neta sin sumar el peso."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Cuando el ascensor acelera hacia arriba, la tensión debe vencer tanto a la fuerza de gravedad (peso) como proveer la aceleración neta: $T = m(g + a)$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -283,31 +283,31 @@
       "context": "Leyes de Newton y Fuerzas de Rozamiento - Caso N° 7.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "6 N.",
           "is_correct": true,
           "feedback": "Correcto. Aceleración conjunta $a = \\frac{15}{3+2} = 3\\text{ m/s}^2$. La fuerza sobre B es $F_{AB} = m_B \\cdot a = 2 \\cdot 3 = 6\\text{ N}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "15 N.",
           "is_correct": false,
           "feedback": "Incorrecto. Esa es la fuerza total aplicada al sistema."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "9 N.",
           "is_correct": false,
           "feedback": "Incorrecto. Esa es la fuerza neta requerida sólo para acelerar el bloque A."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "3 N.",
           "is_correct": false,
           "feedback": "Incorrecto. Se dividió la fuerza por el número de bloques sin considerar las masas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Primero se determina la aceleración del sistema combinado ($a = F / (m_A + m_B)$) y luego se aplica la segunda ley al bloque B para hallar la fuerza de contacto.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -328,19 +328,19 @@
       "context": "Leyes de Newton y Fuerzas de Rozamiento - Caso N° 8.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "6 m/s².",
           "is_correct": true,
           "feedback": "Correcto. La componente paralela del peso es $P_x = m g \\sin(\\theta)$. Luego $a = g \\sin(\\theta) = 10 \\cdot 0,6 = 6\\text{ m/s}^2$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "8 m/s².",
           "is_correct": false,
           "feedback": "Incorrecto. Se utilizó el coseno del ángulo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "10 m/s².",
           "is_correct": false,
           "feedback": "Incorrecto. Esa es la aceleración en caída libre vertical."
@@ -352,7 +352,7 @@
           "feedback": "Incorrecto. Se multiplicaron seno y coseno."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "En un plano inclinado sin rozamiento, la aceleración de bajada depende únicamente de la componente del peso paralela al plano: $a = g \\sin(\\theta)$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -373,19 +373,19 @@
       "context": "Leyes de Newton y Fuerzas de Rozamiento - Caso N° 9.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "16 N.",
           "is_correct": true,
           "feedback": "Correcto. Velocidad constante significa aceleración cero, por lo que $f_r = F_x = T \\cos(37^\\circ) = 20 \\cdot 0,8 = 16\\text{ N}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "20 N.",
           "is_correct": false,
           "feedback": "Incorrecto. No se proyectó la tensión en el eje horizontal."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "12 N.",
           "is_correct": false,
           "feedback": "Incorrecto. Se utilizó el seno del ángulo."
@@ -397,7 +397,7 @@
           "feedback": "Incorrecto. Se multiplicó por la masa."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Al moverse a velocidad constante, las fuerzas horizontales están en equilibrio: la componente horizontal de la tensión equipara exactamente a la fuerza de rozamiento.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -418,13 +418,13 @@
       "context": "Leyes de Newton y Fuerzas de Rozamiento - Caso N° 10.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La Tierra atrae a la Luna con una fuerza de igual módulo y sentido opuesto a la fuerza con que la Luna atrae a la Tierra.",
           "is_correct": true,
           "feedback": "Correcto. Forman un par de acción y reacción actuando sobre cuerpos distintos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La Tierra atrae a la Luna con una fuerza mayor porque la masa de la Tierra es mucho más grande.",
           "is_correct": false,
           "feedback": "Incorrecto. El módulo de las fuerzas es idéntico según la ley de gravedad y la 3ra ley."
@@ -442,7 +442,7 @@
           "feedback": "Incorrecto. Actúan sobre cuerpos distintos (una en la Luna, otra en la Tierra), por lo que no se anulan entre sí."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Las fuerzas de acción y reacción son siempre iguales en módulo, opuestas en sentido y actúan sobre cuerpos diferentes, por lo que jamás se anulan entre sí sobre un mismo objeto.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -463,13 +463,13 @@
       "context": "Leyes de Newton y Fuerzas de Rozamiento - Caso N° 11.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "0,2.",
           "is_correct": true,
           "feedback": "Correcto. $v^2 = v_0^2 - 2ad \\Rightarrow 0 = 100 - 50a \\Rightarrow a = 2\\text{ m/s}^2$. Como $a = \\mu_d g \\Rightarrow 2 = \\mu_d (10) \\Rightarrow \\mu_d = 0,2$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "0,4.",
           "is_correct": false,
           "feedback": "Incorrecto. Se omitió dividir por 2 al hallar la aceleración."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto. Se dividió la velocidad directamente por la masa."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Con Torricelli se halla la desaceleración ($a = v_0^2 / 2d$) y luego igualando la fuerza de rozamiento a la fuerza neta ($f_d = m a \\Rightarrow \\mu_d m g = m a$) se despeja $\\mu_d = a / g$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -508,19 +508,19 @@
       "context": "Leyes de Newton y Fuerzas de Rozamiento - Caso N° 12.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "910 N (o equivalente a 91 kg).",
           "is_correct": true,
           "feedback": "Correcto. Desacelerar hacia abajo implica aceleración hacia arriba ($a = +3\\text{ m/s}^2$). $N = m(g + a) = 70(10 + 3) = 910\\text{ N}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "490 N.",
           "is_correct": false,
           "feedback": "Incorrecto. Se restó la aceleración en lugar de sumarla."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "700 N.",
           "is_correct": false,
           "feedback": "Incorrecto. Es el peso normal en reposo."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. Se calculó sólo el exceso de fuerza."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Desacelerar mientras se desciende significa que la aceleración neta apunta hacia arriba, aumentando la fuerza normal registrada por la balanza.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -598,19 +598,19 @@
       "context": "Leyes de Newton y Fuerzas de Rozamiento - Caso N° 14.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "5000 N.",
           "is_correct": true,
           "feedback": "Correcto. A velocidad constante la aceleración es cero. La tensión equilibra sólo el peso de la carga: $T = m_{\\text{carga}} \\cdot g = 500 \\cdot 10 = 5000\\text{ N}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "15000 N.",
           "is_correct": false,
           "feedback": "Incorrecto. Se sumó la masa del helicóptero."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "7500 N.",
           "is_correct": false,
           "feedback": "Incorrecto. Se incluyó la velocidad en la fuerza."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. Se dividió el peso de la carga por 2."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "A velocidad constante, la aceleración es nula ($a = 0$), por lo que la tensión del cable es igual al peso de la carga colgada.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -643,31 +643,31 @@
       "context": "Leyes de Newton y Fuerzas de Rozamiento - Caso N° 15.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "tan(θ) = 0,3 (aprox 16,7°).",
           "is_correct": true,
           "feedback": "Correcto. $\\tan(\\theta) = \\frac{F_{\\text{inercial}}}{P} = \\frac{m a}{m g} = \\frac{a}{g} = \\frac{3}{10} = 0,3$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "tan(θ) = 3,33.",
           "is_correct": false,
           "feedback": "Incorrecto. Se dividió la gravedad por la aceleración."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "tan(θ) = 1,2.",
           "is_correct": false,
           "feedback": "Incorrecto. Se multiplicó por la masa."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "θ = 45°.",
           "is_correct": false,
           "feedback": "Incorrecto. Ocurriría sólo si la aceleración fuera igual a $10\\text{ m/s}^2$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La inclinación de un péndulo dentro de un vehículo acelerado cumple $\\tan(\\theta) = a / g$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -688,19 +688,19 @@
       "context": "Leyes de Newton y Fuerzas de Rozamiento - Caso N° 16.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "g / 2 (es decir, 5 m/s² si g = 10 m/s²).",
           "is_correct": true,
           "feedback": "Correcto. Fuerza motora $= m g$. Masa total movida $= 2m$. $a = \\frac{m g}{2m} = \\frac{g}{2}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "g (es decir, 10 m/s²).",
           "is_correct": false,
           "feedback": "Incorrecto. Se ignoró la inercia de la masa apoyada sobre la mesa."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "g / 4.",
           "is_correct": false,
           "feedback": "Incorrecto. Se dividió por 4m."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. El sistema acelera debido al peso colgante."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "En la máquina de Atwood modificada, el peso colgante debe acelerar a ambas masas sumadas, reduciendo la aceleración a la mitad de $g$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -778,13 +778,13 @@
       "context": "Leyes de Newton y Fuerzas de Rozamiento - Caso N° 18.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "5 m/s².",
           "is_correct": true,
           "feedback": "Correcto. Fuerza neta vectorial $F = \\sqrt{6^2 + 8^2} = \\sqrt{36 + 64} = 10\\text{ N}$. Aceleración $a = \\frac{10}{2} = 5\\text{ m/s}^2$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "7 m/s².",
           "is_correct": false,
           "feedback": "Incorrecto. Se sumaron las fuerzas algebraicamente (14 N) en vez de vectorialmente."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. Esa es la fuerza neta, no la aceleración."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Al ser fuerzas perpendiculares, la resultante se calcula mediante el teorema de Pitágoras y luego se aplica $a = F / m$.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -823,13 +823,13 @@
       "context": "Leyes de Newton y Fuerzas de Rozamiento - Caso N° 19.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "50 N.",
           "is_correct": true,
           "feedback": "Correcto. Peso $P = 20\\text{ N}$. Normal $N = F$. Fuerza de rozamiento $f_d = \\mu_d F = 0,4 F$. Para velocidad constante: $0,4 F = 20 \\Rightarrow F = 50\\text{ N}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "20 N.",
           "is_correct": false,
           "feedback": "Incorrecto. Igualaría la normal al peso directamente."
@@ -847,7 +847,7 @@
           "feedback": "Incorrecto. Se multiplicó por un factor de 2 erróneo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Para caer a velocidad constante, la fuerza de rozamiento vertical debe igualar exactamente al peso del objeto ($f_d = P \\Rightarrow \\mu_d F = m g$).\n\n---",
       "difficulty": "10",
       "images": [],
@@ -868,31 +868,31 @@
       "context": "Leyes de Newton y Fuerzas de Rozamiento - Caso N° 20.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Falsa, la reacción al peso del libro es la fuerza gravitatoria ejercida por el libro sobre el centro de la Tierra.",
           "is_correct": true,
           "feedback": "Correcto. El peso es la atracción Tierra->Libro, su reacción es Libro->Tierra. La normal es el par de interacción Mesa<->Libro."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Verdadera, porque la normal y el peso tienen igual módulo y sentido opuesto.",
           "is_correct": false,
           "feedback": "Incorrecto. Tener igual módulo y sentidos opuestos no las convierte en un par de acción-reacción, ya que actúan sobre el mismo cuerpo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Verdadera, de lo contrario el libro caería a través de la mesa.",
           "is_correct": false,
           "feedback": "Incorrecto. El equilibrio de fuerzas no significa que sean un par de Newton."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Falsa, la fuerza de reacción al peso es la fuerza de rozamiento estático.",
           "is_correct": false,
           "feedback": "Incorrecto. El rozamiento es una fuerza de contacto paralela a la superficie."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Las fuerzas de acción y reacción actúan en cuerpos distintos. El peso es ejercido por la Tierra sobre el libro, por ende su reacción es ejercida por el libro sobre la Tierra.",
       "difficulty": "10",
       "images": [],

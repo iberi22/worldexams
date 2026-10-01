@@ -19,25 +19,25 @@
           "feedback": "Incorrect. An archive is a collection of records."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "mass media",
           "is_correct": true,
           "feedback": "Correct. Mass media is the standard term for large-scale communication methods."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "gossip",
           "is_correct": false,
           "feedback": "Incorrect. Gossip is informal conversation."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "manuscript",
           "is_correct": false,
           "feedback": "Incorrect. A manuscript is a hand-written document."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "'Mass media' is the technical term for the diverse array of media technologies that reach a large audience.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -64,25 +64,25 @@
           "feedback": "Incorrect. Plural verb form with a singular subject."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "is disseminated",
           "is_correct": true,
           "feedback": "Correct. Present simple passive for a general fact about an uncountable noun."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "are disseminated",
           "is_correct": false,
           "feedback": "Incorrect. 'Information' is singular."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "disseminating",
           "is_correct": false,
           "feedback": "Incorrect. Gerund doesn't fit here."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "'Information' is an uncountable noun in English and takes a singular verb. The passive voice is used to focus on the action.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -103,13 +103,13 @@
       "context": "Warning about misinformation.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "might not",
           "is_correct": false,
           "feedback": "Incorrect. Too weak for a warning."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "shouldn't",
           "is_correct": true,
           "feedback": "Correct. 'Shouldn't' is used to give negative advice."
@@ -127,7 +127,7 @@
           "feedback": "Incorrect. 'Shouldn't' implies advice against the action."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "'Shouldn't' is the appropriate modal for advising someone against a potentially harmful action.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,13 +148,13 @@
       "context": "Article about \"fake news\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "clickbait",
           "is_correct": true,
           "feedback": "Correct. Clickbait attracts attention and encourages clicks."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "editorial",
           "is_correct": false,
           "feedback": "Incorrect. An editorial is an opinion piece."
@@ -172,7 +172,7 @@
           "feedback": "Incorrect. An obituary is a notice of a death."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "'Clickbait' is a modern media term for deceptive headlines designed to drive traffic.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -199,13 +199,13 @@
           "feedback": "Incorrect. Biased means favoring one side."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "unbiased",
           "is_correct": true,
           "feedback": "Correct. Unbiased means showing no prejudice; impartial."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "creative",
           "is_correct": false,
           "feedback": "Incorrect. While reporting can be creative, 'unbiased' is more fundamental."
@@ -217,7 +217,7 @@
           "feedback": "Incorrect. The journalist's responsibility is towards truth."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Impartiality or being 'unbiased' is a core principle of journalistic ethics.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -244,25 +244,25 @@
           "feedback": "Incorrect. A paragraph is a group of sentences."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "slogan",
           "is_correct": true,
           "feedback": "Correct. A slogan is a memorable motto or phrase."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "dialogue",
           "is_correct": false,
           "feedback": "Incorrect. A dialogue is a conversation."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "prologue",
           "is_correct": false,
           "feedback": "Incorrect. A prologue is an introductory section."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "'Slogan' is the specific term for a catchphrase used in marketing.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -328,13 +328,13 @@
       "context": "Text on \"echo chambers\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "challenges",
           "is_correct": false,
           "feedback": "Incorrect. Echo chambers prevent challenging information."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "reinforces",
           "is_correct": true,
           "feedback": "Correct. To reinforce means to strengthen or support."
@@ -352,7 +352,7 @@
           "feedback": "Incorrect. The beliefs are confirmed."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "'Reinforces' describes how algorithms show users content that aligns with what they already think.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -469,13 +469,13 @@
           "feedback": "Incorrect. Reporters write the stories."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "editor",
           "is_correct": true,
           "feedback": "Correct. The editor manages the content and staff."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "illustrator",
           "is_correct": false,
           "feedback": "Incorrect. Illustrators create images."
@@ -487,7 +487,7 @@
           "feedback": "Incorrect. Subscribers are the people who pay."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "'Editor' is the title for the individual who oversees the content of a publication.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -514,13 +514,13 @@
           "feedback": "Incorrect. Active voice."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "are replaced",
           "is_correct": false,
           "feedback": "Incorrect. Present simple passive."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "have been replaced",
           "is_correct": true,
           "feedback": "Correct. Present perfect passive for a process starting in the past and continuing."
@@ -532,7 +532,7 @@
           "feedback": "Incorrect. Future tense."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "'Have been replaced' indicates a process that began in the past and has had a significant impact by the present.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -559,25 +559,25 @@
           "feedback": "Incorrect. Fluency is usually about language speaking."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "literacy",
           "is_correct": true,
           "feedback": "Correct. Media literacy is the specific term."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "technology",
           "is_correct": false,
           "feedback": "Incorrect. Technology is the tool."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "consumption",
           "is_correct": false,
           "feedback": "Incorrect. Consumption is the act of using media."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "'Media literacy' is the standard educational term for the critical thinking skills used to navigate the media landscape.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -598,13 +598,13 @@
       "context": "Conditional about media influence.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "report",
           "is_correct": false,
           "feedback": "Incorrect. First conditional."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "reported",
           "is_correct": true,
           "feedback": "Correct. Second conditional for a hypothetical change."
@@ -622,7 +622,7 @@
           "feedback": "Incorrect. 'Would' not used in 'if' clause."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "The second conditional is used to discuss a hypothetical situation and its likely result.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -694,25 +694,25 @@
           "feedback": "Incorrect. A column is a regular feature in a newspaper."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "broadcast",
           "is_correct": true,
           "feedback": "Correct. A broadcast is a program transmitted over airwaves or internet."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "headline",
           "is_correct": false,
           "feedback": "Incorrect. A headline is the title."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "caption",
           "is_correct": false,
           "feedback": "Incorrect. A caption is a short text under a picture."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "'Broadcast' can be used to refer to transmitted media content.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -733,19 +733,19 @@
       "context": "Expressing a past regret about media consumption.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "don't spend",
           "is_correct": false,
           "feedback": "Incorrect. Present tense."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "didn't spend",
           "is_correct": false,
           "feedback": "Incorrect. Wish about the present."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "hadn't spent",
           "is_correct": true,
           "feedback": "Correct. 'Wish + past perfect' is used to express regret about the past."
@@ -757,7 +757,7 @@
           "feedback": "Incorrect. Used for future changes."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "The 'wish + past perfect' structure is used to express a desire for the past to have been different.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -784,25 +784,25 @@
           "feedback": "Incorrect. The term is 'footprint'."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "footprint",
           "is_correct": true,
           "feedback": "Correct. Digital footprint is the standard term."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "path",
           "is_correct": false,
           "feedback": "Incorrect. 'Path' is not the standard term."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "identity",
           "is_correct": false,
           "feedback": "Incorrect. Identity is broader."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "'Digital footprint' metaphorically describes the data trail individuals create online.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -829,25 +829,25 @@
           "feedback": "Incorrect. In reported speech, we usually backshift."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "had",
           "is_correct": true,
           "feedback": "Correct. Past simple for backshifting the present simple 'has'."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "has had",
           "is_correct": false,
           "feedback": "Incorrect. Present perfect."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "will have",
           "is_correct": false,
           "feedback": "Incorrect. Future tense."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "In reported speech, a present simple statement is typically changed to past simple.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -868,19 +868,19 @@
       "context": "Final thought on the future of media.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "expression",
           "is_correct": true,
           "feedback": "Correct. Freedom of expression is a fundamental right."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "consumption",
           "is_correct": false,
           "feedback": "Incorrect. Not the primary legal debate."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "technology",
           "is_correct": false,
           "feedback": "Incorrect. Not a standard term here."
@@ -892,7 +892,7 @@
           "feedback": "Incorrect. Not the issue."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "'Freedom of expression' is the core human right at the center of the debate over media regulation.",
       "difficulty": "10",
       "images": [],

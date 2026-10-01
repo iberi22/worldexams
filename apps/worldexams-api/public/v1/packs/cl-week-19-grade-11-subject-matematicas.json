@@ -13,13 +13,13 @@
       "context": "Vicente analiza situaciones académicas en La Serena.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$0.409$",
           "is_correct": true,
           "feedback": "¡Correcto! P(A|B) = P(A inter B) / P(B) = 0.09 / 0.22 ~= 0.409."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$0.0198$",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicaste las probabilidades en vez de dividirlas."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Sumaste las probabilidades."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Por definición de probabilidad condicionada: P(A|B) = P(A inter B) / P(B) = 0.09 / 0.22 ~= 0.409.",
       "difficulty": "4",
       "images": [],
@@ -58,19 +58,19 @@
       "context": "Diego analiza situaciones académicas en Viña del Mar.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$0.417$",
           "is_correct": true,
           "feedback": "¡Correcto! P(A|B) = P(A inter B) / P(B) = 0.1 / 0.24 ~= 0.417."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$0.0240$",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicaste las probabilidades en vez de dividirlas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$2.400$",
           "is_correct": false,
           "feedback": "Incorrecto. Invertiste la relación dividiendo P(B) / P(A inter B)."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. Sumaste las probabilidades."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Por definición de probabilidad condicionada: P(A|B) = P(A inter B) / P(B) = 0.1 / 0.24 ~= 0.417.",
       "difficulty": "4",
       "images": [],
@@ -103,19 +103,19 @@
       "context": "Lucas analiza situaciones académicas en Iquique.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$0.423$",
           "is_correct": true,
           "feedback": "¡Correcto! P(A|B) = P(A inter B) / P(B) = 0.11 / 0.26 ~= 0.423."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$0.0286$",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicaste las probabilidades en vez de dividirlas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$2.364$",
           "is_correct": false,
           "feedback": "Incorrecto. Invertiste la relación dividiendo P(B) / P(A inter B)."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. Sumaste las probabilidades."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Por definición de probabilidad condicionada: P(A|B) = P(A inter B) / P(B) = 0.11 / 0.26 ~= 0.423.",
       "difficulty": "4",
       "images": [],
@@ -148,13 +148,13 @@
       "context": "Sofía analiza situaciones académicas en Rancagua.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$0.429$",
           "is_correct": true,
           "feedback": "¡Correcto! P(A|B) = P(A inter B) / P(B) = 0.12 / 0.28 ~= 0.429."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$0.0336$",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicaste las probabilidades en vez de dividirlas."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. Sumaste las probabilidades."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Por definición de probabilidad condicionada: P(A|B) = P(A inter B) / P(B) = 0.12 / 0.28 ~= 0.429.",
       "difficulty": "4",
       "images": [],
@@ -193,31 +193,31 @@
       "context": "Catalina analiza situaciones académicas en Talca.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$0.433$",
           "is_correct": true,
           "feedback": "¡Correcto! P(A|B) = P(A inter B) / P(B) = 0.13 / 0.3 ~= 0.433."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$0.0390$",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicaste las probabilidades en vez de dividirlas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$2.308$",
           "is_correct": false,
           "feedback": "Incorrecto. Invertiste la relación dividiendo P(B) / P(A inter B)."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$0.43$",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste las probabilidades."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Por definición de probabilidad condicionada: P(A|B) = P(A inter B) / P(B) = 0.13 / 0.3 ~= 0.433.",
       "difficulty": "6",
       "images": [],
@@ -238,19 +238,19 @@
       "context": "Camila analiza situaciones académicas en Arica.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$0.438$",
           "is_correct": true,
           "feedback": "¡Correcto! P(A|B) = P(A inter B) / P(B) = 0.14 / 0.32 ~= 0.438."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$0.0448$",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicaste las probabilidades en vez de dividirlas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$2.286$",
           "is_correct": false,
           "feedback": "Incorrecto. Invertiste la relación dividiendo P(B) / P(A inter B)."
@@ -262,7 +262,7 @@
           "feedback": "Incorrecto. Sumaste las probabilidades."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Por definición de probabilidad condicionada: P(A|B) = P(A inter B) / P(B) = 0.14 / 0.32 ~= 0.438.",
       "difficulty": "6",
       "images": [],
@@ -283,19 +283,19 @@
       "context": "Javier analiza situaciones académicas en Puerto Montt.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$0.441$",
           "is_correct": true,
           "feedback": "¡Correcto! P(A|B) = P(A inter B) / P(B) = 0.15 / 0.34 ~= 0.441."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$0.0510$",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicaste las probabilidades en vez de dividirlas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$2.267$",
           "is_correct": false,
           "feedback": "Incorrecto. Invertiste la relación dividiendo P(B) / P(A inter B)."
@@ -307,7 +307,7 @@
           "feedback": "Incorrecto. Sumaste las probabilidades."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Por definición de probabilidad condicionada: P(A|B) = P(A inter B) / P(B) = 0.15 / 0.34 ~= 0.441.",
       "difficulty": "6",
       "images": [],
@@ -328,13 +328,13 @@
       "context": "Benjamín analiza situaciones académicas en Chillán.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$0.444$",
           "is_correct": true,
           "feedback": "¡Correcto! P(A|B) = P(A inter B) / P(B) = 0.16 / 0.36 ~= 0.444."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$0.0576$",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicaste las probabilidades en vez de dividirlas."
@@ -352,7 +352,7 @@
           "feedback": "Incorrecto. Sumaste las probabilidades."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Por definición de probabilidad condicionada: P(A|B) = P(A inter B) / P(B) = 0.16 / 0.36 ~= 0.444.",
       "difficulty": "6",
       "images": [],
@@ -553,19 +553,19 @@
       "context": "Isidora analiza situaciones académicas en Concepción.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$0.457$",
           "is_correct": true,
           "feedback": "¡Correcto! P(A|B) = P(A inter B) / P(B) = 0.21 / 0.46 ~= 0.457."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$0.0966$",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicaste las probabilidades en vez de dividirlas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$2.190$",
           "is_correct": false,
           "feedback": "Incorrecto. Invertiste la relación dividiendo P(B) / P(A inter B)."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. Sumaste las probabilidades."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Por definición de probabilidad condicionada: P(A|B) = P(A inter B) / P(B) = 0.21 / 0.46 ~= 0.457.",
       "difficulty": "8",
       "images": [],
@@ -598,31 +598,31 @@
       "context": "Valentina analiza situaciones académicas en Antofagasta.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$0.458$",
           "is_correct": true,
           "feedback": "¡Correcto! P(A|B) = P(A inter B) / P(B) = 0.22 / 0.48 ~= 0.458."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$0.1056$",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicaste las probabilidades en vez de dividirlas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$2.182$",
           "is_correct": false,
           "feedback": "Incorrecto. Invertiste la relación dividiendo P(B) / P(A inter B)."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$0.70$",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste las probabilidades."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Por definición de probabilidad condicionada: P(A|B) = P(A inter B) / P(B) = 0.22 / 0.48 ~= 0.458.",
       "difficulty": "8",
       "images": [],
@@ -643,13 +643,13 @@
       "context": "Sebastián analiza situaciones académicas en Temuco.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$0.460$",
           "is_correct": true,
           "feedback": "¡Correcto! P(A|B) = P(A inter B) / P(B) = 0.23 / 0.5 ~= 0.460."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$0.1150$",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicaste las probabilidades en vez de dividirlas."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. Sumaste las probabilidades."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Por definición de probabilidad condicionada: P(A|B) = P(A inter B) / P(B) = 0.23 / 0.5 ~= 0.460.",
       "difficulty": "8",
       "images": [],
@@ -688,13 +688,13 @@
       "context": "Vicente analiza situaciones académicas en La Serena.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$0.462$",
           "is_correct": true,
           "feedback": "¡Correcto! P(A|B) = P(A inter B) / P(B) = 0.24 / 0.52 ~= 0.462."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$0.1248$",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicaste las probabilidades en vez de dividirlas."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. Sumaste las probabilidades."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Por definición de probabilidad condicionada: P(A|B) = P(A inter B) / P(B) = 0.24 / 0.52 ~= 0.462.",
       "difficulty": "8",
       "images": [],
@@ -733,13 +733,13 @@
       "context": "Diego analiza situaciones académicas en Viña del Mar.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$0.463$",
           "is_correct": true,
           "feedback": "¡Correcto! P(A|B) = P(A inter B) / P(B) = 0.25 / 0.54 ~= 0.463."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$0.1350$",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicaste las probabilidades en vez de dividirlas."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. Sumaste las probabilidades."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Por definición de probabilidad condicionada: P(A|B) = P(A inter B) / P(B) = 0.25 / 0.54 ~= 0.463.",
       "difficulty": "10",
       "images": [],
@@ -778,19 +778,19 @@
       "context": "Lucas analiza situaciones académicas en Iquique.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$0.464$",
           "is_correct": true,
           "feedback": "¡Correcto! P(A|B) = P(A inter B) / P(B) = 0.26 / 0.56 ~= 0.464."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$0.1456$",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicaste las probabilidades en vez de dividirlas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$2.154$",
           "is_correct": false,
           "feedback": "Incorrecto. Invertiste la relación dividiendo P(B) / P(A inter B)."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. Sumaste las probabilidades."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Por definición de probabilidad condicionada: P(A|B) = P(A inter B) / P(B) = 0.26 / 0.56 ~= 0.464.",
       "difficulty": "10",
       "images": [],
@@ -823,13 +823,13 @@
       "context": "Sofía analiza situaciones académicas en Rancagua.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$0.466$",
           "is_correct": true,
           "feedback": "¡Correcto! P(A|B) = P(A inter B) / P(B) = 0.27 / 0.58 ~= 0.466."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$0.1566$",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicaste las probabilidades en vez de dividirlas."
@@ -847,7 +847,7 @@
           "feedback": "Incorrecto. Sumaste las probabilidades."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Por definición de probabilidad condicionada: P(A|B) = P(A inter B) / P(B) = 0.27 / 0.58 ~= 0.466.",
       "difficulty": "10",
       "images": [],
@@ -868,13 +868,13 @@
       "context": "Catalina analiza situaciones académicas en Talca.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$0.467$",
           "is_correct": true,
           "feedback": "¡Correcto! P(A|B) = P(A inter B) / P(B) = 0.28 / 0.6 ~= 0.467."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$0.1680$",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicaste las probabilidades en vez de dividirlas."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. Sumaste las probabilidades."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Por definición de probabilidad condicionada: P(A|B) = P(A inter B) / P(B) = 0.28 / 0.6 ~= 0.467.",
       "difficulty": "10",
       "images": [],

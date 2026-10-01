@@ -13,31 +13,31 @@
       "context": "Sesión de repaso en Bogotá: los estudiantes recuerdan la estructura del ensayo argumentativo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Anunciar la postura central que el autor defenderá con razones y evidencias.",
           "is_correct": true,
           "feedback": "Es correcta porque la tesis orienta todo el desarrollo del texto argumentativo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Narrar una anécdota sin relación con el tema.",
           "is_correct": false,
           "feedback": "Es incorrecta porque una anécdota suelta no cumple la función de sostener una postura."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Listar definiciones sin ningún orden lógico.",
           "is_correct": false,
           "feedback": "Es incorrecta porque el ensayo exige una organización argumentativa coherente."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Cerrar el texto sin ninguna conclusión.",
           "is_correct": false,
           "feedback": "Es incorrecta porque el cierre debe recapitular y reforzar la tesis, no suprimirla."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La tesis es la afirmación que el ensayo se compromete a demostrar. Funciona como una hoja de ruta: indica al lector qué se defiende y permite organizar los argumentos en función de esa postura.",
       "difficulty": "4",
       "images": [],
@@ -59,13 +59,13 @@
       "context": "Repaso de poesía contemporánea en Medellín.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Medir el número exacto de sílabas de un verso.",
           "is_correct": false,
           "feedback": "Es incorrecta porque la métrica es un procedimiento rítmico, no un tropo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Identificar dos términos distintos para sugerir una semejanza nueva y significativa.",
           "is_correct": true,
           "feedback": "Es correcta porque la metáfora acerca dos realidades y crea un sentido inesperado."
@@ -83,7 +83,7 @@
           "feedback": "Es incorrecta porque la cita no constituye una figura literaria."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La metáfora es un tropo que traslada el sentido de un término a otro a partir de una semejanza. En la poesía contemporánea permite explorar asociaciones novedosas y condensar significados que la expresión literal no alcanzaría.",
       "difficulty": "4",
       "images": [],
@@ -157,25 +157,25 @@
           "feedback": "Es incorrecta porque la crónica parte de hechos reales y verificables."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Narrar hechos reales con recursos literarios y la voz del cronista.",
           "is_correct": true,
           "feedback": "Es correcta porque la crónica combina el reporte de la realidad con la elaboración literaria y la perspectiva del autor."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Presentar solo cifras sin ningún tipo de narración.",
           "is_correct": false,
           "feedback": "Es incorrecta porque la crónica se distingue por su dimensión narrativa."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Evitar por completo la presencia del autor.",
           "is_correct": false,
           "feedback": "Es incorrecta porque la voz del cronista es una marca característica del género."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La crónica es un género híbrido: informa sobre hechos reales, pero los cuenta con recursos propios de la literatura, como la descripción, el retrato y el ritmo narrativo. La mirada personal del cronista es parte de su valor, sin renunciar a la verificación.",
       "difficulty": "4",
       "images": [],
@@ -197,19 +197,19 @@
       "context": "Repaso de novela gráfica en Bucaramanga: se analiza cómo se organiza una página.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Construir el relato articulando imagen y texto en el orden de lectura.",
           "is_correct": true,
           "feedback": "Es correcta porque las viñetas encadenan los momentos de la historia mediante el montaje visual y verbal."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Decorar exclusivamente la portada del libro.",
           "is_correct": false,
           "feedback": "Es incorrecta porque las viñetas estructuran todo el relato, no solo la cubierta."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Sustituir por completo al autor de la obra.",
           "is_correct": false,
           "feedback": "Es incorrecta porque el autor concibe la secuencia; la estructura no lo reemplaza."
@@ -221,7 +221,7 @@
           "feedback": "Es incorrecta porque el precio es un dato comercial, ajeno a la narración."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "En la novela gráfica, el relato surge del montaje: cada viñeta es una unidad de tiempo y espacio, y su encadenamiento produce el sentido. La relación entre imagen y texto, y la elipsis entre cuadros, son los motores de la narración.",
       "difficulty": "6",
       "images": [],
@@ -255,19 +255,19 @@
           "feedback": "Es incorrecta porque no se identifica ninguna fuente experta."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Un argumento de falsa mayoría que no aporta evidencia válida.",
           "is_correct": true,
           "feedback": "Es correcta porque la cantidad de personas que repiten algo no demuestra su verdad."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Una estadística rigurosa.",
           "is_correct": false,
           "feedback": "Es incorrecta porque \"todos\" no es una medida ni una muestra comprobable."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "El argumento de falsa mayoría apela al número de quienes sostienen algo como prueba de su verdad. Es una falacia porque la aceptación extendida no sustituye la evidencia: muchas creencias populares pueden ser erróneas.",
       "difficulty": "6",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "Repaso de poesía contemporánea en Manizales: se interpreta el tono de un poema.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Un tono humorístico y festivo.",
           "is_correct": false,
           "feedback": "Es incorrecta porque la lluvia y el silencio no sugieren regocijo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Un tono melancólico o de introspección.",
           "is_correct": true,
           "feedback": "Es correcta porque la insistencia en esas imágenes configura una atmósfera de recogimiento y nostalgia."
@@ -313,7 +313,7 @@
           "feedback": "Es incorrecta porque la repetición de imágenes es una estrategia expresiva, no un informe."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El tono de un poema se construye con las imágenes, el ritmo y la selección léxica. La recurrencia de la lluvia y el silencio crea una atmósfera introspectiva que orienta la interpretación emocional del texto.",
       "difficulty": "6",
       "images": [],
@@ -335,19 +335,19 @@
       "context": "Repaso de teatro colombiano en Quibdó: se discute el papel del conflicto.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Porque impulsa la acción y enfrenta fuerzas o voluntades que generan la tensión dramática.",
           "is_correct": true,
           "feedback": "Es correcta porque sin conflicto no hay avance de la acción ni interés dramático."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque decora el escenario con objetos llamativos.",
           "is_correct": false,
           "feedback": "Es incorrecta porque la escenografía es un recurso de puesta en escena, no el conflicto."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque evita que los personajes hablen entre sí.",
           "is_correct": false,
           "feedback": "Es incorrecta porque el conflicto se expresa justamente a través del diálogo y la acción."
@@ -359,7 +359,7 @@
           "feedback": "Es incorrecta porque el conflicto no sustituye el diálogo: se desarrolla mediante él."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El conflicto es el motor del drama: enfrenta deseos, intereses o valores y obliga a los personajes a actuar. Esa tensión sostiene la atención del público y da sentido al desarrollo de la obra.",
       "difficulty": "6",
       "images": [],
@@ -387,25 +387,25 @@
           "feedback": "Es incorrecta porque la crónica requiere verificación de lo narrado."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Combinar la cercanía testimonial con la verificación de lo ocurrido.",
           "is_correct": true,
           "feedback": "Es correcta porque la voz personal aporta cercanía sin renunciar al reporte de los hechos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ocultar por completo su presencia en el texto.",
           "is_correct": false,
           "feedback": "Es incorrecta porque la primera persona hace explícita su presencia."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Escribir un tratado teórico sin contacto con la realidad.",
           "is_correct": false,
           "feedback": "Es incorrecta porque la crónica parte de la experiencia y del reporte de hechos concretos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La primera persona en la crónica cumple una doble función: por un lado, crea cercanía y subjetividad testimonial; por otro, no exime al cronista de verificar los hechos. Ese equilibrio entre voz personal y rigor informativo define al género.",
       "difficulty": "6",
       "images": [],
@@ -427,19 +427,19 @@
       "context": "Repaso de texto científico en Ibagué: separar evidencia de opinión.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "\"Ese químico es aburrido.\"",
           "is_correct": false,
           "feedback": "Es incorrecta porque es un juicio personal sin relación con datos."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "\"Siempre lo hemos hecho así.\"",
           "is_correct": false,
           "feedback": "Es incorrecta porque la tradición no es una prueba científica."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "\"El estudio midió 500 muestras y halló una concentración promedio de 3 mg/L.\"",
           "is_correct": true,
           "feedback": "Es correcta porque describe una medición concreta y comprobable."
@@ -451,7 +451,7 @@
           "feedback": "Es incorrecta porque expresa una impresión subjetiva sin medición."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "La evidencia verificable se expresa en datos medibles y reproductibles. Las opiniones o costumbres, aunque orienten la intuición, no constituyen prueba. En un texto científico, cada afirmación relevante debe poder rastrearse hasta una medición.",
       "difficulty": "6",
       "images": [],
@@ -473,13 +473,13 @@
       "context": "Repaso de novela histórica en Santa Marta: se analiza un fragmento.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Creer todo lo que dice el narrador.",
           "is_correct": false,
           "feedback": "Es incorrecta porque el narrador puede ser parcial o poco fiable."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Contrastar los sucesos con fuentes historiográficas y reconocer los elementos ficcionales.",
           "is_correct": true,
           "feedback": "Es correcta porque la comparación permite separar lo documentado de lo inventado."
@@ -497,7 +497,7 @@
           "feedback": "Es incorrecta porque alterar nombres no constituye un método de análisis."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Leer críticamente una novela histórica implica reconocer su doble naturaleza: se apoya en hechos documentados, pero los transforma con la ficción. Contrastar con la historiografía permite identificar qué pertenece al registro histórico y qué a la invención literaria.",
       "difficulty": "8",
       "images": [],
@@ -519,19 +519,19 @@
       "context": "Repaso de novela gráfica en Cartagena: texto e imagen se contradicen en una viñeta.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Una ironía o contrapunto que exige interpretar la tensión entre ambos códigos.",
           "is_correct": true,
           "feedback": "Es correcta porque el contraste entre palabra e imagen genera un sentido que ninguno expresa por separado."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Un error de imprenta inevitable.",
           "is_correct": false,
           "feedback": "Es incorrecta porque la tensión suele ser deliberada y significativa."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Una repetición inútil de la misma idea.",
           "is_correct": false,
           "feedback": "Es incorrecta porque, si se contradicen, no hay repetición, sino contraste."
@@ -543,7 +543,7 @@
           "feedback": "Es incorrecta porque el contraste produce precisamente un nuevo sentido."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "En la novela gráfica, imagen y texto pueden cooperar o tensionarse. Cuando se contradicen, surge la ironía o el contrapunto: el lector debe integrar ambos códigos para construir un significado que supera al de cada uno por separado.",
       "difficulty": "8",
       "images": [],
@@ -611,13 +611,13 @@
       "context": "Repaso de ensayo argumentativo en Neiva: se detecta una incoherencia.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Una falla de coherencia argumentativa entre las partes del texto.",
           "is_correct": true,
           "feedback": "Es correcta porque el cierre debe guardar relación lógica con la postura anunciada al comienzo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Una muestra de gran rigor lógico.",
           "is_correct": false,
           "feedback": "Es incorrecta porque la contradicción interna es un defecto, no una virtud."
@@ -635,7 +635,7 @@
           "feedback": "Es incorrecta porque un texto que se contradice pierde fuerza y claridad."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La coherencia argumentativa exige que tesis, desarrollo y conclusión formen un conjunto consistente. Si la conclusión contradice la tesis, el ensayo se desmorona, pues el lector no puede reconstruir una postura única.",
       "difficulty": "8",
       "images": [],
@@ -703,13 +703,13 @@
       "context": "Repaso de poesía contemporánea en Villavicencio: se analiza el efecto del encabalgamiento.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Terminar siempre la idea al final de la misma línea.",
           "is_correct": false,
           "feedback": "Es incorrecta porque el encabalgamiento consiste precisamente en no terminar ahí."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Tensar el ritmo al continuar la idea en el verso siguiente, creando suspenso o énfasis.",
           "is_correct": true,
           "feedback": "Es correcta porque el corte inesperado obliga a leer con atención y subraya el sentido."
@@ -727,7 +727,7 @@
           "feedback": "Es incorrecta porque el poema conserva su condición versal."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El encabalgamiento se produce cuando la unidad sintáctica no coincide con la unidad del verso y continúa en el siguiente. Este desajuste crea tensión rítmica y puede subrayar una palabra o una idea, orientando la lectura del poema.",
       "difficulty": "8",
       "images": [],
@@ -801,25 +801,25 @@
           "feedback": "Es incorrecta porque la ficción no reemplaza el trabajo de la disciplina histórica."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Ofrece una dimensión simbólica y humana que complementa, sin reemplazar, el rigor del relato histórico.",
           "is_correct": true,
           "feedback": "Es correcta porque articula el valor de la ficción con el respeto por el conocimiento histórico."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Carece de cualquier valor para comprender el pasado.",
           "is_correct": false,
           "feedback": "Es incorrecta porque la ficción histórica ha contribuido a la reflexión sobre la memoria colectiva."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Solo sirve como entretenimiento sin consecuencias.",
           "is_correct": false,
           "feedback": "Es incorrecta porque muchas novelas históricas han intervenido en debates públicos sobre el pasado."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La novela histórica no compite con la historiografía: aporta una experiencia simbólica y humana del pasado. Esa dimensión complementa el rigor del relato histórico y enriquece la memoria colectiva, siempre que se reconozcan sus límites ficcionales.",
       "difficulty": "10",
       "images": [],
@@ -893,13 +893,13 @@
           "feedback": "Es incorrecta porque la ciencia revisa y corrige sus conclusiones a la luz de nueva evidencia."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Es un saber provisional y autocorrectivo que avanza mediante evidencias, revisión y reconocimiento de sus límites.",
           "is_correct": true,
           "feedback": "Es correcta porque la ciencia se define por su método y su apertura a la revisión, no por certezas definitivas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Es una opinión personal sin ningún método.",
           "is_correct": false,
           "feedback": "Es incorrecta porque la ciencia se apoya en procedimientos sistemáticos y verificables."
@@ -911,7 +911,7 @@
           "feedback": "Es incorrecta porque la crítica y la revisión son condiciones del conocimiento científico."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El conocimiento científico es provisional y autocorrectivo: avanza mediante hipótesis, evidencias y revisión permanente. Reconocer sus límites no lo debilita; al contrario, es la señal de su rigor y de su diferencia frente a los dogmas.",
       "difficulty": "10",
       "images": [],
@@ -979,19 +979,19 @@
       "context": "En el mismo simulacro en Medellín, se incluye un texto argumentativo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Expresar la idea central que el autor defiende con razones.",
           "is_correct": true,
           "feedback": "Es el eje argumental."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Relatar hechos sin interpretación.",
           "is_correct": false,
           "feedback": "Es narración."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Describir personajes en detalle.",
           "is_correct": false,
           "feedback": "Es literatura."
@@ -1003,7 +1003,7 @@
           "feedback": "No hay postura."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La tesis articula la postura del autor y orienta la lectura crítica del argumento.",
       "difficulty": "4",
       "images": [],
@@ -1025,19 +1025,19 @@
       "context": "En el simulacro en Cali, se trabaja con un texto expositivo sobre el cambio climático.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Su propósito es informar y explicar un tema con claridad y orden.",
           "is_correct": true,
           "feedback": "Predomina la función referencial."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Su intención es entretener exclusivamente.",
           "is_correct": false,
           "feedback": "Es informativo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Predomina la opinión sin datos.",
           "is_correct": false,
           "feedback": "Aporta datos."
@@ -1049,7 +1049,7 @@
           "feedback": "Está organizado."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El texto expositivo organiza información para ampliar el conocimiento del lector.",
       "difficulty": "4",
       "images": [],
@@ -1071,13 +1071,13 @@
       "context": "En el simulacro en Barranquilla, aparece un soneto de Sor Juana Inés de la Cruz.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Yo lírico, instancia enunciativa que expresa emociones y percepciones.",
           "is_correct": true,
           "feedback": "Es la voz del poema."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Narrador omnisciente.",
           "is_correct": false,
           "feedback": "No narra."
@@ -1095,7 +1095,7 @@
           "feedback": "Es ficción lírica."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El yo lírico es una construcción enunciativa propia del discurso poético.",
       "difficulty": "4",
       "images": [],
@@ -1117,19 +1117,19 @@
       "context": "En el simulacro en Cartagena, se lee un microcuento de Augusto Monterroso.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Omitir información clave que el lector debe reconstruir.",
           "is_correct": true,
           "feedback": "La elipsis es esencial."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Explicarlo todo sin dejar espacio al lector.",
           "is_correct": false,
           "feedback": "Es lo contrario."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Extender la acción innecesariamente.",
           "is_correct": false,
           "feedback": "Condensa."
@@ -1141,7 +1141,7 @@
           "feedback": "Lo concentra."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La elipsis activa la cooperación interpretativa del lector en textos breves.",
       "difficulty": "6",
       "images": [],
@@ -1163,19 +1163,19 @@
       "context": "En el simulacro en Bucaramanga, se presenta una columna de opinión.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Reconocer la estrategia de refutación previa que fortalece la postura propia.",
           "is_correct": true,
           "feedback": "Es un gesto dialógico."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Cambiar la postura del autor.",
           "is_correct": false,
           "feedback": "No la cambia."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Evitar la argumentación.",
           "is_correct": false,
           "feedback": "La refuerza."
@@ -1187,7 +1187,7 @@
           "feedback": "Las integra."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Anticipar objeciones robustece el argumento y muestra dominio del debate.",
       "difficulty": "6",
       "images": [],
@@ -1209,31 +1209,31 @@
       "context": "En el simulacro en Pereira, se trabaja con un texto expositivo sobre biodiversidad.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "La necesidad de objetividad, precisión y verificabilidad informativa.",
           "is_correct": true,
           "feedback": "Recursos típicos del registro expositivo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El deseo de confundir al lector.",
           "is_correct": false,
           "feedback": "Busca claridad."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El ánimo de entretener con humor.",
           "is_correct": false,
           "feedback": "Predomina información."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La ausencia de intención comunicativa.",
           "is_correct": false,
           "feedback": "Comunica."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El registro expositivo privilegia la claridad, la neutralidad y la precisión.",
       "difficulty": "6",
       "images": [],
@@ -1255,19 +1255,19 @@
       "context": "En el simulacro en Tunja, se incluye un texto poético de Mario Benedetti.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Una exhortación ética dirigida a un tú, con tono de llamado al compromiso.",
           "is_correct": true,
           "feedback": "Es un apóstrofe."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Una narración objetiva de hechos.",
           "is_correct": false,
           "feedback": "Es lírica."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Una descripción paisajística.",
           "is_correct": false,
           "feedback": "Es apelativa."
@@ -1279,7 +1279,7 @@
           "feedback": "Es ética."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El apóstrofe refuerza la fuerza pragmática del poema al involucrar al lector.",
       "difficulty": "6",
       "images": [],
@@ -1347,19 +1347,19 @@
       "context": "En el simulacro en Manizales, se evalúa la solidez de un argumento sobre educación.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Combinar evidencia verificable, razonamiento válido y pertinencia con el contexto.",
           "is_correct": true,
           "feedback": "Es la base de solidez."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Apoyarse solo en opiniones personales.",
           "is_correct": false,
           "feedback": "Falta evidencia."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Evitar datos cuantitativos.",
           "is_correct": false,
           "feedback": "Son útiles."
@@ -1371,7 +1371,7 @@
           "feedback": "Reduce claridad."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La solidez argumentativa exige evidencia, razonamiento y contextualización.",
       "difficulty": "6",
       "images": [],
@@ -1531,31 +1531,31 @@
       "context": "En el simulacro en Santa Marta, se lee un texto narrativo con saltos temporales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Aportar información del pasado que explica el presente del personaje.",
           "is_correct": true,
           "feedback": "Enriquece la historia."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Confundir al lector sin propósito.",
           "is_correct": false,
           "feedback": "Tiene intención."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Eliminar la trama principal.",
           "is_correct": false,
           "feedback": "La complementa."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Cambiar al narrador en cada línea.",
           "is_correct": false,
           "feedback": "Es orden temporal."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El flashback integra pasado y presente para profundizar la motivación del personaje.",
       "difficulty": "8",
       "images": [],
@@ -1577,19 +1577,19 @@
       "context": "En el simulacro en Neiva, se compara la sintaxis de dos textos argumentativos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Dosificar la información y facilitar la retención de la idea central.",
           "is_correct": true,
           "feedback": "Equilibra análisis y síntesis."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Confundir al lector.",
           "is_correct": false,
           "feedback": "Estructura la lectura."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Evitar la conclusión.",
           "is_correct": false,
           "feedback": "La asegura."
@@ -1601,7 +1601,7 @@
           "feedback": "Hay orden."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La alternancia sintáctica organiza el discurso argumentativo y favorece la comprensión.",
       "difficulty": "8",
       "images": [],
@@ -1623,19 +1623,19 @@
       "context": "En el simulacro en Pasto, se evalúa un ensayo sobre medio ambiente.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Articulación de tesis, argumentos con evidencia y conclusiones derivadas.",
           "is_correct": true,
           "feedback": "Es la estructura básica del ensayo crítico."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Cantidad de páginas sin importar contenido.",
           "is_correct": false,
           "feedback": "Es dato cuantitativo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Exceso de citas sin parafraseo.",
           "is_correct": false,
           "feedback": "Falta autoría."
@@ -1647,7 +1647,7 @@
           "feedback": "Es un ensayo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El ensayo crítico combina postura personal, argumentos con evidencia y conclusiones claras.",
       "difficulty": "8",
       "images": [],
@@ -1669,31 +1669,31 @@
       "context": "En un cierre en Bogotá, se reflexiona sobre el desempeño en el simulacro.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Identificar el tipo de texto, localizar la tesis o núcleo y evaluar la consistencia argumentativa.",
           "is_correct": true,
           "feedback": "Ordena el análisis."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Leer sin subrayar ni tomar notas.",
           "is_correct": false,
           "feedback": "Reduce precisión."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Confiar solo en la intuición sin evidencias.",
           "is_correct": false,
           "feedback": "Falta rigor."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Evitar la relectura del texto.",
           "is_correct": false,
           "feedback": "Es útil."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Una estrategia sistemática mejora el rendimiento en comprensión lectora crítica.",
       "difficulty": "10",
       "images": [],
@@ -1715,19 +1715,19 @@
       "context": "En el cierre en Medellín, se analiza la pertinencia de los textos del simulacro.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Su calidad literaria, su valor cívico y su capacidad para activar reflexión crítica.",
           "is_correct": true,
           "feedback": "Es pertinente si enseña a leer críticamente."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Su extensión sin importar contenido.",
           "is_correct": false,
           "feedback": "Es dato cuantitativo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Su carácter meramente informativo.",
           "is_correct": false,
           "feedback": "Falta dimensión crítica."
@@ -1739,7 +1739,7 @@
           "feedback": "No define calidad."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La pertinencia combina calidad textual, relevancia social y exigencia interpretativa.",
       "difficulty": "10",
       "images": [],

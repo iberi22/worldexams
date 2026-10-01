@@ -13,31 +13,31 @@
       "context": "En un cultivo experimental de arvejas en Tunja, se cruzan plantas homocigotas dominantes de semillas amarillas ($AA$) con plantas homocigotas recesivas de semillas verdes ($aa$).",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Heterocigoto ($Aa$)",
           "is_correct": true,
           "feedback": "Correcto. $AA \\times aa \\implies 100\\%$ $Aa$ (Leyes de Mendel)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Homocigoto dominante ($AA$)",
           "is_correct": false,
           "feedback": "Incorrecto. Se requiere que ambos progenitores aporten el alelo $A$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Homocigoto recesivo ($aa$)",
           "is_correct": false,
           "feedback": "Incorrecto. El progenitor dominante siempre aporta un alelo $A$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Mitad $AA$ y mitad $aa$",
           "is_correct": false,
           "feedback": "Incorrecto. Esto no ocurre en el cruce de razas puras distintas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Cruce monohíbrido de razas puras $AA \\times aa$: la totalidad de la descendencia $F_1$ hereda el genotipo heterocigoto $Aa$.",
       "difficulty": "4",
       "images": [],
@@ -59,19 +59,19 @@
       "context": "En Bogotá, se estudia la diferencia entre genotipo y fenotipo en roedores de laboratorio.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Fenotipo",
           "is_correct": true,
           "feedback": "Correcto. El fenotipo es la manifestación física y observable de la información genética."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Genotipo",
           "is_correct": false,
           "feedback": "Incorrecto. El genotipo es la composición de alelos no visible directamente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Cariotipo",
           "is_correct": false,
           "feedback": "Incorrecto. El cariotipo es el mapa ordenado de cromosomas celulares."
@@ -83,7 +83,7 @@
           "feedback": "Incorrecto. El genoma es la totalidad del material genético de la especie."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Fenotipo $=$ Genotipo $+$ Ambiente (manifestación observable de los rasgos).",
       "difficulty": "4",
       "images": [],
@@ -105,13 +105,13 @@
       "context": "En un cruce de dos plantas heterocigotas de tallo alto ($Tt \\times Tt$) realizado en Rionegro, Antioquia, la característica 'tallo alto' ($T$) es dominante sobre 'tallo bajo' ($t$).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$3$ plantas altas por cada $1$ planta baja ($3:1$)",
           "is_correct": true,
           "feedback": "Correcto. $1TT : 2Tt : 1tt \\implies 3$ fenotipos altos : $1$ fenotipo bajo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$1$ planta alta por cada $1$ planta baja ($1:1$)",
           "is_correct": false,
           "feedback": "Incorrecto. Corresponde al cruce de prueba $Tt \\times tt$."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecto. Invertiste la relación de dominancia."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El cuadro de Punnett para $Tt \\times Tt$ da $1 TT$ (alto), $2 Tt$ (alto), $1 tt$ (bajo). Proporción fenotípica $= 3:1$.",
       "difficulty": "6",
       "images": [],
@@ -289,19 +289,19 @@
       "context": "En Cúcuta, un genetista realiza un cruce dihíbrido entre dos plantas de arveja heterocigotas para dos caracteres independientes: forma de la semilla (Lisa $R$ dominante / Rugosa $r$) y color (Amarilla $Y$ dominante / Verde $y$). Cruce: $RrYy \\times RrYy$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$9:3:3:1$",
           "is_correct": true,
           "feedback": "Correcto. $9$ Lisas-Amarillas : $3$ Lisas-Verdes : $3$ Rugosas-Amarillas : $1$ Rugosa-Verde."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$3:1$",
           "is_correct": false,
           "feedback": "Incorrecto. Es la proporción de un cruce monohíbrido."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$1:2:1$",
           "is_correct": false,
           "feedback": "Incorrecto. Es la proporción genotípica monohíbrida."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecto. Corresponde a un cruce de prueba dihíbrido $RrYy \\times rryy$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Tercera Ley de Mendel (segregación independiente en dihíbridos): Proporción fenotípica $9:3:3:1$.",
       "difficulty": "8",
       "images": [],
@@ -335,31 +335,31 @@
       "context": "En Bucaramanga, se estudia una familia con pedigree para una enfermedad genética autosómica dominante. El padre está afectado ($Aa$) y la madre es sana ($aa$).",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$50\\%$ de probabilidad para cada hijo, independientemente del sexo.",
           "is_correct": true,
           "feedback": "Correcto. Cruce $Aa \\times aa \\implies 50\\% Aa$ (afectado) y $50\\% aa$ (sano)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$25\\%$ de probabilidad para las hijas únicamente.",
           "is_correct": false,
           "feedback": "Incorrecto. Las enfermedades autosómicas afectan por igual a hombres y mujeres."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$100\\%$ de probabilidad si son varones.",
           "is_correct": false,
           "feedback": "Incorrecto. No está ligada al sexo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$0\\%$ de probabilidad si la madre es sana.",
           "is_correct": false,
           "feedback": "Incorrecto. Al ser dominante, basta un solo alelo $A$ heredado del padre."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Estar en autosoma significa sin sesgo de sexo. $Aa \\times aa \\implies 50\\% Aa$ (enfermo) y $50\\% aa$ (sano).",
       "difficulty": "8",
       "images": [],
@@ -381,13 +381,13 @@
       "context": "En Pasto, se observa la herencia del color de plumaje en gallinas andinas. Cuando se cruzan aves de plumaje negro con aves de plumaje blanco, la descendencia $F_1$ presenta un plumaje gris intermedio.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Dominancia incompleta (herencia intermedia)",
           "is_correct": true,
           "feedback": "Correcto. Ningún alelo domina por completo, resultando un fenotipo heterocigoto intermedio."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Codominancia pura",
           "is_correct": false,
           "feedback": "Incorrecto. En codominancia se observan manchas de ambos colores simultáneamente, no una mezcla uniforme."
@@ -405,7 +405,7 @@
           "feedback": "Incorrecto. Se refiere a genes exclusivos del cromosoma Y."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La dominancia incompleta produce un fenotipo intermedio mezcladivo en los heterocigotos (ej. Negro + Blanco $=$ Gris).",
       "difficulty": "8",
       "images": [],
@@ -427,19 +427,19 @@
       "context": "En Armenia, durante la meiosis en las gónadas, se produce el fenómeno de sobrecruzamiento (crossing-over) entre cromátidas no hermanas durante la Profase I.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Generar variabilidad genética recombinando alelos maternos y paternos.",
           "is_correct": true,
           "feedback": "Correcto. El crossing-over mezcla combinaciones de alelos creando gametos únicos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Duplicar la cantidad de cromosomas celulares de diploide a tetraploide.",
           "is_correct": false,
           "feedback": "Incorrecto. La meiosis reduce el número de cromosomas a haploide ($n$)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Impedir las mutaciones espontáneas durante la replicación del ADN.",
           "is_correct": false,
           "feedback": "Incorrecto. El sobrecruzamiento no es un mecanismo de reparación de mutaciones."
@@ -451,7 +451,7 @@
           "feedback": "Incorrecto. La clonación idéntica es propia de la mitosis."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El sobrecruzamiento meiótico en recombina ligamientos genéticos incrementando drásticamente la variabilidad genotípica.",
       "difficulty": "8",
       "images": [],
@@ -519,19 +519,19 @@
       "context": "En Bogotá, se diagnostica a un paciente con Síndrome de Down, presentando un cariotipo de $47$ cromosomas debido a una trisomía en el par $21$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "No disyunción meiótica de los cromosomas homólogos o cromátidas hermanas durante la anafase.",
           "is_correct": true,
           "feedback": "Correcto. La falta de separación adecuada provoca que un gameto reciba dos copias del cromosoma 21."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Duplicación del ADN sin división citoplasmática en mitosis.",
           "is_correct": false,
           "feedback": "Incorrecto. Originaría poliploidía total ($4n$), no aneuploidía focalizada en un par."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Perdida completa del huso acromático durante la telofase.",
           "is_correct": false,
           "feedback": "Incorrecto. La no disyunción ocurre en Anafase I o II."
@@ -543,7 +543,7 @@
           "feedback": "Incorrecto. El crossing-over no altera el número cromosómico."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La no disyunción en la anafase meiótica genera gametos n+1 (24 cromosomas). Al fertilizarse con un gameto normal (23), resulta $2n+1 = 47$ cromosomas.",
       "difficulty": "10",
       "images": [],

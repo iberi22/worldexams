@@ -13,19 +13,19 @@
       "context": "Identifying the structure of the Present Perfect.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Do / Does",
           "is_correct": false,
           "feedback": "Incorrect. This is for Present Simple."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Was / Were",
           "is_correct": false,
           "feedback": "Incorrect. This is for Past Continuous or Past of be."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Have / Has",
           "is_correct": true,
           "feedback": "Correct! Present Perfect uses have or has as an auxiliary."
@@ -37,7 +37,7 @@
           "feedback": "Incorrect. This is for future."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "The student identifies the basic auxiliary verb for the Present Perfect tense.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -59,19 +59,19 @@
       "context": "Identifying the verb form for Present Perfect.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Base form (e.g., eat)",
           "is_correct": false,
           "feedback": "Incorrect."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Past form (e.g., ate)",
           "is_correct": false,
           "feedback": "Incorrect."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Past Participle (e.g., eaten)",
           "is_correct": true,
           "feedback": "Correct! We use the third column of verbs (past participle)."
@@ -83,7 +83,7 @@
           "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "The student identifies the specific morphological form of the verb used in this tense.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -105,13 +105,13 @@
       "context": "Describing a life experience.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "have saw",
           "is_correct": false,
           "feedback": "Incorrect. \"Saw\" is the past form; \"seen\" is the participle."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "have seen",
           "is_correct": true,
           "feedback": "Correct! Auxiliary \"have\" + past participle \"seen\"."
@@ -129,7 +129,7 @@
           "feedback": "Incorrect structure."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "The student understands the combination of auxiliary and participle for the first person singular.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -157,13 +157,13 @@
           "feedback": "Incorrect. \"Sister\" (she) needs \"has\"."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "has traveled",
           "is_correct": true,
           "feedback": "Correct! \"Has\" for third person singular and the participle \"traveled\"."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "has travel",
           "is_correct": false,
           "feedback": "Incorrect. Needs the participle form."
@@ -175,7 +175,7 @@
           "feedback": "Incorrect auxiliary and verb form."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "The student understands the subject-verb agreement rule within the Present Perfect structure.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -203,25 +203,25 @@
           "feedback": "Incorrect. This would be a specific past event."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "have been",
           "is_correct": true,
           "feedback": "Correct! Used to talk about visiting a place at some point in life."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "has been",
           "is_correct": false,
           "feedback": "Incorrect auxiliary for \"they\"."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "have be",
           "is_correct": false,
           "feedback": "Incorrect verb form."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "The student applies the Present Perfect to express a life experience (being in a place).\n\n---",
       "difficulty": "6",
       "images": [],
@@ -249,25 +249,25 @@
           "feedback": "Incorrect. She also tried the piano."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Both the guitar and the piano.",
           "is_correct": true,
           "feedback": "Correct! She mentions playing/trying both."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Only the piano.",
           "is_correct": false,
           "feedback": "Incorrect. She plays the guitar."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "None of them.",
           "is_correct": false,
           "feedback": "Incorrect. She mentions two."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "The student applies reading strategies to identify experiences expressed in the Present Perfect.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "Identifying a negative experience.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "I haven't saw that movie.",
           "is_correct": false,
           "feedback": "Incorrect participle."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "I haven't seen that movie.",
           "is_correct": true,
           "feedback": "Correct! Negative auxiliary + correct participle."
@@ -313,7 +313,7 @@
           "feedback": "Incorrect word order."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "The student applies knowledge of negative constructions in the Present Perfect.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -347,19 +347,19 @@
           "feedback": "Incorrect. Time is specified (two hours ago)."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "I have visited Cali several times.",
           "is_correct": true,
           "feedback": "Correct! The specific times are not mentioned, only the fact of the experience."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "I am visiting Cali now.",
           "is_correct": false,
           "feedback": "Incorrect. This is happening now."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "The student analyzes the difference between specific past time (Simple) and general life experience (Perfect).\n\n---",
       "difficulty": "8",
       "images": [],
@@ -381,13 +381,13 @@
       "context": "Analyzing a list of achievements.\n\n\"Mateo's achievements: 1. He has won a soccer tournament. 2. He has learned to speak French. 3. He has traveled to three different continents.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "He is a very lazy person.",
           "is_correct": false,
           "feedback": "Incorrect. His achievements show activity."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "He is an active person with diverse interests and international experiences.",
           "is_correct": true,
           "feedback": "Correct! Sport, language, and travel are diverse and active."
@@ -405,7 +405,7 @@
           "feedback": "Incorrect. He has traveled to three continents."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "The student analyzes a set of perfect tense statements to infer general characteristics about a person's life.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -427,31 +427,31 @@
       "context": "Evaluating an interview response.\n\nInterviewer: \"Have you ever worked in a team?\"\n\nCandidate: \"Yes, I have worked in many school teams. We have completed many projects together. I have always been the leader.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Yes, they have experience in collaborative tasks and leadership roles.",
           "is_correct": true,
           "feedback": "Correct! \"Worked in many school teams\" and \"been the leader\" support this."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "No, they only worked by themselves.",
           "is_correct": false,
           "feedback": "Incorrect. They mention teams."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Yes, but they only worked on one project.",
           "is_correct": false,
           "feedback": "Incorrect. They mention \"many projects\"."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "No, because school teams are not real experience.",
           "is_correct": false,
           "feedback": "Incorrect. In a school context, it is valid experience."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "The student evaluates the evidence provided in a perfect tense response to confirm a candidate's background and skills.",
       "difficulty": "10",
       "images": [],

@@ -13,19 +13,19 @@
       "context": "En una clase de sociales en un colegio de Villavicencio, la profesora dibuja una rosa de los vientos en el tablero.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Norte, sur, este y oeste.",
           "is_correct": true,
           "feedback": "Los cuatro puntos cardinales son norte, sur, este y oeste."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Arriba, abajo, derecha e izquierda.",
           "is_correct": false,
           "feedback": "Arriba y abajo indican posición vertical, no son puntos cardinales."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Frío, calor, lluvia y viento.",
           "is_correct": false,
           "feedback": "Esos son fenómenos del clima, no puntos cardinales."
@@ -37,7 +37,7 @@
           "feedback": "Esos son momentos del día, no puntos cardinales."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Recordar los cuatro puntos cardinales como referencia básica de orientación.",
       "difficulty": "4",
       "images": [],
@@ -59,31 +59,31 @@
       "context": "En un colegio de Sincelejo, los estudiantes observan la rosa de los vientos de un mapa.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Para indicar la orientación de los puntos cardinales.",
           "is_correct": true,
           "feedback": "La rosa de los vientos muestra dónde quedan el norte, el sur, el este y el oeste."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Para señalar dónde están los ríos más grandes.",
           "is_correct": false,
           "feedback": "Los ríos se muestran con su propio símbolo, no con la rosa de los vientos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Para medir la temperatura de una ciudad.",
           "is_correct": false,
           "feedback": "La rosa de los vientos no mide temperatura."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Para contar el número de habitantes.",
           "is_correct": false,
           "feedback": "La rosa de los vientos no contiene datos de población."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Comprender la función de la rosa de los vientos como indicador de orientación.",
       "difficulty": "4",
       "images": [],
@@ -197,19 +197,19 @@
       "context": "En un plano del barrio de Manizales, el colegio aparece al lado derecho del parque principal, hacia el oriente.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "El colegio está al oriente del parque.",
           "is_correct": true,
           "feedback": "Si el parque está al occidente, el colegio queda al lado contrario, el oriente."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El colegio está al occidente del parque.",
           "is_correct": false,
           "feedback": "El occidente es la posición del parque, no la del colegio."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El colegio está al sur del parque.",
           "is_correct": false,
           "feedback": "La ubicación descrita corresponde al oriente, no al sur."
@@ -221,7 +221,7 @@
           "feedback": "El colegio y el parque están en lugares diferentes."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Aplicar los puntos cardinales para ubicar lugares entre sí en un plano del barrio.",
       "difficulty": "6",
       "images": [],
@@ -289,19 +289,19 @@
       "context": "En un mapa de Colombia, una estudiante de Medellín busca la región de la Orinoquía.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Hacia el oriente del mapa.",
           "is_correct": true,
           "feedback": "El este es el oriente; allí se ubica la región de la Orinoquía."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Hacia el occidente del mapa.",
           "is_correct": false,
           "feedback": "El occidente queda al lado contrario de la Orinoquía."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Hacia el norte del mapa.",
           "is_correct": false,
           "feedback": "La Orinoquía se ubica al este, no al norte."
@@ -313,7 +313,7 @@
           "feedback": "La Orinoquía se ubica al este, no al sur."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Analizar la ubicación de una región colombiana usando los puntos cardinales.",
       "difficulty": "8",
       "images": [],
@@ -335,19 +335,19 @@
       "context": "Un grupo de estudiantes de Barranquilla conversa sobre la utilidad de saber leer planos y mapas en la vida diaria.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Porque permite ubicarse, orientarse y llegar a los lugares sin perderse.",
           "is_correct": true,
           "feedback": "Leer planos y mapas facilita la movilidad y la orientación en el territorio."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque sirve únicamente para decorar las paredes de la casa.",
           "is_correct": false,
           "feedback": "Los planos y mapas son herramientas útiles de orientación, no solo decoración."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque solo los turistas extranjeros necesitan mapas.",
           "is_correct": false,
           "feedback": "Cualquier persona se beneficia al saber ubicarse en su ciudad."
@@ -359,7 +359,7 @@
           "feedback": "Los mapas no muestran el clima diario; muestran la ubicación de lugares."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Evaluar la importancia de leer planos y mapas para orientarse en la vida cotidiana.",
       "difficulty": "10",
       "images": [],

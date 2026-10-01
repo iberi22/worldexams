@@ -19,13 +19,13 @@
           "feedback": "Incorrecto. El cartel incluye tres categorías distintas."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Sustituye los sustantivos por adverbios y verbos.",
           "is_correct": false,
           "feedback": "Incorrecto. Los adverbios y verbos no hacen lo mismo que el sustantivo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Repasa tres funciones distintas: acción (verbo), modo (adverbio) y referencia (pronombre).",
           "is_correct": true,
           "feedback": "Correcto. Cada palabra cumple un papel diferente en la oración."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Define las tres categorías, no solo una."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "En el segundo periodo se repasaron el verbo, el adverbio, el pronombre, la preposición, la conjunción, la oración, el sujeto y el predicado, y los signos de puntuación. Cada categoría aporta una función distinta al texto.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -65,13 +65,13 @@
           "feedback": "Incorrecto. Hay más categorías presentes."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Sujeto, verbo, adverbio, conjunción y pronombre.",
           "is_correct": true,
           "feedback": "Correcto. El resumen identifica las cinco categorías clave."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Solo adverbio y preposición.",
           "is_correct": false,
           "feedback": "Incorrecto. Hay al menos cinco categorías en juego."
@@ -83,7 +83,7 @@
           "feedback": "Incorrecto. Esas categorías no aparecen en el resumen."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Una oración completa puede reunir varias categorías a la vez: sustantivo, verbo, adverbio, pronombre, preposición, conjunción, adjetivo. Reconocerlas en conjunto es la clave del análisis sintáctico básico.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -105,13 +105,13 @@
       "context": "Un aviso de Cali dice: «Los alumnos traerán su cuaderno mañana, pero si llueve no vendrán».",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Solo aparecen sustantivos y un verbo.",
           "is_correct": false,
           "feedback": "Incorrecto. Hay adverbio, conjunción, pronombre y signo de coma."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Sujeto, verbo en futuro, adverbio de tiempo, conjunción adversativa y condicional.",
           "is_correct": true,
           "feedback": "Correcto. El aviso reúne varias categorías y dos conjunciones."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecto. «Mañana» es un adverbio de tiempo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Identificar categorías en oraciones compuestas permite entender su lógica: el adverbio marca el cuándo, la conjunción une las partes y el verbo en futuro anuncia lo que ocurrirá. Todo suma para la comprensión.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -157,13 +157,13 @@
           "feedback": "Incorrecto. Hay más categorías y dos signos de puntuación."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Pronombres, verbos, adverbios de lugar, coma y punto y coma.",
           "is_correct": true,
           "feedback": "Correcto. El texto combina todas esas categorías y signos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Solo hay un verbo conjugado.",
           "is_correct": false,
           "feedback": "Incorrecto. Hay dos verbos: «estudio» y «estudia»."
@@ -175,7 +175,7 @@
           "feedback": "Incorrecto. El punto y coma marca dos oraciones independientes."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El punto y coma sirve para conectar oraciones relacionadas sin convertirlas en una sola. Aquí separa la acción de cada hermano sin perder la comparación implícita entre «aquí» y «allá».\n\n---",
       "difficulty": "6",
       "images": [],
@@ -341,25 +341,25 @@
           "feedback": "Incorrecto. Los sustantivos no predominan en este resumen."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "El pronombre, porque sustituye a las personas y objetos ya mencionados.",
           "is_correct": true,
           "feedback": "Correcto. «Ellos», «nosotros» y «todos» evitan repetir nombres."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El verbo, porque aparecen muchas acciones.",
           "is_correct": false,
           "feedback": "Incorrecto. El verbo aparece, pero no es el recurso predominante para evitar repeticiones."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El adverbio, porque hay varios que marcan cantidad.",
           "is_correct": false,
           "feedback": "Incorrecto. Solo «mucho» es adverbio en el resumen."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El pronombre es la herramienta clave para evitar repeticiones. En una narración, los pronombres personales (él, ellos, nosotros) y los indefinidos (todos, algunos) hacen el texto más fluido y agradable de leer.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -387,25 +387,25 @@
           "feedback": "Incorrecto. Hay errores de concordancia entre sujeto y verbo."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "El verbo «llegará» debe ir en plural «llegarán» y «respetó» debe ser «respetaron».",
           "is_correct": true,
           "feedback": "Correcto. El sujeto plural exige verbos en plural."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Solo hay que cambiar el adverbio «tarde» por «temprano».",
           "is_correct": false,
           "feedback": "Incorrecto. El problema es la concordancia, no el adverbio."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Falta un pronombre para evitar la repetición.",
           "is_correct": false,
           "feedback": "Incorrecto. El problema principal es de número en el verbo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La concordancia de número entre sujeto y verbo es obligatoria. Repasar el verbo, el sujeto y el predicado ayuda a detectar errores frecuentes como los del aviso.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -427,19 +427,19 @@
       "context": "Una alumna de Cartagena escribe: «Los niños jugaron en el parque, ellos comieron dulces después, y luego ellos volvieron a casa.».",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Solo hay errores de ortografía y deben corregirse.",
           "is_correct": false,
           "feedback": "Incorrecto. El problema principal es de estilo, no de ortografía."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "La frase es correcta y solo sobra un punto final.",
           "is_correct": false,
           "feedback": "Incorrecto. Hay una coma antes de «y» que no debería ir y el pronombre «ellos» se repite."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Sobra la coma antes de «y», se repite «ellos» y el punto final está duplicado.",
           "is_correct": true,
           "feedback": "Correcto. Repasar pronombres y puntuación resuelve el texto."
@@ -451,7 +451,7 @@
           "feedback": "Incorrecto. «Después» y «luego» ya cumplen esa función."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Repasar permite detectar tres errores típicos a la vez: coma incorrecta antes de conjunción, pronombre redundante y doble punto final. Una mirada integral, como la del periodo, mejora el texto de un solo vistazo.",
       "difficulty": "10",
       "images": [],

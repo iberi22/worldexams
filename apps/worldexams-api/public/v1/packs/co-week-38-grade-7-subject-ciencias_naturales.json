@@ -19,13 +19,13 @@
           "feedback": "Incorrecta, porque el volumen de agua no describe el estado térmico de un cuerpo."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "La medida del grado de agitación térmica de las partículas, que indica qué tan caliente o frío está un cuerpo.",
           "is_correct": true,
           "feedback": "Correcta, porque define la temperatura como el indicador del estado térmico relacionado con el movimiento de las partículas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El peso exacto de un objeto medido con una balanza en la tienda.",
           "is_correct": false,
           "feedback": "Incorrecta, porque el peso mide la masa y no el estado térmico del cuerpo."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecta, porque el color del recipiente no mide qué tan caliente o frío está el contenido."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La temperatura indica qué tan caliente o frío está un cuerpo y se relaciona con el movimiento de sus partículas: a mayor temperatura, mayor agitación. Se mide con el termómetro en grados Celsius en Colombia. No es lo mismo que el calor, que es energía en tránsito entre cuerpos a distinta temperatura.",
       "difficulty": "4",
       "images": [],
@@ -111,25 +111,25 @@
           "feedback": "Incorrecta, porque el aire quieto es mal conductor y no calienta toda el agua de la olla."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "La convección, porque el agua caliente sube y la fría baja formando corrientes que reparten el calor.",
           "is_correct": true,
           "feedback": "Correcta, porque identifica las corrientes de convección como el mecanismo que uniformiza la temperatura en el líquido."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La radiación de la nevera que enfría los alimentos durante la noche.",
           "is_correct": false,
           "feedback": "Incorrecta, porque la nevera no calienta la olla y la radiación no es el mecanismo principal aquí."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La fotosíntesis de las plantas de la ventana que calienta la estufa.",
           "is_correct": false,
           "feedback": "Incorrecta, porque la fotosíntesis ocurre en las plantas y no calienta el agua de la olla."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "En los líquidos y gases el calor viaja sobre todo por convección: el fluido caliente, menos denso, sube y el frío baja, formando corrientes. Así toda el agua alcanza el punto de ebullición. En los sólidos predomina la conducción y del Sol llega radiación, pero en la olla manda la convección.",
       "difficulty": "6",
       "images": [],
@@ -157,13 +157,13 @@
           "feedback": "Incorrecta, porque dejar entrar la lluvia daña la casa y no es el propósito de la separación."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Porque el metal se dilata con el calor del día y necesita espacio para expandirse sin doblarse ni romper los tornillos.",
           "is_correct": true,
           "feedback": "Correcta, porque aplica la dilatación térmica de los sólidos al montaje del techo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Para que el techo pese más y resista mejor la brisa de diciembre.",
           "is_correct": false,
           "feedback": "Incorrecta, porque la separación no aumenta el peso ni la resistencia al viento."
@@ -175,7 +175,7 @@
           "feedback": "Incorrecta, porque el zinc se expande con el calor, no se encoge."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Los sólidos se dilatan al calentarse porque sus partículas vibran más y ocupan más espacio. En climas cálidos los rieles, puentes y techos metálicos necesitan juntas de dilatación. Sin ese espacio, la expansión genera esfuerzos que deforman las láminas y arrancan los tornillos.",
       "difficulty": "6",
       "images": [],
@@ -203,25 +203,25 @@
           "feedback": "Incorrecta, porque el icopor es aislante y por eso el agua tarda más en calentarse."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "El vidrio conduce mejor el calor del mechero al agua y el icopor actúa como aislante que retarda el paso del calor.",
           "is_correct": true,
           "feedback": "Correcta, porque compara la conductividad de ambos materiales con los datos de temperatura."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ambos vasos son idénticos y la diferencia se debe a que el agua del icopor es mágica.",
           "is_correct": false,
           "feedback": "Incorrecta, porque los materiales son distintos y la diferencia tiene explicación térmica."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El mechero calienta solo el vidrio porque le gustan los vasos transparentes.",
           "is_correct": false,
           "feedback": "Incorrecta, porque el mechero entrega igual energía y lo que cambia es el material del vaso."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Los conductores como los metales y el vidrio delgado dejan pasar el calor con facilidad; los aislantes como el icopor, la madera y la lana lo frenan. Por eso el termo y la nevera de icopor conservan la temperatura. El experimento controla agua, mechero y tiempo, y solo cambia el material.",
       "difficulty": "6",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "En Cartagena, un estudiante compra dos gaseosas para el recreo con 6000 COP: deja una al sol sobre el andén y guarda la otra a la sombra bajo una mata, y después de una hora mide ambas con el mismo termómetro.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Usar gaseosas iguales, medir con el mismo termómetro al mismo tiempo y cambiar solo la exposición al Sol.",
           "is_correct": true,
           "feedback": "Correcta, porque controla variables y aísla la exposición solar como causa de la diferencia."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Usar tamaños distintos, medir a horas distintas y sacudir solo una botella antes de medir.",
           "is_correct": false,
           "feedback": "Incorrecta, porque cambia varias cosas a la vez y no se sabe qué causó la diferencia."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecta, porque el color de la etiqueta no mide la temperatura del líquido."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Una comparación justa exige igual producto, igual instrumento, igual tiempo y una sola diferencia: la exposición al Sol. La botella al sol recibe radiación directa y se calienta más. Si se cambian varias condiciones a la vez, la conclusión pierde validez porque cualquier factor pudo causar el cambio.",
       "difficulty": "8",
       "images": [],
@@ -381,19 +381,19 @@
       "context": "En Pasto, una familia con 80000 COP discute cómo abrigar el cuarto del bebé en noches frías: forrar las rendijas de la ventana con tela gruesa o dejar la ventana abierta para que entre la brisa.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Dejar la ventana abierta es mejor porque la brisa fría calienta el cuarto con su movimiento.",
           "is_correct": false,
           "feedback": "Incorrecta, porque la brisa fría extrae calor del cuarto por convección y lo enfría más."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Ambas propuestas son iguales porque las ventanas no tienen nada que ver con la temperatura.",
           "is_correct": false,
           "feedback": "Incorrecta, porque por las rendijas entra y sale aire que cambia la temperatura del cuarto."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Forrar las rendijas es mejor porque frena las corrientes de aire frío y reduce la pérdida de calor del cuarto.",
           "is_correct": true,
           "feedback": "Correcta, porque evalúa el aislamiento contra las corrientes de convección como la medida eficaz."
@@ -405,7 +405,7 @@
           "feedback": "Incorrecta, porque el aislamiento sencillo sí reduce de forma medible la pérdida de calor."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Evaluar exige comparar mecanismos: la ventana abierta genera convección que reemplaza el aire tibio por aire frío, mientras sellar rendijas conserva el calor. Los aislantes no generan calor, evitan que escape. Por eso cortinas gruesas, burletes y cobijas funcionan en climas fríos sin gastar energía extra.",
       "difficulty": "10",
       "images": [],

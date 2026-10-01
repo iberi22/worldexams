@@ -59,13 +59,13 @@
       "context": "Felipe observa que su mamá guarda en la caja monedas y billetes de pesos colombianos (COP) con valores muy distintos entre sí.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Porque permiten pagar cantidades muy distintas, desde unos pocos pesos hasta miles de pesos.",
           "is_correct": true,
           "feedback": "Tener monedas y billetes de varios valores facilita pagar precios pequeños y grandes."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque cada familia elige el valor que quiere usar al pagar.",
           "is_correct": false,
           "feedback": "Los valores del dinero los define el Banco de la República, no cada familia."
@@ -83,7 +83,7 @@
           "feedback": "Las monedas y los billetes son medios de pago, no adornos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Comprender que el dinero en pesos colombianos tiene monedas y billetes de distintos valores para cubrir desde pagos pequeños hasta pagos grandes.",
       "difficulty": "4",
       "images": [],
@@ -105,31 +105,31 @@
       "context": "Felipe compra en la plaza de mercado de Bogotá una libra de papa por 4.000 COP, un kilo de tomate por 3.500 COP y un kilo de cebolla por 2.500 COP.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "10.000 COP.",
           "is_correct": true,
           "feedback": "4.000 + 3.500 + 2.500 = 10.000 COP."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "9.000 COP.",
           "is_correct": false,
           "feedback": "9.000 COP resulta de sumar mal; la suma correcta es 10.000 COP."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "11.000 COP.",
           "is_correct": false,
           "feedback": "11.000 COP es mayor que el total real de la compra."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "12.000 COP.",
           "is_correct": false,
           "feedback": "12.000 COP correspondería a sumar 2.000 COP de más."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Aplicar la suma de precios en pesos colombianos para calcular el total de una compra en la plaza de mercado.",
       "difficulty": "6",
       "images": [],
@@ -197,31 +197,31 @@
       "context": "En la tienda del barrio, una bolsa de leche cuesta 3.200 COP. Felipe necesita comprar 4 bolsas para la semana.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "12.800 COP.",
           "is_correct": true,
           "feedback": "3.200 × 4 = 12.800 COP."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "9.600 COP.",
           "is_correct": false,
           "feedback": "9.600 COP equivale al precio de 3 bolsas, no de 4."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "12.000 COP.",
           "is_correct": false,
           "feedback": "12.000 COP resultaría si cada bolsa costara 3.000 COP."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "6.400 COP.",
           "is_correct": false,
           "feedback": "6.400 COP corresponde al precio de 2 bolsas, no de 4."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Aplicar la multiplicación del precio unitario por la cantidad de productos para hallar el gasto total.",
       "difficulty": "6",
       "images": [],
@@ -243,19 +243,19 @@
       "context": "Daniela compara dos puestos de la plaza para comprar 2 kilos de tomate y 1 kilo de cebolla. El puesto A vende el tomate a 3.500 COP el kilo y la cebolla a 2.800 COP el kilo. El puesto B vende el tomate a 3.200 COP el kilo y la cebolla a 3.500 COP el kilo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "En el puesto A, porque el total es 9.800 COP y es menor que los 9.900 COP del puesto B.",
           "is_correct": true,
           "feedback": "Puesto A: 2 × 3.500 + 2.800 = 9.800 COP; puesto B: 2 × 3.200 + 3.500 = 9.900 COP. Conviene el A."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "En el puesto B, porque tiene el tomate más barato, que es lo que más compra.",
           "is_correct": false,
           "feedback": "El tomate es más barato en B, pero la cebolla es más cara y el total del B sigue siendo mayor."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "En el puesto B, porque el total es 9.900 COP y solo gasta 100 COP más.",
           "is_correct": false,
           "feedback": "Pagar 100 COP más no es lo que conviene cuando existe una opción de menor total."
@@ -267,7 +267,7 @@
           "feedback": "Los totales no son iguales: 9.800 COP y 9.900 COP."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Analizar el costo total de una compra con varios productos para comparar ofertas y elegir la más económica.",
       "difficulty": "8",
       "images": [],
@@ -335,19 +335,19 @@
       "context": "La familia de Daniela recibe 800.000 COP al mes. Después de pagar el arriendo, los servicios y el mercado les quedan 120.000 COP. Una opción es gastarlos en salidas y otra es ahorrar una parte para una emergencia.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Destinar una parte al ahorro y otra a gastos personales, porque así puede atender una emergencia sin dejar de cubrir sus necesidades.",
           "is_correct": true,
           "feedback": "Combinar ahorro y gasto permite estar preparados para imprevistos sin descuidar el bienestar."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Gastar los 120.000 COP completos en salidas, porque el ahorro solo sirve cuando sobra mucho dinero.",
           "is_correct": false,
           "feedback": "El ahorro protege ante emergencias aunque el sobrante sea pequeño."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Guardar los 120.000 COP y no gastar nada, porque ahorrar es lo único importante.",
           "is_correct": false,
           "feedback": "Un ahorro equilibrado debe convivir con las necesidades y el bienestar de la familia."
@@ -359,7 +359,7 @@
           "feedback": "El ahorro sí ayuda a resolver imprevistos sin endeudarse."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Evaluar distintas formas de usar un sobrante de dinero para decidir la opción que equilibra el ahorro y las necesidades de la familia.",
       "difficulty": "10",
       "images": [],

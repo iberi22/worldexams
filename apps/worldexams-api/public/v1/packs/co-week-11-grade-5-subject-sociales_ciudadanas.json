@@ -13,13 +13,13 @@
       "context": "En una escuela de Medellín, ubicada en el Valle de Aburrá, la profesora muestra un mapa con las tres cordilleras que cruzan Colombia.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Colombia es atravesada por tres cordilleras: Occidental, Central y Oriental, con valles entre ellas.",
           "is_correct": true,
           "feedback": "Las tres cordilleras de los Andes y los valles interandinos forman el relieve montañoso del país."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Colombia es una llanura total sin montañas ni valles.",
           "is_correct": false,
           "feedback": "Colombia tiene extensas montañas andinas además de llanuras en otras regiones."
@@ -37,7 +37,7 @@
           "feedback": "Las cordilleras recorren el interior del país de sur a norte, no solo la costa."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Reconocer las tres cordilleras andinas y los valles como elementos básicos del relieve colombiano.",
       "difficulty": "4",
       "images": [],
@@ -59,31 +59,31 @@
       "context": "Lee: \"Tunja, en Boyacá, tiene un clima frío porque está a gran altura, mientras que Barranquilla, en el Caribe, tiene un clima cálido porque está casi al nivel del mar.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Porque a mayor altura la temperatura baja y a menor altura la temperatura sube.",
           "is_correct": true,
           "feedback": "La altura sobre el nivel del mar explica los pisos térmicos: frío en la montaña y cálido en la costa."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque Tunja está más cerca del sol que Barranquilla.",
           "is_correct": false,
           "feedback": "La distancia al sol no explica la diferencia; la causa es la altura del relieve."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque en Barranquilla nunca sale el sol.",
           "is_correct": false,
           "feedback": "Barranquilla es una ciudad cálida y soleada del Caribe colombiano."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Porque el clima es igual en todo el país y no depende del relieve.",
           "is_correct": false,
           "feedback": "El clima colombiano varía mucho según la altura, también llamada piso térmico."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Comprender la relación entre la altura del relieve y los pisos térmicos que definen el clima en Colombia.",
       "difficulty": "4",
       "images": [],
@@ -105,19 +105,19 @@
       "context": "En Neiva, a orillas del río Magdalena, los pescadores transportan sus productos en canoas y los venden en el puerto de Honda, en Tolima.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Sirven como vías de transporte, fuente de pesca y agua para cultivos y hogares.",
           "is_correct": true,
           "feedback": "Los ríos principales también proveen agua, alimento y comunicación entre regiones."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Solo sirven para adornar el paisaje sin ningún uso.",
           "is_correct": false,
           "feedback": "Los ríos tienen usos vitales para el transporte, la pesca y la agricultura."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Impiden que las personas cultiven o viajen por el país.",
           "is_correct": false,
           "feedback": "Por el contrario, los ríos facilitan los viajes y el riego de cultivos."
@@ -129,7 +129,7 @@
           "feedback": "El Magdalena y el Cauca son ríos largos y caudalosos que fluyen todo el año."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Aplicar el conocimiento sobre los ríos Magdalena y Cauca para explicar su uso en el transporte, la pesca y la vida diaria.",
       "difficulty": "6",
       "images": [],
@@ -243,31 +243,31 @@
       "context": "Compara: \"Cerca de Manizales, en clima templado, las familias cultivan café en las laderas. En Samacá, Boyacá, en clima frío, las familias cultivan papa en las partes altas.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Cada piso térmico favorece ciertos cultivos: el café necesita el clima templado y la papa se adapta al clima frío.",
           "is_correct": true,
           "feedback": "La temperatura y la altura determinan qué plantas crecen mejor en cada zona."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Los cultivos crecen igual en cualquier clima y el piso térmico no influye.",
           "is_correct": false,
           "feedback": "El café no prospera en el frío intenso ni la papa rinde igual en tierras muy cálidas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El café solo crece en la nieve y la papa solo crece en el desierto.",
           "is_correct": false,
           "feedback": "El café es de tierra templada y la papa es de tierra fría, no de nieve ni de desierto."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Manizales y Samacá tienen el mismo clima porque están en el mismo departamento.",
           "is_correct": false,
           "feedback": "Manizales y Samacá están en departamentos distintos y a alturas con climas diferentes."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Analizar cómo los pisos térmicos determinan las actividades agrícolas en las regiones andinas de Colombia.",
       "difficulty": "8",
       "images": [],
@@ -289,19 +289,19 @@
       "context": "Lee: \"Santa Marta, en el Caribe, recibe muchos visitantes por sus playas y la Sierra Nevada cercana. Quibdó, en el Chocó Pacífico, es una de las ciudades más lluviosas del mundo, rodeada de ríos y selva.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "La ubicación, los vientos, las montañas cercanas y la humedad hacen al Caribe más seco y al Pacífico más lluvioso.",
           "is_correct": true,
           "feedback": "El relieve y la humedad del Pacífico también producen selva, mientras el Caribe combina mar con zonas más secas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La única causa es que en Quibdó no existe el mar.",
           "is_correct": false,
           "feedback": "Quibdó está en la región Pacífica, influida por el océano y por lluvias constantes."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Santa Marta y Quibdó tienen exactamente el mismo paisaje y el mismo clima.",
           "is_correct": false,
           "feedback": "Sus paisajes son distintos: playas y sierra en Santa Marta, selva y ríos en Quibdó."
@@ -313,7 +313,7 @@
           "feedback": "Ambas ciudades son colombianas, pero pertenecen a regiones costeras diferentes."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Comparar los factores geográficos que producen diferencias de clima y paisaje entre el Caribe y el Pacífico colombiano.",
       "difficulty": "8",
       "images": [],

@@ -13,13 +13,13 @@
       "context": "En el laboratorio de química del Colegio Mayor de San Bartolome, en Bogotá, se introduce el concepto de átomo y sus componentes subatomicos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Protones y neutrones en el nucleo; electrones en la corteza.",
           "is_correct": true,
           "feedback": "Correcto. Los protones y neutrones forman el nucleo; los electrones orbitan en la corteza."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Protones en la corteza, neutrones en el nucleo y electrones libres en todo el átomo.",
           "is_correct": false,
           "feedback": "Incorrecto. Los protones estan en el nucleo, no en la corteza."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Los neutrones también forman parte del átomo, salvo en el hidrogeno-1."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Átomo $=$ nucleo (protones $+$ neutrones) $+$ corteza electronica (electrones). La carga positiva esta en el nucleo y la negativa en la corteza.",
       "difficulty": "4",
       "images": [],
@@ -105,19 +105,19 @@
       "context": "En el laboratorio de la Universidad del Valle, se determina que un átomo neutro de carbono tiene número atomico $Z = 6$ y número masico $A = 12$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "6 protones, 6 electrones y 6 neutrones.",
           "is_correct": true,
           "feedback": "Correcto. $Z = 6$ implica 6 protones y 6 electrones (átomo neutro). $N = A - Z = 12 - 6 = 6$ neutrones."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "12 protones, 6 electrones y 0 neutrones.",
           "is_correct": false,
           "feedback": "Incorrecto. El número de protones es $Z = 6$, no 12."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "6 protones, 12 electrones y 6 neutrones.",
           "is_correct": false,
           "feedback": "Incorrecto. En un átomo neutro, protones = electrones = 6."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecto. El átomo neutro tendria 6 protones y 6 electrones, no 12 de cada uno."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "$Z$ $=$ protones $=$ electrones (átomo neutro). $N$ $=$ neutrones $= A - Z$. Para C-12: $6p$, $6e$, $6n$.",
       "difficulty": "6",
       "images": [],
@@ -151,13 +151,13 @@
       "context": "En un taller de química en Pereira, se comparan los modelos atomicos de Thomson, Rutherford y Bohr para explicar el experimento de la lamina de oro.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El átomo tiene un nucleo pequeno, denso y con carga positiva donde se concentra casi toda la masa.",
           "is_correct": true,
           "feedback": "Correcto. Rutherford propuso el nucleo positivo y denso rodeado de gran espacio vacio."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El átomo es una esfera maciza e indivisible como sostenia Dalton.",
           "is_correct": false,
           "feedback": "Incorrecto. Esa era la conclusión previa de Dalton, refutada por el experimento."
@@ -175,7 +175,7 @@
           "feedback": "Incorrecto. Las orbitas circulares son propias del modelo de Bohr, posterior a Rutherford."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Rutherford: el átomo tiene un nucleo pequeno, denso y positivo, rodeado de gran espacio vacio por donde orbitan los electrones.",
       "difficulty": "6",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "En Neiva, una docente explica la diferencia entre isotopos usando como ejemplo los isotopos del hidrógeno: protio, deuterio y tritio.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Poseen el mismo número atomico $Z$ pero diferente número masico $A$ por variar el número de neutrones.",
           "is_correct": true,
           "feedback": "Correcto. Isotopos tienen igual $Z$ y diferente $A$ (distinto número de neutrones)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Poseen diferente número de protones y electrones.",
           "is_correct": false,
           "feedback": "Incorrecto. Si varian los protones, ya no es el mismo elemento."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto. Los isotopos son neutros; las especies cargadas son iones."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Isotopos: mismo $Z$, diferente $A$. Ejemplo: hidrogeno-1, hidrogeno-2 (deuterio), hidrogeno-3 (tritio).",
       "difficulty": "6",
       "images": [],
@@ -243,31 +243,31 @@
       "context": "En el laboratorio de la Universidad Nacional, se mide el espectro de emision del hidrógeno y se observan lineas discretas en zonas visible y ultravioleta del espectro.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Los electrones absorben o emiten energía solo en saltos cuantizados entre niveles energeticos definidos.",
           "is_correct": true,
           "feedback": "Correcto. Bohr explico que los electrones ocupan niveles energeticos cuantizados."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El espectro discreto prueba que los átomos son esferas macizas como proponia Dalton.",
           "is_correct": false,
           "feedback": "Incorrecto. Dalton no explicaba el origen de los espectros discretos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Las lineas espectrales se deben a vibraciones mecanicas del nucleo.",
           "is_correct": false,
           "feedback": "Incorrecto. Las lineas espectrales se deben a transiciones electronicas, no a vibraciones nucleares."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El espectro discreto demuestra que el átomo es totalmente continuo.",
           "is_correct": false,
           "feedback": "Incorrecto. Es justamente evidencia de la cuantizacion de la energía en el átomo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Los espectros discretos revelan la cuantizacion de la energía: los electrones solo ocupan ciertos niveles energeticos permitidos.",
       "difficulty": "8",
       "images": [],
@@ -335,31 +335,31 @@
       "context": "En Cucuta, una empresa embotelladora usa carbon-14 para verificar la autenticidad de bebidas artesanales mediante datacion radiactiva.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "El carbono-14 es un isotopo radiactivo cuyo periodo de semidesintegracion permite estimar la edad de restos biologicos.",
           "is_correct": true,
           "feedback": "Correcto. La desintegracion radiactiva del C-14 sirve como reloj natural."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El carbono-14 es estable y no cambia con el tiempo, por lo que no sirve para datar.",
           "is_correct": false,
           "feedback": "Incorrecto. El C-14 es radiactivo y se desintegra con un periodo conocido."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El carbono-14 solo aparece en materiales sintetizados en laboratorio.",
           "is_correct": false,
           "feedback": "Incorrecto. El C-14 se forma en la atmósfera y se incorpora a los seres vivos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El carbono-14 es util solo para datar minerales, no muestras biologicas.",
           "is_correct": false,
           "feedback": "Incorrecto. Especificamente sirve para datar restos organicos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El C-14 atmosferico es incorporado por organismos vivos. Tras la muerte, su cantidad disminuye por desintegracion radiactiva, lo que permite datar la muestra.",
       "difficulty": "8",
       "images": [],
@@ -381,13 +381,13 @@
       "context": "En un concurso de ciencia escolar en Popayan, se discute la evolucion historica de los modelos atomicos: Dalton, Thomson, Rutherford, Bohr y modelo cuantico.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Introducir la idea de cuantizacion de la energía y de niveles estacionarios para los electrones.",
           "is_correct": true,
           "feedback": "Correcto. Bohr planteo que los electrones ocupan orbitas con energía cuantizada."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Demostrar que el átomo es indivisible y macizo.",
           "is_correct": false,
           "feedback": "Incorrecto. Esa idea corresponde a Dalton, no a Bohr."
@@ -405,7 +405,7 @@
           "feedback": "Incorrecto. Rutherford mostro que el nucleo es muy pequeno comparado con el átomo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Bohr incorporo la cuantizacion: los electrones solo pueden ocupar ciertos niveles de energía, explicando los espectros discretos.",
       "difficulty": "8",
       "images": [],
@@ -519,13 +519,13 @@
       "context": "En Tumaco, se discute si permitir el uso de isocopos radiactivos en procedimientos medicos hospitalarios, dado el principio de precaucion.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Permiten diagnosticos y tratamientos especificos; su riesgo se minimiza con dosis y protocolos adecuados.",
           "is_correct": true,
           "feedback": "Correcto. Los isotopos radiactivos aportan beneficios clinicos cuando se controlan."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Cualquier exposicion a isotopos radiactivos siempre es mortal para el paciente.",
           "is_correct": false,
           "feedback": "Incorrecto. Las dosis clinicas estan cuidadosamente calibradas para minimizar danos."
@@ -543,7 +543,7 @@
           "feedback": "Incorrecto. Son utiles en diagnostico y en algunos tratamientos especificos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El uso medico de isotopos radiactivos se basa en la relacion riesgo-beneficio: aportan informacion diagnostica y tratamientos especificos cuando se dosifican correctamente.",
       "difficulty": "10",
       "images": [],

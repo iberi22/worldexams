@@ -13,31 +13,31 @@
       "context": "Factorización y ceros de polinomios Caso N° 1.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$x = 1$ y $x = -1$",
           "is_correct": true,
           "feedback": "Correcto. Aplicando diferencia de cuadrados: $(x - 1)(x + 1) = 0 \\Rightarrow x = \\pm 1$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 2$ y $x = -2$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidó extraer la raíz cuadrada a la constante."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = 0$ y $x = 2$",
           "is_correct": false,
           "feedback": "Incorrecto. $x=0$ no es raíz de este binomio."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$x = 1$ únicamente",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidó la raíz negativa."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Factorizando por diferencia de cuadrados $x^2 - 1 = (x - 1)(x + 1) = 0$, obtenemos $x = 1$ y $x = -1$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -58,19 +58,19 @@
       "context": "Factorización y ceros de polinomios Caso N° 2.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$x = 2$ y $x = -2$",
           "is_correct": true,
           "feedback": "Correcto. Aplicando diferencia de cuadrados: $(x - 2)(x + 2) = 0 \\Rightarrow x = \\pm 2$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 4$ y $x = -4$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidó extraer la raíz cuadrada a la constante."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = 0$ y $x = 2$",
           "is_correct": false,
           "feedback": "Incorrecto. $x=0$ no es raíz de este binomio."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. Olvidó la raíz negativa."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Factorizando por diferencia de cuadrados $x^2 - 4 = (x - 2)(x + 2) = 0$, obtenemos $x = 2$ y $x = -2$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -103,31 +103,31 @@
       "context": "Factorización y ceros de polinomios Caso N° 3.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$x = 3$ y $x = -3$",
           "is_correct": true,
           "feedback": "Correcto. Aplicando diferencia de cuadrados: $(x - 3)(x + 3) = 0 \\Rightarrow x = \\pm 3$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 9$ y $x = -9$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidó extraer la raíz cuadrada a la constante."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = 0$ y $x = 3$",
           "is_correct": false,
           "feedback": "Incorrecto. $x=0$ no es raíz de este binomio."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$x = 3$ únicamente",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidó la raíz negativa."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Factorizando por diferencia de cuadrados $x^2 - 9 = (x - 3)(x + 3) = 0$, obtenemos $x = 3$ y $x = -3$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -193,13 +193,13 @@
       "context": "Factorización y ceros de polinomios Caso N° 5.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x = 5$ y $x = -5$",
           "is_correct": true,
           "feedback": "Correcto. Aplicando diferencia de cuadrados: $(x - 5)(x + 5) = 0 \\Rightarrow x = \\pm 5$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 25$ y $x = -25$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidó extraer la raíz cuadrada a la constante."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. Olvidó la raíz negativa."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Factorizando por diferencia de cuadrados $x^2 - 25 = (x - 5)(x + 5) = 0$, obtenemos $x = 5$ y $x = -5$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -283,19 +283,19 @@
       "context": "Factorización y ceros de polinomios Caso N° 7.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$x = 7$ y $x = -7$",
           "is_correct": true,
           "feedback": "Correcto. Aplicando diferencia de cuadrados: $(x - 7)(x + 7) = 0 \\Rightarrow x = \\pm 7$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 49$ y $x = -49$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidó extraer la raíz cuadrada a la constante."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = 0$ y $x = 7$",
           "is_correct": false,
           "feedback": "Incorrecto. $x=0$ no es raíz de este binomio."
@@ -307,7 +307,7 @@
           "feedback": "Incorrecto. Olvidó la raíz negativa."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Factorizando por diferencia de cuadrados $x^2 - 49 = (x - 7)(x + 7) = 0$, obtenemos $x = 7$ y $x = -7$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -328,19 +328,19 @@
       "context": "Factorización y ceros de polinomios Caso N° 8.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$x = 8$ y $x = -8$",
           "is_correct": true,
           "feedback": "Correcto. Aplicando diferencia de cuadrados: $(x - 8)(x + 8) = 0 \\Rightarrow x = \\pm 8$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 64$ y $x = -64$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidó extraer la raíz cuadrada a la constante."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = 0$ y $x = 8$",
           "is_correct": false,
           "feedback": "Incorrecto. $x=0$ no es raíz de este binomio."
@@ -352,7 +352,7 @@
           "feedback": "Incorrecto. Olvidó la raíz negativa."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Factorizando por diferencia de cuadrados $x^2 - 64 = (x - 8)(x + 8) = 0$, obtenemos $x = 8$ y $x = -8$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -373,31 +373,31 @@
       "context": "Factorización y ceros de polinomios Caso N° 9.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$x = 9$ y $x = -9$",
           "is_correct": true,
           "feedback": "Correcto. Aplicando diferencia de cuadrados: $(x - 9)(x + 9) = 0 \\Rightarrow x = \\pm 9$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 81$ y $x = -81$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidó extraer la raíz cuadrada a la constante."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = 0$ y $x = 9$",
           "is_correct": false,
           "feedback": "Incorrecto. $x=0$ no es raíz de este binomio."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$x = 9$ únicamente",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidó la raíz negativa."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Factorizando por diferencia de cuadrados $x^2 - 81 = (x - 9)(x + 9) = 0$, obtenemos $x = 9$ y $x = -9$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -418,19 +418,19 @@
       "context": "Factorización y ceros de polinomios Caso N° 10.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$x = 10$ y $x = -10$",
           "is_correct": true,
           "feedback": "Correcto. Aplicando diferencia de cuadrados: $(x - 10)(x + 10) = 0 \\Rightarrow x = \\pm 10$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 100$ y $x = -100$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidó extraer la raíz cuadrada a la constante."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = 0$ y $x = 10$",
           "is_correct": false,
           "feedback": "Incorrecto. $x=0$ no es raíz de este binomio."
@@ -442,7 +442,7 @@
           "feedback": "Incorrecto. Olvidó la raíz negativa."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Factorizando por diferencia de cuadrados $x^2 - 100 = (x - 10)(x + 10) = 0$, obtenemos $x = 10$ y $x = -10$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -463,31 +463,31 @@
       "context": "Factorización y ceros de polinomios Caso N° 11.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$x = 11$ y $x = -11$",
           "is_correct": true,
           "feedback": "Correcto. Aplicando diferencia de cuadrados: $(x - 11)(x + 11) = 0 \\Rightarrow x = \\pm 11$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 121$ y $x = -121$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidó extraer la raíz cuadrada a la constante."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = 0$ y $x = 11$",
           "is_correct": false,
           "feedback": "Incorrecto. $x=0$ no es raíz de este binomio."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$x = 11$ únicamente",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidó la raíz negativa."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Factorizando por diferencia de cuadrados $x^2 - 121 = (x - 11)(x + 11) = 0$, obtenemos $x = 11$ y $x = -11$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -508,13 +508,13 @@
       "context": "Factorización y ceros de polinomios Caso N° 12.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x = 12$ y $x = -12$",
           "is_correct": true,
           "feedback": "Correcto. Aplicando diferencia de cuadrados: $(x - 12)(x + 12) = 0 \\Rightarrow x = \\pm 12$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 144$ y $x = -144$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidó extraer la raíz cuadrada a la constante."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. Olvidó la raíz negativa."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Factorizando por diferencia de cuadrados $x^2 - 144 = (x - 12)(x + 12) = 0$, obtenemos $x = 12$ y $x = -12$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -598,31 +598,31 @@
       "context": "Factorización y ceros de polinomios Caso N° 14.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$x = 14$ y $x = -14$",
           "is_correct": true,
           "feedback": "Correcto. Aplicando diferencia de cuadrados: $(x - 14)(x + 14) = 0 \\Rightarrow x = \\pm 14$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 196$ y $x = -196$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidó extraer la raíz cuadrada a la constante."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = 0$ y $x = 14$",
           "is_correct": false,
           "feedback": "Incorrecto. $x=0$ no es raíz de este binomio."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$x = 14$ únicamente",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidó la raíz negativa."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Factorizando por diferencia de cuadrados $x^2 - 196 = (x - 14)(x + 14) = 0$, obtenemos $x = 14$ y $x = -14$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -778,19 +778,19 @@
       "context": "Factorización y ceros de polinomios Caso N° 18.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$x = 18$ y $x = -18$",
           "is_correct": true,
           "feedback": "Correcto. Aplicando diferencia de cuadrados: $(x - 18)(x + 18) = 0 \\Rightarrow x = \\pm 18$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 324$ y $x = -324$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidó extraer la raíz cuadrada a la constante."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = 0$ y $x = 18$",
           "is_correct": false,
           "feedback": "Incorrecto. $x=0$ no es raíz de este binomio."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. Olvidó la raíz negativa."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Factorizando por diferencia de cuadrados $x^2 - 324 = (x - 18)(x + 18) = 0$, obtenemos $x = 18$ y $x = -18$.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -823,13 +823,13 @@
       "context": "Factorización y ceros de polinomios Caso N° 19.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x = 19$ y $x = -19$",
           "is_correct": true,
           "feedback": "Correcto. Aplicando diferencia de cuadrados: $(x - 19)(x + 19) = 0 \\Rightarrow x = \\pm 19$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 361$ y $x = -361$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidó extraer la raíz cuadrada a la constante."
@@ -847,7 +847,7 @@
           "feedback": "Incorrecto. Olvidó la raíz negativa."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Factorizando por diferencia de cuadrados $x^2 - 361 = (x - 19)(x + 19) = 0$, obtenemos $x = 19$ y $x = -19$.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -868,19 +868,19 @@
       "context": "Factorización y ceros de polinomios Caso N° 20.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$x = 20$ y $x = -20$",
           "is_correct": true,
           "feedback": "Correcto. Aplicando diferencia de cuadrados: $(x - 20)(x + 20) = 0 \\Rightarrow x = \\pm 20$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 400$ y $x = -400$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidó extraer la raíz cuadrada a la constante."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = 0$ y $x = 20$",
           "is_correct": false,
           "feedback": "Incorrecto. $x=0$ no es raíz de este binomio."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. Olvidó la raíz negativa."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Factorizando por diferencia de cuadrados $x^2 - 400 = (x - 20)(x + 20) = 0$, obtenemos $x = 20$ y $x = -20$.",
       "difficulty": "10",
       "images": [],

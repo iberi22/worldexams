@@ -19,13 +19,13 @@
           "feedback": "Incorrecto. El radio va del centro a un vértice, no al punto medio del lado ni en forma perpendicular."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Apotema",
           "is_correct": true,
           "feedback": "Correcto. La apotema es la distancia perpendicular del centro al punto medio de cada lado."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Diagonal",
           "is_correct": false,
           "feedback": "Incorrecto. La diagonal une dos vértices no consecutivos y no parte del centro en forma perpendicular."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. La mediana es un concepto de triángulos y de estadística, no la distancia centro-lado del polígono."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Todo polígono regular tiene centro, radio (centro-vértice) y apotema (centro-lado perpendicular). La apotema es la altura de cada triángulo isósceles que forma el polígono al unir el centro con los vértices, y es clave para el área.",
       "difficulty": "4",
       "images": [],
@@ -65,13 +65,13 @@
           "feedback": "Incorrecto. Sumar perímetro y apotema mezcla unidades lineales y no produce unidades cuadradas."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "A = (P × a) / 2",
           "is_correct": true,
           "feedback": "Correcto. El área es la mitad del producto del perímetro por la apotema."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "A = P × a",
           "is_correct": false,
           "feedback": "Incorrecto. Falta dividir entre 2; ese producto duplica el área verdadera."
@@ -83,7 +83,7 @@
           "feedback": "Incorrecto. Elevar el perímetro al cuadrado produce unidades cúbicas incorrectas para un área."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El polígono se divide en n triángulos de base l y altura a: área total = n × (l × a)/2 = (n × l) × a/2 = P × a/2. Es la fórmula central de todo polígono regular.",
       "difficulty": "4",
       "images": [],
@@ -117,19 +117,19 @@
           "feedback": "Incorrecto. Ese valor es el perímetro (4 × 30) y además está en unidades lineales, no cuadradas."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "900 cm²",
           "is_correct": true,
           "feedback": "Correcto. El área del cuadrado es lado al cuadrado: 30 × 30 = 900 cm²."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "90 cm²",
           "is_correct": false,
           "feedback": "Incorrecto. Ese valor multiplica 30 × 3; debes multiplicar 30 × 30."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "El cuadrado es un polígono regular de 4 lados y su área es l². Con l = 30 cm, A = 900 cm². También coincide con P × a/2 = 120 × 15/2 = 900, pues su apotema es l/2 = 15 cm.",
       "difficulty": "4",
       "images": [],
@@ -151,19 +151,19 @@
       "context": "En Cartagena, en el Castillo de San Felipe, un patio con forma de hexágono regular tiene 12 m de lado y apotema de 10,4 m.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "374,4 m²",
           "is_correct": true,
           "feedback": "Correcto. El perímetro es 72 m y A = (72 × 10,4)/2 = 748,8/2 = 374,4 m²."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "124,8 m²",
           "is_correct": false,
           "feedback": "Incorrecto. Ese valor es (24 × 10,4)/2; usaste 24 en vez de 72 como perímetro del hexágono."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "748,8 m²",
           "is_correct": false,
           "feedback": "Incorrecto. Ese valor es P × a sin dividir entre 2; falta la mitad de la fórmula."
@@ -175,7 +175,7 @@
           "feedback": "Incorrecto. Ese valor es 6 × 10,4; debes usar el perímetro 72, no el número de lados."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "P = 6 × 12 = 72 m. A = (72 × 10,4)/2 = 374,4 m². El hexágono equivale a 6 triángulos equiláteros unidos por el centro, cada uno de área (12 × 10,4)/2 = 62,4 m².",
       "difficulty": "6",
       "images": [],
@@ -341,13 +341,13 @@
           "feedback": "Incorrecto. Esa es solo el área del hexágono (60 × 8,7)/2; faltan los 6 triángulos externos."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "522 cm²",
           "is_correct": true,
           "feedback": "Correcto. Hexágono 261 cm² más 6 triángulos de 43,5 cm² cada uno (261 cm²) totalizan 522 cm²."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "435 cm²",
           "is_correct": false,
           "feedback": "Incorrecto. Ese valor suma mal las partes; cada triángulo externo mide (10 × 8,7)/2 = 43,5 cm²."
@@ -359,7 +359,7 @@
           "feedback": "Incorrecto. Ese valor triplica el área del hexágono; los triángulos externos suman otros 261 cm², no 522."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Área hexágono = (60 × 8,7)/2 = 261 cm². Cada triángulo = (10 × 8,7)/2 = 43,5 cm²; seis suman 261 cm². Total = 522 cm². El análisis descompone la figura compuesta y suma áreas parciales.",
       "difficulty": "8",
       "images": [],
@@ -381,13 +381,13 @@
       "context": "En Santa Marta, en la Marina, dos plazas son semejantes: una pentagonal de 6 m de lado y otra de 9 m de lado. La pequeña tiene área de 61,9 m².",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "92,85 m²",
           "is_correct": false,
           "feedback": "Incorrecto. Ese valor multiplica por 1,5 (razón lineal); las áreas se multiplican por el cuadrado de la razón."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "139,28 m²",
           "is_correct": true,
           "feedback": "Correcto. La razón lineal es 9/6 = 1,5 y la de áreas es 2,25; 61,9 × 2,25 ≈ 139,28 m²."
@@ -405,7 +405,7 @@
           "feedback": "Incorrecto. Ese valor multiplica por 3; la razón correcta de áreas es (3/2)² = 9/4."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "En figuras semejantes de razón lineal r, las áreas están en razón r². Aquí r = 1,5, r² = 2,25. Área grande = 61,9 × 2,25 ≈ 139,28 m². Analizar exige distinguir razón lineal de razón cuadrática.",
       "difficulty": "8",
       "images": [],
@@ -427,13 +427,13 @@
       "context": "En Tunja, en la chocolatería local, se empacan bocadillos en cajas con base de decágono regular de 4 cm de lado y apotema de 6,2 cm. Un operario afirma que el área es de 124 cm².",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Sí, porque 4 × 31 = 124",
           "is_correct": false,
           "feedback": "Incorrecto. Esa multiplicación no corresponde a la fórmula; el perímetro del decágono es 40, no 31."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Sí, porque P = 40 cm y A = (40 × 6,2)/2 = 124 cm²",
           "is_correct": true,
           "feedback": "Correcto. El cálculo verifica la fórmula: 248/2 = 124 cm², por lo que el operario tiene razón."
@@ -451,7 +451,7 @@
           "feedback": "Incorrecto. Ese valor divide una vez más entre 10; el cálculo P × a/2 da 124 cm²."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Evaluar exige verificar: P = 10 × 4 = 40 cm; A = (40 × 6,2)/2 = 124 cm². La afirmación es correcta y el procedimiento la respalda. El error típico sería omitir la división entre 2.",
       "difficulty": "10",
       "images": [],
@@ -473,13 +473,13 @@
       "context": "En Pasto, en el taller de artesanos, se comparan dos bandejas: una hexagonal de 20 cm de lado con apotema de 17,3 cm y una circular de 20 cm de radio. El barniz cuesta 30.000 COP por cada 500 cm².",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La hexagonal, por 36,6 cm²",
           "is_correct": false,
           "feedback": "Incorrecto. El área hexagonal es 1038 cm² y la circular es mayor; el orden está invertido."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La circular, por 218,6 cm²",
           "is_correct": true,
           "feedback": "Correcto. Hexágono: (120 × 17,3)/2 = 1038 cm²; círculo: 3,14 × 400 = 1256 cm²; diferencia 218 cm² a favor del círculo."
@@ -497,7 +497,7 @@
           "feedback": "Incorrecto. Ese valor es la mitad de la diferencia real; 1256,6 − 1038 = 218,6."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Área hexágono = (6 × 20 × 17,3)/2 = 1038 cm². Área círculo = π × 20² ≈ 1256,6 cm². Diferencia ≈ 218,6 cm² a favor del círculo. Evaluar compara dos fórmulas distintas con los mismos datos lineales de 20 cm.",
       "difficulty": "10",
       "images": [],

@@ -59,19 +59,19 @@
       "context": "En Medellín, la profesora explica que una equis (X) tiene líneas de simetría y otra figura tiene otras.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "La traslación",
           "is_correct": true,
           "feedback": "Correcto. La traslación es un desplazamiento paralelo, sin giro ni reflexión."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La rotación",
           "is_correct": false,
           "feedback": "Incorrecto. La rotación implica giro alrededor de un punto."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La reflexión",
           "is_correct": false,
           "feedback": "Incorrecto. La reflexión invierte la figura respecto a un eje."
@@ -83,7 +83,7 @@
           "feedback": "Incorrecto. La homotecia cambia el tamaño, no solo la posición."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Una traslación desplaza cada punto de la figura la misma distancia y en la misma dirección. La figura conserva tamaño, forma y orientación.",
       "difficulty": "4",
       "images": [],
@@ -105,19 +105,19 @@
       "context": "En Cali, se tiene un triángulo equilátero con sus tres lados iguales y ángulos de 60°.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "3 ejes",
           "is_correct": true,
           "feedback": "Correcto. Cada altura es también eje de simetría del triángulo equilátero."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "1 eje",
           "is_correct": false,
           "feedback": "Incorrecto. Solo tendría 1 eje si fuera un triángulo isósceles."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "2 ejes",
           "is_correct": false,
           "feedback": "Incorrecto. Eso aplicaría a otras figuras, no al triángulo equilátero."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecto. El triángulo equilátero siempre tiene simetría axial."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "En el triángulo equilátero cada vértice se refleja sobre el lado opuesto a través de una perpendicular que pasa por el vértice, dando 3 ejes.",
       "difficulty": "6",
       "images": [],
@@ -151,31 +151,31 @@
       "context": "En Barranquilla, un cuadrado de lado 4 cm se traslada 6 cm a la derecha y 3 cm hacia abajo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Sigue siendo un cuadrado de 4 cm de lado, en una nueva posición",
           "is_correct": true,
           "feedback": "Correcto. La traslación no cambia tamaño ni forma, solo posición."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Se convierte en un rectángulo de 4 × 6",
           "is_correct": false,
           "feedback": "Incorrecto. La traslación no deforma la figura."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Se rota 90°",
           "is_correct": false,
           "feedback": "Incorrecto. La traslación no aplica rotación."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Se agranda al doble",
           "is_correct": false,
           "feedback": "Incorrecto. Las traslaciones conservan el tamaño."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "En una traslación, cada punto se mueve el mismo vector. La figura final tiene la misma forma, tamaño y orientación, solo está desplazada.",
       "difficulty": "6",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "En Pereira, un triángulo isósceles tiene base horizontal y vértice arriba.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "1 eje, el que pasa por el vértice y el punto medio de la base",
           "is_correct": true,
           "feedback": "Correcto. La altura sobre la base es el único eje de simetría."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "3 ejes",
           "is_correct": false,
           "feedback": "Incorrecto. Eso se aplica al triángulo equilátero, no al isósceles."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto. El isósceles tiene solo un eje de simetría."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "En el triángulo isósceles la altura desde el vértice superior al punto medio de la base es el único eje que divide la figura en dos partes iguales.",
       "difficulty": "6",
       "images": [],
@@ -243,19 +243,19 @@
       "context": "En Bucaramanga, se aplica una reflexión al punto P = (2, 3) con respecto al eje vertical x = 4.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "(6, 3)",
           "is_correct": true,
           "feedback": "Correcto. La distancia de P al eje es 4 - 2 = 2, así que P' = 4 + 2 = 6, con la misma y."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "(2, 5)",
           "is_correct": false,
           "feedback": "Incorrecto. Aplicaste la reflexión respecto al eje horizontal."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "(-2, 3)",
           "is_correct": false,
           "feedback": "Incorrecto. Tomaste el eje x como referencia en lugar de x = 4."
@@ -267,7 +267,7 @@
           "feedback": "Incorrecto. Reflejaste también la coordenada y."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Para reflejar respecto al eje vertical x = 4, la coordenada x cambia a 4 + (4 - x) = 8 - x. Con x = 2, P' = (6, 3); y no cambia.",
       "difficulty": "8",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "En Santa Marta, dos figuras son congruentes porque tienen la misma forma y el mismo tamaño. Una de ellas es la imagen de la otra tras una composición de movimientos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Cualquier movimiento rígido: traslación, rotación o reflexión",
           "is_correct": true,
           "feedback": "Correcto. Los movimientos rígidos conservan forma y tamaño, así que producen figuras congruentes."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Solo la traslación",
           "is_correct": false,
           "feedback": "Incorrecto. Rotaciones y reflexiones también son congruencias."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecto. No todas conservan tamaño y forma."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Los movimientos rígidos son las traslaciones, rotaciones y reflexiones. Cualquier composición de ellos produce una figura congruente con la original.",
       "difficulty": "8",
       "images": [],
@@ -381,13 +381,13 @@
       "context": "En Popayán, un diseñador de vitrales dice: \"Si corto una figura por un eje de simetría, obtengo siempre dos figuras iguales que puedo intercambiar\". Un compañero responde: \"Eso es cierto solo si el eje es efectivamente de simetría\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Que la línea sea efectivamente un eje de simetría axial de la figura",
           "is_correct": true,
           "feedback": "Correcto. Solo los ejes de simetría producen mitades intercambiables por reflexión."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Que la figura sea convexa",
           "is_correct": false,
           "feedback": "Incorrecto. Hay figuras convexas sin ejes de simetría."
@@ -405,7 +405,7 @@
           "feedback": "Incorrecto. Pasar por el centro no garantiza simetría axial."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El eje de simetría axial es la línea que produce una reflexión que superpone exactamente la figura consigo misma; por eso las mitades son intercambiables.",
       "difficulty": "10",
       "images": [],
@@ -427,31 +427,31 @@
       "context": "En Valledupar, se estudia una figura F. Trasladarla 5 cm a la derecha da F1. Rotar F1 90° en sentido horario da F2. Un estudiante afirma que F2 es diferente de F porque cambió la orientación.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Es igual a F porque ambas transformaciones son movimientos rígidos que conservan forma y tamaño",
           "is_correct": true,
           "feedback": "Correcto. El resultado final F2 es congruente con F, solo cambia su posición y orientación."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Es distinta porque cambió la orientación",
           "is_correct": false,
           "feedback": "Incorrecto. La orientación no destruye la congruencia geométrica."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Es distinta porque se aplicaron dos movimientos",
           "is_correct": false,
           "feedback": "Incorrecto. Componer movimientos rígidos da otro movimiento rígido."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Es imposible comparar sin ver la figura",
           "is_correct": false,
           "feedback": "Incorrecto. Sí es posible: la composición de movimientos rígidos preserva la figura."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Una traslación seguida de una rotación sigue siendo una congruencia: F2 es igual a F en forma y tamaño; solamente cambia posición y orientación.",
       "difficulty": "10",
       "images": [],

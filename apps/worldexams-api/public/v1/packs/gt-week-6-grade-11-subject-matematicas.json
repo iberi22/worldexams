@@ -109,13 +109,13 @@
           "feedback": "Esta prueba se usa para determinar si una función es inyectiva (uno a uno)."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Prueba de la línea vertical",
           "is_correct": true,
           "feedback": "Correcto. Si cualquier línea vertical cruza la gráfica en más de un punto, no es una función."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Prueba del origen",
           "is_correct": false,
           "feedback": "No existe una prueba con este nombre para definir funciones."
@@ -127,7 +127,7 @@
           "feedback": "La simetría ayuda a identificar funciones pares o impares, pero no si es función."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La prueba de la línea vertical verifica la unicidad de la imagen para cada valor de $x$ en el dominio.",
       "difficulty": "4",
       "images": [],
@@ -148,19 +148,19 @@
       "context": "Un estudiante evalúa una función simple para entender cómo cambian las salidas según las entradas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$6$",
           "is_correct": false,
           "feedback": "$3(4) - 2 = 12 - 2 = 10$, no 6."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$14$",
           "is_correct": false,
           "feedback": "Sumaste 2 en lugar de restar ($12 + 2$)."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "$10$",
           "is_correct": true,
           "feedback": "Correcto. $3 \\times 4 = 12$, y $12 - 2 = 10$."
@@ -172,7 +172,7 @@
           "feedback": "Olvidaste restar el 2 después de multiplicar."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Evaluar una función consiste en sustituir la variable independiente por un valor específico y calcular el resultado siguiendo las operaciones indicadas.",
       "difficulty": "4",
       "images": [],
@@ -199,25 +199,25 @@
           "feedback": "No puede ser, ya que la división por cero no está definida."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Todos los números reales excepto $x = 5$.",
           "is_correct": true,
           "feedback": "Correcto. Si $x = 5$, el denominador se hace cero y la función no existe."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Solo los números mayores que $5$.",
           "is_correct": false,
           "feedback": "Los números menores que 5 también son válidos (no producen división por cero)."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El conjunto $\\{5\\}$.",
           "is_correct": false,
           "feedback": "Este es precisamente el valor que NO pertenece al dominio."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "En funciones racionales, el dominio excluye los valores de $x$ que hacen que el denominador sea igual a cero.",
       "difficulty": "6",
       "images": [],
@@ -244,25 +244,25 @@
           "feedback": "Los números negativos no están en el rango porque cualquier número al cuadrado es positivo o cero."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Todos los números reales mayores o iguales a cero ($[0, \\infty)$).",
           "is_correct": true,
           "feedback": "Correcto. El valor mínimo es 0 y se extiende infinitamente hacia arriba."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Todos los números enteros.",
           "is_correct": false,
           "feedback": "El rango incluye también todos los números decimales y racionales positivos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El intervalo $(-\\infty, 0]$.",
           "is_correct": false,
           "feedback": "Este sería el rango si la función fuera $f(x) = -x^2$."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El rango se identifica observando los valores que toma la función en el eje vertical ($y$). Para $x^2$, todos los resultados son no negativos.",
       "difficulty": "6",
       "images": [],
@@ -328,13 +328,13 @@
       "context": "Un estudiante analiza la intersección de una función lineal con los ejes cartesianos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$(4, 0)$",
           "is_correct": false,
           "feedback": "Esta es la intersección con el eje $x$ (donde $y=0$)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$(0, -8)$",
           "is_correct": true,
           "feedback": "Correcto. La intersección con $y$ ocurre cuando $x=0$, entonces $f(0) = -8$."
@@ -352,7 +352,7 @@
           "feedback": "Se colocó el valor de $y$ en la posición de $x$."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La intersección con el eje $y$ se halla evaluando la función en $x=0$. En funciones de la forma $mx + b$, el valor de $b$ indica directamente este punto.",
       "difficulty": "6",
       "images": [],
@@ -379,13 +379,13 @@
           "feedback": "$\\sqrt{4+4} = \\sqrt{8} \\approx 2.82$, no 4."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$\\sqrt{8}$ cm",
           "is_correct": true,
           "feedback": "Correcto. Sustituyendo $t=4$: $h(4) = \\sqrt{4+4} = \\sqrt{8}$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$2$ cm",
           "is_correct": false,
           "feedback": "Solo extrajiste la raíz del primer término o del segundo, no de la suma."
@@ -397,7 +397,7 @@
           "feedback": "Olvidaste extraer la raíz cuadrada después de sumar."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Al evaluar funciones con radicales, se realiza primero la operación dentro del radicando y luego se aplica la raíz.",
       "difficulty": "6",
       "images": [],
@@ -418,19 +418,19 @@
       "context": "Un profesor explica cómo identificar si una función es creciente o decreciente observando su gráfica de izquierda a derecha.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "A medida que aumenta $x$, el valor de $f(x)$ también aumenta.",
           "is_correct": true,
           "feedback": "Correcto. La gráfica sube al avanzar hacia la derecha."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "A medida que aumenta $x$, el valor de $f(x)$ disminuye.",
           "is_correct": false,
           "feedback": "Esta es la definición de una función decreciente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El valor de $f(x)$ permanece constante sin importar el valor de $x$.",
           "is_correct": false,
           "feedback": "Esta es una función constante (recta horizontal)."
@@ -442,7 +442,7 @@
           "feedback": "Ser creciente no obliga a la función a pasar por el punto (0,0)."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La monotonía de una función (crecimiento o decrecimiento) describe la relación directa o inversa entre los cambios en la variable independiente y la dependiente.",
       "difficulty": "6",
       "images": [],
@@ -463,13 +463,13 @@
       "context": "Un estudiante de ingeniería analiza funciones compuestas para resolver problemas de transmisiones de energía.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$7$",
           "is_correct": false,
           "feedback": "Este sería $f(2) + g(2)$, no la composición."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$10$",
           "is_correct": true,
           "feedback": "Correcto. Primero hallamos $g(2) = 5$. Luego evaluamos $f(5) = 2(5) = 10$."
@@ -487,7 +487,7 @@
           "feedback": "Error al realizar las operaciones de la composición."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La composición de funciones $(f \\circ g)(x)$ significa evaluar la función $f$ usando como entrada el resultado de la función $g(x)$.",
       "difficulty": "8",
       "images": [],
@@ -559,13 +559,13 @@
           "feedback": "Usaste la rama incorrecta. $x=5$ cumple la condición $x \\ge 0$."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$2$",
           "is_correct": true,
           "feedback": "Correcto. Como $5 \\ge 0$, el valor de la función es la constante 2."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$1$",
           "is_correct": false,
           "feedback": "Valor incorrecto según las reglas de la función por trozos."
@@ -577,7 +577,7 @@
           "feedback": "La función está definida para todos los números reales."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "En funciones definidas por trozos, primero se verifica en qué intervalo cae el valor de $x$ y luego se aplica la regla de correspondencia de ese intervalo específico.",
       "difficulty": "8",
       "images": [],
@@ -655,19 +655,19 @@
           "feedback": "Esto es un desplazamiento horizontal hacia la derecha."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "$f(x) - 3$",
           "is_correct": true,
           "feedback": "Correcto. Restar una constante a la función completa produce un desplazamiento vertical hacia abajo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$3f(x)$",
           "is_correct": false,
           "feedback": "Esto representa un estiramiento vertical por un factor de 3."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Las transformaciones rígidas (desplazamientos) ocurren al sumar o restar constantes a la variable (horizontal) o a la función (vertical).",
       "difficulty": "8",
       "images": [],
@@ -739,25 +739,25 @@
           "feedback": "Esta es la asíntota horizontal, calculada por el límite al infinito."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$x = 3$",
           "is_correct": true,
           "feedback": "Correcto. Es el valor que hace cero el denominador y no anula al numerador simultáneamente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = -1/2$",
           "is_correct": false,
           "feedback": "Esta es la intersección con el eje $x$ (raíz), no una asíntota."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$x = -3$",
           "is_correct": false,
           "feedback": "Error de signo al identificar el valor prohibido del dominio."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Las asíntotas verticales ocurren en los valores de $x$ que hacen que el denominador de una función racional simplificada sea igual a cero.",
       "difficulty": "10",
       "images": [],
@@ -868,13 +868,13 @@
       "context": "Un estudiante resuelve un problema sobre el dominio de una función con una raíz cuadrada en el denominador.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x \\ge 2$",
           "is_correct": false,
           "feedback": "Si $x=2$, el denominador es $\\sqrt{0}=0$, lo cual es indefinido por la división."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x > 2$",
           "is_correct": true,
           "feedback": "Correcto. El radicando debe ser positivo ($x-2 > 0$) para evitar raíces negativas y división por cero."
@@ -892,7 +892,7 @@
           "feedback": "No considera la restricción de la raíz cuadrada para números menores que 2."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Este problema combina dos restricciones: la de la raíz cuadrada (debe ser $\\ge 0$) y la de la división (denominador $\\ne 0$). La intersección de ambas da como resultado $> 0$.",
       "difficulty": "10",
       "images": [],

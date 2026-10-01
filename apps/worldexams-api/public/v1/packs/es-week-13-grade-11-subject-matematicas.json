@@ -19,13 +19,13 @@
           "feedback": "Falta el límite cuando h tiende a cero."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$f'(a) = \\lim_{h \\to 0} \\frac{f(a+h) - f(a)}{h}$",
           "is_correct": true,
           "feedback": "Correcto. Es la definición de la derivada como el límite del cociente incremental."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$f'(a) = \\lim_{x \\to a} (f(x) - f(a))$",
           "is_correct": false,
           "feedback": "Esto es solo la diferencia de valores, no la tasa de cambio."
@@ -37,7 +37,7 @@
           "feedback": "Definición incorrecta."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La derivada representa la pendiente de la recta tangente a la curva en un punto. Se obtiene calculando el límite de la pendiente de las rectas secantes cuando la distancia entre los puntos tiende a cero.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -58,19 +58,19 @@
       "context": "En un instituto de Madrid, se aprenden las reglas básicas de derivación de funciones elementales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$f'(x) = x^{n-1}$",
           "is_correct": false,
           "feedback": "Falta el coeficiente n."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$f'(x) = n \\cdot x^n$",
           "is_correct": false,
           "feedback": "No se restó 1 al exponente."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "$f'(x) = n \\cdot x^{n-1}$",
           "is_correct": true,
           "feedback": "Correcto. El exponente pasa multiplicando y el nuevo exponente disminuye en una unidad."
@@ -82,7 +82,7 @@
           "feedback": "Esta es la regla para la integral indefinida, no para la derivada."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "La regla de la potencia es la base para derivar polinomios. Es válida para cualquier número real $n$, no solo para enteros positivos.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -103,19 +103,19 @@
       "context": "Se analiza la derivada de una función constante.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "0",
           "is_correct": true,
           "feedback": "Correcto. Una función constante no cambia, por lo que su tasa de variación es nula en todos los puntos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "1",
           "is_correct": false,
           "feedback": "Esta sería la derivada de f(x) = x."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "7",
           "is_correct": false,
           "feedback": "La derivada no es igual al valor de la constante."
@@ -127,7 +127,7 @@
           "feedback": "Resultado incorrecto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Geométricamente, una función constante es una línea horizontal cuya pendiente es siempre cero. Analíticamente, el incremento $f(x+h) - f(x)$ es siempre $7 - 7 = 0$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -193,13 +193,13 @@
       "context": "En una clase de Matemáticas I en Bilbao, se practica la regla del producto.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$2x \\cdot \\cos(x)$",
           "is_correct": false,
           "feedback": "Error al derivar; se derivaron ambos términos a la vez (regla incorrecta)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$2x \\cdot \\text{sen}(x) + x^2 \\cdot \\cos(x)$",
           "is_correct": true,
           "feedback": "Correcto. Aplicando $(u \\cdot v)' = u'v + uv'$."
@@ -217,7 +217,7 @@
           "feedback": "Error en el orden de los factores de la regla."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La regla del producto establece que la derivada de un producto es la derivada del primero por el segundo sin derivar, más el primero sin derivar por la derivada del segundo.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -289,25 +289,25 @@
           "feedback": "Falta multiplicar por la derivada de la función interna."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$30x \\cdot (3x^2 + 1)^4$",
           "is_correct": true,
           "feedback": "Correcto. $5(3x^2 + 1)^4 \\cdot (6x) = 30x(3x^2 + 1)^4$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$15(3x^2 + 1)^4$",
           "is_correct": false,
           "feedback": "Error en el cálculo de la derivada interna."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$(6x)^5$",
           "is_correct": false,
           "feedback": "Aplicación incorrecta de la regla."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La regla de la cadena establece que la derivada de $f(g(x))$ es $f'(g(x)) \\cdot g'(x)$. Se conoce coloquialmente como \"derivada de fuera por derivada de dentro\".\n\n---",
       "difficulty": "6",
       "images": [],
@@ -334,25 +334,25 @@
           "feedback": "$e^x$ es siempre positiva."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Su derivada es idéntica a la función original.",
           "is_correct": true,
           "feedback": "Correcto. $(e^x)' = e^x$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Su derivada es una función constante.",
           "is_correct": false,
           "feedback": "$e^x$ no es lineal."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Su derivada es $x \\cdot e^{x-1}$.",
           "is_correct": false,
           "feedback": "Esta sería la regla de la potencia aplicada erróneamente a una base variable."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La función exponencial de base $e$ es la única función (salvo el cero) que es su propia derivada. Esta propiedad la hace fundamental en la resolución de ecuaciones diferenciales.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -379,25 +379,25 @@
           "feedback": "Falta la derivada interna de la regla de la cadena."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$\\frac{2x}{x^2 + 5}$",
           "is_correct": true,
           "feedback": "Correcto. Aplicando $(\\ln u)' = u'/u$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\frac{1}{2x}$",
           "is_correct": false,
           "feedback": "Simplificación incorrecta."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$2x \\cdot \\ln(x^2 + 5)$",
           "is_correct": false,
           "feedback": "Aplicación incorrecta de las reglas."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La derivada del logaritmo neperiano de una función es la derivada de la función dividida por la función misma.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -418,13 +418,13 @@
       "context": "Un estudiante en Barcelona halla la recta tangente a una curva.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "-1",
           "is_correct": false,
           "feedback": "Este es el valor de f(1), no de la derivada."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "1",
           "is_correct": true,
           "feedback": "Correcto. $f'(x) = 3x^2 - 2$. En $x = 1$, $f'(1) = 3(1)^2 - 2 = 1$."
@@ -442,7 +442,7 @@
           "feedback": "Error de cálculo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La pendiente de la recta tangente en un punto coincide exactamente con el valor de la derivada en dicho punto. Es una de las aplicaciones más directas del cálculo diferencial.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -655,19 +655,19 @@
           "feedback": "Esta regla solo vale para base constante y exponente variable."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "$x^x \\cdot (1 + \\ln x)$",
           "is_correct": true,
           "feedback": "Correcto. Derivada de $e^{x \\ln x} = e^{x \\ln x} \\cdot (1 \\cdot \\ln x + x \\cdot 1/x) = x^x(1 + \\ln x)$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$1 + \\ln x$",
           "is_correct": false,
           "feedback": "Falta el factor de la función original."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Cuando tanto la base como el exponente dependen de $x$, se debe transformar la función a base $e$ o usar derivación logarítmica para aplicar correctamente las reglas.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -874,25 +874,25 @@
           "feedback": "Esto lo indica la primera derivada."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Si es positiva, la función es convexa (curvatura hacia arriba).",
           "is_correct": true,
           "feedback": "Correcto. Indica que la pendiente de la tangente está aumentando."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Si es positiva, la función tiene un máximo.",
           "is_correct": false,
           "feedback": "Tendría un mínimo si f'(x)=0 y f''(x)>0."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Si es positiva, la función es constante.",
           "is_correct": false,
           "feedback": "La derivada segunda sería cero."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La derivada segunda mide la rapidez con la que cambia la pendiente. Una derivada segunda positiva significa que la curva \"se dobla\" hacia arriba, definiendo la convexidad.\n\n[//]: # (QUALITY_REVIEW)\n| Dimensión | Puntuación |\n|-----------|------------|\n| Técnico | 30/30 |\n| Curricular | 40/40 |\n| Contexto | 20/20 |\n| Redacción | 10/10 |\n| **Total** | **100/100** |",
       "difficulty": "10",
       "images": [],

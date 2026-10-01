@@ -13,13 +13,13 @@
       "context": "En una clase de ecología del Colegio Mayor de San Bartolome, en Bogotá, se introduce el concepto de biodiversidad a los estudiantes de grado 8.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La variedad de seres vivos, sus diferencias geneticas y los ecosistemas que ellos conforman.",
           "is_correct": true,
           "feedback": "Correcto. La biodiversidad incluye tres niveles: genes, especies y ecosistemas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La cantidad total de rocas y minerales existentes en un país.",
           "is_correct": false,
           "feedback": "Incorrecto. Las rocas pertenecen al reino mineral, no a la biodiversidad."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. La agrobiodiversidad es apenas una pequeña parte del total."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La biodiversidad tiene tres niveles: la diversidad genética dentro de una misma especie, la diversidad de especies (riqueza y abundancia) y la diversidad de ecosistemas. Colombia es uno de los países más biodiversos del mundo por encontrarse en zona tropical, con costas en dos oceanos y tres cordilleras andinas.",
       "difficulty": "4",
       "images": [],
@@ -105,31 +105,31 @@
       "context": "En la Reserva Natural de Aves de Colibries en Calarcá, Quindío, el guia señala que el colibri paramuno existe solo allí.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Que se encuentra de forma natural solo en una región geográfica específica, en este caso Colombia.",
           "is_correct": true,
           "feedback": "Correcto. El endemismo es la presencia natural restringida a una zona determinada."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Que la especie fue traída de otro continente por el hombre.",
           "is_correct": false,
           "feedback": "Incorrecto. Eso corresponde a una especie introducida, no endémica."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Que la especie solo vive en zonas climáticas frías.",
           "is_correct": false,
           "feedback": "Incorrecto. El endemismo no depende del clima sino del área geográfica."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Que la especie fue descubierta en otro país pero migró a Colombia.",
           "is_correct": false,
           "feedback": "Incorrecto. La migracion periodica no define endemismo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El endemismo es la condición de una especie cuya distribución geográfica natural se limita a un área específica. Colombia posee más de 3.000 especies de plantas endémicas y cerca de 70 de aves endémicas, gracias a su variedad de habitats y al aislamiento orografico de los Andes.",
       "difficulty": "4",
       "images": [],
@@ -151,13 +151,13 @@
       "context": "En una salida pedagogica del Colegio Nicolas de Federman, en Zipaquirá, los estudiantes suben desde los 2.600 m hasta los 3.400 m y observan cambios en la vegetación.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La altitud y, por tanto, la temperatura y la humedad disponibles.",
           "is_correct": true,
           "feedback": "Correcto. La altitud modifica la temperatura y genera pisos termicos distintos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La cantidad de antenas de telefonia instaladas en la montaña.",
           "is_correct": false,
           "feedback": "Incorrecto. Las antenas no determinan la distribución natural de las plantas."
@@ -175,7 +175,7 @@
           "feedback": "Incorrecto. Los senderos son infraestructura humana, no factor ecológico."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "En Colombia los pisos termicos se distribuyen asi: tropical de 0 a 1.000 m, subtropical de 1.000 a 2.000 m, templado de 2.000 a 3.000 m y frio o paramuno por encima de 3.000 m. A mayor altitud disminuye la temperatura cerca de 0,6 grados centigrados por cada 100 metros, lo que condiciona la vegetación.",
       "difficulty": "6",
       "images": [],
@@ -197,19 +197,19 @@
       "context": "En el Herbario Nacional Colombiano, en Bogotá, los estudiantes observan especímenes de frailejones recolectados en el páramo de Sumapaz.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "A la familia Asteraceae (compuestas).",
           "is_correct": true,
           "feedback": "Correcto. Los frailejones (Espeletia) pertenecen a la familia Asteraceae."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "A la familia de los cactus tipicos del desierto.",
           "is_correct": false,
           "feedback": "Incorrecto. Los cactus viven en zonas aridas, no en páramos humedos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "A la familia de las palmas tropicales del Pacífico.",
           "is_correct": false,
           "feedback": "Incorrecto. Las palmas no resisten las heladas de los páramos."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto. Los pinos son coniferas tipicas de zonas templadas, no páramos tropicales."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Los frailejones del género Espeletia pertenecen a la familia Asteraceae, endémica de los páramos de los Andes del Norte. Desarrollan adaptaciones como las hojas pubescentes, las rosetas que atrapan humedad y las raices profundas que les permiten sobrevivir a fuertes radiaciones UV y heladas nocturnas.",
       "difficulty": "6",
       "images": [],
@@ -289,19 +289,19 @@
       "context": "En el Parque Nacional Natural Gorgona, en el Pacífico colombiano, los biólogos marinos muestran un ecosistema de selva húmeda tropical sobre una isla.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Conservar muestras representativas de los ecosistemas naturales del país y los servicios ecosistémicos asociados.",
           "is_correct": true,
           "feedback": "Correcto. El SINAP busca preservar ecosistemas estrategicos y biodiversidad."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Privatizar todas las areas naturales para explotación turística masiva.",
           "is_correct": false,
           "feedback": "Incorrecto. Las areas protegidas tienen régimen especial de uso restrictivo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Convertir los parques en zonas francas para instalar fabricas.",
           "is_correct": false,
           "feedback": "Incorrecto. La zonificacion industrial está prohibida en parques."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecto. El SINAP permite comunidades indígenas y zonas de uso sostenible."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Colombia cuenta con 59 parques nacionales naturales, resguardos indígenas y reservas de la sociedad civil que cubren cerca del 16 por ciento del territorio continental y maritimo. El objetivo del SINAP es proteger biodiversidad, agua, suelo, paisaje, cultura y servicios ecosistémicos bajo distintas categorías de manejo.",
       "difficulty": "6",
       "images": [],
@@ -335,19 +335,19 @@
       "context": "En un foro ambiental organizado por la Corporacion Autonoma Regional del Valle del Cauca (CVC), se analizan las causas de la deforestación en el Chocó biogeografico.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Deforestación para minería, expansión agrícola, explotación maderera y vías sin control ambiental.",
           "is_correct": true,
           "feedback": "Correcto. Son las principales presiones documentadas sobre el Chocó."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Excesiva protección estatal que limita todo uso humano tradicional.",
           "is_correct": false,
           "feedback": "Incorrecto. La protección suele ser insuficiente, no excesiva."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Disminucion del nivel del mar en el océano Pacífico.",
           "is_correct": false,
           "feedback": "Incorrecto. El nivel del mar está aumentando por el cambio climático."
@@ -359,7 +359,7 @@
           "feedback": "Incorrecto. Las areas protegidas en otros países no amenazan al Chocó."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La región del Chocó biogeografico colombiano es una de las más lluviosas del planeta y alberga alta endemismo. Sin embargo, sufre deforestación por minería mecanizada e ilegal de oro, expansión de la frontera agropecuaria, tala selectiva y apertura de vías sin planes de manejo ambiental, todo ello agravado por conflicto armado.",
       "difficulty": "8",
       "images": [],
@@ -381,13 +381,13 @@
       "context": "En el laboratorio de ecología de la Universidad del Quindío, en Armenia, se comparan datos de riqueza de especies entre tres regiones de Colombia.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Cada región aporta contribuciones distintas a la biodiversidad nacional, por lo que su protección debe ser diferenciada.",
           "is_correct": true,
           "feedback": "Correcto. Conservar la biodiversidad implica estrategias adaptadas a cada bioma."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Solo la Amazonía merece protección porque es la más rica en angiospermas.",
           "is_correct": false,
           "feedback": "Incorrecto. Las tres regiones son complementarias y prioritarias."
@@ -405,7 +405,7 @@
           "feedback": "Incorrecto. El Chocó es de los lugares más ricos en plantas por metro cuadrado."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La biodiversidad se mide en términos de riqueza (número de especies), abundancia relativa y endemismo. Las tres regiones ofrecen contribuciones complementarias: la Amazonía por extension, el Chocó por concentracion de endemismos por hectarea, y los páramos por adaptacion y provision de agua. Por eso la política ambiental debe ser diferenciada.",
       "difficulty": "8",
       "images": [],
@@ -427,13 +427,13 @@
       "context": "En un estudio de la Universidad Nacional sede Amazonía, en Leticia, se compara la tasa de endemismo entre el PNN Cahuinari y la Serranía de Chiribiquete.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Por su aislamiento geografico sobre mesetas de arenisca (tepuyes) y condiciones climáticas particulares.",
           "is_correct": true,
           "feedback": "Correcto. El aislamiento geologico y climático favorece la especiacion alopatrica."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque es la región más contaminada del país y eso genera nuevas especies.",
           "is_correct": false,
           "feedback": "Incorrecto. La contaminación no genera endemismo, lo reduce."
@@ -451,7 +451,7 @@
           "feedback": "Correcto parcialmente en preferencia, pero la causa biológica es el aislamiento, no el muestreo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La Serranía de Chiribiquete es un escudo guayanes con mesetas tabulares de arenisca llamadas tepuyes. Su altitud relativa genera microclimas aislados que promueven especiacion alopatrica. Además, su lejania historica y dificil acceso han limitado la llegada de especies invasoras y la perturbacion humana.",
       "difficulty": "8",
       "images": [],
@@ -473,13 +473,13 @@
       "context": "La Corporacion Autonoma Regional de Cundinamarca (CAR) debe priorizar dos proyectos de conservación con presupuesto limitado en zonas de páramo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Comprar predios para restaurar areas degradadas y conectarlas con areas protegidas existentes.",
           "is_correct": true,
           "feedback": "Correcto. La restauración y la conectividad biológica ofrecen resultados a largo plazo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Construir una autopista de cuatro carriles cruzando el páramo.",
           "is_correct": false,
           "feedback": "Incorrecto. La autopista fragmentaria el ecosistema y no es estrategia de conservación."
@@ -497,7 +497,7 @@
           "feedback": "Incorrecto. La minería destruye los suelos y el régimen hídrico del páramo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La restauración ecológica, la compra de predios en cuencas estrategicas y la conectividad de areas protegidas son medidas validadas por la ciencia. Inversiones en infraestructura invasiva o en actividades extractivas generan perdidas de servicios ecosistémicos cuyo costo economico supera cualquier beneficio privado.",
       "difficulty": "10",
       "images": [],

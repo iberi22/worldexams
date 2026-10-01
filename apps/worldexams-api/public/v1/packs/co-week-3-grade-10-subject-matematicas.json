@@ -13,19 +13,19 @@
       "context": "En Bogotá, durante la clase de trigonometría se repasan las identidades fundamentales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$\\operatorname{sen}^2 x + \\cos^2 x = 1$",
           "is_correct": true,
           "feedback": "Correcto. Es la identidad pitagórica fundamental, válida para todo ángulo $x$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\operatorname{sen}^2 x - \\cos^2 x = 1$",
           "is_correct": false,
           "feedback": "Incorrecto. La resta de los cuadrados no es $1$; equivale a $-\\cos(2x)$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\operatorname{sen} x + \\cos x = 1$",
           "is_correct": false,
           "feedback": "Incorrecto. Solo se cumple para valores particulares de $x$, no para todos."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. El producto de los cuadrados no es constante igual a $1$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La identidad pitagórica fundamental $\\operatorname{sen}^2 x + \\cos^2 x = 1$ se deduce del teorema de Pitágoras aplicado al círculo unitario.",
       "difficulty": "4",
       "images": [],
@@ -59,31 +59,31 @@
       "context": "En Medellín, un estudiante conoce que $\\cos \\theta = 0.6$ y que $\\theta$ está en el primer cuadrante.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$0.8$",
           "is_correct": true,
           "feedback": "Correcto. $\\operatorname{sen}^2 \\theta = 1 - 0.36 = 0.64$, por lo que $\\operatorname{sen} \\theta = 0.8$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$0.4$",
           "is_correct": false,
           "feedback": "Incorrecto. Restaste $0.6$ de $1$ sin tomar raíz cuadrada."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$0.6$",
           "is_correct": false,
           "feedback": "Incorrecto. Confundiste el valor de $\\cos \\theta$ con el de $\\operatorname{sen} \\theta$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$0.9$",
           "is_correct": false,
           "feedback": "Incorrecto. No aplicaste correctamente la relación pitagórica."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Como $\\operatorname{sen}^2 \\theta + \\cos^2 \\theta = 1$, entonces $\\operatorname{sen}^2 \\theta = 1 - 0.6^2 = 0.64$ y $\\operatorname{sen} \\theta = 0.8$ (positivo en el primer cuadrante).",
       "difficulty": "4",
       "images": [],
@@ -105,31 +105,31 @@
       "context": "En Cali, se simplifican expresiones trigonométricas usando identidades recíprocas y de cociente.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$\\operatorname{sen} x$",
           "is_correct": true,
           "feedback": "Correcto. $\\tan x = \\frac{\\operatorname{sen} x}{\\cos x}$, luego $\\tan x \\cdot \\cos x = \\operatorname{sen} x$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\cos x$",
           "is_correct": false,
           "feedback": "Incorrecto. No se cancela el coseno del numerador con el factor."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$1$",
           "is_correct": false,
           "feedback": "Incorrecto. $1$ resulta solo si multiplicaras por $\\sec x$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$\\tan x$",
           "is_correct": false,
           "feedback": "Incorrecto. No simplificaste el producto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Al escribir $\\tan x = \\frac{\\operatorname{sen} x}{\\cos x}$ y multiplicar por $\\cos x$, el coseno se cancela y queda $\\operatorname{sen} x$.",
       "difficulty": "4",
       "images": [],
@@ -151,13 +151,13 @@
       "context": "En Barranquilla, un estudiante simplifica la fracción $\\frac{\\operatorname{sen}^2 x}{1 - \\cos^2 x}$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$1$",
           "is_correct": true,
           "feedback": "Correcto. Como $1 - \\cos^2 x = \\operatorname{sen}^2 x$, la fracción es $\\frac{\\operatorname{sen}^2 x}{\\operatorname{sen}^2 x} = 1$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\operatorname{sen} x$",
           "is_correct": false,
           "feedback": "Incorrecto. Solo se cancelaría un factor de seno si el numerador fuera $\\operatorname{sen} x$."
@@ -175,7 +175,7 @@
           "feedback": "Incorrecto. No queda un cociente entre seno y coseno."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Usando $\\operatorname{sen}^2 x = 1 - \\cos^2 x$, la expresión se reduce a $\\frac{\\operatorname{sen}^2 x}{\\operatorname{sen}^2 x} = 1$.",
       "difficulty": "6",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "En Bucaramanga, se evalúa la expresión $\\operatorname{sen} x \\cdot \\csc x + \\cos x \\cdot \\sec x$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$2$",
           "is_correct": true,
           "feedback": "Correcto. $\\operatorname{sen} x \\cdot \\csc x = 1$ y $\\cos x \\cdot \\sec x = 1$; la suma es $2$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$1$",
           "is_correct": false,
           "feedback": "Incorrecto. Cada producto vale $1$, pero hay dos productos."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto. No aplicaste las identidades recíprocas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Por las identidades recíprocas, $\\csc x = \\frac{1}{\\operatorname{sen} x}$ y $\\sec x = \\frac{1}{\\cos x}$, así cada producto vale $1$ y la suma es $2$.",
       "difficulty": "6",
       "images": [],
@@ -243,19 +243,19 @@
       "context": "En Pereira, se simplifica la expresión $(1 - \\operatorname{sen}^2 x) \\cdot \\csc^2 x$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$\\cot^2 x$",
           "is_correct": true,
           "feedback": "Correcto. $1 - \\operatorname{sen}^2 x = \\cos^2 x$ y $\\csc^2 x = \\frac{1}{\\operatorname{sen}^2 x}$, luego $\\frac{\\cos^2 x}{\\operatorname{sen}^2 x} = \\cot^2 x$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\tan^2 x$",
           "is_correct": false,
           "feedback": "Incorrecto. Sería $\\frac{\\operatorname{sen}^2 x}{\\cos^2 x}$, la relación inversa."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$1$",
           "is_correct": false,
           "feedback": "Incorrecto. Solo sería $1$ si ambas funciones coincidieran."
@@ -267,7 +267,7 @@
           "feedback": "Incorrecto. Confundiste la relación recíproca."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "$\\cos^2 x \\cdot \\frac{1}{\\operatorname{sen}^2 x} = \\frac{\\cos^2 x}{\\operatorname{sen}^2 x} = \\cot^2 x$.",
       "difficulty": "6",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "En Manizales, un estudiante simplifica $\\frac{\\sec x - \\cos x}{\\tan x}$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$\\operatorname{sen} x$",
           "is_correct": true,
           "feedback": "Correcto. $\\sec x - \\cos x = \\frac{1-\\cos^2 x}{\\cos x} = \\frac{\\operatorname{sen}^2 x}{\\cos x}$; al dividir por $\\tan x = \\frac{\\operatorname{sen} x}{\\cos x}$ queda $\\operatorname{sen} x$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\cos x$",
           "is_correct": false,
           "feedback": "Incorrecto. La cancelación deja un seno, no un coseno."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecto. No simplificaste la diferencia y el cociente."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Escribiendo $\\sec x = \\frac{1}{\\cos x}$ y $\\tan x = \\frac{\\operatorname{sen} x}{\\cos x}$, la expresión se reduce paso a paso a $\\operatorname{sen} x$.",
       "difficulty": "8",
       "images": [],
@@ -335,19 +335,19 @@
       "context": "En Cúcuta, se sabe que $\\operatorname{sen} \\theta = \\frac{3}{5}$ con $\\theta$ en el primer cuadrante.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$\\frac{3}{4}$",
           "is_correct": true,
           "feedback": "Correcto. $\\cos \\theta = \\frac{4}{5}$ por Pitágoras; $\\tan \\theta = \\frac{3/5}{4/5} = \\frac{3}{4}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\frac{4}{3}$",
           "is_correct": false,
           "feedback": "Incorrecto. Invertiste la razón; ese sería el valor de $\\cot \\theta$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\frac{3}{5}$",
           "is_correct": false,
           "feedback": "Incorrecto. Ese es el valor del seno, no de la tangente."
@@ -359,7 +359,7 @@
           "feedback": "Incorrecto. Ese es el recíproco del seno."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Por Pitágoras, $\\cos \\theta = \\sqrt{1 - (3/5)^2} = \\frac{4}{5}$. Entonces $\\tan \\theta = \\frac{\\operatorname{sen} \\theta}{\\cos \\theta} = \\frac{3/5}{4/5} = \\frac{3}{4}$.",
       "difficulty": "8",
       "images": [],
@@ -381,13 +381,13 @@
       "context": "En Pasto, se factoriza la diferencia de cuadrados $\\operatorname{sen}^4 x - \\cos^4 x$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$\\operatorname{sen}^2 x - \\cos^2 x$",
           "is_correct": true,
           "feedback": "Correcto. Se factoriza como $(\\operatorname{sen}^2 x - \\cos^2 x)(\\operatorname{sen}^2 x + \\cos^2 x)$ y el segundo factor vale $1$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$1$",
           "is_correct": false,
           "feedback": "Incorrecto. La suma de cuadrados vale $1$, pero la diferencia no."
@@ -405,7 +405,7 @@
           "feedback": "Incorrecto. $\\cos(2x) = \\cos^2 x - \\operatorname{sen}^2 x$, el negativo de la expresión."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "$\\operatorname{sen}^4 x - \\cos^4 x = (\\operatorname{sen}^2 x - \\cos^2 x)(\\operatorname{sen}^2 x + \\cos^2 x) = \\operatorname{sen}^2 x - \\cos^2 x$.",
       "difficulty": "8",
       "images": [],
@@ -427,31 +427,31 @@
       "context": "En Armenia, se debe decidir cuál de las siguientes ecuaciones es una identidad verdadera para todo $x$ en su dominio.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$1 + \\tan^2 x = \\sec^2 x$",
           "is_correct": true,
           "feedback": "Correcto. Al dividir $\\operatorname{sen}^2 x + \\cos^2 x = 1$ entre $\\cos^2 x$ se obtiene esta identidad."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\operatorname{sen}(2x) = 2\\operatorname{sen} x$",
           "is_correct": false,
           "feedback": "Incorrecto. Solo es cierta para ángulos particulares, no para todos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\operatorname{sen}^2 x - \\cos^2 x = 1$",
           "is_correct": false,
           "feedback": "Incorrecto. Eso equivale a $-\\cos(2x)$, no a $1$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$\\operatorname{sen} x = 1 - \\cos x$",
           "is_correct": false,
           "feedback": "Incorrecto. No se cumple de forma general."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La identidad $1 + \\tan^2 x = \\sec^2 x$ se obtiene de dividir la identidad pitagórica entre $\\cos^2 x$. Las demás son ecuaciones falsas en general.",
       "difficulty": "10",
       "images": [],
@@ -473,31 +473,31 @@
       "context": "En Ibagué, se sabe que $\\operatorname{sen} x + \\cos x = 1.2$ para cierto ángulo $x$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$0.44$",
           "is_correct": true,
           "feedback": "Correcto. $(\\operatorname{sen} x + \\cos x)^2 = 1 + \\operatorname{sen}(2x) = 1.44$, luego $\\operatorname{sen}(2x) = 0.44$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$0.6$",
           "is_correct": false,
           "feedback": "Incorrecto. No elevaste la suma al cuadrado correctamente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$0.2$",
           "is_correct": false,
           "feedback": "Incorrecto. Restaste mal el $1$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$1.44$",
           "is_correct": false,
           "feedback": "Incorrecto. $1.44$ es la suma al cuadrado, no el valor de $\\operatorname{sen}(2x)$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Al elevar al cuadrado: $\\operatorname{sen}^2 x + \\cos^2 x + 2\\operatorname{sen} x \\cos x = 1 + \\operatorname{sen}(2x) = 1.2^2 = 1.44$, entonces $\\operatorname{sen}(2x) = 0.44$.",
       "difficulty": "10",
       "images": [],
@@ -519,31 +519,31 @@
       "context": "En Villavicencio, se resuelve para el ángulo agudo $\\theta$ la ecuación $\\sec^2 \\theta - \\tan^2 \\theta + \\cos \\theta = 1.5$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$\\frac{\\sqrt{3}}{2}$",
           "is_correct": true,
           "feedback": "Correcto. $\\sec^2 \\theta - \\tan^2 \\theta = 1$, luego $1 + \\cos \\theta = 1.5$ implica $\\cos \\theta = 0.5$, $\\theta = 60^\\circ$ y $\\operatorname{sen} 60^\\circ = \\frac{\\sqrt{3}}{2}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\frac{1}{2}$",
           "is_correct": false,
           "feedback": "Incorrecto. $\\frac{1}{2}$ es el coseno de $60^\\circ$, no su seno."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\frac{\\sqrt{2}}{2}$",
           "is_correct": false,
           "feedback": "Incorrecto. Corresponde a un ángulo de $45^\\circ$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$1$",
           "is_correct": false,
           "feedback": "Incorrecto. El seno es $1$ solo para $\\theta = 90^\\circ$, que no es agudo aquí."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La identidad $\\sec^2 \\theta - \\tan^2 \\theta = 1$ reduce la ecuación a $\\cos \\theta = 0.5$, es decir $\\theta = 60^\\circ$, cuyo seno es $\\frac{\\sqrt{3}}{2}$.",
       "difficulty": "10",
       "images": [],

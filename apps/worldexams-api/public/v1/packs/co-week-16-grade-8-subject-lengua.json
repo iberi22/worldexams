@@ -19,13 +19,13 @@
           "feedback": "Martí es un precursor fundamental, pero el liderazgo del movimiento consolidado fue de Darío."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Rubén Darío",
           "is_correct": true,
           "feedback": "Su obra renovó el lenguaje poético hispanoamericano con una musicalidad y elegancia únicas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Gabriel García Márquez",
           "is_correct": false,
           "feedback": "Gabo pertenece al Realismo Mágico del siglo XX."
@@ -37,7 +37,7 @@
           "feedback": "Neruda es un gran poeta chileno posterior, vinculado a las vanguardias y la poesía social."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Rubén Darío sintetizó las influencias francesas (Parnasianismo y Simbolismo) para crear una estética propia que unificó a los escritores de lengua española.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -59,19 +59,19 @@
       "context": "El Modernismo busca la belleza absoluta, alejándose de la realidad cotidiana y vulgar mediante el uso de mundos exóticos y elegantes.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El águila",
           "is_correct": false,
           "feedback": "El águila suele simbolizar el poder y el imperio, no necesariamente la estética modernista."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "El cóndor",
           "is_correct": false,
           "feedback": "El cóndor es un símbolo nacional andino, usado más en literatura patriótica."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "El cisne",
           "is_correct": true,
           "feedback": "Por su cuello en forma de interrogación y su blancura, se convirtió en el emblema de la búsqueda estética."
@@ -83,7 +83,7 @@
           "feedback": "El león representa la fuerza y el valor, ajenos a la delicadeza modernista."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "El cisne encarna el ideal de belleza pura y melancólica que perseguían los poetas modernistas frente a un mundo materialista.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -111,13 +111,13 @@
           "feedback": "El endecasílabo (11 sílabas) nunca dejó de usarse desde el Renacimiento."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Octosílabo",
           "is_correct": false,
           "feedback": "El octosílabo (8 sílabas) es el verso más común del romance y la poesía popular."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Alejandrino",
           "is_correct": true,
           "feedback": "El verso alejandrino fue revitalizado con nuevos ritmos y acentuaciones por Rubén Darío y sus seguidores."
@@ -129,7 +129,7 @@
           "feedback": "El heptasílabo (7 sílabas) suele usarse en combinación con el endecasílabo."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "La recuperación del alejandrino permitió a los modernistas lograr una mayor sonoridad y amplitud en sus composiciones poéticas.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "La sinestesia es una figura retórica muy común en el Modernismo que consiste en mezclar sensaciones de sentidos distintos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Metáfora pura",
           "is_correct": false,
           "feedback": "Aunque es una figura de sustitución, la mezcla de sentidos tiene un nombre específico."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Sinestesia",
           "is_correct": true,
           "feedback": "Busca crear una experiencia sensorial total, asociando colores con sonidos o sabores con olores."
@@ -221,7 +221,7 @@
           "feedback": "No se atribuyen cualidades humanas a objetos inanimados."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La sinestesia refleja la búsqueda modernista de la correspondencia entre todas las artes (música, pintura, literatura) y las sensaciones.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -249,25 +249,25 @@
           "feedback": "El poema es profundamente melancólico y fúnebre."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "El uso de versos de extensión variable que imitan el ritmo de la respiración o de los latidos.",
           "is_correct": true,
           "feedback": "Rompió con la métrica rígida para lograr una musicalidad sugerente y sombría."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Escribir todo el poema en letras mayúsculas para gritar su dolor.",
           "is_correct": false,
           "feedback": "La fuerza reside en el ritmo y las imágenes, no en recursos tipográficos básicos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El uso exclusivo de palabras en inglés para que pareciera más moderno.",
           "is_correct": false,
           "feedback": "Silva renovó el castellano desde dentro, sin necesidad de extranjerismos innecesarios."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Silva es un precursor del Modernismo que exploró la capacidad del lenguaje para sugerir estados de ánimo oscuros y misteriosos mediante el ritmo.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -427,19 +427,19 @@
       "context": "El Modernismo influyó en España a través de la Generación del 98, aunque estos autores buscaron una sobriedad mayor.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Machado escribía en francés y Darío en nicaragüense.",
           "is_correct": false,
           "feedback": "Ambos escribían en un español riquísimo y renovado."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Darío era muy triste y Machado era un poeta muy alegre y cómico.",
           "is_correct": false,
           "feedback": "Ambos tienen una vena melancólica, pero Machado es más austero."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Darío prefería el lujo y el exotismo; Machado prefería la sencillez, la austeridad y el paisaje de Castilla.",
           "is_correct": true,
           "feedback": "Machado eliminó los \"adornos\" modernistas para buscar la esencia del alma española."
@@ -451,7 +451,7 @@
           "feedback": "Machado admiraba a Darío pero creó una estética propia, más sobria y filosófica."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "El Modernismo fue la base técnica para muchos autores españoles que luego derivaron hacia una poesía más desnuda y centrada en los problemas nacionales.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -485,19 +485,19 @@
           "feedback": "Eran traductores excelentes que conocían bien el original."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Al integrar esas influencias con la tradición clásica española y la sensibilidad propia de América Latina.",
           "is_correct": true,
           "feedback": "Crearon una síntesis nueva que no existía ni en Francia ni en España hasta ese momento."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Prohibiendo que se leyera cualquier libro que no fuera escrito en Nicaragua.",
           "is_correct": false,
           "feedback": "El Modernismo fue un movimiento cosmopolita abierto a todas las culturas del mundo."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La originalidad del Modernismo reside en su capacidad de hibridación, tomando lo mejor de Europa para fundar una voz literaria americana independiente y poderosa.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -519,19 +519,19 @@
       "context": "El Modernismo terminó alrededor de la Primera Guerra Mundial, dando paso a las Vanguardias.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La obligación de que todos los poemas hablen de cisnes y princesas.",
           "is_correct": false,
           "feedback": "Estos temas se abandonaron pronto por las nuevas generaciones."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "El uso de un lenguaje muy antiguo que ya nadie utiliza hoy.",
           "is_correct": false,
           "feedback": "El Modernismo modernizó el lenguaje, no lo hizo antiguo."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "La conquista de la libertad creativa, la modernización del lenguaje y el prestigio mundial de las letras hispanas.",
           "is_correct": true,
           "feedback": "Sin el Modernismo no habría sido posible el posterior \"boom\" latinoamericano."
@@ -543,7 +543,7 @@
           "feedback": "La ortografía se mantuvo estándar; lo que cambió fue la estética y el ritmo."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "El Modernismo dio a los escritores americanos la confianza de que podían liderar la lengua española y crear arte de validez universal, rompiendo la dependencia colonial.\n\n---",
       "difficulty": "10",
       "images": [],

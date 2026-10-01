@@ -59,13 +59,13 @@
       "context": "En una panadería de Villa de Leyva el panadero mete al horno una masa para pan y la saca blanda y caliente después de veinte minutos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Porque el calor del horno pasa a la masa hasta que su temperatura se iguala con la del aire del horno",
           "is_correct": true,
           "feedback": "Correcto. El calor fluye del cuerpo más caliente al más frío hasta equilibrar temperaturas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque el horno genera nueva materia dentro de la masa",
           "is_correct": false,
           "feedback": "Incorrecto. El horno no crea masa, solo transfiere energía calorífica."
@@ -83,7 +83,7 @@
           "feedback": "Incorrecto. El color no atrae ni genera calor."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El calor siempre pasa del cuerpo caliente al frío. Cuando dos cuerpos se tocan o están cerca, el calor se transfiere hasta que ambos quedan a la misma temperatura: ese estado se llama equilibrio térmico.",
       "difficulty": "4",
       "images": [],
@@ -105,13 +105,13 @@
       "context": "En la planta metalúrgica de Sogamoso, los técnicos calientan un anillo de cobre a 700 grados Celsius para montarlo después en una pieza grande.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Se dilata y su diámetro aumenta ligeramente",
           "is_correct": true,
           "feedback": "Correcto. Los metales sólidos se dilatan al subir la temperatura."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Se contrae para resistir mejor el calor del horno",
           "is_correct": false,
           "feedback": "Incorrecto. Los sólidos se dilatan al calentarse, no se contraen."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecto. A 700 grados Celsius el cobre sigue siendo sólido, no se evapora."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La dilatación térmica es el aumento de volumen de un cuerpo cuando su temperatura sube. Los metales sólidos como el cobre y el acero se dilatan de manera predecible y por eso ingenieros dejan juntas de expansión en puentes y rieles.",
       "difficulty": "6",
       "images": [],
@@ -151,31 +151,31 @@
       "context": "En la vereda de Soracá, cerca de Tunja, las instalaciones de agua tienen tubos de PVC enterrados y se han rajado en una helada nocturna.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Porque el agua al congelarse se dilata y empuja las paredes del tubo hasta romperlo",
           "is_correct": true,
           "feedback": "Correcto. El hielo ocupa más volumen que el agua líquida y rompe el tubo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque el PVC se encoge con el frío y aparecen grietas",
           "is_correct": false,
           "feedback": "Incorrecto. El PVC se contrae muy poco; el problema principal es la dilatación del agua al congelarse."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque el hielo dentro del tubo se vuelve más liviano y raspa las paredes",
           "is_correct": false,
           "feedback": "Incorrecto. El hielo es más duro, pero el daño ocurre por presión, no por roce."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Porque el suelo helado succiona las tuberías",
           "is_correct": false,
           "feedback": "Incorrecto. La tierra no succiona las tuberías; la presión la hace el agua al congelarse."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El agua es una excepción: al congelarse ocupa más volumen, no menos. Esa dilatación dentro de un tubo cerrado genera presión y agrieta paredes rígidas como el PVC o la cerámica.",
       "difficulty": "6",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "En el laboratorio de la I.E. Técnica de Duitama, los estudiantes sostienen el extremo de una barra de metal y acercan el otro extremo a una vela encendida.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La conducción, porque el calor viaja por dentro del metal de un extremo al otro",
           "is_correct": true,
           "feedback": "Correcto. La conducción transmite calor por contacto interno entre partículas del sólido."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La convección, porque el aire caliente sube y calienta la barra",
           "is_correct": false,
           "feedback": "Incorrecto. La convección ocurre en líquidos y gases, no dentro del metal sólido."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto. El metal no se evapora a la temperatura de una vela."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La conducción transmite calor entre partículas en contacto dentro de un sólido; la convección ocurre en fluidos y la radiación viaja por ondas electromagnéticas incluso por el vacío.",
       "difficulty": "6",
       "images": [],
@@ -243,19 +243,19 @@
       "context": "En una plaza de mercado de Sogamoso, un vendedor observa que el queso campesino se conserva mejor envuelto en hojas de fique que en bolsa plástica cerrada.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Las hojas de fique son mejores aislantes térmicos que el plástico, así el calor del ambiente entra más despacio al queso",
           "is_correct": true,
           "feedback": "Correcto. Un buen aislante térmico deja pasar poco calor por conducción."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El plástico genera frío dentro del queso por contacto",
           "is_correct": false,
           "feedback": "Incorrecto. El plástico no produce frío; solo es peor aislante."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Las hojas de fique enfrían el ambiente exterior",
           "is_correct": false,
           "feedback": "Incorrecto. Las hojas no enfrían el ambiente, solo retrasan la entrada del calor."
@@ -267,7 +267,7 @@
           "feedback": "Incorrecto. El queso se daña con calor y humedad, por eso importa el envase."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Analizar la conservación exige comparar la conductividad térmica de los materiales: conductores dejan pasar el calor con facilidad y aislantes lo frenan; el fique natural es un buen aislante y el plástico común no tanto.",
       "difficulty": "8",
       "images": [],
@@ -335,31 +335,31 @@
       "context": "En la cocina del colegio en Chiquinquirá, una señora prepara chocolate hirviente en una olla de aluminio y lo sirve en pocillos de barro.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "El barro es peor conductor térmico que el aluminio, así que transmite menos calor a la mano",
           "is_correct": true,
           "feedback": "Correcto. El barro tradicional es aislante térmico; el aluminio es conductor rápido."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El barro está más frío que el aluminio porque absorbió menos calor",
           "is_correct": false,
           "feedback": "Incorrecto. Ambos pocillos están a la misma temperatura del chocolate al inicio."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El aluminio se enfría más rápido y por eso la olla está fría",
           "is_correct": false,
           "feedback": "Incorrecto. El aluminio pierde calor más rápido que el barro, justamente por ser conductor."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La diferencia se debe al color de los materiales",
           "is_correct": false,
           "feedback": "Incorrecto. Lo importante es la conductividad, no el color."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Analizar materiales obliga a separar conductividad y color: el aluminio conduce el calor con facilidad y la mano se quema; el barro es aislante térmico y deja la superficie externa más tibia que se pueda sostener.",
       "difficulty": "8",
       "images": [],
@@ -381,13 +381,13 @@
       "context": "En un aviso de plaza en Tunja ofrecen un termo que promete mantener el agua hirviendo o fría durante 24 horas sin importar la temperatura exterior.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El aviso exagera, porque todo termo real pierde algo de calor por conducción, convección y radiación con el paso de las horas",
           "is_correct": true,
           "feedback": "Correcto. Ningún aislamiento es perfecto y siempre hay pérdida gradual de calor."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El aviso es cierto porque los termos usan magia para anular el calor",
           "is_correct": false,
           "feedback": "Incorrecto. No hay magia; todos los materiales reales intercambian energía."
@@ -405,7 +405,7 @@
           "feedback": "Incorrecto. Dejarlo al sol acelera la pérdida de calor hacia el ambiente."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Evaluar publicidad científica exige reconocer que ningún aislamiento es perfecto: el calor siempre encuentra camino de salida por conducción, convección y radiación; un buen termo reduce la velocidad de pérdida, no la elimina.",
       "difficulty": "10",
       "images": [],

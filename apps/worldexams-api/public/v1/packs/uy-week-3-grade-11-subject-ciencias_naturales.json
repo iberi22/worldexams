@@ -13,19 +13,19 @@
       "context": "Durante una actividad de laboratorio en el Liceo N° 5 de Maldonado, Joaquín analiza la respiración celular mitocondrial.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "En la matriz mitocondrial interna.",
           "is_correct": true,
           "feedback": "Correcto. El ciclo de Krebs ocurre en la matriz mitocondrial gracias a enzimas solubles específicas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "En el espacio intermembrana que separa ambas bicapas.",
           "is_correct": false,
           "feedback": "Incorrecto. En esta zona se acumulan protones transitoriamente para generar el gradiente quimiosmótico."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "En las crestas formadas por la membrana mitocondrial interna.",
           "is_correct": false,
           "feedback": "Incorrecto. En las crestas se localizan las proteínas de la cadena transportadora de electrones y la ATP sintasa."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. La membrana externa es una barrera semipermeable de paso de metabolitos primarios."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La mitocondria aloja el ciclo de Krebs en la matriz y la cadena respiratoria en sus crestas, optimizando la síntesis de ATP. En este contexto, Joaquín de Maldonado determinó correctamente la respuesta correcta.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -58,13 +58,13 @@
       "context": "En la clase práctica del Liceo Piloto en Tacuarembó, Camila y sus compañeros debaten sobre el cloroplasto y la fotosíntesis.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Contener los fotosistemas y la cadena de transporte de electrones para la fase luminosa.",
           "is_correct": true,
           "feedback": "Correcto. La membrana del tilacoide alberga la clorofila y proteínas necesarias para convertir energía solar en química."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Sintetizar la enzima Rubisco para iniciar el ciclo de Calvin fijador.",
           "is_correct": false,
           "feedback": "Incorrecto. El ciclo de Calvin y la síntesis de la enzima Rubisco ocurren en el estroma soluble."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. El cloroplasto no se encarga de regular la distribución de grasas del retículo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La fase luminosa de la fotosíntesis ocurre en las membranas de los tilacoides, liberando oxígeno y generando NADPH y ATP. En este contexto, Camila de Tacuarembó determinó correctamente la respuesta correcta.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -103,19 +103,19 @@
       "context": "Para el proyecto final de ciencias en el Liceo N° 1 Departamental de Mercedes, Mateo investiga acerca de la síntesis y exportación de lípidos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "El retículo endoplasmático liso (REL).",
           "is_correct": true,
           "feedback": "Correcto. El REL carece de ribosomas y se especializa en la biosíntesis de fosfolípidos, colesterol y hormonas esteroideas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El retículo endoplasmático rugoso (RER).",
           "is_correct": false,
           "feedback": "Incorrecto. El RER se encarga principalmente de la síntesis y plegamiento de proteínas de exportación o membrana."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El aparato de Golgi con sus cisternas aplanadas.",
           "is_correct": false,
           "feedback": "Incorrecto. El Golgi empaqueta, clasifica y distribuye macromoléculas, modificándolas covalentemente."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. Los ribosomas se dedican exclusivamente a la síntesis de cadenas polipeptídicas de proteínas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El retículo endoplasmático liso detoxifica xenobióticos mediante enzimas de la familia del citocromo P450, abundando en hepatocitos. En este contexto, Mateo de Mercedes determinó correctamente la respuesta correcta.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -193,19 +193,19 @@
       "context": "En el taller de Ciencias Naturales en Canelones, Martín observa un modelo experimental de la respiración celular mitocondrial.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "En la matriz mitocondrial interna.",
           "is_correct": true,
           "feedback": "Correcto. El ciclo de Krebs ocurre en la matriz mitocondrial gracias a enzimas solubles específicas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "En el espacio intermembrana que separa ambas bicapas.",
           "is_correct": false,
           "feedback": "Incorrecto. En esta zona se acumulan protones transitoriamente para generar el gradiente quimiosmótico."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "En las crestas formadas por la membrana mitocondrial interna.",
           "is_correct": false,
           "feedback": "Incorrecto. En las crestas se localizan las proteínas de la cadena transportadora de electrones y la ATP sintasa."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. La membrana externa es una barrera semipermeable de paso de metabolitos primarios."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La mitocondria aloja el ciclo de Krebs en la matriz y la cadena respiratoria en sus crestas, optimizando la síntesis de ATP. En este contexto, Martín de Canelones determinó correctamente la respuesta correcta.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -283,19 +283,19 @@
       "context": "En la clase práctica del Liceo N° 5 en Maldonado, Gastón y sus compañeros debaten sobre la síntesis y exportación de lípidos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "El retículo endoplasmático liso (REL).",
           "is_correct": true,
           "feedback": "Correcto. El REL carece de ribosomas y se especializa en la biosíntesis de fosfolípidos, colesterol y hormonas esteroideas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El retículo endoplasmático rugoso (RER).",
           "is_correct": false,
           "feedback": "Incorrecto. El RER se encarga principalmente de la síntesis y plegamiento de proteínas de exportación o membrana."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El aparato de Golgi con sus cisternas aplanadas.",
           "is_correct": false,
           "feedback": "Incorrecto. El Golgi empaqueta, clasifica y distribuye macromoléculas, modificándolas covalentemente."
@@ -307,7 +307,7 @@
           "feedback": "Incorrecto. Los ribosomas se dedican exclusivamente a la síntesis de cadenas polipeptídicas de proteínas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El retículo endoplasmático liso detoxifica xenobióticos mediante enzimas de la familia del citocromo P450, abundando en hepatocitos. En este contexto, Gastón de Maldonado determinó correctamente la respuesta correcta.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -328,19 +328,19 @@
       "context": "Para el proyecto final de ciencias en el Liceo Piloto de Tacuarembó, Nicolás investiga acerca de los lisosomas y digestión celular.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Un ambiente ácido mantenido por bombas de protones activas que introducen iones H+.",
           "is_correct": true,
           "feedback": "Correcto. Las hidrolasas ácidas de los lisosomas requieren un pH óptimo cercano a 5.0 mantenido por bombas de protones."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Un medio alcalino concentrado con alta saturación de cationes de sodio.",
           "is_correct": false,
           "feedback": "Incorrecto. Un medio básico desnaturaliza y desactiva las enzimas hidrolíticas lisosomales."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Una solución neutra isotónica con nula actividad enzimática hidrolítica.",
           "is_correct": false,
           "feedback": "Incorrecto. A pH neutro celular (~7.2) las enzimas lisosomales pierden eficacia catalítica."
@@ -352,7 +352,7 @@
           "feedback": "Incorrecto. Las hidrolasas requieren agua para romper enlaces químicos covalentes mediante hidrólisis."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El bajo pH del lisosoma actúa como sistema de protección celular: si se rompe, las hidrolasas no dañan el citosol neutro. En este contexto, Nicolás de Tacuarembó determinó correctamente la respuesta correcta.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -418,19 +418,19 @@
       "context": "En el taller de Ciencias Naturales en Melo, Felipe observa un modelo experimental de el cloroplasto y la fotosíntesis.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Contener los fotosistemas y la cadena de transporte de electrones para la fase luminosa.",
           "is_correct": true,
           "feedback": "Correcto. La membrana del tilacoide alberga la clorofila y proteínas necesarias para convertir energía solar en química."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Sintetizar la enzima Rubisco para iniciar el ciclo de Calvin fijador.",
           "is_correct": false,
           "feedback": "Incorrecto. El ciclo de Calvin y la síntesis de la enzima Rubisco ocurren en el estroma soluble."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Almacenar el almidón de reserva resultante del metabolismo celular nocturno.",
           "is_correct": false,
           "feedback": "Incorrecto. Los granos de almidón se acumulan transitoriamente en el estroma, fuera de los tilacoides."
@@ -442,7 +442,7 @@
           "feedback": "Incorrecto. El cloroplasto no se encarga de regular la distribución de grasas del retículo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La fase luminosa de la fotosíntesis ocurre en las membranas de los tilacoides, liberando oxígeno y generando NADPH y ATP. En este contexto, Felipe de Melo determinó correctamente la respuesta correcta.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -463,31 +463,31 @@
       "context": "Durante una actividad de laboratorio en el Liceo N° 3 de Canelones, Juana analiza la síntesis y exportación de lípidos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "El retículo endoplasmático liso (REL).",
           "is_correct": true,
           "feedback": "Correcto. El REL carece de ribosomas y se especializa en la biosíntesis de fosfolípidos, colesterol y hormonas esteroideas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El retículo endoplasmático rugoso (RER).",
           "is_correct": false,
           "feedback": "Incorrecto. El RER se encarga principalmente de la síntesis y plegamiento de proteínas de exportación o membrana."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El aparato de Golgi con sus cisternas aplanadas.",
           "is_correct": false,
           "feedback": "Incorrecto. El Golgi empaqueta, clasifica y distribuye macromoléculas, modificándolas covalentemente."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Los ribosomas libres asociados a microtúbulos.",
           "is_correct": false,
           "feedback": "Incorrecto. Los ribosomas se dedican exclusivamente a la síntesis de cadenas polipeptídicas de proteínas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El retículo endoplasmático liso detoxifica xenobióticos mediante enzimas de la familia del citocromo P450, abundando en hepatocitos. En este contexto, Juana de Canelones determinó correctamente la respuesta correcta.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -508,31 +508,31 @@
       "context": "En la clase práctica del Liceo N° 4 en Montevideo, Ignacio y sus compañeros debaten sobre los lisosomas y digestión celular.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Un ambiente ácido mantenido por bombas de protones activas que introducen iones H+.",
           "is_correct": true,
           "feedback": "Correcto. Las hidrolasas ácidas de los lisosomas requieren un pH óptimo cercano a 5.0 mantenido por bombas de protones."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Un medio alcalino concentrado con alta saturación de cationes de sodio.",
           "is_correct": false,
           "feedback": "Incorrecto. Un medio básico desnaturaliza y desactiva las enzimas hidrolíticas lisosomales."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Una solución neutra isotónica con nula actividad enzimática hidrolítica.",
           "is_correct": false,
           "feedback": "Incorrecto. A pH neutro celular (~7.2) las enzimas lisosomales pierden eficacia catalítica."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Un fluido anhidro sin presencia de moléculas de agua reactivas.",
           "is_correct": false,
           "feedback": "Incorrecto. Las hidrolasas requieren agua para romper enlaces químicos covalentes mediante hidrólisis."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El bajo pH del lisosoma actúa como sistema de protección celular: si se rompe, las hidrolasas no dañan el citosol neutro. En este contexto, Ignacio de Montevideo determinó correctamente la respuesta correcta.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -553,13 +553,13 @@
       "context": "Para el proyecto final de ciencias en el Liceo N° 5 de Maldonado, Paula investiga acerca de la respiración celular mitocondrial.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "En la matriz mitocondrial interna.",
           "is_correct": true,
           "feedback": "Correcto. El ciclo de Krebs ocurre en la matriz mitocondrial gracias a enzimas solubles específicas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "En el espacio intermembrana que separa ambas bicapas.",
           "is_correct": false,
           "feedback": "Incorrecto. En esta zona se acumulan protones transitoriamente para generar el gradiente quimiosmótico."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. La membrana externa es una barrera semipermeable de paso de metabolitos primarios."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La mitocondria aloja el ciclo de Krebs en la matriz y la cadena respiratoria en sus crestas, optimizando la síntesis de ATP. En este contexto, Paula de Maldonado determinó correctamente la respuesta correcta.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -598,13 +598,13 @@
       "context": "Mientras repasa para el examen parcial en Tacuarembó, Diego estudia detenidamente el cloroplasto y la fotosíntesis.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Contener los fotosistemas y la cadena de transporte de electrones para la fase luminosa.",
           "is_correct": true,
           "feedback": "Correcto. La membrana del tilacoide alberga la clorofila y proteínas necesarias para convertir energía solar en química."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Sintetizar la enzima Rubisco para iniciar el ciclo de Calvin fijador.",
           "is_correct": false,
           "feedback": "Incorrecto. El ciclo de Calvin y la síntesis de la enzima Rubisco ocurren en el estroma soluble."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. El cloroplasto no se encarga de regular la distribución de grasas del retículo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La fase luminosa de la fotosíntesis ocurre en las membranas de los tilacoides, liberando oxígeno y generando NADPH y ATP. En este contexto, Diego de Tacuarembó determinó correctamente la respuesta correcta.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -643,31 +643,31 @@
       "context": "En el taller de Ciencias Naturales en Mercedes, Clara observa un modelo experimental de la síntesis y exportación de lípidos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "El retículo endoplasmático liso (REL).",
           "is_correct": true,
           "feedback": "Correcto. El REL carece de ribosomas y se especializa en la biosíntesis de fosfolípidos, colesterol y hormonas esteroideas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El retículo endoplasmático rugoso (RER).",
           "is_correct": false,
           "feedback": "Incorrecto. El RER se encarga principalmente de la síntesis y plegamiento de proteínas de exportación o membrana."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El aparato de Golgi con sus cisternas aplanadas.",
           "is_correct": false,
           "feedback": "Incorrecto. El Golgi empaqueta, clasifica y distribuye macromoléculas, modificándolas covalentemente."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Los ribosomas libres asociados a microtúbulos.",
           "is_correct": false,
           "feedback": "Incorrecto. Los ribosomas se dedican exclusivamente a la síntesis de cadenas polipeptídicas de proteínas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El retículo endoplasmático liso detoxifica xenobióticos mediante enzimas de la familia del citocromo P450, abundando en hepatocitos. En este contexto, Clara de Mercedes determinó correctamente la respuesta correcta.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -688,19 +688,19 @@
       "context": "Durante una actividad de laboratorio en el Liceo N° 2 de Melo, Agustín analiza los lisosomas y digestión celular.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Un ambiente ácido mantenido por bombas de protones activas que introducen iones H+.",
           "is_correct": true,
           "feedback": "Correcto. Las hidrolasas ácidas de los lisosomas requieren un pH óptimo cercano a 5.0 mantenido por bombas de protones."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Un medio alcalino concentrado con alta saturación de cationes de sodio.",
           "is_correct": false,
           "feedback": "Incorrecto. Un medio básico desnaturaliza y desactiva las enzimas hidrolíticas lisosomales."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Una solución neutra isotónica con nula actividad enzimática hidrolítica.",
           "is_correct": false,
           "feedback": "Incorrecto. A pH neutro celular (~7.2) las enzimas lisosomales pierden eficacia catalítica."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. Las hidrolasas requieren agua para romper enlaces químicos covalentes mediante hidrólisis."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El bajo pH del lisosoma actúa como sistema de protección celular: si se rompe, las hidrolasas no dañan el citosol neutro. En este contexto, Agustín de Melo determinó correctamente la respuesta correcta.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -733,13 +733,13 @@
       "context": "En la clase práctica del Liceo N° 3 en Canelones, Sebastián y sus compañeros debaten sobre la respiración celular mitocondrial.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "En la matriz mitocondrial interna.",
           "is_correct": true,
           "feedback": "Correcto. El ciclo de Krebs ocurre en la matriz mitocondrial gracias a enzimas solubles específicas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "En el espacio intermembrana que separa ambas bicapas.",
           "is_correct": false,
           "feedback": "Incorrecto. En esta zona se acumulan protones transitoriamente para generar el gradiente quimiosmótico."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. La membrana externa es una barrera semipermeable de paso de metabolitos primarios."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La mitocondria aloja el ciclo de Krebs en la matriz y la cadena respiratoria en sus crestas, optimizando la síntesis de ATP. En este contexto, Sebastián de Canelones determinó correctamente la respuesta correcta.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -778,13 +778,13 @@
       "context": "Para el proyecto final de ciencias en el Liceo N° 4 de Montevideo, Valentina investiga acerca de el cloroplasto y la fotosíntesis.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Contener los fotosistemas y la cadena de transporte de electrones para la fase luminosa.",
           "is_correct": true,
           "feedback": "Correcto. La membrana del tilacoide alberga la clorofila y proteínas necesarias para convertir energía solar en química."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Sintetizar la enzima Rubisco para iniciar el ciclo de Calvin fijador.",
           "is_correct": false,
           "feedback": "Incorrecto. El ciclo de Calvin y la síntesis de la enzima Rubisco ocurren en el estroma soluble."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. El cloroplasto no se encarga de regular la distribución de grasas del retículo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La fase luminosa de la fotosíntesis ocurre en las membranas de los tilacoides, liberando oxígeno y generando NADPH y ATP. En este contexto, Valentina de Montevideo determinó correctamente la respuesta correcta.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -868,19 +868,19 @@
       "context": "En el taller de Ciencias Naturales en Tacuarembó, Florencia observa un modelo experimental de los lisosomas y digestión celular.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Un ambiente ácido mantenido por bombas de protones activas que introducen iones H+.",
           "is_correct": true,
           "feedback": "Correcto. Las hidrolasas ácidas de los lisosomas requieren un pH óptimo cercano a 5.0 mantenido por bombas de protones."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Un medio alcalino concentrado con alta saturación de cationes de sodio.",
           "is_correct": false,
           "feedback": "Incorrecto. Un medio básico desnaturaliza y desactiva las enzimas hidrolíticas lisosomales."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Una solución neutra isotónica con nula actividad enzimática hidrolítica.",
           "is_correct": false,
           "feedback": "Incorrecto. A pH neutro celular (~7.2) las enzimas lisosomales pierden eficacia catalítica."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. Las hidrolasas requieren agua para romper enlaces químicos covalentes mediante hidrólisis."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El bajo pH del lisosoma actúa como sistema de protección celular: si se rompe, las hidrolasas no dañan el citosol neutro. En este contexto, Florencia de Tacuarembó determinó correctamente la respuesta correcta.",
       "difficulty": "10",
       "images": [],

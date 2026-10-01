@@ -13,19 +13,19 @@
       "context": "En Santa Cruz, el alumno Roxana del Colegio Nacional Santa Cruz simplifica expresiones y fracciones algebraicas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "a^2 + 2ab + b^2",
           "is_correct": true,
           "feedback": "¡Correcto! El cuadrado de un binomio es igual al cuadrado del primer término, más el doble producto del primero por el segundo, más el cuadrado del segundo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "a^2 + b^2",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste el término del doble producto cruzado (2ab), un error algebraico clásico."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "a^2 - 2ab + b^2",
           "is_correct": false,
           "feedback": "Incorrecto. Este es el desarrollo de (a - b)^2, no de (a + b)^2."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Olvidaste multiplicar por 2 el término cruzado de los factores."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El desarrollo algebraico de (a + b)^2 se obtiene multiplicando (a + b)(a + b) = a^2 + ab + ba + b^2 = a^2 + 2ab + b^2.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -58,31 +58,31 @@
       "context": "En Cochabamba, el alumno Jhonny del Colegio Nacional Sucre simplifica expresiones y fracciones algebraicas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "(x - y)(x + y)",
           "is_correct": true,
           "feedback": "¡Correcto! La diferencia de cuadrados de dos términos es igual al producto de la suma por la diferencia de dichos términos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "(x - y)^2",
           "is_correct": false,
           "feedback": "Incorrecto. Esto expande a x^2 - 2xy + y^2, no a x^2 - y^2."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "(x + y)^2",
           "is_correct": false,
           "feedback": "Incorrecto. Esto expande a x^2 + 2xy + y^2, no a x^2 - y^2."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "x^2 - 2xy + y^2",
           "is_correct": false,
           "feedback": "Incorrecto. Esta expresión es el trinomio de un binomio al cuadrado, no la forma factorizada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Por la regla de productos notables, la diferencia de cuadrados se descompone en el producto de binomios conjugados: (x - y)(x + y).\n\n---",
       "difficulty": "4",
       "images": [],
@@ -328,19 +328,19 @@
       "context": "En Cobija, el alumno Jaime del Colegio Nacional Trinidad simplifica expresiones y fracciones algebraicas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "(x + 8) / (x - 7)",
           "is_correct": true,
           "feedback": "¡Correcto! Al factorizar el numerador como diferencia de cuadrados y el denominador como un trinomio se cancela el factor común."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "x + 3",
           "is_correct": false,
           "feedback": "Incorrecto. No simplificaste de forma correcta todos los factores de la fracción algebraica."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "1",
           "is_correct": false,
           "feedback": "Incorrecto. La fracción no simplifica a una unidad constante."
@@ -352,7 +352,7 @@
           "feedback": "Incorrecto. Invertiste el sentido de los signos al realizar la cancelación del factor común."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Se descompone el numerador como diferencia de cuadrados (x - 8)(x + 8) y el denominador de manera equivalente, cancelando el término común no nulo.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -373,13 +373,13 @@
       "context": "En Trinidad, el alumno Marcela del Colegio Nacional Cobija simplifica expresiones y fracciones algebraicas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "(x + 9) / (x - 8)",
           "is_correct": true,
           "feedback": "¡Correcto! Al factorizar el numerador como diferencia de cuadrados y el denominador como un trinomio se cancela el factor común."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "x + 3",
           "is_correct": false,
           "feedback": "Incorrecto. No simplificaste de forma correcta todos los factores de la fracción algebraica."
@@ -397,7 +397,7 @@
           "feedback": "Incorrecto. Invertiste el sentido de los signos al realizar la cancelación del factor común."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Se descompone el numerador como diferencia de cuadrados (x - 9)(x + 9) y el denominador de manera equivalente, cancelando el término común no nulo.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -463,13 +463,13 @@
       "context": "En Santa Cruz, el alumno Roxana del Colegio Nacional Santa Cruz simplifica expresiones y fracciones algebraicas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "(x + 11) / (x - 10)",
           "is_correct": true,
           "feedback": "¡Correcto! Al factorizar el numerador como diferencia de cuadrados y el denominador como un trinomio se cancela el factor común."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "x + 3",
           "is_correct": false,
           "feedback": "Incorrecto. No simplificaste de forma correcta todos los factores de la fracción algebraica."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto. Invertiste el sentido de los signos al realizar la cancelación del factor común."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Se descompone el numerador como diferencia de cuadrados (x - 11)(x + 11) y el denominador de manera equivalente, cancelando el término común no nulo.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -508,13 +508,13 @@
       "context": "En Cochabamba, el alumno Jhonny del Colegio Nacional Sucre simplifica expresiones y fracciones algebraicas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "(x + 12) / (x - 11)",
           "is_correct": true,
           "feedback": "¡Correcto! Al factorizar el numerador como diferencia de cuadrados y el denominador como un trinomio se cancela el factor común."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "x + 3",
           "is_correct": false,
           "feedback": "Incorrecto. No simplificaste de forma correcta todos los factores de la fracción algebraica."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. Invertiste el sentido de los signos al realizar la cancelación del factor común."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Se descompone el numerador como diferencia de cuadrados (x - 12)(x + 12) y el denominador de manera equivalente, cancelando el término común no nulo.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -553,19 +553,19 @@
       "context": "En El Alto, el alumno Marisol del Colegio Nacional El Alto simplifica expresiones y fracciones algebraicas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "(x + 13) / (x - 12)",
           "is_correct": true,
           "feedback": "¡Correcto! Al factorizar el numerador como diferencia de cuadrados y el denominador como un trinomio se cancela el factor común."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "x + 3",
           "is_correct": false,
           "feedback": "Incorrecto. No simplificaste de forma correcta todos los factores de la fracción algebraica."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "1",
           "is_correct": false,
           "feedback": "Incorrecto. La fracción no simplifica a una unidad constante."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. Invertiste el sentido de los signos al realizar la cancelación del factor común."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Se descompone el numerador como diferencia de cuadrados (x - 13)(x + 13) y el denominador de manera equivalente, cancelando el término común no nulo.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -598,13 +598,13 @@
       "context": "En Sucre, el alumno Walter del Colegio Nacional Junín simplifica expresiones y fracciones algebraicas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "(x + 14) / (x - 13)",
           "is_correct": true,
           "feedback": "¡Correcto! Al factorizar el numerador como diferencia de cuadrados y el denominador como un trinomio se cancela el factor común."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "x + 3",
           "is_correct": false,
           "feedback": "Incorrecto. No simplificaste de forma correcta todos los factores de la fracción algebraica."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. Invertiste el sentido de los signos al realizar la cancelación del factor común."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Se descompone el numerador como diferencia de cuadrados (x - 14)(x + 14) y el denominador de manera equivalente, cancelando el término común no nulo.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -643,13 +643,13 @@
       "context": "En Tarija, el alumno Sonia del Colegio Nacional Bolivar simplifica expresiones y fracciones algebraicas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "(x + 15) / (x - 14)",
           "is_correct": true,
           "feedback": "¡Correcto! Al factorizar el numerador como diferencia de cuadrados y el denominador como un trinomio se cancela el factor común."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "x + 3",
           "is_correct": false,
           "feedback": "Incorrecto. No simplificaste de forma correcta todos los factores de la fracción algebraica."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. Invertiste el sentido de los signos al realizar la cancelación del factor común."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Se descompone el numerador como diferencia de cuadrados (x - 15)(x + 15) y el denominador de manera equivalente, cancelando el término común no nulo.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -733,31 +733,31 @@
       "context": "En Potosí, el alumno Yolanda del Colegio Nacional San Luis simplifica expresiones y fracciones algebraicas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "(x + 17) / (x - 16)",
           "is_correct": true,
           "feedback": "¡Correcto! Al factorizar el numerador como diferencia de cuadrados y el denominador como un trinomio se cancela el factor común."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "x + 3",
           "is_correct": false,
           "feedback": "Incorrecto. No simplificaste de forma correcta todos los factores de la fracción algebraica."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "1",
           "is_correct": false,
           "feedback": "Incorrecto. La fracción no simplifica a una unidad constante."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "(x - 17) / (x + 17)",
           "is_correct": false,
           "feedback": "Incorrecto. Invertiste el sentido de los signos al realizar la cancelación del factor común."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Se descompone el numerador como diferencia de cuadrados (x - 17)(x + 17) y el denominador de manera equivalente, cancelando el término común no nulo.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -868,19 +868,19 @@
       "context": "En La Paz, el alumno Grover del Colegio Nacional Ayacucho simplifica expresiones y fracciones algebraicas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "(x + 20) / (x - 19)",
           "is_correct": true,
           "feedback": "¡Correcto! Al factorizar el numerador como diferencia de cuadrados y el denominador como un trinomio se cancela el factor común."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "x + 3",
           "is_correct": false,
           "feedback": "Incorrecto. No simplificaste de forma correcta todos los factores de la fracción algebraica."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "1",
           "is_correct": false,
           "feedback": "Incorrecto. La fracción no simplifica a una unidad constante."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. Invertiste el sentido de los signos al realizar la cancelación del factor común."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Se descompone el numerador como diferencia de cuadrados (x - 20)(x + 20) y el denominador de manera equivalente, cancelando el término común no nulo.\n\n---",
       "difficulty": "10",
       "images": [],

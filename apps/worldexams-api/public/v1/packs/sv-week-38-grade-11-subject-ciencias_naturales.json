@@ -13,13 +13,13 @@
       "context": "Clase de ciencias en Mejicanos estudiando revision integral.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Fotosíntesis",
           "is_correct": true,
           "feedback": "¡Correcto!"
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Respiración celular",
           "is_correct": false,
           "feedback": "Incorrecto. Revisa el concepto."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Revisa el concepto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La fotosíntesis usa luz, agua y CO₂ para producir glucosa y oxígeno.",
       "difficulty": "4",
       "images": [],
@@ -58,19 +58,19 @@
       "context": "Clase de ciencias en Mejicanos estudiando revision integral.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "24 N",
           "is_correct": true,
           "feedback": "¡Correcto!"
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "16 N",
           "is_correct": false,
           "feedback": "Incorrecto. Revisa el concepto."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "27 N",
           "is_correct": false,
           "feedback": "Incorrecto. Revisa el concepto."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. Revisa el concepto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "F = ma = 8×3 = 24 N.",
       "difficulty": "4",
       "images": [],
@@ -103,19 +103,19 @@
       "context": "Clase de ciencias en San Salvador estudiando revision integral.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "La piel",
           "is_correct": true,
           "feedback": "¡Correcto!"
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El hígado",
           "is_correct": false,
           "feedback": "Incorrecto. Revisa el concepto."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El corazón",
           "is_correct": false,
           "feedback": "Incorrecto. Revisa el concepto."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. Revisa el concepto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La piel es el órgano más grande, cubriendo y protegiendo todo el cuerpo.",
       "difficulty": "4",
       "images": [],
@@ -148,19 +148,19 @@
       "context": "Clase de ciencias en San Miguel estudiando revision integral.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "La exposición a la luz",
           "is_correct": true,
           "feedback": "¡Correcto!"
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El crecimiento de las plantas",
           "is_correct": false,
           "feedback": "Incorrecto. Revisa el concepto."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La temperatura ambiente",
           "is_correct": false,
           "feedback": "Incorrecto. Revisa el concepto."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. Revisa el concepto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La variable independiente es la que manipula el investigador: la luz.",
       "difficulty": "4",
       "images": [],
@@ -193,13 +193,13 @@
       "context": "Clase de ciencias en Mejicanos estudiando revision integral.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La célula",
           "is_correct": true,
           "feedback": "¡Correcto!"
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El átomo",
           "is_correct": false,
           "feedback": "Incorrecto. Revisa el concepto."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. Revisa el concepto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La célula es la unidad estructural y funcional básica de los seres vivos.",
       "difficulty": "6",
       "images": [],
@@ -238,19 +238,19 @@
       "context": "Clase de ciencias en Mejicanos estudiando revision integral.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Fotosíntesis",
           "is_correct": true,
           "feedback": "¡Correcto!"
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Respiración celular",
           "is_correct": false,
           "feedback": "Incorrecto. Revisa el concepto."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Fermentación",
           "is_correct": false,
           "feedback": "Incorrecto. Revisa el concepto."
@@ -262,7 +262,7 @@
           "feedback": "Incorrecto. Revisa el concepto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La fotosíntesis usa luz, agua y CO₂ para producir glucosa y oxígeno.",
       "difficulty": "6",
       "images": [],
@@ -283,13 +283,13 @@
       "context": "Clase de ciencias en San Miguel estudiando revision integral.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "15 N",
           "is_correct": true,
           "feedback": "¡Correcto!"
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "12 N",
           "is_correct": false,
           "feedback": "Incorrecto. Revisa el concepto."
@@ -307,7 +307,7 @@
           "feedback": "Incorrecto. Revisa el concepto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "F = ma = 3×5 = 15 N.",
       "difficulty": "6",
       "images": [],
@@ -328,19 +328,19 @@
       "context": "Clase de ciencias en Santa Ana estudiando revision integral.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "La piel",
           "is_correct": true,
           "feedback": "¡Correcto!"
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El hígado",
           "is_correct": false,
           "feedback": "Incorrecto. Revisa el concepto."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El corazón",
           "is_correct": false,
           "feedback": "Incorrecto. Revisa el concepto."
@@ -352,7 +352,7 @@
           "feedback": "Incorrecto. Revisa el concepto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La piel es el órgano más grande, cubriendo y protegiendo todo el cuerpo.",
       "difficulty": "6",
       "images": [],
@@ -373,19 +373,19 @@
       "context": "Clase de ciencias en San Salvador estudiando revision integral.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "La exposición a la luz",
           "is_correct": true,
           "feedback": "¡Correcto!"
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El crecimiento de las plantas",
           "is_correct": false,
           "feedback": "Incorrecto. Revisa el concepto."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La temperatura ambiente",
           "is_correct": false,
           "feedback": "Incorrecto. Revisa el concepto."
@@ -397,7 +397,7 @@
           "feedback": "Incorrecto. Revisa el concepto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La variable independiente es la que manipula el investigador: la luz.",
       "difficulty": "6",
       "images": [],
@@ -508,19 +508,19 @@
       "context": "Clase de ciencias en Santa Ana estudiando revision integral.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "10 N",
           "is_correct": true,
           "feedback": "¡Correcto!"
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "8 N",
           "is_correct": false,
           "feedback": "Incorrecto. Revisa el concepto."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "15 N",
           "is_correct": false,
           "feedback": "Incorrecto. Revisa el concepto."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. Revisa el concepto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "F = ma = 2×5 = 10 N.",
       "difficulty": "8",
       "images": [],
@@ -553,13 +553,13 @@
       "context": "Clase de ciencias en Soyapango estudiando revision integral.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La piel",
           "is_correct": true,
           "feedback": "¡Correcto!"
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El hígado",
           "is_correct": false,
           "feedback": "Incorrecto. Revisa el concepto."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. Revisa el concepto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La piel es el órgano más grande, cubriendo y protegiendo todo el cuerpo.",
       "difficulty": "8",
       "images": [],
@@ -598,31 +598,31 @@
       "context": "Clase de ciencias en Santa Ana estudiando revision integral.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "La exposición a la luz",
           "is_correct": true,
           "feedback": "¡Correcto!"
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El crecimiento de las plantas",
           "is_correct": false,
           "feedback": "Incorrecto. Revisa el concepto."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La temperatura ambiente",
           "is_correct": false,
           "feedback": "Incorrecto. Revisa el concepto."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El tipo de planta",
           "is_correct": false,
           "feedback": "Incorrecto. Revisa el concepto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La variable independiente es la que manipula el investigador: la luz.",
       "difficulty": "8",
       "images": [],
@@ -643,31 +643,31 @@
       "context": "Clase de ciencias en Santa Ana estudiando revision integral.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "La célula",
           "is_correct": true,
           "feedback": "¡Correcto!"
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El átomo",
           "is_correct": false,
           "feedback": "Incorrecto. Revisa el concepto."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La molécula",
           "is_correct": false,
           "feedback": "Incorrecto. Revisa el concepto."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El tejido",
           "is_correct": false,
           "feedback": "Incorrecto. Revisa el concepto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La célula es la unidad estructural y funcional básica de los seres vivos.",
       "difficulty": "8",
       "images": [],
@@ -688,13 +688,13 @@
       "context": "Clase de ciencias en Soyapango estudiando revision integral.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Fotosíntesis",
           "is_correct": true,
           "feedback": "¡Correcto!"
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Respiración celular",
           "is_correct": false,
           "feedback": "Incorrecto. Revisa el concepto."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. Revisa el concepto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La fotosíntesis usa luz, agua y CO₂ para producir glucosa y oxígeno.",
       "difficulty": "8",
       "images": [],
@@ -778,19 +778,19 @@
       "context": "Clase de ciencias en Soyapango estudiando revision integral.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "La piel",
           "is_correct": true,
           "feedback": "¡Correcto!"
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El hígado",
           "is_correct": false,
           "feedback": "Incorrecto. Revisa el concepto."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El corazón",
           "is_correct": false,
           "feedback": "Incorrecto. Revisa el concepto."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. Revisa el concepto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La piel es el órgano más grande, cubriendo y protegiendo todo el cuerpo.",
       "difficulty": "10",
       "images": [],
@@ -823,13 +823,13 @@
       "context": "Clase de ciencias en Mejicanos estudiando revision integral.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La exposición a la luz",
           "is_correct": true,
           "feedback": "¡Correcto!"
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El crecimiento de las plantas",
           "is_correct": false,
           "feedback": "Incorrecto. Revisa el concepto."
@@ -847,7 +847,7 @@
           "feedback": "Incorrecto. Revisa el concepto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La variable independiente es la que manipula el investigador: la luz.",
       "difficulty": "10",
       "images": [],
@@ -868,31 +868,31 @@
       "context": "Clase de ciencias en San Miguel estudiando revision integral.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "La célula",
           "is_correct": true,
           "feedback": "¡Correcto!"
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El átomo",
           "is_correct": false,
           "feedback": "Incorrecto. Revisa el concepto."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La molécula",
           "is_correct": false,
           "feedback": "Incorrecto. Revisa el concepto."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El tejido",
           "is_correct": false,
           "feedback": "Incorrecto. Revisa el concepto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La célula es la unidad estructural y funcional básica de los seres vivos.",
       "difficulty": "10",
       "images": [],

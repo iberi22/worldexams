@@ -13,31 +13,31 @@
       "context": "En un colegio de Popayan, el comite escolar explica que un desastre ocurre cuando un evento natural afecta a una comunidad vulnerable.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "El conjunto de acciones para conocer las amenazas, reducir la vulnerabilidad y prepararse para responder ante un evento peligroso",
           "is_correct": true,
           "feedback": "Correcto. La gestion del riesgo busca prevenir y reducir impactos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La actividad de esperar a que ocurra el desastre y luego lamentar las perdidas",
           "is_correct": false,
           "feedback": "Incorrecto. La gestion del riesgo actua antes del evento, de forma preventiva."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El estudio de los desastres solo despues de que terminan",
           "is_correct": false,
           "feedback": "Incorrecto. La gestion se hace antes, durante y despues, con enfasis en la prevencion."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La lista de los desastres que ya ocurrieron en el pais",
           "is_correct": false,
           "feedback": "Incorrecto. Conocer el historial ayuda, pero la gestion es un proceso de acciones."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La gestion del riesgo es un proceso que incluye identificar las amenazas, evaluar la vulnerabilidad, planificar y ejecutar medidas para reducir el riesgo y prepararse para responder y recuperarse; su objetivo es evitar que un evento natural se convierta en desastre.",
       "difficulty": "4",
       "images": [],
@@ -59,13 +59,13 @@
       "context": "En una vereda de Caldas, los vecinos recuerdan que un fuerte aguacero desbordo una quebrada y afecto a las casas construidas cerca de su cauce.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Porque en las crecientes el agua ocupa el cauce y sus rondas, por lo que las viviendas alli quedan expuestas a la inundacion",
           "is_correct": true,
           "feedback": "Correcto. Las rondas de los rios son zonas de flujo natural del agua."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque las casas cerca del rio atraen la lluvia",
           "is_correct": false,
           "feedback": "Incorrecto. Las viviendas no atraen la lluvia; el agua ocupa su cauce natural."
@@ -83,7 +83,7 @@
           "feedback": "Incorrecto. En las crecientes el agua desborda el cauce."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Los rios ocupan su cauce y sus rondas durante las crecientes; construir en esas zonas expone las viviendas al agua, por lo que las normas de ordenamiento territorial establecen franjas de proteccion y recomiendan ubicar las casas en zonas altas y seguras.",
       "difficulty": "4",
       "images": [],
@@ -105,19 +105,19 @@
       "context": "En un colegio de Manizales, los estudiantes elaboran un mapa de su barrio y marcan con rojo las zonas de pendiente pronunciada, con azul las quebradas y con verde los puntos de encuentro.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Para identificar las amenazas y los lugares seguros, y asi planear rutas de evacuacion y acciones de prevencion en la comunidad educativa",
           "is_correct": true,
           "feedback": "Correcto. El mapa de riesgo orienta la preparacion y la respuesta."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Para decorar las paredes del salon con colores",
           "is_correct": false,
           "feedback": "Incorrecto. El mapa tiene una funcion de prevencion, no decorativa."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Para saber en que casa vive cada estudiante",
           "is_correct": false,
           "feedback": "Incorrecto. El mapa de riesgo representa amenazas y zonas seguras."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecto. La construccion debe evitar las zonas de amenaza marcadas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El mapa de riesgo es una herramienta de participacion comunitaria: ubica las amenazas, los recursos y los puntos seguros, y permite planear rutas de evacuacion y simulacros; conocerlo ayuda a que estudiantes y vecinos sepan que hacer y a donde ir ante una emergencia.",
       "difficulty": "6",
       "images": [],
@@ -151,19 +151,19 @@
       "context": "En una ciudad de la zona andina, durante un sismo los estudiantes de un colegio siguen el protocolo de agacharse, cubrirse y sujetarse bajo los pupitres.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Protege a la persona de la caida de objetos y reduce el riesgo de golpes mientras dura el movimiento, y luego permite evacuar de forma ordenada",
           "is_correct": true,
           "feedback": "Correcto. Agacharse, cubrirse y sujetarse disminuye el riesgo de lesion."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Sirve para detener el sismo con la fuerza del cuerpo",
           "is_correct": false,
           "feedback": "Incorrecto. Los sismos no se detienen con acciones humanas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Es una forma de llamar la atencion de los vecinos",
           "is_correct": false,
           "feedback": "Incorrecto. El protocolo busca proteger la integridad fisica."
@@ -175,7 +175,7 @@
           "feedback": "Incorrecto. Correr durante el sismo aumenta el riesgo de caidas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Durante un sismo, la mayoria de las lesiones se deben a objetos que caen o a caidas; por eso el protocolo de agacharse, cubrirse y sujetarse protege el cuerpo, y una vez termina el movimiento se evacua de manera ordenada hacia los puntos de encuentro previamente definidos.",
       "difficulty": "6",
       "images": [],
@@ -197,31 +197,31 @@
       "context": "En un municipio cercano a un volcan del Eje Cafetero, las autoridades entregan mapas de amenaza y recomendaciones a las familias.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Conocer las zonas de amenaza, identificar rutas de evacuacion y participar en simulacros, para actuar rapido si hay una alerta",
           "is_correct": true,
           "feedback": "Correcto. La informacion se usa para prepararse y saber que hacer."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Ignorar las alertas porque el volcan hace mucho no erupciona",
           "is_correct": false,
           "feedback": "Incorrecto. El tiempo sin erupcionar no elimina la amenaza."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Construir nuevas casas en la zona mas cercana al volcan",
           "is_correct": false,
           "feedback": "Incorrecto. Acercarse al volcan aumenta la exposicion al riesgo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Guardar los mapas sin leerlos ni comentarlos en familia",
           "is_correct": false,
           "feedback": "Incorrecto. La informacion solo es util si se conoce y se practica."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La gestion del riesgo volcanico se basa en la informacion y la preparacion: conocer los mapas de amenaza, tener claras las rutas de evacuacion, participar en simulacros y atender las alertas de las autoridades permite a las familias actuar con rapidez y reducir las perdidas.",
       "difficulty": "6",
       "images": [],
@@ -243,19 +243,19 @@
       "context": "En una ladera de Antioquia, los estudiantes comparan dos lomas: una cubierta de bosque y otra deforestada y usada para cultivo, despues de una temporada de lluvias intensas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "La loma deforestada tiene mayor riesgo de deslizamiento porque, sin raices que sujeten el suelo, el agua de lluvia lo satura y lo hace mas propenso a deslizarse",
           "is_correct": true,
           "feedback": "Correcto. La vegetacion reduce el riesgo de deslizamiento en las laderas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La loma con bosque tiene mayor riesgo porque sus arboles pesan mucho",
           "is_correct": false,
           "feedback": "Incorrecto. Las raices del bosque sujetan el suelo y reducen el riesgo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Las dos lomas tienen exactamente el mismo riesgo",
           "is_correct": false,
           "feedback": "Incorrecto. La cobertura vegetal marca una diferencia clave."
@@ -267,7 +267,7 @@
           "feedback": "Incorrecto. Depende de la cobertura, la pendiente y la saturacion por agua."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "En laderas, el riesgo de deslizamiento depende de la pendiente, el tipo de suelo y, sobre todo, de la cobertura vegetal: las raices sujetan las capas superficiales y absorben parte del agua; cuando el bosque se tala, la lluvia satura el suelo y aumenta la probabilidad de movimientos en masa.",
       "difficulty": "8",
       "images": [],
@@ -289,31 +289,31 @@
       "context": "Una alcaldia de la Costa Caribe presenta un plan de contingencia que incluye obras en el cauce, sistemas de alerta temprana y educacion comunitaria sobre las inundaciones.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Porque el riesgo resulta de la amenaza, la exposicion y la vulnerabilidad; atacarlos a la vez con obras, alertas y educacion reduce el impacto mas que una sola medida",
           "is_correct": true,
           "feedback": "Correcto. Un plan integral abarca las distintas causas del riesgo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque una sola obra siempre resuelve todas las inundaciones",
           "is_correct": false,
           "feedback": "Incorrecto. Ninguna medida aislada elimina por completo la amenaza."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque las alertas reemplazan la necesidad de educar a la comunidad",
           "is_correct": false,
           "feedback": "Incorrecto. Las alertas solo sirven si la comunidad sabe como actuar."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Porque el plan busca gastar todo el presupuesto sin criterio",
           "is_correct": false,
           "feedback": "Incorrecto. La combinacion de medidas responde a un analisis del riesgo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El riesgo es el resultado de la amenaza natural, la exposicion de las personas y bienes, y la vulnerabilidad de la comunidad; por eso los planes integrales combinan obras de mitigacion, sistemas de alerta temprana y educacion, ya que actuar sobre varios factores reduce el impacto de manera mas efectiva y sostenible.",
       "difficulty": "8",
       "images": [],
@@ -381,19 +381,19 @@
       "context": "En un foro escolar de Quibdo, tres estudiantes afirman: 1) Los desastres son culpa exclusiva de la naturaleza. 2) La vulnerabilidad de la comunidad influye en el impacto de un evento natural. 3) La prevencion puede reducir las perdidas humanas y materiales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "La 1 es falsa porque el impacto depende tambien de la vulnerabilidad y la exposicion, la 2 es verdadera y la 3 es verdadera porque la prevencion reduce las perdidas",
           "is_correct": true,
           "feedback": "Correcto. Reconoce el papel humano en el riesgo y el valor de la prevencion."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Las tres son verdaderas porque la naturaleza decide todo",
           "is_correct": false,
           "feedback": "Incorrecto. Las decisiones humanas influyen en la vulnerabilidad y la exposicion."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Solo la 1 es verdadera y las demas son falsas",
           "is_correct": false,
           "feedback": "Incorrecto. La 1 es falsa y las otras dos son verdaderas."
@@ -405,7 +405,7 @@
           "feedback": "Incorrecto. La prevencion reduce el impacto de los eventos naturales."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Evaluar estas afirmaciones exige distinguir amenaza de desastre: un evento natural no se convierte en desastre si la comunidad es poco vulnerable y esta preparada; por eso el impacto depende de la exposicion y la vulnerabilidad, y la prevencion, la planificacion y la educacion reducen las perdidas.",
       "difficulty": "10",
       "images": [],
@@ -427,31 +427,31 @@
       "context": "Un municipio colombiano con presupuesto limitado en COP debe escoger una medida para reducir el riesgo de inundaciones en un barrio ubicado en la ronda de un rio.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Recuperar y proteger la ronda del rio, mejorar el drenaje y preparar a la comunidad con alertas y simulacros, porque reduce el riesgo de forma sostenible y protege a las familias",
           "is_correct": true,
           "feedback": "Correcto. Combinar proteccion del cauce con preparacion reduce el riesgo a largo plazo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Construir mas viviendas en la ronda del rio para aprovechar el terreno",
           "is_correct": false,
           "feedback": "Incorrecto. Aumentar la exposicion en la ronda eleva el riesgo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Tapar el rio con una losa de concreto y no hacer mantenimiento",
           "is_correct": false,
           "feedback": "Incorrecto. Tapar el cauce sin mantenimiento agrava las inundaciones."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Trasladar el problema y no informar a la comunidad",
           "is_correct": false,
           "feedback": "Incorrecto. Ocultar la informacion impide que la comunidad se prepare."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Evaluar medidas de reduccion del riesgo exige considerar la amenaza, la exposicion y la sostenibilidad: recuperar la ronda del rio, mejorar el drenaje y preparar a la comunidad con alertas y simulacros reduce la vulnerabilidad y protege vidas y bienes, mientras que aumentar la construccion en zonas inundables multiplica el riesgo.",
       "difficulty": "10",
       "images": [],

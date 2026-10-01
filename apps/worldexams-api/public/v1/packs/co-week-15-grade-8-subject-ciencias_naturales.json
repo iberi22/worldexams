@@ -13,13 +13,13 @@
       "context": "En una clase en Valledupar, el profesor explica las ondas con un acordeón vallenato.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "transporta energía sin transportar materia de manera permanente",
           "is_correct": true,
           "feedback": "Las ondas transmiten energía a través de un medio, pero las partículas del medio oscilan en su lugar y no se desplazan con la onda."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "requiere siempre un medio sólido para propagarse",
           "is_correct": false,
           "feedback": "Las ondas mecánicas pueden viajar por sólidos, líquidos y gases; no requieren únicamente un sólido."
@@ -37,7 +37,7 @@
           "feedback": "Existen ondas en agua, aire, resortes y muchos otros sistemas, no únicamente en cuerdas tensas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Una onda mecánica es una perturbación que se propaga a través de un medio material transportando energía. La materia del medio oscila alrededor de su posición de equilibrio, por lo que no hay transporte neto de materia. Ejemplos: el sonido en el aire, olas en el mar, vibraciones en una cuerda.",
       "difficulty": "4",
       "images": [],
@@ -105,13 +105,13 @@
       "context": "En un experimento escolar se hace vibrar una cuerda atada a un poste.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "8 m/s",
           "is_correct": true,
           "feedback": "v = f * λ = 4 Hz * 2 m = 8 m/s, cálculo correcto."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "2 m/s",
           "is_correct": false,
           "feedback": "Obtendrías 2 m/s solo si confundieras frecuencia con longitud de onda."
@@ -129,7 +129,7 @@
           "feedback": "6 m/s corresponde a sumar en vez de multiplicar los datos, lo cual no aplica en esta fórmula."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La rapidez de propagación v de una onda se calcula como v = f · λ, donde f es la frecuencia y λ la longitud de onda. Sustituyendo: v = 4 Hz × 2 m = 8 m/s. Esta relación es fundamental para describir cualquier onda periódica.",
       "difficulty": "4",
       "images": [],
@@ -151,13 +151,13 @@
       "context": "Dentro de la Catedral de Sal de Zipaquirá se escucha un eco al hablar.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "102 m",
           "is_correct": true,
           "feedback": "d = (340 m/s × 0,6 s)/2 = 102 m, porque el sonido recorre el camino de ida y vuelta."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "204 m",
           "is_correct": false,
           "feedback": "204 m sería si el sonido solo recorriera la distancia, pero debe ir y volver al oyente."
@@ -175,7 +175,7 @@
           "feedback": "Ese valor solo corresponde a la rapidez, no a la distancia recorrida por el sonido."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "En un eco, el sonido viaja desde la fuente hasta la superficie reflectante y regresa al oído. Por eso la distancia al obstáculo es la mitad del recorrido total: d = (v · t)/2 = (340 m/s × 0,6 s)/2 = 102 m.",
       "difficulty": "6",
       "images": [],
@@ -197,19 +197,19 @@
       "context": "Estudiantes graban el sonido de un tambor durante una práctica de chirimía.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "343,2 m/s",
           "is_correct": true,
           "feedback": "v = f · λ = 440 Hz × 0,78 m = 343,2 m/s, valor cercano al esperado para el aire."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "5,6 m/s",
           "is_correct": false,
           "feedback": "Dividir 440 entre 0,78 produciría ese valor, pero la fórmula correcta es multiplicar."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "56,4 m/s",
           "is_correct": false,
           "feedback": "Ese valor no corresponde ni a multiplicar ni a dividir correctamente los datos dados."
@@ -221,7 +221,7 @@
           "feedback": "440 m/s solo conserva la frecuencia, sin multiplicar por la longitud de onda."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Para cualquier onda periódica, la rapidez se obtiene multiplicando la frecuencia por la longitud de onda. Aplicado al sonido: v = 440 Hz × 0,78 m ≈ 343,2 m/s, que coincide con el valor aceptado para el sonido en el aire a temperatura ambiente.",
       "difficulty": "6",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "En un festival escolar se comparan dos cajas musicales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "el sonido de 600 Hz tiene menor longitud de onda que el de 200 Hz",
           "is_correct": true,
           "feedback": "Como v es constante en el mismo medio, mayor frecuencia implica menor longitud de onda."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "el sonido de 200 Hz viaja más rápido que el de 600 Hz",
           "is_correct": false,
           "feedback": "En el mismo medio y condiciones, la rapidez del sonido no depende de la frecuencia audible."
@@ -267,7 +267,7 @@
           "feedback": "Si las frecuencias son distintas, las longitudes de onda también son distintas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "En un mismo medio, la rapidez del sonido es prácticamente constante, así que λ = v/f. Por tanto, una frecuencia mayor (600 Hz) corresponde a una longitud de onda menor, mientras que una frecuencia menor (200 Hz) corresponde a una longitud de onda mayor.",
       "difficulty": "6",
       "images": [],
@@ -289,19 +289,19 @@
       "context": "Un grupo de estudiantes mide el período de un diapasón en el laboratorio.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "3,9 × 10⁻³ s",
           "is_correct": true,
           "feedback": "T = 1/f = 1/256 Hz ≈ 0,0039 s, que equivale a 3,9 × 10⁻³ s."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "256 s",
           "is_correct": false,
           "feedback": "El período no es igual a la frecuencia; debe calcularse como el inverso."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "2,56 × 10⁻² s",
           "is_correct": false,
           "feedback": "Ese valor corresponde a 1/39, no al inverso correcto de 256 Hz."
@@ -313,7 +313,7 @@
           "feedback": "0,256 s es 100 veces mayor que el período real; confundiría milisegundos con segundos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El período T es el tiempo que tarda la onda en completar un ciclo y se relaciona con la frecuencia f mediante T = 1/f. Para 256 Hz: T = 1/256 s ≈ 0,0039 s = 3,9 ms.",
       "difficulty": "6",
       "images": [],
@@ -335,19 +335,19 @@
       "context": "En el Carnaval de Barranquilla los sonidos graves del bombardino se escuchan a lo lejos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "la nota grave tiene mayor longitud de onda que la aguda",
           "is_correct": true,
           "feedback": "λ = v/f; al ser la misma v, una frecuencia menor produce mayor longitud de onda."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "la nota aguda viaja más rápido que la grave",
           "is_correct": false,
           "feedback": "En el mismo medio, la rapidez del sonido es prácticamente igual para ambas frecuencias."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "la nota grave tiene mayor frecuencia que la aguda",
           "is_correct": false,
           "feedback": "Por definición, los sonidos graves tienen menor frecuencia que los agudos."
@@ -359,7 +359,7 @@
           "feedback": "Las longitudes de onda son distintas porque las frecuencias son distintas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Los sonidos graves tienen baja frecuencia y, en consecuencia, mayor longitud de onda. Los sonidos agudos tienen alta frecuencia y menor longitud de onda. Como la rapidez del sonido en el aire es prácticamente constante, cambiar la frecuencia cambia λ en proporción inversa.",
       "difficulty": "8",
       "images": [],
@@ -427,19 +427,19 @@
       "context": "En una práctica de laboratorio se hace vibrar una cuerda y se observa la onda.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "se reduce a la mitad",
           "is_correct": true,
           "feedback": "λ = v/f; si f se duplica y v no cambia, λ se reduce a la mitad."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "se duplica",
           "is_correct": false,
           "feedback": "Si la frecuencia aumenta, la longitud de onda disminuye, no aumenta."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "se cuadruplica",
           "is_correct": false,
           "feedback": "Cuadruplicar λ requeriría multiplicar por 4 el denominador, no duplicar la frecuencia."
@@ -451,7 +451,7 @@
           "feedback": "Cambiar f manteniendo v constante obliga a cambiar λ de manera inversa."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La relación λ = v/f indica que la longitud de onda y la frecuencia son inversamente proporcionales cuando la rapidez se mantiene constante. Duplicar f divide λ entre dos. Este principio explica, por ejemplo, por qué los instrumentos de cuerda afinados más agudos producen ondas más cortas.",
       "difficulty": "8",
       "images": [],
@@ -473,31 +473,31 @@
       "context": "En las galerías de la Catedral de Sal de Zipaquirá se escucha un eco persistente.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "El sonido tarda 1 s en regresar a la turista, pues recorre 340 m de ida y vuelta",
           "is_correct": true,
           "feedback": "t = 2d/v = 2(170)/340 = 1 s, coherente con un eco perceptible."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El sonido tarda 0,5 s en regresar, porque recorre solo la mitad de la distancia",
           "is_correct": false,
           "feedback": "El sonido debe ir hasta la pared y volver, por lo que recorre toda la distancia de ida y vuelta."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El sonido regresa al instante porque la distancia es pequeña",
           "is_correct": false,
           "feedback": "A 170 m de ida y vuelta el sonido tarda 1 s, no se percibe como instantáneo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El eco se produce porque la onda se vuelve transversal al reflejarse",
           "is_correct": false,
           "feedback": "El sonido sigue siendo longitudinal al reflejarse; el cambio de dirección no altera su tipo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El eco ocurre cuando el sonido reflejado llega al oído al menos 0,1 s después del sonido directo. Como el sonido viaja 340 m en 1 s, recorrer 340 m (170 m de ida y 170 m de vuelta) toma exactamente 1 s, por lo que se percibe claramente como eco.",
       "difficulty": "10",
       "images": [],
@@ -519,31 +519,31 @@
       "context": "En una feria escolar de ciencias en Bogotá se prueban varios sistemas de propagación del sonido.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Las ondas mecánicas necesitan un medio material para transmitir su energía, y el vacío carece de él",
           "is_correct": true,
           "feedback": "El sonido es onda mecánica: requiere partículas del medio para propagarse, y el vacío no las tiene."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Las ondas electromagnéticas, como la luz, sí pueden viajar en el vacío, igual que el sonido",
           "is_correct": false,
           "feedback": "Esa es una diferencia clave: las ondas electromagnéticas sí viajan en el vacío, el sonido no."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El sonido se vuelve transversal cuando no hay aire, por eso no se escucha",
           "is_correct": false,
           "feedback": "La naturaleza transversal o longitudinal no cambia por la ausencia de aire; el sonido no se propaga en absoluto."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El vacío es un medio muy denso para el sonido, así que lo bloquea",
           "is_correct": false,
           "feedback": "El vacío no es un medio denso: carece de materia, por eso el sonido no puede transmitirse."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El sonido es una onda mecánica porque necesita un medio material (sólido, líquido o gas) para propagarse. En el espacio exterior o en una cámara de vacío no hay partículas que vibren, por lo que el sonido no se transmite. Esto lo diferencia de las ondas electromagnéticas, como la luz, que sí pueden viajar en el vacío.",
       "difficulty": "10",
       "images": [],

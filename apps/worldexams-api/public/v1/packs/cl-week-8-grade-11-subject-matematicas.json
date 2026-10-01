@@ -58,31 +58,31 @@
       "context": "Un estudiante analiza la diferencia entre función lineal y función afín en Antofagasta.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Pasa siempre por el origen $(0,0)$.",
           "is_correct": true,
           "feedback": "Al no tener término independiente, si $x=0$ entonces $f(x)=0$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Es siempre paralela al eje X.",
           "is_correct": false,
           "feedback": "Eso ocurriría si la pendiente $m$ fuera 0."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Tiene pendiente negativa.",
           "is_correct": false,
           "feedback": "La pendiente puede ser cualquier número real."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Nunca corta al eje Y.",
           "is_correct": false,
           "feedback": "Todas las funciones de este tipo cortan al eje Y (en el origen)."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Una función lineal pura ($f(x) = mx$) se caracteriza por representar una proporcionalidad directa entre las variables. Gráficamente, es una línea recta que obligatoriamente cruza por el origen del plano cartesiano, el punto $(0,0)$.",
       "difficulty": "4",
       "images": [],
@@ -109,13 +109,13 @@
           "feedback": "Error en el cálculo, posiblemente sumaste en lugar de restar."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "7",
           "is_correct": true,
           "feedback": "$4 \\cdot 3 - 5 = 12 - 5 = 7$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "-2",
           "is_correct": false,
           "feedback": "Error aritmético en la multiplicación o resta."
@@ -127,7 +127,7 @@
           "feedback": "Olvidaste restar el coeficiente de posición."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Para hallar el valor de la función, evaluamos la expresión sustituyendo $x$ por el valor indicado: $f(3) = 4 \\cdot (3) - 5$. Resolvemos la multiplicación primero ($12$) y luego restamos 5, obteniendo 7.",
       "difficulty": "4",
       "images": [],
@@ -148,13 +148,13 @@
       "context": "Camila analiza el comportamiento de una recta según su pendiente.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Es una recta creciente.",
           "is_correct": false,
           "feedback": "Una recta creciente tiene pendiente positiva ($m > 0$)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Es una recta decreciente.",
           "is_correct": true,
           "feedback": "Correcto, a medida que aumenta $x$, el valor de $y$ disminuye."
@@ -172,7 +172,7 @@
           "feedback": "Las rectas verticales no representan funciones de $x$."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La pendiente $m$ indica la tasa de cambio. Si $m$ es negativa, la función es decreciente: al movernos hacia la derecha en el eje X, la gráfica baja en el eje Y.",
       "difficulty": "4",
       "images": [],
@@ -199,25 +199,25 @@
           "feedback": "Error en la división o en la resta de las coordenadas."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "3",
           "is_correct": true,
           "feedback": "$m = (8 - 2) / (3 - 1) = 6 / 2 = 3$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "5",
           "is_correct": false,
           "feedback": "Error aritmético en el cálculo de la razón."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "1/3",
           "is_correct": false,
           "feedback": "Calculaste la pendiente invertida ($\\Delta x / \\Delta y$)."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La pendiente se calcula mediante la razón entre el cambio en $y$ y el cambio en $x$: $m = (y_2 - y_1) / (x_2 - x_1)$. Sustituyendo: $m = (8 - 2) / (3 - 1) = 6 / 2 = 3$.",
       "difficulty": "6",
       "images": [],
@@ -244,25 +244,25 @@
           "feedback": "Invertiste el cargo fijo con el costo variable por hora."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$C(x) = 8.000x + 15.000$",
           "is_correct": true,
           "feedback": "Correcto. El costo variable depende de $x$ y se suma el cargo fijo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$C(x) = 23.000x$",
           "is_correct": false,
           "feedback": "Esto supondría que los \\$15.000 se cobran por cada hora también."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$C(x) = 8.000 + 15.000$",
           "is_correct": false,
           "feedback": "Esta es una función constante que no depende de las horas trabajadas."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Identificamos los componentes: el cargo por hora es la pendiente ($8.000$ por cada $x$) y el cargo por visita es el coeficiente de posición (\\$15.000, costo base cuando $x=0$). La función es $C(x) = 8.000x + 15.000$.",
       "difficulty": "6",
       "images": [],
@@ -289,13 +289,13 @@
           "feedback": "Este es el intercepto con el eje Y."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$(5, 0)$",
           "is_correct": true,
           "feedback": "$2x - 10 = 0 \\Rightarrow 2x = 10 \\Rightarrow x = 5$. El punto es (5,0)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$(-5, 0)$",
           "is_correct": false,
           "feedback": "Error en el signo durante el despeje de $x$."
@@ -307,7 +307,7 @@
           "feedback": "Olvidaste dividir por el coeficiente de la pendiente."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Para hallar el intercepto con el eje X (cero de la función), igualamos la función a cero: $2x - 10 = 0$. Despejamos $x$: $2x = 10 \\Rightarrow x = 5$. El punto de intersección es $(5, 0)$.",
       "difficulty": "6",
       "images": [],
@@ -334,13 +334,13 @@
           "feedback": "Olvidaste que el estanque ya tiene 40 litros al empezar."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "8 minutos",
           "is_correct": true,
           "feedback": "$40 + 20x = 200 \\Rightarrow 20x = 160 \\Rightarrow x = 8$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "12 minutos",
           "is_correct": false,
           "feedback": "Error en el planteamiento de la ecuación de llenado."
@@ -352,7 +352,7 @@
           "feedback": "Error aritmético en la división final."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La función de volumen es $V(x) = 20x + 40$. Queremos saber cuándo $V(x) = 200$. Planteamos $20x + 40 = 200$, restamos 40 para obtener $20x = 160$. Dividiendo por 20 resulta $x = 8$ minutos.",
       "difficulty": "6",
       "images": [],
@@ -379,25 +379,25 @@
           "feedback": "Calculaste un aumento de \\$2.500 pero no proporcional."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "\\$20.000",
           "is_correct": true,
           "feedback": "Precio por metro = $12.500 / 5 = 2.500$. Por 8 metros: $8 \\cdot 2.500 = 20.000$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "\\$18.500",
           "is_correct": false,
           "feedback": "Error en el cálculo de la constante de proporcionalidad."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "\\$25.000",
           "is_correct": false,
           "feedback": "Has multiplicado por un factor incorrecto."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Es una función lineal del tipo $P(m) = km$. Hallamos $k$: $12.500 = k \\cdot 5 \\Rightarrow k = 2.500$ pesos por metro. Para 8 metros: $P(8) = 2.500 \\cdot 8 = 20.000$ pesos.",
       "difficulty": "6",
       "images": [],
@@ -424,13 +424,13 @@
           "feedback": "Eso haría que corten al eje Y en el mismo punto, no asegura paralelismo."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Que tengan la misma pendiente $m$.",
           "is_correct": true,
           "feedback": "Correcto, igual inclinación asegura que nunca se junten si $n$ es distinto."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Que el producto de sus pendientes sea -1.",
           "is_correct": false,
           "feedback": "Esa es la condición para rectas perpendiculares."
@@ -442,7 +442,7 @@
           "feedback": "Eso las hace simétricas respecto a un eje, no paralelas."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Dos rectas son paralelas si y solo si tienen exactamente la misma pendiente ($m_1 = m_2$). Esto garantiza que mantengan la misma dirección y, por tanto, una distancia constante entre ellas, sin intersectarse jamás (a menos que sean la misma recta).",
       "difficulty": "6",
       "images": [],
@@ -463,13 +463,13 @@
       "context": "Se busca determinar la ecuación de la recta que pasa por un punto dado y tiene una pendiente conocida.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$y = -2x + 4$",
           "is_correct": false,
           "feedback": "Sustituir el punto no cumple la igualdad."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$y = -2x + 10$",
           "is_correct": true,
           "feedback": "$4 = -2(3) + n \\Rightarrow 4 = -6 + n \\Rightarrow n = 10$."
@@ -487,7 +487,7 @@
           "feedback": "Invertiste el signo de la pendiente."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Usamos la forma punto-pendiente: $y - y_1 = m(x - x_1)$. Sustituimos: $y - 4 = -2(x - 3)$. Resolvemos: $y - 4 = -2x + 6 \\Rightarrow y = -2x + 10$.",
       "difficulty": "8",
       "images": [],
@@ -514,13 +514,13 @@
           "feedback": "Error en el cálculo de la pendiente $\\Delta y / \\Delta x$."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$f(x) = 2x + 5$",
           "is_correct": true,
           "feedback": "$n=5$ (punto en X=0). $m = (9-5)/(2-0) = 4/2 = 2$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$f(x) = 5x + 2$",
           "is_correct": false,
           "feedback": "Invertiste la pendiente con el coeficiente de posición."
@@ -532,7 +532,7 @@
           "feedback": "El coeficiente de posición correcto es 5."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Como pasa por $(0, 5)$, sabemos que $n = 5$. Calculamos la pendiente $m$ usando los dos puntos: $m = (9 - 5) / (2 - 0) = 4 / 2 = 2$. Combinando ambos valores: $f(x) = 2x + 5$.",
       "difficulty": "8",
       "images": [],
@@ -559,13 +559,13 @@
           "feedback": "Al sustituir $x=3$, $f(3)=10$ pero $g(3)=8$."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$(2, 7)$",
           "is_correct": true,
           "feedback": "$3x + 1 = x + 5 \\Rightarrow 2x = 4 \\Rightarrow x=2$. $f(2)=3(2)+1=7$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$(1, 4)$",
           "is_correct": false,
           "feedback": "No satisfacen la igualdad de las funciones."
@@ -577,7 +577,7 @@
           "feedback": "Error en el cálculo de la ordenada $y$."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Igualamos las funciones para hallar la coordenada $x$ del punto común: $3x + 1 = x + 5$. Restamos $x$ y restamos 1: $2x = 4 \\Rightarrow x = 2$. Hallamos $y$ evaluando en cualquiera: $y = 2 + 5 = 7$. El punto es $(2, 7)$.",
       "difficulty": "8",
       "images": [],
@@ -649,25 +649,25 @@
           "feedback": "Cortaría al eje Y en -3."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$f(x) = 2x + 6$",
           "is_correct": true,
           "feedback": "Intercepto Y en 6. Si $x=-3$, $2(-3)+6 = 0$ (intercepto X)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$f(x) = -2x + 6$",
           "is_correct": false,
           "feedback": "Cortaría al eje X en +3."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$f(x) = 3x + 6$",
           "is_correct": false,
           "feedback": "Cortaría al eje X en -2."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Intercepto con Y en 6 significa $n=6$. Puntos: $(0, 6)$ y $(-3, 0)$. Pendiente $m = (0 - 6) / (-3 - 0) = -6 / -3 = 2$. La función es $f(x) = 2x + 6$.",
       "difficulty": "8",
       "images": [],
@@ -694,13 +694,13 @@
           "feedback": "La temperatura debe bajar (pendiente negativa)."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$T(h) = -0,006h + 25$",
           "is_correct": true,
           "feedback": "$m = (19-25)/1.000 = -6/1.000 = -0,006$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$T(h) = -6h + 25$",
           "is_correct": false,
           "feedback": "La pendiente es por metro, no por kilómetro."
@@ -712,7 +712,7 @@
           "feedback": "El coeficiente de posición debe ser la temperatura inicial positiva."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Temperatura inicial $T(0) = 25$, entonces $n=25$. Pendiente $m = \\Delta T / \\Delta h = (19 - 25) / (1.000 - 0) = -6 / 1.000 = -0,006$ grados por metro. La función es $T(h) = -0,006h + 25$.",
       "difficulty": "8",
       "images": [],
@@ -733,13 +733,13 @@
       "context": "Se analiza el efecto de transformar los coeficientes de una función afín.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$g(x) = 2(mx + n) + 3$",
           "is_correct": false,
           "feedback": "Eso duplicaría también el coeficiente de posición original."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$g(x) = 2mx + n + 3$",
           "is_correct": true,
           "feedback": "Correcto. Se aplican las operaciones solo a los parámetros indicados."
@@ -757,7 +757,7 @@
           "feedback": "Sumar 3 no es lo mismo que triplicar."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La pendiente original es $m$, al duplicarla resulta $2m$. El coeficiente de posición original es $n$, al sumarle 3 resulta $n+3$. Reemplazamos en la estructura base $y = (\\text{nueva } m)x + (\\text{nuevo } n)$, obteniendo $2mx + n + 3$.",
       "difficulty": "10",
       "images": [],
@@ -778,13 +778,13 @@
       "context": "Se requiere hallar la función inversa de una función afín.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$f^{-1}(x) = \\frac{1}{3x - 12}$",
           "is_correct": false,
           "feedback": "Ese es el recíproco multiplicativo, no la función inversa."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$f^{-1}(x) = \\frac{x + 12}{3}$",
           "is_correct": true,
           "feedback": "$x = 3y - 12 \\Rightarrow x + 12 = 3y \\Rightarrow y = (x + 12)/3$."
@@ -802,7 +802,7 @@
           "feedback": "Error en el signo al despejar la variable."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Para hallar la inversa, despejamos $x$: $y = 3x - 12 \\Rightarrow y + 12 = 3x \\Rightarrow x = (y + 12) / 3$. Intercambiamos variables para obtener la notación estándar: $f^{-1}(x) = (x + 12) / 3$.",
       "difficulty": "10",
       "images": [],
@@ -823,13 +823,13 @@
       "context": "Un problema involucra la composición de dos funciones lineales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "14",
           "is_correct": false,
           "feedback": "Ese es el valor de $(g \\circ f)(5)$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "18",
           "is_correct": true,
           "feedback": "$g(5) = 9$; luego $f(9) = 2 \\cdot 9 = 18$."
@@ -847,7 +847,7 @@
           "feedback": "Solo calculaste $g(5)$."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La composición $(f \\circ g)(x)$ significa evaluar $f$ con el resultado de $g(x)$. Primero calculamos $g(5) = 5 + 4 = 9$. Luego usamos ese resultado como entrada para $f$: $f(9) = 2 \\cdot 9 = 18$.",
       "difficulty": "10",
       "images": [],
@@ -874,13 +874,13 @@
           "feedback": "Las pendientes deben ser recíprocas y de signo opuesto."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$g(x) = -2x + 5$",
           "is_correct": true,
           "feedback": "$1/2 \\cdot (-2) = -1$. Se cumple la condición de perpendicularidad."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$g(x) = -\\frac{1}{2}x + 3$",
           "is_correct": false,
           "feedback": "Estas rectas son solo simétricas respecto a la horizontal."
@@ -892,7 +892,7 @@
           "feedback": "Esta es una recta paralela."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Dos rectas son perpendiculares si el producto de sus pendientes es igual a $-1$. La pendiente de $f$ es $1/2$. Buscamos $m$ tal que $1/2 \\cdot m = -1$, lo que nos da $m = -2$. La función B tiene pendiente $-2$.",
       "difficulty": "10",
       "images": [],
@@ -913,13 +913,13 @@
       "context": "Martina identifica los elementos de una función lineal en su cuaderno de Santiago.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La pendiente de la recta.",
           "is_correct": false,
           "feedback": "La pendiente es representada por el coeficiente $m$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El coeficiente de posición (ordenada al origen).",
           "is_correct": true,
           "feedback": "Correcto. Indica el punto donde la recta corta al eje Y."
@@ -937,7 +937,7 @@
           "feedback": "La inclinación está relacionada con la pendiente $m$."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "En la expresión $f(x) = mx + n$, $n$ es el coeficiente de posición. Gráficamente, corresponde al valor de la ordenada ($y$) cuando $x=0$, es decir, el punto $(0, n)$ donde la recta intersecta al eje de las ordenadas.",
       "difficulty": "4",
       "images": [],
@@ -958,13 +958,13 @@
       "context": "Un estudiante analiza la diferencia entre función lineal y función afín en Antofagasta.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Pasa siempre por el origen $(0,0)$.",
           "is_correct": true,
           "feedback": "Al no tener término independiente, si $x=0$ entonces $f(x)=0$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Es siempre paralela al eje X.",
           "is_correct": false,
           "feedback": "Eso ocurriría si la pendiente $m$ fuera 0."
@@ -982,7 +982,7 @@
           "feedback": "Todas las funciones de este tipo cortan al eje Y (en el origen)."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Una función lineal pura ($f(x) = mx$) se caracteriza por representar una proporcionalidad directa entre las variables. Gráficamente, es una línea recta que obligatoriamente cruza por el origen del plano cartesiano, el punto $(0,0)$.",
       "difficulty": "4",
       "images": [],
@@ -1054,25 +1054,25 @@
           "feedback": "Una recta creciente tiene pendiente positiva ($m > 0$)."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Es una recta decreciente.",
           "is_correct": true,
           "feedback": "Correcto, a medida que aumenta $x$, el valor de $y$ disminuye."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Es una recta horizontal.",
           "is_correct": false,
           "feedback": "Las rectas horizontales tienen pendiente $m = 0$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Es una recta vertical.",
           "is_correct": false,
           "feedback": "Las rectas verticales no representan funciones de $x$."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La pendiente $m$ indica la tasa de cambio. Si $m$ es negativa, la función es decreciente: al movernos hacia la derecha en el eje X, la gráfica baja en el eje Y.",
       "difficulty": "4",
       "images": [],
@@ -1144,25 +1144,25 @@
           "feedback": "Invertiste el cargo fijo con el costo variable por hora."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$C(x) = 8.000x + 15.000$",
           "is_correct": true,
           "feedback": "Correcto. El costo variable depende de $x$ y se suma el cargo fijo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$C(x) = 23.000x$",
           "is_correct": false,
           "feedback": "Esto supondría que los \\$15.000 se cobran por cada hora también."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$C(x) = 8.000 + 15.000$",
           "is_correct": false,
           "feedback": "Esta es una función constante que no depende de las horas trabajadas."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Identificamos los componentes: el cargo por hora es la pendiente ($8.000$ por cada $x$) y el cargo por visita es el coeficiente de posición (\\$15.000, costo base cuando $x=0$). La función es $C(x) = 8.000x + 15.000$.",
       "difficulty": "6",
       "images": [],
@@ -1189,25 +1189,25 @@
           "feedback": "Este es el intercepto con el eje Y."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$(5, 0)$",
           "is_correct": true,
           "feedback": "$2x - 10 = 0 \\Rightarrow 2x = 10 \\Rightarrow x = 5$. El punto es (5,0)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$(-5, 0)$",
           "is_correct": false,
           "feedback": "Error en el signo durante el despeje de $x$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$(10, 0)$",
           "is_correct": false,
           "feedback": "Olvidaste dividir por el coeficiente de la pendiente."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Para hallar el intercepto con el eje X (cero de la función), igualamos la función a cero: $2x - 10 = 0$. Despejamos $x$: $2x = 10 \\Rightarrow x = 5$. El punto de intersección es $(5, 0)$.",
       "difficulty": "6",
       "images": [],
@@ -1234,13 +1234,13 @@
           "feedback": "Olvidaste que el estanque ya tiene 40 litros al empezar."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "8 minutos",
           "is_correct": true,
           "feedback": "$40 + 20x = 200 \\Rightarrow 20x = 160 \\Rightarrow x = 8$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "12 minutos",
           "is_correct": false,
           "feedback": "Error en el planteamiento de la ecuación de llenado."
@@ -1252,7 +1252,7 @@
           "feedback": "Error aritmético en la división final."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La función de volumen es $V(x) = 20x + 40$. Queremos saber cuándo $V(x) = 200$. Planteamos $20x + 40 = 200$, restamos 40 para obtener $20x = 160$. Dividiendo por 20 resulta $x = 8$ minutos.",
       "difficulty": "6",
       "images": [],
@@ -1279,13 +1279,13 @@
           "feedback": "Calculaste un aumento de \\$2.500 pero no proporcional."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "\\$20.000",
           "is_correct": true,
           "feedback": "Precio por metro = $12.500 / 5 = 2.500$. Por 8 metros: $8 \\cdot 2.500 = 20.000$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "\\$18.500",
           "is_correct": false,
           "feedback": "Error en el cálculo de la constante de proporcionalidad."
@@ -1297,7 +1297,7 @@
           "feedback": "Has multiplicado por un factor incorrecto."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Es una función lineal del tipo $P(m) = km$. Hallamos $k$: $12.500 = k \\cdot 5 \\Rightarrow k = 2.500$ pesos por metro. Para 8 metros: $P(8) = 2.500 \\cdot 8 = 20.000$ pesos.",
       "difficulty": "6",
       "images": [],
@@ -1324,13 +1324,13 @@
           "feedback": "Eso haría que corten al eje Y en el mismo punto, no asegura paralelismo."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Que tengan la misma pendiente $m$.",
           "is_correct": true,
           "feedback": "Correcto, igual inclinación asegura que nunca se junten si $n$ es distinto."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Que el producto de sus pendientes sea -1.",
           "is_correct": false,
           "feedback": "Esa es la condición para rectas perpendiculares."
@@ -1342,7 +1342,7 @@
           "feedback": "Eso las hace simétricas respecto a un eje, no paralelas."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Dos rectas son paralelas si y solo si tienen exactamente la misma pendiente ($m_1 = m_2$). Esto garantiza que mantengan la misma dirección y, por tanto, una distancia constante entre ellas, sin intersectarse jamás (a menos que sean la misma recta).",
       "difficulty": "6",
       "images": [],
@@ -1363,13 +1363,13 @@
       "context": "Se busca determinar la ecuación de la recta que pasa por un punto dado y tiene una pendiente conocida.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$y = -2x + 4$",
           "is_correct": false,
           "feedback": "Sustituir el punto no cumple la igualdad."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$y = -2x + 10$",
           "is_correct": true,
           "feedback": "$4 = -2(3) + n \\Rightarrow 4 = -6 + n \\Rightarrow n = 10$."
@@ -1387,7 +1387,7 @@
           "feedback": "Invertiste el signo de la pendiente."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Usamos la forma punto-pendiente: $y - y_1 = m(x - x_1)$. Sustituimos: $y - 4 = -2(x - 3)$. Resolvemos: $y - 4 = -2x + 6 \\Rightarrow y = -2x + 10$.",
       "difficulty": "8",
       "images": [],
@@ -1408,13 +1408,13 @@
       "context": "Un estudiante en Temuco determina la ecuación de una recta a partir de dos puntos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$f(x) = 4x + 5$",
           "is_correct": false,
           "feedback": "Error en el cálculo de la pendiente $\\Delta y / \\Delta x$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$f(x) = 2x + 5$",
           "is_correct": true,
           "feedback": "$n=5$ (punto en X=0). $m = (9-5)/(2-0) = 4/2 = 2$."
@@ -1432,7 +1432,7 @@
           "feedback": "El coeficiente de posición correcto es 5."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Como pasa por $(0, 5)$, sabemos que $n = 5$. Calculamos la pendiente $m$ usando los dos puntos: $m = (9 - 5) / (2 - 0) = 4 / 2 = 2$. Combinando ambos valores: $f(x) = 2x + 5$.",
       "difficulty": "8",
       "images": [],
@@ -1459,25 +1459,25 @@
           "feedback": "Al sustituir $x=3$, $f(3)=10$ pero $g(3)=8$."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$(2, 7)$",
           "is_correct": true,
           "feedback": "$3x + 1 = x + 5 \\Rightarrow 2x = 4 \\Rightarrow x=2$. $f(2)=3(2)+1=7$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$(1, 4)$",
           "is_correct": false,
           "feedback": "No satisfacen la igualdad de las funciones."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$(2, 6)$",
           "is_correct": false,
           "feedback": "Error en el cálculo de la ordenada $y$."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Igualamos las funciones para hallar la coordenada $x$ del punto común: $3x + 1 = x + 5$. Restamos $x$ y restamos 1: $2x = 4 \\Rightarrow x = 2$. Hallamos $y$ evaluando en cualquiera: $y = 2 + 5 = 7$. El punto es $(2, 7)$.",
       "difficulty": "8",
       "images": [],
@@ -1543,13 +1543,13 @@
       "context": "Se pide identificar la función a partir de un gráfico que corta al eje X en -3 y al eje Y en 6.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$f(x) = 2x - 3$",
           "is_correct": false,
           "feedback": "Cortaría al eje Y en -3."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$f(x) = 2x + 6$",
           "is_correct": true,
           "feedback": "Intercepto Y en 6. Si $x=-3$, $2(-3)+6 = 0$ (intercepto X)."
@@ -1567,7 +1567,7 @@
           "feedback": "Cortaría al eje X en -2."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Intercepto con Y en 6 significa $n=6$. Puntos: $(0, 6)$ y $(-3, 0)$. Pendiente $m = (0 - 6) / (-3 - 0) = -6 / -3 = 2$. La función es $f(x) = 2x + 6$.",
       "difficulty": "8",
       "images": [],
@@ -1639,13 +1639,13 @@
           "feedback": "Eso duplicaría también el coeficiente de posición original."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$g(x) = 2mx + n + 3$",
           "is_correct": true,
           "feedback": "Correcto. Se aplican las operaciones solo a los parámetros indicados."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$g(x) = m^2x + n + 3$",
           "is_correct": false,
           "feedback": "Duplicar es multiplicar por 2, no elevar al cuadrado."
@@ -1657,7 +1657,7 @@
           "feedback": "Sumar 3 no es lo mismo que triplicar."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La pendiente original es $m$, al duplicarla resulta $2m$. El coeficiente de posición original es $n$, al sumarle 3 resulta $n+3$. Reemplazamos en la estructura base $y = (\\text{nueva } m)x + (\\text{nuevo } n)$, obteniendo $2mx + n + 3$.",
       "difficulty": "10",
       "images": [],
@@ -1729,13 +1729,13 @@
           "feedback": "Ese es el valor de $(g \\circ f)(5)$."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "18",
           "is_correct": true,
           "feedback": "$g(5) = 9$; luego $f(9) = 2 \\cdot 9 = 18$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "10",
           "is_correct": false,
           "feedback": "Solo calculaste $f(5)$."
@@ -1747,7 +1747,7 @@
           "feedback": "Solo calculaste $g(5)$."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La composición $(f \\circ g)(x)$ significa evaluar $f$ con el resultado de $g(x)$. Primero calculamos $g(5) = 5 + 4 = 9$. Luego usamos ese resultado como entrada para $f$: $f(9) = 2 \\cdot 9 = 18$.",
       "difficulty": "10",
       "images": [],
@@ -1768,13 +1768,13 @@
       "context": "Un profesor en Puerto Montt pregunta sobre la perpendicularidad de funciones.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$g(x) = 2x + 3$",
           "is_correct": false,
           "feedback": "Las pendientes deben ser recíprocas y de signo opuesto."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$g(x) = -2x + 5$",
           "is_correct": true,
           "feedback": "$1/2 \\cdot (-2) = -1$. Se cumple la condición de perpendicularidad."
@@ -1792,7 +1792,7 @@
           "feedback": "Esta es una recta paralela."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Dos rectas son perpendiculares si el producto de sus pendientes es igual a $-1$. La pendiente de $f$ es $1/2$. Buscamos $m$ tal que $1/2 \\cdot m = -1$, lo que nos da $m = -2$. La función B tiene pendiente $-2$.",
       "difficulty": "10",
       "images": [],

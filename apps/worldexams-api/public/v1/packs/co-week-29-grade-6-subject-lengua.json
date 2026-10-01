@@ -13,13 +13,13 @@
       "context": "En un colegio de Barranquilla, la profesora de lenguaje lleva varios periódicos a clase y explica que cada día se imprimen con información actualizada sobre lo que ocurrió.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Difundir información actual sobre hechos y personajes de interés público.",
           "is_correct": true,
           "feedback": "Correcto. El periódico informa de manera permanente y actualizada sobre la realidad."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Crear una obra de ficción con personajes imaginarios y un final feliz.",
           "is_correct": false,
           "feedback": "Incorrecto. Un diario de debates o una novela no tienen la finalidad informativa del periódico."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Crítica musical pertenece a una sección posible, no a la finalidad del medio."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El periódico es un medio de comunicación impreso que se edita con regularidad para informar sobre hechos actuales de interés público. Su contenido se organiza en secciones, como noticias, opinión, deporte y economía. Reconocer esta finalidad es indispensable para distinguir el periódico de otros formatos que también usan el papel, como el libro de texto o las novelas.",
       "difficulty": "4",
       "images": [],
@@ -105,13 +105,13 @@
       "context": "En clase de Pereira, un grupo de estudiantes debe producir el contenido de un periódico escolar sobre el barrio en el que viven.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Un encabezado con el nombre y la fecha, un título destacado y varias noticias breves sobre hechos reales del barrio.",
           "is_correct": true,
           "feedback": "Correcto. Reúne los elementos propios de una portada: identificación, título principal y noticias."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Un solo párrafo con la autobiografía del director del periódico, porque toda portada es personal.",
           "is_correct": false,
           "feedback": "Incorrecto. La autobiografía del director no es el contenido informativo de una portada."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecto. Sin encabezado ni fecha, el lector no puede identificar el medio ni la fecha."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La portada de un periódico debe identificar el medio, indicar la fecha y adelantar las noticias más importantes del día. En un periódico escolar, la estructura no cambia: se mantiene la lógica informativa del género. Reconocer estos elementos permite evaluar si un producto escolar cumple o no con las características del periódico.",
       "difficulty": "6",
       "images": [],
@@ -151,13 +151,13 @@
       "context": "En un colegio de Cartagena, la alumna autora de la nota periodística escribe sobre un problema de movilidad en su barrio.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "\"Vecinos de la calle del Carmen reclaman más buses en la mañana\".",
           "is_correct": true,
           "feedback": "Correcto. Ubica el lugar, la acción y las personas involucradas en el hecho notificado."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "\"El transporte de todas las ciudades del mundo es un problema terrible\".",
           "is_correct": false,
           "feedback": "Incorrecto. Es una generalización sin lugar ni datos, propia de la opinión, no de la noticia."
@@ -175,7 +175,7 @@
           "feedback": "Incorrecto. Es una afirmación absoluta, imposible de verificar, y por tanto no es noticia."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Un titular periodístico informativo debe señalar quién, qué y dónde ocurrió, de manera verificable. La nota local cumple esta condición cuando identifica el barrio, la acción y las personas involucradas. Las frases con \"todos\" o \"nadie\" imponen juicios que no se pueden comprobar con datos.",
       "difficulty": "6",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "Un grupo de estudiantes de Popayán prepara una edición del periódico escolar y debe escribir el texto de la noticia principal.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Titular, bajada, cuerpo de la noticia y fuente consultada.",
           "is_correct": true,
           "feedback": "Correcto. Reúne los elementos del género, desde el título hasta la mención de la fuente consultada."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Una portada a color, un precio de venta, el código postal y el número de edición.",
           "is_correct": false,
           "feedback": "Incorrecto. Son datos de la edición impresa, no elementos del texto de la noticia."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto. La encuesta pertenece a una sección de opinión interactiva, no a la noticia."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La noticia periodística tiene una estructura reconocible: el titular anuncia el hecho principal, la bajada lo complementa y resume, y el cuerpo da los datos de la noticia con el quién, qué, cuándo, dónde y por qué, cerrando con la fuente de información. Conocer esta estructura permite escribir con precisión y leerlas con criterio.",
       "difficulty": "6",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "En la primera página de un periódico de Medellín, el titular afirma que el tranvía es la mejor solución para el transporte de la ciudad, y en la misma página no hay datos ni nombre de quien escribe.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Se trata de una opinión sin sustento verificable, porque no aporta datos ni identifica a un autor responsable.",
           "is_correct": true,
           "feedback": "Correcto. Sin datos ni firma, el texto expresa un criterio personal que no puede comprobarse."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Se trata de una noticia verificada, porque aparece en la primera página del periódico.",
           "is_correct": false,
           "feedback": "Incorrecto. La ubicación en portada no convierte una opinión en información verificada."
@@ -267,7 +267,7 @@
           "feedback": "Incorrecto. El texto no narra hechos del pasado, sino que defiende una idea sobre el presente."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Inferir el carácter de un texto publicado exige revisar sus marcas: la firma del autor, la presencia de datos y la forma del lenguaje. Un texto que afirma que algo es la mejor solución, sin datos ni responsabilidad asumida, es una opinión. Esta distinción entre información y opinión es la base para leer el periódico con criterio.",
       "difficulty": "8",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "Un periódico de Barranquilla publica en su portada la misma nota copiada textualmente de un diario de otro país, sin indicar la fuente original.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La falta de crédito a la fuente original, que impide al lector rastrear el origen de la información.",
           "is_correct": true,
           "feedback": "Correcto. Sin crédito de fuente, el lector no puede verificar de dónde proviene el contenido."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La extensión excesiva de la nota, porque las noticias de portada siempre son muy largas.",
           "is_correct": false,
           "feedback": "Incorrecto. El problema descrito es la ausencia de crédito, no la extensión del texto."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecto. La circulación del diario no está en relación con copiar una nota sin crédito."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Criticar un medio exige apoyarse en la evidencia disponible y señalar la falla más evidente. Cuando una nota se copia sin indicar su origen, se rompe la cadena de trazabilidad: el lector no puede saber quién produjo la información ni contrastarla. Reconocer esta falla enseña a exigir siempre crédito de fuente.",
       "difficulty": "8",
       "images": [],
@@ -335,19 +335,19 @@
       "context": "Un grupo de estudiantes de Ibagué debe leer la edición de un periódico en cuarenta minutos y decidieron trazar de antemano un plan de lectura.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Revisar portada y titulares, elegir las secciones de interés y leer primero los subtítulos para seleccionar los textos relevantes.",
           "is_correct": true,
           "feedback": "Correcto. El barrido por estructura permite localizar la información clave dentro del poco tiempo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Leer palabra por palabra toda la edición, empezando por la primera página y terminando por la última.",
           "is_correct": false,
           "feedback": "Incorrecto. En cuarenta minutos no alcanza para leer todo, y así se pierden los textos importantes."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Leer únicamente la sección de deportes, porque es la más extensa de cualquier periódico.",
           "is_correct": false,
           "feedback": "Incorrecto. La sección de deportes no siempre es la más extensa ni la más relevante para todos."
@@ -359,7 +359,7 @@
           "feedback": "Incorrecto. La longitud de las palabras no revela el tema ni la importancia de un artículo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La lectura de un periódico exige una estrategia de barrido: primero se observa la estructura general, luego los titulares y subtítulos, y después se profundiza en los textos de interés. Este orden permite localizar la información relevante dentro de un tiempo limitado y evita la lectura lineal, que rara vez alcanza para una edición completa.",
       "difficulty": "8",
       "images": [],
@@ -381,31 +381,31 @@
       "context": "Un medio impreso de Bogotá publica una encuesta de opinión y un periódico de la misma ciudad publica un artículo basado en un estudio oficial con metodología explicada.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "La encuesta refleja la opinión de quienes responden, y el estudio explica cómo se obtuvo el dato; ambos requieren leer sus límites.",
           "is_correct": true,
           "feedback": "Correcto: explica qué mide cada fuente y señala que ninguna sustituye a la otra."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La encuesta es mejor porque qualquer persona puede opinar, y el estudio no representa a nadie.",
           "is_correct": false,
           "feedback": "Incorrecto. Toda encuesta tiene una muestra definida y todo estudio representa lo que mide."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El estudio es mejor porque sus datos son numéricos, y la encuesta no produce ningún dato.",
           "is_correct": false,
           "feedback": "Incorrecto. Una encuesta produce datos cuantitativos y cualitativos, aunque no se expresen con cifras."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Ambas fuentes son iguales porque cualquier forma de conocer la opinión es igualmente confiable.",
           "is_correct": false,
           "feedback": "Incorrecto. La confiabilidad depende del método, la muestra y la transparencia de cada fuente."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Evaluar fuentes de opinión pública exige reconocer qué mide cada una y con qué límites. La encuesta recoge respuestas de una muestra determinada, que puede no representar a toda la población; el estudio metodológico explica el procedimiento y permite auditar sus resultados. Ninguna de las dos formas es superior en abstracto: lo correcto es conocer su alcance antes de citarlas.",
       "difficulty": "10",
       "images": [],

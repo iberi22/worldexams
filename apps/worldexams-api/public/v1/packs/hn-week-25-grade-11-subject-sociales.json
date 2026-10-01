@@ -19,25 +19,25 @@
           "feedback": "Incorrecto. El poder militar no es un poder del Estado independiente en el marco democrático actual."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Legislativo, Ejecutivo y Judicial.",
           "is_correct": true,
           "feedback": "¡Correcto! Estos son los tres poderes clásicos que garantizan el equilibrio democrático en Honduras."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Legislativo, Municipal y Ejecutivo.",
           "is_correct": false,
           "feedback": "Incorrecto. El nivel municipal es una división administrativa, no un poder del Estado central."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Electoral, Judicial y Ciudadano.",
           "is_correct": false,
           "feedback": "Incorrecto. Aunque existen órganos electorales, la tríada fundamental es Legislativo, Ejecutivo y Judicial."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La división de poderes es un principio fundamental del Estado de Derecho en Honduras, diseñado para evitar la concentración de poder y asegurar la democracia.\n\n---",
       "difficulty": "3",
       "images": [],
@@ -64,13 +64,13 @@
           "feedback": "Incorrecto. Esta es solo una función administrativa menor dentro de todo el marco constitucional."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Ser la ley suprema que organiza el Estado y garantiza los derechos y deberes de los habitantes.",
           "is_correct": true,
           "feedback": "¡Correcto! La Constitución es la \"Carta Magna\" que rige toda la estructura legal y social del país."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Dictar las sentencias en los juicios por delitos comunes.",
           "is_correct": false,
           "feedback": "Incorrecto. Esa es función del Poder Judicial a través de las leyes penales, no de la Constitución directamente."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. La Constitución define el proceso, pero no realiza la elección."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La Constitución es el contrato social supremo que define la identidad del Estado hondureño y protege las libertades fundamentales de sus ciudadanos.\n\n---",
       "difficulty": "3",
       "images": [],
@@ -109,13 +109,13 @@
           "feedback": "Incorrecto. Los aztecas se establecieron principalmente en el centro de México."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Inca",
           "is_correct": false,
           "feedback": "Incorrecto. Los incas fueron la civilización dominante en la región andina de Suramérica."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Maya",
           "is_correct": true,
           "feedback": "¡Correcto! Copán fue una de las ciudades-estado más importantes de la civilización maya."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. Aunque son un pueblo originario clave de Honduras, los mayas son los constructores de las grandes ruinas del occidente."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Los mayas en Copán destacaron en astronomía, matemáticas y arquitectura, dejando un legado cultural que es Patrimonio de la Humanidad en Honduras.\n\n---",
       "difficulty": "3",
       "images": [],
@@ -205,19 +205,19 @@
           "feedback": "Incorrecto. Es una región selvática y pantanosa, no enfocada en la agroindustria bananera masiva."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Región del Litoral Atlántico o Costa Norte.",
           "is_correct": true,
           "feedback": "¡Correcto! Los valles de Sula y del Aguán son el corazón de la producción agrícola del país."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Meseta Central.",
           "is_correct": false,
           "feedback": "Incorrecto. Es la zona montañosa donde se encuentra la capital."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La geografía de la Costa Norte ha determinado gran parte de la historia económica y social de Honduras, especialmente por el desarrollo de los \"enclaves bananeros\".\n\n---",
       "difficulty": "4",
       "images": [],
@@ -289,13 +289,13 @@
           "feedback": "Incorrecto. No es un cultivo tradicional ni masivo en Honduras."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Trigo",
           "is_correct": false,
           "feedback": "Incorrecto. Honduras importa trigo, no lo produce a gran escala."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Café",
           "is_correct": true,
           "feedback": "¡Correcto! Honduras es uno de los mayores productores mundiales de café arábica de alta calidad."
@@ -307,7 +307,7 @@
           "feedback": "Incorrecto. El petróleo es un recurso mineral, no un producto agrícola, y Honduras no es productor masivo."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "La caficultura es fundamental para la estabilidad socioeconómica de miles de familias hondureñas, especialmente en los departamentos de Olancho, Comayagua y El Paraíso.\n\n---",
       "difficulty": "5",
       "images": [],
@@ -373,19 +373,19 @@
       "context": "Un sociólogo analiza la diversidad étnica de Honduras.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Misquitos",
           "is_correct": false,
           "feedback": "Incorrecto. Tienen su propia cultura pero no se asocian principalmente con la danza punta."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Chortís",
           "is_correct": false,
           "feedback": "Incorrecto. Son descendientes directos de los mayas en el occidente."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Garífunas",
           "is_correct": true,
           "feedback": "¡Correcto! Ubicados principalmente en el litoral atlántico, su cultura es un pilar de la identidad nacional."
@@ -397,7 +397,7 @@
           "feedback": "Incorrecto. Es un grupo originario con una lengua de raíz macro-chibcha."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "La cultura Garífuna es un ejemplo de resistencia y riqueza cultural que enriquece la diversidad étnica de Honduras.\n\n---",
       "difficulty": "5",
       "images": [],
@@ -424,25 +424,25 @@
           "feedback": "Incorrecto. Esta fecha corresponde a la independencia de Colombia."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "15 de septiembre de 1821",
           "is_correct": true,
           "feedback": "¡Correcto! Es la fecha nacional que celebran Honduras y sus países hermanos de la región."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "1 de julio de 1823",
           "is_correct": false,
           "feedback": "Incorrecto. Esta es la fecha de la independencia absoluta de México."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "3 de octubre de 1892",
           "is_correct": false,
           "feedback": "Incorrecto. No corresponde a los procesos independentistas."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La independencia de 1821 marcó el fin del período colonial y el inicio de la búsqueda de soberanía para las naciones centroamericanas.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -649,13 +649,13 @@
           "feedback": "Incorrecto. Esto impediría el acceso a la información."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "La Ley de Transparencia y Acceso a la Información Pública (IAIP).",
           "is_correct": true,
           "feedback": "¡Correcto! Permite que cualquier ciudadano hondureño audite la gestión de sus gobernantes."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El Código de Comercio.",
           "is_correct": false,
           "feedback": "Incorrecto. Regula las actividades mercantiles privadas."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. Regula la circulación de vehículos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La transparencia es un pilar de la democracia que permite combatir la corrupción y mejorar la eficiencia de los servicios públicos en Honduras.\n\n---",
       "difficulty": "7",
       "images": [],
@@ -694,13 +694,13 @@
           "feedback": "Incorrecto. Es el paladín de la unión centroamericana, pero de la época republicana."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Lempira",
           "is_correct": true,
           "feedback": "¡Correcto! El cacique que lideró la resistencia indígena en la región de los Lencas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "José Cecilio del Valle",
           "is_correct": false,
           "feedback": "Incorrecto. Es el redactor del Acta de Independencia, un intelectual."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. Fue el primer Jefe de Estado de Honduras."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La figura de Lempira simboliza la valentía y el amor a la tierra, siendo un referente de la identidad nacional hondureña desde la educación primaria.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -739,25 +739,25 @@
           "feedback": "Incorrecto. La agricultura sigue siendo un sector clave."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Ha generado miles de empleos, pero también ha creado dependencia de mercados externos y desafíos laborales.",
           "is_correct": true,
           "feedback": "¡Correcto! Es un modelo de industrialización por invitación con pros y contras."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ha impedido que Honduras use internet.",
           "is_correct": false,
           "feedback": "Incorrecto. No tiene relación con el acceso a la tecnología digital."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Ha provocado la desaparición del idioma español en la zona norte.",
           "is_correct": false,
           "feedback": "Incorrecto. El español sigue siendo la lengua dominante."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El sector de la maquila es un componente importante del PIB hondureño, reflejando cómo Honduras se inserta en las cadenas de producción globales.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -829,13 +829,13 @@
           "feedback": "Incorrecto. El gobierno central mantiene funciones de coordinación y políticas nacionales."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Permitir que las autoridades locales respondan de forma más directa y rápida a las necesidades específicas de su comunidad.",
           "is_correct": true,
           "feedback": "¡Correcto! El alcalde y su corporación conocen mejor la realidad de su pueblo o ciudad."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Que cada municipio pueda tener su propio ejército independiente.",
           "is_correct": false,
           "feedback": "Incorrecto. La seguridad nacional es una función unificada del Estado."
@@ -847,7 +847,7 @@
           "feedback": "Incorrecto. La descentralización no elimina las obligaciones fiscales nacionales."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El fortalecimiento de los gobiernos locales es vital para el desarrollo de proyectos de infraestructura y bienestar social adaptados a cada región de Honduras.\n\n---",
       "difficulty": "9",
       "images": [],
@@ -874,13 +874,13 @@
           "feedback": "Incorrecto. El pago de intereses no genera riqueza interna inmediata."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Se reduce la disponibilidad de recursos para inversión en sectores críticos como salud, educación e infraestructura.",
           "is_correct": true,
           "feedback": "¡Correcto! El costo de oportunidad afecta el desarrollo social del país."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Que Honduras ya no necesita producir alimentos.",
           "is_correct": false,
           "feedback": "Incorrecto. La seguridad alimentaria sigue siendo una prioridad nacional."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. La deuda suele presionar la devaluación de la moneda, no su apreciación."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La gestión responsable de las finanzas públicas es un desafío constante para el Estado hondureño, buscando equilibrar el cumplimiento de compromisos con la inversión social.\n\n---",
       "difficulty": "10",
       "images": [],

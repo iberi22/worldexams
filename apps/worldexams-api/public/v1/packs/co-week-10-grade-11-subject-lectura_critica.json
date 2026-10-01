@@ -13,31 +13,31 @@
       "context": "En el ensayo *Elogio de la dificultad* de Estanislao Zuleta: \"Deseamos un mapa sin laberintos, una victoria sin combate, un amor sin celos ni dudas; por eso caemos en los cantos de sirena del autoritarismo\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "La búsqueda de utopías simplistas y sin conflicto conduce a la servidumbre política y al dogmatismo autoritario.",
           "is_correct": true,
           "feedback": "Zuleta argumenta que rechazar la dificultad del pensamiento y la convivencia nos entrega inermes a regímenes que prometen orden fácil."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Los seres humanos deben evitar los laberintos reales para no perderse en las montañas de Colombia.",
           "is_correct": false,
           "feedback": "Usa la metáfora del laberinto para criticar la simplificación de la vida y el pensamiento."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La victoria en cualquier combate depende del uso de armas de fuego de última generación.",
           "is_correct": false,
           "feedback": "No se refiere a contiendas bélicas físicas sino al esfuerzo y la tensión ética del pensamiento."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El autoritarismo es el único sistema político capaz de garantizar la paz en las universidades.",
           "is_correct": false,
           "feedback": "El ensayo ataca abiertamente al autoritarismo como síntoma de inmadurez y miedo al conflicto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Zuleta postula que el deseo de evitar el conflicto conduce a la servidumbre y defiende la dificultad como espacio de libertad crítica.",
       "difficulty": "4",
       "images": [],
@@ -59,13 +59,13 @@
       "context": "En un artículo de opinión sobre la IA en la educación: \"Aunque los sistemas generativos redactan resúmenes en segundos, no poseen conciencia ni ética; confinar la Lectura Crítica a un algoritmo es delegar la soberanía del pensamiento humano\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Un argumento de distinción cualitativa que contrapone el procesamiento mecánico de datos con la capacidad ética y reflexiva de la mente humana.",
           "is_correct": true,
           "feedback": "El autor diferencia la velocidad técnica de la máquina frente a la dimensión ética y crítica de la interpretación humana."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Una falacia ad hominem que ataca la vida privada de los ingenieros de sistemas.",
           "is_correct": false,
           "feedback": "El argumento analiza las propiedades y límites de la tecnología, no a los programadores."
@@ -83,7 +83,7 @@
           "feedback": "Se enfoca en la capacidad crítica frente a la inteligencia artificial generativa."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El texto contrapone la eficiencia sintáctica del procesamiento automático con la soberanía ética de la interpretación crítica.",
       "difficulty": "4",
       "images": [],
@@ -105,19 +105,19 @@
       "context": "En la novela *María* de Jorge Isaacs, cuando Efraín se despide de María para viajar a Europa, ella le entrega una azucena cortada del huerto.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Condensa la pureza del amor idílico de María y anticipa la brevedad efímera de su vida y de la felicidad de los amantes.",
           "is_correct": true,
           "feedback": "La flor es la metafora romántica por excelencia de la fragilidad, la inocencia y el presagio de la muerte temprana."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Indica que Efraín planeaba vender flores colombianas en los mercados de Londres.",
           "is_correct": false,
           "feedback": "Es un símbolo de amor y presagio lírico, lejos del comercio vegetal."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Prueba que María era una experta en Botánica agronómica egresada de la universidad.",
           "is_correct": false,
           "feedback": "Expresa la delicadeza sentimental del personaje en el marco del idilio novelesco."
@@ -129,7 +129,7 @@
           "feedback": "Usa la flora local como vehículo de significación emotiva y poética."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La azucena romántica es un emblema de la pureza de María y un presagio de la caducidad efímera de su vida.",
       "difficulty": "4",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "En el ensayo *La soledad de América Latina* de Gabriel García Márquez: \"La violencia y la demencia de nuestra historia no son invención literaria; son la realidad desmesurada que habita entre nosotros\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Sostiene que la desmesura de la historia latinoamericana supera los límites del realismo tradicional y exige nuevos lenguajes para ser creíble.",
           "is_correct": true,
           "feedback": "El autor explica que el realismo mágico no es un truco fantástico sino la única forma de dar cuenta de una realidad trágica e hiperbólica."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Afirma que los escritores europeos deben abandonar el idioma español por falta de imaginación.",
           "is_correct": false,
           "feedback": "Reivindica la autonomía cultural y la especificidad histórica de América Latina."
@@ -221,7 +221,7 @@
           "feedback": "Defiende la capacidad de la literatura para captar la verdad profunda de la vida americana."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "García Márquez fundamenta el realismo mágico en la desmesura objetiva de la historia de América Latina.",
       "difficulty": "6",
       "images": [],
@@ -243,19 +243,19 @@
       "context": "En un fragmento de *La forma de las ruinas* de Juan Gabriel Vásquez: \"Los magnicidios en Colombia no son eventos del pasado; son cicatrices vivas que siguen dirigiendo nuestros miedos presentes\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "El pasado no está clausurado: la impunidad de los grandes crímenes políticos continúa moldeando las desconfianzas de la sociedad actual.",
           "is_correct": true,
           "feedback": "Vásquez indaga cómo el asesinato de líderes como Uribe Uribe o Gaitán fracturó el tejido social dejando huellas abiertas en el presente."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Demuestra que los crímenes del pasado no tienen ninguna influencia en la vida actual del país.",
           "is_correct": false,
           "feedback": "La novela sostiene precisamente lo contrario: el pasado reciente nos habita y condiciona."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Afirma que la historia de Colombia comenzó en el año 2000 con la llegada del nuevo milenio.",
           "is_correct": false,
           "feedback": "Inscribe el relato en la larga duración de los traumas y fracturas políticas del siglo XX."
@@ -267,7 +267,7 @@
           "feedback": "Reflexiona sobre la responsabilidad ética de la memoria y la verdad."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La narrativa histórica de Vásquez concibe el trauma político no como pieza de museo sino como una herida activa que exige comprensión.",
       "difficulty": "6",
       "images": [],
@@ -289,19 +289,19 @@
       "context": "En un poema de León de Greiff: \"Juego mi vida al gallo de la pasión, al dado de la suerte, al azar de las cartas\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "La vivencia de la vida como una aventura peligrosa y desinteresada donde se arriesga todo sin buscar recompensas materiales.",
           "is_correct": true,
           "feedback": "De Greiff encarna al sujeto bohemio e iconoclasta que rechaza la prudencia burguesa y entrega su destino a la pasión pura."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La recomendación formal de abrir salas de apuestas en las plazas de mercado de Antioquia.",
           "is_correct": false,
           "feedback": "El juego es una metáfora existencial del poeta, no una propuesta de negocio urbano."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Un estudio sobre las probabilidades matemáticas de ganar en las cartas.",
           "is_correct": false,
           "feedback": "No se trata de cálculo probabilístico sino de la entrega romántica e irónica al destino."
@@ -313,7 +313,7 @@
           "feedback": "El poema celebra con ironía la libertad y el riesgo de vivir al margen del dogma."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Las metáforas del juego en León de Greiff expresan la libertad irónica del creador que apuesta su vida a la belleza y la pasión.",
       "difficulty": "6",
       "images": [],
@@ -381,13 +381,13 @@
       "context": "En el cuento *Un día de estos* de García Márquez, el dentista Aurelio Escovar le dice al alcalde sin anestesia: \"Aquí nos paga veinte muertos, teniente\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Invierte la jerarquía del poder político, aprovechando el dolor físico para cobrar en la intimidad del gabinete las víctimas de la represión.",
           "is_correct": true,
           "feedback": "Escovar ejercer una justicia silenciosa e implacable: en el sillón del dentista, la autoridad armada queda a merced de la dignidad del pueblo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Demuestra que el dentista cobraba veinte pesos por cada extracción dental.",
           "is_correct": false,
           "feedback": "Los \"veinte muertos\" aluden a las víctimas de la violencia política patrocinada por el alcalde."
@@ -405,7 +405,7 @@
           "feedback": "Es un gabinete modesto donde la violencia social encuentra un insólito espacio de cobro moral."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La frase del dentista es un hito de la narrativa breve: la vulnerabilidad del tirano ante el dolor iguala las cuentas de la represión.",
       "difficulty": "6",
       "images": [],
@@ -427,13 +427,13 @@
       "context": "En *La perra* de Pilar Quintana, Damaris contempla la selva y el mar de la bahía de Málaga sintiendo que \"todo lo que nacía en ese lugar estaba destinado a la herida y al desamparo\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Un determinismo doloroso donde la naturaleza indómita y la exclusión social condenan a los personajes a la frustración de sus afectos.",
           "is_correct": true,
           "feedback": "Quintana construye un universo donde la intemperie física refleja la imposibilidad de la ternura en un entorno marcado por la violencia."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Una visión optimista que promete la llegada inmediata del turismo internacional a la bahía.",
           "is_correct": false,
           "feedback": "La obra muestra la crudeza, la pobreza y la soledad del Pacífico sin velos idílicos."
@@ -451,7 +451,7 @@
           "feedback": "Usa la geografía del Pacífico como escenario de una tragedia íntima e inolvidable."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El tono determinista y trágico en Pilar Quintana articula el aislamiento geográfico con el dolor inapelable de la protagonista.",
       "difficulty": "6",
       "images": [],
@@ -473,19 +473,19 @@
       "context": "En un fragmento de *Sin remedio* de Antonio Caballero, el protagonista afirma: \"En Bogotá no llueve agua; llueve tristeza congelada sobre las sombrillas de los transeúntes\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Subjetiva el fenómeno climático para convertir el agua en metáfora de la apatía y el desencanto de los habitantes de la capital.",
           "is_correct": true,
           "feedback": "Caballero transfigura la llovizna bogotana en un síntoma de la neurosis y el tedio urbano de la clase media intelectual."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Informa que la temperatura de la ciudad cayó por debajo de los cero grados centígrados.",
           "is_correct": false,
           "feedback": "No es un reporte de meteorología sino una construcción de atmósfera poética y satírica."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Recomienda el uso de sombrillas metálicas para protegerse de las granizadas.",
           "is_correct": false,
           "feedback": "Usa la lluvia como símbolo del clima emocional de la metrópoli."
@@ -497,7 +497,7 @@
           "feedback": "Exagera el clima gris para enfatizar el humor melancólico del personaje."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La metáfora de la \"tristeza congelada\" en Caballero convierte al clima bogotano en el espejo de la neurosis urbana.",
       "difficulty": "8",
       "images": [],
@@ -519,13 +519,13 @@
       "context": "En *Los ejércitos* de Evelio Rosero, las casas desiertas del pueblo de San José conservan las mesas puestas y las puertas abiertas tras la huida de las familias.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Evidencia la interrupción abrupta de la vida cotidiana y el pánico del abandono mediante la presencia muda de las pertenencias de las víctimas.",
           "is_correct": true,
           "feedback": "Las mesas con platos servidos y las puertas abiertas son la huella desgarradora del terror que obliga a huir dejando atrás la historia personal."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Demuestra que los habitantes salieron de paseo por pocas horas al campo.",
           "is_correct": false,
           "feedback": "La ausencia de los vecinos y el silencio del pueblo indican el drama irreversible de la huida."
@@ -543,7 +543,7 @@
           "feedback": "Representa la desposesión trágica y el despojo provocado por el conflicto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Los objetos cotidianos abandonados en *Los ejércitos* funcionan como elocuentes testimonios mudos del pavor del desplazamiento forzado.",
       "difficulty": "8",
       "images": [],
@@ -565,19 +565,19 @@
       "context": "En un verso de Candelario Obeso: \"Qué trampa tiene la vida, qué pena tiene el bogar; el agua corre pa' abajo y yo pa' arriba he de andar\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Símboliza la resistencia del humilde que navega a contracorriente de la adversidad social y el peso de la discriminación.",
           "is_correct": true,
           "feedback": "Obeso convierte el remado físico contra la corriente del Magdalena en la alegoría de la tenaz lucha del negro por su dignidad."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Demuestra que los ríos de Colombia fluyen en dirección opuesta a las leyes de la física.",
           "is_correct": false,
           "feedback": "La corriente del río es la metáfora de las fuerzas sociales adversas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Recomienda el uso de motores de gasolina para evitar el cansancio del remo.",
           "is_correct": false,
           "feedback": "Celebra el esfuerzo heroico y el canto del boga en el siglo XIX."
@@ -589,7 +589,7 @@
           "feedback": "Reivindica la voz y la filosofía de vida del trabajador afrocolombiano."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El verso de Obeso convierte el esfuerzo físico de remar a contracorriente en una metáfora de la resistencia social del pueblo negro.",
       "difficulty": "8",
       "images": [],
@@ -611,31 +611,31 @@
       "context": "En la novela *Satanás* de Mario Mendoza, un sacerdote pierde la fe al enfrentarse a la presencia del mal en los barrios marginales de Bogotá.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Muestra el colapso de los dogmas religiosos ante la evidencia del dolor humano, la violencia sin respuesta y el abandono social.",
           "is_correct": true,
           "feedback": "Mendoza cuestiona la teología tradicional mostrando cómo el sufrimiento de los inocentes en la gran ciudad quiebra la fe del clérigo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Demuestra que el sacerdote deseaba cambiar de profesión para dedicarse a la medicina.",
           "is_correct": false,
           "feedback": "La quiebra del personaje es un dilema de la fe ante el problema del mal y el dolor."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Señala que los templos de Bogotá eran los más ricos de América Latina.",
           "is_correct": false,
           "feedback": "Expone las grietas de la institución eclesial frente a la marginalidad y el crimen."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Prohíbe el ejercicio del sacerdocio en las zonas urbanas marginales.",
           "is_correct": false,
           "feedback": "Indaga la crisis de sentido y la alienación del sujeto en la metrópoli moderna."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La crisis del sacerdote en *Satanás* refleja la insuficiencia de los dogmas tradicionales para explicar el mal y la miseria urbana.",
       "difficulty": "8",
       "images": [],
@@ -657,31 +657,31 @@
       "context": "En *Opio en las nubes* de Chaparro Madiedo: \"Amar es como andar en un convertible amarillo a doscientos kilómetros por hora directo contra una pared de ladrillos\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Expresa una pasión desenfrenada, suicida y vertiginosa que une el placer absoluto con la inminencia de la destrucción.",
           "is_correct": true,
           "feedback": "Chaparro Madiedo define el amor desde la estética punk de la aceleración, el riesgo y el goce límite."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Advierte a los jóvenes sobre las normas de tránsito y los límites de velocidad.",
           "is_correct": false,
           "feedback": "No se trata de una lección de conducción sino de una metáfora pasional desbordada."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Demuestra que los convertibles amarillos eran los vehículos más vendidos en Bogotá.",
           "is_correct": false,
           "feedback": "Usa la velocidad y el coche como símbolos pop de libertad y vértigo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Prohíbe a las parejas enamoradas viajar por las carreteras intermunicipales.",
           "is_correct": false,
           "feedback": "Celebra el ardor de la entrega afectiva sin medir las consecuencias."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La hipérbole del automóvil a gran velocidad contra la pared define la visión trágica, apasionada y punk del amor en Chaparro Madiedo.",
       "difficulty": "8",
       "images": [],
@@ -703,13 +703,13 @@
       "context": "En el ensayo *La casa grande* de Álvaro Cepeda Samudio, la historia de la masacre de las bananeras se construye sin nombrar nunca directamente la palabra \"ejército\" ni \"bananeras\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Eleva el evento histórico a la categoría de parábola universal sobre la violencia del poder y el silenciamiento de las víctimas.",
           "is_correct": true,
           "feedback": "Al despojar la historia de la nomenclatura periodística, Cepeda Samudio convierte la tragedia en un mito de dolor universal."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Demuestra que el autor desconocía los nombres del lugar y de las instituciones.",
           "is_correct": false,
           "feedback": "Cepeda Samudio era un profundo conocedor de la historia de Ciénaga y eligió la omisión por razones estilísticas."
@@ -727,7 +727,7 @@
           "feedback": "Es un virtuoso ejercicio de contención y elipsis de la narrativa de vanguardia."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La omisión de los nombres propios en *La casa grande* transforma un hecho histórico específico en un mito universal sobre el poder y la violencia.",
       "difficulty": "8",
       "images": [],
@@ -749,19 +749,19 @@
       "context": "En un fragmento de *La carroza de Bolívar* de Evelio Rosero, un médico de Pasto cuestiona los actos del Libertador durante la Navidad Negra de 1822.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Reivindica la memoria de las comunidades agredidas por los ejércitos libertadores, cuestionando el culto ciego a los próceres de la historia oficial.",
           "is_correct": true,
           "feedback": "Rosero da voz al dolor de los pastusos para desmitificar las atrocidades cometidas en nombre de la patria y rescatar la verdad del pueblo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Demuestra que las guerras de Independencia no tuvieron consecuencias humanas.",
           "is_correct": false,
           "feedback": "Visibiliza la saña, los saqueos y la violencia sufrida por la población civil."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Afirma que Simón Bolívar fue una invención de los historiadores del siglo XX.",
           "is_correct": false,
           "feedback": "Cuestiona los actos del personaje histórico de carne y hueso lejos de la estatua de bronce."
@@ -773,7 +773,7 @@
           "feedback": "Promueve un pensamiento crítico e imparcial sobre las luces y sombras del pasado nacional."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La desacralización de los próceres en Evelio Rosero recupera la memoria de las víctimas olvidadas por la historia oficial de bronce.",
       "difficulty": "10",
       "images": [],
@@ -795,31 +795,31 @@
       "context": "En *Changó, el gran putas* de Manuel Zapata Olivella, los ancestros africanos (*Orishas*) guían la resistencia de los esclavizados en Cartagena.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Quiebra el racionalismo eurocéntrico al integrar la espiritualidad ancestral como una fuerza activa de liberación y memoria colectiva.",
           "is_correct": true,
           "feedback": "Zapata Olivella muestra que la lucha contra la esclavitud no fue solo física sino un combate espiritual impulsado por la fe en los ancestros."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Demuestra que los esclavizados carecían de pensamiento filosófico o religioso propio.",
           "is_correct": false,
           "feedback": "La novela celebra precisamente la inmensa riqueza y sofisticación de la filosofía Bantú y Yoruba."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Señala que los *Orishas* eran autoridades del gobierno colonial español.",
           "is_correct": false,
           "feedback": "Son las divinidades y ancestros que infunden aliento de libertad a los oprimidos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Obliga a clasificar la obra como un texto exclusivo para antropólogos extranjeros.",
           "is_correct": false,
           "feedback": "Es una monumental novela épica fundamental para toda la literatura del continente."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Zapata Olivella revoluciona la novela histórica al situar la espiritualidad y cosmogonía africana en el centro de la gesta de la libertad.",
       "difficulty": "10",
       "images": [],

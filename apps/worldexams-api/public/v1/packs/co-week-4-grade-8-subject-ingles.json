@@ -13,13 +13,13 @@
       "context": "Comparing two cities in Colombia.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "cold",
           "is_correct": false,
           "feedback": "Incorrect. We need the comparative form."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "colder",
           "is_correct": true,
           "feedback": "Correct! For short adjectives, we add \"-er\" for comparison."
@@ -37,7 +37,7 @@
           "feedback": "Incorrect. This is the superlative form, used for more than two things."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Para adjetivos cortos (una sílaba), formamos el comparativo agregando el sufijo \"-er\" seguido de \"than\".\n\n---",
       "difficulty": "4",
       "images": [],
@@ -65,13 +65,13 @@
           "feedback": "Incorrect. Needs the superlative suffix."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "higher than",
           "is_correct": false,
           "feedback": "Incorrect. This is for comparing two things."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "the highest",
           "is_correct": true,
           "feedback": "Correct! Use \"the\" + \"-est\" for the superlative of short adjectives."
@@ -83,7 +83,7 @@
           "feedback": "Incorrect. Short adjectives don't use \"most\"."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "El superlativo se usa para indicar que algo posee una cualidad en el grado máximo dentro de un grupo. Para adjetivos cortos, usamos \"the\" y el sufijo \"-est\".\n\n---",
       "difficulty": "4",
       "images": [],
@@ -111,25 +111,25 @@
           "feedback": "Incorrect. \"Difficult\" is a long adjective."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "more difficult",
           "is_correct": true,
           "feedback": "Correct! Long adjectives use \"more\" for comparison."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "as difficult",
           "is_correct": false,
           "feedback": "Incorrect. Needs \"as\" after the adjective to complete the structure."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "the most difficult",
           "is_correct": false,
           "feedback": "Incorrect. This is a superlative, not a comparison between two."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Para adjetivos largos (de tres o más sílabas), el comparativo se forma anteponiendo la palabra \"more\" al adjetivo.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -157,13 +157,13 @@
           "feedback": "Incorrect. \"Good\" is an irregular adjective."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "better",
           "is_correct": true,
           "feedback": "Correct! \"Better\" is the comparative form of \"good\"."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "the best",
           "is_correct": false,
           "feedback": "Incorrect. This is the superlative form."
@@ -175,7 +175,7 @@
           "feedback": "Incorrect. \"Good\" does not use \"more\"."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Algunos adjetivos son irregulares y cambian su forma completamente. El comparativo de \"good\" es \"better\" y el de \"bad\" es \"worse\".\n\n---",
       "difficulty": "6",
       "images": [],
@@ -197,31 +197,31 @@
       "context": "Using \"as...as\" for equality.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "as / as",
           "is_correct": true,
           "feedback": "Correct! We use \"as + adjective + as\" to show equality."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "more / than",
           "is_correct": false,
           "feedback": "Incorrect. This would mean they don't cost the same."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "so / that",
           "is_correct": false,
           "feedback": "Incorrect. This structure is for consequence, not comparison."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "less / than",
           "is_correct": false,
           "feedback": "Incorrect. This means it is cheaper, but they cost the same."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Para comparar dos cosas que son iguales en una cualidad, utilizamos la estructura \"as + adjetivo + as\" (tan... como).\n\n---",
       "difficulty": "6",
       "images": [],
@@ -249,25 +249,25 @@
           "feedback": "Incorrect. Comparative needed."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "slower",
           "is_correct": true,
           "feedback": "Correct! Comparison of two modes of transport."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "the slowest",
           "is_correct": false,
           "feedback": "Incorrect. Superlative doesn't fit a comparison between two items."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "more slow",
           "is_correct": false,
           "feedback": "Incorrect. \"Slow\" is a short adjective."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Al comparar dos elementos específicos (Chiva vs. Bus moderno), debemos usar el grado comparativo. \"Slow\" es corto, por lo que usamos \"-er\".\n\n---",
       "difficulty": "6",
       "images": [],
@@ -335,13 +335,13 @@
       "context": "Understanding the emphasis of \"by far\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Cali is a little bit warmer than other cities.",
           "is_correct": false,
           "feedback": "Incorrect. \"By far\" shows a large difference."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Cali is much warmer than all the other cities.",
           "is_correct": true,
           "feedback": "Correct! \"By far\" emphasizes a significant difference in a superlative."
@@ -359,7 +359,7 @@
           "feedback": "Incorrect. It's a statement of fact, not preference."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La expresión \"by far\" se utiliza con superlativos para enfatizar que la diferencia entre el primer lugar y los demás es muy grande.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -387,25 +387,25 @@
           "feedback": "Incorrect. Second part must be a comparative too."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "harder / better",
           "is_correct": true,
           "feedback": "Correct! Double comparative structure \"The + comparative, the + comparative\"."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "hard / best",
           "is_correct": false,
           "feedback": "Incorrect. Doesn't follow the correlative structure."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "most / best",
           "is_correct": false,
           "feedback": "Incorrect. Uses superlatives instead of comparatives."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La estructura \"The + comparativo..., the + comparativo...\" se usa para mostrar cómo una situación depende de otra (Cuanto más..., mejor...).\n\n---",
       "difficulty": "8",
       "images": [],
@@ -427,19 +427,19 @@
       "context": "Identifying errors in complex comparisons.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "This exam was far more difficult than I expected.",
           "is_correct": false,
           "feedback": "Incorrect. This sentence is correct; \"far\" modifies the comparative."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "She is the least ambitious person in the whole team.",
           "is_correct": false,
           "feedback": "Incorrect. This sentence is correct; \"the least\" is a negative superlative."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "My house is more bigger than yours.",
           "is_correct": true,
           "feedback": "Correct! This is an error. We should never use \"more\" with an \"-er\" comparative."
@@ -451,7 +451,7 @@
           "feedback": "Incorrect. This sentence is correct."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Un error común que se debe evitar en nivel B1 es la \"doble comparación\" (usar *more* y el sufijo *-er* al mismo tiempo).\n\n---",
       "difficulty": "10",
       "images": [],
@@ -473,13 +473,13 @@
       "context": "Evaluating subtle differences in meaning.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Yes, both sentences mean the book is superior to the movie.",
           "is_correct": true,
           "feedback": "Correct! \"Not as... as\" is often a softer way to say \"less than\"."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "No, sentence 1 means they are equal.",
           "is_correct": false,
           "feedback": "Incorrect. \"Not as...as\" shows inequality."
@@ -497,7 +497,7 @@
           "feedback": "Incorrect. Both favor the book."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El estudiante debe reconocer que \"not as + adjetivo + as\" es una estructura alternativa para expresar inferioridad, equivalente a \"less than\" o al comparativo opuesto.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -519,19 +519,19 @@
       "context": "Writing a concluding sentence for a travel blog.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Ultimately, choosing between them depends on whether you prefer warmth or scenery.",
           "is_correct": true,
           "feedback": "Correct! It summarizes the comparison fairly."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Therefore, Medellín is worse than Manizales in every aspect.",
           "is_correct": false,
           "feedback": "Incorrect. Too extreme and doesn't reflect the original text."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "However, both cities are the most expensive in the world.",
           "is_correct": false,
           "feedback": "Incorrect. Irrelevant to the previous comparison of climate/views."
@@ -543,7 +543,7 @@
           "feedback": "Incorrect. Contradicts the context of having already visited them."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La creación de una conclusión requiere integrar la información comparativa previa y ofrecer una síntesis equilibrada que respete los matices de la opinión expresada.",
       "difficulty": "10",
       "images": [],

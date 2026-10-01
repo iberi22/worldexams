@@ -59,13 +59,13 @@
       "context": "Sofía anota en Manizales los datos del clima de un día: la temperatura más baja fue 12 °C en la madrugada y la más alta fue 22 °C al mediodía.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Que 12 °C fue la temperatura más baja registrada durante ese día.",
           "is_correct": true,
           "feedback": "La temperatura mínima es el valor más bajo que se registró en el día."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Que la temperatura se mantuvo en 12 °C durante todas las horas del día.",
           "is_correct": false,
           "feedback": "Una temperatura mínima es un solo registro bajo; durante el día hubo otros valores mayores."
@@ -83,7 +83,7 @@
           "feedback": "22 °C es la temperatura máxima del día, no un límite inferior."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Comprender que la temperatura mínima es el valor más bajo del día y que no debe confundirse con la hora ni con la temperatura máxima.",
       "difficulty": "4",
       "images": [],
@@ -105,13 +105,13 @@
       "context": "En Pasto, Sofía consulta la tabla del clima del lunes y encuentra estos datos: temperatura máxima 19 °C y temperatura mínima 9 °C.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "10 °C.",
           "is_correct": true,
           "feedback": "La variación es la diferencia: 19 - 9 = 10 °C."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "28 °C.",
           "is_correct": false,
           "feedback": "28 °C resulta de sumar 19 + 9; la variación se obtiene restando."
@@ -129,7 +129,7 @@
           "feedback": "9 °C es la temperatura mínima; la variación es la diferencia entre ambas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Aplicar la resta entre la temperatura máxima y la mínima para calcular la variación de temperatura de un día.",
       "difficulty": "6",
       "images": [],
@@ -151,13 +151,13 @@
       "context": "Camilo observa el termómetro del patio de su casa en Tunja a las 7 de la mañana: marca 8 °C. Tres horas después vuelve a mirarlo y marca 17 °C.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "9 °C.",
           "is_correct": true,
           "feedback": "La temperatura subió 17 - 8 = 9 °C entre las dos lecturas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "25 °C.",
           "is_correct": false,
           "feedback": "25 °C resulta de sumar 8 + 17; el aumento se calcula restando."
@@ -175,7 +175,7 @@
           "feedback": "17 °C es la temperatura final; falta indicar cuánto aumentó."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Aplicar la resta entre la lectura final y la lectura inicial para saber cuántos grados subió la temperatura.",
       "difficulty": "6",
       "images": [],
@@ -197,19 +197,19 @@
       "context": "En Manizales, a las 4 de la tarde la temperatura era de 21 °C. Desde esa hora empezó a descender 3 °C cada hora.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "12 °C.",
           "is_correct": true,
           "feedback": "Pasaron 3 horas y bajó 3 × 3 = 9 °C; entonces 21 - 9 = 12 °C."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "9 °C.",
           "is_correct": false,
           "feedback": "9 °C es el total que descendió, no la temperatura final."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "18 °C.",
           "is_correct": false,
           "feedback": "18 °C resultaría si solo hubiera bajado 1 °C por hora."
@@ -221,7 +221,7 @@
           "feedback": "24 °C resulta de sumar en lugar de restar el descenso."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Aplicar un descenso constante de temperatura por hora: multiplicar el descenso por el número de horas y restarlo de la temperatura inicial.",
       "difficulty": "6",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "Camilo y Sofía comparan la temperatura de tres ciudades colombianas usando esta tabla del mismo día:\n\n| Ciudad | Temperatura máxima | Temperatura mínima |\n\n| --- | --- | --- |\n\n| Tunja | 18 °C | 7 °C |\n\n| Manizales | 22 °C | 12 °C |\n\n| Pasto | 19 °C | 9 °C |",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Tunja, porque su variación fue 11 °C.",
           "is_correct": true,
           "feedback": "Tunja: 18 - 7 = 11 °C; Manizales: 22 - 12 = 10 °C; Pasto: 19 - 9 = 10 °C. La mayor es la de Tunja."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Manizales, porque tuvo la temperatura máxima más alta de la tabla.",
           "is_correct": false,
           "feedback": "Tener la máxima más alta no garantiza la mayor variación; hay que restar la mínima."
@@ -267,7 +267,7 @@
           "feedback": "La variación de Manizales es 22 - 12 = 10 °C, no 11 °C."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Analizar una tabla climática calculando la variación de cada ciudad y comparando los resultados para decidir cuál tuvo el mayor cambio de temperatura.",
       "difficulty": "8",
       "images": [],
@@ -289,19 +289,19 @@
       "context": "Sofía registró en una tabla las temperaturas de Pasto durante cuatro días:\n\n| Día | Temperatura máxima | Temperatura mínima |\n\n| --- | --- | --- |\n\n| Lunes | 19 °C | 9 °C |\n\n| Martes | 20 °C | 8 °C |\n\n| Miércoles | 18 °C | 10 °C |\n\n| Jueves | 21 °C | 11 °C |",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Martes, con 12 °C.",
           "is_correct": true,
           "feedback": "Lunes: 19 - 9 = 10 °C; martes: 20 - 8 = 12 °C; miércoles: 18 - 10 = 8 °C; jueves: 21 - 11 = 10 °C. El mayor es el martes."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Jueves, con 10 °C.",
           "is_correct": false,
           "feedback": "El jueves tuvo 10 °C de variación, menos que los 12 °C del martes."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Miércoles, con 8 °C.",
           "is_correct": false,
           "feedback": "El miércoles tuvo la menor variación de la semana, no la mayor."
@@ -313,7 +313,7 @@
           "feedback": "El lunes tuvo 10 °C de variación; es menor que la del martes."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Analizar una tabla de varios días, calcular la variación de cada uno y determinar en cuál se presentó el mayor cambio de temperatura.",
       "difficulty": "8",
       "images": [],

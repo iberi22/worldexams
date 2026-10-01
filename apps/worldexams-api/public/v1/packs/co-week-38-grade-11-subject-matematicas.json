@@ -13,13 +13,13 @@
       "context": "Un plan de ahorro en un banco de Bogotá establece que una persona deposita 10,000 COP la primera semana, 15,000 COP la segunda, 20,000 COP la tercera y así sucesivamente.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "5,000 COP",
           "is_correct": true,
           "feedback": "La diferencia común d = 15000 - 10000 = 20000 - 15000 = 5000 COP."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "10,000 COP",
           "is_correct": false,
           "feedback": "Corresponde al primer término a_1 de la sucesión."
@@ -37,7 +37,7 @@
           "feedback": "Dividió la diferencia entre 2 por error."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "En una sucesión aritmética, la diferencia común $d$ es la resta entre cualquier término y su predecesor inmediato: $d = a_n - a_{n-1} = 15,000 - 10,000 = 5,000$ COP.",
       "difficulty": "4",
       "images": [],
@@ -59,31 +59,31 @@
       "context": "Un cultivo de microorganismos en Medellín duplica su población cada hora, comenzando con 3 bacterias en la hora cero.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "2",
           "is_correct": true,
           "feedback": "Al duplicarse cada hora, el factor de crecimiento multiplicativo constante es r = 2."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "3",
           "is_correct": false,
           "feedback": "Corresponde al valor inicial de bacterias (a_0) en el experimento."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "6",
           "is_correct": false,
           "feedback": "Multiplicó el término inicial por la razón."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "0.5",
           "is_correct": false,
           "feedback": "Corresponde al recíproco de la razón de crecimiento."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Una sucesión geométrica tiene la forma $a_n = a_0 \\cdot r^n$. Dado que el número de bacterias se duplica a cada paso, la razón multiplicativa es $r = 2$.",
       "difficulty": "4",
       "images": [],
@@ -151,19 +151,19 @@
       "context": "En una secuencia de figuras geométricas en Cali, el número de puntos formados viene dado por la fórmula de números triangulares $T_n = \\frac{n(n+1)}{2}$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "15",
           "is_correct": true,
           "feedback": "T_5 = (5 * 6) / 2 = 30 / 2 = 15."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "10",
           "is_correct": false,
           "feedback": "Corresponde a T_4 = (4 * 5)/2 = 10."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "25",
           "is_correct": false,
           "feedback": "Calculó 5^2 (número cuadrado) en lugar del número triangular."
@@ -175,7 +175,7 @@
           "feedback": "Olvidó dividir entre 2 la multiplicación n*(n+1)."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Sustituyendo $n=5$ en la fórmula de los números triangulares: $T_5 = \\frac{5   imes 6}{2} = 15$.",
       "difficulty": "4",
       "images": [],
@@ -197,31 +197,31 @@
       "context": "Una progresión aritmética en Barranquilla comienza con $a_1 = 4$ y tiene una diferencia común $d = 3$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "61",
           "is_correct": true,
           "feedback": "a_20 = a_1 + (20 - 1)*d = 4 + 19*3 = 4 + 57 = 61."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "64",
           "is_correct": false,
           "feedback": "Multiplicó 20 * 3 + 4 ignorando que el término a_1 ya cuenta como el primero (usó n en lugar de n-1)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "60",
           "is_correct": false,
           "feedback": "Multiplicó 20 * 3."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "57",
           "is_correct": false,
           "feedback": "Corresponde solo al producto 19 * 3 sin sumar el primer término a_1 = 4."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La fórmula del término $n$-ésimo de una progresión aritmética es $a_n = a_1 + (n-1)d$.\nPara $n=20$: $a_{20} = 4 + (19)(3) = 4 + 57 = 61$.",
       "difficulty": "6",
       "images": [],
@@ -289,31 +289,31 @@
       "context": "La suma de los primeros $n$ números enteros positivos viene dada por $S_n = \\frac{n(n+1)}{2}$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "1275",
           "is_correct": true,
           "feedback": "S_50 = (50 * 51) / 2 = 25 * 51 = 1275."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "2550",
           "is_correct": false,
           "feedback": "Olvidó dividir entre 2 la multiplicación 50 * 51."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "1250",
           "is_correct": false,
           "feedback": "Calculó 50 * 25."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "1300",
           "is_correct": false,
           "feedback": "Calculó 50 * 26."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Aplicando la fórmula de la suma de Gauss para $n=50$:\n$S_{50} = \\frac{50   imes 51}{2} = 25   imes 51 = 1275$.",
       "difficulty": "6",
       "images": [],
@@ -335,19 +335,19 @@
       "context": "En un estadio de fútbol en Bucaramanga, la primera fila tiene 20 asientos y cada fila posterior tiene 2 asientos más que la anterior. Hay 15 filas en total.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "510",
           "is_correct": true,
           "feedback": "a_1 = 20, d = 2. a_15 = 20 + 14*2 = 48. S_15 = (15/2)*(a_1 + a_15) = 7.5 * (20 + 48) = 7.5 * 68 = 510."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "480",
           "is_correct": false,
           "feedback": "Multiplicó 15 * 32 (tomando la capacidad media de forma errónea)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "300",
           "is_correct": false,
           "feedback": "Multiplicó 15 por la cantidad de asientos de la primera fila."
@@ -359,7 +359,7 @@
           "feedback": "Calculó 15 * 48 sin aplicar la división entre 2."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "$a_{15} = 20 + (14)(2) = 48$ asientos.\nSuma total $S_{15} = \\frac{n}{2}(a_1 + a_{15}) = \\frac{15}{2}(20 + 48) = 7.5   imes 68 = 510$ asientos.",
       "difficulty": "6",
       "images": [],
@@ -381,19 +381,19 @@
       "context": "Considere la sucesión geométrica infinita $16, 8, 4, 2, 1, \\frac{1}{2}, dots$",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "32",
           "is_correct": true,
           "feedback": "S_inf = a_1 / (1 - r) = 16 / (1 - 0.5) = 16 / 0.5 = 32."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "64",
           "is_correct": false,
           "feedback": "Dividió 16 entre 0.25 por error."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "31",
           "is_correct": false,
           "feedback": "Sumó los primeros 5 términos enteros ignorando la suma infinita de los fraccionarios."
@@ -405,7 +405,7 @@
           "feedback": "Como |r| = 0.5 < 1, la serie geométrica converge a un valor finito."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Para una serie geométrica convergente ($|r| < 1$), la suma infinita se calcula como $S_\\infty = \\frac{a_1}{1 - r}$.\nAquí $a_1 = 16$ y $r = 0.5$: $S_\\infty = \\frac{16}{1 - 0.5} = \\frac{16}{0.5} = 32$.",
       "difficulty": "6",
       "images": [],
@@ -473,19 +473,19 @@
       "context": "En una sucesión aritmética en Manizales, el tercer término es $a_3 = 11$ y el séptimo término es $a_7 = 27$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$a_1 = 3, d = 4$",
           "is_correct": true,
           "feedback": "a_7 - a_3 = 4d -> 27 - 11 = 16 -> 4d = 16 -> d = 4. Luego a_1 = a_3 - 2d = 11 - 8 = 3."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$a_1 = 4, d = 3$",
           "is_correct": false,
           "feedback": "Intercambió los valores del primer término y la diferencia."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$a_1 = 1, d = 5$",
           "is_correct": false,
           "feedback": "Si d=5, a_3 sería 1 + 10 = 11 pero a_7 sería 1 + 30 = 31 (no 27)."
@@ -497,7 +497,7 @@
           "feedback": "Si a_1 = 2 y d = 4, a_3 sería 10 (no 11)."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "$a_7 = a_3 + 4d Rightarrow 27 = 11 + 4d Rightarrow 4d = 16 Rightarrow d = 4$.\nSustituyendo en $a_3 = a_1 + 2d Rightarrow 11 = a_1 + 2(4) Rightarrow a_1 = 3$.",
       "difficulty": "8",
       "images": [],
@@ -519,13 +519,13 @@
       "context": "La famosa Sucesión de Fibonacci se define recursivamente como $F_1 = 1, F_2 = 1, F_n = F_{n-1} + F_{n-2}$ para $n ge 3$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "21",
           "is_correct": true,
           "feedback": "F1=1, F2=1, F3=2, F4=3, F5=5, F6=8, F7=13, F8=21."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "13",
           "is_correct": false,
           "feedback": "Corresponde al séptimo término F_7."
@@ -543,7 +543,7 @@
           "feedback": "Sumó 8 + 10 erróneamente."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Calculando término a término mediante la relación de recurrencia:\n$1, 1, 2, 3, 5, 8, 13, 21$. Por lo tanto, $F_8 = 21$.",
       "difficulty": "8",
       "images": [],
@@ -657,19 +657,19 @@
       "context": "Dada la serie telescópica $sum_{k=1}^n left( \\frac{1}{k} - \\frac{1}{k+1}\n\night)$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "1",
           "is_correct": true,
           "feedback": "La suma parcial Sn se cancela telescópicamente: Sn = (1 - 1/2) + (1/2 - 1/3) + ... + (1/n - 1/(n+1)) = 1 - 1/(n+1). Cuando n -> inf, 1/(n+1) -> 0, luego la suma es 1."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "0",
           "is_correct": false,
           "feedback": "Corresponde al límite del término 1/(n+1), no a la suma total de la serie."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\infty$",
           "is_correct": false,
           "feedback": "Asumió divergencia sin aplicar la propiedad telescópica."
@@ -681,7 +681,7 @@
           "feedback": "Estimó el valor del segundo término de la resta."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Al desplegar los términos de la serie telescópica, los términos intermedios se anulan mutuamente:\n$S_n = 1 - \\frac{1}{n+1}$. Calculando el límite: $lim_{n   o infty} left(1 - \\frac{1}{n+1}\night) = 1 - 0 = 1$.",
       "difficulty": "8",
       "images": [],
@@ -703,13 +703,13 @@
       "context": "Una persona deposita 1,000,000 COP a una tasa de interés compuesto del $5%$ anual en un fondo de inversión en Armenia.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "4 años",
           "is_correct": true,
           "feedback": "1000000 * (1.05)^t = 1200000 -> (1.05)^t = 1.20 -> t = log(1.20) / log(1.05) = 0.07918 / 0.02119 = 3.736 años. Por lo tanto, al cabo de 4 años se supera por primera vez."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "3 años",
           "is_correct": false,
           "feedback": "A los 3 años el capital es 1000000 * (1.05)^3 = 1157625 COP, aún no alcanza los 1.200.000 COP."
@@ -727,7 +727,7 @@
           "feedback": "A los 2 años el capital es solo 1102500 COP."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "$1,000,000(1.05)^t = 1,200,000 Rightarrow (1.05)^t = 1.20$.\nTomando logaritmos: $t = \\frac{\\log(1.20)}{\\log(1.05)} \\approx \\frac{0.07918}{0.02119} \\approx 3.74$ años.\nRedondeando al entero superior en años completos: 4 años.",
       "difficulty": "8",
       "images": [],
@@ -749,31 +749,31 @@
       "context": "Un atleta en Bogotá entrena para un maratón. El primer día corre 5 km y cada día siguiente aumenta la distancia en un $10%$ respecto al día anterior.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "79.68 km",
           "is_correct": true,
           "feedback": "S_10 = a_1 * (r^10 - 1) / (r - 1) = 5 * (2.5937 - 1) / (1.10 - 1) = 5 * 1.5937 / 0.10 = 5 * 15.937 = 79.685 km."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "12.96 km",
           "is_correct": false,
           "feedback": "Corresponde únicamente a la distancia recorrida el décimo día a_10 = 5 * (1.10)^9."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "50.00 km",
           "is_correct": false,
           "feedback": "Multiplicó 5 * 10 de manera lineal ignorando el incremento del 10%."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "129.68 km",
           "is_correct": false,
           "feedback": "Erró en la división entre r - 1."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Es la suma de una serie geométrica con $a_1 = 5, r = 1.10, n = 10$:\n$S_{10} = 5 \\frac{(1.10)^{10} - 1}{1.10 - 1} = 5 \\frac{2.5937 - 1}{0.10} = 5   imes 15.937 = 79.685$ km.",
       "difficulty": "10",
       "images": [],
@@ -841,19 +841,19 @@
       "context": "Se define la suma infinita de cuadrados $S = 1 + \\frac{2}{2} + \\frac{3}{4} + \\frac{4}{8} + \\frac{5}{16} + dots + \\frac{n}{2^{n-1}} + dots$",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "4",
           "is_correct": true,
           "feedback": "S = sum(n / 2^(n-1)). Multiplicando por 1/2: S/2 = sum(n / 2^n). Restando S - S/2 = 1 + 1/2 + 1/4 + 1/8 + ... = 2. Luego S/2 = 2 -> S = 4."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "2",
           "is_correct": false,
           "feedback": "Corresponde a la suma S/2 o a la serie geométrica simple."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "3",
           "is_correct": false,
           "feedback": "Erró en el proceso de resta telescópica."
@@ -865,7 +865,7 @@
           "feedback": "Como el término general n/2^(n-1) tiende a 0 rápidamente, la serie es convergente."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Multiplicamos la serie $S$ por la razón $\\frac{1}{2}$:\n$\\frac{1}{2}S = \\frac{1}{2} + \\frac{2}{4} + \\frac{3}{8} + dots$\nRestando $S - \\frac{1}{2}S = 1 + left(\\frac{2}{2} - \\frac{1}{2}\night) + left(\\frac{3}{4} - \\frac{2}{4}\night) + dots$\n$\\frac{1}{2}S = 1 + \\frac{1}{2} + \\frac{1}{4} + \\frac{1}{8} + dots = \\frac{1}{1 - 0.5} = 2$.\nPor ende, $S = 4$.",
       "difficulty": "10",
       "images": [],
@@ -887,13 +887,13 @@
       "context": "En un fractal tipo Copo de Nieve de Koch en Tunja, en cada paso se reemplaza cada segmento de longitud $L$ por 4 segmentos de longitud $\\frac{L}{3}$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$P_n = 3 cdot left(\\frac{4}{3}\night)^n$",
           "is_correct": true,
           "feedback": "En cada paso el número de lados se multiplica por 4 y la longitud de cada lado se multiplica por 1/3, por lo que el perímetro total se multiplica por (4/3): P_n = P_0 * (4/3)^n."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$P_n = 3 cdot left(\\frac{3}{4}\night)^n$",
           "is_correct": false,
           "feedback": "Invirtió la razón de crecimiento, lo que indicaría que el perímetro disminuye en lugar de aumentar."
@@ -911,7 +911,7 @@
           "feedback": "Asumió erróneamente que el perímetro se mantiene constante como en la conservación de área."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "En cada iteración del fractal de Koch, cada lado de longitud $l$ se transforma en 4 lados de longitud $l/3$. Por consiguiente, la longitud total del perímetro aumenta por un factor constante de $\\frac{4}{3}$ en cada paso: $P_n = 3 left(\\frac{4}{3}\night)^n$. Conforme $n   o infty$, el perímetro tiende a infinito.",
       "difficulty": "10",
       "images": [],

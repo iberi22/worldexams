@@ -13,19 +13,19 @@
       "context": "En la ferretería del barrio San Nicolás en Cali, el tendero muestra pilas AA, cables y bombillas a los estudiantes que construirán un circuito.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Una fuente de energía como la pila, cables conductores, un interruptor y un aparato que use la corriente, como una bombilla",
           "is_correct": true,
           "feedback": "Correcto. Fuente, conductor, control y consumo son los cuatro bloques de un circuito simple."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Solo la pila y la bombilla sin necesidad de cables",
           "is_correct": false,
           "feedback": "Incorrecto. Sin cables ni interruptor no se forma el circuito cerrado."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Solamente el cable y la mano del estudiante",
           "is_correct": false,
           "feedback": "Incorrecto. La mano no es un componente del circuito."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. El agua del río no forma parte del circuito eléctrico de la pila."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Todo circuito eléctrico requiere una fuente de energía, conductores que cierren el camino, una carga que consuma y un interruptor que abra o cierre el paso de la corriente.",
       "difficulty": "4",
       "images": [],
@@ -59,31 +59,31 @@
       "context": "En el taller de la I.E. de Palmira, una profesora conecta cables a una pila AA y la bombilla enciende al cerrar el contacto.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Que exista un camino cerrado de conductores desde un polo de la pila hasta el otro pasando por la bombilla",
           "is_correct": true,
           "feedback": "Correcto. La corriente necesita un lazo cerrado para fluir."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Que la pila esté volteada con la etiqueta hacia abajo",
           "is_correct": false,
           "feedback": "Incorrecto. La orientación no afecta al cierre del circuito."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Que el interruptor esté abierto todo el tiempo",
           "is_correct": false,
           "feedback": "Incorrecto. Interruptor abierto impide el paso de corriente."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Que los cables sean de color rojo",
           "is_correct": false,
           "feedback": "Incorrecto. El color del cable no afecta la conducción eléctrica."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Un circuito funciona cuando la corriente recorre un camino completo desde el polo positivo de la pila, atraviesa los conductores, pasa por la carga y vuelve al polo negativo formando un lazo cerrado.",
       "difficulty": "4",
       "images": [],
@@ -105,19 +105,19 @@
       "context": "En la casa rural de La Unión, Nariño, los niños prueban con dos cables: uno de cobre y otro forrado en plástico para encender la misma pila y bombilla.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "El cobre permite el paso de la corriente y la bombilla enciende, mientras el cable forrado en plástico no conduce y la bombilla no enciende",
           "is_correct": true,
           "feedback": "Correcto. El cobre es conductor y el plástico es aislante eléctrico."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Los dos cables prenden igual porque la pila es fuerte",
           "is_correct": false,
           "feedback": "Incorrecto. La pila no cambia la conductividad del cable."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El cable plástico enciende la bombilla con más intensidad que el cobre",
           "is_correct": false,
           "feedback": "Incorrecto. El plástico actúa como barrera para los electrones."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecto. La pila entrega la energía suficiente para circuitos pequeños."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Los metales como el cobre, la plata o el aluminio son buenos conductores eléctricos y permiten el flujo de electrones; la mayoría de los plásticos y la madera seca son aislantes que no dejan pasar la corriente.",
       "difficulty": "6",
       "images": [],
@@ -151,13 +151,13 @@
       "context": "En una finca cafetera de Armenia, un estudiante conecta tres bombillas a un mismo circuito con una sola pila de nueve voltios.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El circuito se abre y las tres bombillas se apagan porque la corriente tiene que pasar por todas",
           "is_correct": true,
           "feedback": "Correcto. En serie, una sola apertura interrumpe toda la corriente."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Las otras dos siguen encendidas porque reciben más energía",
           "is_correct": false,
           "feedback": "Incorrecto. En serie no hay rutas alternas para la corriente."
@@ -175,7 +175,7 @@
           "feedback": "Incorrecto. La pila entrega la misma tensión, solo se rompe el lazo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "En un circuito en serie la corriente recorre el mismo camino por todas las cargas; cortar cualquier parte del lazo equivale a apagar todo. Por eso las luces navideñas antiguas se apagaban en cadena cuando fallaba un bombillo.",
       "difficulty": "6",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "En el aula de tecnología de Ibagué, los estudiantes arman un circuito con dos bombillas en paralelo usando cables y una pila.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Cada bombilla tiene su propia ruta hasta la pila, así que la caída de una no interrumpe el camino de las demás",
           "is_correct": true,
           "feedback": "Correcto. En paralelo cada carga recibe tensión de manera independiente."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque la pila aumenta su voltaje cuando una bombilla se funde",
           "is_correct": false,
           "feedback": "Incorrecto. La pila mantiene su tensión nominal."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto. En paralelo cada rama es independiente del cable."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "En un circuito en paralelo, cada carga está conectada directamente a la fuente por su propio conductor; por eso es la forma usada en las casas para que una bombilla rota no apague las demás.",
       "difficulty": "6",
       "images": [],
@@ -243,19 +243,19 @@
       "context": "En la fábrica de yogurt de Sopo, los técnicos prueban un interruptor que abre y cierra un circuito según la posición de una compuerta metálica.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "El interruptor es un conductor que se abre o se cierra para permitir o impedir el paso de electrones por el circuito",
           "is_correct": true,
           "feedback": "Correcto. Cerrar une dos puntos conductores; abrir los separa."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El interruptor genera corriente por sí mismo",
           "is_correct": false,
           "feedback": "Incorrecto. El interruptor no produce energía, solo controla el paso."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El interruptor consume corriente como una bombilla",
           "is_correct": false,
           "feedback": "Incorrecto. Sin carga, el interruptor ideal no consume potencia."
@@ -267,7 +267,7 @@
           "feedback": "Incorrecto. La conversión de tipo de corriente la hace un inversor."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Analizar el interruptor exige entender que es un dispositivo de control: abierto separa los conductores e impide la corriente; cerrado los une y permite la circulación de electrones por todo el lazo.",
       "difficulty": "8",
       "images": [],
@@ -289,31 +289,31 @@
       "context": "En una tienda de Barrancabermeja, dos cables del mismo grosor pero de cobre y de aluminio se conectan a idénticas pilas con bombillas iguales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "El cable de cobre ofrece menor resistencia y deja pasar más corriente, así que la bombilla brilla más",
           "is_correct": true,
           "feedback": "Correcto. La resistencia eléctrica depende del material."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El aluminio siempre vence al cobre porque es más barato",
           "is_correct": false,
           "feedback": "Incorrecto. Lo barato no implica mejor conductividad."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El cobre se funde antes por su color rojizo",
           "is_correct": false,
           "feedback": "Incorrecto. El color no determina el punto de fusión en condiciones normales."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La bombilla brilla igual en ambos cables por la misma pila",
           "is_correct": false,
           "feedback": "Incorrecto. La resistencia propia del cable cambia la corriente."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La resistencia eléctrica depende del material, el grosor y la longitud: el cobre tiene menor resistividad que el aluminio a igualdad de los demás factores, así que entrega más corriente para la misma tensión y la bombilla luce más intensa.",
       "difficulty": "8",
       "images": [],
@@ -335,13 +335,13 @@
       "context": "En la casa de Leticia, en el Amazonas, los cables del techo se pelan por el calor y la familia llama al electricista antes de la próxima lluvia.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Para evitar que la corriente tome caminos peligrosos como el cuerpo humano o el agua, reduciendo el riesgo de electrocución e incendio",
           "is_correct": true,
           "feedback": "Correcto. El aislamiento dirige la corriente por donde debe ir."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Para que el cable se vea más bonito en la pared",
           "is_correct": false,
           "feedback": "Incorrecto. La estética no es la razón fundamental del aislamiento."
@@ -359,7 +359,7 @@
           "feedback": "Incorrecto. El aislamiento no acelera la corriente; controla su trayectoria."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Analizar las normas eléctricas exige reconocer el papel del aislamiento como medida de seguridad, no como adorno: plástico, caucho y goma rodean los conductores para evitar contactos accidentales con piel, agua o estructuras metálicas cercanas.",
       "difficulty": "8",
       "images": [],
@@ -381,31 +381,31 @@
       "context": "En la televisión nacional en Bogotá se anuncia un aparato que promete eliminar por completo la factura de luz usando solo una pila AA casera para toda la casa.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Es falsa: una pila AA entrega una cantidad pequeña de energía y no puede sostener los electrodomésticos de una casa",
           "is_correct": true,
           "feedback": "Correcto. La energía almacenada en una pila es muy inferior al consumo domiciliario."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Es verdadera porque una pila poderosa basta para la casa",
           "is_correct": false,
           "feedback": "Incorrecto. Ninguna pila AA entrega potencia suficiente para neveras o lavadoras."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Es verdadera solo cuando se conecta el aparato sin cables",
           "is_correct": false,
           "feedback": "Incorrecto. El cableado es necesario para energizar los aparatos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Es verdadera porque la red eléctrica nacional es simplemente decorativa",
           "is_correct": false,
           "feedback": "Incorrecto. La red eléctrica nacional entrega la potencia real consumida por las casas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Evaluar publicidad eléctrica implica comparar energía disponible y consumida: una pila AA guarda apenas unos pocos vatios-hora, mientras una casa colombiana consume decenas de kilovatios-hora al día, así que la promesa no se sostiene físicamente.",
       "difficulty": "10",
       "images": [],
@@ -427,31 +427,31 @@
       "context": "En el coloquio de ciencias de Pereira, tres propuestas se debaten: 1) Los metales son malos conductores de la corriente. 2) En serie, una bombilla fundida apaga todo el circuito. 3) El interruptor abierto impide la circulación de corriente.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "La 1 es falsa porque los metales son buenos conductores, la 2 es verdadera y la 3 también es verdadera",
           "is_correct": true,
           "feedback": "Correcto. Corrige la idea inicial y confirma el efecto del interruptor y de la apertura en serie."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Las tres son verdaderas porque la electricidad es misteriosa",
           "is_correct": false,
           "feedback": "Incorrecto. Las tres propuestas tienen física medible."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Solo la 2 es verdadera y las demás son falsas",
           "is_correct": false,
           "feedback": "Incorrecto. La 3 también es verdadera."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Las tres son falsas porque no existen los circuitos",
           "is_correct": false,
           "feedback": "Incorrecto. Los circuitos se observan en cualquier aparato eléctrico."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Juzgar electricidad pide separar conducción y control: los metales son buenos conductores eléctricos, en serie la apertura del lazo apaga todo y el interruptor abierto separa los conductores e impide la circulación de electrones.",
       "difficulty": "10",
       "images": [],

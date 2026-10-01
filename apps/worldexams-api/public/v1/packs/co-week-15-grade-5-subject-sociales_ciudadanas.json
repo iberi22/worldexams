@@ -105,31 +105,31 @@
       "context": "Un barco cargado con café producido en el Eje Cafetero necesita salir hacia un país de Asia. El café se lleva por carretera hasta un puerto sobre el océano Pacífico.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Puerto de Buenaventura.",
           "is_correct": true,
           "feedback": "Buenaventura es el principal puerto colombiano sobre el Pacífico y mueve gran parte de las exportaciones."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Puerto de Cartagena.",
           "is_correct": false,
           "feedback": "Cartagena es un gran puerto, pero está sobre el mar Caribe, no sobre el Pacífico."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Puerto de Barranquilla.",
           "is_correct": false,
           "feedback": "Barranquilla se ubica sobre el Caribe, en la desembocadura del río Magdalena."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Puerto de Leticia.",
           "is_correct": false,
           "feedback": "Leticia es un puerto fluvial sobre el Amazonas, en la frontera sur."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Aplicación del conocimiento de la ubicación de los puertos colombianos para elegir el más conveniente según la ruta de exportación.",
       "difficulty": "6",
       "images": [],
@@ -151,13 +151,13 @@
       "context": "Una empresa necesita enviar flores frescas desde Bogotá hasta Miami en pocas horas, para que no se dañen durante el viaje.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El transporte aéreo.",
           "is_correct": true,
           "feedback": "El avión es el medio más rápido para largas distancias y productos perecederos como las flores."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El transporte por carretera internacional.",
           "is_correct": false,
           "feedback": "La carretera hacia otro continente no existe y el viaje sería demasiado lento."
@@ -175,7 +175,7 @@
           "feedback": "El barco es económico pero muy lento; las flores se dañarían antes de llegar."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Selección del modo de transporte según criterios de tiempo, distancia y naturaleza perecedera de la carga.",
       "difficulty": "6",
       "images": [],
@@ -197,19 +197,19 @@
       "context": "Un turista quiere viajar de Bogotá a la ciudad de Santa Marta para conocer el mar Caribe y luego continuar por carretera a Cartagena.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Viajar en avión de Bogotá a Santa Marta y luego tomar un bus por la carretera de la Costa hacia Cartagena.",
           "is_correct": true,
           "feedback": "El avión cubre la larga distancia desde el interior y la carretera de la Costa une Santa Marta con Cartagena."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Navegar en barco desde Bogotá por el mar Caribe hasta Santa Marta.",
           "is_correct": false,
           "feedback": "Bogotá está en el interior andino y no tiene salida directa al mar."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ir en tren directo desde Bogotá hasta Cartagena sin escalas.",
           "is_correct": false,
           "feedback": "No existe una línea de tren de pasajeros que conecte esas ciudades."
@@ -221,7 +221,7 @@
           "feedback": "Buenaventura está en el Pacífico, en el sentido opuesto al recorrido deseado."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Integración de distintos medios de transporte para planear un recorrido real entre ciudades colombianas.",
       "difficulty": "6",
       "images": [],
@@ -289,19 +289,19 @@
       "context": "Un país que no tiene puertos marítimos ni aeropuertos internacionales debe pagar más para mandar sus productos porque paga el transporte de otro país. Colombia cuenta con costas en el Caribe y en el Pacífico.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Puede comerciar con más mercados del mundo y elegir la ruta marítima más conveniente para sus exportaciones.",
           "is_correct": true,
           "feedback": "Tener costas en el Atlántico y el Pacífico amplía las opciones de comercio internacional del país."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Puede dejar de producir alimentos porque ya no los necesita.",
           "is_correct": false,
           "feedback": "Los puertos facilitan el comercio pero no reemplazan la producción nacional de alimentos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Puede cerrar sus fronteras terrestres con todos los países vecinos.",
           "is_correct": false,
           "feedback": "La salida al mar por dos océanos no elimina la importancia del comercio terrestre fronterizo."
@@ -313,7 +313,7 @@
           "feedback": "El comercio portuario está sujeto a impuestos y normas aduaneras colombianas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Análisis del valor estratégico de la posición bioceánica de Colombia en el comercio internacional.",
       "difficulty": "8",
       "images": [],
@@ -335,19 +335,19 @@
       "context": "El gobierno de un departamento dispone de un presupuesto limitado y debe elegir entre dos obras: ampliar una vía terciaria que comunica varios municipios campesinos con la cabecera, o construir una segunda pista en el aeropuerto de la capital.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Ampliar la vía terciaria, porque beneficia directamente a más comunidades y mejora su acceso a salud, educación y mercados.",
           "is_correct": true,
           "feedback": "La obra vial rural tiene mayor impacto social al conectar poblaciones apartadas y mejorar sus condiciones de vida."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Construir la segunda pista sin consultar a los habitantes del departamento.",
           "is_correct": false,
           "feedback": "Las decisiones públicas deben considerar las necesidades de la comunidad y ser transparentes."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "No invertir en ninguna obra y guardar todo el dinero sin explicación.",
           "is_correct": false,
           "feedback": "Los recursos públicos deben destinarse al bienestar común y no dejarse sin uso."
@@ -359,7 +359,7 @@
           "feedback": "Beneficiar a unos pocos con recursos públicos vulnera la equidad y el interés general."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Evaluación de decisiones de inversión pública considerando el impacto social, la equidad y el beneficio colectivo de la comunidad.",
       "difficulty": "10",
       "images": [],

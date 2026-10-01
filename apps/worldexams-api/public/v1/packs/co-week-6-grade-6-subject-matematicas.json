@@ -59,13 +59,13 @@
       "context": "En clase en Medellín, se calcula el área del rectángulo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$A = b \\cdot h$.",
           "is_correct": true,
           "feedback": "Correcto. Base por altura."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$A = 2(b + h)$.",
           "is_correct": false,
           "feedback": "Incorrecto. Eso es el perímetro."
@@ -83,7 +83,7 @@
           "feedback": "Incorrecto. No aplica al rectángulo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El área se expresa en unidades cuadradas (cm², m²).",
       "difficulty": "4",
       "images": [],
@@ -105,13 +105,13 @@
       "context": "En Cali, se mide el contorno de un parque.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "160 m.",
           "is_correct": true,
           "feedback": "Correcto. $P = 2(50 + 30) = 160$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "80 m.",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste sin multiplicar por 2."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecto. No añadiste ambos lados."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El perímetro del rectángulo es 2·(largo + ancho).",
       "difficulty": "4",
       "images": [],
@@ -151,13 +151,13 @@
       "context": "En clase en Pereira, se calcula el área del triángulo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$A = \\frac{b \\cdot h}{2}$.",
           "is_correct": true,
           "feedback": "Correcto. Mitad del producto base por altura."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$A = b \\cdot h$.",
           "is_correct": false,
           "feedback": "Incorrecto. Eso es el rectángulo."
@@ -175,7 +175,7 @@
           "feedback": "Incorrecto. No es producto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La altura del triángulo es perpendicular a la base.",
       "difficulty": "4",
       "images": [],
@@ -197,19 +197,19 @@
       "context": "En Tunja, se mide el área de un terreno triangular.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "48 m².",
           "is_correct": true,
           "feedback": "Correcto. $(12 \\cdot 8)/2 = 48$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "96 m².",
           "is_correct": false,
           "feedback": "Incorrecto. No dividiste entre 2."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "20 m².",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto. Dividiste entre 4."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La fórmula del área triangular se aplica con base y altura perpendiculares.",
       "difficulty": "6",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "En Manizales, se calcula el área de un cuadrado.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "81 cm².",
           "is_correct": true,
           "feedback": "Correcto. $9^2 = 81$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "36 cm².",
           "is_correct": false,
           "feedback": "Incorrecto. Usaste $6^2$."
@@ -267,7 +267,7 @@
           "feedback": "Incorrecto. No elevaste al cuadrado."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El área del cuadrado es lado al cuadrado.",
       "difficulty": "6",
       "images": [],
@@ -335,31 +335,31 @@
       "context": "En clase en Popayán, se compara el área de figuras.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Se cuadruplica.",
           "is_correct": true,
           "feedback": "Correcto. $A = (2l)^2 = 4l^2$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Se duplica.",
           "is_correct": false,
           "feedback": "Incorrecto. Crece más rápido."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Permanece igual.",
           "is_correct": false,
           "feedback": "Incorrecto. Cambia."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Se reduce a la mitad.",
           "is_correct": false,
           "feedback": "Incorrecto. Se agranda."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El área depende del cuadrado de la longitud, por eso crece rápidamente.",
       "difficulty": "8",
       "images": [],
@@ -381,31 +381,31 @@
       "context": "En un proyecto en Bucaramanga, se decide sobre un piso.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "40.",
           "is_correct": true,
           "feedback": "Correcto. Área = 20 m², baldosas = 20 / 0.5 = 40."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "20.",
           "is_correct": false,
           "feedback": "Incorrecto. No dividiste correctamente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "10.",
           "is_correct": false,
           "feedback": "Incorrecto. Tomaste la mitad."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "80.",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicaste."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El número de unidades se obtiene dividiendo el área total entre el área de cada unidad.",
       "difficulty": "10",
       "images": [],
@@ -433,13 +433,13 @@
           "feedback": "Incorrecto. Tiene aplicaciones reales."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Para planificar construcción, sembrar cultivos y administrar espacios.",
           "is_correct": true,
           "feedback": "Correcto. Es una herramienta práctica."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Para evitar el deporte.",
           "is_correct": false,
           "feedback": "Incorrecto. No tiene relación."
@@ -451,7 +451,7 @@
           "feedback": "Es secundario."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Calcular áreas y perímetros permite resolver problemas prácticos de medición y diseño.",
       "difficulty": "10",
       "images": [],

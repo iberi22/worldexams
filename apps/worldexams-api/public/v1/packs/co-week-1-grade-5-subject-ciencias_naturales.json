@@ -59,19 +59,19 @@
       "context": "En una experiencia de aula se compara el comportamiento de un cubo de madera, un vaso con agua y el aire dentro de un globo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "El líquido no tiene forma propia y se adapta al recipiente que lo contiene, mientras el sólido mantiene forma definida.",
           "is_correct": true,
           "feedback": "Los líquidos fluyen y toman la forma del recipiente; los sólidos conservan su forma y volumen."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El líquido mantiene siempre una forma cúbica sin importar el vaso.",
           "is_correct": false,
           "feedback": "Los líquidos carecen de forma fija propia."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El sólido se expande para ocupar todo el espacio disponible en el salón.",
           "is_correct": false,
           "feedback": "La expansión total para ocupar el volumen es propia de los gases, no de los sólidos."
@@ -83,7 +83,7 @@
           "feedback": "Los líquidos son visibles y poseen volumen determinado."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Comprensión de las propiedades macroscópicas (forma y volumen) que caracterizan a sólidos, líquidos y gases.",
       "difficulty": "4",
       "images": [],
@@ -151,31 +151,31 @@
       "context": "Cuando hirve agua en una olla sobre la estufa en Bogotá, se observan burbujas emergiendo desde el fondo y vapor saliendo al ambiente.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Cuando el líquido alcanza la temperatura de ebullición y se transforma masivamente en gas en toda su masa.",
           "is_correct": true,
           "feedback": "La ebullición es la vaporización rápida y tumultuosa en toda la masa del líquido al alcanzar su punto de ebullición."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Cuando el agua alcanza los 0 °C y se congela rápidamente.",
           "is_correct": false,
           "feedback": "0 °C a nivel del mar es la temperatura de congelación (solidificación)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Únicamente cuando la olla está tapada con hule transparente.",
           "is_correct": false,
           "feedback": "La ebullición depende de la temperatura y la presión, no del material de la tapa."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Cuando las partículas de líquido dejan de moverse por completo.",
           "is_correct": false,
           "feedback": "El paso a gas aumenta la energía cinética y movimiento de las partículas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Diferenciación entre evaporación superficial y ebullición masiva como modalidades del paso de líquido a gas.",
       "difficulty": "6",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "En la mañana fría de una vereda en Boyacá, las ventanas de las casas amanecen cubiertas de pequeñas gotas de agua por la cara interior.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Condensación del vapor de agua del aire al entrar en contacto con la superficie fría del vidrio.",
           "is_correct": true,
           "feedback": "El vapor de agua gaseoso en el aire pierde calor al tocar el vidrio frío y pasa a líquido."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Fusión de la madera del marco de la ventana por la luz solar.",
           "is_correct": false,
           "feedback": "Las gotas son de agua condensada, no de madera fundida."
@@ -221,7 +221,7 @@
           "feedback": "El fenómeno es la condensación del vapor de agua ambiental sobre una superficie fría."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Explicación de fenómenos cotidianos de cambio de estado (condensación) mediante transferencia de calor.",
       "difficulty": "6",
       "images": [],
@@ -289,31 +289,31 @@
       "context": "Se compara la fuerza de atracción entre partículas en tres sustancias a temperatura ambiente: hierro (sólido), aceite (líquido) y oxígeno (gas).",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "En el hierro, porque sus partículas forman una red rígida compacta.",
           "is_correct": true,
           "feedback": "Los sólidos presentan las fuerzas de cohesión interparticular más fuertes, manteniendo posiciones fijas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "En el oxígeno, porque flota libremente en la atmósfera.",
           "is_correct": false,
           "feedback": "En los gases las fuerzas de atracción son casi nulas, permitiendo que las partículas se separen."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "En el aceite, porque es una sustancia viscosa sin partículas.",
           "is_correct": false,
           "feedback": "Toda la materia está compuesta por partículas; los líquidos tienen fuerzas intermedias."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Las fuerzas de atracción son idénticas en todas las sustancias del universo.",
           "is_correct": false,
           "feedback": "La magnitud de las fuerzas interparticulares determina el estado físico de la materia."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Análisis comparativo de la intensidad de las fuerzas interparticulares según el estado de agregación de la materia.",
       "difficulty": "8",
       "images": [],
@@ -335,19 +335,19 @@
       "context": "La naftalina en bolitas colocada dentro de un armario para proteger la ropa desaparece con el tiempo sin dejar manchas líquidas en las prendas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Ocurre sublimación directa, donde la naftalina sólida pasa al estado gaseoso sin pasar por el estado líquido.",
           "is_correct": true,
           "feedback": "La sublimación es la transición directa de la fase sólida a la fase gaseosa."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La naftalina se disuelve en los hilos de la ropa cambiando de color.",
           "is_correct": false,
           "feedback": "La ropa no disuelve la naftalina; el sólido se evapora directamente al aire."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Los insectos se comieron todo el sólido sin dejar residuos.",
           "is_correct": false,
           "feedback": "La naftalina justamente repele a las polillas mediante su gas volátil tóxico."
@@ -359,7 +359,7 @@
           "feedback": "La condensación es el paso de gas a líquido, no de sólido a gas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Evaluación de cambios de estado especiales como la sublimación en sustancias de uso cotidiano.",
       "difficulty": "10",
       "images": [],

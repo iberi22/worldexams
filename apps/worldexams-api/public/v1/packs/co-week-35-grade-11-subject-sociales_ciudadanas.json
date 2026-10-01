@@ -13,13 +13,13 @@
       "context": "En una emisora comunitaria de Sincelejo se anuncia una veeduría al contrato de una acueducto veredal.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La Procuraduría General de la Nación",
           "is_correct": false,
           "feedback": "La Procuraduría ejerce control disciplinario, no fiscal."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La Contraloría General de la República",
           "is_correct": true,
           "feedback": "Correcto. El artículo 267 de la Constitución define la Contraloría como órgano de control fiscal."
@@ -37,7 +37,7 @@
           "feedback": "El CNE dirige y vigilancia la organización electoral, no el uso de la hacienda pública."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El artículo 267 de la Constitución crea la Contraloría General de la República como órgano de control fiscal con personería jurídica, autonomía administrativa y financiera, adscrito a la Rama Judicial para efectos orgánicos pero independiente en sus funciones. Vigila la gestión fiscal de la administración y de los particulares que manejan fondos públicos, mediante el criterio de eficacia, economía y equidad.",
       "difficulty": "4",
       "images": [],
@@ -59,31 +59,31 @@
       "context": "Un estudiante de Quibdó estudia las entidades del Ministerio Público antes de un examen.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Ministerio Público, conforme al artículo 118 de la Constitución",
           "is_correct": true,
           "feedback": "Correcto. El artículo 118 ordena el Ministerio Público para la vigilancia de la conducta oficial de quienes sirven al Estado."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Consejo de Estado",
           "is_correct": false,
           "feedback": "El Consejo de Estado es cabeza de la jurisdicción contencioso administrativa, no un órgano disciplinario."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Corte Constitucional",
           "is_correct": false,
           "feedback": "La Corte guarda la integridad de la Constitución mediante control de normas, no vigila conductas de servidores."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Comisión Nacional del Servicio Civil",
           "is_correct": false,
           "feedback": "La CNSC administra el mérito en el empleo público, no la vigilancia disciplinaria."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El artículo 118 configura el Ministerio Público como institución del Estado con autonomía funcional e administrativa, integrado por la Procuraduría General de la Nación, la Defensoría del Pueblo, los defensores del pueblo, los personeros distritales y municipales y los demás que determine la ley. Su función central es la vigilancia de la conducta oficial de quienes desempeñan funciones públicas.",
       "difficulty": "4",
       "images": [],
@@ -111,25 +111,25 @@
           "feedback": "Los jueces ejercen control jurisdiccional; el control social es precisamente el que hacen los ciudadanos."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "La participación de la ciudadanía en la vigilancia y monitoreo de la acción estatal, con soporte en los artículos 1, 2 y 40 constitucionales",
           "is_correct": true,
           "feedback": "Correcto. El control social emana de la soberanía popular y del fin estatal de facilitar la participación."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El reporte voluntario de las empresas privadas al gobierno",
           "is_correct": false,
           "feedback": "El control social mira al Estado desde la sociedad, no al revés."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La auditoría contable interna de cada entidad",
           "is_correct": false,
           "feedback": "Esa es la auditoría interna o control interno (artículo 209), no el control social ciudadano."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El control social es el poder de la ciudadanía de vigilar, denunciar y participar en la gestión pública: veedurías, audiencias públicas, rendición de cuentas, derecho de petición de información, denuncias ante personerías y contralorías. Su fundamento normativo está en la soberanía popular (artículo 3), los fines del Estado (artículo 2) y los derechos de participación (artículo 40), y su efectividad depende de información accesible y protección frente a represalias.",
       "difficulty": "4",
       "images": [],
@@ -157,25 +157,25 @@
           "feedback": "La regla es exactamente la contraria: la publicidad, con excepciones tasadas."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Públicos, con las excepciones que establezca la ley por razones de seguridad o inteligencia nacional",
           "is_correct": true,
           "feedback": "Correcto. La publicidad de los documentos públicos es la regla constitucional del artículo 74."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Propiedad privada de los funcionarios que los producen",
           "is_correct": false,
           "feedback": "Los documentos públicos pertenecen a la función, no al cargo: son del Estado y de la ciudadanía."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Confidenciales durante cincuenta años sin excepción",
           "is_correct": false,
           "feedback": "No existe tal plazo general; el acceso a información pública se rige por la Ley 1712 de 2014."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El artículo 74 consagra el principio de publicidad de la función administrativa y el derecho de acceso a la información pública, desarrollado por la Ley 1712 de 2014 (Ley de Transparencia y del Derecho de Acceso a la Información Pública). Este derecho es la condición técnica del control social: sin información accesible y oportuna, la vigilancia ciudadana es imposible.",
       "difficulty": "4",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "Un grupo de ciudadanos de Floridablanca quiere vigilar el contrato de aseo de su municipio.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La Ley 850 de 2003, que regula las veedurías ciudadanas y sus requisitos",
           "is_correct": true,
           "feedback": "Correcto. La Ley 850 de 2003 y sus decretos reglamentarios disciplinan las veedurías."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El Código Penales procedimientos de allanamiento judicial",
           "is_correct": false,
           "feedback": "El Código Penal no crea veedurías; estas son mecanismos administrativos y ciudadanos, no procedimientos penales."
@@ -221,7 +221,7 @@
           "feedback": "La Corte no autoriza veedurías; ejerce el control constitucional de normas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La Ley 850 de 2003 define la veeduría ciudadana como la representación democrática de los ciudadanos que vigila la gestión pública en cualquier lugar del territorio. Exige mínimo dos ciudadanos, comunicación a la entidad o personero y un vocero acreditado. La entidad debe dar acceso a la información dentro de los cinco días, y la veeduría rinde informe final. Es la herramienta práctica estrella del control social.",
       "difficulty": "6",
       "images": [],
@@ -335,19 +335,19 @@
       "context": "Un líder estudiantil de Santa Marta pregunta ante quién se queja de un director de colegio que maltrata a estudiantes en el uso de recursos de la papelería.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "La Procuraduría General de la Nación o la oficina de control interno de la entidad",
           "is_correct": true,
           "feedback": "Correcto. La Procuraduría y las oficinas de control interno ejercen el poder disciplinario según el caso."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La Registraduría Nacional del Estado Civil",
           "is_correct": false,
           "feedback": "La Registraduría organiza elecciones e identifica personas; no sanciona conductas oficiales."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La Superintendencia de Industria y Comercio",
           "is_correct": false,
           "feedback": "La SIC vigila competencia y consumo, no la ética de los docentes funcionarios."
@@ -359,7 +359,7 @@
           "feedback": "El Banco Emisor regula la política monetaria y cambiaria; carece de competencia disciplinaria."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El régimen disciplinario —hoy Código General Disciplinario (Ley 1952 de 2019)— faculta a la Procuraduría para investigar y sancionar a servidores públicos y particulares que ejercen función pública, sin perjuicio de la competencia de las oficinas de control interno. La denuncia disciplinaria es gratuita, no exige abogado y puede presentarse por cualquier medio, siendo un canal privilegiado del control social sobre la conducta oficial.",
       "difficulty": "6",
       "images": [],
@@ -479,13 +479,13 @@
           "feedback": "El problema no es la existencia del órgano, sino la debilidad de sus consecuencias y capacidades."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Impunidad estructural: lentitud procesal, prescripción, debilidad probatoria y falta de coordinación entre contralorías, procuradurías y justicia penal",
           "is_correct": true,
           "feedback": "Correcto. La repetición de hallazgos sin fallo revela un ciclo de control sin consecuencias."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Exceso de recursos: las contralorías procesan demasiados casos",
           "is_correct": false,
           "feedback": "La evidencia muestra más bien saturación y subdotación técnica, no exceso de actividad."
@@ -497,7 +497,7 @@
           "feedback": "Colombia tiene un estatuto contractual desarrollado (Ley 80 de 1993 y Ley 1150 de 2007)."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La función del control no termina en detectar: debe sancionar y reparar. El ciclo denuncia-investigación-decisión-ejecución es la prueba de calidad del sistema. Cuando el fallo llega tarde, prescribe o no cobra, el hallazgo se vuelve estadística y la corrupción se convierte en riesgo calculado. Analizar este circuito enseña que los derechos y las reglas solo existen si alguien los hace cumplir.",
       "difficulty": "8",
       "images": [],
@@ -519,13 +519,13 @@
       "context": "En un foro académico se discute la Sentencia C-795 de 2014 sobre la potestad sancionatoria de la Procuraduría.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La prohibición absoluta de todo control disciplinario sobre servidores",
           "is_correct": false,
           "feedback": "Ninguna decisión suprimió el poder disciplinario del Estado: el debate es sobre su intensidad y vía."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La tensión entre la potestad disciplinaria administrativa y la Convención Americana (artículo 23), que reserva restricciones a derechos políticos a la vía judicial",
           "is_correct": true,
           "feedback": "Correcto. La CIDH condicionó la inhabilitación de elegidos al control de un juez, no a una autoridad administrativa."
@@ -543,7 +543,7 @@
           "feedback": "Los concejos ejercen control político, no disciplinario."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "En Lozano y Others vs. Colombia (2022), la Corte IDH declaró incompatible que una autoridad administrativa —la Procuraduría— destituya e inhabilite a un elegido por voto popular sin control judicial pleno, con base en el artículo 23.2 de la Convención Americana. Este caso reactivó el debate sobre el diseño del control disciplinario en Colombia y muestra cómo el bloque de constitucionalidad (artículo 93) incorpora estándares internacionales que profundizan la Constitución.",
       "difficulty": "8",
       "images": [],
@@ -749,19 +749,19 @@
       "context": "Un consejo editorial escolar debate la frase: \"más contralorías, menos corrupción\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Es verdadera: basta aumentar el número de órganos de control para erradicar la corrupción",
           "is_correct": false,
           "feedback": "La evidencia muestra que sin sanciones efectivas y voluntad política, más órganos producen más informes, no menos corrupción."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Es falsa: el control institucional es irrelevante frente a la cultura ciudadana",
           "is_correct": false,
           "feedback": "Extremo opuesto: sin instituciones de control, la cultura ciudadana carece de efectos disuasivos y reparadores."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Es incompleta: el control funciona cuando los órganos tienen independencia, capacidades y consecuencias, y se articulan con una ciudadanía informada y protegida",
           "is_correct": true,
           "feedback": "Correcto. La integridad del sistema depende de la articulación de control estatal y social con sanciones creíbles."
@@ -773,7 +773,7 @@
           "feedback": "Prohibir no es erradicar: la norma declara el delito, la realidad institucional lo combate."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "La literatura anticorrupción distingue el control formal del efectivo: independencia de los órganos, profesionalización, seguimiento de decisiones, coordinación interinstitucional y participación social. Colombia tiene un sistema de control diseñado con amplitud constitucional; su debilidad está en la ejecución, la politización de nombramientos y la desconexión con la ciudadanía. Evaluar críticamente este sistema es el objetivo cognitivo central de este bundle.",
       "difficulty": "10",
       "images": [],
@@ -847,25 +847,25 @@
           "feedback": "La identidad formal del dato oculta una diferencia esencial de poder, dirección y límites."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "El control social vigila el ejercicio del poder público con base en la publicidad de la función estatal (artículo 74), mientras la vigilancia masiva invierte el vector y puede violar la intimidad (artículo 15) si no media ley estricta y proporcional",
           "is_correct": true,
           "feedback": "Correcto. La dirección del ojo y el marco de derechos marcan la frontera."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La vigilancia estatal es siempre legítima porque la ejecuta el Presidente",
           "is_correct": false,
           "feedback": "Ninguna autoridad está fuera de la Constitución; la interceptación exige orden judicial (artículo 15)."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El control social solo puede ejercerlo la fuerza pública",
           "is_correct": false,
           "feedback": "El control social es por definición ciudadano, no policial."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Tecnologías como el reconocimiento facial o los big data policiales abren el debate sobre el \"ojo del Estado\". El control social es un derecho del débil sobre el fuerte: transparencia debida al que gobierna. La vigilancia sin control jurídico es poder del fuerte sobre el débil: intimidad e información personal en riesgo. La Constitución traza la frontera con la publicidad de lo público (artículo 74), la reserva de lo privado (artículo 15) y la exigencia de orden judicial para intervenir comunicaciones.",
       "difficulty": "10",
       "images": [],
@@ -887,19 +887,19 @@
       "context": "En el cierre del periodo, un colegio de Yopal diseña un plan escolar de control social y pide un juicio final a los estudiantes.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Es tarea exclusiva de organismos especializados, pues la ciudadanía no tiene competencia para vigilar",
           "is_correct": false,
           "feedback": "El artículo 40 reconoce la competencia ciudadana; la especialización institucional es complemento, no sustituto."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Es un ritual simbólico sin efectos materiales sobre la gestión pública",
           "is_correct": false,
           "feedback": "La evidencia colombiana muestra obras corregidas, contratos suspendidos y funcionarios sancionados por presión de controles ciudadanos organizados."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Es una responsabilidad compartida e insustituible: requiere derechos informados, instituciones con consecuencias y una cultura que valore la honestidad como bien público",
           "is_correct": true,
           "feedback": "Correcto. El control social eficaz es sistema, no gesto: información, participación, sanción y cultura."
@@ -911,7 +911,7 @@
           "feedback": "El control social es más necesario donde el Estado es más débil; limitarlo por riesgo sería premiar la opacidad."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Este bundle concluye con una síntesis de competencias: la ciudadanía no delega enteramente su soberanía al elegir. El control social es la continuación de la democracia por otros medios, y su calidad depende de la articulación entre la vigilancia ciudadana y la efectividad de las instituciones. Pensar críticamente el control —sus límites, sus riesgos, sus condiciones— es formar ciudadanos capaces de sostener lo público en un país donde la confianza es escasa y necesaria.",
       "difficulty": "10",
       "images": [],

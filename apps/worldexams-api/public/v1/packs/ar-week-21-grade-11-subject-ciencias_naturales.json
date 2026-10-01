@@ -13,31 +13,31 @@
       "context": "Cinemática y Movimiento en Una Dimensión (MRU y MRUV) - Caso N° 1.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "150 metros.",
           "is_correct": true,
           "feedback": "Correcto. En MRU, $d = v \\cdot t = 15\\text{ m/s} \\cdot 10\\text{ s} = 150\\text{ m}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "15 metros.",
           "is_correct": false,
           "feedback": "Incorrecto. Se dividió la velocidad por el tiempo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "1500 metros.",
           "is_correct": false,
           "feedback": "Incorrecto. Se multiplicó por un factor de 100."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "25 metros.",
           "is_correct": false,
           "feedback": "Incorrecto. Se sumaron velocidad y tiempo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "En un movimiento rectilíneo uniforme (MRU), la velocidad constante permite calcular el desplazamiento mediante la fórmula $d = v \\cdot t$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -58,13 +58,13 @@
       "context": "Cinemática y Movimiento en Una Dimensión (MRU y MRUV) - Caso N° 2.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Velocidad.",
           "is_correct": true,
           "feedback": "Correcto. La velocidad es una magnitud vectorial pues requiere módulo, dirección y sentido."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Masa.",
           "is_correct": false,
           "feedback": "Incorrecto. La masa es una magnitud escalar."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. La temperatura es escalar."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Las magnitudes vectoriales quedan completamente definidas mediante módulo, dirección y sentido, como la velocidad o el desplazamiento.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -103,31 +103,31 @@
       "context": "Cinemática y Movimiento en Una Dimensión (MRU y MRUV) - Caso N° 3.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "10 m/s.",
           "is_correct": true,
           "feedback": "Correcto. En MRUV, $v = v_0 + a \\cdot t = 0 + 2 \\cdot 5 = 10\\text{ m/s}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "2,5 m/s.",
           "is_correct": false,
           "feedback": "Incorrecto. Se dividió el tiempo por la aceleración."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "20 m/s.",
           "is_correct": false,
           "feedback": "Incorrecto. Se multiplicó por el cuadrado del tiempo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "7 m/s.",
           "is_correct": false,
           "feedback": "Incorrecto. Se sumaron la aceleración y el tiempo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "En el movimiento rectilíneo uniformemente variado (MRUV), la velocidad varía de forma lineal respecto al tiempo según $v = v_0 + a \\cdot t$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -193,31 +193,31 @@
       "context": "Cinemática y Movimiento en Una Dimensión (MRU y MRUV) - Caso N° 5.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "5 m/s².",
           "is_correct": true,
           "feedback": "Correcto. $a = \\frac{|v_f - v_0|}{t} = \\frac{30}{6} = 5\\text{ m/s}^2$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "180 m/s².",
           "is_correct": false,
           "feedback": "Incorrecto. Se multiplicó la velocidad por el tiempo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "0,2 m/s².",
           "is_correct": false,
           "feedback": "Incorrecto. Se dividió el tiempo por la velocidad."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "36 m/s².",
           "is_correct": false,
           "feedback": "Incorrecto. Se elevó el tiempo al cuadrado."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La aceleración mide la tasa de cambio de la velocidad en el tiempo: $a = \\Delta v / \\Delta t$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -238,31 +238,31 @@
       "context": "Cinemática y Movimiento en Una Dimensión (MRU y MRUV) - Caso N° 6.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "30 segundos.",
           "is_correct": true,
           "feedback": "Correcto. $t = \\frac{d}{v} = \\frac{180}{6} = 30\\text{ s}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "1080 segundos.",
           "is_correct": false,
           "feedback": "Incorrecto. Se multiplicó la distancia por la velocidad."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "18 segundos.",
           "is_correct": false,
           "feedback": "Incorrecto. Se omitió la relación exacta dividiendo por 10."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "300 segundos.",
           "is_correct": false,
           "feedback": "Incorrecto. Se cometió un error de orden decimal."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Despejando el tiempo en la ecuación del MRU ($d = v \\cdot t$), resulta $t = d / v$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -418,31 +418,31 @@
       "context": "Cinemática y Movimiento en Una Dimensión (MRU y MRUV) - Caso N° 10.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "87,5 metros.",
           "is_correct": true,
           "feedback": "Correcto. $d = v_{\\text{prom}} \\cdot t = \\left(\\frac{10 + 25}{2}\\right) \\cdot 5 = 17,5 \\cdot 5 = 87,5\\text{ m}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "125 metros.",
           "is_correct": false,
           "feedback": "Incorrecto. Se usó únicamente la velocidad final."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "50 metros.",
           "is_correct": false,
           "feedback": "Incorrecto. Se usó únicamente la velocidad inicial."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "175 metros.",
           "is_correct": false,
           "feedback": "Incorrecto. Se sumaron las velocidades sin promediarlas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "En el MRUV, el desplazamiento también se calcula como el producto entre la velocidad media y el intervalo de tiempo.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -508,13 +508,13 @@
       "context": "Cinemática y Movimiento en Una Dimensión (MRU y MRUV) - Caso N° 12.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El desplazamiento total (160 metros).",
           "is_correct": true,
           "feedback": "Correcto. El área bajo la curva $v(t)$ equivale numéricamente al desplazamiento recorrido."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La aceleración del vehículo.",
           "is_correct": false,
           "feedback": "Incorrecto. La pendiente de la recta representa la aceleración."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. El tiempo está representado en el eje horizontal."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El área geométrica comprendida entre la curva de velocidad y el eje del tiempo representa el desplazamiento total en ese intervalo.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -553,19 +553,19 @@
       "context": "Cinemática y Movimiento en Una Dimensión (MRU y MRUV) - Caso N° 13.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "20 m/s.",
           "is_correct": true,
           "feedback": "Correcto. $v = a \\cdot t = 4 \\cdot 5 = 20\\text{ m/s}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "50 m/s.",
           "is_correct": false,
           "feedback": "Incorrecto. Se calculó la altura recorrida ($50\\text{ m}$) en lugar de la velocidad."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "0 m/s.",
           "is_correct": false,
           "feedback": "Incorrecto. El dron se encuentra en movimiento ascendente."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. Se confundió con la aceleración gravitatoria."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Partiendo del reposo, la velocidad alcanzada bajo aceleración constante es directamente $v = a \\cdot t$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -643,13 +643,13 @@
       "context": "Cinemática y Movimiento en Una Dimensión (MRU y MRUV) - Caso N° 15.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "30 m/s.",
           "is_correct": true,
           "feedback": "Correcto. En la cima $v = 0 \\Rightarrow 0 = v_0 - gt \\Rightarrow v_0 = 10 \\cdot 3 = 30\\text{ m/s}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "15 m/s.",
           "is_correct": false,
           "feedback": "Incorrecto. Se dividió la velocidad por 2."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. Se igualó la velocidad al tiempo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "En el tiro vertical, la velocidad en el punto más alto se anula, permitiendo despejar la velocidad inicial como $v_0 = g \\cdot t_{\\text{subida}}$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -688,13 +688,13 @@
       "context": "Cinemática y Movimiento en Una Dimensión (MRU y MRUV) - Caso N° 16.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "1000 m/s².",
           "is_correct": true,
           "feedback": "Correcto. $v^2 = 2ad \\Rightarrow 100^2 = 2a(5) \\Rightarrow 10000 = 10a \\Rightarrow a = 1000\\text{ m/s}^2$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "500 m/s².",
           "is_correct": false,
           "feedback": "Incorrecto. Se olvidó multiplicar la distancia por 2."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. Se dividió la velocidad al cuadrado por 100."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Utilizando Torricelli sin tiempo: $a = \\frac{v^2 - v_0^2}{2d}$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -733,31 +733,31 @@
       "context": "Cinemática y Movimiento en Una Dimensión (MRU y MRUV) - Caso N° 17.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Sí, se detiene a los 35 metros (10 m de reacción + 25 m de frenado), antes del obstáculo.",
           "is_correct": true,
           "feedback": "Correcto. Reacción: $d_r = 20 \\cdot 0,5 = 10\\text{ m}$. Frenado: $d_f = \\frac{20^2}{2(8)} = 25\\text{ m}$. Total $= 35\\text{ m} < 40\\text{ m}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "No, choca porque la distancia requerida es de 50 metros.",
           "is_correct": false,
           "feedback": "Incorrecto. La distancia total requerida es 35 m, menor a 40 m."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Choca a los 40 m porque no frena a tiempo.",
           "is_correct": false,
           "feedback": "Incorrecto. El cálculo demuestra que frena a los 35 m."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Se detiene a los 10 metros en la fase de reacción.",
           "is_correct": false,
           "feedback": "Incorrecto. En la fase de reacción no hay frenado todavía."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La distancia total de detención es la suma de la distancia recorrida a velocidad constante durante el tiempo de reacción más la distancia de frenado.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -778,19 +778,19 @@
       "context": "Cinemática y Movimiento en Una Dimensión (MRU y MRUV) - Caso N° 18.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "9 m/s.",
           "is_correct": true,
           "feedback": "Correcto. $h = v_1 t + \\frac{1}{2}gt^2 \\Rightarrow 2 = 0,2 v_1 + 5(0,04) \\Rightarrow 2 = 0,2 v_1 + 0,2 \\Rightarrow v_1 = 9\\text{ m/s}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "10 m/s.",
           "is_correct": false,
           "feedback": "Incorrecto. Se omitió restar la contribución de la gravedad."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "5 m/s.",
           "is_correct": false,
           "feedback": "Incorrecto. Se dividió la altura por el tiempo sin considerar la aceleración."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. Se cometió un error algebraico de suma."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Despejando la velocidad inicial en la fórmula de posición $h = v_1 t + \\frac{1}{2} g t^2$ se determina la velocidad al inicio del tramo.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -823,19 +823,19 @@
       "context": "Cinemática y Movimiento en Una Dimensión (MRU y MRUV) - Caso N° 19.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "A 100 metros del punto de partida de M1.",
           "is_correct": true,
           "feedback": "Correcto. $x_1 = t^2$, $x_2 = 300 - 2t^2 \\Rightarrow t^2 = 300 - 2t^2 \\Rightarrow 3t^2 = 300 \\Rightarrow t = 10\\text{ s}$. $x_1 = 100\\text{ m}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "A 150 metros, justo en la mitad de la pista.",
           "is_correct": false,
           "feedback": "Incorrecto. Tienen distintas aceleraciones, no se cruzan al medio."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "A 200 metros de M1.",
           "is_correct": false,
           "feedback": "Incorrecto. Esa es la distancia recorrida por M2."
@@ -847,7 +847,7 @@
           "feedback": "Incorrecto. Se cometió un error al plantear la suma de aceleraciones."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El tiempo de encuentro se obtiene igualando las posiciones relativas: $x_1(t) = x_2(t)$.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -868,13 +868,13 @@
       "context": "Cinemática y Movimiento en Una Dimensión (MRU y MRUV) - Caso N° 20.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "5 metros.",
           "is_correct": true,
           "feedback": "Correcto. Por simetría, la distancia recorrida en el último segundo de subida es igual a la del primer segundo de caída partiendo del reposo: $h = \\frac{1}{2}(10)(1)^2 = 5\\text{ m}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "10 metros.",
           "is_correct": false,
           "feedback": "Incorrecto. Se omitió multiplicar por 1/2."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. Es una propiedad independiente de la velocidad inicial de disparo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Por la simetría del movimiento parabólico/vertical sin rozamiento, el tramo final de subida equivale exactamente al tramo inicial de bajada partiendo del reposo.",
       "difficulty": "10",
       "images": [],

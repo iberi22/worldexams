@@ -58,13 +58,13 @@
       "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Pedro P. Peña de Coronel Oviedo, Joaquín y su grupo investigan sobre Biotecnología.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La electroforesis en gel",
           "is_correct": true,
           "feedback": "¡Correcto! La electroforesis en gel responde perfectamente a la base teórica correspondiente."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "CRISPR-Cas9",
           "is_correct": false,
           "feedback": "Incorrecto. CRISPR-Cas9 no se relaciona directamente con esta pregunta o describe otra función."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. Transferencia nuclear de células somáticas describe un proceso o componente distinto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El concepto de La electroforesis en gel constituye un fundamento esencial para comprender los procesos analizados en la unidad de Biotecnología.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -103,19 +103,19 @@
       "context": "Durante una actividad de laboratorio en el Colegio Nacional Encarnación de Encarnación, Mateo y su grupo investigan sobre Biotecnología.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "El plásmido",
           "is_correct": true,
           "feedback": "¡Correcto! El plásmido responde perfectamente a la base teórica correspondiente."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El cultivo in vitro de tejidos",
           "is_correct": false,
           "feedback": "Incorrecto. El cultivo in vitro de tejidos no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El promotor fuerte (como pCMV)",
           "is_correct": false,
           "feedback": "Incorrecto. El promotor fuerte (como pCMV) es un concepto diferente de la unidad temática."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. La insulina recombinante describe un proceso o componente distinto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El concepto de El plásmido constituye un fundamento esencial para comprender los procesos analizados en la unidad de Biotecnología.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,13 +148,13 @@
       "context": "Durante una actividad de laboratorio en el Colegio Nacional San José de Concepción de Concepción, Liz y su grupo investigan sobre Biotecnología.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La ADN ligasa",
           "is_correct": true,
           "feedback": "¡Correcto! La ADN ligasa responde perfectamente a la base teórica correspondiente."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El plásmido",
           "is_correct": false,
           "feedback": "Incorrecto. El plásmido no se relaciona directamente con esta pregunta o describe otra función."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. El promotor fuerte (como pCMV) describe un proceso o componente distinto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El concepto de La ADN ligasa constituye un fundamento esencial para comprender los procesos analizados en la unidad de Biotecnología.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -238,31 +238,31 @@
       "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Raúl Peña de Caacupé, Santiago y su grupo investigan sobre Biotecnología.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "La Taq polimerasa",
           "is_correct": true,
           "feedback": "¡Correcto! La Taq polimerasa responde perfectamente a la base teórica correspondiente."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El plásmido",
           "is_correct": false,
           "feedback": "Incorrecto. El plásmido no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El promotor fuerte (como pCMV)",
           "is_correct": false,
           "feedback": "Incorrecto. El promotor fuerte (como pCMV) es un concepto diferente de la unidad temática."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La secuenciación de Sanger",
           "is_correct": false,
           "feedback": "Incorrecto. La secuenciación de Sanger describe un proceso o componente distinto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El concepto de La Taq polimerasa constituye un fundamento esencial para comprender los procesos analizados en la unidad de Biotecnología.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -283,19 +283,19 @@
       "context": "Durante una actividad de laboratorio en el Colegio Nacional de Luque de Luque, Martina y su grupo investigan sobre Biotecnología.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "La secuenciación de Sanger",
           "is_correct": true,
           "feedback": "¡Correcto! La secuenciación de Sanger responde perfectamente a la base teórica correspondiente."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El cultivo in vitro de tejidos",
           "is_correct": false,
           "feedback": "Incorrecto. El cultivo in vitro de tejidos no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La huella genética por PCR de STR",
           "is_correct": false,
           "feedback": "Incorrecto. La huella genética por PCR de STR es un concepto diferente de la unidad temática."
@@ -307,7 +307,7 @@
           "feedback": "Incorrecto. Hibridación Southern Blot describe un proceso o componente distinto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El concepto de La secuenciación de Sanger constituye un fundamento esencial para comprender los procesos analizados en la unidad de Biotecnología.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -328,19 +328,19 @@
       "context": "Durante una actividad de laboratorio en el Colegio Nacional Encarnación de Encarnación, Benjamín y su grupo investigan sobre Biotecnología.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "CRISPR-Cas9",
           "is_correct": true,
           "feedback": "¡Correcto! CRISPR-Cas9 responde perfectamente a la base teórica correspondiente."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La secuenciación de Sanger",
           "is_correct": false,
           "feedback": "Incorrecto. La secuenciación de Sanger no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La enzima de restricción",
           "is_correct": false,
           "feedback": "Incorrecto. La enzima de restricción es un concepto diferente de la unidad temática."
@@ -352,7 +352,7 @@
           "feedback": "Incorrecto. El retrovirus o adenovirus modificado describe un proceso o componente distinto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El concepto de CRISPR-Cas9 constituye un fundamento esencial para comprender los procesos analizados en la unidad de Biotecnología.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -463,19 +463,19 @@
       "context": "Durante una actividad de laboratorio en el Colegio Nacional del Alto Paraná de Ciudad del Este, Jorge y su grupo investigan sobre Biotecnología.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "La insulina recombinante",
           "is_correct": true,
           "feedback": "¡Correcto! La insulina recombinante responde perfectamente a la base teórica correspondiente."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La terapia génica",
           "is_correct": false,
           "feedback": "Incorrecto. La terapia génica no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Cultivos Bt resistentes a insectos",
           "is_correct": false,
           "feedback": "Incorrecto. Cultivos Bt resistentes a insectos es un concepto diferente de la unidad temática."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto. Hibridación Southern Blot describe un proceso o componente distinto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El concepto de La insulina recombinante constituye un fundamento esencial para comprender los procesos analizados en la unidad de Biotecnología.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -553,31 +553,31 @@
       "context": "Durante una actividad de laboratorio en el Colegio Nacional de Pilar de Pilar, Jorge y su grupo investigan sobre Biotecnología.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Cultivos Bt resistentes a insectos",
           "is_correct": true,
           "feedback": "¡Correcto! Cultivos Bt resistentes a insectos responde perfectamente a la base teórica correspondiente."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La reacción en cadena de la polimerasa (PCR)",
           "is_correct": false,
           "feedback": "Incorrecto. La reacción en cadena de la polimerasa (PCR) no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La huella genética por PCR de STR",
           "is_correct": false,
           "feedback": "Incorrecto. La huella genética por PCR de STR es un concepto diferente de la unidad temática."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El promotor fuerte (como pCMV)",
           "is_correct": false,
           "feedback": "Incorrecto. El promotor fuerte (como pCMV) describe un proceso o componente distinto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El concepto de Cultivos Bt resistentes a insectos constituye un fundamento esencial para comprender los procesos analizados en la unidad de Biotecnología.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -598,31 +598,31 @@
       "context": "Durante una actividad de laboratorio en el Colegio Nacional de Pilar de Pilar, Sebastián y su grupo investigan sobre Biotecnología.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Hibridación Southern Blot",
           "is_correct": true,
           "feedback": "¡Correcto! Hibridación Southern Blot responde perfectamente a la base teórica correspondiente."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La electroforesis en gel",
           "is_correct": false,
           "feedback": "Incorrecto. La electroforesis en gel no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La electroporación",
           "is_correct": false,
           "feedback": "Incorrecto. La electroporación es un concepto diferente de la unidad temática."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Las células madre embrionarias",
           "is_correct": false,
           "feedback": "Incorrecto. Las células madre embrionarias describe un proceso o componente distinto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El concepto de Hibridación Southern Blot constituye un fundamento esencial para comprender los procesos analizados en la unidad de Biotecnología.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -688,13 +688,13 @@
       "context": "Durante una actividad de laboratorio en el Colegio Nacional del Alto Paraná de Ciudad del Este, María y su grupo investigan sobre Biotecnología.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El retrovirus o adenovirus modificado",
           "is_correct": true,
           "feedback": "¡Correcto! El retrovirus o adenovirus modificado responde perfectamente a la base teórica correspondiente."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La Taq polimerasa",
           "is_correct": false,
           "feedback": "Incorrecto. La Taq polimerasa no se relaciona directamente con esta pregunta o describe otra función."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. La electroforesis en gel describe un proceso o componente distinto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El concepto de El retrovirus o adenovirus modificado constituye un fundamento esencial para comprender los procesos analizados en la unidad de Biotecnología.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -733,19 +733,19 @@
       "context": "Durante una actividad de laboratorio en el Colegio Nacional del Alto Paraná de Ciudad del Este, Gladys y su grupo investigan sobre Biotecnología.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "La transcriptasa inversa",
           "is_correct": true,
           "feedback": "¡Correcto! La transcriptasa inversa responde perfectamente a la base teórica correspondiente."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La reacción en cadena de la polimerasa (PCR)",
           "is_correct": false,
           "feedback": "Incorrecto. La reacción en cadena de la polimerasa (PCR) no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Hibridación Southern Blot",
           "is_correct": false,
           "feedback": "Incorrecto. Hibridación Southern Blot es un concepto diferente de la unidad temática."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. El retrovirus o adenovirus modificado describe un proceso o componente distinto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El concepto de La transcriptasa inversa constituye un fundamento esencial para comprender los procesos analizados en la unidad de Biotecnología.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -778,31 +778,31 @@
       "context": "Durante una actividad de laboratorio en el Colegio Nacional Ortiz Guerrero de Villarrica, Sebastián y su grupo investigan sobre Biotecnología.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "El cultivo in vitro de tejidos",
           "is_correct": true,
           "feedback": "¡Correcto! El cultivo in vitro de tejidos responde perfectamente a la base teórica correspondiente."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Las células madre embrionarias",
           "is_correct": false,
           "feedback": "Incorrecto. Las células madre embrionarias no se relaciona directamente con esta pregunta o describe otra función."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "CRISPR-Cas9",
           "is_correct": false,
           "feedback": "Incorrecto. CRISPR-Cas9 es un concepto diferente de la unidad temática."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La transcriptasa inversa",
           "is_correct": false,
           "feedback": "Incorrecto. La transcriptasa inversa describe un proceso o componente distinto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El concepto de El cultivo in vitro de tejidos constituye un fundamento esencial para comprender los procesos analizados en la unidad de Biotecnología.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -823,13 +823,13 @@
       "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Raúl Peña de Caacupé, Benjamín y su grupo investigan sobre Biotecnología.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El promotor fuerte (como pCMV)",
           "is_correct": true,
           "feedback": "¡Correcto! El promotor fuerte (como pCMV) responde perfectamente a la base teórica correspondiente."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El cultivo in vitro de tejidos",
           "is_correct": false,
           "feedback": "Incorrecto. El cultivo in vitro de tejidos no se relaciona directamente con esta pregunta o describe otra función."
@@ -847,7 +847,7 @@
           "feedback": "Incorrecto. Transferencia nuclear de células somáticas describe un proceso o componente distinto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El concepto de El promotor fuerte (como pCMV) constituye un fundamento esencial para comprender los procesos analizados en la unidad de Biotecnología.\n\n---",
       "difficulty": "10",
       "images": [],

@@ -59,19 +59,19 @@
       "context": "En una microcentral hidroelectrica del Valle del Cauca, el agua en movimiento activa una turbina que produce electricidad.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Energía mecánica (cinética del agua) $\\to$ energía eléctrica.",
           "is_correct": true,
           "feedback": "Correcto. La turbina convierte el movimiento del agua en electricidad."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Energía química $\\to$ energía nuclear.",
           "is_correct": false,
           "feedback": "Incorrecto. No hay reacción nuclear en una central hidroelectrica."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Energía térmica $\\to$ energía mecánica.",
           "is_correct": false,
           "feedback": "Incorrecto. Esa secuencia corresponde a centrales termoelectricas."
@@ -83,7 +83,7 @@
           "feedback": "Incorrecto. Esa transformacion es propia de paneles fotovoltaicos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Central hidroelectrica: energía potencial y cinética del agua $\\to$ energía mecánica (turbina) $\\to$ energía eléctrica (generador).",
       "difficulty": "4",
       "images": [],
@@ -105,19 +105,19 @@
       "context": "En Ibague, una montaña rusa lleva un carro de $500$ kg hasta una altura de $20$ m, considerando $g = 10$ m/s$^2$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$100.000$ J.",
           "is_correct": true,
           "feedback": "Correcto. $E_p = m \\cdot g \\cdot h = 500 \\cdot 10 \\cdot 20 = 100.000$ J."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$1.000$ J.",
           "is_correct": false,
           "feedback": "Incorrecto. Corresponde a una masa de $5$ kg en $20$ m."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$10.000$ J.",
           "is_correct": false,
           "feedback": "Incorrecto. Corresponde a una altura de $2$ m."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecto. Corresponde a usar mal la fórmula, multiplicando por $2$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Energía potencial gravitacional: $E_p = m \\cdot g \\cdot h$. Con $m = 500$ kg, $g = 10$ m/s$^2$ y $h = 20$ m, $E_p = 100.000$ J.",
       "difficulty": "6",
       "images": [],
@@ -151,31 +151,31 @@
       "context": "En Neiva, un vehiculo de $1200$ kg circula a $20$ m/s por una carretera recta y horizontal.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$240.000$ J.",
           "is_correct": true,
           "feedback": "Correcto. $E_c = \\frac{1}{2} m v^2 = 0,5 \\cdot 1200 \\cdot 20^2 = 240.000$ J."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$24.000$ J.",
           "is_correct": false,
           "feedback": "Incorrecto. Faltaria un factor $10$ en la operacion."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$12.000$ J.",
           "is_correct": false,
           "feedback": "Incorrecto. No se eleva al cuadrado la velocidad."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$480.000$ J.",
           "is_correct": false,
           "feedback": "Incorrecto. Supone multiplicar $m \\cdot v^2$ sin el factor $1/2$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Energía cinética: $E_c = \\frac{1}{2} m v^2$. Con $m = 1200$ kg y $v = 20$ m/s, $E_c = 240.000$ J.",
       "difficulty": "6",
       "images": [],
@@ -243,31 +243,31 @@
       "context": "En Medellín, un profesor senala que al frotar las manos, estas se calientan aunque no haya llama visible.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "La energía mecánica del movimiento se transforma en energía térmica por fricción.",
           "is_correct": true,
           "feedback": "Correcto. El rozamiento convierte trabajo mecánico en calor."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La energía térmica se transforma en energía mecánica por el movimiento.",
           "is_correct": false,
           "feedback": "Incorrecto. El sentido del proceso es el contrario: mecánica $\\to$ térmica."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "No hay transformacion energetica porque las manos no cambian de temperatura.",
           "is_correct": false,
           "feedback": "Incorrecto. El calor por fricción si eleva la temperatura de las manos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La energía eléctrica aparece primero y luego se convierte en calor.",
           "is_correct": false,
           "feedback": "Incorrecto. La fricción no genera electricidad de manera significativa."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La fricción convierte trabajo mecánico en calor: parte de la energía mecánica se disipa como energía térmica interna.",
       "difficulty": "8",
       "images": [],
@@ -289,31 +289,31 @@
       "context": "En una finca solar de Yopal, Casanare, paneles fotovoltaicos se instalan sobre el techo del galpon para alimentar sistemas de iluminacion.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "La energía luminosa del sol se transforma directamente en energía eléctrica por el efecto fotovoltaico.",
           "is_correct": true,
           "feedback": "Correcto. Los semiconductores convierten fotones en electricidad."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La energía térmica del sol se convierte en energía mecánica y luego en electricidad.",
           "is_correct": false,
           "feedback": "Incorrecto. No hay etapa mecánica en paneles fotovoltaicos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La energía química del sol se transforma en energía eléctrica.",
           "is_correct": false,
           "feedback": "Incorrecto. El sol emite radiacion electromagnetica, no energía química directa."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La energía nuclear del sol se convierte en electricidad sin perdidas.",
           "is_correct": false,
           "feedback": "Incorrecto. La conversion tiene perdidas asociadas a la eficiencia del panel."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Efecto fotovoltaico: fotones incidentes liberan electrones en un semiconductor, generando corriente eléctrica continua.",
       "difficulty": "8",
       "images": [],
@@ -335,13 +335,13 @@
       "context": "En un parque eolico de La Guajira, el viento mueve las aspas de un aerogenerador que produce electricidad para miles de hogares.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Energía cinética del viento $\\to$ mecánica (aspas y eje) $\\to$ eléctrica (generador).",
           "is_correct": true,
           "feedback": "Correcto. El viento entrega energía mecánica, luego transformada en eléctrica por el generador."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Energía térmica del viento $\\to$ energía mecánica $\\to$ energía eléctrica.",
           "is_correct": false,
           "feedback": "Incorrecto. El viento transfiere energía mecánica, no térmica como fuente principal."
@@ -359,7 +359,7 @@
           "feedback": "Incorrecto. El viento no transporta energía química aprovechable."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Energía eolica: viento (cinética) $\\to$ aspas (mecánica) $\\to$ generador (eléctrica). Parte se pierde por fricción y resistencia aerodinamica.",
       "difficulty": "8",
       "images": [],
@@ -381,31 +381,31 @@
       "context": "En el acueducto de Bogotá, se bombea agua a un tanque elevado para distribuirla por gravedad a las viviendas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Bombeo: energía eléctrica $\\to$ mecánica $\\to$ potencial gravitacional. Distribucion: potencial $\\to$ cinética $\\to$ calor por fricción.",
           "is_correct": true,
           "feedback": "Correcto. La bomba eleva el agua ganando energía potencial, que luego se libera al fluir."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El bombeo convierte energía térmica en eléctrica sin perdidas.",
           "is_correct": false,
           "feedback": "Incorrecto. La conversion incluye perdidas termicas por fricción."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La distribucion del agua no involucra ninguna transformacion energetica.",
           "is_correct": false,
           "feedback": "Incorrecto. Al descender, la energía potencial se convierte en cinética y calor por rozamiento."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La energía eléctrica del bombeo se convierte en energía nuclear.",
           "is_correct": false,
           "feedback": "Incorrecto. No hay reacciones nucleares implicadas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El agua elevada almacena energía potencial gravitacional. Al descender, esta energía se transforma en cinética y se disipa parcialmente como calor.",
       "difficulty": "8",
       "images": [],
@@ -427,31 +427,31 @@
       "context": "En Pereira, el gobierno municipal discute sustituir el alumbrado publico de sodio por tecnologia LED para reducir el consumo eléctrico.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Los LED convierten una mayor fraccion de la energía eléctrica en luz, reduciendo perdidas por calor.",
           "is_correct": true,
           "feedback": "Correcto. Los LED tienen alta eficiencia luminica, menor disipacion térmica."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Los LED producen mas calor que las lamparas de sodio, aumentando las perdidas.",
           "is_correct": false,
           "feedback": "Incorrecto. Los LED son mas frios y eficientes que las lamparas de sodio."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Los LED tienen el mismo consumo que las lamparas de sodio pero mas bonitos.",
           "is_correct": false,
           "feedback": "Incorrecto. Su ventaja principal es la eficiencia energetica, no la estetica."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Sustituir lamparas no produce ahorro energetico alguno.",
           "is_correct": false,
           "feedback": "Incorrecto. La tecnologia LED permite ahorros significativos en consumo eléctrico."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Los LED son mas eficientes porque una mayor fraccion de la energía eléctrica se convierte en luz y menos en calor, reduciendo perdidas energeticas.",
       "difficulty": "10",
       "images": [],
@@ -519,19 +519,19 @@
       "context": "En el colegio de Sogamoso, una estudiante argumenta que nunca se \"crea\" ni se \"destruye\" energía, solo se transforma.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "La energía química del carbon se transforma en electricidad y calor, manteniendo constante la energía total del sistema.",
           "is_correct": true,
           "feedback": "Correcto. La energía total se conserva aunque se transforme y se disipe parcialmente como calor."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Parte de la energía se destruye en forma de calor inutil.",
           "is_correct": false,
           "feedback": "Incorrecto. La energía no se destruye; solo se transforma en formas menos aprovechables."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La electricidad creada es mas energía que la contenida en el carbon original.",
           "is_correct": false,
           "feedback": "Incorrecto. La energía util es siempre menor o igual a la energía inicial, por conservacion."
@@ -543,7 +543,7 @@
           "feedback": "Incorrecto. Es una ley universal; aplica a todo sistema cerrado."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Primera ley de la termodinamica: la energía total de un sistema aislado se conserva, aunque se transforme en formas menos aprovechables como calor.",
       "difficulty": "10",
       "images": [],

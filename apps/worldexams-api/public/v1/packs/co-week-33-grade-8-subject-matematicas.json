@@ -59,13 +59,13 @@
       "context": "En Medellín, en el Parque Explora, un guía muestra una maqueta donde un segmento de 6 cm está dividido en partes proporcionales a 2 y 4.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "4/2 = 2",
           "is_correct": false,
           "feedback": "Incorrecto. Esa es la razón entre la parte mayor y la menor; se pide la razón menor a mayor."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "2/4 = 1/2",
           "is_correct": true,
           "feedback": "Correcto. La razón menor a mayor es 2/4, que simplificada es 1/2."
@@ -83,7 +83,7 @@
           "feedback": "Incorrecto. Esa es la suma de las partes proporcionales, no la razón entre ellas."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La razón entre dos cantidades es su cociente ordenado. Si las partes son proporcionales a 2 y 4, la razón menor/mayor es 2/4 = 1/2. El orden de la razón es fundamental para interpretar la proporcionalidad.",
       "difficulty": "4",
       "images": [],
@@ -105,19 +105,19 @@
       "context": "En Cali, en la Biblioteca Departamental, un estudiante observa un triángulo con una recta paralela a uno de sus lados que corta a los otros dos lados.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Divide a esos dos lados en segmentos iguales",
           "is_correct": false,
           "feedback": "Incorrecto. La igualdad solo ocurre si la paralela pasa por los puntos medios; en general la división es proporcional."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Forma un cuadrilátero con área igual a la mitad del triángulo",
           "is_correct": false,
           "feedback": "Incorrecto. El área del cuadrilátero depende de la posición de la paralela; no es siempre la mitad."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Divide a esos dos lados en segmentos proporcionales",
           "is_correct": true,
           "feedback": "Correcto. Toda paralela a un lado de un triángulo divide a los otros dos lados en segmentos proporcionales."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecto. Los triángulos formados son semejantes, no necesariamente congruentes, pues tienen distinto tamaño."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Es el corolario del Teorema de Tales en el triángulo: la paralela genera un triángulo menor semejante al original. Por eso los lados quedan divididos proporcionalmente, lo que permite calcular longitudes desconocidas.",
       "difficulty": "4",
       "images": [],
@@ -151,13 +151,13 @@
       "context": "En Cartagena, en la obra de restauración de la muralla, tres andamios paralelos cortan dos vigas transversales. Sobre una viga los segmentos miden 3 m y 6 m; sobre la otra, el segmento correspondiente al de 3 m mide 2 m.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "3 m",
           "is_correct": false,
           "feedback": "Incorrecto. Ese valor resultaría de una resta 6 - 3; debes plantear la proporción 3/6 = 2/x."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "4 m",
           "is_correct": true,
           "feedback": "Correcto. Como 3/6 = 2/x, entonces 3x = 12 y x = 4."
@@ -175,7 +175,7 @@
           "feedback": "Incorrecto. Ese valor multiplica 3 por 3; la proporción exige x = (6 por 2) / 3 = 4."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Se plantea 3/6 = 2/x. Al multiplicar en cruz: 3x = 12, de donde x = 4 m. Este procedimiento de regla de tres geométrica es la aplicación directa del Teorema de Tales.",
       "difficulty": "6",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "En Barranquilla, en el Malecón del Río, un poste de 2 m proyecta una sombra de 3 m. A la misma hora, una palmera cercana proyecta una sombra de 7,5 m.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "3,5 m",
           "is_correct": false,
           "feedback": "Incorrecto. Ese valor divide 7,5 entre algo incorrecto; la proporción es 2/3 = h/7,5."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "5 m",
           "is_correct": true,
           "feedback": "Correcto. Como 2/3 = h/7,5, entonces h = (2 por 7,5) / 3 = 15/3 = 5."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto. Ese valor suma 7,5 + 1; debes multiplicar 7,5 por la razón 2/3."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Los rayos solares paralelos forman triángulos semejantes con los objetos y sus sombras. La razón altura/sombra es constante: h = 7,5 × 2/3 = 5 m. Es la aplicación clásica atribuida a Tales para medir la pirámide.",
       "difficulty": "6",
       "images": [],
@@ -249,13 +249,13 @@
           "feedback": "Incorrecto. Esa división corresponde a la razón 1 a 2, no a 2 a 3."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "24 m y 36 m",
           "is_correct": true,
           "feedback": "Correcto. El total se reparte en 2 + 3 = 5 partes de 12 m: 2 × 12 = 24 y 3 × 12 = 36."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "30 m y 30 m",
           "is_correct": false,
           "feedback": "Incorrecto. Esa es una división en partes iguales, que corresponde a la razón 1 a 1."
@@ -267,7 +267,7 @@
           "feedback": "Incorrecto. Esa división corresponde a la razón 1 a 3, no a 2 a 3."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Para repartir 60 m en razón 2:3 se divide entre 5 partes iguales: 60/5 = 12 m por parte. Luego 2 × 12 = 24 m y 3 × 12 = 36 m. La suma verifica: 24 + 36 = 60.",
       "difficulty": "6",
       "images": [],
@@ -295,13 +295,13 @@
           "feedback": "Incorrecto. EC = 8 no satisface 4/6 = 6/8, pues 4 × 8 = 32 y 6 × 6 = 36."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "EC = 9 cm y razón 2/5",
           "is_correct": true,
           "feedback": "Correcto. Como 4/6 = 6/EC, EC = 36/4 = 9; AB = 10 y AD = 4, razón 4/10 = 2/5."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "EC = 9 cm y razón 3/2",
           "is_correct": false,
           "feedback": "Incorrecto. EC = 9 es correcto, pero 3/2 es la razón del grande al pequeño invertida parcialmente; la razón pequeño a grande es 2/5."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecto. La razón 2/5 es correcta, pero EC = 10 no cumple la proporción 4/6 = 6/10."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Por Tales: AD/DB = AE/EC, es decir 4/6 = 6/EC, de donde EC = 9 cm. El lado AB = 4 + 6 = 10 cm, así que la razón de semejanza ADE a ABC es AD/AB = 4/10 = 2/5. Analizar exige coordinar la proporción parcial con la razón total.",
       "difficulty": "8",
       "images": [],
@@ -341,25 +341,25 @@
           "feedback": "Incorrecto. Ese valor usa razón 1/2 en vez de 1,5/2; subestima la altura."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "9 m",
           "is_correct": true,
           "feedback": "Correcto. La altura es 12 × (1,5/2) = 12 × 0,75 = 9 m por semejanza."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "12 m",
           "is_correct": false,
           "feedback": "Incorrecto. Ese valor iguala la altura a la distancia, lo que supondría razón 1, no 0,75."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "18 m",
           "is_correct": false,
           "feedback": "Incorrecto. Ese valor multiplica 12 × 1,5 sin dividir entre 2; olvida la distancia del listón al ojo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Los triángulos son semejantes por tener ángulos iguales y lados sobre paralelas. La razón constante es 1,5/2 = 0,75. Entonces altura = 12 × 0,75 = 9 m. El análisis consiste en identificar correctamente los lados homólogos.",
       "difficulty": "8",
       "images": [],
@@ -387,25 +387,25 @@
           "feedback": "Incorrecto. Esa respuesta mantiene diferencias aditivas, no la razón 4/5 constante."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "8 m y 12 m",
           "is_correct": true,
           "feedback": "Correcto. La razón es 4/5 = 0,8; luego 10 × 0,8 = 8 y 15 × 0,8 = 12."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "9 m y 14 m",
           "is_correct": false,
           "feedback": "Incorrecto. Esos valores suman 5 a cada dato original; la relación de Tales es multiplicativa."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "10 m y 15 m",
           "is_correct": false,
           "feedback": "Incorrecto. Esos valores copian los segmentos de la primera avenida e ignoran la proporcionalidad con el 4 m."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Todas las razones respecto a la primera avenida deben ser iguales: x/10 = 4/5 y y/15 = 4/5. Así x = 8 m y y = 12 m. Se verifica que 4/5 = 8/10 = 12/15 = 0,8, confirmando el Teorema de Tales con tres paralelas.",
       "difficulty": "8",
       "images": [],
@@ -433,13 +433,13 @@
           "feedback": "Incorrecto. Sumar cantidades distintas rompe la proporción: 10/14 es diferente de 15/20."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "La de 14 cm por 21 cm, porque 10/14 = 15/21 = 5/7",
           "is_correct": true,
           "feedback": "Correcto. Ambas fracciones se simplifican a 5/7, por lo que los lados son proporcionales y la imagen no se deforma."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ambas son correctas porque parten del mismo original",
           "is_correct": false,
           "feedback": "Incorrecto. Partir del mismo original no garantiza proporcionalidad; solo 14 por 21 mantiene la razón 2/3."
@@ -451,7 +451,7 @@
           "feedback": "Incorrecto. La proporcionalidad se evalúa entre original y ampliación, no entre los lados del original."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Evaluar exige comprobar la igualdad de razones: 10/14 = 5/7 ≈ 0,714 y 15/21 = 5/7 ≈ 0,714, mientras 15/20 = 3/4 = 0,75. Solo 14 por 21 conserva la forma. El dato del marco en COP es distractor contextual que no interviene en la proporción.",
       "difficulty": "10",
       "images": [],
@@ -479,13 +479,13 @@
           "feedback": "Incorrecto. La condición del recíproco es la igualdad de razones, no de sumas; además 4 + 5 no corresponde a los datos."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "El primero, porque toda recta interior es paralela",
           "is_correct": false,
           "feedback": "Incorrecto. Solo son paralelas las rectas que determinan segmentos proporcionales; no toda recta interior lo es."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El segundo, porque 3/6 = 1/2 es distinto de 4/9",
           "is_correct": true,
           "feedback": "Correcto. Como 1/2 ≈ 0,5 y 4/9 ≈ 0,44, las razones difieren y el recíproco de Tales niega el paralelismo."
@@ -497,7 +497,7 @@
           "feedback": "Incorrecto. La conclusión es correcta pero el argumento es falso: se exige proporcionalidad, no igualdad."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "El recíproco de Tales dice: si los segmentos son proporcionales, la recta es paralela; si no lo son, no es paralela. Como 3/6 ≠ 4/9, la recta no es paralela. Evaluar implica juzgar un argumento con el criterio exacto del teorema.",
       "difficulty": "10",
       "images": [],
@@ -525,25 +525,25 @@
           "feedback": "Incorrecto. Ese razonamiento aditivo no corresponde al Teorema de Tales, que exige igualdad de razones."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "No, el valor correcto es x = 8 m porque 6/9 = 8/12 = 2/3",
           "is_correct": true,
           "feedback": "Correcto. La proporción 6/9 = x/12 da x = 72/9 = 8; con x = 7 la razón sería 7/12 ≠ 2/3."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "No, el valor correcto es x = 9 m por simetría",
           "is_correct": false,
           "feedback": "Incorrecto. La simetría no aplica aquí; x = 9 daría 9/12 = 3/4, distinto de 6/9 = 2/3."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Sí, x = 7 m porque 9 - 6 = 12 - 9",
           "is_correct": false,
           "feedback": "Incorrecto. Esa igualdad de diferencias es casual y no demuestra proporcionalidad: 7/12 ≈ 0,58 ≠ 0,67."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Evaluar el informe exige verificar 6/9 frente a 7/12: 2/3 ≈ 0,667 contra 0,583, por lo que el informe es falso. El valor que satisface 6/9 = x/12 es x = 8 m, pues 8/12 = 2/3. Así se corrige el error con evidencia proporcional.",
       "difficulty": "10",
       "images": [],

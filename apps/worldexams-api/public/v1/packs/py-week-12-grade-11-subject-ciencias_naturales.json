@@ -13,19 +13,19 @@
       "context": "En el laboratorio de biología del Colegio Nacional Dr. Raúl Peña de Caacupé, los estudiantes arman un modelo tridimensional del ADN.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Una base nitrogenada, un azúcar desoxirribosa y un grupo fosfato",
           "is_correct": true,
           "feedback": "¡Correcto! Todo nucleótido de ADN está compuesto por una pentosa desoxirribosa, un grupo fosfato y una de las cuatro bases nitrogenadas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Una base nitrogenada, un azúcar ribosa y un grupo amino",
           "is_correct": false,
           "feedback": "Incorrecto. La ribosa es el azúcar del ARN, no del ADN, y el grupo amino forma parte de los aminoácidos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Tres ácidos grasos, un glicerol y una base nitrogenada",
           "is_correct": false,
           "feedback": "Incorrecto. Esta combinación describe lípidos complejos combinados, no la estructura de los ácidos nucleicos."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. La glucosa es un monosacárido energético y los polipéptidos corresponden a las proteínas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Los nucleótidos son los bloques estructurales que forman las cadenas de ADN y ARN, diferenciándose por el tipo de azúcar pentosa y las bases nitrógenadas presentes.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -58,31 +58,31 @@
       "context": "Durante una clase sobre el código genético en Asunción, Santiago repasa la regla de apareamiento de bases nitrogenadas propuesta por Chargaff.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Timina (T)",
           "is_correct": true,
           "feedback": "¡Correcto! En la doble hélice de ADN, la Adenina se aparea de manera complementaria con la Timina mediante dos enlaces de hidrógeno."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Citocina (C)",
           "is_correct": false,
           "feedback": "Incorrecto. La Citocina se aparea exclusivamente con la Guanina a través de tres puentes de hidrógeno."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Uracilo (U)",
           "is_correct": false,
           "feedback": "Incorrecto. El Uracilo sustituye a la Timina únicamente en la estructura del ARN."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Guanina (G)",
           "is_correct": false,
           "feedback": "Incorrecto. La Guanina es una purina que se aparea con la Citocina."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La complementariedad de bases nitrogenadas (A-T y C-G) es la base del almacenamiento y duplicación fiel de la información genética cellular.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -103,13 +103,13 @@
       "context": "En Encarnación, los alumnos comparan las diferencias estructurales entre los ácidos nucleicos ADN y ARN.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Uracilo",
           "is_correct": true,
           "feedback": "¡Correcto! El Uracilo es la base pirimidínica propia del ARN que reemplaza a la Timina del ADN."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Adenina",
           "is_correct": false,
           "feedback": "Incorrecto. La Adenina se encuentra presente tanto en la molécula de ADN como en la de ARN."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. La Citocina es común al ADN y al ARN."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El sustituto del Uracilo por Timina en el ADN le confiere mayor estabilidad química para almacenar el genoma celular a largo plazo.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,31 +148,31 @@
       "context": "En el laboratorio del Colegio Nacional San Lorenzo, se analiza el proceso mediante el cual el ADN copia su secuencia a ARN mensajero.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Transcripción",
           "is_correct": true,
           "feedback": "¡Correcto! La transcripción es la síntesis de ARN mensajero catalizada por la enzima ARN polimerasa utilizando el ADN como molde."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Traducción",
           "is_correct": false,
           "feedback": "Incorrecto. La traducción es el proceso de síntesis de proteínas en el ribosoma a partir del ARNm."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Replicación",
           "is_correct": false,
           "feedback": "Incorrecto. La replicación es la duplicación completa de la doble hélice de ADN previa a la división celular."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Transducción",
           "is_correct": false,
           "feedback": "Incorrecto. La transducción es la transferencia de ADN bacteriano mediante un bacteriófago."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La transcripción es el primer paso del dogma central de la biología molecular, convirtiendo la información almacenada en el ADN en un mensaje ejecutable de ARN.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -283,31 +283,31 @@
       "context": "Durante una investigación en Coronel Oviedo, los estudiantes analizan el impacto de las mutaciones puntuales en el ADN.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Cambiar un nucleótido sin alterar el aminoácido codificado debido a la degeneración del código genético",
           "is_correct": true,
           "feedback": "¡Correcto! Las mutaciones silenciosas cambian la base pero, por la redundancia del código, producen el mismo aminoácido."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Introducir un codón de parada prematuro que trunca la proteína",
           "is_correct": false,
           "feedback": "Incorrecto. Esto describe a una mutación sin sentido (nonsense)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Cambiar el aminoácido resultante alterando siempre la función de la proteína",
           "is_correct": false,
           "feedback": "Incorrecto. Esto describe a una mutación de sentido erróneo (missense)."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Eliminar un cromosoma entero del cariotipo humano",
           "is_correct": false,
           "feedback": "Incorrecto. La pérdida de cromosomas es una mutación genómica estructural masiva, no puntual."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La degeneración o redundancia del código genético significa que varios codones codifican el mismo aminoácido, protegiendo al organismo contra mutaciones silenciosas.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -328,31 +328,31 @@
       "context": "En Villarrica, se estudia cómo las enzimas abren y duplican la doble hélice de ADN.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Helicasa",
           "is_correct": true,
           "feedback": "¡Correcto! La helicasa desenrolla y separa las dos cadenas complementarias de ADN rompiendo los enlaces de hidrógeno."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "ADN Ligasa",
           "is_correct": false,
           "feedback": "Incorrecto. La ligasa une los fragmentos de Okazaki formando enlaces fosfodiéster."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "ARN Polimerasa",
           "is_correct": false,
           "feedback": "Incorrecto. La ARN polimerasa sintetiza hebras de ARN durante la transcripción."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Amilasa pancreática",
           "is_correct": false,
           "feedback": "Incorrecto. La amilasa es una enzima digestiva que hidroliza el almidón en el tubo digestivo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La separación de hebras por la helicasa crea la horquilla de replicación necesaria para la síntesis semiconservativa del genoma.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -418,31 +418,31 @@
       "context": "En el laboratorio del Colegio Nacional San José de Concepción, se estudia la maduración del pre-ARNm eucariota.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Splicing (o corte y empalme)",
           "is_correct": true,
           "feedback": "¡Correcto! El splicing remueve las secuencias no codificantes (intrones) y une los exones codificantes."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Caperuza 5' (Capping)",
           "is_correct": false,
           "feedback": "Incorrecto. La caperuza 5' es la adición de una 7-metilguanosina en el extremo 5' para protección."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Poliadenilación 3'",
           "is_correct": false,
           "feedback": "Incorrecto. La cola de Poli-A se añade al extremo 3' para estabilidad y transporte nuclear."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Replicación dispersiva",
           "is_correct": false,
           "feedback": "Incorrecto. Modelo hipotético descartado de replicación del ADN."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El splicing alternativo permite que un mismo gen eucariota produzca diferentes variantes de proteínas (isoformas) combinando exones de distintas maneras.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -463,13 +463,13 @@
       "context": "Investigadores de la Universidad Nacional de Asunción analizan los efectos de la radiación UV en el ADN foliar de cultivos de sésamo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Timina-Timina (Dímeros de timina)",
           "is_correct": true,
           "feedback": "¡Correcto! La radiación UV induce la formación de enlaces covalentes no deseados entre timinas adyacentes distorsionando la hélice."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Guanina-Citocina",
           "is_correct": false,
           "feedback": "Incorrecto. La unión entre guanina y citocina es la interacción normal de apareamiento en la doble hélice."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto. El enlace entre azúcar y fosfato constituye la columna vertebral fosfodiéster normal."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Los dímeros de timina bloquean la replicación y transcripción, requiriendo mecanismos celulares de reparación por escisión de nucleótidos para prevenir mutaciones.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -508,19 +508,19 @@
       "context": "En un taller de biotecnología en Luque, se estudia cómo se regula la expresión del operón lac en bacterias E. coli.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "El alolactosa se une al represor inactivándolo, permitiendo la transcripción de los genes estructurales",
           "is_correct": true,
           "feedback": "¡Correcto! La alolactosa actúa como inductor uniéndose al represor e impidiendo que este bloquee al operador."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El represor se une firmemente al operador bloqueando la ARN polimerasa",
           "is_correct": false,
           "feedback": "Incorrecto. Esto ocurre cuando la lactosa está ausente en el medio."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La ARN polimerasa se destruye de forma irreversible",
           "is_correct": false,
           "feedback": "Incorrecto. La enzima polimerasa se mantiene funcional y transcribe los genes."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. Solo se regula la transcripción específica de los genes del metabolismo de lactosa."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El operón lac es el modelo clásico de control transcripcional inducible en procariotas, optimizando el uso de recursos energéticos según el sustrato disponible.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -553,19 +553,19 @@
       "context": "Se examina una hebra de molde de ADN con la secuencia 3'-TAC GGG CTT ACT-5' para deducir la secuencia del ARNm transcrito.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "5'-AUG CCC GAA UGA-3'",
           "is_correct": true,
           "feedback": "¡Correcto! Recordando la complementariedad (A->U, T->A, C->G, G->C) en dirección 5' a 3': TAC->AUG, GGG->CCC, CTT->GAA, ACT->UGA."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "5'-ATG CCC GAA TGA-3'",
           "is_correct": false,
           "feedback": "Incorrecto. Esta secuencia contiene Timina (T), propia del ADN y no del ARN."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "5'-AUG GGG CUA UGA-3'",
           "is_correct": false,
           "feedback": "Incorrecto. No respeta la complementariedad de las bases CTT a GAA."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. Es una copia idéntica sustituyendo T por U sin mantener la polaridad antiparalela."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La síntesis de ARN es antiparalela y complementaria a la hebra de ADN molde, sustituyendo la Timina por Uracilo en la molécula transcrita.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -598,31 +598,31 @@
       "context": "En un laboratorio de genética médica en Asunción, se analiza una mutación por inserción de un solo nucleótido en el gen de la hemoglobina.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Desplazamiento del marco de lectura (frameshift), alterando todos los aminoácidos posteriores",
           "is_correct": true,
           "feedback": "¡Correcto! Al no ser múltiplo de tres, se altera la pauta de triplete desde el punto de la mutación cambiando toda la secuencia peptídica."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Duplicación inmediata del telómero del cromosoma",
           "is_correct": false,
           "feedback": "Incorrecto. Los telómeros son estructuras no codificantes de los extremos cromosómicos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Conversión automática del ADN en ARN ribosomal",
           "is_correct": false,
           "feedback": "Incorrecto. Las mutaciones no transforman la clase de ácido nucleico."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Aumento de la temperatura celular de desnaturalización",
           "is_correct": false,
           "feedback": "Incorrecto. La adición de un nucleótido no altera las propiedades térmicas globales de la célula."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Las mutaciones de desplazamiento del marco de lectura suelen ser devastadoras porque alteran completamente la secuencia de aminoácidos aguas abajo y suelen crear codones de parada prematuros.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -688,31 +688,31 @@
       "context": "En Paraguarí, se estudia la función de las proteínas histonas en el empaquetamiento del ADN nuclear en células eucariotas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Nucleosoma",
           "is_correct": true,
           "feedback": "¡Correcto! El nucleosoma es la unidad básica de empaquetamiento de la cromatina compuesta por ADN y 8 proteínas histonas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Centrómero",
           "is_correct": false,
           "feedback": "Incorrecto. El centrómero es la región estrecha de un cromosoma que une las cromátidas hermanas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Centrosoma",
           "is_correct": false,
           "feedback": "Incorrecto. El centrosoma es la organela organizadora de microtúbulos durante la división celular."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Cuerpos de Barr",
           "is_correct": false,
           "feedback": "Incorrecto. El cuerpo de Barr es el cromosoma X inactivado en células somáticas femeninas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La compactación en nucleosomas permite empaquetar más de dos metros de ADN en el microscópico núcleo celular eucariota regulando el acceso transcripcional.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -778,31 +778,31 @@
       "context": "En un centro de investigación fitopatológica en Caacupé, se analiza la replicación de viroides y retrovirus en cultivos vegetales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Transcriptasa inversa (o retrotranscriptasa)",
           "is_correct": true,
           "feedback": "¡Correcto! La transcriptasa inversa sintetiza ADN a partir de un molde de ARN, invirtiendo el sentido clásico del dogma central."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "ADN Topoisomerasa II",
           "is_correct": false,
           "feedback": "Incorrecto. La topoisomerasa alivia la tensión de superenrollamiento en la hélice de ADN."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "ARN Primasa",
           "is_correct": false,
           "feedback": "Incorrecto. La primasa sintetiza cebadores cortos de ARN durante la replicación celular."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Polimerasa de Taq",
           "is_correct": false,
           "feedback": "Incorrecto. La Taq polimerasa es una ADN polimerasa termoestable utilizada en la prueba de PCR."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La transcriptasa inversa es una excepción clave al dogma central tradicional, permitiendo la síntesis de ADN proviral a partir del ARN vírico.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -823,13 +823,13 @@
       "context": "Se analizan los mecanismos epigenéticos que regulan la expresión génica en respuesta a la nutrición y el estrés ambiental.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Silencia la transcripción al condensar la cromatina e impedir el acceso de factores de transcripción",
           "is_correct": true,
           "feedback": "¡Correcto! La metilación frecuentemente reprime la expresión génica promoviendo una estructura compacta e inaccesible de heterocromatina."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Duplica la velocidad de síntesis proteica en los ribosomas",
           "is_correct": false,
           "feedback": "Incorrecto. La metilación actúa en el ADN modificando la transcripción, no la traducción ribosómica."
@@ -847,7 +847,7 @@
           "feedback": "Incorrecto. La metilación es la adición del grupo químico metilo (-CH3), no transmutación de elementos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La epigenética demuestra cómo factores ambientales pueden encender o apagar genes mediante marcas químicas modificables sin alterar la secuencia primaria de ADN.\n\n---",
       "difficulty": "10",
       "images": [],

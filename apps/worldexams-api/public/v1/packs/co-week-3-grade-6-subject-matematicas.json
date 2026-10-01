@@ -13,13 +13,13 @@
       "context": "En clase en Bogotá, Andrea aprende la noción de potencia.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Base 2 y exponente 5.",
           "is_correct": true,
           "feedback": "Correcto. La base es 2 y el exponente 5."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Base 5 y exponente 2.",
           "is_correct": false,
           "feedback": "Incorrecto. Los roles están invertidos."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. La base es 2."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La potencia $a^n$ representa multiplicar $a$ por sí mismo $n$ veces.",
       "difficulty": "4",
       "images": [],
@@ -151,19 +151,19 @@
       "context": "En un taller en Pereira, se estudian propiedades.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$2^5 = 32$.",
           "is_correct": true,
           "feedback": "Correcto. Se suman exponentes con base igual: $2^{3+2} = 2^5 = 32$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$2^6 = 64$.",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicaste las bases."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$4^5 = 1024$.",
           "is_correct": false,
           "feedback": "Incorrecto. La base no cambia."
@@ -175,7 +175,7 @@
           "feedback": "Incorrecto. Se conserva la base."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El producto de potencias de igual base se resuelve sumando los exponentes.",
       "difficulty": "4",
       "images": [],
@@ -243,31 +243,31 @@
       "context": "En clase en Manizales, se calcula la potencia de un producto.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$36$.",
           "is_correct": true,
           "feedback": "Correcto. $(2 \\cdot 3)^2 = 6^2 = 36$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$12$.",
           "is_correct": false,
           "feedback": "Incorrecto. Elevaste solo el 3."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$18$.",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste y elevaste."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$108$.",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicaste por 3 después."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La potencia de un producto se distribuye: $(a \\cdot b)^n = a^n \\cdot b^n$.",
       "difficulty": "6",
       "images": [],
@@ -289,19 +289,19 @@
       "context": "En Armenia, se introducen exponentes negativos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$\\frac{1}{9}$.",
           "is_correct": true,
           "feedback": "Correcto. $3^{-2} = \\frac{1}{3^2} = \\frac{1}{9}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$-9$.",
           "is_correct": false,
           "feedback": "Incorrecto. El signo se mantiene positivo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$9$.",
           "is_correct": false,
           "feedback": "Incorrecto. Es el recíproco."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecto. El signo es positivo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Un exponente negativo indica el recíproco: $a^{-n} = \\frac{1}{a^n}$.",
       "difficulty": "6",
       "images": [],
@@ -335,19 +335,19 @@
       "context": "En clase en Popayán, se comparan raíz cuadrada y cúbica.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "3.",
           "is_correct": true,
           "feedback": "Correcto. $3^3 = 27$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "9.",
           "is_correct": false,
           "feedback": "Incorrecto. 9 elevado al cubo da 729."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "13.5.",
           "is_correct": false,
           "feedback": "Incorrecto. Dividiste 27 entre 2."
@@ -359,7 +359,7 @@
           "feedback": "Incorrecto. Dividiste entre 10."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La raíz cúbica de 27 es 3 porque $3^3 = 27$.",
       "difficulty": "8",
       "images": [],
@@ -381,19 +381,19 @@
       "context": "En un proyecto en Bucaramanga, se evalúan errores frecuentes.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$\\sqrt{16} = 4$.",
           "is_correct": false,
           "feedback": "Correcta. $4^2 = 16$."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$(-2)^3 = -8$.",
           "is_correct": false,
           "feedback": "Correcta. El cubo conserva el signo."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "$\\sqrt{25} = -5$.",
           "is_correct": true,
           "feedback": "Correcta es 5. La raíz principal es positiva."
@@ -405,7 +405,7 @@
           "feedback": "Correcta."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Por convención, $\\sqrt{a}$ representa la raíz principal no negativa.",
       "difficulty": "10",
       "images": [],
@@ -427,13 +427,13 @@
       "context": "En un cierre en Medellín, se aplica potenciación a la geometría.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "9 cm.",
           "is_correct": true,
           "feedback": "Correcto. $\\sqrt{81} = 9$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "40.5 cm.",
           "is_correct": false,
           "feedback": "Incorrecto. Dividiste entre 2."
@@ -451,7 +451,7 @@
           "feedback": "Incorrecto. Multiplicaste por 2."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El lado de un cuadrado se obtiene mediante la raíz cuadrada de su área.",
       "difficulty": "10",
       "images": [],

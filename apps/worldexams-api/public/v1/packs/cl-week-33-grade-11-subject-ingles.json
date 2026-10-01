@@ -19,13 +19,13 @@
           "feedback": "Incorrect. Identity usually involves belonging to a group."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "belonging",
           "is_correct": true,
           "feedback": "Correct. Belonging is the feeling of being part of something."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "confusion",
           "is_correct": false,
           "feedback": "Incorrect. While some feel identity confusion, the basic definition is about belonging."
@@ -37,7 +37,7 @@
           "feedback": "Incorrect. Identity implies closeness to a culture."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "'Belonging' is the core psychological feeling that defines cultural identity.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -64,25 +64,25 @@
           "feedback": "Incorrect. Passive voice needs 'assimilating' or 'assimilated'."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "assimilating into",
           "is_correct": true,
           "feedback": "Correct. 'Pressure into + -ing' is a standard structure."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "assimilate in",
           "is_correct": false,
           "feedback": "Incorrect preposition."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "assimilated",
           "is_correct": false,
           "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "The structure 'pressure (someone) into + gerund' is used to describe forced or strongly encouraged behavior.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -109,25 +109,25 @@
           "feedback": "Incorrect. First conditional."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "didn't document",
           "is_correct": true,
           "feedback": "Correct. Second conditional for a hypothetical present change."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "hadn't documented",
           "is_correct": false,
           "feedback": "Incorrect. Third conditional."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "wouldn't document",
           "is_correct": false,
           "feedback": "Incorrect. 'Would' not in 'if' clause."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "The second conditional 'if + past simple' describes the imaginary result of failing to preserve traditions.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,13 +148,13 @@
       "context": "Article about \"heritage\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Heritage",
           "is_correct": true,
           "feedback": "Correct. Heritage is what is inherited from past generations."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Future",
           "is_correct": false,
           "feedback": "Incorrect. Heritage focuses on the past."
@@ -172,7 +172,7 @@
           "feedback": "Incorrect. Financial plan."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "'Heritage' is the specific term for the cultural and historical legacy of a group.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -199,13 +199,13 @@
           "feedback": "Incorrect. Multiculturalism supports diversity."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "recognizes",
           "is_correct": true,
           "feedback": "Correct. To recognize means to acknowledge the existence or validity of."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "ignores",
           "is_correct": false,
           "feedback": "Incorrect. Multiculturalism actively acknowledges groups."
@@ -217,7 +217,7 @@
           "feedback": "Incorrect. Opposite of support."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "'Recognizes' correctly identifies the active acknowledgment of cultural diversity in multicultural policies.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -244,25 +244,25 @@
           "feedback": "Incorrect. Speaks one language."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "bilingual",
           "is_correct": true,
           "feedback": "Correct. 'Bi-' means two."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "illiterate",
           "is_correct": false,
           "feedback": "Incorrect. Unable to read or write."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "mute",
           "is_correct": false,
           "feedback": "Incorrect. Unable to speak."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "'Bilingual' is the standard term for proficiency in two languages.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -289,25 +289,25 @@
           "feedback": "Incorrect. Active voice."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "are being revitalized",
           "is_correct": true,
           "feedback": "Correct. Present continuous passive for an ongoing positive process."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "revitalized",
           "is_correct": false,
           "feedback": "Incorrect. Past simple."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "have revitalized",
           "is_correct": false,
           "feedback": "Incorrect. Active voice."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "The present continuous passive describes the current and active process of bringing languages back to use.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -334,25 +334,25 @@
           "feedback": "Incorrect. Too broad."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "diaspora",
           "is_correct": true,
           "feedback": "Correct. Specific term for a group dispersed from its homeland."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "colony",
           "is_correct": false,
           "feedback": "Incorrect. A colony is usually established by a state."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "crowd",
           "is_correct": false,
           "feedback": "Incorrect. A casual gathering."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "'Diaspora' is the technical term for a community that has moved from its original homeland to various other places.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -379,25 +379,25 @@
           "feedback": "Incorrect. Past continuous."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "had been living",
           "is_correct": true,
           "feedback": "Correct. Past perfect continuous for duration before a past decision."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "has been living",
           "is_correct": false,
           "feedback": "Incorrect. Present perfect continuous."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "lived",
           "is_correct": false,
           "feedback": "Incorrect. Past simple."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "The past perfect continuous highlights the long duration of her urban life preceding her change in perspective.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -424,13 +424,13 @@
           "feedback": "Incorrect. Homogenization reduces diversity."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "homogenization",
           "is_correct": true,
           "feedback": "Correct. The process of making things uniform or similar."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "appreciation",
           "is_correct": false,
           "feedback": "Incorrect. Homogenization is usually seen as a negative loss."
@@ -442,7 +442,7 @@
           "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "'Homogenization' (from 'homo' meaning same) is the term for the loss of cultural variety in favor of a single global style.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -469,25 +469,25 @@
           "feedback": "Incorrect. Laws are written."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Norms",
           "is_correct": true,
           "feedback": "Correct. Unwritten social expectations."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Crimes",
           "is_correct": false,
           "feedback": "Incorrect. Violations of laws."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Jokes",
           "is_correct": false,
           "feedback": "Incorrect. Humor."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "'Norms' is the sociological term for the informal rules that guide social interaction.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -559,25 +559,25 @@
           "feedback": "Incorrect. Acculturation requires contact."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Acculturation",
           "is_correct": true,
           "feedback": "Correct. Specific term for the meeting of cultures."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ignorance",
           "is_correct": false,
           "feedback": "Incorrect."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Conflict",
           "is_correct": false,
           "feedback": "Incorrect. While conflict may occur, acculturation is the broader process of change."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "'Acculturation' describes the complex process of adapting to a new culture while maintaining some of one's own.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -604,25 +604,25 @@
           "feedback": "Incorrect. Second conditional."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "had traveled",
           "is_correct": true,
           "feedback": "Correct. Mixed conditional (past action, present result)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "have traveled",
           "is_correct": false,
           "feedback": "Incorrect. Present perfect."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "would travel",
           "is_correct": false,
           "feedback": "Incorrect. 'Would' not in 'if' clause."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "The mixed conditional connects a past hypothetical experience (traveling) with a present state of knowledge.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -649,13 +649,13 @@
           "feedback": "Incorrect. The author sees it as creative and vibrant."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "hybridity",
           "is_correct": true,
           "feedback": "Correct. Hybridity is the quality of being made of different parts."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "isolation",
           "is_correct": false,
           "feedback": "Incorrect. Hybridity involves mixing."
@@ -667,7 +667,7 @@
           "feedback": "Incorrect. Leads to new forms."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "'Hybridity' refers to the mixing of cultural elements, which the author evaluates as a positive 'creative force'.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -739,25 +739,25 @@
           "feedback": "Incorrect. 'Looking forward to' is followed by -ing."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "to visiting",
           "is_correct": true,
           "feedback": "Correct. 'Look forward to + gerund'."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "visit",
           "is_correct": false,
           "feedback": "Incorrect."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "for visiting",
           "is_correct": false,
           "feedback": "Incorrect preposition."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "The phrasal verb 'look forward to' requires the following verb to be in the gerund form.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -784,25 +784,25 @@
           "feedback": "Incorrect. Appreciation is positive."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "appropriation",
           "is_correct": true,
           "feedback": "Correct. Specific term for the controversial adoption of elements."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "documentation",
           "is_correct": false,
           "feedback": "Incorrect. Recording."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "silence",
           "is_correct": false,
           "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "'Appropriation' is the term for taking cultural elements, often from a marginalized group, for one's own use.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -829,13 +829,13 @@
           "feedback": "Incorrect. Backshifted in reported speech."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "was",
           "is_correct": true,
           "feedback": "Correct. Backshifted from 'is' to 'was' to match the past tense 'argued'."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "will be",
           "is_correct": false,
           "feedback": "Incorrect. Future."
@@ -847,7 +847,7 @@
           "feedback": "Incorrect. Present perfect."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "In reported speech, we backshift the tense of the original statement to show it was said in the past.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -868,13 +868,13 @@
       "context": "Final thought on cultural respect.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "harmony",
           "is_correct": true,
           "feedback": "Correct. Agreement or concord."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "conflict",
           "is_correct": false,
           "feedback": "Incorrect. Respect reduces conflict."
@@ -892,7 +892,7 @@
           "feedback": "Incorrect. Respect requires awareness."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "'Harmony' describes the peaceful coexistence that results from mutual cultural respect.",
       "difficulty": "10",
       "images": [],

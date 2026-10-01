@@ -105,31 +105,31 @@
       "context": "En Cali, el periódico escolar publica: \"El recreo dura veinte minutos\" y \"el recreo es muy corto\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "\"El recreo es muy corto\", porque expresa un punto de vista.",
           "is_correct": true,
           "feedback": "Es correcta porque la palabra \"muy\" muestra la valoración de quien escribe."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "\"El recreo dura veinte minutos\", porque se puede medir.",
           "is_correct": false,
           "feedback": "Es incorrecta porque un tiempo medible es un hecho comprobable."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Las dos son hechos comprobables.",
           "is_correct": false,
           "feedback": "Es incorrecta porque solo una se puede comprobar con un reloj."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Ninguna expresa una idea personal.",
           "is_correct": false,
           "feedback": "Es incorrecta porque una de las dos sí valora la duración."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Aplicar la diferencia entre hecho y opinión permite leer con criterio: los minutos se miden, pero \"muy corto\" depende de cada persona. Distinguirlos evita presentar una valoración como si fuera un dato.",
       "difficulty": "6",
       "images": [],
@@ -151,31 +151,31 @@
       "context": "En Cartagena, Juan quiere convencer a sus compañeros de reciclar en el colegio.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Porque así cuidamos el ambiente y reducimos la basura.",
           "is_correct": true,
           "feedback": "Es correcta porque relaciona el reciclaje con un beneficio real y claro."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque a mí me gusta el color verde.",
           "is_correct": false,
           "feedback": "Es incorrecta porque un gusto personal no explica el beneficio de reciclar."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque los viernes no hay clase.",
           "is_correct": false,
           "feedback": "Es incorrecta porque el horario no se relaciona con el reciclaje."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Porque el patio es grande.",
           "is_correct": false,
           "feedback": "Es incorrecta porque el tamaño del patio no justifica reciclar."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Una buena razón se conecta directamente con la opinión y ofrece un beneficio comprensible. Aplicar este criterio mejora la escritura de textos argumentativos escolares y hace más convincente lo que se afirma.",
       "difficulty": "6",
       "images": [],
@@ -197,19 +197,19 @@
       "context": "En Barranquilla, la tienda escolar vende jugos a dos mil pesos y María opina que son caros.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Con dos mil pesos puede comprar también una fruta y un pan.",
           "is_correct": true,
           "feedback": "Es correcta porque compara precios y muestra que el jugo cuesta más que otros alimentos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque el jugo es de color naranja.",
           "is_correct": false,
           "feedback": "Es incorrecta porque el color no se relaciona con el precio."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque la tienda está cerca del salón.",
           "is_correct": false,
           "feedback": "Es incorrecta porque la cercanía no determina si algo es caro."
@@ -221,7 +221,7 @@
           "feedback": "Es incorrecta porque la cantidad de estudiantes no modifica el precio."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Aplicar una razón adecuada exige comparar y explicar: dos mil pesos por un jugo se puede juzgar frente a lo que valen otros alimentos. Así la opinión deja de ser un simple gusto y se vuelve un argumento.",
       "difficulty": "6",
       "images": [],
@@ -243,31 +243,31 @@
       "context": "En Bucaramanga, dos niños opinan sobre la tarea. Luis dice: \"No me gusta la tarea porque me quita tiempo de jugar\". Ana dice: \"La tarea ayuda a repasar lo aprendido porque practico lo de clase\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "El de Ana, porque explica un beneficio con un motivo claro.",
           "is_correct": true,
           "feedback": "Es correcta porque la razón se conecta con el aprendizaje y lo explica."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El de Luis, porque el juego es más importante que todo.",
           "is_correct": false,
           "feedback": "Es incorrecta porque es una afirmación sin motivo que la respalde."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El de Luis, porque solo dice que no le gusta la tarea.",
           "is_correct": false,
           "feedback": "Es incorrecta porque un gusto personal no explica el beneficio o el daño de la tarea."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Ninguno, porque los dos son opiniones sin ningún motivo.",
           "is_correct": false,
           "feedback": "Es incorrecta porque al menos uno de los dos presenta una razón."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Analizar argumentos es comparar las razones que los sostienen. Un argumento mejora cuando su motivo se relaciona con el tema y aporta información. Distinguir esto enseña a discutir con respeto y con pruebas.",
       "difficulty": "8",
       "images": [],
@@ -289,19 +289,19 @@
       "context": "En Pereira, un estudiante afirma: \"Todos los perros del barrio son peligrosos porque uno me ladró una vez\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Generaliza a partir de un solo caso.",
           "is_correct": true,
           "feedback": "Es correcta porque toma una experiencia aislada y la aplica a todos los perros."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Usa demasiados datos comprobados.",
           "is_correct": false,
           "feedback": "Es incorrecta porque justamente le faltan datos para sostener la afirmación."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Consulta a un experto antes de opinar.",
           "is_correct": false,
           "feedback": "Es incorrecta porque no consulta a nadie, solo cuenta su experiencia."
@@ -313,7 +313,7 @@
           "feedback": "Es incorrecta porque el argumento se apoya solo en un caso personal."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Un argumento débil generaliza con pocos casos o con palabras absolutas como \"todos\". Analizar este error ayuda a pedir más información antes de aceptar una conclusión.",
       "difficulty": "8",
       "images": [],

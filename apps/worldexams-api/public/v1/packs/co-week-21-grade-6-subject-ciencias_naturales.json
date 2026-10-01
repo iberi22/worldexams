@@ -59,31 +59,31 @@
       "context": "En el patio central del colegio de Túquerres, los estudiantes proyectan la silueta de sus manos frente a una pared blanca iluminada por el sol de las diez de la mañana.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Porque la mano sólida bloquea el paso de la luz solar y deja una región sin iluminación directa, que es la sombra",
           "is_correct": true,
           "feedback": "Correcto. Los objetos opacos producen sombra cuando interceptan la luz."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque la mano emite un oscuridad que pinta la pared",
           "is_correct": false,
           "feedback": "Incorrecto. La mano no emite oscuridad, solo bloquea la luz."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque la pared cambia de color al recibir la sombra",
           "is_correct": false,
           "feedback": "Incorrecto. La pared sigue del mismo color y solo deja de recibir luz directa en esa zona."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Porque el sol no brilla sobre Nariño a esa hora",
           "is_correct": false,
           "feedback": "Incorrecto. El sol sí alumbra esa zona y por eso se forma la silueta."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La sombra es la región donde la luz no llega porque un objeto opaco la interceptó; el color de la pared no cambia, simplemente está menos iluminada en esa parte.",
       "difficulty": "4",
       "images": [],
@@ -105,31 +105,31 @@
       "context": "En un experimento del club de ciencias de Calarcá, los estudiantes iluman con una linterna puntual una pelota colgada cerca de una pantalla blanca.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Umbra",
           "is_correct": true,
           "feedback": "Correcto. La umbra es la región donde no llega ningún rayo de la fuente puntual."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Penumbra",
           "is_correct": false,
           "feedback": "Incorrecto. La penumbra es la región parcialmente iluminada, no la totalmente oscura."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Fotón",
           "is_correct": false,
           "feedback": "Incorrecto. Fotón es la partícula de luz, no la región de sombra."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Espejo",
           "is_correct": false,
           "feedback": "Incorrecto. Espejo es una superficie reflectante, no una sombra."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Con una fuente puntual y un solo cuerpo opaco se forma una umbra nítida; si la fuente es extensa aparecen umbra y penumbra porque parte de la luz llega a la región intermedia desde el borde de la fuente.",
       "difficulty": "6",
       "images": [],
@@ -151,19 +151,19 @@
       "context": "En la plaza principal de Marinilla, un vendedor ambulante coloca un espejo plano frente a su puesto para revisar la mercancía detrás de él.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "La luz se refleja con el mismo ángulo con el que llegó, formando una imagen virtual del objeto detrás del espejo",
           "is_correct": true,
           "feedback": "Correcto. El espejo plano cumple la ley de reflexión y produce imagen virtual."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La luz atraviesa el espejo y no regresa al vendedor",
           "is_correct": false,
           "feedback": "Incorrecto. El espejo plano refleja casi toda la luz, no la deja pasar."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El espejo cambia la dirección de la luz al azar y deforma todo",
           "is_correct": false,
           "feedback": "Incorrecto. La reflexión sigue una ley geométrica precisa."
@@ -175,7 +175,7 @@
           "feedback": "Incorrecto. La reflexión ocurre con luz externa al espejo, no con la luz del ojo del vendedor."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La ley de reflexión dice que el ángulo de incidencia es igual al ángulo de reflexión respecto a la normal; por eso en un espejo plano la imagen parece estar a la misma distancia detrás del vidrio que el objeto delante.",
       "difficulty": "6",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "En el embalse de Tominé, una estudiante mira el reflejo de las montañas en el agua quieta al amanecer.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Reflexión especular, porque el agua lisa refleja los rayos de forma ordenada como un espejo plano",
           "is_correct": true,
           "feedback": "Correcto. Superficies lisas producen reflexión especular."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Reflexión difusa, porque el agua desordenada desvía la imagen",
           "is_correct": false,
           "feedback": "Incorrecto. La difusa ocurre en superficies rugosas, no en agua quieta."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto. Solo una pequeña parte de la luz se absorbe."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La reflexión especular se da en superficies lisas donde los rayos paralelos se reflejan paralelos y permiten ver una imagen clara; la difusa ocurre en paredes rugosas y dispersa la luz en muchas direcciones.",
       "difficulty": "6",
       "images": [],
@@ -243,31 +243,31 @@
       "context": "En el estudio de televisión escolar de Sogamoso, los camarógrafos notan que la silueta del presentador aparecerá más grande en cámara al alejarlo del foco.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Los rayos divergentes de la fuente puntual se abren y la región bloqueada aumenta con la distancia",
           "is_correct": true,
           "feedback": "Correcto. La propagación rectilínea explica el aumento de la sombra."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La pantalla se encoge por la distancia",
           "is_correct": false,
           "feedback": "Incorrecto. La pantalla tiene tamaño fijo, lo que cambia es la sombra proyectada."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La luz se vuelve más débil al alejarse y por eso la sombra crece",
           "is_correct": false,
           "feedback": "Incorrecto. La intensidad no cambia el tamaño de la sombra."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El color del cuerpo aumenta la sombra",
           "is_correct": false,
           "feedback": "Incorrecto. El color no afecta la geometría de la sombra."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Si la fuente es puntual, los rayos divergen y la sombra proyecta los bordes del cuerpo sobre la pantalla siguiendo líneas rectas; al aumentar la distancia pantalla-cuerpo, esa proyección se agranda proporcionalmente.",
       "difficulty": "8",
       "images": [],
@@ -289,31 +289,31 @@
       "context": "En el aula de física de Chiquinquirá, los estudiantes observan cómo cambian la umbra y la penumbra de una pelota según el tamaño de la fuente de luz usada.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "La fuente grande genera umbra más pequeña y penumbra más amplia; la fuente puntual genera umbra bien definida y penumbra casi nula",
           "is_correct": true,
           "feedback": "Correcto. La geometría de la fuente define la umbra y la penumbra."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La fuente grande genera penumbra nula y la bolita genera doble umbra",
           "is_correct": false,
           "feedback": "Incorrecto. La fuente grande siempre genera penumbra."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La fuente puntual no produce sombra alguna",
           "is_correct": false,
           "feedback": "Incorrecto. Toda fuente de luz puntual produce sombra definida."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El color de la fuente cambia la umbra pero no la penumbra",
           "is_correct": false,
           "feedback": "Incorrecto. El color no influye en la geometría de la sombra."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Analizar sombras pide comparar tamaños de fuente: una fuente extensa produce una umbra más pequeña rodeada de penumbra ancha; una fuente puntual casi solo produce umbra y la penumbra se reduce a una línea.",
       "difficulty": "8",
       "images": [],
@@ -381,13 +381,13 @@
       "context": "En la feria de Manizales se vende una cama solar que promete bronceado profundo incluso en habitaciones sin ventanas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Es falsa, porque sin luz no hay energía que produzca bronceado; la radiación ultravioleta artificial necesita fuente propia y declarada",
           "is_correct": true,
           "feedback": "Correcto. El bronceado requiere luz ultravioleta específica, no oscuridad."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Es cierta porque una habitación oscura ya trae luz escondida",
           "is_correct": false,
           "feedback": "Incorrecto. La oscuridad no contiene energía lumínica utilizable."
@@ -405,7 +405,7 @@
           "feedback": "Incorrecto. El color de la pintura no genera luz por sí solo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Evaluar publicidad exige reconocer que la luz se genera por fuentes específicas; sin fuente lumínica directa o artificial no hay energía que el cuerpo reciba para activar la melanina y por tanto no hay bronceado real.",
       "difficulty": "10",
       "images": [],
@@ -427,31 +427,31 @@
       "context": "En la feria de ciencia de Bogotá, tres hipótesis se debaten: 1) La luz necesita aire para viajar. 2) La reflexión ocurre solo en metales pulidos. 3) Un espejo plano produce imagen del mismo tamaño que el objeto.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "La 1 es falsa porque la luz viaja en el vacío, la 2 es falsa porque la reflexión ocurre en muchas superficies además del metal pulido y la 3 es verdadera",
           "is_correct": true,
           "feedback": "Correcto. La luz viaja en el vacío, la reflexión ocurre en aguas y espejos y la imagen del espejo plano conserva el tamaño."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Las tres son verdaderas porque la luz siempre necesita aire",
           "is_correct": false,
           "feedback": "Incorrecto. La luz del Sol llega a la Tierra cruzando el vacío."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Solo la 2 es verdadera y las demás son falsas",
           "is_correct": false,
           "feedback": "Incorrecto. La 2 es falsa y la 3 es verdadera."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Las tres son falsas porque no existe la reflexión",
           "is_correct": false,
           "feedback": "Incorrecto. La reflexión es observable en muchos contextos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Juzgar hipótesis sobre luz pide distinguir medio y superficie: la luz atraviesa el vacío, se refleja en superficies tan variadas como el agua quieta o el vidrio pulido y un espejo plano construye una imagen virtual de igual tamaño que el objeto.",
       "difficulty": "10",
       "images": [],

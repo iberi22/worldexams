@@ -13,31 +13,31 @@
       "context": "In a clothing store in Cúcuta, a customer looks for something to wear on their feet for running.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Shoes.",
           "is_correct": true,
           "feedback": "\"Shoes\" (or sneakers) are worn on feet over socks."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Hat.",
           "is_correct": false,
           "feedback": "A hat is worn on the head, not on the feet."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Scarf.",
           "is_correct": false,
           "feedback": "A scarf is worn around the neck to keep warm."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Gloves.",
           "is_correct": false,
           "feedback": "Gloves are worn on hands, not on feet."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Reconocimiento de vocabulario básico de prendas de vestir en inglés (shoes, hat, scarf, gloves).",
       "difficulty": "4",
       "images": [],
@@ -105,13 +105,13 @@
       "context": "Ana is buying clothes at a boutique in Cali. She wants to ask about the price of a pair of jeans.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "How much are these jeans?",
           "is_correct": true,
           "feedback": "\"Jeans\" is plural, so it requires the plural verb \"are\" and demonstrative \"these\"."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "How much is these jeans?",
           "is_correct": false,
           "feedback": "\"Is\" is singular and cannot be used with plural subject \"these jeans\"."
@@ -129,7 +129,7 @@
           "feedback": "The question structure is missing the auxiliary verb \"do\" (\"How much do these jeans cost?\")."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Para preguntar el precio de prendas plurales (jeans, pants, shoes) se utiliza \"How much are...?\" con concordancia verbal plural.",
       "difficulty": "6",
       "images": [],
@@ -197,31 +197,31 @@
       "context": "In a sports shop in Barranquilla, a sales clerk assists Lucia:\n\nClerk: \"Good morning! Can I help you?\"\n\nLucía: \"Yes, please. I am looking for a red cap. ________?\"\n\nClerk: \"It is $28.000 COP.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "How much is it?",
           "is_correct": true,
           "feedback": "\"How much is it?\" fits naturally to ask the price of the singular red cap."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "What is your name?",
           "is_correct": false,
           "feedback": "Asking the clerk's name does not prompt a price answer."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Where is the bus stop?",
           "is_correct": false,
           "feedback": "Asking for bus directions does not match the shopping dialogue context."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "How old are you?",
           "is_correct": false,
           "feedback": "Asking about age is irrelevant to purchasing a cap."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Completar intercambios comunicativos en situaciones cotidianas de compra utilizando \"How much is it?\".",
       "difficulty": "6",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "Read the price board at a clothing store in Bogotá:\n\n- White T-shirt: $25.000 COP\n\n- Blue Shirt: $45.000 COP\n\n- Black Jacket: $90.000 COP\n\n- Summer Dress: $45.000 COP",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "The White T-shirt is the cheapest item, and the Black Jacket is the most expensive item.",
           "is_correct": true,
           "feedback": "$25.000 COP is the lowest price (cheapest) and $90.000 COP is the highest price (most expensive)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "The Summer Dress is more expensive than the Black Jacket.",
           "is_correct": false,
           "feedback": "The Summer Dress ($45.000 COP) is cheaper than the Black Jacket ($90.000 COP)."
@@ -267,7 +267,7 @@
           "feedback": "$25.000 COP is less than $45.000 COP, so the T-shirt is cheaper."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Analizar y comparar precios utilizando adjetivos comparativos y superlativos (\"cheapest\", \"most expensive\", \"cheaper than\").",
       "difficulty": "8",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "Read the story about David's shopping day in Pereira:\n\n\"David has $100.000 COP. He buys a green shirt for $38.000 COP and a brown belt for $22.000 COP. He sees a pair of sunglasses that costs $50.000 COP.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Because he spent $60.000 COP and only has $40.000 COP left, which is not enough for the $50.000 COP sunglasses.",
           "is_correct": true,
           "feedback": "Total spent: $38.000 + $22.000 = $60.000 COP. Money left: $100.000 - $60.000 = $40.000 COP. The sunglasses cost $50.000 COP, so he is short by $10.000 COP."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Because the store does not sell sunglasses to children.",
           "is_correct": false,
           "feedback": "The text indicates a budget limitation, not a store policy restriction."
@@ -313,7 +313,7 @@
           "feedback": "The sunglasses ($50.000 COP) are more expensive than the belt ($22.000 COP)."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Análisis de situaciones de compra y presupuesto en inglés, calculando gastos acumulados ($38.000 + $22.000 = $60.000 COP) y saldo restante ($40.000 COP).",
       "difficulty": "8",
       "images": [],
@@ -335,31 +335,31 @@
       "context": "María wants to buy a gift for her brother in Ibagué. She has a budget of $80.000 COP and evaluates two shopping offers:\n\n- Offer A: A hoodie for $55.000 COP and a sports cap for $20.000 COP.\n\n- Offer B: Two polo shirts for $42.000 COP each.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Offer A fits her budget because the total is $75.000 COP, while Offer B costs $84.000 COP and exceeds her budget.",
           "is_correct": true,
           "feedback": "Offer A: $55.000 + $20.000 = $75.000 COP (<= $80.000 COP). Offer B: $42.000 * 2 = $84.000 COP (> $80.000 COP)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Offer B fits her budget because two shirts cost only $42.000 COP in total.",
           "is_correct": false,
           "feedback": "Offer B specifies $42.000 COP EACH, so two shirts cost $84.000 COP, exceeding her $80.000 COP budget."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Both offers fit her budget because neither exceeds $70.000 COP.",
           "is_correct": false,
           "feedback": "Offer A is $75.000 COP and Offer B is $84.000 COP; Offer B exceeds the $80.000 COP budget."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Neither offer fits her budget because Offer A costs $95.000 COP.",
           "is_correct": false,
           "feedback": "Offer A costs $75.000 COP ($55.000 + $20.000), which is within her $80.000 COP budget."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Evaluación de alternativas de compra en inglés comparando el costo total de paquetes de prendas frente a un presupuesto establecido ($80.000 COP).",
       "difficulty": "10",
       "images": [],

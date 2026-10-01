@@ -13,13 +13,13 @@
       "context": "Un estudiante de 5to de secundaria en Lima estudia la definición básica de logaritmo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$c^b = a$",
           "is_correct": false,
           "feedback": "Incorrecto. La base del logaritmo debe ser la base de la potencia."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$b^c = a$",
           "is_correct": true,
           "feedback": "Correcto. Por definición de logaritmo, la base elevada al resultado es igual al argumento."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. El resultado del logaritmo es el exponente de la potencia."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El logaritmo es la operación inversa de la exponenciación. La frase \"logaritmo en base $b$ de $a$ es $c$\" significa exactamente que $b$ elevado a la potencia $c$ resulta en $a$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -154,13 +154,13 @@
           "feedback": "Incorrecto. El logaritmo de un producto no es el producto de los logaritmos."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$\\log(A) + \\log(B)$",
           "is_correct": true,
           "feedback": "Correcto. El logaritmo de un producto es igual a la suma de los logaritmos de los factores."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\log(A) - \\log(B)$",
           "is_correct": false,
           "feedback": "Incorrecto. Esta propiedad corresponde al logaritmo de un cociente."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. Esta propiedad corresponde al logaritmo de una potencia ($A^B$)."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Una de las propiedades fundamentales que simplifica cálculos es que el logaritmo transforma la multiplicación en suma.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -193,19 +193,19 @@
       "context": "Un geólogo en el Instituto Geofísico del Perú mide la magnitud de un sismo usando la escala de Richter, que es logarítmica.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Magnitud 10.000",
           "is_correct": false,
           "feedback": "Incorrecto. Confundió la amplitud relativa con la magnitud logarítmica."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Magnitud 2",
           "is_correct": false,
           "feedback": "Incorrecto. El logaritmo de 10.000 en base 10 no es 2."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Magnitud 4",
           "is_correct": true,
           "feedback": "Correcto. $R = \\log(10000 A_0 / A_0) = \\log(10000) = \\log(10^4) = 4$."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. $10^5 = 100.000$."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Sustituimos la relación de amplitudes en la fórmula dada. Al simplificar $A_0$, nos queda el logaritmo decimal de 10.000. Como $10.000 = 10^4$, el resultado es 4.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -244,13 +244,13 @@
           "feedback": "Incorrecto. Este es el dominio de $\\log(x)$."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$x \\ge -8$",
           "is_correct": false,
           "feedback": "Incorrecto. El argumento no puede ser cero."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x > -8$",
           "is_correct": true,
           "feedback": "Correcto. El argumento $x+8$ debe ser mayor que cero: $x+8 > 0 \\Rightarrow x > -8$."
@@ -262,7 +262,7 @@
           "feedback": "Incorrecto. Las funciones logarítmicas siempre tienen restricciones en el dominio."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Para que la función esté definida en los reales, el argumento del logaritmo debe ser positivo. Planteamos la inecuación $x + 8 > 0$ y resolvemos para $x$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -283,13 +283,13 @@
       "context": "Aplicación del cambio de base en una calculadora científica.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "0.28",
           "is_correct": false,
           "feedback": "Incorrecto. Dividió los logaritmos en el orden inverso."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "3.56",
           "is_correct": true,
           "feedback": "Correcto. $\\log_3(50) = \\frac{\\log(50)}{\\log(3)} \\approx \\frac{1.699}{0.477} \\approx 3.56$."
@@ -307,7 +307,7 @@
           "feedback": "Incorrecto. Error en la aplicación de la fórmula de cambio de base."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La fórmula de cambio de base establece que $\\log_b(a) = \\frac{\\log_k(a)}{\\log_k(b)}$. Usamos la base 10 para poder operar con los valores dados.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -334,13 +334,13 @@
           "feedback": "Incorrecto. Las funciones logarítmicas de $x$ tienen asíntotas verticales, no horizontales."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$x = 0$",
           "is_correct": false,
           "feedback": "Incorrecto. Esta es la asíntota de la función básica $\\log(x)$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = 5$",
           "is_correct": true,
           "feedback": "Correcto. La asíntota vertical se encuentra donde el argumento se hace cero: $x - 5 = 0 \\Rightarrow x = 5$."
@@ -352,7 +352,7 @@
           "feedback": "Incorrecto. El desplazamiento es hacia la derecha, por lo que la asíntota está en el eje positivo."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Las funciones logarítmicas tienen una asíntota vertical en el valor de $x$ que anula su argumento. Como $x - 5 = 0$ cuando $x = 5$, esta es la recta a la que la función se aproxima infinitamente sin llegar a tocarla.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -379,13 +379,13 @@
           "feedback": "Incorrecto. Error al aplicar la definición de logaritmo tras usar la propiedad de suma."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$x = 8$",
           "is_correct": true,
           "feedback": "Correcto. $\\log_4(2x) = 2 \\Rightarrow 2x = 4^2 \\Rightarrow 2x = 16 \\Rightarrow x = 8$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = 4$",
           "is_correct": false,
           "feedback": "Incorrecto. Al sustituir, $\\log_4(4) + \\log_4(2) = 1 + 0.5 = 1.5 \\ne 2$."
@@ -397,7 +397,7 @@
           "feedback": "Incorrecto. Olvidó el factor 2 proveniente de la propiedad de suma."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Usamos la propiedad del logaritmo de un producto para combinar los términos de la izquierda: $\\log_4(2x)$. Luego aplicamos la definición de logaritmo para convertir a forma exponencial: $2x = 4^2$. Resolvemos la ecuación lineal resultante.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -424,13 +424,13 @@
           "feedback": "Incorrecto. Olvidó el signo negativo en la definición de pH."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$10^{-5}$ mol/L",
           "is_correct": true,
           "feedback": "Correcto. $5 = -\\log[H^+] \\Rightarrow -5 = \\log[H^+] \\Rightarrow 10^{-5} = [H^+]$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$5$ mol/L",
           "is_correct": false,
           "feedback": "Incorrecto. Confundió el valor logarítmico con la concentración directa."
@@ -442,7 +442,7 @@
           "feedback": "Incorrecto. Error al expresar la potencia de base 10."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Partimos de la fórmula del pH. Multiplicamos por -1 y luego aplicamos la definición de logaritmo decimal. La concentración resultante es una potencia negativa de 10.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -514,25 +514,25 @@
           "feedback": "Incorrecto. El valor -2 no es válido como argumento de logaritmo en los reales."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$\\{4\\}$",
           "is_correct": true,
           "feedback": "Correcto. $\\log_2(x^2 - 2x) = 3 \\Rightarrow x^2 - 2x = 8 \\Rightarrow x^2 - 2x - 8 = 0$. Factores: $(x-4)(x+2)=0$. Como $x>2$, solo sirve el 4."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\{8\\}$",
           "is_correct": false,
           "feedback": "Incorrecto. Error al resolver la ecuación cuadrática resultante."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$\\{2, 4\\}$",
           "is_correct": false,
           "feedback": "Incorrecto. El valor 2 anularía el segundo argumento ($\\log_2(0)$ no existe)."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Aplicamos la propiedad del producto y convertimos a forma exponencial. Resolvemos la ecuación cuadrática. Es crucial verificar que las soluciones halladas no anulen ni hagan negativos los argumentos originales.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -559,13 +559,13 @@
           "feedback": "Incorrecto. Las bases son diferentes y producen comportamientos opuestos."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$f(x) = -g(x)$",
           "is_correct": true,
           "feedback": "Correcto. Por cambio de base: $\\log_{0.5}(x) = \\log(x) / \\log(1/2) = \\log(x) / -\\log(2) = -\\log_2(x)$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$f(x) = g(x) + 2$",
           "is_correct": false,
           "feedback": "Incorrecto. La relación es multiplicativa por -1, no una traslación."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. No corresponde a la propiedad de cambio de base."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Usando la propiedad de cambio de base y sabiendo que $0.5 = 2^{-1}$, podemos demostrar que un logaritmo con base recíproca es el negativo del logaritmo original. Gráficamente son simétricas respecto al eje $X$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -694,13 +694,13 @@
           "feedback": "Incorrecto. Error en la transposición del término constante."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$x = \\frac{\\ln(5) + 1}{2}$",
           "is_correct": true,
           "feedback": "Correcto. Aplicando $\\ln$: $2x - 1 = \\ln(5) \\Rightarrow 2x = \\ln(5) + 1 \\Rightarrow x = (\\ln(5)+1)/2$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = \\ln(3)$",
           "is_correct": false,
           "feedback": "Incorrecto. No aplicó correctamente las propiedades algebraicas del logaritmo."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. Confundió la base $e$ con una variable lineal."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Aplicamos la función inversa (logaritmo natural) a ambos miembros para \"bajar\" el exponente. Luego resolvemos la ecuación lineal resultante para despejar $x$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -739,13 +739,13 @@
           "feedback": "Incorrecto. El argumento tiene un valor mínimo, por lo que el logaritmo también estará acotado."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$[2, +\\infty\\rangle$",
           "is_correct": true,
           "feedback": "Correcto. La expresión $x^2 + 4$ tiene un valor mínimo de 4 (cuando $x=0$). Por lo tanto, el valor mínimo de la función es $\\log_2(4) = 2$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\langle 2, +\\infty\\rangle$",
           "is_correct": false,
           "feedback": "Incorrecto. El valor 2 sí se alcanza cuando $x = 0$."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. El argumento nunca puede acercarse a cero."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Como la función logarítmica con base mayor que 1 es creciente, su valor mínimo ocurrirá donde el argumento sea mínimo. El valor mínimo de la parábola $x^2 + 4$ es 4. Aplicamos el logaritmo a este valor para hallar el límite inferior del rango.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -784,13 +784,13 @@
           "feedback": "Incorrecto. $x$ no puede ser 1 por ser la base del logaritmo."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$\\{x \\in \\mathbb{R} \\mid x > 0 \\text{ y } x \\ne 1\\}$",
           "is_correct": true,
           "feedback": "Correcto. Propiedad producto: $\\log_x(10 \\cdot 0.1x^2) = 2 \\Rightarrow \\log_x(x^2) = 2$. Esta igualdad $2 = 2$ es siempre cierta para cualquier $x$ que cumpla las condiciones de base."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\emptyset$",
           "is_correct": false,
           "feedback": "Incorrecto. Existen infinitos valores que cumplen la igualdad."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. Este es solo un valor particular, no el conjunto completo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Al aplicar la propiedad del producto, el argumento se simplifica a $x^2$. La expresión $\\log_x(x^2)$ es idénticamente igual a 2 por definición. Por lo tanto, la ecuación es una identidad válida para todo $x$ en el dominio de definición de la base ($x > 0, x \\ne 1$).\n\n---",
       "difficulty": "10",
       "images": [],
@@ -829,25 +829,25 @@
           "feedback": "Incorrecto. Error en la división decimal."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "4215 años",
           "is_correct": true,
           "feedback": "Correcto. $0.6 = e^{-0.000121t} \\Rightarrow \\ln(0.6) = -0.000121t \\Rightarrow -0.51 = -0.000121t \\Rightarrow t \\approx 4214.8$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "5000 años",
           "is_correct": false,
           "feedback": "Incorrecto. Sobreestima la antigüedad según los datos proporcionados."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "2500 años",
           "is_correct": false,
           "feedback": "Incorrecto. Subestima la antigüedad; el decaimiento al 60% toma más tiempo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Igualamos la relación $N/N_0$ a 0.6. Aplicamos logaritmo natural para despejar el tiempo $t$. Este tipo de problemas requiere precisión en el manejo de decimales y comprensión de la función exponencial decreciente.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -868,19 +868,19 @@
       "context": "Desafío de logaritmos anidados, nivel Olimpiada Nacional de Matemática.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "4",
           "is_correct": false,
           "feedback": "Incorrecto. Halló el valor de $\\log_4(x)$ pero no de $x$."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "16",
           "is_correct": false,
           "feedback": "Incorrecto. Error al aplicar las potencias sucesivas de las bases."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "8",
           "is_correct": true,
           "feedback": "Correcto. $\\log_3(\\log_4(x)) = 2^0 = 1 \\Rightarrow \\log_4(x) = 3^1 = 3 \\Rightarrow x = 4^3 = 64$. Luego $\\sqrt{64} = 8$."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. Este es el valor de $x$, no de su raíz cuadrada."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Resolvemos de afuera hacia adentro aplicando la definición de logaritmo repetidamente. Cada paso \"elimina\" un logaritmo convirtiéndolo en la base elevada al resultado previo. Finalmente extraemos la raíz cuadrada del valor obtenido para $x$.",
       "difficulty": "10",
       "images": [],

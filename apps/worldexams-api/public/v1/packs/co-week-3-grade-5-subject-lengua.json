@@ -13,31 +13,31 @@
       "context": "En una escuela de Bogotá, Santiago lee una fábula donde una hormiga y una cigarra son las protagonistas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "La hormiga guarda granos y la cigarra canta todo el día.",
           "is_correct": true,
           "feedback": "Es correcta porque repite exactamente lo que hace cada personaje."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La hormiga canta y la cigarra guarda granos.",
           "is_correct": false,
           "feedback": "Es incorrecta porque invierte las acciones de los personajes."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Dos pescadores que trabajan en Cartagena.",
           "is_correct": false,
           "feedback": "Es incorrecta porque los personajes son animales, no pescadores."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Un profesor y sus estudiantes en Medellín.",
           "is_correct": false,
           "feedback": "Es incorrecta porque no aparecen personas en la fábula."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La fábula presenta animales que actúan como personas. Recordar quién hace qué es la base literal para luego entender la enseñanza. Este reconocimiento también amplía el vocabulario sobre la narración.",
       "difficulty": "4",
       "images": [],
@@ -59,13 +59,13 @@
       "context": "En Cali, Valentina lee la moraleja escrita al final de una fábula: \"La constancia vence las dificultades\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Que esforzarse sin rendirse ayuda a superar los problemas.",
           "is_correct": true,
           "feedback": "Es correcta porque explica con otras palabras lo que dice la moraleja."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Que es mejor no hacer nada y esperar la suerte.",
           "is_correct": false,
           "feedback": "Es incorrecta porque la moraleja invita al esfuerzo, no a la pereza."
@@ -83,7 +83,7 @@
           "feedback": "Es incorrecta porque no habla de fuerza ni de canto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La moraleja es la enseñanza final de la fábula. Comprenderla de forma literal permite llevar el mensaje a la vida diaria, por ejemplo al estudiar con constancia. También muestra cómo un texto breve comunica una idea valiosa.",
       "difficulty": "4",
       "images": [],
@@ -105,31 +105,31 @@
       "context": "En Manizales, Juan lee una fábula donde una liebre se burla de una tortuga y la reta a una carrera.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Que la constancia y la humildad superan la arrogancia.",
           "is_correct": true,
           "feedback": "Es correcta porque la tortuga avanza sin parar y la liebre confiada pierde."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Que dormir en una carrera siempre da la victoria.",
           "is_correct": false,
           "feedback": "Es incorrecta porque dormir hizo perder a la liebre."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Que es bueno burlarse de los demás.",
           "is_correct": false,
           "feedback": "Es incorrecta porque la burla llevó a la liebre a la derrota."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Que las tortugas son más rápidas que las liebres.",
           "is_correct": false,
           "feedback": "Es incorrecta porque la tortuga gana por constancia, no por velocidad."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Inferir la moraleja exige conectar las acciones con el resultado. La liebre representa la arrogancia y la tortuga la perseverancia. Esta lectura también invita a reflexionar sobre el propio comportamiento con los compañeros.",
       "difficulty": "6",
       "images": [],
@@ -197,31 +197,31 @@
       "context": "En Cartagena, un grupo de quinto vende manillas de 3000 pesos para comprar libros de fábulas para el salón.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Que la honradez y compartir fortalecen la amistad.",
           "is_correct": true,
           "feedback": "Es correcta porque devolver la bolsa muestra honradez y cuidado del amigo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Que es mejor quedarse con lo ajeno sin decir nada.",
           "is_correct": false,
           "feedback": "Es incorrecta porque propone lo contrario a devolver la bolsa."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Que los amigos deben pelear por el dinero.",
           "is_correct": false,
           "feedback": "Es incorrecta porque pelear destruye la amistad."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Que las bolsas con monedas no existen.",
           "is_correct": false,
           "feedback": "Es incorrecta porque niega la historia en vez de interpretarla."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Aplicar la moraleja consiste en elegir la enseñanza que mejor explica los hechos. Devolver lo hallado muestra honradez, un valor que también se practica al manejar dinero en la escuela con transparencia.",
       "difficulty": "6",
       "images": [],
@@ -243,19 +243,19 @@
       "context": "En Pereira, el curso compara dos versiones de la fábula del pastorcito mentiroso.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Que decir la verdad genera confianza y mentir la destruye.",
           "is_correct": true,
           "feedback": "Es correcta porque contrasta las consecuencias de mentir y de ser veraz."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Que mentir y decir la verdad dan el mismo resultado.",
           "is_correct": false,
           "feedback": "Es incorrecta porque los resultados son opuestos en cada versión."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Que los vecinos nunca ayudan a nadie.",
           "is_correct": false,
           "feedback": "Es incorrecta porque en la versión 2 sí llegan a tiempo."
@@ -267,7 +267,7 @@
           "feedback": "Es incorrecta porque sus palabras causan cada desenlace."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Analizar versiones contrarias permite ver la relación entre acciones y consecuencias. La fábula enseña que la confianza se construye con la verdad. Esta reflexión también mejora la comunicación honesta en el salón y el uso correcto de la ortografía al escribir.",
       "difficulty": "8",
       "images": [],

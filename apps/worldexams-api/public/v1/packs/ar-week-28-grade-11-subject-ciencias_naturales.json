@@ -13,31 +13,31 @@
       "context": "Ondas, Sonido, Luz y Espectro Electromagnético - Caso N° 1.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Constituye un principio fundamental de Física - Ondas que explica el comportamiento del sistema según las leyes de la naturaleza.",
           "is_correct": true,
           "feedback": "Correcto. La definición de $Ondas Transversales y Longitudinales$ corresponde con los principios teóricos de Física - Ondas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Representa un fenómeno aislado sin relación con las leyes de conservación en Física.",
           "is_correct": false,
           "feedback": "Incorrecto. El concepto de $Ondas Transversales y Longitudinales$ está íntimamente ligado a las leyes de Física."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Es una magnitud exclusivamente teórica que no se puede medir experimentalmente en el laboratorio.",
           "is_correct": false,
           "feedback": "Incorrecto. Es una propiedad medible y verificable."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Corresponde únicamente a procesos ocurridos a altas temperaturas fuera del MKS.",
           "is_correct": false,
           "feedback": "Incorrecto. Se aplica de forma general bajo condiciones estándar MKS."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El estudio de Ondas Transversales y Longitudinales es clave para comprender los fundamentos teóricos y prácticos de Física - Ondas.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -58,13 +58,13 @@
       "context": "Ondas, Sonido, Luz y Espectro Electromagnético - Caso N° 2.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Constituye un principio fundamental de Física - Ondas que explica el comportamiento del sistema según las leyes de la naturaleza.",
           "is_correct": true,
           "feedback": "Correcto. La definición de $Frecuencia y Período$ corresponde con los principios teóricos de Física - Ondas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Representa un fenómeno aislado sin relación con las leyes de conservación en Física.",
           "is_correct": false,
           "feedback": "Incorrecto. El concepto de $Frecuencia y Período$ está íntimamente ligado a las leyes de Física."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. Se aplica de forma general bajo condiciones estándar MKS."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El estudio de Frecuencia y Período es clave para comprender los fundamentos teóricos y prácticos de Física - Ondas.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -103,13 +103,13 @@
       "context": "Ondas, Sonido, Luz y Espectro Electromagnético - Caso N° 3.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El sistema responde de forma proporcional a las variables involucradas manteniendo la consistencia teórica de $Velocidad de Propagación$.",
           "is_correct": true,
           "feedback": "Correcto. La respuesta del sistema refleja la ley física/química de $Velocidad de Propagación$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El sistema permanece completamente inerte sin registrar variación alguna.",
           "is_correct": false,
           "feedback": "Incorrecto. Las variables se modifican según las ecuaciones del modelo."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. El fenómeno sigue un patrón determinista bien definido."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Las observaciones experimentales confirman las predicciones del modelo teórico de Velocidad de Propagación.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,31 +148,31 @@
       "context": "Ondas, Sonido, Luz y Espectro Electromagnético - Caso N° 4.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "El sistema responde de forma proporcional a las variables involucradas manteniendo la consistencia teórica de $Reflexión y Refracción$.",
           "is_correct": true,
           "feedback": "Correcto. La respuesta del sistema refleja la ley física/química de $Reflexión y Refracción$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El sistema permanece completamente inerte sin registrar variación alguna.",
           "is_correct": false,
           "feedback": "Incorrecto. Las variables se modifican según las ecuaciones del modelo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Se produce una pérdida total de masa violando las leyes de conservación.",
           "is_correct": false,
           "feedback": "Incorrecto. Las leyes de conservación se cumplen siempre."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La magnitud medida oscila aleatoriamente sin patrón definido.",
           "is_correct": false,
           "feedback": "Incorrecto. El fenómeno sigue un patrón determinista bien definido."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Las observaciones experimentales confirman las predicciones del modelo teórico de Reflexión y Refracción.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -193,19 +193,19 @@
       "context": "Ondas, Sonido, Luz y Espectro Electromagnético - Caso N° 5.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Se aplica la ecuación correspondiente a $Espectro Electromagnético$, donde las magnitudes se relacionan de forma directa o inversamente proporcional según la ley de Física.",
           "is_correct": true,
           "feedback": "Correcto. Refleja la formulación correcta para $Espectro Electromagnético$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Se suman de forma arbitraria todas las variables sin considerar sus unidades de medida.",
           "is_correct": false,
           "feedback": "Incorrecto. Las unidades deben ser consistentes en el sistema SI."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Se ignora la influencia de las condiciones iniciales del experimento.",
           "is_correct": false,
           "feedback": "Incorrecto. Las condiciones iniciales determinan la solución del sistema."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. Las constantes del sistema tienen valores finitos y definidos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La aplicación cuantitativa de Espectro Electromagnético requiere el uso riguroso de las ecuaciones de Física - Ondas.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -238,31 +238,31 @@
       "context": "Ondas, Sonido, Luz y Espectro Electromagnético - Caso N° 6.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Se aplica la ecuación correspondiente a $Ondas Transversales y Longitudinales$, donde las magnitudes se relacionan de forma directa o inversamente proporcional según la ley de Física.",
           "is_correct": true,
           "feedback": "Correcto. Refleja la formulación correcta para $Ondas Transversales y Longitudinales$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Se suman de forma arbitraria todas las variables sin considerar sus unidades de medida.",
           "is_correct": false,
           "feedback": "Incorrecto. Las unidades deben ser consistentes en el sistema SI."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Se ignora la influencia de las condiciones iniciales del experimento.",
           "is_correct": false,
           "feedback": "Incorrecto. Las condiciones iniciales determinan la solución del sistema."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Se asume que la constante del proceso es igual a cero en todo instante.",
           "is_correct": false,
           "feedback": "Incorrecto. Las constantes del sistema tienen valores finitos y definidos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La aplicación cuantitativa de Ondas Transversales y Longitudinales requiere el uso riguroso de las ecuaciones de Física - Ondas.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -283,13 +283,13 @@
       "context": "Ondas, Sonido, Luz y Espectro Electromagnético - Caso N° 7.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Se aplica la ecuación correspondiente a $Frecuencia y Período$, donde las magnitudes se relacionan de forma directa o inversamente proporcional según la ley de Física.",
           "is_correct": true,
           "feedback": "Correcto. Refleja la formulación correcta para $Frecuencia y Período$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Se suman de forma arbitraria todas las variables sin considerar sus unidades de medida.",
           "is_correct": false,
           "feedback": "Incorrecto. Las unidades deben ser consistentes en el sistema SI."
@@ -307,7 +307,7 @@
           "feedback": "Incorrecto. Las constantes del sistema tienen valores finitos y definidos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La aplicación cuantitativa de Frecuencia y Período requiere el uso riguroso de las ecuaciones de Física - Ondas.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -328,13 +328,13 @@
       "context": "Ondas, Sonido, Luz y Espectro Electromagnético - Caso N° 8.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Se aplica la ecuación correspondiente a $Velocidad de Propagación$, donde las magnitudes se relacionan de forma directa o inversamente proporcional según la ley de Física.",
           "is_correct": true,
           "feedback": "Correcto. Refleja la formulación correcta para $Velocidad de Propagación$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Se suman de forma arbitraria todas las variables sin considerar sus unidades de medida.",
           "is_correct": false,
           "feedback": "Incorrecto. Las unidades deben ser consistentes en el sistema SI."
@@ -352,7 +352,7 @@
           "feedback": "Incorrecto. Las constantes del sistema tienen valores finitos y definidos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La aplicación cuantitativa de Velocidad de Propagación requiere el uso riguroso de las ecuaciones de Física - Ondas.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -373,13 +373,13 @@
       "context": "Ondas, Sonido, Luz y Espectro Electromagnético - Caso N° 9.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Se aplica la ecuación correspondiente a $Reflexión y Refracción$, donde las magnitudes se relacionan de forma directa o inversamente proporcional según la ley de Física.",
           "is_correct": true,
           "feedback": "Correcto. Refleja la formulación correcta para $Reflexión y Refracción$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Se suman de forma arbitraria todas las variables sin considerar sus unidades de medida.",
           "is_correct": false,
           "feedback": "Incorrecto. Las unidades deben ser consistentes en el sistema SI."
@@ -397,7 +397,7 @@
           "feedback": "Incorrecto. Las constantes del sistema tienen valores finitos y definidos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La aplicación cuantitativa de Reflexión y Refracción requiere el uso riguroso de las ecuaciones de Física - Ondas.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -418,13 +418,13 @@
       "context": "Ondas, Sonido, Luz y Espectro Electromagnético - Caso N° 10.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Se aplica la ecuación correspondiente a $Espectro Electromagnético$, donde las magnitudes se relacionan de forma directa o inversamente proporcional según la ley de Física.",
           "is_correct": true,
           "feedback": "Correcto. Refleja la formulación correcta para $Espectro Electromagnético$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Se suman de forma arbitraria todas las variables sin considerar sus unidades de medida.",
           "is_correct": false,
           "feedback": "Incorrecto. Las unidades deben ser consistentes en el sistema SI."
@@ -442,7 +442,7 @@
           "feedback": "Incorrecto. Las constantes del sistema tienen valores finitos y definidos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La aplicación cuantitativa de Espectro Electromagnético requiere el uso riguroso de las ecuaciones de Física - Ondas.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -463,31 +463,31 @@
       "context": "Ondas, Sonido, Luz y Espectro Electromagnético - Caso N° 11.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "El cambio en las variables modifica el estado final según las restricciones impuestas por $Ondas Transversales y Longitudinales$ y las leyes de Física.",
           "is_correct": true,
           "feedback": "Correcto. El análisis deductivo confirma el impacto directo sobre el estado final."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El estado final es independiente de cualquier cambio realizado en el estado inicial.",
           "is_correct": false,
           "feedback": "Incorrecto. Existe una dependencia funcional entre las condiciones iniciales y finales."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Se rompe el equilibrio del sistema de forma irreversible sin posibilidad de balance.",
           "is_correct": false,
           "feedback": "Incorrecto. El balance se mantiene bajo las leyes de conservación."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La energía o materia total aumenta exponencialmente sin fuente externa.",
           "is_correct": false,
           "feedback": "Incorrecto. No se puede crear masa ni energía de la nada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El análisis analítico de Ondas Transversales y Longitudinales demuestra la coherencia interna de los modelos en Física - Ondas.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -508,19 +508,19 @@
       "context": "Ondas, Sonido, Luz y Espectro Electromagnético - Caso N° 12.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "El cambio en las variables modifica el estado final según las restricciones impuestas por $Frecuencia y Período$ y las leyes de Física.",
           "is_correct": true,
           "feedback": "Correcto. El análisis deductivo confirma el impacto directo sobre el estado final."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El estado final es independiente de cualquier cambio realizado en el estado inicial.",
           "is_correct": false,
           "feedback": "Incorrecto. Existe una dependencia funcional entre las condiciones iniciales y finales."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Se rompe el equilibrio del sistema de forma irreversible sin posibilidad de balance.",
           "is_correct": false,
           "feedback": "Incorrecto. El balance se mantiene bajo las leyes de conservación."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. No se puede crear masa ni energía de la nada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El análisis analítico de Frecuencia y Período demuestra la coherencia interna de los modelos en Física - Ondas.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -598,19 +598,19 @@
       "context": "Ondas, Sonido, Luz y Espectro Electromagnético - Caso N° 14.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "El cambio en las variables modifica el estado final según las restricciones impuestas por $Reflexión y Refracción$ y las leyes de Física.",
           "is_correct": true,
           "feedback": "Correcto. El análisis deductivo confirma el impacto directo sobre el estado final."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El estado final es independiente de cualquier cambio realizado en el estado inicial.",
           "is_correct": false,
           "feedback": "Incorrecto. Existe una dependencia funcional entre las condiciones iniciales y finales."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Se rompe el equilibrio del sistema de forma irreversible sin posibilidad de balance.",
           "is_correct": false,
           "feedback": "Incorrecto. El balance se mantiene bajo las leyes de conservación."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. No se puede crear masa ni energía de la nada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El análisis analítico de Reflexión y Refracción demuestra la coherencia interna de los modelos en Física - Ondas.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -643,13 +643,13 @@
       "context": "Ondas, Sonido, Luz y Espectro Electromagnético - Caso N° 15.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El cambio en las variables modifica el estado final según las restricciones impuestas por $Espectro Electromagnético$ y las leyes de Física.",
           "is_correct": true,
           "feedback": "Correcto. El análisis deductivo confirma el impacto directo sobre el estado final."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El estado final es independiente de cualquier cambio realizado en el estado inicial.",
           "is_correct": false,
           "feedback": "Incorrecto. Existe una dependencia funcional entre las condiciones iniciales y finales."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. No se puede crear masa ni energía de la nada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El análisis analítico de Espectro Electromagnético demuestra la coherencia interna de los modelos en Física - Ondas.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -688,13 +688,13 @@
       "context": "Ondas, Sonido, Luz y Espectro Electromagnético - Caso N° 16.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El cambio en las variables modifica el estado final según las restricciones impuestas por $Ondas Transversales y Longitudinales$ y las leyes de Física.",
           "is_correct": true,
           "feedback": "Correcto. El análisis deductivo confirma el impacto directo sobre el estado final."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El estado final es independiente de cualquier cambio realizado en el estado inicial.",
           "is_correct": false,
           "feedback": "Incorrecto. Existe una dependencia funcional entre las condiciones iniciales y finales."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. No se puede crear masa ni energía de la nada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El análisis analítico de Ondas Transversales y Longitudinales demuestra la coherencia interna de los modelos en Física - Ondas.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -733,31 +733,31 @@
       "context": "Ondas, Sonido, Luz y Espectro Electromagnético - Caso N° 17.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "El modelo es válido porque respeta estrictamente los principios de conservación y las relaciones cuantitativas de $Frecuencia y Período$.",
           "is_correct": true,
           "feedback": "Correcto. La evaluación fundamentada confirma la solidez del modelo para $Frecuencia y Período$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El modelo es inválido porque invalida las leyes universales de la termodinámica y la masa.",
           "is_correct": false,
           "feedback": "Incorrecto. El modelo propuesto cumple con los principios universales de la ciencia."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El modelo sólo funciona si se desestiman las unidades del Sistema Internacional.",
           "is_correct": false,
           "feedback": "Incorrecto. Debe operar de forma consistente en el Sistema Internacional."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El modelo presenta inconsistencias graves al asumir que el rendimiento puede superar el 100%.",
           "is_correct": false,
           "feedback": "Incorrecto. El modelo respeta el límite físico del 100% de eficiencia."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La evaluación crítica de modelos en Física - Ondas exige verificar el cumplimiento de los límites teóricos de Frecuencia y Período.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -823,31 +823,31 @@
       "context": "Ondas, Sonido, Luz y Espectro Electromagnético - Caso N° 19.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "El modelo es válido porque respeta estrictamente los principios de conservación y las relaciones cuantitativas de $Reflexión y Refracción$.",
           "is_correct": true,
           "feedback": "Correcto. La evaluación fundamentada confirma la solidez del modelo para $Reflexión y Refracción$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El modelo es inválido porque invalida las leyes universales de la termodinámica y la masa.",
           "is_correct": false,
           "feedback": "Incorrecto. El modelo propuesto cumple con los principios universales de la ciencia."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El modelo sólo funciona si se desestiman las unidades del Sistema Internacional.",
           "is_correct": false,
           "feedback": "Incorrecto. Debe operar de forma consistente en el Sistema Internacional."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El modelo presenta inconsistencias graves al asumir que el rendimiento puede superar el 100%.",
           "is_correct": false,
           "feedback": "Incorrecto. El modelo respeta el límite físico del 100% de eficiencia."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La evaluación crítica de modelos en Física - Ondas exige verificar el cumplimiento de los límites teóricos de Reflexión y Refracción.\n\n---",
       "difficulty": "10",
       "images": [],

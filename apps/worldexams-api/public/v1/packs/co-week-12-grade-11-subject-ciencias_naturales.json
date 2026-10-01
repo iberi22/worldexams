@@ -59,13 +59,13 @@
       "context": "Durante una clase de ciencias en Medellín, los estudiantes observan un modelo tridimensional de la hélice alfa de la queratina.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Puentes de hidrógeno entre los grupos C=O y N-H del esqueleto peptídico.",
           "is_correct": true,
           "feedback": "Correcto. La estructura secundaria se estabiliza por puentes de hidrógeno intracadena o intercadena del esqueleto peptídico."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Puentes disulfuro entre cadenas laterales de cisteína.",
           "is_correct": false,
           "feedback": "Incorrecto. Los puentes disulfuro estabilizan la estructura terciaria y cuaternaria."
@@ -83,7 +83,7 @@
           "feedback": "Incorrecto. Las atracciones electrostáticas se presentan en la estructura terciaria entre grupos R cargados."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Las estructuras secundarias se mantienen por patrones repetitivos de puentes de hidrógeno entre el oxígeno del carbonilo y el hidrógeno del grupo amino del esqueleto polipeptídico.",
       "difficulty": "4",
       "images": [],
@@ -105,13 +105,13 @@
       "context": "Un grupo de investigadores en Cali estudia la hemoglobina humana para comprender su capacidad de transportar oxígeno.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Estructura cuaternaria.",
           "is_correct": true,
           "feedback": "Correcto. La estructura cuaternaria consiste en la asociación funcional de dos o más cadenas polipeptídicas (subunidades)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Estructura primaria.",
           "is_correct": false,
           "feedback": "Incorrecto. La estructura primaria es únicamente la secuencia lineal de aminoácidos de una sola cadena."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecto. La estructura terciaria se refiere al plegamiento tridimensional de una única cadena polipeptídica."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Proteínas compuestas por múltiples subunidades polipeptídicas presentan estructura cuaternaria.",
       "difficulty": "4",
       "images": [],
@@ -197,19 +197,19 @@
       "context": "Un estudiante de grado 11 calienta una solución acuosa de albúmina a 85 °C en un baño de María en Tunja.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Desorganización de las estructuras secundaria y terciaria sin ruptura de enlaces peptídicos.",
           "is_correct": true,
           "feedback": "Correcto. El calor altera las interacciones no covalentes débiles sin hidrolizar los enlaces peptídicos covalentes."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Hidrólisis completa de la cadena produciendo aminoácidos libres.",
           "is_correct": false,
           "feedback": "Incorrecto. La hidrólisis requiere enzimas o tratamiento ácido/básico concentrado prolongado."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Aumento drástico de la solubilidad por hidratación del núcleo.",
           "is_correct": false,
           "feedback": "Incorrecto. Al desnaturalizarse se exponen grupos hidrofóbicos causando insolubilidad y precipitación."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto. La racemización no ocurre por calentamiento moderado."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La desnaturalización desorganiza la conformación tridimensional nativa manteniendo intacta la secuencia de aminoácidos.",
       "difficulty": "6",
       "images": [],
@@ -381,13 +381,13 @@
       "context": "Investigadores en Pereira analizan una mutación puntual que sustituye glutamato por valina en la cadena beta de la hemoglobina.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Exposición de una zona hidrofóbica que induce la agregación en fibras insolubles.",
           "is_correct": true,
           "feedback": "Correcto. La valina apolar en la superficie interactúa hidrofóbicamente produciendo polimerización de hemoglobina falciforme."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Pérdida inmediata de los cuatro átomos de hierro hemo.",
           "is_correct": false,
           "feedback": "Incorrecto. El sitio de unión del hemo permanece intacto."
@@ -405,7 +405,7 @@
           "feedback": "Incorrecto. La mutación afecta la secuencia de la proteína sintetizada, no la transcripción."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El reemplazo de glutamato por valina genera una interacción apolar anómala que causa la agregación insoluble de la hemoglobina S.",
       "difficulty": "6",
       "images": [],
@@ -427,13 +427,13 @@
       "context": "En Cartagena se separa suero sanguíneo por electroforesis a pH 8.6 en gel.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Migración diferencial en un campo eléctrico según la carga neta y el tamaño molecular.",
           "is_correct": true,
           "feedback": "Correcto. A pH 8.6 las proteínas con carga negativa migran al ánodo a velocidades dependientes de su carga y masa."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Diferencia en sus puntos de ebullición a presión constante.",
           "is_correct": false,
           "feedback": "Incorrecto. La electroforesis no involucra cambios de fase de ebullición."
@@ -451,7 +451,7 @@
           "feedback": "Incorrecto. En electroforesis zonal la separación es por migración electroforética activa."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La electroforesis separa macromoléculas cargadas en un campo eléctrico en función de su relación carga/masa.",
       "difficulty": "6",
       "images": [],
@@ -473,13 +473,13 @@
       "context": "Un biotecnólogo en Medellín compara la proteasa de *Escherichia coli* con la de *Thermus aquaticus* (termófila).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Mayor cantidad de puentes disulfuro y densas redes de puentes salinos electrostáticos.",
           "is_correct": true,
           "feedback": "Correcto. Las proteínas de extremófilos presentan empaquetamiento apolar superior y puentes salinos adicionales que evitan la desnaturalización."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Ausencia total de residuos de aminoácidos aromáticos.",
           "is_correct": false,
           "feedback": "Incorrecto. Los residuos aromáticos estabilizan el núcleo apolar de la proteína."
@@ -497,7 +497,7 @@
           "feedback": "Incorrecto. Son proteínas constituidas por enlaces peptídicos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La termoestabilidad enzimática se logra mediante interacciones no covalentes optimizadas y enlaces covalentes disulfuro resistentes al calor.",
       "difficulty": "8",
       "images": [],
@@ -519,13 +519,13 @@
       "context": "Estudiantes en Bogotá miden la velocidad enzimática ($V$) ante variaciones de $[S]$ en presencia de un inhibidor competitivo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$V_{max}$ se mantiene constante y la $K_m$ aparente aumenta.",
           "is_correct": true,
           "feedback": "Correcto. El inhibidor competitivo compite por el sitio activo; saturando con sustrato se alcanza $V_{max}$, pero se requiere mayor $[S]$ ($K_m$ mayor)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$V_{max}$ disminuye y $K_m$ no cambia.",
           "is_correct": false,
           "feedback": "Incorrecto. Eso caracteriza a la inhibición no competitiva pura."
@@ -543,7 +543,7 @@
           "feedback": "Incorrecto. Ningún inhibidor incrementa la velocidad máxima catalítica."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La inhibición competitiva puede desplazarse con abundante sustrato, manteniendo $V_{max}$ pero elevando el valor aparente de $K_m$.",
       "difficulty": "8",
       "images": [],
@@ -565,13 +565,13 @@
       "context": "En Cali se incuba una proteína globular con urea 8 M y beta-mercaptoetanol.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La urea rompe los puentes de hidrógeno y el beta-mercaptoetanol reduce los puentes disulfuro.",
           "is_correct": true,
           "feedback": "Correcto. La urea perturba las interacciones no covalentes y el beta-mercaptoetanol reduce enlaces covalentes -S-S- a tioles."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La urea rompe enlaces peptídicos y el beta-mercaptoetanol deshidrata los azúcares.",
           "is_correct": false,
           "feedback": "Incorrecto. Ninguno hidroliza el esqueleto peptídico a temperatura ambiente."
@@ -589,7 +589,7 @@
           "feedback": "Incorrecto. Actúan destruyendo la estructura nativa, no polimerizando."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La urea destruye redes de puentes de hidrógeno y el beta-mercaptoetanol reduce los enlaces disulfuro de la proteína.",
       "difficulty": "8",
       "images": [],
@@ -611,31 +611,31 @@
       "context": "Se compara la curva de saturación de oxígeno de la mioglobina (monómero) con la de la hemoglobina (tetrámero).",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Cooperatividad positiva: la unión del primer $O_2$ facilita la unión de las siguientes moléculas.",
           "is_correct": true,
           "feedback": "Correcto. La transición del estado T al R al unir $O_2$ genera la curva sigmoidea por regulación alostérica positiva."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Inhibición irreversible mediada por $CO_2$.",
           "is_correct": false,
           "feedback": "Incorrecto. La curva sigmoide es intrínseca a la unión cooperativa de $O_2$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Falta total de comunicación entre subunidades.",
           "is_correct": false,
           "feedback": "Incorrecto. Sin comunicación la curva sería hiperbólica como la de la mioglobina."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Desnaturalización reversible del grupo hemo.",
           "is_correct": false,
           "feedback": "Incorrecto. La fijación fisiológica no desnaturaliza la hemoglobina."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La cooperatividad positiva entre subunidades del tetrámero genera el perfil sigmoideo característico de la hemoglobina.",
       "difficulty": "8",
       "images": [],
@@ -703,31 +703,31 @@
       "context": "En Tunja se determinan los pI de Citocromo c ($pI=10.2$), Albúmina ($pI=4.7$) y Pepsina ($pI=1.0$).",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Albúmina y Pepsina, porque a pH 7.0 (mayor a su pI) tienen carga neta negativa.",
           "is_correct": true,
           "feedback": "Correcto. A pH > pI la proteína pierde H+ adquiriendo carga negativa y uniéndose a la matriz cargada positivamente."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Únicamente el Citocromo c por su carga positiva.",
           "is_correct": false,
           "feedback": "Incorrecto. Cargas iguales (positiva con positiva) se repelen."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Las tres proteínas de forma idéntica.",
           "is_correct": false,
           "feedback": "Incorrecto. La retención iónica depende de la carga eléctrica neta."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Ninguna proteína porque a pH 7.0 son neutras.",
           "is_correct": false,
           "feedback": "Incorrecto. Únicamente son neutras en su pI exacto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "A pH superior a su punto isoeléctrico las proteínas poseen carga neta negativa y se unen a intercambiadores aniónicos.",
       "difficulty": "8",
       "images": [],
@@ -749,19 +749,19 @@
       "context": "En Bogotá se comparan dos modelos informáticos de plegamiento proteico: Modelo A (minimización de $\\Delta G$) y Modelo B (puentes salinos fijos).",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Porque la conformación nativa biológica corresponde al mínimo global de energía libre de Gibbs ($\\Delta G$).",
           "is_correct": true,
           "feedback": "Correcto. Según el principio de Anfinsen, el estado nativo es termodinámicamente el de menor energía libre."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque los puentes salinos consumen ATP para formarse.",
           "is_correct": false,
           "feedback": "Incorrecto. Los puentes salinos se forman espontáneamente por atracción electrostática."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque la entropía del agua disminuye al plegarse la proteína.",
           "is_correct": false,
           "feedback": "Incorrecto. La liberación del agua estructurada *aumenta* la entropía del solvente."
@@ -773,7 +773,7 @@
           "feedback": "Incorrecto. Presentan flexibilidad dinámica necesaria para su función."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El estado nativo funcional es el estado termodinámicamente más estable, alcanzado al minimizar la energía libre de Gibbs ($\\Delta G$).",
       "difficulty": "10",
       "images": [],
@@ -887,31 +887,31 @@
       "context": "En Barranquilla se diseña una sutura quirúrgica proteica que debe resistir 14 días a la proteólisis de los tejidos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Inclusión de d-aminoácidos y reticulación con puentes disulfuro adicionales.",
           "is_correct": true,
           "feedback": "Correcto. Las proteasas son estereoselectivas para l-aminoácidos; usar d-aminoácidos y reticulaciones retrasa el corte proteolítico."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Sustitución de enlaces covalentes por atracciones dipolo-dipolo.",
           "is_correct": false,
           "feedback": "Incorrecto. La sutura perdería toda cohesión mecánica."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Reemplazo de aminoácidos por unidades de fructosa.",
           "is_correct": false,
           "feedback": "Incorrecto. Dejaría de ser proteica y se disolvería de inmediato."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Tratamiento previo con ácido clorhídrico concentrado.",
           "is_correct": false,
           "feedback": "Incorrecto. Destruiría la fibra y causaría necrosis tisular."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Las proteasas reconocen estereológicamente l-aminoácidos; la presencia de d-aminoácidos y reticulaciones previene su degradación rápida.",
       "difficulty": "10",
       "images": [],

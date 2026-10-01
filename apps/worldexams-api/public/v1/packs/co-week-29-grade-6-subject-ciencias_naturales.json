@@ -13,19 +13,19 @@
       "context": "En una clase de ciencias de un colegio de Sogamoso, la profesora muestra un corte del suelo de la huerta escolar y senala sus capas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "La capa superior u horizonte organico, rica en humus y restos de hojas",
           "is_correct": true,
           "feedback": "Correcto. Es la capa mas superficial y fertil, donde se desarrollan las raices."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El lecho de roca madre, que esta en la superficie",
           "is_correct": false,
           "feedback": "Incorrecto. La roca madre se encuentra en las capas profundas del suelo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El manto de agua subterranea, que cubre la superficie",
           "is_correct": false,
           "feedback": "Incorrecto. El agua subterranea esta por debajo de las capas del suelo."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. El aire ocupa poros del suelo, pero no es una capa superficial solida."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El suelo se organiza en capas u horizontes; el horizonte superior u organico es el mas rico en humus, producto de la descomposicion de hojas y restos de seres vivos, y alli se concentran las raices de las plantas y gran cantidad de microorganismos que reciclan nutrientes.",
       "difficulty": "4",
       "images": [],
@@ -105,13 +105,13 @@
       "context": "En una vereda de Boyaca, los estudiantes comparan dos parcelas: una en pendiente sin arboles y otra con cobertura vegetal, despues de una lluvia fuerte.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La parcela sin cobertura pierde mas suelo porque el agua arrastra las particulas en la pendiente, mientras la parcela con vegetacion lo retiene",
           "is_correct": true,
           "feedback": "Correcto. Comparar parcelas permite observar el efecto de la cobertura sobre la erosion."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La parcela con vegetacion pierde mas suelo porque las raices lo empujan hacia abajo",
           "is_correct": false,
           "feedback": "Incorrecto. Las raices sujetan el suelo y disminuyen la perdida."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecto. La lluvia sobre suelo desnudo arrastra la capa fertil."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Este experimento de comparacion pone a prueba una hipotesis: en terreno inclinado sin cobertura, la energia de la lluvia y la escorrentia arrastran las particulas mas finas y fertiles; donde hay vegetacion, las raices y la hojarasca frenan el agua, por lo que se conserva mas suelo.",
       "difficulty": "6",
       "images": [],
@@ -151,19 +151,19 @@
       "context": "Un campesino del Valle del Cauca nota que su cultivo crece debil aunque riega con frecuencia; al analizar el suelo, descubre que es muy acido.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "La acidez excesiva dificulta que las plantas absorban algunos nutrientes, por eso conviene corregir el pH del suelo con cal y materia organica",
           "is_correct": true,
           "feedback": "Correcto. El pH afecta la disponibilidad de nutrientes para las raices."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La acidez hace que el suelo produzca mas nutrientes de los necesarios",
           "is_correct": false,
           "feedback": "Incorrecto. La acidez excesiva reduce la disponibilidad de nutrientes."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El agua de riego no influye en el crecimiento de las plantas",
           "is_correct": false,
           "feedback": "Incorrecto. El agua es indispensable para el crecimiento."
@@ -175,7 +175,7 @@
           "feedback": "Incorrecto. El suelo acido sigue siendo suelo, solo dificulta la nutricion."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El pH del suelo influye en la solubilidad de los nutrientes: en suelos muy acidos, elementos como el fosforo quedan menos disponibles para las raices y el cultivo se debilita; corregir la acidez con cal y aportar materia organica mejora la fertilidad.",
       "difficulty": "6",
       "images": [],
@@ -197,19 +197,19 @@
       "context": "En un colegio de Sincelejo, los estudiantes clasifican muestras de suelo de tres zonas: arenoso del Caribe, arcilloso del valle y con mucha materia organica de la montana.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "El tamano de sus particulas y su composicion: los arenosos tienen granos grandes, los arcillosos granos muy finos y los organicos mucho humus",
           "is_correct": true,
           "feedback": "Correcto. La textura y la composicion son los criterios usados para clasificar suelos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El color de la etiqueta del frasco que los contiene",
           "is_correct": false,
           "feedback": "Incorrecto. El color de la etiqueta no describe el suelo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La cantidad de estudiantes que observa cada muestra",
           "is_correct": false,
           "feedback": "Incorrecto. El numero de observadores no es un criterio cientifico."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto. El precio no describe las propiedades del suelo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Clasificar suelos exige observar propiedades fisicas y quimicas: el tamano de las particulas define la textura (arenosa, limosa o arcillosa) y la presencia de humus indica riqueza organica; estas propiedades determinan como se comporta el suelo con el agua y los nutrientes.",
       "difficulty": "6",
       "images": [],
@@ -243,19 +243,19 @@
       "context": "En una ladera del Quindio, los estudiantes registran durante un ano la cantidad de suelo perdido en un terreno talado y en un bosque vecino, y comparan los datos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "La perdida de suelo es mucho mayor en el terreno talado que en el bosque, lo que muestra que la deforestacion acelera la erosion al eliminar la proteccion de raices y hojarasca",
           "is_correct": true,
           "feedback": "Correcto. Los datos sustentan la relacion entre falta de cobertura y erosion."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La perdida de suelo es igual en ambos terrenos porque la lluvia cae sobre los dos",
           "is_correct": false,
           "feedback": "Incorrecto. La cobertura vegetal cambia el efecto de la lluvia sobre el suelo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El bosque pierde mas suelo porque sus raices lo aflojan",
           "is_correct": false,
           "feedback": "Incorrecto. Las raices del bosque retienen y protegen el suelo."
@@ -267,7 +267,7 @@
           "feedback": "Incorrecto. El factor decisivo es la cobertura vegetal, no el color."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Analizar series de datos permite establecer causas: al comparar la perdida de suelo en un terreno talado y en un bosque se comprueba que la cobertura vegetal amortigua la lluvia y fija las particulas; sin ella, la escorrentia arrastra la capa fertil y la erosion avanza.",
       "difficulty": "8",
       "images": [],
@@ -289,19 +289,19 @@
       "context": "Una mina a cielo abierto en Antioquia deja grandes montanas de tierra removida; con las lluvias, los residuos llegan a un rio cercano y el agua se vuelve turbia.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Al remover el suelo, los sedimentos sueltos son arrastrados por la lluvia hasta el rio; el exceso de sedimentos enturbia el agua y afecta a los seres vivos acuaticos",
           "is_correct": true,
           "feedback": "Correcto. Explica la cadena suelo removido, escorrentia y contaminacion del rio."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La turbidez del agua se debe a que el rio produce mas peces",
           "is_correct": false,
           "feedback": "Incorrecto. La turbidez proviene de los sedimentos arrastrados."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El agua se vuelve turbia porque cambia de color por si sola",
           "is_correct": false,
           "feedback": "Incorrecto. El cambio se debe a los materiales arrastrados por el agua."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecto. La remocion del suelo y la escorrentia si afectan el rio."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Las actividades que remueven grandes volumenes de suelo dejan material suelto; la lluvia lo transporta en forma de sedimentos hasta las fuentes de agua, aumentando la turbidez, reduciendo la luz disponible para las plantas acuaticas y afectando a peces e insectos.",
       "difficulty": "8",
       "images": [],
@@ -381,13 +381,13 @@
       "context": "En un foro escolar de Ibague, tres estudiantes afirman: 1) El suelo es un recurso renovable a corto plazo. 2) La cobertura vegetal reduce la erosion. 3) La mineria a cielo abierto no altera el suelo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La 1 es falsa porque el suelo tarda muchos anos en formarse, la 2 es verdadera y la 3 es falsa porque la mineria remueve y altera el suelo",
           "is_correct": true,
           "feedback": "Correcto. Distingue la lentitud de formacion del suelo y el efecto real de la mineria."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Las tres son verdaderas porque el suelo se recupera en pocos meses",
           "is_correct": false,
           "feedback": "Incorrecto. El suelo se forma muy lentamente; no es renovable a corto plazo."
@@ -405,7 +405,7 @@
           "feedback": "Incorrecto. El suelo es un recurso natural fundamental."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Evaluar estas afirmaciones exige reconocer los tiempos de la naturaleza: un centimetro de suelo puede tardar siglos en formarse, por lo que no es renovable a corto plazo; la cobertura vegetal si reduce la erosion, y las actividades extractivas como la mineria a cielo abierto remueven y alteran profundamente el suelo.",
       "difficulty": "10",
       "images": [],
@@ -427,19 +427,19 @@
       "context": "Un municipio de la Sabana de Bogota dispone de un presupuesto limitado en COP para proteger los suelos de una zona agricola con pendientes y lluvias fuertes.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Sembrar cobertura vegetal y construir barreras vivas y terrazas en las laderas, porque reducen la erosion de forma duradera y de bajo costo para los campesinos",
           "is_correct": true,
           "feedback": "Correcto. La proteccion con vegetacion es sostenible y protege el recurso a largo plazo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Pavimentar toda la zona agricola para que no se moje el suelo",
           "is_correct": false,
           "feedback": "Incorrecto. Pavimentar impide la agricultura y no conserva el suelo productivo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Aplicar fertilizantes quimicos todos los meses sin cuidar la cobertura",
           "is_correct": false,
           "feedback": "Incorrecto. El fertilizante no evita la erosion y puede contaminar el agua."
@@ -451,7 +451,7 @@
           "feedback": "Incorrecto. El suelo desnudo en pendiente es el mas vulnerable a la erosion."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Evaluar medidas para conservar el suelo implica considerar el riesgo, el costo y la sostenibilidad: en laderas con lluvias intensas, la cobertura vegetal, las barreras vivas y las terrazas frenan la escorrentia y reducen la perdida de la capa fertil, protegiendo tanto el recurso como la economia campesina.",
       "difficulty": "10",
       "images": [],

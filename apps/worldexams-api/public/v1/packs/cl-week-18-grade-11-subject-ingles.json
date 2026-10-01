@@ -64,13 +64,13 @@
           "feedback": "Incorrect. Active voice."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "is kept",
           "is_correct": true,
           "feedback": "Correct. Present simple passive for a general requirement."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "keeps",
           "is_correct": false,
           "feedback": "Incorrect. Active voice."
@@ -82,7 +82,7 @@
           "feedback": "Incorrect. Gerund."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "The passive voice 'is kept' focuses on the state of the information being secure.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -154,25 +154,25 @@
           "feedback": "Incorrect. Cyberbullying is negative."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "harass",
           "is_correct": true,
           "feedback": "Correct. To harass means to subject to aggressive pressure or intimidation."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "support",
           "is_correct": false,
           "feedback": "Incorrect. Opposite meaning."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "ignore",
           "is_correct": false,
           "feedback": "Incorrect. It is an active form of harm."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "'Harass' is one of the key actions that defines cyberbullying behavior.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -193,13 +193,13 @@
       "context": "Discussion on the \"digital divide\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "equality",
           "is_correct": false,
           "feedback": "Incorrect. The divide is about *in*equality."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "inequality",
           "is_correct": true,
           "feedback": "Correct. Inequality is the state of not being equal, especially in status, rights, and opportunities."
@@ -217,7 +217,7 @@
           "feedback": "Incorrect. One group lacks the technology."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "'Inequality' correctly describes the gap in access that characterizes the digital divide.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -244,13 +244,13 @@
           "feedback": "Incorrect. Programs."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Netiquette",
           "is_correct": true,
           "feedback": "Correct. Portmanteau of network and etiquette."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Hardware",
           "is_correct": false,
           "feedback": "Incorrect. Physical parts of a computer."
@@ -262,7 +262,7 @@
           "feedback": "Incorrect. Harmful software."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "'Netiquette' is the standard term for social conventions in digital communication.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -283,13 +283,13 @@
       "context": "Recommendation for password security.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "use",
           "is_correct": true,
           "feedback": "Correct. Subjunctive base form after 'It is vital that...'."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "uses",
           "is_correct": false,
           "feedback": "Incorrect. Third person singular not used in formal subjunctive."
@@ -307,7 +307,7 @@
           "feedback": "Incorrect. Gerund."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "The base form 'use' is required in the subjunctive mood to express importance or necessity.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -334,25 +334,25 @@
           "feedback": "Incorrect. Citation is giving credit."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Plagiarism",
           "is_correct": true,
           "feedback": "Correct. Plagiarism is academic/creative theft."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Innovation",
           "is_correct": false,
           "feedback": "Incorrect. Innovation is creating something new."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Collaboration",
           "is_correct": false,
           "feedback": "Incorrect. Collaboration is working together."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "'Plagiarism' is the specific term for the unethical use of another's work without attribution.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -379,25 +379,25 @@
           "feedback": "Incorrect. Active voice."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "are being tracked",
           "is_correct": true,
           "feedback": "Correct. Present continuous passive for an ongoing process."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "were tracked",
           "is_correct": false,
           "feedback": "Incorrect. Past simple."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "tracked",
           "is_correct": false,
           "feedback": "Incorrect. Past simple."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "The present continuous passive describes how user data is currently and continuously being monitored.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -424,25 +424,25 @@
           "feedback": "Incorrect. Polarize is the opposite of unite."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "polarize",
           "is_correct": true,
           "feedback": "Correct. To polarize means to divide into two sharply contrasting groups or sets of opinions."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "educate",
           "is_correct": false,
           "feedback": "Incorrect. Echo chambers often limit education."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "simplify",
           "is_correct": false,
           "feedback": "Incorrect. They make social cohesion more complex."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "'Polarize' correctly identifies the divisive effect that echo chambers have on public discourse.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -508,13 +508,13 @@
       "context": "Passenger rights (adapted for digital users).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "who",
           "is_correct": false,
           "feedback": "Incorrect. Subject pronoun."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "whose",
           "is_correct": true,
           "feedback": "Correct. Possessive relative pronoun for 'users' data'."
@@ -532,7 +532,7 @@
           "feedback": "Incorrect. Relative pronoun."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "'Whose' is used to show possession, linking the users to their breached data.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -559,25 +559,25 @@
           "feedback": "Incorrect. Digital data is notoriously persistent."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "permanent",
           "is_correct": true,
           "feedback": "Correct. Permanent means lasting or intended to last or remain unchanged indefinitely."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "invisible",
           "is_correct": false,
           "feedback": "Incorrect. It can be seen by those with the right access."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "private",
           "is_correct": false,
           "feedback": "Incorrect. It's often more public than we realize."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "'Permanent' describes the enduring nature of digital information once it has been shared or recorded.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -643,13 +643,13 @@
       "context": "Conclusion of an essay on digital ethics.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "distraction",
           "is_correct": false,
           "feedback": "Incorrect. Literacy is a help, not a distraction."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "digital literacy",
           "is_correct": true,
           "feedback": "Correct. Digital literacy is the ability to find, evaluate, and communicate information through various digital platforms."
@@ -667,7 +667,7 @@
           "feedback": "Incorrect. Negative."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "'Digital literacy' refers to the set of skills needed to use technology effectively and critically.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -694,25 +694,25 @@
           "feedback": "Incorrect spelling for this context."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Phishing",
           "is_correct": true,
           "feedback": "Correct. Specific term for this type of cybercrime."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Shopping",
           "is_correct": false,
           "feedback": "Incorrect."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Blogging",
           "is_correct": false,
           "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "'Phishing' is the technical term for deceptive attempts to steal user data.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -784,25 +784,25 @@
           "feedback": "Incorrect. Private software hides code."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Open-source",
           "is_correct": true,
           "feedback": "Correct. The code is open for all to see and edit."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Expensive",
           "is_correct": false,
           "feedback": "Incorrect. It's often free, but the key is the code access."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Encrypted",
           "is_correct": false,
           "feedback": "Incorrect. Encryption hides meaning."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "'Open-source' is the term for software where the original source code is made freely available and may be redistributed and modified.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -823,13 +823,13 @@
       "context": "Reporting a warning about cyber security.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "are becoming",
           "is_correct": false,
           "feedback": "Incorrect. Backshifted in reported speech."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "were becoming",
           "is_correct": true,
           "feedback": "Correct. Backshifted from 'are' to 'were' in reported speech."
@@ -847,7 +847,7 @@
           "feedback": "Incorrect. Future."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "In reported speech, we backshift the tense of the original statement to the past.\n\n---",
       "difficulty": "10",
       "images": [],

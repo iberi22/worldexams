@@ -59,13 +59,13 @@
       "context": "Los argumentos son las razones, datos o pruebas que se utilizan para sustentar la tesis.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Hacer que el texto sea más largo para cumplir con la tarea.",
           "is_correct": false,
           "feedback": "Incorrecto. La extensión no es el objetivo de la argumentación; la calidad de las razones sí lo es."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Proporcionar bases sólidas que demuestren la validez de la tesis.",
           "is_correct": true,
           "feedback": "¡Correcto! Los argumentos sirven para convencer al lector de que la tesis es razonable y aceptable."
@@ -83,7 +83,7 @@
           "feedback": "Incorrecto. Si no tienen relación con el tema, pierden su carácter argumentativo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Un argumento eficaz debe estar directamente conectado con la tesis. Se basa en la lógica, la evidencia científica, la experiencia o la autoridad de expertos.",
       "difficulty": "4",
       "images": [],
@@ -105,19 +105,19 @@
       "context": "Identificar la tesis en un texto breve es una habilidad clave para la comprensión crítica.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El plástico es un material muy versátil y útil en la vida diaria.",
           "is_correct": false,
           "feedback": "Incorrecto. Esta idea no aparece en el texto ni es lo que el autor defiende."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Las especies marinas están muriendo por culpa de la contaminación.",
           "is_correct": false,
           "feedback": "Incorrecto. Este es un dato o hecho que sirve como apoyo (argumento), no es la propuesta central de acción."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Se deben crear leyes más estrictas en Colombia para prohibir plásticos de un solo uso.",
           "is_correct": true,
           "feedback": "¡Correcto! Esta es la postura o propuesta principal que el autor quiere que se acepte y ejecute."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecto. Es una verdad general, pero no es la tesis específica planteada en el texto."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "La tesis suele presentarse como una propuesta de cambio, una valoración o una afirmación que requiere ser demostrada. En este caso, la propuesta es la creación de leyes.",
       "difficulty": "6",
       "images": [],
@@ -151,13 +151,13 @@
       "context": "Un argumento de autoridad se basa en el prestigio de una persona o institución experta en el tema.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Mi vecino dice que las vacunas son buenas porque a él no le dio gripe.",
           "is_correct": false,
           "feedback": "Incorrecto. Esta es una experiencia personal aislada, no tiene autoridad científica."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La Organización Mundial de la Salud (OMS) afirma que las vacunas salvan millones de vidas cada año.",
           "is_correct": true,
           "feedback": "¡Correcto! Se cita a una institución internacional reconocida como experta en salud pública."
@@ -175,7 +175,7 @@
           "feedback": "Incorrecto. Este es un argumento basado en la comparación histórica, no en la autoridad de un experto."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El argumento de autoridad refuerza la tesis al demostrar que personas que saben mucho sobre el tema coinciden con la postura del autor.",
       "difficulty": "6",
       "images": [],
@@ -197,19 +197,19 @@
       "context": "Los textos argumentativos suelen tener una estructura clara: introducción, desarrollo y conclusión.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "En la introducción.",
           "is_correct": true,
           "feedback": "¡Correcto! La introducción sirve para plantear el tema y dejar clara la postura (tesis) que se va a defender."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "En el medio de los párrafos de argumentos.",
           "is_correct": false,
           "feedback": "Incorrecto. En el desarrollo se explican los argumentos, la tesis ya debe conocerse desde antes."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Solamente en la última frase del texto.",
           "is_correct": false,
           "feedback": "Incorrecto. Aunque se retoma en la conclusión, debe aparecer al inicio para guiar al lector."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto. El título sugiere el tema, pero la tesis se desarrolla formalmente dentro del texto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Presentar la tesis en la introducción permite que el lector sepa desde el principio qué es lo que el autor intenta demostrar, facilitando el seguimiento de los argumentos.",
       "difficulty": "6",
       "images": [],
@@ -249,13 +249,13 @@
           "feedback": "Incorrecto. Es un hecho geográfico y político indiscutible, no una opinión."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "El río Magdalena desemboca en el Mar Caribe, cerca de Barranquilla.",
           "is_correct": false,
           "feedback": "Incorrecto. Es un hecho geográfico comprobable."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El ciclismo es el deporte más emocionante y representativo para los colombianos.",
           "is_correct": true,
           "feedback": "¡Correcto! Es una valoración subjetiva (lo que para uno es emocionante, para otro puede no serlo)."
@@ -267,7 +267,7 @@
           "feedback": "Incorrecto. Es un hecho histórico y legal documentado."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Las tesis se construyen sobre opiniones fundamentadas. Los hechos sirven como evidencia para apoyar esas opiniones, pero no son tesis en sí mismos porque no admiten discusión.",
       "difficulty": "8",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "Los argumentos de ejemplificación utilizan casos concretos para ilustrar y validar una idea general.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La música es un lenguaje universal que une a los pueblos del mundo.",
           "is_correct": false,
           "feedback": "Incorrecto. Esta es una idea general, no un ejemplo concreto de música colombiana."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Artistas como Shakira, Juanes y Carlos Vives han ganado múltiples premios Grammy.",
           "is_correct": true,
           "feedback": "¡Correcto! Menciona casos específicos de artistas exitosos que demuestran el reconocimiento mundial mencionado en la tesis."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecto. Este es un argumento basado en datos o cifras, no propiamente de ejemplificación por casos individuales."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El ejemplo debe ser pertinente y representativo. Mencionar nombres propios de éxito global valida directamente la afirmación sobre el reconocimiento internacional.",
       "difficulty": "8",
       "images": [],
@@ -341,13 +341,13 @@
           "feedback": "Incorrecto. Las frutas sí tienen colores bonitos, pero eso no justifica comerlas."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Porque la razón dada (estética) no es relevante para la acción propuesta (alimentación/salud).",
           "is_correct": true,
           "feedback": "¡Correcto! Un buen argumento para comer algo debería basarse en nutrición o salud, no en decoración."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque el argumento debería decir que las verduras son mejores que las frutas.",
           "is_correct": false,
           "feedback": "Incorrecto. El argumento debe apoyar la tesis dada, no cambiar de tema."
@@ -359,7 +359,7 @@
           "feedback": "Incorrecto. No todos los argumentos deben ser de autoridad, pero sí deben ser pertinentes."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La relevancia es un criterio de calidad argumentativa. El argumento debe dar una razón de peso que justifique lógicamente la aceptación de la tesis.",
       "difficulty": "8",
       "images": [],
@@ -381,13 +381,13 @@
       "context": "Los contraargumentos son ideas que se oponen a la tesis y que el autor debe mencionar para luego refutarlas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Generalización apresurada de un problema social.",
           "is_correct": false,
           "feedback": "Incorrecto. No está generalizando sin pruebas, está razonando sobre un hecho común."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Concesión y refutación (admite una objeción para luego superarla con una razón de mayor peso).",
           "is_correct": true,
           "feedback": "¡Correcto! Reconoce el valor de la libertad de expresión pero antepone la equidad social."
@@ -405,7 +405,7 @@
           "feedback": "Incorrecto. No busca dar lástima, sino proponer una solución práctica a la desigualdad."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La capacidad de anticipar las críticas y responder a ellas de manera lógica fortalece enormemente cualquier texto o discurso argumentativo.",
       "difficulty": "10",
       "images": [],
@@ -433,13 +433,13 @@
           "feedback": "Incorrecto. Es demasiado obvia y general; casi nadie estaría en desacuerdo, por lo que no genera debate."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Yo quiero hablar sobre por qué los jóvenes usan tanto el celular hoy en día.",
           "is_correct": false,
           "feedback": "Incorrecto. Esto es el anuncio de un tema, no una tesis. Falta la postura clara."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La implementación de clases de educación financiera en los colegios reduciría la pobreza a largo plazo.",
           "is_correct": true,
           "feedback": "¡Correcto! Es clara, específica, debatible y puede ser sustentada con argumentos económicos y educativos."
@@ -451,7 +451,7 @@
           "feedback": "Incorrecto. Es una exclamación o eslogan, le falta la estructura formal de una afirmación académica."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Una buena tesis académica debe ser una afirmación compleja que invite a la reflexión y que requiera un esfuerzo intelectual para ser demostrada mediante pruebas y razonamientos.",
       "difficulty": "10",
       "images": [],

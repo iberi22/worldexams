@@ -13,31 +13,31 @@
       "context": "En Bogotá, Juan traslada el punto $A(2, 3)$ mediante el vector $\\vec{{v}} = (4, -2)$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$(6, 1)$",
           "is_correct": true,
           "feedback": "Correcto. $A' = (2+4, 3+(-2)) = (6, 1)$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$(8, -6)$",
           "is_correct": false,
           "feedback": "Incorrecto. Se multiplicaron las coordenadas en lugar de sumarlas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$(-2, 5)$",
           "is_correct": false,
           "feedback": "Incorrecto. Se restó el vector en lugar de sumar."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$(6, 5)$",
           "is_correct": false,
           "feedback": "Incorrecto. Error de signo al operar $3 - 2$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La traslación de $(x,y)$ por vector $(a,b)$ resulta en $(x+a, y+b) = (2+4, 3-2) = (6,1)$.",
       "difficulty": "4",
       "images": [],
@@ -105,13 +105,13 @@
       "context": "En Cali, Mateo rota el punto $C(4, 0)$ en $90^\\circ$ en sentido antihorario con centro en el origen.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$(0, 4)$",
           "is_correct": true,
           "feedback": "Correcto. La rotación de $90^\\circ$ transforma $(x,y) \\to (-y, x)$. Para $(4,0)$ da $(0,4)$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$(-4, 0)$",
           "is_correct": false,
           "feedback": "Incorrecto. Corresponde a una rotación de $180^\\circ$."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecto. Se sumó el ángulo a las coordenadas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Rotación de $90^\\circ$ antihoraria respecto a $(0,0)$: $(x,y) \\to (-y,x) = (0,4)$.",
       "difficulty": "4",
       "images": [],
@@ -151,19 +151,19 @@
       "context": "En Barranquilla, Camila aplica una homotecia con centro en el origen y factor $k = 3$ al triángulo de vértices $P(1,1), Q(2,3), R(4,0)$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$(6, 9)$",
           "is_correct": true,
           "feedback": "Correcto. $Q' = k \\cdot Q = 3(2, 3) = (6, 9)$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$(5, 6)$",
           "is_correct": false,
           "feedback": "Incorrecto. Se sumó 3 en lugar de multiplicar por 3."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$(2, 9)$",
           "is_correct": false,
           "feedback": "Incorrecto. Se multiplicó solo la coordenada $y$."
@@ -175,7 +175,7 @@
           "feedback": "Incorrecto. Se multiplicó solo la coordenada $x$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Una homotecia centrada en el origen con factor $k$ multiplica cada coordenada por $k$: $(x,y) \\to (kx, ky)$. Para $Q(2,3)$ resulta $(6,9)$.",
       "difficulty": "4",
       "images": [],
@@ -197,31 +197,31 @@
       "context": "En Cartagena, Santiago aplica una transformación lineal dada por la matriz $T = \\begin{{pmatrix}} 2 & 0 \\\\ 0 & 2 \\end{{pmatrix}}$ al vector $\\vec{{u}} = (3, -1)$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$(6, -2)$",
           "is_correct": true,
           "feedback": "Correcto. $T(\\vec{u}) = \\begin{pmatrix} 2 & 0 \\\\ 0 & 2 \\end{pmatrix} \\begin{pmatrix} 3 \\\\ -1 \\end{pmatrix} = \\begin{pmatrix} 6 \\\\ -2 \\end{pmatrix}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$(5, 1)$",
           "is_correct": false,
           "feedback": "Incorrecto. Se sumaron las entradas matriciales."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$(6, 2)$",
           "is_correct": false,
           "feedback": "Incorrecto. Error de signo en la segunda componente."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$(3, -2)$",
           "is_correct": false,
           "feedback": "Incorrecto. Solo se multiplicó la componente $y$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La matriz escalar $2I$ duplica la magnitud de cualquier vector: $2(3, -1) = (6, -2)$.",
       "difficulty": "6",
       "images": [],
@@ -427,13 +427,13 @@
       "context": "En Ibagué, Mariana investiga qué transformaciones rígidas en el plano preservan las distancias (isometrías).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Homotecia de factor $k = 2$",
           "is_correct": true,
           "feedback": "Correcto. Una homotecia con $k \\neq 1$ altera las distancias entre puntos, por lo que no es una isometría."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Traslación por un vector $\\vec{v}$",
           "is_correct": false,
           "feedback": "Incorrecto. La traslación preserva distancias y ángulos."
@@ -451,7 +451,7 @@
           "feedback": "Incorrecto. La reflexión preserva la congruencia de figuras."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Una isometría conserva distancias. La homotecia con $k=2$ multiplica todas las longitudes por 2, por lo cual es una semejanza, no una isometría.",
       "difficulty": "6",
       "images": [],
@@ -473,13 +473,13 @@
       "context": "En Pasto, Carlos evalúa el determinante de la matriz de reflexión respecto a la recta $y = x$, dada por $M = \\begin{{pmatrix}} 0 & 1 \\\\ 1 & 0 \\end{{pmatrix}}$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$\\det(M) = -1$; significa que invierte la orientación del plano.",
           "is_correct": true,
           "feedback": "Correcto. $\\det(M) = 0(0) - 1(1) = -1$. Un determinante negativo conserva áreas pero invierte la orientación (isometría indirecta)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\det(M) = 1$; significa que preserva la orientación del plano.",
           "is_correct": false,
           "feedback": "Incorrecto. El determinante da $-1$, no $+1$."
@@ -497,7 +497,7 @@
           "feedback": "Incorrecto. El área se conserva ($|\\det| = 1$)."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "$\\det \\begin{pmatrix} 0 & 1 \\\\ 1 & 0 \\end{pmatrix} = -1$. Muestra que las reflexiones son isometrías inversas (invierten el sentido de los ángulos orientados).",
       "difficulty": "8",
       "images": [],
@@ -519,13 +519,13 @@
       "context": "En Santa Marta, Gabriela busca el centro fijo de la homotecia que transforma $A(1,2)$ en $A'(3,6)$ y $B(2,2)$ in $B'(6,6)$ con factor $k=3$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$(0, 0)$",
           "is_correct": true,
           "feedback": "Correcto. $A' - O = 3(A - O) \\implies (3,6) = 3(1,2)$, lo cual se cumple exactamente para $O(0,0)$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$(1, 1)$",
           "is_correct": false,
           "feedback": "Incorrecto. No satisface la relación de proporcionalidad vectorial."
@@ -543,7 +543,7 @@
           "feedback": "Incorrecto. No es el centro de dilatación."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Como $A' = 3A$ y $B' = 3B$, el centro de homotecia es el origen $O(0,0)$.",
       "difficulty": "8",
       "images": [],
@@ -565,31 +565,31 @@
       "context": "En Villavicencio, Andres considera la rotación de un polígono regular de $n=6$ lados (hexágono regular) centrado en el origen.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$60^\\circ$",
           "is_correct": true,
           "feedback": "Correcto. $\\frac{360^\\circ}{n} = \\frac{360^\\circ}{6} = 60^\\circ$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$90^\\circ$",
           "is_correct": false,
           "feedback": "Incorrecto. $90^\\circ$ corresponde a la simetría rotacional de un cuadrado ($n=4$)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$45^\\circ$",
           "is_correct": false,
           "feedback": "Incorrecto. Corresponde a un octágono regular ($n=8$)."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$120^\\circ$",
           "is_correct": false,
           "feedback": "Incorrecto. Es un múltiplo del ángulo mínimo, pero no es el ángulo mínimo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El ángulo mínimo de simetría rotacional de un $n$-ágono regular es $\\frac{360^\\circ}{n} = \\frac{360^\\circ}{6} = 60^\\circ$.",
       "difficulty": "8",
       "images": [],
@@ -611,31 +611,31 @@
       "context": "En Armenia, Isabella analiza la ecuación de la elipse $\\frac{{x^2}}{{9}} + \\frac{{y^2}}{{4}} = 1$ al ser trasladada 2 unidades a la derecha y 3 unidades hacia abajo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$\\frac{(x - 2)^2}{9} + \\frac{(y + 3)^2}{4} = 1$",
           "is_correct": true,
           "feedback": "Correcto. La traslación del centro a $(2, -3)$ reemplaza $x \\to x-2$ y $y \\to y+3$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\frac{(x + 2)^2}{9} + \\frac{(y - 3)^2}{4} = 1$",
           "is_correct": false,
           "feedback": "Incorrecto. Se invirtieron los signos de desplazamiento en las variables."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\frac{x^2 - 2}{9} + \\frac{y^2 + 3}{4} = 1$",
           "is_correct": false,
           "feedback": "Incorrecto. Se restó a la variable al cuadrado en lugar de sustituir en el argumento."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$\\frac{(x - 2)^2}{4} + \\frac{(y + 3)^2}{9} = 1$",
           "is_correct": false,
           "feedback": "Incorrecto. Se intercambiaron los semiejos denominadores."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Un desplazamiento de $(h,k) = (2, -3)$ reemplaza $x \\to x-h = x-2$ y $y \\to y-k = y+3$ en la ecuación canónica.",
       "difficulty": "8",
       "images": [],
@@ -657,31 +657,31 @@
       "context": "En Neiva, Felipe evalúa el efecto de la matriz $A = \\begin{{pmatrix}} 1 & 0 \\\\ 0 & -1 \\end{{pmatrix}}$ sobre la figura definida por la función $y = f(x)$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Reflexión respecto al eje $x$.",
           "is_correct": true,
           "feedback": "Correcto. $A \\begin{pmatrix} x \\\\ y \\end{pmatrix} = \\begin{pmatrix} x \\\\ -y \\end{pmatrix}$, lo cual refleja verticalmente sobre el eje $x$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Reflexión respecto al eje $y$.",
           "is_correct": false,
           "feedback": "Incorrecto. La reflexión sobre el eje $y$ tiene matriz $\\begin{pmatrix} -1 & 0 \\\\ 0 & 1 \\end{pmatrix}$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Rotación de $90^\\circ$.",
           "is_correct": false,
           "feedback": "Incorrecto. Intercambiaría componentes $x$ e $y$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Traslación hacia abajo.",
           "is_correct": false,
           "feedback": "Incorrecto. Las matrices de $2 \\times 2$ no realizan traslaciones afines directas sin coordenadas homogéneas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La matriz $\\begin{pmatrix} 1 & 0 \\\\ 0 & -1 \\end{pmatrix}$ mapea $(x,y) \\to (x, -y)$, que es la reflexión axial sobre el eje $x$.",
       "difficulty": "8",
       "images": [],
@@ -749,31 +749,31 @@
       "context": "En Montería, Diego analiza la composición de dos reflexiones respecto a dos rectas paralelas $L_1: x = 0$ y $L_2: x = 3$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Una traslación horizontal a la derecha de 6 unidades.",
           "is_correct": true,
           "feedback": "Correcto. La composición de dos reflexiones sobre ejes paralelos separados por distancia $d$ es una traslación de magnitud $2d = 2(3) = 6$ en dirección perpendicular a las rectas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Una rotación de $180^\\circ$.",
           "is_correct": false,
           "feedback": "Incorrecto. Las rectas deben cortarse para que la composición sea una rotación."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Una traslación a la derecha de 3 unidades.",
           "is_correct": false,
           "feedback": "Incorrecto. El desplazamiento es el doble de la distancia entre paralelas ($2d=6$)."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La transformación identidad.",
           "is_correct": false,
           "feedback": "Incorrecto. Al ser paralelas distintas, se produce un desplazamiento neto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Teorema: La composición de reflexiones en dos líneas paralelas distanciadas por $d$ equivale a una traslación perpendicular de $2d = 6$ unidades.",
       "difficulty": "10",
       "images": [],
@@ -841,19 +841,19 @@
       "context": "En Riohacha, Samuel estudia la matriz de homotecia $H = \\begin{{pmatrix}} k & 0 \\\\ 0 & k \\end{{pmatrix}}$ en el espacio bidimensional.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Multiplica el área por $k^2$.",
           "is_correct": true,
           "feedback": "Correcto. El determinante $\\det(H) = k^2$, lo que significa que las áreas se escalan por $k^2$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Multiplica el área por $k$.",
           "is_correct": false,
           "feedback": "Incorrecto. Las longitudes se multiplican por $k$, pero las áreas por $k^2$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Multiplica el área por $2k$.",
           "is_correct": false,
           "feedback": "Incorrecto. Relación no cuadrática falsa."
@@ -865,7 +865,7 @@
           "feedback": "Incorrecto. Solo $k=\\pm 1$ mantiene el área inalterada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El factor de cambio de área bajo una transformación lineal matricial es $|\\det(M)|$. Para $H = kI$, $|\\det(H)| = k^2$.",
       "difficulty": "10",
       "images": [],
@@ -887,31 +887,31 @@
       "context": "En Florencia, Andrea analiza las transformaciones afines de la forma $T(\\vec{{x}}) = A\\vec{{x}} + \\vec{{b}}$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Conservan la colinealidad de los puntos y el paralelismo de las rectas.",
           "is_correct": true,
           "feedback": "Correcto. Las transformaciones afines envían líneas rectas a líneas rectas y mantienen el paralelismo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Conservan siempre las distancias absolutas entre puntos.",
           "is_correct": false,
           "feedback": "Incorrecto. Solo las isometrías conservan distancias."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Conservan siempre los ángulos entre rectas.",
           "is_correct": false,
           "feedback": "Incorrecto. Las cizalladuras o deformaciones alteran ángulos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Conservan siempre el origen en el punto $(0,0)$.",
           "is_correct": false,
           "feedback": "Incorrecto. La traslación $\\vec{b} \\neq \\vec{0}$ desplaza el origen."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Las transformaciones afines conservan líneas rectas, colinealidad, puntos medios y el paralelismo entre rectas.",
       "difficulty": "10",
       "images": [],

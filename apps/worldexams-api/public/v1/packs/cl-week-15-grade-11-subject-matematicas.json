@@ -13,19 +13,19 @@
       "context": "Sebastián analiza situaciones académicas en Valparaíso.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$\\sqrt{19} \\text{ m}$",
           "is_correct": true,
           "feedback": "¡Correcto! c^2 = 3^2 + 5^2 - 2(3)(5)(0,5) = 19 => c = sqrt(19)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\sqrt{34} \\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Aplicaste Pitágoras ignorando el ángulo de 60°."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$8 \\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste los dos lados directamente."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Error aritmético en el producto 2ab*cos(gamma)."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Por Ley de Cosenos: c^2 = a^2 + b^2 - 2ab*cos(60°) = 3^2 + 5^2 - 3*5 = 19 => c = sqrt(19) m.",
       "difficulty": "4",
       "images": [],
@@ -58,13 +58,13 @@
       "context": "Sebastián analiza situaciones académicas en Concepción.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$\\sqrt{28} \\text{ m}$",
           "is_correct": true,
           "feedback": "¡Correcto! c^2 = 4^2 + 6^2 - 2(4)(6)(0,5) = 28 => c = sqrt(28)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\sqrt{52} \\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Aplicaste Pitágoras ignorando el ángulo de 60°."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. Error aritmético en el producto 2ab*cos(gamma)."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Por Ley de Cosenos: c^2 = a^2 + b^2 - 2ab*cos(60°) = 4^2 + 6^2 - 4*6 = 28 => c = sqrt(28) m.",
       "difficulty": "4",
       "images": [],
@@ -103,13 +103,13 @@
       "context": "Sebastián analiza situaciones académicas en Antofagasta.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$\\sqrt{39} \\text{ m}$",
           "is_correct": true,
           "feedback": "¡Correcto! c^2 = 5^2 + 7^2 - 2(5)(7)(0,5) = 39 => c = sqrt(39)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\sqrt{74} \\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Aplicaste Pitágoras ignorando el ángulo de 60°."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. Error aritmético en el producto 2ab*cos(gamma)."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Por Ley de Cosenos: c^2 = a^2 + b^2 - 2ab*cos(60°) = 5^2 + 7^2 - 5*7 = 39 => c = sqrt(39) m.",
       "difficulty": "4",
       "images": [],
@@ -148,13 +148,13 @@
       "context": "Sebastián analiza situaciones académicas en Temuco.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$\\sqrt{52} \\text{ m}$",
           "is_correct": true,
           "feedback": "¡Correcto! c^2 = 6^2 + 8^2 - 2(6)(8)(0,5) = 52 => c = sqrt(52)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\sqrt{100} \\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Aplicaste Pitágoras ignorando el ángulo de 60°."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. Error aritmético en el producto 2ab*cos(gamma)."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Por Ley de Cosenos: c^2 = a^2 + b^2 - 2ab*cos(60°) = 6^2 + 8^2 - 6*8 = 52 => c = sqrt(52) m.",
       "difficulty": "4",
       "images": [],
@@ -193,31 +193,31 @@
       "context": "Sebastián analiza situaciones académicas en La Serena.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$\\sqrt{67} \\text{ m}$",
           "is_correct": true,
           "feedback": "¡Correcto! c^2 = 7^2 + 9^2 - 2(7)(9)(0,5) = 67 => c = sqrt(67)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\sqrt{130} \\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Aplicaste Pitágoras ignorando el ángulo de 60°."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$16 \\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste los dos lados directamente."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$\\sqrt{82} \\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Error aritmético en el producto 2ab*cos(gamma)."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Por Ley de Cosenos: c^2 = a^2 + b^2 - 2ab*cos(60°) = 7^2 + 9^2 - 7*9 = 67 => c = sqrt(67) m.",
       "difficulty": "6",
       "images": [],
@@ -283,19 +283,19 @@
       "context": "Sebastián analiza situaciones académicas en Iquique.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$\\sqrt{103} \\text{ m}$",
           "is_correct": true,
           "feedback": "¡Correcto! c^2 = 9^2 + 11^2 - 2(9)(11)(0,5) = 103 => c = sqrt(103)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\sqrt{202} \\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Aplicaste Pitágoras ignorando el ángulo de 60°."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$20 \\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste los dos lados directamente."
@@ -307,7 +307,7 @@
           "feedback": "Incorrecto. Error aritmético en el producto 2ab*cos(gamma)."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Por Ley de Cosenos: c^2 = a^2 + b^2 - 2ab*cos(60°) = 9^2 + 11^2 - 9*11 = 103 => c = sqrt(103) m.",
       "difficulty": "6",
       "images": [],
@@ -373,13 +373,13 @@
       "context": "Sebastián analiza situaciones académicas en Talca.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$\\sqrt{147} \\text{ m}$",
           "is_correct": true,
           "feedback": "¡Correcto! c^2 = 11^2 + 13^2 - 2(11)(13)(0,5) = 147 => c = sqrt(147)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\sqrt{290} \\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Aplicaste Pitágoras ignorando el ángulo de 60°."
@@ -397,7 +397,7 @@
           "feedback": "Incorrecto. Error aritmético en el producto 2ab*cos(gamma)."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Por Ley de Cosenos: c^2 = a^2 + b^2 - 2ab*cos(60°) = 11^2 + 13^2 - 11*13 = 147 => c = sqrt(147) m.",
       "difficulty": "6",
       "images": [],
@@ -463,31 +463,31 @@
       "context": "Sebastián analiza situaciones académicas en Puerto Montt.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$\\sqrt{199} \\text{ m}$",
           "is_correct": true,
           "feedback": "¡Correcto! c^2 = 13^2 + 15^2 - 2(13)(15)(0,5) = 199 => c = sqrt(199)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\sqrt{394} \\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Aplicaste Pitágoras ignorando el ángulo de 60°."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$28 \\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste los dos lados directamente."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$\\sqrt{214} \\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Error aritmético en el producto 2ab*cos(gamma)."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Por Ley de Cosenos: c^2 = a^2 + b^2 - 2ab*cos(60°) = 13^2 + 15^2 - 13*15 = 199 => c = sqrt(199) m.",
       "difficulty": "8",
       "images": [],
@@ -598,13 +598,13 @@
       "context": "Sebastián analiza situaciones académicas en Valdivia.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$\\sqrt{292} \\text{ m}$",
           "is_correct": true,
           "feedback": "¡Correcto! c^2 = 16^2 + 18^2 - 2(16)(18)(0,5) = 292 => c = sqrt(292)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\sqrt{580} \\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Aplicaste Pitágoras ignorando el ángulo de 60°."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. Error aritmético en el producto 2ab*cos(gamma)."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Por Ley de Cosenos: c^2 = a^2 + b^2 - 2ab*cos(60°) = 16^2 + 18^2 - 16*18 = 292 => c = sqrt(292) m.",
       "difficulty": "8",
       "images": [],
@@ -688,19 +688,19 @@
       "context": "Sebastián analiza situaciones académicas en Valparaíso.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$\\sqrt{364} \\text{ m}$",
           "is_correct": true,
           "feedback": "¡Correcto! c^2 = 18^2 + 20^2 - 2(18)(20)(0,5) = 364 => c = sqrt(364)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\sqrt{724} \\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Aplicaste Pitágoras ignorando el ángulo de 60°."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$38 \\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste los dos lados directamente."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. Error aritmético en el producto 2ab*cos(gamma)."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Por Ley de Cosenos: c^2 = a^2 + b^2 - 2ab*cos(60°) = 18^2 + 20^2 - 18*20 = 364 => c = sqrt(364) m.",
       "difficulty": "8",
       "images": [],
@@ -778,19 +778,19 @@
       "context": "Sebastián analiza situaciones académicas en Antofagasta.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$\\sqrt{444} \\text{ m}$",
           "is_correct": true,
           "feedback": "¡Correcto! c^2 = 20^2 + 22^2 - 2(20)(22)(0,5) = 444 => c = sqrt(444)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\sqrt{884} \\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Aplicaste Pitágoras ignorando el ángulo de 60°."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$42 \\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste los dos lados directamente."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. Error aritmético en el producto 2ab*cos(gamma)."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Por Ley de Cosenos: c^2 = a^2 + b^2 - 2ab*cos(60°) = 20^2 + 22^2 - 20*22 = 444 => c = sqrt(444) m.",
       "difficulty": "10",
       "images": [],
@@ -868,31 +868,31 @@
       "context": "Sebastián analiza situaciones académicas en La Serena.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$\\sqrt{532} \\text{ m}$",
           "is_correct": true,
           "feedback": "¡Correcto! c^2 = 22^2 + 24^2 - 2(22)(24)(0,5) = 532 => c = sqrt(532)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\sqrt{1060} \\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Aplicaste Pitágoras ignorando el ángulo de 60°."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$46 \\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste los dos lados directamente."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$\\sqrt{547} \\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Error aritmético en el producto 2ab*cos(gamma)."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Por Ley de Cosenos: c^2 = a^2 + b^2 - 2ab*cos(60°) = 22^2 + 24^2 - 22*24 = 532 => c = sqrt(532) m.",
       "difficulty": "10",
       "images": [],

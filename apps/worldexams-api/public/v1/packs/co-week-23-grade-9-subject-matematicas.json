@@ -59,19 +59,19 @@
       "context": "En Medellín, Ana recorta dos triángulos en cartulina y al superponerlos coinciden exactamente en todos sus lados y ángulos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Tienen la misma forma y el mismo tamaño, con lados y ángulos correspondientes iguales",
           "is_correct": true,
           "feedback": "Correcto. La congruencia exige coincidencia total en lados y ángulos correspondientes."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Tienen la misma forma pero pueden tener distinto tamaño",
           "is_correct": false,
           "feedback": "Incorrecto. Esa condición describe la semejanza, no la congruencia."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Tienen el mismo perímetro, sin importar los ángulos",
           "is_correct": false,
           "feedback": "Incorrecto. Igual perímetro no asegura la misma forma ni los mismos ángulos."
@@ -83,7 +83,7 @@
           "feedback": "Incorrecto. Dos triángulos pueden tener igual área con lados y ángulos distintos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Dos triángulos son congruentes cuando sus lados correspondientes y sus ángulos correspondientes son iguales; es decir, coinciden exactamente al superponerlos.",
       "difficulty": "4",
       "images": [],
@@ -105,31 +105,31 @@
       "context": "En Cali, un taller debe replicar una pieza triangular cuyos lados miden 6 cm, 8 cm y 10 cm.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "6 cm, 8 cm y 10 cm",
           "is_correct": true,
           "feedback": "Correcto. Coinciden los tres lados, así que por LLL el triángulo es congruente."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "6 cm, 8 cm y 9 cm",
           "is_correct": false,
           "feedback": "Incorrecto. El tercer lado cambió y el triángulo deja de coincidir."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "5 cm, 8 cm y 10 cm",
           "is_correct": false,
           "feedback": "Incorrecto. El primer lado cambió, por lo que no se conservan los tres lados."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "6 cm, 7 cm y 10 cm",
           "is_correct": false,
           "feedback": "Incorrecto. El segundo lado cambió y no se cumple el criterio LLL."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El criterio LLL exige que los tres lados correspondientes sean iguales, de modo que la única opción válida es 6 cm, 8 cm y 10 cm.",
       "difficulty": "6",
       "images": [],
@@ -157,13 +157,13 @@
           "feedback": "Incorrecto. Solo se conocen un lado y dos ángulos, no los tres lados."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "ALA",
           "is_correct": true,
           "feedback": "Correcto. Los dos ángulos y el lado comprendido entre ellos son iguales."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "LAL",
           "is_correct": false,
           "feedback": "Incorrecto. LAL requiere dos lados y el ángulo entre ellos, y aquí solo hay un lado."
@@ -175,7 +175,7 @@
           "feedback": "Incorrecto. AAA no garantiza congruencia porque no fija el tamaño."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Al tener dos ángulos iguales y el lado comprendido entre ellos también igual, se aplica el criterio ALA.",
       "difficulty": "6",
       "images": [],
@@ -197,19 +197,19 @@
       "context": "En Bucaramanga, un triángulo tiene lados de 5 cm, 12 cm y 13 cm. Se quiere construir otro triángulo congruente con los lados 5 cm, 12 cm y x cm.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "7 cm",
           "is_correct": false,
           "feedback": "Incorrecto. Restaste los otros dos lados, operación que no aplica al criterio LLL."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "17 cm",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste los catetos en vez de igualar el tercer lado."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "13 cm",
           "is_correct": true,
           "feedback": "Correcto. El tercer lado debe coincidir con 13 cm para igualar los tres lados."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto. Multiplicaste los lados, lo cual no corresponde a la congruencia."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Para que se cumpla LLL, los tres lados deben ser iguales; como ya coinciden 5 cm y 12 cm, se requiere x = 13 cm.",
       "difficulty": "6",
       "images": [],
@@ -249,13 +249,13 @@
           "feedback": "Incorrecto. Restaste de 90°, pero los ángulos correspondientes no son complementarios."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "125°",
           "is_correct": false,
           "feedback": "Incorrecto. Restaste de 180°, pero aquí se trata del mismo ángulo correspondiente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "55°",
           "is_correct": true,
           "feedback": "Correcto. En triángulos congruentes los ángulos correspondientes son iguales."
@@ -267,7 +267,7 @@
           "feedback": "Incorrecto. Duplicaste el ángulo sin justificación geométrica."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "La congruencia implica que todos los ángulos correspondientes son iguales, por lo que ese ángulo también mide 55°.",
       "difficulty": "6",
       "images": [],
@@ -335,31 +335,31 @@
       "context": "En Bogotá, en la figura de un cometa se forman los triángulos ABC y ADC, que comparten el lado AC. Además se sabe que AB = AD y BC = DC.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "LLL",
           "is_correct": true,
           "feedback": "Correcto. AC es común, AB = AD y BC = DC: los tres lados correspondientes son iguales."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "ALA",
           "is_correct": false,
           "feedback": "Incorrecto. No se conocen dos ángulos iguales en los triángulos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "AAA",
           "is_correct": false,
           "feedback": "Incorrecto. Con solo igualdad de ángulos no se garantiza la congruencia."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "No se puede demostrar con los datos dados",
           "is_correct": false,
           "feedback": "Incorrecto. Los tres pares de lados iguales permiten aplicar LLL."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El lado AC es común a ambos triángulos y los otros dos lados son iguales por dato; por el criterio LLL los triángulos son congruentes.",
       "difficulty": "8",
       "images": [],
@@ -381,13 +381,13 @@
       "context": "En Ibagué, un trapecio tiene sus dos bases paralelas. Las diagonales forman dos triángulos opuestos por el vértice, y los ángulos alternos internos entre las bases paralelas son iguales. Ambos triángulos comparten además un lado igual.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "LLL",
           "is_correct": false,
           "feedback": "Incorrecto. Solo se conoce un lado igual, no los tres."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "ALA",
           "is_correct": true,
           "feedback": "Correcto. Hay dos ángulos iguales y el lado comprendido entre ellos es igual."
@@ -405,7 +405,7 @@
           "feedback": "Incorrecto. LLA no es un criterio válido de congruencia."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Los ángulos alternos internos son iguales por el paralelismo de las bases y el lado comprendido es igual, por lo que se aplica ALA.",
       "difficulty": "8",
       "images": [],
@@ -427,31 +427,31 @@
       "context": "En Santa Marta, dos triángulos tienen sus tres ángulos iguales, de 30°, 60° y 90°, pero los lados de uno miden el doble que los del otro.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Son semejantes pero no congruentes, porque AAA solo garantiza la semejanza",
           "is_correct": true,
           "feedback": "Correcto. Los ángulos iguales aseguran la forma, pero el tamaño cambia y no hay congruencia."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Son congruentes porque los tres ángulos coinciden",
           "is_correct": false,
           "feedback": "Incorrecto. AAA no fija el tamaño de los lados, así que no basta para la congruencia."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Son congruentes porque ambos son triángulos rectángulos",
           "is_correct": false,
           "feedback": "Incorrecto. Compartir un ángulo recto no iguala los lados de los triángulos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "No son semejantes ni congruentes",
           "is_correct": false,
           "feedback": "Incorrecto. Con ángulos iguales sí son semejantes, aunque no congruentes."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El criterio AAA solo establece semejanza: los triángulos tienen la misma forma pero distinto tamaño, por lo que no son congruentes.",
       "difficulty": "8",
       "images": [],
@@ -473,13 +473,13 @@
       "context": "En Villavicencio, Camila afirma que si dos triángulos tienen la misma área entonces deben ser congruentes.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Es falsa: un triángulo de lados 3, 4 y 5 y otro de base 6 con altura 2 tienen igual área (6) pero no son congruentes",
           "is_correct": true,
           "feedback": "Correcto. Ambos tienen área 6, pero sus lados y ángulos son distintos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Es verdadera: si el área coincide, los lados también coinciden",
           "is_correct": false,
           "feedback": "Incorrecto. La congruencia exige lados y ángulos iguales, no solo igual área."
@@ -497,7 +497,7 @@
           "feedback": "Incorrecto. El área está bien definida; el problema es que no implica congruencia."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La congruencia requiere la igualdad de lados y ángulos correspondientes. La igualdad de áreas es una condición mucho más débil y no la garantiza.",
       "difficulty": "10",
       "images": [],
@@ -519,19 +519,19 @@
       "context": "En Pasto, un carpintero fabrica dos soportes triangulares cuyos lados miden 8 cm, 15 cm y 17 cm en ambos casos, y afirma que son congruentes.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Sí, porque por el criterio LLL dos triángulos con los tres lados respectivamente iguales son congruentes",
           "is_correct": true,
           "feedback": "Correcto. Los tres lados coinciden, así que los triángulos son congruentes por LLL."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "No, porque podrían ser semejantes con distinto tamaño",
           "is_correct": false,
           "feedback": "Incorrecto. La semejanza con distinto tamaño exigiría lados proporcionales, no iguales."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "No, porque hace falta medir al menos un ángulo",
           "is_correct": false,
           "feedback": "Incorrecto. El criterio LLL no requiere conocer ángulos."
@@ -543,7 +543,7 @@
           "feedback": "Incorrecto. LLL aplica a cualquier triángulo, no solo a los rectángulos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El criterio LLL garantiza que tres lados iguales determinan un triángulo único, por lo que los dos soportes son congruentes.",
       "difficulty": "10",
       "images": [],

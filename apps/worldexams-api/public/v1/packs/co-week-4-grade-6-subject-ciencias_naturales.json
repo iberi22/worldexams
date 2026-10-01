@@ -59,31 +59,31 @@
       "context": "En una finca cafetera cerca de Medellín, los estudiantes observan que las hojas del cafeto son verdes y los frutos maduran rojos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "El cloroplasto",
           "is_correct": true,
           "feedback": "Correcto. El cloroplasto contiene clorofila y allí ocurre la fotosíntesis."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La mitocondria",
           "is_correct": false,
           "feedback": "Incorrecto. La mitocondria produce energía, pero no contiene clorofila ni es verde."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El lisosoma",
           "is_correct": false,
           "feedback": "Incorrecto. El lisosoma digiere desechos en células animales y no hace fotosíntesis."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El centriolo",
           "is_correct": false,
           "feedback": "Incorrecto. El centriolo participa en la división de células animales y no existe en la mayoría de vegetales."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Solo las células vegetales y algas tienen cloroplastos con clorofila para captar la luz solar y fabricar alimento.",
       "difficulty": "4",
       "images": [],
@@ -105,19 +105,19 @@
       "context": "En un colegio de Cali, un estudiante observa al microscopio una muestra del río Magdalena y dibuja una célula con pared celular, cloroplastos y una vacuola central muy grande.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Una célula vegetal, por la pared celular, los cloroplastos y la vacuola central grande",
           "is_correct": true,
           "feedback": "Correcto. Esas tres características juntas solo aparecen en la célula vegetal."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Una célula animal, porque tiene vacuola y citoplasma",
           "is_correct": false,
           "feedback": "Incorrecto. La célula animal no tiene pared celular ni cloroplastos, y sus vacuolas son pequeñas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Una célula de hongo, porque tiene pared celular rígida",
           "is_correct": false,
           "feedback": "Incorrecto. Los hongos tienen pared de quitina y carecen de cloroplastos."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecto. Las bacterias son mucho más pequeñas y no tienen núcleo ni cloroplastos definidos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La combinación de pared de celulosa, cloroplastos y vacuola central grande es diagnóstico de célula vegetal.",
       "difficulty": "6",
       "images": [],
@@ -151,31 +151,31 @@
       "context": "En el páramo de Sumapaz, los frailejones almacenan agua en sus hojas para sobrevivir a las noches frías y los días soleados.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "La vacuola central",
           "is_correct": true,
           "feedback": "Correcto. La vacuola central almacena agua, sales y da turgencia a la célula vegetal."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El ribosoma",
           "is_correct": false,
           "feedback": "Incorrecto. El ribosoma fabrica proteínas y no almacena agua."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El aparato de Golgi",
           "is_correct": false,
           "feedback": "Incorrecto. El aparato de Golgi empaqueta proteínas, pero no es el reservorio principal de agua."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La membrana nuclear",
           "is_correct": false,
           "feedback": "Incorrecto. La membrana nuclear protege el material genético y no guarda agua."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La vacuola central puede ocupar hasta el 90 % de la célula vegetal y regula el agua y la presión interna.",
       "difficulty": "6",
       "images": [],
@@ -197,19 +197,19 @@
       "context": "En un laboratorio escolar de Barranquilla, los estudiantes comparan una muestra de mejilla humana con una de hoja de elodea bajo el mismo microscopio.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "El microscopio óptico compuesto, que aumenta entre 40 y 400 veces",
           "is_correct": true,
           "feedback": "Correcto. El microscopio óptico permite ver células con aumentos de 40X a 400X en el colegio."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La lupa de mano, que aumenta unas 2 o 3 veces",
           "is_correct": false,
           "feedback": "Incorrecto. La lupa no tiene suficiente aumento para distinguir organelos celulares."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El telescopio, que aumenta miles de veces objetos lejanos",
           "is_correct": false,
           "feedback": "Incorrecto. El telescopio sirve para astros lejanos, no para muestras microscópicas."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto. El termómetro mide temperatura y no forma imágenes aumentadas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El microscopio óptico usa lentes y luz para ampliar células invisibles a simple vista; la lupa es insuficiente.",
       "difficulty": "6",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "En un cultivo de caña del Valle del Cauca, las hojas expuestas al sol producen más azúcar que las hojas cubiertas con bolsas oscuras.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Los cloroplastos captan luz para fabricar glucosa y las mitocondrias la transforman en energía útil",
           "is_correct": true,
           "feedback": "Correcto. Cloroplasto y mitocondria trabajan juntos: uno produce glucosa y la otra libera su energía."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Los lisosomas captan luz y los centriolos fabrican azúcar",
           "is_correct": false,
           "feedback": "Incorrecto. Esos organelos no participan en la fotosíntesis ni existen en vegetales superiores."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecto. Los ribosomas hacen proteínas y no bloquean la fotosíntesis."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Sin luz los cloroplastos no fotosintetizan; la glucosa es luego usada por las mitocondrias para obtener energía.",
       "difficulty": "8",
       "images": [],
@@ -381,31 +381,31 @@
       "context": "En un colegio de Manizales, un equipo propone comprobar que la pared celular da resistencia: colocará células de cebolla y células de mejilla en agua destilada y observará cuáles se rompen.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Las células de mejilla se hincharán y podrán romperse, mientras las de cebolla resistirán gracias a la pared celular; el diseño permite comparar ambos tipos",
           "is_correct": true,
           "feedback": "Correcto. La pared vegetal resiste la entrada de agua; la célula animal sin pared es frágil al exceso de agua."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Ambos tipos se romperán igual porque la pared celular no tiene función mecánica",
           "is_correct": false,
           "feedback": "Incorrecto. La pared de celulosa sí brinda resistencia mecánica contra la presión del agua."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Las células de cebolla se romperán primero porque tienen vacuola grande",
           "is_correct": false,
           "feedback": "Incorrecto. La vacuola almacena agua pero la pared impide que la célula estalle."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El experimento no sirve porque el microscopio no distingue células animales de vegetales",
           "is_correct": false,
           "feedback": "Incorrecto. El microscopio sí permite distinguir pared, forma y cloroplastos con claridad."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Evaluar el diseño implica predecir según la estructura: sin pared la célula animal es vulnerable a la lisis; con pared la vegetal resiste.",
       "difficulty": "10",
       "images": [],
@@ -427,19 +427,19 @@
       "context": "En la feria de la ciencia en Bucaramanga, tres carteleras afirman: 1) Toda célula vegetal tiene cloroplastos. 2) Toda célula animal carece de pared celular. 3) Ambas tienen membrana, citoplasma y núcleo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "La 1 es falsa porque la raíz y la cebolla no fotosintetizan en la oscuridad, la 2 es verdadera y la 3 es verdadera",
           "is_correct": true,
           "feedback": "Correcto. No toda célula vegetal es verde; las subterráneas carecen de cloroplastos desarrollados."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Las tres son verdaderas porque todas las células vegetales son verdes",
           "is_correct": false,
           "feedback": "Incorrecto. Las células de raíz o de reserva tienen leucoplastos, no cloroplastos verdes."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Las tres son falsas porque las células no tienen núcleo",
           "is_correct": false,
           "feedback": "Incorrecto. Las células animales y vegetales son eucariotas y sí tienen núcleo definido."
@@ -451,7 +451,7 @@
           "feedback": "Incorrecto. La 2 y la 3 están bien establecidas por la teoría celular moderna."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Juzgar afirmaciones exige matices: la mayoría de células vegetales aéreas tienen cloroplastos, pero las subterráneas no; la pared solo falta en animales.",
       "difficulty": "10",
       "images": [],

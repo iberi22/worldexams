@@ -59,13 +59,13 @@
       "context": "Read: \"On Monday, Sofia has science class. She likes it because she learns about plants and animals.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Because she learns about plants and animals.",
           "is_correct": true,
           "feedback": "The text directly says she learns about plants and animals in science."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Because she draws pictures with colors.",
           "is_correct": false,
           "feedback": "Drawing pictures is part of art class, not science."
@@ -83,7 +83,7 @@
           "feedback": "Singing songs is part of music class, not science."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Understanding the reason a student likes a subject from a short text in English. / Comprender la razon por la que un estudiante prefiere una asignatura.",
       "difficulty": "4",
       "images": [],
@@ -105,19 +105,19 @@
       "context": "A student talks about her week: \"I have art class on Tuesday and Friday.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "We have math class on Wednesday.",
           "is_correct": true,
           "feedback": "The preposition \"on\" is used before days of the week in English."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "We have math class in Wednesday.",
           "is_correct": false,
           "feedback": "\"In\" is used with months and years, not with days of the week."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "We have math class at Wednesday.",
           "is_correct": false,
           "feedback": "\"At\" is used with clock times, not with days of the week."
@@ -129,7 +129,7 @@
           "feedback": "\"To\" is not a preposition of time for days of the week."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Using the correct preposition of time with days of the week in English. / Usar la preposicion de tiempo correcta con los dias de la semana.",
       "difficulty": "6",
       "images": [],
@@ -151,19 +151,19 @@
       "context": "A teacher asks: \"What is your favorite subject?\" A student answers: \"My favorite subject is science.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "What is your favorite subject?",
           "is_correct": true,
           "feedback": "The answer names a favorite subject, so this question fits perfectly."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "What time do you have lunch?",
           "is_correct": false,
           "feedback": "The answer does not talk about lunch or any time of day."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "How many brothers do you have?",
           "is_correct": false,
           "feedback": "The answer does not talk about family members."
@@ -175,7 +175,7 @@
           "feedback": "The answer does not mention a home or an address."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Matching questions with answers about school subjects in English. / Relacionar preguntas con respuestas sobre asignaturas.",
       "difficulty": "6",
       "images": [],
@@ -197,19 +197,19 @@
       "context": "A student in Villavicencio reads her schedule: \"Monday: math at 7:00. Tuesday: science at 8:00. Wednesday: art at 9:00.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "She has science class on Tuesday at 8:00.",
           "is_correct": true,
           "feedback": "The schedule shows science on Tuesday at 8:00."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "She has art class on Monday at 7:00.",
           "is_correct": false,
           "feedback": "The schedule shows math on Monday at 7:00, not art."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "She has math class on Wednesday at 9:00.",
           "is_correct": false,
           "feedback": "The schedule shows art on Wednesday at 9:00, not math."
@@ -221,7 +221,7 @@
           "feedback": "Friday is not in the schedule, and science is on Tuesday."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Reading a simple class schedule and using days and times correctly in English. / Leer un horario simple y usar dias y horas correctamente.",
       "difficulty": "6",
       "images": [],
@@ -243,19 +243,19 @@
       "context": "Read: \"Andres has math class every day. He has science class only on Monday, Wednesday, and Friday. He has art class only on Tuesday.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "On Monday.",
           "is_correct": true,
           "feedback": "Math is every day, and science is on Monday, so both happen on Monday."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "On Tuesday.",
           "is_correct": false,
           "feedback": "Science is not on Tuesday; Andres has art class that day."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "On Thursday.",
           "is_correct": false,
           "feedback": "Science is not on Thursday, so he only has math that day."
@@ -267,7 +267,7 @@
           "feedback": "There is no class on Sunday, so no subject is scheduled."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Analyzing schedule information to find when two subjects happen on the same day. / Analizar un horario para hallar cuando dos asignaturas coinciden el mismo dia.",
       "difficulty": "8",
       "images": [],
@@ -289,31 +289,31 @@
       "context": "Compare two students: \"Valentina has five English classes every week, but Mateo has only two. Valentina also practices English at home.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Valentina has more English classes and practices at home.",
           "is_correct": true,
           "feedback": "Her extra classes and home practice explain her greater practice."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Mateo has five English classes and practices at home.",
           "is_correct": false,
           "feedback": "The text says Mateo has only two classes, not five."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Valentina has fewer English classes than Mateo.",
           "is_correct": false,
           "feedback": "The text says Valentina has more classes than Mateo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Neither Valentina nor Mateo studies English.",
           "is_correct": false,
           "feedback": "Both students have English classes, according to the text."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Comparing school schedules in English to explain differences in practice. / Comparar horarios en ingles para explicar diferencias de practica.",
       "difficulty": "8",
       "images": [],

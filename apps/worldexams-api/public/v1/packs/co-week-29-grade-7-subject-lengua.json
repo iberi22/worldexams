@@ -13,13 +13,13 @@
       "context": "Un estudiante en Santa Marta está leyendo un artículo sobre el clima. El texto incluye una tabla que muestra los meses del año en la primera columna y la temperatura promedio en la segunda columna.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Narrar una historia cronológica sobre el clima.",
           "is_correct": false,
           "feedback": "Las tablas no narran historias, organizan datos de manera sistemática."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Organizar datos numéricos o conceptos en filas y columnas para facilitar su consulta.",
           "is_correct": true,
           "feedback": "La estructura de filas y columnas permite comparar y localizar información rápidamente."
@@ -37,7 +37,7 @@
           "feedback": "Las tablas suelen presentar datos objetivos, no opiniones personales."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Las tablas son textos discontinuos que permiten una lectura no lineal. Su objetivo es la sistematización de la información para que el lector pueda establecer relaciones rápidas entre diferentes categorías (en este caso, meses y temperaturas).",
       "difficulty": "4",
       "images": [],
@@ -65,13 +65,13 @@
           "feedback": "El color diferencia las categorías, pero no indica cantidad por sí solo."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "La longitud o altura de la barra.",
           "is_correct": true,
           "feedback": "En un gráfico de barras, la altura representa la magnitud del dato, permitiendo una comparación visual inmediata."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El nombre de la ciudad en la base.",
           "is_correct": false,
           "feedback": "El nombre identifica el dato, pero la comparación se hace por la altura."
@@ -83,7 +83,7 @@
           "feedback": "El título indica de qué trata el gráfico, pero no muestra las diferencias entre los datos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Los gráficos de barras son herramientas visuales potentes para la comparación. La altura de las barras es una representación proporcional de los valores numéricos, lo que facilita la interpretación de tendencias y máximos.",
       "difficulty": "4",
       "images": [],
@@ -111,13 +111,13 @@
           "feedback": "El mango disminuyó de 50 a 45 kilos."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "La Papaya y el Lulo.",
           "is_correct": true,
           "feedback": "La papaya subió de 30 a 35 y el lulo de 20 a 25."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ninguna de las frutas.",
           "is_correct": false,
           "feedback": "Incorrecto, dos de ellas sí aumentaron sus ventas."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecto, el mango no aumentó."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La lectura literal de tablas implica localizar datos específicos en la intersección de filas y columnas y realizar comparaciones aritméticas básicas para extraer conclusiones directas.",
       "difficulty": "6",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "Quieres mostrar cómo ha cambiado el precio de la leche en Colombia durante los últimos cinco años, mes a mes.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Gráfico circular (de torta).",
           "is_correct": false,
           "feedback": "Este gráfico es para partes de un todo, no para líneas de tiempo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Gráfico de líneas.",
           "is_correct": true,
           "feedback": "El gráfico de líneas es ideal para mostrar tendencias, subidas y bajadas a lo largo de un período temporal."
@@ -221,7 +221,7 @@
           "feedback": "Una sola fila no permitiría ver la evolución de cinco años."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El gráfico de líneas conecta puntos de datos individuales que representan medidas sucesivas. La pendiente de las líneas ayuda al lector a visualizar la velocidad y dirección de los cambios en el tiempo.",
       "difficulty": "6",
       "images": [],
@@ -249,25 +249,25 @@
           "feedback": "Los datos muestran un cambio significativo, no estabilidad."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "La recolección de plástico en la capital aumentó más del doble entre 2024 y 2025.",
           "is_correct": true,
           "feedback": "250 es más del doble de 100, lo que hace que la conclusión sea exacta."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Los ciudadanos de Bogotá ya no usan plástico gracias a las nuevas leyes.",
           "is_correct": false,
           "feedback": "El gráfico informa sobre la recolección, no sobre el cese del uso."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "En 2025 se recolectó menos plástico que el año anterior.",
           "is_correct": false,
           "feedback": "Es lo opuesto a lo que indican las cifras."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Integrar la información de gráficos en un texto escrito requiere la habilidad de traducir datos visuales en afirmaciones lingüísticas precisas y coherentes con la magnitud de los números.",
       "difficulty": "8",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "En un folleto de salud, se presenta una tabla con los niveles de azúcar recomendados y, al lado, un gráfico de semáforo (rojo, amarillo, verde) indicando el nivel de riesgo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El gráfico repite exactamente la misma información numérica de la tabla.",
           "is_correct": false,
           "feedback": "El gráfico suele simplificar la información para una reacción rápida, no solo repetir números."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La tabla ofrece los datos precisos, mientras que el gráfico de semáforo permite una interpretación visual rápida del riesgo.",
           "is_correct": true,
           "feedback": "Esta combinación atiende a la necesidad de precisión y a la necesidad de comunicación inmediata."
@@ -313,7 +313,7 @@
           "feedback": "Ambos elementos están diseñados para el lector del folleto, reforzando el mensaje de salud."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La redundancia estratégica en textos multimodales (como usar una tabla y un gráfico juntos) asegura que el mensaje sea comprendido incluso si el lector solo presta atención a uno de los elementos.",
       "difficulty": "8",
       "images": [],
@@ -341,13 +341,13 @@
           "feedback": "El color es válido, pero la diferencia de ancho puede ser engañosa."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "El gráfico es inútil porque no incluye una fotografía de los hechos.",
           "is_correct": false,
           "feedback": "Un gráfico no necesita fotos para ser útil, necesita rigor en la representación."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El diseño visual busca exagerar la percepción del aumento mediante el uso del color y el grosor de las barras.",
           "is_correct": true,
           "feedback": "Las distorsiones visuales en los gráficos (como cambiar el ancho de las barras) pueden manipular la interpretación de los datos."
@@ -359,7 +359,7 @@
           "feedback": "El ancho no debería variar en un gráfico de barras estándar, solo la altura."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "La alfabetización visual incluye la capacidad de detectar manipulaciones gráficas. Un gráfico honesto debe mantener la proporcionalidad en todas sus dimensiones para no engañar al lector.",
       "difficulty": "8",
       "images": [],

@@ -13,19 +13,19 @@
       "context": "En un estudio financiero en Santa Marta, Juan calcula el interés compuesto mediante la función exponencial $f(t) = 5^{t - 1}$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "3",
           "is_correct": true,
           "feedback": "Correcto. Como $25 = 5^{2}$, igualamos exponentes: $t - 1 = 2 \\implies t = 3$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "2",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste sumar 1 al exponente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "5",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste incorrectamente las bases."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Ese valor hace que la potencia sea igual a 1."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Expresando ambos lados en la misma base: $5^{t - 1} = 5^{2}$. Al igualar exponentes, $t - 1 = 2 \\implies t = 2 + 1 = 3$.",
       "difficulty": "4",
       "images": [],
@@ -59,19 +59,19 @@
       "context": "En un estudio financiero en Pasto, Camila calcula el interés compuesto mediante la función exponencial $f(t) = 2^{t - 2}$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "5",
           "is_correct": true,
           "feedback": "Correcto. Como $8 = 2^{3}$, igualamos exponentes: $t - 2 = 3 \\implies t = 5$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "3",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste sumar 2 al exponente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "7",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste incorrectamente las bases."
@@ -83,7 +83,7 @@
           "feedback": "Incorrecto. Ese valor hace que la potencia sea igual a 1."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Expresando ambos lados en la misma base: $2^{t - 2} = 2^{3}$. Al igualar exponentes, $t - 2 = 3 \\implies t = 3 + 2 = 5$.",
       "difficulty": "4",
       "images": [],
@@ -105,31 +105,31 @@
       "context": "En un estudio financiero en Bogotá, Alejandro calcula el interés compuesto mediante la función exponencial $f(t) = 5^{t - 3}$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "4",
           "is_correct": true,
           "feedback": "Correcto. Como $5 = 5^{1}$, igualamos exponentes: $t - 3 = 1 \\implies t = 4$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "1",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste sumar 3 al exponente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "6",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste incorrectamente las bases."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "3",
           "is_correct": false,
           "feedback": "Incorrecto. Ese valor hace que la potencia sea igual a 1."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Expresando ambos lados en la misma base: $5^{t - 3} = 5^{1}$. Al igualar exponentes, $t - 3 = 1 \\implies t = 1 + 3 = 4$.",
       "difficulty": "4",
       "images": [],
@@ -197,19 +197,19 @@
       "context": "En un estudio financiero en Cali, Mateo calcula el interés compuesto mediante la función exponencial $f(t) = 5^{t - 5}$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "8",
           "is_correct": true,
           "feedback": "Correcto. Como $125 = 5^{3}$, igualamos exponentes: $t - 5 = 3 \\implies t = 8$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "3",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste sumar 5 al exponente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "10",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste incorrectamente las bases."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto. Ese valor hace que la potencia sea igual a 1."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Expresando ambos lados en la misma base: $5^{t - 5} = 5^{3}$. Al igualar exponentes, $t - 5 = 3 \\implies t = 3 + 5 = 8$.",
       "difficulty": "6",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "En un estudio financiero en Barranquilla, Sofia calcula el interés compuesto mediante la función exponencial $f(t) = 2^{t - 6}$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "7",
           "is_correct": true,
           "feedback": "Correcto. Como $2 = 2^{1}$, igualamos exponentes: $t - 6 = 1 \\implies t = 7$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "1",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste sumar 6 al exponente."
@@ -267,7 +267,7 @@
           "feedback": "Incorrecto. Ese valor hace que la potencia sea igual a 1."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Expresando ambos lados en la misma base: $2^{t - 6} = 2^{1}$. Al igualar exponentes, $t - 6 = 1 \\implies t = 1 + 6 = 7$.",
       "difficulty": "6",
       "images": [],
@@ -289,19 +289,19 @@
       "context": "En un estudio financiero en Bucaramanga, Diego calcula el interés compuesto mediante la función exponencial $f(t) = 5^{t - 7}$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "9",
           "is_correct": true,
           "feedback": "Correcto. Como $25 = 5^{2}$, igualamos exponentes: $t - 7 = 2 \\implies t = 9$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "2",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste sumar 7 al exponente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "11",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste incorrectamente las bases."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecto. Ese valor hace que la potencia sea igual a 1."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Expresando ambos lados en la misma base: $5^{t - 7} = 5^{2}$. Al igualar exponentes, $t - 7 = 2 \\implies t = 2 + 7 = 9$.",
       "difficulty": "6",
       "images": [],
@@ -335,13 +335,13 @@
       "context": "En un estudio financiero en Cartagena, Valentina calcula el interés compuesto mediante la función exponencial $f(t) = 2^{t - 8}$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "11",
           "is_correct": true,
           "feedback": "Correcto. Como $8 = 2^{3}$, igualamos exponentes: $t - 8 = 3 \\implies t = 11$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "3",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste sumar 8 al exponente."
@@ -359,7 +359,7 @@
           "feedback": "Incorrecto. Ese valor hace que la potencia sea igual a 1."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Expresando ambos lados en la misma base: $2^{t - 8} = 2^{3}$. Al igualar exponentes, $t - 8 = 3 \\implies t = 3 + 8 = 11$.",
       "difficulty": "6",
       "images": [],
@@ -427,31 +427,31 @@
       "context": "En un estudio financiero en Manizales, Mariana calcula el interés compuesto mediante la función exponencial $f(t) = 2^{t - 10}$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "12",
           "is_correct": true,
           "feedback": "Correcto. Como $4 = 2^{2}$, igualamos exponentes: $t - 10 = 2 \\implies t = 12$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "2",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste sumar 10 al exponente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "14",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste incorrectamente las bases."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "10",
           "is_correct": false,
           "feedback": "Incorrecto. Ese valor hace que la potencia sea igual a 1."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Expresando ambos lados en la misma base: $2^{t - 10} = 2^{2}$. Al igualar exponentes, $t - 10 = 2 \\implies t = 2 + 10 = 12$.",
       "difficulty": "6",
       "images": [],
@@ -473,31 +473,31 @@
       "context": "En un estudio financiero en Santa Marta, Juan calcula el interés compuesto mediante la función exponencial $f(t) = 5^{t - 11}$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "14",
           "is_correct": true,
           "feedback": "Correcto. Como $125 = 5^{3}$, igualamos exponentes: $t - 11 = 3 \\implies t = 14$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "3",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste sumar 11 al exponente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "16",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste incorrectamente las bases."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "11",
           "is_correct": false,
           "feedback": "Incorrecto. Ese valor hace que la potencia sea igual a 1."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Expresando ambos lados en la misma base: $5^{t - 11} = 5^{3}$. Al igualar exponentes, $t - 11 = 3 \\implies t = 3 + 11 = 14$.",
       "difficulty": "8",
       "images": [],
@@ -565,13 +565,13 @@
       "context": "En un estudio financiero en Bogotá, Alejandro calcula el interés compuesto mediante la función exponencial $f(t) = 5^{t - 13}$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "15",
           "is_correct": true,
           "feedback": "Correcto. Como $25 = 5^{2}$, igualamos exponentes: $t - 13 = 2 \\implies t = 15$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "2",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste sumar 13 al exponente."
@@ -589,7 +589,7 @@
           "feedback": "Incorrecto. Ese valor hace que la potencia sea igual a 1."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Expresando ambos lados en la misma base: $5^{t - 13} = 5^{2}$. Al igualar exponentes, $t - 13 = 2 \\implies t = 2 + 13 = 15$.",
       "difficulty": "8",
       "images": [],
@@ -611,19 +611,19 @@
       "context": "En un estudio financiero en Medellín, Isabella calcula el interés compuesto mediante la función exponencial $f(t) = 2^{t - 14}$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "17",
           "is_correct": true,
           "feedback": "Correcto. Como $8 = 2^{3}$, igualamos exponentes: $t - 14 = 3 \\implies t = 17$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "3",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste sumar 14 al exponente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "19",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste incorrectamente las bases."
@@ -635,7 +635,7 @@
           "feedback": "Incorrecto. Ese valor hace que la potencia sea igual a 1."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Expresando ambos lados en la misma base: $2^{t - 14} = 2^{3}$. Al igualar exponentes, $t - 14 = 3 \\implies t = 3 + 14 = 17$.",
       "difficulty": "8",
       "images": [],
@@ -657,31 +657,31 @@
       "context": "En un estudio financiero en Cali, Mateo calcula el interés compuesto mediante la función exponencial $f(t) = 5^{t - 15}$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "16",
           "is_correct": true,
           "feedback": "Correcto. Como $5 = 5^{1}$, igualamos exponentes: $t - 15 = 1 \\implies t = 16$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "1",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste sumar 15 al exponente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "18",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste incorrectamente las bases."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "15",
           "is_correct": false,
           "feedback": "Incorrecto. Ese valor hace que la potencia sea igual a 1."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Expresando ambos lados en la misma base: $5^{t - 15} = 5^{1}$. Al igualar exponentes, $t - 15 = 1 \\implies t = 1 + 15 = 16$.",
       "difficulty": "8",
       "images": [],
@@ -703,13 +703,13 @@
       "context": "En un estudio financiero en Barranquilla, Sofia calcula el interés compuesto mediante la función exponencial $f(t) = 2^{t - 16}$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "18",
           "is_correct": true,
           "feedback": "Correcto. Como $4 = 2^{2}$, igualamos exponentes: $t - 16 = 2 \\implies t = 18$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "2",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste sumar 16 al exponente."
@@ -727,7 +727,7 @@
           "feedback": "Incorrecto. Ese valor hace que la potencia sea igual a 1."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Expresando ambos lados en la misma base: $2^{t - 16} = 2^{2}$. Al igualar exponentes, $t - 16 = 2 \\implies t = 2 + 16 = 18$.",
       "difficulty": "8",
       "images": [],
@@ -749,31 +749,31 @@
       "context": "En un estudio financiero en Bucaramanga, Diego calcula el interés compuesto mediante la función exponencial $f(t) = 5^{t - 17}$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "20",
           "is_correct": true,
           "feedback": "Correcto. Como $125 = 5^{3}$, igualamos exponentes: $t - 17 = 3 \\implies t = 20$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "3",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste sumar 17 al exponente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "22",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste incorrectamente las bases."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "17",
           "is_correct": false,
           "feedback": "Incorrecto. Ese valor hace que la potencia sea igual a 1."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Expresando ambos lados en la misma base: $5^{t - 17} = 5^{3}$. Al igualar exponentes, $t - 17 = 3 \\implies t = 3 + 17 = 20$.",
       "difficulty": "10",
       "images": [],
@@ -841,19 +841,19 @@
       "context": "En un estudio financiero en Pereira, Santiago calcula el interés compuesto mediante la función exponencial $f(t) = 5^{t - 19}$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "21",
           "is_correct": true,
           "feedback": "Correcto. Como $25 = 5^{2}$, igualamos exponentes: $t - 19 = 2 \\implies t = 21$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "2",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste sumar 19 al exponente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "23",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste incorrectamente las bases."
@@ -865,7 +865,7 @@
           "feedback": "Incorrecto. Ese valor hace que la potencia sea igual a 1."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Expresando ambos lados en la misma base: $5^{t - 19} = 5^{2}$. Al igualar exponentes, $t - 19 = 2 \\implies t = 2 + 19 = 21$.",
       "difficulty": "10",
       "images": [],

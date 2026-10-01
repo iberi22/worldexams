@@ -58,13 +58,13 @@
       "context": "Leyes de los gases ideales y procesos termodinámicos Caso N° 2.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Volumen final = $5,00\\text{ L}$",
           "is_correct": true,
           "feedback": "Correcto. Ley de Boyle: $P_1 V_1 = P_2 V_2 \\Rightarrow 1 \\cdot 20 = 4 \\cdot V_2 \\Rightarrow V_2 = 5,00\\text{ L}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Volumen final = $80,00\\text{ L}$",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicó en vez de dividir la relación inversamente proporcional."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. Valor fijo arbitrario fuera de cálculo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Por la Ley de Boyle-Mariotte, $P_1 V_1 = P_2 V_2 \\Rightarrow V_2 = \\frac{1 \\cdot 20}{4} = 5,00\\text{ L}$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -103,13 +103,13 @@
       "context": "Leyes de los gases ideales y procesos termodinámicos Caso N° 3.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Volumen final = $5,00\\text{ L}$",
           "is_correct": true,
           "feedback": "Correcto. Ley de Boyle: $P_1 V_1 = P_2 V_2 \\Rightarrow 1 \\cdot 30 = 6 \\cdot V_2 \\Rightarrow V_2 = 5,00\\text{ L}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Volumen final = $180,00\\text{ L}$",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicó en vez de dividir la relación inversamente proporcional."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. Valor fijo arbitrario fuera de cálculo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Por la Ley de Boyle-Mariotte, $P_1 V_1 = P_2 V_2 \\Rightarrow V_2 = \\frac{1 \\cdot 30}{6} = 5,00\\text{ L}$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,19 +148,19 @@
       "context": "Leyes de los gases ideales y procesos termodinámicos Caso N° 4.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Volumen final = $5,00\\text{ L}$",
           "is_correct": true,
           "feedback": "Correcto. Ley de Boyle: $P_1 V_1 = P_2 V_2 \\Rightarrow 1 \\cdot 40 = 8 \\cdot V_2 \\Rightarrow V_2 = 5,00\\text{ L}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Volumen final = $320,00\\text{ L}$",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicó en vez de dividir la relación inversamente proporcional."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Volumen final = $48,00\\text{ L}$",
           "is_correct": false,
           "feedback": "Incorrecto. Sumó los parámetros en vez de aplicar la regla proporcional."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. Valor fijo arbitrario fuera de cálculo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Por la Ley de Boyle-Mariotte, $P_1 V_1 = P_2 V_2 \\Rightarrow V_2 = \\frac{1 \\cdot 40}{8} = 5,00\\text{ L}$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -193,31 +193,31 @@
       "context": "Leyes de los gases ideales y procesos termodinámicos Caso N° 5.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Volumen final = $5,00\\text{ L}$",
           "is_correct": true,
           "feedback": "Correcto. Ley de Boyle: $P_1 V_1 = P_2 V_2 \\Rightarrow 1 \\cdot 50 = 10 \\cdot V_2 \\Rightarrow V_2 = 5,00\\text{ L}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Volumen final = $500,00\\text{ L}$",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicó en vez de dividir la relación inversamente proporcional."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Volumen final = $60,00\\text{ L}$",
           "is_correct": false,
           "feedback": "Incorrecto. Sumó los parámetros en vez de aplicar la regla proporcional."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Volumen final = $0,1\\text{ L}$",
           "is_correct": false,
           "feedback": "Incorrecto. Valor fijo arbitrario fuera de cálculo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Por la Ley de Boyle-Mariotte, $P_1 V_1 = P_2 V_2 \\Rightarrow V_2 = \\frac{1 \\cdot 50}{10} = 5,00\\text{ L}$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -283,31 +283,31 @@
       "context": "Leyes de los gases ideales y procesos termodinámicos Caso N° 7.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Volumen final = $5,00\\text{ L}$",
           "is_correct": true,
           "feedback": "Correcto. Ley de Boyle: $P_1 V_1 = P_2 V_2 \\Rightarrow 1 \\cdot 70 = 14 \\cdot V_2 \\Rightarrow V_2 = 5,00\\text{ L}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Volumen final = $980,00\\text{ L}$",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicó en vez de dividir la relación inversamente proporcional."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Volumen final = $84,00\\text{ L}$",
           "is_correct": false,
           "feedback": "Incorrecto. Sumó los parámetros en vez de aplicar la regla proporcional."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Volumen final = $0,1\\text{ L}$",
           "is_correct": false,
           "feedback": "Incorrecto. Valor fijo arbitrario fuera de cálculo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Por la Ley de Boyle-Mariotte, $P_1 V_1 = P_2 V_2 \\Rightarrow V_2 = \\frac{1 \\cdot 70}{14} = 5,00\\text{ L}$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -553,19 +553,19 @@
       "context": "Leyes de los gases ideales y procesos termodinámicos Caso N° 13.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Volumen final = $5,00\\text{ L}$",
           "is_correct": true,
           "feedback": "Correcto. Ley de Boyle: $P_1 V_1 = P_2 V_2 \\Rightarrow 1 \\cdot 130 = 26 \\cdot V_2 \\Rightarrow V_2 = 5,00\\text{ L}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Volumen final = $3380,00\\text{ L}$",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicó en vez de dividir la relación inversamente proporcional."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Volumen final = $156,00\\text{ L}$",
           "is_correct": false,
           "feedback": "Incorrecto. Sumó los parámetros en vez de aplicar la regla proporcional."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. Valor fijo arbitrario fuera de cálculo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Por la Ley de Boyle-Mariotte, $P_1 V_1 = P_2 V_2 \\Rightarrow V_2 = \\frac{1 \\cdot 130}{26} = 5,00\\text{ L}$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -643,19 +643,19 @@
       "context": "Leyes de los gases ideales y procesos termodinámicos Caso N° 15.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Volumen final = $5,00\\text{ L}$",
           "is_correct": true,
           "feedback": "Correcto. Ley de Boyle: $P_1 V_1 = P_2 V_2 \\Rightarrow 1 \\cdot 150 = 30 \\cdot V_2 \\Rightarrow V_2 = 5,00\\text{ L}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Volumen final = $4500,00\\text{ L}$",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicó en vez de dividir la relación inversamente proporcional."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Volumen final = $180,00\\text{ L}$",
           "is_correct": false,
           "feedback": "Incorrecto. Sumó los parámetros en vez de aplicar la regla proporcional."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. Valor fijo arbitrario fuera de cálculo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Por la Ley de Boyle-Mariotte, $P_1 V_1 = P_2 V_2 \\Rightarrow V_2 = \\frac{1 \\cdot 150}{30} = 5,00\\text{ L}$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -688,31 +688,31 @@
       "context": "Leyes de los gases ideales y procesos termodinámicos Caso N° 16.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Volumen final = $5,00\\text{ L}$",
           "is_correct": true,
           "feedback": "Correcto. Ley de Boyle: $P_1 V_1 = P_2 V_2 \\Rightarrow 1 \\cdot 160 = 32 \\cdot V_2 \\Rightarrow V_2 = 5,00\\text{ L}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Volumen final = $5120,00\\text{ L}$",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicó en vez de dividir la relación inversamente proporcional."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Volumen final = $192,00\\text{ L}$",
           "is_correct": false,
           "feedback": "Incorrecto. Sumó los parámetros en vez de aplicar la regla proporcional."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Volumen final = $0,1\\text{ L}$",
           "is_correct": false,
           "feedback": "Incorrecto. Valor fijo arbitrario fuera de cálculo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Por la Ley de Boyle-Mariotte, $P_1 V_1 = P_2 V_2 \\Rightarrow V_2 = \\frac{1 \\cdot 160}{32} = 5,00\\text{ L}$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -733,13 +733,13 @@
       "context": "Leyes de los gases ideales y procesos termodinámicos Caso N° 17.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Volumen final = $5,00\\text{ L}$",
           "is_correct": true,
           "feedback": "Correcto. Ley de Boyle: $P_1 V_1 = P_2 V_2 \\Rightarrow 1 \\cdot 170 = 34 \\cdot V_2 \\Rightarrow V_2 = 5,00\\text{ L}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Volumen final = $5780,00\\text{ L}$",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicó en vez de dividir la relación inversamente proporcional."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. Valor fijo arbitrario fuera de cálculo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Por la Ley de Boyle-Mariotte, $P_1 V_1 = P_2 V_2 \\Rightarrow V_2 = \\frac{1 \\cdot 170}{34} = 5,00\\text{ L}$.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -778,31 +778,31 @@
       "context": "Leyes de los gases ideales y procesos termodinámicos Caso N° 18.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Volumen final = $5,00\\text{ L}$",
           "is_correct": true,
           "feedback": "Correcto. Ley de Boyle: $P_1 V_1 = P_2 V_2 \\Rightarrow 1 \\cdot 180 = 36 \\cdot V_2 \\Rightarrow V_2 = 5,00\\text{ L}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Volumen final = $6480,00\\text{ L}$",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicó en vez de dividir la relación inversamente proporcional."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Volumen final = $216,00\\text{ L}$",
           "is_correct": false,
           "feedback": "Incorrecto. Sumó los parámetros en vez de aplicar la regla proporcional."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Volumen final = $0,1\\text{ L}$",
           "is_correct": false,
           "feedback": "Incorrecto. Valor fijo arbitrario fuera de cálculo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Por la Ley de Boyle-Mariotte, $P_1 V_1 = P_2 V_2 \\Rightarrow V_2 = \\frac{1 \\cdot 180}{36} = 5,00\\text{ L}$.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -823,13 +823,13 @@
       "context": "Leyes de los gases ideales y procesos termodinámicos Caso N° 19.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Volumen final = $5,00\\text{ L}$",
           "is_correct": true,
           "feedback": "Correcto. Ley de Boyle: $P_1 V_1 = P_2 V_2 \\Rightarrow 1 \\cdot 190 = 38 \\cdot V_2 \\Rightarrow V_2 = 5,00\\text{ L}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Volumen final = $7220,00\\text{ L}$",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicó en vez de dividir la relación inversamente proporcional."
@@ -847,7 +847,7 @@
           "feedback": "Incorrecto. Valor fijo arbitrario fuera de cálculo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Por la Ley de Boyle-Mariotte, $P_1 V_1 = P_2 V_2 \\Rightarrow V_2 = \\frac{1 \\cdot 190}{38} = 5,00\\text{ L}$.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -868,13 +868,13 @@
       "context": "Leyes de los gases ideales y procesos termodinámicos Caso N° 20.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Volumen final = $5,00\\text{ L}$",
           "is_correct": true,
           "feedback": "Correcto. Ley de Boyle: $P_1 V_1 = P_2 V_2 \\Rightarrow 1 \\cdot 200 = 40 \\cdot V_2 \\Rightarrow V_2 = 5,00\\text{ L}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Volumen final = $8000,00\\text{ L}$",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicó en vez de dividir la relación inversamente proporcional."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. Valor fijo arbitrario fuera de cálculo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Por la Ley de Boyle-Mariotte, $P_1 V_1 = P_2 V_2 \\Rightarrow V_2 = \\frac{1 \\cdot 200}{40} = 5,00\\text{ L}$.",
       "difficulty": "10",
       "images": [],

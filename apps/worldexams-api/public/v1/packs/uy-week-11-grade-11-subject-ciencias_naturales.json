@@ -13,31 +13,31 @@
       "context": "En una salida de campo del Liceo de Castillos a los humedales de Rocha, las y los estudiantes cuantificaron el número de carpinchos (*Hydrochoerus hydrochaeris*) por kilómetro cuadrado.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Densidad poblacional.",
           "is_correct": true,
           "feedback": "Correcto. La densidad poblacional mide la abundancia de individuos en relación a la superficie o volumen ocupado."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Capacidad de carga ecosistémica.",
           "is_correct": false,
           "feedback": "Incorrecto. La capacidad de carga se refiere al límite máximo sustentable de población en un hábitat."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Nicho ecológico fundamental.",
           "is_correct": false,
           "feedback": "Incorrecto. El nicho ecológico describe la función y rango de condiciones que requiere una especie."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Tasa intrínseca de natalidad.",
           "is_correct": false,
           "feedback": "Incorrecto. La tasa de natalidad indica la proporción de nacimientos en la población por unidad de tiempo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La densidad poblacional es la variable cuantitativa que relaciona la abundancia total de organismos con el espacio que habitan en un ecosistema dado.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -109,13 +109,13 @@
           "feedback": "Incorrecto. En el comensalismo, una especie se beneficia y la otra permanece neutral sin perjuicio ni beneficio."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Mutualismo.",
           "is_correct": true,
           "feedback": "Correcto. El mutualismo es la interacción biológica en la que ambos simbiontes obtienen ventajas fisiológicas y reproductivas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Amensalismo.",
           "is_correct": false,
           "feedback": "Incorrecto. En el amensalismo, una especie resulta perjudicada mientras que la otra no se ve afectada."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. En el parasitismo, un organismo se beneficia a expensas de causar daño al huésped."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El mutualismo entre el hongo (que brinda estructura y retención de humedad) y el alga (que aporta fotoasimilados) permite la colonización de sustratos inhóspitos.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,13 +148,13 @@
       "context": "En la Laguna Garzón conviven diversas aves acuáticas: el flamenco austral filtra pequeños invertebrados en la columna de agua, mientras que el chajá consume vegetación emergente en la orilla.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Tienen el mismo nicho ecológico y comparten idéntico nivel trófico.",
           "is_correct": false,
           "feedback": "Incorrecto. Si tuviesen el mismo nicho ecológico entrarían en competencia directa según el principio de Gause."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Ocupan el mismo hábitat pero poseen diferentes nichos ecológicos.",
           "is_correct": true,
           "feedback": "Correcto. Comparten el espacio físico (hábitat), pero difieren en su dieta, comportamiento y uso de recursos (nicho)."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. La diferenciación de nicho no depende de tener idéntica capacidad de carga o mortalidad."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El hábitat es la 'dirección' física donde viven las especies, mientras que el nicho ecológico es su 'profesión' o función ecológica. La diferenciación de nicho permite la coexistencia.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -244,25 +244,25 @@
           "feedback": "Incorrecto. La escasez de recursos disminuye la natalidad y reduce la tasa de incremento $r$."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Reducción en la densidad o desplazamiento del nicho de la especie competitivamente inferior.",
           "is_correct": true,
           "feedback": "Correcto. La competencia interespecífica severa provoca disminución poblacional o divergencia en el uso del recurso."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Transformación del proceso competitivo en un parasitismo recíproco obligatorio.",
           "is_correct": false,
           "feedback": "Incorrecto. Las interacciones competitivas no se convierten espontáneamente en parasitismo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Inexistencia de selección natural ya que el recurso es abiótico.",
           "is_correct": false,
           "feedback": "Incorrecto. El alimento es un recurso vital y actúa como presión selectiva directa."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La competencia por recursos limitados impone resistencia ambiental, reduciendo la aptitud biológica (*fitness*) de una o ambas poblaciones contendientes.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -289,13 +289,13 @@
           "feedback": "Incorrecto. El depredador aumenta su población en respuesta al incremento previo de presas, no antes."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Las oscilaciones de la población de depredadores siguen en fase con un desfase temporal a las de la presa.",
           "is_correct": true,
           "feedback": "Correcto. Al aumentar las presas aumenta la comida para el depredador; tras subir los depredadores, caen las presas y subsecuentemente los depredadores."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ambas poblaciones crecen de forma exponencial indefinida sin afectar sus densidades.",
           "is_correct": false,
           "feedback": "Incorrecto. Las interacciones tróficas imponen límites denso-dependientes que generan oscilaciones."
@@ -307,7 +307,7 @@
           "feedback": "Incorrecto. En sistemas estables, presa y depredador coexisten mediante ciclos acoplados."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Las dinámicas depredador-presa acopladas exhiben ciclos desfasados: el aumento de presas incrementa la natalidad de depredadores, cuyo consumo excesivo causa la posterior declinación de la presa.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -424,25 +424,25 @@
           "feedback": "Incorrecto. La sucesión primaria ocurre sobre sustratos sin suelo previo, como rocas desnudas o lava."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Sucesión ecológica secundaria iniciada por especies vegetales pioneras herbáceas y gramíneas.",
           "is_correct": true,
           "feedback": "Correcto. Al permanecer el suelo con su banco de semillas y materia orgánica, ocurre una sucesión secundaria con rápida colonización de herbáceas pioneras."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Clímax ecológico inmediato dominado por líquenes y musgos primitivos.",
           "is_correct": false,
           "feedback": "Incorrecto. El clímax es el estado final de estabilidad, no la etapa inicial tras una perturbación."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Desertificación irreversible sin reemplazo de especies en la comunidad.",
           "is_correct": false,
           "feedback": "Incorrecto. La presencia de suelo estructurado permite el desarrollo de la sucesión secundaria."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La sucesión secundaria ocurre tras una perturbación en ecosistemas donde el suelo biológicamente activo permanece intacto, permitiendo la colonización acelerada por plantas pioneras.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -463,13 +463,13 @@
       "context": "Un equipo de investigación de la Facultad de Ciencias evalúa la supervivencia de tres cohortes de animales nativos: mamíferos grandes (venado), aves rapaces y anfíbios.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Curva Tipo I: alta supervivencia en etapas juveniles y adultas, con mortalidad concentrada en edades avanzadas.",
           "is_correct": true,
           "feedback": "Correcto. La curva Tipo I es típica de mamíferos que cuidan a sus crías, teniendo baja mortalidad juvenil."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Curva Tipo III: altísima mortalidad en estadios tempranos y tasa constante en la madurez.",
           "is_correct": false,
           "feedback": "Incorrecto. La curva Tipo III es típica de invertebrados y peces sin cuidado parental."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto. La mortalidad aumenta al llegar a la senescencia en todos los organismos vivos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Las curvas de supervivencia reflejan la historia de vida: el Tipo I (humanos, venados) invierte en pocas crías con alta supervivencia juvenil, desplomándose en la vejez.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -598,13 +598,13 @@
       "context": "En el área protegida Quebrada de los Cuervos (Treinta y Tres), un estudio demográfico de un mamífero autóctono revela una estructura de edades con una base extremadamente estrecha y un centro ancho.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La población está en una fase de rápida expansión demográfica por alto reclutamiento de juveniles.",
           "is_correct": false,
           "feedback": "Incorrecto. Una base estrecha indica pocos individuos juveniles (baja natalidad o reclutamiento)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La población está envejeciendo y en proceso de declive, con un bajo reemplazo generacional.",
           "is_correct": true,
           "feedback": "Correcto. La escasez de individuos jóvenes frente a adultos maduros presagia una reducción poblacional futura por bajo reemplazo."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. El envejecimiento y bajo reclutamiento impiden el crecimiento exponencial."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Una pirámide poblacional con base estrecha indica un déficit en las cohortes juveniles, lo que se traduce en un envejecimiento poblacional y potencial decrecimiento demográfico.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -694,13 +694,13 @@
           "feedback": "Incorrecto. La fragmentación interrumpe los corredores biológicos y reduce el flujo génico."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Altera las condiciones microclimáticas de las orillas y facilita la invasión de especies oportunistas o depredadores.",
           "is_correct": true,
           "feedback": "Correcto. El efecto borde modifica la luz, humedad y viento en los márgenes, aumentando la vulnerabilidad de especies especialista de interior."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Eleva la capacidad de carga $K$ de todas las especies autóctonas especialistas.",
           "is_correct": false,
           "feedback": "Incorrecto. El microhábitat de interior se reduce, disminuyendo la capacidad de carga para especies sensibles."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. Las poblaciones pequeñas en parches fragmentados sufren mayor deriva genética e inbreeding."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El efecto borde altera la temperatura, radiación y desecación en los límites de los fragmentos, reduciendo el área efectiva disponible para especies especialista del interior.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -733,13 +733,13 @@
       "context": "Considerás la ecuación de crecimiento logístico $\\frac{dN}{dt} = r N \\left(1 - \\frac{N}{K}\\right)$. En una población de venados donde $N = 800$ individuos y $K = 1000$ individuos con $r = 0{,}1\\text{ año}^{-1}$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$\\frac{dN}{dt} = -26{,}67\\text{ ind/año}$; la población decrecerá hasta ajustarse a la nueva capacidad de carga de 600.",
           "is_correct": true,
           "feedback": "Correcto. Sustituyendo $N=800$ y $K=600$: $\\frac{dN}{dt} = 0{,}1 \\cdot 800 \\cdot (1 - 800/600) = 80 \\cdot (-1/3) = -26{,}67\\text{ ind/año}$. Al ser negativo, la población disminuye."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\frac{dN}{dt} = +16{,}00\\text{ ind/año}$; la población continuará creciendo hacia 1000 individuos.",
           "is_correct": false,
           "feedback": "Incorrecto. Si $N > K$, el término $(1 - N/K)$ resulta negativo y la tasa de cambio es negativa."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. La tasa calculada numéricamente es $-26{,}67\\text{ ind/año}$, no $-80$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Cuando $N > K$, la resistencia ambiental supera la tasa de reemplazo, $(1 - N/K) < 0$, generando una tasa de crecimiento negativa que reduce $N$ hasta estabilizarse en el nuevo límite $K$.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -778,13 +778,13 @@
       "context": "En la cuenca del Río Negro, la remoción histórica del depredador tope desató una cascada trófica de tipo 'top-down' sobre los herbívoros (carpinchos y venados) y la vegetación de ribera.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Disminución de los herbívoros y aumento drástico de la biomasa de los productores primarios.",
           "is_correct": false,
           "feedback": "Incorrecto. Sin depredador, los herbívoros aumentan, lo que incrementa el consumo de vegetación primaria."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Aumento descontrolado de herbívoros (liberación de la depredación) y sobrepastoreo destructivo de los productores primarios.",
           "is_correct": true,
           "feedback": "Correcto. La pérdida del depredador ápice libera a los herbívoros de la regulación superior, provocando sobrepastoreo y degradación de la flora."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. El sobrepastoreo reduce la diversidad florística y altera la estructura del ecosistema."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Las cascadas tróficas descendentes (*top-down*) muestran cómo la regulación por depredadores superiores evita que los herbívoros agoten los productores primarios.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -829,25 +829,25 @@
           "feedback": "Incorrecto. Este es el mecanismo de retroalimentación que mantiene el estado claro, no el turbio."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "El fitoplancton en alta densidad sombrea el fondo impidiendo la fotosíntesis de macrófitas, lo que resuspende sedimentos y libera más nutrientes para las algas.",
           "is_correct": true,
           "feedback": "Correcto. La turbidez bloquea la luz para las plantas arraigadas; al morir estas, el viento resuspende sedimento y recicla fósforo, perpetuando la turbidez."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El aumento de luz solar en el fondo estimula la fijación de nitrógeno por plantas sumergidas.",
           "is_correct": false,
           "feedback": "Incorrecto. En el estado turbio la luz no penetra hasta el fondo debido a la biomasa algal."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Los peces herbívoros consumen todo el fitoplancton aclarando el agua cíclicamente.",
           "is_correct": false,
           "feedback": "Incorrecto. En estados turbios suele haber dominancia de peces zooplanctívoros o bentívoros que agravan la turbidez."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Los cambios de estado en ecosistemas lénticos eutrofizados responden a histeresis y bucles de retroalimentación positiva que estabilizan el estado turbio indeseado.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -874,25 +874,25 @@
           "feedback": "Incorrecto. La dominancia extrema por especies tolerantes indica perturbación orgánica y baja biodiversidad."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "El Arroyo A posee alta diversidad y equitabilidad en la distribución de abundancias, reflejando menor perturbación ambiental que el Arroyo B.",
           "is_correct": true,
           "feedback": "Correcto. Valores elevados de $H'$ y $J'$ indican una comunidad rica con abundancias repartidas de forma pareja, típica de sistemas poco contaminados."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ambos arroyos presentan idéntico grado de estrés ecológico ya que el índice de Shannon no depende de la riqueza de especies.",
           "is_correct": false,
           "feedback": "Incorrecto. $H'$ integra riqueza y equitabilidad; sus valores contrastantes (3,2 vs 1,1) demuestran condiciones ecológicas muy distintas."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El Arroyo A está desprovisto de nichos ecológicos al no haber una especie claramente dominante.",
           "is_correct": false,
           "feedback": "Incorrecto. La elevada equitabilidad revela una red trófica compleja con múltiples nichos ocupados."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El índice de Shannon-Wiener ($H'$) y la equitabilidad de Pielou ($J'$) miden la complejidad y estructura comunitaria; valores bajos indican estrés ambiental y dominancia por especies resistentes.\n\n---",
       "difficulty": "10",
       "images": [],

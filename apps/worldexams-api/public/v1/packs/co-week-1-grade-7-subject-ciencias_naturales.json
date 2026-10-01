@@ -59,13 +59,13 @@
       "context": "En Medellín, se analiza la función de la membrana celular formada por una bicapa fosfolipídica con proteínas sumergidas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Permeabilidad selectiva (semipermeabilidad)",
           "is_correct": true,
           "feedback": "Correcto. Controla el transporte de solutos e iones adentro y afuera de la célula."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Impermeabilidad total",
           "is_correct": false,
           "feedback": "Incorrecto. Si fuera totalmente impermeable, la célula moriría sin intercambio."
@@ -83,7 +83,7 @@
           "feedback": "Incorrecto. La membrana es fluida (modelo de mosaico fluido)."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La membrana plasmática posee permeabilidad selectiva para regular la homeostasis celular interna.",
       "difficulty": "4",
       "images": [],
@@ -105,13 +105,13 @@
       "context": "En Cali, se colocan glóbulos rojos (eritrocitos) en un recipiente con agua destilada (solución fuertemente hipotónica).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Entrará agua masivamente a la célula provocando su hinchamiento y lisis (citólisis).",
           "is_correct": true,
           "feedback": "Correcto. El agua fluye hacia el medio con mayor concentración de solutos (interior celular)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Saldrá agua de la célula provocando su arrugamiento (crenación).",
           "is_correct": false,
           "feedback": "Incorrecto. La crenación ocurre en soluciones hipertónicas."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecto. Los eritrocitos son células animales sin cloroplastos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "En solución hipotónica, el agua entra a favor del gradiente osmótico provocando citólisis por lisis celular.",
       "difficulty": "6",
       "images": [],
@@ -151,19 +151,19 @@
       "context": "En Barranquilla, se estudia una célula muscular humana que requiere consumir grandes cantidades de ATP para la contracción continua.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Mitocondrias",
           "is_correct": true,
           "feedback": "Correcto. Producen el ATP requerido mediante la respiración celular aerobia."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Vacuolas centrales",
           "is_correct": false,
           "feedback": "Incorrecto. Las vacuolas centrales turgentes son propias de plantas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ribosomas libres exclusivamente",
           "is_correct": false,
           "feedback": "Incorrecto. Los ribosomas sintetizan proteínas, no producen ATP directamente."
@@ -175,7 +175,7 @@
           "feedback": "Incorrecto. Las células animales no tienen pared celular."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Las mitocondrias son las 'centrales energéticas' de la célula donde se sintetiza ATP a partir de glucosa y oxígeno.",
       "difficulty": "6",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "En Manizales, se compara el transporte pasivo (difusión facilitada) con el transporte activo (bomba Sodio-Potasio).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El transporte activo requiere gasto de energía (ATP) porque mueve solutos en contra del gradiente de concentración; la difusión pasiva no gasta ATP.",
           "is_correct": true,
           "feedback": "Correcto. El transporte contra gradiente requiere acoplamiento con la hidrólisis de ATP."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La difusión facilitada requiere ATP mientras que el transporte activo utiliza calor ambiental.",
           "is_correct": false,
           "feedback": "Incorrecto. La difusión pasiva es un proceso espontáneo a favor de gradiente sin gasto de ATP."
@@ -267,7 +267,7 @@
           "feedback": "Incorrecto. El transporte activo requiere bombas proteicas transmembrana."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El transporte activo va contra gradiente electroquímico impulsado por hidrólisis de ATP. La difusión pasiva va a favor de gradiente sin gasto metabólico.",
       "difficulty": "8",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "En un experimento en Pasto, se observa un protozoo de agua dulce (*Paramecium*) expuesto a medios de diferente salinidad. Posee una vacuola contráctil activa que bombea agua fuera de la célula constantemente.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Porque el agua entra constantemente por ósmosis al interior celular y debe ser expulsada para evitar la ruptura por lisis.",
           "is_correct": true,
           "feedback": "Correcto. En medio hipotónico el agua ingresa por gradiente osmótico y la vacuola la bombea al exterior."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque el protozoo necesita beber agua dulce para realizar fotosíntesis.",
           "is_correct": false,
           "feedback": "Incorrecto. El *Paramecium* es heterótrofo y el ingreso es osmótico pasivo."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecto. En medio hipotónico se gana agua, no se pierde."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El protozoo en medio hipotónico gana agua pasivamente por ósmosis; la vacuola contráctil la expulsa por transporte activo para mantener el volumen.",
       "difficulty": "8",
       "images": [],
@@ -381,19 +381,19 @@
       "context": "Un equipo de investigadores en Bogotá marca radiactivamente con aminoácidos la ruta de síntesis de una proteína de secreción en células acinares del páncreas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Reticulo Endoplásmico Rugoso (RER) $\\rightarrow$ Aparato de Golgi $\\rightarrow$ Vesículas de secreción $\\rightarrow$ Membrana plasmática.",
           "is_correct": true,
           "feedback": "Correcto. La ruta de la vía secretora corre de RER a Golgi y de ahí a vesículas que fusionan con la membrana."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Aparato de Golgi $\\rightarrow$ Núcleo $\\rightarrow$ RER $\\rightarrow$ Lisosoma.",
           "is_correct": false,
           "feedback": "Incorrecto. La síntesis secretora no ingresa al núcleo ni inicia en Golgi."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Mitocondria $\\rightarrow$ RER $\\rightarrow$ Vacuola $\\text{central} \\rightarrow$ Membrana.",
           "is_correct": false,
           "feedback": "Incorrecto. Las mitocondrias no forman parte del sistema de endomembranas secretor."
@@ -405,7 +405,7 @@
           "feedback": "Incorrecto. Los lisosomas son organelos digestivos finales, no iniciales de secreción."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Vía secretora celular: Ribosomas unidos al RER sintetizan la proteína hacia la luz del RER $\\rightarrow$ vesículas a Golgi $\\rightarrow$ maduración $\\rightarrow$ vesículas secretoras $\\rightarrow$ exocitosis.",
       "difficulty": "10",
       "images": [],
@@ -427,31 +427,31 @@
       "context": "Se estudia el mecanismo de fagocitosis en macrófagos humanos frente a una bacteria patógena en un hospital de Cartagena.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Lisosoma (formando el fagolisosoma)",
           "is_correct": true,
           "feedback": "Correcto. Los lisosomas aportan hidrolasas ácidas para digerir el contenido del fagosoma."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Peroxisoma exclusivamente",
           "is_correct": false,
           "feedback": "Incorrecto. Los peroxisomas degradan ácidos grasos y $H_2O_2$, no fagolisosomas principales."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Centrosoma",
           "is_correct": false,
           "feedback": "Incorrecto. El centrosoma organiza microtúbulos durante la división."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Reticulo Endoplásmico Liso (REL)",
           "is_correct": false,
           "feedback": "Incorrecto. El REL sintetiza lípidos y desintoxica medicamentos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La fusión del fagosoma con el lisosoma primario origina el fagolisosoma, donde las hidrolasas ácidas digieren la bacteria.",
       "difficulty": "10",
       "images": [],

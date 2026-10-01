@@ -19,13 +19,13 @@
           "feedback": "Incorrect. \"That\" cannot be used in non-defining clauses (after commas)."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "which",
           "is_correct": true,
           "feedback": "Correct! \"Which\" is used for non-defining clauses referring to places or things."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "where",
           "is_correct": false,
           "feedback": "Incorrect. \"Where\" would be used if we described an action happening in the city, like \"where I live\"."
@@ -37,7 +37,7 @@
           "feedback": "Incorrect. For people."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "En oraciones explicativas (entre comas), para referirnos a un objeto o lugar del que ya conocemos el nombre, usamos *which*.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -111,25 +111,25 @@
           "feedback": "Incorrect. This would mean we have enough to continue."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "little",
           "is_correct": true,
           "feedback": "Correct! \"Little\" indicates an insufficient amount (negative connotation)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "few",
           "is_correct": false,
           "feedback": "Incorrect. \"Paint\" is uncountable."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "a few",
           "is_correct": false,
           "feedback": "Incorrect. For countable nouns."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El cuantificador *little* se usa con sustantivos incontables para expresar que la cantidad es poca e insuficiente.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -157,13 +157,13 @@
           "feedback": "Incorrect. The citizens didn't pass the law; the law was passed."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Having heard about",
           "is_correct": true,
           "feedback": "Correct! Active perfect participle for an action completed by the citizens."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Heard about",
           "is_correct": false,
           "feedback": "Incorrect. Passive meaning."
@@ -175,7 +175,7 @@
           "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El participio de perfecto (*Having heard*) indica que los ciudadanos se reunieron después de haber escuchado la noticia, estableciendo una secuencia lógica.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "Identifying the correct quantifier for people.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "all",
           "is_correct": false,
           "feedback": "Incorrect. Would require \"all students\"."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "each",
           "is_correct": true,
           "feedback": "Correct! \"Each\" refers to individuals in a group and takes a singular noun."
@@ -267,7 +267,7 @@
           "feedback": "Incorrect. Implies only two students."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "*Each* es el cuantificador ideal para resaltar la distribución individual de tareas o elementos entre los miembros de un grupo.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -289,31 +289,31 @@
       "context": "Distinguishing meaning in gerund vs. infinitive.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "analyzing",
           "is_correct": true,
           "feedback": "Correct! \"Stop + gerund\" means ending the activity of analysis."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "to analyze",
           "is_correct": false,
           "feedback": "Incorrect. This would mean he made a pause in another activity *to start* analyzing."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "analyze",
           "is_correct": false,
           "feedback": "Incorrect. Incomplete form."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "of analyzing",
           "is_correct": false,
           "feedback": "Incorrect. Grammatically wrong."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "A nivel B2, es vital distinguir el cambio de significado con el verbo *stop*: el gerundio indica el fin de la acción que se estaba realizando.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -387,25 +387,25 @@
           "feedback": "Incorrect. \"Which\" is the subject."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "The tour which I booked was excellent.",
           "is_correct": true,
           "feedback": "Correct! \"Which\" is the object of \"booked\"."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "The guide, who was very kind, spoke four languages.",
           "is_correct": false,
           "feedback": "Incorrect. Cannot omit in non-defining clauses."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "The museum whose director I met is closed today.",
           "is_correct": false,
           "feedback": "Incorrect. \"Whose\" is never omitted."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Solo podemos omitir el pronombre relativo en oraciones especificativas cuando este funciona como objeto de la cláusula subordinada.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -427,19 +427,19 @@
       "context": "Finding an error in a summary text.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "to take",
           "is_correct": true,
           "feedback": "Correct! \"Involve\" must be followed by a gerund: \"involves taking\"."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "scientist",
           "is_correct": false,
           "feedback": "Incorrect. \"Every\" is correctly followed by a singular noun."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "where",
           "is_correct": false,
           "feedback": "Incorrect. Correct use for place."
@@ -451,7 +451,7 @@
           "feedback": "Incorrect. Correct use for uncountable \"tools\" (or countable plural)."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El verbo *involve* (involucrar) requiere gramaticalmente un gerundio (*-ing*), no un infinitivo.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -473,13 +473,13 @@
       "context": "Judging conciseness and formal style.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "We found an artifact that was buried in the sand.",
           "is_correct": false,
           "feedback": "Incorrect. Simple relative clause."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Found in the sand, the artifact was taken to the museum.",
           "is_correct": true,
           "feedback": "Correct! Uses a participle clause for a formal and concise tone."
@@ -497,7 +497,7 @@
           "feedback": "Incorrect. Grammatically wrong (active perfect participle)."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Las oraciones de participio son una marca de registro formal en inglés, permitiendo una transición fluida entre la descripción de un objeto y la acción que se realizó con él.\n\n---",
       "difficulty": "10",
       "images": [],

@@ -103,13 +103,13 @@
       "context": "Análisis de sucesiones aritméticas y geométricas Caso N° 3.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$a_5 = 22$",
           "is_correct": true,
           "feedback": "Correcto. $a_5 = a_1 + 4d = 6 + 4(4) = 22$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$a_5 = 26$",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicó por 5 en vez de $n-1 = 4$."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. Multiplicó los parámetros."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La fórmula del término $n$-ésimo es $a_n = a_1 + (n-1)d$. Para $n=5$: $a_5 = 6 + 4(4) = 22$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,13 +148,13 @@
       "context": "Análisis de sucesiones aritméticas y geométricas Caso N° 4.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$a_5 = 28$",
           "is_correct": true,
           "feedback": "Correcto. $a_5 = a_1 + 4d = 8 + 4(5) = 28$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$a_5 = 33$",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicó por 5 en vez de $n-1 = 4$."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. Multiplicó los parámetros."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La fórmula del término $n$-ésimo es $a_n = a_1 + (n-1)d$. Para $n=5$: $a_5 = 8 + 4(5) = 28$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -193,31 +193,31 @@
       "context": "Análisis de sucesiones aritméticas y geométricas Caso N° 5.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$a_5 = 34$",
           "is_correct": true,
           "feedback": "Correcto. $a_5 = a_1 + 4d = 10 + 4(6) = 34$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$a_5 = 40$",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicó por 5 en vez de $n-1 = 4$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$a_5 = 28$",
           "is_correct": false,
           "feedback": "Incorrecto. Restó una diferencia."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$a_5 = 60$",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicó los parámetros."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La fórmula del término $n$-ésimo es $a_n = a_1 + (n-1)d$. Para $n=5$: $a_5 = 10 + 4(6) = 34$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -238,19 +238,19 @@
       "context": "Análisis de sucesiones aritméticas y geométricas Caso N° 6.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$a_5 = 40$",
           "is_correct": true,
           "feedback": "Correcto. $a_5 = a_1 + 4d = 12 + 4(7) = 40$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$a_5 = 47$",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicó por 5 en vez de $n-1 = 4$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$a_5 = 33$",
           "is_correct": false,
           "feedback": "Incorrecto. Restó una diferencia."
@@ -262,7 +262,7 @@
           "feedback": "Incorrecto. Multiplicó los parámetros."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La fórmula del término $n$-ésimo es $a_n = a_1 + (n-1)d$. Para $n=5$: $a_5 = 12 + 4(7) = 40$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -328,31 +328,31 @@
       "context": "Análisis de sucesiones aritméticas y geométricas Caso N° 8.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$a_5 = 52$",
           "is_correct": true,
           "feedback": "Correcto. $a_5 = a_1 + 4d = 16 + 4(9) = 52$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$a_5 = 61$",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicó por 5 en vez de $n-1 = 4$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$a_5 = 43$",
           "is_correct": false,
           "feedback": "Incorrecto. Restó una diferencia."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$a_5 = 144$",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicó los parámetros."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La fórmula del término $n$-ésimo es $a_n = a_1 + (n-1)d$. Para $n=5$: $a_5 = 16 + 4(9) = 52$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -373,31 +373,31 @@
       "context": "Análisis de sucesiones aritméticas y geométricas Caso N° 9.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$a_5 = 58$",
           "is_correct": true,
           "feedback": "Correcto. $a_5 = a_1 + 4d = 18 + 4(10) = 58$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$a_5 = 68$",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicó por 5 en vez de $n-1 = 4$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$a_5 = 48$",
           "is_correct": false,
           "feedback": "Incorrecto. Restó una diferencia."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$a_5 = 180$",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicó los parámetros."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La fórmula del término $n$-ésimo es $a_n = a_1 + (n-1)d$. Para $n=5$: $a_5 = 18 + 4(10) = 58$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -418,13 +418,13 @@
       "context": "Análisis de sucesiones aritméticas y geométricas Caso N° 10.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$a_5 = 64$",
           "is_correct": true,
           "feedback": "Correcto. $a_5 = a_1 + 4d = 20 + 4(11) = 64$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$a_5 = 75$",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicó por 5 en vez de $n-1 = 4$."
@@ -442,7 +442,7 @@
           "feedback": "Incorrecto. Multiplicó los parámetros."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La fórmula del término $n$-ésimo es $a_n = a_1 + (n-1)d$. Para $n=5$: $a_5 = 20 + 4(11) = 64$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -553,13 +553,13 @@
       "context": "Análisis de sucesiones aritméticas y geométricas Caso N° 13.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$a_5 = 82$",
           "is_correct": true,
           "feedback": "Correcto. $a_5 = a_1 + 4d = 26 + 4(14) = 82$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$a_5 = 96$",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicó por 5 en vez de $n-1 = 4$."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. Multiplicó los parámetros."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La fórmula del término $n$-ésimo es $a_n = a_1 + (n-1)d$. Para $n=5$: $a_5 = 26 + 4(14) = 82$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -598,13 +598,13 @@
       "context": "Análisis de sucesiones aritméticas y geométricas Caso N° 14.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$a_5 = 88$",
           "is_correct": true,
           "feedback": "Correcto. $a_5 = a_1 + 4d = 28 + 4(15) = 88$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$a_5 = 103$",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicó por 5 en vez de $n-1 = 4$."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. Multiplicó los parámetros."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La fórmula del término $n$-ésimo es $a_n = a_1 + (n-1)d$. Para $n=5$: $a_5 = 28 + 4(15) = 88$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -643,31 +643,31 @@
       "context": "Análisis de sucesiones aritméticas y geométricas Caso N° 15.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$a_5 = 94$",
           "is_correct": true,
           "feedback": "Correcto. $a_5 = a_1 + 4d = 30 + 4(16) = 94$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$a_5 = 110$",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicó por 5 en vez de $n-1 = 4$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$a_5 = 78$",
           "is_correct": false,
           "feedback": "Incorrecto. Restó una diferencia."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$a_5 = 480$",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicó los parámetros."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La fórmula del término $n$-ésimo es $a_n = a_1 + (n-1)d$. Para $n=5$: $a_5 = 30 + 4(16) = 94$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -778,19 +778,19 @@
       "context": "Análisis de sucesiones aritméticas y geométricas Caso N° 18.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$a_5 = 112$",
           "is_correct": true,
           "feedback": "Correcto. $a_5 = a_1 + 4d = 36 + 4(19) = 112$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$a_5 = 131$",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicó por 5 en vez de $n-1 = 4$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$a_5 = 93$",
           "is_correct": false,
           "feedback": "Incorrecto. Restó una diferencia."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. Multiplicó los parámetros."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La fórmula del término $n$-ésimo es $a_n = a_1 + (n-1)d$. Para $n=5$: $a_5 = 36 + 4(19) = 112$.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -868,19 +868,19 @@
       "context": "Análisis de sucesiones aritméticas y geométricas Caso N° 20.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$a_5 = 124$",
           "is_correct": true,
           "feedback": "Correcto. $a_5 = a_1 + 4d = 40 + 4(21) = 124$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$a_5 = 145$",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicó por 5 en vez de $n-1 = 4$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$a_5 = 103$",
           "is_correct": false,
           "feedback": "Incorrecto. Restó una diferencia."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. Multiplicó los parámetros."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La fórmula del término $n$-ésimo es $a_n = a_1 + (n-1)d$. Para $n=5$: $a_5 = 40 + 4(21) = 124$.",
       "difficulty": "10",
       "images": [],

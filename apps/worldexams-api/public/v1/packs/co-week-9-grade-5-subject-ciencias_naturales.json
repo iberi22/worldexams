@@ -13,31 +13,31 @@
       "context": "En una clase de ciencias en Girardot, la profesora muestra un vaso con agua y sal disuelta, y otro con agua y arena.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "En la homogénea no se distinguen sus componentes a simple vista; en la heterogénea sí se distinguen.",
           "is_correct": true,
           "feedback": "Las mezclas homogéneas se ven uniformes, mientras que las heterogéneas muestran sus componentes a simple vista."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "En la homogénea se ven los componentes separados, en la heterogénea no se ven.",
           "is_correct": false,
           "feedback": "Es al revés: en las heterogéneas se ven los componentes, no en las homogéneas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Las mezclas homogéneas siempre son sólidas y las heterogéneas líquidas.",
           "is_correct": false,
           "feedback": "Tanto las homogéneas como las heterogéneas pueden presentarse en distintos estados."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "No existe ninguna diferencia visible entre ellas.",
           "is_correct": false,
           "feedback": "La diferencia principal es precisamente la uniformidad visible de la mezcla."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Diferenciar mezclas homogéneas de heterogéneas a partir de la observación de sus componentes.",
       "difficulty": "4",
       "images": [],
@@ -59,19 +59,19 @@
       "context": "Lee: \"El agua con sal es una mezcla homogénea porque la sal se disuelve y no se puede distinguir a simple vista.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Porque la sal disuelta no se ve y la mezcla luce uniforme en toda la solución.",
           "is_correct": true,
           "feedback": "Al disolverse, la sal se reparte de manera uniforme y no se distingue."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque la sal desaparece completamente y deja de existir.",
           "is_correct": false,
           "feedback": "La sal no desaparece: se disuelve en el agua y se puede recuperar evaporando."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque el agua deja de ser líquida al mezclarse con la sal.",
           "is_correct": false,
           "feedback": "El agua sigue siendo líquida; lo que cambia es la composición de la mezcla."
@@ -83,7 +83,7 @@
           "feedback": "La sal no se evapora; permanece en la mezcla y puede separarse luego."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Explicar por qué una disolución se clasifica como mezcla homogénea.",
       "difficulty": "4",
       "images": [],
@@ -105,13 +105,13 @@
       "context": "Un estudiante quiere separar una mezcla de agua con tierra dejada en reposo en un vaso durante varios minutos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Decantación, porque la tierra más densa se deposita en el fondo y el agua queda arriba.",
           "is_correct": true,
           "feedback": "La decantación permite separar líquidos de sólidos sedimentados por gravedad."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Filtración con un colador muy fino, aunque la tierra ya se haya asentado.",
           "is_correct": false,
           "feedback": "La filtración también funciona, pero la decantación es más sencilla cuando el sólido ya reposó."
@@ -129,7 +129,7 @@
           "feedback": "El tamizado se usa para separar sólidos de distinto tamaño, no un sólido fino en líquido."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Aplicar el método de decantación para separar mezclas donde un sólido se asienta en un líquido.",
       "difficulty": "6",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "Compara: \"Una mezcla de arena y agua se ve turbia y al reposar la arena baja al fondo. Una mezcla de agua con sal se ve transparente y no forma capas al reposar.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La de arena con agua es heterogénea y la arena sedimenta; la de sal con agua es homogénea y no sedimenta.",
           "is_correct": true,
           "feedback": "La arena no se disuelve y forma una mezcla heterogénea; la sal se disuelve formando una mezcla homogénea."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Las dos son heterogéneas porque no se ven los componentes.",
           "is_correct": false,
           "feedback": "En la mezcla de arena con agua sí se ven los granos de arena; es heterogénea."
@@ -267,7 +267,7 @@
           "feedback": "Ambas se pueden separar usando métodos físicos como filtración y evaporación."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Analizar el comportamiento de mezclas heterogéneas y homogéneas al dejarlas en reposo.",
       "difficulty": "8",
       "images": [],
@@ -335,13 +335,13 @@
       "context": "Lee: 'El conocimiento de las mezclas y sus métodos de separación es útil en la cocina, en la industria de alimentos, en el tratamiento de aguas y en el reciclaje de residuos. Elegir el método correcto permite aprovechar mejor los recursos.'",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Porque permite obtener sustancias puras, reciclar materiales y cuidar el ambiente.",
           "is_correct": true,
           "feedback": "Separar mezclas es clave para obtener productos útiles y reducir residuos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque solo se usa en laboratorios avanzados sin aplicación en la vida diaria.",
           "is_correct": false,
           "feedback": "Los métodos de separación se aplican en el hogar, la industria y el ambiente."
@@ -359,7 +359,7 @@
           "feedback": "Separar mezclas de forma adecuada ayuda a reducir la contaminación, no a aumentarla."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Evaluar la importancia de los métodos de separación de mezclas en contextos cotidianos y ambientales.",
       "difficulty": "10",
       "images": [],

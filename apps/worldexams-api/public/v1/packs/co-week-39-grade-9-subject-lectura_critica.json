@@ -13,31 +13,31 @@
       "context": "Con base en el Texto Base sobre la adicción a las pantallas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "El infinito desplazamiento ('infinite scroll') y los algoritmos de recomendación.",
           "is_correct": true,
           "feedback": "¡Correcto! El texto menciona explícitamente estas herramientas como mecanismos para maximizar el tiempo de permanencia."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Los teclados físicos y las pantallas de alta resolución.",
           "is_correct": false,
           "feedback": "Incorrecto. El texto se enfoca en las dinámicas del software e interacción digital."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Los cables de fibra óptica e infraestructura de internet.",
           "is_correct": false,
           "feedback": "Incorrecto. La infraestructura no es objeto del argumento del texto."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Los libros digitales y enciclopedias en línea.",
           "is_correct": false,
           "feedback": "Incorrecto. El autor no menciona libros digitales en el extracto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Identificación explícita de datos en un texto argumentativo periodístico o de opinión.\n---",
       "difficulty": "4",
       "images": [],
@@ -59,31 +59,31 @@
       "context": "Con base en el Texto Base sobre la adicción a las pantallas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Las instituciones educativas.",
           "is_correct": true,
           "feedback": "¡Correcto! El texto propone expresamente que las instituciones educativas promuevan la alfabetización crítica."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Las multinacionales de software.",
           "is_correct": false,
           "feedback": "Incorrecto. El autor les pide regulación a los Estados, no alfabetización educativa."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Las tiendas de aplicaciones móviles.",
           "is_correct": false,
           "feedback": "Incorrecto. No es una entidad mencionada en la solución educativa propuesta."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Los fabricantes de teléfonos inteligentes.",
           "is_correct": false,
           "feedback": "Incorrecto. El texto cita a las escuelas e institutos como responsables de la educación crítica."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Extracción de afirmaciones directas sobre los agentes de cambio señalados en el ensayo de opinión.\n---",
       "difficulty": "4",
       "images": [],
@@ -105,19 +105,19 @@
       "context": "Con base en el Texto Base sobre la adicción a las pantallas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "La adicción a las pantallas en jóvenes requiere tanto regulación estatal como alfabetización crítica educativa, superando la culpa individual.",
           "is_correct": true,
           "feedback": "¡Correcto! Sintetiza la postura integral del autor frente a las causas sistémicas e intervenciones requeridas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Las redes sociales deben ser prohibidas definitivamente para cualquier persona menor de 18 años.",
           "is_correct": false,
           "feedback": "Incorrecto. El autor habla de regulación y educación, no de prohibición absoluta."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La responsabilidad de la adicción digital recae exclusivamente en los padres de familia.",
           "is_correct": false,
           "feedback": "Incorrecto. El texto refuta el enfoque puramente individual o moral."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecto. El autor señala claramente el 'secuestro de la atención humana'."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Determinar la tesis principal en un artículo de opinión implica articular la hipótesis argumentativa rectora de la lectura.\n---",
       "difficulty": "4",
       "images": [],
@@ -151,13 +151,13 @@
       "context": "Con base en el Texto Base sobre la adicción a las pantallas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Retener e hiperestimular la concentración del usuario mediante diseño adictivo para evitar que abandone la plataforma.",
           "is_correct": true,
           "feedback": "¡Correcto! Corresponde a una metáfora para describir cómo la atención es capturada de forma no del todo consciente."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Cometer un delito de rapto físico a las personas que usan computadores.",
           "is_correct": false,
           "feedback": "Incorrecto. Se trata de un uso figurado en el ámbito de la psicología del consumidor."
@@ -175,7 +175,7 @@
           "feedback": "Incorrecto. No se refiere a un cobro económico explícito."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Comprensión del lenguaje figurado y metafórico en artículos de opinión y debate público.\n---",
       "difficulty": "6",
       "images": [],
@@ -197,31 +197,31 @@
       "context": "Con base en el Texto Base sobre la adicción a las pantallas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Conector adversativo o de oposición, que introduce un matiz limitativo a la responsabilidad de las empresas tecnológicas.",
           "is_correct": true,
           "feedback": "¡Correcto! 'Sin embargo' conecta la crítica a las Big Tech con la necesidad de no responsabilizarlas únicamente a ellas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Conector causal, que explica el motivo técnico por el cual funcionan los algoritmos.",
           "is_correct": false,
           "feedback": "Incorrecto. Los conectores causales son 'porque', 'debido a que', etc."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Conector temporal, que marca una secuencia cronológica de eventos pasados.",
           "is_correct": false,
           "feedback": "Incorrecto. No señala secuencia en el tiempo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Conector ilustrativo, que introduce un ejemplo concreto de aplicación móvil.",
           "is_correct": false,
           "feedback": "Incorrecto. 'Sin embargo' no introduce ejemplos sino contrastes."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Análisis del papel semántico de los conectores lógicos argumentativos en la estructuración discursiva.\n---",
       "difficulty": "6",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "Con base en el Texto Base sobre la adicción a las pantallas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Argumentaría que existen mecanismos tecnológicos sofisticados diseñados deliberadamente para manipular la conducta y dificultar el autocontrol.",
           "is_correct": true,
           "feedback": "¡Correcto! El autor rechaza la explicación del 'fallo moral individual' mostrando las causas estructurales."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Estaría totalmente de acuerdo con esa persona y pediría castigar a los jóvenes.",
           "is_correct": false,
           "feedback": "Incorrecto. El texto afirma explícitamente lo contrario desde la primera línea."
@@ -267,7 +267,7 @@
           "feedback": "Incorrecto. Esta premisa no tiene ningún sustento en el texto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Aplicación de las premisas de un argumento para refutar posturas contradictorias en un debate.\n---",
       "difficulty": "6",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "Con base en el Texto Base sobre la adicción a las pantallas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Argumentación causal y de propuesta de solución (diagnóstico del problema tecnológico + corresponsabilidad estatal y educativa).",
           "is_correct": true,
           "feedback": "¡Correcto! El texto articula las causas del fenómeno y plantea la respuesta institucional coordinada."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Argumentación por anécdota personal narrativa sin datos ni conceptos generales.",
           "is_correct": false,
           "feedback": "Incorrecto. El texto no narra ninguna historia personal."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecto. No presenta cifras ni gráficos de encuestas puntuales."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Identificación de la estructura argumentativa y tipología de razonamiento empleada por el emisor.\n---",
       "difficulty": "8",
       "images": [],
@@ -335,13 +335,13 @@
       "context": "Con base en el Texto Base sobre la adicción a las pantallas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Persuadir al lector sobre la necesidad de asumir una postura crítica frente al diseño adictivo de las tecnologías y exigir respuestas regulatorias.",
           "is_correct": true,
           "feedback": "¡Correcto! Los artículos de opinión buscan convencer e incitar a la reflexión y acción ciudadana."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Describir detalladamente los pasos técnicos para programar una aplicación móvil.",
           "is_correct": false,
           "feedback": "Incorrecto. No es un manual de programación."
@@ -359,7 +359,7 @@
           "feedback": "Incorrecto. No es un texto publicitario ni comercial."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Reconocimiento del propósito pragmático e intencionalidad del género discursivo del artículo de opinión.\n---",
       "difficulty": "8",
       "images": [],
@@ -381,31 +381,31 @@
       "context": "Con base en el Texto Base sobre la adicción a las pantallas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Que actualmente la soberanía del tiempo y la capacidad de atención individual están comprometidas por las plataformas digitales.",
           "is_correct": true,
           "feedback": "¡Correcto! Si hay que 'devolver' el control, es porque se asume que se ha perdido parcialmente."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Que las personas nunca han tenido capacidad de elegir qué hacer con su tiempo.",
           "is_correct": false,
           "feedback": "Incorrecto. El verbo 'devolver' supone que antes existía esa autonomía."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Que el tiempo dedicado a las pantallas es siempre más valioso que el tiempo libre sin tecnología.",
           "is_correct": false,
           "feedback": "Incorrecto. El autor cuestiona el sesgo del diseño adictivo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Que la mente humana funciona de la misma manera que un procesador de computadora.",
           "is_correct": false,
           "feedback": "Incorrecto. El supuesto es la pérdida de la autonomía de la atención."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Explicitación de presupuestos o premisas implícitas detrás de afirmaciones concluyentes en la lectura crítica.\n---",
       "difficulty": "8",
       "images": [],
@@ -427,19 +427,19 @@
       "context": "Un crítico sostiene: \"El autor cae en un determinismo tecnológico al quitarle toda la responsabilidad a los jóvenes y tratar a la tecnología como una fuerza irresistible\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Es parcialmente inválida, porque el autor no le quita toda la responsabilidad a la sociedad, sino que propone capacitar a los jóvenes mediante alfabetización crítica para ejercer autonomía.",
           "is_correct": true,
           "feedback": "¡Excelente! La inclusión de la 'alfabetización crítica' demuestra que el autor cree en la capacidad de formación y autonomía de los jóvenes."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Es completamente válida, porque el autor afirma que la tecnología es un monstruo imposible de combatir.",
           "is_correct": false,
           "feedback": "Incorrecto. El autor plantea soluciones concretas (regulación y educación)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Es válida, porque el texto recomienda que los jóvenes dejen de estudiar.",
           "is_correct": false,
           "feedback": "Incorrecto. El autor defiende el rol fundamental de la escuela."
@@ -451,7 +451,7 @@
           "feedback": "Incorrecto. La validez de la crítica depende del contenido lógico del texto, no de especulaciones sobre la autoría."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Evaluación de la validez de contraargumentos externos mediante el cotejo riguroso de las premisas textuales.\n---",
       "difficulty": "10",
       "images": [],
@@ -473,19 +473,19 @@
       "context": "Imagina que el Congreso de la República de Colombia aprueba una ley que prohíbe el uso de algoritmos de recomendación adictivos en aplicaciones dirigidas a menores de edad.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Se alinea plenamente con la exigencia de que los Estados regulen la arquitectura digital de las plataformas.",
           "is_correct": true,
           "feedback": "¡Correcto! Representa la aplicación concreta del argumento sobre el deber de regulación pública del Estado."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Contradice abiertamente lo propuesto en el texto sobre la educación.",
           "is_correct": false,
           "feedback": "Incorrecto. La regulación estatal y la educación son medidas complementarias en el texto."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Demuestra que las empresas tecnológicas no tienen ninguna influencia en los jóvenes.",
           "is_correct": false,
           "feedback": "Incorrecto. Si se prohíben por ley esos algoritmos es justamente porque se reconoce su poder manipulador."
@@ -497,7 +497,7 @@
           "feedback": "Incorrecto. El texto exige expresamente \"que los Estados regulen\"."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Transferencia intertextual y evaluación del grado de convergencia entre posicionamientos argumentativos y políticas públicas reales.\n---",
       "difficulty": "10",
       "images": [],
@@ -519,31 +519,31 @@
       "context": "Considera estas dos visiones sobre la cultura digital contemporánea:\n\n- **Visión A (Texto base):** \"Las plataformas digitales usan psicología conductista para secuestrar la atención y requieren regulación estatal y educación crítica\".\n\n- **Visión B:** \"Las plataformas digitales son herramientas neutrales; el uso que se les dé depende 100% de la disciplina y los valores morales de cada usuario\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "La Visión A reconoce que la tecnología tiene una carga de diseño intencionada que condiciona la conducta, mientras la Visión B asume erróneamente la tecnología como un objeto neutral.",
           "is_correct": true,
           "feedback": "¡Excelente! Muestra el contraste crítico entre la neutralidad tecnológica ingenua y el análisis del diseño orientado a la persuasión."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La Visión A apoya el monopolio de las empresas tecnológicas y la Visión B quiere destruirlas.",
           "is_correct": false,
           "feedback": "Incorrecto. Ninguna de las dos posturas propone la destrucción física de empresas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La Visión A considera que la educación no sirve y la Visión B apoya la educación obligatoria.",
           "is_correct": false,
           "feedback": "Incorrecto. La Visión A defiende la alfabetización crítica explícitamente."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Ambas visiones dicen exactamente lo mismo con palabras diferentes.",
           "is_correct": false,
           "feedback": "Incorrecto. Tienen puntos de partida éticos y sociológicos opuestos sobre la neutralidad de la técnica."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Juicio crítico comparativo sobre los modelos epistemológicos detrás de la evaluación de tecnologías digitales contemporáneas.",
       "difficulty": "10",
       "images": [],

@@ -19,25 +19,25 @@
           "feedback": "Incorrect. A conclusion is reached at the end."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "hypothesis",
           "is_correct": true,
           "feedback": "Correct. A hypothesis is an initial, testable explanation."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "fact",
           "is_correct": false,
           "feedback": "Incorrect. A fact is something known to be true."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "theorem",
           "is_correct": false,
           "feedback": "Incorrect. A theorem is a proven statement in mathematics."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "'Hypothesis' is the fundamental term for a tentative explanation in the scientific method.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -109,13 +109,13 @@
           "feedback": "Incorrect. Second conditional."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "had received",
           "is_correct": true,
           "feedback": "Correct. Third conditional for hypothetical past condition."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "has received",
           "is_correct": false,
           "feedback": "Incorrect. Present perfect."
@@ -127,7 +127,7 @@
           "feedback": "Incorrect. 'Would' not used in 'if' clause."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "The third conditional (if + past perfect) describes a past situation that did not happen.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,19 +148,19 @@
       "context": "Article about the CRISPR technology.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "precision",
           "is_correct": true,
           "feedback": "Correct. Precision means the quality of being exact and accurate."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "confusion",
           "is_correct": false,
           "feedback": "Incorrect. Science aims for the opposite of confusion."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "neglect",
           "is_correct": false,
           "feedback": "Incorrect. Neglect is lack of care."
@@ -172,7 +172,7 @@
           "feedback": "Incorrect. Precision is the key feature of CRISPR mentioned in the text."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "'Precision' is the defining characteristic of modern gene-editing tools like CRISPR.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -199,13 +199,13 @@
           "feedback": "Incorrect. It's causing people to ask new questions."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "raises",
           "is_correct": true,
           "feedback": "Correct. To 'raise a question' means to bring it up for discussion."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "ignores",
           "is_correct": false,
           "feedback": "Incorrect. The text focuses on the questions being asked."
@@ -217,7 +217,7 @@
           "feedback": "Incorrect. The development forces us to confront these questions."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "'Raises' is the standard verb for introducing or bringing attention to an important topic or question.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -244,13 +244,13 @@
           "feedback": "Incorrect. Goggles are required for safety."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "mandatory",
           "is_correct": true,
           "feedback": "Correct. Mandatory means required by law or rules."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "creative",
           "is_correct": false,
           "feedback": "Incorrect. Safety is a rule, not a creative choice."
@@ -262,7 +262,7 @@
           "feedback": "Incorrect. Incidental means happening by chance."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "'Mandatory' is the formal term for actions that are required by safety protocols.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -334,25 +334,25 @@
           "feedback": "Incorrect. To conceal means to hide."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "detect",
           "is_correct": true,
           "feedback": "Correct. To detect means to discover or identify the presence of something."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "fabricate",
           "is_correct": false,
           "feedback": "Incorrect. To fabricate means to invent or fake."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "destroy",
           "is_correct": false,
           "feedback": "Incorrect. The rover is there to find, not destroy."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "'Detect' is the scientific term for finding or sensing something that is not immediately visible.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -379,13 +379,13 @@
           "feedback": "Incorrect. Second conditional."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "would have been",
           "is_correct": true,
           "feedback": "Correct. Third conditional for hypothetical past result."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "will be",
           "is_correct": false,
           "feedback": "Incorrect. Future tense."
@@ -397,7 +397,7 @@
           "feedback": "Incorrect. Past tense."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "The third conditional 'would have been' describes a past outcome that would have changed if conditions were different.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -418,13 +418,13 @@
       "context": "Critique of \"pseudoscience\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "aligned",
           "is_correct": false,
           "feedback": "Incorrect. Align means consistent with."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "incompatible",
           "is_correct": true,
           "feedback": "Correct. Incompatible means not able to work together or be consistent."
@@ -442,7 +442,7 @@
           "feedback": "Incorrect. Pseudoscience is considered inferior to real science."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "'Incompatible' correctly describes the lack of consistency between pseudoscience and rigorous scientific methodology.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -463,13 +463,13 @@
       "context": "Basic data analysis.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Theoretical",
           "is_correct": false,
           "feedback": "Incorrect. Theoretical is based on ideas, not direct observation."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Empirical",
           "is_correct": true,
           "feedback": "Correct. Empirical evidence is based on direct observation or experience."
@@ -487,7 +487,7 @@
           "feedback": "Incorrect. Based on hypotheses."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "'Empirical' is the term for evidence that comes from direct experience or experimentation.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -514,25 +514,25 @@
           "feedback": "Incorrect. Active voice."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "has been discovered",
           "is_correct": true,
           "feedback": "Correct. Present perfect passive for a recent discovery."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "discovered",
           "is_correct": false,
           "feedback": "Incorrect. Past simple."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "is discovering",
           "is_correct": false,
           "feedback": "Incorrect. Active voice."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "The present perfect passive 'has been discovered' links a past event (the discovery) with the present fact of its existence.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -553,13 +553,13 @@
       "context": "Discussing scientific ethics.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "equal",
           "is_correct": false,
           "feedback": "Incorrect. If they were equal, the trial might continue."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "disproportionate",
           "is_correct": true,
           "feedback": "Correct. Disproportionate means too large or too small in comparison with something else."
@@ -577,7 +577,7 @@
           "feedback": "Incorrect. Risks are identified, not invisible."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "'Disproportionate' is used when one side of a comparison (risks) is much larger than the other (benefits).\n\n---",
       "difficulty": "8",
       "images": [],
@@ -604,25 +604,25 @@
           "feedback": "Incorrect. Second conditional."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "wouldn't have been developed",
           "is_correct": true,
           "feedback": "Correct. Third conditional passive for hypothetical past result."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "won't be developed",
           "is_correct": false,
           "feedback": "Incorrect. Future."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "isn't developed",
           "is_correct": false,
           "feedback": "Incorrect. Present."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "The third conditional passive indicates that a past achievement resulted from a specific past condition.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -643,31 +643,31 @@
       "context": "Conclusion of an article on space telescopes.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "revolutionize",
           "is_correct": true,
           "feedback": "Correct. To revolutionize means to change something fundamentally or completely."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "confirm",
           "is_correct": false,
           "feedback": "Incorrect. It will do more than just confirm; it will change our view."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "limit",
           "is_correct": false,
           "feedback": "Incorrect. It will expand our knowledge, not limit it."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "ignore",
           "is_correct": false,
           "feedback": "Incorrect. Telescopes help us see, not ignore."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "'Revolutionize' is the appropriate verb for a development that significantly changes a field of study.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -694,25 +694,25 @@
           "feedback": "Incorrect. Poison causes harm."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "vaccine",
           "is_correct": true,
           "feedback": "Correct. This is the biological function of a vaccine."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "placebo",
           "is_correct": false,
           "feedback": "Incorrect. A placebo has no active effect."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "virus",
           "is_correct": false,
           "feedback": "Incorrect. A virus is the cause of disease, not the treatment (though vaccines can be made from them)."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "'Vaccine' is the term for the biological preparation that provides immunity.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -739,25 +739,25 @@
           "feedback": "Incorrect. Backshifted in reported speech."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "was",
           "is_correct": true,
           "feedback": "Correct. Backshifted from 'is' to 'was'."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "has been",
           "is_correct": false,
           "feedback": "Incorrect. Present perfect."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "will be",
           "is_correct": false,
           "feedback": "Incorrect. Future."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "In reported findings, it is standard to backshift the tense to the past.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -784,25 +784,25 @@
           "feedback": "Incorrect. Informal talk."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Peer review",
           "is_correct": true,
           "feedback": "Correct. This is the quality control system in science."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Censorship",
           "is_correct": false,
           "feedback": "Incorrect. Restricting information."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Promotion",
           "is_correct": false,
           "feedback": "Incorrect. Advertising."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "'Peer review' is the professional evaluation process used in the scientific community.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -829,25 +829,25 @@
           "feedback": "Incorrect. Simple future."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "will have been studying",
           "is_correct": true,
           "feedback": "Correct. Future perfect continuous for duration up to a future point."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "have been studying",
           "is_correct": false,
           "feedback": "Incorrect. Present perfect continuous."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "study",
           "is_correct": false,
           "feedback": "Incorrect. Present simple."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "The future perfect continuous describes the length of an action at a certain time in the future.\n\n---",
       "difficulty": "10",
       "images": [],

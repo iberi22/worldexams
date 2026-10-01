@@ -105,19 +105,19 @@
       "context": "A teacher says: \"Open your notebooks at page 10. Take out your pencil and your ruler.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "The students open their notebooks and take out their pencils and rulers.",
           "is_correct": true,
           "feedback": "The verb forms agree with the plural subject \"the students\"."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "The students opens their notebooks and take out their pencils.",
           "is_correct": false,
           "feedback": "\"Opens\" is singular and does not agree with the plural subject \"students\"."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "The student open their notebooks and takes out their pencils.",
           "is_correct": false,
           "feedback": "The singular subject \"student\" requires \"opens\" and \"takes\", not the plural forms."
@@ -129,7 +129,7 @@
           "feedback": "\"Opening\" is a gerund and needs an auxiliary verb in this context."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Applying subject-verb agreement with plural classroom subjects in the Simple Present tense.",
       "difficulty": "6",
       "images": [],
@@ -151,19 +151,19 @@
       "context": "A student in Ibague organizes her desk: \"The dictionary is next to the notebook. The pencil case is under the chair.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Next to.",
           "is_correct": true,
           "feedback": "\"Next to\" indicates that the dictionary is beside the notebook."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Under.",
           "is_correct": false,
           "feedback": "\"Under\" describes something below another object, not beside it."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Between.",
           "is_correct": false,
           "feedback": "\"Between\" requires two reference objects on each side."
@@ -175,7 +175,7 @@
           "feedback": "\"Behind\" describes something at the back of another object."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Using basic prepositions of place (next to, under, between, behind) in English.",
       "difficulty": "6",
       "images": [],
@@ -243,31 +243,31 @@
       "context": "Read: \"The math book is in the backpack. The English book is on the table. The dictionary is next to the English book.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "It is right beside the English book.",
           "is_correct": true,
           "feedback": "\"Next to\" means the dictionary is beside the English book."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "It is inside the backpack with the math book.",
           "is_correct": false,
           "feedback": "The text locates the math book in the backpack, not the dictionary."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "It is under the English book.",
           "is_correct": false,
           "feedback": "The text says \"next to\", not \"under\", so the dictionary is not below."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "It is on a different floor in the school.",
           "is_correct": false,
           "feedback": "Both objects are described in the same classroom context."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Analyzing spatial relationships between classroom objects described in English text.",
       "difficulty": "8",
       "images": [],
@@ -289,19 +289,19 @@
       "context": "Two students talk: \"I have five notebooks, three pencils, and one ruler in my backpack.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "The student has more notebooks than pencils.",
           "is_correct": true,
           "feedback": "Five notebooks is greater than three pencils, so the inference is correct."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "The student has the same number of notebooks and pencils.",
           "is_correct": false,
           "feedback": "The numbers are different: 5 notebooks vs 3 pencils."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "The student has more pencils than notebooks.",
           "is_correct": false,
           "feedback": "Three pencils is less than five notebooks, so this inference is wrong."
@@ -313,7 +313,7 @@
           "feedback": "The text clearly states the student has one ruler."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Drawing correct inferences about quantities of classroom objects from a short English description.",
       "difficulty": "8",
       "images": [],

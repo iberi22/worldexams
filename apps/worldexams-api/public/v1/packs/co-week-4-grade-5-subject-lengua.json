@@ -13,31 +13,31 @@
       "context": "En Bogotá, Mariana describe a su abuela para una tarea del colegio.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Bajita, de cabello blanco recogido y ojos alegres.",
           "is_correct": true,
           "feedback": "Es correcta porque repite los tres rasgos que da la descripción."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Alta, de cabello negro y ojos tristes.",
           "is_correct": false,
           "feedback": "Es incorrecta porque cambia todos los rasgos del texto."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Una niña de trenzas que vive en Cali.",
           "is_correct": false,
           "feedback": "Es incorrecta porque habla de una niña, no de la abuela."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Un señor pescador de Cartagena.",
           "is_correct": false,
           "feedback": "Es incorrecta porque no se menciona ningún pescador."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La descripción física reúne datos visibles como estatura, cabello y mirada. Recuperarlos de forma literal es la base para imaginar al personaje. Observar con detalle también mejora la comunicación oral.",
       "difficulty": "4",
       "images": [],
@@ -59,19 +59,19 @@
       "context": "En Medellín, Santiago describe el patio de su colegio en una carta para su primo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Que es un lugar amplio y alegre con árboles, bancas y cancha.",
           "is_correct": true,
           "feedback": "Es correcta porque resume los detalles del ambiente con otras palabras."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Que es un salón pequeño y oscuro sin ventanas.",
           "is_correct": false,
           "feedback": "Es incorrecta porque describe un patio amplio, no un salón."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Que es una tienda con jugos y dulces.",
           "is_correct": false,
           "feedback": "Es incorrecta porque no se mencionan ventas ni productos."
@@ -83,7 +83,7 @@
           "feedback": "Es incorrecta porque habla de árboles y bancas, no de tráfico."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Comprender una descripción del ambiente implica reunir los detalles del lugar en una idea general. Aquí el patio se muestra amplio y agradable. Esta lectura también enseña a escribir descripciones ordenadas con buena ortografía.",
       "difficulty": "4",
       "images": [],
@@ -105,13 +105,13 @@
       "context": "En Cali, Juan lee sobre un niño que ayuda a sus vecinos después del colegio.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Que es solidario y alegre con sus compañeros.",
           "is_correct": true,
           "feedback": "Es correcta porque ayudar, compartir y animar muestran solidaridad y alegría."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Que es egoísta y le gusta pelear.",
           "is_correct": false,
           "feedback": "Es incorrecta porque sus acciones son de ayuda, no de pelea."
@@ -129,7 +129,7 @@
           "feedback": "Es incorrecta porque anima a todos cuando están tristes."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Las cualidades se infieren de las acciones: ayudar y compartir revelan solidaridad. Aplicar esta lectura permite juzgar a los personajes por lo que hacen y también reflexionar sobre la propia conducta.",
       "difficulty": "6",
       "images": [],
@@ -151,31 +151,31 @@
       "context": "En Cartagena, Valentina describe la playa al atardecer en su diario de vacaciones.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Un ambiente tranquilo y hermoso al atardecer.",
           "is_correct": true,
           "feedback": "Es correcta porque los colores, la brisa y el sonido suave crean calma."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Una tormenta peligrosa con vientos fuertes.",
           "is_correct": false,
           "feedback": "Es incorrecta porque las olas suaves y la brisa fresca no indican tormenta."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Una mañana fría y oscura de invierno.",
           "is_correct": false,
           "feedback": "Es incorrecta porque el cielo naranja indica atardecer, no mañana oscura."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Un mercado ruidoso lleno de gente.",
           "is_correct": false,
           "feedback": "Es incorrecta porque no hay mención de ventas ni multitudes."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El ambiente se deduce de los detalles sensoriales: color, tacto y sonido. Aquí las tres pistas apuntan a la tranquilidad. Reconocer el ambiente también ayuda a crear atmósferas en cuentos propios.",
       "difficulty": "6",
       "images": [],
@@ -197,31 +197,31 @@
       "context": "En una papelería de Pereira, Mariana compra un cuaderno de 6000 pesos y paga con un billete de 10000 pesos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Que es amable y la cuenta es correcta porque 10000 menos 6000 es 4000.",
           "is_correct": true,
           "feedback": "Es correcta porque une la cualidad de paciente con la operación bien hecha."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Que es grosera y no devolvió nada.",
           "is_correct": false,
           "feedback": "Es incorrecta porque explicó con calma y sí dio devuelta."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Que la devuelta era de 6000 pesos.",
           "is_correct": false,
           "feedback": "Es incorrecta porque esa es la resta al revés."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Que Mariana pagó con monedas de 500 pesos.",
           "is_correct": false,
           "feedback": "Es incorrecta porque pagó con un billete de 10000 pesos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La descripción de la voz dulce y la calma permite inferir amabilidad, y la resta confirma la devuelta. Unir rasgos del personaje con datos numéricos también ejercita la atención y la comunicación respetuosa.",
       "difficulty": "6",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "En Manizales, el curso analiza dos descripciones del mismo niño.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Porque usa una comparación, una acción y una cualidad que lo muestran completo.",
           "is_correct": true,
           "feedback": "Es correcta porque combina imagen, movimiento y valor humano."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque es más corta y no da detalles.",
           "is_correct": false,
           "feedback": "Es incorrecta porque es más larga y sí da detalles."
@@ -267,7 +267,7 @@
           "feedback": "Es incorrecta porque sí describe su cuerpo y su forma de ser."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Analizar descripciones enseña que los buenos retratos mezclan rasgos físicos, comparaciones y cualidades. La imagen del guadual ayuda a visualizar la altura. Este análisis también orienta el uso de adjetivos con correcta ortografía.",
       "difficulty": "8",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "En Bogotá, dos estudiantes describen el mismo salón de clase.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Que cada uno mira el mismo lugar con una actitud distinta.",
           "is_correct": true,
           "feedback": "Es correcta porque el contraste muestra miradas opuestas sobre el mismo salón."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Que describen dos colegios de ciudades diferentes.",
           "is_correct": false,
           "feedback": "Es incorrecta porque ambos hablan del mismo salón."
@@ -313,7 +313,7 @@
           "feedback": "Es incorrecta porque ambos dan detalles concretos del lugar."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Las descripciones reflejan la mirada de quien escribe. Analizar el contraste revela actitudes y emociones, no solo datos del lugar. Esta lectura crítica también invita a describir con equilibrio y respeto.",
       "difficulty": "8",
       "images": [],
@@ -335,19 +335,19 @@
       "context": "En Cali, el periódico escolar debe elegir la mejor descripción de la plaza de mercado para invitar a visitarla.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "La plaza huele a frutas frescas, brilla con colores vivos y se escucha la risa de los vendedores que también ofrecen jugos naturales.",
           "is_correct": true,
           "feedback": "Es correcta porque usa olores, colores y sonidos que atraen al lector."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La plaza es un lugar.",
           "is_correct": false,
           "feedback": "Es incorrecta porque es demasiado breve y no despierta interés."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La plaza es fea, sucia y nadie debería ir.",
           "is_correct": false,
           "feedback": "Es incorrecta porque rechaza al lector en vez de invitarlo."
@@ -359,7 +359,7 @@
           "feedback": "Es incorrecta porque desanima la visita sin describir nada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Evaluar descripciones exige juzgar su efecto en el lector. La mejor opción combina detalles sensoriales y tono acogedor para convencer. Escribir así demuestra dominio de la descripción y cuidado con la comunicación persuasiva.",
       "difficulty": "10",
       "images": [],

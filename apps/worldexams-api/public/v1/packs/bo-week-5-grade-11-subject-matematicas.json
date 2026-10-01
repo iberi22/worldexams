@@ -13,19 +13,19 @@
       "context": "En el Colegio Nacional Santa Cruz de Santa Cruz, el estudiante Roxana plantea ecuaciones de primer grado para modelar presupuestos familiares.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "ax + b = 0, con a distinto de cero",
           "is_correct": true,
           "feedback": "¡Correcto! Esta ecuación tiene grado 1 respecto a la variable x, y su solución es única y real si a != 0."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "ax^2 + bx + c = 0",
           "is_correct": false,
           "feedback": "Incorrecto. Esta es la forma general de una ecuación cuadrática, de segundo grado."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "ax + by + c = 0",
           "is_correct": false,
           "feedback": "Incorrecto. Esta es una ecuación lineal con dos variables, no con una."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Esta es una ecuación racional, no una ecuación lineal pura de primer grado."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Una ecuación lineal de primer grado con una variable se escribe en la forma ax + b = 0, donde a y b son constantes reales con a != 0.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -58,13 +58,13 @@
       "context": "En el Colegio Nacional Sucre de Cochabamba, el estudiante Jhonny plantea ecuaciones de primer grado para modelar presupuestos familiares.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "12",
           "is_correct": true,
           "feedback": "¡Correcto! Restando 5 a ambos lados se obtiene x / 2 = 6, y multiplicando por 2 resulta x = 12."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "8",
           "is_correct": false,
           "feedback": "Incorrecto. Si x = 8, 8 / 2 + 5 = 4 + 5 = 9, no 11."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. Olvidaste multiplicar por 2 al despejar la fracción del miembro izquierdo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Restando 5 en ambos miembros obtenemos x / 2 = 6. Multiplicando ambos lados por 2 para despejar la variable resulta x = 12.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -103,13 +103,13 @@
       "context": "En el Colegio Nacional El Alto de El Alto, el estudiante Marisol plantea ecuaciones de primer grado para modelar presupuestos familiares.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "2x + 3 = 15",
           "is_correct": true,
           "feedback": "¡Correcto! El doble de un número es 2x, y sumándole 3 es 2x + 3. Igualando a 15 resulta 2x + 3 = 15."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "3x + 2 = 15",
           "is_correct": false,
           "feedback": "Incorrecto. Escribiste el triple del número más dos, lo cual contradice el enunciado."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. Elevaste la variable al cuadrado en lugar de multiplicarla por 2."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Tradiciendo al lenguaje algebraico: 'el doble de un número x' es 2x. 'Sumamos 3' es + 3. 'Se obtiene 15' es = 15. Por ende, la ecuación es 2x + 3 = 15.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,19 +148,19 @@
       "context": "En el Colegio Nacional Junín de Sucre, el estudiante Walter plantea ecuaciones de primer grado para modelar presupuestos familiares.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "28",
           "is_correct": true,
           "feedback": "¡Correcto! Agrupando los términos semejantes se obtiene el valor correspondiente de x."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "4",
           "is_correct": false,
           "feedback": "Incorrecto. Error al despejar los coeficientes reales de la ecuación."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "0",
           "is_correct": false,
           "feedback": "Incorrecto. La variable no se anula por completo en este sistema."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. Error de signos en las constantes de la ecuación."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Agrupando los términos con variable x del lado izquierdo y los independientes a la derecha obtenemos la solución única.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -238,31 +238,31 @@
       "context": "En el Colegio Nacional Potosí de Oruro, el estudiante Ramiro plantea ecuaciones de primer grado para modelar presupuestos familiares.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "42",
           "is_correct": true,
           "feedback": "¡Correcto! Agrupando los términos semejantes se obtiene el valor correspondiente de x."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "6",
           "is_correct": false,
           "feedback": "Incorrecto. Error al despejar los coeficientes reales de la ecuación."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "0",
           "is_correct": false,
           "feedback": "Incorrecto. La variable no se anula por completo en este sistema."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "-6",
           "is_correct": false,
           "feedback": "Incorrecto. Error de signos en las constantes de la ecuación."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Agrupando los términos con variable x del lado izquierdo y los independientes a la derecha obtenemos la solución única.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -283,19 +283,19 @@
       "context": "En el Colegio Nacional San Luis de Potosí, el estudiante Yolanda plantea ecuaciones de primer grado para modelar presupuestos familiares.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "49",
           "is_correct": true,
           "feedback": "¡Correcto! Agrupando los términos semejantes se obtiene el valor correspondiente de x."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "7",
           "is_correct": false,
           "feedback": "Incorrecto. Error al despejar los coeficientes reales de la ecuación."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "0",
           "is_correct": false,
           "feedback": "Incorrecto. La variable no se anula por completo en este sistema."
@@ -307,7 +307,7 @@
           "feedback": "Incorrecto. Error de signos en las constantes de la ecuación."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Agrupando los términos con variable x del lado izquierdo y los independientes a la derecha obtenemos la solución única.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -328,13 +328,13 @@
       "context": "En el Colegio Nacional Trinidad de Cobija, el estudiante Jaime plantea ecuaciones de primer grado para modelar presupuestos familiares.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "56",
           "is_correct": true,
           "feedback": "¡Correcto! Agrupando los términos semejantes se obtiene el valor correspondiente de x."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "8",
           "is_correct": false,
           "feedback": "Incorrecto. Error al despejar los coeficientes reales de la ecuación."
@@ -352,7 +352,7 @@
           "feedback": "Incorrecto. Error de signos en las constantes de la ecuación."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Agrupando los términos con variable x del lado izquierdo y los independientes a la derecha obtenemos la solución única.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -373,31 +373,31 @@
       "context": "En el Colegio Nacional Cobija de Trinidad, el estudiante Marcela plantea ecuaciones de primer grado para modelar presupuestos familiares.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "63",
           "is_correct": true,
           "feedback": "¡Correcto! Agrupando los términos semejantes se obtiene el valor correspondiente de x."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "9",
           "is_correct": false,
           "feedback": "Incorrecto. Error al despejar los coeficientes reales de la ecuación."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "0",
           "is_correct": false,
           "feedback": "Incorrecto. La variable no se anula por completo en este sistema."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "-9",
           "is_correct": false,
           "feedback": "Incorrecto. Error de signos en las constantes de la ecuación."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Agrupando los términos con variable x del lado izquierdo y los independientes a la derecha obtenemos la solución única.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -418,13 +418,13 @@
       "context": "En el Colegio Nacional Ayacucho de La Paz, el estudiante Grover plantea ecuaciones de primer grado para modelar presupuestos familiares.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "70",
           "is_correct": true,
           "feedback": "¡Correcto! Agrupando los términos semejantes se obtiene el valor correspondiente de x."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "10",
           "is_correct": false,
           "feedback": "Incorrecto. Error al despejar los coeficientes reales de la ecuación."
@@ -442,7 +442,7 @@
           "feedback": "Incorrecto. Error de signos en las constantes de la ecuación."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Agrupando los términos con variable x del lado izquierdo y los independientes a la derecha obtenemos la solución única.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -463,31 +463,31 @@
       "context": "En el Colegio Nacional Santa Cruz de Santa Cruz, el estudiante Roxana plantea ecuaciones de primer grado para modelar presupuestos familiares.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "77",
           "is_correct": true,
           "feedback": "¡Correcto! Agrupando los términos semejantes se obtiene el valor correspondiente de x."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "11",
           "is_correct": false,
           "feedback": "Incorrecto. Error al despejar los coeficientes reales de la ecuación."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "0",
           "is_correct": false,
           "feedback": "Incorrecto. La variable no se anula por completo en este sistema."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "-11",
           "is_correct": false,
           "feedback": "Incorrecto. Error de signos en las constantes de la ecuación."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Agrupando los términos con variable x del lado izquierdo y los independientes a la derecha obtenemos la solución única.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -508,19 +508,19 @@
       "context": "En el Colegio Nacional Sucre de Cochabamba, el estudiante Jhonny plantea ecuaciones de primer grado para modelar presupuestos familiares.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "84",
           "is_correct": true,
           "feedback": "¡Correcto! Agrupando los términos semejantes se obtiene el valor correspondiente de x."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "12",
           "is_correct": false,
           "feedback": "Incorrecto. Error al despejar los coeficientes reales de la ecuación."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "0",
           "is_correct": false,
           "feedback": "Incorrecto. La variable no se anula por completo en este sistema."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. Error de signos en las constantes de la ecuación."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Agrupando los términos con variable x del lado izquierdo y los independientes a la derecha obtenemos la solución única.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -553,19 +553,19 @@
       "context": "En el Colegio Nacional El Alto de El Alto, el estudiante Marisol plantea ecuaciones de primer grado para modelar presupuestos familiares.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "91",
           "is_correct": true,
           "feedback": "¡Correcto! Agrupando los términos semejantes se obtiene el valor correspondiente de x."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "13",
           "is_correct": false,
           "feedback": "Incorrecto. Error al despejar los coeficientes reales de la ecuación."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "0",
           "is_correct": false,
           "feedback": "Incorrecto. La variable no se anula por completo en este sistema."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. Error de signos en las constantes de la ecuación."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Agrupando los términos con variable x del lado izquierdo y los independientes a la derecha obtenemos la solución única.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -598,19 +598,19 @@
       "context": "En el Colegio Nacional Junín de Sucre, el estudiante Walter plantea ecuaciones de primer grado para modelar presupuestos familiares.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "98",
           "is_correct": true,
           "feedback": "¡Correcto! Agrupando los términos semejantes se obtiene el valor correspondiente de x."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "14",
           "is_correct": false,
           "feedback": "Incorrecto. Error al despejar los coeficientes reales de la ecuación."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "0",
           "is_correct": false,
           "feedback": "Incorrecto. La variable no se anula por completo en este sistema."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. Error de signos en las constantes de la ecuación."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Agrupando los términos con variable x del lado izquierdo y los independientes a la derecha obtenemos la solución única.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -643,19 +643,19 @@
       "context": "En el Colegio Nacional Bolivar de Tarija, el estudiante Sonia plantea ecuaciones de primer grado para modelar presupuestos familiares.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "105",
           "is_correct": true,
           "feedback": "¡Correcto! Agrupando los términos semejantes se obtiene el valor correspondiente de x."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "15",
           "is_correct": false,
           "feedback": "Incorrecto. Error al despejar los coeficientes reales de la ecuación."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "0",
           "is_correct": false,
           "feedback": "Incorrecto. La variable no se anula por completo en este sistema."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. Error de signos en las constantes de la ecuación."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Agrupando los términos con variable x del lado izquierdo y los independientes a la derecha obtenemos la solución única.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -733,19 +733,19 @@
       "context": "En el Colegio Nacional San Luis de Potosí, el estudiante Yolanda plantea ecuaciones de primer grado para modelar presupuestos familiares.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "119",
           "is_correct": true,
           "feedback": "¡Correcto! Agrupando los términos semejantes se obtiene el valor correspondiente de x."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "17",
           "is_correct": false,
           "feedback": "Incorrecto. Error al despejar los coeficientes reales de la ecuación."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "0",
           "is_correct": false,
           "feedback": "Incorrecto. La variable no se anula por completo en este sistema."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. Error de signos en las constantes de la ecuación."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Agrupando los términos con variable x del lado izquierdo y los independientes a la derecha obtenemos la solución única.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -823,13 +823,13 @@
       "context": "En el Colegio Nacional Cobija de Trinidad, el estudiante Marcela plantea ecuaciones de primer grado para modelar presupuestos familiares.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "133",
           "is_correct": true,
           "feedback": "¡Correcto! Agrupando los términos semejantes se obtiene el valor correspondiente de x."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "19",
           "is_correct": false,
           "feedback": "Incorrecto. Error al despejar los coeficientes reales de la ecuación."
@@ -847,7 +847,7 @@
           "feedback": "Incorrecto. Error de signos en las constantes de la ecuación."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Agrupando los términos con variable x del lado izquierdo y los independientes a la derecha obtenemos la solución única.\n\n---",
       "difficulty": "10",
       "images": [],

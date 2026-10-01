@@ -59,31 +59,31 @@
       "context": "En el periódico escolar \"La Voz del Colegio\" de Pereira, aparecen las secciones: Actualidad, Cultura, Deportes, Opinión y Curiosidades.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Noticias recientes sobre hechos sucedidos en el colegio o en el municipio.",
           "is_correct": true,
           "feedback": "La sección de actualidad recoge hechos recientes y de interés para la comunidad."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Recetas de cocina típicas de la región.",
           "is_correct": false,
           "feedback": "Las recetas suelen aparecer en secciones de cultura o vida práctica."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Resultados de videojuegos populares entre los estudiantes.",
           "is_correct": false,
           "feedback": "Los resultados de videojuegos no son contenido periodístico escolar habitual."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Canciones de moda escuchadas por los jóvenes del colegio.",
           "is_correct": false,
           "feedback": "La música se aborda en secciones de cultura, no en la de actualidad."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Comprender que la sección de actualidad agrupa noticias recientes de interés para la comunidad educativa.",
       "difficulty": "4",
       "images": [],
@@ -151,13 +151,13 @@
       "context": "En el periódico escolar de un colegio de Sincelejo aparece: \"Estudiantes de quinto ganaron el concurso de robótica departamental con un prototipo que recicla botellas.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "\"Estudiantes de quinto grado del colegio X ganaron el concurso departamental de robótica con un prototipo que reutiliza botellas de plástico.\"",
           "is_correct": true,
           "feedback": "El lead resume los datos clave: quiénes, qué y cómo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "\"Algunas personas creen que los concursos de robótica son entretenidos.\"",
           "is_correct": false,
           "feedback": "El lead debe informar, no solo expresar una opinión vaga."
@@ -175,7 +175,7 @@
           "feedback": "El lead no debe aportar información general desligada del hecho principal."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Aplicar las características del lead para resumir la información esencial de una noticia escolar.",
       "difficulty": "6",
       "images": [],
@@ -243,31 +243,31 @@
       "context": "Compara dos fragmentos: \"Noticia: El colegio ganó el premio ambiental gracias al proyecto de huerta escolar.\" \"Opinión: Considero que el colegio merecía ese premio porque los estudiantes se esforzaron mucho.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "La noticia informa un hecho verificable, mientras que la opinión expresa un juicio personal del autor.",
           "is_correct": true,
           "feedback": "La noticia se basa en hechos; la opinión refleja la valoración del autor."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Los dos fragmentos son idénticos en su intención, porque ambos hablan del premio.",
           "is_correct": false,
           "feedback": "Aunque comparten tema, su intención comunicativa es diferente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La opinión es más objetiva que la noticia.",
           "is_correct": false,
           "feedback": "La noticia suele ser más objetiva; la opinión es subjetiva por naturaleza."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La noticia no se publica en periódicos escolares, solo la opinión.",
           "is_correct": false,
           "feedback": "Tanto las noticias como las opiniones se publican en periódicos escolares."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Analizar la diferencia entre informar un hecho y expresar una opinión personal dentro del periódico escolar.",
       "difficulty": "8",
       "images": [],
@@ -289,19 +289,19 @@
       "context": "En el periódico escolar de Armenia, un titular dice: \"Celebración del Día del Idioma reúne a toda la comunidad educativa\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Llamar la atención del lector y anticipar de forma breve el contenido principal de la noticia.",
           "is_correct": true,
           "feedback": "El titular destaca el hecho clave y motiva la lectura del cuerpo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Sustituir por completo al cuerpo de la noticia.",
           "is_correct": false,
           "feedback": "El titular resume, pero no reemplaza la información detallada."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Incluir toda la información complementaria y los testimonios.",
           "is_correct": false,
           "feedback": "Los testimonios y los detalles van en el cuerpo, no en el titular."
@@ -313,7 +313,7 @@
           "feedback": "El titular se enfoca en el hecho noticioso, no en biografías."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Analizar la función del titular como elemento clave para atraer lectores y sintetizar la información.",
       "difficulty": "8",
       "images": [],
@@ -335,19 +335,19 @@
       "context": "El periódico escolar de un colegio de Villavicencio publica una nota titulada \"Estudiantes mejoran resultados en pruebas Saber\" sin fuentes ni datos concretos, solo con generalidades.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Faltan fuentes verificables, datos precisos y contexto, lo que hace que la noticia sea poco confiable para los lectores.",
           "is_correct": true,
           "feedback": "Una noticia escolar debe ser veraz, clara y sustentada para informar correctamente."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "No se cumplen criterios, pero no importa, porque es solo un periódico escolar.",
           "is_correct": false,
           "feedback": "Aunque sea escolar, el periódico debe mantener criterios básicos de calidad periodística."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El titular es demasiado largo y eso hace que el periódico sea aburrido.",
           "is_correct": false,
           "feedback": "El problema central no es la extensión del titular, sino la falta de fuentes y datos."
@@ -359,7 +359,7 @@
           "feedback": "Las notas informativas sí deben incluir datos concretos y verificables."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Evaluar la calidad periodística de una noticia escolar y reconocer la importancia de la veracidad y las fuentes.",
       "difficulty": "10",
       "images": [],

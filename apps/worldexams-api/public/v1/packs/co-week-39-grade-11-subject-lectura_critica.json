@@ -13,13 +13,13 @@
       "context": "En clase en Bogotá, los estudiantes identifican tradiciones literarias iberoamericanas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Una corriente que describe costumbres, tipos sociales y escenas cotidianas de una época y lugar.",
           "is_correct": true,
           "feedback": "Foco en tipos, hábitos y escenas reconocibles."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Un género exclusivamente científico.",
           "is_correct": false,
           "feedback": "Es literario."
@@ -37,7 +37,7 @@
           "feedback": "Es figurativa."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El costumbrismo fija retratos de época y permite observar la sociedad con humor crítico.",
       "difficulty": "4",
       "images": [],
@@ -105,19 +105,19 @@
       "context": "En Cali, se interpreta el efecto del humor en un texto satírico.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Porque apela al humor y a la ironía para burlar defensas y abrir reflexión.",
           "is_correct": true,
           "feedback": "Relaja y dispone al lector."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque evita cualquier argumento.",
           "is_correct": false,
           "feedback": "Argumenta con humor."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque oculta totalmente su intención.",
           "is_correct": false,
           "feedback": "La intención es legible."
@@ -129,7 +129,7 @@
           "feedback": "Usa lenguaje coloquial."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El humor desactiva resistencias y permite abordar críticamente lo establecido.",
       "difficulty": "4",
       "images": [],
@@ -151,19 +151,19 @@
       "context": "En Barranquilla, se estudian los \"tipos\" sociales del costumbrismo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Un personaje representativo de una clase, oficio o costumbre de su época.",
           "is_correct": true,
           "feedback": "Encarna una categoría social."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Un modelo estadístico de población.",
           "is_correct": false,
           "feedback": "Es literario."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Un personaje fantástico sin anclaje social.",
           "is_correct": false,
           "feedback": "Tiene anclaje."
@@ -175,7 +175,7 @@
           "feedback": "Es cultural."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Los tipos condensan rasgos colectivos y permiten la crítica social por caricatura.",
       "difficulty": "4",
       "images": [],
@@ -197,19 +197,19 @@
       "context": "En clase en Cartagena, se interpreta un pasaje de \"Cuadros de costumbres\" colombianos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Caracterización tipológica que retrata hábitos de una clase social urbana.",
           "is_correct": true,
           "feedback": "Construye un tipo reconocible."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Información científica sin intención crítica.",
           "is_correct": false,
           "feedback": "Posee intención estética y crítica."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Anuncio publicitario literal.",
           "is_correct": false,
           "feedback": "Es literario."
@@ -221,7 +221,7 @@
           "feedback": "Es de personas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La descripción costumbrista estiliza lo cotidiano para reflejar una sociedad.",
       "difficulty": "6",
       "images": [],
@@ -243,31 +243,31 @@
       "context": "En Bucaramanga, se analizan recursos sintácticos de un texto satírico.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Ironía: se dice lo contrario de lo que se piensa.",
           "is_correct": true,
           "feedback": "Es ironía verbal."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Metáfora científica.",
           "is_correct": false,
           "feedback": "Es coloquial."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Discurso técnico legal.",
           "is_correct": false,
           "feedback": "Es humorístico."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Hipérbatum exclusivamente.",
           "is_correct": false,
           "feedback": "No hay inversión del orden."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La ironía es eje de la sátira: expresa crítica sin explicitar la denuncia.",
       "difficulty": "6",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "En clase en Pereira, se compara una caricatura política de prensa.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Hipérbole visual con intención satírica y crítica.",
           "is_correct": true,
           "feedback": "Exagera para denunciar."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Retrato fiel sin intención.",
           "is_correct": false,
           "feedback": "Hay distorsión intencionada."
@@ -313,7 +313,7 @@
           "feedback": "Comunica."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La caricatura sintetiza rasgos para producir crítica política con economía visual.",
       "difficulty": "6",
       "images": [],
@@ -335,19 +335,19 @@
       "context": "En Tunja, se estudian columnas de opinión satíricas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Conectar con la cultura compartida y subvertir el refrán para cuestionar.",
           "is_correct": true,
           "feedback": "Provoca contraste crítico."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Llenar el texto sin efecto.",
           "is_correct": false,
           "feedback": "Tiene efecto irónico."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Evitar el humor.",
           "is_correct": false,
           "feedback": "Lo potencia."
@@ -359,7 +359,7 @@
           "feedback": "Lo transforma."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La reelaboración irónica de refranes activa la memoria cultural y la somete a crítica.",
       "difficulty": "6",
       "images": [],
@@ -381,19 +381,19 @@
       "context": "En Pasto, se compara una crónica costumbrista del siglo XIX y un cuadro actual.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "La representación detallada de una práctica cultural colectiva reconocible.",
           "is_correct": true,
           "feedback": "Persiste la intención costumbrista."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El rechazo total de la cultura popular.",
           "is_correct": false,
           "feedback": "La celebra críticamente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La ausencia de personajes.",
           "is_correct": false,
           "feedback": "Están presentes."
@@ -405,7 +405,7 @@
           "feedback": "Mira el presente."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El costumbrismo fija tradiciones colectivas, las describe y las somete a mirada crítica.",
       "difficulty": "6",
       "images": [],
@@ -473,31 +473,31 @@
       "context": "En Popayán, se contrasta el costumbrismo romántico y la sátira moderna.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "El costumbrismo describe con simpatía crítica; la sátira contemporánea usa humor ácido para evidenciar poderes.",
           "is_correct": true,
           "feedback": "Cambian tono y objetivo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El costumbrismo no usa humor.",
           "is_correct": false,
           "feedback": "Lo usa con suavidad."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La sátira contemporánea es descriptiva y neutra.",
           "is_correct": false,
           "feedback": "Es crítica."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Son idénticas en intención.",
           "is_correct": false,
           "feedback": "Difieren en alcance y tono."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Ambas observan la realidad, pero la sátira contemporánea profundiza la denuncia.",
       "difficulty": "8",
       "images": [],
@@ -519,31 +519,31 @@
       "context": "En Bogotá, se interpreta un meme satírico sobre un funcionario.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "El contexto político, la intención del autor y el efecto buscado en la audiencia.",
           "is_correct": true,
           "feedback": "Es interpretación multimodal."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Solo el tamaño de la imagen.",
           "is_correct": false,
           "feedback": "Es dato formal."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La marca del dispositivo con que se hizo.",
           "is_correct": false,
           "feedback": "Irrelevante."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La cantidad de píxeles.",
           "is_correct": false,
           "feedback": "No aporta sentido."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La interpretación de una sátira exige atención al contexto y a los códigos compartidos.",
       "difficulty": "8",
       "images": [],
@@ -565,13 +565,13 @@
       "context": "En Medellín, se estudia la ironía dramática en una comedia costumbrista.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La ironía situacional: el resultado contradice la intención del personaje.",
           "is_correct": true,
           "feedback": "Es ironía dramática."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Una catástrofe ajena al personaje.",
           "is_correct": false,
           "feedback": "Proviene de su propia acción."
@@ -589,7 +589,7 @@
           "feedback": "Hay conflicto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La ironía dramática surge cuando el destino contradice las decisiones del personaje.",
       "difficulty": "8",
       "images": [],
@@ -611,19 +611,19 @@
       "context": "En Ibagué, se analiza la sintaxis de una caricatura escrita.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Rítmico y contrastante: la repetición subraya la contradicción denunciada.",
           "is_correct": true,
           "feedback": "Es paralelismo antitético."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Aleatorio y confuso.",
           "is_correct": false,
           "feedback": "Es ordenado."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Exclusivamente narrativo.",
           "is_correct": false,
           "feedback": "Es argumentativo."
@@ -635,7 +635,7 @@
           "feedback": "Refuerza la crítica."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El paralelismo antitético organiza la denuncia y la hace memorable.",
       "difficulty": "8",
       "images": [],
@@ -657,19 +657,19 @@
       "context": "En Santa Marta, se comparan tradiciones satíricas latinoamericanas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Critican prácticas sociales con humor reconocible, exponiendo vicios compartidos.",
           "is_correct": true,
           "feedback": "Es el denominador común."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Evitan la crítica política.",
           "is_correct": false,
           "feedback": "La abordan."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Son exclusivamente serias.",
           "is_correct": false,
           "feedback": "Usan humor."
@@ -681,7 +681,7 @@
           "feedback": "Están ancladas a ella."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La sátira latinoamericana dialoga con su contexto mediante recursos humorísticos.",
       "difficulty": "8",
       "images": [],
@@ -749,31 +749,31 @@
       "context": "En un coloquio en Bogotá, se debate sobre la vigencia del costumbrismo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Persiste como mirada crítica a nuevas costumbres urbanas, digitales y culturales.",
           "is_correct": true,
           "feedback": "Se renueva con nuevos temas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Desapareció totalmente.",
           "is_correct": false,
           "feedback": "Persiste transformado."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Solo se estudia históricamente sin práctica.",
           "is_correct": false,
           "feedback": "Se cultiva."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Es incompatible con la crítica social.",
           "is_correct": false,
           "feedback": "La promueve."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El costumbrismo se adapta a nuevas escenas sociales sin perder su intención crítica.",
       "difficulty": "10",
       "images": [],
@@ -795,13 +795,13 @@
       "context": "En un foro en Cali, se analiza el impacto de la sátira digital.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Difamación, simplificación de debates y viralización de mensajes ofensivos.",
           "is_correct": true,
           "feedback": "Riesgos documentados."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Total ausencia de efectos.",
           "is_correct": false,
           "feedback": "Tiene efectos."
@@ -819,7 +819,7 @@
           "feedback": "Puede aumentarla."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La sátira digital exige responsabilidad: humor sin difamación y crítica sin odio.",
       "difficulty": "10",
       "images": [],
@@ -841,13 +841,13 @@
       "context": "En Manizales, se evalúa la pertinencia de la caricatura en el aula.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Permite analizar intencionalidad, contexto y mecanismos de persuasión en clave visual.",
           "is_correct": true,
           "feedback": "Es recurso multimodal."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Solo entretiene sin enseñar.",
           "is_correct": false,
           "feedback": "Enseña."
@@ -865,7 +865,7 @@
           "feedback": "Es accesible."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La caricatura, usada críticamente, desarrolla alfabetidad visual y ciudadana.",
       "difficulty": "10",
       "images": [],

@@ -19,25 +19,25 @@
           "feedback": "Incorrecto. La pendiente está representada por el coeficiente $m$."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "La ordenada al origen (intersección con el eje $Y$).",
           "is_correct": true,
           "feedback": "Correcto. El valor de $b$ indica el punto $(0, b)$ donde la recta cruza el eje vertical."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La raíz de la función.",
           "is_correct": false,
           "feedback": "Incorrecto. La raíz se halla igualando la función a cero."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El factor de crecimiento.",
           "is_correct": false,
           "feedback": "Incorrecto. El crecimiento depende del valor de la pendiente $m$."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "En la ecuación de la recta $y = mx + b$, el término independiente $b$ es la ordenada al origen, pues corresponde al valor de $y$ cuando $x = 0$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -103,13 +103,13 @@
       "context": "Evaluación de funciones en un simulacro de examen de admisión a la Universidad Nacional Mayor de San Marcos (UNMSM).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "13",
           "is_correct": false,
           "feedback": "Incorrecto. Verifique el orden de las operaciones."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "5",
           "is_correct": true,
           "feedback": "Correcto. $f(6) = (3/2) \\times 6 - 4 = 9 - 4 = 5$."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. Realizó mal la multiplicación de la fracción."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Sustituimos el valor dado de $x$ en la regla de correspondencia: $\\frac{3}{2}(6) - 4$. Operando resulta $9 - 4 = 5$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -154,25 +154,25 @@
           "feedback": "Incorrecto. Error en la resta de las coordenadas."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "2",
           "is_correct": true,
           "feedback": "Correcto. $m = \\frac{y_2 - y_1}{x_2 - x_1} = \\frac{8 - 2}{3 - 0} = \\frac{6}{3} = 2$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "6",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidó dividir por la diferencia en $x$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "1/2",
           "is_correct": false,
           "feedback": "Incorrecto. Invirtió la fórmula de la pendiente."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La pendiente $m$ se define como la razón entre el cambio vertical y el cambio horizontal entre dos puntos cualesquiera de la recta.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -199,25 +199,25 @@
           "feedback": "Incorrecto. $35(3) + 50 = 155$. No llega al monto total."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "4 horas",
           "is_correct": true,
           "feedback": "Correcto. $35x + 50 = 190 \\Rightarrow 35x = 140 \\Rightarrow x = 4$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "5 horas",
           "is_correct": false,
           "feedback": "Incorrecto. $35(5) + 50 = 225$. Excede el monto pagado."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "2 horas",
           "is_correct": false,
           "feedback": "Incorrecto. Monto insuficiente."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Planteamos una ecuación de primer grado igualando la función al costo total: $35x + 50 = 190$. Despejamos $x$ para hallar el número de horas.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -250,19 +250,19 @@
           "feedback": "Incorrecto. Esta es la pendiente de una recta perpendicular."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "$y = -4x - 1$",
           "is_correct": true,
           "feedback": "Correcto. Dos rectas son paralelas si tienen la misma pendiente; en este caso, -4."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$y = -2x + 10$",
           "is_correct": false,
           "feedback": "Incorrecto. La pendiente es diferente."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Dos rectas no verticales son paralelas si y solo si sus pendientes son iguales. Como la recta original tiene $m = -4$, cualquier paralela debe tener la misma pendiente.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -334,13 +334,13 @@
           "feedback": "Incorrecto. Con $b < 0$ y $m > 0$, la recta no puede pasar por el cuadrante II."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "I, III y IV",
           "is_correct": true,
           "feedback": "Correcto. Empieza en el eje $Y$ negativo (IV), cruza el eje $X$ positivo (hacia III) y sube infinitamente (hacia I). Un momento, revisemos los signos de los cuadrantes. $(+,-)$ es IV. Si sube hacia la derecha, pasa de IV a I cruzando el eje $X$. Pero también ocupa el cuadrante III? No, si cruza el eje $Y$ en $(0, -b)$ y sube, viene del cuadrante III para $x$ negativos muy grandes."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "II, III y IV",
           "is_correct": false,
           "feedback": "Incorrecto. Al tener pendiente positiva, eventualmente entrará al cuadrante I."
@@ -352,7 +352,7 @@
           "feedback": "Incorrecto. Al tener ordenada al origen no nula, debe pasar por un tercer cuadrante."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Con $m > 0$, la función es creciente. Con $b < 0$, corta al eje $Y$ abajo del origen (cuadrante IV o entre III/IV). Para valores de $x$ negativos suficientemente grandes, $y$ será negativo (III). Para $x = 0$, $y$ es negativo (eje entre III y IV). Para $x$ positivos grandes, $y$ será positivo (I).\n\n---",
       "difficulty": "6",
       "images": [],
@@ -373,13 +373,13 @@
       "context": "Hallar la ecuación de la recta a partir de información fragmentada.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$y = -2x + 9$",
           "is_correct": false,
           "feedback": "Incorrecto. Usó la pendiente opuesta pero no recíproca."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$y = -0.5x + 6$",
           "is_correct": true,
           "feedback": "Correcto. Pendiente perpendicular $m = -1/2 = -0.5$. Luego: $5 = -0.5(2) + b \\Rightarrow 5 = -1 + b \\Rightarrow b = 6$."
@@ -397,7 +397,7 @@
           "feedback": "Incorrecto. Error en el cálculo de la ordenada al origen."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La pendiente de una recta perpendicular es la opuesta y recíproca de la original. Si $m_1 = 2$, entonces $m_2 = -1/2$. Usamos el punto $(2, 5)$ para hallar la constante $b$ en la forma $y = mx + b$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -424,25 +424,25 @@
           "feedback": "Incorrecto. Esto indicaría un descenso de 6.5 grados por cada metro, no por cada mil."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$T(h) = 25 - 0.0065h$",
           "is_correct": true,
           "feedback": "Correcto. La tasa es $6.5/1000 = 0.0065$ grados por metro. Al ser descenso, la pendiente es negativa."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$T(h) = 0.0065h - 25$",
           "is_correct": false,
           "feedback": "Incorrecto. La temperatura inicial debe ser positiva y la pendiente negativa."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$T(h) = 25 + 0.0065h$",
           "is_correct": false,
           "feedback": "Incorrecto. La temperatura debe disminuir al subir la altura."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La pendiente representa la variación de la temperatura por unidad de altura (1 metro). Como baja 6.5 grados en 1000 metros, baja $0.0065$ por metro. La función afín es $T(h) = 25 - 0.0065h$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -469,25 +469,25 @@
           "feedback": "Incorrecto. Los costos serían 700 y 650 respectivamente."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "30 kg",
           "is_correct": true,
           "feedback": "Correcto. $15x + 400 = 20x + 250 \\Rightarrow 150 = 5x \\Rightarrow x = 30$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "50 kg",
           "is_correct": false,
           "feedback": "Incorrecto. Excede el punto de equilibrio."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "15 kg",
           "is_correct": false,
           "feedback": "Incorrecto. No iguala las funciones de costo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Igualamos las dos funciones de costo $C_A(x) = C_B(x)$ para encontrar el valor de la variable independiente que produce el mismo valor en la variable dependiente.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -514,25 +514,25 @@
           "feedback": "Incorrecto. El tiempo no puede ser negativo."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$[0, 12]$",
           "is_correct": true,
           "feedback": "Correcto. La vela se consume totalmente cuando $30 - 2.5t = 0 \\Rightarrow t = 12$. Por tanto, el tiempo válido va desde que se enciende (0) hasta que se acaba (12)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$[0, 30]$",
           "is_correct": false,
           "feedback": "Incorrecto. Confundió la longitud inicial con el tiempo máximo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$\\mathbb{R}$",
           "is_correct": false,
           "feedback": "Incorrecto. En contextos reales el dominio suele estar acotado por condiciones físicas."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El dominio es el conjunto de valores que puede tomar el tiempo $t$. Comienza en $t = 0$ y termina cuando la longitud de la vela llega a cero, lo cual ocurre a las 12 horas.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -643,13 +643,13 @@
       "context": "Una empresa de gas en Cusco cobra según la siguiente tarifa: S/ 12 por cargo fijo que incluye los primeros 10 m³, y S/ 1.50 por cada m³ adicional.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$C(x) = 1.5x + 12$",
           "is_correct": false,
           "feedback": "Incorrecto. Esta función cobraría el variable desde el primer metro cúbico."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$C(x) = 1.5x - 3$",
           "is_correct": true,
           "feedback": "Correcto. $C(x) = 12 + 1.5(x - 10) = 12 + 1.5x - 15 = 1.5x - 3$."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. El variable y el fijo están invertidos y aplicados incorrectamente."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Modelamos una función por partes simplificada. Para el tramo superior a 10, el costo es el fijo más 1.5 veces el exceso $(x - 10)$. Al simplificar la expresión $12 + 1.5(x - 10)$ obtenemos $1.5x - 3$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -694,25 +694,25 @@
           "feedback": "Incorrecto. El ángulo de inclinación para esta recta es 45°."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$y = -x$",
           "is_correct": true,
           "feedback": "Correcto. La pendiente $m = \\tan(135°) = -1$. Al pasar por el origen, $b = 0$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$y = -0.5x$",
           "is_correct": false,
           "feedback": "Incorrecto. La pendiente no corresponde a la tangente del ángulo dado."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$y = -x + 1$",
           "is_correct": false,
           "feedback": "Incorrecto. La recta no pasa por el origen."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La pendiente $m$ de una recta es igual a la tangente de su ángulo de inclinación $\\alpha$. Como $\\tan(135°) = -1$ y la recta pasa por el origen $(0,0)$, la ecuación es $y = -x$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -733,13 +733,13 @@
       "context": "Un problema de parámetros en familias de rectas, nivel examen de la UNI.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$k = 2$",
           "is_correct": false,
           "feedback": "Incorrecto. No iguala correctamente las pendientes."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$k = 2/3$",
           "is_correct": true,
           "feedback": "Correcto. Pendiente de los puntos $m = (7-3)/(4-2) = 2$. Pendiente de la familia de rectas: $m = -k/(k-1)$. Planteamos $2 = -k/(k-1) \\Rightarrow 2k - 2 = -k \\Rightarrow 3k = 2 \\Rightarrow k = 2/3$."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. Invirtió la relación final."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Primero calculamos la pendiente de la recta dada por los puntos ($m = 2$). Luego expresamos la pendiente de la recta paramétrica en función de $k$ ($m = -A/B$). Igualamos ambas pendientes y resolvemos para $k$.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -784,13 +784,13 @@
           "feedback": "Incorrecto. Esta es la distancia vertical, no la mínima (perpendicular)."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "8 unidades",
           "is_correct": false,
           "feedback": "Incorrecto. Revise el uso de la fórmula de distancia."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "6 unidades",
           "is_correct": true,
           "feedback": "Correcto. La ecuación general es $4x + 3y - 30 = 0$. Distancia $d = |4(0) + 3(0) - 30| / \\sqrt{4^2 + 3^2} = |-30| / 5 = 6$."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. Error de cálculo en el denominador de la fórmula."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Expresamos la función en su forma general $Ax + By + C = 0$. Luego aplicamos la fórmula de distancia de un punto $(x_0, y_0)$ a una recta: $d = \\frac{|Ax_0 + By_0 + C|}{\\sqrt{A^2 + B^2}}$.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -829,25 +829,25 @@
           "feedback": "Incorrecto. La producción neta sería $4(100) - 40 = 360$."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "110 trabajadores",
           "is_correct": true,
           "feedback": "Correcto. Producción $P(n) = 4n$ (ya que $200/50 = 4$). Producción neta $P_n(n) = 4n - 40$. Planteamos $4n - 40 \\ge 400 \\Rightarrow 4n \\ge 440 \\Rightarrow n \\ge 110$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "120 trabajadores",
           "is_correct": false,
           "feedback": "Incorrecto. Supera el mínimo necesario."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "105 trabajadores",
           "is_correct": false,
           "feedback": "Incorrecto. Producción neta insuficiente ($4 \\times 105 - 40 = 380$)."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Primero determinamos la tasa de producción por trabajador (pendiente $m = 4$). La función de producción total es $P(n) = 4n$. La función de producción neta es $P_n(n) = 4n - 40$. Resolvemos la inecuación para una meta de 400 toneladas.\n\n---",
       "difficulty": "10",
       "images": [],
