@@ -33,14 +33,15 @@ Se evalúa la lectura, organización y comparación de datos en tablas y pictogr
 ¿Qué fruta tuvo más votos?
 
 ### Opciones
-- [x] A) El mango, con 10 votos
-  <!-- feedback: Correcto. 10 es mayor que 8 y que 5 porque al comparar los 3 conteos el mango queda primero. -->
-- [ ] B) El banano, con 8 votos
+### Opciones
+- [ ] A) El banano, con 8 votos
   <!-- feedback: Incorrecto. 8 es menor que 10 porque el mango supera al banano en 2 votos. -->
-- [ ] C) La manzana, con 5 votos
+- [ ] B) La manzana, con 5 votos
   <!-- feedback: Incorrecto. 5 es el menor de los 3 conteos porque la manzana quedó de última en la votación. -->
-- [ ] D) Todas empataron, porque todas son frutas
+- [ ] C) Todas empataron, porque todas son frutas
   <!-- feedback: Incorrecto. 10, 8 y 5 son distintos porque ser frutas no iguala los conteos de la tabla. -->
+- [x] D) El mango, con 10 votos
+  <!-- feedback: Correcto. 10 es mayor que 8 y que 5 porque al comparar los 3 conteos el mango queda primero. -->
 
 ### Explicacion Pedagogica
 Leer una tabla es comparar los conteos. Mango 10 > Banano 8 > Manzana 5, así que el mango es la fruta favorita.
@@ -55,6 +56,7 @@ Leer una tabla es comparar los conteos. Mango 10 > Banano 8 > Manzana 5, así qu
 ### Enunciado
 ¿Cuántos niños fueron en bus el lunes?
 
+### Opciones
 ### Opciones
 - [x] A) 6 niños
   <!-- feedback: Correcto. 3 x 2 = 6 niños porque cada estrella equivale a 2 niños en el pictograma. -->
@@ -79,12 +81,13 @@ En un pictograma cada dibujo vale una cantidad fija. Aquí 1 estrella = 2 niños
 ¿Cuántos goles hicieron América y Boca juntos?
 
 ### Opciones
-- [x] A) 24 goles
-  <!-- feedback: Correcto. 15 + 9 = 24 goles porque se suman los datos de los 2 equipos pedidos. -->
-- [ ] B) 21 goles
+### Opciones
+- [ ] A) 21 goles
   <!-- feedback: Incorrecto. Sumaste 12 + 9 = 21 porque tomaste a Cali en vez de América con sus 15 goles. -->
-- [ ] C) 22 goles
+- [ ] B) 22 goles
   <!-- feedback: Incorrecto. Sumaste 15 + 7 = 22 porque tomaste a Cortu en vez de Boca con sus 9 goles. -->
+- [x] C) 24 goles
+  <!-- feedback: Correcto. 15 + 9 = 24 goles porque se suman los datos de los 2 equipos pedidos. -->
 - [ ] D) 43 goles
   <!-- feedback: Incorrecto. Sumaste 12 + 15 + 9 + 7 = 43 porque juntaste los 4 equipos y solo pedían 2. -->
 
@@ -102,10 +105,11 @@ La tabla permite elegir solo los datos pedidos: América 15 y Boca 9. Juntos son
 ¿Cuántos puntos más tiene tercero B que tercero A?
 
 ### Opciones
-- [x] A) 10 puntos
-  <!-- feedback: Correcto. 6 x 5 - 4 x 5 = 10 puntos porque B tiene 30 y A tiene 20 en el pictograma. -->
-- [ ] B) 2 puntos
+### Opciones
+- [ ] A) 2 puntos
   <!-- feedback: Incorrecto. Contaste 6 - 4 = 2 balones porque olvidaste que cada balón equivale a 5 puntos. -->
+- [x] B) 10 puntos
+  <!-- feedback: Correcto. 6 x 5 - 4 x 5 = 10 puntos porque B tiene 30 y A tiene 20 en el pictograma. -->
 - [ ] C) 50 puntos
   <!-- feedback: Incorrecto. Sumaste 30 + 20 = 50 porque juntaste los puntos en vez de hallar la diferencia. -->
 - [ ] D) 5 puntos
@@ -124,6 +128,7 @@ Tercero A: 4 x 5 = 20 puntos. Tercero B: 6 x 5 = 30 puntos. La diferencia es 30 
 ### Enunciado
 ¿Cuántos estudiantes respondieron la encuesta?
 
+### Opciones
 ### Opciones
 - [x] A) 45 estudiantes
   <!-- feedback: Correcto. 14 + 20 + 11 = 45 estudiantes porque se suman las 3 categorías de la tabla. -->
@@ -148,10 +153,11 @@ El total de encuestados es la suma de todas las categorías: 14 + 20 + 11 = 45 e
 ¿Quién tiene la razón?
 
 ### Opciones
-- [x] A) Sofía, porque 6 x 2 = 12 confirma que 12 es el doble de 6.
-  <!-- feedback: Correcto. 6 x 2 = 12 es exacto porque el gato tiene justo el doble de los peces. -->
-- [ ] B) Andrés, porque 18 es casi el doble de 12.
+### Opciones
+- [ ] A) Andrés, porque 18 es casi el doble de 12.
   <!-- feedback: Incorrecto. 12 x 2 = 24 y no 18 porque casi el doble no equivale al doble exacto. -->
+- [x] B) Sofía, porque 6 x 2 = 12 confirma que 12 es el doble de 6.
+  <!-- feedback: Correcto. 6 x 2 = 12 es exacto porque el gato tiene justo el doble de los peces. -->
 - [ ] C) Ambos, porque 18, 12 y 6 todos son pares.
   <!-- feedback: Incorrecto. Ser pares no significa ser dobles porque el doble exige multiplicar por 2 exacto. -->
 - [ ] D) Ninguno, porque 18 + 12 + 6 = 36 y eso no es doble.
@@ -171,12 +177,13 @@ Analizar exige multiplicar por 2: el doble de 6 es 12 (Sofía acierta) y el dobl
 ¿Es correcta la afirmación de la bibliotecaria?
 
 ### Opciones
-- [x] A) No, porque 5 x 3 = 15 estudiantes y no 12 como ella afirma.
-  <!-- feedback: Correcto. 5 x 3 = 15 es lo correcto porque cada libro equivale a 3 estudiantes lectores. -->
-- [ ] B) Sí, porque 5 + 3 = 8 y 8 se acerca a 12.
+### Opciones
+- [ ] A) Sí, porque 5 + 3 = 8 y 8 se acerca a 12.
   <!-- feedback: Incorrecto. 5 x 3 = 15 es el cálculo correcto porque sumar no aplica el valor del pictograma. -->
-- [ ] C) Sí, porque 4 x 3 = 12 usa los libros correctos.
+- [ ] B) Sí, porque 4 x 3 = 12 usa los libros correctos.
   <!-- feedback: Incorrecto. Hay 5 libros y no 4 porque contó 1 libro menos de los dibujados. -->
+- [x] C) No, porque 5 x 3 = 15 estudiantes y no 12 como ella afirma.
+  <!-- feedback: Correcto. 5 x 3 = 15 es lo correcto porque cada libro equivale a 3 estudiantes lectores. -->
 - [ ] D) No, porque 5 x 3 = 18 y faltan 6 estudiantes.
   <!-- feedback: Incorrecto. 5 x 3 = 15 y no 18 porque multiplicaste mal el valor del pictograma. -->
 
@@ -194,14 +201,15 @@ El error está en no multiplicar por el valor del dibujo: 5 libros x 3 = 15 estu
 ¿Se elige algún paseo con esa regla y por qué?
 
 ### Opciones
-- [x] A) No se elige ninguno, porque 16 - 12 = 4 y 4 es menor que los 5 exigidos.
-  <!-- feedback: Correcto. 16 - 12 = 4 no alcanza los 5 porque la diferencia entre primero y segundo es insuficiente. -->
-- [ ] B) Se elige el parque, porque 16 es el mayor y ser mayor siempre basta.
+### Opciones
+- [ ] A) Se elige el parque, porque 16 es el mayor y ser mayor siempre basta.
   <!-- feedback: Incorrecto. Ser mayor no basta porque la regla exige ganar por 5 o más y solo gana por 4. -->
-- [ ] C) Se elige el río, porque 12 + 8 = 20 supera a 16.
+- [ ] B) Se elige el río, porque 12 + 8 = 20 supera a 16.
   <!-- feedback: Incorrecto. Sumar segundo y tercero no es la regla porque se compara primero contra segundo: 16 contra 12. -->
-- [ ] D) Se elige el museo, porque 16 + 12 + 8 = 36 confirma el total.
+- [ ] C) Se elige el museo, porque 16 + 12 + 8 = 36 confirma el total.
   <!-- feedback: Incorrecto. Confirmar el total de 36 no elige ganador porque la regla pide diferencia de 5 o más. -->
+- [x] D) No se elige ninguno, porque 16 - 12 = 4 y 4 es menor que los 5 exigidos.
+  <!-- feedback: Correcto. 16 - 12 = 4 no alcanza los 5 porque la diferencia entre primero y segundo es insuficiente. -->
 
 ### Explicacion Pedagogica
 Evaluar exige aplicar la regla: primero parque 16, segundo río 12, diferencia 16 - 12 = 4. Como 4 < 5, ningún lugar gana por suficiente ventaja y no se elige paseo.

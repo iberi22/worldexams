@@ -33,10 +33,11 @@ Se evalúa la multiplicación como suma de grupos iguales para resolver problema
 ¿Cuántos panes hay en total en las 4 bandejas?
 
 ### Opciones
-- [x] A) 24
-  <!-- feedback: Correcto. 4 x 6 = 24 panes porque cada una de las 4 bandejas aporta 6 panes iguales. -->
-- [ ] B) 10
+### Opciones
+- [ ] A) 10
   <!-- feedback: Incorrecto. Sumaste 4 + 6 = 10 porque confundiste la suma de los datos con la multiplicación de grupos iguales. -->
+- [x] B) 24
+  <!-- feedback: Correcto. 4 x 6 = 24 panes porque cada una de las 4 bandejas aporta 6 panes iguales. -->
 - [ ] C) 18
   <!-- feedback: Incorrecto. Calculaste 3 x 6 = 18 porque olvidaste contar una de las 4 bandejas del problema. -->
 - [ ] D) 28
@@ -56,12 +57,13 @@ La multiplicación resume la suma de grupos iguales. Aquí hay 4 grupos de 6: 6 
 ¿Qué multiplicación permite hallar el número total de pupitres?
 
 ### Opciones
-- [x] A) 5 x 7 = 35
-  <!-- feedback: Correcto. 5 x 7 = 35 porque hay 5 filas y cada fila equivale a un grupo de 7 pupitres. -->
-- [ ] B) 5 + 7 = 12
+### Opciones
+- [ ] A) 5 + 7 = 12
   <!-- feedback: Incorrecto. Calculaste 5 + 7 = 12 porque sumaste filas y pupitres en vez de multiplicar grupos iguales. -->
-- [ ] C) 7 - 5 = 2
+- [ ] B) 7 - 5 = 2
   <!-- feedback: Incorrecto. Restaste 7 - 5 = 2 porque confundiste el problema de grupos iguales con una diferencia. -->
+- [x] C) 5 x 7 = 35
+  <!-- feedback: Correcto. 5 x 7 = 35 porque hay 5 filas y cada fila equivale a un grupo de 7 pupitres. -->
 - [ ] D) 5 x 5 = 25
   <!-- feedback: Incorrecto. Calculaste 5 x 5 = 25 porque repetiste el número de filas e ignoraste que cada fila tiene 7 pupitres. -->
 
@@ -79,14 +81,15 @@ Cuando los grupos tienen el mismo tamaño, el total se halla con una multiplicac
 ¿Cuántos mangos vendió en total doña Marta?
 
 ### Opciones
-- [x] A) 48
-  <!-- feedback: Correcto. 6 x 8 = 48 mangos porque cada una de las 6 bolsas contiene 8 mangos. -->
-- [ ] B) 14
+### Opciones
+- [ ] A) 14
   <!-- feedback: Incorrecto. Sumaste 6 + 8 = 14 porque confundiste la suma de los datos con la multiplicación de 6 grupos de 8. -->
-- [ ] C) 42
+- [ ] B) 42
   <!-- feedback: Incorrecto. Calculaste 6 x 7 = 42 porque restaste un mango a cada bolsa y cada grupo quedó mal contado. -->
-- [ ] D) 40
+- [ ] C) 40
   <!-- feedback: Incorrecto. Calculaste 5 x 8 = 40 porque olvidaste una de las 6 bolsas vendidas en el mercado. -->
+- [x] D) 48
+  <!-- feedback: Correcto. 6 x 8 = 48 mangos porque cada una de las 6 bolsas contiene 8 mangos. -->
 
 ### Explicacion Pedagogica
 Se multiplica el número de bolsas por los mangos de cada bolsa: 6 x 8 = 48. Se puede comprobar sumando 8 seis veces: 8 + 8 + 8 + 8 + 8 + 8 = 48.
@@ -101,6 +104,7 @@ Se multiplica el número de bolsas por los mangos de cada bolsa: 6 x 8 = 48. Se 
 ### Enunciado
 ¿Cuántas galletas compró Santiago?
 
+### Opciones
 ### Opciones
 - [x] A) 27
   <!-- feedback: Correcto. 3 x 9 = 27 galletas porque son 3 paquetes y cada paquete equivale a 9 galletas. -->
@@ -125,6 +129,7 @@ Tres grupos iguales de 9 se resuelven con 3 x 9 = 27. La suma repetida 9 + 9 + 9
 Si cada árbol cuesta $2.500, ¿cuánto cuestan en total los árboles de las 7 hileras?
 
 ### Opciones
+### Opciones
 - [x] A) $70.000
   <!-- feedback: Correcto. 7 x 4 = 28 árboles y 28 x 2500 = 70000 porque primero se halla el total y luego se multiplica por el precio. -->
 - [ ] B) $17.500
@@ -148,14 +153,15 @@ Primero se halla el número de árboles: 7 x 4 = 28. Luego el costo: 28 x $2.500
 ¿Quién aplicó bien la operación y qué error cometieron los demás?
 
 ### Opciones
-- [x] A) Laura, porque 5 x 6 = 30 corresponde a 5 grupos iguales de 6 jugos.
-  <!-- feedback: Correcto. 5 x 6 = 30 es correcto porque el problema pide 5 grupos iguales de 6 y Laura aplicó la multiplicación. -->
-- [ ] B) Andrés, porque 5 + 6 = 11 reúne los dos números del problema.
+### Opciones
+- [ ] A) Andrés, porque 5 + 6 = 11 reúne los dos números del problema.
   <!-- feedback: Incorrecto. 5 + 6 = 11 es falso porque sumar los datos no equivale a juntar 5 grupos de 6 jugos. -->
-- [ ] C) Camila, porque 5 x 5 = 25 usa el número de cajas dos veces.
+- [ ] B) Camila, porque 5 x 5 = 25 usa el número de cajas dos veces.
   <!-- feedback: Incorrecto. 5 x 5 = 25 es falso porque Camila repitió el 5 y olvidó que cada caja trae 6 jugos, no 5. -->
-- [ ] D) Ninguno, porque 5 x 6 = 35 según la tabla del 5.
+- [ ] C) Ninguno, porque 5 x 6 = 35 según la tabla del 5.
   <!-- feedback: Incorrecto. 5 x 6 = 30 y no 35 porque confundiste el resultado con 5 x 7 = 35 de la tabla. -->
+- [x] D) Laura, porque 5 x 6 = 30 corresponde a 5 grupos iguales de 6 jugos.
+  <!-- feedback: Correcto. 5 x 6 = 30 es correcto porque el problema pide 5 grupos iguales de 6 y Laura aplicó la multiplicación. -->
 
 ### Explicacion Pedagogica
 El análisis compara procedimientos: solo la multiplicación de grupos iguales resuelve el problema. 5 cajas de 6 jugos es 5 x 6 = 30. Sumar los datos o cambiar un factor produce errores que se detectan revisando el significado de cada número.
@@ -171,12 +177,13 @@ El análisis compara procedimientos: solo la multiplicación de grupos iguales r
 ¿Es correcta la afirmación del profesor?
 
 ### Opciones
-- [x] A) No, porque 8 x 6 = 48 puestos y 48 es menor que 50, así que sobran 2 sillas.
-  <!-- feedback: Correcto. 8 x 6 = 48 y 50 - 48 = 2 porque el total de puestos es menor que las sillas disponibles. -->
-- [ ] B) Sí, porque 8 + 6 = 14 y 14 es menor que 50.
+### Opciones
+- [ ] A) Sí, porque 8 + 6 = 14 y 14 es menor que 50.
   <!-- feedback: Incorrecto. 8 + 6 = 14 es falso como total porque sumaste mesas y puestos en vez de multiplicar 8 x 6. -->
-- [ ] C) Sí, porque 8 x 6 = 48 y 48 es mayor que 50.
+- [ ] B) Sí, porque 8 x 6 = 48 y 48 es mayor que 50.
   <!-- feedback: Incorrecto. 48 es menor que 50 y no mayor porque comparaste al revés los dos números del problema. -->
+- [x] C) No, porque 8 x 6 = 48 puestos y 48 es menor que 50, así que sobran 2 sillas.
+  <!-- feedback: Correcto. 8 x 6 = 48 y 50 - 48 = 2 porque el total de puestos es menor que las sillas disponibles. -->
 - [ ] D) No, porque 8 x 7 = 56 y faltan 6 sillas.
   <!-- feedback: Incorrecto. Cada mesa tiene 6 puestos y no 7 porque cambiaste el dato y 8 x 7 = 56 no corresponde al problema. -->
 
@@ -194,10 +201,11 @@ Se calcula la capacidad real: 8 x 6 = 48 puestos. Luego se compara con 50 sillas
 ¿Cuál es la mejor decisión con los $20.000 disponibles?
 
 ### Opciones
-- [x] A) Llevar los 4 cuadernos por $18.000, porque 4 x 4500 = 18000 y le quedan $2.000, mientras 5 cuadernos costarían $22.500.
-  <!-- feedback: Correcto. 5 x 4500 = 22500 supera los 20000 porque la segunda opción excede el dinero disponible y la primera sí alcanza. -->
-- [ ] B) Llevar los 5 cuadernos al precio normal, porque 5 x 4500 = 20000 justo.
+### Opciones
+- [ ] A) Llevar los 5 cuadernos al precio normal, porque 5 x 4500 = 20000 justo.
   <!-- feedback: Incorrecto. 5 x 4500 = 22500 y no 20000 porque multiplicaste mal y la cuenta supera el dinero disponible. -->
+- [x] B) Llevar los 4 cuadernos por $18.000, porque 4 x 4500 = 18000 y le quedan $2.000, mientras 5 cuadernos costarían $22.500.
+  <!-- feedback: Correcto. 5 x 4500 = 22500 supera los 20000 porque la segunda opción excede el dinero disponible y la primera sí alcanza. -->
 - [ ] C) Llevar 4 cuadernos al precio normal, porque 4 + 4500 = 4504 es muy barato.
   <!-- feedback: Incorrecto. 4 x 4500 = 18000 y no 4504 porque sumaste en vez de multiplicar el precio por la cantidad. -->
 - [ ] D) No comprar nada, porque 2 x 4500 = 9000 ya supera los $20.000.

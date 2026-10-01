@@ -33,10 +33,11 @@ Se evalúa la suma y la resta en dos pasos con números de tres dígitos en situ
 ¿Cuántos cuentos hay en total ahora?
 
 ### Opciones
-- [x] A) 255
-  <!-- feedback: Correcto. 125 + 130 = 255 cuentos porque se suman los que había con los que llegaron. -->
-- [ ] B) 155
+### Opciones
+- [ ] A) 155
   <!-- feedback: Incorrecto. 125 + 130 = 255 y no 155 porque olvidaste sumar una centena completa. -->
+- [x] B) 255
+  <!-- feedback: Correcto. 125 + 130 = 255 cuentos porque se suman los que había con los que llegaron. -->
 - [ ] C) 245
   <!-- feedback: Incorrecto. 125 + 130 = 255 y no 245 porque restaste 10 en vez de sumar las decenas. -->
 - [ ] D) 25
@@ -56,14 +57,15 @@ Juntar dos cantidades es sumar: 125 + 130 = 255. Se suma por posiciones: 100 + 1
 ¿Cuántos estudiantes quedan en el colegio?
 
 ### Opciones
-- [x] A) 220
-  <!-- feedback: Correcto. 340 - 120 = 220 estudiantes porque se quitan los que se retiraron del total inicial. -->
-- [ ] B) 460
+### Opciones
+- [ ] A) 460
   <!-- feedback: Incorrecto. Sumaste 340 + 120 = 460 porque confundiste quitar estudiantes con agregar estudiantes. -->
-- [ ] C) 230
+- [ ] B) 230
   <!-- feedback: Incorrecto. 340 - 120 = 220 y no 230 porque agregaste 10 de más en la resta. -->
-- [ ] D) 120
+- [ ] C) 120
   <!-- feedback: Incorrecto. Elegiste los que se retiraron porque confundiste la parte que sale con lo que queda. -->
+- [x] D) 220
+  <!-- feedback: Correcto. 340 - 120 = 220 estudiantes porque se quitan los que se retiraron del total inicial. -->
 
 ### Explicacion Pedagogica
 Quitar una parte del total es restar: 340 - 120 = 220. Se resta por posiciones y queda la cantidad final.
@@ -79,12 +81,13 @@ Quitar una parte del total es restar: 340 - 120 = 220. Se resta por posiciones y
 ¿Cuántos huevos le quedan a doña Rosa?
 
 ### Opciones
-- [x] A) 60
-  <!-- feedback: Correcto. 250 - 110 = 140 y 140 - 80 = 60 porque se restan las dos ventas seguidas del total. -->
-- [ ] B) 140
+### Opciones
+- [ ] A) 140
   <!-- feedback: Incorrecto. Solo restaste 250 - 110 = 140 porque olvidaste restar los 80 de la tarde. -->
-- [ ] C) 170
+- [ ] B) 170
   <!-- feedback: Incorrecto. Restaste solo 250 - 80 = 170 porque olvidaste quitar los 110 de la mañana. -->
+- [x] C) 60
+  <!-- feedback: Correcto. 250 - 110 = 140 y 140 - 80 = 60 porque se restan las dos ventas seguidas del total. -->
 - [ ] D) 440
   <!-- feedback: Incorrecto. Sumaste 250 + 110 + 80 = 440 porque juntaste todo en vez de restar las ventas. -->
 
@@ -101,6 +104,7 @@ Problema de dos pasos con restas seguidas: primero 250 - 110 = 140, luego 140 - 
 ### Enunciado
 ¿Cuántas palomas hay ahora en el parque?
 
+### Opciones
 ### Opciones
 - [x] A) 240
   <!-- feedback: Correcto. 180 + 150 = 330 y 330 - 90 = 240 porque primero llegan y luego se van una parte. -->
@@ -125,10 +129,11 @@ Dos pasos con operaciones distintas: suma primero (180 + 150 = 330) y resta desp
 ¿Cuánto dinero le queda a Santiago?
 
 ### Opciones
-- [x] A) $205
-  <!-- feedback: Correcto. 350 + 275 = 625 y 625 - 420 = 205 porque primero se junta el ahorro y luego se gasta. -->
-- [ ] B) $625
+### Opciones
+- [ ] A) $625
   <!-- feedback: Incorrecto. Solo sumaste 350 + 275 = 625 porque olvidaste restar los 420 del balón. -->
+- [x] B) $205
+  <!-- feedback: Correcto. 350 + 275 = 625 y 625 - 420 = 205 porque primero se junta el ahorro y luego se gasta. -->
 - [ ] C) $105
   <!-- feedback: Incorrecto. 625 - 420 = 205 y no 105 porque restaste 100 de más en la operación final. -->
 - [ ] D) $1.045
@@ -148,14 +153,15 @@ Primero se suma el ahorro: $350 + $275 = $625. Luego se resta el gasto: $625 - $
 ¿Cuántas galletas quedan realmente y cuál fue el error de la compañera?
 
 ### Opciones
-- [x] A) El ayudante, porque 150 + 120 = 270 y 400 - 270 = 130 descuenta las dos salidas.
-  <!-- feedback: Correcto. 150 + 120 = 270 y 400 - 270 = 130 porque juntar las salidas y restarlas equivale a restar en dos pasos. -->
-- [ ] B) La compañera, porque 400 - 150 = 250 es suficiente con un paso.
+### Opciones
+- [ ] A) La compañera, porque 400 - 150 = 250 es suficiente con un paso.
   <!-- feedback: Incorrecto. 400 - 150 = 250 ignora los 120 de la segunda salida porque solo restó la primera parte. -->
-- [ ] C) El ayudante, porque 400 - 150 = 250 y 250 + 120 = 370.
+- [ ] B) El ayudante, porque 400 - 150 = 250 y 250 + 120 = 370.
   <!-- feedback: Incorrecto. Después de restar se debe restar 250 - 120 = 130 porque sumar la segunda salida invierte la operación. -->
-- [ ] D) Ninguno, porque 400 - 150 - 120 = 370.
+- [ ] C) Ninguno, porque 400 - 150 - 120 = 370.
   <!-- feedback: Incorrecto. 400 - 150 - 120 = 130 y no 370 porque calculaste mal las dos restas seguidas. -->
+- [x] D) El ayudante, porque 150 + 120 = 270 y 400 - 270 = 130 descuenta las dos salidas.
+  <!-- feedback: Correcto. 150 + 120 = 270 y 400 - 270 = 130 porque juntar las salidas y restarlas equivale a restar en dos pasos. -->
 
 ### Explicacion Pedagogica
 Analizar muestra dos caminos válidos: restar en cadena (400 - 150 = 250, 250 - 120 = 130) o juntar salidas y restar (150 + 120 = 270, 400 - 270 = 130). La compañera omitió un paso.
@@ -170,6 +176,7 @@ Analizar muestra dos caminos válidos: restar en cadena (400 - 150 = 250, 250 - 
 ### Enunciado
 ¿Es correcta la afirmación del conductor?
 
+### Opciones
 ### Opciones
 - [x] A) No, porque 220 - 130 = 90 y el segundo viaje lleva 90 pasajeros, no 80.
   <!-- feedback: Correcto. 220 - 130 = 90 es lo correcto porque al total se le quita el primer viaje de 130. -->
@@ -194,12 +201,13 @@ El error está en el dato restado: usó 140 en vez de 130. Lo correcto es 220 - 
 ¿Cuál opción deja más ahorro y cuánto deja?
 
 ### Opciones
-- [x] A) La opción A, porque 280 + 150 = 430 y 500 - 430 = 70, mientras la B solo deja $50 de ahorro.
-  <!-- feedback: Correcto. 280 + 150 = 430 y 500 - 430 = 70 porque al comparar 70 con 50 la opción A deja más ahorro. -->
-- [ ] B) La opción B deja más, porque 190 + 260 = 450 y 500 - 450 = 50 es mayor que 70.
+### Opciones
+- [ ] A) La opción B deja más, porque 190 + 260 = 450 y 500 - 450 = 50 es mayor que 70.
   <!-- feedback: Incorrecto. 50 es menor que 70 porque comparaste al revés los ahorros de las dos opciones. -->
-- [ ] C) La opción A no cabe, porque 280 + 150 = 530 supera los $500.
+- [ ] B) La opción A no cabe, porque 280 + 150 = 530 supera los $500.
   <!-- feedback: Incorrecto. 280 + 150 = 430 y no 530 porque sumaste mal las centenas del gasto. -->
+- [x] C) La opción A, porque 280 + 150 = 430 y 500 - 430 = 70, mientras la B solo deja $50 de ahorro.
+  <!-- feedback: Correcto. 280 + 150 = 430 y 500 - 430 = 70 porque al comparar 70 con 50 la opción A deja más ahorro. -->
 - [ ] D) Ambas dejan lo mismo, porque 280 y 190 se compensan con 150 y 260.
   <!-- feedback: Incorrecto. 430 es distinto de 450 porque los totales gastados no son iguales y los ahorros difieren. -->
 
