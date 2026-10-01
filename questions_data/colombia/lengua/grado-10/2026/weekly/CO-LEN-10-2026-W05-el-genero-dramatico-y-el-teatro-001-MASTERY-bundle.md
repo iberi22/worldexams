@@ -55,9 +55,9 @@ La comedia organiza el conflicto de modo que termine bien para los personajes y 
 Según el enunciado, ¿cuál es la diferencia entre el texto del dramaturgo y la actuación?
 
 ### Opciones
-- [x] A) El texto fija el diálogo escrito; la actuación añade recursos no verbales como gestos, tono y expresión. <!-- feedback: Correcto. El texto del dramaturgo fija el "diálogo", mientras la actuación incorpora recursos no verbales como gestos y tono. -->
-- [ ] B) No hay diferencia, porque el actor debe repetir exactamente lo que dice el texto. <!-- feedback: Incorrecto. El diálogo escrito es solo una parte, porque la actuación añade cuerpo, voz y gesto que el texto no contiene. -->
-- [ ] C) La actuación es el texto y el dramaturgo solo escribe sugerencias para el director. <!-- feedback: Incorrecto. La relación es inversa, porque el dramaturgo escribe el texto y el actor lo interpreta con recursos que no están escritos. -->
+- [ ] A) No hay diferencia, porque el actor debe repetir exactamente lo que dice el texto. <!-- feedback: Incorrecto. El diálogo escrito es solo una parte, porque la actuación añade cuerpo, voz y gesto que el texto no contiene. -->
+- [ ] B) La actuación es el texto y el dramaturgo solo escribe sugerencias para el director. <!-- feedback: Incorrecto. La relación es inversa, porque el dramaturgo escribe el texto y el actor lo interpreta con recursos que no están escritos. -->
+- [x] C) El texto fija el diálogo escrito; la actuación añade recursos no verbales como gestos, tono y expresión. <!-- feedback: Correcto. El texto del dramaturgo fija el "diálogo", mientras la actuación incorpora recursos no verbales como gestos y tono. -->
 - [ ] D) La diferencia está únicamente en la duración, porque el texto dura más que la función. <!-- feedback: Incorrecto. La duración no es la diferencia esencial, porque lo característico es que la actuación interprete el texto mediante gestos y tono. -->
 
 ### Explicacion Pedagogica
@@ -74,8 +74,8 @@ El texto dramático es el punto de partida de la representación, no su totalida
 ¿Qué rasgos definen esa puesta en escena?
 
 ### Opciones
-- [x] A) La cercanía física con el público y la ruptura del espacio habitual de la escena. <!-- feedback: Correcto. El teatro de ambiente se caracteriza por la cercanía con el público y por romper la convención del escenario elevado y del "cuarto muro". -->
-- [ ] B) El uso de un escenario clásico con telón de fondo y con acotaciones fijas. <!-- feedback: Incorrecto. El escenario clásico es justo la convención que el teatro de ambiente rompe, porque aquí no hay separación entre actores y público. -->
+- [ ] A) El uso de un escenario clásico con telón de fondo y con acotaciones fijas. <!-- feedback: Incorrecto. El escenario clásico es justo la convención que el teatro de ambiente rompe, porque aquí no hay separación entre actores y público. -->
+- [x] B) La cercanía física con el público y la ruptura del espacio habitual de la escena. <!-- feedback: Correcto. El teatro de ambiente se caracteriza por la cercanía con el público y por romper la convención del escenario elevado y del "cuarto muro". -->
 - [ ] C) La lectura dramatizada, porque los actores leen el texto en vez de representarlo. <!-- feedback: Incorrecto. Los actores representan el texto en vez de leerlo, porque ese recurso corresponde a la lectura dramatizada y no al teatro de ambiente. -->
 - [ ] D) La ausencia de diálogo, porque en este género se comunica solo con gestos. <!-- feedback: Incorrecto. El teatro de ambiente conserva el diálogo, porque lo que cambia es la relación espacial con el público y el uso del espacio. -->
 
@@ -93,10 +93,10 @@ El teatro de ambiente disuelve la frontera entre escenario y sala. La actuación
 Según el enunciado, ¿cuál es la relación correcta entre acto y escena?
 
 ### Opciones
-- [x] A) El acto es la unidad mayor de la obra y la escena es la unidad menor que ocurre en un lugar y tiempo determinados. <!-- feedback: Correcto. El acto es la unidad mayor de la obra y la escena la unidad menor, porque ocurre en un lugar y un tiempo concretos. -->
-- [ ] B) La escena es la unidad mayor y el acto es la unidad menor que ocurre dentro de ella. <!-- feedback: Incorrecto. La relación está invertida, porque la obra se divide en actos y cada acto se compone de escenas, no al contrario. -->
-- [ ] C) El acto y la escena son sinónimos que significan exactamente lo mismo. <!-- feedback: Incorrecto. No son sinónimos, porque el acto agrupa varias escenas y marca un cambio de etapa en la acción dramática. -->
-- [ ] D) La escena abarca el tiempo completo de la obra y el acto es solo una parte del diálogo. <!-- feedback: Incorrecto. La escena no abarca el tiempo completo, porque ocurre en un momento delimitado mientras el acto marca una etapa mayor. -->
+- [ ] A) La escena es la unidad mayor y el acto es la unidad menor que ocurre dentro de ella. <!-- feedback: Incorrecto. La relación está invertida, porque la obra se divide en actos y cada acto se compone de escenas, no al contrario. -->
+- [ ] B) El acto y la escena son sinónimos que significan exactamente lo mismo. <!-- feedback: Incorrecto. No son sinónimos, porque el acto agrupa varias escenas y marca un cambio de etapa en la acción dramática. -->
+- [ ] C) La escena abarca el tiempo completo de la obra y el acto es solo una parte del diálogo. <!-- feedback: Incorrecto. La escena no abarca el tiempo completo, porque ocurre en un momento delimitado mientras el acto marca una etapa mayor. -->
+- [x] D) El acto es la unidad mayor de la obra y la escena es la unidad menor que ocurre en un lugar y tiempo determinados. <!-- feedback: Correcto. El acto es la unidad mayor de la obra y la escena la unidad menor, porque ocurre en un lugar y un tiempo concretos. -->
 
 ### Explicacion Pedagogica
 La estructura dramática se organiza en actos y escenas, con una jerarquía clara entre ambos. Cada escena supone un cambio de lugar o de tiempo y concentra una acción concreta. Dominar esa jerarquía permite analizar la construcción de cualquier obra.
@@ -131,9 +131,9 @@ El teatro dentro del teatro crea planos de representación superpuestos. El púb
 Según el enunciado, ¿qué condición define al sainete?
 
 ### Opciones
-- [x] A) Su extensión breve y su ambientación en un espacio cotidiano y reconocible. <!-- feedback: Correcto. El sainete se define por su extensión breve y por su ambientación en un espacio cotidiano, como una calle o una casa. -->
-- [ ] B) Su extensión extensa, porque el sainete completo suele durar varias horas. <!-- feedback: Incorrecto. La duración extensa es propia de la tragedia, porque el sainete se caracteriza justamente por ser breve y no largo. -->
-- [ ] C) Su ambiente histórico, porque el sainete reconstruye épocas pasadas. <!-- feedback: Incorrecto. El sainete se sitúa en el presente y en lo cotidiano, porque la ambientación histórica corresponde a otros géneros. -->
+- [ ] A) Su extensión extensa, porque el sainete completo suele durar varias horas. <!-- feedback: Incorrecto. La duración extensa es propia de la tragedia, porque el sainete se caracteriza justamente por ser breve y no largo. -->
+- [ ] B) Su ambiente histórico, porque el sainete reconstruye épocas pasadas. <!-- feedback: Incorrecto. El sainete se sitúa en el presente y en lo cotidiano, porque la ambientación histórica corresponde a otros géneros. -->
+- [x] C) Su extensión breve y su ambientación en un espacio cotidiano y reconocible. <!-- feedback: Correcto. El sainete se define por su extensión breve y por su ambientación en un espacio cotidiano, como una calle o una casa. -->
 - [ ] D) Su único personaje, porque el sainete monologuea desde el inicio hasta el final. <!-- feedback: Incorrecto. El sainete admite varios personajes, porque el enunciado describe tres y se organiza en torno a conflictos breves. -->
 
 ### Explicacion Pedagogica
@@ -150,8 +150,8 @@ El sainete es una obra breve que se desarrolla en un espacio cotidiano. Su forma
 ¿Qué efecto busca el director con esa decisión de puesta en escena?
 
 ### Opciones
-- [x] A) Que el conflicto permanezca abierto y que el público participe en la reconstrucción del final. <!-- feedback: Correcto. Dejar la interpretación abierta busca que el conflicto quede "sin resolver" y que el público participe de la reconstrucción del final. -->
-- [ ] B) Que el público se aburra, porque la ausencia de un final claro impide comprender la obra. <!-- feedback: Incorrecto. Un final abierto no equivale a ausencia de sentido, porque obliga al público a construir el significado y genera participación. -->
+- [ ] A) Que el público se aburra, porque la ausencia de un final claro impide comprender la obra. <!-- feedback: Incorrecto. Un final abierto no equivale a ausencia de sentido, porque obliga al público a construir el significado y genera participación. -->
+- [x] B) Que el conflicto permanezca abierto y que el público participe en la reconstrucción del final. <!-- feedback: Correcto. Dejar la interpretación abierta busca que el conflicto quede "sin resolver" y que el público participe de la reconstrucción del final. -->
 - [ ] C) Que el reparto improvise el final, porque así la obra se vuelve más espontánea. <!-- feedback: Incorrecto. Un final abierto no implica improvisación, porque la decisión sigue siendo del director y el desenlace permanece sin resolver. -->
 - [ ] D) Que se pierda el tema central, porque sin desenlace no hay construcción temática. <!-- feedback: Incorrecto. El tema se construye durante todo el desarrollo, porque la ausencia de un final explícito no elimina la construcción temática. -->
 
@@ -169,10 +169,10 @@ La puesta en escena es una interpretación del texto, y el director toma decisio
 Según la relación entre evidencia y conclusión, ¿qué falla en ese razonamiento del personaje?
 
 ### Opciones
-- [x] A) Generaliza a partir de un solo caso, porque una experiencia individual no demuestra un peligro general. <!-- feedback: Correcto. Hay un salto lógico inválido, porque de una experiencia individual se generaliza a toda la producción del barrio sin evidencia que lo respalde. -->
-- [ ] B) El razonamiento es válido, porque la experiencia directa es la mejor evidencia disponible. <!-- feedback: Incorrecto. La experiencia directa no es la mejor evidencia para una afirmación general, porque es una muestra mínima que no representa la totalidad. -->
-- [ ] C) El problema es la extensión, porque el personaje habla poco para sostener una idea tan grande. <!-- feedback: Incorrecto. La extensión del discurso no determina la validez, porque lo decisivo es la correspondencia entre evidencia y alcance de la conclusión. -->
-- [ ] D) El problema es el tono, porque el personaje debería hablar con mayor seguridad. <!-- feedback: Incorrecto. El tono no afecta la validez de un razonamiento, porque lo que lo hace inválido es la generalización apresurada desde un caso único. -->
+- [ ] A) El razonamiento es válido, porque la experiencia directa es la mejor evidencia disponible. <!-- feedback: Incorrecto. La experiencia directa no es la mejor evidencia para una afirmación general, porque es una muestra mínima que no representa la totalidad. -->
+- [ ] B) El problema es la extensión, porque el personaje habla poco para sostener una idea tan grande. <!-- feedback: Incorrecto. La extensión del discurso no determina la validez, porque lo decisivo es la correspondencia entre evidencia y alcance de la conclusión. -->
+- [ ] C) El problema es el tono, porque el personaje debería hablar con mayor seguridad. <!-- feedback: Incorrecto. El tono no afecta la validez de un razonamiento, porque lo que lo hace inválido es la generalización apresurada desde un caso único. -->
+- [x] D) Generaliza a partir de un solo caso, porque una experiencia individual no demuestra un peligro general. <!-- feedback: Correcto. Hay un salto lógico inválido, porque de una experiencia individual se generaliza a toda la producción del barrio sin evidencia que lo respalde. -->
 
 ### Explicacion Pedagogica
 Un personaje dramático también razona, y sus razonamientos pueden ser débiles. Generalizar desde un caso particular es una inferencia inválida cuando la conclusión tiene alcance general. Saber evalúa esta capacidad examinando el razonamiento de los personajes, no solo el del autor.
@@ -207,9 +207,9 @@ La competencia intertextual permite reconocer estructuras dramáticas que se rep
 ¿Qué efecto pragmático produce esa interacción directa?
 
 ### Opciones
-- [x] A) Rompe la barrera de ficción e incorpora al público como parte activa de la representación. <!-- feedback: Correcto. Hablar directamente al público rompe la "barrera de ficción" e incorpora a los espectadores como participantes activos de la escena. -->
-- [ ] B) Reduce la obra a un monólogo, porque los personajes dejan de hablar entre sí. <!-- feedback: Incorrecto. Dirigirse al público en algún momento no elimina el diálogo, porque la obra no se convierte por eso en monólogo. -->
-- [ ] C) Hace que el público deje de comprender la trama, porque la interacción rompe la continuidad narrativa. <!-- feedback: Incorrecto. La interacción con el público refuerza la comprensión, porque el cuarto muro se rompe para incluir y no para excluir. -->
+- [ ] A) Reduce la obra a un monólogo, porque los personajes dejan de hablar entre sí. <!-- feedback: Incorrecto. Dirigirse al público en algún momento no elimina el diálogo, porque la obra no se convierte por eso en monólogo. -->
+- [ ] B) Hace que el público deje de comprender la trama, porque la interacción rompe la continuidad narrativa. <!-- feedback: Incorrecto. La interacción con el público refuerza la comprensión, porque el cuarto muro se rompe para incluir y no para excluir. -->
+- [x] C) Rompe la barrera de ficción e incorpora al público como parte activa de la representación. <!-- feedback: Correcto. Hablar directamente al público rompe la "barrera de ficción" e incorpora a los espectadores como participantes activos de la escena. -->
 - [ ] D) Convierte la representación en una lectura dramatizada, porque el público sustituye a los actores. <!-- feedback: Incorrecto. El público participa como interlocutor, porque no como sustituto de los actores y la representación sigue siendo actuada. -->
 
 ### Explicacion Pedagogica
@@ -226,8 +226,8 @@ La ruptura del cuarto muro es un recurso característico del teatro de ambiente.
 ¿Qué juicio es más sólido sobre esa decisión?
 
 ### Opciones
-- [x] A) Es cuestionable porque prioriza la memoria sobre la comprensión actoral, que es lo que exige una buena actuación. <!-- feedback: Correcto. El juicio es ponderado, porque memorizar todo el texto sobrevalora la memoria y descuida la comprensión actoral del personaje. -->
-- [ ] B) Es siempre positiva, porque saber el texto de memoria es el requisito indispensable de todo buen actor. <!-- feedback: Incorrecto. La memorización ayuda pero no basta, porque un actor puede recitar sin comprender la intención y producir una actuación vacía. -->
+- [ ] A) Es siempre positiva, porque saber el texto de memoria es el requisito indispensable de todo buen actor. <!-- feedback: Incorrecto. La memorización ayuda pero no basta, porque un actor puede recitar sin comprender la intención y producir una actuación vacía. -->
+- [x] B) Es cuestionable porque prioriza la memoria sobre la comprensión actoral, que es lo que exige una buena actuación. <!-- feedback: Correcto. El juicio es ponderado, porque memorizar todo el texto sobrevalora la memoria y descuida la comprensión actoral del personaje. -->
 - [ ] C) Es siempre negativa, porque ningún texto dramático debe aprenderse de memoria. <!-- feedback: Incorrecto. Absolutizar la negativa también es un error, porque memorizar puede ser útil y lo pertinente es valorar su peso relativo. -->
 - [ ] D) Es irrelevante, porque la calidad actoral se mide solo por la capacidad de los actores. <!-- feedback: Incorrecto. La preparación textual es parte del proceso actor, porque su tratamiento afecta directamente la calidad de la función. -->
 
@@ -245,10 +245,10 @@ Evaluar una decisión pedagógica exige pesar beneficios y costos con un criteri
 ¿Qué razonamiento sostiene mejor esa evaluación del jurado?
 
 ### Opciones
-- [x] A) Depende del criterio declarado: si se busca fidelidad al original o conexión crítica con el entorno local. <!-- feedback: Correcto. El razonamiento declara un criterio, porque valorar la fidelidad o la conexión crítica con el entorno justifican elecciones distintas y explícitas. -->
-- [ ] B) La obra adaptada, porque toda adaptación es superior al original por ser más actual. <!-- feedback: Incorrecto. Esa afirmación generaliza sin base, porque ser más actual no garantiza superioridad y el original conserva su valor. -->
-- [ ] C) La obra clásica, porque la tradición siempre merece premio en un festival escolar. <!-- feedback: Incorrecto. Premiar la tradición por sí sola es un criterio absoluto, porque no pondera la calidad de la interpretación ni el criterio del concurso. -->
-- [ ] D) Ambas por igual, porque el jurado no puede distinguir entre dos tipos de propuesta teatral. <!-- feedback: Incorrecto. Un jurado puede aplicar criterios verificables de interpretación, porque la igualdad valorativa no es automática. -->
+- [ ] A) La obra adaptada, porque toda adaptación es superior al original por ser más actual. <!-- feedback: Incorrecto. Esa afirmación generaliza sin base, porque ser más actual no garantiza superioridad y el original conserva su valor. -->
+- [ ] B) La obra clásica, porque la tradición siempre merece premio en un festival escolar. <!-- feedback: Incorrecto. Premiar la tradición por sí sola es un criterio absoluto, porque no pondera la calidad de la interpretación ni el criterio del concurso. -->
+- [ ] C) Ambas por igual, porque el jurado no puede distinguir entre dos tipos de propuesta teatral. <!-- feedback: Incorrecto. Un jurado puede aplicar criterios verificables de interpretación, porque la igualdad valorativa no es automática. -->
+- [x] D) Depende del criterio declarado: si se busca fidelidad al original o conexión crítica con el entorno local. <!-- feedback: Correcto. El razonamiento declara un criterio, porque valorar la fidelidad o la conexión crítica con el entorno justifican elecciones distintas y explícitas. -->
 
 ### Explicacion Pedagogica
 Evaluar obras implica declarar un criterio y aplicarlo de manera consistente. La fidelidad al original y la conexión con el entorno son criterios legítimos y distintos, pero cada uno debe enunciarse. Un buen razonamiento de jurado se apoya en criterios explícitos, no en preferencias.
