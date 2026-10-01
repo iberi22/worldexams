@@ -25,8 +25,6 @@ quoted inside an explanation cannot inflate the count.
 """
 import os
 import re
-import sys
-from collections import Counter
 
 REPO = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 ROOT = os.path.join(REPO, "questions_data")
@@ -35,77 +33,63 @@ HEAD = re.compile(r"^## Question \d+ \[([A-Z0-9\-]+)\]")
 BAND = re.compile(r'difficulty_band:\s*"?([A-Z0-9\-]+)')
 
 
-def nums(text):
-    # "D10" is difficulty ten, not difficulty one followed by a zero. A naive
-    # D(\d) capture turns D3-D10 into (1, 3) and then every D3-D4 question looks
-    # like it exceeds the band.
-    return [int(n) for n in re.findall(r"D(\d+)", text or "")]
+def span(text):
+    """Difficulty range as (low, high), or None when there is no D-number.
+
+    "D10" is difficulty ten, not difficulty one followed by a zero. A naive
+    D(\\d) capture turns D3-D10 into (1, 3), and then every D3-D4 question looks
+    like it exceeds the band -- 43,712 false violations, once.
+    """
+    n = [int(x) for x in re.findall(r"D(\d+)", text or "")]
+    return (min(n), max(n)) if n else None
+
+
+def scan(path):
+    """Return (band_text, band, labels); band is None when none is declared."""
+    text, band, labels = "?", None, []
+    with open(path, encoding="utf-8", errors="ignore") as fh:
+        for line in fh:
+            if band is None and (m := BAND.search(line)):
+                if band := span(m.group(1)):
+                    text = m.group(1)
+            if m := HEAD.match(line):
+                labels.append(m.group(1))
+    return text, band, labels
+
+
+def outside(label, band):
+    """True when the label's difficulty range escapes the declared band."""
+    other = span(label)
+    return other is not None and (other[0] < band[0] or other[1] > band[1])
 
 
 def main():
-    files = []
-    for dirpath, _, names in os.walk(ROOT):
-        files.extend(os.path.join(dirpath, n) for n in names if n.endswith(".md"))
+    files = [os.path.join(d, n) for d, _, ns in os.walk(ROOT) for n in ns if n.endswith(".md")]
 
-    total = 0
-    no_band = 0
-    per_bundle = Counter()
-    detail = {}
+    total = no_band = 0
+    offenders = []  # (questions outside, path, band text, labels)
     for path in files:
-        with open(path, encoding="utf-8", errors="ignore") as fh:
-            lines = fh.readlines()
-        band = None
-        heads = []
-        for line in lines:
-            if band is None:
-                m = BAND.search(line)
-                if m:
-                    n = nums(m.group(1))
-                    if n:
-                        band = (min(n), max(n))
-            m = HEAD.match(line)
-            if m:
-                heads.append(m.group(1))
+        text, band, labels = scan(path)
         if band is None:
             no_band += 1
             continue
-        total += len(heads)
-        out = 0
-        for label in heads:
-            n = nums(label)
-            if n and (min(n) < band[0] or max(n) > band[1]):
-                out += 1
-        if out:
-            rel = os.path.relpath(path, REPO)
-            per_bundle[rel] = out
-            detail[rel] = (out, len(heads), heads)
+        total += len(labels)
+        bad = [l for l in labels if outside(l, band)]
+        if bad:
+            offenders.append((len(bad), path, text, labels))
 
     print(f"bundles scanned      : {len(files)}")
     print(f"bundles without band : {no_band}")
     print(f"questions with header: {total}")
-    print(f"bundles out of band  : {len(per_bundle)}")
-    print(f"questions out of band: {sum(per_bundle.values())}")
+    print(f"bundles out of band  : {len(offenders)}")
+    print(f"questions out of band: {sum(c for c, *_ in offenders)}")
     print()
-    for rel, n in per_bundle.most_common(15):
-        out, heads, labels = detail[rel]
-        bandtxt = "?"
-        with open(os.path.join(REPO, rel), encoding="utf-8", errors="ignore") as fh:
-            for line in fh:
-                m = BAND.search(line)
-                if m:
-                    bandtxt = m.group(1)
-                    break
-        band_nums = nums(bandtxt)
-        bad = sorted(
-            {
-                l
-                for l in labels
-                if nums(l) and band_nums and (min(nums(l)) < min(band_nums) or max(nums(l)) > max(band_nums))
-            }
-        )
-        print(f"  {out:>3}/{heads:<3} band={bandtxt:<8} {rel.split('/')[-1][:44]}")
-        print(f"        offending labels: {', '.join(bad)}")
+    for count, path, text, labels in sorted(offenders, key=lambda t: -t[0])[:15]:
+        rel = os.path.relpath(path, REPO)
+        distinct = sorted({l for l in labels if outside(l, span(text))})
+        print(f"  {count:>3}/{len(labels):<3} band={text:<8} {rel.split('/')[-1][:44]}")
+        print(f"        offending labels: {', '.join(distinct)}")
 
 
 if __name__ == "__main__":
-    sys.exit(main())
+    main()
