@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-32-grade-10-subject-lengua",
+    "generated_at": "2026-10-01T15:21:15.639Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-10-2026-W32-la-interpretacion-de-textos-no-verbales-001-MASTERY-bundle-v1",
+      "statement": "En ese gráfico de barras, la altura de la barra de un área representa directamente:",
+      "context": "En el Colegio Nacional de Bogotá, el mural del segundo piso presenta un gráfico de barras con el promedio final por área.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La calificación promedio obtenida en esa área",
+          "is_correct": true,
+          "feedback": "Correcto. En un gráfico de barras la altura es proporcional al valor de la categoría, y aquí ese valor es la nota promedio del área; por eso comparar dos barras equivale a comparar los resultados de dos materias."
+        },
+        {
+          "letter": "B",
+          "text": "El número de preguntas que tenía el examen de cada área",
+          "is_correct": false,
+          "feedback": "Incorrecto. El número de preguntas y la duración son datos del examen, no la variable representada; esos datos aparecerían en el encabezado o en el pie del gráfico, nunca como altura de barra."
+        },
+        {
+          "letter": "C",
+          "text": "El número de alumnos que reprobaron cada área",
+          "is_correct": false,
+          "feedback": "Incorrecto. Contar reprobados exigiría una barra adicional o un gráfico distinto, porque codificar dos magnitudes en una sola barra produce lecturas ambiguas que el lector no puede resolver."
+        },
+        {
+          "letter": "D",
+          "text": "El tiempo que se usó para responder el examen de cada área",
+          "is_correct": false,
+          "feedback": "Incorrecto. La duración de la prueba es un dato constante para todas las áreas, así que no puede cambiar de barra en barra; una constante no puede representarse con una altura variable."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El gráfico de barras es el texto no verbal más elemental: cada barra codifica una magnitud y su altura es proporcional al valor. Reconocer esta convención gráfica es la base para leer cualquier cuadro de barras, columnas o barras horizontales que aparezca en Saber 11.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Semantico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-10-2026-W32-la-interpretacion-de-textos-no-verbales-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W32-la-interpretacion-de-textos-no-verbales-001-MASTERY-bundle-v2",
+      "statement": "En esa infografía, ¿qué función cumple la leyenda de colores del gráfico circular?",
+      "context": "En Cali, la Secretaría de Educación publica una infografía de matrícula escolar que usa un gráfico circular con leyenda de colores.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ordenar alfabéticamente las categorías del gráfico",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un gráfico circular no tiene eje horizontal donde ordenar categorías, así que el orden alfabético no aporta nada: la disposición de los sectores depende de los valores, no del alfabeto."
+        },
+        {
+          "letter": "B",
+          "text": "Identificar a qué categoría corresponde cada sector del círculo",
+          "is_correct": true,
+          "feedback": "Correcto. Como el color no está escrito sobre el sector, la leyenda es la clave que traduce color en categoría; sin ella ningún porcentaje se puede nombrar y la lectura del gráfico se vuelve imposible."
+        },
+        {
+          "letter": "C",
+          "text": "Mostrar el total de matrículas del municipio",
+          "is_correct": false,
+          "feedback": "Incorrecto. El total se obtiene sumando los porcentajes de los sectores, no se lee en la leyenda; la leyenda solo decodifica códigos visuales y no entrega cifras."
+        },
+        {
+          "letter": "D",
+          "text": "Indicar el año en que se elaboró la infografía",
+          "is_correct": false,
+          "feedback": "Incorrecto. El año es un dato de referencia que va en el pie del gráfico junto a la fuente; la leyenda cumple otra función, la de código visual para las categorías."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La leyenda es el diccionario interno de un gráfico: sin ella los colores son formas sin nombre. Reconocer que cada elemento gráfico tiene una función propia (barras, sectores, leyenda, título, fuente) es un aprendizaje de semántica visual muy solicitado en las pruebas de lectura.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semantico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-10-2026-W32-la-interpretacion-de-textos-no-verbales-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W32-la-interpretacion-de-textos-no-verbales-001-MASTERY-bundle-v3",
+      "statement": "En ese diagrama de flujo, ¿qué información aporta la secuencia de flechas que une los recuadros?",
+      "context": "En la Biblioteca Municipal de Tunja, una pared exhibe un diagrama de flujo del trámite del carné de biblioteca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El costo en pesos de cada etapa del trámite",
+          "is_correct": false,
+          "feedback": "Incorrecto. El dinero no está codificado en las flechas; si el diagrama incluyera costos, aparecerían como texto dentro de los recuadros o en una nota aparte, no en la dirección de la conexión."
+        },
+        {
+          "letter": "B",
+          "text": "El nombre del funcionario responsable de cada etapa",
+          "is_correct": false,
+          "feedback": "Incorrecto. La conexión entre recuadros no transporta nombres de personas sino relaciones de secuencia; los responsables se asignarían con códigos o colores, nunca con flechas."
+        },
+        {
+          "letter": "C",
+          "text": "La secuencia lógica del trámite: qué paso sigue a cuál y en qué orden se ejecuta",
+          "is_correct": true,
+          "feedback": "Correcto. La flecha expresa una relación de precedencia entre pasos, de modo que leerlas en orden reconstruye la secuencia completa; sin ese recorrido el trámite queda como una lista suelta sin conexión."
+        },
+        {
+          "letter": "D",
+          "text": "El número de usuarios que pasaron por cada etapa del trámite",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los volúmenes de usuarios se codifican con cifras, colores o anchos, no con flechas; la flecha solo marca dirección y orden, nunca cantidad."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un diagrama de flujo es un discurso visual: las flechas funcionan como conectores lógicos y construyen el discurso completo. Interpretarlos exige reconstruir el orden, igual que se sigue la secuencia de los conectores cuando se lee un texto argumentativo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-10-2026-W32-la-interpretacion-de-textos-no-verbales-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W32-la-interpretacion-de-textos-no-verbales-001-MASTERY-bundle-v4",
+      "statement": "Con esos datos, ¿cuál afirmación queda mejor respaldada por el gráfico?",
+      "context": "En un colegio de Bucaramanga, un mural muestra el consumo de energía en kWh: enero 120, febrero 115, marzo 130, abril 145, mayo 160 y junio 175.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El consumo se mantuvo constante durante todo el semestre",
+          "is_correct": false,
+          "feedback": "Incorrecto. Constante exigiría valores iguales, y el recorrido va de 115 a 175 kWh: una variación de 60 kWh entre el mínimo y el máximo descarta por completo la estabilidad."
+        },
+        {
+          "letter": "B",
+          "text": "El consumo disminuyó de manera sostenida desde marzo",
+          "is_correct": false,
+          "feedback": "Incorrecto. De marzo a junio la serie sube (130, 145, 160 y 175 kWh); solo cae de enero (120) a febrero (115), por lo que una disminución sostenida desde marzo contradice los datos."
+        },
+        {
+          "letter": "C",
+          "text": "El consumo de marzo fue igual al de enero",
+          "is_correct": false,
+          "feedback": "Incorrecto. Marzo registró 130 kWh y enero 120 kWh: la diferencia es de 10 kWh, equivalente al 8,3 % respecto de enero. Solo puede afirmarse una igualdad cuando los valores coinciden exactamente."
+        },
+        {
+          "letter": "D",
+          "text": "El consumo aumentó de manera sostenida desde marzo",
+          "is_correct": true,
+          "feedback": "Correcto. De 130 kWh en marzo a 175 kWh en junio hay un aumento de 45 kWh, equivalente al 34,6 % sobre el valor de marzo, y los puntos intermedios crecen sin interrupciones (130, 145, 160, 175)."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Leer una serie temporal exige comparar valores consecutivos para detectar tendencias, no solo leer el dato final. Este tipo de pregunta aparece en Saber 11 con series de precios, de consumo o de indicadores, y la clave es declarar siempre sobre qué base se calcula el porcentaje.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-10-2026-W32-la-interpretacion-de-textos-no-verbales-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W32-la-interpretacion-de-textos-no-verbales-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la intención comunicativa principal de esa cartelera?",
+      "context": "En un centro de salud de Medellín, una cartelera presenta un diagrama con los síntomas del dengue y la acción que debe ejecutar el público.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Alertar sobre los síntomas y orientar una acción inmediata para evitar la propagación",
+          "is_correct": true,
+          "feedback": "Correcto. La cartelera combina la identificación de síntomas con la indicación de una conducta; esa combinación de informar yuellamar a hacer es lo que define una intención preventiva, no meramente informativa."
+        },
+        {
+          "letter": "B",
+          "text": "Entregar el historial clínico de los pacientes atendidos en el centro",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un historial clínico es un documento confidencial de datos individuales; una cartelera pública y anónima no puede contener historias clínicas ni identificaciones de pacientes."
+        },
+        {
+          "letter": "C",
+          "text": "Evaluar el desempeño del personal de enfermería durante el mes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Evaluar desempeño requiere datos internos de gestión que un afiche público no expone; el fin del diagrama es orientar al ciudadano, no juzgar al equipo de salud."
+        },
+        {
+          "letter": "D",
+          "text": "Describir en detalle el presupuesto asignado a la fumigación",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un presupuesto se lee en una tabla financiera, no en un diagrama de síntomas; el afiche no informa sobre recursos, induce una conducta preventiva en el público."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La pragmática gráfica estudia para qué se produce el mensaje, no solo qué dice. Distinguir entre intención informativa, persuasiva, preventiva y evaluativa evita el error más común: quedarse en el contenido y perder de vista el propósito comunicativo del texto no verbal.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-10-2026-W32-la-interpretacion-de-textos-no-verbales-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W32-la-interpretacion-de-textos-no-verbales-001-MASTERY-bundle-v6",
+      "statement": "Si un vehículo mantiene exactamente los 40 km/h señalados, ¿qué distancia recorre en esos 30 minutos?",
+      "context": "En una vía de Tunja, una señalización indica velocidad máxima de 40 km/h y un panel informa que el tramo restante se recorre en 30 minutos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10 km",
+          "is_correct": false,
+          "feedback": "Incorrecto. 10 km corresponde a 20 km/h durante media hora (20 × 0,5 = 10). Con los 40 km/h del enunciado el resultado se duplica, porque d = v · t = 40 × 0,5 = 20 km."
+        },
+        {
+          "letter": "B",
+          "text": "20 km",
+          "is_correct": true,
+          "feedback": "Correcto. Se convierte el tiempo a horas (30 min = 0,5 h) y se aplica d = v · t: 40 km/h × 0,5 h = 20 km. El dato leído de la señal es justamente el insumo del cálculo."
+        },
+        {
+          "letter": "C",
+          "text": "40 km",
+          "is_correct": false,
+          "feedback": "Incorrecto. 40 es el valor de la velocidad por hora, no la distancia total: para recorrer 40 km a esa velocidad se necesitaría una hora completa, el doble del tiempo del tramo."
+        },
+        {
+          "letter": "D",
+          "text": "80 km",
+          "is_correct": false,
+          "feedback": "Incorrecto. 80 km exigiría circular a 160 km/h durante media hora, el doble de la velocidad señalada, lo que además incumpliría la restricción normativa que el propio texto noverbal comunica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La señalización vial es un texto no verbal con una instrucción normativa: su contenido se convierte en un dato de cálculo o en una decisión de seguridad. Leerla bien significa tomar el valor, aplicarlo y además reconocer que ese valor es una restricción, no una sugerencia.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-10-2026-W32-la-interpretacion-de-textos-no-verbales-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W32-la-interpretacion-de-textos-no-verbales-001-MASTERY-bundle-v7",
+      "statement": "Frente a ese organigrama, ¿qué observación es válida sobre su estructura?",
+      "context": "En la secretaría de una universidad de Medellín se publica un organigrama con las áreas administrativa, académica y de investigación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Muestra el número de empleados que tiene cada área",
+          "is_correct": false,
+          "feedback": "Incorrecto. El organigrama representa jerarquía y dependencia, no cantidad de personal; el número de empleados se registra en una tabla de planta de personal, no en el organigrama."
+        },
+        {
+          "letter": "B",
+          "text": "Permite conocer el costo salarial de cada cargo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los valores salariales no aparecen en el organigrama, porque su función es mostrar quién depende de quién; la información salarial exige datos administrativos de otra fuente."
+        },
+        {
+          "letter": "C",
+          "text": "Distribuye los cargos en niveles y conecta cada uno con su superior mediante líneas",
+          "is_correct": true,
+          "feedback": "Correcto. La estructura jerárquica se codifica por posición vertical y por las líneas de autoridad; esa combinación de niveles y conexiones es lo que permite leer quién rinde cuentas a quién."
+        },
+        {
+          "letter": "D",
+          "text": "Presenta los resultados de gestión y el cumplimiento de metas del período",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los resultados y las metas se informan en informes o infografías de gestión, no en un organigrama, que es un texto de estructura organizativa y no de desempeño."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El organigrama codifica relaciones jerárquicas mediante posición y líneas de autoridad. Identificar qué tipo de información corresponde a cada género textual es una habilidad textual que permite no atribuirle a un gráfico datos que pertenece a otro documento.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-10-2026-W32-la-interpretacion-de-textos-no-verbales-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W32-la-interpretacion-de-textos-no-verbales-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es una comprobación válida de coherencia entre la tabla y el gráfico circular?",
+      "context": "En una institución de Cali se publican dos versiones del mismo dato: una tabla con estudiantes por grado y un gráfico circular con esos mismos datos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el gráfico tenga la mayor cantidad posible de categorías",
+          "is_correct": false,
+          "feedback": "Incorrecto. Agregar categorías no verifica nada: un gráfico con muchas categorías puede seguir contradiciendo la tabla si los porcentajes se calcularon sobre otro total."
+        },
+        {
+          "letter": "B",
+          "text": "Que los porcentajes del gráfico sumen exactamente 100 %",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que sumen 100 % es una condición interna del gráfico, pero puede cumplirse con datos equivocados y no confronta la tabla con el gráfico."
+        },
+        {
+          "letter": "C",
+          "text": "Que ambos textos tengan el mismo título visible",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un título coincidente identifica la fuente pero no aporta evidencia numérica; dos gráficos con el mismo título pueden mostrar totales completamente distintos."
+        },
+        {
+          "letter": "D",
+          "text": "Que la suma de los estudiantes de la tabla coincida con el total que representa el 100 % del gráfico",
+          "is_correct": true,
+          "feedback": "Correcto. Solo el cruce de datos permite verificar coherencia: si la tabla suma 1.200 estudiantes, el 100 % del gráfico debe equivaler a 1.200 y no a otra cifra."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Contrastar dos representaciones del mismo dato es una forma temprana de lectura crítica. Cuando tabla y gráfico no coinciden, el estudiante debe rastrear la fuente, el año y el universo de referencia antes de concluir quién tiene el error.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-10-2026-W32-la-interpretacion-de-textos-no-verbales-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W32-la-interpretacion-de-textos-no-verbales-001-MASTERY-bundle-v9",
+      "statement": "¿Qué criterio permite juzgar que esa infografía es efectivamente persuasiva?",
+      "context": "En Cali, una campaña de prevención del consumo de sustancias psicoactivas en adolescentes produce una infografía publicada en redes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que presente datos pertinentes y veraces, un mensaje clave destacado y una acción clara que el público pueda ejecutar",
+          "is_correct": true,
+          "feedback": "Correcto. Una infografía persuasiva combina evidencia verificable, un foco visual que jerarquiza el mensaje y una conducta concreta; sin alguna de esas tres capas no hay persuasión, solo decoración."
+        },
+        {
+          "letter": "B",
+          "text": "Que use el mayor número posible de colores, tipografías y efectos visuales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Acumular recursos visuales sin criterio genera ruido y baja la comprensión; el efecto persiste en la legibilidad, no en la cantidad de adornos."
+        },
+        {
+          "letter": "C",
+          "text": "Que esté alojada en redes sociales y acumule comentarios positivos",
+          "is_correct": false,
+          "feedback": "Incorrecto. La difusión y los comentarios miden popularidad, no eficacia persuasiva; un texto puede ser muy popular y aun así no mover ninguna conducta."
+        },
+        {
+          "letter": "D",
+          "text": "Que repita el nombre de la institución en cada recuadro",
+          "is_correct": false,
+          "feedback": "Incorrecto. Repetir el nombre institucional ocupa espacio sin aportar evidencia; lo que persuade es la fuerza del dato y la claridad de la acción propuesta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar la eficacia de un texto no verbal exige aplicar criterios explícitos, no emitir juicios de gusto. Separar convincingly los indicadores de impacto real (evidencia, jerarquía visual, acción) de los indicadores de popularidad es una competencia evaluativa de alto nivel.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-10-2026-W32-la-interpretacion-de-textos-no-verbales-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W32-la-interpretacion-de-textos-no-verbales-001-MASTERY-bundle-v10",
+      "statement": "¿Qué efecto produce esa decisión sobre la escala del gráfico?",
+      "context": "Un medio digital de Bogotá publica un gráfico de barras sobre participación electoral de dos municipios, con el eje vertical iniciado en 40 % en lugar de 0 %.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ninguno, porque los datos subyacentes siguen siendo los mismos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los datos no cambian, pero la escala alterada cambia la representación visual: la manipulación gráfica no requiere modificar ninguna cifra."
+        },
+        {
+          "letter": "B",
+          "text": "Exagera visualmente las diferencias entre los municipios y puede llevar a conclusiones engañosas",
+          "is_correct": true,
+          "feedback": "Correcto. Truncar el eje amplifica la distancia entre barras: por ejemplo 42 % y 55 % parecen casi el doble de diferencia cuando en realidad son 13 puntos porcentuales."
+        },
+        {
+          "letter": "C",
+          "text": "Reduce el número de categorías que el lector debe comparar",
+          "is_correct": false,
+          "feedback": "Incorrecto. El punto de partida del eje no elimina categorías; cuántas categorías hay depende de los datos comparados, no de dónde arranque la escala."
+        },
+        {
+          "letter": "D",
+          "text": "Hace que las barras representen porcentajes más pequeños que los reales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al iniciar el eje en 40 % las barras se ven más altas y comprimidas, no más pequeñas; el porcentaje real de cada barra es el dato original."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar un gráfico implica auditar su honestidad visual: escala, eje truncado, proporciones y tamaño de las letras. Saber que una gráfica puede mentir sin falsear un solo número es una de las competencias más valiosas que se pueden-NC. luckily. Es el fundamento de la lectura crítica de datos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-10-2026-W32-la-interpretacion-de-textos-no-verbales-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W32-la-interpretacion-de-textos-no-verbales-001-MASTERY-bundle-v11",
+      "statement": "¿Qué relación entre la historieta y el artículo permite una lectura crítica?",
+      "context": "En clase de Bucaramanga se presenta una historieta y un artículo de prensa que tratan ambos el acceso al agua en una communauté rural.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la historieta use el mismo tipo de letra que el artículo",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tipografía es un rasgo de forma y no un contenido; compartirla no permite contrastar información, opinions ni strategies discursivas."
+        },
+        {
+          "letter": "B",
+          "text": "Que la historieta tenga el mismo número de páginas que el artículo",
+          "is_correct": false,
+          "feedback": "Incorrecto. La extensión es un dato de formato que nada dice sobre el tratamiento del tema; comparar cantidades de páginas no es un ejercicio de lectura crítica."
+        },
+        {
+          "letter": "C",
+          "text": "Que se contrasten los datos del artículo con lo que la historieta dramatiza para detectar omisiones, simplificaciones o sesgos",
+          "is_correct": true,
+          "feedback": "Correcto. Poner en diálogo lo que la historieta dramatiza con lo que el artículo documenta permite ver qué se amplifica, qué se calla y desde qué posición habla cada texto."
+        },
+        {
+          "letter": "D",
+          "text": "Que la historieta incluya el mismo número de personajes que el artículo menciona",
+          "is_correct": false,
+          "feedback": "Incorrecto. Contar personajes es un conteo superficial; la lectura intertextual exige compararafsí statements y versiones sobre el mismo hecho, no enumerar quantifying elementos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La competencia crítico-intertextual pone dos o más textos en diálogo para examinar qué dice cada uno y qué omite. Contrastar una fuente periodística con una ficción que trata el mismo hecho enseña a reconocer funciones, intencionalidades y sesgos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Critico-Intertextual",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-10-2026-W32-la-interpretacion-de-textos-no-verbales-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W32-la-interpretacion-de-textos-no-verbales-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es el procedimiento más riguroso para resolver la contradicción entre esos dos textos?",
+      "context": "En Tunja, dos textos no verbales sobre el embalse muestran datos opuestos sobre el nivel del agua, cada uno con título y fuente distinta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tomar el texto que tenga más colores y títulos llamativos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El atractivo visual es un recurso de persuasión, no un criterio de veracidad; elegir por diseño concede la razón al texto más vistoso, no al más confiable."
+        },
+        {
+          "letter": "B",
+          "text": "Elegir el que tenga el número más grande, porque en estos textos el valor mayor siempre es el correcto",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existe regla que ligue magnitud y verdad: las dos cifras pueden ser reales y corresponder a fechas o mediciones distintas, de modo que la comparación numérica es inválida."
+        },
+        {
+          "letter": "C",
+          "text": "Preferir el que tenga el año más reciente, sin revisar el origen de los datos",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fecha de publicación no garantiza el origen del dato: un texto nuevo puede copiar una cifra vieja de una fuente sin metodología verificable."
+        },
+        {
+          "letter": "D",
+          "text": "Contrastar ambos con una fuente primaria oficial y revisar método, fecha y alcance de cada medición",
+          "is_correct": true,
+          "feedback": "Correcto. Solo el cruce con la fuente primaria y la revisión de método, fecha y alcance permite determinar si el desacuerdo es un error o una diferencia real de mediciones."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Ante dos fuentes en conflicto, el lector experto no elige la que le convence sino la que puede rastrear. Verificar fuente, método, fecha y alcance es el procedimiento que convierte una opinión sobre el tema en un juicio defendible, y es el nivel de razonamiento que exige la lectura crítica de textos no verbales.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Critico-Intertextual",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-10-2026-W32-la-interpretacion-de-textos-no-verbales-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}
