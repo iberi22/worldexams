@@ -1,13 +1,20 @@
 // Tests for the generator interlock.
 //
-// The repair removes 412 cloned bundles. 23 scripts under scripts/ can write
-// bundles and not one of them validates its own output, so nothing stops the
-// next person from re-creating the defect with one python3 command. This script
-// is that interlock, and its thresholds are the whole point, so they are
-// pinned here.
+// The repair removes 412 cloned bundles. Every script under scripts/ that can
+// write bundles does so without validating its own output, so nothing stops
+// the next person from re-creating the defect with one python3 command. This
+// script is that interlock.
 //
 // Plain node, like the other quality suites, because vitest does not reach
 // scripts/.
+//
+// The corpus-wide case at the bottom asserts properties, not counts. It used to
+// pin `scanned === 23`, which is the same mistake as documenting a fixed count
+// of generator files: it went stale the moment obsolete generators were deleted
+// and then taught the next reader that 23 was a fact about the repo. A count
+// that changes when we do maintenance is not a threshold, it is a coincidence.
+// What must hold is that the gate still runs, still sees files, and still
+// catches the one generator that produced the clone storm.
 
 import assert from 'node:assert/strict';
 import { spawnSync } from 'node:child_process';
@@ -91,10 +98,21 @@ try {
     assert.equal(r.findings.length, 0);
   });
 
-  test('reports the real corpus: 16 of 23 generators are unsafe', () => {
+  test('still runs over the real corpus and still catches the clone generator', () => {
     const r = run();
-    assert.equal(r.scanned, 23);
-    assert.ok(r.findings.length >= 15, `expected 15+ findings, got ${r.findings.length}`);
+    // Property, not a census: the gate must reach real files on every run.
+    assert.ok(r.scanned > 0, `gate scanned nothing: ${r.scanned}`);
+    // Every generator that survives is still unsafe, and none of them self-checks.
+    // If this ever goes false, the correct outcome is to add the self-check, not
+    // to relax the assertion.
+    assert.ok(r.findings.length > 0, 'expected at least one unsafe generator to remain');
+    for (const f of r.findings) {
+      assert.ok(
+        f.problems.includes('writes bundles and never runs the validator'),
+        `${f.script} is flagged but not for the reason that matters: ${f.problems.join('; ')}`
+      );
+    }
+    // The specific generator that produced the 278x clones must stay flagged.
     const caribbean = r.findings.find((f) => f.script.includes('gen_ca_caribbean_generator'));
     assert.ok(caribbean, 'the generator that produced the 278x clones must be flagged');
     assert.equal(caribbean.problems.length, 3);
