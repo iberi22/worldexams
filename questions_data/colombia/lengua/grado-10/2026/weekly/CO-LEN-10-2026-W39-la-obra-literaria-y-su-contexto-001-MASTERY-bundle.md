@@ -111,7 +111,7 @@ Un fragmento describe un ritual campesino: losLabradores reaccionan a un clima d
   <!-- feedback: Incorrecto. Ese recurso testimonial da contexto documental, no costumbrismo: la huella costumbrista está en las prácticas descritas, no en la firma. -->
 - [ ] C) La llegada de un dialecto de la Costa al dialecto central, es decir, un cambio en el estrato lingüístico.
   <!-- feedback: Incorrecto. Cambiar laCousteau en la variedades no garantiza costumbrismo: la evidencia clave es la reconstrucción de una práctica comunitaria. -->
-- [x] D) La relación estrecha entre las faenas del campo, los cantos que las acompañan y la vocabularioUNCULATED de la comunidad.
+- [x] D) La relación estrecha entre las faenas del campo, los cantos que las acompañan y el vocabulario de la comunidad.
   <!-- feedback: Correcto. La tríada faena-canto-lenguaje muestra la reconstrucción de una práctica social completa, que es exactamente lo que distingue al texto costumbrista. -->
 
 ### Explicacion Pedagogica
@@ -214,7 +214,7 @@ Evaluar la estructura discursiva exige identificar tesis, estrategia argumentati
 **Bloom:** Evaluate
 **ICFES:** Pragmatico
 **Expected_Success:** 0.7
-**Contexto:** En un colegio de Cartagena, grado 10 compara el projeto indigenista de un autor de los años treinta con una novela costumbrista de la costa .
+**Contexto:** En un colegio de Cartagena, grado 10 compara el proyecto indigenista de un autor de los años treinta con una novela costumbrista de la costa .
 
 ### Enunciado
 Frente a un texto que adopta la voz delIndigenous para denunciar la ocupación, ¿qué criterio pragmático permite evaluar con precisión la posición de autor de una novela costumbrista de la misma época?
@@ -295,7 +295,7 @@ Frente a la afirmación «las autoras regionales de la primera mitad del siglo X
   <!-- feedback: Incorrecto. Los datos de tirada son un dato empírico, no una refutación interpretativa: no responden al argumento sobre la pertinencia estética e histórica de la obra. -->
 - [ ] B) Refutarla señalando que las autoras usaban el mismo lenguaje que los hombres, por lo que no hay diferencia de perspectiva.
   <!-- feedback: Incorrecto. Asemejar el lenguaje a los_varrios de la época no demuestra nada; la tesis no habla de estilo, sino de la relación entre lo local y lo nacional. -->
-- [ ] C) Refutarla con el argumento de que las autoras no Known Known su propio país, lo que vuelve inválida cualquier mirada regional.
+- [ ] C) Refutarla con el argumento de que las autoras no conocen su propio país, lo que vuelve inválida cualquier mirada regional.
   <!-- feedback: Incorrecto. Alegar desconocimiento del país contradice el hecho mismo de las obras; y además invierte el problema en vez de demostrar la pertinencia estética. -->
 - [x] D) Refutarla mostrando que en sus obras dialogan con la tradición nacional y universal, y que la experiencia regional se convierte en un lenguaje de la Colombianidad.
   <!-- feedback: Correcto. El diálogo intertextual con la tradición nacional y universal, y la construcción de un lenguaje propio de la Colombianidad, falsan la tesis de la irrelevancia regional. -->
