@@ -20,463 +20,464 @@ bundle_index: 1
 # MASTERY Bundle - Ingles: Author Purpose Tone (W18)
 **20 preguntas | Ingles | Curriculo de Ingles**
 
+
 ---
 ## Question 1 [D3]
-**ID:** CR-ING-11-2026-W18-author-purpose-tone-001-MASTERY-bundle-v1
-**Bloom:** Remember
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
-
-### Opciones
-- [x] C) accommodation
-  <!-- feedback: Correct! 'Accommodation' is the word for a place where you live or stay when you are on holiday. -->
-- [ ] A) transportation
-  <!-- feedback: 'Transportation' is the way you move from one place to another (buses, trains, planes), not the place where you sleep. -->
-- [ ] B) entertainment
-  <!-- feedback: 'Entertainment' is the fun or activities you enjoy, not the building or room where you stay. -->
-- [ ] D) currency
-  <!-- feedback: 'Currency' is the money of a country, which has nothing to do with where you sleep. -->
-
-### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
----
-## Question 2 [D4]
-**ID:** CR-ING-11-2026-W18-author-purpose-tone-001-MASTERY-bundle-v2
-**Bloom:** Remember
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
-
-### Opciones
-- [x] C) itinerary
-  <!-- feedback: Correct! An 'itinerary' is a detailed plan of a journey, listing the places and times along the route. -->
-- [ ] A) baggage
-  <!-- feedback: 'Baggage' is the suitcases and bags you travel with, not the written plan of the trip. -->
-- [ ] B) destination
-  <!-- feedback: 'Destination' is the place you are going to, a single place, while an itinerary is the whole route plan. -->
-- [ ] D) passport
-  <!-- feedback: 'Passport' is the travel document that lets you cross a border, not the schedule of your trip. -->
-
-### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
----
-## Question 3 [D3]
-**ID:** CR-ING-11-2026-W18-author-purpose-tone-001-MASTERY-bundle-v3
+**ID:** CR-ING-11-2026-W18-author-purpose-tone-v1
 **Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Reading Comprehension
+**Expected_Success:** 0.85
+**Contexto:** Text: 'This guide is for students starting their first year at university. It explains how to register, where to find the library and how to ask for help in English.'
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+What is the purpose of this text?
 
 ### Opciones
-- [x] C) destination
-  <!-- feedback: Correct! A 'destination' is the place someone or something is going or being sent to. -->
-- [ ] A) departure
-  <!-- feedback: 'Departure' is the action of leaving, the opposite end of the journey from the destination. -->
-- [ ] B) arrival
-  <!-- feedback: 'Arrival' is the act of getting there; the place you arrive at is the destination. -->
-- [ ] D) journey
-  <!-- feedback: 'Journey' is the whole trip from start to finish, not the place you are heading to. -->
+- [x] C) To give practical instructions to new students
+  <!-- feedback: The text announces who it is for and lists the tasks it covers, which is the definition of a practical guide. -->
+- [ ] D) To persuade students to choose this university
+  <!-- feedback: Persuasion would require praise or a recommendation, and none appears. -->
+- [ ] A) To criticise the registration system
+  <!-- feedback: No complaint about the system is expressed anywhere in the text. -->
+- [ ] B) To compare two universities
+  <!-- feedback: Only one institution is mentioned, so no comparison is possible. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
+Purpose is usually stated in the first sentence of a short text and confirmed by the type of information it supplies. A list of tasks signals a guide, not an argument.
+---
+## Question 2 [D3]
+**ID:** CR-ING-11-2026-W18-author-purpose-tone-v2
+**Bloom:** Apply
+**EJE:** Reading Comprehension
+**Expected_Success:** 0.85
+**Contexto:** Text: 'A review in a weekly magazine describes the new restaurant as 'expensive, predictable and almost beside the point'.
+
+### Enunciado
+What tone does this text use?
+
+### Opciones
+- [x] D) Sarcastic and dismissive
+  <!-- feedback: Calling a restaurant 'predictable' and 'beside the point' while stating it is expensive conveys contempt in place of praise. -->
+- [ ] A) Enthusiastic and promotional
+  <!-- feedback: Promotion would use positive words, and every term here is negative. -->
+- [ ] B) Neutral and descriptive
+  <!-- feedback: A neutral description would not attach a dismissive phrase to the venue. -->
+- [ ] C) Indifferent and unemotional
+  <!-- feedback: The language is engaged and pointed, which is the opposite of indifference. -->
+
+### Explicacion Pedagogica
+Tone is judged by word choice and by what a description implies. A review can be critical without being neutral, and here the vocabulary is chosen to dismiss.
+---
+## Question 3 [D4]
+**ID:** CR-ING-11-2026-W18-author-purpose-tone-v3
+**Bloom:** Analyze
+**EJE:** Reading Comprehension
+**Expected_Success:** 0.8
+**Contexto:** Text: 'Our programme is the only one of its kind in the region. Enrolment is free. Spaces are limited.'
+
+### Enunciado
+What is the likely purpose of this text?
+
+### Opciones
+- [x] C) To persuade the reader to enrol before places run out
+  <!-- feedback: A claim of uniqueness, a removal of cost and a reminder of scarcity are the standard moves of a recruitment message. -->
+- [ ] D) To explain the academic content of the programme
+  <!-- feedback: No subject matter is described, so the text is not an academic description. -->
+- [ ] A) To warn readers against enrolling
+  <!-- feedback: Nothing discourages the reader; every stated fact encourages enrolment. -->
+- [ ] B) To report enrolment figures from last year
+  <!-- feedback: Figures from previous years are not given. -->
+
+### Explicacion Pedagogica
+Purpose becomes clear from the combination of claims offered: a competitive advantage, the removal of an obstacle and the threat of scarcity together form an invitation to act.
 ---
 ## Question 4 [D4]
-**ID:** CR-ING-11-2026-W18-author-purpose-tone-001-MASTERY-bundle-v4
+**ID:** CR-ING-11-2026-W18-author-purpose-tone-v4
 **Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Reading Comprehension
+**Expected_Success:** 0.8
+**Contexto:** Text: 'The manufacturer states that the product is safe. No independent test is mentioned anywhere in the report.'
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+What does the absence of independent testing suggest?
 
 ### Opciones
-- [x] B) luggage
-  <!-- feedback: Correct! 'Luggage' means suitcases and bags in which you pack your belongings for a trip. -->
-- [ ] A) ticket
-  <!-- feedback: 'Ticket' is the paper that gives you the right to travel on a bus, train or plane, not the bag itself. -->
-- [ ] C) flight
-  <!-- feedback: 'Flight' is the journey by plane, or the plane itself; the bags are called luggage. -->
-- [ ] D) reservation
-  <!-- feedback: 'Reservation' is the booking you make for a seat or a room, not the bags you pack. -->
+- [x] B) The claim rests entirely on the manufacturer's own interest in reassuring buyers
+  <!-- feedback: With no external verification cited, the supporting evidence is the statement of the party that benefits from the claim. -->
+- [ ] C) The product has been tested by official laboratories
+  <!-- feedback: An independent test would have to be mentioned, and none is. -->
+- [ ] D) Independent testing was performed and found no problems
+  <!-- feedback: Nothing in the text indicates that testing occurred. -->
+- [ ] A) The report was written to criticise the manufacturer
+  <!-- feedback: The text reports a claim without attacking it, so it is not a critique. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
+Who supplies the evidence is part of evaluating a claim. A statement made by the party that benefits from it carries less weight until independent support appears.
 ---
-## Question 5 [D5]
-**ID:** CR-ING-11-2026-W18-author-purpose-tone-001-MASTERY-bundle-v5
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+## Question 5 [D4]
+**ID:** CR-ING-11-2026-W18-author-purpose-tone-v5
+**Bloom:** Evaluate
+**EJE:** Reading Comprehension
+**Expected_Success:** 0.8
+**Contexto:** Text: 'A historian writes that the old customs house, now used as a museum, was for many years the busiest building in the town.'
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+What kind of writer is this?
 
 ### Opciones
-- [x] D) passenger
-  <!-- feedback: Correct! A 'passenger' is a person who travels on a vehicle without being the driver, pilot or crew. -->
-- [ ] A) pedestrian
-  <!-- feedback: 'Pedestrian' is someone who travels on foot, so they are not on a conveyance at all. -->
-- [ ] B) commuter
-  <!-- feedback: 'Commuter' is someone who travels regularly between home and work; the definition here is any traveller on board, not only that daily case. -->
-- [ ] C) tourist
-  <!-- feedback: 'Tourist' is someone visiting for pleasure or sightseeing, but the definition covers every traveller on board, including commuters and residents. -->
+- [x] D) A historian describing a building's past function
+  <!-- feedback: The reference to what happened for many years in the past describes a documented function. -->
+- [ ] A) A tourist brochure promoting a museum
+  <!-- feedback: A brochure would invite a visit and recommend the museum, and no invitation appears. -->
+- [ ] B) An architect describing a design
+  <!-- feedback: No architectural feature is described anywhere in the text. -->
+- [ ] C) A novelist inventing a scene
+  <!-- feedback: The sentence reports a fact about the past rather than narrating a fictional scene. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
+Purpose narrows when it is read together with the register and the kind of detail supplied. A past-tense factual description signals history, while an invitation signals promotion.
 ---
-## Question 6 [D6]
-**ID:** CR-ING-11-2026-W18-author-purpose-tone-001-MASTERY-bundle-v6
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+## Question 6 [D5]
+**ID:** CR-ING-11-2026-W18-author-purpose-tone-v6
+**Bloom:** Analyze
+**EJE:** Reading Comprehension
+**Expected_Success:** 0.8
+**Contexto:** Text: 'We are proud to announce that our new centre will serve families from the whole province, not only from the town where it stands.'
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+What tone is produced by the opening words 'we are proud to announce'?
 
 ### Opciones
-- [x] A) customs
-  <!-- feedback: Correct! 'Customs' is the office at a port, airport or border where officials check goods, travellers and luggage. -->
-- [ ] B) security
-  <!-- feedback: 'Security' is the staff who control safety and boarding inside the airport; it does not check the goods you bring in. -->
-- [ ] C) terminal
-  <!-- feedback: 'Terminal' is the whole building where passengers wait, eat and catch their flights. -->
-- [ ] D) gate
-  <!-- feedback: 'Gate' is the particular door you board through, not the place where officials inspect your luggage. -->
+- [x] B) A celebratory and promotional tone
+  <!-- feedback: The formula announces good news with visible satisfaction and is standard promotional language. -->
+- [ ] C) A cautious and tentative tone
+  <!-- feedback: A cautious text would qualify and hedge rather than celebrate. -->
+- [ ] D) A regretful and apologetic tone
+  <!-- feedback: No apology or regret appears anywhere in the sentence. -->
+- [ ] A) A purely technical tone
+  <!-- feedback: The formula is a social convention and carries an attitude, not merely technical information. -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
+Formulaic openings are reliable tone indicators. Phrases such as 'we are pleased to announce' and 'we are proud to' belong to a register whose purpose is to build a favourable impression.
 ---
 ## Question 7 [D5]
-**ID:** CR-ING-11-2026-W18-author-purpose-tone-001-MASTERY-bundle-v7
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**ID:** CR-ING-11-2026-W18-author-purpose-tone-v7
+**Bloom:** Understand
+**EJE:** Reading Comprehension
+**Expected_Success:** 0.8
+**Contexto:** Text: 'Although the trial was approved, several residents objected, and their objections were recorded in the minutes.'
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+What does the word 'Although' do at the start of this sentence?
 
 ### Opciones
-- [x] B) boarding pass
-  <!-- feedback: Correct! The 'boarding pass' is the document the airline gives you at check-in that authorises you to board. -->
-- [ ] A) visa
-  <!-- feedback: 'Visa' is the official permission to enter and stay in a country, requested before the trip, not the document that lets you board a plane. -->
-- [ ] C) receipt
-  <!-- feedback: 'Receipt' is the proof of payment for a purchase, not the travel document for boarding. -->
-- [ ] D) brochure
-  <!-- feedback: 'Brochure' is a small booklet of tourist information, not the document that lets you board. -->
+- [x] C) It concedes a fact that runs against what follows
+  <!-- feedback: A concessive connector sets up an expectation that the following clause will contrast with it. -->
+- [ ] D) It introduces a consequence of the approval
+  <!-- feedback: A consequence would be introduced by 'so' or 'as a result'. -->
+- [ ] A) It gives a reason for the objections
+  <!-- feedback: A reason would be introduced by 'because', and the objections are not presented as a reason for the approval. -->
+- [ ] B) It introduces an example of a general rule
+  <!-- feedback: An example would be introduced by 'for example' or 'such as'. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+Concession in a single text often signals that the writer is managing a point of view, since the reader is being walked through the two sides of a contested matter.
 ---
-## Question 8 [D6]
-**ID:** CR-ING-11-2026-W18-author-purpose-tone-001-MASTERY-bundle-v8
+## Question 8 [D5]
+**ID:** CR-ING-11-2026-W18-author-purpose-tone-v8
 **Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Reading Comprehension
+**Expected_Success:** 0.8
+**Contexto:** Text: 'Officials estimate that the repairs will take four months. Contractors have said privately that the work could take twice as long.'
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+Why does the author place the private statement after the official one?
 
 ### Opciones
-- [x] D) sightseeing
-  <!-- feedback: Correct! 'Sightseeing' is the activity of visiting the places of interest in a location. -->
-- [ ] A) shopping
-  <!-- feedback: 'Shopping' is buying things in stores, which is not the same as visiting the sights of a place. -->
-- [ ] B) hiking
-  <!-- feedback: 'Hiking' is walking in the countryside on trails, not the general activity of visiting a location's attractions. -->
-- [ ] C) camping
-  <!-- feedback: 'Camping' is staying outdoors in a tent, not visiting the sights of a location. -->
+- [x] B) To contrast the official figure with information that undermines it
+  <!-- feedback: The order sets the official account first and then introduces a competing figure that contradicts it. -->
+- [ ] C) To show that the official estimate is the correct one
+  <!-- feedback: A private statement contradicting the official figure does not confirm it. -->
+- [ ] D) To give two sources that agree with each other
+  <!-- feedback: The two accounts differ, so they are in tension rather than in agreement. -->
+- [ ] A) To explain why the repairs are needed
+  <!-- feedback: The text does not address the necessity of the repairs. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+The sequence of information in a text is a rhetorical choice. A disagreement introduced after an official figure is framed as a revelation, and a disagreement placed first is framed as a correction.
 ---
 ## Question 9 [D5]
-**ID:** CR-ING-11-2026-W18-author-purpose-tone-001-MASTERY-bundle-v9
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**ID:** CR-ING-11-2026-W18-author-purpose-tone-v9
+**Bloom:** Understand
+**EJE:** Reading Comprehension
+**Expected_Success:** 0.8
+**Contexto:** Text: 'The scheme was extended for a further three years. Participation fell by a fifth over the same period. The report describes this as a sign of the scheme's success.'
 
 ### Enunciado
-What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
+What does this description accomplish?
 
 ### Opciones
-- [x] A) souvenir
-  <!-- feedback: Correct! A 'souvenir' is the object you keep afterwards as a reminder of a person, place or event you visited. -->
-- [ ] B) gift
-  <!-- feedback: 'Gift' is something you give to another person; a souvenir is kept by the person who took the trip. -->
-- [ ] C) award
-  <!-- feedback: 'Award' is a prize given for an achievement, not an object bought or kept as a memory. -->
-- [ ] D) prize
-  <!-- feedback: 'Prize' is the reward you win in a competition, so it comes from winning rather than from a journey. -->
+- [x] A) It presents a fall in participation as a positive outcome
+  <!-- feedback: Calling a decline a sign of success reverses the ordinary meaning of the figure, which is a rhetorical move rather than an error of fact. -->
+- [ ] B) It acknowledges that the scheme is underperforming
+  <!-- feedback: The text presents the result positively, so it does not acknowledge difficulty. -->
+- [ ] C) It explains the fall as a result of funding changes
+  <!-- feedback: No cause is offered for the fall. -->
+- [ ] D) It compares the scheme with another programme
+  <!-- feedback: A comparison with another programme is never mentioned. -->
 
 ### Explicacion Pedagogica
-The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
+Reading a report critically means comparing the label a writer attaches to a figure with what the figure would usually mean. A mismatch between the two is often where the argument is being made.
 ---
-## Question 10 [D6]
-**ID:** CR-ING-11-2026-W18-author-purpose-tone-001-MASTERY-bundle-v10
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A period of time by which something is late or postponed."
-
-### Opciones
-- [x] D) delay
-  <!-- feedback: Correct! A 'delay' is the extra time by which something ends up late or gets postponed. -->
-- [ ] A) cancellation
-  <!-- feedback: 'Cancellation' means the event does not happen at all, not that it happens later than planned. -->
-- [ ] B) departure
-  <!-- feedback: 'Departure' is the scheduled time or the act of leaving; the definition is about the extra time lost. -->
-- [ ] C) arrival
-  <!-- feedback: 'Arrival' is getting there, the opposite moment. Here we want the time lost, not the time you reach the destination. -->
-
-### Explicacion Pedagogica
-The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
----
-## Question 11 [D7]
-**ID:** CR-ING-11-2026-W18-author-purpose-tone-001-MASTERY-bundle-v11
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
-
-### Opciones
-- [x] D) check-in
-  <!-- feedback: Correct! 'Check-in' is the act of reporting your arrival and registering at the airport or hotel counter. -->
-- [ ] A) check-out
-  <!-- feedback: 'Check-out' is the opposite moment, when you leave the hotel or hand back the room. -->
-- [ ] B) booking
-  <!-- feedback: 'Booking' is the reservation you made earlier; the act of registering your presence on arrival is check-in. -->
-- [ ] C) reservation
-  <!-- feedback: 'Reservation' is the booking document, not the act of reporting your presence at the desk. -->
-
-### Explicacion Pedagogica
-The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
----
-## Question 12 [D8]
-**ID:** CR-ING-11-2026-W18-author-purpose-tone-001-MASTERY-bundle-v12
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A period of rest or waiting before a further stage in a journey."
-
-### Opciones
-- [x] B) layover
-  <!-- feedback: Correct! A 'layover' is a period of rest or waiting between two stages of a journey. -->
-- [ ] A) stopover
-  <!-- feedback: 'Stopover' usually means a deliberate visit in the middle of a trip, not just the wait between flights. -->
-- [ ] C) transfer
-  <!-- feedback: 'Transfer' is the change of vehicle itself, the movement; the definition is about the time of waiting. -->
-- [ ] D) transit
-  <!-- feedback: 'Transit' is a system of moving people and goods through a city, not a break between two flights. -->
-
-### Explicacion Pedagogica
-The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
----
-## Question 13 [D7]
-**ID:** CR-ING-11-2026-W18-author-purpose-tone-001-MASTERY-bundle-v13
-**Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A system of money in general use in a particular country."
-
-### Opciones
-- [x] B) currency
-  <!-- feedback: Correct! 'Currency' is the money system in general use in a particular country. -->
-- [ ] A) coin
-  <!-- feedback: 'Coin' is a single metal piece of money, one item within the currency, not the whole system. -->
-- [ ] C) banknote
-  <!-- feedback: 'Banknote' is a paper bill, one item of the currency rather than the system of money itself. -->
-- [ ] D) cash
-  <!-- feedback: 'Cash' means money in the physical form you hold, not the money system of a country. -->
-
-### Explicacion Pedagogica
-The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
----
-## Question 14 [D8]
-**ID:** CR-ING-11-2026-W18-author-purpose-tone-001-MASTERY-bundle-v14
-**Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
-
-### Opciones
-- [x] B) guidebook
-  <!-- feedback: Correct! A 'guidebook' is a book of information about a place written for visitors and tourists. -->
-- [ ] A) map
-  <!-- feedback: 'Map' is a single sheet or screen showing the layout of a place, not a book of information. -->
-- [ ] C) dictionary
-  <!-- feedback: 'Dictionary' is a book of word definitions of a language, not information about a place for visitors. -->
-- [ ] D) encyclopedia
-  <!-- feedback: 'Encyclopedia' is a general reference work with entries on every topic, not a guide written for tourists about one place. -->
-
-### Explicacion Pedagogica
-The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
----
-## Question 15 [D7]
-**ID:** CR-ING-11-2026-W18-author-purpose-tone-001-MASTERY-bundle-v15
-**Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
-
-### Opciones
-- [x] C) backpack
-  <!-- feedback: Correct! A 'backpack' is the bag with shoulder straps that you carry on your back. -->
-- [ ] A) suitcase
-  <!-- feedback: 'Suitcase' is a case with a handle that you pull along, not a bag worn on the back. -->
-- [ ] B) briefcase
-  <!-- feedback: 'Briefcase' is a case for documents and a laptop, carried in the hand for work. -->
-- [ ] D) handbag
-  <!-- feedback: 'Handbag' is a bag for personal items carried on the arm or in the hand, with no back straps. -->
-
-### Explicacion Pedagogica
-The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
----
-## Question 16 [D8]
-**ID:** CR-ING-11-2026-W18-author-purpose-tone-001-MASTERY-bundle-v16
-**Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "In or to a foreign country, especially one across the sea."
-
-### Opciones
-- [x] C) overseas
-  <!-- feedback: Correct! 'Overseas' means in or to a foreign country, especially one across the sea. -->
-- [ ] A) domestic
-  <!-- feedback: 'Domestic' means inside your own country, the opposite of overseas. -->
-- [ ] B) local
-  <!-- feedback: 'Local' means in the area where you are, even more restricted than domestic; it never crosses a border. -->
-- [ ] D) national
-  <!-- feedback: 'National' refers to a whole country without saying it is foreign, so it does not imply going abroad. -->
-
-### Explicacion Pedagogica
-The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
----
-## Question 17 [D9]
-**ID:** CR-ING-11-2026-W18-author-purpose-tone-001-MASTERY-bundle-v17
+## Question 10 [D5]
+**ID:** CR-ING-11-2026-W18-author-purpose-tone-v10
 **Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Reading Comprehension
+**Expected_Success:** 0.75
+**Contexto:** Text: 'Visitors are reminded that the exhibits belong to the region and should be treated with respect. Some visitors, however, leave things behind for others to find, and the museum has started to feel betrayed.'
 
 ### Enunciado
-What is the English word for: "An estimate of income and expenditure for a set period of time."
+Why is the word 'betrayed' effective in this text?
 
 ### Opciones
-- [x] D) budget
-  <!-- feedback: Correct! A 'budget' is the estimate of income and expenditure planned for a set period. -->
-- [ ] A) expense
-  <!-- feedback: 'Expense' is a single cost already paid; the definition is the estimate for the whole period. -->
-- [ ] B) cost
-  <!-- feedback: 'Cost' is the price of one thing, whereas a budget covers all income and all spending. -->
-- [ ] C) price
-  <!-- feedback: 'Price' is the amount a single item costs, not a plan of income and expenditure over time. -->
+- [x] D) It attributes human feeling to the museum, making the disappointment the reader feels stronger
+  <!-- feedback: Personifying the museum turns a complaint into an emotional appeal, which is why the word lands more heavily than a neutral one would. -->
+- [ ] A) It describes a legal action the museum could take
+  <!-- feedback: Betrayal is a figurative use of the word and describes no legal step. -->
+- [ ] B) It explains why visitors damage the exhibits
+  <!-- feedback: The word expresses a reaction, not a cause of the damage. -->
+- [ ] C) It introduces a new policy for visitors
+  <!-- feedback: No policy is announced after the word appears. -->
 
 ### Explicacion Pedagogica
-The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
+Personification is a reliable indicator of persuasive intent, because assigning a feeling to an institution invites the reader to share it. Recognising the device separates persuasion from reporting.
 ---
-## Question 18 [D10]
-**ID:** CR-ING-11-2026-W18-author-purpose-tone-001-MASTERY-bundle-v18
-**Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+## Question 11 [D6]
+**ID:** CR-ING-11-2026-W18-author-purpose-tone-v11
+**Bloom:** Analyze
+**EJE:** Reading Comprehension
+**Expected_Success:** 0.75
+**Contexto:** Text: 'In our opinion, the measures described here represent a reasonable first step, though further work will certainly be required.'
 
 ### Enunciado
-What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
+What does this sentence tell the reader about the author's position?
 
 ### Opciones
-- [x] D) insurance
-  <!-- feedback: Correct! 'Insurance' is the arrangement by which an insurer promises compensation for loss, damage, illness or death in exchange for a premium. -->
-- [ ] A) warranty
-  <!-- feedback: 'Warranty' covers a product against defects for a limited period and is free of charge, not a premium-based contract. -->
-- [ ] B) guarantee
-  <!-- feedback: 'Guarantee' is the promise itself; 'insurance' is the whole contract arranged with an insurer for a premium. -->
-- [ ] C) policy
-  <!-- feedback: 'Policy' is the document that proves the insurance contract; the arrangement itself is the insurance. -->
+- [x] A) The author supports the measures cautiously while declining to present them as complete
+  <!-- feedback: The phrase 'in our opinion' marks the sentence as a personal judgement and the concessive clause limits it, which is support qualified by caution. -->
+- [ ] B) The author rejects the measures but is unwilling to explain why
+  <!-- feedback: A rejection would not describe the measures as a reasonable first step. -->
+- [ ] C) The author claims to be an expert on the subject
+  <!-- feedback: No claim of expertise appears in the sentence. -->
+- [ ] D) The author has no opinion on the matter
+  <!-- feedback: The author clearly holds an opinion, since one is stated. -->
 
 ### Explicacion Pedagogica
-The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
+A cautious position is a position, and hedging language is how a writer keeps it defensible. Distinguishing cautious support from rejection is a necessary step in evaluating a policy text.
 ---
-## Question 19 [D9]
-**ID:** CR-ING-11-2026-W18-author-purpose-tone-001-MASTERY-bundle-v19
-**Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+## Question 12 [D6]
+**ID:** CR-ING-11-2026-W18-author-purpose-tone-v12
+**Bloom:** Understand
+**EJE:** Reading Comprehension
+**Expected_Success:** 0.75
+**Contexto:** Text: 'The following table sets out the figures. Please note that the 2023 column contains provisional estimates rather than confirmed values.'
 
 ### Enunciado
-What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
+Why does the text direct the reader's attention to the last column?
 
 ### Opciones
-- [x] C) vaccination
-  <!-- feedback: Correct! A 'vaccination' is the application of a vaccine that makes the body produce immunity against a disease. -->
-- [ ] A) medication
-  <!-- feedback: 'Medication' is a medicine you take to treat an illness, not the vaccine that prevents one. -->
-- [ ] B) prescription
-  <!-- feedback: 'Prescription' is the written order a doctor gives for a medicine, not the vaccine itself. -->
-- [ ] D) infection
-  <!-- feedback: 'Infection' is the state of having the disease; vaccination is what protects you before you get it. -->
+- [x] D) Because that column is less reliable than the others and could be mistaken for confirmed data
+  <!-- feedback: A warning that figures are provisional tells the reader not to treat them with the same confidence as the rest. -->
+- [ ] A) Because that column is the most important one for the argument
+  <!-- feedback: Importance is not what the note describes; reliability is the point being flagged. -->
+- [ ] B) Because the figures in the other columns have been removed
+  <!-- feedback: The table is presented as complete, so no column has been removed. -->
+- [ ] C) Because the author wants to correct a calculation in that column
+  <!-- feedback: No correction to any calculation appears anywhere in the text. -->
 
 ### Explicacion Pedagogica
-The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
+A note about data quality belongs to critical reading, not to detail hunting. Small qualifications placed at the end of a document routinely change how its figures should be used.
 ---
-## Question 20 [D10]
-**ID:** CR-ING-11-2026-W18-author-purpose-tone-001-MASTERY-bundle-v20
+## Question 13 [D6]
+**ID:** CR-ING-11-2026-W18-author-purpose-tone-v13
 **Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Reading Comprehension
+**Expected_Success:** 0.75
+**Contexto:** Text: A first paragraph presents one side of a dispute in calm language. The final paragraph, written by a different author, states the opposite position with several loaded expressions.
 
 ### Enunciado
-What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
+What can be concluded about the text as a whole?
 
 ### Opciones
-- [x] A) jet lag
-  <!-- feedback: Correct! 'Jet lag' is the tiredness and disturbed body clock you feel after a flight across several time zones. -->
-- [ ] B) fatigue
-  <!-- feedback: 'Fatigue' is tiredness after effort or a long day, not specifically caused by crossing time zones. -->
-- [ ] C) exhaustion
-  <!-- feedback: 'Exhaustion' is extreme tiredness from overwork or lack of sleep, which is not the same as the time zone effect. -->
-- [ ] D) insomnia
-  <!-- feedback: 'Insomnia' is the inability to sleep, whereas jet lag comes with tiredness during the day and a shifted body clock. -->
+- [x] D) It has been assembled from sources with different levels of neutrality
+  <!-- feedback: The shift in language between the two paragraphs shows that the document brings together material of different quality. -->
+- [ ] A) It was written by a single author in a consistent tone
+  <!-- feedback: A single author would not be expected to shift register so sharply between the opening and the close. -->
+- [ ] B) The last paragraph should be removed as irrelevant
+  <!-- feedback: Removing a position would defeat the purpose of presenting a dispute. -->
+- [ ] C) The two paragraphs report the same facts
+  <!-- feedback: The two paragraphs take opposite positions, so they cannot report identical facts. -->
 
 ### Explicacion Pedagogica
-The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.
+Consistency of tone is a test of whether a document has been edited as a single piece. A marked change in register signals material assembled from elsewhere, which affects how much weight the whole document carries.
+---
+## Question 14 [D6]
+**ID:** CR-ING-11-2026-W18-author-purpose-tone-v14
+**Bloom:** Apply
+**EJE:** Reading Comprehension
+**Expected_Success:** 0.75
+**Contexto:** Text: 'Every teacher knows that homework matters. As a result, schools should require more of it.'
+
+### Enunciado
+What is the main weakness in the tone of this text?
+
+### Opciones
+- [x] A) It treats a common belief as established fact and presses a conclusion the reader is expected to accept
+  <!-- feedback: Presenting a widely held belief as common knowledge lets the writer avoid justifying the recommendation. -->
+- [ ] B) It uses technical vocabulary that only specialists can follow
+  <!-- feedback: The sentence is plain in vocabulary and contains no specialist terminology. -->
+- [ ] C) It gives too many examples to be clear
+  <!-- feedback: A single example is given, so the problem is not an excess of examples. -->
+- [ ] D) It is written in the past tense throughout
+  <!-- feedback: The sentence is in the present tense, and tense is not the issue raised. -->
+
+### Explicacion Pedagogica
+When a recommendation is justified only by what everyone supposedly thinks, the argument asks to be accepted rather than argued with. Naming that move is the first step towards a counterargument.
+---
+## Question 15 [D6]
+**ID:** CR-ING-11-2026-W18-author-purpose-tone-v15
+**Bloom:** Analyze
+**EJE:** Reading Comprehension
+**Expected_Success:** 0.75
+**Contexto:** Text: 'This section describes what happened. The next section explains why it mattered, and it says so explicitly at the beginning.'
+
+### Enunciado
+What does this tell the reader about the organisation of the text?
+
+### Opciones
+- [x] A) The author separates the record of events from their interpretation
+  <!-- feedback: Two labelled sections with distinct functions show deliberate organisation rather than uncertainty. -->
+- [ ] B) The author has not decided how to organise the material
+  <!-- feedback: The announcement of purpose demonstrates planning, not indecision. -->
+- [ ] C) The author repeats the same content in two sections
+  <!-- feedback: Describing and interpreting are different activities, so the content is not repeated. -->
+- [ ] D) The author is uncertain about the facts
+  <!-- feedback: Certainty about the facts is not what the labels reveal. -->
+
+### Explicacion Pedagogica
+When a text announces the function of each section, a reader can decide where to focus. This structural signposting is a feature of well-organised writing and of good exam technique in reverse.
+---
+## Question 16 [D7]
+**ID:** CR-ING-11-2026-W18-author-purpose-tone-v16
+**Bloom:** Analyze
+**EJE:** Reading Comprehension
+**Expected_Success:** 0.7
+**Contexto:** Text: A charity asks for donations in a letter that opens with a child's photograph and closes with bank details. The body gives two statistics about the need and nothing about how funds are spent.
+
+### Enunciado
+What does this text do, and what is missing from it?
+
+### Opciones
+- [x] B) It is a fundraising appeal that establishes urgency without accounting for the money
+  <!-- feedback: An emotional opening, statistics about need and a request for payment form an appeal, and the absence of information about spending is a genuine gap in it. -->
+- [ ] C) It is an informational report that compares two charities
+  <!-- feedback: No comparison with another organisation appears in the text. -->
+- [ ] D) It is a scientific paper that presents original data
+  <!-- feedback: No research question, method or data are presented. -->
+- [ ] A) It is a news report that gives an impartial account
+  <!-- feedback: An impartial account would not open with an image designed to prompt a donation. -->
+
+### Explicacion Pedagogica
+Identifying purpose and identifying what a text omits can be done in the same reading. For a donor, the missing element here is exactly the one that matters most.
+---
+## Question 17 [D7]
+**ID:** CR-ING-11-2026-W18-author-purpose-tone-v17
+**Bloom:** Understand
+**EJE:** Reading Comprehension
+**Expected_Success:** 0.7
+**Contexto:** Text: 'The minister has been in office for three years. Some observers say that is long enough to have delivered on the promises made at the start.'
+
+### Enunciado
+Why does the writer attribute the second sentence to 'some observers'?
+
+### Opciones
+- [x] C) To distance the writer from a judgement the writer does not want to own outright
+  <!-- feedback: Attribution lets the writer introduce a criticism without asserting it, which is a distancing move. -->
+- [ ] D) To name the people who wrote the article
+  <!-- feedback: No names appear in the sentence, so the observers cannot be identified from it. -->
+- [ ] A) To show that the observers are mistaken
+  <!-- feedback: Naming observers signals their existence and credibility, not their error. -->
+- [ ] B) To establish that the promises were kept
+  <!-- feedback: The judgement is a question about delivery rather than a statement that promises were kept. -->
+
+### Explicacion Pedagogica
+Attribution and hedging are the standard tools for indirect criticism in journalism. A reader who notices them can weigh the statement according to how firmly it is asserted.
+---
+## Question 18 [D7]
+**ID:** CR-ING-11-2026-W18-author-purpose-tone-v18
+**Bloom:** Evaluate
+**EJE:** Reading Comprehension
+**Expected_Success:** 0.7
+**Contexto:** Text: 'Read this report if you want your money's worth. If you prefer not to think about that, the photographs on page four are quite striking.'
+
+### Enunciado
+What does the second sentence do?
+
+### Opciones
+- [x] B) It concedes the reader's right not to engage while implying that doing so avoids an unwelcome conclusion
+  <!-- feedback: The conditional framing accepts an alternative while implying that avoiding it is a way of not confronting the findings. -->
+- [ ] C) It invites the reader to skip the report entirely
+  <!-- feedback: Skipping the whole report is a stronger suggestion than the one the sentence makes. -->
+- [ ] D) It praises the photographs as the best part of the report
+  <!-- feedback: The photographs are described as striking, which is attention rather than praise of quality. -->
+- [ ] A) It warns that the report contains upsetting images
+  <!-- feedback: A warning would state that content is upsetting; the sentence asks the reader to avoid thinking instead. -->
+
+### Explicacion Pedagogica
+Rhetorical questions and conditionals often do more work than the sentence they appear in. Here the second sentence concedes a preference in order to make refusing it look unreasonable.
+---
+## Question 19 [D7]
+**ID:** CR-ING-11-2026-W18-author-purpose-tone-v19
+**Bloom:** Analyze
+**EJE:** Reading Comprehension
+**Expected_Success:** 0.7
+**Contexto:** Text: 'There is no single explanation for the decline. Three factors appear to contribute, and the researchers discuss each in turn.'
+
+### Enunciado
+What is the purpose of the opening sentence?
+
+### Opciones
+- [x] A) To warn the reader against looking for one cause and to prepare for a multi-causal discussion
+  <!-- feedback: Rejecting a single explanation and then listing several factors is the standard opening of a multi-causal discussion. -->
+- [ ] B) To deny that any cause exists
+  <!-- feedback: A denial of all causation would not be followed by three factors being discussed. -->
+- [ ] C) To announce that the research failed
+  <!-- feedback: No failure is reported; the study proceeds to discuss three factors. -->
+- [ ] D) To introduce a single explanation that follows
+  <!-- feedback: The sentence explicitly says there is no single explanation. -->
+
+### Explicacion Pedagogica
+An opening sentence often frames everything that follows. This item asks the student to read the frame rather than the content, which is a habit that pays off in every genre.
+---
+## Question 20 [D7]
+**ID:** CR-ING-11-2026-W18-author-purpose-tone-v20
+**Bloom:** Evaluate
+**EJE:** Reading Comprehension
+**Expected_Success:** 0.7
+**Contexto:** Text: A public health leaflet states that the vaccine is 'completely safe' in bold type, then lists in small type a range of reported side effects.
+
+### Enunciado
+Which observation about this document is most accurate?
+
+### Opciones
+- [x] C) The visual presentation encourages a reading that the detailed text does not support
+  <!-- feedback: Typography steers attention, so an absolute claim in bold and qualifications in small type produces a distorted overall impression. -->
+- [ ] D) The leaflet is internally consistent because side effects are listed
+  <!-- feedback: Listing side effects while claiming complete safety is a tension, not a consistency. -->
+- [ ] A) The bold type is used to make the side effects easier to read
+  <!-- feedback: The bold applies to the claim of safety, not to the list of effects. -->
+- [ ] B) The leaflet shows that the vaccine has no side effects
+  <!-- feedback: A list of reported side effects contradicts a claim that none exist. -->
+
+### Explicacion Pedagogica
+Layout is part of the message. The final item asks the student to notice that how a text presents information can matter as much as what it says, which is the most advanced point in this area.
