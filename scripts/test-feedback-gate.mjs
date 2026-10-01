@@ -309,12 +309,17 @@ creador: "Jules-Agent"
 
 // buildLabel reuses the fixture's frontmatter verbatim and only swaps the four
 // option lines, so a rejection can only come from the option text itself.
-const buildLabel = (opts) => {
+const buildLabel = (opts, malform) => {
   const lines = opts
     .map((o, i) => {
       const mark = /\(Correct\)/.test(o) ? 'x' : ' ';
       const text = o.replace(/\s*\(Correct\)\s*$/, '').trim();
-      return `- [${mark}] ${'ABCD'[i]}) ${text} <!-- feedback: ${
+      // `malform` names the LETTER whose closing marker must be written wrong
+      // -- pass 'B', and the row renders `- [ ] B]`, the shape the gate used to
+      // skip. Compare against the letter, not against the already-bracketed
+      // form, or the condition is never true and the fixture stays well-formed.
+      const close = malform === 'ABCD'[i] ? ']' : ')';
+      return `- [${mark}] ${'ABCD'[i]}${close} ${text} <!-- feedback: ${
         mark === 'x'
           ? 'Correcto. La clave selecciona esta opcion del grupo.'
           : `Incorrecto. La clave no selecciona ${text}, que nombra una ranura y no un valor.`
@@ -352,11 +357,17 @@ const labelCases = [
   { name: 'real: grammatical categories', opts: ['Noun (Correct)', 'Verb', 'Adjective', 'Adverb'], expect: 'accept' },
   { name: 'real: verb forms', opts: ['Past participle (Correct)', 'Gerund', 'Infinitive', 'Present simple'], expect: 'accept' },
   { name: 'real: bare numbers are values, not slots', opts: ['2 (Correct)', '4', '6', '8'], expect: 'accept' },
+  // A row whose marker never closes -- `- [ ] B]` instead of `- [ ] B)` -- was
+  // skipped by every parser in the gate, so the bundle reported "expected 4
+  // options, found 2" for a question whose four rows were all present. The
+  // wrong-delimiter row must be reported as itself.
+  { name: 'malformed: unclosed option row B]', opts: ['First', 'Second', 'Third', 'Fourth'], malform: 'B', rule: 'malformed-option-row', expect: 'reject' },
+  { name: 'malformed: unclosed option row C]', opts: ['First', 'Second', 'Third', 'Fourth'], malform: 'C', rule: 'malformed-option-row', expect: 'reject' },
 ];
 
 try {
   for (const c of labelCases) {
-    fs.writeFileSync(FILE, buildLabel(c.opts), 'utf8');
+    fs.writeFileSync(FILE, buildLabel(c.opts, c.malform), 'utf8');
     let verdict = 'accept';
     let msg = '';
     try {
@@ -366,8 +377,11 @@ try {
       msg = String(e.stderr || '');
     }
     // The first block of these can pass for other reasons (filler questions),
-    // so require the placeholder error specifically when one is expected.
-    const hit = /placeholder/i.test(msg);
+    // so require the EXPECTED rule to be the one that fired. Asserting
+    // `placeholder` for every case would let a malformed-row rejection pass as
+    // a placeholder rejection, which is how a wrong fix looks like a right one.
+    const want = c.rule || 'placeholder';
+    const hit = new RegExp(want, 'i').test(msg);
     const ok = verdict === c.expect && (c.expect === 'accept' || hit);
     console.log(`${ok ? 'PASS' : 'FAIL'}  ${c.name.padEnd(52)} validator=${verdict} (want ${c.expect})`);
     if (ok) pass += 1;
