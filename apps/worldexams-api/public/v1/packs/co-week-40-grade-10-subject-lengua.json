@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-40-grade-10-subject-lengua",
+    "generated_at": "2026-10-01T15:42:39.109Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-10-2026-W40-la-lectura-y-la-escritura-creativa-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál de las siguientes definiciones corresponde con mayor precisión al concepto de lectura creativa?",
+      "context": "En el Colegio Nacional de Bogotá, un profesor de español pide a sus estudiantes de grado décimo que definan qué entienden por lectura creativa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una forma de comprensión e interpretación de un texto en la que el lector participa activamente y puede reescribirlo con sus propias palabras",
+          "is_correct": true,
+          "feedback": "Correcto. La lectura creativa supone un lector activo que interpreta, relaciona y transforma el texto, y la escritura creativa aparece como continuidad de ese acto, no como un trámite separado."
+        },
+        {
+          "letter": "B",
+          "text": "Es la lectura obligatoria que el profesor asigna todos los días para la tarea, sin margen de interpretación",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confunde la lectura creativa con la lectura de tarea: la obligatoriedad y el horario no definen el carácter creativo, que depende de la participación interpretativa del lector."
+        },
+        {
+          "letter": "C",
+          "text": "Es una lectura rápida cuyo único fin es localizar datos concretos dentro de un texto extenso",
+          "is_correct": false,
+          "feedback": "Incorrecto. Reduce la lectura a una búsqueda de información; esa es la lectura instrumental o referencial, no la lectura creativa, que trabaja con el sentido completo del texto."
+        },
+        {
+          "letter": "D",
+          "text": "Es la lectura que exige únicamente memorizar las ideas centrales del autor para poder repetirlas después",
+          "is_correct": false,
+          "feedback": "Incorrecto. La memorización es un procedimiento de simples repeticiones de la información, no una forma de comprensión; la lectura creativa exige inferencia, valoración y reescritura."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La lectura creativa es un proceso de construcción de significado donde el lector interpreta, relaciona y transforma el texto, y la escritura creativa es su prolongación. No se reduce a leer por obligación, ni a buscar datos, ni a memorizar: implica comprehend, valorar y poder reescribir.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Semantico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-10-2026-W40-la-lectura-y-la-escritura-creativa-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W40-la-lectura-y-la-escritura-creativa-001-MASTERY-bundle-v2",
+      "statement": "Un texto se considera creativo, en el marco de la lectura y la escritura creativa, ¿básicamente por qué característica?",
+      "context": "En una institución de Medellín, el área de español trabaja con canciones del Valle del Cauca para explicar por qué ciertos textos no son creativos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque está dirigido a transmitir información veraz y datos comprobables sobre un hecho",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la_finalidad de los textos informativos; la creatividad no se define por la información que transmite, sino por la manera expresiva en que lo hace."
+        },
+        {
+          "letter": "B",
+          "text": "Porque combina un lenguaje expresivo, imágenes y recursos estilísticos con una intención estética declarada por el autor",
+          "is_correct": true,
+          "feedback": "Correcto. Un texto es creativo cuando persigue una intención estética y la construye con recursos expresivos, no cuando simplemente informa con exactitud."
+        },
+        {
+          "letter": "C",
+          "text": "Porque utiliza un lenguaje técnico y especializado propio de los textos de divulgación científica",
+          "is_correct": false,
+          "feedback": "Incorrecto. El lenguaje técnico reduce la ambigüedad y limita la interpretación; esa es laearer characteristic de textos informativos, no la de un texto creativo."
+        },
+        {
+          "letter": "D",
+          "text": "Porque su propósito principal es instruir paso a paso al lector sobre un procedimiento que debe seguir",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a los textos instructivos o procedurales, cuya lógica es la secuencia de pasos; no responde a una intención estética."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La diferencia entre un texto creativo y uno informativo no está en lo que dice, sino en para qué y cómo lo dice. Solo los textos con intención estética construida por recursos expresivos pertenecen al territorio de la lectura y la escritura creativa.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semantico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LEN-10-2026-W40-la-lectura-y-la-escritura-creativa-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W40-la-lectura-y-la-escritura-creativa-001-MASTERY-bundle-v3",
+      "statement": "¿Qué elemento garantiza principalmente la coherencia de un párrafo, es decir, la relación lógica entre sus ideas?",
+      "context": "En un colegio de Cali, la docente de grado décimo pide reparar la coherencia de un párrafo de exposición sobre la lectura creativa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La cantidad de oraciones largas que contenga el párrafo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El número y la longitud de las oraciones no producen relación lógica entre ideas; son decisiones de forma, no de coherencia."
+        },
+        {
+          "letter": "B",
+          "text": "El uso de datos y cifras que respalden lo que se afirma",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los datos sostienen la veracidad de una idea, pero por sí solos no encadenan las ideas entre sí ni explican cómo se relacionan."
+        },
+        {
+          "letter": "C",
+          "text": "La relación lógica entre las ideas, marcada por conectores y por referencias que remiten a lo ya dicho",
+          "is_correct": true,
+          "feedback": "Correcto. La coherencia se construye con relaciones lógicas explícitas: conectores como \"sin embargo\" o \"por lo tanto\" y referencias como \"este autor\" ordenan el párrafo."
+        },
+        {
+          "letter": "D",
+          "text": "El uso de la primera persona, que acerca al autor al lector",
+          "is_correct": false,
+          "feedback": "Incorrecto. La primera persona es un recurso de viewpoint, no de coherencia; un párrafo impersonal puede ser perfectamente coherente y uno en primera persona puede ser incoherente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Coherencia es la lógica interna del párrafo. Se construye cuando las ideas se encadenan con conectores y cuando se remite a lo ya dicho mediante referencias, de modo que el lector construya un continuum de razonamiento.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEN-10-2026-W40-la-lectura-y-la-escritura-creativa-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W40-la-lectura-y-la-escritura-creativa-001-MASTERY-bundle-v4",
+      "statement": "Complete: \"La escritura creativa recupera la voz propia del escritor. ___, el uso de recursos literarios le da un tono personal y reconocible.\" ¿Qué conector establece la relación lógica correcta?",
+      "context": "En Tunja, un estudiante de grado décimo completa un párrafo argumentativo sobre el valor de la escritura creativa en la formación del lector.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No obstante",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"No obstante\" establece contraste u oposición; la segunda idea no contradice la primera, sino que se desprende de ella."
+        },
+        {
+          "letter": "B",
+          "text": "En cambio",
+          "is_correct": false,
+          "feedback": "Incorrecto. También es un conector adversativo: marcaría una diferencia de posición entre ambas ideas, cuando en realidad hay una relación de consecuencia."
+        },
+        {
+          "letter": "C",
+          "text": "En definitiva",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un conector de recapitulación, propio del cierre de un texto; la oración pide la relación entre dos Ideas consecutivas, no un resumen."
+        },
+        {
+          "letter": "D",
+          "text": "Por lo tanto",
+          "is_correct": true,
+          "feedback": "Correcto. La segunda idea es una consecuencia directa de la primera: si se recupera la voz propia, se sigue que los recursos literarios generan un tono personal."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Elegir el conector correcto es una decisión lógica, no decorativa. El conector expresa el tipo de relación que el autor quiere que el lector construya: causa, consecuencia, contraste, condición o resumen.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LEN-10-2026-W40-la-lectura-y-la-escritura-creativa-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W40-la-lectura-y-la-escritura-creativa-001-MASTERY-bundle-v5",
+      "statement": "Para un mural de una institución educativa del barrio sobre el cuidado del agua, ¿qué intención comunicativa y qué lenguaje conviene usar?",
+      "context": "En el Colegio Santander de Bucaramanga, durante la clase de lectura, la comunidad trabaja un proyecto escolar de comunicación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Persuadir a la comunidad a cambiar su comportamiento con un lenguaje directo, cercano y afectivo",
+          "is_correct": true,
+          "feedback": "Correcto. Un mural de barrio tiene una intención persuasive: busca un cambio de conducta, así que el registro cercano, la frase breve y el lenguaje afectivo son los adecuados."
+        },
+        {
+          "letter": "B",
+          "text": "Informar con datos estadísticos, gráficos y un vocabulario técnico deologíaQualityImplanter \"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un registro técnico con datos es propio de un informe o una exposición; en un mural de barrio resulta distante y noDx la acción esperada."
+        },
+        {
+          "letter": "C",
+          "text": "Describir el paisaje del barrio con frases largas y evocadoras",
+          "is_correct": false,
+          "feedback": "Incorrecto. La descripción evocadora pertenece a la escritura creativa literaria, no a un texto de alcance comunitario que busca una acción concreta."
+        },
+        {
+          "letter": "D",
+          "text": "Narrar una historia de terror que se base en el ciclo del agua",
+          "is_correct": false,
+          "feedback": "Incorrecto. El relato de terror es un género creativo sin relación con la intención de transparencia de un mural institucional o comunitario."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Todo texto responde a una situación comunicativa. Cuando se elige el género y el registro hay que responder: quién lee, para qué y qué efecto se busca; esa decisión pragmática es la primera antes de escribir.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-10-2026-W40-la-lectura-y-la-escritura-creativa-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W40-la-lectura-y-la-escritura-creativa-001-MASTERY-bundle-v6",
+      "statement": "Un ensayo presenta una tesis, la desarrolla con argumentos y la cierra retomando esa tesis. ¿Qué propiedad de su estructura se está describiendo?",
+      "context": "En Bogotá, un grupo de grado décimo analiza la estructura de un ensayo escolar sobre la invención de las novelas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El texto comienza con una generalidad y no ofrece ningún ejemplo que la sostenga",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es una crítica a la argumentación, no una propiedad de la estructura; aquí se describe cómo el ensayo organiza sus partes."
+        },
+        {
+          "letter": "B",
+          "text": "La organización argumentativa del texto, que va de la tesis al desarrollo y regresa a la tesis en la conclusión",
+          "is_correct": true,
+          "feedback": "Correcto. Se describe la arquitectura argumentativa: se enuncia la tesis, se sostienen argumentos y la conclusión retoma la tesis, cerrando el circuito."
+        },
+        {
+          "letter": "C",
+          "text": "La desordenada secuencia de los argumentos, propia de los textos de opinión sin tesis ni conclusión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Nada en el enunciado indica desorden; por el contrario, se describe una secuencia orden, que es la esencia de un texto argumentativo."
+        },
+        {
+          "letter": "D",
+          "text": "La ausencia de tesis, ya que el texto narra en lugar de argumentar",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enunciado afirma que hay tesis y que la conclusión la retoma; por lo tanto, el texto no carece de tesis."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Reconocer la macroestructura de un texto (tesis, argumentos, conclusión) permite Writer bien y evaluar lo que se lee. Es la competencia textual que Saber 11 exige cuando pide identificar cómo se sostiene una posición.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-10-2026-W40-la-lectura-y-la-escritura-creativa-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W40-la-lectura-y-la-escritura-creativa-001-MASTERY-bundle-v7",
+      "statement": "¿Qué registro es el más adecuado para ese texto dirigido a estudiantes de grado décimo del propio colegio?",
+      "context": "En Medellín, una professora prepara la feria de lectura del colegio y escribe un texto dirigido a sus estudiantes de grado décimo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un registro coloquial con memes, jerga de Internet y abreviaturas, propio de un chat",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese registro funciona en una conversación informal digital, pero descuida la claridad del mensaje y la distancia adecuada en un texto escolar."
+        },
+        {
+          "letter": "B",
+          "text": "Un registro técnico con fórmulas impersonales y vocabulario especializado propio de un texto académico",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese registro es pertinente para un informe o una monografía, pero resulta distante y poco cercano cuando se escribe para los propios compañeros de clase."
+        },
+        {
+          "letter": "C",
+          "text": "Un registro cercano y respetuoso, con ejemplos del entorno cotidiano y lenguaje claro",
+          "is_correct": true,
+          "feedback": "Correcto. El texto va dirigido a pares del mismo colegio: la cercanía garantiza atención y el respeto sostiene la autoridad del mensaje."
+        },
+        {
+          "letter": "D",
+          "text": "Un registro académico con citas y aparato crítico, propio de una investigación formal",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un texto para una feria de lectura no exige aparato de investigación; usar ese registro desvía la atención del propósito comunicativo real."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El registro se ajusta a la relación con el lector: antigüedad, jerarquía y cercanía. Analizar la situación comunicativa antes de escribir evita que el texto se dirija con el tono equivocado a quien lo va a leer.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-10-2026-W40-la-lectura-y-la-escritura-creativa-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W40-la-lectura-y-la-escritura-creativa-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál de estos criterios permite evaluar mejor la calidad literaria de un texto creativo?",
+      "context": "En Cali, un docente de español debe calificar con un criterio claro para calificar textos creativos de sus estudiantes de grado décimo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La cantidad de páginas que tiene el texto",
+          "is_correct": false,
+          "feedback": "Incorrecto. La extensión mide duración, no calidad: un texto largo puede ser vacío de contenido y uno breve puede ser#/nervously denso y eficaz."
+        },
+        {
+          "letter": "B",
+          "text": "El número de datos informativos citados en el texto",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los datos corresponden a textos informativos o de investigación; su abundance dice poco sobre la calidad literaria de una obra creativa."
+        },
+        {
+          "letter": "C",
+          "text": "La rapidez con la que el estudiante entrega el trabajo",
+          "is_correct": false,
+          "feedback": "Incorrecto. La rapidez mide cumplimiento, no calidad; un texto entregado rápido puede carecer de elaboración, de profundidad y de recursos."
+        },
+        {
+          "letter": "D",
+          "text": "La originalidad de las imágenes, la precisión del lenguaje y la capacidad del texto de sugerir emociones",
+          "is_correct": true,
+          "feedback": "Correcto. Estos tres indicadores sí distinguen un texto creativo bien construido: imágenes propias, lenguaje preciso y capacidad de evocar en el lector."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar un texto creativo exige criterios propios del género: originalidad, precisión, capacidad de sugerencia. Los criterios de extensión, cantidad de datos o rapidez de entrega miden otras cosas y no permiten juzgar la calidad literaria.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LEN-10-2026-W40-la-lectura-y-la-escritura-creativa-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W40-la-lectura-y-la-escritura-creativa-001-MASTERY-bundle-v9",
+      "statement": "Un párrafo de la crónica intercala sin ningún enlace un dato estadístico sobre el comercio de la plaza y una opinión personal sobre el bullicio del lugar. ¿Qué problema de estructura presenta?",
+      "context": "En Tunja, un comité de lectura de grado décimo revisa un párrafo de un texto de crónica sobre la plaza de Bolívar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pierde la progresión temática, porque los dos contenidos quedan yuxtapuestos sin una relación lógica que los una",
+          "is_correct": true,
+          "feedback": "Correcto. Sin conectores ni referencias que construyan la relación entre el dato y la opinión, el lector no puede seguir la progresión temática del párrafo."
+        },
+        {
+          "letter": "B",
+          "text": "Es un problema de extensión, porque cuatro oraciones no son suficientes para desarrollar la crónica",
+          "is_correct": false,
+          "feedback": "Incorrecto. El número de oraciones no es el problema señalado; un párrafo breve puede ser eficaz y uno largo puede perder el hilo."
+        },
+        {
+          "letter": "C",
+          "text": "Es un problema de registro, porque el modo indicativo se usa en toda la crónica",
+          "is_correct": false,
+          "feedback": "Incorrecto. El indicativo es el modo propio de la crónica; además, el enunciado no señala un cambio de registro sino una falta de relación entre contenidos."
+        },
+        {
+          "letter": "D",
+          "text": "Es una falla válida, porque repetir la idea principal en el último párrafo es la norma de toda crónica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Retomar la idea central es propio del párrafo de conclusión de un texto argumentativo; en una crónica no es una obligación normativa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Diagnosticar un problema estructural exige distinguir entre forma, extensión, registro y relación lógica. Aquí el defecto es la yuxtaposición sin conexión: sin enlaces, el lector no reconstruye el hilo del discurso.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.64,
+      "bundle_id": "CO-LEN-10-2026-W40-la-lectura-y-la-escritura-creativa-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W40-la-lectura-y-la-escritura-creativa-001-MASTERY-bundle-v10",
+      "statement": "Un cuento es claro en la trama pero resulta plano y general. ¿Qué transformación mejora realmente su calidad creativa?",
+      "context": "En Bucaramanga, una autora divulga revisa la versión final de un cuento suyo antes de enviarla a un concurso juvenil.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cambiar cada sustantivo por un sinónimo de significado más culto",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cambio de vocabulario por sinónimosShutdown no enriquece el texto: si las ideas siguen siendo generales, el estilo solo viste un contenido vacío."
+        },
+        {
+          "letter": "B",
+          "text": "Sustituir afirmaciones generales por imágenes concretas y ajustar el ritmo de las oraciones para que la escena respire",
+          "is_correct": true,
+          "feedback": "Correcto. Convertir lo abstracto en imágenes concretas y cuidar el ritmo son decisiones que mejoran la calidad del texto; el estilo al servicio de la imagen."
+        },
+        {
+          "letter": "C",
+          "text": "Añadir tantos adjetivos como sea posible en cada oración",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Saturación de adjetivos no crea profundidad: sin imágenes precisas, la adorned sigue siendo vana y hasta dificulta la lectura."
+        },
+        {
+          "letter": "D",
+          "text": "Pasar el relato del tiempo pasado al tiempo presente en todo el texto",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tiempo verbal cambia la atmósfera del relato, pero no resuelve por sí solo la falta de imágenes concretas ni de ritmo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La calidad de un texto creativo no depende del adorno, sino de la precisión de las imágenes y del ritmo. Sustituir generalidades por escenas concretas es lo que convierte un relato plano en un relato con fuerza expresiva.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.62,
+      "bundle_id": "CO-LEN-10-2026-W40-la-lectura-y-la-escritura-creativa-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W40-la-lectura-y-la-escritura-creativa-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál afirmación sobre la relación entre el \"Carpe diem\" de Horacio y el epigrama moderno está mejor sustentada en la lectura de ambos textos?",
+      "context": "En Bogotá, un grupo de grado décimo compara un epigrama moderno de un poeta de Boyacá con el \"Carpe diem\" de Horacio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los dos textos se contradicen por completo, porque fueron escritos en épocas distintas",
+          "is_correct": false,
+          "feedback": "Incorrecto. La diferencia de época no genera por sí sola contradicción; además, ambos textos comparten un mismo núcleo significativo sobre el tiempo."
+        },
+        {
+          "letter": "B",
+          "text": "El epigrama moderno es mejor que el \"Carpe diem\" porque usa un lenguaje más actualizado",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un juicio de valor sin sustento comparativo: la modernización del vocabulario no establece una superioridad estética ni resuelve el contenido."
+        },
+        {
+          "letter": "C",
+          "text": "Los dos textos comparten la idea del paso irreversible del tiempo, y cada uno lo resuelve con recursos distintos",
+          "is_correct": true,
+          "feedback": "Correcto. El análisis intertextual sostiene que ambos textos coinciden en un tema y se diferencian en la ejecución: la Auflage clásica y la reimaginación moderna."
+        },
+        {
+          "letter": "D",
+          "text": "El \"Carpe diem\" de Horacio no puede relacionarse con ningún texto colombiano porque nació en Roma",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restringir una obra a su lugar de origen anula la lectura intertextual, que justamente permite reconocer temas compartidos entre textos de épocas y lugares distintos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La lectura intertextual vincula textos de distintas épocas y procedencias para identificar temas compartidos y diferencias de ejecución. Lo que se sostiene bien es el núcleo común y el contraste de recursos, no una jerarquía de valor.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Critico-Intertextual",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-10-2026-W40-la-lectura-y-la-escritura-creativa-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W40-la-lectura-y-la-escritura-creativa-001-MASTERY-bundle-v12",
+      "statement": "En un cuento, un personaje cita a Gabriel García Márquez mientras evoca la Bogotá de los años cincuenta. ¿Qué relación se establece entre el texto y la obra citada?",
+      "context": "En Medellín, un grupo de grado décimo analiza un cuento de autor santafereño en el que un personaje cita a Gabriel García Márquez.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La cita es un adorno que el autor incluye para mostrar que el personaje es una persona letrada",
+          "is_correct": false,
+          "feedback": "Incorrecto. Reducir la cita a un rasgo del personaje elimina su función textual: si soloifuera decorativa, se podría eliminar sin perder nada del relato."
+        },
+        {
+          "letter": "B",
+          "text": "La cita cambia el tiempo del relato, porque obliga al narrador a pasar de la retrospectiva a la simultaneidad",
+          "is_correct": false,
+          "feedback": "Incorrecto. Nada en el enunciado indica un cambio de tiempo verbal ni de estructura temporal; eso es un efecto distinto del que la referencia produce."
+        },
+        {
+          "letter": "C",
+          "text": "La cita convierte el cuento en una imitación de estilo, de modo que el texto deja de ser autónomo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una relación intertextual no equivale a imitación ni elimina la autonomía del texto: un cuento puede apoyarse en otra obra y conservar su propia voz."
+        },
+        {
+          "letter": "D",
+          "text": "La cita activa una relación intertextual que conecta la acción narrada con el universo de García Márquez y refuerza el tema de la memoria",
+          "is_correct": true,
+          "feedback": "Correcto. La referencia a la obra de García Márquez funciona como puente: lleva el universo del autor a la narración y reforzando el motivo de la memoria."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Detectar una relación intertextual exige preguntar qué hace la referencia en el relato: no es decorativa ni compulsoria, sino un mecanismo que conecta la acción con otra obra y densifica el tema. Reconocer ese mecanismo es la competencia intertextual que Saber 11 explora.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Critico-Intertextual",
+      "expected_success": 0.58,
+      "bundle_id": "CO-LEN-10-2026-W40-la-lectura-y-la-escritura-creativa-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}
