@@ -33,10 +33,10 @@ Se evalúa la seguridad ciudadana y las acciones de prevención de la violencia 
 ¿Cual de las siguientes acciones es una medida de prevencion de la violencia en el barrio?
 
 ### Opciones
-- [x] A) Organizar rondas de vigilancia entre vecinos para acompañar a los estudiantes al colegio
-  <!-- feedback: Correcto. Las rondas de vigilancia entre vecinos son una medida preventiva que protege a los estudiantes y reduce oportunidades de violencia. -->
-- [ ] B) Ignorar las situaciones de riesgo porque no afectan directamente a la familia
+- [ ] A) Ignorar las situaciones de riesgo porque no afectan directamente a la familia
   <!-- feedback: Incorrecto. Ignorar el riesgo aumenta la vulnerabilidad de todos los residentes del barrio, incluyendo los niños que van al colegio. -->
+- [x] B) Organizar rondas de vigilancia entre vecinos para acompañar a los estudiantes al colegio
+  <!-- feedback: Correcto. Las rondas de vigilancia entre vecinos son una medida preventiva que protege a los estudiantes y reduce oportunidades de violencia. -->
 - [ ] C) Esperar a que ocurra un incidente para despues denunciarlo a las autoridades
   <!-- feedback: Incorrecto. Esperar a que ocurra el incidente es una accion reactiva, no preventiva; la prevencion busca evitar que el hecho violento suceda. -->
 - [ ] D) Prohibir que los niños salgan de sus casas bajo cualquier circunstancia
@@ -56,12 +56,12 @@ La prevencion de la violencia son las acciones que se toman ANTES de que ocurra 
 ¿Cual es la diferencia principal entre resolver un conflicto con dialogo y resolverlo con violencia?
 
 ### Opciones
-- [x] A) El dialogo busca entender ambas partes y llegar a un acuerdo, mientras que la violencia impone una solucion por la fuerza
-  <!-- feedback: Correcto. El dialogo permite expresar los puntos de vista de ambas partes y construir acuerdos; la violencia solo genera mas daño y no resuelve el problema de fondo. -->
-- [ ] B) El dialogo siempre termina con un ganador y un perdedor, igual que la violencia
+- [ ] A) El dialogo siempre termina con un ganador y un perdedor, igual que la violencia
   <!-- feedback: Incorrecto. El dialogo busca acuerdos donde ambas partes ceden algo; la violencia impone un ganador por la fuerza sin consenso. -->
-- [ ] C) La violencia es mas rapida que el dialogo, por eso es mejor para resolver conflictos
+- [ ] B) La violencia es mas rapida que el dialogo, por eso es mejor para resolver conflictos
   <!-- feedback: Incorrecto. La rapidez no determina si una solucion es justa; la violencia puede ser rapida pero destruye relaciones y no resuelve las causas del conflicto. -->
+- [x] C) El dialogo busca entender ambas partes y llegar a un acuerdo, mientras que la violencia impone una solucion por la fuerza
+  <!-- feedback: Correcto. El dialogo permite expresar los puntos de vista de ambas partes y construir acuerdos; la violencia solo genera mas daño y no resuelve el problema de fondo. -->
 - [ ] D) El dialogo solo funciona entre adultos, nunca entre niños o jovenes
   <!-- feedback: Incorrecto. El dialogo es una herramienta valida para personas de cualquier edad; los niños y jovenes pueden aprender a resolver conflictos hablando. -->
 
@@ -79,14 +79,14 @@ El dialogo es un mecanismo de resolucion pacifica de conflictos donde las partes
 ¿Como contribuye el programa de "Jornadas de Paz" a la prevencion de la violencia entre jovenes?
 
 ### Opciones
-- [x] A) Ofrece alternativas de uso del tiempo libre que reducen la exposicion a situaciones de riesgo
-  <!-- feedback: Correcto. Las actividades deportivas y culturales en horarios nocturnos ocupan a los jovenes en entornos seguros, reduciendo las oportunidades de involucrarse en hechos violentos. -->
-- [ ] B) Castiga a los jovenes que participan en actividades delictivas
+- [ ] A) Castiga a los jovenes que participan en actividades delictivas
   <!-- feedback: Incorrecto. El programa no es punitivo; es una estrategia preventiva que ofrece oportunidades, no castigos. -->
-- [ ] C) Reemplaza la necesidad de que la policia patrullere el barrio
+- [ ] B) Reemplaza la necesidad de que la policia patrullere el barrio
   <!-- feedback: Incorrecto. El programa complementa la labor de las autoridades, no la reemplaza; la seguridad ciudadana requiere multiples estrategias coordinadas. -->
-- [ ] D) Obliga a los jovenes a quedarse en sus casas despues de las 6 de la tarde
+- [ ] C) Obliga a los jovenes a quedarse en sus casas despues de las 6 de la tarde
   <!-- feedback: Incorrecto. El programa es voluntario y ofrece actividades en espacios publicos seguros, no un toque de queda obligatorio. -->
+- [x] D) Ofrece alternativas de uso del tiempo libre que reducen la exposicion a situaciones de riesgo
+  <!-- feedback: Correcto. Las actividades deportivas y culturales en horarios nocturnos ocupan a los jovenes en entornos seguros, reduciendo las oportunidades de involucrarse en hechos violentos. -->
 
 ### Explicacion Pedagogica
 Las estrategias de prevencion de la violencia juvenil se basan en ofrecer oportunidades positivas de uso del tiempo libre. Cuando los jovenes tienen acceso a deporte, cultura y espacios seguros, se reducen los factores de riesgo como el ocio en calles con presencia de delincuencia o el consumo de sustancias. Este enfoque es preventivo porque actua sobre las causas, no solo sobre los sintomas.
@@ -148,14 +148,14 @@ La seguridad ciudadana es corresponsabilidad de todos: el Estado, las autoridade
 ¿Cual es la relacion entre el abandono de espacios publicos y la inseguridad en un barrio?
 
 ### Opciones
-- [x] A) Los espacios abandonados ofrecen oportunidades para actividades ilicitas porque no hay presencia de la comunidad ni de las autoridades
-  <!-- feedback: Correcto. Los espacios abandonados se convierten en zonas de nadie donde la delincuencia puede actuar sin ser vista; la presencia comunitaria y el mantenimiento disuaden el delito. -->
-- [ ] B) Los espacios abandonados atraen a mas familias, lo que aumenta la delincuencia
+- [ ] A) Los espacios abandonados atraen a mas familias, lo que aumenta la delincuencia
   <!-- feedback: Incorrecto. La presencia de familias y vida comunitaria reduce la delincuencia; es la ausencia de personas la que facilita las actividades ilicitas. -->
-- [ ] C) Los espacios abandonados no tienen ninguna relacion con la seguridad del barrio
+- [ ] B) Los espacios abandonados no tienen ninguna relacion con la seguridad del barrio
   <!-- feedback: Incorrecto. Existe una relacion directa: el deterioro urbano senala falta de control y cuidado, lo que atrae actividades ilicitas. -->
-- [ ] D) Los espacios abandonados solo afectan la estética del barrio, no la seguridad
+- [ ] C) Los espacios abandonados solo afectan la estética del barrio, no la seguridad
   <!-- feedback: Incorrecto. El deterioro urbano no es solo un problema estetico; senala ausencia de control social y facilita la delincuencia. -->
+- [x] D) Los espacios abandonados ofrecen oportunidades para actividades ilicitas porque no hay presencia de la comunidad ni de las autoridades
+  <!-- feedback: Correcto. Los espacios abandonados se convierten en zonas de nadie donde la delincuencia puede actuar sin ser vista; la presencia comunitaria y el mantenimiento disuaden el delito. -->
 
 ### Explicacion Pedagogica
 La teoria de las ventanas rotas sugiere que el deterioro visible en un espacio publico (grafitis, basura, edificios abandonados) senala que nadie cuida ese lugar, lo que atrae mas desorden y delincuencia. Cuando la comunidad y las autoridades mantienen los espacios publicos en buen estado, se envia un mensaje de control y cuidado que disuade a los delincuentes.
@@ -171,12 +171,12 @@ La teoria de las ventanas rotas sugiere que el deterioro visible en un espacio p
 ¿Por que la mediacion entre pares es una estrategia efectiva para prevenir la violencia escolar?
 
 ### Opciones
-- [x] A) Los estudiantes mediadores entienden el lenguaje y la cultura de sus compañeros, lo que facilita la comunicacion y la resolucion del conflicto
-  <!-- feedback: Correcto. La mediacion entre pares funciona porque los estudiantes comparten códigos y experiencias, lo que genera confianza y permite abordar el conflicto antes que escale. -->
-- [ ] B) Los estudiantes mediadores tienen autoridad para castigar a los agresores
+- [ ] A) Los estudiantes mediadores tienen autoridad para castigar a los agresores
   <!-- feedback: Incorrecto. Los mediadores no tienen poder punitivo; su rol es facilitar el dialogo, no imponer sanciones. -->
-- [ ] C) La mediacion entre pares reemplaza la necesidad de profesores y directivos en el colegio
+- [ ] B) La mediacion entre pares reemplaza la necesidad de profesores y directivos en el colegio
   <!-- feedback: Incorrecto. La mediacion complementa la labor de los adultos, no la reemplaza; los profesores y directivos siguen siendo responsables de la disciplina escolar. -->
+- [x] C) Los estudiantes mediadores entienden el lenguaje y la cultura de sus compañeros, lo que facilita la comunicacion y la resolucion del conflicto
+  <!-- feedback: Correcto. La mediacion entre pares funciona porque los estudiantes comparten códigos y experiencias, lo que genera confianza y permite abordar el conflicto antes que escale. -->
 - [ ] D) Los estudiantes mediadores pueden resolver cualquier conflicto sin ayuda de adultos
   <!-- feedback: Incorrecto. Algunos conflictos requieren la intervencion de adultos o autoridades; los mediadores saben cuando es necesario pedir ayuda. -->
 
@@ -194,10 +194,10 @@ La mediacion entre pares es una estrategia de resolucion de conflictos donde est
 ¿Que valor democratico se expresa en el sistema de justicia propia de las comunidades indigenas?
 
 ### Opciones
-- [x] A) La participacion directa de la comunidad en la resolucion de sus conflictos, respetando sus tradiciones y autoridades
-  <!-- feedback: Correcto. La justicia propia indigena reconoce el derecho de las comunidades a resolver sus conflictos segun sus propias normas y procedimientos, siempre que no violen los derechos humanos. -->
-- [ ] B) La exclusion del Estado en todos los asuntos de la comunidad
+- [ ] A) La exclusion del Estado en todos los asuntos de la comunidad
   <!-- feedback: Incorrecto. La justicia propia no excluye al Estado; opera dentro del marco juridico colombiano y respeta los derechos fundamentales reconocidos en la Constitucion. -->
+- [x] B) La participacion directa de la comunidad en la resolucion de sus conflictos, respetando sus tradiciones y autoridades
+  <!-- feedback: Correcto. La justicia propia indigena reconoce el derecho de las comunidades a resolver sus conflictos segun sus propias normas y procedimientos, siempre que no violen los derechos humanos. -->
 - [ ] C) La imposicion de un unico sistema de justicia para todas las comunidades
   <!-- feedback: Incorrecto. La Constitucion colombiana reconoce la diversidad cultural y el derecho de las comunidades indigenas a sus propios sistemas de justicia. -->
 - [ ] D) La negacion de los derechos humanos en nombre de la tradicion
@@ -217,10 +217,10 @@ La Constitucion colombiana de 1991 reconoce la diversidad etnica y cultural del 
 ¿Cual es el dilema etico que plantea la instalacion de camaras de seguridad en espacios publicos?
 
 ### Opciones
-- [x] A) El equilibrio entre el derecho a la seguridad y el derecho a la privacidad de las personas
-  <!-- feedback: Correcto. Las camaras pueden reducir la delincuencia, pero también vigilan a los ciudadanos; el dilema esta en encontrar un equilibrio entre seguridad y privacidad. -->
-- [ ] B) La eleccion entre tener camaras o no tener ningun tipo de seguridad en la ciudad
+- [ ] A) La eleccion entre tener camaras o no tener ningun tipo de seguridad en la ciudad
   <!-- feedback: Incorrecto. El dilema no es camaras versus nada; existen otras estrategias de seguridad como mas policia, iluminacion o programas comunitarios. -->
+- [x] B) El equilibrio entre el derecho a la seguridad y el derecho a la privacidad de las personas
+  <!-- feedback: Correcto. Las camaras pueden reducir la delincuencia, pero también vigilan a los ciudadanos; el dilema esta en encontrar un equilibrio entre seguridad y privacidad. -->
 - [ ] C) La decision de si los delincuentes merecen derechos o no
   <!-- feedback: Incorrecto. Todas las personas, incluso los delincuentes, tienen derechos; el dilema no es sobre los derechos de los delincuentes sino sobre la privacidad de todos. -->
 - [ ] D) La eleccion entre la seguridad de los ricos y la seguridad de los pobres
@@ -240,12 +240,12 @@ La instalacion de camaras de seguridad en espacios publicos plantea un dilema et
 ¿Por que es importante que los estudiantes participen en la creacion de las normas de convivencia del colegio?
 
 ### Opciones
-- [x] A) Porque la participacion democratica en la creacion de normas fomenta el sentido de pertenencia y el compromiso con su cumplimiento
-  <!-- feedback: Correcto. Cuando los estudiantes participan en la creacion de las normas, las sienten propias y se comprometen a cumplirlas; la democracia se aprende practicandola. -->
-- [ ] B) Porque los estudiantes conocen mejor que los profesores cuales son las faltas mas comunes
+- [ ] A) Porque los estudiantes conocen mejor que los profesores cuales son las faltas mas comunes
   <!-- feedback: Incorrecto. Aunque los estudiantes conocen las faltas, la razon principal de su participacion es formativa: aprender a construir acuerdos democraticos. -->
-- [ ] C) Porque asi los profesores pueden delegar su responsabilidad de mantener la disciplina
+- [ ] B) Porque asi los profesores pueden delegar su responsabilidad de mantener la disciplina
   <!-- feedback: Incorrecto. La participacion estudiantil no delega la responsabilidad de los adultos; la disciplina sigue siendo una responsabilidad compartida. -->
+- [x] C) Porque la participacion democratica en la creacion de normas fomenta el sentido de pertenencia y el compromiso con su cumplimiento
+  <!-- feedback: Correcto. Cuando los estudiantes participan en la creacion de las normas, las sienten propias y se comprometen a cumplirlas; la democracia se aprende practicandola. -->
 - [ ] D) Porque las normas creadas por estudiantes son siempre mas justas que las creadas por adultos
   <!-- feedback: Incorrecto. Las normas creadas por estudiantes no son automaticamente mas justas; la justicia de una norma depende de su contenido, no de quien la propone. -->
 
