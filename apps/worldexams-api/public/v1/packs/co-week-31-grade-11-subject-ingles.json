@@ -55,36 +55,36 @@
     },
     {
       "id": "CO-ING-11-2026-W31-financial-literacy-001-MASTERY-bundle-v2",
-      "statement": "In the context of financial literacy, which word best completes the following sentence: 'The government's failure to address the issue has only served to __________ the social divide'?",
+      "statement": "Which financial term means a plan that sets out expected income and spending for a particular period?",
       "context": "Discussing financial literacy in Manizales.",
       "options": [
         {
-          "letter": "D",
-          "text": "exacerbate",
-          "is_correct": true,
-          "feedback": "Correct. 'Exacerbate' means to make a problem or bad situation worse, which fits perfectly here."
-        },
-        {
           "letter": "A",
-          "text": "alleviate",
+          "text": "A receipt.",
           "is_correct": false,
-          "feedback": "Incorrect. 'Alleviate' means to make something less severe, which is the opposite of what's needed."
+          "feedback": "A receipt records a completed payment; it does not plan future income and spending."
         },
         {
           "letter": "B",
-          "text": "mitigate",
+          "text": "A debt.",
           "is_correct": false,
-          "feedback": "Incorrect. 'Mitigate' means to make something less severe, which doesn't fit the negative consequence implied."
+          "feedback": "A debt is money owed to another person or organization, rather than a plan for income and expenses."
         },
         {
           "letter": "C",
-          "text": "facilitate",
+          "text": "A refund.",
           "is_correct": false,
-          "feedback": "Incorrect. 'Facilitate' means to make an action or process easy or easier, which is not appropriate for a social divide."
+          "feedback": "A refund is money returned after a payment; it does not describe a financial plan."
+        },
+        {
+          "letter": "D",
+          "text": "A budget.",
+          "is_correct": true,
+          "feedback": "A budget is a financial plan that compares expected income with planned expenses over a period."
         }
       ],
       "correct_answer": "D",
-      "explanation": "This question tests advanced vocabulary (verbs of change and impact) suitable for C1+ level.\n\n---",
+      "explanation": "A budget organizes expected income and expenses for a defined period. It helps someone plan how available money will be used.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -101,36 +101,36 @@
     },
     {
       "id": "CO-ING-11-2026-W31-financial-literacy-001-MASTERY-bundle-v3",
-      "statement": "In the context of financial literacy, which word best completes the following sentence: 'The government's failure to address the issue has only served to __________ the social divide'?",
+      "statement": "In the context of financial literacy, which word best completes the following sentence: 'A product advertised with a headline rate but buried conversion charges can __________ a saver who never reads to the end'?",
       "context": "Discussing financial literacy in Medellín.",
       "options": [
         {
-          "letter": "C",
-          "text": "exacerbate",
-          "is_correct": true,
-          "feedback": "Correct. 'Exacerbate' means to make a problem or bad situation worse, which fits perfectly here."
-        },
-        {
           "letter": "A",
-          "text": "alleviate",
-          "is_correct": false,
-          "feedback": "Incorrect. 'Alleviate' means to make something less severe, which is the opposite of what's needed."
+          "text": "deceive",
+          "is_correct": true,
+          "feedback": "'Deceive' means to mislead deliberately, and the sentence describes a disclosure that misleads by burying the terms that matter."
         },
         {
           "letter": "B",
-          "text": "mitigate",
+          "text": "detach",
           "is_correct": false,
-          "feedback": "Incorrect. 'Mitigate' means to make something less severe, which doesn't fit the negative consequence implied."
+          "feedback": "'Detach' means to separate from something, and the clause is about a customer's judgment being led astray rather than anything being taken apart."
+        },
+        {
+          "letter": "C",
+          "text": "dissolve",
+          "is_correct": false,
+          "feedback": "'Dissolve' means to melt or disband, and the sentence concerns the effect on a saver's confidence rather than the physical fate of a substance."
         },
         {
           "letter": "D",
-          "text": "facilitate",
+          "text": "decline",
           "is_correct": false,
-          "feedback": "Incorrect. 'Facilitate' means to make an action or process easy or easier, which is not appropriate for a social divide."
+          "feedback": "'Decline' means to refuse or to fall in amount, and the option would describe the saver's rejection of the offer, which the sentence does not report."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "This question tests advanced vocabulary (verbs of change and impact) suitable for C1+ level.\n\n---",
+      "correct_answer": "A",
+      "explanation": "The structure 'can __________ a saver who never reads to the end' names a person acted upon, and the clause about buried charges establishes deliberate misdirection. 'Deceive' captures that deception, whereas the other options describe separation, dissolution or a refusal, none of which the sentence attributes to anyone.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -147,36 +147,36 @@
     },
     {
       "id": "CO-ING-11-2026-W31-financial-literacy-001-MASTERY-bundle-v4",
-      "statement": "In the context of financial literacy, which word best completes the following sentence: 'The government's failure to address the issue has only served to __________ the social divide'?",
+      "statement": "In the context of financial literacy, which word best completes the following sentence: 'When interest compounds and nobody adds a single payment, an account can __________ to a balance the original owner never deposited'?",
       "context": "Discussing financial literacy in Bogotá.",
       "options": [
         {
-          "letter": "C",
-          "text": "exacerbate",
-          "is_correct": true,
-          "feedback": "Correct. 'Exacerbate' means to make a problem or bad situation worse, which fits perfectly here."
-        },
-        {
           "letter": "A",
-          "text": "alleviate",
-          "is_correct": false,
-          "feedback": "Incorrect. 'Alleviate' means to make something less severe, which is the opposite of what's needed."
+          "text": "accrue",
+          "is_correct": true,
+          "feedback": "'Accrue' means to accumulate over time by addition, and the sentence describes interest growing on its own until it exceeds anything actually paid in."
         },
         {
           "letter": "B",
-          "text": "mitigate",
+          "text": "ensue",
           "is_correct": false,
-          "feedback": "Incorrect. 'Mitigate' means to make something less severe, which doesn't fit the negative consequence implied."
+          "feedback": "'Ensue' means to follow as a consequence, and the clause describes an amount growing rather than a consequence simply following."
+        },
+        {
+          "letter": "C",
+          "text": "allay",
+          "is_correct": false,
+          "feedback": "'Allay' means to calm or lessen, and the sentence reports accumulation rather than anything being reduced or soothed."
         },
         {
           "letter": "D",
-          "text": "facilitate",
+          "text": "amass",
           "is_correct": false,
-          "feedback": "Incorrect. 'Facilitate' means to make an action or process easy or easier, which is not appropriate for a social divide."
+          "feedback": "'Amass' would require a deliberate act of collecting, and the sentence insists that nobody added any payment for the balance to grow."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "This question tests advanced vocabulary (verbs of change and impact) suitable for C1+ level.\n\n---",
+      "correct_answer": "A",
+      "explanation": "The words 'nobody adds a single payment' remove any suggestion of active collecting, so the verb must express passive accumulation through interest. 'Accrue' is that verb; 'amass' implies deliberate collection, while 'ensue' and 'allay' describe consequence and reduction respectively.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -285,36 +285,36 @@
     },
     {
       "id": "CO-ING-11-2026-W31-financial-literacy-001-MASTERY-bundle-v7",
-      "statement": "According to a recent report on financial literacy in Cali, what is implied about the role of Inverted Conditionals in shaping public opinion?",
+      "statement": "A student in Cali writes, 'If I had compared the account fees, I would have chosen the cheaper account.' Which rewrite uses conditional inversion without changing the meaning?",
       "context": "Discussing financial literacy in Cali.",
       "options": [
         {
-          "letter": "B",
-          "text": "It serves as a critical tool for nuanced communication.",
+          "letter": "A",
+          "text": "Had I compared the account fees, I would have chosen the cheaper account.",
           "is_correct": true,
-          "feedback": "Correct. C1+ level reading requires identifying subtle implications about language use."
+          "feedback": "Removing 'if' and placing 'had' before the subject correctly forms an inverted past unreal conditional."
         },
         {
-          "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
+          "letter": "B",
+          "text": "Had I compare the account fees, I would have chosen the cheaper account.",
           "is_correct": false,
-          "feedback": "Incorrect. The text suggests the opposite regarding the importance of linguistic precision."
+          "feedback": "The auxiliary 'had' requires the past participle 'compared', not the base form 'compare'."
         },
         {
           "letter": "C",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "Had compared I the account fees, I would have chosen the cheaper account.",
           "is_correct": false,
-          "feedback": "Incorrect. The construction in question adds precision and nuance to the message, so it makes the reading harder rather than simplifying it."
+          "feedback": "Conditional inversion places the subject immediately after 'had': 'Had I compared', not 'Had compared I'."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in {city}.",
+          "text": "Had I compared the account fees, I will choose the cheaper account.",
           "is_correct": false,
-          "feedback": "Incorrect. The report discusses its broader application in media and discourse."
+          "feedback": "Changing the result to 'will choose' replaces the original unreal past consequence with a future statement."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "correct_answer": "A",
+      "explanation": "A past unreal conditional can replace 'if I had compared' with 'had I compared'. The result remains 'would have chosen' to preserve the original past meaning.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -331,36 +331,36 @@
     },
     {
       "id": "CO-ING-11-2026-W31-financial-literacy-001-MASTERY-bundle-v8",
-      "statement": "According to a recent report on financial literacy in Cali, what is implied about the role of Inverted Conditionals in shaping public opinion?",
+      "statement": "Complete this formal warning about a savings account: 'Should your income fall, you _____ need to revise your monthly budget.'",
       "context": "Discussing financial literacy in Cali.",
       "options": [
         {
-          "letter": "C",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "Correct. C1+ level reading requires identifying subtle implications about language use."
-        },
-        {
           "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
+          "text": "had",
           "is_correct": false,
-          "feedback": "Incorrect. The text suggests the opposite regarding the importance of linguistic precision."
+          "feedback": "'Had need' is not the required modal construction; 'had' would need a different verb form and structure."
         },
         {
           "letter": "B",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "are",
           "is_correct": false,
-          "feedback": "Incorrect. The construction in question adds precision and nuance to the message, so it makes the reading harder rather than simplifying it."
+          "feedback": "'Are need' incorrectly combines a form of 'be' with the base verb 'need' in this active clause."
+        },
+        {
+          "letter": "C",
+          "text": "did",
+          "is_correct": false,
+          "feedback": "'Did need' refers to an emphasized past need, whereas this warning concerns a possible future income change."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in {city}.",
-          "is_correct": false,
-          "feedback": "Incorrect. The report discusses its broader application in media and discourse."
+          "text": "may",
+          "is_correct": true,
+          "feedback": "'May need' expresses a possible consequence of the future condition introduced by 'Should your income fall'."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "correct_answer": "D",
+      "explanation": "'Should your income fall' is a formal alternative to 'if your income falls'. 'May need' appropriately expresses the possible consequence.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -515,36 +515,36 @@
     },
     {
       "id": "CO-ING-11-2026-W31-financial-literacy-001-MASTERY-bundle-v12",
-      "statement": "Complete the following sentence about financial literacy: 'Hardly __________ the new policy been implemented when the first results started to show.' (Topic: Inverted Conditionals)",
+      "statement": "Complete the following sentence about financial literacy: 'Not until the compound interest is shown net of tax __________ the projection look attractive to a cautious saver.' (Topic: 'not until' with an inverted clause)",
       "context": "Discussing financial literacy in Barranquilla.",
       "options": [
         {
-          "letter": "C",
-          "text": "had",
-          "is_correct": true,
-          "feedback": "Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events."
-        },
-        {
           "letter": "A",
-          "text": "has",
+          "text": "had",
           "is_correct": false,
-          "feedback": "Incorrect. The sentence refers to a past sequence, requiring the past perfect in inversion."
+          "feedback": "'Not until' inverts the main clause, placing the auxiliary before the subject 'the projection'. 'Had the projection looked' would leave the subject first, which the pattern forbids."
         },
         {
           "letter": "B",
+          "text": "did",
+          "is_correct": true,
+          "feedback": "'Not until interest is shown did the projection look attractive'. The auxiliary is fronted to invert the clause, which is the defining feature of the structure."
+        },
+        {
+          "letter": "C",
           "text": "was",
           "is_correct": false,
-          "feedback": "Incorrect. 'Was' does not fit the past perfect structure required by 'Hardly'."
+          "feedback": "'Was' would suggest a passive or a singular subject. The subject is singular but the verb is active, so a passive reading is not available."
         },
         {
           "letter": "D",
-          "text": "did",
+          "text": "do",
           "is_correct": false,
-          "feedback": "Incorrect. 'Did' would require the base form of the verb, not the past participle 'been'."
+          "feedback": "'Do' is present tense and cannot invert a past sequence in which the interest had already been calculated."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "This evaluates mastery of advanced inversion structures, a key component of C1+ proficiency.\n\n---",
+      "correct_answer": "B",
+      "explanation": "Inversion with 'not until' frontes the auxiliary so that the subject follows the verb: 'not until X did Y happen'. The auxiliary 'did' carries the tense of the main clause while the subject 'the projection' is delayed. Selecting a perfect or passive auxiliary would state a relation of time or voice that the sentence does not express.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -561,36 +561,36 @@
     },
     {
       "id": "CO-ING-11-2026-W31-financial-literacy-001-MASTERY-bundle-v13",
-      "statement": "Complete the following sentence about financial literacy: 'Hardly __________ the new policy been implemented when the first results started to show.' (Topic: Inverted Conditionals)",
+      "statement": "Complete the following sentence about financial literacy: 'Rarely __________ a savings product advertised as risk-free turn out to carry no risk at all.' (Topic: inversion with 'rarely' and a singular subject)",
       "context": "Discussing financial literacy in Cali.",
       "options": [
         {
-          "letter": "B",
-          "text": "had",
-          "is_correct": true,
-          "feedback": "Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events."
+          "letter": "A",
+          "text": "do",
+          "is_correct": false,
+          "feedback": "'Do' agrees with plural subjects, and 'a savings product' is singular, so the base form with 'does' is required."
         },
         {
-          "letter": "A",
-          "text": "has",
-          "is_correct": false,
-          "feedback": "Incorrect. The sentence refers to a past sequence, requiring the past perfect in inversion."
+          "letter": "B",
+          "text": "does",
+          "is_correct": true,
+          "feedback": "'Rarely does a savings product turn out'. With a singular subject the inversion uses 'does', and the main verb reverts to the base form 'turn out'."
         },
         {
           "letter": "C",
-          "text": "was",
+          "text": "have",
           "is_correct": false,
-          "feedback": "Incorrect. 'Was' does not fit the past perfect structure required by 'Hardly'."
+          "feedback": "'Have' would give the perfect aspect, but the bare inversion with 'rarely' and a singular subject takes 'does' before the base form."
         },
         {
           "letter": "D",
-          "text": "did",
+          "text": "are",
           "is_correct": false,
-          "feedback": "Incorrect. 'Did' would require the base form of the verb, not the past participle 'been'."
+          "feedback": "'Are' cannot invert with a singular subject and would require a plural or a collection for agreement."
         }
       ],
       "correct_answer": "B",
-      "explanation": "This evaluates mastery of advanced inversion structures, a key component of C1+ proficiency.\n\n---",
+      "explanation": "Negative adverbials such as 'rarely', 'seldom' and 'never' trigger subject-auxiliary inversion. When the subject is third person singular, as 'a savings product' is, the auxiliary is 'does' and the following verb loses its inflection: 'does turn out'. Using 'do' is the frequent error because the plural pattern dominates in the language.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -607,36 +607,36 @@
     },
     {
       "id": "CO-ING-11-2026-W31-financial-literacy-001-MASTERY-bundle-v14",
-      "statement": "Complete the following sentence about financial literacy: 'Hardly __________ the new policy been implemented when the first results started to show.' (Topic: Inverted Conditionals)",
+      "statement": "Complete the following sentence about financial literacy: 'Under no circumstances __________ a broker describe a guaranteed return as a likely one without a written warning.' (Topic: inversion with a negative adverbial and a modal verb)",
       "context": "Discussing financial literacy in Medellín.",
       "options": [
         {
-          "letter": "B",
-          "text": "had",
+          "letter": "A",
+          "text": "should",
           "is_correct": true,
-          "feedback": "Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events."
+          "feedback": "'Under no circumstances should a broker describe'. A modal inverts exactly as the auxiliary of an ordinary verb does, so fronting 'should' produces the emphatic reading."
         },
         {
-          "letter": "A",
-          "text": "has",
+          "letter": "B",
+          "text": "must",
           "is_correct": false,
-          "feedback": "Incorrect. The sentence refers to a past sequence, requiring the past perfect in inversion."
+          "feedback": "'Must' states obligation, and in this negated frame the modal that carries the contrast is 'should'; 'must' would change what the sentence claims."
         },
         {
           "letter": "C",
-          "text": "was",
+          "text": "could",
           "is_correct": false,
-          "feedback": "Incorrect. 'Was' does not fit the past perfect structure required by 'Hardly'."
+          "feedback": "'Could' belongs to the conditional or the reporting sequence here, not to the emphatic inversion the negative adverbial demands."
         },
         {
           "letter": "D",
-          "text": "did",
+          "text": "ought",
           "is_correct": false,
-          "feedback": "Incorrect. 'Did' would require the base form of the verb, not the past participle 'been'."
+          "feedback": "'Ought' takes 'to' plus an infinitive, so it could not fill the gap directly after the negative adverbial in this construction."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "This evaluates mastery of advanced inversion structures, a key component of C1+ proficiency.\n\n---",
+      "correct_answer": "A",
+      "explanation": "Negative adverbials such as 'under no circumstances' and 'in no way' trigger inversion of the first auxiliary, and modals invert in exactly the same way. Fronting 'should' ahead of the subject 'a broker' produces the emphatic reading. A modal of obligation would state a different claim, and 'ought' cannot occupy the position without 'to' plus an infinitive.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -653,36 +653,36 @@
     },
     {
       "id": "CO-ING-11-2026-W31-financial-literacy-001-MASTERY-bundle-v15",
-      "statement": "Complete the following sentence about financial literacy: 'Hardly __________ the new policy been implemented when the first results started to show.' (Topic: Inverted Conditionals)",
+      "statement": "Complete the following sentence about financial literacy: 'No sooner __________ the first quarterly statement arrive than the customer noticed the double charge.' (Topic: 'no sooner ... than' inversion)",
       "context": "Discussing financial literacy in Bucaramanga.",
       "options": [
         {
           "letter": "A",
           "text": "had",
           "is_correct": true,
-          "feedback": "Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events."
+          "feedback": "'No sooner had the statement arrived than the customer noticed'. The structure pairs a completed past action with the immediate consequence that followed it."
         },
         {
           "letter": "B",
-          "text": "has",
+          "text": "did",
           "is_correct": false,
-          "feedback": "Incorrect. The sentence refers to a past sequence, requiring the past perfect in inversion."
+          "feedback": "'Did' with a bare infinitive would need 'no sooner had'; the participle 'arrived' shows that the perfect auxiliary is required rather than the do-form."
         },
         {
           "letter": "C",
-          "text": "was",
+          "text": "has",
           "is_correct": false,
-          "feedback": "Incorrect. 'Was' does not fit the past perfect structure required by 'Hardly'."
+          "feedback": "'Has' would give the present perfect and place the action in unfinished time, whereas 'no sooner ... than' needs a bounded past sequence."
         },
         {
           "letter": "D",
-          "text": "did",
+          "text": "was",
           "is_correct": false,
-          "feedback": "Incorrect. 'Did' would require the base form of the verb, not the past participle 'been'."
+          "feedback": "'Was' cannot combine with a past participle in this active construction, and the clause clearly states that the statement reached the customer."
         }
       ],
       "correct_answer": "A",
-      "explanation": "This evaluates mastery of advanced inversion structures, a key component of C1+ proficiency.\n\n---",
+      "explanation": "The correlative pair 'no sooner ... than' obliges the perfect auxiliary before the participle, so the first clause reads 'had the statement arrived'. The second clause then arrives with 'than', marking the consequence that followed immediately. Choosing a present perfect or a simple do-inversion breaks the bounded past sequence the pattern requires.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -699,36 +699,36 @@
     },
     {
       "id": "CO-ING-11-2026-W31-financial-literacy-001-MASTERY-bundle-v16",
-      "statement": "Complete the following sentence about financial literacy: 'Hardly __________ the new policy been implemented when the first results started to show.' (Topic: Inverted Conditionals)",
+      "statement": "Read this statement: 'Had Lina checked the repayment schedule, she would have noticed the final fee.' Which interpretation does the past unreal conditional normally convey?",
       "context": "Discussing financial literacy in Manizales.",
       "options": [
         {
           "letter": "A",
-          "text": "had",
+          "text": "Lina did not check the schedule, and checking it would have enabled her to notice the fee.",
           "is_correct": true,
-          "feedback": "Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events."
+          "feedback": "The inverted third conditional contrasts the unchecked past situation with an imagined result of checking."
         },
         {
           "letter": "B",
-          "text": "has",
+          "text": "Lina checked the schedule and noticed the fee.",
           "is_correct": false,
-          "feedback": "Incorrect. The sentence refers to a past sequence, requiring the past perfect in inversion."
+          "feedback": "The past unreal conditional presents checking and noticing as an imagined alternative, not as completed facts."
         },
         {
           "letter": "C",
-          "text": "was",
+          "text": "Lina is being instructed to check the schedule tomorrow.",
           "is_correct": false,
-          "feedback": "Incorrect. 'Was' does not fit the past perfect structure required by 'Hardly'."
+          "feedback": "'Had checked' refers to an unreal past situation rather than a future instruction."
         },
         {
           "letter": "D",
-          "text": "did",
+          "text": "The final fee would have disappeared if Lina had checked the schedule.",
           "is_correct": false,
-          "feedback": "Incorrect. 'Did' would require the base form of the verb, not the past participle 'been'."
+          "feedback": "The consequence is noticing the fee; the sentence does not say that checking would remove it."
         }
       ],
       "correct_answer": "A",
-      "explanation": "This evaluates mastery of advanced inversion structures, a key component of C1+ proficiency.\n\n---",
+      "explanation": "'Had Lina checked' means 'if Lina had checked' and introduces an unreal past condition. The consequence concerns discovering the fee, not changing or eliminating it.",
       "difficulty": "8",
       "images": [],
       "tags": [],

@@ -234,36 +234,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W26-segunda-guerra-mundial-001-MASTERY-bundle-v6",
-      "statement": "¿Qué documento establece la organización del Estado?",
+      "statement": "¿Qué principio de la Carta de la ONU sostuvo el sistema de seguridad colectiva creado en 1945?",
       "context": "Clase de ciencias sociales en Soyapango estudiando segunda guerra mundial.",
       "options": [
         {
           "letter": "A",
-          "text": "La Constitución",
+          "text": "La paz se defiende entre todos los Estados y ninguna agresión queda sin respuesta",
           "is_correct": true,
-          "feedback": "La Constitución es la norma máxima y es la que fija la organización del Estado y los derechos de la ciudadanía."
+          "feedback": "La seguridad colectiva supone que una agresión contra un miembro afecta a los demás, por eso ningún ataque puede quedar impune."
         },
         {
           "letter": "B",
-          "text": "Una ley ordinaria",
+          "text": "Cada Estado decide por separado cómo defender su territorio",
           "is_correct": false,
-          "feedback": "Una ley ordinaria es inferior a la Constitución y no puede contradecirla, así que no organiza el Estado por encima de ella."
+          "feedback": "La Carta creó un mecanismo común justo para que la defensa no dependiera del criterio de un solo país."
         },
         {
           "letter": "C",
-          "text": "Un decreto presidencial",
+          "text": "La guerra solo se acepta para recuperar territorios perdidos",
           "is_correct": false,
-          "feedback": "Un decreto es un acto del Ejecutivo que aplica una ley; no es el documento que funda la organización del Estado."
+          "feedback": "El motivo no era recuperar territorios, sino impedir que una agresión quedara sin respuesta."
         },
         {
           "letter": "D",
-          "text": "Un tratado internacional",
+          "text": "Los Estados renuncian a defender sus propias fronteras",
           "is_correct": false,
-          "feedback": "Un tratado regula el acuerdo entre dos o más países, no la organización interna de un Estado."
+          "feedback": "Los Estados no renuncian a su defensa: la organización coordina la defensa colectiva frente a un ataque."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
+      "explanation": "La seguridad colectiva convirtió la defensa de un país en una obligación compartida, idea que nació de la experiencia de 1939 a 1945.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -279,36 +279,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W26-segunda-guerra-mundial-001-MASTERY-bundle-v7",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
+      "statement": "¿Por qué se considera la batalla de Stalingrad el punto de inflexión de la guerra en el frente oriental?",
       "context": "Clase de ciencias sociales en Mejicanos estudiando segunda guerra mundial.",
       "options": [
         {
-          "letter": "C",
-          "text": "Urbanización masiva y nuevas clases sociales",
-          "is_correct": true,
-          "feedback": "Las fábricas concentraron el trabajo en las ciudades: la población rural emigró y surgieron la burguesía industrial y el proletariado."
-        },
-        {
           "letter": "A",
-          "text": "Retorno a la vida agrícola",
+          "text": "Victoria soviética en el norte de Rusia",
           "is_correct": false,
-          "feedback": "La Revolución Industrial diminishó el peso de la agricultura en la economía, en vez de devolver la sociedad al campo."
-        },
-        {
-          "letter": "B",
-          "text": "Disminución del comercio global",
-          "is_correct": false,
-          "feedback": "El comercio creció con los ferrocarriles y las fábricas, de modo que no disminuyó."
+          "feedback": "El avance soviético llegó hasta el centro de Europa, no hasta el norte de Rusia."
         },
         {
           "letter": "D",
-          "text": "Eliminación del trabajo manual",
+          "text": "Pérdida de la iniciativa ofensiva alemana y avance soviético hacia occidente",
+          "is_correct": true,
+          "feedback": "La iniciativa pasó a los soviéticos, que avanzaron hacia occidente y obligaron a Alemania a repartir sus tropas."
+        },
+        {
+          "letter": "B",
+          "text": "Victoria alemana en el norte de Rusia",
           "is_correct": false,
-          "feedback": "El trabajo manual no desapareció, se concentró en las fábricas y las minas."
+          "feedback": "Alemania ganó terreno en el norte, pero la iniciativa militar se perdió en el sur, en Stalingrad."
+        },
+        {
+          "letter": "C",
+          "text": "Derrota de Alemania dos años antes de la rendición de 1945",
+          "is_correct": false,
+          "feedback": "La rendición llegó en 1945 y Stalingrad no cerró la guerra: tras la batalla el conflicto continuó casi dos años."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
+      "correct_answer": "D",
+      "explanation": "Stalingrad, en 1942, marcaría el momento en que la iniciativa ofensiva deja de estar en manos de Alemania y pasa a la Unión Soviética.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -324,36 +324,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W26-segunda-guerra-mundial-001-MASTERY-bundle-v8",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
+      "statement": "Tras el ataque a Pearl Harbor en diciembre de 1941, Estados Unidos entró en la guerra. ¿Qué factor explica esa decisión?",
       "context": "Clase de ciencias sociales en Soyapango estudiando segunda guerra mundial.",
       "options": [
         {
-          "letter": "C",
-          "text": "Derechos humanos fundamentales",
-          "is_correct": true,
-          "feedback": "La Constitución de un país democrático reconoce los derechos esenciales de toda persona, como la vida, la libertad y la igualdad."
-        },
-        {
           "letter": "A",
-          "text": "Solo derechos de propiedad",
-          "is_correct": false,
-          "feedback": "La propiedad es uno de los derechos, pero la Constitución reconoce muchos más, como la igualdad ante la ley y el debido proceso."
+          "text": "Japón había atacado territorio de Estados Unidos, que hasta ese momento se mantenía neutral",
+          "is_correct": true,
+          "feedback": "El ataque a una base militar estadounidense en Hawaii rompió la neutralidad de Estados Unidos y activó su entrada en el conflicto."
         },
         {
           "letter": "B",
-          "text": "Únicamente derechos políticos",
+          "text": "Hitler había invadido Estados Unidos desde Canada ese mismo mes",
           "is_correct": false,
-          "feedback": "El voto y la participación son parte de los derechos, pero la Constitución protege también derechos civiles y sociales."
+          "feedback": "Hitler nunca invadió Estados Unidos por tierra: su frente contra ese país se abrió más tarde y no hubo invasión desde Canada."
+        },
+        {
+          "letter": "C",
+          "text": "Los Estados Unidos ya combatían en Europa desde 1939 junto a Francia",
+          "is_correct": false,
+          "feedback": "Estados Unidos se mantuvo neutral hasta diciembre de 1941, por eso su entrada se explica por Pearl Harbor y no por Europa."
         },
         {
           "letter": "D",
-          "text": "Derechos exclusivos del gobierno",
+          "text": "El Congreso de ese país había aprobado una ley de servicio militar obligatorio",
           "is_correct": false,
-          "feedback": "La Constitución limita al gobierno y protege a los ciudadanos; lo que el Estado tiene frente a ellos son deberes, no derechos."
+          "feedback": "Una ley de servicio militar pudo existir antes, pero no fue el factor decisivo: el desencadenante fue el ataque japonés."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
+      "correct_answer": "A",
+      "explanation": "Pearl Harbor convirtió un conflicto europeo en una guerra global, porque atacó directamente a un país que aún no participaba.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -369,36 +369,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W26-segunda-guerra-mundial-001-MASTERY-bundle-v9",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
+      "statement": "Un país importa toda la maquinaria que necesita, pero exporta banano y café. ¿Qué saldo comercial esperará?",
       "context": "Clase de ciencias sociales en Mejicanos estudiando segunda guerra mundial.",
       "options": [
         {
-          "letter": "C",
-          "text": "Superávit comercial",
-          "is_correct": true,
-          "feedback": "Exportar por encima de las importaciones significa que entra más dinero del que sale, y eso es superávit comercial."
+          "letter": "A",
+          "text": "Una balanza equilibrada, porque exporta e importa",
+          "is_correct": false,
+          "feedback": "Exportar e importar a la vez no da equilibrio: este solo se produce cuando ambos valores coinciden."
         },
         {
-          "letter": "A",
-          "text": "Déficit comercial",
-          "is_correct": false,
-          "feedback": "El déficit es el caso contrario: exportar menos de lo que se importa."
+          "letter": "C",
+          "text": "Un déficit, porque la maquinaria importada vale más que lo exportado",
+          "is_correct": true,
+          "feedback": "Cuando el valor de las importaciones supera al de las exportaciones, el saldo comercial de ese país es negativo."
         },
         {
           "letter": "B",
-          "text": "Balanza equilibrada",
+          "text": "Un superávit, porque toda exportación lo genera",
           "is_correct": false,
-          "feedback": "Una balanza equilibrada exige exportar e importar la misma cantidad, y aquí las exportaciones son mayores."
+          "feedback": "El superávit exige que las exportaciones superen a las importaciones, y aquí la maquinaria tiene un valor mayor."
         },
         {
           "letter": "D",
-          "text": "Crisis económica",
+          "text": "Ningún saldo, porque ese país no comercia",
           "is_correct": false,
-          "feedback": "Un superávit comercial indica un saldo favorable, no una crisis."
+          "feedback": "Ese país sí comercia en ambos sentidos, por eso sus cuentas registran un saldo comercial definido."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
+      "explanation": "El saldo se obtiene comparando valores y no cantidades: si la maquinaria importada vale más que el banano y el café exportados, el saldo es negativo.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -414,36 +414,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W26-segunda-guerra-mundial-001-MASTERY-bundle-v10",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
+      "statement": "¿Qué consecuencia tuvo el bloqueo naval britanico contra Alemania durante la Primera Guerra Mundial?",
       "context": "Clase de ciencias sociales en Santa Ana estudiando segunda guerra mundial.",
       "options": [
         {
           "letter": "B",
-          "text": "El asesinato del Archiduque Francisco Fernando",
-          "is_correct": true,
-          "feedback": "El asesinato del Archiduque Francisco Fernando en Sarajevo en junio de 1914 fue el detonante directo de la guerra."
+          "text": "La rendicion inmediata de Alemania",
+          "is_correct": false,
+          "feedback": "El bloqueo agravó la crisis interna, pero la guerra siguió dos años más con los ejércitos en el frente."
         },
         {
           "letter": "A",
-          "text": "El Tratado de Versalles",
-          "is_correct": false,
-          "feedback": "El Tratado de Versalles se firmó en 1919, ya terminada la guerra, para imponer las condiciones de paz a Alemania."
+          "text": "Escasez de alimentos y grave crisis en la retaguardia",
+          "is_correct": true,
+          "feedback": "El bloqueo quitaba a Alemania los alimentos importados, y la población civil pasó hambre durante años."
         },
         {
           "letter": "C",
-          "text": "La Revolución Rusa",
+          "text": "El fin de la Primera Guerra Mundial",
           "is_correct": false,
-          "feedback": "La Revolución Rusa ocurrió en 1917, durante la guerra, y pertenece a otro conflicto posterior."
+          "feedback": "El bloqueo fue una medida más, no la causa que cerró la guerra: el conflicto terminó con la rendición alemana de 1918."
         },
         {
           "letter": "D",
-          "text": "La invención del avión",
+          "text": "El aumento de la produccion agricola alemana",
           "is_correct": false,
-          "feedback": "El avión no fue la causa de la guerra; el detonante fue un conflicto entre potencias europeas, y la aviación se usó en los combates."
+          "feedback": "Sin insumos importados, la agricultura alemana resintió, y por eso el bloqueo profundizó la escasez de alimentos."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
+      "correct_answer": "A",
+      "explanation": "El bloqueo cortó el comercio con el exterior, quitó alimentos a la población civil y agravó la crisis de la retaguardia alemana.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -459,36 +459,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W26-segunda-guerra-mundial-001-MASTERY-bundle-v11",
-      "statement": "¿Qué documento establece la organización del Estado?",
+      "statement": "¿Qué buscaba la Operación Overlord de 1944?",
       "context": "Clase de ciencias sociales en Soyapango estudiando segunda guerra mundial.",
       "options": [
         {
-          "letter": "B",
-          "text": "La Constitución",
+          "letter": "A",
+          "text": "Abrir un segundo frente en Europa occidental",
           "is_correct": true,
-          "feedback": "La Constitución es la norma máxima y es la que fija la organización del Estado y los derechos de la ciudadanía."
+          "feedback": "El desembarco de Normandía abrió un frente occidental contra la ocupación alemana."
         },
         {
-          "letter": "A",
-          "text": "Una ley ordinaria",
+          "letter": "B",
+          "text": "Conquistar Siberia por tierra",
           "is_correct": false,
-          "feedback": "Una ley ordinaria es inferior a la Constitución y no puede contradecirla, así que no organiza el Estado por encima de ella."
+          "feedback": "Siberia nunca fue objetivo: el desembarco ocurrió en las costas de Francia."
         },
         {
           "letter": "C",
-          "text": "Un decreto presidencial",
+          "text": "Ganar una batalla exclusivamente aérea",
           "is_correct": false,
-          "feedback": "Un decreto es un acto del Ejecutivo que aplica una ley; no es el documento que funda la organización del Estado."
+          "feedback": "La batalla aérea contra Alemania fue en 1940; Overlord fue un desembarco terrestre."
         },
         {
           "letter": "D",
-          "text": "Un tratado internacional",
+          "text": "Forzar la rendición de Japón",
           "is_correct": false,
-          "feedback": "Un tratado regula el acuerdo entre dos o más países, no la organización interna de un Estado."
+          "feedback": "Japón no era el objetivo: Overlord se lanzó contra la Alemania de Hitler."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
+      "correct_answer": "A",
+      "explanation": "Overlord abrió el segundo frente que aceleró la derrota de Alemania.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -504,36 +504,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W26-segunda-guerra-mundial-001-MASTERY-bundle-v12",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
+      "statement": "¿Qué efecto demográfico tuvo la Segunda Guerra Mundial en Europa?",
       "context": "Clase de ciencias sociales en Soyapango estudiando segunda guerra mundial.",
       "options": [
         {
-          "letter": "D",
-          "text": "Urbanización masiva y nuevas clases sociales",
-          "is_correct": true,
-          "feedback": "Las fábricas concentraron el trabajo en las ciudades: la población rural emigró y surgieron la burguesía industrial y el proletariado."
-        },
-        {
           "letter": "A",
-          "text": "Retorno a la vida agrícola",
-          "is_correct": false,
-          "feedback": "La Revolución Industrial diminishó el peso de la agricultura en la economía, en vez de devolver la sociedad al campo."
+          "text": "Millones de muertos y una generación de huérfanos",
+          "is_correct": true,
+          "feedback": "La guerra destruyó vidas y desarmó familias enteras, dejando una generación entera de huérfanos."
         },
         {
           "letter": "B",
-          "text": "Disminución del comercio global",
+          "text": "Un aumento sostenido de la natalidad y de la esperanza de vida",
           "is_correct": false,
-          "feedback": "El comercio creció con los ferrocarriles y las fábricas, de modo que no disminuyó."
+          "feedback": "La natalidad cayó y la esperanza de vida se redujo, porque la guerra restó años y recursos."
         },
         {
           "letter": "C",
-          "text": "Eliminación del trabajo manual",
+          "text": "El abandono definitivo de la agricultura en Europa",
           "is_correct": false,
-          "feedback": "El trabajo manual no desapareció, se concentró en las fábricas y las minas."
+          "feedback": "Europa siguió produciendo alimentos, aunque con escasez y desvíos de recursos."
+        },
+        {
+          "letter": "D",
+          "text": "La desaparición de la clase obrera en las ciudades",
+          "is_correct": false,
+          "feedback": "La clase obrera creció en las fábricas de guerra y siguió existiendo después de 1945."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
+      "correct_answer": "A",
+      "explanation": "El saldo humano de la guerra incluyó millones de muertos, huérfanos y ciudades devastadas.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -549,36 +549,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W26-segunda-guerra-mundial-001-MASTERY-bundle-v13",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
+      "statement": "Un gobierno militar llega al poder por un golpe de Estado. ¿Qué límite institucional enfrenta al asumir el Estado?",
       "context": "Clase de ciencias sociales en Mejicanos estudiando segunda guerra mundial.",
       "options": [
         {
           "letter": "C",
-          "text": "Derechos humanos fundamentales",
-          "is_correct": true,
-          "feedback": "La Constitución de un país democrático reconoce los derechos esenciales de toda persona, como la vida, la libertad y la igualdad."
-        },
-        {
-          "letter": "A",
-          "text": "Solo derechos de propiedad",
+          "text": "Solo esta obligado por las decisiones de su propio partido",
           "is_correct": false,
-          "feedback": "La propiedad es uno de los derechos, pero la Constitución reconoce muchos más, como la igualdad ante la ley y el debido proceso."
+          "feedback": "El partido no es la norma suprema: las decisiones del gobierno pueden revisarse frente a la Constitucion y los tribunales."
         },
         {
           "letter": "B",
-          "text": "Únicamente derechos políticos",
+          "text": "Debe respetar la Constitucion y los derechos que ella garantiza",
+          "is_correct": true,
+          "feedback": "La Constitucion es la norma suprema, asi que un gobierno militar no puede apartarse de ella ni negar los derechos que protege."
+        },
+        {
+          "letter": "A",
+          "text": "Puede gobernar como mejor le parezca porque la constitucion no lo ata",
           "is_correct": false,
-          "feedback": "El voto y la participación son parte de los derechos, pero la Constitución protege también derechos civiles y sociales."
+          "feedback": "La constitucion ata a todo gobierno, y un golpe de Estado tampoco elimina esa norma suprema."
         },
         {
           "letter": "D",
-          "text": "Derechos exclusivos del gobierno",
+          "text": "Debe aplicar la ley del pais vecino que lo respalda",
           "is_correct": false,
-          "feedback": "La Constitución limita al gobierno y protege a los ciudadanos; lo que el Estado tiene frente a ellos son deberes, no derechos."
+          "feedback": "El limite del gobierno lo fija su propia Constitucion, no la legislacion de otro pais."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
+      "correct_answer": "B",
+      "explanation": "Un golpe de Estado cambia quien gobierna, no la norma suprema: el nuevo gobierno sigue obligado por la Constitucion y por los derechos que ella protege.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -594,36 +594,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W26-segunda-guerra-mundial-001-MASTERY-bundle-v14",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
+      "statement": "Si un país exporta café y banano pero importa toda su maquinaria, ¿qué saldo comercial esperará?",
       "context": "Clase de ciencias sociales en Mejicanos estudiando segunda guerra mundial.",
       "options": [
         {
-          "letter": "C",
-          "text": "Superávit comercial",
-          "is_correct": true,
-          "feedback": "Exportar por encima de las importaciones significa que entra más dinero del que sale, y eso es superávit comercial."
-        },
-        {
           "letter": "A",
-          "text": "Déficit comercial",
-          "is_correct": false,
-          "feedback": "El déficit es el caso contrario: exportar menos de lo que se importa."
+          "text": "Un déficit, porque el valor de las importaciones supera al de las exportaciones",
+          "is_correct": true,
+          "feedback": "Importar maquinaria por un valor mayor que el del café y banano exportados deja a ese país en déficit comercial."
         },
         {
           "letter": "B",
-          "text": "Balanza equilibrada",
+          "text": "Un superávit, porque cualquier exportación lo genera",
           "is_correct": false,
-          "feedback": "Una balanza equilibrada exige exportar e importar la misma cantidad, y aquí las exportaciones son mayores."
+          "feedback": "El superávit exige que las exportaciones superen a las importaciones; aquí la maquinaria importada vale más."
+        },
+        {
+          "letter": "C",
+          "text": "Una balanza equilibrada, porque se exporta y se importa",
+          "is_correct": false,
+          "feedback": "Exportar e importar a la vez no da equilibrio: este exige que ambos valores coincidan."
         },
         {
           "letter": "D",
-          "text": "Crisis económica",
+          "text": "Ninguno, porque la economía mundial es un sistema cerrado",
           "is_correct": false,
-          "feedback": "Un superávit comercial indica un saldo favorable, no una crisis."
+          "feedback": "La economía mundial es un sistema abierto y las cuentas de cada país registran esos flujos con un saldo."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
+      "correct_answer": "A",
+      "explanation": "El saldo comercial se calcula comparando los valores de exportación e importación, no el número de bienes intercambiados.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -639,36 +639,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W26-segunda-guerra-mundial-001-MASTERY-bundle-v15",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
+      "statement": "¿Que region europea quedo bajo control de la Union Sovietica despues del acuerdo de Yalta de 1945?",
       "context": "Clase de ciencias sociales en San Salvador estudiando segunda guerra mundial.",
       "options": [
         {
-          "letter": "A",
-          "text": "El asesinato del Archiduque Francisco Fernando",
+          "letter": "D",
+          "text": "Europa oriental, incluida la parte de Alemania ocupada por los sovieticos",
           "is_correct": true,
-          "feedback": "El asesinato del Archiduque Francisco Fernando en Sarajevo en junio de 1914 fue el detonante directo de la guerra."
+          "feedback": "En Yalta se fijo una linea de demarcacion, y el este de Europa quedo bajo la influencia sovietica tras la guerra."
         },
         {
           "letter": "B",
-          "text": "El Tratado de Versalles",
+          "text": "Europa occidental, que paso a depender de los Estados Unidos",
           "is_correct": false,
-          "feedback": "El Tratado de Versalles se firmó en 1919, ya terminada la guerra, para imponer las condiciones de paz a Alemania."
+          "feedback": "Yalta no reparto el oeste: las potencias occidentales ya libéraron Europa occidental y la reconstruyeron ellas mismas."
         },
         {
           "letter": "C",
-          "text": "La Revolución Rusa",
+          "text": "America central, que quedo bajo administracion sovietica",
           "is_correct": false,
-          "feedback": "La Revolución Rusa ocurrió en 1917, durante la guerra, y pertenece a otro conflicto posterior."
+          "feedback": "La demarcacion de Yalta era europea, y en America central no hubo ocupacion sovietica de ningun tipo."
         },
         {
-          "letter": "D",
-          "text": "La invención del avión",
+          "letter": "A",
+          "text": "Todo el continente, sin excepcion de ninguna zona",
           "is_correct": false,
-          "feedback": "El avión no fue la causa de la guerra; el detonante fue un conflicto entre potencias europeas, y la aviación se usó en los combates."
+          "feedback": "Yalta dibujo una frontera de influencia: el oeste quedo con las potencias occidentales y solo una parte cambio de bando."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
+      "correct_answer": "D",
+      "explanation": "El acuerdo de Yalta de 1945 dibujo una linea de influencia en Europa, y el este del continente quedo bajo control sovietico.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -684,36 +684,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W26-segunda-guerra-mundial-001-MASTERY-bundle-v16",
-      "statement": "¿Qué documento establece la organización del Estado?",
+      "statement": "¿Qué factor llevó a Alemania a firmar el Armisticio de Compiègne en 1918?",
       "context": "Clase de ciencias sociales en Soyapango estudiando segunda guerra mundial.",
       "options": [
         {
-          "letter": "B",
-          "text": "La Constitución",
+          "letter": "A",
+          "text": "La derrota de su ejército en el frente occidental",
           "is_correct": true,
-          "feedback": "La Constitución es la norma máxima y es la que fija la organización del Estado y los derechos de la ciudadanía."
+          "feedback": "Sin capacidad de seguir combatiendo, aceptó la suspensión de las hostilidades antes de las negociaciones de paz."
         },
         {
-          "letter": "A",
-          "text": "Una ley ordinaria",
+          "letter": "B",
+          "text": "La victoria de sus tropas en el frente oriental",
           "is_correct": false,
-          "feedback": "Una ley ordinaria es inferior a la Constitución y no puede contradecirla, así que no organiza el Estado por encima de ella."
+          "feedback": "Alemania perdió la iniciativa militar y no consiguió ninguna victoria decisiva que justificara ese acuerdo."
         },
         {
           "letter": "C",
-          "text": "Un decreto presidencial",
+          "text": "Un golpe de Estado que depuso al emperador",
           "is_correct": false,
-          "feedback": "Un decreto es un acto del Ejecutivo que aplica una ley; no es el documento que funda la organización del Estado."
+          "feedback": "La abdicación del emperador ocurrió después del armisticio, cuando ya se había aceptado la pausa en el combate."
         },
         {
           "letter": "D",
-          "text": "Un tratado internacional",
+          "text": "Una promesa de conservar intactas sus colonias",
           "is_correct": false,
-          "feedback": "Un tratado regula el acuerdo entre dos o más países, no la organización interna de un Estado."
+          "feedback": "Sus colonias pasaron a manos de los vencedores después de la firma, así que no existió esa promesa."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
+      "correct_answer": "A",
+      "explanation": "El armisticio reflejó una situación militar desfavorable, no una decisión voluntaria de prolongar la guerra.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -729,36 +729,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W26-segunda-guerra-mundial-001-MASTERY-bundle-v17",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
+      "statement": "¿Qué cambió para la mujer en la Europa de posguerra?",
       "context": "Clase de ciencias sociales en Soyapango estudiando segunda guerra mundial.",
       "options": [
         {
-          "letter": "C",
-          "text": "Urbanización masiva y nuevas clases sociales",
-          "is_correct": true,
-          "feedback": "Las fábricas concentraron el trabajo en las ciudades: la población rural emigró y surgieron la burguesía industrial y el proletariado."
-        },
-        {
           "letter": "A",
-          "text": "Retorno a la vida agrícola",
-          "is_correct": false,
-          "feedback": "La Revolución Industrial diminishó el peso de la agricultura en la economía, en vez de devolver la sociedad al campo."
+          "text": "Obtuvo el derecho al voto en la mayoría de los países",
+          "is_correct": true,
+          "feedback": "El sufragio femenino se consolidó después de 1945, gracias a la participación de estas mujeres en la guerra."
         },
         {
           "letter": "B",
-          "text": "Disminución del comercio global",
+          "text": "Perdió los derechos que había logrado en la época de la guerra",
           "is_correct": false,
-          "feedback": "El comercio creció con los ferrocarriles y las fábricas, de modo que no disminuyó."
+          "feedback": "Al contrario: al terminar el conflicto muchas mujeres ganaron espacio público y reconocimiento legal."
+        },
+        {
+          "letter": "C",
+          "text": "Regresó en bloque al trabajo doméstico sin remuneración",
+          "is_correct": false,
+          "feedback": "Aunque muchas trabajaron fuera de casa, el trabajo doméstico sin remuneración siguió recayendo en ellas."
         },
         {
           "letter": "D",
-          "text": "Eliminación del trabajo manual",
+          "text": "Fue excluida de la reconstrucción de la economía europea",
           "is_correct": false,
-          "feedback": "El trabajo manual no desapareció, se concentró en las fábricas y las minas."
+          "feedback": "Las mujeres participaron activamente en la reconstrucción, y su esfuerzo fue reconocido en ese proceso."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
+      "correct_answer": "A",
+      "explanation": "La experiencia de la guerra y la reconstrucción impulsaron la ampliación de derechos de las mujeres en Europa.",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -774,36 +774,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W26-segunda-guerra-mundial-001-MASTERY-bundle-v18",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
+      "statement": "¿Cuál fue la novedad del juicio de Núremberg en 1945?",
       "context": "Clase de ciencias sociales en Soyapango estudiando segunda guerra mundial.",
       "options": [
         {
-          "letter": "D",
-          "text": "Derechos humanos fundamentales",
-          "is_correct": true,
-          "feedback": "La Constitución de un país democrático reconoce los derechos esenciales de toda persona, como la vida, la libertad y la igualdad."
-        },
-        {
           "letter": "A",
-          "text": "Solo derechos de propiedad",
-          "is_correct": false,
-          "feedback": "La propiedad es uno de los derechos, pero la Constitución reconoce muchos más, como la igualdad ante la ley y el debido proceso."
+          "text": "Juzgó a los responsables de planear la guerra bajo leyes humanitarias",
+          "is_correct": true,
+          "feedback": "Por primera vez se hizo responsables a los líderes de un Estado ante un tribunal."
         },
         {
           "letter": "B",
-          "text": "Únicamente derechos políticos",
+          "text": "Aplicó la ley retroactiva de la justicia de los vencidos",
           "is_correct": false,
-          "feedback": "El voto y la participación son parte de los derechos, pero la Constitución protege también derechos civiles y sociales."
+          "feedback": "La justicia de los vencidos era un argumento político, no un principio del juicio."
         },
         {
           "letter": "C",
-          "text": "Derechos exclusivos del gobierno",
+          "text": "Creó un tribunal para negociar las reparaciones de guerra",
           "is_correct": false,
-          "feedback": "La Constitución limita al gobierno y protege a los ciudadanos; lo que el Estado tiene frente a ellos son deberes, no derechos."
+          "feedback": "El tribunal juzgó hechos de guerra, no negoció indemnizaciones."
+        },
+        {
+          "letter": "D",
+          "text": "Se celebró fuera del país agressor para castigar a los civiles",
+          "is_correct": false,
+          "feedback": "El juicio se hizo en Núremberg, en Alemania, y se dirigió a los responsables del agresor."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
+      "correct_answer": "A",
+      "explanation": "La novedad del juicio fue aplicar la justicia individual a quienes planearon la guerra.",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -819,36 +819,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W26-segunda-guerra-mundial-001-MASTERY-bundle-v19",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
+      "statement": "Un pais que depende del petroleo ajeno enfrenta una interrupcion del suministro. ¿Que efecto inmediato tiene sobre su economia?",
       "context": "Clase de ciencias sociales en San Salvador estudiando segunda guerra mundial.",
       "options": [
         {
-          "letter": "D",
-          "text": "Superávit comercial",
-          "is_correct": true,
-          "feedback": "Exportar por encima de las importaciones significa que entra más dinero del que sale, y eso es superávit comercial."
-        },
-        {
           "letter": "A",
-          "text": "Déficit comercial",
+          "text": "Una mejora en la seguridad alimentaria",
           "is_correct": false,
-          "feedback": "El déficit es el caso contrario: exportar menos de lo que se importa."
-        },
-        {
-          "letter": "B",
-          "text": "Balanza equilibrada",
-          "is_correct": false,
-          "feedback": "Una balanza equilibrada exige exportar e importar la misma cantidad, y aquí las exportaciones son mayores."
+          "feedback": "La seguridad alimentaria depende de la comida, no del combustible, y una crisis de petroleo la puede empeorar."
         },
         {
           "letter": "C",
-          "text": "Crisis económica",
+          "text": "Un choque en los costos y una parada del crecimiento",
+          "is_correct": true,
+          "feedback": "Sin petroleo ajeno, la produccion se encarece y el transporte se detiene, por eso la economia se contrae de inmediato."
+        },
+        {
+          "letter": "B",
+          "text": "Un aumento de las exportaciones de ese pais",
           "is_correct": false,
-          "feedback": "Un superávit comercial indica un saldo favorable, no una crisis."
+          "feedback": "Sin la materia prima, ese pais no puede exportar mas: al contrario, se queda sin energia para producir."
+        },
+        {
+          "letter": "D",
+          "text": "Un aumento del superávit comercial de ese pais",
+          "is_correct": false,
+          "feedback": "Sin ingresos nuevos, el gasto en petroleo ajeno aumenta y la balanza comercial de ese pais empeora."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
+      "correct_answer": "C",
+      "explanation": "Un pais importador de petroleo sufre un choque externo en sus costos y detiene su crecimiento, porque la energia es un insumo basico de toda la produccion.",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -864,36 +864,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W26-segunda-guerra-mundial-001-MASTERY-bundle-v20",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
+      "statement": "¿Qué territorio quedó dividido en dos bloques tras la Segunda Guerra Mundial?",
       "context": "Clase de ciencias sociales en Santa Ana estudiando segunda guerra mundial.",
       "options": [
         {
-          "letter": "D",
-          "text": "El asesinato del Archiduque Francisco Fernando",
-          "is_correct": true,
-          "feedback": "El asesinato del Archiduque Francisco Fernando en Sarajevo en junio de 1914 fue el detonante directo de la guerra."
-        },
-        {
           "letter": "A",
-          "text": "El Tratado de Versalles",
-          "is_correct": false,
-          "feedback": "El Tratado de Versalles se firmó en 1919, ya terminada la guerra, para imponer las condiciones de paz a Alemania."
+          "text": "Alemania, que quedó partida entre las potencias vencedoras",
+          "is_correct": true,
+          "feedback": "La partición de Alemania en zonas de ocupación y luego dos Estados es el caso más visible de esa división."
         },
         {
           "letter": "B",
-          "text": "La Revolución Rusa",
+          "text": "España, que quedó bajo control de Portugal",
           "is_correct": false,
-          "feedback": "La Revolución Rusa ocurrió en 1917, durante la guerra, y pertenece a otro conflicto posterior."
+          "feedback": "España no fue particionada y permaneció fuera de los dos bloques hasta incorporarse en 1955."
         },
         {
           "letter": "C",
-          "text": "La invención del avión",
+          "text": "India, que quedó repartida entre Portugal y Francia",
           "is_correct": false,
-          "feedback": "El avión no fue la causa de la guerra; el detonante fue un conflicto entre potencias europeas, y la aviación se usó en los combates."
+          "feedback": "India se independizó en 1947 y su partición no tiene relación con el reparto de Europa."
+        },
+        {
+          "letter": "D",
+          "text": "Japón, que fue dividido en dos Estados",
+          "is_correct": false,
+          "feedback": "Japón se reconstruyó como un solo país, con la ocupación terminada en 1952."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
+      "correct_answer": "A",
+      "explanation": "La partición de Alemania y de Europa en bloques opuestos reflejó la tensión que daría origen a la guerra fría.",
       "difficulty": "10",
       "images": [],
       "tags": [],

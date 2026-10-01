@@ -279,36 +279,36 @@
     },
     {
       "id": "EC-MAT-11-2026-W10-inecuaciones-lineales-001-MASTERY-bundle-v7",
-      "statement": "¿Cuál es el intervalo de solución para la inecuación lineal $-3x \\ge 12$?",
+      "statement": "¿Cuál es el intervalo de solución para la inecuación lineal $5x \\le -35$?",
       "context": "En la ciudad de Guayaquil, un grupo de estudiantes de la Unidad Educativa Bernardo Valdivieso analizan un problema práctico de matemáticas.",
       "options": [
         {
           "letter": "A",
-          "text": "$x \\le -4$",
-          "is_correct": true,
-          "feedback": "Al dividir entre $-3$ la desigualdad se invierte y el 12 cambia de signo, por lo que $x \\le -4$."
+          "text": "$x \\ge -7$",
+          "is_correct": false,
+          "feedback": "Al dividir entre $-35$ la desigualdad se invierte porque el coeficiente era negativo, pero aquí el coeficiente 5 es positivo y el signo solo cambia en el $35$."
         },
         {
           "letter": "B",
-          "text": "$x \\ge -4$",
+          "text": "$x \\ge 7$",
           "is_correct": false,
-          "feedback": "Al dividir entre un número negativo la desigualdad cambia de sentido, por eso el resultado es $x \\le -4$."
+          "feedback": "El coeficiente de $x$ es positivo, así que el sentido de la desigualdad se conserva y el 7 queda negativo."
         },
         {
           "letter": "C",
-          "text": "$x \\le 4$",
-          "is_correct": false,
-          "feedback": "El resultado conserva el signo negativo del coeficiente: al dividir entre $-3$ se obtiene $-4$, no $+4$."
+          "text": "$x \\le -7$",
+          "is_correct": true,
+          "feedback": "Correcto. Al dividir entre 5, que es positivo, se conserva el sentido: $x \\le -35 / 5 = -7$."
         },
         {
           "letter": "D",
-          "text": "$x \\ge 4$",
+          "text": "$x \\le 7$",
           "is_correct": false,
-          "feedback": "El signo del 12 también debe cambiar al dividir entre $-3$: $-3x \\ge 12$ equivale a $x \\le -4$, no a un 4 positivo."
+          "feedback": "Al dividir $-35$ entre $5$ el resultado es $-7$ y no $+7$, porque los dos términos tienen signos opuestos."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Al dividir por un número negativo ($-3$), el sentido de la desigualdad se invierte: $x \\le 12 / (-3) \\Rightarrow x \\le -4$.\n\n---",
+      "correct_answer": "C",
+      "explanation": "Como el coeficiente de $x$ es $5$, un número positivo, el sentido de la desigualdad se conserva al dividir. Se obtiene $x \\le -35 / 5$, y como $35 / 5 = 7$, el resultado es $x \\le -7$. La regla de inversión del signo solo se aplica cuando se divide entre un número negativo, y aquí no es el caso.\n\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],

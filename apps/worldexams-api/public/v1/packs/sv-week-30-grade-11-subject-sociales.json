@@ -9,36 +9,36 @@
   "questions": [
     {
       "id": "SV-SOC-11-2026-W30-centroamerica-001-MASTERY-bundle-v1",
-      "statement": "¿Qué documento establece la organización del Estado?",
+      "statement": "¿Qué organismo se creó en 1991 para coordinar la integración económica de los países centroamericanos?",
       "context": "Clase de ciencias sociales en Soyapango estudiando centroamerica.",
       "options": [
         {
-          "letter": "D",
-          "text": "La Constitución",
-          "is_correct": true,
-          "feedback": "La Constitución es la norma máxima y es la que fija la organización del Estado y los derechos de la ciudadanía."
-        },
-        {
           "letter": "A",
-          "text": "Una ley ordinaria",
-          "is_correct": false,
-          "feedback": "Una ley ordinaria es inferior a la Constitución y no puede contradecirla, así que no organiza el Estado por encima de ella."
+          "text": "El Sistema de Integración Centroamericana",
+          "is_correct": true,
+          "feedback": "Nació en 1991 con el Tratado de San Salvador para integrar la economía regional."
         },
         {
           "letter": "B",
-          "text": "Un decreto presidencial",
+          "text": "La Organización de los Estados Americanos",
           "is_correct": false,
-          "feedback": "Un decreto es un acto del Ejecutivo que aplica una ley; no es el documento que funda la organización del Estado."
+          "feedback": "La OEA se creó en 1948 y agrupa a todo el continente americano."
         },
         {
           "letter": "C",
-          "text": "Un tratado internacional",
+          "text": "El Banco Centroamericano de Integración",
           "is_correct": false,
-          "feedback": "Un tratado regula el acuerdo entre dos o más países, no la organización interna de un Estado."
+          "feedback": "Es una banca de desarrollo fundada en 1960, no el organismo de integración regional."
+        },
+        {
+          "letter": "D",
+          "text": "La Unión Interamericana",
+          "is_correct": false,
+          "feedback": "La Unión Interamericana se puso en marcha en 1994 en Cartagena, muy distinto del SICA."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
+      "correct_answer": "A",
+      "explanation": "El SICA nació en 1991 con el Tratado de San Salvador para integrar la economía centroamericana.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -189,36 +189,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W30-centroamerica-001-MASTERY-bundle-v5",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
+      "statement": "¿De qué tratado surgieron los acuerdos que abrieron paso a la independencia?",
       "context": "Clase de ciencias sociales en San Miguel estudiando centroamerica.",
       "options": [
         {
-          "letter": "D",
-          "text": "El asesinato del Archiduque Francisco Fernando",
-          "is_correct": true,
-          "feedback": "El asesinato del Archiduque Francisco Fernando en Sarajevo en junio de 1914 fue el detonante directo de la guerra."
-        },
-        {
           "letter": "A",
-          "text": "El Tratado de Versalles",
-          "is_correct": false,
-          "feedback": "El Tratado de Versalles se firmó en 1919, ya terminada la guerra, para imponer las condiciones de paz a Alemania."
+          "text": "El Tratado de México",
+          "is_correct": true,
+          "feedback": "Sus acuerdos de 1821 reconocieron la independencia de la Nueva España."
         },
         {
           "letter": "B",
-          "text": "La Revolución Rusa",
+          "text": "El Tratado de Guadalupe Hidalgo",
           "is_correct": false,
-          "feedback": "La Revolución Rusa ocurrió en 1917, durante la guerra, y pertenece a otro conflicto posterior."
+          "feedback": "Es de 1848 y resolvió la guerra entre México y Estados Unidos, veintisiete años más tarde."
         },
         {
           "letter": "C",
-          "text": "La invención del avión",
+          "text": "El Tratado de Versalles",
           "is_correct": false,
-          "feedback": "El avión no fue la causa de la guerra; el detonante fue un conflicto entre potencias europeas, y la aviación se usó en los combates."
+          "feedback": "Se firmó en 1919 en Europa para cerrar la Primera Guerra Mundial."
+        },
+        {
+          "letter": "D",
+          "text": "La Carta de las Naciones Unidas",
+          "is_correct": false,
+          "feedback": "Es de 1945 y creó la organización internacional, no los acuerdos independentistas."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
+      "correct_answer": "A",
+      "explanation": "El Tratado de México de 1821 cerró el proceso independentista y abrió paso a los nuevos estados.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -234,36 +234,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W30-centroamerica-001-MASTERY-bundle-v6",
-      "statement": "¿Qué documento establece la organización del Estado?",
+      "statement": "¿Con qué dos países comparte El Salvador su frontera terrestre?",
       "context": "Clase de ciencias sociales en San Miguel estudiando centroamerica.",
       "options": [
         {
-          "letter": "A",
-          "text": "La Constitución",
+          "letter": "B",
+          "text": "Guatemala y Honduras",
           "is_correct": true,
-          "feedback": "La Constitución es la norma máxima y es la que fija la organización del Estado y los derechos de la ciudadanía."
+          "feedback": "El Salvador está encerrado entre Guatemala al oeste y Honduras al norte, y esos son sus dos vecinos terrestres."
         },
         {
-          "letter": "B",
-          "text": "Una ley ordinaria",
+          "letter": "A",
+          "text": "Honduras y Nicaragua",
           "is_correct": false,
-          "feedback": "Una ley ordinaria es inferior a la Constitución y no puede contradecirla, así que no organiza el Estado por encima de ella."
+          "feedback": "Honduras sí limita con El Salvador, pero Nicaragua queda al otro lado de Honduras y no tiene frontera directa con el país."
         },
         {
           "letter": "C",
-          "text": "Un decreto presidencial",
+          "text": "Guatemala y Costa Rica",
           "is_correct": false,
-          "feedback": "Un decreto es un acto del Ejecutivo que aplica una ley; no es el documento que funda la organización del Estado."
+          "feedback": "La frontera oeste es con Guatemala, pero Costa Rica no toca territorio salvadoreño: hay un país entero de distancia."
         },
         {
           "letter": "D",
-          "text": "Un tratado internacional",
+          "text": "México y Belice",
           "is_correct": false,
-          "feedback": "Un tratado regula el acuerdo entre dos o más países, no la organización interna de un Estado."
+          "feedback": "México y Belice están muy lejos de la región centroamericana; El Salvador no mantiene frontera con ninguno de los dos."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
+      "correct_answer": "B",
+      "explanation": "El Salvador comparte frontera terrestre únicamente con Guatemala y Honduras.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -279,36 +279,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W30-centroamerica-001-MASTERY-bundle-v7",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
+      "statement": "¿Qué documento puso fin a la guerra civil Salvadorena en 1992?",
       "context": "Clase de ciencias sociales en Santa Ana estudiando centroamerica.",
       "options": [
         {
-          "letter": "B",
-          "text": "Urbanización masiva y nuevas clases sociales",
+          "letter": "C",
+          "text": "Los Acuerdos de Paz",
           "is_correct": true,
-          "feedback": "Las fábricas concentraron el trabajo en las ciudades: la población rural emigró y surgieron la burguesía industrial y el proletariado."
+          "feedback": "Los Acuerdos de Paz firmados en enero de 1992 cerraron el conflicto armado y permitieron reconstruir el país."
         },
         {
           "letter": "A",
-          "text": "Retorno a la vida agrícola",
+          "text": "El Tratado de Versalles",
           "is_correct": false,
-          "feedback": "La Revolución Industrial diminishó el peso de la agricultura en la economía, en vez de devolver la sociedad al campo."
+          "feedback": "Versalles es el acuerdo de 1919 que cerró la Primera Guerra Mundial en Europa, sin relación con El Salvador."
         },
         {
-          "letter": "C",
-          "text": "Disminución del comercio global",
+          "letter": "B",
+          "text": "La Constitución de 1889",
           "is_correct": false,
-          "feedback": "El comercio creció con los ferrocarriles y las fábricas, de modo que no disminuyó."
+          "feedback": "La Constitución de 1889 rigió el país desde el siglo XIX, pero no resolvió el conflicto armado que terminó en 1992."
         },
         {
           "letter": "D",
-          "text": "Eliminación del trabajo manual",
+          "text": "El Protocolo de Windsor",
           "is_correct": false,
-          "feedback": "El trabajo manual no desapareció, se concentró en las fábricas y las minas."
+          "feedback": "El Protocolo de Windsor es un acuerdo de 1946 entre Guatemala y Belice, no el instrumento de paz de El Salvador."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
+      "correct_answer": "C",
+      "explanation": "Los Acuerdos de Paz de 1992 cerraron la guerra civil y permitieron la reconstrucción del país.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -324,36 +324,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W30-centroamerica-001-MASTERY-bundle-v8",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
+      "statement": "¿Qué organismo regional nació en 1960 para impulsar el desarrollo de América Latina?",
       "context": "Clase de ciencias sociales en San Salvador estudiando centroamerica.",
       "options": [
         {
           "letter": "B",
-          "text": "Derechos humanos fundamentales",
+          "text": "La CEPAL",
           "is_correct": true,
-          "feedback": "La Constitución de un país democrático reconoce los derechos esenciales de toda persona, como la vida, la libertad y la igualdad."
+          "feedback": "La Comisión Económica para América Latina fue creada en 1960 y tiene su sede en Santiago de Chile."
         },
         {
           "letter": "A",
-          "text": "Solo derechos de propiedad",
+          "text": "La ONU",
           "is_correct": false,
-          "feedback": "La propiedad es uno de los derechos, pero la Constitución reconoce muchos más, como la igualdad ante la ley y el debido proceso."
+          "feedback": "La ONU es la organización mundial fundada en 1945, muy anterior y de alcance universal."
         },
         {
           "letter": "C",
-          "text": "Únicamente derechos políticos",
+          "text": "La OEA",
           "is_correct": false,
-          "feedback": "El voto y la participación son parte de los derechos, pero la Constitución protege también derechos civiles y sociales."
+          "feedback": "La OEA es la organización panamericana fundada en 1948 en Bogotá, no en 1960 ni en Managua."
         },
         {
           "letter": "D",
-          "text": "Derechos exclusivos del gobierno",
+          "text": "El Mercado Común Centroamericano",
           "is_correct": false,
-          "feedback": "La Constitución limita al gobierno y protege a los ciudadanos; lo que el Estado tiene frente a ellos son deberes, no derechos."
+          "feedback": "El Mercado Común Centroamericano es un bloque económico, no un organismo creado en Managua en 1960."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
+      "explanation": "En 1960 nació la CEPAL, con sede en Santiago de Chile, para coordinar el desarrollo de América Latina.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -369,36 +369,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W30-centroamerica-001-MASTERY-bundle-v9",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
+      "statement": "¿Cuál de estos países de Centroamérica no tiene costa al Pacífico?",
       "context": "Clase de ciencias sociales en Soyapango estudiando centroamerica.",
       "options": [
         {
           "letter": "D",
-          "text": "Superávit comercial",
+          "text": "El Salvador",
           "is_correct": true,
-          "feedback": "Exportar por encima de las importaciones significa que entra más dinero del que sale, y eso es superávit comercial."
+          "feedback": "El Salvador es el único país americano sin costa al Pacífico; su litoral es el Golfo de Fonseca."
         },
         {
           "letter": "A",
-          "text": "Déficit comercial",
+          "text": "Guatemala",
           "is_correct": false,
-          "feedback": "El déficit es el caso contrario: exportar menos de lo que se importa."
+          "feedback": "Guatemala tiene costa en el Pacífico, con playas del sur."
         },
         {
           "letter": "B",
-          "text": "Balanza equilibrada",
+          "text": "Honduras",
           "is_correct": false,
-          "feedback": "Una balanza equilibrada exige exportar e importar la misma cantidad, y aquí las exportaciones son mayores."
+          "feedback": "Honduras tiene costa en el Golfo de Fonseca y en el mar Caribe."
         },
         {
           "letter": "C",
-          "text": "Crisis económica",
+          "text": "Nicaragua",
           "is_correct": false,
-          "feedback": "Un superávit comercial indica un saldo favorable, no una crisis."
+          "feedback": "Nicaragua tiene una costa larga tanto en el Pacífico como en el Caribe."
         }
       ],
       "correct_answer": "D",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
+      "explanation": "El Salvador es el único país de Centroamérica sin costa al Pacífico.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -414,36 +414,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W30-centroamerica-001-MASTERY-bundle-v10",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
+      "statement": "¿Qué río recorre el oriente del país y recibe a los ríos Lema y San Miguel?",
       "context": "Clase de ciencias sociales en Santa Ana estudiando centroamerica.",
       "options": [
         {
           "letter": "A",
-          "text": "El asesinato del Archiduque Francisco Fernando",
+          "text": "El Río Grande de San Miguel",
           "is_correct": true,
-          "feedback": "El asesinato del Archiduque Francisco Fernando en Sarajevo en junio de 1914 fue el detonante directo de la guerra."
+          "feedback": "Nace en la sierra del oriente y recibe al Lema y al San Miguel antes de llegar al Golfo de Fonseca."
         },
         {
           "letter": "B",
-          "text": "El Tratado de Versalles",
+          "text": "El Río Lempa",
           "is_correct": false,
-          "feedback": "El Tratado de Versalles se firmó en 1919, ya terminada la guerra, para imponer las condiciones de paz a Alemania."
+          "feedback": "El Lempa es el río más largo del país y su cuenca está al centro, no al oriente."
         },
         {
           "letter": "C",
-          "text": "La Revolución Rusa",
+          "text": "El Río Paz",
           "is_correct": false,
-          "feedback": "La Revolución Rusa ocurrió en 1917, durante la guerra, y pertenece a otro conflicto posterior."
+          "feedback": "El Paz corre entre San Vicente y Usulután y desemboca al sur del lado del Pacífico."
         },
         {
           "letter": "D",
-          "text": "La invención del avión",
+          "text": "El Río Acelhuate",
           "is_correct": false,
-          "feedback": "El avión no fue la causa de la guerra; el detonante fue un conflicto entre potencias europeas, y la aviación se usó en los combates."
+          "feedback": "Es un río corto que atraviesa la capital y no recibe los ríos del oriente."
         }
       ],
       "correct_answer": "A",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
+      "explanation": "El Río Grande de San Miguel drena el oriente salvadoreño y desemboca en el Golfo de Fonseca.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -459,36 +459,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W30-centroamerica-001-MASTERY-bundle-v11",
-      "statement": "¿Qué documento establece la organización del Estado?",
+      "statement": "¿En cuántas unidades territoriales se divide El Salvador?",
       "context": "Clase de ciencias sociales en Soyapango estudiando centroamerica.",
       "options": [
         {
           "letter": "C",
-          "text": "La Constitución",
+          "text": "En catorce departamentos",
           "is_correct": true,
-          "feedback": "La Constitución es la norma máxima y es la que fija la organización del Estado y los derechos de la ciudadanía."
+          "feedback": "El país se organiza en catorce departamentos y sus ochenta y dos municipios."
         },
         {
           "letter": "A",
-          "text": "Una ley ordinaria",
+          "text": "En siete departamentos",
           "is_correct": false,
-          "feedback": "Una ley ordinaria es inferior a la Constitución y no puede contradecirla, así que no organiza el Estado por encima de ella."
+          "feedback": "Son catorce departamentos, no siete; esa cifra corresponde a otra división histórica."
         },
         {
           "letter": "B",
-          "text": "Un decreto presidencial",
+          "text": "En treinta y dos departamentos",
           "is_correct": false,
-          "feedback": "Un decreto es un acto del Ejecutivo que aplica una ley; no es el documento que funda la organización del Estado."
+          "feedback": "Los treinta y dos son las entidades federativas de México, no los departamentos salvadoreños."
         },
         {
           "letter": "D",
-          "text": "Un tratado internacional",
+          "text": "En un solo departamento",
           "is_correct": false,
-          "feedback": "Un tratado regula el acuerdo entre dos o más países, no la organización interna de un Estado."
+          "feedback": "El Salvador tiene catorce departamentos y su capital es San Salvador."
         }
       ],
       "correct_answer": "C",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
+      "explanation": "El Salvador se divide en catorce departamentos, que a su vez agrupan ochenta y dos municipios.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -504,36 +504,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W30-centroamerica-001-MASTERY-bundle-v12",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
+      "statement": "¿Qué produce el café salvadoreño?",
       "context": "Clase de ciencias sociales en Soyapango estudiando centroamerica.",
       "options": [
         {
           "letter": "A",
-          "text": "Urbanización masiva y nuevas clases sociales",
+          "text": "Granos tostados para exportar",
           "is_correct": true,
-          "feedback": "Las fábricas concentraron el trabajo en las ciudades: la población rural emigró y surgieron la burguesía industrial y el proletariado."
+          "feedback": "El café se cultiva en las zonas altas y se exporta como grano tostado."
         },
         {
           "letter": "B",
-          "text": "Retorno a la vida agrícola",
+          "text": "Fibras textiles",
           "is_correct": false,
-          "feedback": "La Revolución Industrial diminishó el peso de la agricultura en la economía, en vez de devolver la sociedad al campo."
+          "feedback": "El algodón y no el café se usa para producir fibras textiles."
         },
         {
           "letter": "C",
-          "text": "Disminución del comercio global",
+          "text": "Aceite de oliva",
           "is_correct": false,
-          "feedback": "El comercio creció con los ferrocarriles y las fábricas, de modo que no disminuyó."
+          "feedback": "El aceite de oliva viene del olivo y el café no lo produce."
         },
         {
           "letter": "D",
-          "text": "Eliminación del trabajo manual",
+          "text": "Caucho natural",
           "is_correct": false,
-          "feedback": "El trabajo manual no desapareció, se concentró en las fábricas y las minas."
+          "feedback": "El caucho viene del árbol del mismo nombre y el café no lo produce."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
+      "explanation": "El café salvadoreño se cultiva en las zonas altas y se exporta como grano tostado.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -549,36 +549,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W30-centroamerica-001-MASTERY-bundle-v13",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
+      "statement": "¿Cuántos departamentos tiene El Salvador y cuál es su capital?",
       "context": "Clase de ciencias sociales en San Miguel estudiando centroamerica.",
       "options": [
         {
           "letter": "D",
-          "text": "Derechos humanos fundamentales",
+          "text": "Catorce departamentos, capital San Salvador",
           "is_correct": true,
-          "feedback": "La Constitución de un país democrático reconoce los derechos esenciales de toda persona, como la vida, la libertad y la igualdad."
+          "feedback": "El país tiene catorce departamentos y su capital es San Salvador."
         },
         {
           "letter": "A",
-          "text": "Solo derechos de propiedad",
+          "text": "Trece departamentos, capital San Miguel",
           "is_correct": false,
-          "feedback": "La propiedad es uno de los derechos, pero la Constitución reconoce muchos más, como la igualdad ante la ley y el debido proceso."
+          "feedback": "San Miguel no es la capital, y los departamentos son catorce."
         },
         {
           "letter": "B",
-          "text": "Únicamente derechos políticos",
+          "text": "Veinte departamentos, capital Sonsonate",
           "is_correct": false,
-          "feedback": "El voto y la participación son parte de los derechos, pero la Constitución protege también derechos civiles y sociales."
+          "feedback": "Sonsonate es un departamento del occidente, no la capital del país."
         },
         {
           "letter": "C",
-          "text": "Derechos exclusivos del gobierno",
+          "text": "Catorce departamentos, capital Santa Ana",
           "is_correct": false,
-          "feedback": "La Constitución limita al gobierno y protege a los ciudadanos; lo que el Estado tiene frente a ellos son deberes, no derechos."
+          "feedback": "Los catorce departamentos son correctos, pero la capital es San Salvador."
         }
       ],
       "correct_answer": "D",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
+      "explanation": "El Salvador tiene catorce departamentos agrupados en ochenta y dos municipios, con San Salvador como capital.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -594,36 +594,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W30-centroamerica-001-MASTERY-bundle-v14",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
+      "statement": "¿Qué país centroamericano tiene más población?",
       "context": "Clase de ciencias sociales en San Salvador estudiando centroamerica.",
       "options": [
         {
           "letter": "B",
-          "text": "Superávit comercial",
+          "text": "Guatemala",
           "is_correct": true,
-          "feedback": "Exportar por encima de las importaciones significa que entra más dinero del que sale, y eso es superávit comercial."
+          "feedback": "Es el país más poblado de Centroamérica, con más de dieciocho millones de habitantes."
         },
         {
           "letter": "A",
-          "text": "Déficit comercial",
+          "text": "El Salvador",
           "is_correct": false,
-          "feedback": "El déficit es el caso contrario: exportar menos de lo que se importa."
+          "feedback": "El Salvador es el más pequeño de Centroamérica y tiene unos seis millones de habitantes."
         },
         {
           "letter": "C",
-          "text": "Balanza equilibrada",
+          "text": "Panamá",
           "is_correct": false,
-          "feedback": "Una balanza equilibrada exige exportar e importar la misma cantidad, y aquí las exportaciones son mayores."
+          "feedback": "Panamá pertenece a Centroamérica pero tiene menos habitantes que Guatemala."
         },
         {
           "letter": "D",
-          "text": "Crisis económica",
+          "text": "Costa Rica",
           "is_correct": false,
-          "feedback": "Un superávit comercial indica un saldo favorable, no una crisis."
+          "feedback": "Costa Rica es más pequeño que Guatemala en población y en superficie."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
+      "explanation": "Guatemala concentra la mayor población de Centroamérica, muy por encima del resto de países de la región.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -729,36 +729,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W30-centroamerica-001-MASTERY-bundle-v17",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
+      "statement": "¿Qué clima predomina en las zonas altas de El Salvador?",
       "context": "Clase de ciencias sociales en Santa Ana estudiando centroamerica.",
       "options": [
         {
           "letter": "D",
-          "text": "Urbanización masiva y nuevas clases sociales",
+          "text": "Clima templado de montaña",
           "is_correct": true,
-          "feedback": "Las fábricas concentraron el trabajo en las ciudades: la población rural emigró y surgieron la burguesía industrial y el proletariado."
+          "feedback": "En las alturas el aire es más frío y húmedo, sin las lluvias del verano."
         },
         {
           "letter": "A",
-          "text": "Retorno a la vida agrícola",
+          "text": "Clima tropical lluvioso",
           "is_correct": false,
-          "feedback": "La Revolución Industrial diminishó el peso de la agricultura en la economía, en vez de devolver la sociedad al campo."
+          "feedback": "Las lluvias abundantes son del clima tropical de las zonas bajas."
         },
         {
           "letter": "B",
-          "text": "Disminución del comercio global",
+          "text": "Clima desértico cálido",
           "is_correct": false,
-          "feedback": "El comercio creció con los ferrocarriles y las fábricas, de modo que no disminuyó."
+          "feedback": "El Salvador es húmedo y lluvioso, no un desierto cálido y seco."
         },
         {
           "letter": "C",
-          "text": "Eliminación del trabajo manual",
+          "text": "Clima polar",
           "is_correct": false,
-          "feedback": "El trabajo manual no desapareció, se concentró en las fábricas y las minas."
+          "feedback": "No hay regiones polares en el país; el frío solo llega en las zonas altas."
         }
       ],
       "correct_answer": "D",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
+      "explanation": "El clima de las zonas altas es más fresco y seco que el tropical lluvioso de la costa.",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -774,36 +774,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W30-centroamerica-001-MASTERY-bundle-v18",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
+      "statement": "¿Cuál es la moneda oficial de El Salvador?",
       "context": "Clase de ciencias sociales en San Miguel estudiando centroamerica.",
       "options": [
         {
           "letter": "C",
-          "text": "Derechos humanos fundamentales",
+          "text": "El dólar estadounidense",
           "is_correct": true,
-          "feedback": "La Constitución de un país democrático reconoce los derechos esenciales de toda persona, como la vida, la libertad y la igualdad."
+          "feedback": "El dólar es la moneda oficial y el colón quedó en desuso por completo."
         },
         {
           "letter": "A",
-          "text": "Solo derechos de propiedad",
+          "text": "El peso mexicano",
           "is_correct": false,
-          "feedback": "La propiedad es uno de los derechos, pero la Constitución reconoce muchos más, como la igualdad ante la ley y el debido proceso."
+          "feedback": "El peso mexicano es la moneda de México, no la de El Salvador."
         },
         {
           "letter": "B",
-          "text": "Únicamente derechos políticos",
+          "text": "El euro",
           "is_correct": false,
-          "feedback": "El voto y la participación son parte de los derechos, pero la Constitución protege también derechos civiles y sociales."
+          "feedback": "El euro circula en la zona del euro, muy lejos de Centroamérica."
         },
         {
           "letter": "D",
-          "text": "Derechos exclusivos del gobierno",
+          "text": "La libra esterlina",
           "is_correct": false,
-          "feedback": "La Constitución limita al gobierno y protege a los ciudadanos; lo que el Estado tiene frente a ellos son deberes, no derechos."
+          "feedback": "La libra pertenece al Reino Unido y no se usa en El Salvador."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
+      "explanation": "El dólar estadounidense es la moneda oficial de El Salvador desde que se abandonó el colón.",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -819,36 +819,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W30-centroamerica-001-MASTERY-bundle-v19",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
+      "statement": "¿Qué idioma se enseña en las escuelas de El Salvador?",
       "context": "Clase de ciencias sociales en San Miguel estudiando centroamerica.",
       "options": [
         {
           "letter": "A",
-          "text": "Superávit comercial",
+          "text": "El español",
           "is_correct": true,
-          "feedback": "Exportar por encima de las importaciones significa que entra más dinero del que sale, y eso es superávit comercial."
+          "feedback": "El español es la lengua oficial y la que se enseña en las escuelas."
         },
         {
           "letter": "B",
-          "text": "Déficit comercial",
+          "text": "El inglés",
           "is_correct": false,
-          "feedback": "El déficit es el caso contrario: exportar menos de lo que se importa."
+          "feedback": "El inglés se estudia como lengua extranjera, no como idioma de enseñanza."
         },
         {
           "letter": "C",
-          "text": "Balanza equilibrada",
+          "text": "El náhuatl",
           "is_correct": false,
-          "feedback": "Una balanza equilibrada exige exportar e importar la misma cantidad, y aquí las exportaciones son mayores."
+          "feedback": "El náhuatl fue la lengua de Mesoamérica, no la enseñanza actual."
         },
         {
           "letter": "D",
-          "text": "Crisis económica",
+          "text": "El alemán",
           "is_correct": false,
-          "feedback": "Un superávit comercial indica un saldo favorable, no una crisis."
+          "feedback": "El alemán pertenece al currículo de lenguas extranjeras, no al idioma de enseñanza."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
+      "explanation": "El español es la lengua oficial de El Salvador y el idioma de enseñanza en las escuelas.",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -864,36 +864,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W30-centroamerica-001-MASTERY-bundle-v20",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
+      "statement": "¿Cómo se llama la capital de Honduras?",
       "context": "Clase de ciencias sociales en San Miguel estudiando centroamerica.",
       "options": [
         {
           "letter": "D",
-          "text": "El asesinato del Archiduque Francisco Fernando",
+          "text": "Tegucigalpa",
           "is_correct": true,
-          "feedback": "El asesinato del Archiduque Francisco Fernando en Sarajevo en junio de 1914 fue el detonante directo de la guerra."
+          "feedback": "Tegucigalpa es la capital de Honduras y se ubica en el centro del país."
         },
         {
           "letter": "A",
-          "text": "El Tratado de Versalles",
+          "text": "San Pedro Sula",
           "is_correct": false,
-          "feedback": "El Tratado de Versalles se firmó en 1919, ya terminada la guerra, para imponer las condiciones de paz a Alemania."
+          "feedback": "San Pedro Sula es una ciudad industrial, pero no la capital."
         },
         {
           "letter": "B",
-          "text": "La Revolución Rusa",
+          "text": "La Paz",
           "is_correct": false,
-          "feedback": "La Revolución Rusa ocurrió en 1917, durante la guerra, y pertenece a otro conflicto posterior."
+          "feedback": "La Paz es la capital administrativa de Bolivia, no de Honduras."
         },
         {
           "letter": "C",
-          "text": "La invención del avión",
+          "text": "Managua",
           "is_correct": false,
-          "feedback": "El avión no fue la causa de la guerra; el detonante fue un conflicto entre potencias europeas, y la aviación se usó en los combates."
+          "feedback": "Managua es la capital de Nicaragua, un país distinto."
         }
       ],
       "correct_answer": "D",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
+      "explanation": "Tegucigalpa es la capital de Honduras, el país que limita con El Salvador por el norte.",
       "difficulty": "10",
       "images": [],
       "tags": [],
