@@ -641,5 +641,152 @@ try {
   fs.rmSync(FILE, { force: true });
 }
 
+// duplicate-ignoring-context: two questions that differ ONLY in the Contexto
+// line are the same question to a student. The Contexto names a school and a
+// student's first name, and none of that changes what is being asked.
+//
+// This fixture is built from the defect rather than from a passing bundle: both
+// questions carry the identical stem and the identical four options, and only
+// the school, the city and the student name move. If the fixture were built
+// from a real bundle instead, a change in the stem would make the two questions
+// legitimately different and the case would pass for the wrong reason.
+// `optionsB` defaults to `options`, so the rejecting case passes one set and the
+// accepting case passes two distinct ones. Building the pair from the real
+// defect shape, rather than copying a passing bundle, is what keeps the second
+// case honest: if the options were identical the pair would be a duplicate and
+// the case would pass for the wrong reason.
+// The fixture has to carry the number of questions its frontmatter declares, or
+// the expected-count check rejects the file before the duplicate rules are ever
+// consulted -- and the case would pass or fail for a reason that has nothing to
+// do with the rule under test. LABEL_FM declares 10, so eight unique fillers
+// stand in for the questions that are not part of the pair.
+const FILLERS = [1, 2, 3, 4, 5, 6, 7, 8].map(
+  (n) => `## Question ${n + 2} [D5-D6]\n**ID:** ${ID}-v${n + 2}\n**Bloom:** Remember\n**ICFES:** Numerico\n**Expected_Success:** 0.90\n**Contexto:** Contexto de relleno numero ${n} para completar el bundle.\n\n### Enunciado\nEnunciado de relleno numero ${n} para completar el bundle.\n\n### Opciones\n- [x] A) Respuesta de relleno ${n}\n  <!-- feedback: Correcto. La respuesta de relleno ${n} es la que corresponde a este enunciado. -->\n- [ ] B) Distractor de relleno ${n} uno\n  <!-- feedback: Incorrecto. este distractor no corresponde al enunciado de relleno ${n}. -->\n- [ ] C) Distractor de relleno ${n} dos\n  <!-- feedback: Incorrecto. esta opcion no responde a lo que pide el enunciado ${n}. -->\n- [ ] D) Distractor de relleno ${n} tres\n  <!-- feedback: Incorrecto. esta ultima opcion tampoco corresponde al enunciado ${n}. -->\n\n### Explicacion Pedagogica\nExplicacion pedagogica con suficiente detalle para superar las validaciones de calidad del gate.`
+);
+
+const buildCtxPair = (ctxA, ctxB, stemLine, options, optionsB = options) => {
+  const q = (n, ctx, opts) =>
+    `## Question ${n} [D3-D4]\n` +
+    `**ID:** ${ID}-v${n}\n` +
+    `**Bloom:** Apply\n` +
+    `**ICFES:** Numerico\n` +
+    `**Expected_Success:** 0.80\n` +
+    `**Contexto:** ${ctx}\n` +
+    `### Enunciado\n${stemLine}\n\n` +
+    `### Opciones\n` +
+    opts
+      .map((o, i) => {
+        const mark = i === 0 ? 'x' : ' ';
+        return `- [${mark}] ${'ABCD'[i]}) ${o.text} <!-- feedback: ${o.fb} -->`;
+      })
+      .join('\n') +
+    `\n\n### Explicacion Pedagogica\nExplicacion pedagogica de la pregunta ${n}, con suficiente longitud para superar el umbral de detalle exigido por el validador de calidad.\n\n`;
+  return `${LABEL_FM}\n\n${[q(1, ctxA, options), q(2, ctxB, optionsB), ...FILLERS].join('\n\n')}`;
+};
+
+const SAME_OPTIONS = [
+  { text: '$x = 4$', fb: 'Correcto. Al restar 3 y dividir entre 2 se obtiene exactamente 4.' },
+  { text: '$x = -2$', fb: 'Incorrecto. Produce argumentos negativos en el logaritmo original, asi que no es valida.' },
+  { text: '$x = 2$', fb: 'Incorrecto. Si x = 2, el segundo logaritmo es log de cero, que no esta definido en reales.' },
+  { text: '$x = 8$', fb: 'Incorrecto. No satisface la igualdad al sustituirla en los dos logaritmos a la vez.' },
+];
+
+const LOG_STEM = 'Resuelva la ecuacion logaritmica: log_2(x) + log_2(x - 2) = 3. Cual es la unica solucion real de x?';
+
+const ctxCases = [
+  {
+    name: 'same stem and options, only the school in Contexto differs',
+    expect: 'reject',
+    hit: /duplicate-ignoring-context/,
+    content: () =>
+      buildCtxPair(
+        'En la clase del Colegio Nacional Potosi de Oruro, el estudiante Ramiro investiga.',
+        'En la clase del Colegio Nacional Trinidad de Cobija, el estudiante Jaime investiga.',
+        LOG_STEM,
+        SAME_OPTIONS
+      ),
+  },
+  {
+    name: 'same stem, DIFFERENT options, only Contexto differs: legit',
+    expect: 'accept',
+    hit: /duplicate-ignoring-context/,
+    content: () =>
+      buildCtxPair(
+        'En la clase del Colegio Nacional Potosi de Oruro, el estudiante Ramiro investiga.',
+        'En la clase del Colegio Nacional Trinidad de Cobija, el estudiante Jaime investiga.',
+        // Same generic stem for both, but each question gets its own arithmetic
+        // in the options -- which is exactly how the twenty inequation questions
+        // in PR-MAT-11-W07 are legitimately different despite one shared stem.
+        'Resuelva la ecuacion de primer grado. Cual es el valor de x?',
+        [
+          { text: '$x = 4$', fb: 'Correcto. Al restar 3 y dividir entre 2 se obtiene exactamente 4.' },
+          { text: '$x = -2$', fb: 'Incorrecto. Produce argumentos negativos en el logaritmo original, asi que no es valida.' },
+          { text: '$x = 2$', fb: 'Incorrecto. Si x = 2, el segundo logaritmo es log de cero, que no esta definido en reales.' },
+          { text: '$x = 8$', fb: 'Incorrecto. No satisface la igualdad al sustituirla en los dos logaritmos a la vez.' },
+        ],
+        // The second question's options differ; without this the pair would be a
+        // duplicate and the case would pass for the wrong reason.
+        [
+          { text: '$x = 3$', fb: 'Correcto. Al restar 5 y dividir entre 3 se obtiene exactamente 3.' },
+          { text: '$x = -1$', fb: 'Incorrecto. Produce argumentos negativos en el logaritmo original, asi que no es valida.' },
+          { text: '$x = 5$', fb: 'Incorrecto. Si x = 5, el segundo logaritmo es log de cero, que no esta definido en reales.' },
+          { text: '$x = 7$', fb: 'Incorrecto. No satisface la igualdad al sustituirla en los dos logaritmos a la vez.' },
+        ]
+      ),
+  },
+];
+
+// The exclusion is the interesting half. When the Contexto carries the data the
+// question needs, the same stem and the same options are two different questions
+// and the rule must stay silent. Without this case, tightening the rule to "same
+// stem and options is always a duplicate" would pass, and would be wrong: it
+// would reject the granjero case an earlier regression test already protects.
+ctxCases.push({
+  name: 'same stem+options, Contexto carries different data: accepted',
+  expect: 'accept',
+  hit: /duplicate-ignoring-context/,
+  content: () =>
+    buildCtxPair(
+      'El granjero tiene 3 vacas y 2 ovejas.',
+      'El granjero tiene 3 vacas y 3 ovejas.',
+      'Cuantos animales tiene el granjero en total?',
+      [
+        { text: '5', fb: 'Correcto. La suma de los animales del contexto da exactamente 5 en total.' },
+        { text: '4', fb: 'Incorrecto. Olvidaste sumar una de las dos cantidades que da el contexto.' },
+        { text: '6', fb: 'Incorrecto. Agregaste un animal de mas al total que reporta el contexto.' },
+        { text: '1', fb: 'Incorrecto. Restaste en lugar de sumar los animales que menciona el contexto.' },
+      ]
+    ),
+});
+
+try {
+  for (const c of ctxCases) {
+    fs.writeFileSync(FILE, c.content(), 'utf8');
+    let verdict = 'accept';
+    let msg = '';
+    try {
+      execFileSync('node', [VALIDATOR, FILE], { cwd: REPO, stdio: 'pipe' });
+    } catch (e) {
+      verdict = 'reject';
+      msg = String(e.stderr || '');
+    }
+    // A rejecting case must name the rule it is testing. An accepting case must
+    // NOT mention it at all: the risk there is a rule that fires when it should
+    // not, so the assertion is the absence of the rule, not its presence.
+    // Asserting the presence on both sides is what made these two fail with
+    // validator=accept -- the right verdict, the wrong assertion.
+    const mentions = c.hit ? c.hit.test(msg) : false;
+    const ok = c.expect === 'reject' ? verdict === 'reject' && mentions : verdict === 'accept' && !mentions;
+    console.log(`${ok ? 'PASS' : 'FAIL'}  ${c.name.padEnd(52)} validator=${verdict} (want ${c.expect}) rule=${c.hit && mentions ? 'fired' : 'silent'}`);
+    if (ok) pass += 1;
+    else {
+      fail += 1;
+      console.log(`      msg: ${msg.slice(0, 300).replace(/\n/g, ' | ')}`);
+    }
+  }
+} finally {
+  fs.rmSync(FILE, { force: true });
+}
+
 console.log(`\n${pass} passed, ${fail} failed`);
 process.exit(fail ? 1 : 0);
