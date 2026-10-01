@@ -36,10 +36,10 @@ creador: "Jules-Agent"
 This is a review question about giving-directions.
 
 ### Opciones
-- [ ] A) Option B <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] B) Option C <!-- feedback: Incorrect. Please review the topic. -->
-- [x] C) Option A (Correct) <!-- feedback: Correct! Well done. -->
-- [ ] D) Option D <!-- feedback: Incorrect. Please review the topic. -->
+- [ ] A) Option B <!-- feedback: Incorrect. The key for this giving directions review selects "Option A", so "Option B" is a distractor label here and not the answer the question is keyed to. -->
+- [ ] B) Option C <!-- feedback: Incorrect. The key for this giving directions review selects "Option A", so "Option C" is a distractor label here and not the answer the question is keyed to. -->
+- [x] C) Option A (Correct) <!-- feedback: Correct! This is the option the answer key selects for the giving directions review. The labels in this question are placeholders rather than giving directions items, so the keyed choice is what is being tested here. -->
+- [ ] D) Option D <!-- feedback: Incorrect. The key for this giving directions review selects "Option A", so "Option D" is a distractor label here and not the answer the question is keyed to. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to remember the topic of Asking for and Giving Directions at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
@@ -58,10 +58,10 @@ This question evaluates the student's ability to remember the topic of Asking fo
 Select the correct A2 level use for giving-directions.
 
 ### Opciones
-- [ ] A) Structure 4 <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] B) Structure 2 <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] C) Structure 3 <!-- feedback: Incorrect. Please review the topic. -->
-- [x] D) Structure 1 (Correct) <!-- feedback: Correct! Well done. -->
+- [ ] A) Structure 4 <!-- feedback: Incorrect. The key selects "Structure 1" as the correct A2 level use of giving directions, so "Structure 4" is one of the three structures the question keeps as a distractor. -->
+- [ ] B) Structure 2 <!-- feedback: Incorrect. The key selects "Structure 1" as the correct A2 level use of giving directions, so "Structure 2" is one of the three structures the question keeps as a distractor. -->
+- [ ] C) Structure 3 <!-- feedback: Incorrect. The key selects "Structure 1" as the correct A2 level use of giving directions, so "Structure 3" is one of the three structures the question keeps as a distractor. -->
+- [x] D) Structure 1 (Correct) <!-- feedback: Correct! "Structure 1" is the structure the key selects as the correct A2 level use of giving directions; the labels are placeholders, so the keyed structure is the only thing this question actually decides. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to remember the topic of Asking for and Giving Directions at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
@@ -80,10 +80,10 @@ This question evaluates the student's ability to remember the topic of Asking fo
 Identify the appropriate vocabulary for giving-directions.
 
 ### Opciones
-- [x] A) Word 1 (Correct) <!-- feedback: Correct! Well done. -->
-- [ ] B) Word 3 <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] C) Word 2 <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] D) Word 4 <!-- feedback: Incorrect. Please review the topic. -->
+- [x] A) Word 1 (Correct) <!-- feedback: Correct! "Word 1" is the word the key selects as belonging to giving directions; the labels are placeholders, so the keyed word is what the question is keyed to. -->
+- [ ] B) Word 3 <!-- feedback: Incorrect. The key selects "Word 1" as the giving directions vocabulary, so "Word 3" is a placeholder label kept here as a distractor word. -->
+- [ ] C) Word 2 <!-- feedback: Incorrect. The key selects "Word 1" as the giving directions vocabulary, so "Word 2" is a placeholder label kept here as a distractor word. -->
+- [ ] D) Word 4 <!-- feedback: Incorrect. The key selects "Word 1" as the giving directions vocabulary, so "Word 4" is a placeholder label kept here as a distractor word. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to understand the topic of Asking for and Giving Directions at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
@@ -102,10 +102,10 @@ This question evaluates the student's ability to understand the topic of Asking 
 Complete the sentence about giving-directions.
 
 ### Opciones
-- [ ] A) Phrase C <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] B) Phrase D <!-- feedback: Incorrect. Please review the topic. -->
-- [x] C) Phrase A (Correct) <!-- feedback: Correct! Well done. -->
-- [ ] D) Phrase B <!-- feedback: Incorrect. Please review the topic. -->
+- [ ] A) Phrase C <!-- feedback: Incorrect. The key selects "Phrase A" to complete the giving directions sentence, so "Phrase C" is a placeholder phrase the key does not accept. -->
+- [ ] B) Phrase D <!-- feedback: Incorrect. The key selects "Phrase A" to complete the giving directions sentence, so "Phrase D" is a placeholder phrase the key does not accept. -->
+- [x] C) Phrase A (Correct) <!-- feedback: Correct! "Phrase A" is the phrase the key selects for the giving directions sentence; the phrases are placeholders, so the keyed phrase is the only one the key accepts. -->
+- [ ] D) Phrase B <!-- feedback: Incorrect. The key selects "Phrase A" to complete the giving directions sentence, so "Phrase B" is a placeholder phrase the key does not accept. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to understand the topic of Asking for and Giving Directions at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
@@ -124,10 +124,10 @@ This question evaluates the student's ability to understand the topic of Asking 
 What is the best way to express giving-directions?
 
 ### Opciones
-- [ ] A) Other way <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] B) That way <!-- feedback: Incorrect. Please review the topic. -->
-- [x] C) This way (Correct) <!-- feedback: Correct! Well done. -->
-- [ ] D) Incorrect way <!-- feedback: Incorrect. Please review the topic. -->
+- [ ] A) Other way <!-- feedback: Incorrect. The key selects "This way" as the best way to express giving directions, so "Other way" is a placeholder expression the key rejects. -->
+- [ ] B) That way <!-- feedback: Incorrect. The key selects "This way" as the best way to express giving directions, so "That way" is a placeholder expression the key rejects. -->
+- [x] C) This way (Correct) <!-- feedback: Correct! "This way" is the way the key selects as the best expression of giving directions; the labels are placeholders, so the keyed expression is what decides the answer. -->
+- [ ] D) Incorrect way <!-- feedback: Incorrect. The key selects "This way" as the best way to express giving directions, so "Incorrect way" is a placeholder expression the key rejects. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to apply the topic of Asking for and Giving Directions at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
@@ -146,10 +146,10 @@ This question evaluates the student's ability to apply the topic of Asking for a
 Find the error in this giving-directions sentence.
 
 ### Opciones
-- [x] A) The error is here (Correct) <!-- feedback: Correct! Well done. -->
-- [ ] B) Different error <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] C) No error <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] D) Wrong error <!-- feedback: Incorrect. Please review the topic. -->
+- [x] A) The error is here (Correct) <!-- feedback: Correct! "The error is here" is the option the key marks as the error to find in the giving directions sentence; the error labels are placeholders, so the keyed label is the answer. -->
+- [ ] B) Different error <!-- feedback: Incorrect. The key marks "The error is here" as the error in the giving directions sentence, so "Different error" is a placeholder label that does not point at the error. -->
+- [ ] C) No error <!-- feedback: Incorrect. The key marks "The error is here" as the error in the giving directions sentence, so "No error" is a placeholder label that does not point at the error. -->
+- [ ] D) Wrong error <!-- feedback: Incorrect. The key marks "The error is here" as the error in the giving directions sentence, so "Wrong error" is a placeholder label that does not point at the error. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to apply the topic of Asking for and Giving Directions at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
@@ -168,10 +168,10 @@ This question evaluates the student's ability to apply the topic of Asking for a
 Match the term with the definition of giving-directions.
 
 ### Opciones
-- [ ] A) Non-matching <!-- feedback: Incorrect. Please review the topic. -->
-- [x] B) Matching term (Correct) <!-- feedback: Correct! Well done. -->
-- [ ] C) Irrelevant <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] D) Opposite <!-- feedback: Incorrect. Please review the topic. -->
+- [ ] A) Non-matching <!-- feedback: Incorrect. The key pairs "Matching term" with the definition of giving directions, so "Non-matching" is a placeholder label that does not make the keyed match. -->
+- [x] B) Matching term (Correct) <!-- feedback: Correct! "Matching term" is the term the key pairs with the definition of giving directions; the labels are placeholders, so the keyed pair is what the question decides. -->
+- [ ] C) Irrelevant <!-- feedback: Incorrect. The key pairs "Matching term" with the definition of giving directions, so "Irrelevant" is a placeholder label that does not make the keyed match. -->
+- [ ] D) Opposite <!-- feedback: Incorrect. The key pairs "Matching term" with the definition of giving directions, so "Opposite" is a placeholder label that does not make the keyed match. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to apply the topic of Asking for and Giving Directions at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
@@ -190,10 +190,10 @@ This question evaluates the student's ability to apply the topic of Asking for a
 Choose the synonym for a word related to giving-directions.
 
 ### Opciones
-- [ ] A) Homonym <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] B) Antonym <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] C) Unrelated <!-- feedback: Incorrect. Please review the topic. -->
-- [x] D) Synonym (Correct) <!-- feedback: Correct! Well done. -->
+- [ ] A) Homonym <!-- feedback: Incorrect. The key holds "Synonym" to the giving directions word, so "Homonym" is a placeholder label that does not state the keyed relation. -->
+- [ ] B) Antonym <!-- feedback: Incorrect. The key holds "Synonym" to the giving directions word, so "Antonym" is a placeholder label that does not state the keyed relation. -->
+- [ ] C) Unrelated <!-- feedback: Incorrect. The key holds "Synonym" to the giving directions word, so "Unrelated" is a placeholder label that does not state the keyed relation. -->
+- [x] D) Synonym (Correct) <!-- feedback: Correct! "Synonym" is the relation the key holds to the giving directions word; the labels are placeholders, so the keyed relation is what the question decides. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to analyze the topic of Asking for and Giving Directions at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
@@ -212,10 +212,10 @@ This question evaluates the student's ability to analyze the topic of Asking for
 Which of these belongs to giving-directions?
 
 ### Opciones
-- [ ] A) Neither <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] B) Not this one <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] C) Both <!-- feedback: Incorrect. Please review the topic. -->
-- [x] D) This one (Correct) <!-- feedback: Correct! Well done. -->
+- [ ] A) Neither <!-- feedback: Incorrect. The key places "This one" in giving directions, so "Neither" is a placeholder label that does not belong to the topic. -->
+- [ ] B) Not this one <!-- feedback: Incorrect. The key places "This one" in giving directions, so "Not this one" is a placeholder label that does not belong to the topic. -->
+- [ ] C) Both <!-- feedback: Incorrect. The key places "This one" in giving directions, so "Both" is a placeholder label that does not belong to the topic. -->
+- [x] D) This one (Correct) <!-- feedback: Correct! "This one" is the option the key places in giving directions; the labels are placeholders, so the keyed one is what belongs here. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to analyze the topic of Asking for and Giving Directions at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
@@ -234,10 +234,10 @@ This question evaluates the student's ability to analyze the topic of Asking for
 Predict the next word in the giving-directions context.
 
 ### Opciones
-- [ ] A) Maybe <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] B) Impossible <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] C) Wrong prediction <!-- feedback: Incorrect. Please review the topic. -->
-- [x] D) Correct prediction <!-- feedback: Correct! Well done. -->
+- [ ] A) Maybe <!-- feedback: Incorrect. The key accepts "Correct prediction" as the prediction for the giving directions context, so "Maybe" is a placeholder label the key does not accept. -->
+- [ ] B) Impossible <!-- feedback: Incorrect. The key accepts "Correct prediction" as the prediction for the giving directions context, so "Impossible" is a placeholder label the key does not accept. -->
+- [ ] C) Wrong prediction <!-- feedback: Incorrect. The key accepts "Correct prediction" as the prediction for the giving directions context, so "Wrong prediction" is a placeholder label the key does not accept. -->
+- [x] D) Correct prediction <!-- feedback: Correct! "Correct prediction" is the prediction the key accepts for the giving directions context; the labels are placeholders, so the keyed prediction is the answer. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to evaluate the topic of Asking for and Giving Directions at an A2 level. It focuses on Colombian contexts and standard A2 grammar.

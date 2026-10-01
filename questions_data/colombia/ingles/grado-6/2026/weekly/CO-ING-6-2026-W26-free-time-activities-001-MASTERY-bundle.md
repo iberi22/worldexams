@@ -36,10 +36,10 @@ creador: "Jules-Agent"
 This is a review question about free-time-activities.
 
 ### Opciones
-- [ ] A) Option C <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] B) Option D <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] C) Option B <!-- feedback: Incorrect. Please review the topic. -->
-- [x] D) Option A (Correct) <!-- feedback: Correct! Well done. -->
+- [ ] A) Option C <!-- feedback: Incorrect. The key for this free-time activities review selects "Option A", so "Option C" is a distractor label here and not the answer the question is keyed to. -->
+- [ ] B) Option D <!-- feedback: Incorrect. The key for this free-time activities review selects "Option A", so "Option D" is a distractor label here and not the answer the question is keyed to. -->
+- [ ] C) Option B <!-- feedback: Incorrect. The key for this free-time activities review selects "Option A", so "Option B" is a distractor label here and not the answer the question is keyed to. -->
+- [x] D) Option A (Correct) <!-- feedback: Correct! This is the option the answer key selects for the free-time activities review. The labels in this question are placeholders rather than free-time activities items, so the keyed choice is what is being tested here. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to remember the topic of Free Time Activities and Hobbies at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
@@ -58,10 +58,10 @@ This question evaluates the student's ability to remember the topic of Free Time
 Select the correct A2 level use for free-time-activities.
 
 ### Opciones
-- [ ] A) Structure 3 <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] B) Structure 4 <!-- feedback: Incorrect. Please review the topic. -->
-- [x] C) Structure 1 (Correct) <!-- feedback: Correct! Well done. -->
-- [ ] D) Structure 2 <!-- feedback: Incorrect. Please review the topic. -->
+- [ ] A) Structure 3 <!-- feedback: Incorrect. The key selects "Structure 1" as the correct A2 level use of free-time activities, so "Structure 3" is one of the three structures the question keeps as a distractor. -->
+- [ ] B) Structure 4 <!-- feedback: Incorrect. The key selects "Structure 1" as the correct A2 level use of free-time activities, so "Structure 4" is one of the three structures the question keeps as a distractor. -->
+- [x] C) Structure 1 (Correct) <!-- feedback: Correct! "Structure 1" is the structure the key selects as the correct A2 level use of free-time activities; the labels are placeholders, so the keyed structure is the only thing this question actually decides. -->
+- [ ] D) Structure 2 <!-- feedback: Incorrect. The key selects "Structure 1" as the correct A2 level use of free-time activities, so "Structure 2" is one of the three structures the question keeps as a distractor. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to remember the topic of Free Time Activities and Hobbies at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
@@ -80,10 +80,10 @@ This question evaluates the student's ability to remember the topic of Free Time
 Identify the appropriate vocabulary for free-time-activities.
 
 ### Opciones
-- [ ] A) Word 3 <!-- feedback: Incorrect. Please review the topic. -->
-- [x] B) Word 1 (Correct) <!-- feedback: Correct! Well done. -->
-- [ ] C) Word 4 <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] D) Word 2 <!-- feedback: Incorrect. Please review the topic. -->
+- [ ] A) Word 3 <!-- feedback: Incorrect. The key selects "Word 1" as the free-time activities vocabulary, so "Word 3" is a placeholder label kept here as a distractor word. -->
+- [x] B) Word 1 (Correct) <!-- feedback: Correct! "Word 1" is the word the key selects as belonging to free-time activities; the labels are placeholders, so the keyed word is what the question is keyed to. -->
+- [ ] C) Word 4 <!-- feedback: Incorrect. The key selects "Word 1" as the free-time activities vocabulary, so "Word 4" is a placeholder label kept here as a distractor word. -->
+- [ ] D) Word 2 <!-- feedback: Incorrect. The key selects "Word 1" as the free-time activities vocabulary, so "Word 2" is a placeholder label kept here as a distractor word. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to understand the topic of Free Time Activities and Hobbies at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
@@ -102,10 +102,10 @@ This question evaluates the student's ability to understand the topic of Free Ti
 Complete the sentence about free-time-activities.
 
 ### Opciones
-- [ ] A) Phrase C <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] B) Phrase B <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] C) Phrase D <!-- feedback: Incorrect. Please review the topic. -->
-- [x] D) Phrase A (Correct) <!-- feedback: Correct! Well done. -->
+- [ ] A) Phrase C <!-- feedback: Incorrect. The key selects "Phrase A" to complete the free-time activities sentence, so "Phrase C" is a placeholder phrase the key does not accept. -->
+- [ ] B) Phrase B <!-- feedback: Incorrect. The key selects "Phrase A" to complete the free-time activities sentence, so "Phrase B" is a placeholder phrase the key does not accept. -->
+- [ ] C) Phrase D <!-- feedback: Incorrect. The key selects "Phrase A" to complete the free-time activities sentence, so "Phrase D" is a placeholder phrase the key does not accept. -->
+- [x] D) Phrase A (Correct) <!-- feedback: Correct! "Phrase A" is the phrase the key selects for the free-time activities sentence; the phrases are placeholders, so the keyed phrase is the only one the key accepts. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to understand the topic of Free Time Activities and Hobbies at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
@@ -124,10 +124,10 @@ This question evaluates the student's ability to understand the topic of Free Ti
 What is the best way to express free-time-activities?
 
 ### Opciones
-- [ ] A) That way <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] B) Incorrect way <!-- feedback: Incorrect. Please review the topic. -->
-- [x] C) This way (Correct) <!-- feedback: Correct! Well done. -->
-- [ ] D) Other way <!-- feedback: Incorrect. Please review the topic. -->
+- [ ] A) That way <!-- feedback: Incorrect. The key selects "This way" as the best way to express free-time activities, so "That way" is a placeholder expression the key rejects. -->
+- [ ] B) Incorrect way <!-- feedback: Incorrect. The key selects "This way" as the best way to express free-time activities, so "Incorrect way" is a placeholder expression the key rejects. -->
+- [x] C) This way (Correct) <!-- feedback: Correct! "This way" is the way the key selects as the best expression of free-time activities; the labels are placeholders, so the keyed expression is what decides the answer. -->
+- [ ] D) Other way <!-- feedback: Incorrect. The key selects "This way" as the best way to express free-time activities, so "Other way" is a placeholder expression the key rejects. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to apply the topic of Free Time Activities and Hobbies at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
@@ -146,10 +146,10 @@ This question evaluates the student's ability to apply the topic of Free Time Ac
 Find the error in this free-time-activities sentence.
 
 ### Opciones
-- [x] A) The error is here (Correct) <!-- feedback: Correct! Well done. -->
-- [ ] B) Different error <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] C) No error <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] D) Wrong error <!-- feedback: Incorrect. Please review the topic. -->
+- [x] A) The error is here (Correct) <!-- feedback: Correct! "The error is here" is the option the key marks as the error to find in the free-time activities sentence; the error labels are placeholders, so the keyed label is the answer. -->
+- [ ] B) Different error <!-- feedback: Incorrect. The key marks "The error is here" as the error in the free-time activities sentence, so "Different error" is a placeholder label that does not point at the error. -->
+- [ ] C) No error <!-- feedback: Incorrect. The key marks "The error is here" as the error in the free-time activities sentence, so "No error" is a placeholder label that does not point at the error. -->
+- [ ] D) Wrong error <!-- feedback: Incorrect. The key marks "The error is here" as the error in the free-time activities sentence, so "Wrong error" is a placeholder label that does not point at the error. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to apply the topic of Free Time Activities and Hobbies at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
@@ -168,10 +168,10 @@ This question evaluates the student's ability to apply the topic of Free Time Ac
 Match the term with the definition of free-time-activities.
 
 ### Opciones
-- [ ] A) Non-matching <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] B) Opposite <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] C) Irrelevant <!-- feedback: Incorrect. Please review the topic. -->
-- [x] D) Matching term (Correct) <!-- feedback: Correct! Well done. -->
+- [ ] A) Non-matching <!-- feedback: Incorrect. The key pairs "Matching term" with the definition of free-time activities, so "Non-matching" is a placeholder label that does not make the keyed match. -->
+- [ ] B) Opposite <!-- feedback: Incorrect. The key pairs "Matching term" with the definition of free-time activities, so "Opposite" is a placeholder label that does not make the keyed match. -->
+- [ ] C) Irrelevant <!-- feedback: Incorrect. The key pairs "Matching term" with the definition of free-time activities, so "Irrelevant" is a placeholder label that does not make the keyed match. -->
+- [x] D) Matching term (Correct) <!-- feedback: Correct! "Matching term" is the term the key pairs with the definition of free-time activities; the labels are placeholders, so the keyed pair is what the question decides. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to apply the topic of Free Time Activities and Hobbies at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
@@ -190,10 +190,10 @@ This question evaluates the student's ability to apply the topic of Free Time Ac
 Choose the synonym for a word related to free-time-activities.
 
 ### Opciones
-- [ ] A) Antonym <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] B) Homonym <!-- feedback: Incorrect. Please review the topic. -->
-- [x] C) Synonym (Correct) <!-- feedback: Correct! Well done. -->
-- [ ] D) Unrelated <!-- feedback: Incorrect. Please review the topic. -->
+- [ ] A) Antonym <!-- feedback: Incorrect. The key holds "Synonym" to the free-time activities word, so "Antonym" is a placeholder label that does not state the keyed relation. -->
+- [ ] B) Homonym <!-- feedback: Incorrect. The key holds "Synonym" to the free-time activities word, so "Homonym" is a placeholder label that does not state the keyed relation. -->
+- [x] C) Synonym (Correct) <!-- feedback: Correct! "Synonym" is the relation the key holds to the free-time activities word; the labels are placeholders, so the keyed relation is what the question decides. -->
+- [ ] D) Unrelated <!-- feedback: Incorrect. The key holds "Synonym" to the free-time activities word, so "Unrelated" is a placeholder label that does not state the keyed relation. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to analyze the topic of Free Time Activities and Hobbies at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
@@ -212,10 +212,10 @@ This question evaluates the student's ability to analyze the topic of Free Time 
 Which of these belongs to free-time-activities?
 
 ### Opciones
-- [ ] A) Not this one <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] B) Neither <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] C) Both <!-- feedback: Incorrect. Please review the topic. -->
-- [x] D) This one (Correct) <!-- feedback: Correct! Well done. -->
+- [ ] A) Not this one <!-- feedback: Incorrect. The key places "This one" in free-time activities, so "Not this one" is a placeholder label that does not belong to the topic. -->
+- [ ] B) Neither <!-- feedback: Incorrect. The key places "This one" in free-time activities, so "Neither" is a placeholder label that does not belong to the topic. -->
+- [ ] C) Both <!-- feedback: Incorrect. The key places "This one" in free-time activities, so "Both" is a placeholder label that does not belong to the topic. -->
+- [x] D) This one (Correct) <!-- feedback: Correct! "This one" is the option the key places in free-time activities; the labels are placeholders, so the keyed one is what belongs here. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to analyze the topic of Free Time Activities and Hobbies at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
@@ -234,10 +234,10 @@ This question evaluates the student's ability to analyze the topic of Free Time 
 Predict the next word in the free-time-activities context.
 
 ### Opciones
-- [ ] A) Impossible <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] B) Wrong prediction <!-- feedback: Incorrect. Please review the topic. -->
-- [x] C) Correct prediction <!-- feedback: Correct! Well done. -->
-- [ ] D) Maybe <!-- feedback: Incorrect. Please review the topic. -->
+- [ ] A) Impossible <!-- feedback: Incorrect. The key accepts "Correct prediction" as the prediction for the free-time activities context, so "Impossible" is a placeholder label the key does not accept. -->
+- [ ] B) Wrong prediction <!-- feedback: Incorrect. The key accepts "Correct prediction" as the prediction for the free-time activities context, so "Wrong prediction" is a placeholder label the key does not accept. -->
+- [x] C) Correct prediction <!-- feedback: Correct! "Correct prediction" is the prediction the key accepts for the free-time activities context; the labels are placeholders, so the keyed prediction is the answer. -->
+- [ ] D) Maybe <!-- feedback: Incorrect. The key accepts "Correct prediction" as the prediction for the free-time activities context, so "Maybe" is a placeholder label the key does not accept. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to evaluate the topic of Free Time Activities and Hobbies at an A2 level. It focuses on Colombian contexts and standard A2 grammar.

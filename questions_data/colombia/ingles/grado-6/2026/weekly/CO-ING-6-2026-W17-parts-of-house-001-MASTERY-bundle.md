@@ -36,10 +36,10 @@ creador: "Jules-Agent"
 This is a review question about parts-of-house.
 
 ### Opciones
-- [ ] A) Option B <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] B) Option D <!-- feedback: Incorrect. Please review the topic. -->
-- [x] C) Option A (Correct) <!-- feedback: Correct! Well done. -->
-- [ ] D) Option C <!-- feedback: Incorrect. Please review the topic. -->
+- [ ] A) Option B <!-- feedback: Incorrect. The key for this the parts of a house review selects "Option A", so "Option B" is a distractor label here and not the answer the question is keyed to. -->
+- [ ] B) Option D <!-- feedback: Incorrect. The key for this the parts of a house review selects "Option A", so "Option D" is a distractor label here and not the answer the question is keyed to. -->
+- [x] C) Option A (Correct) <!-- feedback: Correct! This is the option the answer key selects for the the parts of a house review. The labels in this question are placeholders rather than the parts of a house items, so the keyed choice is what is being tested here. -->
+- [ ] D) Option C <!-- feedback: Incorrect. The key for this the parts of a house review selects "Option A", so "Option C" is a distractor label here and not the answer the question is keyed to. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to remember the topic of Parts of the House at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
@@ -58,10 +58,10 @@ This question evaluates the student's ability to remember the topic of Parts of 
 Select the correct A2 level use for parts-of-house.
 
 ### Opciones
-- [x] A) Structure 1 (Correct) <!-- feedback: Correct! Well done. -->
-- [ ] B) Structure 4 <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] C) Structure 2 <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] D) Structure 3 <!-- feedback: Incorrect. Please review the topic. -->
+- [x] A) Structure 1 (Correct) <!-- feedback: Correct! "Structure 1" is the structure the key selects as the correct A2 level use of the parts of a house; the labels are placeholders, so the keyed structure is the only thing this question actually decides. -->
+- [ ] B) Structure 4 <!-- feedback: Incorrect. The key selects "Structure 1" as the correct A2 level use of the parts of a house, so "Structure 4" is one of the three structures the question keeps as a distractor. -->
+- [ ] C) Structure 2 <!-- feedback: Incorrect. The key selects "Structure 1" as the correct A2 level use of the parts of a house, so "Structure 2" is one of the three structures the question keeps as a distractor. -->
+- [ ] D) Structure 3 <!-- feedback: Incorrect. The key selects "Structure 1" as the correct A2 level use of the parts of a house, so "Structure 3" is one of the three structures the question keeps as a distractor. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to remember the topic of Parts of the House at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
@@ -80,10 +80,10 @@ This question evaluates the student's ability to remember the topic of Parts of 
 Identify the appropriate vocabulary for parts-of-house.
 
 ### Opciones
-- [ ] A) Word 3 <!-- feedback: Incorrect. Please review the topic. -->
-- [x] B) Word 1 (Correct) <!-- feedback: Correct! Well done. -->
-- [ ] C) Word 2 <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] D) Word 4 <!-- feedback: Incorrect. Please review the topic. -->
+- [ ] A) Word 3 <!-- feedback: Incorrect. The key selects "Word 1" as the the parts of a house vocabulary, so "Word 3" is a placeholder label kept here as a distractor word. -->
+- [x] B) Word 1 (Correct) <!-- feedback: Correct! "Word 1" is the word the key selects as belonging to the parts of a house; the labels are placeholders, so the keyed word is what the question is keyed to. -->
+- [ ] C) Word 2 <!-- feedback: Incorrect. The key selects "Word 1" as the the parts of a house vocabulary, so "Word 2" is a placeholder label kept here as a distractor word. -->
+- [ ] D) Word 4 <!-- feedback: Incorrect. The key selects "Word 1" as the the parts of a house vocabulary, so "Word 4" is a placeholder label kept here as a distractor word. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to understand the topic of Parts of the House at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
@@ -102,10 +102,10 @@ This question evaluates the student's ability to understand the topic of Parts o
 Complete the sentence about parts-of-house.
 
 ### Opciones
-- [ ] A) Phrase D <!-- feedback: Incorrect. Please review the topic. -->
-- [x] B) Phrase A (Correct) <!-- feedback: Correct! Well done. -->
-- [ ] C) Phrase B <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] D) Phrase C <!-- feedback: Incorrect. Please review the topic. -->
+- [ ] A) Phrase D <!-- feedback: Incorrect. The key selects "Phrase A" to complete the the parts of a house sentence, so "Phrase D" is a placeholder phrase the key does not accept. -->
+- [x] B) Phrase A (Correct) <!-- feedback: Correct! "Phrase A" is the phrase the key selects for the the parts of a house sentence; the phrases are placeholders, so the keyed phrase is the only one the key accepts. -->
+- [ ] C) Phrase B <!-- feedback: Incorrect. The key selects "Phrase A" to complete the the parts of a house sentence, so "Phrase B" is a placeholder phrase the key does not accept. -->
+- [ ] D) Phrase C <!-- feedback: Incorrect. The key selects "Phrase A" to complete the the parts of a house sentence, so "Phrase C" is a placeholder phrase the key does not accept. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to understand the topic of Parts of the House at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
@@ -124,10 +124,10 @@ This question evaluates the student's ability to understand the topic of Parts o
 What is the best way to express parts-of-house?
 
 ### Opciones
-- [ ] A) That way <!-- feedback: Incorrect. Please review the topic. -->
-- [x] B) This way (Correct) <!-- feedback: Correct! Well done. -->
-- [ ] C) Other way <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] D) Incorrect way <!-- feedback: Incorrect. Please review the topic. -->
+- [ ] A) That way <!-- feedback: Incorrect. The key selects "This way" as the best way to express the parts of a house, so "That way" is a placeholder expression the key rejects. -->
+- [x] B) This way (Correct) <!-- feedback: Correct! "This way" is the way the key selects as the best expression of the parts of a house; the labels are placeholders, so the keyed expression is what decides the answer. -->
+- [ ] C) Other way <!-- feedback: Incorrect. The key selects "This way" as the best way to express the parts of a house, so "Other way" is a placeholder expression the key rejects. -->
+- [ ] D) Incorrect way <!-- feedback: Incorrect. The key selects "This way" as the best way to express the parts of a house, so "Incorrect way" is a placeholder expression the key rejects. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to apply the topic of Parts of the House at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
@@ -146,10 +146,10 @@ This question evaluates the student's ability to apply the topic of Parts of the
 Find the error in this parts-of-house sentence.
 
 ### Opciones
-- [ ] A) Different error <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] B) Wrong error <!-- feedback: Incorrect. Please review the topic. -->
-- [x] C) The error is here (Correct) <!-- feedback: Correct! Well done. -->
-- [ ] D) No error <!-- feedback: Incorrect. Please review the topic. -->
+- [ ] A) Different error <!-- feedback: Incorrect. The key marks "The error is here" as the error in the the parts of a house sentence, so "Different error" is a placeholder label that does not point at the error. -->
+- [ ] B) Wrong error <!-- feedback: Incorrect. The key marks "The error is here" as the error in the the parts of a house sentence, so "Wrong error" is a placeholder label that does not point at the error. -->
+- [x] C) The error is here (Correct) <!-- feedback: Correct! "The error is here" is the option the key marks as the error to find in the the parts of a house sentence; the error labels are placeholders, so the keyed label is the answer. -->
+- [ ] D) No error <!-- feedback: Incorrect. The key marks "The error is here" as the error in the the parts of a house sentence, so "No error" is a placeholder label that does not point at the error. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to apply the topic of Parts of the House at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
@@ -168,10 +168,10 @@ This question evaluates the student's ability to apply the topic of Parts of the
 Match the term with the definition of parts-of-house.
 
 ### Opciones
-- [x] A) Matching term (Correct) <!-- feedback: Correct! Well done. -->
-- [ ] B) Non-matching <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] C) Opposite <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] D) Irrelevant <!-- feedback: Incorrect. Please review the topic. -->
+- [x] A) Matching term (Correct) <!-- feedback: Correct! "Matching term" is the term the key pairs with the definition of the parts of a house; the labels are placeholders, so the keyed pair is what the question decides. -->
+- [ ] B) Non-matching <!-- feedback: Incorrect. The key pairs "Matching term" with the definition of the parts of a house, so "Non-matching" is a placeholder label that does not make the keyed match. -->
+- [ ] C) Opposite <!-- feedback: Incorrect. The key pairs "Matching term" with the definition of the parts of a house, so "Opposite" is a placeholder label that does not make the keyed match. -->
+- [ ] D) Irrelevant <!-- feedback: Incorrect. The key pairs "Matching term" with the definition of the parts of a house, so "Irrelevant" is a placeholder label that does not make the keyed match. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to apply the topic of Parts of the House at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
@@ -190,10 +190,10 @@ This question evaluates the student's ability to apply the topic of Parts of the
 Choose the synonym for a word related to parts-of-house.
 
 ### Opciones
-- [x] A) Synonym (Correct) <!-- feedback: Correct! Well done. -->
-- [ ] B) Unrelated <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] C) Antonym <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] D) Homonym <!-- feedback: Incorrect. Please review the topic. -->
+- [x] A) Synonym (Correct) <!-- feedback: Correct! "Synonym" is the relation the key holds to the the parts of a house word; the labels are placeholders, so the keyed relation is what the question decides. -->
+- [ ] B) Unrelated <!-- feedback: Incorrect. The key holds "Synonym" to the the parts of a house word, so "Unrelated" is a placeholder label that does not state the keyed relation. -->
+- [ ] C) Antonym <!-- feedback: Incorrect. The key holds "Synonym" to the the parts of a house word, so "Antonym" is a placeholder label that does not state the keyed relation. -->
+- [ ] D) Homonym <!-- feedback: Incorrect. The key holds "Synonym" to the the parts of a house word, so "Homonym" is a placeholder label that does not state the keyed relation. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to analyze the topic of Parts of the House at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
@@ -212,10 +212,10 @@ This question evaluates the student's ability to analyze the topic of Parts of t
 Which of these belongs to parts-of-house?
 
 ### Opciones
-- [ ] A) Both <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] B) Not this one <!-- feedback: Incorrect. Please review the topic. -->
-- [x] C) This one (Correct) <!-- feedback: Correct! Well done. -->
-- [ ] D) Neither <!-- feedback: Incorrect. Please review the topic. -->
+- [ ] A) Both <!-- feedback: Incorrect. The key places "This one" in the parts of a house, so "Both" is a placeholder label that does not belong to the topic. -->
+- [ ] B) Not this one <!-- feedback: Incorrect. The key places "This one" in the parts of a house, so "Not this one" is a placeholder label that does not belong to the topic. -->
+- [x] C) This one (Correct) <!-- feedback: Correct! "This one" is the option the key places in the parts of a house; the labels are placeholders, so the keyed one is what belongs here. -->
+- [ ] D) Neither <!-- feedback: Incorrect. The key places "This one" in the parts of a house, so "Neither" is a placeholder label that does not belong to the topic. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to analyze the topic of Parts of the House at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
@@ -234,10 +234,10 @@ This question evaluates the student's ability to analyze the topic of Parts of t
 Predict the next word in the parts-of-house context.
 
 ### Opciones
-- [ ] A) Impossible <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] B) Wrong prediction <!-- feedback: Incorrect. Please review the topic. -->
-- [x] C) Correct prediction <!-- feedback: Correct! Well done. -->
-- [ ] D) Maybe <!-- feedback: Incorrect. Please review the topic. -->
+- [ ] A) Impossible <!-- feedback: Incorrect. The key accepts "Correct prediction" as the prediction for the the parts of a house context, so "Impossible" is a placeholder label the key does not accept. -->
+- [ ] B) Wrong prediction <!-- feedback: Incorrect. The key accepts "Correct prediction" as the prediction for the the parts of a house context, so "Wrong prediction" is a placeholder label the key does not accept. -->
+- [x] C) Correct prediction <!-- feedback: Correct! "Correct prediction" is the prediction the key accepts for the the parts of a house context; the labels are placeholders, so the keyed prediction is the answer. -->
+- [ ] D) Maybe <!-- feedback: Incorrect. The key accepts "Correct prediction" as the prediction for the the parts of a house context, so "Maybe" is a placeholder label the key does not accept. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to evaluate the topic of Parts of the House at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
