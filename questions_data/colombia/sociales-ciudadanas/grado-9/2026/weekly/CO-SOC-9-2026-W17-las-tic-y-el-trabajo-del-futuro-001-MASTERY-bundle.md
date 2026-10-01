@@ -19,9 +19,9 @@ tier: "legacy"
 creador: "Jules-Agent"
 ---
 
-# Bundle MASTERY: Las tecnologias de la información y el trabajo del futuro - Grado 9
+# Bundle MASTERY: Las tecnologías de la información y el trabajo del futuro - Grado 9
 
-Este bundle reune 12 preguntas sobre las tecnologias de la información y los cambios que introducen en el mundo del trabajo. Evalua el concepto de TIC, la brecha digital, la automatizacion, las competencias laborales, la seguridad informatica y la formacion continua. Los escenarios parten de situaciones reales de estudiantes y trabajadores en ciudades colombianas.
+Este bundle reune 12 preguntas sobre las tecnologías de la información y los cambios que introducen en el mundo del trabajo. Evalua el concepto de TIC, la brecha digital, la automatizacion, las competencias laborales, la seguridad informatica y la formacion continua. Los escenarios parten de situaciones reales de estudiantes y trabajadores en ciudades colombianas.
 
 ## Question 1 [D3-D4]
 **ID:** CO-SOC-9-2026-W17-las-tic-y-el-trabajo-del-futuro-001-MASTERY-bundle-v1
@@ -35,16 +35,16 @@ Este bundle reune 12 preguntas sobre las tecnologias de la información y los ca
 
 ### Opciones
 - [ ] A) Son los programas de television que permiten organizar citas medicas a distancia.
-  <!-- feedback: Incorrecto. Un programa de television es un medio de comunicacion, y no una tecnologia que procese y transmita datos de forma interactiva. -->
-- [x] B) Son las tecnologias de la informacion y la comunicacion, conjunto de herramientas que permiten procesar, transmitir y almacenar datos.
+  <!-- feedback: Incorrecto. Un programa de television es un medio de comunicacion, y no una tecnología que procese y transmita datos de forma interactiva. -->
+- [x] B) Son las tecnologías de la información y la comunicacion, conjunto de herramientas que permiten procesar, transmitir y almacenar datos.
   <!-- feedback: Correcto. Las TIC agrupan computador, telefonia, internet y software, y su funcion comun es manipular información. -->
 - [ ] C) Son las empresas que producen equipos de computo en la ciudad de Pereira.
-  <!-- feedback: Incorrecto. Las TIC no son un sector economico, sino un conjunto de herramientas y tecnologias. -->
+  <!-- feedback: Incorrecto. Las TIC no son un sector economico, sino un conjunto de herramientas y tecnologías. -->
 - [ ] D) Son los cursos de capacitacion que el Estado ofrece a los trabajadores.
   <!-- feedback: Incorrecto. La formacion es una respuesta a la falta de competencias, y no es lo que significa TIC. -->
 
 ### Explicacion Pedagogica
-Las TIC son el conjunto de herramientas que permiten producir, transmitir y almacenar información de manera automatizada. Incluyen el computador, el telefono, internet y el software. Reconocer el concepto permite distinguir el uso cotidiano de la tecnologia de su impacto en el trabajo. Es la base para analizar el resto de las preguntas del bundle.
+Las TIC son el conjunto de herramientas que permiten producir, transmitir y almacenar información de manera automatizada. Incluyen el computador, el telefono, internet y el software. Reconocer el concepto permite distinguir el uso cotidiano de la tecnología de su impacto en el trabajo. Es la base para analizar el resto de las preguntas del bundle.
 
 ## Question 2 [D3-D4]
 **ID:** CO-SOC-9-2026-W17-las-tic-y-el-trabajo-del-futuro-001-MASTERY-bundle-v2
@@ -59,15 +59,15 @@ Las TIC son el conjunto de herramientas que permiten producir, transmitir y alma
 ### Opciones
 - [ ] A) Es la diferencia de velocidad entre un celular de gama alta y uno economico.
   <!-- feedback: Incorrecto. La brecha digital no es una diferencia entre equipos, sino entre personas y sus accesos. -->
-- [x] B) Es la desigualdad en el acceso y en el uso de las tecnologias entre personas, grupos y territorios.
+- [x] B) Es la desigualdad en el acceso y en el uso de las tecnologías entre personas, grupos y territorios.
   <!-- feedback: Correcto. La brecha digital mide quanto acceso y uso real tienen las personas, y no solo cuanto equipo existe. -->
-- [ ] C) Es el numero de productos que se venden por internet cada mes en el pais.
-  <!-- feedback: Incorrecto. El volumen de ventas en linea es un dato comercial, y no mide el acceso desigual a la tecnologia. -->
+- [ ] C) Es el número de productos que se venden por internet cada mes en el pais.
+  <!-- feedback: Incorrecto. El volumen de ventas en linea es un dato comercial, y no mide el acceso desigual a la tecnología. -->
 - [ ] D) Es la distancia entre la velocidad de conexion de una ciudad y la de un municipio pequeno.
   <!-- feedback: Incorrecto. La brecha digital no es solo de velocidad, e incluye también la propiedad de equipos y las habilidades. -->
 
 ### Explicacion Pedagogica
-Es el concepto clave para evaluar las politicas publicas de inclusion digital y para disenar respuestas que no profundicen la desigualdad entre zonas rurales y urbanas del país.
+Es el concepto clave para evaluar las políticas publicas de inclusion digital y para disenar respuestas que no profundicen la desigualdad entre zonas rurales y urbanas del país.
 
 ## Question 3 [D5-D6]
 **ID:** CO-SOC-9-2026-W17-las-tic-y-el-trabajo-del-futuro-001-MASTERY-bundle-v3
@@ -82,15 +82,15 @@ Es el concepto clave para evaluar las politicas publicas de inclusion digital y 
 ### Opciones
 - [ ] A) Elimina la necesidad de personas en la almacen, porque el programa hace todo el trabajo.
   <!-- feedback: Incorrecto. El programa registra datos, y no reemplaza el criterio ni la atencion que requieren las personas. -->
-- [ ] B) Reduce la cantidad de informacion disponible para el almacen, porque el sistema ordena menos datos que el cuaderno.
+- [ ] B) Reduce la cantidad de información disponible para el almacen, porque el sistema ordena menos datos que el cuaderno.
   <!-- feedback: Incorrecto. El sistema genera más información y más rapida, y no menos. -->
 - [x] C) Cambia la forma de trabajar: la persona debe registrar, consultar e interpretar datos en lugar de anotar a mano.
-  <!-- feedback: Correcto. La tecnologia desplaza la tarea de transcripcion y concentra el trabajo en el analisis de la información. -->
+  <!-- feedback: Correcto. La tecnología desplaza la tarea de transcripcion y concentra el trabajo en el analisis de la información. -->
 - [ ] D) Mantiene el trabajo exactamente igual, porque el cuaderno y el sistema producen el mismo resultado.
   <!-- feedback: Incorrecto. El resultado puede ser el mismo pedido, y las tareas que se requieren para llegar a el son distintas. -->
 
 ### Explicacion Pedagogica
-La tecnologia no elimina el trabajo: cambia su contenido. Cuando un sistema registra los pedidos, la persona deja de transcribir y pasa a revisar, interpretar y decidir sobre esos datos. Ese desplazamiento exige nuevas competencias, como leer información digital. Comprenderlo ayuda a explicar por que la formacion se vuelve inseparable de la tecnologia.
+La tecnología no elimina el trabajo: cambia su contenido. Cuando un sistema registra los pedidos, la persona deja de transcribir y pasa a revisar, interpretar y decidir sobre esos datos. Ese desplazamiento exige nuevas competencias, como leer información digital. Comprenderlo ayuda a explicar por que la formacion se vuelve inseparable de la tecnología.
 
 ## Question 4 [D5-D6]
 **ID:** CO-SOC-9-2026-W17-las-tic-y-el-trabajo-del-futuro-001-MASTERY-bundle-v4
@@ -100,7 +100,7 @@ La tecnologia no elimina el trabajo: cambia su contenido. Cuando un sistema regi
 **Contexto:** Una Adriana de 16 anos de Soacha recibe una oferta para trabajar medio tiempo en una tienda por Internet, y la empresa pide el número de su cuenta bancaria.
 
 ### Enunciado
- Que competencia se esta evaluando en el proceso de seleccion de ese trabajo?
+ Que competencia se esta evaluando en el proceso de selección de ese trabajo?
 
 ### Opciones
 - [ ] A) La capacidad de resolver problemas de matematica sin usar calculadora.
@@ -113,7 +113,7 @@ La tecnologia no elimina el trabajo: cambia su contenido. Cuando un sistema regi
   <!-- feedback: Incorrecto. El trabajo por Internet es precisamente una forma de empleo, y si se esta evaluando su competencia digital. -->
 
 ### Explicacion Pedagogica
-Un proceso de seleccion digital evalua dos competencias: el manejo critico de las herramientas y la comunicacion a distancia. Saber usar un sistema es distinto a entender que sirve y para que. Esa diferencia separa a un usuario corriente de un profesional de la información. Reconocer esas competencias permite entender por que el trabajo exige habilidades nuevas.
+Un proceso de selección digital evalua dos competencias: el manejo critico de las herramientas y la comunicacion a distancia. Saber usar un sistema es distinto a entender que sirve y para que. Esa diferencia separa a un usuario corriente de un profesional de la información. Reconocer esas competencias permite entender por que el trabajo exige habilidades nuevas.
 
 ## Question 5 [D5-D6]
 **ID:** CO-SOC-9-2026-W17-las-tic-y-el-trabajo-del-futuro-001-MASTERY-bundle-v5
@@ -128,11 +128,11 @@ Un proceso de seleccion digital evalua dos competencias: el manejo critico de la
 ### Opciones
 - [ ] A) Compartir el codigo, porque las becas solo se activan con ese dato.
   <!-- feedback: Incorrecto. Ninguna beca legitima pide la clave bancaria, y compartirla da acceso total a los fondos. -->
-- [ ] B) Compartir el codigo solo con el remitente, porque la informacion privada se protege con confianza.
+- [ ] B) Compartir el codigo solo con el remitente, porque la información privada se protege con confianza.
   <!-- feedback: Incorrecto. La confianza no sustituye la seguridad, y ese pedido es el esquema tipico del fraude. -->
 - [x] C) No compartir el dato, ignorar el mensaje y reportarlo a la plataforma o autoridad competente.
   <!-- feedback: Correcto. La clave nunca se pide por mensaje, y reportar el intento es la conducta responsable. -->
-- [ ] D) Cambiar de numero de celular, porque el problema es que el celular es viejo.
+- [ ] D) Cambiar de número de celular, porque el problema es que el celular es viejo.
   <!-- feedback: Incorrecto. El problema no es el dispositivo, y el atacante no dejaria de intentar con el nuevo. -->
 
 ### Explicacion Pedagogica
@@ -205,7 +205,7 @@ La formacion continua es la actualizacion permanente de conocimientos y habilida
   <!-- feedback: Incorrecto. La brecha tiene causas estructurales como la conectividad y la formacion, no solo decisiones individuales. -->
 
 ### Explicacion Pedagogica
-Es la base para orientar politicas de inclusion digital con alcance regional, y para decidir donde invertir antes de que la brecha se consolide como una diferencia permanente de oportunidades.
+Es la base para orientar políticas de inclusion digital con alcance regional, y para decidir donde invertir antes de que la brecha se consolide como una diferencia permanente de oportunidades.
 
 ## Question 9 [D7-D8]
 **ID:** CO-SOC-9-2026-W17-las-tic-y-el-trabajo-del-futuro-001-MASTERY-bundle-v9
@@ -235,7 +235,7 @@ La automatizacion de decisiones laborales plantea un problema etico cuando deja 
 **Bloom:** Evaluate
 **ICFES:** Reflexión ética y política
 **Expected_Success:** 0.65
-**Contexto:** Un programa departamental propone que toda oferta de empleo en el sector publico se publique unicamente en linea.
+**Contexto:** Un programa departamental propone que toda oferta de empleo en el sector público se publique unicamente en linea.
 
 ### Enunciado
  Esta bien justificada esa medida frente al principio de acceso al empleo?
@@ -247,7 +247,7 @@ La automatizacion de decisiones laborales plantea un problema etico cuando deja 
   <!-- feedback: Correcto. La publicacion digital es util, y se vuelve excluyente si es la unica via disponible. -->
 - [ ] B) Si, porque el Estado no tiene la obligacion de garantizar el acceso al empleo de forma universal.
   <!-- feedback: Incorrecto. El acceso al trabajo es un derecho constitucional, y su garantia no puede dejarse a la buena voluntad. -->
-- [ ] D) No, porque ninguna medida estatal puede usar Internet, por ser una tecnologia de origen privado.
+- [ ] D) No, porque ninguna medida estatal puede usar Internet, por ser una tecnología de origen privado.
   <!-- feedback: Incorrecto. El Estado puede y debe usar herramientas digitales para garantizar derechos, y su origen privado no lo impide. -->
 
 ### Explicacion Pedagogica
@@ -270,8 +270,8 @@ Evaluar una medida de modernizacion exige preguntar a quien deja fuera. Publicar
   <!-- feedback: Correcto. Sin manejo de herramientas digitales, una persona queda fuera de servicios basicos del Estado. -->
 - [ ] C) Es suficiente, porque el manejo del celular reemplaza cualquier necesidad de formacion laboral.
   <!-- feedback: Incorrecto. Saber usar un celular es apenas una base, y no reemplaza la formacion tecnica de un oficio. -->
-- [ ] D) Es contraproducente, porque la propagacion de la tecnologia acelera la exclusion de los adultos mayores.
-  <!-- feedback: Incorrecto. Formar en tecnologia reduce la exclusion, y no la aumenta: es justamente el mecanismo de inclusion. -->
+- [ ] D) Es contraproducente, porque la propagacion de la tecnología acelera la exclusion de los adultos mayores.
+  <!-- feedback: Incorrecto. Formar en tecnología reduce la exclusion, y no la aumenta: es justamente el mecanismo de inclusion. -->
 
 ### Explicacion Pedagogica
 La alfabetizacion digital es una política de inclusion con efectos directos en los derechos. Permite cobrar, pedir citas, consultar el historial laboral y acceder a la salud sin depender de terceros. Por eso es pertinente en cualquier municipio, independientemente de la edad de sus habitantes. Evaluar una iniciativa así exige mirar a quien habilita, y no solo a quien la realiza.
