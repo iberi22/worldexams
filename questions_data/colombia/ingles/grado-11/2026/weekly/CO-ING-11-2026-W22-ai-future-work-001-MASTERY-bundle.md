@@ -57,20 +57,20 @@ This question tests advanced vocabulary (verbs of change and impact) suitable fo
 **Contexto:** Discussing ai & future of work in Pereira.
 
 ### Enunciado
-In the context of ai & future of work, which word best completes the following sentence: 'The government's failure to address the issue has only served to __________ the social divide'?
+In the context of ai & future of work, which word best completes the following sentence: 'A hiring model deployed without an audit of its training data can __________ candidates from groups the data never represented'?
 
 ### Opciones
-- [x] B) exacerbate
-  <!-- feedback: Correct. 'Exacerbate' means to make a problem or bad situation worse, which fits perfectly here. -->
-- [ ] A) alleviate
-  <!-- feedback: Incorrect. 'Alleviate' means to make something less severe, which is the opposite of what's needed. -->
-- [ ] C) mitigate
-  <!-- feedback: Incorrect. 'Mitigate' means to make something less severe, which doesn't fit the negative consequence implied. -->
-- [ ] D) facilitate
-  <!-- feedback: Incorrect. 'Facilitate' means to make an action or process easy or easier, which is not appropriate for a social divide. -->
+- [x] A) exclude
+  <!-- feedback: 'Exclude' means to leave out or bar from participation, and the sentence describes a screening model that filters out people who never appeared in its training set. -->
+- [ ] B) exploit
+  <!-- feedback: 'Exploit' means to use unfairly or take advantage of, and the clause is about candidates being left out rather than being used. -->
+- [ ] C) expose
+  <!-- feedback: 'Expose' means to make something visible or vulnerable, and the sentence is about exclusion from a process, not about disclosure. -->
+- [ ] D) excuse
+  <!-- feedback: 'Excuse' means to forgive or justify, and nothing in the clause describes absolution or a reason offered for someone's conduct. -->
 
-### Explicacion Pedagogica
-This question tests advanced vocabulary (verbs of change and impact) suitable for C1+ level.
+### Explicación Pedagógica
+The preposition 'from' marks what is left out, and 'exclude' is the verb that carries that sense: the model bars candidates whose groups were absent from its training data. The other options all concern using, revealing or forgiving, and none of them fits a filter that removes applicants.
 
 ---
 
@@ -82,20 +82,20 @@ This question tests advanced vocabulary (verbs of change and impact) suitable fo
 **Contexto:** Discussing ai & future of work in Manizales.
 
 ### Enunciado
-In the context of ai & future of work, which word best completes the following sentence: 'The government's failure to address the issue has only served to __________ the social divide'?
+In the context of ai & future of work, which word best completes the following sentence: 'The promise that automation would shorten the working week has so far __________ the hours of the people it was meant to liberate'?
 
 ### Opciones
-- [x] C) exacerbate
-  <!-- feedback: Correct. 'Exacerbate' means to make a problem or bad situation worse, which fits perfectly here. -->
-- [ ] A) alleviate
-  <!-- feedback: Incorrect. 'Alleviate' means to make something less severe, which is the opposite of what's needed. -->
-- [ ] B) mitigate
-  <!-- feedback: Incorrect. 'Mitigate' means to make something less severe, which doesn't fit the negative consequence implied. -->
-- [ ] D) facilitate
-  <!-- feedback: Incorrect. 'Facilitate' means to make an action or process easy or easier, which is not appropriate for a social divide. -->
+- [x] A) extended
+  <!-- feedback: 'Extend' means to make something longer in time or space, and the sentence reports the opposite of the promised effect: the working day grew instead of shrinking. -->
+- [ ] B) intended
+  <!-- feedback: 'Intend' means to plan or mean to do something, and the clause reports a measurable outcome rather than an intention held by the proponents. -->
+- [ ] C) attended
+  <!-- feedback: 'Attend' means to be present at, and the sentence is about the length of a working week rather than anyone's presence at an event. -->
+- [ ] D) invented
+  <!-- feedback: 'Invent' means to create something new, and the clause says a promise had an effect on hours, which is a claim about duration rather than about origin. -->
 
-### Explicacion Pedagogica
-This question tests advanced vocabulary (verbs of change and impact) suitable for C1+ level.
+### Explicación Pedagógica
+The concessive structure 'has so far' signals that the expected benefit failed to appear, and the verb has to name what actually happened to the hours: they became longer. 'Extended' captures that reversal, while the other options describe intention, presence or invention, none of which the clause supports.
 
 ---
 
@@ -107,22 +107,20 @@ This question tests advanced vocabulary (verbs of change and impact) suitable fo
 **Contexto:** Discussing ai & future of work in Pereira.
 
 ### Enunciado
-In the context of ai & future of work, which word best completes the following sentence: 'The government's failure to address the issue has only served to __________ the social divide'?
+A manager says, 'I concede that the AI system still makes errors.' What does 'concede' mean in this statement?
 
 ### Opciones
-- [x] A) exacerbate
-  <!-- feedback: Correct. 'Exacerbate' means to make a problem or bad situation worse, which fits perfectly here. -->
-- [ ] B) alleviate
-  <!-- feedback: Incorrect. 'Alleviate' means to make something less severe, which is the opposite of what's needed. -->
-- [ ] C) mitigate
-  <!-- feedback: Incorrect. 'Mitigate' means to make something less severe, which doesn't fit the negative consequence implied. -->
-- [ ] D) facilitate
-  <!-- feedback: Incorrect. 'Facilitate' means to make an action or process easy or easier, which is not appropriate for a social divide. -->
+- [ ] A) To predict that something will happen.
+  <!-- feedback: Predict refers to forecasting an event; the manager is acknowledging an existing limitation. -->
+- [ ] B) To order someone to change something.
+  <!-- feedback: Order expresses a command, but the manager is admitting a point rather than directing an action. -->
+- [x] C) To admit a point, often reluctantly.
+  <!-- feedback: Concede means to acknowledge that a point is true, often when it weakens one's position in a discussion. -->
+- [ ] D) To reject a claim as false.
+  <!-- feedback: Rejecting a claim would mean denying the errors, whereas concede acknowledges that the system makes them. -->
 
 ### Explicacion Pedagogica
-This question tests advanced vocabulary (verbs of change and impact) suitable for C1+ level.
-
----
+Concede is a reporting verb used to acknowledge a point, often reluctantly. Here, the manager admits a limitation of the AI system.
 
 ## Question 5 [D5-D6]
 **ID:** CO-ING-11-2026-W22-ai-future-work-001-MASTERY-bundle-v5
@@ -232,22 +230,20 @@ This question requires inferential reading skills to understand how complex stru
 **Contexto:** Discussing ai & future of work in Pereira.
 
 ### Enunciado
-According to a recent report on ai & future of work in Pereira, what is implied about the role of Advanced Reporting Verbs in shaping public opinion?
+An analyst says to the company, 'You should retrain employees before introducing the AI tool.' Which reported version preserves this advice and uses the correct verb pattern?
 
 ### Opciones
-- [x] D) It serves as a critical tool for nuanced communication.
-  <!-- feedback: The report treats Advanced Reporting Verbs as a precise instrument: it lets a writer qualify a claim instead of overstating it, which is why it is described as a tool for nuanced communication. -->
-- [ ] A) It is largely irrelevant to the general public.
-  <!-- feedback: Calling it irrelevant contradicts the report, which argues for a shared standard of precision that any reader, not only specialists, relies on. -->
-- [ ] B) It simplifies complex socio-political messages.
-  <!-- feedback: Advanced Reporting Verbs add a layer of qualification rather than removing one, so it makes the argument harder, not simpler. -->
-- [ ] C) It is only used by academic elites in {city}.
-  <!-- feedback: The report presents Advanced Reporting Verbs as common in journalism, advertising and everyday debate, so it is not restricted to academics. -->
+- [ ] A) The analyst recommended to retrain employees before introducing the AI tool.
+  <!-- feedback: Recommend does not normally take a direct to-infinitive complement; recommended retraining is the appropriate pattern here. -->
+- [ ] B) The analyst denied retraining employees before introducing the AI tool.
+  <!-- feedback: Denied retraining rejects a claim about an action; it does not report advice that the company should retrain employees. -->
+- [x] C) The analyst recommended retraining employees before introducing the AI tool.
+  <!-- feedback: Recommend can be followed by an -ing form, and retraining accurately reports the proposed action as advice. -->
+- [ ] D) The analyst promised to retrain employees before introducing the AI tool.
+  <!-- feedback: Promised to retrain makes the analyst commit to performing the training, which changes advice into a personal commitment. -->
 
 ### Explicacion Pedagogica
-This question requires inferential reading skills to understand how complex structures convey deeper meaning.
-
----
+Recommend plus an -ing form reports a suggested course of action. It preserves the analyst's advice without making the analyst responsible for carrying it out.
 
 ## Question 10 [D5-D6]
 **ID:** CO-ING-11-2026-W22-ai-future-work-001-MASTERY-bundle-v10
@@ -257,22 +253,20 @@ This question requires inferential reading skills to understand how complex stru
 **Contexto:** Discussing ai & future of work in Pereira.
 
 ### Enunciado
-According to a recent report on ai & future of work in Pereira, what is implied about the role of Advanced Reporting Verbs in shaping public opinion?
+A supervisor tells the staff, 'Do not upload customers' private records to the public chatbot.' Which sentence accurately reports this warning?
 
 ### Opciones
-- [x] B) It serves as a critical tool for nuanced communication.
-  <!-- feedback: The report treats Advanced Reporting Verbs as a precise instrument: it lets a writer qualify a claim instead of overstating it, which is why it is described as a tool for nuanced communication. -->
-- [ ] A) It is largely irrelevant to the general public.
-  <!-- feedback: Calling it irrelevant contradicts the report, which argues for a shared standard of precision that any reader, not only specialists, relies on. -->
-- [ ] C) It simplifies complex socio-political messages.
-  <!-- feedback: Advanced Reporting Verbs add a layer of qualification rather than removing one, so it makes the argument harder, not simpler. -->
-- [ ] D) It is only used by academic elites in {city}.
-  <!-- feedback: The report presents Advanced Reporting Verbs as common in journalism, advertising and everyday debate, so it is not restricted to academics. -->
+- [ ] A) The supervisor encouraged the staff to upload customers' private records to the public chatbot.
+  <!-- feedback: Encouraged reverses the message by promoting the action that the supervisor explicitly prohibited. -->
+- [x] B) The supervisor warned the staff not to upload customers' private records to the public chatbot.
+  <!-- feedback: Warned the staff not to upload uses warn plus an object and a negative to-infinitive to preserve the caution against uploading. -->
+- [ ] C) The supervisor admitted uploading customers' private records to the public chatbot.
+  <!-- feedback: Admitted uploading describes the supervisor acknowledging a personal action, not warning the staff against it. -->
+- [ ] D) The supervisor offered to upload customers' private records to the public chatbot.
+  <!-- feedback: Offered to upload presents a voluntary action by the supervisor, which contradicts the instruction not to upload. -->
 
 ### Explicacion Pedagogica
-This question requires inferential reading skills to understand how complex structures convey deeper meaning.
-
----
+Warn someone not to do something reports a caution against an action. The object identifies the people receiving the warning, and the negative infinitive preserves the prohibition.
 
 ## Question 11 [D7-D8]
 **ID:** CO-ING-11-2026-W22-ai-future-work-001-MASTERY-bundle-v11
@@ -307,22 +301,20 @@ This evaluates mastery of advanced inversion structures, a key component of C1+ 
 **Contexto:** Discussing ai & future of work in Bucaramanga.
 
 ### Enunciado
-Complete the following sentence about ai & future of work: 'Hardly __________ the new policy been implemented when the first results started to show.' (Topic: Advanced Reporting Verbs)
+A fictional news report states: 'The software vendor claimed that its hiring algorithm was unbiased, but the independent audit had not yet been completed.' Why is 'claimed' more appropriate than 'confirmed'?
 
 ### Opciones
-- [x] A) had
-  <!-- feedback: Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events. -->
-- [ ] B) has
-  <!-- feedback: Incorrect. The sentence refers to a past sequence, requiring the past perfect in inversion. -->
-- [ ] C) was
-  <!-- feedback: Incorrect. 'Was' does not fit the past perfect structure required by 'Hardly'. -->
-- [ ] D) did
-  <!-- feedback: Incorrect. 'Did' would require the base form of the verb, not the past participle 'been'. -->
+- [ ] A) Claimed proves that the algorithm was biased.
+  <!-- feedback: Claimed marks an assertion without establishing its truth; it does not prove the opposite assertion that the algorithm was biased. -->
+- [ ] B) Claimed indicates that the vendor asked the auditors a question.
+  <!-- feedback: Claimed reports an assertion, whereas asked would report a question or request. -->
+- [ ] C) Claimed means that the audit had already verified the vendor's statement.
+  <!-- feedback: The report explicitly says the audit was incomplete, so the wording cannot mean that independent verification had already occurred. -->
+- [x] D) Claimed attributes the assertion to the vendor without presenting it as an established finding.
+  <!-- feedback: Claimed maintains a distinction between the vendor's assertion and verified evidence; confirmed would suggest that the assertion had been established. -->
 
 ### Explicacion Pedagogica
-This evaluates mastery of advanced inversion structures, a key component of C1+ proficiency.
-
----
+Reporting verbs communicate the evidential status of a statement. Claimed attributes an unverified assertion to its source, while confirmed would imply verification that the report does not provide.
 
 ## Question 13 [D7-D8]
 **ID:** CO-ING-11-2026-W22-ai-future-work-001-MASTERY-bundle-v13
@@ -332,20 +324,20 @@ This evaluates mastery of advanced inversion structures, a key component of C1+ 
 **Contexto:** Discussing ai & future of work in Manizales.
 
 ### Enunciado
-Complete the following sentence about ai & future of work: 'Hardly __________ the new policy been implemented when the first results started to show.' (Topic: Advanced Reporting Verbs)
+Complete the following sentence about ai & future of work: 'Scarcely __________ the model finished retraining on local data than its accuracy fell apart in rural areas.' (Topic: inversion with 'scarcely ... than')
 
 ### Opciones
-- [x] D) had
-  <!-- feedback: Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events. -->
 - [ ] A) has
-  <!-- feedback: Incorrect. The sentence refers to a past sequence, requiring the past perfect in inversion. -->
-- [ ] B) was
-  <!-- feedback: Incorrect. 'Was' does not fit the past perfect structure required by 'Hardly'. -->
+  <!-- feedback: 'Has' would give the present perfect, but the clause reports a past completed action followed immediately by a past consequence, which requires the past perfect. -->
+- [x] B) had
+  <!-- feedback: 'Scarcely had the model finished retraining than its accuracy fell apart'. The past perfect fixes the completed action that 'scarcely' denies as having fully happened. -->
 - [ ] C) did
-  <!-- feedback: Incorrect. 'Did' would require the base form of the verb, not the past participle 'been'. -->
+  <!-- feedback: 'Did' would invert a simple past, but the participle 'finished' requires an auxiliary of perfect aspect rather than the do-form of inversion. -->
+- [ ] D) was
+  <!-- feedback: 'Was' cannot invert before a past participle; the passive form would also contradict the active training described in the clause. -->
 
-### Explicacion Pedagogica
-This evaluates mastery of advanced inversion structures, a key component of C1+ proficiency.
+### Explicación Pedagógica
+'Scarcely ... than' fixes the first event as complete before the second arrives, which is exactly what the past perfect expresses. The auxiliary 'had' precedes the subject and the participle 'finished' carries the tense, so the sequence is 'had the model finished'. Present perfect forms are the usual error because they place the action too close to the consequence.
 
 ---
 
@@ -357,20 +349,20 @@ This evaluates mastery of advanced inversion structures, a key component of C1+ 
 **Contexto:** Discussing ai & future of work in Pereira.
 
 ### Enunciado
-Complete the following sentence about ai & future of work: 'Hardly __________ the new policy been implemented when the first results started to show.' (Topic: Advanced Reporting Verbs)
+Complete the following sentence about ai & future of work: 'Under no circumstances __________ automated scoring replace a decision that the public is entitled to contest.' (Topic: inversion with a negative adverbial and a modal verb)
 
 ### Opciones
-- [x] C) had
-  <!-- feedback: Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events. -->
-- [ ] A) has
-  <!-- feedback: Incorrect. The sentence refers to a past sequence, requiring the past perfect in inversion. -->
-- [ ] B) was
-  <!-- feedback: Incorrect. 'Was' does not fit the past perfect structure required by 'Hardly'. -->
-- [ ] D) did
-  <!-- feedback: Incorrect. 'Did' would require the base form of the verb, not the past participle 'been'. -->
+- [ ] A) must
+  <!-- feedback: 'Must' is a modal, but the blank needs the inverted auxiliary that 'under no circumstances' requires, and a modal cannot follow the adverbial in a declarative inversion of this kind without another element. -->
+- [x] B) should
+  <!-- feedback: 'Under no circumstances should automated scoring replace'. A modal inverts exactly as the auxiliary of an ordinary verb does, so fronting 'should' produces the emphatic reading. -->
+- [ ] C) would
+  <!-- feedback: 'Would' belongs to the conditional or the reporting sequence here, not to the emphatic inversion the negative adverbial demands. -->
+- [ ] D) ought
+  <!-- feedback: 'Ought' takes 'to' plus an infinitive, so it could not fill the gap directly after the negative adverbial in this construction. -->
 
-### Explicacion Pedagogica
-This evaluates mastery of advanced inversion structures, a key component of C1+ proficiency.
+### Explicación Pedagógica
+Negative adverbials such as 'under no circumstances', 'in no way' and 'not at all' trigger inversion of the first auxiliary, and modals invert in exactly the same way. Fronting 'should' ahead of the subject 'automated scoring' produces the emphatic reading. A modal of obligation or conditional aspect does not carry the contrastive force of 'should' in this negated frame.
 
 ---
 
@@ -382,20 +374,20 @@ This evaluates mastery of advanced inversion structures, a key component of C1+ 
 **Contexto:** Discussing ai & future of work in Barranquilla.
 
 ### Enunciado
-Complete the following sentence about ai & future of work: 'Hardly __________ the new policy been implemented when the first results started to show.' (Topic: Advanced Reporting Verbs)
+Complete the following sentence about ai & future of work: 'No sooner __________ the pilot go live than complaints about biased shortlists began to arrive.' (Topic: 'no sooner ... than' inversion)
 
 ### Opciones
+- [ ] A) did
+  <!-- feedback: 'Did' with a bare infinitive would need 'no sooner had'; the participle 'gone' shows that the perfect auxiliary is required rather than the do-form. -->
 - [x] B) had
-  <!-- feedback: Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events. -->
-- [ ] A) has
-  <!-- feedback: Incorrect. The sentence refers to a past sequence, requiring the past perfect in inversion. -->
-- [ ] C) was
-  <!-- feedback: Incorrect. 'Was' does not fit the past perfect structure required by 'Hardly'. -->
-- [ ] D) did
-  <!-- feedback: Incorrect. 'Did' would require the base form of the verb, not the past participle 'been'. -->
+  <!-- feedback: 'No sooner had the pilot gone live than complaints arrived'. The structure pairs a completed past action with the immediate consequence that followed it. -->
+- [ ] C) has
+  <!-- feedback: 'Has' would give the present perfect and place the action in unfinished time, whereas 'no sooner ... than' needs a bounded past sequence. -->
+- [ ] D) was
+  <!-- feedback: 'Was' cannot combine with a past participle in this active construction, and the clause clearly states that the pilot launched it. -->
 
-### Explicacion Pedagogica
-This evaluates mastery of advanced inversion structures, a key component of C1+ proficiency.
+### Explicación Pedagógica
+The correlative pair 'no sooner ... than' obliges the perfect auxiliary before the participle, so the first clause reads 'had the pilot gone live'. The second clause then arrives with 'than', marking the consequence that followed immediately. Choosing a present perfect or a simple do-inversion breaks the bounded past sequence the pattern requires.
 
 ---
 
@@ -407,20 +399,20 @@ This evaluates mastery of advanced inversion structures, a key component of C1+ 
 **Contexto:** Discussing ai & future of work in Medellín.
 
 ### Enunciado
-Complete the following sentence about ai & future of work: 'Hardly __________ the new policy been implemented when the first results started to show.' (Topic: Advanced Reporting Verbs)
+Complete the following sentence about ai & future of work: 'Seldom __________ a retraining programme survive the change of minister who commissioned it.' (Topic: inversion with 'seldom' and a singular subject)
 
 ### Opciones
-- [x] A) had
-  <!-- feedback: Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events. -->
-- [ ] B) has
-  <!-- feedback: Incorrect. The sentence refers to a past sequence, requiring the past perfect in inversion. -->
-- [ ] C) was
-  <!-- feedback: Incorrect. 'Was' does not fit the past perfect structure required by 'Hardly'. -->
-- [ ] D) did
-  <!-- feedback: Incorrect. 'Did' would require the base form of the verb, not the past participle 'been'. -->
+- [ ] A) do
+  <!-- feedback: 'Do' agrees with plural subjects, and 'a retraining programme' is singular, so the base form with 'does' is the correct inversion. -->
+- [ ] B) have
+  <!-- feedback: 'Have' would give the perfect aspect, but the bare inversion with 'seldom' and a singular subject requires 'does' before the base form. -->
+- [ ] C) are
+  <!-- feedback: 'Are' would be needed for a plural subject. 'A programme' is singular, and 'seldom' does not alter the agreement of the auxiliary. -->
+- [x] D) does
+  <!-- feedback: 'Seldom does a programme survive'. The singular subject takes 'does' and the main verb reverts to the base form 'survive'. -->
 
-### Explicacion Pedagogica
-This evaluates mastery of advanced inversion structures, a key component of C1+ proficiency.
+### Explicación Pedagógica
+The singular subject 'a retraining programme' determines the auxiliary: after 'seldom' it inverts as 'does', and the verb 'survive' loses its third person ending. Because 'do' is much more frequent with plural subjects in this structure, students often carry that agreement across, which is precisely the error this item tests.
 
 ---
 

@@ -219,20 +219,20 @@ Corresponde a un producto de una suma por su diferencia, que da una diferencia d
 **Expected_Success:** 0.63
 **Contexto:** En la ciudad de Cuenca, un grupo de estudiantes de la Unidad Educativa Bolívar analizan un problema práctico de matemáticas.
 ### Enunciado
-¿Cuál es el resultado de multiplicar $(3a - 4b)(3a + 4b)$?
+¿Cuál es el resultado de multiplicar $(5x + 3)(5x - 3)$?
 
 ### Opciones
-- [ ] A) $6a^2 - 8b^2$
-  <!-- feedback: Los coeficientes salen de elevar 3 y 4 al cuadrado, es decir 9 y 16, no de multiplicarlos por 2. -->
-- [ ] B) $9a^2 - 24ab - 16b^2$
-  <!-- feedback: Al desarrollar se restan los términos cruzados $2(3a)(4b)=24ab$, pero en una diferencia de cuadrados esos términos se cancelan. -->
-- [ ] C) $9a^2 + 16b^2$
-  <!-- feedback: Falta el signo menos: la diferencia de cuadrados resta, y el producto $(3a-4b)(3a+4b)$ no puede dar dos cuadrados positivos. -->
-- [x] D) $9a^2 - 16b^2$
-  <!-- feedback: Es una diferencia de cuadrados: $(3a)^2 - (4b)^2 = 9a^2 - 16b^2$. -->
+- [ ] A) $25x^2 + 9$
+  <!-- feedback: La diferencia de cuadrados resta, así que el término de $3$ no puede quedar con signo más. -->
+- [ ] B) $10x^2 - 18$
+  <!-- feedback: Los coeficientes salen de elevar 5 y 3 al cuadrado, es decir 25 y 9, no de multiplicarlos entre sí. -->
+- [ ] C) $25x^2 - 18x + 9$
+  <!-- feedback: Parece un desarrollo completo, pero los términos cruzados $2(5x)(3) = 30x$ se cancelan entre sí y no quedan. -->
+- [x] D) $25x^2 - 9$
+  <!-- feedback: Correcto. Es una diferencia de cuadrados: $(5x)^2 - (3)^2 = 25x^2 - 9$. -->
 
 ### Explicacion Pedagogica
-Corresponde a un producto de una suma por su diferencia, que da una diferencia de cuadrados: $(3a)^2 - (4b)^2 = 9a^2 - 16b^2$.
+El producto de una suma por su diferencia es una diferencia de cuadrados. Agrupando, $(5x + 3)(5x - 3) = (5x)^2 - (3)^2 = 25x^2 - 9$. Los términos cruzados se anulan entre sí, y por eso no aparece ningún término con $x$ en el resultado.
 
 ---
 
