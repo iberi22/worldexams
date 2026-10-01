@@ -116,7 +116,7 @@ Which structure is used to say that two things are the same?
 - [x] D) as...as
   <!-- feedback: Correct! This structure expresses equality (e.g., as tall as). -->
 - [ ] B) er...than
-  <!-- feedback: Incorrect. This shows superiority. -->
+  <!-- feedback: Incorrect. The "-er...than" comparative compares two unequal things, not equality. -->
 - [ ] C) most...of
   <!-- feedback: Incorrect. This is for superlatives. -->
 

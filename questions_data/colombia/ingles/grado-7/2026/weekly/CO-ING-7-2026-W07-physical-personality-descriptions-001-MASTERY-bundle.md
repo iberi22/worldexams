@@ -68,7 +68,7 @@ Which adjective describes hair that is not straight?
 - [ ] B) Blond
   <!-- feedback: Incorrect. This refers to color. -->
 - [ ] C) Dark
-  <!-- feedback: Incorrect. This refers to color. -->
+  <!-- feedback: Incorrect. This refers to how much light the hair reflects, not to a curved or wavy shape. -->
 
 ### Explicacion Pedagogica
 The student identifies specific vocabulary for hair types.

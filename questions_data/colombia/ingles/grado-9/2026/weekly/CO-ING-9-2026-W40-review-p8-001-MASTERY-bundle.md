@@ -30,7 +30,7 @@ passive voice, reported speech, and vocabulary about globalization, digital life
 **Bloom:** Remember
 **ICFES:** Lexico
 **Expected_Success:** 0.90
-**Context:** A school newspaper in Bogotá is discussing globalization.
+**Contexto:** A school newspaper in Bogotá is discussing globalization.
 
 ### Enunciado
 Choose the word that best completes the sentence: "Globalization has increased the __________ of goods and ideas across borders."
@@ -53,7 +53,7 @@ Globalization refers to the growing interconnection of countries through trade, 
 **Bloom:** Understand
 **ICFES:** Reading Comprehension
 **Expected_Success:** 0.85
-**Context:** A class in Medellín reads a short article about digital life.
+**Contexto:** A class in Medellín reads a short article about digital life.
 
 ### Enunciado
 Read the sentence: "Many teenagers in Medellín spend more than five hours a day online; this keeps them connected, but it also affects their sleep and concentration." What is the main idea?
@@ -76,7 +76,7 @@ The main idea sums up the central point of a text. Here, the sentence contrasts 
 **Bloom:** Apply
 **ICFES:** Structural Cloze
 **Expected_Success:** 0.80
-**Context:** An email about a school project in Cartagena.
+**Contexto:** An email about a school project in Cartagena.
 
 ### Enunciado
 Complete the sentence with the correct form: "If I __________ more free time, I would join the environmental club."
@@ -99,7 +99,7 @@ The second conditional describes an imaginary or unlikely situation in the prese
 **Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.79
-**Context:** A student is telling a friend about a concert in Bogotá last weekend.
+**Contexto:** A student is telling a friend about a concert in Bogotá last weekend.
 
 ### Enunciado
 Choose the correct option: "When we arrived at the concert in Bogotá, the band __________ playing."
@@ -122,7 +122,7 @@ The past perfect (had + past participle) is used to describe the earlier of two 
 **Bloom:** Apply
 **ICFES:** Structural Cloze
 **Expected_Success:** 0.78
-**Context:** A report about Colombian coffee for a school magazine in Armenia.
+**Contexto:** A report about Colombian coffee for a school magazine in Armenia.
 
 ### Enunciado
 Complete the sentence: "Every year, thousands of tons of coffee __________ from the Andean region of Colombia."
@@ -145,7 +145,7 @@ The passive voice is used when the action is more important than who performs it
 **Bloom:** Apply
 **ICFES:** Lingüística
 **Expected_Success:** 0.75
-**Context:** A student is reporting a conversation for an English class.
+**Contexto:** A student is reporting a conversation for an English class.
 
 ### Enunciado
 Direct speech: "I will visit Cartagena next week," Ana said. Choose the correct reported version.
@@ -168,7 +168,7 @@ In reported speech, verbs usually move one step back in time: "will" becomes "wo
 **Bloom:** Analyze
 **ICFES:** Reading Comprehension
 **Expected_Success:** 0.70
-**Context:** A grammar workshop in Cali compares two similar sentences.
+**Contexto:** A grammar workshop in Cali compares two similar sentences.
 
 ### Enunciado
 Compare: (1) "The students who passed the exam received a certificate." (2) "The students, who passed the exam, received a certificate." What is the difference in meaning?
@@ -191,7 +191,7 @@ Defining relative clauses give essential information and select a specific group
 **Bloom:** Analyze
 **ICFES:** Pragmática
 **Expected_Success:** 0.69
-**Context:** A blog post about digital life in modern cities.
+**Contexto:** A blog post about digital life in modern cities.
 
 ### Enunciado
 The author writes: "Of course, spending eight hours a day on social media is a perfectly balanced lifestyle." What does the author imply?
@@ -214,7 +214,7 @@ Irony says the opposite of what is meant. The phrase "perfectly balanced" is exa
 **Bloom:** Analyze
 **ICFES:** Reading Comprehension
 **Expected_Success:** 0.66
-**Context:** An environmental report about a wetland near Cartagena.
+**Contexto:** An environmental report about a wetland near Cartagena.
 
 ### Enunciado
 Read: "The wetland was restored by local volunteers, and since then more than forty bird species have been recorded there." What can be inferred?
@@ -237,7 +237,7 @@ An inference is a conclusion drawn from the evidence in the text. The passive fo
 **Bloom:** Analyze
 **ICFES:** Lexico
 **Expected_Success:** 0.65
-**Context:** A geography lesson about the environment.
+**Contexto:** A geography lesson about the environment.
 
 ### Enunciado
 In the phrase "sustainable development", the word "sustainable" is closest in meaning to:
@@ -260,7 +260,7 @@ The adjective "sustainable" comes from the verb "to sustain", meaning to keep so
 **Bloom:** Evaluate
 **ICFES:** Pragmática
 **Expected_Success:** 0.60
-**Context:** A news report in Bogotá about a public project.
+**Contexto:** A news report in Bogotá about a public project.
 
 ### Enunciado
 A news report says: "The mayor claimed that the project had been completed." Why might the reporter use "claimed" instead of "said"?
@@ -283,7 +283,7 @@ Reporting verbs carry attitude. "Said" is neutral, while "claimed" suggests that
 **Bloom:** Evaluate
 **ICFES:** Reading Comprehension
 **Expected_Success:** 0.55
-**Context:** A debate club in Medellín discusses the effects of globalization.
+**Contexto:** A debate club in Medellín discusses the effects of globalization.
 
 ### Enunciado
 A text argues: "Globalization only benefits rich countries." Which evaluation is most reasonable?

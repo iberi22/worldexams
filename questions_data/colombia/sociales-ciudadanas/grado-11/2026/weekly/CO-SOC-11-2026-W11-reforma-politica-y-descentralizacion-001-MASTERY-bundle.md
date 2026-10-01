@@ -16,7 +16,7 @@ bundle_index: 11
 calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 license: "FREE"
 tier: "legacy"
-creador: "minimax-m3-local"
+creador: "Jules-Agent"
 ---
 
 # Bundle MASTERY: Reforma Política y Descentralización - Grado 11

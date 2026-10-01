@@ -27,7 +27,7 @@ creador: "Jules-Agent"
 **ID:** CO-ING-6-2026-W37-present-continuous-intro-001-v1
 **Bloom:** Remember
 **ICFES:** Grammatical Knowledge
-**Expected_Success:** 0.82
+**Expected_Success:** 0.85
 **Contexto:** Forming the present continuous with the verb to be.
 
 ### Enunciado
@@ -47,7 +47,7 @@ The correct answer is "She is reading a book now". The present continuous needs 
 **ID:** CO-ING-6-2026-W37-present-continuous-intro-002-v1
 **Bloom:** Remember
 **ICFES:** Grammatical Knowledge
-**Expected_Success:** 0.80
+**Expected_Success:** 0.84
 **Contexto:** Choosing the correct auxiliary for the present continuous.
 
 ### Enunciado
@@ -67,7 +67,7 @@ The correct answer is "are". The auxiliary of the present continuous is the verb
 **ID:** CO-ING-6-2026-W37-present-continuous-intro-003-v1
 **Bloom:** Understand
 **ICFES:** Reading Comprehension
-**Expected_Success:** 0.78
+**Expected_Success:** 0.83
 **Contexto:** Reading what a person is doing at a stated moment.
 
 ### Enunciado
@@ -82,12 +82,12 @@ Read: "Right now, Laura is doing her homework and her brother is watching televi
 ### Explicación Pedagógica
 The correct answer is "He is watching television". The text gives one continuous action per person, and the student has to attach the right one to the right subject. This is the same referent tracking the personality and family weeks required, and it is what stops a student from answering about Laura when the question was about her brother.
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 
 **ID:** CO-ING-6-2026-W37-present-continuous-intro-004-v1
 **Bloom:** Apply
 **ICFES:** Grammatical Knowledge
-**Expected_Success:** 0.76
+**Expected_Success:** 0.82
 **Contexto:** Choosing between the present simple and the present continuous for a real situation.
 
 ### Enunciado
@@ -107,7 +107,7 @@ The correct answer is "She is studying right now". The choice between the two pr
 **ID:** CO-ING-6-2026-W37-present-continuous-intro-005-v1
 **Bloom:** Apply
 **ICFES:** Grammatical Knowledge
-**Expected_Success:** 0.74
+**Expected_Success:** 0.81
 **Contexto:** Spelling the -ing form of a verb in the present continuous.
 
 ### Enunciado
@@ -127,7 +127,7 @@ The correct answer is "He is running to the bus stop". Spelling the -ing form is
 **ID:** CO-ING-6-2026-W37-present-continuous-intro-006-v1
 **Bloom:** Apply
 **ICFES:** Pragmatic Competence
-**Expected_Success:** 0.72
+**Expected_Success:** 0.80
 **Contexto:** Saying what is happening in the classroom at a given moment.
 
 ### Enunciado
@@ -142,12 +142,12 @@ It is 10 a.m. and the class is in progress. What does a student say?
 ### Explicación Pedagógica
 The correct answer is "We are doing an English exercise now". Reporting what is happening in the room at this moment is the ordinary reason a student reaches for the present continuous, and the naturalness of the result shows the tense being used for its real purpose. Each distractor substitutes a different tense or a wrong verb form, so the item shows what each alternative would claim about the timing.
 
-## Question 7 [D4-D5]
+## Question 7 [D4]
 
 **ID:** CO-ING-6-2026-W37-present-continuous-intro-007-v1
 **Bloom:** Apply
 **ICFES:** Grammatical Knowledge
-**Expected_Success:** 0.70
+**Expected_Success:** 0.79
 **Contexto:** Using the present continuous with two subjects in one sentence.
 
 ### Enunciado
@@ -162,12 +162,12 @@ Which sentence is correct?
 ### Explicación Pedagógica
 The correct answer is "My sister is cooking and my brother is washing the dishes". Each clause joined by and carries its own subject and its own auxiliary, and the agreement has to be made twice independently. Students who try to carry one auxiliary across both halves get one of these three versions, so the item makes the repetition of the auxiliary visible and deliberate.
 
-## Question 8 [D4-D5]
+## Question 8 [D4]
 
 **ID:** CO-ING-6-2026-W37-present-continuous-intro-008-v1
 **Bloom:** Analyze
 **ICFES:** Reading Comprehension
-**Expected_Success:** 0.68
+**Expected_Success:** 0.77
 **Contexto:** Working out what is happening now from a text that contrasts two times.
 
 ### Enunciado
@@ -182,12 +182,12 @@ Read: "Every day Andrés studies in the morning. Right now it is the afternoon a
 ### Explicación Pedagógica
 The correct answer is "He is playing football". The text deliberately sets a general habit against a present action, and picking the right one requires holding the two time frames apart. Students who read the first sentence and stop will answer about the morning, so the contrast structure here is a genuine test of reading to the end rather than skimming for a matching word.
 
-## Question 9 [D5]
+## Question 9 [D4]
 
 **ID:** CO-ING-6-2026-W37-present-continuous-intro-009-v1
 **Bloom:** Analyze
 **ICFES:** Grammatical Knowledge
-**Expected_Success:** 0.65
+**Expected_Success:** 0.74
 **Contexto:** Finding the error in a sentence about a current action.
 
 ### Enunciado
@@ -202,12 +202,12 @@ A student writes: "She is watch a film on her phone." What is the problem?
 ### Explicación Pedagógica
 The correct answer is "The -ing form is needed after the auxiliary". Everything else in the sentence is correct, including the preposition and the agreement, so this isolates the single rule that the present continuous depends on. The three distractors each propose a fault that a student might suspect but that is not actually present, which is what makes this a useful diagnostic rather than a guess.
 
-## Question 10 [D5]
+## Question 10 [D4]
 
 **ID:** CO-ING-6-2026-W37-present-continuous-intro-010-v1
 **Bloom:** Evaluate
 **ICFES:** Pragmatic Competence
-**Expected_Success:** 0.62
+**Expected_Success:** 0.70
 **Contexto:** Deciding which tense a message about a real event should use.
 
 ### Enunciado
