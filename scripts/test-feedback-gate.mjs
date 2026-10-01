@@ -759,8 +759,72 @@ ctxCases.push({
     ),
 });
 
+// foreign-script: a generator leaked its own alphabet into Spanish prose. The
+// bundle keeps its four options, its feedback and its lengths, so every shape
+// rule passes and it ships. The corruption is only visible to a reader.
+//
+// The cases use the exact shapes found in the corpus, not synthetic stand-ins:
+// a Cyrillic verb sitting in a Spanish option, and a CJK token inside an
+// otherwise Spanish Contexto. The accent helper keeps the Spanish text readable
+// in source, because escaped CJK in a test fixture is unreadable to the next
+// person who has to debug it.
+const RU = (s) => s; // marker: Cyrillic below is intentional corruption
+const foreignScriptCases = [
+  {
+    name: 'Cyrillic verb inside a Spanish option is rejected',
+    expect: 'reject',
+    rule: /foreign-script/,
+    buildContent: () =>
+      buildCtxPair(
+        'El autor del texto argumenta sobre la posicion del gobierno en la ciudad.',
+        'Otra aula analiza el mismo texto.',
+        'Cual es la tesis del autor?',
+        [
+          { text: 'La autonomia regional se respeta', fb: 'Correcto. El texto defiende que la autonomia se respeta en la region.' },
+          { text: 'многочисленный', fb: 'Incorrecto. Esta palabra esta en cirilico y no pertenece a ningun enunciado en espanol.' },
+          { text: 'El centralismo se aplica', fb: 'Incorrecto. El texto se opone al centralismo, no lo defiende.' },
+          { text: 'La constitution se ignora', fb: 'Incorrecto. La constitution es lo que el autor respaldo en su argumento.' },
+        ]
+      ),
+  },
+  {
+    name: 'CJK token in the Contexto is rejected',
+    expect: 'reject',
+    rule: /foreign-script/,
+    buildContent: () =>
+      buildCtxPair(
+        'La docente de espanol pregunta a sus estudiantes que espera del texto. 有效期 en la pizarra.',
+        'Otra aula analiza el mismo texto.',
+        'Que postura asume el autor?',
+        [
+          { text: 'A favor del cambio', fb: 'Correcto. El autor apoya el cambio y lo defiende con argumentos.' },
+          { text: 'En contra del cambio', fb: 'Incorrecto. El autor no se opone, construye un argumento a favor.' },
+          { text: 'Neutral', fb: 'Incorrecto. El autor toma partido, no se mantiene neutral ante el cambio.' },
+          { text: 'Indiferente', fb: 'Incorrecto. El autor dedica todo el texto a defender una postura, no es indiferente.' },
+        ]
+      ),
+  },
+  {
+    name: 'accented Spanish and curly quotes are NOT foreign script',
+    expect: 'accept',
+    rule: /foreign-script/,
+    buildContent: () =>
+      buildCtxPair(
+        'La clase de matematicas de grado 6 en Bogota usa el metodo de casos: \u00bfque le Alvaro? \u00bfDe qu\u00e9\u00ad sirve?',
+        'La clase de matematicas de grado 7 en Medellin usa el mismo metodo: \u00bfque le Sara? \u00bfPara qu\u00e9\u00e9 sirve?',
+        'Cual es el resultado?',
+        [
+          { text: 'x = 4', fb: 'Correcto. Al restar 3 y dividir entre 2 se obtiene exactamente 4.' },
+          { text: 'x = -2', fb: 'Incorrecto. Produce argumentos negativos en el logaritmo original, asi que no es valida.' },
+          { text: 'x = 2', fb: 'Incorrecto. Si x = 2, el segundo logaritmo es log de cero, que no esta definido en reales.' },
+          { text: 'x = 8', fb: 'Incorrecto. No satisface la igualdad al sustituirla en los dos logaritmos a la vez.' },
+        ]
+      ),
+  },
+];
+
 try {
-  for (const c of ctxCases) {
+  for (const c of [...ctxCases, ...foreignScriptCases.map((c) => ({ ...c, hit: c.rule, content: c.buildContent }))]) {
     fs.writeFileSync(FILE, c.content(), 'utf8');
     let verdict = 'accept';
     let msg = '';

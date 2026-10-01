@@ -46,6 +46,36 @@ export function detectControlChars(content) {
   return results;
 }
 
+// Scripts outside the Latin and Latin-Extended blocks never belong in a bundle.
+// This corpus is Spanish and English, so the only legitimate non-ASCII is
+// accented Latin, the inverted marks used in Spanish, and the curly quotes an
+// English bundle may carry. Everything else is a generator that leaked its own
+// alphabet into the prose.
+const FOREIGN_BLOCKS = [
+  { name: 'cirilico', re: /[\u0400-\u04FF\u0500-\u052F]/g },
+  { name: 'CJK', re: /[\u4E00-\u9FFF\u3400-\u4DBF]/g },
+  { name: 'kana', re: /[\u3040-\u30FF]/g },
+  { name: 'hangul', re: /[\uAC00-\uD7AF\u1100-\u11FF]/g },
+];
+
+function detectForeignScript(content) {
+  const lines = content.split(/\r?\n/);
+  const results = [];
+  for (const block of FOREIGN_BLOCKS) {
+    for (let i = 0; i < lines.length; i++) {
+      const hits = lines[i].match(block.re);
+      if (!hits) continue;
+      // Trim to the offending word so the message names the token, not the line.
+      const around = lines[i];
+      const first = around.search(block.re);
+      const start = Math.max(0, first - 12);
+      const sample = around.slice(start, first + 20).trim();
+      results.push({ line: i + 1, block: block.name, count: hits.length, sample });
+    }
+  }
+  return results.sort((a, b) => a.line - b.line);
+}
+
 export function detectPlaceholder(content, fm, base) {
   if (/Pregunta de prueba \d+|Explicaci[oó]n detallada de la pregunta|Pregunta sobre\s+[\w\s-]+- Grado/i.test(content)) return true;
   // Option-text placeholders only when the WHOLE option text is the placeholder
@@ -379,6 +409,25 @@ export function validateFile(file, opts = { strictQuality: false, corpusHashMap:
   const controlCharLines = detectControlChars(content);
   for (const c of controlCharLines) {
     errors.push(`ERROR [control-chars] ${relative}:${c.line} contiene caracter de control ASCII`);
+  }
+
+  // control-chars covers ASCII control codes only. It cannot see a generator
+  // that injected Cyrillic or CJK into a Spanish stem, which is what actually
+  // happened: "El autor многочисленный ha rechazado todas las alternativas",
+  // "qué ожидает", "se различа", "la tensión que двига la trama". The sentence
+  // still has the right number of options, the right feedback, the right
+  // length, so every shape rule passes and the bundle ships.
+  //
+  // A word like that is never legitimate in this corpus. Spanish bundles carry
+  // accented Latin and nothing else; English bundles carry ASCII plus the
+  // occasional curly quote. Anything in the Cyrillic, CJK, Kana or Hangul
+  // blocks is corruption, and a Spanish letter glued onto a Cyrillic one
+  // ("voseoGg", "weakhens") is the same defect in a harder-to-see form.
+  const foreignScript = detectForeignScript(content);
+  for (const f of foreignScript) {
+    errors.push(
+      `ERROR [foreign-script] ${relative}:${f.line} contiene ${f.count} caracter(es) de ${f.block}: "${f.sample}"`
+    );
   }
 
   // A row that looks like an option but does not close the marker is not an
