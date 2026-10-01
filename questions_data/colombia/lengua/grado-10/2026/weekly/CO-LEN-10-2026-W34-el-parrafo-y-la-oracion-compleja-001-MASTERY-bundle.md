@@ -275,7 +275,7 @@ Un estudiante entregó este texto: «Bogotá es grande. La gente llega de todos 
   <!-- feedback: Incorrecto. La ausencia de tildes no es lo que impide el reconocimiento de párrafo; el problema es de organización y de ausencia de una idea central. -->
 - [x] C) Es un grupo de oraciones sueltas sobre el mismo tema y no un párrafo, porque lacks una idea central explícita y un encadenamiento lógico entre sus partes.
   <!-- feedback: Correcto. Cumple el requisito de mantener un tema, pero incumple el de desarrollar una sola idea con relaciones internas, que es lo que convierte un conjunto de oraciones en un párrafo. -->
-- [ ] D) Es un párrafo narrativo completo, porque recounts hechos del pasado en orden cronológico.
+- [ ] D) Es un párrafo narrativo completo, porque relata hechos del pasado en orden cronológico.
   <!-- feedback: Incorrecto. No hay secuencia narrativa ni orden temporal: el texto solo enumera afirmaciones sin conectores de tiempo ni Succession de hechos. -->
 
 ### Explicacion Pedagogica
