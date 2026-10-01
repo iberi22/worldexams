@@ -9,36 +9,36 @@
   "questions": [
     {
       "id": "SV-SOC-11-2026-W12-guerra-civil-sv-001-MASTERY-bundle-v1",
-      "statement": "¿Qué documento establece la organización del Estado?",
-      "context": "Clase de ciencias sociales en Santa Ana estudiando guerra civil sv.",
+      "statement": "¿Qué buscaban principalmente los Acuerdos de Paz de 1992?",
+      "context": "En enero de 1992, en Ciudad de México, se firmaron los Acuerdos de Paz que cerraron la guerra civil salvadoreña tras doce años de conflicto.",
       "options": [
         {
-          "letter": "B",
-          "text": "La Constitución",
+          "letter": "C",
+          "text": "Terminar el conflicto armado y abrir la reconstrucción del país",
           "is_correct": true,
-          "feedback": "Correcto. La Constitución es la norma fundamental que estructura los poderes del Estado y fija sus límites."
+          "feedback": "Es la respuesta correcta: los acuerdos cerraron la guerra civil, desmovilizaron a los grupos armados y abrieron una etapa de reconstrucción."
         },
         {
           "letter": "A",
-          "text": "Una ley ordinaria",
+          "text": "Recuperar el monopolio comercial del añil",
           "is_correct": false,
-          "feedback": "Una ley ordinaria se limita a desarrollar una regla ya existente, no organiza los poderes del Estado entero."
+          "feedback": "El añil fue un tinte colonial del siglo XVII y no tuvo ninguna relación con los acuerdos de paz de 1992."
         },
         {
-          "letter": "C",
-          "text": "Un decreto presidencial",
+          "letter": "B",
+          "text": "Poner en marcha la reforma agraria de 1977",
           "is_correct": false,
-          "feedback": "Un decreto presidencial es una decisión del ejecutivo sobre un asunto concreto, de rango menor que la Constitución."
+          "feedback": "La reforma agraria vinculada a la Ley 153 pertenece a la década de 1970, casi quince años antes de la firma de la paz."
         },
         {
           "letter": "D",
-          "text": "Un tratado internacional",
+          "text": "Fundar una organización militar contraria al FMLN",
           "is_correct": false,
-          "feedback": "Un tratado internacional obliga entre Estados firmantes, no es la norma que organiza el gobierno de un país."
+          "feedback": "No se creó ninguna organización antiinsurgente en los acuerdos, porque el FMLN aceptó desmovilizarse como parte del proceso."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
+      "correct_answer": "C",
+      "explanation": "Los Acuerdos de Paz de 1992 cerraron el conflicto armado, desmovilizaron a la insurgencia y abrieron una etapa de reconstrucción institucional del país.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -54,36 +54,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W12-guerra-civil-sv-001-MASTERY-bundle-v2",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
-      "context": "Clase de ciencias sociales en Mejicanos estudiando guerra civil sv.",
+      "statement": "¿Qué efecto tuvo la guerra civil en la economía salvadoreña?",
+      "context": "Un cafetalero de Chalatenango ve como los combatientes abandonan las fincas y las estradas se cierran.",
       "options": [
         {
-          "letter": "C",
-          "text": "Urbanización masiva y nuevas clases sociales",
-          "is_correct": true,
-          "feedback": "Correcto. La industrialización concentró a los trabajadores en las ciudades y ensanchó la burguesía y el proletariado como clases nuevas."
-        },
-        {
           "letter": "A",
-          "text": "Retorno a la vida agrícola",
-          "is_correct": false,
-          "feedback": "La revolución industrial desplazó el trabajo del campo a la fábrica y a la ciudad, no de vuelta a la vida agrícola."
+          "text": "Perturbó la agricultura y el comercio exterior",
+          "is_correct": true,
+          "feedback": "Es la respuesta correcta: los combates, la vía pública y el estado de sitio afectaron el cultivo del café y las exportaciones."
         },
         {
           "letter": "B",
-          "text": "Disminución del comercio global",
+          "text": "Impulsó el auge cafetalero de finales del siglo XIX",
           "is_correct": false,
-          "feedback": "La producción industrial exigía materias primas y mercados, de modo que el comercio internacional creció en vez de disminuir."
+          "feedback": "Ese auge ocurrió dos décadas antes, en la década de 1870, cuando el país aún no había conocido la guerra civil."
+        },
+        {
+          "letter": "C",
+          "text": "Eliminó la dependencia de las exportaciones agrícolas",
+          "is_correct": false,
+          "feedback": "El país siguió dependiendo del café y del algodón porque la guerra no cambió la estructura de su exportación."
         },
         {
           "letter": "D",
-          "text": "Eliminación del trabajo manual",
+          "text": "Provocó una industrialización rápida y sostenida",
           "is_correct": false,
-          "feedback": "El trabajo manual se intensificó en las fábricas y la máquina solo transformó su forma, no lo eliminó."
+          "feedback": "En esos años la economía retrocedió en lugar de industrializarse, y la fábrica quedó en segundo plano."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
+      "correct_answer": "A",
+      "explanation": "La guerra civil alteró la producción agrícola y el comercio exterior salvadoreño.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -99,36 +99,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W12-guerra-civil-sv-001-MASTERY-bundle-v3",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
-      "context": "Clase de ciencias sociales en Soyapango estudiando guerra civil sv.",
+      "statement": "¿Qué episodio marca el comienzo de la guerra civil en El Salvador?",
+      "context": "En la consulta electoral de 1979 los militares anularon los votos de la izquierda, y en 1980 los grupos insurgentes respondieron con un levantamiento armado.",
       "options": [
         {
-          "letter": "B",
-          "text": "Derechos humanos fundamentales",
-          "is_correct": true,
-          "feedback": "Correcto. La Constitución de un país democrático reconoce los derechos humanos fundamentales como límite al poder del Estado."
+          "letter": "A",
+          "text": "Ley 153",
+          "is_correct": false,
+          "feedback": "La Ley 153 es de 1977 y reformo la tenencia rural, anterior al conflicto armado."
         },
         {
-          "letter": "A",
-          "text": "Solo derechos de propiedad",
-          "is_correct": false,
-          "feedback": "El derecho de propiedad es uno más entre los reconocidos, y limitar la Constitución a la propiedad dejaría fuera los demás."
+          "letter": "B",
+          "text": "19 de mayo de 1980",
+          "is_correct": true,
+          "feedback": "Correcto. El levantamiento de mayo de 1980 dio inicio a la guerra civil."
         },
         {
           "letter": "C",
-          "text": "Únicamente derechos políticos",
+          "text": "Acuerdos de Paz",
           "is_correct": false,
-          "feedback": "El voto y la participación política son una parte del catálogo, no la totalidad de los derechos de una Constitución democrática."
+          "feedback": "Los Acuerdos de Paz se negotiate en 1992 para cerrar el conflicto, quince anos despues de su inicio."
         },
         {
           "letter": "D",
-          "text": "Derechos exclusivos del gobierno",
+          "text": "Guerra de 1932",
           "is_correct": false,
-          "feedback": "Son los ciudadanos los titulares de los derechos, y además esos derechos limitan al gobierno en lugar de pertenecerle."
+          "feedback": "La Guerra de 1932 fue una insurreccion campesina en el occidente del pais, no la guerra civil de 1980."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
+      "explanation": "El levantamiento armado del 19 de mayo de 1980 dio inicio a la guerra civil que duro doce anos y costo decenas de miles de vidas.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -144,36 +144,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W12-guerra-civil-sv-001-MASTERY-bundle-v4",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
-      "context": "Clase de ciencias sociales en Soyapango estudiando guerra civil sv.",
+      "statement": "Si las exportaciones de café crecen pero el precio mundial cae, ¿qué efecto tiene sobre el ingreso de los productores?",
+      "context": "Una cooperativa de productores de café de Ahuachapán compara sus ventas con lo que pagan por insumos importados.",
       "options": [
         {
-          "letter": "D",
-          "text": "Superávit comercial",
+          "letter": "C",
+          "text": "Puede disminuir aunque vendan más volumen",
           "is_correct": true,
-          "feedback": "Correcto. Si las exportaciones superan a las importaciones, la balanza comercial registra un superávit."
+          "feedback": "Es la respuesta correcta: al caer el precio unitario, el ingreso total puede bajar aunque el volumen vendido aumente."
         },
         {
           "letter": "A",
-          "text": "Déficit comercial",
+          "text": "Aumenta siempre, porque el volumen es lo único que cuenta",
           "is_correct": false,
-          "feedback": "El déficit aparece cuando se importa más de lo que se exporta, exactamente al revés de lo que dice el enunciado."
+          "feedback": "El ingreso total depende del precio unitario además del volumen, de modo que vender más no asegura ganar más."
         },
         {
           "letter": "B",
-          "text": "Balanza equilibrada",
+          "text": "Se mantiene igual, porque el volumen no cambia",
           "is_correct": false,
-          "feedback": "Una balanza equilibrada exige exportaciones e importaciones iguales, y aquí las exportaciones son mayores."
+          "feedback": "El volumen sí cambia al vender más, y eso altera el ingreso junto con el precio."
         },
         {
-          "letter": "C",
-          "text": "Crisis económica",
+          "letter": "D",
+          "text": "Depende solo del número de trabajadores",
           "is_correct": false,
-          "feedback": "Una crisis económica es un malestar general del país, no el nombre del saldo de la balanza comercial."
+          "feedback": "El número de trabajadores es un factor del costo, no lo que determina el ingreso, que aquí depende del precio unitario."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
+      "correct_answer": "C",
+      "explanation": "El ingreso de los productores depende del precio unitario y del volumen: vender mas no garantiza ganar mas si el precio cae.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -234,36 +234,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W12-guerra-civil-sv-001-MASTERY-bundle-v6",
-      "statement": "¿Qué documento establece la organización del Estado?",
-      "context": "Clase de ciencias sociales en Santa Ana estudiando guerra civil sv.",
+      "statement": "¿Qué efecto tuvieron la expropiación de tierras ejidales y el reparto a terratenientes en las organizaciones campesinas de El Salvador?",
+      "context": "Una asamblea campesina en Metapán revisa la Ley 153 de 1977 y el reparto de tierras que siguió a la Guerra de 1932.",
       "options": [
         {
           "letter": "A",
-          "text": "La Constitución",
+          "text": "Las fortalecieron al encontrar en la defensa de la tierra un objetivo común",
           "is_correct": true,
-          "feedback": "Correcto. La Constitución es la norma fundamental que estructura los poderes del Estado y fija sus límites."
+          "feedback": "Correcto. Al ver la tierra que cultivaban concentrarse en pocas manos, los campesinos se organizaron para defenderla, y esa politización fue el germen de la insurgencia rural."
         },
         {
           "letter": "B",
-          "text": "Una ley ordinaria",
+          "text": "El Gobierno las creó para reemplazar a los partidos de izquierda",
           "is_correct": false,
-          "feedback": "Una ley ordinaria se limita a desarrollar una regla ya existente, no organiza los poderes del Estado entero."
+          "feedback": "Las organizaciones campesinas como la ANIS y la UFACS surgieron de la iniciativa de las propias bases, no de un plan oficial, y a menudo enfrentaron al propio Gobierno."
         },
         {
           "letter": "C",
-          "text": "Un decreto presidencial",
+          "text": "El repartimiento ocurrió en 1992 con los Acuerdos de Paz",
           "is_correct": false,
-          "feedback": "Un decreto presidencial es una decisión del ejecutivo sobre un asunto concreto, de rango menor que la Constitución."
+          "feedback": "Los Acuerdos de Paz de 1992 no trataron un reparto general de tierras: la expropiación y la entrega a terratenientes ocurrieron desde 1977, en plena guerra."
         },
         {
           "letter": "D",
-          "text": "Un tratado internacional",
+          "text": "La ley se limitó a regular el comercio exterior, así que no las afectaba",
           "is_correct": false,
-          "feedback": "Un tratado internacional obliga entre Estados firmantes, no es la norma que organiza el gobierno de un país."
+          "feedback": "La Ley 153 fue una reforma del régimen de propiedad rural, y por eso afectaba directamente a las bases campesinas que vivían de la tierra."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
+      "explanation": "La expropiación de las tierras ejidales y su entrega a terratenientes provocaron un movimiento campesino organizado, interesado en recuperar la tierra, que sería una de las bases sociales de la insurgencia.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -279,36 +279,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W12-guerra-civil-sv-001-MASTERY-bundle-v7",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
-      "context": "Clase de ciencias sociales en Santa Ana estudiando guerra civil sv.",
+      "statement": "Que dio unidad a la compilacion insurgente de 1980?",
+      "context": "En 1980 tres grupos insurgentes formaron una compilacion militar comun.",
       "options": [
         {
-          "letter": "D",
-          "text": "Urbanización masiva y nuevas clases sociales",
-          "is_correct": true,
-          "feedback": "Correcto. La industrialización concentró a los trabajadores en las ciudades y ensanchó la burguesía y el proletariado como clases nuevas."
-        },
-        {
           "letter": "A",
-          "text": "Retorno a la vida agrícola",
+          "text": "Acuerdo de San Andres",
           "is_correct": false,
-          "feedback": "La revolución industrial desplazó el trabajo del campo a la fábrica y a la ciudad, no de vuelta a la vida agrícola."
+          "feedback": "Los Acuerdos de San Andres son de 1983 y divisionaron a la izquierda armada."
         },
         {
           "letter": "B",
-          "text": "Disminución del comercio global",
+          "text": "Acuerdo de Paz",
           "is_correct": false,
-          "feedback": "La producción industrial exigía materias primas y mercados, de modo que el comercio internacional creció en vez de disminuir."
+          "feedback": "Los Acuerdos de Paz se firmó en 1992 para cerrar la guerra, no para formarla."
         },
         {
           "letter": "C",
-          "text": "Eliminación del trabajo manual",
+          "text": "Conferencia de 1980",
           "is_correct": false,
-          "feedback": "El trabajo manual se intensificó en las fábricas y la máquina solo transformó su forma, no lo eliminó."
+          "feedback": "La unidad se logro por acuerdos internos, no en una conferencia de 1980."
+        },
+        {
+          "letter": "D",
+          "text": "FMLN",
+          "is_correct": true,
+          "feedback": "Correcto. El FMLN unio en 1980 a los grupos insurgentes en un solo frente."
         }
       ],
       "correct_answer": "D",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
+      "explanation": "El FMLN nacio en 1980 y dio unidad militar a los grupos insurgentes, que hasta entonces actuaban por separado.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -324,36 +324,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W12-guerra-civil-sv-001-MASTERY-bundle-v8",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
-      "context": "Clase de ciencias sociales en Soyapango estudiando guerra civil sv.",
+      "statement": "Que provoco los desplazamientos forzados en El Salvador?",
+      "context": "Una familia de Metapan vio como su pueblo se vacio por los desplazamientos forzados.",
       "options": [
         {
-          "letter": "D",
-          "text": "Derechos humanos fundamentales",
-          "is_correct": true,
-          "feedback": "Correcto. La Constitución de un país democrático reconoce los derechos humanos fundamentales como límite al poder del Estado."
-        },
-        {
           "letter": "A",
-          "text": "Solo derechos de propiedad",
+          "text": "La Constitucion de 1983",
           "is_correct": false,
-          "feedback": "El derecho de propiedad es uno más entre los reconocidos, y limitar la Constitución a la propiedad dejaría fuera los demás."
+          "feedback": "El conflicto se produjo bajo la Constitucion de 1962, de modo que esa fecha no explica los desplazamientos."
         },
         {
           "letter": "B",
-          "text": "Únicamente derechos políticos",
+          "text": "La Ley 153 de 1977",
           "is_correct": false,
-          "feedback": "El voto y la participación política son una parte del catálogo, no la totalidad de los derechos de una Constitución democrática."
+          "feedback": "La Ley 153 toco la tenencia rural, pero los desplazamientos en masa los provoco la guerra, no esa ley."
         },
         {
           "letter": "C",
-          "text": "Derechos exclusivos del gobierno",
+          "text": "Los Acuerdos de Paz",
           "is_correct": false,
-          "feedback": "Son los ciudadanos los titulares de los derechos, y además esos derechos limitan al gobierno en lugar de pertenecerle."
+          "feedback": "Los Acuerdos de Paz de 1992 cerraron la guerra y permitieron el regreso de la poblacion, no la causaron."
+        },
+        {
+          "letter": "D",
+          "text": "La guerra civil de 1980",
+          "is_correct": true,
+          "feedback": "Es la correcta: los combates y el peligro obligaron a miles de familias a abandonar el campo."
         }
       ],
       "correct_answer": "D",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
+      "explanation": "Los desplazamientos forzados fueron provocados por la guerra civil, que obligo a las familias a abandonar el campo por seguridad.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -369,36 +369,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W12-guerra-civil-sv-001-MASTERY-bundle-v9",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
-      "context": "Clase de ciencias sociales en San Miguel estudiando guerra civil sv.",
+      "statement": "Para que sirvio esa comision?",
+      "context": "En 1993 el Gobierno creo una comision para estudiar lo que paso durante la guerra civil.",
       "options": [
         {
           "letter": "A",
-          "text": "Superávit comercial",
-          "is_correct": true,
-          "feedback": "Correcto. Si las exportaciones superan a las importaciones, la balanza comercial registra un superávit."
+          "text": "Para elegir al primer presidente civil del pais",
+          "is_correct": false,
+          "feedback": "La comision no fue una eleccion, porque su tarea era estudiar lo ocurrido y no designar una autoridad."
         },
         {
           "letter": "B",
-          "text": "Déficit comercial",
-          "is_correct": false,
-          "feedback": "El déficit aparece cuando se importa más de lo que se exporta, exactamente al revés de lo que dice el enunciado."
+          "text": "Para reconocer lo ocurrido y a sus victimas",
+          "is_correct": true,
+          "feedback": "Es la correcta: la comision documento la violencia de la guerra y ayudo a reconocer a las personas afectadas."
         },
         {
           "letter": "C",
-          "text": "Balanza equilibrada",
+          "text": "Para fundar un nuevo partido politico",
           "is_correct": false,
-          "feedback": "Una balanza equilibrada exige exportaciones e importaciones iguales, y aquí las exportaciones son mayores."
+          "feedback": "El FMLN se formo en 1980 como frente armado, mucho antes de que existiera esta comision."
         },
         {
           "letter": "D",
-          "text": "Crisis económica",
+          "text": "Para terminar la guerra con un nuevo ejercito",
           "is_correct": false,
-          "feedback": "Una crisis económica es un malestar general del país, no el nombre del saldo de la balanza comercial."
+          "feedback": "La guerra ya se habia cerrado en 1992, y la comision se creo despues para estudiar el pasado."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
+      "correct_answer": "B",
+      "explanation": "La comision creada en 1993 documento la violencia del conflicto y ayudo a reconocer a las victimas como un paso hacia la reconciliacion nacional.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -414,36 +414,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W12-guerra-civil-sv-001-MASTERY-bundle-v10",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
-      "context": "Clase de ciencias sociales en San Miguel estudiando guerra civil sv.",
+      "statement": "Para que sirvio la amnistía de 1986?",
+      "context": "En 1986, en plena guerra, el Congreso aprobo una ley de amnistía.",
       "options": [
         {
           "letter": "A",
-          "text": "El asesinato del Archiduque Francisco Fernando",
+          "text": "Para perdonar a combatientes y favorecer la paz",
           "is_correct": true,
-          "feedback": "Correcto. El asesinato del archiduque Francisco Fernando en Sarajevo en 1914 fue el detonante inmediato de la Primera Guerra Mundial."
+          "feedback": "Es la correcta: la amnistía perdono a combatientes de ambos bandos para abrir camino a la paz."
         },
         {
           "letter": "B",
-          "text": "El Tratado de Versalles",
+          "text": "Para castigar a los combatientes",
           "is_correct": false,
-          "feedback": "El Tratado de Versalles se firmó en 1919 para cerrar la guerra, de modo que fue una consecuencia y no una causa."
+          "feedback": "La amnistía perdono en lugar de sancionar, asi que castigar describe lo contrario de lo que ocurrio."
         },
         {
           "letter": "C",
-          "text": "La Revolución Rusa",
+          "text": "Para abolir el ejercito",
           "is_correct": false,
-          "feedback": "La Revolución Rusa ocurrió en 1917, ya en plena guerra, y fue ajena al estallido de 1914."
+          "feedback": "La amnistía se aplico a personas y no a instituciones, y el ejercito continuo existiendo."
         },
         {
           "letter": "D",
-          "text": "La invención del avión",
+          "text": "Para entregar el pais a la ONU",
           "is_correct": false,
-          "feedback": "El avión fue inventado en 1903 y es un hecho técnico, no un detonante diplomático."
+          "feedback": "La ONU acompanó los acuerdos, pero no administro el pais en lugar del propio Estado."
         }
       ],
       "correct_answer": "A",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
+      "explanation": "La amnistía de 1986 perdono a combatientes de ambos bandos como un paso del proceso de paz que termino en los Acuerdos de 1992.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -459,36 +459,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W12-guerra-civil-sv-001-MASTERY-bundle-v11",
-      "statement": "¿Qué documento establece la organización del Estado?",
-      "context": "Clase de ciencias sociales en San Salvador estudiando guerra civil sv.",
+      "statement": "Que cambio trajo militarizar el campo?",
+      "context": "En 1980 el Gobierno militarizò el campo y envio tropas a las zonas rurales.",
       "options": [
         {
-          "letter": "C",
-          "text": "La Constitución",
-          "is_correct": true,
-          "feedback": "Correcto. La Constitución es la norma fundamental que estructura los poderes del Estado y fija sus límites."
-        },
-        {
           "letter": "A",
-          "text": "Una ley ordinaria",
-          "is_correct": false,
-          "feedback": "Una ley ordinaria se limita a desarrollar una regla ya existente, no organiza los poderes del Estado entero."
+          "text": "El Estado perdio control del territorio",
+          "is_correct": true,
+          "feedback": "Es la correcta: en muchas zonas el Gobierno dejo de tener presencia efectiva y el poder quedo disputado."
         },
         {
           "letter": "B",
-          "text": "Un decreto presidencial",
+          "text": "Aumentaron las escuelas rurales",
           "is_correct": false,
-          "feedback": "Un decreto presidencial es una decisión del ejecutivo sobre un asunto concreto, de rango menor que la Constitución."
+          "feedback": "La educacion rural se vio afectada por el conflicto, y las escuelas no fueron el cambio central de esos años."
+        },
+        {
+          "letter": "C",
+          "text": "Se duplico la poblacion de las ciudades",
+          "is_correct": false,
+          "feedback": "Hubo desplazamientos hacia las zonas urbanas, pero el efecto central fue la perdida de control territorial."
         },
         {
           "letter": "D",
-          "text": "Un tratado internacional",
+          "text": "Se elimino el servicio militar",
           "is_correct": false,
-          "feedback": "Un tratado internacional obliga entre Estados firmantes, no es la norma que organiza el gobierno de un país."
+          "feedback": "El servicio militar se mantuvo e incluso se reforzo, porque el Gobierno necesitaba mas efectivos."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
+      "correct_answer": "A",
+      "explanation": "La militarizacion del campo en 1980 provoco que el Estado perdiera presencia efectiva en buena parte del territorio rural.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -549,36 +549,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W12-guerra-civil-sv-001-MASTERY-bundle-v13",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
-      "context": "Clase de ciencias sociales en Santa Ana estudiando guerra civil sv.",
+      "statement": "Que buscaban los Acuerdos de San Andres de 1983?",
+      "context": "En 1983 varios grupos de la izquierda firman un acuerdo para reactivar la via politica.",
       "options": [
         {
-          "letter": "D",
-          "text": "Derechos humanos fundamentales",
-          "is_correct": true,
-          "feedback": "Correcto. La Constitución de un país democrático reconoce los derechos humanos fundamentales como límite al poder del Estado."
-        },
-        {
           "letter": "A",
-          "text": "Solo derechos de propiedad",
+          "text": "Repartir tierras entre los campesinos",
           "is_correct": false,
-          "feedback": "El derecho de propiedad es uno más entre los reconocidos, y limitar la Constitución a la propiedad dejaría fuera los demás."
+          "feedback": "El reparto de tierras estuvo ligado a la Ley 153 de 1977, y este acuerdo se centro en la politica."
         },
         {
           "letter": "B",
-          "text": "Únicamente derechos políticos",
+          "text": "Firmar la paz que cerro la guerra",
           "is_correct": false,
-          "feedback": "El voto y la participación política son una parte del catálogo, no la totalidad de los derechos de una Constitución democrática."
+          "feedback": "La guerra se cerro en 1992 con los Acuerdos de Paz, casi diez años despues de este acuerdo."
         },
         {
           "letter": "C",
-          "text": "Derechos exclusivos del gobierno",
+          "text": "Fundar un nuevo ejercito",
           "is_correct": false,
-          "feedback": "Son los ciudadanos los titulares de los derechos, y además esos derechos limitan al gobierno en lugar de pertenecerle."
+          "feedback": "Ningun ejercito se fundo en 1983, porque el acuerdo era una propuesta de reforma y no una medida militar."
+        },
+        {
+          "letter": "D",
+          "text": "Reactivar la via politica con reformas",
+          "is_correct": true,
+          "feedback": "Es la correcta: el acuerdo proponia reformas y reactivar el proceso electoral, que luego fue bloqueado."
         }
       ],
       "correct_answer": "D",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
+      "explanation": "Los Acuerdos de San Andres de 1983 propusieron reformas institucionales y reactivar las elecciones, pero nunca llegaron a aplicarse.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -594,36 +594,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W12-guerra-civil-sv-001-MASTERY-bundle-v14",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
-      "context": "Clase de ciencias sociales en San Salvador estudiando guerra civil sv.",
+      "statement": "Que buscaban esas reformas institucionales?",
+      "context": "En los anos noventa el pais reformo varias instituciones del Estado.",
       "options": [
         {
-          "letter": "D",
-          "text": "Superávit comercial",
-          "is_correct": true,
-          "feedback": "Correcto. Si las exportaciones superan a las importaciones, la balanza comercial registra un superávit."
-        },
-        {
           "letter": "A",
-          "text": "Déficit comercial",
+          "text": "Aumentar el poder de las armas",
           "is_correct": false,
-          "feedback": "El déficit aparece cuando se importa más de lo que se exporta, exactamente al revés de lo que dice el enunciado."
+          "feedback": "Las reformas no buscaban mas armas, porque la orientacion era fortalecer las instituciones civiles."
         },
         {
           "letter": "B",
-          "text": "Balanza equilibrada",
-          "is_correct": false,
-          "feedback": "Una balanza equilibrada exige exportaciones e importaciones iguales, y aquí las exportaciones son mayores."
+          "text": "Fortalecer las instituciones democraticas",
+          "is_correct": true,
+          "feedback": "Es la correcta: las reformas buscaron fortalecer el Estado democratico y sus instituciones civiles."
         },
         {
           "letter": "C",
-          "text": "Crisis económica",
+          "text": "Reabrir el comercio de anil",
           "is_correct": false,
-          "feedback": "Una crisis económica es un malestar general del país, no el nombre del saldo de la balanza comercial."
+          "feedback": "El anil fue un tinte del siglo XVII, sin relacion con las reformas de los anos noventa."
+        },
+        {
+          "letter": "D",
+          "text": "Crear un nuevo ejercito popular",
+          "is_correct": false,
+          "feedback": "No se creo un ejercito popular, porque la reforma fue civil y no militar."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
+      "correct_answer": "B",
+      "explanation": "Las reformas institucionales de los anos noventa buscaron fortalecer el Estado democratico y sus instituciones civiles.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -639,36 +639,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W12-guerra-civil-sv-001-MASTERY-bundle-v15",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
-      "context": "Clase de ciencias sociales en Mejicanos estudiando guerra civil sv.",
+      "statement": "Que ocurrio en El Mozote en 1981?",
+      "context": "En marzo de 1981, el ejercito entro al pueblo de El Mozote, en Morazan.",
       "options": [
         {
-          "letter": "C",
-          "text": "El asesinato del Archiduque Francisco Fernando",
-          "is_correct": true,
-          "feedback": "Correcto. El asesinato del archiduque Francisco Fernando en Sarajevo en 1914 fue el detonante inmediato de la Primera Guerra Mundial."
-        },
-        {
           "letter": "A",
-          "text": "El Tratado de Versalles",
+          "text": "Una batalla entre el ejercito y el FMLN",
           "is_correct": false,
-          "feedback": "El Tratado de Versalles se firmó en 1919 para cerrar la guerra, de modo que fue una consecuencia y no una causa."
+          "feedback": "No hubo combate abierto: la mayoria de las personas afectadas fueron civiles, y por eso se conoce el caso como una massacre."
         },
         {
           "letter": "B",
-          "text": "La Revolución Rusa",
+          "text": "Una massacre de civiles",
+          "is_correct": true,
+          "feedback": "Es la correcta: las fuerzas del Estado mataron a cientos de personas en una sola jornada en ese pueblo."
+        },
+        {
+          "letter": "C",
+          "text": "La firma de la paz",
           "is_correct": false,
-          "feedback": "La Revolución Rusa ocurrió en 1917, ya en plena guerra, y fue ajena al estallido de 1914."
+          "feedback": "La guerra termino en 1992, once años despues de lo ocurrido en El Mozote."
         },
         {
           "letter": "D",
-          "text": "La invención del avión",
+          "text": "La fundacion de un nuevo ejercito",
           "is_correct": false,
-          "feedback": "El avión fue inventado en 1903 y es un hecho técnico, no un detonante diplomático."
+          "feedback": "No se fundo ningun ejercito: El Mozote se usa como simbolo del horror de la guerra civil."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
+      "correct_answer": "B",
+      "explanation": "La massacre de El Mozote en 1981 es uno de los episodios mas graves de la guerra civil salvadoreña, porque las víctimas fueron personas civiles.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -729,36 +729,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W12-guerra-civil-sv-001-MASTERY-bundle-v17",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
-      "context": "Clase de ciencias sociales en San Miguel estudiando guerra civil sv.",
+      "statement": "Que muestran las fosas comunes halladas?",
+      "context": "En los ochenta se hallaron fosas comunes en varios lugares del pais.",
       "options": [
         {
-          "letter": "C",
-          "text": "Urbanización masiva y nuevas clases sociales",
-          "is_correct": true,
-          "feedback": "Correcto. La industrialización concentró a los trabajadores en las ciudades y ensanchó la burguesía y el proletariado como clases nuevas."
-        },
-        {
           "letter": "A",
-          "text": "Retorno a la vida agrícola",
+          "text": "Que no hubo muertos",
           "is_correct": false,
-          "feedback": "La revolución industrial desplazó el trabajo del campo a la fábrica y a la ciudad, no de vuelta a la vida agrícola."
+          "feedback": "Las fosas comunes muestran lo contrario: hubo personas enterradas sin registro oficial."
         },
         {
           "letter": "B",
-          "text": "Disminución del comercio global",
+          "text": "Que los muertos fueron soldados",
           "is_correct": false,
-          "feedback": "La producción industrial exigía materias primas y mercados, de modo que el comercio internacional creció en vez de disminuir."
+          "feedback": "Muchas de las personas sepultadas eran civiles, y no solo miembros del ejercito."
+        },
+        {
+          "letter": "C",
+          "text": "Que hubo muertes sin registro",
+          "is_correct": true,
+          "feedback": "Es la correcta: las fosas comunes confirman que murio gente que nunca aparecio en un registro oficial."
         },
         {
           "letter": "D",
-          "text": "Eliminación del trabajo manual",
+          "text": "Que la guerra termino pronto",
           "is_correct": false,
-          "feedback": "El trabajo manual se intensificó en las fábricas y la máquina solo transformó su forma, no lo eliminó."
+          "feedback": "La guerra civil duro doce años, hasta 1992, de modo que las fosas no indican un final temprano."
         }
       ],
       "correct_answer": "C",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
+      "explanation": "Las fosas comunes muestran que muchas personas murieron durante la guerra sin que quedara registro oficial de su muerte.",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -774,36 +774,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W12-guerra-civil-sv-001-MASTERY-bundle-v18",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
-      "context": "Clase de ciencias sociales en Santa Ana estudiando guerra civil sv.",
+      "statement": "Que cambio se busco con la reforma policial?",
+      "context": "En los anos noventa, tras la guerra, se impulso la reforma de la policia nacional.",
       "options": [
         {
-          "letter": "C",
-          "text": "Derechos humanos fundamentales",
-          "is_correct": true,
-          "feedback": "Correcto. La Constitución de un país democrático reconoce los derechos humanos fundamentales como límite al poder del Estado."
-        },
-        {
           "letter": "A",
-          "text": "Solo derechos de propiedad",
-          "is_correct": false,
-          "feedback": "El derecho de propiedad es uno más entre los reconocidos, y limitar la Constitución a la propiedad dejaría fuera los demás."
+          "text": "Una policia civil con mejor capacitacion",
+          "is_correct": true,
+          "feedback": "Es la correcta: la reforma policial buscaron agentes con mejor formacion y mas relacion con la comunidad."
         },
         {
           "letter": "B",
-          "text": "Únicamente derechos políticos",
+          "text": "Un ejercito mas grande",
           "is_correct": false,
-          "feedback": "El voto y la participación política son una parte del catálogo, no la totalidad de los derechos de una Constitución democrática."
+          "feedback": "La reforma fue de la policia y no del ejercito, y no buscaba ampliar las fuerzas armadas."
+        },
+        {
+          "letter": "C",
+          "text": "Mas restricciones a la libertad",
+          "is_correct": false,
+          "feedback": "La reforma apuntaba a una policia mas profesional, no a endurecer las restricciones ciudadanas."
         },
         {
           "letter": "D",
-          "text": "Derechos exclusivos del gobierno",
+          "text": "La vuelta de la guerra",
           "is_correct": false,
-          "feedback": "Son los ciudadanos los titulares de los derechos, y además esos derechos limitan al gobierno en lugar de pertenecerle."
+          "feedback": "La reforma fue un cambio institucional posterior al conflicto, no un regreso a la guerra civil."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
+      "correct_answer": "A",
+      "explanation": "La reforma policial de los anos noventa buscaba formar una policia civil con mejor capacitacion y mayor presencia comunitaria.",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -819,36 +819,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W12-guerra-civil-sv-001-MASTERY-bundle-v19",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
-      "context": "Clase de ciencias sociales en Mejicanos estudiando guerra civil sv.",
+      "statement": "Que buscaban esas leyes de tenencia rural?",
+      "context": "En 1991 el Congreso aprobada una serie de leyes que tocaron la tenencia rural.",
       "options": [
         {
           "letter": "A",
-          "text": "Superávit comercial",
-          "is_correct": true,
-          "feedback": "Correcto. Si las exportaciones superan a las importaciones, la balanza comercial registra un superávit."
+          "text": "Repartir todas las tierras del pais",
+          "is_correct": false,
+          "feedback": "La concentracion de la propiedad agricola se mantuvo en pocas manos, de modo que el reparto no llego a ocurrir."
         },
         {
           "letter": "B",
-          "text": "Déficit comercial",
-          "is_correct": false,
-          "feedback": "El déficit aparece cuando se importa más de lo que se exporta, exactamente al revés de lo que dice el enunciado."
+          "text": "Corregir problemas de tenencia por la via legal",
+          "is_correct": true,
+          "feedback": "Es la correcta: las leyes resolvieron temas de tenencia por la via juridica, sin expropiaciones masivas como las de 1977."
         },
         {
           "letter": "C",
-          "text": "Balanza equilibrada",
+          "text": "Terminar la actividad campesina",
           "is_correct": false,
-          "feedback": "Una balanza equilibrada exige exportaciones e importaciones iguales, y aquí las exportaciones son mayores."
+          "feedback": "La actividad campesina continuo durante y despues de la guerra, y las leyes no la eliminaron."
         },
         {
           "letter": "D",
-          "text": "Crisis económica",
+          "text": "Crear fronteras nuevas en el campo",
           "is_correct": false,
-          "feedback": "Una crisis económica es un malestar general del país, no el nombre del saldo de la balanza comercial."
+          "feedback": "El tema era la tenencia de tierras ya existentes, no la creacion de fronteras nuevas."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
+      "correct_answer": "B",
+      "explanation": "Las leyes de tenencia rural de los años ochenta corrigieron problemas por la via legal, sin las expropiaciones masivas de 1977.",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -864,36 +864,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W12-guerra-civil-sv-001-MASTERY-bundle-v20",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
-      "context": "Clase de ciencias sociales en Santa Ana estudiando guerra civil sv.",
+      "statement": "Que cambio ocurrio en el FMLN en 1989?",
+      "context": "En 1989,tras un agreement con el ejercito, el FMLN decidio entrar en la vida partidista.",
       "options": [
         {
-          "letter": "C",
-          "text": "El asesinato del Archiduque Francisco Fernando",
-          "is_correct": true,
-          "feedback": "Correcto. El asesinato del archiduque Francisco Fernando en Sarajevo en 1914 fue el detonante inmediato de la Primera Guerra Mundial."
-        },
-        {
           "letter": "A",
-          "text": "El Tratado de Versalles",
-          "is_correct": false,
-          "feedback": "El Tratado de Versalles se firmó en 1919 para cerrar la guerra, de modo que fue una consecuencia y no una causa."
+          "text": "Dejo las armas y se convirtio en partido",
+          "is_correct": true,
+          "feedback": "Es la correcta: el FMLN dejo la lucha armada y se registro como partido para competir en elecciones."
         },
         {
           "letter": "B",
-          "text": "La Revolución Rusa",
+          "text": "Firmo la paz con el Gobierno",
           "is_correct": false,
-          "feedback": "La Revolución Rusa ocurrió en 1917, ya en plena guerra, y fue ajena al estallido de 1914."
+          "feedback": "La paz se firmo en 1992, y en 1989 lo que ocurrio fue el cambio del FMLN hacia la via electoral."
+        },
+        {
+          "letter": "C",
+          "text": "Se dividio en varios grupos",
+          "is_correct": false,
+          "feedback": "El FMLN mantuvo su unidad como fuerza organizada, y fue su giro electoral lo que cambio en esos años."
         },
         {
           "letter": "D",
-          "text": "La invención del avión",
+          "text": "Recupero la economia del pais",
           "is_correct": false,
-          "feedback": "El avión fue inventado en 1903 y es un hecho técnico, no un detonante diplomático."
+          "feedback": "El FMLN es una fuerza politica y no un organo economico, de modo que no restored la economia."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
+      "correct_answer": "A",
+      "explanation": "En 1989 el FMLN abandono la lucha armada y se convirtio en partido politico dentro del proceso que llevo a la paz.",
       "difficulty": "10",
       "images": [],
       "tags": [],

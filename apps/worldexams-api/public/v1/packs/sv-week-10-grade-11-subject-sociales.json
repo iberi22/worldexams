@@ -128,7 +128,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
+      "explanation": "En una constitución democrática los derechos no son un privilegio de unos pocos: se reconoce la vida, la libertad y la igualdad de toda persona, y se limita el poder del Estado frente a la ciudadanía.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -173,7 +173,7 @@
         }
       ],
       "correct_answer": "C",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
+      "explanation": "Cuando las ventas al exterior superan lo que el país gasta en compras, la diferencia favorable se registra como superávit en la balanza comercial.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -234,36 +234,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W10-republica-cafetalera-001-MASTERY-bundle-v6",
-      "statement": "¿Qué documento establece la organización del Estado?",
+      "statement": "¿Por qué se sembraba el café en terrenos de altura?",
       "context": "Clase de ciencias sociales en Santa Ana estudiando republica cafetalera.",
       "options": [
         {
-          "letter": "B",
-          "text": "La Constitución",
-          "is_correct": true,
-          "feedback": "La Constitución es la norma máxima y es la que fija la organización del Estado y los derechos de la ciudadanía."
+          "letter": "A",
+          "text": "Porque las tierras bajas no recibían ninguna lluvia.",
+          "is_correct": false,
+          "feedback": "Las zonas bajas sí recibían lluvias; lo decisivo no fue la ausencia de agua sino el clima templado que se encuentra más arriba."
         },
         {
-          "letter": "A",
-          "text": "Una ley ordinaria",
+          "letter": "B",
+          "text": "Porque el cafeto necesita un clima frío con inviernos largos.",
           "is_correct": false,
-          "feedback": "Una ley ordinaria es inferior a la Constitución y no puede contradecirla, así que no organiza el Estado por encima de ella."
+          "feedback": "El café no tolera el frío intenso ni las heladas, por eso las zonas más altas no eran automáticamente las mejores."
         },
         {
           "letter": "C",
-          "text": "Un decreto presidencial",
-          "is_correct": false,
-          "feedback": "Un decreto es un acto del Ejecutivo que aplica una ley; no es el documento que funda la organización del Estado."
+          "text": "Porque la altitud ofrece el clima templado y la humedad que el cafeto necesita.",
+          "is_correct": true,
+          "feedback": "Entre 900 y 1.500 metros se combinan temperaturas suaves y lluvias frecuentes, condiciones propias del cafeto."
         },
         {
           "letter": "D",
-          "text": "Un tratado internacional",
+          "text": "Porque a mayor altura el suelo era completamente plano y fácil de trabajar.",
           "is_correct": false,
-          "feedback": "Un tratado regula el acuerdo entre dos o más países, no la organización interna de un Estado."
+          "feedback": "La razón agronómica es el clima; además los terrenos altos suelen ser inclinados y requieren más trabajo."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
+      "correct_answer": "C",
+      "explanation": "El cafeto prospera donde las temperaturas son suaves y hay lluvias frecuentes, condiciones que en El Salvador se encuentran en la franja alta; por eso las mejores fincas se ubicaron en laderas de altura y no en el litoral.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -279,36 +279,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W10-republica-cafetalera-001-MASTERY-bundle-v7",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
+      "statement": "En una región de la república cafetalera, pocas familias controlan las fincas y numerosos hogares dependen del trabajo estacional de cosecha. ¿Qué relación social se deduce de esta distribución de recursos?",
       "context": "Clase de ciencias sociales en Santa Ana estudiando republica cafetalera.",
       "options": [
         {
-          "letter": "D",
-          "text": "Urbanización masiva y nuevas clases sociales",
-          "is_correct": true,
-          "feedback": "Las fábricas concentraron el trabajo en las ciudades: la población rural emigró y surgieron la burguesía industrial y el proletariado."
-        },
-        {
           "letter": "A",
-          "text": "Retorno a la vida agrícola",
+          "text": "La propiedad y el trabajo están distribuidos de manera igualitaria.",
           "is_correct": false,
-          "feedback": "La Revolución Industrial diminishó el peso de la agricultura en la economía, en vez de devolver la sociedad al campo."
+          "feedback": "La concentración de fincas en pocas familias contradice una distribución igualitaria de la propiedad."
         },
         {
           "letter": "B",
-          "text": "Disminución del comercio global",
-          "is_correct": false,
-          "feedback": "El comercio creció con los ferrocarriles y las fábricas, de modo que no disminuyó."
+          "text": "Los hogares trabajadores pueden depender de los propietarios para acceder a ingresos.",
+          "is_correct": true,
+          "feedback": "Al carecer de control sobre las fincas y depender de la cosecha, los hogares necesitan oportunidades laborales ofrecidas por los propietarios."
         },
         {
           "letter": "C",
-          "text": "Eliminación del trabajo manual",
+          "text": "El trabajo estacional asegura ingresos constantes durante todo el año.",
           "is_correct": false,
-          "feedback": "El trabajo manual no desapareció, se concentró en las fábricas y las minas."
+          "feedback": "El empleo de cosecha se concentra en una temporada; por sí solo no garantiza ingresos continuos fuera de ella."
+        },
+        {
+          "letter": "D",
+          "text": "La concentración de tierras demuestra que todos los trabajadores reciben rentas por propiedad.",
+          "is_correct": false,
+          "feedback": "Las rentas de propiedad corresponden a quienes poseen los bienes; trabajar en una finca no equivale a ser su propietario."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
+      "correct_answer": "B",
+      "explanation": "La concentración de la tierra puede generar dependencia laboral de quienes no la poseen. La estacionalidad de la cosecha añade incertidumbre a sus ingresos.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -324,36 +324,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W10-republica-cafetalera-001-MASTERY-bundle-v8",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
+      "statement": "¿Qué efecto tuvo la concentración de fincas en el país?",
       "context": "Clase de ciencias sociales en Soyapango estudiando republica cafetalera.",
       "options": [
         {
-          "letter": "C",
-          "text": "Derechos humanos fundamentales",
-          "is_correct": true,
-          "feedback": "La Constitución de un país democrático reconoce los derechos esenciales de toda persona, como la vida, la libertad y la igualdad."
-        },
-        {
           "letter": "A",
-          "text": "Solo derechos de propiedad",
+          "text": "Repartió la propiedad rural entre más familias.",
           "is_correct": false,
-          "feedback": "La propiedad es uno de los derechos, pero la Constitución reconoce muchos más, como la igualdad ante la ley y el debido proceso."
+          "feedback": "Al contrario de lo que afirma esta opción, la propiedad se concentró en menos manos."
         },
         {
           "letter": "B",
-          "text": "Únicamente derechos políticos",
+          "text": "Aumentó el número de pequeños parcelas independientes.",
           "is_correct": false,
-          "feedback": "El voto y la participación son parte de los derechos, pero la Constitución protege también derechos civiles y sociales."
+          "feedback": "El acceso a la tierra se cerró a los trabajadores sin recursos y las parcelas pequeñas disminuyeron."
+        },
+        {
+          "letter": "C",
+          "text": "Limitó la participación de las mayorías en la riqueza generada por el café.",
+          "is_correct": true,
+          "feedback": "Si unas pocas familias concentran las fincas, la renta del café queda concentrada y las mayorías participan poco de ella."
         },
         {
           "letter": "D",
-          "text": "Derechos exclusivos del gobierno",
+          "text": "Eliminó la necesidad de mano de obra en el campo.",
           "is_correct": false,
-          "feedback": "La Constitución limita al gobierno y protege a los ciudadanos; lo que el Estado tiene frente a ellos son deberes, no derechos."
+          "feedback": "La cosecha requería grandes cantidades de trabajadores, por eso la concentración de la tierra no suprimió el trabajo."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
+      "explanation": "Cuando la propiedad de las fincas se concentra en pocas familias, la riqueza que genera el café también se distribuye de forma desigual, y los trabajadores de la cosecha dependen de esos propietarios.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -369,36 +369,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W10-republica-cafetalera-001-MASTERY-bundle-v9",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
+      "statement": "¿Qué obtenía el país con las ventas de café en el exterior?",
       "context": "Clase de ciencias sociales en San Salvador estudiando republica cafetalera.",
       "options": [
         {
-          "letter": "C",
-          "text": "Superávit comercial",
-          "is_correct": true,
-          "feedback": "Exportar por encima de las importaciones significa que entra más dinero del que sale, y eso es superávit comercial."
-        },
-        {
           "letter": "A",
-          "text": "Déficit comercial",
+          "text": "Un déficit en la balanza comercial.",
           "is_correct": false,
-          "feedback": "El déficit es el caso contrario: exportar menos de lo que se importa."
+          "feedback": "Exportar café generaba entrada de divisas, no saldo negativo; el déficit aparece cuando se importa más de lo que se exporta."
         },
         {
           "letter": "B",
-          "text": "Balanza equilibrada",
+          "text": "Ingreso de divisas y una actividad económica activa.",
+          "is_correct": true,
+          "feedback": "La venta del café en el exterior introducía dinero en el país y sostenía el empleo y las obras."
+        },
+        {
+          "letter": "C",
+          "text": "Una economía protegida de los precios internacionales.",
           "is_correct": false,
-          "feedback": "Una balanza equilibrada exige exportar e importar la misma cantidad, y aquí las exportaciones son mayores."
+          "feedback": "El país seguía sujeto al precio mundial del grano, así que los ingresos variaban con él."
         },
         {
           "letter": "D",
-          "text": "Crisis económica",
+          "text": "Una reducción del comercio exterior.",
           "is_correct": false,
-          "feedback": "Un superávit comercial indica un saldo favorable, no una crisis."
+          "feedback": "La exportación del café era justamente lo que impulsaba el comercio exterior del país."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
+      "correct_answer": "B",
+      "explanation": "La venta del café en el exterior generaba entrada de divisas, que sostenía el empleo y las obras, y al mismo tiempo exponía al país a las variaciones del precio mundial del grano.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -414,36 +414,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W10-republica-cafetalera-001-MASTERY-bundle-v10",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
+      "statement": "¿Qué problema afectaba de forma constante a los trabajadores de la cosecha?",
       "context": "Clase de ciencias sociales en Soyapango estudiando republica cafetalera.",
       "options": [
         {
           "letter": "A",
-          "text": "El asesinato del Archiduque Francisco Fernando",
-          "is_correct": true,
-          "feedback": "El asesinato del Archiduque Francisco Fernando en Sarajevo en junio de 1914 fue el detonante directo de la guerra."
+          "text": "Que el cafeto dejara de producir por los cambios de clima.",
+          "is_correct": false,
+          "feedback": "El cafeto siguió produciendo en el país; el problema era la irregularidad del empleo, no la desaparición del cultivo."
         },
         {
           "letter": "B",
-          "text": "El Tratado de Versalles",
+          "text": "Que el trabajo se mantuviera parejo durante todo el año.",
           "is_correct": false,
-          "feedback": "El Tratado de Versalles se firmó en 1919, ya terminada la guerra, para imponer las condiciones de paz a Alemania."
+          "feedback": "La actividad se concentraba en la temporada de recolección y luego cesaba hasta el siguiente ciclo, así que no era pareja."
         },
         {
           "letter": "C",
-          "text": "La Revolución Rusa",
-          "is_correct": false,
-          "feedback": "La Revolución Rusa ocurrió en 1917, durante la guerra, y pertenece a otro conflicto posterior."
+          "text": "Que el ingreso se concentrara en pocos meses del año.",
+          "is_correct": true,
+          "feedback": "Como la cosecha es estacional, quien trabajaba en ella recibía el grueso de su ingreso durante pocos meses."
         },
         {
           "letter": "D",
-          "text": "La invención del avión",
+          "text": "Que los trabajadores recibieran un salario fijo garantizado.",
           "is_correct": false,
-          "feedback": "El avión no fue la causa de la guerra; el detonante fue un conflicto entre potencias europeas, y la aviación se usó en los combates."
+          "feedback": "El jornal dependía de la temporada y de la voluntad del propietario, sin garantía de ingreso anual."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
+      "correct_answer": "C",
+      "explanation": "Al ser estacional la cosecha, los trabajadores vivían de pocos meses de jornal y quedaban sin ingresos el resto del año, lo que los llevaba a buscar empleo temporal en otras actividades.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -459,36 +459,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W10-republica-cafetalera-001-MASTERY-bundle-v11",
-      "statement": "¿Qué documento establece la organización del Estado?",
+      "statement": "¿Quiénes controlaban el comercio del café en ese período?",
       "context": "Clase de ciencias sociales en San Miguel estudiando republica cafetalera.",
       "options": [
         {
           "letter": "C",
-          "text": "La Constitución",
+          "text": "Los grandes propietarios y las casas exportadoras.",
           "is_correct": true,
-          "feedback": "La Constitución es la norma máxima y es la que fija la organización del Estado y los derechos de la ciudadanía."
+          "feedback": "Dueños de fincas y exportadores concentraban la producción y la venta, lo que les daba influencia económica y política."
         },
         {
           "letter": "A",
-          "text": "Una ley ordinaria",
+          "text": "Los trabajadores de la cosecha.",
           "is_correct": false,
-          "feedback": "Una ley ordinaria es inferior a la Constitución y no puede contradecirla, así que no organiza el Estado por encima de ella."
+          "feedback": "Esos trabajadores prestaban la mano de obra a cambio de un jornal y no organizaban el comercio del grano."
         },
         {
           "letter": "B",
-          "text": "Un decreto presidencial",
+          "text": "Los pequeños productores independientes.",
           "is_correct": false,
-          "feedback": "Un decreto es un acto del Ejecutivo que aplica una ley; no es el documento que funda la organización del Estado."
+          "feedback": "Esos productores no caracterizaron al sector, porque la propiedad de las fincas se concentró en pocas familias."
         },
         {
           "letter": "D",
-          "text": "Un tratado internacional",
+          "text": "Los intermediarios que compraban en el mercado local.",
           "is_correct": false,
-          "feedback": "Un tratado regula el acuerdo entre dos o más países, no la organización interna de un Estado."
+          "feedback": "Los intermediarios locales actuaban en un eslabón menor; el control mayor estaba en la combinación de fincas y casas exportadoras."
         }
       ],
       "correct_answer": "C",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
+      "explanation": "La combinación de grandes propietarios y casas exportadoras concentraba el control del grano, desde la finca hasta el embarque, lo que explica la concentración de riqueza del período.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -504,36 +504,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W10-republica-cafetalera-001-MASTERY-bundle-v12",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
+      "statement": "¿Qué relación hubo entre el cultivo del café y la tenencia de la tierra en ese país?",
       "context": "Clase de ciencias sociales en San Miguel estudiando republica cafetalera.",
       "options": [
         {
           "letter": "A",
-          "text": "Urbanización masiva y nuevas clases sociales",
-          "is_correct": true,
-          "feedback": "Las fábricas concentraron el trabajo en las ciudades: la población rural emigró y surgieron la burguesía industrial y el proletariado."
+          "text": "El café llegó a cultivarse por acuerdo de las comunidades.",
+          "is_correct": false,
+          "feedback": "El cultivo del café se extendió por interés económico privado de los propietarios, no por una decisión comunitaria."
         },
         {
           "letter": "B",
-          "text": "Retorno a la vida agrícola",
+          "text": "La tenencia de la tierra se volvió irrelevante para cultivar café.",
           "is_correct": false,
-          "feedback": "La Revolución Industrial diminishó el peso de la agricultura en la economía, en vez de devolver la sociedad al campo."
+          "feedback": "Sin control de la tierra nadie podía sembrar café en serio, así que la tenencia fue clave."
         },
         {
           "letter": "C",
-          "text": "Disminución del comercio global",
-          "is_correct": false,
-          "feedback": "El comercio creció con los ferrocarriles y las fábricas, de modo que no disminuyó."
+          "text": "Quien controlaba la tierra controlaba también la producción del grano.",
+          "is_correct": true,
+          "feedback": "La finca reunía la propiedad y el cultivo, de modo que el dueño de la tierra decidía qué se producía y con qué trabajo."
         },
         {
           "letter": "D",
-          "text": "Eliminación del trabajo manual",
+          "text": "La tierra pasó a manos de los trabajadores del campo.",
           "is_correct": false,
-          "feedback": "El trabajo manual no desapareció, se concentró en las fábricas y las minas."
+          "feedback": "Las grandes extensiones se juntaron en pocas manos, y los trabajadores de campo quedaron como jornaleros."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
+      "correct_answer": "C",
+      "explanation": "La finca reunía propiedad y producción, así que el dueño de la tierra decidía qué se sembraba y contrataba la mano de obra, lo que situaba al productor en el centro del poder económico.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -549,36 +549,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W10-republica-cafetalera-001-MASTERY-bundle-v13",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
+      "statement": "¿Qué dificultad social enfrentaban los trabajadores de la cosecha?",
       "context": "Clase de ciencias sociales en San Salvador estudiando republica cafetalera.",
       "options": [
         {
-          "letter": "D",
-          "text": "Derechos humanos fundamentales",
-          "is_correct": true,
-          "feedback": "La Constitución de un país democrático reconoce los derechos esenciales de toda persona, como la vida, la libertad y la igualdad."
-        },
-        {
           "letter": "A",
-          "text": "Solo derechos de propiedad",
+          "text": "No tener tierra propia.",
           "is_correct": false,
-          "feedback": "La propiedad es uno de los derechos, pero la Constitución reconoce muchos más, como la igualdad ante la ley y el debido proceso."
+          "feedback": "Quien no tenía finca cosechaba en la de otro, y de ahí nacía su dependencia."
         },
         {
           "letter": "B",
-          "text": "Únicamente derechos políticos",
+          "text": "Impedir la producción de café en el país.",
           "is_correct": false,
-          "feedback": "El voto y la participación son parte de los derechos, pero la Constitución protege también derechos civiles y sociales."
+          "feedback": "El país siguió produciendo café; el límite del jornalero no era producir, sino no controlar la tierra."
         },
         {
           "letter": "C",
-          "text": "Derechos exclusivos del gobierno",
+          "text": "Depender de la renta de los propietarios.",
+          "is_correct": true,
+          "feedback": "Sus ingresos dependían de la temporada y de la decisión del dueño de la finca sobre cuánto pagar."
+        },
+        {
+          "letter": "D",
+          "text": "No existir ninguna relación laboral en el campo.",
           "is_correct": false,
-          "feedback": "La Constitución limita al gobierno y protege a los ciudadanos; lo que el Estado tiene frente a ellos son deberes, no derechos."
+          "feedback": "Sí existían relaciones laborales, aunque desiguales y con parte del año sin jornal."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
+      "correct_answer": "C",
+      "explanation": "El jornalero no controlaba ni la tierra ni el producto, así que dependía de la temporada y de la voluntad del propietario para su sustento dentro de la economía cafetalera.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -594,36 +594,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W10-republica-cafetalera-001-MASTERY-bundle-v14",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
+      "statement": "Si el precio del café baja, ¿qué le ocurre a la economía cafetalera del país?",
       "context": "Clase de ciencias sociales en San Miguel estudiando republica cafetalera.",
       "options": [
         {
-          "letter": "D",
-          "text": "Superávit comercial",
-          "is_correct": true,
-          "feedback": "Exportar por encima de las importaciones significa que entra más dinero del que sale, y eso es superávit comercial."
-        },
-        {
           "letter": "A",
-          "text": "Déficit comercial",
+          "text": "Aumenta el número de fincas pequeñas.",
           "is_correct": false,
-          "feedback": "El déficit es el caso contrario: exportar menos de lo que se importa."
+          "feedback": "Una caída de precios reduce el ingreso de la cosecha y desanima a invertir, no a abrir parcelas."
         },
         {
           "letter": "B",
-          "text": "Balanza equilibrada",
+          "text": "El país deja de producir café.",
           "is_correct": false,
-          "feedback": "Una balanza equilibrada exige exportar e importar la misma cantidad, y aquí las exportaciones son mayores."
+          "feedback": "El precio y la producción son cosas distintas: un precio menor no elimina los cafetales existentes."
         },
         {
           "letter": "C",
-          "text": "Crisis económica",
+          "text": "Bajan los ingresos de los productores y de los trabajadores.",
+          "is_correct": true,
+          "feedback": "Con menor precio por cada saco, el pago al jornal y la renta de la finca bajan para todo el sector."
+        },
+        {
+          "letter": "D",
+          "text": "La tierra se reparte entre más trabajadores.",
           "is_correct": false,
-          "feedback": "Un superávit comercial indica un saldo favorable, no una crisis."
+          "feedback": "El acceso a la tierra depende de la propiedad, y la propiedad no cambió por una variación de precio."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
+      "correct_answer": "C",
+      "explanation": "El precio del café es un factor externo que influye en toda la cadena: si baja, bajan las rentas de las fincas y los jornales de la cosecha, lo que castiga a quienes viven del cultivo.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -639,36 +639,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W10-republica-cafetalera-001-MASTERY-bundle-v15",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
+      "statement": "¿De dónde salió buena parte de la tierra para ampliar los cafetales?",
       "context": "Clase de ciencias sociales en Santa Ana estudiando republica cafetalera.",
       "options": [
         {
-          "letter": "C",
-          "text": "El asesinato del Archiduque Francisco Fernando",
-          "is_correct": true,
-          "feedback": "El asesinato del Archiduque Francisco Fernando en Sarajevo en junio de 1914 fue el detonante directo de la guerra."
-        },
-        {
           "letter": "A",
-          "text": "El Tratado de Versalles",
+          "text": "De terrenos cedidos voluntariamente por los trabajadores.",
           "is_correct": false,
-          "feedback": "El Tratado de Versalles se firmó en 1919, ya terminada la guerra, para imponer las condiciones de paz a Alemania."
+          "feedback": "La cesión voluntaria de tierras no explica el avance del cafetal, que fue empujado por el interés exportador."
         },
         {
           "letter": "B",
-          "text": "La Revolución Rusa",
+          "text": "De tierras comunales y ejidales que pasaron a control del Estado.",
           "is_correct": false,
-          "feedback": "La Revolución Rusa ocurrió en 1917, durante la guerra, y pertenece a otro conflicto posterior."
+          "feedback": "Muchas comunidades perdieron sus terrenos comunales cuando el Estado los vendió a terratenientes para sembrar café."
+        },
+        {
+          "letter": "C",
+          "text": "De la expropiación de tierras ejidales y comunales.",
+          "is_correct": true,
+          "feedback": "El Estado tomó tierras ejidales y comunales y las entregó a particulares, y así se ampliaron los cafetales."
         },
         {
           "letter": "D",
-          "text": "La invención del avión",
+          "text": "De tierras devueltas por otros países.",
           "is_correct": false,
-          "feedback": "El avión no fue la causa de la guerra; el detonante fue un conflicto entre potencias europeas, y la aviación se usó en los combates."
+          "feedback": "La ampliación del cafetal fue interna; la tierra llegó de terrenos expropiados, no de devoluciones extranjeras."
         }
       ],
       "correct_answer": "C",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
+      "explanation": "El Estado decidió expropiar terrenos ejidales y comunales para ampliar los cafetales, lo que chocó con los derechos de las comunidades.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -684,36 +684,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W10-republica-cafetalera-001-MASTERY-bundle-v16",
-      "statement": "¿Qué documento establece la organización del Estado?",
+      "statement": "Durante el estudio de la república cafetalera, se afirma que construir una vía entre una zona productora y un puerto podía favorecer la economía exportadora. ¿Cuál es el mecanismo que explica esa afirmación?",
       "context": "Clase de ciencias sociales en San Miguel estudiando republica cafetalera.",
       "options": [
         {
-          "letter": "C",
-          "text": "La Constitución",
-          "is_correct": true,
-          "feedback": "La Constitución es la norma máxima y es la que fija la organización del Estado y los derechos de la ciudadanía."
-        },
-        {
           "letter": "A",
-          "text": "Una ley ordinaria",
+          "text": "La vía garantizaba un precio internacional fijo para cada cosecha.",
           "is_correct": false,
-          "feedback": "Una ley ordinaria es inferior a la Constitución y no puede contradecirla, así que no organiza el Estado por encima de ella."
+          "feedback": "Una mejora de transporte no fija el precio mundial, que también depende de la oferta y la demanda."
         },
         {
           "letter": "B",
-          "text": "Un decreto presidencial",
+          "text": "La vía podía reducir tiempos y costos de transportar el café hacia los mercados externos.",
+          "is_correct": true,
+          "feedback": "Conectar fincas y puertos facilita llevar el producto a los puntos de embarque y puede disminuir los costos de comercialización."
+        },
+        {
+          "letter": "C",
+          "text": "La vía eliminaba la necesidad de compradores extranjeros.",
           "is_correct": false,
-          "feedback": "Un decreto es un acto del Ejecutivo que aplica una ley; no es el documento que funda la organización del Estado."
+          "feedback": "La exportación sigue requiriendo compradores externos; la infraestructura facilita el traslado, no sustituye la demanda."
         },
         {
           "letter": "D",
-          "text": "Un tratado internacional",
+          "text": "La vía convertía automáticamente a cada trabajador en propietario de una finca.",
           "is_correct": false,
-          "feedback": "Un tratado regula el acuerdo entre dos o más países, no la organización interna de un Estado."
+          "feedback": "Construir infraestructura no cambia por sí mismo los títulos de propiedad de las tierras."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
+      "correct_answer": "B",
+      "explanation": "La infraestructura de transporte puede reducir obstáculos entre la producción y el embarque del café. Ese efecto favorece la comercialización sin garantizar precios ni redistribuir la propiedad.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -729,36 +729,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W10-republica-cafetalera-001-MASTERY-bundle-v17",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
+      "statement": "Dos fincas cafetaleras tienen el mismo número de trabajadores y el mismo volumen de cosecha, pero una pertenece a una familia rica y la otra a un pequeño propietario. ¿Qué diferencia social se observa?",
       "context": "Clase de ciencias sociales en San Salvador estudiando republica cafetalera.",
       "options": [
         {
           "letter": "A",
-          "text": "Urbanización masiva y nuevas clases sociales",
-          "is_correct": true,
-          "feedback": "Las fábricas concentraron el trabajo en las ciudades: la población rural emigró y surgieron la burguesía industrial y el proletariado."
+          "text": "Ninguna: con igual cantidad de trabajo y de cosecha el resultado social es el mismo.",
+          "is_correct": false,
+          "feedback": "Volumen igual de trabajo no asegura igual resultado: cambia quién recibe la renta y quién depende de ella."
         },
         {
           "letter": "B",
-          "text": "Retorno a la vida agrícola",
+          "text": "La familia rica controla más tierra que el pequeño propietario.",
           "is_correct": false,
-          "feedback": "La Revolución Industrial diminishó el peso de la agricultura en la economía, en vez de devolver la sociedad al campo."
+          "feedback": "El enunciado dice que ambas fincas son iguales en trabajo y cosecha, así que la diferencia no está en el tamaño."
         },
         {
           "letter": "C",
-          "text": "Disminución del comercio global",
+          "text": "La renta se reparte de manera distinta según quién es el dueño.",
           "is_correct": false,
-          "feedback": "El comercio creció con los ferrocarriles y las fábricas, de modo que no disminuyó."
+          "feedback": "En la finca rica la renta queda en una familia, mientras en la pequeña debe cubrir el ingreso de su dueño."
         },
         {
           "letter": "D",
-          "text": "Eliminación del trabajo manual",
-          "is_correct": false,
-          "feedback": "El trabajo manual no desapareció, se concentró en las fábricas y las minas."
+          "text": "La familia rica depende menos del trabajo estacional.",
+          "is_correct": true,
+          "feedback": "Con ingresos propios de otras fuentes, esa familia no dependía de un mal año de cosecha como el pequeño."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
+      "correct_answer": "D",
+      "explanation": "Datos de producción iguales no producen iguales condiciones de vida: la diferencia está en quién controla la finca y con qué ingresos cuenta.",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -774,36 +774,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W10-republica-cafetalera-001-MASTERY-bundle-v18",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
+      "statement": "Un texto sobre la república cafetalera describe una oligarquía vinculada a la propiedad de grandes fincas. ¿Qué significa el término oligarquía en ese contexto?",
       "context": "Clase de ciencias sociales en San Salvador estudiando republica cafetalera.",
       "options": [
         {
           "letter": "A",
-          "text": "Derechos humanos fundamentales",
+          "text": "Una concentración del poder político en un grupo reducido relacionado con recursos económicos.",
           "is_correct": true,
-          "feedback": "La Constitución de un país democrático reconoce los derechos esenciales de toda persona, como la vida, la libertad y la igualdad."
+          "feedback": "La oligarquía designa el dominio de una minoría; en este contexto, su posición está relacionada con la propiedad cafetalera."
         },
         {
           "letter": "B",
-          "text": "Solo derechos de propiedad",
+          "text": "Un sistema en el que todos los habitantes ejercen la misma influencia política.",
           "is_correct": false,
-          "feedback": "La propiedad es uno de los derechos, pero la Constitución reconoce muchos más, como la igualdad ante la ley y el debido proceso."
+          "feedback": "La oligarquía supone concentración del poder en una minoría, no influencia igual de toda la población."
         },
         {
           "letter": "C",
-          "text": "Únicamente derechos políticos",
+          "text": "Una organización integrada exclusivamente por trabajadores sin propiedad.",
           "is_correct": false,
-          "feedback": "El voto y la participación son parte de los derechos, pero la Constitución protege también derechos civiles y sociales."
+          "feedback": "El texto vincula el grupo dominante con grandes fincas, no con trabajadores que carecen de ellas."
         },
         {
           "letter": "D",
-          "text": "Derechos exclusivos del gobierno",
+          "text": "Una economía donde la ausencia de gobierno impide cualquier concentración de poder.",
           "is_correct": false,
-          "feedback": "La Constitución limita al gobierno y protege a los ciudadanos; lo que el Estado tiene frente a ellos son deberes, no derechos."
+          "feedback": "La oligarquía describe quién concentra el poder, no la ausencia de instituciones de gobierno."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
+      "explanation": "Una oligarquía concentra el poder en un grupo reducido. En el contexto cafetalero, la propiedad y los recursos económicos ayudan a comprender la influencia de ese grupo.",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -819,36 +819,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W10-republica-cafetalera-001-MASTERY-bundle-v19",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
+      "statement": "En un ejercicio sobre una economía cafetalera, se exportan 10.000 sacos a 100 unidades monetarias cada uno. El precio internacional cae a 70, mientras el volumen permanece igual. ¿Cuántos sacos habría que exportar al nuevo precio para alcanzar al menos el ingreso original?",
       "context": "Clase de ciencias sociales en San Miguel estudiando republica cafetalera.",
       "options": [
         {
-          "letter": "C",
-          "text": "Superávit comercial",
-          "is_correct": true,
-          "feedback": "Exportar por encima de las importaciones significa que entra más dinero del que sale, y eso es superávit comercial."
-        },
-        {
           "letter": "A",
-          "text": "Déficit comercial",
+          "text": "13.000 sacos.",
           "is_correct": false,
-          "feedback": "El déficit es el caso contrario: exportar menos de lo que se importa."
+          "feedback": "13.000 × 70 = 910.000, una cantidad inferior al ingreso original de 1.000.000."
         },
         {
           "letter": "B",
-          "text": "Balanza equilibrada",
+          "text": "14.286 sacos.",
+          "is_correct": true,
+          "feedback": "1.000.000 ÷ 70 = 14.285,714…; se necesitan 14.286 sacos enteros para alcanzar al menos el ingreso original."
+        },
+        {
+          "letter": "C",
+          "text": "7.000 sacos.",
           "is_correct": false,
-          "feedback": "Una balanza equilibrada exige exportar e importar la misma cantidad, y aquí las exportaciones son mayores."
+          "feedback": "Reducir también el volumen agrava la pérdida: 7.000 × 70 = 490.000."
         },
         {
           "letter": "D",
-          "text": "Crisis económica",
+          "text": "10.000 sacos.",
           "is_correct": false,
-          "feedback": "Un superávit comercial indica un saldo favorable, no una crisis."
+          "feedback": "Mantener 10.000 sacos al nuevo precio produce 700.000, que representa una caída de ingresos del 30 %."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
+      "correct_answer": "B",
+      "explanation": "El ingreso original es 10.000 × 100 = 1.000.000. Para compensar el menor precio se divide ese ingreso entre 70 y se redondea hacia arriba porque los sacos se cuentan como unidades enteras.",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -864,36 +864,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W10-republica-cafetalera-001-MASTERY-bundle-v20",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
+      "statement": "¿Qué producto agrícola da nombre al período salvadoreño conocido como república cafetalera por su importancia en la economía exportadora?",
       "context": "Clase de ciencias sociales en Mejicanos estudiando republica cafetalera.",
       "options": [
         {
-          "letter": "D",
-          "text": "El asesinato del Archiduque Francisco Fernando",
-          "is_correct": true,
-          "feedback": "El asesinato del Archiduque Francisco Fernando en Sarajevo en junio de 1914 fue el detonante directo de la guerra."
-        },
-        {
           "letter": "A",
-          "text": "El Tratado de Versalles",
+          "text": "El maíz.",
           "is_correct": false,
-          "feedback": "El Tratado de Versalles se firmó en 1919, ya terminada la guerra, para imponer las condiciones de paz a Alemania."
+          "feedback": "El maíz es un cultivo alimentario importante, pero no es el producto exportador que da nombre a este período."
         },
         {
           "letter": "B",
-          "text": "La Revolución Rusa",
+          "text": "El cacao.",
           "is_correct": false,
-          "feedback": "La Revolución Rusa ocurrió en 1917, durante la guerra, y pertenece a otro conflicto posterior."
+          "feedback": "El cacao es otro cultivo tropical; el nombre del período alude específicamente al predominio del café."
         },
         {
           "letter": "C",
-          "text": "La invención del avión",
+          "text": "El algodón.",
           "is_correct": false,
-          "feedback": "El avión no fue la causa de la guerra; el detonante fue un conflicto entre potencias europeas, y la aviación se usó en los combates."
+          "feedback": "El algodón no es el cultivo al que se refiere el término cafetalera, aunque también pueda comercializarse."
+        },
+        {
+          "letter": "D",
+          "text": "El café.",
+          "is_correct": true,
+          "feedback": "El término cafetalera remite al café y a su papel central en la economía de exportación de ese período."
         }
       ],
       "correct_answer": "D",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
+      "explanation": "La denominación república cafetalera destaca la importancia del café en la economía exportadora salvadoreña. El término también orienta el estudio de las relaciones sociales vinculadas a su producción.",
       "difficulty": "10",
       "images": [],
       "tags": [],

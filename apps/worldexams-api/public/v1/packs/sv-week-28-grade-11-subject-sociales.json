@@ -58,12 +58,6 @@
       "context": "Clase de ciencias sociales en Soyapango estudiando globalizacion.",
       "options": [
         {
-          "letter": "C",
-          "text": "Urbanización masiva y nuevas clases sociales",
-          "is_correct": true,
-          "feedback": "Correcto. La industrialización concentró a los trabajadores en las ciudades y ensanchó la burguesía y el proletariado como clases nuevas."
-        },
-        {
           "letter": "A",
           "text": "Retorno a la vida agrícola",
           "is_correct": false,
@@ -74,6 +68,12 @@
           "text": "Disminución del comercio global",
           "is_correct": false,
           "feedback": "La producción industrial exigía materias primas y mercados, de modo que el comercio internacional creció en vez de disminuir."
+        },
+        {
+          "letter": "C",
+          "text": "Urbanización masiva y nuevas clases sociales",
+          "is_correct": true,
+          "feedback": "Correcto. La industrialización concentró a los trabajadores en las ciudades y ensanchó la burguesía y el proletariado como clases nuevas."
         },
         {
           "letter": "D",
@@ -103,16 +103,16 @@
       "context": "Clase de ciencias sociales en Soyapango estudiando globalizacion.",
       "options": [
         {
-          "letter": "B",
-          "text": "Derechos humanos fundamentales",
-          "is_correct": true,
-          "feedback": "Correcto. La Constitución de un país democrático reconoce los derechos humanos fundamentales como límite al poder del Estado."
-        },
-        {
           "letter": "A",
           "text": "Solo derechos de propiedad",
           "is_correct": false,
           "feedback": "El derecho de propiedad es uno más entre los reconocidos, y limitar la Constitución a la propiedad dejaría fuera los demás."
+        },
+        {
+          "letter": "B",
+          "text": "Derechos humanos fundamentales",
+          "is_correct": true,
+          "feedback": "Correcto. La Constitución de un país democrático reconoce los derechos humanos fundamentales como límite al poder del Estado."
         },
         {
           "letter": "C",
@@ -193,12 +193,6 @@
       "context": "Clase de ciencias sociales en Santa Ana estudiando globalizacion.",
       "options": [
         {
-          "letter": "D",
-          "text": "El asesinato del Archiduque Francisco Fernando",
-          "is_correct": true,
-          "feedback": "Correcto. El asesinato del archiduque Francisco Fernando en Sarajevo en 1914 fue el detonante inmediato de la Primera Guerra Mundial."
-        },
-        {
           "letter": "A",
           "text": "El Tratado de Versalles",
           "is_correct": false,
@@ -215,6 +209,12 @@
           "text": "La invención del avión",
           "is_correct": false,
           "feedback": "El avión fue inventado en 1903 y es un hecho técnico, no un detonante diplomático."
+        },
+        {
+          "letter": "D",
+          "text": "El asesinato del Archiduque Francisco Fernando",
+          "is_correct": true,
+          "feedback": "Correcto. El asesinato del archiduque Francisco Fernando en Sarajevo en 1914 fue el detonante inmediato de la Primera Guerra Mundial."
         }
       ],
       "correct_answer": "D",
@@ -234,36 +234,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W28-globalizacion-001-MASTERY-bundle-v6",
-      "statement": "¿Qué documento establece la organización del Estado?",
+      "statement": "¿Qué acuerdo firmado en 1995 creó la Organización Mundial del Comercio?",
       "context": "Clase de ciencias sociales en Santa Ana estudiando globalizacion.",
       "options": [
         {
-          "letter": "B",
-          "text": "La Constitución",
+          "letter": "A",
+          "text": "El Acuerdo de Marrakech",
           "is_correct": true,
-          "feedback": "Correcto. La Constitución es la norma fundamental que estructura los poderes del Estado y fija sus límites."
+          "feedback": "Firmado en 1994 y vigente desde 1995, ese acuerdo creó la OMC."
         },
         {
-          "letter": "A",
-          "text": "Una ley ordinaria",
+          "letter": "B",
+          "text": "El GATT",
           "is_correct": false,
-          "feedback": "Una ley ordinaria se limita a desarrollar una regla ya existente, no organiza los poderes del Estado entero."
+          "feedback": "El GATT fue un acuerdo comercial de 1947, y fue sustituido por la OMC."
         },
         {
           "letter": "C",
-          "text": "Un decreto presidencial",
+          "text": "La NAFTA",
           "is_correct": false,
-          "feedback": "Un decreto presidencial es una decisión del ejecutivo sobre un asunto concreto, de rango menor que la Constitución."
+          "feedback": "La NAFTA fue un tratado comercial de 1994 entre tres países de Norteamérica."
         },
         {
           "letter": "D",
-          "text": "Un tratado internacional",
+          "text": "El BRETT",
           "is_correct": false,
-          "feedback": "Un tratado internacional obliga entre Estados firmantes, no es la norma que organiza el gobierno de un país."
+          "feedback": "La ronda de negociaciones del BRETT llevó a la creación de la OMC."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
+      "correct_answer": "A",
+      "explanation": "El Acuerdo de Marrakech dio lugar a la OMC en 1995.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -279,36 +279,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W28-globalizacion-001-MASTERY-bundle-v7",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
+      "statement": "Una empresa ensambla prendas en El Salvador con tela importada y las vende mediante una plataforma administrada desde otro país. ¿Qué característica de la globalización ilustra mejor este caso?",
       "context": "Clase de ciencias sociales en Soyapango estudiando globalizacion.",
       "options": [
         {
-          "letter": "C",
-          "text": "Urbanización masiva y nuevas clases sociales",
-          "is_correct": true,
-          "feedback": "Correcto. La industrialización concentró a los trabajadores en las ciudades y ensanchó la burguesía y el proletariado como clases nuevas."
-        },
-        {
           "letter": "A",
-          "text": "Retorno a la vida agrícola",
+          "text": "La desaparición de toda especialización entre países.",
           "is_correct": false,
-          "feedback": "La revolución industrial desplazó el trabajo del campo a la fábrica y a la ciudad, no de vuelta a la vida agrícola."
+          "feedback": "El caso muestra funciones diferenciadas de suministro, ensamblaje y comercialización, no la eliminación de la especialización."
         },
         {
           "letter": "B",
-          "text": "Disminución del comercio global",
+          "text": "La organización de la producción y comercialización mediante conexiones entre varios países.",
+          "is_correct": true,
+          "feedback": "Los insumos, el ensamblaje y la plataforma comercial se vinculan internacionalmente dentro de una misma actividad económica."
+        },
+        {
+          "letter": "C",
+          "text": "La autosuficiencia de una empresa que obtiene todos sus recursos dentro del país.",
           "is_correct": false,
-          "feedback": "La producción industrial exigía materias primas y mercados, de modo que el comercio internacional creció en vez de disminuir."
+          "feedback": "La tela importada y la plataforma extranjera contradicen la autosuficiencia exclusivamente nacional."
         },
         {
           "letter": "D",
-          "text": "Eliminación del trabajo manual",
+          "text": "La sustitución completa de la producción material por actividades digitales.",
           "is_correct": false,
-          "feedback": "El trabajo manual se intensificó en las fábricas y la máquina solo transformó su forma, no lo eliminó."
+          "feedback": "La venta usa una plataforma digital, pero las prendas siguen requiriendo materiales y ensamblaje físico."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
+      "correct_answer": "B",
+      "explanation": "El caso muestra una cadena de valor con etapas conectadas internacionalmente. La globalización permite coordinar actividades productivas y comerciales en distintos países.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -324,36 +324,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W28-globalizacion-001-MASTERY-bundle-v8",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
+      "statement": "¿A qué se llama el desplazamiento de trabajadores cualificados?",
       "context": "Clase de ciencias sociales en San Miguel estudiando globalizacion.",
       "options": [
         {
-          "letter": "C",
-          "text": "Derechos humanos fundamentales",
-          "is_correct": true,
-          "feedback": "Correcto. La Constitución de un país democrático reconoce los derechos humanos fundamentales como límite al poder del Estado."
-        },
-        {
           "letter": "A",
-          "text": "Solo derechos de propiedad",
+          "text": "El desplazamiento",
           "is_correct": false,
-          "feedback": "El derecho de propiedad es uno más entre los reconocidos, y limitar la Constitución a la propiedad dejaría fuera los demás."
+          "feedback": "Ese término nombra el traslado de personas dentro de un mismo país."
         },
         {
           "letter": "B",
-          "text": "Únicamente derechos políticos",
+          "text": "La migración laboral",
           "is_correct": false,
-          "feedback": "El voto y la participación política son una parte del catálogo, no la totalidad de los derechos de una Constitución democrática."
+          "feedback": "Ese término alude a personas que se desplazan por trabajo, no solo a cualificados."
+        },
+        {
+          "letter": "C",
+          "text": "La fuga de cerebros",
+          "is_correct": true,
+          "feedback": "La fuga de cerebros es la salida de científicos, médicos e ingenieros de un país."
         },
         {
           "letter": "D",
-          "text": "Derechos exclusivos del gobierno",
+          "text": "El exportador",
           "is_correct": false,
-          "feedback": "Son los ciudadanos los titulares de los derechos, y además esos derechos limitan al gobierno en lugar de pertenecerle."
+          "feedback": "Ese término nombra a quien vende bienes al exterior, no a quien se va del país."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
+      "explanation": "La fuga de cerebros es la salida de técnicos cualificados de un país.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -369,36 +369,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W28-globalizacion-001-MASTERY-bundle-v9",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
+      "statement": "Una cooperativa salvadoreña compra un insumo importado cuyo precio internacional pasa de 10 a 13 dólares por unidad. Si utiliza 100 unidades y los demás costos permanecen iguales, ¿qué efecto directo debe incorporar a su presupuesto?",
       "context": "Clase de ciencias sociales en Santa Ana estudiando globalizacion.",
       "options": [
         {
-          "letter": "C",
-          "text": "Superávit comercial",
-          "is_correct": true,
-          "feedback": "Correcto. Si las exportaciones superan a las importaciones, la balanza comercial registra un superávit."
-        },
-        {
           "letter": "A",
-          "text": "Déficit comercial",
+          "text": "Una reducción de 300 dólares en el costo del insumo.",
           "is_correct": false,
-          "feedback": "El déficit aparece cuando se importa más de lo que se exporta, exactamente al revés de lo que dice el enunciado."
+          "feedback": "El precio subió 3 dólares por unidad; multiplicar ese aumento por 100 produce un incremento, no una reducción."
         },
         {
           "letter": "B",
-          "text": "Balanza equilibrada",
+          "text": "Un aumento de 300 dólares en el costo total del insumo.",
+          "is_correct": true,
+          "feedback": "El aumento es (13 − 10) × 100 = 300 dólares, de modo que el costo pasa de 1000 a 1300 dólares."
+        },
+        {
+          "letter": "C",
+          "text": "Un aumento de 3 dólares en el costo total del insumo.",
           "is_correct": false,
-          "feedback": "Una balanza equilibrada exige exportaciones e importaciones iguales, y aquí las exportaciones son mayores."
+          "feedback": "Los 3 dólares corresponden al aumento de una unidad; para 100 unidades se debe multiplicar por 100."
         },
         {
           "letter": "D",
-          "text": "Crisis económica",
+          "text": "Un aumento de 1300 dólares sobre el presupuesto inicial.",
           "is_correct": false,
-          "feedback": "Una crisis económica es un malestar general del país, no el nombre del saldo de la balanza comercial."
+          "feedback": "1300 dólares es el nuevo costo total; el aumento se obtiene restando los 1000 dólares presupuestados inicialmente."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
+      "correct_answer": "B",
+      "explanation": "El incremento unitario de 3 dólares aplicado a 100 unidades eleva el costo total en 300 dólares. El ejemplo muestra cómo un cambio de precio internacional afecta un presupuesto local.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -414,36 +414,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W28-globalizacion-001-MASTERY-bundle-v10",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
+      "statement": "¿Qué principio comercial propone reducir los aranceles entre países?",
       "context": "Clase de ciencias sociales en Soyapango estudiando globalizacion.",
       "options": [
         {
-          "letter": "C",
-          "text": "El asesinato del Archiduque Francisco Fernando",
-          "is_correct": true,
-          "feedback": "Correcto. El asesinato del archiduque Francisco Fernando en Sarajevo en 1914 fue el detonante inmediato de la Primera Guerra Mundial."
-        },
-        {
           "letter": "A",
-          "text": "El Tratado de Versalles",
+          "text": "El proteccionismo",
           "is_correct": false,
-          "feedback": "El Tratado de Versalles se firmó en 1919 para cerrar la guerra, de modo que fue una consecuencia y no una causa."
+          "feedback": "El proteccionismo defiende los productos nacionales con aranceles, y no los reduce."
         },
         {
           "letter": "B",
-          "text": "La Revolución Rusa",
+          "text": "La nacionalización",
           "is_correct": false,
-          "feedback": "La Revolución Rusa ocurrió en 1917, ya en plena guerra, y fue ajena al estallido de 1914."
+          "feedback": "La nacionalización pasa el control de empresas al Estado, y no habla de aranceles."
+        },
+        {
+          "letter": "C",
+          "text": "El arancel",
+          "is_correct": false,
+          "feedback": "El arancel es el impuesto que se cobra a la entrada de un producto."
         },
         {
           "letter": "D",
-          "text": "La invención del avión",
-          "is_correct": false,
-          "feedback": "El avión fue inventado en 1903 y es un hecho técnico, no un detonante diplomático."
+          "text": "El librecambio",
+          "is_correct": true,
+          "feedback": "El librecambio pide eliminar o reducir los aranceles que frenan el comercio."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
+      "correct_answer": "D",
+      "explanation": "El librecambio busca eliminar los aranceles que frenan el comercio.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -459,36 +459,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W28-globalizacion-001-MASTERY-bundle-v11",
-      "statement": "¿Qué documento establece la organización del Estado?",
+      "statement": "¿A qué se llama el trabajo remoto desde otro país?",
       "context": "Clase de ciencias sociales en Soyapango estudiando globalizacion.",
       "options": [
         {
           "letter": "A",
-          "text": "La Constitución",
+          "text": "El teletrabajo",
           "is_correct": true,
-          "feedback": "Correcto. La Constitución es la norma fundamental que estructura los poderes del Estado y fija sus límites."
+          "feedback": "Permite prestar servicios desde un país distinto al de la empresa."
         },
         {
           "letter": "B",
-          "text": "Una ley ordinaria",
+          "text": "El desplazamiento",
           "is_correct": false,
-          "feedback": "Una ley ordinaria se limita a desarrollar una regla ya existente, no organiza los poderes del Estado entero."
+          "feedback": "Ese término nombra el traslado de personas dentro de un mismo país."
         },
         {
           "letter": "C",
-          "text": "Un decreto presidencial",
+          "text": "El archivado",
           "is_correct": false,
-          "feedback": "Un decreto presidencial es una decisión del ejecutivo sobre un asunto concreto, de rango menor que la Constitución."
+          "feedback": "El archivado guarda documentos, y no es una forma de trabajar."
         },
         {
           "letter": "D",
-          "text": "Un tratado internacional",
+          "text": "La traduccion",
           "is_correct": false,
-          "feedback": "Un tratado internacional obliga entre Estados firmantes, no es la norma que organiza el gobierno de un país."
+          "feedback": "La traducción convierte textos de un idioma a otro, no es teletrabajo."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
+      "explanation": "El teletrabajo permite trabajar desde un país distinto al de la empresa.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -504,36 +504,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W28-globalizacion-001-MASTERY-bundle-v12",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
+      "statement": "¿A qué se llama el dinero que entra a un país por sus exportaciones?",
       "context": "Clase de ciencias sociales en Santa Ana estudiando globalizacion.",
       "options": [
         {
-          "letter": "D",
-          "text": "Urbanización masiva y nuevas clases sociales",
-          "is_correct": true,
-          "feedback": "Correcto. La industrialización concentró a los trabajadores en las ciudades y ensanchó la burguesía y el proletariado como clases nuevas."
-        },
-        {
           "letter": "A",
-          "text": "Retorno a la vida agrícola",
+          "text": "Los aranceles",
           "is_correct": false,
-          "feedback": "La revolución industrial desplazó el trabajo del campo a la fábrica y a la ciudad, no de vuelta a la vida agrícola."
+          "feedback": "El arancel es un impuesto, no el dinero que entra por vender al exterior."
         },
         {
           "letter": "B",
-          "text": "Disminución del comercio global",
-          "is_correct": false,
-          "feedback": "La producción industrial exigía materias primas y mercados, de modo que el comercio internacional creció en vez de disminuir."
+          "text": "Los ingresos por exportaciones",
+          "is_correct": true,
+          "feedback": "Es el dinero que un país recibe cuando vende productos en el exterior."
         },
         {
           "letter": "C",
-          "text": "Eliminación del trabajo manual",
+          "text": "El déficit",
           "is_correct": false,
-          "feedback": "El trabajo manual se intensificó en las fábricas y la máquina solo transformó su forma, no lo eliminó."
+          "feedback": "El déficit aparece cuando se importa más de lo que se exporta."
+        },
+        {
+          "letter": "D",
+          "text": "El comercio exterior",
+          "is_correct": false,
+          "feedback": "Es el intercambio de bienes entre países, no el dinero que entra."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
+      "correct_answer": "B",
+      "explanation": "Los ingresos por exportaciones son el dinero que entra al vender al exterior.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -549,36 +549,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W28-globalizacion-001-MASTERY-bundle-v13",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
+      "statement": "¿Qué organización mantiene el valor estable de las divisas?",
       "context": "Clase de ciencias sociales en San Salvador estudiando globalizacion.",
       "options": [
         {
-          "letter": "C",
-          "text": "Derechos humanos fundamentales",
-          "is_correct": true,
-          "feedback": "Correcto. La Constitución de un país democrático reconoce los derechos humanos fundamentales como límite al poder del Estado."
-        },
-        {
           "letter": "A",
-          "text": "Solo derechos de propiedad",
+          "text": "La OMC",
           "is_correct": false,
-          "feedback": "El derecho de propiedad es uno más entre los reconocidos, y limitar la Constitución a la propiedad dejaría fuera los demás."
+          "feedback": "La OMC regula el comercio de bienes y servicios, no el cambio de divisas."
         },
         {
           "letter": "B",
-          "text": "Únicamente derechos políticos",
+          "text": "El FMI",
+          "is_correct": true,
+          "feedback": "Vigila el cambio de divisas y presta apoyo a países con desequilibrios."
+        },
+        {
+          "letter": "C",
+          "text": "La ONU",
           "is_correct": false,
-          "feedback": "El voto y la participación política son una parte del catálogo, no la totalidad de los derechos de una Constitución democrática."
+          "feedback": "La ONU trabaja por la paz y los derechos, no por las divisas."
         },
         {
           "letter": "D",
-          "text": "Derechos exclusivos del gobierno",
+          "text": "La OMS",
           "is_correct": false,
-          "feedback": "Son los ciudadanos los titulares de los derechos, y además esos derechos limitan al gobierno en lugar de pertenecerle."
+          "feedback": "La OMS se ocupa de la salud pública, no de las monedas."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
+      "correct_answer": "B",
+      "explanation": "El Fondo Monetario Internacional vigila el cambio de las divisas.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -594,36 +594,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W28-globalizacion-001-MASTERY-bundle-v14",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
+      "statement": "¿A qué se llama la entrada de inversión extranjera a un país?",
       "context": "Clase de ciencias sociales en San Miguel estudiando globalizacion.",
       "options": [
         {
           "letter": "A",
-          "text": "Superávit comercial",
-          "is_correct": true,
-          "feedback": "Correcto. Si las exportaciones superan a las importaciones, la balanza comercial registra un superávit."
+          "text": "La deslocalización",
+          "is_correct": false,
+          "feedback": "Es el traslado de una empresa a otro país, no el capital que entra."
         },
         {
           "letter": "B",
-          "text": "Déficit comercial",
+          "text": "El dumping",
           "is_correct": false,
-          "feedback": "El déficit aparece cuando se importa más de lo que se exporta, exactamente al revés de lo que dice el enunciado."
+          "feedback": "Es vender productos más baratos en el exterior para desplazar rivales."
         },
         {
           "letter": "C",
-          "text": "Balanza equilibrada",
-          "is_correct": false,
-          "feedback": "Una balanza equilibrada exige exportaciones e importaciones iguales, y aquí las exportaciones son mayores."
+          "text": "La inversión extranjera",
+          "is_correct": true,
+          "feedback": "Es el capital que entra a un país desde el exterior para producir."
         },
         {
           "letter": "D",
-          "text": "Crisis económica",
+          "text": "El proteccionismo",
           "is_correct": false,
-          "feedback": "Una crisis económica es un malestar general del país, no el nombre del saldo de la balanza comercial."
+          "feedback": "Protege la producción nacional con aranceles, no atrae capital extranjero."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
+      "correct_answer": "C",
+      "explanation": "La inversión extranjera es el capital que entra desde el exterior.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -639,36 +639,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W28-globalizacion-001-MASTERY-bundle-v15",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
+      "statement": "¿Qué instrumento bajó el costo de mover mercaderías por mar?",
       "context": "Clase de ciencias sociales en San Miguel estudiando globalizacion.",
       "options": [
         {
-          "letter": "C",
-          "text": "El asesinato del Archiduque Francisco Fernando",
-          "is_correct": true,
-          "feedback": "Correcto. El asesinato del archiduque Francisco Fernando en Sarajevo en 1914 fue el detonante inmediato de la Primera Guerra Mundial."
-        },
-        {
           "letter": "A",
-          "text": "El Tratado de Versalles",
+          "text": "El trigo",
           "is_correct": false,
-          "feedback": "El Tratado de Versalles se firmó en 1919 para cerrar la guerra, de modo que fue una consecuencia y no una causa."
+          "feedback": "El trigo es un grano, no un instrumento para mover carga."
         },
         {
           "letter": "B",
-          "text": "La Revolución Rusa",
+          "text": "La aduana",
           "is_correct": false,
-          "feedback": "La Revolución Rusa ocurrió en 1917, ya en plena guerra, y fue ajena al estallido de 1914."
+          "feedback": "La aduana cobra impuestos a las mercancías que entran al país."
+        },
+        {
+          "letter": "C",
+          "text": "El contenedor",
+          "is_correct": true,
+          "feedback": "La caja estándar permite mover carga sin subir pieza por pieza."
         },
         {
           "letter": "D",
-          "text": "La invención del avión",
+          "text": "El glosario",
           "is_correct": false,
-          "feedback": "El avión fue inventado en 1903 y es un hecho técnico, no un detonante diplomático."
+          "feedback": "Un glosario es una lista de palabras, no una caja de carga."
         }
       ],
       "correct_answer": "C",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
+      "explanation": "El contenedor redujo el costo de mover mercaderías por mar.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -684,36 +684,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W28-globalizacion-001-MASTERY-bundle-v16",
-      "statement": "¿Qué documento establece la organización del Estado?",
+      "statement": "Una estudiante afirma: 'Como las redes digitales permiten compartir música entre países, la globalización es únicamente económica'. ¿Qué respuesta corrige mejor su interpretación?",
       "context": "Clase de ciencias sociales en Soyapango estudiando globalizacion.",
       "options": [
         {
           "letter": "A",
-          "text": "La Constitución",
+          "text": "Compartir música entre países también expresa una dimensión cultural de la globalización.",
           "is_correct": true,
-          "feedback": "Correcto. La Constitución es la norma fundamental que estructura los poderes del Estado y fija sus límites."
+          "feedback": "La circulación internacional de música transmite expresiones culturales, por lo que el fenómeno incluye dimensiones distintas de la económica."
         },
         {
           "letter": "B",
-          "text": "Una ley ordinaria",
+          "text": "Solo existe globalización cuando todas las personas escuchan exactamente la misma música.",
           "is_correct": false,
-          "feedback": "Una ley ordinaria se limita a desarrollar una regla ya existente, no organiza los poderes del Estado entero."
+          "feedback": "Los intercambios culturales no requieren gustos idénticos; pueden coexistir influencias internacionales y preferencias locales."
         },
         {
           "letter": "C",
-          "text": "Un decreto presidencial",
+          "text": "La música deja de ser una expresión cultural cuando circula por internet.",
           "is_correct": false,
-          "feedback": "Un decreto presidencial es una decisión del ejecutivo sobre un asunto concreto, de rango menor que la Constitución."
+          "feedback": "El medio digital cambia su distribución, pero no elimina el carácter cultural de la música."
         },
         {
           "letter": "D",
-          "text": "Un tratado internacional",
+          "text": "Todo intercambio cultural internacional exige que las personas migren permanentemente.",
           "is_correct": false,
-          "feedback": "Un tratado internacional obliga entre Estados firmantes, no es la norma que organiza el gobierno de un país."
+          "feedback": "Las redes digitales permiten compartir contenidos sin que quienes los producen o consumen cambien de país."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
+      "explanation": "La globalización también comprende la circulación de expresiones culturales e información. Las redes digitales facilitan esos intercambios sin exigir migración ni uniformidad de gustos.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -729,36 +729,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W28-globalizacion-001-MASTERY-bundle-v17",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
+      "statement": "¿A qué se llama la mezcla de cultura global con rasgos locales?",
       "context": "Clase de ciencias sociales en San Salvador estudiando globalizacion.",
       "options": [
         {
-          "letter": "C",
-          "text": "Urbanización masiva y nuevas clases sociales",
-          "is_correct": true,
-          "feedback": "Correcto. La industrialización concentró a los trabajadores en las ciudades y ensanchó la burguesía y el proletariado como clases nuevas."
-        },
-        {
           "letter": "A",
-          "text": "Retorno a la vida agrícola",
+          "text": "La homologación",
           "is_correct": false,
-          "feedback": "La revolución industrial desplazó el trabajo del campo a la fábrica y a la ciudad, no de vuelta a la vida agrícola."
+          "feedback": "Es la tendencia a que todos los productos se parezcan entre sí."
         },
         {
           "letter": "B",
-          "text": "Disminución del comercio global",
+          "text": "El imperialismo",
           "is_correct": false,
-          "feedback": "La producción industrial exigía materias primas y mercados, de modo que el comercio internacional creció en vez de disminuir."
+          "feedback": "Es la dominación de un país sobre otro, no una mezcla de culturas."
+        },
+        {
+          "letter": "C",
+          "text": "La pasteurización",
+          "is_correct": false,
+          "feedback": "Es un método para conservar alimentos con calor, no una mezcla cultural."
         },
         {
           "letter": "D",
-          "text": "Eliminación del trabajo manual",
-          "is_correct": false,
-          "feedback": "El trabajo manual se intensificó en las fábricas y la máquina solo transformó su forma, no lo eliminó."
+          "text": "El mestizaje cultural",
+          "is_correct": true,
+          "feedback": "Mezcla elementos de varias culturas y conserva rasgos propios del lugar."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
+      "correct_answer": "D",
+      "explanation": "El mestizaje cultural mezcla lo global con los rasgos del lugar.",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -774,36 +774,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W28-globalizacion-001-MASTERY-bundle-v18",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
+      "statement": "¿Qué hace una empresa que opera en varios países a la vez?",
       "context": "Clase de ciencias sociales en Mejicanos estudiando globalizacion.",
       "options": [
         {
-          "letter": "D",
-          "text": "Derechos humanos fundamentales",
-          "is_correct": true,
-          "feedback": "Correcto. La Constitución de un país democrático reconoce los derechos humanos fundamentales como límite al poder del Estado."
-        },
-        {
           "letter": "A",
-          "text": "Solo derechos de propiedad",
+          "text": "Produce solo en su país",
           "is_correct": false,
-          "feedback": "El derecho de propiedad es uno más entre los reconocidos, y limitar la Constitución a la propiedad dejaría fuera los demás."
+          "feedback": "Si todo ocurre en un país, no hay operación transnacional."
         },
         {
           "letter": "B",
-          "text": "Únicamente derechos políticos",
+          "text": "Depende de un solo mercado",
           "is_correct": false,
-          "feedback": "El voto y la participación política son una parte del catálogo, no la totalidad de los derechos de una Constitución democrática."
+          "feedback": "Limitarse a un mercado contradice operar en varios países."
         },
         {
           "letter": "C",
-          "text": "Derechos exclusivos del gobierno",
+          "text": "Opera como transnacional",
+          "is_correct": true,
+          "feedback": "Sus decisiones de producción y venta abarcan más de un país."
+        },
+        {
+          "letter": "D",
+          "text": "Renuncia a exportar",
           "is_correct": false,
-          "feedback": "Son los ciudadanos los titulares de los derechos, y además esos derechos limitan al gobierno en lugar de pertenecerle."
+          "feedback": "Una empresa transnacional vende en el exterior, no renuncia a ello."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
+      "correct_answer": "C",
+      "explanation": "Una empresa transnacional opera en más de un país a la vez.",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -819,36 +819,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W28-globalizacion-001-MASTERY-bundle-v19",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
+      "statement": "¿A qué se llama el uso de una misma lengua en muchos países?",
       "context": "Clase de ciencias sociales en San Salvador estudiando globalizacion.",
       "options": [
         {
-          "letter": "D",
-          "text": "Superávit comercial",
-          "is_correct": true,
-          "feedback": "Correcto. Si las exportaciones superan a las importaciones, la balanza comercial registra un superávit."
-        },
-        {
           "letter": "A",
-          "text": "Déficit comercial",
+          "text": "El bilingüismo",
           "is_correct": false,
-          "feedback": "El déficit aparece cuando se importa más de lo que se exporta, exactamente al revés de lo que dice el enunciado."
+          "feedback": "Es hablar dos lenguas en una misma región, no una lengua común mundial."
         },
         {
           "letter": "B",
-          "text": "Balanza equilibrada",
+          "text": "El monolingüismo",
           "is_correct": false,
-          "feedback": "Una balanza equilibrada exige exportaciones e importaciones iguales, y aquí las exportaciones son mayores."
+          "feedback": "Es hablar una sola lengua, y no una común para varios países."
         },
         {
           "letter": "C",
-          "text": "Crisis económica",
+          "text": "La traducción",
           "is_correct": false,
-          "feedback": "Una crisis económica es un malestar general del país, no el nombre del saldo de la balanza comercial."
+          "feedback": "Es pasar un texto de un idioma a otro, no una lengua común."
+        },
+        {
+          "letter": "D",
+          "text": "La lengua franca",
+          "is_correct": true,
+          "feedback": "Es una lengua común que usan personas de distintos países."
         }
       ],
       "correct_answer": "D",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
+      "explanation": "La lengua franca es una lengua común entre países distintos.",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -864,36 +864,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W28-globalizacion-001-MASTERY-bundle-v20",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
+      "statement": "¿A qué se llama la salida de capital de un país al exterior?",
       "context": "Clase de ciencias sociales en San Salvador estudiando globalizacion.",
       "options": [
         {
-          "letter": "C",
-          "text": "El asesinato del Archiduque Francisco Fernando",
-          "is_correct": true,
-          "feedback": "Correcto. El asesinato del archiduque Francisco Fernando en Sarajevo en 1914 fue el detonante inmediato de la Primera Guerra Mundial."
-        },
-        {
           "letter": "A",
-          "text": "El Tratado de Versalles",
+          "text": "El proteccionismo",
           "is_correct": false,
-          "feedback": "El Tratado de Versalles se firmó en 1919 para cerrar la guerra, de modo que fue una consecuencia y no una causa."
+          "feedback": "Defiende la producción nacional con aranceles, no saca dinero del país."
         },
         {
           "letter": "B",
-          "text": "La Revolución Rusa",
+          "text": "La inversión extranjera",
           "is_correct": false,
-          "feedback": "La Revolución Rusa ocurrió en 1917, ya en plena guerra, y fue ajena al estallido de 1914."
+          "feedback": "Es el capital que entra a un país, y aquí el dinero sale."
+        },
+        {
+          "letter": "C",
+          "text": "El monocultivo",
+          "is_correct": false,
+          "feedback": "Es producir un solo producto en toda la tierra cultivable."
         },
         {
           "letter": "D",
-          "text": "La invención del avión",
-          "is_correct": false,
-          "feedback": "El avión fue inventado en 1903 y es un hecho técnico, no un detonante diplomático."
+          "text": "La fuga de capitales",
+          "is_correct": true,
+          "feedback": "Es el dinero que sale de un país para invertirse en el exterior."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
+      "correct_answer": "D",
+      "explanation": "La fuga de capitales es el dinero que un país invierte en el exterior.",
       "difficulty": "10",
       "images": [],
       "tags": [],
