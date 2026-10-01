@@ -24,459 +24,460 @@ bundle_index: 1
 ## Question 1 [D3]
 **ID:** ES-ING-11-2026-W04-future-forms-will-going-to-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**EJE:** Lexico
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Dark clouds are covering the sky above the town.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+Look at those clouds! It ___ rain very soon.
 
 ### Opciones
-- [x] B) accommodation
-  <!-- feedback: Correct! 'Accommodation' is the word for a place where you live or stay when you are on holiday. -->
-- [ ] A) transportation
-  <!-- feedback: 'Transportation' is the way you move from one place to another (buses, trains, planes), not the place where you sleep. -->
-- [ ] C) entertainment
-  <!-- feedback: 'Entertainment' is the fun or activities you enjoy, not the building or room where you stay. -->
-- [ ] D) currency
-  <!-- feedback: 'Currency' is the money of a country, which has nothing to do with where you sleep. -->
+- [x] A) is going to
+  <!-- feedback: Correct. The clouds are visible evidence, and going to predicts from evidence. -->
+- [ ] B) will
+  <!-- feedback: Will is used for opinions or promises, not for a prediction based on what we can see. -->
+- [ ] C) is raining
+  <!-- feedback: Is raining describes rain happening now, not a prediction for the near future. -->
+- [ ] D) rains
+  <!-- feedback: Rains states a general fact or habit, not a forecast about this afternoon. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
+Going to is the future form for predictions based on present evidence: the clouds are already there, so the rain is coming.
 ---
 ## Question 2 [D4]
 **ID:** ES-ING-11-2026-W04-future-forms-will-going-to-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**EJE:** Lexico
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Marta made her career choice last week.
 
 ### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
+I have already decided. I ___ study medicine next year.
 
 ### Opciones
-- [x] A) itinerary
-  <!-- feedback: Correct! An 'itinerary' is a detailed plan of a journey, listing the places and times along the route. -->
-- [ ] B) baggage
-  <!-- feedback: 'Baggage' is the suitcases and bags you travel with, not the written plan of the trip. -->
-- [ ] C) destination
-  <!-- feedback: 'Destination' is the place you are going to, a single place, while an itinerary is the whole route plan. -->
-- [ ] D) passport
-  <!-- feedback: 'Passport' is the travel document that lets you cross a border, not the schedule of your trip. -->
+- [ ] A) will
+  <!-- feedback: Will suits a decision made at the moment of speaking, but this choice is already taken. -->
+- [x] B) am going to
+  <!-- feedback: Correct. The decision was made before speaking, so going to expresses a plan. -->
+- [ ] C) am studying
+  <!-- feedback: Am studying would mean it is arranged with a school and a timetable, which is not stated. -->
+- [ ] D) study
+  <!-- feedback: Study is present simple and cannot express a future intention on its own. -->
 
 ### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
+Going to expresses an intention or plan fixed before the moment of speaking, which is why the words I have already decided trigger it.
 ---
 ## Question 3 [D3]
 **ID:** ES-ING-11-2026-W04-future-forms-will-going-to-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**EJE:** Lexico
+**EJE:** Pragmatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Sara and I agreed on a time yesterday.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+Which sentence describes a fixed arrangement for the future?
 
 ### Opciones
-- [x] C) destination
-  <!-- feedback: Correct! A 'destination' is the place someone or something is going or being sent to. -->
-- [ ] A) departure
-  <!-- feedback: 'Departure' is the action of leaving, the opposite end of the journey from the destination. -->
-- [ ] B) arrival
-  <!-- feedback: 'Arrival' is the act of getting there; the place you arrive at is the destination. -->
-- [ ] D) journey
-  <!-- feedback: 'Journey' is the whole trip from start to finish, not the place you are heading to. -->
+- [ ] A) I will meet Sara at six.
+  <!-- feedback: Will meet states a decision or prediction, not a pre-arranged meeting with a set time. -->
+- [ ] B) I am going to meet Sara.
+  <!-- feedback: Going to meet shows an intention but does not present the meeting as already arranged. -->
+- [x] C) I am meeting Sara at six.
+  <!-- feedback: Correct. Present continuous with a definite time shows an arrangement already fixed. -->
+- [ ] D) I meet Sara at six.
+  <!-- feedback: I meet is a present habit, not a future arrangement. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
+The present continuous is the usual form for future arrangements already fixed with another person, especially when a time is given.
 ---
 ## Question 4 [D4]
 **ID:** ES-ING-11-2026-W04-future-forms-will-going-to-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**EJE:** Lexico
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** The telephone is ringing in the hall.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+The phone is ringing. Do not worry, I ___ answer it.
 
 ### Opciones
-- [x] B) luggage
-  <!-- feedback: Correct! 'Luggage' means suitcases and bags in which you pack your belongings for a trip. -->
-- [ ] A) ticket
-  <!-- feedback: 'Ticket' is the paper that gives you the right to travel on a bus, train or plane, not the bag itself. -->
-- [ ] C) flight
-  <!-- feedback: 'Flight' is the journey by plane, or the plane itself; the bags are called luggage. -->
-- [ ] D) reservation
-  <!-- feedback: 'Reservation' is the booking you make for a seat or a room, not the bags you pack. -->
+- [ ] A) am going to
+  <!-- feedback: Going to would suggest the plan existed before the phone rang, which is not the case. -->
+- [ ] B) am answering
+  <!-- feedback: Am answering describes an action in progress, not an offer to act. -->
+- [ ] C) answer
+  <!-- feedback: Answer is present simple and cannot express this sudden decision. -->
+- [x] D) will
+  <!-- feedback: Correct. The decision is made at the moment of speaking, so will is the natural form. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
+Will expresses decisions and offers made at the moment of speaking, as in this instant reaction to the ringing phone.
 ---
-## Question 5 [D5]
+## Question 5 [D3]
 **ID:** ES-ING-11-2026-W04-future-forms-will-going-to-001-MASTERY-bundle-v5
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** My sister is expecting a baby in June.
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+She is pregnant. She ___ have a baby in June.
 
 ### Opciones
-- [x] A) passenger
-  <!-- feedback: Correct! A 'passenger' is a person who travels on a vehicle without being the driver, pilot or crew. -->
-- [ ] B) pedestrian
-  <!-- feedback: 'Pedestrian' is someone who travels on foot, so they are not on a conveyance at all. -->
-- [ ] C) commuter
-  <!-- feedback: 'Commuter' is someone who travels regularly between home and work; the definition here is any traveller on board, not only that daily case. -->
-- [ ] D) tourist
-  <!-- feedback: 'Tourist' is someone visiting for pleasure or sightseeing, but the definition covers every traveller on board, including commuters and residents. -->
+- [x] A) is going to
+  <!-- feedback: Correct. Pregnancy is present evidence, so going to predicts the future event. -->
+- [ ] B) will
+  <!-- feedback: Will is for predictions based on opinion, not on evidence we can already see. -->
+- [ ] C) goes to
+  <!-- feedback: Goes to is present simple and does not form a future prediction. -->
+- [ ] D) shall
+  <!-- feedback: Shall is used mainly with I or we, not with she. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
+When there is present evidence for a future event, English prefers going to, as in this prediction based on the pregnancy.
 ---
-## Question 6 [D6]
+## Question 6 [D4]
 **ID:** ES-ING-11-2026-W04-future-forms-will-going-to-001-MASTERY-bundle-v6
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Pragmatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A friend cannot open a heavy jar.
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+A: I cannot open this jar. B: ___ help you.
 
 ### Opciones
-- [x] C) customs
-  <!-- feedback: Correct! 'Customs' is the office at a port, airport or border where officials check goods, travellers and luggage. -->
-- [ ] A) security
-  <!-- feedback: 'Security' is the staff who control safety and boarding inside the airport; it does not check the goods you bring in. -->
-- [ ] B) terminal
-  <!-- feedback: 'Terminal' is the whole building where passengers wait, eat and catch their flights. -->
-- [ ] D) gate
-  <!-- feedback: 'Gate' is the particular door you board through, not the place where officials inspect your luggage. -->
+- [ ] A) I am going to
+  <!-- feedback: Going to suggests a pre-planned intention, but the offer is decided right now. -->
+- [x] B) I will
+  <!-- feedback: Correct. Will makes a spontaneous offer to help at the moment of speaking. -->
+- [ ] C) I am helping
+  <!-- feedback: Am helping describes a present action, not an offer for the immediate future. -->
+- [ ] D) I help
+  <!-- feedback: Help is present simple and cannot express an offer. -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
+Offers made at the moment of speaking use will, because the speaker decides to help as the words are spoken.
 ---
-## Question 7 [D5]
+## Question 7 [D3]
 **ID:** ES-ING-11-2026-W04-future-forms-will-going-to-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** We bought the cinema tickets yesterday.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+We ___ to the cinema tonight. We already have the tickets.
 
 ### Opciones
-- [x] D) boarding pass
-  <!-- feedback: Correct! The 'boarding pass' is the document the airline gives you at check-in that authorises you to board. -->
-- [ ] A) visa
-  <!-- feedback: 'Visa' is the official permission to enter and stay in a country, requested before the trip, not the document that lets you board a plane. -->
-- [ ] B) receipt
-  <!-- feedback: 'Receipt' is the proof of payment for a purchase, not the travel document for boarding. -->
-- [ ] C) brochure
-  <!-- feedback: 'Brochure' is a small booklet of tourist information, not the document that lets you board. -->
+- [ ] A) will go
+  <!-- feedback: Will go expresses a decision or prediction, not an arrangement already organised. -->
+- [ ] B) go
+  <!-- feedback: Go is present simple and does not express a future arrangement. -->
+- [x] C) are going
+  <!-- feedback: Correct. The tickets make this a fixed arrangement, so present continuous fits. -->
+- [ ] D) shall go
+  <!-- feedback: Shall go is rare in modern English and does not mark an arrangement. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+Because the tickets are already bought, the trip is a fixed arrangement and takes the present continuous.
 ---
-## Question 8 [D6]
+## Question 8 [D4]
 **ID:** ES-ING-11-2026-W04-future-forms-will-going-to-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** The weather is hard to predict this week.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+I think it ___ snow tomorrow.
 
 ### Opciones
-- [x] A) sightseeing
-  <!-- feedback: Correct! 'Sightseeing' is the activity of visiting the places of interest in a location. -->
-- [ ] B) shopping
-  <!-- feedback: 'Shopping' is buying things in stores, which is not the same as visiting the sights of a place. -->
-- [ ] C) hiking
-  <!-- feedback: 'Hiking' is walking in the countryside on trails, not the general activity of visiting a location's attractions. -->
-- [ ] D) camping
-  <!-- feedback: 'Camping' is staying outdoors in a tent, not visiting the sights of a location. -->
+- [ ] A) is going to
+  <!-- feedback: Going to would need present evidence, but the speaker only offers a guess. -->
+- [ ] B) snows
+  <!-- feedback: Snows is present simple and states a general fact, not a prediction. -->
+- [ ] C) is snowing
+  <!-- feedback: Is snowing describes snow falling now, not a forecast for tomorrow. -->
+- [x] D) will
+  <!-- feedback: Correct. I think marks an opinion, and opinions about the future use will. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+Predictions based on opinion or belief, often introduced by I think, are normally expressed with will.
 ---
-## Question 9 [D5]
+## Question 9 [D3]
 **ID:** ES-ING-11-2026-W04-future-forms-will-going-to-001-MASTERY-bundle-v9
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** I have a lot of homework tonight.
 
 ### Enunciado
-What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
+As soon as I ___ my homework, I will call you.
 
 ### Opciones
-- [x] D) souvenir
-  <!-- feedback: Correct! A 'souvenir' is the object you keep afterwards as a reminder of a person, place or event you visited. -->
-- [ ] A) gift
-  <!-- feedback: 'Gift' is something you give to another person; a souvenir is kept by the person who took the trip. -->
-- [ ] B) award
-  <!-- feedback: 'Award' is a prize given for an achievement, not an object bought or kept as a memory. -->
-- [ ] C) prize
-  <!-- feedback: 'Prize' is the reward you win in a competition, so it comes from winning rather than from a journey. -->
+- [x] A) finish
+  <!-- feedback: Correct. After as soon as, English uses the present simple, not will. -->
+- [ ] B) will finish
+  <!-- feedback: Will finish is wrong because a time clause does not take will. -->
+- [ ] C) am finishing
+  <!-- feedback: Am finishing suggests an action in progress, not the completed condition. -->
+- [ ] D) finished
+  <!-- feedback: Finished is past and cannot refer to a future condition. -->
 
 ### Explicacion Pedagogica
-The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
+In time clauses with as soon as, when or after, the present simple replaces will to speak about the future.
 ---
-## Question 10 [D6]
+## Question 10 [D4]
 **ID:** ES-ING-11-2026-W04-future-forms-will-going-to-001-MASTERY-bundle-v10
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** We are planning a picnic for tomorrow.
 
 ### Enunciado
-What is the English word for: "A period of time by which something is late or postponed."
+If it rains tomorrow, we ___ at home.
 
 ### Opciones
-- [x] A) delay
-  <!-- feedback: Correct! A 'delay' is the extra time by which something ends up late or gets postponed. -->
-- [ ] B) cancellation
-  <!-- feedback: 'Cancellation' means the event does not happen at all, not that it happens later than planned. -->
-- [ ] C) departure
-  <!-- feedback: 'Departure' is the scheduled time or the act of leaving; the definition is about the extra time lost. -->
-- [ ] D) arrival
-  <!-- feedback: 'Arrival' is getting there, the opposite moment. Here we want the time lost, not the time you reach the destination. -->
+- [ ] A) stay
+  <!-- feedback: Stay is present simple; it belongs in the if-clause, not in the result clause. -->
+- [x] B) will stay
+  <!-- feedback: Correct. The main clause of a first conditional takes will. -->
+- [ ] C) are staying
+  <!-- feedback: Are staying is an arrangement, but the sentence states a general condition. -->
+- [ ] D) stayed
+  <!-- feedback: Stayed is past and cannot follow a present if-clause. -->
 
 ### Explicacion Pedagogica
-The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
+In a first conditional, the if-clause uses the present simple and the result clause uses will plus the base verb.
 ---
-## Question 11 [D7]
+## Question 11 [D3]
 **ID:** ES-ING-11-2026-W04-future-forms-will-going-to-001-MASTERY-bundle-v11
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Ana is leaving the office at five.
 
 ### Enunciado
-What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
+Choose the sentence that uses the future form correctly.
 
 ### Opciones
-- [x] B) check-in
-  <!-- feedback: Correct! 'Check-in' is the act of reporting your arrival and registering at the airport or hotel counter. -->
-- [ ] A) check-out
-  <!-- feedback: 'Check-out' is the opposite moment, when you leave the hotel or hand back the room. -->
-- [ ] C) booking
-  <!-- feedback: 'Booking' is the reservation you made earlier; the act of registering your presence on arrival is check-in. -->
-- [ ] D) reservation
-  <!-- feedback: 'Reservation' is the booking document, not the act of reporting your presence at the desk. -->
+- [ ] A) I will phone you when I will get home.
+  <!-- feedback: Will get is wrong inside a time clause introduced by when. -->
+- [ ] B) I phone you when I will get home.
+  <!-- feedback: I phone is present simple and cannot express the main future action. -->
+- [x] C) I will phone you when I get home.
+  <!-- feedback: Correct. The time clause after when uses the present simple, get. -->
+- [ ] D) I will phone you when I got home.
+  <!-- feedback: Got is past and does not match the future meaning of the sentence. -->
 
 ### Explicacion Pedagogica
-The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
+A future time clause introduced by when takes the present simple, while the main clause carries will.
 ---
-## Question 12 [D8]
+## Question 12 [D4]
 **ID:** ES-ING-11-2026-W04-future-forms-will-going-to-001-MASTERY-bundle-v12
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Pragmatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** My dentist gave me an appointment card.
 
 ### Enunciado
-What is the English word for: "A period of rest or waiting before a further stage in a journey."
+Do not call me at eight. I ___ dinner with my family then.
 
 ### Opciones
-- [x] B) layover
-  <!-- feedback: Correct! A 'layover' is a period of rest or waiting between two stages of a journey. -->
-- [ ] A) stopover
-  <!-- feedback: 'Stopover' usually means a deliberate visit in the middle of a trip, not just the wait between flights. -->
-- [ ] C) transfer
-  <!-- feedback: 'Transfer' is the change of vehicle itself, the movement; the definition is about the time of waiting. -->
-- [ ] D) transit
-  <!-- feedback: 'Transit' is a system of moving people and goods through a city, not a break between two flights. -->
+- [ ] A) will have
+  <!-- feedback: Will have suggests a decision or prediction, not a meeting already arranged. -->
+- [ ] B) have
+  <!-- feedback: Have is present simple and does not mark a future arrangement. -->
+- [ ] C) am going to have
+  <!-- feedback: Going to have shows an intention but not the fixed arrangement with a set time. -->
+- [x] D) am having
+  <!-- feedback: Correct. A definite time makes this a fixed arrangement, so present continuous is used. -->
 
 ### Explicacion Pedagogica
-The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
+Present continuous describes future arrangements fixed with other people, especially when a specific time is mentioned.
 ---
-## Question 13 [D7]
+## Question 13 [D3]
 **ID:** ES-ING-11-2026-W04-future-forms-will-going-to-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Pragmatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A child is running towards a wet floor.
 
 ### Enunciado
-What is the English word for: "A system of money in general use in a particular country."
+Which sentence is a prediction based on evidence you can see?
 
 ### Opciones
-- [x] A) currency
-  <!-- feedback: Correct! 'Currency' is the money system in general use in a particular country. -->
-- [ ] B) coin
-  <!-- feedback: 'Coin' is a single metal piece of money, one item within the currency, not the whole system. -->
-- [ ] C) banknote
-  <!-- feedback: 'Banknote' is a paper bill, one item of the currency rather than the system of money itself. -->
-- [ ] D) cash
-  <!-- feedback: 'Cash' means money in the physical form you hold, not the money system of a country. -->
+- [x] A) You are going to fall!
+  <!-- feedback: Correct. The wet floor is visible evidence, so going to predicts from what we see. -->
+- [ ] B) I will help you.
+  <!-- feedback: I will help you is an offer, not a prediction based on evidence. -->
+- [ ] C) I am seeing the doctor at noon.
+  <!-- feedback: Am seeing the doctor is a fixed arrangement, not a prediction. -->
+- [ ] D) I am going to study later.
+  <!-- feedback: Going to study later expresses an intention, not a prediction from evidence. -->
 
 ### Explicacion Pedagogica
-The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
+Predictions based on evidence in front of us use going to, because the present situation points to the future event.
 ---
-## Question 14 [D8]
+## Question 14 [D4]
 **ID:** ES-ING-11-2026-W04-future-forms-will-going-to-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Luis bought paint at the shop this morning.
 
 ### Enunciado
-What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
+Why did you buy this paint? I ___ paint my room this weekend.
 
 ### Opciones
-- [x] D) guidebook
-  <!-- feedback: Correct! A 'guidebook' is a book of information about a place written for visitors and tourists. -->
-- [ ] A) map
-  <!-- feedback: 'Map' is a single sheet or screen showing the layout of a place, not a book of information. -->
-- [ ] B) dictionary
-  <!-- feedback: 'Dictionary' is a book of word definitions of a language, not information about a place for visitors. -->
-- [ ] C) encyclopedia
-  <!-- feedback: 'Encyclopedia' is a general reference work with entries on every topic, not a guide written for tourists about one place. -->
+- [ ] A) will
+  <!-- feedback: Will suggests a decision made now, but the plan already exists. -->
+- [x] B) am going to
+  <!-- feedback: Correct. The purchase shows a plan already formed, so going to is used. -->
+- [ ] C) am painting
+  <!-- feedback: Am painting would require a fixed arrangement, which is not stated. -->
+- [ ] D) paint
+  <!-- feedback: Paint is present simple and cannot express a future intention. -->
 
 ### Explicacion Pedagogica
-The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
+Going to expresses intentions formed before the moment of speaking, such as a plan supported by a purchase.
 ---
-## Question 15 [D7]
+## Question 15 [D3]
 **ID:** ES-ING-11-2026-W04-future-forms-will-going-to-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** The students worked hard all year.
 
 ### Enunciado
-What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
+I am sure you ___ the exam.
 
 ### Opciones
-- [x] A) backpack
-  <!-- feedback: Correct! A 'backpack' is the bag with shoulder straps that you carry on your back. -->
-- [ ] B) suitcase
-  <!-- feedback: 'Suitcase' is a case with a handle that you pull along, not a bag worn on the back. -->
-- [ ] C) briefcase
-  <!-- feedback: 'Briefcase' is a case for documents and a laptop, carried in the hand for work. -->
-- [ ] D) handbag
-  <!-- feedback: 'Handbag' is a bag for personal items carried on the arm or in the hand, with no back straps. -->
+- [ ] A) are passing
+  <!-- feedback: Are passing describes an action in progress, not a future certainty. -->
+- [ ] B) pass
+  <!-- feedback: Pass is present simple and states a habit or fact, not a prediction. -->
+- [x] C) will pass
+  <!-- feedback: Correct. I am sure introduces an opinion, so will expresses the prediction. -->
+- [ ] D) are going to passing
+  <!-- feedback: Are going to passing is ungrammatical because going to takes the base verb. -->
 
 ### Explicacion Pedagogica
-The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
+Predictions based on the speaker's belief, signalled by I am sure, are expressed with will.
 ---
-## Question 16 [D8]
+## Question 16 [D4]
 **ID:** ES-ING-11-2026-W04-future-forms-will-going-to-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** The manager wants to speak with you.
 
 ### Enunciado
-What is the English word for: "In or to a foreign country, especially one across the sea."
+Choose the sentence with the correct negative future form.
 
 ### Opciones
-- [x] C) overseas
-  <!-- feedback: Correct! 'Overseas' means in or to a foreign country, especially one across the sea. -->
-- [ ] A) domestic
-  <!-- feedback: 'Domestic' means inside your own country, the opposite of overseas. -->
-- [ ] B) local
-  <!-- feedback: 'Local' means in the area where you are, even more restricted than domestic; it never crosses a border. -->
-- [ ] D) national
-  <!-- feedback: 'National' refers to a whole country without saying it is foreign, so it does not imply going abroad. -->
+- [ ] A) I will not to tell anyone.
+  <!-- feedback: Will not to tell adds to, which never follows a modal verb. -->
+- [ ] B) I not will tell anyone.
+  <!-- feedback: Not will reverses the order; the negative particle follows will. -->
+- [ ] C) I will not telling anyone.
+  <!-- feedback: Will not telling uses the gerund after a modal, which is wrong. -->
+- [x] D) I will not tell anyone.
+  <!-- feedback: Correct. The negative of will is will not plus the base verb. -->
 
 ### Explicacion Pedagogica
-The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
+The negative future with will is formed as will not plus the base form of the verb, with no to.
 ---
-## Question 17 [D9]
+## Question 17 [D3]
 **ID:** ES-ING-11-2026-W04-future-forms-will-going-to-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**EJE:** Lexico
+**EJE:** Pragmatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Elena has an appointment at the hairdresser's.
 
 ### Enunciado
-What is the English word for: "An estimate of income and expenditure for a set period of time."
+Elena ___ her hair cut on Friday. She booked it last week.
 
 ### Opciones
-- [x] B) budget
-  <!-- feedback: Correct! A 'budget' is the estimate of income and expenditure planned for a set period. -->
-- [ ] A) expense
-  <!-- feedback: 'Expense' is a single cost already paid; the definition is the estimate for the whole period. -->
-- [ ] C) cost
-  <!-- feedback: 'Cost' is the price of one thing, whereas a budget covers all income and all spending. -->
-- [ ] D) price
-  <!-- feedback: 'Price' is the amount a single item costs, not a plan of income and expenditure over time. -->
+- [x] A) is getting
+  <!-- feedback: Correct. The booking makes it a fixed arrangement, so present continuous is used. -->
+- [ ] B) will get
+  <!-- feedback: Will get states a decision or prediction, not an appointment already booked. -->
+- [ ] C) gets
+  <!-- feedback: Gets is present simple and does not express a future arrangement. -->
+- [ ] D) shall get
+  <!-- feedback: Shall get is uncommon with she and does not mark an arrangement. -->
 
 ### Explicacion Pedagogica
-The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
+An appointment booked in advance is a fixed arrangement, and English expresses it with the present continuous.
 ---
-## Question 18 [D10]
+## Question 18 [D4]
 **ID:** ES-ING-11-2026-W04-future-forms-will-going-to-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**EJE:** Lexico
+**EJE:** Pragmatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** The teacher is giving back the tests.
 
 ### Enunciado
-What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
+I promise I ___ study harder next term.
 
 ### Opciones
-- [x] D) insurance
-  <!-- feedback: Correct! 'Insurance' is the arrangement by which an insurer promises compensation for loss, damage, illness or death in exchange for a premium. -->
-- [ ] A) warranty
-  <!-- feedback: 'Warranty' covers a product against defects for a limited period and is free of charge, not a premium-based contract. -->
-- [ ] B) guarantee
-  <!-- feedback: 'Guarantee' is the promise itself; 'insurance' is the whole contract arranged with an insurer for a premium. -->
-- [ ] C) policy
-  <!-- feedback: 'Policy' is the document that proves the insurance contract; the arrangement itself is the insurance. -->
+- [ ] A) am going to
+  <!-- feedback: Going to states a plan or evidence, not the commitment a promise expresses. -->
+- [x] B) will
+  <!-- feedback: Correct. I promise introduces a promise, and promises use will. -->
+- [ ] C) am studying
+  <!-- feedback: Am studying describes an arrangement, which a promise is not. -->
+- [ ] D) study
+  <!-- feedback: Study is present simple and cannot carry the promise. -->
 
 ### Explicacion Pedagogica
-The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
+Promises are expressed with will because the speaker commits to act at the moment of speaking.
 ---
-## Question 19 [D9]
+## Question 19 [D3]
 **ID:** ES-ING-11-2026-W04-future-forms-will-going-to-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**EJE:** Lexico
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** We are talking about a classmate who is absent.
 
 ### Enunciado
-What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
+Choose the correct negative sentence with going to.
 
 ### Opciones
-- [x] A) vaccination
-  <!-- feedback: Correct! A 'vaccination' is the application of a vaccine that makes the body produce immunity against a disease. -->
-- [ ] B) medication
-  <!-- feedback: 'Medication' is a medicine you take to treat an illness, not the vaccine that prevents one. -->
-- [ ] C) prescription
-  <!-- feedback: 'Prescription' is the written order a doctor gives for a medicine, not the vaccine itself. -->
-- [ ] D) infection
-  <!-- feedback: 'Infection' is the state of having the disease; vaccination is what protects you before you get it. -->
+- [ ] A) She is not going come.
+  <!-- feedback: Is not going come omits the to that going to requires. -->
+- [ ] B) She does not going to come.
+  <!-- feedback: Does not going to come mixes the auxiliary does with the going to form. -->
+- [x] C) She is not going to come.
+  <!-- feedback: Correct. The negative of going to places not before going to. -->
+- [ ] D) She not is going to come.
+  <!-- feedback: Not is going to come puts not before is, which is the wrong position. -->
 
 ### Explicacion Pedagogica
-The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
+The negative future with going to is formed with the verb be, then not, then going to plus the base verb.
 ---
-## Question 20 [D10]
+## Question 20 [D4]
 **ID:** ES-ING-11-2026-W04-future-forms-will-going-to-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**EJE:** Lexico
+**EJE:** Pragmatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Ana is talking with a friend when she suddenly makes a choice.
 
 ### Enunciado
-What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
+Ana has just decided, while speaking, to learn Italian. Which sentence fits best?
 
 ### Opciones
-- [x] C) jet lag
-  <!-- feedback: Correct! 'Jet lag' is the tiredness and disturbed body clock you feel after a flight across several time zones. -->
-- [ ] A) fatigue
-  <!-- feedback: 'Fatigue' is tiredness after effort or a long day, not specifically caused by crossing time zones. -->
-- [ ] B) exhaustion
-  <!-- feedback: 'Exhaustion' is extreme tiredness from overwork or lack of sleep, which is not the same as the time zone effect. -->
-- [ ] D) insomnia
-  <!-- feedback: 'Insomnia' is the inability to sleep, whereas jet lag comes with tiredness during the day and a shifted body clock. -->
+- [ ] A) I am going to learn Italian next year.
+  <!-- feedback: Going to would mean the plan already existed before she spoke. -->
+- [ ] B) I am learning Italian in April.
+  <!-- feedback: Am learning Italian in April would mark a fixed arrangement, not a new decision. -->
+- [ ] C) I learn Italian.
+  <!-- feedback: Learn is present simple and cannot express the sudden decision. -->
+- [x] D) I will learn Italian!
+  <!-- feedback: Correct. A decision taken at the moment of speaking is expressed with will. -->
 
 ### Explicacion Pedagogica
-The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.
+When the decision is made at the moment of speaking, English uses will rather than going to.
+---

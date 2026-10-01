@@ -21,462 +21,462 @@ bundle_index: 1
 **20 preguntas | Ingles | Curriculo de Ingles**
 
 ---
-## Question 1 [D3]
+## Question 1 [D2]
 **ID:** HN-ING-11-2026-W14-relative-clauses-defining-001-MASTERY-bundle-v1
-**Bloom:** Remember
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A defining relative clause, where the pronoun acts as the subject.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+The woman ___ lives next door is a doctor.
 
 ### Opciones
-- [x] D) accommodation
-  <!-- feedback: 'accommodation' is the word for a place where you live or stay, including on holiday. -->
-- [ ] A) transportation
-  <!-- feedback: 'transportation' means the way you travel, such as buses or planes, not where you stay. -->
-- [ ] B) entertainment
-  <!-- feedback: 'entertainment' is the activity of enjoying shows, films or games, not a place to live. -->
-- [ ] C) currency
-  <!-- feedback: 'currency' is the money of a country, such as the colon; a place to stay is not money. -->
+- [x] A) who
+  <!-- feedback: Correct! Who is the subject of lives, and a defining clause needs a subject to complete the sentence. -->
+- [ ] B) which
+  <!-- feedback: Which refers to things, and the woman is a person. -->
+- [ ] C) whose
+  <!-- feedback: Whose expresses possession, and there is no possession in this sentence. -->
+- [ ] D) whom
+  <!-- feedback: Whom is the object form and would need a verb after it, but lives is already complete. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
+A defining relative clause is essential to the meaning of the noun. It needs its own subject and verb, which is who in this sentence.
 ---
-## Question 2 [D4]
+## Question 2 [D2]
 **ID:** HN-ING-11-2026-W14-relative-clauses-defining-001-MASTERY-bundle-v2
-**Bloom:** Remember
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A defining relative clause with a possessive pronoun.
 
 ### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
+The student ___ essay won the prize comes from León.
 
 ### Opciones
-- [x] B) itinerary
-  <!-- feedback: 'itinerary' is a detailed plan of a journey, listing the route and the stops along the way. -->
-- [ ] A) baggage
-  <!-- feedback: 'baggage' is the suitcases and bags you travel with, not the plan of the trip. -->
-- [ ] C) destination
-  <!-- feedback: 'destination' is only the place you are going to; the plan of the route is the itinerary. -->
-- [ ] D) passport
-  <!-- feedback: 'passport' is the travel document you show at the border, not the plan of a journey. -->
+- [x] B) whose
+  <!-- feedback: Correct! Whose shows possession of the essay, and the relative pronoun refers back to the student. -->
+- [ ] A) who
+  <!-- feedback: Who would be the subject of the clause, but the clause has no verb of its own here. -->
+- [ ] C) which
+  <!-- feedback: Which cannot be used for people, and the student is a person. -->
+- [ ] D) what
+  <!-- feedback: What cannot be used with an antecedent noun, and there is a clear antecedent here. -->
 
 ### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
+Whose expresses possession and works with a noun directly after it. The noun it modifies is the possessive object, and the clause has no separate verb of its own.
 ---
 ## Question 3 [D3]
 **ID:** HN-ING-11-2026-W14-relative-clauses-defining-001-MASTERY-bundle-v3
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A defining relative clause where the pronoun is the object.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+The film ___ we watched last night was excellent.
 
 ### Opciones
-- [x] C) destination
-  <!-- feedback: 'destination' names the place a person or thing is going or being sent to. -->
-- [ ] A) departure
-  <!-- feedback: 'departure' is the action of leaving, not the place you leave for. -->
-- [ ] B) arrival
-  <!-- feedback: 'arrival' is the moment of reaching a place, not the place itself. -->
-- [ ] D) journey
-  <!-- feedback: 'journey' is the whole trip from one place to another, not the place at the end of it. -->
+- [x] C) that
+  <!-- feedback: Correct! That is the neutral object pronoun and works for both people and things. -->
+- [ ] A) which
+  <!-- feedback: Which would also be possible in formal English, but that is the safer general choice for an object. -->
+- [ ] B) what
+  <!-- feedback: What has no antecedent, and this clause clearly refers back to the film. -->
+- [ ] D) where
+  <!-- feedback: Where asks about a place and cannot stand in for the object of watched. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
+That is the most versatile relative pronoun. It can be a subject or an object and it works with both people and things, which is why it is the default in exam answers.
 ---
-## Question 4 [D4]
+## Question 4 [D3]
 **ID:** HN-ING-11-2026-W14-relative-clauses-defining-001-MASTERY-bundle-v4
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A defining relative clause with a preposition at the end.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+The teacher ___ we spoke to was very patient.
 
 ### Opciones
-- [x] C) luggage
-  <!-- feedback: 'luggage' is the collective word for the suitcases and bags you pack for a trip. -->
-- [ ] A) ticket
-  <!-- feedback: 'ticket' is the document you buy that admits you to the journey. -->
-- [ ] B) flight
-  <!-- feedback: 'flight' is the plane or the scheduled trip itself, not the bags you carry. -->
-- [ ] D) reservation
-  <!-- feedback: 'reservation' is the booking you hold for a seat or a room. -->
+- [x] D) that
+  <!-- feedback: Correct! The relative pronoun is the object of the preposition to, and that is the neutral choice here. -->
+- [ ] A) to who
+  <!-- feedback: In English the preposition stays at the end of the clause, and to who is not a possible order. -->
+- [ ] B) which
+  <!-- feedback: Which would restrict the verb to things, and the teacher is a person. -->
+- [ ] C) what
+  <!-- feedback: What cannot stand for an object that already has an antecedent. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
+After a preposition the relative pronoun becomes the object of that preposition. The preposition itself is left at the end of the clause in formal English.
 ---
-## Question 5 [D5]
+## Question 5 [D3]
 **ID:** HN-ING-11-2026-W14-relative-clauses-defining-001-MASTERY-bundle-v5
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A defining relative clause introduced by a prepositional phrase.
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+The house ___ we grew up in has been sold.
 
 ### Opciones
-- [x] C) passenger
-  <!-- feedback: 'passenger' is anyone travelling on a vehicle who is not the driver, the pilot or the crew. -->
-- [ ] A) pedestrian
-  <!-- feedback: 'pedestrian' is a person who travels on foot, not on a bus, a train or a plane. -->
-- [ ] B) commuter
-  <!-- feedback: 'commuter' is someone who travels regularly between home and work, a narrower idea than passenger. -->
-- [ ] D) tourist
-  <!-- feedback: 'tourist' is defined by travelling for pleasure and may also be the driver of a rented car; 'passenger' covers every rider who is not crew. -->
+- [x] A) where
+  <!-- feedback: Correct! In a prepositional phrase the relative adverb replaces the pronoun and the preposition disappears. -->
+- [ ] B) in which
+  <!-- feedback: In which is possible in formal English, but where is shorter and the standard everyday choice. -->
+- [ ] C) that
+  <!-- feedback: That would need the preposition as well, and the sentence already omits it in favour of where. -->
+- [ ] D) what
+  <!-- feedback: What cannot be used with an antecedent noun, and the house is a clear antecedent. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
+Where, when and why replace the pronoun plus preposition combination. We grew up in it becomes where we grew up.
 ---
-## Question 6 [D6]
+## Question 6 [D3]
 **ID:** HN-ING-11-2026-W14-relative-clauses-defining-001-MASTERY-bundle-v6
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A defining relative clause about time.
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+That is the year ___ the school opened.
 
 ### Opciones
-- [x] D) customs
-  <!-- feedback: 'customs' is the office where officials check the goods, the luggage and the travellers entering a country. -->
-- [ ] A) security
-  <!-- feedback: 'security' refers to the staff and the measures that keep the airport safe, not to the goods check. -->
-- [ ] B) terminal
-  <!-- feedback: 'terminal' is the building where you wait for and board your flight. -->
-- [ ] C) gate
-  <!-- feedback: 'gate' is the door you board the plane through, not the place where officials check luggage. -->
+- [x] B) when
+  <!-- feedback: Correct! When replaces the preposition in a time phrase and acts as the subject of opened. -->
+- [ ] A) in which
+  <!-- feedback: In which is longer and less natural, and when is the standard relative adverb for time. -->
+- [ ] C) which
+  <!-- feedback: Which would need the preposition at the end, such as which the school opened in, which is clumsy here. -->
+- [ ] D) that
+  <!-- feedback: That can be a subject pronoun but it cannot replace a time preposition on its own. -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
+Relative adverbs replace the pronoun plus the preposition: in which becomes when, in which became when. The clause then has its own subject and verb.
 ---
-## Question 7 [D5]
+## Question 7 [D3]
 **ID:** HN-ING-11-2026-W14-relative-clauses-defining-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A defining relative clause about a reason.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+She is the only student ___ passed the exam.
 
 ### Opciones
-- [x] D) boarding pass
-  <!-- feedback: 'boarding pass' is the slip the airline hands over at check-in that lets you board the plane. -->
-- [ ] A) visa
-  <!-- feedback: 'visa' is the official permission to enter and stay in a foreign country. -->
-- [ ] B) receipt
-  <!-- feedback: 'receipt' is the proof of payment for the ticket, not the document that lets you board. -->
-- [ ] C) brochure
-  <!-- feedback: 'brochure' is a small booklet with tourist information, not a travel document. -->
+- [x] C) who
+  <!-- feedback: Correct! The relative pronoun is the subject of passed, so who is the natural choice. -->
+- [ ] A) that
+  <!-- feedback: That would also be grammatically possible, but who is more precise when the pronoun is the subject of a clause about a person. -->
+- [ ] B) which
+  <!-- feedback: Which refers to things, and the student is a person. -->
+- [ ] D) why
+  <!-- feedback: Why expresses a reason, and this clause gives no reason. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+When the relative pronoun is the subject of the clause, the clause has a full verb of its own. Who and which both work as subjects, and the choice depends on the antecedent.
 ---
-## Question 8 [D6]
+## Question 8 [D3]
 **ID:** HN-ING-11-2026-W14-relative-clauses-defining-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A defining relative clause joined to another relative pronoun.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+He is the man ___ car I repaired last week.
 
 ### Opciones
-- [x] D) sightseeing
-  <!-- feedback: 'sightseeing' is visiting the places of interest of a location in order to look at them. -->
-- [ ] A) shopping
-  <!-- feedback: 'shopping' is buying things, which is a different activity from visiting sights. -->
-- [ ] B) hiking
-  <!-- feedback: 'hiking' is walking in the countryside along a trail, usually for exercise. -->
-- [ ] C) camping
-  <!-- feedback: 'camping' means spending the night outdoors in a tent. -->
+- [x] D) whose
+  <!-- feedback: Correct! Whose links the clause to the noun car and expresses possession. -->
+- [ ] A) who
+  <!-- feedback: Who would need a verb after it, and the clause has repaired with no further subject. -->
+- [ ] B) which
+  <!-- feedback: Which would refer to the man rather than the car, and it cannot express possession. -->
+- [ ] C) that
+  <!-- feedback: That would be the subject of the clause, and the possessive link would be lost. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+A defining clause can hold two different relationships at once. Whose connects the man to the car as its possessor, while I is the subject of repaired.
 ---
-## Question 9 [D5]
+## Question 9 [D3]
 **ID:** HN-ING-11-2026-W14-relative-clauses-defining-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A defining relative clause where the pronoun is the object of a preposition.
 
 ### Enunciado
-What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
+The project ___ I was working on is finally finished.
 
 ### Opciones
-- [x] C) souvenir
-  <!-- feedback: 'souvenir' is an object kept because it reminds you of a person, a place or an event. -->
-- [ ] A) gift
-  <!-- feedback: 'gift' is anything given to someone else; a souvenir is kept by the buyer as a reminder. -->
-- [ ] B) award
-  <!-- feedback: 'award' is a distinction given for a merit or an achievement. -->
-- [ ] D) prize
-  <!-- feedback: 'prize' is what is won in a competition, not an object bought to remember a trip. -->
+- [x] A) that
+  <!-- feedback: Correct! The pronoun is the object of on, and that is the neutral object form. -->
+- [ ] B) on which
+  <!-- feedback: Putting the preposition before the pronoun is only acceptable in very formal English and is not the everyday form. -->
+- [ ] C) what
+  <!-- feedback: What has no antecedent and cannot be used with a preceding noun. -->
+- [ ] D) which
+  <!-- feedback: Which would restrict the verb to things, and the project is a project but the safer form is that. -->
 
 ### Explicacion Pedagogica
-The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
+The preposition can sit in two places. In everyday English it closes the clause, while in formal English it is placed before the relative pronoun.
 ---
-## Question 10 [D6]
+## Question 10 [D3]
 **ID:** HN-ING-11-2026-W14-relative-clauses-defining-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A defining relative clause with a past continuous verb.
 
 ### Enunciado
-What is the English word for: "A period of time by which something is late or postponed."
+The man ___ was talking to my brother is the new head of the department.
 
 ### Opciones
-- [x] A) delay
-  <!-- feedback: 'delay' is the extra period of time by which something becomes late or is postponed. -->
-- [ ] B) cancellation
-  <!-- feedback: 'cancellation' ends the booking or the trip altogether rather than pushing it back. -->
-- [ ] C) departure
-  <!-- feedback: 'departure' is the time a vehicle is scheduled to leave, not a postponement. -->
-- [ ] D) arrival
-  <!-- feedback: 'arrival' is the moment you reach the destination, not the waiting time. -->
+- [x] B) who
+  <!-- feedback: Correct! The clause needs a subject before the past continuous, and who supplies it. -->
+- [ ] A) was
+  <!-- feedback: A bare auxiliary would leave the clause without a subject of its own. -->
+- [ ] C) which
+  <!-- feedback: Which refers to things, and the man is a person. -->
+- [ ] D) whose
+  <!-- feedback: Whose expresses possession, and there is nothing possessed in this clause. -->
 
 ### Explicacion Pedagogica
-The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
+A defining relative clause can hold any tense, including continuous forms. The only requirement is that the clause has its own subject and verb.
 ---
-## Question 11 [D7]
+## Question 11 [D3]
 **ID:** HN-ING-11-2026-W14-relative-clauses-defining-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A defining relative clause about a place, formal version.
 
 ### Enunciado
-What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
+The city ___ I was born has changed enormously.
 
 ### Opciones
-- [x] B) check-in
-  <!-- feedback: 'check-in' is reporting your presence at the airport or the hotel and registering. -->
-- [ ] A) check-out
-  <!-- feedback: 'check-out' is the opposite moment: leaving the hotel and settling the bill. -->
-- [ ] C) booking
-  <!-- feedback: 'booking' is reserving the room or the seat in advance, which happens before you arrive. -->
-- [ ] D) reservation
-  <!-- feedback: 'reservation' is the record of that booking, not the act of reporting your presence. -->
+- [x] C) in which
+  <!-- feedback: Correct! The preposition plus relative pronoun is the formal alternative to where. -->
+- [ ] A) in that
+  <!-- feedback: In that introduces a result or a fact rather than a place, and the clause has no verb. -->
+- [ ] B) at which
+  <!-- feedback: At would suggest a point rather than a location, and the standard preposition for a place is in. -->
+- [ ] D) on what
+  <!-- feedback: What cannot follow a preposition with a noun antecedent, so this combination is not possible. -->
 
 ### Explicacion Pedagogica
-The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
+Where and in which mean the same thing. Where is shorter and more common, while in which is the form that formal and academic writing often prefers.
 ---
-## Question 12 [D8]
+## Question 12 [D3]
 **ID:** HN-ING-11-2026-W14-relative-clauses-defining-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A defining relative clause where that is the object.
 
 ### Enunciado
-What is the English word for: "A period of rest or waiting before a further stage in a journey."
+The book ___ you recommended was out of print.
 
 ### Opciones
-- [x] D) layover
-  <!-- feedback: 'layover' is the rest or the waiting period between two stages of a journey. -->
-- [ ] A) stopover
-  <!-- feedback: 'stopover' is a break in a journey during which you leave the vehicle, often overnight. -->
-- [ ] B) transfer
-  <!-- feedback: 'transfer' is the change from one vehicle or flight to another, the act rather than the waiting time. -->
-- [ ] C) transit
-  <!-- feedback: 'transit' means passage through a place or the system that carries people, not the pause itself. -->
+- [x] D) that
+  <!-- feedback: Correct! That is the object of recommended and works for both people and things. -->
+- [ ] A) which
+  <!-- feedback: Which is also valid in formal English, but that is the safer general choice with an object pronoun. -->
+- [ ] B) what
+  <!-- feedback: What would carry the meaning inside itself and cannot stand after a noun antecedent. -->
+- [ ] C) where
+  <!-- feedback: Where replaces a place preposition, and recommended has no place here. -->
 
 ### Explicacion Pedagogica
-The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
+That covers both the subject and the object positions. That you recommended is the object, and that which changed the country is the subject.
 ---
-## Question 13 [D7]
+## Question 13 [D4]
 **ID:** HN-ING-11-2026-W14-relative-clauses-defining-001-MASTERY-bundle-v13
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A defining relative clause with a proper noun as the antecedent.
 
 ### Enunciado
-What is the English word for: "A system of money in general use in a particular country."
+Cortazar, ___ wrote Rayuela, was an Argentine writer.
 
 ### Opciones
-- [x] D) currency
-  <!-- feedback: 'currency' is the whole money system in general use in a particular country. -->
-- [ ] A) coin
-  <!-- feedback: 'coin' is a single round piece of metal money, only one part of a currency. -->
-- [ ] B) banknote
-  <!-- feedback: 'banknote' is a paper note, again only one part of a country's money system. -->
-- [ ] C) cash
-  <!-- feedback: 'cash' is money in coins and notes seen as a form of payment, not the system a country has. -->
+- [x] A) who
+  <!-- feedback: Correct! Who is the subject of wrote and refers to a person. -->
+- [ ] B) which
+  <!-- feedback: Which would refer to a thing, and the antecedent is a person. -->
+- [ ] C) that
+  <!-- feedback: That would also be possible, but who is more precise with a person subject in formal writing. -->
+- [ ] D) whose
+  <!-- feedback: Whose would claim that Cortazar possesses the novel, which is not the relationship in this sentence. -->
 
 ### Explicacion Pedagogica
-The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
+Relative pronouns are chosen by function, not just by the type of antecedent. The subject role with a person calls for who, and the verb wrote confirms that role.
 ---
-## Question 14 [D8]
+## Question 14 [D3]
 **ID:** HN-ING-11-2026-W14-relative-clauses-defining-001-MASTERY-bundle-v14
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A defining relative clause attached to a plural antecedent.
 
 ### Enunciado
-What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
+The students ___ failed will retake the exam in March.
 
 ### Opciones
-- [x] D) guidebook
-  <!-- feedback: 'guidebook' is a book of information about a place written for the use of visitors. -->
-- [ ] A) map
-  <!-- feedback: 'map' is a drawing of the area, not a book of information. -->
-- [ ] B) dictionary
-  <!-- feedback: 'dictionary' explains the words of a language, not the places of a region. -->
-- [ ] C) encyclopedia
-  <!-- feedback: 'encyclopedia' covers all branches of knowledge, not one destination for tourists. -->
+- [x] B) who
+  <!-- feedback: Correct! The pronoun is the subject of failed and the verb already shows a plural subject, so who is correct. -->
+- [ ] A) which
+  <!-- feedback: Which would be wrong here because failed is a finite verb and the clause needs a person subject. -->
+- [ ] C) what
+  <!-- feedback: What cannot be used with an antecedent noun, however plural it is. -->
+- [ ] D) whose
+  <!-- feedback: Whose expresses possession and there is nothing possessed in this clause. -->
 
 ### Explicacion Pedagogica
-The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
+The finite verb of the relative clause tells you whether the pronoun is a subject or an object. A finite verb needs a subject, and that is who or which.
 ---
-## Question 15 [D7]
+## Question 15 [D3]
 **ID:** HN-ING-11-2026-W14-relative-clauses-defining-001-MASTERY-bundle-v15
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A defining relative clause with a that-clause, where the pronoun is the subject.
 
 ### Enunciado
-What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
+This is the only option ___ works on every phone.
 
 ### Opciones
-- [x] B) backpack
-  <!-- feedback: 'backpack' has shoulder straps and is carried on the back. -->
-- [ ] A) suitcase
-  <!-- feedback: 'suitcase' is a case with a handle that is pulled along, not one worn on the back. -->
-- [ ] C) briefcase
-  <!-- feedback: 'briefcase' is a flat case for documents that you carry by hand at work. -->
-- [ ] D) handbag
-  <!-- feedback: 'handbag' is a small bag held in the hand, usually for personal items. -->
+- [x] C) that
+  <!-- feedback: Correct! That is the subject of works, and it is the standard choice for things in this position. -->
+- [ ] A) which
+  <!-- feedback: Which is possible in formal English, but that is the everyday form when the pronoun is the subject of a clause about a thing. -->
+- [ ] B) what
+  <!-- feedback: What cannot be preceded by a noun antecedent, and the option is a clear antecedent. -->
+- [ ] D) where
+  <!-- feedback: Where replaces a place preposition, and works on every phone has no place element. -->
 
 ### Explicacion Pedagogica
-The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
+With a subject pronoun for a thing, both that and which work, and that is the more common choice. What is never allowed with an antecedent.
 ---
-## Question 16 [D8]
+## Question 16 [D4]
 **ID:** HN-ING-11-2026-W14-relative-clauses-defining-001-MASTERY-bundle-v16
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A defining relative clause in a sentence with a preposition at the end.
 
 ### Enunciado
-What is the English word for: "In or to a foreign country, especially one across the sea."
+The people ___ we spoke to at the party were from Canada.
 
 ### Opciones
-- [x] D) overseas
-  <!-- feedback: 'overseas' means in or to a foreign country, especially one across the sea. -->
-- [ ] A) domestic
-  <!-- feedback: 'domestic' means inside the same country, which is the opposite of overseas. -->
-- [ ] B) local
-  <!-- feedback: 'local' means belonging to a small area nearby, not to a foreign country. -->
-- [ ] C) national
-  <!-- feedback: 'national' means concerning the whole nation and says nothing about being abroad. -->
+- [x] D) whom
+  <!-- feedback: Correct! The formal object pronoun is the correct form after a preposition at the end of the clause. -->
+- [ ] A) who
+  <!-- feedback: Who would leave the clause without an object, because spoke needs one before to. -->
+- [ ] B) that
+  <!-- feedback: That is the object form, but the formal register of the question points to whom being the better answer. -->
+- [ ] C) which
+  <!-- feedback: Which cannot refer to people, and the people here is the antecedent. -->
 
 ### Explicacion Pedagogica
-The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
+Whom is the formal object form of who. It appears mainly after a preposition at the end of a relative clause, and the everyday alternative is that.
 ---
-## Question 17 [D9]
+## Question 17 [D3]
 **ID:** HN-ING-11-2026-W14-relative-clauses-defining-001-MASTERY-bundle-v17
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A defining relative clause about a thing, with a relative adverb for reason.
 
 ### Enunciado
-What is the English word for: "An estimate of income and expenditure for a set period of time."
+That is the reason ___ she left the company.
 
 ### Opciones
-- [x] A) budget
-  <!-- feedback: 'budget' is an estimate of income and expenditure planned for a set period. -->
-- [ ] B) expense
-  <!-- feedback: 'expense' is a single amount of money that is spent, not the plan for a whole period. -->
-- [ ] C) cost
-  <!-- feedback: 'cost' is what one item or one service costs, again not an estimate for a period. -->
-- [ ] D) price
-  <!-- feedback: 'price' is the sum a customer pays for one product; a budget covers income and spending together. -->
+- [x] A) why
+  <!-- feedback: Correct! Why replaces for which and expresses the reason in the clause. -->
+- [ ] B) for which
+  <!-- feedback: For which is the formal equivalent but reads awkwardly, and why is the standard relative adverb. -->
+- [ ] C) that
+  <!-- feedback: That could be a subject pronoun, but the clause has no verb of its own to be the subject of. -->
+- [ ] D) which
+  <!-- feedback: Which cannot replace the preposition for on its own without leaving the sentence incomplete. -->
 
 ### Explicacion Pedagogica
-The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
+Why, where, when and how replace their pronoun plus preposition equivalents. The reason why is the usual phrase in everyday English.
 ---
-## Question 18 [D10]
+## Question 18 [D3]
 **ID:** HN-ING-11-2026-W14-relative-clauses-defining-001-MASTERY-bundle-v18
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A defining relative clause in a question form.
 
 ### Enunciado
-What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
+Which is the film ___ won the award last year?
 
 ### Opciones
-- [x] B) insurance
-  <!-- feedback: 'insurance' is the arrangement in which a company pays compensation for a loss in exchange for a premium. -->
-- [ ] A) warranty
-  <!-- feedback: 'warranty' is the maker's promise to repair or replace a faulty product, normally free of charge. -->
-- [ ] C) guarantee
-  <!-- feedback: 'guarantee' is a general promise of quality and does not involve paying a premium. -->
-- [ ] D) policy
-  <!-- feedback: 'policy' is the written document that states what an insurance contract covers. -->
+- [x] B) that
+  <!-- feedback: Correct! That is the subject of won, and the wh question in the main clause is unrelated to the relative pronoun. -->
+- [ ] A) which
+  <!-- feedback: Which is valid in formal English, but that is the more common subject pronoun in a question of this kind. -->
+- [ ] C) what
+  <!-- feedback: What cannot be used with the noun film, which is already a clear antecedent. -->
+- [ ] D) when
+  <!-- feedback: When replaces a time preposition, and there is no time phrase in the clause. -->
 
 ### Explicacion Pedagogica
-The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
+A wh question in the main clause does not affect the relative pronoun inside the clause. The two structures work independently, and which film is answered by the film itself.
 ---
-## Question 19 [D9]
+## Question 19 [D4]
 **ID:** HN-ING-11-2026-W14-relative-clauses-defining-001-MASTERY-bundle-v19
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A defining relative clause with a reduced form.
 
 ### Enunciado
-What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
+The film ___ directed by that woman won three awards.
 
 ### Opciones
-- [x] A) vaccination
-  <!-- feedback: 'vaccination' is the treatment with a vaccine that makes the body immune to a disease. -->
-- [ ] B) medication
-  <!-- feedback: 'medication' is a drug taken to treat an illness, not to prevent one. -->
-- [ ] C) prescription
-  <!-- feedback: 'prescription' is the written order that authorises a medicine, not the treatment itself. -->
-- [ ] D) infection
-  <!-- feedback: 'infection' is the disease itself, the opposite of the protection a vaccination gives. -->
+- [x] C) directed
+  <!-- feedback: Correct! A defining clause can be reduced by dropping the pronoun and the auxiliary when the pronoun is the subject. -->
+- [ ] A) was directed
+  <!-- feedback: A reduced relative clause drops the relative pronoun and keeps the verb, so a finite verb is not part of the reduced form. -->
+- [ ] B) is directing
+  <!-- feedback: A present participle would be a reduced form of an active clause in progress, and the film is not directing. -->
+- [ ] D) had directed
+  <!-- feedback: A past perfect is not part of a reduced defining clause, and the verb has no auxiliary to attach it to. -->
 
 ### Explicacion Pedagogica
-The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
+A relative clause whose pronoun is the subject can be reduced: the film that was directed becomes the film directed. The meaning stays the same and the clause becomes an adjective phrase.
 ---
-## Question 20 [D10]
+## Question 20 [D3]
 **ID:** HN-ING-11-2026-W14-relative-clauses-defining-001-MASTERY-bundle-v20
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A defining relative clause where the pronoun is the subject and the verb is passive.
 
 ### Enunciado
-What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
+The students ___ sit in the front row are preparing a show.
 
 ### Opciones
-- [x] A) jet lag
-  <!-- feedback: 'jet lag' is the tiredness and the disturbed sleep caused by crossing several time zones on a flight. -->
-- [ ] B) fatigue
-  <!-- feedback: 'fatigue' is tiredness that can come from any long effort, not specifically from a flight. -->
-- [ ] C) exhaustion
-  <!-- feedback: 'exhaustion' is the extreme form of tiredness after hard work or a lack of sleep. -->
-- [ ] D) insomnia
-  <!-- feedback: 'insomnia' is the inability to fall asleep, which has many causes besides travel. -->
+- [x] D) who
+  <!-- feedback: Correct! The clause needs a subject for the finite verb sit, and who supplies it. -->
+- [ ] A) which
+  <!-- feedback: Which would restrict the verb to things, and the students are people. -->
+- [ ] B) that
+  <!-- feedback: That is also valid, but who is the more precise subject pronoun for a person. -->
+- [ ] C) sit
+  <!-- feedback: A bare verb would leave the clause with no subject, because the relative pronoun occupies that position. -->
 
 ### Explicacion Pedagogica
-The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.
+A finite verb inside a relative clause always needs a subject, and that subject is the relative pronoun. Omitting it would leave the clause incomplete.

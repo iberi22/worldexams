@@ -17,466 +17,509 @@ tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
 ---
-# MASTERY Bundle - Ingles: Listening Comprehension Main Ideas (W31)
-**20 preguntas | Ingles | Curriculo de Ingles**
+# Bundle MASTERY: Listening Comprehension Main Ideas - Grado 11
+
+Este bundle contiene 20 preguntas sobre **listening-comprehension-main-ideas** para grado 11,
+alineadas con el programa de estudios del MEP Costa Rica para Bachillerato 2026.
 
 ---
+
 ## Question 1 [D3]
 **ID:** CR-ING-11-2026-W31-listening-comprehension-main-ideas-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A radio station in Alajuela broadcasts a short report about a new bike lane.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+Which sentence gives the main idea of the radio report?
 
 ### Opciones
-- [x] D) accommodation
-  <!-- feedback: Correct! 'Accommodation' is the word for a place where you live or stay when you are on holiday. -->
-- [ ] A) transportation
-  <!-- feedback: 'Transportation' is the way you move from one place to another (buses, trains, planes), not the place where you sleep. -->
-- [ ] B) entertainment
-  <!-- feedback: 'Entertainment' is the fun or activities you enjoy, not the building or room where you stay. -->
-- [ ] C) currency
-  <!-- feedback: 'Currency' is the money of a country, which has nothing to do with where you sleep. -->
+- [x] A) The city is building a protected bike lane downtown.
+  <!-- feedback: Correct: the opening sentence states the topic itself, and the rest of the report only adds detail to it. -->
+- [ ] B) The report lasts two minutes.
+  <!-- feedback: The length of the report is a detail about the broadcast, not about what the report is saying. -->
+- [ ] C) Rush hour traffic downtown has grown.
+  <!-- feedback: Growing traffic is only one supporting fact, so it narrows the report down to a single point. -->
+- [ ] D) The lane will need repairs in five years.
+  <!-- feedback: Future repairs are a detail that fits inside the bigger news about the new lane. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
+The main idea is the one general message that the whole piece supports; numbers, times and examples only illustrate it.
+
 ---
-## Question 2 [D4]
+
+## Question 2 [D3]
 **ID:** CR-ING-11-2026-W31-listening-comprehension-main-ideas-001-MASTERY-bundle-v2
-**Bloom:** Remember
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Understand
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A host in Heredia interviews a coffee grower from Tarrazu on the radio.
 
 ### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
+Which phrase tells you the speaker is stating the main point?
 
 ### Opciones
-- [x] B) itinerary
-  <!-- feedback: Correct! An 'itinerary' is a detailed plan of a journey, listing the places and times along the route. -->
-- [ ] A) baggage
-  <!-- feedback: 'Baggage' is the suitcases and bags you travel with, not the written plan of the trip. -->
-- [ ] C) destination
-  <!-- feedback: 'Destination' is the place you are going to, a single place, while an itinerary is the whole route plan. -->
-- [ ] D) passport
-  <!-- feedback: 'Passport' is the travel document that lets you cross a border, not the schedule of your trip. -->
+- [ ] A) Interestingly enough
+  <!-- feedback: Interestingly adds colour to an aside; it introduces something extra, not the central message. -->
+- [ ] B) On the other hand
+  <!-- feedback: On the other hand marks a contrast with an earlier point, so it signals a second idea instead. -->
+- [x] C) The main reason is that
+  <!-- feedback: Correct: this phrase is an explicit signpost that tells the listener the core of the talk begins here. -->
+- [ ] D) By the way
+  <!-- feedback: By the way marks an aside or a change of subject, so it moves away from the main point. -->
 
 ### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
+Speakers mark structure with phrases: mainly, the point is or to sum up announce the central idea, while however and by the way introduce side points.
+
 ---
-## Question 3 [D3]
+
+## Question 3 [D4]
 **ID:** CR-ING-11-2026-W31-listening-comprehension-main-ideas-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A professor in San Jose lectures her class about traffic in the capital.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+Which sentence is the topic sentence of her lecture?
 
 ### Opciones
-- [x] B) destination
-  <!-- feedback: Correct! A 'destination' is the place someone or something is going or being sent to. -->
-- [ ] A) departure
-  <!-- feedback: 'Departure' is the action of leaving, the opposite end of the journey from the destination. -->
-- [ ] C) arrival
-  <!-- feedback: 'Arrival' is the act of getting there; the place you arrive at is the destination. -->
-- [ ] D) journey
-  <!-- feedback: 'Journey' is the whole trip from start to finish, not the place you are heading to. -->
+- [ ] A) The lecture lasts fifty minutes, so take notes carefully.
+  <!-- feedback: This is an instruction about the class, so it belongs to the situation, not to the subject. -->
+- [x] B) Traffic in San Jose grows because more people drive instead of taking the bus.
+  <!-- feedback: Correct: it names the general subject and its reason, so every later detail in the talk supports it. -->
+- [ ] C) Some drivers leave the car at home on Tuesdays.
+  <!-- feedback: One group habit on one weekday is a single example, so it supports the topic without stating it. -->
+- [ ] D) The blue chart on the screen shows data from 2019.
+  <!-- feedback: Saying which chart appears describes the visuals, not the message the lecture delivers. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
+The topic sentence states the subject in general terms; the sentences after it offer facts, figures and examples that only explain it.
+
 ---
+
 ## Question 4 [D4]
 **ID:** CR-ING-11-2026-W31-listening-comprehension-main-ideas-001-MASTERY-bundle-v4
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Apply
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A station in Alajuela airs a thirty second spot for a play at the Teatro Nacional.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+What is the main purpose of that radio spot?
 
 ### Opciones
-- [x] B) luggage
-  <!-- feedback: Correct! 'Luggage' means suitcases and bags in which you pack your belongings for a trip. -->
-- [ ] A) ticket
-  <!-- feedback: 'Ticket' is the paper that gives you the right to travel on a bus, train or plane, not the bag itself. -->
-- [ ] C) flight
-  <!-- feedback: 'Flight' is the journey by plane, or the plane itself; the bags are called luggage. -->
-- [ ] D) reservation
-  <!-- feedback: 'Reservation' is the booking you make for a seat or a room, not the bags you pack. -->
+- [ ] A) Explain the full plot of the play for its audience.
+  <!-- feedback: A plot summary belongs to a review; this short spot gives no details about the story. -->
+- [ ] B) Report how many people attended last night.
+  <!-- feedback: Attendance figures report the past, while a promotion is about what listeners can still do. -->
+- [ ] C) Compare ticket prices with another theatre in San Jose.
+  <!-- feedback: No rival theatre appears in the spot, so no comparison of prices is ever made. -->
+- [x] D) Tell listeners where and when to get their tickets.
+  <!-- feedback: Correct: the mention of the door and the show times are the facts a listener needs in order to act. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
+Short spots have one clear aim. Ask what the listener is meant to do or learn, and that question reveals the main purpose.
+
 ---
+
 ## Question 5 [D5]
 **ID:** CR-ING-11-2026-W31-listening-comprehension-main-ideas-001-MASTERY-bundle-v5
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
-
-### Opciones
-- [x] A) passenger
-  <!-- feedback: Correct! A 'passenger' is a person who travels on a vehicle without being the driver, pilot or crew. -->
-- [ ] B) pedestrian
-  <!-- feedback: 'Pedestrian' is someone who travels on foot, so they are not on a conveyance at all. -->
-- [ ] C) commuter
-  <!-- feedback: 'Commuter' is someone who travels regularly between home and work; the definition here is any traveller on board, not only that daily case. -->
-- [ ] D) tourist
-  <!-- feedback: 'Tourist' is someone visiting for pleasure or sightseeing, but the definition covers every traveller on board, including commuters and residents. -->
-
-### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
----
-## Question 6 [D6]
-**ID:** CR-ING-11-2026-W31-listening-comprehension-main-ideas-001-MASTERY-bundle-v6
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
-
-### Opciones
-- [x] B) customs
-  <!-- feedback: Correct! 'Customs' is the office at a port, airport or border where officials check goods, travellers and luggage. -->
-- [ ] A) security
-  <!-- feedback: 'Security' is the staff who control safety and boarding inside the airport; it does not check the goods you bring in. -->
-- [ ] C) terminal
-  <!-- feedback: 'Terminal' is the whole building where passengers wait, eat and catch their flights. -->
-- [ ] D) gate
-  <!-- feedback: 'Gate' is the particular door you board through, not the place where officials inspect your luggage. -->
-
-### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
----
-## Question 7 [D5]
-**ID:** CR-ING-11-2026-W31-listening-comprehension-main-ideas-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A student in Guanacaste took notes on a talk about turtle protection in Playa Grande.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+Which summary keeps the main idea of her notes?
 
 ### Opciones
-- [x] D) boarding pass
-  <!-- feedback: Correct! The 'boarding pass' is the document the airline gives you at check-in that authorises you to board. -->
-- [ ] A) visa
-  <!-- feedback: 'Visa' is the official permission to enter and stay in a country, requested before the trip, not the document that lets you board a plane. -->
-- [ ] B) receipt
-  <!-- feedback: 'Receipt' is the proof of payment for a purchase, not the travel document for boarding. -->
-- [ ] C) brochure
-  <!-- feedback: 'Brochure' is a small booklet of tourist information, not the document that lets you board. -->
+- [x] A) Playa Grande protects sea turtles by limiting lights and nesting zones.
+  <!-- feedback: Correct: it keeps the topic and its one purpose, dropping the numbers and logistics that only supported it. -->
+- [ ] B) The talk was on Thursday in room four with about sixty students.
+  <!-- feedback: The day, the room and the head count are details about the talk, not about its message. -->
+- [ ] C) One ranger counted forty nests in July and thirty in August.
+  <!-- feedback: Nest counts are the evidence inside the talk, so they support the summary instead of being it. -->
+- [ ] D) Students asked two questions about plastic waste at the end.
+  <!-- feedback: Audience questions and one example of waste are side moments, not the central claim. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+A summary keeps the general message and drops narrow facts such as numbers, rooms and small events, so it ends shorter than the text.
+
 ---
+
+## Question 6 [D5]
+**ID:** CR-ING-11-2026-W31-listening-comprehension-main-ideas-001-MASTERY-bundle-v6
+**Bloom:** Apply
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** Sofia in Heredia wrote a summary of a talk about public transport that is too narrow.
+
+### Enunciado
+What is wrong with Sofia's summary of the bus talk?
+
+### Opciones
+- [ ] A) It uses the past tense instead of the present simple.
+  <!-- feedback: Tense is not the problem; the sentence is grammatically fine and the fault lies in the content. -->
+- [x] B) It gives one timetable detail, not the main argument of the talk.
+  <!-- feedback: Correct: a summary must carry the central claim, and a single timetable fact cannot stand for the talk. -->
+- [ ] C) It repeats the name of the bus company too many times.
+  <!-- feedback: The company name appears only once, so repetition is not what weakens this summary. -->
+- [ ] D) It is too long for the space allowed on the exam form.
+  <!-- feedback: The summary is short, so length is not the problem here; choosing the right idea is. -->
+
+### Explicacion Pedagogica
+A summary fails when it keeps only a detail that stood out. Ask whether your sentence could describe the whole piece or just one moment.
+
+---
+
+## Question 7 [D6]
+**ID:** CR-ING-11-2026-W31-listening-comprehension-main-ideas-001-MASTERY-bundle-v7
+**Bloom:** Analyze
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A radio talk in Puntarenas about the new port is given as problem, cause and solution.
+
+### Enunciado
+Which order of sections does this talk most likely follow?
+
+### Opciones
+- [ ] A) Problem, solution, cause
+  <!-- feedback: This reaches the answer before giving the reason, so the listener meets the solution too early. -->
+- [ ] B) Cause, solution, problem
+  <!-- feedback: A cause cannot be explained before the problem that produced it, so this order runs backwards. -->
+- [ ] C) Solution, problem, cause
+  <!-- feedback: Starting with the solution and ending with the problem inverts the natural build of a talk. -->
+- [x] D) Problem, cause, solution
+  <!-- feedback: Correct: expository talks usually state the problem, then its cause, and only then the solution. -->
+
+### Explicacion Pedagogica
+Expository talks follow a predictable order: problem, then cause, then solution. Tracking it helps you recall the main ideas.
+
+---
+
 ## Question 8 [D6]
 **ID:** CR-ING-11-2026-W31-listening-comprehension-main-ideas-001-MASTERY-bundle-v8
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Analyze
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A coach in Desamparados talks to his players before a tournament in Quepos.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+The coach says, "We lose matches in the last minutes." What is the implied idea?
 
 ### Opciones
-- [x] D) sightseeing
-  <!-- feedback: Correct! 'Sightseeing' is the activity of visiting the places of interest in a location. -->
-- [ ] A) shopping
-  <!-- feedback: 'Shopping' is buying things in stores, which is not the same as visiting the sights of a place. -->
-- [ ] B) hiking
-  <!-- feedback: 'Hiking' is walking in the countryside on trails, not the general activity of visiting a location's attractions. -->
-- [ ] C) camping
-  <!-- feedback: 'Camping' is staying outdoors in a tent, not visiting the sights of a location. -->
+- [x] A) The team must improve its fitness and focus at the end of games.
+  <!-- feedback: Correct: the complaint points to late match weakness, so the implied message is what must change. -->
+- [ ] B) The team lost every match in the tournament.
+  <!-- feedback: The remark never claims that every match was lost, so this summary overstates what was said. -->
+- [ ] C) The coach wants a larger field for the final match.
+  <!-- feedback: The size of the field is never mentioned, so that conclusion is invented rather than implied. -->
+- [ ] D) Training starts earlier than the team expected.
+  <!-- feedback: No training schedule comes up in the remark, so this idea has no support in what was said. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+Speakers often imply the main idea instead of stating it; the complaint about the last minutes points to what must improve.
+
 ---
-## Question 9 [D5]
+
+## Question 9 [D7]
 **ID:** CR-ING-11-2026-W31-listening-comprehension-main-ideas-001-MASTERY-bundle-v9
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Analyze
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A reporter in San Jose asks a farmer in Grecia about a new law on water use.
 
 ### Enunciado
-What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
+She says, "Well, I suppose the law might possibly help." What is her attitude?
 
 ### Opciones
-- [x] C) souvenir
-  <!-- feedback: Correct! A 'souvenir' is the object you keep afterwards as a reminder of a person, place or event you visited. -->
-- [ ] A) gift
-  <!-- feedback: 'Gift' is something you give to another person; a souvenir is kept by the person who took the trip. -->
-- [ ] B) award
-  <!-- feedback: 'Award' is a prize given for an achievement, not an object bought or kept as a memory. -->
-- [ ] D) prize
-  <!-- feedback: 'Prize' is the reward you win in a competition, so it comes from winning rather than from a journey. -->
+- [ ] A) She fully supports the law and expects large results.
+  <!-- feedback: Hedges like might possibly rule out the full confidence and the big results this option claims. -->
+- [ ] B) She is angry and ready to ignore the law.
+  <!-- feedback: Nothing in the hedging shows anger, which would need sharper and more loaded wording. -->
+- [x] C) She is politely doubtful and not fully convinced.
+  <!-- feedback: Correct: well and I suppose are hedges that signal polite doubt rather than open support. -->
+- [ ] D) She has not understood the reporter's question.
+  <!-- feedback: Her answer is clearly on the topic, so the hesitation comes from her opinion, not confusion. -->
 
 ### Explicacion Pedagogica
-The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
+Hedges such as I suppose, maybe and a little soften a claim, so heavy hedging signals doubt while flat wording signals confidence.
+
 ---
-## Question 10 [D6]
+
+## Question 10 [D7]
 **ID:** CR-ING-11-2026-W31-listening-comprehension-main-ideas-001-MASTERY-bundle-v10
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Evaluate
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A university station in Alajuela interviews two people about bicycles in the city.
 
 ### Enunciado
-What is the English word for: "A period of time by which something is late or postponed."
+Which summary best represents the whole interview?
 
 ### Opciones
-- [x] B) delay
-  <!-- feedback: Correct! A 'delay' is the extra time by which something ends up late or gets postponed. -->
-- [ ] A) cancellation
-  <!-- feedback: 'Cancellation' means the event does not happen at all, not that it happens later than planned. -->
-- [ ] C) departure
-  <!-- feedback: 'Departure' is the scheduled time or the act of leaving; the definition is about the extra time lost. -->
-- [ ] D) arrival
-  <!-- feedback: 'Arrival' is getting there, the opposite moment. Here we want the time lost, not the time you reach the destination. -->
+- [ ] A) Both guests asked for more bike lanes in San Jose.
+  <!-- feedback: This keeps only the shared request and drops the disagreement, which is a main part of the interview. -->
+- [x] B) The guests explain why bicycles matter, then disagree on who should pay for new lanes.
+  <!-- feedback: Correct: it gives the shared topic and the central clash, so it covers what the interview is about. -->
+- [ ] C) The host asked about the price of bicycle helmets downtown.
+  <!-- feedback: A single question about helmets is a minor moment and says nothing about the overall content. -->
+- [ ] D) The interview was recorded on a windy afternoon downtown.
+  <!-- feedback: Recording conditions sit outside the content of the interview and cannot be its main idea. -->
 
 ### Explicacion Pedagogica
-The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
+A summary of an interview must cover the shared topic and any disagreement that shapes it; omitting the clash hides half of the idea.
+
 ---
-## Question 11 [D7]
+
+## Question 11 [D8]
 **ID:** CR-ING-11-2026-W31-listening-comprehension-main-ideas-001-MASTERY-bundle-v11
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Evaluate
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** During a listening test, a student in Cartago writes down a wrong summary.
 
 ### Enunciado
-What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
+The speaker says the problem is not cost. What was the main idea?
 
 ### Opciones
-- [x] B) check-in
-  <!-- feedback: Correct! 'Check-in' is the act of reporting your arrival and registering at the airport or hotel counter. -->
-- [ ] A) check-out
-  <!-- feedback: 'Check-out' is the opposite moment, when you leave the hotel or hand back the room. -->
-- [ ] C) booking
-  <!-- feedback: 'Booking' is the reservation you made earlier; the act of registering your presence on arrival is check-in. -->
-- [ ] D) reservation
-  <!-- feedback: 'Reservation' is the booking document, not the act of reporting your presence at the desk. -->
+- [ ] A) Cost is the real problem of the project.
+  <!-- feedback: The opening denies exactly that link, so this summary reverses the speaker's contrast. -->
+- [ ] B) Nothing in the talk is connected with cost.
+  <!-- feedback: Cost is mentioned and then set aside, so a summary that drops it loses the point of the contrast. -->
+- [x] C) The real problem of the project is something other than cost.
+  <!-- feedback: Correct: not cost tells the listener the speaker is replacing one idea with a different one. -->
+- [ ] D) Cost is the only problem the project has.
+  <!-- feedback: This contradicts the claim that the problem is not cost, which rules cost out instead of confirming it. -->
 
 ### Explicacion Pedagogica
-The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
+Contrastive openings flag the main idea: despite, in fact and not X but Y tell you the speaker is replacing one idea with another.
+
 ---
+
 ## Question 12 [D8]
 **ID:** CR-ING-11-2026-W31-listening-comprehension-main-ideas-001-MASTERY-bundle-v12
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Evaluate
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A podcast recorded in Heredia has three sections and the host names each one.
 
 ### Enunciado
-What is the English word for: "A period of rest or waiting before a further stage in a journey."
+Which host phrase signals that a new main section is starting?
 
 ### Opciones
-- [x] A) layover
-  <!-- feedback: Correct! A 'layover' is a period of rest or waiting between two stages of a journey. -->
-- [ ] B) stopover
-  <!-- feedback: 'Stopover' usually means a deliberate visit in the middle of a trip, not just the wait between flights. -->
-- [ ] C) transfer
-  <!-- feedback: 'Transfer' is the change of vehicle itself, the movement; the definition is about the time of waiting. -->
-- [ ] D) transit
-  <!-- feedback: 'Transit' is a system of moving people and goods through a city, not a break between two flights. -->
+- [x] A) Now, the second part of the story...
+  <!-- feedback: Correct: the second part is an explicit signpost that a new main section of the show has begun. -->
+- [ ] B) You know, it was really something.
+  <!-- feedback: This is a personal reaction to what was already said, so it comments instead of opening a section. -->
+- [ ] C) Kind of a big deal, honestly.
+  <!-- feedback: An informal comment about size carries no signal about a move to another part of the talk. -->
+- [ ] D) I mean, basically, whatever.
+  <!-- feedback: Fillers like I mean and basically hide the speaker's place in the talk rather than showing it. -->
 
 ### Explicacion Pedagogica
-The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
+Structural signposts include first, next, finally and the main reason; fillers like you know carry no information about the shape.
+
 ---
-## Question 13 [D7]
+
+## Question 13 [D9]
 **ID:** CR-ING-11-2026-W31-listening-comprehension-main-ideas-001-MASTERY-bundle-v13
-**Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Evaluate
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** At a school in Puntarenas students practise a listening test with a radio report.
 
 ### Enunciado
-What is the English word for: "A system of money in general use in a particular country."
+Which answer style suits a question about the report's main idea?
 
 ### Opciones
-- [x] A) currency
-  <!-- feedback: Correct! 'Currency' is the money system in general use in a particular country. -->
-- [ ] B) coin
-  <!-- feedback: 'Coin' is a single metal piece of money, one item within the currency, not the whole system. -->
-- [ ] C) banknote
-  <!-- feedback: 'Banknote' is a paper bill, one item of the currency rather than the system of money itself. -->
-- [ ] D) cash
-  <!-- feedback: 'Cash' means money in the physical form you hold, not the money system of a country. -->
+- [ ] A) It repeats the exact numbers the reporter read out twice.
+  <!-- feedback: Figures are details; a main idea answer has to hold for the whole report, not for one number. -->
+- [ ] B) It gives the reporter's opinion about the people he quotes.
+  <!-- feedback: The reporter's own view is a side comment, while the main idea is what the report supports. -->
+- [ ] C) It lists every place and date mentioned in the report.
+  <!-- feedback: A list of places and dates describes the content in detail but never says what it is about. -->
+- [x] D) It states the general point that the whole report supports.
+  <!-- feedback: Correct: a main idea answer covers the whole piece and can be proved with evidence from several parts. -->
 
 ### Explicacion Pedagogica
-The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
+Detail answers repeat one narrow fact; main idea answers generalise, so they must be true for every part of the piece.
+
 ---
-## Question 14 [D8]
+
+## Question 14 [D9]
 **ID:** CR-ING-11-2026-W31-listening-comprehension-main-ideas-001-MASTERY-bundle-v14
-**Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Evaluate
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A student in Puntarenas wrote a summary that was far too general after a talk in Limon.
 
 ### Enunciado
-What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
+Her summary says only "Water is important". How can she improve it?
 
 ### Opciones
-- [x] B) guidebook
-  <!-- feedback: Correct! A 'guidebook' is a book of information about a place written for visitors and tourists. -->
-- [ ] A) map
-  <!-- feedback: 'Map' is a single sheet or screen showing the layout of a place, not a book of information. -->
-- [ ] C) dictionary
-  <!-- feedback: 'Dictionary' is a book of word definitions of a language, not information about a place for visitors. -->
-- [ ] D) encyclopedia
-  <!-- feedback: 'Encyclopedia' is a general reference work with entries on every topic, not a guide written for tourists about one place. -->
+- [ ] A) By adding more opinion about why water matters to her.
+  <!-- feedback: Personal opinion adds a voice the talk never used and still leaves the content vague. -->
+- [x] B) By naming what the talk said about water use and what followed from it.
+  <!-- feedback: Correct: a main idea names the specific subject and its consequence, not only the general truth. -->
+- [ ] C) By dropping every detail she heard in the recording.
+  <!-- feedback: Summaries still need content; removing all the detail leaves nothing for a reader to understand. -->
+- [ ] D) By copying the first sentence the speaker said.
+  <!-- feedback: Copying the opening works only when that sentence states the topic, which here it does not. -->
 
 ### Explicacion Pedagogica
-The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
+An over general summary is fixed by naming the specific subject and the point made about it, not by adding opinions.
+
 ---
-## Question 15 [D7]
+
+## Question 15 [D10]
 **ID:** CR-ING-11-2026-W31-listening-comprehension-main-ideas-001-MASTERY-bundle-v15
-**Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Evaluate
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A news bulletin in Escazu reports a road project and interviews two residents.
 
 ### Enunciado
-What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
+Which headline states the main idea of the whole bulletin?
 
 ### Opciones
-- [x] D) backpack
-  <!-- feedback: Correct! A 'backpack' is the bag with shoulder straps that you carry on your back. -->
-- [ ] A) suitcase
-  <!-- feedback: 'Suitcase' is a case with a handle that you pull along, not a bag worn on the back. -->
-- [ ] B) briefcase
-  <!-- feedback: 'Briefcase' is a case for documents and a laptop, carried in the hand for work. -->
-- [ ] C) handbag
-  <!-- feedback: 'Handbag' is a bag for personal items carried on the arm or in the hand, with no back straps. -->
+- [ ] A) A resident says the dust is hard to avoid.
+  <!-- feedback: The dust complaint is one resident's view, so it cannot stand as the headline for the whole item. -->
+- [ ] B) Bus drivers want the old route kept for a year.
+  <!-- feedback: The drivers' request is a side detail, while the road itself is what the bulletin is mainly about. -->
+- [x] C) A new road will replace the old bridge over the Rio Torres.
+  <!-- feedback: Correct: it names the single event the report explains, and the rest of the item supports it. -->
+- [ ] D) The project begins after the heavy rains in November.
+  <!-- feedback: The start date is a scheduling detail that fits inside the bigger story about the new road. -->
 
 ### Explicacion Pedagogica
-The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
+A headline must cover every part of the report; test it by asking whether the interviews and figures still fit under it.
+
 ---
-## Question 16 [D8]
+
+## Question 16 [D10]
 **ID:** CR-ING-11-2026-W31-listening-comprehension-main-ideas-001-MASTERY-bundle-v16
-**Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Evaluate
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A radio debate in Cartago is split into three signposted parts by the host.
 
 ### Enunciado
-What is the English word for: "In or to a foreign country, especially one across the sea."
+Which signposted part carries the main idea of the debate?
 
 ### Opciones
-- [x] A) overseas
-  <!-- feedback: Correct! 'Overseas' means in or to a foreign country, especially one across the sea. -->
-- [ ] B) domestic
-  <!-- feedback: 'Domestic' means inside your own country, the opposite of overseas. -->
-- [ ] C) local
-  <!-- feedback: 'Local' means in the area where you are, even more restricted than domestic; it never crosses a border. -->
-- [ ] D) national
-  <!-- feedback: 'National' refers to a whole country without saying it is foreign, so it does not imply going abroad. -->
+- [ ] A) The closing response, because it comes last.
+  <!-- feedback: Coming last does not make a part central; a response usually reacts to the argument already made. -->
+- [ ] B) The opening history, because it comes first.
+  <!-- feedback: The history sets the scene, so it frames the debate without carrying its central point. -->
+- [ ] C) The longest section, because it takes more time.
+  <!-- feedback: Length measures time, not importance, so the longest section is not automatically the main one. -->
+- [x] D) The main argument, because the other two parts serve it.
+  <!-- feedback: Correct: the opening sets up the argument and the closing answers it, so the argument is central. -->
 
 ### Explicacion Pedagogica
-The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
+When a talk is split into parts, the central one is the part the others serve: the opening frames it and the closing reacts to it.
+
 ---
-## Question 17 [D9]
+
+## Question 17 [D10]
 **ID:** CR-ING-11-2026-W31-listening-comprehension-main-ideas-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A radio show in Liberia talks about a new library in Guanacaste.
 
 ### Enunciado
-What is the English word for: "An estimate of income and expenditure for a set period of time."
+Which line is only a detail of the show, not its main idea?
 
 ### Opciones
-- [x] A) budget
-  <!-- feedback: Correct! A 'budget' is the estimate of income and expenditure planned for a set period. -->
-- [ ] B) expense
-  <!-- feedback: 'Expense' is a single cost already paid; the definition is the estimate for the whole period. -->
-- [ ] C) cost
-  <!-- feedback: 'Cost' is the price of one thing, whereas a budget covers all income and all spending. -->
-- [ ] D) price
-  <!-- feedback: 'Price' is the amount a single item costs, not a plan of income and expenditure over time. -->
+- [ ] A) Local reading habits need a real push.
+  <!-- feedback: This line generalises the whole item, so it works as the main idea the show supports. -->
+- [x] B) The library opens its shelves with four hundred books.
+  <!-- feedback: Correct: a number of books is one concrete fact inside the item, not the message behind the report. -->
+- [ ] C) Students can use free internet inside the building.
+  <!-- feedback: Free internet is a real service in the item, but it is only one point among several details. -->
+- [ ] D) The programme finishes at ten o'clock tonight.
+  <!-- feedback: The end time belongs to the broadcast schedule, not to the content the show is about. -->
 
 ### Explicacion Pedagogica
-The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
+Details are specific facts such as numbers, services and times; the main idea turns them into one message a listener can repeat.
+
 ---
+
 ## Question 18 [D10]
 **ID:** CR-ING-11-2026-W31-listening-comprehension-main-ideas-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A reporter in Alajuela questions a farmer about buses in the canton.
 
 ### Enunciado
-What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
+The student writes "Buses should be free." Whose view is that?
 
 ### Opciones
-- [x] B) insurance
-  <!-- feedback: Correct! 'Insurance' is the arrangement by which an insurer promises compensation for loss, damage, illness or death in exchange for a premium. -->
-- [ ] A) warranty
-  <!-- feedback: 'Warranty' covers a product against defects for a limited period and is free of charge, not a premium-based contract. -->
-- [ ] C) guarantee
-  <!-- feedback: 'Guarantee' is the promise itself; 'insurance' is the whole contract arranged with an insurer for a premium. -->
-- [ ] D) policy
-  <!-- feedback: 'Policy' is the document that proves the insurance contract; the arrangement itself is the insurance. -->
+- [ ] A) The reporter's, because he asked the question.
+  <!-- feedback: Asking a question does not mean holding a view; the reporter is asking, not claiming. -->
+- [ ] B) Nobody's, because the claim appears twice.
+  <!-- feedback: How often a claim is repeated says nothing about which voice it belongs to in the recording. -->
+- [x] C) The guest's, because only the guest argued for it.
+  <!-- feedback: Correct: the reporter frames the talk with questions while the guest carries the opinion. -->
+- [ ] D) The listener's, because the speaker sounds persuasive.
+  <!-- feedback: Tone shows the speaker's manner, not the listener's opinion, so this attribution has no basis. -->
 
 ### Explicacion Pedagogica
-The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
+In an interview the main idea usually belongs to the guest, while the host only frames it, so track the voices as you listen.
+
 ---
-## Question 19 [D9]
+
+## Question 19 [D10]
 **ID:** CR-ING-11-2026-W31-listening-comprehension-main-ideas-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A podcast recorded in Cartago opens with a short introduction by its host.
 
 ### Enunciado
-What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
+The host says: "Today we look at how three schools cut waste." What is the topic?
 
 ### Opciones
-- [x] C) vaccination
-  <!-- feedback: Correct! A 'vaccination' is the application of a vaccine that makes the body produce immunity against a disease. -->
-- [ ] A) medication
-  <!-- feedback: 'Medication' is a medicine you take to treat an illness, not the vaccine that prevents one. -->
-- [ ] B) prescription
-  <!-- feedback: 'Prescription' is the written order a doctor gives for a medicine, not the vaccine itself. -->
-- [ ] D) infection
-  <!-- feedback: 'Infection' is the state of having the disease; vaccination is what protects you before you get it. -->
+- [x] A) How schools reduce the waste they produce.
+  <!-- feedback: Correct: the opening names the topic, and the whole episode goes on to explain that one subject. -->
+- [ ] B) The schools failed to manage their rubbish.
+  <!-- feedback: Failure would need words like failed or could not, which the introduction never uses. -->
+- [ ] C) The podcast will interview three waste companies.
+  <!-- feedback: The number three modifies schools, not companies, so no interview with businesses is promised. -->
+- [ ] D) Waste rose in Cartago during the last school term.
+  <!-- feedback: A rise in waste is one point inside the episode, not something the introduction announces. -->
 
 ### Explicacion Pedagogica
-The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
+An opening line states the topic: today we look at plus a noun phrase gives the main idea before any detail begins.
+
 ---
+
 ## Question 20 [D10]
 **ID:** CR-ING-11-2026-W31-listening-comprehension-main-ideas-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A student in Escazu must summarise a three minute report for a classmate who missed it.
 
 ### Enunciado
-What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
+Which one sentence summary would serve a reader who missed the report?
 
 ### Opciones
-- [x] B) jet lag
-  <!-- feedback: Correct! 'Jet lag' is the tiredness and disturbed body clock you feel after a flight across several time zones. -->
-- [ ] A) fatigue
-  <!-- feedback: 'Fatigue' is tiredness after effort or a long day, not specifically caused by crossing time zones. -->
-- [ ] C) exhaustion
-  <!-- feedback: 'Exhaustion' is extreme tiredness from overwork or lack of sleep, which is not the same as the time zone effect. -->
-- [ ] D) insomnia
-  <!-- feedback: 'Insomnia' is the inability to sleep, whereas jet lag comes with tiredness during the day and a shifted body clock. -->
+- [ ] A) The speaker argued that farms should stop using plastic bags.
+  <!-- feedback: Naming only farms and plastic bags leaves out the wider problem and the response the report covers. -->
+- [ ] B) The talk closed with a joke about coffee prices in Tarrazu.
+  <!-- feedback: A closing joke is a feature of the delivery, not the substance a reader who missed it needs. -->
+- [ ] C) The report repeated three statistics about crop yields last year.
+  <!-- feedback: Repeated figures are the support the report rests on, so they cannot replace the point itself. -->
+- [x] D) The report explained why food waste rose and what cities can do about it.
+  <!-- feedback: Correct: it names both the problem and the response, so an absent reader still gets the whole story. -->
 
 ### Explicacion Pedagogica
-The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.
+A summary for an absent reader must cover the problem and the response in one sentence, so the logic of the item survives.
+
+---
