@@ -31,7 +31,6 @@ const DEAD_WRONG = 'Incorrecto.';
 const DEAD_CORRECT = 'Correcto.';
 const DEAD_TRY = 'Incorrect. Try again.';
 const VAGUE_REVISA = 'Incorrecto. Revisa el concepto.';
-const JUNK_PRAISE = 'Correct! Well done.';
 // Real feedback taken from the merged corpus. Each of these explains the reason
 // in its own words and MUST be accepted: an earlier version of the gate rejected
 // them because it expected a fixed vocabulary (olvido, confunde, porque...).
@@ -765,10 +764,9 @@ ctxCases.push({
 //
 // The cases use the exact shapes found in the corpus, not synthetic stand-ins:
 // a Cyrillic verb sitting in a Spanish option, and a CJK token inside an
-// otherwise Spanish Contexto. The accent helper keeps the Spanish text readable
-// in source, because escaped CJK in a test fixture is unreadable to the next
-// person who has to debug it.
-const RU = (s) => s; // marker: Cyrillic below is intentional corruption
+// otherwise Spanish Contexto. The literals below are the real corrupted
+// strings rather than synthetic stand-ins, written directly instead of escaped
+// so the next person to debug this can see what the defect actually looked like.
 const foreignScriptCases = [
   {
     name: 'Cyrillic verb inside a Spanish option is rejected',
