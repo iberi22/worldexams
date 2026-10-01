@@ -55,36 +55,36 @@
     },
     {
       "id": "CO-ING-11-2026-W10-review-p1-001-MASTERY-bundle-v2",
-      "statement": "In the context of review p1, which word best completes the following sentence: 'The government's failure to address the issue has only served to __________ the social divide'?",
+      "statement": "In the context of review p1, which word best completes the following sentence: 'The review committee noted that the sample had been selected after the results were known, which could __________ the validity of every conclusion drawn from it'?",
       "context": "Discussing review p1 in Bucaramanga.",
       "options": [
         {
           "letter": "B",
-          "text": "exacerbate",
+          "text": "undermine",
           "is_correct": true,
-          "feedback": "Correct. 'Exacerbate' means to make a problem or bad situation worse, which fits perfectly here."
+          "feedback": "'Undermine' means to weaken the strength of a claim or conclusion, which is exactly what a sample chosen with knowledge of the outcome does. The clause 'every conclusion drawn from it' tells the student the target is the reasoning, not the data itself."
         },
         {
           "letter": "A",
-          "text": "alleviate",
+          "text": "corroborate",
           "is_correct": false,
-          "feedback": "Incorrect. 'Alleviate' means to make something less severe, which is the opposite of what's needed."
+          "feedback": "'Corroborate' means to confirm a claim with supporting evidence, and selecting a sample after seeing results removes independence rather than providing it. The word names the opposite of what the procedure does."
         },
         {
           "letter": "C",
-          "text": "mitigate",
+          "text": "streamline",
           "is_correct": false,
-          "feedback": "Incorrect. 'Mitigate' means to make something less severe, which doesn't fit the negative consequence implied."
+          "feedback": "'Streamline' means to make a process more efficient by removing waste, and nothing in the sentence concerns efficiency. The issue is the soundness of a conclusion, not the neatness of a method."
         },
         {
           "letter": "D",
-          "text": "facilitate",
+          "text": "extrapolate",
           "is_correct": false,
-          "feedback": "Incorrect. 'Facilitate' means to make an action or process easy or easier, which is not appropriate for a social divide."
+          "feedback": "'Extrapolate' is a verb for projecting a trend beyond the data, and it cannot take 'validity' as its object in this sense. The blank needs something that acts on the strength of a conclusion."
         }
       ],
       "correct_answer": "B",
-      "explanation": "This question tests advanced vocabulary (verbs of change and impact) suitable for C1+ level.\n\n---",
+      "explanation": "C1+ academic vocabulary is often about the status of a claim rather than its content. Here the vocabulary must name what a biased sample does to reasoning, and the distractors each belong to a different field of description where that pairing does not hold.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -101,36 +101,36 @@
     },
     {
       "id": "CO-ING-11-2026-W10-review-p1-001-MASTERY-bundle-v3",
-      "statement": "In the context of review p1, which word best completes the following sentence: 'The government's failure to address the issue has only served to __________ the social divide'?",
+      "statement": "In the context of review p1, which word best completes the following sentence: 'The two examiners disagreed about whether the essay met the standard, a disagreement that would __________ have to be settled by a third reader'?",
       "context": "Discussing review p1 in Cali.",
       "options": [
         {
           "letter": "D",
-          "text": "exacerbate",
+          "text": "in effect",
           "is_correct": true,
-          "feedback": "Correct. 'Exacerbate' means to make a problem or bad situation worse, which fits perfectly here."
+          "feedback": "The phrase 'in effect' marks a consequence that follows in practice without anyone announcing it. The disagreement is described as unavoidable given that two examiners read the same essay differently, which is what makes a third reader necessary rather than optional."
         },
         {
           "letter": "A",
-          "text": "alleviate",
+          "text": "in theory",
           "is_correct": false,
-          "feedback": "Incorrect. 'Alleviate' means to make something less severe, which is the opposite of what's needed."
+          "feedback": "'In theory' would set the outcome apart from practice, and the sentence says the opposite: the third reader is genuinely required because the disagreement is real, not merely formal."
         },
         {
           "letter": "B",
-          "text": "mitigate",
+          "text": "on balance",
           "is_correct": false,
-          "feedback": "Incorrect. 'Mitigate' means to make something less severe, which doesn't fit the negative consequence implied."
+          "feedback": "'On balance' introduces a weighing of considerations, and the sentence describes a clash between two readings of one text with no weighing undertaken or completed."
         },
         {
           "letter": "C",
-          "text": "facilitate",
+          "text": "in retrospect",
           "is_correct": false,
-          "feedback": "Incorrect. 'Facilitate' means to make an action or process easy or easier, which is not appropriate for a social divide."
+          "feedback": "'In retrospect' means looking back, and nothing in the sentence indicates a later reconsideration. The third reader is needed at the moment the examiners disagree, not afterwards."
         }
       ],
       "correct_answer": "D",
-      "explanation": "This question tests advanced vocabulary (verbs of change and impact) suitable for C1+ level.\n\n---",
+      "explanation": "At C1+ fixed adverbial phrases are a graded part of the syllabus, and the item turns on choosing the one whose register matches the argument. Each distractor is a real phrase, but only 'in effect' describes an outcome that follows necessarily from the situation described.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -147,36 +147,36 @@
     },
     {
       "id": "CO-ING-11-2026-W10-review-p1-001-MASTERY-bundle-v4",
-      "statement": "In the context of review p1, which word best completes the following sentence: 'The government's failure to address the issue has only served to __________ the social divide'?",
+      "statement": "Which connector introduces a concession, as in '___ the route was longer, we arrived earlier'?",
       "context": "Discussing review p1 in Bucaramanga.",
       "options": [
         {
           "letter": "A",
-          "text": "exacerbate",
-          "is_correct": true,
-          "feedback": "Correct. 'Exacerbate' means to make a problem or bad situation worse, which fits perfectly here."
+          "text": "Because",
+          "is_correct": false,
+          "feedback": "'Because' introduces a cause, whereas the sentence contrasts a longer route with an earlier arrival."
         },
         {
           "letter": "B",
-          "text": "alleviate",
-          "is_correct": false,
-          "feedback": "Incorrect. 'Alleviate' means to make something less severe, which is the opposite of what's needed."
+          "text": "Although",
+          "is_correct": true,
+          "feedback": "'Although' introduces a fact that contrasts with the outcome described in the main clause."
         },
         {
           "letter": "C",
-          "text": "mitigate",
+          "text": "Unless",
           "is_correct": false,
-          "feedback": "Incorrect. 'Mitigate' means to make something less severe, which doesn't fit the negative consequence implied."
+          "feedback": "'Unless' introduces a negative condition rather than acknowledging a contrasting fact."
         },
         {
           "letter": "D",
-          "text": "facilitate",
+          "text": "So that",
           "is_correct": false,
-          "feedback": "Incorrect. 'Facilitate' means to make an action or process easy or easier, which is not appropriate for a social divide."
+          "feedback": "'So that' commonly introduces a purpose, not a concession about the route's length."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "This question tests advanced vocabulary (verbs of change and impact) suitable for C1+ level.\n\n---",
+      "correct_answer": "B",
+      "explanation": "'Although' marks a concession: the earlier arrival occurred despite the longer route.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -285,36 +285,36 @@
     },
     {
       "id": "CO-ING-11-2026-W10-review-p1-001-MASTERY-bundle-v7",
-      "statement": "According to a recent report on review p1 in Cartagena, what is implied about the role of General Advanced Review in shaping public opinion?",
+      "statement": "The application deadline was yesterday, and Laura did not apply. Complete the past hypothetical: 'If Laura had applied on time, she ___ eligible for consideration.'",
       "context": "Discussing review p1 in Cartagena.",
       "options": [
         {
-          "letter": "C",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "The report treats General Advanced Review as a precise instrument: it lets a writer qualify a claim instead of overstating it, which is why it is described as a tool for nuanced communication."
-        },
-        {
           "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
+          "text": "will be",
           "is_correct": false,
-          "feedback": "Calling it irrelevant contradicts the report, which argues for a shared standard of precision that any reader, not only specialists, relies on."
+          "feedback": "'Will be' refers to a future result, but this conditional imagines a different outcome in the past."
         },
         {
           "letter": "B",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "would have",
           "is_correct": false,
-          "feedback": "General Advanced Review add a layer of qualification rather than removing one, so it makes the argument harder, not simpler."
+          "feedback": "'Would have' must be followed by the past participle 'been' before the adjective 'eligible'."
+        },
+        {
+          "letter": "C",
+          "text": "would have been",
+          "is_correct": true,
+          "feedback": "A third conditional pairs 'if + past perfect' with 'would have + past participle' for an unreal past result."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in {city}.",
+          "text": "had been",
           "is_correct": false,
-          "feedback": "The report presents General Advanced Review as common in journalism, advertising and everyday debate, so it is not restricted to academics."
+          "feedback": "'Had been' expresses past perfect but does not form the conditional result required after this if-clause."
         }
       ],
       "correct_answer": "C",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "The third conditional describes an unreal past situation using 'had applied' and its hypothetical result, 'would have been'.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -377,36 +377,36 @@
     },
     {
       "id": "CO-ING-11-2026-W10-review-p1-001-MASTERY-bundle-v9",
-      "statement": "According to a recent report on review p1 in Cartagena, what is implied about the role of General Advanced Review in shaping public opinion?",
+      "statement": "On Monday, a teacher said, 'I will return the essays tomorrow.' A student reports this on Wednesday. Which version preserves the original timing?",
       "context": "Discussing review p1 in Cartagena.",
       "options": [
         {
-          "letter": "C",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "The report treats General Advanced Review as a precise instrument: it lets a writer qualify a claim instead of overstating it, which is why it is described as a tool for nuanced communication."
-        },
-        {
           "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
+          "text": "The teacher said that she would return the essays tomorrow.",
           "is_correct": false,
-          "feedback": "Calling it irrelevant contradicts the report, which argues for a shared standard of precision that any reader, not only specialists, relies on."
+          "feedback": "In this Wednesday report, 'tomorrow' normally refers to Thursday and therefore shifts the original Tuesday timing."
         },
         {
           "letter": "B",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "The teacher said that she had returned the essays the previous day.",
           "is_correct": false,
-          "feedback": "General Advanced Review add a layer of qualification rather than removing one, so it makes the argument harder, not simpler."
+          "feedback": "This turns a promise about Tuesday into a completed action before Monday, changing both tense and timing."
+        },
+        {
+          "letter": "C",
+          "text": "The teacher said that she would return the essays the following day.",
+          "is_correct": true,
+          "feedback": "'Would' reports the earlier future promise, and 'the following day' refers to Tuesday relative to Monday."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in {city}.",
+          "text": "The teacher said that she would return the essays the previous day.",
           "is_correct": false,
-          "feedback": "The report presents General Advanced Review as common in journalism, advertising and everyday debate, so it is not restricted to academics."
+          "feedback": "'The previous day' points to a day before the statement, while the original promise concerned the day after it."
         }
       ],
       "correct_answer": "C",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "When reporting the Monday promise later, 'will' becomes 'would' and 'tomorrow' becomes 'the following day' to preserve its temporal reference.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -515,36 +515,36 @@
     },
     {
       "id": "CO-ING-11-2026-W10-review-p1-001-MASTERY-bundle-v12",
-      "statement": "Complete the following sentence about review p1: 'Hardly __________ the new policy been implemented when the first results started to show.' (Topic: General Advanced Review)",
+      "statement": "Complete the following sentence about review p1: 'Not until the marking rubric was revised __________ the markers agree on what counted as a well-argued conclusion.' (Topic: 'not until' with an inverted past clause)",
       "context": "Discussing review p1 in Bogotá.",
       "options": [
         {
           "letter": "A",
-          "text": "had",
+          "text": "did",
           "is_correct": true,
-          "feedback": "Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events."
+          "feedback": "'Not until' is a fronted negative that inverts the main clause, and 'did' carries the simple past: 'not until the rubric was revised did the markers agree'. The main verb returns to its base form 'agree'."
         },
         {
           "letter": "B",
-          "text": "has",
+          "text": "had",
           "is_correct": false,
-          "feedback": "Incorrect. The sentence refers to a past sequence, requiring the past perfect in inversion."
+          "feedback": "'Had' would form a past perfect and need the participle 'agreed', placing the agreement before another past point. The sentence reports the moment consensus was reached."
         },
         {
           "letter": "C",
-          "text": "was",
+          "text": "might",
           "is_correct": false,
-          "feedback": "Incorrect. 'Was' does not fit the past perfect structure required by 'Hardly'."
+          "feedback": "'Might' would present the agreement as a possibility, but the sentence asserts that it happened. The trigger is the revision of the rubric, which is about timing rather than possibility."
         },
         {
           "letter": "D",
-          "text": "did",
+          "text": "must",
           "is_correct": false,
-          "feedback": "Incorrect. 'Did' would require the base form of the verb, not the past participle 'been'."
+          "feedback": "'Must' expresses obligation or deduction about the present, and the clause reports a completed past event. No obligation is stated and no deduction about now is available."
         }
       ],
       "correct_answer": "A",
-      "explanation": "This evaluates mastery of advanced inversion structures, a key component of C1+ proficiency.\n\n---",
+      "explanation": "This item separates the fronted negative, which justifies the inversion, from the main clause, which fixes the auxiliary. 'Did' comes from the agreement in the simple past, and the modal options are the ones that tempt students who read the topic label rather than the sentence.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -561,36 +561,36 @@
     },
     {
       "id": "CO-ING-11-2026-W10-review-p1-001-MASTERY-bundle-v13",
-      "statement": "Complete the following sentence about review p1: 'Hardly __________ the new policy been implemented when the first results started to show.' (Topic: General Advanced Review)",
+      "statement": "Complete the following sentence about review p1: 'Only after the external examiner's report arrived __________ the department decide to re-mark the cohort.' (Topic: 'only after' with an inverted past clause)",
       "context": "Discussing review p1 in Cartagena.",
       "options": [
         {
           "letter": "A",
-          "text": "had",
+          "text": "did",
           "is_correct": true,
-          "feedback": "Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events."
+          "feedback": "'Only after' fronted inverts the main clause, and 'did' carries the simple past: 'only after the report arrived did the department decide'. The main verb returns to its base form 'decide'."
         },
         {
           "letter": "B",
-          "text": "has",
+          "text": "had",
           "is_correct": false,
-          "feedback": "Incorrect. The sentence refers to a past sequence, requiring the past perfect in inversion."
+          "feedback": "'Had' would form a past perfect and need the participle 'decided', placing the decision before another past point. The sentence describes the decision as an event following the report."
         },
         {
           "letter": "C",
-          "text": "was",
+          "text": "would",
           "is_correct": false,
-          "feedback": "Incorrect. 'Was' does not fit the past perfect structure required by 'Hardly'."
+          "feedback": "'Would' belongs to a conditional or reported structure, and neither is present here. The clause states a completed past decision that took a finite past auxiliary."
         },
         {
           "letter": "D",
-          "text": "did",
+          "text": "should",
           "is_correct": false,
-          "feedback": "Incorrect. 'Did' would require the base form of the verb, not the past participle 'been'."
+          "feedback": "'Should' expresses obligation or expectation directed at the present or future, and the decision in the sentence is already made and past. Nothing in the clause looks forward."
         }
       ],
       "correct_answer": "A",
-      "explanation": "This evaluates mastery of advanced inversion structures, a key component of C1+ proficiency.\n\n---",
+      "explanation": "Reading the main clause for tense before applying the inversion is the habit this item builds. 'Did' is determined by the past simple 'decide', and 'should' is the option that appears when a student reads the decision as advice rather than as a record.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -607,36 +607,36 @@
     },
     {
       "id": "CO-ING-11-2026-W10-review-p1-001-MASTERY-bundle-v14",
-      "statement": "Complete the following sentence about review p1: 'Hardly __________ the new policy been implemented when the first results started to show.' (Topic: General Advanced Review)",
+      "statement": "Complete the following sentence about review p1: 'Seldom __________ a review panel reach a decision without at least one member dissenting from the report.' (Topic: inversion with 'seldom' and a singular subject)",
       "context": "Discussing review p1 in Barranquilla.",
       "options": [
         {
           "letter": "A",
-          "text": "had",
+          "text": "does",
           "is_correct": true,
-          "feedback": "Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events."
+          "feedback": "'Seldom' inverts the clause, and 'does' carries the present with the singular subject 'a review panel'. The main verb 'reach' stays in its base form, as it must after 'does'."
         },
         {
           "letter": "B",
-          "text": "has",
+          "text": "do",
           "is_correct": false,
-          "feedback": "Incorrect. The sentence refers to a past sequence, requiring the past perfect in inversion."
+          "feedback": "'Do' is the plural auxiliary, but the subject 'a review panel' is singular. The inversion has moved that subject to the right of the auxiliary without altering its number."
         },
         {
           "letter": "C",
-          "text": "was",
+          "text": "did",
           "is_correct": false,
-          "feedback": "Incorrect. 'Was' does not fit the past perfect structure required by 'Hardly'."
+          "feedback": "'Did' would put the observation in the past simple, but the sentence describes what review panels in general do. A recurring present pattern takes the simple present under inversion."
         },
         {
           "letter": "D",
-          "text": "did",
+          "text": "had",
           "is_correct": false,
-          "feedback": "Incorrect. 'Did' would require the base form of the verb, not the past participle 'been'."
+          "feedback": "'Had' would form a past perfect and require the participle 'reached', placing the decision before another past point. The clause makes a general claim about how panels work."
         }
       ],
       "correct_answer": "A",
-      "explanation": "This evaluates mastery of advanced inversion structures, a key component of C1+ proficiency.\n\n---",
+      "explanation": "The C1+ requirement is that the two decisions stay separate: 'seldom' tells the student to invert, and the singular subject tells the student which auxiliary to use. Each of the three distractors corresponds to failing one of those two steps.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -653,36 +653,36 @@
     },
     {
       "id": "CO-ING-11-2026-W10-review-p1-001-MASTERY-bundle-v15",
-      "statement": "Complete the following sentence about review p1: 'Hardly __________ the new policy been implemented when the first results started to show.' (Topic: General Advanced Review)",
+      "statement": "Read: 'The new study room was crowded every afternoon. Nevertheless, the school kept its opening hours unchanged.' What relationship does 'nevertheless' establish?",
       "context": "Discussing review p1 in Bogotá.",
       "options": [
         {
           "letter": "A",
-          "text": "had",
-          "is_correct": true,
-          "feedback": "Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events."
+          "text": "The crowded room directly caused the school to extend its hours.",
+          "is_correct": false,
+          "feedback": "The text says the hours remained unchanged, and 'nevertheless' marks contrast rather than that claimed result."
         },
         {
           "letter": "B",
-          "text": "has",
+          "text": "The unchanged hours happened before the room became crowded.",
           "is_correct": false,
-          "feedback": "Incorrect. The sentence refers to a past sequence, requiring the past perfect in inversion."
+          "feedback": "'Nevertheless' does not establish a before-and-after sequence; it connects contrasting propositions."
         },
         {
           "letter": "C",
-          "text": "was",
+          "text": "The second sentence gives a definition of the word 'crowded'.",
           "is_correct": false,
-          "feedback": "Incorrect. 'Was' does not fit the past perfect structure required by 'Hardly'."
+          "feedback": "The second sentence describes a school decision and does not explain the meaning of 'crowded'."
         },
         {
           "letter": "D",
-          "text": "did",
-          "is_correct": false,
-          "feedback": "Incorrect. 'Did' would require the base form of the verb, not the past participle 'been'."
+          "text": "The school maintained its hours despite a situation that might have prompted a change.",
+          "is_correct": true,
+          "feedback": "'Nevertheless' signals that the decision contrasts with the expectation created by the room's heavy use."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "This evaluates mastery of advanced inversion structures, a key component of C1+ proficiency.\n\n---",
+      "correct_answer": "D",
+      "explanation": "'Nevertheless' introduces an outcome that contrasts with what the preceding information might lead readers to expect.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -699,36 +699,36 @@
     },
     {
       "id": "CO-ING-11-2026-W10-review-p1-001-MASTERY-bundle-v16",
-      "statement": "Complete the following sentence about review p1: 'Hardly __________ the new policy been implemented when the first results started to show.' (Topic: General Advanced Review)",
+      "statement": "Complete the following sentence about review p1: 'Rarely __________ a moderation meeting conclude without at least one participant asking for the marking criteria to be read aloud.' (Topic: inversion with 'rarely' and a singular subject)",
       "context": "Discussing review p1 in Bucaramanga.",
       "options": [
         {
           "letter": "A",
-          "text": "had",
+          "text": "does",
           "is_correct": true,
-          "feedback": "Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events."
+          "feedback": "'Rarely' fronted inverts the clause, and 'does' carries the present with the singular subject 'a moderation meeting'. The main verb 'conclude' stays in its base form, as it must after 'does'."
         },
         {
           "letter": "B",
-          "text": "has",
+          "text": "do",
           "is_correct": false,
-          "feedback": "Incorrect. The sentence refers to a past sequence, requiring the past perfect in inversion."
+          "feedback": "'Do' is the plural auxiliary, but the subject 'a moderation meeting' is singular. The inversion has displaced that subject without changing its number, which is where the error usually creeps in."
         },
         {
           "letter": "C",
-          "text": "was",
+          "text": "did",
           "is_correct": false,
-          "feedback": "Incorrect. 'Was' does not fit the past perfect structure required by 'Hardly'."
+          "feedback": "'Did' would place the observation in the past simple, but the sentence describes what moderation meetings in general do. A recurring present pattern takes the simple present under inversion."
         },
         {
           "letter": "D",
-          "text": "did",
+          "text": "had",
           "is_correct": false,
-          "feedback": "Incorrect. 'Did' would require the base form of the verb, not the past participle 'been'."
+          "feedback": "'Had' would form a past perfect and require the participle 'concluded', placing the meeting before another past point. Nothing in the clause supplies that earlier reference time."
         }
       ],
       "correct_answer": "A",
-      "explanation": "This evaluates mastery of advanced inversion structures, a key component of C1+ proficiency.\n\n---",
+      "explanation": "This question is built so that each distractor corresponds to one specific misreading: plural subject, wrong tense, or a perfect imported from a different pattern. Naming those three errors is what makes the item diagnostic rather than merely testive.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -883,36 +883,36 @@
     },
     {
       "id": "CO-ING-11-2026-W10-review-p1-001-MASTERY-bundle-v20",
-      "statement": "In a high-level debate about review p1, Mariana says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Mariana mean?",
+      "statement": "In a high-level debate about review p1, Mariana says: 'Examiners mark the same script differently every time the rubric changes, and I say that as a rule of thumb rather than a demonstrated finding.' What is she doing?",
       "context": "Discussing review p1 in Cali.",
       "options": [
         {
           "letter": "B",
-          "text": "The current strategy is directed towards the wrong objective.",
+          "text": "She is reporting a recurring pattern while explicitly declining to present it as proven evidence.",
           "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
+          "feedback": "The final clause draws a firm line between a rule she has observed and a finding she can demonstrate. She states the pattern and marks its limits at the same time, which is exactly what the two phrases together do."
         },
         {
           "letter": "A",
-          "text": "They are literally looking for something in the trees of {city}.",
+          "text": "She is retracting a claim she had already proved.",
           "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "feedback": "A retraction would state that a proven claim proved false. Here she is qualifying a claim she never presented as established, so nothing is withdrawn."
         },
         {
           "letter": "C",
-          "text": "The approach is too noisy and aggressive.",
+          "text": "She is insisting that every rubric produces identical marks.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "The sentence describes the opposite, that marks differ whenever the rubric changes, and 'as a rule of thumb' explicitly prevents the generalisation from being absolute."
         },
         {
           "letter": "D",
-          "text": "A new environmental project involving trees should be started.",
+          "text": "She is asking the other speakers to publish their marking records.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "The final clause describes what she is doing with her own statement. There is no imperative, no question and no reference to anyone else's records in the quotation."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "'As a rule of thumb rather than a demonstrated finding' is a standard C1+ hedge marking the epistemic status of a claim. This item asks the student to read that status rather than the content, and each distractor answers a different question the sentence does not put.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],

@@ -9,36 +9,36 @@
   "questions": [
     {
       "id": "SV-SOC-11-2026-W29-geografia-sv-001-MASTERY-bundle-v1",
-      "statement": "¿Qué documento establece la organización del Estado?",
-      "context": "Clase de ciencias sociales en Mejicanos estudiando geografia sv.",
+      "statement": "¿Qué proceso geológico ha formado gran parte del suelo fértil del occidente de El Salvador?",
+      "context": "Clase de ciencias sociales en Mejicanos, al pie del volcán San Salvador.",
       "options": [
         {
           "letter": "A",
-          "text": "La Constitución",
+          "text": "La deposición de ceniza volcánica",
           "is_correct": true,
-          "feedback": "Correcto. La Constitución es la norma suprema que organiza los poderes del Estado y garantiza los derechos de la población."
+          "feedback": "Correcto. Las erupciones sucesivas de la cadena del occidente depositaron capas de ceniza que, con el tiempo, formaron un suelo profundo y rico en nutrientes, la base de la cafeticultura salvadoreña."
         },
         {
           "letter": "B",
-          "text": "Una ley ordinaria",
+          "text": "La erosión de los cafetales",
           "is_correct": false,
-          "feedback": "Una ley ordinaria está por debajo de la Constitución y no puede contradecirla, así que no es la norma que organiza al Estado."
+          "feedback": "La erosión es un desgaste del suelo, no un proceso que lo forme; al contrario, cuando no se controla acaba empobreciendo el terreno."
         },
         {
           "letter": "C",
-          "text": "Un decreto presidencial",
+          "text": "El glaciarismo andino",
           "is_correct": false,
-          "feedback": "Un decreto lo dicta el poder ejecutivo y regula temas concretos; no organiza la estructura del Estado."
+          "feedback": "Los grandes glaciares que darían forma a los Andes se extinguieron hace miles de años y no actúan en el territorio salvadoreño."
         },
         {
           "letter": "D",
-          "text": "Un tratado internacional",
+          "text": "La sedimentación marina profunda",
           "is_correct": false,
-          "feedback": "Un tratado regula relaciones entre países firmantes, no la organización interna de un Estado."
+          "feedback": "El país no tiene mar abierto en su territorio actual y la sedimentación marina se acumula en el fondo del océano, no en el interior del continente."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
+      "explanation": "Los volcanes del occidente depositaron ceniza durante milenios y con ella se construyó un suelo profundo, la base de la cafeticultura salvadoreña.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -54,36 +54,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W29-geografia-sv-001-MASTERY-bundle-v2",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
-      "context": "Clase de ciencias sociales en Santa Ana estudiando geografia sv.",
+      "statement": "¿Qué hecho explica que la población salvadoreña se concentre en el área metropolitana de San Salvador?",
+      "context": "Clase de ciencias sociales en Santa Ana, escala del mapa de densidad poblacional.",
       "options": [
         {
-          "letter": "D",
-          "text": "Urbanización masiva y nuevas clases sociales",
-          "is_correct": true,
-          "feedback": "Correcto. Las fábricas concentraron el trabajo en las ciudades, atrayendo a millones de personas del campo y creando la burguesía industrial y la clase obrera."
-        },
-        {
           "letter": "A",
-          "text": "Retorno a la vida agrícola",
+          "text": "El auge del café a finales del siglo diecinueve",
           "is_correct": false,
-          "feedback": "La Revolución Industrial se apoyó en la fábrica y el comercio, no en el campo; la agricultura perdió peso relativo en la economía."
+          "feedback": "El café atrajo capitales y vías férreas al país, pero la concentración actual se explica por el empleo y los servicios urbanos, no por ese auge."
         },
         {
           "letter": "B",
-          "text": "Disminución del comercio global",
-          "is_correct": false,
-          "feedback": "Al contrario: las vías férreas, los barcos y las fábricas ampliaron el comercio entre regiones y países."
+          "text": "La concentración del empleo y los servicios en la capital",
+          "is_correct": true,
+          "feedback": "Correcto. La capital reúne el empleo público, la industria, las universidades y los hospitales, y esa oferta de servicios atrae población de todo el país."
         },
         {
           "letter": "C",
-          "text": "Eliminación del trabajo manual",
+          "text": "El abandono de la agricultura por parte del Estado",
           "is_correct": false,
-          "feedback": "El trabajo manual no desapareció: las fábricas emplearon a muchos operarios, aunque con nuevas máquinas y horarios de fábrica."
+          "feedback": "El gobierno no ha abandonado la agricultura; el campo salvadoreño sigue siendo productor, y eso no explica por sí solo la concentración urbana."
+        },
+        {
+          "letter": "D",
+          "text": "La construcción de la red de carreteras Panamericanas",
+          "is_correct": false,
+          "feedback": "La red de carreteras conecta el país y facilita el comercio, pero una red vial bien repartida dispersa el tránsito, no lo concentra en una sola capital."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
+      "correct_answer": "B",
+      "explanation": "La capital concentra el empleo público, la industria, las universidades y los hospitales, y esa oferta de servicios atrae población de todo el país.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -144,36 +144,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W29-geografia-sv-001-MASTERY-bundle-v4",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
-      "context": "Clase de ciencias sociales en San Salvador estudiando geografia sv.",
+      "statement": "¿Qué información representa un mapa de isohipsas de El Salvador?",
+      "context": "Taller de cartografía en San Salvador: la clase debe leer el relieve del país en un mapa de isohipsas.",
       "options": [
         {
-          "letter": "D",
-          "text": "Superávit comercial",
-          "is_correct": true,
-          "feedback": "Correcto. El superávit es la diferencia positiva entre lo que un país exporta y lo que importa."
-        },
-        {
           "letter": "A",
-          "text": "Déficit comercial",
+          "text": "La temperatura media anual de cada zona",
           "is_correct": false,
-          "feedback": "El déficit aparece justo en el caso contrario: cuando las importaciones superan a las exportaciones."
+          "feedback": "La temperatura depende de la altitud, pero un mapa de isohipsas muestra directamente la altura del terreno, no los grados de cada zona."
         },
         {
           "letter": "B",
-          "text": "Balanza equilibrada",
+          "text": "La densidad de población por departamento",
           "is_correct": false,
-          "feedback": "La balanza está equilibrada cuando las exportaciones igualan exactamente a las importaciones, no cuando las superan."
+          "feedback": "Esa información se representa en un mapa de densidad o de coropletas, no en las curvas de igual altura."
         },
         {
           "letter": "C",
-          "text": "Crisis económica",
+          "text": "El porcentaje de superficie boscosa",
           "is_correct": false,
-          "feedback": "Una crisis económica puede deberse a muchas causas; el término técnico para exports mayores que importaciones es el superávit."
+          "feedback": "La cobertura forestal se mide en mapas de uso del suelo; las isohipas describen únicamente el relieve y sus desniveles."
+        },
+        {
+          "letter": "D",
+          "text": "La altitud del terreno sobre el nivel del mar",
+          "is_correct": true,
+          "feedback": "Correcto. Las isohipas son curvas que unen puntos de igual altura y permiten leer el valle central, los volcanes del occidente y las cadenas del norte."
         }
       ],
       "correct_answer": "D",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
+      "explanation": "Las isohipas son curvas que unen puntos de igual altura y permiten leer el valle central, los volcanes del occidente y las cadenas del norte.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -234,36 +234,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W29-geografia-sv-001-MASTERY-bundle-v6",
-      "statement": "¿Qué documento establece la organización del Estado?",
-      "context": "Clase de ciencias sociales en Mejicanos estudiando geografia sv.",
+      "statement": "¿Qué característica explica que el suelo de la parcela con pasto retenga más agua que el de la parcela con café?",
+      "context": "Taller de suelo en San Miguel: la clase compara dos parcelas de cultivo.",
       "options": [
         {
-          "letter": "B",
-          "text": "La Constitución",
+          "letter": "A",
+          "text": "La cantidad de materia orgánica que aporta el pasto",
           "is_correct": true,
-          "feedback": "Correcto. La Constitución es la norma suprema que organiza los poderes del Estado y garantiza los derechos de la población."
+          "feedback": "Correcto. El pasto deja raíces y residuos que se descomponen y forman un suelo esponjoso, capaz de retener mucha más humedad que un suelo desnudo."
         },
         {
-          "letter": "A",
-          "text": "Una ley ordinaria",
+          "letter": "B",
+          "text": "La profundidad del surco de la parcela de café",
           "is_correct": false,
-          "feedback": "Una ley ordinaria está por debajo de la Constitución y no puede contradecirla, así que no es la norma que organiza al Estado."
+          "feedback": "Un surco más profundo mejora la infiltración del agua, pero la diferencia de humedad entre las parcelas se debe a la cobertura vegetal y a la materia orgánica."
         },
         {
           "letter": "C",
-          "text": "Un decreto presidencial",
+          "text": "El color más oscuro del terreno cafetalero",
           "is_correct": false,
-          "feedback": "Un decreto lo dicta el poder ejecutivo y regula temas concretos; no organiza la estructura del Estado."
+          "feedback": "El color oscuro delata suelo con bastante materia orgánica, así que esa parcela retiene más agua y no menos, y el enunciado se refiere a la parcela con pasto."
         },
         {
           "letter": "D",
-          "text": "Un tratado internacional",
+          "text": "La pendiente más suave de la parcela con pasto",
           "is_correct": false,
-          "feedback": "Un tratado regula relaciones entre países firmantes, no la organización interna de un Estado."
+          "feedback": "Una pendiente suave favorece la infiltración, es cierto, pero la ladera es la misma en las dos parcelas porque están una junto a la otra."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
+      "correct_answer": "A",
+      "explanation": "La materia orgánica se descompone y forma un suelo esponjoso que retiene humedad; las raíces del pasto la reponen y el café la consume con la cosecha.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -279,36 +279,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W29-geografia-sv-001-MASTERY-bundle-v7",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
-      "context": "Clase de ciencias sociales en Santa Ana estudiando geografia sv.",
+      "statement": "¿Qué sector económico se activa principalmente por el puerto de Acajutla?",
+      "context": "Excursión al puerto de Acajutla, en Sonsonate: la clase ve llegar barcos de carga.",
       "options": [
         {
-          "letter": "C",
-          "text": "Urbanización masiva y nuevas clases sociales",
-          "is_correct": true,
-          "feedback": "Correcto. Las fábricas concentraron el trabajo en las ciudades, atrayendo a millones de personas del campo y creando la burguesía industrial y la clase obrera."
-        },
-        {
           "letter": "A",
-          "text": "Retorno a la vida agrícola",
+          "text": "La pesca artesanal de la zona",
           "is_correct": false,
-          "feedback": "La Revolución Industrial se apoyó en la fábrica y el comercio, no en el campo; la agricultura perdió peso relativo en la economía."
+          "feedback": "La pesca artesanal vive del mar, pero no es lo que el puerto activa: en Acajutla atracan barcos de carga, no lanchas de pesca."
         },
         {
           "letter": "B",
-          "text": "Disminución del comercio global",
+          "text": "El comercio exterior por vía marítima",
+          "is_correct": true,
+          "feedback": "Correcto. El puerto permite exportar café, azúcar y textiles e importar manufactura, y ese intercambio de mercancías moviliza la economía costera."
+        },
+        {
+          "letter": "C",
+          "text": "La minería artesanal de la franja costera",
           "is_correct": false,
-          "feedback": "Al contrario: las vías férreas, los barcos y las fábricas ampliaron el comercio entre regiones y países."
+          "feedback": "La minería depende de yacimientos y permisos, no de un muelle de carga; el puerto de Acajutla mueve mercancías, no minerales."
         },
         {
           "letter": "D",
-          "text": "Eliminación del trabajo manual",
+          "text": "El pastoreo de las tierras de la zona",
           "is_correct": false,
-          "feedback": "El trabajo manual no desapareció: las fábricas emplearon a muchos operarios, aunque con nuevas máquinas y horarios de fábrica."
+          "feedback": "El pastoreo es una actividad rural de ladera, no necesita puerto ni agua de mar, y el puerto no lo modifica."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
+      "correct_answer": "B",
+      "explanation": "El puerto permite exportar café, azúcar y textiles e importar manufactura, y ese intercambio de mercancías moviliza la economía de la franja costera.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -324,36 +324,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W29-geografia-sv-001-MASTERY-bundle-v8",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
-      "context": "Clase de ciencias sociales en San Salvador estudiando geografia sv.",
+      "statement": "¿Por qué la costa salvadoreña es más cálida que el valle central estando en la misma latitud?",
+      "context": "Clase de ciencias sociales en San Salvador: la clase compara la temperatura del valle central con la de la costa.",
       "options": [
         {
-          "letter": "D",
-          "text": "Derechos humanos fundamentales",
-          "is_correct": true,
-          "feedback": "Correcto. Una constitución democrática reconoce la dignidad de todas las personas y garantiza sus derechos civiles, políticos, sociales y culturales."
-        },
-        {
           "letter": "A",
-          "text": "Solo derechos de propiedad",
+          "text": "Porque la costa está más cerca del ecuador",
           "is_correct": false,
-          "feedback": "La Constitución protege también el derecho a la vida, la igualdad, la libertad y la educación, no únicamente el derecho de propiedad."
+          "feedback": "Los dos puntos están a la misma latitud, unos 13 grados norte, así que la distancia al ecuador no explica la diferencia."
         },
         {
           "letter": "B",
-          "text": "Únicamente derechos políticos",
+          "text": "Porque el mar no recibe luz solar",
           "is_correct": false,
-          "feedback": "El catálogo constitucional es mucho más amplio: incluye también derechos civiles, sociales, culturales y económicos."
+          "feedback": "El mar sí recibe luz solar; lo que hace el océano es almacenar calor y soltarlo despacio, por eso refresca en vez de calentar."
         },
         {
           "letter": "C",
-          "text": "Derechos exclusivos del gobierno",
+          "text": "Porque el valle central está debajo del nivel del mar",
           "is_correct": false,
-          "feedback": "Los derechos son de las personas frente al Estado, no privilegios reservados al gobierno."
+          "feedback": "El valle central está por encima del nivel del mar, unos 400 metros, y la costa es la franja más baja del país."
+        },
+        {
+          "letter": "D",
+          "text": "Porque las corrientes marinas templan el aire de la franja costera",
+          "is_correct": true,
+          "feedback": "Correcto. El agua del mar absorbe y conserva el calor más despacio que la tierra, así que en la costa la temperatura sube menos y baja menos que en el valle."
         }
       ],
       "correct_answer": "D",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
+      "explanation": "El mar absorbe y devuelve el calor más despacio que la tierra, así que la zona costera registra temperaturas más suaves que el valle central.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -369,36 +369,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W29-geografia-sv-001-MASTERY-bundle-v9",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
-      "context": "Clase de ciencias sociales en San Miguel estudiando geografia sv.",
+      "statement": "¿En qué período del año el departamento de Usulután recibe menos lluvias?",
+      "context": "Clase de ciencias sociales en San Miguel: la clase revisa un climograma del departamento de Usulután.",
       "options": [
         {
-          "letter": "C",
-          "text": "Superávit comercial",
-          "is_correct": true,
-          "feedback": "Correcto. El superávit es la diferencia positiva entre lo que un país exporta y lo que importa."
-        },
-        {
           "letter": "A",
-          "text": "Déficit comercial",
+          "text": "Entre mayo y septiembre",
           "is_correct": false,
-          "feedback": "El déficit aparece justo en el caso contrario: cuando las importaciones superan a las exportaciones."
+          "feedback": "De mayo a septiembre sopla el viento seco y el mar pierde influencia, y las lluvias bajan justamente en esa época del año."
         },
         {
           "letter": "B",
-          "text": "Balanza equilibrada",
+          "text": "Entre noviembre y febrero",
+          "is_correct": true,
+          "feedback": "Correcto. La estación seca del país se extiende de noviembre a febrero, con meses muy secos antes de que regresen las lluvias de verano."
+        },
+        {
+          "letter": "C",
+          "text": "Entre julio y agosto",
           "is_correct": false,
-          "feedback": "La balanza está equilibrada cuando las exportaciones igualan exactamente a las importaciones, no cuando las superan."
+          "feedback": "Julio y agosto están dentro de la temporada de lluvias, con aguaceros frecuentes en toda la región oriental."
         },
         {
           "letter": "D",
-          "text": "Crisis económica",
+          "text": "Entre marzo y abril",
           "is_correct": false,
-          "feedback": "Una crisis económica puede deberse a muchas causas; el término técnico para exports mayores que importaciones es el superávit."
+          "feedback": "Marzo y abril son meses de transición hacia el verano, y en Usulután las lluvias ya empiezan a aumentar en ese momento."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
+      "correct_answer": "B",
+      "explanation": "La estación seca se extiende de noviembre a febrero, con meses muy secos antes de que regresen las lluvias de verano.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -414,36 +414,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W29-geografia-sv-001-MASTERY-bundle-v10",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
-      "context": "Clase de ciencias sociales en San Miguel estudiando geografia sv.",
+      "statement": "¿Qué consecuencia tiene para la agricultura salvadoreña la estación seca de noviembre a febrero?",
+      "context": "Clase de ciencias sociales en San Miguel: la clase discute el efecto de la estación seca sobre los cultivos de chile y maíz.",
       "options": [
         {
-          "letter": "B",
-          "text": "El asesinato del Archiduque Francisco Fernando",
-          "is_correct": true,
-          "feedback": "Correcto. El atentando de Sarajevo en junio de 1914 encendió la cadena de alianzas entre potencias y provocó el estallido de la Primera Guerra Mundial."
+          "letter": "A",
+          "text": "Obliga a sembrar en tierra que no tiene agua disponible",
+          "is_correct": false,
+          "feedback": "En la estación seca la tierra queda sin agua, y por eso los agricultores riegan o esperan a las lluvias de verano en lugar de sembrar de inmediato."
         },
         {
-          "letter": "A",
-          "text": "El Tratado de Versalles",
+          "letter": "B",
+          "text": "Permite almacenar el café sin perder humedad",
           "is_correct": false,
-          "feedback": "El Tratado de Versalles se firmó en 1919, al terminar la guerra, para imponer condiciones a Alemania: es una consecuencia, no una causa."
+          "feedback": "El café se seca al sol o en patios, y la humedad no es lo que decide la cosecha; la estación seca más bien obliga a preparar el terreno."
         },
         {
           "letter": "C",
-          "text": "La Revolución Rusa",
-          "is_correct": false,
-          "feedback": "La Revolución Rusa ocurrió en 1917, en pleno conflicto, y es una de las consecuencias de la guerra, no su origen."
+          "text": "Obliga a esperar las lluvias de verano o a regar",
+          "is_correct": true,
+          "feedback": "Correcto. Sin lluvia entre noviembre y febrero, el cultivo depende del riego o del agua que guardan los suelos y los lagunajes."
         },
         {
           "letter": "D",
-          "text": "La invención del avión",
+          "text": "Incrementa la producción de maíz de todo el país",
           "is_correct": false,
-          "feedback": "El primer vuelo Tripulier data de 1903 y es un avance técnico sin relación con el estallido del conflicto en 1914."
+          "feedback": "El maíz necesita lluvia en varias etapas de su ciclo, así que la estación seca frena el desarrollo del cultivo y no lo multiplica."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
+      "correct_answer": "C",
+      "explanation": "Sin lluvia entre noviembre y febrero, los cultivos dependen del riego o del agua que guardan los suelos y los lagunajes.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -459,36 +459,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W29-geografia-sv-001-MASTERY-bundle-v11",
-      "statement": "¿Qué documento establece la organización del Estado?",
-      "context": "Clase de ciencias sociales en San Salvador estudiando geografia sv.",
+      "statement": "¿Qué explica que los ríos de El Salvador sean en su mayoría cortos y de caudal estacional?",
+      "context": "Clase de ciencias sociales en San Salvador: la clase revisa el mapa de cuencas del país.",
       "options": [
         {
-          "letter": "D",
-          "text": "La Constitución",
-          "is_correct": true,
-          "feedback": "Correcto. La Constitución es la norma suprema que organiza los poderes del Estado y garantiza los derechos de la población."
-        },
-        {
           "letter": "A",
-          "text": "Una ley ordinaria",
+          "text": "Que el país está atravesado por la cordillera volcánica",
           "is_correct": false,
-          "feedback": "Una ley ordinaria está por debajo de la Constitución y no puede contradecirla, así que no es la norma que organiza al Estado."
+          "feedback": "El relieve divide el país en cuencas pequeñas, y el agua llega rápido al mar por eso los ríos son cortos; eso explica la longitud, no la variación del caudal."
         },
         {
           "letter": "B",
-          "text": "Un decreto presidencial",
+          "text": "Que llueve poco durante todo el año",
           "is_correct": false,
-          "feedback": "Un decreto lo dicta el poder ejecutivo y regula temas concretos; no organiza la estructura del Estado."
+          "feedback": "Entre mayo y octubre llueve con abundancia, y esa agua baja por pendientes fuertes; el problema no es la falta total de lluvia."
         },
         {
           "letter": "C",
-          "text": "Un tratado internacional",
+          "text": "Que la lluvia se concentra en pocos meses",
+          "is_correct": true,
+          "feedback": "Correcto. Casi toda la lluvia cae entre mayo y octubre y el resto del año el caudal baja mucho, por eso los ríos son estacionales."
+        },
+        {
+          "letter": "D",
+          "text": "Que el mar está muy cerca de las ciudades",
           "is_correct": false,
-          "feedback": "Un tratado regula relaciones entre países firmantes, no la organización interna de un Estado."
+          "feedback": "Que el mar esté cerca explica que los ríos sean cortos, pero lo que hace variar su caudal es la concentración de la lluvia en pocos meses."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
+      "correct_answer": "C",
+      "explanation": "La lluvia se concentra entre mayo y octubre y el resto del año el caudal baja mucho, por eso los ríos salvadoreños son estacionales.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -504,36 +504,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W29-geografia-sv-001-MASTERY-bundle-v12",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
-      "context": "Clase de ciencias sociales en San Miguel estudiando geografia sv.",
+      "statement": "¿Qué explica que El Salvador dependa en buena medida de la importación de combustibles?",
+      "context": "Clase de ciencias sociales en San Miguel: la clase estudia las fuentes de energía del país.",
       "options": [
         {
-          "letter": "D",
-          "text": "Urbanización masiva y nuevas clases sociales",
-          "is_correct": true,
-          "feedback": "Correcto. Las fábricas concentraron el trabajo en las ciudades, atrayendo a millones de personas del campo y creando la burguesía industrial y la clase obrera."
-        },
-        {
           "letter": "A",
-          "text": "Retorno a la vida agrícola",
+          "text": "Que el país no tiene centrales hidroeléctricas",
           "is_correct": false,
-          "feedback": "La Revolución Industrial se apoyó en la fábrica y el comercio, no en el campo; la agricultura perdió peso relativo en la economía."
+          "feedback": "El país sí cuenta con embalses que producen hidroelectricidad, así que esa ausencia no explica la dependencia de combustibles importados."
         },
         {
           "letter": "B",
-          "text": "Disminución del comercio global",
+          "text": "Que la energía solar no llega al territorio",
           "is_correct": false,
-          "feedback": "Al contrario: las vías férreas, los barcos y las fábricas ampliaron el comercio entre regiones y países."
+          "feedback": "El Salvador tiene días de sol casi todo el año y ya hay plantas solares en funcionamiento, de modo que esa limitación no es la causa."
         },
         {
           "letter": "C",
-          "text": "Eliminación del trabajo manual",
+          "text": "Que el país tiene pocos yacimientos de carbón y petróleo",
+          "is_correct": true,
+          "feedback": "Correcto. Sin reservas propias de carbón o petróleo, el país necesita comprar esos combustibles en el mercado internacional."
+        },
+        {
+          "letter": "D",
+          "text": "Que la población consume demasiada electricidad",
           "is_correct": false,
-          "feedback": "El trabajo manual no desapareció: las fábricas emplearon a muchos operarios, aunque con nuevas máquinas y horarios de fábrica."
+          "feedback": "El consumo alto presiona la importación, pero el factor estructural es la falta de reservas locales de combustible."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
+      "correct_answer": "C",
+      "explanation": "Sin reservas propias de carbón o petróleo, el país necesita comprar esos combustibles en el mercado internacional.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -549,36 +549,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W29-geografia-sv-001-MASTERY-bundle-v13",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
-      "context": "Clase de ciencias sociales en Mejicanos estudiando geografia sv.",
+      "statement": "¿Qué distingue a la migración urbana de la migración rural?",
+      "context": "Clase de ciencias sociales en Mejicanos: la clase compara la migración urbana con la rural.",
       "options": [
         {
-          "letter": "B",
-          "text": "Derechos humanos fundamentales",
-          "is_correct": true,
-          "feedback": "Correcto. Una constitución democrática reconoce la dignidad de todas las personas y garantiza sus derechos civiles, políticos, sociales y culturales."
+          "letter": "A",
+          "text": "Que la urbana se produce por conflictos armados",
+          "is_correct": false,
+          "feedback": "La razón más frecuente de la migración urbana es la búsqueda de empleo, servicios y estudio, no el conflicto armado."
         },
         {
-          "letter": "A",
-          "text": "Solo derechos de propiedad",
-          "is_correct": false,
-          "feedback": "La Constitución protege también el derecho a la vida, la igualdad, la libertad y la educación, no únicamente el derecho de propiedad."
+          "letter": "B",
+          "text": "Que la urbana se dirige a las ciudades en busca de servicios",
+          "is_correct": true,
+          "feedback": "Correcto. Las personas se mueven al área metropolitana por las escuelas, los hospitales y el trabajo que ofrecen las ciudades."
         },
         {
           "letter": "C",
-          "text": "Únicamente derechos políticos",
+          "text": "Que la rural ocurre solo entre países distintos",
           "is_correct": false,
-          "feedback": "El catálogo constitucional es mucho más amplio: incluye también derechos civiles, sociales, culturales y económicos."
+          "feedback": "La migración rural también ocurre dentro de El Salvador, de las zonas del campo a las pequeñas ciudades, y no es solo internacional."
         },
         {
           "letter": "D",
-          "text": "Derechos exclusivos del gobierno",
+          "text": "Que la urbana solo ocurre con personas mayores",
           "is_correct": false,
-          "feedback": "Los derechos son de las personas frente al Estado, no privilegios reservados al gobierno."
+          "feedback": "Quien más se mueve a la ciudad son los jóvenes, que estudian o buscan su primer empleo, no los adultos mayores."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
+      "explanation": "Las personas se mueven al área metropolitana por las escuelas, los hospitales y el trabajo que ofrecen las ciudades.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -594,36 +594,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W29-geografia-sv-001-MASTERY-bundle-v14",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
-      "context": "Clase de ciencias sociales en San Salvador estudiando geografia sv.",
+      "statement": "¿Qué riesgo atraviesa un país que exporta sobre todo un solo producto?",
+      "context": "Taller de comercio en San Salvador: la clase analiza la dependencia de las exportaciones.",
       "options": [
         {
-          "letter": "C",
-          "text": "Superávit comercial",
-          "is_correct": true,
-          "feedback": "Correcto. El superávit es la diferencia positiva entre lo que un país exporta y lo que importa."
-        },
-        {
           "letter": "A",
-          "text": "Déficit comercial",
+          "text": "Que se agoten sus ciudades",
           "is_correct": false,
-          "feedback": "El déficit aparece justo en el caso contrario: cuando las importaciones superan a las exportaciones."
+          "feedback": "La concentración de exportaciones no es lo que hace crecer o encoger las ciudades, sino la inversión y el empleo que genera."
         },
         {
           "letter": "B",
-          "text": "Balanza equilibrada",
+          "text": "Que el producto se exporte sin competencia",
           "is_correct": false,
-          "feedback": "La balanza está equilibrada cuando las exportaciones igualan exactamente a las importaciones, no cuando las superan."
+          "feedback": "Ser el único productor es una ventaja hoy, pero si aparece otra región competidora el precio cae y el país pierde ingresos."
+        },
+        {
+          "letter": "C",
+          "text": "Que una mala cosecha baje el precio y los ingresos del país",
+          "is_correct": true,
+          "feedback": "Correcto. Al depender de un solo producto, una mala cosecha o una caída del precio internacional hunde los ingresos de los productores y las finanzas del Estado."
         },
         {
           "letter": "D",
-          "text": "Crisis económica",
+          "text": "Que el país deje de importar alimentos",
           "is_correct": false,
-          "feedback": "Una crisis económica puede deberse a muchas causas; el término técnico para exports mayores que importaciones es el superávit."
+          "feedback": "Exportar un solo producto no significa que el país deje de importar, porque la producción agrícola sigue siendo insuficiente en varios productos."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
+      "explanation": "Al depender de un solo producto, una mala cosecha o una caída del precio internacional hunde a la vez los ingresos del país y las finanzas del Estado.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -639,36 +639,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W29-geografia-sv-001-MASTERY-bundle-v15",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
-      "context": "Clase de ciencias sociales en San Miguel estudiando geografia sv.",
+      "statement": "¿Qué dos bloques se enfrentaron durante la Guerra Fría?",
+      "context": "Clase de ciencias sociales en San Miguel: la clase revisa mapas de la Guerra Fría.",
       "options": [
         {
-          "letter": "C",
-          "text": "El asesinato del Archiduque Francisco Fernando",
-          "is_correct": true,
-          "feedback": "Correcto. El atentando de Sarajevo en junio de 1914 encendió la cadena de alianzas entre potencias y provocó el estallido de la Primera Guerra Mundial."
-        },
-        {
           "letter": "A",
-          "text": "El Tratado de Versalles",
+          "text": "El bloque occidental y el bloque soviético",
           "is_correct": false,
-          "feedback": "El Tratado de Versalles se firmó en 1919, al terminar la guerra, para imponer condiciones a Alemania: es una consecuencia, no una causa."
+          "feedback": "Esos son los dos bandos, pero el enunciado pide quiénes los lideraban: el bloque occidental lo guiaba Estados Unidos."
         },
         {
           "letter": "B",
-          "text": "La Revolución Rusa",
+          "text": "Francia y Prusia",
           "is_correct": false,
-          "feedback": "La Revolución Rusa ocurrió en 1917, en pleno conflicto, y es una de las consecuencias de la guerra, no su origen."
+          "feedback": "Ese enfrentamiento es de mediados del siglo diecinueve, casi un siglo antes de la Guerra Fría, que empezó en 1947."
+        },
+        {
+          "letter": "C",
+          "text": "Estados Unidos y la Unión Soviética",
+          "is_correct": true,
+          "feedback": "Correcto. Cada bando representaba un proyecto político y económico distinto, y la competencia entre ellos duró hasta 1991."
         },
         {
           "letter": "D",
-          "text": "La invención del avión",
+          "text": "Japón y China",
           "is_correct": false,
-          "feedback": "El primer vuelo Tripulier data de 1903 y es un avance técnico sin relación con el estallido del conflicto en 1914."
+          "feedback": "Japón y China no fueron los dos bandos principales de la Guerra Fría, que se definió entre Estados Unidos y la Unión Soviética."
         }
       ],
       "correct_answer": "C",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
+      "explanation": "Cada bando representaba un proyecto político y económico distinto, y la competencia entre ellos duró hasta 1991.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -774,36 +774,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W29-geografia-sv-001-MASTERY-bundle-v18",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
-      "context": "Clase de ciencias sociales en San Salvador estudiando geografia sv.",
+      "statement": "¿Por qué llueve más en la ciudad que en el campo durante el verano?",
+      "context": "Clase de ciencias sociales en San Salvador: la clase compara el clima de la ciudad con el del campo.",
       "options": [
         {
-          "letter": "D",
-          "text": "Derechos humanos fundamentales",
-          "is_correct": true,
-          "feedback": "Correcto. Una constitución democrática reconoce la dignidad de todas las personas y garantiza sus derechos civiles, políticos, sociales y culturales."
-        },
-        {
           "letter": "A",
-          "text": "Solo derechos de propiedad",
+          "text": "Porque la ciudad está más cerca del mar",
           "is_correct": false,
-          "feedback": "La Constitución protege también el derecho a la vida, la igualdad, la libertad y la educación, no únicamente el derecho de propiedad."
+          "feedback": "La distancia al mar sí ayuda a la humedad, pero la diferencia entre ciudad y campo se debe a las cubiertas y al calor."
         },
         {
           "letter": "B",
-          "text": "Únicamente derechos políticos",
+          "text": "Porque la ciudad está a menor altitud",
           "is_correct": false,
-          "feedback": "El catálogo constitucional es mucho más amplio: incluye también derechos civiles, sociales, culturales y económicos."
+          "feedback": "La ciudad y el campo están en la misma zona del valle, a parecida altitud, así que la altura no explica la diferencia."
         },
         {
           "letter": "C",
-          "text": "Derechos exclusivos del gobierno",
+          "text": "Por el efecto de las cubiertas y el calor de la ciudad",
+          "is_correct": true,
+          "feedback": "Correcto. El asfalto y los edificios retienen calor y atrapan humedad, y esa combinación genera más lluvia en la zona urbana."
+        },
+        {
+          "letter": "D",
+          "text": "Porque en el campo nunca llueve",
           "is_correct": false,
-          "feedback": "Los derechos son de las personas frente al Estado, no privilegios reservados al gobierno."
+          "feedback": "En el campo también llueve, y con frecuencia; lo que cambia es cuánto y con qué intensidad, no si llueve o no."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
+      "correct_answer": "C",
+      "explanation": "El asfalto y los edificios retienen calor y atrapan humedad, y esa combinación genera más lluvia en la zona urbana que en el campo.",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -819,36 +819,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W29-geografia-sv-001-MASTERY-bundle-v19",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
-      "context": "Clase de ciencias sociales en Soyapango estudiando geografia sv.",
+      "statement": "¿Qué mide el superávit comercial de un país?",
+      "context": "Taller de comercio en Soyapango: la clase revisa el balance comercial del país.",
       "options": [
         {
-          "letter": "D",
-          "text": "Superávit comercial",
-          "is_correct": true,
-          "feedback": "Correcto. El superávit es la diferencia positiva entre lo que un país exporta y lo que importa."
-        },
-        {
           "letter": "A",
-          "text": "Déficit comercial",
+          "text": "La cantidad de dinero que imprime el banco central",
           "is_correct": false,
-          "feedback": "El déficit aparece justo en el caso contrario: cuando las importaciones superan a las exportaciones."
+          "feedback": "La emisión de billetes no es la cuenta que se compara: el superávit se mide con el comercio de mercancías, no con la moneda."
         },
         {
           "letter": "B",
-          "text": "Balanza equilibrada",
+          "text": "El número de incite el país tiene",
           "is_correct": false,
-          "feedback": "La balanza está equilibrada cuando las exportaciones igualan exactamente a las importaciones, no cuando las superan."
+          "feedback": "Los habitantes son un dato de población, no de comercio exterior; el superávit se calcula con exportaciones e importaciones."
         },
         {
           "letter": "C",
-          "text": "Crisis económica",
+          "text": "La diferencia entre las exportaciones y las importaciones",
+          "is_correct": true,
+          "feedback": "Correcto. Cuando las exportaciones superan a las importaciones, la diferencia positiva es el superávit; si son al revés, es déficit."
+        },
+        {
+          "letter": "D",
+          "text": "El precio de la tierra en las ciudades",
           "is_correct": false,
-          "feedback": "Una crisis económica puede deberse a muchas causas; el término técnico para exports mayores que importaciones es el superávit."
+          "feedback": "El valor del suelo urbano no interviene en el balance comercial, que solo registra el intercambio de bienes con el exterior."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
+      "correct_answer": "C",
+      "explanation": "El superávit es la diferencia entre las exportaciones y las importaciones; si las importaciones superan a las exportaciones, es déficit.",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -864,36 +864,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W29-geografia-sv-001-MASTERY-bundle-v20",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
-      "context": "Clase de ciencias sociales en Mejicanos estudiando geografia sv.",
+      "statement": "¿Qué explica que el poblamiento de El Salvador se agrupe en el valle central?",
+      "context": "Clase de ciencias sociales en Mejicanos: la clase estudia cómo se organiza el territorio salvadoreño.",
       "options": [
         {
-          "letter": "C",
-          "text": "El asesinato del Archiduque Francisco Fernando",
-          "is_correct": true,
-          "feedback": "Correcto. El atentando de Sarajevo en junio de 1914 encendió la cadena de alianzas entre potencias y provocó el estallido de la Primera Guerra Mundial."
-        },
-        {
           "letter": "A",
-          "text": "El Tratado de Versalles",
+          "text": "Que el valle tiene mucha agua y suelo fértil",
           "is_correct": false,
-          "feedback": "El Tratado de Versalles se firmó en 1919, al terminar la guerra, para imponer condiciones a Alemania: es una consecuencia, no una causa."
+          "feedback": "El agua y el suelo fértil favorecen la agricultura, pero la explicación principal de la concentración es la producción cafetera."
         },
         {
           "letter": "B",
-          "text": "La Revolución Rusa",
+          "text": "Que el valle está lejos del mar",
           "is_correct": false,
-          "feedback": "La Revolución Rusa ocurrió en 1917, en pleno conflicto, y es una de las consecuencias de la guerra, no su origen."
+          "feedback": "La distancia al mar no agrupó a la gente; al contrario, los puertos y el comercio marítimo están en la costa y en el oriente."
+        },
+        {
+          "letter": "C",
+          "text": "La producción cafetera y el comercio asociado",
+          "is_correct": true,
+          "feedback": "Correcto. La siembra y el procesamiento del café generan empleo en el valle, y ese trabajo atrae a más gente."
         },
         {
           "letter": "D",
-          "text": "La invención del avión",
+          "text": "La construcción de obras eléctricas",
           "is_correct": false,
-          "feedback": "El primer vuelo Tripulier data de 1903 y es un avance técnico sin relación con el estallido del conflicto en 1914."
+          "feedback": "Las obras eléctricas son una infraestructura importante del país, pero no es lo que explica la concentración histórica del poblamiento."
         }
       ],
       "correct_answer": "C",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
+      "explanation": "La producción cafetera y el comercio alrededor de ella generaron empleo en el valle, y eso atrae a más población.",
       "difficulty": "10",
       "images": [],
       "tags": [],

@@ -9,36 +9,36 @@
   "questions": [
     {
       "id": "PY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v1",
-      "statement": "En una lectura: 'El sol brillaba mientras los pajaros cantaban'. ¿Que funcion cumple?",
+      "statement": "¿Cuál es la función del pretérito imperfecto en la oración \"Cuando llegué, llovía\"?",
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
-          "letter": "B",
-          "text": "Crear una atmosfera o ambiente",
+          "letter": "A",
+          "text": "Situar una acción o un estado en el pasado sin marcar su conclusión",
           "is_correct": true,
-          "feedback": "Correcto. La opción 'Crear una atmosfera o ambiente' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes."
+          "feedback": "Es correcto: la lluvia se presenta como el fondo continuo del pasado, sin importar si había terminado."
         },
         {
-          "letter": "A",
-          "text": "Presentar un argumento",
+          "letter": "B",
+          "text": "Indicar una acción pasada y concluida",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Presentar un argumento' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Esa es la función del pretérito perfecto simple, que aquí corresponde a \"llegué\"."
         },
         {
           "letter": "C",
-          "text": "Narrar una secuencia",
+          "text": "Expresar un hecho futuro dentro de una condición",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Narrar una secuencia' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "No hay ningún hecho futuro en esta oración, de modo que ese valor no aparece."
         },
         {
           "letter": "D",
-          "text": "Describir un dialogo",
+          "text": "Señalar una causa del movimiento del sujeto",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Describir un dialogo' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "La subordinada no expresa causa, sino una circunstancia temporal: señala el momento de la llegada."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Las descripciones ayudan a crear la atmosfera en la narracion.\n\n---",
+      "correct_answer": "A",
+      "explanation": "El pretérito imperfecto se emplea para describir situaciones, hábitos o estados en el pasado sin acotar su comienzo ni su final.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -54,36 +54,36 @@
     },
     {
       "id": "PY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v2",
-      "statement": "¿Cual es la funcion del lenguaje en: '¡Feliz cumpleanos!'?",
+      "statement": "¿Qué diferencia hay entre \"hablaba\" y \"habló\"?",
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
           "letter": "A",
-          "text": "Funcion expresiva o emotiva",
+          "text": "\"Hablaba\" es imperfecto y describe un estado en curso; \"habló\" es perfecto y narró un hecho puntual",
           "is_correct": true,
-          "feedback": "Correcto. La opción 'Funcion expresiva o emotiva' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes."
+          "feedback": "Es correcta: el primero sitúa la acción dentro de la escena y el segundo la avanza como un suceso acotado."
         },
         {
           "letter": "B",
-          "text": "Funcion referencial",
+          "text": "Los dos son imperfectos y solo cambia la persona gramatical",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Funcion referencial' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "No difieren en persona sino en tiempo verbal: uno es imperfecto y el otro perfecto."
         },
         {
           "letter": "C",
-          "text": "Funcion apelativa",
+          "text": "Los dos son perfectos y la diferencia es de modo",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Funcion apelativa' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "El modo es el mismo, indicativo; lo que cambia es el tiempo verbal."
         },
         {
           "letter": "D",
-          "text": "Funcion metalinguistica",
+          "text": "\"Hablaba\" es presente y \"habló\" es futuro",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Funcion metalinguistica' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Las dos formas son pretéritas; ninguna de las dos es presente ni futuro."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La funcion expresiva se centra en el emisor y expresa sentimientos.\n\n---",
+      "explanation": "El imperfecto se usa como fondo de la narración y el perfecto como avance. Ese contraste es uno de los recursos más potentes del pasado en español.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -106,25 +106,25 @@
           "letter": "D",
           "text": "ademas",
           "is_correct": true,
-          "feedback": "Correcto. La opción 'ademas' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes."
+          "feedback": "Correcto. 'Ademas' es un conector aditivo: suma un rasgo nuevo sin contradecir lo expuesto antes. Aqui la hermosura de Hernandarias y la cordialidad de su gente son dos datos que se acumulan y ninguno anula al otro."
         },
         {
           "letter": "A",
           "text": "sin embargo",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'sin embargo' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Incorrecto. 'Sin embargo' es adversativo: introduce una idea que se opone a lo que se habia dicho. En esta oracion las dos proposiciones se refuerzan, porque la gente de Hernandarias no contradice a su ciudad, asi que una oposicion seria falsa."
         },
         {
           "letter": "B",
           "text": "por lo tanto",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'por lo tanto' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Incorrecto. 'Por lo tanto' es conclusivo: la segunda proposicion deduce una consecuencia de la primera. Aqui no hay deduccion, sino dos caracteristicas de Hernandarias que se acumulan sin derivarse una de otra."
         },
         {
           "letter": "C",
           "text": "aunque",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'aunque' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Incorrecto. 'Aunque' introduce una concesion: lo que va detras se opone a lo esperado. La segunda proposicion no contradice la primera, la completa, asi que este conector tampoco corresponde."
         }
       ],
       "correct_answer": "D",
@@ -151,25 +151,25 @@
           "letter": "C",
           "text": "Los estudiantes del Colegio Nacional del Alto Parana estudian mucho.",
           "is_correct": true,
-          "feedback": "Correcto. La opción 'Los estudiantes del Colegio Nacional del Alto Parana estudian mucho.' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes."
+          "feedback": "Correcto. Los nombres propios se escriben con mayuscula en cada componente y con la acentuacion que les corresponde: los topicos de Paraguay van con mayuscula y sin tilde, porque son llanas terminadas en 'a', 'o' e 'i'."
         },
         {
           "letter": "A",
           "text": "Los estudiantes de la escuela estudian poco.",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Los estudiantes de la escuela estudian poco.' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Incorrecto. La oracion esta bien redactada y con buena concordancia, pero 'la escuela' es un nombre comun que puede designar cualquier centro; el enunciado pide el nombre propio completo de la institucion, y aqui no aparece."
         },
         {
           "letter": "B",
           "text": "Los estudiantes del instituto no estudian nada.",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Los estudiantes del instituto no estudian nada.' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Incorrecto. 'El instituto' vuelve a sustituir el nombre propio por una denominacion generica. La negacion 'no estudian nada' es correcta, pero no aporta el dato que el enunciado evalua."
         },
         {
           "letter": "D",
           "text": "Los estudiantes del instituto estudian mucho.",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Los estudiantes del instituto estudian mucho.' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Incorrecto. Comparte con la correcta la concordancia y el verbo 'estudian mucho', y se diferencia en un solo punto decisivo: emplea 'el instituto', un nombre comun, en lugar del nombre oficial completo."
         }
       ],
       "correct_answer": "C",
@@ -189,36 +189,36 @@
     },
     {
       "id": "PY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v5",
-      "statement": "En la oracion 'El libro de poesia es fascinante'. ¿Que funcion cumple la subordinada?",
+      "statement": "¿Cuál de las oraciones expresa una acción habitual en el pasado?",
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
-          "letter": "C",
-          "text": "Adjetiva o de relativo",
-          "is_correct": true,
-          "feedback": "Correcto. La opción 'Adjetiva o de relativo' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes."
-        },
-        {
           "letter": "A",
-          "text": "Sustantiva",
-          "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Sustantiva' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "text": "Cada verano viajábamos a la costa.",
+          "is_correct": true,
+          "feedback": "Es correcta: la repetición y el imperfecto señalan un hábito que se prolongaba en el pasado."
         },
         {
           "letter": "B",
-          "text": "Adverbial",
+          "text": "Ayer viajé a la costa.",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Adverbial' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Es una acción puntual y pasada, propia del pretérito perfecto simple."
+        },
+        {
+          "letter": "C",
+          "text": "Mañana viaje a la costa.",
+          "is_correct": false,
+          "feedback": "Está situada en el futuro, no en el pasado."
         },
         {
           "letter": "D",
-          "text": "Coordinada copulativa",
+          "text": "Estoy viajando a la costa.",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Coordinada copulativa' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Es una acción en curso en el presente."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Las oraciones subordinadas adjetivas complementan a un nombre.\n\n---",
+      "correct_answer": "A",
+      "explanation": "Para expresar un hábito en el pasado se combinan el pretérito imperfecto con los adverbios de frecuencia.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -234,36 +234,36 @@
     },
     {
       "id": "PY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v6",
-      "statement": "¿Cual de estas palabras lleva tilde segun las reglas de acentuacion?",
+      "statement": "En la oración \"De niño jugaba al fútbol todos los días\", ¿qué indica \"De niño\"?",
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
-          "letter": "C",
-          "text": "examen",
-          "is_correct": true,
-          "feedback": "Correcto. La opción 'examen' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes."
-        },
-        {
           "letter": "A",
-          "text": "sol",
-          "is_correct": false,
-          "feedback": "Incorrecto. La opción 'sol' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "text": "Una limitación temporal en el pasado, que delimita la etapa del hábito",
+          "is_correct": true,
+          "feedback": "Es correcto: la expresión acota el período durante el cual se mantenía la costumbre."
         },
         {
           "letter": "B",
-          "text": "papel",
+          "text": "Una causa de la práctica del deporte",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'papel' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "La expresión no explica por qué jugaba, solo sitúa cuándo lo hacía."
+        },
+        {
+          "letter": "C",
+          "text": "Una consecuencia de jugar al fútbol",
+          "is_correct": false,
+          "feedback": "No hay ninguna consecuencia expresada en la oración."
         },
         {
           "letter": "D",
-          "text": "jamas",
+          "text": "Una condición necesaria para jugar",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'jamas' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "La condición se marcaría con \"si\" o \"con tal de que\", no con esta expresión."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Las palabras llanas terminadas en consonante distinta de n/s llevan tilde.\n\n---",
+      "correct_answer": "A",
+      "explanation": "Las expresiones de tiempo pueden limitar una acción dentro del pasado, y en este caso delimitan la etapa en la que el hábito se mantenía.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -279,36 +279,36 @@
     },
     {
       "id": "PY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v7",
-      "statement": "¿Que figura literaria se emplea en 'tus ojos son dos luceros'?",
+      "statement": "¿Cuál de las opciones contiene una subordinada sustantiva que funciona como atributo?",
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
-          "letter": "C",
-          "text": "Metafora",
-          "is_correct": true,
-          "feedback": "Correcto. La opción 'Metafora' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes."
-        },
-        {
           "letter": "A",
-          "text": "Comparacion",
-          "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Comparacion' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "text": "Considero importante la idea de que todos debemos participar.",
+          "is_correct": true,
+          "feedback": "Es correcta: la completiva \"que todos debemos participar\" completa al atributo \"importante\" y de ahí que sea atributiva."
         },
         {
           "letter": "B",
-          "text": "Hiparbole",
+          "text": "Es necesario que estudies para el examen.",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Hiparbole' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "La completiva ocupa la posición de sujeto y es regida por la estructura impersonal."
+        },
+        {
+          "letter": "C",
+          "text": "El libro que compramos está en oferta.",
+          "is_correct": false,
+          "feedback": "Es una subordinada adjetiva porque modifica al sustantivo \"libro\"."
         },
         {
           "letter": "D",
-          "text": "Personificacion",
+          "text": "Quiero que vengas a la fiesta.",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Personificacion' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "La completiva funciona como objeto directo del verbo querer."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "La metafora identifica un termino real con uno imaginario por su semejanza.\n\n---",
+      "correct_answer": "A",
+      "explanation": "Cuando una completiva depende de un atributo y se integra en el sujeto gramatical, se denomina completiva atributiva y el sujeto aparente queda incorporado.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -324,36 +324,36 @@
     },
     {
       "id": "PY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v8",
-      "statement": "¿Cómo se escribe correctamente en plural la palabra 'examen' según las reglas de acentuación?",
+      "statement": "¿Qué tipo de oración es \"No sé si vendrás a la fiesta\"?",
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
           "letter": "A",
-          "text": "examenes",
-          "is_correct": false,
-          "feedback": "Incorrecto. La opción 'examenes' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "text": "Una oración compuesta con una completiva sustantiva interrogativa indirecta",
+          "is_correct": true,
+          "feedback": "Es correcta: la proposición \"si vendrás a la fiesta\" completa al verbo saber y es una interrogativa indirecta."
         },
         {
           "letter": "B",
-          "text": "exámenes",
-          "is_correct": true,
-          "feedback": "Correcto. 'Exámenes' es una palabra esdrújula, por lo que siempre lleva tilde en la antepenúltima sílaba."
+          "text": "Una oración simple con un solo verbo conjugado",
+          "is_correct": false,
+          "feedback": "Hay dos formas verbales, \"sé\" y \"vendrás\", de modo que no puede ser simple."
         },
         {
           "letter": "C",
-          "text": "examénes",
+          "text": "Una oración compuesta por coordinación adversativa",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'examénes' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "No hay conjunción coordinante; la relación es de subordinación."
         },
         {
           "letter": "D",
-          "text": "examene's",
+          "text": "Una oración exclamativa con valor de sorpresa",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'examene's' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "No hay signo de exclamación ni expresión de emoción."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Las palabras esdrújulas llevan tilde siempre, sin excepción, en la antepenúltima sílaba.\n\n---",
+      "correct_answer": "A",
+      "explanation": "Las completivas interrogativas indirectas dependen de verbos de opinión como saber, ignorar o preguntar, y no llevan signos de interrogación.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -369,36 +369,36 @@
     },
     {
       "id": "PY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v9",
-      "statement": "¿El 'Romance de la luna, luna' de Federico Garcia Lorca es un poema de tipo?",
+      "statement": "¿Cuál es la función de la conjunción \"aunque\" en \"Aunque no lo sé, lo diré\"?",
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
-          "letter": "C",
-          "text": "Narrativo-lirico con elementos del romance tradicional",
-          "is_correct": true,
-          "feedback": "Correcto. La opción 'Narrativo-lirico con elementos del romance tradicional' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes."
-        },
-        {
           "letter": "A",
-          "text": "Exclusivamente dramatico",
-          "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Exclusivamente dramatico' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "text": "Introduce una subordinada adverbial concessiva",
+          "is_correct": true,
+          "feedback": "Es correcto: la proposición presenta un obstáculo que no impide la acción principal."
         },
         {
           "letter": "B",
-          "text": "Ensayo filosofico en verso",
+          "text": "Introduce una subordinada causal que explica la causa",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Ensayo filosofico en verso' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "No es causal: la subordinada no explica por qué se habla, sino que se opone a ello."
+        },
+        {
+          "letter": "C",
+          "text": "Funciona como adverbio con valor de tiempo",
+          "is_correct": false,
+          "feedback": "El valor con el que se emplea aquí es concessivo, no temporal."
         },
         {
           "letter": "D",
-          "text": "Poema epico clasico",
+          "text": "Es una conjunción coordinante que une dos oraciones",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Poema epico clasico' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Es subordinante porque la segunda proposición depende de la primera y no tiene sentido autónomo."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Lorca utiliza la estructura del romance tradicional para crear un poema narrativo-lirico.\n\n---",
+      "correct_answer": "A",
+      "explanation": "La relación concessiva se establece cuando un dato contrario se reconoce y aun así la proposición principal se cumple.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -414,36 +414,36 @@
     },
     {
       "id": "PY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v10",
-      "statement": "En el Colegio Nacional San Lorenzo de San Lorenzo, analizando un texto. ¿Cual es la idea principal?",
+      "statement": "¿Cuál de las oraciones presenta una estructura impersonal con se átono?",
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
-          "letter": "D",
-          "text": "El agua es esencial para la vida y debe cuidarse",
-          "is_correct": true,
-          "feedback": "Correcto. La opción 'El agua es esencial para la vida y debe cuidarse' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes."
-        },
-        {
           "letter": "A",
-          "text": "El agua solo se usa para beber",
-          "is_correct": false,
-          "feedback": "Incorrecto. La opción 'El agua solo se usa para beber' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "text": "Se venden frutas en ese mercado.",
+          "is_correct": true,
+          "feedback": "Es correcta: el pronombre átono \"se\" marca la impersonalidad y oculta al agente de la acción."
         },
         {
           "letter": "B",
-          "text": "El agua no es importante",
+          "text": "Los estudiantes estudian por la noche.",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'El agua no es importante' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Tiene sujeto explícito y por tanto es una oración personal."
         },
         {
           "letter": "C",
-          "text": "El agua es un recurso infinito",
+          "text": "El niño corrió por el parque.",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'El agua es un recurso infinito' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "También es personal, con sujeto explícito y verbo conjugado."
+        },
+        {
+          "letter": "D",
+          "text": "Hoy hace mucho calor.",
+          "is_correct": false,
+          "feedback": "Es impersonal, pero no presenta la construcción con pronombre átono que se busca."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "El texto destaca la importancia del agua como recurso vital.\n\n---",
+      "correct_answer": "A",
+      "explanation": "El pronombre átono \"se\" ante verbo conjugado construye construcciones impersonales, en las que el agente queda oculto o recibe una valoración.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -459,36 +459,36 @@
     },
     {
       "id": "PY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v11",
-      "statement": "En una lectura: 'El sol brillaba mientras los pajaros cantaban'. ¿Que funcion cumple?",
+      "statement": "¿Qué valor tiene el futuro simple en la oración \"Mañana viajaré a Europa\"?",
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
           "letter": "A",
-          "text": "Crear una atmosfera o ambiente",
+          "text": "Expresa un hecho previsto para un momento posterior al presente",
           "is_correct": true,
-          "feedback": "Correcto. La opción 'Crear una atmosfera o ambiente' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes."
+          "feedback": "Es correcto: el futuro simple sitúa la acción en un punto futuro sin relacionarla con otra acción pasada."
         },
         {
           "letter": "B",
-          "text": "Presentar un argumento",
+          "text": "Expresa una hipótesis improbable",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Presentar un argumento' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Las hipótesis improbables se construyen con el condicional, como en \"viajaría\"."
         },
         {
           "letter": "C",
-          "text": "Narrar una secuencia",
+          "text": "Expresa un hábito en el presente",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Narrar una secuencia' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Los hábitos en el presente se marcan con el presente de indicativo y adverbios de frecuencia."
         },
         {
           "letter": "D",
-          "text": "Describir un dialogo",
+          "text": "Expresa una lamentación por el pasado",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Describir un dialogo' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "La lamentación corresponde a construcciones como \"si yo hubiera sabido\"."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Las descripciones ayudan a crear la atmosfera en la narracion.\n\n---",
+      "explanation": "En español el futuro simple tiene un valor simple de prediction, y se emplea para situaciones consideradas seguras o previstas.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -504,36 +504,36 @@
     },
     {
       "id": "PY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v12",
-      "statement": "¿Cual es la funcion del lenguaje en: '¡Feliz cumpleanos!'?",
+      "statement": "¿Cuál de las oraciones presenta una concordancia temporal correcta?",
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
           "letter": "A",
-          "text": "Funcion expresiva o emotiva",
+          "text": "Cuando terminé el trabajo, salí a la casa.",
           "is_correct": true,
-          "feedback": "Correcto. La opción 'Funcion expresiva o emotiva' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes."
+          "feedback": "Es correcta: la primera acción es pasada y concluida y la segunda también, de modo que ambas van en pretérito perfecto simple."
         },
         {
           "letter": "B",
-          "text": "Funcion referencial",
+          "text": "Cuando terminé el trabajo, salía a la casa.",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Funcion referencial' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "La segunda acción sería presente de indicativo, lo que situaría la salida antes de la conclusión del trabajo."
         },
         {
           "letter": "C",
-          "text": "Funcion apelativa",
+          "text": "Cuando termino el trabajo, salí a la casa.",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Funcion apelativa' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "El presente con valor de actualidad y el pretérito no encadenan bien en esta relación temporal."
         },
         {
           "letter": "D",
-          "text": "Funcion metalinguistica",
+          "text": "Cuando terminaba el trabajo, salí a la casa.",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Funcion metalinguistica' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "El imperfecto situaría el trabajo como proceso sin final, y entonces la salida sería posterior y puntual."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La funcion expresiva se centra en el emisor y expresa sentimientos.\n\n---",
+      "explanation": "La concordancia de tiempos exige que la acción de la subordinada temporal sea anterior al hecho principal cuando se usa el pretérito perfecto simple en ambas.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -549,36 +549,36 @@
     },
     {
       "id": "PY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v13",
-      "statement": "Identifica el conector: Asuncion es hermosa, ____ su gente es acogedora.",
+      "statement": "¿Qué elemento introduce el sujeto tácito en la oración \"Se estudia mucho aquí\"?",
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
-          "letter": "D",
-          "text": "ademas",
-          "is_correct": true,
-          "feedback": "Correcto. La opción 'ademas' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes."
-        },
-        {
           "letter": "A",
-          "text": "sin embargo",
-          "is_correct": false,
-          "feedback": "Incorrecto. La opción 'sin embargo' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "text": "El pronombre átono \"se\", que marca la impersonalidad y oculta al agente",
+          "is_correct": true,
+          "feedback": "Es correcto: el \"se\" átono impide identificar a quién corresponde la acción de estudiar."
         },
         {
           "letter": "B",
-          "text": "por lo tanto",
+          "text": "El artículo \"mucho\", que actúa como sujeto",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'por lo tanto' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "\"Mucho\" es un cuantificador adverbial y no puede funcionar como sujeto."
         },
         {
           "letter": "C",
-          "text": "aunque",
+          "text": "El adverbio \"aquí\", que ocupa la función de sujeto",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'aunque' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Ese adverbio es un complemento del lugar y responde a dónde, no a quién."
+        },
+        {
+          "letter": "D",
+          "text": "El verbo \"estudia\", que funciona como sujeto",
+          "is_correct": false,
+          "feedback": "El verbo es el núcleo del predicado, no el sujeto de la oración."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "El conector 'ademas' anade informacion.\n\n---",
+      "correct_answer": "A",
+      "explanation": "En las construcciones impersonales con se átono no hay sujeto identificable, y esa es la diferencia respecto de la pasiva refleja.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -601,25 +601,25 @@
           "letter": "D",
           "text": "Los estudiantes del Colegio Nacional Lambare estudian mucho.",
           "is_correct": true,
-          "feedback": "Correcto. La opción 'Los estudiantes del Colegio Nacional Lambare estudian mucho.' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes."
+          "feedback": "Correcto. Los nombres propios se escriben con mayuscula en cada componente y con la acentuacion que les corresponde: los topicos de Paraguay van con mayuscula y sin tilde, porque son llanas terminadas en 'a', 'o' e 'i'."
         },
         {
           "letter": "A",
           "text": "Los estudiantes de la escuela estudian poco.",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Los estudiantes de la escuela estudian poco.' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Incorrecto. La oracion esta bien redactada y con buena concordancia, pero 'la escuela' es un nombre comun que puede designar cualquier centro; el enunciado pide el nombre propio completo de la institucion, y aqui no aparece."
         },
         {
           "letter": "B",
           "text": "Los estudiantes del instituto no estudian nada.",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Los estudiantes del instituto no estudian nada.' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Incorrecto. 'El instituto' vuelve a sustituir el nombre propio por una denominacion generica. La negacion 'no estudian nada' es correcta, pero no aporta el dato que el enunciado evalua."
         },
         {
           "letter": "C",
           "text": "Los estudiantes del instituto estudian mucho.",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Los estudiantes del instituto estudian mucho.' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Incorrecto. Comparte con la correcta la concordancia y el verbo 'estudian mucho', y se diferencia en un solo punto decisivo: emplea 'el instituto', un nombre comun, en lugar del nombre oficial completo."
         }
       ],
       "correct_answer": "D",
@@ -639,36 +639,36 @@
     },
     {
       "id": "PY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v15",
-      "statement": "En la oracion 'El libro azul es fascinante'. ¿Que funcion cumple la subordinada?",
+      "statement": "¿Cuál es la diferencia entre el se impersonal y el se de la pasiva refleja?",
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
-          "letter": "D",
-          "text": "Adjetiva o de relativo",
-          "is_correct": true,
-          "feedback": "Correcto. La opción 'Adjetiva o de relativo' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes."
-        },
-        {
           "letter": "A",
-          "text": "Sustantiva",
-          "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Sustantiva' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "text": "El impersonal no tiene sujeto y el de la pasiva refleja lo tiene, y ese sujeto realiza la acción",
+          "is_correct": true,
+          "feedback": "Es correcta: en la pasiva refleja el sujeto aparece y ejecuta la acción, mientras que en la impersonal queda oculto."
         },
         {
           "letter": "B",
-          "text": "Adverbial",
+          "text": "Los dos son exactamente iguales y no hay diferencia entre ellos",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Adverbial' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Sí hay diferencia: la pasiva refleja tiene sujeto y la impersonal no."
         },
         {
           "letter": "C",
-          "text": "Coordinada copulativa",
+          "text": "El impersonal expresa repetición y la pasiva refleja expresa una sola vez",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Coordinada copulativa' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "El valor aspectual del pronombre es secundario; lo decisivo es la presencia o ausencia de sujeto."
+        },
+        {
+          "letter": "D",
+          "text": "El impersonal solo se usa con verbos transitivos y la pasiva refleja solo con intransitivos",
+          "is_correct": false,
+          "feedback": "La selección del verbo no es lo que distingue ambas construcciones."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Las oraciones subordinadas adjetivas complementan a un nombre.\n\n---",
+      "correct_answer": "A",
+      "explanation": "La pasiva refleja tiene la estructura sujeto más se más verbo transitivo, mientras que la impersonal emplea un verbo impersonal y oculta el agente.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -684,36 +684,36 @@
     },
     {
       "id": "PY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v16",
-      "statement": "¿Cual de estas palabras lleva tilde segun las reglas de acentuacion?",
+      "statement": "¿Cuál de las oraciones contiene una subordinada adjetiva correctamente equilibrada?",
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
-          "letter": "C",
-          "text": "arbol",
-          "is_correct": true,
-          "feedback": "Correcto. La opción 'arbol' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes."
-        },
-        {
           "letter": "A",
-          "text": "casa",
-          "is_correct": false,
-          "feedback": "Incorrecto. La opción 'casa' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "text": "Los libros que están en la mesa son míos.",
+          "is_correct": true,
+          "feedback": "Es correcta: la proposición \"que están en la mesa\" modifica al sustantivo y está entre el determinante y él."
         },
         {
           "letter": "B",
-          "text": "calor",
+          "text": "Los libros que están en la mesa, son míos.",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'calor' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "La coma no corresponde porque entre el determinante y el sustantivo no puede abrirse un inciso."
+        },
+        {
+          "letter": "C",
+          "text": "Que están en la mesa son los libros.",
+          "is_correct": false,
+          "feedback": "Aquí la proposición inicial ocupa la posición de sujeto y es sustantiva."
         },
         {
           "letter": "D",
-          "text": "pared",
+          "text": "Los libros que están en la mesa, los comprado ayer, son míos.",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'pared' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "La segunda proposición relativa está mal formada porque \"comprado\" no concuerda con el antecedente plural."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Las palabras llanas terminadas en consonante distinta de n/s llevan tilde.\n\n---",
+      "correct_answer": "A",
+      "explanation": "La proposición adjetiva se inserta entre el determinante y el sustantivo, y esa posición es la que garantiza su equilibrio sintáctico.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -729,36 +729,36 @@
     },
     {
       "id": "PY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v17",
-      "statement": "¿Que figura literaria se emplea en 'tus ojos son dos luceros'?",
+      "statement": "¿Qué conjunción introduce una relación de consecuencia?",
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
-          "letter": "B",
-          "text": "Metafora",
+          "letter": "A",
+          "text": "Por lo tanto",
           "is_correct": true,
-          "feedback": "Correcto. La opción 'Metafora' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes."
+          "feedback": "Es correcta: \"por lo tanto\" enlaza la consecuencia que se deduce de lo expuesto antes."
         },
         {
-          "letter": "A",
-          "text": "Comparacion",
+          "letter": "B",
+          "text": "Aunque",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Comparacion' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Introduce una relación concessiva, con un dato que se opone a lo esperado."
         },
         {
           "letter": "C",
-          "text": "Hiparbole",
+          "text": "Para",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Hiparbole' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Introduce finalidad, el objetivo que se busca con la acción principal."
         },
         {
           "letter": "D",
-          "text": "Personificacion",
+          "text": "Salvo",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Personificacion' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Introduce una excepción, es decir, un caso que queda fuera de lo general."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La metafora identifica un termino real con uno imaginario por su semejanza.\n\n---",
+      "correct_answer": "A",
+      "explanation": "Los conectores lógicos hacen explícita la estructura del razonamiento y permiten distinguir entre causa, consecuencia, oposición, condición y finalidad.",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -774,36 +774,36 @@
     },
     {
       "id": "PY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v18",
-      "statement": "¿Cómo se escribe correctamente en plural la palabra 'árbol' según las reglas de acentuación?",
+      "statement": "¿Cuál de las oraciones presenta una estructura pasiva refleja?",
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
-          "letter": "B",
-          "text": "arboles",
-          "is_correct": false,
-          "feedback": "Incorrecto. La opción 'arboles' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "letter": "A",
+          "text": "Se venden frutas en el mercado.",
+          "is_correct": true,
+          "feedback": "Es correcta: el sujeto \"frutas\" aparece y realiza la acción de venderse, que es la pasiva refleja."
         },
         {
-          "letter": "A",
-          "text": "árboles",
-          "is_correct": true,
-          "feedback": "Correcto. Al ser una palabra esdrújula, siempre debe llevar tilde."
+          "letter": "B",
+          "text": "Llegan frutas al mercado.",
+          "is_correct": false,
+          "feedback": "Es una oración activa: el sujeto \"frutas\" recibe la acción pero no lleva el pronombre \"se\"."
         },
         {
           "letter": "C",
-          "text": "arbolés",
+          "text": "Se habla mucho en clase.",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'arbolés' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Es impersonal, porque no hay sujeto que ejecute la acción de hablar."
         },
         {
           "letter": "D",
-          "text": "árbolé's",
+          "text": "El mercado vende frutas.",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'árbolé's' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Es activa: el sujeto es quien ejecuta la acción, no quien la recibe."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Las palabras esdrújulas llevan tilde siempre, sin excepción, en la antepenúltima sílaba.\n\n---",
+      "explanation": "La pasiva refleja se reconoce porque el pronombre \"se\" acompaña a un verbo transitivo y el sujeto aparece y ejecuta la acción.",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -819,36 +819,36 @@
     },
     {
       "id": "PY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v19",
-      "statement": "¿El 'Romance de la luna, luna' de Federico Garcia Lorca es un poema de tipo?",
+      "statement": "¿Cuál de las opciones presenta el uso correcto de la coma con un vocativo?",
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
-          "letter": "D",
-          "text": "Narrativo-lirico con elementos del romance tradicional",
-          "is_correct": true,
-          "feedback": "Correcto. La opción 'Narrativo-lirico con elementos del romance tradicional' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes."
-        },
-        {
           "letter": "A",
-          "text": "Exclusivamente dramatico",
-          "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Exclusivamente dramatico' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "text": "María, trae el cuaderno por favor.",
+          "is_correct": true,
+          "feedback": "Es correcta: el vocativo se separa con comas y aquí aparece al principio de la oración."
         },
         {
           "letter": "B",
-          "text": "Ensayo filosofico en verso",
+          "text": "María trae, el cuaderno por favor.",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Ensayo filosofico en verso' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "La coma no corresponde: el vocativo no introduce el objeto directo de esa manera."
         },
         {
           "letter": "C",
-          "text": "Poema epico clasico",
+          "text": "Que trae el cuaderno, María.",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Poema epico clasico' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Aquí no hay vocativo, sino una proposición relativa, de modo que la coma no cumple esa función."
+        },
+        {
+          "letter": "D",
+          "text": "María trae el cuaderno, por favor.",
+          "is_correct": false,
+          "feedback": "La coma separa un elemento que no es vocativo, y aquí funciona como pausa hipotética."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Lorca utiliza la estructura del romance tradicional para crear un poema narrativo-lirico.\n\n---",
+      "correct_answer": "A",
+      "explanation": "El vocativo se delimita con comas porque es un elemento que se puede suprimir sin alterar el sentido de la oración.",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -864,36 +864,36 @@
     },
     {
       "id": "PY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle-v20",
-      "statement": "En el Colegio Nacional Caaguazu de Caaguazu, analizando un texto. ¿Cual es la idea principal?",
+      "statement": "¿Cuál es el valor del condicional simple en la oración \"¿Vienes a la fiesta esta noche?\"?",
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
           "letter": "A",
-          "text": "El agua es esencial para la vida y debe cuidarse",
+          "text": "Expresa una invitación o cortesía, no una hipótesis",
           "is_correct": true,
-          "feedback": "Correcto. La opción 'El agua es esencial para la vida y debe cuidarse' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes."
+          "feedback": "Es correcta: en la pregunta el condicional cumple la función de invitación cortés."
         },
         {
           "letter": "B",
-          "text": "El agua solo se usa para beber",
+          "text": "Expresa una hipótesis sobre el pasado",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'El agua solo se usa para beber' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "La hipótesis sobre el pasado se construiría con pluscuamperfecto de subjuntivo, no con condicional simple."
         },
         {
           "letter": "C",
-          "text": "El agua no es importante",
+          "text": "Afirma un hecho que ya ocurrió",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'El agua no es importante' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "El condicional no afirma hechos pasados consumados; por eso se usa aquí para pedir."
         },
         {
           "letter": "D",
-          "text": "El agua es un recurso infinito",
+          "text": "Expresa una obligación legal",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'El agua es un recurso infinito' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "La obligación se marcaría con \"deber\" más infinitivo."
         }
       ],
       "correct_answer": "A",
-      "explanation": "El texto destaca la importancia del agua como recurso vital.\n\n---",
+      "explanation": "El condicional simple tiene un valor de cortesía, de deseo o de hipótesis según el contexto, y en preguntas suele servir para invitar.",
       "difficulty": "10",
       "images": [],
       "tags": [],
