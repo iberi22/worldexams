@@ -409,7 +409,7 @@ El repartimiento obligaba a los indigenas a trabajar en las minas y haciendas de
 En la estratificacion colonial, el termino 'criollo' designaba a:
 
 ### Opciones
-- [ ] A) EspañolesGK llegados directamente de la peninsula
+- [ ] A) Españoles llegados directamente de la peninsula
   <!-- feedback: Esos eran los peninsulares, no los criollos. -->
 - [ ] B) Indigenas convertidos al cristianismo
   <!-- feedback: Los indigenas conversos no adoptaron la categoria de criollo. -->
