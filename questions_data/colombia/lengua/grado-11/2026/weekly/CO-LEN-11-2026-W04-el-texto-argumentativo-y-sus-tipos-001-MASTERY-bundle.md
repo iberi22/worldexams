@@ -363,7 +363,7 @@ Cada tipo de argumentación tiene un repertorio de recursos que le son propios. 
 ¿Qué información sobre la estructura argumentativa del texto se puede inferir de esa frase?
 
 ### Opciones
-- [ ] A) El autor многочисленный ha rechazado todas las alternativas posibles.
+- [ ] A) El autor solo ha mencionado un costo menor y no ha evaluado todas las alternativas.
   <!-- feedback: Incorrecto. Mencionar un costo menor no demuestra que se hayan evaluado todas las opciones. -->
 - [x] B) El texto pesa un riesgo contra un costo, es decir, razona con relaciones de causa y consecuencia.
   <!-- feedback: Correcto. La comparación de magnitudes es un argumento típico de la deliberación. -->

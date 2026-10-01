@@ -503,7 +503,7 @@ La acumulación de recursos modales produce un efecto multiplicador sobre la ate
 **Bloom:** Evaluate
 **ICFES:** Estrategias de lectura
 **Expected_Success:** 0.70
-**Contexto:** En el colegio de Pereira, los grupos de once grado terminan la semana con una puesta en común sobre un texto de no менее de dos páginas.
+**Contexto:** En el colegio de Pereira, los grupos de once grado terminan la semana con una puesta en común sobre un texto de no menos de dos páginas.
 
 ### Enunciado
 ¿Cuál es la mejor estrategia de lectura para aprovechar un texto que combina la voz del enunciante, la de una fuente citada y la de un personaje absorbido por la narración?
