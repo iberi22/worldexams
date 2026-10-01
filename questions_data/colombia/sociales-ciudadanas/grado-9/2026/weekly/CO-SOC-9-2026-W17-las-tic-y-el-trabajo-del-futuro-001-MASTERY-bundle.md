@@ -264,9 +264,9 @@ Evaluar una medida de modernizacion exige preguntar a quien deja fuera. Publicar
  Que valoracion es más adecuada de esa iniciativa?
 
 ### Opciones
-- [ ] C) Es innecesaria, porque la alfabetizacion digital es solo para jovenes que estudian en la universidad.
+- [ ] A) Es innecesaria, porque la alfabetizacion digital es solo para jovenes que estudian en la universidad.
   <!-- feedback: Incorrecto. La alfabetizacion digital beneficia a cualquier edad, y a los adultos mayores les abre oportunidades concretas. -->
-- [x] A) Es pertinente, porque reduce la brecha digital y permite ejercer derechos como cobrar y acceder a salud en linea.
+- [x] B) Es pertinente, porque reduce la brecha digital y permite ejercer derechos como cobrar y acceder a salud en linea.
   <!-- feedback: Correcto. Sin manejo de herramientas digitales, una persona queda fuera de servicios basicos del Estado. -->
 - [ ] C) Es suficiente, porque el manejo del celular reemplaza cualquier necesidad de formacion laboral.
   <!-- feedback: Incorrecto. Saber usar un celular es apenas una base, y no reemplaza la formacion tecnica de un oficio. -->
