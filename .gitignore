@@ -187,3 +187,7 @@ SESSION_HANDOFF*.md
 **/.atl/
 **/.gestalt/
 **/.worktrees/
+
+# Generator scratch from content agents: intermediate JSON a Python generator
+# wrote next to the bundles, never consumed by the pack builder.
+questions_data/**/_gen_bundles/
