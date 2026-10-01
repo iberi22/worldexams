@@ -27,7 +27,7 @@ creador: "Jules-Agent"
 **ID:** CO-ING-6-2026-W12-possessive-adjectives-001-v1
 **Bloom:** Remember
 **ICFES:** Lexical Knowledge
-**Expected_Success:** 0.82
+**Expected_Success:** 0.85
 **Contexto:** Pointing out who owns a classroom object.
 
 ### Enunciado
@@ -47,7 +47,7 @@ The correct answer is "This is her pencil." The possessive adjectives are short 
 **ID:** CO-ING-6-2026-W12-possessive-adjectives-002-v1
 **Bloom:** Remember
 **ICFES:** Grammatical Knowledge
-**Expected_Success:** 0.80
+**Expected_Success:** 0.84
 **Contexto:** Completing a question about family members with a possessive.
 
 ### Enunciado
@@ -67,7 +67,7 @@ The correct answer is "my". Possessive questions are a two-way exchange in Engli
 **ID:** CO-ING-6-2026-W12-possessive-adjectives-003-v1
 **Bloom:** Understand
 **ICFES:** Reading Comprehension
-**Expected_Success:** 0.78
+**Expected_Success:** 0.83
 **Contexto:** Reading labels on objects left in a classroom.
 
 ### Enunciado
@@ -82,12 +82,12 @@ Read the labels: "Sofía's jacket, Diego's ruler, Laura's pencil case". Whose ru
 ### Explicación Pedagógica
 The correct answer is "Diego's". A possessive name plus apostrophe-s is the first form Colombian students meet and it is easy to confuse with a plain plural when reading quickly. Binding each name to the object that follows it in a labelled list is the same operation students perform on a school timetable or a lost-property list, so the item carries a real classroom purpose.
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 
 **ID:** CO-ING-6-2026-W12-possessive-adjectives-004-v1
 **Bloom:** Apply
 **ICFES:** Grammatical Knowledge
-**Expected_Success:** 0.76
+**Expected_Success:** 0.82
 **Contexto:** Choosing the possessive that fits a sentence about a school group.
 
 ### Enunciado
@@ -107,7 +107,7 @@ The correct answer is "Their". Their is the form students miss most often becaus
 **ID:** CO-ING-6-2026-W12-possessive-adjectives-005-v1
 **Bloom:** Apply
 **ICFES:** Grammatical Knowledge
-**Expected_Success:** 0.74
+**Expected_Success:** 0.81
 **Contexto:** Rewriting a sentence to use a possessive adjective instead of a prepositional phrase.
 
 ### Enunciado
@@ -127,7 +127,7 @@ The correct answer is "My mother's keys are on the table." English allows a noun
 **ID:** CO-ING-6-2026-W12-possessive-adjectives-006-v1
 **Bloom:** Apply
 **ICFES:** Pragmatic Competence
-**Expected_Success:** 0.72
+**Expected_Success:** 0.80
 **Contexto:** Responding to a teacher who has found a student's notebook.
 
 ### Enunciado
@@ -142,12 +142,12 @@ A teacher says: "Is this your notebook?" You want to say yes politely. Which rep
 ### Explicación Pedagógica
 The correct answer is "Yes, it's my notebook." A real exchange with a teacher puts the possessive under time pressure, which is where students who know the form but not the contract fall down. It also marks the boundary the students hit next week when descriptions of people begin: the difference between an adjective that needs a noun and a pronoun that does not.
 
-## Question 7 [D4-D5]
+## Question 7 [D4]
 
 **ID:** CO-ING-6-2026-W12-possessive-adjectives-007-v1
 **Bloom:** Apply
 **ICFES:** Grammatical Knowledge
-**Expected_Success:** 0.70
+**Expected_Success:** 0.79
 **Contexto:** Choosing between two possessives that both appear in one short text.
 
 ### Enunciado
@@ -162,12 +162,12 @@ Read: "Carlos forgot his book, so Julián lent him his notebook." Whose notebook
 ### Explicación Pedagógica
 The correct answer is "Julián's". A text that repeats the same pronoun for two different people is a classic comprehension trap, and it is also the fastest way to see whether a student has understood that a possessive points at a referent rather than at a class of people. This is the reading behind the possessive form, and it is what the family and description weeks of this period depend on.
 
-## Question 8 [D4-D5]
+## Question 8 [D4]
 
 **ID:** CO-ING-6-2026-W12-possessive-adjectives-008-v1
 **Bloom:** Analyze
 **ICFES:** Reading Comprehension
-**Expected_Success:** 0.68
+**Expected_Success:** 0.77
 **Contexto:** Checking which facts about a family are stated in a short text.
 
 ### Enunciado
@@ -182,12 +182,12 @@ Read: "My uncle lives in Cali. His daughter is my cousin." What does the text te
 ### Explicación Pedagógica
 The correct answer is "The cousin is the daughter of the uncle." Reading for what a text states and what it merely leaves out is the difference between comprehension and guessing, and a pronoun such as his forces the student to resolve the reference before the sentence means anything. Every distractor here is a plausible fact that the text never licenses, which is the most common failure mode in reading items at this level.
 
-## Question 9 [D5]
+## Question 9 [D4]
 
 **ID:** CO-ING-6-2026-W12-possessive-adjectives-009-v1
 **Bloom:** Analyze
 **ICFES:** Grammatical Knowledge
-**Expected_Success:** 0.65
+**Expected_Success:** 0.74
 **Contexto:** Finding the possessive that a sentence has used incorrectly.
 
 ### Enunciado
@@ -202,12 +202,12 @@ A student writes: "The dog is my's." What is the problem?
 ### Explicación Pedagógica
 The correct answer is "My does not take an s at the end." Students extend the apostrophe-s rule of names to the short forms, which produces forms that do not exist in English. Isolating that one overgeneralisation in a very short sentence shows the student exactly where the pattern stops, and it is the same distinction that keeps their written work free of invented possessives.
 
-## Question 10 [D5]
+## Question 10 [D4]
 
 **ID:** CO-ING-6-2026-W12-possessive-adjectives-010-v1
 **Bloom:** Evaluate
 **ICFES:** Pragmatic Competence
-**Expected_Success:** 0.62
+**Expected_Success:** 0.70
 **Contexto:** Choosing the clearest way to introduce a friend to a teacher.
 
 ### Enunciado

@@ -29,7 +29,7 @@ creador: "Jules-Agent"
 **ID:** `CO-ING-6-2026-W05-numbers-colors-001-v1`
 **Bloom:** Remember
 **ICFES:** Lexical Knowledge
-**Expected_Success:** 0.82
+**Expected_Success:** 0.85
 **Contexto:** Reading a number written out in words on a classroom poster in Bogotá.
 
 ### Enunciado
@@ -51,7 +51,7 @@ Grade 6 Colombian students cover the numbers from 1 to 100 in the first period, 
 **ID:** `CO-ING-6-2026-W05-numbers-colors-002-v1`
 **Bloom:** Remember
 **ICFES:** Lexical Knowledge
-**Expected_Success:** 0.80
+**Expected_Success:** 0.84
 **Contexto:** An art class in which the students mix their own paint.
 
 ### Enunciado
@@ -73,7 +73,7 @@ Colour mixing lets Grade 6 students learn colour words in a meaningful context i
 **ID:** `CO-ING-6-2026-W05-numbers-colors-003-v1`
 **Bloom:** Understand
 **ICFES:** Lexical Knowledge
-**Expected_Success:** 0.78
+**Expected_Success:** 0.83
 **Contexto:** The price of a snack in the school canteen, written the Colombian way with a point for thousands.
 
 ### Enunciado
@@ -90,12 +90,12 @@ Colombian students read a point as a thousands separator while English uses a co
 
 ---
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 
 **ID:** `CO-ING-6-2026-W05-numbers-colors-004-v1`
 **Bloom:** Understand
 **ICFES:** Grammatical Knowledge
-**Expected_Success:** 0.76
+**Expected_Success:** 0.82
 **Contexto:** A student counting the pencils left in a classroom after class.
 
 ### Enunciado
@@ -117,7 +117,7 @@ Numbers do not travel alone in English: they decide the form of the noun that fo
 **ID:** `CO-ING-6-2026-W05-numbers-colors-005-v1`
 **Bloom:** Apply
 **ICFES:** Pragmatic Competence
-**Expected_Success:** 0.74
+**Expected_Success:** 0.81
 **Contexto:** A student buying paint at a shop in Bogotá.
 
 ### Enunciado
@@ -139,7 +139,7 @@ Asking for something in a real shop is the kind of task Grade 6 students are exp
 **ID:** `CO-ING-6-2026-W05-numbers-colors-006-v1`
 **Bloom:** Apply
 **ICFES:** Reading Comprehension
-**Expected_Success:** 0.72
+**Expected_Success:** 0.80
 **Contexto:** Counting the students of one course in a Colombian school.
 
 ### Enunciado
@@ -156,12 +156,12 @@ Working out how many of a total are left over is the everyday arithmetic that at
 
 ---
 
-## Question 7 [D4-D5]
+## Question 7 [D4]
 
 **ID:** `CO-ING-6-2026-W05-numbers-colors-007-v1`
 **Bloom:** Apply
 **ICFES:** Grammatical Knowledge
-**Expected_Success:** 0.70
+**Expected_Success:** 0.79
 **Contexto:** Describing the objects in a simple drawing made in class.
 
 ### Enunciado
@@ -178,12 +178,12 @@ Counting sentences of this shape open the work on plurals that the whole course 
 
 ---
 
-## Question 8 [D4-D5]
+## Question 8 [D4]
 
 **ID:** `CO-ING-6-2026-W05-numbers-colors-008-v1`
 **Bloom:** Analyze
 **ICFES:** Reading Comprehension
-**Expected_Success:** 0.67
+**Expected_Success:** 0.77
 **Contexto:** A survey of favourite colours carried out by a Grade 6 class.
 
 ### Enunciado
@@ -200,12 +200,12 @@ Reading a simple data set and ranking the values is the comprehension move that 
 
 ---
 
-## Question 9 [D5]
+## Question 9 [D4]
 
 **ID:** `CO-ING-6-2026-W05-numbers-colors-009-v1`
 **Bloom:** Analyze
 **ICFES:** Lexical Knowledge
-**Expected_Success:** 0.64
+**Expected_Success:** 0.74
 **Contexto:** Four students writing number names in words for a class exercise.
 
 ### Enunciado
@@ -222,12 +222,12 @@ Writing numbers in words is where the structure of a number becomes visible, and
 
 ---
 
-## Question 10 [D5]
+## Question 10 [D4]
 
 **ID:** `CO-ING-6-2026-W05-numbers-colors-010-v1`
 **Bloom:** Evaluate
 **ICFES:** Pragmatic Competence
-**Expected_Success:** 0.60
+**Expected_Success:** 0.70
 **Contexto:** Deciding how many packs of notebooks to buy for a school term.
 
 ### Enunciado

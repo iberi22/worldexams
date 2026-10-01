@@ -27,7 +27,7 @@ creador: "Jules-Agent"
 **ID:** CO-ING-6-2026-W27-sports-001-v1
 **Bloom:** Remember
 **ICFES:** Lexical Knowledge
-**Expected_Success:** 0.82
+**Expected_Success:** 0.85
 **Contexto:** Matching a sport to the equipment it needs.
 
 ### Enunciado
@@ -47,7 +47,7 @@ The correct answer is "a racket". Pairing a sport with the equipment it needs is
 **ID:** CO-ING-6-2026-W27-sports-002-v1
 **Bloom:** Remember
 **ICFES:** Grammatical Knowledge
-**Expected_Success:** 0.80
+**Expected_Success:** 0.84
 **Contexto:** Choosing the correct article with a piece of sports equipment.
 
 ### Enunciado
@@ -67,7 +67,7 @@ The correct answer is "She plays with a racket every Saturday". Articles on coun
 **ID:** CO-ING-6-2026-W27-sports-003-v1
 **Bloom:** Understand
 **ICFES:** Reading Comprehension
-**Expected_Success:** 0.78
+**Expected_Success:** 0.83
 **Contexto:** Reading a short text about a school sports day.
 
 ### Enunciado
@@ -82,12 +82,12 @@ Read: "In the 400 metres, runners run around the track. The winner is the first 
 ### Explicación Pedagógica
 The correct answer is "A race over a distance of 400 metres". The text never uses the word race, so the student has to build the definition from the two facts given, the distance and the finishing line. Assembling a meaning from separate pieces of a text rather than looking for a single keyword is the comprehension move that the exam's longer items depend on.
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 
 **ID:** CO-ING-6-2026-W27-sports-004-v1
 **Bloom:** Apply
 **ICFES:** Grammatical Knowledge
-**Expected_Success:** 0.76
+**Expected_Success:** 0.82
 **Contexto:** Using the present simple to talk about a regular sporting activity.
 
 ### Enunciado
@@ -107,7 +107,7 @@ The correct answer is "She plays football on Mondays". Talking about when a spor
 **ID:** CO-ING-6-2026-W27-sports-005-v1
 **Bloom:** Apply
 **ICFES:** Lexical Knowledge
-**Expected_Success:** 0.74
+**Expected_Success:** 0.81
 **Contexto:** Choosing the word for the people who take part in a sport.
 
 ### Enunciado
@@ -127,7 +127,7 @@ The correct answer is "players". A school sports unit brings four groups of peop
 **ID:** CO-ING-6-2026-W27-sports-006-v1
 **Bloom:** Apply
 **ICFES:** Pragmatic Competence
-**Expected_Success:** 0.72
+**Expected_Success:** 0.80
 **Contexto:** Supporting a friend who has lost a match.
 
 ### Enunciado
@@ -142,12 +142,12 @@ A friend just lost a football match. Which response is most appropriate?
 ### Explicación Pedagógica
 The correct answer is "That's a pity! You played well and you should try again next week". Reacting appropriately to bad news is a language task as well as a social one, and the useful response combines recognition of the feeling, a specific comment and an encouragement. Each distractor fails in a different way, by dismissing, insulting or ignoring, so the item measures judgement about what a response should do.
 
-## Question 7 [D4-D5]
+## Question 7 [D4]
 
 **ID:** CO-ING-6-2026-W27-sports-007-v1
 **Bloom:** Apply
 **ICFES:** Grammatical Knowledge
-**Expected_Success:** 0.70
+**Expected_Success:** 0.79
 **Contexto:** Using can or cannot to talk about ability in a sport.
 
 ### Enunciado
@@ -162,12 +162,12 @@ Which sentence says that a student is not able to swim?
 ### Explicación Pedagógica
 The correct answer is "She can't swim". Ability in English belongs to the modal can, which has its own negative form and takes no auxiliary do or does, and that is the part students get wrong. Fixing the modal pattern here means they can describe what they and others can and cannot do in any sport without falling back on a main verb.
 
-## Question 8 [D4-D5]
+## Question 8 [D4]
 
 **ID:** CO-ING-6-2026-W27-sports-008-v1
 **Bloom:** Analyze
 **ICFES:** Reading Comprehension
-**Expected_Success:** 0.68
+**Expected_Success:** 0.77
 **Contexto:** Working out the result of a sports day from a short text.
 
 ### Enunciado
@@ -182,12 +182,12 @@ Read: "In the high jump, Valentina cleared 1.60 metres. Juliana cleared 1.70 met
 ### Explicación Pedagógica
 The correct answer is "Juliana, because she cleared a higher height". Comparing two measurements and knowing which direction counts as better in the event is a real sport-specific skill, and the direction of comparison is different depending on the sport. Recognising that a high jump rewards more height while a race rewards less time is the kind of detail that makes sports texts genuinely readable.
 
-## Question 9 [D5]
+## Question 9 [D4]
 
 **ID:** CO-ING-6-2026-W27-sports-009-v1
 **Bloom:** Analyze
 **ICFES:** Grammatical Knowledge
-**Expected_Success:** 0.65
+**Expected_Success:** 0.74
 **Contexto:** Finding the error in a sentence about playing a sport.
 
 ### Enunciado
@@ -202,12 +202,12 @@ A student writes: "Yesterday I play football with my friends." What is the probl
 ### Explicación Pedagógica
 The correct answer is "The verb is in the present simple for a past event". The time marker yesterday is the only clue needed, and the sentence fails because the verb does not match it, which is a clean single-fault item. Recognising that a time marker dictates the verb form is the mechanism behind almost every tense error in English, so it is worth isolating on its own.
 
-## Question 10 [D5]
+## Question 10 [D4]
 
 **ID:** CO-ING-6-2026-W27-sports-010-v1
 **Bloom:** Evaluate
 **ICFES:** Pragmatic Competence
-**Expected_Success:** 0.62
+**Expected_Success:** 0.70
 **Contexto:** Choosing the best way to report the result of a school match.
 
 ### Enunciado

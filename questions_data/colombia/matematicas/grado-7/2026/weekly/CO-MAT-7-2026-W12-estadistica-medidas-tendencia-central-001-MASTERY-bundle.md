@@ -99,7 +99,7 @@ Se suman los datos ($28$) y se dividen entre la cantidad de datos ($4$): media $
 - [ ] B) $2$
   <!-- feedback: Incorrecto. Aparece una sola vez. -->
 - [ ] D) $7$
-  <!-- feedback: Incorrecto. Aparece una sola vez. -->
+  <!-- feedback: Incorrecto. Es el dato más alto de la serie, pero es el máximo y no la moda. -->
 ### Explicacion Pedagogica
 La moda es el dato con mayor frecuencia. El $5$ se repite $3$ veces y es la moda.
 

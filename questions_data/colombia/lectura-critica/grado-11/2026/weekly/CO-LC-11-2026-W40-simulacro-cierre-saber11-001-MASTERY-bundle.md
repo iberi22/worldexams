@@ -267,9 +267,9 @@ Dos columnas que defienden posturas opuestas sobre el sistema de salud comparten
 ### Opciones
 - [x] A) Apelar a datos oficiales y a la experiencia cotidiana de los usuarios.
   <!-- feedback: Comparten fuentes de legitimación. -->
-- [ ] B] Omitir todo dato verificable.
+- [ ] B) Omitir todo dato verificable.
   <!-- feedback: Lo comparten. -->
-- [ ] C] Evitar el lenguaje claro.
+- [ ] C) Evitar el lenguaje claro.
   <!-- feedback: Buscan claridad. -->
 - [ ] D) Escribir sin público objetivo.
   <!-- feedback: Tienen audiencia. -->
@@ -317,7 +317,7 @@ En una columna política, decir "elogiamos al gobierno por su transparencia, sob
   <!-- feedback: Es crítica. -->
 - [ ] C) Una descripción neutral.
   <!-- feedback: Hay juicio. -->
-- [ ] D] Un dato estadístico.
+- [ ] D) Un dato estadístico.
   <!-- feedback: Es opinión irónica. -->
 
 ### Explicacion Pedagogica

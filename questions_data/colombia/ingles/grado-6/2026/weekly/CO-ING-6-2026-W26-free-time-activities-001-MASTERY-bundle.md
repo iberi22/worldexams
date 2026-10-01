@@ -27,7 +27,7 @@ creador: "Jules-Agent"
 **ID:** CO-ING-6-2026-W26-free-time-activities-001-v1
 **Bloom:** Remember
 **ICFES:** Lexical Knowledge
-**Expected_Success:** 0.82
+**Expected_Success:** 0.85
 **Contexto:** Choosing the activity that matches a student's free time.
 
 ### Enunciado
@@ -47,7 +47,7 @@ The correct answer is "playing chess". A hobby is by definition something a pers
 **ID:** CO-ING-6-2026-W26-free-time-activities-002-v1
 **Bloom:** Remember
 **ICFES:** Grammatical Knowledge
-**Expected_Success:** 0.80
+**Expected_Success:** 0.84
 **Contexto:** Choosing the preposition for a free-time activity with a time expression.
 
 ### Enunciado
@@ -67,7 +67,7 @@ The correct answer is "She plays football in the afternoon". Time expressions ha
 **ID:** CO-ING-6-2026-W26-free-time-activities-003-v1
 **Bloom:** Understand
 **ICFES:** Reading Comprehension
-**Expected_Success:** 0.78
+**Expected_Success:** 0.83
 **Contexto:** Reading a short text about how two students spend their free time.
 
 ### Enunciado
@@ -82,12 +82,12 @@ Read: "On weekends, Andrés goes to the football club. His sister María stays a
 ### Explicación Pedagógica
 The correct answer is "She reads at home". Two activities in one short text, one per person, make the student resolve the reference before answering, which is the standard reading trap. The distractors include Andrés's activity and two plausible inventions, so the item separates careful reading from filling in what seems likely.
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 
 **ID:** CO-ING-6-2026-W26-free-time-activities-004-v1
 **Bloom:** Apply
 **ICFES:** Grammatical Knowledge
-**Expected_Success:** 0.76
+**Expected_Success:** 0.82
 **Contexto:** Using the verb to like with a free-time activity.
 
 ### Enunciado
@@ -107,7 +107,7 @@ The correct answer is "She likes playing guitar". The verb to like takes the ger
 **ID:** CO-ING-6-2026-W26-free-time-activities-005-v1
 **Bloom:** Apply
 **ICFES:** Lexical Knowledge
-**Expected_Success:** 0.74
+**Expected_Success:** 0.81
 **Contexto:** Choosing the verb that goes with a particular free-time activity.
 
 ### Enunciado
@@ -127,7 +127,7 @@ The correct answer is "take". Some activities have a fixed verb in English that 
 **ID:** CO-ING-6-2026-W26-free-time-activities-006-v1
 **Bloom:** Apply
 **ICFES:** Pragmatic Competence
-**Expected_Success:** 0.72
+**Expected_Success:** 0.80
 **Contexto:** Answering a question about free-time plans with a friend.
 
 ### Enunciado
@@ -142,12 +142,12 @@ A friend asks: "What do you usually do after school?" Which answer is the most n
 ### Explicación Pedagógica
 The correct answer is "I usually play basketball with my friends". A good answer to what do you usually do needs the adverb that signals a routine, plus an activity that belongs to the speaker personally. The three distractors each fail the question in a different way, by reporting the present, the activity in general or a past event, which makes the choice a genuine test of what the question requires.
 
-## Question 7 [D4-D5]
+## Question 7 [D4]
 
 **ID:** CO-ING-6-2026-W26-free-time-activities-007-v1
 **Bloom:** Apply
 **ICFES:** Grammatical Knowledge
-**Expected_Success:** 0.70
+**Expected_Success:** 0.79
 **Contexto:** Using the present simple for a hobby that is a fact rather than a plan.
 
 ### Enunciado
@@ -162,12 +162,12 @@ Which sentence correctly describes what a student does on Saturdays?
 ### Explicación Pedagógica
 The correct answer is "Every Saturday she swims at the pool". Every plus a day name fixes the present simple, and the other three options each substitute a tense that does not fit a settled routine. Students often reach for a future or continuous form because English allows them elsewhere, so seeing why each is wrong in this particular sentence matters more than remembering the rule by heart.
 
-## Question 8 [D4-D5]
+## Question 8 [D4]
 
 **ID:** CO-ING-6-2026-W26-free-time-activities-008-v1
 **Bloom:** Analyze
 **ICFES:** Reading Comprehension
-**Expected_Success:** 0.68
+**Expected_Success:** 0.77
 **Contexto:** Checking what a text says about two hobbies.
 
 ### Enunciado
@@ -182,12 +182,12 @@ Read: "Julia paints. She also plays the guitar, but she doesn't play the drums."
 ### Explicación Pedagógica
 The correct answer is "She plays the guitar". The text contains a positive and a negative about the same category, and reading a negative alongside a positive is exactly where students misread. Attributing the correct activities to the correct person, and noticing what the sentence rules out, is the analytical work the exam rewards in its longer reading items.
 
-## Question 9 [D5]
+## Question 9 [D4]
 
 **ID:** CO-ING-6-2026-W26-free-time-activities-009-v1
 **Bloom:** Analyze
 **ICFES:** Grammatical Knowledge
-**Expected_Success:** 0.65
+**Expected_Success:** 0.74
 **Contexto:** Finding the error in a sentence about a hobby.
 
 ### Enunciado
@@ -202,12 +202,12 @@ A student writes: "My brother like playing video games in his free time." What i
 ### Explicación Pedagógica
 The correct answer is "The verb does not agree with the subject". Everything in the sentence is correct except the verb form, and the three distractors name plausible-sounding faults that are not present. Isolating the one real error among several things that merely look unusual is the checking skill that separates a student who writes accurately from one who guesses.
 
-## Question 10 [D5]
+## Question 10 [D4]
 
 **ID:** CO-ING-6-2026-W26-free-time-activities-010-v1
 **Bloom:** Evaluate
 **ICFES:** Pragmatic Competence
-**Expected_Success:** 0.62
+**Expected_Success:** 0.70
 **Contexto:** Choosing the best way to present a hobby to the class.
 
 ### Enunciado

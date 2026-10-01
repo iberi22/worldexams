@@ -27,7 +27,7 @@ creador: "Jules-Agent"
 **ID:** CO-ING-6-2026-W10-p1-final-review-001-v1
 **Bloom:** Remember
 **ICFES:** Lexical Knowledge
-**Expected_Success:** 0.82
+**Expected_Success:** 0.85
 **Contexto:** Choosing a greeting at a fixed time of day in Bogotá.
 
 ### Enunciado
@@ -47,7 +47,7 @@ The correct answer is Good morning. Greetings and the verb to be are the spine o
 **ID:** CO-ING-6-2026-W10-p1-final-review-002-v1
 **Bloom:** Remember
 **ICFES:** Grammatical Knowledge
-**Expected_Success:** 0.80
+**Expected_Success:** 0.84
 **Contexto:** Answering a question about nationality with the verb to be.
 
 ### Enunciado
@@ -67,7 +67,7 @@ The correct answer is am. The present simple of to be is the first piece of gram
 **ID:** CO-ING-6-2026-W10-p1-final-review-003-v1
 **Bloom:** Understand
 **ICFES:** Reading Comprehension
-**Expected_Success:** 0.78
+**Expected_Success:** 0.83
 **Contexto:** Reading a classroom inventory list.
 
 ### Enunciado
@@ -82,12 +82,12 @@ Read the list: "3 pencils, 1 board, 12 chairs, 2 windows". How many chairs are t
 ### Explicación Pedagógica
 The correct answer is 12. Reading a short inventory and binding each number to the item it modifies is the comprehension move the first period builds towards. Classroom inventories are exactly the texts Grade 6 Colombian students meet in science and maths, so this reading doubles as a cross-subject skill with no extra content vocabulary to learn first.
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 
 **ID:** CO-ING-6-2026-W10-p1-final-review-004-v1
 **Bloom:** Understand
 **ICFES:** Lexical Knowledge
-**Expected_Success:** 0.76
+**Expected_Success:** 0.82
 **Contexto:** Identifying the object a student points to in class.
 
 ### Enunciado
@@ -107,7 +107,7 @@ The correct answer is the board. Classroom vocabulary is the second-week content
 **ID:** CO-ING-6-2026-W10-p1-final-review-005-v1
 **Bloom:** Apply
 **ICFES:** Grammatical Knowledge
-**Expected_Success:** 0.74
+**Expected_Success:** 0.81
 **Contexto:** Describing where a student is sitting with a preposition of place.
 
 ### Enunciado
@@ -127,7 +127,7 @@ The correct answer is in the classroom. Prepositions of place are where Spanish 
 **ID:** CO-ING-6-2026-W10-p1-final-review-006-v1
 **Bloom:** Apply
 **ICFES:** Grammatical Knowledge
-**Expected_Success:** 0.72
+**Expected_Success:** 0.80
 **Contexto:** Using the articles a and an correctly with two school objects.
 
 ### Enunciado
@@ -142,12 +142,12 @@ You want to say that you have a ruler and an eraser. Which sentence is right?
 ### Explicación Pedagógica
 The correct answer is I have a ruler and an eraser. Articles are a genuine blocker for Grade 6 writers, and the vowel/consonant rule is the part they most often get wrong by looking at the spelling instead of the sound. Using two objects from their own pencil case makes the choice matter, and the same rule governs an hour and a university, where the exceptions surface later in the year.
 
-## Question 7 [D4-D5]
+## Question 7 [D4]
 
 **ID:** CO-ING-6-2026-W10-p1-final-review-007-v1
 **Bloom:** Apply
 **ICFES:** Lexical Knowledge
-**Expected_Success:** 0.70
+**Expected_Success:** 0.79
 **Contexto:** Pairing a colour with the school object it usually belongs to.
 
 ### Enunciado
@@ -162,12 +162,12 @@ Which of these names a school object that is normally purple?
 ### Explicación Pedagógica
 The correct answer is a binder. Colours are first-period vocabulary that students meet without ever being taught a system for them, and pairing a colour with the object it usually belongs to is how the word becomes useful. Anchoring a colour to a concrete school item also prepares the descriptive work of the second period, where physical appearance is written in full sentences.
 
-## Question 8 [D4-D5]
+## Question 8 [D4]
 
 **ID:** CO-ING-6-2026-W10-p1-final-review-008-v1
 **Bloom:** Analyze
 **ICFES:** Reading Comprehension
-**Expected_Success:** 0.67
+**Expected_Success:** 0.77
 **Contexto:** Comparing two lines of a school timetable.
 
 ### Enunciado
@@ -182,12 +182,12 @@ Read: "On Mondays we have math, English, science and art. On Wednesdays we have 
 ### Explicación Pedagógica
 The correct answer is math. Comparing two short lists and finding what they have in common is the core comprehension skill, and it is exactly what a student does when a teacher announces a schedule change. Doing it in English with subjects the student already knows removes the content barrier, so all the effort goes into the reading operation itself.
 
-## Question 9 [D5]
+## Question 9 [D4]
 
 **ID:** CO-ING-6-2026-W10-p1-final-review-009-v1
 **Bloom:** Evaluate
 **ICFES:** Pragmatic Competence
-**Expected_Success:** 0.64
+**Expected_Success:** 0.74
 **Contexto:** Judging a student's answer to a question from a teacher.
 
 ### Enunciado
@@ -202,12 +202,12 @@ The teacher asks: "How many students are there in your course?" A student answer
 ### Explicación Pedagógica
 The correct answer is that it does not answer the question that was asked. Answering the question rather than talking near it is something exams test constantly and that students consistently underestimate. Showing that a second, entirely grammatical clause can still be a wrong answer teaches relevance as part of correctness, which is a distinction most Grade 6 materials never draw explicitly.
 
-## Question 10 [D5]
+## Question 10 [D4]
 
 **ID:** CO-ING-6-2026-W10-p1-final-review-010-v1
 **Bloom:** Evaluate
 **ICFES:** Grammatical Knowledge
-**Expected_Success:** 0.61
+**Expected_Success:** 0.70
 **Contexto:** Judging which correction a student should make to a nearly correct sentence.
 
 ### Enunciado

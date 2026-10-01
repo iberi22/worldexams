@@ -27,7 +27,7 @@ creador: "Jules-Agent"
 **ID:** CO-ING-6-2026-W30-p3-final-review-001-v1
 **Bloom:** Remember
 **ICFES:** Grammatical Knowledge
-**Expected_Success:** 0.82
+**Expected_Success:** 0.85
 **Contexto:** Reviewing the verb to be with the third person singular.
 
 ### Enunciado
@@ -47,7 +47,7 @@ The correct answer is "is". The agreement of the verb to be is the foundation th
 **ID:** CO-ING-6-2026-W30-p3-final-review-002-v1
 **Bloom:** Remember
 **ICFES:** Lexical Knowledge
-**Expected_Success:** 0.80
+**Expected_Success:** 0.84
 **Contexto:** Reviewing time expressions used in a daily routine.
 
 ### Enunciado
@@ -67,7 +67,7 @@ The correct answer is "in the morning". Time expressions are the vocabulary the 
 **ID:** CO-ING-6-2026-W30-p3-final-review-003-v1
 **Bloom:** Understand
 **ICFES:** Reading Comprehension
-**Expected_Success:** 0.78
+**Expected_Success:** 0.83
 **Contexto:** Reading a short text about a student's daily routine.
 
 ### Enunciado
@@ -82,12 +82,12 @@ Read: "Every day Camila gets up at six, goes to school at seven and does her hom
 ### Explicación Pedagógica
 The correct answer is "At night". A routine text presents several activities in order, and finding the one that matches the question means holding the whole sequence in mind. Students who skim for the first time they recognise will pick six or seven, so the item trains the habit of reading the whole text before answering, which the exam rewards heavily.
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 
 **ID:** CO-ING-6-2026-W30-p3-final-review-004-v1
 **Bloom:** Apply
 **ICFES:** Grammatical Knowledge
-**Expected_Success:** 0.76
+**Expected_Success:** 0.82
 **Contexto:** Using an adverb of frequency with a daily routine verb.
 
 ### Enunciado
@@ -107,7 +107,7 @@ The correct answer is "She always has breakfast at seven". Combining the frequen
 **ID:** CO-ING-6-2026-W30-p3-final-review-005-v1
 **Bloom:** Apply
 **ICFES:** Lexical Knowledge
-**Expected_Success:** 0.74
+**Expected_Success:** 0.81
 **Contexto:** Choosing the activity that belongs to a student's free time.
 
 ### Enunciado
@@ -127,7 +127,7 @@ The correct answer is "playing video games". A free-time activity is something a
 **ID:** CO-ING-6-2026-W30-p3-final-review-006-v1
 **Bloom:** Apply
 **ICFES:** Grammatical Knowledge
-**Expected_Success:** 0.72
+**Expected_Success:** 0.80
 **Contexto:** Saying what time it is with the verb to be.
 
 ### Enunciado
@@ -142,12 +142,12 @@ Which sentence correctly asks what time it is?
 ### Explicación Pedagógica
 The correct answer is "What time is it?". The fixed question for the time of day is worth learning as a whole phrase rather than assembled from parts, because students who build it word by word reliably produce what hour or how time. It is a short item, but the phrase is used constantly in the classroom and it is the doorway to the rest of the time material.
 
-## Question 7 [D4-D5]
+## Question 7 [D4]
 
 **ID:** CO-ING-6-2026-W30-p3-final-review-007-v1
 **Bloom:** Apply
 **ICFES:** Pragmatic Competence
-**Expected_Success:** 0.70
+**Expected_Success:** 0.79
 **Contexto:** Describing a classmate's routine to someone who has not met her.
 
 ### Enunciado
@@ -162,12 +162,12 @@ You want to tell a new student about your classmate. Which description is most u
 ### Explicación Pedagógica
 The correct answer is the one with three specific times and activities. A useful description of a routine has to give the listener information they could repeat, and the three distractors each substitute a general statement for real detail. Choosing specifics over generalities is the same judgement the exam applies to written descriptions, so it is worth establishing here.
 
-## Question 8 [D4-D5]
+## Question 8 [D4]
 
 **ID:** CO-ING-6-2026-W30-p3-final-review-008-v1
 **Bloom:** Analyze
 **ICFES:** Reading Comprehension
-**Expected_Success:** 0.68
+**Expected_Success:** 0.77
 **Contexto:** Comparing the routines of two students from a short text.
 
 ### Enunciado
@@ -182,12 +182,12 @@ Read: "A: I walk to school and it takes me 15 minutes. B: I take the bus and it 
 ### Explicación Pedagógica
 The correct answer is "The bus takes longer than walking". Two numbers in one text have to be matched to the right means of transport before they can be compared, and swapping them is the classic error. Reading which figure belongs to which subject is the same care needed everywhere in the exam, and it costs nothing to practise deliberately.
 
-## Question 9 [D5]
+## Question 9 [D4]
 
 **ID:** CO-ING-6-2026-W30-p3-final-review-009-v1
 **Bloom:** Analyze
 **ICFES:** Grammatical Knowledge
-**Expected_Success:** 0.65
+**Expected_Success:** 0.74
 **Contexto:** Finding the error in a sentence about a student's routine.
 
 ### Enunciado
@@ -202,12 +202,12 @@ A student writes: "My sister get up at five every morning." What is the problem?
 ### Explicación Pedagógica
 The correct answer is "The verb is not in the third person singular". The only defect is the missing -s on get, and the three distractors each propose a fault that is not present. The third person -s is the single most frequent error in Grade 6 English, so isolating it in a sentence where everything else is right is the most useful way to make the student notice it in their own writing.
 
-## Question 10 [D5]
+## Question 10 [D4]
 
 **ID:** CO-ING-6-2026-W30-p3-final-review-010-v1
 **Bloom:** Evaluate
 **ICFES:** Pragmatic Competence
-**Expected_Success:** 0.62
+**Expected_Success:** 0.70
 **Contexto:** Deciding which of two plans is realistic for a student's free time.
 
 ### Enunciado

@@ -25,7 +25,7 @@ This bundle focuses on reading and writing about past lives and biographies, usi
 
 ---
 
-## Question 1 [D3-D4]
+## Question 1 [D3]
 **ID:** CO-ING-7-2026-W19-biographies-stories-001-v1
 **Bloom:** Remember
 **ICFES:** Lexical Knowledge
@@ -50,11 +50,11 @@ The correct answer is "Was born". A Grade 7 student writing a biography has to k
 
 ---
 
-## Question 2 [D3-D4]
+## Question 2 [D3]
 **ID:** CO-ING-7-2026-W19-biographies-stories-002-v1
 **Bloom:** Remember
 **ICFES:** Grammatical Knowledge
-**Expected_Success:** 0.80
+**Expected_Success:** 0.84
 **Contexto:** Describing a past educational achievement.
 
 ### Enunciado
@@ -75,11 +75,11 @@ The correct answer is "went". Irregular verbs are the first real obstacle a Grad
 
 ---
 
-## Question 3 [D5-D6]
+## Question 3 [D3-D4]
 **ID:** CO-ING-7-2026-W19-biographies-stories-003-v1
 **Bloom:** Understand
 **ICFES:** Pragmatic Matching
-**Expected_Success:** 0.75
+**Expected_Success:** 0.83
 **Contexto:** Matching a life event with its likely date.
 
 ### Enunciado
@@ -100,11 +100,11 @@ The correct answer is "in 2012". Dating an event is the hinge of every biographi
 
 ---
 
-## Question 4 [D5-D6]
+## Question 4 [D3-D4]
 **ID:** CO-ING-7-2026-W19-biographies-stories-004-v1
 **Bloom:** Understand
 **ICFES:** Lexico-grammatical Knowledge
-**Expected_Success:** 0.75
+**Expected_Success:** 0.82
 **Contexto:** Expressing the end of a career or life.
 
 ### Enunciado
@@ -125,11 +125,11 @@ The correct answer is "died". A finished life in a dated year requires the past 
 
 ---
 
-## Question 5 [D5-D6]
+## Question 5 [D4]
 **ID:** CO-ING-7-2026-W19-biographies-stories-005-v1
 **Bloom:** Apply
 **ICFES:** Grammatical Knowledge
-**Expected_Success:** 0.70
+**Expected_Success:** 0.81
 **Contexto:** Describing a simultaneous action in a person's life.
 
 ### Enunciado
@@ -150,11 +150,11 @@ The correct answer is "was living / wrote". The past continuous describes a back
 
 ---
 
-## Question 6 [D7-D8]
+## Question 6 [D4]
 **ID:** CO-ING-7-2026-W19-biographies-stories-006-v1
 **Bloom:** Apply
 **ICFES:** Reading Comprehension
-**Expected_Success:** 0.65
+**Expected_Success:** 0.80
 **Contexto:** A short biography of a fictional scientist.
 "Dr. Smith was born in London. He moved to Bogotá in 2005. He worked at a university for ten years. Finally, he started his own laboratory in 2016."
 
@@ -176,11 +176,11 @@ The correct answer is "In 2005". Locating a specific date inside a short biograp
 
 ---
 
-## Question 7 [D7-D8]
+## Question 7 [D4]
 **ID:** CO-ING-7-2026-W19-biographies-stories-007-v1
 **Bloom:** Apply
 **ICFES:** Lexico-grammatical Knowledge
-**Expected_Success:** 0.65
+**Expected_Success:** 0.79
 **Contexto:** Describing education in the past.
 
 ### Enunciado
@@ -201,11 +201,11 @@ The correct answer is "graduated". Biographies turn on a small set of milestone 
 
 ---
 
-## Question 8 [D7-D8]
+## Question 8 [D4]
 **ID:** CO-ING-7-2026-W19-biographies-stories-008-v1
 **Bloom:** Analyze
 **ICFES:** Reading Comprehension
-**Expected_Success:** 0.60
+**Expected_Success:** 0.77
 **Contexto:** Analyzing the impact of a life event.
 "The artist lost his sight when he was 20. However, he didn't stop painting. He used his other senses to create unique masterpieces."
 
@@ -227,11 +227,11 @@ The correct answer is the one about continuing to paint after losing his sight. 
 
 ---
 
-## Question 9 [D9-D10]
+## Question 9 [D4]
 **ID:** CO-ING-7-2026-W19-biographies-stories-009-v1
 **Bloom:** Analyze
 **ICFES:** Grammatical Knowledge
-**Expected_Success:** 0.55
+**Expected_Success:** 0.74
 **Contexto:** Choosing the correct structure for a past narrative.
 
 ### Enunciado
@@ -252,11 +252,11 @@ The correct answer is "In 2010, he started his first business; he was only 18 ye
 
 ---
 
-## Question 10 [D9-D10]
+## Question 10 [D4]
 **ID:** CO-ING-7-2026-W19-biographies-stories-010-v1
 **Bloom:** Evaluate
 **ICFES:** Reading Comprehension
-**Expected_Success:** 0.50
+**Expected_Success:** 0.70
 **Contexto:** Evaluating the structure of a biography.
 "1. Fernando Botero was born in Medellín in 1932. 2. He studied at the Academy of San Fernando in Madrid. 3. His style, 'Boterismo', became famous for its large figures. 4. He is one of the most recognized Colombian artists in history."
 

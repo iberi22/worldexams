@@ -27,7 +27,7 @@ creador: "Jules-Agent"
 **ID:** CO-ING-6-2026-W18-furniture-001-v1
 **Bloom:** Remember
 **ICFES:** Lexical Knowledge
-**Expected_Success:** 0.82
+**Expected_Success:** 0.85
 **Contexto:** Naming the piece of furniture a person sleeps on.
 
 ### Enunciado
@@ -47,7 +47,7 @@ The correct answer is "the bed". Furniture is the vocabulary of the space a fami
 **ID:** CO-ING-6-2026-W18-furniture-002-v1
 **Bloom:** Remember
 **ICFES:** Grammatical Knowledge
-**Expected_Success:** 0.80
+**Expected_Success:** 0.84
 **Contexto:** Using the indefinite article with a piece of furniture.
 
 ### Enunciado
@@ -67,7 +67,7 @@ The correct answer is "There is a sofa in the living room". Articles on furnitur
 **ID:** CO-ING-6-2026-W18-furniture-003-v1
 **Bloom:** Understand
 **ICFES:** Reading Comprehension
-**Expected_Success:** 0.78
+**Expected_Success:** 0.83
 **Contexto:** Locating a piece of furniture from a short description of a room.
 
 ### Enunciado
@@ -82,12 +82,12 @@ Read: "There is a fridge in the kitchen and a lamp next to the bed." Where is th
 ### Explicación Pedagógica
 The correct answer is "Next to the bed". A phrase such as next to describes a relation between two objects rather than a named place, and recognising that a description can locate something by its neighbour is a useful reading skill. The distractors include a real location from the text and two invented ones, so the student has to track which object each one belongs to.
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 
 **ID:** CO-ING-6-2026-W18-furniture-004-v1
 **Bloom:** Apply
 **ICFES:** Grammatical Knowledge
-**Expected_Success:** 0.76
+**Expected_Success:** 0.82
 **Contexto:** Using there are with a plural piece of furniture.
 
 ### Enunciado
@@ -107,7 +107,7 @@ The correct answer is "There are six chairs around the table". Three separate ag
 **ID:** CO-ING-6-2026-W18-furniture-005-v1
 **Bloom:** Apply
 **ICFES:** Lexical Knowledge
-**Expected_Success:** 0.74
+**Expected_Success:** 0.81
 **Contexto:** Distinguishing a household appliance from a piece of furniture.
 
 ### Enunciado
@@ -127,7 +127,7 @@ The correct answer is "the microwave". The word appliance in English covers a sp
 **ID:** CO-ING-6-2026-W18-furniture-006-v1
 **Bloom:** Apply
 **ICFES:** Pragmatic Competence
-**Expected_Success:** 0.72
+**Expected_Success:** 0.80
 **Contexto:** Asking a shop assistant about an item in a furniture store.
 
 ### Enunciado
@@ -142,12 +142,12 @@ You are buying a bookcase and you want to know its price. What do you say?
 ### Explicación Pedagógica
 The correct answer is "How much is this bookcase?" Buying something in English means knowing which question word buys the information you need, and how much for a price is the pair students meet in every shop in every English-speaking country. Getting this wrong in a real transaction is immediately obvious, which makes it a good item to practise producing rather than merely recognising.
 
-## Question 7 [D4-D5]
+## Question 7 [D4]
 
 **ID:** CO-ING-6-2026-W18-furniture-007-v1
 **Bloom:** Apply
 **ICFES:** Grammatical Knowledge
-**Expected_Success:** 0.70
+**Expected_Success:** 0.79
 **Contexto:** Using a possessive to say who a piece of furniture belongs to.
 
 ### Enunciado
@@ -162,12 +162,12 @@ Complete the sentence: "This is ________ desk. I bought it for my office."
 ### Explicación Pedagógica
 The correct answer is "my". The four options are the four things students reach for when they need a possessive, and telling a possessive adjective from a subject pronoun, an object pronoun and a standalone pronoun is the core distinction. Furniture is a good context for it because ownership genuinely varies from item to item in a shared home, so the possessive carries real meaning rather than being decoration.
 
-## Question 8 [D4-D5]
+## Question 8 [D4]
 
 **ID:** CO-ING-6-2026-W18-furniture-008-v1
 **Bloom:** Analyze
 **ICFES:** Reading Comprehension
-**Expected_Success:** 0.68
+**Expected_Success:** 0.77
 **Contexto:** Identifying which description of a room is internally consistent.
 
 ### Enunciado
@@ -182,12 +182,12 @@ Read: "The bedroom is small but comfortable. There is a bed, a small table and a
 ### Explicación Pedagógica
 The correct answer is "It is small and it contains a bed and a table". Combining the evaluative adjective small with the list of objects is a two-part comprehension task, and the but in the text shows that small and comfortable are not in conflict, which is the point students most often miss. Keeping the two kinds of information from a description separate is what lets a student answer questions about a text without guessing.
 
-## Question 9 [D5]
+## Question 9 [D4]
 
 **ID:** CO-ING-6-2026-W18-furniture-009-v1
 **Bloom:** Analyze
 **ICFES:** Grammatical Knowledge
-**Expected_Success:** 0.65
+**Expected_Success:** 0.74
 **Contexto:** Finding the error in a sentence about furniture.
 
 ### Enunciado
@@ -202,12 +202,12 @@ A student writes: "There is a two chairs in the dining room." What is the proble
 ### Explicación Pedagógica
 The correct answer is "The noun is singular after a number above one". The sentence has the right existential structure, the right article and the right noun, and the single fault is the plural marking, which makes it a clean example of an error that is easy to locate and easy to repair. Being able to isolate one fault in an otherwise correct sentence is what lets a student fix their own writing.
 
-## Question 10 [D5]
+## Question 10 [D4]
 
 **ID:** CO-ING-6-2026-W18-furniture-010-v1
 **Bloom:** Evaluate
 **ICFES:** Pragmatic Competence
-**Expected_Success:** 0.62
+**Expected_Success:** 0.70
 **Contexto:** Choosing the best description of a bedroom for a school project.
 
 ### Enunciado

@@ -27,7 +27,7 @@ creador: "Jules-Agent"
 **ID:** CO-ING-6-2026-W25-frequency-adverbs-001-v1
 **Bloom:** Remember
 **ICFES:** Lexical Knowledge
-**Expected_Success:** 0.82
+**Expected_Success:** 0.85
 **Contexto:** Choosing the adverb that describes an action done every day.
 
 ### Enunciado
@@ -47,7 +47,7 @@ The correct answer is "always". Frequency adverbs form an ordered scale from nev
 **ID:** CO-ING-6-2026-W25-frequency-adverbs-002-v1
 **Bloom:** Remember
 **ICFES:** Grammatical Knowledge
-**Expected_Success:** 0.80
+**Expected_Success:** 0.84
 **Contexto:** Placing a frequency adverb in a sentence with the verb to be.
 
 ### Enunciado
@@ -67,7 +67,7 @@ The correct answer is "She is always late for class". Position is the whole diff
 **ID:** CO-ING-6-2026-W25-frequency-adverbs-003-v1
 **Bloom:** Understand
 **ICFES:** Reading Comprehension
-**Expected_Success:** 0.78
+**Expected_Success:** 0.83
 **Contexto:** Reading a short text about a student's habits.
 
 ### Enunciado
@@ -82,12 +82,12 @@ Read: "Laura plays football twice a week. She never watches television on school
 ### Explicación Pedagógica
 The correct answer is "She does not watch television on school days". The two frequency expressions in the text work differently, since twice a week is a counted frequency and never is an absolute one, and the item asks the student to interpret each of them correctly. Students who read only the numbers miss the absolute statement, which is the part that carries the meaning here.
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 
 **ID:** CO-ING-6-2026-W25-frequency-adverbs-004-v1
 **Bloom:** Apply
 **ICFES:** Grammatical Knowledge
-**Expected_Success:** 0.76
+**Expected_Success:** 0.82
 **Contexto:** Placing a frequency adverb with an ordinary main verb.
 
 ### Enunciado
@@ -107,7 +107,7 @@ The correct answer is "He usually eats breakfast at home". This is the counterpa
 **ID:** CO-ING-6-2026-W25-frequency-adverbs-005-v1
 **Bloom:** Apply
 **ICFES:** Lexical Knowledge
-**Expected_Success:** 0.74
+**Expected_Success:** 0.81
 **Contexto:** Choosing the adverb that fits a described habit.
 
 ### Enunciado
@@ -127,7 +127,7 @@ The correct answer is "sometimes". Turning a description of frequency into the r
 **ID:** CO-ING-6-2026-W25-frequency-adverbs-006-v1
 **Bloom:** Apply
 **ICFES:** Pragmatic Competence
-**Expected_Success:** 0.72
+**Expected_Success:** 0.80
 **Contexto:** Answering a teacher's question about how often something happens.
 
 ### Enunciado
@@ -142,12 +142,12 @@ A teacher asks: "How often do you eat vegetables?" Which answer is the most natu
 ### Explicación Pedagógica
 The correct answer is "I usually eat vegetables, but not every day". Answering a how often question needs an adverb of frequency, and a good answer often also marks the exceptions so it is not overstated. Choosing the response that sounds like something a person would actually say, rather than merely a grammatical string, is the communicative judgement this item is really about.
 
-## Question 7 [D4-D5]
+## Question 7 [D4]
 
 **ID:** CO-ING-6-2026-W25-frequency-adverbs-007-v1
 **Bloom:** Apply
 **ICFES:** Grammatical Knowledge
-**Expected_Success:** 0.70
+**Expected_Success:** 0.79
 **Contexto:** Using an adverb of frequency in the negative.
 
 ### Enunciado
@@ -162,12 +162,12 @@ Which sentence correctly says that a student does not usually arrive late?
 ### Explicación Pedagógica
 The correct answer is "He doesn't usually arrive late". The negative brings the auxiliary does in front of the subject, and the frequency adverb has to be positioned between that auxiliary and the main verb. This is a harder position than the affirmative case because the auxiliary adds a second element the student has to account for, and getting it wrong is the most common error at this point in the unit.
 
-## Question 8 [D4-D5]
+## Question 8 [D4]
 
 **ID:** CO-ING-6-2026-W25-frequency-adverbs-008-v1
 **Bloom:** Analyze
 **ICFES:** Reading Comprehension
-**Expected_Success:** 0.68
+**Expected_Success:** 0.77
 **Contexto:** Comparing the frequency claims in two short sentences.
 
 ### Enunciado
@@ -182,12 +182,12 @@ Read: "A: I go to the gym every morning. B: I go to the gym twice a week." What 
 ### Explicación Pedagógica
 The correct answer is "A goes more often than B". The item requires converting both expressions into the same scale before comparing them, since every morning and twice a week are not the same kind of quantity. A student who compares the words rather than the frequencies will get this wrong, and that habit of normalising before comparing is what transfers to the data questions in the exam.
 
-## Question 9 [D5]
+## Question 9 [D4]
 
 **ID:** CO-ING-6-2026-W25-frequency-adverbs-009-v1
 **Bloom:** Analyze
 **ICFES:** Grammatical Knowledge
-**Expected_Success:** 0.65
+**Expected_Success:** 0.74
 **Contexto:** Finding the error in a sentence about a habit.
 
 ### Enunciado
@@ -202,12 +202,12 @@ A student writes: "She goes to school always by bus." What is the problem?
 ### Explicación Pedagógica
 The correct answer is "The frequency adverb is in the wrong position". The sentence is otherwise entirely correct, including the tense and the preposition, which makes this a clean test of the one rule the week is about. Distinguishing an actual fault from two things that merely look unusual is the checking habit that lets a student trust or distrust their own writing.
 
-## Question 10 [D5]
+## Question 10 [D4]
 
 **ID:** CO-ING-6-2026-W25-frequency-adverbs-010-v1
 **Bloom:** Evaluate
 **ICFES:** Pragmatic Competence
-**Expected_Success:** 0.62
+**Expected_Success:** 0.70
 **Contexto:** Choosing the most accurate description of a habit from a school survey.
 
 ### Enunciado

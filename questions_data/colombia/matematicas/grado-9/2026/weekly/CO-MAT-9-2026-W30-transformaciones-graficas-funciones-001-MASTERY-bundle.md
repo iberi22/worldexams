@@ -59,7 +59,7 @@ Sumar una constante k a f(x) traslada la gráfica verticalmente: con k = 2, todo
 - [ ] B) La gráfica se desplaza 3 unidades hacia arriba
   <!-- feedback: Incorrecto. El desplazamiento vertical se escribe fuera de la función. -->
 - [ ] C) La gráfica se desplaza 3 unidades hacia abajo
-  <!-- feedback: Incorrecto. El desplazamiento vertical se escribe fuera de la función. -->
+  <!-- feedback: Incorrecto. Bajar la gráfica exige restar 3 fuera de la función, es decir, $y = f(x) - 3$. -->
 ### Explicacion Pedagogica
 Los cambios dentro del argumento actúan al contrario de lo esperado: x menos 3 mueve la gráfica 3 lugares a la derecha.
 
@@ -159,7 +159,7 @@ La transformación y igual a 2 f(x) estira verticalmente al doble: cada imagen q
 - [ ] B) La segunda es la primera desplazada 5 unidades hacia arriba
   <!-- feedback: Incorrecto. El desplazamiento vertical se escribe fuera del cuadrado. -->
 - [ ] D) La segunda es la primera desplazada 5 unidades hacia abajo
-  <!-- feedback: Incorrecto. El desplazamiento vertical se escribe fuera del cuadrado. -->
+  <!-- feedback: Incorrecto. Para bajar la parábola hay que restar 5 fuera del cuadrado: $y = (x + 5)^2 - 5$. -->
 ### Explicacion Pedagogica
 El vértice pasa de (0, 0) a (menos 5, 0): la forma es idéntica, solo cambia la posición horizontal.
 

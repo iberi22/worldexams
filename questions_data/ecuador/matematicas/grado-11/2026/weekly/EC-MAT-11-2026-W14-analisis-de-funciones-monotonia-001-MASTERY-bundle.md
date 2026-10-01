@@ -296,7 +296,7 @@ Importancia del criterio de la primera derivada cuando la segunda derivada es nu
 - [ ] A) $f(x)$ es continua en $[a, b]$.
   <!-- feedback: Incorrecto. Es un requisito fundamental. -->
 - [ ] B) $f(x)$ es derivable en $(a, b)$.
-  <!-- feedback: Incorrecto. Es un requisito fundamental. -->
+  <!-- feedback: Incorrecto. Rolle necesita la existencia de la derivada en todo el intervalo abierto. -->
 - [ ] C) $f(a) = f(b)$.
   <!-- feedback: Incorrecto. Es la condición específica que distingue a Rolle del Teorema del Valor Medio general. -->
 - [x] D) $f(a) = 0$.

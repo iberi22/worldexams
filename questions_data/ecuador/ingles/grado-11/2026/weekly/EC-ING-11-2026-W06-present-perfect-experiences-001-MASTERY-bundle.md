@@ -409,13 +409,13 @@ Which verb forms its participle by changing 'e' to 'e'? Choose the correct irreg
 
 ### Opciones
 - [ ] A) work - worked
-  <!-- feedback: That is a regular verb with the -ed participle. -->
+  <!-- feedback: "Work" is regular: it never changes before -ed, so its participle is simply "worked". -->
 - [x] B) write - written
   <!-- feedback: The irregular participle 'written' drops the base form's final structure. -->
 - [ ] C) open - opened
-  <!-- feedback: That is a regular verb with the -ed participle. -->
+  <!-- feedback: "Open" keeps its final -en unchanged and simply adds -d, giving "opened". -->
 - [ ] D) walk - walked
-  <!-- feedback: That is a regular verb with the -ed participle. -->
+  <!-- feedback: "Walk" already ends in -k and only takes -ed, so "walked" is not an irregular participle. -->
 
 ### Explicacion Pedagogica
 'Write' forma su participio como 'written', mientras los verbos regulares lo forman con -ed.

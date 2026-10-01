@@ -27,7 +27,7 @@ creador: "Jules-Agent"
 **ID:** CO-ING-6-2026-W20-p2-final-review-001-v1
 **Bloom:** Remember
 **ICFES:** Lexical Knowledge
-**Expected_Success:** 0.82
+**Expected_Success:** 0.85
 **Contexto:** Naming the family relation between two people.
 
 ### Enunciado
@@ -47,7 +47,7 @@ The correct answer is "aunt". Family vocabulary is a closed system of relationsh
 **ID:** CO-ING-6-2026-W20-p2-final-review-002-v1
 **Bloom:** Remember
 **ICFES:** Grammatical Knowledge
-**Expected_Success:** 0.80
+**Expected_Success:** 0.84
 **Contexto:** Choosing the correct possessive for each member of a family.
 
 ### Enunciado
@@ -67,7 +67,7 @@ The correct answer is "his". Referring back to a person already mentioned and ma
 **ID:** CO-ING-6-2026-W20-p2-final-review-003-v1
 **Bloom:** Understand
 **ICFES:** Reading Comprehension
-**Expected_Success:** 0.78
+**Expected_Success:** 0.83
 **Contexto:** Working out a relationship from a short family text.
 
 ### Enunciado
@@ -82,12 +82,12 @@ Read: "Camila is my sister. Her son is my nephew." How old is Camila's son?
 ### Explicación Pedagógica
 The correct answer is "He is a child". The text never states an age, so the answer has to be inferred from the kinship term itself, and that inference is the actual reading task. Students who know what nephew means can answer without any other information, and those who have only memorised the word as a label cannot, which is exactly the distinction worth testing.
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 
 **ID:** CO-ING-6-2026-W20-p2-final-review-004-v1
 **Bloom:** Apply
 **ICFES:** Grammatical Knowledge
-**Expected_Success:** 0.76
+**Expected_Success:** 0.82
 **Contexto:** Using the verb to be to describe a family member.
 
 ### Enunciado
@@ -107,7 +107,7 @@ The correct answer is "My grandmother is my father's mother". The relationship h
 **ID:** CO-ING-6-2026-W20-p2-final-review-005-v1
 **Bloom:** Apply
 **ICFES:** Grammatical Knowledge
-**Expected_Success:** 0.74
+**Expected_Success:** 0.81
 **Contexto:** Placing a preposition to say where a person is in relation to a place.
 
 ### Enunciado
@@ -127,7 +127,7 @@ The correct answer is "Andrés is at school". In, at and on divide places into c
 **ID:** CO-ING-6-2026-W20-p2-final-review-006-v1
 **Bloom:** Apply
 **ICFES:** Lexical Knowledge
-**Expected_Success:** 0.72
+**Expected_Success:** 0.80
 **Contexto:** Choosing the correct word to describe a person in a short text.
 
 ### Enunciado
@@ -142,12 +142,12 @@ A person who is very short of money is called ________.
 ### Explicación Pedagógica
 The correct answer is "poor". Describing a person in English requires the right category of word, and money words are a category students meet in reading texts long before they feel confident using them. The distractors are drawn from the appearance vocabulary of the previous weeks, which is exactly the confusion that appears when a student reaches for the most familiar adjective instead of the accurate one.
 
-## Question 7 [D4-D5]
+## Question 7 [D4]
 
 **ID:** CO-ING-6-2026-W20-p2-final-review-007-v1
 **Bloom:** Apply
 **ICFES:** Pragmatic Competence
-**Expected_Success:** 0.70
+**Expected_Success:** 0.79
 **Contexto:** Introducing a relative to a teacher at school.
 
 ### Enunciado
@@ -162,12 +162,12 @@ You want to say to a teacher: "This is my grandmother." Which sentence do you us
 ### Explicación Pedagógica
 The correct answer is "This is my grandmother". Introducing a family member is a fixed routine in English and the possessive does the work of naming the relationship. The distractor about the indefinite article is worth noticing, because a student who has only practised with a may produce a form that loses the particular person the introduction depends on.
 
-## Question 8 [D4-D5]
+## Question 8 [D4]
 
 **ID:** CO-ING-6-2026-W20-p2-final-review-008-v1
 **Bloom:** Analyze
 **ICFES:** Reading Comprehension
-**Expected_Success:** 0.68
+**Expected_Success:** 0.77
 **Contexto:** Comparing what two short family texts say.
 
 ### Enunciado
@@ -182,12 +182,12 @@ Read: "A: My brother is 16. B: My sister is 13." Which statement about the two i
 ### Explicación Pedagógica
 The correct answer is "The brother is 3 years older than the sister". A family text almost always carries ages, and comparing two of them is the first step towards the comparisons the reading section of the exam demands. Two of the distractors contradict the numbers and one claims the text is insufficient when it is not, so the student has to actually use the data rather than judge by its appearance.
 
-## Question 9 [D5]
+## Question 9 [D4]
 
 **ID:** CO-ING-6-2026-W20-p2-final-review-009-v1
 **Bloom:** Analyze
 **ICFES:** Grammatical Knowledge
-**Expected_Success:** 0.65
+**Expected_Success:** 0.74
 **Contexto:** Repairing a sentence in which the relationship is expressed wrongly.
 
 ### Enunciado
@@ -202,12 +202,12 @@ A student writes: "My uncle is my mother's brother." The teacher says there is o
 ### Explicación Pedagógica
 The correct answer is "There is no error in the sentence". Accepting a correct sentence is a real skill, and this period's topics are exactly where students over-correct and start inventing faults. Each distractor names a plausible-sounding defect that is simply not present, so the student has to verify rather than assume, which is the evaluative habit the hardest items in an exam require.
 
-## Question 10 [D5]
+## Question 10 [D4]
 
 **ID:** CO-ING-6-2026-W20-p2-final-review-010-v1
 **Bloom:** Evaluate
 **ICFES:** Pragmatic Competence
-**Expected_Success:** 0.62
+**Expected_Success:** 0.70
 **Contexto:** Choosing the best way to present a family to a new class.
 
 ### Enunciado

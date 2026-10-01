@@ -68,7 +68,7 @@ Which word is used before long adjectives to form the superlative?
 - [x] C) Most
   <!-- feedback: Correct! We use "the most" for superlatives of long adjectives. -->
 - [ ] D) Much
-  <!-- feedback: Incorrect. This is a quantifier. -->
+  <!-- feedback: Incorrect. "Much" measures quantity or degree, it does not build the superlative. -->
 
 ### Explicacion Pedagogica
 The student remembers the rule for superlatives of long adjectives.

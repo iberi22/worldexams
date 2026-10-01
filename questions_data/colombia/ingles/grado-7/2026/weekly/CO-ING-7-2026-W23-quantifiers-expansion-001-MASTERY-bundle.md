@@ -119,7 +119,7 @@ The student understands the difference between "a few" and "a little" based on n
 - [ ] C) some
   <!-- feedback: Incorrect. Not used with "How" for questions. -->
 - [ ] D) any
-  <!-- feedback: Incorrect. Not used with "How" for questions. -->
+  <!-- feedback: Incorrect. "Any" asks about a countable quantity in yes/no or negative contexts, not an amount with "How". -->
 
 ### Explicacion Pedagogica
 The student understands the correct use of "much" with uncountable nouns in questions.
@@ -140,7 +140,7 @@ The student understands the correct use of "much" with uncountable nouns in ques
 - [ ] B) many
   <!-- feedback: Incorrect. Salt is uncountable. -->
 - [ ] C) a few
-  <!-- feedback: Incorrect. Salt is uncountable. -->
+  <!-- feedback: Incorrect. "A few" is reserved for countable nouns, and you cannot count grains of salt. -->
 - [x] A) very little
   <!-- feedback: Correct! "Very little" describes a small, often insufficient amount of an uncountable noun. -->
 - [ ] D) some

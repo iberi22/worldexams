@@ -16,7 +16,7 @@ bundle_index: 33
 calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
-creador: "minimax-m3-local"
+creador: "Jules-Agent"
 ---
 
 # Bundle MASTERY: Sistema Inmune - Grado 11 (W33)

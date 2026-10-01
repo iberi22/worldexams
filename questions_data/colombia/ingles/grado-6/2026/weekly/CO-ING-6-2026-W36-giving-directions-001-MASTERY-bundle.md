@@ -27,7 +27,7 @@ creador: "Jules-Agent"
 **ID:** CO-ING-6-2026-W36-giving-directions-001-v1
 **Bloom:** Remember
 **ICFES:** Pragmatic Competence
-**Expected_Success:** 0.82
+**Expected_Success:** 0.85
 **Contexto:** Asking a stranger for directions in Bogotá.
 
 ### Enunciado
@@ -47,7 +47,7 @@ The correct answer is "Excuse me, where is the pharmacy?". Asking a stranger for
 **ID:** CO-ING-6-2026-W36-giving-directions-002-v1
 **Bloom:** Remember
 **ICFES:** Grammatical Knowledge
-**Expected_Success:** 0.80
+**Expected_Success:** 0.84
 **Contexto:** Using the preposition on with a street name in directions.
 
 ### Enunciado
@@ -67,7 +67,7 @@ The correct answer is "Turn right on Seventh Street". Street names take on in En
 **ID:** CO-ING-6-2026-W36-giving-directions-003-v1
 **Bloom:** Understand
 **ICFES:** Reading Comprehension
-**Expected_Success:** 0.78
+**Expected_Success:** 0.83
 **Contexto:** Following a written direction from a short text.
 
 ### Enunciado
@@ -82,12 +82,12 @@ Read: "The bakery is next to the pharmacy, opposite the park." What is the baker
 ### Explicación Pedagógica
 The correct answer is "The pharmacy". The text gives two relations in one line, next to and opposite, and telling them apart is the whole reading task. Students who skim often swap them, so pausing to check which relation goes with which pair of places is the habit this item builds, and it is needed for every map or route question in the exam.
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 
 **ID:** CO-ING-6-2026-W36-giving-directions-004-v1
 **Bloom:** Apply
 **ICFES:** Grammatical Knowledge
-**Expected_Success:** 0.76
+**Expected_Success:** 0.82
 **Contexto:** Using the imperative to give a direction.
 
 ### Enunciado
@@ -107,7 +107,7 @@ The correct answer is "Turn left at the traffic light". Directions are given wit
 **ID:** CO-ING-6-2026-W36-giving-directions-005-v1
 **Bloom:** Apply
 **ICFES:** Lexical Knowledge
-**Expected_Success:** 0.74
+**Expected_Success:** 0.81
 **Contexto:** Choosing the verb that names going from one place to another on foot.
 
 ### Enunciado
@@ -127,7 +127,7 @@ The correct answer is "walk". The verbs of transport are a small set that studen
 **ID:** CO-ING-6-2026-W36-giving-directions-006-v1
 **Bloom:** Apply
 **ICFES:** Pragmatic Competence
-**Expected_Success:** 0.72
+**Expected_Success:** 0.80
 **Contexto:** Understanding a sequence of directions given in a short dialogue.
 
 ### Enunciado
@@ -142,12 +142,12 @@ A person says: "Go straight ahead, then turn left at the corner. The school is o
 ### Explicación Pedagógica
 The correct answer is "The school". Three instructions arrive in sequence and the student has to keep track of the direction changes in order to follow the last one. The other two distractors are invented places, and the corner is a real one but on the wrong side, so the item separates memory of the content from understanding of the directions.
 
-## Question 7 [D4-D5]
+## Question 7 [D4]
 
 **ID:** CO-ING-6-2026-W36-giving-directions-007-v1
 **Bloom:** Apply
 **ICFES:** Grammatical Knowledge
-**Expected_Success:** 0.70
+**Expected_Success:** 0.79
 **Contexto:** Using the preposition between to describe a position on a street.
 
 ### Enunciado
@@ -162,12 +162,12 @@ Which sentence says that the museum is between the bank and the library?
 ### Explicación Pedagógica
 The correct answer is "The museum is between the bank and the library". Between is a two-part preposition that names a position in the middle of something, and it needs two items joined by and. Students rarely get this wrong once it is practised, which makes it a reliable item, but the two-part pattern also explains related prepositions such as next to and opposite that the same week uses.
 
-## Question 8 [D4-D5]
+## Question 8 [D4]
 
 **ID:** CO-ING-6-2026-W36-giving-directions-008-v1
 **Bloom:** Analyze
 **ICFES:** Reading Comprehension
-**Expected_Success:** 0.68
+**Expected_Success:** 0.77
 **Contexto:** Finding the error in a set of written directions.
 
 ### Enunciado
@@ -182,12 +182,12 @@ Read: "Turn right on Fifth Avenue, and the bank is between the pharmacy and the 
 ### Explicación Pedagógica
 The correct answer is "The sentence has no error". Both prepositions in the sentence are correct, and accepting a correct text is a real skill that students often lack because they assume a question must have something wrong in it. Each distractor names a defect that sounds plausible but is not present, so the item trains the student to verify rather than to hunt for a fault.
 
-## Question 9 [D5]
+## Question 9 [D4]
 
 **ID:** CO-ING-6-2026-W36-giving-directions-009-v1
 **Bloom:** Analyze
 **ICFES:** Grammatical Knowledge
-**Expected_Success:** 0.65
+**Expected_Success:** 0.74
 **Contexto:** Finding the error in a spoken direction.
 
 ### Enunciado
@@ -202,12 +202,12 @@ A student writes these directions: "You turn right on the corner." What is the p
 ### Explicación Pedagógica
 The correct answer is "The sentence is a statement rather than an instruction". The preposition and the verb are both correct, and the only problem is the added subject that changes the meaning from a command to a description. Recognising that a sentence can be perfectly grammatical yet the wrong thing to say in a situation is the pragmatic awareness this week is building towards.
 
-## Question 10 [D5]
+## Question 10 [D4]
 
 **ID:** CO-ING-6-2026-W36-giving-directions-010-v1
 **Bloom:** Evaluate
 **ICFES:** Pragmatic Competence
-**Expected_Success:** 0.62
+**Expected_Success:** 0.70
 **Contexto:** Deciding which set of directions is the clearest for a visitor.
 
 ### Enunciado

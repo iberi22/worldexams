@@ -27,7 +27,7 @@ creador: "Jules-Agent"
 **ID:** CO-ING-6-2026-W40-final-review-2-001-v1
 **Bloom:** Remember
 **ICFES:** Grammatical Knowledge
-**Expected_Success:** 0.82
+**Expected_Success:** 0.85
 **Contexto:** Reviewing the third person singular across the year.
 
 ### Enunciado
@@ -47,7 +47,7 @@ The correct answer is "She goes to school by bicycle". The third person -s is th
 **ID:** CO-ING-6-2026-W40-final-review-2-002-v1
 **Bloom:** Remember
 **ICFES:** Lexical Knowledge
-**Expected_Success:** 0.80
+**Expected_Success:** 0.84
 **Contexto:** Reviewing the vocabulary of description and appearance.
 
 ### Enunciado
@@ -67,7 +67,7 @@ The correct answer is "short". The appearance vocabulary from the second period 
 **ID:** CO-ING-6-2026-W40-final-review-2-003-v1
 **Bloom:** Understand
 **ICFES:** Reading Comprehension
-**Expected_Success:** 0.78
+**Expected_Success:** 0.83
 **Contexto:** Reading a longer text and following a change over time.
 
 ### Enunciado
@@ -82,12 +82,12 @@ Read: "When Daniela was ten she lived in Bucaramanga and she was afraid of dogs.
 ### Explicación Pedagógica
 The correct answer is "She has a dog". The text gives a before and an after, and the whole task is keeping the two apart and answering about the right one. Students who answer from the first half of the text will give any of the other three options, so reading to the second sentence is what separates the correct answer from the plausible ones.
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 
 **ID:** CO-ING-6-2026-W40-final-review-2-004-v1
 **Bloom:** Apply
 **ICFES:** Grammatical Knowledge
-**Expected_Success:** 0.76
+**Expected_Success:** 0.82
 **Contexto:** Choosing the right preposition of place for a description.
 
 ### Enunciado
@@ -107,7 +107,7 @@ The correct answer is "The cat is under the table". The prepositions of place we
 **ID:** CO-ING-6-2026-W40-final-review-2-005-v1
 **Bloom:** Apply
 **ICFES:** Grammatical Knowledge
-**Expected_Success:** 0.74
+**Expected_Success:** 0.81
 **Contexto:** Using a frequency adverb with a main verb in the present simple.
 
 ### Enunciado
@@ -127,7 +127,7 @@ The correct answer is "She never drinks coffee". A frequency adverb has to sit i
 **ID:** CO-ING-6-2026-W40-final-review-2-006-v1
 **Bloom:** Apply
 **ICFES:** Pragmatic Competence
-**Expected_Success:** 0.72
+**Expected_Success:** 0.80
 **Contexto:** Choosing a response that helps a visitor who is lost.
 
 ### Enunciado
@@ -142,12 +142,12 @@ A visitor asks you how to get to the park. Which reply is most helpful?
 ### Explicación Pedagógica
 The correct answer is the one with a direction, a landmark and a way to recognise the destination. Being useful to a listener means giving the information they actually need, and the three distractors each substitute something else, a definition, a personal habit or a refusal. That is a judgement about what a response should accomplish, and it is the kind of competence the speaking and writing parts of the exam look for.
 
-## Question 7 [D4-D5]
+## Question 7 [D4]
 
 **ID:** CO-ING-6-2026-W40-final-review-2-007-v1
 **Bloom:** Apply
 **ICFES:** Grammatical Knowledge
-**Expected_Success:** 0.70
+**Expected_Success:** 0.79
 **Contexto:** Using the gerund after a verb of liking with two activities.
 
 ### Enunciado
@@ -162,12 +162,12 @@ Which sentence correctly uses the gerund form after a verb of liking?
 ### Explicación Pedagógica
 The correct answer is "I like swimming and cycling". Two activities joined by and have to match in form, and students regularly get the first right and the second wrong. Consistency across a coordinated pair is a small detail that appears constantly in longer student writing, so it is worth closing the year's grammar work on.
 
-## Question 8 [D4-D5]
+## Question 8 [D4]
 
 **ID:** CO-ING-6-2026-W40-final-review-2-008-v1
 **Bloom:** Analyze
 **ICFES:** Reading Comprehension
-**Expected_Success:** 0.68
+**Expected_Success:** 0.77
 **Contexto:** Finding the main idea of a short text.
 
 ### Enunciado
@@ -182,12 +182,12 @@ Read: "Camilo wanted to join the football team. He trained every morning for a y
 ### Explicación Pedagógica
 The correct answer is "Camilo practised a long time and succeeded". A main idea has to cover the whole text rather than repeat one sentence of it, and each distractor here is a real fact drawn from the text that fails only because it is too narrow. Judging which detail represents the thread of a passage is the comprehension skill the final review exists to consolidate.
 
-## Question 9 [D5]
+## Question 9 [D4]
 
 **ID:** CO-ING-6-2026-W40-final-review-2-009-v1
 **Bloom:** Analyze
 **ICFES:** Grammatical Knowledge
-**Expected_Success:** 0.65
+**Expected_Success:** 0.74
 **Contexto:** Finding the error in a description written with the wrong word order.
 
 ### Enunciado
@@ -202,12 +202,12 @@ A student writes: "My teacher has the hair black and long." What is the problem?
 ### Explicación Pedagógica
 The correct answer is "The adjectives are in the wrong order for English". English orders short adjectives before long ones and Spanish often reverses this, so it is a real and specific error rather than a vague one. Naming the rule precisely is what turns a feeling that something sounds wrong into a correction the student can actually apply.
 
-## Question 10 [D5]
+## Question 10 [D4]
 
 **ID:** CO-ING-6-2026-W40-final-review-2-010-v1
 **Bloom:** Evaluate
 **ICFES:** Pragmatic Competence
-**Expected_Success:** 0.62
+**Expected_Success:** 0.70
 **Contexto:** Deciding which text is the best final paragraph of a school report.
 
 ### Enunciado

@@ -219,7 +219,7 @@ De $\frac{-2 + x}{2} = 3$ se obtiene $x = 8$, y de $\frac{5 + y}{2} = 1$ se obti
 - [ ] B) Solo $k = 5$
   <!-- feedback: Incorrecto. La ecuación cuadrática tiene dos soluciones. -->
 - [ ] C) Solo $k = -3$
-  <!-- feedback: Incorrecto. La ecuación cuadrática tiene dos soluciones. -->
+  <!-- feedback: Incorrecto. Al despejar $(k-1)^2 = 16$ se obtienen $k-1 = 4$ y $k-1 = -4$, es decir $k = 5$ y $k = -3$. -->
 ### Explicacion Pedagogica
 $5 = \sqrt{(6-3)^2 + (1-k)^2}$ implica $25 = 9 + (k-1)^2$, es decir $(k-1)^2 = 16$, con soluciones $k = 5$ y $k = -3$.
 

@@ -79,7 +79,7 @@ El origen es el punto de referencia (0, 0) del plano cartesiano.
 - [ ] C) Tercer cuadrante.
   <!-- feedback: Incorrecto. La y es positiva. -->
 - [ ] D) Cuarto cuadrante.
-  <!-- feedback: Incorrecto. La x es negativa. -->
+  <!-- feedback: Incorrecto. El cuarto cuadrante exige $x > 0$ e $y < 0$, y aquí $x = -3$ es negativa. -->
 ### Explicacion Pedagogica
 El segundo cuadrante contiene los puntos con x < 0 e y > 0.
 

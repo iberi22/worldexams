@@ -77,7 +77,7 @@ Un ejemplo de mezcla heterogénea es:
 - [ ] B) Agua con sal disuelta.
   <!-- feedback: Incorrecto. Es homogénea. -->
 - [ ] C) Alcohol con agua.
-  <!-- feedback: Incorrecto. Es homogénea. -->
+  <!-- feedback: Incorrecto. El alcohol y el agua se disuelven uno en el otro y forman una sola fase homogénea. -->
 - [ ] D) Aire puro.
   <!-- feedback: Incorrecto. Es homogéneo. -->
 ### Explicacion Pedagogica

@@ -169,7 +169,7 @@ What were the two background actions happening before the power went out?
 - [ ] C) Going out and reading.
   <!-- feedback: Incorrect. Not mentioned. -->
 - [ ] D) Sleeping and cooking.
-  <!-- feedback: Incorrect. Not mentioned. -->
+  <!-- feedback: Incorrect. The narration never mentions the speaker sleeping or anyone cooking. -->
 
 ### Explicacion Pedagogica
 The student applies reading strategies to identify the background actions in a narrative using the Past Continuous.

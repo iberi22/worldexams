@@ -27,7 +27,7 @@ creador: "Jules-Agent"
 **ID:** CO-ING-6-2026-W39-final-review-1-001-v1
 **Bloom:** Remember
 **ICFES:** Grammatical Knowledge
-**Expected_Success:** 0.82
+**Expected_Success:** 0.85
 **Contexto:** Reviewing the present simple across the year.
 
 ### Enunciado
@@ -47,7 +47,7 @@ The correct answer is "My sister studies in Medellín". The present simple with 
 **ID:** CO-ING-6-2026-W39-final-review-1-002-v1
 **Bloom:** Remember
 **ICFES:** Lexical Knowledge
-**Expected_Success:** 0.80
+**Expected_Success:** 0.84
 **Contexto:** Reviewing the vocabulary of the final period.
 
 ### Enunciado
@@ -67,7 +67,7 @@ The correct answer is "How much is it?". The question words were introduced in t
 **ID:** CO-ING-6-2026-W39-final-review-1-003-v1
 **Bloom:** Understand
 **ICFES:** Reading Comprehension
-**Expected_Success:** 0.78
+**Expected_Success:** 0.83
 **Contexto:** Reading a short review text with several tenses in it.
 
 ### Enunciado
@@ -82,12 +82,12 @@ Read: "Last year Camila lived in Ibagué. This year she lives in Bogotá and she
 ### Explicación Pedagógica
 The correct answer is "In Bogotá". Two tenses in two sentences mark two different periods, and a reader who ignores the tense markers will answer with the past information. Tracking which facts belong to now and which belonged to before is the central reading skill of this review, and it is what every longer text in the exam depends on.
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 
 **ID:** CO-ING-6-2026-W39-final-review-1-004-v1
 **Bloom:** Apply
 **ICFES:** Grammatical Knowledge
-**Expected_Success:** 0.76
+**Expected_Success:** 0.82
 **Contexto:** Using the present continuous at the right moment.
 
 ### Enunciado
@@ -107,7 +107,7 @@ The correct answer is "The students are taking a test right now". Choosing betwe
 **ID:** CO-ING-6-2026-W39-final-review-1-005-v1
 **Bloom:** Apply
 **ICFES:** Grammatical Knowledge
-**Expected_Success:** 0.74
+**Expected_Success:** 0.81
 **Contexto:** Using there is to describe what a room contains.
 
 ### Enunciado
@@ -127,7 +127,7 @@ The correct answer is "There are three books on the shelf". The existential ther
 **ID:** CO-ING-6-2026-W39-final-review-1-006-v1
 **Bloom:** Apply
 **ICFES:** Lexical Knowledge
-**Expected_Success:** 0.72
+**Expected_Success:** 0.80
 **Contexto:** Choosing between a countable and an uncountable noun in a shopping sentence.
 
 ### Enunciado
@@ -142,12 +142,12 @@ Which sentence correctly uses the present simple with a third person singular su
 ### Explicación Pedagógica
 The correct answer is "I need two apples and some bread". The countable and uncountable rule applies to every noun a student buys or eats, and pairing one of each in a single sentence is the most efficient way to practise the contrast. A sentence that has to be right about two different noun types at once is exactly the demand the final review is preparing the student for.
 
-## Question 7 [D4-D5]
+## Question 7 [D4]
 
 **ID:** CO-ING-6-2026-W39-final-review-1-007-v1
 **Bloom:** Apply
 **ICFES:** Pragmatic Competence
-**Expected_Success:** 0.70
+**Expected_Success:** 0.79
 **Contexto:** Producing a coherent short answer in a real exchange.
 
 ### Enunciado
@@ -162,12 +162,12 @@ A classmate asks: "What do you do after school?" Which answer is most useful?
 ### Explicación Pedagógica
 The correct answer is "I usually play football and then I do my homework". A useful answer to what do you do needs actual activities, and the sequence of then is what makes it sound like a real description of an evening. The distractors each fail by answering a different question, by being vague or by describing a state, so choosing correctly means attending to exactly what was asked.
 
-## Question 8 [D4-D5]
+## Question 8 [D4]
 
 **ID:** CO-ING-6-2026-W39-final-review-1-008-v1
 **Bloom:** Analyze
 **ICFES:** Reading Comprehension
-**Expected_Success:** 0.68
+**Expected_Success:** 0.77
 **Contexto:** Reading a text and separating what it states from what it does not.
 
 ### Enunciado
@@ -182,12 +182,12 @@ Read: "My uncle lives in Pereira. He visits us every year and he always brings c
 ### Explicación Pedagógica
 The correct answer is "The uncle brings coffee when he visits". One distractor invents a place, one reverses the meaning of visits and one negates an always, so each fails in a different way and the student has to check rather than pattern-match. Separating what a text says from what it merely permits is the discipline the comprehension section rewards most consistently.
 
-## Question 9 [D5]
+## Question 9 [D4]
 
 **ID:** CO-ING-6-2026-W39-final-review-1-009-v1
 **Bloom:** Analyze
 **ICFES:** Grammatical Knowledge
-**Expected_Success:** 0.65
+**Expected_Success:** 0.74
 **Contexto:** Finding the single error in a longer sentence.
 
 ### Enunciado
@@ -202,12 +202,12 @@ A student writes: "Yesterday I go to the cinema with my cousins." What is the pr
 ### Explicación Pedagógica
 The correct answer is "The verb is in the present simple for a past event". The sentence has one fault and the three distractors each name something that is already correct, which is the pattern a student needs to recognise before a final exam. Isolating a single error in a sentence that is otherwise sound is the last and most useful habit this review can build.
 
-## Question 10 [D5]
+## Question 10 [D4]
 
 **ID:** CO-ING-6-2026-W39-final-review-1-010-v1
 **Bloom:** Evaluate
 **ICFES:** Pragmatic Competence
-**Expected_Success:** 0.62
+**Expected_Success:** 0.70
 **Contexto:** Deciding which paragraph is the best introduction to a school presentation.
 
 ### Enunciado
