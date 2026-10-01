@@ -154,22 +154,30 @@ Una `bundle-batch-*` puede reaparecer en cualquier momento y no es deuda: la cre
 
 ---
 
-## 7. Lo que queda pendiente
+## 7. Pendiente: lo que se cerró y lo que queda
 
-| # | Pendiente | Tamaño | Riesgo |
+Esta sección se actualizó al cierre de la sesión, con lo ejecutado después del informe original.
+
+### Cerrado en esta sesión
+
+| # | Pendiente | Estado | Evidencia |
 |---|---|---|---|
-| 1 | **645 bundles** que el gate nuevo marca (23.721 opciones) | Grande | Bajo: se reparan por oleadas |
-| 2 | 2 residuales en Colombia G11 mate (`Calculó 7!.`) | 2 opciones | Bajo |
-| 3 | Sesgo de letra: 62% de bundles con >50% una letra (A gana 52%) | Muy grande | Medio: afecta credibilidad |
-| 4 | 48 packs huérfanos de deuda previa (Brasil, Chile) | Medio | Bajo: no tocados a propósito |
-| 5 | Brecha de AR/BR y los 5 países al 20% | 8.776 preguntas | Bajo |
-| 6 | Issue #1584: `/v1/questions` ignora `?week=` | 1 bug | Bajo |
+| 1 | 8 packs con question-ID duplicado (#1591) | **Cerrado** | PR #1593 mergeado `d2a4467e9`; 8/8 packs con IDs únicos (20/20, 20/20, 20/20, 20/20, 20/20, 10/10, 12/12, 19/19) |
+| 2 | El gate rechazaba feedback de categoría legítimos | **Cerrado** | `211864e2d`; "Present tense." (14 ch) y "Past continuous." (16 ch) ahora pasan igual. Deuda 645 → 638 |
+| 3 | `?week=` ignorado en `/v1/questions` (#1584) | **Cerrado** | `2fa3c248a`; en producción week=5/20/35 devuelven packs distintos y `meta.requested_week` lo confirma |
+| 4 | Sesgo de letra (A ganaba 52.8%) | **Cerrado** | `398ab926f`; A bajó a 24.5% y los warnings `answer-letter-bias` de 1.692 a 167 |
 
-**Sobre el punto 1:** `npm run validate` ahora falla en 645 bundles. Es intencional — son la deuda que el gate viejo no veía. **CI no se bloquea** porque valida solo los bundles cambiados (`--diff-filter=AM`). Un PR con contenido nuevo fallará si ese contenido tiene feedback vacío, que es lo correcto.
+### Lo que sigue pendiente
 
-**Sobre el punto 3** es la deuda que más me preocupa y no la toqué: un estudiante que adivine "A" acierta el 52% del tiempo. Arreglarlo significa reescribir la clave de ~35.000 preguntas publicadas. Requiere tu decisión.
+| # | Pendiente | Tamaño | Nota |
+|---|---|---|---|
+| 5 | **638 bundles** con feedback que no explica (23.329 opciones) | Grande | Concentrado: CO 222, SV 95, ES 45, PR 42, EC 41, PE 41, CR 40, HN 40, CL 37. CI no lo bloquea (solo valida diffs A/M) |
+| 6 | 65 bundles (2%) con >50% de la clave en una letra | Pequeño | Residuo del rebalanceo; son los que ya tenían <8 preguntas o mezcla de letras |
+| 7 | 247 packs alias obsoletos (singular vs plural) | Medio | 196 sirven la clave vieja. **Sin impacto**: el manifest solo lista 4.584 packs canónicos y ningún singular, así que la API nunca los carga. Se pueden borrar por higiene |
+| 8 | Brecha de cobertura AR/BR y los 5 países al 20% | 8.776 preguntas | Sin cambios: PA, GT, DO, NI y GQ faltan 1.600 c/u; BR 560; AR 216 |
+| 9 | 16 ramas sin mergear | Crece por tanda | 12 con contenido único, 4 con historia divergente pero contenido idéntico a main |
 
----
+**Sobre el 7**, la comprobación que lo deactivated: el generador escribe el nombre canónico plural y nunca limpia el singular, pero `getSubjectPackAliases` prueba el canónico primero y el manifest solo contiene el plural, así que el singular es inalcanzable. Es deuda de higiene, no un bug visible.
 
 ## 8. Evidencia
 
@@ -207,6 +215,10 @@ node scripts/test-feedback-gate.mjs
 cd saberparatodos && npx vitest run tests/unit --retry=2
 # -> 407 tests passed  (7 spec files sin deps locales: jspdf, katex, @testing-library)
 
+# Answer-key rebalance (idempotente, verifica integridad por archivo)
+python3 scripts/rebalance_corpus.py            # dry-run sobre los 2694 bundles
+python3 scripts/rebalance_answer_letter.py <bundle.md>
+
 # Corpus completo (deuda expuesta)
 node scripts/validate-bundles-v52.mjs
 # -> Validated 2694 bundle file(s). Failures: 645
@@ -218,6 +230,10 @@ npm run audit:country-readiness -- --json
 # Producción
 curl "https://api.saberparatodos.space/v1/questions?country=mx&grade=11&subject=matematicas"
 # -> HTTP 200, 20 preguntas, 0/80 con feedback deficiente
+
+# Produccion: week= ahora honored
+curl "https://api.saberparatodos.space/v1/questions?country=co&grade=11&subject=matematicas&week=20"
+# -> meta.requested_week = 20, pack = co-week-20-grade-11-subject-matematicas.json
 
 # Git
 git rev-list --left-right --count origin/main...main      # -> 0  0
