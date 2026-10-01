@@ -276,7 +276,7 @@ La versión para televisión conserva el conflicto central pero elimina el narra
   <!-- feedback: Incorrecto. El elenco mide producción, no el texto; la evaluación de una adaptación es un juicio sobre el proceso de transposición, no sobre el presupuesto. -->
 
 ### Explicacion Pedagogica
-Evaluar una adaptación exige comparar funciones, no inventarios. Preguntar qué se perdió y qué se ganó al cambiar de narrator o de soporte es la forma rigurosa de hacer crítica comparada.
+Evaluar una adaptación exige comparar funciones, no inventarios. Preguntar qué se perdió y qué se ganó al cambiar de narrador o de soporte es la forma rigurosa de hacer crítica comparada.
 
 ## Question 12 [D9-D10]
 **ID:** CO-LEN-10-2026-W39-la-obra-literaria-y-su-contexto-001-MASTERY-bundle-v12
