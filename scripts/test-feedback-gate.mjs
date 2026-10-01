@@ -254,5 +254,37 @@ const dupCases = [
 ];
 
 for (const c of dupCases) grade(c, /share the same feedback/i);
+// ---------------------------------------------------------------------------
+// checkExplanation had kept a bare character floor after v5.3 taught feedbackProblem
+// to judge by meaning. "F = ma = 2×3 = 6 N" is a complete derivation in sixteen
+// characters and 164 El Salvador questions were rejected for exactly that.
+// The cases below include the ones that must STILL fail, because widening the
+// rule is how an empty section comes back through the front door.
+// ---------------------------------------------------------------------------
+{
+  const { checkExplanation } = await import(path.join(REPO, 'scripts/validate-bundles-v52.mjs'));
+  const explCases = [
+    ['F = ma = 2×3 = 6 N.', null, 'a complete derivation is the explanation'],
+    ['pOH es 11', null, 'a short numeric answer carries its own reasoning'],
+    ['v = 6 + 2×5 = 16 m/s', null, 'substituted then evaluated'],
+    ['Q_c ≠ K_c', null, 'an inequality is a complete answer'],
+    ['', 'explanation-empty', 'a genuinely empty section still fails'],
+    ['   ', 'explanation-empty', 'whitespace only is empty'],
+    ['Correcto.', 'explanation-empty', 'a bare verdict is not an explanation'],
+    ['Revisa el concepto.', 'explanation-empty', 'an instruction to look again is not one'],
+  ];
+  for (const [body, want, why] of explCases) {
+    const got = checkExplanation(body);
+    const kind = got ? (got.error || got.warning) : null;
+    const ok = kind === want;
+    console.log(`${ok ? 'PASS' : 'FAIL'}  ${why.padEnd(52)} got=${kind} (want ${want})`);
+    if (ok) pass += 1;
+    else {
+      fail += 1;
+      console.log(`      body: ${JSON.stringify(body)}`);
+    }
+  }
+}
+
 console.log(`\n${pass} passed, ${fail} failed`);
 process.exit(fail ? 1 : 0);

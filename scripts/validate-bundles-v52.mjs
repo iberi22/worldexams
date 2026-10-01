@@ -60,9 +60,27 @@ export function detectAllNoneOfAbove(optionText) {
   return /\b(todas|ninguna) (de )?las (opciones )?anteriores\b|\b(all|none) of the above\b|^[A-D] y [A-D]\b/i.test(optionText);
 }
 
+// A calculation is the explanation. "F = ma = 2×3 = 6 N" is sixteen characters and
+// it is the entire reason, so the character floor cannot apply to it — the same
+// reasoning that feedbackProblem already follows, and that v5.3 applied to
+// feedback while leaving this function behind. 164 El Salvador questions were
+// rejected for a complete derivation.
+// The numeric clause mirrors feedbackProblem's: a value carrying its own unit or
+// relation ("pOH es 11", "son 2 moles") is the reasoning, not a bare number.
+const IS_COMPLETE_EXPLANATION =
+  /[=+\-*/×÷<>^²³√≈±≠≤≥]|\$[^$]+\$|\d+\s*(m|km|g|kg|cm|mm|mol|mols|L|ml|°C|°F|K|Pa|Hz|N|J|W|V|A|%|x)\b/;
+// A value plus its relation: "pOH es 11", "son 2 moles", "equivale a 35 m".
+const hasNumber = (s) => /\d/.test(s);
+const hasRelation = (s) => /\b(es|son|valen|equivale|significa|da)\b/i.test(s);
+
 export function checkExplanation(explanationBody) {
   const trimmed = (explanationBody || '').trim();
-  if (trimmed.length < 40) return { error: 'explanation-empty' };
+  if (!trimmed) return { error: 'explanation-empty' };
+  // Long enough, or a complete calculation: either way the student is told why.
+  if (trimmed.length < 40) {
+    const complete = IS_COMPLETE_EXPLANATION.test(trimmed) || (hasNumber(trimmed) && hasRelation(trimmed));
+    return complete ? null : { error: 'explanation-empty' };
+  }
   if (trimmed.length < 80) return { warning: 'explanation-short' };
   return null;
 }
