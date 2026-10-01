@@ -934,7 +934,117 @@ const optionLetterCases = [
   },
 ];
 
-const allCases = [...ctxCases, ...foreignScriptCases, ...gluedTokenCases, ...optionLetterCases].map((c) => ({
+
+// tema-coherente: a bundle whose tema is not about vocabulary must not be filled
+// with "What is the English word for: ..." questions. 187 bundles were named
+// past-continuous or reported-speech while carrying a full travel-vocabulary
+// set; nothing caught them because the twenty questions are distinct from each
+// other, so every intra-file rule stayed silent.
+const VOCAB_POOL = [
+  ['accommodation', 'a place where you live or stay on holiday'],
+  ['itinerary', 'a detailed plan or route of a journey'],
+  ['destination', 'the place to which someone is going'],
+  ['luggage', 'suitcases or other bags for personal belongings'],
+  ['passenger', 'a traveller on a public or private conveyance'],
+  ['boarding', 'the act of getting onto a ship or an aircraft'],
+  ['excursion', 'a short journey made for pleasure or study'],
+  ['voyage', 'a long journey made by sea or in space'],
+];
+
+// A vocabulary bundle whose tema IS about vocabulary must stay silent, and its
+// twenty questions must be distinct so duplicate-question does not fire first.
+const buildVocabBundle = (tema, count) => {
+  const q = (n) => {
+    const [w, d] = VOCAB_POOL[n % VOCAB_POOL.length];
+    const others = VOCAB_POOL.filter((p) => p[0] !== w).slice(n % 3, n % 3 + 3).map((p) => p[0]);
+    while (others.length < 3) others.push('currency');
+    const opts = [w, ...others];
+    const rows = opts
+      .map((o, i) => `- [${i === 0 ? 'x' : ' '}] ${'ABCD'[i]}) ${o} <!-- feedback: ${i === 0
+        ? `Correcto. '${w}' nombra exactamente ${d}, que es lo que pide la consigna de esta pregunta.`
+        : `Incorrecto. '${o}' no corresponde a ${d}, asi que no encaja con la definicion que se da aqui.`} -->`)
+      .join('\n');
+    return `## Question ${n} [D3-D4]\n**ID:** VOC-${n}-v1\n**Bloom:** Remember\n**ICFES:** Literal\n**Expected_Success:** 0.80\n**Contexto:** English class in San Salvador, SV.\n\n### Enunciado\nWhat is the English word for: "${d}"?\n\n### Opciones\n${rows}\n\n### Explicacion Pedagogica\nLa palabra '${w}' designa ${d}, y esta consigna pide precisamente ese concepto y no otro.\n\n`;
+  };
+  const fm = LABEL_FM
+    .replace('tema: "potencias-numericas"', `tema: "${tema}"`)
+    .replace('total_questions: 10', `total_questions: ${count}`)
+    .replace('bundle_size: 10', `bundle_size: ${count}`);
+  const qs = [];
+  for (let i = 1; i <= count; i++) qs.push(q(i));
+  return `${fm}\n\n${qs.join('')}`;
+};
+
+
+// Ten non-vocabulary questions, so a mixed bundle can be built.
+const buildNonVocabBundle = (count) => {
+  const subjects = ['They ___ when the storm broke.', 'She was painting the wall when the phone rang.',
+    'I had been waiting for an hour before the bus arrived.', 'We were walking home when it started to rain.',
+    'He had finished the report before the meeting began.', 'The children were playing outside while it poured.',
+    'She had been studying all morning before the exam started.'];
+  const q = (n) => {
+    const stem = subjects[n % subjects.length];
+    const right = n % 2 ? 'were going' : 'had been going';
+    const opts = [right, 'was going', 'have gone', 'would go'];
+    const rows = opts.map((o, i) => `- [${i === 0 ? 'x' : ' '}] ${'ABCD'[i]}) ${o} <!-- feedback: ${i === 0
+      ? `Correcto. '${o}' mantiene el pasado continuo que exige esta oracion con el marco temporal.`
+      : `Incorrecto. '${o}' no encaja con la construccion de pasado continuo que pide esta consigna.`} -->`).join('\n');
+    return `## Question ${n} [D3-D4]\n**ID:** PC-${n}-v1\n**Bloom:** Apply\n**ICFES:** Literal\n**Expected_Success:** 0.80\n**Contexto:** English class in ${['Santa Ana', 'Soyapango', 'Mejicanos', 'San Miguel'][n % 4]}, SV.\n\n### Enunciado\nChoose the option that completes correctly: '${stem}'\n\n### Opciones\n${rows}\n\n### Explicacion Pedagogica\nEn la consigna ${n} el marco temporal es el pasado continuo: 'was' o 'were' mas gerundio, con una accion en curso que otra la interrumpe.\n\n`;
+  };
+  const fm = LABEL_FM.replace('total_questions: 10', `total_questions: ${count}`).replace('bundle_size: 10', `bundle_size: ${count}`);
+  const qs = [];
+  for (let i = 1; i <= count; i++) qs.push(q(i));
+  return `${fm}\n\n${qs.join('')}`;
+};
+
+const temaCoherentCases = [
+  {
+    name: 'a past-continuous bundle filled with vocabulary questions is rejected',
+    expect: 'reject',
+    rule: /tema-coherente/,
+    buildContent: () => buildVocabBundle('past-continuous', 20),
+  },
+  {
+    name: 'a reported-speech bundle filled with vocabulary questions is rejected',
+    expect: 'reject',
+    rule: /tema-coherente/,
+    buildContent: () => buildVocabBundle('reported-speech-statements', 20),
+  },
+  {
+    // Regression guard for the 31 bundles that are genuinely about vocabulary.
+    // They carry the same twenty questions and must never be flagged.
+    // total_questions is fixed at 10 by the validator, so this fixture carries
+    // exactly ten vocabulary questions: at the threshold, and the declared tema
+    // is about vocabulary, so the rule must stay silent.
+    name: 'a vocabulary-travel bundle filled with the same questions is accepted',
+    expect: 'accept',
+    rule: /tema-coherente/,
+    buildContent: () => buildVocabBundle('vocabulary-travel', 10),
+  },
+  {
+    name: 'a bundle with only 3 vocabulary questions is accepted: the threshold is 10',
+    expect: 'accept',
+    rule: /tema-coherente/,
+    // Ten questions, only three of them vocabulary: below the threshold, so the
+    // rule stays silent even though the declared tema is past-continuous.
+    buildContent: () => {
+      const vocab = buildVocabBundle('past-continuous', 3);
+      const nonVocab = buildNonVocabBundle(7);
+      const fm = vocab.slice(0, vocab.indexOf('## Question'))
+        .replace('total_questions: 3', 'total_questions: 10')
+        .replace('bundle_size: 3', 'bundle_size: 10');
+      const blocks = [...vocab.slice(vocab.indexOf('## Question')).split(/(?=## Question )/),
+                     ...nonVocab.slice(nonVocab.indexOf('## Question')).split(/(?=## Question )/)];
+      let i = 0;
+      const renumbered = blocks
+        .filter(Boolean)
+        .map((b) => b.replace(/## Question \d+/, `## Question ${++i}`).replace(/ID:\s*\S+-(\d+)-v\d+/, `ID: X-${i}-v1`));
+      return fm + renumbered.join('');
+    },
+  },
+];
+
+const allCases = [...ctxCases, ...foreignScriptCases, ...gluedTokenCases, ...optionLetterCases, ...temaCoherentCases].map((c) => ({
      ...c,
      // ctxCases carries its expectation in `rule` as a plain string; the newer
      // blocks carry it as a RegExp. Only fill `hit` when the case did not set
