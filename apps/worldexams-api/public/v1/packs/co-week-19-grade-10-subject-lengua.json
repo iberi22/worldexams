@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-19-grade-10-subject-lengua",
+    "generated_at": "2026-10-01T15:43:08.433Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-10-2026-W19-la-narracion-y-los-personajes-001-MASTERY-bundle-v1",
+      "statement": "¿Qué elementos son indispensables en un texto narrativo?",
+      "context": "En un salón de Bogotá, la profesora abre la unidad con la lectura en voz alta del primer capítulo de una novela colombiana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una sucesión de acciones, unos personajes y un espacio donde ocurrieron",
+          "is_correct": true,
+          "feedback": "Correcto. La narración se construye con hechos encadenados, personajes que los realizan y un lugar dondeebo CELLEx happen."
+        },
+        {
+          "letter": "B",
+          "text": "Una tesis, unos contraargumentos y una evidencia verificable",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos tres elementos pertenecen al texto argumentativo; la narración no busca sostener una postura."
+        },
+        {
+          "letter": "C",
+          "text": "Una definición, un ejemplo y una clasificación de un fenómeno",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa estructura es la de un texto expositivo, cuyo fin es explicar y no narrar."
+        },
+        {
+          "letter": "D",
+          "text": "Una descripción de un objeto y una valoración estética de sus materiales",
+          "is_correct": false,
+          "feedback": "Incorrecto. El detalle del objeto pertenece al texto descriptivo, y la valoración estética pertenece al comentario."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La narración cuenta hechos que ocurrieron en un tiempo y un lugar, y para contarlos necesita personas que actuen. Cuando falta uno de esos elementos, el relato se apaga: sin sucesión de hechos no hay historia, sin personajes no hay quién la vive y sin espacio no hay dónde situarla. Reconocer estos tres núcleos es lo que permite distinguir un relato de un texto que solo informa o solo describe.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-10-2026-W19-la-narracion-y-los-personajes-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W19-la-narracion-y-los-personajes-001-MASTERY-bundle-v2",
+      "statement": "\"Era un hombre alto, de manos grandes y voz de quien ha vivido mucho.\" ¿Qué tipo de información aporta esa descripción?",
+      "context": "En Medellín, el grupo lee la descripción inicial de un protagonista y anota cómo se lo imagina.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Información sobre los hechos que el personaje hizo después",
+          "is_correct": false,
+          "feedback": "Incorrecto. La descripción no narra acciones: solo fija rasgos físicos y una impresión, sin nada que el personaje haya hecho."
+        },
+        {
+          "letter": "B",
+          "text": "Información sobre su aspecto físico y una primera impresión de su carácter",
+          "is_correct": true,
+          "feedback": "Correcto. Los rasgos físicos y la voz construyen el aspecto, y el efecto de esa imagen prepara una primera hipótesis sobre el personaje."
+        },
+        {
+          "letter": "C",
+          "text": "Información sobre el espacio donde vive el personaje",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se menciona ningún lugar: la frase se limita al cuerpo del personaje y a la impresión que provoca."
+        },
+        {
+          "letter": "D",
+          "text": "Información sobre la época en que se developingComp la historia",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay ningún dato temporal: la frase no sitúa la acción en el pasado ni en el presente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La descripción de un personaje cumple una doble función: da datos físicos verificables y propone una primera lectura de su carácter. Esa segunda función es la que hace que una descripción sea más que un inventario: el narrador elige qué rasgos mostrar y cuáles callar, y esa elección orienta la expectativa del lector. Por eso leer descripciones es un ejercicio de inferencia, no solo de reconocimiento.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semantico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LEN-10-2026-W19-la-narracion-y-los-personajes-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W19-la-narracion-y-los-personajes-001-MASTERY-bundle-v3",
+      "statement": "En el relato de una familia que emigra del campo a la ciudad, ¿qué momento corresponde al nudo o clímax?",
+      "context": "En Cali, el profesor proyecta el esquema clásico de un relato y pide que el grupo ubique sus partes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El momento en que la familia decide abandonar el campo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa decisión pertenece al inicio, porque presenta el conflicto que luego se desarrolla."
+        },
+        {
+          "letter": "B",
+          "text": "El momento en que la familia grande se instala en un apartamento pequeño",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa escena es parte del desarrollo, porque muestra las consecuencias de una decisión ya tomada."
+        },
+        {
+          "letter": "C",
+          "text": "El momento en que el Head de la familia es despedido del trabajo en la ciudad",
+          "is_correct": true,
+          "feedback": "Correcto. Es el punto de mayor tensión, cuando el conflicto alcanza su punto más alto y la historia se decide."
+        },
+        {
+          "letter": "D",
+          "text": "El momento en que los nietos recuerdan cómo fueron sus primeros años",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese pasaje pertenece al desenlace, porque cierra el relato con una mirada retrospectiva."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El esquema narrativo ordena los hechos en cinco momentos: inicio, contorno, clímax, desenlace y epílogo. El clímax es el punto de máxima tensión, y es allí donde la historia se resuelve. Reconocerlo ayuda a distinguirlo del desarrollo, que es simplemente el tramo donde la tensión sube, y del desenlace, que ya solo recoge las consecuencias.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Textual",
+      "expected_success": 0.86,
+      "bundle_id": "CO-LEN-10-2026-W19-la-narracion-y-los-personajes-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W19-la-narracion-y-los-personajes-001-MASTERY-bundle-v4",
+      "statement": "Una versión dice \"el niño entró temblando a la sala\". Otra dice \"el niño entró en la sala\". ¿Qué cambia con la segunda versión?",
+      "context": "En un taller de lectura de Barranquilla, el grupo lee dos versiones de la misma escena y nota que una de ellas cambia el efecto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cambia el espacio, porque el niño ahora entra a un lugar distinto",
+          "is_correct": false,
+          "feedback": "Incorrecto. El espacio es el mismo en las dos versiones, y lo que se elimina es el adverbio, no la ubicación."
+        },
+        {
+          "letter": "B",
+          "text": "Cambia la acción, porque el niño deja de caminar al entrar",
+          "is_correct": false,
+          "feedback": "Incorrecto. El verbo de movimiento es el mismo en las dos versiones, de modo que la acción no cambia."
+        },
+        {
+          "letter": "C",
+          "text": "Cambia el tiempo, porque el niño entra más tarde en la sala",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay ninguna indicación temporal en la primera versión, de modo que el tiempo de la escena no puede compararse."
+        },
+        {
+          "letter": "D",
+          "text": "Cambia el efecto, porque se pierde la emoción con la que el niño vivía el momento",
+          "is_correct": true,
+          "feedback": "Correcto. Al quitar \"temblando\", la versión segunda deja de informar el estado de ánimo y con ello se aplana el efecto de la escena."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Un mismo hecho puede narrarse de muchas maneras, y cada manera produce un efecto distinto en el lector. Añadir un adverbio como \"temblando\" no cambia lo que ocurrió, pero sí cómo lo vivió el personaje, y con ello cambia la emoción de la escena. Reconocer que dos versiones cuentan el mismo suceso con efectos diferentes es la base para evaluar el estilo de un narrador.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LEN-10-2026-W19-la-narracion-y-los-personajes-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W19-la-narracion-y-los-personajes-001-MASTERY-bundle-v5",
+      "statement": "Un personaje que se opone desde el principio a la decisión de la comunidad actúa como antagonista. ¿Qué función cumple en la trama?",
+      "context": "En un proyecto de lectura de Bogotá, la profesora pide que el grupo clasifique personajes según su papel en el conflicto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Antagonista, porque genera el conflicto que impulsa la trama",
+          "is_correct": true,
+          "feedback": "Correcto. El antagonista se opone al deseo del protagonista y esa oposición produce el conflicto que hace avanzar el relato."
+        },
+        {
+          "letter": "B",
+          "text": "Protagonista, porque es quien toma las decisiones importantes",
+          "is_correct": false,
+          "feedback": "Incorrecto. El antagonista no dirige la acción: se opone a ella, y esa oposición es lo que define su papel."
+        },
+        {
+          "letter": "C",
+          "text": "Personaje secundario, porque solo aparece en el último capítulo",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función del personaje no depende del número de capítulos en que aparezca, sino de su efecto en el conflicto."
+        },
+        {
+          "letter": "D",
+          "text": "Narrador, porque cuenta lo que le ocurre a los demás personajes",
+          "is_correct": false,
+          "feedback": "Incorrecto. El narrador es quien relata la historia, y esa función es distinta de la de crear oposición dentro de la trama."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El antagonista es la fuerza que se opone al objetivo del protagonista y, con esa oposición, pone en marcha el conflicto. Su importancia es narrativa: sin él, el relato no tendría tensión ni dirección. Reconocerlo ayuda a identificar también a los personajes queercer funciones intermedias, como el aliado o el ayudante, que sostienen al protagonista sin generar la oposición principal.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semantico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LEN-10-2026-W19-la-narracion-y-los-personajes-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W19-la-narracion-y-los-personajes-001-MASTERY-bundle-v6",
+      "statement": "Un narrador cuenta una escena de 1950 desde el presente y empieza así: \"Aquel día en que mi abuelo cruzó el río, llovía\". ¿Qué recursos está usando?",
+      "context": "En un taller de escritura de Medellín, un estudiante escribe la apertura de su cuento y no sabe cómo presentar el tiempo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Narrador intradiegético, porque cuenta lo que le ocurrió a su propio abuelo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un narrador intradiegético es un personaje de la historia; aquí el narrador está fuera de ella y recuerda."
+        },
+        {
+          "letter": "B",
+          "text": "Retroceso en el tiempo, porque sitúa la escena en el pasado y la recuerda desde el presente",
+          "is_correct": true,
+          "feedback": "Correcto. La narración arranca en el presente y salta a 1950, y ese movimiento hacia atrás es un retroceso temporal."
+        },
+        {
+          "letter": "C",
+          "text": "Discurso directo, porque el abuelo habla en primera persona dentro de la escena",
+          "is_correct": false,
+          "feedback": "Incorrecto. El abuelo no habla: el narrador es quien cuenta, y no hay discurso directo en el fragmento."
+        },
+        {
+          "letter": "D",
+          "text": "Descripción estática, porque la frase solo fija un clima sin avanzar la acción",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase sitúa una escena en el pasado, de modo que hay una narración y no una mera descripción estática."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tiempo narrativo es un recurso que el narrador usa para organizar los hechos. El retroceso lleva al lector a un pasado, la digresión lo aleja de la acción central para widening ampliar una JAXB sideways reflexión y el salto lo devuelve al presente. Reconocer estos movimientos permite seguir el hilo de una historia que no avanza de manera lineal, que es la forma más común en las novelas modernas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-10-2026-W19-la-narracion-y-los-personajes-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W19-la-narracion-y-los-personajes-001-MASTERY-bundle-v7",
+      "statement": "Si un narrador solo cuenta las acciones de un personaje favorable y omite lo que otros dicen de él, ¿qué efecto tiene esa elección?",
+      "context": "En un seminario de Bogotá, el grupo analiza cómo se construye el protagonista de una novela de Rómulo Gallegos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hace que el personaje pierda su capacidad de cambiar a lo largo de la trama",
+          "is_correct": false,
+          "feedback": "Incorrecto. La selección de acciones cambia lo que sabemos del personaje, no lo que el personaje puede hacer dentro de la historia."
+        },
+        {
+          "letter": "B",
+          "text": "Reduce el número de personajes secundarios presentes en el relato",
+          "is_correct": false,
+          "feedback": "Incorrecto. La omisión de ciertas voces no elimina personajes del texto, sino que impide conocer una parte de lo que dicen."
+        },
+        {
+          "letter": "C",
+          "text": "Construye una imagen favorable del personaje y oculta los datos que la contradirían",
+          "is_correct": true,
+          "feedback": "Correcto. Al elegir solo lo que lo favorece y callar lo demás, el narrador orienta la percepción del lector sin que el personaje pierda su identidad alguna."
+        },
+        {
+          "letter": "D",
+          "text": "Convierte al personaje en un narrador poco confiable, porque él mismo cuenta su historia",
+          "is_correct": false,
+          "feedback": "Incorrecto. El narrador sigue siendo un tercero: lo que hay es una selección tendenciosa de la información, no una voz en primera persona."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un narrador nunca entrega todos los datos: elige cuáles mostrar y cuáles callar. Cuando esa elección sigue un patrón favorable a alguien, se construye una imagen que el lector tiende a aceptar sin notar el recorte. Detectar la orientación del narrador es una habilidad inferencial: permite preguntarse qué se sabría del personaje si la historia se contara desde otro ángulo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LEN-10-2026-W19-la-narracion-y-los-personajes-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W19-la-narracion-y-los-personajes-001-MASTERY-bundle-v8",
+      "statement": "Un personaje que acompaña al protagonista, le ayuda y crece con él, ¿qué tipo de personaje es?",
+      "context": "En un ejercicio de lectura de Cali, el grupo encuentra dos personajes que cumplen la misma función en relatos distintos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Antagonista, porque su función es \\\\[bloquear\\\\] el objetivo del protagonista",
+          "is_correct": false,
+          "feedback": "Incorrecto. Acompañar y ayudar es lo contrario de bloquear, y esa es la diferencia entre el aliado y el antagonista."
+        },
+        {
+          "letter": "B",
+          "text": "Personaje plano, porque solo sirve para que el protagonista tenga compañía",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un personaje plano es el que no cambia ni tiene profundidad; acompañar al protagonista no excluye su propio desarrollo."
+        },
+        {
+          "letter": "C",
+          "text": "Narrador testigo, porque cuenta lo que le ocurrió al protagonista",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función de narrar es distinta de la de acompañar, y aquí el personaje vive la historia sin contarla."
+        },
+        {
+          "letter": "D",
+          "text": "Personaje secundario de apoyo, porque acompaña al protagonista y refuerza su trayectoria",
+          "is_correct": true,
+          "feedback": "Correcto. Su función es sostener y humanizar la acción del protagonista, y por eso pertenece al grupo de los personajes de apoyo."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El reparto de personajes se organiza por su función en la trama. El protagonista empuja la acción, el antagonista la impide, y los personajes de apoyo sostienen, contrastan o humanizan al protagonista. Reconocer esa función permite distinguir dos personajes que se parecen en cuanto a su importancia y, sin embargo, cumplen papeles opuestos dentro del relato.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semantico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-10-2026-W19-la-narracion-y-los-personajes-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W19-la-narracion-y-los-personajes-001-MASTERY-bundle-v9",
+      "statement": "Dos escenas incluyen la misma conversación. En una, el narrador dice quién habla; en la otra, usa solo la acotación \"dijo\". ¿Qué diferencia se introduce?",
+      "context": "En un taller de edición de Barranquilla, el grupo compara dos escenas que contienen el mismo diálogo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En la segunda, el narrador reduce su intervención y deja que el diálogo hable solo",
+          "is_correct": true,
+          "feedback": "Correcto. Al no atribuir cada línea, el narrador se hace más discreto y el lector concentra su atención en las palabras mismas."
+        },
+        {
+          "letter": "B",
+          "text": "En la segunda, el diálogo pierde sentido porque no se sabe a quién pertenece",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con dos interlocutores, el uso del \"dijo\" alternado permite reconstruir quién habla, de modo que el sentido no se pierde."
+        },
+        {
+          "letter": "C",
+          "text": "En la segunda, el narrador desaparece y la escena se vuelve objetiva",
+          "is_correct": false,
+          "feedback": "Incorrecto. El narrador sigue ahí: la diferencia es la cantidad de información que entrega, no su presencia."
+        },
+        {
+          "letter": "D",
+          "text": "En la primera, el narrador se convierte en parte del conflicto entre los personajes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Nombrar a los hablantes es una operación de claridad, no de participación del narrador en la acción."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La cantidad de información que el narrador entrega sobre un diálogo cambia el efecto de la escena. Cuando nombra a cada hablante, el lector no tiene que reconstruir quién dice qué; cuando omite la atribución, se concentra en la reconstrucción y el diálogo queda más desligado del relato. Reconocer esa diferencia ayuda a entender por qué dos escenas con las mismas palabras se leen de manera distinta.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LEN-10-2026-W19-la-narracion-y-los-personajes-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W19-la-narracion-y-los-personajes-001-MASTERY-bundle-v10",
+      "statement": "Una novela narrada en primera persona no muestra nunca al personaje que se opone al protagonista. ¿Qué conviene evaluar?",
+      "context": "En un taller de Medellín, el grupo debe evaluar una novela que cuenta un conflicto sin presentar al antagonista.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la novela falla, porque toda narración necesita un antagonista explícito",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una narración puede sostenerse sin mostrar al antagonista directamente, por ejemplo a través de sus efectos."
+        },
+        {
+          "letter": "B",
+          "text": "Que la obra deja al lector reconstruir las fuerzas que se oponen al protagonista",
+          "is_correct": true,
+          "feedback": "Correcto. Al no mostrarlo, el narrador obliga a que el lector infiera la oposición a partir de lo que el protagonistaneysenemy enfrenta."
+        },
+        {
+          "letter": "C",
+          "text": "Que la obra no tiene trama, porque sin antagonista no existe conflicto",
+          "is_correct": false,
+          "feedback": "Incorrecto. El conflicto sigue existiendo en la historia, aunque el narrador decida no darle voz ni cuerpo."
+        },
+        {
+          "letter": "D",
+          "text": "Que la primera persona impide que el lector conozca los pensamientos del protagonista",
+          "is_correct": false,
+          "feedback": "Incorrecto. La primera persona es justamente el recurso que da acceso directo a la interioridad del protagonista."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar una obra narrativa exige distinguir lo que la historia contiene de lo que el narrador muestra. Una narración en primera persona puede callar a los antagonistas y aun así narrar un conflicto con toda su tensión, porque la oposición se percibe en las reacciones del protagonista. Reconocer esa diferencia permite valorar una decisión de estilo en lugar de confundirla con un defecto de construcción.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LEN-10-2026-W19-la-narracion-y-los-personajes-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W19-la-narracion-y-los-personajes-001-MASTERY-bundle-v11",
+      "statement": "En un fragmento, unTown pequeño donde llueve todos los días lleva una semana sin llover. ¿Qué lectura crítica es más precisa?",
+      "context": "En un seminario de Bogotá, el grupo lee un fragmento de una novela de Gabriel García Márquez y evalúa la construcción del mundo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El narrador se contradice, porque antes declaró que siempre llovía",
+          "is_correct": false,
+          "feedback": "Incorrecto. La primera frase no dice \"siempre\": dice que la mayoría de los días llueve, de modo que no hay contradicción."
+        },
+        {
+          "letter": "B",
+          "text": "El narrador exagera por falta de información sobre el clima real",
+          "is_correct": false,
+          "feedback": "Incorrecto. La exageración es una convención deliberada del relato y no un error de información meteorológica."
+        },
+        {
+          "letter": "C",
+          "text": "La excepción de lo habitual crea extrañeza y vuelve notable ese día",
+          "is_correct": true,
+          "feedback": "Correcto. En un mundo donde casi todo es normal, lo que se sale de la rutina se vuelve un acontecimiento y el narrador lo marca como tal."
+        },
+        {
+          "letter": "D",
+          "text": "El dato es falso, porque la lluvia no puede suspenderse una semana entera",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no afirma que la lluvia sea imposible, solo destaca lo excepcional del evento, y eso no es una falsedad."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La construcción de un mundo narrativo se apoya en lo que se considera normal dentro de él. Cuando un narrador da por sentado un hecho extraordinario y llama la atención sobre otro más pequeño, produce un efecto de extrañeza que obliga al lector a revisar sus propias jerarquías. Reconocer ese procedimiento es lo que permite ver la crítica que un texto hace al sentido común, sin tomar el relato como una noticia.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LEN-10-2026-W19-la-narracion-y-los-personajes-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W19-la-narracion-y-los-personajes-001-MASTERY-bundle-v12",
+      "statement": "Un grupo escolar debe presentar un relato breve en una reunión de padres. ¿Qué criterio conviene priorizar?",
+      "context": "En Cali, el profesor pide que el grupo decida qué versión de un relato leer en voz alta delante de los padres.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El argumento más complejo, porque demuestra que el grupo leyó obras difíciles",
+          "is_correct": false,
+          "feedback": "Incorrecto. La complejidad no garantiza que el público pueda seguir la historia, y esa capacidad importa en una presentación oral."
+        },
+        {
+          "letter": "B",
+          "text": "El texto más largo, porque muestra el esfuerzo dedicado al trabajo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tiempo del encuentro y la atención del público son limitados, de modo que la extensión larga perjudica la recepción."
+        },
+        {
+          "letter": "C",
+          "text": "El relato con más personajes, porque muestra variedad de personajes y de trabajo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Muchos personajes en poco tiempo dificultan que el público distinga quién es quién y qué hace cada uno."
+        },
+        {
+          "letter": "D",
+          "text": "El relato con acción clara, porque el oyente no puede volver atrás a releer",
+          "is_correct": true,
+          "feedback": "Correcto. En una lectura oral el público depende del hilo de la historia, y una trama fácil de seguir compensa esa limitación."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La situación comunicativa de un texto oral cambia los criterios de selección. Quien escucha no puede detenerse a descifrar una frase ni volver dos páginas atrás, de modo que la claridad de la acción y de los personajes se vuelve decisiva. Elegir un relato pensando en esas condiciones de escucha es parte del mismo trabajo de escribir para un destinatario concreto.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LEN-10-2026-W19-la-narracion-y-los-personajes-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}

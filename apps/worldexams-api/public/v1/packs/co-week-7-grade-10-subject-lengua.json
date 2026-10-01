@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-7-grade-10-subject-lengua",
+    "generated_at": "2026-10-01T15:43:08.429Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-10-2026-W07-la-oralidad-y-el-discurso-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál de las siguientes es una característica fundamental de la oralidad?",
+      "context": "En una tertulia literaria en Bogotá, Doña Lucía explica que la oralidad es la forma más antigua de comunicación humana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La inmediatez entre interlocutores",
+          "is_correct": true,
+          "feedback": "Correcto. La oralidad requiere la presencia simultánea de emisor y receptor, lo que permite la retroalimentación inmediata y la espontaneidad."
+        },
+        {
+          "letter": "B",
+          "text": "La permanencia en el tiempo",
+          "is_correct": false,
+          "feedback": "Incorrecto. La oralidad es efímera, desaparece en el momento de la enunciación; la permanencia es característica de la escritura."
+        },
+        {
+          "letter": "C",
+          "text": "La planificación previa",
+          "is_correct": false,
+          "feedback": "Incorrecto. La oralidad es espontánea y no requiere planificación previa; la planificación es característica de la escritura."
+        },
+        {
+          "letter": "D",
+          "text": "La corrección gramatical estricta",
+          "is_correct": false,
+          "feedback": "Incorrecto. La oralidad admite errores, repeticiones y muletillas; la corrección estricta es característica de la escritura formal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La oralidad es la forma de comunicación que se produce de manera espontánea entre interlocutores presentes. Sus características incluyen la inmediatez, la entonación, los gestos, las muletillas, las repeticiones y la retroalimentación instantánea. A diferencia de la escritura, la oralidad no deja registro permanente y admite una gramática más flexible.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-10-2026-W07-la-oralidad-y-el-discurso-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W07-la-oralidad-y-el-discurso-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál de los siguientes contextos requiere un discurso oral más formal?",
+      "context": "En una clase de lengua en Medellín, el profesor explica que el discurso oral tiene diferentes niveles de formalidad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una conversación entre amigos en el parque",
+          "is_correct": false,
+          "feedback": "Incorrecto. La conversación entre amigos es informal, usa lenguaje coloquial y no requiere estructura ni formalidad."
+        },
+        {
+          "letter": "B",
+          "text": "Una presentación académica en la universidad",
+          "is_correct": true,
+          "feedback": "Correcto. La presentación académica requiere un discurso formal, con vocabulario preciso, estructura clara y registro culto."
+        },
+        {
+          "letter": "C",
+          "text": "Una llamada telefónica a un familiar",
+          "is_correct": false,
+          "feedback": "Incorrecto. La llamada a un familiar es informal, usa lenguaje cercano y no requiere estructura ni formalidad."
+        },
+        {
+          "letter": "D",
+          "text": "Un mensaje de texto a un compañero",
+          "is_correct": false,
+          "feedback": "Incorrecto. El mensaje de texto a un compañero es informal, usa abreviaturas y no requiere estructura ni formalidad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El nivel de formalidad del discurso oral depende del contexto, la relación entre los interlocutores y el propósito comunicativo. Las situaciones académicas, profesionales o institucionales requieren un registro formal con vocabulario preciso, estructura clara y ausencia de coloquialismos. Las situaciones informales (amigos, familiares) permiten un registro coloquial con muletillas y expresiones cotidianas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semantico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LEN-10-2026-W07-la-oralidad-y-el-discurso-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W07-la-oralidad-y-el-discurso-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál de las siguientes es la estructura correcta de un discurso oral?",
+      "context": "En un taller de oratoria en Cali, la profesora explica que el discurso oral tiene una estructura básica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Desarrollo, introducción, conclusión",
+          "is_correct": false,
+          "feedback": "Incorrecto. El discurso debe empezar con la introducción para presentar el tema, no con el desarrollo."
+        },
+        {
+          "letter": "B",
+          "text": "Conclusión, desarrollo, introducción",
+          "is_correct": false,
+          "feedback": "Incorrecto. El discurso no puede empezar con la conclusión, porque el oyente aún no conoce el tema ni las ideas."
+        },
+        {
+          "letter": "C",
+          "text": "Introducción, desarrollo, conclusión",
+          "is_correct": true,
+          "feedback": "Correcto. El discurso oral sigue la estructura clásica: introducción (presenta el tema), desarrollo (expone las ideas) y conclusión (resume y cierra)."
+        },
+        {
+          "letter": "D",
+          "text": "Desarrollo, conclusión, introducción",
+          "is_correct": false,
+          "feedback": "Incorrecto. El discurso no puede terminar con la introducción, porque la introducción debe presentar el tema al inicio."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El discurso oral sigue la estructura clásica de la retórica: introducción (captar la atención y presentar el tema), desarrollo (exponer las ideas principales con argumentos y ejemplos) y conclusión (resumir las ideas y cerrar con una reflexión o llamado a la acción). Esta estructura ayuda al oyente a seguir el razonamiento y a recordar los puntos clave.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.86,
+      "bundle_id": "CO-LEN-10-2026-W07-la-oralidad-y-el-discurso-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W07-la-oralidad-y-el-discurso-001-MASTERY-bundle-v4",
+      "statement": "¿Qué tipo de acto de habla está realizando el jefe según la clasificación de Searle?",
+      "context": "En una reunión de trabajo en Barranquilla, el jefe dice: \"Necesito que el informe esté listo para el viernes\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Asertivo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El acto asertivo afirma o describe un hecho; aquí el jefe no describe, sino que ordena una acción."
+        },
+        {
+          "letter": "B",
+          "text": "Comisivo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El acto comisivo compromete al hablante a una acción futura; aquí el jefe no se compromete, sino que ordena al empleado."
+        },
+        {
+          "letter": "C",
+          "text": "Expresivo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El acto expresivo manifiesta un estado emocional; aquí el jefe no expresa un sentimiento, sino que da una orden."
+        },
+        {
+          "letter": "D",
+          "text": "Directivo",
+          "is_correct": true,
+          "feedback": "Correcto. El acto directivo busca que el receptor realice una acción; el jefe ordena que el informe esté listo, lo que define un acto directivo."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "John Searle clasificó los actos de habla en cinco categorías: asertivos (afirmar), directivos (ordenar, pedir), comisivos (prometer, comprometerse), expresivos (expresar emociones) y declarativos (cambiar la realidad con las palabras). El acto directivo busca influir en el receptor para que realice una acción, como en el ejemplo del jefe que ordena el informe.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LEN-10-2026-W07-la-oralidad-y-el-discurso-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W07-la-oralidad-y-el-discurso-001-MASTERY-bundle-v5",
+      "statement": "¿Qué recurso discursivo está utilizando el candidato para desacreditar a su oponente?",
+      "context": "En un debate político en Manizales, un candidato dice: \"Mi oponente promete mucho, pero no cumple nada\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Disfemismo",
+          "is_correct": true,
+          "feedback": "Correcto. El disfemismo usa un término peyorativo para descalificar; el candidato usa \"no cumple nada\" para desacreditar a su oponente."
+        },
+        {
+          "letter": "B",
+          "text": "Eufemismo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El eufemismo suaviza una expresión para evitar ofender; aquí el candidato ataca directamente a su oponente, no suaviza."
+        },
+        {
+          "letter": "C",
+          "text": "Metáfora",
+          "is_correct": false,
+          "feedback": "Incorrecto. La metáfora sustituye un término por otro por semejanza; aquí no hay sustitución, hay una acusación directa."
+        },
+        {
+          "letter": "D",
+          "text": "Hipérbole",
+          "is_correct": false,
+          "feedback": "Incorrecto. La hipérbole exagera una cualidad; aquí el candidato no exagera, sino que acusa directamente a su oponente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El disfemismo es un recurso discursivo que utiliza términos peyorativos o descalificadores para referirse a algo o alguien. En el ejemplo, el candidato usa \"no cumple nada\" para desacreditar a su oponente, lo que es un disfemismo. A diferencia del eufemismo, que suaviza, el disfemismo busca ofender o descalificar.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Critico-Intertextual",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-10-2026-W07-la-oralidad-y-el-discurso-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W07-la-oralidad-y-el-discurso-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál de las siguientes respuestas sería la más adecuada para el candidato?",
+      "context": "En una entrevista de trabajo en Bucaramanga, el entrevistador pregunta: \"¿Cuáles son sus mayores fortalezas y debilidades?\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"No tengo debilidades, soy perfecto.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta respuesta es poco creíble y muestra falta de autoconocimiento; todos tienen debilidades y reconocerlas es señal de madurez."
+        },
+        {
+          "letter": "B",
+          "text": "\"Soy muy dedicado y responsable, aunque a veces soy perfeccionista y debo aprender a delegar.\"",
+          "is_correct": true,
+          "feedback": "Correcto. Esta respuesta muestra autoconocimiento, destaca una fortaleza y presenta una debilidad de manera constructiva, lo que es ideal en una entrevista."
+        },
+        {
+          "letter": "C",
+          "text": "\"Soy muy desorganizado y llego tarde siempre.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta respuesta es demasiado negativa y perjudica al candidato; aunque debe ser honesto, no debe destacar solo sus defectos."
+        },
+        {
+          "letter": "D",
+          "text": "\"No sé, nunca me lo he preguntado.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta respuesta muestra falta de preparación y autoconocimiento; el candidato debe reflexionar sobre sus fortalezas y debilidades antes de la entrevista."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En una entrevista de trabajo, la respuesta sobre fortalezas y debilidades debe ser honesta, equilibrada y constructiva. Lo ideal es destacar una fortaleza relevante para el puesto y presentar una debilidad de manera positiva, mostrando conciencia de ella y un plan para mejorarla. Esto demuestra autoconocimiento, madurez y capacidad de crecimiento profesional.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEN-10-2026-W07-la-oralidad-y-el-discurso-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W07-la-oralidad-y-el-discurso-001-MASTERY-bundle-v7",
+      "statement": "¿Qué tipo de lenguaje está complementando el discurso oral del ponente?",
+      "context": "En una conferencia académica en Bogotá, el ponente utiliza gráficos, imágenes y ejemplos para explicar su investigación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lenguaje verbal",
+          "is_correct": false,
+          "feedback": "Incorrecto. El lenguaje verbal es el que usa palabras habladas; aquí el ponente complementa su discurso con recursos no verbales."
+        },
+        {
+          "letter": "B",
+          "text": "Lenguaje paraverbal",
+          "is_correct": false,
+          "feedback": "Incorrecto. El lenguaje paraverbal se refiere a la entonación, el tono y el ritmo de la voz; aquí se trata de recursos visuales, no de la voz."
+        },
+        {
+          "letter": "C",
+          "text": "Lenguaje no verbal",
+          "is_correct": true,
+          "feedback": "Correcto. El lenguaje no verbal incluye gestos, posturas, expresiones faciales y recursos visuales como gráficos e imágenes."
+        },
+        {
+          "letter": "D",
+          "text": "Lenguaje escrito",
+          "is_correct": false,
+          "feedback": "Incorrecto. El lenguaje escrito usa texto; aquí el ponente usa recursos visuales como gráficos e imágenes, no texto escrito."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El lenguaje no verbal incluye todos los recursos de comunicación que no usan palabras: gestos, posturas, expresiones faciales, contacto visual, distancia interpersonal y recursos visuales como gráficos, imágenes y presentaciones. En una conferencia, el lenguaje no verbal complementa y refuerza el mensaje verbal, haciendo la comunicación más efectiva y memorable.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-10-2026-W07-la-oralidad-y-el-discurso-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W07-la-oralidad-y-el-discurso-001-MASTERY-bundle-v8",
+      "statement": "¿Qué tipo de inferencia está haciendo el amigo de María?",
+      "context": "En una conversación en Cali, María dice: \"Hace mucho calor hoy\", y su amigo responde: \"Sí, debería llover pronto\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Inferencia deductiva",
+          "is_correct": false,
+          "feedback": "Incorrecto. La inferencia deductiva va de lo general a lo particular; aquí no hay una premisa general, sino una observación del clima."
+        },
+        {
+          "letter": "B",
+          "text": "Inferencia abductiva",
+          "is_correct": false,
+          "feedback": "Incorrecto. La inferencia abductiva busca la mejor explicación para un hecho; aquí no se explica nada, se predice un evento."
+        },
+        {
+          "letter": "C",
+          "text": "Inferencia analógica",
+          "is_correct": false,
+          "feedback": "Incorrecto. La inferencia analógica compara situaciones similares; aquí no hay comparación, hay una predicción basada en la observación."
+        },
+        {
+          "letter": "D",
+          "text": "Inferencia inductiva",
+          "is_correct": true,
+          "feedback": "Correcto. La inferencia inductiva va de lo particular a lo general; el amigo observa el calor y concluye que podría llover, lo que es una inferencia inductiva."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La inferencia inductiva es un razonamiento que va de observaciones particulares a conclusiones generales o predicciones. En el ejemplo, el amigo observa el calor (particular) y concluye que podría llover (predicción general). A diferencia de la deducción, que garantiza la verdad de la conclusión si las premisas son verdaderas, la inducción solo ofrece probabilidad.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semantico",
+      "expected_success": 0.73,
+      "bundle_id": "CO-LEN-10-2026-W07-la-oralidad-y-el-discurso-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W07-la-oralidad-y-el-discurso-001-MASTERY-bundle-v9",
+      "statement": "¿Qué función del lenguaje está cumpliendo el locutor con esta frase?",
+      "context": "En un programa de radio en Pasto, el locutor dice: \"Y ahora, con ustedes, el noticiero de las ocho\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Función fática",
+          "is_correct": true,
+          "feedback": "Correcto. La función fática establece o mantiene el canal de comunicación; el locutor usa \"con ustedes\" para conectar con la audiencia."
+        },
+        {
+          "letter": "B",
+          "text": "Función representativa",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función representativa informa sobre hechos; aquí el locutor no informa, sino que presenta el programa."
+        },
+        {
+          "letter": "C",
+          "text": "Función apelativa",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función apelativa busca influir en el receptor; aquí el locutor no busca influir, sino que presenta el programa."
+        },
+        {
+          "letter": "D",
+          "text": "Función poética",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función poética busca crear belleza con las palabras; aquí el locutor no busca crear belleza, sino presentar el programa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La función fática del lenguaje, identificada por Roman Jakobson, se encarga de establecer, mantener o verificar el canal de comunicación. En el ejemplo, el locutor usa \"con ustedes\" para conectar con la audiencia y asegurar que el canal está abierto. Otras expresiones de esta función son \"¿me escuchas?\", \"¿estás ahí?\", \"hola\" al contestar el teléfono.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.71,
+      "bundle_id": "CO-LEN-10-2026-W07-la-oralidad-y-el-discurso-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W07-la-oralidad-y-el-discurso-001-MASTERY-bundle-v10",
+      "statement": "¿Qué recurso intertextual está utilizando el candidato?",
+      "context": "En un discurso político en Cartagena, el candidato dice: \"Como decía mi abuelo, 'el que no arriesga, no gana'\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Paráfrasis",
+          "is_correct": false,
+          "feedback": "Incorrecto. La paráfrasis reproduce el contenido con palabras propias; aquí el candidato cita directamente a su abuelo."
+        },
+        {
+          "letter": "B",
+          "text": "Cita textual",
+          "is_correct": true,
+          "feedback": "Correcto. La cita textual reproduce las palabras exactas de otro; el candidato cita directamente a su abuelo, lo que es una cita textual."
+        },
+        {
+          "letter": "C",
+          "text": "Alusión",
+          "is_correct": false,
+          "feedback": "Incorrecto. La alusión es una referencia indirecta; aquí el candidato cita directamente a su abuelo, no alude indirectamente."
+        },
+        {
+          "letter": "D",
+          "text": "Intertextualidad",
+          "is_correct": false,
+          "feedback": "Incorrecto. La intertextualidad es el fenómeno general; aquí se está usando un recurso específico dentro de ese fenómeno."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La cita textual es un recurso intertextual que reproduce las palabras exactas de otro autor o persona, generalmente entre comillas. En el discurso político, las citas de autoridades, líderes o familiares sirven para dar legitimidad al mensaje, conectar emocionalmente con la audiencia y apoyar los argumentos con el prestigio de quien cita.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Critico-Intertextual",
+      "expected_success": 0.69,
+      "bundle_id": "CO-LEN-10-2026-W07-la-oralidad-y-el-discurso-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W07-la-oralidad-y-el-discurso-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál de las siguientes respuestas sería la más adecuada para fomentar el diálogo?",
+      "context": "En una discusión familiar en Armenia, un joven dice: \"Mis padres no me entienden porque son de otra época\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Tienes razón, los padres nunca entienden a sus hijos.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta respuesta generaliza y no fomenta el diálogo; además, es una afirmación absoluta que no ayuda a resolver el conflicto."
+        },
+        {
+          "letter": "B",
+          "text": "\"Eso no es verdad, tus padres te quieren mucho.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta respuesta niega los sentimientos del joven y no fomenta el diálogo; primero hay que validar sus emociones."
+        },
+        {
+          "letter": "C",
+          "text": "\"Entiendo que te sientas así, ¿puedes contarme qué cosas específicas te hacen sentir incomprendido?\"",
+          "is_correct": true,
+          "feedback": "Correcto. Esta respuesta valida los sentimientos del joven, muestra empatía y abre espacio para el diálogo con una pregunta específica."
+        },
+        {
+          "letter": "D",
+          "text": "\"Deberías ser más agradecido con tus padres.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta respuesta juzga al joven y no fomenta el diálogo; además, no aborda el problema de fondo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para fomentar el diálogo en una discusión, es fundamental validar los sentimientos del interlocutor, mostrar empatía y hacer preguntas abiertas que inviten a la reflexión. La respuesta más adecuada reconoce la emoción del joven (\"entiendo que te sientas así\") y abre espacio para la comunicación con una pregunta específica que permite expresar las razones de su malestar.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-10-2026-W07-la-oralidad-y-el-discurso-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W07-la-oralidad-y-el-discurso-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál de las siguientes acciones NO es parte de la escucha activa?",
+      "context": "En un taller de resolución de conflictos en Pereira, la facilitadora explica que la escucha activa es clave para la comunicación efectiva.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mantener contacto visual con el interlocutor",
+          "is_correct": false,
+          "feedback": "Incorrecto. El contacto visual es parte de la escucha activa, muestra atención y respeto hacia el interlocutor."
+        },
+        {
+          "letter": "B",
+          "text": "Asentir con la cabeza mientras el otro habla",
+          "is_correct": false,
+          "feedback": "Incorrecto. Asentir con la cabeza es parte de la escucha activa, muestra que estás siguiendo la conversación."
+        },
+        {
+          "letter": "C",
+          "text": "Hacer preguntas para aclarar dudas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hacer preguntas es parte de la escucha activa, muestra interés y ayuda a entender mejor al interlocutor."
+        },
+        {
+          "letter": "D",
+          "text": "Interrumpir para dar tu opinión",
+          "is_correct": true,
+          "feedback": "Correcto. Interrumpir no es parte de la escucha activa; la escucha activa requiere dejar hablar al interlocutor y no interrumpir."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La escucha activa es una técnica de comunicación que requiere atención plena al interlocutor, sin interrupciones, juicios ni distracciones. Incluye contacto visual, asentimiento, preguntas de aclaración y parafraseo para verificar la comprensión. Interrumpir para dar la propia opinión rompe la escucha activa, porque desvía la atención del interlocutor hacia uno mismo.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.62,
+      "bundle_id": "CO-LEN-10-2026-W07-la-oralidad-y-el-discurso-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}
