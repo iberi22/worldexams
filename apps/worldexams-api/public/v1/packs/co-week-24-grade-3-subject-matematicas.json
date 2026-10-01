@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-24-grade-3-subject-matematicas",
+    "generated_at": "2026-10-01T17:18:36.142Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-3-2026-W24-problemas-de-adicion-y-sustraccion-001-MASTERY-bundle-v1",
+      "statement": "En una adición, ¿qué representa la primera cantidad que se escribe?",
+      "context": "En un parque de Bogotá los niños de tercero cuentan los árboles y las bancas antes de hacer la clase de educación física.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La cantidad que se quita al final del problema",
+          "is_correct": false,
+          "feedback": "Incorrecto. Quitar es lo que hace la sustracción, y la primera cantidad en una adición es la que ya existe y se une con otra."
+        },
+        {
+          "letter": "B",
+          "text": "La cantidad que ya hay y a la que se le agrega otra",
+          "is_correct": true,
+          "feedback": "Correcto. La primera cantidad es la que parte, y al agregarle la segunda se obtiene el total, por ejemplo 8 + 5 = 13."
+        },
+        {
+          "letter": "C",
+          "text": "El número de veces que hay que repetir una cantidad",
+          "is_correct": false,
+          "feedback": "Incorrecto. Repetir una cantidad es multiplicar, y en una adición las dos cantidades se suman una sola vez."
+        },
+        {
+          "letter": "D",
+          "text": "El número que siempre se resta para hallar la diferencia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restar se usa para hallar lo que falta o lo que sobra, no para nombrar la primera cantidad de una adición."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En una adición hay dos cantidades: la primera es la que ya está, y la segunda es la que se agrega. El signo más indica la unión y el resultado es el total. Por ejemplo, si un niño tiene 8 fichas y su amiga le da 5, la adición es 8 + 5 = 13 porque se juntan las dos cantidades.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-3-2026-W24-problemas-de-adicion-y-sustraccion-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W24-problemas-de-adicion-y-sustraccion-001-MASTERY-bundle-v2",
+      "statement": "¿Hay que sumar o restar para saber cuántos paquetes hay en total?",
+      "context": "En una panadería de Bucaramanga hay 45 paquetes de pan y el panadero recibe 27 paquetes más del proveedor.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sumar, porque la palabra \"más\" indica que se agrega otra cantidad",
+          "is_correct": true,
+          "feedback": "Correcto. Cuando el problema dice \"más\" hay que agregar, y aquí 45 + 27 = 72 porque las dos cantidades se juntan."
+        },
+        {
+          "letter": "B",
+          "text": "Restar, porque todo problema con dos cantidades pide quitar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo se resta cuando el problema dice \"menos\", \"faltan\" o \"quedan\", y aquí la cantidad aumenta."
+        },
+        {
+          "letter": "C",
+          "text": "Multiplicar, porque se repite la misma cantidad varias veces",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las cantidades son distintas, 45 y 27, y multiplicar se usa cuando hay grupos iguales, no una cantidad repetida."
+        },
+        {
+          "letter": "D",
+          "text": "Dividir, porque hay dos cantidades y la operación se parte en dos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividir reparte un total en partes iguales, y el problema pide juntar 45 con 27 para conocer el total."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las palabras clave del problema dicen qué operación corresponde. Aquí la expresión \"27 paquetes más\" indica que se agrega una cantidad a la que ya había, así que toca sumar: 45 + 27 = 72 paquetes en total. Si el enunciado hubiera dicho \"27 paquetes menos\", la operación correcta habría sido restar.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.82,
+      "bundle_id": "CO-MAT-3-2026-W24-problemas-de-adicion-y-sustraccion-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W24-problemas-de-adicion-y-sustraccion-001-MASTERY-bundle-v3",
+      "statement": "Cuántos pasajeros lleva el bus en total?",
+      "context": "En un terminal de buses de Medellín un bus tiene 128 pasajeros y en la siguiente estación suben 37 personas más.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "165 pasajeros",
+          "is_correct": true,
+          "feedback": "Correcto. 128 + 37 = 165 porque los que ya iban más los que suben dan el total de pasajeros del bus."
+        },
+        {
+          "letter": "B",
+          "text": "91 pasajeros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste 128 - 37 = 91, pero el bus no pierde pasajeros, así que lo correcto era sumar los que suben."
+        },
+        {
+          "letter": "C",
+          "text": "128 pasajeros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dejaste el número inicial sin cambio y olvidaste sumar los 37 pasajeros que entraron en la estación."
+        },
+        {
+          "letter": "D",
+          "text": "174 pasajeros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste 46 en lugar de 37, y el enunciado dice que suben 37 pasajeros y no 46."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El bus ya tenía 128 pasajeros y en la estación entraron 37 más. Como los pasajeros se suman, el total se obtiene con 128 + 37 = 165. La clave para no equivocarse es mirar si la cantidad del bus aumenta o disminuye: aquí aumentó, entonces toca sumar y no restar.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.76,
+      "bundle_id": "CO-MAT-3-2026-W24-problemas-de-adicion-y-sustraccion-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W24-problemas-de-adicion-y-sustraccion-001-MASTERY-bundle-v4",
+      "statement": "Cuántas unidades quedan en la estantería?",
+      "context": "En una tienda de ropa de Pereira había 250 unidades en una estantería y los clientes compraron 96 unidades.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "346 unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste 250 + 96 = 346, pero como las unidades se vendieron el total debe bajar y toca restar."
+        },
+        {
+          "letter": "B",
+          "text": "96 unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Respondiste con lo que se vendió y no con lo que queda, porque la pregunta pide las unidades que permanecen."
+        },
+        {
+          "letter": "C",
+          "text": "154 unidades",
+          "is_correct": true,
+          "feedback": "Correcto. 250 - 96 = 154 porque a las 250 unidades que había se le quitan las 96 que se vendieron."
+        },
+        {
+          "letter": "D",
+          "text": "150 unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste 100 en lugar de 96, y el enunciado dice que los clientes compraron 96 unidades y no 100."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Como las unidades se vendieron, la cantidad de la estantería disminuye y corresponde restar. El procedimiento es restar lo vendido a lo que había: 250 - 96 = 154. Ese resultado es la cantidad que quedó disponible para seguir vendiendo en la tienda.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.74,
+      "bundle_id": "CO-MAT-3-2026-W24-problemas-de-adicion-y-sustraccion-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W24-problemas-de-adicion-y-sustraccion-001-MASTERY-bundle-v5",
+      "statement": "Cuánto dinero le queda al niño?",
+      "context": "En un parque de Manizales un niño tiene 320 pesos y compra un cuaderno de colorear por 145 pesos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "465 pesos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste 320 + 145 = 465, pero al pagar el dinero disminuye y lo que se pide es lo que le queda."
+        },
+        {
+          "letter": "B",
+          "text": "175 pesos",
+          "is_correct": true,
+          "feedback": "Correcto. 320 - 145 = 175 porque al niño le toca restar lo que pagó a los pesos que ya tenía."
+        },
+        {
+          "letter": "C",
+          "text": "320 pesos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dejaste el monto inicial sin cambio y no descontaste los 145 pesos que pagó por el cuaderno."
+        },
+        {
+          "letter": "D",
+          "text": "155 pesos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste 165 en lugar de 145, y el precio del artículo era 145 pesos y no 165."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El niño tenía 320 pesos y pagó 145 pesos, así que su dinero bajó. Como la pregunta es cuánto le queda, se resta lo pagado: 320 - 145 = 175 pesos. Un buen control es sumar de nuevo: 175 + 145 = 320, que es exactamente el dinero que tenía al principio.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-3-2026-W24-problemas-de-adicion-y-sustraccion-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W24-problemas-de-adicion-y-sustraccion-001-MASTERY-bundle-v6",
+      "statement": "Después del cambio, ¿quién tiene más fichas y cuántas más?",
+      "context": "En un juego de mesa en Cali cada jugador tiene fichas. Andrés tiene 74 fichas y Mónica tiene 58 fichas; después de jugar, Andrés le da 23 fichas a Mónica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Andrés, con 39 fichas más",
+          "is_correct": false,
+          "feedback": "Incorrecto. Andrés da fichas a Mónica, así que las fichas no desaparecen y hay que sumarle las que ya tenía ella."
+        },
+        {
+          "letter": "B",
+          "text": "Andrés, con 62 fichas más",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste 74 + 23 sin mirar el cambio, porque Andrés pierde 23 fichas y no las recibe en este juego."
+        },
+        {
+          "letter": "C",
+          "text": "Mónica, con 30 fichas más",
+          "is_correct": true,
+          "feedback": "Correcto. Andrés queda con 74 - 23 = 51 y Mónica con 58 + 23 = 81, y como 81 - 51 = 30 ella termina con 30 fichas más."
+        },
+        {
+          "letter": "D",
+          "text": "Andrés, con 23 fichas más",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usaste solo la cantidad que se transfirió y olvidaste sumar las 58 fichas que Mónica ya tenía antes del cambio."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Hay que seguir el cambio por separado en cada jugador. Andrés queda con 74 - 23 = 51 fichas y Mónica con 58 + 23 = 81 fichas. Al comparar los dos resultados, 81 - 51 = 30, así que quien termina con más fichas es Mónica y la diferencia es de 30 fichas, porque las fichas se movieron de un jugador al otro.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.66,
+      "bundle_id": "CO-MAT-3-2026-W24-problemas-de-adicion-y-sustraccion-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W24-problemas-de-adicion-y-sustraccion-001-MASTERY-bundle-v7",
+      "statement": "Si cada entrada cuesta $9.000, ¿cuánto dinero se reemplazo solo el domingo?",
+      "context": "En un parque de diversiones de Bogotá se venden entradas. El sábado entraron 486 visitantes y el domingo entraron 512 visitantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$9.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste solo por una entrada, pero el domingo entraron 512 personas y hay que calcular el total de todas."
+        },
+        {
+          "letter": "B",
+          "text": "$234.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste la diferencia entre los días, 512 - 486 = 26, y multiplicaste por 9.000, pero el enunciado pide el dinero del domingo."
+        },
+        {
+          "letter": "C",
+          "text": "$4.608.000",
+          "is_correct": true,
+          "feedback": "Correcto. 512 × 9.000 = 4.608.000 porque se multiplican los 512 visitantes del domingo por el valor de cada entrada."
+        },
+        {
+          "letter": "D",
+          "text": "$8.982.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste los dos días, pero la pregunta solo pide el reemplazo del domingo y no el total del fin de semana."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para saber cuánto dinero entró el domingo hay que calcular 512 entradas por $9.000 cada una: 512 × 9.000 = $4.608.000. Los 486 visitantes del sábado no entran en la cuenta porque el enunciado pregunta únicamente por el dinero del domingo, y no por el total de los dos días juntos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.64,
+      "bundle_id": "CO-MAT-3-2026-W24-problemas-de-adicion-y-sustraccion-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W24-problemas-de-adicion-y-sustraccion-001-MASTERY-bundle-v8",
+      "statement": "¿Se puede afirmar que después del martes hay más sacos de café que antes del lunes?",
+      "context": "En una central de abastos de Cartagena el inventario marca 500 sacos de café y se despacharon 178 sacos el lunes y 213 sacos el martes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, porque cada día se despacharon más sacos que el día anterior",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que el martes fuera mayor que el lunes no dice nada sobre el total que queda, porque despachar significa sacar sacos de la bodega."
+        },
+        {
+          "letter": "B",
+          "text": "No, porque las cantidades despachadas son muy grandes",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tamaño de las cantidades no prueba nada, lo que decide es si los sacos salen de la bolsa o si vuelven a ella."
+        },
+        {
+          "letter": "C",
+          "text": "No, porque despachar 178 y 213 sacos deja menos de los 500 que había",
+          "is_correct": true,
+          "feedback": "Correcto. 178 + 213 = 391 y 500 - 391 = 109, así que quedan 109 sacos, que es menos que los 500 del principio."
+        },
+        {
+          "letter": "D",
+          "text": "Sí, porque en total se despacharon 391 sacos y eso sumó a la bolsa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste despachar con agregar, porque sacar sacos de la bolsa reduce lo que hay y no lo aumenta."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La pregunta pide evaluar si la bodega tiene más o menos sacos después de dos despachos. Se suman primero lo despachado: 178 + 213 = 391 sacos. Como la bodega tenía 500, quedan 500 - 391 = 109 sacos. Como 109 es menor que 500, la afirmación de que habrá más sacos es falsa.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-3-2026-W24-problemas-de-adicion-y-sustraccion-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    }
+  ]
+}

@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-23-grade-3-subject-matematicas",
+    "generated_at": "2026-10-01T17:18:36.142Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-3-2026-W23-fracciones-y-partes-de-un-todo-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es una fracción?",
+      "context": "En la cocina de una casa en Medellín, la profesora explica a sus estudiantes de tercero cómo se nombra una porción de torta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un número que sirve solamente para contar unidades completas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los números naturales cuentan unidades completas, mientras la fracción nombra una parte de ese todo."
+        },
+        {
+          "letter": "B",
+          "text": "Una parte de un todo que se dividió en porciones iguales",
+          "is_correct": true,
+          "feedback": "Correcto. Una fracción nombra una parte de un todo cortado en partes iguales, y el denominador indica cuántas partes se hicieron."
+        },
+        {
+          "letter": "C",
+          "text": "La suma de todos los números que hay en un grupo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumar todos los elementos da la cantidad total del grupo, no una parte, y la fracción describe un pedazo del todo."
+        },
+        {
+          "letter": "D",
+          "text": "La medida del borde de una figura rectangular",
+          "is_correct": false,
+          "feedback": "Incorrecto. El borde de una figura se mide con el perímetro, y esa medida no sirve para repartir un todo en partes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una fracción sirve para nombrar una parte de un todo que se dividió en partes iguales. Por ejemplo, si una torta se parte en 8 porciones iguales y el niño come 3, se escribe 3/8: el número de arriba indica cuántas partes se tomaron y el de abajo indica cuántas partes tiene el todo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-3-2026-W23-fracciones-y-partes-de-un-todo-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W23-fracciones-y-partes-de-un-todo-001-MASTERY-bundle-v2",
+      "statement": "¿Qué fracción de la pizza se llevó el mesero?",
+      "context": "En una pizzería de Cali un mesero reparte una pizza dividida en 8 porciones iguales y se lleva 3 para la mesa de los niños.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8/3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste los dos números, porque en 8/3 el denominador 3 dice que el todo tenía 3 partes y eran 8 porciones."
+        },
+        {
+          "letter": "B",
+          "text": "5/8",
+          "is_correct": false,
+          "feedback": "Incorrecto. El 5 corresponde a las porciones que quedaron, porque 8 - 3 = 5, y la pregunta pide las que se llevaron."
+        },
+        {
+          "letter": "C",
+          "text": "3/8",
+          "is_correct": true,
+          "feedback": "Correcto. Se llevaron 3 de las 8 partes iguales, entonces la fracción es 3/8 porque el numerador es 3 y el denominador es 8."
+        },
+        {
+          "letter": "D",
+          "text": "1/3",
+          "is_correct": false,
+          "feedback": "Incorrecto. El 1/3 habla de un todo dividido en 3 partes, pero aquí el todo tenía 8 porciones iguales."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El numerador va arriba y dice cuántas partes se toman; el denominador va abajo y dice en cuántas partes iguales se dividió el todo. Como el mesero se llevó 3 de las 8 porciones, la fracción que representa lo que se llevó es 3/8, porque el numerador cuenta la parte y el denominador el todo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Numerico",
+      "expected_success": 0.84,
+      "bundle_id": "CO-MAT-3-2026-W23-fracciones-y-partes-de-un-todo-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W23-fracciones-y-partes-de-un-todo-001-MASTERY-bundle-v3",
+      "statement": "¿Qué fracción del largo de la hoja usaron los niños?",
+      "context": "En el salón de sistemas de Pereira una hoja de cuaderno de 20 centímetros de largo se usa como regla y los niños recortan un segmento de 7 centímetros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "7/20",
+          "is_correct": true,
+          "feedback": "Correcto. Usaron 7 de los 20 centímetros del largo, y por eso la fracción del largo usado es 7/20."
+        },
+        {
+          "letter": "B",
+          "text": "20/7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Colocaste el todo abajo, porque 20/7 significa que el todo son 7 partes y el largo completo mide 20 centímetros."
+        },
+        {
+          "letter": "C",
+          "text": "7/13",
+          "is_correct": false,
+          "feedback": "Incorrecto. El 13 es lo que sobró, porque 20 - 7 = 13, y la pregunta pide la parte que sí usaron, no la que quedó."
+        },
+        {
+          "letter": "D",
+          "text": "20/27",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste el largo usado con el largo que sobró, pero una fracción siempre compara una parte contra el todo completo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para hallar la fracción se sigue este orden: el largo que usaron, que son 7 centímetros, es el numerador, y el largo total de la hoja, que son 20 centímetros, es el denominador. Así la fracción resulta 7/20, porque compara la parte que se midió con la medida completa del objeto.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.78,
+      "bundle_id": "CO-MAT-3-2026-W23-fracciones-y-partes-de-un-todo-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W23-fracciones-y-partes-de-un-todo-001-MASTERY-bundle-v4",
+      "statement": "¿Cuántas galletas quedan en la canastilla?",
+      "context": "En la panadería de Barranquilla hay 24 galletas en una canastilla y el panadero saca la mitad para empacar en bolsas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6 galletas",
+          "is_correct": false,
+          "feedback": "Incorrecto. El 6 sale de dividir 24 entre 4, y aquí solo se saca la mitad, que son 2 partes iguales de 4, no una sola."
+        },
+        {
+          "letter": "B",
+          "text": "18 galletas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste solo 6 galletas porque confundiste la mitad con una cuarta parte del total de 24."
+        },
+        {
+          "letter": "C",
+          "text": "20 galletas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos 20 son 24 menos 4, y la mitad de 24 no es 4 sino 12, porque la mitad son dos partes iguales."
+        },
+        {
+          "letter": "D",
+          "text": "12 galletas",
+          "is_correct": true,
+          "feedback": "Correcto. La mitad de 24 es 12 porque 24 repartido en 2 partes iguales da 12 en cada una, y eso es lo que queda."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La mitad significa dividir el todo en 2 partes iguales y tomar una. Para hallar esa parte se divide el total entre 2: 24 ÷ 2 = 12. Si se saca la mitad queda la otra mitad, que también tiene 12 galletas, por eso la canastilla conserva 12 galletas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.76,
+      "bundle_id": "CO-MAT-3-2026-W23-fracciones-y-partes-de-un-todo-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W23-fracciones-y-partes-de-un-todo-001-MASTERY-bundle-v5",
+      "statement": "¿Cuántos cuadraditos le quedan al niño?",
+      "context": "En una tienda de Bogotá una barra de chocolate viene dividida en 20 cuadraditos iguales y un niño se come la cuarta parte.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4 cuadraditos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El 4 es el denominador de la cuarta parte, y la pregunta pide cuántos cuadraditos quedaron, no en cuántas partes se dividió."
+        },
+        {
+          "letter": "B",
+          "text": "15 cuadraditos",
+          "is_correct": true,
+          "feedback": "Correcto. 20 menos 4 da 15, porque una cuarta parte de 20 son 5 cuadraditos y al comerlos quedan 15."
+        },
+        {
+          "letter": "C",
+          "text": "16 cuadraditos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hiciste 20 menos 4 sin multiplicar ni dividir, porque la cuarta parte de 20 no es 4 sino 20 ÷ 4 = 5."
+        },
+        {
+          "letter": "D",
+          "text": "5 cuadraditos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos 5 cuadraditos son los que se comió, porque la cuarta parte de 20 es 5, y lo que se pregunta es cuánto queda."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una cuarta parte significa dividir el todo en 4 partes iguales y tomar una. Como la barra tiene 20 cuadraditos, una parte mide 20 ÷ 4 = 5 cuadraditos. Si el niño se come esos 5, entonces quedan 20 - 5 = 15 cuadraditos en la barra.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.74,
+      "bundle_id": "CO-MAT-3-2026-W23-fracciones-y-partes-de-un-todo-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W23-fracciones-y-partes-de-un-todo-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál de las dos fracciones es mayor y por qué?",
+      "context": "En una clase de arte de Bucaramanga dos niños pintan la misma tira de cartulina: Camilo pinta 3 de 8 partes y Daniela pinta 5 de 8 partes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5/8, porque tiene menos partes en el numerador",
+          "is_correct": false,
+          "feedback": "Incorrecto. El 5 es más grande que el 3, y por eso la razón de esa opción está al revés, porque el numerador grande da la fracción mayor."
+        },
+        {
+          "letter": "B",
+          "text": "3/8, porque tiene menos partes en el denominador",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las dos fracciones comparten el denominador 8, así que el denominador no las diferencia y decide el numerador."
+        },
+        {
+          "letter": "C",
+          "text": "5/8, porque el denominador es el mismo y el numerador es más grande",
+          "is_correct": true,
+          "feedback": "Correcto. Con igual denominador gana el numerador más grande, porque 5 de 8 partes es más que 3 de 8 partes del mismo todo."
+        },
+        {
+          "letter": "D",
+          "text": "3/8, porque un numerador menor siempre da la fracción menor",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un numerador menor da una fracción menor solo si el denominador es igual, y aquí los dos denominadores son 8."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para comparar fracciones hay que fijarse primero en los denominadores. Como 3/8 y 5/8 tienen el mismo denominador 8, las dos hablan del mismo todo dividido en 8 partes iguales. En ese caso basta comparar los numeradores: como 5 es mayor que 3, la fracción mayor es 5/8.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.68,
+      "bundle_id": "CO-MAT-3-2026-W23-fracciones-y-partes-de-un-todo-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W23-fracciones-y-partes-de-un-todo-001-MASTERY-bundle-v7",
+      "statement": "¿Qué pasa con el tamaño de cada porción al dividir el todo en más partes?",
+      "context": "En una clase de tercero en Manizales la profesora reparte una misma torta de dos maneras: en 6 partes iguales para un grupo y en 3 partes iguales para otro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las porciones se hacen más pequeñas porque el mismo todo se reparte en más partes",
+          "is_correct": true,
+          "feedback": "Correcto. Si el todo es el mismo y las partes son más, cada parte vale menos, porque la sexta parte pesa menos que la tercera."
+        },
+        {
+          "letter": "B",
+          "text": "Las porciones se hacen más grandes porque hay más partes que repartir",
+          "is_correct": false,
+          "feedback": "Incorrecto. Repartir el mismo todo en más partes no agranda la porción, porque la cantidad total de torta no aumenta."
+        },
+        {
+          "letter": "C",
+          "text": "Las porciones quedan iguales porque siempre se reparte todo entre todos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo quedarían iguales si el número de partes fuera el mismo, y aquí una torta se dividió en 6 y la otra en 3."
+        },
+        {
+          "letter": "D",
+          "text": "Las porciones se hacen más pequeñas porque hay menos personas que las reciben",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tamaño de la porción depende de cuántas partes tiene el todo, no de cuántas personas hay para recibirla."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El todo es siempre la misma torta, así que lo único que cambia es la cantidad de partes iguales. Con 3 partes cada una vale un tercio de la torta; con 6 partes cada una vale un sexto. Como un sexto es más pequeño que un tercio, dividir en más partes produce porciones más pequeñas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.66,
+      "bundle_id": "CO-MAT-3-2026-W23-fracciones-y-partes-de-un-todo-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W23-fracciones-y-partes-de-un-todo-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál de los dos cortes entrega porciones más grandes a cada estudiante?",
+      "context": "En una fiesta de grado en Cartagena el equipo de Amy propone cortar una torta de 12 cuadraditos: Pedro sugiere 6 partes y María sugiere 4 partes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El corte de Pedro, porque 6 partes es un número mayor que 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un número de partes mayor no da porciones mayores, porque dividir más veces achica cada porción de la misma torta."
+        },
+        {
+          "letter": "B",
+          "text": "Los dos cortes dan porciones iguales, porque la torta es la misma",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que el todo sea el mismo no basta, porque las partes de María son menos y por eso cada una recoge más torta."
+        },
+        {
+          "letter": "C",
+          "text": "El corte de María, porque dividir en 4 partes siempre da la mitad",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividir en 4 partes da cuartas partes y no mitades, porque la mitad de la torta sería dividirla solo en 2 partes."
+        },
+        {
+          "letter": "D",
+          "text": "El corte de María, porque menos partes iguales significa porciones más grandes",
+          "is_correct": true,
+          "feedback": "Correcto. Con 4 partes cada porción es un cuarto de la torta y con 6 es un sexto, y un cuarto pesa más que un sexto."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Para decidir hay que comparar cuánto torta recoge cada porción. El corte de Pedro produce sextos, porque 12 dividido en 6 da porciones de 2 cuadraditos cada una. El corte de María produce cuartos, porque 12 dividido en 4 da porciones de 3 cuadraditos. Como 3 es mayor que 2, el corte de María entrega las porciones más grandes.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.62,
+      "bundle_id": "CO-MAT-3-2026-W23-fracciones-y-partes-de-un-todo-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    }
+  ]
+}
