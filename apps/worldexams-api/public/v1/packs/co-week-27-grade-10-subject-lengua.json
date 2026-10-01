@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-27-grade-10-subject-lengua",
+    "generated_at": "2026-10-01T14:40:30.993Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-10-2026-W27-la-dramaturgia-y-la-escena-001-MASTERY-bundle-v1",
+      "statement": "En el texto dramático, ¿qué son las acotaciones?",
+      "context": "En el aula de Bogotá, la profesora de Español proyecta la primera página de una obra y señala que casi nada de lo que el autor escribe lo dice algún personaje.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las frases que dice el protagonista cuando habla solo en escena.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es el monólogo, es decir, el discurso que un personaje pronuncia; las acotaciones son las indicaciones del autor para el montaje."
+        },
+        {
+          "letter": "B",
+          "text": "Las palabras que el público grita desde la butaca durante la representación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las acotaciones no dependen del público: son texto del autor, escrito antes de la representación, y el público no las produce."
+        },
+        {
+          "letter": "C",
+          "text": "Las indicaciones entre paréntesis que da el autor sobre gestos, tono y decorado.",
+          "is_correct": true,
+          "feedback": "Correcto. Las acotaciones van entre paréntesis y ordenan la representación: indican gestos, tono de voz, movimientos y elementos del decorado."
+        },
+        {
+          "letter": "D",
+          "text": "Los títulos de cada acto, que resumen lo que ocurre en ese tramo de la obra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los títulos de acto organizan la obra, pero no indican gestos ni decorado; esa función corresponde a las acotaciones."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las acotaciones son las indicaciones que el autor de una obra dramática escribe entre paréntesis para orientar la puesta en escena. Señalan qué hace cada personaje en un momento dado, cómo debe hablar, qué objetos aparecen en el escenario y cómo se decora el espacio. Forman parte del texto dramático pero no son palabras pronunciadas: son instrucciones dirigidas a los actores, al director y al grupo que monta la obra.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-10-2026-W27-la-dramaturgia-y-la-escena-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W27-la-dramaturgia-y-la-escena-001-MASTERY-bundle-v2",
+      "statement": "Ese pasaje entre paréntesis, ¿qué función cumple dentro de la obra?",
+      "context": "En un colegio de Medellín, dos estudiantes discuten si el pasaje «Se apagan las luces. Entra el médico con su maletín.» cuenta algo dentro de la historia o solo describe el escenario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una acotación que organiza la puesta en escena, porque informa lo que ocurre en el escenario y cómo se realiza ese momento.",
+          "is_correct": true,
+          "feedback": "Correcto. El pasaje va entre paréntesis y no lo dice un personaje: ordena la escena, la entrada del médico y el cambio de luz durante la representación."
+        },
+        {
+          "letter": "B",
+          "text": "Es un monólogo del médico, porque anticipa lo que ese personaje dirá más adelante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un monólogo es discurso hablado por un personaje; este pasaje no lo pronuncia nadie, es una instrucción del autor para el montaje."
+        },
+        {
+          "letter": "C",
+          "text": "Es una narración en prosa que cuenta el pasado del médico fuera de la acción dramática.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El autor no narra en el teatro: indica lo que hay que representar, y quien hace avanzar la historia son los personajes."
+        },
+        {
+          "letter": "D",
+          "text": "Es un diálogo entre el médico y el autor sobre el estado de las luces del teatro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay dos voces en ese pasaje: es una sola instrucción del autor, sin interlocutor, sobre un efecto de escena."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un pasaje entre paréntesis dentro de una obra dramática es siempre una acotación: informa un cambio de luz, una entrada de personaje, un gesto, un tono de voz o un elemento del decorado, y se dirige a quienes montan la obra, no al público. Esa instrucción organiza la puesta en escena sin avanzar la historia mediante narración, porque en el teatro lo que avanza la historia son las acciones y los diálogos de los personajes.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semantico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LEN-10-2026-W27-la-dramaturgia-y-la-escena-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W27-la-dramaturgia-y-la-escena-001-MASTERY-bundle-v3",
+      "statement": "Un personaje habla durante varios párrafos sin que nadie lo interrumpa. ¿Qué recurso dramático está usando?",
+      "context": "En el taller de drama de Cali, un grupo prepara un monólogo sobre el miedo para la feria escolar. La profesora les pide que marquen dónde termina el discurso del personaje.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un diálogo, porque se produce un intercambio de turnos de habla.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay intercambio: si nadie interrumpe y solo una voz habla, el recurso es un monólogo y no un diálogo."
+        },
+        {
+          "letter": "B",
+          "text": "Un monólogo, porque una sola voz se dirige a los demás durante un discurso sostenido.",
+          "is_correct": true,
+          "feedback": "Correcto. El monólogo es la intervención extensa de un solo personaje, que puede dirigirse a otros en escena o al público directamente."
+        },
+        {
+          "letter": "C",
+          "text": "Una acotación, porque el autor describe lo que el personaje hace con el cuerpo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las acotaciones van entre paréntesis; un discurso hablado sin interrupciones es monólogo y no instrucción del autor."
+        },
+        {
+          "letter": "D",
+          "text": "Un coro, porque varias voces responden al mismo tiempo desde el fondo del escenario.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El coro exige un grupo que habla en conjunto, y en este pasaje solo hay una voz sosteniendo el discurso."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El monólogo es la intervención extensa de un solo personaje, sin interrupciones, y suele expresar lo que ese personaje piensa o siente sobre la situación. El diálogo, en cambio, es el intercambio de turnos de habla entre dos o más personajes, y es el recurso más frecuente del teatro. El coro es un grupo de voces que habla al mismo tiempo, y la acotación es una instrucción del autor escrita entre paréntesis.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-10-2026-W27-la-dramaturgia-y-la-escena-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W27-la-dramaturgia-y-la-escena-001-MASTERY-bundle-v4",
+      "statement": "Si el autor separa la obra en actos, ¿qué efecto produce esa división en el texto dramático?",
+      "context": "En Tunja, la profesora entrega el texto repartido en tres actos y pregunta al grupo qué se necesita para que el público sepa en qué momento de la historia está.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Convierte la obra en una colección de cuentos independientes entre sí.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los actos no aíslan la obra: cada acto continúa la acción del anterior y el conjunto forma una sola historia."
+        },
+        {
+          "letter": "B",
+          "text": "Sustituye el diálogo de los personajes por la voz del autor, que explica lo ocurrido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El autor no cuenta la historia en el teatro: los actos organizan la acción, pero el conflicto lo hacen avanzar los personajes."
+        },
+        {
+          "letter": "C",
+          "text": "Permite omitir el conflicto, porque cada acto se cierra con su propio final.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El conflicto no se omite al dividir la obra: los actos organizan su desarrollo y el desenlace depende de la acción de los personajes."
+        },
+        {
+          "letter": "D",
+          "text": "Ordena el desarrollo de la acción en tramos y señala los momentos de mayor tensión de la obra.",
+          "is_correct": true,
+          "feedback": "Correcto. El acto funciona como una unidad que agrupa escenas y momentos de tensión, y permite seguir el desarrollo de la acción dramática."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El acto es una unidad de organización de la obra dramática: cada uno agrupa escenas y momentos de la acción, y en las obras largas suelen alternarse tramos de menor tensión con otros de máxima tensión, como el clímax o el desenlace. La división en actos no interrumpe la historia ni reemplaza el diálogo: ordena la acción y le da al público puntos de referencia sobre el momento de la obra en que se encuentra.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEN-10-2026-W27-la-dramaturgia-y-la-escena-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W27-la-dramaturgia-y-la-escena-001-MASTERY-bundle-v5",
+      "statement": "Si la obra tiene varios actos y el tiempo de la función es limitado, ¿qué es más preciso que haga el grupo?",
+      "context": "En un colegio de Medellín, la obra elegida es tan larga que no cabe en una hora de función. La profesora pregunta al grupo qué debe hacer para representar el texto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Leer en voz alta todos los actos, porque el texto completo ya es la representación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Leer el texto completo ante el público no resuelve el problema del tiempo, y además confunde lectura dramática con puesta en escena."
+        },
+        {
+          "letter": "B",
+          "text": "Representar los actos en orden inverso, porque así la obra cabe mejor en el tiempo disponible.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertir el orden altera la secuencia del conflicto y destruye la lógica de la obra, de modo que no es una solución viable."
+        },
+        {
+          "letter": "C",
+          "text": "Seleccionar las escenas esenciales y representarlas en orden, ajustando el montaje al tiempo disponible.",
+          "is_correct": true,
+          "feedback": "Correcto. Cuando el tiempo no alcanza se eligen las escenas que sostienen el conflicto, y el orden importa porque la obra debe leerse como una secuencia."
+        },
+        {
+          "letter": "D",
+          "text": "Eliminar el conflicto de la obra, porque es el elemento que consume más tiempo en escena.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El conflicto es el motor de la obra dramática; quitarlo deja la escena sin historia y no reduce el problema del tiempo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cuando una obra completa excede el tiempo disponible, la solución dramatúrgica es seleccionar las escenas que sostienen el conflicto y representarlas respetando el orden original, ajustando el montaje con recursos de la mise-en-escena. Leer el texto sin montarlo no resuelve la dificultad, invertir el orden rompe la secuencia del relato dramático y eliminar el conflicto deja la obra sin historia.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEN-10-2026-W27-la-dramaturgia-y-la-escena-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W27-la-dramaturgia-y-la-escena-001-MASTERY-bundle-v6",
+      "statement": "La deducción de Andrés sobre el parentesco de los personajes pertenece a qué nivel de lectura?",
+      "context": "En Bogotá, dos estudiantes analizan la misma escena. Camila lee lo que dicen los personajes; Andrés, en cambio, deduce el parentesco entre ellos a partir de las palabras que eligen.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Inferencial, porque extrae una relación que el texto no declara de manera explícita.",
+          "is_correct": true,
+          "feedback": "Correcto. La lectura inferencial deduce lo que el texto sugiere a partir de lo que dice, como el trato entre dos personajes y el vínculo que los une."
+        },
+        {
+          "letter": "B",
+          "text": "Literal, porque el parentesco aparece escrito en el texto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si el parentesco estuviera escrito, la lectura sería literal; la relación se deduce de las palabras y de los tratos entre los personajes."
+        },
+        {
+          "letter": "C",
+          "text": "Crítica, porque Andrés valora la manera en que el autor presenta a los personajes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valorar la presentación de los personajes es una tarea crítica; aquí se está deduciendo un dato que el texto deja implícito."
+        },
+        {
+          "letter": "D",
+          "text": "Traductora, porque Andrés cambia las palabras del texto original por sinónimos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay traducción en este análisis: el ejercicio es deducir información a partir de lo que los personajes dicen."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El nivel inferencial de lectura permite deducir lo que el texto no enuncia de manera explícita. En una escena dramática, las formas de tratamiento, el tono de las frases y lo que un personaje sabe o ignora permiten reconstruir vínculos familiares, relaciones de poder o de dependencia. Ese trabajo deducido es el paso intermedio entre leer lo que está escrito y valorar críticamente el texto.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LEN-10-2026-W27-la-dramaturgia-y-la-escena-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W27-la-dramaturgia-y-la-escena-001-MASTERY-bundle-v7",
+      "statement": "Si en una escena solo un personaje habla y los demás permanecen en silencio toda la secuencia, ¿qué se puede afirmar?",
+      "context": "En el ensayo general de Tunja, un actor lee todas las réplicas de su personaje en un solo bloque y los demás actores no intervienen. La profesora pregunta si la escena funciona.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La escena es correcta, porque el monólogo es la forma propia del texto dramático.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El monólogo es un recurso, no la norma: la forma más frecuente del teatro es el diálogo entre varios personajes."
+        },
+        {
+          "letter": "B",
+          "text": "La escena pierde el carácter de la obra de teatro, porque la acción se construye con el intercambio de los personajes.",
+          "is_correct": true,
+          "feedback": "Correcto. El texto dramático avanza mediante la relación entre personajes, y si nadie interviene no hay acción dramática posible."
+        },
+        {
+          "letter": "C",
+          "text": "La escena funciona mejor, porque el público concentra toda su atención en una sola voz.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La concentración no compensa la ausencia de acción: el intercambio entre personajes es lo que construye el conflicto dramático."
+        },
+        {
+          "letter": "D",
+          "text": "La escena es correcta, porque el autor puede escribir soliloquios en lugar de diálogos cuando quiere.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El autor sí puede incluir soliloquios, pero una escena entera sin intervención de otros personajes queda sin acción dramática."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El texto dramático construye la acción mediante la relación entre personajes: lo que uno dice provoca una reacción en el otro, y de ese choque nacen el conflicto y el avance de la historia. El monólogo es un recurso valioso dentro de una obra, pero si durante toda una secuencia solo una voz interviene, la escena pierde el carácter dramático y se convierte en un discurso, no en un tramo de representación.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semantico",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LEN-10-2026-W27-la-dramaturgia-y-la-escena-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W27-la-dramaturgia-y-la-escena-001-MASTERY-bundle-v8",
+      "statement": "¿Qué relación existe entre esos objetos colocados y las acotaciones de la obra?",
+      "context": "En el montaje escolar de Bogotá, el grupo coloca un banco, una manta y una lámpara en el escenario, y luego lee la acotación que pide una luz tenue y personajes de pie.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los objetos contradicen las acotaciones, porque el decorado no se escribe en el texto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El decorado sí se indica en el texto: las acotaciones describen decorado, luz y sonido, y el montaje debe seguirlas."
+        },
+        {
+          "letter": "B",
+          "text": "Las acotaciones solo sirven para el director, y los objetos del escenario no dependen de ellas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las acotaciones orientan a todo el equipo: al director, a los actores y al grupo que prepara objetos, luz y sonido."
+        },
+        {
+          "letter": "C",
+          "text": "Los objetos y la luz materializan las acotaciones, porque lo que el texto indica se traduce en decisiones de escena.",
+          "is_correct": true,
+          "feedback": "Correcto. La indicación de luz tenue se vuelve una lámpara concreta y el escenario se arma con lo que el texto pide, de ahí la relación directa."
+        },
+        {
+          "letter": "D",
+          "text": "Las acotaciones describen a los personajes, y por eso no dicen nada sobre objetos ni iluminación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las acotaciones también describen decorado, efectos de luz y sonido; limitar su función a los personajes reduce su alcance real."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las acotaciones describen todo lo que el texto pide ver en el escenario: los gestos y el tono de los personajes, pero también los objetos, la iluminación, el sonido y el decorado. Por eso la mise-en-escena, que es el conjunto de decisiones visuales y sonoras de una puesta, se construye leyendo con atención esas indicaciones. Un banco, una manta y una lámpara son la traducción concreta de lo que el autor escribió entre paréntesis.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-10-2026-W27-la-dramaturgia-y-la-escena-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W27-la-dramaturgia-y-la-escena-001-MASTERY-bundle-v9",
+      "statement": "Frente a una acotación que describe el decorado con exceso de detalle, ¿qué lectura crítica es la más precisa?",
+      "context": "En Medellín, un grupo puso en escena una obra donde cada escena empezaba con una acotación larga que describía cada objeto del decorado. El públicochselte porque las instrucciones eran tan cerradas que la imaginación no tenía espacio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El exceso de detalle es siempre un defecto, porque ninguna acotación puede describir el escenario.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las acotaciones sí pueden describir el decorado; el problema no es el contenido del detalle sino su exceso."
+        },
+        {
+          "letter": "B",
+          "text": "El exceso de detalle es un problema, porque una acotación que lo describe todo deja poco margen a la imaginación del público.",
+          "is_correct": true,
+          "feedback": "Correcto. Cuando la acotación precisa cada objeto y cada efecto de luz, el espectador recibe un escenario cerrado y pierde el espacio para imaginar."
+        },
+        {
+          "letter": "C",
+          "text": "El exceso de detalle es correcto, porque el autor debe garantizar que todos los montajes sean idénticos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La obra admite distintas interpretaciones; la acotación orienta, no obliga a que cada montaje sea una copia idéntica."
+        },
+        {
+          "letter": "D",
+          "text": "El exceso de detalle no tiene efecto, porque el público nunca lee las acotaciones durante la función.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque el público no lea el texto impreso, ve la escena montada y, si todo está fijado, su imaginación queda limitada."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una acotación funciona como una guía abierta: indica lo esencial para que la escena funcione, pero no necesita convertir el escenario en un inventario. Cuando el detalle llega a cada objeto y a cada efecto de luz, la puesta en escena queda predeterminada y el público pierde la posibilidad de completar con su imaginación lo que el texto no dice. El equilibrio entre precisión y libertad es una decisión consciente del autor sobre su relación con el espectador.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEN-10-2026-W27-la-dramaturgia-y-la-escena-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W27-la-dramaturgia-y-la-escena-001-MASTERY-bundle-v10",
+      "statement": "¿Qué comparación entre los dos montajes es más precisa?",
+      "context": "En un colegio de Barranquilla, dos grupos montan la misma escena: uno con un actor que narra toda la historia y otro con varios personajes que discuten. La profesora pide comparar las dos propuestas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El montaje con varios personajes es más teatral, porque la acción se construye en el intercambio y no en la narración de un solo actor.",
+          "is_correct": true,
+          "feedback": "Correcto. El texto dramático construye la acción en la relación entre personajes; un narrador único que cuenta la historia se acerca al género narrativo."
+        },
+        {
+          "letter": "B",
+          "text": "El montaje con un narrador único es más teatral, porque el teatro se apoya en la voz antes que en el cuerpo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El teatro combina voz y cuerpo; lo característico del género es la acción compartida entre personajes, no la voz de un narrador."
+        },
+        {
+          "letter": "C",
+          "text": "Los dos montajes son equivalentes, porque cualquier forma de contar una historia sirve igual en el escenario.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No toda forma de contar funciona igual en el teatro: el intercambio dramático es precisamente lo que distingue este género."
+        },
+        {
+          "letter": "D",
+          "text": "El montaje con varios personajes es peor, porque el diálogo esconde lo que el autor quiso decir con sus acotaciones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El diálogo no esconde el sentido de las acotaciones: el diálogo hace avanzar la acción mientras las acotaciones ordenan la escena."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El texto dramático se distingue porque su materia es la acción de los personajes: lo que uno dice y hace provoca una respuesta en el otro, y de ese conflicto nace la historia sobre el escenario. Un montaje en el que un único actor narra lo ocurrido se acerca a un género narrativo, porque la historia se cuenta en lugar de dramatizarse. El diálogo es, por eso, el instrumento central de la puesta en escena.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEN-10-2026-W27-la-dramaturgia-y-la-escena-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W27-la-dramaturgia-y-la-escena-001-MASTERY-bundle-v11",
+      "statement": "Frente a un sainete y una obra contemporánea, ¿qué lectura sostiene mejor la diferencia entre los dos textos?",
+      "context": "En Cali, la profesora compara un sainete de barrio con una obra de teatro colombiano contemporáneo y pide explicar qué cambia entre una cosa y la otra.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El sainete es mejor que la obra contemporánea, porque el humor del barrio siempre es más complejo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La complejidad no depende del género: ambas formas pueden ser sencillas o ambiciosas, y el sainete no es mejor por ser más antiguo."
+        },
+        {
+          "letter": "B",
+          "text": "La obra contemporánea es peor, porque el sainete conserva una tradición que el teatro de hoy ya no necesita.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tradición no estorba la obra contemporánea; ambas formas conviven porque resuelven problemas de escena distintos."
+        },
+        {
+          "letter": "C",
+          "text": "El sainete usa un humor breve y costumbrista, mientras la obra contemporánea experimenta con formas más largas y complejas.",
+          "is_correct": true,
+          "feedback": "Correcto. El sainete resuelve una escena breve de la vida cotidiana con humor, y la obra contemporánea desarrolla personajes y conflictos más complejos."
+        },
+        {
+          "letter": "D",
+          "text": "No hay diferencia, porque toda obra de teatro debe organizar sus personajes del mismo modo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La duración, el tono y el tipo de conflicto varían según cada obra, de modo que no puede decirse que sean la misma cosa."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El sainete es una pieza breve, de tono humorístico y costumbrista, que reproduce situaciones cotidianas con pocos personajes y una acción sencilla. La obra contemporánea desarrolla el conflicto durante más actos, con personajes más complejos y una construcción más exigente de la escena. Compararlas no significa jerarquizarlas: cada forma responde a un problema distinto dentro del mismo género dramático.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Critico-Intertextual",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEN-10-2026-W27-la-dramaturgia-y-la-escena-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W27-la-dramaturgia-y-la-escena-001-MASTERY-bundle-v12",
+      "statement": "Si esas decisiones de escena se repiten en toda la obra, ¿qué efecto sobre el público es más preciso?",
+      "context": "En un grupo de Bogotá se lee una escena donde las acotaciones indican un espacio pobre, una luz baja y un sonido de lluvia, mientras los personajes discuten sobre una herencia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un efecto nulo, porque las decisiones de escena no influyen en la recepción del texto dramático.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mise-en-escena organiza lo que el público ve, oye y siente, de modo que sí influye directamente en la recepción."
+        },
+        {
+          "letter": "B",
+          "text": "Un efecto decorativo, porque su único propósito es hacer más bella la puesta en escena.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La puesta en escena no es solo decoración: cada decisión espacial, lumínica y sonora orienta la manera en que se entiende la escena."
+        },
+        {
+          "letter": "C",
+          "text": "Un efecto de contraste, porque las decisiones del espacio se oponen siempre al conflicto de los personajes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El contraste puede ocurrir, pero no es un efecto automático: depende de cómo el autor relacione cada decisión concreta con el conflicto."
+        },
+        {
+          "letter": "D",
+          "text": "Un efecto de coherencia, porque las decisiones repetidas construyen una atmósfera que orienta la lectura de los diálogos.",
+          "is_correct": true,
+          "feedback": "Correcto. Repetir un espacio, una luz y un sonido crea una atmósfera estable que guía cómo el público entiende y siente cada escena."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La mise-en-escena es el conjunto de decisiones que el equipo de montaje toma sobre espacio, objetos, luz y sonido. Cuando esas decisiones se repiten de manera consistente a lo largo de la obra, construyen una atmósfera reconocible que orienta al público mientras escucha los diálogos. Ese efecto es de coherencia: le da al espectador un marco estable para interpretar lo que ocurre en el escenario.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEN-10-2026-W27-la-dramaturgia-y-la-escena-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}
