@@ -13,19 +13,19 @@
       "context": "En Bogotá, un docente escribe en el tablero la relación que vincula lados y ángulos opuestos de un triángulo cualquiera.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "a/sen A = b/sen B = c/sen C",
           "is_correct": true,
           "feedback": "Correcto. La ley del seno iguala el cociente de cada lado con el seno de su ángulo opuesto."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "a · sen A = b · sen B",
           "is_correct": false,
           "feedback": "Incorrecto. La relación es un cociente, no un producto."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "a² = b² + c²",
           "is_correct": false,
           "feedback": "Incorrecto. Esa expresión incompleta corresponde al teorema de Pitágoras."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Los denominadores deben ser los senos de los ángulos opuestos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La ley del seno establece que a/sen A = b/sen B = c/sen C para cualquier triángulo.",
       "difficulty": "4",
       "images": [],
@@ -59,19 +59,19 @@
       "context": "En Medellín, un estudiante resuelve un triángulo del que conoce dos lados y el ángulo comprendido.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "a² = b² + c² − 2bc · cos A",
           "is_correct": true,
           "feedback": "Correcto. El término del coseno se resta del cuadrado de los lados."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "a² = b² + c² + 2bc · cos A",
           "is_correct": false,
           "feedback": "Incorrecto. El término del coseno se resta, no se suma."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "a² = b² − c²",
           "is_correct": false,
           "feedback": "Incorrecto. Falta el tercer término y el cuadrado del otro lado."
@@ -83,7 +83,7 @@
           "feedback": "Incorrecto. Esa expresión no corresponde a la ley del coseno."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La ley del coseno para el lado a es a² = b² + c² − 2bc · cos A.",
       "difficulty": "4",
       "images": [],
@@ -105,19 +105,19 @@
       "context": "En Cali, un triángulo tiene A = 30°, a = 5 cm y B = 45°. Se sabe que sen 30° = 1/2 y sen 45° = √2/2.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "5√2 cm",
           "is_correct": true,
           "feedback": "Correcto. b = 5 · sen45°/sen30° = 5√2 cm."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "5√3 cm",
           "is_correct": false,
           "feedback": "Incorrecto. Usaste el seno de 60° en vez del de 45°."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "10 cm",
           "is_correct": false,
           "feedback": "Incorrecto. Duplicaste a sin completar bien la razón de senos."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecto. Invertiste la razón entre los senos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Por la ley del seno, b = a · sen B / sen A = 5 · (√2/2) / (1/2) = 5√2 cm.",
       "difficulty": "6",
       "images": [],
@@ -157,25 +157,25 @@
           "feedback": "Incorrecto. Sumaste los lados sin aplicar el término del coseno."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "7 m",
           "is_correct": true,
           "feedback": "Correcto. a² = 25 + 64 − 40 = 49, luego a = 7 m."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "√89 m",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste restar el término 2bc·cos A."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "49 m",
           "is_correct": false,
           "feedback": "Incorrecto. Ese es el valor de a², no de a."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Por la ley del coseno: a² = 5² + 8² − 2(5)(8)(1/2) = 89 − 40 = 49, así que a = 7 m.",
       "difficulty": "6",
       "images": [],
@@ -249,25 +249,25 @@
           "feedback": "Incorrecto. Dividiste en vez de multiplicar por la razón de senos."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "6√2 cm",
           "is_correct": true,
           "feedback": "Correcto. c = 12 · sen30°/sen45° = 6√2 cm."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "12√2 cm",
           "is_correct": false,
           "feedback": "Incorrecto. No simplificaste el factor 12 con la razón de senos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "6√3 cm",
           "is_correct": false,
           "feedback": "Incorrecto. Usaste el seno de 60° en lugar del de 45°."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Por la ley del seno: c = b · sen C / sen B = 12 · (1/2)/(√2/2) = 6√2 cm.",
       "difficulty": "6",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "En Manizales, un estudiante conoce a = 10 cm, b = 15 cm y A = 30°. Calcula sen B = (15 · sen 30°)/10 = 0.75 y obtiene B ≈ 48.6°.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Dos, porque el ángulo B también puede ser el suplemento 131.4° y ambos son válidos con A = 30°",
           "is_correct": true,
           "feedback": "Correcto. Es el caso ambiguo: sen B = 0.75 admite dos ángulos y ambos dejan suma menor que 180°."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Uno, porque sen B = 0.75 tiene una única solución",
           "is_correct": false,
           "feedback": "Incorrecto. El seno es positivo en dos cuadrantes, así que hay dos ángulos posibles."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecto. La ley del seno da como máximo dos soluciones, no infinitas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Con sen B = 0.75 se obtienen B ≈ 48.6° o B ≈ 131.4°; como en ambos casos A + B < 180°, existen dos triángulos posibles.",
       "difficulty": "8",
       "images": [],
@@ -335,31 +335,31 @@
       "context": "En Cartagena, dos calles parten de una plaza con un ángulo de 120° entre ellas. Una calle mide 6 km y la otra 10 km. Se sabe que cos 120° = −1/2.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "14 km",
           "is_correct": true,
           "feedback": "Correcto. d² = 36 + 100 + 60 = 196, luego d = 14 km."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "16 km",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste los lados sin aplicar la ley del coseno."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "√136 km",
           "is_correct": false,
           "feedback": "Incorrecto. Restaste el término en vez de sumarlo al ser el coseno negativo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "8 km",
           "is_correct": false,
           "feedback": "Incorrecto. Restaste los lados, procedimiento que no corresponde."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "d² = 6² + 10² − 2(6)(10)(−1/2) = 36 + 100 + 60 = 196, por lo que d = 14 km.",
       "difficulty": "8",
       "images": [],
@@ -427,13 +427,13 @@
       "context": "En Ibagué, un triángulo tiene lados de 7 cm, 8 cm y 9 cm. Se desea hallar el ángulo opuesto al lado de 9 cm.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "73.4°",
           "is_correct": true,
           "feedback": "Correcto. cos C = (49 + 64 − 81)/(2·7·8) = 32/112 ≈ 0.2857, luego C ≈ 73.4°."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "60°",
           "is_correct": false,
           "feedback": "Incorrecto. 60° correspondería a un triángulo equilátero, no a lados 7, 8 y 9."
@@ -451,7 +451,7 @@
           "feedback": "Incorrecto. El coseno de 45° no coincide con el valor obtenido."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Con la ley del coseno, cos C = (49 + 64 − 81)/112 ≈ 0.2857, de donde C ≈ 73.4°.",
       "difficulty": "8",
       "images": [],
@@ -519,31 +519,31 @@
       "context": "En Cúcuta, un estudiante conoce los tres lados de un triángulo (6 cm, 7 cm y 11 cm) y, para hallar un ángulo, intenta aplicar la ley del seno escribiendo 6/sen A = 7/sen B sin conocer ningún ángulo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Es incorrecto: la ley del seno exige conocer un ángulo; con los tres lados debe usar la ley del coseno",
           "is_correct": true,
           "feedback": "Correcto. Con tres lados se aplica la ley del coseno para despejar un ángulo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Es correcto: la ley del seno permite hallar el ángulo A directamente",
           "is_correct": false,
           "feedback": "Incorrecto. La ley del seno necesita al menos un ángulo conocido."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Es correcto porque el triángulo es rectángulo",
           "is_correct": false,
           "feedback": "Incorrecto. Los lados 6, 7 y 11 no forman un triángulo rectángulo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Es incorrecto porque la ley del seno solo vale para triángulos equiláteros",
           "is_correct": false,
           "feedback": "Incorrecto. La ley del seno vale para todo triángulo, pero requiere un ángulo conocido."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La ley del seno requiere al menos un ángulo conocido. Cuando se conocen los tres lados, la herramienta adecuada es la ley del coseno.",
       "difficulty": "10",
       "images": [],

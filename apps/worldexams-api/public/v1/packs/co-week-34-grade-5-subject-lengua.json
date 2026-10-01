@@ -59,19 +59,19 @@
       "context": "En Medellín, Tomás describe a su perro: \"Es pequeño, de pelo café y orejas largas; siempre mueve la cola cuando llego del colegio\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Que sus rasgos físicos son el tamaño, el color del pelo y las orejas, y que muestra alegría al verlo llegar.",
           "is_correct": true,
           "feedback": "Es correcta porque reúne los rasgos físicos y el comportamiento descritos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Que el perro es grande y de pelo negro.",
           "is_correct": false,
           "feedback": "Es incorrecta porque la descripción dice que es pequeño y de pelo café."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Que el perro vive en el parque y no con Tomás.",
           "is_correct": false,
           "feedback": "Es incorrecta porque la descripción no menciona dónde vive el perro."
@@ -83,7 +83,7 @@
           "feedback": "Es incorrecta porque mover la cola indica que sí lo reconoce."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Entender una descripción consiste en separar los rasgos físicos de los de comportamiento. Tomás menciona tamaño, color y orejas, y añade que el perro mueve la cola. Distinguir \"cómo es\" de \"cómo actúa\" permite comprender mejor a los animales y a las personas.",
       "difficulty": "4",
       "images": [],
@@ -105,13 +105,13 @@
       "context": "En Cali, los estudiantes deben describir un objeto para que un compañero lo adivine sin verlo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Es pequeño, rectangular, de caucho blanco y sirve para borrar el lápiz.",
           "is_correct": true,
           "feedback": "Es correcta porque menciona forma, material, color y uso del objeto."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Es un objeto que existe en muchos colores.",
           "is_correct": false,
           "feedback": "Es incorrecta porque esa idea sirve para casi cualquier objeto y no lo identifica."
@@ -129,7 +129,7 @@
           "feedback": "Es incorrecta porque no dice forma, material ni uso."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Aplicar la descripción exige elegir los datos que permitan reconocer el objeto: forma, material, color y uso. La opción correcta reúne esos cuatro aspectos y casi no deja dudas. Las descripciones vagas, como \"es bonito\", no ayudan a imaginar el objeto y por eso deben evitarse.",
       "difficulty": "6",
       "images": [],
@@ -151,19 +151,19 @@
       "context": "En Barranquilla, una estudiante describe al loro de su abuela: \"Tiene plumas verdes, pico curvo y repite algunas palabras\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Repetir algunas palabras.",
           "is_correct": true,
           "feedback": "Es correcta porque repetir palabras describe una acción o habilidad del loro."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Tener plumas verdes.",
           "is_correct": false,
           "feedback": "Es incorrecta porque las plumas verdes son un rasgo físico."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Tener el pico curvo.",
           "is_correct": false,
           "feedback": "Es incorrecta porque el pico curvo es también un rasgo físico."
@@ -175,7 +175,7 @@
           "feedback": "Es incorrecta porque esa palabra nombra al animal y no menciona una acción."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Aplicar la descripción implica reconocer qué tipo de dato aporta cada palabra. El color de las plumas y la forma del pico describen el aspecto del loro; repetir palabras describe su comportamiento. Separar apariencia y acción hace que la descripción sea ordenada y completa.",
       "difficulty": "6",
       "images": [],
@@ -197,31 +197,31 @@
       "context": "En una papelería de Pereira, la vendedora describe un cuaderno: \"Tiene 100 hojas, pasta dura y cuesta 3500 pesos\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "La cantidad de hojas, el tipo de pasta y el precio en pesos.",
           "is_correct": true,
           "feedback": "Es correcta porque esos tres datos permiten comparar el cuaderno con otros."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Solo el nombre de la papelería.",
           "is_correct": false,
           "feedback": "Es incorrecta porque el nombre del local no describe el cuaderno."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El día en que llegó el pedido.",
           "is_correct": false,
           "feedback": "Es incorrecta porque la descripción no menciona ese dato."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El color de la vitrina.",
           "is_correct": false,
           "feedback": "Es incorrecta porque el color de la vitrina no informa sobre el cuaderno."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "En la vida diaria describimos objetos para tomar decisiones, como comprar un cuaderno. Los datos útiles son las características del producto: número de hojas, tipo de pasta y precio en pesos colombianos. Aprender a fijarse en esos detalles ayuda a comparar opciones y a elegir mejor.",
       "difficulty": "6",
       "images": [],
@@ -243,19 +243,19 @@
       "context": "En Bucaramanga, dos compañeros describen la misma tortuga durante la clase de ciencias naturales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Que Luis usa una comparación figurada y Ana describe con rasgos directos.",
           "is_correct": true,
           "feedback": "Es correcta porque Luis llama \"casa\" al caparazón en sentido figurado."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Que Ana habla de un animal diferente al de Luis.",
           "is_correct": false,
           "feedback": "Es incorrecta porque las dos descripciones se refieren a la tortuga."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Que Luis no conoce a la tortuga de la clase.",
           "is_correct": false,
           "feedback": "Es incorrecta porque su descripción coincide con la de Ana."
@@ -267,7 +267,7 @@
           "feedback": "Es incorrecta porque cada uno eligió palabras y comparaciones distintas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Analizar descripciones permite comparar estilos. Ana utiliza rasgos directos, como \"lenta\" y \"caparazón duro\"; Luis usa una comparación figurada, al decir que la tortuga lleva su casa encima. Ambas son válidas, pero reconocer el estilo ayuda a enriquecer la propia manera de describir.",
       "difficulty": "8",
       "images": [],
@@ -289,19 +289,19 @@
       "context": "En Cartagena, un aviso ofrece un ventilador usado: \"Ventilador nuevo, de tres velocidades, color blanco, funciona muy bien\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "El precio.",
           "is_correct": true,
           "feedback": "Es correcta porque sin el precio el comprador no puede comparar ni decidir."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El color del ventilador.",
           "is_correct": false,
           "feedback": "Es incorrecta porque el aviso sí dice que es blanco."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La cantidad de velocidades.",
           "is_correct": false,
           "feedback": "Es incorrecta porque el aviso menciona que tiene tres velocidades."
@@ -313,7 +313,7 @@
           "feedback": "Es incorrecta porque el aviso indica claramente que es un ventilador."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Analizar una descripción también implica detectar lo que falta. El aviso informa el estado, las velocidades y el color, pero omite el precio, dato esencial en una venta. Revisar si la descripción responde a las preguntas del lector ayuda a comunicar de forma completa y útil.",
       "difficulty": "8",
       "images": [],
@@ -335,13 +335,13 @@
       "context": "En Bogotá, la profesora pide elegir la mejor descripción de un objeto para el mural del salón y publicarla con una imagen.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Es un termo metálico de color rojo, de veinte centímetros, con tapa y asa, que conserva bebidas frías o calientes.",
           "is_correct": true,
           "feedback": "Es correcta porque reúne material, color, tamaño, partes y uso del objeto."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Es un objeto rojo y bonito que sirve para muchas cosas.",
           "is_correct": false,
           "feedback": "Es incorrecta porque no precisa material, tamaño, partes ni uso."
@@ -359,7 +359,7 @@
           "feedback": "Es incorrecta porque repite adjetivos de apariencia y no menciona partes ni uso."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Evaluar descripciones exige comprobar si responden a las preguntas básicas: qué es, cómo es, de qué material, de qué tamaño, qué partes tiene y para qué sirve. La opción correcta responde a todas, mientras las demás se quedan en la apariencia. Una buena descripción permite que el lector imagine el objeto sin verlo.",
       "difficulty": "10",
       "images": [],

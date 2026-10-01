@@ -13,31 +13,31 @@
       "context": "En Bogotá, Juan analiza los términos de la sucesión aritmética $a_n = 3n + 2$ para $n = 1, 2, 3...$",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "5, 8, 11",
           "is_correct": true,
           "feedback": "Correcto. $a_1 = 3(1)+2=5, a_2 = 3(2)+2=8, a_3 = 3(3)+2=11$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "3, 6, 9",
           "is_correct": false,
           "feedback": "Incorrecto. Se olvidó sumar la constante 2."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "2, 5, 8",
           "is_correct": false,
           "feedback": "Incorrecto. Se empezó a evaluar en $n=0$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "5, 10, 15",
           "is_correct": false,
           "feedback": "Incorrecto. Se asumió una progresión de diferencia 5."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Sustituyendo $n=1, 2, 3$: $a_1 = 5, a_2 = 8, a_3 = 11$. Es una sucesión aritmética con diferencia común $d = 3$.",
       "difficulty": "4",
       "images": [],
@@ -105,13 +105,13 @@
       "context": "En Cali, Mateo calcula la suma de los primeros 10 términos de la serie aritmética $S_n = \\frac{{n(a_1 + a_n)}}{{2}}$ con $a_1 = 2$ y $a_{{10}} = 20$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "110",
           "is_correct": true,
           "feedback": "Correcto. $S_{10} = \\frac{10(2 + 20)}{2} = 5(22) = 110$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "220",
           "is_correct": false,
           "feedback": "Incorrecto. Se olvidó dividir entre 2."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecto. Se dividió $110$ por 2 de nuevo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "$S_{10} = \\frac{10(2 + 20)}{2} = \\frac{220}{2} = 110$.",
       "difficulty": "4",
       "images": [],
@@ -151,31 +151,31 @@
       "context": "En Barranquilla, Camila calcula la suma infinita de la serie geométrica convergente $S = \\frac{{a}}{{1 - r}}$ con primer término $a = 6$ y razón $r = \\frac{{1}}{{2}}$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "12",
           "is_correct": true,
           "feedback": "Correcto. $S = \\frac{6}{1 - 1/2} = \\frac{6}{1/2} = 12$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "3",
           "is_correct": false,
           "feedback": "Incorrecto. Se multiplicó $6 \\times (1/2)$ en lugar de dividir por $1 - r$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "9",
           "is_correct": false,
           "feedback": "Incorrecto. Se restó $6 - (1/2)$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "6",
           "is_correct": false,
           "feedback": "Incorrecto. Se tomó solo el primer término $a$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La suma de una serie geométrica infinita con $|r| < 1$ es $S = \\frac{a}{1 - r} = \\frac{6}{1/2} = 12$.",
       "difficulty": "4",
       "images": [],
@@ -197,19 +197,19 @@
       "context": "En Cartagena, Santiago examina la serie armónica $\\sum_{{n=1}}^\\infty \\frac{{1}}{{n}} = 1 + \\frac{{1}}{{2}} + \\frac{{1}}{{3}} + ...$",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Diverge a infinito.",
           "is_correct": true,
           "feedback": "Correcto. Aunque los términos tiende a 0 ($\\lim \\frac{1}{n} = 0$), la serie armónica diverge a infinito ($p$-serie con $p=1$)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Converge a 2.",
           "is_correct": false,
           "feedback": "Incorrecto. 2 es la suma de la serie geométrica $1 + 1/2 + 1/4 + 1/8 + ...$"
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Converge a 1.",
           "is_correct": false,
           "feedback": "Incorrecto. Es únicamente el valor del primer término."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto. $e$ surge de $\\lim (1 + 1/n)^n$, no de la serie armónica."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La serie armónica es una $p$-serie con $p=1$, la cual diverge a $+\\infty$ aunque sus términos decrezcan a 0.",
       "difficulty": "6",
       "images": [],
@@ -289,19 +289,19 @@
       "context": "En Manizales, Alejandro utiliza el criterio del D'Alembert (cociente) $L = \\lim_{{n \\to \\infty}} \\left| \\frac{{a_{{n+1}}}}{{a_n}} \\right|$ para la serie $\\sum \\frac{{2^n}}{{n!}}$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$L = 0 < 1$; la serie es absolutamente convergente.",
           "is_correct": true,
           "feedback": "Correcto. $\\lim_{n \\to \\infty} \\frac{2}{n+1} = 0$. Como $L < 1$, por el Criterio del Cociente converge."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$L = 2 > 1$; la serie es divergente.",
           "is_correct": false,
           "feedback": "Incorrecto. No se simplificó el factorial $(n+1)! = (n+1)n!$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$L = 1$; el criterio no es concluyente.",
           "is_correct": false,
           "feedback": "Incorrecto. El límite es 0, no 1."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecto. El factorial en el denominador crece mucho más rápido que la exponencial."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "$L = \\lim_{n \\to \\infty} \\frac{2^{n+1}/(n+1)!}{2^n/n!} = \\lim_{n \\to \\infty} \\frac{2}{n+1} = 0 < 1$. Converge.",
       "difficulty": "6",
       "images": [],
@@ -335,31 +335,31 @@
       "context": "En Pereira, Daniela aplica el Criterio de la Integral a la $p$-serie $\\sum_{{n=1}}^\\infty \\frac{{1}}{{n^p}}$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$p > 1$",
           "is_correct": true,
           "feedback": "Correcto. La $p$-serie converge si y solo si $p > 1$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$p \\ge 1$",
           "is_correct": false,
           "feedback": "Incorrecto. Para $p=1$ es la serie armónica, la cual diverge."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$p < 1$",
           "is_correct": false,
           "feedback": "Incorrecto. Para $p < 1$ la serie diverge."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$p = 0$",
           "is_correct": false,
           "feedback": "Incorrecto. Para $p=0$, la serie es $1+1+1+... = \\infty$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "\\int_1^\\infty x^{-p} dx converge solo si $p > 1$. Por el criterio de la integral, la $p$-serie exige $p > 1$.",
       "difficulty": "6",
       "images": [],
@@ -427,19 +427,19 @@
       "context": "En Ibagué, Mariana analiza la serie telescópica $\\sum_{{n=1}}^\\infty \\left( \\frac{{1}}{{n}} - \\frac{{1}}{{n+1}} \\right)$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "1",
           "is_correct": true,
           "feedback": "Correcto. Suma parcial $S_k = (1 - 1/2) + (1/2 - 1/3) + ... + (1/k - 1/(k+1)) = 1 - \\frac{1}{k+1}$. $\\lim_{k \\to \\infty} S_k = 1$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "0",
           "is_correct": false,
           "feedback": "Incorrecto. Se cancelaron todos los términos incluyendo el primero."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Infinito",
           "is_correct": false,
           "feedback": "Incorrecto. Todos los términos intermedios colapsan y cancelan."
@@ -451,7 +451,7 @@
           "feedback": "Incorrecto. Error al evaluar la suma límite."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Serie telescópica: $S_k = 1 - \\frac{1}{k+1}$. En el límite cuando $k \\to \\infty$, $S = 1 - 0 = 1$.",
       "difficulty": "6",
       "images": [],
@@ -473,31 +473,31 @@
       "context": "En Pasto, Carlos evalúa el radio de convergencia $R$ de la serie de potencias $\\sum_{{n=0}}^\\infty x^n = 1 + x + x^2 + ...$",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Converge para $|x| < 1$ (intervalo $(-1, 1)$) a la función $f(x) = \\frac{1}{1 - x}$.",
           "is_correct": true,
           "feedback": "Correcto. Serie geométrica de razón $r=x$, converge ssi $|x| < 1$ a $\\frac{1}{1-x}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Converge para todo $x \\in \\mathbb{R}$ a $e^x$.",
           "is_correct": false,
           "feedback": "Incorrecto. $e^x = \\sum \\frac{x^n}{n!}$ converge en $\\mathbb{R}$, no esta serie."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Converge para $x > 1$ a $\\frac{1}{x-1}$.",
           "is_correct": false,
           "feedback": "Incorrecto. Para $x>1$ la serie diverge."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Converge solo para $x = 0$.",
           "is_correct": false,
           "feedback": "Incorrecto. Tiene un radio de convergencia finito $R=1$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La serie geométrica $\\sum_{n=0}^\\infty x^n$ tiene radio $R=1$, intervalo $(-1,1)$ y suma $\\frac{1}{1-x}$.",
       "difficulty": "8",
       "images": [],
@@ -519,19 +519,19 @@
       "context": "En Santa Marta, Gabriela estudia la serie alternada $\\sum_{{n=1}}^\\infty \\frac{{(-1)^{{n+1}}}}{{n}} = 1 - \\frac{{1}}{{2}} + \\frac{{1}}{{3}} - \\frac{{1}}{{4}} + ...$",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Es condicionalmente convergente.",
           "is_correct": true,
           "feedback": "Correcto. Converge por Leibniz (términos decrecen a 0), pero la serie de valores absolutos (armónica) diverge."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Es absolutamente convergente.",
           "is_correct": false,
           "feedback": "Incorrecto. La serie de términos en valor absoluto es la armónica, que diverge."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Es divergente.",
           "is_correct": false,
           "feedback": "Incorrecto. Cumple las hipótesis de Leibniz por lo que sí converge."
@@ -543,7 +543,7 @@
           "feedback": "Incorrecto. La suma alternada converge exactamente a $\\ln(2)$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Converge por Leibniz a $\\ln(2)$, pero no absolutamente pues $\\sum \\frac{1}{n} = \\infty$. Por ende es condicionalmente convergente.",
       "difficulty": "8",
       "images": [],
@@ -611,19 +611,19 @@
       "context": "En Armenia, Isabella examina el n-ésimo término de una sucesión dada por la fórmula recurrente $a_1 = 3, a_{{n+1}} = a_n + 4$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$a_n = 4n - 1$",
           "is_correct": true,
           "feedback": "Correcto. $a_1 = 4(1)-1 = 3$. $a_n = a_1 + (n-1)d = 3 + 4(n-1) = 4n - 1$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$a_n = 3n + 4$",
           "is_correct": false,
           "feedback": "Incorrecto. $a_1$ daría 7 en lugar de 3."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$a_n = 4n + 3$",
           "is_correct": false,
           "feedback": "Incorrecto. $a_1$ daría 7."
@@ -635,7 +635,7 @@
           "feedback": "Incorrecto. Sería una sucesión geométrica, no aritmética."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "$a_n = a_1 + (n-1)d = 3 + 4(n-1) = 4n - 1$.",
       "difficulty": "8",
       "images": [],
@@ -703,13 +703,13 @@
       "context": "En Popayán, Lucia calcula la suma de la serie infinita $\\sum_{{n=1}}^\\infty \\frac{{3}}{{10^n}} = 0.3 + 0.03 + 0.003 + ...$",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$\\frac{1}{3}$",
           "is_correct": true,
           "feedback": "Correcto. $a = 0.3 = 3/10$, $r = 1/10$. $S = \\frac{3/10}{1 - 1/10} = \\frac{3/10}{9/10} = \\frac{3}{9} = \\frac{1}{3}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\frac{3}{10}$",
           "is_correct": false,
           "feedback": "Incorrecto. Es solo el primer término solo."
@@ -727,7 +727,7 @@
           "feedback": "Incorrecto. Error al evaluar la división de fracciones."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Representa el decimal periódico $0.333... = 0.\\bar{3} = \\frac{1}{3}$. Por serie geométrica $\\frac{3/10}{9/10} = \\frac{1}{3}$.",
       "difficulty": "8",
       "images": [],
@@ -749,31 +749,31 @@
       "context": "En Montería, Diego evalúa la convergencia de la serie de Taylor de $\\cos(x) = 1 - \\frac{{x^2}}{{2!}} + \\frac{{x^4}}{{4!}} - ...$",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Para todo número real $x \\in (-\\infty, \\infty)$.",
           "is_correct": true,
           "feedback": "Correcto. El radio de convergencia de las series de Taylor de seno y coseno es infinito ($R = \\infty$)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Solo para $-1 < x < 1$.",
           "is_correct": false,
           "feedback": "Incorrecto. $R=\\infty$, no $R=1$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Solo para $-\\pi \\le x \\le \\pi$.",
           "is_correct": false,
           "feedback": "Incorrecto. Converge uniformemente en todo $\\mathbb{R}$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Solo para $x = 0$.",
           "is_correct": false,
           "feedback": "Incorrecto. Es válida para cualquier $x$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Por el Criterio del Cociente, el límite de $\\left| \\frac{x^2}{(2n+2)(2n+1)} \\right| \\to 0 < 1$ para todo $x \\in \\mathbb{R}$. Por ende $R = \\infty$.",
       "difficulty": "10",
       "images": [],
@@ -795,13 +795,13 @@
       "context": "En Tunja, Paula compara una suma de Riemann con una serie de términos positivos $\\sum_{{n=1}}^\\infty a_n$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La serie $\\sum f(n)$ también converge a un valor finito.",
           "is_correct": true,
           "feedback": "Correcto. El criterio establece la equivalencia de convergencia entre la integral y la serie para funciones continuas, positivas y decrecientes."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La serie converge exactamente al mismo valor $L$.",
           "is_correct": false,
           "feedback": "Incorrecto. La serie y la integral tienen el mismo comportamiento (convergencia/divergencia), pero sus sumas numéricas no son idénticas."
@@ -819,7 +819,7 @@
           "feedback": "Incorrecto. El Criterio de la Integral es definitivo en este caso."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El Criterio de la Integral garantiza que la serie y la integral impropia convergen o divergen juntas, aunque sus valores de suma difieran.",
       "difficulty": "10",
       "images": [],
@@ -841,19 +841,19 @@
       "context": "En Riohacha, Samuel analiza la paradoja de Zenón (Aquiles y la Tortuga) como la suma de una serie geométrica de tiempos $T = \\sum_{{n=1}}^\\infty t_0 r^{{n-1}}$ con $r < 1$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Demuestra que la suma de infinitos intervalos de tiempo decrecientes converge a un tiempo total finito $T$.",
           "is_correct": true,
           "feedback": "Correcto. Una serie de infinitos términos con $|r| < 1$ suma una cantidad finita $T = \\frac{t_0}{1-r}$, por lo que Aquiles alcanza a la tortuga en un tiempo finito."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Demuestra que Aquiles nunca puede alcanzar a la tortuga.",
           "is_correct": false,
           "feedback": "Incorrecto. Es la conclusión falaz de la paradoja sin usar el concepto de límite de series."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Demuestra que el tiempo transcurrido es infinito.",
           "is_correct": false,
           "feedback": "Incorrecto. La suma converge a un valor finito."
@@ -865,7 +865,7 @@
           "feedback": "Incorrecto. Valida matemáticamente el movimiento continuo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La teoría de series infinitas demuestra que una cantidad infinita de pasos con tiempos geométricamente decrecientes suma un tiempo finito total.",
       "difficulty": "10",
       "images": [],

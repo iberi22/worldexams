@@ -13,13 +13,13 @@
       "context": "En Bogotá, la profesora explica cómo los astrónomos escriben distancias enormes sin usar tantos ceros.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Un número entero cualquiera seguido de la palabra millones",
           "is_correct": false,
           "feedback": "Incorrecto. Eso es una expresión verbal, no la notación científica matemática."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Un coeficiente entre 1 y 10 (sin llegar a 10) multiplicado por una potencia de 10",
           "is_correct": true,
           "feedback": "Correcto. La forma es a × 10ⁿ con 1 ≤ a < 10 y n entero."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Sin la potencia de 10 no hay notación científica."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La notación científica escribe cualquier cantidad como a × 10ⁿ, donde el coeficiente a está entre 1 y 10 (1 ≤ a < 10) y n es un entero que indica cuántos lugares se corre la coma.",
       "difficulty": "4",
       "images": [],
@@ -59,31 +59,31 @@
       "context": "En Medellín, un estudiante escribe el número 3 400 000 como 3,4 × 10⁶ para su cartelera del sistema solar.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Que la coma decimal se corrió 6 lugares hacia la izquierda para obtener 3,4",
           "is_correct": true,
           "feedback": "Correcto. El exponente positivo cuenta los lugares que se movió la coma desde el número original hasta el coeficiente."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Que el número 3,4 se multiplica 6 veces por sí mismo",
           "is_correct": false,
           "feedback": "Incorrecto. El exponente afecta al 10, no al coeficiente 3,4."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Que el número tiene 6 cifras decimales",
           "is_correct": false,
           "feedback": "Incorrecto. El 6 cuenta posiciones de la coma, no cifras decimales del resultado."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Que hay que sumarle 6 al número 3,4",
           "is_correct": false,
           "feedback": "Incorrecto. El exponente es una potencia de 10, no un sumando."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "10⁶ = 1 000 000 y 3,4 × 1 000 000 = 3 400 000. El exponente 6 indica que la coma se desplazó 6 posiciones desde 3 400 000 hasta 3,4.",
       "difficulty": "4",
       "images": [],
@@ -151,19 +151,19 @@
       "context": "En Barranquilla, un informe del puerto dice que en un mes pasaron 7,1 × 10⁵ toneladas de carga por la terminal.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "710 000 toneladas",
           "is_correct": true,
           "feedback": "Correcto. 10⁵ = 100 000 y 7,1 × 100 000 = 710 000."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "71 000 toneladas",
           "is_correct": false,
           "feedback": "Incorrecto. Ese valor usa 10⁴ en vez de 10⁵."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "7 100 000 toneladas",
           "is_correct": false,
           "feedback": "Incorrecto. Ese valor usa 10⁶ en vez de 10⁵."
@@ -175,7 +175,7 @@
           "feedback": "Incorrecto. Ese valor confunde el exponente con un sumando."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Para desarrollar la notación se multiplica el coeficiente por la potencia: 7,1 × 100 000 = 710 000 toneladas.",
       "difficulty": "6",
       "images": [],
@@ -203,25 +203,25 @@
           "feedback": "Incorrecto. El coeficiente 52 es mayor que 10 y no cumple la norma."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "5,2 × 10⁷",
           "is_correct": true,
           "feedback": "Correcto. La coma se corre 7 lugares: 52 000 000 = 5,2 × 10 000 000 = 5,2 × 10⁷."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "5,2 × 10⁶",
           "is_correct": false,
           "feedback": "Incorrecto. Con exponente 6 se obtiene 5 200 000, diez veces menos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "0,52 × 10⁸",
           "is_correct": false,
           "feedback": "Incorrecto. El coeficiente 0,52 es menor que 1 y no cumple la norma."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "De 52 000 000 a 5,2 la coma se desplaza 7 posiciones a la izquierda, así que el exponente es 7: 5,2 × 10⁷.",
       "difficulty": "6",
       "images": [],
@@ -243,19 +243,19 @@
       "context": "En Bucaramanga, dos embalses reportan su capacidad: el embalse Norte almacena 2,5 × 10⁶ m³ y el embalse Sur almacena 3,8 × 10⁵ m³.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "El Norte, porque 10⁶ es diez veces mayor que 10⁵ y 2,5 × 10⁶ = 2 500 000 supera a 380 000",
           "is_correct": true,
           "feedback": "Correcto. El exponente mayor domina: 2 500 000 m³ > 380 000 m³."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El Sur, porque 3,8 es mayor que 2,5",
           "is_correct": false,
           "feedback": "Incorrecto. Los coeficientes solo se comparan cuando los exponentes son iguales."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Almacenan lo mismo porque ambos usan potencias de 10",
           "is_correct": false,
           "feedback": "Incorrecto. Las potencias son distintas (10⁶ frente a 10⁵) y los valores difieren."
@@ -267,7 +267,7 @@
           "feedback": "Incorrecto. Un exponente menor con base 10 significa un número más pequeño, no más concentrado."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Con notación científica se compara primero el exponente: 6 > 5, así que 2,5 × 10⁶ (2 500 000) es mayor que 3,8 × 10⁵ (380 000) sin importar los coeficientes.",
       "difficulty": "8",
       "images": [],
@@ -335,13 +335,13 @@
       "context": "En Manizales, el microscopio mide una bacteria de 3 × 10⁻⁶ m y el grosor de un cabello de 8 × 10⁻⁵ m.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La bacteria, porque 3 es menor que 8 y lo pequeño domina",
           "is_correct": false,
           "feedback": "Incorrecto. Con exponentes negativos, el número mayor es el de exponente menos negativo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El cabello, porque 10⁻⁵ es diez veces mayor que 10⁻⁶",
           "is_correct": true,
           "feedback": "Correcto. -5 > -6, así que 8 × 10⁻⁵ m (0,00008 m) supera a 3 × 10⁻⁶ m (0,000003 m)."
@@ -359,7 +359,7 @@
           "feedback": "Incorrecto. El valor absoluto del exponente no decide; con base 10, a exponente más negativo corresponde un número menor."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Con exponentes negativos rige el mismo orden: se compara el exponente primero. Como -5 > -6, el cabello (8 × 10⁻⁵) es mayor que la bacteria (3 × 10⁻⁶).",
       "difficulty": "8",
       "images": [],

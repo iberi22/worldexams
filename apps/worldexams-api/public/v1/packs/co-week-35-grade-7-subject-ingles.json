@@ -65,13 +65,13 @@
           "feedback": "Incorrect. Touching paintings is usually forbidden, not a suggestion."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "mustn't",
           "is_correct": true,
           "feedback": "Correct! \"Mustn't\" is used for prohibition (strong obligation NOT to do something)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "don't have to",
           "is_correct": false,
           "feedback": "Incorrect. This means it's optional."
@@ -83,7 +83,7 @@
           "feedback": "Incorrect. This would mean it's mandatory to touch them."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "The student identifies the correct modal for a formal prohibition.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -105,19 +105,19 @@
       "context": "Giving advice for a health problem.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "should",
           "is_correct": true,
           "feedback": "Correct! \"Should\" is the appropriate modal for giving medical advice."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "mustn't",
           "is_correct": false,
           "feedback": "Incorrect. Contradicts the advice."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "shouldn't",
           "is_correct": false,
           "feedback": "Incorrect. Contradicts the advice."
@@ -129,7 +129,7 @@
           "feedback": "Incorrect. Grammar error (needs \"have to\" or \"must\" for obligation, but \"should\" is better for advice)."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "The student understands the use of \"should\" for providing helpful suggestions.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "A school handbook fragment.\n\n\"Students should arrive 5 minutes early. They must wear the official PE uniform on Fridays. They don't have to bring their own lunch because the school provides it.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "To bring their own lunch.",
           "is_correct": false,
           "feedback": "Incorrect. They \"don't have to\"."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "To wear the PE uniform.",
           "is_correct": true,
           "feedback": "Correct! The text says they \"must\" wear it."
@@ -267,7 +267,7 @@
           "feedback": "Incorrect. Not mentioned."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "The student applies reading comprehension to distinguish between advice, obligation, and lack of necessity.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -295,13 +295,13 @@
           "feedback": "Incorrect. \"Into\" is for entering."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "across",
           "is_correct": true,
           "feedback": "Correct! \"Across\" is used for crossing a street."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "over",
           "is_correct": false,
           "feedback": "Incorrect. Unless there is a bridge, you walk across."
@@ -313,7 +313,7 @@
           "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "The student applies the correct movement preposition to a directional instruction.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -427,13 +427,13 @@
       "context": "Evaluating advice for a tourist in Colombia.\n\n\"You should visit the Salt Cathedral in Zipaquirá. You must bring a jacket because it's cold inside. You don't have to worry about the distance; it's very near Bogotá.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "To visit the Cathedral.",
           "is_correct": false,
           "feedback": "Incorrect. This is the main activity, not specific to physical comfort."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "To bring a jacket.",
           "is_correct": true,
           "feedback": "Correct! This addresses the temperature (physical comfort)."
@@ -451,7 +451,7 @@
           "feedback": "Incorrect. The advice is to visit another place."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "The student evaluates the functions of different modal sentences in a text to identify a specific type of recommendation.",
       "difficulty": "10",
       "images": [],

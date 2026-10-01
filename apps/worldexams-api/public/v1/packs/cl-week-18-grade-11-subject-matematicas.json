@@ -13,31 +13,31 @@
       "context": "Martina analiza situaciones académicas en Temuco.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$0.3625$",
           "is_correct": true,
           "feedback": "¡Correcto! P(A U B) = P(A) + P(B) - P(A)P(B) = 0.15 + 0.25 - 0.0375 = 0.3625."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$0.40$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste restar la intersección P(A inter B)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$0.0375$",
           "is_correct": false,
           "feedback": "Incorrecto. Esta es la probabilidad de la intersección, no de la unión."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$0.10$",
           "is_correct": false,
           "feedback": "Incorrecto. Restaste las probabilidades individuales."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Por regla general de adición: P(A U B) = P(A) + P(B) - P(A inter B). Como son independientes, P(A inter B) = 0.15 * 0.25 = 0.0375. Así P(A U B) = 0.3625.",
       "difficulty": "4",
       "images": [],
@@ -58,13 +58,13 @@
       "context": "Matías analiza situaciones académicas en La Serena.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$0.4400$",
           "is_correct": true,
           "feedback": "¡Correcto! P(A U B) = P(A) + P(B) - P(A)P(B) = 0.2 + 0.3 - 0.0600 = 0.4400."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$0.50$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste restar la intersección P(A inter B)."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. Restaste las probabilidades individuales."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Por regla general de adición: P(A U B) = P(A) + P(B) - P(A inter B). Como son independientes, P(A inter B) = 0.2 * 0.3 = 0.0600. Así P(A U B) = 0.4400.",
       "difficulty": "4",
       "images": [],
@@ -148,19 +148,19 @@
       "context": "Lucas analiza situaciones académicas en Iquique.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$0.5800$",
           "is_correct": true,
           "feedback": "¡Correcto! P(A U B) = P(A) + P(B) - P(A)P(B) = 0.3 + 0.4 - 0.1200 = 0.5800."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$0.70$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste restar la intersección P(A inter B)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$0.1200$",
           "is_correct": false,
           "feedback": "Incorrecto. Esta es la probabilidad de la intersección, no de la unión."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. Restaste las probabilidades individuales."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Por regla general de adición: P(A U B) = P(A) + P(B) - P(A inter B). Como son independientes, P(A inter B) = 0.3 * 0.4 = 0.1200. Así P(A U B) = 0.5800.",
       "difficulty": "4",
       "images": [],
@@ -238,13 +238,13 @@
       "context": "Martina analiza situaciones académicas en Talca.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$0.7000$",
           "is_correct": true,
           "feedback": "¡Correcto! P(A U B) = P(A) + P(B) - P(A)P(B) = 0.4 + 0.5 - 0.2000 = 0.7000."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$0.90$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste restar la intersección P(A inter B)."
@@ -262,7 +262,7 @@
           "feedback": "Incorrecto. Restaste las probabilidades individuales."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Por regla general de adición: P(A U B) = P(A) + P(B) - P(A inter B). Como son independientes, P(A inter B) = 0.4 * 0.5 = 0.2000. Así P(A U B) = 0.7000.",
       "difficulty": "6",
       "images": [],
@@ -373,31 +373,31 @@
       "context": "Lucas analiza situaciones académicas en Chillán.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$0.8425$",
           "is_correct": true,
           "feedback": "¡Correcto! P(A U B) = P(A) + P(B) - P(A)P(B) = 0.55 + 0.65 - 0.3575 = 0.8425."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$1.20$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste restar la intersección P(A inter B)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$0.3575$",
           "is_correct": false,
           "feedback": "Incorrecto. Esta es la probabilidad de la intersección, no de la unión."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$0.10$",
           "is_correct": false,
           "feedback": "Incorrecto. Restaste las probabilidades individuales."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Por regla general de adición: P(A U B) = P(A) + P(B) - P(A inter B). Como son independientes, P(A inter B) = 0.55 * 0.65 = 0.3575. Así P(A U B) = 0.8425.",
       "difficulty": "6",
       "images": [],
@@ -553,31 +553,31 @@
       "context": "Camila analiza situaciones académicas en Valparaíso.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$0.9625$",
           "is_correct": true,
           "feedback": "¡Correcto! P(A U B) = P(A) + P(B) - P(A)P(B) = 0.75 + 0.85 - 0.6375 = 0.9625."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$1.60$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste restar la intersección P(A inter B)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$0.6375$",
           "is_correct": false,
           "feedback": "Incorrecto. Esta es la probabilidad de la intersección, no de la unión."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$0.10$",
           "is_correct": false,
           "feedback": "Incorrecto. Restaste las probabilidades individuales."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Por regla general de adición: P(A U B) = P(A) + P(B) - P(A inter B). Como son independientes, P(A inter B) = 0.75 * 0.85 = 0.6375. Así P(A U B) = 0.9625.",
       "difficulty": "8",
       "images": [],
@@ -598,19 +598,19 @@
       "context": "Lucas analiza situaciones académicas en Concepción.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$0.9800$",
           "is_correct": true,
           "feedback": "¡Correcto! P(A U B) = P(A) + P(B) - P(A)P(B) = 0.8 + 0.9 - 0.7200 = 0.9800."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$1.70$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste restar la intersección P(A inter B)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$0.7200$",
           "is_correct": false,
           "feedback": "Incorrecto. Esta es la probabilidad de la intersección, no de la unión."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. Restaste las probabilidades individuales."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Por regla general de adición: P(A U B) = P(A) + P(B) - P(A inter B). Como son independientes, P(A inter B) = 0.8 * 0.9 = 0.7200. Así P(A U B) = 0.9800.",
       "difficulty": "8",
       "images": [],
@@ -643,31 +643,31 @@
       "context": "Sebastián analiza situaciones académicas en Antofagasta.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$0.9925$",
           "is_correct": true,
           "feedback": "¡Correcto! P(A U B) = P(A) + P(B) - P(A)P(B) = 0.85 + 0.95 - 0.8075 = 0.9925."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$1.80$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste restar la intersección P(A inter B)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$0.8075$",
           "is_correct": false,
           "feedback": "Incorrecto. Esta es la probabilidad de la intersección, no de la unión."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$0.10$",
           "is_correct": false,
           "feedback": "Incorrecto. Restaste las probabilidades individuales."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Por regla general de adición: P(A U B) = P(A) + P(B) - P(A inter B). Como son independientes, P(A inter B) = 0.85 * 0.95 = 0.8075. Así P(A U B) = 0.9925.",
       "difficulty": "8",
       "images": [],
@@ -733,19 +733,19 @@
       "context": "Matías analiza situaciones académicas en La Serena.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$1.0025$",
           "is_correct": true,
           "feedback": "¡Correcto! P(A U B) = P(A) + P(B) - P(A)P(B) = 0.95 + 1.05 - 0.9975 = 1.0025."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$2.00$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste restar la intersección P(A inter B)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$0.9975$",
           "is_correct": false,
           "feedback": "Incorrecto. Esta es la probabilidad de la intersección, no de la unión."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. Restaste las probabilidades individuales."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Por regla general de adición: P(A U B) = P(A) + P(B) - P(A inter B). Como son independientes, P(A inter B) = 0.95 * 1.05 = 0.9975. Así P(A U B) = 1.0025.",
       "difficulty": "10",
       "images": [],
@@ -868,19 +868,19 @@
       "context": "Sebastián analiza situaciones académicas en Rancagua.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$0.9800$",
           "is_correct": true,
           "feedback": "¡Correcto! P(A U B) = P(A) + P(B) - P(A)P(B) = 1.1 + 1.2 - 1.3200 = 0.9800."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$2.30$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste restar la intersección P(A inter B)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$1.3200$",
           "is_correct": false,
           "feedback": "Incorrecto. Esta es la probabilidad de la intersección, no de la unión."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. Restaste las probabilidades individuales."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Por regla general de adición: P(A U B) = P(A) + P(B) - P(A inter B). Como son independientes, P(A inter B) = 1.1 * 1.2 = 1.3200. Así P(A U B) = 0.9800.",
       "difficulty": "10",
       "images": [],

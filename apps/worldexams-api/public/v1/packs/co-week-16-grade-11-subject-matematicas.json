@@ -13,19 +13,19 @@
       "context": "En una empresa textil de Medellín, se modela el volumen de producción diaria en función del tiempo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Decrece para $x < 1$ y crece para $x > 1$, indicando un mínimo relativo en $x = 1$.",
           "is_correct": true,
           "feedback": "Correcto: el cambio de signo de f' de negativo a positivo señala un mínimo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Crece para $x < 1$ y decrece para $x > 1$, indicando un máximo relativo en $x = 1$.",
           "is_correct": false,
           "feedback": "Incorrecto: esa es la definición para un máximo relativo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Es siempre creciente en todo su dominio.",
           "is_correct": false,
           "feedback": "Incorrecto: la derivada cambia de signo, no mantiene un signo constante."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto: un punto crítico con f'(c)=0 no implica función constante."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Para $x < 1$, $f'(x) < 0$, por lo que $f$ decrece. Para $x > 1$, $f'(x) > 0$, por lo que $f$ crece. El cambio de signo de negativo a positivo confirma un mínimo relativo por el criterio de la primera derivada.",
       "difficulty": "4",
       "images": [],
@@ -59,31 +59,31 @@
       "context": "Un laboratorio farmacéutico en Bogotá analiza la concentración de un medicamento en el torrente sanguíneo a lo largo de las horas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Decrece para $x < 2$ y crece para $x > 2$, indicando un mínimo relativo en $x = 2$.",
           "is_correct": true,
           "feedback": "Correcto: el cambio de signo de f' de negativo a positivo señala un mínimo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Crece para $x < 2$ y decrece para $x > 2$, indicando un máximo relativo en $x = 2$.",
           "is_correct": false,
           "feedback": "Incorrecto: esa es la definición para un máximo relativo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Es siempre creciente en todo su dominio.",
           "is_correct": false,
           "feedback": "Incorrecto: la derivada cambia de signo, no mantiene un signo constante."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Es constante en el punto $x = 2$.",
           "is_correct": false,
           "feedback": "Incorrecto: un punto crítico con f'(c)=0 no implica función constante."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Para $x < 2$, $f'(x) < 0$, por lo que $f$ decrece. Para $x > 2$, $f'(x) > 0$, por lo que $f$ crece. El cambio de signo de negativo a positivo confirma un mínimo relativo por el criterio de la primera derivada.",
       "difficulty": "4",
       "images": [],
@@ -105,31 +105,31 @@
       "context": "En el puerto de Buenaventura, se registra el nivel de la marea y la tasa de variación del nivel del agua.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Decrece para $x < 3$ y crece para $x > 3$, indicando un mínimo relativo en $x = 3$.",
           "is_correct": true,
           "feedback": "Correcto: el cambio de signo de f' de negativo a positivo señala un mínimo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Crece para $x < 3$ y decrece para $x > 3$, indicando un máximo relativo en $x = 3$.",
           "is_correct": false,
           "feedback": "Incorrecto: esa es la definición para un máximo relativo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Es siempre creciente en todo su dominio.",
           "is_correct": false,
           "feedback": "Incorrecto: la derivada cambia de signo, no mantiene un signo constante."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Es constante en el punto $x = 3$.",
           "is_correct": false,
           "feedback": "Incorrecto: un punto crítico con f'(c)=0 no implica función constante."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Para $x < 3$, $f'(x) < 0$, por lo que $f$ decrece. Para $x > 3$, $f'(x) > 0$, por lo que $f$ crece. El cambio de signo de negativo a positivo confirma un mínimo relativo por el criterio de la primera derivada.",
       "difficulty": "4",
       "images": [],
@@ -243,31 +243,31 @@
       "context": "Un ingeniero civil en el proyecto del metro de Bogotá evalúa la curva de deformación de una viga de concreto.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Decrece para $x < 6$ y crece para $x > 6$, indicando un mínimo relativo en $x = 6$.",
           "is_correct": true,
           "feedback": "Correcto: el cambio de signo de f' de negativo a positivo señala un mínimo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Crece para $x < 6$ y decrece para $x > 6$, indicando un máximo relativo en $x = 6$.",
           "is_correct": false,
           "feedback": "Incorrecto: esa es la definición para un máximo relativo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Es siempre creciente en todo su dominio.",
           "is_correct": false,
           "feedback": "Incorrecto: la derivada cambia de signo, no mantiene un signo constante."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Es constante en el punto $x = 6$.",
           "is_correct": false,
           "feedback": "Incorrecto: un punto crítico con f'(c)=0 no implica función constante."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Para $x < 6$, $f'(x) < 0$, por lo que $f$ decrece. Para $x > 6$, $f'(x) > 0$, por lo que $f$ crece. El cambio de signo de negativo a positivo confirma un mínimo relativo por el criterio de la primera derivada.",
       "difficulty": "6",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "En un proyecto agrícola en el departamento del Tolima, se calcula la producción máxima de arroz optimizando la fertilización.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Decrece para $x < 7$ y crece para $x > 7$, indicando un mínimo relativo en $x = 7$.",
           "is_correct": true,
           "feedback": "Correcto: el cambio de signo de f' de negativo a positivo señala un mínimo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Crece para $x < 7$ y decrece para $x > 7$, indicando un máximo relativo en $x = 7$.",
           "is_correct": false,
           "feedback": "Incorrecto: esa es la definición para un máximo relativo."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecto: un punto crítico con f'(c)=0 no implica función constante."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Para $x < 7$, $f'(x) < 0$, por lo que $f$ decrece. Para $x > 7$, $f'(x) > 0$, por lo que $f$ crece. El cambio de signo de negativo a positivo confirma un mínimo relativo por el criterio de la primera derivada.",
       "difficulty": "6",
       "images": [],
@@ -381,13 +381,13 @@
       "context": "En un estudio económico en Bucaramanga, se analiza el costo marginal y la utilidad máxima de una fábrica de calzado.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Decrece para $x < 9$ y crece para $x > 9$, indicando un mínimo relativo en $x = 9$.",
           "is_correct": true,
           "feedback": "Correcto: el cambio de signo de f' de negativo a positivo señala un mínimo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Crece para $x < 9$ y decrece para $x > 9$, indicando un máximo relativo en $x = 9$.",
           "is_correct": false,
           "feedback": "Incorrecto: esa es la definición para un máximo relativo."
@@ -405,7 +405,7 @@
           "feedback": "Incorrecto: un punto crítico con f'(c)=0 no implica función constante."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Para $x < 9$, $f'(x) < 0$, por lo que $f$ decrece. Para $x > 9$, $f'(x) > 0$, por lo que $f$ crece. El cambio de signo de negativo a positivo confirma un mínimo relativo por el criterio de la primera derivada.",
       "difficulty": "6",
       "images": [],
@@ -427,13 +427,13 @@
       "context": "Un centro meteorológico en Cartagena registra el incremento de la temperatura promedio durante el medio día.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Decrece para $x < 10$ y crece para $x > 10$, indicando un mínimo relativo en $x = 10$.",
           "is_correct": true,
           "feedback": "Correcto: el cambio de signo de f' de negativo a positivo señala un mínimo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Crece para $x < 10$ y decrece para $x > 10$, indicando un máximo relativo en $x = 10$.",
           "is_correct": false,
           "feedback": "Incorrecto: esa es la definición para un máximo relativo."
@@ -451,7 +451,7 @@
           "feedback": "Incorrecto: un punto crítico con f'(c)=0 no implica función constante."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Para $x < 10$, $f'(x) < 0$, por lo que $f$ decrece. Para $x > 10$, $f'(x) > 0$, por lo que $f$ crece. El cambio de signo de negativo a positivo confirma un mínimo relativo por el criterio de la primera derivada.",
       "difficulty": "6",
       "images": [],
@@ -473,13 +473,13 @@
       "context": "En una empresa textil de Medellín, se modela el volumen de producción diaria en función del tiempo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Decrece para $x < 11$ y crece para $x > 11$, indicando un mínimo relativo en $x = 11$.",
           "is_correct": true,
           "feedback": "Correcto: el cambio de signo de f' de negativo a positivo señala un mínimo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Crece para $x < 11$ y decrece para $x > 11$, indicando un máximo relativo en $x = 11$.",
           "is_correct": false,
           "feedback": "Incorrecto: esa es la definición para un máximo relativo."
@@ -497,7 +497,7 @@
           "feedback": "Incorrecto: un punto crítico con f'(c)=0 no implica función constante."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Para $x < 11$, $f'(x) < 0$, por lo que $f$ decrece. Para $x > 11$, $f'(x) > 0$, por lo que $f$ crece. El cambio de signo de negativo a positivo confirma un mínimo relativo por el criterio de la primera derivada.",
       "difficulty": "8",
       "images": [],
@@ -519,19 +519,19 @@
       "context": "Un laboratorio farmacéutico en Bogotá analiza la concentración de un medicamento en el torrente sanguíneo a lo largo de las horas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Decrece para $x < 12$ y crece para $x > 12$, indicando un mínimo relativo en $x = 12$.",
           "is_correct": true,
           "feedback": "Correcto: el cambio de signo de f' de negativo a positivo señala un mínimo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Crece para $x < 12$ y decrece para $x > 12$, indicando un máximo relativo en $x = 12$.",
           "is_correct": false,
           "feedback": "Incorrecto: esa es la definición para un máximo relativo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Es siempre creciente en todo su dominio.",
           "is_correct": false,
           "feedback": "Incorrecto: la derivada cambia de signo, no mantiene un signo constante."
@@ -543,7 +543,7 @@
           "feedback": "Incorrecto: un punto crítico con f'(c)=0 no implica función constante."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Para $x < 12$, $f'(x) < 0$, por lo que $f$ decrece. Para $x > 12$, $f'(x) > 0$, por lo que $f$ crece. El cambio de signo de negativo a positivo confirma un mínimo relativo por el criterio de la primera derivada.",
       "difficulty": "8",
       "images": [],
@@ -657,13 +657,13 @@
       "context": "En la ciudad de Cali, un sistema de transporte masivo monitorea la velocidad de los buses y la aceleración instantánea.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Decrece para $x < 15$ y crece para $x > 15$, indicando un mínimo relativo en $x = 15$.",
           "is_correct": true,
           "feedback": "Correcto: el cambio de signo de f' de negativo a positivo señala un mínimo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Crece para $x < 15$ y decrece para $x > 15$, indicando un máximo relativo en $x = 15$.",
           "is_correct": false,
           "feedback": "Incorrecto: esa es la definición para un máximo relativo."
@@ -681,7 +681,7 @@
           "feedback": "Incorrecto: un punto crítico con f'(c)=0 no implica función constante."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Para $x < 15$, $f'(x) < 0$, por lo que $f$ decrece. Para $x > 15$, $f'(x) > 0$, por lo que $f$ crece. El cambio de signo de negativo a positivo confirma un mínimo relativo por el criterio de la primera derivada.",
       "difficulty": "8",
       "images": [],
@@ -703,13 +703,13 @@
       "context": "Un ingeniero civil en el proyecto del metro de Bogotá evalúa la curva de deformación de una viga de concreto.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Decrece para $x < 16$ y crece para $x > 16$, indicando un mínimo relativo en $x = 16$.",
           "is_correct": true,
           "feedback": "Correcto: el cambio de signo de f' de negativo a positivo señala un mínimo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Crece para $x < 16$ y decrece para $x > 16$, indicando un máximo relativo en $x = 16$.",
           "is_correct": false,
           "feedback": "Incorrecto: esa es la definición para un máximo relativo."
@@ -727,7 +727,7 @@
           "feedback": "Incorrecto: un punto crítico con f'(c)=0 no implica función constante."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Para $x < 16$, $f'(x) < 0$, por lo que $f$ decrece. Para $x > 16$, $f'(x) > 0$, por lo que $f$ crece. El cambio de signo de negativo a positivo confirma un mínimo relativo por el criterio de la primera derivada.",
       "difficulty": "8",
       "images": [],
@@ -749,13 +749,13 @@
       "context": "En un proyecto agrícola en el departamento del Tolima, se calcula la producción máxima de arroz optimizando la fertilización.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Decrece para $x < 17$ y crece para $x > 17$, indicando un mínimo relativo en $x = 17$.",
           "is_correct": true,
           "feedback": "Correcto: el cambio de signo de f' de negativo a positivo señala un mínimo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Crece para $x < 17$ y decrece para $x > 17$, indicando un máximo relativo en $x = 17$.",
           "is_correct": false,
           "feedback": "Incorrecto: esa es la definición para un máximo relativo."
@@ -773,7 +773,7 @@
           "feedback": "Incorrecto: un punto crítico con f'(c)=0 no implica función constante."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Para $x < 17$, $f'(x) < 0$, por lo que $f$ decrece. Para $x > 17$, $f'(x) > 0$, por lo que $f$ crece. El cambio de signo de negativo a positivo confirma un mínimo relativo por el criterio de la primera derivada.",
       "difficulty": "10",
       "images": [],
@@ -795,31 +795,31 @@
       "context": "Una empresa de energía solar en Barranquilla modela la acumulación diaria de energía mediante la tasa de radiación captada.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Decrece para $x < 18$ y crece para $x > 18$, indicando un mínimo relativo en $x = 18$.",
           "is_correct": true,
           "feedback": "Correcto: el cambio de signo de f' de negativo a positivo señala un mínimo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Crece para $x < 18$ y decrece para $x > 18$, indicando un máximo relativo en $x = 18$.",
           "is_correct": false,
           "feedback": "Incorrecto: esa es la definición para un máximo relativo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Es siempre creciente en todo su dominio.",
           "is_correct": false,
           "feedback": "Incorrecto: la derivada cambia de signo, no mantiene un signo constante."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Es constante en el punto $x = 18$.",
           "is_correct": false,
           "feedback": "Incorrecto: un punto crítico con f'(c)=0 no implica función constante."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Para $x < 18$, $f'(x) < 0$, por lo que $f$ decrece. Para $x > 18$, $f'(x) > 0$, por lo que $f$ crece. El cambio de signo de negativo a positivo confirma un mínimo relativo por el criterio de la primera derivada.",
       "difficulty": "10",
       "images": [],
@@ -841,31 +841,31 @@
       "context": "En un estudio económico en Bucaramanga, se analiza el costo marginal y la utilidad máxima de una fábrica de calzado.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Decrece para $x < 19$ y crece para $x > 19$, indicando un mínimo relativo en $x = 19$.",
           "is_correct": true,
           "feedback": "Correcto: el cambio de signo de f' de negativo a positivo señala un mínimo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Crece para $x < 19$ y decrece para $x > 19$, indicando un máximo relativo en $x = 19$.",
           "is_correct": false,
           "feedback": "Incorrecto: esa es la definición para un máximo relativo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Es siempre creciente en todo su dominio.",
           "is_correct": false,
           "feedback": "Incorrecto: la derivada cambia de signo, no mantiene un signo constante."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Es constante en el punto $x = 19$.",
           "is_correct": false,
           "feedback": "Incorrecto: un punto crítico con f'(c)=0 no implica función constante."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Para $x < 19$, $f'(x) < 0$, por lo que $f$ decrece. Para $x > 19$, $f'(x) > 0$, por lo que $f$ crece. El cambio de signo de negativo a positivo confirma un mínimo relativo por el criterio de la primera derivada.",
       "difficulty": "10",
       "images": [],
@@ -887,19 +887,19 @@
       "context": "Un centro meteorológico en Cartagena registra el incremento de la temperatura promedio durante el medio día.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Decrece para $x < 20$ y crece para $x > 20$, indicando un mínimo relativo en $x = 20$.",
           "is_correct": true,
           "feedback": "Correcto: el cambio de signo de f' de negativo a positivo señala un mínimo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Crece para $x < 20$ y decrece para $x > 20$, indicando un máximo relativo en $x = 20$.",
           "is_correct": false,
           "feedback": "Incorrecto: esa es la definición para un máximo relativo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Es siempre creciente en todo su dominio.",
           "is_correct": false,
           "feedback": "Incorrecto: la derivada cambia de signo, no mantiene un signo constante."
@@ -911,7 +911,7 @@
           "feedback": "Incorrecto: un punto crítico con f'(c)=0 no implica función constante."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Para $x < 20$, $f'(x) < 0$, por lo que $f$ decrece. Para $x > 20$, $f'(x) > 0$, por lo que $f$ crece. El cambio de signo de negativo a positivo confirma un mínimo relativo por el criterio de la primera derivada.",
       "difficulty": "10",
       "images": [],

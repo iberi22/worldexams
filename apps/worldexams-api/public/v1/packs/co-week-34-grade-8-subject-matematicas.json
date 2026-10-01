@@ -13,31 +13,31 @@
       "context": "En Bogotá, en el Museo Nacional, la guía explica que una homotecia transforma una figura en otra semejante a partir de un centro y un factor.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Un centro de homotecia y un factor de escala k",
           "is_correct": true,
           "feedback": "Correcto. La homotecia queda determinada por su centro O y su razón k, que indica cuánto se amplía o se reduce."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Dos ángulos rectos y un eje de simetría",
           "is_correct": false,
           "feedback": "Incorrecto. Esos elementos describen reflexiones o figuras rectangulares, no la homotecia."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Un vector de traslación y una distancia fija",
           "is_correct": false,
           "feedback": "Incorrecto. El vector define una traslación, que conserva el tamaño sin centro ni factor de ampliación."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Un ángulo de giro y un sentido horario",
           "is_correct": false,
           "feedback": "Incorrecto. Esos elementos definen una rotación, que conserva el tamaño y no usa factor de escala."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La homotecia con centro O y factor k envía cada punto P a un punto P' sobre la recta OP tal que OP' = k × OP. Si |k| > 1 amplía, si 0 < |k| < 1 reduce, y si k es negativo además rota media vuelta.",
       "difficulty": "4",
       "images": [],
@@ -59,13 +59,13 @@
       "context": "En Medellín, en la Comuna 13, un muralista proyecta un boceto de 20 cm a una pared usando un factor de escala 5.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Que la imagen se reduce a la quinta parte",
           "is_correct": false,
           "feedback": "Incorrecto. Esa reducción corresponde a k = 1/5, no a k = 5."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Que cada distancia al centro se multiplica por 5",
           "is_correct": true,
           "feedback": "Correcto. Con k = 5 la figura se amplía cinco veces conservando su forma."
@@ -83,7 +83,7 @@
           "feedback": "Incorrecto. El desplazamiento es una traslación; k indica ampliación, no distancia recorrida."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El factor k es multiplicativo: cada segmento imagen mide k veces el original. Con k = 5, el boceto de 20 cm llega a 100 cm en la pared. La forma y los ángulos se conservan porque la homotecia produce semejanza.",
       "difficulty": "4",
       "images": [],
@@ -157,13 +157,13 @@
           "feedback": "Incorrecto. Ese valor suma 4 + 3; la homotecia multiplica, no suma."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "12 cm",
           "is_correct": true,
           "feedback": "Correcto. Como OA' = k × OA = 3 × 4 = 12 cm."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "9 cm",
           "is_correct": false,
           "feedback": "Incorrecto. Ese valor sería 3 al cuadrado; debes multiplicar el factor por la distancia original."
@@ -175,7 +175,7 @@
           "feedback": "Incorrecto. Ese valor es 4 al cuadrado; el cálculo correcto es 3 × 4 = 12."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Por definición OA' = |k| × OA. Con k = 3 y OA = 4 cm, OA' = 12 cm. Todos los puntos se alejan del centro al triple de su distancia, ampliando la figura.",
       "difficulty": "6",
       "images": [],
@@ -203,25 +203,25 @@
           "feedback": "Incorrecto. Ese valor olvida dos ceros; 6 × 5000 = 30000 cm, no 3000 cm."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "300 m",
           "is_correct": true,
           "feedback": "Correcto. La distancia real es 6 × 5000 = 30000 cm = 300 m."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "3 km",
           "is_correct": false,
           "feedback": "Incorrecto. Ese valor multiplica por 10 de más; 30000 cm son 300 m, es decir 0,3 km."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "30 km",
           "is_correct": false,
           "feedback": "Incorrecto. Ese valor confunde centímetros con metros al convertir; 30000 cm = 300 m."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Distancia real = medida del plano × denominador de la escala: 6 × 5000 = 30000 cm. Como 1 m = 100 cm, 30000 cm = 300 m. La escala permite pasar del papel al terreno con una multiplicación.",
       "difficulty": "6",
       "images": [],
@@ -381,13 +381,13 @@
       "context": "En Santa Marta, en El Rodadero, un mapa costero tiene escala 1:25000. Un tramo de playa mide 8 cm en el mapa.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "2 km y 12 minutos",
           "is_correct": false,
           "feedback": "Incorrecto. La longitud real es correcta, pero 2 km a 5 km/h toman 24 minutos, no 12."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "2 km y 24 minutos",
           "is_correct": true,
           "feedback": "Correcto. 8 × 25000 = 200000 cm = 2 km; tiempo = 2/5 h = 0,4 h = 24 min."
@@ -405,7 +405,7 @@
           "feedback": "Incorrecto. Esa longitud divide entre 10 la real; 200000 cm son 2000 m, es decir 2 km."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "8 × 25000 = 200000 cm = 2000 m = 2 km. A 5 km/h, el tiempo es distancia/velocidad = 2/5 h = 24 min. El análisis combina escala cartográfica con la relación física entre distancia, velocidad y tiempo.",
       "difficulty": "8",
       "images": [],
@@ -433,13 +433,13 @@
           "feedback": "Incorrecto. Esa medida resta 2 a 5 y el signo negativo indica lado opuesto, no el mismo."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Mide 10 cm y queda del mismo lado del centro",
           "is_correct": false,
           "feedback": "Incorrecto. La medida 10 cm es correcta, pero con k negativo la imagen queda en el lado opuesto del centro."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Mide 10 cm y queda en el lado opuesto del centro",
           "is_correct": true,
           "feedback": "Correcto. La longitud es |−2| × 5 = 10 cm y el signo menos indica inversión respecto al centro."
@@ -451,7 +451,7 @@
           "feedback": "Incorrecto. Esa medida eleva al cuadrado; además k negativo invierte la orientación de la figura."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "En la homotecia, la distancia se multiplica por |k| y el signo de k indica la posición: k > 0 conserva el lado, k < 0 lo invierte. Con k = −2 la imagen mide 10 cm, queda opuesta al original y rotada media vuelta.",
       "difficulty": "10",
       "images": [],
@@ -479,25 +479,25 @@
           "feedback": "Incorrecto. Esa división arbitraria no corresponde a la conversión de escala en áreas."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "El de 60 m², porque 6 m × 10 m = 60 m²",
           "is_correct": true,
           "feedback": "Correcto. Cada lado real es 200 veces el del plano: 6 m y 10 m, cuyo producto es 60 m²."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ambos son correctos según la unidad usada",
           "is_correct": false,
           "feedback": "Incorrecto. El área real es única; 6 m² subestima diez veces el valor verdadero."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Ninguno, el área real es 600 m²",
           "is_correct": false,
           "feedback": "Incorrecto. Ese valor multiplica una vez más por 10; las dimensiones reales son 6 m y 10 m."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Lados reales: 3 × 200 = 600 cm = 6 m y 5 × 200 = 1000 cm = 10 m. Área = 60 m². Nótese que el área del plano (15 cm²) se multiplica por 200² = 40000: 15 × 40000 = 600000 cm² = 60 m². Evaluar exige convertir con k², no con k.",
       "difficulty": "10",
       "images": [],

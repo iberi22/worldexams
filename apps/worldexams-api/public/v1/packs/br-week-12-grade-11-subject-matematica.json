@@ -13,13 +13,13 @@
       "context": "Um estudante em São Paulo revisa as razões trigonométricas para a prova do ENEM.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "a razão entre o cateto adjacente e a hipotenusa",
           "is_correct": false,
           "feedback": "Incorreto: essa é a definição do cosseno."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "a razão entre o cateto oposto e a hipotenusa",
           "is_correct": true,
           "feedback": "Correto: seno = cateto oposto / hipotenusa."
@@ -37,7 +37,7 @@
           "feedback": "Incorreto: essa é a definição da cossecante."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "No triângulo retângulo, sen θ = (cateto oposto a θ) / (hipotenusa), cos θ = (cateto adjacente) / (hipotenusa) e tan θ = (cateto oposto) / (cateto adjacente).",
       "difficulty": "4",
       "images": [],
@@ -58,19 +58,19 @@
       "context": "Durante uma aula em Curitiba, o professor lista os valores dos ângulos notáveis.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "1/2",
           "is_correct": true,
           "feedback": "Correto: sen 30° = 1/2."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "√2/2",
           "is_correct": false,
           "feedback": "Incorreto: √2/2 é o seno de 45°."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "√3/2",
           "is_correct": false,
           "feedback": "Incorreto: √3/2 é o seno de 60°."
@@ -82,7 +82,7 @@
           "feedback": "Incorreto: 1 é o seno de 90°."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Os ângulos notáveis (30°, 45° e 60°) têm senos iguais a 1/2, √2/2 e √3/2, respectivamente. Portanto, sen 30° = 1/2.",
       "difficulty": "4",
       "images": [],
@@ -193,13 +193,13 @@
       "context": "Um estudante em Salvador precisa determinar o cosseno de um ângulo a partir de outro ângulo do mesmo triângulo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "1/2",
           "is_correct": false,
           "feedback": "Incorreto: 1/2 é o seno de 30°."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "√3/2",
           "is_correct": true,
           "feedback": "Correto: cos 30° = √3/2."
@@ -217,7 +217,7 @@
           "feedback": "Incorreto: √3/3 é a tangente de 30°."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Os cossenos dos ângulos notáveis são: cos 30° = √3/2, cos 45° = √2/2 e cos 60° = 1/2.",
       "difficulty": "6",
       "images": [],
@@ -289,13 +289,13 @@
           "feedback": "Incorreto: 3 seria o resultado para elevação de 60°."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "6 m",
           "is_correct": true,
           "feedback": "Correto: tan 45° = 1 = altura/sombra, logo sombra = 6 m."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "6√2 m",
           "is_correct": false,
           "feedback": "Incorreto: 6√2 seria o raio ou a hipotenusa da configuração."
@@ -307,7 +307,7 @@
           "feedback": "Incorreto: 12 seria o resultado para elevação de 26,5° aproximadamente."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Com elevação de 45°, tan 45° = 1, então altura/sombra = 1, e a sombra mede o mesmo que a altura: 6 m.",
       "difficulty": "6",
       "images": [],
@@ -340,19 +340,19 @@
           "feedback": "Incorreto: 3 não corresponde a nenhuma razão de 30°."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "4 m",
           "is_correct": true,
           "feedback": "Correto: sen 30° = 2/hipotenusa, logo hipotenusa = 2/(1/2) = 4 m."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "2√2 m",
           "is_correct": false,
           "feedback": "Incorreto: 2√2 seria o resultado para inclinação de 45°."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Utilizando sen 30° = 1/2 e a relação sen 30° = altura/hipotenusa, obtemos 1/2 = 2/L, portanto L = 4 m.",
       "difficulty": "6",
       "images": [],
@@ -379,25 +379,25 @@
           "feedback": "Incorreto: 4/5 é o cosseno de α, não de β."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "3/5",
           "is_correct": true,
           "feedback": "Correto: α e β são complementares, então cos β = sen α = 3/5."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "5/3",
           "is_correct": false,
           "feedback": "Incorreto: 5/3 é uma razão maior que 1, impossível para seno ou cosseno."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "3/4",
           "is_correct": false,
           "feedback": "Incorreto: 3/4 é a tangente de α."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Em um triângulo retângulo, os ângulos agudos são complementares (α + β = 90°). Pela propriedade de complementaridade, cos β = sen(90° − β) = sen α = 3/5.",
       "difficulty": "6",
       "images": [],
@@ -463,31 +463,31 @@
       "context": "Um navegador em Florianópolis utiliza o cosseno para calcular a distância percorrida em relação à costa.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "5 km",
           "is_correct": true,
           "feedback": "Correto: cos 60° = d/10, logo d = 10 × 1/2 = 5 km."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "5√3 km",
           "is_correct": false,
           "feedback": "Incorreto: 5√3 seria obtido com sen 60°."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "10 km",
           "is_correct": false,
           "feedback": "Incorreto: 10 km é a distância percorrida (hipotenusa)."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "20 km",
           "is_correct": false,
           "feedback": "Incorreto: 20 seria o resultado se o cosseno fosse 1/2 invertido."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "O cosseno de 60° relaciona o cateto adjacente (distância à costa) com a hipotenusa: cos 60° = d/10. Como cos 60° = 1/2, d = 5 km.",
       "difficulty": "8",
       "images": [],
@@ -508,19 +508,19 @@
       "context": "Um eletricista em Campinas precisa do comprimento de um cabo que liga o topo de um poste a um ponto no chão.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "4 m",
           "is_correct": false,
           "feedback": "Incorreto: 4 seria o cateto oposto ao ângulo de 30° no triângulo interno."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "8√3 m",
           "is_correct": false,
           "feedback": "Incorreto: 8√3 seria o cateto horizontal se o ângulo fosse com o chão."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "16√3/3 m",
           "is_correct": true,
           "feedback": "Correto: cos 30° = 8/cabo, logo cabo = 8/(√3/2) = 16/√3 = 16√3/3 m."
@@ -532,7 +532,7 @@
           "feedback": "Incorreto: 16 seria o resultado se o ângulo com o poste fosse 60°."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "O ângulo de 30° é formado entre o cabo e o poste, então o poste é o cateto adjacente ao ângulo: cos 30° = 8/L. Logo, L = 8/(√3/2) = 16/√3 = 16√3/3 m.",
       "difficulty": "8",
       "images": [],
@@ -559,25 +559,25 @@
           "feedback": "Incorreto: 3/4 é a tangente do ângulo complementar."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "4/3",
           "is_correct": true,
           "feedback": "Correto: cos θ = 3/5 (triângulo 3-4-5), logo tan θ = (4/5)/(3/5) = 4/3."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "5/4",
           "is_correct": false,
           "feedback": "Incorreto: 5/4 é a cossecante de θ, não a tangente."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "4/5",
           "is_correct": false,
           "feedback": "Incorreto: 4/5 é o seno de θ."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Pelo teorema de Pitágoras, se sen θ = 4/5, o cateto adjacente mede 3 (triângulo 3-4-5), então cos θ = 3/5. Assim, tan θ = sen θ/cos θ = (4/5)/(3/5) = 4/3.",
       "difficulty": "8",
       "images": [],
@@ -598,13 +598,13 @@
       "context": "Um engenheiro em Natal compara duas rampas com inclinações diferentes para decidir qual é mais acessível.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "A rampa A é o dobro da rampa B",
           "is_correct": false,
           "feedback": "Incorreto: sen 30° = 1/2 e sen 45° = √2/2, logo A/B = √2, não 2."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "A rampa A é √2 vezes maior que a rampa B",
           "is_correct": true,
           "feedback": "Correto: L = h/sen θ, logo LA/LB = (sen 45°)/(sen 30°) = (√2/2)/(1/2) = √2."
@@ -622,7 +622,7 @@
           "feedback": "Incorreto: a inclinação altera o comprimento para a mesma altura."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Para a mesma altura h, o comprimento da rampa é L = h/sen θ. Assim, LA = h/(1/2) = 2h e LB = h/(√2/2) = h√2. Logo, LA = √2 × LB.",
       "difficulty": "8",
       "images": [],
@@ -778,31 +778,31 @@
       "context": "Um matemático em Belo Horizonte investiga a generalização das razões trigonométricas para ângulos complementares.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "0,6",
           "is_correct": true,
           "feedback": "Correto: β = 90° − α, então cos β = sen α = 0,6."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "0,8",
           "is_correct": false,
           "feedback": "Incorreto: 0,8 é o cos α, não o cos β."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "0,75",
           "is_correct": false,
           "feedback": "Incorreto: 0,75 é a tangente de α."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "0,4",
           "is_correct": false,
           "feedback": "Incorreto: 0,4 não corresponde a nenhuma razão derivada de sen α = 0,6."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Os ângulos agudos do triângulo retângulo são complementares. Pela propriedade de complementaridade, cos β = cos(90° − α) = sen α = 0,6.",
       "difficulty": "10",
       "images": [],
@@ -823,13 +823,13 @@
       "context": "Em uma olimpíada de matemática, um problema pede a combinação da trigonometria com a geometria plana.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "25√3/2 cm²",
           "is_correct": true,
           "feedback": "Correto: catetos 5√3 e 5, área = (5√3 × 5)/2 = 25√3/2 cm²."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "25√3/4 cm²",
           "is_correct": false,
           "feedback": "Incorreto: este seria o resultado de dividir a área correta pela metade."
@@ -847,7 +847,7 @@
           "feedback": "Incorreto: 50 seria a área de um quadrado de lado 5√2."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Os catetos do triângulo são: cateto oposto a 60° = 10·sen 60° = 5√3, e cateto adjacente = 10·cos 60° = 5. A área é (5√3 × 5)/2 = 25√3/2 cm².",
       "difficulty": "10",
       "images": [],
@@ -868,13 +868,13 @@
       "context": "Um pesquisador em Campinas analisa a consistência entre as razões trigonométricas e o teorema de Pitágoras.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "3/4",
           "is_correct": true,
           "feedback": "Correto: tan θ = cateto oposto/cateto adjacente = 6/8 = 3/4."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "4/3",
           "is_correct": false,
           "feedback": "Incorreto: 4/3 é a tangente do outro ângulo agudo."
@@ -892,7 +892,7 @@
           "feedback": "Incorreto: valor maior que 1, sem relação com os catetos dados."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "A tangente do ângulo θ é a razão entre o cateto oposto e o cateto adjacente: tan θ = 6/8 = 3/4.",
       "difficulty": "10",
       "images": [],

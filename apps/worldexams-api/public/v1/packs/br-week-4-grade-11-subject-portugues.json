@@ -19,13 +19,13 @@
           "feedback": "Incorreto. A metáfora é uma comparação implícita baseada em semelhança subjetiva, não em contiguidade lógica material."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Metonímia.",
           "is_correct": true,
           "feedback": "Correto! A metonímia realiza essa troca lógica de termos, como quando dizemos \"bebi dois copos\" (continente pelo conteúdo)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Personificação (ou Prosopopeia).",
           "is_correct": false,
           "feedback": "Incorreto. A prosopopeia consiste em atribuir sentimentos ou ações humanas a seres inanimados ou irracionais."
@@ -37,7 +37,7 @@
           "feedback": "Incorreto. O eufemismo é utilizado para suavizar expressões chocantes ou desagradáveis da realidade."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "A metonímia é a figura de pensamento que opera por contiguidade: troca-se a parte pelo todo (\"muitas cabeças de gado\"), o autor pela obra (\"li Machado de Assis\"), o continente pelo conteúdo (\"comer um prato de sopa\") ou a marca pelo produto (\"comprar gilete\").",
       "difficulty": "4",
       "images": [],
@@ -103,13 +103,13 @@
       "context": "Uma crônica em um jornal de Curitiba descreve uma situação cotidiana de trânsito em que o motorista exclama: \"Estou esperando essa balsa há mil séculos!\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Eufemismo, para suavizar a irritação do motorista de forma polida perante as autoridades de Curitiba.",
           "is_correct": false,
           "feedback": "Incorreto. Dizer \"há mil séculos\" aumenta o atraso, não suavizando o impacto de forma branda."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Hipérbole, por meio de um exagero intencional dramático para enfatizar a impaciência e o grande tempo de espera real do falante.",
           "is_correct": true,
           "feedback": "Correto! \"Mil séculos\" é uma hipérbole clássica para expressar de forma amplificada a sensação subjetiva de demora."
@@ -127,7 +127,7 @@
           "feedback": "Incorreto. Não há fusão de canais sensoriais (como audição e tato), apenas expressão de cansaço hiperbólico."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "A hipérbole é a figura de pensamento caracterizada pelo exagero expressivo deliberado de um fato ou sensação, largamente usada na oralidade e na literatura para dar ênfase teatral e colorida ao discurso afetivo.",
       "difficulty": "4",
       "images": [],
@@ -199,13 +199,13 @@
           "feedback": "Incorreto. O poema não foca em escaladas crescentes temporais, mas sim na coexistência de ideias contrárias."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Catacrese, devido ao desgaste linguístico de metáforas sem nome próprio do corpo humano de passagem.",
           "is_correct": false,
           "feedback": "Incorreto. As metáforas de Camões são inovadoras, poéticas e estéticas, longe do desgaste prosaico de \"pé de mesa\"."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Paradoxo (ou Oxímoro), pois reúne num mesmo conceito ideias contraditórias que desafiam a lógica racional convencional.",
           "is_correct": true,
           "feedback": "Correto! Dizer que uma ferida \"dói e não se sente\" é fundir duas sensações incompatíveis em uma contradição lógica."
@@ -217,7 +217,7 @@
           "feedback": "Incorreto. O poema descreve a essência antagônica do amor em si e não a autoria material do suporte físico."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "O paradoxo ou oxímoro aproxima termos contraditórios que, em termos de lógica estrita, excluem-se mutuamente (como \"dor que não dói\" ou \"fogo frio\"). Ao contrário da antítese (apenas oposição), o paradoxo desafia a razão ao unificar esses contrários.",
       "difficulty": "6",
       "images": [],
@@ -238,19 +238,19 @@
       "context": "Um anúncio imobiliário em Belo Horizonte promove um luxuoso condomínio fechado com a frase: \"Um doce silêncio verde espera por você e sua família para viver bem!\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Sinestesia, que consiste na fusão e cruzamento de diferentes canais sensoriais (paladar, audição, visão) em uma mesma expressão.",
           "is_correct": true,
           "feedback": "Correto! O cruzamento de sentidos humanos cria uma rica sugestão sensorial lírica e de requinte no anúncio."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Elipse, que consiste na omissão deliberada de termos facilmente subentendidos na frase paulista.",
           "is_correct": false,
           "feedback": "Incorreto. A frase é completa e seu recurso de destaque é a mescla de canais sensitivos físicos, não a elipse gramatical."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Anáfora, caracterizada pela repetição insistente da mesma palavra no início de vários versos seguidos.",
           "is_correct": false,
           "feedback": "Incorreto. Não há repetição sistemática de palavras no começo de períodos, apenas a fusão de sensações."
@@ -262,7 +262,7 @@
           "feedback": "Incorreto. A estrutura sintática está na ordem direta comum do português, sem inversões floreadas rebuscadas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "A sinestesia é o recurso expressivo que consiste em associar e misturar termos que remetem a diferentes esferas sensoriais (olfato, paladar, visão, audição, tato) em um único constructo mental de grande impacto sensorial.",
       "difficulty": "6",
       "images": [],
@@ -289,13 +289,13 @@
           "feedback": "Incorreto. Embora Machado seja irônico, nessa passagem a suavização é respeitosa e clássica por eufemismo."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Eufemismo, pois substitui a palavra crua \"morreu\" por uma expressão branda e solene (\"partiu para o repouso eterno\").",
           "is_correct": true,
           "feedback": "Correto! O eufemismo serve para amenizar o impacto de ideias consideradas chocantes, tristes ou ofensivas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Hipérbole, exagerando com requinte a temperatura corporal de Dona Plácida para impressionar o médico carioca.",
           "is_correct": false,
           "feedback": "Incorreto. O foco do repouso eterno não é o exagero da febre, mas a suavização elegante do falecimento."
@@ -307,7 +307,7 @@
           "feedback": "Incorreto. \"Repouso eterno\" é uma construção cultural solene e não uma metáfora de escassez como \"braço da cadeira\"."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "O eufemismo é a figura de pensamento que atenua a aspereza de certas realidades de forte tabu social (como morte, roubo, demissão ou doenças graves), substituindo palavras diretas por termos de conotação mais leve ou poética.",
       "difficulty": "6",
       "images": [],
@@ -418,19 +418,19 @@
       "context": "Um artigo de crítica literária analisa os versos simbolistas de Cruz e Sousa, poeta catarinense célebre por jogos fônicos de grande beleza sonora.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Aliteração, devido à repetição sistemática do som consonantal fricativo alveolar sonoro /v/ ao longo do poema.",
           "is_correct": true,
           "feedback": "Correto! A recorrência do som de /v/ imita sussurros e cria a cadência musical típica do Simbolismo nacional."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Assonância, caracterizada pela repetição exclusiva do som das vogais nasais abertas /ã/ de forma violenta.",
           "is_correct": false,
           "feedback": "Incorreto. O efeito marcante dos versos é a repetição da consoante /v/ (aliteração) e não de vogais nasais isoladas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Onomatopeia, pois imita de forma literal e mecânica o barulho físico de engrenagens de trens a vapor.",
           "is_correct": false,
           "feedback": "Incorreto. Os sussurros líricos mimetizam violões e vozes poéticas, distanciando-se de ruídos mecânicos industriais."
@@ -442,7 +442,7 @@
           "feedback": "Incorreto. Os termos formam blocos nominais de beleza lírica descritiva, sem inversões verbais rebuscadas caóticas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "A aliteração consiste na repetição harmônica e insistente de sons consonantais semelhantes em palavras próximas, gerando musicalidade e reforçando a sugestão de imagens sensoriais (como sussurros no caso do som /v/ de Cruz e Sousa).",
       "difficulty": "6",
       "images": [],
@@ -514,13 +514,13 @@
           "feedback": "Incorreto. Não há ruídos onomatopeicos de metal nem mescla de canais sensitivos como tato e olfato no trecho."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Prosopopeia (estádios \"nadam\") e Hipérbole (exagero de \"piscinas douradas de dinheiro\") para dar forte impacto emotivo à crítica política.",
           "is_correct": true,
           "feedback": "Correto! Atribuir a ação de nadar aos monumentos de concreto (prosopopeia) e exagerar a riqueza (piscinas douradas) mobiliza a indignação social."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Elipse e Zeugma de ocultamento de verbos, mimetizando a fala clássica de diplomatas portugueses do século dezessete.",
           "is_correct": false,
           "feedback": "Incorreto. A oração é expressiva e direta de denúncia cívica moderna, sem o preciosismo de elipses de diplomatas do Barroco."
@@ -532,7 +532,7 @@
           "feedback": "Incorreto. A construção é literária e retórica de persuasão de artigo de opinião jornalística de vestibular, longe de desgaste prosaico comum."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "A prosa de denúncia de colunistas de opinião recorre a prosopopeias satíricas e hipérboles dramáticas para comover a comunidade de leitores. Personificar instituições e exagerar as cifras orçamentárias realçam o absurdo da desigualdade social de forma literária e contundente.",
       "difficulty": "8",
       "images": [],
@@ -604,13 +604,13 @@
           "feedback": "Incorreto. A repetição das palavras \"De tanto...\" constitui anáfora de reforço lírico e não erro feio redundante inútil."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Metáforas sinestésicas ousadas (\"beber a dor\", \"comer a dor\"), que materializam um sentimento abstrato de dor em ações físicas de consumo alimentar.",
           "is_correct": true,
           "feedback": "Correto! Chico Buarque torna a dor tangível e digestiva, integrando metáforas de canais biológicos de alimentação com aflições morais da alma."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Catacrese de desgaste de dicionário, idêntica ao termo popular \"cabeça de prego\" de fábricas paulistas de madeira de passagem.",
           "is_correct": false,
           "feedback": "Incorreto. As construções de Chico Buarque são poéticas de alta sensibilidade lírica brasileira de MPB, longe de catacreses corriqueiras gastas."
@@ -622,7 +622,7 @@
           "feedback": "Incorreto. Não se imitam ruídos biológicos mecânicos de pratos de comida (\"nhaque-nhaque\"), mas se medita poeticamente sobre as mágoas íntimas da vida."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Metáforas sinestésicas de grande impacto lírico, como \"beber\" ou \"comer a dor\", transpõem sentimentos intangíveis da psique humana para o campo sensorial e corporal da alimentação. Esse recurso enriquece a poesia nacional ao tornar físicas e palpáveis as dores metafóricas do eu lírico.",
       "difficulty": "8",
       "images": [],
@@ -643,13 +643,13 @@
       "context": "Em um ensaio de crítica de artes em Belo Horizonte, avalia-se o poema \"Sentimento do Mundo\", do mineiro Carlos Drummond de Andrade, onde o poeta escreve: \"O poeta declina de toda a glória, / aceita a sua dose de cinza e silêncio\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Pleonasmo e Onomatopeia, imitando com rigor mecânico o barulho físico de cinzas sendo sopradas ao vento nas calçadas de Belo Horizonte.",
           "is_correct": false,
           "feedback": "Incorreto. Não há imitação de barulhos mecânicos da natureza nem redundâncias linguísticas inúteis no verso de Drummond."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Metáfora e Sinestesia, fundindo imagens visuais de morte (cinza) com isolamento acústico (silêncio) em uma dose de resignação lírica existencial.",
           "is_correct": true,
           "feedback": "Correto! O poeta condensa a melancolia e desilusão perante as guerras do mundo em metáforas sensoriais densas de degustação amarga (\"dose\")."
@@ -667,7 +667,7 @@
           "feedback": "Incorreto. Os versos possuem fluidez sintática padrão culta e elegância contemporânea de fácil e natural entonação pelo leitor."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Drummond constrói uma atmosfera de melancolia existencial fundindo sensações de isolamento (silêncio) e declínio físico-histórico (cinza) em uma metáfora farmacêutica (\"dose\"). Esse cruzamento estilístico é vital para a lírica drummondiana de questionamento do destino das sociedades em meio às guerras do século XX.",
       "difficulty": "8",
       "images": [],
@@ -688,31 +688,31 @@
       "context": "Um artigo de linguística de Campinas analisa o eslogan publicitário de uma famosa marca paulista de chocolates: \"O chocolate que derrete o seu estresse e incendeia o seu sorriso de felicidade!\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Metáforas de base física térmica antagônica (\"derrete estresse\" - resfriamento/desaparecimento de problemas; \"incendeia sorriso\" - calor/explosão de alegria), gerando grande impacto persuasivo sensorial.",
           "is_correct": true,
           "feedback": "Correto! As metáforas térmicas opostas despertam sensações biológicas e psicológicas positivas associadas ao consumo do chocolate."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Uso rígido de arcaísmos coloniais quinhentistas portugueses trazidos pelos padres jesuítas de 1549 para proibir o consumo de doces no Brasil.",
           "is_correct": false,
           "feedback": "Incorreto. O eslogan é moderno, dinâmico de marketing de startup contemporânea de doces de São Paulo, sem rituais jesuíticos arcaicos coloniais."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Aliteração exclusiva de sons surdos sibilantes consonantais imitativos de chocalhos de cobras do pantanal nas florestas do sul.",
           "is_correct": false,
           "feedback": "Incorreto. Não há imitação de cobras de floresta no slogan de chocolate, mas sim apelo comercial de prazer de degustação urbana de doce."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Catacrese por falta total de vocábulos na língua portuguesa, forçando a marca a usar as palavras \"derrete\" e \"incendeia\" como erros de gramática.",
           "is_correct": false,
           "feedback": "Incorreto. O uso das palavras é planejado esteticamente com fins artísticos conotativos de luxo e não erros de escassez linguística de dicionários."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Slógans comerciais modernos de chocolate paulista de alta qualidade utilizam metáforas térmicas sinestésicas (\"derreter\" tensões da mente e \"incendiar\" o sorriso de calor humano de alegria) para gerar forte sintonia afetiva imediata com o consumidor receptor no contexto urbano paulistano.",
       "difficulty": "8",
       "images": [],
@@ -739,13 +739,13 @@
           "feedback": "Incorreto. Cientificamente nenhuma escola é superior de verdade; ambas possuem mérito de estilo de acordo com seus objetivos históricos estéticos."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "O Simbolismo falha de forma estética total devido ao uso de aliterações fônicas de consoantes que de fato impedem o leitor de ler as palavras escritas em silêncio.",
           "is_correct": false,
           "feedback": "Incorreto. As aliterações simbolistas criam exatamente a musicalidade, riqueza de ritmo e mistério que marcam o valor literário sublime da escola no país."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "O Parnasianismo privilegia a precisão referencial e figuras de contiguidade visual rústica (metonímias formais), enquanto o Simbolismo expande as conexões sensitivas abstratas por meio de ricas sinestesias e aliterações harmônicas de ritmo.",
           "is_correct": true,
           "feedback": "Correto! As escolas literárias históricas elegem diferentes repertórios de figuras de linguagem para materializar seus projetos de beleza no país."
@@ -757,7 +757,7 @@
           "feedback": "Incorreto. Movimentos de arte literária histórica são patrimônios da humanidade vivos em vestibular e cultura nacional, imunes a leis de asfalto."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "A escolha estilística de quais figuras de linguagem priorizar define o perfil estético e filosófico de cada movimento poético histórico. Enquanto parnasianos buscam a perfeição plástica denotativa de vasos gregos com metonímias formais objetivas, os simbolistas expandem os limites da alma através de sinestesias abstratas misteriosas e jogos fônicos de aliteração musical de violões do Sul.",
       "difficulty": "10",
       "images": [],
@@ -790,19 +790,19 @@
           "feedback": "Incorreto. Punições legais ou financeiras contra atos de fala informais e espontâneos cotidianos são atos de intolerância e violência social linguística."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "A repetição enfática na oralidade informal serve para clarear e fixar a imagem de movimento espacial rápido, embora seja evitada na escrita formal oficial em exames como o ENEM devido à economia de termos exigida.",
           "is_correct": true,
           "feedback": "Correto! O pleonasmo pode atuar como desvio estilístico vicioso na redação formal do ENEM, mas na fala cotidiana rápida ele funciona como valioso reforço expressivo de direção."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "O pleonasmo de reforço é uma criação exclusiva das startups de publicidade de moda de São Paulo de 2026 para humilhar os professores de Letras paulistas.",
           "is_correct": false,
           "feedback": "Incorreto. Pleonasmos orais cotidianos são heranças históricas milenares e espontâneas da evolução do latim vulgar na formação do português oral das massas."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Enquanto a gramática normativa escolar proíbe o \"pleonasmo vicioso\" na modalidade escrita formal para evitar poluição visual de palavras repetitivas e redundâncias lógicas sem mérito estético, a linguística compreende que na oralidade espontânea de reality shows de televisão esse recurso serve de reforço denotativo direcional pragmático imediato, facilitando a recepção ágil de comandos espaciais sob pressões de conversação informal no cotidiano das grandes cidades brasileiras de hoje.",
       "difficulty": "10",
       "images": [],
@@ -868,19 +868,19 @@
       "context": "Um ensaio crítico de vestibular analisa uma polêmica letra de música de rap nacional de autoria de um compositor da periferia de São Paulo de 2026. A letra repete imagens violentas e sarcásticas usando antíteses contra as desigualdades sociais e o asfalto rico da capital paulista.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Trata-se de uma falha grave de concordância nominal lusa decorrente do uso analfabeto de figuras de catacrese gasta que poluem as favelas da cidade.",
           "is_correct": false,
           "feedback": "Incorreto. O rap de protesto paulistano possui rigoroso planejamento de rimas, métricas rápidas orais e alta complexidade estética de metáforas combativas."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "O compositor usa eufemismos de polidez cortesã para bajular de forma mansa e mística os investidores financeiros de luxo do centro de São Paulo.",
           "is_correct": false,
           "feedback": "Incorreto. A letra é combativa, ríspida, indignada e satírica, fugindo por completo de suavizações de eufemismos ou bajulações de luxo."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "O rap funde metáforas térmicas de frieza humana (\"castelo de gelo\") com prosopopeias macabras (\"castelo sorri com a fome\") para amplificar o contraste ético e social contra a desigualdade urbana.",
           "is_correct": true,
           "feedback": "Correto! As figuras de linguagem são armas expressivas cruas de protesto cívico que chocam a mente do ouvinte receptor para denunciar injustiças de classe."
@@ -892,7 +892,7 @@
           "feedback": "Incorreto. É uma canção poética cívica dramática de protesto social nas mídias contemporâneas e não um relatório burocrático oficial de engenharia."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "O rap de protesto paulistano contemporâneo utiliza figuras de linguagem (metáforas, antíteses, hipérboles e prosopopeias satíricas) com alto poder expressivo cívico. Associar as fortunas de condomínios fechados a \"castelos de gelo\" de frieza social que \"sorriem com a fome\" dos bairros pobres e favelas vizinhas cria um violento e inesquecível contraste moral de denúncia cívica. O rap mostra como a estilística da conotação atua de forma engajada na esfera musical urbana brasileira para mobilizar as consciências contra exclusões históricas graves.",
       "difficulty": "10",
       "images": [],

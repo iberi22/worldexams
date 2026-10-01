@@ -19,13 +19,13 @@
           "feedback": "Incorrecto. Esta es una relación lineal, no exponencial."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$b^y = x$",
           "is_correct": true,
           "feedback": "Correcto. El logaritmo es el exponente al cual hay que elevar la base para obtener el número."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x^y = b$",
           "is_correct": false,
           "feedback": "Incorrecto. Intercambió el papel de la base y el resultado."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. La base del logaritmo debe ser la base de la potencia."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El logaritmo es una pregunta: \"¿A qué exponente debo elevar la base para que me de este número?\". Por lo tanto, si $\\log_2(8) = 3$, es porque $2^3 = 8$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -109,13 +109,13 @@
           "feedback": "Incorrecto. Cualquier base elevada a la 1 da la misma base, no 1."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "0",
           "is_correct": true,
           "feedback": "Correcto. Cualquier número (distinto de cero) elevado a la potencia 0 es igual a 1."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$b$",
           "is_correct": false,
           "feedback": "Incorrecto. Este sería el valor de log_b(b)."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. El logaritmo de 1 está perfectamente definido."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Siguiendo la definición exponencial, buscamos un número tal que $b^y = 1$. Por leyes de los exponentes, sabemos que $b^0 = 1$ para cualquier $b \\neq 0$. Por lo tanto, el logaritmo de 1 en cualquier base siempre es 0.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -160,19 +160,19 @@
           "feedback": "Incorrecto. Esta es la base de los logaritmos binarios, comunes en informática."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "$e$ (Número de Euler, $\\approx 2.71828$)",
           "is_correct": true,
           "feedback": "Correcto. El logaritmo natural se define específicamente con la base e."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "0",
           "is_correct": false,
           "feedback": "Incorrecto. La base de un logaritmo nunca puede ser 0."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "El logaritmo natural es fundamental en el cálculo y las ciencias naturales porque su base $e$ aparece en modelos de crecimiento, decaimiento y en el interés compuesto continuo.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -199,25 +199,25 @@
           "feedback": "Incorrecto. El logaritmo de un producto NO es el producto de los logaritmos."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$\\log_b(M) + \\log_b(N)$",
           "is_correct": true,
           "feedback": "Correcto. El logaritmo de un producto es igual a la suma de los logaritmos de sus factores."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\log_b(M + N)$",
           "is_correct": false,
           "feedback": "Incorrecto. No existe una propiedad para el logaritmo de una suma."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$M \\cdot \\log_b(N)$",
           "is_correct": false,
           "feedback": "Incorrecto. Esta es una confusión con la propiedad de la potencia."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Los logaritmos convierten multiplicaciones en sumas. Esta propiedad es el reflejo de la ley de los exponentes que dice que al multiplicar potencias de la misma base, los exponentes se suman ($b^x \\cdot b^y = b^{x+y}$).\n\n---",
       "difficulty": "6",
       "images": [],
@@ -295,19 +295,19 @@
           "feedback": "Incorrecto. El exponente no baja a multiplicar al argumento interno."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "$n \\log_b(x)$",
           "is_correct": true,
           "feedback": "Correcto. El exponente del argumento baja multiplicando a todo el logaritmo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$n + \\log_b(x)$",
           "is_correct": false,
           "feedback": "Incorrecto. La potencia no se convierte en una suma."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Esta es una de las propiedades más potentes, ya que permite \"bajar\" exponentes, convirtiéndolos en multiplicaciones simples. Es la base para resolver ecuaciones exponenciales donde la incógnita está en el exponente.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -334,13 +334,13 @@
           "feedback": "Incorrecto. Esto no tiene relación con las funciones logarítmicas."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$\\frac{\\log_a(x)}{\\log_a(b)}$",
           "is_correct": true,
           "feedback": "Correcto. El logaritmo en la base original es igual al cociente de los logaritmos en la nueva base."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\log_a(x) - \\log_a(b)$",
           "is_correct": false,
           "feedback": "Incorrecto. Se deben dividir los logaritmos, no restarlos."
@@ -352,7 +352,7 @@
           "feedback": "Incorrecto. No sigue la propiedad de cambio de base."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La fórmula de cambio de base permite calcular cualquier logaritmo usando bases estándar (como la decimal o la natural) disponibles en las calculadoras científicas.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -373,13 +373,13 @@
       "context": "Se requiere simplificar una expresión que involucra una raíz cuadrada dentro de un logaritmo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$\\sqrt{\\log_b(x)}$",
           "is_correct": false,
           "feedback": "Incorrecto. La raíz no puede sacarse fuera de la función logaritmo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\frac{1}{2} \\log_b(x)$",
           "is_correct": true,
           "feedback": "Correcto. Una raíz cuadrada equivale al exponente 1/2, el cual baja multiplicando por la propiedad de la potencia."
@@ -397,7 +397,7 @@
           "feedback": "Incorrecto. Las raíces no se convierten en restas constantes."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Recordando que $\\sqrt{x} = x^{1/2}$, aplicamos la propiedad de la potencia: el exponente $1/2$ baja a multiplicar al logaritmo, simplificando la expresión radical.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -424,13 +424,13 @@
           "feedback": "Incorrecto. Sumó los argumentos en lugar de multiplicarlos."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$2$",
           "is_correct": true,
           "feedback": "Correcto. log(4) + log(25) = log(4 * 25) = log(100). Como la base es 10, log10(100) = 2."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\log(100)$",
           "is_correct": false,
           "feedback": "Parcialmente correcto, pero falta evaluar el valor numérico final que es 2."
@@ -442,7 +442,7 @@
           "feedback": "Incorrecto. 10 a la 1 es 10, no 100."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Usamos la propiedad del producto en sentido inverso: $\\log A + \\log B = \\log(A \\cdot B)$. Obtenemos $\\log(100)$, y como buscamos el exponente de 10 que da 100, la respuesta final es 2.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -469,25 +469,25 @@
           "feedback": "Incorrecto. 2 elevado a la 4 es 16."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "5",
           "is_correct": true,
           "feedback": "Correcto. 2^5 = 32. El logaritmo es el exponente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "16",
           "is_correct": false,
           "feedback": "Incorrecto. Dividió 32 entre 2 en lugar de buscar la potencia."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "6",
           "is_correct": false,
           "feedback": "Incorrecto. 2 elevado a la 6 es 64."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Buscamos el valor de $y$ tal que $2^y = 32$. Al descomponer 32 en factores primos vemos que $2 \\cdot 2 \\cdot 2 \\cdot 2 \\cdot 2 = 32$, por lo que $y = 5$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -565,19 +565,19 @@
           "feedback": "Incorrecto. El resultado debe depender del argumento del logaritmo."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "5",
           "is_correct": true,
           "feedback": "Correcto. Debido a que e^x y ln(x) son funciones inversas, aplicarlas consecutivamente devuelve el argumento original."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$e^5$",
           "is_correct": false,
           "feedback": "Incorrecto. No se debe mantener la base e como resultado final."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Por definición de funciones inversas, $f(f^{-1}(x)) = x$. Como la función exponencial de base $e$ es la inversa del logaritmo natural, al aplicarlas una sobre otra, el efecto se anula y queda el número original.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -643,13 +643,13 @@
       "context": "Se analiza el comportamiento de una función logarítmica con base fraccionaria.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "3",
           "is_correct": false,
           "feedback": "Incorrecto. (1/2) elevado a la 3 es 1/8, no 8."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "-3",
           "is_correct": true,
           "feedback": "Correcto. (1/2)^(-3) = (2)^3 = 8. Por lo tanto, el logaritmo es -3."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. (1/2)^(-4) sería 16."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Cuando la base es menor que 1, el logaritmo de un número mayor que 1 será negativo. Buscamos el exponente de $1/2$ que nos de $8$. Como $8 = 2^3$ y $2 = (1/2)^{-1}$, entonces $8 = (1/2)^{-3}$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -694,13 +694,13 @@
           "feedback": "Incorrecto. No se pueden sumar o restar los argumentos internos directamente."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$\\log_b(\\frac{x^2}{x^2 - 1})$",
           "is_correct": true,
           "feedback": "Correcto. Primero subimos el 2 como exponente de x, luego aplicamos la propiedad del cociente por la resta."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\frac{2\\log_b(x)}{\\log_b(x^2 - 1)}$",
           "is_correct": false,
           "feedback": "Incorrecto. Confundió la resta de logaritmos con la fórmula de cambio de base."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. Errores conceptuales en el uso de las propiedades."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Usamos las propiedades en sentido inverso para \"comprimir\" la expresión. El coeficiente $2$ pasa a ser exponente de $x$, y la resta de los dos logaritmos se convierte en el logaritmo de la división de sus argumentos.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -739,13 +739,13 @@
           "feedback": "Incorrecto. 4 elevado a la 2 es 16, no 2."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "1/2",
           "is_correct": true,
           "feedback": "Correcto. 4^(1/2) es la raíz cuadrada de 4, que es 2."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "-2",
           "is_correct": false,
           "feedback": "Incorrecto. 4 elevado a la -2 es 1/16."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. 4 elevado a la 0 es 1."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Buscamos el exponente $y$ tal que $4^y = 2$. Como $2 = \\sqrt{4}$, y la raíz cuadrada se expresa como el exponente $1/2$, entonces $y = 1/2$. Este es un ejemplo de logaritmo donde el resultado es fraccionario.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -784,13 +784,13 @@
           "feedback": "Incorrecto. Solo sumó los logaritmos de 2 y 3, lo que daría log(6)."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "1.08",
           "is_correct": true,
           "feedback": "Correcto. log(12) = log(2^2 * 3) = 2*log(2) + log(3) = 2(0.30) + 0.48 = 0.60 + 0.48 = 1.08."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "0.18",
           "is_correct": false,
           "feedback": "Incorrecto. Realizó una operación de resta sin sentido en este contexto."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. Multiplicó los valores de los logaritmos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Descomponemos el número 12 en factores cuyas logaritmos conocemos: $12 = 2^2 \\cdot 3$. Aplicamos las propiedades del producto y de la potencia para expresar $\\log(12)$ en términos de $\\log(2)$ y $\\log(3)$, y luego sustituimos los valores numéricos.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -823,13 +823,13 @@
       "context": "Un estudiante avanzado analiza la relación entre logaritmos de diferentes bases.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$\\log_2(15)$",
           "is_correct": false,
           "feedback": "Incorrecto. No se pueden sumar los argumentos al multiplicar logaritmos de diferentes bases."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "3",
           "is_correct": true,
           "feedback": "Correcto. Usando cambio de base: (ln 3 / ln 2) * (ln 4 / ln 3) * (ln 8 / ln 4). Se cancelan los ln 3 y ln 4, quedando ln 8 / ln 2, que es log2(8) = 3."
@@ -847,7 +847,7 @@
           "feedback": "Incorrecto. No existe una regla que permita combinar las bases y argumentos de esa forma."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Al aplicar la fórmula de cambio de base a cada término, los numeradores de una fracción se cancelan con los denominadores de la siguiente (efecto cadena). La expresión se reduce drásticamente a un solo logaritmo fácil de calcular.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -868,19 +868,19 @@
       "context": "Un investigador del Cinvestav estudia una identidad logarítmica compleja.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$c^{\\log_a(b)}$",
           "is_correct": true,
           "feedback": "Correcto. Esta es una identidad conocida: b elevado al log_a de c es igual a c elevado al log_a de b."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$a^{\\log_b(c)}$",
           "is_correct": false,
           "feedback": "Incorrecto. La base de la potencia no puede intercambiarse por la base del logaritmo de esa manera."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$c \\cdot \\log_a(b)$",
           "is_correct": false,
           "feedback": "Incorrecto. No es una multiplicación lineal."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. Confusión con la propiedad de la potencia del logaritmo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Esta identidad se demuestra aplicando logaritmos en cualquier base a ambos lados. Es muy útil en transformaciones algebraicas donde se requiere cambiar la base de una potencia que tiene un logaritmo en el exponente.",
       "difficulty": "10",
       "images": [],

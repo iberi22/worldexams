@@ -59,19 +59,19 @@
       "context": "El utilitarismo de John Stuart Mill y el cálculo de bienestar (Medellín).",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "En el principio de la mayor felicidad para el mayor número de personas afectadas por las consecuencias de la acción.",
           "is_correct": true,
           "feedback": "Es correcta porque el utilitarismo es una teoría consecuencialista que mide la moral por el impacto en el bienestar colectivo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "En la conformidad literal con las costumbres religiosas heredadas de la Edad Media.",
           "is_correct": false,
           "feedback": "Es incorrecta porque el utilitarismo no depende de dogmas teológicos tradicionales."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "En la intención pura y secreta del individuo al margen de cualquier resultado empírico.",
           "is_correct": false,
           "feedback": "Es incorrecta porque rechaza juzgar los actos por las intenciones desvinculadas de sus consecuencias reales."
@@ -83,7 +83,7 @@
           "feedback": "Es incorrecta porque la moral utilitarista es una teoría ética y no una ley biológica estocástica."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El utilitarismo juzga la rectitud ética por la cantidad de bienestar o felicidad neta generada.",
       "difficulty": "4",
       "images": [],
@@ -151,13 +151,13 @@
       "context": "Thomas Hobbes y la justificación del contrato social en el Leviatán (Barranquilla).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Para salir del estado de naturaleza, caracterizado por la guerra de todos contra todos y el miedo constante a la muerte violenta.",
           "is_correct": true,
           "feedback": "Es correcta porque la seguridad y la paz son los móviles racionales que fundamentan el pacto político hobbesiano."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Para crear una sociedad donde nadie tenga que trabajar y el Estado regale todos los bienes.",
           "is_correct": false,
           "feedback": "Es incorrecta porque el fin del Estado hobbesiano es preservar la vida y la propiedad, no garantizar la holgazanería."
@@ -175,7 +175,7 @@
           "feedback": "Es incorrecta porque el objetivo principal del Leviatán es mantener el orden interno y evitar la guerra civil."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El contractualismo hobbesiano justifica la autoridad estatal como garante indispensable de la paz social.",
       "difficulty": "4",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "El dilema del tranvía (Trolley Problem) y la evaluación ética (Manizales).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Se negaría a accionar la palanca si considera que matar activamente a una persona inocente viola un deber moral absoluto.",
           "is_correct": true,
           "feedback": "Es correcta porque la deontología sostiene que ciertas acciones (como usar a un inocente) son intrínsecamente malas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Accionaría la palanca de inmediato porque cinco vidas valen matemáticamente más que una sola vida.",
           "is_correct": false,
           "feedback": "Es incorrecta porque esa postura de optimización numérica corresponde a la ética utilitarista y no deontológica."
@@ -313,7 +313,7 @@
           "feedback": "Es incorrecta porque la emergencia del evento impide la realización de procesos votacionales."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El dilema del tranvía contrapone la lógica consecuencialista utilitarista a la restricción moral deontológica.",
       "difficulty": "6",
       "images": [],
@@ -381,31 +381,31 @@
       "context": "Michel Foucault y el concepto de 'biopolítica' (Santa Marta).",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Al conjunto de mecanismos mediante los cuales el Estado administra, regula y controla la vida biológica de las poblaciones.",
           "is_correct": true,
           "feedback": "Es correcta porque la biopolítica es la tecnología de poder que toma a la vida y la población como objeto de gestión."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "A las guerras libradas con microorganismos y virus producidos en laboratorios militares.",
           "is_correct": false,
           "feedback": "Es incorrecta porque no se limita a la guerra biológica sino al control cotidiano de la salud, natalidad y gestión poblacional."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "A la exigencia de que todos los gobernantes tengan títulos de doctorado en biología molecular.",
           "is_correct": false,
           "feedback": "Es incorrecta porque se refiere a la naturaleza del poder moderno y no a la titulación de los mandatarios."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "A la cría de animales de granja en las zonas rurales para aumentar la producción de leche.",
           "is_correct": false,
           "feedback": "Es incorrecta porque desatiende la dimensión política sobre el cuerpo humano colectivo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La biopolítica analiza cómo el poder moderno ejerce su dominio regulando los procesos biológicos de la población.",
       "difficulty": "6",
       "images": [],
@@ -427,31 +427,31 @@
       "context": "El velo de ignorancia en la teoría de la justicia de John Rawls (Pasto).",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Garantizar la imparcialidad al impedir que los diseñadores de la sociedad conozcan su propia posición social, riqueza o talentos.",
           "is_correct": true,
           "feedback": "Es correcta meidante el velo de ignorancia nadie puede diseñar principios que favorezcan sus propios privilegios."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Obligar a todos los ciudadanos a votar con los ojos vendados durante las elecciones presidenciales.",
           "is_correct": false,
           "feedback": "Es incorrecta porque el velo de ignorancia es un dispositivo teórico de reflexión ética, no un acto electoral físico."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Prohibir la enseñanza de las ciencias sociales en las universidades públicas del país.",
           "is_correct": false,
           "feedback": "Es incorrecta porque Rawls busca fundamentar una sociedad justa y no restringir la educación superior."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Asegurar que las leyes sean redactadas por personas que no sepan leer ni escribir.",
           "is_correct": false,
           "feedback": "Es incorrecta porque exige un alto ejercicio de racionalidad e imparcialidad en la formulación de principios."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El velo de ignorancia de Rawls asegura que los principios de justicia se elijan con estricta equidad e imparcialidad.",
       "difficulty": "6",
       "images": [],
@@ -473,13 +473,13 @@
       "context": "La ética de la responsabilidad de Hans Jonas frente a la tecnología (Bogotá).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Obra de tal modo que los efectos de tu acción sean compatibles con la permanencia de una vida humana auténtica en la Tierra.",
           "is_correct": true,
           "feedback": "Es correcta porque Jonas extiende el deber ético hacia la protección del futuro de las próximas generaciones y del planeta."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Aprovecha todos los recursos naturales hasta agotarlos por completo en beneficio de la generación actual.",
           "is_correct": false,
           "feedback": "Es incorrecta porque el principio de responsabilidad condena la sobreexplotación egoísta del presente."
@@ -497,7 +497,7 @@
           "feedback": "Es incorrecta porque la responsabilidad moral es un atributo inalienable de la condición humana."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Hans Jonas formula una ética para la era tecnológica orientada a preservar la vulnerabilidad de la vida futura.",
       "difficulty": "8",
       "images": [],
@@ -519,19 +519,19 @@
       "context": "El concepto de alineación en el pensamiento de Karl Marx (Medellín).",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "En que el trabajador se vuelve extraño respecto al producto de su trabajo, al proceso productivo y a su propia naturaleza humana.",
           "is_correct": true,
           "feedback": "Es correcta porque la alienación enajena el fruto del trabajo convirtiéndolo en una fuerza hostil que domina al creador."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "En que los obreros olvidan cómo hablar su idioma materno al entrar a la fábrica.",
           "is_correct": false,
           "feedback": "Es incorrecta porque la alienación es un fenómeno socioeconómico de desposesión y no de amnesia lingüística."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "En que los empresarios regalan las acciones de sus industrias a los empleados más antiguos.",
           "is_correct": false,
           "feedback": "Es incorrecta porque el análisis marxista denuncia la expropiación de la plusvalía y no la donación corporativa."
@@ -543,7 +543,7 @@
           "feedback": "Es incorrecta porque Marx denuncia la explotación y el desgaste que sufre el obrero en la jornada laboral."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La alienación marxista describe la separación entre el trabajador, su actividad productiva y su ser social.",
       "difficulty": "8",
       "images": [],
@@ -565,13 +565,13 @@
       "context": "La posverdad y la erosión del debate público (Byung-Chul Han) (Cali).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Que los hechos objetivos tienen menos influencia en la formación de la opinión pública que las apelaciones a las emociones y creencias personales.",
           "is_correct": true,
           "feedback": "Es correcta porque la posverdad subordina la evidencia empírica al sesgo de confirmación y a las reacciones emocionales."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Que la verdad histórica ha sido finalmente descubierta gracias a los algoritmos de las redes sociales.",
           "is_correct": false,
           "feedback": "Es incorrecta porque la posverdad desdibuja el valor de los hechos empíricos y fomenta las cámaras de eco."
@@ -589,7 +589,7 @@
           "feedback": "Es incorrecta porque los medios impresos también han sido históricamente permeables a la propaganda."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La posverdad vulnera el debate democrático al reemplazar la verificación de hechos por el impacto emotivo.",
       "difficulty": "8",
       "images": [],
@@ -611,19 +611,19 @@
       "context": "La filosofía de la liberación de Enrique Dussel (Barranquilla).",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "El reconocimiento de la alteridad del 'Otro' golpeado y excluido por la colonialidad y el centro periférico.",
           "is_correct": true,
           "feedback": "Es correcta porque Dussel ubica a la víctima y al excluido de la periferia como la fuente de la crítica filosófica de liberación."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La copia exacta de los modelos de gobierno de las monarquías europeas del siglo XVII.",
           "is_correct": false,
           "feedback": "Es incorrecta porque la filosofía de la liberación es anticolonialista y rechaza la imitación acrítica de modelos imperiales."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La afirmación de que América Latina debe aislarse por completo del resto del mundo sin comerciar.",
           "is_correct": false,
           "feedback": "Es incorrecta porque no propone el aislamiento autárquico sino la transformación crítica de la geopolítica del saber."
@@ -635,7 +635,7 @@
           "feedback": "Es incorrecta porque Dussel escribe y teoriza en español enriqueciendo el pensamiento regional."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La filosofía de la liberación de Dussel parte de la perspectiva del oprimido para deconstruir la eurocentricidad.",
       "difficulty": "8",
       "images": [],
@@ -657,13 +657,13 @@
       "context": "El mito de la caverna de Platón y la teoría de las Ideas (Cartagena).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El tránsito desde la ignorancia o mera opinión (doxa) hacia el conocimiento verdadero de las Ideas (episteme).",
           "is_correct": true,
           "feedback": "Es correcta porque la alegoría platónica representa la ascensión dialéctica del alma hacia la Verdad y el Bien."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El descubrimiento de una mina de oro por parte de los prisioneros del relato.",
           "is_correct": false,
           "feedback": "Es incorrecta porque aplica una lectura materialista literal que desvirtúa el sentido metafórico del mito."
@@ -681,7 +681,7 @@
           "feedback": "Es incorrecta porque Platón prioriza la vida contemplativa e intelectual sobre las sombras del mundo sensible."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El mito de la caverna ilustra la distinción platónica entre el mundo sensible engañoso y el mundo inteligible verdadero.",
       "difficulty": "8",
       "images": [],
@@ -703,31 +703,31 @@
       "context": "El existencialismo de Jean-Paul Sartre y la responsabilidad radical (Bucaramanga).",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Que el ser humano primero existe en el mundo y luego se define a sí mismo mediante sus elecciones y actos en absoluta libertad.",
           "is_correct": true,
           "feedback": "Es correcta porque en el existencialismo ateo no hay una naturaleza humana dada previo a la existencia; somos lo que hacemos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Que las personas nacen con un destino prefijado por las estrellas que no pueden cambiar.",
           "is_correct": false,
           "feedback": "Es incorrecta porque el determinismo de los astros es la negación radical del existencialismo de Sartre."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Que los animales poseen más libertad moral que los seres humanos por no tener leyes escritas.",
           "is_correct": false,
           "feedback": "Es incorrecta porque los animales actúan por instinto, mientras que el hombre está 'condenado a ser libre'."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Que las cosas inanimadas como las mesas eligen voluntariamente convertirse en árboles.",
           "is_correct": false,
           "feedback": "Es incorrecta porque las cosas inanimadas son 'en-sí' y carecen de conciencia reflexiva ('para-sí')."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Para Sartre, la existencia precede a la esencia implica que la libertad y la responsabilidad individual son constitutivas del ser.",
       "difficulty": "8",
       "images": [],
@@ -749,19 +749,19 @@
       "context": "La justicia distributiva en el pensamiento de Amartya Sen (Enfoque de capacidades) (Manizales).",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Evaluar la justicia social según las 'capacidades' reales que tienen las personas para convertir sus recursos en libertades efectivas.",
           "is_correct": true,
           "feedback": "Es correcta porque el enfoque de capacidades de Sen mide la libertad real de las personas para ser y hacer lo que valoran."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Sostener que el dinero es el único indicador que garantiza la felicidad plena de los seres humanos.",
           "is_correct": false,
           "feedback": "Es incorrecta porque Sen precisamente critica el reduccionismo economicista del PIB y el ingreso monetario."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Prohibir la medición estadística de la economía para basarse únicamente en intuiciones poéticas.",
           "is_correct": false,
           "feedback": "Es incorrecta porque Sen es un economista y filósofo que utiliza la estadística al servicio del desarrollo humano."
@@ -773,7 +773,7 @@
           "feedback": "Es incorrecta porque su teoría busca promover la justicia global y ampliar las oportunidades de las personas desfavorecidas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Amartya Sen reorienta la justicia distributiva del mero ingreso financiero a la expansión de las capacidades humanas.",
       "difficulty": "10",
       "images": [],
@@ -795,19 +795,19 @@
       "context": "El concepto de hegemonía en el pensamiento de Antonio Gramsci (Pereira).",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "No solo mediante la fuerza coercitiva del Estado, sino a través de la hegemonía cultural que naturaliza su cosmovisión.",
           "is_correct": true,
           "feedback": "Es correcta porque la hegemonía es el consenso cultural e ideológico mediante el cual la clase dominante lidera la sociedad."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Unicamente mediante la presencia permanente del ejército en las calles de las ciudades.",
           "is_correct": false,
           "feedback": "Es incorrecta porque la tesis de Gramsci es que la coerción pura es insuficiente sin la hegemonía cultural consensuada."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Distribuyendo de forma equitativa toda la riqueza del país entre los trabajadores de forma voluntaria.",
           "is_correct": false,
           "feedback": "Es incorrecta porque el capitalismo no distribuye equitativamente la riqueza de forma espontánea."
@@ -819,7 +819,7 @@
           "feedback": "Es incorrecta porque las instituciones culturales (escuela, prensa, iglesia) son precisamente los aparatos de hegemonía."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La hegemonía en Gramsci explica la dimensión cultural e ideológica en la reproducción del poder político.",
       "difficulty": "10",
       "images": [],
@@ -841,13 +841,13 @@
       "context": "El cuestionamiento de la técnica en Martin Heidegger (Santa Marta).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Que reduce toda la naturaleza y al ser humano a mero 'fondo de reserva' o recurso disponible para ser explotado.",
           "is_correct": true,
           "feedback": "Es correcta porque la esencia de la técnica (Ge-stell) encuadra la realidad como insumo o recurso manipulable sin reverencia al Ser."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Que las máquinas se rompen con frecuencia por falta de repuestos importados del exterior.",
           "is_correct": false,
           "feedback": "Es incorrecta porque la crítica de Heidegger es ontológica y no una queja sobre fallas mecánicas puntuales."
@@ -865,7 +865,7 @@
           "feedback": "Es incorrecta porque el problema no es el talento literario de los técnicos sino la disposición de la mente occidental."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Heidegger advierte que el encuadre técnico del mundo degrada la existencia al tratar a la naturaleza como mero insumo disponible.",
       "difficulty": "10",
       "images": [],
@@ -887,19 +887,19 @@
       "context": "Síntesis sobre la evaluación del pensamiento filosófico en Lectura Crítica (Pasto).",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Porque exige al estudiante identificar premisas, evaluar la validez de los razonamientos y asumir una postura fundamentada ante dilemas complejos.",
           "is_correct": true,
           "feedback": "Es correcta porque el análisis filosófico entrena las habilidades de deconstrucción del discurso, argumentación y reflexión ética."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque se busca comprobar si los estudiantes han memorizado todas las fechas de nacimiento de los filósofos griegos.",
           "is_correct": false,
           "feedback": "Es incorrecta porque la prueba no mide la memoria de fechas sino la capacidad de comprensión e inferencia crítica."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque la filosofía es un requisito burocrático para llenar el cuadernillo de preguntas de la prueba.",
           "is_correct": false,
           "feedback": "Es incorrecta porque responde a los estándares curriculares nacionales del Ministerio de Educación."
@@ -911,7 +911,7 @@
           "feedback": "Es incorrecta porque la prueba es laica, plural y evalúa competencias analíticas y no convicciones religiosas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El análisis de argumentos filosóficos potencia el pensamiento riguroso, el juicio ético y la autonomía intelectual.",
       "difficulty": "10",
       "images": [],

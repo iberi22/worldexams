@@ -65,25 +65,25 @@
           "feedback": "Incorrect. Needs the third person ending for \"my sister\"."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "goes",
           "is_correct": true,
           "feedback": "Correct! \"Goes\" is the correct third-person singular form."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "going",
           "is_correct": false,
           "feedback": "Incorrect. This is the continuous form."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "went",
           "is_correct": false,
           "feedback": "Incorrect. This is the past tense."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "The student remembers and applies the third-person singular rule for the verb \"go\".\n\n---",
       "difficulty": "4",
       "images": [],
@@ -105,31 +105,31 @@
       "context": "A dialogue between two friends.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "I sometimes watch movies on Fridays.",
           "is_correct": true,
           "feedback": "Correct! This uses a frequency adverb to answer \"How often\"."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "I like horror movies.",
           "is_correct": false,
           "feedback": "Incorrect. This talks about preferences, not frequency."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "I am watching a movie now.",
           "is_correct": false,
           "feedback": "Incorrect. This uses the present continuous to describe a current action."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "At the cinema in the mall.",
           "is_correct": false,
           "feedback": "Incorrect. This answers \"Where?\"."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "The student understands how to express frequency in response to a direct question.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -163,19 +163,19 @@
           "feedback": "Incorrect. Incorrect word order."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "I am never tired.",
           "is_correct": true,
           "feedback": "Correct! With the verb \"to be\", the adverb of frequency comes after."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "I am tired never.",
           "is_correct": false,
           "feedback": "Incorrect. Less natural and standard than option C."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "The student understands the placement of frequency adverbs with the verb \"to be\".\n\n---",
       "difficulty": "6",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "A text about Pablo's routine.\n\n\"Pablo is a 13-year-old student. He always wakes up at 5:00 AM. He brushes his teeth and then he studies for an hour before school.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "He goes to school.",
           "is_correct": false,
           "feedback": "Incorrect. He studies before school."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "He brushes his teeth.",
           "is_correct": true,
           "feedback": "Correct! The text says \"He brushes his teeth\" after mentioning he wakes up."
@@ -267,7 +267,7 @@
           "feedback": "Incorrect. Breakfast is not mentioned in this fragment."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "The student applies reading comprehension skills to identify a sequence of actions in a routine.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -295,13 +295,13 @@
           "feedback": "Incorrect. \"He\" requires the auxiliary \"doesn't\"."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "He doesn't play video games on Mondays.",
           "is_correct": true,
           "feedback": "Correct! \"Doesn't\" is the correct auxiliary for third person singular."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "He doesn't plays video games on Mondays.",
           "is_correct": false,
           "feedback": "Incorrect. After \"doesn't\", the verb must be in its base form (no 's')."
@@ -313,7 +313,7 @@
           "feedback": "Incorrect. Missing the auxiliary verb \"do/does\"."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "The student applies the rules for negative sentences in the third-person singular.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -387,25 +387,25 @@
           "feedback": "Incorrect. Luis plays sport 3 days, Ana only 1."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Ana reads more frequently than Luis.",
           "is_correct": true,
           "feedback": "Correct! Ana reads every night, Luis never reads."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Luis studies more than Ana.",
           "is_correct": false,
           "feedback": "Incorrect. They both study the same amount (5 days)."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "They have the same routine.",
           "is_correct": false,
           "feedback": "Incorrect. Their sport and reading habits are different."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "The student analyzes and compares frequency data to identify a correct descriptive statement.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -433,13 +433,13 @@
           "feedback": "Incorrect. This is only one part of his healthy habits, not the sole reason."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Mateo runs because he doesn't have time to sleep.",
           "is_correct": false,
           "feedback": "Incorrect. The text doesn't mention his sleep habits."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Mateo's disciplined and healthy habits support his role as an athlete.",
           "is_correct": true,
           "feedback": "Correct! The combination of exercise and diet reflects his athletic nature and discipline."
@@ -451,7 +451,7 @@
           "feedback": "Incorrect. The relationship is likely the other way around: his habits make him a good candidate for captain."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "The student evaluates a set of behavioral facts to determine the most comprehensive and logical conclusion.",
       "difficulty": "10",
       "images": [],

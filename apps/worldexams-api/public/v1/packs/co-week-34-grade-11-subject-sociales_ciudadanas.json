@@ -65,13 +65,13 @@
           "feedback": "Eso describiría una democracia puramente representativa, superada por el modelo de 1991."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Puede intervenir directamente en decisiones públicas mediante mecanismos distintos al voto, además de elegir gobernantes",
           "is_correct": true,
           "feedback": "Correcto. La participación se suma a la representación en el modelo de 1991."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Debe afiliarse a un partido para ser escuchada por el Estado",
           "is_correct": false,
           "feedback": "La participación no exige militancia partidista; los mecanismos son transversales."
@@ -83,7 +83,7 @@
           "feedback": "No existe la obligación constitucional de asambleas barriales permanentes; los mecanismos tienen reglas puntuales."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El tránsito de 1886 a 1991 marcó el paso de una democracia representativa, restringida y excluyente, a una participativa y pluralista: se reconoce al ciudadano como actor permanente de lo público, no como elector ocasional. Los mecanismos del título I y de la Ley 134 de 1994, hoy refundida en la Ley 1757 de 2015, materializan ese principio.",
       "difficulty": "4",
       "images": [],
@@ -209,19 +209,19 @@
           "feedback": "La falta absoluta por causas judiciales o disciplinarias es distinta; la revocatoria nace de la voluntad popular."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "La revocatoria del mandato, por iniciativa de un número de ciudadanos no inferior al 40 % de los votantes de la elección y con umbral de participación y aprobación mayoritarios",
           "is_correct": true,
           "feedback": "Correcto. El artículo 103, numeral 6, y la Ley 1757 de 2015 configuran la revocatoria del mandato."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El juicio político ante el Senado sin participación popular",
           "is_correct": false,
           "feedback": "El juicio político parlamentario no aplica a gobernadores y alcaldes en el sistema presidencial colombiano."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La revocatoria del mandato es el mecanismo de control político popular por excelencia: la ciudadanía que eligió puede retirar el mandato por incumplimiento del programa. Debe promoverla al menos el 40 % de los votantes de esa elección y, para prosperar, se exige participación no inferior al 40 % del censo y mayoría absoluta de votos. Su escaso uso efectivo ha abierto debate sobre sus umbrales.",
       "difficulty": "6",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "Una red de organizaciones juveniles de Pereira quiere que el Congreso estudie un proyecto de ley sobre salud mental.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La iniciativa legislativa popular",
           "is_correct": true,
           "feedback": "Correcto. Es el derecho de los ciudadanos, organizados o por firmas, de presentar proyectos normativos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El derecho de petición colectivo sin firmas",
           "is_correct": false,
           "feedback": "La petición no crea proyectos normativos obligatorios para su debate; la iniciativa sí obliga a radicarlo."
@@ -267,7 +267,7 @@
           "feedback": "La rendición de cuentas informa y exige explicaciones; no introduce proyectos normativos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La iniciativa legislativa popular permite que un grupo de ciudadanos, respaldado por firmas equivalentes al 5 % del censo electoral (hoy con umbrales definidos por la Ley 1757 de 2015), radique proyectos de ley que el Congreso debe estudiar. Es herramienta de pedagogía democrática e insumo frecuente de movimientos sociales y plataformas ciudadanas.",
       "difficulty": "6",
       "images": [],
@@ -295,13 +295,13 @@
           "feedback": "El plebiscito convoca al pueblo para apoyar o rechazar una decisión del Ejecutivo, no para una pregunta normativa general."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Referendo consultivo",
           "is_correct": true,
           "feedback": "Correcto. El referendo consultivo somete al pueblo preguntas de trascendencia nacional para que se pronuncie."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Consulta previa",
           "is_correct": false,
           "feedback": "La consulta previa es específica de comunidades étnicas afectadas por medidas con impacto directo en sus territorios."
@@ -313,7 +313,7 @@
           "feedback": "Las veedurías vigilan la gestión; no formulan preguntas vinculantes al electorado."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Los artículos 103 y siguientes distinguen: el plebiscito apoya o rechaza decisiones del Ejecutivo; el referendo reformar o derogar normas; la consulta popular pregunta al pueblo sobre asuntos de trascendencia nacional que no sean reforma constitucional. Esta última fue usada en 1999 con la pregunta sobre la política de paz (\"Pregunta Pamplona\"). Cada mecanismo tiene control previo de la Corte Constitucional.",
       "difficulty": "6",
       "images": [],
@@ -335,13 +335,13 @@
       "context": "Un colectivo de mujeres de Buenaventura organiza un espacio para vigilar el ejecución de recursos del hospital local.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El voto programático",
           "is_correct": false,
           "feedback": "El voto programático es un derecho del elector frente al elegido, no una organización de vigilancia."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La veeduría ciudadana",
           "is_correct": true,
           "feedback": "Correcto. La Ley 850 de 2003 regula las veedurías ciudadanas como forma de control social."
@@ -359,7 +359,7 @@
           "feedback": "Es un espacio de coordinación administrativa del gobernador, no de vigilancia ciudadana."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Las veedurías ciudadanas son organizaciones de personas o comunidades que vigilan la gestión pública, la ejecución de obras y el uso de recursos, sin reemplazar el control fiscal oficial. Su fundamento está en los artículos 1, 2 y 40 de la Constitución; la Ley 850 de 2003 y normas reglamentarias les dan marco, y son clave del control social territorial.",
       "difficulty": "6",
       "images": [],
@@ -387,13 +387,13 @@
           "feedback": "El cabildo abierto es general; la consulta a comunidades étnicas es previa, libre e informada y con protocolos propios."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "El referendo nacional derogatorio",
           "is_correct": false,
           "feedback": "El referendo no sustituye la obligación estatal de consultar a los afectados directos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La consulta previa, libre e informada",
           "is_correct": true,
           "feedback": "Correcto. Es el estándar del Convenio 169 de la OIT ratificado por Colombia y incorporado por la Corte Constitucional."
@@ -405,7 +405,7 @@
           "feedback": "Las veedurías vigilan la ejecución; no son el mecanismo de consentimiento comunitario."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "La consulta previa es un derecho fundamental de origen constitucional y convencional: debe ser previa a la medida, libre (sin coerción), informada (con información completa) y de buena fe, con el objeto de llegar a un acuerdo o lograr el consentimiento, especialmente cuando se trata de pueblos tribales y de planes que afecten sus tierras o territorios (Convenio 169 OIT, artículos 6 y 15). La Sentencia SU-039 de 1997 y la C-013 de 2014 consolidaron su carácter obligatorio.",
       "difficulty": "6",
       "images": [],
@@ -427,19 +427,19 @@
       "context": "En la Semana de la Democracia de un colegio de Chía se debate el voto obligatorio.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Un derecho personal del ciudadano cuya inscripción y ejercicio garantizan los organismos electorales, sin consagrar el voto obligatorio",
           "is_correct": true,
           "feedback": "Correcto. El artículo 258 lo define como derecho personal; el voto no es obligatorio en el texto constitucional."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Un deber sancionado con multa inmediata por la Registraduría",
           "is_correct": false,
           "feedback": "Colombia no impone sanciones económicas generales por no votar."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Una concesión graciosa del Presidente de la República",
           "is_correct": false,
           "feedback": "El voto es un derecho ciudadano preconstitucional y garantizado, no una concesión del Ejecutivo."
@@ -451,7 +451,7 @@
           "feedback": "La ciudadanía política es universal para los nacionales mayores de edad; no depende de títulos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El artículo 258 establece que el voto es un derecho personal del ciudadano y que la ley consagrará las garantías para su ejercicio: financiamiento, medios de comunicación, jurados, escrutinios, control de la Registraduría. El carácter voluntario del sufragio convive con el deber cívico de informarse, y la abstención estructural es un desafío permanente para la legitimidad de origen de los elegidos.",
       "difficulty": "6",
       "images": [],
@@ -479,13 +479,13 @@
           "feedback": "La diferencia fue estrecha y las encuestas posteriores mostraron mayorías a favor de la paz; no hubo unanimidad."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Una combinación de desinformación sobre el contenido del acuerdo, abstención alta, voto de castigo y clivajes regionales",
           "is_correct": true,
           "feedback": "Correcto. La literatura explica el resultado por factores múltiples, no por una sola causa."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Una decisión judicial que anuló las negociaciones de La Habana",
           "is_correct": false,
           "feedback": "Ningún tribunal anuló el proceso; el acuerdo final se firmó en Cartagena el 24 de noviembre de 2016."
@@ -497,7 +497,7 @@
           "feedback": "La renegociación fue decisión política del Gobierno con los voceros del No, no un mandato automático del mecanismo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El plebiscito por la paz de 2016 es el caso de estudio más citado de participación directa reciente. Analíticamente, su interpretación exige distinguir: el umbral (participación del 13 % del censo no se cumplió, pero la Corte Constitucional eliminó el requisito del umbral por C-595 de 2016, por lo que el resultado fue vinculante), estrategias de miedo, baja deliberación, y clivajes urbanos-rurales y regionales del voto. Es un examen de pensamiento sistémico.",
       "difficulty": "8",
       "images": [],
@@ -565,31 +565,31 @@
       "context": "Un analista compara los consejos territoriales de planificación y los consejos consultivos de organizaciones sociales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Cuerpos colectivos y organizaciones con presencia reglada en la gestión pública, como las Juntas de Acción Comunal y los consejos temáticos",
           "is_correct": true,
           "feedback": "Correcto. La participación asociativa y orgánica es componente estructural del sistema participativo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Solo decretos presidenciales sin intervención ciudadana",
           "is_correct": false,
           "feedback": "Los decretos son actos del Ejecutivo; la participación orgánica requiere presencia social efectiva."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Voto obligatorio para afiliarse a las Juntas de Acción Comunal",
           "is_correct": false,
           "feedback": "La afiliación a las JAC es voluntaria; se rige por la Ley 176 de 1994."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La eliminación del nivel municipal de gobierno",
           "is_correct": false,
           "feedback": "El municipio es entidad territorial fundamental (artículo 313); no se elimina."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La participación no se agota en los mecanismos del artículo 103: se despliega en la acción comunal (Ley 176 de 1994), los consejos consultivos, las juntas de educación, los consejos territoriales de política social y las mesas sectoriales. Este entramado asociativo es la \"democracia orgánica\" que articula ciudadanía y Estado, y cuya debilidad o captura clientelista condiciona su efectividad real.",
       "difficulty": "8",
       "images": [],
@@ -617,25 +617,25 @@
           "feedback": "El reemplazo sin control comprometería la transparencia del artículo 258 y la confianza electoral."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Garantizar autenticación, trazabilidad, inclusión y supervisión pública (Registraduría), junto con protección de datos personales",
           "is_correct": true,
           "feedback": "Correcto. La digitalización participativa exige garantías técnicas y de derechos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Reservarla exclusivamente a funcionarios de libre nombramiento y remoción",
           "is_correct": false,
           "feedback": "La participación es un derecho ciudadano general, no una prerrogativa burocrática."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Eliminar la identidad digital de los menores de edad",
           "is_correct": false,
           "feedback": "La protección de menores se rige por el interés superior; no es el asunto central de la participación digital."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La Ley 1757 de 2015 previó el uso de medios electrónicos para mecanismos de participación y la Registraduría ha impulsado la identificación biométrica y plataformas de rendición de cuentas. El análisis crítico debe ponderar la brecha digital —desigualdad de acceso— y los riesgos de manipulación algorítmica, porque la tecnología amplifica la participación solo si democratiza el acceso y audita el poder.",
       "difficulty": "8",
       "images": [],
@@ -657,13 +657,13 @@
       "context": "Se estudia en un colegio de Armenia por qué la revocatoria de un alcalde fracasó por no alcanzar el umbral.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Impedir todo control ciudadano sobre los mandatarios locales",
           "is_correct": false,
           "feedback": "El umbral no prohíbe la revocatoria; exige legitimidad mayoritaria y participación real."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Que el retiro del mandato cuente con base democrática comparable a la investidura popular originaria",
           "is_correct": true,
           "feedback": "Correcto. Se evita que minorías organizadas destituyan mandatarios elegidos por muchos."
@@ -681,7 +681,7 @@
           "feedback": "El ahorro no es la razón de fondo del umbral; lo es la calidad de la legitimidad del resultado."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La revocatoria debe superar la participación del 40 % del censo y mayoría absoluta de votos válidos para prosperar. La tensión es clara: umbrales altos protegen la estabilidad institucional pero desincentivan la participación; umbrales bajos exponen a los mandatarios a la agitación minoritaria. El caso de 2013 en Neiva y el plebiscito de 2016 muestran que el diseño de umbrales es una decisión de ingeniería constitucional con efectos políticos.",
       "difficulty": "8",
       "images": [],
@@ -709,13 +709,13 @@
           "feedback": "Las cremallera y el voto programático pretenden lo contrario: proposals sobre maquinarias."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Vincular al elegido con su programa y promover representación plural de mujeres en las corporaciones públicas",
           "is_correct": true,
           "feedback": "Correcto. El voto programático liga al elegido al programa inscrito; la alternancia amplía participación femenina."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Excluir de candidaturas a los movimientos alternativos",
           "is_correct": false,
           "feedback": "Las reglas de listas y umbrales no excluyen movimientos; el estatuto de la oposición protege su participación."
@@ -727,7 +727,7 @@
           "feedback": "No existe asignación automática de curules por la Presidencia en el sistema colombiano."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El artículo 258 consagra el voto programático y el estatuto de la oposición; la reforma de 2015 (Acto Legislativo 01 de 2009 y leyes estatutarias como la 1475 de 2011) y la paridad reforzaron la equidad. El análisis conjunto muestra el esfuerzo constitucional por cerrar la distancia entre el mandato electoral y el control ciudadano, y por democratizar el acceso de mujeres a las corporaciones públicas.",
       "difficulty": "8",
       "images": [],
@@ -801,13 +801,13 @@
           "feedback": "No sustituyen al ejecutivo: complementan con decisión compartida sobre porciones del gasto."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Eliminan la necesidad de controlar la corrupción",
           "is_correct": false,
           "feedback": "La vigilancia sigue siendo necesaria; el diseño reduce opacidad pero no borra el control."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Transforman a la ciudadanía de beneficiaria en codesisora del gasto, con pedagogía republicana y redistribución más legítima",
           "is_correct": true,
           "feedback": "Correcto. Su valor es epistémico y normativo: aprenden a decidir quienes pagan impuestos."
@@ -819,7 +819,7 @@
           "feedback": "El efecto sobre el crecimiento es contingente, no automático; su núcleo es la legitimidad deliberativa."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Los presupuestos participativos, nacidos en Porto Alegre (1989) y adoptados en ciudades colombianas, distribuyen poder decisorio sobre el gasto entre ciudadanía y administración. Su evaluación debe considerar tanto logros (focalización, aprendizaje cívico) como riesgos (captura por grupos organizados, fatiga participativa). Es la prueba empírica más cercana al mandato de participación del artículo 2.",
       "difficulty": "10",
       "images": [],
@@ -847,13 +847,13 @@
           "feedback": "Sin registro no hay certeza de la voluntad popular; agravaría la crisis de legitimidad."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Deliberación pública de calidad, información verificada y controles antidinero, para que menos requisitos no signifiquen menos democracia",
           "is_correct": true,
           "feedback": "Correcto. Umbrales bajos sin deliberación habilitan manipulación; la condición es la calidad del proceso."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La obligatoriedad de votar en todos los mecanismos",
           "is_correct": false,
           "feedback": "Hacer obligatorio lo que es participativo altera el diseño y no resuelve el problema informacional."
@@ -865,7 +865,7 @@
           "feedback": "El voto preferente fragmentó cohesiones programáticas; fue eliminado por la reforma de 2015 por sus efectos clientelares."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El dilema umbral-calidad es central en la ingeniería constitucional participativa. Los umbrales altos filtran la agitación pero ahogan la iniciativa; los bajos dinamizan y abren puertas a la demagogia organizada. La evidencia comparada sugiere que lo decisivo no es el porcentaje sino la ecología deliberativa: escuelas cívicas, veedurías, financiamiento limpio y medios con responsabilidad social (artículo 20).",
       "difficulty": "10",
       "images": [],
@@ -893,13 +893,13 @@
           "feedback": "La exclusión reproduce las causas del conflicto; los PDET nacieron justamente para lo contrario."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "La participación es accesoria: basta con el desarme de los grupos armados",
           "is_correct": false,
           "feedback": "El desarme sin transformación institucional deja vacíos de gobernanza y conflictividad social."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Los espacios de participación, como los programas de desarrollo con enfoque territorial construidos con comunidades, son condición de sostenibilidad de la paz porque legitiman el Estado donde hubo conflicto",
           "is_correct": true,
           "feedback": "Correcto. La territorialización participativa de la paz es lección central del Acuerdo de 2016."
@@ -911,7 +911,7 @@
           "feedback": "Los consejos municipales de paz son parte del diseño normativo de implementación; su debilidad no es inexistencia."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "El Acuerdo Final de 2016 coloca la participación en el corazón de la construcción de paz: el primer punto fue \"Fin del conflicto\" vía políticas de desarrollo integral (PDET) definidas con las comunidades de los 170 municipios más afectados. Evaluar este vínculo permite comprender la democracia colombiana desde su herida: donde el Estado llegó solo por la violencia, la participación reconstructiva es garantía de no repetición.",
       "difficulty": "10",
       "images": [],

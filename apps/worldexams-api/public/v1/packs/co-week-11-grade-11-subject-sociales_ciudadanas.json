@@ -19,13 +19,13 @@
           "feedback": "Incorrecto. La Carta de 1991 no fue expedida por decreto presidencial sino por una Asamblea Constituyente elegida popularmente."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "el Congreso de la República en sesión ordinaria de 1990.",
           "is_correct": false,
           "feedback": "Incorrecto. El Congreso ordinario no tiene facultad de dictar una nueva Constitución; la Carta vigente fue producto de la Asamblea Constituyente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "la Asamblea Nacional Constituyente elegida el 9 de diciembre de 1990.",
           "is_correct": true,
           "feedback": "Correcto. Los colombianos eligieron el 9 de diciembre de 1990 a los delegatarios de la Asamblea que redactó y promulgó la Carta de 1991."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. La Corte Constitucional fue creada por esa misma Constitución, no podía expedirla antes de existir formalmente."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "La Constitución de 1991 fue producto de una crisis de representación que se expresó en la Séptima Papeleta, iniciativa ciudadana convertida en ley por el gobierno de César Gaviria. El 9 de diciembre de 1990 se eligió una Asamblea Nacional Constituyente de 70 miembros, integrada por partidos, movimientos cívicos, indígenas y guerrillas desmovilizadas (M-19, ADO, EPL, PRT y Quintín Lame), que sesionó en Bogotá y produjo la nueva Carta, vigente desde julio de 1991.",
       "difficulty": "4",
       "images": [],
@@ -59,13 +59,13 @@
       "context": "Un profesor en Medellín explica a sus estudiantes que la nueva Constitución amplió la elección popular de mandatarios locales y regionales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "la elección popular directa de gobernadores departamentales, que antes eran designados por el presidente.",
           "is_correct": true,
           "feedback": "Correcto. Antes de 1991 los gobernadores eran designados por el ejecutivo; la Carta de 1991 estableció su elección popular por cuatro años."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "la eliminación completa del Senado y la Cámara de Representantes.",
           "is_correct": false,
           "feedback": "Incorrecto. El Congreso bicameral se mantuvo; lo que se amplió fueron los mecanismos de participación ciudadana."
@@ -83,7 +83,7 @@
           "feedback": "Incorrecto. La Constitución amplió el pluralismo político, no lo restringió."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La Constitución de 1991 profundizó la descentralización mediante la elección popular de gobernadores, hasta entonces agentes del presidente en los departamentos. También reconoció la autonomía municipal y departmental, los mecanismos de participación, los derechos de las minorías étnicas y la figura del voto programático, que obliga a los alcaldes a gobernar según el plan que presentaron a los ciudadanos.",
       "difficulty": "4",
       "images": [],
@@ -111,13 +111,13 @@
           "feedback": "Incorrecto. La Nación no es una entidad territorial en el sentido estricto; los departamentos, municipios y distritos son los niveles principales."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Estado central, regiones autónomas y cantones.",
           "is_correct": false,
           "feedback": "Incorrecto. Colombia no tiene regiones autónomas ni cantones; su modelo es departamental, municipal y distrital."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Departamentos, municipios y distritos.",
           "is_correct": true,
           "feedback": "Correcto. El artículo 286 de la Constitución reconoce como entidades territoriales a departamentos, municipios y distritos."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecto. Las provincias son asociaciones de municipios y las veredas son divisiones rurales internas, no entidades territoriales principales."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "El artículo 286 de la Constitución de 1991 establece que son entidades territoriales los departamentos, los municipios, los distritos y los territorios indígenas. Cada una goza de autonomía para la gestión de sus intereses dentro de los límites de la Constitución y la ley, con autoridades propias y un esquema de competencias que incluye salud, educación y servicios públicos.",
       "difficulty": "4",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "En un foro en Pasto, un concejal explica cómo se distribuye el dinero que llega a los municipios desde la Nación.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "los aportes directos que el presidente entrega con cargo al presupuesto nacional.",
           "is_correct": false,
           "feedback": "Incorrecto. Los recursos no se entregan discrecionalmente por el presidente sino por el Sistema General de Participaciones, con criterios técnicos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "el Sistema General de Participaciones, SGP, originado en los ingresos corrientes de la Nación.",
           "is_correct": true,
           "feedback": "Correcto. El SGP, creado por el Acto Legislativo 01 de 2001, distribuye recursos a entidades territoriales para educación, salud y propósito general."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto. Los municipios no dependen normalmente de donaciones internacionales; el grueso de los recursos son internos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El Sistema General de Participaciones reemplazó las transferencias del antiguo situado fiscal y las participaciones municipales. Se financia con un porcentaje de los ingresos corrientes de la Nación y se distribuye con criterios de población, pobreza y eficiencia fiscal. Los municipios reciben así recursos para financiar salud, educación, agua potable y otros servicios, complementados con recursos propios como el impuesto predial y las regalías.",
       "difficulty": "6",
       "images": [],
@@ -255,19 +255,19 @@
           "feedback": "Incorrecto. Las parcialidades son figuras del derecho agrario tradicional, no la categoría constitucional de los pueblos indígenas."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "territorios indígenas, dotados de entidad territorial propia.",
           "is_correct": true,
           "feedback": "Correcto. El artículo 286 y el título XI de la Carta reconocen a los territorios indígenas como entidades territoriales con autonomía y jurisdicción especial."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "asociaciones de municipios exclusivamente.",
           "is_correct": false,
           "feedback": "Incorrecto. Las asociaciones de municipios son una figura de cooperación municipal; los territorios indígenas tienen un estatus constitucional propio."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La Constitución de 1991 rompió con la tradición centralista al reconocer a los territorios indígenas como entidades territoriales con derecho a un régimen especial, paralelo al de departamentos y municipios. La jurisprudencia constitucional y la Ley 89 de 1890, actualizada con la Ley Orgánica de Ordenamiento Territorial, les reconoce funciones jurisdiccionales, autoridades propias y la posibilidad de administrar sus recursos conforme a sus usos y costumbres.",
       "difficulty": "6",
       "images": [],
@@ -295,13 +295,13 @@
           "feedback": "Incorrecto. El Plan Nacional de Desarrollo es el instrumento del nivel nacional; los departamentos tienen su propio plan de desarrollo."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "el Plan de Desarrollo Departamental, construido participativamente por el gobernador y aprobado por la Asamblea Departamental.",
           "is_correct": true,
           "feedback": "Correcto. Cada gobernador debe formular un Plan de Desarrollo para su período, concertado con actores del territorio y aprobado por la Asamblea Departamental."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "el Plan de Ordenamiento Territorial exclusivamente para municipios.",
           "is_correct": false,
           "feedback": "Incorrecto. El POT es principalmente municipal; los departamentos cuentan con planes de desarrollo propios y directrices de ordenamiento."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecto. La agenda del Congreso es del nivel nacional; los departamentos tienen su propio plan y su propio presupuesto."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El Plan de Desarrollo Departamental es el instrumento mediante el cual el gobernador articula sus objetivos de gobierno durante los cuatro años de su período. Se construye con participación de la sociedad civil, se aprueba por la Asamblea Departamental y debe guardar coherencia con el Plan Nacional de Desarrollo. Su articulación con los planes municipales y con los instrumentos de ordenamiento es clave para la gobernanza multinivel.",
       "difficulty": "6",
       "images": [],
@@ -347,19 +347,19 @@
           "feedback": "Incorrecto. El Concejo no puede remover directamente al alcalde; ese es un proceso ante autoridades disciplinarias o judiciales."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "revocatoria del mandato, regulada por la Ley 1757 de 2015.",
           "is_correct": true,
           "feedback": "Correcto. La revocatoria del mandato es un derecho político mediante el cual los ciudadanos terminan anticipadamente el período del elegido."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "consulta previa ante la Corte Constitucional.",
           "is_correct": false,
           "feedback": "Incorrecto. La consulta previa se aplica a comunidades étnicas; la revocatoria es un mecanismo universal regulado por la ley estatutaria."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La revocatoria del mandato es un mecanismo de control político que la Constitución de 1991 introdujo y la Ley 1757 de 2015 regula. Para proceder, los ciudadanos deben recoger un número de firmas equivalente a no menos del 30% del censo electoral de la circunscripción. Si la votación favorable supera el 50% de quienes acudan, se convoca a nuevas elecciones, salvo en el último año del período.",
       "difficulty": "6",
       "images": [],
@@ -427,13 +427,13 @@
       "context": "Un investigador en Bucaramanga evalúa el impacto de las regalías en los municipios productores de recursos naturales no renovables.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "concentrar los recursos de regalías en Bogotá para reducir la desigualdad.",
           "is_correct": false,
           "feedback": "Incorrecto. La reforma buscó precisamente redistribuir las regalías para reducir las desigualdades territoriales, no concentrarlas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "distribuir las regalías con criterios de equidad regional, ahorro intergeneracional y competitividad.",
           "is_correct": true,
           "feedback": "Correcto. El SGR distribuye ingresos por regalías entre regiones productoras y no productoras, ahorra parte para el futuro y financia proyectos de impacto regional."
@@ -451,7 +451,7 @@
           "feedback": "Incorrecto. El SGR administra recursos públicos con participación de entidades territoriales y universidades."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Antes de 2011, los municipios y departamentos productores recibían la mayor parte de las regalías, generando enormes diferencias entre regiones con recursos y sin ellos. La reforma creó el Sistema General de Regalías, integrado por Fondos de Ahorro, Estabilización, Desarrollo Regional, de Ciencia y Tecnología y de Compensación Regional. Así se buscó equidad territorial y se obligó a que los proyectos financiados sean viables y auditables.",
       "difficulty": "8",
       "images": [],
@@ -473,13 +473,13 @@
       "context": "Una comunidad de Riohacha pregunta al alcalde cómo puede incidir en decisiones sobre su territorio.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "la elección del presidente de la República cada cuatro años.",
           "is_correct": false,
           "feedback": "Incorrecto. La elección presidencial es una herramienta de participación nacional, no territorial directa."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "la formulación participativa del plan de desarrollo en audiencias públicas y consejos territoriales de planeación.",
           "is_correct": true,
           "feedback": "Correcto. La Ley 152 de 1994 regula los Consejos Territoriales de Planeación como instancias de concertación entre gobierno y sociedad civil."
@@ -497,7 +497,7 @@
           "feedback": "Incorrecto. El voto es universal para los ciudadanos; los funcionarios son elegidos, no votantes de su propio proceso."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Los Consejos Territoriales de Planeación son cuerpos colegiados integrados por representantes de sectores sociales, económicos y comunitarios. Aunque su concepto es consultivo y no vinculante, permiten que la ciudadanía dialogue con el gobierno sobre prioridades del plan de desarrollo. Las audiencias públicas complementan esa deliberación y dan legitimidad a las decisiones, además de permitir ajustes antes de la aprobación por la corporación territorial correspondiente.",
       "difficulty": "8",
       "images": [],
@@ -519,13 +519,13 @@
       "context": "Una asociación de municipios del Magdalena Medio discute cómo prestar servicios públicos de manera conjunta.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "la fusión obligatoria de entidades territoriales.",
           "is_correct": false,
           "feedback": "Incorrecto. La fusión implica pérdida de identidad del municipio; las asociaciones son acuerdos voluntarios."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "la asociación de municipios, regulada por la Ley 1454 de 2011, Ley Orgánica de Ordenamiento Territorial.",
           "is_correct": true,
           "feedback": "Correcto. La LOOT 1454 de 2011 desarrolla las asociaciones de municipios y regiones como esquemas asociativos territoriales."
@@ -543,7 +543,7 @@
           "feedback": "Incorrecto. La segregación es la creación de un nuevo municipio a partir de uno existente, no la asociación."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La Ley Orgánica de Ordenamiento Territorial (LOOT) define tres tipos de esquemas asociativos: las asociaciones de municipios, las áreas metropolitanas y las regiones administrativas y de planificación, además de provincias y regiones de planeación. Cada figura responde a necesidades específicas de coordinación y manejo conjunto de servicios o proyectos que sobrepasan la capacidad de un solo municipio.",
       "difficulty": "8",
       "images": [],
@@ -571,13 +571,13 @@
           "feedback": "Incorrecto. Aunque se relacionan, la descentralización es la distribución de competencias y recursos, mientras que la autonomía incluye el autogobierno y la elección de autoridades."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "la autonomía solo aplica al nivel departamental.",
           "is_correct": false,
           "feedback": "Incorrecto. La autonomía se aplica a todas las entidades territoriales: departamentos, municipios, distritos y territorios indígenas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "la descentralización transfiere competencias y recursos desde la Nación, mientras la autonomía reconoce capacidad de autogobierno a las entidades territoriales.",
           "is_correct": true,
           "feedback": "Correcto. Descentralización y autonomía son complementarias: la primera opera en el plano fiscal y administrativo, la segunda en el político y normativo."
@@ -589,7 +589,7 @@
           "feedback": "Incorrecto. La Constitución de 1991 amplió la descentralización, no la eliminó."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "La descentralización es el proceso por el cual la Nación transfiere competencias, recursos y responsabilidades a las entidades territoriales. La autonomía es la capacidad de esas entidades para gobernarse por sus propias autoridades, dictar ciertas normas y administrar sus asuntos dentro de los límites de la Constitución y la ley. La autonomía sin descentralización fiscal quedaría vacía; la descentralización sin autonomía política se reduciría a ejecutar mandatos del nivel nacional.",
       "difficulty": "8",
       "images": [],
@@ -709,25 +709,25 @@
           "feedback": "Incorrecto. El área metropolitana no reemplaza a los municipios; los integra en una autoridad común para temas específicos."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "una entidad administrativa formada por dos o más municipios con vínculos económicos y sociales, dotada de una autoridad metropolitana.",
           "is_correct": true,
           "feedback": "Correcto. Las áreas metropolitanas coordinan servicios públicos, transporte, ambiente y ordenamiento territorial entre municipios cercanos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "una asociación obligatoria impuesta por el gobierno central.",
           "is_correct": false,
           "feedback": "Incorrecto. La conformación requiere voluntad de los municipios y aprobación de la ley que la crea; no es obligatoria."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "una región autónoma con soberanía legislativa propia.",
           "is_correct": false,
           "feedback": "Incorrecto. Las áreas metropolitanas no tienen soberanía legislativa; coordinan servicios en el marco de la ley."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Las áreas metropolitanas, como el Área Metropolitana del Valle de Aburrá, de Barranquilla o de Bucaramanga, permiten planificar y ejecutar proyectos de impacto regional: transporte masivo, gestión ambiental, tratamiento de aguas y residuos. Su autoridad metropolitana es elegida por los alcaldes de los municipios miembros, lo cual mantiene la autonomía municipal al tiempo que facilita decisiones de escala regional.",
       "difficulty": "8",
       "images": [],
@@ -755,13 +755,13 @@
           "feedback": "Incorrecto. Las listas cerradas sí han sido propuestas como mecanismo para fortalecer la disciplina partidista."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "financiación estatal predominante de las campañas electorales.",
           "is_correct": false,
           "feedback": "Incorrecto. La financiación estatal de campañas es una propuesta recurrente para reducir la influencia de dinero privado."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "eliminación del voto programático como mecanismo de rendición de cuentas.",
           "is_correct": true,
           "feedback": "Correcto. Por el contrario, los debates recientes buscan fortalecer el voto programático, no eliminarlo."
@@ -773,7 +773,7 @@
           "feedback": "Incorrecto. La segunda vuelta para mandatarios locales es una propuesta concreta para fortalecer legitimidad y reducir extremos."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Las propuestas de reforma política suelen girar en torno a cinco ejes: reglas de partidos y listas, financiación de campañas, sistemas electorales, mecanismos de participación y rendición de cuentas, y reformas a la administración pública. Discutir cuáles son más convenientes requiere sopesar estabilidad, representatividad, gobernabilidad y transparencia, reconociendo que cada cambio redistribuye poder entre actores.",
       "difficulty": "10",
       "images": [],
@@ -893,25 +893,25 @@
           "feedback": "Incorrecto. Concentrar recursos en la capital suele profundizar desigualdades con los municipios más alejados."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "fortalecer capacidades técnicas municipales, garantizar recursos estables y promover la participación de comunidades en decisiones locales.",
           "is_correct": true,
           "feedback": "Correcto. La sostenibilidad de la descentralización depende de capacidades, recursos predecibles y participación efectiva."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "eliminar las transferencias a municipios con baja población.",
           "is_correct": false,
           "feedback": "Incorrecto. Las transferencias son justamente un mecanismo para compensar las desigualdades territoriales."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "suprimir los mecanismos de participación para evitar demoras en las decisiones.",
           "is_correct": false,
           "feedback": "Incorrecto. La participación es un derecho constitucional y un factor de legitimidad de las decisiones locales."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Las regiones apartadas suelen combinar baja densidad poblacional, lejanía geográfica y debilidad institucional. Para que la descentralización sea efectiva en ellas se requiere reforzar las capacidades del talento humano local, asegurar ingresos estables más allá de los coyunturales y abrir canales reales para que las comunidades incidan en las decisiones que las afectan. La inversión social integral y la conectividad son complementarios indispensables.",
       "difficulty": "10",
       "images": [],

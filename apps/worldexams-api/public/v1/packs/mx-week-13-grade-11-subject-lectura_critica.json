@@ -19,13 +19,13 @@
           "feedback": "Incorrecto. El texto se refiere a una situación real y actual, sin elementos ficticios."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "A un instructivo para reparar tuberías.",
           "is_correct": false,
           "feedback": "Incorrecto. No presenta pasos ni materiales para una reparación."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "A un reportaje informativo que describe un problema actual con datos y explicaciones.",
           "is_correct": true,
           "feedback": "Correcto. El texto expone causas y consecuencias del desafío hídrico de manera objetiva."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. No hay acotaciones ni parlamentos dramáticos."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "El texto describe el problema del agua en la zona metropolitana con información objetiva: origen del suministro, consecuencias de la sobreexplotación y posibles soluciones. Corresponde a un reportaje informativo o texto expositivo.",
       "difficulty": "4",
       "images": [],
@@ -58,13 +58,13 @@
       "context": "**Pasaje:** La sed de la cuenca de México\n\nLa zona metropolitana de la Ciudad de México enfrenta un desafío que crece con cada año: garantizar agua suficiente para sus habitantes. Una parte del suministro proviene del Sistema Cutzamala, que transporta agua desde presas situadas en el Estado de México y Michoacán. Otra parte se extrae de los acuíferos del valle, sobreexplotados desde hace décadas. Esa extracción excesiva tiene un costo visible: el suelo se hunde de manera irregular y las tuberías se fracturan, lo que agrava las fugas. En temporadas de sequía, varias alcaldías aplican tandeos, es decir, cortes programados del servicio. El recibo del agua, pagado en pesos (MXN), no refleja el verdadero costo de traerla de tan lejos. Los especialistas coinciden en que el problema no es solo de cantidad, sino de gestión: reparar fugas, recargar acuíferos y aprovechar la lluvia son pasos urgentes que la ciudad aún no termina de dar.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "De las presas del Sistema Cutzamala, en el Estado de México y Michoacán.",
           "is_correct": true,
           "feedback": "Correcto. Es el dato explícito que ofrece el texto."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "De los ríos de la península de Yucatán.",
           "is_correct": false,
           "feedback": "Incorrecto. El texto no menciona esa región."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. No hay tal fuente en el texto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La información se localiza directamente: una parte del suministro proviene del Sistema Cutzamala, cuyas presas están en el Estado de México y Michoacán.",
       "difficulty": "4",
       "images": [],
@@ -103,13 +103,13 @@
       "context": "**Pasaje:** La sed de la cuenca de México\n\nLa zona metropolitana de la Ciudad de México enfrenta un desafío que crece con cada año: garantizar agua suficiente para sus habitantes. Una parte del suministro proviene del Sistema Cutzamala, que transporta agua desde presas situadas en el Estado de México y Michoacán. Otra parte se extrae de los acuíferos del valle, sobreexplotados desde hace décadas. Esa extracción excesiva tiene un costo visible: el suelo se hunde de manera irregular y las tuberías se fracturan, lo que agrava las fugas. En temporadas de sequía, varias alcaldías aplican tandeos, es decir, cortes programados del servicio. El recibo del agua, pagado en pesos (MXN), no refleja el verdadero costo de traerla de tan lejos. Los especialistas coinciden en que el problema no es solo de cantidad, sino de gestión: reparar fugas, recargar acuíferos y aprovechar la lluvia son pasos urgentes que la ciudad aún no termina de dar.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El agua de la ciudad es la más cara de América Latina.",
           "is_correct": false,
           "feedback": "Incorrecto. El texto no compara tarifas entre países."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El abasto de agua en la zona metropolitana es un problema serio cuya solución depende tanto de la gestión como de la cantidad disponible.",
           "is_correct": true,
           "feedback": "Correcto. El texto combina el origen del problema con la urgencia de una mejor gestión."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. El texto no afirma que sea exclusivo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La idea principal integra dos afirmaciones del texto: el desafío de la cantidad de agua y la conclusión de que el problema es también de gestión, con pasos urgentes pendientes.",
       "difficulty": "4",
       "images": [],
@@ -160,19 +160,19 @@
           "feedback": "Incorrecto. No hay una historia personal narrada."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Informar sobre las causas y consecuencias del problema del agua en la zona metropolitana.",
           "is_correct": true,
           "feedback": "Correcto. El reportaje expone hechos, causas y soluciones señaladas por especialistas."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Explicar la construcción de las presas paso a paso.",
           "is_correct": false,
           "feedback": "Incorrecto. La construcción no es el tema."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "El propósito del reportaje es informar: explicar de dónde viene el agua, por qué hay escasez y qué riesgos y soluciones existen, de manera objetiva.",
       "difficulty": "4",
       "images": [],
@@ -193,19 +193,19 @@
       "context": "**Pasaje:** La sed de la cuenca de México\n\nLa zona metropolitana de la Ciudad de México enfrenta un desafío que crece con cada año: garantizar agua suficiente para sus habitantes. Una parte del suministro proviene del Sistema Cutzamala, que transporta agua desde presas situadas en el Estado de México y Michoacán. Otra parte se extrae de los acuíferos del valle, sobreexplotados desde hace décadas. Esa extracción excesiva tiene un costo visible: el suelo se hunde de manera irregular y las tuberías se fracturan, lo que agrava las fugas. En temporadas de sequía, varias alcaldías aplican tandeos, es decir, cortes programados del servicio. El recibo del agua, pagado en pesos (MXN), no refleja el verdadero costo de traerla de tan lejos. Los especialistas coinciden en que el problema no es solo de cantidad, sino de gestión: reparar fugas, recargar acuíferos y aprovechar la lluvia son pasos urgentes que la ciudad aún no termina de dar.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Que algunas zonas de la ciudad se hunden más que otras por la extracción desigual de agua.",
           "is_correct": true,
           "feedback": "Correcto. \"De manera irregular\" indica que el hundimiento no es parejo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Que todas las calles se hunden exactamente igual.",
           "is_correct": false,
           "feedback": "Incorrecto. \"Irregular\" niega la uniformidad."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Que el suelo se hunde solo en temporada de lluvias.",
           "is_correct": false,
           "feedback": "Incorrecto. El texto vincula el hundimiento a la extracción, no a la lluvia."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. El texto lo asocia a la fractura de tuberías."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Parafrasear implica traducir la expresión: un hundimiento irregular es aquel que afecta de manera desigual distintas zonas, derivado de la extracción excesiva del acuífero.",
       "difficulty": "6",
       "images": [],
@@ -283,13 +283,13 @@
       "context": "**Pasaje:** La sed de la cuenca de México\n\nLa zona metropolitana de la Ciudad de México enfrenta un desafío que crece con cada año: garantizar agua suficiente para sus habitantes. Una parte del suministro proviene del Sistema Cutzamala, que transporta agua desde presas situadas en el Estado de México y Michoacán. Otra parte se extrae de los acuíferos del valle, sobreexplotados desde hace décadas. Esa extracción excesiva tiene un costo visible: el suelo se hunde de manera irregular y las tuberías se fracturan, lo que agrava las fugas. En temporadas de sequía, varias alcaldías aplican tandeos, es decir, cortes programados del servicio. El recibo del agua, pagado en pesos (MXN), no refleja el verdadero costo de traerla de tan lejos. Los especialistas coinciden en que el problema no es solo de cantidad, sino de gestión: reparar fugas, recargar acuíferos y aprovechar la lluvia son pasos urgentes que la ciudad aún no termina de dar.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Reparaciones permanentes de las tuberías.",
           "is_correct": false,
           "feedback": "Incorrecto. Los tandeos no son trabajos de reparación."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Cortes programados del servicio de agua por periodos.",
           "is_correct": true,
           "feedback": "Correcto. El propio texto lo aclara: \"es decir, cortes programados del servicio\"."
@@ -307,7 +307,7 @@
           "feedback": "Incorrecto. No son campañas de concientización."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El vocabulario en contexto se resuelve con la aclaración que da el propio texto: \"tandeos, es decir, cortes programados del servicio\", un mecanismo aplicado en temporadas de sequía.",
       "difficulty": "6",
       "images": [],
@@ -328,19 +328,19 @@
       "context": "**Pasaje:** Vecinos y racionamiento en una alcaldía\n\nEn una alcaldía del oriente de la capital, los vecinos organizaron asambleas para enfrentar el racionamiento de agua que anunció el organismo local. El racionamiento consiste en reducir el suministro diario durante varias semanas mientras se reparan las fugas principales. María, presidenta del comité vecinal, explicó que la medida exige reorganizar la vida doméstica: lavar en turnos, almacenar solo lo indispensable y diferir el riego de jardines. Algunos vecinos critican la medida porque temen que se prolongue; otros la aceptan como un mal necesario. El organismo, por su parte, asegura que el plan permitirá recuperar presión en la red y que los trabajos concluirán antes de la temporada de lluvias. Mientras tanto, la asamblea decidió publicar un calendario de uso comunitario y vigilar que el reparto sea equitativo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El aumento del precio del agua.",
           "is_correct": false,
           "feedback": "Incorrecto. No se trata de un ajuste de precios."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "La venta de agua embotellada.",
           "is_correct": false,
           "feedback": "Incorrecto. El texto no habla de venta de botellas."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "La distribución limitada del agua disponible durante un periodo.",
           "is_correct": true,
           "feedback": "Correcto. El racionamiento reduce el suministro diario mientras se reparan las fugas."
@@ -352,7 +352,7 @@
           "feedback": "Incorrecto. No se menciona construcción de presas."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "\"Racionamiento\" se deduce del contexto: reducir el suministro diario durante varias semanas implica distribuir de manera limitada el agua disponible.",
       "difficulty": "6",
       "images": [],
@@ -379,13 +379,13 @@
           "feedback": "Incorrecto. \"Por eso\" no objeta; concluye."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Señalar un contraste entre dos ciudades.",
           "is_correct": false,
           "feedback": "Incorrecto. No hay contraste de ciudades."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Introducir la conclusión derivada de los argumentos anteriores.",
           "is_correct": true,
           "feedback": "Correcto. \"Por eso\" marca que lo siguiente es la consecuencia lógica de lo argumentado."
@@ -397,7 +397,7 @@
           "feedback": "Incorrecto. No introduce un ejemplo."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "\"Por eso\" es un conector de consecuencia: enlaza los argumentos sobre el límite de traer agua de lejos con la conclusión de que la política hídrica debe replantearse desde la necesidad real.",
       "difficulty": "6",
       "images": [],
@@ -424,25 +424,25 @@
           "feedback": "Incorrecto. No introduce una causa."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Indicar acciones que ocurren de manera paralela a las obras de reparación.",
           "is_correct": true,
           "feedback": "Correcto. Mientras el organismo trabaja, la asamblea organiza el uso del agua."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Concluir con una opinión personal de María.",
           "is_correct": false,
           "feedback": "Incorrecto. No es una conclusión personal."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Comparar dos alcaldías distintas.",
           "is_correct": false,
           "feedback": "Incorrecto. No hay comparación entre alcaldías."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "\"Mientras tanto\" es un marcador de simultaneidad: conecta lo que ocurre durante las reparaciones (los trabajos del organismo) con lo que la asamblea hace en paralelo (publicar el calendario y vigilar el reparto).",
       "difficulty": "6",
       "images": [],
@@ -469,25 +469,25 @@
           "feedback": "Incorrecto. No se menciona ninguna planta."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Ante un racionamiento por reparaciones, los vecinos se organizan y el organismo anuncia plazos.",
           "is_correct": true,
           "feedback": "Correcto. El resumen integra medida, reacción vecinal y respuesta del organismo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Los vecinos exigen que se cancele la temporada de lluvias.",
           "is_correct": false,
           "feedback": "Incorrecto. Nadie pide eso; la lluvia se menciona como plazo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Una familia decide mudarse a otra ciudad.",
           "is_correct": false,
           "feedback": "Incorrecto. No hay migración en el texto."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Resumir exige conservar los elementos centrales: la medida (racionamiento por reparación de fugas), la organización vecinal y el anuncio de plazos por parte del organismo.",
       "difficulty": "8",
       "images": [],
@@ -508,19 +508,19 @@
       "context": "**Pasaje:** El agua como derecho y como límite\n\nCada vez que se anuncia una nueva sequía, reaparece la misma pregunta: ¿cómo asegurar el agua para una ciudad que no deja de crecer? Quienes defienden los grandes proyectos de importación sostienen que la solución es traer agua de cuencas cada vez más lejanas. El autor de este artículo considera que esa vía tiene un límite: el agua no se crea, se traslada, y cada kilómetro de tubería encarece el servicio y dependencia de otros territorios. La alternativa, argumenta, está en la ciudad misma: reparar las fugas, recargar los acuíferos, captar lluvia y reducir el desperdicio doméstico e industrial. Por eso, concluye, la verdadera política hídrica debe empezar por preguntarse cuánta agua necesitamos de verdad y no solo de dónde traeremos la que falta. El agua es un derecho, sí, pero también un límite que la ciudad debe aprender a respetar.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Describir el funcionamiento del Sistema Cutzamala.",
           "is_correct": false,
           "feedback": "Incorrecto. El sistema no es el tema del artículo."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Informar sobre los precios del agua en pesos.",
           "is_correct": false,
           "feedback": "Incorrecto. No se discuten tarifas."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Persuadir al lector de que la solución al problema hídrico está en la gestión interna, no solo en traer más agua.",
           "is_correct": true,
           "feedback": "Correcto. El autor defiende una tesis y busca convencer con argumentos."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. No hay narración histórica."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "En un artículo de opinión, el propósito es persuadir: el autor sostiene que la política hídrica debe empezar por la gestión interna (fugas, recarga, lluvia) y no depender solo de la importación de agua.",
       "difficulty": "8",
       "images": [],
@@ -559,13 +559,13 @@
           "feedback": "Incorrecto. El autor niega que se pueda crear agua."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Que traer agua de lejos es siempre gratis.",
           "is_correct": false,
           "feedback": "Incorrecto. El autor señala que cada kilómetro encarece el servicio."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Que el suministro tiene límites físicos y económicos, por lo que conviene gestionar la demanda.",
           "is_correct": true,
           "feedback": "Correcto. De esa idea se deriva su apuesta por la gestión interna."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. No se afirma nada semejante."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "La frase implica que el agua disponible es finita y que trasladarla tiene costos; de ahí se infiere la postura del autor: gestionar la demanda antes que depender de nuevas fuentes lejanas.",
       "difficulty": "8",
       "images": [],
@@ -604,13 +604,13 @@
           "feedback": "Incorrecto. No es un procedimiento experimental."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Señalar las causas históricas de la sequía.",
           "is_correct": false,
           "feedback": "Incorrecto. No son causas, son acciones."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Presentar las medidas concretas que sostienen la alternativa que propone el autor.",
           "is_correct": true,
           "feedback": "Correcto. La enumeración da contenido a la tesis de la gestión interna."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. No hay crítica personal a los vecinos."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "En un texto argumentativo, las enumeraciones concretan la tesis: aquí, las medidas de gestión interna funcionan como el desarrollo argumentativo que respalda la alternativa del autor.",
       "difficulty": "8",
       "images": [],
@@ -649,13 +649,13 @@
           "feedback": "Incorrecto. No hay actos violentos."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Como posturas diversas: unos critican la medida y otros la aceptan como necesaria.",
           "is_correct": true,
           "feedback": "Correcto. El texto registra ambas reacciones sin tomar partido."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Como un apoyo unánime e incondicional.",
           "is_correct": false,
           "feedback": "Incorrecto. Hay críticas explícitas."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. Los vecinos se organizan en asambleas."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El texto, de tono informativo, presenta la diversidad de reacciones: algunos vecinos temen que la medida se prolongue y otros la aceptan como un mal necesario, sin que el narrador respalde a un bando.",
       "difficulty": "8",
       "images": [],
@@ -739,13 +739,13 @@
           "feedback": "Incorrecto. Esto reforzaría la tesis de la gestión interna."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "La captación de lluvia ha reducido la presión sobre los acuíferos en zonas piloto.",
           "is_correct": false,
           "feedback": "Incorrecto. También apoya la propuesta del autor."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Aun con fugas reparadas, la demanda de la ciudad supera con holgura lo que se puede ahorrar.",
           "is_correct": true,
           "feedback": "Correcto. Si el ahorro interno no alcanza, la gestión interna sola no resolvería el problema."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. Apoya la viabilidad de la propuesta."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Evaluar argumentos implica detectar qué evidencia los socava: si el ahorro interno resulta insuficiente frente a la demanda, la tesis de que la solución está solo en la gestión interna pierde fuerza.",
       "difficulty": "10",
       "images": [],
@@ -784,13 +784,13 @@
           "feedback": "Incorrecto. Está invertida la clasificación."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Hecho: \"los vecinos deberían aceptar la medida\"; opinión: \"el organismo asegura que concluirá antes de la temporada de lluvias\".",
           "is_correct": false,
           "feedback": "Incorrecto. El anuncio del organismo es un hecho reportado, no una opinión."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Hecho: \"el organismo anunció un racionamiento mientras repara fugas\"; opinión: \"el racionamiento es un mal necesario\".",
           "is_correct": true,
           "feedback": "Correcto. El anuncio es verificable; la valoración de \"mal necesario\" es un juicio."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. La eternidad de la medida es una especulación, no un hecho, y la presidencia de María es verificable."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Distinguir hecho y opinión en el reportaje: los hechos son verificables (el anuncio del racionamiento, la presidencia de María), mientras que las valoraciones (que sea un mal necesario o injusto) expresan juicios.",
       "difficulty": "10",
       "images": [],
@@ -829,13 +829,13 @@
           "feedback": "Incorrecto. El autor lo llama límite, no consumo ilimitado."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Que el agua es mercancía y puede faltar para quien no pague.",
           "is_correct": false,
           "feedback": "Incorrecto. El autor no propone excluir a quien no pague."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Que garantizar el acceso al agua debe compatibilizarse con la capacidad real de los ecosistemas.",
           "is_correct": true,
           "feedback": "Correcto. Reconocer el límite implica que el derecho se ejerce dentro de lo que el territorio puede sostener."
@@ -847,7 +847,7 @@
           "feedback": "Incorrecto. No corresponde a la postura del autor."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "El juicio crítico revela el supuesto: hablar del agua como derecho y límite solo tiene sentido si se asume que el suministro depende de la capacidad de los ecosistemas, que no puede ignorarse en la gestión pública.",
       "difficulty": "10",
       "images": [],
@@ -919,25 +919,25 @@
           "feedback": "Incorrecto. El texto aborda aspectos culturales, históricos y ecológicos del México contemporáneo, desvinculado de reglamentos contables coloniales."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "El papel y la relevancia de acuífero subterráneo en la dinámica de la región.",
           "is_correct": true,
           "feedback": "Correcto. El texto expone de manera explícita la trascendencia de acuífero subterráneo para entender la problemática o fenómeno de la zona."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Una teoría de la física moderna abstracta desprovista de registro empírico terrestre.",
           "is_correct": false,
           "feedback": "Incorrecto. El escrito se enfoca en realidades tangibles y de campo observables, no en teorías físicas abstractas."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La prohibición de toda actividad de artes clásicas en las universidades públicas de la federación.",
           "is_correct": false,
           "feedback": "Incorrecto. No se menciona ninguna prohibición de índole académica artística en las facultades."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El fragmento señala textualmente y describe la relevancia de acuífero subterráneo como el eje central de su exposición informativa.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -964,13 +964,13 @@
           "feedback": "Incorrecto. Los ejidos y ciudadanos se organizan y participan activamente, no se atribuye desinterés absoluto en la lectura."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "La confluencia de variables como hundimiento progresivo que alteran el equilibrio.",
           "is_correct": true,
           "feedback": "Correcto. El fragmento identifica expresamente a hundimiento progresivo como una variable causante o catalizadora de los cambios descritos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La privatización total de todos los servicios públicos por mandato constitucional de la federación.",
           "is_correct": false,
           "feedback": "Incorrecto. El texto no aborda reformas constitucionales de privatización total de servicios públicos."
@@ -982,7 +982,7 @@
           "feedback": "Incorrecto. Esto no se asocia de forma directa con los factores biofísicos o culturales detallados en la lectura."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El texto cita que hundimiento progresivo interviene como una de las causas directas en la evolución o alteración del fenómeno analizado.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -1009,25 +1009,25 @@
           "feedback": "Incorrecto. Concebir el sistema como cerrado contradice la interconexión dinámica de flujos descrita."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Un flujo dinámico e interconectado, ejemplificado por el papel de paradoja hídrica.",
           "is_correct": true,
           "feedback": "Correcto. El autor argumenta que paradoja hídrica representa la interdependencia y dinamismo del sistema, que no puede entenderse de forma aislada."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Un inventario de catálogos administrativos inalterable dictado por las aduanas arancelarias.",
           "is_correct": false,
           "feedback": "Incorrecto. El enfoque del autor es de ecología o sociocultural, no arancelario o fiscal de aduanas comerciales."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Una imitación dócil de los modelos de planeación de las ciudades del viejo mundo.",
           "is_correct": false,
           "feedback": "Incorrecto. El texto exalta el desarrollo autónomo o la asimilación creativa de la realidad local de la federación."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La dinámica de paradoja hídrica sirve para ilustrar que los procesos estudiados operan como flujos interconectados de gran escala.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -1054,13 +1054,13 @@
           "feedback": "Incorrecto. El autor valora positivamente este concepto, no lo presenta como un error de método."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Funcionar como un valioso fugas urbanas para evaluar y diagnosticar el estado del equilibrio general del medio.",
           "is_correct": true,
           "feedback": "Correcto. Se introduce este término para ilustrar cómo ciertos elementos reflejan de manera fáctica las alteraciones o salud del sistema."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Limitar el acceso de las mujeres y minorías a la educación superior en México.",
           "is_correct": false,
           "feedback": "Incorrecto. No guarda relación con la restricción de derechos educativos de género o minorías de la federación."
@@ -1072,7 +1072,7 @@
           "feedback": "Incorrecto. Al contrario, el uso excesivo de agroquímicos o el mercantilismo son señalados como factores de riesgo a regular."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El concepto de fugas urbanas representa el instrumento metodológico o biológico para medir cuantitativa y cualitativamente el impacto del desarrollo sobre el entorno.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -1093,13 +1093,13 @@
       "context": "**Pasaje:** *El desafío hídrico en la cuenca de México*\n\nEl Valle de México, asentado sobre el lecho de un antiguo complejo lacustre, padece hoy una paradoja hídrica crítica. El acuífero de la región, del cual se extrae el 70% del agua potable consumida por la Ciudad de México y su zona metropolitana, sufre de una sobreexplotación alarmante que triplica su recarga natural. Esta extracción desmedida ha provocado un hundimiento progresivo del suelo arcilloso de la capital —registrándose descensos de hasta cuarenta centímetros anuales en algunas zonas—, destruyendo infraestructura hidráulica, monumentos coloniales y vialidades. Pese a que el sistema Cutzamala bombea agua desde cuencas externas de forma costosa, la obsolescencia de las redes de distribución genera que casi el 40% del agua potable se pierda en fugas urbanas. El reto del agua en la cuenca exige una transición urgente hacia la captación pluvial, el tratamiento integral de aguas negras y la restauración del ciclo hidrológico local.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El enfoque esencialista que busca encapsular la realidad en definiciones fijas e inmutables.",
           "is_correct": true,
           "feedback": "Correcto. El autor aboga por superar visiones estáticas de bombeo externo para acoger un marco dinámico de transformación y resiliencia."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La recolección manual y el saneamiento ecológico de las costas de la península de Yucatán.",
           "is_correct": false,
           "feedback": "Incorrecto. El saneamiento manual es valorado como una medida paliativa necesaria, no es cuestionado por el autor de esta sección."
@@ -1117,7 +1117,7 @@
           "feedback": "Incorrecto. La variable lingüística del voseo rioplatense no es objeto de debate en este fragmento."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Frente a bombeo externo, el autor rechaza la rigidez conceptual, proponiendo esquemas abiertos que asimilen la constante evolución histórica del medio.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -1144,13 +1144,13 @@
           "feedback": "Incorrecto. No se asocia con catástrofes financieras directas o parálisis comercial total en el texto."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Funciona como el refugio o cimiento que estabiliza el sistema y le otorga viabilidad frente a las perturbaciones.",
           "is_correct": true,
           "feedback": "Correcto. La cohesión de obsolescencia (ya sea el dosel del bosque, el acuífero arcilloso o la base mestiza) actúa como la cobija y protección del equilibrio general."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Fuerza a la población a abandonar de forma permanente la cuenca para migrar a las costas.",
           "is_correct": false,
           "feedback": "Incorrecto. Se busca la permanencia y el desarrollo sustentable de las comunidades en su propio territorio de origen."
@@ -1162,7 +1162,7 @@
           "feedback": "Incorrecto. Al contrario, se fomenta y valora la ciencia unida a la ética de resguardo público."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La integridad de obsolescencia es indispensable: su destrucción o fragmentación rompe el microclima o tejido que cobija y da sustento al equilibrio colectivo.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -1183,13 +1183,13 @@
       "context": "**Pasaje:** *El desafío hídrico en la cuenca de México*\n\nEl Valle de México, asentado sobre el lecho de un antiguo complejo lacustre, padece hoy una paradoja hídrica crítica. El acuífero de la región, del cual se extrae el 70% del agua potable consumida por la Ciudad de México y su zona metropolitana, sufre de una sobreexplotación alarmante que triplica su recarga natural. Esta extracción desmedida ha provocado un hundimiento progresivo del suelo arcilloso de la capital —registrándose descensos de hasta cuarenta centímetros anuales en algunas zonas—, destruyendo infraestructura hidráulica, monumentos coloniales y vialidades. Pese a que el sistema Cutzamala bombea agua desde cuencas externas de forma costosa, la obsolescencia de las redes de distribución genera que casi el 40% del agua potable se pierda en fugas urbanas. El reto del agua en la cuenca exige una transición urgente hacia la captación pluvial, el tratamiento integral de aguas negras y la restauración del ciclo hidrológico local.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Pavimentación masiva e impermeabilización del suelo para acelerar la urbanización comercial.",
           "is_correct": false,
           "feedback": "Incorrecto. Pavimentar anula la recarga pluvial o destruye el dosel forestal, empeorando el estrés ambiental de la zona."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Creación de corredores y esquemas de custodia que involucren a un captación pluvial de forma activa.",
           "is_correct": true,
           "feedback": "Correcto. Involucrar a un captación pluvial garantiza que la conservación del recurso se asocie con el bienestar social de las familias de la demarcación."
@@ -1207,7 +1207,7 @@
           "feedback": "Incorrecto. No se asocia con el cierre permanente de facultades o cese de clases escolares de la federación."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Involucrar activamente a un captación pluvial en el resguardo de la cuenca o bosque garantiza la viabilidad social y ética del proyecto sustentable.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -1234,13 +1234,13 @@
           "feedback": "Incorrecto. Las prácticas ecológicas y sustentables de autosustento pueden generar ingresos alternativos valiosos de ecoturismo o silvicultura."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Aplicando una estrategia compatible con el equilibrio del entorno y la subsistencia social.",
           "is_correct": true,
           "feedback": "Correcto. Harmonizar la generación de valor económico con el cuidado del patrimonio natural o simbólico es la clave de la sustentabilidad cívica."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Fomentando el uso desmedido de pesticidas agroquímicos o la centralización urbana de los recursos.",
           "is_correct": false,
           "feedback": "Incorrecto. Su acción reduce pesticidas u opone resistencia a la centralización, protegiendo lo local de forma activa."
@@ -1252,7 +1252,7 @@
           "feedback": "Incorrecto. El aprovechamiento ejidal sustentable es legal y respaldado por la normatividad federal de la federación vigente."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El rol de un pavimentos permeables encarna la transición ética indispensable: el autosustento respetuoso que custodia la resiliencia de su región.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -1318,13 +1318,13 @@
       "context": "**Pasaje:** *El desafío hídrico en la cuenca de México*\n\nEl Valle de México, asentado sobre el lecho de un antiguo complejo lacustre, padece hoy una paradoja hídrica crítica. El acuífero de la región, del cual se extrae el 70% del agua potable consumida por la Ciudad de México y su zona metropolitana, sufre de una sobreexplotación alarmante que triplica su recarga natural. Esta extracción desmedida ha provocado un hundimiento progresivo del suelo arcilloso de la capital —registrándose descensos de hasta cuarenta centímetros anuales en algunas zonas—, destruyendo infraestructura hidráulica, monumentos coloniales y vialidades. Pese a que el sistema Cutzamala bombea agua desde cuencas externas de forma costosa, la obsolescencia de las redes de distribución genera que casi el 40% del agua potable se pierda en fugas urbanas. El reto del agua en la cuenca exige una transición urgente hacia la captación pluvial, el tratamiento integral de aguas negras y la restauración del ciclo hidrológico local.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La solidificación inmediata de la roca caliza permeable del Caribe.",
           "is_correct": false,
           "feedback": "Incorrecto. La contracción del suelo arcilloso o deparación forestal no solidifica la caliza marina caribeña, mezclando de forma absurda los temas geográficos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La degradación severa de colapso de redes, comprometiendo la biodiversidad y la calidad de vida de las familias mexicanas.",
           "is_correct": true,
           "feedback": "Correcto. Ignorar los límites de carga biofísica o social de la zona conduce a fallos graves en cascada que deterioran el patrimonio común y aumentan la vulnerabilidad."
@@ -1342,7 +1342,7 @@
           "feedback": "Incorrecto. Los problemas biofísicos no tienen la propiedad legal de suspender regulaciones impositivas del agro."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La degradación continuada de colapso de redes ilustra que la omisión de límites ecológicos o cívicos genera daños acumulativos irreversibles para el porvenir nacional.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -1369,25 +1369,25 @@
           "feedback": "Incorrecto. Limitar la investigación debilita la toma de decisiones de la federación y el desarrollo integral de las regiones."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Garantizar esquemas de inclusión orientados a solventar el problema de centralización cultural de forma viable.",
           "is_correct": true,
           "feedback": "Correcto. Aplicar la tesis crítica exige que promotor de Oaxaca actúe de manera directa para corregir exclusiones, democratizando los recursos o el arte."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Privatizar completamente el patrimonio arqueológico e histórico para depararlo a la explotación hotelera comercial.",
           "is_correct": false,
           "feedback": "Incorrecto. El pasaje se opone a la mercantilización excluyente y defiende el carácter público de los bienes comunes."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Adoptar de forma obligatoria el voseo de Argentina en la redacción de los folletos turísticos nacionales de la federación.",
           "is_correct": false,
           "feedback": "Incorrecto. Las variables lingüísticas de la península o de Argentina carecen de pertinencia cívica para resolver el centralismo o desabasto local."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Delegar programas de inclusión a promotor de Oaxaca concretiza el ideal de justicia distributiva frente a centralización cultural, mitigando brechas geográficas y socioeconómicas.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -1414,13 +1414,13 @@
           "feedback": "Incorrecto. El desarrollo mecánico agroindustrial es un asunto de comercio, desvinculado de la exclusión social descrita en el texto."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Genera condiciones inequitativas donde las familias periféricas ven vulnerado su derecho debido a centralización cultural.",
           "is_correct": true,
           "feedback": "Correcto. La asimetría (digital, de museos o de salud) margina a amplios sectores por razones de geografía y economía, limitando su bienestar y desarrollo humano."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Fuerza a toda la población del norte de la federación a hablar exclusivamente en lenguas mesoamericanas antiguas.",
           "is_correct": false,
           "feedback": "Incorrecto. La problemática no impone el uso lingüístico indígena, sino que restringe el ejercicio de los derechos de la población de los estados."
@@ -1432,7 +1432,7 @@
           "feedback": "Incorrecto. Las playas caribeñas y el sargazo no guardan relación lógica con la conectividad de los estados de la República."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La brecha provocada por centralización cultural segrega a la población, privando a los estados periféricos de oportunidades básicas de educación, conectividad, salud o consumo estético.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -1453,13 +1453,13 @@
       "context": "**Pasaje:** *La descentralización cultural de los museos nacionales*\n\nHistóricamente, la vida cultural de México ha estado sujeta a una centralización asfixiante, concentrando en la Ciudad de México la gran mayoría de los museos nacionales, colecciones de arte prehispánico, galerías de vanguardia y subsidios artísticos. Este monopolio de la capital ha restringido de manera severa el acceso a los bienes culturales y artísticos de la federación para las poblaciones de los estados de la República. No obstante, en la última década ha cobrado fuerza un movimiento por la descentralización de los recintos culturales. Proyectos como la creación de museos comunitarios, la itinerancia de colecciones artísticas del INBAL en los estados y el fomento a creadores locales en Oaxaca, Jalisco y Nuevo León buscan democratizar la cultura. Los defensores de esta reforma señalan que el arte y el patrimonio deben ser de libre acceso para todo ciudadano mexicano, enriqueciendo la cohesión social y valorando de forma digna las identidades plurales que integran al país.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Los habitantes de los estados de la República carecían de la deparación intelectual para asimilar la técnica.",
           "is_correct": false,
           "feedback": "Incorrecto. El autor rechaza cualquier sesgo de superioridad o desprecio intelectual biológico de capacidad."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La capital o el modelo de mercado tradicional constituía el único polo idóneo para validar y gestionar monopolio de capital.",
           "is_correct": true,
           "feedback": "Correcto. El centralismo (institucional o de mercado) presupone que solo el núcleo central concentra la legitimidad, recursos y criterios de validación de monopolio de capital de la federación."
@@ -1477,7 +1477,7 @@
           "feedback": "Incorrecto. Las exploraciones subacuáticas de cenotes no forman parte del debate de este fragmento educativo o de servicios."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La macrocefalia institucional asume una jerarquía de legitimidad, concentrando en el centro del país la gestión de monopolio de capital en detrimento de los estados de la República.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -1549,13 +1549,13 @@
           "feedback": "Incorrecto. Al contrario, se exalta el deparado valor de la herencia local, del agro y del bienestar social colectivo."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "La apropiación local y autogestión de museos comunitarios fortalece de forma directa la cohesión cívica y la soberanía comunitaria.",
           "is_correct": true,
           "feedback": "Correcto. Dar control a la colectividad sobre su propia realidad (salud, educación, cultura) fomenta el autorrespeto, el cuidado mutuo y la cohesión social de la federación."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Cada municipio de la federación debe dictar de forma obligatoria sus propias leyes mercantiles de aduana arancelaria.",
           "is_correct": false,
           "feedback": "Incorrecto. El marco de los proyectos comunitarios es cultural, educativo e identitario, sin relación con aduanas o aranceles mercantiles."
@@ -1567,7 +1567,7 @@
           "feedback": "Incorrecto. Se busca justamente descentralizar los apoyos y recursos, no acentuar el monopolio de la capital."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El empoderamiento periférico asume que los ciudadanos no deben ser meros receptores pasivos de directrices del centro, sino gestores autónomos de museos comunitarios en su demarcación.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -1594,13 +1594,13 @@
           "feedback": "Incorrecto. El autor emplea vocablos metafóricos de asfixia o estancamiento intelectual de ideas, no de ventilación de aire de salas de arte."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Ahoga la diversidad, precariza a la periferia y subordina el bienestar a criterios de centralismo asfixiante.",
           "is_correct": true,
           "feedback": "Correcto. Limitar la planeación a criterios puramente utilitarios de mercado o de centralismo de la capital estrangula el dinamismo y las oportunidades del resto de la federación."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Impide el tránsito de camiones mercantiles de carga en la aduana fronteriza del norte.",
           "is_correct": false,
           "feedback": "Incorrecto. El flujo de aduana norteña es un asunto comercial de transporte, ajeno al debate de centralismo de servicios de la capital."
@@ -1612,7 +1612,7 @@
           "feedback": "Incorrecto. La variable lingüística del voseo no forma parte del debate de centralización o sesgo mercantil institucional de México."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La concentración de la validación o del abasto bajo el sesgo de centralismo asfixiante anula el desarrollo periférico, forzando a los talentos y familias a migrar o a quedar marginadas de los deparaciones comunes.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -1678,19 +1678,19 @@
       "context": "**Pasaje:** *La descentralización cultural de los museos nacionales*\n\nHistóricamente, la vida cultural de México ha estado sujeta a una centralización asfixiante, concentrando en la Ciudad de México la gran mayoría de los museos nacionales, colecciones de arte prehispánico, galerías de vanguardia y subsidios artísticos. Este monopolio de la capital ha restringido de manera severa el acceso a los bienes culturales y artísticos de la federación para las poblaciones de los estados de la República. No obstante, en la última década ha cobrado fuerza un movimiento por la descentralización de los recintos culturales. Proyectos como la creación de museos comunitarios, la itinerancia de colecciones artísticas del INBAL en los estados y el fomento a creadores locales en Oaxaca, Jalisco y Nuevo León buscan democratizar la cultura. Los defensores de esta reforma señalan que el arte y el patrimonio deben ser de libre acceso para todo ciudadano mexicano, enriqueciendo la cohesión social y valorando de forma digna las identidades plurales que integran al país.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Puramente derecho cultural y pragmático, que mide el éxito educativo o cultural únicamente por el retorno de inversión comercial cuantificable.",
           "is_correct": false,
           "feedback": "Incorrecto. El autor critica justamente reducir los derechos a meras deparaciones de rentabilidad de corto plazo de mercado."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Arancelario, centrado en deparar las transacciones e importaciones de la comarca con el extranjero.",
           "is_correct": false,
           "feedback": "Incorrecto. Las aduanas arancelarias comerciales no justifican el disfrute del patrimonio o la equidad educativa de las familias de la periferia."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "De justicia cultural y social, que sitúa al aprendizaje, el bienestar y la conectividad como derechos públicos indispensables para el desarrollo de la dignidad humana.",
           "is_correct": true,
           "feedback": "Correcto. El acceso equitativo a la cultura, salud y conectividad es un derecho consagrado que fundamenta la cohesión de una sociedad democrática plural."
@@ -1702,7 +1702,7 @@
           "feedback": "Incorrecto. Las deparaciones defendidas son enteramente laicas, seculares, científicas y de pluralidad moderna de la federación."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Oponerse a criterios puramente derecho cultural reivindica que el éxito de una federación armónica descansa en dotar a todo ciudadano de las condiciones para ejercitar su potencial de desarrollo.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -1729,13 +1729,13 @@
           "feedback": "Incorrecto. El centralismo hídrico agota severamente el subsuelo del Valle de México; no beneficia al subsuelo de Michoacán."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "El centralismo genera fallos de doble vía, mermando materialmente a la capital y excluyendo cívicamente a la periferia de descentralización cultural.",
           "is_correct": true,
           "feedback": "Correcto. El desequilibrio agota físicamente los límites ecológicos del centro (hundimientos, sobreexplotación) e impide el disfrute de descentralización cultural en la periferia nacional."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La deparación de los museos de la capital es la única vía idónea para proteger las áreas de desove de tortugas de Quintana Roo.",
           "is_correct": false,
           "feedback": "Incorrecto. No existe nexo causal que ligue la ubicación de museos artísticos en la capital con el desove de tortugas marinas costeras caribeñas."
@@ -1747,7 +1747,7 @@
           "feedback": "Incorrecto. El sistema hídrico de abasto de agua no alimenta físicamente a las salas de arte del INBAL, mezclando de forma absurda los temas."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Ambos textos revelan que el centralismo es un modelo insostenible: desborda los límites ecológicos locales en el centro y restringe el capital de descentralización cultural en la periferia nacional.\n\n---",
       "difficulty": "10",
       "images": [],

@@ -19,13 +19,13 @@
           "feedback": "Incorrecto. Es la nota más baja, pero no la más frecuente."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "7",
           "is_correct": true,
           "feedback": "Correcto. La moda es el valor que más veces se repite (aparece 2 veces)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "8",
           "is_correct": false,
           "feedback": "Incorrecto. Es la nota central (mediana), no la moda."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Es la nota más alta."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La moda es la medida de tendencia central que representa el valor con mayor frecuencia absoluta en un conjunto de datos.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -70,19 +70,19 @@
           "feedback": "Incorrecto. Este es el quinto valor de siete."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "32",
           "is_correct": true,
           "feedback": "Correcto. El conjunto ya está ordenado: {28, 30, 31, 32, 35, 38, 40}. El valor central (4ta posición) es el 32."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "34",
           "is_correct": false,
           "feedback": "Incorrecto. Este valor es cercano al promedio, no la mediana."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La mediana es el valor que ocupa la posición central cuando los datos están ordenados. Como hay 7 datos (número impar), la mediana es el dato que ocupa exactamente la posición central: (7+1)/2 = 4ta posición. En este caso, el valor es 32.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -103,19 +103,19 @@
       "context": "En una PyME de Córdoba, los sueldos de 5 empleados son: $400.000, $450.000, $450.000, $500.000 y $1.200.000 (pesos argentinos).\n\nAnálisis salarial empresarial.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La mediana",
           "is_correct": false,
           "feedback": "Incorrecto. La mediana se mantiene en $450.000, es robusta ante valores extremos."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "La moda",
           "is_correct": false,
           "feedback": "Incorrecto. La moda sigue siendo $450.000."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "La media aritmética (promedio)",
           "is_correct": true,
           "feedback": "Correcto. El promedio suma todos los valores, por lo que el valor extremo lo eleva significativamente."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. El rango no es una medida de tendencia central, sino de dispersión."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "La media aritmética es sensible a valores extremos (outliers). En este caso, el sueldo alto \"tira\" el promedio hacia arriba, haciendo que no sea representativo de la mayoría de los empleados.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,13 +148,13 @@
       "context": "Se analizan los precios de un kilo de pan en 10 panaderías de un barrio.\n\nPrecios de consumo básico.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Varianza",
           "is_correct": false,
           "feedback": "Incorrecto. La varianza mide el promedio de los cuadrados de las desviaciones."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Rango",
           "is_correct": true,
           "feedback": "Correcto. El rango es la diferencia entre el valor máximo y el valor mínimo del conjunto."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. Es una medida relativa."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El rango es la medida de dispersión más simple y se calcula restando el valor mínimo al valor máximo de una muestra.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -199,13 +199,13 @@
           "feedback": "Incorrecto. Olvidó sumar todos los valores o dividió mal."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "17,5",
           "is_correct": true,
           "feedback": "Correcto. (10 + 20 + 15 + 25) / 4 = 70 / 4 = 17,5."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "18",
           "is_correct": false,
           "feedback": "Incorrecto. Error de redondeo o suma."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. No es el promedio."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La media aritmética se calcula sumando todos los valores de la muestra y dividiendo el resultado por el tamaño de la muestra (n).\n\n---",
       "difficulty": "6",
       "images": [],
@@ -238,13 +238,13 @@
       "context": "En un estudio sobre el tiempo de uso del celular (en horas) en adolescentes de Rosario, se determinó que el Cuartil 1 (Q1) es 3 horas.\n\nUso de tecnología en jóvenes.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El 3% de los jóvenes usa el celular 1 hora.",
           "is_correct": false,
           "feedback": "Incorrecto. El cuartil no representa porcentajes de la variable, sino proporciones de la población."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El 25% de los jóvenes usa el celular 3 horas o menos.",
           "is_correct": true,
           "feedback": "Correcto. El Q1 deja por debajo al 25% de la distribución ordenada."
@@ -262,7 +262,7 @@
           "feedback": "Incorrecto. El cuartil es una medida de posición, no de tendencia central."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Los cuartiles dividen la muestra ordenada en cuatro partes iguales. El primer cuartil (Q1) separa al 25% inferior de los datos del resto.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -289,13 +289,13 @@
           "feedback": "Incorrecto. Mayor desviación significa mayor dispersión (menos homogeneidad)."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "El Grupo A es más homogéneo y sus integrantes tienen alturas más parecidas entre sí.",
           "is_correct": true,
           "feedback": "Correcto. Una menor desviación estándar indica que los datos están más cerca del promedio."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "En el Grupo B hay más personas que miden exactamente 1,70 m.",
           "is_correct": false,
           "feedback": "Incorrecto. La desviación alta indica justamente lo contrario: que hay más variedad."
@@ -307,7 +307,7 @@
           "feedback": "Incorrecto. La dispersión es justamente lo que permite diferenciarlos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La desviación estándar mide cuánto se alejan, en promedio, los datos respecto de la media. A menor desviación, los datos están más concentrados (muestra más homogénea).\n\n---",
       "difficulty": "6",
       "images": [],
@@ -424,25 +424,25 @@
           "feedback": "Incorrecto. El 90% (36) tiene 12 o menos."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "4 alumnos",
           "is_correct": true,
           "feedback": "Correcto. El P90 deja al 10% superior por encima. El 10% de 40 es 4."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "90 alumnos",
           "is_correct": false,
           "feedback": "Incorrecto. Supera el total del curso."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "12 alumnos",
           "is_correct": false,
           "feedback": "Incorrecto. 12 es el valor de la variable (inasistencias), no la cantidad de alumnos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Los percentiles dividen los datos en 100 partes. El P90 indica que el 90% de los datos son menores o iguales a ese valor, lo que implica que el 10% restante es mayor o igual. 10% de 40 = 4.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -463,19 +463,19 @@
       "context": "Se calculó la media de una muestra de 10 datos resultando en 25. Si se agrega un nuevo dato con valor 25...\n\nPropiedades de la media aritmética.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El promedio aumenta.",
           "is_correct": false,
           "feedback": "Incorrecto. Solo aumentaría si el dato fuera mayor a 25."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "El promedio disminuye.",
           "is_correct": false,
           "feedback": "Incorrecto. Solo disminuiría si el dato fuera menor a 25."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "El promedio se mantiene igual.",
           "is_correct": true,
           "feedback": "Correcto. Agregar un dato igual a la media no altera el promedio."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto. Es una propiedad matemática general."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Si el nuevo valor incorporado es exactamente igual a la media aritmética actual, la suma total aumenta proporcionalmente al número de datos, por lo que el promedio no varía.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -604,13 +604,13 @@
           "feedback": "Incorrecto. No se divide la varianza por la constante linealmente."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "0,01",
           "is_correct": false,
           "feedback": "Incorrecto. Esto sería si se dividiera por la constante, no por su cuadrado."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "0,0001",
           "is_correct": true,
           "feedback": "Correcto. Var(kX) = k² * Var(X). Aquí k = 1/1000. Nueva Var = (1/1000)² * 100 = 100 / 1.000.000 = 0,0001."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. Error en el factor de escala de la varianza."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Si multiplicamos todos los datos por una constante k, la media queda multiplicada por k, pero la varianza queda multiplicada por k². Esto es fundamental para entender cómo escalan las medidas de dispersión.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -643,19 +643,19 @@
       "context": "Se calcula el Coeficiente de Variación (CV = Desviación / Media) para los precios de la nafta en dos ciudades.\n\n- Ciudad 1: Media = $800, Desv = $40.\n\n- Ciudad 2: Media = $1000, Desv = $45.\n\nComparación de dispersión relativa.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "En la Ciudad 1",
           "is_correct": true,
           "feedback": "Correcto. CV1 = 40/800 = 0,05 (5%). CV2 = 45/1000 = 0,045 (4,5%)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "En la Ciudad 2",
           "is_correct": false,
           "feedback": "Incorrecto. Aunque la desviación absoluta es mayor (45 vs 40), respecto a su media es menor."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Es igual en ambas ciudades.",
           "is_correct": false,
           "feedback": "Incorrecto. Los porcentajes son distintos."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. El CV solo requiere media y desviación."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El Coeficiente de Variación permite comparar la dispersión entre grupos con distintas medias. Aquí, la Ciudad 1 tiene una variabilidad mayor en relación con su nivel de precios (5% frente a 4,5%).\n\n---",
       "difficulty": "8",
       "images": [],
@@ -694,13 +694,13 @@
           "feedback": "Incorrecto. Ese es el rango total."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "El rango donde se concentra el 50% central de los datos.",
           "is_correct": true,
           "feedback": "Correcto. El RI mide la dispersión del 50% de los datos que están alrededor de la mediana."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El valor por debajo del cual está el 20% de los datos.",
           "is_correct": false,
           "feedback": "Incorrecto. No es un percentil."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. Es una medida de dispersión, no de tendencia central."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El rango intercuartílico es una medida de dispersión robusta que no se ve afectada por valores extremos, ya que solo considera la variabilidad de la mitad central de la muestra.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -778,19 +778,19 @@
       "context": "Se sabe que en una distribución simétrica y unimodal, la media es 150.\n\nRelación entre medidas en distribuciones simétricas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Serán menores a 150.",
           "is_correct": false,
           "feedback": "Incorrecto. En distribuciones simétricas coinciden."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "La mediana será 150 y la moda mayor.",
           "is_correct": false,
           "feedback": "Incorrecto."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Ambas serán iguales a 150.",
           "is_correct": true,
           "feedback": "Correcto. En distribuciones simétricas unimodales (como la Normal), las tres medidas de tendencia central coinciden."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. Es una propiedad de la forma de la distribución."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "La simetría implica que el \"centro\" es el mismo para la frecuencia (moda), la posición (mediana) y el equilibrio aritmético (media).\n\n---",
       "difficulty": "10",
       "images": [],
@@ -823,13 +823,13 @@
       "context": "Un conjunto de datos X tiene media 40 y desviación estándar 5. Se crea un nuevo conjunto Y tal que cada dato yi = 2 * xi + 10.\n\nTransformaciones lineales de variables.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Media 80, Desv 10",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidó sumar la constante a la media."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Media 90, Desv 10",
           "is_correct": true,
           "feedback": "Correcto. Nueva Media = 2 * 40 + 10 = 90. Nueva Desv = 2 * 5 = 10 (la constante sumada no afecta la dispersión)."
@@ -847,7 +847,7 @@
           "feedback": "Incorrecto. No surge de las fórmulas de transformación."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Propiedades de transformaciones lineales: E[aX + b] = aE[X] + b y σ[aX + b] = |a|σ[X]. La suma de una constante desplaza los datos pero no cambia su separación (dispersión).\n\n---",
       "difficulty": "10",
       "images": [],
@@ -868,13 +868,13 @@
       "context": "Se analiza el rendimiento de dos fondos de inversión en la Bolsa de Comercio de Buenos Aires durante 12 meses.\n\n- Fondo A: Media Rendimiento = 4%, RI = 1%.\n\n- Fondo B: Media Rendimiento = 4%, RI = 5%.\n\nAnálisis de riesgo y retorno.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El Fondo A, porque tiene un rango intercuartílico menor, lo que indica rendimientos más estables y menos riesgo.",
           "is_correct": true,
           "feedback": "Correcto. Menor medida de dispersión significa que los resultados reales suelen estar más cerca del promedio."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El Fondo B, porque la mayor dispersión permite ganar mucho más algunos meses.",
           "is_correct": false,
           "feedback": "Incorrecto. Eso es para perfiles arriesgados, no conservadores; además, también se puede perder más."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. Es una medida válida de riesgo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "En finanzas, el riesgo se asocia con la dispersión de los rendimientos. Un fondo con menor variabilidad (menor RI o desviación) ofrece mayor certidumbre y estabilidad para el inversor.",
       "difficulty": "10",
       "images": [],

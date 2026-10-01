@@ -58,31 +58,31 @@
       "context": "Isidora analiza situaciones académicas en Calama.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$16 \\text{ m/s}$",
           "is_correct": true,
           "feedback": "¡Correcto! vf = v0 + a*t = 6 + 2*5 = 16 m/s."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$24 \\text{ m/s}$",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste erróneamente el término de aceleración."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$30 \\text{ m/s}$",
           "is_correct": false,
           "feedback": "Incorrecto. Ignoraste la aceleración del móvil."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$10 \\text{ m/s}$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste sumar la velocidad inicial."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "En un movimiento rectilíneo uniformemente acelerado (MRUA), vf = v0 + a*t = 6 + 2*5 = 16 m/s.",
       "difficulty": "4",
       "images": [],
@@ -103,19 +103,19 @@
       "context": "Martina analiza situaciones académicas en Valdivia.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$19 \\text{ m/s}$",
           "is_correct": true,
           "feedback": "¡Correcto! vf = v0 + a*t = 9 + 2*5 = 19 m/s."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$27 \\text{ m/s}$",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste erróneamente el término de aceleración."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$45 \\text{ m/s}$",
           "is_correct": false,
           "feedback": "Incorrecto. Ignoraste la aceleración del móvil."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. Olvidaste sumar la velocidad inicial."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "En un movimiento rectilíneo uniformemente acelerado (MRUA), vf = v0 + a*t = 9 + 2*5 = 19 m/s.",
       "difficulty": "4",
       "images": [],
@@ -148,19 +148,19 @@
       "context": "Fernanda analiza situaciones académicas en Santiago.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$22 \\text{ m/s}$",
           "is_correct": true,
           "feedback": "¡Correcto! vf = v0 + a*t = 12 + 2*5 = 22 m/s."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$30 \\text{ m/s}$",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste erróneamente el término de aceleración."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$60 \\text{ m/s}$",
           "is_correct": false,
           "feedback": "Incorrecto. Ignoraste la aceleración del móvil."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. Olvidaste sumar la velocidad inicial."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "En un movimiento rectilíneo uniformemente acelerado (MRUA), vf = v0 + a*t = 12 + 2*5 = 22 m/s.",
       "difficulty": "4",
       "images": [],
@@ -193,13 +193,13 @@
       "context": "Tomás analiza situaciones académicas en Valparaíso.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$25 \\text{ m/s}$",
           "is_correct": true,
           "feedback": "¡Correcto! vf = v0 + a*t = 15 + 2*5 = 25 m/s."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$33 \\text{ m/s}$",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste erróneamente el término de aceleración."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. Olvidaste sumar la velocidad inicial."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "En un movimiento rectilíneo uniformemente acelerado (MRUA), vf = v0 + a*t = 15 + 2*5 = 25 m/s.",
       "difficulty": "6",
       "images": [],
@@ -238,13 +238,13 @@
       "context": "Matías analiza situaciones académicas en Concepción.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$28 \\text{ m/s}$",
           "is_correct": true,
           "feedback": "¡Correcto! vf = v0 + a*t = 18 + 2*5 = 28 m/s."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$36 \\text{ m/s}$",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste erróneamente el término de aceleración."
@@ -262,7 +262,7 @@
           "feedback": "Incorrecto. Olvidaste sumar la velocidad inicial."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "En un movimiento rectilíneo uniformemente acelerado (MRUA), vf = v0 + a*t = 18 + 2*5 = 28 m/s.",
       "difficulty": "6",
       "images": [],
@@ -283,31 +283,31 @@
       "context": "Benjamín analiza situaciones académicas en Antofagasta.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$31 \\text{ m/s}$",
           "is_correct": true,
           "feedback": "¡Correcto! vf = v0 + a*t = 21 + 2*5 = 31 m/s."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$39 \\text{ m/s}$",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste erróneamente el término de aceleración."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$105 \\text{ m/s}$",
           "is_correct": false,
           "feedback": "Incorrecto. Ignoraste la aceleración del móvil."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$10 \\text{ m/s}$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste sumar la velocidad inicial."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "En un movimiento rectilíneo uniformemente acelerado (MRUA), vf = v0 + a*t = 21 + 2*5 = 31 m/s.",
       "difficulty": "6",
       "images": [],
@@ -373,19 +373,19 @@
       "context": "Camila analiza situaciones académicas en La Serena.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$37 \\text{ m/s}$",
           "is_correct": true,
           "feedback": "¡Correcto! vf = v0 + a*t = 27 + 2*5 = 37 m/s."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$45 \\text{ m/s}$",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste erróneamente el término de aceleración."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$135 \\text{ m/s}$",
           "is_correct": false,
           "feedback": "Incorrecto. Ignoraste la aceleración del móvil."
@@ -397,7 +397,7 @@
           "feedback": "Incorrecto. Olvidaste sumar la velocidad inicial."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "En un movimiento rectilíneo uniformemente acelerado (MRUA), vf = v0 + a*t = 27 + 2*5 = 37 m/s.",
       "difficulty": "6",
       "images": [],
@@ -463,19 +463,19 @@
       "context": "Sofía analiza situaciones académicas en Iquique.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$43 \\text{ m/s}$",
           "is_correct": true,
           "feedback": "¡Correcto! vf = v0 + a*t = 33 + 2*5 = 43 m/s."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$51 \\text{ m/s}$",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste erróneamente el término de aceleración."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$165 \\text{ m/s}$",
           "is_correct": false,
           "feedback": "Incorrecto. Ignoraste la aceleración del móvil."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto. Olvidaste sumar la velocidad inicial."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "En un movimiento rectilíneo uniformemente acelerado (MRUA), vf = v0 + a*t = 33 + 2*5 = 43 m/s.",
       "difficulty": "8",
       "images": [],
@@ -508,13 +508,13 @@
       "context": "Lucas analiza situaciones académicas en Rancagua.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$46 \\text{ m/s}$",
           "is_correct": true,
           "feedback": "¡Correcto! vf = v0 + a*t = 36 + 2*5 = 46 m/s."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$54 \\text{ m/s}$",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste erróneamente el término de aceleración."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. Olvidaste sumar la velocidad inicial."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "En un movimiento rectilíneo uniformemente acelerado (MRUA), vf = v0 + a*t = 36 + 2*5 = 46 m/s.",
       "difficulty": "8",
       "images": [],
@@ -553,13 +553,13 @@
       "context": "Diego analiza situaciones académicas en Talca.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$49 \\text{ m/s}$",
           "is_correct": true,
           "feedback": "¡Correcto! vf = v0 + a*t = 39 + 2*5 = 49 m/s."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$57 \\text{ m/s}$",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste erróneamente el término de aceleración."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. Olvidaste sumar la velocidad inicial."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "En un movimiento rectilíneo uniformemente acelerado (MRUA), vf = v0 + a*t = 39 + 2*5 = 49 m/s.",
       "difficulty": "8",
       "images": [],
@@ -598,19 +598,19 @@
       "context": "Vicente analiza situaciones académicas en Arica.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$52 \\text{ m/s}$",
           "is_correct": true,
           "feedback": "¡Correcto! vf = v0 + a*t = 42 + 2*5 = 52 m/s."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$60 \\text{ m/s}$",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste erróneamente el término de aceleración."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$210 \\text{ m/s}$",
           "is_correct": false,
           "feedback": "Incorrecto. Ignoraste la aceleración del móvil."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. Olvidaste sumar la velocidad inicial."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "En un movimiento rectilíneo uniformemente acelerado (MRUA), vf = v0 + a*t = 42 + 2*5 = 52 m/s.",
       "difficulty": "8",
       "images": [],
@@ -643,19 +643,19 @@
       "context": "Sebastián analiza situaciones académicas en Puerto Montt.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$55 \\text{ m/s}$",
           "is_correct": true,
           "feedback": "¡Correcto! vf = v0 + a*t = 45 + 2*5 = 55 m/s."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$63 \\text{ m/s}$",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste erróneamente el término de aceleración."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$225 \\text{ m/s}$",
           "is_correct": false,
           "feedback": "Incorrecto. Ignoraste la aceleración del móvil."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. Olvidaste sumar la velocidad inicial."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "En un movimiento rectilíneo uniformemente acelerado (MRUA), vf = v0 + a*t = 45 + 2*5 = 55 m/s.",
       "difficulty": "8",
       "images": [],
@@ -688,31 +688,31 @@
       "context": "Valentina analiza situaciones académicas en Chillán.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$58 \\text{ m/s}$",
           "is_correct": true,
           "feedback": "¡Correcto! vf = v0 + a*t = 48 + 2*5 = 58 m/s."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$66 \\text{ m/s}$",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste erróneamente el término de aceleración."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$240 \\text{ m/s}$",
           "is_correct": false,
           "feedback": "Incorrecto. Ignoraste la aceleración del móvil."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$10 \\text{ m/s}$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste sumar la velocidad inicial."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "En un movimiento rectilíneo uniformemente acelerado (MRUA), vf = v0 + a*t = 48 + 2*5 = 58 m/s.",
       "difficulty": "8",
       "images": [],
@@ -778,31 +778,31 @@
       "context": "Martina analiza situaciones académicas en Valdivia.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$64 \\text{ m/s}$",
           "is_correct": true,
           "feedback": "¡Correcto! vf = v0 + a*t = 54 + 2*5 = 64 m/s."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$72 \\text{ m/s}$",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste erróneamente el término de aceleración."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$270 \\text{ m/s}$",
           "is_correct": false,
           "feedback": "Incorrecto. Ignoraste la aceleración del móvil."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$10 \\text{ m/s}$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste sumar la velocidad inicial."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "En un movimiento rectilíneo uniformemente acelerado (MRUA), vf = v0 + a*t = 54 + 2*5 = 64 m/s.",
       "difficulty": "10",
       "images": [],
@@ -823,13 +823,13 @@
       "context": "Fernanda analiza situaciones académicas en Santiago.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$67 \\text{ m/s}$",
           "is_correct": true,
           "feedback": "¡Correcto! vf = v0 + a*t = 57 + 2*5 = 67 m/s."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$75 \\text{ m/s}$",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste erróneamente el término de aceleración."
@@ -847,7 +847,7 @@
           "feedback": "Incorrecto. Olvidaste sumar la velocidad inicial."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "En un movimiento rectilíneo uniformemente acelerado (MRUA), vf = v0 + a*t = 57 + 2*5 = 67 m/s.",
       "difficulty": "10",
       "images": [],
@@ -868,13 +868,13 @@
       "context": "Tomás analiza situaciones académicas en Valparaíso.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$70 \\text{ m/s}$",
           "is_correct": true,
           "feedback": "¡Correcto! vf = v0 + a*t = 60 + 2*5 = 70 m/s."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$78 \\text{ m/s}$",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste erróneamente el término de aceleración."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. Olvidaste sumar la velocidad inicial."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "En un movimiento rectilíneo uniformemente acelerado (MRUA), vf = v0 + a*t = 60 + 2*5 = 70 m/s.",
       "difficulty": "10",
       "images": [],

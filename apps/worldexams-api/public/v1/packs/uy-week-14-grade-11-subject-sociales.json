@@ -64,13 +64,13 @@
           "feedback": "Incorrecto. El precio del ganado se fija en el libre mercado ganadero."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Mantener la estabilidad de precios (control de la inflación) y velar por el correcto funcionamiento del sistema de pagos.",
           "is_correct": true,
           "feedback": "Correcto. La meta principal del BCU es controlar la inflación dentro de un rango meta fijado y asegurar la estabilidad financiera."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Comprar la totalidad de los cultivos de trigo del país.",
           "is_correct": false,
           "feedback": "Incorrecto. La comercialización agrícola compete a productores y exportadores privados."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. La política tributaria y exenciones fiscales dependen del Poder Ejecutivo y el Parlamento."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El Banco Central del Uruguay utiliza la tasa de interés de política monetaria (TPM) para mantener la estabilidad de precios y contener la inflación.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -199,13 +199,13 @@
           "feedback": "Incorrecto. Términos de intercambio favorables estimulan la economía."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Aumenta el ingreso de divisas al país, mejorando la balanza comercial y estimulando el crecimiento del Producto Interno Bruto (PIB).",
           "is_correct": true,
           "feedback": "Correcto. Precios más altos para lo que se vende y más bajos para lo que se compra incrementan el ingreso nacional y dinamizan la economía."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Se prohíbe la entrada de turistas extranjeros a las costas de Maldonado.",
           "is_correct": false,
           "feedback": "Incorrecto. No guarda relación con restricciones al turismo internacional."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. La política cambiaria y monetaria opera de forma independiente."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Una mejora en los términos de intercambio incrementa el poder de compra internacional del país, expandiendo la renta nacional y la actividad económica.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -244,25 +244,25 @@
           "feedback": "Incorrecto. La apreciación del peso reduce los ingresos en pesos por cada dólar exportado."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Pérdida de competitividad-precio, al volverse los costos de producción locales en dólares más caros frente a los competidores internacionales.",
           "is_correct": true,
           "feedback": "Correcto. Con un tipo de cambio real apreciado (dólar 'barato'), los costos internos medidos en dólares suben, encareciendo los productos exportables."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Eliminación inmediata de todas las deudas nominadas en moneda extranjera.",
           "is_correct": false,
           "feedback": "Incorrecto. El tipo de cambio no condona las deudas contraídas."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Aumento de los aranceles cobrados por la aduana sobre las exportaciones.",
           "is_correct": false,
           "feedback": "Incorrecto. El atraso cambiario es un fenómeno de precios relativos, no una tasa aduanera."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El atraso cambiario (apreciación del tipo de cambio real) encarece los costos de producción locales en dólares, restando competitividad a los bienes exportables.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -289,13 +289,13 @@
           "feedback": "Incorrecto. La COMAP no regala tierras del Estado; otorga exoneraciones fiscales a proyectos de inversión."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Exoneración del Impuesto a las Rentas de las Actividades Económicas (IRAE) en función de los indicadores comprometidos en el proyecto.",
           "is_correct": true,
           "feedback": "Correcto. La COMAP exonera un porcentaje del IRAE en proporción a los puntos obtenidos en empleo, exportaciones, I+D y descentralización."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Descuento del 100% en las tarifas de pasaportes diplomáticos.",
           "is_correct": false,
           "feedback": "Incorrecto. No otorga beneficios de pasaportes ni fueros diplomáticos."
@@ -307,7 +307,7 @@
           "feedback": "Incorrecto. Otorga incentivos de renunciamiento fiscal (descuento impositivo), no subsidios en efectivo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La ley de inversiones vía COMAP utiliza incentivos tributarios (exoneración de IRAE) para direccionar la inversión privada hacia empleo, innovación y descentralización.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -328,13 +328,13 @@
       "context": "El sector turístico (sol y playa en Maldonado y Rocha, turismo termal en Salto y Paysandú, y turismo histórico en Colonia) es un pilar exportador de servicios en Uruguay.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Porque los turistas compran hectáreas de campo y se las llevan a sus países de origen.",
           "is_correct": false,
           "feedback": "Incorrecto. Los bienes inmuebles no se trasladan físicamente."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque no residentes consumen servicios locales (alojamiento, gastronomía, transporte) pagando con divisas internacionales.",
           "is_correct": true,
           "feedback": "Correcto. Económicamente, vender un servicio en territorio nacional a un no residente equivale a una exportación de servicios que ingresa divisas al país."
@@ -352,7 +352,7 @@
           "feedback": "Incorrecto. El turismo genera empleo formal remunerado con cargas sociales."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El gasto realizado por no residentes en turismo receptivo interno constituye una exportación de servicios de alto impacto en el ingreso de divisas.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -379,25 +379,25 @@
           "feedback": "Incorrecto. Las sierras no poseen canales fluviales transiterrestres navegables."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "El trazado ferroviario del Ferrocarril Central especializado en el transporte pesado de celulosa y granos.",
           "is_correct": true,
           "feedback": "Correcto. El Ferrocarril Central reabrió el transporte de carga masivo por tren desde Paso de los Toros hacia el Puerto de Montevideo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Una red de autopistas subterráneas exclusivas para camiones eléctricos.",
           "is_correct": false,
           "feedback": "Incorrecto. Uruguay no posee infraestructura subterránea interdepartamental."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Un sistema de teleféricos de carga desde Salto hasta Punta del Este.",
           "is_correct": false,
           "feedback": "Incorrecto. La topografía llana/penillanura utiliza transporte carretero y ferroviario de superficie."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La reactivación del transporte ferroviario de carga mediante el Ferrocarril Central reduce costos de flete para la producción pesada del interior hacia el puerto.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -418,13 +418,13 @@
       "context": "El Consejo de Salarios es el órgano tripartito en Uruguay integrado por representantes de los trabajadores, los empresarios y el Estado.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Decidir las tasas de interés bancario que cobra el Banco Central.",
           "is_correct": false,
           "feedback": "Incorrecto. La tasa de interés la fija el BCU en el Comité de Política Monetaria."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Negociar colectivamente las pautas salariales, categorías laborales y beneficios de los trabajadores por sectores de actividad.",
           "is_correct": true,
           "feedback": "Correcto. Los Consejos de Salarios institucionalizan la negociación colectiva tripartita, fijando salarios mínimos y ajustes por rama económica."
@@ -442,7 +442,7 @@
           "feedback": "Incorrecto. El presupuesto universitario lo aprueba el parlamento en la Ley de Presupuesto."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Los Consejos de Salarios son la institución tripartita de la negociación colectiva uruguaya que fija salarios mínimos y condiciones laborales por rama de actividad.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -469,13 +469,13 @@
           "feedback": "Incorrecto. La Enfermedad Holandesa perjudica a la industria no primaria."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "El ingreso masivo de divisas aprecia la moneda local, abaratando importaciones y encareciendo los costos industriales internos, desindustrializando al sector no primario.",
           "is_correct": true,
           "feedback": "Correcto. El auge del sector primario aprecia el peso, lo que encarece a la industria manufacturera local y la desplaza frente a las importaciones baratas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Elimina el consumo de bienes importados en todos los hogares urbanos.",
           "is_correct": false,
           "feedback": "Incorrecto. Al abaratar el dólar, las importaciones de bienes de consumo aumentan."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto. El sector primario es justamente el que experimenta el auge de divisas."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La 'Enfermedad Holandesa' ocurre cuando el auge primario aprecia la moneda local, reduciendo la competitividad de la industria manufacturera no primaria.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -514,25 +514,25 @@
           "feedback": "Incorrecto. El déficit abultado suele presionar la inflación o la tasa de interés."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Aumenta el servicio de la deuda (pago de intereses), eleva el riesgo país y expone las finanzas públicas a devaluaciones del tipo de cambio.",
           "is_correct": true,
           "feedback": "Correcto. Acumular deuda en dólares exige destinar más presupuesto al pago de intereses, vulnerando la estabilidad fiscal ante subas del dólar o tasas globales."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Obliga al Banco Central a cerrar todas las sucursales bancarias del interior.",
           "is_correct": false,
           "feedback": "Incorrecto. El sistema bancario opera con normalidad bajo regulación prudencial."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Invalida la firma de tratados de libre comercio en el MERCOSUR.",
           "is_correct": false,
           "feedback": "Incorrecto. El déficit fiscal es una variable macroeconómica interna, no una prohibición jurídica de tratados."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La sostenibilidad fiscal exige controlar el déficit público para evitar un endeudamiento excesivo que comprometa el riesgo país y la inversión social.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -559,13 +559,13 @@
           "feedback": "Incorrecto. La industria papelera impulsó la expansión de la forestación leñosa."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Añadió procesamiento industrial de alto valor agregado a la madera en rollo nacional, convirtiendo a la celulosa en un rubro líder de exportación.",
           "is_correct": true,
           "feedback": "Correcto. Transformó la producción de troncos sin procesar en pasta química de celulosa de exportación, inyectando inversión e infraestructura en el interior."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Prohibió el transporte de madera a través de camiones por carreteras nacionales.",
           "is_correct": false,
           "feedback": "Incorrecto. El transporte de madera combina flotas de camiones, barcazas y ferrocarril."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. Son inversiones extranjeras directas operadas bajo el régimen de zonas francas."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La instalación de plantas de celulosa transformó el sector forestal uruguayo, pasando de exportar troncos crudos a elaborar pasta química de celulosa de alto valor.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -604,13 +604,13 @@
           "feedback": "Incorrecto. Las zonas de frontera seca no presentan concentraciones de laboratorios espaciales."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Estructuras productivas débiles, dinamismo del comercio informamental de frontera (free shops y contrabando) y menor fiscalización en economías binacionales.",
           "is_correct": true,
           "feedback": "Correcto. La porosidad de la frontera seca y las asimetrías de precios impulsan el comercio informamental de subsistencia, elevando el empleo sin registro."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La prohibición de abrir comercios minoristas en territorio uruguayo.",
           "is_correct": false,
           "feedback": "Incorrecto. Existen comercios formales y *free shops* regulados en las ciudades fronterizas."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. El BPS otorga cobertura en todo el territorio nacional a los trabajadores registrados."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Las ciudades de frontera seca experimentan mayores niveles de informalidad laboral debido al peso del comercio binacional no registrado y menor dinamismo de empleo formal.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -649,25 +649,25 @@
           "feedback": "Incorrecto. Uruguay posee la infraestructura de fibra óptica y conectividad internacional más avanzada de la región."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Por su estabilidad política y jurídica, régimen de zonas francas de servicios, bilingüismo de su talento técnico y sólida infraestructura de telecomunicaciones.",
           "is_correct": true,
           "feedback": "Correcto. Las multinacionales eligen a Montevideo para centralizar sus centros de servicios compartidos regionales debido a la seguridad jurídica y calidad de profesionales."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque el Estado subvenciona el 100% de las ventas de todas las multinacionales.",
           "is_correct": false,
           "feedback": "Incorrecto. El Estado ofrece el marco de zonas francas e incentivos, no subsidios directos de ventas."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Porque prohíbe el uso de idiomas extranjeros en las oficinas comerciales.",
           "is_correct": false,
           "feedback": "Incorrecto. El dominio de idiomas (inglés, portugués) es requisito clave de los servicios globales."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Uruguay se afirma como hub regional de servicios globales gracias a su seguridad jurídica, clima de negocios, conectividad digital y calificación de sus profesionales.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -694,13 +694,13 @@
           "feedback": "Incorrecto. Sustituir combustible fósil por electricidad eólica reduce las importaciones de petróleo."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Reduce la importación de combustibles fósiles (ahorro de divisas) y disminuye la emisión de gases de efecto invernadero y contaminantes sonoros y locales.",
           "is_correct": true,
           "feedback": "Correcto. Aprovecha la abundancia de electricidad eólica autóctona, sustituyendo petróleo importado y descarbonizando el transporte urbano."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Invalida la red eléctrica nacional provocando apagones permanentes.",
           "is_correct": false,
           "feedback": "Incorrecto. La red eléctrica uruguaya absorbe eficientemente la carga de flotas de transporte e-bus."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. Los motores eléctricos no poseen tubo de escape ni emiten gases de combustión."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La electrificación de la movilidad urbana aprovecha la matriz eléctrica limpia uruguaya, sustituyendo divisas de petróleo por energía renovable local.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -733,13 +733,13 @@
       "context": "Evalúas el dilema de política económica entre la promoción de la 'bioeconomía circular' con valor agregado versus la 'primarización reprimarizadora' de la economía uruguaya.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Incentivar la biorrefinería, la biotecnología médica y agrícola, la bioinformática y los biomateriales avanzados a partir de la biomasa agroforestal y marina.",
           "is_correct": true,
           "feedback": "Correcto. La bioeconomía de segunda generación no exporta la materia prima bruta; utiliza biotecnología para convertir la biomasa en biofármacos, biomateriales y química verde de alto valor."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Prohibir la investigación científica en las universidades públicas del país.",
           "is_correct": false,
           "feedback": "Incorrecto. La bioeconomía exige una alianza estratégica entre universidades, centros de I+D y empresas."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. Uruguay no posee yacimientos comerciales de carbón ni es una estrategia sostenible."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La transición hacia una bioeconomía avanzada transforma los recursos biológicos autóctonos mediante biotecnología e I+D en productos de alto valor añadido.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -784,13 +784,13 @@
           "feedback": "Incorrecto. Agotar las reservas dejaría al país desprotegido sin liquidez de respaldo."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "La mantención de un elevado nivel de Reservas Internacionales Netas en el BCU y el acceso a líneas de crédito contingente con organismos multilaterales.",
           "is_correct": true,
           "feedback": "Correcto. Reservas sólidas en el BCU y líneas de crédito de rápido desembolso (BID, CAF, FMI) brindan blindaje financiero frente a frenazos bruscos de capitales."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La congelación por decreto de todos los depósitos bancarios de los ciudadanos.",
           "is_correct": false,
           "feedback": "Incorrecto. El congelamiento de depósitos (estilo 'corralito') destruye la confianza y la estabilidad financiera."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. La responsabilidad fiscal exige mantener la recaudación tributaria para financiar el Estado."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Un nivel adecuado de reservas internacionales y líneas de crédito preventivas blindan a la economía uruguaya frente a turbulencias financieras externas.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -874,13 +874,13 @@
           "feedback": "Incorrecto. Desactivar la negociación colectiva reduce el poder de negociación salarial."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "La negociación colectiva tripartita activa en los Consejos de Salarios junto con incrementos reales del Salario Mínimo Nacional.",
           "is_correct": true,
           "feedback": "Correcto. Los Consejos de Salarios y la suba del Salario Mínimo permiten que las ganancias de productividad se trasladen a aumentos salariales reales, elevando la masa salarial."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La fijación arancelaria de precios máximos a todas las exportaciones agrícolas.",
           "is_correct": false,
           "feedback": "Incorrecto. Fijar precios máximos a las exportaciones desincentiva la producción y reduce divisas."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. No recompone el salario real ni el poder adquisitivo formal de la masa trabajadora."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La negociación colectiva en los Consejos de Salarios y el ajuste del Salario Mínimo son herramientas clave para canalizar la productividad hacia la masa salarial de los trabajadores.\n\n---",
       "difficulty": "10",
       "images": [],

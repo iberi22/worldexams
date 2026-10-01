@@ -19,13 +19,13 @@
           "feedback": "Los coeficientes pueden ser cualquier número real (negativos, decimales, etc.)."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Que todos los exponentes de la variable independiente sean números enteros no negativos (\\$0, 1, 2, \\dots$).",
           "is_correct": true,
           "feedback": "¡Correcto! Un polinomio no puede tener variables con exponentes negativos o fraccionarios."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Que la función tenga al menos tres términos diferentes.",
           "is_correct": false,
           "feedback": "Un polinomio puede tener un solo término (monomio)."
@@ -37,7 +37,7 @@
           "feedback": "Solo los polinomios de grado 1 son líneas rectas; existen polinomios de grados superiores."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Una función polinomial es una expresión de la forma $P(x) = a_n x^n + a_{n-1} x^{n-1} + \\dots + a_0$. La regla fundamental es que el exponente $n$ debe ser un número entero natural (incluyendo el cero).\n\n---",
       "difficulty": "4",
       "images": [],
@@ -64,25 +64,25 @@
           "feedback": "El grado es el exponente más alto presente en la función, no el del primer término escrito."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Grado: 5, Coeficiente principal: -5",
           "is_correct": true,
           "feedback": "¡Correcto! El exponente más alto es 5, y el número que acompaña a esa potencia es -5."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Grado: 5, Coeficiente principal: 4",
           "is_correct": false,
           "feedback": "El coeficiente principal debe corresponder al término de mayor grado."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Grado: 4, Coeficiente principal: 2",
           "is_correct": false,
           "feedback": "Has confundido los coeficientes con los exponentes."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El grado de un polinomio es el mayor exponente de la variable $x$. El coeficiente principal es el número que multiplica a la potencia de mayor grado.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,19 +148,19 @@
       "context": "Un estudiante observa que la gráfica de $f(x) = x^3$ sube hacia la derecha y baja hacia la izquierda.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Ambos extremos suben hacia el infinito positivo.",
           "is_correct": false,
           "feedback": "Esto ocurre en funciones de grado par con coeficiente positivo."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Ambos extremos bajan hacia el infinito negativo.",
           "is_correct": false,
           "feedback": "Esto ocurre en funciones de grado par con coeficiente negativo."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Sube hacia la derecha ($+\\infty$) y baja hacia la izquierda ($-\\infty$).",
           "is_correct": true,
           "feedback": "¡Correcto! Las funciones de grado impar \"cruzan\" el plano de un infinito al otro."
@@ -172,7 +172,7 @@
           "feedback": "Los polinomios (excepto el de grado 0) siempre tienden a infinito en sus extremos."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "El comportamiento final depende del término de mayor grado. Si el grado es impar y el coeficiente es positivo, la función se comporta como $x^3$, yendo de $-\\infty$ a $+\\infty$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -244,13 +244,13 @@
           "feedback": "2^3 - 5(2) + 2 = 8 - 10 + 2 = 0."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Residuo 0; $(x - 2)$ sí es un factor del polinomio.",
           "is_correct": true,
           "feedback": "¡Correcto! Como P(2) = 0, el residuo de la división es cero y por tanto es un factor exacto."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Residuo -4; no es factor.",
           "is_correct": false,
           "feedback": "Error en el cálculo: 8 - 10 + 2 = 0."
@@ -262,7 +262,7 @@
           "feedback": "Para ser raíz, el residuo debe ser exactamente cero."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Según el Teorema del Residuo, el resto de dividir $P(x)$ entre $(x - c)$ es igual a $P(c)$. Si $P(c) = 0$, entonces $(x - c)$ es un factor de $P(x)$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -334,25 +334,25 @@
           "feedback": "Esto ocurre si la multiplicidad es impar (exponente 1, 3, 5...)."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Toca el eje X y regresa (rebota) sin cruzarlo.",
           "is_correct": true,
           "feedback": "¡Correcto! Una multiplicidad par (exponente 2, 4...) hace que la gráfica sea tangente al eje en ese punto."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Tiene una asíntota vertical en ese punto.",
           "is_correct": false,
           "feedback": "Las asíntotas verticales ocurren en funciones racionales cuando el denominador es cero."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La función desaparece en ese valor.",
           "is_correct": false,
           "feedback": "La función está definida y vale cero en ese punto."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La multiplicidad de una raíz determina el comportamiento local: si es impar, la gráfica cruza el eje; si es par, la gráfica es tangente (rebota).\n\n---",
       "difficulty": "6",
       "images": [],
@@ -385,19 +385,19 @@
           "feedback": "Máximo 3 raíces reales."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Grado 4.",
           "is_correct": true,
           "feedback": "¡Correcto! El número de raíces reales no puede exceder el grado del polinomio."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Grado 5.",
           "is_correct": false,
           "feedback": "Aunque un grado 5 puede tener 4 raíces, se pregunta por el grado mínimo necesario."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Por el Teorema Fundamental del Álgebra, un polinomio de grado $n$ tiene exactamente $n$ raíces (contando complejas y multiplicidad). Por lo tanto, para 4 raíces reales se requiere al menos grado 4.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -469,25 +469,25 @@
           "feedback": "1^3 - 2(1)^2 + 5 = 1 - 2 + 5 = 4. El residuo es correcto, pero revisa el cociente."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Cociente: $x^2 - x - 1$, Residuo: 4",
           "is_correct": true,
           "feedback": "¡Correcto! Aplicando división sintética con r=1: 1, -2, 0, 5 -> 1(1)=1, -2+1=-1; 1(-1)=-1, 0-1=-1; 1(-1)=-1, 5-1=4."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Cociente: $x^2 + x + 1$, Residuo: 0",
           "is_correct": false,
           "feedback": "El residuo no es cero, por lo que no es una división exacta."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Cociente: $x^2 - 3x + 3$, Residuo: 2",
           "is_correct": false,
           "feedback": "Los cálculos de la división sintética no coinciden con estos valores."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La división de polinomios puede realizarse mediante el algoritmo de división larga o división sintética cuando el divisor es lineal. El cociente tendrá un grado menor que el dividendo.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -514,25 +514,25 @@
           "feedback": "Las raíces de esta función son 2 y -3, lo cual es lo opuesto a lo solicitado."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$f(x) = (x + 2)(x - 3)$",
           "is_correct": true,
           "feedback": "¡Correcto! Las raíces son -2 y 3. Al ser el coeficiente principal positivo (+1), abre hacia arriba."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$f(x) = -(x + 2)(x - 3)$",
           "is_correct": false,
           "feedback": "Esta función abre hacia abajo debido al signo negativo exterior."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$f(x) = x^2 - x + 6$",
           "is_correct": false,
           "feedback": "Las raíces de esta función no son reales."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Para construir un polinomio a partir de sus raíces $r_1, r_2$, usamos la forma $a(x-r_1)(x-r_2)$. Los signos dentro de los paréntesis deben permitir que al sustituir la raíz el resultado sea cero.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -565,19 +565,19 @@
           "feedback": "No necesariamente es doble, pero sí debe existir su pareja conjugada."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "\\$3 - 2i$",
           "is_correct": true,
           "feedback": "¡Correcto! Por el Teorema de las Raíces Complejas Conjugadas, si a+bi es raíz, a-bi también lo es."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "0",
           "is_correct": false,
           "feedback": "La existencia de raíces complejas no implica que el cero sea raíz."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "En polinomios con coeficientes reales, las raíces complejas siempre aparecen en pares conjugados. El conjugado de un número complejo se obtiene cambiando el signo de la parte imaginaria.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -598,13 +598,13 @@
       "context": "Un área rectangular tiene un largo de $(x^2 + 3)$ y un ancho de $(2x - 5)$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "\\$2x^3 - 15$",
           "is_correct": false,
           "feedback": "Olvidaste realizar la multiplicación de todos los términos (distributiva)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "\\$2x^3 - 5x^2 + 6x - 15$",
           "is_correct": true,
           "feedback": "¡Correcto! (x^2 * 2x) + (x^2 * -5) + (3 * 2x) + (3 * -5) = 2x^3 - 5x^2 + 6x - 15."
@@ -622,7 +622,7 @@
           "feedback": "Esto parece una suma de términos en lugar de una multiplicación."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La multiplicación de polinomios requiere aplicar la propiedad distributiva: cada término del primer polinomio debe multiplicarse por cada término del segundo, sumando luego los resultados.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -649,13 +649,13 @@
           "feedback": "El número de vueltas es siempre menor al grado."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "3",
           "is_correct": true,
           "feedback": "¡Correcto! Un polinomio de grado n puede tener como máximo n-1 puntos de inflexión o retorno."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "2",
           "is_correct": false,
           "feedback": "Grado 4 puede tener hasta 3 puntos de retorno (como una W)."
@@ -667,7 +667,7 @@
           "feedback": "No puede tener más puntos de retorno que su grado."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Visualmente, cada \"vuelta\" o cambio de dirección consume un grado de la función. El número de puntos críticos (máximos/mínimos) es a lo más $n-1$, donde $n$ es el grado.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -700,19 +700,19 @@
           "feedback": "Estas son solo las raíces complejas."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "6",
           "is_correct": true,
           "feedback": "¡Correcto! El grado indica el número total de raíces en el sistema de los números complejos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "10",
           "is_correct": false,
           "feedback": "El total de raíces es igual al grado, no a la suma de grado y tipos de raíces."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "El grado de un polinomio define el número total de soluciones que posee la ecuación $P(x) = 0$, siempre que se consideren las raíces en el plano complejo y se cuente su multiplicidad.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -784,13 +784,13 @@
           "feedback": "Para tener coeficientes reales, debe incluir la raíz conjugada 2-i."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$P(x) = x(x^2 - 4x + 5)$",
           "is_correct": true,
           "feedback": "¡Correcto! Las raíces son 0, 2+i y 2-i. El producto de los complejos es (x-(2+i))(x-(2-i)) = (x-2)^2 + 1 = x^2-4x+5. Multiplicado por x da x^3-4x^2+5x."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$P(x) = x^2 - 4x + 5$",
           "is_correct": false,
           "feedback": "Falta la raíz x=0 que se indica en el enunciado."
@@ -802,7 +802,7 @@
           "feedback": "Error de signos en el desarrollo del producto de las raíces complejas."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Para obtener un polinomio con coeficientes reales a partir de raíces complejas, se debe multiplicar por el factor del conjugado. Luego se multiplica por el factor de la raíz real.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -868,13 +868,13 @@
       "context": "Se presenta una función polinomial de grado 5 con coeficiente principal negativo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Sube hacia la derecha y baja hacia la izquierda.",
           "is_correct": false,
           "feedback": "Esto sería si el coeficiente principal fuera positivo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Baja hacia la derecha ($-\\infty$) y sube hacia la izquierda ($+\\infty$).",
           "is_correct": true,
           "feedback": "¡Correcto! Al ser grado impar y coeficiente negativo, la orientación normal se invierte."
@@ -892,7 +892,7 @@
           "feedback": "Esto ocurre si el grado es par y coeficiente positivo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Para un polinomio de grado impar, los extremos van en direcciones opuestas. Si el coeficiente principal es negativo, la función \"cae\" hacia la derecha y \"sube\" hacia la izquierda.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -913,31 +913,31 @@
       "context": "Un estudiante de bachillerato en la CDMX analiza el comportamiento de una función polinomial de tercer grado.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "x = -2, x = 0, x = 2",
           "is_correct": true,
           "feedback": "¡Correcto! Factorizando: x(x² - 4) = 0 -> x(x - 2)(x + 2) = 0. Esto da las raíces x = 0, x = 2 y x = -2."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "x = -4, x = 0, x = 4",
           "is_correct": false,
           "feedback": "Incorrecto. Se tomó erróneamente el coeficiente lineal como raíz de la función."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "x = -2, x = 2",
           "is_correct": false,
           "feedback": "Incorrecto. Se omitió la raíz que se encuentra en el origen x = 0."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Únicamente la raíz real x = 0",
           "is_correct": false,
           "feedback": "Incorrecto. Una función de tercer grado de este tipo puede tener hasta tres raíces reales distintas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Para hallar los ceros de la función, igualamos f(x) a cero: x³ - 4x = 0. Factorizamos x por término común: x(x² - 4) = 0. El factor cuadrático es una diferencia de cuadrados: x(x - 2)(x + 2) = 0. Igualando cada factor a cero obtenemos las tres raíces: x = 0, x = 2 y x = -2.",
       "difficulty": "4",
       "images": [],
@@ -958,19 +958,19 @@
       "context": "Se analiza el comportamiento asintótico de una función racional en un laboratorio escolar de Querétaro.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Asíntota vertical: x = 3; Asíntota horizontal: y = 2",
           "is_correct": true,
           "feedback": "¡Correcto! La vertical ocurre donde el denominador es cero (x - 3 = 0 -> x = 3). La horizontal se obtiene del límite al infinito de la función, que es la razón de los coeficientes de x (2/1 -> y = 2)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Asíntota vertical: x = -3; Asíntota horizontal: y = 1/2",
           "is_correct": false,
           "feedback": "Incorrecto. Se cometieron errores al despejar el denominador y evaluar el límite al infinito."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Asíntota vertical: x = 2; Asíntota horizontal: y = 3",
           "is_correct": false,
           "feedback": "Incorrecto. Los valores correspondientes a las asíntotas horizontal y vertical están al revés."
@@ -982,7 +982,7 @@
           "feedback": "Incorrecto. Las funciones racionales donde el grado del denominador es igual o mayor al del numerador tienen asíntotas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Asíntota vertical: ocurre en los valores donde el denominador es cero y el numerador no lo es. x - 3 = 0 => x = 3. Asíntota horizontal: analizamos el límite cuando x tiende a infinito: lim (2x + 1)/(x - 3) = 2. Por tanto, la asíntota horizontal es y = 2.",
       "difficulty": "4",
       "images": [],
@@ -1003,13 +1003,13 @@
       "context": "Análisis de funciones polinomiales y racionales en México, caso 3.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "1.5",
           "is_correct": true,
           "feedback": "¡Correcto! Evaluando f(0) obtenemos (0² + 3) / (0 + 2) = 3/2."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "18",
           "is_correct": false,
           "feedback": "Incorrecto. Se omitió dividir por la constante del denominador al evaluar x = 0."
@@ -1027,7 +1027,7 @@
           "feedback": "Incorrecto. Se cometió un error de signo al evaluar la función."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La ordenada al origen se calcula sustituyendo x = 0 en la función f(x). Así, evaluamos f(0) = (0² + 3) / (0 + 2) = 3/2.",
       "difficulty": "4",
       "images": [],
@@ -1048,19 +1048,19 @@
       "context": "Análisis de funciones polinomiales y racionales en México, caso 4.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "2.0",
           "is_correct": true,
           "feedback": "¡Correcto! Evaluando f(0) obtenemos (0² + 4) / (0 + 2) = 4/2."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "19",
           "is_correct": false,
           "feedback": "Incorrecto. Se omitió dividir por la constante del denominador al evaluar x = 0."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "0",
           "is_correct": false,
           "feedback": "Incorrecto. La curva no interseca al eje y en el origen de coordenadas."
@@ -1072,7 +1072,7 @@
           "feedback": "Incorrecto. Se cometió un error de signo al evaluar la función."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La ordenada al origen se calcula sustituyendo x = 0 en la función f(x). Así, evaluamos f(0) = (0² + 4) / (0 + 2) = 4/2.",
       "difficulty": "4",
       "images": [],
@@ -1138,31 +1138,31 @@
       "context": "Análisis de funciones polinomiales y racionales en México, caso 6.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "3.0",
           "is_correct": true,
           "feedback": "¡Correcto! Evaluando f(0) obtenemos (0² + 6) / (0 + 2) = 6/2."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "21",
           "is_correct": false,
           "feedback": "Incorrecto. Se omitió dividir por la constante del denominador al evaluar x = 0."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "0",
           "is_correct": false,
           "feedback": "Incorrecto. La curva no interseca al eje y en el origen de coordenadas."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "-3.0",
           "is_correct": false,
           "feedback": "Incorrecto. Se cometió un error de signo al evaluar la función."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La ordenada al origen se calcula sustituyendo x = 0 en la función f(x). Así, evaluamos f(0) = (0² + 6) / (0 + 2) = 6/2.",
       "difficulty": "6",
       "images": [],
@@ -1183,13 +1183,13 @@
       "context": "Análisis de funciones polinomiales y racionales en México, caso 7.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "3.5",
           "is_correct": true,
           "feedback": "¡Correcto! Evaluando f(0) obtenemos (0² + 7) / (0 + 2) = 7/2."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "22",
           "is_correct": false,
           "feedback": "Incorrecto. Se omitió dividir por la constante del denominador al evaluar x = 0."
@@ -1207,7 +1207,7 @@
           "feedback": "Incorrecto. Se cometió un error de signo al evaluar la función."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La ordenada al origen se calcula sustituyendo x = 0 en la función f(x). Así, evaluamos f(0) = (0² + 7) / (0 + 2) = 7/2.",
       "difficulty": "6",
       "images": [],
@@ -1228,19 +1228,19 @@
       "context": "Análisis de funciones polinomiales y racionales en México, caso 8.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "4.0",
           "is_correct": true,
           "feedback": "¡Correcto! Evaluando f(0) obtenemos (0² + 8) / (0 + 2) = 8/2."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "23",
           "is_correct": false,
           "feedback": "Incorrecto. Se omitió dividir por la constante del denominador al evaluar x = 0."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "0",
           "is_correct": false,
           "feedback": "Incorrecto. La curva no interseca al eje y en el origen de coordenadas."
@@ -1252,7 +1252,7 @@
           "feedback": "Incorrecto. Se cometió un error de signo al evaluar la función."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La ordenada al origen se calcula sustituyendo x = 0 en la función f(x). Así, evaluamos f(0) = (0² + 8) / (0 + 2) = 8/2.",
       "difficulty": "6",
       "images": [],
@@ -1273,19 +1273,19 @@
       "context": "Análisis de funciones polinomiales y racionales en México, caso 9.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "4.5",
           "is_correct": true,
           "feedback": "¡Correcto! Evaluando f(0) obtenemos (0² + 9) / (0 + 2) = 9/2."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "24",
           "is_correct": false,
           "feedback": "Incorrecto. Se omitió dividir por la constante del denominador al evaluar x = 0."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "0",
           "is_correct": false,
           "feedback": "Incorrecto. La curva no interseca al eje y en el origen de coordenadas."
@@ -1297,7 +1297,7 @@
           "feedback": "Incorrecto. Se cometió un error de signo al evaluar la función."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La ordenada al origen se calcula sustituyendo x = 0 en la función f(x). Así, evaluamos f(0) = (0² + 9) / (0 + 2) = 9/2.",
       "difficulty": "6",
       "images": [],
@@ -1318,19 +1318,19 @@
       "context": "Análisis de funciones polinomiales y racionales en México, caso 10.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "5.0",
           "is_correct": true,
           "feedback": "¡Correcto! Evaluando f(0) obtenemos (0² + 10) / (0 + 2) = 10/2."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "25",
           "is_correct": false,
           "feedback": "Incorrecto. Se omitió dividir por la constante del denominador al evaluar x = 0."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "0",
           "is_correct": false,
           "feedback": "Incorrecto. La curva no interseca al eje y en el origen de coordenadas."
@@ -1342,7 +1342,7 @@
           "feedback": "Incorrecto. Se cometió un error de signo al evaluar la función."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La ordenada al origen se calcula sustituyendo x = 0 en la función f(x). Así, evaluamos f(0) = (0² + 10) / (0 + 2) = 10/2.",
       "difficulty": "6",
       "images": [],
@@ -1453,13 +1453,13 @@
       "context": "Análisis de funciones polinomiales y racionales en México, caso 13.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "6.5",
           "is_correct": true,
           "feedback": "¡Correcto! Evaluando f(0) obtenemos (0² + 13) / (0 + 2) = 13/2."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "28",
           "is_correct": false,
           "feedback": "Incorrecto. Se omitió dividir por la constante del denominador al evaluar x = 0."
@@ -1477,7 +1477,7 @@
           "feedback": "Incorrecto. Se cometió un error de signo al evaluar la función."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La ordenada al origen se calcula sustituyendo x = 0 en la función f(x). Así, evaluamos f(0) = (0² + 13) / (0 + 2) = 13/2.",
       "difficulty": "8",
       "images": [],
@@ -1543,31 +1543,31 @@
       "context": "Análisis de funciones polinomiales y racionales en México, caso 15.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "7.5",
           "is_correct": true,
           "feedback": "¡Correcto! Evaluando f(0) obtenemos (0² + 15) / (0 + 2) = 15/2."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "30",
           "is_correct": false,
           "feedback": "Incorrecto. Se omitió dividir por la constante del denominador al evaluar x = 0."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "0",
           "is_correct": false,
           "feedback": "Incorrecto. La curva no interseca al eje y en el origen de coordenadas."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "-7.5",
           "is_correct": false,
           "feedback": "Incorrecto. Se cometió un error de signo al evaluar la función."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La ordenada al origen se calcula sustituyendo x = 0 en la función f(x). Así, evaluamos f(0) = (0² + 15) / (0 + 2) = 15/2.",
       "difficulty": "8",
       "images": [],
@@ -1588,31 +1588,31 @@
       "context": "Análisis de funciones polinomiales y racionales en México, caso 16.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "8.0",
           "is_correct": true,
           "feedback": "¡Correcto! Evaluando f(0) obtenemos (0² + 16) / (0 + 2) = 16/2."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "31",
           "is_correct": false,
           "feedback": "Incorrecto. Se omitió dividir por la constante del denominador al evaluar x = 0."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "0",
           "is_correct": false,
           "feedback": "Incorrecto. La curva no interseca al eje y en el origen de coordenadas."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "-8.0",
           "is_correct": false,
           "feedback": "Incorrecto. Se cometió un error de signo al evaluar la función."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La ordenada al origen se calcula sustituyendo x = 0 en la función f(x). Así, evaluamos f(0) = (0² + 16) / (0 + 2) = 16/2.",
       "difficulty": "8",
       "images": [],
@@ -1678,13 +1678,13 @@
       "context": "Análisis de funciones polinomiales y racionales en México, caso 18.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "9.0",
           "is_correct": true,
           "feedback": "¡Correcto! Evaluando f(0) obtenemos (0² + 18) / (0 + 2) = 18/2."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "33",
           "is_correct": false,
           "feedback": "Incorrecto. Se omitió dividir por la constante del denominador al evaluar x = 0."
@@ -1702,7 +1702,7 @@
           "feedback": "Incorrecto. Se cometió un error de signo al evaluar la función."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La ordenada al origen se calcula sustituyendo x = 0 en la función f(x). Así, evaluamos f(0) = (0² + 18) / (0 + 2) = 18/2.",
       "difficulty": "10",
       "images": [],
@@ -1723,13 +1723,13 @@
       "context": "Análisis de funciones polinomiales y racionales en México, caso 19.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "9.5",
           "is_correct": true,
           "feedback": "¡Correcto! Evaluando f(0) obtenemos (0² + 19) / (0 + 2) = 19/2."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "34",
           "is_correct": false,
           "feedback": "Incorrecto. Se omitió dividir por la constante del denominador al evaluar x = 0."
@@ -1747,7 +1747,7 @@
           "feedback": "Incorrecto. Se cometió un error de signo al evaluar la función."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La ordenada al origen se calcula sustituyendo x = 0 en la función f(x). Así, evaluamos f(0) = (0² + 19) / (0 + 2) = 19/2.",
       "difficulty": "10",
       "images": [],
@@ -1768,19 +1768,19 @@
       "context": "Análisis de funciones polinomiales y racionales en México, caso 20.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "10.0",
           "is_correct": true,
           "feedback": "¡Correcto! Evaluando f(0) obtenemos (0² + 20) / (0 + 2) = 20/2."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "35",
           "is_correct": false,
           "feedback": "Incorrecto. Se omitió dividir por la constante del denominador al evaluar x = 0."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "0",
           "is_correct": false,
           "feedback": "Incorrecto. La curva no interseca al eje y en el origen de coordenadas."
@@ -1792,7 +1792,7 @@
           "feedback": "Incorrecto. Se cometió un error de signo al evaluar la función."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La ordenada al origen se calcula sustituyendo x = 0 en la función f(x). Así, evaluamos f(0) = (0² + 20) / (0 + 2) = 20/2.",
       "difficulty": "10",
       "images": [],

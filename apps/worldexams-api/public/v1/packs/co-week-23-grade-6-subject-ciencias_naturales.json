@@ -13,31 +13,31 @@
       "context": "En una mina de hierro del municipio de Paz de Río, Boyacá, los geólogos acercan un imán a varias piedras y este solo atrae ciertos minerales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Materiales ferromagnéticos como el hierro, el níquel y el cobalto",
           "is_correct": true,
           "feedback": "Correcto. El hierro y metales vecinos son los principales ferromagnéticos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Todos los metales blandos como el aluminio y el cobre",
           "is_correct": false,
           "feedback": "Incorrecto. El aluminio y el cobre no son atraídos por imanes comunes."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Cualquier piedra de la mina, sin importar su composición",
           "is_correct": false,
           "feedback": "Incorrecto. Solo los minerales con hierro suficiente se adhieren al imán."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El plástico y la madera de los cajones de embarque",
           "is_correct": false,
           "feedback": "Incorrecto. Plásticos y madera no son ferromagnéticos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Los imanes atraen con fuerza los metales ferromagnéticos, principalmente hierro, níquel y cobalto; otros metales y la mayoría de no metales no responden al magnetismo común.",
       "difficulty": "4",
       "images": [],
@@ -59,19 +59,19 @@
       "context": "En el taller del colegio de Salamina, un docente muestra dos imanes de barra y acerca primero los extremos rojos entre sí, luego los extremos azules, y por último un rojo con un azul.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Los dos polos iguales se repelen y los de distinto color se atraen",
           "is_correct": true,
           "feedback": "Correcto. Polos iguales se repelen y polos diferentes se atraen."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Los dos polos iguales siempre se atraen porque son iguales",
           "is_correct": false,
           "feedback": "Incorrecto. La regla es opuesta: iguales se repelen."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Los dos polos azules quedan pegados por casualidad",
           "is_correct": false,
           "feedback": "Incorrecto. La atracción no es azarosa sino sistemática."
@@ -83,7 +83,7 @@
           "feedback": "Incorrecto. Nunca desaparece el magnetismo al juntar dos imanes idénticos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Los imanes tienen dos polos, norte y sur; polos del mismo signo se repelen entre sí y polos de signos contrarios se atraen. Por eso los extremos rojos con rojos se empujan y rojos con azules se acercan.",
       "difficulty": "4",
       "images": [],
@@ -105,31 +105,31 @@
       "context": "En la plaza artesanal de Santa Fe de Antioquia, un fabricante de joyería muestra cómo un imán potente separa piezas auténticas de acero de imitaciones cromadas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "El acero es ferromagnético y se adhiere al imán, mientras el cromado decorativo tiene casi nada de hierro en su interior",
           "is_correct": true,
           "feedback": "Correcto. La diferencia de contenido de hierro cambia la respuesta magnética."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El color del cromado repele el magnetismo por ser brillante",
           "is_correct": false,
           "feedback": "Incorrecto. El brillo no afecta el magnetismo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El acero es más liviano y vuela hacia el imán",
           "is_correct": false,
           "feedback": "Incorrecto. Lo que importa es la naturaleza del material, no su peso."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El cromado es más barato y por eso el imán lo evita",
           "is_correct": false,
           "feedback": "Incorrecto. El precio no determina la respuesta magnética."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Aplicar el magnetismo práctico exige distinguir materiales: solo los objetos ferromagnéticos como el acero verdadero son atraídos por el imán; los cromados con poco hierro interior quedan casi indiferentes al campo magnético aplicado.",
       "difficulty": "6",
       "images": [],
@@ -151,31 +151,31 @@
       "context": "En una caminata por el Páramo de Sumapaz, los guías usan la brújula para marcar el rumbo norte de la cordillera y orientar a los caminantes.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Porque la Tierra misma se comporta como un gran imán y la aguja se alinea con su campo magnético",
           "is_correct": true,
           "feedback": "Correcto. El campo magnético terrestre orienta la aguja."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque el viento de páramo empuja la aguja hacia el norte",
           "is_correct": false,
           "feedback": "Incorrecto. El viento no es el factor determinante."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque la aguja es más pesada por el lado norte",
           "is_correct": false,
           "feedback": "Incorrecto. La aguja tiene el mismo peso en ambos extremos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Porque la gravedad de la Tierra hala el polo norte de la aguja",
           "is_correct": false,
           "feedback": "Incorrecto. La gravedad atrae al centro de la Tierra, no selecciona polos magnéticos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La Tierra contiene un campo magnético generado por el movimiento del hierro líquido en su núcleo; la aguja imantada de la brújula se alinea con ese campo y su extremo norte apunta al sur magnético terrestre cercano al norte geográfico.",
       "difficulty": "6",
       "images": [],
@@ -197,19 +197,19 @@
       "context": "En el hogar geriátrico de Cali, los enfermeros pegan pequeños imanes en una tabla y sostienen clips metálicos que se ordenan en filas alrededor de los polos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Porque cada clip también queda imantado temporalmente y se alinea con las líneas de campo magnético que salen del polo norte y entran por el sur",
           "is_correct": true,
           "feedback": "Correcto. Los clips siguen las líneas de campo entre los polos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque los clips pesan distinto en cada lado del imán",
           "is_correct": false,
           "feedback": "Incorrecto. El peso del clip es siempre el mismo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque el imán pinta los clips de magnético con su color",
           "is_correct": false,
           "feedback": "Incorrecto. El color del imán no transfiere magnetismo."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto. El aire no selecciona direcciones."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Al acercar un imán potente, los materiales ferromagnéticos como el clip se imantan temporalmente y siguen las líneas de campo magnético; esas líneas van de polo norte a polo sur formando bucles cerrados alrededor del imán.",
       "difficulty": "6",
       "images": [],
@@ -243,31 +243,31 @@
       "context": "En el museo del oro de Bogotá, los guías muestran que muchas piezas prehispánicas de oro puro no se adhieren a un imán potente, mientras que las de aleación con hierro sí.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "El oro es un metal diamagnético que apenas interactúa con el imán; al mezclarlo con hierro aparecen dominios ferromagnéticos y el material compuesto responde al campo",
           "is_correct": true,
           "feedback": "Correcto. La aleación incorpora hierro que responde al campo magnético."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El oro cambia su naturaleza al mezclarse con aire",
           "is_correct": false,
           "feedback": "Incorrecto. El oro es estable y mantiene su comportamiento magnético."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El imán del museo es especial para piezas de oro puro",
           "is_correct": false,
           "feedback": "Incorrecto. Un imán común ya revela la naturaleza del oro."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La forma de la pieza, no su material, define la atracción magnética",
           "is_correct": false,
           "feedback": "Incorrecto. La geometría no convierte un material diamagnético en ferromagnético."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Analizar el magnetismo de los metales exige conocer sus tipos: ferromagnéticos se adhieren con fuerza, paramagnéticos se sienten débilmente y diamagnéticos como el oro y la plata son repelidos de manera leve; la aleación con hierro crea un material ferromagnético nuevo.",
       "difficulty": "8",
       "images": [],
@@ -427,13 +427,13 @@
       "context": "En el coloquio de ciencias de Riohacha, se debaten tres hipótesis: 1) La Tierra no tiene magnetismo propio. 2) Polos iguales se atraen. 3) Un electroimán necesita corriente continua para funcionar.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La 1 es falsa porque la Tierra tiene campo magnético, la 2 es falsa porque polos iguales se repelen y la 3 es verdadera",
           "is_correct": true,
           "feedback": "Correcto. Corrige los dos errores iniciales y confirma el papel de la corriente en el electroimán."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Las tres son verdaderas porque el magnetismo es exclusivo de la Tierra",
           "is_correct": false,
           "feedback": "Incorrecto. El magnetismo se presenta en muchos materiales, no solo en la Tierra."
@@ -451,7 +451,7 @@
           "feedback": "Incorrecto. Los imanes y sus efectos son fenómenos físicos observables."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Juzgar hipótesis sobre magnetismo separa tipo de polos y comportamiento: la Tierra posee un campo magnético, polos iguales se repelen mientras distintos se atraen, y un electroimán requiere precisamente una corriente circulando para mantener el efecto magnético.",
       "difficulty": "10",
       "images": [],

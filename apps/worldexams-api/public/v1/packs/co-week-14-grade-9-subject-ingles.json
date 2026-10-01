@@ -13,31 +13,31 @@
       "context": "Describing two simultaneous actions in a historical battle.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Carrying",
           "is_correct": true,
           "feedback": "Correct! Present participle clause (-ing) shows two actions happening at the same time by the same subject."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Carried",
           "is_correct": false,
           "feedback": "Incorrect. Past participle has a passive meaning."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Having carried",
           "is_correct": false,
           "feedback": "Incorrect. This would mean they carried it before they advanced."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "To carry",
           "is_correct": false,
           "feedback": "Incorrect. Infinitives don't function as participle clauses here."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Las oraciones de participio de presente (*-ing*) se usan para describir dos acciones que el mismo sujeto realiza de manera simultánea.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -151,31 +151,31 @@
       "context": "Explaining a reason for a past event.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Realizing",
           "is_correct": true,
           "feedback": "Correct! Present participle can show a cause or reason."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Realized",
           "is_correct": false,
           "feedback": "Incorrect. Passive meaning."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Having realized",
           "is_correct": false,
           "feedback": "Incorrect. While possible, \"Realizing\" fits the immediate cause better."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "To realize",
           "is_correct": false,
           "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Una oración de participio de presente puede usarse para explicar la razón de la acción principal. Equivale a decir \"Because they realized...\".\n\n---",
       "difficulty": "6",
       "images": [],
@@ -249,13 +249,13 @@
           "feedback": "Incorrect. Active meaning."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Located",
           "is_correct": true,
           "feedback": "Correct! Past participle shows the passive state or situation."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Having located",
           "is_correct": false,
           "feedback": "Incorrect. Active meaning."
@@ -267,7 +267,7 @@
           "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Usamos el participio pasado al inicio de la oración para describir una circunstancia o estado pasivo del sujeto principal.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -295,13 +295,13 @@
           "feedback": "Incorrect. This implies the paintings were walking."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Walking through the museum, I saw many beautiful paintings.",
           "is_correct": true,
           "feedback": "Correct! The subject \"I\" is the one who was walking."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Walked through the museum, I saw many paintings.",
           "is_correct": false,
           "feedback": "Incorrect. Passive meaning for \"walked\"."
@@ -313,7 +313,7 @@
           "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El sujeto de la oración principal debe ser el mismo que realiza la acción expresada por el participio.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -381,13 +381,13 @@
       "context": "Negative participle clauses.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Having not",
           "is_correct": false,
           "feedback": "Incorrect word order."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Not having",
           "is_correct": true,
           "feedback": "Correct! Negative participle clauses start with \"Not\" followed by the participle."
@@ -405,7 +405,7 @@
           "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Para formar la versión negativa de una oración de participio, colocamos *not* delante del participio.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -433,25 +433,25 @@
           "feedback": "Incorrect. Correct use."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Built",
           "is_correct": false,
           "feedback": "Incorrect. Correct use."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Having been",
           "is_correct": false,
           "feedback": "Incorrect. Correct use."
         },
         {
-          "letter": "D",
+          "letter": "B",
           "text": "becoming",
           "is_correct": true,
           "feedback": "Correct! This should be a finite verb (became) because it is the main verb of the sentence."
         }
       ],
-      "correct_answer": "D",
+      "correct_answer": "B",
       "explanation": "Una oración de participio no puede funcionar como el verbo principal de una oración independiente.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -473,19 +473,19 @@
       "context": "Choosing the best way to report an event.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "The king was defeated and then he went into exile.",
           "is_correct": false,
           "feedback": "Incorrect. Too simple."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "When the king was defeated, he went into exile.",
           "is_correct": false,
           "feedback": "Incorrect."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Defeated in battle, the king went into exile.",
           "is_correct": true,
           "feedback": "Correct! Uses a past participle clause for conciseness."
@@ -497,7 +497,7 @@
           "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "El uso de oraciones de participio es una característica del lenguaje académico e histórico formal.\n\n---",
       "difficulty": "10",
       "images": [],

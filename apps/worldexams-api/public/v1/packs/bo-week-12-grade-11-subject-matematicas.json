@@ -13,13 +13,13 @@
       "context": "En Santa Cruz, Jhonny en el Colegio Nacional Santa Cruz analiza el ejercicio #1: calcula la distancia entre A(1, 2) y B(4, 6) en el plano cartesiano.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "d = 5 unidades",
           "is_correct": true,
           "feedback": "¡Correcto! d = √[(4-1)² + (6-2)²] = √[3² + 4²] = √[9 + 16] = √25 = 5."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "d = 7 unidades",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste las diferencias horizontales y verticales sin aplicar el Teorema de Pitágoras."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Olvidaste extraer la raíz cuadrada al resultado."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La fórmula de distancia entre dos puntos (x₁, y₁) y (x₂, y₂) es d = √[(x₂ - x₁)² + (y₂ - y₁)²]. Para A(1, 2) y B(4, 6): d = √[3² + 4²] = 5 unidades.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -58,19 +58,19 @@
       "context": "En Cochabamba, Marisol en el Colegio Nacional Sucre analiza el ejercicio #2: determina la pendiente m de la recta que pasa por P₁(2, 5) y P₂(6, 13).",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "m = 2",
           "is_correct": true,
           "feedback": "¡Correcto! m = (13 - 5) / (6 - 2) = 8 / 4 = 2."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "m = 1/2",
           "is_correct": false,
           "feedback": "Incorrecto. Invertiste la fórmula dividiendo la variación horizontal entre la vertical."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "m = 4",
           "is_correct": false,
           "feedback": "Incorrecto. Restaste las coordenadas sin aplicar el cociente correcto."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. Cometiste un error de signo al restar las ordenadas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La pendiente m se calcula como m = (y₂ - y₁) / (x₂ - x₁). Sustituyendo P₁(2, 5) y P₂(6, 13): m = (13 - 5) / (6 - 2) = 8 / 4 = 2.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -103,19 +103,19 @@
       "context": "En Sucre, Walter en el Colegio Nacional Junín analiza el ejercicio #3: escribe la ecuación explícita y = mx + b con pendiente m = -3 que pasa por (0, 7).",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "y = -3x + 7",
           "is_correct": true,
           "feedback": "¡Correcto! En la forma y = mx + b, sustituimos m = -3 y la ordenada al origen b = 7."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "y = 3x - 7",
           "is_correct": false,
           "feedback": "Incorrecto. Erraste en los signos de la pendiente y de la constante."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "y = 7x - 3",
           "is_correct": false,
           "feedback": "Incorrecto. Intercambiaste la pendiente con el intercepto."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. Asignaste signo negativo a la constante b = 7."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La forma pendiente-intercepto es y = mx + b. Como m = -3 y el punto (0, 7) da directamente b = 7, la ecuación es y = -3x + 7.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,19 +148,19 @@
       "context": "En Potosí, Sonia en el Colegio Nacional Bolívar analiza el ejercicio #4: identifica el centro y el radio de la circunferencia (x - 3)² + (y + 4)² = 36.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Centro C(3, -4) y radio r = 6",
           "is_correct": true,
           "feedback": "¡Correcto! Comparando con (x - h)² + (y - k)² = r²: h = 3, k = -4 y r = √36 = 6."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Centro C(-3, 4) y radio r = 36",
           "is_correct": false,
           "feedback": "Incorrecto. Invertiste los signos del centro y no sacaste raíz cuadrada al radio."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Centro C(3, 4) y radio r = 6",
           "is_correct": false,
           "feedback": "Incorrecto. Erraste en el signo de la ordenada k del centro."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. Erraste en el cálculo del radio r."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La ecuación ordinaria es (x - h)² + (y - k)² = r². Así, el centro es (3, -4) y r² = 36 ⇒ r = 6.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -193,19 +193,19 @@
       "context": "En Oruro, Ramiro en el Colegio Nacional Potosí analiza el ejercicio #5: analiza la parábola horizontal y² = 12x con vértice en el origen.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Foco F(3, 0) y directriz x = -3",
           "is_correct": true,
           "feedback": "¡Correcto! 4p = 12 ⇒ p = 3. La parábola abre a la derecha: F(3, 0) y directriz x = -3."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Foco F(0, 3) y directriz y = -3",
           "is_correct": false,
           "feedback": "Incorrecto. Confundiste la parábola horizontal con una vertical."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Foco F(6, 0) y directriz x = -6",
           "is_correct": false,
           "feedback": "Incorrecto. Dividiste 12 entre 2 en lugar de 4 al despejar p."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. Invertiste el sentido de apertura de la parábola."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "y² = 4px indica parábola horizontal abre a la derecha. 4p = 12 ⇒ p = 3. Foco en (p, 0) = (3, 0) y directriz x = -p = -3.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -283,31 +283,31 @@
       "context": "En Trinidad, Jaime en el Liceo Pantaleón Dalence analiza el ejercicio #7: encuentra las asíntotas de la hipérbola x²/16 - y²/9 = 1.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "y = ±(3/4)x",
           "is_correct": true,
           "feedback": "¡Correcto! Para la hipérbola x²/a² - y²/b² = 1, las asíntotas son y = ±(b/a)x. Como a = 4 y b = 3, y = ±(3/4)x."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "y = ±(4/3)x",
           "is_correct": false,
           "feedback": "Incorrecto. Invertiste el coeficiente de la pendiente usas a/b."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "y = ±(9/16)x",
           "is_correct": false,
           "feedback": "Incorrecto. Usaste los cuadrados b²/a² sin extraer raíz cuadrada."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "y = ±(16/9)x",
           "is_correct": false,
           "feedback": "Incorrecto. Usaste a²/b² sin extraer raíz cuadrada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La hipérbola horizontal x²/a² - y²/b² = 1 tiene asíntotas y = ±(b/a)x. Con a = 4 y b = 3, las asíntotas son y = ±(3/4)x.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -328,31 +328,31 @@
       "context": "En Cobija, Marcela en el Colegio Don Bosco analiza el ejercicio #8: halla el punto medio M entre P(-4, 8) y Q(6, -2).",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "M(1, 3)",
           "is_correct": true,
           "feedback": "¡Correcto! M = ((-4 + 6)/2, (8 - 2)/2) = (2/2, 6/2) = (1, 3)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "M(2, 6)",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste dividir entre 2 la suma de las coordenadas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "M(-5, 5)",
           "is_correct": false,
           "feedback": "Incorrecto. Restaste las coordenadas en lugar de promediarlas."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "M(5, 3)",
           "is_correct": false,
           "feedback": "Incorrecto. Erraste en la suma de las abscisas -4 + 6."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La fórmula del punto medio es M = ((x₁ + x₂)/2, (y₁ + y₂)/2). Para (-4, 8) y (6, -2): M = (2/2, 6/2) = (1, 3).\n\n---",
       "difficulty": "6",
       "images": [],
@@ -373,19 +373,19 @@
       "context": "En El Alto, Grover en el Colegio San Calixto analiza el ejercicio #9: calcula el ángulo de inclinación θ de la recta y = x + 4.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "θ = 45°",
           "is_correct": true,
           "feedback": "¡Correcto! m = 1. tan(θ) = 1 ⇒ θ = arctan(1) = 45°."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "θ = 90°",
           "is_correct": false,
           "feedback": "Incorrecto. 90° corresponde a una recta vertical de pendiente indefinida."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "θ = 30°",
           "is_correct": false,
           "feedback": "Incorrecto. tan(30°) = 1/√3 ≈ 0,577, no 1."
@@ -397,7 +397,7 @@
           "feedback": "Incorrecto. tan(60°) = √3 ≈ 1,732, no 1."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La relación entre pendiente y ángulo de inclinación es m = tan(θ). Como m = 1, tan(θ) = 1 ⇒ θ = 45°.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -418,13 +418,13 @@
       "context": "En La Paz, Carlos en el Colegio Nacional Ayacucho analiza el ejercicio #10: comprueba la relación entre L₁: 2x - 3y + 6 = 0 y L₂: 4x - 6y - 5 = 0.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Son paralelas distintas (m₁ = m₂ = 2/3)",
           "is_correct": true,
           "feedback": "¡Correcto! m₁ = 2/3 y m₂ = 4/6 = 2/3. Tienen pendientes iguales y constantes no proporcionales."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Son perpendiculares entre sí",
           "is_correct": false,
           "feedback": "Incorrecto. El producto de las pendientes no es -1."
@@ -442,7 +442,7 @@
           "feedback": "Incorrecto. Al ser pendientes iguales no hay punto de intersección."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "m₁ = -A/B = -2/(-3) = 2/3. m₂ = -4/(-6) = 2/3. Como m₁ = m₂ y las constantes difieren, son rectas estrictamente paralelas.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -463,19 +463,19 @@
       "context": "En Santa Cruz, Ana en el Colegio Nacional Santa Cruz analiza el ejercicio #11: calcula la distancia del punto P(3, 4) a la recta 3x + 4y - 5 = 0.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "d = 4 unidades",
           "is_correct": true,
           "feedback": "¡Correcto! d = |3(3) + 4(4) - 5| / √(3² + 4²) = |9 + 16 - 5| / √25 = 20 / 5 = 4."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "d = 5 unidades",
           "is_correct": false,
           "feedback": "Incorrecto. Erraste en la simplificación del numerador."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "d = 20 unidades",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste dividir entre el módulo de la normal √25 = 5."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto. Cometiste un error de resta en el numerador."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "d = |Ax₀ + By₀ + C| / √(A² + B²). Sustituyendo (3, 4) en 3x + 4y - 5 = 0: d = |9 + 16 - 5| / √25 = 20 / 5 = 4 unidades.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -598,13 +598,13 @@
       "context": "En Potosí, Andrés en el Colegio Nacional Bolívar analiza el ejercicio #14: calcula los vértices principales de la elipse 9x² + 25y² = 225.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "V₁(5, 0) y V₂(-5, 0)",
           "is_correct": true,
           "feedback": "¡Correcto! Dividiendo entre 225: x²/25 + y²/9 = 1. a² = 25 ⇒ a = 5. Vértices en (±5, 0)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "V₁(3, 0) y V₂(-3, 0)",
           "is_correct": false,
           "feedback": "Incorrecto. Tomaste el semieje menor b = 3."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. Olvidaste extraer la raíz cuadrada a a² = 25."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Dividiendo entre 225 resulta x²/25 + y²/9 = 1. Como 25 > 9, el eje mayor es horizontal con a² = 25 ⇒ a = 5. Vértices: (±5, 0).\n\n---",
       "difficulty": "8",
       "images": [],
@@ -643,13 +643,13 @@
       "context": "En Oruro, Zulma en el Colegio Nacional Potosí analiza el ejercicio #15: determina los focos de la hipérbola y²/16 - x²/9 = 1.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "F₁(0, 5) y F₂(0, -5)",
           "is_correct": true,
           "feedback": "¡Correcto! Eje focal vertical. a² = 16, b² = 9. c² = 16 + 9 = 25 ⇒ c = 5. Focos en (0, ±5)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "F₁(5, 0) y F₂(-5, 0)",
           "is_correct": false,
           "feedback": "Incorrecto. Ubicaste los focos en el eje horizontal."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. Olvidaste extraer la raíz cuadrada a c² = 25."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Hipérbola vertical: y²/16 - x²/9 = 1. c² = a² + b² = 16 + 9 = 25 ⇒ c = 5. Focos en las ordenadas: (0, ±5).\n\n---",
       "difficulty": "8",
       "images": [],
@@ -688,13 +688,13 @@
       "context": "En Tarija, Rosmery en el Colegio Nacional San Luis analiza el ejercicio #16: halla la ecuación general de la recta que pasa por (1, 4) y es perpendicular a y = 2x - 3.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "x + 2y - 9 = 0",
           "is_correct": true,
           "feedback": "¡Correcto! m perpendicular = -1/2. y - 4 = -1/2(x - 1) ⇒ 2y - 8 = -x + 1 ⇒ x + 2y - 9 = 0."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "2x + y - 6 = 0",
           "is_correct": false,
           "feedback": "Incorrecto. Usaste la misma pendiente m = 2."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. Cometiste un error de signo en el término independiente."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "m₁ = 2 ⇒ m₂ = -1/2. Ecuación punto-pendiente: y - 4 = -1/2(x - 1) ⇒ 2y - 8 = -x + 1 ⇒ x + 2y - 9 = 0.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -733,13 +733,13 @@
       "context": "En Trinidad, Willy en el Liceo Pantaleón Dalence analiza el ejercicio #17: evalúa la intersección entre la recta y = x + 1 y la parábola y = x² - 1.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "(2, 3) y (-1, 0)",
           "is_correct": true,
           "feedback": "¡Correcto! x + 1 = x² - 1 ⇒ x² - x - 2 = 0 ⇒ (x - 2)(x + 1) = 0 ⇒ (2, 3) y (-1, 0)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "(1, 2) y (-2, -1)",
           "is_correct": false,
           "feedback": "Incorrecto. Factorizaste mal el trinomio x² - x - 2."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. Puntos que no satisfacen la parábola."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Igualando y: x² - 1 = x + 1 ⇒ x² - x - 2 = 0 ⇒ (x - 2)(x + 1) = 0 ⇒ x = 2 (y = 3) y x = -1 (y = 0).\n\n---",
       "difficulty": "10",
       "images": [],
@@ -778,31 +778,31 @@
       "context": "En Cobija, Teresa en el Colegio Don Bosco analiza el ejercicio #18: halla el área del triángulo con vértices A(0,0), B(6,0) y C(2,4).",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Área = 12 u²",
           "is_correct": true,
           "feedback": "¡Correcto! Base = 6, altura h = 4. Área = (6 × 4) / 2 = 12 u²."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Área = 24 u²",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste dividir entre 2 la base por la altura."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Área = 8 u²",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicaste erróneamente las coordenadas de C."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Área = 16 u²",
           "is_correct": false,
           "feedback": "Incorrecto. Erraste en la medida de la altura perpendicular."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El segmento AB sobre el eje x mide b = 6. La altura desde C(2, 4) es h = 4. Área = (6 · 4) / 2 = 12 u².\n\n---",
       "difficulty": "10",
       "images": [],
@@ -823,19 +823,19 @@
       "context": "En El Alto, Felipe en el Colegio San Calixto analiza el ejercicio #19: calcula la longitud del lado recto de la elipse x²/16 + y²/4 = 1.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "L = 2 unidades",
           "is_correct": true,
           "feedback": "¡Correcto! a² = 16 (a = 4), b² = 4. Lado recto L = 2b²/a = 2(4)/4 = 2 unidades."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "L = 4 unidades",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste dividir entre a = 4."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "L = 1 unidad",
           "is_correct": false,
           "feedback": "Incorrecto. Dividiste b² entre a²."
@@ -847,7 +847,7 @@
           "feedback": "Incorrecto. Multiplicaste a · b en lugar de aplicar la fórmula."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La longitud del lado recto en la elipse es L = 2b² / a. Con a = 4 y b² = 4: L = 2(4)/4 = 2 unidades.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -868,13 +868,13 @@
       "context": "En La Paz, Roxana en el Colegio Nacional Ayacucho analiza el ejercicio #20: determina k para que la recta 4x - 3y + k = 0 sea tangente a x² + y² = 9.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "k = 15 o k = -15",
           "is_correct": true,
           "feedback": "¡Correcto! Distancia del centro (0,0) a la recta: |k| / √(4² + 3²) = 3 ⇒ |k| / 5 = 3 ⇒ |k| = 15 ⇒ k = ±15."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "k = 9 o k = -9",
           "is_correct": false,
           "feedback": "Incorrecto. Usaste r² = 9 en lugar del radio r = 3."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. Erraste en el producto del radio por la norma."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La condición de tangencia exige que d((0,0), L) = r = 3. |k| / √(4² + 3²) = 3 ⇒ |k|/5 = 3 ⇒ |k| = 15 ⇒ k = ±15.",
       "difficulty": "10",
       "images": [],

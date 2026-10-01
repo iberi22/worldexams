@@ -105,13 +105,13 @@
       "context": "Un equipo de fútbol infantil llega de Barranquilla a jugar en Bogotá, a 2600 metros de altura, y se agita más rápido de lo normal.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Porque el corazón deja de bombear sangre en la altura",
           "is_correct": false,
           "feedback": "Incorrecta porque el corazón sigue bombeando, aunque trabaja más rápido."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque hay menos oxígeno disponible y el corazón y la respiración aceleran su ritmo",
           "is_correct": true,
           "feedback": "Correcta porque la menor presión parcial de oxígeno exige mayor trabajo cardiopulmonar."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecta porque la sangre sigue transportando nutrientes y oxígeno."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "A mayor altura hay menor disponibilidad de oxígeno, de modo que el cuerpo compensa con más frecuencia cardiaca y respiratoria. Aplicar este principio explica el agotamiento de quienes no están aclimatados.",
       "difficulty": "6",
       "images": [],
@@ -157,13 +157,13 @@
           "feedback": "Incorrecta porque las plaquetas participan en la coagulación, no en llevar oxígeno."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Los glóbulos rojos con hemoglobina",
           "is_correct": true,
           "feedback": "Correcta porque la hemoglobina de los glóbulos rojos transporta el oxígeno."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El plasma sin células",
           "is_correct": false,
           "feedback": "Incorrecta porque el plasma transporta sustancias disueltas, pero el oxígeno viaja sobre todo en glóbulos rojos."
@@ -175,7 +175,7 @@
           "feedback": "Incorrecta porque los glóbulos blancos defienden contra infecciones, no transportan oxígeno."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La hemoglobina contiene hierro y fija el oxígeno en los pulmones para liberarlo en los tejidos. Una dieta con hierro y vitamina C favorece su producción y previene la anemia.",
       "difficulty": "6",
       "images": [],
@@ -203,13 +203,13 @@
           "feedback": "Incorrecta porque los nervios llevan impulsos, no nutrientes digeridos."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Pasan del intestino a la sangre y la circulación los distribuye",
           "is_correct": true,
           "feedback": "Correcta porque los nutrientes absorbidos viajan en la sangre a todo el cuerpo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Pasan directo del estómago a las piernas sin usar vasos",
           "is_correct": false,
           "feedback": "Incorrecta porque todo transporte interno requiere los vasos sanguíneos."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecta porque los nutrientes y el aire siguen rutas distintas."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Los nutrientes absorbidos en el intestino delgado entran a capilares y viajan por la circulación mayor hasta cada célula. Este recorrido conecta la digestión con la energía muscular.",
       "difficulty": "6",
       "images": [],
@@ -249,25 +249,25 @@
           "feedback": "Incorrecta porque confunde el contenido transportado con el destino del circuito."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "La menor intercambia gases en los pulmones y la mayor distribuye oxígeno y recoge dióxido de carbono en el cuerpo",
           "is_correct": true,
           "feedback": "Correcta porque diferencia el circuito pulmonar del circuito sistémico por su función."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ambas ocurren solo dentro del corazón sin salir a otros órganos",
           "is_correct": false,
           "feedback": "Incorrecta porque ambos circuitos salen del corazón hacia pulmones o cuerpo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La mayor ocurre en plantas y la menor en humanos",
           "is_correct": false,
           "feedback": "Incorrecta porque ambas circulaciones descritas son del cuerpo humano."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La circulación menor oxigena la sangre en los pulmones y la mayor la reparte por el cuerpo. Analizar destino y función de cada circuito permite seguir el viaje completo de un glóbulo rojo.",
       "difficulty": "8",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "En una feria de la salud en Cúcuta miden el pulso de los asistentes antes y después de subir escaleras.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Porque los huesos empujan la sangre más rápido",
           "is_correct": false,
           "feedback": "Incorrecta porque los huesos no impulsan la sangre."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque los músculos necesitan más oxígeno y el corazón late más veces por minuto",
           "is_correct": true,
           "feedback": "Correcta porque relaciona demanda de oxígeno con mayor frecuencia cardiaca."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecta porque lo que cambia es el ritmo de bombeo, no el espesor de la sangre."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El pulso refleja cada contracción cardiaca. Durante el ejercicio, las células consumen más oxígeno y el corazón responde con más latidos para sostener el aporte.",
       "difficulty": "8",
       "images": [],
@@ -335,13 +335,13 @@
       "context": "Un médico en Ibagué explica a un paciente que tiene la presión alta y que la sangre golpea con demasiada fuerza las paredes arteriales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Consumir gaseosa y paquetes todos los días porque dan energía",
           "is_correct": false,
           "feedback": "Incorrecta porque el exceso de sal, azúcar y grasas eleva la presión y daña arterias."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Reducir la sal, hacer actividad física y comer frutas y verduras",
           "is_correct": true,
           "feedback": "Correcta porque estos hábitos mantienen elásticas las arterias y regulan la presión."
@@ -359,7 +359,7 @@
           "feedback": "Incorrecta porque los antibióticos no regulan la presión y su mal uso es riesgoso."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La presión alta daña el endotelio arterial con el tiempo. La actividad física regular y la dieta baja en sal preservan la elasticidad vascular y reducen el riesgo cardiovascular.",
       "difficulty": "8",
       "images": [],
@@ -387,25 +387,25 @@
           "feedback": "Incorrecta porque ningún alimento crea glóbulos rojos de forma instantánea."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Se rechaza como receta única porque el cansancio puede tener muchas causas y requiere diagnóstico",
           "is_correct": true,
           "feedback": "Correcta porque evalúa la afirmación con criterio médico y evidencia."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Se acepta porque el agua reemplaza por completo a la sangre",
           "is_correct": false,
           "feedback": "Incorrecta porque el agua hidrata, pero no reemplaza las funciones de la sangre."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Se rechaza porque hidratarse siempre es dañino",
           "is_correct": false,
           "feedback": "Incorrecta porque hidratarse es saludable, pero no cura todas las causas del cansancio."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El cansancio persistente puede deberse a anemia, infecciones o problemas cardiacos. Evaluar remedios virales exige pedir evidencia y consultar profesionales de la salud antes de aceptarlos.",
       "difficulty": "10",
       "images": [],
@@ -427,13 +427,13 @@
       "context": "El comité de salud de un colegio en Santa Marta propone una campaña de 500000 COP para cuidar el corazón de los estudiantes.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Comprar pulseras magnéticas que prometen limpiar la sangre",
           "is_correct": false,
           "feedback": "Incorrecta porque esos productos carecen de evidencia científica."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Instalar puntos de hidratación, fruta fresca y torneos deportivos semanales",
           "is_correct": true,
           "feedback": "Correcta porque promueve hidratación, dieta sana y ejercicio con efecto comprobado."
@@ -451,7 +451,7 @@
           "feedback": "Incorrecta porque restringir el agua durante el ejercicio es peligroso para el corazón."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Las intervenciones con evidencia para la salud cardiovascular en escolares son actividad física regular, alimentación con frutas y verduras e hidratación con agua. Evaluar el gasto con ese criterio garantiza impacto real y evita productos sin respaldo.",
       "difficulty": "10",
       "images": [],

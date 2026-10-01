@@ -13,19 +13,19 @@
       "context": "Un topógrafo en Puebla ubica dos puntos de control geodésico en un sistema de coordenadas plano.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "10 unidades",
           "is_correct": true,
           "feedback": "¡Correcto! La distancia es d = √((x2 - x1)² + (y2 - y1)²). Sustituyendo: d = √((8 - 2)² + (11 - 3)²) = √(6² + 8²) = √(36 + 64) = √100 = 10."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "14 unidades",
           "is_correct": false,
           "feedback": "Incorrecto. Este resultado se obtiene de la suma de las diferencias lineales (6 + 8), lo cual es erróneo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "100 unidades",
           "is_correct": false,
           "feedback": "Incorrecto. 100 es el valor dentro de la raíz cuadrada antes de extraer la raíz final de la distancia cartesiana."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Valor que corresponde únicamente a la diferencia sobre el eje de las ordenadas (Y)."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La fórmula de la distancia entre dos puntos en el plano cartesiano es d = √((x₂ - x₁)² + (y₂ - y₁)²). Sustituyendo los puntos A(2, 3) y B(8, 11): d = √((8 - 2)² + (11 - 3)²) = √(6² + 8²) = √(36 + 64) = √100 = 10 unidades.",
       "difficulty": "4",
       "images": [],
@@ -103,13 +103,13 @@
       "context": "Un topógrafo en Guadalajara ubica dos puntos de control geodésico en un sistema de coordenadas plano.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "10 unidades",
           "is_correct": true,
           "feedback": "¡Correcto! La distancia es d = √((x2 - x1)² + (y2 - y1)²). Sustituyendo: d = √((10 - 4)² + (13 - 5)²) = √(6² + 8²) = √(36 + 64) = √100 = 10."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "14 unidades",
           "is_correct": false,
           "feedback": "Incorrecto. Este resultado se obtiene de la suma de las diferencias lineales (6 + 8), lo cual es erróneo."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. Valor que corresponde únicamente a la diferencia sobre el eje de las ordenadas (Y)."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La fórmula de la distancia entre dos puntos en el plano cartesiano es d = √((x₂ - x₁)² + (y₂ - y₁)²). Sustituyendo los puntos A(4, 5) y B(10, 13): d = √((10 - 4)² + (13 - 5)²) = √(6² + 8²) = √(36 + 64) = √100 = 10 unidades.",
       "difficulty": "6",
       "images": [],
@@ -148,19 +148,19 @@
       "context": "Un topógrafo en Monterrey ubica dos puntos de control geodésico en un sistema de coordenadas plano.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "10 unidades",
           "is_correct": true,
           "feedback": "¡Correcto! La distancia es d = √((x2 - x1)² + (y2 - y1)²). Sustituyendo: d = √((11 - 5)² + (14 - 6)²) = √(6² + 8²) = √(36 + 64) = √100 = 10."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "14 unidades",
           "is_correct": false,
           "feedback": "Incorrecto. Este resultado se obtiene de la suma de las diferencias lineales (6 + 8), lo cual es erróneo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "100 unidades",
           "is_correct": false,
           "feedback": "Incorrecto. 100 es el valor dentro de la raíz cuadrada antes de extraer la raíz final de la distancia cartesiana."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. Valor que corresponde únicamente a la diferencia sobre el eje de las ordenadas (Y)."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La fórmula de la distancia entre dos puntos en el plano cartesiano es d = √((x₂ - x₁)² + (y₂ - y₁)²). Sustituyendo los puntos A(5, 6) y B(11, 14): d = √((11 - 5)² + (14 - 6)²) = √(6² + 8²) = √(36 + 64) = √100 = 10 unidades.",
       "difficulty": "6",
       "images": [],
@@ -193,13 +193,13 @@
       "context": "Un topógrafo en Oaxaca ubica dos puntos de control geodésico en un sistema de coordenadas plano.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "10 unidades",
           "is_correct": true,
           "feedback": "¡Correcto! La distancia es d = √((x2 - x1)² + (y2 - y1)²). Sustituyendo: d = √((12 - 6)² + (11 - 3)²) = √(6² + 8²) = √(36 + 64) = √100 = 10."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "14 unidades",
           "is_correct": false,
           "feedback": "Incorrecto. Este resultado se obtiene de la suma de las diferencias lineales (6 + 8), lo cual es erróneo."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. Valor que corresponde únicamente a la diferencia sobre el eje de las ordenadas (Y)."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La fórmula de la distancia entre dos puntos en el plano cartesiano es d = √((x₂ - x₁)² + (y₂ - y₁)²). Sustituyendo los puntos A(6, 3) y B(12, 11): d = √((12 - 6)² + (11 - 3)²) = √(6² + 8²) = √(36 + 64) = √100 = 10 unidades.",
       "difficulty": "10",
       "images": [],
@@ -238,31 +238,31 @@
       "context": "Un topógrafo en Veracruz ubica dos puntos de control geodésico en un sistema de coordenadas plano.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "10 unidades",
           "is_correct": true,
           "feedback": "¡Correcto! La distancia es d = √((x2 - x1)² + (y2 - y1)²). Sustituyendo: d = √((13 - 7)² + (12 - 4)²) = √(6² + 8²) = √(36 + 64) = √100 = 10."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "14 unidades",
           "is_correct": false,
           "feedback": "Incorrecto. Este resultado se obtiene de la suma de las diferencias lineales (6 + 8), lo cual es erróneo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "100 unidades",
           "is_correct": false,
           "feedback": "Incorrecto. 100 es el valor dentro de la raíz cuadrada antes de extraer la raíz final de la distancia cartesiana."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "8 unidades",
           "is_correct": false,
           "feedback": "Incorrecto. Valor que corresponde únicamente a la diferencia sobre el eje de las ordenadas (Y)."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La fórmula de la distancia entre dos puntos en el plano cartesiano es d = √((x₂ - x₁)² + (y₂ - y₁)²). Sustituyendo los puntos A(7, 4) y B(13, 12): d = √((13 - 7)² + (12 - 4)²) = √(6² + 8²) = √(36 + 64) = √100 = 10 unidades.",
       "difficulty": "10",
       "images": [],
@@ -283,31 +283,31 @@
       "context": "Un topógrafo en Mérida ubica dos puntos de control geodésico en un sistema de coordenadas plano.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "10 unidades",
           "is_correct": true,
           "feedback": "¡Correcto! La distancia es d = √((x2 - x1)² + (y2 - y1)²). Sustituyendo: d = √((14 - 8)² + (13 - 5)²) = √(6² + 8²) = √(36 + 64) = √100 = 10."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "14 unidades",
           "is_correct": false,
           "feedback": "Incorrecto. Este resultado se obtiene de la suma de las diferencias lineales (6 + 8), lo cual es erróneo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "100 unidades",
           "is_correct": false,
           "feedback": "Incorrecto. 100 es el valor dentro de la raíz cuadrada antes de extraer la raíz final de la distancia cartesiana."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "8 unidades",
           "is_correct": false,
           "feedback": "Incorrecto. Valor que corresponde únicamente a la diferencia sobre el eje de las ordenadas (Y)."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La fórmula de la distancia entre dos puntos en el plano cartesiano es d = √((x₂ - x₁)² + (y₂ - y₁)²). Sustituyendo los puntos A(8, 5) y B(14, 13): d = √((14 - 8)² + (13 - 5)²) = √(6² + 8²) = √(36 + 64) = √100 = 10 unidades.",
       "difficulty": "6",
       "images": [],
@@ -328,31 +328,31 @@
       "context": "Un topógrafo en Cancún ubica dos puntos de control geodésico en un sistema de coordenadas plano.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "10 unidades",
           "is_correct": true,
           "feedback": "¡Correcto! La distancia es d = √((x2 - x1)² + (y2 - y1)²). Sustituyendo: d = √((15 - 9)² + (14 - 6)²) = √(6² + 8²) = √(36 + 64) = √100 = 10."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "14 unidades",
           "is_correct": false,
           "feedback": "Incorrecto. Este resultado se obtiene de la suma de las diferencias lineales (6 + 8), lo cual es erróneo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "100 unidades",
           "is_correct": false,
           "feedback": "Incorrecto. 100 es el valor dentro de la raíz cuadrada antes de extraer la raíz final de la distancia cartesiana."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "8 unidades",
           "is_correct": false,
           "feedback": "Incorrecto. Valor que corresponde únicamente a la diferencia sobre el eje de las ordenadas (Y)."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La fórmula de la distancia entre dos puntos en el plano cartesiano es d = √((x₂ - x₁)² + (y₂ - y₁)²). Sustituyendo los puntos A(9, 6) y B(15, 14): d = √((15 - 9)² + (14 - 6)²) = √(6² + 8²) = √(36 + 64) = √100 = 10 unidades.",
       "difficulty": "6",
       "images": [],
@@ -373,13 +373,13 @@
       "context": "Un topógrafo en Querétaro ubica dos puntos de control geodésico en un sistema de coordenadas plano.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "10 unidades",
           "is_correct": true,
           "feedback": "¡Correcto! La distancia es d = √((x2 - x1)² + (y2 - y1)²). Sustituyendo: d = √((16 - 10)² + (11 - 3)²) = √(6² + 8²) = √(36 + 64) = √100 = 10."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "14 unidades",
           "is_correct": false,
           "feedback": "Incorrecto. Este resultado se obtiene de la suma de las diferencias lineales (6 + 8), lo cual es erróneo."
@@ -397,7 +397,7 @@
           "feedback": "Incorrecto. Valor que corresponde únicamente a la diferencia sobre el eje de las ordenadas (Y)."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La fórmula de la distancia entre dos puntos en el plano cartesiano es d = √((x₂ - x₁)² + (y₂ - y₁)²). Sustituyendo los puntos A(10, 3) y B(16, 11): d = √((16 - 10)² + (11 - 3)²) = √(6² + 8²) = √(36 + 64) = √100 = 10 unidades.",
       "difficulty": "8",
       "images": [],
@@ -418,19 +418,19 @@
       "context": "Un topógrafo en CDMX ubica dos puntos de control geodésico en un sistema de coordenadas plano.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "10 unidades",
           "is_correct": true,
           "feedback": "¡Correcto! La distancia es d = √((x2 - x1)² + (y2 - y1)²). Sustituyendo: d = √((17 - 11)² + (12 - 4)²) = √(6² + 8²) = √(36 + 64) = √100 = 10."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "14 unidades",
           "is_correct": false,
           "feedback": "Incorrecto. Este resultado se obtiene de la suma de las diferencias lineales (6 + 8), lo cual es erróneo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "100 unidades",
           "is_correct": false,
           "feedback": "Incorrecto. 100 es el valor dentro de la raíz cuadrada antes de extraer la raíz final de la distancia cartesiana."
@@ -442,7 +442,7 @@
           "feedback": "Incorrecto. Valor que corresponde únicamente a la diferencia sobre el eje de las ordenadas (Y)."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La fórmula de la distancia entre dos puntos en el plano cartesiano es d = √((x₂ - x₁)² + (y₂ - y₁)²). Sustituyendo los puntos A(11, 4) y B(17, 12): d = √((17 - 11)² + (12 - 4)²) = √(6² + 8²) = √(36 + 64) = √100 = 10 unidades.",
       "difficulty": "8",
       "images": [],
@@ -463,13 +463,13 @@
       "context": "Un topógrafo en Puebla ubica dos puntos de control geodésico en un sistema de coordenadas plano.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "10 unidades",
           "is_correct": true,
           "feedback": "¡Correcto! La distancia es d = √((x2 - x1)² + (y2 - y1)²). Sustituyendo: d = √((18 - 12)² + (13 - 5)²) = √(6² + 8²) = √(36 + 64) = √100 = 10."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "14 unidades",
           "is_correct": false,
           "feedback": "Incorrecto. Este resultado se obtiene de la suma de las diferencias lineales (6 + 8), lo cual es erróneo."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto. Valor que corresponde únicamente a la diferencia sobre el eje de las ordenadas (Y)."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La fórmula de la distancia entre dos puntos en el plano cartesiano es d = √((x₂ - x₁)² + (y₂ - y₁)²). Sustituyendo los puntos A(12, 5) y B(18, 13): d = √((18 - 12)² + (13 - 5)²) = √(6² + 8²) = √(36 + 64) = √100 = 10 unidades.",
       "difficulty": "10",
       "images": [],
@@ -688,13 +688,13 @@
       "context": "Un topógrafo en Veracruz ubica dos puntos de control geodésico en un sistema de coordenadas plano.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "10 unidades",
           "is_correct": true,
           "feedback": "¡Correcto! La distancia es d = √((x2 - x1)² + (y2 - y1)²). Sustituyendo: d = √((23 - 17)² + (14 - 6)²) = √(6² + 8²) = √(36 + 64) = √100 = 10."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "14 unidades",
           "is_correct": false,
           "feedback": "Incorrecto. Este resultado se obtiene de la suma de las diferencias lineales (6 + 8), lo cual es erróneo."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. Valor que corresponde únicamente a la diferencia sobre el eje de las ordenadas (Y)."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La fórmula de la distancia entre dos puntos en el plano cartesiano es d = √((x₂ - x₁)² + (y₂ - y₁)²). Sustituyendo los puntos A(17, 6) y B(23, 14): d = √((23 - 17)² + (14 - 6)²) = √(6² + 8²) = √(36 + 64) = √100 = 10 unidades.",
       "difficulty": "10",
       "images": [],
@@ -733,19 +733,19 @@
       "context": "Un topógrafo en Mérida ubica dos puntos de control geodésico en un sistema de coordenadas plano.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "10 unidades",
           "is_correct": true,
           "feedback": "¡Correcto! La distancia es d = √((x2 - x1)² + (y2 - y1)²). Sustituyendo: d = √((24 - 18)² + (11 - 3)²) = √(6² + 8²) = √(36 + 64) = √100 = 10."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "14 unidades",
           "is_correct": false,
           "feedback": "Incorrecto. Este resultado se obtiene de la suma de las diferencias lineales (6 + 8), lo cual es erróneo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "100 unidades",
           "is_correct": false,
           "feedback": "Incorrecto. 100 es el valor dentro de la raíz cuadrada antes de extraer la raíz final de la distancia cartesiana."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. Valor que corresponde únicamente a la diferencia sobre el eje de las ordenadas (Y)."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La fórmula de la distancia entre dos puntos en el plano cartesiano es d = √((x₂ - x₁)² + (y₂ - y₁)²). Sustituyendo los puntos A(18, 3) y B(24, 11): d = √((24 - 18)² + (11 - 3)²) = √(6² + 8²) = √(36 + 64) = √100 = 10 unidades.",
       "difficulty": "10",
       "images": [],
@@ -868,13 +868,13 @@
       "context": "Un topógrafo en CDMX ubica dos puntos de control geodésico en un sistema de coordenadas plano.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "10 unidades",
           "is_correct": true,
           "feedback": "¡Correcto! La distancia es d = √((x2 - x1)² + (y2 - y1)²). Sustituyendo: d = √((27 - 21)² + (14 - 6)²) = √(6² + 8²) = √(36 + 64) = √100 = 10."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "14 unidades",
           "is_correct": false,
           "feedback": "Incorrecto. Este resultado se obtiene de la suma de las diferencias lineales (6 + 8), lo cual es erróneo."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. Valor que corresponde únicamente a la diferencia sobre el eje de las ordenadas (Y)."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La fórmula de la distancia entre dos puntos en el plano cartesiano es d = √((x₂ - x₁)² + (y₂ - y₁)²). Sustituyendo los puntos A(21, 6) y B(27, 14): d = √((27 - 21)² + (14 - 6)²) = √(6² + 8²) = √(36 + 64) = √100 = 10 unidades.",
       "difficulty": "10",
       "images": [],

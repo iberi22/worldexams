@@ -13,13 +13,13 @@
       "context": "En una clase de lengua castellana en Cúcuta, la profesora lee un párrafo en el que se detalla el color de los ojos, la altura y la forma de vestir de una persona.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Mostrar las características de una persona, un objeto, un animal o un lugar mediante detalles precisos.",
           "is_correct": true,
           "feedback": "La descripción se centra en detallar rasgos y cualidades de lo que se representa."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Contar una historia de ficción con un inicio, un desarrollo y un final.",
           "is_correct": false,
           "feedback": "Contar historias con inicio, nudo y desenlace es propio del texto narrativo."
@@ -37,7 +37,7 @@
           "feedback": "Convencer al lector es el propósito de los textos argumentativos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Recordar que el texto descriptivo busca representar con detalle la apariencia o las características de algo.",
       "difficulty": "4",
       "images": [],
@@ -105,13 +105,13 @@
       "context": "Un estudiante debe escribir la descripción de la Plaza de Bolívar en Bogotá para una cartelera del salón, utilizando al menos tres adjetivos calificativos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "\"La plaza se ve amplia, empedrada y rodeada de edificios históricos; al centro se alza una estatua rodeada de palomas.\"",
           "is_correct": true,
           "feedback": "El fragmento usa varios adjetivos y detalles que permiten imaginar la plaza."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "\"Ayer visité la plaza y luego me devolví a la casa porque tenía hambre.\"",
           "is_correct": false,
           "feedback": "El fragmento narra acciones, pero no describe características de la plaza."
@@ -129,7 +129,7 @@
           "feedback": "El fragmento aporta un dato histórico, pero no describe visualmente la plaza."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Aplicar el uso de adjetivos y detalles concretos para construir una descripción efectiva de un lugar.",
       "difficulty": "6",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "Una guía turística de Cartagena debe presentar la ciudad a niños de otras regiones; para ello utiliza un texto con muchos adjetivos y comparaciones.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "\"Las murallas de Cartagena son tan altas como gigantes guardianes que miran el mar.\"",
           "is_correct": true,
           "feedback": "La comparación con gigantes guardianes ayuda a visualizar la muralla con detalle."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "\"Cartagena queda en la costa Caribe de Colombia.\"",
           "is_correct": false,
           "feedback": "La oración indica ubicación, pero no compara ni describe con imágenes."
@@ -221,7 +221,7 @@
           "feedback": "La oración da una recomendación práctica, no una descripción."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Aplicar el uso de comparaciones como recurso expresivo para describir lugares de forma más vívida.",
       "difficulty": "6",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "Dos estudiantes escriben descripciones del mismo pueblo: \"Pueblo A: Pueblo blanco con calles angostas, techos rojos y olor a pan recién hecho.\" \"Pueblo B: Pueblo bonito con gente amable y clima cálido.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La descripción A, porque usa detalles concretos y sensoriales que permiten imaginar el lugar.",
           "is_correct": true,
           "feedback": "Los detalles de color, forma y olor hacen más vívida la descripción."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La descripción B, porque menciona la amabilidad de la gente y el clima.",
           "is_correct": false,
           "feedback": "Aunque menciona cualidades, no da detalles visuales concretos."
@@ -267,7 +267,7 @@
           "feedback": "La descripción A sí ofrece imágenes claras, por lo que sí describe."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Analizar la diferencia entre una descripción con detalles sensoriales y otra basada solo en opiniones generales.",
       "difficulty": "8",
       "images": [],
@@ -289,31 +289,31 @@
       "context": "Lee: \"La laguna de Guatavita es una joya escondida entre montañas; sus aguas verdes reflejan el cielo y en sus bordes crecen frailejones plateados.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Oraciones que usan adjetivos y complementos para precisar cómo es el lugar.",
           "is_correct": true,
           "feedback": "Las oraciones se apoyan en adjetivos y complementos descriptivos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Predominio de verbos en pasado que cuentan una historia cronológica.",
           "is_correct": false,
           "feedback": "No hay una secuencia temporal, sino descripciones estáticas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Una lista de instrucciones para visitar la laguna con cuidado.",
           "is_correct": false,
           "feedback": "El texto no da pasos ni indicaciones para visitar el lugar."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Un diálogo entre personajes que hablan sobre la laguna.",
           "is_correct": false,
           "feedback": "No hay diálogo, sino una descripción en tercera persona."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Analizar la estructura oracional del texto descriptivo y reconocer el papel de los adjetivos y complementos.",
       "difficulty": "8",
       "images": [],
@@ -335,19 +335,19 @@
       "context": "Un grupo de estudiantes prepara una guía turística escrita para mostrar los lugares más representativos de su municipio a visitantes de otras regiones de Colombia.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Usar adjetivos precisos, detalles sensoriales, organización coherente y ortografía cuidada.",
           "is_correct": true,
           "feedback": "La calidad descriptiva combina precisión, organización y corrección lingüística."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Incluir solo oraciones muy cortas sin detalles para terminar rápido.",
           "is_correct": false,
           "feedback": "Las oraciones muy cortas suelen perder capacidad descriptiva."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Evitar cualquier adjetivo para no subjetivizar el texto.",
           "is_correct": false,
           "feedback": "Los adjetivos son necesarios para precisar las características del lugar."
@@ -359,7 +359,7 @@
           "feedback": "Es indispensable verificar fuentes y producir un texto propio y responsable."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Evaluar los criterios de calidad que debe reunir un texto descriptivo informativo dirigido a un público amplio.",
       "difficulty": "10",
       "images": [],

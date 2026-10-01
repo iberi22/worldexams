@@ -13,19 +13,19 @@
       "context": "En el Planetario de Bogotá, durante una visita del Colegio Distrital Aquilino Bedoya (ciudad de Tunja), los guías explican a los estudiantes qué objetos se observan en el cielo nocturno.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "El Sol.",
           "is_correct": true,
           "feedback": "Correcto. El Sol es una estrella de tipo espectral G2V que produce su propia luz por fusión nuclear de hidrógeno en helio."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La Tierra.",
           "is_correct": false,
           "feedback": "Incorrecto. La Tierra es un planeta rocoso que refleja la luz del Sol y no genera energía propia por fusión."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La Luna.",
           "is_correct": false,
           "feedback": "Incorrecto. La Luna es un satélite natural que refleja la luz solar y no produce luz propia."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Ceres es un cuerpo menor del cinturón de asteroides, no una estrella ni un planeta."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Las estrellas son esferas de plasma que generan luz y calor mediante reacciones de fusión nuclear en su núcleo. El Sol es la estrella más cercana a la Tierra y, junto con los planetas, lunas y asteroides que lo orbitan, conforma el sistema solar.",
       "difficulty": "4",
       "images": [],
@@ -59,19 +59,19 @@
       "context": "En el semillero de astronomía del Colegio San José de Guanentá (San Gil, Santander), los estudiantes aprenden a identificar la galaxia que contiene al sistema solar.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "A la galaxia conocida como Vía Láctea.",
           "is_correct": true,
           "feedback": "Correcto. El sistema solar se ubica en un brazo externo de la galaxia espiral llamada Vía Láctea, junto con miles de millones de otras estrellas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "A la galaxia Andrómeda.",
           "is_correct": false,
           "feedback": "Incorrecto. Andrómeda es otra galaxia espiral cercana pero independiente, no contiene al Sol."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "A la galaxia enana de Magallanes.",
           "is_correct": false,
           "feedback": "Incorrecto. Las Nubes de Magallanes son galaxias satélite de la Vía Láctea pero no contienen al Sol."
@@ -83,7 +83,7 @@
           "feedback": "Incorrecto. Centaurus A es una galaxia lejana del hemisferio sur, sin relación con nuestro sistema solar."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La Vía Láctea es una galaxia espiral barrada con más de cien mil millones de estrellas. El sistema solar se encuentra en el Brazo de Orión, a unos 26.000 años luz del centro galáctico, donde orbita junto con miles de millones de sistemas planetarios.",
       "difficulty": "4",
       "images": [],
@@ -151,13 +151,13 @@
       "context": "En el Colegio Colombo Hebreo (Bogotá), los estudiantes de grado octavo observan con un telescopio refractor la Luna y registran detalles de los cráteres visibles.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Luna gibosa menguante, próxima al tercer cuarto.",
           "is_correct": true,
           "feedback": "Correcto. Después del cuarto creciente, una semana después la Luna estará en fase gibosa menguante, antes del tercer cuarto."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Luna nueva, completamente oscura en el cielo nocturno.",
           "is_correct": false,
           "feedback": "Incorrecto. La Luna nueva ocurre aproximadamente dos semanas después del cuarto creciente, no una."
@@ -175,7 +175,7 @@
           "feedback": "Incorrecto. Los eclipses lunares son eventos poco frecuentes que no se predicen por fases regulares."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El ciclo lunar sinódico dura aproximadamente 29,5 días. Cada siete días la fase avanza cerca de un cuarto del ciclo, por lo que una semana después del cuarto creciente la Luna se encuentra gibosa menguante, camino al tercer cuarto.",
       "difficulty": "6",
       "images": [],
@@ -197,19 +197,19 @@
       "context": "En la Institución Educativa María Montessori (Palmira, Valle del Cauca), los estudiantes construyen un reloj de Sol y comparan la sombra proyectada a distintas horas del día.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "La sombra se desplaza de oeste a este a medida que pasan las horas, porque la Tierra rota de oeste a este y el Sol parece moverse en sentido contrario.",
           "is_correct": true,
           "feedback": "Correcto. La rotación terrestre de oeste a este genera el movimiento aparente del Sol de este a oeste y el desplazamiento inverso de la sombra."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El Sol realmente orbita alrededor de la Tierra en 24 horas, sin importar el movimiento terrestre.",
           "is_correct": false,
           "feedback": "Incorrecto. Aunque en la antigüedad se pensaba así, hoy sabemos que el giro aparente se debe a la rotación terrestre."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La sombra cambia porque el reloj se mueve por el viento sobre el patio.",
           "is_correct": false,
           "feedback": "Incorrecto. El reloj está fijo en el suelo; la sombra cambia por la posición del Sol respecto al observador."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto. El reloj de Sol funciona con la luz del Sol; durante la noche marca de manera imprecisa o no marca."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Los relojes solares aprovechan el movimiento aparente del Sol sobre el horizonte. Como la Tierra rota de oeste a este, el Sol parece desplazarse de este a oeste, generando sombras que cambian de dirección y longitud a lo largo del día.",
       "difficulty": "6",
       "images": [],
@@ -255,19 +255,19 @@
           "feedback": "Incorrecto. Las estrellas parecen fijas en escalas de horas; lo que importa es el cambio aparente por el movimiento orbital."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Porque al separar las posiciones por el diámetro de la órbita terrestre se obtiene una línea base mucho mayor que mejora la precisión del ángulo de paralaje.",
           "is_correct": true,
           "feedback": "Correcto. Una línea base de unos 300 millones de kilómetros genera ángulos detectables para estrellas relativamente cercanas."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Porque en una sola noche las estrellas cambian su brillo de forma impredecible.",
           "is_correct": false,
           "feedback": "Incorrecto. La variación de brillo en una noche es despreciable para la mayoría de las estrellas medidas por paralaje."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "El método del paralaje aprovecha la órbita terrestre para medir el desplazamiento aparente de una estrella cercana contra el fondo de estrellas más lejanas. Entre mayor sea la línea base, más preciso es el cálculo de la distancia en parsecs y años luz.",
       "difficulty": "6",
       "images": [],
@@ -289,31 +289,31 @@
       "context": "En el Colegio de Boyacá (Tunja), los estudiantes analizan el diagrama Hertzsprung-Russell que muestra la relación entre temperatura y luminosidad de las estrellas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Se desplazaría hacia la parte superior derecha del diagrama, indicando mayor luminosidad y menor temperatura superficial.",
           "is_correct": true,
           "feedback": "Correcto. Las gigantes rojas son más luminosas pero más frías en la superficie, por eso migran al área superior derecha del diagrama HR."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Se desplazaría hacia el extremo inferior izquierdo, volviéndose enana blanca caliente y poco luminosa.",
           "is_correct": false,
           "feedback": "Incorrecto. Esa posición corresponde a una enana blanca, etapa posterior a la gigante roja, no la fase inmediata."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Mantendría exactamente la misma posición indefinidamente.",
           "is_correct": false,
           "feedback": "Incorrecto. Las estrellas cambian su luminosidad y temperatura a lo largo de su evolución, modificando su posición en el diagrama."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Saldría del diagrama HR porque las gigantes rojas no pueden representarse en él.",
           "is_correct": false,
           "feedback": "Incorrecto. El diagrama HR incluye todas las fases estelares, incluyendo gigantes rojas y supergigantes."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El diagrama Hertzsprung-Russell ordena las estrellas según su temperatura y luminosidad. Durante su evolución, las estrellas cambian de posición: las de masa baja como el Sol pasan por la secuencia principal, gigante roja, nebulosa planetaria y enana blanca.",
       "difficulty": "6",
       "images": [],
@@ -335,19 +335,19 @@
       "context": "En el semillero de astronomía del Colegio Mayor de los Andes (Bogotá), los jóvenes comparan imágenes antiguas y modernas de la Gran Nube de Magallanes.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Identifican estrellas variables, regiones de formación estelar activa y eventos como supernovas en galaxias cercanas.",
           "is_correct": true,
           "feedback": "Correcto. La comparación temporal y multibanda permite detectar cambios astrofísicos rápidos y mapear poblaciones estelares jóvenes."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Únicamente calculan la distancia a la galaxia, sin más aplicaciones.",
           "is_correct": false,
           "feedback": "Incorrecto. Aunque la distancia puede afinarse, el monitoreo temporal entrega muchos más datos físicos sobre la galaxia."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Determinan el color de pintura del telescopio que tomó la imagen.",
           "is_correct": false,
           "feedback": "Incorrecto. El color del telescopio no influye en la información astrofísica que entrega la imagen."
@@ -359,7 +359,7 @@
           "feedback": "Incorrecto. La Gran Nube de Magallanes se mueve lentamente; su variación en pocos años es prácticamente imperceptible sin métodos espectroscópicos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La astrofísica moderna combina observaciones multibanda y monitoreo temporal para estudiar la evolución de estrellas y galaxias. Cambios de brillo, novas y supernovas se detectan al comparar imágenes sucesivas y aplicar filtros en distintas longitudes de onda.",
       "difficulty": "8",
       "images": [],
@@ -387,25 +387,25 @@
           "feedback": "Incorrecto. Aunque el clima influye, la diferencia principal es la contaminación lumínica, no la cantidad de lluvia."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Porque la contaminación lumínica del área metropolitana de Medellín reduce la visibilidad de las estrellas débiles, mientras que San Pedro tiene cielos oscuros.",
           "is_correct": true,
           "feedback": "Correcto. La luz artificial dispersada por la atmósfera enmascara las estrellas más débiles, efecto que desaparece en zonas oscuras."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque Medellín está ubicada en el hemisferio equivocado para observar estrellas.",
           "is_correct": false,
           "feedback": "Incorrecto. Medellín se ubica en el hemisferio norte celeste; eso no impide observar estrellas débiles."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Porque en San Pedro las personas tienen mejor vista que en Medellín.",
           "is_correct": false,
           "feedback": "Incorrecto. La agudeza visual promedio no explica una diferencia tan marcada de visibilidad estelar."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La contaminación lumínica generada por las grandes ciudades impide ver la mayoría de las estrellas débiles. Por eso los mejores observatorios se ubican en zonas apartadas como el Desierto de la Tatacoa, en el Huila, donde los cielos oscuros son patrimonio científico.",
       "difficulty": "8",
       "images": [],
@@ -427,13 +427,13 @@
       "context": "En la Universidad Nacional de Colombia (sede Bogotá), los estudiantes de Física Analizan el corrimiento al rojo medido en galaxias distantes.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Que la galaxia se aleja de nosotros a gran velocidad y que el universo se encuentra en expansión acelerada.",
           "is_correct": true,
           "feedback": "Correcto. Un redshift alto indica velocidad de recesión alta, evidencia clave de la expansión del universo descubierta por Hubble."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Que la galaxia tiene color rojo porque está compuesta únicamente por estrellas frías.",
           "is_correct": false,
           "feedback": "Incorrecto. El color real de la galaxia depende de su población estelar; el redshift es un efecto cosmológico independiente."
@@ -451,7 +451,7 @@
           "feedback": "Incorrecto. La composición química no se deduce del redshift; se obtiene del análisis espectroscópico de líneas de absorción."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El corrimiento al rojo observado en galaxias distantes es la principal evidencia de la expansión del universo. Cuanto mayor es el redshift, mayor es la distancia y más rápido se aleja la galaxia, hecho que sustenta el modelo cosmológico del Big Bang.",
       "difficulty": "8",
       "images": [],
@@ -473,13 +473,13 @@
       "context": "En el foro de ciencia escolar del Colegio Campestre San Diego (Funza, Cundinamarca), debaten si los habitantes de una ciudad como Bogotá deberían pagar un impuesto para controlar la contaminación lumínica.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Es favorable: reducir el resplandor urbano protege el patrimonio astronómico, disminuye el consumo eléctrico y favorece la fauna nocturna.",
           "is_correct": true,
           "feedback": "Correcto. La contaminación lumínica afecta la biodiversidad, el gasto energético y la posibilidad de observar el cielo desde la ciudad."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Es innecesaria, porque la observación astronómica solo se realiza en el campo.",
           "is_correct": false,
           "feedback": "Incorrecto. Aunque el campo ofrece mejores condiciones, en Bogotá también se hace divulgación en Planetario, colegios y cerros."
@@ -497,7 +497,7 @@
           "feedback": "Incorrecto. Hoy existen luminarias regulables, sensores de movimiento y normativas internacionales para controlar el resplandor."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La contaminación lumínica es un problema creciente que afecta la observación astronómica, la salud humana y los ecosistemas nocturnos. Iniciativas como el \"cielo oscuro\" implementado en parques naturales permiten compatibilizar la vida urbana con la contemplación del cielo estrellado.",
       "difficulty": "10",
       "images": [],
@@ -519,31 +519,31 @@
       "context": "En un conversatorio del Planetario de Medellín, una empresa local propone patrocinar un show láser de alta potencia todos los fines de semana en el parque principal para \"enseñar astronomía\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Es limitada como herramienta principal: los shows láser son espectaculares pero no reemplazan la observación directa ni la explicación científica guiada.",
           "is_correct": true,
           "feedback": "Correcto. La educación astronómica requiere observación, lectura crítica y práctica experimental; los shows son un complemento, no el eje."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Es perfecta porque enseña astronomía sin necesidad de Planetario ni docentes especializados.",
           "is_correct": false,
           "feedback": "Incorrecto. Sin pedagogía ni observación real, el show se convierte en espectáculo visual sin aprendizaje significativo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Solo debe juzgarse por el color y la cantidad de láseres utilizados.",
           "is_correct": false,
           "feedback": "Incorrecto. El aprendizaje se evalúa por la comprensión lograda, no por la espectacularidad visual."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Es inviable únicamente por razones estéticas en el espacio público.",
           "is_correct": false,
           "feedback": "Incorrecto. El problema central es pedagógico; la estética puede ajustarse, pero el show por sí solo no enseña astronomía profunda."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La educación astronómica combina observación al telescopio, modelación, lectura crítica y mediación docente. Los espectáculos visuales son valiosos para atraer público, pero deben complementarse con prácticas científicas que consoliden el aprendizaje conceptual.",
       "difficulty": "10",
       "images": [],

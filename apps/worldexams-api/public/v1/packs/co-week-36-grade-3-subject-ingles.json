@@ -13,19 +13,19 @@
       "context": "Choose the correct English word for the given definition.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "accommodation",
           "is_correct": true,
           "feedback": "Correct! 'accommodation' matches the definition."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "transportation",
           "is_correct": false,
           "feedback": "Incorrect. Try again."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "entertainment",
           "is_correct": false,
           "feedback": "Incorrect. Try again."
@@ -37,7 +37,7 @@
           "feedback": "Incorrect. Try again."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
       "difficulty": "4",
       "images": [],
@@ -105,31 +105,31 @@
       "context": "Choose the correct English word for the given definition.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "destination",
           "is_correct": true,
           "feedback": "Correct! 'destination' matches the definition."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "departure",
           "is_correct": false,
           "feedback": "Incorrect. Try again."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "arrival",
           "is_correct": false,
           "feedback": "Incorrect. Try again."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "journey",
           "is_correct": false,
           "feedback": "Incorrect. Try again."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
       "difficulty": "6",
       "images": [],
@@ -151,31 +151,31 @@
       "context": "Choose the correct English word for the given definition.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "luggage",
           "is_correct": true,
           "feedback": "Correct! 'luggage' matches the definition."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "ticket",
           "is_correct": false,
           "feedback": "Incorrect. Try again."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "flight",
           "is_correct": false,
           "feedback": "Incorrect. Try again."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "reservation",
           "is_correct": false,
           "feedback": "Incorrect. Try again."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
       "difficulty": "6",
       "images": [],
@@ -243,31 +243,31 @@
       "context": "Choose the correct English word for the given definition.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "customs",
           "is_correct": true,
           "feedback": "Correct! 'customs' matches the definition."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "security",
           "is_correct": false,
           "feedback": "Incorrect. Try again."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "terminal",
           "is_correct": false,
           "feedback": "Incorrect. Try again."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "gate",
           "is_correct": false,
           "feedback": "Incorrect. Try again."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
       "difficulty": "8",
       "images": [],
@@ -335,19 +335,19 @@
       "context": "Choose the correct English word for the given definition.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "sightseeing",
           "is_correct": true,
           "feedback": "Correct! 'sightseeing' matches the definition."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "shopping",
           "is_correct": false,
           "feedback": "Incorrect. Try again."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "hiking",
           "is_correct": false,
           "feedback": "Incorrect. Try again."
@@ -359,7 +359,7 @@
           "feedback": "Incorrect. Try again."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.",
       "difficulty": "10",
       "images": [],

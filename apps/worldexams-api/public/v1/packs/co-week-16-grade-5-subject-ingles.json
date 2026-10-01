@@ -105,19 +105,19 @@
       "context": "A boy in Bucaramanga says: \"I am scared because there is a big storm outside.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "He is scared.",
           "is_correct": true,
           "feedback": "\"Is\" is the correct form of \"be\" for the third person singular subject \"he\"."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "He are scared.",
           "is_correct": false,
           "feedback": "\"Are\" is used with plural subjects like \"they\", not with \"he\"."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "He scared is.",
           "is_correct": false,
           "feedback": "In English the verb \"be\" comes before the adjective, not after it."
@@ -129,7 +129,7 @@
           "feedback": "\"Am\" is used only with \"I\", not with \"he\"."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Applying the correct form of the verb \"be\" with the third person singular to describe feelings.",
       "difficulty": "6",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "Daniela writes in her diary: \"Tomorrow we have a school trip to the zoo. I cannot wait for it!\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Excited.",
           "is_correct": true,
           "feedback": "\"I cannot wait\" shows strong enthusiasm, which is the feeling of being excited."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Sad.",
           "is_correct": false,
           "feedback": "Sadness does not match the enthusiasm of waiting eagerly for a trip."
@@ -221,7 +221,7 @@
           "feedback": "Anger is not supported by the happy, eager tone of the text."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Inferring a feeling from a short personal text using expressions of enthusiasm.",
       "difficulty": "6",
       "images": [],
@@ -243,31 +243,31 @@
       "context": "Read: \"Miguel is angry because his little brother broke his favorite toy. Later, his brother says sorry, and Miguel feels calm and happy again.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Miguel's anger changes to happiness after his brother apologizes.",
           "is_correct": true,
           "feedback": "The text shows anger at first and happiness again after the apology."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Miguel becomes angrier after his brother apologizes.",
           "is_correct": false,
           "feedback": "The text says he feels calm and happy after the apology, not angrier."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Miguel was happy at first and then became angry forever.",
           "is_correct": false,
           "feedback": "The text reverses this order and ends with Miguel happy again."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Miguel feels scared because his brother broke the toy.",
           "is_correct": false,
           "feedback": "The text describes Miguel as angry, not scared."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Analyzing how a character's emotion changes across a short narrative in English.",
       "difficulty": "8",
       "images": [],
@@ -335,31 +335,31 @@
       "context": "Read: \"Feelings are normal and change during the day. When we feel sad or angry, we can talk to a friend, breathe deeply, or ask an adult for help.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Feelings are normal, and we can manage them by talking, breathing, or asking for help.",
           "is_correct": true,
           "feedback": "The paragraph states that feelings are normal and lists healthy ways to handle them."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "People should never feel sad or angry.",
           "is_correct": false,
           "feedback": "The text says feelings are normal, so it does not forbid them."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Children must hide their feelings from everyone.",
           "is_correct": false,
           "feedback": "The text suggests talking to a friend or an adult, not hiding feelings."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Talking to a friend always makes feelings worse.",
           "is_correct": false,
           "feedback": "The text presents talking as a helpful strategy, not a harmful one."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Evaluating the main message of a short expository paragraph about managing feelings.",
       "difficulty": "10",
       "images": [],

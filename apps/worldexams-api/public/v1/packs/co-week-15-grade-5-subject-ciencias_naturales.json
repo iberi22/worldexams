@@ -13,31 +13,31 @@
       "context": "En una clase de ciencias en Medellín, los estudiantes observan un modelo del esqueleto humano y ubican las piezas que forman el armazón del cuerpo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Dar sostén al cuerpo, proteger órganos vitales y permitir el movimiento junto con los músculos.",
           "is_correct": true,
           "feedback": "Los huesos sostienen la estructura corporal, resguardan órganos como el cerebro y sirven de palanca para el movimiento."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Producir el oxígeno que respiran todas las células del cuerpo.",
           "is_correct": false,
           "feedback": "El oxígeno se obtiene en los pulmones durante la respiración, no lo producen los huesos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Transportar la sangre por todo el organismo mediante latidos.",
           "is_correct": false,
           "feedback": "El transporte de la sangre es función del corazón y los vasos sanguíneos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Digerir los alimentos en el estómago y los intestinos.",
           "is_correct": false,
           "feedback": "La digestión corresponde al sistema digestivo, no al sistema óseo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Reconocimiento de las funciones básicas del sistema óseo: sostén, protección y apoyo al movimiento.",
       "difficulty": "4",
       "images": [],
@@ -105,13 +105,13 @@
       "context": "Un niño de Barranquilla dobla la rodilla lentamente para agacharse y recoger su morral del suelo sin lastimarse.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Las articulaciones, que unen dos o más huesos y permiten su movimiento.",
           "is_correct": true,
           "feedback": "Las articulaciones son las zonas de unión entre huesos que posibilitan el desplazamiento; la rodilla es una de ellas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Los pulmones, que se inflan para empujar la pierna hacia abajo.",
           "is_correct": false,
           "feedback": "Los pulmones intervienen en la respiración y no mueven directamente las piernas."
@@ -129,7 +129,7 @@
           "feedback": "Los dientes participan en la masticación y no intervienen en el movimiento de la rodilla."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Aplicación del concepto de articulación para explicar el movimiento de las extremidades.",
       "difficulty": "6",
       "images": [],
@@ -151,13 +151,13 @@
       "context": "En un experimento escolar, un estudiante toca con cuidado el brazo de un compañero mientras este flexiona el codo; observa que por debajo de la piel se forma una zona dura y abultada.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El músculo bíceps se contrae y se acorta, elevando el antebrazo.",
           "is_correct": true,
           "feedback": "Al contraerse, el bíceps se acorta y aumenta de grosor, lo que se percibe como un abultamiento."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El hueso del brazo crece de repente al doblarse.",
           "is_correct": false,
           "feedback": "Los huesos no cambian de tamaño durante un movimiento normal del codo."
@@ -175,7 +175,7 @@
           "feedback": "Los músculos no se inflan con aire; su volumen cambia por la contracción de sus fibras."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Interpretación de la contracción muscular observada en una situación experimental sencilla.",
       "difficulty": "6",
       "images": [],
@@ -197,19 +197,19 @@
       "context": "La nutricionista de un colegio de Pereira recomienda a los estudiantes consumir leche, queso y verduras de hoja verde para mantener huesos fuertes.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "El calcio, mineral esencial para la formación y resistencia de los huesos.",
           "is_correct": true,
           "feedback": "El calcio se deposita en el tejido óseo y le da dureza y fortaleza."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El hierro, que colorea de rojo la sangre.",
           "is_correct": false,
           "feedback": "El hierro participa en el transporte de oxígeno en la sangre, no en la dureza del hueso."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La vitamina C, que evita el escorbuto en las encías.",
           "is_correct": false,
           "feedback": "La vitamina C refuerza las defensas y la piel, pero el mineral clave del hueso es el calcio."
@@ -221,7 +221,7 @@
           "feedback": "El exceso de azúcar no fortalece los huesos; una dieta saludable requiere calcio y vitamina D."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Relación entre la alimentación y los nutrientes que mantienen la salud del sistema óseo.",
       "difficulty": "6",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "Un ciclista de Armenia sufre una caída y se fractura un hueso de la pierna. El médico inmoviliza la zona con yeso durante varias semanas y explica que el hueso se reparará poco a poco.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El tejido óseo vivo puede regenerarse y formar nuevo material que une los extremos rotos.",
           "is_correct": true,
           "feedback": "El hueso es un tejido vivo con células capaces de producir nuevo tejido y soldar la fractura."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El yeso se convierte en hueso nuevo y reemplaza al que se rompió.",
           "is_correct": false,
           "feedback": "El yeso solo inmoviliza la zona; no forma parte del cuerpo ni se transforma en hueso."
@@ -267,7 +267,7 @@
           "feedback": "Los huesos poseen gran capacidad de reparación cuando se inmovilizan y reciben los nutrientes adecuados."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Análisis de la capacidad regenerativa del tejido óseo vivo frente a una lesión.",
       "difficulty": "8",
       "images": [],

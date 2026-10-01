@@ -58,13 +58,13 @@
       "context": "Reglas para despejar incógnitas en un aula de Santiago.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Dividiendo.",
           "is_correct": false,
           "feedback": "Incorrecto. Operación no correspondiente."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Restando.",
           "is_correct": true,
           "feedback": "Correcto. Aplicación de la operación inversa."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. Rompe la igualdad."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Uso de propiedades de la igualdad para el aislamiento de variables.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -154,13 +154,13 @@
           "feedback": "Incorrecto. Planteamiento ilógico."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$100 - x = 35$",
           "is_correct": true,
           "feedback": "Correcto. Pago menos precio igual a cambio."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x - 35 = 100$",
           "is_correct": false,
           "feedback": "Incorrecto. Precio mayor que pago."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. Suma errónea."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Modelación de transacciones comerciales cotidianas mediante ecuaciones.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -283,19 +283,19 @@
       "context": "Edades en San Francisco: Pedro es el doble de Juan; suman 45.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x + 2 = 45$",
           "is_correct": false,
           "feedback": "Incorrecto. Pedro no es Juan+2."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$2x = 45$",
           "is_correct": false,
           "feedback": "Incorrecto. Ignoró a Juan en la suma."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "$x + 2x = 45$",
           "is_correct": true,
           "feedback": "Correcto. Suma de ambas edades."
@@ -307,7 +307,7 @@
           "feedback": "Incorrecto. Relación inversa."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Traducción de problemas de edades a lenguaje algebraico.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -328,13 +328,13 @@
       "context": "Resolver $2(x - 4) = 10$ en Puerto Plata.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "7",
           "is_correct": false,
           "feedback": "Incorrecto. Falló en distribución o suma."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "9",
           "is_correct": true,
           "feedback": "Correcto. $x-4=5 \\implies x=9$."
@@ -352,7 +352,7 @@
           "feedback": "Incorrecto. Ignoró el 4 interno."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Resolución de ecuaciones con signos de agrupación.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -379,13 +379,13 @@
           "feedback": "Incorrecto. Resta de x errónea."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "3",
           "is_correct": true,
           "feedback": "Correcto. $3x = 9 \\implies x = 3$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "2",
           "is_correct": false,
           "feedback": "Incorrecto. Error en división."
@@ -397,7 +397,7 @@
           "feedback": "Incorrecto. No satisface igualdad."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Agrupación de términos semejantes en ambos miembros de la ecuación.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -418,13 +418,13 @@
       "context": "Perímetro $P = 2l + 2w$. $P=60$, $w=10$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "30",
           "is_correct": false,
           "feedback": "Incorrecto. No descontó el ancho."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "20",
           "is_correct": true,
           "feedback": "Correcto. $60 = 2l + 20 \\implies 2l = 40 \\implies l = 20$."
@@ -442,7 +442,7 @@
           "feedback": "Incorrecto. Excedió valor."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Uso de ecuaciones para hallar dimensiones en fórmulas geométricas.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -469,25 +469,25 @@
           "feedback": "Incorrecto. Dividió en lugar de multiplicar."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "12",
           "is_correct": true,
           "feedback": "Correcto. $x/2 = 6 \\implies x = 12$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "8",
           "is_correct": false,
           "feedback": "Incorrecto. Falló en resta o multiplicación."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "6",
           "is_correct": false,
           "feedback": "Incorrecto. Falta paso final."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Manejo de denominadores en el despeje de ecuaciones lineales.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -514,25 +514,25 @@
           "feedback": "Incorrecto. $100+200 \\neq 200$."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "RD\\$ 200",
           "is_correct": true,
           "feedback": "Correcto. $x+200=2x \\implies x=200$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "RD\\$ 400",
           "is_correct": false,
           "feedback": "Incorrecto. No satisface balance."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "RD\\$ 50",
           "is_correct": false,
           "feedback": "Incorrecto. Envío desproporcionado."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Planteamiento de igualdad a partir de descripciones verbales.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -643,31 +643,31 @@
       "context": "Inversión al 5% anual, total final RD\\$ 10,500.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "RD\\$ 10,000",
           "is_correct": true,
           "feedback": "Correcto. $1.05x = 10500 \\implies x=10000$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "RD\\$ 9,500",
           "is_correct": false,
           "feedback": "Incorrecto. Interés insuficiente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "RD\\$ 10,450",
           "is_correct": false,
           "feedback": "Incorrecto. Descuento mal aplicado."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "RD\\$ 10,250",
           "is_correct": false,
           "feedback": "Incorrecto. Error porcentual."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Aplicación de ecuaciones al cálculo de interés simple.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -694,25 +694,25 @@
           "feedback": "Incorrecto. Es (0, -6)."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Intercepto eje X.",
           "is_correct": true,
           "feedback": "Correcto. Donde la recta corta la horizontal."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Pendiente.",
           "is_correct": false,
           "feedback": "Incorrecto. Es 3."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Punto aleatorio.",
           "is_correct": false,
           "feedback": "Incorrecto. Valor específico."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Interpretación geométrica de las raíces de una función lineal.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -784,25 +784,25 @@
           "feedback": "Incorrecto. Suma menor a 3000."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "RD\\$ 500",
           "is_correct": true,
           "feedback": "Correcto. $5x + 500 = 3000 \\implies x=500$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "RD\\$ 600",
           "is_correct": false,
           "feedback": "Incorrecto. Excede total."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "RD\\$ 250",
           "is_correct": false,
           "feedback": "Incorrecto. Insuficiente."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Modelación de problemas de reparto con múltiples condiciones vinculadas.\n\n---",
       "difficulty": "10",
       "images": [],

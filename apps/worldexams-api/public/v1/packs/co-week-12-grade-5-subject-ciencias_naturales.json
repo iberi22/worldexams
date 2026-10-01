@@ -13,19 +13,19 @@
       "context": "En una clase de ciencias en Tunja, la profesora muestra láminas con los ojos, los oídos, la nariz, la lengua y la piel.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Vista-ojos, oído-oídos, olfato-nariz, gusto-lengua y tacto-piel.",
           "is_correct": true,
           "feedback": "Cada sentido se capta con un órgano especializado: los ojos ven, los oídos escuchan, la nariz huele, la lengua saborea y la piel siente."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Vista-nariz, oído-lengua, olfato-ojos, gusto-piel y tacto-oídos.",
           "is_correct": false,
           "feedback": "Esa correspondencia está cambiada; la nariz se relaciona con el olfato, no con la vista."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Todos los sentidos se captan únicamente con el cerebro, sin órganos específicos.",
           "is_correct": false,
           "feedback": "El cerebro interpreta la información, pero cada sentido necesita su órgano para captarla."
@@ -37,7 +37,7 @@
           "feedback": "Esa combinación no corresponde: la lengua se relaciona con el gusto, no con la vista."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Recordar la correspondencia entre los cinco sentidos y sus órganos principales.",
       "difficulty": "4",
       "images": [],
@@ -59,31 +59,31 @@
       "context": "Valentina pasea por el mercado de Bazurto en Cartagena y percibe el olor del pescado fresco y el aroma del coco.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Porque la nariz capta las partículas olorosas del aire y envía la información al cerebro.",
           "is_correct": true,
           "feedback": "La nariz recibe los olores y el cerebro los interpreta para reconocer de qué se trata."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque los ojos observan los alimentos y producen los olores.",
           "is_correct": false,
           "feedback": "Los ojos sirven para ver, no para producir ni captar olores."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque la lengua toca los alimentos a distancia.",
           "is_correct": false,
           "feedback": "La lengua solo percibe sabores al contacto directo, no olores a distancia."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Porque la piel escucha los sonidos del mercado.",
           "is_correct": false,
           "feedback": "La piel percibe el tacto y la temperatura, no los sonidos ni los olores."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Comprender que el olfato capta olores a través de la nariz y el cerebro los interpreta.",
       "difficulty": "4",
       "images": [],
@@ -105,19 +105,19 @@
       "context": "Santiago, en Pasto, suele leer cuentos en su cuarto con muy poca luz y acerca mucho el cuaderno a sus ojos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Leer con buena iluminación y mantener una distancia adecuada entre los ojos y el libro.",
           "is_correct": true,
           "feedback": "La luz suficiente y la distancia correcta evitan el cansancio y el daño en la visión."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Leer siempre a oscuras para que los ojos se acostumbren a la falta de luz.",
           "is_correct": false,
           "feedback": "Leer sin luz suficiente fuerza la vista y puede dañarla con el tiempo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Frotarse los ojos con las manos sucias cuando siente cansancio.",
           "is_correct": false,
           "feedback": "Frotarse con manos sucias puede causar infecciones en los ojos."
@@ -129,7 +129,7 @@
           "feedback": "Mirar el sol directamente daña gravemente los ojos y se debe evitar."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Aplicar hábitos de cuidado de la vista como la buena iluminación y la distancia adecuada al leer.",
       "difficulty": "6",
       "images": [],
@@ -151,13 +151,13 @@
       "context": "En una fiesta en Cartagena, Santiago escucha música a un volumen muy alto y se acerca a los parlantes.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Alejarse de los parlantes y bajar el volumen para no lastimar sus oídos.",
           "is_correct": true,
           "feedback": "Alejarse del sonido fuerte y moderar el volumen protege el oído interno."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Introducir un lápiz en el oído para limpiarlo durante la fiesta.",
           "is_correct": false,
           "feedback": "Introducir objetos en el oído puede herirlo y causar sordera."
@@ -175,7 +175,7 @@
           "feedback": "Mojar los oídos no mejora la audición y puede causar infecciones."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Aplicar medidas de cuidado del oído frente a sonidos fuertes y objetos extraños.",
       "difficulty": "6",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "Valentina, en Tunja, compra en la tienda una panela por 3000 COP. Toca su textura rugosa, huele su aroma dulce y prueba un pedacito.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Tacto, olfato y gusto, porque toca, huele y saborea la panela.",
           "is_correct": true,
           "feedback": "La textura se percibe con la piel, el aroma con la nariz y el sabor con la lengua."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Vista, oído y olfato, porque mira, escucha y huele sin tocar ni probar.",
           "is_correct": false,
           "feedback": "En este caso Valentina también toca y prueba, no solo mira y escucha."
@@ -221,7 +221,7 @@
           "feedback": "El oído no permite reconocer la textura, el aroma ni el sabor de la panela."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Aplicar el uso combinado de varios sentidos para examinar un alimento cotidiano.",
       "difficulty": "6",
       "images": [],
@@ -243,19 +243,19 @@
       "context": "Compara: \"Valentina toca una ruana suave en Pasto. Santiago prueba un jugo de lulo muy ácido en Tunja. En ambos casos, la información viaja por los nervios hasta el cerebro.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Recibe la información de los sentidos a través de los nervios y la interpreta para reconocer la suavidad y la acidez.",
           "is_correct": true,
           "feedback": "Los órganos captan el estímulo, pero es el cerebro el que lo interpreta y le da significado."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Reemplaza a los órganos de los sentidos y capta directamente la suavidad y el sabor.",
           "is_correct": false,
           "feedback": "El cerebro no capta estímulos directamente; necesita la información que envían los órganos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Solo guarda la información sin interpretarla, por eso no se reconoce lo sentido.",
           "is_correct": false,
           "feedback": "El cerebro sí interpreta la información, por eso se reconoce la textura y el sabor."
@@ -267,7 +267,7 @@
           "feedback": "El cerebro no bloquea esa información; la procesa para responder de forma adecuada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Analizar la relación entre los órganos de los sentidos, los nervios y el cerebro en la interpretación del entorno.",
       "difficulty": "8",
       "images": [],
@@ -289,31 +289,31 @@
       "context": "Lee: \"En un salón de clases en Pasto, un niño con gripa no huele el eucalipto y dice que la aromática también sabe a agua simple. Otro niño, con los ojos vendados, confunde una papa con una manzana al solo tocarla.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Los sentidos trabajan juntos y cuando uno falla, la interpretación del cerebro es menos precisa.",
           "is_correct": true,
           "feedback": "El gusto se apoya en el olfato y el tacto necesita de la vista; si falta un sentido, el cerebro recibe menos información."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Cada sentido funciona totalmente aislado y nunca necesita de los otros.",
           "is_correct": false,
           "feedback": "Los ejemplos muestran que el gusto necesita del olfato y el tacto de la vista."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La gripa mejora el olfato y vendar los ojos mejora el tacto de forma permanente.",
           "is_correct": false,
           "feedback": "La gripa reduce el olfato y vendar los ojos dificulta reconocer objetos solo con el tacto."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El cerebro no participa en el olfato, el gusto ni el tacto.",
           "is_correct": false,
           "feedback": "El cerebro participa en todos los sentidos al interpretar la información recibida."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Analizar cómo los sentidos se complementan y cómo la falta de uno afecta la interpretación del cerebro.",
       "difficulty": "8",
       "images": [],

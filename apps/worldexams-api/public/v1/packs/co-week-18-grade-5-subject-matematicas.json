@@ -13,31 +13,31 @@
       "context": "En una tienda de barrio de Soacha, el tendero explica a una niña qué significa que un producto tenga el 50% de descuento.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "La mitad de esa cantidad.",
           "is_correct": true,
           "feedback": "El 50% equivale a dividir la cantidad en dos partes iguales."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El doble de esa cantidad.",
           "is_correct": false,
           "feedback": "El doble corresponde al 200%, no al 50%."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La cantidad completa.",
           "is_correct": false,
           "feedback": "La cantidad completa corresponde al 100%, no al 50%."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Una cuarta parte de esa cantidad.",
           "is_correct": false,
           "feedback": "Una cuarta parte corresponde al 25%, no al 50%."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Recordar que el 50% equivale a la mitad de una cantidad.",
       "difficulty": "4",
       "images": [],
@@ -105,19 +105,19 @@
       "context": "En una papelería de Pasto, un cuaderno cuesta 50.000 pesos colombianos (COP) y tiene un descuento del 10%.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "5.000 COP.",
           "is_correct": true,
           "feedback": "El 10% de 50.000 COP es 50.000 ÷ 10 = 5.000 COP."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "10.000 COP.",
           "is_correct": false,
           "feedback": "10.000 COP correspondería al 20% de 50.000 COP."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "500 COP.",
           "is_correct": false,
           "feedback": "500 COP correspondería al 1% de 50.000 COP."
@@ -129,7 +129,7 @@
           "feedback": "50.000 COP es el precio total, no el valor del descuento."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Aplicar el cálculo del 10% de una cantidad para hallar el valor del descuento.",
       "difficulty": "6",
       "images": [],
@@ -151,19 +151,19 @@
       "context": "En una tienda de ropa de Cúcuta, una camiseta de 80.000 COP tiene un descuento del 50%.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "40.000 COP.",
           "is_correct": true,
           "feedback": "El 50% de 80.000 COP es 40.000 COP, la mitad del precio."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "80.000 COP.",
           "is_correct": false,
           "feedback": "80.000 COP es el precio sin descuento."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "20.000 COP.",
           "is_correct": false,
           "feedback": "20.000 COP correspondería al 25% de 80.000 COP."
@@ -175,7 +175,7 @@
           "feedback": "60.000 COP no corresponde al 50% de descuento."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Aplicar el 50% de descuento para calcular el precio final de un producto.",
       "difficulty": "6",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "En una frutería de Pereira, una piña cuesta 40.000 COP y tiene un descuento del 25%.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "10.000 COP.",
           "is_correct": true,
           "feedback": "El 25% de 40.000 COP es 40.000 ÷ 4 = 10.000 COP."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "4.000 COP.",
           "is_correct": false,
           "feedback": "4.000 COP correspondería al 10% de 40.000 COP."
@@ -221,7 +221,7 @@
           "feedback": "40.000 COP es el precio total, no el descuento."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Aplicar el cálculo del 25% de una cantidad para hallar el valor del descuento.",
       "difficulty": "6",
       "images": [],
@@ -289,31 +289,31 @@
       "context": "En dos tiendas de Barranquilla venden el mismo morral de 100.000 COP: una ofrece el 50% de descuento y la otra el 20% de descuento.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "El descuento del 50% es mayor, por lo que conviene comprar en la primera tienda.",
           "is_correct": true,
           "feedback": "A mayor porcentaje de descuento, menor es el precio final."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El descuento del 20% es mayor que el del 50%.",
           "is_correct": false,
           "feedback": "El 20% es menor que el 50%."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Las dos ofertas descuentan la misma cantidad de dinero.",
           "is_correct": false,
           "feedback": "El 50% descuenta 50.000 COP y el 20% solo 20.000 COP."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Conviene comprar donde el descuento es del 20%.",
           "is_correct": false,
           "feedback": "El descuento del 20% deja el morral más caro que el del 50%."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Analizar y comparar distintos porcentajes de descuento para decidir la mejor oferta.",
       "difficulty": "8",
       "images": [],
@@ -335,19 +335,19 @@
       "context": "Una familia de Medellín compara los precios de dos almacenes antes de comprar un electrodoméstico con descuento.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Porque permite calcular y comparar los precios finales para tomar la mejor decisión de compra.",
           "is_correct": true,
           "feedback": "Comprender los porcentajes ayuda a elegir la oferta que más conviene."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque los porcentajes solo se usan en los exámenes de matemáticas.",
           "is_correct": false,
           "feedback": "Los porcentajes se usan constantemente en las compras de la vida diaria."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque los descuentos no cambian el precio de los productos.",
           "is_correct": false,
           "feedback": "Los descuentos reducen el precio final de los productos."
@@ -359,7 +359,7 @@
           "feedback": "Cada porcentaje descuenta una cantidad distinta de dinero."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Evaluar la utilidad de los porcentajes para tomar decisiones de compra informadas.",
       "difficulty": "10",
       "images": [],

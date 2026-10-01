@@ -19,25 +19,25 @@
           "feedback": "Incorrect. Needs third person 's'."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "rides",
           "is_correct": true,
           "feedback": "Correct! Present Simple third person."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "riding",
           "is_correct": false,
           "feedback": "Incorrect. Continuous form."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "is ride",
           "is_correct": false,
           "feedback": "Incorrect structure."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "The student identifies the correct present simple conjugation for a singular subject.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -59,13 +59,13 @@
       "context": "Reviewing the past of \"to be\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "was",
           "is_correct": false,
           "feedback": "Incorrect. \"We\" is plural."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "were",
           "is_correct": true,
           "feedback": "Correct! Past plural of \"to be\"."
@@ -83,7 +83,7 @@
           "feedback": "Incorrect. Participle form."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "The student remembers the past conjugation of \"to be\" for plural subjects.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -105,31 +105,31 @@
       "context": "Understanding the use of \"should\" for advice.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "should",
           "is_correct": true,
           "feedback": "Correct! Modal for giving advice."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "mustn't",
           "is_correct": false,
           "feedback": "Incorrect. Contradicts the advice."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "shouldn't",
           "is_correct": false,
           "feedback": "Incorrect. Contradicts the advice."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "will",
           "is_correct": false,
           "feedback": "Incorrect. Not the standard modal for advice."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "The student understands the communicative function of \"should\".\n\n---",
       "difficulty": "6",
       "images": [],
@@ -151,13 +151,13 @@
       "context": "Future with \"going to\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "am going",
           "is_correct": false,
           "feedback": "Incorrect. Missing \"to\"."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "am going to",
           "is_correct": true,
           "feedback": "Correct! Future plan/intention."
@@ -175,7 +175,7 @@
           "feedback": "Incorrect structure."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "The student understands the structure of the \"going to\" future.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -243,19 +243,19 @@
       "context": "A description of a student's achievements.\n\n\"Lucia has visited five countries. She speaks three languages perfectly. Last year, she won a prize for her science project.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Visiting five countries.",
           "is_correct": false,
           "feedback": "Incorrect. This is a general life experience (Present Perfect)."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Speaking three languages.",
           "is_correct": false,
           "feedback": "Incorrect. This is a current ability (Present Simple)."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Winning a science prize.",
           "is_correct": true,
           "feedback": "Correct! This is a specific past event (\"Last year... won\")."
@@ -267,7 +267,7 @@
           "feedback": "Incorrect. Not mentioned."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "The student applies reading strategies to distinguish between general experiences and specific past events.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -289,31 +289,31 @@
       "context": "Using \"must\" for obligation in a public place.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "must",
           "is_correct": true,
           "feedback": "Correct! Strong obligation/rule."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "don't have to",
           "is_correct": false,
           "feedback": "Incorrect. It is mandatory."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "shouldn't",
           "is_correct": false,
           "feedback": "Incorrect. Contradicts the rule."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "can",
           "is_correct": false,
           "feedback": "Incorrect. While possible, \"must\" is better for rules."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "The student applies the correct modal for expressing a formal rule.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -341,25 +341,25 @@
           "feedback": "Incorrect participle."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "I have already done my homework.",
           "is_correct": true,
           "feedback": "Correct! Auxiliary + participle \"done\"."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "I has already done my homework.",
           "is_correct": false,
           "feedback": "Incorrect auxiliary for \"I\"."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "I have already do my homework.",
           "is_correct": false,
           "feedback": "Incorrect verb form."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "The student analyzes the Present Perfect structure for grammatical accuracy.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -381,31 +381,31 @@
       "context": "Comparing two people's abilities and plans.\n\n\"Andrés can play soccer very well. He is going to join the school team next week. Mateo doesn't play soccer, but he is a great swimmer.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "They have different athletic skills and Andrés has a specific plan for his sport.",
           "is_correct": true,
           "feedback": "Correct! Soccer vs swimming (different skills) and Andrés joining the team (plan)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Mateo is going to join the soccer team.",
           "is_correct": false,
           "feedback": "Incorrect. Andrés is."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Neither of them likes sports.",
           "is_correct": false,
           "feedback": "Incorrect. Both are athletic."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Andrés is a swimmer.",
           "is_correct": false,
           "feedback": "Incorrect. Mateo is."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "The student analyzes details about ability and future intention to identify a correct synthesis.\n\n---",
       "difficulty": "10",
       "images": [],

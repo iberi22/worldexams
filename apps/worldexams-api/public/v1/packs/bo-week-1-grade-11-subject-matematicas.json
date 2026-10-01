@@ -13,13 +13,13 @@
       "context": "Roxana, estudiante de Sucre, está repasando las clasificaciones de los conjuntos numéricos y las propiedades fundamentales del sistema de los números reales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Es el conjunto de números que se pueden expresar como el cociente de dos enteros con denominador distinto de cero.",
           "is_correct": false,
           "feedback": "Incorrecto. Esta es la definición exacta de los números racionales, no de los irracionales."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Es el conjunto de números con infinitos decimales no periódicos que no se pueden escribir como fracción.",
           "is_correct": true,
           "feedback": "¡Correcto! Los irracionales, como pi o la raíz cuadrada de 2, tienen representaciones decimales infinitas no periódicas y no se pueden representar como el cociente de dos enteros."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Raíces cuadradas como la raíz de 4 dan como resultado un número entero, el cual es racional."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El conjunto de los números irracionales (denotado como I) está constituido por todos los números reales que poseen infinitas cifras decimales no periódicas y que, por lo tanto, no pueden expresarse bajo la forma de una fracción a/b, donde a y b son enteros con b distinto de cero.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,31 +148,31 @@
       "context": "Un artesano de la zona andina de Oruro calcula el margen de error tolerado en el ancho de una manta tejida a mano.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "|x - 120| <= 1.5",
           "is_correct": true,
           "feedback": "¡Correcto! El valor absoluto |x - 120| mide la distancia del ancho real x al nominal 120. Esta distancia debe ser menor o igual al error máximo de 1.5 cm."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "|x + 120| <= 1.5",
           "is_correct": false,
           "feedback": "Incorrecto. Esta expresión sumaría los valores, lo cual no representa geométricamente la distancia de x a 120."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "|x - 1.5| <= 120",
           "is_correct": false,
           "feedback": "Incorrecto. Esto significaría que la distancia de x a 1.5 debe ser menor o igual que 120, lo cual permitiría anchos de manta absurdos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "|x - 120| >= 1.5",
           "is_correct": false,
           "feedback": "Incorrecto. El signo >= indicaría que el error debe ser mayor o igual a 1.5, lo cual representaría un margen de error mínimo, no máximo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La distancia entre el ancho real x y el ancho nominal 120 se calcula mediante el valor absoluto de su diferencia: |x - 120|. Al estar limitado el error a 1.5 cm como máximo, se plantea |x - 120| <= 1.5.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -289,25 +289,25 @@
           "feedback": "Incorrecto. Resolviste aplicando signos incorrectos al valor de referencia positivo."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "(21, 29)",
           "is_correct": true,
           "feedback": "¡Correcto! Al resolver |T - 25| < 4 se obtiene -4 < T - 25 < 4. Sumando 25 a cada parte resulta 21 < T < 29, lo cual representa el intervalo abierto (21, 29)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "(25, 29)",
           "is_correct": false,
           "feedback": "Incorrecto. Este intervalo solo cubre la mitad superior de los valores permitidos por el valor absoluto."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "[21, 29]",
           "is_correct": false,
           "feedback": "Incorrecto. Como la desigualdad es estrictamente menor (<), los extremos no están incluidos. El intervalo debe ser abierto, no cerrado."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Para resolver la inecuación |T - 25| < 4, aplicamos la propiedad |x| < a si y solo si -a < x < a. Esto nos da: -4 < T - 25 < 4. Sumando 25 en todos los términos obtenemos 21 < T < 29, es decir, el intervalo abierto (21, 29).\n\n---",
       "difficulty": "6",
       "images": [],
@@ -328,13 +328,13 @@
       "context": "Walter, un analista financiero de La Paz, estudia las variaciones de la tasa de cambio implícita en transacciones comerciales informales de importación.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "(-2, 6)",
           "is_correct": true,
           "feedback": "¡Correcto! Al factorizar la expresión se obtiene (x - 6)(x + 2) < 0. Los puntos críticos son x = -2 y x = 6. Analizando los signos en los intervalos, la expresión es negativa en el intervalo abierto (-2, 6)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "[-2, 6]",
           "is_correct": false,
           "feedback": "Incorrecto. La desigualdad es estrictamente menor (<), por lo que el intervalo debe ser abierto y no cerrado."
@@ -352,7 +352,7 @@
           "feedback": "Incorrecto. Se cometió un error en los signos al factorizar o calcular los puntos críticos de la ecuación."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Para resolver x^2 - 4x - 12 < 0, factorizamos el trinomio: (x - 6)(x + 2) < 0. Los puntos críticos que anulan la expresión son x = -2 y x = 6. Evaluando signos en los intervalos (-inf, -2), (-2, 6) y (6, inf), vemos que el producto es estrictamente negativo en el intervalo abierto (-2, 6).\n\n---",
       "difficulty": "6",
       "images": [],
@@ -379,13 +379,13 @@
           "feedback": "Incorrecto. Esto solo es cierto si c es un número real positivo. Si c es negativo, el sentido de la desigualdad cambia."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "a^2 < b^2",
           "is_correct": false,
           "feedback": "Incorrecto. No se cumple de forma universal. Por ejemplo, si a = -3 y b = -2 (donde -3 < -2), al elevar al cuadrado obtenemos 9 < 4, lo cual es falso."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "a - c < b - c",
           "is_correct": true,
           "feedback": "¡Correcto! Restar o sumar cualquier número real c a ambos miembros de una desigualdad no cambia su sentido, independientemente de si c es positivo, negativo o cero."
@@ -397,7 +397,7 @@
           "feedback": "Incorrecto. Esto solo se cumple bajo ciertas restricciones de signos de a y b. Si a es negativo y b es positivo, no se cumple."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "La propiedad aditiva de las desigualdades de los números reales establece de manera universal que si a < b, entonces para cualquier número real c, se cumple que a + c < b + c. Al restar c (es decir, sumar -c), la desigualdad a - c < b - c se mantiene siempre verdadera.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -463,19 +463,19 @@
       "context": "Un profesor de matemáticas del Colegio Nacional Ayacucho en La Paz introduce el concepto del Axioma del Supremo como la propiedad que distingue a los números reales de los números racionales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Todo conjunto no vacío de números reales que esté acotado superiormente posee un supremo que pertenece al conjunto de los números reales.",
           "is_correct": true,
           "feedback": "¡Correcto! El Axioma del Supremo (o propiedad de completitud) establece que si un subconjunto no vacío de R está acotado superiormente, tiene una menor cota superior (supremo) en R."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Todo conjunto no vacío de números racionales tiene siempre un elemento máximo que es entero.",
           "is_correct": false,
           "feedback": "Incorrecto. Los conjuntos de números racionales acotados no siempre tienen máximo y menos aún tiene que ser entero."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La suma de cualquier número irracional con un número racional siempre es un número entero positivo.",
           "is_correct": false,
           "feedback": "Incorrecto. La suma de un racional y un irracional es siempre un número irracional, no un entero."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto. El producto de dos reales negativos es siempre positivo y puede ser racional o irracional."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El Axioma del Supremo, también llamado principio de completitud de los números reales, garantiza que todo conjunto S de números reales no vacío y acotado superiormente posee un supremo en los números reales.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -559,25 +559,25 @@
           "feedback": "Incorrecto. Este es el conjunto de soluciones de la inecuación original, es decir, representa los esfuerzos NO seguros de la viga."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "(-2, 7)",
           "is_correct": true,
           "feedback": "¡Correcto! Los valores seguros de x son aquellos que NO cumplen con |2x - 5| >= 9, lo cual equivale a buscar los valores que sí cumplen con |2x - 5| < 9. Resolviendo obtenemos -9 < 2x - 5 < 9 -> -4 < 2x < 14 -> -2 < x < 7, o el intervalo (-2, 7)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "[-2, 7]",
           "is_correct": false,
           "feedback": "Incorrecto. Como la condición de peligro incluye la igualdad (>=), la condición de seguridad debe ser estrictamente menor (<), resultando en un intervalo abierto."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "(-7, 2)",
           "is_correct": false,
           "feedback": "Incorrecto. Se cometió un error en los signos algebraicos al despejar la x de las inecuaciones lineales resultantes."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El complemento lógico de |2x - 5| >= 9 es |2x - 5| < 9. Al resolver esta desigualdad se obtiene -9 < 2x - 5 < 9, lo cual sumando 5 en todos los lados da -4 < 2x < 14. Al dividir por 2, obtenemos -2 < x < 7, lo que corresponde al intervalo abierto (-2, 7).\n\n---",
       "difficulty": "8",
       "images": [],
@@ -604,25 +604,25 @@
           "feedback": "Incorrecto. El extremo superior 8 es el límite que resulta de la segunda inecuación, no 9. Además, el extremo superior debe ser abierto ya que la desigualdad es estrictamente menor (<)."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "[5, 8)",
           "is_correct": true,
           "feedback": "¡Correcto! De la primera inecuación: 3F >= 15 -> F >= 5. De la segunda: 2F < 16 -> F < 8. El conjunto solución simultáneo es 5 <= F < 8, es decir, el intervalo semiabierto [5, 8)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "(5, 8]",
           "is_correct": false,
           "feedback": "Incorrecto. El extremo inferior 5 debe estar cerrado debido a que la primera inecuación incluye la igualdad (>=)."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "[15, 16)",
           "is_correct": false,
           "feedback": "Incorrecto. No se dividieron las constantes por los coeficientes de la variable F al realizar los despejes."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El sistema se compone de: 1) 3F - 4 >= 11 -> F >= 5, es decir, el intervalo [5, inf). 2) 2F + 1 < 17 -> F < 8, es decir, (-inf, 8). La intersección de ambos intervalos es el intervalo semiabierto [5, 8).\n\n---",
       "difficulty": "8",
       "images": [],
@@ -688,13 +688,13 @@
       "context": "Un estudiante de ingeniería financiera analiza la convergencia de una serie de retornos reales acotados en la Bolsa de Valores de Bolivia.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Supremo = 1, Ínfimo = 0",
           "is_correct": true,
           "feedback": "¡Correcto! Para n = 1, x = 0 (que es el valor mínimo, ínfimo). Conforme n crece infinitamente, 1/n tiende a cero, de manera que los elementos se aproximan a 1 pero nunca lo alcanzan. Así, 1 es la menor de las cotas superiores (supremo)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Supremo = 1, Ínfimo = No tiene ínfimo",
           "is_correct": false,
           "feedback": "Incorrecto. El conjunto sí está acotado inferiormente por 0, el cual se alcanza cuando n = 1, por lo que el ínfimo es 0."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. Evaluaste de manera equivocada la expresión al sustituir valores positivos de n naturales (1, 2, 3...)."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Para n = 1, el elemento es 0. A medida que n crece, los valores se aproximan a 1 de forma estrictamente creciente. Así, el ínfimo (que coincide con el mínimo) es 0 y el supremo es 1.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -778,19 +778,19 @@
       "context": "Un diseñador de algoritmos numéricos en Cochabamba analiza el comportamiento del error de aproximación polinomial en intervalos simétricos del dominio de los números reales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "(0, 2) U (4, 6)",
           "is_correct": true,
           "feedback": "¡Correcto! Al abrir el valor absoluto externo obtenemos -1 < |x - 3| - 2 < 1. Sumando 2 en cada parte, resulta 1 < |x - 3| < 3. Esto se divide en dos casos: caso A (1 < x - 3 < 3 -> 4 < x < 6) y caso B (-3 < x - 3 < -1 -> 0 < x < 2). La unión de ambos es (0, 2) U (4, 6)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "(2, 4) U (6, 8)",
           "is_correct": false,
           "feedback": "Incorrecto. El desplazamiento del centro y la aplicación de los límites de valor absoluto anidado no corresponden con la solución geométrica simétrica respecto al punto 3."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "[0, 2] U [4, 6]",
           "is_correct": false,
           "feedback": "Incorrecto. Se utilizaron intervalos cerrados, pero las desigualdades de la expresión son estrictas (<), de modo que los extremos no están incluidos."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. Se cometió un error fundamental en la traslación de los puntos críticos correspondientes a la simetría de la recta real."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La inecuación se traduce en 1 < |x - 3| < 3. Esto da lugar a dos sistemas: 1) 1 < x - 3 < 3 -> 4 < x < 6. 2) -3 < x - 3 < -1 -> 0 < x < 2. Combinando ambas soluciones, se tiene la unión (0, 2) U (4, 6).\n\n---",
       "difficulty": "10",
       "images": [],
@@ -874,25 +874,25 @@
           "feedback": "Incorrecto. Los racionales no forman un conjunto cerrado; su clausura son todos los números reales, ya que hay puntos de acumulación irracionales."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "El conjunto de los números racionales es denso en el conjunto de los números reales (y en cualquier intervalo no vacío).",
           "is_correct": true,
           "feedback": "¡Correcto! La propiedad de densidad de los racionales (Q) en R establece que entre cualesquiera dos números reales existe siempre un número racional, lo que implica que todo real es punto de acumulación de Q."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El conjunto de los números racionales es un conjunto numerable y por tanto está acotado por arriba.",
           "is_correct": false,
           "feedback": "Incorrecto. Aunque Q es numerable, la numerabilidad no tiene relación directa con la aproximación métrica continua o la densidad topológica en el intervalo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Los números irracionales son un conjunto discreto dentro de la recta real.",
           "is_correct": false,
           "feedback": "Incorrecto. Los irracionales no son un conjunto discreto; también son densos en los números reales."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La propiedad fundamental que permite aproximar cualquier número real por un número racional se denomina la densidad del conjunto Q en R, lo que significa que el cierre de Q es R.\n\n---",
       "difficulty": "10",
       "images": [],

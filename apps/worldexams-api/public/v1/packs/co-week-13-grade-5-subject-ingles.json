@@ -13,19 +13,19 @@
       "context": "In an English class in Medellín, the teacher points to a calendar of the year.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "January.",
           "is_correct": true,
           "feedback": "January is the first month of the year."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "March.",
           "is_correct": false,
           "feedback": "March is the third month, not the first."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "June.",
           "is_correct": false,
           "feedback": "June is the sixth month, not the first."
@@ -37,7 +37,7 @@
           "feedback": "December is the twelfth and last month."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Remembering the names and order of the months of the year in English.",
       "difficulty": "4",
       "images": [],
@@ -105,31 +105,31 @@
       "context": "A student in Cali wants to say when her birthday is using an ordinal number.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "My birthday is on the 12th of September.",
           "is_correct": true,
           "feedback": "\"12th\" is the correct ordinal form for twelve."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "My birthday is on the 12 of September.",
           "is_correct": false,
           "feedback": "The ordinal needs \"th\": \"12th\"."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "My birthday is on September 12th of.",
           "is_correct": false,
           "feedback": "The word order is wrong; \"of\" must come before the month."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "My birthday is in the 12nd of September.",
           "is_correct": false,
           "feedback": "\"12nd\" is not a correct ordinal form."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Applying ordinal numbers (1st, 2nd, 3rd, 4th...) to express dates in English.",
       "difficulty": "6",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "A student wants to ask a new friend in English about his birthday.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "When is your birthday?",
           "is_correct": true,
           "feedback": "\"When is your birthday?\" is the correct way to ask for the date."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "When your birthday is?",
           "is_correct": false,
           "feedback": "The word order is incorrect; the verb \"is\" must come before the subject."
@@ -221,7 +221,7 @@
           "feedback": "This question does not ask for the date of a birthday."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Forming polite questions in English to ask about birthdays and dates.",
       "difficulty": "6",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "Read: \"In Colombia, many families celebrate birthdays with a party, cake, and music. Children usually invite their friends and play games together.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Colombian birthday parties usually include cake, music, and games with friends.",
           "is_correct": true,
           "feedback": "The text describes how families celebrate birthdays in Colombia."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Birthdays in Colombia are never celebrated with friends.",
           "is_correct": false,
           "feedback": "The text says children usually invite their friends."
@@ -267,7 +267,7 @@
           "feedback": "The text describes celebrations, not prohibitions."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Analyzing a short paragraph in English to identify its main idea.",
       "difficulty": "8",
       "images": [],
@@ -289,31 +289,31 @@
       "context": "Read the sentences: \"The party is in December.\" and \"The party is on December 5th.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "\"In\" is used with months and \"on\" with specific dates.",
           "is_correct": true,
           "feedback": "We say \"in December\" for the month and \"on December 5th\" for a date."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "\"On\" is used with months and \"in\" with specific dates.",
           "is_correct": false,
           "feedback": "It is the opposite: \"in\" goes with months and \"on\" with dates."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Both prepositions can be exchanged without changing meaning.",
           "is_correct": false,
           "feedback": "The prepositions are not interchangeable here."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Months never take a preposition in English.",
           "is_correct": false,
           "feedback": "Months do take the preposition \"in\"."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Analyzing the correct use of the prepositions \"in\" and \"on\" with months and dates.",
       "difficulty": "8",
       "images": [],
@@ -335,13 +335,13 @@
       "context": "Read: 'Maria's birthday is on October 9th. Her school has a concert on October 7th and a football game on October 12th.'",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Maria's birthday comes after the concert but before the football game.",
           "is_correct": true,
           "feedback": "October 9th is after October 7th and before October 12th."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Maria's birthday is before the concert.",
           "is_correct": false,
           "feedback": "October 9th is after the concert on October 7th."
@@ -359,7 +359,7 @@
           "feedback": "The birthday and the concert are on different days."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Evaluating dates in sequence to determine the correct order of events in English.",
       "difficulty": "10",
       "images": [],

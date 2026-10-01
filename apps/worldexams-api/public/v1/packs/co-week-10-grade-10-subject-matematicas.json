@@ -59,13 +59,13 @@
       "context": "En Medellín, se identifica el foco de la parábola $y^2 = 8x$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$(2, 0)$",
           "is_correct": true,
           "feedback": "Correcto. $4p = 8$, luego $p = 2$ y el foco es $(p, 0) = (2, 0)$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$(0, 2)$",
           "is_correct": false,
           "feedback": "Incorrecto. Ese sería el foco de una parábola vertical."
@@ -83,7 +83,7 @@
           "feedback": "Incorrecto. Confundiste el coeficiente de la ecuación con $p$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Comparando con $y^2 = 4px$: $4p = 8$, luego $p = 2$ y el foco es $(2, 0)$.",
       "difficulty": "4",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "En Bucaramanga, se escribe la ecuación de la parábola con vértice en el origen y foco en $(0, 3)$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x^2 = 12y$",
           "is_correct": true,
           "feedback": "Correcto. Foco $(0, p) = (0, 3)$, $p = 3$; $x^2 = 4py = 12y$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x^2 = -12y$",
           "is_correct": false,
           "feedback": "Incorrecto. El foco está arriba, por lo que el coeficiente es positivo."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto. El coeficiente debe ser $4p = 12$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El foco en $(0, 3)$ indica una parábola vertical con $p = 3$: $x^2 = 4py = 12y$.",
       "difficulty": "6",
       "images": [],
@@ -243,19 +243,19 @@
       "context": "En Pereira, se determinan los elementos de la parábola $(y - 2)^2 = 8(x + 1)$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$(-1, 2)$",
           "is_correct": true,
           "feedback": "Correcto. El vértice es $(h, k) = (-1, 2)$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$(1, -2)$",
           "is_correct": false,
           "feedback": "Incorrecto. Los signos están invertidos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$(8, -1)$",
           "is_correct": false,
           "feedback": "Incorrecto. Confundiste el coeficiente con las coordenadas."
@@ -267,7 +267,7 @@
           "feedback": "Incorrecto. El vértice está desplazado."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La forma $(y - k)^2 = 4p(x - h)$ tiene vértice en $(h, k)$. Aquí $y - 2$ y $x + 1 = x - (-1)$, por lo que el vértice es $(-1, 2)$.",
       "difficulty": "6",
       "images": [],
@@ -335,31 +335,31 @@
       "context": "En Cartagena, se halla la ecuación de la parábola con vértice en el origen y directriz $x = 5$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$y^2 = -20x$",
           "is_correct": true,
           "feedback": "Correcto. $x = 5$ implica $p = -5$; $y^2 = 4px = -20x$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$y^2 = 20x$",
           "is_correct": false,
           "feedback": "Incorrecto. El foco estaría en $(5, 0)$, pero la directriz $x = 5$ indica que abre a la izquierda."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x^2 = -20y$",
           "is_correct": false,
           "feedback": "Incorrecto. Esa sería una parábola vertical."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$y^2 = -5x$",
           "is_correct": false,
           "feedback": "Incorrecto. El coeficiente es $4p = -20$, no $-5$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Si la directriz es $x = -p = 5$, entonces $p = -5$ y $4p = -20$: $y^2 = -20x$, abriendo a la izquierda.",
       "difficulty": "8",
       "images": [],
@@ -381,31 +381,31 @@
       "context": "En Cúcuta, se determina la longitud del lado recto (cuerda focal perpendicular al eje) de la parábola $y^2 = 20x$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$20$",
           "is_correct": true,
           "feedback": "Correcto. El lado recto mide $|4p| = 20$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$5$",
           "is_correct": false,
           "feedback": "Incorrecto. $5$ es el valor de $p$, no del lado recto."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$10$",
           "is_correct": false,
           "feedback": "Incorrecto. El lado recto mide $4p$, no $2p$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$80$",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicaste de más."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El lado recto de una parábola $y^2 = 4px$ mide $|4p|$. Con $4p = 20$, la longitud es $20$.",
       "difficulty": "8",
       "images": [],
@@ -427,31 +427,31 @@
       "context": "En Pasto, un reflector parabólico tiene forma $y^2 = 24x$, con unidades en decímetros.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "A $6$ dm.",
           "is_correct": true,
           "feedback": "Correcto. La fuente va en el foco; $4p = 24$, luego $p = 6$ dm."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "A $24$ dm.",
           "is_correct": false,
           "feedback": "Incorrecto. $24$ es $4p$, no la distancia focal."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "A $12$ dm.",
           "is_correct": false,
           "feedback": "Incorrecto. El foco está a $p = 6$ dm, no a $12$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "A $3$ dm.",
           "is_correct": false,
           "feedback": "Incorrecto. Subestimaste la distancia focal."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "En un reflector parabólico, la fuente se ubica en el foco. De $y^2 = 24x$, $4p = 24$, luego $p = 6$ dm.",
       "difficulty": "10",
       "images": [],
@@ -473,13 +473,13 @@
       "context": "En Ibagué, se determina el foco de la parábola $x^2 - 4x - 8y + 12 = 0$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$(2, 3)$",
           "is_correct": true,
           "feedback": "Correcto. $(x-2)^2 = 8(y-1)$; vértice $(2, 1)$, $4p = 8$, $p = 2$, foco en $(2, 1+2) = (2, 3)$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$(2, 1)$",
           "is_correct": false,
           "feedback": "Incorrecto. Ese es el vértice, no el foco."
@@ -497,7 +497,7 @@
           "feedback": "Incorrecto. El vértice está desplazado."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Completando cuadrados: $x^2 - 4x = 8y - 12$, luego $(x - 2)^2 = 8y - 8 = 8(y - 1)$. Vértice $(2, 1)$, $4p = 8$, $p = 2$. Como abre hacia arriba, el foco es $(2, 1 + 2) = (2, 3)$.",
       "difficulty": "10",
       "images": [],
@@ -519,13 +519,13 @@
       "context": "En Villavicencio, se determina la ecuación de la parábola con vértice en $(1, 2)$ y foco en $(1, 5)$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$(x - 1)^2 = 12(y - 2)$",
           "is_correct": true,
           "feedback": "Correcto. Distancia focal $p = 3$; abre hacia arriba: $(x - 1)^2 = 4(3)(y - 2) = 12(y - 2)$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$(x - 1)^2 = 3(y - 2)$",
           "is_correct": false,
           "feedback": "Incorrecto. El coeficiente debe ser $4p = 12$."
@@ -543,7 +543,7 @@
           "feedback": "Incorrecto. El foco está arriba del vértice, por lo que el signo es positivo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El foco $(1, 5)$ está $3$ unidades arriba del vértice $(1, 2)$, así que $p = 3$ y la parábola abre hacia arriba: $(x - 1)^2 = 12(y - 2)$.",
       "difficulty": "10",
       "images": [],

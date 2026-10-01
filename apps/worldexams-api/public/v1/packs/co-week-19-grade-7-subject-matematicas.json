@@ -13,19 +13,19 @@
       "context": "En Bogotá, un mapa aparece con la indicación \"Escala 1:100 000\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Que 1 unidad en el mapa equivale a 100 000 unidades en la realidad",
           "is_correct": true,
           "feedback": "Correcto. La escala indica cuántas veces más grande es la realidad."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Que el mapa es 100 000 veces más pequeño en cada dirección",
           "is_correct": false,
           "feedback": "Incorrecto. Esa idea es aproximada pero no exacta: la escala es una razón de longitudes, no de áreas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Que se necesitan 100 000 mapas para cubrir la región",
           "is_correct": false,
           "feedback": "Incorrecto. La escala es proporcional, no de cantidad de mapas."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. La escala no dice el tamaño físico del mapa."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La escala 1:100 000 significa que cada unidad (cm) en el mapa representa 100 000 unidades (cm) en la realidad, es decir 1 km.",
       "difficulty": "4",
       "images": [],
@@ -105,31 +105,31 @@
       "context": "En Cali, un plano de un colegio tiene escala 1:200 y muestra una pared de 8 cm.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "16 m",
           "is_correct": true,
           "feedback": "Correcto. 8 cm × 200 = 1600 cm = 16 m."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "8 m",
           "is_correct": false,
           "feedback": "Incorrecto. Confundiste la unidad en el mapa con metros reales."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "1.6 m",
           "is_correct": false,
           "feedback": "Incorrecto. Dividiste por 10 al convertir, falta multiplicar por 200."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "160 m",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicaste por 200 pero olvidaste convertir cm a m."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Multiplicar por la escala y convertir cm a m dividiendo entre 100: 8 × 200 / 100 = 16 m.",
       "difficulty": "6",
       "images": [],
@@ -151,31 +151,31 @@
       "context": "En Barranquilla, una carretera real mide 12 km. En un mapa aparece con 6 cm.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "1:200 000",
           "is_correct": true,
           "feedback": "Correcto. 12 km = 1 200 000 cm; 1 200 000 / 6 = 200 000."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "1:120 000",
           "is_correct": false,
           "feedback": "Incorrecto. Dividiste 1 200 000 entre 10 000, no es la conversión correcta."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "1:600 000",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicaste en lugar de dividir."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "1:60 000",
           "is_correct": false,
           "feedback": "Incorrecto. Dividiste entre 20 000, lo cual subestima la escala."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Escala = distancia real / distancia en mapa. 1 200 000 cm ÷ 6 cm = 200 000. Por tanto la escala es 1:200 000.",
       "difficulty": "6",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "En Manizales, un mapa a escala 1:50 000 muestra un terreno cuadrado de 4 cm de lado.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "4 hectáreas",
           "is_correct": true,
           "feedback": "Correcto. 4 cm × 50 000 = 200 000 cm = 2000 m por lado. Área = 2000² = 4 000 000 m² = 4 ha."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "1 hectárea",
           "is_correct": false,
           "feedback": "Incorrecto. Solo calculaste el lado sin elevarlo al cuadrado."
@@ -267,7 +267,7 @@
           "feedback": "Incorrecto. Te quedaste en m² sin convertir a hectáreas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Cada lado real = 4 cm × 50 000 = 2 km = 2000 m. Área = 2000 m × 2000 m = 4 000 000 m² = 4 hectáreas.",
       "difficulty": "8",
       "images": [],
@@ -381,31 +381,31 @@
       "context": "En Tunja, dicen: \"Una finca tiene forma rectangular y en el plano aparece con 5 cm × 3 cm a escala 1:10 000\". Calculas el área real: 5 cm × 10 000 = 50 000 cm = 500 m; 3 cm × 10 000 = 30 000 cm = 300 m; área = 150 000 m².",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Sí, una vez expresados ambos lados en la misma unidad, multiplicar lados da el área",
           "is_correct": true,
           "feedback": "Correcto. Tras convertir a metros, 500 m × 300 m = 150 000 m²."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "No, porque hay que multiplicar los lados en cm primero",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicar cm × cm tampoco es válido sin conversión a m²."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "No, hay que sumar los lados",
           "is_correct": false,
           "feedback": "Incorrecto. Para áreas se multiplican lados, no se suman."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Sí, pero el resultado es 15 000 m²",
           "is_correct": false,
           "feedback": "Incorrecto. Ese sería 500 × 30, no 500 × 300."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El procedimiento correcto: convertir cada longitud a la misma unidad (m), luego multiplicar para obtener el área en m².",
       "difficulty": "10",
       "images": [],
@@ -427,19 +427,19 @@
       "context": "En Yopal, una empresa afirma en su publicidad que su nueva sede está \"a solo 1 cm del centro en el plano oficial\" con escala 1:25 000. Un cliente se queja porque al ir caminando tardó 35 minutos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Sí, porque 1 cm × 25 000 = 250 m a pie, distancia plausible para ese tiempo",
           "is_correct": true,
           "feedback": "Correcto. 250 m se caminan en unos 4 minutos a paso normal, así que 35 minutos indica más lejos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "No, 1 cm siempre significa 1 metro en cualquier mapa",
           "is_correct": false,
           "feedback": "Incorrecto. La conversión depende de la escala, no es fija."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Sí, porque el mapa mide 1 cm no más",
           "is_correct": false,
           "feedback": "Incorrecto. La medida física del mapa no determina distancias reales."
@@ -451,7 +451,7 @@
           "feedback": "Incorrecto. La escala es una razón matemática válida."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "1 cm × 25 000 = 25 000 cm = 250 m, distancia razonable para caminarse en pocos minutos. Una caminata de 35 minutos sugiere que el cliente recorrió más distancia que la indicada.",
       "difficulty": "10",
       "images": [],

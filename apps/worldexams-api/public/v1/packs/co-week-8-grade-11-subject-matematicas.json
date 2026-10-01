@@ -13,19 +13,19 @@
       "context": "En Pasto, Valentina simplifica una expresión algebraica cuadrática utilizada en el diseño de un parque local.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$x - 2$",
           "is_correct": true,
           "feedback": "Correcto. Factorizando el numerador como diferencia de cuadrados $(x - 2)(x + 2)$, se cancela $(x + 2)$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x + 2$",
           "is_correct": false,
           "feedback": "Incorrecto. Cancelaste erróneamente el término $(x - p)$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x^2 - 2$",
           "is_correct": false,
           "feedback": "Incorrecto. No dividiste el término de grado 2."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Restaste la variable x de forma errónea."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La diferencia de cuadrados se factoriza como $x^2 - 4 = (x - 2)(x + 2)$. Al dividir entre $(x + 2)$, la expresión simplificada es $x - 2$.",
       "difficulty": "4",
       "images": [],
@@ -59,19 +59,19 @@
       "context": "En Bogotá, Santiago simplifica una expresión algebraica cuadrática utilizada en el diseño de un parque local.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$x - 3$",
           "is_correct": true,
           "feedback": "Correcto. Factorizando el numerador como diferencia de cuadrados $(x - 3)(x + 3)$, se cancela $(x + 3)$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x + 3$",
           "is_correct": false,
           "feedback": "Incorrecto. Cancelaste erróneamente el término $(x - p)$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x^2 - 3$",
           "is_correct": false,
           "feedback": "Incorrecto. No dividiste el término de grado 2."
@@ -83,7 +83,7 @@
           "feedback": "Incorrecto. Restaste la variable x de forma errónea."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La diferencia de cuadrados se factoriza como $x^2 - 9 = (x - 3)(x + 3)$. Al dividir entre $(x + 3)$, la expresión simplificada es $x - 3$.",
       "difficulty": "4",
       "images": [],
@@ -105,19 +105,19 @@
       "context": "En Medellín, Mariana simplifica una expresión algebraica cuadrática utilizada en el diseño de un parque local.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$x - 4$",
           "is_correct": true,
           "feedback": "Correcto. Factorizando el numerador como diferencia de cuadrados $(x - 4)(x + 4)$, se cancela $(x + 4)$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x + 4$",
           "is_correct": false,
           "feedback": "Incorrecto. Cancelaste erróneamente el término $(x - p)$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x^2 - 4$",
           "is_correct": false,
           "feedback": "Incorrecto. No dividiste el término de grado 2."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecto. Restaste la variable x de forma errónea."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La diferencia de cuadrados se factoriza como $x^2 - 16 = (x - 4)(x + 4)$. Al dividir entre $(x + 4)$, la expresión simplificada es $x - 4$.",
       "difficulty": "4",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "En Bucaramanga, Alejandro simplifica una expresión algebraica cuadrática utilizada en el diseño de un parque local.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x - 7$",
           "is_correct": true,
           "feedback": "Correcto. Factorizando el numerador como diferencia de cuadrados $(x - 7)(x + 7)$, se cancela $(x + 7)$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x + 7$",
           "is_correct": false,
           "feedback": "Incorrecto. Cancelaste erróneamente el término $(x - p)$."
@@ -267,7 +267,7 @@
           "feedback": "Incorrecto. Restaste la variable x de forma errónea."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La diferencia de cuadrados se factoriza como $x^2 - 49 = (x - 7)(x + 7)$. Al dividir entre $(x + 7)$, la expresión simplificada es $x - 7$.",
       "difficulty": "6",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "En Cartagena, Isabella simplifica una expresión algebraica cuadrática utilizada en el diseño de un parque local.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x - 8$",
           "is_correct": true,
           "feedback": "Correcto. Factorizando el numerador como diferencia de cuadrados $(x - 8)(x + 8)$, se cancela $(x + 8)$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x + 8$",
           "is_correct": false,
           "feedback": "Incorrecto. Cancelaste erróneamente el término $(x - p)$."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecto. Restaste la variable x de forma errónea."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La diferencia de cuadrados se factoriza como $x^2 - 64 = (x - 8)(x + 8)$. Al dividir entre $(x + 8)$, la expresión simplificada es $x - 8$.",
       "difficulty": "6",
       "images": [],
@@ -335,13 +335,13 @@
       "context": "En Pereira, Mateo simplifica una expresión algebraica cuadrática utilizada en el diseño de un parque local.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x - 9$",
           "is_correct": true,
           "feedback": "Correcto. Factorizando el numerador como diferencia de cuadrados $(x - 9)(x + 9)$, se cancela $(x + 9)$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x + 9$",
           "is_correct": false,
           "feedback": "Incorrecto. Cancelaste erróneamente el término $(x - p)$."
@@ -359,7 +359,7 @@
           "feedback": "Incorrecto. Restaste la variable x de forma errónea."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La diferencia de cuadrados se factoriza como $x^2 - 81 = (x - 9)(x + 9)$. Al dividir entre $(x + 9)$, la expresión simplificada es $x - 9$.",
       "difficulty": "6",
       "images": [],
@@ -427,31 +427,31 @@
       "context": "En Santa Marta, Diego simplifica una expresión algebraica cuadrática utilizada en el diseño de un parque local.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$x - 11$",
           "is_correct": true,
           "feedback": "Correcto. Factorizando el numerador como diferencia de cuadrados $(x - 11)(x + 11)$, se cancela $(x + 11)$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x + 11$",
           "is_correct": false,
           "feedback": "Incorrecto. Cancelaste erróneamente el término $(x - p)$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x^2 - 11$",
           "is_correct": false,
           "feedback": "Incorrecto. No dividiste el término de grado 2."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$11$",
           "is_correct": false,
           "feedback": "Incorrecto. Restaste la variable x de forma errónea."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La diferencia de cuadrados se factoriza como $x^2 - 121 = (x - 11)(x + 11)$. Al dividir entre $(x + 11)$, la expresión simplificada es $x - 11$.",
       "difficulty": "6",
       "images": [],
@@ -473,13 +473,13 @@
       "context": "En Pasto, Valentina simplifica una expresión algebraica cuadrática utilizada en el diseño de un parque local.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x - 12$",
           "is_correct": true,
           "feedback": "Correcto. Factorizando el numerador como diferencia de cuadrados $(x - 12)(x + 12)$, se cancela $(x + 12)$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x + 12$",
           "is_correct": false,
           "feedback": "Incorrecto. Cancelaste erróneamente el término $(x - p)$."
@@ -497,7 +497,7 @@
           "feedback": "Incorrecto. Restaste la variable x de forma errónea."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La diferencia de cuadrados se factoriza como $x^2 - 144 = (x - 12)(x + 12)$. Al dividir entre $(x + 12)$, la expresión simplificada es $x - 12$.",
       "difficulty": "8",
       "images": [],
@@ -519,31 +519,31 @@
       "context": "En Bogotá, Santiago simplifica una expresión algebraica cuadrática utilizada en el diseño de un parque local.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$x - 13$",
           "is_correct": true,
           "feedback": "Correcto. Factorizando el numerador como diferencia de cuadrados $(x - 13)(x + 13)$, se cancela $(x + 13)$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x + 13$",
           "is_correct": false,
           "feedback": "Incorrecto. Cancelaste erróneamente el término $(x - p)$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x^2 - 13$",
           "is_correct": false,
           "feedback": "Incorrecto. No dividiste el término de grado 2."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$13$",
           "is_correct": false,
           "feedback": "Incorrecto. Restaste la variable x de forma errónea."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La diferencia de cuadrados se factoriza como $x^2 - 169 = (x - 13)(x + 13)$. Al dividir entre $(x + 13)$, la expresión simplificada es $x - 13$.",
       "difficulty": "8",
       "images": [],
@@ -565,13 +565,13 @@
       "context": "En Medellín, Mariana simplifica una expresión algebraica cuadrática utilizada en el diseño de un parque local.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x - 14$",
           "is_correct": true,
           "feedback": "Correcto. Factorizando el numerador como diferencia de cuadrados $(x - 14)(x + 14)$, se cancela $(x + 14)$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x + 14$",
           "is_correct": false,
           "feedback": "Incorrecto. Cancelaste erróneamente el término $(x - p)$."
@@ -589,7 +589,7 @@
           "feedback": "Incorrecto. Restaste la variable x de forma errónea."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La diferencia de cuadrados se factoriza como $x^2 - 196 = (x - 14)(x + 14)$. Al dividir entre $(x + 14)$, la expresión simplificada es $x - 14$.",
       "difficulty": "8",
       "images": [],
@@ -611,13 +611,13 @@
       "context": "En Cali, Juan simplifica una expresión algebraica cuadrática utilizada en el diseño de un parque local.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x - 15$",
           "is_correct": true,
           "feedback": "Correcto. Factorizando el numerador como diferencia de cuadrados $(x - 15)(x + 15)$, se cancela $(x + 15)$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x + 15$",
           "is_correct": false,
           "feedback": "Incorrecto. Cancelaste erróneamente el término $(x - p)$."
@@ -635,7 +635,7 @@
           "feedback": "Incorrecto. Restaste la variable x de forma errónea."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La diferencia de cuadrados se factoriza como $x^2 - 225 = (x - 15)(x + 15)$. Al dividir entre $(x + 15)$, la expresión simplificada es $x - 15$.",
       "difficulty": "8",
       "images": [],
@@ -703,31 +703,31 @@
       "context": "En Bucaramanga, Alejandro simplifica una expresión algebraica cuadrática utilizada en el diseño de un parque local.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$x - 17$",
           "is_correct": true,
           "feedback": "Correcto. Factorizando el numerador como diferencia de cuadrados $(x - 17)(x + 17)$, se cancela $(x + 17)$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x + 17$",
           "is_correct": false,
           "feedback": "Incorrecto. Cancelaste erróneamente el término $(x - p)$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x^2 - 17$",
           "is_correct": false,
           "feedback": "Incorrecto. No dividiste el término de grado 2."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$17$",
           "is_correct": false,
           "feedback": "Incorrecto. Restaste la variable x de forma errónea."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La diferencia de cuadrados se factoriza como $x^2 - 289 = (x - 17)(x + 17)$. Al dividir entre $(x + 17)$, la expresión simplificada es $x - 17$.",
       "difficulty": "8",
       "images": [],
@@ -749,31 +749,31 @@
       "context": "En Cartagena, Isabella simplifica una expresión algebraica cuadrática utilizada en el diseño de un parque local.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$x - 18$",
           "is_correct": true,
           "feedback": "Correcto. Factorizando el numerador como diferencia de cuadrados $(x - 18)(x + 18)$, se cancela $(x + 18)$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x + 18$",
           "is_correct": false,
           "feedback": "Incorrecto. Cancelaste erróneamente el término $(x - p)$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x^2 - 18$",
           "is_correct": false,
           "feedback": "Incorrecto. No dividiste el término de grado 2."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$18$",
           "is_correct": false,
           "feedback": "Incorrecto. Restaste la variable x de forma errónea."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La diferencia de cuadrados se factoriza como $x^2 - 324 = (x - 18)(x + 18)$. Al dividir entre $(x + 18)$, la expresión simplificada es $x - 18$.",
       "difficulty": "10",
       "images": [],
@@ -841,13 +841,13 @@
       "context": "En Manizales, Sofia simplifica una expresión algebraica cuadrática utilizada en el diseño de un parque local.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x - 20$",
           "is_correct": true,
           "feedback": "Correcto. Factorizando el numerador como diferencia de cuadrados $(x - 20)(x + 20)$, se cancela $(x + 20)$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x + 20$",
           "is_correct": false,
           "feedback": "Incorrecto. Cancelaste erróneamente el término $(x - p)$."
@@ -865,7 +865,7 @@
           "feedback": "Incorrecto. Restaste la variable x de forma errónea."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La diferencia de cuadrados se factoriza como $x^2 - 400 = (x - 20)(x + 20)$. Al dividir entre $(x + 20)$, la expresión simplificada es $x - 20$.",
       "difficulty": "10",
       "images": [],
@@ -887,13 +887,13 @@
       "context": "En Santa Marta, Diego simplifica una expresión algebraica cuadrática utilizada en el diseño de un parque local.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x - 21$",
           "is_correct": true,
           "feedback": "Correcto. Factorizando el numerador como diferencia de cuadrados $(x - 21)(x + 21)$, se cancela $(x + 21)$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x + 21$",
           "is_correct": false,
           "feedback": "Incorrecto. Cancelaste erróneamente el término $(x - p)$."
@@ -911,7 +911,7 @@
           "feedback": "Incorrecto. Restaste la variable x de forma errónea."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La diferencia de cuadrados se factoriza como $x^2 - 441 = (x - 21)(x + 21)$. Al dividir entre $(x + 21)$, la expresión simplificada es $x - 21$.",
       "difficulty": "10",
       "images": [],

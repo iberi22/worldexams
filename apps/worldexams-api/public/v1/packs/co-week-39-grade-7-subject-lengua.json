@@ -13,13 +13,13 @@
       "context": "En una fiesta de pueblo en los Andes colombianos, un trovador canta: \"En la punta de aquel cerro / yo tengo mi ranchito, / allí vivo muy tranquilo / con mi perro y mi gatito\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Diez versos que riman todos entre sí.",
           "is_correct": false,
           "feedback": "Esto sería una décima, no una copla."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Cuatro versos de arte menor que suelen rimar el segundo con el cuarto.",
           "is_correct": true,
           "feedback": "La copla se basa en la sencillez de la cuarteta, facilitando la improvisación y el canto."
@@ -37,7 +37,7 @@
           "feedback": "Esto sería una aliteración extrema o un juego de palabras, no una estructura de copla."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La copla es la unidad básica de la poesía popular en Colombia. Su estructura sencilla y musical permite que el pueblo exprese sus sentimientos, humor y sabiduría de manera directa y memorable.",
       "difficulty": "4",
       "images": [],
@@ -105,13 +105,13 @@
       "context": "Lee esta copla picante: \"Por aquí pasó una danta / con el rabo bien parado, / el que no lo crea que vaya / y le mire el otro lado\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Enseñar zoología sobre la anatomía de las dantas.",
           "is_correct": false,
           "feedback": "La danta es solo una excusa para el chiste y el juego de palabras."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Generar risa y complicidad entre los asistentes a una reunión social.",
           "is_correct": true,
           "feedback": "La copla popular a menudo usa el doble sentido y el humor para entretener y relajar el ambiente."
@@ -129,7 +129,7 @@
           "feedback": "Este tipo de coplas demuestran ingenio y chispa, no necesariamente seriedad académica."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La picardía es una característica central del folclor colombiano. La copla permite un espacio de libertad y juego verbal donde el humor sirve para fortalecer los lazos comunitarios.",
       "difficulty": "6",
       "images": [],
@@ -151,19 +151,19 @@
       "context": "Considera el refrán: \"Mucho tilín tilín y nada de paletas\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Cuando un heladero tiene muchas paletas para vender y hace mucho ruido.",
           "is_correct": false,
           "feedback": "Es una interpretación literal que no capta el sentido figurado del refrán."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Cuando alguien regala paletas a todos sus amigos sin hacer ruido.",
           "is_correct": false,
           "feedback": "El refrán critica precisamente la falta de resultados frente a mucha bulla."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Cuando una persona promete hacer muchas cosas importantes pero al final no cumple ninguna.",
           "is_correct": true,
           "feedback": "El \"tilín tilín\" es el ruido (promesa) y la \"paleta\" es el resultado real que falta."
@@ -175,7 +175,7 @@
           "feedback": "Aquí sí hubo \"paleta\" (resultado), por lo que el refrán no aplica."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Entender un refrán implica realizar una operation mental de traslación: llevar el significado de una imagen cotidiana (el heladero) a un concepto abstracto (la vanidad o la falta de cumplimiento).",
       "difficulty": "6",
       "images": [],
@@ -203,13 +203,13 @@
           "feedback": "Aunque rima, la opción B es la respuesta tradicional más conocida y pícara."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "\"...la próxima vez que pase / sin maceta, por favor\".",
           "is_correct": true,
           "feedback": "Introduce un giro humorístico (la flor venía con todo y maceta) que es típico del ingenio popular."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "\"...las flores son muy bonitas / y de muy lindo color\".",
           "is_correct": false,
           "feedback": "Es una frase plana que no tiene el remate ingenioso propio de la copla."
@@ -221,7 +221,7 @@
           "feedback": "Aunque rima con \"flor\", no tiene la estructura rítmica adecuada ni la chispa tradicional."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La copla suele tener un \"quiebre\" o remate en el último verso. Aprender a completarlas ayuda a desarrollar la conciencia fonológica y el sentido del humor lingüístico.",
       "difficulty": "6",
       "images": [],
@@ -335,19 +335,19 @@
       "context": "Compara estos dos refranes que parecen decir cosas opuestas:\n\n1. \"Al que madruga, Dios lo ayuda\".\n\n2. \"No por mucho madrugar amanece más temprano\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Que los refranes son mentiras porque se contradicen entre sí.",
           "is_correct": false,
           "feedback": "Los refranes son verdades relativas que dependen de la situación."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Que uno de los dos refranes está mal escrito y debe ser borrado.",
           "is_correct": false,
           "feedback": "Ambos son válidos y forman parte del patrimonio cultural."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Que cada refrán se aplica a una situación diferente: uno premia la diligencia y el otro advierte sobre la impaciencia.",
           "is_correct": true,
           "feedback": "La sabiduría popular reconoce que la realidad es compleja y que un consejo no sirve para todos los momentos."
@@ -359,7 +359,7 @@
           "feedback": "Es una conclusión que evita el análisis de la profundidad del consejo."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "El análisis de refranes contradictorios ayuda a desarrollar el pensamiento dialéctico. Muestra que la cultura popular es sabia al ofrecer diferentes perspectivas según el contexto del problema.",
       "difficulty": "8",
       "images": [],
@@ -427,19 +427,19 @@
       "context": "Imagina que un político usa constantemente refranes populares en sus discursos para convencer a la gente del campo de que voten por él.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Es excelente porque demuestra que el político sabe mucho sobre literatura oral.",
           "is_correct": false,
           "feedback": "Puede ser una pose aprendida, no necesariamente conocimiento real."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Es mala porque los políticos no deberían hablar como la gente del campo.",
           "is_correct": false,
           "feedback": "El problema no es el lenguaje, sino la intención detrás de su uso."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Puede ser una forma de manipulación para generar una falsa cercanía y confianza emocional sin dar propuestas reales.",
           "is_correct": true,
           "feedback": "El uso instrumental de la cultura popular puede servir para ocultar la falta de planes concretos de gobierno."
@@ -451,7 +451,7 @@
           "feedback": "Los refranes tienen su espacio en la oralidad y la cultura, no en la técnica jurídica."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "La evaluación final conecta la tradición oral con la vida ciudadana. El estudiante debe ser capaz de notar cuándo los recursos de la cultura popular se usan de manera genuina o cuándo se usan para persuadir de forma superficial o engañosa.\n\n[//]: # (QUALITY_REVIEW)\n| Criterio | Puntuación | Notas |\n| :--- | :---: | :--- |\n| Técnico | 30/30 | Estructura v5.2 correcta. |\n| Curricular | 40/40 | Análisis profundo de copla y refrán para grado 7. |\n| Contexto | 20/20 | Ejemplos locales colombianos y situaciones de la vida real. |\n| Redacción | 10/10 | Enunciados claros y explicaciones pedagógicas útiles. |\n| **Total** | **100/100** | |",
       "difficulty": "10",
       "images": [],

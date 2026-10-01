@@ -13,13 +13,13 @@
       "context": "Lea con atención el siguiente relato inspirado en el mito muisca de Bachué: \"Cuentan los muiscas que de la laguna de Iguaque salió una mujer hermosa llamada Bachué llevando de la mano a un niño. Caminaron hacia la tierra firme y se establecieron en el valle. Cuando el niño creció, Bachué se unió a él y juntos poblaron las tierras. De cada parto nacían seres que se multiplicaron por las montañas y los valles, hasta que la mujer, ya anciana, regresó con su compañero a la laguna y ambos se convirtieron en dos grandes serpientes que se hundieron en el agua\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "De la laguna de Iguaque.",
           "is_correct": true,
           "feedback": "El texto indica expresamente que Bachué salió de la laguna de Iguaque llevando de la mano a un niño."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "De una cueva en la sierra nevada.",
           "is_correct": false,
           "feedback": "El relato menciona la laguna de Iguaque, no una cueva."
@@ -37,7 +37,7 @@
           "feedback": "Bachué sale del agua de la laguna y luego camina hacia el valle."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La comprensión literal exige ubicar datos explícitos como el lugar de origen de los personajes en el relato mítico.",
       "difficulty": "4",
       "images": [],
@@ -59,19 +59,19 @@
       "context": "En el mito de Bachué, la mujer sale de la laguna con un niño, se une a él cuando crece y juntos pueblan las tierras, hasta que al final ambos regresan al agua convertidos en serpientes.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Una explicación sagrada del origen de los seres humanos y del poblamiento de su territorio.",
           "is_correct": true,
           "feedback": "Los mitos de origen explican cómo surgieron la humanidad y las comunidades, y otorgan sentido a su mundo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Una noticia histórica sobre un viaje de turismo a la laguna.",
           "is_correct": false,
           "feedback": "El relato posee un sentido sagrado y simbólico, no informativo ni turístico."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Un manual de instrucciones para navegar por los ríos.",
           "is_correct": false,
           "feedback": "El texto no enseña técnicas de navegación; narra el origen mítico de un pueblo."
@@ -83,7 +83,7 @@
           "feedback": "Aunque se narra a los niños, su función es explicar sagradamente el origen, no hacer reír."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Comprensión de la función del mito de origen como relato sagrado que explica la creación y el poblamiento.",
       "difficulty": "4",
       "images": [],
@@ -105,19 +105,19 @@
       "context": "Un abuelo muisca reúne a sus nietos alrededor del fogón y les narra el mito de Bachué para que conozcan de dónde vienen sus antepasados y respeten la laguna de Iguaque.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Transmitir la memoria y la identidad de su pueblo, y enseñar el respeto por la naturaleza sagrada.",
           "is_correct": true,
           "feedback": "Contar el mito busca conservar la tradición oral, la identidad cultural y el cuidado de los lugares sagrados."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Demostrar que las lagunas son peligrosas y deben evitarse por completo.",
           "is_correct": false,
           "feedback": "El respeto por la laguna no implica prohibir su existencia, sino valorarla como lugar sagrado."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Convencer a los niños de que viajen lejos de su comunidad.",
           "is_correct": false,
           "feedback": "El relato fortalece el vínculo con el territorio, no la idea de abandonarlo."
@@ -129,7 +129,7 @@
           "feedback": "El propósito es cultural y espiritual; no se menciona ninguna preparación culinaria."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Reconocimiento de la intención comunicativa de la tradición oral: conservar la identidad y los valores de una comunidad.",
       "difficulty": "6",
       "images": [],
@@ -151,13 +151,13 @@
       "context": "En el mito, Bachué y su compañero, ya ancianos, se convierten en dos grandes serpientes y se hunden en la laguna de Iguaque.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La metamorfosis simbólica, que expresa el vínculo sagrado entre los seres humanos y la naturaleza.",
           "is_correct": true,
           "feedback": "La transformación en animales es un símbolo frecuente en los mitos para mostrar la unión con la naturaleza y lo sagrado."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La rima consonante, que repite sonidos al final de cada verso.",
           "is_correct": false,
           "feedback": "El texto está escrito en prosa narrativa y no se organiza en versos con rima."
@@ -175,7 +175,7 @@
           "feedback": "No se imitan sonidos; se narra una transformación con sentido simbólico."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Identificación de recursos simbólicos propios del lenguaje mítico, como la metamorfosis.",
       "difficulty": "6",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "En el relato, la laguna de Iguaque es el lugar del que sale la vida y al que la vida regresa al final de la historia.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Es un símbolo de origen y de retorno, fuente de vida y de renovación para el pueblo muisca.",
           "is_correct": true,
           "feedback": "En muchos mitos el agua representa el principio de la vida, y su aparición al inicio y al final refuerza ese sentido."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Es un simple obstáculo que los personajes deben rodear.",
           "is_correct": false,
           "feedback": "La laguna no es un estorbo; es el espacio sagrado del que brota y al que vuelve la vida."
@@ -221,7 +221,7 @@
           "feedback": "Se trata de una laguna natural con valor sagrado, no de una obra humana."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Interpretación del valor simbólico del agua en los mitos de origen de las culturas indígenas.",
       "difficulty": "6",
       "images": [],
@@ -243,31 +243,31 @@
       "context": "Se comparan dos formas de explicar el origen de los muiscas: una narración científica que describe migraciones humanas antiguas y el mito de Bachué que habla de una mujer salida de la laguna.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "El mito explica el origen desde lo sagrado y simbólico, mientras la ciencia lo hace desde evidencias y datos comprobables.",
           "is_correct": true,
           "feedback": "El mito responde a preguntas existenciales con relatos sagrados; la ciencia busca explicaciones verificables."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El mito es falso y la ciencia es verdadera, por lo que el mito no tiene ningún valor.",
           "is_correct": false,
           "feedback": "Ambos cumplen funciones distintas; el mito aporta identidad y sentido, la ciencia aporta conocimiento verificable."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La ciencia también recurre a serpientes y lagunas mágicas para explicar el pasado.",
           "is_correct": false,
           "feedback": "La ciencia se basa en pruebas; no emplea elementos mágicos en sus explicaciones."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El mito y la ciencia dicen exactamente lo mismo con las mismas palabras.",
           "is_correct": false,
           "feedback": "Sus propósitos y métodos son diferentes, aunque puedan referirse al mismo tema."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Análisis comparativo entre el discurso mítico y el discurso científico como formas distintas de explicar el origen.",
       "difficulty": "8",
       "images": [],
@@ -289,31 +289,31 @@
       "context": "En el mito de Bachué la mujer cumple varios papeles: sale del agua, guía al niño, se une a él, puebla la tierra, envejece y regresa a la laguna convertida en serpiente.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Es la figura materna y fundadora que da origen al pueblo y luego se transforma en un ser sagrado.",
           "is_correct": true,
           "feedback": "Bachué encarna la madre primordial, guía, fundadora y finalmente deidad vinculada al agua."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Es una enemiga que destruye a los habitantes del valle.",
           "is_correct": false,
           "feedback": "Bachué no destruye; engendra y puebla el territorio con sus descendientes."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Es una viajera que nunca se detiene en ningún lugar.",
           "is_correct": false,
           "feedback": "Se establece en el valle, forma familia y funda el poblamiento."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Es un personaje secundario que solo aparece al final del relato.",
           "is_correct": false,
           "feedback": "Bachué es la protagonista y aparece desde el comienzo hasta el desenlace del mito."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Análisis de la evolución y el papel del personaje principal a lo largo de la narración mítica.",
       "difficulty": "8",
       "images": [],
@@ -335,31 +335,31 @@
       "context": "Un estudiante afirma: \"Los mitos indígenas como el de Bachué son inventos sin valor porque no se pueden comprobar con experimentos; por eso deberían dejar de contarse\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Los mitos no buscan comprobarse como la ciencia, sino transmitir identidad, valores y una forma de entender el mundo.",
           "is_correct": true,
           "feedback": "Los mitos cumplen una función cultural y espiritual; su valor no depende de la comprobación experimental."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El estudiante tiene razón porque solo lo comprobable merece ser contado.",
           "is_correct": false,
           "feedback": "Reducir el valor de un relato a su comprobación desconoce las funciones culturales de la tradición oral."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Los mitos deben reemplazarse por noticias periodísticas actuales.",
           "is_correct": false,
           "feedback": "La noticia informa hechos recientes; el mito conserva la memoria y la cosmovisión de un pueblo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Los mitos solo sirven como adorno decorativo en los libros escolares.",
           "is_correct": false,
           "feedback": "Los mitos son patrimonio cultural vivo que forma identidad y transmite saberes ancestrales."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Evaluación crítica del valor cultural y simbólico de los mitos de origen en la construcción de la identidad.",
       "difficulty": "10",
       "images": [],

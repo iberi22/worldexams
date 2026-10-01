@@ -13,19 +13,19 @@
       "context": "En La Paz, el estudiante Grover del Colegio Nacional Ayacucho analiza un problema sobre genética y herencia mendeliana.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "La ley de la segregación",
           "is_correct": true,
           "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a los alelos de un gen se separan durante la formación de gametos, de modo que cada gameto recibe un solo alelo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Ley de la uniformidad",
           "is_correct": false,
           "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ley de la distribución independiente",
           "is_correct": false,
           "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de genética y herencia mendeliana."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La respuesta correcta es La ley de la segregación. Científicamente, esto se explica por la separación física de los cromosomas homólogos durante la anafase I de la meiosis. Lo cual es fundamental para comprender genética y herencia mendeliana.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -58,13 +58,13 @@
       "context": "En Cochabamba, el estudiante Roxana del Unidad Educativa Don Bosco analiza un problema sobre genética y herencia mendeliana.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El genotipo",
           "is_correct": true,
           "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a conjunto de alelos y constitución genética específica de un organismo para un determinado carácter."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El fenotipo",
           "is_correct": false,
           "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La respuesta correcta es El genotipo. Científicamente, esto se explica por la composición de alelos heredados representados mediante letras simbólicas en estudios genéticos. Lo cual es fundamental para comprender genética y herencia mendeliana.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -103,13 +103,13 @@
       "context": "En Santa Cruz, el estudiante Jhonny del Colegio Bolívar analiza un problema sobre genética y herencia mendeliana.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El fenotipo",
           "is_correct": true,
           "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a manifestación física, anatómica o fisiológica observable de un carácter genético en un individuo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El genotipo",
           "is_correct": false,
           "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La respuesta correcta es El fenotipo. Científicamente, esto se explica por la interacción del genotipo con los factores ambientales del entorno biológico. Lo cual es fundamental para comprender genética y herencia mendeliana.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,19 +148,19 @@
       "context": "En El Alto, el estudiante Marisol del Colegio San Simón analiza un problema sobre genética y herencia mendeliana.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Homocigoto",
           "is_correct": true,
           "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a individuo que posee dos alelos idénticos para un gen específico en su par de cromosomas homólogos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Heterocigoto",
           "is_correct": false,
           "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Hemicigoto",
           "is_correct": false,
           "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de genética y herencia mendeliana."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La respuesta correcta es Homocigoto. Científicamente, esto se explica por la presencia de dos copias dominantes o dos copias recesivas del mismo alelo. Lo cual es fundamental para comprender genética y herencia mendeliana.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -238,13 +238,13 @@
       "context": "En Potosí, el estudiante Ronald del Unidad Educativa Juan Pablo II analiza un problema sobre genética y herencia mendeliana.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Cruces monohíbridos",
           "is_correct": true,
           "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a cruzamientos genéticos donde se analiza la transmisión y herencia de un solo carácter específico."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Cruces dihíbridos",
           "is_correct": false,
           "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
@@ -262,7 +262,7 @@
           "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La respuesta correcta es Cruces monohíbridos. Científicamente, esto se explica por la segregación clásica mendeliana de proporciones fenotípicas de 3:1 en la generación F2. Lo cual es fundamental para comprender genética y herencia mendeliana.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -328,13 +328,13 @@
       "context": "En Tarija, el estudiante Shirley del Colegio Nacional Pichincha analiza un problema sobre genética y herencia mendeliana.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Dominancia incompleta",
           "is_correct": true,
           "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a el fenotipo del heterocigoto es un estado intermedio mezclado entre los fenotipos de los padres homólogos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Codominancia",
           "is_correct": false,
           "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
@@ -352,7 +352,7 @@
           "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La respuesta correcta es Dominancia incompleta. Científicamente, esto se explica por la expresión atenuada donde ningún alelo anula por completo al otro en el heterocigoto. Lo cual es fundamental para comprender genética y herencia mendeliana.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -418,19 +418,19 @@
       "context": "En Cobija, el estudiante Franz del Colegio Nacional Florida analiza un problema sobre genética y herencia mendeliana.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Grupos sanguíneos abo",
           "is_correct": true,
           "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a ejemplo clásico de alelos múltiples y codominancia en poblaciones humanas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Sistema rh de sangre",
           "is_correct": false,
           "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Herencia ligada al sexo",
           "is_correct": false,
           "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de genética y herencia mendeliana."
@@ -442,7 +442,7 @@
           "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La respuesta correcta es Grupos sanguíneos abo. Científicamente, esto se explica por la presencia de tres alelos posibles (A, B, O) que determinan los antígenos de los glóbulos rojos. Lo cual es fundamental para comprender genética y herencia mendeliana.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -463,13 +463,13 @@
       "context": "En Tupiza, el estudiante Nancy del Colegio Nacional Ayacucho analiza un problema sobre genética y herencia mendeliana.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Herencia ligada al sexo",
           "is_correct": true,
           "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a transmisión de caracteres determinados por genes ubicados específicamente en los cromosomas sexuales X e Y."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Herencia autosómica",
           "is_correct": false,
           "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La respuesta correcta es Herencia ligada al sexo. Científicamente, esto se explica por el patrón de transmisión asimétrico entre machos y hembras debido al cromosoma X único masculino. Lo cual es fundamental para comprender genética y herencia mendeliana.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -508,13 +508,13 @@
       "context": "En Uyuni, el estudiante Edwin del Unidad Educativa Don Bosco analiza un problema sobre genética y herencia mendeliana.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La hemofilia",
           "is_correct": true,
           "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a trastorno recesivo ligado al cromosoma X que afecta la coagulación de la sangre en humanos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La anemia falciforme",
           "is_correct": false,
           "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La respuesta correcta es La hemofilia. Científicamente, esto se explica por la deficiencia de factores de coagulación heredada principalmente por varones a través de madres portadoras. Lo cual es fundamental para comprender genética y herencia mendeliana.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -553,13 +553,13 @@
       "context": "En Viacha, el estudiante Marcelo del Colegio Bolívar analiza un problema sobre genética y herencia mendeliana.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El daltonismo",
           "is_correct": true,
           "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a trastorno visual recesivo ligado al cromosoma X que impide la distinción correcta de colores rojo y verde."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La hemofilia",
           "is_correct": false,
           "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La respuesta correcta es El daltonismo. Científicamente, esto se explica por la alteración de los fotoreceptores de la retina codificados en el cromosoma sexual X. Lo cual es fundamental para comprender genética y herencia mendeliana.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -598,31 +598,31 @@
       "context": "En Quillacollo, el estudiante Freddy del Colegio San Simón analiza un problema sobre genética y herencia mendeliana.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Árbol genealógico (pedigree)",
           "is_correct": true,
           "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a diagrama que representa las relaciones de parentesco y la transmisión de un carácter genético en varias generaciones."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Cariograma de bandas",
           "is_correct": false,
           "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Mapa genético de enlace",
           "is_correct": false,
           "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de genética y herencia mendeliana."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Gráfico punnett",
           "is_correct": false,
           "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La respuesta correcta es Árbol genealógico (pedigree). Científicamente, esto se explica por la herramienta clínica para rastrear fenotipos hereditarios familiares y deducir genotipos. Lo cual es fundamental para comprender genética y herencia mendeliana.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -643,31 +643,31 @@
       "context": "En Sacaba, el estudiante René del Colegio Nacional Junín analiza un problema sobre genética y herencia mendeliana.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Cruce de prueba (testcross)",
           "is_correct": true,
           "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a cruzamiento de un individuo de fenotipo dominante con un homocigoto recesivo para determinar su genotipo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Cruce recíproco",
           "is_correct": false,
           "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Autofecundación pura",
           "is_correct": false,
           "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de genética y herencia mendeliana."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Cruzamiento dihíbrido",
           "is_correct": false,
           "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La respuesta correcta es Cruce de prueba (testcross). Científicamente, esto se explica por el análisis estadístico de la progenie para revelar heterocigosidad u homocigosidad dominante. Lo cual es fundamental para comprender genética y herencia mendeliana.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -688,19 +688,19 @@
       "context": "En Montero, el estudiante Lidia del Unidad Educativa Juan Pablo II analiza un problema sobre genética y herencia mendeliana.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Probabilidad de producto de eventos",
           "is_correct": true,
           "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a la probabilidad de que dos eventos genéticos independientes ocurran juntos se calcula multiplicando sus probabilidades."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Probabilidad de suma de eventos",
           "is_correct": false,
           "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Distribución binomial",
           "is_correct": false,
           "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de genética y herencia mendeliana."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La respuesta correcta es Probabilidad de producto de eventos. Científicamente, esto se explica por la aplicación de leyes de probabilidad matemática en eventos de segregación gamética simultánea. Lo cual es fundamental para comprender genética y herencia mendeliana.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -733,19 +733,19 @@
       "context": "En Riberalta, el estudiante Edwin del Colegio San Calixto analiza un problema sobre genética y herencia mendeliana.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Epistasis",
           "is_correct": true,
           "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a fenómeno genético donde un gen enmascara, interfiere o suprime la expresión de otro gen en un locus diferente."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Pleiotropía",
           "is_correct": false,
           "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Penetrancia incompleta",
           "is_correct": false,
           "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de genética y herencia mendeliana."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La respuesta correcta es Epistasis. Científicamente, esto se explica por la interacción génica no alélica que altera las proporciones fenotípicas mendelianas esperadas. Lo cual es fundamental para comprender genética y herencia mendeliana.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -778,13 +778,13 @@
       "context": "En Warnes, el estudiante Marcelo del Colegio Nacional Pichincha analiza un problema sobre genética y herencia mendeliana.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Pleiotropía",
           "is_correct": true,
           "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a un solo gen o mutación afecta múltiples caracteres fenotípicos no relacionados en el organismo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Epistasis",
           "is_correct": false,
           "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La respuesta correcta es Pleiotropía. Científicamente, esto se explica por los efectos sistémicos diversos producidos por una misma proteína disfuncional en tejidos distintos. Lo cual es fundamental para comprender genética y herencia mendeliana.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -823,19 +823,19 @@
       "context": "En Colcapirhua, el estudiante Lidia del Colegio Antonio Vaca Díez analiza un problema sobre genética y herencia mendeliana.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Herencia poligénica",
           "is_correct": true,
           "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a caracteres cuantitativos determinados por el efecto aditivo de múltiples genes, como la estatura o tono de piel."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Herencia monogénica",
           "is_correct": false,
           "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Herencia ligada al sexo",
           "is_correct": false,
           "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de genética y herencia mendeliana."
@@ -847,7 +847,7 @@
           "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La respuesta correcta es Herencia poligénica. Científicamente, esto se explica por la distribución de frecuencia fenotípica en forma de campana de Gauss en la población. Lo cual es fundamental para comprender genética y herencia mendeliana.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -868,19 +868,19 @@
       "context": "En Yacuiba, el estudiante Nancy del Colegio Nacional Florida analiza un problema sobre genética y herencia mendeliana.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Plasticidad fenotípica",
           "is_correct": true,
           "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a capacidad de un genotipo de producir diferentes fenotipos estables en respuesta a variaciones del ambiente."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Epistasis ambiental",
           "is_correct": false,
           "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Mutación inducida",
           "is_correct": false,
           "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de genética y herencia mendeliana."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La respuesta correcta es Plasticidad fenotípica. Científicamente, esto se explica por la modulación de la expresión de genes debido a factores como alimentación, luz o temperatura. Lo cual es fundamental para comprender genética y herencia mendeliana.\n\n---",
       "difficulty": "10",
       "images": [],

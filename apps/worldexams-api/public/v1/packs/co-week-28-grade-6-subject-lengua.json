@@ -13,31 +13,31 @@
       "context": "En un colegio de Bogotá, la profesora de lenguaje propone que los alumnos investiguen la vida de un científico colombiano y cuenten su historia desde el nacimiento hasta su aporte más reconocido.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "El relato de la vida de una persona real, contado por otra persona y basado en datos verificables.",
           "is_correct": true,
           "feedback": "Correcto. La biografía narra la vida de un personaje real y se apoya en datos comprobables."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La autobiografía que escribe el propio protagonista de su vida en primera persona.",
           "is_correct": false,
           "feedback": "Incorrecto. Esa descripción corresponde a la autobiografía, no a la biografía."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La descripción física de un personaje de ficción creado por un novelista.",
           "is_correct": false,
           "feedback": "Incorrecto. La biografía trata sobre personas reales, nunca sobre personajes de ficción."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El resumen de las obras de un autor sin datos sobre su vida.",
           "is_correct": false,
           "feedback": "Incorrecto. Un resumen de obras sin datos de vida es un comentario, no una biografía."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La biografía es un texto informativo que narra la vida de una persona real, desde su nacimiento hasta sus hechos más relevantes, y que se construye con datos verificables. Se diferencia de la autobiografía, que escribe el mismo protagonista en primera persona, y de los textos de ficción, que inventan personajes. Saber distinguirlas es el primer paso para leer con rigor una biografía.",
       "difficulty": "4",
       "images": [],
@@ -59,31 +59,31 @@
       "context": "En clase de Cali se comparan dos textos: uno empieza con \"Mi vida ha estado marcada por la investigación en el Chocó\" y el otro con \"Francisco José de Caldas nació en 1768 en la ciudad de Popayán\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "El primero es autobiográfico porque el autor habla de sí mismo; el segundo es biográfico porque habla de otra persona.",
           "is_correct": true,
           "feedback": "Correcto. El uso de \"mi vida\" en primera persona delata autobiografía; narrar a otro, biografía."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Ambos son biografías, porque en los dos casos se cuentan hechos de la vida de alguien.",
           "is_correct": false,
           "feedback": "Incorrecto. La diferencia no está en contar hechos, sino en quién los narra: yo u otro."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El primero es biográfico y el segundo autobiográfico, porque el orden está invertido.",
           "is_correct": false,
           "feedback": "Incorrecto. La distinción depende de la voz narrativa, no del lugar que ocupa cada texto."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El primero es un cuento y el segundo un artículo de opinión, porque ambos hablan en primera persona.",
           "is_correct": false,
           "feedback": "Incorrecto. Los dos textos son textos informativos; solo uno usa la voz del propio protagonista."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La diferencia entre biografía y autobiografía está en la voz narrativa. Cuando el protagonista usa \"yo\" o \"mi vida\", la autobiografía asume; cuando alguien narra la vida de otra persona con datos comprobables, es biografía. Reconocer esta diferencia permite clasificar correctamente los textos y saber qué tipo de información contiene cada uno.",
       "difficulty": "4",
       "images": [],
@@ -151,19 +151,19 @@
       "context": "En un colegio de Cartagena, una alumna escribe la biografía de un botánico colombiano que investigó las plantas de la región que lo vio crecer.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "La región donde vivió, las plantas que estudiaba y cómo sus hallazgos ayudaron a otras comunidades del país.",
           "is_correct": true,
           "feedback": "Correcto. Los tres datos conectan la persona, su trabajo y su efecto en el territorio."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El número de países del mundo y la capital de cada uno de ellos.",
           "is_correct": false,
           "feedback": "Incorrecto. Son datos geográficos generales que no explican la vida del personaje."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El menú de un restaurante de Cartagena y las canciones que se escuchan en la costa.",
           "is_correct": false,
           "feedback": "Incorrecto. Son detalles culturales que no aportan a entender la trayectoria del botánico."
@@ -175,7 +175,7 @@
           "feedback": "Incorrecto. Introducir otro personaje desvía el foco y rompe la unidad del texto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El contexto local hace comprensible y significativa una biografía: indica el territorio donde vivió el personaje, el entorno que lo formó y el alcance de su obra en la región. Estos datos no son adornos, porque ayudan a entender por qué su trabajo importó y a qué comunidades benefició. Descartar lo local deja una biografía sin contexto.",
       "difficulty": "6",
       "images": [],
@@ -197,31 +197,31 @@
       "context": "Un grupo de Bucaramanga está redactando la biografía de un líder comunitario y tiene tres párrafos: uno sobre su infancia, otro sobre su labor social y un tercero sobre su reconocimiento póstumo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Infancia, labor social y reconocimiento póstumo, porque sigue el orden cronológico de la vida.",
           "is_correct": true,
           "feedback": "Correcto. El orden cronológico es el más natural y comprensible para narrar una vida completa."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Reconocimiento póstumo, infancia y labor social, porque lo importante se presenta siempre primero.",
           "is_correct": false,
           "feedback": "Incorrecto. Invertir el orden dificulta la comprensión, porque falta el contexto de las etapas anteriores."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Infancia, reconocimiento póstumo y labor social, porque el premio se recibió antes del trabajo.",
           "is_correct": false,
           "feedback": "Incorrecto. Falsea la secuencia de los hechos y confunde al lector sobre el personaje."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Labor social, infancia y reconocimiento póstumo, porque así se empieza por lo más importante para la comunidad.",
           "is_correct": false,
           "feedback": "Incorrecto. Sin la infancia, el lector no entiende el origen de la persona narrada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La biografía suele organizarse de manera cronológica, y ese orden respeta la lógica de la vida: origen, formación, trayectoria y reconocimiento. Cuando el orden se altera, el lector pierde de vista la línea temporal y no puede dimensionar el alcance de los logros. Un buen narrador comprueba siempre en qué año ocurrió cada hecho antes de escribirlo.",
       "difficulty": "6",
       "images": [],
@@ -289,19 +289,19 @@
       "context": "Una biografía escolar sobre Gabriel García Márquez afirma que todos los premios que recibió los obtuvo antes de escribir su primera novela.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Es refutable, porque los premios literarios se otorgan por obras ya escritas y publicadas, no por una promesa de escritura.",
           "is_correct": true,
           "feedback": "Correcto. La cronología es falsa: un premio se concede por una obra, que debe existir antes."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Es válida, porque los premios se entregan al inicio de la carrera de cualquier escritor.",
           "is_correct": false,
           "feedback": "Incorrecto. Los premios se otorgan por trabajos y no anteceden la obra que los motiva."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Es válida, porque García Márquez recibió más premios que cualquier otro escritor vivo.",
           "is_correct": false,
           "feedback": "Incorrecto. El texto no menciona cantidad de premios ni los compara con otros autores."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecto. Los premios son datos biográficos legítimos; lo falso es la secuencia temporal."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Una afirmación es refutable cuando los datos disponibles contradicen lo que afirma. En este caso, la relación entre premio y obra hace imposible que todos los premios precedan a la primera novela. Criticar una biografía consiste en confrontar el dato con la realidad verificable, y no en suponer que ciertos temas están prohibidos o que la cantidad de premios demuestra algo.",
       "difficulty": "8",
       "images": [],
@@ -335,19 +335,19 @@
       "context": "Un grupo de estudiantes de Popayán va a leer una biografía extensa de un sabio colombiano y decide cómo organizar su lectura.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Subrayar los datos de cada etapa y unir el año con el hecho correspondiente, porque así se conserva la línea temporal.",
           "is_correct": true,
           "feedback": "Correcto. Asociar año y hecho permite seguir la cronología sin perder los datos clave."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Leer solo el primer y el último capítulo, porque la vida se entiende mejor si se leen los extremos.",
           "is_correct": false,
           "feedback": "Incorrecto. La información decisiva está en los capítulos intermedios, no en los extremos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Buscar las palabras más largas del texto, porque la extensión de las palabras indica la importancia de los hechos.",
           "is_correct": false,
           "feedback": "Incorrecto. El tamaño de las palabras no tiene relación con la relevancia de un dato biográfico."
@@ -359,7 +359,7 @@
           "feedback": "Incorrecto. Transcribir consume tiempo y no garantiza la comprensión del contenido."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Leer una biografía extensa exige una estrategia que preserve la organización del texto. Subrayar los datos y asociar cada hecho con su año permite reconstruir la línea temporal y detectar etapas, cambios y contradicciones. Esta técnica convierte la lectura en un registro útil que luego será la base del resumen escrito.",
       "difficulty": "8",
       "images": [],
@@ -381,19 +381,19 @@
       "context": "Una biografía de un líder político escrita en 1990 omite las controversias de su gobierno y presenta todos sus actos como aciertos. Otra biografía del mismo personaje, escrita en 2026, incluye los logros y también los errores.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "La segunda es más completa porque presenta luces y sombras, que es lo que permite valorar el legado de una figura.",
           "is_correct": true,
           "feedback": "Correcto. Un texto que incluye aciertos y errores ofrece una imagen equilibrada y útil para valorar."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La primera es mejor porque una biografía debe mostrar exclusivamente los logros de la persona narrada.",
           "is_correct": false,
           "feedback": "Incorrecto. Excluir los errores convierte el texto en un panfleto, no en una biografía veraz."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ambas son igualmente objetivas, porque el género biográfico siempre refleja la opinión del autor.",
           "is_correct": false,
           "feedback": "Incorrecto. Un buen texto biográfico busca hechos verificables, no la opinión del narrador."
@@ -405,7 +405,7 @@
           "feedback": "Incorrecto. Reconocer errores no daña la memoria; la oculta y sí impide un juicio honesto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Evaluar un texto biográfico exige examinar qué hechos selecciona y cuáles omite. Una presentación que solo destaca logros refleja un sesgo favorable; una que muestra aciertos y errores permite que el lector valore con fundamento el legado de la persona. La crítica no busca imponer un juicio personal, sino ver con claridad qué permite el texto y qué oculta.",
       "difficulty": "10",
       "images": [],
@@ -427,31 +427,31 @@
       "context": "En un trabajo grupal de Medellín, el 60 por ciento de la biografía de una científica colombiana proviene de un sitio web sin autor, mientras el 40 por ciento restante se apoya en artículos de revistas científicas con autor y fecha.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "El texto es parcialmente confiable, pero debe reforzar la parte científica con datos atribuidos y verificables.",
           "is_correct": true,
           "feedback": "Correcto: distingue el valor de cada fuente y propone la mejora específica que corresponde."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El texto es descartable en su totalidad, porque una sola fuente sin autor invalida todo el trabajo.",
           "is_correct": false,
           "feedback": "Incorrecto. La parte con fuentes científicas conserva su valor y puede reforzarse con una fuente válida."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El texto es impecable, porque la proporción de fuentes científicas demuestra que todo el contenido es cierto.",
           "is_correct": false,
           "feedback": "Incorrecto. Una buena proporción no corrige el uso de fuentes sin autor ni sus posibles errores."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El texto debe reescribirse por completo, porque toda biografía con datos sin autor está prohibida por el MEN.",
           "is_correct": false,
           "feedback": "Incorrecto. El MEN exige fuentes confiables, no prohíbe todo dato que provenga de un sitio web."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Un juicio proporcionado evalúa el conjunto y sus partes por separado. Cuando una parte del texto se apoya en fuentes con autoría y fecha verificable, y otra en material anónimo, la respuesta correcta reconoce el valor de la primera y exige reforzar la segunda con datos atribuidos. Esta forma de evaluar evita tanto la credulidad como el descarte injustificado.",
       "difficulty": "10",
       "images": [],

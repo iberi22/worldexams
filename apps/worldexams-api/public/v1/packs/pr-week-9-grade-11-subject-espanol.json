@@ -19,25 +19,25 @@
           "feedback": "Incorrecto. Esta falacia sostiene que algo es verdadero solo porque no se ha demostrado que sea falso."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Falacia de ataque personal (ad hominem)",
           "is_correct": true,
           "feedback": "¡Correcto! La falacia ad hominem descalifica la propuesta del oponente (el plan de reciclaje) atacando un aspecto de su vida privada (el divorcio), que carece de relación lógica con el tema de la gestión de residuos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Falacia de apelación al pueblo (ad populum).",
           "is_correct": false,
           "feedback": "Incorrecto. Esta falacia defiende una idea argumentando que la mayoría de la gente la apoya, ausente en este ataque privado."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Falacia de la causa falsa (post hoc, ergo propter hoc).",
           "is_correct": false,
           "feedback": "Incorrecto. Establece de forma errónea que un evento anterior causó de forma obligatoria un evento posterior."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La falacia *ad hominem* (ataque al hombre) consiste en atacar a la persona que formula un argumento en lugar de refutar la validez lógica del argumento o propuesta en sí. En el panfleto de San Juan, el estado civil del oponente es totalmente irrelevante para evaluar la viabilidad técnica de su plan ecológico.\n\n---",
       "difficulty": "3",
       "images": [],
@@ -103,13 +103,13 @@
       "context": "Un texto de opinión que debate sobre el presupuesto escolar de Carolina señala: \"La secretaria de educación apoya la educación bilingüe; por lo tanto, ella odia de forma incondicional el idioma español de nuestro país de gratis y desea la asimilación total estadounidense\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Falacia de apelación a la ignorancia de Carolina.",
           "is_correct": false,
           "feedback": "Incorrecto. No se argumenta sobre la falta de pruebas o ignorancia del público sobre el idioma."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Falacia del hombre de paja (distorsión de la postura del oponente)",
           "is_correct": true,
           "feedback": "¡Correcto! Se caricaturiza, simplifica de manera absurda y distorsiona de forma extrema la propuesta razonable de la secretaria (enseñar inglés o idiomas) para presentarla como un odio incondicional al español de Puerto Rico, facilitando un ataque fácil e injusto."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. No se ataca su moral privada o biografía de la secretaria; se distorsiona de forma extrema su propuesta educativa para atacarla (hombre de paja)."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La falacia del hombre de paja consiste en distorsionar, exagerar o caricaturizar de forma deshonesta el argumento del oponente para poder atacarlo con mayor facilidad. Que la secretaria apoye la enseñanza del inglés (bilingüismo) no equivale lógicamente a que \"odie el idioma español\", inferencia capciosa del detractor.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,19 +148,19 @@
       "context": "Un foro de análisis sobre el cambio climático en Mayagüez aborda las celdas solares: \"O instalamos placas fotovoltaicas en todos los techos del país antes de diciembre, o apoyamos el monopolio corrupto de la energía fósil de la isla\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Falacia del falso dilema (falsa dicotomía)",
           "is_correct": true,
           "feedback": "¡Correcto! La falacia del falso dilema obliga de forma artificial a elegir entre dos únicas opciones de carácter extremo (energía solar exprés versus corrupción fósil), ocultando de forma maliciosa alternativas intermedias sensatas como transiciones ordenadas o híbridas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Falacia de la pendiente resbaladiza de Carolina.",
           "is_correct": false,
           "feedback": "Incorrecto. No plantea una cadena causal exagerada de desastres extremos; obliga a elegir de forma restrictiva entre dos polos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Falacia de apelación a la fuerza o temor (ad baculum).",
           "is_correct": false,
           "feedback": "Incorrecto. No se ejerce un castigo físico directo o amenaza de violencia para imponer la compra del panel solar."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. No se reduce de manera errónea dos efectos paralelos a una sola causa común atmosférica de la costa."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La falacia del falso dilema o falsa dicotomía restringe de manera capciosa el campo de la deliberación ética o política a dos únicos polos excluyentes. Enmascara la complejidad real del debate sobre la transición energética en Puerto Rico al ignorar opciones progresivas o de orden híbrido.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -193,13 +193,13 @@
       "context": "Lee el siguiente fragmento de una columna que analiza la seguridad vial en Ponce: \"Un estudio publicado por una marca extranjera de llantas de auto de lujo afirma que sus neumáticos reducen en un 80% los accidentes de tránsito en la isla. Por lo tanto, el gobierno debe exigir de gratis por ley que todos los puertorriqueños compren esta marca de llantas de lujo para evitar las muertes en las carreteras de Ponce\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El sesgo de la representatividad geográfica de la muestra de Ponce.",
           "is_correct": false,
           "feedback": "Incorrecto. El problema no reside en las calles de Ponce analizadas, sino en la procedencia interesada de los fondos de la investigación."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Conflicto de interés y sesgo de la fuente comercial interesada",
           "is_correct": true,
           "feedback": "¡Correcto! El estudio es financiado y publicado por la propia marca de llantas que se beneficiaría comercialmente si el gobierno aprueba la ley que obliga a comprarlas, invalidando el rigor ético y de imparcialidad científica de la argumentación."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. El texto no ataca personalmente a nadie de El Yunque ni a científicos; asume un estudio comercial interesado como verdad absoluta de ley."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El análisis crítico del discurso evalúa la imparcialidad de los datos. Un estudio financiado por una entidad comercial que lucra directamente con la conclusión del informe carece de la independencia necesaria para orientar de manera objetiva las leyes de seguridad de Puerto Rico.\n\n---",
       "difficulty": "5",
       "images": [],
@@ -289,13 +289,13 @@
           "feedback": "Incorrecto. El fragmento no obliga a elegir de forma restrictiva entre dos polos; describe un encadenamiento catastrófico futuro."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Falacia de la pendiente resbaladiza (cadena de catástrofes sin pruebas)",
           "is_correct": true,
           "feedback": "¡Correcto! El proponente sostiene que un cambio menor inicial (privatizar una sola cuerda) desencadenará de forma inevitable y sin aportar justificaciones o pruebas legales intermedias una catástrofe total (el cierre absoluto de todas las playas de Puerto Rico)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Falacia ad hominem de descalificación de los hoteleros de Ponce.",
           "is_correct": false,
           "feedback": "Incorrecto. No ataca la vida privada de los hoteleros; plantea una exageración de causas y efectos."
@@ -307,7 +307,7 @@
           "feedback": "Incorrecto. No se basa en la falta de información de aduanas, sino en la exageración de consecuencias futuras."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La pendiente resbaladiza es una falacia de orden causal. El emisor asume con fines de asustar o convencer que realizar una pequeña concesión o acto conducirá de manera catastrófica e irreversible a un abismo de ruina total, omitiendo que existen leyes de zonificación y balances de orden civil para regular cada paso.\n\n---",
       "difficulty": "5",
       "images": [],
@@ -328,13 +328,13 @@
       "context": "En un debate estudiantil en Carolina, un detractor de los cursos de oratoria escolar argumenta: \"La oratoria no sirve para nada útil. No podemos confiar en los discursos bellos de los maestros porque el gran orador clásico romano Cicerón fue ejecutado por traición al imperio romano en la antigüedad clásica latina\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Falacia ad populum de popularidad de las redes sociales.",
           "is_correct": false,
           "feedback": "Incorrecto. No apela al voto popular del público de Carolina en su discurso de oratoria."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Falacia de conclusión irrelevante o evasión (ignoratio elenchi) de la materia útil",
           "is_correct": true,
           "feedback": "¡Correcto! El detractor evade juzgar la utilidad real de la oratoria escolar en la actualidad (grado 11) desviando de forma absurda la atención hacia el trágico destino personal e histórico de Cicerón en la antigua Roma, que carece de relación lógica con el beneficio de aprender oratoria en las aulas."
@@ -352,7 +352,7 @@
           "feedback": "Incorrecto. No repite la tesis de forma idéntica en la premisa e incluye el solecismo prohibido de gratis."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La falacia *ignoratio elenchi* (conclusión irrelevante o evasión del tema) consiste en plantear un argumento que puede ser verdadero en sí mismo (el hecho histórico del asesinato de Cicerón) pero que no guarda ninguna relación lógica ni prueba la tesis que se está debatiendo (el valor de los cursos de oratoria contemporáneos del DEPR).\n\n---",
       "difficulty": "6",
       "images": [],
@@ -475,19 +475,19 @@
           "feedback": "Incorrecto. No se basa en la falta de pruebas; asienta el \"de gratis\" como solecismo y desvía la argumentación."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Falacia del hombre de paja (caricaturizar la propuesta para atacarla con mayor facilidad)",
           "is_correct": true,
           "feedback": "¡Correcto! El defensor de los uniformes escolares caricaturiza de manera absurda la demanda sensata de libertad estética de los alumnos equiparándola con \"venir descalzos o rotos\", creando un muñeco de paja fácil de golpear para evitar el debate serio."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Falacia ad hominem contra los directores de distrito de Carolina de la isla.",
           "is_correct": false,
           "feedback": "Incorrecto. No ataca la vida personal o biografía de los directores de Carolina en el pasaje de San Juan."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La falacia del hombre de paja es un recurso deshonesto muy común en los debates públicos. En lugar de refutar los argumentos serios a favor de la libertad de vestimenta del alumno, el detractor inventa una versión extrema, ridícula e insostenible del reclamo para asustar al público y dar por ganada la discusión.\n\n---",
       "difficulty": "7",
       "images": [],
@@ -604,13 +604,13 @@
           "feedback": "Incorrecto. El sesgo de anclaje consiste en depender de forma excesiva de la primera información recibida al tomar decisiones de precios o cifras, ausente aquí."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Sesgo de confirmación (tendencia a buscar, interpretar y valorar de forma desmedida solo los datos que confirman las creencias previas)",
           "is_correct": true,
           "feedback": "¡Correcto! El sesgo de confirmación lleva a las personas a ignorar selectivamente los datos discrepantes con su postura e idealizar los datos concordantes, impidiendo el pensamiento crítico y la coherencia del análisis científico."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Sesgo del halo del Viejo San Juan de gratis.",
           "is_correct": false,
           "feedback": "Incorrecto. El efecto halo transfiere de forma errónea una característica positiva general a rasgos específicos de un individuo; además introduce el solecismo prohibido de gratis."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. No guarda relación con la evaluación empírica de probabilidades de tormentas tropicales de Cabo Rojo de la isla."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El sesgo de confirmación es uno de los obstáculos más graves para el desarrollo del pensamiento crítico formal que rige el DEPR. Impide que el estudiante pondere con objetividad e imparcialidad las evidencias de la contraparte, forzando la redacción de ensayos dogmáticos o asimétricos sustentados en el autoengaño selectivo.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -643,13 +643,13 @@
       "context": "Un texto que analiza de manera crítica la propaganda comercial en la televisión de la isla señala: \"Al asociar el éxito social y el romance juvenil con el consumo de marcas exclusivas de cerveza en las playas de San Juan, el anuncio de televisión manipula los anhelos de pertenencia para enmascarar los efectos nocivos del alcoholismo\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Falsa equivalencia y asociación ilusoria entre el consumo de una bebida alcohólica nociva y la consecución del éxito social y afectivo.",
           "is_correct": true,
           "feedback": "¡Correcto! La propaganda comercial asocia de manera espuria e ilusoria un producto químico adictivo (cerveza) con valores ideales abstractos altamente deseables (amor, éxito, pertenencia de grupo en la playa), silenciando con mala fe las consecuencias médicas del vicio."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Una falacia ad hominem de descalificación de los guardabosques de El Yunque.",
           "is_correct": false,
           "feedback": "Incorrecto. La propaganda no agrede a los científicos o ecologistas; asocia de manera feliz el alcohol con el romance costero."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. No se argumenta sobre la falta de pruebas de tránsito, sino sobre la asociación de felicidad y cerveza."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La deconstrucción del discurso de mercadeo devela cómo opera la manipulación semiótica. Al crear una asociación ilusoria entre la cerveza y la felicidad juvenil en las playas caribeñas de San Juan, la publicidad desvía la atención del consumidor de la realidad empírica y del riesgo biológico de la adicción, erigiendo altares comerciales de consumo feliz.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -694,13 +694,13 @@
           "feedback": "Incorrecto. No asume una relación cronológica de eventos pasados de Ponce; describe una profecía desastrosa del futuro de la isla."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Falacia de la pendiente resbaladiza (asumir consecuencias extremas desastrosas sin aportar justificaciones o pruebas empíricas del nexo)",
           "is_correct": true,
           "feedback": "¡Correcto! El autor de la columna asume que un recorte presupuestario (un hecho grave) conducirá de forma matemática e inevitable, en una cadena de catástrofes extremas de dos años, a la \"destrucción total de la educación superior en la isla\", ignorando amortiguaciones institucionales intermedias."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Falacia ad hominem de descalificación de los profesores de Bayamón.",
           "is_correct": false,
           "feedback": "Incorrecto. No se ataca personalmente a los educadores de Bayamón; se asume una exageración causal extrema de ruina universitaria."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. No se apoya en encuestas populares masivas de Carolina e introduce el solecismo prohibido de gratis."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La pendiente resbaladiza es una falacia común en el periodismo y los discursos políticos de alarma. Aunque el recorte de fondos universitarios de la UPR sea una medida grave que de hecho perjudica la investigación, argumentar que causará de forma matemática e inevitable la desaparición total de la educación superior en dos años constituye una exageración sin sustento científico de la isla.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -733,19 +733,19 @@
       "context": "Un editorial periodístico analiza críticamente un comunicado corporativo sobre la quema de carbón en Guayama: \"La empresa de energía de Guayama afirma que la ceniza de carbón acumulada en el sur es un material inerte, tan inofensivo para la salud humana como la arena de nuestras playas de Ponce, alegando que los científicos que denuncian el asma infantil en la zona de Guayama son activistas políticos extremistas enemigos del progreso industrial del país\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Apelar a la piedad (ad misericordiam) de los cangrejos de Cabo Rojo de gratis.",
           "is_correct": false,
           "feedback": "Incorrecto. La empresa no da muestras de lástima ni de discursos de piedad, e introduce el solecismo \"de gratis\"."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Utilizar estadísticas de agrimensura y mapas geográficos de Vieques.",
           "is_correct": false,
           "feedback": "Incorrecto. No se presentan mapas de Vieques ni planos catastrales en esta defensa de la quema de carbón en Guayama."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Falsa analogía (comparar la ceniza tóxica con la arena inofensiva) y falacia ad hominem (descalificar las denuncias médicas tachando a los científicos de extremistas políticos enemigos del progreso).",
           "is_correct": true,
           "feedback": "¡Correcto! La empresa opera con dos desvíos ideológicos graves: equipara falsamente un residuo industrial cargado de metales pesados con la arena limpia de la playa (falsa analogía), y descalifica de forma tramposa las alertas de asma infantil agrediendo la moral de los denunciantes (ad hominem circunstancial)."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. Presenta el solecismo de gratis y desvía la argumentación hacia el idioma latín medieval inerte ajeno al asma de Guayama."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "El análisis crítico del discurso revela cómo las multinacionales de la energía fósil instrumentalizan las falacias para evadir responsabilidades de salud pública. La falsa analogía busca restarle gravedad biológica a la ceniza de carbón, mientras que el ataque *ad hominem* desvía la atención del lector de las evidencias médicas del asma infantil para centrarla en una supuesta conspiración política extremista inerte.\n\n---",
       "difficulty": "9",
       "images": [],

@@ -19,13 +19,13 @@
           "feedback": "Esta es una función potencia, no exponencial (la x está en la base)."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$f(x) = a^x$",
           "is_correct": true,
           "feedback": "Correcto. La variable independiente se encuentra en el exponente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$f(x) = \\log_a x$",
           "is_correct": false,
           "feedback": "Esta es la función logarítmica, inversa de la exponencial."
@@ -37,7 +37,7 @@
           "feedback": "Es una función lineal."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Una función exponencial se caracteriza por tener una base constante positiva y distinta de 1 ($a > 0, a \\neq 1$) y la variable independiente en el exponente. Representa procesos de crecimiento o decrecimiento muy acelerados.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -103,19 +103,19 @@
       "context": "Un estudiante en Valencia calcula el valor de una función exponencial neperiana.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "1",
           "is_correct": false,
           "feedback": "e elevado a 0 es 1."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "10",
           "is_correct": false,
           "feedback": "Esta es la base de los logaritmos decimales."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "2,718",
           "is_correct": true,
           "feedback": "Correcto. El número e es la base de los logaritmos naturales y vale aproximadamente 2,71828..."
@@ -127,7 +127,7 @@
           "feedback": "Este es el valor del número pi."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "La función exponencial con base $e$ es fundamental en cálculo. Evaluar en 1 nos devuelve el valor de la propia constante irracional $e$, que surge de los límites del crecimiento compuesto continuo.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -193,19 +193,19 @@
       "context": "Un biólogo en Bilbao observa que una población de bacterias se duplica cada hora: $P(t) = P_0 \\cdot 2^t$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "500",
           "is_correct": false,
           "feedback": "Esto sería un crecimiento lineal (100 por hora)."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "1.000",
           "is_correct": false,
           "feedback": "Error de cálculo."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "3.200",
           "is_correct": true,
           "feedback": "Correcto. $P(5) = 100 \\cdot 2^5 = 100 \\cdot 32 = 3.200$."
@@ -217,7 +217,7 @@
           "feedback": "Este sería el valor a las 6 horas."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "El crecimiento exponencial se caracteriza por multiplicar la población en cada intervalo de tiempo. En 5 horas, la población inicial se ha multiplicado por $2^5$ (32 veces).\n\n---",
       "difficulty": "6",
       "images": [],
@@ -244,13 +244,13 @@
           "feedback": "El logaritmo no admite argumentos negativos ni cero."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$x \\geq 3$",
           "is_correct": false,
           "feedback": "El valor x = 3 anularía el argumento, y el logaritmo de 0 no existe."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x > 3$",
           "is_correct": true,
           "feedback": "Correcto. El argumento debe ser estrictamente positivo: $x - 3 > 0 \\Rightarrow x > 3$."
@@ -262,7 +262,7 @@
           "feedback": "El argumento sería negativo."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "El dominio de una función logarítmica está restringido a los valores que hacen que su argumento sea positivo. Gráficamente, esto se traduce en una asíntota vertical en el valor que anula el argumento.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -289,25 +289,25 @@
           "feedback": "En este caso la función es creciente."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Cuando 0 < a < 1.",
           "is_correct": true,
           "feedback": "Correcto. Al elevar una fracción propia a exponentes mayores, el resultado disminuye."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Cuando a < 0.",
           "is_correct": false,
           "feedback": "La base no puede ser negativa en las funciones exponenciales reales."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Siempre es decreciente.",
           "is_correct": false,
           "feedback": "Depende del valor de la base."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Si la base está entre 0 y 1 (como 0,5), multiplicar sucesivamente por la base reduce el valor total, generando una curva que se acerca al eje X pero nunca lo toca.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -334,25 +334,25 @@
           "feedback": "Este es el valor de la amplitud relativa, no de la magnitud logarítmica."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "4",
           "is_correct": true,
           "feedback": "Correcto. $M = \\log(10.000) = \\log(10^4) = 4$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "2",
           "is_correct": false,
           "feedback": "log(100) = 2."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "5",
           "is_correct": false,
           "feedback": "log(100.000) = 5."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Las escalas logarítmicas como la Richter o el pH comprimen grandes rangos de valores en números pequeños y manejables. Un aumento de 1 unidad en la magnitud Richter equivale a multiplicar por 10 la intensidad.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -469,13 +469,13 @@
           "feedback": "Es una función cuadrática, crece rápido pero no tanto como una exponencial."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$f(x) = 100x + 500$",
           "is_correct": false,
           "feedback": "Es lineal, su tasa de crecimiento es constante."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$f(x) = 1,1^x$",
           "is_correct": true,
           "feedback": "Correcto. Cualquier exponencial con base > 1 acabará superando a cualquier polinomio."
@@ -487,7 +487,7 @@
           "feedback": "Su crecimiento es extremadamente lento (sublineal)."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "El crecimiento exponencial es superior al crecimiento polinómico. Aunque al principio $x^2$ pueda ser mayor que $1,1^x$, existe un valor crítico a partir del cual la exponencial domina siempre.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -604,13 +604,13 @@
           "feedback": "$2^{4-4} = 2^0 = 1$."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "x = 7",
           "is_correct": true,
           "feedback": "Correcto. $2^{x-4} = 2^3 \\Rightarrow x-4=3 \\Rightarrow x=7$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "x = 12",
           "is_correct": false,
           "feedback": "Valor demasiado alto."
@@ -622,7 +622,7 @@
           "feedback": "Error de cálculo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Igualamos las bases: 8 se puede escribir como $2^3$. Al tener la misma base en ambos miembros, igualamos los exponentes y resolvemos la ecuación lineal resultante.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -649,25 +649,25 @@
           "feedback": "No puede tomar valores negativos ni cero."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Los reales positivos $(0, \\infty)$.",
           "is_correct": true,
           "feedback": "Correcto. Una potencia de base positiva siempre es mayor que cero."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Los reales no negativos $[0, \\infty)$.",
           "is_correct": false,
           "feedback": "El cero no se alcanza nunca (es una asíntota)."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Solo números enteros.",
           "is_correct": false,
           "feedback": "Puede tomar cualquier valor real positivo (ej. 5^0,5 = √5)."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La función exponencial $a^x$ nunca arroja un resultado negativo ni nulo. Por ello, su gráfica se sitúa íntegramente por encima del eje de abscisas.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -688,19 +688,19 @@
       "context": "Un estudiante resuelve una ecuación logarítmica con una base distinta a 10 o e.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "x = 5",
           "is_correct": false,
           "feedback": "$2^3 = 8$, no 6."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "x = 8",
           "is_correct": false,
           "feedback": "Error al no restar el 1 del argumento."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "x = 7",
           "is_correct": true,
           "feedback": "Correcto. $x+1 = 2^3 = 8 \\Rightarrow x = 7$."
@@ -712,7 +712,7 @@
           "feedback": "Error de cálculo."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Aplicamos la definición de logaritmo: el argumento debe ser igual a la base elevada al resultado. Luego resolvemos la ecuación de primer grado que queda para hallar $x$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -739,13 +739,13 @@
           "feedback": "Error conceptual."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "d = 3,5",
           "is_correct": true,
           "feedback": "Correcto. $1/2 = e^{-0,2d} \\Rightarrow \\ln(0,5) = -0,2d \\Rightarrow -0,7 = -0,2d \\Rightarrow d = 3,5$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "d = 2",
           "is_correct": false,
           "feedback": "Valor incorrecto."
@@ -757,7 +757,7 @@
           "feedback": "Error en el factor decimal."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Este es el concepto de \"semivida\" o \"distancia de semiatenuación\". Resolvemos la ecuación exponencial igualando el factor multiplicativo a 0,5 y usando logaritmos naturales para despejar la distancia.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -784,13 +784,13 @@
           "feedback": "Estas son las soluciones para z = 2^x, falta hallar x."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "x = 0 y x = 2",
           "is_correct": true,
           "feedback": "Correcto. Si $z=2^x$, $z^2-5z+4=0 \\Rightarrow z=1, z=4$. Entonces $2^x=1 \\Rightarrow x=0$ y $2^x=4 \\Rightarrow x=2$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Solo x = 2",
           "is_correct": false,
           "feedback": "Falta la solución x = 0."
@@ -802,7 +802,7 @@
           "feedback": "Tiene dos soluciones exactas."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Usamos el cambio de variable $z = 2^x$ para convertir la expresión exponencial en una ecuación de segundo grado. Tras hallar $z$, deshacemos el cambio usando logaritmos o igualación de bases para encontrar los valores de $x$.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -829,13 +829,13 @@
           "feedback": "El desplazamiento horizontal se convierte en vertical pero con signo opuesto."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$f^{-1}(x) = \\ln(x) - 2$",
           "is_correct": true,
           "feedback": "Correcto. $y = e^{x+2} \\Rightarrow \\ln y = x+2 \\Rightarrow x = \\ln y - 2$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$f^{-1}(x) = \\ln(x-2)$",
           "is_correct": false,
           "feedback": "Error en el despeje de la variable."
@@ -847,7 +847,7 @@
           "feedback": "Esto no es la función logarítmica."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Para hallar la inversa, intercambiamos los roles de $x$ e $y$ y despejamos la nueva $y$. Aplicamos logaritmos naturales para liberar la variable del exponente y ajustamos los términos constantes.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -874,25 +874,25 @@
           "feedback": "ln(1) = 0, pero cerca de 0 la función cae."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$-\\infty$",
           "is_correct": true,
           "feedback": "Correcto. A medida que x se acerca a 0 por la derecha, el logaritmo se vuelve arbitrariamente negativo (asíntota vertical)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$+\\infty$",
           "is_correct": false,
           "feedback": "Esto ocurre cuando x tiende a infinito."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "No existe el límite lateral.",
           "is_correct": false,
           "feedback": "Sí existe y es divergente al infinito negativo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La función logarítmica tiene una asíntota vertical en $x=0$. Como la base $e$ es mayor que 1, valores muy pequeños de $x$ (fracciones muy pequeñas) requieren exponentes negativos muy grandes, por lo que la función tiende a menos infinito.\n\n---\n\n[//]: # (QUALITY_REVIEW)\n| Dimensión | Puntuación |\n|-----------|------------|\n| Técnico | 30/30 |\n| Curricular | 40/40 |\n| Contexto | 20/20 |\n| Redacción | 10/10 |\n| **Total** | **100/100** |",
       "difficulty": "10",
       "images": [],

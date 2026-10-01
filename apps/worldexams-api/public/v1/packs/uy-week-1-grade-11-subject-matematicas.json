@@ -19,25 +19,25 @@
           "feedback": "Incorrecto. Los naturales son los números de conteo positivos; $-7$ es negativo."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Enteros ($\\mathbb{Z}$)",
           "is_correct": true,
           "feedback": "¡Correcto! $-7$ es un entero negativo, elemento de $\\mathbb{Z}$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Irracionales ($\\mathbb{I}$)",
           "is_correct": false,
           "feedback": "Incorrecto. Los irracionales tienen expansión decimal infinita no periódica; $-7$ es exacto."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Primos",
           "is_correct": false,
           "feedback": "Incorrecto. Los números primos son naturales mayores que 1 con solo dos divisores."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Los enteros $\\mathbb{Z}$ incluyen los naturales, el cero y los negativos. Como $-7$ es un número completo negativo, pertenece a $\\mathbb{Z}$ y, por extensión, a $\\mathbb{Q}$ y $\\mathbb{R}$.",
       "difficulty": "4",
       "images": [],
@@ -70,19 +70,19 @@
           "feedback": "Incorrecto. Toda fracción de enteros es un número racional."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "$\\sqrt{2}$",
           "is_correct": true,
           "feedback": "¡Correcto! $\\sqrt{2}$ no puede expresarse como fracción de enteros; su decimal es infinito no periódico."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$-4$",
           "is_correct": false,
           "feedback": "Incorrecto. $-4$ es un número entero, y todo entero es racional."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Un número es irracional si no puede escribirse como $\\frac{a}{b}$ con $a, b$ enteros. Las raíces cuadradas de naturales que no son cuadrados perfectos, como $\\sqrt{2}$, son irracionales.",
       "difficulty": "4",
       "images": [],
@@ -148,13 +148,13 @@
       "context": "Un carpintero de Colonia del Sacramento estima medidas entre raíces cuadradas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "3",
           "is_correct": false,
           "feedback": "Incorrecto. Falta contar un entero; revisá las cotas $3.16...$ y $7.07...$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "4",
           "is_correct": true,
           "feedback": "¡Correcto! Entre $3.16...$ y $7.07...$ están los enteros 4, 5, 6 y 7."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. Ese número surge de restar los radicandos $50 - 10$, no de ubicar las raíces en la recta."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Como $\\sqrt{10} \\approx 3.16$ y $\\sqrt{50} \\approx 7.07$, los enteros estrictamente intermedios son 4, 5, 6 y 7: cuatro en total. Acotar raíces entre cuadrados perfectos cercanos agiliza la estimación.",
       "difficulty": "4",
       "images": [],
@@ -193,19 +193,19 @@
       "context": "Un técnico en Montevideo calcula diferencias de temperatura usando valores absolutos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "7",
           "is_correct": true,
           "feedback": "¡Correcto! $|-12| = 12$ y $|5| = 5$, entonces $12 - 5 = 7$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "17",
           "is_correct": false,
           "feedback": "Incorrecto. Ese resultado es la suma de los módulos, no la resta pedida."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$-7$",
           "is_correct": false,
           "feedback": "Incorrecto. El valor absoluto nunca es negativo; la resta da $7$ positivo."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. Confunde el orden de las operaciones y los signos de los módulos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El valor absoluto de un número es su distancia al cero: $|-12| = 12$ y $|5| = 5$. La operación pedida es $12 - 5 = 7$.",
       "difficulty": "6",
       "images": [],
@@ -244,13 +244,13 @@
           "feedback": "Incorrecto. Multiplicaste los exponentes; al multiplicar potencias de igual base se suman."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$2^5 = 32$",
           "is_correct": true,
           "feedback": "¡Correcto! $2^3 \\cdot 2^2 = 2^{3+2} = 2^5 = 32$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$4^5$",
           "is_correct": false,
           "feedback": "Incorrecto. No se suman las bases; la base común 2 se conserva."
@@ -262,7 +262,7 @@
           "feedback": "Incorrecto. Restaste los exponentes; la regla del producto indica sumarlos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La regla del producto de potencias de igual base dice $a^m \\cdot a^n = a^{m+n}$. Aquí $2^3 \\cdot 2^2 = 2^5 = 32$.",
       "difficulty": "6",
       "images": [],
@@ -283,13 +283,13 @@
       "context": "Un físico de la Universidad de la República expresa mediciones muy pequeñas en notación científica.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$4.5 \\times 10^{4}$",
           "is_correct": false,
           "feedback": "Incorrecto. El exponente positivo agrandaría el número; los valores menores que 1 llevan exponente negativo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$4.5 \\times 10^{-4}$",
           "is_correct": true,
           "feedback": "¡Correcto! La coma se desplaza 4 lugares a la derecha, por eso el exponente es $-4$."
@@ -307,7 +307,7 @@
           "feedback": "Incorrecto. Se invirtieron los dígitos del coeficiente; debe quedar $4.5$."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "En notación científica se escribe $a \\times 10^n$ con $1 \\le a < 10$. Para $0.00045$, la coma se mueve 4 posiciones a la derecha, así $a = 4.5$ y $n = -4$.",
       "difficulty": "6",
       "images": [],
@@ -328,19 +328,19 @@
       "context": "Un agrimensor en Rivera simplifica expresiones con radicales para un plano de terreno.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$\\sqrt{42}$",
           "is_correct": false,
           "feedback": "Incorrecto. No se restan los radicandos directamente; primero hay que descomponer cada raíz."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$7\\sqrt{2}$",
           "is_correct": false,
           "feedback": "Incorrecto. Proviene de sumar $5\\sqrt{2} + 2\\sqrt{2}$ en lugar de restar."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "$3\\sqrt{2}$",
           "is_correct": true,
           "feedback": "¡Correcto! $\\sqrt{50} = 5\\sqrt{2}$ y $\\sqrt{8} = 2\\sqrt{2}$, entonces la resta da $3\\sqrt{2}$."
@@ -352,7 +352,7 @@
           "feedback": "Incorrecto. Ese es solo el valor de $\\sqrt{8}$; falta operar con $\\sqrt{50}$."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Se extraen factores cuadrados: $\\sqrt{50} = \\sqrt{25 \\cdot 2} = 5\\sqrt{2}$ y $\\sqrt{8} = \\sqrt{4 \\cdot 2} = 2\\sqrt{2}$. Como los radicales son semejantes, se restan los coeficientes: $5\\sqrt{2} - 2\\sqrt{2} = 3\\sqrt{2}$.",
       "difficulty": "6",
       "images": [],
@@ -373,19 +373,19 @@
       "context": "Un analista de datos en Montevideo trabaja con intervalos de tiempo de conexión.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$[1, 3]$",
           "is_correct": true,
           "feedback": "¡Correcto! La intersección va del mayor extremo inferior (1) al menor extremo superior (3), ambos incluidos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$(1, 3)$",
           "is_correct": false,
           "feedback": "Incorrecto. El 1 está incluido en ambos intervalos, por eso el corchete corresponde."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$[-2, 5)$",
           "is_correct": false,
           "feedback": "Incorrecto. Esa es la unión $A \\cup B$, no la intersección."
@@ -397,7 +397,7 @@
           "feedback": "Incorrecto. El extremo inferior 1 pertenece a $A$ y a $B$, así que se incluye con corchete."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La intersección conserva los valores comunes: el extremo inferior es $\\max(-2, 1) = 1$ (incluido) y el superior es $\\min(3, 5) = 3$ (incluido). Resultado: $[1, 3]$.",
       "difficulty": "6",
       "images": [],
@@ -430,19 +430,19 @@
           "feedback": "Incorrecto. Ese aumento corresponde al 12.5%, no al 15%."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "$\\$U\\,920$",
           "is_correct": true,
           "feedback": "¡Correcto! $800 \\times 1.15 = 920$ pesos uruguayos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$\\$U\\,960$",
           "is_correct": false,
           "feedback": "Incorrecto. Ese resultado corresponde a un aumento del 20%."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Un aumento del 15% equivale a multiplicar por $1.15$: $800 \\times 1.15 = 920$. También puede calcularse $800 + 0.15 \\times 800 = 800 + 120 = 920$.",
       "difficulty": "6",
       "images": [],
@@ -463,13 +463,13 @@
       "context": "En un concurso liceal de Maldonado se pide ordenar números negativos con raíces y fracciones.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$-\\sqrt{3}$",
           "is_correct": true,
           "feedback": "¡Correcto! $-\\sqrt{3} \\approx -1.732$, el más alejado del cero hacia la izquierda."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$-1.7$",
           "is_correct": false,
           "feedback": "Incorrecto. $-1.7 > -1.732...$; compará con más decimales."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto. Es el mayor de los cuatro por estar más cerca del cero."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "En los negativos, es menor el de mayor valor absoluto. Como $\\sqrt{3} \\approx 1.732 > 1.7 > 1.5 > 1.41$, el orden inverso da $-\\sqrt{3}$ como el menor.",
       "difficulty": "8",
       "images": [],
@@ -514,13 +514,13 @@
           "feedback": "Incorrecto. $\\frac{1}{3} \\approx 0.333$, menor que $0.4$."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$\\frac{1}{2}$",
           "is_correct": true,
           "feedback": "¡Correcto! $0.4 < 0.5 < 0.6$, así que $\\frac{1}{2}$ está entre ambas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\frac{7}{10}$",
           "is_correct": false,
           "feedback": "Incorrecto. $\\frac{7}{10} = 0.7$, supera a $\\frac{3}{5} = 0.6$."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. $\\frac{1}{4} = 0.25$, está por debajo del intervalo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Convirtiendo a decimales: $\\frac{2}{5} = 0.4$ y $\\frac{3}{5} = 0.6$. La única opción en $(0.4; 0.6)$ es $\\frac{1}{2} = 0.5$, lo que ilustra la densidad de $\\mathbb{Q}$.",
       "difficulty": "8",
       "images": [],
@@ -559,13 +559,13 @@
           "feedback": "Incorrecto. El 0 es real y no tiene inverso multiplicativo."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "La raíz cuadrada de un número negativo es un número real.",
           "is_correct": false,
           "feedback": "Incorrecto. Las raíces de índice par de negativos no son reales."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Para todo número real $x$, se cumple $x^2 \\ge 0$.",
           "is_correct": true,
           "feedback": "¡Correcto! El cuadrado de cualquier real es no negativo."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. Falta el término $2ab$; es un error algebraico clásico."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "La única afirmación universal es la no negatividad del cuadrado: $x^2 \\ge 0$ para todo $x \\in \\mathbb{R}$. Las demás fallan con contraejemplos simples: $x = 0$, $x = -1$, $a = b = 1$.",
       "difficulty": "8",
       "images": [],
@@ -649,13 +649,13 @@
           "feedback": "Incorrecto. Corrió la coma un lugar; el error está en el orden de las milésimas."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$0.0016$",
           "is_correct": true,
           "feedback": "¡Correcto! $\\pi - 3.14 \\approx 0.00159$, que redondea a $0.0016$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$0.00016$",
           "is_correct": false,
           "feedback": "Incorrecto. Subestima el error en un factor de diez."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. Sobrestima el error; la diferencia real es menor a dos milésimas."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El error absoluto es $|\\pi - 3.14| = 0.001592...$, del orden de $1.6 \\times 10^{-3}$. Truncar a dos decimales introduce errores menores que media centésima.",
       "difficulty": "8",
       "images": [],
@@ -733,13 +733,13 @@
       "context": "En un debate de clase en Montevideo se discute si $0.999...$ es igual a 1.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Es igual a 1, pues $\\frac{9}{10} + \\frac{9}{100} + \\frac{9}{1000} + ...$ suma exactamente 1.",
           "is_correct": true,
           "feedback": "¡Correcto! La serie geométrica de razón $\\frac{1}{10}$ suma $\\frac{0.9}{1 - 0.1} = 1$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Es menor que 1 porque siempre falta un 9.",
           "is_correct": false,
           "feedback": "Incorrecto. Con infinitos nueves no existe diferencia positiva entre ambos; es un razonamiento finito aplicado a un proceso infinito."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. Es periódico, por lo tanto racional: $0.999... = \\frac{9}{9} = 1$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Toda expansión periódica representa un racional: $x = 0.999...$ implica $10x = 9.999...$ y restando $9x = 9$, así $x = 1$. La igualdad es exacta, no una aproximación.",
       "difficulty": "10",
       "images": [],
@@ -790,19 +790,19 @@
           "feedback": "Incorrecto. Contraejemplo: $\\sqrt{2} \\cdot \\sqrt{2} = 2$, racional."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "La suma de un racional y un irracional es siempre irracional.",
           "is_correct": true,
           "feedback": "¡Correcto! Si diera racional, restando el racional quedaría el irracional como racional, contradicción."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Todo número con infinitas cifras decimales es irracional.",
           "is_correct": false,
           "feedback": "Incorrecto. Los decimales periódicos como $0.333...$ tienen infinitas cifras y son racionales."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La clave es distinguir lo que siempre se cumple de lo que a veces ocurre. Solo la suma racional + irracional está garantizada como irracional; los demás enunciados admiten contraejemplos.",
       "difficulty": "10",
       "images": [],
@@ -823,13 +823,13 @@
       "context": "Un ahorrista de Montevideo deposita $\\$U\\,100\\,000$ en un plazo fijo a interés simple del 5% anual durante 3 años.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$\\$U\\,5\\,000$",
           "is_correct": false,
           "feedback": "Incorrecto. Ese es el interés de un solo año; hay que multiplicar por los 3 años."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\$U\\,15\\,000$",
           "is_correct": true,
           "feedback": "¡Correcto! $I = 100\\,000 \\times 0.05 \\times 3 = 15\\,000$ pesos."
@@ -847,7 +847,7 @@
           "feedback": "Incorrecto. Duplica el interés correcto, quizá por usar el 10% anual."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El interés simple es $I = C \\cdot r \\cdot t = 100\\,000 \\times 0.05 \\times 3 = 15\\,000$. A diferencia del compuesto, aquí el capital no se actualiza cada período.",
       "difficulty": "10",
       "images": [],
@@ -874,13 +874,13 @@
           "feedback": "Incorrecto. Para $0 < x < 1$, multiplicar por $x$ achica el resultado; la intuición de \"potencia mayor, número mayor\" falla aquí."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$x^3 < x^2$",
           "is_correct": true,
           "feedback": "¡Correcto! Con $0 < x < 1$, cada potencia sucesiva es menor: $0.75^3 = 0.421875 < 0.5625 = 0.75^2$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x^3 = x^2$",
           "is_correct": false,
           "feedback": "Incorrecto. Solo serían iguales si $x = 0$ o $x = 1$."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. La desigualdad es exacta y no depende de aproximaciones."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Para bases entre 0 y 1 la función potencia es decreciente en el exponente: $x^3 = x^2 \\cdot x < x^2$ porque $x < 1$. Evaluar el signo de la base evita generalizaciones erróneas desde los enteros.",
       "difficulty": "10",
       "images": [],

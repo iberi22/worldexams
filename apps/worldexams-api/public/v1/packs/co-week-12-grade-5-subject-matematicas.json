@@ -59,13 +59,13 @@
       "context": "Lee: \"En un colegio de Bucaramanga se hizo un pictograma sobre el medio de transporte para llegar a clase. Cada dibujo de bus representa 5 estudiantes: hay 4 dibujos de bus, 2 dibujos de bicicleta y 3 dibujos de a pie.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Porque tiene 4 dibujos, que representan 20 estudiantes, más que los otros medios.",
           "is_correct": true,
           "feedback": "4 dibujos de 5 estudiantes son 20 estudiantes, la cantidad mayor."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque tiene 2 dibujos, que representan 10 estudiantes.",
           "is_correct": false,
           "feedback": "2 dibujos corresponden a la bicicleta, no al bus."
@@ -83,7 +83,7 @@
           "feedback": "Los dibujos son diferentes: 4, 2 y 3 según el medio."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Comprender cómo un pictograma representa cantidades usando un símbolo con un valor fijo.",
       "difficulty": "4",
       "images": [],
@@ -105,31 +105,31 @@
       "context": "Una tienda escolar en Pereira registró sus ventas de la semana en una gráfica de barras: lunes 15.000 COP, martes 20.000 COP, miércoles 10.000 COP, jueves 25.000 COP.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "El jueves, con 25.000 COP.",
           "is_correct": true,
           "feedback": "La barra del jueves es la más alta, con 25.000 COP."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El martes, con 20.000 COP.",
           "is_correct": false,
           "feedback": "El martes es el segundo día con más ventas, no el primero."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El lunes, con 15.000 COP.",
           "is_correct": false,
           "feedback": "El lunes tiene 15.000 COP, menos que el jueves."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El miércoles, con 10.000 COP.",
           "is_correct": false,
           "feedback": "El miércoles tiene la barra más baja, con 10.000 COP."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Leer una gráfica de barras para identificar el valor máximo de un conjunto de datos.",
       "difficulty": "6",
       "images": [],
@@ -151,13 +151,13 @@
       "context": "En clase de educación física en Cartagena se registraron las edades de 9 estudiantes de un equipo: 10, 11, 10, 12, 11, 10, 11, 10, 12 años.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "10 años, porque aparece 4 veces, más que cualquier otra edad.",
           "is_correct": true,
           "feedback": "El 10 se repite 4 veces, es la frecuencia mayor del conjunto."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "11 años, porque aparece 2 veces.",
           "is_correct": false,
           "feedback": "El 11 aparece 3 veces, no 2, y no es la mayor frecuencia."
@@ -175,7 +175,7 @@
           "feedback": "9 es la cantidad de datos, no un valor del conjunto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Aplicar el concepto de moda como el dato que aparece con mayor frecuencia.",
       "difficulty": "6",
       "images": [],
@@ -197,19 +197,19 @@
       "context": "En un colegio de Bucaramanga se encuestó a 30 estudiantes sobre su deporte favorito: fútbol 14, baloncesto 9, natación 4, ciclismo 3.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "23 estudiantes.",
           "is_correct": true,
           "feedback": "14 de fútbol + 9 de baloncesto = 23 estudiantes."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "14 estudiantes.",
           "is_correct": false,
           "feedback": "14 es solo el fútbol, falta sumar el baloncesto."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "7 estudiantes.",
           "is_correct": false,
           "feedback": "7 es la suma de natación y ciclismo, no de fútbol y baloncesto."
@@ -221,7 +221,7 @@
           "feedback": "30 es el total de encuestados, no solo fútbol y baloncesto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Sumar frecuencias de una tabla de encuesta para obtener una categoría combinada.",
       "difficulty": "6",
       "images": [],
@@ -243,19 +243,19 @@
       "context": "Compara: \"Una papelería en Manizales vendió en una semana 40 lápices, 25 borradores, 40 cuadernos y 15 reglas. La información se mostró en una gráfica de barras.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Los lápices y los cuadernos empatan como los más vendidos, con 40 unidades cada uno.",
           "is_correct": true,
           "feedback": "Ambas barras llegan a 40, el valor más alto de la gráfica."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Los borradores son los más vendidos, con 25 unidades.",
           "is_correct": false,
           "feedback": "25 es menor que 40, no es el valor máximo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Las reglas son las más vendidas, con 15 unidades.",
           "is_correct": false,
           "feedback": "15 es el valor más bajo de la gráfica."
@@ -267,7 +267,7 @@
           "feedback": "Las cantidades son 40, 25, 40 y 15, no son iguales."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Analizar una gráfica de barras para comparar frecuencias e identificar empates en el valor máximo.",
       "difficulty": "8",
       "images": [],
@@ -335,13 +335,13 @@
       "context": "Lee: \"Dos cursos de quinto en un colegio de Bucaramanga encuestaron sobre la mascota preferida. El curso A encuestó a 10 amigos del salón y el curso B encuestó a 40 estudiantes de varios salones elegidos al azar. Ambos presentaron tablas y gráficas de barras.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La del curso B, porque encuestó a más estudiantes de distintos salones al azar y representa mejor a todo el colegio.",
           "is_correct": true,
           "feedback": "Una muestra más grande y variada representa mejor a la población del colegio."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La del curso A, porque encuestar solo a amigos cercanos siempre da el resultado correcto.",
           "is_correct": false,
           "feedback": "Encuestar solo a amigos produce un resultado sesgado, no representa al colegio."
@@ -359,7 +359,7 @@
           "feedback": "Las tablas y gráficas bien construidas sí ayudan cuando la muestra es adecuada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Evaluar la calidad de una encuesta sencilla según el tamaño y la representatividad de la muestra.",
       "difficulty": "10",
       "images": [],

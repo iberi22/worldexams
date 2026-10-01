@@ -59,19 +59,19 @@
       "context": "En clase en Medellín, se distingue entre noticia y crónica.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "La noticia informa de forma breve y objetiva; la crónica narra con estilo y contexto.",
           "is_correct": true,
           "feedback": "La crónica aporta profundidad narrativa."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La crónica nunca es real.",
           "is_correct": false,
           "feedback": "Sí lo es."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La noticia es más larga.",
           "is_correct": false,
           "feedback": "La noticia suele ser breve."
@@ -83,7 +83,7 @@
           "feedback": "Sí hay diferencias de género."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La crónica periodística recupera la tradición narrativa en el periodismo.",
       "difficulty": "4",
       "images": [],
@@ -105,31 +105,31 @@
       "context": "En un taller en Cali, se analizan crónicas urbanas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Es una voz narrativa que interpreta los hechos desde una mirada personal.",
           "is_correct": true,
           "feedback": "Aporta subjetividad controlada."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Solo narra sin opinar.",
           "is_correct": false,
           "feedback": "Opina y contextualiza."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Sustituye al editor.",
           "is_correct": false,
           "feedback": "Son roles distintos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "No aparece en la crónica.",
           "is_correct": false,
           "feedback": "Es central."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La voz del cronista marca el tono y la perspectiva de la crónica.",
       "difficulty": "4",
       "images": [],
@@ -151,31 +151,31 @@
       "context": "En clase en Barranquilla, se trabaja con la estructura de la crónica.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Entrada atractiva, desarrollo contextual, cierre reflexivo y datos verificables.",
           "is_correct": true,
           "feedback": "Equilibra información y narrativa."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Solo un listado de datos sin orden.",
           "is_correct": false,
           "feedback": "Necesita coherencia."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Exclusivamente citas textuales.",
           "is_correct": false,
           "feedback": "Falta narración."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Un resumen final obligatorio.",
           "is_correct": false,
           "feedback": "No siempre hay resumen."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La crónica mantiene estructura flexible pero conserva rigor informativo.",
       "difficulty": "4",
       "images": [],
@@ -197,19 +197,19 @@
       "context": "En un taller en Bucaramanga, se redacta una crónica escolar.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Recopilar información, entrevistar protagonistas y observar el ambiente.",
           "is_correct": true,
           "feedback": "La investigación previa asegura rigor."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Inventar datos sin verificar.",
           "is_correct": false,
           "feedback": "Compromete la veracidad."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Copiar otra crónica.",
           "is_correct": false,
           "feedback": "Es plagio."
@@ -221,7 +221,7 @@
           "feedback": "Reduce tiempo de documentación."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El trabajo de campo es esencial en la crónica periodística.",
       "difficulty": "6",
       "images": [],
@@ -289,19 +289,19 @@
       "context": "En Armenia, se discute el uso de fuentes en la crónica.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Testimonios directos, documentos oficiales, estadísticas y expertos.",
           "is_correct": true,
           "feedback": "La triangulación de fuentes da credibilidad."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Solo rumores de redes sociales.",
           "is_correct": false,
           "feedback": "No son verificables."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Únicamente la opinión del cronista.",
           "is_correct": false,
           "feedback": "Se requieren fuentes externas."
@@ -313,7 +313,7 @@
           "feedback": "Compromete la ética periodística."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La ética periodística exige verificar y contrastar fuentes.",
       "difficulty": "6",
       "images": [],
@@ -335,31 +335,31 @@
       "context": "En Santa Marta, se revisan crónicas sobre el Caribe colombiano.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Reforzar la fuerza narrativa sin distorsionar los hechos.",
           "is_correct": true,
           "feedback": "La estética sirve al periodismo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Sustituir completamente la información.",
           "is_correct": false,
           "feedback": "Pierde rigor."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Confundir al lector con exceso.",
           "is_correct": false,
           "feedback": "Debe ser claro."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Eliminarse por completo.",
           "is_correct": false,
           "feedback": "Es parte del género."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La crónica usa la literatura como herramienta para profundizar la realidad.",
       "difficulty": "6",
       "images": [],
@@ -381,19 +381,19 @@
       "context": "En Ibagué, se comparan crónicas latinoamericanas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Su compromiso social, su registro de la vida cotidiana y su calidad literaria.",
           "is_correct": true,
           "feedback": "Autores como García Márquez, Caparrós o Monsiváis."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Evitar temas políticos.",
           "is_correct": false,
           "feedback": "Los aborda con frecuencia."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Limitarse a la capital.",
           "is_correct": false,
           "feedback": "Recorre todo el continente."
@@ -405,7 +405,7 @@
           "feedback": "Incluye lo rural."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La crónica latinoamericana combina estética, denuncia y memoria cultural.",
       "difficulty": "6",
       "images": [],
@@ -427,31 +427,31 @@
       "context": "En Neiva, se redacta la entradilla de una crónica.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Captar la atención del lector con una escena, dato sorprendente o frase impactante.",
           "is_correct": true,
           "feedback": "Invita a seguir leyendo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Ser completamente neutra y fría.",
           "is_correct": false,
           "feedback": "Pierde fuerza narrativa."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Repetir el título.",
           "is_correct": false,
           "feedback": "Es redundante."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Evitar datos concretos.",
           "is_correct": false,
           "feedback": "El dato ancla la atención."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La entradilla es una promesa temática que engancha al lector.",
       "difficulty": "6",
       "images": [],
@@ -473,13 +473,13 @@
       "context": "En clase en Bogotá, se analizan las subjetividades en la crónica.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Una mirada interpretativa que contextualice los hechos sin alterar la veracidad.",
           "is_correct": true,
           "feedback": "Subjetividad responsable y transparente."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Datos falsos para dramatizar.",
           "is_correct": false,
           "feedback": "Compromete la ética."
@@ -497,7 +497,7 @@
           "feedback": "Falta rigor."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La objetividad total es imposible; lo ético es declarar la perspectiva.",
       "difficulty": "8",
       "images": [],
@@ -519,31 +519,31 @@
       "context": "En Popayán, se estudia la temporalidad en la crónica.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Mezclando orden cronológico con flashbacks y pausas reflexivas.",
           "is_correct": true,
           "feedback": "El cronista controla el ritmo narrativo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Solo en orden inverso.",
           "is_correct": false,
           "feedback": "Puede organizar según el interés."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Exclusivamente en futuro.",
           "is_correct": false,
           "feedback": "Es reconstrucción del pasado."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Eliminando toda referencia temporal.",
           "is_correct": false,
           "feedback": "El tiempo es esencial."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El manejo del tiempo enriquece la tensión narrativa de la crónica.",
       "difficulty": "8",
       "images": [],
@@ -565,31 +565,31 @@
       "context": "En clase en Tunja, se contrastan crónicas y reportajes.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "La crónica privilegia la voz narrativa; el reportaje prioriza la multiplicidad de voces y datos.",
           "is_correct": true,
           "feedback": "Son géneros complementarios."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El reportaje es ficción.",
           "is_correct": false,
           "feedback": "Ambos son no ficción."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La crónica carece de datos.",
           "is_correct": false,
           "feedback": "Los integra, pero con estilo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "No existen diferencias.",
           "is_correct": false,
           "feedback": "Hay diferencias claras."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La crónica y el reportaje comparten rigor pero difieren en su enfoque narrativo.",
       "difficulty": "8",
       "images": [],
@@ -657,31 +657,31 @@
       "context": "En Pereira, se revisan crónicas sobre el conflicto armado.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Revictimizar a las personas afectadas y difundir información sin consentimiento.",
           "is_correct": true,
           "feedback": "La ética periodística exige cuidado."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "No relatar nada de lo sucedido.",
           "is_correct": false,
           "feedback": "La memoria es importante."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Usar únicamente datos oficiales.",
           "is_correct": false,
           "feedback": "Se pueden contrastar fuentes."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Evitar nombres propios.",
           "is_correct": false,
           "feedback": "A veces son necesarios."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El periodismo ético protege la dignidad de las víctimas y verifica información sensible.",
       "difficulty": "8",
       "images": [],
@@ -703,31 +703,31 @@
       "context": "En clase en Cali, se revisa el uso del lenguaje en la crónica.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Claro, preciso y con ritmo, combinando registro coloquial y estándar según el contexto.",
           "is_correct": true,
           "feedback": "La lengua se adapta a los sujetos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Siempre técnico y abstracto.",
           "is_correct": false,
           "feedback": "Pierde cercanía con el lector."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Exclusivamente poético.",
           "is_correct": false,
           "feedback": "Compromete la información."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Ininteligible para mostrar erudición.",
           "is_correct": false,
           "feedback": "Frena la comunicación."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La crónica es un género híbrido que combina precisión y belleza expresiva.",
       "difficulty": "8",
       "images": [],
@@ -749,31 +749,31 @@
       "context": "En una jornada en Armenia, se premia la mejor crónica estudiantil.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "La capacidad de recrear la realidad con voz propia y estructura creativa.",
           "is_correct": true,
           "feedback": "Valora el estilo del cronista."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La extensión del texto.",
           "is_correct": false,
           "feedback": "La extensión no define originalidad."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La cantidad de cifras estadísticas.",
           "is_correct": false,
           "feedback": "No garantiza originalidad."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La ausencia de citas.",
           "is_correct": false,
           "feedback": "Las citas pueden enriquecer."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La originalidad narrativa distingue al cronista con voz propia.",
       "difficulty": "10",
       "images": [],
@@ -795,31 +795,31 @@
       "context": "En un foro en Pasto, se reflexiona sobre el papel de la crónica actual.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Profundiza la información frente a la inmediatez, ofreciendo contexto y reflexión.",
           "is_correct": true,
           "feedback": "Contrarresta la superficialidad informativa."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Sustituye al periodismo digital por completo.",
           "is_correct": false,
           "feedback": "Convive con otros formatos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Solo se publica en impreso.",
           "is_correct": false,
           "feedback": "Se adapta a plataformas digitales."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Pierde toda vigencia.",
           "is_correct": false,
           "feedback": "Sigue vigente."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La crónica aporta análisis pausado y narrativa en tiempos de sobreinformación.",
       "difficulty": "10",
       "images": [],
@@ -887,13 +887,13 @@
       "context": "En un cierre en Manizales, se debate la responsabilidad del cronista.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Respetar la verdad, proteger a las fuentes vulnerables y ofrecer contexto.",
           "is_correct": true,
           "feedback": "La ética guía todo el proceso."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Inventar historias para atraer lectores.",
           "is_correct": false,
           "feedback": "Viola la ética periodística."
@@ -911,7 +911,7 @@
           "feedback": "Es plagio."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El cronista equilibra arte y compromiso ético con la verdad y la dignidad humana.",
       "difficulty": "10",
       "images": [],

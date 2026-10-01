@@ -19,25 +19,25 @@
           "feedback": "To enter."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "log out of",
           "is_correct": true,
           "feedback": "Correct. To exit or disconnect from an account."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "set up",
           "is_correct": false,
           "feedback": "To create."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "back up",
           "is_correct": false,
           "feedback": "To make a copy."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "'Log out of' is a common phrasal verb used for disconnecting from digital accounts.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -65,13 +65,13 @@
           "feedback": "To escape."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "breaks into",
           "is_correct": true,
           "feedback": "Correct. To enter a computer system illegally."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "breaks up",
           "is_correct": false,
           "feedback": "To end a relationship."
@@ -83,7 +83,7 @@
           "feedback": "To stop working."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "'Break into' is the specific phrasal verb for illegal entry into a physical or digital space.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -111,13 +111,13 @@
           "feedback": "To stay informed."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "back / up",
           "is_correct": true,
           "feedback": "Correct. To make a copy of digital information."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "put / off",
           "is_correct": false,
           "feedback": "To postpone."
@@ -129,7 +129,7 @@
           "feedback": "To complete a form."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "'Back up' is a separable phrasal verb used for creating data redundancies.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -203,25 +203,25 @@
           "feedback": "To examine."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "carry / out",
           "is_correct": true,
           "feedback": "Correct. To perform or complete a task (like installation)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "set / off",
           "is_correct": false,
           "feedback": "To trigger."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "bring / about",
           "is_correct": false,
           "feedback": "To cause to happen."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "'Carry out' means to execute or perform a specific task, such as installing an update.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -249,13 +249,13 @@
           "feedback": "Incorrect tense."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "could be / use",
           "is_correct": true,
           "feedback": "Correct First Conditional with modal for possibility."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "was / used",
           "is_correct": false,
           "feedback": "Incorrect tense."
@@ -267,7 +267,7 @@
           "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Using the First Conditional (could be + present) to warn about potential future digital risks.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -335,13 +335,13 @@
       "context": "A text about corporate security.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "set off / let",
           "is_correct": false,
           "feedback": "Incorrect."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "set up / keep",
           "is_correct": true,
           "feedback": "Correct. To establish/install + to prevent."
@@ -359,7 +359,7 @@
           "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "'Set up' means to establish or install a system, a key phrasal verb in tech contexts.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -387,25 +387,25 @@
           "feedback": "Incorrect."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "implement / will remain",
           "is_correct": true,
           "feedback": "Correct First Conditional with 'unless'."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "implemented / will remain",
           "is_correct": false,
           "feedback": "Incorrect tense."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "had implemented / remained",
           "is_correct": false,
           "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Using 'unless' in a First Conditional to describe a necessary security measure and the consequence of not having it.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -427,31 +427,31 @@
       "context": "A formal discussion on cyber warfare.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "using / can",
           "is_correct": true,
           "feedback": "Correct inversion with 'Only by'."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "use / will",
           "is_correct": false,
           "feedback": "Incorrect syntax for 'Only by'."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "using / -",
           "is_correct": false,
           "feedback": "Missing auxiliary for inversion."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "used / did",
           "is_correct": false,
           "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Advanced B2 structure: Inversion after 'Only by + gerund' in a high-stakes security context.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -525,13 +525,13 @@
           "feedback": "Second conditional."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "had been / wouldn't be suffering",
           "is_correct": true,
           "feedback": "Correct Mixed Conditional (Past action -> Present ongoing result)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "had been / wouldn't have suffered",
           "is_correct": false,
           "feedback": "Third conditional (Past result)."
@@ -543,7 +543,7 @@
           "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Mastery level: Using a Mixed Conditional to connect past corporate decisions to present-day reputation damage.\n\n---",
       "difficulty": "10",
       "images": [],

@@ -151,19 +151,19 @@
       "context": "Un examen de prueba en Tunja evalúa el orden de llenado de los subniveles atómicos según el principio de Auf-bau.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$3s \\rightarrow 3p \\rightarrow 4s \\rightarrow 3d$",
           "is_correct": true,
           "feedback": "Correcto. Según la regla de $(n+l)$, el subnivel $4s$ ($n+l = 4+0 = 4$) se llena antes que el $3d$ ($n+l = 3+2 = 5$)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$3s \\rightarrow 3p \\rightarrow 3d \\rightarrow 4s$",
           "is_correct": false,
           "feedback": "Incorrecto. Secuencia numérica engañosa que ignora la regla de energía $(n+l)$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$4s \\rightarrow 3s \\rightarrow 3p \\rightarrow 3d$",
           "is_correct": false,
           "feedback": "Incorrecto. Los niveles inferiores $n=3$ se llenan antes que $n=4$."
@@ -175,7 +175,7 @@
           "feedback": "Incorrecto. Llenado inverso a la energía de subnivel."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El Principio de Auf-bau establece que los orbitales se llenan en orden creciente de energía según el valor de $(n+l)$. Como para $4s$, $n+l = 4$, y para $3d$, $n+l = 5$, el subnivel $4s$ se llena antes que el $3d$.",
       "difficulty": "4",
       "images": [],
@@ -197,19 +197,19 @@
       "context": "Un proyectil es lanzado con una velocidad de $20\\text{ m/s}$ y un ángulo de $30^\\circ$ sobre la horizontal en Ibagué. Considere $g = 10\\text{ m/s}^2$ y $\\sin(30^circ) = 0.5$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$5\\text{ metros}$",
           "is_correct": true,
           "feedback": "Correcto. $v_{y0} = 20 \\sin(30^circ) = 10\\text{ m/s}$. $h_{max} = \\frac{v_{y0}^2}{2g} = \\frac{100}{20} = 5\\text{ m}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$10\\text{ metros}$",
           "is_correct": false,
           "feedback": "Incorrecto. Se omitió dividir entre 2 la constante $g$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$20\\text{ metros}$",
           "is_correct": false,
           "feedback": "Incorrecto. Se calculó usando la velocidad total inicial en lugar de la componente vertical."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto. Error de escala al dividir entre 40."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La componente vertical inicial de la velocidad es $v_{y0} = v_0 \\sin\\theta = 20 \\times 0.5 = 10\\text{ m/s}$. La altura máxima alcanzada se obtiene con $h_{max} = \\frac{v_{y0}^2}{2g} = \\frac{100}{20} = 5\\text{ m}$.",
       "difficulty": "6",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "Un bloque de $10\\text{ kg}$ se acelera sobre un piso horizontal a $2\\text{ m/s}^2$ mediante una fuerza horizontal $F$. Si la fuerza de fricción cinemática es $f_k = 5\\text{ N}$, ¿cuál es el valor de la fuerza $F$?",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$25\\text{ N}$",
           "is_correct": true,
           "feedback": "Correcto. Segunda ley de Newton: $F - f_k = m a \\implies F - 5 = 10 \\times 2 \\implies F = 20 + 5 = 25\\text{ N}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$20\\text{ N}$",
           "is_correct": false,
           "feedback": "Incorrecto. $20\\text{ N}$ es la fuerza neta $m \\cdot a$ sin compensar la fricción."
@@ -267,7 +267,7 @@
           "feedback": "Incorrecto. Multiplicación errónea de masa por fricción."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Aplicando la segunda ley de Newton $F_{neta} = F - f_k = m \\cdot a$. Despejando la fuerza aplicada: $F = m \\cdot a + f_k = (10\\text{ kg} \\times 2\\text{ m/s}^2) + 5\\text{ N} = 20 + 5 = 25\\text{ N}$.",
       "difficulty": "6",
       "images": [],
@@ -335,13 +335,13 @@
       "context": "Se comparan las radios iónicos y atómicos de las especies $S$ ($Z=16$), $S^{2-}$ ($18 e^-$) y $Ca^{2+}$ ($Z=20, 18 e^-$) en Bucaramanga.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$Ca^{2+}$, porque posee la mayor carga nuclear ($Z=20$) sobre la misma cantidad de electrones (18 $e^-$).",
           "is_correct": true,
           "feedback": "Correcto. En especies isoelectrónicas, a mayor número de protones ($Z$), mayor atracción sobre la nube y menor radio."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$S^{2-}$, porque la carga negativa contrae el núcleo.",
           "is_correct": false,
           "feedback": "Incorrecto. La carga negativa expande la nube electrónica por repulsión interelectrónica."
@@ -359,7 +359,7 @@
           "feedback": "Incorrecto. Las variaciones en la carga nuclear alteran fuertemente el tamaño."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Al comparar especies isoelectrónicas con 18 electrones ($S^{2-}$ y $Ca^{2+}$), el catión $Ca^{2+}$ cuenta con 20 protones atrayendo a la nube electrónica, comprimiendo su radio por encima de todas las demás especies de la serie.",
       "difficulty": "6",
       "images": [],
@@ -381,13 +381,13 @@
       "context": "Una grúa eleva un contenedor de $500\\text{ kg}$ a una altura de $12\\text{ m}$ en $10\\text{ segundos}$ a velocidad constante en el puerto de Buenaventura. Considere $g = 10\\text{ m/s}^2$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$6000\\text{ Watts}$ ($6\\text{ kW}$)",
           "is_correct": true,
           "feedback": "Correcto. Trabajo $W = m g h = 500 \\times 10 \\times 12 = 60000\\text{ J}$. Potencia $P = \\frac{W}{t} = \\frac{60000}{10} = 6000\\text{ W}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$600\\text{ Watts}$",
           "is_correct": false,
           "feedback": "Incorrecto. Se omitió multiplicar por la constante de gravedad $g$."
@@ -405,7 +405,7 @@
           "feedback": "Incorrecto. División errónea de la masa por el tiempo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La potencia mecánica es la tasa de realización de trabajo: $P = \\frac{W}{\\Delta t} = \\frac{m \\cdot g \\cdot h}{\\Delta t} = \\frac{500\\text{ kg} \\times 10\\text{ m/s}^2 \\times 12\\text{ m}}{10\\text{ s}} = 6000\\text{ W} = 6\\text{ kW}$.",
       "difficulty": "6",
       "images": [],
@@ -427,31 +427,31 @@
       "context": "Un estudiante en Manizales debe identificar los números cuánticos del último electrón en el átomo de Sodio ($Na, Z=11$).",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$(3, 0, 0, +1/2)$",
           "is_correct": true,
           "feedback": "Correcto. Subnivel $3s^1 \\implies n=3$, $l=0$ (orbital s), $m_l=0$, primer electrón con $m_s=+1/2$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$(3, 1, 0, +1/2)$",
           "is_correct": false,
           "feedback": "Incorrecto. $l=1$ corresponde al subnivel $p$, no al $s$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$(2, 0, 0, -1/2)$",
           "is_correct": false,
           "feedback": "Incorrecto. Nivel $n=2$ completo en la capa interna."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$(3, 0, 1, -1/2)$",
           "is_correct": false,
           "feedback": "Incorrecto. Para $l=0$, $m_l$ solo puede tomar el valor $0$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El electrón diferenciador del Sodio ($Z=11$) ocupa el orbital $3s^1$. Por tanto: nivel $n=3$, subnivel $s \\implies l=0$, orientación $m_l=0$, y espín $+1/2$. Juego: $(3, 0, 0, +1/2)$.",
       "difficulty": "6",
       "images": [],
@@ -473,19 +473,19 @@
       "context": "Dos esferas idénticas de $1\\text{ kg}$ se desplazan sobre una pista recta en Pasto. La esfera A viaja a $6\\text{ m/s}$ hacia la derecha y choca elásticamente contra la esfera B que viaja a $2\\text{ m/s}$ hacia la izquierda.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Esfera A = $2\\text{ m/s}$ hacia la izquierda; Esfera B = $6\\text{ m/s}$ hacia la derecha.",
           "is_correct": true,
           "feedback": "Correcto. En una colisión elástica unidimensional entre masas iguales, los cuerpos intercambian sus velocidades vectoriales completas ($v_{Af} = -2\\text{ m/s}$, $v_{Bf} = +6\\text{ m/s}$)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Esfera A = $6\\text{ m/s}$ hacia la izquierda; Esfera B = $2\\text{ m/s}$ hacia la derecha.",
           "is_correct": false,
           "feedback": "Incorrecto. Simplemente invierte los signos sin intercambiar los valores entre masas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ambas esferas quedan en reposo.",
           "is_correct": false,
           "feedback": "Incorrecto. Ocurriría solo si chocaran inelásticamente con velocidades opuestas e iguales."
@@ -497,7 +497,7 @@
           "feedback": "Incorrecto. Eso caracterizaría a un choque perfectamente inelástico."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "En colisiones frontales perfectamente elásticas entre dos masas exactamente iguales ($m_1 = m_2$), las partículas intercambian por completo sus vectores de velocidad. Por tanto: $v_{Af} = v_{Bi} = -2\\text{ m/s}$ y $v_{Bf} = v_{Ai} = +6\\text{ m/s}$.",
       "difficulty": "8",
       "images": [],
@@ -519,13 +519,13 @@
       "context": "En Cartagena se analiza el punto de ebullición de los alcanos lineales en función del número de carbonos ($C_1$ a $C_{10}$).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Porque aumenta la masa molar y la superficie molecular, fortaleciendo la intensidad de las fuerzas de dispersión de London.",
           "is_correct": true,
           "feedback": "Correcto. Las moléculas más grandes tienen mayor área de contacto e inducen dipolos instantáneos más intensos (fuerzas de London)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque se forman puentes de hidrógeno entre los metilos terminales.",
           "is_correct": false,
           "feedback": "Incorrecto. Los alcanos apolares carecen de puentes de hidrógeno."
@@ -543,7 +543,7 @@
           "feedback": "Incorrecto. Mantienen la proporción $C_n H_{2n+2}$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Al aumentar la longitud de la cadena lineal en alcanos, la masa molecular y la superficie de interacción aumentan. Esto incrementa la polarizabilidad de la nube electrónica, intensificando las fuerzas intermoleculares de dispersión de London y elevando el punto de ebullición.",
       "difficulty": "8",
       "images": [],
@@ -565,31 +565,31 @@
       "context": "Un bloque de $5\\text{ kg}$ parte del reposo y se desliza desde la cima de un plano inclinado de $4\\text{ m}$ de altura en Bogotá. Al llegar a la base, su velocidad medida es de $6\\text{ m/s}$. Considere $g = 10\\text{ m/s}^2$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$-110\\text{ Joules}$",
           "is_correct": true,
           "feedback": "Correcto. $E_{pi} = m g h = 5 \\times 10 \\times 4 = 200\\text{ J}$. $E_{kf} = \\frac{1}{2} m v^2 = \\frac{1}{2}(5)(36) = 90\\text{ J}$. Trabajo de fricción $W_{friccion} = E_{kf} - E_{pi} = 90 - 200 = -110\\text{ J}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$-200\\text{ Joules}$",
           "is_correct": false,
           "feedback": "Incorrecto. Es la energía potencial inicial total disipada hipotéticamente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$-90\\text{ Joules}$",
           "is_correct": false,
           "feedback": "Incorrecto. Es la energía cinética final adquirida por el cuerpo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$0\\text{ Joules}$",
           "is_correct": false,
           "feedback": "Incorrecto. Si no hubiera fricción la velocidad final habría sido $\\sqrt{80} \\approx 8.94\\text{ m/s}$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Por el Teorema Trabajo-Energía no conservativo: $W_{friccion} = \\Delta E_m = E_{m,f} - E_{m,i} = \\frac{1}{2} m v_f^2 - m g h_i = 90\\text{ J} - 200\\text{ J} = -110\\text{ J}$.",
       "difficulty": "8",
       "images": [],
@@ -611,13 +611,13 @@
       "context": "Se mide la frecuencia de fotones emitidos por dos fuentes atómicas: Fuente A ($\n\nu_A = 6 \\times 10^{14}\\text{ Hz}$) y Fuente B ($\n\nu_B = 3 \\times 10^{14}\\text{ Hz}$).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$E_A = 2 E_B$",
           "is_correct": true,
           "feedback": "Correcto. Por la ecuación de Planck $E = h\nu$, la energía es directamente proporcional a la frecuencia. Al ser $\nu_A = 2\nu_B$, resulta $E_A = 2 E_B$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$E_A = \\frac{1}{2} E_B$",
           "is_correct": false,
           "feedback": "Incorrecto. Relación inversamente proporcional errónea."
@@ -635,7 +635,7 @@
           "feedback": "Incorrecto. La energía depende directamente de la frecuencia."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La hipótesis cuántica de Planck postula que la energía de un fotón es $E = h cdot\nu$. Dado que la frecuencia de A es el doble de la de B ($\nu_A = 2\nu_B$), su energía es el doble ($E_A = 2 E_B$).",
       "difficulty": "8",
       "images": [],
@@ -657,31 +657,31 @@
       "context": "Se compara la estabilidad de los isómeros geométricos *cis*-1,2-dicloroeteno y *trans*-1,2-dicloroeteno en un laboratorio de Armenia.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "El isómero *cis* es polar ($mu\neq 0$) y el isómero *trans* es apolar ($mu = 0$).",
           "is_correct": true,
           "feedback": "Correcto. En el isómero *trans*, los vectores dipolo C-Cl apuntan en sentidos opuestos cancelándose. En el *cis* apuntan al mismo lado sumándose."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El isómero *trans* es polar y el *cis* es apolar.",
           "is_correct": false,
           "feedback": "Incorrecto. Asignación espacial invertida de los dipolos de enlace."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ambos isómeros son estrictamente apolares.",
           "is_correct": false,
           "feedback": "Incorrecto. El enlace C-Cl es polar y en la conformación *cis* sus vectores se suman."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Ambos isómeros poseen el mismo momento dipolar no nulo.",
           "is_correct": false,
           "feedback": "Incorrecto. La simetría del isómero *trans* anula el dipolo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "En el *trans*-1,2-dicloroeteno, los dos enlaces polares $C-Cl$ están orientados simétricamente a $180^\\circ$ uno del otro respecto al eje central, cancelando los dipolos ($\\vec{mu}_{trans} = 0$). En el *cis*, los dos cloros están del mismo lado, sumando sus dipolos ($\\vec{mu}_{cis}\neq 0$).",
       "difficulty": "8",
       "images": [],
@@ -703,19 +703,19 @@
       "context": "Un péndulo simple oscila con un período de $2.0\\text{ s}$ en Bogotá. Si se quadruplica la longitud de la cuerda ($L' = 4L$), ¿cuál será el nuevo período $T'$?",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$4.0\\text{ segundos}$",
           "is_correct": true,
           "feedback": "Correcto. Como $T propto \\sqrt{L}$, al quadruplicar la longitud $L \\rightarrow 4L$, el período se multiplica por $\\sqrt{4} = 2$. $T' = 2 \\times 2.0 = 4.0\\text{ s}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$8.0\\text{ segundos}$",
           "is_correct": false,
           "feedback": "Incorrecto. Asume una relación de proporcionalidad directa sin raíz cuadrada."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$1.0\\text{ segundo}$",
           "is_correct": false,
           "feedback": "Incorrecto. El período aumenta al alargar la cuerda, no disminuye."
@@ -727,7 +727,7 @@
           "feedback": "Incorrecto. El período es sensible a la longitud de la cuerda."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El período de un péndulo es $T = 2\\pi \\sqrt{\\frac{L}{g}}$. Si la longitud cambia a $L' = 4L$, el nuevo período es $T' = 2\\pi \\sqrt{\\frac{4L}{g}} = 2 \\left(2\\pi \\sqrt{\\frac{L}{g}}\\right) = 2 T = 2(2.0) = 4.0\\text{ s}$.",
       "difficulty": "8",
       "images": [],
@@ -749,19 +749,19 @@
       "context": "Se investiga el mecanismo de reacción de cloración del metano que transcurre por radicales libres con activación fotoquímica.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Ruptura homolítica de la molécula de $Cl_2$ formando dos radicales libres de cloro.",
           "is_correct": true,
           "feedback": "Correcto. La luz fotoliza el enlace covalente $Cl-Cl$ repartiendo equitativamente los electrones para generar dos radicales libres de cloro."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Ruptura heterolítica del metano generando un catión metilo y un hidruro.",
           "is_correct": false,
           "feedback": "Incorrecto. Ocurre en reacciones iónicas polarizadas, no radicalarias iniciadas por luz."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ataque directo del $Cl_2$ neutro sobre el enlace $C-H$ sin intermediarios.",
           "is_correct": false,
           "feedback": "Incorrecto. Requiere la formación inicial de los radicales libres propagadores."
@@ -773,7 +773,7 @@
           "feedback": "Incorrecto. Reacción de oxidación térmica no sustitutiva."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La etapa de iniciación en la halogenación radicalaria involucra la absorción de un fotón $h\nu$ por la molécula de halógeno ($Cl_2$), provocando la escisión homolítica del enlace $Cl-Cl$ para producir dos radicales libres de cloro altamente reactivos.",
       "difficulty": "10",
       "images": [],
@@ -795,31 +795,31 @@
       "context": "Un sistema físico de tres masas $m_1=1\\text{ kg}$, $m_2=2\\text{ kg}$ y $m_3=3\\text{ kg}$ se ubica sobre el eje $x$ en las posiciones $x_1=0\\text{ m}$, $x_2=3\\text{ m}$ y $x_3=6\\text{ m}$ respectivamente en Bogotá.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$x_{CM} = 4.0\\text{ metros}$",
           "is_correct": true,
           "feedback": "Correcto. $x_{CM} = \\frac{m_1 x_1 + m_2 x_2 + m_3 x_3}{m_1 + m_2 + m_3} = \\frac{(1 \\times 0) + (2 \\times 3) + (3 \\times 6)}{1 + 2 + 3} = \\frac{0 + 6 + 18}{6} = \\frac{24}{6} = 4.0\\text{ m}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x_{CM} = 3.0\\text{ metros}$",
           "is_correct": false,
           "feedback": "Incorrecto. Promedio aritmético simple de las posiciones sin ponderar por la masa."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x_{CM} = 4.5\\text{ metros}$",
           "is_correct": false,
           "feedback": "Incorrecto. Error de cálculo en el numerador."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$x_{CM} = 2.0\\text{ metros}$",
           "is_correct": false,
           "feedback": "Incorrecto. Desplazamiento erróneo hacia la masa menor."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La coordenada del centro de masa para una distribución discreta de masas unidimensional es $x_{CM} = \\frac{\\sum m_i x_i}{\\sum m_i} = \\frac{(1 \\cdot 0) + (2 \\cdot 3) + (3 \\cdot 6)}{1 + 2 + 3} = \\frac{24}{6} = 4.0\\text{ m}$.",
       "difficulty": "10",
       "images": [],
@@ -841,13 +841,13 @@
       "context": "Se analiza el decaimiento radiactivo Alfa del Uranio-238 ($^{238}_{92}U$).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Torio-234 ($^{234}_{90}Th$)",
           "is_correct": true,
           "feedback": "Correcto. La emisión alfa resta 4 a la masa atómica $A$ ($238 - 4 = 234$) y resta 2 al número atómico $Z$ ($92 - 2 = 90$, Torio)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Torio-238 ($^{238}_{90}Th$)",
           "is_correct": false,
           "feedback": "Incorrecto. La emisión alfa reduce la masa en 4 unidades."
@@ -865,7 +865,7 @@
           "feedback": "Incorrecto. Corresponde a múltiples decaimientos sucesivos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Una partícula alfa es un núcleo de Helio ($^4_2He$). Por conservación del número de masa y número atómico: $^{238}_{92}U \\rightarrow ^{234}_{90}Th + ^4_2He$. El elemento producido con $Z=90$ es el Torio.",
       "difficulty": "10",
       "images": [],

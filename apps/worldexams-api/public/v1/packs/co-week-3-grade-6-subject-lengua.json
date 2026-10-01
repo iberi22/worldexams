@@ -25,19 +25,19 @@
           "feedback": "Incorrecto. Eso es comunicación agresiva."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Expresar nuestros sentimientos, necesidades y opiniones de manera clara, honesta y respetuosa, sin agredir a los demás.",
           "is_correct": true,
           "feedback": "Correcto. La asertividad es el equilibrio entre el respeto a uno mismo y el respeto a los demás."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Quedarse callado cuando algo nos molesta para no generar discusiones.",
           "is_correct": false,
           "feedback": "Incorrecto. Eso es una conducta pasiva que no resuelve el conflicto."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La comunicación asertiva es una habilidad social que nos permite expresar nuestros pensamientos y emociones de forma directa y firme, pero siempre manteniendo el respeto hacia el interlocutor.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -65,25 +65,25 @@
           "feedback": "Incorrecto. Es un mensaje agresivo que ataca a la persona."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "\"Me siento un poco sobrecargado porque hice la cartelera solo. Me gustaría que nos dividiéramos mejor las tareas la próxima vez\".",
           "is_correct": true,
           "feedback": "Correcto. Usa el \"yo\" para expresar sentimientos y propone una solución sin insultar."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "No decirle nada y hacer todo el trabajo con rabia, pero en silencio.",
           "is_correct": false,
           "feedback": "Incorrecto. Es una respuesta pasiva que genera resentimiento."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Decirle al profesor que el compañero es una mala persona frente a todo el salón.",
           "is_correct": false,
           "feedback": "Incorrecto. Es una conducta agresiva y poco constructiva."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Una técnica de la comunicación asertiva es hablar desde el \"yo\" (cómo me siento) en lugar de usar el \"tú\" acusador (\"tú eres...\", \"tú hiciste...\"), lo cual reduce la actitud defensiva del otro.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -111,13 +111,13 @@
           "feedback": "Incorrecto. Es una conducta pasiva."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Tirar la cuchara y gritar que el servicio en ese restaurante es pésimo.",
           "is_correct": false,
           "feedback": "Incorrecto. Es una conducta agresiva."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Llamar al mesero con respeto y explicarle que la sopa está fría, solicitando amablemente que la calienten.",
           "is_correct": true,
           "feedback": "Correcto. Expresa una necesidad real de forma respetuosa y busca una solución."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecto. Es una conducta agresiva y desproporcionada."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Ser asertivo implica defender nuestros derechos como consumidores o ciudadanos sin perder la educación. Se trata de pedir lo justo de la manera correcta.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -151,19 +151,19 @@
       "context": "Durante un debate escolar en Armenia sobre el uso del uniforme, un estudiante no está de acuerdo con lo que dijo su compañera.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "\"Lo que acabas de decir es una tontería y no tiene sentido\".",
           "is_correct": false,
           "feedback": "Incorrecto. Descalifica la opinión del otro."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "\"Yo tengo la razón porque he leído más sobre el tema que tú\".",
           "is_correct": false,
           "feedback": "Incorrecto. Es una actitud de superioridad agresiva."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "\"Entiendo tu punto de vista, pero yo tengo una opinión diferente basada en estos motivos...\".",
           "is_correct": true,
           "feedback": "Correcto. Valida que escuchó al otro (empatía) antes de exponer su propia opinión con argumentos."
@@ -175,7 +175,7 @@
           "feedback": "Incorrecto. El debate requiere exponer ideas; el silencio es pasivo."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "La asertividad en el debate incluye la escucha activa. Validar que entendimos la posición del otro antes de presentar la nuestra ayuda a que el diálogo sea fluido y sin ataques personales.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -341,13 +341,13 @@
           "feedback": "Incorrecto. Es una respuesta agresiva que puede dañar la amistad."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Prestárselo aunque no quieras, por miedo a que se enoje contigo.",
           "is_correct": false,
           "feedback": "Incorrecto. Es una respuesta pasiva que te genera malestar a ti."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "\"Te aprecio mucho, pero prefiero no prestar mis videojuegos porque me gusta cuidarlos mucho. Podemos jugar juntos en mi casa si quieres\".",
           "is_correct": true,
           "feedback": "Correcto. Expresa el \"no\" con claridad, explica su motivo sin atacar y ofrece una alternativa."
@@ -359,7 +359,7 @@
           "feedback": "Incorrecto. La mentira no es honesta ni asertiva."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Saber decir \"no\" es una de las pruebas de fuego de la asertividad. Se puede rechazar una petición siendo honesto sobre nuestros motivos y manteniendo el afecto por la otra persona.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -381,13 +381,13 @@
       "context": "En un grupo de WhatsApp de padres de familia de un colegio de Envigado, alguien publica información falsa que genera pánico.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Insultar al padre que publicó la noticia por ser tan descuidado.",
           "is_correct": false,
           "feedback": "Incorrecto. La agresión solo genera más caos en el grupo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Publicar de forma calmada la fuente oficial que desmiente la noticia, pidiendo verificar antes de compartir.",
           "is_correct": true,
           "feedback": "Correcto. Corrige el error con datos objetivos y de manera educada para el bienestar del grupo."
@@ -405,7 +405,7 @@
           "feedback": "Incorrecto. Es una conducta irresponsable."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La asertividad en medios digitales requiere el mismo respeto que en persona. Corregir una información falsa con pruebas y sin ataques personales es un acto de comunicación responsable.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -427,19 +427,19 @@
       "context": "Analiza la siguiente frase: \"La asertividad no es una garantía de que los demás hagan lo que tú quieres, sino de que tú te respetas a ti mismo\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Que si soy asertivo, siempre voy a ganar todas las discusiones.",
           "is_correct": false,
           "feedback": "Incorrecto. La asertividad no se trata de ganar o perder."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Que ser asertivo es inútil porque la gente no siempre nos hace caso.",
           "is_correct": false,
           "feedback": "Incorrecto. La utilidad está en el autorespeto y la salud emocional."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Que el éxito de la asertividad está en nuestra honestidad y tranquilidad al expresarnos, independientemente de la reacción del otro.",
           "is_correct": true,
           "feedback": "Correcto. No podemos controlar a los demás, pero sí nuestra forma de tratarnos y tratar a otros."
@@ -451,7 +451,7 @@
           "feedback": "Incorrecto. La asertividad es para todos, especialmente para quienes les cuesta expresarse."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "A menudo confundimos asertividad con persuasión o manipulación. La asertividad busca que seamos coherentes con nuestros valores y que nuestra voz sea escuchada con respeto, sin importar si el otro cambia de opinión o no.\n\n---\n\n[//]: # (QUALITY_REVIEW)\n| Dimension | Puntaje |\n|-----------|---------|\n| Tecnico | 10/10 |\n| Curricular | 10/10 |\n| Contexto | 10/10 |\n| Redaccion | 10/10 |\n| **Total** | **40/40** |",
       "difficulty": "10",
       "images": [],

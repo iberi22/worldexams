@@ -59,13 +59,13 @@
       "context": "El mismo manual señala en su presentación: \"Este Manual de Convivencia es un pacto colectivo construido con la participación de estudiantes, docentes y familias. Su propósito no es castigar, sino formar ciudadanos responsables que resuelvan sus diferencias mediante el diálogo y el respeto por los derechos de los demás\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Formar ciudadanos responsables que resuelvan sus diferencias mediante el diálogo y el respeto.",
           "is_correct": true,
           "feedback": "La presentación declara que el propósito es formar, no castigar, promoviendo el diálogo y el respeto por los derechos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Establecer un listado de castigos severos para sancionar cualquier falta de inmediato.",
           "is_correct": false,
           "feedback": "El texto aclara expresamente que su propósito no es castigar, sino formar."
@@ -83,7 +83,7 @@
           "feedback": "El manual se define como un pacto construido con la participación de las familias."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Comprender el propósito global de un texto institucional permite interpretar correctamente cada una de sus normas particulares.",
       "difficulty": "4",
       "images": [],
@@ -105,13 +105,13 @@
       "context": "Durante el descanso en un colegio de Pasto, dos estudiantes de quinto grado discuten porque ambos quieren usar el único balón disponible. Uno de ellos insulta al otro y amenaza con empujarlo. El manual establece: \"Ante un conflicto, los estudiantes deben: primero, detenerse y respirar; segundo, expresar lo que sienten sin insultos; tercero, buscar un acuerdo justo o acudir al mediador escolar\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Detenerse, expresar lo que sienten sin insultos y buscar un acuerdo justo o acudir al mediador.",
           "is_correct": true,
           "feedback": "Este es el procedimiento de tres pasos que el manual prescribe para resolver los conflictos de forma pacífica."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Resolver la disputa con empujones para demostrar quién es más fuerte con el balón.",
           "is_correct": false,
           "feedback": "La agresión física contradice el principio de resolución pacífica del manual."
@@ -129,7 +129,7 @@
           "feedback": "Esconder el balón no resuelve el conflicto ni sigue ninguno de los pasos del procedimiento."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Aplicar una norma a un caso concreto desarrolla la capacidad de trasladar los principios de convivencia a la vida escolar diaria.",
       "difficulty": "6",
       "images": [],
@@ -289,19 +289,19 @@
       "context": "Compare dos textos sobre el mismo tema. Texto del manual: \"Artículo 14. Los estudiantes tienen derecho a ser escuchados por los docentes y directivos antes de recibir cualquier sanción, garantizando el debido proceso\". Nota informal de un estudiante: \"El profe me castigó sin dejarme explicar lo que pasó en el patio\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "La situación vulnera el derecho al debido proceso porque el estudiante fue sancionado sin ser escuchado.",
           "is_correct": true,
           "feedback": "El artículo garantiza ser escuchado antes de la sanción; castigar sin escuchar contradice esa norma."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La nota confirma que el manual se cumplió correctamente en todos sus pasos.",
           "is_correct": false,
           "feedback": "Si al estudiante no lo dejaron explicar, el procedimiento del artículo no se cumplió."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El artículo y la nota hablan de temas completamente distintos sin relación entre sí.",
           "is_correct": false,
           "feedback": "Ambos tratan del mismo derecho: ser escuchado antes de recibir una sanción."
@@ -313,7 +313,7 @@
           "feedback": "El artículo 14 reconoce expresamente el derecho a ser escuchado y al debido proceso."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Contrastar la norma escrita con un caso real permite analizar si los derechos consagrados se respetan en la práctica escolar.",
       "difficulty": "8",
       "images": [],
@@ -335,13 +335,13 @@
       "context": "Un estudiante afirma: \"El Manual de Convivencia no sirve para nada porque los problemas del descanso se arreglan mejor con peleas que con diálogos y mediadores\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El diálogo y la mediación reparan las relaciones y enseñan a convivir, mientras la pelea genera más violencia y sanciones.",
           "is_correct": true,
           "feedback": "La resolución pacífica preserva los vínculos y forma ciudadanía; la agresión multiplica el daño y vulnera derechos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El estudiante tiene razón porque dialogar quita demasiado tiempo y pelear es más divertido.",
           "is_correct": false,
           "feedback": "La rapidez de la pelea no la hace justa; el diálogo construye acuerdos duraderos y respetuosos."
@@ -359,7 +359,7 @@
           "feedback": "El mediador facilita acuerdos pacíficos, no castiga; el juego no es una falta sancionable."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Evaluar los prejuicios contra las normas de convivencia exige argumentar cómo el diálogo protege los derechos y construye una cultura de paz.",
       "difficulty": "10",
       "images": [],

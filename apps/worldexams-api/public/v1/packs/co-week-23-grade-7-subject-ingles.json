@@ -19,25 +19,25 @@
           "feedback": "Incorrect. This is for uncountable nouns."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "How many",
           "is_correct": true,
           "feedback": "Correct! \"How many\" is used for countable nouns."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "How little",
           "is_correct": false,
           "feedback": "Incorrect. Not a standard way to ask for quantity."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "How some",
           "is_correct": false,
           "feedback": "Incorrect. Not a grammatically correct structure."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "The student identifies the basic distinction between \"much\" and \"many\" for questions.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -59,13 +59,13 @@
       "context": "Using \"any\" in negative sentences.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "some",
           "is_correct": false,
           "feedback": "Incorrect. \"Some\" is for affirmative sentences."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "any",
           "is_correct": true,
           "feedback": "Correct! \"Any\" is used in negative sentences and questions."
@@ -83,7 +83,7 @@
           "feedback": "Incorrect. \"Few\" implies a small number, not zero."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "The student remembers the rule for using \"any\" in negative constructions.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -151,13 +151,13 @@
       "context": "Asking for an amount of a liquid.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "much",
           "is_correct": true,
           "feedback": "Correct! \"Much\" is used for uncountable nouns like juice."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "many",
           "is_correct": false,
           "feedback": "Incorrect. \"Many\" is for countable nouns."
@@ -175,7 +175,7 @@
           "feedback": "Incorrect. Not used with \"How\" for questions."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "The student understands the correct use of \"much\" with uncountable nouns in questions.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -197,19 +197,19 @@
       "context": "Describing a problem in a recipe.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "many",
           "is_correct": false,
           "feedback": "Incorrect. Salt is uncountable."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "a few",
           "is_correct": false,
           "feedback": "Incorrect. Salt is uncountable."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "very little",
           "is_correct": true,
           "feedback": "Correct! \"Very little\" describes a small, often insufficient amount of an uncountable noun."
@@ -221,7 +221,7 @@
           "feedback": "Incorrect. \"Some\" implies we have some, so we probably could make it."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "The student applies knowledge of quantifiers to a situation where an amount is insufficient.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -295,13 +295,13 @@
           "feedback": "Incorrect. Much is for uncountable."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "any / little",
           "is_correct": false,
           "feedback": "Incorrect. \"Little\" is for uncountable."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "many / lots",
           "is_correct": true,
           "feedback": "Correct! \"Many\" for the countable question and \"lots of\" for a large amount."
@@ -313,7 +313,7 @@
           "feedback": "Incorrect. \"Some\" is not typically used for a simple \"Are there...?\" question."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "The student applies the correct combination of quantifiers for countable plural subjects in dialogue.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -341,13 +341,13 @@
           "feedback": "Incorrect. Sugar is uncountable, needs \"much\"."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "There are much students in the class.",
           "is_correct": false,
           "feedback": "Incorrect. Students are countable, needs \"many\"."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "I don't have much time to study today.",
           "is_correct": true,
           "feedback": "Correct! Time is uncountable and \"much\" is used in negatives."
@@ -359,7 +359,7 @@
           "feedback": "Incorrect. Redundant use of quantifiers."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "The student analyzes sentence structures to ensure agreement between the quantifier and the noun type.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -381,13 +381,13 @@
       "context": "Comparing two recipes based on quantifiers.\n\n\"Recipe A uses a lot of butter and many eggs. Recipe B uses a little butter and few eggs.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Recipe A",
           "is_correct": false,
           "feedback": "Incorrect. It has \"a lot\" and \"many\"."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Recipe B",
           "is_correct": true,
           "feedback": "Correct! \"A little\" and \"few\" indicate smaller quantities of fats and cholesterol sources."
@@ -405,7 +405,7 @@
           "feedback": "Incorrect. The quantifiers provide enough information to compare."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "The student analyzes and compares information provided by quantifiers to make a logical deduction.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -433,13 +433,13 @@
           "feedback": "Incorrect. It already has \"many\"."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "More computers and modern technology.",
           "is_correct": true,
           "feedback": "Correct! \"Very little equipment\" and \"few computers\" highlight the deficiency."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Fewer students.",
           "is_correct": false,
           "feedback": "Incorrect. Not mentioned as a problem."
@@ -451,7 +451,7 @@
           "feedback": "Incorrect. \"Some\" are already old; more are not needed."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "The student evaluates the quantitative information in a text to identify the main problem or priority.",
       "difficulty": "10",
       "images": [],

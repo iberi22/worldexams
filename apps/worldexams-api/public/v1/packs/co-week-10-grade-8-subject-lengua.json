@@ -13,13 +13,13 @@
       "context": "Al leer textos antiguos, es fundamental identificar el tipo de narrador para entender desde qué perspectiva se cuenta la historia.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Narrador omnisciente",
           "is_correct": false,
           "feedback": "El narrador omnisciente lo sabe todo pero no participa en la acción y suele usar la tercera persona."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Narrador protagonista",
           "is_correct": true,
           "feedback": "Correcto. El protagonista narra sus propias vivencias en primera persona."
@@ -37,7 +37,7 @@
           "feedback": "Este narrador se dirige a un \"tú\", creando un efecto de diálogo o apelación, pero no es el más común en relatos de vivencias personales."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El uso del narrador protagonista es común en las crónicas personales y diarios de viaje, permitiendo una conexión directa con las emociones y percepciones del autor.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -59,13 +59,13 @@
       "context": "Los textos informativos y expositivos buscan transmitir datos objetivos sobre un tema específico sin incluir opiniones personales del autor.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Función apelativa",
           "is_correct": false,
           "feedback": "La función apelativa busca convencer o dar órdenes al lector."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Función referencial o informativa",
           "is_correct": true,
           "feedback": "Correcto. Busca informar sobre la realidad de manera objetiva."
@@ -83,7 +83,7 @@
           "feedback": "La función poética busca crear belleza estética a través del lenguaje."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La función referencial es la base de los textos científicos, históricos y técnicos, donde la precisión de la información es más importante que el estilo decorativo.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -151,13 +151,13 @@
       "context": "\"Vimos árboles muy verdes y aguas muchas y frutas de diversas maneras. La gente andaba toda desnuda como su madre los parió\". (Cristóbal Colón, Diario de a bordo).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Indiferencia total por la naturaleza.",
           "is_correct": false,
           "feedback": "La mención detallada de árboles, aguas y frutas indica interés."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Asombro y curiosidad ante lo desconocido y exótico.",
           "is_correct": true,
           "feedback": "Correcto. Colón resalta la diferencia con lo conocido en Europa."
@@ -175,7 +175,7 @@
           "feedback": "El tono es de descubrimiento y registro de lo hallado."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La literatura del descubrimiento se caracteriza por el \"asombro ante la alteridad\" (lo otro), donde el narrador intenta traducir una realidad nueva a su propio lenguaje.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -203,13 +203,13 @@
           "feedback": "El argumento se centra en la condición humana, no en la economía."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Los indígenas deben aprender a leer y escribir español rápidamente.",
           "is_correct": false,
           "feedback": "No se menciona la educación en el argumento dado."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La defensa de la dignidad humana de los indígenas como base de su protección legal.",
           "is_correct": true,
           "feedback": "Correcto. El autor vincula la humanidad del indígena con el deber de protección."
@@ -221,7 +221,7 @@
           "feedback": "La tesis se enfoca en el derecho del indígena, no en el poder totalitario del rey."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Identificar la tesis permite comprender la intención política o moral del autor, especialmente en textos históricos de debate social.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -393,19 +393,19 @@
           "feedback": "En los códices, la imagen es parte esencial de la información narrada."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Permiten una comunicación más rica que incluye símbolos visuales, colores y conceptos complejos simultáneamente.",
           "is_correct": true,
           "feedback": "Correcto. La multimodalidad amplía las capas de significado del mensaje."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Que se pueden imprimir más rápido en las imprentas modernas.",
           "is_correct": false,
           "feedback": "Los códices eran hechos a mano; la rapidez de impresión no es una ventaja de su formato original."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La lectura crítica de textos multimodales requiere entender cómo la imagen y la palabra se complementan para crear un mensaje completo.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -439,19 +439,19 @@
           "feedback": "Llamarlos \"niños\" despoja a los líderes de su autoridad adulta y política."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Una visión paternalista que justifica la dominación y el control sobre el otro.",
           "is_correct": true,
           "feedback": "Correcto. Al infantilizar al indígena, se justifica la necesidad de un \"tutor\" o dominador."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Una crítica científica sobre la baja estatura de los habitantes de América.",
           "is_correct": false,
           "feedback": "El término es metafórico/social, no una observación biológica sobre el crecimiento."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "El lenguaje no es neutro; el uso de metáforas como la infancia para referirse a pueblos enteros es una herramienta poderosa de justificación política y social.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -479,13 +479,13 @@
           "feedback": "El uso de metáforas comunes para temas distintos es intertextualidad, no necesariamente plagio."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Un error de anacronismo por usar palabras viejas en temas nuevos.",
           "is_correct": false,
           "feedback": "La literatura a menudo reutiliza símbolos antiguos para darles nuevos significados."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Una relación intertextual que enriquece el poema moderno con el peso histórico del viaje original.",
           "is_correct": true,
           "feedback": "Correcto. Conecta la experiencia personal con el gran relato del descubrimiento."
@@ -497,7 +497,7 @@
           "feedback": "La intertextualidad es un recurso literario sofisticado, no una falta de creatividad."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "La intertextualidad permite que los textos \"hablen\" entre sí a través del tiempo, creando una red de significados compartidos por la cultura.\n\n---",
       "difficulty": "10",
       "images": [],

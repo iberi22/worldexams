@@ -19,13 +19,13 @@
           "feedback": "Incorrect. Coffee doesn't grow itself; it is grown by people."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "is grown",
           "is_correct": true,
           "feedback": "Correct! Present passive: am/is/are + past participle."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "are grown",
           "is_correct": false,
           "feedback": "Incorrect. \"Coffee\" is uncountable and takes \"is\"."
@@ -37,7 +37,7 @@
           "feedback": "Incorrect. We need the past participle \"grown\"."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La voz pasiva se usa cuando el objeto (el café) es más importante que quien realiza la acción. La estructura es: verbo \"to be\" + participio pasado.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -105,19 +105,19 @@
       "context": "Identifying the \"by\" agent.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "for",
           "is_correct": false,
           "feedback": "Incorrect."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "from",
           "is_correct": false,
           "feedback": "Incorrect."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "by",
           "is_correct": true,
           "feedback": "Correct! We use \"by\" to introduce the person who performed the action in passive voice."
@@ -129,7 +129,7 @@
           "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Cuando queremos mencionar quién realizó la acción en una oración pasiva (el agente), usamos la preposición \"by\".\n\n---",
       "difficulty": "4",
       "images": [],
@@ -163,19 +163,19 @@
           "feedback": "Incorrect. Smartphone is singular."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "is made",
           "is_correct": true,
           "feedback": "Correct! Present passive for a general fact about an object."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "made",
           "is_correct": false,
           "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Para procesos de fabricación o descripciones de objetos, el presente pasivo es muy común porque el fabricante no suele ser el foco de la oración.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "Changing active to passive.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "is cleaned",
           "is_correct": false,
           "feedback": "Incorrect. \"Windows\" is plural."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "are cleaned",
           "is_correct": true,
           "feedback": "Correct! Plural subject in present passive."
@@ -221,7 +221,7 @@
           "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Al pasar de activa a pasiva, el objeto de la activa se convierte en el sujeto de la pasiva y el verbo \"to be\" debe concordar con este nuevo sujeto.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -249,25 +249,25 @@
           "feedback": "Incorrect. Active voice would need a subject like \"Columbus discovered America\"."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "was discovered",
           "is_correct": true,
           "feedback": "Correct! Past passive for a historical event."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "is discovered",
           "is_correct": false,
           "feedback": "Incorrect. It happened in the past."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "were discovered",
           "is_correct": false,
           "feedback": "Incorrect. America is singular."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Los hechos históricos se narran frecuentemente en pasado pasivo cuando el foco está en el territorio o el evento, más que en la persona.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -381,13 +381,13 @@
       "context": "Questions in passive voice.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Did / filmed",
           "is_correct": false,
           "feedback": "Incorrect. Active structure."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Was / filmed",
           "is_correct": true,
           "feedback": "Correct! Question structure: Was/Were + subject + past participle."
@@ -405,7 +405,7 @@
           "feedback": "Incorrect. Present continuous."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Para hacer preguntas en voz pasiva, invertimos el orden del verbo \"to be\" y el sujeto.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -433,25 +433,25 @@
           "feedback": "Incorrect. Plural subject, correct participle."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "was wrote",
           "is_correct": true,
           "feedback": "Correct! Error found. The past participle of \"write\" is \"written\", not \"wrote\"."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "it was presented",
           "is_correct": false,
           "feedback": "Incorrect. Correct passive form."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "last Tuesday",
           "is_correct": false,
           "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El conocimiento de los participios pasados irregulares es fundamental para usar correctamente la voz pasiva en nivel B1.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -479,13 +479,13 @@
           "feedback": "Incorrect. Too direct and focuses on an unknown \"someone\"."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "The local bank was robbed early this morning; the suspects are still at large.",
           "is_correct": true,
           "feedback": "Correct! Passive voice provides a more formal and objective tone."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "A bank was being broken by some guys.",
           "is_correct": false,
           "feedback": "Incorrect. Awkward grammar."
@@ -497,7 +497,7 @@
           "feedback": "Incorrect. Illogical."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "En contextos formales (como noticias o ciencia), la voz pasiva se prefiere porque otorga objetividad y enfoca la atención en el evento mismo.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -519,31 +519,31 @@
       "context": "Selecting the best summary.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Human actions result in significant harm to marine life through plastic waste.",
           "is_correct": true,
           "feedback": "Correct! It captures the cause and effect described in the passive voice sentences."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Animals are throwing plastic to the humans.",
           "is_correct": false,
           "feedback": "Incorrect. Misinterprets the passive agent."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Plastic is a healthy food for many ocean species.",
           "is_correct": false,
           "feedback": "Incorrect. Contradicts the text."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Scientists are not interested in the ocean anymore.",
           "is_correct": false,
           "feedback": "Incorrect. Not mentioned."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Comprender un texto en voz pasiva implica identificar correctamente quién recibe la acción y quién la realiza (aunque no sea el sujeto gramatical).",
       "difficulty": "10",
       "images": [],

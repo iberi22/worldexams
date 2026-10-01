@@ -19,25 +19,25 @@
           "feedback": "Incorreto. O objeto indireto completa o sentido de um verbo transitivo indireto e não de um nome (substantivo/adjetivo)."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Complemento Nominal.",
           "is_correct": true,
           "feedback": "Correto! O complemento nominal completa nomes transitivos abstratos, regido sempre por preposição obrigatória."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Adjunto Adnominal.",
           "is_correct": false,
           "feedback": "Incorreto. O adjunto adnominal apenas acompanha, determina ou caracteriza o substantivo concreto ou abstrato sem completá-lo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Agente da Passiva.",
           "is_correct": false,
           "feedback": "Incorreto. O agente da passiva indica quem pratica a ação expressa pelo verbo na voz passiva analítica."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "O complemento nominal é o termo que integra o sentido de um substantivo abstrato (\"necessidade de asfalto\"), adjetivo (\"favorável à proposta\") ou advérbio (\"relativamente ao caso\"), sendo sempre precedido de preposição e possuindo valor passivo (recebe a ação nominal).",
       "difficulty": "4",
       "images": [],
@@ -109,25 +109,25 @@
           "feedback": "Incorreto. O termo completa o sentido do verbo \"agradou\" e não do substantivo \"construção\"."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Objeto Indireto do verbo transitivo indireto \"agradou\", vindo precedido da preposição exigida pelo verbo.",
           "is_correct": true,
           "feedback": "Correto! O verbo \"agradar\" (no sentido de ser agradável) é transitivo indireto, demandando objeto indireto regido por preposição."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Sujeito composto de Curitiba, praticando de forma unida e coordenada a ação de reformar estradas no Paraná.",
           "is_correct": false,
           "feedback": "Incorreto. \"aos pedestres\" está preposicionado; o sujeito da oração é \"A construção das novas calçadas\"."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Adjunto Adnominal do substantivo concreto \"ruas\" das margens dos rios paranaenses de trânsito em silêncio.",
           "is_correct": false,
           "feedback": "Incorreto. Não se acompanha substantivo concreto de ruas, mas completa-se a predicação verbal do trânsito na capital."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "O verbo agradar (no sentido de satisfazer ou ser agradável) é transitivo indireto e rege preposição (\"agradar a alguém\"). Portanto, o termo preposicionado \"aos pedestres de Curitiba\" funciona sintaticamente como objeto indireto da oração.",
       "difficulty": "4",
       "images": [],
@@ -154,13 +154,13 @@
           "feedback": "Incorreto. O verbo \"têm\" é transitivo direto e seu objeto direto é \"consciência\". A oração completa o substantivo \"consciência\"."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Oração subordinada substantiva completiva nominal, integrando o sentido do substantivo abstrato \"consciência\" com preposição.",
           "is_correct": true,
           "feedback": "Correto! Como a oração inteira completa o sentido de um nome (\"consciência\"), ela é completiva nominal."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Oração coordenada sindética adversativa de oposição de ideias, quebrando expectativas lógicas de trânsito de forma irônica.",
           "is_correct": false,
           "feedback": "Incorreto. Trata-se de oração subordinada integrante completiva e não de coordenação adversativa (\"porém/mas\")."
@@ -172,7 +172,7 @@
           "feedback": "Incorreto. Não é oração adjetiva (introduzida por pronome relativo), mas oração substantiva que completa a semântica do nome."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Orações subordinadas substantivas completivas nominais exercem o papel de complemento nominal de um termo da oração principal. Elas completam o sentido de nomes abstratos (substantivos abstratos de sentimento ou intelecto como \"consciência, certeza, medo, necessidade\"), vindo sempre regidas por preposição exigida pelo nome (\"consciência de algo\").",
       "difficulty": "4",
       "images": [],
@@ -193,13 +193,13 @@
       "context": "Um parágrafo de relatório técnico de engenharia civil em Belo Horizonte detalha a fiscalização de asfalto: \"A prefeitura de Belo Horizonte declarou o asfalto das avenidas de tráfego indestrutível de verdade\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Adjunto Adnominal do substantivo concreto \"asfalto\", acompanhando o nome de forma permanente de fábrica.",
           "is_correct": false,
           "feedback": "Incorreto. O adjetivo é uma qualidade provisória atribuída por meio da ação verbal de declarar, não sendo atributo inerente fixo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Predicativo do Objeto Direto \"o asfalto das avenidas\", caracterizando e qualificando o objeto por meio do verbo transitivo \"declarou\".",
           "is_correct": true,
           "feedback": "Correto! Verbos de opinião (\"declarar, julgar, achar\") exigem predicativo do objeto para completar a predicação de juízo."
@@ -217,7 +217,7 @@
           "feedback": "Incorreto. Trata-se de adjetivo qualificativo com função sintática de predicativo e não advérbio de tempo de relógio."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "O predicativo do objeto é o termo sintático (geralmente adjetivo ou substantivo) que qualifica ou atribui uma característica temporária ou juízo de valor ao objeto direto ou indireto da oração. Essa função sintática surge frequentemente associada a verbos transitivos predicativos de opinião, julgamento ou nomeação (como declarar, julgar, achar, nomear).",
       "difficulty": "6",
       "images": [],
@@ -244,13 +244,13 @@
           "feedback": "Incorreto. Vocativo é chamamento (\"Ó Brás Cubas!\"), ao passo que o termo explica quem é Brás Cubas de forma narrativa neutra."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Aposto explicativo, pois desenvolve, esclarece e explica a identidade do substantivo próprio antecedente \"Brás Cubas\".",
           "is_correct": true,
           "feedback": "Correto! Apostos explicativos vêm isolados por vírgulas e servem para detalhar termos anteriores da oração."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Predicativo do sujeito de Belo Horizonte, qualificando a ação de escrever livros de vestibular em silêncio de morte.",
           "is_correct": false,
           "feedback": "Incorreto. É um aposto nominal explicativo intercalado e não um adjetivo predicativo ligado por verbo de estado."
@@ -262,7 +262,7 @@
           "feedback": "Incorreto. O termo é nominal explicativo de identidade e não advérbio de transporte de asfalto de carruagens."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "O aposto explicativo é uma função sintática de base nominal. Sua finalidade gramatical de escrita é explicar, detalhar ou identificar com precisão sintática um substantivo ou pronome antecedente na oração, vindo tradicionalmente isolado por vírgulas, travessões ou parênteses de forma elegante de vestibular.",
       "difficulty": "6",
       "images": [],
@@ -289,13 +289,13 @@
           "feedback": "Incorreto. \"das ruas\" completa o substantivo abstrato de ação \"destruição\" com sentido passivo, não sendo adjunto adnominal de posse fixa."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Complemento Nominal (das ruas de Salvador - valor passivo: as ruas foram destruídas) e Adjunto Adnominal (pelas chuvas tropicais - valor ativo: as chuvas destruíram).",
           "is_correct": true,
           "feedback": "Correto! Analisar o sentido ativo ou passivo de termos ligados a substantivos abstratos desvela CN e AA."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Sujeito simples de Salvador (das ruas) e Agente da Passiva (pelas chuvas) do trânsito na hora das chuvas na capital.",
           "is_correct": false,
           "feedback": "Incorreto. O sujeito da oração principal é completo (\"A destruição das ruas... pelas chuvas\") e não termos isolados preposicionados."
@@ -307,7 +307,7 @@
           "feedback": "Incorreto. São complementos e adjuntos ligados a nomes (destruição) e não advérbios ligados ao tempo cronológico do relógio de ontem."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Quando termos preposicionados se ligam a substantivos abstratos derivados de ação (\"destruição\"), a diferenciação sintática apoia-se no nexo de sentido (ativo ou passivo). O Complemento Nominal possui valor passivo, sofrendo a ação (\"as ruas sofreram a destruição das ruas de Salvador\"). O Adjunto Adnominal possui valor ativo, praticando a ação (\"as chuvas praticaram a destruição pelas chuvas tropicais\"), garantindo a precisão analítica exigida na Competência 1 do ENEM.",
       "difficulty": "6",
       "images": [],
@@ -334,13 +334,13 @@
           "feedback": "Incorreto. O verbo auxiliar \"ser\" e o particípio caracterizam voz passiva analítica e não transitividade verbal indireta ativa."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Sujeito agente de Porto Alegre, praticando de forma ativa e direta a ação de soprar as folhas de ovelhas gaúchas.",
           "is_correct": false,
           "feedback": "Incorreto. O sujeito gramatical da oração é paciente (\"A estalagem de João Romão\") e sofre a ação física de ser sacudida."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Agente da Passiva, pois representa o elemento ativo real que pratica a ação de sacudir a estalagem na voz passiva analítica.",
           "is_correct": true,
           "feedback": "Correto! O agente da passiva vem regido pela preposição \"por\" (pelo/pela) e corresponde ao sujeito ativo da voz ativa."
@@ -352,7 +352,7 @@
           "feedback": "Incorreto. É termo integrante da oração passiva (agente) e não advérbio de transporte de asfalto ou de informática de robôs."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "O agente da passiva é o termo da oração que pratica a ação expressa pelo verbo na voz passiva analítica (\"estalagem era sacudida pelo vento\"). Se transpusermos a oração para a voz ativa, o agente da passiva converte-se no sujeito ativo da oração (\"O vento frio sacudia a estalagem de João Romão\"), consolidando o domínio de concordâncias e sintaxe complexa do vestibular nacional.",
       "difficulty": "6",
       "images": [],
@@ -379,13 +379,13 @@
           "feedback": "Incorreto. Somente o primeiro termo completa o verbo; o segundo se liga ao substantivo concrete de sapatos."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Objeto Indireto (de calçados de luxo - completa o verbo transitivo indireto \"necessita\") e Adjunto Adnominal (de couro legítimo - qualifica e acompanha o substantivo concreto \"calçados\").",
           "is_correct": true,
           "feedback": "Correto! Analisar a que termos se ligam os blocos preposicionados desvela sua predicação verbal ou nominal."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Sujeito simples paulistano (de calçados) e Complemento Nominal (de couro) de marcas de luxo na vitrine de lojas de moda.",
           "is_correct": false,
           "feedback": "Incorreto. Sujeito é \"São Paulo\" e termos preposicionados não atuam como sujeito gramatical de voz ativa de verbos de necessidade."
@@ -397,7 +397,7 @@
           "feedback": "Incorreto. O anúncio de calçados é publicitário conotativo de vendas corporativas de moda de luxo e não cartilhas de oficinas mecânicas."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "A análise sintática de termos preposicionados exige identificar o seu núcleo de ligação na oração. O termo \"de calçados de luxo\" completa a regência do verbo transitivo indireto \"necessitar\" (necessitar de algo), atuando como Objeto Indireto. Já o termo \"de couro legítimo\" caracteriza e restringe a matéria do substantivo concreto \"calçados\", funcionando como Adjunto Adnominal de matéria de forma de vestibular de prestígio.",
       "difficulty": "6",
       "images": [],
@@ -475,19 +475,19 @@
           "feedback": "Incorreto. É oração subordinada adjetiva introduzida pelo pronome relativo \"que\" (retoma \"As vozes\") e não coordenação aditiva de ações."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Oração subordinada adjetiva restritiva, introduzida pelo pronome relativo \"que\", funcionando sintaticamente como adjunto adnominal do substantivo \"vozes\".",
           "is_correct": true,
           "feedback": "Correto! Como a oração delimita e restringe as vozes sem vírgulas explicativas, ela é classificada como adjetiva restritiva."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Oração subordinada substantiva completiva nominal de luxo, completando nomes abstratos de camponeses do Paraná.",
           "is_correct": false,
           "feedback": "Incorreto. Completa o substantivo diretamente caracterizando-o por meio de pronome relativo, sem preposição de complemento nominal."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "As orações subordinadas adjetivas exercem o papel de Adjunto Adnominal do substantivo antecedente a que se referem na oração principal (\"vozes\"). Elas são introduzidas por pronomes relativos (\"que\", \"quem\", \"cujo\", \"onde\") e dividem-se em restritivas (sem vírgulas: restringem e delimitam a identidade do termo) e explicativas (isoladas por vírgulas: generalizam ou explicam atributo do nome), de alta utilidade analítica em Letras.",
       "difficulty": "8",
       "images": [],
@@ -514,13 +514,13 @@
           "feedback": "Incorreto. O verbo \"multar\" é transitivo direto e rege objeto direto não preposicionado de condutores de veículos."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Objeto Direto do verbo transitivo direto \"multou\", recebendo de forma direta a ação verbal de aplicação de multas no asfalto da capital.",
           "is_correct": true,
           "feedback": "Correto! O termo completa de forma direta sem preposição obrigatória a predicação de ação da prefeitura paulistana."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Sujeito paciente paulistano, sofrendo as multas na hora da fiscalização de guardas civis de trânsito estaduais.",
           "is_correct": false,
           "feedback": "Incorreto. O sujeito ativo da oração é \"A prefeitura paulistana\" e os condutores sofrem a ação como objeto gramatical de predicação."
@@ -532,7 +532,7 @@
           "feedback": "Incorreto. O termo é nominal de objeto e não de meio de locomoção de carros de asfalto ou de informática de computadores."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "O verbo multar (no sentido de aplicar multa fiscal de trânsito) é transitivo direto na norma-padrão escrita formal (multar alguém: \"A prefeitura multou os condutores\"). Portanto, o bloco nominal \"os condutores desatentos\" funciona sintaticamente como Objeto Direto da oração principal do alerta de rádio paulistano, de fácil compreensão pelo motorista de táxi do país.",
       "difficulty": "8",
       "images": [],
@@ -559,25 +559,25 @@
           "feedback": "Incorreto. \"urgente\" é adjetivo que atua como predicativo do sujeito inexistente; a oração completa o verbo de estado \"é\"."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Oração subordinada substantiva subjetiva, exercendo a função sintática de sujeito do verbo de ligação de estado \"É\" da oração principal.",
           "is_correct": true,
           "feedback": "Correto! A estrutura de oração impessoal (\"É bom, É necessário, É urgente\") exige oração subjetiva para sujeito lógico."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Oração coordenada sindética aditiva de ações, somando doutrinas de catequeses coloniais de jesuítas em Salvador.",
           "is_correct": false,
           "feedback": "Incorreto. É oração subordinada integrante introduzida pela conjunção integrante \"que\" e não coordenação aditiva de rimas."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Oração subordinada adjetiva explicativa de luxo, pintando um retrato bucólico de ninfas nas praias coloniais da Bahia de passagem.",
           "is_correct": false,
           "feedback": "Incorreto. Não se introduz por pronome relativo nem descreve características de ninfas mitológicas, mas atua como sujeito de tese moral."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "A estrutura sintática impessoal formada por verbo de ligação + adjetivo predicativo (\"É urgente, É necessário, É preciso\") carece de sujeito determinado na oração principal. Portanto, a oração subordinada substantiva introduzida pela conjunção integrante \"que\" (\"que vós arrependais\") atua de forma científica como Oração Subordinada Substantiva Subjetiva (o sujeito lógico da pregação do padre Antônio Vieira de vestibular).",
       "difficulty": "8",
       "images": [],
@@ -610,19 +610,19 @@
           "feedback": "Incorreto. Desvios de regência reduzem pontos na Competência 1, mas não anulam ou zeram a redação inteira do vestibular de Letras."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Um desvio de regência verbal clássico do português brasileiro, pois o verbo \"esquecer\" (quando não acompanhado de pronome de retomada \"se\") é transitivo direto e exige objeto direto sem preposição (\"esqueceram que o asfalto...\").",
           "is_correct": true,
           "feedback": "Correto! Se usar pronome de retorno, a regência de \"esquecer-se\" exige preposição (\"esqueceram-se de que o asfalto...\")."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Uma violação de regras de ortografia de acentuação de palavras latinas arcaicas medievais lusas em silêncio absoluto.",
           "is_correct": false,
           "feedback": "Incorreto. O desvio é de sintaxe de regência verbal e não de ortografia ou acentuação de palavras de dicionários."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Os verbos \"esquecer\" e \"lembrar\" possuem dupla regência padrão de alta cobrança no ENEM (Competência 1): 1) Não pronominais (sem \"se\"): são Transitivos Diretos e regem complemento sem preposição (\"Esqueci o livro\", \"Esqueceram que o asfalto necessita\"); 2) Pronominais (com \"se\"): são Transitivos Indiretos e regem preposição \"de\" obrigatória (\"Esqueci-me do livro\", \"Esqueceram-se de que o asfalto...\"). Misturar as duas formas (\"esqueceram de que...\") constitui desvio de regência, o qual deve ser corrigido para obter nota de prestígio no ENEM.",
       "difficulty": "8",
       "images": [],
@@ -649,13 +649,13 @@
           "feedback": "Incorreto. O pronome relativo está grafado corretamente, sem desvios ortográficos ou de acentuação de dicionários."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Gera duplo sentido (ambiguidade referencial), pois pode retomar de forma sintática tanto o substantivo \"condutores\" quanto o substantivo \"caminhões\", devendo ser substituído por \"os quais\" ou \"as quais\" de acordo com o referente desejado.",
           "is_correct": true,
           "feedback": "Correto! Identificar e desfazer ambiguidades sintáticas de pronomes relativos é essencial para obter nota máxima na Competência 1 e 3 do ENEM."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Consiste em um erro de farsa lúdica de internet que de fato impede qualquer morador do sul de compreender as avenidas do Paraná.",
           "is_correct": false,
           "feedback": "Incorreto. O texto é compreensível de forma coloquial, mas gera duplo sentido analítico que polui a precisão da redação acadêmica de vestibular."
@@ -667,7 +667,7 @@
           "feedback": "Incorreto. Corretores corrigem as provas de redação do ENEM de forma virtual computadorizada nas telas de informática, sem dirigir caminhões."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "O pronome relativo \"que\" é o principal causador de ambiguidades sintáticas na redação formal do ENEM (Competências 1 e 3). Quando colocado após uma locução substantiva com termos masculinos e femininos ou plurais intercalados (\"condutores dos caminhões que...\"), o pronome \"que\" gera duplo sentido (quem transitava rápido: os condutores ou os caminhões?). Para desfazer a ambiguidade e garantir clareza acadêmica, o redator de prestígio deve substituir o pronome \"que\" pelas formas flexionáveis de relativo \"os quais\" (retoma condutores) ou \"as quais/os quais\" (retoma caminhões de metal), consolidando a concordância de forma precisa.",
       "difficulty": "8",
       "images": [],
@@ -694,13 +694,13 @@
           "feedback": "Incorreto. Verbos impessoais não variam por questões de transitividade indireta, mas sim por ausência de sujeito gramatical determinado."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Os verbos \"haver\" (sentido de existir) e \"fazer\" (tempo decorrido) são impessoais (não possuem sujeito), devendo permanecer obrigatoriamente flexionados na terceira pessoa do singular (\"Houve muitos acidentes\", \"Faz dez anos\").",
           "is_correct": true,
           "feedback": "Correto! Verbos impessoais não concordam com seus complementos nominais (objetos diretos), permanecendo sempre no singular."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Os verbos são escritos em inglês corporativo de informática por robôs industriais modernos para humilhar as prefeituras paulistas.",
           "is_correct": false,
           "feedback": "Incorreto. Trata-se de verbos genuínos da língua portuguesa padrão escrita, sem relação com anglicismos ou robôs eletrônicos."
@@ -712,7 +712,7 @@
           "feedback": "Incorreto. A concordância impessoal de \"haver\" e \"fazer\" é regra clássica secular de base latina na formação histórica de Letras do português de prestígio."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Os verbos impessoais (haver = existir; fazer = tempo cronológico decorrido) caracterizam orações sem sujeito na sintaxe padrão da língua portuguesa. Como não possuem sujeito gramatical para coordenar e concordar, esses verbos devem permanecer inflexíveis na 3ª pessoa do singular (\"Houve muitos acidentes no asfalto de São Paulo ontem\", \"Faz dez anos que a prefeitura não reforma as calçadas\"). Flexioná-los no plural (\"houveram\", \"fazem\") constitui um dos desvios de concordância verbal mais penalizados na Competência 1 da redação do ENEM.",
       "difficulty": "8",
       "images": [],
@@ -739,13 +739,13 @@
           "feedback": "Incorreto. Dominar a sintaxe padrão é pilar democrático de inserção social acadêmica corporativa, essencial para exames federais do país."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Exigir que as conversas informais de recreio das crianças imitem de forma rígida a sintaxe clássica em latim de sermões de jesuítas de 1650 em silêncio absoluto.",
           "is_correct": false,
           "feedback": "Incorreto. Obrigar o uso oral da sintaxe padrão no recreio é inadequado, gerando fobia social e silenciamento escolar desnecessário de crianças."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Praticar a pedagogia de adequação linguística: valorizar e acolher as falas populares de massas, ao mesmo tempo em que ensina com eficiência teórica e prática a sintaxe padrão escrita para exames oficiais e redações de prestígio.",
           "is_correct": true,
           "feedback": "Correto! Ampliar as competências linguísticas do estudante capacita-o a escolher o registro sintático adequado a cada situação social de mídias."
@@ -757,7 +757,7 @@
           "feedback": "Incorreto. A norma padrão escrita é patrimônio político e cultural unificador histórico milenar, imune a modas comerciais passageiras de sapatos."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "A abordagem científica e sociolinguística moderna do ensino de Letras no Brasil de vestibular (BNCC) repudia o preconceito linguístico coercitivo de cartilhas de \"certo contra errado absoluto\" (\"as pessoas que falam nós vai são burras\"). A escola democrática acolhe e respeita as variedades orais populares do país de forma inclusiva, mas assume o dever cívico e educacional de ensinar sistematicamente as regras complexas de sintaxe, concordância e regência verbal da norma-padrão escrita formal (Competência 1 do ENEM), ampliando de forma soberana o repertório comunicativo do estudante para sua plena inserção acadêmica, de exames e profissional no país.",
       "difficulty": "10",
       "images": [],
@@ -778,19 +778,19 @@
       "context": "Um artigo de opinião em Porto Alegre debate as propostas de leis estaduais paulistas que tentam \"reprovar com nota zero de redação candidatos do ENEM que cometam mais de dois desvios de concordância verbal ou regência de pronomes\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "É pertinente de forma total, haja vista que computadores de informática paulistas corrigem as provas de redação do ENEM contando as palavras escritas em silêncio.",
           "is_correct": false,
           "feedback": "Incorreto. Corretores de Letras humanos avaliam a redação (Competência 1) analisando a gravidade, frequência e contexto de uso dos desvios de sintaxe e não contagens frias."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "O Ministério da Educação deveria prender de forma civil com base em leis de trânsito os professores de Porto Alegre que coloquem muitos pronomes.",
           "is_correct": false,
           "feedback": "Incorreto. Debates curriculares escolares e regras de Letras do ENEM no Brasil são livres e imunes a prisões penais de prefeituras de tráfego."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "É impertinente e anti-pedagógica, pois desvios ocasionais de regência não anulam a clareza, coerência e profundidade argumentativa da tese de redação (Competências 3 e 4) do candidato do ENEM.",
           "is_correct": true,
           "feedback": "Correto! Punir de forma mecânica pequenas falhas morfológicas desconsidera o valor intelectual global da redação de vestibular do país."
@@ -802,7 +802,7 @@
           "feedback": "Incorreto. Regências padrão e concordâncias verbais constituem heranças estruturais históricas de formação de Letras do português e do latim clássico."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "A correção democrática de Letras do vestibular do ENEM avalia o candidato com base em uma grade holística de cinco competências integradas. Punir pequenos desvios de regência verbal ou de concordância de pronomes com nota zero automática de redação seria um retrocesso pedagógico grave e anticientífico. O ENEM valoriza com pertinência (Competência 1) o domínio e esforço do candidato de aproximação à norma padrão escrita formal, mas analisa de forma integrada e sem excessos punitivos burocráticos a inteligibilidade global das ideias, teses e argumentos de defesa (Competências 2, 3, 4 e 5) das redações escolares do país de vestibular de prestígio.",
       "difficulty": "10",
       "images": [],
@@ -823,13 +823,13 @@
       "context": "Em um seminário acadêmico de Letras na USP de São Paulo, debate-se a tese de que \"a sintaxe do português brasileiro escrito contemporâneo de prestígio está se afastando de forma sistemática dos padrões de Portugal de 1500, fundando uma sintaxe de base nacional brasileira autêntica\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "O português brasileiro escrito falha em termos de gramática clássica e constitui uma cópia burra sem valor do português europeu, provando que o povo do Nordeste não sabe escrever.",
           "is_correct": false,
           "feedback": "Incorreto. O português do Brasil possui rica e estruturada sintaxe própria nacional, amplamente louvada internacionalmente de Letras de vestibular."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "O português do Brasil consolida de forma padrão uma sintaxe brasileira autêntica (uso de pronome sujeito 'você' em desuso de 'vós', regências dinâmicas de verbos de movimento como 'ir ao' e 'ir no' na oralidade), validando a soberania linguística nacional do país.",
           "is_correct": true,
           "feedback": "Correto! As mudanças sintáticas brasileiras seguem regras perfeitamente estruturadas e legítimas de base científica de evolução orgânica."
@@ -847,7 +847,7 @@
           "feedback": "Incorreto. Sintaxes e regras de concordância verbal constituem processos evolutivos intelectuais humanos milenares de escrita, livres de robôs eletrônicos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "A linguística moderna de base científica comprova que o português falado e escrito no Brasil de vestibular de prestígio (BNCC) desenvolveu uma sintaxe brasileira autêntica de extraordinária qualidade e regras próprias. Fenômenos como a substituição generalizada do pronome de tratamento \"vós\" pelo pronome sujeito \"você\" (que concorda com o verbo em terceira pessoa) e regências dinâmicas de verbos de movimento de oralidade desvelam a evolução orgânica e a maturidade da língua nacional do país, imune a pedantismos que tentem manter regras arcaicas do português de Portugal antigo de forma de farsa no vestibular de Letras do país.",
       "difficulty": "10",
       "images": [],

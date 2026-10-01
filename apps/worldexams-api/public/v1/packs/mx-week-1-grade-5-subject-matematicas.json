@@ -58,31 +58,31 @@
       "context": "Luis pintó 2/5 de una barda en la escuela de Mérida y su hermana dice que eso es lo mismo que 4/10.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Porque al multiplicar numerador y denominador de 2/5 por 2 se obtiene 4/10",
           "is_correct": true,
           "feedback": "Multiplicar (o dividir) numerador y denominador por el mismo número no cambia el valor de la fracción: 2×2 = 4 y 5×2 = 10."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque 4 es el doble de 2",
           "is_correct": false,
           "feedback": "Comparar solo los numeradores ignora el denominador; la equivalencia requiere el mismo factor en ambos términos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque 10 − 4 = 6 y 5 − 2 = 3",
           "is_correct": false,
           "feedback": "Restar las partes no tiene relación con el concepto de equivalencia entre fracciones."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Porque ambas están escritas con números pares",
           "is_correct": false,
           "feedback": "La paridad de las cifras no determina el valor de una fracción; 1/3 y 2/6 son equivalentes con números impares."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Dos fracciones son equivalentes cuando representan la misma cantidad. La propiedad fundamental dice que multiplicar o dividir numerador y denominador por el mismo número distinto de cero genera una fracción equivalente: 2/5 = 4/10.",
       "difficulty": "4",
       "images": [],
@@ -103,31 +103,31 @@
       "context": "Fernanda recorrió 6/14 de la ciclovía que bordea el lago de Chapala y en su clase quiere expresar esa parte en su forma simplificada.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "3/7",
           "is_correct": true,
           "feedback": "El máximo común divisor de 6 y 14 es 2; al dividir ambos términos entre 2 queda 3/7."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "2/7",
           "is_correct": false,
           "feedback": "6 ÷ 3 = 2 pero 14 no es divisible entre 3; el divisor común correcto es 2."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "6/7",
           "is_correct": false,
           "feedback": "Dividir solo el denominador entre 2 altera el valor de la fracción; ambos términos deben dividirse entre el mismo número."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "4/7",
           "is_correct": false,
           "feedback": "4/7 no es equivalente a 6/14 porque 6 ÷ 2 = 3, no 4."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Simplificar consiste en dividir numerador y denominador entre un mismo divisor común hasta que ya no exista ninguno. En 6/14 el divisor común mayor es 2, así que la forma simplificada es 3/7.",
       "difficulty": "6",
       "images": [],
@@ -193,13 +193,13 @@
       "context": "En un examen regalaron calcomanías: Ximena completó 3/5 de la actividad y Carlos completó 5/8 de la misma actividad.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Carlos, porque 3/5 = 24/40 y 5/8 = 25/40, y 25 es mayor que 24",
           "is_correct": true,
           "feedback": "Con denominador común 40: 3/5 = 24/40 y 5/8 = 25/40; como 25 es mayor que 24, Carlos completó más."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Ximena, porque 3/5 = 24/40 y 5/8 = 25/40, y 24 > 25",
           "is_correct": false,
           "feedback": "Las equivalencias están bien calculadas pero la comparación final es falsa: 24 no es mayor que 25."
@@ -217,7 +217,7 @@
           "feedback": "24/40 y 25/40 no son iguales; con denominador común la diferencia se hace evidente."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Comparar 3/5 y 5/8 exige un denominador común: mcm(5, 8) = 40. Entonces 3/5 = 24/40 y 5/8 = 25/40, así que Carlos completó una proporción ligeramente mayor. La cercanía de los valores muestra por qué la intuición sin cálculo puede fallar.",
       "difficulty": "6",
       "images": [],
@@ -238,31 +238,31 @@
       "context": "Una receta de mole de Oaxaca indica 2/3 de taza de chocolate. Carlos solo tiene jícaras de 1/6 de taza.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "4",
           "is_correct": true,
           "feedback": "2/3 = 4/6 al amplificar por 2, así que se necesitan 4 jícaras de 1/6."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "2",
           "is_correct": false,
           "feedback": "2 jícaras de 1/6 son 2/6 = 1/3, la mitad de lo que pide la receta."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "3",
           "is_correct": false,
           "feedback": "3/6 = 1/2, que es menor que 2/3; falta una jicara más."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "6",
           "is_correct": false,
           "feedback": "6/6 = 1 taza completa; la receta pide solo dos tercios."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Para expresar 2/3 en sextos se amplifica numerador y denominador por 2: 2/3 = 4/6. Analizar el problema como \"¿cuántos seis-avos hay en dos tercios?\" conecta la equivalencia con la división entre fracciones que se verá en grados mayores.",
       "difficulty": "8",
       "images": [],
@@ -283,31 +283,31 @@
       "context": "Guadalupe partió una manta rectangular para las porras del estadio en Monterrey en 12 tiras iguales. Recortó 9 tiras y dice que usó \"3/4\" de la manta.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Sí, porque 9/12 se simplifica dividiendo ambos términos entre 3 y da 3/4",
           "is_correct": true,
           "feedback": "9 ÷ 3 = 3 y 12 ÷ 3 = 4, así que 9/12 = 3/4; lo que usó fue 9 de 12 tiras."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "No, porque 9/12 es igual a 2/3",
           "is_correct": false,
           "feedback": "2/3 = 8/12, no 9/12; la simplificación correcta de 9/12 es 3/4."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "No, porque 9/12 solo puede escribirse como 1/3",
           "is_correct": false,
           "feedback": "1/3 = 4/12; dividir 9 entre 12 no da 1 entre 3."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Sí, porque el 9 y el 12 terminan en cifras que son múltiplos de 4",
           "is_correct": false,
           "feedback": "La conclusión acierta pero la razón es falsa; lo que valida la igualdad es dividir ambos términos entre 3."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Determinar si dos expresiones fraccionarias son iguales exige simplificar o amplificar correctamente. Como 9/12 = (9 ÷ 3)/(12 ÷ 3) = 3/4, la afirmación de Guadalupe es correcta; también importa saber justificar por qué, y no solo el sí o el no.",
       "difficulty": "8",
       "images": [],
@@ -328,31 +328,31 @@
       "context": "Tres estudiantes discutieron si la fracción 12/18 está en su forma mínima: Ana dice que sí; Beto dice que no porque ambos números son divisibles entre 6; Carla dice que no pero solo se puede dividir entre 2 y queda 6/9.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "La de Beto: 12/18 no es mínima y al dividir entre 6 queda 2/3",
           "is_correct": true,
           "feedback": "El máximo común divisor de 12 y 18 es 6; 12/18 = 2/3, que sí es la forma mínima."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La de Ana: 12 y 18 ya no comparten divisores",
           "is_correct": false,
           "feedback": "Ambos son divisibles entre 2, entre 3 y entre 6; la fracción admite simplificación."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La de Carla: dividir entre 2 y quedarse en 6/9 es la forma mínima",
           "is_correct": false,
           "feedback": "6/9 aún se puede simplificar entre 3; una forma mínima no deja divisores comunes."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Ninguna, porque la forma mínima es 4/6",
           "is_correct": false,
           "feedback": "4/6 sigue teniendo divisor común 2; la forma mínima real es 2/3."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Una fracción está en su forma mínima cuando numerador y denominador no comparten divisores distintos de 1 (son primos relativos). Simplificar directamente entre el mcd (6) evita pasos intermedios como 6/9, que todavía se puede reducir a 2/3.",
       "difficulty": "10",
       "images": [],

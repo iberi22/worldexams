@@ -19,25 +19,25 @@
           "feedback": "Incorrecta, porque no son minerales sino seres vivos de tamaño microscópico."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Microorganismos, seres vivos tan pequeños que solo se observan con microscopio.",
           "is_correct": true,
           "feedback": "Correcta, porque define a bacterias y hongos microscópicos como microorganismos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Manchas de colores que aparecen sin vida en cualquier alimento.",
           "is_correct": false,
           "feedback": "Incorrecta, porque esas manchas son colonias de seres vivos que crecen."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Restos de polvo que nunca crecen ni se reproducen en los alimentos.",
           "is_correct": false,
           "feedback": "Incorrecta, porque los microorganismos sí crecen y se multiplican con rapidez."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Los microorganismos son seres vivos invisibles a simple vista. Las bacterias son células diminutas y los hongos microscópicos, como las levaduras y los mohos, forman filamentos o colonias. Algunos causan enfermedades y otros son útiles para hacer alimentos. El microscopio permite verlos y estudiarlos.",
       "difficulty": "4",
       "images": [],
@@ -105,13 +105,13 @@
       "context": "En una finca lechera de Ubaté, con 80000 COP compran cultivos para hacer kumis: calientan la leche, agregan bacterias buenas, la dejan reposar tapada y al día siguiente está espesa y un poco ácida.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Porque la leche se daña con el frío y el kumis es leche podrida sin control.",
           "is_correct": false,
           "feedback": "Incorrecta, porque el kumis es una fermentación guiada con cultivos seleccionados."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque las bacterias buenas transforman el azúcar de la leche en ácido, que espesa y conserva el producto.",
           "is_correct": true,
           "feedback": "Correcta, porque aplica la fermentación láctica al ejemplo colombiano del kumis."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecta, porque después de calentar se agregan bacterias que hacen el trabajo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Las bacterias del kumis y del yogur convierten el azúcar de la leche en ácido láctico. El ácido cambia las proteínas y la leche se espesa con un sabor característico. Además, ese ambiente ácido frena a los microbios dañinos. Por eso la fermentación conserva alimentos desde hace siglos.",
       "difficulty": "6",
       "images": [],
@@ -157,25 +157,25 @@
           "feedback": "Incorrecta, porque la roya es un ser vivo y no un fenómeno de lluvia."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Porque vive sobre la planta, se alimenta de ella y le causa daño visible en las hojas.",
           "is_correct": true,
           "feedback": "Correcta, porque identifica el parasitismo del hongo sobre el cafeto."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque el hongo ayuda al café a crecer y nunca le hace ningún daño.",
           "is_correct": false,
           "feedback": "Incorrecta, porque la roya reduce la cosecha y debilita la planta."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Porque los hongos solo viven en los zapatos y nunca en las plantas.",
           "is_correct": false,
           "feedback": "Incorrecta, porque muchos hongos viven sobre plantas y frutos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Los hongos parásitos obtienen su alimento de otro ser vivo y lo perjudican. La roya cubre las hojas del café, les quita nutrientes y las hace caer, con lo que el palo produce menos grano. Los caficultores colombianos vigilan, podan y usan variedades resistentes para controlar este hongo.",
       "difficulty": "6",
       "images": [],
@@ -203,13 +203,13 @@
           "feedback": "Incorrecta, porque el jabón no sazona y su función es desprender la suciedad."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Porque el lavado arrastra microbios y restos de suciedad, reduciendo los que llegan a la boca con la comida.",
           "is_correct": true,
           "feedback": "Correcta, porque aplica la higiene como barrera contra la transmisión."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque el agua sola convierte todas las bacterias en vitaminas para el cuerpo.",
           "is_correct": false,
           "feedback": "Incorrecta, porque el lavado no transforma bacterias en vitaminas."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecta, porque el agua tibia no esteriliza ni quema microbios del aire."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Las manos recogen microbios de pasamanos, dinero y baños. Al comer sin lavarlas, esos microbios viajan a la boca y pueden causar diarrea y otras infecciones. El jabón rompe la grasa donde se esconden y el enjuague los arrastra. Veinte segundos de lavado protegen a todo el curso.",
       "difficulty": "6",
       "images": [],
@@ -295,13 +295,13 @@
           "feedback": "Incorrecta, porque el contagio necesita gotas o contacto con el microbio."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Los microbios viajaron en las gotas del estornudo y en el vaso compartido hasta la boca y nariz de los primos.",
           "is_correct": true,
           "feedback": "Correcta, porque identifica las vías de transmisión por gotas y objetos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Compartir el vaso protege de la gripa porque mezcla las defensas de todos.",
           "is_correct": false,
           "feedback": "Incorrecta, porque compartir utensilios reparte microbios en vez de defensas."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecta, porque la gripa se transmite en cualquier clima con contacto cercano."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Muchas infecciones respiratorias viajan en gotitas al toser o estornudar y sobreviven un tiempo en vasos y manos. Taparse con el antebrazo, usar pañuelo, no compartir vasos y ventilar reducen el contagio. Analizar la cadena de contacto permite cortarla con hábitos simples.",
       "difficulty": "8",
       "images": [],
@@ -341,13 +341,13 @@
           "feedback": "Incorrecta, porque cada microbio necesita un tratamiento distinto y la automedicación es riesgosa."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Solo atacan bacterias recetadas por el médico, y su mal uso genera bacterias que ya no responden al fármaco.",
           "is_correct": true,
           "feedback": "Correcta, porque distingue el blanco del antibiótico y el riesgo de la resistencia."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Son vitaminas que curan el cáncer y también eliminan todos los hongos.",
           "is_correct": false,
           "feedback": "Incorrecta, porque los antibióticos no son vitaminas ni tratan el cáncer."
@@ -359,7 +359,7 @@
           "feedback": "Incorrecta, porque interrumpirlo deja vivas a las bacterias más fuertes."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Los antibióticos bloquean procesos propios de las bacterias. Contra virus y hongos se necesitan otros fármacos. Tomarlos sin receta o dejarlos a medias selecciona bacterias resistentes que luego son difíciles de curar. Por eso solo el personal de salud decide si se necesitan y por cuántos días.",
       "difficulty": "8",
       "images": [],
@@ -387,13 +387,13 @@
           "feedback": "Incorrecta, porque sin cultivo ni higiene crecen microbios dañinos impredecibles."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "La propuesta 1 es segura porque usa bacterias conocidas e higiene, y la propuesta 2 es riesgosa porque permite microbios peligrosos.",
           "is_correct": true,
           "feedback": "Correcta, porque evalúa control, trazabilidad e higiene frente al azar contaminado."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La propuesta 2 es mejor porque lo natural sin higiene siempre es más sano.",
           "is_correct": false,
           "feedback": "Incorrecta, porque lo natural sin control también puede transmitir enfermedades."
@@ -405,7 +405,7 @@
           "feedback": "Incorrecta, porque la fermentación láctica guiada es una práctica escolar segura y también educativa."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Evaluar proyectos con alimentos es mirar riesgos y controles. Hervir la leche elimina patógenos, el cultivo conocido dirige la fermentación y los frascos limpios evitan contaminación. La leche cruda al sol, en cambio, invita a bacterias dañinas. La ciencia escolar debe ser sabrosa y también segura.",
       "difficulty": "10",
       "images": [],
@@ -439,19 +439,19 @@
           "feedback": "Incorrecta, porque no se puede eliminar todo y aprovechar todo a la vez sin criterio."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "La primera es falsa y la segunda es verdadera, porque el efecto depende de la especie, la cantidad y el manejo.",
           "is_correct": true,
           "feedback": "Correcta, porque juzga cada afirmación con la diversidad real de los microorganismos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Ambas son falsas porque los microorganismos no existen y son un invento del microscopio.",
           "is_correct": false,
           "feedback": "Incorrecta, porque el microscopio revela seres reales que se cultivan y estudian."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Las bacterias fijan nutrientes en el suelo, los hongos descomponen hojas y forman alimentos, y solo algunas especies causan enfermedad. Eliminar todo con desinfectante rompe esos equilibrios. La evaluación correcta distingue aliados de patógenos y propone higiene, vacunas, agua tratada y uso responsable de fármacos.",
       "difficulty": "10",
       "images": [],

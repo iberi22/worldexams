@@ -19,13 +19,13 @@
           "feedback": "Incorrect. If you were packing, it's very possible you left it there."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "must have left",
           "is_correct": true,
           "feedback": "Correct! High probability deduction about a past action."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "should leave",
           "is_correct": false,
           "feedback": "Incorrect. Not for deduction."
@@ -37,7 +37,7 @@
           "feedback": "Incorrect. This refers to the present."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Usamos *must have* seguido del participio pasado para hacer una deducción lógica fuerte sobre algo que ocurrió en el pasado.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -65,13 +65,13 @@
           "feedback": "Incorrect. Active voice."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "was made",
           "is_correct": true,
           "feedback": "Correct! Past Simple Passive for a finished historical event."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "is made",
           "is_correct": false,
           "feedback": "Incorrect. Present tense."
@@ -83,7 +83,7 @@
           "feedback": "Incorrect. Specific past year requires Past Simple."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Para hechos históricos donde el objeto (la transmisión) es el foco, usamos el Pasado Simple Pasivo (*was* + participio).\n\n---",
       "difficulty": "4",
       "images": [],
@@ -111,13 +111,13 @@
           "feedback": "Incorrect. Too unlikely for First Conditional."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "were / would pass",
           "is_correct": true,
           "feedback": "Correct! Second Conditional for a hypothetical situation."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "was / will pass",
           "is_correct": false,
           "feedback": "Incorrect. Inconsistent tenses."
@@ -129,7 +129,7 @@
           "feedback": "Incorrect. \"Would\" doesn't go in the \"if\" clause."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El Segundo Condicional (*were... would*) es el tiempo estándar para hablar de sueños o situaciones imaginarias en el presente.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -203,25 +203,25 @@
           "feedback": "Incorrect. \"Mustn't\" is for prohibition."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "can't be",
           "is_correct": true,
           "feedback": "Correct! Strong negative deduction based on evidence."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "might not be",
           "is_correct": false,
           "feedback": "Incorrect. This is for less certain possibility."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "couldn't have been",
           "is_correct": false,
           "feedback": "Incorrect. Refers to the past."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Usamos *can't* cuando estamos seguros de que algo no es posible en el presente basándonos en evidencias o lógica.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "Reviewing passive with modals.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "must respect",
           "is_correct": false,
           "feedback": "Incorrect. Active voice."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "must be respected",
           "is_correct": true,
           "feedback": "Correct! Modal Passive (modal + be + past participle)."
@@ -267,7 +267,7 @@
           "feedback": "Incorrect. Grammatically incorrect."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La voz pasiva con modales es esencial para expresar reglas, obligaciones o consejos de manera formal y general.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -335,13 +335,13 @@
       "context": "Reporting a request vs. a question.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "asked if we can",
           "is_correct": false,
           "feedback": "Incorrect. Mixed direct and indirect speech."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "urged us to support",
           "is_correct": true,
           "feedback": "Correct! \"Urge\" is a reporting verb for strong requests, followed by object + to + infinitive."
@@ -359,7 +359,7 @@
           "feedback": "Incorrect. Missing object and proper structure."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Existen diversos verbos de reporte (*urge*, *advise*, *encourage*) que siguen la estructura de peticiones/órdenes: objeto + *to* + infinitivo.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -387,13 +387,13 @@
           "feedback": "Incorrect. Present deduction."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "must have used",
           "is_correct": true,
           "feedback": "Correct! Deduction about the past based on the results (the buildings)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "can't have used",
           "is_correct": false,
           "feedback": "Incorrect. Contradicts the achievement."
@@ -405,7 +405,7 @@
           "feedback": "Incorrect. This is for unfulfilled obligations."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Para explicar logros del pasado cuya metodología exacta desconocemos, el *must have* permite proponer la explicación más lógica.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -433,13 +433,13 @@
           "feedback": "Incorrect. Correct Present Passive."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "would spend",
           "is_correct": true,
           "feedback": "Correct! In the \"if\" clause of a conditional, we use past simple (*spent*), not *would*."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "would be",
           "is_correct": false,
           "feedback": "Incorrect. Correct use of *would* in the result clause."
@@ -451,7 +451,7 @@
           "feedback": "Incorrect. Correct reported request structure."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Recordar que nunca se coloca *would* inmediatamente después de *if* es una de las reglas de oro de los condicionales en el nivel B2.\n\n---",
       "difficulty": "10",
       "images": [],

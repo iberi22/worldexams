@@ -19,13 +19,13 @@
           "feedback": "Incorrect. Sadness involves crying or feeling down."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Happy",
           "is_correct": true,
           "feedback": "Correct! Happiness is associated with smiling and feeling good."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Angry",
           "is_correct": false,
           "feedback": "Incorrect. Anger is associated with being upset or annoyed."
@@ -37,7 +37,7 @@
           "feedback": "Incorrect. Being tired means you need to sleep."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "The student identifies basic vocabulary for common emotions.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -59,19 +59,19 @@
       "context": "Describing a physical state after a lot of activity.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Excited",
           "is_correct": false,
           "feedback": "Incorrect. You might be excited to win, but physically you feel something else."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Bored",
           "is_correct": false,
           "feedback": "Incorrect. Boredom comes from having nothing to do."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Tired",
           "is_correct": true,
           "feedback": "Correct! Physical or mental effort leads to feeling tired (exhausted)."
@@ -83,7 +83,7 @@
           "feedback": "Incorrect. This is a reaction to something unexpected."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "The student associates a physical or mental state with the correct adjective.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -157,13 +157,13 @@
           "feedback": "Incorrect. Thirsty means you want water."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "sad",
           "is_correct": true,
           "feedback": "Correct! Crying is a common sign of sadness."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "bored",
           "is_correct": false,
           "feedback": "Incorrect. Boredom doesn't usually cause crying."
@@ -175,7 +175,7 @@
           "feedback": "Incorrect. This is a positive emotion."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "The student connects an observation (crying) with the underlying emotion (sadness).\n\n---",
       "difficulty": "6",
       "images": [],
@@ -209,19 +209,19 @@
           "feedback": "Incorrect. The word order for a question is wrong."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "How do you feel today?",
           "is_correct": true,
           "feedback": "Correct! This is the standard way to ask about someone's feelings."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "What do you feel?",
           "is_correct": false,
           "feedback": "Incorrect. While understandable, \"How do you feel\" is more common and idiomatic."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "The student applies grammatical knowledge to form a question about emotions correctly.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -249,13 +249,13 @@
           "feedback": "Incorrect. The text says \"amazing\" and \"happy\"."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Surprised and happy",
           "is_correct": true,
           "feedback": "Correct! These specific emotions are mentioned in the text."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Nervous and angry",
           "is_correct": false,
           "feedback": "Incorrect. These are negative emotions not present in the context."
@@ -267,7 +267,7 @@
           "feedback": "Incorrect. These states don't fit the \"amazing\" day description."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "The student identifies and extracts specific emotions from a short narrative text.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -295,25 +295,25 @@
           "feedback": "Incorrect. Hungry is for food."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "thirsty",
           "is_correct": true,
           "feedback": "Correct! Lack of water causes thirst."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "angry",
           "is_correct": false,
           "feedback": "Incorrect. While you could be angry, the physical consequence is being thirsty."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "sleepy",
           "is_correct": false,
           "feedback": "Incorrect. Sleepy is for rest."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "The student applies vocabulary for physical states to a logical context (no water).\n\n---",
       "difficulty": "8",
       "images": [],
@@ -335,13 +335,13 @@
       "context": "Analyzing a response in a conversation.\n\nA: \"My brother never shares his toys with me.\"\n\nB: \"I understand. That makes me feel ________ too.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Excited",
           "is_correct": false,
           "feedback": "Incorrect. Not sharing toys is usually a negative experience."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Frustrated",
           "is_correct": true,
           "feedback": "Correct! Not being able to get what you want or dealing with unfairness often leads to frustration."
@@ -359,7 +359,7 @@
           "feedback": "Incorrect. If it happens \"never\", it's a routine, not a surprise."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "The student analyzes the social context to identify the most appropriate complex emotion.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -381,13 +381,13 @@
       "context": "Distinguishing between similar-sounding or related adjectives.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "bored / boring",
           "is_correct": false,
           "feedback": "Incorrect. The movie is \"boring\" and people feel \"bored\"."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "boring / bored",
           "is_correct": true,
           "feedback": "Correct! -ing adjectives describe the thing, -ed adjectives describe the person's feeling."
@@ -405,7 +405,7 @@
           "feedback": "Incorrect. The movie is \"exciting\" and people feel \"excited\"."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "The student analyzes the difference between adjectives ending in -ed (feelings) and -ing (causes of feelings).\n\n---",
       "difficulty": "10",
       "images": [],
@@ -433,13 +433,13 @@
           "feedback": "Incorrect. He also feels interested in new things."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "He is very happy because he has a new house.",
           "is_correct": false,
           "feedback": "Incorrect. He also feels lonely."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "He has mixed feelings: he is a bit sad but also curious about his new life.",
           "is_correct": true,
           "feedback": "Correct! The text mentions loneliness (missing friends) and interest (meeting new people)."
@@ -451,7 +451,7 @@
           "feedback": "Incorrect. Anger is not mentioned in the text."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "The student evaluates a text that describes conflicting or mixed emotions and selects the most balanced summary.",
       "difficulty": "10",
       "images": [],

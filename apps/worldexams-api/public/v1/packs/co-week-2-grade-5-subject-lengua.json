@@ -13,31 +13,31 @@
       "context": "En un salón de Bogotá, Valentina lee en voz alta el inicio de un cuento sobre un niño campesino.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Santiago, un niño que vive en una finca cerca de Manizales.",
           "is_correct": true,
           "feedback": "Es correcta porque repite el nombre y el lugar que dice el inicio."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Valentina, una niña que vive en Bogotá.",
           "is_correct": false,
           "feedback": "Es incorrecta porque Valentina es quien lee, no el personaje del cuento."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Un pescador que vive en Cartagena.",
           "is_correct": false,
           "feedback": "Es incorrecta porque no se menciona pescador ni Cartagena."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Un tendero que vive en Pereira.",
           "is_correct": false,
           "feedback": "Es incorrecta porque no aparece ningún tendero en el inicio."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El inicio del cuento presenta a los personajes y el lugar. Recuperar esos datos explícitos es el primer paso para seguir la secuencia narrativa y disfrutar la comunicación de la historia.",
       "difficulty": "4",
       "images": [],
@@ -59,13 +59,13 @@
       "context": "En Medellín, el profesor explica las tres partes del cuento con un ejemplo en el tablero.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Que todo cuento tiene un orden: presentación, problema y solución.",
           "is_correct": true,
           "feedback": "Es correcta porque resume con claridad las tres partes en orden."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Que los cuentos no tienen orden ni final.",
           "is_correct": false,
           "feedback": "Es incorrecta porque la explicación muestra un orden claro."
@@ -83,7 +83,7 @@
           "feedback": "Es incorrecta porque el desenlace cierra el mismo cuento."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Comprender la estructura permite anticipar lo que sigue en la lectura. Inicio, nudo y desenlace forman la secuencia básica que también ayuda a contar anécdotas con orden y buena ortografía.",
       "difficulty": "4",
       "images": [],
@@ -151,13 +151,13 @@
       "context": "En Cartagena, Mariana lee un cuento donde una niña pierde su mochila en el mercado.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Al nudo, porque muestra el problema y el esfuerzo por resolverlo.",
           "is_correct": true,
           "feedback": "Es correcta porque la búsqueda angustiosa es el desarrollo del conflicto."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Al inicio, porque presenta a los personajes por primera vez.",
           "is_correct": false,
           "feedback": "Es incorrecta porque aquí ya existe un problema en marcha."
@@ -175,7 +175,7 @@
           "feedback": "Es incorrecta porque es una escena, no el título."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Identificar el nudo requiere reconocer las marcas del problema: la pérdida, la búsqueda y la emoción. Ubicar cada fragmento en su parte ayuda a seguir la secuencia completa del cuento.",
       "difficulty": "6",
       "images": [],
@@ -289,31 +289,31 @@
       "context": "En Bogotá, el curso quinto compara dos inicios para el mismo cuento de un viaje a la playa.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "El inicio 2, porque presenta personaje, lugar y una situación interesante.",
           "is_correct": true,
           "feedback": "Es correcta porque da información concreta que invita a seguir leyendo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El inicio 1, porque es más largo y detallado.",
           "is_correct": false,
           "feedback": "Es incorrecta porque es más corto y no da ningún detalle."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Los dos son iguales de efectivos.",
           "is_correct": false,
           "feedback": "Es incorrecta porque el segundo ofrece datos y el primero es muy vago."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Ninguno sirve como inicio de cuento.",
           "is_correct": false,
           "feedback": "Es incorrecta porque el inicio 2 sí cumple la función de presentar la historia."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Un buen inicio ubica al lector con personajes y ambientes precisos. Analizar la diferencia enseña que los detalles concretos, como la ciudad y los pelícanos, despiertan curiosidad. Esta destreza también enriquece la descripción en textos propios.",
       "difficulty": "8",
       "images": [],

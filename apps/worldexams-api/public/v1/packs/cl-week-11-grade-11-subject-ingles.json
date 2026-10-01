@@ -109,25 +109,25 @@
           "feedback": "Incorrect. Present tense."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "had pursued",
           "is_correct": true,
           "feedback": "Correct. 'Wish + past perfect' for regrets about the past."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "would pursue",
           "is_correct": false,
           "feedback": "Incorrect. 'Wish + would' is for the future."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "pursued",
           "is_correct": false,
           "feedback": "Incorrect. Past simple."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "The structure 'wish + past perfect' is used to express regret about a past action or situation.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -154,25 +154,25 @@
           "feedback": "Incorrect. While related for some, 'purpose' is the focus here."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "purpose",
           "is_correct": true,
           "feedback": "Correct. Purpose is the reason for which something is done or created."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "leisure",
           "is_correct": false,
           "feedback": "Incorrect. Pastime/free time."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "status",
           "is_correct": false,
           "feedback": "Incorrect. Social position."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "'Purpose' refers to the meaningful motivation behind one's professional activities.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -199,25 +199,25 @@
           "feedback": "Incorrect. Universal means the same for everyone."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "subjective",
           "is_correct": true,
           "feedback": "Correct. Subjective means based on personal feelings or tastes."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "objective",
           "is_correct": false,
           "feedback": "Incorrect. Objective means based on facts."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "mandatory",
           "is_correct": false,
           "feedback": "Incorrect. Mandatory means required."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "'Subjective' correctly identifies that the value of a job depends on the individual's personal perspective.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -283,13 +283,13 @@
       "context": "Expressing a future ambition.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "establish",
           "is_correct": false,
           "feedback": "Incorrect. Simple infinitive."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "to have established",
           "is_correct": true,
           "feedback": "Correct. Perfect infinitive for a completed action in the future."
@@ -307,7 +307,7 @@
           "feedback": "Incorrect. Past participle."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "The perfect infinitive 'to have established' indicates that the goal will be a completed achievement by the specified time.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -424,13 +424,13 @@
           "feedback": "Incorrect. Hustle culture usually harms mental health."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "sacrifice",
           "is_correct": true,
           "feedback": "Correct. To sacrifice means to give up something valued for something else considered more important."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "ignore",
           "is_correct": false,
           "feedback": "Incorrect. While people might ignore their health, the text uses 'sacrifice' to show the cost."
@@ -442,7 +442,7 @@
           "feedback": "Incorrect. Sacrifice is not celebration."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "'Sacrifice' accurately describes the act of giving up something important (health) to achieve something else (career).\n\n---",
       "difficulty": "6",
       "images": [],
@@ -469,25 +469,25 @@
           "feedback": "Incorrect. A script is for a play."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "cover letter",
           "is_correct": true,
           "feedback": "Correct. Standard job application document."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "transcript",
           "is_correct": false,
           "feedback": "Incorrect. A transcript shows grades."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "warrant",
           "is_correct": false,
           "feedback": "Incorrect. A legal document."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "'Cover letter' is the professional term for the introductory letter sent with a resume.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -514,13 +514,13 @@
           "feedback": "Incorrect. Infinitive needed after 'to'."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "to master",
           "is_correct": true,
           "feedback": "Correct. Infinitive 'to master' follows 'years of practice'."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "master",
           "is_correct": false,
           "feedback": "Incorrect. Base form without 'to'."
@@ -532,7 +532,7 @@
           "feedback": "Incorrect. Past participle."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "The infinitive 'to master' is used to express the goal of the practice.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -553,19 +553,19 @@
       "context": "Discussing career paths.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "aligns with",
           "is_correct": true,
           "feedback": "Correct. 'Align with' means to be in agreement or accord with."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "conflicts with",
           "is_correct": false,
           "feedback": "Incorrect. Most people prefer to avoid conflict with their values."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "ignores",
           "is_correct": false,
           "feedback": "Incorrect. Ignoring values usually leads to dissatisfaction."
@@ -577,7 +577,7 @@
           "feedback": "Incorrect. Values usually inform the career, not the other way around."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "'Aligns with' is the standard phrasal verb for showing harmony or agreement between two things.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -604,25 +604,25 @@
           "feedback": "Incorrect. Present/future."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "would have",
           "is_correct": true,
           "feedback": "Correct. Mixed conditional (past action, present result)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "had",
           "is_correct": false,
           "feedback": "Incorrect. Past tense."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "would had",
           "is_correct": false,
           "feedback": "Incorrect grammar."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "The mixed conditional (if + past perfect, would + verb) connects a past hypothetical with a present situation.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -733,19 +733,19 @@
       "context": "Recommendation for professional development.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "attend",
           "is_correct": true,
           "feedback": "Correct. Subjunctive mood after 'recommended'."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "attends",
           "is_correct": false,
           "feedback": "Incorrect. Not used in formal subjunctive."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "to attend",
           "is_correct": false,
           "feedback": "Incorrect. Doesn't fit the 'that' clause."
@@ -757,7 +757,7 @@
           "feedback": "Incorrect. Gerund."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "The base form 'attend' is used in the subjunctive mood after verbs like 'recommend'.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -778,13 +778,13 @@
       "context": "Describing a visionary professional.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "cautious",
           "is_correct": false,
           "feedback": "Incorrect. Focuses on avoiding risk."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "visionary",
           "is_correct": true,
           "feedback": "Correct. A visionary looks to the future with imagination."
@@ -802,7 +802,7 @@
           "feedback": "Incorrect. Passive means inactive."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "'Visionary' is the appropriate adjective for a leader with a strong, forward-thinking plan.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -823,13 +823,13 @@
       "context": "Describing a long-term professional pursuit.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "will work",
           "is_correct": false,
           "feedback": "Incorrect. Simple future."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "will have been working",
           "is_correct": true,
           "feedback": "Correct. Future perfect continuous for duration up to a future point."
@@ -847,7 +847,7 @@
           "feedback": "Incorrect. Present perfect continuous."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "The future perfect continuous 'will have been working' describes the duration of an action at a future time.\n\n---",
       "difficulty": "10",
       "images": [],

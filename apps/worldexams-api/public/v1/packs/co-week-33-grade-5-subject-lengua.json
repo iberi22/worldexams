@@ -13,13 +13,13 @@
       "context": "En Medellín, la abuela de Julián repite un refrán mientras él guarda los mangos que alcanzó a recoger del patio.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Valorar lo que ya se tiene en lugar de arriesgarlo por algo inseguro.",
           "is_correct": true,
           "feedback": "Es correcta porque el pájaro en mano representa lo seguro y los cien volando lo que no se tiene."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Soltar el pájaro para que vuele libre.",
           "is_correct": false,
           "feedback": "Es incorrecta porque el refrán aconseja lo contrario: no soltar lo que ya se tiene."
@@ -37,7 +37,7 @@
           "feedback": "Es incorrecta porque el refrán no habla de peligros en los árboles."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Los refranes son dichos populares que guardan una enseñanza. \"Más vale pájaro en mano que cien volando\" recuerda que conviene valorar lo que ya se tiene antes de arriesgarlo por algo que todavía no es seguro. Reconocerlos es parte de la tradición oral colombiana.",
       "difficulty": "4",
       "images": [],
@@ -59,13 +59,13 @@
       "context": "En Cali, Ángela llegó a la escuela con el uniforme impecable a pesar de la fuerte lluvia de la mañana.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Que mantuviera buen ánimo aunque las cosas no salieran como quería.",
           "is_correct": true,
           "feedback": "Es correcta porque el dicho invita a conservar el ánimo ante las dificultades."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Que debía mirar el cielo antes de salir de casa.",
           "is_correct": false,
           "feedback": "Es incorrecta porque el dicho no habla de observar el clima."
@@ -83,7 +83,7 @@
           "feedback": "Es incorrecta porque el dicho se refiere al ánimo y no a la ropa."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Comprender un dicho exige ir más allá de las palabras exactas. \"Al mal tiempo, buena cara\" no habla del clima, sino de la actitud: cuando algo sale mal, conviene responder con ánimo y no con queja. Este tipo de expresiones se escuchan mucho en las familias colombianas.",
       "difficulty": "4",
       "images": [],
@@ -335,19 +335,19 @@
       "context": "En Medellín, la profesora pide elegir el refrán que mejor resuma el final de una historia leída en clase sobre el esfuerzo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "\"El que persevera, alcanza\".",
           "is_correct": true,
           "feedback": "Es correcta porque la constancia diaria llevó a Lucía a lograr su meta."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "\"Ojos que no ven, corazón que no siente\".",
           "is_correct": false,
           "feedback": "Es incorrecta porque el cuento habla de esfuerzo, no de ignorar algo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "\"No por mucho madrugar amanece más temprano\".",
           "is_correct": false,
           "feedback": "Es incorrecta porque la historia sí muestra un resultado gracias a la constancia."
@@ -359,7 +359,7 @@
           "feedback": "Es incorrecta porque ese refrán habla de lo que falta donde debería sobrar."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Evaluar el mejor refrán exige revisar la idea central del relato. Lucía alcanzó su meta gracias a la práctica diaria, así que \"El que persevera, alcanza\" resume mejor el final. Comparar varios refranes y escoger el más adecuado fortalece la comprensión y la expresión de ideas.",
       "difficulty": "10",
       "images": [],

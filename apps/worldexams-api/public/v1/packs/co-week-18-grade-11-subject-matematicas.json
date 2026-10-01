@@ -13,31 +13,31 @@
       "context": "En una empresa textil de Medellín, se modela el volumen de producción diaria en función del tiempo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$x = 1\\text{ m}, y = 1\\text{ m}$ (un cuadrado)",
           "is_correct": true,
           "feedback": "Correcto: el cuadrado siempre minimiza el perímetro para un área fija."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 6\\text{ m}, y = 1\\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto: esa configuración incrementa significativamente el perímetro."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = 12\\text{ m}, y = 3\\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto: no satisface la condición de mínimo perímetro."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$x = 5\\text{ m}, y = 9\\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto: las dimensiones no derivan del valor crítico óptimo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Para un área fija $A = x \\cdot y$, el perímetro $P = 2x + 2y = 2x + \\frac{2A}{x}$. Derivando respecto a $x$: $P'(x) = 2 - \\frac{2A}{x^2} = 0 \\implies x^2 = A$. Para $A = 1$, $x = 1\\text{ m}$ e $y = 1\\text{ m}$.",
       "difficulty": "4",
       "images": [],
@@ -59,31 +59,31 @@
       "context": "Un laboratorio farmacéutico en Bogotá analiza la concentración de un medicamento en el torrente sanguíneo a lo largo de las horas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$x = 2\\text{ m}, y = 2\\text{ m}$ (un cuadrado)",
           "is_correct": true,
           "feedback": "Correcto: el cuadrado siempre minimiza el perímetro para un área fija."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 9\\text{ m}, y = 1\\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto: esa configuración incrementa significativamente el perímetro."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = 14\\text{ m}, y = 4\\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto: no satisface la condición de mínimo perímetro."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$x = 6\\text{ m}, y = 10\\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto: las dimensiones no derivan del valor crítico óptimo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Para un área fija $A = x \\cdot y$, el perímetro $P = 2x + 2y = 2x + \\frac{2A}{x}$. Derivando respecto a $x$: $P'(x) = 2 - \\frac{2A}{x^2} = 0 \\implies x^2 = A$. Para $A = 4$, $x = 2\\text{ m}$ e $y = 2\\text{ m}$.",
       "difficulty": "4",
       "images": [],
@@ -105,13 +105,13 @@
       "context": "En el puerto de Buenaventura, se registra el nivel de la marea y la tasa de variación del nivel del agua.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x = 3\\text{ m}, y = 3\\text{ m}$ (un cuadrado)",
           "is_correct": true,
           "feedback": "Correcto: el cuadrado siempre minimiza el perímetro para un área fija."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 14\\text{ m}, y = 1\\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto: esa configuración incrementa significativamente el perímetro."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecto: las dimensiones no derivan del valor crítico óptimo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Para un área fija $A = x \\cdot y$, el perímetro $P = 2x + 2y = 2x + \\frac{2A}{x}$. Derivando respecto a $x$: $P'(x) = 2 - \\frac{2A}{x^2} = 0 \\implies x^2 = A$. Para $A = 9$, $x = 3\\text{ m}$ e $y = 3\\text{ m}$.",
       "difficulty": "4",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "En la ciudad de Cali, un sistema de transporte masivo monitorea la velocidad de los buses y la aceleración instantánea.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x = 5\\text{ m}, y = 5\\text{ m}$ (un cuadrado)",
           "is_correct": true,
           "feedback": "Correcto: el cuadrado siempre minimiza el perímetro para un área fija."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 30\\text{ m}, y = 1\\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto: esa configuración incrementa significativamente el perímetro."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto: las dimensiones no derivan del valor crítico óptimo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Para un área fija $A = x \\cdot y$, el perímetro $P = 2x + 2y = 2x + \\frac{2A}{x}$. Derivando respecto a $x$: $P'(x) = 2 - \\frac{2A}{x^2} = 0 \\implies x^2 = A$. Para $A = 25$, $x = 5\\text{ m}$ e $y = 5\\text{ m}$.",
       "difficulty": "6",
       "images": [],
@@ -243,19 +243,19 @@
       "context": "Un ingeniero civil en el proyecto del metro de Bogotá evalúa la curva de deformación de una viga de concreto.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$x = 6\\text{ m}, y = 6\\text{ m}$ (un cuadrado)",
           "is_correct": true,
           "feedback": "Correcto: el cuadrado siempre minimiza el perímetro para un área fija."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 41\\text{ m}, y = 1\\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto: esa configuración incrementa significativamente el perímetro."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = 22\\text{ m}, y = 8\\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto: no satisface la condición de mínimo perímetro."
@@ -267,7 +267,7 @@
           "feedback": "Incorrecto: las dimensiones no derivan del valor crítico óptimo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Para un área fija $A = x \\cdot y$, el perímetro $P = 2x + 2y = 2x + \\frac{2A}{x}$. Derivando respecto a $x$: $P'(x) = 2 - \\frac{2A}{x^2} = 0 \\implies x^2 = A$. Para $A = 36$, $x = 6\\text{ m}$ e $y = 6\\text{ m}$.",
       "difficulty": "6",
       "images": [],
@@ -335,13 +335,13 @@
       "context": "Una empresa de energía solar en Barranquilla modela la acumulación diaria de energía mediante la tasa de radiación captada.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x = 8\\text{ m}, y = 8\\text{ m}$ (un cuadrado)",
           "is_correct": true,
           "feedback": "Correcto: el cuadrado siempre minimiza el perímetro para un área fija."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 69\\text{ m}, y = 1\\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto: esa configuración incrementa significativamente el perímetro."
@@ -359,7 +359,7 @@
           "feedback": "Incorrecto: las dimensiones no derivan del valor crítico óptimo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Para un área fija $A = x \\cdot y$, el perímetro $P = 2x + 2y = 2x + \\frac{2A}{x}$. Derivando respecto a $x$: $P'(x) = 2 - \\frac{2A}{x^2} = 0 \\implies x^2 = A$. Para $A = 64$, $x = 8\\text{ m}$ e $y = 8\\text{ m}$.",
       "difficulty": "6",
       "images": [],
@@ -381,13 +381,13 @@
       "context": "En un estudio económico en Bucaramanga, se analiza el costo marginal y la utilidad máxima de una fábrica de calzado.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x = 9\\text{ m}, y = 9\\text{ m}$ (un cuadrado)",
           "is_correct": true,
           "feedback": "Correcto: el cuadrado siempre minimiza el perímetro para un área fija."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 86\\text{ m}, y = 1\\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto: esa configuración incrementa significativamente el perímetro."
@@ -405,7 +405,7 @@
           "feedback": "Incorrecto: las dimensiones no derivan del valor crítico óptimo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Para un área fija $A = x \\cdot y$, el perímetro $P = 2x + 2y = 2x + \\frac{2A}{x}$. Derivando respecto a $x$: $P'(x) = 2 - \\frac{2A}{x^2} = 0 \\implies x^2 = A$. Para $A = 81$, $x = 9\\text{ m}$ e $y = 9\\text{ m}$.",
       "difficulty": "6",
       "images": [],
@@ -427,19 +427,19 @@
       "context": "Un centro meteorológico en Cartagena registra el incremento de la temperatura promedio durante el medio día.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$x = 10\\text{ m}, y = 10\\text{ m}$ (un cuadrado)",
           "is_correct": true,
           "feedback": "Correcto: el cuadrado siempre minimiza el perímetro para un área fija."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 105\\text{ m}, y = 1\\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto: esa configuración incrementa significativamente el perímetro."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = 30\\text{ m}, y = 12\\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto: no satisface la condición de mínimo perímetro."
@@ -451,7 +451,7 @@
           "feedback": "Incorrecto: las dimensiones no derivan del valor crítico óptimo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Para un área fija $A = x \\cdot y$, el perímetro $P = 2x + 2y = 2x + \\frac{2A}{x}$. Derivando respecto a $x$: $P'(x) = 2 - \\frac{2A}{x^2} = 0 \\implies x^2 = A$. Para $A = 100$, $x = 10\\text{ m}$ e $y = 10\\text{ m}$.",
       "difficulty": "6",
       "images": [],
@@ -519,31 +519,31 @@
       "context": "Un laboratorio farmacéutico en Bogotá analiza la concentración de un medicamento en el torrente sanguíneo a lo largo de las horas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$x = 12\\text{ m}, y = 12\\text{ m}$ (un cuadrado)",
           "is_correct": true,
           "feedback": "Correcto: el cuadrado siempre minimiza el perímetro para un área fija."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 149\\text{ m}, y = 1\\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto: esa configuración incrementa significativamente el perímetro."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = 34\\text{ m}, y = 14\\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto: no satisface la condición de mínimo perímetro."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$x = 16\\text{ m}, y = 20\\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto: las dimensiones no derivan del valor crítico óptimo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Para un área fija $A = x \\cdot y$, el perímetro $P = 2x + 2y = 2x + \\frac{2A}{x}$. Derivando respecto a $x$: $P'(x) = 2 - \\frac{2A}{x^2} = 0 \\implies x^2 = A$. Para $A = 144$, $x = 12\\text{ m}$ e $y = 12\\text{ m}$.",
       "difficulty": "8",
       "images": [],
@@ -565,31 +565,31 @@
       "context": "En el puerto de Buenaventura, se registra el nivel de la marea y la tasa de variación del nivel del agua.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$x = 13\\text{ m}, y = 13\\text{ m}$ (un cuadrado)",
           "is_correct": true,
           "feedback": "Correcto: el cuadrado siempre minimiza el perímetro para un área fija."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 174\\text{ m}, y = 1\\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto: esa configuración incrementa significativamente el perímetro."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = 36\\text{ m}, y = 15\\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto: no satisface la condición de mínimo perímetro."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$x = 17\\text{ m}, y = 21\\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto: las dimensiones no derivan del valor crítico óptimo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Para un área fija $A = x \\cdot y$, el perímetro $P = 2x + 2y = 2x + \\frac{2A}{x}$. Derivando respecto a $x$: $P'(x) = 2 - \\frac{2A}{x^2} = 0 \\implies x^2 = A$. Para $A = 169$, $x = 13\\text{ m}$ e $y = 13\\text{ m}$.",
       "difficulty": "8",
       "images": [],
@@ -611,31 +611,31 @@
       "context": "Un cultivo de flores en la Sabana de Bogotá estudia la tasa de crecimiento de las plantas bajo ciertas condiciones de riego.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$x = 14\\text{ m}, y = 14\\text{ m}$ (un cuadrado)",
           "is_correct": true,
           "feedback": "Correcto: el cuadrado siempre minimiza el perímetro para un área fija."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 201\\text{ m}, y = 1\\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto: esa configuración incrementa significativamente el perímetro."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = 38\\text{ m}, y = 16\\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto: no satisface la condición de mínimo perímetro."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$x = 18\\text{ m}, y = 22\\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto: las dimensiones no derivan del valor crítico óptimo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Para un área fija $A = x \\cdot y$, el perímetro $P = 2x + 2y = 2x + \\frac{2A}{x}$. Derivando respecto a $x$: $P'(x) = 2 - \\frac{2A}{x^2} = 0 \\implies x^2 = A$. Para $A = 196$, $x = 14\\text{ m}$ e $y = 14\\text{ m}$.",
       "difficulty": "8",
       "images": [],
@@ -657,13 +657,13 @@
       "context": "En la ciudad de Cali, un sistema de transporte masivo monitorea la velocidad de los buses y la aceleración instantánea.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x = 15\\text{ m}, y = 15\\text{ m}$ (un cuadrado)",
           "is_correct": true,
           "feedback": "Correcto: el cuadrado siempre minimiza el perímetro para un área fija."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 230\\text{ m}, y = 1\\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto: esa configuración incrementa significativamente el perímetro."
@@ -681,7 +681,7 @@
           "feedback": "Incorrecto: las dimensiones no derivan del valor crítico óptimo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Para un área fija $A = x \\cdot y$, el perímetro $P = 2x + 2y = 2x + \\frac{2A}{x}$. Derivando respecto a $x$: $P'(x) = 2 - \\frac{2A}{x^2} = 0 \\implies x^2 = A$. Para $A = 225$, $x = 15\\text{ m}$ e $y = 15\\text{ m}$.",
       "difficulty": "8",
       "images": [],
@@ -703,31 +703,31 @@
       "context": "Un ingeniero civil en el proyecto del metro de Bogotá evalúa la curva de deformación de una viga de concreto.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$x = 16\\text{ m}, y = 16\\text{ m}$ (un cuadrado)",
           "is_correct": true,
           "feedback": "Correcto: el cuadrado siempre minimiza el perímetro para un área fija."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 261\\text{ m}, y = 1\\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto: esa configuración incrementa significativamente el perímetro."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = 42\\text{ m}, y = 18\\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto: no satisface la condición de mínimo perímetro."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$x = 20\\text{ m}, y = 24\\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto: las dimensiones no derivan del valor crítico óptimo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Para un área fija $A = x \\cdot y$, el perímetro $P = 2x + 2y = 2x + \\frac{2A}{x}$. Derivando respecto a $x$: $P'(x) = 2 - \\frac{2A}{x^2} = 0 \\implies x^2 = A$. Para $A = 256$, $x = 16\\text{ m}$ e $y = 16\\text{ m}$.",
       "difficulty": "8",
       "images": [],
@@ -749,19 +749,19 @@
       "context": "En un proyecto agrícola en el departamento del Tolima, se calcula la producción máxima de arroz optimizando la fertilización.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$x = 17\\text{ m}, y = 17\\text{ m}$ (un cuadrado)",
           "is_correct": true,
           "feedback": "Correcto: el cuadrado siempre minimiza el perímetro para un área fija."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 294\\text{ m}, y = 1\\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto: esa configuración incrementa significativamente el perímetro."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = 44\\text{ m}, y = 19\\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto: no satisface la condición de mínimo perímetro."
@@ -773,7 +773,7 @@
           "feedback": "Incorrecto: las dimensiones no derivan del valor crítico óptimo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Para un área fija $A = x \\cdot y$, el perímetro $P = 2x + 2y = 2x + \\frac{2A}{x}$. Derivando respecto a $x$: $P'(x) = 2 - \\frac{2A}{x^2} = 0 \\implies x^2 = A$. Para $A = 289$, $x = 17\\text{ m}$ e $y = 17\\text{ m}$.",
       "difficulty": "10",
       "images": [],
@@ -795,31 +795,31 @@
       "context": "Una empresa de energía solar en Barranquilla modela la acumulación diaria de energía mediante la tasa de radiación captada.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$x = 18\\text{ m}, y = 18\\text{ m}$ (un cuadrado)",
           "is_correct": true,
           "feedback": "Correcto: el cuadrado siempre minimiza el perímetro para un área fija."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 329\\text{ m}, y = 1\\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto: esa configuración incrementa significativamente el perímetro."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = 46\\text{ m}, y = 20\\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto: no satisface la condición de mínimo perímetro."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$x = 22\\text{ m}, y = 26\\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto: las dimensiones no derivan del valor crítico óptimo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Para un área fija $A = x \\cdot y$, el perímetro $P = 2x + 2y = 2x + \\frac{2A}{x}$. Derivando respecto a $x$: $P'(x) = 2 - \\frac{2A}{x^2} = 0 \\implies x^2 = A$. Para $A = 324$, $x = 18\\text{ m}$ e $y = 18\\text{ m}$.",
       "difficulty": "10",
       "images": [],
@@ -841,13 +841,13 @@
       "context": "En un estudio económico en Bucaramanga, se analiza el costo marginal y la utilidad máxima de una fábrica de calzado.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x = 19\\text{ m}, y = 19\\text{ m}$ (un cuadrado)",
           "is_correct": true,
           "feedback": "Correcto: el cuadrado siempre minimiza el perímetro para un área fija."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 366\\text{ m}, y = 1\\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto: esa configuración incrementa significativamente el perímetro."
@@ -865,7 +865,7 @@
           "feedback": "Incorrecto: las dimensiones no derivan del valor crítico óptimo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Para un área fija $A = x \\cdot y$, el perímetro $P = 2x + 2y = 2x + \\frac{2A}{x}$. Derivando respecto a $x$: $P'(x) = 2 - \\frac{2A}{x^2} = 0 \\implies x^2 = A$. Para $A = 361$, $x = 19\\text{ m}$ e $y = 19\\text{ m}$.",
       "difficulty": "10",
       "images": [],
@@ -887,19 +887,19 @@
       "context": "Un centro meteorológico en Cartagena registra el incremento de la temperatura promedio durante el medio día.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$x = 20\\text{ m}, y = 20\\text{ m}$ (un cuadrado)",
           "is_correct": true,
           "feedback": "Correcto: el cuadrado siempre minimiza el perímetro para un área fija."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 405\\text{ m}, y = 1\\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto: esa configuración incrementa significativamente el perímetro."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = 50\\text{ m}, y = 22\\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto: no satisface la condición de mínimo perímetro."
@@ -911,7 +911,7 @@
           "feedback": "Incorrecto: las dimensiones no derivan del valor crítico óptimo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Para un área fija $A = x \\cdot y$, el perímetro $P = 2x + 2y = 2x + \\frac{2A}{x}$. Derivando respecto a $x$: $P'(x) = 2 - \\frac{2A}{x^2} = 0 \\implies x^2 = A$. Para $A = 400$, $x = 20\\text{ m}$ e $y = 20\\text{ m}$.",
       "difficulty": "10",
       "images": [],

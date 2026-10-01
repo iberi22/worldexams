@@ -59,31 +59,31 @@
       "context": "Un alumno de Bogotá prepara su exposición oral sobre el Tango en-boyal y escribe en el primer párrafo: \"El Tango en-boyal es un término antiguo de las zonas montanosas del centro del país\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Define un término técnico sin explicarlo, de modo que el público no puede comprender el concepto.",
           "is_correct": true,
           "feedback": "Correcto. Un concepto desconocido no puede aparecer en la definición sin explicación posterior."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Usa demasiadas palabras, cuando el público solo alcanza a leer la primera línea.",
           "is_correct": false,
           "feedback": "Incorrecto. La apertura es breve; el problema no es la longitud sino la falta de explicación."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "No menciona el nombre del expositor, aunque toda exposición debe empezar con la presentación personal.",
           "is_correct": false,
           "feedback": "Incorrecto. Presentarse es una costumbre, no una exigencia del género expositivo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Está escrita en pasado, y el presente es el único tiempo permitido en una exposición.",
           "is_correct": false,
           "feedback": "Incorrecto. La exposición puede usar pasado, presente o futuro según el tema tratado."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "En un texto expositivo, cada concepto nuevo debe ir acompañado de una explicación que lo aclare. Cuando el público no conoce el término, la definición sin desarrollo genera incomprensión. Comprender el género expositivo implica identificar estos vacíos y completarlos con definiciones, ejemplos y comparaciones que hagan accesible el contenido.",
       "difficulty": "4",
       "images": [],
@@ -105,13 +105,13 @@
       "context": "Un equipo de estudiantes de Pereira prepara una exposición oral sobre la producción de café en el Eje Cafetero y debe escribir el esquema de desarrollo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Introducción con el tema, desarrollo por etapas ordenadas y conclusión con una síntesis del proceso.",
           "is_correct": true,
           "feedback": "Correcto. Es la secuencia estándar: presentar, desarrollar y cerrar con una recapitulación."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Conclusión, introducción, desarrollo y ejemplos, porque así se responde primero lo principal.",
           "is_correct": false,
           "feedback": "Incorrecto. Abrir con la conclusión desorienta al público, que aún no conoce el tema."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecto. Sin introducción ni cierre, la exposición pierde el marco y la síntesis."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La exposición oral sigue tres momentos: la introducción, que presenta el tema y engancha al público; el desarrollo, que ordena la información en etapas o subtemas; y la conclusión, que sintetiza lo esencial. Cuando el desarrollo carece de orden, la audiencia pierde el hilo conductor. Planificar el esquema antes de hablar garantiza claridad y permite ajustar el tiempo disponible.",
       "difficulty": "6",
       "images": [],
@@ -151,31 +151,31 @@
       "context": "En un colegio de Medellín, una alumna debe exponer sobre la historia del metro de Medellín y quiere incluir un dato local pertinente.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Las líneas del sistema, las estaciones que atraviesan los barrios y la fecha en que entró en operación.",
           "is_correct": true,
           "feedback": "Correcto. Son datos verificables, relacionados con el metro y útiles para contextualizarlo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El número de habitantes de Oslo, porque las capitales europeas se parecen a Medellín.",
           "is_correct": false,
           "feedback": "Incorrecto. La comparación no tiene relación con el sistema metro que se expone."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El nombre de una empresa de buses de otra ciudad, porque los transportes se organizan igual en todo el país.",
           "is_correct": false,
           "feedback": "Incorrecto. Es un dato ajeno al tema, que no orienta al público sobre el metro de Medellín."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El récord deportivo de un colegio, porque los datos personales son los más relevantes.",
           "is_correct": false,
           "feedback": "Incorrecto. Un récord escolar no aporta nada al contenido informativo del metro."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Un dato pertinente es el que se relaciona directamente con el tema y puede verificarse. En una exposición sobre el metro de Medellín, la información sobre líneas, estaciones, cobertura por barrios y fecha de inauguración orienta al público y le da contexto. Incluir datos de otras ciudades o de actividades escolares no aporta nada y solo confunde a la audiencia.",
       "difficulty": "6",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "Un estudiante de Cartagena prepara una exposición oral sobre el cuidado de los manglares y debe decidir cómo presentar la información a sus compañeros de sexto grado.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Definir los términos desconocidos, ordenar la información y usar ejemplos, esquemas o imágenes de apoyo.",
           "is_correct": true,
           "feedback": "Correcto. Combina claridad conceptual, secuencia lógica y apoyo visual para facilitar la comprensión."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Leer íntegramente la exposición sin detenerse, porque hablar rápido demuestra dominio del tema.",
           "is_correct": false,
           "feedback": "Incorrecto. La velocidad no demuestra dominio y dificulta la comprensión de la audiencia."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto. Explicar al final deja al público sin comprensión durante casi toda la presentación."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Para asegurar la comprensión, el expositor debe anticipar qué sabe el público, definir los términos nuevos y organizar la información en una secuencia fácil. Los recursos visuales, como esquemas, mapas o imágenes, funcionan como apoyo y no como sustituto de la palabra. Esta anticipación es la diferencia entre una exposición clara y una exposición que el público no logra seguir.",
       "difficulty": "6",
       "images": [],
@@ -243,19 +243,19 @@
       "context": "En una exposición oral en Bucaramanga, el conferenciante menciona seis conceptos técnicos en cinco minutos y no define ninguno. El público murmura porque no entiende de qué se trata.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "El expositor cumplió la forma pero no la función comunicativa, porque no adecuó el lenguaje a lo que el público sabe.",
           "is_correct": true,
           "feedback": "Correcto. Usar tecnicismos sin explicarlos rompe la comunicación aunque la estructura formal sea correcta."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El expositor habló muy bajo, porque las palabras que nadie entiende siempre dependen del volumen de la voz.",
           "is_correct": false,
           "feedback": "Incorrecto. El problema no es de volumen sino de vocabulario no explicado ante la audiencia."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El público estuvo en desacuerdo con el tema, porque toda reacción negativa indica desacuerdo.",
           "is_correct": false,
           "feedback": "Incorrecto. El murmullo descrito responde a la incomprensión del vocabulario, no a un desacuerdo."
@@ -267,7 +267,7 @@
           "feedback": "Incorrecto. La dificultad del vocabulario no es medida de calidad si el público no comprende."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Un texto cumple su función comunicativa cuando el receptor comprende el mensaje. Si el expositor emplea palabras técnicas sin definirlas, la comunicación se rompe aunque la estructura formal sea correcta. Analizar una exposición implica evaluar la relación entre el lenguaje empleado y los conocimientos previos del público, que es un criterio central de la competencia inferencial.",
       "difficulty": "8",
       "images": [],
@@ -289,31 +289,31 @@
       "context": "Un alumno de Bogotá proyectó quince diapositivas con poco texto en cada una, habló durante doce minutos y la clase terminó sin tiempo para los demás grupos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "La gestión del tiempo, porque la duración y el ajuste al tiempo asignado determinan si el público alcanza a escuchar.",
           "is_correct": true,
           "feedback": "Correcto. El desborde de tiempo es un fallo planificable que se evalúa con evidencia observable."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La ortografía de las diapositivas, porque el público no alcanzó a leer ningún error.",
           "is_correct": false,
           "feedback": "Incorrecto. La evidencia no permite afirmar que hubiera errores de ortografía en las diapositivas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La sinceridad del expositor, porque una presentación larga demuestra mayor compromiso con el tema.",
           "is_correct": false,
           "feedback": "Incorrecto. La extensión no es un indicador de sinceridad ni de compromiso con la materia."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La cantidad de imágenes, porque las diapositivas con dibujos explican mejor que cualquier exposición.",
           "is_correct": false,
           "feedback": "Incorrecto. El caso no aporta información sobre la presencia o la cantidad de imágenes."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Analizar una exposición requiere apoyarse en evidencia observable y separar los planos de evaluación. En este caso, el único dato verificable es el desborde de tiempo, que afecta directamente la experiencia del público. La ortografía, la sinceridad o la cantidad de imágenes no pueden juzgarse con la información disponible, de modo que cualquier conclusión sobre ellos sería una inferencia sin fundamento.",
       "difficulty": "8",
       "images": [],
@@ -335,13 +335,13 @@
       "context": "Un grupo de estudiantes de Armenia va a exponer sobre el café y decide usar fichas de apoyo en lugar de leer un texto completo durante la presentación.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Porque permiten tener a la vista las ideas clave en el momento en que se necesitan, sin leer de corrido.",
           "is_correct": true,
           "feedback": "Correcto. Las fichas estructuran la exposición y liberan al expositor de la lectura continua."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque las fichas reemplazan la preparación y permiten improvisar el tema frente al público.",
           "is_correct": false,
           "feedback": "Incorrecto. Las fichas son apoyo; no sustituyen la investigación ni el dominio del tema."
@@ -359,7 +359,7 @@
           "feedback": "Incorrecto. La cantidad de datos no sustituye a un desarrollo ordenado y comprensible."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Las fichas de apoyo funcionan como mapa de la exposición: contienen las ideas centrales, el orden del desarrollo y los datos clave. Consultarlas en el momento adecuado permite mantener la atención del público y evita la lectura de textos largos. Esta estrategia es útil cuando el expositor debe sostener el contacto visual con su audiencia en lugar de leer.",
       "difficulty": "8",
       "images": [],
@@ -381,13 +381,13 @@
       "context": "Dos grupos exponen sobre el río Magdalena. El primero apoya toda su información en un libro de texto del año 1985. El segundo combina ese libro con un informe oficial del Ministerio de Educación del año actual y con datos actualizados de matrícula escolar.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La segunda fuente es más sólida porque combina un antecedente histórico con información oficial reciente y verificable.",
           "is_correct": true,
           "feedback": "Correcto. Combina profundidad histórica con datos actuales y de fuente institucional identificable."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La primera fuente es mejor porque todo libro impreso vale más que cualquier documento oficial digital.",
           "is_correct": false,
           "feedback": "Incorrecto. El valor de una fuente depende de su pertinencia y verificabilidad, no de su formato."
@@ -405,7 +405,7 @@
           "feedback": "Incorrecto. Que un dato antiguo y uno actual difieran no invalida ninguno; exige explicitar las fechas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Evaluar fuentes exige preguntar por su pertinencia, su fecha, su autoría y su posibilidad de verificación. Un libro antiguo aporta contexto histórico, pero sus cifras pueden estar desactualizadas; un informe oficial reciente aporta datos vigentes y su autoría institucional permite verificarlos. La mejor evaluación no descarta ninguna fuente, sino que explica el valor de cada una.",
       "difficulty": "10",
       "images": [],

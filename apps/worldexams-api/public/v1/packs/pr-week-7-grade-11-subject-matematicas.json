@@ -13,19 +13,19 @@
       "context": "En un control de presupuesto agrícola en San Juan.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$x < 2$",
           "is_correct": true,
           "feedback": "Correcto. Al restar 3 y dividir entre 2 obtenemos $x < 2$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x > 2$",
           "is_correct": false,
           "feedback": "Incorrecto. Se cambió de forma errónea el sentido de la desigualdad."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x < 0$",
           "is_correct": false,
           "feedback": "Incorrecto. Error de cálculo en la división."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. La desigualdad debe ser estricta."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Para resolver la inecuación lineal $$2x + 3 < 7$$, primero restamos 3 en ambos lados: $$2x < 7 - 3 \\Rightarrow 2x < 4$$. Dividimos entre 2 para despejar $x$: $$x < \\frac{ 4 }{ 2 } \\Rightarrow x < 2$$. Como el divisor es positivo, el sentido de la desigualdad se mantiene igual.\n\n---",
       "difficulty": "3",
       "images": [],
@@ -103,19 +103,19 @@
       "context": "En un control de presupuesto agrícola en Arecibo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$x < 4$",
           "is_correct": true,
           "feedback": "Correcto. Al restar 7 y dividir entre 2 obtenemos $x < 4$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x > 4$",
           "is_correct": false,
           "feedback": "Incorrecto. Se cambió de forma errónea el sentido de la desigualdad."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x < 2$",
           "is_correct": false,
           "feedback": "Incorrecto. Error de cálculo en la división."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. La desigualdad debe ser estricta."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Para resolver la inecuación lineal $$2x + 7 < 15$$, primero restamos 7 en ambos lados: $$2x < 15 - 7 \\Rightarrow 2x < 8$$. Dividimos entre 2 para despejar $x$: $$x < \\frac{ 8 }{ 2 } \\Rightarrow x < 4$$. Como el divisor es positivo, el sentido de la desigualdad se mantiene igual.\n\n---",
       "difficulty": "3",
       "images": [],
@@ -148,13 +148,13 @@
       "context": "En un control de presupuesto agrícola en Carolina.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x < 5$",
           "is_correct": true,
           "feedback": "Correcto. Al restar 9 y dividir entre 3 obtenemos $x < 5$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x > 5$",
           "is_correct": false,
           "feedback": "Incorrecto. Se cambió de forma errónea el sentido de la desigualdad."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. La desigualdad debe ser estricta."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Para resolver la inecuación lineal $$3x + 9 < 24$$, primero restamos 9 en ambos lados: $$3x < 24 - 9 \\Rightarrow 3x < 15$$. Dividimos entre 3 para despejar $x$: $$x < \\frac{ 15 }{ 3 } \\Rightarrow x < 5$$. Como el divisor es positivo, el sentido de la desigualdad se mantiene igual.\n\n---",
       "difficulty": "3",
       "images": [],
@@ -193,19 +193,19 @@
       "context": "En un control de presupuesto agrícola en Ciales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$x < 6$",
           "is_correct": true,
           "feedback": "Correcto. Al restar 11 y dividir entre 2 obtenemos $x < 6$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x > 6$",
           "is_correct": false,
           "feedback": "Incorrecto. Se cambió de forma errónea el sentido de la desigualdad."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x < 4$",
           "is_correct": false,
           "feedback": "Incorrecto. Error de cálculo en la división."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. La desigualdad debe ser estricta."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Para resolver la inecuación lineal $$2x + 11 < 23$$, primero restamos 11 en ambos lados: $$2x < 23 - 11 \\Rightarrow 2x < 12$$. Dividimos entre 2 para despejar $x$: $$x < \\frac{ 12 }{ 2 } \\Rightarrow x < 6$$. Como el divisor es positivo, el sentido de la desigualdad se mantiene igual.\n\n---",
       "difficulty": "5",
       "images": [],
@@ -283,13 +283,13 @@
       "context": "En un control de presupuesto agrícola en San Juan.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x < 8$",
           "is_correct": true,
           "feedback": "Correcto. Al restar 15 y dividir entre 2 obtenemos $x < 8$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x > 8$",
           "is_correct": false,
           "feedback": "Incorrecto. Se cambió de forma errónea el sentido de la desigualdad."
@@ -307,7 +307,7 @@
           "feedback": "Incorrecto. La desigualdad debe ser estricta."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Para resolver la inecuación lineal $$2x + 15 < 31$$, primero restamos 15 en ambos lados: $$2x < 31 - 15 \\Rightarrow 2x < 16$$. Dividimos entre 2 para despejar $x$: $$x < \\frac{ 16 }{ 2 } \\Rightarrow x < 8$$. Como el divisor es positivo, el sentido de la desigualdad se mantiene igual.\n\n---",
       "difficulty": "5",
       "images": [],
@@ -328,31 +328,31 @@
       "context": "En un control de presupuesto agrícola en Mayagüez.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$x < 9$",
           "is_correct": true,
           "feedback": "Correcto. Al restar 17 y dividir entre 3 obtenemos $x < 9$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x > 9$",
           "is_correct": false,
           "feedback": "Incorrecto. Se cambió de forma errónea el sentido de la desigualdad."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x < 7$",
           "is_correct": false,
           "feedback": "Incorrecto. Error de cálculo en la división."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$x \\le 9$",
           "is_correct": false,
           "feedback": "Incorrecto. La desigualdad debe ser estricta."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Para resolver la inecuación lineal $$3x + 17 < 44$$, primero restamos 17 en ambos lados: $$3x < 44 - 17 \\Rightarrow 3x < 27$$. Dividimos entre 3 para despejar $x$: $$x < \\frac{ 27 }{ 3 } \\Rightarrow x < 9$$. Como el divisor es positivo, el sentido de la desigualdad se mantiene igual.\n\n---",
       "difficulty": "5",
       "images": [],
@@ -373,13 +373,13 @@
       "context": "En un control de presupuesto agrícola en Arecibo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x < 10$",
           "is_correct": true,
           "feedback": "Correcto. Al restar 19 y dividir entre 2 obtenemos $x < 10$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x > 10$",
           "is_correct": false,
           "feedback": "Incorrecto. Se cambió de forma errónea el sentido de la desigualdad."
@@ -397,7 +397,7 @@
           "feedback": "Incorrecto. La desigualdad debe ser estricta."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Para resolver la inecuación lineal $$2x + 19 < 39$$, primero restamos 19 en ambos lados: $$2x < 39 - 19 \\Rightarrow 2x < 20$$. Dividimos entre 2 para despejar $x$: $$x < \\frac{ 20 }{ 2 } \\Rightarrow x < 10$$. Como el divisor es positivo, el sentido de la desigualdad se mantiene igual.\n\n---",
       "difficulty": "5",
       "images": [],
@@ -418,19 +418,19 @@
       "context": "En un control de presupuesto agrícola en Carolina.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$x < 11$",
           "is_correct": true,
           "feedback": "Correcto. Al restar 21 y dividir entre 3 obtenemos $x < 11$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x > 11$",
           "is_correct": false,
           "feedback": "Incorrecto. Se cambió de forma errónea el sentido de la desigualdad."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x < 9$",
           "is_correct": false,
           "feedback": "Incorrecto. Error de cálculo en la división."
@@ -442,7 +442,7 @@
           "feedback": "Incorrecto. La desigualdad debe ser estricta."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Para resolver la inecuación lineal $$3x + 21 < 54$$, primero restamos 21 en ambos lados: $$3x < 54 - 21 \\Rightarrow 3x < 33$$. Dividimos entre 3 para despejar $x$: $$x < \\frac{ 33 }{ 3 } \\Rightarrow x < 11$$. Como el divisor es positivo, el sentido de la desigualdad se mantiene igual.\n\n---",
       "difficulty": "5",
       "images": [],
@@ -463,31 +463,31 @@
       "context": "En un control de presupuesto agrícola en Ciales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$x < 12$",
           "is_correct": true,
           "feedback": "Correcto. Al restar 23 y dividir entre 2 obtenemos $x < 12$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x > 12$",
           "is_correct": false,
           "feedback": "Incorrecto. Se cambió de forma errónea el sentido de la desigualdad."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x < 10$",
           "is_correct": false,
           "feedback": "Incorrecto. Error de cálculo en la división."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$x \\le 12$",
           "is_correct": false,
           "feedback": "Incorrecto. La desigualdad debe ser estricta."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Para resolver la inecuación lineal $$2x + 23 < 47$$, primero restamos 23 en ambos lados: $$2x < 47 - 23 \\Rightarrow 2x < 24$$. Dividimos entre 2 para despejar $x$: $$x < \\frac{ 24 }{ 2 } \\Rightarrow x < 12$$. Como el divisor es positivo, el sentido de la desigualdad se mantiene igual.\n\n---",
       "difficulty": "7",
       "images": [],
@@ -508,31 +508,31 @@
       "context": "En un control de presupuesto agrícola en Ponce.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$x < 13$",
           "is_correct": true,
           "feedback": "Correcto. Al restar 25 y dividir entre 3 obtenemos $x < 13$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x > 13$",
           "is_correct": false,
           "feedback": "Incorrecto. Se cambió de forma errónea el sentido de la desigualdad."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x < 11$",
           "is_correct": false,
           "feedback": "Incorrecto. Error de cálculo en la división."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$x \\le 13$",
           "is_correct": false,
           "feedback": "Incorrecto. La desigualdad debe ser estricta."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Para resolver la inecuación lineal $$3x + 25 < 64$$, primero restamos 25 en ambos lados: $$3x < 64 - 25 \\Rightarrow 3x < 39$$. Dividimos entre 3 para despejar $x$: $$x < \\frac{ 39 }{ 3 } \\Rightarrow x < 13$$. Como el divisor es positivo, el sentido de la desigualdad se mantiene igual.\n\n---",
       "difficulty": "7",
       "images": [],
@@ -553,13 +553,13 @@
       "context": "En un control de presupuesto agrícola en San Juan.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x < 14$",
           "is_correct": true,
           "feedback": "Correcto. Al restar 27 y dividir entre 2 obtenemos $x < 14$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x > 14$",
           "is_correct": false,
           "feedback": "Incorrecto. Se cambió de forma errónea el sentido de la desigualdad."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. La desigualdad debe ser estricta."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Para resolver la inecuación lineal $$2x + 27 < 55$$, primero restamos 27 en ambos lados: $$2x < 55 - 27 \\Rightarrow 2x < 28$$. Dividimos entre 2 para despejar $x$: $$x < \\frac{ 28 }{ 2 } \\Rightarrow x < 14$$. Como el divisor es positivo, el sentido de la desigualdad se mantiene igual.\n\n---",
       "difficulty": "7",
       "images": [],
@@ -598,13 +598,13 @@
       "context": "En un control de presupuesto agrícola en Mayagüez.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x < 15$",
           "is_correct": true,
           "feedback": "Correcto. Al restar 29 y dividir entre 3 obtenemos $x < 15$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x > 15$",
           "is_correct": false,
           "feedback": "Incorrecto. Se cambió de forma errónea el sentido de la desigualdad."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. La desigualdad debe ser estricta."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Para resolver la inecuación lineal $$3x + 29 < 74$$, primero restamos 29 en ambos lados: $$3x < 74 - 29 \\Rightarrow 3x < 45$$. Dividimos entre 3 para despejar $x$: $$x < \\frac{ 45 }{ 3 } \\Rightarrow x < 15$$. Como el divisor es positivo, el sentido de la desigualdad se mantiene igual.\n\n---",
       "difficulty": "7",
       "images": [],
@@ -643,19 +643,19 @@
       "context": "En un control de presupuesto agrícola en Arecibo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$x < 16$",
           "is_correct": true,
           "feedback": "Correcto. Al restar 31 y dividir entre 2 obtenemos $x < 16$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x > 16$",
           "is_correct": false,
           "feedback": "Incorrecto. Se cambió de forma errónea el sentido de la desigualdad."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x < 14$",
           "is_correct": false,
           "feedback": "Incorrecto. Error de cálculo en la división."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. La desigualdad debe ser estricta."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Para resolver la inecuación lineal $$2x + 31 < 63$$, primero restamos 31 en ambos lados: $$2x < 63 - 31 \\Rightarrow 2x < 32$$. Dividimos entre 2 para despejar $x$: $$x < \\frac{ 32 }{ 2 } \\Rightarrow x < 16$$. Como el divisor es positivo, el sentido de la desigualdad se mantiene igual.\n\n---",
       "difficulty": "7",
       "images": [],
@@ -688,31 +688,31 @@
       "context": "En un control de presupuesto agrícola en Carolina.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$x < 17$",
           "is_correct": true,
           "feedback": "Correcto. Al restar 33 y dividir entre 3 obtenemos $x < 17$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x > 17$",
           "is_correct": false,
           "feedback": "Incorrecto. Se cambió de forma errónea el sentido de la desigualdad."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x < 15$",
           "is_correct": false,
           "feedback": "Incorrecto. Error de cálculo en la división."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$x \\le 17$",
           "is_correct": false,
           "feedback": "Incorrecto. La desigualdad debe ser estricta."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Para resolver la inecuación lineal $$3x + 33 < 84$$, primero restamos 33 en ambos lados: $$3x < 84 - 33 \\Rightarrow 3x < 51$$. Dividimos entre 3 para despejar $x$: $$x < \\frac{ 51 }{ 3 } \\Rightarrow x < 17$$. Como el divisor es positivo, el sentido de la desigualdad se mantiene igual.\n\n---",
       "difficulty": "7",
       "images": [],
@@ -733,19 +733,19 @@
       "context": "En un control de presupuesto agrícola en Ciales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$x < 18$",
           "is_correct": true,
           "feedback": "Correcto. Al restar 35 y dividir entre 2 obtenemos $x < 18$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x > 18$",
           "is_correct": false,
           "feedback": "Incorrecto. Se cambió de forma errónea el sentido de la desigualdad."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x < 16$",
           "is_correct": false,
           "feedback": "Incorrecto. Error de cálculo en la división."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. La desigualdad debe ser estricta."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Para resolver la inecuación lineal $$2x + 35 < 71$$, primero restamos 35 en ambos lados: $$2x < 71 - 35 \\Rightarrow 2x < 36$$. Dividimos entre 2 para despejar $x$: $$x < \\frac{ 36 }{ 2 } \\Rightarrow x < 18$$. Como el divisor es positivo, el sentido de la desigualdad se mantiene igual.\n\n---",
       "difficulty": "9",
       "images": [],
@@ -778,13 +778,13 @@
       "context": "En un control de presupuesto agrícola en Ponce.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x < 19$",
           "is_correct": true,
           "feedback": "Correcto. Al restar 37 y dividir entre 3 obtenemos $x < 19$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x > 19$",
           "is_correct": false,
           "feedback": "Incorrecto. Se cambió de forma errónea el sentido de la desigualdad."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. La desigualdad debe ser estricta."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Para resolver la inecuación lineal $$3x + 37 < 94$$, primero restamos 37 en ambos lados: $$3x < 94 - 37 \\Rightarrow 3x < 57$$. Dividimos entre 3 para despejar $x$: $$x < \\frac{ 57 }{ 3 } \\Rightarrow x < 19$$. Como el divisor es positivo, el sentido de la desigualdad se mantiene igual.\n\n---",
       "difficulty": "9",
       "images": [],
@@ -823,13 +823,13 @@
       "context": "En un control de presupuesto agrícola en San Juan.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x < 20$",
           "is_correct": true,
           "feedback": "Correcto. Al restar 39 y dividir entre 2 obtenemos $x < 20$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x > 20$",
           "is_correct": false,
           "feedback": "Incorrecto. Se cambió de forma errónea el sentido de la desigualdad."
@@ -847,7 +847,7 @@
           "feedback": "Incorrecto. La desigualdad debe ser estricta."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Para resolver la inecuación lineal $$2x + 39 < 79$$, primero restamos 39 en ambos lados: $$2x < 79 - 39 \\Rightarrow 2x < 40$$. Dividimos entre 2 para despejar $x$: $$x < \\frac{ 40 }{ 2 } \\Rightarrow x < 20$$. Como el divisor es positivo, el sentido de la desigualdad se mantiene igual.\n\n---",
       "difficulty": "9",
       "images": [],
@@ -868,19 +868,19 @@
       "context": "En un control de presupuesto agrícola en Mayagüez.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$x < 21$",
           "is_correct": true,
           "feedback": "Correcto. Al restar 41 y dividir entre 3 obtenemos $x < 21$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x > 21$",
           "is_correct": false,
           "feedback": "Incorrecto. Se cambió de forma errónea el sentido de la desigualdad."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x < 19$",
           "is_correct": false,
           "feedback": "Incorrecto. Error de cálculo en la división."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. La desigualdad debe ser estricta."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Para resolver la inecuación lineal $$3x + 41 < 104$$, primero restamos 41 en ambos lados: $$3x < 104 - 41 \\Rightarrow 3x < 63$$. Dividimos entre 3 para despejar $x$: $$x < \\frac{ 63 }{ 3 } \\Rightarrow x < 21$$. Como el divisor es positivo, el sentido de la desigualdad se mantiene igual.",
       "difficulty": "9",
       "images": [],

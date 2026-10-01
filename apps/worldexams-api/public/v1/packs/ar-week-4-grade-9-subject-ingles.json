@@ -19,26 +19,26 @@
           "feedback": "Esto diría que no sabés tocar la guitarra pero sí nadar; gramaticalmente es posible pero 'can' suele ser la primera opción para habilidades positivas."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "can / can't",
           "is_correct": true,
           "feedback": "¡Correcto! 'Can' se usa para habilidades y 'can't' para la falta de habilidad."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "could / couldn't",
           "is_correct": false,
           "feedback": "Estas son las formas de pasado, pero Martina habla de sus habilidades actuales."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "must / mustn't",
           "is_correct": false,
           "feedback": "'Must' indica obligación, no habilidad física o mental."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Cuando querés decir que sabés hacer algo (como tocar la guitarra), usás \"can\". Si no sabés o no podés, usás \"can't\". Es el verbo más básico para hablar de tus talentos en la escuela.\r\n\r\n---",
+      "correct_answer": "D",
+      "explanation": "Cuando querés decir que sabés hacer algo (como tocar la guitarra), usás \"can\". Si no sabés o no podés, usás \"can't\". Es el verbo más básico para hablar de tus talentos en la escuela.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -64,13 +64,13 @@
           "feedback": "Esto significa que no es necesario hacerlo, pero no que esté prohibido."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "mustn't",
           "is_correct": true,
           "feedback": "¡Muy bien! 'Mustn't' es el verbo para las prohibiciones y reglas estrictas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "shouldn't",
           "is_correct": false,
           "feedback": "'Shouldn't' es un consejo, pero en un museo tocar las obras está directamente prohibido."
@@ -82,8 +82,8 @@
           "feedback": "Aunque se usa informalmente, 'mustn't' es la forma específica para prohibiciones oficiales."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "En lugares con reglas estrictas (como el MNBA), usás \"mustn't\" para decir que algo está prohibido. Significa que NO tenés permitido hacerlo bajo ninguna circunstancia.\r\n\r\n---",
+      "correct_answer": "C",
+      "explanation": "En lugares con reglas estrictas (como el MNBA), usás \"mustn't\" para decir que algo está prohibido. Significa que NO tenés permitido hacerlo bajo ninguna circunstancia.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -109,13 +109,13 @@
           "feedback": "Suena demasiado fuerte, como una orden de un superior más que un consejo entre amigos."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "should",
           "is_correct": true,
           "feedback": "¡Exacto! 'Should' es el verbo estándar para dar consejos y sugerencias."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "can",
           "is_correct": false,
           "feedback": "Indica posibilidad, pero no la recomendación de hacerlo."
@@ -127,8 +127,8 @@
           "feedback": "Indica una obligación externa, no un consejo personal."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Para ser un buen amigo y dar un consejo, usás \"should\". Es como decirle \"deberías\" a alguien en castellano. No es una orden, sino una sugerencia para que le vaya bien en el examen.\r\n\r\n---",
+      "correct_answer": "C",
+      "explanation": "Para ser un buen amigo y dar un consejo, usás \"should\". Es como decirle \"deberías\" a alguien en castellano. No es una orden, sino una sugerencia para que le vaya bien en el examen.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -148,19 +148,19 @@
       "context": "Una situación en un aeropuerto antes de viajar a Iguazú.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "should",
           "is_correct": false,
           "feedback": "Mostrar el documento no es un consejo, es obligatorio."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "can",
           "is_correct": false,
           "feedback": "No es una opción, es algo requerido por la ley."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "have to",
           "is_correct": true,
           "feedback": "¡Correcto! 'Have to' se usa para obligaciones impuestas por reglas externas o leyes."
@@ -172,8 +172,8 @@
           "feedback": "Esto indica una posibilidad remota, no una obligación."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Cuando la obligación viene de una ley o reglamento (como en Aeroparque o Ezeiza), lo más común es usar \"have to\". Tenés que mostrar el DNI porque es la regla para poder subir al avión.\r\n\r\n---",
+      "correct_answer": "A",
+      "explanation": "Cuando la obligación viene de una ley o reglamento (como en Aeroparque o Ezeiza), lo más común es usar \"have to\". Tenés que mostrar el DNI porque es la regla para poder subir al avión.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -199,13 +199,13 @@
           "feedback": "Esto indicaría obligación, no duda."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "might / might",
           "is_correct": true,
           "feedback": "¡Muy bien! 'Might' se usa para posibilidades de las que no estamos seguros."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "should / should",
           "is_correct": false,
           "feedback": "Esto sería darte consejos a vos mismo, no expresar duda sobre un plan."
@@ -217,8 +217,8 @@
           "feedback": "Esto negaría ambas opciones por completo."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Si todavía no decidiste qué vas a hacer (como Martina el sábado), usás \"might\". Indica que hay una chance, pero que no es algo seguro. Es el verbo de la indecisión.\r\n\r\n---",
+      "correct_answer": "C",
+      "explanation": "Si todavía no decidiste qué vas a hacer (como Martina el sábado), usás \"might\". Indica que hay una chance, pero que no es algo seguro. Es el verbo de la indecisión.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -238,13 +238,13 @@
       "context": "Alguien que llega tarde a una reunión en el centro de la ciudad.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "mustn't",
           "is_correct": false,
           "feedback": "Esto significaría que está prohibido apurarse, lo cual no tiene sentido."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "don't have to",
           "is_correct": true,
           "feedback": "¡Exacto! Significa que no es necesario apurarse, no hay obligación."
@@ -262,8 +262,8 @@
           "feedback": "Significa que no tenés la capacidad física de apurarte."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "\"Don't have to\" es una frase muy útil. Significa que NO ES NECESARIO hacer algo. Si tenés tiempo de sobra, no tenés por qué correr. No está prohibido, simplemente no hace falta.\r\n\r\n---",
+      "correct_answer": "A",
+      "explanation": "\"Don't have to\" es una frase muy útil. Significa que NO ES NECESARIO hacer algo. Si tenés tiempo de sobra, no tenés por qué correr. No está prohibido, simplemente no hace falta.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -283,13 +283,13 @@
       "context": "Un análisis sobre la diferencia entre \"must\" y \"have to\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "I must buy a present for my mom's birthday.",
           "is_correct": true,
           "feedback": "¡Muy bien! 'Must' suele usarse para obligaciones que uno se impone a sí mismo por sentimiento o deber interno."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "I have to wear a uniform at school.",
           "is_correct": false,
           "feedback": "Esto es una regla impuesta por la institución, no una decisión personal."
@@ -307,8 +307,8 @@
           "feedback": "Solo indica que tenés la capacidad o el dinero para hacerlo."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "A veces la diferencia es sutil. Si vos sentís que TENÉS que hacer algo porque te nace (como comprar un regalo), usás \"must\". Si lo hacés porque alguien más te obliga (la escuela o el trabajo), usás \"have to\". ¡Es una distinción de sentimientos!\r\n\r\n---",
+      "correct_answer": "B",
+      "explanation": "A veces la diferencia es sutil. Si vos sentís que TENÉS que hacer algo porque te nace (como comprar un regalo), usás \"must\". Si lo hacés porque alguien más te obliga (la escuela o el trabajo), usás \"have to\". ¡Es una distinción de sentimientos!\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -328,13 +328,13 @@
       "context": "Haciendo una deducción lógica sobre alguien que lleva una camiseta de la selección.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "can",
           "is_correct": false,
           "feedback": "Indica posibilidad general, pero queremos expresar que estamos casi seguros."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "must",
           "is_correct": true,
           "feedback": "¡Correcto! 'Must' se usa para deducciones lógicas donde estamos casi convencidos de algo."
@@ -352,8 +352,8 @@
           "feedback": "Esto indicaría que hay una chance remota, pero la evidencia de la camiseta es muy fuerte."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Usamos \"must\" para adivinar con mucha seguridad. Si ves a alguien con la camiseta de la selección festejando, deducís que \"debe ser\" un fanático del fútbol. Es una conclusión lógica basada en lo que ves.\r\n\r\n---",
+      "correct_answer": "A",
+      "explanation": "Usamos \"must\" para adivinar con mucha seguridad. Si ves a alguien con la camiseta de la selección festejando, deducís que \"debe ser\" un fanático del fútbol. Es una conclusión lógica basada en lo que ves.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -373,13 +373,13 @@
       "context": "Una deducción negativa sobre alguien que no conoce un lugar muy famoso.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "mustn't",
           "is_correct": false,
           "feedback": "'Mustn't' es para prohibiciones, no se usa para deducciones lógicas negativas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "can't",
           "is_correct": true,
           "feedback": "¡Excelente! 'Can't' es el verbo para decir \"es imposible que sea así\" (deducción negativa)."
@@ -397,8 +397,8 @@
           "feedback": "Indica una duda, pero acá la sorpresa sugiere que estamos casi seguros de que NO es de ahí."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Esta es una trampa común. Si estás seguro de que algo NO es cierto, usás \"can't\". Decís \"She can't be from Buenos Aires\" porque te parece imposible que viviendo acá no sepa qué es el Obelisco. ¡Ojo que no se usa \"mustn't\" para esto!\r\n\r\n---",
+      "correct_answer": "A",
+      "explanation": "Esta es una trampa común. Si estás seguro de que algo NO es cierto, usás \"can't\". Decís \"She can't be from Buenos Aires\" porque te parece imposible que viviendo acá no sepa qué es el Obelisco. ¡Ojo que no se usa \"mustn't\" para esto!\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -424,13 +424,13 @@
           "feedback": "Es la forma más común y aceptable, pero no la más formal."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Could I go to the bathroom?",
           "is_correct": false,
           "feedback": "Es más educada que 'can', pero todavía hay una opción superior en formalidad."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "May I go to the bathroom?",
           "is_correct": true,
           "feedback": "¡Correcto! 'May' es el verbo modal más formal y respetuoso para pedir permiso."
@@ -442,8 +442,8 @@
           "feedback": "Esto significaría preguntarte a vos mismo si tenés la obligación de ir, lo cual es muy raro."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "En inglés, el grado de respeto cambia según el verbo que elijas. Si querés ser súper educado con un profesor o alguien mayor, usá \"May I...?\". El \"Can I...?\" está bien entre amigos, pero el \"May\" te hace quedar como un caballero o una dama.\r\n\r\n---",
+      "correct_answer": "B",
+      "explanation": "En inglés, el grado de respeto cambia según el verbo que elijas. Si querés ser súper educado con un profesor o alguien mayor, usá \"May I...?\". El \"Can I...?\" está bien entre amigos, pero el \"May\" te hace quedar como un caballero o una dama.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -459,36 +459,36 @@
     },
     {
       "id": "AR-ING-9-2026-W04-modal-verbs-001-MASTERY-bundle-v11",
-      "statement": "What is the difference in meaning?\r\n1. You must see a doctor.\r\n2. You should see a doctor.",
+      "statement": "What is the difference in meaning?\n1. You must see a doctor.\n2. You should see a doctor.",
       "context": "Revisión de un consejo de salud.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "1 is an urgent necessity/order; 2 is a friendly recommendation.",
           "is_correct": true,
           "feedback": "¡Exacto! 'Must' transmite mucha más urgencia y autoridad que 'should'."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "1 is about the past; 2 is about the future.",
           "is_correct": false,
           "feedback": "Ambos se refieren al presente o futuro cercano."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "1 is a rule from a book; 2 is a personal feeling.",
           "is_correct": false,
           "feedback": "No necesariamente; 'must' puede ser un sentimiento muy fuerte de urgencia."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Both have exactly the same level of intensity.",
           "is_correct": false,
           "feedback": "No, 'must' es mucho más fuerte e imperativo."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Si ves a alguien muy enfermo, le decís \"You must see a doctor\" porque es urgente. El \"should\" es más suave, como decirle \"te convendría ir\". Usar uno u otro cambia qué tan preocupado parecés.\r\n\r\n---",
+      "correct_answer": "D",
+      "explanation": "Si ves a alguien muy enfermo, le decís \"You must see a doctor\" porque es urgente. El \"should\" es más suave, como decirle \"te convendría ir\". Usar uno u otro cambia qué tan preocupado parecés.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -533,7 +533,7 @@
         }
       ],
       "correct_answer": "B",
-      "explanation": "Esta es una estructura avanzada: Modal + have + Participio. Si te querés quejar de algo que alguien ya hizo (y que no debería haber hecho), decís \"You shouldn't have eaten\". Es el tiempo verbal de los arrepentimientos. ¡No te pases con los alfajores la próxima vez!\r\n\r\n---\r\n\r\n[//]: # (QUALITY_REVIEW)\r\n| Dimension | Score |\r\n|-----------|-------|\r\n| Técnico | 30/30 |\r\n| Curricular | 40/40 |\r\n| Contexto | 20/20 |\r\n| Redacción | 10/10 |\r\n| **Total** | **100/100** |",
+      "explanation": "Esta es una estructura avanzada: Modal + have + Participio. Si te querés quejar de algo que alguien ya hizo (y que no debería haber hecho), decís \"You shouldn't have eaten\". Es el tiempo verbal de los arrepentimientos. ¡No te pases con los alfajores la próxima vez!\n\n---\n\n[//]: # (QUALITY_REVIEW)\n| Dimension | Score |\n|-----------|-------|\n| Técnico | 30/30 |\n| Curricular | 40/40 |\n| Contexto | 20/20 |\n| Redacción | 10/10 |\n| **Total** | **100/100** |",
       "difficulty": "10",
       "images": [],
       "tags": [],

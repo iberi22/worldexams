@@ -13,19 +13,19 @@
       "context": "Camilo tiene 4 camisas distintas y 3 pantalones distintos para vestir en una reunión familiar en Bogotá.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "12",
           "is_correct": true,
           "feedback": "Por el principio multiplicativo, el total de combinaciones es 4 * 3 = 12."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "7",
           "is_correct": false,
           "feedback": "Se sumaron las opciones (4 + 3) en lugar de multiplicarlas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "14",
           "is_correct": false,
           "feedback": "Se realizó un cálculo erróneo sumando y multiplicando."
@@ -37,7 +37,7 @@
           "feedback": "Se elevó 3 al cuadrado."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El principio fundamental del conteo establece que si un evento ocurre de $m$ maneras y otro de $n$ maneras, la combinación de ambos ocurre de $m   imes n$ maneras. En este caso, $4   imes 3 = 12$.",
       "difficulty": "4",
       "images": [],
@@ -59,13 +59,13 @@
       "context": "Un restaurante en Medellín ofrece un menú del día compuesto por 3 entradas, 4 platos fuertes y 2 postres.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "24",
           "is_correct": true,
           "feedback": "Aplicando el principio multiplicativo: 3 * 4 * 2 = 24 opciones distintas de almuerzo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "9",
           "is_correct": false,
           "feedback": "Se sumaron las opciones disponibles de cada categoría (3 + 4 + 2 = 9)."
@@ -83,7 +83,7 @@
           "feedback": "Se multiplicaron solo dos de las categorías disponibles."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Multiplicando la cantidad de opciones de cada plato: $3   imes 4   imes 2 = 24$ almuerzos posibles.",
       "difficulty": "4",
       "images": [],
@@ -105,13 +105,13 @@
       "context": "En una carrera atletica en Cali compiten 5 atletas y no hay empates.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "120",
           "is_correct": true,
           "feedback": "Es una permutación de 5 elementos: 5! = 5 * 4 * 3 * 2 * 1 = 120."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "25",
           "is_correct": false,
           "feedback": "Se calculó 5 al cuadrado (5^2)."
@@ -129,7 +129,7 @@
           "feedback": "Se multiplicó 5 por 3."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El número de ordenamientos posibles de $n$ elementos distintos es dado por el factorial $n!$. Para $n=5$, $5! = 120$.",
       "difficulty": "4",
       "images": [],
@@ -151,13 +151,13 @@
       "context": "Un código de seguridad en una tienda de Barranquilla está formado por 2 letras distintas seleccionadas del conjunto {A, B, C, D}.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "12",
           "is_correct": true,
           "feedback": "Es una variación de 4 elementos tomados de a 2: V(4,2) = 4 * 3 = 12."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "6",
           "is_correct": false,
           "feedback": "Corresponde a la combinación C(4,2) donde el orden no importa."
@@ -175,7 +175,7 @@
           "feedback": "Se multiplicó 4 por 2."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Dado que el orden de las letras importa y no hay repetición, es una permutación de 4 elementos tomados de a 2: $P(4,2) = \\frac{4!}{(4-2)!} = 4   imes 3 = 12$.",
       "difficulty": "4",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "Un comité estudiantil de 8 personas en Bucaramanga debe seleccionar una delegación de 3 integrantes sin cargos específicos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "56",
           "is_correct": true,
           "feedback": "Es una combinación C(8,3) = 8! / (3! * 5!) = (8 * 7 * 6) / 6 = 56."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "336",
           "is_correct": false,
           "feedback": "Se calculó la permutación P(8,3) = 8 * 7 * 6, pero el orden no importa en una delegación."
@@ -221,7 +221,7 @@
           "feedback": "Se multiplicó 56 por 2 por un error de simplificación."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Al no importar el orden de los integrantes, se usa la fórmula de combinaciones: $C(n,k) = \\frac{n!}{k!(n-k)!}$. Para $C(8,3) = \\frac{8   imes 7   imes 6}{3   imes 2   imes 1} = 56$.",
       "difficulty": "6",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "De un grupo de 6 hombres y 5 mujeres en una empresa de Cartagena, se va a formar un equipo de trabajo de 4 personas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "150",
           "is_correct": true,
           "feedback": "C(6,2) = 15 maneras para los hombres; C(5,2) = 10 maneras para las mujeres. Total = 15 * 10 = 150."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "25",
           "is_correct": false,
           "feedback": "Se sumaron las combinaciones C(6,2) + C(5,2) = 15 + 10 = 25."
@@ -267,7 +267,7 @@
           "feedback": "Se multiplicaron 6 * 5 * 2."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Seleccionar 2 hombres de 6 se hace de $C(6,2) = 15$ formas. Seleccionar 2 mujeres de 5 se hace de $C(5,2) = 10$ formas. Por principio multiplicativo: $15   imes 10 = 150$.",
       "difficulty": "6",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "Se quieren acomodar 6 libros distintos en un estante de una biblioteca en Pereira.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "240",
           "is_correct": true,
           "feedback": "Consideramos los 2 libros como 1 solo bloque: 5! = 120 formas. Los 2 libros se pueden ordenar entre sí de 2! = 2 maneras. Total = 120 * 2 = 240."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "120",
           "is_correct": false,
           "feedback": "Se olvidó multiplicar por las 2! formas de permutar los 2 libros entre sí dentro del bloque."
@@ -313,7 +313,7 @@
           "feedback": "Se multiplicó 5! por 4 por error."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Tratamos a los 2 libros juntos como un único elemento. Así agrupamos 5 elementos: $5! = 120$ formas. Como los 2 libros internos se permutan de $2! = 2$ formas, el total es $120   imes 2 = 240$.",
       "difficulty": "6",
       "images": [],
@@ -381,13 +381,13 @@
       "context": "Una placa vehicular en Colombia consta de 3 letras seguidas de 3 dígitos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$26^3   imes 10^3$",
           "is_correct": true,
           "feedback": "Hay 26 opciones para cada una de las 3 letras y 10 opciones para cada uno de los 3 dígitos: 26^3 * 10^3 = 17,576,000."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$26   imes 3 + 10   imes 3$",
           "is_correct": false,
           "feedback": "Se aplicó principio aditivo en lugar de multiplicativo."
@@ -405,7 +405,7 @@
           "feedback": "Se combinaron letras y dígitos en un solo conjunto de 36 elementos sin mantener el formato estructurado."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Cada posición es independiente y permite repetición. Para 3 letras hay $26^3$ posibilidades y para 3 dígitos hay $10^3$. En total $26^3   imes 10^3 = 17,576,000$.",
       "difficulty": "6",
       "images": [],
@@ -611,19 +611,19 @@
       "context": "Un examen consta de 10 preguntas. Un estudiante debe responder exactamente 7 preguntas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "35",
           "is_correct": true,
           "feedback": "Como las 3 primeras son obligatorias, le falta elegir 4 preguntas entre las 7 restantes: C(7,4) = C(7,3) = (7 * 6 * 5) / 6 = 35."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "120",
           "is_correct": false,
           "feedback": "Se calculó C(10,7) ignorando que las 3 primeras preguntas son obligatorias."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "21",
           "is_correct": false,
           "feedback": "Se calculó C(7,2) en lugar de C(7,4)."
@@ -635,7 +635,7 @@
           "feedback": "Se multiplicó 35 por 2."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Al ser obligatorias las 3 primeras, el estudiante solo selecciona $7 - 3 = 4$ preguntas adicionales de las $10 - 3 = 7$ disponibles. $C(7,4) = \\frac{7   imes 6   imes 5}{3   imes 2   imes 1} = 35$.",
       "difficulty": "8",
       "images": [],
@@ -657,19 +657,19 @@
       "context": "En un plano hay 8 puntos marcados, de los cuales ningún trío está alineado.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "56",
           "is_correct": true,
           "feedback": "Para formar un triángulo se eligen 3 puntos sin importar el orden: C(8,3) = (8 * 7 * 6) / 6 = 56."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "336",
           "is_correct": false,
           "feedback": "Se calculó P(8,3) = 8 * 7 * 6 considerando el orden de los vértices."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "28",
           "is_correct": false,
           "feedback": "Corresponde a la cantidad de segmentos (líneas) formados por 2 puntos: C(8,2) = 28."
@@ -681,7 +681,7 @@
           "feedback": "Se multiplicó 8 por 3."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Un triángulo queda determinado por 3 puntos no colineales independientemente del orden de los vértices. Número de triángulos $= C(8,3) = \\frac{8   imes 7   imes 6}{6} = 56$.",
       "difficulty": "8",
       "images": [],
@@ -703,19 +703,19 @@
       "context": "Se quiere repartir 4 premios distintos entre 3 estudiantes en un evento escolar en Ibagué.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "81",
           "is_correct": true,
           "feedback": "Cada uno de los 4 premios tiene 3 opciones de estudiante a quien asignarlo: 3^4 = 81."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "64",
           "is_correct": false,
           "feedback": "Se calculó 4^3 asignando estudiantes a premios por error."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "12",
           "is_correct": false,
           "feedback": "Se multiplicó 4 por 3."
@@ -727,7 +727,7 @@
           "feedback": "Se calculó 4! asumiendo permutación de 4 premios entre 4 personas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Dado que los premios son distintos, para el primer premio hay 3 opciones, para el segundo 3, para el tercero 3 y para el cuarto 3. Total $= 3   imes 3   imes 3   imes 3 = 3^4 = 81$.",
       "difficulty": "8",
       "images": [],
@@ -841,13 +841,13 @@
       "context": "Un grupo de 4 parejas de esposos (8 personas) asiste a una función de teatro.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "384",
           "is_correct": true,
           "feedback": "Ordenar las 4 parejas como bloques: 4! = 24. Cada una de las 4 parejas puede ordenarse internamente de 2! formas: 2^4 = 16. Total = 24 * 16 = 384."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "576",
           "is_correct": false,
           "feedback": "Se multiplicó 24 por 24 por un error de exponenciación."
@@ -865,7 +865,7 @@
           "feedback": "Se multiplicó 24 * 4 en lugar de 24 * 16."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Consideramos cada pareja como un bloque. Hay $4! = 24$ formas de ordenar las parejas. Dentro de cada bloque, los 2 esposos se acomodan de $2! = 2$ formas. Por lo tanto, el total es $4!   imes 2^4 = 24   imes 16 = 384$.",
       "difficulty": "10",
       "images": [],
@@ -887,19 +887,19 @@
       "context": "Se dispone de 6 monedas idénticas de 500 pesos para repartir entre 3 niños en Popayán.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "28",
           "is_correct": true,
           "feedback": "Es una combinación con repetición CR(n,k) = C(n+k-1, k) = C(3+6-1, 6) = C(8,6) = C(8,2) = 28."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "18",
           "is_correct": false,
           "feedback": "Se multiplicó 6 por 3."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "216",
           "is_correct": false,
           "feedback": "Se calculó 6^3 como si las monedas fueran distinguibles."
@@ -911,7 +911,7 @@
           "feedback": "Se calculó C(8,3)."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Al ser objetos idénticos (monedas) repartidos entre contenedores distinguibles (niños), se usa combinaciones con repetición (barras y estrellas): $C(n+k-1, k) = C(3+6-1, 6) = C(8,6) = \\frac{8   imes 7}{2} = 28$.",
       "difficulty": "10",
       "images": [],

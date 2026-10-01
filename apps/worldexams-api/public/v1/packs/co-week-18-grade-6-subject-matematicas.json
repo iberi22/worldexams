@@ -13,31 +13,31 @@
       "context": "En un supermercado de Bogotá un aviso dice \"25 % de descuento en frutas\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Que se rebajan 25 pesos de cada 100 del precio",
           "is_correct": true,
           "feedback": "Explica por qué es correcta: el porcentaje indica partes de cada cien, así que 25 % equivale a 25 de cada 100."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Que se rebajan 25 pesos sin importar el precio",
           "is_correct": false,
           "feedback": "Explica el error conceptual: el descuento porcentual depende del precio total, no es una cantidad fija."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Que el producto queda gratis después de 25 compras",
           "is_correct": false,
           "feedback": "Explica el error conceptual: confunde el 25 % con un plan de puntos o compras acumuladas."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Que se paga el 25 % del precio dos veces",
           "is_correct": false,
           "feedback": "Explica el error conceptual: el cliente paga una sola vez el precio ya rebajado, no dos pagos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El símbolo % significa \"de cada cien\". Un 25 % de descuento rebaja 25 pesos por cada 100 del precio, de modo que se paga el 75 % del valor original.",
       "difficulty": "4",
       "images": [],
@@ -151,19 +151,19 @@
       "context": "En Barranquilla un computador de 95.000 COP (precio sin IVA) causa el IVA general del 19 %.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "113.050 COP",
           "is_correct": true,
           "feedback": "Explica por qué es correcta: el IVA es 95.000 × 0.19 = 18.050 y el total es 95.000 + 18.050 = 113.050."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "114.000 COP",
           "is_correct": false,
           "feedback": "Explica el error conceptual: calcula el 20 % (19.000) en vez del 19 % exacto del impuesto."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "96.900 COP",
           "is_correct": false,
           "feedback": "Explica el error conceptual: aplica solo el 2 % del precio en lugar del 19 % del IVA."
@@ -175,7 +175,7 @@
           "feedback": "Explica el error conceptual: resta el impuesto en vez de sumarlo al precio base."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El IVA se suma al precio base: impuesto = 95.000 × 19/100 = 18.050; total = 113.050. Los impuestos aumentan el valor a pagar, nunca lo reducen.",
       "difficulty": "6",
       "images": [],
@@ -197,31 +197,31 @@
       "context": "En Bucaramanga una factura de restaurante es de 250.000 COP y se deja el 10 % de propina.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "25.000 COP",
           "is_correct": true,
           "feedback": "Explica por qué es correcta: el 10 % es la décima parte y 250.000 ÷ 10 = 25.000."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "10.000 COP",
           "is_correct": false,
           "feedback": "Explica el error conceptual: toma el número 10 del porcentaje como miles de pesos fijos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "2.500 COP",
           "is_correct": false,
           "feedback": "Explica el error conceptual: calcula el 1 % en vez del 10 % de la cuenta."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "100.000 COP",
           "is_correct": false,
           "feedback": "Explica el error conceptual: calcula el 40 % de la cuenta en lugar del 10 %."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El 10 % equivale a dividir entre 10 (10/100 = 1/10). La décima parte de 250.000 es 25.000, un cálculo útil para propinas y recargos rápidos.",
       "difficulty": "6",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "En Cartagena dos tiendas venden la misma bicicleta: tienda A a 200.000 COP con 30 % de descuento y tienda B a 180.000 COP con 25 % de descuento.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La tienda B, porque se paga 135.000 frente a 140.000 de la tienda A",
           "is_correct": true,
           "feedback": "Explica por qué es correcta: A: 200.000 × 0.70 = 140.000; B: 180.000 × 0.75 = 135.000; el menor precio final es B."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La tienda A, porque 30 % es mayor que 25 %",
           "is_correct": false,
           "feedback": "Explica el error conceptual: compara solo los porcentajes sin considerar que los precios base son distintos."
@@ -267,7 +267,7 @@
           "feedback": "Explica el error conceptual: la diferencia de 5 puntos no garantiza precios finales iguales con bases distintas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Para comparar ofertas se calcula el precio final de cada una, no solo el porcentaje. El porcentaje mayor no siempre gana si parte de un precio base más alto.",
       "difficulty": "8",
       "images": [],
@@ -289,19 +289,19 @@
       "context": "En Tunja una factura muestra un total de 119.000 COP ya con el IVA del 19 % incluido.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "100.000 COP",
           "is_correct": true,
           "feedback": "Explica por qué es correcta: 100.000 × 1.19 = 119.000, así que al dividir 119.000 ÷ 1.19 se recupera la base."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "100.190 COP",
           "is_correct": false,
           "feedback": "Explica el error conceptual: resta 19.000 fijos en vez de deshacer la multiplicación por 1.19."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "96.390 COP",
           "is_correct": false,
           "feedback": "Explica el error conceptual: aplica un descuento del 19 % sobre el total, lo cual no invierte el IVA."
@@ -313,7 +313,7 @@
           "feedback": "Explica el error conceptual: suma cantidades en vez de dividir para hallar el precio base."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Si total = base × 1.19, entonces base = total ÷ 1.19. Restar el 19 % del total es incorrecto porque el impuesto se calculó sobre la base, no sobre el total.",
       "difficulty": "8",
       "images": [],
@@ -335,13 +335,13 @@
       "context": "En Pereira una camisa de 80.000 COP tiene 10 % de descuento y sobre el precio rebajado se cobra el IVA del 19 %.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "85.680 COP",
           "is_correct": true,
           "feedback": "Explica por qué es correcta: rebaja: 80.000 × 0.9 = 72.000; con IVA: 72.000 × 1.19 = 85.680."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "72.000 COP",
           "is_correct": false,
           "feedback": "Explica el error conceptual: aplica el descuento pero olvida sumar el IVA sobre el precio rebajado."
@@ -359,7 +359,7 @@
           "feedback": "Explica el error conceptual: suma los porcentajes (-10 + 19 = +9) como si fueran aditivos sobre la misma base."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Los porcentajes sucesivos se multiplican en cadena (× 0.9 y luego × 1.19), no se suman. Cada porcentaje actúa sobre el resultado anterior, por eso el orden de las operaciones importa en el procedimiento, aunque el resultado final coincida.",
       "difficulty": "8",
       "images": [],
@@ -381,19 +381,19 @@
       "context": "En un almacén de Cali un aviso dice \"50 % de descuento más 50 % adicional sobre el precio ya rebajado\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "No, queda en el 25 % del precio original porque 0.5 × 0.5 = 0.25",
           "is_correct": true,
           "feedback": "Explica por qué es correcta: el segundo 50 % actúa sobre la mitad restante, dejando la cuarta parte del precio."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Sí, porque 50 % + 50 % = 100 % de descuento",
           "is_correct": false,
           "feedback": "Explica el error conceptual: los porcentajes sucesivos no se suman; el segundo se calcula sobre el precio ya rebajado."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "No, queda en el 50 % porque el segundo descuento no aplica",
           "is_correct": false,
           "feedback": "Explica el error conceptual: el segundo descuento sí aplica, pero sobre el valor intermedio, no sobre el original."
@@ -405,7 +405,7 @@
           "feedback": "Explica el error conceptual: el resultado porcentual no depende del valor del precio original."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Descuentos encadenados se multiplican: pagar el 50 % y luego el 50 % de eso es pagar 0.25 del original (75 % de descuento total). Sumar porcentajes sucesivos es uno de los errores más comunes en consumo.",
       "difficulty": "10",
       "images": [],
@@ -427,31 +427,31 @@
       "context": "En Manizales una nevera se ofrece en tienda A a 200.000 COP con 15 % de descuento y en tienda B a 175.000 COP con un bono de 10.000 COP para la próxima compra.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Tienda B, con costo neto de 165.000 frente a 170.000 de la tienda A",
           "is_correct": true,
           "feedback": "Explica por qué es correcta: A: 200.000 × 0.85 = 170.000; B: 175.000 - 10.000 = 165.000; el menor costo neto es B."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Tienda A, porque el 15 % siempre supera un bono fijo",
           "is_correct": false,
           "feedback": "Explica el error conceptual: ningún porcentaje \"siempre\" supera un valor fijo; hay que calcular ambos casos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Tienda A, porque 200.000 con descuento parece mayor ahorro",
           "is_correct": false,
           "feedback": "Explica el error conceptual: el ahorro aparente (30.000) no compensa que el precio final sigue más alto."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Tienda B, con costo neto de 175.000 sin contar el bono",
           "is_correct": false,
           "feedback": "Explica el error conceptual: el bono de 10.000 sí reduce el costo neto y debe incluirse en la comparación."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Decidir exige homogenizar las ofertas a costo neto: descuentos porcentuales y bonos fijos se convierten a pesos finales. La mejor opción es el menor valor neto, 165.000 de la tienda B.",
       "difficulty": "10",
       "images": [],

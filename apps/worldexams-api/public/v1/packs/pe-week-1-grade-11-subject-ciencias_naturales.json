@@ -13,19 +13,19 @@
       "context": "Un laboratorio escolar en un colegio de Lima realiza una experiencia práctica sobre Biología Celular: La Célula Procariota y Eucariota, Organelos y Membrana Plasmática para la preparación preuniversitaria.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Núcleo celular",
           "is_correct": true,
           "feedback": "Correcto. El núcleo celular alberga la cromatina/ADN y está delimitado por la carioteca o envoltura nuclear."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Ribosoma 70S",
           "is_correct": false,
           "feedback": "Incorrecto. Los ribosomas 70S son característicos de bacterias (procariotas) y mitocondrias/cloroplastos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Nucleoide",
           "is_correct": false,
           "feedback": "Incorrecto. El nucleoide es la región donde se ubica el ADN circular desnudo en procariotas."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. La pared de peptidoglucano (mureína) es exclusiva de las bacterias."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El núcleo delimitado por membrana nuclear (carioteca) es el rasgo distintivo fundamental de las células eucariotas.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -58,19 +58,19 @@
       "context": "Un laboratorio escolar en un colegio de Cusco realiza una experiencia práctica sobre Biología Celular: La Célula Procariota y Eucariota, Organelos y Membrana Plasmática para la preparación preuniversitaria.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Ósmosis",
           "is_correct": true,
           "feedback": "Correcto. La ósmosis es el paso de solvente (agua) a través de una membrana semipermeable desde un medio hipotónico hacia uno hipertónico."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Transporte activo primario",
           "is_correct": false,
           "feedback": "Incorrecto. El transporte activo requiere consumo de energía (ATP) para mover sustancias contra el gradiente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Fagocitosis",
           "is_correct": false,
           "feedback": "Incorrecto. La fagocitosis es un tipo de endocitosis mediante el cual la célula engloba partículas sólidas grandes."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. La bomba Na+/K+ es un mecanismo de transporte activo que consume ATP."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La ósmosis es un proceso físico pasivo de difusión de moléculas de agua vital para la homeostasis celular.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -103,13 +103,13 @@
       "context": "Un laboratorio escolar en un colegio de Arequipa realiza una experiencia práctica sobre Biología Celular: La Célula Procariota y Eucariota, Organelos y Membrana Plasmática para la preparación preuniversitaria.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Mitocondrias",
           "is_correct": true,
           "feedback": "Correcto. Las mitocondrias realizan el ciclo de Krebs y la cadena respiratoria con fosforilación oxidativa."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Lisosomas",
           "is_correct": false,
           "feedback": "Incorrecto. Los lisosomas participan en la digestión intracelular conteniendo enzimas hidrolíticas."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. Los peroxisomas se encargan de la degradación del peróxido de hidrógeno mediante la catalasa."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Las mitocondrias son consideradas las centrales energéticas de las células eucariotas.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,19 +148,19 @@
       "context": "Un laboratorio escolar en un colegio de Trujillo realiza una experiencia práctica sobre Biología Celular: La Célula Procariota y Eucariota, Organelos y Membrana Plasmática para la preparación preuniversitaria.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Celulosa",
           "is_correct": true,
           "feedback": "Correcto. La celulosa es un polímero de glucosas unidas por enlaces beta-1,4 que otorga rigidez a la célula vegetal."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Quitina",
           "is_correct": false,
           "feedback": "Incorrecto. La quitina forma la pared celular de los hongos y el exoesqueleto de artrópodos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Peptidoglucano",
           "is_correct": false,
           "feedback": "Incorrecto. El peptidoglucano constituye la pared celular bacteriana."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. El glucógeno es un polisacárido de reserva energética en animales."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La celulosa proporciona resistencia mecánica y protección frente a la presión osmótica a las células vegetales.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -193,31 +193,31 @@
       "context": "Un laboratorio escolar en un colegio de Chiclayo realiza una experiencia práctica sobre Biología Celular: La Célula Procariota y Eucariota, Organelos y Membrana Plasmática para la preparación preuniversitaria.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Reticulo Endoplasmático Liso (REL)",
           "is_correct": true,
           "feedback": "Correcto. El REL sintetiza lípidos y metaboliza fármacos y toxinas en el hepatocito."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Reticulo Endoplasmático Rugoso (RER)",
           "is_correct": false,
           "feedback": "Incorrecto. El RER sintetiza proteínas de exportación debido a sus ribosomas adheridos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Aparato de Golgi",
           "is_correct": false,
           "feedback": "Incorrecto. El aparato de Golgi empaqueta y distribuye proteínas y lípidos sintetizados."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Cloroplasto",
           "is_correct": false,
           "feedback": "Incorrecto. El cloroplasto realiza la fotosíntesis sintetizando glucosa a partir de luz y CO2."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El Retículo Endoplasmático Liso carece de ribosomas y se especializa en el metabolismo lipídico y detoxificación.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -238,19 +238,19 @@
       "context": "Un laboratorio escolar en un colegio de Iquitos realiza una experiencia práctica sobre Biología Celular: La Célula Procariota y Eucariota, Organelos y Membrana Plasmática para la preparación preuniversitaria.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Metafase",
           "is_correct": true,
           "feedback": "Correcto. En la metafase los cromosomas alcanzan su máxima condensación y se ubican en la placa ecuatorial."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Profase",
           "is_correct": false,
           "feedback": "Incorrecto. En la profase la cromatina se condensa y se desorganiza la envoltura nuclear."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Anafase",
           "is_correct": false,
           "feedback": "Incorrecto. En la anafase las cromátidas hermanas se separan hacia los polos opuestos."
@@ -262,7 +262,7 @@
           "feedback": "Incorrecto. En la telofase se reorganiza la carioteca alrededor de los cromosomas hijos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La metafase es la etapa ideal para la observación microscópica de los cromosomas y elaboración de cariotipos.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -283,19 +283,19 @@
       "context": "Un laboratorio escolar en un colegio de Piura realiza una experiencia práctica sobre Biología Celular: La Célula Procariota y Eucariota, Organelos y Membrana Plasmática para la preparación preuniversitaria.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Tilacoides",
           "is_correct": true,
           "feedback": "Correcto. En las membranas de los tilacoides ocurren las reacciones de la fase luminosa de la fotosíntesis."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Estromas",
           "is_correct": false,
           "feedback": "Incorrecto. El estroma es la matriz fluida donde ocurre el ciclo de Calvin o fase oscura."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Crestas",
           "is_correct": false,
           "feedback": "Incorrecto. Las crestas son pliegues de la membrana interna de las mitocondrias."
@@ -307,7 +307,7 @@
           "feedback": "Incorrecto. La matriz es el fluido interno de la mitocondria."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Los tilacoides albergan los fotosistemas I y II para la captación fotónica y síntesis de ATP y NADPH.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -373,31 +373,31 @@
       "context": "Un laboratorio escolar en un colegio de Puno realiza una experiencia práctica sobre Biología Celular: La Célula Procariota y Eucariota, Organelos y Membrana Plasmática para la preparación preuniversitaria.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Bicapa de fosfolípidos",
           "is_correct": true,
           "feedback": "Correcto. La bicapa fosfolipídica posee cabezas hidrofílicas y colas hidrofóbicas formando la barrera selectiva."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Red rígida de celulosa",
           "is_correct": false,
           "feedback": "Incorrecto. La celulosa se ubica fuera de la membrana celular en la pared vegetal."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Capa continua de glucógeno",
           "is_correct": false,
           "feedback": "Incorrecto. El glucógeno es un polisacárido citoplasmático no estructural en membranas."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Malla de queratina extracelular",
           "is_correct": false,
           "feedback": "Incorrecto. La queratina es una proteína del citoesqueleto y tejido epitelial externo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La bicapa de fosfolípidos confiere fluidez y semipermeabilidad a la membrana celular de todos los organismos.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -418,19 +418,19 @@
       "context": "Un laboratorio escolar en un colegio de Ayacucho realiza una experiencia práctica sobre Biología Celular: La Célula Procariota y Eucariota, Organelos y Membrana Plasmática para la preparación preuniversitaria.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "La traducción o síntesis de proteínas",
           "is_correct": true,
           "feedback": "Correcto. Los ribosomas leen el ARNm y ensamblan aminoácidos según el código genético."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La replicación semiconservativa del ADN",
           "is_correct": false,
           "feedback": "Incorrecto. La replicación del ADN la efectúa el complejo ADN polimerasa."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La degradación de ácidos grasos en acetil-CoA",
           "is_correct": false,
           "feedback": "Incorrecto. La beta-oxidación de ácidos grasos ocurre en la matriz mitocondrial y peroxisomas."
@@ -442,7 +442,7 @@
           "feedback": "Incorrecto. El almacenamiento de reservas ocurre en leucoplastos y amiloplastos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Los ribosomas convierten la secuencia de nucleótidos del ARNm en cadenas polipeptídicas de proteínas.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -463,13 +463,13 @@
       "context": "Un laboratorio escolar en un colegio de Lima realiza una experiencia práctica sobre Biología Celular: La Célula Procariota y Eucariota, Organelos y Membrana Plasmática para la preparación preuniversitaria.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Núcleo celular",
           "is_correct": true,
           "feedback": "Correcto. El núcleo celular alberga la cromatina/ADN y está delimitado por la carioteca o envoltura nuclear."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Ribosoma 70S",
           "is_correct": false,
           "feedback": "Incorrecto. Los ribosomas 70S son característicos de bacterias (procariotas) y mitocondrias/cloroplastos."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto. La pared de peptidoglucano (mureína) es exclusiva de las bacterias."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El núcleo delimitado por membrana nuclear (carioteca) es el rasgo distintivo fundamental de las células eucariotas.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -508,19 +508,19 @@
       "context": "Un laboratorio escolar en un colegio de Cusco realiza una experiencia práctica sobre Biología Celular: La Célula Procariota y Eucariota, Organelos y Membrana Plasmática para la preparación preuniversitaria.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Ósmosis",
           "is_correct": true,
           "feedback": "Correcto. La ósmosis es el paso de solvente (agua) a través de una membrana semipermeable desde un medio hipotónico hacia uno hipertónico."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Transporte activo primario",
           "is_correct": false,
           "feedback": "Incorrecto. El transporte activo requiere consumo de energía (ATP) para mover sustancias contra el gradiente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Fagocitosis",
           "is_correct": false,
           "feedback": "Incorrecto. La fagocitosis es un tipo de endocitosis mediante el cual la célula engloba partículas sólidas grandes."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. La bomba Na+/K+ es un mecanismo de transporte activo que consume ATP."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La ósmosis es un proceso físico pasivo de difusión de moléculas de agua vital para la homeostasis celular.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -553,31 +553,31 @@
       "context": "Un laboratorio escolar en un colegio de Arequipa realiza una experiencia práctica sobre Biología Celular: La Célula Procariota y Eucariota, Organelos y Membrana Plasmática para la preparación preuniversitaria.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Mitocondrias",
           "is_correct": true,
           "feedback": "Correcto. Las mitocondrias realizan el ciclo de Krebs y la cadena respiratoria con fosforilación oxidativa."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Lisosomas",
           "is_correct": false,
           "feedback": "Incorrecto. Los lisosomas participan en la digestión intracelular conteniendo enzimas hidrolíticas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Vacuolas",
           "is_correct": false,
           "feedback": "Incorrecto. Las vacuolas almacenan agua y sustancias de reserva principalmente en células vegetales."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Peroxisomas",
           "is_correct": false,
           "feedback": "Incorrecto. Los peroxisomas se encargan de la degradación del peróxido de hidrógeno mediante la catalasa."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Las mitocondrias son consideradas las centrales energéticas de las células eucariotas.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -598,19 +598,19 @@
       "context": "Un laboratorio escolar en un colegio de Trujillo realiza una experiencia práctica sobre Biología Celular: La Célula Procariota y Eucariota, Organelos y Membrana Plasmática para la preparación preuniversitaria.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Celulosa",
           "is_correct": true,
           "feedback": "Correcto. La celulosa es un polímero de glucosas unidas por enlaces beta-1,4 que otorga rigidez a la célula vegetal."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Quitina",
           "is_correct": false,
           "feedback": "Incorrecto. La quitina forma la pared celular de los hongos y el exoesqueleto de artrópodos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Peptidoglucano",
           "is_correct": false,
           "feedback": "Incorrecto. El peptidoglucano constituye la pared celular bacteriana."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. El glucógeno es un polisacárido de reserva energética en animales."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La celulosa proporciona resistencia mecánica y protección frente a la presión osmótica a las células vegetales.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -643,19 +643,19 @@
       "context": "Un laboratorio escolar en un colegio de Chiclayo realiza una experiencia práctica sobre Biología Celular: La Célula Procariota y Eucariota, Organelos y Membrana Plasmática para la preparación preuniversitaria.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Reticulo Endoplasmático Liso (REL)",
           "is_correct": true,
           "feedback": "Correcto. El REL sintetiza lípidos y metaboliza fármacos y toxinas en el hepatocito."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Reticulo Endoplasmático Rugoso (RER)",
           "is_correct": false,
           "feedback": "Incorrecto. El RER sintetiza proteínas de exportación debido a sus ribosomas adheridos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Aparato de Golgi",
           "is_correct": false,
           "feedback": "Incorrecto. El aparato de Golgi empaqueta y distribuye proteínas y lípidos sintetizados."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. El cloroplasto realiza la fotosíntesis sintetizando glucosa a partir de luz y CO2."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El Retículo Endoplasmático Liso carece de ribosomas y se especializa en el metabolismo lipídico y detoxificación.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -688,13 +688,13 @@
       "context": "Un laboratorio escolar en un colegio de Iquitos realiza una experiencia práctica sobre Biología Celular: La Célula Procariota y Eucariota, Organelos y Membrana Plasmática para la preparación preuniversitaria.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Metafase",
           "is_correct": true,
           "feedback": "Correcto. En la metafase los cromosomas alcanzan su máxima condensación y se ubican en la placa ecuatorial."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Profase",
           "is_correct": false,
           "feedback": "Incorrecto. En la profase la cromatina se condensa y se desorganiza la envoltura nuclear."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. En la telofase se reorganiza la carioteca alrededor de los cromosomas hijos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La metafase es la etapa ideal para la observación microscópica de los cromosomas y elaboración de cariotipos.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -733,31 +733,31 @@
       "context": "Un laboratorio escolar en un colegio de Piura realiza una experiencia práctica sobre Biología Celular: La Célula Procariota y Eucariota, Organelos y Membrana Plasmática para la preparación preuniversitaria.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Tilacoides",
           "is_correct": true,
           "feedback": "Correcto. En las membranas de los tilacoides ocurren las reacciones de la fase luminosa de la fotosíntesis."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Estromas",
           "is_correct": false,
           "feedback": "Incorrecto. El estroma es la matriz fluida donde ocurre el ciclo de Calvin o fase oscura."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Crestas",
           "is_correct": false,
           "feedback": "Incorrecto. Las crestas son pliegues de la membrana interna de las mitocondrias."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Matriz",
           "is_correct": false,
           "feedback": "Incorrecto. La matriz es el fluido interno de la mitocondria."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Los tilacoides albergan los fotosistemas I y II para la captación fotónica y síntesis de ATP y NADPH.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -778,19 +778,19 @@
       "context": "Un laboratorio escolar en un colegio de Huancayo realiza una experiencia práctica sobre Biología Celular: La Célula Procariota y Eucariota, Organelos y Membrana Plasmática para la preparación preuniversitaria.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Exocitosis",
           "is_correct": true,
           "feedback": "Correcto. La exocitosis fusiona vesículas secretoras con la membrana plasmática liberando su contenido."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Endocitosis",
           "is_correct": false,
           "feedback": "Incorrecto. La endocitosis engloba partículas externas hacia el interior celular."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Pinocitosis",
           "is_correct": false,
           "feedback": "Incorrecto. La pinocitosis es la ingestión de fluidos extracelulares en pequeñas vesículas."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. La difusión simple es el paso directo de moléculas apolares a través de la bicapa."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La exocitosis es clave para la secreción de hormonas, neurotransmisores y enzimas digestivas.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -823,19 +823,19 @@
       "context": "Un laboratorio escolar en un colegio de Puno realiza una experiencia práctica sobre Biología Celular: La Célula Procariota y Eucariota, Organelos y Membrana Plasmática para la preparación preuniversitaria.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Bicapa de fosfolípidos",
           "is_correct": true,
           "feedback": "Correcto. La bicapa fosfolipídica posee cabezas hidrofílicas y colas hidrofóbicas formando la barrera selectiva."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Red rígida de celulosa",
           "is_correct": false,
           "feedback": "Incorrecto. La celulosa se ubica fuera de la membrana celular en la pared vegetal."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Capa continua de glucógeno",
           "is_correct": false,
           "feedback": "Incorrecto. El glucógeno es un polisacárido citoplasmático no estructural en membranas."
@@ -847,7 +847,7 @@
           "feedback": "Incorrecto. La queratina es una proteína del citoesqueleto y tejido epitelial externo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La bicapa de fosfolípidos confiere fluidez y semipermeabilidad a la membrana celular de todos los organismos.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -868,31 +868,31 @@
       "context": "Un laboratorio escolar en un colegio de Ayacucho realiza una experiencia práctica sobre Biología Celular: La Célula Procariota y Eucariota, Organelos y Membrana Plasmática para la preparación preuniversitaria.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "La traducción o síntesis de proteínas",
           "is_correct": true,
           "feedback": "Correcto. Los ribosomas leen el ARNm y ensamblan aminoácidos según el código genético."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La replicación semiconservativa del ADN",
           "is_correct": false,
           "feedback": "Incorrecto. La replicación del ADN la efectúa el complejo ADN polimerasa."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La degradación de ácidos grasos en acetil-CoA",
           "is_correct": false,
           "feedback": "Incorrecto. La beta-oxidación de ácidos grasos ocurre en la matriz mitocondrial y peroxisomas."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El almacenamiento de almidón y aceites",
           "is_correct": false,
           "feedback": "Incorrecto. El almacenamiento de reservas ocurre en leucoplastos y amiloplastos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Los ribosomas convierten la secuencia de nucleótidos del ARNm en cadenas polipeptídicas de proteínas.\n\n---",
       "difficulty": "10",
       "images": [],

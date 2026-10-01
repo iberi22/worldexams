@@ -13,19 +13,19 @@
       "context": "En un colegio de Bogotá el descanso empieza a las 9:30 a. m. y termina a las 10:00 a. m.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Minutos",
           "is_correct": true,
           "feedback": "Es correcta porque el descanso dura media hora, y los minutos expresan esa duración con precisión."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Años",
           "is_correct": false,
           "feedback": "Error conceptual: los años miden periodos muy largos, no un descanso escolar."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Siglos",
           "is_correct": false,
           "feedback": "Error conceptual: un siglo equivale a 100 años, una escala totalmente inadecuada."
@@ -37,7 +37,7 @@
           "feedback": "Error conceptual: los meses sirven para periodos largos, no para media hora."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La unidad se elige según lo que se mide. Para intervalos cortos del día convienen los minutos u horas; los años, meses y siglos se reservan para periodos muy largos.",
       "difficulty": "4",
       "images": [],
@@ -59,19 +59,19 @@
       "context": "En Neiva una familia planea un viaje por carretera que dura 3 horas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "180 minutos",
           "is_correct": true,
           "feedback": "Es correcta porque cada hora tiene 60 minutos y 3 × 60 = 180."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "60 minutos",
           "is_correct": false,
           "feedback": "Error conceptual: corresponde a solo una hora, no a las tres del viaje."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "30 minutos",
           "is_correct": false,
           "feedback": "Error conceptual: media hora no equivale a tres horas."
@@ -83,7 +83,7 @@
           "feedback": "Error conceptual: multiplica 3 por 100 en vez de por 60, que son los minutos de una hora."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Las unidades de tiempo forman un sistema sexagesimal: 1 hora = 60 minutos y 1 minuto = 60 segundos. Para pasar de horas a minutos se multiplica por 60.",
       "difficulty": "4",
       "images": [],
@@ -105,31 +105,31 @@
       "context": "En Medellín una clase inicia a las 7:15 a. m. y termina a las 8:00 a. m.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "45 minutos",
           "is_correct": true,
           "feedback": "Es correcta porque de 7:15 a 8:00 faltan 45 minutos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "30 minutos",
           "is_correct": false,
           "feedback": "Error conceptual: subestima el intervalo; media hora solo llega hasta las 7:45."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "1 hora y 15 minutos",
           "is_correct": false,
           "feedback": "Error conceptual: suma una hora completa de más al intervalo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "15 minutos",
           "is_correct": false,
           "feedback": "Error conceptual: confunde el minuto de inicio con la duración total."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Para calcular una duración se resta la hora de inicio a la hora final. Completar de 7:15 a 8:00 da 45 minutos, porque faltan 45 para llegar a la hora en punto.",
       "difficulty": "6",
       "images": [],
@@ -151,19 +151,19 @@
       "context": "En Cartagena un evento cultural dura 2 horas y 30 minutos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "150 minutos",
           "is_correct": true,
           "feedback": "Es correcta porque 2 horas son 120 minutos y al sumar 30 se obtienen 150."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "120 minutos",
           "is_correct": false,
           "feedback": "Error conceptual: convierte las horas pero olvida sumar los 30 minutos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "90 minutos",
           "is_correct": false,
           "feedback": "Error conceptual: suma 60 + 30 como si solo hubiera una hora."
@@ -175,7 +175,7 @@
           "feedback": "Error conceptual: multiplica por 100 en vez de por 60 al convertir las horas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Para convertir una duración mixta se pasan las horas a minutos y se suman los minutos restantes. Dos horas son 120 minutos y 120 + 30 = 150 minutos.",
       "difficulty": "6",
       "images": [],
@@ -197,19 +197,19 @@
       "context": "En Manizales un bus intermunicipal sale a las 2:40 p. m. y el viaje tarda 1 hora y 35 minutos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "4:15 p. m.",
           "is_correct": true,
           "feedback": "Es correcta porque 2:40 más 1 hora da 3:40 y 35 minutos más llegan a 4:15."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "3:75 p. m.",
           "is_correct": false,
           "feedback": "Error conceptual: deja 75 minutos sin convertir a una hora y cuarto."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "4:05 p. m.",
           "is_correct": false,
           "feedback": "Error conceptual: resta mal los minutos al sumar las duraciones."
@@ -221,7 +221,7 @@
           "feedback": "Error conceptual: omite una hora completa del tiempo de viaje."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Al sumar tiempos se agregan primero las horas y luego los minutos; si los minutos pasan de 60 se convierte una hora. Así 2:40 + 1:35 = 4:15 p. m.",
       "difficulty": "6",
       "images": [],
@@ -243,19 +243,19 @@
       "context": "En Cali un estudiante organiza su semana: estudia 45 minutos cada día de lunes a viernes.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "3 horas y 45 minutos",
           "is_correct": true,
           "feedback": "Es correcta porque 45 × 5 = 225 minutos, y 225 = 3 horas y 45 minutos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "4 horas y 5 minutos",
           "is_correct": false,
           "feedback": "Error conceptual: convierte mal los minutos sobrantes al repartir 225."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "3 horas y 15 minutos",
           "is_correct": false,
           "feedback": "Error conceptual: resta minutos de más y deja solo 15 en vez de 45."
@@ -267,7 +267,7 @@
           "feedback": "Error conceptual: multiplica los días por una duración equivocada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Se multiplica la duración diaria por el número de días y luego se convierte el total. Cinco días de 45 minutos dan 225 minutos, equivalentes a 3 horas y 45 minutos.",
       "difficulty": "8",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "En Bogotá una biblioteca abre de 8:00 a. m. a 5:00 p. m., pero cierra una hora al mediodía.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "8 horas",
           "is_correct": true,
           "feedback": "Es correcta porque de 8:00 a 5:00 hay 9 horas y al restar la hora de cierre quedan 8."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "9 horas",
           "is_correct": false,
           "feedback": "Error conceptual: cuenta el total sin descontar la hora del mediodía."
@@ -313,7 +313,7 @@
           "feedback": "Error conceptual: exagera el intervalo sumando una hora extra."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Cuando hay una interrupción se calcula el intervalo total y se resta el tiempo cerrado. De 8:00 a 5:00 son 9 horas, y al descontar 1 hora de cierre quedan 8 horas abiertas.",
       "difficulty": "8",
       "images": [],
@@ -335,19 +335,19 @@
       "context": "En una maratón de Neiva un corredor tarda 1 hora y 50 minutos y otro tarda 110 minutos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Son iguales, porque 1 hora y 50 minutos equivalen a 110 minutos",
           "is_correct": true,
           "feedback": "Es correcta porque 60 + 50 = 110; ambos corredores emplearon el mismo tiempo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El primer corredor tardó más por tener una hora",
           "is_correct": false,
           "feedback": "Error conceptual: no convierte a una unidad común antes de comparar."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El segundo corredor tardó más por tener 110 minutos",
           "is_correct": false,
           "feedback": "Error conceptual: cree que un número mayor siempre implica más tiempo, sin convertir."
@@ -359,7 +359,7 @@
           "feedback": "Error conceptual: se pueden comparar si se convierten a la misma unidad."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Para comparar duraciones se deben expresar en la misma unidad. Una hora y 50 minutos es equivalente a 110 minutos, así que ambos registros describen el mismo tiempo.",
       "difficulty": "8",
       "images": [],
@@ -381,19 +381,19 @@
       "context": "En Medellín un estudiante afirma: \"Todos los meses del año tienen exactamente 30 días\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "No, porque cada mes tiene entre 28 y 31 días según el calendario",
           "is_correct": true,
           "feedback": "Es correcta porque los meses varían: febrero tiene 28 o 29 días y otros llegan a 31."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Sí, todos los meses tienen exactamente 30 días",
           "is_correct": false,
           "feedback": "Error conceptual: ignora que enero, marzo y otros meses tienen 31 días."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Sí, excepto febrero, que tiene 30 días",
           "is_correct": false,
           "feedback": "Error conceptual: febrero tiene 28 días (29 en año bisiesto), no 30."
@@ -405,7 +405,7 @@
           "feedback": "Error conceptual: ningún mes del calendario tiene 32 días."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El calendario gregoriano combina meses de 28, 29, 30 y 31 días. Reconocer esa variedad es necesario para calcular fechas y duraciones con exactitud.",
       "difficulty": "10",
       "images": [],

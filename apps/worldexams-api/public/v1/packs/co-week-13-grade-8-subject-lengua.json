@@ -13,19 +13,19 @@
       "context": "El Realismo surgió en Europa a mediados del siglo XIX como una reacción contra los excesos subjetivos del Romanticismo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Expresar sus sentimientos más íntimos de forma exagerada.",
           "is_correct": false,
           "feedback": "Esto es propio del Romanticismo, no del Realismo."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Crear mundos fantásticos con seres imaginarios y magia.",
           "is_correct": false,
           "feedback": "El Realismo rechaza lo fantástico en favor de lo cotidiano."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Reflejar la realidad social de forma objetiva y detallada.",
           "is_correct": true,
           "feedback": "El autor actúa como un observador que documenta la sociedad de su tiempo."
@@ -37,7 +37,7 @@
           "feedback": "El Realismo prefiere la prosa (novela) y temas contemporáneos."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "El Realismo busca ser un \"espejo\" de la sociedad, analizando los comportamientos humanos y las estructuras sociales de manera casi científica.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -111,13 +111,13 @@
           "feedback": "Esta técnica es más común en la literatura del siglo XX."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "La descripción detallada y minuciosa de ambientes y rasgos psicológicos.",
           "is_correct": true,
           "feedback": "Los detalles sirven para crear una sensación de veracidad y profundidad."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El uso constante de metáforas oscuras y difíciles de entender.",
           "is_correct": false,
           "feedback": "El lenguaje realista busca la claridad y la precisión, no la oscuridad."
@@ -129,7 +129,7 @@
           "feedback": "El Realismo suele explicar el pasado de los personajes para justificar su comportamiento presente."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La descripción realista funciona como un inventario de la realidad, permitiendo al lector situarse físicamente en la escena y comprender la psicología del personaje.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -197,19 +197,19 @@
       "context": "El lenguaje en el Realismo se adapta a la condición social de cada personaje.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La falta de corrección gramatical del autor.",
           "is_correct": false,
           "feedback": "Es una elección consciente para lograr el realismo lingüístico."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "El deseo de confundir al lector con diferentes formas de hablar.",
           "is_correct": false,
           "feedback": "Al contrario, ayuda a identificar claramente la posición social de cada uno."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "El principio de verosimilitud o imitación fiel de la realidad lingüística.",
           "is_correct": true,
           "feedback": "Los personajes deben hablar de acuerdo con su clase, educación y profesión."
@@ -221,7 +221,7 @@
           "feedback": "No es una prohibición, sino una búsqueda de verdad artística."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "El realismo lingüístico es esencial para la caracterización de los personajes y para el análisis de las barreras sociales y culturales.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "El Realismo a menudo trata temas tabú para la época o denuncia las injusticias del sistema.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Porque incitaba a los lectores a quemar libros de poesía romántica.",
           "is_correct": false,
           "feedback": "No es una agresión física a otros géneros, sino una crítica temática."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque mostraba los vicios de la sociedad y los problemas familiares sin adornos ni idealizaciones.",
           "is_correct": true,
           "feedback": "La crudeza al tratar temas como el adulterio o la ambición molestaba a quienes preferían ignorarlos."
@@ -267,7 +267,7 @@
           "feedback": "El Realismo solía ser más cercano a las ideas liberales o progresistas del momento."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La honestidad del Realismo al retratar la miseria moral y material funcionaba como una denuncia que incomodaba a las clases privilegiadas.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -301,19 +301,19 @@
           "feedback": "Esto sería idealismo, lo opuesto al realismo."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Que el autor tiene el deber de reflejar fielmente tanto las virtudes como las miserias de la sociedad.",
           "is_correct": true,
           "feedback": "El autor no es responsable de la fealdad de lo que refleja, sino de la fidelidad del reflejo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Que los espejos eran muy caros y raros en el siglo XIX.",
           "is_correct": false,
           "feedback": "Es una metáfora literaria sobre la función del arte, no un dato histórico sobre objetos."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Esta definición es la base de la ética realista: el compromiso con la verdad social por encima de las convenciones estéticas o morales.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -341,25 +341,25 @@
           "feedback": "Galdós viajó mucho y conocía bien Europa."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Madrid funciona como un personaje vivo que representa todas las contradicciones de la España del siglo XIX.",
           "is_correct": true,
           "feedback": "Las calles, los cafés y las casas de Madrid son el laboratorio donde Galdós observa a la sociedad."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Solo la describía para que los turistas supieran dónde estaban los monumentos.",
           "is_correct": false,
           "feedback": "Sus descripciones son sociológicas y emocionales, no guías turísticas."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La eligió porque allí vivían los únicos lectores que compraban sus libros.",
           "is_correct": false,
           "feedback": "Galdós era leído en toda España y también en América."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El espacio urbano en el Realismo deja de ser un decorado para convertirse en un factor determinante en la vida y el destino de los personajes.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -387,13 +387,13 @@
           "feedback": "El avaro tiene dinero, pero su entorno refleja su pobreza espiritual."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Que la falta de luz en la casa le impide ver dónde guarda sus monedas.",
           "is_correct": false,
           "feedback": "Es una interpretación literal irrelevante para el análisis psicológico."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Una correspondencia entre el espacio físico y la psicología o carácter del personaje.",
           "is_correct": true,
           "feedback": "En el Realismo, el entorno \"explica\" o \"refleja\" quién es el individuo."
@@ -405,7 +405,7 @@
           "feedback": "La descripción tiene una función narrativa y psicológica, no decorativa."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Los objetos y los espacios en el Realismo no son gratuitos; son signos que el lector debe interpretar para entender la personalidad de los protagonistas.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -427,13 +427,13 @@
       "context": "Los diálogos en el Realismo son una de las herramientas más potentes para mostrar la realidad social.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Mostrar lo bien que rima el autor al hacer hablar a sus personajes.",
           "is_correct": false,
           "feedback": "El diálogo realista no suele ser rimado, busca la prosa natural."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Caracterizar socialmente a los personajes y dar dinamismo a la acción sin que el narrador intervenga.",
           "is_correct": true,
           "feedback": "El habla de los personajes revela su educación, origen y estado de ánimo de forma directa."
@@ -451,7 +451,7 @@
           "feedback": "El autor a menudo usa los diálogos para confrontar diferentes puntos de vista sociales."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El diálogo realista es un ejercicio de mimesis (imitación) que busca capturar el habla real de las diferentes capas sociales de la época.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -473,13 +473,13 @@
       "context": "En el Realismo se desarrolla la \"novela de tesis\", donde el autor intenta demostrar una idea política o moral a través de la historia.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Que los personajes hablen demasiado y el libro sea muy pesado.",
           "is_correct": false,
           "feedback": "El riesgo es ideológico y estructural, no solo de extensión."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Que los personajes perdieron su humanidad y se convirtieron en marionetas al servicio de la ideología del autor.",
           "is_correct": true,
           "feedback": "Si la tesis es demasiado rígida, la verosimilitud de la vida real puede resentirse."
@@ -497,7 +497,7 @@
           "feedback": "Al contrario, el público del siglo XIX estaba muy interesado en los debates ideológicos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El equilibrio entre la intención pedagógica (tesis) y la creación de personajes vivos y creíbles es uno de los mayores desafíos del Realismo.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -531,19 +531,19 @@
           "feedback": "Los escenarios eran sociales, no necesariamente científicos."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Llevando a los autores a documentarse, tomar notas de la realidad y estudiar el entorno antes de escribir.",
           "is_correct": true,
           "feedback": "La escritura se convierte en un proceso de investigación de campo similar al de un sociólogo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Prohibiendo el uso de adjetivos en las descripciones por no ser objetivos.",
           "is_correct": false,
           "feedback": "Los adjetivos son esenciales en el Realismo para lograr la precisión descriptiva."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "El autor realista se ve a sí mismo como un cronista o un científico social que analiza \"casos\" humanos dentro de un contexto histórico y social determinado.\n\n---",
       "difficulty": "10",
       "images": [],

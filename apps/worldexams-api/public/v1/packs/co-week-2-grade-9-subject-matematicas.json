@@ -13,13 +13,13 @@
       "context": "En Bogotá, los catetos de un triángulo rectángulo miden $6\\text{ cm}$ y $8\\text{ cm}$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$10\\text{ cm}$",
           "is_correct": true,
           "feedback": "Correcto. $h = \\sqrt{6^2 + 8^2} = \\sqrt{36 + 64} = \\sqrt{100} = 10\\text{ cm}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$14\\text{ cm}$",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste los catetos directamente sin elevar al cuadrado."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Multiplicaste los catetos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "$h^2 = a^2 + b^2 = 36 + 64 = 100 \\implies h = 10\\text{ cm}$.",
       "difficulty": "4",
       "images": [],
@@ -59,13 +59,13 @@
       "context": "En Medellín, una escalera de $5\\text{ metros}$ de longitud se apoya en una pared vertical. La base de la escalera está a $3\\text{ metros}$ de la pared.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$4\\text{ metros}$",
           "is_correct": true,
           "feedback": "Correcto. $a = \\sqrt{5^2 - 3^2} = \\sqrt{25 - 9} = \\sqrt{16} = 4\\text{ m}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$2\\text{ metros}$",
           "is_correct": false,
           "feedback": "Incorrecto. Restaste $5 - 3$ directamente."
@@ -83,7 +83,7 @@
           "feedback": "Incorrecto. Estimación sin rigor geométrico."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Cateto $a = \\sqrt{h^2 - b^2} = \\sqrt{25 - 9} = \\sqrt{16} = 4\\text{ m}$.",
       "difficulty": "4",
       "images": [],
@@ -105,19 +105,19 @@
       "context": "En un terreno rectangular en Cali de $9\\text{ m}$ de ancho por $12\\text{ m}$ de largo, se traza una cerca en diagonal.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$15\\text{ m}$",
           "is_correct": true,
           "feedback": "Correcto. $d = \\sqrt{9^2 + 12^2} = \\sqrt{81 + 144} = \\sqrt{225} = 15\\text{ m}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$21\\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste $9 + 12$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$18\\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Error en la raíz cuadrada de $225$."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecto. Error en los cuadrados $81+144$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La diagonal de un rectángulo forma un triángulo rectángulo: $d = \\sqrt{81+144} = 15\\text{ m}$.",
       "difficulty": "6",
       "images": [],
@@ -151,13 +151,13 @@
       "context": "En Barranquilla, una cancha cuadrada tiene $10\\text{ m}$ de lado.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$10\\sqrt{2}\\text{ m}$",
           "is_correct": true,
           "feedback": "Correcto. $d = \\sqrt{10^2 + 10^2} = \\sqrt{200} = 10\\sqrt{2}\\text{ m}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$20\\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste los lados directamente."
@@ -175,7 +175,7 @@
           "feedback": "Incorrecto. Dividiste el lado entre 2."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "En todo cuadrado de lado $L$, la diagonal es $d = L\\sqrt{2} = 10\\sqrt{2}\\text{ m}$.",
       "difficulty": "6",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "En Manizales, una cometa está atada a una cuerda extendida de $13\\text{ m}$. La proyección horizontal de la cometa en el suelo está a $12\\text{ m}$ del niño que la sostiene a $1\\text{ m}$ de altura.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$6\\text{ m}$",
           "is_correct": true,
           "feedback": "Correcto. Cateto vertical $h = \\sqrt{13^2 - 12^2} = \\sqrt{169 - 144} = \\sqrt{25} = 5\\text{ m}$. Altura total = $5 + 1 = 6\\text{ m}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$5\\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste sumar la altura inicial desde la que se sostiene la cometa ($1\\text{ m}$)."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecto. Sumaste la cuerda más la altura inicial."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Triángulo: hipotenusa $13$, base $12 \\implies$ cateto vertical $= 5\\text{ m}$. Altura total $= 5 + 1 = 6\\text{ m}$.",
       "difficulty": "8",
       "images": [],
@@ -381,13 +381,13 @@
       "context": "En Cúcuta, se evalúa si el triángulo de lados $7\\text{ cm}$, $24\\text{ cm}$ y $25\\text{ cm}$ es un triángulo rectángulo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Sí, porque $7^2 + 24^2 = 49 + 576 = 625 = 25^2$.",
           "is_correct": true,
           "feedback": "Correcto. Satisface exactamente la terna pitagórica."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "No, porque la suma de sus lados es $56$.",
           "is_correct": false,
           "feedback": "Incorrecto. El perímetro no determina si es rectángulo."
@@ -405,7 +405,7 @@
           "feedback": "Incorrecto. Un triángulo rectángulo tiene necesariamente un ángulo recto ($90^\\circ$)."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Recíproco del Teorema de Pitágoras: $49 + 576 = 625 = 25^2$, por ende es rectángulo.",
       "difficulty": "8",
       "images": [],
@@ -427,19 +427,19 @@
       "context": "En Armenia, un rombo tiene diagonales de $12\\text{ cm}$ y $16\\text{ cm}$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$40\\text{ cm}$",
           "is_correct": true,
           "feedback": "Correcto. Mitades de diagonales son $6$ y $8$. Lado $= \\sqrt{6^2 + 8^2} = 10\\text{ cm}$. Perímetro $= 4 \\times 10 = 40\\text{ cm}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$28\\text{ cm}$",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste las diagonales directamente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$56\\text{ cm}$",
           "is_correct": false,
           "feedback": "Incorrecto. Duplicaste la suma de las diagonales."
@@ -451,7 +451,7 @@
           "feedback": "Incorrecto. Multiplicaste el lado mayor por 4."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Lado $L = \\sqrt{(12/2)^2 + (16/2)^2} = \\sqrt{36+64} = 10\\text{ cm}$. Perímetro $4L = 40\\text{ cm}$.",
       "difficulty": "8",
       "images": [],
@@ -473,31 +473,31 @@
       "context": "En Cartagena, se calcula la longitud de la diagonal espacial de un paralelepípedo recto (caja) de dimensiones $3\\text{ m}$, $4\\text{ m}$ y $12\\text{ m}$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$13\\text{ m}$",
           "is_correct": true,
           "feedback": "Correcto. $D = \\sqrt{a^2 + b^2 + c^2} = \\sqrt{3^2 + 4^2 + 12^2} = \\sqrt{9 + 16 + 144} = \\sqrt{169} = 13\\text{ m}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$19\\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste las tres dimensiones $3 + 4 + 12$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$15\\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Error en la raíz cuadrada de $169$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$\\sqrt{160}\\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Error en los cuadrados acumulados."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Diagonal en 3D: $D = \\sqrt{3^2 + 4^2 + 12^2} = \\sqrt{9 + 16 + 144} = \\sqrt{169} = 13\\text{ m}$.",
       "difficulty": "10",
       "images": [],
@@ -519,19 +519,19 @@
       "context": "En Cartagena, una embarcación navega $12\\text{ km}$ hacia el Norte, luego $9\\text{ km}$ hacia el Este y finalmente $24\\text{ km}$ hacia el Sur.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$15\\text{ km}$",
           "is_correct": true,
           "feedback": "Correcto. Desplazamiento Norte-Sur: $12 - 24 = -12\\text{ km}$. Desplazamiento Este: $9\\text{ km}$. $d = \\sqrt{(-12)^2 + 9^2} = \\sqrt{144 + 81} = \\sqrt{225} = 15\\text{ km}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$45\\text{ km}$",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste la trayectoria total caminada ($12 + 9 + 24$)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$21\\text{ km}$",
           "is_correct": false,
           "feedback": "Incorrecto. Restaste $24 - 12 - 9$."
@@ -543,7 +543,7 @@
           "feedback": "Incorrecto. Error en los catetos netos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Vector posición: $\\Delta x = 9$, $\\Delta y = -12$. Distancia $d = \\sqrt{9^2 + (-12)^2} = \\sqrt{81 + 144} = \\sqrt{225} = 15\\text{ km}$.",
       "difficulty": "10",
       "images": [],

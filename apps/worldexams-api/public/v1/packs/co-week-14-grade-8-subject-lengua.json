@@ -13,19 +13,19 @@
       "context": "La novela realista se convirtió en el género literario más exitoso del siglo XIX, desplazando a la poesía y al drama.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Porque era más corta y rápida de escribir que un poema.",
           "is_correct": false,
           "feedback": "Al contrario, las novelas realistas suelen ser muy largas."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Porque no requería saber rima ni métrica.",
           "is_correct": false,
           "feedback": "Aunque es prosa, requiere una técnica narrativa muy compleja."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Porque permitía describir con amplitud la complejidad de la sociedad y la psicología humana.",
           "is_correct": true,
           "feedback": "Su extensión y libertad formal son ideales para el análisis social detallado."
@@ -37,7 +37,7 @@
           "feedback": "La poesía seguía existiendo, pero la novela conectaba mejor con el público burgués."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "La novela ofrece el espacio necesario para el desarrollo de tramas complejas, descripciones minuciosas y la evolución de los personajes en el tiempo.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -65,25 +65,25 @@
           "feedback": "Los personajes realistas son personas comunes sin poderes mágicos."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Ser individuos con virtudes y defectos, influenciados por su entorno social.",
           "is_correct": true,
           "feedback": "Se busca la verosimilitud y el retrato psicológico profundo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Representar ideas abstractas como \"el Bien\" o \"el Mal\" de forma pura.",
           "is_correct": false,
           "feedback": "El Realismo huye de los personajes planos o puramente simbólicos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Ser siempre nobles de la antigüedad griega o romana.",
           "is_correct": false,
           "feedback": "Los personajes pertenecen a la época contemporánea del autor."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El personaje realista es complejo y contradictorio, movido por intereses materiales, pasiones humanas y presiones sociales.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -203,13 +203,13 @@
           "feedback": "No hay intercambio verbal entre dos personas."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Monólogo teatral recitado ante el público.",
           "is_correct": false,
           "feedback": "No es una representación teatral, sino una técnica narrativa en prosa."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Estilo indirecto libre.",
           "is_correct": true,
           "feedback": "El narrador adopta la perspectiva y las preguntas íntimas del personaje sin usar \"él pensó que...\"."
@@ -221,7 +221,7 @@
           "feedback": "La técnica muestra el interior del personaje, algo que una cámara no capta directamente."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "El estilo indirecto libre es una de las grandes aportaciones técnicas del Realismo, permitiendo una inmersión psicológica más fluida y natural.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -295,13 +295,13 @@
           "feedback": "Vetusta es precisamente lo contrario: un entorno represivo."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "La ciudad no tiene ninguna importancia, lo que importa es solo lo que Ana piensa.",
           "is_correct": false,
           "feedback": "La presión de la ciudad es lo que finalmente destruye a la protagonista."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Vetusta funciona como una fuerza opresiva que vigila, juzga y finalmente destruye a quien intenta romper sus normas.",
           "is_correct": true,
           "feedback": "El entorno social es el verdadero antagonista de la novela."
@@ -313,7 +313,7 @@
           "feedback": "El Realismo de Clarín se basa en la observación social, no en elementos sobrenaturales."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Vetusta es la personificación de la hipocresía y el estancamiento de la sociedad española de finales del siglo XIX, condicionando de forma absoluta la psicología de los personajes.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -335,19 +335,19 @@
       "context": "Los novelistas realistas solían publicar sus obras por entregas en los periódicos (folletines), lo que influía en la estructura de la historia.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Haciendo que las novelas fueran muy cortas para que cupieran en una página.",
           "is_correct": false,
           "feedback": "Al contrario, el sistema incentivaba las novelas largas para durar más meses en el periódico."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Eliminando las descripciones para ir directamente a la acción.",
           "is_correct": false,
           "feedback": "Las descripciones detalladas eran muy valoradas por el público de la época."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Creando finales de capítulo con suspense para mantener el interés del lector hasta la siguiente semana.",
           "is_correct": true,
           "feedback": "El ritmo narrativo se adaptaba a la necesidad comercial de fidelizar al público."
@@ -359,7 +359,7 @@
           "feedback": "El público de los folletines era amplio, pero el nivel literario solía mantenerse alto en los grandes autores."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "La publicación por entregas democratizó el acceso a la literatura y creó una relación muy cercana entre el autor y su público, influyendo en la estructura episódica de muchas obras.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -427,19 +427,19 @@
       "context": "Dickens denunció en sus novelas (como \"Oliver Twist\") las terribles condiciones de trabajo infantil en la Inglaterra industrial.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Porque las novelas tenían dibujos bonitos que los políticos preferían mirar.",
           "is_correct": false,
           "feedback": "La eficacia residía en el texto y la capacidad de conmover."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Porque las novelas eran más baratas de imprimir que los informes del gobierno.",
           "is_correct": false,
           "feedback": "Es una cuestión de impacto emocional y social, no de costos de imprenta."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Porque la novela humanizaba los datos estadísticos, generando empatía y conciencia emocional en los lectores.",
           "is_correct": true,
           "feedback": "Al ponerle nombre y sentimientos al sufrimiento, la novela movilizaba a la opinión pública."
@@ -451,7 +451,7 @@
           "feedback": "No estaba prohibido, pero la literatura tenía un alcance mucho más masivo y popular."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "La novela realista funcionó como una poderosa herramienta de reforma social al hacer visible el dolor de los sectores marginados ante el resto de la sociedad.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -473,19 +473,19 @@
       "context": "El realismo ruso, con Tolstói (\"Guerra y Paz\") y Dostoievski (\"Crimen y Castigo\"), añadió una dimensión espiritual y existencial profunda a la novela.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Que Dostoievski escribía sobre fantasmas y Balzac sobre personas reales.",
           "is_correct": false,
           "feedback": "Ambos son realistas; Dostoievski no usa elementos sobrenaturales."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Que Dostoievski no describía nunca los edificios ni las calles.",
           "is_correct": false,
           "feedback": "Describe el ambiente de San Petersburgo de forma magistral."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Su enfoque en el \"realismo psicológico\" extremo, explorando las contradicciones morales y el alma atormentada de los personajes.",
           "is_correct": true,
           "feedback": "Dostoievski profundiza en las simas del pensamiento humano, el pecado y la redención."
@@ -497,7 +497,7 @@
           "feedback": "Ambos son maestros de la prosa novelesca."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "El realismo ruso expande las fronteras del género hacia la introspección filosófica, analizando no solo la sociedad externa sino el abismo interior del individuo.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -525,13 +525,13 @@
           "feedback": "Es una afirmación sin sentido; ambas capacidades se mantuvieron y crecieron."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Se perdió el uso de adjetivos y se ganó el uso de muchos sustantivos.",
           "is_correct": false,
           "feedback": "El cambio fue temático y filosófico, no una simple sustitución de categorías gramaticales."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Se perdió el idealismo heroico y la evasión fantástica, pero se ganó en profundidad social, verdad humana y compromiso crítico.",
           "is_correct": true,
           "feedback": "La literatura bajó de las nubes románticas para ocuparse de los problemas reales de los hombres."
@@ -543,7 +543,7 @@
           "feedback": "El Realismo creó algunas de las obras más complejas y fascinantes de la historia de la humanidad."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "El Realismo marca la madurez de la novela como instrumento de conocimiento humano y social, renunciando a la fantasía para ganar en lucidez y honestidad.\n\n---",
       "difficulty": "10",
       "images": [],

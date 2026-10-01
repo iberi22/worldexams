@@ -13,19 +13,19 @@
       "context": "En Santa Cruz, el estudiante Roxana del Colegio Nacional Santa Cruz analiza la trayectoria de un proyectil modelada por una ecuación cuadrática.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Tiene una única solución real (o dos raíces reales iguales).",
           "is_correct": true,
           "feedback": "¡Correcto! Cuando el discriminante es cero, la parte de la raíz cuadrada en la fórmula cuadrática desaparece, dando una sola solución real x = -b / (2a)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Tiene dos soluciones reales e irracionales distintas.",
           "is_correct": false,
           "feedback": "Incorrecto. Esto ocurre cuando el discriminante es estrictamente mayor que cero."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Tiene dos soluciones complejas conjugadas (no reales).",
           "is_correct": false,
           "feedback": "Incorrecto. Las soluciones son complejas no reales cuando el discriminante es estrictamente menor que cero."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Toda ecuación cuadrática tiene siempre raíces en el campo de los complejos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El discriminante D determina la naturaleza de las raíces de una ecuación de segundo grado. Si D = 0, las raíces reales de la ecuación cuadrática son reales e iguales (solución real única).\n\n---",
       "difficulty": "4",
       "images": [],
@@ -58,19 +58,19 @@
       "context": "En Cochabamba, el estudiante Jhonny del Colegio Nacional Sucre analiza la trayectoria de un proyectil modelada por una ecuación cuadrática.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "0",
           "is_correct": true,
           "feedback": "¡Correcto! D = (-4)^2 - 4(1)(4) = 16 - 16 = 0."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "8",
           "is_correct": false,
           "feedback": "Incorrecto. Realizaste un cálculo aritmético erróneo con los signos de los coeficientes."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "16",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste restar el término de 4ac en la fórmula del discriminante."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. El resultado del discriminante para esta ecuación es exactamente cero."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Aplicando la fórmula del discriminante D = b^2 - 4ac para a = 1, b = -4, c = 4: D = (-4)^2 - 4(1)(4) = 16 - 16 = 0.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,13 +148,13 @@
       "context": "En Sucre, el estudiante Walter del Colegio Nacional Junín analiza la trayectoria de un proyectil modelada por una ecuación cuadrática.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "x = 3 y x = 5",
           "is_correct": true,
           "feedback": "¡Correcto! Factorizando el trinomio cuadrático se obtienen las raíces deseadas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "x = 0 y x = 1",
           "is_correct": false,
           "feedback": "Incorrecto. Estos valores no satisfacen la ecuación original."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. El discriminante es positivo, por lo que posee dos raíces reales distintas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La ecuación se puede resolver factorizando como (x - (3))(x - (5)) = 0, lo que da las dos raíces correspondientes.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -238,31 +238,31 @@
       "context": "En Oruro, el estudiante Ramiro del Colegio Nacional Potosí analiza la trayectoria de un proyectil modelada por una ecuación cuadrática.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "x = 5 y x = 7",
           "is_correct": true,
           "feedback": "¡Correcto! Factorizando el trinomio cuadrático se obtienen las raíces deseadas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "x = 0 y x = 1",
           "is_correct": false,
           "feedback": "Incorrecto. Estos valores no satisfacen la ecuación original."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "x = 6 y x = -6",
           "is_correct": false,
           "feedback": "Incorrecto. Error al factorizar o despejar los coeficientes."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "No tiene raíces reales",
           "is_correct": false,
           "feedback": "Incorrecto. El discriminante es positivo, por lo que posee dos raíces reales distintas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La ecuación se puede resolver factorizando como (x - (5))(x - (7)) = 0, lo que da las dos raíces correspondientes.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -373,19 +373,19 @@
       "context": "En Trinidad, el estudiante Marcela del Colegio Nacional Cobija analiza la trayectoria de un proyectil modelada por una ecuación cuadrática.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "x = 8 y x = 10",
           "is_correct": true,
           "feedback": "¡Correcto! Factorizando el trinomio cuadrático se obtienen las raíces deseadas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "x = 0 y x = 1",
           "is_correct": false,
           "feedback": "Incorrecto. Estos valores no satisfacen la ecuación original."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "x = 9 y x = -9",
           "is_correct": false,
           "feedback": "Incorrecto. Error al factorizar o despejar los coeficientes."
@@ -397,7 +397,7 @@
           "feedback": "Incorrecto. El discriminante es positivo, por lo que posee dos raíces reales distintas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La ecuación se puede resolver factorizando como (x - (8))(x - (10)) = 0, lo que da las dos raíces correspondientes.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -418,19 +418,19 @@
       "context": "En La Paz, el estudiante Grover del Colegio Nacional Ayacucho analiza la trayectoria de un proyectil modelada por una ecuación cuadrática.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "x = 9 y x = 11",
           "is_correct": true,
           "feedback": "¡Correcto! Factorizando el trinomio cuadrático se obtienen las raíces deseadas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "x = 0 y x = 1",
           "is_correct": false,
           "feedback": "Incorrecto. Estos valores no satisfacen la ecuación original."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "x = 10 y x = -10",
           "is_correct": false,
           "feedback": "Incorrecto. Error al factorizar o despejar los coeficientes."
@@ -442,7 +442,7 @@
           "feedback": "Incorrecto. El discriminante es positivo, por lo que posee dos raíces reales distintas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La ecuación se puede resolver factorizando como (x - (9))(x - (11)) = 0, lo que da las dos raíces correspondientes.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -463,31 +463,31 @@
       "context": "En Santa Cruz, el estudiante Roxana del Colegio Nacional Santa Cruz analiza la trayectoria de un proyectil modelada por una ecuación cuadrática.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "x = 10 y x = 12",
           "is_correct": true,
           "feedback": "¡Correcto! Factorizando el trinomio cuadrático se obtienen las raíces deseadas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "x = 0 y x = 1",
           "is_correct": false,
           "feedback": "Incorrecto. Estos valores no satisfacen la ecuación original."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "x = 11 y x = -11",
           "is_correct": false,
           "feedback": "Incorrecto. Error al factorizar o despejar los coeficientes."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "No tiene raíces reales",
           "is_correct": false,
           "feedback": "Incorrecto. El discriminante es positivo, por lo que posee dos raíces reales distintas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La ecuación se puede resolver factorizando como (x - (10))(x - (12)) = 0, lo que da las dos raíces correspondientes.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -508,31 +508,31 @@
       "context": "En Cochabamba, el estudiante Jhonny del Colegio Nacional Sucre analiza la trayectoria de un proyectil modelada por una ecuación cuadrática.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "x = 11 y x = 13",
           "is_correct": true,
           "feedback": "¡Correcto! Factorizando el trinomio cuadrático se obtienen las raíces deseadas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "x = 0 y x = 1",
           "is_correct": false,
           "feedback": "Incorrecto. Estos valores no satisfacen la ecuación original."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "x = 12 y x = -12",
           "is_correct": false,
           "feedback": "Incorrecto. Error al factorizar o despejar los coeficientes."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "No tiene raíces reales",
           "is_correct": false,
           "feedback": "Incorrecto. El discriminante es positivo, por lo que posee dos raíces reales distintas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La ecuación se puede resolver factorizando como (x - (11))(x - (13)) = 0, lo que da las dos raíces correspondientes.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -553,19 +553,19 @@
       "context": "En El Alto, el estudiante Marisol del Colegio Nacional El Alto analiza la trayectoria de un proyectil modelada por una ecuación cuadrática.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "x = 12 y x = 14",
           "is_correct": true,
           "feedback": "¡Correcto! Factorizando el trinomio cuadrático se obtienen las raíces deseadas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "x = 0 y x = 1",
           "is_correct": false,
           "feedback": "Incorrecto. Estos valores no satisfacen la ecuación original."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "x = 13 y x = -13",
           "is_correct": false,
           "feedback": "Incorrecto. Error al factorizar o despejar los coeficientes."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. El discriminante es positivo, por lo que posee dos raíces reales distintas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La ecuación se puede resolver factorizando como (x - (12))(x - (14)) = 0, lo que da las dos raíces correspondientes.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -598,13 +598,13 @@
       "context": "En Sucre, el estudiante Walter del Colegio Nacional Junín analiza la trayectoria de un proyectil modelada por una ecuación cuadrática.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "x = 13 y x = 15",
           "is_correct": true,
           "feedback": "¡Correcto! Factorizando el trinomio cuadrático se obtienen las raíces deseadas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "x = 0 y x = 1",
           "is_correct": false,
           "feedback": "Incorrecto. Estos valores no satisfacen la ecuación original."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. El discriminante es positivo, por lo que posee dos raíces reales distintas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La ecuación se puede resolver factorizando como (x - (13))(x - (15)) = 0, lo que da las dos raíces correspondientes.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -643,31 +643,31 @@
       "context": "En Tarija, el estudiante Sonia del Colegio Nacional Bolivar analiza la trayectoria de un proyectil modelada por una ecuación cuadrática.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "x = 14 y x = 16",
           "is_correct": true,
           "feedback": "¡Correcto! Factorizando el trinomio cuadrático se obtienen las raíces deseadas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "x = 0 y x = 1",
           "is_correct": false,
           "feedback": "Incorrecto. Estos valores no satisfacen la ecuación original."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "x = 15 y x = -15",
           "is_correct": false,
           "feedback": "Incorrecto. Error al factorizar o despejar los coeficientes."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "No tiene raíces reales",
           "is_correct": false,
           "feedback": "Incorrecto. El discriminante es positivo, por lo que posee dos raíces reales distintas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La ecuación se puede resolver factorizando como (x - (14))(x - (16)) = 0, lo que da las dos raíces correspondientes.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -733,31 +733,31 @@
       "context": "En Potosí, el estudiante Yolanda del Colegio Nacional San Luis analiza la trayectoria de un proyectil modelada por una ecuación cuadrática.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "x = 16 y x = 18",
           "is_correct": true,
           "feedback": "¡Correcto! Factorizando el trinomio cuadrático se obtienen las raíces deseadas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "x = 0 y x = 1",
           "is_correct": false,
           "feedback": "Incorrecto. Estos valores no satisfacen la ecuación original."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "x = 17 y x = -17",
           "is_correct": false,
           "feedback": "Incorrecto. Error al factorizar o despejar los coeficientes."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "No tiene raíces reales",
           "is_correct": false,
           "feedback": "Incorrecto. El discriminante es positivo, por lo que posee dos raíces reales distintas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La ecuación se puede resolver factorizando como (x - (16))(x - (18)) = 0, lo que da las dos raíces correspondientes.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -778,19 +778,19 @@
       "context": "En Cobija, el estudiante Jaime del Colegio Nacional Trinidad analiza la trayectoria de un proyectil modelada por una ecuación cuadrática.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "x = 17 y x = 19",
           "is_correct": true,
           "feedback": "¡Correcto! Factorizando el trinomio cuadrático se obtienen las raíces deseadas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "x = 0 y x = 1",
           "is_correct": false,
           "feedback": "Incorrecto. Estos valores no satisfacen la ecuación original."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "x = 18 y x = -18",
           "is_correct": false,
           "feedback": "Incorrecto. Error al factorizar o despejar los coeficientes."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. El discriminante es positivo, por lo que posee dos raíces reales distintas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La ecuación se puede resolver factorizando como (x - (17))(x - (19)) = 0, lo que da las dos raíces correspondientes.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -823,13 +823,13 @@
       "context": "En Trinidad, el estudiante Marcela del Colegio Nacional Cobija analiza la trayectoria de un proyectil modelada por una ecuación cuadrática.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "x = 18 y x = 20",
           "is_correct": true,
           "feedback": "¡Correcto! Factorizando el trinomio cuadrático se obtienen las raíces deseadas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "x = 0 y x = 1",
           "is_correct": false,
           "feedback": "Incorrecto. Estos valores no satisfacen la ecuación original."
@@ -847,7 +847,7 @@
           "feedback": "Incorrecto. El discriminante es positivo, por lo que posee dos raíces reales distintas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La ecuación se puede resolver factorizando como (x - (18))(x - (20)) = 0, lo que da las dos raíces correspondientes.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -868,13 +868,13 @@
       "context": "En La Paz, el estudiante Grover del Colegio Nacional Ayacucho analiza la trayectoria de un proyectil modelada por una ecuación cuadrática.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "x = 19 y x = 21",
           "is_correct": true,
           "feedback": "¡Correcto! Factorizando el trinomio cuadrático se obtienen las raíces deseadas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "x = 0 y x = 1",
           "is_correct": false,
           "feedback": "Incorrecto. Estos valores no satisfacen la ecuación original."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. El discriminante es positivo, por lo que posee dos raíces reales distintas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La ecuación se puede resolver factorizando como (x - (19))(x - (21)) = 0, lo que da las dos raíces correspondientes.\n\n---",
       "difficulty": "10",
       "images": [],

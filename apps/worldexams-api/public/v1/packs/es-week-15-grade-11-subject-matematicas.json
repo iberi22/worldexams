@@ -19,25 +19,25 @@
           "feedback": "Operación incorrecta."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Es una función cuya derivada es igual a $f(x)$, es decir, $F'(x) = f(x)$.",
           "is_correct": true,
           "feedback": "Correcto. La integración es el proceso inverso a la derivación."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Es la inversa de la función $f(x)$ respecto a la composición.",
           "is_correct": false,
           "feedback": "Esta es la función inversa $f^{-1}(x)$, no la primitiva."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Es el límite de la función $f(x)$ cuando $x$ tiende a infinito.",
           "is_correct": false,
           "feedback": "Definición incorrecta."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Integrar es hallar una función conociendo su tasa de variación. Por ejemplo, si la derivada es $2x$, la primitiva es $x^2$ (más una constante).\n\n---",
       "difficulty": "4",
       "images": [],
@@ -70,19 +70,19 @@
           "feedback": "No necesariamente."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Porque la derivada de cualquier constante es cero, y existen infinitas primitivas que difieren solo en una constante.",
           "is_correct": true,
           "feedback": "Correcto. Todas las funciones $F(x) + C$ tienen la misma derivada $f(x)$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Es una convención sin significado real.",
           "is_correct": false,
           "feedback": "Tiene un significado fundamental en la solución de ecuaciones diferenciales."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Al derivar, perdemos la información sobre el término constante. Al integrar, debemos representar todas las posibles funciones originales mediante la familia de curvas $F(x) + C$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -103,13 +103,13 @@
       "context": "Un estudiante aplica la regla de la potencia para integrales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$n \\cdot x^{n-1} + C$",
           "is_correct": false,
           "feedback": "Esta es la regla para la derivada."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\frac{x^{n+1}}{n+1} + C$",
           "is_correct": true,
           "feedback": "Correcto. Al integrar, sumamos 1 al exponente y dividimos por el nuevo exponente."
@@ -127,7 +127,7 @@
           "feedback": "Regla incorrecta."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La regla de la potencia para integrales es el proceso inverso a la regla de la potencia para derivadas. Es fundamental para integrar polinomios.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -154,25 +154,25 @@
           "feedback": "La regla de la potencia falla para n = -1 porque el denominador se anula."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$\\ln(x) + C$",
           "is_correct": true,
           "feedback": "Correcto. La primitiva de $1/x$ es el logaritmo neperiano de x."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$e^x + C$",
           "is_correct": false,
           "feedback": "La primitiva de e^x es e^x."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$-1/x^2 + C$",
           "is_correct": false,
           "feedback": "Esta es la derivada de 1/x."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La función $1/x$ es la única potencia de $x$ cuya integral no sigue la regla general de sumarle uno al exponente, resultando en una función logarítmica.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -193,13 +193,13 @@
       "context": "En una clase de Matemáticas I en Bilbao, se practica la integración de polinomios sencillos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x^3 + 2x^2 + C$",
           "is_correct": false,
           "feedback": "Falta el término correspondiente a la constante -5."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x^3 + 2x^2 - 5x + C$",
           "is_correct": true,
           "feedback": "Correcto. Integrando término a término: $3(x^3/3) + 4(x^2/2) - 5x = x^3 + 2x^2 - 5x$."
@@ -217,7 +217,7 @@
           "feedback": "Error al integrar el término 4x."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La integral de una suma es la suma de las integrales de cada término. Aplicamos la regla de la potencia a cada sumando de forma independiente.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -289,13 +289,13 @@
           "feedback": "Correcto, pero falta la constante de integración."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$\\text{sen}(x) + C$",
           "is_correct": true,
           "feedback": "Correcto. La derivada del seno es el coseno."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$-\\text{sen}(x) + C$",
           "is_correct": false,
           "feedback": "Esta es la derivada del coseno."
@@ -307,7 +307,7 @@
           "feedback": "Solo la función exponencial de base e es su propia primitiva."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Es fundamental no confundir los signos al integrar funciones trigonométricas. Recordamos que la derivada del seno es el coseno (positivo), por lo que la integral del coseno es el seno (positivo).\n\n---",
       "difficulty": "6",
       "images": [],
@@ -334,25 +334,25 @@
           "feedback": "Esta es la derivada de 2^x."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$\\frac{2^x}{\\ln(2)} + C$",
           "is_correct": true,
           "feedback": "Correcto. Al integrar una exponencial, se divide por el logaritmo neperiano de la base."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\frac{x^2}{2} + C$",
           "is_correct": false,
           "feedback": "Error al confundir función exponencial con función potencia."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$2^x + C$",
           "is_correct": false,
           "feedback": "Solo válido si la base fuera el número e."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Para funciones exponenciales $a^x$, la regla de integración requiere compensar el factor $\\ln(a)$ que aparecería al derivar, por lo que dividimos por dicho valor.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -379,13 +379,13 @@
           "feedback": "Falta la constante de integración (velocidad inicial)."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$v(t) = 9,8t + 10$",
           "is_correct": true,
           "feedback": "Correcto. $\\int 9,8 \\, dt = 9,8t + C$. Como $v(0)=10$, entonces $C=10$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$v(t) = 4,9t^2 + 10$",
           "is_correct": false,
           "feedback": "Esta sería la función de posición si v era la aceleración."
@@ -397,7 +397,7 @@
           "feedback": "Error en la asignación de los valores."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Los problemas de condiciones iniciales permiten determinar el valor exacto de la constante $C$ mediante un dato conocido del problema físico o geométrico.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -424,13 +424,13 @@
           "feedback": "Esta es la familia general, falta hallar C."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$y = x^2 + x + 3$",
           "is_correct": true,
           "feedback": "Correcto. $\\int (2x+1)dx = x^2+x+C$. En $(1,5): 1^2+1+C=5 \\Rightarrow 2+C=5 \\Rightarrow C=3$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$y = 2x^2 + x + 2$",
           "is_correct": false,
           "feedback": "Error al integrar el primer término."
@@ -442,7 +442,7 @@
           "feedback": "Error al calcular el valor de C."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Integrar la función de pendiente nos devuelve la función original de la curva. El punto por el que pasa nos sirve para fijar la constante de integración.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -469,25 +469,25 @@
           "feedback": "Esta es una forma similar a la derivada del arco tangente, pero el numerador es distinto."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$\\ln(x^2 + 1) + C$",
           "is_correct": true,
           "feedback": "Correcto. Es del tipo $\\int \\frac{u'}{u} = \\ln|u| + C$. El numerador es exactamente la derivada del denominador."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\arctan(x) + C$",
           "is_correct": false,
           "feedback": "Esto sería si el numerador fuera 1, no 2x."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$2 \\ln(x) + C$",
           "is_correct": false,
           "feedback": "El argumento del logaritmo debe ser el denominador completo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Una de las integrales inmediatas más comunes en EBAU es la del tipo logarítmico, donde el numerador es (o puede convertirse en) la derivada del denominador.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -514,13 +514,13 @@
           "feedback": "Esta es la derivada de la función interna por la externa."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$-\\frac{1}{3} \\cos(3x) + C$",
           "is_correct": true,
           "feedback": "Correcto. Al integrar una función compuesta lineal, se divide por el coeficiente de la x."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\frac{1}{3} \\cos(3x) + C$",
           "is_correct": false,
           "feedback": "Error de signo (la integral del seno es menos coseno)."
@@ -532,7 +532,7 @@
           "feedback": "Falta compensar la derivada interna (el 3)."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Al integrar $f(ax+b)$, el resultado es $\\frac{1}{a} F(ax+b)$. Es una aplicación directa de la regla de la cadena en sentido inverso.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -553,13 +553,13 @@
       "context": "Un matemático en Asturias estudia la integral que conduce a la función arco tangente.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$\\arctan(x/9) + C$",
           "is_correct": false,
           "feedback": "Error al aplicar la constante de la fórmula."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\frac{1}{3} \\arctan(x/3) + C$",
           "is_correct": true,
           "feedback": "Correcto. Aplicando la fórmula $\\int \\frac{1}{x^2+a^2} = \\frac{1}{a} \\arctan(x/a)$. Aquí $a=3$."
@@ -577,7 +577,7 @@
           "feedback": "Error al identificar el valor de a (es la raíz de 9)."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La integral del tipo arco tangente es muy frecuente. Es crucial identificar el valor de $a^2$ en el denominador para aplicar correctamente los coeficientes $1/a$ tanto fuera como dentro de la función.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -604,25 +604,25 @@
           "feedback": "Esta es la derivada de la función."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$\\frac{1}{5} e^{5x} + C$",
           "is_correct": true,
           "feedback": "Correcto. Al integrar $e^{ux}$, dividimos por la derivada del exponente si esta es constante."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$e^{5x} + C$",
           "is_correct": false,
           "feedback": "Falta el factor de corrección."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$\\frac{e^{6x}}{6} + C$",
           "is_correct": false,
           "feedback": "Confusión con la regla de la potencia."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La integración de la función exponencial con exponente lineal es una de las operaciones más básicas y repetitivas en el cálculo de primitivas.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -649,13 +649,13 @@
           "feedback": "Esta es la constante del denominador, no su derivada."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "2",
           "is_correct": true,
           "feedback": "Correcto. La derivada de $2x+7$ es 2. Podemos multiplicar y dividir por 2 para completar la integral."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "1/2",
           "is_correct": false,
           "feedback": "Esta es la constante que quedará fuera de la integral tras el ajuste."
@@ -667,7 +667,7 @@
           "feedback": "No se pueden introducir variables fuera de la integral para ajustar el numerador."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El ajuste de constantes es una técnica vital: \"lo que falta multiplicando dentro, sale dividiendo fuera\". Esto permite transformar muchas integrales en formas estándar.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -778,13 +778,13 @@
       "context": "Un estudiante de 2º de Bachillerato se enfrenta a la integral $\\int \\text{tg}(x) \\, dx$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Es de tipo arco tangente, resultado $\\arctan(x) + C$.",
           "is_correct": false,
           "feedback": "La tangente no integra como arco tangente."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Es de tipo logarítmico, resultado $-\\ln|\\cos(x)| + C$.",
           "is_correct": true,
           "feedback": "Correcto. $\\int \\frac{\\text{sen}(x)}{\\cos(x)} dx$. La derivada del denominador es $-\\text{sen}(x)$, por lo que ajustamos el signo."
@@ -802,7 +802,7 @@
           "feedback": "Sí la tiene y es logarítmica."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Muchas integrales trigonométricas se resuelven transformándolas en sus componentes básicas (seno y coseno) para identificar estructuras de derivación compuesta.\n\n---",
       "difficulty": "10",
       "images": [],

@@ -19,13 +19,13 @@
           "feedback": "Incorrect for questions."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "if",
           "is_correct": true,
           "feedback": "Correct. 'If' or 'whether' is used to report yes/no questions."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "what",
           "is_correct": false,
           "feedback": "Incorrect meaning."
@@ -37,7 +37,7 @@
           "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "In Reported Speech, yes/no questions are introduced with 'if' or 'whether'.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -59,13 +59,13 @@
       "context": "Reporting a formal request.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "meeting",
           "is_correct": false,
           "feedback": "Incorrect."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "to meet",
           "is_correct": true,
           "feedback": "Correct. Reported commands/requests use 'to + infinitive'."
@@ -83,7 +83,7 @@
           "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Reported commands, requests, and instructions use the structure: reporting verb + object + (not) to + infinitive.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -105,19 +105,19 @@
       "context": "Reporting a classmate's inquiry.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "whether",
           "is_correct": true,
           "feedback": "Correct. Introduces a yes/no reported question."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "where",
           "is_correct": false,
           "feedback": "Incorrect meaning."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "that",
           "is_correct": false,
           "feedback": "Incorrect."
@@ -129,7 +129,7 @@
           "feedback": "Incorrect reported question structure."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "'Whether' is a more formal alternative to 'if' in reported questions.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -157,13 +157,13 @@
           "feedback": "Incorrect backshifting."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "whether / were going",
           "is_correct": true,
           "feedback": "Correct. Backshift from 'are going' to 'were going'."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "that / will",
           "is_correct": false,
           "feedback": "Incorrect for questions."
@@ -175,7 +175,7 @@
           "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Backshifting is required in reported questions when the reporting verb is in the past (inquired).\n\n---",
       "difficulty": "6",
       "images": [],
@@ -203,25 +203,25 @@
           "feedback": "Incorrect reported syntax."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "not to share",
           "is_correct": true,
           "feedback": "Correct negative reported command."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "that we not share",
           "is_correct": false,
           "feedback": "Possible but B is more standard."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "to not share",
           "is_correct": false,
           "feedback": "'Not to' is preferred over 'to not'."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Negative commands are reported using 'not to + infinitive'.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "A delegate asking for clarification.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "if / would review",
           "is_correct": false,
           "feedback": "Possible, but B is more precise for completion."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "whether / would have reviewed",
           "is_correct": true,
           "feedback": "Correct. Backshift from future perfect 'will have reviewed'."
@@ -313,7 +313,7 @@
           "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "B2 complexity: Reporting questions that involve future completion (Future Perfect).\n\n---",
       "difficulty": "8",
       "images": [],
@@ -341,13 +341,13 @@
           "feedback": "Incorrect."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "to learn",
           "is_correct": true,
           "feedback": "Correct. 'Advise' + object + to-infinitive."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "that they learn",
           "is_correct": false,
           "feedback": "Also possible, but B is standard for advice-as-command."
@@ -359,7 +359,7 @@
           "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Using 'advise' as a reporting verb for a recommendation/command structure.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -387,13 +387,13 @@
           "feedback": "Possible, but B is more likely for a past-to-present evaluation."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "how / had evaluated",
           "is_correct": true,
           "feedback": "Correct. Backshift from past simple or present perfect."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "what / evaluates",
           "is_correct": false,
           "feedback": "Incorrect backshifting."
@@ -405,7 +405,7 @@
           "feedback": "Missing the 'how' context."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Using 'wanted to know' as a reporting verb for complex informational questions.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -427,13 +427,13 @@
       "context": "A sophisticated reporting of a request.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "be / were",
           "is_correct": true,
           "feedback": "Correct. Subjunctive 'be' after 'request' + backshifted 'were'."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "is / are",
           "is_correct": false,
           "feedback": "Incorrect."
@@ -451,7 +451,7 @@
           "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Advanced B2 structure: Reporting a request using the subjunctive 'be' after 'request that'.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -473,13 +473,13 @@
       "context": "Reporting a question about future possibilities.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "what / will take",
           "is_correct": false,
           "feedback": "Incorrect backshifting."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "whether / was going to take",
           "is_correct": true,
           "feedback": "Correct. Backshift of 'is going to'."
@@ -497,7 +497,7 @@
           "feedback": "Incorrect for questions."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Evaluating the reporting of intentions and future plans in a social context.\n\n---",
       "difficulty": "10",
       "images": [],

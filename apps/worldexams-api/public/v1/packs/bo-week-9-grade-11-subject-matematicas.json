@@ -13,19 +13,19 @@
       "context": "En Santa Cruz, Roxana del Colegio Nacional Santa Cruz analiza el comportamiento lineal de los costos de producción textil.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "f(x) = mx + n",
           "is_correct": true,
           "feedback": "¡Correcto! Esta es la ecuación de la recta en su forma pendiente-intersección con el eje y."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "f(x) = ax^2 + bx + c",
           "is_correct": false,
           "feedback": "Incorrecto. Esta es la expresión general de una función cuadrática de segundo grado."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "f(x) = m/x + n",
           "is_correct": false,
           "feedback": "Incorrecto. Esta es una función racional, no lineal o afín."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Esta es una función exponencial de base constante, no una recta afín."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La representación explícita de cualquier función afín en el plano cartesiano es f(x) = mx + n, donde m es la pendiente y n es la ordenada en el origen.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -58,13 +58,13 @@
       "context": "En Cochabamba, Jhonny del Colegio Nacional Sucre analiza el comportamiento lineal de los costos de producción textil.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Es estrictamente decreciente.",
           "is_correct": true,
           "feedback": "¡Correcto! Al ser la pendiente negativa (m < 0), la función lineal disminuye de manera constante a medida que x se desplaza a la derecha."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Es estrictamente creciente.",
           "is_correct": false,
           "feedback": "Incorrecto. Para ser creciente, la pendiente m debe ser estrictamente positiva (m > 0)."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. Las líneas verticales no representan funciones en el sentido de mapeo real de valores."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El signo de la pendiente m indica el comportamiento del crecimiento de la función. Si m < 0, la función afín es estrictamente decreciente en todo su dominio real.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,19 +148,19 @@
       "context": "En Sucre, Walter del Colegio Nacional Junín analiza el comportamiento lineal de los costos de producción textil.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "28 BOB (Bs)",
           "is_correct": true,
           "feedback": "¡Correcto! Evaluando de forma correcta la función de costo para los kilómetros indicados."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "20 BOB (Bs)",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste sumarle la constante de costo fijo inicial de viaje."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "8 BOB (Bs)",
           "is_correct": false,
           "feedback": "Incorrecto. Solo calculaste la cuota fija, sin considerar la distancia recorrida."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. Error al aplicar la tasa por kilómetro en la función lineal o afín."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Se sustituye x = 5 en la función afín de costo: C(5) = 4*(5) + 8 = 20 + 8 = 28 BOB (Bs).\n\n---",
       "difficulty": "4",
       "images": [],
@@ -238,31 +238,31 @@
       "context": "En Oruro, Ramiro del Colegio Nacional Potosí analiza el comportamiento lineal de los costos de producción textil.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "42 BOB (Bs)",
           "is_correct": true,
           "feedback": "¡Correcto! Evaluando de forma correcta la función de costo para los kilómetros indicados."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "30 BOB (Bs)",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste sumarle la constante de costo fijo inicial de viaje."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "12 BOB (Bs)",
           "is_correct": false,
           "feedback": "Incorrecto. Solo calculaste la cuota fija, sin considerar la distancia recorrida."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "60 BOB (Bs)",
           "is_correct": false,
           "feedback": "Incorrecto. Error al aplicar la tasa por kilómetro en la función lineal o afín."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Se sustituye x = 5 en la función afín de costo: C(5) = 6*(5) + 12 = 30 + 12 = 42 BOB (Bs).\n\n---",
       "difficulty": "4",
       "images": [],
@@ -283,19 +283,19 @@
       "context": "En Potosí, Yolanda del Colegio Nacional San Luis analiza el comportamiento lineal de los costos de producción textil.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "49 BOB (Bs)",
           "is_correct": true,
           "feedback": "¡Correcto! Evaluando de forma correcta la función de costo para los kilómetros indicados."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "35 BOB (Bs)",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste sumarle la constante de costo fijo inicial de viaje."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "14 BOB (Bs)",
           "is_correct": false,
           "feedback": "Incorrecto. Solo calculaste la cuota fija, sin considerar la distancia recorrida."
@@ -307,7 +307,7 @@
           "feedback": "Incorrecto. Error al aplicar la tasa por kilómetro en la función lineal o afín."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Se sustituye x = 5 en la función afín de costo: C(5) = 7*(5) + 14 = 35 + 14 = 49 BOB (Bs).\n\n---",
       "difficulty": "4",
       "images": [],
@@ -373,19 +373,19 @@
       "context": "En Trinidad, Marcela del Colegio Nacional Cobija analiza el comportamiento lineal de los costos de producción textil.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "63 BOB (Bs)",
           "is_correct": true,
           "feedback": "¡Correcto! Evaluando de forma correcta la función de costo para los kilómetros indicados."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "45 BOB (Bs)",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste sumarle la constante de costo fijo inicial de viaje."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "18 BOB (Bs)",
           "is_correct": false,
           "feedback": "Incorrecto. Solo calculaste la cuota fija, sin considerar la distancia recorrida."
@@ -397,7 +397,7 @@
           "feedback": "Incorrecto. Error al aplicar la tasa por kilómetro en la función lineal o afín."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Se sustituye x = 5 en la función afín de costo: C(5) = 9*(5) + 18 = 45 + 18 = 63 BOB (Bs).\n\n---",
       "difficulty": "4",
       "images": [],
@@ -418,13 +418,13 @@
       "context": "En La Paz, Grover del Colegio Nacional Ayacucho analiza el comportamiento lineal de los costos de producción textil.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "70 BOB (Bs)",
           "is_correct": true,
           "feedback": "¡Correcto! Evaluando de forma correcta la función de costo para los kilómetros indicados."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "50 BOB (Bs)",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste sumarle la constante de costo fijo inicial de viaje."
@@ -442,7 +442,7 @@
           "feedback": "Incorrecto. Error al aplicar la tasa por kilómetro en la función lineal o afín."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Se sustituye x = 5 en la función afín de costo: C(5) = 10*(5) + 20 = 50 + 20 = 70 BOB (Bs).\n\n---",
       "difficulty": "4",
       "images": [],
@@ -463,13 +463,13 @@
       "context": "En Santa Cruz, Roxana del Colegio Nacional Santa Cruz analiza el comportamiento lineal de los costos de producción textil.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "77 BOB (Bs)",
           "is_correct": true,
           "feedback": "¡Correcto! Evaluando de forma correcta la función de costo para los kilómetros indicados."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "55 BOB (Bs)",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste sumarle la constante de costo fijo inicial de viaje."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto. Error al aplicar la tasa por kilómetro en la función lineal o afín."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Se sustituye x = 5 en la función afín de costo: C(5) = 11*(5) + 22 = 55 + 22 = 77 BOB (Bs).\n\n---",
       "difficulty": "8",
       "images": [],
@@ -508,19 +508,19 @@
       "context": "En Cochabamba, Jhonny del Colegio Nacional Sucre analiza el comportamiento lineal de los costos de producción textil.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "84 BOB (Bs)",
           "is_correct": true,
           "feedback": "¡Correcto! Evaluando de forma correcta la función de costo para los kilómetros indicados."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "60 BOB (Bs)",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste sumarle la constante de costo fijo inicial de viaje."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "24 BOB (Bs)",
           "is_correct": false,
           "feedback": "Incorrecto. Solo calculaste la cuota fija, sin considerar la distancia recorrida."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. Error al aplicar la tasa por kilómetro en la función lineal o afín."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Se sustituye x = 5 en la función afín de costo: C(5) = 12*(5) + 24 = 60 + 24 = 84 BOB (Bs).\n\n---",
       "difficulty": "8",
       "images": [],
@@ -553,31 +553,31 @@
       "context": "En El Alto, Marisol del Colegio Nacional El Alto analiza el comportamiento lineal de los costos de producción textil.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "91 BOB (Bs)",
           "is_correct": true,
           "feedback": "¡Correcto! Evaluando de forma correcta la función de costo para los kilómetros indicados."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "65 BOB (Bs)",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste sumarle la constante de costo fijo inicial de viaje."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "26 BOB (Bs)",
           "is_correct": false,
           "feedback": "Incorrecto. Solo calculaste la cuota fija, sin considerar la distancia recorrida."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "130 BOB (Bs)",
           "is_correct": false,
           "feedback": "Incorrecto. Error al aplicar la tasa por kilómetro en la función lineal o afín."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Se sustituye x = 5 en la función afín de costo: C(5) = 13*(5) + 26 = 65 + 26 = 91 BOB (Bs).\n\n---",
       "difficulty": "8",
       "images": [],
@@ -598,13 +598,13 @@
       "context": "En Sucre, Walter del Colegio Nacional Junín analiza el comportamiento lineal de los costos de producción textil.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "98 BOB (Bs)",
           "is_correct": true,
           "feedback": "¡Correcto! Evaluando de forma correcta la función de costo para los kilómetros indicados."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "70 BOB (Bs)",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste sumarle la constante de costo fijo inicial de viaje."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. Error al aplicar la tasa por kilómetro en la función lineal o afín."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Se sustituye x = 5 en la función afín de costo: C(5) = 14*(5) + 28 = 70 + 28 = 98 BOB (Bs).\n\n---",
       "difficulty": "8",
       "images": [],
@@ -643,19 +643,19 @@
       "context": "En Tarija, Sonia del Colegio Nacional Bolivar analiza el comportamiento lineal de los costos de producción textil.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "105 BOB (Bs)",
           "is_correct": true,
           "feedback": "¡Correcto! Evaluando de forma correcta la función de costo para los kilómetros indicados."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "75 BOB (Bs)",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste sumarle la constante de costo fijo inicial de viaje."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "30 BOB (Bs)",
           "is_correct": false,
           "feedback": "Incorrecto. Solo calculaste la cuota fija, sin considerar la distancia recorrida."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. Error al aplicar la tasa por kilómetro en la función lineal o afín."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Se sustituye x = 5 en la función afín de costo: C(5) = 15*(5) + 30 = 75 + 30 = 105 BOB (Bs).\n\n---",
       "difficulty": "8",
       "images": [],
@@ -688,31 +688,31 @@
       "context": "En Oruro, Ramiro del Colegio Nacional Potosí analiza el comportamiento lineal de los costos de producción textil.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "112 BOB (Bs)",
           "is_correct": true,
           "feedback": "¡Correcto! Evaluando de forma correcta la función de costo para los kilómetros indicados."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "80 BOB (Bs)",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste sumarle la constante de costo fijo inicial de viaje."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "32 BOB (Bs)",
           "is_correct": false,
           "feedback": "Incorrecto. Solo calculaste la cuota fija, sin considerar la distancia recorrida."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "160 BOB (Bs)",
           "is_correct": false,
           "feedback": "Incorrecto. Error al aplicar la tasa por kilómetro en la función lineal o afín."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Se sustituye x = 5 en la función afín de costo: C(5) = 16*(5) + 32 = 80 + 32 = 112 BOB (Bs).\n\n---",
       "difficulty": "8",
       "images": [],
@@ -778,13 +778,13 @@
       "context": "En Cobija, Jaime del Colegio Nacional Trinidad analiza el comportamiento lineal de los costos de producción textil.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "126 BOB (Bs)",
           "is_correct": true,
           "feedback": "¡Correcto! Evaluando de forma correcta la función de costo para los kilómetros indicados."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "90 BOB (Bs)",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste sumarle la constante de costo fijo inicial de viaje."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. Error al aplicar la tasa por kilómetro en la función lineal o afín."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Se sustituye x = 5 en la función afín de costo: C(5) = 18*(5) + 36 = 90 + 36 = 126 BOB (Bs).\n\n---",
       "difficulty": "10",
       "images": [],
@@ -823,19 +823,19 @@
       "context": "En Trinidad, Marcela del Colegio Nacional Cobija analiza el comportamiento lineal de los costos de producción textil.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "133 BOB (Bs)",
           "is_correct": true,
           "feedback": "¡Correcto! Evaluando de forma correcta la función de costo para los kilómetros indicados."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "95 BOB (Bs)",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste sumarle la constante de costo fijo inicial de viaje."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "38 BOB (Bs)",
           "is_correct": false,
           "feedback": "Incorrecto. Solo calculaste la cuota fija, sin considerar la distancia recorrida."
@@ -847,7 +847,7 @@
           "feedback": "Incorrecto. Error al aplicar la tasa por kilómetro en la función lineal o afín."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Se sustituye x = 5 en la función afín de costo: C(5) = 19*(5) + 38 = 95 + 38 = 133 BOB (Bs).\n\n---",
       "difficulty": "10",
       "images": [],
@@ -868,19 +868,19 @@
       "context": "En La Paz, Grover del Colegio Nacional Ayacucho analiza el comportamiento lineal de los costos de producción textil.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "140 BOB (Bs)",
           "is_correct": true,
           "feedback": "¡Correcto! Evaluando de forma correcta la función de costo para los kilómetros indicados."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "100 BOB (Bs)",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste sumarle la constante de costo fijo inicial de viaje."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "40 BOB (Bs)",
           "is_correct": false,
           "feedback": "Incorrecto. Solo calculaste la cuota fija, sin considerar la distancia recorrida."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. Error al aplicar la tasa por kilómetro en la función lineal o afín."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Se sustituye x = 5 en la función afín de costo: C(5) = 20*(5) + 40 = 100 + 40 = 140 BOB (Bs).\n\n---",
       "difficulty": "10",
       "images": [],

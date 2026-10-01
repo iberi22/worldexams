@@ -19,25 +19,25 @@
           "feedback": "Esa descripción corresponde a Rutherford-Bohr."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Una esfera positiva uniforme con electrones incrustados (modelo del pudín).",
           "is_correct": true,
           "feedback": "Thomson imaginó una \"masa positiva\" con electrones inmersos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Una nube difusa de protones solamente.",
           "is_correct": false,
           "feedback": "No incluía electrones en su esquema."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Un conglomerado de quarks aislados.",
           "is_correct": false,
           "feedback": "Los quarks son partículas aún más fundamentales."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El modelo del pudín de pasas de Thomson fue reemplazado por el experimento de Rutherford de la lámina de oro.",
       "difficulty": "4",
       "images": [],
@@ -105,13 +105,13 @@
       "context": "En un taller en Cali, se estudia el modelo de Bohr.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Cualquier órbita continua permitida.",
           "is_correct": false,
           "feedback": "Bohr postuló que las órbitas son discretas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Órbitas estacionarias con niveles de energía cuantizados.",
           "is_correct": true,
           "feedback": "Los saltos entre niveles emiten o absorben fotones."
@@ -129,7 +129,7 @@
           "feedback": "Existen estados excitados también."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El modelo de Bohr introduce la cuantización de la energía electrónica.",
       "difficulty": "4",
       "images": [],
@@ -151,19 +151,19 @@
       "context": "En clase en Barranquilla, se habla sobre números cuánticos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "El nivel de energía o capa principal del electrón.",
           "is_correct": true,
           "feedback": "n = 1, 2, 3... define la capa."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La forma del orbital.",
           "is_correct": false,
           "feedback": "La forma la determina l."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La orientación espacial.",
           "is_correct": false,
           "feedback": "Eso es m_l."
@@ -175,7 +175,7 @@
           "feedback": "El espín lo determina m_s."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Los cuatro números cuánticos (n, l, m_l, m_s) describen completamente el estado de un electrón en un átomo.",
       "difficulty": "4",
       "images": [],
@@ -203,25 +203,25 @@
           "feedback": "Cálculo con orden de magnitud errado."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "7.28 × 10⁻¹⁰ m.",
           "is_correct": true,
           "feedback": "λ = h/(m·v) = 6.63e-34/(9.11e-31·1e6) ≈ 7.28 × 10⁻¹⁰ m."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "7.28 × 10⁻⁷ m.",
           "is_correct": false,
           "feedback": "Excediste tres órdenes de magnitud."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "7.28 × 10⁻¹³ m.",
           "is_correct": false,
           "feedback": "Subestimaste tres órdenes de magnitud."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La hipótesis de De Broglie λ = h/p asigna propiedades ondulatorias a partículas con momento p.",
       "difficulty": "6",
       "images": [],
@@ -249,13 +249,13 @@
           "feedback": "Heisenberg prohíbe incertidumbre nula."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "≈ 5.27 × 10⁻²⁵ kg·m/s (usando Δx·Δp ≥ ℏ/2).",
           "is_correct": true,
           "feedback": "Δp ≥ ℏ/(2·Δx) ≈ 5.27 × 10⁻²⁵ kg·m/s."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "5.27 × 10⁻²⁵ m/s.",
           "is_correct": false,
           "feedback": "La unidad debe ser kg·m/s, no m/s."
@@ -267,7 +267,7 @@
           "feedback": "Exceso de orden de magnitud."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El principio de incertidumbre establece un límite fundamental a la precisión simultánea de posición y momento.",
       "difficulty": "6",
       "images": [],
@@ -335,13 +335,13 @@
       "context": "En clase en Santa Marta, se compara fisión y fusión.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La fisión divide núcleos pesados; la fusión une núcleos ligeros.",
           "is_correct": true,
           "feedback": "Procesos opuestos pero ambos liberan energía."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La fisión ocurre en el Sol; la fusión en reactores terrestres.",
           "is_correct": false,
           "feedback": "Es al revés en general."
@@ -359,7 +359,7 @@
           "feedback": "Son procesos distintos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Fisión y fusión son reacciones nucleares con diferencias fundamentales en reactivos, productos y condiciones.",
       "difficulty": "6",
       "images": [],
@@ -387,13 +387,13 @@
           "feedback": "Equivale a 1 vida media."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "1/4.",
           "is_correct": false,
           "feedback": "Equivale a 2 vidas medias."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "1/8.",
           "is_correct": true,
           "feedback": "17 190/5730 ≈ 3; queda (1/2)³ = 1/8."
@@ -405,7 +405,7 @@
           "feedback": "Sería 4 vidas medias."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "La datación por carbono-14 se basa en la ley exponencial de desintegración radiactiva.",
       "difficulty": "6",
       "images": [],
@@ -479,13 +479,13 @@
           "feedback": "El experimento trata cuantización energética."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "La cuantización de los niveles de energía en los átomos de mercurio.",
           "is_correct": true,
           "feedback": "Los electrones pierden energía solo en paquetes discretos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La relatividad general.",
           "is_correct": false,
           "feedback": "No es el ámbito del experimento."
@@ -497,7 +497,7 @@
           "feedback": "No se relaciona con el experimento."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El experimento demostró que los átomos absorben energía solo en cantidades discretas.",
       "difficulty": "8",
       "images": [],
@@ -519,13 +519,13 @@
       "context": "En clase en Neiva, se discute la desintegración alfa.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Z disminuye en 2 y A en 4.",
           "is_correct": true,
           "feedback": "La partícula alfa es ⁴He²⁺."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Z aumenta en 2 y A en 4.",
           "is_correct": false,
           "feedback": "La emisión alfa reduce Z."
@@ -543,7 +543,7 @@
           "feedback": "Eso corresponde a desintegración beta."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La emisión alfa reduce simultáneamente Z en 2 unidades y A en 4 unidades.",
       "difficulty": "8",
       "images": [],
@@ -565,13 +565,13 @@
       "context": "En Tunja, se analiza el modelo estándar de partículas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Forman parte de los electrones.",
           "is_correct": false,
           "feedback": "Los electrones son leptones, no quarks."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Se combinan en grupos de dos o tres para formar hadrones como protones y neutrones.",
           "is_correct": true,
           "feedback": "Los hadrones incluyen bariones (3 quarks) y mesones (par quark-antiquark)."
@@ -589,7 +589,7 @@
           "feedback": "El fotón media el electromagnetismo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El modelo estándar clasifica las partículas fundamentales en quarks y leptones, mediadas por bosones de gauge.",
       "difficulty": "8",
       "images": [],
@@ -663,25 +663,25 @@
           "feedback": "Pauli prohíbe eso."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Dos electrones en el mismo átomo no pueden tener idénticos los cuatro números cuánticos.",
           "is_correct": true,
           "feedback": "Cada electrón debe tener un conjunto único."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Los protones se repelen mutuamente.",
           "is_correct": false,
           "feedback": "Es otra interacción."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Los fotones carecen de momento.",
           "is_correct": false,
           "feedback": "Los fotones sí tienen momento p = h/λ."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El principio de Pauli explica la estructura electrónica y la estabilidad de la materia.",
       "difficulty": "8",
       "images": [],
@@ -709,13 +709,13 @@
           "feedback": "Es una partícula del modelo estándar, no exclusiva de una interacción."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "El mecanismo que otorga masa a las partículas fundamentales mediante su interacción con el campo de Higgs.",
           "is_correct": true,
           "feedback": "El campo de Higgs llena el espacio y genera masa por interacción."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La ausencia total de masa.",
           "is_correct": false,
           "feedback": "Su rol es conferir masa."
@@ -727,7 +727,7 @@
           "feedback": "No es su función principal."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El bosón de Higgs fue detectado en el CERN en 2012, confirmando el mecanismo que explica la masa de las partículas.",
       "difficulty": "8",
       "images": [],
@@ -801,13 +801,13 @@
           "feedback": "La PET usa positrones, no rayos X clásicos."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Trazadores radiactivos emisores de positrones que al aniquilarse emiten rayos gamma detectados.",
           "is_correct": true,
           "feedback": "La aniquilación positrón-electrón produce dos fotones gamma."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Campos magnéticos intensos como la resonancia magnética.",
           "is_correct": false,
           "feedback": "La MRI usa campos magnéticos; la PET es diferente."
@@ -819,7 +819,7 @@
           "feedback": "No utiliza ultrasonido."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La PET permite visualizar procesos metabólicos mediante trazadores como la fluorodesoxiglucosa (¹⁸F).",
       "difficulty": "10",
       "images": [],
@@ -847,25 +847,25 @@
           "feedback": "El objetivo es minimizar el daño colateral."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "El ADN de las células tumorales, impidiendo su división.",
           "is_correct": true,
           "feedback": "La radiación ionizante rompe enlaces y bloquea la mitosis."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El sistema nervioso periférico.",
           "is_correct": false,
           "feedback": "No es el blanco."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Los glóbulos rojos exclusivamente.",
           "is_correct": false,
           "feedback": "La radioterapia no es selectiva hacia eritrocitos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La radioterapia usa haces calibrados para maximizar daño al tumor y proteger tejido sano.",
       "difficulty": "10",
       "images": [],
@@ -893,25 +893,25 @@
           "feedback": "La física moderna surgió donde la clásica fallaba."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Establecer que la energía y la materia están cuantizadas y son interconvertibles.",
           "is_correct": true,
           "feedback": "La dualidad onda-partícula y E = mc² redefinen la realidad."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Eliminar el concepto de partícula.",
           "is_correct": false,
           "feedback": "Las partículas siguen siendo centrales."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Negar la existencia del átomo.",
           "is_correct": false,
           "feedback": "El átomo es ahora mejor comprendido."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La física moderna amplió la comprensión de la materia, la energía y las interacciones fundamentales.",
       "difficulty": "10",
       "images": [],

@@ -19,25 +19,25 @@
           "feedback": "Incorrect. This is for superlatives."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "-er",
           "is_correct": true,
           "feedback": "Correct! We add -er to short adjectives for comparisons."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "-ing",
           "is_correct": false,
           "feedback": "Incorrect. This is for continuous tenses."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "-ed",
           "is_correct": false,
           "feedback": "Incorrect. This is for past tense."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "The student identifies the basic morphological rule for short comparative adjectives.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -59,13 +59,13 @@
       "context": "Using \"more\" with long adjectives.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Very",
           "is_correct": false,
           "feedback": "Incorrect. This just intensifies the adjective."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "More",
           "is_correct": true,
           "feedback": "Correct! We use \"more\" for adjectives with two or more syllables."
@@ -83,7 +83,7 @@
           "feedback": "Incorrect. This is the comparative of \"good\"."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "The student remembers the rule for comparing using long adjectives.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -111,25 +111,25 @@
           "feedback": "Incorrect. \"Cold\" is a short adjective, so it needs -er."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "colder",
           "is_correct": true,
           "feedback": "Correct! Comparative form of a short adjective."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "coldest",
           "is_correct": false,
           "feedback": "Incorrect. This is the superlative."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "as cold",
           "is_correct": false,
           "feedback": "Incorrect. Missing the second \"as\" and \"than\" is already present."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "The student understands the application of the comparative rule to a specific short adjective in a geographical context.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -157,25 +157,25 @@
           "feedback": "Incorrect. This shows superiority."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "as...as",
           "is_correct": true,
           "feedback": "Correct! This structure expresses equality (e.g., as tall as)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "er...than",
           "is_correct": false,
           "feedback": "Incorrect. This shows superiority."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "most...of",
           "is_correct": false,
           "feedback": "Incorrect. This is for superlatives."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "The student understands the structural difference between comparisons of superiority and equality.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -197,19 +197,19 @@
       "context": "Comparing irregular adjectives.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "more good",
           "is_correct": false,
           "feedback": "Incorrect. \"Good\" is an irregular adjective."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "gooder",
           "is_correct": false,
           "feedback": "Incorrect. \"Good\" is irregular."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "better",
           "is_correct": true,
           "feedback": "Correct! \"Better\" is the irregular comparative of \"good\"."
@@ -221,7 +221,7 @@
           "feedback": "Incorrect. This is the superlative."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "The student applies the irregular comparative form for the adjective \"good\".\n\n---",
       "difficulty": "6",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "Using a long adjective in a classroom context.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "difficulter",
           "is_correct": false,
           "feedback": "Incorrect. Adjectives with 3 syllables don't take -er."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "more difficult",
           "is_correct": true,
           "feedback": "Correct! \"Difficult\" is a long adjective, so it needs \"more\"."
@@ -313,7 +313,7 @@
           "feedback": "Incorrect. This is the superlative form."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "(Manual fix for option letter out of order)\nThe student applies the comparative rule for long adjectives in a school-related context.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -335,13 +335,13 @@
       "context": "Analyzing spelling rules for short adjectives.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "My dog is biger than your cat.",
           "is_correct": false,
           "feedback": "Incorrect. \"Big\" is CVC, so double the 'g'."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "My dog is bigger than your cat.",
           "is_correct": true,
           "feedback": "Correct! CVC adjectives double the last consonant before -er."
@@ -359,7 +359,7 @@
           "feedback": "Incorrect. This is the superlative suffix."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "The student analyzes the spelling rules (doubling consonants) for short comparative adjectives with a CVC pattern.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -381,13 +381,13 @@
       "context": "Comparing two people based on a description.\n\n\"Mateo is 14 years old and loves reading. Luis is 14 years old and loves sports. Mateo is as old as Luis, but Luis is more active.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Luis is older than Mateo.",
           "is_correct": false,
           "feedback": "Incorrect. They are both 14."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Mateo and Luis have the same age.",
           "is_correct": true,
           "feedback": "Correct! The text says \"Mateo is as old as Luis\"."
@@ -405,7 +405,7 @@
           "feedback": "Incorrect. Luis loves sports, Mateo loves reading (usually quieter)."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "The student analyzes a text using both equality and superiority comparisons to identify a factual conclusion.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -427,13 +427,13 @@
       "context": "Evaluating a marketing claim.\n\n\"Product X is cheaper than Product Y, but Product Y is more durable and as easy to use as Product X.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Product X",
           "is_correct": false,
           "feedback": "Incorrect. It is cheaper, but not as durable."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Product Y",
           "is_correct": true,
           "feedback": "Correct! It is \"more durable\" (long-lasting) and \"as easy to use\"."
@@ -451,7 +451,7 @@
           "feedback": "Incorrect. The text says they are both easy to use."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "The student evaluates a set of comparative and equality claims to make a decision based on specific priorities.",
       "difficulty": "10",
       "images": [],

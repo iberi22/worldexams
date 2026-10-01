@@ -59,13 +59,13 @@
       "context": "Lee: \"El Carnaval de Barranquilla es una fiesta tradicional que fue declarada Patrimonio Cultural Inmaterial de la Humanidad.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Porque reúne música, danzas y tradiciones que identifican a la región Caribe.",
           "is_correct": true,
           "feedback": "El Carnaval expresa la identidad cultural del Caribe colombiano a través de sus expresiones."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque se celebra de la misma manera en todos los países del mundo.",
           "is_correct": false,
           "feedback": "El Carnaval tiene características propias de Barranquilla y la región Caribe."
@@ -83,7 +83,7 @@
           "feedback": "El Carnaval se celebra en fechas determinadas, no durante todo el año."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Comprender por qué las fiestas tradicionales expresan la identidad cultural de una región.",
       "difficulty": "4",
       "images": [],
@@ -105,13 +105,13 @@
       "context": "En el Eje Cafetero, una familia recoge café y explica a los visitantes cómo se cultiva y se prepara.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Es un producto que representa el trabajo del campo y es reconocido en el mundo como símbolo de Colombia.",
           "is_correct": true,
           "feedback": "El café encarna la cultura campesina y la imagen de Colombia ante el mundo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Es un producto que solo se consume en otros países.",
           "is_correct": false,
           "feedback": "El café se cultiva y se consume también en Colombia, donde hace parte de la vida diaria."
@@ -129,7 +129,7 @@
           "feedback": "El café es una bebida y un cultivo, no un adorno."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Aplicar el concepto de identidad cultural al reconocer el valor del café en Colombia.",
       "difficulty": "6",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "Un grupo de estudiantes de Cartagena visita el centro histórico y observa que algunas paredes antiguas están rayadas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Cuidar los monumentos, no rayarlos y enseñar a otros a respetarlos.",
           "is_correct": true,
           "feedback": "Conservar los bienes patrimoniales es una responsabilidad compartida por toda la comunidad."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Rayar las paredes para dejar la propia firma.",
           "is_correct": false,
           "feedback": "Rayar los monumentos los deteriora y borra parte de la historia."
@@ -221,7 +221,7 @@
           "feedback": "Ignorar el deterioro permite que el patrimonio se pierda."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Aplicar acciones de cuidado y respeto hacia el patrimonio cultural en la vida cotidiana.",
       "difficulty": "6",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "Compara: \"El sombrero vueltiao es una artesanía que se puede tocar y llevar puesta. La cumbia es una música que se escucha y se baila, pero no se puede tocar.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El material está formado por objetos y lugares; el inmaterial por prácticas, música y tradiciones.",
           "is_correct": true,
           "feedback": "El patrimonio material es tangible y el inmaterial vive en las prácticas culturales."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El material solo existe en los museos y el inmaterial no existe.",
           "is_correct": false,
           "feedback": "El patrimonio material está también en las calles y las casas, y el inmaterial existe en las tradiciones."
@@ -267,7 +267,7 @@
           "feedback": "Es al contrario: lo material se puede tocar y lo inmaterial se expresa mediante prácticas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Analizar las diferencias entre el patrimonio cultural material e inmaterial.",
       "difficulty": "8",
       "images": [],
@@ -289,19 +289,19 @@
       "context": "Lee: \"Algunas lenguas y tradiciones indígenas de Colombia han ido desapareciendo porque cada vez son menos las personas que las hablan y las enseñan.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Se pierden conocimientos, historias y formas de ver el mundo que hacen parte del patrimonio cultural.",
           "is_correct": true,
           "feedback": "Cada lengua guarda saberes y visiones únicas que se pierden con ella."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Aumenta el número de tradiciones que se conservan.",
           "is_correct": false,
           "feedback": "La desaparición de una lengua reduce, no aumenta, el patrimonio conservado."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "No tiene ninguna consecuencia para el país.",
           "is_correct": false,
           "feedback": "La pérdida de una lengua afecta la diversidad y la memoria cultural del país."
@@ -313,7 +313,7 @@
           "feedback": "Las costumbres no se recuperan solas; requieren esfuerzo de conservación."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Analizar las consecuencias de la pérdida de lenguas y tradiciones indígenas para el patrimonio cultural.",
       "difficulty": "8",
       "images": [],
@@ -335,13 +335,13 @@
       "context": "Lee: \"Colombia es un país pluricultural y multilingüe: en su territorio conviven pueblos indígenas, afrocolombianos, raizales, gitanos y campesinos, con tradiciones que enriquecen la identidad nacional.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Porque fortalece la identidad, el respeto entre los pueblos y conserva las tradiciones para las futuras generaciones.",
           "is_correct": true,
           "feedback": "La diversidad cultural es una riqueza que une al país y debe protegerse para el futuro."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque una sola cultura debe imponerse sobre todas las demás.",
           "is_correct": false,
           "feedback": "Imponer una cultura sobre otras niega la pluralidad y vulnera la identidad de los pueblos."
@@ -359,7 +359,7 @@
           "feedback": "Valorar la diversidad busca conservar las tradiciones, no hacerlas desaparecer."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Evaluar la importancia de proteger la diversidad cultural como base de la identidad colombiana.",
       "difficulty": "10",
       "images": [],

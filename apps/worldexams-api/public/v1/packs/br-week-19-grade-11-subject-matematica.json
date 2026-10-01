@@ -154,25 +154,25 @@
           "feedback": "Incorreto: as probabilidades estão invertidas."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "0 e 1",
           "is_correct": true,
           "feedback": "Correto: evento impossível tem probabilidade 0 e evento certo tem probabilidade 1."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "0,5 e 0,5",
           "is_correct": false,
           "feedback": "Incorreto: 0,5 corresponde a um evento com metade dos casos favoráveis."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "0 e 0",
           "is_correct": false,
           "feedback": "Incorreto: um evento certo certamente ocorre e tem probabilidade 1."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "A probabilidade varia de 0 (evento impossível) a 1 (evento certo). Um evento com P = 0,5 ocorre em metade dos casos possíveis.",
       "difficulty": "4",
       "images": [],
@@ -193,13 +193,13 @@
       "context": "Um estudante em Salvador analisa o lançamento de um dado honesto.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "1/3",
           "is_correct": false,
           "feedback": "Incorreto: 1/3 seria a probabilidade de sair um número específico como o 2."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "1/2",
           "is_correct": true,
           "feedback": "Correto: há 3 números pares (2, 4, 6) entre 6 resultados: 3/6 = 1/2."
@@ -217,7 +217,7 @@
           "feedback": "Incorreto: 1/6 é a probabilidade de um resultado específico."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Os números pares são 2, 4 e 6, totalizando 3 casos favoráveis em 6 possíveis: P = 3/6 = 1/2.",
       "difficulty": "6",
       "images": [],
@@ -334,25 +334,25 @@
           "feedback": "Incorreto: 3/10 é a probabilidade de sortear uma bola azul."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "4/5",
           "is_correct": true,
           "feedback": "Correto: são 16 bolas azuis ou vermelhas entre 20: 16/20 = 4/5."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "1/2",
           "is_correct": false,
           "feedback": "Incorreto: 1/2 seria a probabilidade de sortear uma bola vermelha."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "1/5",
           "is_correct": false,
           "feedback": "Incorreto: 1/5 é a probabilidade de sortear uma bola verde."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Os eventos são mutuamente exclusivos: P(azul ou vermelha) = P(azul) + P(vermelha) = 6/20 + 10/20 = 16/20 = 4/5.",
       "difficulty": "6",
       "images": [],
@@ -463,19 +463,19 @@
       "context": "Um analista em Florianópolis usa dados de uma pesquisa de mercado em uma tabela.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "0,75",
           "is_correct": true,
           "feedback": "Correto: restringe-se aos 60 compradores: 45/60 = 0,75 = 3/4."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "0,225",
           "is_correct": false,
           "feedback": "Incorreto: 0,225 resultaria de dividir 45 por 200, ignorando a condição de ter comprado."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "0,30",
           "is_correct": false,
           "feedback": "Incorreto: 0,30 é a probabilidade de comprar na loja."
@@ -487,7 +487,7 @@
           "feedback": "Incorreto: 0,60 seria a razão entre 45 e 75, sem correspondência com os dados."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "A condição reduz o espaço amostral aos 60 clientes que compraram. Entre eles, 45 pagaram com cartão: P(cartão | comprou) = 45/60 = 0,75.",
       "difficulty": "8",
       "images": [],
@@ -514,13 +514,13 @@
           "feedback": "Incorreto: 0,9 é a soma das probabilidades, que valeria para eventos mutuamente exclusivos na união."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "0,2",
           "is_correct": true,
           "feedback": "Correto: para eventos independentes, P(A ∩ B) = P(A) × P(B) = 0,4 × 0,5 = 0,2."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "0,45",
           "is_correct": false,
           "feedback": "Incorreto: 0,45 é a média aritmética das duas probabilidades."
@@ -532,7 +532,7 @@
           "feedback": "Incorreto: 0,1 seria a diferença entre as probabilidades."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Para eventos independentes, a probabilidade da intersecção é o produto das probabilidades: P(A ∩ B) = 0,4 × 0,5 = 0,2.",
       "difficulty": "8",
       "images": [],
@@ -553,13 +553,13 @@
       "context": "Um estudante em Campinas calcula a probabilidade da união de dois eventos com intersecção não vazia.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "0,9",
           "is_correct": false,
           "feedback": "Incorreto: 0,9 seria a soma sem descontar a intersecção, que foi contada duas vezes."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "0,7",
           "is_correct": true,
           "feedback": "Correto: P(A ∪ B) = 0,5 + 0,4 − 0,2 = 0,7."
@@ -577,7 +577,7 @@
           "feedback": "Incorreto: 0,2 é a probabilidade da intersecção dos eventos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Pela regra da inclusão-exclusão: P(A ∪ B) = P(A) + P(B) − P(A ∩ B) = 0,5 + 0,4 − 0,2 = 0,7.",
       "difficulty": "8",
       "images": [],
@@ -598,13 +598,13 @@
       "context": "Um jornalista em Natal analisa uma pesquisa de torcida realizada com 100 pessoas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "0,25",
           "is_correct": false,
           "feedback": "Incorreto: 0,25 seria a fração de mulheres que torcem para X em relação ao total de 100."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "0,625",
           "is_correct": true,
           "feedback": "Correto: restringe-se às 40 que torcem para X: 25/40 = 0,625 = 5/8."
@@ -622,7 +622,7 @@
           "feedback": "Incorreto: 0,65 não corresponde a nenhuma razão direta dos dados apresentados."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "A condição fixa o grupo das 40 pessoas que torcem para o time X. Entre elas, 25 são mulheres: P(mulher | torce X) = 25/40 = 0,625.",
       "difficulty": "8",
       "images": [],
@@ -649,25 +649,25 @@
           "feedback": "Incorreto: 4/25 = (4/10)² seria o resultado se houvesse reposição."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "2/15",
           "is_correct": true,
           "feedback": "Correto: P = (4/10) × (3/9) = 12/90 = 2/15."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "3/25",
           "is_correct": false,
           "feedback": "Incorreto: 3/25 resultaria de (4/10) × (3/10), misturando os dois casos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "1/5",
           "is_correct": false,
           "feedback": "Incorreto: 1/5 é a probabilidade de retirar uma única bola vermelha em um segundo sorteio com reposição."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Sem reposição, a segunda retirada depende da primeira: P = (4/10) × (3/9) = 12/90 = 2/15 ≈ 0,133.",
       "difficulty": "8",
       "images": [],
@@ -733,13 +733,13 @@
       "context": "Um médico em Belo Horizonte avalia a confiabilidade de um teste de diagnóstico.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "90%",
           "is_correct": false,
           "feedback": "Incorreto: 90% é a sensibilidade do teste, não a probabilidade pedida."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "1/12, aproximadamente 8,3%",
           "is_correct": true,
           "feedback": "Correto: P = 0,01·0,9 / (0,01·0,9 + 0,99·0,1) = 0,009/0,108 = 1/12."
@@ -757,7 +757,7 @@
           "feedback": "Incorreto: 1% é a prevalência da doença na população."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Aplicando o teorema de Bayes: P(doente | positivo) = (0,01 × 0,9) / (0,01 × 0,9 + 0,99 × 0,1) = 0,009/0,108 = 1/12 ≈ 8,3%. Mesmo com teste positivo, a maioria dos casos é de falso positivo.",
       "difficulty": "10",
       "images": [],
@@ -823,13 +823,13 @@
       "context": "Um engenheiro de produção em Campinas analisa defeitos por linha de montagem.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "5%",
           "is_correct": true,
           "feedback": "Correto: restringe-se às 100 peças da linha 1: 5/100 = 5%."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "7,5%",
           "is_correct": false,
           "feedback": "Incorreto: 7,5% é a proporção de defeituosas no total das 200 peças (15/200)."
@@ -847,7 +847,7 @@
           "feedback": "Incorreto: 15% seria 15 defeituosas sobre 100, usando o denominador errado."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "A condição \"sorteada da linha 1\" reduz o espaço amostral às 100 peças dessa linha. Entre elas, 5 são defeituosas: P(defeito | linha 1) = 5/100 = 5%.",
       "difficulty": "10",
       "images": [],

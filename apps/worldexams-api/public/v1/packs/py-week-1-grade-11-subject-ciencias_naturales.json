@@ -58,13 +58,13 @@
       "context": "Durante una actividad de laboratorio en el Colegio Nacional Ortiz Guerrero de Villarrica, Jorge y su grupo investigan sobre Método científico e investigación.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La formulación de una hipótesis",
           "is_correct": true,
           "feedback": "¡Correcto! Una hipótesis es una explicación o respuesta provisional que se somete a contrastación mediante la experimentación."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La observación cualitativa",
           "is_correct": false,
           "feedback": "Incorrecto. La observación es el registro de hechos sin plantear explicaciones directas."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. Este es el paso final de difusión de los resultados obtenidos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La hipótesis científica debe ser clara, predictiva y susceptible de ser sometida a prueba (falsabilidad) mediante experimentos.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -103,31 +103,31 @@
       "context": "Durante una actividad de laboratorio en el Colegio Nacional Encarnación de Encarnación, Benjamín y su grupo investigan sobre Método científico e investigación.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "La reproducibilidad",
           "is_correct": true,
           "feedback": "¡Correcto! La reproducibilidad es la capacidad de que un experimento o estudio sea replicado por otros investigadores obteniendo resultados consistentes."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La subjetividad analítica",
           "is_correct": false,
           "feedback": "Incorrecto. La ciencia busca la objetividad, reduciendo al mínimo la subjetividad individual."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La refutabilidad absoluta",
           "is_correct": false,
           "feedback": "Incorrecto. La refutabilidad significa que una teoría puede ser desmentida si se encuentra evidencia en contra, no que deba dar el mismo resultado."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La aleatoriedad estadística",
           "is_correct": false,
           "feedback": "Incorrecto. La aleatoriedad se refiere a la selección de muestras, no a la consistencia de los resultados en réplicas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La reproducibilidad y la repetibilidad son pilares fundamentales del método científico moderno, lo que permite que el conocimiento sea verificado de manera independiente.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,13 +148,13 @@
       "context": "Durante una actividad de laboratorio en el Colegio Nacional San Lorenzo de San Lorenzo, Benjamín y su grupo investigan sobre Método científico e investigación.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Datos cualitativos",
           "is_correct": true,
           "feedback": "¡Correcto! Los datos cualitativos describen cualidades, características o propiedades que no se miden fácilmente de manera numérica."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Datos cuantitativos discretos",
           "is_correct": false,
           "feedback": "Incorrecto. Los datos cuantitativos se expresan mediante números o conteos exactos."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. El sesgo es un error sistemático; los datos cualitativos pueden ser perfectamente objetivos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Los datos cualitativos capturan propiedades no numéricas, mientras que los cuantitativos se basan en mediciones directas.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -193,13 +193,13 @@
       "context": "Durante una actividad de laboratorio en el Colegio Nacional de Pilar de Pilar, Liz y su grupo investigan sobre Método científico e investigación.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Datos cuantitativos continuos",
           "is_correct": true,
           "feedback": "¡Correcto! El pH es una variable continua que puede tomar cualquier valor numérico dentro de un intervalo específico."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Datos cualitativos ordinales",
           "is_correct": false,
           "feedback": "Incorrecto. Los datos cuantitativos de pH son mediciones directas, no cualidades ordenadas jerárquicamente."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. Hace referencia a un método científico y no a un tipo específico de medición o dato recolectado."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Las variables cuantitativas continuas pueden adoptar valores decimales intermedios dentro de un rango determinado, lo que permite análisis estadísticos precisos.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -238,13 +238,13 @@
       "context": "Durante una actividad de laboratorio en el Colegio Nacional Ortiz Guerrero de Villarrica, Ramón y su grupo investigan sobre Método científico e investigación.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La tasa de crecimiento de las plantas varía significativamente según la longitud de onda de la luz recibida",
           "is_correct": true,
           "feedback": "¡Correcto! Esta hipótesis propone una relación clara y medible entre la variable independiente (longitud de onda/color de luz) y la dependiente (crecimiento)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Las plantas prefieren la luz roja porque es más cálida y agradable para su fotosíntesis",
           "is_correct": false,
           "feedback": "Incorrecto. Introduce términos subjetivos y no medibles como 'prefieren' o 'agradable'."
@@ -262,7 +262,7 @@
           "feedback": "Incorrecto. Es una afirmación extrema que no responde directamente a la tasa de crecimiento diferencial observada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Una hipótesis científica válida debe establecer una relación de causalidad lógica y contrastable entre variables bien definidas.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -283,19 +283,19 @@
       "context": "Durante una actividad de laboratorio en el Colegio Nacional de Pilar de Pilar, Jorge y su grupo investigan sobre Método científico e investigación.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Para permitir que otros investigadores repliquen el experimento y validen los resultados",
           "is_correct": true,
           "feedback": "¡Correcto! La transparencia metodológica es el pilar de la replicabilidad y reproducibilidad científica."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Para registrar patentes de manera exclusiva e impedir la divulgación pública del conocimiento",
           "is_correct": false,
           "feedback": "Incorrecto. La ciencia abierta promueve la divulgación, y el registro de patentes sigue un proceso legal diferente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Para demostrar que el experimento no tiene ningún margen de error o incertidumbre experimental",
           "is_correct": false,
           "feedback": "Incorrecto. Toda medición tiene incertidumbre; detallar el método ayuda a evaluar y comprender esos errores, no a eliminarlos."
@@ -307,7 +307,7 @@
           "feedback": "Incorrecto. La metodología describe la realización práctica del ensayo, no el análisis matemático subsiguiente."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La validez del conocimiento científico reposa en la capacidad de la comunidad de comprobar y repetir los experimentos bajo las mismas directrices.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -373,13 +373,13 @@
       "context": "Durante una actividad de laboratorio en el Colegio Nacional de Pilar de Pilar, María y su grupo investigan sobre Método científico e investigación.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Investigación bibliográfica y observación previa del fenómeno",
           "is_correct": true,
           "feedback": "¡Correcto! Una hipótesis bien fundamentada requiere el análisis de la literatura científica existente y observaciones preliminares del objeto de estudio."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Publicación de los resultados de campo en un boletín técnico",
           "is_correct": false,
           "feedback": "Incorrecto. La publicación es la etapa final de todo el proceso investigativo, no la fase inicial."
@@ -397,7 +397,7 @@
           "feedback": "Incorrecto. No se pueden redactar conclusiones antes de diseñar el experimento."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La ciencia se construye de manera acumulativa; por ende, documentarse sobre investigaciones previas es crucial para delimitar el problema de investigación.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -418,19 +418,19 @@
       "context": "Durante una actividad de laboratorio en el Colegio Nacional San Lorenzo de San Lorenzo, Sebastián y su grupo investigan sobre Método científico e investigación.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Variables de control",
           "is_correct": true,
           "feedback": "¡Correcto! Las variables de control se mantienen constantes para asegurar que los cambios observados se deban únicamente al fertilizante (variable independiente)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Variables dependientes",
           "is_correct": false,
           "feedback": "Incorrecto. La variable dependiente es el rendimiento del cultivo que se medirá al final."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Variables aleatorias",
           "is_correct": false,
           "feedback": "Incorrecto. Las variables de control no son aleatorias, se seleccionan y regulan de manera estricta."
@@ -442,7 +442,7 @@
           "feedback": "Incorrecto. No representa una categoría del diseño experimental de manipulación y control."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Controlar las variables intervinientes es vital para garantizar la validez interna de cualquier experimento científico.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -463,19 +463,19 @@
       "context": "Durante una actividad de laboratorio en el Colegio Nacional de Pilar de Pilar, Valentina y su grupo investigan sobre Método científico e investigación.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Rechazar o reformular la hipótesis original y diseñar un nuevo experimento para contrastar la nueva propuesta",
           "is_correct": true,
           "feedback": "¡Correcto! En ciencia, la contradicción empírica obliga a desechar o modificar la hipótesis, pues la evidencia experimental prima sobre la suposición teórica."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Modificar de forma discreta los datos recolectados para que se ajusten perfectamente a la hipótesis formulada",
           "is_correct": false,
           "feedback": "Incorrecto. La alteración de datos constituye fraude científico y viola los principios éticos de la investigación."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ignorar por completo los resultados contradictorios y proceder a la publicación del informe original",
           "is_correct": false,
           "feedback": "Incorrecto. Omitir resultados inconvenientes sesga el conocimiento y conduce a conclusiones falsas."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto. Los experimentos que refutan hipótesis son valiosísimos porque abren nuevas preguntas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La refutabilidad es una característica esencial de la ciencia; el rechazo de una hipótesis es un paso normal y saludable en el progreso del conocimiento.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -508,19 +508,19 @@
       "context": "Durante una actividad de laboratorio en el Colegio Nacional Encarnación de Encarnación, Joaquín y su grupo investigan sobre Método científico e investigación.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Grupo o control de referencia",
           "is_correct": true,
           "feedback": "¡Correcto! La muestra aguas arriba representa el estado natural del arroyo antes de recibir la influencia del contaminante, sirviendo como grupo control."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Variable independiente del modelo",
           "is_correct": false,
           "feedback": "Incorrecto. La variable independiente es la presencia del efluente, no la muestra de agua pura."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Variable de confusión ambiental",
           "is_correct": false,
           "feedback": "Incorrecto. Se diseña de este modo para neutralizar las variables del arroyo y comparar bajo las mismas condiciones."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. La hipótesis nula es un planteamiento estadístico, no una muestra física de agua."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El uso de controles adecuados permite aislar el efecto de la variable que se desea estudiar de otros factores ambientales intervinientes.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -553,13 +553,13 @@
       "context": "Durante una actividad de laboratorio en el Colegio Nacional Encarnación de Encarnación, María y su grupo investigan sobre Método científico e investigación.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La pérdida de masa de los clavos metálicos",
           "is_correct": true,
           "feedback": "¡Correcto! La pérdida de masa es la variable dependiente medida que responde al tipo de metal expuesto."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El tipo de metal de los clavos",
           "is_correct": false,
           "feedback": "Incorrecto. El metal es la variable independiente que el investigador varía de forma voluntaria."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. El tiempo es un parámetro del diseño que se mantiene fijo para todas las muestras."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La variable dependiente es el efecto que se mide en respuesta a la variación controlada de la variable independiente.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -598,31 +598,31 @@
       "context": "Durante una actividad de laboratorio en el Colegio Nacional de la Capital de Asunción, Martina y su grupo investigan sobre Método científico e investigación.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Falta de validez estadística y representatividad debido al tamaño muestral insuficiente y la ausencia de réplicas",
           "is_correct": true,
           "feedback": "¡Correcto! Sin réplicas ni un tamaño de muestra representativo, es imposible descartar el efecto del azar y generalizar las conclusiones."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Uso de variables cualitativas continuas",
           "is_correct": false,
           "feedback": "Incorrecto. El problema no radica en el tipo de variables, sino en el diseño del muestreo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Violación de la hipótesis de la teoría celular",
           "is_correct": false,
           "feedback": "Incorrecto. El tamaño de muestra en experimentación no guarda relación con los principios de la teoría celular."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Uso exclusivo del método inductivo inverso",
           "is_correct": false,
           "feedback": "Incorrecto. El método inductivo es válido en ciencia, pero requiere de observaciones múltiples y rigurosas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La robustez estadística mediante la repetición del experimento y el uso de un tamaño de muestra adecuado es esencial para extraer conclusiones confiables.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -688,13 +688,13 @@
       "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Raúl Peña de Caacupé, Florencia y su grupo investigan sobre Método científico e investigación.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Garantizar el rigor metodológico, la veracidad y la calidad de la investigación antes de su publicación oficial",
           "is_correct": true,
           "feedback": "¡Correcto! La revisión por pares es un filtro de control de calidad para evitar la propagación de metodologías defectuosas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Determinar el precio comercial de venta al público de la revista científica",
           "is_correct": false,
           "feedback": "Incorrecto. Los revisores evalúan la calidad científica del manuscrito, no los aspectos comerciales."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. Es un proceso de evaluación intelectual realizado por expertos de la misma área temática."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El progreso de la ciencia descansa en la autocrítica y la revisión colectiva por parte de pares académicos expertos en la materia.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -733,13 +733,13 @@
       "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Pedro P. Peña de Coronel Oviedo, Joaquín y su grupo investigan sobre Método científico e investigación.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La ley describe un patrón natural constante bajo ciertas condiciones, mientras que la teoría es una explicación amplia y sustentada de por qué ocurren esos patrones",
           "is_correct": true,
           "feedback": "¡Correcto! Las leyes describen 'cómo' se comporta la naturaleza (a menudo mediante fórmulas), mientras que las teorías explican 'por qué' se comporta de ese modo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La teoría es una simple suposición sin comprobar, mientras que la ley es una verdad absoluta que ha sido probada al 100%",
           "is_correct": false,
           "feedback": "Incorrecto. Las teorías científicas (como la teoría celular o de la evolución) están respaldadas por un volumen inmenso de evidencia experimental."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. Ambas categorías de conocimiento científico utilizan métodos inductivos, deductivos y análisis cuantitativo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Las teorías y las leyes son componentes complementarios del cuerpo científico. Ninguna es superior a la otra; ambas requieren una rigurosa confirmación empírica.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -778,31 +778,31 @@
       "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Raúl Peña de Caacupé, Benjamín y su grupo investigan sobre Método científico e investigación.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Para eliminar el sesgo psicológico y las expectativas subjetivas tanto de los investigadores como de los participantes",
           "is_correct": true,
           "feedback": "¡Correcto! El diseño de doble ciego minimiza el efecto placebo y los sesgos de observación que podrían distorsionar los datos de eficacia real."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Para reducir los costos logísticos asociados al etiquetado de los medicamentos",
           "is_correct": false,
           "feedback": "Incorrecto. Este diseño es técnicamente más complejo y costoso, pero asegura la objetividad médica."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Para cumplir con la legislación de patentes intelectuales de fármacos",
           "is_correct": false,
           "feedback": "Incorrecto. El doble ciego es una exigencia metodológica y científica, no una regla de patentes."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Para asegurar que todos los participantes experimenten los mismos efectos secundarios graves",
           "is_correct": false,
           "feedback": "Incorrecto. No busca inducir efectos secundarios, sino evaluar con objetividad la eficacia."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El control de sesgos subjetivos es fundamental en las ciencias de la salud para diferenciar los efectos fisiológicos reales de las influencias psicológicas.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -823,31 +823,31 @@
       "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Raúl Peña de Caacupé, Sofía y su grupo investigan sobre Método científico e investigación.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "El modelo tiene límites de aplicabilidad y debe ser revisado para incorporar nuevas variables ecológicas intervinientes",
           "is_correct": true,
           "feedback": "¡Correcto! Los modelos son simplificaciones de la realidad; cuando la realidad se vuelve más compleja, el modelo debe actualizarse o delimitarse su rango de predicción."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El modelo debe ser desechado por completo como una herramienta inútil",
           "is_correct": false,
           "feedback": "Incorrecto. El modelo sigue siendo útil para predecir el comportamiento térmico básico en condiciones iniciales."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Se debe forzar la eliminación de la especie invasora para que la realidad se adapte al modelo",
           "is_correct": false,
           "feedback": "Incorrecto. La ciencia modela la realidad natural, no altera la naturaleza para forzar la validez de un modelo teórico."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Las leyes de la ecología de poblaciones han dejado de tener validez universal",
           "is_correct": false,
           "feedback": "Incorrecto. Las leyes ecológicas siguen operando; es el modelo particular el que carece de variables suficientes."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Los modelos científicos son herramientas predictivas útiles y dinámicas que están sujetas a refinamiento constante a medida que aumenta la complejidad del sistema.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -868,19 +868,19 @@
       "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Pedro P. Peña de Coronel Oviedo, Mateo y su grupo investigan sobre Método científico e investigación.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Porque establece que para que una hipótesis sea científica, debe existir la posibilidad de concebir observaciones o experimentos que demuestren su falsedad si realmente lo fuera",
           "is_correct": true,
           "feedback": "¡Correcto! Si una afirmación no puede ser puesta a prueba de ninguna manera imaginable para ser refutada, entonces no pertenece al campo de la ciencia empírica."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque demuestra que todas las teorías científicas vigentes en la actualidad son falsas",
           "is_correct": false,
           "feedback": "Incorrecto. La falsabilidad indica que son susceptibles de ser refutadas ante nueva evidencia, no que sean falsas de por sí."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque obliga a que los científicos realicen únicamente experimentos destinados a sabotear el trabajo de otros",
           "is_correct": false,
           "feedback": "Incorrecto. Promueve el rigor metodológico y la búsqueda honesta de la verdad, no el sabotaje."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. Se aplica a todas las ciencias empíricas (física, química, biología, geología), no solo a la lógica matemática pura."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El criterio de demarcación de Popper ayuda a separar las ciencias empíricas de las pseudociencias y los sistemas dogmáticos de creencias que no admiten refutación empírica.",
       "difficulty": "10",
       "images": [],

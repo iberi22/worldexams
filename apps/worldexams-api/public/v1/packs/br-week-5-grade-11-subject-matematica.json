@@ -64,25 +64,25 @@
           "feedback": "Para a função ser crescente, a base 'a' deve ser maior que 1."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "A função é decrescente.",
           "is_correct": true,
           "feedback": "Correto. Quando a base é uma fração própria, multiplicar repetidamente diminui o valor final."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "A função é uma reta horizontal.",
           "is_correct": false,
           "feedback": "Isso ocorreria apenas se a base fosse exatamente 1."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "A função passa a ter raízes negativas.",
           "is_correct": false,
           "feedback": "Funções exponenciais simples não possuem raízes (não cruzam o eixo x)."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "O valor da base $a$ determina o comportamento da função: se $a > 1$, os valores de $y$ aumentam conforme $x$ aumenta (crescente); se $0 < a < 1$, os valores de $y$ diminuem conforme $x$ aumenta (decrescente).",
       "difficulty": "4",
       "images": [],
@@ -109,25 +109,25 @@
           "feedback": "Erro comum de multiplicar a base pelo expoente (2 * 3)."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "8",
           "is_correct": true,
           "feedback": "2³ = 2 * 2 * 2 = 8."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "9",
           "is_correct": false,
           "feedback": "9 seria 3², confundindo a base com o expoente."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "5",
           "is_correct": false,
           "feedback": "Erro de somar a base com o expoente."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Avaliar uma função exponencial consiste em elevar a base ao valor de $x$ indicado. No caso, $f(3) = 2^3 = 2 \\cdot 2 \\cdot 2 = 8$.",
       "difficulty": "4",
       "images": [],
@@ -205,19 +205,19 @@
           "feedback": "Expoentes negativos não tornam o resultado da potência negativo."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "9",
           "is_correct": true,
           "feedback": "(1/3)⁻² = 3² = 9."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "-6",
           "is_correct": false,
           "feedback": "Erro grosseiro de operação aritmética."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Um expoente negativo inverte a base da potência. Assim, $(\\frac{1}{3})^{-2} = (3)^2$. Elevando 3 ao quadrado, obtemos 9.",
       "difficulty": "6",
       "images": [],
@@ -283,13 +283,13 @@
       "context": "Um técnico em Salvador analisa o crescimento de uma cultura de algas marinhas cuja população $P$ em gramas é dada por $P(t) = 10 \\cdot 2^t$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "16 horas",
           "is_correct": false,
           "feedback": "P(16) seria um valor extremamente alto (10 * 65536)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "4 horas",
           "is_correct": true,
           "feedback": "160 = 10 * 2^t => 16 = 2^t => 2⁴ = 2^t => t = 4."
@@ -307,7 +307,7 @@
           "feedback": "P(5) = 10 * 32 = 320."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Igualamos a função ao valor desejado: $160 = 10 \\cdot 2^t$. Dividindo por 10: $16 = 2^t$. Como $16 = 2^4$, temos que $t = 4$ horas.",
       "difficulty": "6",
       "images": [],
@@ -328,13 +328,13 @@
       "context": "Em um laboratório de informática em Porto Alegre, estuda-se o poder de processamento que dobra a cada 18 meses (Lei de Moore).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x = 3$",
           "is_correct": false,
           "feedback": "9³ = 729."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 1,5$",
           "is_correct": true,
           "feedback": "(3²) ^ x = 3³ => 3^(2x) = 3³ => 2x = 3 => x = 1,5."
@@ -352,7 +352,7 @@
           "feedback": "9^(0,5) = √9 = 3."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Para resolver equações exponenciais, devemos igualar as bases. Como $9 = 3^2$ e $27 = 3^3$, temos $(3^2)^x = 3^3 \\Rightarrow 3^{2x} = 3^3$. Igualando os expoentes: $2x = 3 \\Rightarrow x = 1,5$ ou $3/2$.",
       "difficulty": "6",
       "images": [],
@@ -373,13 +373,13 @@
       "context": "Um geógrafo em Recife analisa a redução da área de uma floresta nativa que perde 10\\% de seu tamanho a cada década.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "80\\%",
           "is_correct": false,
           "feedback": "Este seria o resultado se a perda fosse de 10% do original a cada vez (juros simples)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "81\\%",
           "is_correct": true,
           "feedback": "(0,9)² = 0,81 = 81%."
@@ -397,7 +397,7 @@
           "feedback": "Erro no cálculo da potência."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Calculamos o fator de redução após 2 períodos: $(0,9)^2 = 0,9 \\cdot 0,9 = 0,81$. Multiplicando por 100 para obter a porcentagem, temos 81\\% da área original.",
       "difficulty": "6",
       "images": [],
@@ -469,13 +469,13 @@
           "feedback": "Esta seria a resposta para a função 2^x sem o termo constante +3."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Assíntota $y = 3$ e intercepto $(0, 4)$.",
           "is_correct": true,
           "feedback": "A função é transladada 3 unidades para cima. f(0) = 2^0 + 3 = 4."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Assíntota $y = 3$ e intercepto $(0, 3)$.",
           "is_correct": false,
           "feedback": "f(0) resulta em 4, não 3."
@@ -487,7 +487,7 @@
           "feedback": "Translação incorreta."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "A função $a^x$ tem assíntota em $y=0$. Ao somar 3, todo o gráfico sobe 3 unidades, movendo a assíntota para $y=3$. O intercepto $y$ original era 1, somando 3, torna-se 4.",
       "difficulty": "8",
       "images": [],
@@ -514,25 +514,25 @@
           "feedback": "Cuidado: ao lidar com bases entre 0 e 1, a ordem da desigualdade se inverte ao comparar expoentes."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$x > 3$",
           "is_correct": true,
           "feedback": "(1/2)^x < (1/2)³. Como a base é menor que 1, x deve ser maior que 3."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x > 4$",
           "is_correct": false,
           "feedback": "O valor comparativo correto é 3, pois 2³ = 8."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$x < -3$",
           "is_correct": false,
           "feedback": "Incorreto."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Escrevemos ambos os lados na mesma base: $(\\frac{1}{2})^x < (\\frac{1}{2})^3$. Como a base $1/2$ está entre 0 e 1, a função é decrescente. Isso significa que, para o valor da função ser menor, o expoente deve ser maior: $x > 3$.",
       "difficulty": "8",
       "images": [],
@@ -643,19 +643,19 @@
       "context": "Um analista financeiro em São Paulo utiliza a constante de Euler ($e \\approx 2,718$) para calcular juros compostos continuamente.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "É uma função quadrática.",
           "is_correct": false,
           "feedback": "A inversa de uma exponencial nunca é uma potência."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "É a função $f(x) = x^e$.",
           "is_correct": false,
           "feedback": "Esta é uma função potência."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "É o logaritmo natural, $\\ln(x)$.",
           "is_correct": true,
           "feedback": "Correto. O logaritmo de base 'e' é a operação inversa da exponencial de base 'e'."
@@ -667,7 +667,7 @@
           "feedback": "Esta é a função e⁻x, não a inversa f⁻¹(x)."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Por definição, a função logarítmica é a inversa da função exponencial. Quando a base é o número irracional $e$, chamamos o logaritmo de natural ou neperiano, denotado por $\\ln(x)$.",
       "difficulty": "8",
       "images": [],
@@ -739,25 +739,25 @@
           "feedback": "Estes são os valores de y = 2^x, mas precisamos achar o valor de x."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$x = 1$ e $x = 2$",
           "is_correct": true,
           "feedback": "Fazendo y = 2^x, temos y² - 6y + 8 = 0. Raízes y=2 e y=4. Então 2^x=2 (x=1) e 2^x=4 (x=2)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = 1$ e $x = 3$",
           "is_correct": false,
           "feedback": "Testando na equação original não satisfaz a igualdade."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Não possui solução real.",
           "is_correct": false,
           "feedback": "A equação possui duas soluções reais distintas."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Substituímos $y = 2^x$, transformando a equação em uma quadrática: $y^2 - 6y + 8 = 0$. As raízes são $y = 2$ e $y = 4$. Retornando para $x$: $2^x = 2 \\Rightarrow x = 1$; $2^x = 4 \\Rightarrow x = 2$.",
       "difficulty": "10",
       "images": [],
@@ -778,13 +778,13 @@
       "context": "Durante uma competição de matemática, avalia-se a profundidade do conhecimento sobre o comportamento assintótico de funções compostas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Máximo 2 em $x = 1$.",
           "is_correct": false,
           "feedback": "f(1) = 2⁻¹ = 0,5."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Máximo 1 em $x = 0$.",
           "is_correct": true,
           "feedback": "x² é sempre ≥ 0, logo -x² é sempre ≤ 0. O valor máximo de 2^(-x²) ocorre quando o expoente é máximo (0). 2⁰ = 1."
@@ -802,7 +802,7 @@
           "feedback": "0 é o limite inferior (assíntota), não o máximo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "A base é maior que 1, então a função cresce com o aumento do expoente. O expoente é $-x^2$. O maior valor que $-x^2$ pode assumir é 0 (quando $x=0$). Logo, o valor máximo da função é $2^0 = 1$.",
       "difficulty": "10",
       "images": [],
@@ -829,13 +829,13 @@
           "feedback": "Esta é apenas uma parte da solução."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$x < -3$",
           "is_correct": false,
           "feedback": "Esta é apenas uma parte da solução."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x < -3$ ou $x > 2$",
           "is_correct": true,
           "feedback": "2^(x²-4) > 2^{-(x-2)} => x² - 4 > -x + 2 => x² + x - 6 > 0. Raízes -3 e 2. Parábola para cima, positiva fora das raízes."
@@ -847,7 +847,7 @@
           "feedback": "Este é o intervalo onde a expressão quadrática é negativa."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Colocamos na base 2: $2^{x^2 - 4} > 2^{-(x-2)}$. Como a base é maior que 1, mantemos a desigualdade: $x^2 - 4 > -x + 2 \\Rightarrow x^2 + x - 6 > 0$. As raízes da equação quadrática são $-3$ e $2$. Como queremos valores maiores que zero, a solução está fora do intervalo das raízes.",
       "difficulty": "10",
       "images": [],
@@ -868,13 +868,13 @@
       "context": "Em um exame de alto nível para ingressar no ITA, avalia-se a capacidade de manipulação algébrica de potências compostas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "25",
           "is_correct": false,
           "feedback": "Erro ao elevar cada termo individualmente sem considerar o termo médio do quadrado do binômio."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "23",
           "is_correct": true,
           "feedback": "(3^x + 3⁻x)² = 5² => (3^x)² + 2(3^x)(3⁻x) + (3⁻x)² = 25 => 9^x + 2 + 9⁻x = 25 => 9^x + 9⁻x = 23."
@@ -892,7 +892,7 @@
           "feedback": "Erro na aplicação das propriedades de potências."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Elevamos ambos os lados da equação original ao quadrado: $(3^x + 3^{-x})^2 = 5^2$. Desenvolvendo o produto notável: $(3^x)^2 + 2 \\cdot 3^x \\cdot 3^{-x} + (3^{-x})^2 = 25$. Como $3^x \\cdot 3^{-x} = 3^0 = 1$, temos $9^x + 2 + 9^{-x} = 25$. Portanto, $9^x + 9^{-x} = 23$.",
       "difficulty": "10",
       "images": [],
@@ -913,13 +913,13 @@
       "context": "Um estudante em São Paulo está aprendendo as bases das funções que descrevem fenômenos de crescimento rápido, como populações ou juros compostos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$f(x) = x^a$",
           "is_correct": false,
           "feedback": "Esta é uma função potência, onde a variável está na base, não no expoente."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$f(x) = a^x$, com $a > 0$ e $a \\neq 1$",
           "is_correct": true,
           "feedback": "Correto. Na função exponencial, a variável independente x encontra-se no expoente."
@@ -937,7 +937,7 @@
           "feedback": "Esta é a função afim (do 1º grau)."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Uma função exponencial é definida pela lei $f(x) = a^x$. As restrições sobre a base ($a > 0$ e $a \\neq 1$) garantem que a função seja bem definida para todos os números reais e que não seja uma função constante.",
       "difficulty": "4",
       "images": [],
@@ -958,13 +958,13 @@
       "context": "Um biólogo em Manaus observa o crescimento de bactérias em uma placa de Petri e nota que a população dobra a cada hora.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "A função é crescente.",
           "is_correct": false,
           "feedback": "Para a função ser crescente, a base 'a' deve ser maior que 1."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "A função é decrescente.",
           "is_correct": true,
           "feedback": "Correto. Quando a base é uma fração própria, multiplicar repetidamente diminui o valor final."
@@ -982,7 +982,7 @@
           "feedback": "Funções exponenciais simples não possuem raízes (não cruzam o eixo x)."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "O valor da base $a$ determina o comportamento da função: se $a > 1$, os valores de $y$ aumentam conforme $x$ aumenta (crescente); se $0 < a < 1$, os valores de $y$ diminuem conforme $x$ aumenta (decrescente).",
       "difficulty": "4",
       "images": [],
@@ -1009,13 +1009,13 @@
           "feedback": "Erro comum de multiplicar a base pelo expoente (2 * 3)."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "8",
           "is_correct": true,
           "feedback": "2³ = 2 * 2 * 2 = 8."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "9",
           "is_correct": false,
           "feedback": "9 seria 3², confundindo a base com o expoente."
@@ -1027,7 +1027,7 @@
           "feedback": "Erro de somar a base com o expoente."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Avaliar uma função exponencial consiste em elevar a base ao valor de $x$ indicado. No caso, $f(3) = 2^3 = 2 \\cdot 2 \\cdot 2 = 8$.",
       "difficulty": "4",
       "images": [],
@@ -1048,13 +1048,13 @@
       "context": "Em um laboratorio de química em Curitiba, estuda-se a desintegração radioativa de um elemento, onde a massa cai pela metade a cada período fixo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Na origem $(0,0)$",
           "is_correct": false,
           "feedback": "O valor de a elevado a 0 nunca é 0 (para a ≠ 0)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "No ponto $(0,1)$",
           "is_correct": true,
           "feedback": "Correto. Qualquer número (diferente de zero) elevado a zero é igual a 1."
@@ -1072,7 +1072,7 @@
           "feedback": "Embora o formato da curva dependa de 'a', todas cruzam o eixo y no 1."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Como $x=0$ no eixo $y$, calculamos $f(0) = a^0$. Pela propriedade das potências, qualquer base positiva elevada a zero resulta em 1. Assim, o intercepto $y$ é sempre 1 para funções sem translação vertical.",
       "difficulty": "4",
       "images": [],
@@ -1105,19 +1105,19 @@
           "feedback": "Expoentes negativos não tornam o resultado da potência negativo."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "9",
           "is_correct": true,
           "feedback": "(1/3)⁻² = 3² = 9."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "-6",
           "is_correct": false,
           "feedback": "Erro grosseiro de operação aritmética."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Um expoente negativo inverte a base da potência. Assim, $(\\frac{1}{3})^{-2} = (3)^2$. Elevando 3 ao quadrado, obtemos 9.",
       "difficulty": "6",
       "images": [],
@@ -1273,13 +1273,13 @@
       "context": "Um geógrafo em Recife analisa a redução da área de uma floresta nativa que perde 10\\% de seu tamanho a cada década.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "80\\%",
           "is_correct": false,
           "feedback": "Este seria o resultado se a perda fosse de 10% do original a cada vez (juros simples)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "81\\%",
           "is_correct": true,
           "feedback": "(0,9)² = 0,81 = 81%."
@@ -1297,7 +1297,7 @@
           "feedback": "Erro no cálculo da potência."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Calculamos o fator de redução após 2 períodos: $(0,9)^2 = 0,9 \\cdot 0,9 = 0,81$. Multiplicando por 100 para obter a porcentagem, temos 81\\% da área original.",
       "difficulty": "6",
       "images": [],
@@ -1324,13 +1324,13 @@
           "feedback": "Se x=5, 2^(5+3) = 2⁸ = 256."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$x = 2$",
           "is_correct": true,
           "feedback": "32 = 2⁵. Logo x + 3 = 5 => x = 2."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = 1$",
           "is_correct": false,
           "feedback": "Se x=1, 2^(1+3) = 2⁴ = 16."
@@ -1342,7 +1342,7 @@
           "feedback": "Cálculo incorreto."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Expressamos 32 como uma potência de 2: $32 = 2^5$. A equação fica $2^{x+3} = 2^5$. Igualando os expoentes: $x + 3 = 5$, o que nos dá $x = 2$.",
       "difficulty": "6",
       "images": [],
@@ -1369,25 +1369,25 @@
           "feedback": "Esta seria a resposta para a função 2^x sem o termo constante +3."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Assíntota $y = 3$ e intercepto $(0, 4)$.",
           "is_correct": true,
           "feedback": "A função é transladada 3 unidades para cima. f(0) = 2^0 + 3 = 4."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Assíntota $y = 3$ e intercepto $(0, 3)$.",
           "is_correct": false,
           "feedback": "f(0) resulta em 4, não 3."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Assíntota $y = 1$ e intercepto $(0, 2)$.",
           "is_correct": false,
           "feedback": "Translação incorreta."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "A função $a^x$ tem assíntota em $y=0$. Ao somar 3, todo o gráfico sobe 3 unidades, movendo a assíntota para $y=3$. O intercepto $y$ original era 1, somando 3, torna-se 4.",
       "difficulty": "8",
       "images": [],
@@ -1459,25 +1459,25 @@
           "feedback": "f(2)=4 e g(2)=8. Não são iguais."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$x = 4$ apenas.",
           "is_correct": true,
           "feedback": "f(4) = 2⁴ = 16 e g(4) = 4 * 4 = 16."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = 0$ e $x = 4$.",
           "is_correct": false,
           "feedback": "f(0)=1 e g(0)=0. Diferentes."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$x = 2$ e $x = 4$.",
           "is_correct": false,
           "feedback": "Somente o 4 satisfaz a igualdade."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Testando os valores: para $x=4$, $2^4 = 16$ e $4 \\cdot 4 = 16$. Embora funções exponenciais cresçam muito mais rápido que lineares a longo prazo, elas podem se cruzar em pontos específicos.",
       "difficulty": "8",
       "images": [],
@@ -1504,25 +1504,25 @@
           "feedback": "Esta função assumiria que a população triplica a cada dia."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$P(n) = 100 \\cdot 3^{n/7}$",
           "is_correct": true,
           "feedback": "Correto. Quando n=7 (uma semana), o expoente é 1 e a população triplica."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$P(n) = 100 \\cdot 3^{7n}$",
           "is_correct": false,
           "feedback": "Esta função cresceria rápido demais."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$P(n) = 300n + 100$",
           "is_correct": false,
           "feedback": "Crescimento populacional biológico é geralmente exponencial, não linear."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "O fator de crescimento é 3. Como esse crescimento ocorre a cada 7 dias, o tempo $n$ deve ser dividido pelo período de 7 para que a base 3 seja elevada à potência 1 somente após uma semana completa.",
       "difficulty": "8",
       "images": [],
@@ -1543,19 +1543,19 @@
       "context": "Um analista financeiro em São Paulo utiliza a constante de Euler ($e \\approx 2,718$) para calcular juros compostos continuamente.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "É uma função quadrática.",
           "is_correct": false,
           "feedback": "A inversa de uma exponencial nunca é uma potência."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "É a função $f(x) = x^e$.",
           "is_correct": false,
           "feedback": "Esta é uma função potência."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "É o logaritmo natural, $\\ln(x)$.",
           "is_correct": true,
           "feedback": "Correto. O logaritmo de base 'e' é a operação inversa da exponencial de base 'e'."
@@ -1567,7 +1567,7 @@
           "feedback": "Esta é a função e⁻x, não a inversa f⁻¹(x)."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Por definição, a função logarítmica é a inversa da função exponencial. Quando a base é o número irracional $e$, chamamos o logaritmo de natural ou neperiano, denotado por $\\ln(x)$.",
       "difficulty": "8",
       "images": [],
@@ -1588,19 +1588,19 @@
       "context": "Um físico em São José dos Campos estuda o decaimento de uma voltagem em um capacitor, seguindo a função $V(t) = V_0 \\cdot e^{-t/RC}$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "800",
           "is_correct": false,
           "feedback": "Erro ao tratar o expoente negativo como positivo."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "33,33",
           "is_correct": false,
           "feedback": "Erro de cálculo."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "12,5",
           "is_correct": true,
           "feedback": "V(3) = 100 * 2⁻³ = 100 * (1/8) = 12,5."
@@ -1612,7 +1612,7 @@
           "feedback": "Exponenciais de base positiva nunca resultam em valores negativos."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Substituímos $t = 3$ na função: $V(3) = 100 \\cdot 2^{-3}$. Calculamos a potência: $2^{-3} = 1 / 2^3 = 1 / 8$. Multiplicando pelo valor inicial: $100 / 8 = 12,5$.",
       "difficulty": "8",
       "images": [],
@@ -1639,25 +1639,25 @@
           "feedback": "Estes são os valores de y = 2^x, mas precisamos achar o valor de x."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$x = 1$ e $x = 2$",
           "is_correct": true,
           "feedback": "Fazendo y = 2^x, temos y² - 6y + 8 = 0. Raízes y=2 e y=4. Então 2^x=2 (x=1) e 2^x=4 (x=2)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = 1$ e $x = 3$",
           "is_correct": false,
           "feedback": "Testando na equação original não satisfaz a igualdade."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Não possui solução real.",
           "is_correct": false,
           "feedback": "A equação possui duas soluções reais distintas."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Substituímos $y = 2^x$, transformando a equação em uma quadrática: $y^2 - 6y + 8 = 0$. As raízes são $y = 2$ e $y = 4$. Retornando para $x$: $2^x = 2 \\Rightarrow x = 1$; $2^x = 4 \\Rightarrow x = 2$.",
       "difficulty": "10",
       "images": [],
@@ -1678,13 +1678,13 @@
       "context": "Durante uma competição de matemática, avalia-se a profundidade do conhecimento sobre o comportamento assintótico de funções compostas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Máximo 2 em $x = 1$.",
           "is_correct": false,
           "feedback": "f(1) = 2⁻¹ = 0,5."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Máximo 1 em $x = 0$.",
           "is_correct": true,
           "feedback": "x² é sempre ≥ 0, logo -x² é sempre ≤ 0. O valor máximo de 2^(-x²) ocorre quando o expoente é máximo (0). 2⁰ = 1."
@@ -1702,7 +1702,7 @@
           "feedback": "0 é o limite inferior (assíntota), não o máximo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "A base é maior que 1, então a função cresce com o aumento do expoente. O expoente é $-x^2$. O maior valor que $-x^2$ pode assumir é 0 (quando $x=0$). Logo, o valor máximo da função é $2^0 = 1$.",
       "difficulty": "10",
       "images": [],
@@ -1735,19 +1735,19 @@
           "feedback": "Esta é apenas uma parte da solução."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "$x < -3$ ou $x > 2$",
           "is_correct": true,
           "feedback": "2^(x²-4) > 2^{-(x-2)} => x² - 4 > -x + 2 => x² + x - 6 > 0. Raízes -3 e 2. Parábola para cima, positiva fora das raízes."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$-3 < x < 2$",
           "is_correct": false,
           "feedback": "Este é o intervalo onde a expressão quadrática é negativa."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Colocamos na base 2: $2^{x^2 - 4} > 2^{-(x-2)}$. Como a base é maior que 1, mantemos a desigualdade: $x^2 - 4 > -x + 2 \\Rightarrow x^2 + x - 6 > 0$. As raízes da equação quadrática são $-3$ e $2$. Como queremos valores maiores que zero, a solução está fora do intervalo das raízes.",
       "difficulty": "10",
       "images": [],

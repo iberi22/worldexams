@@ -59,13 +59,13 @@
       "context": "Lee: \"Al quemar basura en el patio se liberan gases que ensucian el aire y afectan los pulmones.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Porque libera gases y partículas dañinas que las personas respiran.",
           "is_correct": true,
           "feedback": "La quema produce humo con partículas y gases que dañan las vías respiratorias."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque produce oxígeno limpio para el barrio.",
           "is_correct": false,
           "feedback": "La quema no produce oxígeno; consume oxígeno y libera gases contaminantes."
@@ -83,7 +83,7 @@
           "feedback": "La quema no produce abono; el abono se obtiene por compostaje, no por combustión."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Explicar cómo la quema de residuos contamina el aire y afecta la salud respiratoria.",
       "difficulty": "4",
       "images": [],
@@ -105,13 +105,13 @@
       "context": "Una familia de Pereira quiere reducir la cantidad de basura que llega al relleno sanitario.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Separar los residuos y reciclar el papel, el plástico y el vidrio.",
           "is_correct": true,
           "feedback": "Separar y reciclar permite reutilizar materiales y disminuye lo que se desecha."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Mezclar todos los residuos en una sola bolsa.",
           "is_correct": false,
           "feedback": "Mezclar impide el reciclaje y aumenta el volumen de basura que llega al relleno."
@@ -129,7 +129,7 @@
           "feedback": "Arrojar residuos al río contamina el agua y afecta a los seres vivos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Aplicar la separación y el reciclaje para reducir los residuos domésticos.",
       "difficulty": "6",
       "images": [],
@@ -151,31 +151,31 @@
       "context": "Un grupo de estudiantes de Cali encuentra aceite usado en la cocina del colegio.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Guardarlo en un recipiente y entregarlo a un punto de recolección.",
           "is_correct": true,
           "feedback": "El aceite usado se recicla en puntos especiales y así no llega a las fuentes de agua."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Verterlo por el desagüe del lavaplatos.",
           "is_correct": false,
           "feedback": "El aceite por el desagüe obstruye las tuberías y contamina ríos y quebradas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Arrojarlo al inodoro para que desaparezca.",
           "is_correct": false,
           "feedback": "El aceite no desaparece; llega a las aguas residuales y contamina el ambiente."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Quemarlo en el patio del colegio.",
           "is_correct": false,
           "feedback": "Quemar aceite libera gases tóxicos que contaminan el aire y afectan la salud."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Aplicar la disposición adecuada de residuos líquidos peligrosos para prevenir la contaminación del agua.",
       "difficulty": "6",
       "images": [],
@@ -243,19 +243,19 @@
       "context": "Compara: \"Una bolsa de plástico tirada en la calle tarda cientos de años en degradarse. Una cáscara de fruta se descompone en pocas semanas.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Los residuos plásticos permanecen mucho más tiempo en el ambiente y por eso deben reciclarse.",
           "is_correct": true,
           "feedback": "Como el plástico tarda siglos en degradarse, conviene reciclarlo para no acumular basura."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Todos los residuos se degradan al mismo tiempo.",
           "is_correct": false,
           "feedback": "La comparación muestra tiempos muy distintos; no todos se degradan igual."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Las cáscaras de fruta son las más contaminantes.",
           "is_correct": false,
           "feedback": "Las cáscaras se descomponen rápido; el plástico es el que permanece más tiempo."
@@ -267,7 +267,7 @@
           "feedback": "Los plásticos tardan cientos de años; no desaparecen en pocos días."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Analizar los tiempos de degradación de distintos residuos y su impacto en el ambiente.",
       "difficulty": "8",
       "images": [],
@@ -335,31 +335,31 @@
       "context": "Lee: 'Prevenir la contaminación cuesta menos que limpiarla después. Reducir, reutilizar y reciclar protege el agua, el aire y el suelo para las próximas generaciones.'",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Promover el reciclaje y reducir los residuos desde la escuela y la casa.",
           "is_correct": true,
           "feedback": "Reducir y reciclar desde la vida diaria previene la contaminación del agua, el aire y el suelo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Esperar a que otras personas limpien la contaminación.",
           "is_correct": false,
           "feedback": "La prevención es responsabilidad de todos; esperar no evita el daño ambiental."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Aumentar la quema de basura para reducir su volumen.",
           "is_correct": false,
           "feedback": "Quemar basura contamina el aire; no es una solución adecuada."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Usar más plásticos de un solo uso cada día.",
           "is_correct": false,
           "feedback": "Los plásticos de un solo uso aumentan la contaminación y los residuos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Evaluar acciones de prevención y reciclaje para el cuidado del ambiente en la comunidad.",
       "difficulty": "10",
       "images": [],

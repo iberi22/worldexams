@@ -59,19 +59,19 @@
       "context": "En Medellín, un médico explica que el músculo del brazo está formado por muchas células alargadas iguales que se contraen juntas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "El tejido",
           "is_correct": true,
           "feedback": "Correcto. Un tejido es un conjunto de células semejantes con una función común."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El átomo",
           "is_correct": false,
           "feedback": "Incorrecto. El átomo es un nivel químico, anterior a la célula."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El organismo",
           "is_correct": false,
           "feedback": "Incorrecto. El organismo incluye todos los niveles juntos, no solo células iguales."
@@ -83,7 +83,7 @@
           "feedback": "Incorrecto. La molécula es la unión de átomos y no tiene vida propia."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Célula, tejido, órgano, sistema y organismo forman una secuencia de complejidad creciente.",
       "difficulty": "4",
       "images": [],
@@ -105,31 +105,31 @@
       "context": "En una plaza de mercado de Cali, un estudiante observa la hoja de plátano y reconoce en ella una parte plana verde y unos conductos duros.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Al órgano, porque está formada por varios tejidos que cumplen una función conjunta",
           "is_correct": true,
           "feedback": "Correcto. La hoja es un órgano vegetal formado por tejido protector, fotosintético y conductor."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "A la célula, porque es la parte más pequeña de la planta",
           "is_correct": false,
           "feedback": "Incorrecto. La hoja contiene millones de células y varios tejidos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Al tejido, porque solo tiene un tipo de células verdes",
           "is_correct": false,
           "feedback": "Incorrecto. La hoja tiene epidermis, parénquima y vasos, es decir, varios tejidos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Al sistema, porque una sola hoja sostiene toda la planta",
           "is_correct": false,
           "feedback": "Incorrecto. El sistema requiere varios órganos trabajando juntos, como raíz, tallo y hojas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Un órgano agrupa distintos tejidos; la hoja integra protección, fotosíntesis y transporte.",
       "difficulty": "6",
       "images": [],
@@ -151,13 +151,13 @@
       "context": "En el hospital de Bucaramanga, una cartelera muestra el corazón bombeando sangre hacia los pulmones y el cuerpo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Porque está formado por tejido muscular, tejido nervioso y tejido conectivo que trabajan juntos para bombear sangre",
           "is_correct": true,
           "feedback": "Correcto. La unión de varios tejidos con una función común define a un órgano."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque está formado por una sola célula gigante que late",
           "is_correct": false,
           "feedback": "Incorrecto. El corazón tiene millones de células de varios tipos."
@@ -175,7 +175,7 @@
           "feedback": "Incorrecto. La pared del corazón es músculo cardiaco con células propias."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El órgano se reconoce porque combina al menos dos tejidos diferentes en una estructura funcional.",
       "difficulty": "6",
       "images": [],
@@ -197,19 +197,19 @@
       "context": "En el río Magdalena, los pescadores describen que el bocachico usa branquias, corazón y vasos para llevar oxígeno a su cuerpo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Al sistema, porque varios órganos colaboran para transportar oxígeno y nutrientes",
           "is_correct": true,
           "feedback": "Correcto. Varios órganos con un propósito común forman un sistema."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Al tejido, porque todos son blandos y rojos",
           "is_correct": false,
           "feedback": "Incorrecto. Cada uno es un órgano distinto con tejidos diferentes."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "A la célula, porque la sangre tiene células pequeñas",
           "is_correct": false,
           "feedback": "Incorrecto. Aunque hay células, el conjunto de órganos es un nivel muy superior."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto. El organismo es el pez entero con todos sus sistemas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Sistema es el conjunto de órganos que cumplen una función general, como el sistema circulatorio.",
       "difficulty": "6",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "En Pasto, un laboratorio escolar compara músculo liso del estómago, músculo del corazón y músculo del brazo para una tabla de tejidos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Los tres están formados por células alargadas contráctiles, aunque cada órgano les da una función distinta",
           "is_correct": true,
           "feedback": "Correcto. El tejido se define por el tipo celular y su función básica, no por el órgano donde esté."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Los tres son órganos iguales porque laten al mismo ritmo",
           "is_correct": false,
           "feedback": "Incorrecto. Solo el corazón late rítmicamente; el estómago y el brazo tienen movimientos distintos."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecto. Son miles de células agrupadas, no una sola célula."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El tejido muscular se reconoce por células contráctiles; el órgano determina el movimiento específico que realizan.",
       "difficulty": "8",
       "images": [],
@@ -335,13 +335,13 @@
       "context": "En Barranquilla, un niño arma un modelo con plastilina: una bolita, un conjunto de bolitas, una hoja con varias capas y una matica completa.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Bolita igual célula, conjunto de bolitas igual tejido, hoja igual órgano y matica igual organismo",
           "is_correct": true,
           "feedback": "Correcto. El modelo representa la jerarquía completa de menor a mayor complejidad."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Bolita igual órgano, hoja igual célula y matica igual tejido",
           "is_correct": false,
           "feedback": "Incorrecto. Invierte los niveles: la célula es lo más pequeño y el organismo lo más grande."
@@ -359,7 +359,7 @@
           "feedback": "Incorrecto. La hoja es un órgano y la matica completa es el organismo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Los modelos ayudan a visualizar que cada nivel incluye al anterior y agrega mayor complejidad funcional.",
       "difficulty": "8",
       "images": [],
@@ -381,19 +381,19 @@
       "context": "En la feria científica de Manizales, un grupo afirma que una bacteria es un tejido porque es muy pequeña, y que un árbol no tiene sistemas porque las plantas no tienen corazón.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Ambas son falsas: la bacteria es un organismo unicelular completo y el árbol sí tiene sistemas como el vascular y el radical",
           "is_correct": true,
           "feedback": "Correcto. Una sola célula puede ser un organismo, y las plantas tienen sistemas de órganos vegetales."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Ambas son verdaderas porque el tamaño define el nivel de organización",
           "is_correct": false,
           "feedback": "Incorrecto. El nivel se define por complejidad y función, no por el tamaño visible."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Solo la primera es verdadera porque las bacterias no tienen órganos",
           "is_correct": false,
           "feedback": "Incorrecto. Aunque no tienen órganos, una bacteria sí vive y se reproduce como organismo completo."
@@ -405,7 +405,7 @@
           "feedback": "Incorrecto. Las plantas tienen tejidos protectores, conductores y de crecimiento bien definidos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Evaluar exige corregir dos errores: unicelular no significa tejido, y sistema no es exclusivo de animales.",
       "difficulty": "10",
       "images": [],

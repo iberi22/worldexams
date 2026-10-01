@@ -13,19 +13,19 @@
       "context": "En el colegio de Pereira, la profesora reparte 12 colores entre varios estudiantes sin que sobre ninguno.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Que al dividirlo entre ese número, el residuo es cero.",
           "is_correct": true,
           "feedback": "Un número es divisible por otro cuando la división es exacta y no sobra nada."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Que al dividirlo, el residuo siempre es uno.",
           "is_correct": false,
           "feedback": "Si el residuo es uno, la división no es exacta y el número no es divisible."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Que el número es más grande que el otro.",
           "is_correct": false,
           "feedback": "El tamaño de los números no determina la divisibilidad entre ellos."
@@ -37,7 +37,7 @@
           "feedback": "Ser impar no define la divisibilidad; también hay números pares divisibles."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Comprender el significado de la divisibilidad como división exacta con residuo cero.",
       "difficulty": "4",
       "images": [],
@@ -59,31 +59,31 @@
       "context": "Lee: \"Los múltiplos de 5 son los números que resultan de multiplicar 5 por 1, 2, 3, 4 y así sucesivamente.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "35.",
           "is_correct": true,
           "feedback": "35 = 5 × 7, por lo que es un múltiplo exacto de 5."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "32.",
           "is_correct": false,
           "feedback": "32 no resulta de multiplicar 5 por un número entero."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "33.",
           "is_correct": false,
           "feedback": "33 no es múltiplo de 5 porque no termina en 0 ni en 5."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "38.",
           "is_correct": false,
           "feedback": "38 no es múltiplo de 5, pues la división entre 5 deja residuo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Reconocer múltiplos de un número a partir de la multiplicación y del criterio de terminación en 0 o 5.",
       "difficulty": "4",
       "images": [],
@@ -105,19 +105,19 @@
       "context": "Un estudiante debe organizar 40 sillas en filas iguales, sin que sobre ninguna, en el salón de un colegio de Yopal.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "8.",
           "is_correct": true,
           "feedback": "40 ÷ 8 = 5, una división exacta, así que 8 es divisor de 40."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "6.",
           "is_correct": false,
           "feedback": "40 ÷ 6 no es exacta, porque 6 × 6 = 36 y 6 × 7 = 42."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "7.",
           "is_correct": false,
           "feedback": "40 ÷ 7 no es exacta, ya que 7 × 5 = 35 y 7 × 6 = 42."
@@ -129,7 +129,7 @@
           "feedback": "40 ÷ 9 no es exacta, porque 9 × 4 = 36 y 9 × 5 = 45."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Aplicar el concepto de divisor para repartir una cantidad en grupos iguales.",
       "difficulty": "6",
       "images": [],
@@ -151,19 +151,19 @@
       "context": "La profesora escribió el número 4.530 en el tablero de un colegio de Neiva y pide aplicar el criterio de divisibilidad por 10.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Si termina en 0.",
           "is_correct": true,
           "feedback": "Todo número terminado en 0 es divisible por 10 de forma exacta."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Si termina en 5.",
           "is_correct": false,
           "feedback": "Terminar en 5 indica divisibilidad por 5, no necesariamente por 10."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Si la suma de sus cifras es 10.",
           "is_correct": false,
           "feedback": "La suma de las cifras no es el criterio para la divisibilidad por 10."
@@ -175,7 +175,7 @@
           "feedback": "Los números impares no pueden ser divisibles por 10."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Aplicar el criterio de divisibilidad por 10 observando la última cifra del número.",
       "difficulty": "6",
       "images": [],
@@ -197,19 +197,19 @@
       "context": "Un grupo de estudiantes de una escuela de Villavicencio clasifica números según el criterio de divisibilidad por 3.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "123.",
           "is_correct": true,
           "feedback": "1 + 2 + 3 = 6, y 6 es múltiplo de 3, así que 123 es divisible por 3."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "124.",
           "is_correct": false,
           "feedback": "1 + 2 + 4 = 7, que no es múltiplo de 3, por eso 124 no es divisible por 3."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "125.",
           "is_correct": false,
           "feedback": "1 + 2 + 5 = 8, que no es múltiplo de 3, así que 125 no es divisible por 3."
@@ -221,7 +221,7 @@
           "feedback": "1 + 2 + 7 = 10, que no es múltiplo de 3, por eso 127 no es divisible por 3."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Aplicar el criterio de divisibilidad por 3 sumando las cifras del número.",
       "difficulty": "6",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "Lee: \"Para repartir 24 dulces en partes iguales se pueden formar grupos de 2, 3, 4, 6, 8 o 12 dulces, porque todos esos números son divisores de 24.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Los divisores indican las cantidades de grupos iguales en que se puede repartir el total sin que sobre nada.",
           "is_correct": true,
           "feedback": "Cada divisor permite un reparto exacto del total en grupos iguales."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Los divisores indican cuántos dulces sobran al repartir.",
           "is_correct": false,
           "feedback": "Cuando se usa un divisor, el reparto es exacto y no sobran dulces."
@@ -313,7 +313,7 @@
           "feedback": "Los divisores son precisamente las formas de repartir el total sin sobrantes."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Analizar la relación entre divisores y reparto exacto en situaciones cotidianas.",
       "difficulty": "8",
       "images": [],
@@ -335,31 +335,31 @@
       "context": "Lee: 'Los criterios de divisibilidad permiten saber rápidamente si un número se puede repartir en partes iguales: por 2 si termina en cifra par, por 5 si termina en 0 o 5, por 10 si termina en 0 y por 3 si la suma de sus cifras es múltiplo de 3. Estas reglas se usan cuando organizamos grupos o repartimos materiales.'",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Sirven para descubrir rápido los divisores y repartir cantidades en partes iguales sin hacer siempre la división.",
           "is_correct": true,
           "feedback": "Los criterios agilizan el cálculo y son útiles en repartos de la vida diaria."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Solo sirven para números menores que 10.",
           "is_correct": false,
           "feedback": "Los criterios se aplican a números de muchas cifras, no solo a menores que 10."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "No tienen ninguna aplicación fuera del salón de clases.",
           "is_correct": false,
           "feedback": "Se usan en repartos, compras y organización de grupos en la vida cotidiana."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Reemplazan por completo a la suma y a la resta.",
           "is_correct": false,
           "feedback": "Los criterios se apoyan en la suma y no reemplazan las operaciones básicas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Evaluar la utilidad de los criterios de divisibilidad para resolver problemas de reparto.",
       "difficulty": "10",
       "images": [],

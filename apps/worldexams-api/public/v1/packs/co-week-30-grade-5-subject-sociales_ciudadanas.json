@@ -19,13 +19,13 @@
           "feedback": "La decoración es un uso menor; el agua es vital para beber, cultivar y vivir."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Porque todos los seres vivos la necesitan para beber, alimentarse, cultivar y mantener la higiene.",
           "is_correct": true,
           "feedback": "Sin agua no hay vida: las personas, los animales y las plantas dependen de ella."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque únicamente la usan las fábricas de gaseosas.",
           "is_correct": false,
           "feedback": "Las fábricas son solo uno de los muchos usuarios del agua."
@@ -37,7 +37,7 @@
           "feedback": "El agua sí se puede agotar y contaminar, por eso hay que cuidarla."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Reconocer el agua como un recurso vital del que dependen todos los seres vivos.",
       "difficulty": "4",
       "images": [],
@@ -59,13 +59,13 @@
       "context": "Lee: \"Colombia es uno de los países con más agua en el mundo. Sus ríos principales son el Magdalena, el Cauca, el Amazonas, el Orinoco y el Atrato, que recorren distintas regiones del país.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El Nilo, el Amazonas brasileño y el río Bravo.",
           "is_correct": false,
           "feedback": "El Nilo está en África y el Bravo en Norteamérica; no son ríos colombianos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El Magdalena, el Cauca, el Atrato y el Amazonas en su paso por Colombia.",
           "is_correct": true,
           "feedback": "Esos ríos nacen o recorren el territorio colombiano y sostienen regiones enteras."
@@ -83,7 +83,7 @@
           "feedback": "Esos ríos están en el sur del continente, no en Colombia."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Identificar los grandes ríos que forman la riqueza hídrica de Colombia.",
       "difficulty": "4",
       "images": [],
@@ -105,13 +105,13 @@
       "context": "En la casa de Santiago, en Ibagué, la familia usa el agua para beber, cocinar, bañarse, lavar la ropa y regar las matas del patio.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Beber, cocinar, asearse, lavar y regar las plantas usando solo la cantidad necesaria.",
           "is_correct": true,
           "feedback": "Esos son los usos cotidianos del agua cuando se aprovecha sin desperdiciarla."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Dejar todas las llaves abiertas durante todo el día.",
           "is_correct": false,
           "feedback": "Dejar las llaves abiertas desperdicia un recurso que a otros les puede faltar."
@@ -129,7 +129,7 @@
           "feedback": "Contaminar el agua del hogar daña las tuberías, los ríos y la salud."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Aplicar el uso responsable del agua a las actividades diarias del hogar.",
       "difficulty": "6",
       "images": [],
@@ -151,13 +151,13 @@
       "context": "Lee: \"Los páramos, como Chingaza y Sumapaz, son ecosistemas de alta montaña que capturan el agua de la lluvia y la niebla, y la entregan poco a poco a los ríos que abastecen a ciudades como Bogotá.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Porque en los páramos hay fábricas que producen agua embotellada.",
           "is_correct": false,
           "feedback": "No hay fábricas allí; es la naturaleza del páramo la que guarda y entrega el agua."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque capturan y almacenan el agua de la lluvia y la niebla, y la reparten a los ríos y acueductos.",
           "is_correct": true,
           "feedback": "La vegetación y el suelo del páramo funcionan como una esponja que regula el agua."
@@ -175,7 +175,7 @@
           "feedback": "La agricultura y la ganadería pueden dañar el páramo; su valor principal es el agua."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Relacionar la función natural de los páramos con el abastecimiento de agua de las ciudades.",
       "difficulty": "6",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "Compara: \"En una vereda del Huila, los vecinos protegen la quebrada: no arrojan basuras y siembran árboles en sus orillas. En otra vereda, la quebrada recibe aguas sucias y basuras de las casas.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "En las dos veredas el agua está igual de limpia y sana.",
           "is_correct": false,
           "feedback": "La quebrada que recibe basuras y aguas sucias se contamina y enferma."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La primera vereda conserva su fuente de agua con acciones de cuidado; la segunda la contamina y pone en riesgo la salud.",
           "is_correct": true,
           "feedback": "Proteger las orillas y no contaminar mantiene el agua apta para la comunidad."
@@ -267,7 +267,7 @@
           "feedback": "Las quebradas abastecen de agua a las familias, los cultivos y los animales."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Analizar cómo las acciones de la comunidad determinan la calidad del agua que consumen.",
       "difficulty": "8",
       "images": [],
@@ -341,13 +341,13 @@
           "feedback": "El agua potable es limitada y cada vez cuesta más llevarla a todas las personas."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Porque cuidar el agua solo es deber de los campesinos.",
           "is_correct": false,
           "feedback": "El cuidado del agua es responsabilidad de todos: ciudad y campo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque es un bien común y limitado: cuidarla hoy garantiza la vida y el bienestar de las futuras generaciones.",
           "is_correct": true,
           "feedback": "Cada gota ahorrada y cada río protegido es un regalo para quienes vienen después."
@@ -359,7 +359,7 @@
           "feedback": "El agua debe cuidarse para la vida en la Tierra, no para ideas imposibles."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Evaluar el cuidado del agua como un deber compartido con las futuras generaciones.",
       "difficulty": "10",
       "images": [],

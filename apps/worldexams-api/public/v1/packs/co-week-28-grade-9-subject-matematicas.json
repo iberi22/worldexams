@@ -13,19 +13,19 @@
       "context": "En Bogotá, un profesor pide a sus estudiantes identificar un número irracional en una lista.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "La raíz cuadrada de 2",
           "is_correct": true,
           "feedback": "Correcto. La raíz cuadrada de 2 no puede expresarse como fracción de enteros."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Tres cuartos (3/4)",
           "is_correct": false,
           "feedback": "Incorrecto. Tres cuartos es una fracción de enteros, por lo tanto es racional."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Cero punto cinco (0.5)",
           "is_correct": false,
           "feedback": "Incorrecto. Este decimal termina y equivale a 1/2, por lo tanto es racional."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Todo número entero es racional."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Un número irracional no puede escribirse como cociente de dos enteros; la raíz cuadrada de 2 es el ejemplo clásico.",
       "difficulty": "4",
       "images": [],
@@ -59,19 +59,19 @@
       "context": "En Medellín, una estudiante explica a su clase qué caracteriza a los números irracionales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "No puede expresarse como fracción de enteros y su expansión decimal es infinita no periódica",
           "is_correct": true,
           "feedback": "Correcto. Esa es la definición precisa de número irracional."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Siempre es un número negativo",
           "is_correct": false,
           "feedback": "Incorrecto. Hay irracionales positivos como pi y la raíz cuadrada de 2."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Es el cociente de dos números enteros",
           "is_correct": false,
           "feedback": "Incorrecto. Esa es la definición de número racional."
@@ -83,7 +83,7 @@
           "feedback": "Incorrecto. Si el decimal termina, el número es racional."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Los irracionales tienen decimales infinitos sin periodo que se repita, por eso no admiten forma de fracción exacta.",
       "difficulty": "4",
       "images": [],
@@ -105,31 +105,31 @@
       "context": "En Cali, un estudiante usa la aproximación de la raíz cuadrada de 5 como 2.236 para ubicarla en la recta real.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Entre 2 y 3, más cerca de 2",
           "is_correct": true,
           "feedback": "Correcto. Como 2.236 está entre 2 y 3 y más próximo a 2."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Entre 3 y 4",
           "is_correct": false,
           "feedback": "Incorrecto. La raíz cuadrada de 9 es 3, y 5 es menor que 9."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Entre 1 y 2",
           "is_correct": false,
           "feedback": "Incorrecto. La raíz cuadrada de 4 es 2, y 5 es mayor que 4."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Es exactamente igual a 2.5",
           "is_correct": false,
           "feedback": "Incorrecto. 2.5 al cuadrado es 6.25, no 5."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Como 4 < 5 < 9, la raíz cuadrada de 5 está entre 2 y 3; con 2.236 se confirma que está más cerca de 2.",
       "difficulty": "6",
       "images": [],
@@ -151,19 +151,19 @@
       "context": "En Barranquilla, un grupo clasifica varios números en racionales e irracionales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "La raíz cuadrada de 9",
           "is_correct": true,
           "feedback": "Correcto. La raíz cuadrada de 9 es 3, que es un número entero y racional."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La raíz cuadrada de 7",
           "is_correct": false,
           "feedback": "Incorrecto. Como 7 no es cuadrado perfecto, su raíz es irracional."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El número pi",
           "is_correct": false,
           "feedback": "Incorrecto. Pi es irracional, con decimales infinitos no periódicos."
@@ -175,7 +175,7 @@
           "feedback": "Incorrecto. Ese decimal infinito no periódico es irracional."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La raíz cuadrada de un cuadrado perfecto es entera; la raíz cuadrada de 9 es 3, racional, mientras las demás opciones son irracionales.",
       "difficulty": "6",
       "images": [],
@@ -289,31 +289,31 @@
       "context": "En Manizales, tres estudiantes marcan en la recta los números raíz cuadrada de 2, 1.5 y pi medios.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Raíz de 2 < 1.5 < pi medios",
           "is_correct": true,
           "feedback": "Correcto. Se cumple 1.414 < 1.5 < 1.571."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "1.5 < raíz de 2 < pi medios",
           "is_correct": false,
           "feedback": "Incorrecto. 1.5 es mayor que 1.414, no menor."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Pi medios < 1.5 < raíz de 2",
           "is_correct": false,
           "feedback": "Incorrecto. Pi medios es el mayor de los tres, no el menor."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Raíz de 2 < pi medios < 1.5",
           "is_correct": false,
           "feedback": "Incorrecto. Pi medios vale 1.571, que es mayor que 1.5."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Al convertir a decimales se comparan directamente: 1.414 < 1.500 < 1.571, lo que define el orden en la recta real.",
       "difficulty": "8",
       "images": [],
@@ -335,19 +335,19 @@
       "context": "En Cartagena, un estudiante afirma que entre 1.4 y 1.5 solo cabe la raíz cuadrada de 2.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Infinitos",
           "is_correct": true,
           "feedback": "Correcto. Entre dos reales distintos siempre hay infinitos irracionales por la densidad."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Ninguno",
           "is_correct": false,
           "feedback": "Incorrecto. La raíz cuadrada de 2 (1.414) ya está en ese intervalo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Exactamente uno",
           "is_correct": false,
           "feedback": "Incorrecto. Además de la raíz de 2 hay muchos más, como 1.4142135 con más cifras."
@@ -359,7 +359,7 @@
           "feedback": "Incorrecto. Ese es un ejemplo, pero existen infinitos más en el intervalo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Los irracionales son densos en la recta real: entre cualquier par de números distintos hay infinitos irracionales.",
       "difficulty": "8",
       "images": [],
@@ -381,19 +381,19 @@
       "context": "En Santa Marta, un topógrafo compara la raíz cuadrada de 50 con el número 7 para estimar una distancia.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "La raíz de 50 es mayor que 7, porque 50 es mayor que 49",
           "is_correct": true,
           "feedback": "Correcto. Como 7 al cuadrado es 49 y 50 > 49, la raíz de 50 supera a 7."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La raíz de 50 es menor que 7",
           "is_correct": false,
           "feedback": "Incorrecto. 7 al cuadrado es 49, menor que 50."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La raíz de 50 es igual a 7",
           "is_correct": false,
           "feedback": "Incorrecto. Solo la raíz de 49 es exactamente 7."
@@ -405,7 +405,7 @@
           "feedback": "Incorrecto. 8 al cuadrado es 64, muy superior a 50."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Elevar al cuadrado preserva el orden en positivos: 49 < 50 implica 7 < raíz de 50; además raíz de 50 es 5 veces raíz de 2, cerca de 7.07.",
       "difficulty": "8",
       "images": [],
@@ -473,19 +473,19 @@
       "context": "En Villavicencio, Lucía afirma que todo número con decimales infinitos es irracional.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Es falsa: los decimales infinitos periódicos como 0.333 son racionales",
           "is_correct": true,
           "feedback": "Correcto. 0.333 equivale a 1/3, una fracción exacta."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Es verdadera: ningún decimal infinito puede ser fracción",
           "is_correct": false,
           "feedback": "Incorrecto. Los periódicos infinitos sí admiten forma de fracción."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Es verdadera solo para los números negativos",
           "is_correct": false,
           "feedback": "Incorrecto. El signo no determina si un decimal es periódico o no."
@@ -497,7 +497,7 @@
           "feedback": "Incorrecto. Pi sí es irracional; el contraejemplo correcto es 0.333."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La clave es el periodo: infinitos con periodo (0.333, 0.4545) son racionales; solo los infinitos no periódicos son irracionales.",
       "difficulty": "10",
       "images": [],
@@ -519,31 +519,31 @@
       "context": "En Neiva, un estudiante escribe que la raíz de 2 más la raíz de 3 es igual a la raíz de 5.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Es incorrecto: la suma vale cerca de 3.146, mientras la raíz de 5 vale cerca de 2.236",
           "is_correct": true,
           "feedback": "Correcto. Las raíces no se suman por dentro del radical."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "No hay error: la igualdad es correcta",
           "is_correct": false,
           "feedback": "Incorrecto. Al elevar 3.146 al cuadrado se obtiene cerca de 9.9, no 5."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El error es que el resultado correcto es la raíz de 6",
           "is_correct": false,
           "feedback": "Incorrecto. La raíz de 6 viene de multiplicar, no de sumar."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El error es que el resultado correcto es 5",
           "is_correct": false,
           "feedback": "Incorrecto. Sumar radicales no equivale a sumar los radicandos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "1.414 + 1.732 = 3.146, distinto de 2.236; las raíces de sumandos no se combinan sumando los radicandos.",
       "difficulty": "10",
       "images": [],

@@ -13,19 +13,19 @@
       "context": "Una docente de Montevideo repasa las razones trigonométricas en el triángulo rectángulo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "El cociente entre el cateto opuesto y la hipotenusa.",
           "is_correct": true,
           "feedback": "¡Correcto! $\\sin \\alpha = \\frac{\\text{opuesto}}{\\text{hipotenusa}}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El cociente entre el cateto adyacente y la hipotenusa.",
           "is_correct": false,
           "feedback": "Incorrecto. Esa es la definición del coseno."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El cociente entre el cateto opuesto y el adyacente.",
           "is_correct": false,
           "feedback": "Incorrecto. Esa es la definición de la tangente."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Las razones trigonométricas son cocientes, no productos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Las tres razones básicas son: seno (opuesto/hipotenusa), coseno (adyacente/hipotenusa) y tangente (opuesto/adyacente). Memorizarlas con la palabra SOH-CAH-TOA ayuda.",
       "difficulty": "4",
       "images": [],
@@ -64,25 +64,25 @@
           "feedback": "Incorrecto. Ese es el valor de $\\sin 60°$."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$\\frac{1}{2}$",
           "is_correct": true,
           "feedback": "¡Correcto! El seno de 30° es exactamente un medio."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\frac{\\sqrt{2}}{2}$",
           "is_correct": false,
           "feedback": "Incorrecto. Ese es el valor de $\\sin 45°$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$1$",
           "is_correct": false,
           "feedback": "Incorrecto. El seno vale 1 recién a los 90°."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "En el triángulo 30°-60°-90°, el cateto opuesto a 30° mide la mitad de la hipotenusa, por eso $\\sin 30° = \\frac{1}{2}$.",
       "difficulty": "4",
       "images": [],
@@ -103,13 +103,13 @@
       "context": "Un estudiante de Colonia convierte grados a radianes.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$\\frac{\\pi}{2}$ radianes",
           "is_correct": false,
           "feedback": "Incorrecto. Eso equivaldría a 90°."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\pi$ radianes",
           "is_correct": true,
           "feedback": "¡Correcto! $180° = \\pi$ rad, la conversión fundamental."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. Eso equivale a 45°."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La equivalencia base es $180° = \\pi$ radianes; de ahí se derivan todas las demás por proporcionalidad.",
       "difficulty": "4",
       "images": [],
@@ -154,25 +154,25 @@
           "feedback": "Incorrecto. El signo correcto entre los cuadrados es la suma."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$\\sin^2 \\alpha + \\cos^2 \\alpha = 1$",
           "is_correct": true,
           "feedback": "¡Correcto! Es el teorema de Pitágoras aplicado al círculo unitario."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\sin \\alpha + \\cos \\alpha = 1$",
           "is_correct": false,
           "feedback": "Incorrecto. Sin los cuadrados la identidad no vale; probá con $\\alpha = 45°$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$\\tan^2 \\alpha + 1 = \\sin^2 \\alpha$",
           "is_correct": false,
           "feedback": "Incorrecto. La identidad correcta es $\\tan^2 \\alpha + 1 = \\frac{1}{\\cos^2 \\alpha}$."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "En el círculo unitario, las coordenadas de un punto son $(\\cos \\alpha, \\sin \\alpha)$ y el radio es 1: $\\sin^2 \\alpha + \\cos^2 \\alpha = 1$ por Pitágoras.",
       "difficulty": "4",
       "images": [],
@@ -244,25 +244,25 @@
           "feedback": "Incorrecto. Con 45° la tangente vale 1: altura y sombra son iguales."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$20$ m",
           "is_correct": true,
           "feedback": "¡Correcto! $\\tan 45° = 1 = \\frac{h}{20}$, así $h = 20$ m."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$20\\sqrt{2}$ m",
           "is_correct": false,
           "feedback": "Incorrecto. Ese sería el largo de la línea visual (hipotenusa), no la altura."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$40$ m",
           "is_correct": false,
           "feedback": "Incorrecto. Duplicaste la sombra; la tangente de 45° no es 2."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Con ángulo de 45°, el triángulo es isósceles: $\\tan 45° = 1$, por lo que la altura iguala a la sombra: 20 m.",
       "difficulty": "6",
       "images": [],
@@ -283,13 +283,13 @@
       "context": "Una escalera apoyada en una pared de Tacuarembó forma un triángulo rectángulo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$5$ m",
           "is_correct": false,
           "feedback": "Incorrecto. Usaste el coseno (adyacente) en lugar del seno (opuesto)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$5\\sqrt{3} \\approx 8.66$ m",
           "is_correct": true,
           "feedback": "¡Correcto! $\\sin 60° = \\frac{h}{10}$ da $h = 10 \\cdot \\frac{\\sqrt{3}}{2} = 5\\sqrt{3}$."
@@ -307,7 +307,7 @@
           "feedback": "Incorrecto. La escalera solo mediría 10 m de altura si estuviera vertical."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La altura es el cateto opuesto al ángulo: $h = 10 \\cdot \\sin 60° = 5\\sqrt{3} \\approx 8.66$ m.",
       "difficulty": "6",
       "images": [],
@@ -424,25 +424,25 @@
           "feedback": "Incorrecto. Eso son 30°, la mitad de 60°."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$\\frac{\\pi}{3}$",
           "is_correct": true,
           "feedback": "¡Correcto! $60° \\cdot \\frac{\\pi}{180°} = \\frac{\\pi}{3}$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\frac{2\\pi}{3}$",
           "is_correct": false,
           "feedback": "Incorrecto. Eso son 120°."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$\\frac{\\pi}{2}$",
           "is_correct": false,
           "feedback": "Incorrecto. Eso son 90°."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Multiplicando por $\\frac{\\pi}{180}$: $60° = \\frac{60\\pi}{180} = \\frac{\\pi}{3}$ radianes.",
       "difficulty": "6",
       "images": [],
@@ -475,19 +475,19 @@
           "feedback": "Incorrecto. En el cuarto, el seno negativo hace negativa la tangente."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Primero y tercero.",
           "is_correct": true,
           "feedback": "¡Correcto! Donde seno y coseno tienen el mismo signo, su cociente es positivo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Segundo y cuarto.",
           "is_correct": false,
           "feedback": "Incorrecto. Ahí los signos difieren y la tangente es negativa."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Como $\\tan = \\frac{\\sin}{\\cos}$, es positiva cuando ambos coinciden en signo: primer cuadrante (+/+) y tercero (−/−).",
       "difficulty": "8",
       "images": [],
@@ -508,13 +508,13 @@
       "context": "Una docente de Florida pregunta por el período de la función seno.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$\\pi$",
           "is_correct": false,
           "feedback": "Incorrecto. En $\\pi$ radianes el seno solo completa media oscilación."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$2\\pi$",
           "is_correct": true,
           "feedback": "¡Correcto! El seno se repite cada vuelta completa del círculo unitario."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. Duplica el período real; la función ya se repitió en $2\\pi$."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El seno recorre su ciclo completo (sube, baja, vuelve) en una vuelta del círculo unitario: período $2\\pi$.",
       "difficulty": "8",
       "images": [],
@@ -553,19 +553,19 @@
       "context": "Un estudiante de Rocha relaciona ángulos complementarios.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$\\sin \\alpha = \\cos \\beta$",
           "is_correct": true,
           "feedback": "¡Correcto! El seno de un ángulo es el coseno de su complemento."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\sin \\alpha = \\sin \\beta$",
           "is_correct": false,
           "feedback": "Incorrecto. Solo valdría si los ángulos fueran iguales."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\tan \\alpha = \\tan \\beta$",
           "is_correct": false,
           "feedback": "Incorrecto. Las tangentes de complementarios son recíprocas, no iguales."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. Los ángulos agudos tienen cosenos positivos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "En el triángulo rectángulo, el cateto opuesto a $\\alpha$ es el adyacente a $\\beta$: por eso $\\sin \\alpha = \\cos \\beta$ cuando son complementarios.",
       "difficulty": "8",
       "images": [],
@@ -604,13 +604,13 @@
           "feedback": "Incorrecto. Sumaste los catetos; la hipotenusa sale del teorema de Pitágoras."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$13$",
           "is_correct": true,
           "feedback": "¡Correcto! $\\sqrt{25 + 144} = \\sqrt{169} = 13$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\sqrt{119}$",
           "is_correct": false,
           "feedback": "Incorrecto. Restaste los cuadrados; la hipotenusa usa la suma."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. Esa es la diferencia de los catetos, sin elevar al cuadrado."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Pitágoras: $c = \\sqrt{5^2 + 12^2} = \\sqrt{169} = 13$. La terna 5-12-13 es una de las pitagóricas clásicas.",
       "difficulty": "8",
       "images": [],
@@ -739,13 +739,13 @@
           "feedback": "Incorrecto. La obtusidad no decide el signo: el segundo cuadrante tiene seno positivo."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Falsa: 150° está en el segundo cuadrante, donde el seno es positivo ($\\sin 150° = \\frac{1}{2}$).",
           "is_correct": true,
           "feedback": "¡Correcto! $\\sin 150° = \\sin(180° - 30°) = \\sin 30° = \\frac{1}{2}$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Verdadera, porque todo ángulo mayor que 90° tiene seno negativo.",
           "is_correct": false,
           "feedback": "Incorrecto. Entre 90° y 180° el seno sigue siendo positivo."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. La conclusión (falsa) es acertada, pero los valores citados son erróneos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Los ángulos del segundo cuadrante tienen seno positivo por simetría con el primero: $\\sin 150° = \\sin 30° = 0.5$. El signo lo da la coordenada $y$ del círculo unitario.",
       "difficulty": "10",
       "images": [],
@@ -823,19 +823,19 @@
       "context": "Un barco sale del puerto de Montevideo y navega $3$ km al este y luego $4$ km al norte.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$5$ km y $\\arctan\\frac{4}{3} \\approx 53.1°$",
           "is_correct": true,
           "feedback": "¡Correcto! Pitágoras da 5 km y la tangente del rumbo es $\\frac{4}{3}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$7$ km y $45°$",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste los trayectos; la distancia directa usa Pitágoras, y el ángulo no es 45° porque los catetos difieren."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$5$ km y $\\arctan\\frac{3}{4} \\approx 36.9°$",
           "is_correct": false,
           "feedback": "Incorrecto. La distancia es correcta, pero el ángulo pedido (desde el este) usa opuesto 4 sobre adyacente 3."
@@ -847,7 +847,7 @@
           "feedback": "Incorrecto. Multiplicaste los trayectos; ninguna de las dos magnitudes es correcta."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La distancia es la hipotenusa: $\\sqrt{9 + 16} = 5$ km. El rumbo desde el este cumple $\\tan \\theta = \\frac{4}{3}$, así $\\theta \\approx 53.1°$.",
       "difficulty": "10",
       "images": [],

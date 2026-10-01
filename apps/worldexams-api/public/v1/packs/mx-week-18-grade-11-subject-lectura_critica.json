@@ -19,13 +19,13 @@
           "feedback": "Incorrecto: eso es una cita directa, no una alusión."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Una referencia breve a otro texto, persona o suceso que el lector debe reconocer.",
           "is_correct": true,
           "feedback": "Correcto: la alusión evoca sin copiar literalmente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Un error de atribución de una obra a su autor.",
           "is_correct": false,
           "feedback": "Incorrecto: eso es un problema bibliográfico, no un recurso."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto: eso es una bibliografía."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La alusión es una mención indirecta que activa en el lector el recuerdo de otra obra, autor o acontecimiento. A diferencia de la cita, no reproduce palabras exactas: basta con que el lector reconozca la referencia para que el sentido se complete.",
       "difficulty": "4",
       "images": [],
@@ -64,13 +64,13 @@
           "feedback": "Incorrecto: expresa la idea con otras palabras; es una paráfrasis."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "\"Sor Juana cuestionó los prejuicios de su época.\"",
           "is_correct": false,
           "feedback": "Incorrecto: es un resumen de la postura, no sus palabras."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "\"Hombres necios que acusáis / a la mujer sin razón\".",
           "is_correct": true,
           "feedback": "Correcto: reproduce literalmente los versos de la autora."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto: es una interpretación del lector, no una cita."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "La cita directa reproduce las palabras exactas de la fuente, generalmente entre comillas y con atribución. Parafrasear o resumir ideas con lenguaje propio produce citas indirectas, no directas.",
       "difficulty": "4",
       "images": [],
@@ -109,13 +109,13 @@
           "feedback": "Incorrecto: la cita no busca competencia literaria."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Rellenar el ensayo con material decorativo.",
           "is_correct": false,
           "feedback": "Incorrecto: la cita tiene una función argumentativa, no ornamental."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Mostrar que la crítica a la doble moral tiene una tradición en la literatura mexicana.",
           "is_correct": true,
           "feedback": "Correcto: la cita ancla la tesis en una voz histórica reconocible."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto: la cita hace lo contrario al recordar una crítica vigente."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Citar a un autor del pasado permite al ensayista inscribir su argumento en una tradición: la crítica de la doble moral no es nueva, y la autoridad de Sor Juana refuerza la vigencia del problema.",
       "difficulty": "4",
       "images": [],
@@ -154,13 +154,13 @@
           "feedback": "Incorrecto: el refrán no debe leerse de manera literal."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "La pesca es una actividad peligrosa durante la noche.",
           "is_correct": false,
           "feedback": "Incorrecto: el peligro nocturno no está en el refrán."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Quien se descuida pierde su oportunidad.",
           "is_correct": true,
           "feedback": "Correcto: el refrán advierte que la falta de atención tiene consecuencias."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto: es una lectura literal del refrán, no su sentido figurado."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Los refranes son intertextos de la tradición oral: frases hechas cuyo sentido es figurado. \"Camarón que se duerme...\" advierte sobre el descuido y la pérdida de oportunidades, y el autor lo usa para subrayar la situación de los pescadores.",
       "difficulty": "4",
       "images": [],
@@ -238,19 +238,19 @@
       "context": "Diego, de Monterrey, analiza la relación entre un ensayo actual y la poesía de Sor Juana.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Parodia: se burla del poema original.",
           "is_correct": false,
           "feedback": "Incorrecto: no hay burla ni deformación cómica."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Traducción: vierte el poema a otro idioma.",
           "is_correct": false,
           "feedback": "Incorrecto: no hay traslación lingüística."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Dialogo: actualiza una crítica del pasado en un contexto nuevo.",
           "is_correct": true,
           "feedback": "Correcto: el ensayista conversa con la tradición y la proyecta al presente."
@@ -262,7 +262,7 @@
           "feedback": "Incorrecto: el ensayista coincide con la crítica, no la rechaza."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "La intertextualidad dialogante retoma voces del pasado para actualizarlas: no se burla de ellas ni las refuta, sino que las reactiva en un contexto nuevo. La doble moral que Sor Juana denunció se reinterpreta en el escenario digital.",
       "difficulty": "6",
       "images": [],
@@ -295,19 +295,19 @@
           "feedback": "Incorrecto: el refrán refuerza el mensaje, no lo oculta."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Conectar con la sabiduría popular compartida por la audiencia.",
           "is_correct": true,
           "feedback": "Correcto: el refrán crea complicidad y hace cercano el elogio."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Impresionar con una cita literaria culta.",
           "is_correct": false,
           "feedback": "Incorrecto: el refrán es popular, no erudito."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "El refrán funciona como un intertexto de la tradición oral que la comunidad reconoce al instante. Usarlo acerca al orador con su audiencia y envuelve el mensaje en una autoridad compartida.",
       "difficulty": "6",
       "images": [],
@@ -328,19 +328,19 @@
       "context": "Guadalupe, de Oaxaca, reconoce una parodia en una campaña escolar.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Cita académica formal.",
           "is_correct": false,
           "feedback": "Incorrecto: no hay formalidad académica en la reescritura."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Traducción de un texto extranjero.",
           "is_correct": false,
           "feedback": "Incorrecto: no se cambia de idioma."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Parodia de un eslogan publicitario conocido.",
           "is_correct": true,
           "feedback": "Correcto: la reescritura burlona y lúdica de un texto famoso es parodia."
@@ -352,7 +352,7 @@
           "feedback": "Incorrecto: no hay argumentación científica."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "La parodia reescribe un texto reconocible para producir un efecto cómico o crítico. Al deformar el eslogan conocido, los estudiantes aprovechan su memoria en la audiencia para darle un giro nuevo y persuasivo.",
       "difficulty": "6",
       "images": [],
@@ -385,19 +385,19 @@
           "feedback": "Incorrecto: el ensayo discute la imagen, no su verdad fáctica."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Pensar críticamente una imagen fundadora de la identidad mexicana.",
           "is_correct": true,
           "feedback": "Correcto: el intertexto se convierte en objeto de análisis."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Sustituir la poesía por datos estadísticos.",
           "is_correct": false,
           "feedback": "Incorrecto: la poesía sigue siendo el centro de la reflexión."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Cuando un texto toma otro como objeto de reflexión, la intertextualidad se vuelve crítica: el ensayista no repite la imagen del maíz, sino que la examina, la matiza y la interroga como símbolo nacional.",
       "difficulty": "6",
       "images": [],
@@ -430,19 +430,19 @@
           "feedback": "Incorrecto: ambos pueden citar, aludir o reformular."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "El homenaje celebra al texto original; la parodia lo deforma con intención cómica o crítica.",
           "is_correct": true,
           "feedback": "Correcto: la actitud ante el original es lo que los distingue."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El homenaje pertenece a la literatura y la parodia al periodismo.",
           "is_correct": false,
           "feedback": "Incorrecto: ambos recursos aparecen en todos los géneros."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La diferencia es de actitud: el homenaje reconoce y celebra la obra referida, mientras que la parodia la transforma, generalmente con humor o ironía, para producir un sentido nuevo.",
       "difficulty": "6",
       "images": [],
@@ -514,13 +514,13 @@
           "feedback": "Incorrecto: la autoridad literaria no opera como una demostración matemática."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Elimina la necesidad de argumentar con razones propias.",
           "is_correct": false,
           "feedback": "Incorrecto: el diálogo acompaña, no reemplaza, la argumentación."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Inscribe al autor en una tradición y refuerza la legitimidad de su postura.",
           "is_correct": true,
           "feedback": "Correcto: dialogar con voces reconocidas sitúa al ensayista en la conversación culta."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto: la referencia erudita no ficcionaliza el texto."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "La intertextualidad erudita construye ethos: al citar, aludir y discutir con autores consagrados, el ensayista demuestra pertenencia a una tradición y gana credibilidad ante el lector culto.",
       "difficulty": "8",
       "images": [],
@@ -553,19 +553,19 @@
       "context": "María, de Tijuana, detecta un anacronismo en un guion estudiantil.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Es una cita literal de un autor del siglo XVII.",
           "is_correct": false,
           "feedback": "Incorrecto: la frase no pertenece a ningún texto colonial."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Es un refrán mexicano antiguo.",
           "is_correct": false,
           "feedback": "Incorrecto: \"viral\" es un concepto de la era digital."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Es un anacronismo: introduce una referencia de otra época en el contexto histórico.",
           "is_correct": true,
           "feedback": "Correcto: ningún personaje novohispano podía hablar de difusión viral."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto: no guarda relación con la poesía barroca."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "El anacronismo es la inserción de un elemento de una época en otra distinta. Rompe la coherencia histórica del texto y, en este caso, delata que el guionista proyectó su presente sobre el pasado.",
       "difficulty": "8",
       "images": [],
@@ -655,19 +655,19 @@
           "feedback": "Incorrecto: el público reconoce el guiño, no se confunde."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Aprovechar la memoria del eslogan para criticar los excesos de velocidad.",
           "is_correct": true,
           "feedback": "Correcto: la deformación del mensaje conocido redirige su fuerza persuasiva."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Copiar la publicidad sin permiso con fines comerciales.",
           "is_correct": false,
           "feedback": "Incorrecto: es una campaña educativa con intención crítica."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La parodia publicitaria reutiliza la familiaridad del eslogan: al modificarlo, transfiere su fuerza memorable a un mensaje distinto, a menudo crítico. El efecto depende de que el público reconozca el original.",
       "difficulty": "8",
       "images": [],
@@ -700,19 +700,19 @@
           "feedback": "Incorrecto: el plagio no depende de la longitud."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "La ausencia de reconocimiento: el plagio oculta la fuente, la intertextualidad la declara o la transforma.",
           "is_correct": true,
           "feedback": "Correcto: la clave es la transparencia y la reelaboración."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El tema: si el texto trata de literatura, nunca es plagio.",
           "is_correct": false,
           "feedback": "Incorrecto: el tema no exime del plagio."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La intertextualidad legítima cita, alude o transforma la fuente reconociéndola; el plagio la oculta para atribuirse el mérito. La diferencia no está en el contacto con otros textos, sino en la honestidad de la relación.",
       "difficulty": "8",
       "images": [],
@@ -739,13 +739,13 @@
           "feedback": "Incorrecto: ningún refrán expresa una verdad universal verificable."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Es un recurso literario que embellece el discurso sin efectos.",
           "is_correct": false,
           "feedback": "Incorrecto: el refrán tiene efectos prácticos: naturaliza la desigualdad."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Es un uso manipulador: presenta la desigualdad de oportunidades como destino inevitable.",
           "is_correct": true,
           "feedback": "Correcto: el refrán convierte una decisión política en una ley natural incuestionable."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto: el refrán es popular, no técnico, y su función aquí es cerrar el debate."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Los refranes pueden usarse para abrir o para cerrar el pensamiento. Aquí la frase convierte un recorte (decisión política) en un destino natural, silenciando el debate: el análisis crítico debe detectar ese uso.",
       "difficulty": "10",
       "images": [],
@@ -835,19 +835,19 @@
           "feedback": "Incorrecto: aunque los estilos circulan, el ocultamiento deliberado plantea cuestiones éticas."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Es un pastiche que puede ser legítimo si la imitación se reconoce como ejercicio creativo; ocultarla deliberadamente engaña al lector.",
           "is_correct": true,
           "feedback": "Correcto: la clave está en la transparencia del juego intertextual."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Es válido siempre que el cuento sea bueno.",
           "is_correct": false,
           "feedback": "Incorrecto: la calidad no justifica el engaño sobre la deuda creativa."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "El pastiche (imitación de estilo) es un recurso intertextual legítimo cuando se reconoce como tal: el problema ético aparece cuando el autor oculta la imitación para atribuirse una originalidad que no tiene.",
       "difficulty": "10",
       "images": [],
@@ -874,13 +874,13 @@
           "feedback": "Incorrecto: la validez jurídica no garantiza el efecto persuasivo en todos los públicos."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "La parodia, porque siempre es más rigurosa que la cita.",
           "is_correct": false,
           "feedback": "Incorrecto: la parodia conecta, pero no sustituye el rigor."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La parodia, porque moviliza la memoria cultural del público juvenil, aunque conviene apoyarla con datos.",
           "is_correct": true,
           "feedback": "Correcto: la eficacia depende de la audiencia; el humor y el guiño acercan el tema, y los datos lo sostienen."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto: la eficacia persuasiva no depende de la autoridad extranjera."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "La elección de la estrategia intertextual depende de la audiencia: el humor y la referencia reconocible acercan el tema a un público juvenil, mientras que la cita formal convence a otro tipo de lector. Las estrategias eficaces combinan el guiño cultural con el sustento argumentativo.",
       "difficulty": "10",
       "images": [],
@@ -1009,25 +1009,25 @@
           "feedback": "Incorrecto. Concebir el sistema como cerrado contradice la interconexión dinámica de flujos descrita."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Un flujo dinámico e interconectado, ejemplificado por el papel de rigor periodístico.",
           "is_correct": true,
           "feedback": "Correcto. El autor argumenta que rigor periodístico representa la interdependencia y dinamismo del sistema, que no puede entenderse de forma aislada."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Un inventario de catálogos administrativos inalterable dictado por las aduanas arancelarias.",
           "is_correct": false,
           "feedback": "Incorrecto. El enfoque del autor es de ecología o sociocultural, no arancelario o fiscal de aduanas comerciales."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Una imitación dócil de los modelos de planeación de las ciudades del viejo mundo.",
           "is_correct": false,
           "feedback": "Incorrecto. El texto exalta el desarrollo autónomo o la asimilación creativa de la realidad local de la federación."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La dinámica de rigor periodístico sirve para ilustrar que los procesos estudiados operan como flujos interconectados de gran escala.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -1054,13 +1054,13 @@
           "feedback": "Incorrecto. El autor valora positivamente este concepto, no lo presenta como un error de método."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Funcionar como un valioso ética en periodismo para evaluar y diagnosticar el estado del equilibrio general del medio.",
           "is_correct": true,
           "feedback": "Correcto. Se introduce este término para ilustrar cómo ciertos elementos reflejan de manera fáctica las alteraciones o salud del sistema."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Limitar el acceso de las mujeres y minorías a la educación superior en México.",
           "is_correct": false,
           "feedback": "Incorrecto. No guarda relación con la restricción de derechos educativos de género o minorías de la federación."
@@ -1072,7 +1072,7 @@
           "feedback": "Incorrecto. Al contrario, el uso excesivo de agroquímicos o el mercantilismo son señalados como factores de riesgo a regular."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El concepto de ética en periodismo representa el instrumento metodológico o biológico para medir cuantitativa y cualitativamente el impacto del desarrollo sobre el entorno.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -1138,13 +1138,13 @@
       "context": "**Pasaje:** *Inteligencia artificial y dilemas éticos en el periodismo mexicano*\n\nLa incorporación de herramientas de inteligencia artificial generativa en las salas de redacción de los medios informativos en México ha inaugurado un horizonte de eficiencia inédito, pero también serios desafíos éticos. La automatización en la redacción de notas, el análisis acelerado de bases de datos masivas del sector público y el diseño de infografías dinámicas optimizan la productividad periodística. No obstante, el peligro de propagar noticias falsas (fake news) de forma automatizada y el sesgo de los algoritmos entrenados con datos históricos parciales amenazan el rigor periodístico. Los defensores del periodismo independiente argumentan que la inteligencia artificial nunca podrá sustituir la ética humana, el juicio crítico sobre las desigualdades sociales, ni el reporteo de campo directo en las comunidades.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Provoca una contracción inmediata del producto interno bruto y desempleo crónico.",
           "is_correct": false,
           "feedback": "Incorrecto. No se asocia con catástrofes financieras directas o parálisis comercial total en el texto."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Funciona como el refugio o cimiento que estabiliza el sistema y le otorga viabilidad frente a las perturbaciones.",
           "is_correct": true,
           "feedback": "Correcto. La cohesión de automatización algorítmica (ya sea el dosel del bosque, el acuífero arcilloso o la base mestiza) actúa como la cobija y protección del equilibrio general."
@@ -1162,7 +1162,7 @@
           "feedback": "Incorrecto. Al contrario, se fomenta y valora la ciencia unida a la ética de resguardo público."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La integridad de automatización algorítmica es indispensable: su destrucción o fragmentación rompe el microclima o tejido que cobija y da sustento al equilibrio colectivo.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -1228,13 +1228,13 @@
       "context": "**Pasaje:** *Inteligencia artificial y dilemas éticos en el periodismo mexicano*\n\nLa incorporación de herramientas de inteligencia artificial generativa en las salas de redacción de los medios informativos en México ha inaugurado un horizonte de eficiencia inédito, pero también serios desafíos éticos. La automatización en la redacción de notas, el análisis acelerado de bases de datos masivas del sector público y el diseño de infografías dinámicas optimizan la productividad periodística. No obstante, el peligro de propagar noticias falsas (fake news) de forma automatizada y el sesgo de los algoritmos entrenados con datos históricos parciales amenazan el rigor periodístico. Los defensores del periodismo independiente argumentan que la inteligencia artificial nunca podrá sustituir la ética humana, el juicio crítico sobre las desigualdades sociales, ni el reporteo de campo directo en las comunidades.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Actuando de manera perjudicial para las finanzas de su propia familia a corto plazo.",
           "is_correct": false,
           "feedback": "Incorrecto. Las prácticas ecológicas y sustentables de autosustento pueden generar ingresos alternativos valiosos de ecoturismo o silvicultura."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Aplicando una estrategia compatible con el equilibrio del entorno y la subsistencia social.",
           "is_correct": true,
           "feedback": "Correcto. Harmonizar la generación de valor económico con el cuidado del patrimonio natural o simbólico es la clave de la sustentabilidad cívica."
@@ -1252,7 +1252,7 @@
           "feedback": "Incorrecto. El aprovechamiento ejidal sustentable es legal y respaldado por la normatividad federal de la federación vigente."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El rol de un veracidad informativa encarna la transición ética indispensable: el autosustento respetuoso que custodia la resiliencia de su región.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -1324,13 +1324,13 @@
           "feedback": "Incorrecto. La contracción del suelo arcilloso o deparación forestal no solidifica la caliza marina caribeña, mezclando de forma absurda los temas geográficos."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "La degradación severa de verificar información, comprometiendo la biodiversidad y la calidad de vida de las familias mexicanas.",
           "is_correct": true,
           "feedback": "Correcto. Ignorar los límites de carga biofísica o social de la zona conduce a fallos graves en cascada que deterioran el patrimonio común y aumentan la vulnerabilidad."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La elevación artificial de la altitud de la ciudad por encima del nivel del mar.",
           "is_correct": false,
           "feedback": "Incorrecto. El desequilibrio ambiental deprime las oportunidades y hunde el relieve arcilloso, no eleva la altitud física de la urbe."
@@ -1342,7 +1342,7 @@
           "feedback": "Incorrecto. Los problemas biofísicos no tienen la propiedad legal de suspender regulaciones impositivas del agro."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La degradación continuada de verificar información ilustra que la omisión de límites ecológicos o cívicos genera daños acumulativos irreversibles para el porvenir nacional.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -1369,13 +1369,13 @@
           "feedback": "Incorrecto. Limitar la investigación debilita la toma de decisiones de la federación y el desarrollo integral de las regiones."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Garantizar esquemas de inclusión orientados a solventar el problema de obesidad infantil de forma viable.",
           "is_correct": true,
           "feedback": "Correcto. Aplicar la tesis crítica exige que octágonos de advertencia actúe de manera directa para corregir exclusiones, democratizando los recursos o el arte."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Privatizar completamente el patrimonio arqueológico e histórico para depararlo a la explotación hotelera comercial.",
           "is_correct": false,
           "feedback": "Incorrecto. El pasaje se opone a la mercantilización excluyente y defiende el carácter público de los bienes comunes."
@@ -1387,7 +1387,7 @@
           "feedback": "Incorrecto. Las variables lingüísticas de la península o de Argentina carecen de pertinencia cívica para resolver el centralismo o desabasto local."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Delegar programas de inclusión a octágonos de advertencia concretiza el ideal de justicia distributiva frente a obesidad infantil, mitigando brechas geográficas y socioeconómicas.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -1408,13 +1408,13 @@
       "context": "**Pasaje:** *El impacto del etiquetado frontal de alimentos en México*\n\nMéxico enfrenta una de las epidemias de salud pública más severas del mundo: la obesidad infantil y la diabetes tipo 2, propiciadas en gran medida por el consumo desmedido de comida ultraprocesada y refrescos azucarados. Ante esta crisis, la Secretaría de Salud implementó la reforma de etiquetado frontal con octágonos negros de advertencia (NOM-051), diseñada para deparar información clara, directa y sencilla sobre el exceso de calorías, azúcares, sodio y grasas saturadas. A pesar del fuerte rechazo del sector agroindustrial de bebidas y alimentos procesados, estudios preliminares revelan que el etiquetado frontal ha modificado de forma sustancial las decisiones de compra de las familias mexicanas, fomentando una conciencia crítica sobre la nutrición familiar.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Impide que los agricultores del bajío importen maquinaria pesada directamente desde el extranjero.",
           "is_correct": false,
           "feedback": "Incorrecto. El desarrollo mecánico agroindustrial es un asunto de comercio, desvinculado de la exclusión social descrita en el texto."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Genera condiciones inequitativas donde las familias periféricas ven vulnerado su derecho debido a obesidad infantil.",
           "is_correct": true,
           "feedback": "Correcto. La asimetría (digital, de museos o de salud) margina a amplios sectores por razones de geografía y economía, limitando su bienestar y desarrollo humano."
@@ -1432,7 +1432,7 @@
           "feedback": "Incorrecto. Las playas caribeñas y el sargazo no guardan relación lógica con la conectividad de los estados de la República."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La brecha provocada por obesidad infantil segrega a la población, privando a los estados periféricos de oportunidades básicas de educación, conectividad, salud o consumo estético.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -1453,13 +1453,13 @@
       "context": "**Pasaje:** *El impacto del etiquetado frontal de alimentos en México*\n\nMéxico enfrenta una de las epidemias de salud pública más severas del mundo: la obesidad infantil y la diabetes tipo 2, propiciadas en gran medida por el consumo desmedido de comida ultraprocesada y refrescos azucarados. Ante esta crisis, la Secretaría de Salud implementó la reforma de etiquetado frontal con octágonos negros de advertencia (NOM-051), diseñada para deparar información clara, directa y sencilla sobre el exceso de calorías, azúcares, sodio y grasas saturadas. A pesar del fuerte rechazo del sector agroindustrial de bebidas y alimentos procesados, estudios preliminares revelan que el etiquetado frontal ha modificado de forma sustancial las decisiones de compra de las familias mexicanas, fomentando una conciencia crítica sobre la nutrición familiar.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Los habitantes de los estados de la República carecían de la deparación intelectual para asimilar la técnica.",
           "is_correct": false,
           "feedback": "Incorrecto. El autor rechaza cualquier sesgo de superioridad o desprecio intelectual biológico de capacidad."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La capital o el modelo de mercado tradicional constituía el único polo idóneo para validar y gestionar etiquetado NOM-051.",
           "is_correct": true,
           "feedback": "Correcto. El centralismo (institucional o de mercado) presupone que solo el núcleo central concentra la legitimidad, recursos y criterios de validación de etiquetado NOM-051 de la federación."
@@ -1477,7 +1477,7 @@
           "feedback": "Incorrecto. Las exploraciones subacuáticas de cenotes no forman parte del debate de este fragmento educativo o de servicios."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La macrocefalia institucional asume una jerarquía de legitimidad, concentrando en el centro del país la gestión de etiquetado NOM-051 en detrimento de los estados de la República.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -1549,25 +1549,25 @@
           "feedback": "Incorrecto. Al contrario, se exalta el deparado valor de la herencia local, del agro y del bienestar social colectivo."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "La apropiación local y autogestión de ultraprocesados fortalece de forma directa la cohesión cívica y la soberanía comunitaria.",
           "is_correct": true,
           "feedback": "Correcto. Dar control a la colectividad sobre su propia realidad (salud, educación, cultura) fomenta el autorrespeto, el cuidado mutuo y la cohesión social de la federación."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Cada municipio de la federación debe dictar de forma obligatoria sus propias leyes mercantiles de aduana arancelaria.",
           "is_correct": false,
           "feedback": "Incorrecto. El marco de los proyectos comunitarios es cultural, educativo e identitario, sin relación con aduanas o aranceles mercantiles."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La Secretaría de Educación Pública debe centralizar de forma definitiva los subsidios para creadores del norte.",
           "is_correct": false,
           "feedback": "Incorrecto. Se busca justamente descentralizar los apoyos y recursos, no acentuar el monopolio de la capital."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El empoderamiento periférico asume que los ciudadanos no deben ser meros receptores pasivos de directrices del centro, sino gestores autónomos de ultraprocesados en su demarcación.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -1633,13 +1633,13 @@
       "context": "**Pasaje:** *El impacto del etiquetado frontal de alimentos en México*\n\nMéxico enfrenta una de las epidemias de salud pública más severas del mundo: la obesidad infantil y la diabetes tipo 2, propiciadas en gran medida por el consumo desmedido de comida ultraprocesada y refrescos azucarados. Ante esta crisis, la Secretaría de Salud implementó la reforma de etiquetado frontal con octágonos negros de advertencia (NOM-051), diseñada para deparar información clara, directa y sencilla sobre el exceso de calorías, azúcares, sodio y grasas saturadas. A pesar del fuerte rechazo del sector agroindustrial de bebidas y alimentos procesados, estudios preliminares revelan que el etiquetado frontal ha modificado de forma sustancial las decisiones de compra de las familias mexicanas, fomentando una conciencia crítica sobre la nutrición familiar.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Se opone de forma drástica por considerarlas un gasto inútil que debilita el presupuesto de la capital federal.",
           "is_correct": false,
           "feedback": "Incorrecto. El autor critica el centralismo y valora de forma sumamente positiva las deparaciones de equidad distributiva."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Respalda de forma decidida la transición hacia esquemas que pongan el recurso en diálogo con médico salubrista de manera integrada.",
           "is_correct": true,
           "feedback": "Correcto. El tono general hacia museos itinerantes, deparación de conectividad rural, educación a distancia e inclusión de dreamers es aprobatorio, exaltando su impacto en la cohesión social."
@@ -1657,7 +1657,7 @@
           "feedback": "Incorrecto. Esta propuesta privatizadora contradice la apología del bien común y resguardo social de la federación."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El autor adopta un tono comprometido con las reformas que integran médico salubrista, considerándolas indispensables para consolidar un federalismo equitativo y democrático.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -1690,19 +1690,19 @@
           "feedback": "Incorrecto. Las aduanas arancelarias comerciales no justifican el disfrute del patrimonio o la equidad educativa de las familias de la periferia."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "De justicia cultural y social, que sitúa al aprendizaje, el bienestar y la conectividad como derechos públicos indispensables para el desarrollo de la dignidad humana.",
           "is_correct": true,
           "feedback": "Correcto. El acceso equitativo a la cultura, salud y conectividad es un derecho consagrado que fundamenta la cohesión de una sociedad democrática plural."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Teológico clerical, que busca someter las mentes de los deparados a dogmas de fe religiosos antiguos del virreinato.",
           "is_correct": false,
           "feedback": "Incorrecto. Las deparaciones defendidas son enteramente laicas, seculares, científicas y de pluralidad moderna de la federación."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Oponerse a criterios puramente salud preventiva reivindica que el éxito de una federación armónica descansa en dotar a todo ciudadano de las condiciones para ejercitar su potencial de desarrollo.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -1729,25 +1729,25 @@
           "feedback": "Incorrecto. El centralismo hídrico agota severamente el subsuelo del Valle de México; no beneficia al subsuelo de Michoacán."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "El centralismo genera fallos de doble vía, mermando materialmente a la capital y excluyendo cívicamente a la periferia de NOM-051 alimentaria.",
           "is_correct": true,
           "feedback": "Correcto. El desequilibrio agota físicamente los límites ecológicos del centro (hundimientos, sobreexplotación) e impide el disfrute de NOM-051 alimentaria en la periferia nacional."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La deparación de los museos de la capital es la única vía idónea para proteger las áreas de desove de tortugas de Quintana Roo.",
           "is_correct": false,
           "feedback": "Incorrecto. No existe nexo causal que ligue la ubicación de museos artísticos en la capital con el desove de tortugas marinas costeras caribeñas."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El sistema hídrico del Cutzamala debe alimentar de lluvia las salas del INBAL en la Ciudad de México de forma prioritaria.",
           "is_correct": false,
           "feedback": "Incorrecto. El sistema hídrico de abasto de agua no alimenta físicamente a las salas de arte del INBAL, mezclando de forma absurda los temas."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Ambos textos revelan que el centralismo es un modelo insostenible: desborda los límites ecológicos locales en el centro y restringe el capital de NOM-051 alimentaria en la periferia nacional.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -1774,25 +1774,25 @@
           "feedback": "Incorrecto. El desalojo forzado de familias es una medida autoritaria e inviable que viola los derechos humanos y el equilibrio de la federación."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Transitar hacia una planeación federalista y equitativa que respete los límites de carga ecológicos locales y democratice el acceso a bienes mediante conciencia nutricional.",
           "is_correct": true,
           "feedback": "Correcto. Integrar criterios de resguardo biofísico y descentralización de la deparación garantiza un desarrollo cívico justo, respetuoso de los recursos y de la dignidad de todos los estados."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Autorizar la deparación con asfalto impermeable de las áreas boscosas de recarga pluvial de la capital.",
           "is_correct": false,
           "feedback": "Incorrecto. Edificar asfalto impermeable sobre áreas boscosas de recarga pluvial anula la infiltración y agrava severamente el hundimiento de la cuenca."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Subordinar todas las decisiones de deparación de México de forma absoluta a los intereses de compañías europeas.",
           "is_correct": false,
           "feedback": "Incorrecto. La soberanía de planeación de México debe responder a los derechos de sus propios deparados, no a corporativos extranjeros de telecomunicaciones."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La deparación de fondo reclama conciliar el resguardo de la biosfera en el centro con políticas de deparación para toda la población del territorio de la federación.",
       "difficulty": "10",
       "images": [],

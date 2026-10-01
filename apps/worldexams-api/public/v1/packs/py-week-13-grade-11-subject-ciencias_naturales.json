@@ -13,19 +13,19 @@
       "context": "En el laboratorio del Colegio Nacional San José de Concepción, los estudiantes analizan la principal molécula intermediaria de energía química celular.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Adenosín Trifosfato (ATP)",
           "is_correct": true,
           "feedback": "¡Correcto! El ATP almacena y transfiere energía utilizable mediante la hidrólisis de sus enlaces fosfato de alta energía."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Ácido Desoxirribonucleico (ADN)",
           "is_correct": false,
           "feedback": "Incorrecto. El ADN es la molécula encargada de almacenar el genoma celular."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Nicotinamida Adenina Dinucleótido (NADH)",
           "is_correct": false,
           "feedback": "Incorrecto. El NADH es un coenzima transportador de electrones y protones, no la moneda principal de energía libre inmediata."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. El glucógeno es un polisacárido de reserva a medio plazo en el hígado y tejido muscular."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El ATP conecta los procesos catabólicos liberadores de energía con los procesos anabólicos consumidores de energía en todos los organismos vivos.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -58,19 +58,19 @@
       "context": "Durante una salida de campo al Parque Nacional Ybycuí, María observa cómo la luz solar es captada por las hojas de los árboles de lapacho.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Cloroplasto",
           "is_correct": true,
           "feedback": "¡Correcto! Los cloroplastos son organelos fotosintéticos que contienen tilacoides y estroma especializados en la conversión fotoquímica."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Mitocondria",
           "is_correct": false,
           "feedback": "Incorrecto. Las mitocondrias son el sitio principal de la respiración celular aeróbica y fosforilación oxidativa."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Aparato de Golgi",
           "is_correct": false,
           "feedback": "Incorrecto. El aparato de Golgi procesa y empaqueta proteínas y lípidos metabólicos."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. Los peroxisomas participan en la oxidación de ácidos grasos y eliminación de peróxido de hidrógeno."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Los cloroplastos albergan los pigmentos fotosintéticos y el complejo enzimático necesario para transformar energía lumínica en energía química.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -103,13 +103,13 @@
       "context": "Estudiantes de Asunción estudian los pigmentos fotorreceptores presentes en la membrana tilacoidal.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Clorofila a",
           "is_correct": true,
           "feedback": "¡Correcto! La clorofila a es el pigmento fotorreceptor fundamental en los centros de reacción fotosintéticos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Caroteno",
           "is_correct": false,
           "feedback": "Incorrecto. Los carotenos son pigmentos accesorios de color anaranjado."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. Las antocianinas son pigmentos vacuolares solubles en agua que aportan colores rojizos y violetas en flores."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La clorofila a inicia la fase fotodependiente liberando electrones excitados hacia la cadena transportadora cuando recibe fotones luminosos.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,19 +148,19 @@
       "context": "En Villarrica, se examina el producto gaseoso liberado por las plantas de elodea sumergidas al ser expuestas a la luz.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "De la fotólisis de la agua (H2O)",
           "is_correct": true,
           "feedback": "¡Correcto! La ruptura fotoquímica de la molécula de agua libera protones, electrones y gas oxígeno libre."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Del dióxido de carbono (CO2) absorbido",
           "is_correct": false,
           "feedback": "Incorrecto. El carbono y el oxígeno del CO2 se fijan en carbohidratos durante el ciclo de Calvin."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "De la descomposición del ATP celular",
           "is_correct": false,
           "feedback": "Incorrecto. El ATP aporta grupos fosfato y energía, no libera oxígeno gaseoso libre."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. El piruvato se genera en la glucólisis citoplasmática."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La fotólisis del agua en el Fotosistema II reemplaza los electrones perdidos por la clorofila a, liberando O2 como subproducto vital para la atmósfera terrestre.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -238,31 +238,31 @@
       "context": "En el Chaco Central, se estudian las adaptaciones ecofisiológicas del maíz y el sorgo frente al calor intenso.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Minimizan la fotorrespiración al fijar CO2 primeramente en fosfoenolpiruvato (PEP) separando espacialmente los procesos",
           "is_correct": true,
           "feedback": "¡Correcto! La vía C4 fija CO2 en ácido oxalacético en las células del mesófilo concentrando CO2 en la vaina del haz para la RuBisCO."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "No requieren agua para llevar a cabo la fotosíntesis",
           "is_correct": false,
           "feedback": "Incorrecto. Todas las plantas terrestres requieren agua para sus procesos fototróficos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Realizan el ciclo de Calvin únicamente durante la noche más fría",
           "is_correct": false,
           "feedback": "Incorrecto. La apertura estomática nocturna y fijación temporal es propia del metabolismo CAM (crasuláceas)."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Utilizan infrarrojos nocturnos en sustitución de los fotones solares",
           "is_correct": false,
           "feedback": "Incorrecto. La energía lumínica visible es imprescindible en los fotosistemas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El mecanismo C4 es una brillante solución evolutiva que optimiza el uso del agua y previene las pérdidas por fotorrespiración en ambientes cálidos como el Chaco paraguayo.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -328,19 +328,19 @@
       "context": "En Caacupé, se observa la producción de chipa y pan mediante fermentación por levaduras (Saccharomyces cerevisiae).",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Etanol y Dióxido de carbono (CO2)",
           "is_correct": true,
           "feedback": "¡Correcto! Las levaduras convierten el piruvato en etanol desprendiendo gas CO2 responsable del leudado de las masas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Ácido láctico y agua",
           "is_correct": false,
           "feedback": "Incorrecto. El ácido láctico se produce en la fermentación láctica por bacterias o tejido muscular."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ácido cítrico y oxígeno",
           "is_correct": false,
           "feedback": "Incorrecto. El ácido cítrico se forma en el ciclo de Krebs mitocondrial."
@@ -352,7 +352,7 @@
           "feedback": "Incorrecto. La fermentación es un proceso catabólico de degradación, no de síntesis de azúcares."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La fermentación alcohólica permite a los microorganismos regenerar el NAD+ necesario para mantener activa la glucólisis en ausencia de oxígeno ambiental.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -373,19 +373,19 @@
       "context": "En Pilar, se investiga la matriz mitocondrial y los ciclos metabólicos que procesan la acetil-CoA.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "En la matriz mitocondrial",
           "is_correct": true,
           "feedback": "¡Correcto! La matriz mitocondrial contiene las enzimas solubles requeridas para oxidar el acetilo a CO2."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "En el espacio intermembrana",
           "is_correct": false,
           "feedback": "Incorrecto. En el espacio intermembrana se acumulan los protones (H+) bombeados por la cadena respiratoria."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "En la membrana mitocondrial externa",
           "is_correct": false,
           "feedback": "Incorrecto. La membrana externa posee porinas de permeabilidad no catalíticas."
@@ -397,7 +397,7 @@
           "feedback": "Incorrecto. Los grana son estructuras presentes en los cloroplastos vegetales."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El ciclo de Krebs procesa el grupo acetilo de la Acetil-CoA liberando CO2 y cargando los transportadores reducidos NADH y FADH2.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -418,19 +418,19 @@
       "context": "Un equipo de biólogos en Luque estudia la cadena de transporte de electrones mitocondrial.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "El Oxígeno molecular (O2)",
           "is_correct": true,
           "feedback": "¡Correcto! El oxígeno recibe los electrones terminales combinándose con protones para formar agua (H2O)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El Dióxido de carbono (CO2)",
           "is_correct": false,
           "feedback": "Incorrecto. El CO2 es un desecho de descarboxilación del ciclo de Krebs."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El Nitrógeno atmosférico (N2)",
           "is_correct": false,
           "feedback": "Incorrecto. El nitrógeno gaseoso es inerte para la respiración eucariota."
@@ -442,7 +442,7 @@
           "feedback": "Incorrecto. La glucosa es el donador inicial de electrones en el proceso catabólico."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La presencia de O2 como aceptor final de alta electronegatividad maximiza la extracción de energía química utilizable en forma de ATP.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -508,13 +508,13 @@
       "context": "En el Chaco, se estudian cactus y orquídeas que sobreviven en ambientes de extrema aridez aplicando metabolismo CAM.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Para evitar la pérdida masiva de agua por transpiración evaporativa durante las horas calurosas del día",
           "is_correct": true,
           "feedback": "¡Correcto! La apertura nocturna con bajas temperaturas minimiza drásticamente la evaporación de agua foliar en desiertos o zonas secas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque la enzima RuBisCO únicamente funciona en ausencia de luz solar",
           "is_correct": false,
           "feedback": "Incorrecto. RuBisCO actúa de día utilizando el CO2 liberado del malato guardado en vacuolas."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. Las plantas CAM poseen clorofila y realizan fotosíntesis activa."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La separación temporal del metabolismo CAM permite almacenar CO2 en forma de ácido málico vacuolar por la noche y fijarlo mediante el ciclo de Calvin de día con los estomas cerrados.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -553,13 +553,13 @@
       "context": "En un ensayo agronómico en Coronel Oviedo, se mide la tasa fotosintética neta en relación a la intensidad lumínica.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La intensidad de luz donde la velocidad de fotosíntesis iguala exactamente a la velocidad de respiración celular",
           "is_correct": true,
           "feedback": "¡Correcto! En este punto, el consumo de O2 y fijación de CO2 se igualan exactamente a la producción de O2 y liberación de CO2."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El nivel de radiación ultravioleta que quema irreversiblemente las hojas",
           "is_correct": false,
           "feedback": "Incorrecto. Describe fotoinhibición o daño por radiación destructiva."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. En oscuridad la planta respira consumiendo reservas sin morir inmediatamente."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Por debajo del punto de compensación lumínica, la respiración supera a la fotosíntesis consumiendo reservas orgánicas netas.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -598,31 +598,31 @@
       "context": "En un laboratorio de bioquímica en Asunción, se aplica cianuro de potasio a una suspensión celular para estudiar la respiración.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Bloquea la transferencia de electrones al oxígeno, deteniendo la formación del gradiente de protones y la síntesis de ATP",
           "is_correct": true,
           "feedback": "¡Correcto! Al paralizar el complejo IV, se interrumpe la cadena transportadora de electrones, colapsando la respiración aeróbica."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Estimula de forma descontrolada la fotosíntesis en tejidos animales",
           "is_correct": false,
           "feedback": "Incorrecto. Las células animales no realizan fotosíntesis bajo ninguna condición."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Incrementa diez veces la producción de glucosa en el citosol",
           "is_correct": false,
           "feedback": "Incorrecto. Sin ATP, los procesos de gluconeogénesis se detienen por falta de energía."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Convierte la mitocondria en un cloroplasto funcional",
           "is_correct": false,
           "feedback": "Incorrecto. Las organelas celulares no sufren transmutaciones morfológicas por acción de inhibidores."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Inhibidores como el cianuro o monóxido de carbono demuestran el papel crítico del transporte de electrones para sostener la fosforilación oxidativa vital.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -643,19 +643,19 @@
       "context": "Se compara la primera y segunda ley de la termodinámica en los flujos de energía a través de los seres vivos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Parte de la energía utilizable se degrada irreversiblemente en forma de calor aumentando la entropía del universo",
           "is_correct": true,
           "feedback": "¡Correcto! Ninguna conversión energética es 100% eficiente; siempre hay disipación de energía térmica no utilizable (aumento de entropía)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La energía se destruye por completo sin dejar rastros residuales",
           "is_correct": false,
           "feedback": "Incorrecto. La Primera Ley establece que la energía no se crea ni se destruye, solo se transforma."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La entropía del sistema biológico disminuye sin liberar calor al entorno",
           "is_correct": false,
           "feedback": "Incorrecto. Los seres vivos reducen su entropía interna a costa de liberar calor y desorden al entorno."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. El calor disipado no puede reconvertirse espontáneamente en energía libre utilizable."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Los sistemas vivos son sistemas abiertos altamente ordenados que mantienen baja su entropía interna consumiendo energía libre continua de los alimentos o la luz.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -688,31 +688,31 @@
       "context": "Atletismo en Asunción: se analiza la fatiga muscular tras una carrera intensa de 400 metros planos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Ácido láctico (Lactato)",
           "is_correct": true,
           "feedback": "¡Correcto! En condiciones de hipoxia, las células musculares realizan fermentación láctica para regenerar NAD+ manteniendo la glucólisis activa."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Etanol de 96°",
           "is_correct": false,
           "feedback": "Incorrecto. El tejido muscular humano carece de alcohol deshidrogenasa para producir fermentación alcohólica."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ácido oxalacético puro",
           "is_correct": false,
           "feedback": "Incorrecto. El oxalacetato es un intermediario del ciclo de Krebs, no el producto final anaeróbico."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Colesterol LDL",
           "is_correct": false,
           "feedback": "Incorrecto. El colesterol es un esteroide estructural y precursor hormonal de síntesis lenta."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La acumulación temporal de lactato genera acidosis celular transitoria, siendo transportado posteriormente al hígado para reconvertirse en glucosa (Ciclo de Cori).\n\n---",
       "difficulty": "8",
       "images": [],
@@ -778,19 +778,19 @@
       "context": "Un seminario de nutrición animal en San Lorenzo examina la beta-oxidación de los ácidos grasos como fuente concentrada de ATP.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Sus átomos de carbono se encuentran en un estado químico mucho más reducido, conteniendo mayor cantidad de electrones de alta energía",
           "is_correct": true,
           "feedback": "¡Correcto! Al estar altamente reducidos y ser no hidratados, los ácidos grasos ceden más electrones a la cadena respiratoria por gramo de masa."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Contienen nitrógeno radioactivo que acelera el ciclo de Krebs",
           "is_correct": false,
           "feedback": "Incorrecto. Los lípidos no contienen nitrógeno ni isótopos radioactivos en su estructura básica."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Se disuelven directamente en la ATP sintasa sin requerir acetil-CoA",
           "is_correct": false,
           "feedback": "Incorrecto. Requieren convertirse en Acetil-CoA mediante beta-oxidación."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. Los enlaces peptídicos pertenecen a las proteínas, los lípidos tienen enlaces éster."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La alta reducción química de los hidrocarburos de los ácidos grasos explica su función evolutiva como la reserva de energía más compacta y eficiente en los animales.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -823,31 +823,31 @@
       "context": "Se estudia el desacoplamiento de la fosforilación oxidativa en la grasa parda de neonatos y animales hibernantes.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Permite el reingreso de los protones a la matriz sin pasar por la ATP sintasa, disipando el gradiente electroquímico directamente como energía térmica",
           "is_correct": true,
           "feedback": "¡Correcto! Al actuar como un poro protónico alternativo a la ATP sintasa, la energía del gradiente se libera como calor (termogénesis no tiritante)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Destruye el oxígeno molecular impidiendo la formación de agua respiratoria",
           "is_correct": false,
           "feedback": "Incorrecto. El oxígeno sigue actuando como aceptor final de electrones."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Bloquea las enzimas del ciclo de Krebs acumulando ácido cítrico tóxico",
           "is_correct": false,
           "feedback": "Incorrecto. El flujo del ciclo de Krebs se acelera para sostener el consumo de sustratos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Sintetiza glucosa directamente a partir de la luz infrarroja corporal",
           "is_correct": false,
           "feedback": "Incorrecto. La termogenina regula el flujo protónico mitocondrial sin inducir gluconeogénesis fotoquímica."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El desacoplamiento fisiológico por UCP1 es una adaptación homeostática vital que permite regular la temperatura corporal disipando la fuerza protón-motriz como calor directo.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -868,13 +868,13 @@
       "context": "En el marco de un proyecto de bioquímica metabólica en Asunción, se evalúa el control alostérico de la glucólisis por retroalimentación de ATP y citrato.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Se inhibe alostéricamente, frenando la glucólisis ya que la célula dispone de suficiente carga energética",
           "is_correct": true,
           "feedback": "¡Correcto! El ATP y el citrato son moduladores alostéricos negativos que señalan saciedad energética, reduciendo la degradación de glucosa."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Se activa diez veces más acelerando el consumo inútil de glucosa",
           "is_correct": false,
           "feedback": "Incorrecto. La célula ahorra glucosa cuando los niveles energéticos de ATP son elevados."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. Las enzimas metabólicas conservan su especificidad de sustrato regulada alostéricamente."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El control alostérico de la PFK-1 coordina el ritmo catabólico celular adaptándolo instantáneamente a las necesidades de ATP y sustratos metabólicos.",
       "difficulty": "10",
       "images": [],

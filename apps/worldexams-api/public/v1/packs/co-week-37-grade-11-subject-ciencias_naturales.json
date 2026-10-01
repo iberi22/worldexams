@@ -19,13 +19,13 @@
           "feedback": "El voltio es unidad de potencial eléctrico."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Coulomb (C).",
           "is_correct": true,
           "feedback": "1 C equivale a la carga de aproximadamente 6.24 × 10¹⁸ electrones."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Amperio (A).",
           "is_correct": false,
           "feedback": "El amperio es unidad de corriente."
@@ -37,7 +37,7 @@
           "feedback": "El ohmio es unidad de resistencia."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El coulomb es la unidad fundamental de carga eléctrica en el Sistema Internacional.",
       "difficulty": "4",
       "images": [],
@@ -59,13 +59,13 @@
       "context": "En un experimento en Medellín, se frota un globo contra el cabello y se observa que atrae papelitos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Carga por fricción: el globo adquiere carga negativa al ganar electrones del cabello.",
           "is_correct": true,
           "feedback": "Al frotar, los electrones se transfieren entre materiales."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Magnetismo inducido por el cabello humano.",
           "is_correct": false,
           "feedback": "El cabello no es un imán natural."
@@ -83,7 +83,7 @@
           "feedback": "El efecto es electrostático, no térmico."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La electrización por fricción ocurre por transferencia de electrones entre materiales con diferente afinidad electrónica.",
       "difficulty": "4",
       "images": [],
@@ -105,13 +105,13 @@
       "context": "En clase en Cali, se discute la ley de Coulomb aplicada a dos cargas puntuales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Se duplica.",
           "is_correct": false,
           "feedback": "La fuerza es inversamente proporcional al cuadrado de la distancia."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Se reduce a la cuarta parte.",
           "is_correct": true,
           "feedback": "F ∝ 1/r²; si r se duplica, F/4."
@@ -129,7 +129,7 @@
           "feedback": "Sucede lo contrario."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La ley de Coulomb establece que la fuerza electrostática es inversamente proporcional al cuadrado de la distancia entre las cargas.",
       "difficulty": "4",
       "images": [],
@@ -203,25 +203,25 @@
           "feedback": "Usaste una conversión errónea de unidades."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "5.4 N.",
           "is_correct": true,
           "feedback": "F = k·|q1·q2|/r² = 9e9·(2e-6)·(3e-6)/(0.1)² = 5.4 N."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "54 N.",
           "is_correct": false,
           "feedback": "Error de orden de magnitud."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "540 N.",
           "is_correct": false,
           "feedback": "Exceso en el orden de magnitud."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La ley de Coulomb (F = k·q1·q2/r²) permite calcular la fuerza entre cargas puntuales en el vacío o en aire.",
       "difficulty": "6",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "En un taller en Bucaramanga, se aplica la ley de Ohm a un circuito resistivo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "0.2 V.",
           "is_correct": false,
           "feedback": "Invertiste el cociente."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "20 V.",
           "is_correct": true,
           "feedback": "V = R·I = 10·2 = 20 V."
@@ -267,7 +267,7 @@
           "feedback": "Exceso de un orden de magnitud."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La ley de Ohm relaciona voltaje, corriente y resistencia mediante V = R·I.",
       "difficulty": "6",
       "images": [],
@@ -341,25 +341,25 @@
           "feedback": "La corriente no es la fuente de fem inducida."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "La rapidez de cambio del flujo magnético que atraviesa el circuito.",
           "is_correct": true,
           "feedback": "fem = -dΦ/dt."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La resistencia del alambre.",
           "is_correct": false,
           "feedback": "La fem es independiente de R."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El cuadrado del campo magnético.",
           "is_correct": false,
           "feedback": "El flujo, no el campo al cuadrado."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La ley de inducción electromagnética de Faraday es fundamental para generadores, transformadores y motores eléctricos.",
       "difficulty": "6",
       "images": [],
@@ -387,13 +387,13 @@
           "feedback": "Error en la fórmula."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "3 N.",
           "is_correct": true,
           "feedback": "F = B·I·L·sen θ = 3·5·0.2·1 = 3 N."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "30 N.",
           "is_correct": false,
           "feedback": "Excediste un orden de magnitud."
@@ -405,7 +405,7 @@
           "feedback": "Dividiste en lugar de multiplicar."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La fuerza magnética sobre un conductor recto es F = B·I·L·sen θ.",
       "difficulty": "6",
       "images": [],
@@ -427,13 +427,13 @@
       "context": "En clase en Ibagué, se resuelve un circuito serie con dos resistencias.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "5 A.",
           "is_correct": false,
           "feedback": "Error en la suma de resistencias."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "2 A.",
           "is_correct": true,
           "feedback": "R_eq = 4 + 6 = 10 Ω; I = V/R = 20/10 = 2 A."
@@ -451,7 +451,7 @@
           "feedback": "No aplicaste la ley de Ohm."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "En un circuito serie, las resistencias se suman y la corriente es la misma en todos los componentes.",
       "difficulty": "6",
       "images": [],
@@ -485,19 +485,19 @@
           "feedback": "C es inversamente proporcional a la distancia d."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Disminuye la distancia entre las placas y se aumenta el área.",
           "is_correct": true,
           "feedback": "C = ε·A/d."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Se desconecta la fuente.",
           "is_correct": false,
           "feedback": "La capacitancia es propiedad del capacitor."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La capacitancia de un capacitor de placas paralelas depende del área, la separación y el dieléctrico entre las placas.",
       "difficulty": "8",
       "images": [],
@@ -611,19 +611,19 @@
       "context": "En una discusión en Cali, se debate el funcionamiento de un motor eléctrico.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "La fuerza sobre una corriente en un campo magnético (F = B·I·L).",
           "is_correct": true,
           "feedback": "El torque generado produce movimiento rotacional."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La ley de Hooke de resortes.",
           "is_correct": false,
           "feedback": "No aplica a motores eléctricos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La reflexión de ondas sonoras.",
           "is_correct": false,
           "feedback": "No es el principio de operación."
@@ -635,7 +635,7 @@
           "feedback": "Es óptica, no electromagnetismo aplicado."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Los motores eléctricos convierten energía eléctrica en mecánica aprovechando la fuerza magnética sobre conductores con corriente.",
       "difficulty": "8",
       "images": [],
@@ -657,13 +657,13 @@
       "context": "En Tunja, se analiza el comportamiento de circuitos RC en transitorios.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "τ = R·C.",
           "is_correct": true,
           "feedback": "La constante de tiempo caracteriza la velocidad de carga/descarga."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "τ = R/C.",
           "is_correct": false,
           "feedback": "Es la inversa."
@@ -681,7 +681,7 @@
           "feedback": "Es la inversa de la fórmula correcta."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La constante de tiempo τ = R·C indica el tiempo necesario para que la carga alcance aproximadamente el 63 % de su valor máximo.",
       "difficulty": "8",
       "images": [],
@@ -709,13 +709,13 @@
           "feedback": "Las ondas electromagnéticas pueden viajar en el vacío."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Poseer únicamente campo eléctrico.",
           "is_correct": false,
           "feedback": "Poseen campo eléctrico y magnético oscilantes."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Transportar campos eléctrico y magnético perpendiculares entre sí y a la dirección de propagación.",
           "is_correct": true,
           "feedback": "La onda es transversal electromagnética."
@@ -727,7 +727,7 @@
           "feedback": "Viajan a la velocidad de la luz."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Las ondas electromagnéticas son transversales y pueden propagarse incluso en el vacío.",
       "difficulty": "8",
       "images": [],
@@ -755,13 +755,13 @@
           "feedback": "La resistencia es independiente."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "La geometría de las bobinas, su número de vueltas y la permeabilidad del medio.",
           "is_correct": true,
           "feedback": "M = μ·N₁·N₂·A·k/l."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La temperatura del aire.",
           "is_correct": false,
           "feedback": "Influye levemente, no es principal."
@@ -773,7 +773,7 @@
           "feedback": "La masa no aparece en la fórmula."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La inductancia mutua cuantifica el acoplamiento magnético entre dos circuitos cercanos.",
       "difficulty": "10",
       "images": [],
@@ -801,13 +801,13 @@
           "feedback": "La amplitud no define el espectro."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Su frecuencia o longitud de onda, desde las ondas de radio hasta los rayos gamma.",
           "is_correct": true,
           "feedback": "El espectro es continuo en este parámetro."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Su velocidad en el agua.",
           "is_correct": false,
           "feedback": "La velocidad en el vacío es constante."
@@ -819,7 +819,7 @@
           "feedback": "Las ondas electromagnéticas son neutras."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El espectro electromagnético cubre desde ondas de radio (baja frecuencia) hasta rayos gamma (alta frecuencia).",
       "difficulty": "10",
       "images": [],
@@ -841,13 +841,13 @@
       "context": "En Sincelejo, se compara un transformador ideal con uno real.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Variaciones en la frecuencia de la red.",
           "is_correct": false,
           "feedback": "No es la principal pérdida."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Resistencia del cobre en los devanados y pérdidas por histéresis y corrientes parásitas en el núcleo.",
           "is_correct": true,
           "feedback": "Estas pérdidas reducen la eficiencia del transformador."
@@ -865,7 +865,7 @@
           "feedback": "Los transformadores están diseñados para soportar variaciones normales."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Las pérdidas en el cobre (efecto Joule) y en el hierro (histéresis y corrientes de Foucault) reducen la eficiencia real.",
       "difficulty": "10",
       "images": [],
@@ -887,31 +887,31 @@
       "context": "En Cartagena, se evalúa el impacto de los campos electromagnéticos en la salud.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Posible carcinógeno (Grupo 2B) según la IARC, recomendando precaución.",
           "is_correct": true,
           "feedback": "La evidencia es limitada; se sugiere prudencia."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Carcinógeno confirmado (Grupo 1).",
           "is_correct": false,
           "feedback": "No hay evidencia concluyente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Sustancia radioactiva.",
           "is_correct": false,
           "feedback": "Los campos de baja frecuencia no son ionizantes."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Totalmente inocuos sin restricciones.",
           "is_correct": false,
           "feedback": "Se recomienda precaución con exposiciones prolongadas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Los campos de baja frecuencia son no ionizantes; sin embargo, organismos internacionales recomiendan moderar la exposición prolongada.",
       "difficulty": "10",
       "images": [],

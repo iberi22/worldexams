@@ -25,19 +25,19 @@
           "feedback": "Incorrect. You read or borrow books here."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Drugstore / Pharmacy",
           "is_correct": true,
           "feedback": "Correct! This is where medicine is sold."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Museum",
           "is_correct": false,
           "feedback": "Incorrect. You see historical objects here."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "The student identifies basic vocabulary for city buildings and their functions.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -65,13 +65,13 @@
           "feedback": "Incorrect. That is \"Go straight\"."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Change direction to the left side.",
           "is_correct": true,
           "feedback": "Correct! This is the standard meaning of the command."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Stop moving.",
           "is_correct": false,
           "feedback": "Incorrect. This is \"Stop\"."
@@ -83,7 +83,7 @@
           "feedback": "Incorrect. That is \"Turn right\"."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "The student identifies the meaning of basic imperative verbs used for giving directions.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -111,13 +111,13 @@
           "feedback": "Incorrect. Asks about time."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Where",
           "is_correct": true,
           "feedback": "Correct! \"Where\" asks for the location of a place."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Who",
           "is_correct": false,
           "feedback": "Incorrect. Asks about a person."
@@ -129,7 +129,7 @@
           "feedback": "Incorrect. Asks for a reason."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "The student understands the correct interrogative word to ask for directions.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -157,13 +157,13 @@
           "feedback": "Incorrect."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "in",
           "is_correct": false,
           "feedback": "Incorrect."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "between",
           "is_correct": true,
           "feedback": "Correct! \"Between\" is used for a position between two other things."
@@ -175,7 +175,7 @@
           "feedback": "Incorrect. Requires \"to\" (next to)."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "The student understands the use of the preposition \"between\" to describe a relative position in a city layout.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "Giving a sequence of directions.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "go",
           "is_correct": false,
           "feedback": "Incorrect. \"Go right\" is possible but \"turn\" is the standard verb for changing direction."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "turn",
           "is_correct": true,
           "feedback": "Correct! \"Turn\" is the specific verb for changing direction at a corner."
@@ -221,7 +221,7 @@
           "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "The student applies the correct imperative verb for directional instructions.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "A simple map description.\n\n\"You are at the Bank. Go straight and turn left on Main Street. The Library is on the corner, across from the park.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Next to the Bank.",
           "is_correct": false,
           "feedback": "Incorrect. You have to walk and turn left first."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "On the corner, opposite the park.",
           "is_correct": true,
           "feedback": "Correct! \"Across from\" means on the opposite side."
@@ -267,7 +267,7 @@
           "feedback": "Incorrect. Not mentioned."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "The student applies reading strategies to follow verbal directions and identify a final destination.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -295,13 +295,13 @@
           "feedback": "Incorrect. Dangerous actions should be advised against."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "shouldn't",
           "is_correct": true,
           "feedback": "Correct! Modal for advice against a dangerous action."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "must",
           "is_correct": false,
           "feedback": "Incorrect. You shouldn't be obligated to do something dangerous."
@@ -313,7 +313,7 @@
           "feedback": "Incorrect. While possible, it is not safe."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "The student applies modal verbs to give safety advice in a city context.\n\n---",
       "difficulty": "8",
       "images": [],

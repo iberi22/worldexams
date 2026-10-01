@@ -13,31 +13,31 @@
       "context": "En una kermesse solidaria en el barrio de San Telmo, se organiza un juego donde se extrae una bolilla de un bolillero que contiene números del 1 al 20.\n\nJuego de azar en una feria barrial.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "S = {1, 2, 3, ..., 20}",
           "is_correct": true,
           "feedback": "Correcto. El espacio muestral incluye todos los resultados posibles del experimento."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "S = {1, 20}",
           "is_correct": false,
           "feedback": "Incorrecto. Estos son solo los valores extremos, no todos los posibles."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "S = {2, 4, 6, ..., 20}",
           "is_correct": false,
           "feedback": "Incorrecto. Este sería el evento de obtener un número par, no el espacio muestral completo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "S = {x / x es un número real entre 1 y 20}",
           "is_correct": false,
           "feedback": "Incorrecto. Las bolillas tienen números enteros, no son valores continuos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El espacio muestral es el conjunto de todos los resultados posibles de un experimento aleatorio. En este caso, como hay 20 bolillas numeradas del 1 al 20, el conjunto contiene cada uno de esos números enteros.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -64,25 +64,25 @@
           "feedback": "Incorrecto. Hay 4 palos, pero la pregunta es sobre una carta específica, no sobre cualquier espada."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "1/40",
           "is_correct": true,
           "feedback": "Correcto. Hay un solo ancho de espadas en un total de 40 casos posibles."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "1/10",
           "is_correct": false,
           "feedback": "Incorrecto. Hay 10 cartas de espadas, pero solo una es el ancho de espadas."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "4/40",
           "is_correct": false,
           "feedback": "Incorrecto. Esto representaría la probabilidad de sacar cualquier \"as\" o \"1\", no solo el de espadas."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La Ley de Laplace establece que la probabilidad de un evento es el cociente entre el número de casos favorables y el número de casos posibles, siempre que estos sean equiprobables. Aquí, hay 1 caso favorable (el 1 de espadas) sobre 40 posibles.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -289,13 +289,13 @@
           "feedback": "Incorrecto. Se está contando dos veces el As de corazones."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "16/52",
           "is_correct": true,
           "feedback": "Correcto. Hay 4 Ases y 13 Corazones, pero el As de corazones está en ambos grupos. Entonces 4 + 13 - 1 = 16."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "13/52",
           "is_correct": false,
           "feedback": "Incorrecto. Esta es solo la probabilidad de sacar corazones."
@@ -307,7 +307,7 @@
           "feedback": "Incorrecto. Esta es solo la probabilidad de sacar un As."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Para la unión de dos eventos (A o B), usamos la fórmula: P(A U B) = P(A) + P(B) - P(A ∩ B). Aquí: P(As) = 4/52, P(Corazón) = 13/52, P(As y Corazón) = 1/52. Total: 4/52 + 13/52 - 1/52 = 16/52.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -379,13 +379,13 @@
           "feedback": "Incorrecto. Esto representa solo un tipo de moneda (por ejemplo, solo las de $100)."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "0,50",
           "is_correct": true,
           "feedback": "Correcto. Hay 8 monedas favorables ($50 y $100) sobre un total de 16 (4 de cada uno de los 4 valores)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "0,75",
           "is_correct": false,
           "feedback": "Incorrecto. Incluiría también las de $25, que no son mayores o iguales a $50."
@@ -397,7 +397,7 @@
           "feedback": "Incorrecto. El cálculo es 8/16, lo cual simplifica a 0,5."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Identificamos los casos totales: 4 valores x 4 monedas = 16 monedas. Los casos favorables son las monedas de $50 (4) y las de $100 (4), totalizando 8. P = 8/16 = 0,5.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -418,13 +418,13 @@
       "context": "Un experimento consiste en lanzar una moneda argentina de 2 pesos y observar si sale \"Cara\" o \"Escudo\" (Cruz).\n\nLanzamiento de moneda local.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Probabilidad teórica",
           "is_correct": false,
           "feedback": "Incorrecto. La teórica se basa en el modelo ideal (Laplace), que sería 0,5."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Probabilidad frecuencial o empírica",
           "is_correct": true,
           "feedback": "Correcto. Se basa en la observación de resultados tras repetir el experimento."
@@ -442,7 +442,7 @@
           "feedback": "Incorrecto. Esta ley dice que la frecuencia relativa tiende a la probabilidad teórica al aumentar los ensayos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La probabilidad frecuencial se obtiene dividiendo la cantidad de veces que ocurrió el evento por el número total de ensayos realizados. Se diferencia de la teórica en que surge de la experimentación real.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -463,13 +463,13 @@
       "context": "Valentina está analizando las patentes de autos en Argentina (formato AF 123 CD). Se enfoca solo en la última letra.\n\nPatentes de vehículos actuales en Argentina.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "1/26",
           "is_correct": false,
           "feedback": "Incorrecto. Hay 5 vocales, no una sola."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "5/26",
           "is_correct": true,
           "feedback": "Correcto. Hay 5 casos favorables (las 5 vocales) sobre 26 posibles."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto. Esta es la probabilidad de que sea una consonante."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Asumiendo que cada letra tiene la misma probabilidad de aparecer, aplicamos Laplace. Casos posibles: 26 letras. Casos favorables: {A, E, I, O, U}, es decir, 5 casos. P = 5/26.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -520,19 +520,19 @@
           "feedback": "Incorrecto. Esta es la probabilidad de que una lo sea."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "0,0025",
           "is_correct": true,
           "feedback": "Correcto. Para eventos independientes, P(A ∩ B) = P(A) * P(B). 0,05 * 0,05 = 0,0025."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "0,25",
           "is_correct": false,
           "feedback": "Incorrecto. Error en la ubicación de la coma decimal."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Como la selección es con reposición, los eventos son independientes. La probabilidad de que ocurran ambos es el producto de sus probabilidades individuales: 0,05 x 0,05 = 0,0025 (o 0,25%).\n\n---",
       "difficulty": "8",
       "images": [],
@@ -559,13 +559,13 @@
           "feedback": "Incorrecto. No se multiplican las opciones totales por la cantidad de preguntas en el denominador."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "4/3",
           "is_correct": false,
           "feedback": "Incorrecto. La probabilidad no puede ser mayor a 1."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "1/81",
           "is_correct": true,
           "feedback": "Correcto. En cada pregunta la probabilidad es 1/3. Al ser 4 preguntas independientes: (1/3)^4 = 1/81."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. Esto sería si hubiera 4 opciones por pregunta."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Cada pregunta es un evento independiente con P(Éxito) = 1/3. La probabilidad de éxito simultáneo en las 4 es el producto: 1/3 * 1/3 * 1/3 * 1/3 = 1/81.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -604,25 +604,25 @@
           "feedback": "Incorrecto. Solo hay 1 forma de obtener tres caras, pero hay más de una forma de obtener dos caras y una cruz."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "3/8",
           "is_correct": true,
           "feedback": "Correcto. Los casos favorables son (C,C,X), (C,X,C) y (X,C,C). El total de casos es 2^3 = 8."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "2/8",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste uno de los arreglos posibles."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "1/2",
           "is_correct": false,
           "feedback": "Incorrecto. No es una probabilidad del 50%."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El espacio muestral tiene 8 elementos. Los arreglos que cumplen \"2 caras y 1 cruz\" son 3. Por lo tanto, P = 3/8 = 0,375.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -655,19 +655,19 @@
           "feedback": "Incorrecto. Solo cuenta la probabilidad de tu primo."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "0,075",
           "is_correct": true,
           "feedback": "Correcto. Al ser eventos mutuamente excluyentes (un solo ganador), sumamos las probabilidades: 5/200 + 10/200 = 15/200 = 0,075."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "0,15",
           "is_correct": false,
           "feedback": "Incorrecto. Error en la división 15/200."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Como solo hay un premio, no pueden ganar ambos al mismo tiempo. Son eventos disjuntos. La probabilidad de la unión es la suma de las probabilidades: 0,025 + 0,05 = 0,075.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -733,13 +733,13 @@
       "context": "Un sistema de seguridad en una empresa de software de Buenos Aires requiere dos códigos independientes para abrir una bóveda. La probabilidad de que el primer código falle es 0,1 y de que el segundo falle es 0,2.\n\nSeguridad informática y fallos de sistema.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "0,3",
           "is_correct": false,
           "feedback": "Incorrecto. No se suman las probabilidades directamente sin restar la intersección."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "0,28",
           "is_correct": true,
           "feedback": "Correcto. P(A U B) = P(A) + P(B) - P(A ∩ B) = 0,1 + 0,2 - (0,1 * 0,2) = 0,3 - 0,02 = 0,28."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. Esta es la probabilidad de que ninguno falle."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Buscamos la unión de fallos. Como son independientes, la probabilidad de que ambos fallen es 0,1 * 0,2 = 0,02. Luego, P(A o B) = 0,1 + 0,2 - 0,02 = 0,28. Alternativamente, 1 - P(Ninguno falle) = 1 - (0,9 * 0,8) = 1 - 0,72 = 0,28.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -784,13 +784,13 @@
           "feedback": "Incorrecto. La probabilidad depende del área, no del radio linealmente."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "1/4",
           "is_correct": true,
           "feedback": "Correcto. El área del blanco es πR² y la del centro es π(R/2)² = πR²/4. La relación de áreas es 1/4."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "1/8",
           "is_correct": false,
           "feedback": "Incorrecto. No se eleva al cubo, ya que estamos en dos dimensiones (área)."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. El valor de π se cancela en la división."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "En probabilidad geométrica, la probabilidad es el cociente de las áreas. Área pequeña / Área grande = (π * (R/2)²) / (π * R²) = (1/4 * πR²) / πR² = 1/4.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -829,25 +829,25 @@
           "feedback": "Incorrecto. Esto sería si hubiera reposición (6/10 * 6/10)."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "1/3",
           "is_correct": true,
           "feedback": "Correcto. P(1ra grasa) = 6/10. Al no haber reposición, P(2da grasa | 1ra grasa) = 5/9. Total: 6/10 * 5/9 = 30/90 = 1/3."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "12/100",
           "is_correct": false,
           "feedback": "Incorrecto. No corresponde al cálculo sin reposición."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "0,6",
           "is_correct": false,
           "feedback": "Incorrecto. Esta es la probabilidad de sacar solo una factura de grasa en el primer intento."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Al no haber reposición, los eventos son dependientes. La probabilidad conjunta es P(A) * P(B|A). 6/10 * 5/9 = 30/90 = 1/3 (aprox 0,333).\n\n---",
       "difficulty": "10",
       "images": [],
@@ -868,31 +868,31 @@
       "context": "Un matemático argentino plantea la \"Paradoja del Caballero de Méré\" modificada: ¿Qué es más probable, obtener al menos un 6 en 4 lanzamientos de un dado, o al menos un \"doble 6\" en 24 lanzamientos de dos dados?\n\nProblema histórico de probabilidad.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Es ligeramente más probable obtener al menos un 6 en 4 lanzamientos.",
           "is_correct": true,
           "feedback": "Correcto. P1 = 1 - (5/6)^4 ≈ 0,5177. P2 = 1 - (35/36)^24 ≈ 0,4914."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Es ligeramente más probable obtener al menos un doble 6 en 24 lanzamientos.",
           "is_correct": false,
           "feedback": "Incorrecto. El cálculo muestra que es menor a 0,5."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ambas situaciones tienen exactamente la misma probabilidad.",
           "is_correct": false,
           "feedback": "Incorrecto. Aunque están cerca de 0,5, no son iguales."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Ambas probabilidades son menores a 0,4.",
           "is_correct": false,
           "feedback": "Incorrecto. Ambas están cerca del 50%."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Usamos el complemento: P(Al menos uno) = 1 - P(Ninguno). Para un dado: 1 - (5/6)^4 = 0,5177. Para dos dados: 1 - (35/36)^24 = 0,4914. Por lo tanto, el primer caso es más probable.",
       "difficulty": "10",
       "images": [],

@@ -19,25 +19,25 @@
           "feedback": "Incorrecto. La derivada representa el cambio, y una constante no cambia."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "0",
           "is_correct": true,
           "feedback": "Correcto. Por regla fundamental, la derivada de cualquier constante es siempre cero."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "1",
           "is_correct": false,
           "feedback": "Incorrecto. La derivada de x es 1, no la de una constante."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$x$",
           "is_correct": false,
           "feedback": "Incorrecto. La derivada de una constante no puede ser una variable."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La derivada mide la razón de cambio de una función. Dado que una función constante no varía sin importar el valor de $x$, su razón de cambio (pendiente de la recta tangente) es nula en todos sus puntos.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -64,25 +64,25 @@
           "feedback": "Incorrecto. Esta no es una función constante, es una función lineal."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "7",
           "is_correct": true,
           "feedback": "Correcto. La derivada de una función de la forma cx es simplemente el coeficiente c."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$7x$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidó aplicar la regla de la potencia (el grado de x disminuye en 1)."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$x$",
           "is_correct": false,
           "feedback": "Incorrecto. El coeficiente 7 debe permanecer como resultado del proceso."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Para una función lineal $f(x) = mx + b$, la derivada es la pendiente $m$. En este caso, al derivar $7x$, aplicamos la regla de la potencia: $1 \\cdot 7 \\cdot x^{1-1} = 7 \\cdot x^0 = 7$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -103,19 +103,19 @@
       "context": "Se requiere encontrar la pendiente de una parábola sencilla en un punto cualquiera.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidó multiplicar por el exponente original."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$2$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidó que tras restar 1 al exponente, todavía queda x elevado a la 1."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "$2x$",
           "is_correct": true,
           "feedback": "Correcto. Bajamos el exponente 2 a multiplicar y restamos 1 al exponente original: 2 * x^(2-1) = 2x."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. La función no puede ser su propia derivada en este caso."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "La regla de la potencia establece que si $f(x) = x^n$, entonces $f'(x) = nx^{n-1}$. Para $x^2$, $n=2$, por lo que obtenemos $2x^1$, que se escribe simplemente como $2x$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,19 +148,19 @@
       "context": "Un arquitecto diseña una rampa cuya altura sigue una función de tercer grado y necesita conocer su inclinación.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$12x^2$",
           "is_correct": true,
           "feedback": "Correcto. Multiplicamos el exponente 3 por el coeficiente 4 (3 * 4 = 12) y restamos 1 al exponente (3 - 1 = 2)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$4x^2$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidó multiplicar el coeficiente por el exponente original."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$12x^3$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidó restar 1 al exponente de la variable."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. Sumó el coeficiente y el exponente en lugar de multiplicarlos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Al derivar un término de la forma $ax^n$, la derivada es $(a \\cdot n)x^{n-1}$. Aplicando esto a $4x^3$, tenemos $(4 \\cdot 3)x^{3-1} = 12x^2$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -244,13 +244,13 @@
           "feedback": "Incorrecto. Solo derivó el primer factor y descartó el segundo."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$3x^2 + 1$",
           "is_correct": false,
           "feedback": "Incorrecto. Posible error al aplicar la regla o al distribuir los términos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$3x^2 + 2x$",
           "is_correct": true,
           "feedback": "Correcto. Derivada = (2x)(x+1) + (x^2)(1) = 2x^2 + 2x + x^2 = 3x^2 + 2x."
@@ -262,7 +262,7 @@
           "feedback": "Incorrecto. No aplicó correctamente la suma de los términos de la regla del producto."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "La regla del producto dice: $(uv)' = u'v + uv'$. Aquí $u = x^2$ y $v = x + 1$. Entonces $f'(x) = (2x)(x+1) + (x^2)(1)$. Al simplificar la expresión algebraica resultante se obtiene $3x^2 + 2x$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -289,25 +289,25 @@
           "feedback": "Incorrecto. Olvidó elevar al cuadrado el denominador en el resultado final."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$\\frac{1}{(x+1)^2}$",
           "is_correct": true,
           "feedback": "Correcto. Derivada = [1(x+1) - x(1)] / (x+1)^2 = (x+1-x) / (x+1)^2 = 1/(x+1)^2."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "1",
           "is_correct": false,
           "feedback": "Incorrecto. La derivada de un cociente no es simplemente el cociente de las derivadas."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$\\frac{2x+1}{(x+1)^2}$",
           "is_correct": false,
           "feedback": "Incorrecto. Error en la resta del numerador de la regla del cociente."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La regla del cociente es: $(u/v)' = (u'v - uv') / v^2$. Designando $u=x$ y $v=x+1$, aplicamos la fórmula y simplificamos el numerador $x + 1 - x$, lo que nos deja un 1 sobre el denominador al cuadrado.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -334,25 +334,25 @@
           "feedback": "Incorrecto. Olvidó que la derivada del coseno es el seno negativo."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$3\\cos(x) - 2\\sin(x)$",
           "is_correct": true,
           "feedback": "Correcto. La derivada de sen(x) es cos(x) y la de cos(x) es -sen(x). Los coeficientes se mantienen."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$-3\\cos(x) + 2\\sin(x)$",
           "is_correct": false,
           "feedback": "Incorrecto. Cambió los signos de forma errónea; la derivada del seno es positiva."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$3\\sin(x) - 2\\cos(x)$",
           "is_correct": false,
           "feedback": "Incorrecto. Confundió las reglas de derivación de las funciones trigonométricas."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Las derivadas básicas de funciones trigonométricas son: $\\frac{d}{dx}\\sin(x) = \\cos(x)$ y $\\frac{d}{dx}\\cos(x) = -\\sin(x)$. Aplicando la linealidad de la derivada obtenemos $3\\cos(x) - 2\\sin(x)$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -373,13 +373,13 @@
       "context": "En un estudio demográfico, se utiliza una función exponencial para modelar el crecimiento de una zona urbana en el Estado de México.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$e^{5x}$",
           "is_correct": false,
           "feedback": "Incorrecto. Esta respuesta ignora la Regla de la Cadena."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$5e^{5x}$",
           "is_correct": true,
           "feedback": "Correcto. Derivamos el exponente (5) y lo multiplicamos por la función exponencial original."
@@ -397,7 +397,7 @@
           "feedback": "Incorrecto. Dividió en lugar de multiplicar por la derivada del exponente."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Según la Regla de la Cadena para funciones exponenciales, $\\frac{d}{dx}e^{u(x)} = e^{u(x)} \\cdot u'(x)$. Como la derivada de $5x$ es 5, el resultado es $5e^{5x}$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -424,13 +424,13 @@
           "feedback": "Incorrecto. Olvidó multiplicar por la derivada del argumento (regla de la cadena)."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$\\frac{2}{x}$",
           "is_correct": true,
           "feedback": "Correcto. Aplicando regla de la cadena: (1/x^2) * (2x) = 2x/x^2 = 2/x. También se puede ver como d/dx[2 ln x] = 2/x."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\frac{1}{2x}$",
           "is_correct": false,
           "feedback": "Incorrecto. Invirtió la posición del coeficiente 2 durante la simplificación."
@@ -442,7 +442,7 @@
           "feedback": "Incorrecto. Confundió la propiedad de los logaritmos con el proceso de derivación."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La derivada de $\\ln(u)$ es $u'/u$. Con $u=x^2$, tenemos $u'=2x$, por lo que $f'(x) = 2x/x^2 = 2/x$. Alternativamente, por propiedades de logaritmos $\\ln(x^2) = 2\\ln(x)$, cuya derivada es claramente $2(1/x) = 2/x$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -469,13 +469,13 @@
           "feedback": "Incorrecto. Olvidó el coeficiente 1/2 que proviene del exponente original."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$\\frac{1}{2\\sqrt{x}}$",
           "is_correct": true,
           "feedback": "Correcto. x^(1/2) derivado es (1/2)x^(-1/2), lo cual es 1 / (2 * sqrt(x))."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$2\\sqrt{x}$",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicó por el exponente en lugar de bajarlo y restarle 1 correctamente."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto. No manejó correctamente el exponente negativo resultante."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Para derivar una raíz, la expresamos como potencia: $x^{1/2}$. Al aplicar la regla de la potencia, el exponente baja a multiplicar $(1/2)$ y el nuevo exponente es $1/2 - 1 = -1/2$. Finalmente, reescribimos el exponente negativo y fraccionario como una raíz en el denominador.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -514,13 +514,13 @@
           "feedback": "Incorrecto. Solo aplicó la regla de la potencia exterior, olvidando la regla de la cadena para el interior."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$24x(3x^2 + 1)^3$",
           "is_correct": true,
           "feedback": "Correcto. Aplicando regla de la cadena: 4(3x^2+1)^3 * (6x) = 24x(3x^2+1)^3."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$12x(3x^2 + 1)^4$",
           "is_correct": false,
           "feedback": "Incorrecto. Error al multiplicar el exponente por la derivada interna y no restó 1 al exponente."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. Solo incluyó la derivada de lo de adentro sin el factor 4 del exponente exterior."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La Regla de la Cadena establece que $\\frac{d}{dx}[g(x)]^n = n[g(x)]^{n-1} \\cdot g'(x)$. Aquí $g(x) = 3x^2 + 1$ y $g'(x) = 6x$. Al multiplicar el 4 exterior por el $6x$ interno, obtenemos el coeficiente $24x$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -559,13 +559,13 @@
           "feedback": "Incorrecto. Olvidó multiplicar por la derivada del argumento x^3."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$3x^2 \\sin(x^3)$",
           "is_correct": false,
           "feedback": "Incorrecto. Cambió la derivada del seno por el mismo seno, el resultado debe ser coseno."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$3x^2 \\cos(x^3)$",
           "is_correct": true,
           "feedback": "Correcto. La derivada de sin(u) es cos(u) * u'. Como la derivada de x^3 es 3x^2, el resultado es 3x^2 cos(x^3)."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. La derivada del seno es coseno positivo, no negativo."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Se aplica la Regla de la Cadena: primero derivamos la función exterior (seno se convierte en coseno manteniendo el argumento) y luego multiplicamos por la derivada del argumento ($x^3$ se convierte en $3x^2$).\n\n---",
       "difficulty": "8",
       "images": [],
@@ -604,13 +604,13 @@
           "feedback": "Incorrecto. Derivó el denominador por separado, lo cual es un error conceptual grave."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$-\\frac{3}{x^4}$",
           "is_correct": true,
           "feedback": "Correcto. Reescribiendo como x^(-3), la derivada es -3x^(-4), que equivale a -3/x^4."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\frac{3}{x^4}$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidó el signo negativo que surge al bajar un exponente negativo."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. No multiplicó por el exponente original -3."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Para derivar funciones con $x$ en el denominador, es más sencillo expresarlas con exponentes negativos: $1/x^n = x^{-n}$. Al derivar, bajamos el $-n$ y el nuevo exponente es $-n-1$. Para $x^{-3}$, obtenemos $-3x^{-4} = -3/x^4$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -649,25 +649,25 @@
           "feedback": "Incorrecto. Esta es la primera derivada, no la segunda."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$12x^2 - 4$",
           "is_correct": true,
           "feedback": "Correcto. Primera derivada f'(x) = 4x^3 - 4x. Derivando de nuevo: 12x^2 - 4."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$12x - 4$",
           "is_correct": false,
           "feedback": "Incorrecto. Error al derivar 4x^3; el exponente debe quedar al cuadrado."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$12x^2$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidó derivar el término -4x de la primera derivada."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La segunda derivada es simplemente la derivada de la primera derivada. Realizamos el proceso de derivación dos veces consecutivas siguiendo las reglas básicas de la potencia y la suma.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -739,25 +739,25 @@
           "feedback": "Incorrecto. La derivación implícita no eleva los términos al cuadrado en el resultado final."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$- \\frac{x}{y}$",
           "is_correct": true,
           "feedback": "Correcto. Derivando ambos lados: 2x + 2y(dy/dx) = 0. Despejando: dy/dx = -2x/2y = -x/y."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\frac{x}{y}$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidó el signo negativo al despejar el término 2x al otro lado de la igualdad."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$2x + 2y$",
           "is_correct": false,
           "feedback": "Incorrecto. Esto no es una expresión para la derivada dy/dx."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "En la derivación implícita, derivamos cada término con respecto a $x$. Cuando derivamos un término con $y$, multiplicamos por $dy/dx$ (Regla de la Cadena). Luego, aislamos algebraicamente el término $dy/dx$.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -784,13 +784,13 @@
           "feedback": "Incorrecto. Esta respuesta asume que x es una constante en la base, lo cual es falso."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$x^x \\ln(x)$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidó el término adicional que surge de la derivada de x dentro del producto."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x^x (1 + \\ln(x))$",
           "is_correct": true,
           "feedback": "Correcto. Sea y = x^x, entonces ln y = x ln x. Derivando implícitamente: (1/y)y' = (1)(ln x) + x(1/x) = ln x + 1. Entonces y' = y(ln x + 1) = x^x(ln x + 1)."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. La función x^x no es su propia derivada."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Cuando tanto la base como el exponente son variables, se utiliza la derivación logarítmica. Al aplicar logaritmo natural, convertimos la potencia en un producto, el cual derivamos usando la regla correspondiente antes de volver a multiplicar por la función original.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -874,13 +874,13 @@
           "feedback": "Incorrecto. Olvidó derivar el exponente interior e^(2x)."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$-4e^{2x} \\cos(e^{2x}) \\sin(e^{2x})$",
           "is_correct": true,
           "feedback": "Correcto. f(x) = [cos(e^{2x})]^2. Derivada = 2cos(e^{2x}) * [-sin(e^{2x})] * e^{2x} * 2 = -4e^{2x} cos(e^{2x}) sin(e^{2x})."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$4e^{2x} \\sin^2(e^{2x})$",
           "is_correct": false,
           "feedback": "Incorrecto. Error en la aplicación de la regla de la potencia y el signo de la derivada del coseno."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. Perdió la función coseno que queda al aplicar la regla de la potencia a cos^2."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Esta función requiere aplicar la Regla de la Cadena tres veces: 1) para la potencia externa (el cuadrado), 2) para la función trigonométrica (el coseno) y 3) para la función exponencial interna ($e^{2x}$). El resultado es el producto de todas estas derivadas parciales.",
       "difficulty": "10",
       "images": [],

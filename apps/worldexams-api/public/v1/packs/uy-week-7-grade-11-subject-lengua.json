@@ -19,25 +19,25 @@
           "feedback": "Incorrecto. No se está contradiciendo o refutando una postura previa; se enuncia una afirmación de base."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "La tesis o idea central que se pretende defender de forma persuasiva.",
           "is_correct": true,
           "feedback": "¡Correcto! La tesis es la postura, idea u opinión central que el emisor sostiene, defiende y pretende demostrar de manera lógica o persuasiva a lo largo de su discurso argumentativo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Un conector de reformulación poética ornamental de la vestimenta.",
           "is_correct": false,
           "feedback": "Incorrecto. No hay fines estéticos ornamentales; es una postura conceptual seria del debate estudiantil."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Un dato estadístico incontestable provisto por la dirección del liceo.",
           "is_correct": false,
           "feedback": "Incorrecto. Es una afirmación valorativa conceptual subjetiva que requiere ser demostrada con argumentos concretos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La tesis constituye el núcleo ideológico de todo texto argumentativo. Es la opinión o postura que el autor sostiene y alrededor de la cual articula sus argumentos.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -103,13 +103,13 @@
       "context": "Analizá la siguiente frase de una editorial periodística uruguaya: 'La inversión en infraestructura de internet en el interior de Uruguay ha dinamizado la economía rural. Por lo tanto, el acceso a la red de alta velocidad es un derecho indispensable para el desarrollo de todo habitante de la campaña'.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Un conector concesivo ('Por lo tanto') que introduce un contra-argumento de refutación de la campaña.",
           "is_correct": false,
           "feedback": "Incorrecto. 'Por lo tanto' no es concesivo ni introduce un obstáculo o contra-argumentación; es consecutivo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Un conector consecutivo ('Por lo tanto') que introduce la conclusión lógica o deducción derivada directamente de la premisa anterior.",
           "is_correct": true,
           "feedback": "¡Correcto! El conector consecutivo 'Por lo tanto' hilvana la premisa (la inversión dinamiza la economía) con la conclusión necesaria derivada de ese hecho (el acceso es un derecho indispensable), vertebrando el razonamiento lógico."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. Es un conector de alta cohesión sintáctica y lógica que amarra con rigor el sentido de la editorial periodística."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Los conectores consecutivos ('por lo tanto', 'por consiguiente', 'en consecuencia') son pilares del texto argumentativo. Introducen el cierre deductivo o tesis derivada de las premisas analizadas.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -154,25 +154,25 @@
           "feedback": "Incorrecto. No se extrae una ley general de un solo caso aislado de deporte uruguayo de forma falaz."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Argumento por analogía (o comparación analógica).",
           "is_correct": true,
           "feedback": "¡Correcto! El argumento por analogía establece una relación de semejanza entre dos realidades o procesos distintos (el entrenamiento del deportista de alto rendimiento y la lectura habitual del estudiante de Bachillerato) para trasladar la verdad de uno hacia el otro de forma lógica e intuitiva."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Argumento de autoridad de la Unasev sobre accidentes viales.",
           "is_correct": false,
           "feedback": "Incorrecto. No se hace mención de leyes de seguridad vial ni se cita a la Unasev o ministerios."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Una definición etimológica de origen latín de la palabra 'deporte'.",
           "is_correct": false,
           "feedback": "Incorrecto. No se explica el origen lingüístico filológico del vocablo; se razona por comparación de procesos biológicos intelectuales."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La analogía argumentativa transfiere la lógica aceptada de un dominio familiar (el deporte) hacia un dominio que se pretende demostrar (la lectura), facilitando la persuasión intelectual del receptor.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -205,19 +205,19 @@
           "feedback": "Incorrecto. No se insulta o generaliza falazmente sobre el cuerpo docente; se debate la prohibición tecnológica de celulares."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "La refutación (o contra-argumentación) de una tesis adversa previa ('prohibir es la solución mágica'), desarmándola mediante el conector adversativo 'Sin embargo' y un argumento instrumental didáctico de valor educativo.",
           "is_correct": true,
           "feedback": "¡Correcto! El columnista recurre a la contra-argumentación. Expone primero la opinión opuesta para luego refutarla de forma razonada, demostrando que prohibir es un error frente al potencial didáctico de la tecnología."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La descripción topográfica minuciosa de las marcas de teléfonos celulares más vendidos en Uruguay.",
           "is_correct": false,
           "feedback": "Incorrecto. No se enumeran marcas comerciales ni se describe la fisonomía exterior física de los teléfonos."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La contra-argumentación y la refutación enriquecen el texto argumentativo de debate intelectual. Mostrar las costuras o simplismos de la tesis contraria consolida el prestigio de la tesis defendida por el autor.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -238,13 +238,13 @@
       "context": "En un debate escolar en el Liceo N° 1 de Rivera, un alumno proclama: 'La quema de basura al aire libre en los campos del norte debe prohibirse de inmediato. Al combustionar plásticos y desechos químicos se liberan toxinas cancerígenas que contaminan el aire del pueblo, dañando de forma severa el aparato respiratorio de los niños de la zona'.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Argumento de causa-efecto.",
           "is_correct": true,
           "feedback": "¡Correcto! El argumento de causa-efecto vincula de manera lógica un hecho desencadenante (la combustión de plásticos y químicos de basura) con sus consecuencias nocivas inevitables directas (liberación de toxinas cancerígenas y daño severo a la salud infantil)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Argumento de analogía con las dunas costeras de Cabo Polonio.",
           "is_correct": false,
           "feedback": "Incorrecto. No se hace una comparación entre la basura norteña y el paisaje de dunas costeras de Cabo Polonio."
@@ -262,7 +262,7 @@
           "feedback": "Incorrecto. Es una intervención seria, alarmante y ecologista de salud, exenta de sátiras humorísticas de vecinos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El argumento de causa-efecto asienta su validez en las leyes físicas, biológicas o lógicas de la realidad del referente. Demostrar la relación de causalidad dota de gran rigor persuasivo a la tesis ecologista de prohibición.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -373,13 +373,13 @@
       "context": "Leé con atención este fragmento de un editorial sobre el transporte en el país:\n\n'El desarrollo del ferrocarril central dinamizará el traslado de mercaderías hacia el puerto de Montevideo. No obstante, las autoridades municipales deben vigilar de cerca el impacto acústico y ambiental sobre las viviendas de los barrios residenciales linderos a las vías'.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Un conector consecutivo de conclusión técnica final.",
           "is_correct": false,
           "feedback": "Incorrecto. 'No obstante' no es consecutivo ni introduce un cierre deductivo del tipo 'por lo tanto'."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Un conector adversativo o de concesión ('No obstante') que introduce un matiz de restricción, advertencia o limitación a la idea positiva expuesta en la primera oración, equilibrando la postura del editorial.",
           "is_correct": true,
           "feedback": "¡Correcto! El conector adversativo o concesivo de contraste 'No obstante' (sinónimo de 'sin embargo' o 'pero') sirve para introducir un contrapeso, cautela o advertencia importante, evitando que el editorial periodístico sea una apología incondicional y forzando la objetividad crítica de la pieza."
@@ -397,7 +397,7 @@
           "feedback": "Incorrecto. El conector amarra e hila con gran precisión y finura sintáctica las dos ideas contrastantes de la editorial de prensa."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Los conectores adversativos y concesivos ('no obstante', 'sin embargo', 'por más que', 'a pesar de') son indispensables en la argumentación seria de prensa. Permiten matizar, balancear perspectivas e introducir advertencias indispensables para la veracidad de la pieza.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -463,13 +463,13 @@
       "context": "Leé con atención esta intervención de un foro de ecología en Uruguay:\n\n'El pastoreo rotativo ganadero en las cuchillas de Tacuarembó mejora de forma biológica la salud de la pradera natural. El prestigioso Instituto Plan Agropecuario de Uruguay ha constatado, en un estudio de cinco años en estancias del norte, un aumento del 30 % en la biomasa nativa del suelo bajo este régimen'.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Se despliega una combinación de argumento de autoridad (el Instituto Plan Agropecuario de Uruguay) con un argumento basado en hechos y datos estadísticos objetivos (aumento del 30 % de biomasa en estudio de cinco años), dotando de gran rigor y solidez científica a la tesis defendida.",
           "is_correct": true,
           "feedback": "¡Correcto! El pastoreo rotativo se defiende combinando la legitimidad institucional de la autoridad agraria (Plan Agropecuario) con la evidencia fáctica incontrovertible de las estadísticas (30 % de biomasa en estudio de cinco años). Esta alianza de recursos es la más robusta de la tipología argumentativa seria."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Se utiliza un registro de caricatura satírica para burlarse de la ganadería tradicional del país.",
           "is_correct": false,
           "feedback": "Incorrecto. El tono es serio, académico, científico agronómico y de gran formalidad de divulgación de ciencias de Secundaria."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto. No hay prohibiciones impositivas o mandatos imperativos de conducta dietaria; se expone una técnica ganadera sostenible verídica."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La argumentación de calidad en ciencias agrarias y ambientales de Secundaria hibrida la referencia a instituciones de prestigio (autoridad) con datos cuantitativos contrastables (hechos), neutralizando los sesgos de opinión de forma lógica verídica.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -508,13 +508,13 @@
       "context": "Durante una clase de Filosofía en 6° de Bachillerato de Uruguay, se analiza la refutación de falacias. Un estudiante interviene en un debate sobre el presupuesto de educación de Secundaria diciendo:\n\n—La postura del delegado estudiantil a favor de aumentar el presupuesto para comedores escolares no es seria; todos sabemos que él milita en un sector político radical y solo busca ganar votos estudiantiles.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Falacia ad misericordiam (apelación a la lástima o piedad de los comedores).",
           "is_correct": false,
           "feedback": "Incorrecto. No se apela a la lástima o piedad por los comedores; se ataca de forma frontal al emisor de la propuesta."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Falacia ad hominem (atacar directamente a la persona del oponente en lugar de refutar con lógica y datos los argumentos de su propuesta).",
           "is_correct": true,
           "feedback": "¡Correcto! La falacia ad hominem (ataque al hombre) consiste en intentar deslegitimar una tesis o idea desacreditando a la persona que la enuncia, valiéndose de sus filiaciones, vida privada o intereses ajenos, en vez de debatir de forma objetiva la verdad de sus afirmaciones presupuestarias."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. No se hace una comparación entre continentes o comedores extranjeros; se descalifica al militante de forma directa."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La falacia ad hominem representa una de las mayores trasgresiones a la ética de la argumentación racional de Secundaria. Desvía de forma maliciosa el foco del debate (la propuesta del comedor) hacia un juicio moral de la persona que la defiende.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -559,13 +559,13 @@
           "feedback": "Incorrecto. El emisor acepta la premisa de la falta de estacionamiento comercial; no la niega, sino que la pondera bajo una escala superior."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "El emisor realiza una concesión argumentativa (acepta la pérdida de estacionamiento como un hecho real) pero de inmediato introduce un valor superior o jerárquicamente supremo (el derecho a la vida y la seguridad vial de los ciclistas), desarmando la queja comercial mediante el conector adversativo 'Sin embargo' apoyado en estadísticas reales de reducción de siniestros.",
           "is_correct": true,
           "feedback": "¡Correcto! Se produce un mecanismo de concesión y jerarquización de valores. El emisor valida de forma honesta el perjuicio comercial para de inmediato subordinarlo a un bien colectivo innegablemente superior (la vida humana), respaldando su tesis con datos del 40 % de reducción vial."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Se utiliza un registro de caricatura satírica para burlarse de los autos particulares montevideanos.",
           "is_correct": false,
           "feedback": "Incorrecto. El debate es serio, formal, civil y de gran relevancia municipal, exento de sátiras humorísticas."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. La carta sintáctica y la concordancia morfosintáctica se mantienen impecables en la norma escrita formal de Secundaria."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La argumentación sólida de Secundaria admite argumentos reales de la contraparte (concesión) para luego jerarquizar los valores en disputa, demostrando que la tesis propia defiende un bien colectivo indiscutiblemente supremo (la seguridad y la vida humana).\n\n---",
       "difficulty": "8",
       "images": [],
@@ -598,13 +598,13 @@
       "context": "En un torneo de debate escolar interliceal en Rivera, se analizan los métodos de refutación de tesis.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La reducción al absurdo solo se escribe con lápiz de color rojo de Secundaria y el contraejemplo con tinta negra.",
           "is_correct": false,
           "feedback": "Incorrecto. No tiene que ver con soportes físicos escolares; son metodologías de lógica formal universal de la argumentación escrita."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La reducción al absurdo acepta temporalmente la premisa del oponente para demostrar que sus consecuencias lógicas inevitables conducen a una contradicción o tontería ridícula; la refutación por contraejemplo presenta un caso real contrastable que demuestra la falsedad o inconsistencia de una regla general postulada por el rival.",
           "is_correct": true,
           "feedback": "¡Correcto! En la lógica argumentativa de Secundaria, la reducción al absurdo opera por deducción formal demostrando el sinsentido o la contradicción interna de la tesis enemiga. La refutación por contraejemplo opera de manera empírica, presentando un hecho verídico real que tira por tierra la generalización del contrincante."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. Ambos métodos se formulan respetando con rigor la norma culta formal escrita estándar de la asignatura Lengua de Secundaria."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Tanto la reducción al absurdo como el contraejemplo son herramientas de refutación lógica de gran finura intelectual en Secundaria, indispensables para desarmar la inconsistencia de las falacias informales o las tesis débiles del rival.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -649,25 +649,25 @@
           "feedback": "Incorrecto. No hay un ataque personal o moral al fabricante; se debate sobre la circulación en veredas peatonales."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "La falacia de la pendiente resbaladiza (o efecto dominó), al postular de forma infundada una serie de consecuencias extremas, catastróficas e inevitables de gran escala a partir de una medida inicial moderada de monopatines peatonales.",
           "is_correct": true,
           "feedback": "¡Correcto! La pendiente resbaladiza es una falacia causal. Sostiene de forma falaz que una acción pequeña (monopatines peatonales) conducirá de manera catastrófica e irreversible a consecuencias extremas inaceptables de gran escala (motos y autos por la vereda), sin argumentar la necesidad lógica de ese encadenamiento trágico dominó."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Un argumento de analogía biológica con la fotosíntesis del ceibo.",
           "is_correct": false,
           "feedback": "Incorrecto. No se hace una analogía con la fotosíntesis botánica del ceibo; se discute sobre movilidad urbana peatonal montevideana."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Una elipsis de datos históricos que impide asimilar las leyes del cabildo.",
           "is_correct": false,
           "feedback": "Incorrecto. El encadenamiento de consecuencias es claro en su sintaxis escrita; el error es lógico de causa-efecto desmesurado."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La falacia de la pendiente resbaladiza elude el debate de la medida inicial (los monopatines peatonales de Secundaria) asustando de forma demagógica al receptor con un escenario de catástrofe de gran escala infundado.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -694,25 +694,25 @@
           "feedback": "Incorrecto. No se piden indemnizaciones monetarias; se debate sobre la sustentabilidad ecológica de playas como base de la economía turística."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Estructura de contra-argumentación por demostración de inconsistencia pragmática (o auto-sabotaje): demuestra que la tesis del hotelero (no regular para salvar la ganancia) destruye a mediano plazo la materia prima indispensable de su propio negocio (la playa de dunas limpias), transformando la protección de dunas en un argumento de beneficio mutuo comercial.",
           "is_correct": true,
           "feedback": "¡Correcto! El columnista desarma la queja comercial demostrando que oponerse a las leyes ambientales de playas es un acto de auto-sabotaje de su propio negocio. Al destruir las dunas de Cabo Polonio o Paysandú por codicia de corto plazo, el hotelero anula la atracción del paraje, invalidando su rentabilidad futura de forma lógica y verosímil de Secundaria."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Un relato cronológico de misterio medieval ambientado en las dunas de Cabo Polonio de Paysandú.",
           "is_correct": false,
           "feedback": "Incorrecto. Es prosa de opinión seria civil contemporánea de Paysandú; no hay intrigas policiales medievales en las dunas costeras de Cabo Polonio."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Una clasificación etopeyica de la crueldad espiritual íntima de los hoteleros de playas de Paysandú.",
           "is_correct": false,
           "feedback": "Incorrecto. Se debate la lógica comercial y de rentabilidad ecológica de la costa; no se hace un juicio moral de maldad de los empresarios."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Demostrar la inconsistencia pragmática de la tesis contraria (el auto-sabotaje de su propia meta a mediano plazo) es una de las herramientas de refutación de mayor elegancia intelectual en Secundaria, desarmando la codicia comercial con su propia lógica de rentabilidad de Secundaria.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -784,25 +784,25 @@
           "feedback": "Incorrecto. No hay ninguna analogía con las dunas de Cabo Polonio costeras; se debate de alimentación escolar áulica de Secundaria."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "La declaración incurre en una falacia de falsa equivalencia y de apelación extrema al miedo (ad metum) mediante la hipérbole moral destructiva: equipara de forma desmesurada un desacuerdo presupuestario administrativo-escolar con el crimen de 'genocidio de Secundaria por hambre' y 'asesinato infantil', violentando la racionalidad del debate de Secundaria con un sentimentalismo demagógico alarmista.",
           "is_correct": true,
           "feedback": "¡Correcto! El debate de raciones de comedores escolares de Secundaria es presupuestario y logístico. Utilizar epítetos morales extremos como 'genocidio por hambre' o 'asesinato' es una trampa de lógica argumentativa que violenta la ponderación serena de datos presupuestarios reales mediante la extorsión emocional del receptor."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Se utiliza un registro formal administrativo impecable que goza de gran validez científica para informes ministeriales del Mercosur.",
           "is_correct": false,
           "feedback": "Incorrecto. Es un alegato de desmesura pasional extrema que quiebra de forma flagrante el decoro e imparcialidad científica del discurso formal escrito de Secundaria."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El estudiante demuestra poseer patologías graves de la facultad biológica innata del lenguaje articulado oral.",
           "is_correct": false,
           "feedback": "Incorrecto. El estudiante se expresa de forma gramaticalmente correcta y con alta competencia comunicativa pasional; el desvío es de lógica racional de Secundaria."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El uso de la hipérbole moral destructiva y la apelación desmesurada al miedo (ad metum) desvirtúan la argumentación seria de Secundaria. El debate de políticas de comedores escolares requiere ponderar datos de desnutrición clínica reales de Secundaria de forma lógica y verídica, sin caer en la demagogia de asustar con carátulas criminales falsas.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -829,25 +829,25 @@
           "feedback": "Incorrecto. Se redactan respetando con rigor la norma culta formal escrita de Secundaria, sin limitaciones de variedades departamentales coloquiales de Salto."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Que ocultar la contra-argumentación reduce la solidez del texto de opinión, haciéndolo lucir dogmático e indefenso; al contrario, una argumentación de prestigio de Secundaria asume de forma honesta las críticas del rival para refutarlas de forma lógica o subordinarlas en una escala de valores superior, demostrando madurez intelectual, neutralizando los prejuicios del receptor de Secundaria de forma proactiva y aumentando la convicción del texto de opinión de Secundaria.",
           "is_correct": true,
           "feedback": "¡Correcto! En teoría de la argumentación, la contra-argumentación y la refutación proactiva son signos de calidad, rigor e inteligencia retórica. Mostrar las ideas contrarias para desmantelarlas de manera lógica dota de gran invulnerabilidad a la tesis defendida, desarmando de forma anticipada las quejas que el receptor de Secundaria pudiera albergar."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La directiva es correcta dado que en los periódicos serios uruguayos de Montevideo se prohíbe por ley constitucional el debate de ideas sociales.",
           "is_correct": false,
           "feedback": "Incorrecto. La libertad de prensa y el libre debate plural de ideas constituyen derechos garantizados por la Constitución de la República Oriental del Uruguay."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La diferencia radica en que las columnas de opinión técnica solo se escriben con tinta verde de Secundaria.",
           "is_correct": false,
           "feedback": "Incorrecto. Es un debate epistémico de estrategia retórica y lógica escritural formal de Secundaria, ajeno a soportes físicos escolares de tinta."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La contra-argumentación no debilita; fortalece de forma drástica la solidez del discurso de Secundaria. Asumir de forma honesta el punto de vista rival de Secundaria para desmantelarlo con datos o lógica formal (refutación) consagra el prestigio intelectual y la convicción del texto de opinión de Secundaria.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -874,13 +874,13 @@
           "feedback": "Incorrecto. No ataca la moral o filiaciones de las autoridades; razona por analogía internacional de sistemas de Secundaria de forma falaz."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Incurre en una falacia de falsa analogía transcultural e insolvencia de causa simple: asume que la excelencia escolar de Finlandia obedece de forma exclusiva a la ausencia de exámenes de Bachillerato de Secundaria, ignorando de manera desmedida las inmensas diferencias socioeconómicas, de inversión presupuestaria, de formación y prestigio docente, y de hábitos culturales que separan la realidad de ambos países, queriendo calcar de forma ingenua una medida aislada como causa mágica de un beneficio sistémico de Secundaria.",
           "is_correct": true,
           "feedback": "¡Correcto! El razonamiento del estudiante adolece de falsa analogía. Los sistemas educativos son complejos y multifactoriales. Suponer que eliminar exámenes (un solo rasgo) trasladará mágicamente la excelencia finlandesa a las aulas uruguayas de Secundaria (causa simple), desatendiendo la inmensa red de variables socioculturales y estructurales diferenciales de base, invalida de forma lógica y verosímil la solidez de su tesis de Secundaria."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El estudiante cometió un delito gramatical grave de Secundaria al usar la palabra 'Finlandia' sin acento ortográfico en el pizarrón.",
           "is_correct": false,
           "feedback": "Incorrecto. La palabra 'Finlandia' es llana terminada en vocal, por lo que de acuerdo con las reglas de acentuación de Secundaria NO lleva tilde; su ortografía es impecable en el pizarrón."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. El uso gramatical es perfectamente inteligible; el fallo es de rigor causal y de lógica argumentativa transcultural de Secundaria."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La argumentación sólida de Secundaria veta el traslado mecánico de soluciones de un país a otro de forma descontextualizada. El análisis de políticas públicas de Secundaria exige ponderar la viabilidad local de las propuestas de Secundaria con datos socioculturales locales del país de forma lógica y verosímil, desarmando el voluntarismo mágico de Secundaria con rigor fáctico de Secundaria.\n\n---",
       "difficulty": "10",
       "images": [],

@@ -13,19 +13,19 @@
       "context": "En una tienda naturista de Bogotá se vende manzanilla en bolsas cuya masa aparece marcada en la etiqueta.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "El gramo (g), porque es la unidad básica del SI para masas pequeñas.",
           "is_correct": true,
           "feedback": "El gramo es submúltiplo del kilogramo y resulta práctico para expresar la masa de bolsas de hierbas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El centímetro (cm), porque mide la longitud de la bolsa.",
           "is_correct": false,
           "feedback": "El centímetro es unidad de longitud, no de masa."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El litro (L), porque mide la capacidad del empaque.",
           "is_correct": false,
           "feedback": "El litro mide volumen de líquidos, no masa de sólidos."
@@ -37,7 +37,7 @@
           "feedback": "La hora es unidad de tiempo y la masa no se mide en horas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "En el Sistema Internacional de Unidades (SI), la masa se expresa en kilogramos (kg) o sus submúltiplos como el gramo (g) o el miligramo (mg). Para objetos cotidianos como bolsas de hierbas o frutas, el gramo es la unidad más práctica.",
       "difficulty": "4",
       "images": [],
@@ -59,19 +59,19 @@
       "context": "En una vereda de San Agustín (Huila), un campesino lleva al mercado un canasto con 3,5 kg de café y otro con 1.250 g de panela.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "4.750 gramos.",
           "is_correct": true,
           "feedback": "3,5 kg = 3.500 g. Sumando 1.250 g: 3.500 + 1.250 = 4.750 g."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "3.625 gramos.",
           "is_correct": false,
           "feedback": "Error al convertir 3,5 kg como 3.500 g y sumarlos incorrectamente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "4.250 gramos.",
           "is_correct": false,
           "feedback": "No se sumó el kilogramo completo (faltan 500 g)."
@@ -83,7 +83,7 @@
           "feedback": "Se sumaron los dos valores como si ambos estuvieran en kg sin convertir."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Para sumar medidas de masa con unidades distintas se convierten todas a una misma unidad. 3,5 kg equivalen a 3.500 g; sumado a 1.250 g da 4.750 g. La conversión de kg a g multiplica por 1.000.",
       "difficulty": "4",
       "images": [],
@@ -105,31 +105,31 @@
       "context": "En un restaurante escolar de Cartagena se sirven 250 mL de jugo de mango en cada vaso. El comedor recibe un tanque con 15 L de jugo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "60 vasos.",
           "is_correct": true,
           "feedback": "15 L = 15.000 mL. Dividiendo 15.000 mL entre 250 mL por vaso: 15.000 / 250 = 60 vasos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "15 vasos.",
           "is_correct": false,
           "feedback": "Se ignoró la conversión a mililitros y se dividió entre 1."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "6 vasos.",
           "is_correct": false,
           "feedback": "6 corresponde a dividir 15 entre 2,5, lo cual no aplica a mililitros."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "150 vasos.",
           "is_correct": false,
           "feedback": "Corresponde a multiplicar 15 por 10 sin convertir unidades."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La conversión de capacidad se realiza con la equivalencia 1 L = 1.000 mL. Para hallar cuántos recipientes pequeños se llenan, se divide la cantidad total entre la capacidad de cada recipiente: 15.000 mL / 250 mL = 60 vasos.",
       "difficulty": "6",
       "images": [],
@@ -151,19 +151,19 @@
       "context": "Un tendero del barrio Las Cruces en Bogotá vende panela por libras. Un cliente pide 2,5 lb y otro pide 1,8 lb.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "4,3 lb ≈ 1,95 kg, que redondeado se aproxima a 1,95 kg.",
           "is_correct": true,
           "feedback": "2,5 + 1,8 = 4,3 lb. 4,3 x 0,4536 ≈ 1,95 kg."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "4,3 kg exactos.",
           "is_correct": false,
           "feedback": "Las libras y los kilogramos no son la misma unidad; 4,3 lb no equivalen a 4,3 kg."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "4,3 lb ≈ 4,3 kg, porque la libra es casi igual al kilogramo.",
           "is_correct": false,
           "feedback": "1 lb es menor que 1 kg, así que 4,3 lb son menos de 4,3 kg."
@@ -175,7 +175,7 @@
           "feedback": "9,3 kg surge de sumar 2,5 + 1,8 + 5, lo cual no aparece en el enunciado."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Para convertir de libras a kilogramos se multiplica por 0,4536. Así, 4,3 lb equivalen a aproximadamente 1,95 kg. Mantener la equivalencia correcta evita errores comunes al comprar alimentos a granel en mercados tradicionales.",
       "difficulty": "6",
       "images": [],
@@ -197,31 +197,31 @@
       "context": "Una receta familiar en Pasto requiere 0,75 L de leche y 0,35 L de agua para preparar una colada.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "1.100 mL.",
           "is_correct": true,
           "feedback": "0,75 L + 0,35 L = 1,10 L. Como 1 L = 1.000 mL, entonces 1,10 L = 1.100 mL."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "1,10 mL.",
           "is_correct": false,
           "feedback": "1,10 mL es un valor muy pequeño: faltó multiplicar por 1.000."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "110 mL.",
           "is_correct": false,
           "feedback": "110 mL es 1,10 L dividido entre 10, no multiplicado por 1.000."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "11.000 mL.",
           "is_correct": false,
           "feedback": "11.000 mL equivalen a 11 L, no a 1,10 L."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La suma de las dos capacidades es 1,10 L. Al convertir a mililitros se multiplica por 1.000, obteniendo 1.100 mL. La conversión de L a mL siempre multiplica por 1.000, mientras que la conversión inversa divide por 1.000.",
       "difficulty": "6",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "En un laboratorio escolar de Bucaramanga, dos probadores midieron 850 mL de agua en diferentes momentos del día.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Las dos representan la misma cantidad: 850 mL. La cantidad de cifras decimales indica precisión de instrumento.",
           "is_correct": true,
           "feedback": "0,85 L y 0,850 L son equivalentes (850 mL); la cantidad de ceros indica la precisión del instrumento."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "0,850 L es mayor que 0,85 L porque tiene más cifras decimales.",
           "is_correct": false,
           "feedback": "Más decimales no implica mayor valor; 0,850 L = 0,85 L."
@@ -267,7 +267,7 @@
           "feedback": "0,850 L sí es un número decimal válido y equivale a 0,85 L (850 mL)."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Los ceros a la derecha de la coma decimal no cambian el valor del número; sirven para indicar la precisión del instrumento de medición. Aquí ambas notaciones equivalen a 850 mL, pero el 0,850 L refleja una precisión de milésima.",
       "difficulty": "8",
       "images": [],
@@ -341,25 +341,25 @@
           "feedback": "43,75 kg superan los 25 kg de un bulto; faltarían 18,75 kg de alimento."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "2 bultos.",
           "is_correct": true,
           "feedback": "2 bultos dan 50 kg, suficientes para 43,75 kg."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "3 bultos.",
           "is_correct": false,
           "feedback": "3 bultos equivalen a 75 kg, mucho más de lo necesario."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "1 bulto ajustado a la baja, aunque falte alimento.",
           "is_correct": false,
           "feedback": "Ajustar a la baja deja 43,75 - 25 = 18,75 kg sin cubrir; faltaría alimento para los estudiantes."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Primero se calcula la cantidad total: 350 g x 25 estudiantes x 5 días = 43.750 g = 43,75 kg. Como cada bulto contiene 25 kg, se requieren ceil(43,75 / 25) = 2 bultos. Esta estrategia aplica al cálculo de recursos en logística y alimentación escolar.",
       "difficulty": "10",
       "images": [],

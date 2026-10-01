@@ -13,13 +13,13 @@
       "context": "Deducing why a story was published.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "must have had",
           "is_correct": false,
           "feedback": "Incorrect meaning."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "can't have had",
           "is_correct": true,
           "feedback": "Correct. Logical impossibility in the past (based on the evidence)."
@@ -37,7 +37,7 @@
           "feedback": "Too weak."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "'Can't have' + past participle is used to express a strong belief that something was impossible in the past.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -151,13 +151,13 @@
       "context": "An article about a leak.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "must leak",
           "is_correct": false,
           "feedback": "Incorrect tense."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "might have leaked",
           "is_correct": true,
           "feedback": "Correct. Speculating about a possible past motivation."
@@ -175,7 +175,7 @@
           "feedback": "Contradicts the 'because' clause."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Using 'might have' or 'may have' to suggest possible reasons for past actions in a journalistic narrative.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -203,13 +203,13 @@
           "feedback": "Incorrect tense."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "should have paid",
           "is_correct": true,
           "feedback": "Correct. Expresses criticism of a past failure."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "could pay",
           "is_correct": false,
           "feedback": "Incorrect tense."
@@ -221,7 +221,7 @@
           "feedback": "Too weak for criticism."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "'Should have' + past participle is used to criticize someone for not doing something in the past.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -249,13 +249,13 @@
           "feedback": "Contradicts 'details were wrong'."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "can't have been",
           "is_correct": true,
           "feedback": "Correct. Logical deduction of impossibility."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "might have been",
           "is_correct": false,
           "feedback": "Incorrect meaning."
@@ -267,7 +267,7 @@
           "feedback": "Incorrect meaning."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Using 'can't have been' to rule out a possibility based on subsequent evidence (the errors).\n\n---",
       "difficulty": "6",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "Analyzing a controversial interview.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "must offend",
           "is_correct": false,
           "feedback": "Incorrect tense."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "must have been offended",
           "is_correct": true,
           "feedback": "Correct. Passive modal deduction about a past feeling."
@@ -313,7 +313,7 @@
           "feedback": "Incorrect meaning."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Combining modals of deduction with the passive voice to speculate about a person's reaction in the past.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -341,25 +341,25 @@
           "feedback": "Incorrect tense."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "might have risked",
           "is_correct": true,
           "feedback": "Correct. Past possibility."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "must risk",
           "is_correct": false,
           "feedback": "Incorrect tense."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "shouldn't risk",
           "is_correct": false,
           "feedback": "Incorrect meaning."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Using 'might have' to acknowledge a significant past risk or sacrifice.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -427,19 +427,19 @@
       "context": "A formal discussion on editorial failure.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "could / have imagined",
           "is_correct": true,
           "feedback": "Correct inversion + past modal speculation."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "did / imagine",
           "is_correct": false,
           "feedback": "Correct inversion, but A expresses the inability to see the future better."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "was / imagining",
           "is_correct": false,
           "feedback": "Incorrect."
@@ -451,7 +451,7 @@
           "feedback": "Possible, but A fits the 'imagined ability' context."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Advanced B2 structure: Combining negative inversion (Hardly could they...) with a modal of past speculation.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -473,19 +473,19 @@
       "context": "Critique of a documentary's bias.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "must have presented",
           "is_correct": false,
           "feedback": "Incorrect."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "can't have presented",
           "is_correct": false,
           "feedback": "Incorrect."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "ought to have presented",
           "is_correct": true,
           "feedback": "Correct. Formal criticism of past failure."
@@ -497,7 +497,7 @@
           "feedback": "Possible, but C is a stronger ethical critique."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Using 'ought to have' as a more formal alternative to 'should have' for ethical criticism.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -519,13 +519,13 @@
       "context": "A complex scenario involving a mistaken identity.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Had / would have accused",
           "is_correct": true,
           "feedback": "Correct Third Conditional inversion."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Were / would accuse",
           "is_correct": false,
           "feedback": "Second Conditional."
@@ -543,7 +543,7 @@
           "feedback": "Incorrect syntax."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Mastery level: Using the formal inversion 'Had it not been for' to describe a past event that was narrowly avoided.\n\n---",
       "difficulty": "10",
       "images": [],

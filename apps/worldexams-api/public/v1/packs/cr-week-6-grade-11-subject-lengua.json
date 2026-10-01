@@ -13,19 +13,19 @@
       "context": "Durante una sesión de análisis en Cartago, se debate sobre los atributos fundamentales del género literario narrativo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "La presencia indispensable de un narrador que relata acontecimientos ocurridos a unos personajes en un espacio y tiempo determinados.",
           "is_correct": true,
           "feedback": "Correcto. El narrador y la secuencia de acciones temporales definen formalmente a la narrativa."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La expresión directa del yo lírico mediante versos rimados sin trama de acontecimientos.",
           "is_correct": false,
           "feedback": "Incorrecto. Esto constituye la definición formal del género lírico poético."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La escritura exclusiva en forma de diálogos destinados a la representación escénica por actores.",
           "is_correct": false,
           "feedback": "Incorrecto. Esto define formalmente al género dramático o teatral."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. La narrativa literaria artística utiliza abundantes recursos estéticos y tropos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El género narrativo se constituye a partir de la mediación de la voz del narrador, encargada de estructurar el relato del acontecer ficticio.\n\n---",
       "difficulty": "3",
       "images": [],
@@ -64,25 +64,25 @@
           "feedback": "Incorrecto. El costumbrismo retrata la realidad rural de la época, libre de ciencia ficción futurista."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "El retrato fiel de la vida rural campesina, el uso de regionalismos costarricenses en los diálogos y la denuncia de las convenciones sociales de la época.",
           "is_correct": true,
           "feedback": "Correcto. El costumbrismo y realismo rural costarricense se enfocaban en plasmar con fidelidad lingüística y social la cotidianidad del campo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La escritura de toda la novela utilizando versos alejandrinos con rima.",
           "is_correct": false,
           "feedback": "Incorrecto. Las novelas costumbristas se escriben en prosa, no en estructuras poéticas rimadas."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La ambientación exclusiva de la trama en cortes de la edad media.",
           "is_correct": false,
           "feedback": "Incorrecto. Se ambientaban de forma realista en pueblos y cantones rurales del Valle Central de Costa Rica."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La narrativa costumbrista de autores de la Generación del Olimpo como García Monge o Magón retrata al campesino costarricense y sus costumbres.\n\n---",
       "difficulty": "3",
       "images": [],
@@ -154,25 +154,25 @@
           "feedback": "Incorrecto. Esto pertenece al género de la fantasía o el realismo mágico, alejado del realismo social puro."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "El jornalero limpiaba el sudor de su frente mientras el sol de las doce calentaba la tierra agrietada. Su salario de tres colones apenas alcanzaba para el sustento diario de su familia.",
           "is_correct": true,
           "feedback": "Correcto. Describe con crudeza las condiciones socioeconómicas reales y duras del peón del campo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Un dragón de fuego bajó del Volcán Arenal destruyendo todos los trapiches.",
           "is_correct": false,
           "feedback": "Incorrecto. Introduce de fantasía mítica ajenos al propósito del retrato de realismo social."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La caña de azúcar es una planta gramínea que posee un tallo macizo lleno de jugo rico en sacarosa.",
           "is_correct": false,
           "feedback": "Incorrecto. Es un texto explicativo puramente expositivo botánico, no un relato literario realista."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La narrativa de realismo social se caracteriza por el retrato objetivo y crítico de las condiciones de vida de las clases trabajadoras, denunciando injusticias.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -199,13 +199,13 @@
           "feedback": "Incorrecto. Esto constituye un anacronismo de ciencia ficción, no realismo mágico."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "La inserción de sucesos fantásticos o maravillosos dentro de la cotidianidad de forma natural, sin causar extrañeza en los personajes.",
           "is_correct": true,
           "feedback": "Correcto. El realismo mágico integra lo irreal o insólito como parte de la realidad normal cotidiana."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La ausencia absoluta de diálogos e intervenciones de personajes en la novela.",
           "is_correct": false,
           "feedback": "Incorrecto. El realismo mágico utiliza diálogos y una gran profusión de personajes humanos."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. Pertenece al género de ficción literaria y utiliza un lenguaje estético evocador."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El realismo mágico difumina las fronteras entre lo real y lo fantástico, asimilando lo extraordinario como un componente natural de la cotidianidad de los personajes.\n\n---",
       "difficulty": "5",
       "images": [],
@@ -244,13 +244,13 @@
           "feedback": "Incorrecto. La obra aborda la cruda realidad obrera, no el turismo de ocio josefino."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "La explotación laboral de los trabajadores bananeros por parte de las multinacionales extranjeras y las precarias condiciones de salud en el Caribe costarricense.",
           "is_correct": true,
           "feedback": "Correcto. 'Mamita Yunai' retrata con fidelidad de denuncia las duras condiciones de la United Fruit Company y el desamparo de los peones."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La descripción de las enfermedades de la planta de banano emitida por el Ministerio.",
           "is_correct": false,
           "feedback": "Incorrecto. Es una novela literaria con enfoque de realismo social humano, no un informe agronómico."
@@ -262,7 +262,7 @@
           "feedback": "Incorrecto. Se ambienta en el siglo veinte en Costa Rica y trata sobre obreros agrícolas, no sobre realeza europea."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La novela de Carlos Luis Fallas es una denuncia militante del imperialismo económico y la miseria obrera en las plantaciones bananeras de Costa Rica de mediados de siglo.\n\n---",
       "difficulty": "5",
       "images": [],
@@ -289,13 +289,13 @@
           "feedback": "Incorrecto. Destruye el suspenso de manera inmediata, eliminando la intriga del relato."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Dosificar la información de manera estratégica, empleando elipsis temporales e indicios misteriosos antes de la revelación final.",
           "is_correct": true,
           "feedback": "Correcto. Retener información de forma calculada estimula la curiosidad del lector."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Introducir tablas con el censo de la provincia de Puntarenas.",
           "is_correct": false,
           "feedback": "Incorrecto. Es un dato estadístico que corta el ritmo narrativo de suspenso."
@@ -307,7 +307,7 @@
           "feedback": "Incorrecto. Atenta contra la coherencia expresiva elemental y dificulta el desarrollo de tramas."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El suspenso en la narrativa de misterio se sustenta en la administración de los datos de la trama, estimulando la conjetura del receptor.\n\n---",
       "difficulty": "5",
       "images": [],
@@ -373,13 +373,13 @@
       "context": "Un grupo de estudiantes de Cartago analiza la novela corta 'Única mirando al mar' (1993) de Fernando Contreras Castro.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La falta de infraestructura turística en las playas de la provincia.",
           "is_correct": false,
           "feedback": "Incorrecto. No aborda el turismo hotelero de Guanacaste, se enfoca en problemas marginales urbanos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La marginación social de los buceadores de basura en el botadero de Río Azul y la problemática del manejo de desechos en el Área Metropolitana.",
           "is_correct": true,
           "feedback": "Correcto. La novela expone con ternura y crudeza de realismo social contemporáneo la vida de quienes sobreviven de la basura en el basurero de Río Azul."
@@ -397,7 +397,7 @@
           "feedback": "Incorrecto. Es una novela con enfoque de realismo social urbano, no un manual de biología marina."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La obra de Fernando Contreras Castro es una de carácter ecológico y social sobre el consumismo, la exclusión y la dignidad humana en los márgenes de la sociedad.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -463,19 +463,19 @@
       "context": "Lea atentamente el siguiente fragmento del realismo social costarricense:\n\n'Única se acomodó sobre el colchón remendado. El olor penetrante del botadero flotaba en el aire de Río Azul, transformado por la brisa nocturna en un manto de la provincia que asfixiaba los sueños de los buceadores de basura. A lo lejos, las luces de la capital brillaban como estrellas inalcanzables.'",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "La contraposición entre el mundo marginal, miserable e insalubre del basurero de Río Azul (miseria inmediata) frente al mundo opulento, indiferente y lejano de la ciudad capital (estrellas inalcanzables).",
           "is_correct": true,
           "feedback": "Correcto. El fragmento utiliza el espacio de Río Azul y las luces lejanas de San José para metaforizar la exclusión social de los personajes de la novela."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La lucha de los buceadores contra la invasión de naves de la provincia.",
           "is_correct": false,
           "feedback": "Incorrecto. Las estrellas inalcanzables son una metáfora de las luces de la ciudad capital, no naves reales fantásticas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La descripción de las ventajas de vivir en el centro de San José.",
           "is_correct": false,
           "feedback": "Incorrecto. Es un de realismo crítico y denuncia de la exclusión social, no una apología residencial urbana capitalina."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto. Describe las condiciones duras de vida cotidiana, no paseos de escuela."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La geografía literaria en la novela social contemporánea de Costa Rica plasma la brecha social, oponiendo el residuo urbano marginal frente al consumo capitalino.\n\n---",
       "difficulty": "7",
       "images": [],
@@ -514,13 +514,13 @@
           "feedback": "Incorrecto. No utiliza latín, emplea el habla popular campesina local."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "A través de la recreación del idiolecto campesino con interjecciones típicas ('diay') y referencias geográficas reales, reafirmando la identidad.",
           "is_correct": true,
           "feedback": "Correcto. El costumbrismo persigue capturar la esencia popular agraria recreando el habla y las dinámicas cotidianas con un sentido de pertenencia nacional."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Mediante una crítica a la falta de escuelas públicas rurales.",
           "is_correct": false,
           "feedback": "Incorrecto. No hay denuncia educativa en este pasaje afectivo de saludo."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. Utiliza rayas de diálogo formales, respetando las normas editoriales de la época."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El costumbrismo costarricense valida la identidad campesina dándole espacio literario a sus giros lingüísticos, costumbres laborales y paisajes regionales.\n\n---",
       "difficulty": "7",
       "images": [],
@@ -559,13 +559,13 @@
           "feedback": "Incorrecto. No aborda problemas de transporte, se enfoca en el drama de los matrimonios de conveniencia."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "La preeminencia de las alianzas económicas de clase basadas en el poder patrimonial sobre el libre albedrío afectivo de los jóvenes del campo.",
           "is_correct": true,
           "feedback": "Correcto. El matrimonio arreglado de Cundila con don Sebastián refleja el predominio del interés de clase sobre los afectos de los desposeídos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La abolición del cultivo de café debido a plagas en la provincia.",
           "is_correct": false,
           "feedback": "Incorrecto. No trata sobre crisis fitosanitarias cafetaleras, expone el drama social del campesinado."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. Se sitúa en el año 1900, mucho antes de las pruebas de bachillerato modernas del país."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El desenlace de 'El Moto' rompe con el idilio costumbrista bucólico y denuncia las estructuras patriarcales de la época.\n\n---",
       "difficulty": "7",
       "images": [],
@@ -598,13 +598,13 @@
       "context": "Considere el uso de la ironía en el siguiente enunciado sobre la burocracia en Costa Rica:\n\n'El funcionario de San José atendía con la velocidad de un glaciar tropical, firmando un documento cada tres horas mientras saboreaba pacientemente su taza de café de la tarde.'",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Asocia una lentitud extrema (la velocidad de un glaciar) con la parsimonia de la oficina, logrando un efecto satírico mediante comparaciones hiperbólicas.",
           "is_correct": true,
           "feedback": "Correcto. Utiliza la ironía y la hipérbole ('velocidad de un glaciar', 'firmar cada tres horas') para satirizar la ineficiencia laboral en la oficina capitalina."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Describe científicamente el fenómeno de la cordillera volcánica de Costa Rica.",
           "is_correct": false,
           "feedback": "Incorrecto. Costa Rica es tropical y no tiene glaciares físicos activos; es un tropo irónico del autor."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. Es una crítica de comportamiento, ajena a reformas del colegio."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La ironía consiste en dar a entender lo contrario de lo que se dice explícitamente, o en asociar conceptos contradictorios para satirizar de forma lúdica.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -649,25 +649,25 @@
           "feedback": "Incorrecto. El propósito educativo es diametralmente opuesto: busca fomentar la inclusión, no el prejuicio."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Fomenta la empatía, la sensibilidad social y la comprensión de los fenómenos migratorios contemporáneos, reconociendo la dignidad de las personas en la sociedad.",
           "is_correct": true,
           "feedback": "Correcto. La literatura contemporánea es un vehículo idóneo para educar en valores humanos, derechos y respeto intercultural."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Instruye en los procedimientos legales que realiza la policía.",
           "is_correct": false,
           "feedback": "Incorrecto. Es un análisis estético y humanista literario, no un manual de procedimientos de patrullas policiales o derecho."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Exige la abolición del uso de la moneda de colones para realizar intercambios comerciales.",
           "is_correct": false,
           "feedback": "Incorrecto. Las novelas literarias no tienen la finalidad económica de reformar el sistema de moneda nacional."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El análisis literario de problemáticas marginales o migratorias humaniza la educación, convirtiendo la lectura en un taller de reflexión ética e intercultural.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -733,13 +733,13 @@
       "context": "Lea el siguiente fragmento de un relato de ciencia ficción ambientado en un Cartago futurista del año 2126:\n\n'Los trenes magnéticos volaban silenciosamente rozando las faldas del Volcán Irazú, controlados por un cerebro artificial central que administraba el tráfico de toda la Gran Área Metropolitana (GAM).'",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La inclusión de recetas tradicionales de Cartago.",
           "is_correct": false,
           "feedback": "Incorrecto. Las recetas aportan valor costumbrista, no rigor al género especulativo de ciencia ficción futurista."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La extrapolación coherente de tendencias contemporáneas aplicadas a un marco geográfico real del país.",
           "is_correct": true,
           "feedback": "Correcto. La ciencia ficción sólida proyecta hipótesis lógicas y coherentes sobre la sociedad o el territorio."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. La prosa especulativa de ciencia ficción no requiere rimar para sostener su coherencia interna."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La verosimilitud de la ciencia ficción especulativa reposa en la coherencia de sus hipótesis tecnológicas desarrolladas de forma lógica sobre un sustrato real.\n\n---",
       "difficulty": "9",
       "images": [],
@@ -784,25 +784,25 @@
           "feedback": "Incorrecto. No hay odio en el pasaje, expresa una queja de supervivencia frente a visiones urbanas de la capital."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Contrapone de forma dramática las preocupaciones de la sequía del campo frente a las inquietudes de la vida de la capital.",
           "is_correct": true,
           "feedback": "Correcto. Ilustra el abismo existencial entre la dureza agraria realista y las preocupaciones ociosas o fantásticas de la urbe."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Instruye sobre la geología de los pozos de la provincia.",
           "is_correct": false,
           "feedback": "Incorrecto. No provee datos técnicos de ingeniería hídrica del AyA; es una queja de supervivencia humana de ficción."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Exige que se autorice la siembra de café de la provincia.",
           "is_correct": false,
           "feedback": "Incorrecto. Guanacaste es de clima seco inadecuado para café; la novela no propone absurdos agronómicos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El diálogo condensa las tensiones de clase o regionales de un país, devaluando el suspenso superficial frente al conflicto realista del desamparo ambiental.\n\n---",
       "difficulty": "9",
       "images": [],

@@ -58,31 +58,31 @@
       "context": "Benjamín analiza situaciones académicas en Antofagasta.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$0.0$",
           "is_correct": true,
           "feedback": "¡Correcto! Media = 6.0, Mediana = 6, luego la diferencia es 0.0."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$2.5$",
           "is_correct": false,
           "feedback": "Incorrecto. Calculaste mal la suma para la media aritmética."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$6$",
           "is_correct": false,
           "feedback": "Incorrecto. Respondiste únicamente el valor de la mediana."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$6.0$",
           "is_correct": false,
           "feedback": "Incorrecto. Respondiste únicamente el valor de la media."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La media es x_bar = 30/5 = 6.0 y la mediana es el dato central 6. La diferencia es |6.0 - 6| = 0.0.",
       "difficulty": "4",
       "images": [],
@@ -103,19 +103,19 @@
       "context": "Martina analiza situaciones académicas en Temuco.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$0.0$",
           "is_correct": true,
           "feedback": "¡Correcto! Media = 7.0, Mediana = 7, luego la diferencia es 0.0."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$2.5$",
           "is_correct": false,
           "feedback": "Incorrecto. Calculaste mal la suma para la media aritmética."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$7$",
           "is_correct": false,
           "feedback": "Incorrecto. Respondiste únicamente el valor de la mediana."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. Respondiste únicamente el valor de la media."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La media es x_bar = 35/5 = 7.0 y la mediana es el dato central 7. La diferencia es |7.0 - 7| = 0.0.",
       "difficulty": "4",
       "images": [],
@@ -148,19 +148,19 @@
       "context": "Vicente analiza situaciones académicas en La Serena.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$0.0$",
           "is_correct": true,
           "feedback": "¡Correcto! Media = 8.0, Mediana = 8, luego la diferencia es 0.0."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$2.5$",
           "is_correct": false,
           "feedback": "Incorrecto. Calculaste mal la suma para la media aritmética."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$8$",
           "is_correct": false,
           "feedback": "Incorrecto. Respondiste únicamente el valor de la mediana."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. Respondiste únicamente el valor de la media."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La media es x_bar = 40/5 = 8.0 y la mediana es el dato central 8. La diferencia es |8.0 - 8| = 0.0.",
       "difficulty": "4",
       "images": [],
@@ -193,19 +193,19 @@
       "context": "Catalina analiza situaciones académicas en Viña del Mar.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$0.0$",
           "is_correct": true,
           "feedback": "¡Correcto! Media = 9.0, Mediana = 9, luego la diferencia es 0.0."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$2.5$",
           "is_correct": false,
           "feedback": "Incorrecto. Calculaste mal la suma para la media aritmética."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$9$",
           "is_correct": false,
           "feedback": "Incorrecto. Respondiste únicamente el valor de la mediana."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. Respondiste únicamente el valor de la media."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La media es x_bar = 45/5 = 9.0 y la mediana es el dato central 9. La diferencia es |9.0 - 9| = 0.0.",
       "difficulty": "6",
       "images": [],
@@ -283,31 +283,31 @@
       "context": "Isidora analiza situaciones académicas en Rancagua.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$0.0$",
           "is_correct": true,
           "feedback": "¡Correcto! Media = 11.0, Mediana = 11, luego la diferencia es 0.0."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$2.5$",
           "is_correct": false,
           "feedback": "Incorrecto. Calculaste mal la suma para la media aritmética."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$11$",
           "is_correct": false,
           "feedback": "Incorrecto. Respondiste únicamente el valor de la mediana."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$11.0$",
           "is_correct": false,
           "feedback": "Incorrecto. Respondiste únicamente el valor de la media."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La media es x_bar = 55/5 = 11.0 y la mediana es el dato central 11. La diferencia es |11.0 - 11| = 0.0.",
       "difficulty": "6",
       "images": [],
@@ -328,19 +328,19 @@
       "context": "Diego analiza situaciones académicas en Talca.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$0.0$",
           "is_correct": true,
           "feedback": "¡Correcto! Media = 12.0, Mediana = 12, luego la diferencia es 0.0."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$2.5$",
           "is_correct": false,
           "feedback": "Incorrecto. Calculaste mal la suma para la media aritmética."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$12$",
           "is_correct": false,
           "feedback": "Incorrecto. Respondiste únicamente el valor de la mediana."
@@ -352,7 +352,7 @@
           "feedback": "Incorrecto. Respondiste únicamente el valor de la media."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La media es x_bar = 60/5 = 12.0 y la mediana es el dato central 12. La diferencia es |12.0 - 12| = 0.0.",
       "difficulty": "6",
       "images": [],
@@ -373,13 +373,13 @@
       "context": "Camila analiza situaciones académicas en Arica.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$0.0$",
           "is_correct": true,
           "feedback": "¡Correcto! Media = 13.0, Mediana = 13, luego la diferencia es 0.0."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$2.5$",
           "is_correct": false,
           "feedback": "Incorrecto. Calculaste mal la suma para la media aritmética."
@@ -397,7 +397,7 @@
           "feedback": "Incorrecto. Respondiste únicamente el valor de la media."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La media es x_bar = 65/5 = 13.0 y la mediana es el dato central 13. La diferencia es |13.0 - 13| = 0.0.",
       "difficulty": "6",
       "images": [],
@@ -418,13 +418,13 @@
       "context": "Tomás analiza situaciones académicas en Puerto Montt.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$0.0$",
           "is_correct": true,
           "feedback": "¡Correcto! Media = 14.0, Mediana = 14, luego la diferencia es 0.0."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$2.5$",
           "is_correct": false,
           "feedback": "Incorrecto. Calculaste mal la suma para la media aritmética."
@@ -442,7 +442,7 @@
           "feedback": "Incorrecto. Respondiste únicamente el valor de la media."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La media es x_bar = 70/5 = 14.0 y la mediana es el dato central 14. La diferencia es |14.0 - 14| = 0.0.",
       "difficulty": "6",
       "images": [],
@@ -508,13 +508,13 @@
       "context": "Lucas analiza situaciones académicas en Calama.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$0.0$",
           "is_correct": true,
           "feedback": "¡Correcto! Media = 16.0, Mediana = 16, luego la diferencia es 0.0."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$2.5$",
           "is_correct": false,
           "feedback": "Incorrecto. Calculaste mal la suma para la media aritmética."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. Respondiste únicamente el valor de la media."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La media es x_bar = 80/5 = 16.0 y la mediana es el dato central 16. La diferencia es |16.0 - 16| = 0.0.",
       "difficulty": "8",
       "images": [],
@@ -553,19 +553,19 @@
       "context": "Javier analiza situaciones académicas en Valdivia.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$0.0$",
           "is_correct": true,
           "feedback": "¡Correcto! Media = 17.0, Mediana = 17, luego la diferencia es 0.0."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$2.5$",
           "is_correct": false,
           "feedback": "Incorrecto. Calculaste mal la suma para la media aritmética."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$17$",
           "is_correct": false,
           "feedback": "Incorrecto. Respondiste únicamente el valor de la mediana."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. Respondiste únicamente el valor de la media."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La media es x_bar = 85/5 = 17.0 y la mediana es el dato central 17. La diferencia es |17.0 - 17| = 0.0.",
       "difficulty": "8",
       "images": [],
@@ -598,31 +598,31 @@
       "context": "Fernanda analiza situaciones académicas en Santiago.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$0.0$",
           "is_correct": true,
           "feedback": "¡Correcto! Media = 18.0, Mediana = 18, luego la diferencia es 0.0."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$2.5$",
           "is_correct": false,
           "feedback": "Incorrecto. Calculaste mal la suma para la media aritmética."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$18$",
           "is_correct": false,
           "feedback": "Incorrecto. Respondiste únicamente el valor de la mediana."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$18.0$",
           "is_correct": false,
           "feedback": "Incorrecto. Respondiste únicamente el valor de la media."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La media es x_bar = 90/5 = 18.0 y la mediana es el dato central 18. La diferencia es |18.0 - 18| = 0.0.",
       "difficulty": "8",
       "images": [],
@@ -643,19 +643,19 @@
       "context": "Sebastián analiza situaciones académicas en Valparaíso.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$0.0$",
           "is_correct": true,
           "feedback": "¡Correcto! Media = 19.0, Mediana = 19, luego la diferencia es 0.0."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$2.5$",
           "is_correct": false,
           "feedback": "Incorrecto. Calculaste mal la suma para la media aritmética."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$19$",
           "is_correct": false,
           "feedback": "Incorrecto. Respondiste únicamente el valor de la mediana."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. Respondiste únicamente el valor de la media."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La media es x_bar = 95/5 = 19.0 y la mediana es el dato central 19. La diferencia es |19.0 - 19| = 0.0.",
       "difficulty": "8",
       "images": [],
@@ -823,31 +823,31 @@
       "context": "Vicente analiza situaciones académicas en La Serena.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$0.0$",
           "is_correct": true,
           "feedback": "¡Correcto! Media = 23.0, Mediana = 23, luego la diferencia es 0.0."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$2.5$",
           "is_correct": false,
           "feedback": "Incorrecto. Calculaste mal la suma para la media aritmética."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$23$",
           "is_correct": false,
           "feedback": "Incorrecto. Respondiste únicamente el valor de la mediana."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$23.0$",
           "is_correct": false,
           "feedback": "Incorrecto. Respondiste únicamente el valor de la media."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La media es x_bar = 115/5 = 23.0 y la mediana es el dato central 23. La diferencia es |23.0 - 23| = 0.0.",
       "difficulty": "10",
       "images": [],

@@ -13,13 +13,13 @@
       "context": "Un profesor de estadística de la Universidad de Buenos Aires explica las propiedades de la campana de Gauss.\n\nClase universitaria teórica.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "0,5",
           "is_correct": false,
           "feedback": "Incorrecto. Este es el área a un solo lado de la media."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "1",
           "is_correct": true,
           "feedback": "Correcto. Como representa la probabilidad total de todo el espacio muestral, el área es 1."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Sin importar la forma, el área total siempre es la unidad."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La curva normal es una función de densidad de probabilidad. Por definición, la integral de cualquier función de densidad sobre todo su dominio debe ser igual a 1.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -64,13 +64,13 @@
           "feedback": "Incorrecto. Este es el porcentaje entre el primer y tercer cuartil en otras distribuciones, o a un lado de la media."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "68%",
           "is_correct": true,
           "feedback": "Correcto. Según la regla empírica, aproximadamente el 68,2% de los datos cae a una desviación estándar de la media."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "95%",
           "is_correct": false,
           "feedback": "Incorrecto. Esto corresponde a dos desviaciones estándar."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. Esto corresponde a tres desviaciones estándar."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La regla empírica o regla 68-95-99,7 describe los porcentajes de datos que caen dentro de 1, 2 y 3 desviaciones estándar de la media en una distribución normal.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -109,25 +109,25 @@
           "feedback": "Incorrecto. El orden de la resta es importante."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Z = (x - μ) / σ",
           "is_correct": true,
           "feedback": "Correcto. Restamos la media para centrar en cero y dividimos por la desviación para ajustar la escala."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Z = x - μ / σ",
           "is_correct": false,
           "feedback": "Incorrecto. Falta el paréntesis, el orden de operaciones sería erróneo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Z = (x - σ) / μ",
           "is_correct": false,
           "feedback": "Incorrecto. Se divide por la desviación, no por la media."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Estandarizar permite comparar datos de distintas distribuciones normales. Z indica cuántas desviaciones estándar se encuentra un valor x por encima (positivo) o por debajo (negativo) de la media.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -199,13 +199,13 @@
           "feedback": "Incorrecto. Olvidó dividir por la desviación estándar."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "2",
           "is_correct": true,
           "feedback": "Correcto. Z = (10,4 - 10) / 0,2 = 0,4 / 0,2 = 2."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "-2",
           "is_correct": false,
           "feedback": "Incorrecto. El valor es mayor que la media, el puntaje debe ser positivo."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. No surge del cálculo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Aplicamos Z = (x - μ) / σ. El valor de 10,4 está a 0,4 cm de la media. Como cada desviación es de 0,2 cm, el valor está a exactamente 2 desviaciones estándar por encima de la media.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -238,13 +238,13 @@
       "context": "Las notas de un examen de ingreso en una facultad de Rosario se distribuyen normalmente con media 65 y desviación 10.\n\nEvaluación académica masiva.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "1,5",
           "is_correct": false,
           "feedback": "Incorrecto. El valor es menor que la media, el puntaje debe ser negativo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "-1,5",
           "is_correct": true,
           "feedback": "Correcto. Z = (50 - 65) / 10 = -15 / 10 = -1,5."
@@ -262,7 +262,7 @@
           "feedback": "Incorrecto. Error en la resta o división."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Z = (50 - 65) / 10 = -1,5. El signo negativo indica que el alumno obtuvo una calificación por debajo del promedio de la clase.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -283,13 +283,13 @@
       "context": "Usando una tabla de distribución normal estándar, sabemos que P(Z < 1) ≈ 0,8413.\n\nUso de tablas de probabilidad.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "0,1587",
           "is_correct": true,
           "feedback": "Correcto. P(Z > 1) = 1 - P(Z < 1) = 1 - 0,8413 = 0,1587."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "0,8413",
           "is_correct": false,
           "feedback": "Incorrecto. Esta es la probabilidad de ser menor."
@@ -307,7 +307,7 @@
           "feedback": "Incorrecto. No corresponde a este valor de Z."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La probabilidad de que Z sea mayor que un valor se calcula restando de 1 (el total) la probabilidad de que sea menor (el complemento).\n\n---",
       "difficulty": "6",
       "images": [],
@@ -334,13 +334,13 @@
           "feedback": "Incorrecto. Z=0 no significa valor cero de la variable."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "1000 horas",
           "is_correct": true,
           "feedback": "Correcto. Un puntaje Z de 0 corresponde exactamente al valor de la media aritmética."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "1100 horas",
           "is_correct": false,
           "feedback": "Incorrecto. Esto sería Z = 1."
@@ -352,7 +352,7 @@
           "feedback": "Incorrecto. Esto sería Z = -1."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Por definición de estandarización, el valor de la media (μ) siempre se mapea al valor 0 en la distribución normal estándar.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -424,25 +424,25 @@
           "feedback": "Incorrecto. Tienen la misma media, están centradas igual."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "La campana de A es más alta y estrecha.",
           "is_correct": true,
           "feedback": "Correcto. Menor desviación estándar significa que los datos están más concentrados cerca de la media."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La campana de A es más baja y ancha.",
           "is_correct": false,
           "feedback": "Incorrecto. Eso sería si tuviera mayor desviación estándar."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "No hay diferencia visual, todas las normales son iguales.",
           "is_correct": false,
           "feedback": "Incorrecto. La forma depende críticamente de σ."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La desviación estándar controla la \"dispersión\" o ancho de la campana. Una σ pequeña produce una campana leptocúrtica (picuda y estrecha), mientras que una σ grande produce una platicúrtica (achatada y ancha).\n\n---",
       "difficulty": "6",
       "images": [],
@@ -463,13 +463,13 @@
       "context": "En un psicotécnico realizado en Mendoza, los puntajes siguen una N(100, 15). Se considera \"sobresaliente\" a quien esté por encima del puntaje 130.\n\nSelección de personal.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "97,72%",
           "is_correct": false,
           "feedback": "Incorrecto. Este es el porcentaje que NO es sobresaliente."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "2,28%",
           "is_correct": true,
           "feedback": "Correcto. 130 corresponde a Z = (130-100)/15 = 2. La prob. de ser mayor a Z=2 es 1 - 0,9772 = 0,0228 (2,28%)."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto. No corresponde al cálculo de estandarización."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Primero calculamos Z = 2. Luego, como buscamos a los que superan ese valor, calculamos el área a la derecha: 1 - 0,9772 = 0,0228. Multiplicamos por 100 para obtener el porcentaje.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -559,13 +559,13 @@
           "feedback": "Incorrecto. Esa es la diferencia absoluta (x - μ)."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "1,22 segundos",
           "is_correct": true,
           "feedback": "Correcto. De Z = (x - μ) / σ despejamos σ = (x - μ) / Z = (10 - 8) / 1,64 ≈ 1,219."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "0,82 segundos",
           "is_correct": false,
           "feedback": "Incorrecto. Error en el despeje de la fórmula."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. Multiplicó en lugar de dividir."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Usamos la fórmula de estandarización para hallar un parámetro desconocido. Despejando: σ = (x - μ) / Z. Reemplazando: (10 - 8) / 1,64 = 1,219... ≈ 1,22.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -604,13 +604,13 @@
           "feedback": "Incorrecto. Esta es solo la probabilidad de la cola derecha."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "0,0456",
           "is_correct": true,
           "feedback": "Correcto. Z = 0,02 / 0,01 = 2. Buscamos las dos colas externas: 2 * (1 - 0,9772) = 2 * 0,0228 = 0,0456."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "0,9544",
           "is_correct": false,
           "feedback": "Incorrecto. Esta es la probabilidad de que el error sea menor a 0,02."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. Valor aproximado pero no exacto según el dato."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Buscamos P(|X| > 0,02), que equivale a las áreas externas a 2 desviaciones estándar. Como cada cola tiene 0,0228, el total es 0,0456.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -649,13 +649,13 @@
           "feedback": "Incorrecto. La media es 2%, es más probable ganar que perder."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "0,3085",
           "is_correct": true,
           "feedback": "Correcto. Z = (0 - 2) / 4 = -0,5. P(Z < -0,5) = 1 - P(Z < 0,5) = 1 - 0,6915 = 0,3085."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "0,6915",
           "is_correct": false,
           "feedback": "Incorrecto. Esta es la probabilidad de que el retorno sea menor a 4%."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. No corresponde al cálculo de la cola."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Perder dinero significa X < 0. Estandarizando: Z = (0 - 2) / 4 = -0,5. Por simetría, P(Z < -0,5) es igual a 1 - P(Z < 0,5). 1 - 0,6915 = 0,3085 (aprox 31%).\n\n---",
       "difficulty": "8",
       "images": [],
@@ -688,13 +688,13 @@
       "context": "En una distribución normal, el percentil 90 se encuentra a 1,28 desviaciones estándar de la media (Z = 1,28).\n\nRelación entre percentiles y puntajes Z.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "1,28",
           "is_correct": false,
           "feedback": "Incorrecto. Ese es el P90."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "-1,28",
           "is_correct": true,
           "feedback": "Correcto. Debido a la simetría, si el 10% superior empieza en Z=1,28, el 10% inferior termina en Z=-1,28."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. El puntaje Z no es igual al porcentaje."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La simetría de la distribución normal implica que los percentiles complementarios (10 y 90, 5 y 95, etc.) tienen puntajes Z de igual valor absoluto pero distinto signo.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -733,13 +733,13 @@
       "context": "El consumo diario de agua por hogar en una ciudad patagónica sigue una distribución normal. Se sabe que el 10% de los hogares consume más de 600 litros y el 10% consume menos de 400 litros.\n\nGestión de servicios públicos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "μ = 500, σ = 78,1",
           "is_correct": true,
           "feedback": "Correcto. Por simetría, la media está en el centro: (600+400)/2 = 500. Luego, 600 = 500 + 1,28*σ => 100 = 1,28*σ => σ = 100/1,28 = 78,125."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "μ = 500, σ = 100",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidó el factor Z de 1,28."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. Multiplicó mal los factores."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Como el 10% superior e inferior están a la misma distancia de probabilidad, la media debe ser el promedio de los valores: 500. Luego usamos 600 = 500 + 1,28σ para hallar que σ ≈ 78,1.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -784,25 +784,25 @@
           "feedback": "Incorrecto. Con este valor se rechazaría más del 1%."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "2008,3 ml",
           "is_correct": true,
           "feedback": "Correcto. Queremos que 1985 corresponda a Z = -2,33. -2,33 = (1985 - μ) / 10 => -23,3 = 1985 - μ => μ = 1985 + 23,3 = 2008,3 ml."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "2000 ml",
           "is_correct": false,
           "feedback": "Incorrecto. Este es el valor actual donde se rechaza más."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "1995,5 ml",
           "is_correct": false,
           "feedback": "Incorrecto. Bajar la media aumentaría la cantidad de botellas vacías."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Para reducir el desperdicio (rechazos), la empresa debe \"alejar\" el promedio del límite crítico. Calculamos el nuevo promedio necesario para que el límite de 1985 quede a 2,33 desviaciones estándar de la media.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -874,25 +874,25 @@
           "feedback": "Incorrecto. Verifique el cálculo de la desviación estándar primero."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "55",
           "is_correct": true,
           "feedback": "Correcto. 70 = 40 + 2*σ => 30 = 2σ => σ = 15. Para el top 15,87% (Z=1): x = 40 + 1*15 = 55."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "60",
           "is_correct": false,
           "feedback": "Incorrecto. Esto correspondería a un valor intermedio."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "45",
           "is_correct": false,
           "feedback": "Incorrecto. Demasiado cerca de la media."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Primero calculamos σ usando el dato del top 2,28% (Z=2), lo que nos da σ = 15. Luego aplicamos Z=1 para hallar el valor correspondiente al top 15,87%. x = 40 + 15 = 55.",
       "difficulty": "10",
       "images": [],

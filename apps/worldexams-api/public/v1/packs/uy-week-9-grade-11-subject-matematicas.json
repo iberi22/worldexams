@@ -58,13 +58,13 @@
       "context": "En un liceo de Salto se define la mediana.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El promedio de todos los datos.",
           "is_correct": false,
           "feedback": "Incorrecto. Esa es la media aritmética."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El valor que ocupa la posición central, con la mitad de los datos por debajo y la mitad por encima.",
           "is_correct": true,
           "feedback": "¡Correcto! La mediana divide la distribución ordenada en dos mitades."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. El máximo es un extremo, no una medida central."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La mediana es el valor central de los datos ordenados; con cantidad par, se promedian los dos valores centrales. Es robusta frente a valores extremos.",
       "difficulty": "4",
       "images": [],
@@ -109,25 +109,25 @@
           "feedback": "Incorrecto. El 10 aparece una sola vez."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$12$",
           "is_correct": true,
           "feedback": "¡Correcto! Es el único valor que se repite (dos veces)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$11.4$",
           "is_correct": false,
           "feedback": "Incorrecto. Ese valor se parece a la media, no a la moda."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$15$",
           "is_correct": false,
           "feedback": "Incorrecto. Es el máximo, pero aparece solo una vez."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La moda es el valor de mayor frecuencia. En la serie 10, 12, 8, 12, 15, el 12 se repite dos veces: es la moda.",
       "difficulty": "4",
       "images": [],
@@ -154,25 +154,25 @@
           "feedback": "Incorrecto. Revisá la suma: $7 + 8 + 9 + 6 + 10 = 40$."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$8$",
           "is_correct": true,
           "feedback": "¡Correcto! $40 \\div 5 = 8$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$8.5$",
           "is_correct": false,
           "feedback": "Incorrecto. La suma correcta es 40, no 42.5."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$9$",
           "is_correct": false,
           "feedback": "Incorrecto. Sobrestima la suma total de las notas."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Sumando $7 + 8 + 9 + 6 + 10 = 40$ y dividiendo entre 5: media $= 8$. La nota 10 no arrastra el promedio tanto como parece.",
       "difficulty": "4",
       "images": [],
@@ -199,25 +199,25 @@
           "feedback": "Incorrecto. Sin ordenar parece central, pero hay que ordenar primero: 1, 3, 5, 7, 9."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$5$",
           "is_correct": true,
           "feedback": "¡Correcto! Ordenados: 1, 3, 5, 7, 9; el valor central es 5."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$7$",
           "is_correct": false,
           "feedback": "Incorrecto. Es el cuarto valor ordenado, no el central."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$25$",
           "is_correct": false,
           "feedback": "Incorrecto. Ese es la suma de los datos, sin relación con la mediana."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Primero se ordena: 1, 3, 5, 7, 9. Con 5 datos, la posición central es la tercera: mediana $= 5$.",
       "difficulty": "6",
       "images": [],
@@ -244,13 +244,13 @@
           "feedback": "Incorrecto. Es la moda; con cantidad par, la mediana promedia los dos valores centrales."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$16.5$",
           "is_correct": true,
           "feedback": "¡Correcto! Ordenadas: 16, 16, 16, 17, 17, 18; los centrales son 16 y 17: $(16 + 17)/2 = 16.5$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$17$",
           "is_correct": false,
           "feedback": "Incorrecto. Es solo el cuarto valor ordenado; la mediana par promedia el tercero y el cuarto."
@@ -262,7 +262,7 @@
           "feedback": "Incorrecto. Ese es aproximadamente la media ($100/6$), no la mediana."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Con $n = 6$ (par), la mediana es el promedio de las posiciones 3 y 4 de la serie ordenada 16, 16, 16, 17, 17, 18: $(16 + 17)/2 = 16.5$ años.",
       "difficulty": "6",
       "images": [],
@@ -289,25 +289,25 @@
           "feedback": "Incorrecto. Sumaste los extremos; el rango es la diferencia."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$15$ °C",
           "is_correct": true,
           "feedback": "¡Correcto! $33 - 18 = 15$ °C."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$25.5$ °C",
           "is_correct": false,
           "feedback": "Incorrecto. Ese es el punto medio entre los extremos, no el rango."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$18$ °C",
           "is_correct": false,
           "feedback": "Incorrecto. Ese es solo el valor mínimo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El rango mide la dispersión total: máximo menos mínimo $= 33 - 18 = 15$ °C.",
       "difficulty": "6",
       "images": [],
@@ -334,25 +334,25 @@
           "feedback": "Incorrecto. Es la mediana ordenada, no la media."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$\\$U\\,3\\,000$",
           "is_correct": true,
           "feedback": "¡Correcto! Suma $15\\,000$ entre 5 días: $3\\,000$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\$U\\,2\\,000$",
           "is_correct": false,
           "feedback": "Incorrecto. Es la moda (se repite dos veces), no la media."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$\\$U\\,3\\,500$",
           "is_correct": false,
           "feedback": "Incorrecto. Revisá la suma: $2+3+2+5+3 = 15$ miles."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Suma total $15\\,000$ dividida entre 5 días: media $= \\$U\\,3\\,000$. Notá cómo media, mediana y moda difieren en esta serie.",
       "difficulty": "6",
       "images": [],
@@ -379,13 +379,13 @@
           "feedback": "Incorrecto. Contaste las filas de la tabla, no las frecuencias."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$6$",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste los valores de ausencias, no las frecuencias de alumnos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$20$",
           "is_correct": true,
           "feedback": "¡Correcto! $10 + 5 + 3 + 2 = 20$ alumnos."
@@ -397,7 +397,7 @@
           "feedback": "Incorrecto. Sumaste solo algunas frecuencias; el total es 20."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "En una tabla de frecuencias, el tamaño de la muestra es la suma de las frecuencias absolutas: $10 + 5 + 3 + 2 = 20$.",
       "difficulty": "6",
       "images": [],
@@ -508,13 +508,13 @@
       "context": "Una estudiante de Florida analiza cómo cambia la media al agregar un dato.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$5.5$",
           "is_correct": false,
           "feedback": "Incorrecto. Promediaste 8 y 3 directamente, ignorando que el 8 resume 4 exámenes."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$7$",
           "is_correct": true,
           "feedback": "¡Correcto! Suma anterior $32$; con el 3: $35 \\div 5 = 7$."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. Provienede una suma incorrecta del total acumulado."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La suma original es $4 \\times 8 = 32$; agregando 3 queda $35$ en 5 datos: nueva media $7$. Un dato extremo mueve el promedio hacia él.",
       "difficulty": "8",
       "images": [],
@@ -559,25 +559,25 @@
           "feedback": "Incorrecto. Desviación mayor significa más dispersión, menos regularidad."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "A es más consistente: con la misma media, sus resultados varían menos.",
           "is_correct": true,
           "feedback": "¡Correcto! Menor desviación estándar implica datos más concentrados alrededor de la media."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ambos rinden igual porque tienen la misma media.",
           "is_correct": false,
           "feedback": "Incorrecto. La media no captura la variabilidad; A es mucho más predecible."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "B mete más goles porque su desviación es mayor.",
           "is_correct": false,
           "feedback": "Incorrecto. La desviación no mide nivel de goles sino dispersión."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La desviación estándar cuantifica la dispersión: con igual media, el equipo A ($\\sigma = 0.5$) es mucho más regular que el B ($\\sigma = 2$).",
       "difficulty": "8",
       "images": [],
@@ -598,13 +598,13 @@
       "context": "Una panadería de Melo calcula la varianza de las ventas de 3 días: 10, 12, 14 (docenas de medialunas).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$2$",
           "is_correct": false,
           "feedback": "Incorrecto. Esa es la desviación estándar; la varianza es su cuadrado."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\frac{8}{3} \\approx 2.67$",
           "is_correct": true,
           "feedback": "¡Correcto! Media $12$; desvíos $-2, 0, 2$; cuadrados $4, 0, 4$; promedio $\\frac{8}{3}$."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. Esa es la suma de los cuadrados, sin promediar."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Con media 12, las desviaciones son $-2, 0, 2$ y sus cuadrados $4, 0, 4$. Varianza $= \\frac{8}{3} \\approx 2.67$ (desviación $\\approx 1.63$).",
       "difficulty": "8",
       "images": [],
@@ -649,25 +649,25 @@
           "feedback": "Incorrecto. Dividiste 40 entre 1000; el total es 100."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$40\\%$",
           "is_correct": true,
           "feedback": "¡Correcto! $\\frac{40}{100} = 0.40 = 40\\%$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$25\\%$",
           "is_correct": false,
           "feedback": "Incorrecto. Ese es el porcentaje de los que caminan."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$65\\%$",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste ambas barras; se pregunta solo por ómnibus."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La frecuencia relativa es $\\frac{40}{100} = 0.4$, es decir 40%. En gráficos con total 100, la frecuencia absoluta coincide con el porcentaje.",
       "difficulty": "8",
       "images": [],
@@ -694,25 +694,25 @@
           "feedback": "Incorrecto. Es la mediana de la primera mitad (2, 4, 6, 8): se promedian 4 y 6."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$5$",
           "is_correct": true,
           "feedback": "¡Correcto! $Q_1$ es la mediana de la mitad inferior: $\\frac{4 + 6}{2} = 5$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$6$",
           "is_correct": false,
           "feedback": "Incorrecto. Es uno de los valores centrales de la mitad inferior; hay que promediar con el 4."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$8$",
           "is_correct": false,
           "feedback": "Incorrecto. Ese valor pertenece a la mitad superior de los datos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La mitad inferior es 2, 4, 6, 8; su mediana es $\\frac{4+6}{2} = 5$: ese es $Q_1$, el valor que deja el 25% de los datos por debajo.",
       "difficulty": "8",
       "images": [],
@@ -733,13 +733,13 @@
       "context": "Un diario de Montevideo titula: \"El salario promedio subió a $U\\,80\\,000\", pero la mediana es $U\\,45\\,000.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Es correcto: la media siempre es la mejor medida de salarios.",
           "is_correct": false,
           "feedback": "Incorrecto. Con distribuciones asimétricas, la media engaña: pocos sueldos altísimos la inflan."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Es engañoso: la gran brecha entre media y mediana sugiere que unos pocos sueldos muy altos inflan el promedio.",
           "is_correct": true,
           "feedback": "¡Correcto! Cuando media >> mediana, la distribución es asimétrica hacia valores altos."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. La comparación de magnitudes no valida la representatividad del dato."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Si la media duplica casi a la mediana, hay asimetría por valores extremos altos. Reportar solo la media da una imagen inflada del salario típico.",
       "difficulty": "10",
       "images": [],
@@ -784,13 +784,13 @@
           "feedback": "Incorrecto. Diez casos de un solo lugar no representan a un país entero."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "La muestra es muy pequeña y está sesgada geográficamente; no permite concluir a nivel nacional.",
           "is_correct": true,
           "feedback": "¡Correcto! Tamaño y selección de la muestra invalidan la generalización."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El error es preguntar sobre gustos, que no se pueden medir.",
           "is_correct": false,
           "feedback": "Incorrecto. Las preferencias sí se miden; el problema es la muestra."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. Ningún barrio es automáticamente representativo de todo el país."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Inferir conclusiones nacionales exige muestras suficientes y representativas. Diez respuestas de un mismo barrio tienen sesgo de selección y enorme margen de error.",
       "difficulty": "10",
       "images": [],
@@ -823,13 +823,13 @@
       "context": "Dos fábricas de Canelones reportan la misma media de defectos (5 por día), pero A tiene desviación 1 y B desviación 4.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Comprar a B porque mayor desviación indica más experiencia.",
           "is_correct": false,
           "feedback": "Incorrecto. La desviación no mide experiencia; mide variabilidad, y más variabilidad es riesgo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Comprar a A: igual promedio de defectos pero con mucha menor variabilidad, más predecible.",
           "is_correct": true,
           "feedback": "¡Correcto! La consistencia se mide por la baja dispersión alrededor de la media."
@@ -847,7 +847,7 @@
           "feedback": "Incorrecto. Todo proceso real tiene defectos; la decisión compara riesgos, no ideales."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La desviación estándar traduce riesgo: con igual media, A garantiza días cercanos a 5 defectos, mientras B oscila mucho más. La consistencia favorece a A.",
       "difficulty": "10",
       "images": [],
@@ -868,13 +868,13 @@
       "context": "Un investigador de la Udelar analiza la afirmación: \"si la media de un grupo es mayor que la de otro, todos sus datos son mayores\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Verdadera: la media resume todos los datos del grupo.",
           "is_correct": false,
           "feedback": "Incorrecto. La media es un promedio; no dice nada de cada dato individual."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Falsa: la media puede ser mayor aunque muchos datos del grupo sean menores que los del otro; basta unos pocos valores altos.",
           "is_correct": true,
           "feedback": "¡Correcto! Ejemplo: $\\{1, 1, 10\\}$ tiene media 4 y supera a $\\{3, 3, 3\\}$ de media 3, aunque dos de sus datos son menores."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. Las medias sí se comparan; lo falso es inferir datos individuales desde ellas."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Las comparaciones de promedios describen tendencias grupales, no individuos. El contraejemplo $\\{1,1,10\\}$ frente a $\\{3,3,3\\}$ muestra la falacia ecológica de la afirmación.",
       "difficulty": "10",
       "images": [],

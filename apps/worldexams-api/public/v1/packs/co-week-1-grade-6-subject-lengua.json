@@ -13,13 +13,13 @@
       "context": "En la Institución Educativa Distrital de Barranquilla, el profesor Manuel explica que todo acto comunicativo tiene un propósito específico.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Al idioma o lengua que utilizan el emisor y el receptor.",
           "is_correct": false,
           "feedback": "Incorrecto. Eso se refiere al código, no a la intención."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Al propósito o meta que el emisor desea alcanzar con su mensaje.",
           "is_correct": true,
           "feedback": "Correcto. La intención comunicativa es el objetivo que perseguimos cuando hablamos, escribimos o emitimos algún mensaje."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Eso se refiere al ruido en la comunicación."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La intención comunicativa es el propósito, meta u objetivo que todo emisor tiene al emitir un mensaje. Dependiendo de lo que queramos lograr (informar, convencer, pedir, etc.), estructuramos nuestro mensaje de una manera específica.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -65,13 +65,13 @@
           "feedback": "Incorrecto. El texto no cuenta sucesos ni tiene personajes."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Expresar los sentimientos del guardaparques.",
           "is_correct": false,
           "feedback": "Incorrecto. No se centra en emociones personales, sino en una instrucción."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Persuadir o dar una instrucción al ciudadano para que actúe de cierta forma.",
           "is_correct": true,
           "feedback": "Correcto. La intención es apelativa o conativa, ya que busca influir en el comportamiento del receptor."
@@ -83,7 +83,7 @@
           "feedback": "Incorrecto. No se enfoca en las características físicas de los botes, sino en su uso."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Cuando un mensaje busca que el receptor realice una acción o cambie una conducta, la intención es apelativa o persuasiva. En este caso, el cartel da una instrucción clara para mantener el orden y la limpieza.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -105,19 +105,19 @@
       "context": "Durante el noticiero del mediodía en un canal regional de Medellín, el presentador informa sobre el estado del clima para la tarde de hoy.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Informativa, pues transmite datos objetivos sobre la realidad.",
           "is_correct": true,
           "feedback": "Correcto. La intención es referencial o informativa, ya que su objetivo es dar a conocer un hecho o dato objetivo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Literaria, ya que usa palabras bellas para hablar de la lluvia.",
           "is_correct": false,
           "feedback": "Incorrecto. El lenguaje es directo y funcional, no busca crear belleza artística."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Emotiva, porque el presentador está muy triste por la lluvia.",
           "is_correct": false,
           "feedback": "Incorrecto. El mensaje no se centra en los sentimientos del emisor."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecto. No se está hablando sobre el código o el lenguaje en sí."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La intención informativa (o función referencial) se utiliza cuando el objetivo principal es transmitir datos, hechos o conocimientos de manera objetiva sobre el mundo que nos rodea, como ocurre en las noticias o reportes meteorológicos.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -163,19 +163,19 @@
           "feedback": "Incorrecto. No es la función predominante, aunque use recursos llamativos."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Persuasiva, porque busca convencer a los clientes para que compren su producto.",
           "is_correct": true,
           "feedback": "Correcto. La intención es convencer al receptor (persuadir) para realizar una compra."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Expresiva, porque el vendedor quiere que sepamos que está muy feliz vendiendo.",
           "is_correct": false,
           "feedback": "Incorrecto. Su alegría es un medio, pero su meta final es la venta."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "En contextos comerciales, como el de una plaza de mercado o galería, la intención predominante es la persuasiva. El emisor utiliza adjetivos positivos (\"dulce\", \"fresquita\") para influir en la decisión del comprador.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -249,25 +249,25 @@
           "feedback": "Incorrecto. No es una descripción científica u objetiva."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Estética o literaria, buscando crear belleza y sugerir sentimientos a través del lenguaje.",
           "is_correct": true,
           "feedback": "Correcto. La función poética o estética se centra en el mensaje mismo, cuidando su forma para producir un efecto artístico."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Instructiva, para enseñar a las personas cómo caminar en la oscuridad.",
           "is_correct": false,
           "feedback": "Incorrecto. El poema no da pasos a seguir ni reglas."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Referencial, para dar datos exactos sobre la ubicación de los luceros.",
           "is_correct": false,
           "feedback": "Incorrecto. Los luceros son una metáfora, no datos astronómicos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La intención estética o literaria busca conmover o agradar al receptor a través de la forma del mensaje. No se limita a transmitir información, sino que utiliza figuras literarias (como la metáfora de los \"luceros\") para embellecer la expresión.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -295,13 +295,13 @@
           "feedback": "Incorrecto. Las frases no expresan disculpas."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Informar a sus amigos sobre un tema muy importante de la clase.",
           "is_correct": false,
           "feedback": "Incorrecto. Aún no ha empezado a dar información."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Fática o de contacto, para verificar que el canal de comunicación esté abierto y funcione.",
           "is_correct": true,
           "feedback": "Correcto. La función fática se usa para iniciar, mantener, interrumpir o finalizar una conversación y comprobar el canal."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecto. No está hablando sobre el idioma."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "La función fática se centra en el canal de comunicación. Su propósito no es transmitir un mensaje complejo, sino asegurarse de que la comunicación es posible (como decir \"bueno\", \"¿sí?\", \"¿me oyes?\").\n\n---",
       "difficulty": "8",
       "images": [],
@@ -335,19 +335,19 @@
       "context": "Un diccionario escolar define la palabra \"comunicación\" como: \"Acción de comunicar o comunicarse. Trato, correspondencia entre dos o más personas\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Persuadir al lector para que use más el diccionario.",
           "is_correct": false,
           "feedback": "Incorrecto. Aunque el diseño ayude, la definición en sí no busca convencer."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Expresar los sentimientos del autor del diccionario.",
           "is_correct": false,
           "feedback": "Incorrecto. Las definiciones deben ser objetivas, no personales."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Metalingüística, ya que utiliza el lenguaje para explicar el lenguaje mismo.",
           "is_correct": true,
           "feedback": "Correcto. La función metalingüística aparece cuando hablamos sobre el código (la lengua) para aclarar términos o reglas."
@@ -359,7 +359,7 @@
           "feedback": "Incorrecto. El orden alfabético es funcional, no busca belleza artística."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "La función metalingüística se activa cuando el mensaje tiene como objeto de estudio el propio lenguaje. Es típica de diccionarios, gramáticas y clases de lengua donde se aclaran significados o normas.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -393,19 +393,19 @@
           "feedback": "Incorrecto. Su objetivo no es desahogarse, sino ganar votos."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Porque utiliza una base informativa para lograr un fin persuasivo o apelativo (ganar el voto).",
           "is_correct": true,
           "feedback": "Correcto. Muchos mensajes mezclan funciones. Aquí se da una \"promesa\" (información) con la intención final de influir en el receptor (voto)."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Porque el candidato no sabe qué quiere decir realmente.",
           "is_correct": false,
           "feedback": "Incorrecto. El candidato tiene una meta clara: ser elegido."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Los actos comunicativos rara vez son puros. Un mensaje puede informar algo con el fin último de convencer. En la publicidad y la política, la información suele estar al servicio de la persuasión (intención apelativa).\n\n---",
       "difficulty": "10",
       "images": [],
@@ -433,13 +433,13 @@
           "feedback": "Incorrecto. La petición de no tocar las estatuas rompe la pura información."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Es puramente apelativa porque solo le importa que no dañen las piedras.",
           "is_correct": false,
           "feedback": "Incorrecto. El guía también explica historia, lo cual es informativo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Combina la intención informativa (historia de las estatuas) con la intención apelativa (instrucción de no tocar).",
           "is_correct": true,
           "feedback": "Correcto. El guía cumple dos roles: educar (informar) y proteger el patrimonio (dar instrucciones/apelativo)."
@@ -451,7 +451,7 @@
           "feedback": "Incorrecto. El contenido es relevante, no es solo para mantener el contacto."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "En situaciones reales, las intenciones se solapan. Un buen comunicador sabe informar (función referencial) para dar contexto y luego dar una instrucción clara (función apelativa) basada en esa información.\n\n---\n\n[//]: # (QUALITY_REVIEW)\n| Dimension | Puntaje |\n|-----------|---------|\n| Tecnico | 10/10 |\n| Curricular | 10/10 |\n| Contexto | 10/10 |\n| Redaccion | 10/10 |\n| **Total** | **40/40** |",
       "difficulty": "10",
       "images": [],

@@ -13,19 +13,19 @@
       "context": "Lea la siguiente guía para elaborar una cometa tradicional en un taller escolar de Tunja: \"Ingredientes y Materiales: 2 cañas de bambú livianas, 1 pliego de papel seda, hilo de algodón, pegante escolar y retazos de tela para la cola. Pasos a seguir: 1. Acurruque las cañas formando una cruz y amárrelas firmemente con el hilo. 2. Pegue el papel seda sobre el armazón cortando los bordes con cuidado. 3. Amarre la cola de tela en el extremo inferior para darle estabilidad durante el vuelo\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Enumerar los elementos requeridos antes de iniciar la ejecución de los pasos.",
           "is_correct": true,
           "feedback": "Permite verificar que se cuenta con todos los insumos necesarios antes de comenzar el procedimiento."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Explicar la historia y el origen histórico de las cometas en Boyacá.",
           "is_correct": false,
           "feedback": "El apartado no aborda antecedentes históricos sino elementos físicos para la construcción."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Narrar una anécdota divertida sobre un vuelo de cometa fallido.",
           "is_correct": false,
           "feedback": "No se trata de un relato narrativo con personajes ni conflicto."
@@ -37,7 +37,7 @@
           "feedback": "Un texto instructivo da indicaciones prácticas, no explicaciones teóricas complejas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Los textos instructivos suelen organizarse en dos secciones claras: lista de materiales/requisitos e instrucciones de procedimiento.",
       "difficulty": "4",
       "images": [],
@@ -59,19 +59,19 @@
       "context": "En el paso 3 de la guía para elaborar la cometa se indica: \"Amarre la cola de tela en el extremo inferior para darle estabilidad durante el vuelo\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Evitar que la cometa tambalee o pierda el equilibrio en el aire.",
           "is_correct": true,
           "feedback": "La palabra \"estabilidad\" indica mantener el equilibrio constante durante el vuelo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Hacer que la cometa sea la más pesada de la competencia.",
           "is_correct": false,
           "feedback": "El texto no busca aumentar peso innecesario sino lograr un vuelo estable."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ocultar el papel seda si se rompe durante la preparación.",
           "is_correct": false,
           "feedback": "La cola no se usa para tapar imperfecciones del papel sino como contrapeso aerodinámico."
@@ -83,7 +83,7 @@
           "feedback": "La cola se amarra en el extremo inferior, no en el centro del armazón."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La comprensión semántica implica identificar las relaciones de causa y finalidad explicitadas en el texto procedimental.",
       "difficulty": "4",
       "images": [],
@@ -105,13 +105,13 @@
       "context": "Lea las siguientes acciones de un instructivo para sembrar una planta de fríjol: \"A. Vierta agua hasta humedecer el algodón sin encharcarlo. B. Coloque dos semillas de fríjol sobre el algodón. C. Deposite una bola de algodón limpio dentro de un vaso plástico transparente\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "C -> B -> A.",
           "is_correct": true,
           "feedback": "Primero se ubica el algodón en el vaso (C), se colocan las semillas (B) y finalmente se humedece (A)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "A -> B -> C.",
           "is_correct": false,
           "feedback": "Humedecer el algodón fuera del vaso dificultaría su manipulación posterior de forma ordenada."
@@ -129,7 +129,7 @@
           "feedback": "Aunque es una variante posible, colocar las semillas sobre el algodón húmedo resulta menos eficiente."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La secuencia temporal en los textos instructivos garantiza la efectividad del proceso al seguir un orden lógico paso a paso.",
       "difficulty": "6",
       "images": [],
@@ -197,19 +197,19 @@
       "context": "Un manual de evacuación en caso de sismo de una escuela en Armenia señala: \"1. Conserve la calma. 2. Apague los aparatos eléctricos. 3. Camine ordenadamente hacia la zona segura señalizada con la letra S verde. No corra ni empuje\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Para prevenir caídas y aglomeraciones que entorpezcan la salida de emergencia.",
           "is_correct": true,
           "feedback": "En una evacuación, correr o empujar genera tropezones y pánico, entorpeciendo el flujo de personas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque la zona segura señalizada está demasiado cerca y no requiere prisa.",
           "is_correct": false,
           "feedback": "La distancia no es la razón; la regla busca la seguridad física de los evacuados."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Para asegurar que todos los estudiantes lleguen al mismo tiempo exacto.",
           "is_correct": false,
           "feedback": "El objetivo es la seguridad y el orden, no una competencia de sincronización."
@@ -221,7 +221,7 @@
           "feedback": "La indicación responde a una norma de gestión de riesgos ante emergencias, no al reglamento general de recreos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Las advertencias y prohibiciones en protocolos de seguridad previenen riesgos colaterales durante la ejecución del procedimiento.",
       "difficulty": "6",
       "images": [],
@@ -243,31 +243,31 @@
       "context": "Se comparan dos textos sobre la preparación de una arepa de choclo: el Texto 1 es una receta paso a paso con medidas en gramos, y el Texto 2 es el poema de un abuelo recordando el olor de las arepas en su infancia.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "El Texto 1 busca guiar la preparación práctica del alimento, mientras el Texto 2 busca evocar emociones y recuerdos.",
           "is_correct": true,
           "feedback": "El texto instructivo tiene finalidad práctica procedimental; el texto poético tiene finalidad estética y afectiva."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El Texto 1 es un relato de ficción pura y el Texto 2 es una norma legal obligatoria.",
           "is_correct": false,
           "feedback": "La receta no es ficción sino un texto expositivo-instructivo real; el poema no es una norma."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ambos textos persiguen exactamente el mismo objetivo técnico pedagógico.",
           "is_correct": false,
           "feedback": "Tienen formatos y propósitos totalmente diferentes (normativo/práctico vs. lírico/emotivo)."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El Texto 2 enseña a cultivar maíz y el Texto 1 critica los precios del mercado.",
           "is_correct": false,
           "feedback": "Ninguno de los dos textos aborda temas agronómicos o de economía de mercado."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Diferenciar la intención comunicativa permite clasificar la tipología textual según su función del lenguaje (apelativa vs. poética).",
       "difficulty": "8",
       "images": [],
@@ -335,31 +335,31 @@
       "context": "Un manual de usuario para armar un escritorio de estudio contiene únicamente texto denso sin diagramas ni ilustraciones. Un usuario afirma que el manual es deficiente para niños de quinto grado.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Porque los esquemas visuales y diagramas complementan la comprensión sintáctica en la guía de ensamblaje de piezas espaciales.",
           "is_correct": true,
           "feedback": "En textos instructivos sobre objetos tridimensionales, la iconografía e imágenes son indispensables para orientar la ubicación espacial."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque las leyes colombianas prohíben publicar libros que contengan oraciones largas.",
           "is_correct": false,
           "feedback": "No existe una prohibición legal sobre la longitud de las oraciones en libros."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque los niños de quinto grado no saben leer textos escritos en prosa.",
           "is_correct": false,
           "feedback": "En quinto grado los estudiantes poseen plena competencia lectora de textos en prosa."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Porque los muebles de estudio solo deben armarse siguiendo instrucciones orales en video.",
           "is_correct": false,
           "feedback": "El formato impreso con apoyo gráfico es un medio totalmente válido y muy extendido."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Los lenguajes discontinuos (gráficos, diagramas) son recursos clave en los textos instructivos para clarificar secuencias espaciales y operativas.",
       "difficulty": "10",
       "images": [],

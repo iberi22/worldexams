@@ -13,31 +13,31 @@
       "context": "Un conejo presuntuoso se burlaba siempre de una tortuga por su lentitud. Un día, la tortuga lo desafió a una carrera. El conejo aceptó confiado, se quedó dormido en el camino y la tortuga, con paso constante, ganó la carrera.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "La tortuga.",
           "is_correct": true,
           "feedback": "¡Correcto! El texto afirma explícitamente que la tortuga ganó la carrera con su paso constante."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El conejo.",
           "is_correct": false,
           "feedback": "Incorrecto. El conejo se quedó dormido y perdió la competencia."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El zorro.",
           "is_correct": false,
           "feedback": "Incorrecto. El zorro no se menciona en la historia."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Ninguno de los dos.",
           "is_correct": false,
           "feedback": "Incorrecto. La historia aclara que hubo un ganador."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La lectura literal permite ubicar la información directa que responde a preguntas explícitas sobre personajes y acontecimientos en la narración.\n---",
       "difficulty": "4",
       "images": [],
@@ -105,31 +105,31 @@
       "context": "Una hormiga trabajadora juntaba provisiones durante todo el verano para tener comida en el frío invierno. Mientras tanto, una cigarra cantaba sin trabajar. Al llegar el invierno, la cigarra no tenía qué comer y le pidió auxilio a la hormiga.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Es importante trabajar con previsión y esfuerzo para estar preparados en momentos difíciles.",
           "is_correct": true,
           "feedback": "¡Correcto! El trabajo constante de la hormiga demuestra el valor de la prevención."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Es mejor cantar todo el día que perder tiempo juntando alimentos.",
           "is_correct": false,
           "feedback": "Incorrecto. La cigarra sufrió las consecuencias de no trabajar."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El invierno es la mejor época para cantar y hacer amigos.",
           "is_correct": false,
           "feedback": "Incorrecto. El invierno trajo hambre a quien no se preparó."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Los animales pequeños no deben salir en verano.",
           "is_correct": false,
           "feedback": "Incorrecto. Esta opción no refleja la lección moral del cuento."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Las fábulas son textos narrativos breves caracterizados por dejar una lección o moraleja práctica aplicable a la vida cotidiana.\n---",
       "difficulty": "6",
       "images": [],
@@ -197,31 +197,31 @@
       "context": "Un cuervo encontró un pedazo de queso y se posó en la rama de un árbol para comerlo. Un zorro astuto, deseando el queso, le dijo: \"¡Qué plumas tan brillantes tienes, señor cuervo! Apuesto a que tu voz es igual de hermosa\". El cuervo, complacido por los halagos, abrió el pico para cantar y el queso cayó al suelo, donde el zorro lo atrapó y se fue riendo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Su vanidad y deseo de recibir halagos.",
           "is_correct": true,
           "feedback": "¡Correcto! La vanidad hizo que el cuervo buscara demostrar su voz, perdiendo su comida."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Su generosidad con los demás animales.",
           "is_correct": false,
           "feedback": "Incorrecto. El cuervo no tenía intención de regalar el queso."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Su fuerza física.",
           "is_correct": false,
           "feedback": "Incorrecto. El zorro usó la astucia, no la fuerza del cuervo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Su velocidad para volar.",
           "is_correct": false,
           "feedback": "Incorrecto. El cuervo estaba posado en la rama sin volar."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El análisis de motivaciones psicológicas de los personajes revela los rasgos humanos personificados en las fábulas clásicas.\n---",
       "difficulty": "8",
       "images": [],
@@ -243,19 +243,19 @@
       "context": "Un cuervo encontró un pedazo de queso y se posó en la rama de un árbol para comerlo. Un zorro astuto, deseando el queso, le dijo: \"¡Qué plumas tan brillantes tienes, señor cuervo! Apuesto a que tu voz es igual de hermosa\". El cuervo, complacido por los halagos, abrió el pico para cantar y el queso cayó al suelo, donde el zorro lo atrapó y se fue riendo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "\"No confíes en quien te alaba sin conocerte\".",
           "is_correct": true,
           "feedback": "¡Correcto! El halago interesado del zorro engañó al vanidoso cuervo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "\"A quien madruga, Dios le ayuda\".",
           "is_correct": false,
           "feedback": "Incorrecto. La historia no trata sobre levantarse temprano."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "\"En boca cerrada no entran moscas\".",
           "is_correct": false,
           "feedback": "Incorrecto. Aunque abrió la boca, el centro de la moraleja es la desconfianza ante adulaciones falsas."
@@ -267,7 +267,7 @@
           "feedback": "Incorrecto. Esta opción se refiere a asegurar lo que se tiene frente a promesas dudosas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Conectar moralejas de fábulas con refranes populares evidencia la capacidad de sintetizar y comparar mensajes pedagógicos universales.\n---",
       "difficulty": "8",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "Lee las dos frases siguientes sobre la fábula del pastorcito mentiroso, quien gritaba \"¡Viene el lobo!\" para burlarse de los campesinos hasta que un día el lobo vino de verdad y nadie le creyó:\n\n1. \"Mentir es divertido si nadie sale herido\".\n\n2. \"En boca del mentiroso, lo cierto se hace dudoso\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La frase 2, porque demuestra que mentir destruye la confianza de los demás cuando se dice la verdad.",
           "is_correct": true,
           "feedback": "¡Excelente! La mentira recurrente invalida la credibilidad futura de una persona."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La frase 1, porque el pastorcito solo quería jugar.",
           "is_correct": false,
           "feedback": "Incorrecto. La mentira tuvo consecuencias graves para sus ovejas."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecto. Promover la mentira invalida el propósito pedagógico de la lección."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Evaluar críticamente distintas posturas morales ante un relato capacita al lector para juzgar acciones y consecuencias éticas en textos narrativos.\n---",
       "difficulty": "10",
       "images": [],
@@ -335,31 +335,31 @@
       "context": "Un ratón de ciudad invita a un ratón de campo a un banquete lleno de manjares finos, pero constantemente deben esconderse asustados por un gato enorme. El ratón de campo dice: \"Prefiero mis sencillas granos de trigo en paz que este banquete con tanto peligro\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "La tranquilidad y la paz mental por encima del lujo y la riqueza insegura.",
           "is_correct": true,
           "feedback": "¡Excelente! La vida sencilla y tranquila se valora más que la abundancia rodeada de peligro."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El deseo de vivir con lujos sin importar los riesgos.",
           "is_correct": false,
           "feedback": "Incorrecto. Ese era el pensamiento del ratón de ciudad."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La cobardía por no querer pelear contra el gato.",
           "is_correct": false,
           "feedback": "Incorrecto. No es cobardía, es sabiduría para buscar una vida pacífica."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El gusto por pasar hambre en la soledad.",
           "is_correct": false,
           "feedback": "Incorrecto. El ratón de campo tiene alimentos sencillos, no pasa hambre."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El análisis ético en la lectura crítica permite identificar la jerarquía de valores (tranquilidad vs. ostentación) presentes en las resoluciones de fábulas.",
       "difficulty": "10",
       "images": [],

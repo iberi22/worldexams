@@ -13,31 +13,31 @@
       "context": "En una escuela de Barranquilla, los estudiantes leen trabalenguas en voz alta durante la clase de lectura.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Un texto breve con sonidos parecidos que se repiten y dificultan la pronunciación.",
           "is_correct": true,
           "feedback": "El trabalenguas repite sonidos similares para poner a prueba la dicción."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Un cuento largo con muchos personajes y capítulos.",
           "is_correct": false,
           "feedback": "Un cuento largo no es un trabalenguas; su extensión y estructura son distintas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Una noticia sobre deportes internacionales.",
           "is_correct": false,
           "feedback": "La noticia informa hechos reales y no busca dificultar la pronunciación."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Una receta de cocina con ingredientes y pasos.",
           "is_correct": false,
           "feedback": "La receta indica cómo preparar un plato, no juega con los sonidos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Reconocer las características básicas de un trabalenguas y su función con los sonidos.",
       "difficulty": "4",
       "images": [],
@@ -59,19 +59,19 @@
       "context": "Lee: \"Los juegos de palabras usan el sonido, el ritmo y el doble sentido para divertir y hacer pensar al lector.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Entretener y explorar los sonidos y significados del lenguaje.",
           "is_correct": true,
           "feedback": "Los juegos de palabras combinan diversión con exploración del lenguaje."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Informar sobre el clima de una región.",
           "is_correct": false,
           "feedback": "El pronóstico del clima no es un juego de palabras."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ordenar pasos para armar un mueble.",
           "is_correct": false,
           "feedback": "Las instrucciones de armado no buscan el doble sentido ni el ritmo."
@@ -83,7 +83,7 @@
           "feedback": "Un registro científico usa lenguaje preciso, no juegos de palabras."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Comprender la intención lúdica y expresiva de los juegos de palabras.",
       "difficulty": "4",
       "images": [],
@@ -151,19 +151,19 @@
       "context": "Un estudiante quiere crear un trabalenguas con la letra \"r\" para practicar en clase.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "\"El perro de Ramón corre rápido por el río y rodó.\"",
           "is_correct": true,
           "feedback": "Repite el sonido de la \"r\" en varias palabras seguidas, como pide un trabalenguas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "\"El gato duerme tranquilo sobre el sofá.\"",
           "is_correct": false,
           "feedback": "No hay repetición de sonidos que dificulte la pronunciación."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "\"La suma de tres más cuatro es igual a siete.\"",
           "is_correct": false,
           "feedback": "Es una operación matemática, no un juego con sonidos."
@@ -175,7 +175,7 @@
           "feedback": "La oración es clara y sin sonidos repetidos que la vuelvan difícil."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Aplicar la repetición de sonidos al crear un trabalenguas propio.",
       "difficulty": "6",
       "images": [],
@@ -197,31 +197,31 @@
       "context": "En la biblioteca escolar de Medellín, un grupo prepara un festival de trabalenguas y rimas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Practicando lentamente y aumentando la velocidad poco a poco.",
           "is_correct": true,
           "feedback": "La práctica gradual permite dominar los sonidos difíciles antes de acelerar."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Leyéndolo una sola vez muy rápido sin revisar.",
           "is_correct": false,
           "feedback": "Leer rápido sin práctica aumenta los errores de pronunciación."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Cambiando todas las palabras por números.",
           "is_correct": false,
           "feedback": "Sustituir palabras por números elimina los sonidos que se quieren practicar."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Evitando repetir cualquier sonido parecido.",
           "is_correct": false,
           "feedback": "Evitar la repetición quita lo esencial del trabalenguas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Aplicar estrategias de práctica oral para mejorar la dicción al leer trabalenguas.",
       "difficulty": "6",
       "images": [],
@@ -335,19 +335,19 @@
       "context": "Lee: \"Practicar trabalenguas y juegos de palabras mejora la dicción, la atención a los sonidos y la creatividad con el lenguaje. Por eso, muchas escuelas colombianas los usan en festivales de lectura.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Porque mejoran la dicción, la conciencia de los sonidos y la creatividad con el lenguaje.",
           "is_correct": true,
           "feedback": "Estas prácticas fortalecen la expresión oral y la relación con los sonidos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque no aportan ningún beneficio al desarrollo del lenguaje.",
           "is_correct": false,
           "feedback": "Sí aportan beneficios claros a la dicción y a la creatividad."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque reemplazan por completo la lectura de libros.",
           "is_correct": false,
           "feedback": "Complementan la lectura, pero no la reemplazan."
@@ -359,7 +359,7 @@
           "feedback": "La competencia es una excusa lúdica; siempre hay aprendizaje."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Evaluar los beneficios de los trabalenguas y juegos de palabras para la formación lectora.",
       "difficulty": "10",
       "images": [],

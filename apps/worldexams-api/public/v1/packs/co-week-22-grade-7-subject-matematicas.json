@@ -13,31 +13,31 @@
       "context": "En Bogotá, la profesora explica la dependencia entre las horas trabajadas y el dinero ganado en un empleo de medio tiempo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Una dependencia donde una magnitud depende de otra mediante una regla clara",
           "is_correct": true,
           "feedback": "Correcto. La relación funcional asocia cada valor de entrada con un único valor de salida."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Una lista de números sin conexión",
           "is_correct": false,
           "feedback": "Incorrecto. Las relaciones no son listas arbitrarias."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Una ecuación con incógnitas",
           "is_correct": false,
           "feedback": "Incorrecto. Una relación funcional no necesita incógnitas."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Una suma de cantidades",
           "is_correct": false,
           "feedback": "Incorrecto. Aunque la suma puede aparecer, no define la relación."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Una relación funcional asigna a cada valor de una variable independiente exactamente un valor de la variable dependiente.",
       "difficulty": "4",
       "images": [],
@@ -59,13 +59,13 @@
       "context": "En Medellín, una tabla muestra: si se compran 2 libros, el costo es $80 000; si se compran 3 libros, el costo es $120 000.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La cantidad de libros",
           "is_correct": true,
           "feedback": "Correcto. La cantidad es la que se escoge libremente y determina el costo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El costo en pesos",
           "is_correct": false,
           "feedback": "Incorrecto. El costo depende de los libros, no al revés."
@@ -83,7 +83,7 @@
           "feedback": "Incorrecto. No se da esa información."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La variable independiente es la que se elige o modifica. Aquí la cantidad de libros fija el costo, por eso es la independiente.",
       "difficulty": "4",
       "images": [],
@@ -105,31 +105,31 @@
       "context": "En Cali, una tienda cobra $5 000 por cada producto más un cargo fijo de $2 000. La tabla muestra: 1 producto = $7 000, 2 productos = $12 000, 3 productos = $17 000.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Costo = 5 000 × n + 2 000",
           "is_correct": true,
           "feedback": "Correcto. Multiplicar cantidad por 5 000 y sumar fijo 2 000."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Costo = 7 000 × n",
           "is_correct": false,
           "feedback": "Incorrecto. Esta regla ignoraría el cargo fijo de 2 000."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Costo = 5 000 + n",
           "is_correct": false,
           "feedback": "Incorrecto. No aplica el cargo ni el factor correctamente."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Costo = 2 000 × n + 5 000",
           "is_correct": false,
           "feedback": "Incorrecto. Confundiste el factor y el cargo fijo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La regla es lineal: costo = cargo fijo + precio unitario × cantidad. Aquí cargo = 2 000, precio = 5 000.",
       "difficulty": "6",
       "images": [],
@@ -151,13 +151,13 @@
       "context": "En Barranquilla, una tabla de conversión dice: 1 hora = 60 minutos, 2 horas = 120 minutos, 3 horas = 180 minutos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "420 minutos",
           "is_correct": true,
           "feedback": "Correcto. 7 × 60 = 420."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "360 minutos",
           "is_correct": false,
           "feedback": "Incorrecto. Es el valor para 6 horas."
@@ -175,7 +175,7 @@
           "feedback": "Incorrecto. Es el valor para 4 horas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La regla es minutos = 60 × horas. Para 7 horas: 60 × 7 = 420 minutos.",
       "difficulty": "6",
       "images": [],
@@ -243,19 +243,19 @@
       "context": "En Bucaramanga, la siguiente tabla muestra valores: x: 1, 2, 3, 4; y: 3, 5, 7, 9.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Lineal de la forma y = 2x + 1",
           "is_correct": true,
           "feedback": "Correcto. Cada aumento de 1 en x produce un aumento de 2 en y."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Cuadrática tipo y = x²",
           "is_correct": false,
           "feedback": "Incorrecto. Eso daría 1, 4, 9, 16, no los valores de la tabla."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Constante",
           "is_correct": false,
           "feedback": "Incorrecto. Los y cambian, no son constantes."
@@ -267,7 +267,7 @@
           "feedback": "Incorrecto. Una inversa decrece al aumentar x."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Las sucesiones (3,5,7,9) tienen diferencia constante 2; eso define una relación lineal. La fórmula es y = 2x + 1.",
       "difficulty": "8",
       "images": [],
@@ -289,31 +289,31 @@
       "context": "En Santa Marta, una tabla indica tallas y pesos: 1.50 m → 50 kg, 1.60 m → 60 kg, 1.70 m → 70 kg, 1.80 m → 80 kg.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "100 kg por metro",
           "is_correct": true,
           "feedback": "Correcto. Por cada 0.10 m la persona pesa 10 kg más, así que 10 / 0.10 = 100 kg/m."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "10 kg por metro",
           "is_correct": false,
           "feedback": "Incorrecto. Calculaste 10 / 1, no la proporción correcta."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "50 kg por metro",
           "is_correct": false,
           "feedback": "Incorrecto. Eso sería tomar solo la primera fila."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "1 kg por centímetro",
           "is_correct": false,
           "feedback": "Incorrecto. 10 kg por 10 cm da 1 kg/cm, pero los datos están en metros."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La pendiente mide cuánto cambia la variable dependiente por cada unidad de la independiente: 10 kg / 0.10 m = 100 kg/m.",
       "difficulty": "8",
       "images": [],
@@ -335,31 +335,31 @@
       "context": "En Manizales, se afirma que la relación definida por la tabla x: 2, 2, 3; y: 3, 5, 7 es función, porque \"a cada x le corresponden varios y\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "No, porque al valor x = 2 se le asocian dos y distintos (3 y 5)",
           "is_correct": true,
           "feedback": "Correcto. Una función requiere un único y para cada x."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Sí, porque la tabla tiene tres filas",
           "is_correct": false,
           "feedback": "Incorrecto. La cantidad de filas no define si es función."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Sí, porque hay tres valores distintos",
           "is_correct": false,
           "feedback": "Incorrecto. El problema es que un mismo x tiene varios y."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "No, porque los y están desordenados",
           "is_correct": false,
           "feedback": "Incorrecto. El orden no afecta la definición de función."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Para que una relación sea función, cada valor de x debe tener un único valor asociado de y. La tabla viola esa condición con x = 2.",
       "difficulty": "8",
       "images": [],
@@ -427,13 +427,13 @@
       "context": "En Neiva, dos modelos predicen el precio de un producto: modelo 1: precio = 1 000 × cantidad; modelo 2: precio = 500 × cantidad + 4 000. Un vendedor quiere maximar ingresos para 10 unidades.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Modelo 1, porque para 10 unidades da 10 000, y modelo 2 da 9 000",
           "is_correct": true,
           "feedback": "Correcto. M1: 1 000 × 10 = 10 000; M2: 500 × 10 + 4 000 = 9 000."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Modelo 2, porque tiene un cargo fijo más alto",
           "is_correct": false,
           "feedback": "Incorrecto. El cargo fijo puede reducir ingresos según el volumen."
@@ -451,7 +451,7 @@
           "feedback": "Incorrecto. Para cantidades bajas el modelo 2 puede superarlo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Las funciones se evalúan en el punto de interés: 1 000 × 10 = 10 000 contra 500 × 10 + 4 000 = 9 000. Para 10 unidades el modelo 1 genera más ingreso.",
       "difficulty": "10",
       "images": [],

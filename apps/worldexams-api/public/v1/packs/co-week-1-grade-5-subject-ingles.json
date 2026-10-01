@@ -13,31 +13,31 @@
       "context": "In a fifth-grade class in Bogota, students present a drawing of their family tree.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Grandmother / Grandfather.",
           "is_correct": true,
           "feedback": "The parents of your parents are your grandparents."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Cousin.",
           "is_correct": false,
           "feedback": "A cousin is the child of your aunt or uncle."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Sister.",
           "is_correct": false,
           "feedback": "A sister is a female sibling of the same parents."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Niece.",
           "is_correct": false,
           "feedback": "A niece is the daughter of your brother or sister."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Recognizing extended family vocabulary in English (grandparents, cousins, siblings, nieces).",
       "difficulty": "4",
       "images": [],
@@ -105,19 +105,19 @@
       "context": "A student writes: \"My family is small. There are four people in my family.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "my.",
           "is_correct": true,
           "feedback": "\"My\" is the possessive adjective for the first person singular (I)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "your.",
           "is_correct": false,
           "feedback": "\"Your\" is used with the second person (you)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "his.",
           "is_correct": false,
           "feedback": "\"His\" is used with third person singular masculine (he)."
@@ -129,7 +129,7 @@
           "feedback": "\"Their\" is used with third person plural (they)."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Using possessive adjectives (my, your, his, her, our, their) in basic English sentences.",
       "difficulty": "6",
       "images": [],
@@ -197,19 +197,19 @@
       "context": "A student in Cartagena describes roles: \"My mother cooks every day and my father works in an office.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "cooks.",
           "is_correct": true,
           "feedback": "With third person singular (my mother), the verb adds -s: cooks."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "cook.",
           "is_correct": false,
           "feedback": "\"Cook\" without -s is used with plural subjects (we, they) or I/you."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "cooking.",
           "is_correct": false,
           "feedback": "\"Cooking\" requires the auxiliary verb to be for the present continuous."
@@ -221,7 +221,7 @@
           "feedback": "\"Cooked\" is the past simple form, not used for daily routines in present."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Applying the third-person singular -s rule in the Simple Present tense in English.",
       "difficulty": "6",
       "images": [],
@@ -243,31 +243,31 @@
       "context": "Read: \"Laura has two sisters. Their names are Ana and Paula. Ana is tall and Paula is short. They all live in Cali.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Laura has two sisters named Ana and Paula, and they live in Cali.",
           "is_correct": true,
           "feedback": "The text states Laura has two sisters and that they all live in Cali."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Laura has no siblings and lives in Bogota.",
           "is_correct": false,
           "feedback": "The text says she has two sisters, so this contradicts the passage."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ana and Paula are Laura's cousins from another city.",
           "is_correct": false,
           "feedback": "The text clearly identifies Ana and Paula as Laura's sisters."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Laura is an only child who lives alone in Cali.",
           "is_correct": false,
           "feedback": "The text says she has two sisters, so she is not an only child."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Synthesizing explicit details (names, number, city) to draw a correct inference about a family description.",
       "difficulty": "8",
       "images": [],
@@ -289,31 +289,31 @@
       "context": "Compare: \"Pedro is 40 years old and he is a father. His son Mateo is 10 years old.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Mateo is Pedro's son.",
           "is_correct": true,
           "feedback": "The possessive \"'s\" with Pedro indicates the relationship of father to son."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Mateo are Pedro's son.",
           "is_correct": false,
           "feedback": "\"Mateo\" is singular and requires the verb \"is\", not \"are\"."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Pedro's is Mateo son.",
           "is_correct": false,
           "feedback": "The structure \"Pedro's is\" is ungrammatical in English."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Mateo's Pedro is son.",
           "is_correct": false,
           "feedback": "The structure reverses the relationship and is not grammatical."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Analyzing the use of the Saxon genitive ('s) to express family relationships in English.",
       "difficulty": "8",
       "images": [],
@@ -335,31 +335,31 @@
       "context": "Read the paragraph: 'Family is important because members support each other. In many Colombian families, grandparents, parents, and children share daily activities like cooking, studying, and celebrating together.'",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Family members support each other and share important daily activities.",
           "is_correct": true,
           "feedback": "The paragraph emphasizes mutual support and shared activities within the family."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Only grandparents are important in a Colombian family.",
           "is_correct": false,
           "feedback": "The paragraph mentions grandparents, parents, and children, not only grandparents."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Family members should never spend time together.",
           "is_correct": false,
           "feedback": "The paragraph promotes shared activities, the opposite of never spending time together."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Studying and cooking are unimportant in family life.",
           "is_correct": false,
           "feedback": "The paragraph lists studying and cooking as examples of shared family activities."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Evaluating the main idea of a short expository paragraph about family roles and values.",
       "difficulty": "10",
       "images": [],
@@ -519,31 +519,31 @@
       "context": "Read the text: \"Giraffes are the tallest animals in the savannah. They eat leaves from high tree branches.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "To reach and eat leaves from tall trees.",
           "is_correct": true,
           "feedback": "Their long necks allow them to reach high branches easily."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "To swim fast across deep rivers.",
           "is_correct": false,
           "feedback": "Giraffes do not use their necks for swimming."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "To sleep underground during the night.",
           "is_correct": false,
           "feedback": "Giraffes are large surface animals and do not live underground."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "To catch small fish in the sea.",
           "is_correct": false,
           "feedback": "Giraffes are herbivores that eat leaves, not fish."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Extracting specific information from a short descriptive text in English.",
       "difficulty": "6",
       "images": [],
@@ -565,31 +565,31 @@
       "context": "Two students discuss pink dolphins in the Amazon River in Colombia.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "do.",
           "is_correct": true,
           "feedback": "\"Do\" is the correct auxiliary verb for plural subjects like \"pink river dolphins\"."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "does.",
           "is_correct": false,
           "feedback": "\"Does\" is used with third-person singular subjects (he, she, it)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "is.",
           "is_correct": false,
           "feedback": "\"Is\" is not the auxiliary verb for simple present action questions."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "are.",
           "is_correct": false,
           "feedback": "\"Are\" would require a present continuous verb (-ing form)."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Forming questions in the Simple Present tense using the auxiliary verb \"do\".",
       "difficulty": "6",
       "images": [],
@@ -611,13 +611,13 @@
       "context": "Read the short paragraph: \"Bears sleep during the cold winter months. This long winter sleep is called hibernation. During this time, they do not eat or drink.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "A long sleep during the winter season.",
           "is_correct": true,
           "feedback": "The passage explicitly defines hibernation as a long winter sleep."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Running fast across open green fields.",
           "is_correct": false,
           "feedback": "Bears rest during hibernation rather than running around."
@@ -635,7 +635,7 @@
           "feedback": "Bears sleep in caves or dens, not in tree nests."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Inferring word meaning from context in simple English reading passages.",
       "difficulty": "8",
       "images": [],
@@ -657,19 +657,19 @@
       "context": "Compare two animals: \"Cheetahs can run up to 100 kilometers per hour, while turtles move very slowly on land.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Cheetahs are faster than turtles.",
           "is_correct": true,
           "feedback": "The comparative form \"faster than\" correctly compares cheetahs and turtles."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Turtles are faster than cheetahs.",
           "is_correct": false,
           "feedback": "Incorrect because turtles move slowly while cheetahs run fast."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Cheetahs are slower than turtles.",
           "is_correct": false,
           "feedback": "Incorrect meaning for the comparative \"slower than\"."
@@ -681,7 +681,7 @@
           "feedback": "Grammatically incorrect structure for comparative adjectives."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Using comparative adjectives (-er than) to compare animal traits in English.",
       "difficulty": "8",
       "images": [],
@@ -703,31 +703,31 @@
       "context": "Read the poster statement: \"Spectacled bears live in the cloud forests of Colombia. Their natural environment is disappearing because of deforestation. We must protect their home!\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "To raise awareness about protecting spectacled bears and their forest habitat.",
           "is_correct": true,
           "feedback": "The text highlights habitat loss and calls for protecting their forest home."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "To encourage people to keep wild spectacled bears as pets at home.",
           "is_correct": false,
           "feedback": "Wild bears cannot be domestic pets; the poster urges protecting their wild habitat."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "To invite tourists to cut down trees in the cloud forest.",
           "is_correct": false,
           "feedback": "Deforestation is identified as a threat, not something to encourage."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "To explain how to buy bear fur coats in city markets.",
           "is_correct": false,
           "feedback": "The poster advocates conservation, not commercial hunting."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Evaluating the main purpose and message of an informational poster on wildlife conservation.",
       "difficulty": "10",
       "images": [],

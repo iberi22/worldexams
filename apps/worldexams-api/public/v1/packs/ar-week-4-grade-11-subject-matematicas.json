@@ -13,13 +13,13 @@
       "context": "Martina analiza la fórmula del vértice de una parábola de cara a su lección en Rosario.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x_v = \\frac{b}{2a}$",
           "is_correct": false,
           "feedback": "Incorrecto. Falta el signo negativo en la fórmula del vértice."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x_v = -\\frac{b}{2a}$",
           "is_correct": true,
           "feedback": "Correcto. La abscisa del vértice se localiza en el punto medio de las raíces, dado por la expresión $x_v = -b/(2a)$."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Esto representa el producto de las raíces si el coeficiente principal es 1."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La abscisa del vértice de una parábola representa su eje de simetría y se calcula mediante la fórmula $x_v = -\\frac{b}{2a}$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -64,13 +64,13 @@
           "feedback": "Incorrecto. Esto representa el producto de las raíces ($x_1 \\cdot x_2$)."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$-\\frac{b}{a}$",
           "is_correct": true,
           "feedback": "Correcto. Según las fórmulas de Vieta, la suma de las raíces de una ecuación cuadrática es igual a $-b/a$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\sqrt{b^2 - 4ac}$",
           "is_correct": false,
           "feedback": "Incorrecto. Esto es la raíz del discriminante."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. Falta el signo opuesto."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Las fórmulas de Vieta relacionan los coeficientes de un polinomio con sus raíces. Para un polinomio de grado dos, la suma de las raíces es $-\\frac{b}{a}$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -109,25 +109,25 @@
           "feedback": "Incorrecto. Las traslaciones horizontales dependen del coeficiente lineal y del vértice."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Las ramas de la parábola abren hacia abajo (cóncava hacia abajo).",
           "is_correct": true,
           "feedback": "Correcto. Si el coeficiente principal es negativo ($a < 0$), las ramas de la parábola abren hacia abajo, y el vértice representa un punto máximo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La parábola corta al eje de las ordenadas en un valor negativo.",
           "is_correct": false,
           "feedback": "Incorrecto. La intersección con el eje $y$ depende del valor de $c$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Las ramas de la parábola abren hacia arriba (cóncava hacia arriba).",
           "is_correct": false,
           "feedback": "Incorrecto. Abre hacia arriba únicamente si $a > 0$."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El signo del coeficiente principal $a$ determina la concavidad de la parábola. Si es positivo, abre hacia arriba; si es negativo, abre hacia abajo.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -199,25 +199,25 @@
           "feedback": "Incorrecto. La coordenada $x$ del vértice toma el signo opuesto de la expresión interna."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$V(3, 5)$",
           "is_correct": true,
           "feedback": "Correcto. La forma canónica es $f(x) = a(x - x_v)^2 + y_v$. Identificando los términos, el vértice es $V(3, 5)$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$V(3, -5)$",
           "is_correct": false,
           "feedback": "Incorrecto. La coordenada $y$ del vértice conserva su propio signo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$V(-3, -5)$",
           "is_correct": false,
           "feedback": "Incorrecto. Ambos signos son erróneos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La forma canónica $f(x) = a(x - h)^2 + k$ revela de forma directa las coordenadas del vértice de la parábola, las cuales son $V(h, k)$. En la ecuación dada, $h = 3$ y $k = 5$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -289,13 +289,13 @@
           "feedback": "Incorrecto. Estas raíces darían la ecuación $x^2 + 6x + 8 = 0$."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$x_1 = 2, x_2 = 4$",
           "is_correct": true,
           "feedback": "Correcto. Usando la fórmula cuadrática: $\\frac{6 \\pm \\sqrt{36 - 32}}{2} = \\frac{6 \\pm 2}{2}$. Las raíces son $4$ y $2$. También se puede factorizar como $(x - 2)(x - 4) = 0$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x_1 = 1, x_2 = 8$",
           "is_correct": false,
           "feedback": "Incorrecto. La suma da 9, no 6."
@@ -307,7 +307,7 @@
           "feedback": "Incorrecto. No verifica el término independiente: $3 \\times 3 = 9 \\neq 8$."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Una ecuación cuadrática completa de la forma $ax^2 + bx + c = 0$ puede resolverse mediante la fórmula general de Bhaskara o mediante factorización por términos comunes.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -424,13 +424,13 @@
           "feedback": "Incorrecto. Hay dos puntos de intersección ya que es una ecuación cuadrática compatible."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "En $(-1, 1)$ y $(2, 4)$",
           "is_correct": true,
           "feedback": "Correcto. Igualamos las ecuaciones: $x^2 = x + 2 \\Rightarrow x^2 - x - 2 = 0$. Las raíces son $x = 2$ y $x = -1$. Evaluando en la recta: para $x=2 \\Rightarrow y=4$, para $x=-1 \\Rightarrow y=1$. Los puntos son $(-1,1)$ y $(2,4)$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "En $(0, 2)$ y $(3, 5)$",
           "is_correct": false,
           "feedback": "Incorrecto. No verifica la ecuación de la parábola para dichos puntos."
@@ -442,7 +442,7 @@
           "feedback": "Incorrecto. Si $x = 1$, la recta da $y=3$ pero la parábola da $y=1$."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Para hallar las intersecciones de una línea y una parábola, se igualan sus ecuaciones para obtener una ecuación cuadrática de una variable, cuyas raíces reales nos dan las abscisas de los puntos de intersección.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -463,13 +463,13 @@
       "context": "Julieta quiere delimitar un sector rectangular para criar ovejas en un campo de Santa Fe.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Ancho de $25\\\\text{ m}$ y largo de $25\\\\text{ m}$.",
           "is_correct": false,
           "feedback": "Incorrecto. Esto no optimiza el espacio dado el hecho de que solo se cercan tres lados."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Ancho de $25\\\\text{ m}$ y largo de $50\\\\text{ m}$.",
           "is_correct": true,
           "feedback": "Correcto. Si el ancho es $x$, la longitud de la cerca es $2x + L = 100 \\Rightarrow L = 100 - 2x$. El área es $A(x) = x(100 - 2x) = -2x^2 + 100x$. El vértice está en $x = -100 / (2 \\cdot (-2)) = 25$ metros. El largo es $100 - 2(25) = 50$ metros."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto. Esto da un área de $1200\\\\text{ m}^2$."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El problema de optimización se reduce a hallar el vértice de la función de área resultante $A(x) = -2x^2 + 100x$. El valor óptimo para el ancho es $25\\text{ m}$, resultando en un largo de $50\\text{ m}$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -508,13 +508,13 @@
       "context": "Lautaro resuelve una ecuación cuadrática con raíces fraccionarias en un examen en San Juan.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x_1 = \\frac{1}{2}, x_2 = -3$",
           "is_correct": true,
           "feedback": "Correcto. Usando la fórmula de Bhaskara con $a=2, b=5, c=-3$: $\\frac{-5 \\pm \\sqrt{25 - 4(2)(-3)}}{4} = \\frac{-5 \\pm \\sqrt{49}}{4} = \\frac{-5 \\pm 7}{4}$. Las soluciones son $2/4 = 1/2$ y $-12/4 = -3$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x_1 = -\\frac{1}{2}, x_2 = 3$",
           "is_correct": false,
           "feedback": "Incorrecto. Error de signos al aplicar el opuesto de la fórmula."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. No verifica la igualdad."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La resolución por fórmula general permite obtener de forma directa las raíces reales de un polinomio de segundo grado, incluso si una de ellas es fraccionaria.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -565,19 +565,19 @@
           "feedback": "Incorrecto. La parábola cortaría al eje y en un punto negativo y tendría dos raíces."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "$c = 4$",
           "is_correct": true,
           "feedback": "Correcto. Para que el vértice esté sobre el eje x, la parábola debe tener una única raíz real doble, lo que implica que el discriminante sea cero: $\\Delta = (-4)^2 - 4(1)(c) = 0 \\Rightarrow 16 - 4c = 0 \\Rightarrow c = 4$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$c = 0$",
           "is_correct": false,
           "feedback": "Incorrecto. El vértice estaría por debajo en el punto $(2, -4)$."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Para que el vértice de una parábola esté sobre el eje horizontal, la ordenada del vértice debe ser cero ($y_v = 0$), lo que equivale a imponer la condición de que la función tenga una sola raíz real doble ($\\Delta = 0$).\n\n---",
       "difficulty": "8",
       "images": [],
@@ -604,25 +604,25 @@
           "feedback": "Incorrecto. Se omitió la solución negativa de la ecuación cuadrática resultante."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Para $m = 4$ y $m = -4$",
           "is_correct": true,
           "feedback": "Correcto. Igualando: $x^2 + 4 = mx \\Rightarrow x^2 - mx + 4 = 0$. Para que tengan un único punto de contacto, el discriminante debe ser cero: $\\Delta = (-m)^2 - 4(1)(4) = 0 \\Rightarrow m^2 - 16 = 0 \\Rightarrow m = \\pm 4$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Para cualquier valor de $m$ mayor que 4",
           "is_correct": false,
           "feedback": "Incorrecto. En este rango la recta cortaría a la parábola en dos puntos distintos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Únicamente para $m = 0$",
           "is_correct": false,
           "feedback": "Incorrecto. Si $m=0$, la recta no tiene puntos de contacto con la parábola."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La condición de tangencia entre una recta y una curva cuadrática se cumple cuando la ecuación de intersección tiene una raíz doble, es decir, cuando su discriminante es idénticamente nulo.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -649,13 +649,13 @@
           "feedback": "Incorrecto. Esta es la ganancia fija si no asistieran clientes."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$\\$900$ mil",
           "is_correct": true,
           "feedback": "Correcto. Calculamos el vértice de la parábola: $x_v = -40 / (2 \\cdot (-1)) = 20$ turistas. Evaluamos la ganancia en este punto: $G(20) = -(20)^2 + 40(20) + 500 = -400 + 800 + 500 = 900$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\$1100$ mil",
           "is_correct": false,
           "feedback": "Incorrecto. Se cometió un error algebraico de signos en el desarrollo de la potencia."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. Este valor no corresponde al máximo absoluto de la función de beneficio."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La función de ganancia es una parábola cóncava hacia abajo. Su valor máximo se localiza en el vértice, el cual se calcula evaluando la ordenada para la abscisa óptima de 20 turistas.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -688,13 +688,13 @@
       "context": "Milagros analiza la representación matemática del movimiento parabólico de un chorro de agua en Paraná.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$a = 1$",
           "is_correct": false,
           "feedback": "Incorrecto. Esto daría valores positivos de altura por encima de los límites físicos reales."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$a = -1$",
           "is_correct": true,
           "feedback": "Correcto. Dado que pasa por $(0,0)$, evaluamos la ecuación canónica: $0 = a(0 - 2)^2 + 4 \\Rightarrow 0 = 4a + 4 \\Rightarrow 4a = -4 \\Rightarrow a = -1$."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. No verifica el paso por el origen de coordenadas."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Al sustituir el punto de paso obligatorio $(0,0)$ en la ecuación con el vértice conocido, se despeja la incógnita del coeficiente principal $a$, revelando que la parábola abre hacia abajo de manera simétrica.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -733,13 +733,13 @@
       "context": "Nicolas estudia la superposición de dos campos de gravedad modelados por parábolas en Corrientes.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "En $(0, 3)$ y $(3, 0)$",
           "is_correct": true,
           "feedback": "Correcto. Igualamos las ecuaciones: $x^2 - 4x + 3 = -x^2 + 2x + 3 \\Rightarrow 2x^2 - 6x = 0 \\Rightarrow 2x(x - 3) = 0$. Las abscisas de intersección son $x = 0$ y $x = 3$. Evaluando en cualquiera de las parábolas obtenemos los puntos $(0,3)$ y $(3,0)$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Únicamente en $(0, 3)$",
           "is_correct": false,
           "feedback": "Incorrecto. Falta la otra raíz de la ecuación cuadrática incompleta resultante."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. No verifica la intersección de ambas curvas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Al igualar dos funciones cuadráticas se obtiene una ecuación polinómica cuyo conjunto solución determina las coordenadas de abscisa de los puntos de cruce de ambas parábolas.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -784,13 +784,13 @@
           "feedback": "Incorrecto. Este sería el rango de soluciones si la desigualdad fuera mayor o igual a cero."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$[-3, 5]$",
           "is_correct": true,
           "feedback": "Correcto. Las raíces de la ecuación cuadrática son $x = -3$ y $x = 5$. Dado que la parábola abre hacia arriba (coeficiente principal positivo), los valores no positivos se encuentran entre las dos raíces inclusive."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$[-5, 3]$",
           "is_correct": false,
           "feedback": "Incorrecto. Los signos de las raíces fueron aplicados de manera inversa."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. La desigualdad no es estricta, por lo que los extremos cerrados deben estar incluidos en la solución."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Para resolver $x^2 - 2x - 15 \\le 0$, hallamos las raíces críticas de la ecuación cuadrática por factorización: $(x - 5)(x + 3) \\le 0$. Al analizar el signo por intervalos, se observa que el signo es negativo entre las dos raíces.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -829,25 +829,25 @@
           "feedback": "Incorrecto. Aunque la abscisa del vértice es 6, el estudiante no analizó la concavidad de la parábola."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "La afirmación es falsa porque como $a = 10 > 0$, la parábola abre hacia arriba, por lo que en $x=6$ se alcanza el beneficio mínimo, no el máximo.",
           "is_correct": true,
           "feedback": "Correcto. Dado que el coeficiente principal es positivo ($a=10$), el vértice representa el mínimo absoluto de la función de beneficio, por lo que fijar el precio en 6 generaría la peor rentabilidad posible."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La afirmación es correcta porque a mayor precio, el beneficio siempre tiende a crecer infinitamente.",
           "is_correct": false,
           "feedback": "Incorrecto. No evalúa correctamente el concepto del vértice en parábolas de coeficiente positivo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La afirmación es falsa porque la ecuación cuadrática no tiene raíces reales y no se puede calcular el vértice.",
           "is_correct": false,
           "feedback": "Incorrecto. El vértice siempre se puede calcular independientemente de la existencia de raíces."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Fijar el precio basándose únicamente en el vértice sin analizar el signo del coeficiente principal es un error conceptual crítico. Si $a > 0$, el vértice de la función es un mínimo absoluto, no un máximo.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -868,31 +868,31 @@
       "context": "Martina evalúa las afirmaciones teóricas referidas a las intersecciones de familias de parábolas en Jujuy.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Siempre verdadera.",
           "is_correct": true,
           "feedback": "Correcto. Al igualar dos ecuaciones cuadráticas distintas de la forma $y = a_1 x^2 + b_1 x + c_1$ e $y = a_2 x^2 + b_2 x + c_2$ se obtiene una ecuación que a lo sumo es de grado dos. Por el teorema fundamental del álgebra, una ecuación de grado menor o igual a dos posee a lo sumo dos raíces reales distintas, lo que garantiza un máximo de dos puntos de corte."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Falsa, porque pueden cortarse en hasta tres o cuatro puntos.",
           "is_correct": false,
           "feedback": "Incorrecto. Dos curvas cuadráticas con ejes de simetría verticales paralelos no pueden cruzarse en más de dos puntos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Verdadera solo si ambas parábolas tienen coeficientes principales idénticos.",
           "is_correct": false,
           "feedback": "Incorrecto. Si tienen coeficientes principales idénticos, al igualarlas los términos cuadráticos se anulan, dando una ecuación lineal de grado uno con a lo sumo un punto de corte."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Falsa, ya que si abren en sentidos contrarios es físicamente imposible que se corten.",
           "is_correct": false,
           "feedback": "Incorrecto. Sí pueden cortarse si se posicionan adecuadamente en el plano cartesiano."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La intersección algebraica entre dos parábolas verticales se reduce a resolver una ecuación cuadrática de grado menor o igual a dos. Por consiguiente, el número máximo de soluciones reales, que determina los puntos de contacto, es estrictamente menor o igual a dos.",
       "difficulty": "10",
       "images": [],

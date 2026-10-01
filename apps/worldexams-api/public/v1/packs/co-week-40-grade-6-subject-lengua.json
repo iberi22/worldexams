@@ -13,13 +13,13 @@
       "context": "En el colegio San Bartolomé la Merced de Bogotá, los estudiantes finalizan el año escolar con una revisión de las categorías gramaticales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Árbol.",
           "is_correct": false,
           "feedback": "Incorrecto. El árbol es un sustantivo común y concreto (se puede tocar y ver)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Amistad.",
           "is_correct": true,
           "feedback": "Correcto. La amistad es un sentimiento o concepto que no tiene presencia física material."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Es un sustantivo propio y concreto (un lugar específico)."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Los sustantivos abstractos nombran ideas, sentimientos o cualidades que no pueden percibirse por los sentidos físicos, a diferencia de los concretos.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -65,13 +65,13 @@
           "feedback": "Incorrecto. El verbo está en pasado."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Una acción en desarrollo o habitual en el pasado (pretérito imperfecto).",
           "is_correct": true,
           "feedback": "Correcto. Indica una acción duradera que servía de fondo para otro hecho puntual."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Una orden que debe cumplirse de inmediato.",
           "is_correct": false,
           "feedback": "Incorrecto. No es modo imperativo."
@@ -83,7 +83,7 @@
           "feedback": "Incorrecto. Es un tiempo de pasado durativo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El pretérito imperfecto de indicativo se usa para describir acciones inacabadas o procesos repetitivos en el pasado, siendo clave en la narración literaria.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -157,25 +157,25 @@
           "feedback": "Incorrecto. Es una razón estructural y de lectura, no solo estética."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Para que el lector conozca lo más importante al principio, por si no tiene tiempo de leer todo el texto.",
           "is_correct": true,
           "feedback": "Correcto. Responde a la necesidad de inmediatez y jerarquía informativa."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Para que las noticias de deportes siempre vayan al final.",
           "is_correct": false,
           "feedback": "Incorrecto. La pirámide invertida se aplica a cada noticia individualmente."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Para gastar menos tinta al momento de imprimir.",
           "is_correct": false,
           "feedback": "Incorrecto. No afecta el consumo de tinta."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La jerarquización de la información de mayor a menor relevancia es la base del estilo periodístico informativo moderno.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "Un grupo de alumnos en Cartagena analiza un **artículo de opinión** sobre la contaminación de las playas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Dar un dato científico sobre el peso del plástico.",
           "is_correct": false,
           "feedback": "Incorrecto. Es un adjetivo valorativo, no un dato numérico."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Expresar un juicio de valor o postura subjetiva del autor frente al hecho.",
           "is_correct": true,
           "feedback": "Correcto. Los adjetivos valorativos son marcas de subjetividad."
@@ -267,7 +267,7 @@
           "feedback": "Incorrecto. No indica cuándo suceden las cosas."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El lenguaje en los géneros de opinión se caracteriza por la presencia de marcas que revelan la posición ética o emocional del emisor.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "En una clase en Pereira, se estudia el uso de las **comillas** en los textos académicos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Al final de cada oración para que sepa que terminó.",
           "is_correct": false,
           "feedback": "Incorrecto. Para eso se usa el punto."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Para encerrar una cita textual (palabras exactas dichas por otra persona).",
           "is_correct": true,
           "feedback": "Correcto. Indican que el pensamiento no es del autor del texto."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecto. La ortografía es independiente del color del útil."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Las comillas son signos de puntuación que delimitan niveles en el discurso, permitiendo la polifonía dentro de un mismo texto.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -381,13 +381,13 @@
       "context": "En un ejercicio de análisis en Villavicencio, se estudia la relación entre conectores y el sentido de la frase.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "\"Si\".",
           "is_correct": false,
           "feedback": "Incorrecto. También plantea una condición."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "\"Porque\".",
           "is_correct": true,
           "feedback": "Correcto. \"Aunque\" indica concesión; \"porque\" indicaría causa, lo cual cambia el sentido lógico."
@@ -405,7 +405,7 @@
           "feedback": "Incorrecto. También es un sinónimo de \"aunque\"."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La cohesión textual no es solo poner palabras de enlace, sino elegir aquella que represente la relación lógica exacta entre los hechos.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -427,19 +427,19 @@
       "context": "Un estudiante de 6° grado en Pasto evalúa la calidad de un cuento escrito por un compañero que usa siempre la misma palabra.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Que quite todos los \"luego\" y deje las oraciones sin conexión.",
           "is_correct": false,
           "feedback": "Incorrecto. Perdería la cohesión del texto."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Que escriba el cuento en inglés para que no se note la repetición.",
           "is_correct": false,
           "feedback": "Incorrecto. No soluciona el problema de redacción."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Que use mecanismos de cohesión como la sinonimia o conectores variados (después, más tarde, a continuación).",
           "is_correct": true,
           "feedback": "Correcto. La variedad léxica hace que el texto sea más rico."
@@ -451,7 +451,7 @@
           "feedback": "Incorrecto. El error es una oportunidad de aprendizaje."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "El dominio de la cohesión léxica y gramatical es lo que distingue a un escritor competente, permitiéndole guiar al lector sin causarle fatiga.\n\n[//]: # (QUALITY_REVIEW)\n\n| Dimensión | Score | Notas |\n|-----------|-------|-------|\n| Técnico | 30/30 | Formato Protocolo v5.2 respetado y frontmatter completo. |\n| Curricular | 40/40 | Evaluación integral de contenidos de grado 6°. |\n| Contexto | 20/20 | Referencias a Bogotá, Medellín, Cali, Barranquilla, etc. |\n| Redacción | 10/10 | Alta claridad y rigor pedagógico en las preguntas. |\n| **TOTAL** | **100/100** | |",
       "difficulty": "10",
       "images": [],

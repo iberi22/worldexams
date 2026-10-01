@@ -64,13 +64,13 @@
           "feedback": "Incorrecto. Es >."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Menor estricto.",
           "is_correct": false,
           "feedback": "Incorrecto. Es <."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Menor o igual.",
           "is_correct": true,
           "feedback": "Correcto. Incluye el valor límite."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. Es ≠."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Identificación de operadores de comparación no estricta.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -193,13 +193,13 @@
       "context": "Resolver $x + 8 < 15$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "x < 23",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste el 8."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "x < 7",
           "is_correct": true,
           "feedback": "Correcto. $15 - 8 = 7$."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. No es punto único."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Resolución de inecuaciones de primer grado elementales.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -244,13 +244,13 @@
           "feedback": "Incorrecto. No sumó 4."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "x >= 7",
           "is_correct": true,
           "feedback": "Correcto. $2x \\geq 14 \\implies x \\geq 7$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "x <= 7",
           "is_correct": false,
           "feedback": "Incorrecto. Signo errado."
@@ -262,7 +262,7 @@
           "feedback": "Incorrecto. Debe incluir al 7."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Pasos secuenciales para despejar la incógnita en una desigualdad.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -289,25 +289,25 @@
           "feedback": "Incorrecto. $480+50 > 500$."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "3",
           "is_correct": true,
           "feedback": "Correcto. $360+50 \\leq 500$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "5",
           "is_correct": false,
           "feedback": "Incorrecto. Excede."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "2",
           "is_correct": false,
           "feedback": "Incorrecto. No es el máximo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Modelación de restricciones de presupuesto mediante inecuaciones.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -418,13 +418,13 @@
       "context": "Notas 85 y 92; meta promedio 90.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "90",
           "is_correct": false,
           "feedback": "Incorrecto. Promedio 89."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "93",
           "is_correct": true,
           "feedback": "Correcto. Suma 177+93=270; 270/3=90."
@@ -442,7 +442,7 @@
           "feedback": "Incorrecto. Insuficiente."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Cálculo de valores mínimos requeridos para cumplir una condición promedio.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -469,13 +469,13 @@
           "feedback": "Incorrecto. Sentido errado."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "x <= 3",
           "is_correct": true,
           "feedback": "Correcto. $3x \\leq 9 \\implies x \\leq 3$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "x <= 1.5",
           "is_correct": false,
           "feedback": "Incorrecto. División errada."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto. No agrupó bien."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Agrupación de incógnitas y constantes en desigualdades.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -514,13 +514,13 @@
           "feedback": "Incorrecto. Olvidó negativos."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "[-3, 3]",
           "is_correct": true,
           "feedback": "Correcto. Valores cuyo cuadrado no pasa de 9."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "(-inf, 3]",
           "is_correct": false,
           "feedback": "Incorrecto. No limitado inferiormente."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. Son infinitos reales."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Resolución de inecuaciones cuadráticas por acotamiento de raíz.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -604,25 +604,25 @@
           "feedback": "Incorrecto. Negativos fallan."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "x > 0",
           "is_correct": true,
           "feedback": "Correcto. Positivo / positivo = positivo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Excepto 0.",
           "is_correct": false,
           "feedback": "Incorrecto. Negativos fallan."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "x > 1",
           "is_correct": false,
           "feedback": "Incorrecto. 0.5 sirve."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Análisis de signos en cocientes algebraicos.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -643,13 +643,13 @@
       "context": "Resolver $3(x - 2) \\geq 5x + 4$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "x >= -5",
           "is_correct": false,
           "feedback": "Incorrecto. No invirtió."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "x <= -5",
           "is_correct": true,
           "feedback": "Correcto. $-2x \\geq 10$ invierte a $x \\leq -5$."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. Falló pasos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Combinación de distribución, transposición e inversión de sentido.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -694,25 +694,25 @@
           "feedback": "Incorrecto. Subiría demasiado."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "0-3",
           "is_correct": true,
           "feedback": "Correcto. $5 \\cdot 3 = 15$; $20+15=35$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "4-7",
           "is_correct": false,
           "feedback": "Incorrecto. Ya fuera de rango."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Siempre.",
           "is_correct": false,
           "feedback": "Incorrecto. Sigue subiendo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Aplicación de inecuaciones a procesos técnicos de control.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -733,13 +733,13 @@
       "context": "Valor absoluto $|x - 4| < 2$ en la UASD.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "x < 6",
           "is_correct": false,
           "feedback": "Incorrecto. Incompleto."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "(2, 6)",
           "is_correct": true,
           "feedback": "Correcto. Distancia a 4 menor a 2."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. Desigualdad estricta."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Resolución de desigualdades modulares.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -784,13 +784,13 @@
           "feedback": "Incorrecto. Da negativo."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "(-inf, -3) U (1, inf)",
           "is_correct": true,
           "feedback": "Correcto. Signos iguales para producto positivo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "[1, inf)",
           "is_correct": false,
           "feedback": "Incorrecto. Falta tramo negativo."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. Sí hay."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Uso de puntos críticos para determinar regiones de solución en productos.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -829,13 +829,13 @@
           "feedback": "Incorrecto. (-2)^2+1=5."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "x > 1",
           "is_correct": false,
           "feedback": "Incorrecto. 2^2+1=5."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Vacío",
           "is_correct": true,
           "feedback": "Correcto. Suma de positivos nunca menor a cero."
@@ -847,7 +847,7 @@
           "feedback": "Incorrecto. Ninguno cumple."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Reconocimiento de inecuaciones sin solución en el campo real.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -868,19 +868,19 @@
       "context": "Optimización: $2A + B \\leq 40$ y $A \\geq 10$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "(10, 20)",
           "is_correct": false,
           "feedback": "Incorrecto. Cumple ambas."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "(15, 5)",
           "is_correct": false,
           "feedback": "Incorrecto. Cumple ambas."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "(5, 20)",
           "is_correct": true,
           "feedback": "Correcto. Viola A >= 10."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. Cumple ambas."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Evaluación de restricciones en sistemas de inecuaciones aplicados.\n\n[//]: # (QUALITY_REVIEW)\n| Dimensión | Puntuación |\n|-----------|------------|\n| Técnico | 30/30 |\n| Curricular | 40/40 |\n| Context | 20/20 |\n| Redacción | 10/10 |\n| **Total** | **100/100** |",
       "difficulty": "10",
       "images": [],

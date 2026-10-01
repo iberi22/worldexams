@@ -103,13 +103,13 @@
       "context": "Un estudiante en Valencia calcula la imagen de un valor para una función de costes.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "-7",
           "is_correct": false,
           "feedback": "Error al sumar en lugar de multiplicar."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "-12",
           "is_correct": true,
           "feedback": "Correcto. $3 \\cdot (-4) = -12$."
@@ -127,7 +127,7 @@
           "feedback": "Error de cálculo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Para hallar la imagen de un valor, sustituimos la variable $x$ por dicho valor en la expresión analítica y realizamos la operación indicada. En las funciones lineales puras ($y = mx$), la gráfica siempre pasa por el origen $(0,0)$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -154,13 +154,13 @@
           "feedback": "Es una función lineal pura, pasa por (0,0)."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$f(x) = 5x - 2$",
           "is_correct": true,
           "feedback": "Correcto. Tiene pendiente 5 y ordenada en el origen -2."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$f(x) = x^2$",
           "is_correct": false,
           "feedback": "Es una función cuadrática, no lineal ni afín."
@@ -172,7 +172,7 @@
           "feedback": "Es una función constante."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Aunque a menudo se usan indistintamente, la función lineal pura tiene la forma $y = mx$ ($n=0$), mientras que la afín es $y = mx + n$ con $n \\neq 0$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -199,13 +199,13 @@
           "feedback": "Error en el cálculo de la diferencia de ordenadas o abscisas."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "3",
           "is_correct": true,
           "feedback": "Correcto. $m = (8 - 2) / (3 - 1) = 6 / 2 = 3$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "1/3",
           "is_correct": false,
           "feedback": "Se ha calculado la diferencia de X entre la de Y (inversa de la pendiente)."
@@ -217,7 +217,7 @@
           "feedback": "Se ha olvidado dividir por la diferencia de las abscisas."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La pendiente se define como la razón entre la variación de la $y$ ($\\Delta y$) y la variación de la $x$ ($\\Delta x$). Fórmula: $m = (y_2 - y_1) / (x_2 - x_1)$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -283,19 +283,19 @@
       "context": "Un estudiante analiza la posición relativa de dos rectas en el plano.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Tener la misma pendiente ($m_1 = m_2$).",
           "is_correct": true,
           "feedback": "Correcto. Si tienen la misma inclinación, nunca se cortarán (a menos que sean la misma)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Tener la misma ordenada en el origen ($n_1 = n_2$).",
           "is_correct": false,
           "feedback": "Esto solo significa que cortan al eje Y en el mismo punto."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Que sus pendientes sean recíprocas y opuestas.",
           "is_correct": false,
           "feedback": "Esta es la condición de perpendicularidad."
@@ -307,7 +307,7 @@
           "feedback": "Condición incorrecta."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Dos rectas son paralelas si y solo si tienen la misma pendiente. Si además tienen distinta ordenada en el origen, son paralelas no coincidentes.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -379,13 +379,13 @@
           "feedback": "Este es el corte con el eje Y."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "(3, 0)",
           "is_correct": true,
           "feedback": "Correcto. $4x - 12 = 0 \\Rightarrow 4x = 12 \\Rightarrow x = 3$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "(-3, 0)",
           "is_correct": false,
           "feedback": "Error de signo al despejar."
@@ -397,7 +397,7 @@
           "feedback": "Error de cálculo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El corte con el eje X (raíz de la función) se halla igualando la función a cero ($y=0$) y resolviendo la ecuación para $x$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -418,13 +418,13 @@
       "context": "Se busca la ecuación de una recta conociendo su pendiente y un punto.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$y = -x + 1$",
           "is_correct": false,
           "feedback": "El punto (2,3) no la cumple: -2+1 = -1 ≠ 3."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$y = -x + 5$",
           "is_correct": true,
           "feedback": "Correcto. $3 = -1(2) + n \\Rightarrow 3 = -2 + n \\Rightarrow n = 5$."
@@ -442,7 +442,7 @@
           "feedback": "La pendiente debe ser negativa."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Usamos la forma punto-pendiente o la forma explícita $y = mx + n$. Sustituimos el punto dado y la pendiente para despejar el valor de $n$ (ordenada en el origen).\n\n---",
       "difficulty": "6",
       "images": [],
@@ -469,25 +469,25 @@
           "feedback": "Esto corresponde a un ángulo de 0º."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "1",
           "is_correct": true,
           "feedback": "Correcto. La pendiente es la tangente del ángulo: $m = \\tan(45^{\\circ}) = 1$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "-1",
           "is_correct": false,
           "feedback": "Esto corresponde a un ángulo de 135º."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$\\infty$",
           "is_correct": false,
           "feedback": "Esto corresponde a una recta vertical (90º)."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Existe una relación directa entre la trigonometría y la geometría analítica: la pendiente de una recta es igual a la tangente del ángulo de inclinación que forma con el eje positivo de las abscisas.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -514,25 +514,25 @@
           "feedback": "Error al despejar los términos."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$2x - 3y - 12 = 0$",
           "is_correct": true,
           "feedback": "Correcto. Multiplicamos por 3: $3y = 2x - 12$. Pasamos al mismo miembro: $2x - 3y - 12 = 0$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$2x - 3y + 4 = 0$",
           "is_correct": false,
           "feedback": "Error en el signo o en el producto del término independiente."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$3x - 2y - 12 = 0$",
           "is_correct": false,
           "feedback": "Coeficientes de x e y intercambiados."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La forma general de la recta agrupa todos los términos en un miembro, igualando a cero. Es preferible que los coeficientes $A, B, C$ sean números enteros, por lo que eliminamos denominadores multiplicando toda la ecuación.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -553,19 +553,19 @@
       "context": "Un estudiante en Asturias explica por qué una recta vertical no es una función.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$y = 3$",
           "is_correct": false,
           "feedback": "Es una función constante."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$y = x$",
           "is_correct": false,
           "feedback": "Es la función identidad."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "$x = 2$",
           "is_correct": true,
           "feedback": "Correcto. Es una recta vertical; para un valor de x existen infinitos de y, violando la definición de función."
@@ -577,7 +577,7 @@
           "feedback": "Es la función $y = -x$."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Una relación es función si a cada elemento del dominio le corresponde un ÚNICO elemento del codominio. Las rectas verticales asignan infinitas imágenes al mismo valor de $x$, por lo que son curvas en el plano pero no funciones.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -598,13 +598,13 @@
       "context": "Un arquitecto en Málaga calcula la intersección de dos trayectorias rectilíneas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "(3, 2)",
           "is_correct": false,
           "feedback": "$2(3)-1=5 \\neq 2$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "(2, 3)",
           "is_correct": true,
           "feedback": "Correcto. $2x - 1 = -x + 5 \\Rightarrow 3x = 6 \\Rightarrow x = 2$. Entonces $y = 2(2)-1 = 3$."
@@ -622,7 +622,7 @@
           "feedback": "Punto de la recta s, pero no de la r."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El punto de corte de dos funciones se halla resolviendo el sistema formado por sus expresiones analíticas. Es el único punto $(x, y)$ cuyas coordenadas satisfacen ambas ecuaciones simultáneamente.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -655,19 +655,19 @@
           "feedback": "Solo se ha cambiado el signo, no es suficiente."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "-2",
           "is_correct": true,
           "feedback": "Correcto. La pendiente perpendicular es la opuesta e inversa: $-1 / (1/2) = -2$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "2",
           "is_correct": false,
           "feedback": "Falta el cambio de signo."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Dos rectas son perpendiculares si el producto de sus pendientes es $-1$ ($m_1 \\cdot m_2 = -1$). Prácticamente, invertimos la fracción de la pendiente original y le cambiamos el signo.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -694,13 +694,13 @@
           "feedback": "Esta es la variación total de la y, no la tasa media."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "-3",
           "is_correct": true,
           "feedback": "Correcto. En las funciones afines, la TVM es constante e igual a la pendiente en cualquier intervalo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "3",
           "is_correct": false,
           "feedback": "Error de signo."
@@ -712,7 +712,7 @@
           "feedback": "Esta es la longitud del intervalo (5-1), no la tasa."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Una característica única de las funciones de primer grado es que su crecimiento/decrecimiento es uniforme. Por tanto, la tasa de variación media en cualquier intervalo coincide siempre con el valor de la pendiente $m$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -733,13 +733,13 @@
       "context": "Un programador en una startup en Madrid interpola una función lineal entre dos lecturas de sensores.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$y = 3x + 2$",
           "is_correct": false,
           "feedback": "El punto (1,5) da 3+2=5, pero (-2,-1) da -6+2=-4."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$y = 2x + 3$",
           "is_correct": true,
           "feedback": "Correcto. $m = (-1 - 5) / (-2 - 1) = -6 / -3 = 2$. Luego $5 = 2(1) + n \\Rightarrow n = 3$."
@@ -757,7 +757,7 @@
           "feedback": "Pendiente incorrecta."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Para hallar la ecuación que pasa por dos puntos, calculamos primero la pendiente $m$ y luego usamos uno de los puntos para hallar $n$. Es el proceso básico de modelización lineal.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -868,13 +868,13 @@
       "context": "Un reto sobre una familia de rectas que dependen de un parámetro $k$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$k = 0$",
           "is_correct": false,
           "feedback": "Las pendientes serian 0 y -3."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$k = 3$",
           "is_correct": true,
           "feedback": "Correcto. Pendientes iguales: $k = 2k - 3 \\Rightarrow k = 3$."
@@ -892,7 +892,7 @@
           "feedback": "Pendientes 2 y 1."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Igualamos las expresiones de las pendientes que dependen del parámetro $k$. Resolvemos la ecuación resultante para hallar el valor exacto que hace que ambas rectas tengan la misma inclinación.\n\n---\n\n[//]: # (QUALITY_REVIEW)\n| Dimensión | Puntuación |\n|-----------|------------|\n| Técnico | 30/30 |\n| Curricular | 40/40 |\n| Contexto | 20/20 |\n| Redacción | 10/10 |\n| **Total** | **100/100** |",
       "difficulty": "10",
       "images": [],

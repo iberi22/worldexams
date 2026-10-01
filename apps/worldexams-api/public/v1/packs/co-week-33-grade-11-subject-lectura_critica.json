@@ -13,19 +13,19 @@
       "context": "En un recital en Bogotá, Laura escucha un poema de Piedad Bonnett.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Experimentación formal, temas cotidianos y ruptura de estructuras rígidas.",
           "is_correct": true,
           "feedback": "La poesía contemporánea rompe la métrica clásica y explora nuevos temas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Uso exclusivo de rima consonante.",
           "is_correct": false,
           "feedback": "La rima no es obligatoria en la poesía contemporánea."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Temas exclusivamente religiosos.",
           "is_correct": false,
           "feedback": "Aborda temas variados."
@@ -37,7 +37,7 @@
           "feedback": "Aún se usan metáforas y símbolos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La poesía contemporánea privilegia la libertad expresiva, la fragmentación y la subjetividad.",
       "difficulty": "4",
       "images": [],
@@ -65,25 +65,25 @@
           "feedback": "Justamente se opone a la métrica fija."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "No sujetarse a un patrón regular de sílabas ni rima.",
           "is_correct": true,
           "feedback": "Predomina la cadencia del habla."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Seguir las reglas del soneto clásico.",
           "is_correct": false,
           "feedback": "El soneto es una forma fija."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Tener siempre 14 versos.",
           "is_correct": false,
           "feedback": "El número de versos es libre."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El verso libre es una de las formas más usadas en la poesía del siglo XX y XXI.",
       "difficulty": "4",
       "images": [],
@@ -105,13 +105,13 @@
       "context": "En clase en Cali, se analiza el uso de la imagen poética actual.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Sorprendentes, a veces urbanas o tecnológicas, alejándose de lo bucólico.",
           "is_correct": true,
           "feedback": "Se incorporan objetos y situaciones modernas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Siempre rurales y pastoriles.",
           "is_correct": false,
           "feedback": "La poesía contemporánea trasciende lo rural."
@@ -129,7 +129,7 @@
           "feedback": "Son esenciales."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Las imágenes contemporáneas reflejan el contexto urbano, tecnológico y global.",
       "difficulty": "4",
       "images": [],
@@ -157,25 +157,25 @@
           "feedback": "La realidad urbana se aborda con crudeza a menudo."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Reflexivo, crítico y a veces melancólico.",
           "is_correct": true,
           "feedback": "Refleja las tensiones de la ciudad."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Festivo y humorístico exclusivamente.",
           "is_correct": false,
           "feedback": "Hay humor, pero no domina."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Religioso sin matices.",
           "is_correct": false,
           "feedback": "No es el único tono."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La poesía urbana examina la alienación, la violencia y la búsqueda de sentido.",
       "difficulty": "4",
       "images": [],
@@ -243,31 +243,31 @@
       "context": "En clase en Pereira, se trabaja con figuras literarias contemporáneas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Personificación.",
           "is_correct": true,
           "feedback": "Humaniza lo no humano."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Hipérbole.",
           "is_correct": false,
           "feedback": "Exagera cantidades o cualidades."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Metonimia.",
           "is_correct": false,
           "feedback": "Sustituye por relación de contigüidad."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Aliteración.",
           "is_correct": false,
           "feedback": "Repite sonidos consonánticos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La personificación crea imágenes poderosas, muy usadas en poesía contemporánea.",
       "difficulty": "6",
       "images": [],
@@ -335,13 +335,13 @@
       "context": "En clase en Santa Marta, se analiza el ritmo poético actual.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La cadencia natural del habla, las pausas y la disposición tipográfica.",
           "is_correct": true,
           "feedback": "El ritmo se construye con nuevos recursos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Una métrica silábica estricta.",
           "is_correct": false,
           "feedback": "Ya no se exige métrica regular."
@@ -359,7 +359,7 @@
           "feedback": "Hay otros recursos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El verso libre recupera el ritmo del lenguaje oral y de la respiración.",
       "difficulty": "6",
       "images": [],
@@ -381,31 +381,31 @@
       "context": "En Ibagué, se compara la poesía femenina latinoamericana.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "La exploración del cuerpo, la identidad y la memoria histórica.",
           "is_correct": true,
           "feedback": "Temas recurrentes en autoras como Idea Vilariño o Piedad Bonnett."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La celebración exclusiva de la naturaleza.",
           "is_correct": false,
           "feedback": "Hay múltiples enfoques."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El rechazo de la primera persona.",
           "is_correct": false,
           "feedback": "Muchas usan el \"yo\"."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La prohibición de símbolos.",
           "is_correct": false,
           "feedback": "Usan símbolos libremente."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La poesía femenina ha enriquecido la lírica contemporánea con voces y perspectivas diversas.",
       "difficulty": "6",
       "images": [],
@@ -427,31 +427,31 @@
       "context": "En Neiva, se lee un poema de Juan Manuel Roca.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Orientar la lectura, sugerir un tono o generar expectativa.",
           "is_correct": true,
           "feedback": "El título es parte esencial de la significación."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Ser siempre neutro y descriptivo.",
           "is_correct": false,
           "feedback": "Puede ser sugerente o simbólico."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Repetir el primer verso.",
           "is_correct": false,
           "feedback": "Es redundante."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Anular el contenido del poema.",
           "is_correct": false,
           "feedback": "El título no anula el contenido."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El título aporta una clave interpretativa fundamental para la lectura del poema.",
       "difficulty": "6",
       "images": [],
@@ -571,13 +571,13 @@
           "feedback": "Justamente recupera lo autobiográfico."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Retomar lo cotidiano, lo autobiográfico y lo confesional desde un tono realista.",
           "is_correct": true,
           "feedback": "Esta corriente dialoga con lo vivido."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Usar solo lenguaje abstracto.",
           "is_correct": false,
           "feedback": "Prefiere imágenes concretas."
@@ -589,7 +589,7 @@
           "feedback": "Abarca lo urbano y rural."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La poesía de la experiencia conecta lo íntimo con lo social, en un lenguaje accesible.",
       "difficulty": "8",
       "images": [],
@@ -611,13 +611,13 @@
       "context": "En clase en Medellín, se compara la poesía colombiana actual con la del siglo XIX.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La contemporánea incorpora voces marginadas y temáticas de género, memoria y conflicto.",
           "is_correct": true,
           "feedback": "Hay mayor diversidad de voces y temas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La del XIX tenía más métrica libre.",
           "is_correct": false,
           "feedback": "Era más rígida en métrica."
@@ -635,7 +635,7 @@
           "feedback": "La del XIX era más formalista."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La poesía actual refleja la diversidad cultural y los debates sociales contemporáneos.",
       "difficulty": "8",
       "images": [],
@@ -703,13 +703,13 @@
       "context": "En clase en Bogotá, se estudian las performances poéticas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Limitarse a la lectura en voz baja.",
           "is_correct": false,
           "feedback": "La performance busca impacto escénico."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Integrar voz, cuerpo, música y elementos visuales en la presentación del poema.",
           "is_correct": true,
           "feedback": "Combina artes escénicas y poesía."
@@ -727,7 +727,7 @@
           "feedback": "El micrófono amplifica la voz."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La poesía performática amplía los límites del género lírico.",
       "difficulty": "8",
       "images": [],
@@ -755,13 +755,13 @@
           "feedback": "Tiene nuevos públicos en redes y recitales."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Porque ofrece una experiencia estética pausada, contraria a la inmediatez digital.",
           "is_correct": true,
           "feedback": "La pausa y la contemplación son valores poéticos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque sus temas son irrelevantes.",
           "is_correct": false,
           "feedback": "Abordan temas vigentes."
@@ -773,7 +773,7 @@
           "feedback": "La integra con frecuencia."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La poesía resignifica la experiencia humana en tiempos de sobreinformación.",
       "difficulty": "10",
       "images": [],
@@ -795,19 +795,19 @@
       "context": "En un foro en Pereira, se compara la poesía de protesta con la intimista.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "La intimista explora el mundo interior del yo; la de protesta denuncia injusticias colectivas.",
           "is_correct": true,
           "feedback": "Son orientaciones complementarias."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La protesta nunca usa imágenes.",
           "is_correct": false,
           "feedback": "Usa imágenes poderosas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La intimista evita la emoción.",
           "is_correct": false,
           "feedback": "Es profundamente emocional."
@@ -819,7 +819,7 @@
           "feedback": "Sí existen enfoques distintos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Ambas modalidades enriquecen la lírica contemporánea.",
       "difficulty": "10",
       "images": [],
@@ -887,19 +887,19 @@
       "context": "En un cierre en Pasto, se reflexiona sobre el futuro de la poesía.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Amplían el público y permiten nuevas formas de circulación y diálogo.",
           "is_correct": true,
           "feedback": "Twitter, Instagram y TikTok son nuevas tribunas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Eliminan la lectura pausada.",
           "is_correct": false,
           "feedback": "Pueden promover micropoemas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Prohíben la publicación de poemas.",
           "is_correct": false,
           "feedback": "Facilitan la publicación."
@@ -911,7 +911,7 @@
           "feedback": "Abarcan contenidos variados."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Las plataformas digitales democratizan la difusión poética y amplían el diálogo cultural.",
       "difficulty": "10",
       "images": [],

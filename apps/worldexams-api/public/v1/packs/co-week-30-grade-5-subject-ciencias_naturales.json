@@ -13,19 +13,19 @@
       "context": "En un colegio de Neiva, la profesora de ciencias muestra un modelo del sistema excretor y pide a sus estudiantes reconocer los órganos que filtran la sangre.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Los riñones.",
           "is_correct": true,
           "feedback": "Los riñones filtran la sangre y retiran los desechos, formando la orina."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Los pulmones.",
           "is_correct": false,
           "feedback": "Los pulmones pertenecen al sistema respiratorio y realizan el intercambio de gases."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El corazón.",
           "is_correct": false,
           "feedback": "El corazón bombea la sangre, pero no la filtra ni forma la orina."
@@ -37,7 +37,7 @@
           "feedback": "El estómago hace parte del sistema digestivo y participa en la digestión de los alimentos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Reconocer que los riñones son los órganos que filtran la sangre y producen la orina, con lo cual el cuerpo elimina los desechos que no necesita.",
       "difficulty": "4",
       "images": [],
@@ -59,13 +59,13 @@
       "context": "Lucía está en Villavicencio y repasa con su hermano las partes del sistema excretor antes de una evaluación.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Almacenar la orina hasta que el cuerpo la expulsa.",
           "is_correct": true,
           "feedback": "La vejiga es como un depósito: guarda la orina y la libera cuando la persona va al baño."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Producir la orina a partir de los alimentos.",
           "is_correct": false,
           "feedback": "La orina no se produce en la vejiga; los riñones la forman al filtrar la sangre."
@@ -83,7 +83,7 @@
           "feedback": "Filtrar la sangre es tarea de los riñones, no de la vejiga."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Comprender que la vejiga almacena temporalmente la orina y que su expulsión ocurre cuando el cuerpo lo necesita, completando el recorrido de los desechos.",
       "difficulty": "4",
       "images": [],
@@ -105,31 +105,31 @@
       "context": "Diego dibuja en el tablero el camino que sigue la orina desde que se forma hasta que sale del cuerpo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Riñones, uréteres, vejiga y uretra.",
           "is_correct": true,
           "feedback": "La orina se forma en los riñones, pasa por los uréteres, se guarda en la vejiga y sale por la uretra."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Vejiga, riñones, uretra y uréteres.",
           "is_correct": false,
           "feedback": "La orina no empieza en la vejiga; primero se forma en los riñones."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Uretra, vejiga, uréteres y riñones.",
           "is_correct": false,
           "feedback": "Este orden va al revés; la orina sale por la uretra al final del recorrido, no al comienzo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Riñones, uretra, vejiga y uréteres.",
           "is_correct": false,
           "feedback": "La uretra es el último conducto de salida; la orina llega a la vejiga antes de salir."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Aplicar el orden de los órganos del sistema excretor para explicar cómo viaja la orina desde su formación en los riñones hasta su salida del cuerpo.",
       "difficulty": "6",
       "images": [],
@@ -151,13 +151,13 @@
       "context": "Lucía pasa un día muy caluroso en Villavicencio y bebe poca agua. Al final de la tarde nota que su orina es más oscura y escasa de lo normal.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El cuerpo elimina menos agua porque hay poca disponible y la orina queda más concentrada.",
           "is_correct": true,
           "feedback": "Cuando el cuerpo pierde agua y no la repone, los riñones la retienen y la orina sale más concentrada y en menor cantidad."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Los riñones dejan de funcionar cuando hace mucho calor.",
           "is_correct": false,
           "feedback": "El calor no apaga los riñones; ellos siguen trabajando y ajustan el agua que eliminan."
@@ -175,7 +175,7 @@
           "feedback": "El sudor y la orina son líquidos distintos; el sudor sale por la piel y no se transforma en orina."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Aplicar la relación entre el agua que ingiere una persona y la orina que produce, entendiendo que los riñones regulan el líquido del cuerpo según las necesidades.",
       "difficulty": "6",
       "images": [],
@@ -197,19 +197,19 @@
       "context": "Diego juega un partido de fútbol en Villavicencio y suda mucho. Al terminar el partido siente mucha sed.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Tomar agua para reponer el líquido que perdió.",
           "is_correct": true,
           "feedback": "El sudor hace que el cuerpo pierda agua; tomarla de nuevo ayuda a mantener el equilibrio de líquidos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Dejar de orinar para no perder más líquido.",
           "is_correct": false,
           "feedback": "Orinar es necesario para eliminar desechos; retener la orina puede dañar la salud."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Beber solo gaseosa durante todo el día.",
           "is_correct": false,
           "feedback": "Las bebidas con mucho azúcar no reemplazan bien el agua que el cuerpo necesita."
@@ -221,7 +221,7 @@
           "feedback": "Sudar ayuda a regular la temperatura; lo importante es reponer el agua, no dejar de moverse."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Aplicar hábitos de autocuidado, como tomar agua después del ejercicio, para que el sistema excretor y el cuerpo mantengan un buen equilibrio de líquidos.",
       "difficulty": "6",
       "images": [],
@@ -289,19 +289,19 @@
       "context": "Un grupo de estudiantes de Neiva quiere comprobar si beber más agua aumenta la cantidad de orina. Para lograrlo, planean un experimento con dos grupos de compañeros.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Dar más agua a un grupo y menos a otro, mantener iguales las demás condiciones y comparar la orina producida.",
           "is_correct": true,
           "feedback": "Un buen experimento cambia solo una condición (el agua) y mantiene iguales las demás para comparar de forma justa."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Dar más agua a un grupo y también más sal, sin medir nada.",
           "is_correct": false,
           "feedback": "Al cambiar dos condiciones a la vez no se sabe cuál causó el resultado, y sin medir no hay datos confiables."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Preguntar a los compañeros qué creen que pasará y anotar solo sus opiniones.",
           "is_correct": false,
           "feedback": "Las opiniones no reemplazan las mediciones; para comprobar una idea se necesitan datos observados."
@@ -313,7 +313,7 @@
           "feedback": "Sin controlar el agua que se bebe no se puede saber si esa condición influye en la cantidad de orina."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Analizar el diseño de un experimento sencillo, reconociendo la importancia de cambiar una sola variable, medir los resultados y mantener las demás condiciones bajo control.",
       "difficulty": "8",
       "images": [],
@@ -347,19 +347,19 @@
           "feedback": "La orina se produce siempre, aunque se beba poca agua; en ese caso sale más concentrada."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Es incorrecta, porque beber agua suficiente ayuda a los riñones a filtrar la sangre y eliminar los desechos.",
           "is_correct": true,
           "feedback": "Una buena hidratación facilita el trabajo de los riñones y evita que los desechos se concentren demasiado."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Es incorrecta, porque los riñones no necesitan agua para funcionar.",
           "is_correct": false,
           "feedback": "Los riñones sí necesitan agua para formar la orina y eliminar los desechos del cuerpo."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Evaluar una afirmación sobre el cuidado de los riñones, reconociendo que beber agua suficiente favorece la filtración de la sangre y la eliminación de desechos, en lugar de perjudicarlos.",
       "difficulty": "10",
       "images": [],

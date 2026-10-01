@@ -13,13 +13,13 @@
       "context": "En Bogotá, un automóvil consume $3$ galones de gasolina para recorrer $120\\text{ km}$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$7$ galones",
           "is_correct": true,
           "feedback": "Correcto. $120 / 3 = 40\\text{ km/galón}$; $280 / 40 = 7$ galones."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$8$ galones",
           "is_correct": false,
           "feedback": "Incorrecto. Cálculo proporcional impreciso."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Sobreestimaste la cantidad de galones."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "$\\frac{3}{120} = \\frac{x}{280} \\implies 120x = 840 \\implies x = 7$ galones.",
       "difficulty": "4",
       "images": [],
@@ -105,31 +105,31 @@
       "context": "En Cali, una cuadrilla de $8$ obreros pavimenta $60\\text{ metros}$ de calle en $4$ días.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$90\\text{ metros}$",
           "is_correct": true,
           "feedback": "Correcto. $60 / 8 = 7.5\\text{ m/obrero}$; $12 \\times 7.5 = 90\\text{ metros}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$80\\text{ metros}$",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste obreros sin mantener la proporción."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$120\\text{ metros}$",
           "is_correct": false,
           "feedback": "Incorrecto. Duplicaste el rendimiento sin duplicar obreros."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$100\\text{ metros}$",
           "is_correct": false,
           "feedback": "Incorrecto. Error de cálculo en la tasa unitaria."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "$\\frac{8}{60} = \\frac{12}{x} \\implies 8x = 720 \\implies x = 90$ metros.",
       "difficulty": "6",
       "images": [],
@@ -197,19 +197,19 @@
       "context": "Un agricultor en Tunja usa $15\\text{ kg}$ de fertilizante para $300\\text{ m}^2$ de cultivo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$40\\text{ kg}$",
           "is_correct": true,
           "feedback": "Correcto. $15 / 300 = 0.05\\text{ kg/m}^2$; $800 \\times 0.05 = 40\\text{ kg}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$35\\text{ kg}$",
           "is_correct": false,
           "feedback": "Incorrecto. Error de cálculo en el área adicional."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$50\\text{ kg}$",
           "is_correct": false,
           "feedback": "Incorrecto. Sobreestimaste la tasa por metro cuadrado."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto. Subestimaste el fertilizante requerido."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "$\\frac{15}{300} = \\frac{x}{800} \\implies 300x = 12000 \\implies x = 40\\text{ kg}$.",
       "difficulty": "6",
       "images": [],
@@ -243,19 +243,19 @@
       "context": "En Bucaramanga, $6$ máquinas textiles trabajando $8$ horas diarias producen $480$ prendas en $5$ días.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$720$ prendas",
           "is_correct": true,
           "feedback": "Correcto. Rendimiento por máquina-hora = $480 / (6 \\times 8 \\times 5) = 2$ prendas/hora. Producción = $8 \\times 9 \\times 5 \\times 2 = 720$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$640$ prendas",
           "is_correct": false,
           "feedback": "Incorrecto. Omitiste el incremento de horas diarias."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$800$ prendas",
           "is_correct": false,
           "feedback": "Incorrecto. Error en la multiplicación de variables compuestas."
@@ -267,7 +267,7 @@
           "feedback": "Incorrecto. Calculaste con el número inicial de máquinas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Regla de tres compuesta directa en máquinas y horas: $\\frac{480}{6 \\cdot 8} = \\frac{x}{8 \\cdot 9} \\implies \\frac{480}{48} = \\frac{x}{72} \\implies 10 = \\frac{x}{72} \\implies x = 720$ prendas.",
       "difficulty": "8",
       "images": [],
@@ -289,31 +289,31 @@
       "context": "En Pereira, $5$ panaderos elaboran $200$ panecillos en $4$ horas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$10$ panaderos",
           "is_correct": true,
           "feedback": "Correcto. $1$ panadero hace $200 / (5 \\times 4) = 10$ panecillos/hora. Para $300$ en $3$ h se requiere tasa de $100$ panecillos/hora $\\implies 100/10 = 10$ panaderos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$8$ panaderos",
           "is_correct": false,
           "feedback": "Incorrecto. No tuviste en cuenta la reducción de tiempo a 3 horas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$12$ panaderos",
           "is_correct": false,
           "feedback": "Incorrecto. Sobreestimaste el número de panaderos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$6$ panaderos",
           "is_correct": false,
           "feedback": "Incorrecto. No compensaste el incremento de producción."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "$\\frac{5 \\cdot 4}{200} = \\frac{x \\cdot 3}{300} \\implies \\frac{20}{200} = \\frac{3x}{300} \\implies \\frac{1}{10} = \\frac{x}{100} \\implies x = 10$ panaderos.",
       "difficulty": "8",
       "images": [],
@@ -335,19 +335,19 @@
       "context": "En Manizales, $3$ camiones transportan $30$ toneladas de arena en $4$ viajes.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$75$ toneladas",
           "is_correct": true,
           "feedback": "Correcto. Capacidad por camión-viaje = $30 / (3 \\times 4) = 2.5$ ton. Total = $5 \\times 6 \\times 2.5 = 75$ toneladas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$60$ toneladas",
           "is_correct": false,
           "feedback": "Incorrecto. Omitiste el aumento de viajes."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$90$ toneladas",
           "is_correct": false,
           "feedback": "Incorrecto. Sobreestimaste la capacidad unitaria."
@@ -359,7 +359,7 @@
           "feedback": "Incorrecto. Calculaste como si fueran solo 4 viajes."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "$\\frac{30}{3 \\cdot 4} = \\frac{x}{5 \\cdot 6} \\implies \\frac{30}{12} = \\frac{x}{30} \\implies 2.5 = \\frac{x}{30} \\implies x = 75$ toneladas.",
       "difficulty": "8",
       "images": [],
@@ -381,19 +381,19 @@
       "context": "En Cartagena, $10$ obreros trabajando $8$ horas diarias construyen un muro de $100\\text{ m}$ en $15$ días. Si $2$ obreros se retiran y las horas diarias aumentan a $10$, ¿cuántos días tardarán en construir un muro similar de $120\\text{ m}$?",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$18$ días",
           "is_correct": true,
           "feedback": "Correcto. Obreros finales = $8$. Ecuación: $x = 15 \\times (10/8) \\times (8/10) \\times (120/100) = 15 \\times 1.2 = 18$ días."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$20$ días",
           "is_correct": false,
           "feedback": "Incorrecto. No compensaste el aumento de horas de trabajo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$15$ días",
           "is_correct": false,
           "feedback": "Incorrecto. Asumiste que las variaciones se cancelaban exactamente."
@@ -405,7 +405,7 @@
           "feedback": "Incorrecto. Error en la ponderación inversa de obreros."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "$x = 15 \\cdot \\left(\\frac{10}{8}\\right) \\cdot \\left(\\frac{8}{10}\\right) \\cdot \\left(\\frac{120}{100}\\right) = 15 \\cdot 1.2 = 18$ días.",
       "difficulty": "10",
       "images": [],
@@ -427,19 +427,19 @@
       "context": "En Pasto, una imprenta con $4$ máquinas funcionando al $80\\%$ de rendimiento produce $16.000$ libros en $10$ días. Si se añade $1$ máquina más y todas operan al $100\\%$ de rendimiento, ¿cuántos días tomará producir $25.000$ libros?",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$10$ días",
           "is_correct": true,
           "feedback": "Correcto. Rendimiento inicial = $4 \\times 0.8 = 3.2$ máquinas equivalentes. Rendimiento final = $5 \\times 1.0 = 5.0$. $x = 10 \\times (3.2 / 5.0) \\times (25.000 / 16.000) = 10 \\times 0.64 \\times 1.5625 = 10$ días."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$12$ días",
           "is_correct": false,
           "feedback": "Incorrecto. No consideraste el aumento de eficiencia al $100\\%$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$8$ días",
           "is_correct": false,
           "feedback": "Incorrecto. Subestimaste el impacto del volumen adicional de libros."
@@ -451,7 +451,7 @@
           "feedback": "Incorrecto. Ignoraste la máquina adicional incorporada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Capacidad inicial $3.2$, capacidad final $5.0$. $x = 10 \\cdot \\frac{3.2}{5.0} \\cdot \\frac{25000}{16000} = 10 \\cdot 0.64 \\cdot 1.5625 = 10$ días.",
       "difficulty": "10",
       "images": [],

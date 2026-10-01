@@ -59,31 +59,31 @@
       "context": "En una biblioteca de Ibagué se organizan 45 libros en cajas con igual cantidad sin que sobre ninguno.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "9",
           "is_correct": true,
           "feedback": "Es correcta porque 45 dividido entre 9 es 5 exacto."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "7",
           "is_correct": false,
           "feedback": "Es incorrecta porque 45 dividido entre 7 deja residuo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "8",
           "is_correct": false,
           "feedback": "Es incorrecta porque 8 no divide a 45 de forma exacta."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "11",
           "is_correct": false,
           "feedback": "Es incorrecta porque 11 por 4 es 44 y sobra 1."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Un divisor cabe un número exacto de veces sin dejar residuo. Como 9 por 5 es 45, el 9 es divisor de 45 y sirve para armar 5 cajas de 9 libros.",
       "difficulty": "4",
       "images": [],
@@ -151,19 +151,19 @@
       "context": "En Cúcuta un número de celular termina en 234 y se quiere saber si es divisible entre 3.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "La suma de sus cifras es 9, que es múltiplo de 3",
           "is_correct": true,
           "feedback": "Es correcta porque 2 más 3 más 4 es 9 y 9 es divisible entre 3."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Termina en cifra par",
           "is_correct": false,
           "feedback": "Es incorrecta porque esa es la regla del 2 y no la del 3."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Termina en 4",
           "is_correct": false,
           "feedback": "Es incorrecta porque la última cifra no decide la divisibilidad entre 3."
@@ -175,7 +175,7 @@
           "feedback": "Es incorrecta porque el tamaño no garantiza la divisibilidad."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La regla del 3 dice que se suman las cifras y si el resultado es múltiplo de 3, el número completo también lo es. Como 2 más 3 más 4 es 9, el número 234 se puede dividir entre 3 y da 78.",
       "difficulty": "6",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "En Villavicencio dos rutas de buseta pasan por el parque: una cada 6 minutos y otra cada 8 minutos. Salieron juntas a las 7 de la mañana.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "24 minutos",
           "is_correct": true,
           "feedback": "Es correcta porque 24 es el menor múltiplo común de 6 y 8."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "14 minutos",
           "is_correct": false,
           "feedback": "Es incorrecta porque 14 es la suma y no un múltiplo común."
@@ -221,7 +221,7 @@
           "feedback": "Es incorrecta porque 12 no es múltiplo de 8."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El momento en que coinciden es el mínimo común múltiplo. Los múltiplos de 6 son 6, 12, 18, 24 y los de 8 son 8, 16, 24. El primero que se repite es 24, así que coinciden cada 24 minutos.",
       "difficulty": "6",
       "images": [],
@@ -243,31 +243,31 @@
       "context": "En Neiva una profesora tiene 18 lápices y 24 borradores para armar kits iguales sin que sobre nada.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "6 kits",
           "is_correct": true,
           "feedback": "Es correcta porque 6 es el máximo común divisor de 18 y 24."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "12 kits",
           "is_correct": false,
           "feedback": "Es incorrecta porque 12 no divide a 18 de forma exacta."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "18 kits",
           "is_correct": false,
           "feedback": "Es incorrecta porque 18 no divide a 24 de forma exacta."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "2 kits",
           "is_correct": false,
           "feedback": "Es incorrecta porque aunque es divisor común, no es el mayor posible."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Se busca el máximo común divisor. Los divisores de 18 son 1, 2, 3, 6, 9, 18 y los de 24 son 1, 2, 3, 4, 6, 8, 12, 24. El mayor común es 6, así que arma 6 kits de 3 lápices y 4 borradores cada uno.",
       "difficulty": "8",
       "images": [],
@@ -335,13 +335,13 @@
       "context": "En Montería un tendero recibe 25000 COP por un pedido y quiere saber si puede repartirlos en billetes de 5 sin que sobre nada.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Termina en 0, que cumple ambas reglas",
           "is_correct": true,
           "feedback": "Es correcta porque todo número terminado en 0 es divisible entre 5 y entre 10."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La suma de sus cifras es 7",
           "is_correct": false,
           "feedback": "Es incorrecta porque esa es la regla del 3 y 7 no es múltiplo de 3."
@@ -359,7 +359,7 @@
           "feedback": "Es incorrecta porque la cantidad de cifras no define la divisibilidad."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La regla del 5 pide que termine en 0 o en 5, y la del 10 pide que termine en 0. Como 25000 COP termina en 0, cumple ambas y se puede repartir en billetes de 5 o de 10 sin residuo.",
       "difficulty": "8",
       "images": [],
@@ -381,31 +381,31 @@
       "context": "En Valledupar tres alarmas suenan cada 12, 18 y 30 segundos. Sonaron juntas al inicio del recreo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "180 segundos; 15, 10 y 6 veces",
           "is_correct": true,
           "feedback": "Es correcta porque 180 es el mínimo común múltiplo y las divisiones son exactas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "90 segundos; 7, 5 y 3 veces",
           "is_correct": false,
           "feedback": "Es incorrecta porque 90 no es múltiplo de 12 ni de 30."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "60 segundos; 5, 3 y 2 veces",
           "is_correct": false,
           "feedback": "Es incorrecta porque 60 no es múltiplo de 12 ni de 18."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "360 segundos; 30, 20 y 12 veces",
           "is_correct": false,
           "feedback": "Es incorrecta porque aunque coinciden, no es el primer encuentro."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Se descompone: 12 es 2 al cuadrado por 3, 18 es 2 por 3 al cuadrado y 30 es 2 por 3 por 5. El mínimo común múltiplo toma los mayores exponentes: 4 por 9 por 5 igual a 180. Al dividir 180 entre 12, 18 y 30 se obtienen 15, 10 y 6 repeticiones.",
       "difficulty": "10",
       "images": [],
@@ -427,13 +427,13 @@
       "context": "En Sincelejo un estudiante dice que si un número es divisible entre 6 entonces también es divisible entre 2 y entre 3, pero que lo contrario no siempre es cierto.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Es falsa en la segunda parte, porque ser divisible entre 2 y entre 3 garantiza divisibilidad entre 6",
           "is_correct": true,
           "feedback": "Es correcta porque 2 y 3 son primos entre sí y su producto es 6."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Es totalmente verdadera",
           "is_correct": false,
           "feedback": "Es incorrecta porque si cumple ambas condiciones sí es divisible entre 6."
@@ -451,7 +451,7 @@
           "feedback": "Es incorrecta porque la regla vale para todo número que cumpla ambas condiciones."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Todo múltiplo de 6 es par y suma múltiplo de 3, así que la primera parte es cierta. Además, como 2 y 3 no comparten divisores mayores que 1, un número que sea divisible entre ambos contiene los factores 2 por 3 y por tanto es divisible entre 6. Por eso la segunda parte de la afirmación es falsa.",
       "difficulty": "10",
       "images": [],

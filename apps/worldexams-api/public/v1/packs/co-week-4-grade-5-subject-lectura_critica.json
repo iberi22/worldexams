@@ -13,13 +13,13 @@
       "context": "En clase de Lectura Crítica, los estudiantes de un colegio de Pasto revisan una nota del periódico regional titulada \"Cultivos de papa en Nariño registran aumento del 12%\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El lead o entrada, donde se concentran los datos esenciales.",
           "is_correct": true,
           "feedback": "El lead (primer párrafo) resume el qué, quién, cuándo, dónde y cómo de la noticia."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La firma del periodista, donde aparece el nombre del autor.",
           "is_correct": false,
           "feedback": "La firma identifica al autor pero no resume los hechos principales."
@@ -37,7 +37,7 @@
           "feedback": "El pie de página es información editorial, no contenido de la noticia."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Una noticia se organiza de manera jerárquica: el titular sintetiza el hecho principal; el lead amplía la información esencial respondiendo las preguntas básicas; el cuerpo desarrolla los detalles en orden de importancia decreciente (pirámide invertida); y el cierre contextualiza o cita fuentes.",
       "difficulty": "4",
       "images": [],
@@ -59,13 +59,13 @@
       "context": "Un estudiante de Pereira lee el siguiente titular: \"Inauguran en Risaralda nuevo hospital pediátrico con capacidad para 120 niños\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El hecho principal (apertura del hospital), el lugar (Risaralda) y un dato cuantitativo (120 niños).",
           "is_correct": true,
           "feedback": "El titular sintetiza la acción, la ubicación y un número concreto."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Una opinión personal del periodista sobre la salud del departamento.",
           "is_correct": false,
           "feedback": "Un titular informativo no expresa opiniones, sino hechos concretos."
@@ -83,7 +83,7 @@
           "feedback": "El titular describe un hecho público, no una pauta comercial."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El titular cumple la función de captar la atención del lector y, al mismo tiempo, informar lo esencial: qué ocurrió, dónde y, a menudo, datos cuantitativos. Su estructura breve obliga al periodista a jerarquizar la información y omitir detalles secundarios.",
       "difficulty": "4",
       "images": [],
@@ -105,19 +105,19 @@
       "context": "En clase, los estudiantes leen este fragmento: \"El pasado lunes, 600 familias del municipio de Turbo fueron atendidas por la Unidad Nacional para la Gestión del Riesgo tras la creciente del río Atrato\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "\"El pasado lunes\", porque indica el día en que ocurrió la atención.",
           "is_correct": true,
           "feedback": "La expresión temporal precisa señala cuándo se produjo el hecho informativo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "\"600 familias\", porque es una cifra que precisa el alcance.",
           "is_correct": false,
           "feedback": "La cifra responde a cuántos, no a cuándo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "\"Unidad Nacional para la Gestión del Riesgo\", porque es el actor principal.",
           "is_correct": false,
           "feedback": "La entidad es el quién institucional, no el cuándo."
@@ -129,7 +129,7 @@
           "feedback": "El municipio responde al dónde geográfico."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Las preguntas básicas del periodismo son: qué, quién, cuándo, dónde, cómo y por qué. Reconocer cada componente en un párrafo ayuda a los estudiantes a identificar la estructura informativa y a verificar si la nota periodística cubre los datos mínimos para ser completa.",
       "difficulty": "6",
       "images": [],
@@ -151,13 +151,13 @@
       "context": "Una columna del diario local de Ibagué afirma: \"El nuevo puente es un despilfarro inaceutable del presupuesto municipal\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Es un texto de opinión, porque emite un juicio de valor (\"despilfarro inaceutable\"); la noticia solo informa sin adjetivar.",
           "is_correct": true,
           "feedback": "Los juicios de valor pertenecen a columnas de opinión, no a noticias."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Es una noticia, porque describe una obra pública.",
           "is_correct": false,
           "feedback": "Aunque menciona una obra, el adjetivo valorativo lo convierte en opinión, no en noticia."
@@ -175,7 +175,7 @@
           "feedback": "Es una metáfora inocente del texto; no se trata de gastronomía."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La diferencia clave entre información y opinión es el uso de juicios de valor: la noticia verifica hechos verificables y los presenta con neutralidad; la columna de opinión valora, interpreta o critica esos hechos desde una postura argumentativa.",
       "difficulty": "6",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "En un periódico de Barranquilla aparece una nota sobre un concierto escolar con esta estructura: título \"Estudiantes de Soledad ganan concurso de danza nacional\"; primer párrafo \"35 alumnos de la IED María Goretti obtuvieron el primer puesto en el Encuentro Nacional de Danza Escolar\"; segundo párrafo \"El grupo viajó durante tres meses de ensayo y compitió contra delegaciones de 12 departamentos\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Pirámide invertida, porque el dato más relevante está al inicio y los detalles van después.",
           "is_correct": true,
           "feedback": "En la pirámide invertida la información esencial precede a los detalles complementarios."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Crónica narrativa, porque cuenta los hechos en orden cronológico estricto.",
           "is_correct": false,
           "feedback": "La pirámide invertida no exige cronología, sino jerarquía."
@@ -221,7 +221,7 @@
           "feedback": "La carta al editor es un género de opinión, no la estructura de la noticia."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La pirámide invertida es un esquema periodístico en el que la información más importante se ubica al principio y los detalles secundarios se agregan en orden descendente. Permite al lector captar el hecho esencial incluso si abandona la lectura en cualquier párrafo.",
       "difficulty": "6",
       "images": [],
@@ -243,19 +243,19 @@
       "context": "En un taller de medios en Manizales, los estudiantes comparan dos versiones de una misma noticia: versión A del diario local \"Construyen colegio nuevo en el barrio San Jorge\"; versión B del mismo hecho \"Después de 20 años de espera, por fin se inicia el colegio de San Jorge\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "El titular A es informativo y neutro; el titular B incluye contexto histórico y un componente valorativo al destacar \"por fin\".",
           "is_correct": true,
           "feedback": "La palabra \"por fin\" emite un juicio implícito de satisfacción que matiza el tono neutral."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Ambos son idénticos porque hablan de un colegio.",
           "is_correct": false,
           "feedback": "La diferencia está en la carga valorativa y el contexto agregado."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El titular A es de opinión y el B es informativo.",
           "is_correct": false,
           "feedback": "Es al contrario: A es neutro y B incorpora un matiz valorativo."
@@ -267,7 +267,7 @@
           "feedback": "La veracidad se evalúa con fuentes, no por la presencia de expresiones temporales."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Los titulares pueden ser informativos (hechos verificables sin adjetivos) o valorativos (con adverbios o adjetivos que expresan postura). Reconocer la carga valorativa ayuda al lector a distinguir entre lo que ocurrió y la interpretación que hace el medio.",
       "difficulty": "8",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "Una nota de Cali dice: \"Habitantes del barrio El Guabal cerraron la calle 5 en protesta por la demora en obras de acueducto. Según el personero delegado, 'la obra está contratada desde 2022 pero nunca inició'\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Es una cita textual de una fuente, que aporta voz y respaldo al hecho informado.",
           "is_correct": true,
           "feedback": "Las comillas indican la voz directa de una fuente citada por el periodista."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Es un comentario personal del periodista.",
           "is_correct": false,
           "feedback": "Los comentarios del periodista no van entre comillas sino en su propio estilo."
@@ -313,7 +313,7 @@
           "feedback": "Una declaración oficial llevaría membrete o \"comunicado oficial\"."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "En el texto periodístico, las comillas indican una cita textual de una fuente. Esto permite al lector diferenciar entre lo que el periodista narra y lo que otra persona afirma. Identificar fuentes y citas directas es una habilidad clave para evaluar la veracidad de la noticia.",
       "difficulty": "8",
       "images": [],

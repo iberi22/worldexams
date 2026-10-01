@@ -59,13 +59,13 @@
       "context": "Un campesino de Santander usa una barra de madera apoyada en una piedra para levantar una roca pesada.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Porque permite hacer fuerza sobre un punto de apoyo y levantar la piedra con menos esfuerzo.",
           "is_correct": true,
           "feedback": "La palanca multiplica la fuerza aplicada gracias al punto de apoyo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque hace que la piedra pese menos de verdad.",
           "is_correct": false,
           "feedback": "La palanca no reduce el peso real de la piedra, facilita la fuerza."
@@ -83,7 +83,7 @@
           "feedback": "La palanca funciona por la fuerza aplicada y el punto de apoyo, no con electricidad."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Comprender el funcionamiento de la palanca a partir del punto de apoyo y la fuerza aplicada.",
       "difficulty": "4",
       "images": [],
@@ -151,19 +151,19 @@
       "context": "En una finca de Cundinamarca, un niño quiere subir un balde de agua desde el fondo de un pozo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Una polea.",
           "is_correct": true,
           "feedback": "La polea, con su rueda y su cuerda, facilita subir cargas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Un plano inclinado.",
           "is_correct": false,
           "feedback": "El plano inclinado es una superficie en pendiente, no una cuerda con rueda."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Una palanca.",
           "is_correct": false,
           "feedback": "La palanca usa un punto de apoyo, no una cuerda con una rueda."
@@ -175,7 +175,7 @@
           "feedback": "El pozo tradicional usa una polea, no un motor eléctrico."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Aplicar el uso de la polea para levantar cargas en una situación cotidiana.",
       "difficulty": "6",
       "images": [],
@@ -197,19 +197,19 @@
       "context": "Un campesino de Boyacá transporta papas desde la parcela hasta su casa usando una carretilla.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "La rueda.",
           "is_correct": true,
           "feedback": "La rueda reduce la fricción y facilita el transporte de la carga."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El plano inclinado.",
           "is_correct": false,
           "feedback": "La carretilla rueda gracias a la rueda, no a una rampa."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La polea.",
           "is_correct": false,
           "feedback": "La carretilla no usa una cuerda con una rueda acanalada."
@@ -221,7 +221,7 @@
           "feedback": "Lo que permite rodar la carretilla es la rueda, no el punto de apoyo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Aplicar el conocimiento de la rueda como máquina simple que facilita el transporte.",
       "difficulty": "6",
       "images": [],
@@ -289,31 +289,31 @@
       "context": "En un supermercado de Pereira, un trabajador sube cajas pesadas por una rampa en lugar de levantarlas directamente al camión.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Porque el plano inclinado permite repartir el esfuerzo a lo largo de una distancia mayor.",
           "is_correct": true,
           "feedback": "Al repartir la fuerza en un recorrido más largo, se necesita menos fuerza en cada momento."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque la rampa hace que la caja desaparezca.",
           "is_correct": false,
           "feedback": "La caja no desaparece; sigue siendo pesada."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque la rampa le quita el peso a la caja.",
           "is_correct": false,
           "feedback": "La rampa no cambia el peso de la caja."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Porque la rampa atrae la caja hacia arriba.",
           "is_correct": false,
           "feedback": "La rampa no atrae la caja; reduce el esfuerzo al repartirlo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Analizar por qué el plano inclinado reduce el esfuerzo al repartir la fuerza.",
       "difficulty": "8",
       "images": [],

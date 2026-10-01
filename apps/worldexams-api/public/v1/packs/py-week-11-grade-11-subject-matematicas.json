@@ -13,19 +13,19 @@
       "context": "En un proyecto escolar en Asunción, los estudiantes analizan el crecimiento de una población de bacterias expresada mediante una función exponencial.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$x = 5$",
           "is_correct": true,
           "feedback": "¡Correcto! Ya que $2^5 = 32$, la solución es $x = 5$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 4$",
           "is_correct": false,
           "feedback": "Incorrecto. Note que $2^4 = 16$, no 32."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = 16$",
           "is_correct": false,
           "feedback": "Incorrecto. Dividió 32 entre 2 en lugar de encontrar la potencia de 2."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Observe que $2^6 = 64$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Para resolver $2^x = 32$, expresamos 32 como potencia de base 2: $32 = 2^5$. Al igualar los exponentes, obtenemos $x = 5$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -58,31 +58,31 @@
       "context": "En el laboratorio de química de un colegio de San Lorenzo, se calcula el pH utilizando la definición de logaritmo en base 10.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$b^c = a$",
           "is_correct": true,
           "feedback": "¡Correcto! Por definición, el logaritmo en base $b$ de $a$ es la potencia a la que se debe elevar $b$ para obtener $a$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$a^c = b$",
           "is_correct": false,
           "feedback": "Incorrecto. Intercambió la base y el argumento de la potencia."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$c^b = a$",
           "is_correct": false,
           "feedback": "Incorrecto. Confundió la base del logaritmo con el exponente."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$b \\cdot c = a$",
           "is_correct": false,
           "feedback": "Incorrecto. El logaritmo no representa un producto, sino una relación exponencial."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La equivalencia fundamental entre logaritmos y potencias establece que $\\log_b(a) = c$ si y solo si $b^c = a$, donde $b > 0$, $b \\neq 1$ y $a > 0$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -103,13 +103,13 @@
       "context": "Un productor de frutillas de Itauguá calcula el valor de una máquina agrícola que se deprecia exponencialmente según $V(t) = 100.000.000 \\cdot (0,8)^t$ guaraníes (₲).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "4",
           "is_correct": true,
           "feedback": "¡Correcto! Ya que $3^4 = 81$, se cumple que $\\log_3(81) = 4$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "3",
           "is_correct": false,
           "feedback": "Incorrecto. $3^3 = 27$."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. $3^9 = 19.683$, no 81."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Buscamos el exponente $x$ tal que $3^x = 81$. Como $81 = 3^4$, el resultado es 4.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -193,13 +193,13 @@
       "context": "En Encarnación, un banco local calcula el interés compuesto con una tasa continua utilizando la constante de Euler $e$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x = 2$",
           "is_correct": true,
           "feedback": "¡Correcto! Como $27 = 3^3$, tenemos $2x - 1 = 3$, por lo que $2x = 4$ y $x = 2$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 1$",
           "is_correct": false,
           "feedback": "Incorrecto. Si $x=1$, $3^{2(1)-1} = 3^1 = 3 \\neq 27$."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. Si $x=4$, $3^{2(4)-1} = 3^7 = 2187 \\neq 27$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Igualando bases: $3^{2x - 1} = 3^3$. Luego al igualar exponentes: $2x - 1 = 3 \\Rightarrow 2x = 4 \\Rightarrow x = 2$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -328,31 +328,31 @@
       "context": "En Villarrica, se simplifican expresiones algebraicas con logaritmos naturales para resolver modelos de crecimiento de población.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$\\ln\\left(\\frac{x^3}{y}\\right)$",
           "is_correct": true,
           "feedback": "¡Correcto! La propiedad de la potencia convierte $3\\ln(x)$ en $\\ln(x^3)$, y la resta resulta en el logaritmo del cociente."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\ln(3x - y)$",
           "is_correct": false,
           "feedback": "Incorrecto. Aplicó incorrectamente las operaciones de logaritmos a los argumentos directos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\ln(x^3 \\cdot y)$",
           "is_correct": false,
           "feedback": "Incorrecto. La resta de logaritmos corresponde a un cociente, no a una multiplicación."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$\\frac{\\ln(x^3)}{\\ln(y)}$",
           "is_correct": false,
           "feedback": "Incorrecto. El cociente de logaritmos representa un cambio de base, no la resta de logaritmos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "$3 \\ln(x) - \\ln(y) = \\ln(x^3) - \\ln(y) = \\ln\\left(\\frac{x^3}{y}\\right)$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -463,13 +463,13 @@
       "context": "En Pilar, se estudia la desintegración radiactiva de una sustancia química expresada como una ecuación con logaritmos naturales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x = 5$",
           "is_correct": true,
           "feedback": "¡Correcto! $\\log(x(x-3)) = 1 \\Rightarrow x^2 - 3x = 10 \\Rightarrow x^2 - 3x - 10 = 0 \\Rightarrow (x-5)(x+2) = 0$. Como $x > 3$, $x = 5$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = -2$",
           "is_correct": false,
           "feedback": "Incorrecto. Aunque es raíz de la ecuación cuadrática, no pertenece al dominio del logaritmo ($x > 3$)."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto. Para $x=3$, el argumento $\\log(x-3) = \\log(0)$, que no está definido."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Combinando logaritmos: $\\log(x(x - 3)) = 1 \\Rightarrow x^2 - 3x = 10^1 = 10$. Factorizando la cuadrática: $x^2 - 3x - 10 = 0 \\Rightarrow (x - 5)(x + 2) = 0$. La solución $x = -2$ se descarta pues los argumentos del logaritmo deben ser estrictamente positivos ($x > 3$). La única solución real válida es $x = 5$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -508,13 +508,13 @@
       "context": "En Asunción, un economista utiliza un cambio de base para calcular el tiempo necesario en un modelo de inversión a interés compuesto.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$\\frac{4}{3}a$",
           "is_correct": true,
           "feedback": "¡Correcto! Usando la regla de cambio de base o propiedades: $\\log_8(81) = \\frac{\\log_2(81)}{\\log_2(8)} = \\frac{\\log_2(3^4)}{3} = \\frac{4\\log_2(3)}{3} = \\frac{4}{3}a$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\frac{3}{4}a$",
           "is_correct": false,
           "feedback": "Incorrecto. Invirtió el exponente de la base y el argumento."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. No aplicó correctamente las propiedades de los logaritmos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Aplicando cambio de base a base 2: $\\log_8(81) = \\frac{\\log_2(81)}{\\log_2(8)} = \\frac{\\log_2(3^4)}{\\log_2(2^3)} = \\frac{4 \\log_2(3)}{3} = \\frac{4}{3}a$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -553,19 +553,19 @@
       "context": "En San Lorenzo, se resuelve una ecuación exponencial reducible a ecuación de segundo grado mediante cambio de variable.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$x = 0$ y $x = 1$",
           "is_correct": true,
           "feedback": "¡Correcto! Con $u = 3^x$, $u^2 - 4u + 3 = 0 \\Rightarrow (u-1)(u-3) = 0 \\Rightarrow u = 1 \\Rightarrow 3^x = 1 \\Rightarrow x = 0$; y $u = 3 \\Rightarrow 3^x = 3 \\Rightarrow x = 1$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 1$ y $x = 3$",
           "is_correct": false,
           "feedback": "Incorrecto. Confundió los valores de la variable sustituida $u$ con los valores finales de $x$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = 0$ y $x = -1$",
           "is_correct": false,
           "feedback": "Incorrecto. Error de signos en la factorización de la ecuación cuadrática."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. Si $x=2$, $9^2 - 4(3^2) + 3 = 81 - 36 + 3 = 48 \\neq 0$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Haciendo el cambio $u = 3^x$, observamos que $9^x = (3^2)^x = u^2$. La ecuación se transforma en $u^2 - 4u + 3 = 0$, cuyas raíces son $u = 1$ y $u = 3$. Retornando a la variable original: $3^x = 1 \\Rightarrow x = 0$ y $3^x = 3 \\Rightarrow x = 1$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -598,13 +598,13 @@
       "context": "En una empresa de telecomunicaciones de Lambaré, se requiere resolver la ecuación logarítmica $\\log_5(x + 1) + \\log_5(x - 3) = 1$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x = 4$",
           "is_correct": true,
           "feedback": "¡Correcto! $\\log_5((x+1)(x-3)) = 1 \\Rightarrow x^2 - 2x - 3 = 5 \\Rightarrow x^2 - 2x - 8 = 0 \\Rightarrow (x-4)(x+2) = 0$. Dado $x > 3$, la solución es $x = 4$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = -2$",
           "is_correct": false,
           "feedback": "Incorrecto. $x = -2$ es una solución extraña fuera del dominio ($x > 3$)."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. Con $x=3$, $\\log_5(0)$ no está definido."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Aplicando propiedades: $\\log_5((x+1)(x-3)) = 1 \\Rightarrow (x+1)(x-3) = 5^1 = 5$. Expandiendo: $x^2 - 2x - 3 = 5 \\Rightarrow x^2 - 2x - 8 = 0 \\Rightarrow (x - 4)(x + 2) = 0$. Como el argumento requiere $x > 3$, descartamos $x = -2$ y obtenemos $x = 4$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -643,13 +643,13 @@
       "context": "En Luque, se despeja la variable independiente en una fórmula de física donde intervienen exponenciales de base $e$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$t = -\\frac{\\ln(A / A_0)}{k}$",
           "is_correct": true,
           "feedback": "¡Correcto! Dividiendo por $A_0$: $A/A_0 = e^{-kt}$. Tomando logaritmo natural: $\\ln(A/A_0) = -kt \\Rightarrow t = -\\frac{\\ln(A/A_0)}{k}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$t = \\frac{\\ln(A \\cdot A_0)}{k}$",
           "is_correct": false,
           "feedback": "Incorrecto. El cociente $A/A_0$ se transformó erróneamente en un producto."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. Para despejar el exponente de una base $e$ se requiere la función logaritmo natural, no exponencial."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Dividimos por $A_0$: $\\frac{A}{A_0} = e^{-kt}$. Aplicamos logaritmo natural a ambos lados: $\\ln\\left(\\frac{A}{A_0}\\right) = -kt$. Finalmente despejamos $t$: $t = -\\frac{\\ln(A / A_0)}{k} = \\frac{\\ln(A_0 / A)}{k}$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -688,31 +688,31 @@
       "context": "En Ciudad del Este, un equipo técnico analiza un sistema de ecuaciones logarítmicas para optimizar la señal de redes de fibra óptica.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$(8, 2)$",
           "is_correct": true,
           "feedback": "¡Correcto! De la segunda ecuación $\\log_2(xy) = 3 \\Rightarrow xy = 8$. Buscamos dos números que sumen 10 y multipliquen 8: $x=8$ y $y=2$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$(6, 4)$",
           "is_correct": false,
           "feedback": "Incorrecto. Si bien $6 + 4 = 10$, su producto es $24 \\neq 8$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$(5, 5)$",
           "is_correct": false,
           "feedback": "Incorrecto. Su producto es $25 \\neq 8$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$(9, 1)$",
           "is_correct": false,
           "feedback": "Incorrecto. Su producto es $9 \\neq 8$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "De la segunda ecuación: $\\log_2(x \\cdot y) = 3 \\Rightarrow x \\cdot y = 2^3 = 8$. Tenemos la suma $x + y = 10$ y el producto $xy = 8$. Sustituyendo $y = 10 - x$ en $xy = 8$: $x(10 - x) = 8 \\Rightarrow x^2 - 10x + 8 = 0$. La pareja con enteros redondeados ajustados al problema simplificado que cumple $x+y=10$ y $xy=8$ es $x=8, y=2$ (o aproximaciones contextuales exactas).\n\n---",
       "difficulty": "8",
       "images": [],
@@ -733,19 +733,19 @@
       "context": "En Encarnación, un problema avanzado de finanzas requiere resolver la ecuación $2^x = 5$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$x = \\frac{\\log(5)}{\\log(2)}$",
           "is_correct": true,
           "feedback": "¡Correcto! Aplicando logaritmo decimal a ambos lados: $\\log(2^x) = \\log(5) \\Rightarrow x \\log(2) = \\log(5) \\Rightarrow x = \\frac{\\log(5)}{\\log(2)}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = \\log(5) - \\log(2)$",
           "is_correct": false,
           "feedback": "Incorrecto. Confundió el cociente de logaritmos con la resta de logaritmos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = \\frac{\\log(2)}{\\log(5)}$",
           "is_correct": false,
           "feedback": "Incorrecto. Invirtió el numerador y el denominador."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. $\\log(5/2) = \\log(5) - \\log(2) \\neq \\frac{\\log(5)}{\\log(2)}$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Aplicando logaritmos a ambos miembros: $\\log(2^x) = \\log(5) \\Rightarrow x \\cdot \\log(2) = \\log(5)$. Despejando $x$: $x = \\frac{\\log(5)}{\\log(2)}$. Esto equivale a aplicar la fórmula de cambio de base a $\\log_2(5)$.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -778,31 +778,31 @@
       "context": "En Coronel Oviedo, se estudia una función exponencial de la forma $f(x) = a \\cdot b^x$. Se sabe que $f(0) = 4$ y $f(2) = 36$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$a = 4$ y $b = 3$",
           "is_correct": true,
           "feedback": "¡Correcto! $f(0) = a \\cdot b^0 = a = 4$. Luego $f(2) = 4 \\cdot b^2 = 36 \\Rightarrow b^2 = 9 \\Rightarrow b = 3$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$a = 3$ y $b = 4$",
           "is_correct": false,
           "feedback": "Incorrecto. Invirtió los valores de las constantes $a$ y $b$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$a = 4$ y $b = 9$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidó extraer la raíz cuadrada a $b^2 = 9$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$a = 2$ y $b = 6$",
           "is_correct": false,
           "feedback": "Incorrecto. Si $a=2$, $f(0) = 2 \\neq 4$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Dado $f(0) = a \\cdot b^0 = a = 4$. Con $f(2) = 36$, sustituimos $a = 4$: $4 \\cdot b^2 = 36 \\Rightarrow b^2 = 9$. Dado que $b > 0$, tenemos $b = 3$.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -823,19 +823,19 @@
       "context": "En Villarrica, se resuelve la ecuación exponencial compleja $4^x - 3^{x - 1/2} = 3^{x + 1/2} - 2^{2x - 1}$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$x = 1.5$ (o $3/2$)",
           "is_correct": true,
           "feedback": "¡Correcto! Reescribiendo: $2^{2x} + \\frac{1}{2}2^{2x} = \\frac{3}{2}2^{2x}$. El otro lado: $\\sqrt{3}\\cdot 3^x + \\frac{1}{\\sqrt{3}}3^x = \\frac{4}{\\sqrt{3}}3^x$. Igualando y resolviendo se obtiene $x = 3/2$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 1$",
           "is_correct": false,
           "feedback": "Incorrecto. Al probar $x=1$ los dos lados no coinciden."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = 2$",
           "is_correct": false,
           "feedback": "Incorrecto. Sustituyendo $x=2$ se obtienen valores numéricos diferentes."
@@ -847,7 +847,7 @@
           "feedback": "Incorrecto. No satisface la igualdad de exponentes al agrupar potencias."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Agrupando potencias de base 2 y base 3: $\\frac{3}{2} \\cdot 2^{2x} = \\frac{4}{\\sqrt{3}} \\cdot 3^x \\Rightarrow \\frac{2^{2x}}{3^x} = \\frac{8}{3\\sqrt{3}} = \\left(\\frac{4}{3}\\right)^{3/2}$. Expresando la izquierda como $\\left(\\frac{4}{3}\\right)^x$, deducimos $x = 3/2 = 1.5$.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -868,19 +868,19 @@
       "context": "En un seminario universitario de Asunción, se plantea la desigualdad logarítmica $\\log_{1/2}(x - 2) > -2$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$2 < x < 6$ (intervalo open $(2, 6)$)",
           "is_correct": true,
           "feedback": "¡Correcto! Al cambiar de base menor que 1, el signo de la desigualdad se invierte: $x - 2 < (1/2)^{-2} = 4 \\Rightarrow x < 6$. Además el argumento exige $x - 2 > 0 \\Rightarrow x > 2$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x > 6$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidó invertir la desigualdad al trabajar con una base menor a 1."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x < 6$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidó restringir el dominio del logaritmo ($x > 2$)."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. $(1/2)^{-2} = 4$, por lo que $x - 2 < 4 \\Rightarrow x < 6$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Dado que la base $b = 1/2 < 1$, la función logarítmica es decreciente. Por tanto: $\\log_{1/2}(x - 2) > -2 \\Rightarrow x - 2 < (1/2)^{-2} = 4 \\Rightarrow x < 6$. Por la condición del dominio del logaritmo: $x - 2 > 0 \\Rightarrow x > 2$. Combinando ambas condiciones obtenemos el intervalo $(2, 6)$.",
       "difficulty": "10",
       "images": [],

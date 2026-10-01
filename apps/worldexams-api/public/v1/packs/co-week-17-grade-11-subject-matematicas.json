@@ -13,13 +13,13 @@
       "context": "En una empresa textil de Medellín, se modela el volumen de producción diaria en función del tiempo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "En el intervalo $(1, \\infty)$",
           "is_correct": true,
           "feedback": "Correcto: f''(x) > 0 define el intervalo de concavidad hacia arriba."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "En el intervalo $(-\\infty, 1)$",
           "is_correct": false,
           "feedback": "Incorrecto: en ese intervalo f''(x) < 0 (concavidad hacia abajo)."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto: el signo de f'' varía a los lados de x = c."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La función es cóncava hacia arriba cuando $f''(x) > 0$. Resolviendo $6x - 6 > 0 \\implies 6x > 6 \\implies x > 1$, es decir, el intervalo $(1, \\infty)$.",
       "difficulty": "4",
       "images": [],
@@ -59,31 +59,31 @@
       "context": "Un laboratorio farmacéutico en Bogotá analiza la concentración de un medicamento en el torrente sanguíneo a lo largo de las horas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "En el intervalo $(2, \\infty)$",
           "is_correct": true,
           "feedback": "Correcto: f''(x) > 0 define el intervalo de concavidad hacia arriba."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "En el intervalo $(-\\infty, 2)$",
           "is_correct": false,
           "feedback": "Incorrecto: en ese intervalo f''(x) < 0 (concavidad hacia abajo)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Únicamente en el punto $x = 2$",
           "is_correct": false,
           "feedback": "Incorrecto: en x = c la segunda derivada vale 0 (punto de inflexión)."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "En todo el conjunto de los números reales",
           "is_correct": false,
           "feedback": "Incorrecto: el signo de f'' varía a los lados de x = c."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La función es cóncava hacia arriba cuando $f''(x) > 0$. Resolviendo $6x - 12 > 0 \\implies 6x > 12 \\implies x > 2$, es decir, el intervalo $(2, \\infty)$.",
       "difficulty": "4",
       "images": [],
@@ -105,31 +105,31 @@
       "context": "En el puerto de Buenaventura, se registra el nivel de la marea y la tasa de variación del nivel del agua.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "En el intervalo $(3, \\infty)$",
           "is_correct": true,
           "feedback": "Correcto: f''(x) > 0 define el intervalo de concavidad hacia arriba."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "En el intervalo $(-\\infty, 3)$",
           "is_correct": false,
           "feedback": "Incorrecto: en ese intervalo f''(x) < 0 (concavidad hacia abajo)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Únicamente en el punto $x = 3$",
           "is_correct": false,
           "feedback": "Incorrecto: en x = c la segunda derivada vale 0 (punto de inflexión)."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "En todo el conjunto de los números reales",
           "is_correct": false,
           "feedback": "Incorrecto: el signo de f'' varía a los lados de x = c."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La función es cóncava hacia arriba cuando $f''(x) > 0$. Resolviendo $6x - 18 > 0 \\implies 6x > 18 \\implies x > 3$, es decir, el intervalo $(3, \\infty)$.",
       "difficulty": "4",
       "images": [],
@@ -197,19 +197,19 @@
       "context": "En la ciudad de Cali, un sistema de transporte masivo monitorea la velocidad de los buses y la aceleración instantánea.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "En el intervalo $(5, \\infty)$",
           "is_correct": true,
           "feedback": "Correcto: f''(x) > 0 define el intervalo de concavidad hacia arriba."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "En el intervalo $(-\\infty, 5)$",
           "is_correct": false,
           "feedback": "Incorrecto: en ese intervalo f''(x) < 0 (concavidad hacia abajo)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Únicamente en el punto $x = 5$",
           "is_correct": false,
           "feedback": "Incorrecto: en x = c la segunda derivada vale 0 (punto de inflexión)."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto: el signo de f'' varía a los lados de x = c."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La función es cóncava hacia arriba cuando $f''(x) > 0$. Resolviendo $6x - 30 > 0 \\implies 6x > 30 \\implies x > 5$, es decir, el intervalo $(5, \\infty)$.",
       "difficulty": "6",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "Un ingeniero civil en el proyecto del metro de Bogotá evalúa la curva de deformación de una viga de concreto.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "En el intervalo $(6, \\infty)$",
           "is_correct": true,
           "feedback": "Correcto: f''(x) > 0 define el intervalo de concavidad hacia arriba."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "En el intervalo $(-\\infty, 6)$",
           "is_correct": false,
           "feedback": "Incorrecto: en ese intervalo f''(x) < 0 (concavidad hacia abajo)."
@@ -267,7 +267,7 @@
           "feedback": "Incorrecto: el signo de f'' varía a los lados de x = c."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La función es cóncava hacia arriba cuando $f''(x) > 0$. Resolviendo $6x - 36 > 0 \\implies 6x > 36 \\implies x > 6$, es decir, el intervalo $(6, \\infty)$.",
       "difficulty": "6",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "En un proyecto agrícola en el departamento del Tolima, se calcula la producción máxima de arroz optimizando la fertilización.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "En el intervalo $(7, \\infty)$",
           "is_correct": true,
           "feedback": "Correcto: f''(x) > 0 define el intervalo de concavidad hacia arriba."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "En el intervalo $(-\\infty, 7)$",
           "is_correct": false,
           "feedback": "Incorrecto: en ese intervalo f''(x) < 0 (concavidad hacia abajo)."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecto: el signo de f'' varía a los lados de x = c."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La función es cóncava hacia arriba cuando $f''(x) > 0$. Resolviendo $6x - 42 > 0 \\implies 6x > 42 \\implies x > 7$, es decir, el intervalo $(7, \\infty)$.",
       "difficulty": "6",
       "images": [],
@@ -381,19 +381,19 @@
       "context": "En un estudio económico en Bucaramanga, se analiza el costo marginal y la utilidad máxima de una fábrica de calzado.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "En el intervalo $(9, \\infty)$",
           "is_correct": true,
           "feedback": "Correcto: f''(x) > 0 define el intervalo de concavidad hacia arriba."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "En el intervalo $(-\\infty, 9)$",
           "is_correct": false,
           "feedback": "Incorrecto: en ese intervalo f''(x) < 0 (concavidad hacia abajo)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Únicamente en el punto $x = 9$",
           "is_correct": false,
           "feedback": "Incorrecto: en x = c la segunda derivada vale 0 (punto de inflexión)."
@@ -405,7 +405,7 @@
           "feedback": "Incorrecto: el signo de f'' varía a los lados de x = c."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La función es cóncava hacia arriba cuando $f''(x) > 0$. Resolviendo $6x - 54 > 0 \\implies 6x > 54 \\implies x > 9$, es decir, el intervalo $(9, \\infty)$.",
       "difficulty": "6",
       "images": [],
@@ -427,13 +427,13 @@
       "context": "Un centro meteorológico en Cartagena registra el incremento de la temperatura promedio durante el medio día.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "En el intervalo $(10, \\infty)$",
           "is_correct": true,
           "feedback": "Correcto: f''(x) > 0 define el intervalo de concavidad hacia arriba."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "En el intervalo $(-\\infty, 10)$",
           "is_correct": false,
           "feedback": "Incorrecto: en ese intervalo f''(x) < 0 (concavidad hacia abajo)."
@@ -451,7 +451,7 @@
           "feedback": "Incorrecto: el signo de f'' varía a los lados de x = c."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La función es cóncava hacia arriba cuando $f''(x) > 0$. Resolviendo $6x - 60 > 0 \\implies 6x > 60 \\implies x > 10$, es decir, el intervalo $(10, \\infty)$.",
       "difficulty": "6",
       "images": [],
@@ -473,31 +473,31 @@
       "context": "En una empresa textil de Medellín, se modela el volumen de producción diaria en función del tiempo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "En el intervalo $(11, \\infty)$",
           "is_correct": true,
           "feedback": "Correcto: f''(x) > 0 define el intervalo de concavidad hacia arriba."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "En el intervalo $(-\\infty, 11)$",
           "is_correct": false,
           "feedback": "Incorrecto: en ese intervalo f''(x) < 0 (concavidad hacia abajo)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Únicamente en el punto $x = 11$",
           "is_correct": false,
           "feedback": "Incorrecto: en x = c la segunda derivada vale 0 (punto de inflexión)."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "En todo el conjunto de los números reales",
           "is_correct": false,
           "feedback": "Incorrecto: el signo de f'' varía a los lados de x = c."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La función es cóncava hacia arriba cuando $f''(x) > 0$. Resolviendo $6x - 66 > 0 \\implies 6x > 66 \\implies x > 11$, es decir, el intervalo $(11, \\infty)$.",
       "difficulty": "8",
       "images": [],
@@ -565,13 +565,13 @@
       "context": "En el puerto de Buenaventura, se registra el nivel de la marea y la tasa de variación del nivel del agua.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "En el intervalo $(13, \\infty)$",
           "is_correct": true,
           "feedback": "Correcto: f''(x) > 0 define el intervalo de concavidad hacia arriba."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "En el intervalo $(-\\infty, 13)$",
           "is_correct": false,
           "feedback": "Incorrecto: en ese intervalo f''(x) < 0 (concavidad hacia abajo)."
@@ -589,7 +589,7 @@
           "feedback": "Incorrecto: el signo de f'' varía a los lados de x = c."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La función es cóncava hacia arriba cuando $f''(x) > 0$. Resolviendo $6x - 78 > 0 \\implies 6x > 78 \\implies x > 13$, es decir, el intervalo $(13, \\infty)$.",
       "difficulty": "8",
       "images": [],
@@ -703,13 +703,13 @@
       "context": "Un ingeniero civil en el proyecto del metro de Bogotá evalúa la curva de deformación de una viga de concreto.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "En el intervalo $(16, \\infty)$",
           "is_correct": true,
           "feedback": "Correcto: f''(x) > 0 define el intervalo de concavidad hacia arriba."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "En el intervalo $(-\\infty, 16)$",
           "is_correct": false,
           "feedback": "Incorrecto: en ese intervalo f''(x) < 0 (concavidad hacia abajo)."
@@ -727,7 +727,7 @@
           "feedback": "Incorrecto: el signo de f'' varía a los lados de x = c."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La función es cóncava hacia arriba cuando $f''(x) > 0$. Resolviendo $6x - 96 > 0 \\implies 6x > 96 \\implies x > 16$, es decir, el intervalo $(16, \\infty)$.",
       "difficulty": "8",
       "images": [],
@@ -749,31 +749,31 @@
       "context": "En un proyecto agrícola en el departamento del Tolima, se calcula la producción máxima de arroz optimizando la fertilización.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "En el intervalo $(17, \\infty)$",
           "is_correct": true,
           "feedback": "Correcto: f''(x) > 0 define el intervalo de concavidad hacia arriba."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "En el intervalo $(-\\infty, 17)$",
           "is_correct": false,
           "feedback": "Incorrecto: en ese intervalo f''(x) < 0 (concavidad hacia abajo)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Únicamente en el punto $x = 17$",
           "is_correct": false,
           "feedback": "Incorrecto: en x = c la segunda derivada vale 0 (punto de inflexión)."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "En todo el conjunto de los números reales",
           "is_correct": false,
           "feedback": "Incorrecto: el signo de f'' varía a los lados de x = c."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La función es cóncava hacia arriba cuando $f''(x) > 0$. Resolviendo $6x - 102 > 0 \\implies 6x > 102 \\implies x > 17$, es decir, el intervalo $(17, \\infty)$.",
       "difficulty": "10",
       "images": [],
@@ -795,13 +795,13 @@
       "context": "Una empresa de energía solar en Barranquilla modela la acumulación diaria de energía mediante la tasa de radiación captada.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "En el intervalo $(18, \\infty)$",
           "is_correct": true,
           "feedback": "Correcto: f''(x) > 0 define el intervalo de concavidad hacia arriba."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "En el intervalo $(-\\infty, 18)$",
           "is_correct": false,
           "feedback": "Incorrecto: en ese intervalo f''(x) < 0 (concavidad hacia abajo)."
@@ -819,7 +819,7 @@
           "feedback": "Incorrecto: el signo de f'' varía a los lados de x = c."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La función es cóncava hacia arriba cuando $f''(x) > 0$. Resolviendo $6x - 108 > 0 \\implies 6x > 108 \\implies x > 18$, es decir, el intervalo $(18, \\infty)$.",
       "difficulty": "10",
       "images": [],

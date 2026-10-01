@@ -13,31 +13,31 @@
       "context": "En Bogotá, el colegio presenta en un diagrama de barras la cantidad de estudiantes que practican cada deporte.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Diagrama de barras",
           "is_correct": true,
           "feedback": "Correcto. El diagrama de barras usa barras cuya longitud indica la frecuencia."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Diagrama circular",
           "is_correct": false,
           "feedback": "Incorrecto. El circular usa sectores, no barras."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Gráfico de líneas",
           "is_correct": false,
           "feedback": "Incorrecto. El de líneas usa una línea que une puntos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Histograma",
           "is_correct": false,
           "feedback": "Incorrecto. El histograma representa intervalos numéricos, no categorías."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El diagrama de barras es el gráfico más común para comparar frecuencias de categorías discretas. La altura de cada barra es proporcional a la frecuencia.",
       "difficulty": "4",
       "images": [],
@@ -59,31 +59,31 @@
       "context": "En Medellín, un gráfico circular muestra la distribución del presupuesto familiar: comida 40%, transporte 20%, vivienda 25% y entretenimiento 15%.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "65%",
           "is_correct": true,
           "feedback": "Correcto. 40% + 25% = 65%."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "55%",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste 40% con transporte en lugar de vivienda."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "60%",
           "is_correct": false,
           "feedback": "Incorrecto. Te faltaron 5 puntos porcentuales del total."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "50%",
           "is_correct": false,
           "feedback": "Incorrecto. Solo sumaste las dos categorías menores."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Para interpretar un gráfico circular se suman los porcentajes de las categorías pedidas: 40% + 25% = 65%.",
       "difficulty": "4",
       "images": [],
@@ -105,19 +105,19 @@
       "context": "En Cali, un diagrama de barras muestra las ventas de panes en una panadería: lunes 30, martes 45, miércoles 50, jueves 35 y viernes 60.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "70 panes",
           "is_correct": true,
           "feedback": "Correcto. 60 + 10 = 70."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "60 panes",
           "is_correct": false,
           "feedback": "Incorrecto. Solo leíste la barra del viernes sin sumar la producción extra."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "80 panes",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste 20 panes de más."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecto. Tomaste el dato del miércoles como si fuera el viernes."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Primero se lee la barra del viernes (60) y luego se aplica el aumento: 60 + 10 = 70 panes producidos.",
       "difficulty": "6",
       "images": [],
@@ -197,31 +197,31 @@
       "context": "En Pereira, un diagrama circular muestra las preferencias de 80 estudiantes: fútbol 50%, baloncesto 25%, atletismo 15% y otros 10%.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "20 estudiantes",
           "is_correct": true,
           "feedback": "Correcto. 25% de 80 = 20."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "25 estudiantes",
           "is_correct": false,
           "feedback": "Incorrecto. Confundiste el porcentaje con la cantidad."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "15 estudiantes",
           "is_correct": false,
           "feedback": "Incorrecto. Ese es el cálculo del 18.75%, no del 25%."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "40 estudiantes",
           "is_correct": false,
           "feedback": "Incorrecto. Este es el 50%, no el 25%."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Para traducir porcentaje a cantidad se multiplica: 0.25 × 80 = 20 estudiantes que prefieren baloncesto.",
       "difficulty": "6",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "En Santa Marta, un comerciante dice: \"Las ventas subieron mucho en julio, porque en el gráfico de líneas la línea termina arriba\". El gráfico va de 30 unidades en enero a 32 en julio.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Es engañosa, porque la subida de 30 a 32 es muy pequeña (≈7%)",
           "is_correct": true,
           "feedback": "Correcto. La diferencia es solo 2 unidades, apenas un 6.7% de aumento."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Es correcta, porque cualquier subida es mucho",
           "is_correct": false,
           "feedback": "Incorrecto. Una subida de 2 sobre 30 no se considera \"mucho\"."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecto. El gráfico sirve, lo que está mal es la interpretación exaltada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Los gráficos pueden usarse para exagerar diferencias visuales (gráficos trucados). Hay que leer los valores exactos antes de sacar conclusiones.",
       "difficulty": "8",
       "images": [],
@@ -335,19 +335,19 @@
       "context": "En Pasto, un gráfico circular tiene cuatro sectores de tamaños diferentes, pero dos de ellos se ven casi iguales al ojo. Sus porcentajes son 24% y 26%.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Porque la diferencia visual entre los ángulos es apenas de 2%, casi imperceptible",
           "is_correct": true,
           "feedback": "Correcto. 360° × 0.02 = 7.2° de diferencia, difícil de notar a simple vista."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque el gráfico está mal hecho",
           "is_correct": false,
           "feedback": "Incorrecto. El gráfico puede estar bien construido, la dificultad es del ojo humano."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque los colores son iguales",
           "is_correct": false,
           "feedback": "Incorrecto. No se dio información sobre colores."
@@ -359,7 +359,7 @@
           "feedback": "Incorrecto. Los porcentajes son diferentes aunque cercanos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "En un gráfico circular, la diferencia visual entre dos sectores con porcentajes cercanos (24% y 26%) es muy pequeña para el ojo, conviene usar la tabla de datos cuando los valores son parecidos.",
       "difficulty": "8",
       "images": [],

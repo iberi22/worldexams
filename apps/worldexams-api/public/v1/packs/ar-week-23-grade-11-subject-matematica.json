@@ -19,25 +19,25 @@
           "feedback": "Incorrecto. El denominador debe ser la probabilidad del evento condicionante (B)."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "P(A|B) = [P(B|A) * P(A)] / P(B)",
           "is_correct": true,
           "feedback": "Correcto. Esta es la expresión clásica del Teorema de Bayes."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "P(A|B) = P(A) + P(B) - P(A ∩ B)",
           "is_correct": false,
           "feedback": "Incorrecto. Esta es la fórmula para la probabilidad de la unión."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "P(A|B) = P(B|A) * P(B)",
           "is_correct": false,
           "feedback": "Incorrecto. No respeta la relación de proporcionalidad correcta."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El Teorema de Bayes permite calcular la probabilidad de un evento A dado que ocurrió B, a partir de la probabilidad de B dado A y las probabilidades marginales de cada evento. Es fundamental para actualizar probabilidades a medida que aparece nueva información.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -64,25 +64,25 @@
           "feedback": "Incorrecto. La condicional se escribe con una barra vertical."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Probabilidad a priori",
           "is_correct": true,
           "feedback": "Correcto. Representa la creencia o probabilidad inicial antes de conocer nueva evidencia."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Probabilidad a posteriori",
           "is_correct": false,
           "feedback": "Incorrecto. Esa es la probabilidad calculada después de aplicar el teorema."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Verosimilitud",
           "is_correct": false,
           "feedback": "Incorrecto. La verosimilitud suele asociarse al término P(B|A)."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "P(A) se denomina probabilidad \"a priori\" porque es la probabilidad asignada al evento antes de recolectar nuevos datos o evidencias (como el resultado de un test).\n\n---",
       "difficulty": "4",
       "images": [],
@@ -109,13 +109,13 @@
           "feedback": "Incorrecto. Ese teorema es para triángulos rectángulos."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Teorema de la Probabilidad Total",
           "is_correct": true,
           "feedback": "Correcto. Este teorema suma las probabilidades de B a través de una partición del espacio muestral."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ley de Laplace",
           "is_correct": false,
           "feedback": "Incorrecto. Esta ley es para casos equiprobables."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. Este teorema describe la distribución de promedios de muestras."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El Teorema de la Probabilidad Total permite calcular la probabilidad de un evento B sumando las probabilidades de que ocurra B junto con cada uno de los eventos disjuntos que forman el espacio muestral.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -154,13 +154,13 @@
           "feedback": "Incorrecto. El valor total debe estar en el rango de los valores condicionales."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "No, porque P(Voto) debe ser un promedio ponderado entre 0,6 y 0,8.",
           "is_correct": true,
           "feedback": "Correcto. El valor total nunca puede ser mayor al máximo ni menor al mínimo de las probabilidades condicionadas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Sí, si la mayoría de la población no vota.",
           "is_correct": false,
           "feedback": "Incorrecto. No tiene sentido con los datos dados."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. La proporción es independiente del tamaño de muestra para este concepto teórico."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La probabilidad total es una suma ponderada: P(B) = Σ P(B|Ai)P(Ai). Matemáticamente, esto implica que el resultado final debe estar comprendido entre el valor mínimo y el máximo de las probabilidades condicionales involucradas.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -199,13 +199,13 @@
           "feedback": "Incorrecto. No se pueden sumar las tasas de falla directamente."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "0,032",
           "is_correct": true,
           "feedback": "Correcto. P(F) = (0,60 * 0,02) + (0,40 * 0,05) = 0,012 + 0,020 = 0,032."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "0,035",
           "is_correct": false,
           "feedback": "Incorrecto. Este sería el promedio simple, no el ponderado."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. Esta es solo la probabilidad de falla en la línea 1."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Aplicamos la probabilidad total: P(Falla) = P(Falla|L1)P(L1) + P(Falla|L2)P(L2). 0,02 * 0,60 + 0,05 * 0,40 = 0,012 + 0,020 = 0,032 (3,2%).\n\n---",
       "difficulty": "6",
       "images": [],
@@ -250,19 +250,19 @@
           "feedback": "Incorrecto. Esta es la probabilidad de falla dado que es de la línea 2."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "0,625",
           "is_correct": true,
           "feedback": "Correcto. P(L2|F) = P(F|L2)P(L2) / P(F) = 0,020 / 0,032 = 0,625."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "0,375",
           "is_correct": false,
           "feedback": "Incorrecto. Esta es la probabilidad de que provenga de la línea 1."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Aplicamos el Teorema de Bayes: P(L2|Falla) = P(Falla ∩ L2) / P(Falla). El numerador es 0,05 * 0,40 = 0,020. El denominador es 0,032. 0,020 / 0,032 = 20/32 = 5/8 = 0,625.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -283,13 +283,13 @@
       "context": "En una clínica de Mar del Plata, se realiza un test para una alergia que afecta al 10% de la población.\n\n- Si una persona tiene alergia, el test da positivo el 90% de las veces.\n\n- Si no tiene alergia, el test da positivo el 10% de las veces (falso positivo).\n\nDiagnóstico médico.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "0,90",
           "is_correct": false,
           "feedback": "Incorrecto. Esa es la tasa de verdaderos positivos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "0,18",
           "is_correct": true,
           "feedback": "Correcto. P(+) = P(+|A)P(A) + P(+|NA)P(NA) = 0,90*0,10 + 0,10*0,90 = 0,09 + 0,09 = 0,18."
@@ -307,7 +307,7 @@
           "feedback": "Incorrecto. Error en los cálculos ponderados."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "P(+) = (Prob. de positivo si tiene alergia * Prob. de tener alergia) + (Prob. de positivo si no tiene alergia * Prob. de no tener alergia). P(+) = (0,9 * 0,1) + (0,1 * 0,9) = 0,09 + 0,09 = 0,18.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -418,13 +418,13 @@
       "context": "En una universidad de La Plata, se sabe que el 60% de los graduados en ingeniería consiguen empleo en menos de 6 meses. De los que consiguen empleo rápido, el 80% realizó una pasantía. De los que no consiguen empleo rápido, solo el 20% realizó una pasantía.\n\nEmpleabilidad universitaria.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "0,80",
           "is_correct": false,
           "feedback": "Incorrecto. Esta es una probabilidad condicional."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "0,56",
           "is_correct": true,
           "feedback": "Correcto. P(Pas) = 0,80*0,60 + 0,20*0,40 = 0,48 + 0,08 = 0,56."
@@ -442,7 +442,7 @@
           "feedback": "Incorrecto. Esta es la probabilidad de conseguir empleo rápido."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "P(Pas) = P(Pas | Rápido)P(Rápido) + P(Pas | Lento)P(Lento) = (0,8 * 0,6) + (0,2 * 0,4) = 0,48 + 0,08 = 0,56.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -475,19 +475,19 @@
           "feedback": "Incorrecto. Esta es la probabilidad de que sea nuevo y no resuelva."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "0,90",
           "is_correct": true,
           "feedback": "Correcto. P(NoR) = 0,05*0,4 + 0,3*0,6 = 0,02 + 0,18 = 0,20. P(Nuevo|NoR) = 0,18 / 0,20 = 0,9."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "0,70",
           "is_correct": false,
           "feedback": "Incorrecto. No corresponde al cálculo de Bayes inverso."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Calculamos P(No Resuelto) = 0,20. De ese 20%, la parte que corresponde a los agentes nuevos es 0,18 (60% de 30% de fallas). P = 0,18 / 0,20 = 0,9. Es muy probable que si no se resolvió, el agente fuera nuevo.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -508,13 +508,13 @@
       "context": "Una empresa de seguros en Santa Fe determinó que el 20% de los conductores son \"de alto riesgo\". La probabilidad de que un conductor de alto riesgo tenga un accidente en un año es 0,4. Para uno de bajo riesgo, es 0,1.\n\nSeguros de automotor.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "0,50",
           "is_correct": true,
           "feedback": "Correcto. P(Acc) = 0,4*0,2 + 0,1*0,8 = 0,08 + 0,08 = 0,16. P(BR|Acc) = 0,08 / 0,16 = 0,5."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "0,80",
           "is_correct": false,
           "feedback": "Incorrecto. Esta es la probabilidad de ser de bajo riesgo antes de saber del accidente."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. Error en la aplicación de la fórmula de Bayes."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "P(Accidente) = 0,16. Los dos grupos contribuyen con la misma cantidad absoluta de accidentes: 0,08 los de alto riesgo y 0,08 los de bajo riesgo. Por ende, dado que hubo un accidente, hay 50% de probabilidad para cada grupo.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -694,13 +694,13 @@
           "feedback": "Incorrecto. Esta es la probabilidad a priori de no usar bicicleta."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "0,28",
           "is_correct": false,
           "feedback": "Incorrecto. Esta es la intersección P(No Bici y Temprano)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "0,609",
           "is_correct": true,
           "feedback": "Correcto. P(T) = 0,6*0,3 + 0,4*0,7 = 0,18 + 0,28 = 0,46. P(NoB|T) = 0,28 / 0,46 ≈ 0,609."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. Esta es la probabilidad de que sí use bicicleta dado que llegó temprano."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "P(Temprano) = 0,46. El grupo de los que no usan bicicleta aporta más a los \"llegados temprano\" (0,28) que el grupo de los ciclistas (0,18). P = 0,28 / 0,46 = 14/23 ≈ 0,609.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -733,13 +733,13 @@
       "context": "Dos urnas en un experimento de la UBA. La Urna 1 tiene 5 bolas blancas y 2 negras. La Urna 2 tiene 3 blancas y 4 negras. Se elige una urna al azar, se saca una bola y resulta ser blanca. Se devuelve la bola a la MISMA urna y se saca una segunda bola de esa urna.\n\nExperimento de urnas con actualización de información.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "4/7",
           "is_correct": false,
           "feedback": "Incorrecto. Este es el promedio simple de blancas en ambas urnas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "17/28",
           "is_correct": true,
           "feedback": "Correcto. P(U1|B1) = (5/7 * 1/2) / (5/7 * 1/2 + 3/7 * 1/2) = 5/8. P(U2|B1) = 3/8. P(B2) = P(B2|U1)P(U1|B1) + P(B2|U2)P(U2|B1) = (5/7 * 5/8) + (3/7 * 3/8) = (25+9)/56 = 34/56 = 17/28."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. Esto supone que estamos seguro en la urna 1."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Al sacar una blanca primero, la probabilidad de estar en la Urna 1 (que tiene más blancas) sube de 0,5 a 0,625. Usamos esa nueva probabilidad para calcular la segunda extracción: (5/7 * 0,625) + (3/7 * 0,375) = 17/28 ≈ 0,607.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -778,13 +778,13 @@
       "context": "Un sistema de reconocimiento facial en una entidad financiera de CABA tiene una tasa de falsa aceptación del 0,01% y una tasa de falso rechazo del 1%. Se asume que el 99,9% de los intentos de acceso son de clientes legítimos.\n\nBiometría y seguridad bancaria.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "0,0000001",
           "is_correct": true,
           "feedback": "Correcto. P(Acept) = 0,99 * 0,999 + 0,0001 * 0,001 ≈ 0,989. P(Imp|Ace) = (0,0001 * 0,001) / 0,989 ≈ 0,0000001. Es extremadamente baja debido a la baja tasa de impostores y baja falsa aceptación."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "0,01",
           "is_correct": false,
           "feedback": "Incorrecto. No considera la proporción de base de clientes legítimos."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. No corresponde a la alta precisión del sistema."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La probabilidad de que un acceso aceptado sea de un impostor es bajísima porque: 1) hay pocos impostores (0,1%) y 2) el sistema casi nunca los deja pasar (0,01%). El cálculo formal confirma un valor cercano a una millonésima.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -835,19 +835,19 @@
           "feedback": "Incorrecto. La apertura de la caja vacía por alguien que sabe no reparte las chances 50/50."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "2/3",
           "is_correct": true,
           "feedback": "Correcto. Al cambiar, ganás siempre que tu elección inicial haya sido incorrecta, lo cual ocurre el 66,6% de las veces."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "1/4",
           "is_correct": false,
           "feedback": "Incorrecto. El espacio se redujo, la probabilidad debe aumentar."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Este es un clásico de Bayes. P(Premio en C | Conductor abre B) = [P(Conductor abre B | C) * P(C)] / P(Cond abre B). Al calcularlo, resulta que la probabilidad de la caja no elegida inicialmente se duplica al abrirse una de las otras.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -874,13 +874,13 @@
           "feedback": "Incorrecto. Esta es la probabilidad de sacar figura del mazo."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "0,50",
           "is_correct": false,
           "feedback": "Incorrecto. El dado normal también puede sacar un 6."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "0,473",
           "is_correct": true,
           "feedback": "Correcto. P(Fig) = 12/52 = 3/13. P(NoFig) = 10/13. P(6) = (0,5 * 3/13) + (1/6 * 10/13) ≈ 0,1154 + 0,1282 = 0,2436. P(Fig|6) = 0,1154 / 0,2436 ≈ 0,473."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. Esta es la intersección de sacar figura y sacar 6."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "P(Figura y 6) = (3/13) * 0,5 ≈ 0,115. P(No Figura y 6) = (10/13) * (1/6) ≈ 0,128. P(Total de 6) ≈ 0,243. Bayes: 0,115 / 0,243 ≈ 0,473. El dado cargado hace que las figuras \"pesen\" casi la mitad de los casos de obtener un 6.",
       "difficulty": "10",
       "images": [],

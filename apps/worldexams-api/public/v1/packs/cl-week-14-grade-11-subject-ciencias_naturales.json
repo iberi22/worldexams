@@ -13,13 +13,13 @@
       "context": "Fernanda analiza situaciones académicas en Santiago.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$2.000 \\text{ m}$",
           "is_correct": true,
           "feedback": "¡Correcto! lambda = v/f = 340/170 = 2.000 m."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$20.000 \\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Error en la escala decimal."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Multiplicaste velocidad por frecuencia."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La longitud de onda se calcula como lambda = v/f = 340/170 = 2.000 m.",
       "difficulty": "4",
       "images": [],
@@ -58,13 +58,13 @@
       "context": "Javier analiza situaciones académicas en Valparaíso.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$1.789 \\text{ m}$",
           "is_correct": true,
           "feedback": "¡Correcto! lambda = v/f = 340/190 = 1.789 m."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$17.895 \\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Error en la escala decimal."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. Multiplicaste velocidad por frecuencia."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La longitud de onda se calcula como lambda = v/f = 340/190 = 1.789 m.",
       "difficulty": "4",
       "images": [],
@@ -103,31 +103,31 @@
       "context": "Lucas analiza situaciones académicas en Concepción.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$1.619 \\text{ m}$",
           "is_correct": true,
           "feedback": "¡Correcto! lambda = v/f = 340/210 = 1.619 m."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$16.190 \\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Error en la escala decimal."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$0.618 \\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Dividiste frecuencia por velocidad."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$71400 \\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicaste velocidad por frecuencia."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La longitud de onda se calcula como lambda = v/f = 340/210 = 1.619 m.",
       "difficulty": "4",
       "images": [],
@@ -148,19 +148,19 @@
       "context": "Valentina analiza situaciones académicas en Antofagasta.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$1.478 \\text{ m}$",
           "is_correct": true,
           "feedback": "¡Correcto! lambda = v/f = 340/230 = 1.478 m."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$14.783 \\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Error en la escala decimal."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$0.676 \\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Dividiste frecuencia por velocidad."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. Multiplicaste velocidad por frecuencia."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La longitud de onda se calcula como lambda = v/f = 340/230 = 1.478 m.",
       "difficulty": "4",
       "images": [],
@@ -328,19 +328,19 @@
       "context": "Isidora analiza situaciones académicas en Iquique.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$1.097 \\text{ m}$",
           "is_correct": true,
           "feedback": "¡Correcto! lambda = v/f = 340/310 = 1.097 m."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$10.968 \\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Error en la escala decimal."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$0.912 \\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Dividiste frecuencia por velocidad."
@@ -352,7 +352,7 @@
           "feedback": "Incorrecto. Multiplicaste velocidad por frecuencia."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La longitud de onda se calcula como lambda = v/f = 340/310 = 1.097 m.",
       "difficulty": "6",
       "images": [],
@@ -373,19 +373,19 @@
       "context": "Matías analiza situaciones académicas en Rancagua.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$1.030 \\text{ m}$",
           "is_correct": true,
           "feedback": "¡Correcto! lambda = v/f = 340/330 = 1.030 m."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$10.303 \\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Error en la escala decimal."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$0.971 \\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Dividiste frecuencia por velocidad."
@@ -397,7 +397,7 @@
           "feedback": "Incorrecto. Multiplicaste velocidad por frecuencia."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La longitud de onda se calcula como lambda = v/f = 340/330 = 1.030 m.",
       "difficulty": "6",
       "images": [],
@@ -508,31 +508,31 @@
       "context": "Martina analiza situaciones académicas en Puerto Montt.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$0.872 \\text{ m}$",
           "is_correct": true,
           "feedback": "¡Correcto! lambda = v/f = 340/390 = 0.872 m."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$8.718 \\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Error en la escala decimal."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$1.147 \\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Dividiste frecuencia por velocidad."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$132600 \\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicaste velocidad por frecuencia."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La longitud de onda se calcula como lambda = v/f = 340/390 = 0.872 m.",
       "difficulty": "8",
       "images": [],
@@ -553,13 +553,13 @@
       "context": "Benjamín analiza situaciones académicas en Chillán.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$0.829 \\text{ m}$",
           "is_correct": true,
           "feedback": "¡Correcto! lambda = v/f = 340/410 = 0.829 m."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$8.293 \\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Error en la escala decimal."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. Multiplicaste velocidad por frecuencia."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La longitud de onda se calcula como lambda = v/f = 340/410 = 0.829 m.",
       "difficulty": "8",
       "images": [],
@@ -643,31 +643,31 @@
       "context": "Sebastián analiza situaciones académicas en Valdivia.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$0.756 \\text{ m}$",
           "is_correct": true,
           "feedback": "¡Correcto! lambda = v/f = 340/450 = 0.756 m."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$7.556 \\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Error en la escala decimal."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$1.324 \\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Dividiste frecuencia por velocidad."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$153000 \\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicaste velocidad por frecuencia."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La longitud de onda se calcula como lambda = v/f = 340/450 = 0.756 m.",
       "difficulty": "8",
       "images": [],
@@ -688,31 +688,31 @@
       "context": "Fernanda analiza situaciones académicas en Santiago.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$0.723 \\text{ m}$",
           "is_correct": true,
           "feedback": "¡Correcto! lambda = v/f = 340/470 = 0.723 m."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$7.234 \\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Error en la escala decimal."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$1.382 \\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Dividiste frecuencia por velocidad."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$159800 \\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicaste velocidad por frecuencia."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La longitud de onda se calcula como lambda = v/f = 340/470 = 0.723 m.",
       "difficulty": "8",
       "images": [],
@@ -733,19 +733,19 @@
       "context": "Javier analiza situaciones académicas en Valparaíso.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$0.694 \\text{ m}$",
           "is_correct": true,
           "feedback": "¡Correcto! lambda = v/f = 340/490 = 0.694 m."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$6.939 \\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Error en la escala decimal."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$1.441 \\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Dividiste frecuencia por velocidad."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. Multiplicaste velocidad por frecuencia."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La longitud de onda se calcula como lambda = v/f = 340/490 = 0.694 m.",
       "difficulty": "10",
       "images": [],
@@ -778,13 +778,13 @@
       "context": "Lucas analiza situaciones académicas en Concepción.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$0.667 \\text{ m}$",
           "is_correct": true,
           "feedback": "¡Correcto! lambda = v/f = 340/510 = 0.667 m."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$6.667 \\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Error en la escala decimal."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. Multiplicaste velocidad por frecuencia."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La longitud de onda se calcula como lambda = v/f = 340/510 = 0.667 m.",
       "difficulty": "10",
       "images": [],
@@ -823,19 +823,19 @@
       "context": "Valentina analiza situaciones académicas en Antofagasta.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$0.642 \\text{ m}$",
           "is_correct": true,
           "feedback": "¡Correcto! lambda = v/f = 340/530 = 0.642 m."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$6.415 \\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Error en la escala decimal."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$1.559 \\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Dividiste frecuencia por velocidad."
@@ -847,7 +847,7 @@
           "feedback": "Incorrecto. Multiplicaste velocidad por frecuencia."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La longitud de onda se calcula como lambda = v/f = 340/530 = 0.642 m.",
       "difficulty": "10",
       "images": [],
@@ -868,31 +868,31 @@
       "context": "Tomás analiza situaciones académicas en Temuco.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$0.618 \\text{ m}$",
           "is_correct": true,
           "feedback": "¡Correcto! lambda = v/f = 340/550 = 0.618 m."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$6.182 \\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Error en la escala decimal."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$1.618 \\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Dividiste frecuencia por velocidad."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$187000 \\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicaste velocidad por frecuencia."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La longitud de onda se calcula como lambda = v/f = 340/550 = 0.618 m.",
       "difficulty": "10",
       "images": [],

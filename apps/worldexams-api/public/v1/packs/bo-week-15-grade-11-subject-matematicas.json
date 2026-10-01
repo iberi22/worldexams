@@ -13,19 +13,19 @@
       "context": "En Santa Cruz, Jhonny en el Colegio Nacional Santa Cruz analiza el ejercicio #1: evalúa el límite directo lim (x → 3) (2x² - 5).",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Límite = 13",
           "is_correct": true,
           "feedback": "¡Correcto! Sustitución directa: 2(3²) - 5 = 2(9) - 5 = 18 - 5 = 13."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Límite = 11",
           "is_correct": false,
           "feedback": "Incorrecto. Elevaste 3² como 6 en lugar de 9."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Límite = 18",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste restar la constante 5."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Erraste en el producto 2 × 9."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Por propiedad de límites polinómicos, aplicamos sustitución directa: lim (x → 3) (2x² - 5) = 2(3)² - 5 = 18 - 5 = 13.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -58,19 +58,19 @@
       "context": "En Cochabamba, Marisol en el Colegio Nacional Sucre analiza el ejercicio #2: evalúa lim (x → 2) (x² - 4)/(x - 2).",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Límite = 4",
           "is_correct": true,
           "feedback": "¡Correcto! Factorizando (x - 2)(x + 2)/(x - 2) = x + 2. Evaluando en x = 2: 2 + 2 = 4."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Límite = 0",
           "is_correct": false,
           "feedback": "Incorrecto. Caíste en la indeterminación 0/0 sin cancelar el factor común."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Límite = 2",
           "is_correct": false,
           "feedback": "Incorrecto. Evaluaste solo un término del binomio simplificado."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. La indeterminación 0/0 es removable mediante factorización."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "x² - 4 = (x - 2)(x + 2). Cancelando (x - 2): lim (x → 2) (x + 2) = 2 + 2 = 4.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -103,19 +103,19 @@
       "context": "En Sucre, Walter en el Colegio Nacional Junín analiza el ejercicio #3: halla la derivada de f(x) = 5x⁴ - 3x² + 7x - 9.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "f'(x) = 20x³ - 6x + 7",
           "is_correct": true,
           "feedback": "¡Correcto! Aplicando d/dx(xⁿ) = n·xⁿ⁻¹: 5(4x³) - 3(2x) + 7 = 20x³ - 6x + 7."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "f'(x) = 20x³ - 6x",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste derivar el término lineal 7x."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "f'(x) = 5x³ - 3x + 7",
           "is_correct": false,
           "feedback": "Incorrecto. No multiplicaste los coeficientes por los exponentes."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. No le restaste 1 a los exponentes al derivar."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Regla de la potencia: d/dx(xⁿ) = n xⁿ⁻¹. f'(x) = 5(4x³) - 3(2x¹) + 7(1) - 0 = 20x³ - 6x + 7.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,31 +148,31 @@
       "context": "En Potosí, Sonia en el Colegio Nacional Bolívar analiza el ejercicio #4: halla la pendiente m de la recta tangente a y = x² en x = 3.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "m = 6",
           "is_correct": true,
           "feedback": "¡Correcto! Derivada y' = 2x. Evaluando en x = 3: m = 2(3) = 6."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "m = 9",
           "is_correct": false,
           "feedback": "Incorrecto. Evaluaste la función original y(3) = 9 en lugar de la derivada."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "m = 3",
           "is_correct": false,
           "feedback": "Incorrecto. Tomaste la abscisa directamente."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "m = 2",
           "is_correct": false,
           "feedback": "Incorrecto. No evaluaste x = 3 en la derivada y' = 2x."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La pendiente de la tangente es la derivada evaluada en el punto: y' = 2x. Evaluando en x = 3 obtenemos m = 2(3) = 6.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -238,31 +238,31 @@
       "context": "En Tarija, Yolanda en el Colegio Nacional San Luis analiza el ejercicio #6: halla la derivada de f(x) = (2x + 1)³ mediante la regla de la cadena.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "f'(x) = 6(2x + 1)²",
           "is_correct": true,
           "feedback": "¡Correcto! f'(x) = 3(2x + 1)² · d/dx(2x + 1) = 3(2x + 1)² · 2 = 6(2x + 1)²."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "f'(x) = 3(2x + 1)²",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste multiplicar por la derivada interna d/dx(2x + 1) = 2."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "f'(x) = 12(2x + 1)",
           "is_correct": false,
           "feedback": "Incorrecto. Bajaste mal la potencia del binomio."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "f'(x) = 6x²",
           "is_correct": false,
           "feedback": "Incorrecto. Derivaste solo el término 2x elevado al cubo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Regla de la cadena: d/dx(uⁿ) = n uⁿ⁻¹ · u'. Aquí u = 2x + 1, u' = 2. Por tanto f'(x) = 3(2x + 1)² · 2 = 6(2x + 1)².\n\n---",
       "difficulty": "6",
       "images": [],
@@ -328,13 +328,13 @@
       "context": "En Cobija, Marcela en el Colegio Don Bosco analiza el ejercicio #8: halla la segunda derivada de f(x) = x⁴ - 2x³.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "f''(x) = 12x² - 12x",
           "is_correct": true,
           "feedback": "¡Correcto! f'(x) = 4x³ - 6x². Derivando nuevamente: f''(x) = 12x² - 12x."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "f''(x) = 4x³ - 6x²",
           "is_correct": false,
           "feedback": "Incorrecto. Esta es la primera derivada f'(x)."
@@ -352,7 +352,7 @@
           "feedback": "Incorrecto. Erraste en la derivada del término -6x²."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Primera derivada: f'(x) = 4x³ - 6x². Segunda derivada: f''(x) = d/dx(4x³ - 6x²) = 12x² - 12x.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -373,19 +373,19 @@
       "context": "En El Alto, Grover en el Colegio San Calixto analiza el ejercicio #9: evalúa el límite trigonométrico notable lim (x → 0) (sin(x) / x).",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Límite = 1",
           "is_correct": true,
           "feedback": "¡Correcto! Es el límite trigonométrico fundamental conocido por teorema de compresión: lim (x → 0) sin(x)/x = 1."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Límite = 0",
           "is_correct": false,
           "feedback": "Incorrecto. Evaluar sin(0)/0 genera indeterminación 0/0, pero su límite es 1."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Límite = ∞",
           "is_correct": false,
           "feedback": "Incorrecto. El límite no diverge a infinito."
@@ -397,7 +397,7 @@
           "feedback": "Incorrecto. El límite existe y es igual a 1."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El límite trigonométrico notable fundamental establece que lim (x → 0) (sin(x)/x) = 1.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -463,13 +463,13 @@
       "context": "En Santa Cruz, Ana en el Colegio Nacional Santa Cruz analiza el ejercicio #11: halla la derivada del cociente f(x) = x / (x + 1).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "f'(x) = 1 / (x + 1)²",
           "is_correct": true,
           "feedback": "¡Correcto! Regla del cociente: [1(x+1) - x(1)] / (x+1)² = (x + 1 - x) / (x+1)² = 1 / (x+1)²."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "f'(x) = (2x + 1) / (x + 1)²",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste los términos del numerador en lugar de restarlos."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto. Invertiste el orden de la resta en el numerador."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Regla del cociente: (u/v)' = (u'v - uv') / v². Aquí u = x, v = x + 1. f'(x) = [1(x+1) - x(1)] / (x+1)² = 1 / (x+1)².\n\n---",
       "difficulty": "8",
       "images": [],
@@ -508,13 +508,13 @@
       "context": "En Cochabamba, Marcos en el Colegio Nacional Sucre analiza el ejercicio #12: determina la derivabilidad de f(x) = |x| en el punto x = 0.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "No es derivable en x = 0",
           "is_correct": true,
           "feedback": "¡Correcto! Las derivadas laterales difieren: por la izquierda es -1 y por la derecha es +1."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Sí, es derivable y f'(0) = 0",
           "is_correct": false,
           "feedback": "Incorrecto. Las pendientes de las tangentes a ambos lados no coinciden."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. Solo consideraste la rama izquierda x < 0."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "f(x) = |x| no es derivable en x = 0 porque sus derivadas laterales f'_-(0) = -1 y f'_+(0) = 1 son distintas (punto anguloso).\n\n---",
       "difficulty": "8",
       "images": [],
@@ -733,13 +733,13 @@
       "context": "En Trinidad, Willy en el Liceo Pantaleón Dalence analiza el ejercicio #17: halla la derivada de f(x) = e^(3x).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "f'(x) = 3e^(3x)",
           "is_correct": true,
           "feedback": "¡Correcto! Por regla de la cadena d/dx(e^u) = u' e^u ⇒ d/dx(3x) e^(3x) = 3e^(3x)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "f'(x) = e^(3x)",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste multiplicar por la derivada interna u' = 3."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. Derivaste de forma totalmente errónea."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La derivada de la función exponencial e^u es u' e^u. Con u = 3x, u' = 3. Así f'(x) = 3e^(3x).\n\n---",
       "difficulty": "10",
       "images": [],
@@ -778,13 +778,13 @@
       "context": "En Cobija, Teresa en el Colegio Don Bosco analiza el ejercicio #18: halla la derivada de f(x) = ln(x) para x > 0.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "f'(x) = 1/x",
           "is_correct": true,
           "feedback": "¡Correcto! La derivada fundamental del logaritmo natural ln(x) es 1/x."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "f'(x) = e^x",
           "is_correct": false,
           "feedback": "Incorrecto. Confundiste la derivada del logaritmo con la función exponencial."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. Invertiste la expresión fraccionaria."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Por regla de derivación elemental, la derivada del logaritmo natural d/dx[ln(x)] = 1/x para x > 0.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -868,19 +868,19 @@
       "context": "En La Paz, Roxana en el Colegio Nacional Ayacucho analiza el ejercicio #20: función de velocidad de un móvil v(t) = 4t³ - 5t.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "a(t) = 12t² - 5",
           "is_correct": true,
           "feedback": "¡Correcto! La aceleración es la derivada de la velocidad: a(t) = v'(t) = 12t² - 5."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "a(t) = 12t³ - 5",
           "is_correct": false,
           "feedback": "Incorrecto. No le restaste 1 al exponente de t³."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "a(t) = 4t² - 5",
           "is_correct": false,
           "feedback": "Incorrecto. No multiplicaste por el exponente 3."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. Olvidaste derivar el término lineal -5t."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La aceleración es la tasa de cambio de la velocidad respecto al tiempo: a(t) = v'(t) = d/dt(4t³ - 5t) = 12t² - 5.",
       "difficulty": "10",
       "images": [],

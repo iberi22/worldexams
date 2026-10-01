@@ -13,13 +13,13 @@
       "context": "En una columna de opinión de *El Espectador*, el articulista argumenta: \"La verdadera brecha digital en Colombia no es el acceso al smartphone, sino la capacidad crítica para no tragar entero frente a las fake news\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Tener un dispositivo digital no garantiza la competencia lectora si el ciudadano carece de pensamiento crítico para evaluar la información.",
           "is_correct": true,
           "feedback": "El autor diferencia el acceso material a la tecnología de la habilidad cognitiva indispensable para interpretar los contenidos con rigor."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Sostiene que la compra de teléfonos inteligentes debe ser subsidada integralmente por el Estado.",
           "is_correct": false,
           "feedback": "El texto no se enfoca en subsidios de aparatos sino en la formación del juicio crítico frente a los medios."
@@ -37,7 +37,7 @@
           "feedback": "Promueve la alfabetización digital crítica, no la desconexión o prohibición de la red."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El articulista contrapone la cobertura técnica con la competencia crítica de lectura frente a la desinformación masiva.",
       "difficulty": "4",
       "images": [],
@@ -59,31 +59,31 @@
       "context": "En una caricatura política de Matador en *El Tiempo*, se observa a un ciudadano ahogado en un mar de folios impresos mientras un funcionario sonríe con un sello gigante en la mano.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Satiriza la asfixiante burocracia estatal que prioriza el trámite excesivo y el sello por encima del bienestar del ciudadano.",
           "is_correct": true,
           "feedback": "La caricatura contrapone la indefensión del ciudadano con la prepotencia del funcionario que convierte el papeleo en un instrumento de opresión."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Celebra la alta producción de la industria de papel y cartón en Colombia.",
           "is_correct": false,
           "feedback": "El mar de folios es una metáfora de la trampa burocrática, no un homenaje industrial."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Demuestra que los funcionarios públicos trabajan en playas y balnearios del Caribe.",
           "is_correct": false,
           "feedback": "El \"mar de folios\" es una alegoría de la inundación de trámites inutiles."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Recomienda aumentar el número de sellos exigidos en los contratos públicos.",
           "is_correct": false,
           "feedback": "Ataca precisamente la exigencia desmedida de sellos y formalismos vacíos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La caricatura política combina el lenguaje icónico y la hipérbole visual para cuestionar el exceso burocrático y la impunidad administrativa.",
       "difficulty": "4",
       "images": [],
@@ -105,19 +105,19 @@
       "context": "En un artículo expositivo-científico sobre los páramos: \"Los frailejones (*Espeletia*) crecen apenas un centímetro por año; destruir un frailejón de dos metros es borrar dos siglos de regulación hídrica natural\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Muestra que la lentitud del crecimiento biológico vuelve irreversible el daño ambiental provocado por la deforestación del páramo.",
           "is_correct": true,
           "feedback": "El dato biológico del crecimiento lento enfatiza la gravedad del ecocidio: reforestar un páramo toma siglos de tiempo real."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Demuestra que los frailejones son las plantas más rápidas en desarrollarse del planeta.",
           "is_correct": false,
           "feedback": "El texto afirma lo contrario: crecen solo un centímetro al año."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Propone la tala comercial de frailejones para la fabricación de muebles finos.",
           "is_correct": false,
           "feedback": "El artículo busca la protección estricta de la especie por su valor en el ciclo del agua."
@@ -129,7 +129,7 @@
           "feedback": "Subraya la función natural insustituible del ecosistema en el abastecimiento de agua."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El dato científico del crecimiento lento evidencia la fragilidad del ecosistema y la irreversibilidad de la destrucción del páramo.",
       "difficulty": "4",
       "images": [],
@@ -151,31 +151,31 @@
       "context": "En una infografía sobre el desempleo juvenil en Colombia, se presenta un gráfico de barras comparativo entre técnicos, profesionales y personas sin título universitario.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Permite identificar visualmente qué nivel educativo presenta mayor tasa de inserción laboral y dónde se concentran los vacíos de empleo.",
           "is_correct": true,
           "feedback": "La infografía facilita la lectura comparativa de datos complejos, permitiendo evaluar la brecha de oportunidades por nivel de formación."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Prueba que todas las profesiones en Colombia ofrecen exactamente los mismos salarios.",
           "is_correct": false,
           "feedback": "El gráfico expone precisamente las disparidades e inequidades del mercado de trabajo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Demuestra que la educación secundaria es innecesaria para conseguir empleo en el país.",
           "is_correct": false,
           "feedback": "Los datos muestran el impacto del nivel educativo en las probabilidades de contratación."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Exige la eliminación de todas las facultades de ingeniería en las universidades.",
           "is_correct": false,
           "feedback": "Es una herramienta de diagnóstico cuantitativo que visibiliza la realidad del empleo juvenil."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La infografía sintetiza datos estadísticos comparativos para revelar las dinámicas y disparidades del mercado laboral.",
       "difficulty": "4",
       "images": [],
@@ -243,19 +243,19 @@
       "context": "En un afiche institucional del Ministerio de Salud contra el dengue, se muestra la foto de un florero con agua estancada junto a la frase: \"Tu casa puede estar criando al enemigo\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Utiliza la metáfora militar del \"enemigo\" asociada a un objeto cotidiano para generar alerta e incentivar la eliminación de criaderos.",
           "is_correct": true,
           "feedback": "El afiche dramatiza el riesgo doméstico transformando un simple florero en un peligro sanitario para motivar la prevención."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Informa que los floreros de cerámica han sido prohibidos por ley.",
           "is_correct": false,
           "feedback": "Usa el florero con agua estancada como ejemplo de riesgo, no prohíbe el objeto."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Demuestra que el dengue es transmitido por la picadura de aves de corral.",
           "is_correct": false,
           "feedback": "El aviso advierte sobre la reproducción del mosquito en depósitos de agua limpia."
@@ -267,7 +267,7 @@
           "feedback": "Promueve el hábito sencillo de eliminar el agua estancada en las viviendas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El afiche de salud pública combina la metáfora de alerta con la imagen doméstica para modificar conductas en la comunidad.",
       "difficulty": "6",
       "images": [],
@@ -289,19 +289,19 @@
       "context": "En un texto expositivo de historia económica: \"La bonanza cafetera de los años setenta permitió modernizar las vías de transporte, pero provocó un brote inflacionario que afectó a las clases populares\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Una relación de concesión o contraste donde un beneficio económico estructural se matiza con su impacto social negativo.",
           "is_correct": true,
           "feedback": "El conector \"pero\" introduce la contraparte problemática de la bonanza: la inflación que perjudicó a los sectores vulnerables."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Una relación de causa y efecto donde la inflación causó el cultivo del café en el siglo XIX.",
           "is_correct": false,
           "feedback": "Invierne el orden histórico; la bonanza fue la causa de la liquidez que generó inflación."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Una suma de hechos idénticos que no presentan ninguna contradicción.",
           "is_correct": false,
           "feedback": "Contrapone el avance en infraestructura con el encarecimiento del costo de vida."
@@ -313,7 +313,7 @@
           "feedback": "Analiza el impacto macroeconómico y social de un fenómeno histórico."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La articulación contraargumentativa en la prosa expositiva sopesa los aspectos positivos y negativos de un proceso histórico.",
       "difficulty": "6",
       "images": [],
@@ -335,19 +335,19 @@
       "context": "En una tabla de datos sobre el acceso a internet en zonas rurales y urbanas de Colombia, se observa que en las ciudades el 85% tiene conectividad frente al 28% en el campo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Evidencia una profunda brecha de equidad territorial en la infraestructura de telecomunicaciones que margina a la ruralidad.",
           "is_correct": true,
           "feedback": "La disparidad del 85% frente al 28% documenta la brecha digital que limita las oportunidades educativas y económicas del campo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Prueba que las personas del campo no tienen interés en utilizar computadores.",
           "is_correct": false,
           "feedback": "Atribuye erróneamente la falta de acceso a desinterés, ignorando la escasez de infraestructura."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Demuestra que el acceso a internet es idéntico en todo el territorio nacional.",
           "is_correct": false,
           "feedback": "Las cifras muestran una evidente y dramática desigualdad entre la ciudad y el campo."
@@ -359,7 +359,7 @@
           "feedback": "Diagnostica la brecha territorial para orientar políticas públicas de inversión."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La lectura de tablas comparativas permite extraer conclusiones sobre la equidad y el impacto de las políticas de infraestructura pública.",
       "difficulty": "6",
       "images": [],
@@ -473,13 +473,13 @@
       "context": "En un editorial sobre la reforma a la salud: \"No se puede construir un sistema equitativo sobre las ruinas de la sostenibilidad financiera; la pasión ideológica no debe reemplazar al cálculo actuarial\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Sostiene que las reformas sociales deben conciliar los ideales de justicia con el rigor técnico y la viabilidad presupuestal.",
           "is_correct": true,
           "feedback": "El editorialista argumenta que los grandes fines de equidad fracasan si no cuentan con un sustento financiero sólido que los sostenga."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Exige el cierre de todos los hospitales públicos para privatizar el servicio de salud.",
           "is_correct": false,
           "feedback": "Defiende la viabilidad financiera del sistema, no la clausura de la red de salud."
@@ -497,7 +497,7 @@
           "feedback": "Aborda la tensión entre ideología y viabilidad en el diseño de servicios públicos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El editorial argumentativo pondera la necesidad de respaldar los objetivos de equidad con análisis técnico de sostenibilidad.",
       "difficulty": "8",
       "images": [],
@@ -519,13 +519,13 @@
       "context": "En la etiqueta de información nutricional de una bebida azucarada, se incluye un sello negro octogonal que advierte: \"ALTO EN AZÚCARES / EXCESO DE CALORÍAS\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Garantizar el derecho a la información clara e inmediata del consumidor para que tome decisiones conscientes sobre su salud.",
           "is_correct": true,
           "feedback": "El sello octogonal simplifica la información técnica del reverso, advirtiendo de un vistazo sobre los ingredientes críticos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Prohibir la venta de alimentos procesados en los supermercados del país.",
           "is_correct": false,
           "feedback": "No prohíbe el producto sino que exige transparencia sobre los excesos de ingredientes."
@@ -543,7 +543,7 @@
           "feedback": "Advierte sobre el perfil nutricional del contenido y sus riesgos para la salud."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El etiquetado frontal de advertencia utiliza un código gráfico directo para garantizar la transparencia informativa y proteger la salud.",
       "difficulty": "8",
       "images": [],
@@ -611,19 +611,19 @@
       "context": "En un grafiti pintado en un muro cerca a una sede universitaria: \"Nos quitaron tanto que terminaron quitándonos el miedo\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Expresa que la acumulación de injusticias y despojos genera un punto de quiebre donde la dignidad supera al pavor de la represión.",
           "is_correct": true,
           "feedback": "La frase condensa la paradoja de la resistencia: la pérdida extrema de oportunidades transforma la resignación en audacia comunitaria."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Demuestra que los estudiantes universitarios no tenían miedo a los exámenes finales de semestre.",
           "is_correct": false,
           "feedback": "La consigna alude a la lucha por derechos, dignidad y contra la represión social."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Una recomendación de seguridad para evitar robos en los autobuses de la ciudad.",
           "is_correct": false,
           "feedback": "Es una potente afirmación de resistencia e identidad de la juventud indignada."
@@ -635,7 +635,7 @@
           "feedback": "Nace del lenguaje sintético, combativo e icónico de la protesta urbana en el muro."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El grafiti urbano sintetiza con contundencia la paradoja de la dignidad: cuando el despojo es extremo, la indignación vence al temor.",
       "difficulty": "8",
       "images": [],
@@ -657,19 +657,19 @@
       "context": "En el *abstract* o resumen de una investigación científica sobre la deforestación en el Chocó biogeográfico: \"Se analizaron imágenes satelitales de 2010 a 2023. Se concluye que la minería ilegal causó la pérdida de 45.000 hectáreas de bosque primario\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Exposición concisa y objetiva de la metodología aplicada, el periodo de estudio y el hallazgo principal sin adjetivaciones emotivas.",
           "is_correct": true,
           "feedback": "El *abstract* científico exige concisión, voz impersonal y datos verificables que resumen la contribución del trabajo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Un relato de ficción maravillosa donde los árboles conversan con los ingenieros.",
           "is_correct": false,
           "feedback": "Mantiene la sobriedad, la voz impersonal y la precisión cuantitativa del informe académico."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Una columna de opinión que exige el voto por un partido político determinado.",
           "is_correct": false,
           "feedback": "Se enmarca en la divulgación científica neutral y la evidencia empírica."
@@ -681,7 +681,7 @@
           "feedback": "Presenta datos empíricos de monitoreo satelital para el análisis técnico."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El resumen de investigación se organiza con rigurosa concisión sintáctica para comunicar la metodología y los hallazgos verificables.",
       "difficulty": "8",
       "images": [],
@@ -887,13 +887,13 @@
       "context": "Al evaluar la importancia del dominio de las tipologías textuales para la prueba Saber 11, un experto afirma: \"El ciudadano del siglo XXI no solo lee párrafos; debe aprender a leer gráficos, caricaturas, contratos e infografías con la misma agudeza crítica\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La diversidad de formatos de la sociedad de la información exige competencias múltiples para descodificar tanto el discurso escrito como los lenguajes icónicos y estadísticos.",
           "is_correct": true,
           "feedback": "El entorno moderno está saturado de imágenes, gráficos y datos; la lectura crítica debe formar ciudadanos capaces de descifrar todos los códigos de la vida social."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Sostiene que los libros impresos en papel deben ser destruidos para leer únicamente caricaturas.",
           "is_correct": false,
           "feedback": "Defiende la complementariedad entre los textos continuos e icónicos para una alfabetización integral."
@@ -911,7 +911,7 @@
           "feedback": "Exige agudeza crítica tanto en la prosa tradicional como en los formatos discontinuos visuales."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El dominio de tipologías textuales continuas y discontinuas prepara para una ciudadanía consciente capaz de interpretar la complejidad de la información contemporánea.",
       "difficulty": "10",
       "images": [],

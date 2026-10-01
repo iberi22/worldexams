@@ -109,13 +109,13 @@
           "feedback": "Incorrecto. Esta estructura corresponde al género narrativo literario."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Presentación de una problemática o concepto, desarrollo explicativo mediante subtemas y síntesis final.",
           "is_correct": true,
           "feedback": "Correcto. Es la estructura clásica (introducción, desarrollo, conclusión) orientada a la explicación."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Exordio oratorio, planteamiento de tesis, cuerpo de refutaciones y epílogo persuasivo.",
           "is_correct": false,
           "feedback": "Incorrecto. Esta es la estructura argumentativa clásica."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. Es propio de manuales de uso y textos jurídicos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La macroestructura expositiva organiza el saber partiendo de una introducción conceptual, seguida de un desglose explicativo y una síntesis.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -199,13 +199,13 @@
           "feedback": "Incorrecto. Utiliza la primera persona del plural, perdiendo objetividad."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Yo vi que las aguas residuales se limpian en lagunas de estabilización.",
           "is_correct": false,
           "feedback": "Incorrecto. El pronombre de primera persona singular 'yo' introduce un tono subjetivo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Se procesa el caudal recolectado mediante un sistema de filtros biológicos de alta eficiencia.",
           "is_correct": true,
           "feedback": "Correcto. El uso de la pasiva refleja ('Se procesa') anula la presencia del sujeto individual, favoreciendo la impersonalidad."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. Utiliza un tono apelativo y emocional de primera persona plural."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Las construcciones impersonales y de pasiva refleja son recursos clave en los textos expositivos para centrar la atención en el proceso y no en el agente.\n\n---",
       "difficulty": "5",
       "images": [],
@@ -250,19 +250,19 @@
           "feedback": "Incorrecto. No compara la General Cañas con otras carreteras regionales."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Ordenación de causa y efecto.",
           "is_correct": true,
           "feedback": "Correcto. Identifica los factores desencadenantes (lluvia, exceso de peso) y su consecuencia directa (deterioro vial)."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Ordenación jerárquica de cargos políticos municipales.",
           "is_correct": false,
           "feedback": "Incorrecto. No clasifica la importancia de funcionarios viales costarricenses."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La estructura de causa-efecto se enfoca en exponer las razones que originan un fenómeno determinado y los efectos resultantes observables.\n\n---",
       "difficulty": "5",
       "images": [],
@@ -379,25 +379,25 @@
           "feedback": "Incorrecto. Es un relato vivencial anecdótico y en primera persona."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "El mono cariblanco (Cebus capucinus) es un primate omnívoro nativo de América Central, caracterizado por su pelaje blanco alrededor del rostro.",
           "is_correct": true,
           "feedback": "Correcto. Adopta una descripción biológica objetiva, rigurosa y en tercera persona con vocabulario denotativo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Qué maravillosos son los animalitos que saltan alegres de rama en rama en nuestro amado parque nacional.",
           "is_correct": false,
           "feedback": "Incorrecto. Expresa emociones personales y utiliza diminutivos afectivos coloquiales."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "¡Ojalá todos los turistas respeten a los monos de Manuel Antonio cuando visiten el país!",
           "is_correct": false,
           "feedback": "Incorrecto. Es una oración desiderativa y exclamativa, no expositiva."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La reescritura expositiva requiere eliminar la perspectiva subjetiva, los juicios de valor y las anécdotas personales para enfocarse en descripciones de forma objetiva.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -418,13 +418,13 @@
       "context": "Durante una investigación escolar en Alajuela, se analiza un folleto expositivo sobre el ciclo de vida del sapo dorado de Monteverde.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Ofrecer una lista de agradecimientos a las autoridades del MEP.",
           "is_correct": false,
           "feedback": "Incorrecto. Eso corresponde a la sección de agradecimientos o dedicatoria."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Definir términos especializados o tecnicismos poco comunes utilizados en el cuerpo de la exposición.",
           "is_correct": true,
           "feedback": "Correcto. Permite aclarar el significado preciso de los vocablos para facilitar la comprensión del lector general."
@@ -442,7 +442,7 @@
           "feedback": "Incorrecto. Corresponde al índice general o bibliografía del autor."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El glosario proporciona definiciones exactas de conceptos técnicos de la materia tratada, apoyando la asimilación conceptual del texto.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -463,19 +463,19 @@
       "context": "Lea detenidamente el siguiente fragmento de un artículo de divulgación científica:\n\n'El cambio climático ha elevado la temperatura superficial del mar en el Golfo de Nicoya. Este calentamiento altera el metabolismo de las especies marinas locales, reduciendo la disponibilidad de oxígeno e impactando severamente la pesca artesanal de las comunidades de Puntarenas.'",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Presentación de una causa global, descripción del mecanismo biológico intermedio y exposición de las consecuencias socioeconómicas locales.",
           "is_correct": true,
           "feedback": "Correcto. El texto va de la causa (cambio climático/temperatura) al mecanismo biológico (metabolismo/oxígeno) y concluye con las consecuencias socioeconómicas (pesca artesanal de Puntarenas)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Comparación exhaustiva entre los ecosistemas acuáticos del Golfo de Nicoya y los del Caribe limonense.",
           "is_correct": false,
           "feedback": "Incorrecto. No se realiza ninguna comparación con el Caribe en el fragmento."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Exposición cronológica de las regulaciones de pesca vigentes en Costa Rica desde el siglo pasado.",
           "is_correct": false,
           "feedback": "Incorrecto. El texto describe una relación ecológica física y económica actual, no leyes históricas."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto. Es un texto científico de divulgación objetiva, no un manifiesto político argumentativo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La lógica interna progresa de forma descendente, enlazando una causa físico-química de gran escala con efectos biológicos y repercusiones productivas humanas locales.\n\n---",
       "difficulty": "7",
       "images": [],
@@ -508,13 +508,13 @@
       "context": "Considere el siguiente fragmento de un informe escolar sobre hidroelectricidad en Costa Rica:\n\n'El Complejo Hidroeléctrico Arenal genera una parte importante de la electricidad del país. A diferencia de las plantas térmicas, la generación hidroeléctrica no quema combustibles fósiles, reduciendo sustancialmente la emisión de dióxido de carbono al ambiente.'",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La definición etimológica de la palabra 'hidroelectricidad' según la Real Academia.",
           "is_correct": false,
           "feedback": "Incorrecto. No se hace mención del origen de la palabra ni de diccionarios."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La oposición o contraste directo con un sistema alternativo de generación energética.",
           "is_correct": true,
           "feedback": "Correcto. Contrasta la energía hidroeléctrica con las 'plantas térmicas' para resaltar los beneficios ecológicos de la primera."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. El fragmento mantiene un tono expositivo objetivo e impersonal sin metáforas poéticas."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El contraste con sistemas térmicos permite clarificar los atributos singulares y positivos del objeto de estudio de forma comparativa.\n\n---",
       "difficulty": "7",
       "images": [],
@@ -559,13 +559,13 @@
           "feedback": "Incorrecto. La infografía apoya la veracidad del texto escrito, no lo contradice."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "El plano cumple una función complementaria e ilustrativa, facilitando la visualización espacial de los elementos técnicos explicados.",
           "is_correct": true,
           "feedback": "Correcto. Las imágenes técnicas y esquemas son complementos informativos vitales que asisten a la explicación verbal."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El plano sustituye por completo la necesidad de leer el texto descriptivo.",
           "is_correct": false,
           "feedback": "Incorrecto. El plano requiere de la explicación textual para contextualizar sus datos."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. Posee un alto valor informativo al detallar espacialmente la estructura arquitectónica."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La combinación de recursos visuales e información textual escrita optimiza la transmisión del saber descriptivo y técnico en la tipología expositiva.\n\n---",
       "difficulty": "7",
       "images": [],
@@ -694,25 +694,25 @@
           "feedback": "Incorrecto. Las leyendas aportan valor folclórico, no rigor expositivo o científico."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "La correlación causal clara y lógica entre la ubicación geográfica de la GAM y el vertido directo de residuos en la cuenca.",
           "is_correct": true,
           "feedback": "Correcto. Explica la contaminación mediante una relación física y demográfica comprobable (causa y efecto)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La opinión personal expresada por un grupo de pescadores artesanales en sus redes de Puntarenas.",
           "is_correct": false,
           "feedback": "Incorrecto. Las opiniones personales informales en redes sociales no constituyen criterios de validez científica formal."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La redacción del párrafo utilizando figuras literarias complejas como el hipérbaton.",
           "is_correct": false,
           "feedback": "Incorrecto. La ornamentación literaria dificulta el propósito expositivo de claridad y precisión de la información."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La validez científica de un texto expositivo se sustenta en explicaciones lógicas de causalidad física respaldadas por la geografía y la ecología observables.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -739,13 +739,13 @@
           "feedback": "Incorrecto. No propone abolir el café, explica el origen de los fondos de construcción del teatro."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Proporciona una descripción estética de la fachada de mármol del edificio.",
           "is_correct": false,
           "feedback": "Incorrecto. Explica un proceso de financiamiento socioeconómico, no un rasgo físico estético."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Explica la estrecha relación de interdependencia económica entre el desarrollo agrícola cafetalero y el fomento de la infraestructura cultural nacional.",
           "is_correct": true,
           "feedback": "Correcto. Provee un contexto histórico explicativo fundamental para comprender cómo se gestó la obra arquitectónica."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. Se circunscribe a datos del siglo XIX and no emite juicios de valor sobre presupuestos contemporáneos."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "El enunciado enriquece el texto expositivo al proveer una explicación causal socioeconómica que ayuda a entender los factores históricos de un hito cultural costarricense.\n\n---",
       "difficulty": "9",
       "images": [],
@@ -784,25 +784,25 @@
           "feedback": "Incorrecto. Las monografías técnicas no tienen la obligación de proponer reformas salariales de cañeros."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Romper de forma abrupta el registro objetivo e impersonal del trabajo académico introduciendo vivencias subjetivas, anécdotas infantiles y juicios personales de agrado.",
           "is_correct": true,
           "feedback": "Correcto. La irrupción de la primera persona singular ('me recuerda') y recuerdos nostálgicos anula la objetividad académica requerida en una monografía."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "No citar textualmente leyes vigentes de la Liga Agrícola Industrial de la Caña.",
           "is_correct": false,
           "feedback": "Incorrecto. No es estrictamente obligatorio citar leyes específicas en una frase de síntesis técnica general."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La mención de San Carlos, puesto que la monografía se enfocaba únicamente en Guanacaste.",
           "is_correct": false,
           "feedback": "Incorrecto. Aunque es un cambio regional, la falla metodológica fundamental es el cambio de un tono objetivo a uno subjetivo de agrado."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La conclusión de un escrito expositivo formal debe condensar de forma objetiva los hallazgos principales, evitando digresiones personales que anulen el rigor científico.\n\n---",
       "difficulty": "9",
       "images": [],
@@ -829,13 +829,13 @@
           "feedback": "Incorrecto. No se utilizan para decoraciones líricas o poéticas ajenas a la ciencia."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Aportar aclaraciones marginales, precisar fuentes bibliográficas o ampliar información secundaria sin interrumpir la fluidez del texto principal.",
           "is_correct": true,
           "feedback": "Correcto. Es la función académica del aparato de notas al pie."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Enumerar los nombres de los estudiantes reprobados en el curso.",
           "is_correct": false,
           "feedback": "Incorrecto. Su función es puramente informativa sobre las fuentes académicas citadas."
@@ -847,7 +847,7 @@
           "feedback": "Incorrecto. Las conclusiones constituyen un apartado autónomo e indispensable al final del trabajo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Las notas al pie de página sirven para documentar la procedencia de los datos o desarrollar digresiones explicativas colaterales de valor informativo.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -874,25 +874,25 @@
           "feedback": "Incorrecto. Pueden redactarse perfectamente en español costarricense u otros idiomas oficiales."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "La adaptación de conceptos y terminología compleja a un lenguaje accesible, claro y didáctico para un público receptor no experto.",
           "is_correct": true,
           "feedback": "Correcto. La divulgación tiende puentes comunicativos simplificando el lenguaje sin perder rigor de la información."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El uso exclusivo de un lenguaje cifrado comprensible únicamente por científicos de universidades.",
           "is_correct": false,
           "feedback": "Incorrecto. Esto describiría un artículo especializado cerrado de investigación, no un texto divulgativo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La ausencia total de datos fácticos o explicaciones lógicas sobre la naturaleza del país.",
           "is_correct": false,
           "feedback": "Incorrecto. El texto divulgativo está repleto de explicaciones y datos, aunque presentados de manera didáctica."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La divulgación científica persigue democratizar el conocimiento adaptando tecnicismos y estructuras conceptuales complejas para que resulten asequibles a la población general.",
       "difficulty": "10",
       "images": [],

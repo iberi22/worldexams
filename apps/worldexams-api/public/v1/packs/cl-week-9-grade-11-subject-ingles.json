@@ -19,13 +19,13 @@
           "feedback": "Incorrect. A sketch is a rough drawing."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "masterpiece",
           "is_correct": true,
           "feedback": "Correct. A masterpiece is an artist's best or most famous work."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "forgery",
           "is_correct": false,
           "feedback": "Incorrect. A forgery is a fake copy."
@@ -37,7 +37,7 @@
           "feedback": "Incorrect. A draft is a preliminary version."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "'Masterpiece' is the term for a work of art that is considered to be of the highest quality.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -199,13 +199,13 @@
           "feedback": "Incorrect. Focuses on price."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "aesthetic",
           "is_correct": true,
           "feedback": "Correct. Aesthetic means concerned with beauty or the appreciation of beauty."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "functional",
           "is_correct": false,
           "feedback": "Incorrect. Functional means having a practical use."
@@ -217,7 +217,7 @@
           "feedback": "Incorrect. Focuses on science."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "'Aesthetic' refers to the philosophical study of beauty and taste, often contrasted with practical or social utility.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -283,13 +283,13 @@
       "context": "Describing a gallery opening.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "is holding",
           "is_correct": false,
           "feedback": "Incorrect. Active voice."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "is being held",
           "is_correct": true,
           "feedback": "Correct. Present continuous passive for an ongoing event."
@@ -307,7 +307,7 @@
           "feedback": "Incorrect. Present simple."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "The present continuous passive 'is being held' describes an event that is currently happening or scheduled.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -334,13 +334,13 @@
           "feedback": "Incorrect. Appreciation involves respect and understanding."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "appropriation",
           "is_correct": true,
           "feedback": "Correct. Appropriation is taking something for one's own use, typically without permission."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "integration",
           "is_correct": false,
           "feedback": "Incorrect. Integration is the blending of cultures."
@@ -352,7 +352,7 @@
           "feedback": "Incorrect. Preservation is keeping something alive."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "'Cultural appropriation' is the specific term for the often controversial adoption of cultural elements.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -373,19 +373,19 @@
       "context": "Describing a past artistic movement.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "gains",
           "is_correct": false,
           "feedback": "Incorrect. Present tense."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "has gained",
           "is_correct": false,
           "feedback": "Incorrect. Present perfect."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "had gained",
           "is_correct": true,
           "feedback": "Correct. Past perfect for an action before another past point."
@@ -397,7 +397,7 @@
           "feedback": "Incorrect. Future tense."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "The past perfect establishes that the movement was already popular before the artist started.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -469,13 +469,13 @@
           "feedback": "Incorrect. Written by the person themselves."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "biography",
           "is_correct": true,
           "feedback": "Correct. Written by someone else."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "fiction",
           "is_correct": false,
           "feedback": "Incorrect. Refers to imaginary stories."
@@ -487,7 +487,7 @@
           "feedback": "Incorrect. A collection of works."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "'Biography' is the standard term for a life story written by a third party.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -514,13 +514,13 @@
           "feedback": "Incorrect. 'Forbidden from' is followed by -ing."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "from taking",
           "is_correct": true,
           "feedback": "Correct. 'Forbidden from + gerund' is a standard structure."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "take",
           "is_correct": false,
           "feedback": "Incorrect. Base form."
@@ -532,7 +532,7 @@
           "feedback": "Incorrect. Wrong preposition."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "The verb 'forbid' followed by 'from' requires the gerund form of the following verb.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -553,31 +553,31 @@
       "context": "Discussing cultural diversity.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "diverse",
           "is_correct": true,
           "feedback": "Correct. Diverse means showing a great deal of variety."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "uniform",
           "is_correct": false,
           "feedback": "Incorrect. Uniform means all the same."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "isolated",
           "is_correct": false,
           "feedback": "Incorrect. Isolated means separate."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "traditional",
           "is_correct": false,
           "feedback": "Incorrect. Traditional focuses on the past, not necessarily variety."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "'Diverse' is the appropriate adjective for a society with many different cultural backgrounds.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -598,13 +598,13 @@
       "context": "Conditional about artistic freedom.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "are",
           "is_correct": false,
           "feedback": "Incorrect. First conditional."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "were",
           "is_correct": true,
           "feedback": "Correct. Second conditional for a hypothetical state."
@@ -622,7 +622,7 @@
           "feedback": "Incorrect. Third conditional."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "The second conditional 'if + were' is used to discuss the hypothetical result of restricted expression.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -649,25 +649,25 @@
           "feedback": "Incorrect. It may be complex, but 'accessible' suggests a different positive result."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "democratized",
           "is_correct": true,
           "feedback": "Correct. To democratize means to make something accessible to everyone."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "restricted",
           "is_correct": false,
           "feedback": "Incorrect. The text says it's 'more accessible'."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "ignored",
           "is_correct": false,
           "feedback": "Incorrect. Technology is the subject."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "'Democratized' describes the process of making art available to a broader range of people through technology.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -778,13 +778,13 @@
       "context": "Text about traditional crafts.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "sold",
           "is_correct": false,
           "feedback": "Incorrect. While they are sold, the focus is on 'generation to generation'."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "passed down",
           "is_correct": true,
           "feedback": "Correct. To pass down means to transmit to descendants."
@@ -802,7 +802,7 @@
           "feedback": "Incorrect. Refers to factory production."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "'Passed down' is the phrasal verb used for transmitting traditions or skills through family or community.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -829,25 +829,25 @@
           "feedback": "Incorrect. Doesn't match 'remarked'."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "was",
           "is_correct": true,
           "feedback": "Correct. Backshifting from 'is' to 'was' in reported speech."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "has been",
           "is_correct": false,
           "feedback": "Incorrect. Present perfect."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "will be",
           "is_correct": false,
           "feedback": "Incorrect. Future tense."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "In reported speech, we backshift tenses: the original statement 'The film is...' becomes '...remarked that the film was...'.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -868,31 +868,31 @@
       "context": "Final thought on cultural exchange.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "stereotypes",
           "is_correct": true,
           "feedback": "Correct. Stereotypes are oversimplified images or ideas of a type of person or thing."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "facts",
           "is_correct": false,
           "feedback": "Incorrect. It doesn't challenge facts."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "languages",
           "is_correct": false,
           "feedback": "Incorrect. It might use languages but doesn't necessarily 'challenge' them."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "similarities",
           "is_correct": false,
           "feedback": "Incorrect. It highlights similarities but challenges differences/prejudices."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "'Stereotypes' are the biased preconceptions that cultural exchange helps to break down.",
       "difficulty": "10",
       "images": [],

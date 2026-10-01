@@ -58,31 +58,31 @@
       "context": "Biología Celular, ADN y Síntesis de Proteínas - Caso N° 2.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Constituye un principio fundamental de Biología Celular y Molecular que explica el comportamiento del sistema según las leyes de la naturaleza.",
           "is_correct": true,
           "feedback": "Correcto. La definición de $Estructura del ADN$ corresponde con los principios teóricos de Biología Celular y Molecular."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Representa un fenómeno aislado sin relación con las leyes de conservación en Biología.",
           "is_correct": false,
           "feedback": "Incorrecto. El concepto de $Estructura del ADN$ está íntimamente ligado a las leyes de Biología."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Es una magnitud exclusivamente teórica que no se puede medir experimentalmente en el laboratorio.",
           "is_correct": false,
           "feedback": "Incorrecto. Es una propiedad medible y verificable."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Corresponde únicamente a procesos ocurridos a altas temperaturas fuera del MKS.",
           "is_correct": false,
           "feedback": "Incorrecto. Se aplica de forma general bajo condiciones estándar MKS."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El estudio de Estructura del ADN es clave para comprender los fundamentos teóricos y prácticos de Biología Celular y Molecular.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -103,13 +103,13 @@
       "context": "Biología Celular, ADN y Síntesis de Proteínas - Caso N° 3.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El sistema responde de forma proporcional a las variables involucradas manteniendo la consistencia teórica de $Replicación del ADN$.",
           "is_correct": true,
           "feedback": "Correcto. La respuesta del sistema refleja la ley física/química de $Replicación del ADN$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El sistema permanece completamente inerte sin registrar variación alguna.",
           "is_correct": false,
           "feedback": "Incorrecto. Las variables se modifican según las ecuaciones del modelo."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. El fenómeno sigue un patrón determinista bien definido."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Las observaciones experimentales confirman las predicciones del modelo teórico de Replicación del ADN.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,19 +148,19 @@
       "context": "Biología Celular, ADN y Síntesis de Proteínas - Caso N° 4.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "El sistema responde de forma proporcional a las variables involucradas manteniendo la consistencia teórica de $Transcripción a ARN$.",
           "is_correct": true,
           "feedback": "Correcto. La respuesta del sistema refleja la ley física/química de $Transcripción a ARN$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El sistema permanece completamente inerte sin registrar variación alguna.",
           "is_correct": false,
           "feedback": "Incorrecto. Las variables se modifican según las ecuaciones del modelo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Se produce una pérdida total de masa violando las leyes de conservación.",
           "is_correct": false,
           "feedback": "Incorrecto. Las leyes de conservación se cumplen siempre."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. El fenómeno sigue un patrón determinista bien definido."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Las observaciones experimentales confirman las predicciones del modelo teórico de Transcripción a ARN.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -193,19 +193,19 @@
       "context": "Biología Celular, ADN y Síntesis de Proteínas - Caso N° 5.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Se aplica la ecuación correspondiente a $Traducción y Código Genético$, donde las magnitudes se relacionan de forma directa o inversamente proporcional según la ley de Biología.",
           "is_correct": true,
           "feedback": "Correcto. Refleja la formulación correcta para $Traducción y Código Genético$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Se suman de forma arbitraria todas las variables sin considerar sus unidades de medida.",
           "is_correct": false,
           "feedback": "Incorrecto. Las unidades deben ser consistentes en el sistema SI."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Se ignora la influencia de las condiciones iniciales del experimento.",
           "is_correct": false,
           "feedback": "Incorrecto. Las condiciones iniciales determinan la solución del sistema."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. Las constantes del sistema tienen valores finitos y definidos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La aplicación cuantitativa de Traducción y Código Genético requiere el uso riguroso de las ecuaciones de Biología Celular y Molecular.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -238,13 +238,13 @@
       "context": "Biología Celular, ADN y Síntesis de Proteínas - Caso N° 6.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Se aplica la ecuación correspondiente a $Estructura Celular$, donde las magnitudes se relacionan de forma directa o inversamente proporcional según la ley de Biología.",
           "is_correct": true,
           "feedback": "Correcto. Refleja la formulación correcta para $Estructura Celular$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Se suman de forma arbitraria todas las variables sin considerar sus unidades de medida.",
           "is_correct": false,
           "feedback": "Incorrecto. Las unidades deben ser consistentes en el sistema SI."
@@ -262,7 +262,7 @@
           "feedback": "Incorrecto. Las constantes del sistema tienen valores finitos y definidos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La aplicación cuantitativa de Estructura Celular requiere el uso riguroso de las ecuaciones de Biología Celular y Molecular.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -283,19 +283,19 @@
       "context": "Biología Celular, ADN y Síntesis de Proteínas - Caso N° 7.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Se aplica la ecuación correspondiente a $Estructura del ADN$, donde las magnitudes se relacionan de forma directa o inversamente proporcional según la ley de Biología.",
           "is_correct": true,
           "feedback": "Correcto. Refleja la formulación correcta para $Estructura del ADN$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Se suman de forma arbitraria todas las variables sin considerar sus unidades de medida.",
           "is_correct": false,
           "feedback": "Incorrecto. Las unidades deben ser consistentes en el sistema SI."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Se ignora la influencia de las condiciones iniciales del experimento.",
           "is_correct": false,
           "feedback": "Incorrecto. Las condiciones iniciales determinan la solución del sistema."
@@ -307,7 +307,7 @@
           "feedback": "Incorrecto. Las constantes del sistema tienen valores finitos y definidos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La aplicación cuantitativa de Estructura del ADN requiere el uso riguroso de las ecuaciones de Biología Celular y Molecular.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -418,19 +418,19 @@
       "context": "Biología Celular, ADN y Síntesis de Proteínas - Caso N° 10.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Se aplica la ecuación correspondiente a $Traducción y Código Genético$, donde las magnitudes se relacionan de forma directa o inversamente proporcional según la ley de Biología.",
           "is_correct": true,
           "feedback": "Correcto. Refleja la formulación correcta para $Traducción y Código Genético$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Se suman de forma arbitraria todas las variables sin considerar sus unidades de medida.",
           "is_correct": false,
           "feedback": "Incorrecto. Las unidades deben ser consistentes en el sistema SI."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Se ignora la influencia de las condiciones iniciales del experimento.",
           "is_correct": false,
           "feedback": "Incorrecto. Las condiciones iniciales determinan la solución del sistema."
@@ -442,7 +442,7 @@
           "feedback": "Incorrecto. Las constantes del sistema tienen valores finitos y definidos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La aplicación cuantitativa de Traducción y Código Genético requiere el uso riguroso de las ecuaciones de Biología Celular y Molecular.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -508,13 +508,13 @@
       "context": "Biología Celular, ADN y Síntesis de Proteínas - Caso N° 12.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El cambio en las variables modifica el estado final según las restricciones impuestas por $Estructura del ADN$ y las leyes de Biología.",
           "is_correct": true,
           "feedback": "Correcto. El análisis deductivo confirma el impacto directo sobre el estado final."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El estado final es independiente de cualquier cambio realizado en el estado inicial.",
           "is_correct": false,
           "feedback": "Incorrecto. Existe una dependencia funcional entre las condiciones iniciales y finales."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. No se puede crear masa ni energía de la nada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El análisis analítico de Estructura del ADN demuestra la coherencia interna de los modelos en Biología Celular y Molecular.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -553,19 +553,19 @@
       "context": "Biología Celular, ADN y Síntesis de Proteínas - Caso N° 13.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "El cambio en las variables modifica el estado final según las restricciones impuestas por $Replicación del ADN$ y las leyes de Biología.",
           "is_correct": true,
           "feedback": "Correcto. El análisis deductivo confirma el impacto directo sobre el estado final."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El estado final es independiente de cualquier cambio realizado en el estado inicial.",
           "is_correct": false,
           "feedback": "Incorrecto. Existe una dependencia funcional entre las condiciones iniciales y finales."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Se rompe el equilibrio del sistema de forma irreversible sin posibilidad de balance.",
           "is_correct": false,
           "feedback": "Incorrecto. El balance se mantiene bajo las leyes de conservación."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. No se puede crear masa ni energía de la nada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El análisis analítico de Replicación del ADN demuestra la coherencia interna de los modelos en Biología Celular y Molecular.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -688,19 +688,19 @@
       "context": "Biología Celular, ADN y Síntesis de Proteínas - Caso N° 16.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "El cambio en las variables modifica el estado final según las restricciones impuestas por $Estructura Celular$ y las leyes de Biología.",
           "is_correct": true,
           "feedback": "Correcto. El análisis deductivo confirma el impacto directo sobre el estado final."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El estado final es independiente de cualquier cambio realizado en el estado inicial.",
           "is_correct": false,
           "feedback": "Incorrecto. Existe una dependencia funcional entre las condiciones iniciales y finales."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Se rompe el equilibrio del sistema de forma irreversible sin posibilidad de balance.",
           "is_correct": false,
           "feedback": "Incorrecto. El balance se mantiene bajo las leyes de conservación."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. No se puede crear masa ni energía de la nada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El análisis analítico de Estructura Celular demuestra la coherencia interna de los modelos en Biología Celular y Molecular.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -778,13 +778,13 @@
       "context": "Biología Celular, ADN y Síntesis de Proteínas - Caso N° 18.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El modelo es válido porque respeta estrictamente los principios de conservación y las relaciones cuantitativas de $Replicación del ADN$.",
           "is_correct": true,
           "feedback": "Correcto. La evaluación fundamentada confirma la solidez del modelo para $Replicación del ADN$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El modelo es inválido porque invalida las leyes universales de la termodinámica y la masa.",
           "is_correct": false,
           "feedback": "Incorrecto. El modelo propuesto cumple con los principios universales de la ciencia."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. El modelo respeta el límite físico del 100% de eficiencia."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La evaluación crítica de modelos en Biología Celular y Molecular exige verificar el cumplimiento de los límites teóricos de Replicación del ADN.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -823,19 +823,19 @@
       "context": "Biología Celular, ADN y Síntesis de Proteínas - Caso N° 19.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "El modelo es válido porque respeta estrictamente los principios de conservación y las relaciones cuantitativas de $Transcripción a ARN$.",
           "is_correct": true,
           "feedback": "Correcto. La evaluación fundamentada confirma la solidez del modelo para $Transcripción a ARN$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El modelo es inválido porque invalida las leyes universales de la termodinámica y la masa.",
           "is_correct": false,
           "feedback": "Incorrecto. El modelo propuesto cumple con los principios universales de la ciencia."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El modelo sólo funciona si se desestiman las unidades del Sistema Internacional.",
           "is_correct": false,
           "feedback": "Incorrecto. Debe operar de forma consistente en el Sistema Internacional."
@@ -847,7 +847,7 @@
           "feedback": "Incorrecto. El modelo respeta el límite físico del 100% de eficiencia."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La evaluación crítica de modelos en Biología Celular y Molecular exige verificar el cumplimiento de los límites teóricos de Transcripción a ARN.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -868,13 +868,13 @@
       "context": "Biología Celular, ADN y Síntesis de Proteínas - Caso N° 20.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El modelo es válido porque respeta estrictamente los principios de conservación y las relaciones cuantitativas de $Traducción y Código Genético$.",
           "is_correct": true,
           "feedback": "Correcto. La evaluación fundamentada confirma la solidez del modelo para $Traducción y Código Genético$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El modelo es inválido porque invalida las leyes universales de la termodinámica y la masa.",
           "is_correct": false,
           "feedback": "Incorrecto. El modelo propuesto cumple con los principios universales de la ciencia."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. El modelo respeta el límite físico del 100% de eficiencia."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La evaluación crítica de modelos en Biología Celular y Molecular exige verificar el cumplimiento de los límites teóricos de Traducción y Código Genético.\n\n---",
       "difficulty": "10",
       "images": [],

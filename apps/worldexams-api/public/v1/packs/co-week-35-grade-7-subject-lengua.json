@@ -19,13 +19,13 @@
           "feedback": "Se refiere a libros impresos, no a la transmisión oral."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Oratura o tradición oral.",
           "is_correct": true,
           "feedback": "La oratura es el término que reconoce el valor literario y cultural de la palabra hablada en los pueblos indígenas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Literatura de ciencia ficción.",
           "is_correct": false,
           "feedback": "Las historias indígenas son cosmovisiones y mitos, no ficciones tecnológicas."
@@ -37,7 +37,7 @@
           "feedback": "La métrica y rima europeas son distintas a los ritmos de la oratura indígena."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Para los pueblos indígenas, la palabra es sagrada y tiene el poder de crear realidad. La oratura es el vehículo principal para mantener viva la memoria, las leyes de origen y el conocimiento ancestral sobre la naturaleza.",
       "difficulty": "4",
       "images": [],
@@ -105,13 +105,13 @@
       "context": "Lee el siguiente fragmento de un canto Wayúu de La Guajira: \"La tierra es nuestra madre, / ella nos da el agua que es su leche, / si herimos la tierra, herimos nuestro propio cuerpo\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El ser humano es el dueño y señor de la naturaleza para explotarla.",
           "is_correct": false,
           "feedback": "El texto sugiere una relación de parentesco y cuidado, no de explotación."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El ser humano y la naturaleza son un solo cuerpo interconectado.",
           "is_correct": true,
           "feedback": "La metáfora de la madre y la herida compartida resalta la unidad indisoluble entre la gente y su territorio."
@@ -129,7 +129,7 @@
           "feedback": "Se le da el carácter de \"madre\", dotándola de vida y sacralidad."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La literatura indígena colombiana propone una visión biocéntrica del mundo, donde el ser humano no está por encima de la naturaleza, sino que es parte integral de ella en una relación de reciprocidad.",
       "difficulty": "6",
       "images": [],
@@ -163,19 +163,19 @@
           "feedback": "El bilingüismo literario busca la equidad y el respeto entre sistemas de pensamiento."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Para fortalecer su lengua propia dentro de la comunidad y, al mismo tiempo, compartir su pensamiento con el mundo exterior.",
           "is_correct": true,
           "feedback": "Es una estrategia de pervivencia cultural y diálogo intercultural."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Porque así puede vender los libros al doble de precio por tener más palabras.",
           "is_correct": false,
           "feedback": "La literatura bilingüe es un acto político y cultural, no una estrategia comercial de conteo de palabras."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La literatura indígena bilingüe es un puente entre mundos. Permite que la comunidad mantenga su lengua viva y que los no indígenas comprendan la riqueza de sus conocimientos y estéticas.",
       "difficulty": "6",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "Imagina que estás escribiendo un relato inspirado en la leyenda de El Dorado (comunidad Muisca en el Altiplano Cundiboyacense).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Centrarse en el valor monetario del oro y en cómo los exploradores pueden hacerse ricos.",
           "is_correct": false,
           "feedback": "Esto refleja la visión del colonizador, no el sentido espiritual indígena."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Centrarse en el sentido sagrado del oro como ofrenda al sol y al equilibrio de la laguna de Guatavita.",
           "is_correct": true,
           "feedback": "Para los Muiscas, el oro tenía un valor simbólico y ritual, no comercial."
@@ -221,7 +221,7 @@
           "feedback": "Es una anécdota histórica sesgada que no aborda la profundidad literaria del mito."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Escribir desde o sobre lo indígena requiere un cambio de perspectiva. Se debe entender que los objetos (como el oro) y los lugares (como las lagunas) tienen significados espirituales que van más allá de lo material.",
       "difficulty": "6",
       "images": [],
@@ -249,25 +249,25 @@
           "feedback": "Los temas mencionados apuntan a la naturaleza y lo ancestral."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "El territorio, la identidad y la memoria de los ancestros.",
           "is_correct": true,
           "feedback": "Los elementos naturales y la idea de retorno son centrales en la construcción de la identidad indígena actual."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La conquista del espacio exterior por parte de las comunidades indígenas.",
           "is_correct": false,
           "feedback": "El foco es la tierra y la raíz, no la exploración espacial."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El análisis político de las elecciones presidenciales en Colombia.",
           "is_correct": false,
           "feedback": "Aunque su poesía puede tener matices políticos, su núcleo es espiritual y territorial."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La poesía indígena contemporánea es una voz de resistencia que busca sanar la memoria y reafirmar la presencia de los pueblos en sus territorios ancestrales a través de la palabra poética.",
       "difficulty": "8",
       "images": [],
@@ -289,19 +289,19 @@
       "context": "Analiza esta frase de un sabio indígena del Vaupés: \"Cuando el último árbol sea cortado, el último río sea contaminado y el último pez sea pescado, el hombre se dará cuenta de que no puede comer dinero\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Una invitación a pescar más rápido antes de que se acaben los peces.",
           "is_correct": false,
           "feedback": "Es una interpretación literal opuesta a la advertencia del texto."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Una defensa del sistema financiero y del ahorro de dinero.",
           "is_correct": false,
           "feedback": "El texto critica precisamente la priorización del dinero sobre la vida."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Una crítica profunda a la destrucción ambiental en nombre del beneficio económico.",
           "is_correct": true,
           "feedback": "Resalta la dependencia absoluta del ser humano de los recursos naturales vivos, no de los bienes materiales."
@@ -313,7 +313,7 @@
           "feedback": "El sentido es metafórico y ético, no gastronómico."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "La literatura indígena a menudo actúa como una conciencia crítica para la sociedad occidental, señalando las contradicciones de un desarrollo que destruye la base misma de la vida.",
       "difficulty": "8",
       "images": [],
@@ -439,19 +439,19 @@
           "feedback": "La escritura es aquí una herramienta de resistencia, no de imitación."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Utilizar la escritura como un acto de resistencia política y cultural para garantizar la continuidad de su pueblo en el tiempo.",
           "is_correct": true,
           "feedback": "Escribir es luchar contra el olvido y reafirmar la identidad frente a presiones externas."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Convencer a los hijos de que se vuelvan astrónomos porque son \"hijos del sol\".",
           "is_correct": false,
           "feedback": "Es una interpretación literal y errónea del lenguaje metafórico y espiritual del poeta."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La literatura indígena actual es un ejercicio de pervivencia. Evaluar su función implica entenderla como un compromiso ético con la comunidad y el futuro, usando la palabra para sanar el pasado y proteger la identidad.\n\n[//]: # (QUALITY_REVIEW)\n| Criterio | Puntuación | Notas |\n| :--- | :---: | :--- |\n| Técnico | 30/30 | Formato v5.2 respetado. |\n| Curricular | 40/40 | Aborda temas de oratura, mitos y poesía indígena actual para grado 7. |\n| Contexto | 20/20 | Referencias a Kogui, Wayúu, Uitoto, Misak, Muisca y autores como Chicangana. |\n| Redacción | 10/10 | Enunciados claros y explicaciones pedagógicas sólidas. |\n| **Total** | **100/100** | |",
       "difficulty": "10",
       "images": [],

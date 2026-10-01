@@ -64,25 +64,25 @@
           "feedback": "Incorrect. Active voice."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "were created",
           "is_correct": true,
           "feedback": "Correct. Past simple passive for a completed historical action."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "have created",
           "is_correct": false,
           "feedback": "Incorrect. Active voice."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "are created",
           "is_correct": false,
           "feedback": "Incorrect. Present tense."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "The past simple passive 'were created' describes the founding of national parks in the past.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -103,13 +103,13 @@
       "context": "Speculating about environmental protection.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "value",
           "is_correct": false,
           "feedback": "Incorrect. First conditional."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "valued",
           "is_correct": true,
           "feedback": "Correct. Second conditional for a hypothetical present attitude."
@@ -127,7 +127,7 @@
           "feedback": "Incorrect. 'Would' not in 'if' clause."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "The second conditional 'if + past simple' describes how a hypothetical shift in values would lead to a different result.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,13 +148,13 @@
       "context": "Article about \"intergenerational justice\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "obligation",
           "is_correct": true,
           "feedback": "Correct. An obligation is a duty or commitment."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "choice",
           "is_correct": false,
           "feedback": "Incorrect. Ethics often frames this as a duty, not just a casual choice."
@@ -172,7 +172,7 @@
           "feedback": "Incorrect. It should be an intentional effort."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "'Obligation' is the key noun for describing the moral duty we have towards future generations.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -238,13 +238,13 @@
       "context": "Sustainable development definition.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "destroying",
           "is_correct": false,
           "feedback": "Incorrect. Comprises sustainability."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "compromising",
           "is_correct": true,
           "feedback": "Correct. To compromise here means to weaken or damage."
@@ -262,7 +262,7 @@
           "feedback": "Incorrect. Sustainability requires attention to future needs."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "'Compromising' is the standard verb used in the Brundtland definition of sustainable development.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -334,13 +334,13 @@
           "feedback": "Incorrect. Stewardship is about care, not just possessing."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Stewardship",
           "is_correct": true,
           "feedback": "Correct. The term for responsible management of nature."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Exploitation",
           "is_correct": false,
           "feedback": "Incorrect. The opposite of stewardship."
@@ -352,7 +352,7 @@
           "feedback": "Incorrect. The opposite of stewardship."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "'Stewardship' is the specific term for the ethical responsibility to care for and manage the environment.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -373,19 +373,19 @@
       "context": "Describing a past change in perspective.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "gains",
           "is_correct": false,
           "feedback": "Incorrect. Present tense."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "has gained",
           "is_correct": false,
           "feedback": "Incorrect. Present perfect."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "had gained",
           "is_correct": true,
           "feedback": "Correct. Past perfect for a state completed by a past point."
@@ -397,7 +397,7 @@
           "feedback": "Incorrect. Focus is on the completed state of having momentum."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "The past perfect 'had gained' indicates that the movement's growth occurred before the start of the decade mentioned.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -418,13 +418,13 @@
       "context": "Critique of \"speciesism\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "equality",
           "is_correct": false,
           "feedback": "Incorrect. Speciesism is based on inequality."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "superiority",
           "is_correct": true,
           "feedback": "Correct. Superiority is the state of being higher in rank or quality."
@@ -442,7 +442,7 @@
           "feedback": "Incorrect. Speciesism leads to exploitation, not kindness."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "'Superiority' is the core assumption that underlies the ethical critique of speciesism.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -469,13 +469,13 @@
           "feedback": "Incorrect."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Ecology",
           "is_correct": true,
           "feedback": "Correct. Scientific study of ecosystems."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Anatomy",
           "is_correct": false,
           "feedback": "Incorrect. Study of body structure."
@@ -487,7 +487,7 @@
           "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "'Ecology' is the specific science focused on the interactions within the natural world.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -514,13 +514,13 @@
           "feedback": "Incorrect. Active voice."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "will have been recognized",
           "is_correct": true,
           "feedback": "Correct. Future perfect passive for a completed state in the future."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "recognized",
           "is_correct": false,
           "feedback": "Incorrect. Past simple."
@@ -532,7 +532,7 @@
           "feedback": "Incorrect. Gerund."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "The future perfect passive describes a legal milestone that is desired to be a finished fact in the future.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -553,19 +553,19 @@
       "context": "Discussing biodiversity.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "resilience",
           "is_correct": true,
           "feedback": "Correct. Resilience is the ability to recover from difficulties."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "fragility",
           "is_correct": false,
           "feedback": "Incorrect. Biodiversity reduces fragility."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "stagnation",
           "is_correct": false,
           "feedback": "Incorrect. Nature is dynamic."
@@ -577,7 +577,7 @@
           "feedback": "Incorrect. Systems are interconnected."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "'Resilience' describes the strength and recovery capacity of a healthy, diverse ecosystem.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -598,13 +598,13 @@
       "context": "Conditional about plastic pollution.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "don't produce",
           "is_correct": false,
           "feedback": "Incorrect. First conditional."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "didn't produce",
           "is_correct": true,
           "feedback": "Correct. Second conditional for a hypothetical change."
@@ -622,7 +622,7 @@
           "feedback": "Incorrect. 'Would' not in 'if' clause."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "The second conditional 'if + past simple' describes the imaginary result of a change in current production habits.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -649,25 +649,25 @@
           "feedback": "Incorrect. If it were equal, there would be no 'disproportionate' share."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "disproportionate",
           "is_correct": true,
           "feedback": "Correct. Disproportionate means too large or too small in comparison with something else."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "minimal",
           "is_correct": false,
           "feedback": "Incorrect. The goal is for everyone to have minimal, not for one group to bear it all."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "invisible",
           "is_correct": false,
           "feedback": "Incorrect. Consequences are often very visible."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "'Disproportionate' is the key term for describing the unfair burden placed on certain communities in environmental ethics.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -688,13 +688,13 @@
       "context": "Definition of a carbon sink.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "source",
           "is_correct": false,
           "feedback": "Incorrect. A source releases carbon."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "sink",
           "is_correct": true,
           "feedback": "Correct. A sink absorbs/stores carbon."
@@ -712,7 +712,7 @@
           "feedback": "Incorrect. While it acts like a filter, 'sink' is the technical term."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "'Carbon sink' is the standard environmental term for natural systems that absorb more carbon than they release.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -739,13 +739,13 @@
           "feedback": "Incorrect. Backshifted in reported speech."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "would have",
           "is_correct": true,
           "feedback": "Correct. Backshifted from 'will have' to 'would have'."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "has had",
           "is_correct": false,
           "feedback": "Incorrect. Present perfect."
@@ -757,7 +757,7 @@
           "feedback": "Incorrect. Present tense."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "In reported speech, we change 'will' to 'would' when reporting a future prediction made in the past.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -868,13 +868,13 @@
       "context": "Final thought on environmental responsibility.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "biocentric",
           "is_correct": true,
           "feedback": "Correct. Values all living things."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "egoistic",
           "is_correct": false,
           "feedback": "Incorrect. Values only oneself."
@@ -892,7 +892,7 @@
           "feedback": "Incorrect. We need a broader view."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "'Biocentric' describes the inclusive worldview that values all life forms, contrasting with anthropocentrism.",
       "difficulty": "10",
       "images": [],

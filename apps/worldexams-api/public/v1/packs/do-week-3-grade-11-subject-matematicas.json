@@ -13,19 +13,19 @@
       "context": "Un estudiante de secundaria en San Pedro de Macorís revisa conceptos de aritmética básica.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Es la diferencia ($a - b$).",
           "is_correct": false,
           "feedback": "Incorrecto. Esa es una comparación por resta (razón aritmética)."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Es el producto ($a \\cdot b$).",
           "is_correct": false,
           "feedback": "Incorrecto. El producto no define una comparación proporcional."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Es el cociente o división ($a / b$).",
           "is_correct": true,
           "feedback": "Correcto. Una razón geométrica compara dos magnitudes mediante su división."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. No es una relación de comparación proporcional."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Una razón es el resultado de comparar dos cantidades. La más usada es la geométrica ($a/b$).\n\n---",
       "difficulty": "4",
       "images": [],
@@ -58,31 +58,31 @@
       "context": "En una panadería en Santo Domingo, se comparan las cantidades de harina y azúcar.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Extremos",
           "is_correct": true,
           "feedback": "Correcto. En la lectura de la proporción, son el primero y el último términos mencionados."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Medios",
           "is_correct": false,
           "feedback": "Incorrecto. Esos son los términos b y c."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Consecuentes",
           "is_correct": false,
           "feedback": "Incorrecto. Son los denominadores de cada razón."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Antecedentes",
           "is_correct": false,
           "feedback": "Incorrecto. Son los numeradores de cada razón."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "En la igualdad de dos razones, los términos exteriores se llaman extremos.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -109,25 +109,25 @@
           "feedback": "Incorrecto. Ese es el orden inverso (agua a concentrado)."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "2:5",
           "is_correct": true,
           "feedback": "Correcto. Mantiene el orden de las cantidades mencionadas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "2:7",
           "is_correct": false,
           "feedback": "Incorrecto. Esa es la razón respecto al total de la mezcla."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "5:7",
           "is_correct": false,
           "feedback": "Incorrecto. Razón de agua respecto al total."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La razón debe respetar estrictamente el orden de los elementos planteados.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -154,25 +154,25 @@
           "feedback": "Incorrecto. No es una propiedad general de proporcionalidad."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$a \\cdot d = b \\cdot c$",
           "is_correct": true,
           "feedback": "Correcto. El producto de los extremos es igual al producto de los medios."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$a = c$",
           "is_correct": false,
           "feedback": "Incorrecto. No es necesario que los numeradores coincidan."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$a - b = c - d$",
           "is_correct": false,
           "feedback": "Incorrecto. Aplica a proporciones aritméticas, no geométricas."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Es la base para resolver incógnitas mediante el producto cruzado.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -193,13 +193,13 @@
       "context": "Un mapa de República Dominicana tiene una escala de 1:500,000.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El mapa es mayor que la realidad.",
           "is_correct": false,
           "feedback": "Incorrecto. Una escala de reducción hace el dibujo más pequeño."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "1 unidad en el mapa equivale a 500,000 en la realidad.",
           "is_correct": true,
           "feedback": "Correcto. Es la definición de escala como razón de semejanza."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. Las unidades deben ser consistentes (1 cm : 500,000 cm)."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La escala es una aplicación directa del concepto de razón entre modelo y objeto real.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -244,25 +244,25 @@
           "feedback": "Incorrecto. Revisa el cálculo de la tasa unitaria."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "RD\\$ 175",
           "is_correct": true,
           "feedback": "Correcto. 105/3 = 35 por libra; 35 * 5 = 175."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "RD\\$ 210",
           "is_correct": false,
           "feedback": "Incorrecto. Ese es el costo de 6 libras."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "RD\\$ 135",
           "is_correct": false,
           "feedback": "Incorrecto. Error en la aplicación de la proporción directa."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Problema de proporcionalidad directa: a mayor peso, mayor costo.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -334,25 +334,25 @@
           "feedback": "Incorrecto. Eso sería un reparto igualitario (1:1)."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "RD\\$ 450",
           "is_correct": true,
           "feedback": "Correcto. Suma de partes: 8. 1200/8 = 150. Parte menor: 3 * 150 = 450."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "RD\\$ 750",
           "is_correct": false,
           "feedback": "Incorrecto. Esa es la parte mayor (5 * 150)."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "RD\\$ 400",
           "is_correct": false,
           "feedback": "Incorrecto. Error en la división por el total de partes."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Dividimos el total por la suma de los términos de la razón para hallar la constante de reparto.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -379,25 +379,25 @@
           "feedback": "Incorrecto. A más obreros debe ser menos tiempo."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "3 h",
           "is_correct": true,
           "feedback": "Correcto. Es proporción inversa: 4 * 6 = 24 obrero-horas. 24 / 8 = 3 h."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "4 h",
           "is_correct": false,
           "feedback": "Incorrecto. No sigue la relación inversa correcta."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "1.5 h",
           "is_correct": false,
           "feedback": "Incorrecto. Reducción excesiva."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "En la proporcionalidad inversa, el producto de las magnitudes permanece constante.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -424,25 +424,25 @@
           "feedback": "Incorrecto. Sería proporción directa."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "La otra aumenta al triple.",
           "is_correct": true,
           "feedback": "Correcto. Al ser inversa, se multiplica por el recíproco del factor de cambio."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La otra se mantiene constante.",
           "is_correct": false,
           "feedback": "Incorrecto. Hay una relación de cambio."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La otra aumenta nueve veces.",
           "is_correct": false,
           "feedback": "Incorrecto. El cambio debe ser por el mismo factor (3)."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Si $x \\cdot y = k$, entonces si $x$ se divide por 3, $y$ debe multiplicarse por 3 para mantener $k$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -463,13 +463,13 @@
       "context": "Mezcla de resinas en Bonao en proporción 7:3.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "60 g",
           "is_correct": true,
           "feedback": "Correcto. 7/3 = 140/x -> 7x = 420 -> x = 60."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "30 g",
           "is_correct": false,
           "feedback": "Incorrecto. Error de escala."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto. Error de cálculo proporcional."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Se establece la igualdad de razones y se despeja la incógnita.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -514,25 +514,25 @@
           "feedback": "Incorrecto. Magnitudes mal emparejadas."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "1/58 = 75/x",
           "is_correct": true,
           "feedback": "Correcto. USD/DOP = USD/DOP."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "1/75 = x/58",
           "is_correct": false,
           "feedback": "Incorrecto. Inversión errónea en el segundo miembro."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "1 * 75 = 58 * x",
           "is_correct": false,
           "feedback": "Incorrecto. Planteamiento de relación inversa inexistente aquí."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La proporción debe mantener el mismo tipo de magnitud en numeradores y denominadores.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -559,13 +559,13 @@
           "feedback": "Incorrecto. Sus razones son iguales."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Ciudad A es más densa.",
           "is_correct": false,
           "feedback": "Incorrecto. Sus razones son iguales."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Tienen la misma densidad.",
           "is_correct": true,
           "feedback": "Correcto. Ambas dan 5,000 hab/km2."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. La razón es la herramienta ideal para comparar."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Se calcula la razón habitantes/área para verificar la equivalencia.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -649,13 +649,13 @@
           "feedback": "Incorrecto. Esa es la razón de los tiempos."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "3:2",
           "is_correct": true,
           "feedback": "Correcto. Velocidad = 1/tiempo. (1/4) / (1/6) = 6/4 = 3/2."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "4:6",
           "is_correct": false,
           "feedback": "Incorrecto. Error de aplicación directa de tiempos."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. Tienen distintos rendimientos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La velocidad es inversamente proporcional al tiempo empleado.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -694,25 +694,25 @@
           "feedback": "Incorrecto. Error en la razón parcial."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "7 sacos",
           "is_correct": true,
           "feedback": "Correcto. Razón cemento:grava es 1:4. 28 / 4 = 7."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "4 sacos",
           "is_correct": false,
           "feedback": "Incorrecto. Error de cálculo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "28 sacos",
           "is_correct": false,
           "feedback": "Incorrecto. No es mezcla equitativa."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Identificamos la razón entre los dos componentes específicos de la pregunta.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -790,19 +790,19 @@
           "feedback": "Incorrecto. Ignoró el interés."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "5:6",
           "is_correct": true,
           "feedback": "Correcto. (200/4)/(300/5) = 50/60 = 5/6."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "6:5",
           "is_correct": false,
           "feedback": "Incorrecto. Razón invertida."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "El capital es proporcional al cociente Interés/Tiempo para una tasa fija.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -868,19 +868,19 @@
       "context": "Mezclas en industria de Haina. R1 (2:3), R2 (3:1). Volúmenes iguales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "5:4",
           "is_correct": false,
           "feedback": "Incorrecto. No se suman términos directamente."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "1:1",
           "is_correct": false,
           "feedback": "Incorrecto. Desequilibrio evidente."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "23:17",
           "is_correct": true,
           "feedback": "Correcto. Suma de fracciones: (2/5+3/4) / (3/5+1/4)."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. Fracciones calculadas erróneamente."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Cálculo de concentraciones promedio mediante suma de fracciones.\n\n[//]: # (QUALITY_REVIEW)\n| Dimensión | Puntuación |\n|-----------|------------|\n| Técnico | 30/30 |\n| Curricular | 40/40 |\n| Context | 20/20 |\n| Redacción | 10/10 |\n| **Total** | **100/100** |",
       "difficulty": "10",
       "images": [],

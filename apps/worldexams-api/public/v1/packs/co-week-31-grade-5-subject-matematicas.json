@@ -59,19 +59,19 @@
       "context": "Santiago está estudiando el efecto de multiplicar por 10 en un número decimal y escribe en su cuaderno la operación 1,5 x 10.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "15.",
           "is_correct": true,
           "feedback": "Al multiplicar por 10, la coma se desplaza una posición hacia la derecha y 1,5 se convierte en 15."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "0,15.",
           "is_correct": false,
           "feedback": "0,15 sería el resultado de dividir entre 10, no de multiplicar por 10."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "150.",
           "is_correct": false,
           "feedback": "150 correspondería a multiplicar por 100, es decir, desplazar la coma dos posiciones."
@@ -83,7 +83,7 @@
           "feedback": "1,50 tiene el mismo valor que 1,5; multiplicar por 10 debe aumentar el valor, no dejarlo igual."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Multiplicar un número decimal por 10, 100 o 1.000 desplaza la coma hacia la derecha una, dos o tres posiciones según la cantidad de ceros. En 1,5 x 10 la coma avanza un lugar y el resultado es 15. Este patrón se apoya en que cada posición a la derecha vale diez veces más que la anterior.",
       "difficulty": "4",
       "images": [],
@@ -105,31 +105,31 @@
       "context": "En Barranquilla, Mariana necesita tela para un trabajo de arte. Cada metro de tela cuesta $12.500 COP y ella compra 2,5 metros.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$31.250 COP.",
           "is_correct": true,
           "feedback": "12.500 x 2,5 = 31.250, porque 12.500 x 2 = 25.000 y 12.500 x 0,5 = 6.250."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$25.000 COP.",
           "is_correct": false,
           "feedback": "25.000 corresponde a multiplicar por 2 y olvidar el medio metro adicional."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$3.125 COP.",
           "is_correct": false,
           "feedback": "3.125 resulta de dividir entre 10; el precio por metro es mucho mayor."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$37.500 COP.",
           "is_correct": false,
           "feedback": "37.500 correspondería a comprar 3 metros completos, no 2,5 metros."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Para hallar el costo total se multiplica el precio de una unidad por la cantidad comprada: 12.500 x 2,5. Se puede descomponer el factor decimal en 2 + 0,5, calcular 12.500 x 2 = 25.000 y 12.500 x 0,5 = 6.250, y luego sumar ambos resultados para obtener 31.250.",
       "difficulty": "6",
       "images": [],
@@ -151,13 +151,13 @@
       "context": "Para una reunión familiar en Cali, Santiago compró 6 botellas de jugo y cada botella contiene 1,5 litros.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "9 litros.",
           "is_correct": true,
           "feedback": "1,5 x 6 = 9, porque 1 x 6 = 6 y 0,5 x 6 = 3, y 6 + 3 = 9."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "7,5 litros.",
           "is_correct": false,
           "feedback": "7,5 litros corresponden a multiplicar 1,5 por 5, no por 6."
@@ -175,7 +175,7 @@
           "feedback": "0,9 litros es menor que una sola botella; el resultado debe ser mayor que 1,5."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Cuando el multiplicador es mayor que 1, el producto crece. La operación 1,5 x 6 puede resolverse separando la parte entera y la decimal: 1 litro x 6 = 6 litros y 0,5 litro x 6 = 3 litros; al sumar se obtienen 9 litros. También se calcula 15 x 6 = 90 y se ubica la coma una posición a la izquierda, porque 1,5 tiene una cifra decimal.",
       "difficulty": "6",
       "images": [],
@@ -197,19 +197,19 @@
       "context": "En una papelería de Barranquilla, cada lápiz cuesta $850,50 COP. Mariana compra 4 lápices y paga sin recibir descuento.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$3.402 COP.",
           "is_correct": true,
           "feedback": "850,50 x 4 = 3.402, porque 850 x 4 = 3.400 y 0,50 x 4 = 2, y la suma es 3.402."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$3.400 COP.",
           "is_correct": false,
           "feedback": "3.400 resulta de multiplicar solo 850 por 4 y omitir los 50 centavos de cada lápiz."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$34.020 COP.",
           "is_correct": false,
           "feedback": "34.020 tiene un cero de más; la coma quedó desplazada una posición a la derecha."
@@ -221,7 +221,7 @@
           "feedback": "3.042 altera el orden de las cifras y no proviene de multiplicar correctamente las partes."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Al multiplicar un decimal por un número natural se multiplican las cifras como si no hubiera coma y después se cuenta el total de cifras decimales del factor. Aquí 850,50 tiene dos cifras decimales: 85050 x 4 = 340200, y al ubicar la coma dos posiciones a la izquierda se obtiene 3.402,00, es decir $3.402 COP.",
       "difficulty": "6",
       "images": [],
@@ -289,19 +289,19 @@
       "context": "Santiago resolvió la operación 2,4 x 0,5 y obtuvo 12,0. Mariana revisa el resultado y afirma que hay un error en la ubicación de la coma decimal.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "El resultado correcto es 1,2; Santiago multiplicó 24 x 5 = 120 y no contó las dos cifras decimales de los factores.",
           "is_correct": true,
           "feedback": "2,4 tiene una cifra decimal y 0,5 tiene otra; el producto 120 debe llevar la coma dos posiciones a la izquierda y da 1,20, es decir 1,2."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El resultado correcto es 12,0; Santiago no cometió ningún error.",
           "is_correct": false,
           "feedback": "12,0 sería mayor que 2,4, pero multiplicar por 0,5 reduce el valor a la mitad, así que no puede ser correcto."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El resultado correcto es 0,12; hay que ubicar la coma tres posiciones a la izquierda.",
           "is_correct": false,
           "feedback": "Solo hay dos cifras decimales entre los dos factores, por lo que la coma se corre dos posiciones, no tres."
@@ -313,7 +313,7 @@
           "feedback": "Cuando al menos un factor es decimal, el producto también lo es; no se puede omitir la coma."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Para multiplicar decimales se opera con las cifras como si fueran naturales (24 x 5 = 120) y luego se cuentan las cifras decimales de ambos factores: 2,4 aporta una y 0,5 aporta otra, en total dos. La coma se ubica dos posiciones a la izquierda de 120 y se obtiene 1,20, que equivale a 1,2. Además, al multiplicar por 0,5 el resultado debe ser menor que 2,4.",
       "difficulty": "8",
       "images": [],
@@ -335,31 +335,31 @@
       "context": "Mariana va al mercado en Cali con $100.000 COP. Compra 2,5 kg de carne a $18.900,50 COP el kilogramo y 3 paquetes de pan, cada uno a $4.250 COP.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Sí le alcanza y le sobran $39.998,75 COP.",
           "is_correct": true,
           "feedback": "Carne: 18.900,50 x 2,5 = 47.251,25; panes: 4.250 x 3 = 12.750; total 60.001,25 y 100.000 - 60.001,25 = 39.998,75."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Sí le alcanza y le sobran $39.998,25 COP.",
           "is_correct": false,
           "feedback": "La diferencia de 0,50 indica un error al multiplicar los centavos del precio de la carne."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "No le alcanza, porque el total supera los $100.000 COP.",
           "is_correct": false,
           "feedback": "El total es 60.001,25 COP, bastante menor que 100.000 COP, así que sí le alcanza."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Sí le alcanza y le sobran $40.000 COP.",
           "is_correct": false,
           "feedback": "40.000 es una aproximación; el valor exacto incluye centavos: 39.998,75 COP."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Los problemas de varios pasos se resuelven por etapas y conviene estimar para verificar. Primero la carne: 18.900,50 x 2,5 = 47.251,25 COP. Luego el pan: 4.250 x 3 = 12.750 COP. El gasto total es 47.251,25 + 12.750 = 60.001,25 COP. Como 60.001,25 es menor que 100.000, sí le alcanza, y el sobrante es 100.000 - 60.001,25 = 39.998,75 COP. Una estimación rápida (19.000 x 2,5 + 4.000 x 3 = 59.500) confirma que el resultado es razonable.",
       "difficulty": "10",
       "images": [],

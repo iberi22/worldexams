@@ -13,13 +13,13 @@
       "context": "Un estudiante de secundaria en Trujillo estudia los vicios del lenguaje para mejorar su redacción formal.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La repetición monótona y desagradable de una misma consonante o sílaba en una frase corta",
           "is_correct": false,
           "feedback": "Incorrecto. Esto define a la cacofonía, no a la anfibología."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La falta de claridad que permite interpretar una misma oración o frase de dos o más formas diferentes",
           "is_correct": true,
           "feedback": "Correcto. La anfibología ocurre cuando el orden de las palabras o el uso impreciso de pronombres y preposiciones da lugar a dobles interpretaciones del mensaje, afectando la inteligibilidad."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. La elisión del verbo cópula es un recurso sintáctico llamado elipsis, totalmente lícito y correcto."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La anfibología es un vicio de construcción sintáctica que oscurece el sentido del texto al abrir múltiples posibilidades de interpretación del enunciado.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -58,19 +58,19 @@
       "context": "Se analizan los barbarismos en el habla cotidiana de Lima.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "idiosincrasia",
           "is_correct": false,
           "feedback": "Incorrecto. Es la grafía correcta para referirse al temperamento de un grupo; escribir 'idiosincrazia' con z o c errónea sería barbarismo."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "prever",
           "is_correct": false,
           "feedback": "Incorrecto. Es la grafía correcta del verbo que significa ver con anticipación; el error común es escribirlo redundante 'preveer'."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "habían",
           "is_correct": true,
           "feedback": "Correcto. Usar 'habían' como verbo impersonal que indica existencia en plural es un solecismo o barbarismo de concordancia muy grave (ej. 'Habían muchos postulantes en la UNI' en lugar del correcto 'Había muchos postulantes')."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. Es la grafía correcta para referirse al miembro de la Compañía de Jesús."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "El verbo 'haber' en su uso impersonal para indicar existencia de objetos es defectivo y solo admite la tercera persona del singular (había, hubo, habrá, ha habido), constituyendo un solecismo muy frecuente emplearlo en plural.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -109,13 +109,13 @@
           "feedback": "Incorrecto. No hay errores de dequeísmo o queísmo en la frase; el problema es puramente de pleonasmo o redundancia."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Presenta múltiples redundancias vulgares ('temperatura muy caliente', 'vapor gaseoso', 'subió hacia arriba') que deben depurarse para lograr concisión",
           "is_correct": true,
           "feedback": "Correcto. 'Calentar a temperatura caliente' es redundante; el vapor es por definición gaseoso; y el verbo 'subir' contiene en su semántica la dirección ascendente. La corrección ideal sería: 'El agua se calentó a alta temperatura, produciendo un vapor que ascendió por el tubo'."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Presenta solecismo de concordancia entre 'agua' (femenino) y 'calentó' (masculino)",
           "is_correct": false,
           "feedback": "Incorrecto. El verbo 'calentó' no tiene género; concuerda correctamente en tercera persona singular con el sujeto 'agua'."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. La consonante T no genera cacofonía molesta en esta posición; la redundancia de ideas es el defecto principal."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La redundancia o pleonasmo vicioso consiste en utilizar palabras innecesarias que no añaden información nueva al mensaje, atentando contra los principios de concisión y precisión de la redacción académica.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -238,13 +238,13 @@
       "context": "Un ejercicio sobre el vicio del lenguaje conocido como 'cacofonía' en un colegio de Arequipa.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El término 'altiva' debe escribirse con H intermedia para concordar con 'águila'",
           "is_correct": false,
           "feedback": "Incorrecto. 'Altiva' no lleva H en ninguna posición de su raíz etimológica."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Incurre en un mal uso de los artículos femeninos antes de sustantivos que inician con 'a' tónica, debiendo decirse 'El águila' y 'el área'",
           "is_correct": true,
           "feedback": "Correcto. Los sustantivos femeninos que inician con 'a' o 'ha' tónica exigen el artículo masculino 'el' en singular para evitar el sonido discordante de la cacofonía ('El águila altiva', 'el área protegida'). Los adjetivos calificativos acompañantes ('altiva', 'protegida') se mantienen en femenino."
@@ -262,7 +262,7 @@
           "feedback": "Incorrecto. El sujeto es el águila (singular), por lo que el verbo debe concordar obligatoriamente en singular."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Para evitar el encuentro cacofónico de la 'a' final del artículo 'la' con la 'a' inicial tónica del sustantivo, la gramática del castellano impone el uso de la forma 'el' del artículo para los nombres femeninos singulares que empiezan por 'a' o 'ha' tónica (el agua, el águila, el área, el hambre).\n\n---",
       "difficulty": "6",
       "images": [],
@@ -289,25 +289,25 @@
           "feedback": "Incorrecto. 'Grabar' con B significa registrar sonidos/imágenes o tallar una superficie, inadecuado para referirse a la imposición de tributos."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "gravar / acervo",
           "is_correct": true,
           "feedback": "Correcto. El verbo 'gravar' (con V) significa imponer un impuesto, tasa o gravamen económico. El sustantivo 'acervo' (con V) representa el patrimonio de bienes culturales o comunes de una colectividad."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "gravar / acerbo",
           "is_correct": false,
           "feedback": "Incorrecto. El adjetivo 'acerbo' (con B) significa áspero, amargo o cruel, inadecuado para designar el patrimonio cultural nacional."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "grabar / acerbo",
           "is_correct": false,
           "feedback": "Incorrecto. Ambos vocablos presentan errores de selección semántica para las funciones y significados del enunciado."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El par homófono 'gravar / grabar' y 'acervo / acerbo' exige un dominio de la correspondencia semántica y ortográfica. Gravar (tributo) y acervo (patrimonio) se escriben ambos con V.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -334,13 +334,13 @@
           "feedback": "Incorrecto. Presenta concordancia colectiva lícita, pero busquemos un solecismo de discordancia evidente: 'La gente de las provincias andinas solicitaron ayuda al Estado para mitigar las heladas'. Aquí, 'gente' es singular y el verbo 'solicitaron' está en plural."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "El grupo de arqueólogos de San Marcos descubrieron una nueva tumba prehispánica.",
           "is_correct": false,
           "feedback": "Incorrecto. El sujeto colectivo singular 'grupo' exige concordancia en singular en la redacción formal estricta ('descubrió'), a pesar del modificador plural."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La dotación de insumos médicos para los hospitales rurales fue distribuida de manera oportuna por el Ministerio.",
           "is_correct": true,
           "feedback": "Correcto. El núcleo del sujeto es el sustantivo singular femenino 'La dotación'. El verbo copulativo pasivo concuerda perfectamente en tercera persona singular femenino: 'fue distribuida'."
@@ -352,7 +352,7 @@
           "feedback": "Incorrecto. Incurre en solecismo de pasiva refleja: al ser 'departamentos amoblados' el sujeto plural pasivo, el verbo debe concordar obligatoriamente en plural: 'Se venden departamentos...' (Los departamentos son vendidos)."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "La concordancia gramatical exige la correspondencia de número y persona entre el núcleo del sujeto y el verbo principal de la oración, evitando la atracción sintáctica de modificadores secundarios pluralizados.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -418,13 +418,13 @@
       "context": "Se estudia el concepto de 'precisión léxica' frente al uso de verbos comodín (verbos 'baúl') en Lima.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "decidió dar una investigación rigurosa",
           "is_correct": false,
           "feedback": "Incorrecto. 'Dar una investigación' mantiene el uso de un verbo comodín e informal."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "decidió emprender (o acometer / realizar / efectuar / desarrollar) una investigación rigurosa",
           "is_correct": true,
           "feedback": "Correcto. El verbo 'emprender', 'realizar' o 'efectuar' dota a la frase de precisión léxica y elegancia académica, superando la pobreza verbal del verbo genérico 'hacer'."
@@ -442,7 +442,7 @@
           "feedback": "Incorrecto. El uso de diminutivos y coloquialismos ('revisadita') rebaja el registro de la redacción académica a un nivel informal."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La precisión léxica exige seleccionar el término con el significado más exacto y específico para la acción descrita, desterrando los verbos comodín que denotan pobreza de vocabulario del emisor.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -469,13 +469,13 @@
           "feedback": "Incorrecto. Mantiene el posesivo ambiguo 'su propia aula' sin resolver la confusión de pertenencia."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "El profesor felicitó en su aula a su alumno de ciencias por su monografía excelente de él.",
           "is_correct": false,
           "feedback": "Incorrecto. 'De él' es redundante e informal y no disipa con claridad a quién pertenece el aula geográfica."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "En el aula de ciencias, el profesor felicitó al alumno por la excelente monografía que este último había redactado.",
           "is_correct": true,
           "feedback": "Correcto. El orden sintáctico separa de forma clara las circunstancias: sitúa el lugar al inicio ('En el aula de ciencias', que suele pertenecer al profesor o institución) y emplea el pronombre demostrativo de relativo complejo 'este último' para referirse sin ambigüedad alguna al alumno como autor indiscutible de la monografía."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto. Redacción engorrosa plagada de vicios del lenguaje y redundancias de posesión informales."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "La anfibología por adjunción de sintagmas preposicionales al final de la frase se resuelve reordenando los circunstanciales al inicio de la oración y utilizando pronombres referenciales precisos (como este último) para deslindar la agencia de los sujetos.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -553,19 +553,19 @@
       "context": "Análisis del solecismo por discordancia en construcciones distributivas en la administración pública de Lima.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Significa 'grandioso o extraordinario'; y el error es usarlo en minúscula",
           "is_correct": false,
           "feedback": "Incorrecto. 'Sendos' no significa grandioso o enorme, a pesar del uso popular erróneo de la expresión."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Significa 'ambos'; y el error es aplicarlo a tres o más sujetos coordinados",
           "is_correct": false,
           "feedback": "Incorrecto. Aunque incluye dualidad, el significado preciso es distributivo plural."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Significa 'uno para cada uno de los sujetos o elementos referidos'; e incurre en error de concordancia distributiva y de número al usarlo en singular ('sendo informe')",
           "is_correct": true,
           "feedback": "Correcto. 'Sendos/sendas' es un adjetivo distributivo plural que significa 'uno para cada uno' (ej. 'tres personas recibieron sendos diplomas' = cada una recibió un diploma). Carece de forma singular, por lo que escribir o decir 'un sendo golpe' o 'un sendo informe' atribuyéndole el significado de 'grande' o 'único' es un barbarismo sintáctico severo."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. No tiene significado de temporalidad o de vencimiento legal."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "El adjetivo distributivo 'sendos/sendas' siempre se emplea en plural y concuerda con los sustantivos correspondientes. Su uso con valor semántico de 'grande', 'fuerte' o 'único' constituye un error grave contra la precisión léxica.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -604,13 +604,13 @@
           "feedback": "Incorrecto. La jerga juvenil desvaloriza la objetividad e impide la indexación académica formal."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "El Texto B es inadecuado porque el uso de vocablos específicos como 'flora endémica' confunde a la SUNAT",
           "is_correct": false,
           "feedback": "Incorrecto. Los términos botánicos son adecuados y obligatorios en ciencias; la SUNAT no evalúa proyectos ecológicos de esta índole botánica."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El Texto A incurre en inadecuación por el uso de jerga informal, adjetivos vagos ('bacán', 'recontra') y verbos coloquiales ('chequear'), mientras que el Texto B cumple plenamente la adecuación formal mediante un léxico preciso, tono denotativo y registro académico culto",
           "is_correct": true,
           "feedback": "Correcto. El Texto A rompe con las normas del registro formal exigido en las disciplinas científicas, recurriendo a localismos informales. El Texto B emplea con total precisión los términos técnicos correspondientes ('captación de agua', 'flora endémica', 'perfil hídrico') y un tono denotativo riguroso."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. La tercera persona es el estándar de objetividad científica en todo el mundo, no una prohibición."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "La adecuación léxica de los escritos científicos impone desterrar el registro coloquial, los giros afectivos y la imprecisión terminológica, optando por el lenguaje formal denotativo y un vocabulario especializado unívoco.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -790,19 +790,19 @@
           "feedback": "Incorrecto. El error no es de trazo físico de las letras, sino de estructura lógico-sintáctica oracional en la mente del estudiante."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "El análisis sintáctico funcional, el dominio del régimen preposicional de los verbos y el hábito de relectura y autocorrección de borradores",
           "is_correct": true,
           "feedback": "Correcto. El queísmo y dequeísmo son problemas estructurales de régimen verbal y preposicional. Su persistencia revela que la enseñanza de la lengua se limita a menudo a la teoría pasiva o memorización ortográfica, sin entrenar al alumno en el análisis funcional de sus oraciones ni en el hábito crítico de revisar sus propios borradores académicos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La velocidad física de lectura literal que impide registrar las consonantes mudas",
           "is_correct": false,
           "feedback": "Incorrecto. No responde a un problema de velocidad física de lectura literal o consonantes mudas."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "El dominio de la redacción exige una pedagogía activa del texto. El alumno debe aprender a identificar los argumentos requeridos por cada núcleo verbal y adjetival, desarrollando la conciencia lingüística para corregir solecismos mediante el análisis lógico de su prosa.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -868,19 +868,19 @@
       "context": "Un seminario sobre lógica oracional y metalenguaje en la Universidad de San Marcos analiza la reescritura de textos burocráticos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La comisión habiendo analizado expedientes vio de que el postulante carecía de perfil y lo rechazó de inmediato.",
           "is_correct": false,
           "feedback": "Incorrecto. Mantiene el solecismo por dequeísmo ('vio de que') y el gerundio de anterioridad mal enlazado al inicio."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Se analizó los expedientes por la comisión, y se vio que el postulante carecía de perfil, rechazándolo de inmediato.",
           "is_correct": false,
           "feedback": "Incorrecto. Mantiene la pasiva refleja impersonal con solecismo de número ('Se analizó los expedientes' en lugar de 'Se analizaron') y el gerundio de posterioridad vicioso ('rechazándolo')."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Tras analizar los expedientes, la comisión constató que el candidato no cumplía con el perfil requerido; por consiguiente, rechazó su postulación de inmediato.",
           "is_correct": true,
           "feedback": "Correcto. Elimina la pasiva vaga dándole agencia real a la comisión ('la comisión constató'), suprime el dequeísmo del verbo ver sustituyéndolo por 'constató que' (OD directo), erradica el gerundio de posterioridad vicioso ('siendo rechazado') mediante el conector consecutivo formal 'por consiguiente' y el verbo activo 'rechazó'."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. Redacción engorrosa y barroca que mantiene las estructuras truncas, gerundios vagos y pasivas redundantes."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "La reescritura de alta calidad académica exige desmontar los vicios estructurales de la prosa administrativa tradicional. Al otorgar agencia directa al sujeto responsable (la comisión), limpiar el dequeísmo y estructurar las consecuencias lógicas con nexos precisos, el texto adquiere nitidez, concisión y transparencia informativa.",
       "difficulty": "10",
       "images": [],

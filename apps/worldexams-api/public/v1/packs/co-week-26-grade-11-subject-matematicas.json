@@ -59,31 +59,31 @@
       "context": "En Medellín, Valentina calcula el volumen de una pirámide de altura $H=4$ y base cuadrada de lado $B=4$ mediante integrales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$\\frac{64}{3}$",
           "is_correct": true,
           "feedback": "Correcto. $V = \\int_0^4 x^2 \\, dx = [\\frac{x^3}{3}]_0^4 = \\frac{64}{3}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "64",
           "is_correct": false,
           "feedback": "Incorrecto. Se omitió dividir entre 3."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "16",
           "is_correct": false,
           "feedback": "Incorrecto. Se multiplicó la base por la altura sin la constante de integración de la pirámide."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "32",
           "is_correct": false,
           "feedback": "Incorrecto. Error al integrar el término cuadrático."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "$V = \\int_0^H A(x) dx = \\int_0^4 x^2 dx = \\frac{4^3}{3} = \\frac{64}{3}$. Coincide con $V = \\frac{1}{3} A_{base} H = \\frac{1}{3}(16)(4) = \\frac{64}{3}$.",
       "difficulty": "4",
       "images": [],
@@ -105,13 +105,13 @@
       "context": "En Cali, Mateo evalúa el volumen de una rampa con secciones transversales semicirculares de radio $r(x) = \\sqrt{x}$ en $[0, 4]$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$4\\pi$",
           "is_correct": true,
           "feedback": "Correcto. $A(x) = \\frac{1}{2}\\pi x$. $V = \\frac{\\pi}{2} \\int_0^4 x \\, dx = \\frac{\\pi}{2} [\\frac{x^2}{2}]_0^4 = \\frac{\\pi}{2}(8) = 4\\pi$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$8\\pi$",
           "is_correct": false,
           "feedback": "Incorrecto. Se olvidó dividir por 2 para el área del semicírculo."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecto. Se usó el área de un círculo completo de radio $x$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "$A(x) = \\frac{1}{2}\\pi (\\sqrt{x})^2 = \\frac{\\pi}{2} x$. Integrando de 0 a 4: $\\frac{\\pi}{2} [\\frac{16}{2}] = 4\\pi$.",
       "difficulty": "4",
       "images": [],
@@ -151,13 +151,13 @@
       "context": "En Barranquilla, Camila calcula la longitud de arco $L$ de la curva $y = 2x$ desde $x=0$ hasta $x=3$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$3\\sqrt{5}$",
           "is_correct": true,
           "feedback": "Correcto. $f'(x) = 2 \\implies \\sqrt{1 + 2^2} = \\sqrt{5}$. $L = \\int_0^3 \\sqrt{5} \\, dx = 3\\sqrt{5}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "6",
           "is_correct": false,
           "feedback": "Incorrecto. Se tomó la diferencia de ordenadas $\\Delta y = 6$."
@@ -175,7 +175,7 @@
           "feedback": "Incorrecto. Se multiplicaron ambas diferencias."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Por fórmula de arco: $L = \\int_0^3 \\sqrt{1 + 4} dx = \\sqrt{5} \\int_0^3 dx = 3\\sqrt{5}$. Coincide con la distancia euclidiana entre $(0,0)$ y $(3,6)$.",
       "difficulty": "4",
       "images": [],
@@ -197,19 +197,19 @@
       "context": "En Cartagena, Santiago analiza la masa total $M$ de una varilla recta de 2 metros con densidad lineal variable $\\rho(x) = 3x^2$ kg/m.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "8 kg",
           "is_correct": true,
           "feedback": "Correcto. $M = \\int_0^2 3x^2 \\, dx = [x^3]_0^2 = 8$ kg."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "12 kg",
           "is_correct": false,
           "feedback": "Incorrecto. Se sustituyó $x=2$ directamente en la densidad $3(2^2) = 12$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "4 kg",
           "is_correct": false,
           "feedback": "Incorrecto. Error al antiderivar $3x^2$."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto. Se multiplicó por la longitud de 2 m dos veces."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La masa de una varilla no homogénea es la integral de la densidad lineal: $M = \\int_0^2 3x^2 dx = [x^3]_0^2 = 8$ kg.",
       "difficulty": "6",
       "images": [],
@@ -335,31 +335,31 @@
       "context": "En Pereira, Daniela determina la fuerza de presión hidrostática $F$ sobre una placa vertical rectangular de ancho 2 m y altura 3 m sumergida en agua (densidad $\\rho g = 10000$ N/m$^3$).",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "90,000 N",
           "is_correct": true,
           "feedback": "Correcto. $F = 20000 \\int_0^3 y \\, dy = 20000 [\\frac{y^2}{2}]_0^3 = 20000(4.5) = 90000$ N."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "180,000 N",
           "is_correct": false,
           "feedback": "Incorrecto. Se olvidó dividir entre 2 la integral de $y$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "60,000 N",
           "is_correct": false,
           "feedback": "Incorrecto. Se multiplicó la presión promedio por el área sin integrar."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "45,000 N",
           "is_correct": false,
           "feedback": "Incorrecto. Error al evaluar el área de la placa."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "$F = 20000 \\left[ \\frac{9}{2} \\right] = 90000$ N.",
       "difficulty": "6",
       "images": [],
@@ -427,19 +427,19 @@
       "context": "En Ibagué, Mariana encuentra el valor medio $f_{prom}$ de la función $f(x) = 3x^2$ en el intervalo $[0, 2]$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "4",
           "is_correct": true,
           "feedback": "Correcto. $\\int_0^2 3x^2 dx = 8$. Luego $f_{prom} = \\frac{8}{2 - 0} = 4$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "8",
           "is_correct": false,
           "feedback": "Incorrecto. Es el valor acumulado de la integral, falta dividir por la longitud del intervalo $b-a=2$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "6",
           "is_correct": false,
           "feedback": "Incorrecto. Se promediaron los valores en los extremos $f(0)=0$ y $f(2)=12$ ($12/2=6$)."
@@ -451,7 +451,7 @@
           "feedback": "Incorrecto. Error al evaluar la división entre el intervalo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El valor medio de una función en $[a,b]$ es $f_{prom} = \\frac{1}{b-a} \\int_a^b f(x) dx = \\frac{1}{2} [x^3]_0^2 = \\frac{8}{2} = 4$.",
       "difficulty": "6",
       "images": [],
@@ -473,13 +473,13 @@
       "context": "En Pasto, Carlos analiza la convergencia de la integral que calcula el volumen generado al girar $y = \\frac{{1}}{{\\sqrt{{x}}}}$ en $(0, 1]$ sobre el eje $x$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Diverge a infinito.",
           "is_correct": true,
           "feedback": "Correcto. $\\int_0^1 x^{-1} dx = [\\ln|x|]_0^1 = 0 - (-\\infty) = +\\infty$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Converge a $\\pi$.",
           "is_correct": false,
           "feedback": "Incorrecto. La integral de $1/x$ en el origen no converge."
@@ -497,7 +497,7 @@
           "feedback": "Incorrecto. El integrando es positivo no acotado."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "$\\int_0^1 \\frac{1}{x} dx$ es una integral impropia divergente de tipo $p=1$ ($p \\le 1$ diverge). El volumen es infinito.",
       "difficulty": "8",
       "images": [],
@@ -519,31 +519,31 @@
       "context": "En Santa Marta, Gabriela evalúa el volumen de un sólido con base circular $x^2 + y^2 \\le 4$ y secciones transversales cuadradas perpendiculares al eje $x$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$\\frac{128}{3}$",
           "is_correct": true,
           "feedback": "Correcto. $V = \\int_{-2}^2 (16 - 4x^2) dx = 2 [16x - \\frac{4x^3}{3}]_0^2 = 2 (32 - \\frac{32}{3}) = 2 (\\frac{64}{3}) = \\frac{128}{3}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\frac{64}{3}$",
           "is_correct": false,
           "feedback": "Incorrecto. Se integró solo en el semieje positivo $[0,2]$ sin multiplicar por 2."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "64",
           "is_correct": false,
           "feedback": "Incorrecto. Error al restar la fracción en la integral."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "32",
           "is_correct": false,
           "feedback": "Incorrecto. No se tuvo en cuenta que la altura del cuadrado es el doble del radio vertical."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Ancho del cuadrado $2y = 2\\sqrt{4-x^2}$. Área $A(x) = 4(4-x^2)$. $V = 4 \\int_{-2}^2 (4-x^2) dx = 8 [4(2) - 8/3] = \\frac{128}{3}$.",
       "difficulty": "8",
       "images": [],
@@ -565,13 +565,13 @@
       "context": "En Villavicencio, Andres examina el Teorema del Valor Medio para Integrales sobre $f(x) = x^2$ en $[0, 3]$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Sí, $c = \\sqrt{3} \\approx 1.73$",
           "is_correct": true,
           "feedback": "Correcto. $f_{prom} = \\frac{1}{3} \\int_0^3 x^2 dx = \\frac{9}{3} = 3$. $f(c) = c^2 = 3 \\implies c = \\sqrt{3}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Sí, $c = 1.5$",
           "is_correct": false,
           "feedback": "Incorrecto. 1.5 es el punto medio del intervalo, pero la función es cuadrática, no lineal."
@@ -589,7 +589,7 @@
           "feedback": "Incorrecto. El Teorema del Valor Medio garantiza su existencia para toda función continua."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Como $f$ es continua en $[0,3]$, existe $c$ tal que $c^2 = f_{prom} = 3 \\implies c = \\sqrt{3} \\in (0,3)$.",
       "difficulty": "8",
       "images": [],
@@ -657,13 +657,13 @@
       "context": "En Neiva, Felipe compara los métodos de discos y cascarones para calcular el volumen de un sólido simétrico.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Cuando la región rota alrededor de un eje vertical y la función está despejada de la forma $y = f(x)$.",
           "is_correct": true,
           "feedback": "Correcto. Cascarones evita tener que despejar $x = g(y)$, lo cual puede ser algebraicamente complejo o imposible."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Únicamente cuando la región no toca el eje de rotación.",
           "is_correct": false,
           "feedback": "Incorrecto. Ambos métodos funcionan independientemente de si toca o no el eje."
@@ -681,7 +681,7 @@
           "feedback": "Incorrecto. Cascarones genera envolventes cilíndricas céntricas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Cascarones permite integrar respecto a $x$ cuando se gira alrededor de un eje vertical, evitando invertir $y=f(x)$.",
       "difficulty": "8",
       "images": [],
@@ -703,19 +703,19 @@
       "context": "En Popayán, Lucia calcula el centroide de un semicírculo $y = \\sqrt{{R^2 - x^2}}$ de radio $R$ respecto al eje $y$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$\\bar{x} = 0$",
           "is_correct": true,
           "feedback": "Correcto. Al ser una figura simétrica respecto al eje $y$, el centro de masa en la dirección $x$ se encuentra en 0."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\bar{x} = \\frac{4R}{3\\pi}$",
           "is_correct": false,
           "feedback": "Incorrecto. Esta es la coordenada vertical $\\bar{y}$, no $\\bar{x}$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\bar{x} = R/2$",
           "is_correct": false,
           "feedback": "Incorrecto. La masa está distribuida simétricamente a izquierda y derecha."
@@ -727,7 +727,7 @@
           "feedback": "Incorrecto. Corresponde al extremo del intervalo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Por simetría axial respecto a $x=0$, el primer momento de área $M_y = 0$, por lo que $\\bar{x} = \\frac{M_y}{A} = 0$.",
       "difficulty": "8",
       "images": [],
@@ -749,13 +749,13 @@
       "context": "En Montería, Diego analiza la energía o trabajo requerido para bombear todo el agua de un tanque cilíndrico de radio $R$ y altura $H$ hasta el borde superior.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$W = \\rho g \\pi R^2 \\int_0^H y \\, dy = \\frac{1}{2} \\rho g \\pi R^2 H^2$",
           "is_correct": true,
           "feedback": "Correcto. Cada capa de volumen $\\pi R^2 dy$ tiene fuerza $\\rho g \\pi R^2 dy$ y se eleva una distancia $y$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$W = \\rho g \\pi R^2 H^2$",
           "is_correct": false,
           "feedback": "Incorrecto. Se omitió integrar $y$, multiplicando directamente por la altura total."
@@ -773,7 +773,7 @@
           "feedback": "Incorrecto. Corresponde a la masa/peso total del agua, no al trabajo de elevación."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "$W = \\int_0^H (\\rho g \\pi R^2 dy) y = \\rho g \\pi R^2 [\\frac{y^2}{2}]_0^H = \\frac{1}{2} \\rho g \\pi R^2 H^2$.",
       "difficulty": "10",
       "images": [],
@@ -887,13 +887,13 @@
       "context": "En Florencia, Andrea analiza la convergencia de la longitud de arco de la curva $y = x^2$ en $[0, 1]$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Es finita y se resuelve mediante sustitución trigonométrica $2x = \\tan(\\theta)$.",
           "is_correct": true,
           "feedback": "Correcto. El integrando es continuo y acotado en $[0,1]$, y la forma $\\sqrt{1+u^2}$ se integra mediante sustitución por tangente."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Es infinita por tener un término cuadrático.",
           "is_correct": false,
           "feedback": "Incorrecto. Integrar una función continua en un intervalo cerrado da un valor finito."
@@ -911,7 +911,7 @@
           "feedback": "Incorrecto. Es una integral estándar en los manuales de cálculo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La integral $\\int \\sqrt{1+u^2} du$ se resuelve con $u = \\tan(\\theta)$ o integración por partes, entregando una combinación de secante y logaritmo natural.",
       "difficulty": "10",
       "images": [],

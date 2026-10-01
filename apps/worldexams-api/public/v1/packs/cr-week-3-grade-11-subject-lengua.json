@@ -13,13 +13,13 @@
       "context": "Durante un club de lectura en el Liceo de Alajuela, se analiza la estructura tradicional de los textos narrativos literarios.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Planteamiento del estado inicial, irrupción de un conflicto (nudo), desarrollo de acciones y resolución final (desenlace).",
           "is_correct": true,
           "feedback": "Correcto. Es el orden lógico lineal clásico de la narrativa tradicional."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Presentación de tesis, argumentación de datos empíricos y contraargumentación conclusiva.",
           "is_correct": false,
           "feedback": "Incorrecto. Corresponde a la estructura de un texto argumentativo."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Es propio de textos normativos o legislativos oficiales."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La macroestructura narrativa tradicional se articula en torno a tres momentos fundamentales: introducción o planteamiento, nudo o conflicto y desenlace.\n\n---",
       "difficulty": "3",
       "images": [],
@@ -64,13 +64,13 @@
           "feedback": "Incorrecto. El omnisciente no forma parte de los acontecimientos del relato como personaje principal."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Narrador protagonista (primera persona que cuenta su propia vivencia de forma subjetiva).",
           "is_correct": true,
           "feedback": "Correcto. El narrador protagonista asume la voz principal relatando su experiencia directa."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Narrador testigo (tercera persona observadora que relata lo que le ocurre a otros personajes).",
           "is_correct": false,
           "feedback": "Incorrecto. El testigo presencia los hechos pero no es el centro dramático del relato."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. Es un estilo experimental poco frecuente y no describe la autovivencia típica del protagonista."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El narrador protagonista utiliza la primera persona del singular para articular el relato a partir de su perspectiva interna y vivencia de la trama.\n\n---",
       "difficulty": "3",
       "images": [],
@@ -109,13 +109,13 @@
           "feedback": "Incorrecto. La crónica es un texto en prosa y no se escribe con rimas poéticas."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "El compromiso con la verdad fáctica de los sucesos reales relatados siguiendo un orden temporal, aunque incorpore recursos literarios.",
           "is_correct": true,
           "feedback": "Correcto. La crónica se nutre de acontecimientos reales e históricos organizados cronológicamente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La ausencia absoluta de personajes humanos y de descripciones geográficas de Guanacaste.",
           "is_correct": false,
           "feedback": "Incorrecto. Al contrario, las crónicas abundan en personajes reales y precisiones espaciales territoriales."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. El estilo narrativo requiere verbos conjugados en pasado para relatar los hechos secuenciales."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "A diferencia de la ficción, la crónica histórica narra sucesos reales basándose en el testimonio, la investigación histórica y el ordenamiento temporal.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -154,13 +154,13 @@
           "feedback": "Incorrecto. Representa la voz de un narrador protagonista en primera persona."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Desde mi ventana vi pasar a don Carlos, quien corría despavorido mientras un perro de ojos rojos lo seguía de cerca entre los matorrales.",
           "is_correct": true,
           "feedback": "Correcto. El narrador testigo narra en primera persona lo que observa que le ocurre a otro personaje (don Carlos)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El joven corrió asustado sabiendo íntimamente que el Cadejos lo castigaría por sus malos actos.",
           "is_correct": false,
           "feedback": "Incorrecto. Indica una perspectiva de narrador omnisciente que conoce los pensamientos íntimos del joven."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. Corresponde al uso del narrador en segunda persona."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El narrador testigo participa de la acción de manera secundaria o la observa de cerca, relatando en primera persona los hechos que afectan a los protagonistas.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -238,13 +238,13 @@
       "context": "Andrey está redactando un relato de suspenso ambientado en los densos bosques lluviosos de la provincia de Limón.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Pretérito imperfecto de indicativo (cantaba, corría).",
           "is_correct": false,
           "feedback": "Incorrecto. Este tiempo se utiliza para describir estados, acciones habituales o el marco de fondo, no las acciones puntuales."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Pretérito perfecto simple de indicativo (cantó, corrió).",
           "is_correct": true,
           "feedback": "Correcto. Es el tiempo narrativo por excelencia para presentar hechos concluidos y puntuales que dinamizan la acción."
@@ -262,7 +262,7 @@
           "feedback": "Incorrecto. Proyecta acciones futuras, ajeno al tiempo estándar de la narración retrospectiva literaria."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El pretérito perfecto simple de indicativo introduce eventos puntuales y cronológicos que marcan los hitos sucesivos de la acción en la trama narrativa.\n\n---",
       "difficulty": "5",
       "images": [],
@@ -334,13 +334,13 @@
           "feedback": "Incorrecto. Es el inicio cronológico descriptivo convencional (planteamiento clásico)."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "La bala silbó cerca de su oído izquierdo mientras corría desesperadamente entre los callejones oscuros de Alajuela.",
           "is_correct": true,
           "feedback": "Correcto. Arroja al lector directamente al núcleo del peligro y la acción sin preámbulos explicativos de la situación."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Este cuento relatará los acontecimientos que llevaron al gran terremoto de Cartago de mil novecientos diez.",
           "is_correct": false,
           "feedback": "Incorrecto. Es un inicio expositivo o de crónica retrospectiva de advertencia al lector."
@@ -352,7 +352,7 @@
           "feedback": "Incorrecto. Es la fórmula arquetípica de introducción de los cuentos tradicionales."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El inicio 'in media res' comienza el relato en un punto de tensión del conflicto, despertando un interés inmediato mediante el dinamismo de la acción.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -424,25 +424,25 @@
           "feedback": "Incorrecto. El protagonista mantiene su importancia central; los secundarios giran en torno a él."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Contribuir al avance de la trama principal realizando acciones que interactúan con el protagonista y enriquecen los conflictos secundarios.",
           "is_correct": true,
           "feedback": "Correcto. Los secundarios dan densidad social, diversifican la trama e impulsan o entorpecen los planes del héroe."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Redactar el prólogo histórico del libro para explicar el cultivo de banano en el Caribe.",
           "is_correct": false,
           "feedback": "Incorrecto. El prólogo lo escribe el autor o un prologuista, no un personaje de ficción."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Explicar las reglas gramaticales y sintácticas del Ministerio.",
           "is_correct": false,
           "feedback": "Incorrecto. No tienen fines didácticos de ortografía, son de ficción literaria."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Los personajes secundarios configuran el entorno dramático y actúan como facilitadores u opositores del protagonista, dinamizando la obra.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -463,31 +463,31 @@
       "context": "La carreta vacía bajaba chirriando por la cuesta pedregosa de Cartago. El viejo peón caminaba cabizbajo, sin arrear a los bueyes, que conocían de memoria la ruta de regreso al trapiche. Un silencio denso envolvía la tarde gris, interrumpido únicamente por el quejido de la madera reseca.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "El chirrido metálico, el silencio denso y la tarde gris se corresponden con el estado de ánimo de melancolía y resignación del peón.",
           "is_correct": true,
           "feedback": "Correcto. El ambiente y los sonidos reflejan simbólicamente la fatiga existencial, soledad y tristeza del personaje principal."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Los bueyes simbolizan la rebelión inminente de los obreros agrícolas costarricenses contra las municipalidades.",
           "is_correct": false,
           "feedback": "Incorrecto. Los bueyes caminan dócilmente por la ruta de memoria, no muestran signos de rebelión."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La tarde gris es una descripción meteorológica que busca de forma explícita instruir sobre el clima de Cartago.",
           "is_correct": false,
           "feedback": "Incorrecto. La descripción posee un fin expresivo estético literario, no meteorológico divulgativo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El quejido de la madera anuncia la destrucción fantástica de la carreta por un rayo del Volcán Irazú.",
           "is_correct": false,
           "feedback": "Incorrecto. El quejido es mecánico debido a la vejez de la carreta, no una premonición de fantasía."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "En la literatura realista y costumbrista, la atmósfera espacial y sensorial se proyecta como una prolongación de los sentimientos e intimidad de los personajes.\n\n---",
       "difficulty": "7",
       "images": [],
@@ -514,25 +514,25 @@
           "feedback": "Incorrecto. Detiene momentáneamente la progresión de la línea temporal presente, retardando el desenlace."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Suspender temporalmente el hilo del presente para revelar acontecimientos pasados cruciales que justifican las conductas actuales del personaje principal.",
           "is_correct": true,
           "feedback": "Correcto. La analepsis retrocede el tiempo cronológico para contextualizar y dar densidad dramática a los hechos del presente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Permitir que el lector decida libremente el orden geográfico de las provincias que desea visitar en sus vacaciones.",
           "is_correct": false,
           "feedback": "Incorrecto. No se trata de una guía de viajes interactiva, sino de un recurso narrativo estructural temporal."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Explicar las normas de ortografía y puntuación aplicables a las cartas del siglo diecinueve.",
           "is_correct": false,
           "feedback": "Incorrecto. El fin es puramente estético y compositivo literario, no una lección de ortografía."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La analepsis fractura el orden cronológico lineal para enriquecer la profundidad psicológica de la obra y proveer datos del pasado fundamentales para la trama.\n\n---",
       "difficulty": "7",
       "images": [],
@@ -553,13 +553,13 @@
       "context": "En un cuento costumbrista, un personaje exclama:\n\n'—¡Diay, compadre! Si no apuramos el paso, el aguacero nos va a agarrar a medio camino de Heredia y nos vamos a empapar de lo lindo.'",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Nivel científico formal con abundantes préstamos de la biología.",
           "is_correct": false,
           "feedback": "Incorrecto. No utiliza tecnicismos científicos, sino expresiones sumamente sencillas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Nivel coloquial costarricense, caracterizado por el uso de interjecciones típicas ('diay') y giros idiomáticos populares de la región.",
           "is_correct": true,
           "feedback": "Correcto. El 'diay' y expresiones coloquiales como 'empapar de lo lindo' son marcas claras del registro informal y popular local."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. El lenguaje es directo y popular, no posee la ornamentación de la poesía barroca."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La literatura costumbrista costarricense de autores como Aquileo J. Echeverría recrea el habla popular rústica para dar autenticidad y color local al relato.\n\n---",
       "difficulty": "7",
       "images": [],
@@ -604,25 +604,25 @@
           "feedback": "Incorrecto. El realismo social denuncia carencias, no hace propaganda laboral agraria."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Pretende denunciar las injusticias y desigualdades sociales de la época, dando voz y visibilidad a sectores históricamente marginados de la nación.",
           "is_correct": true,
           "feedback": "Correcto. Es el postulado básico de la narrativa realista de la generación de los cuarenta y cincuenta en Costa Rica."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Desea convencer al MEP de eliminar las clases de literatura de los colegios.",
           "is_correct": false,
           "feedback": "Incorrecto. La obra artística no tiene como propósito la reforma curricular escolar interna de secundaria."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Tiene la intención de explicar detalladamente la mecánica de los motores de los trapiches.",
           "is_correct": false,
           "feedback": "Incorrecto. Se enfoca en las condiciones humanas y sociales, no en descripciones industriales puras."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La narrativa de realismo social en Costa Rica posee una marcada intencionalidad de crítica política y denuncia social mediante el retrato fiel de las clases trabajadoras.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -643,13 +643,13 @@
       "context": "Un crítico literario evalúa una novela de misterio ambientada en San José que recurre constantemente a 'deus ex machina' (resoluciones imprevistas por elementos ajenos a la lógica interna de la historia) para solucionar los conflictos del protagonista.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La fortalece porque introduce elementos mágicos que deleitan a la población escolar de Costa Rica.",
           "is_correct": false,
           "feedback": "Incorrecto. El uso de resoluciones mágicas incongruentes desbarata la verosimilitud de la historia, decepcionando al lector."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La debilita profundamente, ya que los conflictos principales se resuelven de forma arbitraria e inverosímil, rompiendo la lógica interna y el esfuerzo del protagonista por superar sus problemas.",
           "is_correct": true,
           "feedback": "Correcto. El 'deus ex machina' frustra el desarrollo orgánico de la trama, restando mérito al diseño lógico de las acciones de los personajes."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. Reducir páginas por mera prisa no constituye un mérito estético de la creación artística literaria."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Un tejido narrativo consistente exige que el desarrollo y desenlace broten de la causalidad interna de los personajes y sus decisiones, evitando intervenciones caprichosas.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -694,25 +694,25 @@
           "feedback": "Incorrecto. Es uno de los recursos de resolución más trillados de la historia de la narrativa de ficción."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Es evaluado frecuentemente como un desenlace facilista o cliché que resta valor a la construcción fantástica previa al invalidar el universo ficticio como simple fantasía onírica.",
           "is_correct": true,
           "feedback": "Correcto. Resolver una trama compleja con 'todo fue un sueño' anula la autenticidad y la inmersión del mundo creado, devaluando el suspenso literario."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Resulta instructivo para enseñar a los jóvenes costarricenses a dormir temprano.",
           "is_correct": false,
           "feedback": "Incorrecto. El fin de un cuento literario fantástico no es dar lecciones morales de higiene del sueño."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Es inválido ya que el MEP prohíbe la recreación de cuentos que mencionen escuelas del país.",
           "is_correct": false,
           "feedback": "Incorrecto. No hay prohibiciones sobre la temática del ambiente escolar cotidiano en cuentos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Los finales basados en 'todo fue un sueño' suelen ser cuestionados críticamente por anular el pacto de verosimilitud de forma sólida.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -784,13 +784,13 @@
           "feedback": "Incorrecto. Es un tropo literario subjetivo, no una descripción del zoológico de la ciudad."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Anuncia que el protagonista será encarcelado por robo.",
           "is_correct": false,
           "feedback": "Incorrecto. No hay elementos que apunten a delitos del protagonista; la jaula es un estado existencial de ahogo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Sintetiza la profunda opresión, alineación y asfixia vital que experimenta el personaje frente a la hostilidad del entorno urbano josefino.",
           "is_correct": true,
           "feedback": "Correcto. El tropo de la jaula transmite con fuerza estética el sentimiento de encierro existencial del personaje en el medio de la gran urbe capitalina."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. Carece de sentido dentro del análisis estético e intimista de la perspectiva literaria del fragmento."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "La metáfora espacial asocia el cemento citadino con el confinamiento de la jaula, externalizando la alienación existencial y la infelicidad del protagonista en San José.\n\n---",
       "difficulty": "9",
       "images": [],
@@ -829,13 +829,13 @@
           "feedback": "Incorrecto. Se trata de un grave error de coherencia cronológica e histórica elemental."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Constituye un anacronismo severo que destruye la verosimilitud y el pacto de realismo histórico indispensable en este género.",
           "is_correct": true,
           "feedback": "Correcto. Un anacronismo consiste en situar elementos tecnológicos u objetos fuera de su época histórica correspondiente, arruinando el realismo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Representa una metáfora sobre el desarrollo de las telecomunicaciones en el país.",
           "is_correct": false,
           "feedback": "Incorrecto. No hay ninguna justificación simbólica, es una simple transgresión de la fidelidad del contexto histórico."
@@ -847,7 +847,7 @@
           "feedback": "Incorrecto. Juan Santamaría era un humilde peón alajuelense y la tecnología telefónica celular no se inventó hasta el siglo veinte."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La fidelidad histórica y la ausencia de anacronismos absurdos son fundamentales en la narrativa histórica para sostener la credibilidad del marco de fondo.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -874,25 +874,25 @@
           "feedback": "Incorrecto. Es un aspecto astronómico y geográfico ajeno a la teoría del análisis literario formal de novelas."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "El tiempo de la historia es el orden cronológico objetivo de los hechos, mientras que el tiempo del relato es la forma estética y subjetiva en que el narrador dispone los sucesos en el texto.",
           "is_correct": true,
           "feedback": "Correcto. Describe fielmente los conceptos de fábula (cronológica) y trama (artística temporal dispositiva)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "A la velocidad de lectura que tiene un estudiante del Liceo de Heredia comparada con la de un profesor del MEP.",
           "is_correct": false,
           "feedback": "Incorrecto. La velocidad física de lectura individual no forma parte de la estructura de la novela misma."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "A la época de la colonia en Costa Rica frente a la época democrática costarricense.",
           "is_correct": false,
           "feedback": "Incorrecto. Es una distinción sociológica histórica externa que no define los componentes de la teoría temporal narrativa interna."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La teoría literaria distingue el tiempo real de los hechos ficticios de la organización artística temporal (prolepsis, analepsis, elipsis) que realiza el narrador.",
       "difficulty": "10",
       "images": [],

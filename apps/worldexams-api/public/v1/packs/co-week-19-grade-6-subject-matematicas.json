@@ -13,13 +13,13 @@
       "context": "En la plaza principal de Tunja hay una fuente circular y el profesor dibuja sus partes en el tablero.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El diámetro es el doble del radio",
           "is_correct": true,
           "feedback": "Explica por qué es correcta: el diámetro cruza el centro uniendo dos puntos opuestos, por eso mide dos radios."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El diámetro es la mitad del radio",
           "is_correct": false,
           "feedback": "Explica el error conceptual: invierte la relación; el radio es la mitad del diámetro, no al revés."
@@ -37,7 +37,7 @@
           "feedback": "Explica el error conceptual: ambos se definen desde el centro, así que están directamente relacionados."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Radio (r) es la distancia del centro a la circunferencia y diámetro (d) la atraviesa por el centro: d = 2 × r. Esta relación es la base de todas las fórmulas del círculo.",
       "difficulty": "4",
       "images": [],
@@ -59,13 +59,13 @@
       "context": "En un taller de Bucaramanga una rueda de bicicleta tiene radio de 30 cm.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "60 cm",
           "is_correct": true,
           "feedback": "Explica por qué es correcta: el diámetro es el doble del radio, y 2 × 30 = 60 cm."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "30 cm",
           "is_correct": false,
           "feedback": "Explica el error conceptual: repite el radio en vez de duplicarlo para hallar el diámetro."
@@ -83,7 +83,7 @@
           "feedback": "Explica el error conceptual: multiplica el radio por tres sin justificación geométrica."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Aplicar d = 2 × r con r = 30 cm da d = 60 cm. Comprender la relación permite pasar del radio al diámetro y viceversa en cualquier problema circular.",
       "difficulty": "4",
       "images": [],
@@ -105,19 +105,19 @@
       "context": "En Medellín un jardinero cerca un arriate circular de radio 7 m con alambre. Usa pi ≈ 3.14.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "43.96 m",
           "is_correct": true,
           "feedback": "Explica por qué es correcta: L = 2 × 3.14 × 7 = 43.96 m de longitud de circunferencia."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "21.98 m",
           "is_correct": false,
           "feedback": "Explica el error conceptual: usa solo un radio (3.14 × 7) olvidando el factor 2 de la fórmula."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "153.86 m",
           "is_correct": false,
           "feedback": "Explica el error conceptual: calcula el área (3.14 × 49) en vez de la longitud del borde."
@@ -129,7 +129,7 @@
           "feedback": "Explica el error conceptual: suma apenas el diámetro sin multiplicar por pi."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Rodear un círculo es hallar la longitud de la circunferencia: L = 2 × pi × r = 2 × 3.14 × 7 = 43.96 m. Longitud y área son magnitudes distintas que no deben confundirse.",
       "difficulty": "6",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "En Barranquilla una glorieta tiene 20 m de diámetro y se quiere pintar una línea en su borde. Usa pi ≈ 3.14.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "62.8 m",
           "is_correct": true,
           "feedback": "Explica por qué es correcta: L = pi × d = 3.14 × 20 = 62.8 m."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "31.4 m",
           "is_correct": false,
           "feedback": "Explica el error conceptual: usa el radio (10) en la fórmula del diámetro sin el factor correcto."
@@ -221,7 +221,7 @@
           "feedback": "Explica el error conceptual: duplica el diámetro sin multiplicar por pi."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Con el diámetro conocido, la fórmula directa es L = pi × d. Así, 3.14 × 20 = 62.8 m. Elegir la fórmula según el dato disponible ahorra pasos y errores.",
       "difficulty": "6",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "En Manizales un carpintero compara una mesa circular de radio 2 m con una cuadrada de 3 m de lado. Usa pi ≈ 3.14.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La circular, supera por 3.56 m²",
           "is_correct": true,
           "feedback": "Explica por qué es correcta: círculo: 3.14 × 4 = 12.56; cuadrado: 9; diferencia: 12.56 - 9 = 3.56 m²."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La cuadrada, supera por 3.56 m²",
           "is_correct": false,
           "feedback": "Explica el error conceptual: invierte la comparación; 9 es menor que 12.56, no mayor."
@@ -313,7 +313,7 @@
           "feedback": "Explica el error conceptual: 12.56 y 9 difieren en más de 3 m², no son iguales."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Comparar áreas exige calcular cada una con su fórmula: círculo 12.56 m² frente a cuadrado 9 m². La diferencia de 3.56 m² muestra que formas distintas con medidas parecidas rinden superficies distintas.",
       "difficulty": "8",
       "images": [],
@@ -335,31 +335,31 @@
       "context": "En Cartagena una cinta de 62.8 m rodea exactamente una pista circular. Usa pi ≈ 3.14.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "10 m",
           "is_correct": true,
           "feedback": "Explica por qué es correcta: r = 62.8 ÷ (2 × 3.14) = 62.8 ÷ 6.28 = 10 m."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "20 m",
           "is_correct": false,
           "feedback": "Explica el error conceptual: divide solo entre 3.14 y obtiene el diámetro, no el radio."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "31.4 m",
           "is_correct": false,
           "feedback": "Explica el error conceptual: divide entre 2 olvidando dividir también entre pi."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "5 m",
           "is_correct": false,
           "feedback": "Explica el error conceptual: divide dos veces entre 2, reduciendo el radio a la mitad real."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Despejar el radio de L = 2 × pi × r da r = L ÷ (2 × pi). Con L = 62.8 y pi = 3.14, r = 10 m. Invertir fórmulas es una destreza algebraica fundamental.",
       "difficulty": "8",
       "images": [],
@@ -381,13 +381,13 @@
       "context": "En Pereira un estudiante afirma: \"Si el radio de un círculo se duplica, su área también se duplica\". Usa pi ≈ 3.14.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "No, el área se cuadruplica: pasa de 28.26 m² a 113.04 m²",
           "is_correct": true,
           "feedback": "Explica por qué es correcta: 3.14 × 9 = 28.26 y 3.14 × 36 = 113.04; 113.04 es 4 veces 28.26."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Sí, el área pasa de 28.26 m² a 56.52 m²",
           "is_correct": false,
           "feedback": "Explica el error conceptual: duplica el área en vez de recalcular con el nuevo radio al cuadrado."
@@ -405,7 +405,7 @@
           "feedback": "Explica el error conceptual: la longitud se duplica pero el área depende del cuadrado del radio."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El área depende de r²: al duplicar r, r² se multiplica por 4. Por eso el área se cuadruplica (28.26 → 113.04). Distinguir crecimiento lineal de cuadrático es clave en geometría.",
       "difficulty": "10",
       "images": [],
@@ -427,13 +427,13 @@
       "context": "En Pasto una familia siembra hortalizas: lote circular de radio 5 m o lote rectangular de 8 m por 10 m. Usa pi ≈ 3.14.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El rectangular, con 80 m² frente a 78.5 m² del circular",
           "is_correct": true,
           "feedback": "Explica por qué es correcta: círculo: 3.14 × 25 = 78.5; rectángulo: 8 × 10 = 80; 80 > 78.5."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El circular, porque el círculo siempre rinde más área",
           "is_correct": false,
           "feedback": "Explica el error conceptual: ninguna forma \"siempre\" gana; hay que calcular cada caso concreto."
@@ -451,7 +451,7 @@
           "feedback": "Explica el error conceptual: sumar medidas lineales no equivale a comparar superficies."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Decidir con geometría exige calcular: 78.5 m² contra 80 m². El rectángulo gana por 1.5 m², una diferencia pequeña pero real que solo aparece al operar con precisión.",
       "difficulty": "10",
       "images": [],

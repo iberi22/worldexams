@@ -25,19 +25,19 @@
           "feedback": "Incorrecto. Las letras forman palabras, no oraciones necesariamente."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Un conjunto de palabras que expresa una idea completa y tiene sentido por sí sola.",
           "is_correct": true,
           "feedback": "Correcto. La oración comunica algo y termina con punto, signo de interrogación o de exclamación."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Una sola palabra con terminación verbal.",
           "is_correct": false,
           "feedback": "Incorrecto. Una oración necesita varias palabras organizadas."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Una oración es una unidad de sentido que tiene autonomía: el lector la entiende aunque esté sola. Toda oración tiene al menos un sujeto y un predicado, y siempre termina con un signo de puntuación final.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -65,13 +65,13 @@
           "feedback": "Incorrecto. Los puntos dividen tres oraciones distintas."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Hay tres oraciones separadas por punto seguido.",
           "is_correct": true,
           "feedback": "Correcto. Cada punto seguido marca el final de una oración."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Hay dos oraciones separadas por un punto y aparte.",
           "is_correct": false,
           "feedback": "Incorrecto. Las tres frases terminan con punto seguido."
@@ -83,7 +83,7 @@
           "feedback": "Incorrecto. Cada frase es una oración con sentido propio."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El punto seguido une oraciones dentro de un mismo párrafo; el punto y aparte separa párrafos. Reconocer estas pausas ayuda a leer en voz alta con la entonación correcta.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -111,13 +111,13 @@
           "feedback": "Incorrecto. Hay al menos una pregunta y una exclamación."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Solo hay una oración interrogativa; las demás son exclamativas.",
           "is_correct": false,
           "feedback": "Incorrecto. La tercera es enunciativa."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Interrogativa (pregunta), exclamativa (emoción) y enunciativa (información).",
           "is_correct": true,
           "feedback": "Correcto. Cada intención usa una estructura y un signo distinto."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecto. No se trata de dar órdenes en este cartel."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Tipos de oración según la intención: enunciativa (informa), interrogativa (pregunta), exclamativa (emoción), imperativa (orden), desiderativa (deseo) y dubitativa (duda). Cada una usa una entonación y un signo final propios.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -151,13 +151,13 @@
       "context": "Un alumno de Pereira escribe tres líneas: «La ventana está abierta. La ventana no está abierta. ¿Está abierta la ventana?».",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Las tres son afirmativas porque no niegan nada.",
           "is_correct": false,
           "feedback": "Incorrecto. La segunda es claramente negativa."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Afirmativa, negativa e interrogativa.",
           "is_correct": true,
           "feedback": "Correcto. Cada modalidad refleja una actitud distinta del hablante."
@@ -175,7 +175,7 @@
           "feedback": "Incorrecto. La primera no expresa emoción."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Modalidades de la oración: afirmativa (dice sí), negativa (dice no), interrogativa (pregunta), exclamativa (emociona). Una misma idea se puede expresar de cuatro formas, cada una con su efecto sobre el lector.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "Un niño de Pasto narra: «Mis amigos vinieron a la casa, trajeron helado y jugamos toda la tarde».",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Es una sola oración porque tiene un solo verbo.",
           "is_correct": false,
           "feedback": "Incorrecto. Hay tres verbos conjugados: vinieron, trajeron, jugamos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Son tres oraciones unidas por comas y una conjunción.",
           "is_correct": true,
           "feedback": "Correcto. Cada verbo marca una acción distinta y, por tanto, una oración."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto. Cualquier oración se puede segmentar por sus verbos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Para contar las oraciones de un texto, busca los verbos conjugados. Cada verbo marca una acción distinta y, salvo excepciones, cada acción corresponde a una oración propia.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -427,19 +427,19 @@
       "context": "Un aviso escolar en Cartagena dice: «Si traes el cuaderno, podrás entrar al salón. Si no traes el cuaderno, te quedarás afuera».",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El aviso resulta confuso porque repite lo mismo.",
           "is_correct": false,
           "feedback": "Incorrecto. La repetición refuerza la norma y deja clara la consecuencia."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Solo la segunda oración informa, la primera sobra.",
           "is_correct": false,
           "feedback": "Incorrecto. Ambas son necesarias para entender la condición."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "La estructura paralela deja muy claras la condición y la consecuencia.",
           "is_correct": true,
           "feedback": "Correcto. El paralelismo hace la norma fácil de recordar."
@@ -451,7 +451,7 @@
           "feedback": "Incorrecto. La intención es informar con claridad, no amenazar."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "La estructura condicional «si + condición, consecuencia» es una herramienta poderosa en avisos y normas. Repetir el esquema con paralelismo ayuda a que el mensaje quede claro para todos los lectores.",
       "difficulty": "10",
       "images": [],

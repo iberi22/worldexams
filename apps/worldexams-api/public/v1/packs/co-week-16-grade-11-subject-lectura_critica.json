@@ -13,13 +13,13 @@
       "context": "Lea el siguiente fragmento de un artículo científico: \"La fotosíntesis es el proceso metabólico mediante el cual las plantas, algas y algunas bacterias convierten la materia inorgánica en materia orgánica utilizando la energía de la luz solar. Este proceso ocurre en los cloroplastos, organelos especializados que contienen clorofila\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Definir y explicitar las características fundamentales del fenómeno biológico de la fotosíntesis.",
           "is_correct": true,
           "feedback": "Correcto. El texto expone objetivamente la definición, los actores y la ubicación celular del proceso biológico."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Persuadir al lector sobre la importancia de comprar abonos orgánicos para jardinería.",
           "is_correct": false,
           "feedback": "Incorrecto. El fragmento es expositivo-científico y no contiene llamados comerciales de venta."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. El lenguaje utilizado es neutro, denotativo e impersonal, propio de la divulgación científica."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La función principal del texto expositivo es transmitir conocimiento de manera objetiva, clara y organizada, primando la denotación y la conceptualización.",
       "difficulty": "4",
       "images": [],
@@ -59,13 +59,13 @@
       "context": "En un texto sobre la historia de Bogotá se afirma: \"A diferencia de las ciudades coloniales de la costa como Cartagena, que contaban con fortificaciones de piedra frente al mar, la Bogotá del siglo XVII se caracterizó por su arquitectura de tapia pisada e iglesias sencillas enclavadas en la sabana\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "\"A diferencia de\"",
           "is_correct": true,
           "feedback": "Correcto. La locución conjuntiva \"A diferencia de\" introduce explícitamente una comparación por oposición entre dos elementos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "\"que contaban con\"",
           "is_correct": false,
           "feedback": "Incorrecto. Es una proposición subordinada adjetiva que describe a las ciudades costeras."
@@ -83,7 +83,7 @@
           "feedback": "Incorrecto. Es un complemento circunstancial de tiempo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Los conectores de contraste en los textos expositivos permiten comparar categorías u objetos estableciendo diferencias estructurales o contextuales.",
       "difficulty": "4",
       "images": [],
@@ -105,19 +105,19 @@
       "context": "En un manual de ecología se lee: \"El efecto invernadero es un fenómeno natural provocado por ciertos gases atmosféricos. Sin embargo, las actividades industriales han incrementado drásticamente la concentración de estos gases, provocando el calentamiento global\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Introduce una objeción o restricción que diferencia el fenómeno natural de la alteración humana.",
           "is_correct": true,
           "feedback": "Correcto. \"Sin embargo\" contrapone la condición natural del efecto invernadero con su distorsión antrópica industrial."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Señala la causa directa por la cual surgieron los gases atmosféricos originales.",
           "is_correct": false,
           "feedback": "Incorrecto. Los conectores causales son \"porque\", \"debido a\", entre otros; \"Sin embargo\" es adversativo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Enumera en orden cronológico los descubrimientos de los ecólogos del siglo XX.",
           "is_correct": false,
           "feedback": "Incorrecto. No es un conector temporal ni de ordenamiento secuencial."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecto. El conector no indica conclusión ni eliminación del fenómeno, sino una agravación problemática."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Los conectores adversativos como \"Sin embargo\" restringen la afirmación previa para precisar la complejidad del concepto expuesto.",
       "difficulty": "4",
       "images": [],
@@ -151,19 +151,19 @@
       "context": "Un informe técnico sobre el volcán Nevado del Ruiz explica: \"El volcán se clasifica como un estratovolcán. Esto significa que está formado por múltiples capas de lava endurecida, piroclastos y ceniza acumuladas durante milenios\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Aclarar o reformular conceptualmente el término técnico \"estratovolcán\" para facilitar su comprensión.",
           "is_correct": true,
           "feedback": "Correcto. Los marcadores de reformulación explicativa traducen términos especializados al lenguaje comprensible."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Desmentir la clasificación del Ruiz como un volcán activo en la cordillera Central.",
           "is_correct": false,
           "feedback": "Incorrecto. El texto confirma y explica la clasificación, no la invalida."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Presentar una opinión política sobre el presupuesto de gestión del riesgo.",
           "is_correct": false,
           "feedback": "Incorrecto. El texto es de carácter estrictamente vulcanológico y no de debate presupuestal."
@@ -175,7 +175,7 @@
           "feedback": "Incorrecto. Mantiene el hilo temático profundizando en la estructura del volcán."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Los organizadores explicativos en la divulgación científica permiten desempaquetar la terminología especializada para el lector no experto.",
       "difficulty": "4",
       "images": [],
@@ -197,19 +197,19 @@
       "context": "En un texto expositivo sobre inteligencia artificial se presenta el siguiente esquema: 1. Orígenes teóricos (1950), 2. Desarrollo de redes neuronales (1980), 3. Modelo de procesamiento masivo de datos (2010), 4. Algoritmos generativos contemporáneos (2020).",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Una secuencia cronológica que detalla la evolución temporal del campo tecnológico.",
           "is_correct": true,
           "feedback": "Correcto. El ordenamiento por fechas sucesivas demuestra una estructura explicativa lineal y evolutiva."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Una jerarquía de causa y efecto que atribuye las crisis económicas a las computadoras.",
           "is_correct": false,
           "feedback": "Incorrecto. La estructura es un recorrido de hitos históricos por décadas y no un modelo de causa económica."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Una clasificación por regiones geográficas donde se fabrican los dispositivos.",
           "is_correct": false,
           "feedback": "Incorrecto. El criterio de división es temporal (años) y no espacial o biogeográfico."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto. El formato es una enumeración expositiva secuencial y no un texto dramático o dialógico."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Reconocer los modelos organizativos de los textos expositivos (secuencia cronológica, causa-efecto, problema-solución) es clave para su comprensión global.",
       "difficulty": "6",
       "images": [],
@@ -243,19 +243,19 @@
       "context": "Un texto informativo sobre la pérdida de biodiversidad en los ríos de Colombia utiliza cuadros estadísticos, mapas hidrográficos y citas de biólogos de la Universidad Nacional. El autor evita usar adjetivos valorativos como \"terrible\", \"horrible\" o \"malvados\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Preservar la objetividad discursiva propia de los textos informativos para que la evidencia hable por sí misma.",
           "is_correct": true,
           "feedback": "Correcto. Evitar juicios de valor adjetivados fortalece el rigor técnico y la imparcialidad del escrito expositivo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Ocultar que los ríos colombianos están sufriendo problemas de contaminación.",
           "is_correct": false,
           "feedback": "Incorrecto. El texto expone el problema con datos y mapas, pero prescinde del sensacionalismo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Demostrar que los biólogos carecen de opinión sobre el medio ambiente.",
           "is_correct": false,
           "feedback": "Incorrecto. Citar a los expertos aporta autoridad científica sin caer en descalificaciones emotivas."
@@ -267,7 +267,7 @@
           "feedback": "Incorrecto. La neutralidad estilística obedece a criterios de rigor periodístico-científico y no a espacio."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La objetividad en los textos expositivos e informativos se logra mediante la denotación, la eliminación de adjetivos emotivos y el apoyo en datos empíricos.",
       "difficulty": "6",
       "images": [],
@@ -289,19 +289,19 @@
       "context": "En una enciclopedia de zoología se expone: \"Los anfibios son vertebrados ectotérmicos. Esto implica que su temperatura corporal depende directamente de las fuentes de calor del ambiente externo, como la radiación solar o la temperatura del agua\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Experimentará un descenso paralelo en su temperatura corporal al no poder autorregularla internamente.",
           "is_correct": true,
           "feedback": "Correcto. Al ser ectotérmicos (dependientes del entorno), la disminución del calor ambiental afecta directamente su temperatura biológica."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Encenderá su sistema circulatorio interno para mantener el cuerpo caliente automáticamente.",
           "is_correct": false,
           "feedback": "Incorrecto. El texto aclara que no producen calor interno autorregulado como los endotermos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Se transformará de inmediato en un mamífero de sangre caliente.",
           "is_correct": false,
           "feedback": "Incorrecto. Es una deducción biológicamente absurda que contradice la definición del taxón."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecto. Requiere justamente de fuentes externas para regular su temperatura."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La extracción de inferencias directas a partir de definiciones expositivas evalúa la capacidad de aplicar conceptos teóricos a situaciones hipotéticas.",
       "difficulty": "6",
       "images": [],
@@ -335,13 +335,13 @@
       "context": "Un texto informativo sobre la economía campesina en Boyacá presenta la siguiente estructura de párrafos: Párrafo 1: \"Desafíos de la escasez de mano de obra joven\". Párrafo 2: \"Consecuencia: Disminución de la superficie cultivada de papa\". Párrafo 3: \"Propuesta: Mecanización e incentivos a jóvenes rurales\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Problema - Causa/Efecto - Solución.",
           "is_correct": true,
           "feedback": "Correcto. Se plantea una problemática (pérdida de mano de obra), su impacto (menor cultivo) y las medidas para resolverla."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Tesis argumentativa - Contraargumento - Conclusión filosófica.",
           "is_correct": false,
           "feedback": "Incorrecto. No se trata de un debate ideológico de opinión sino de un diagnóstico de dinámica agropecuaria."
@@ -359,7 +359,7 @@
           "feedback": "Incorrecto. No se abordan cadenas de retail ni precios al consumidor."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El esquema problema-solución es una de las estructuras organizativas más comunes en informes técnicos y divulgación socioeconómica.",
       "difficulty": "6",
       "images": [],
@@ -381,13 +381,13 @@
       "context": "Un folleto médico explica el funcionamiento de la insulina: \"La insulina actúa como una llave que abre las puertas de las células para que la glucosa presente en la sangre pueda entrar y convertirse en energía\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Facilitar la comprensión de un proceso bioquímico complejo mediante una imagen de la vida cotidiana.",
           "is_correct": true,
           "feedback": "Correcto. Las analogías en textos de divulgación médica permiten visibilizar mecanismos microscópicos mediante comparaciones sencillas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Demostrar que las células están fabricadas con cerrojos de metal.",
           "is_correct": false,
           "feedback": "Incorrecto. Es una metáfora didáctica y no una afirmación anatómica literal sobre las células."
@@ -405,7 +405,7 @@
           "feedback": "Incorrecto. La analogía explica cómo la glucosa entra para dar energía y no para ser bloqueada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Las analogías y metáforas explicativas son herramientas didácticas fundamentales en el texto expositivo para tender puentes entre la ciencia y el público.",
       "difficulty": "6",
       "images": [],
@@ -427,31 +427,31 @@
       "context": "Un texto informativo sobre la historia de la aviación comercial en Colombia menciona que SCADTA (fundada en Barranquilla en 1919) fue la primera aerolínea de América. El texto incluye datos de flota, rutas iniciales y nombres de los fundadores alemanes y colombianos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Juicios de valor apasionados sobre cuál de los fundadores era \"más simpático\" o \"mejor persona\".",
           "is_correct": true,
           "feedback": "Correcto. La subjetividad y las simpatías personales distorsionan el carácter informativo de la historiografía."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Las fechas exactas de inauguración de las primeras rutas aéreas.",
           "is_correct": false,
           "feedback": "Incorrecto. Las fechas precisas son datos empíricos indispensables para la cronología informativa."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Los nombres de las ciudades costeras involucradas en el proyecto.",
           "is_correct": false,
           "feedback": "Incorrecto. El marco geográfico es un elemento denotativo indispensable para contextualizar."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Las cifras sobre el número de pasajeros transportados en los primeros años.",
           "is_correct": false,
           "feedback": "Incorrecto. Los datos cuantitativos sustentan la reconstrucción objetiva del proceso histórico."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El rigor discursivo de la historiografía expositiva requiere purgar opiniones subjetivas sobre los personajes para centrarse en hechos verificables.",
       "difficulty": "6",
       "images": [],
@@ -473,19 +473,19 @@
       "context": "Dos textos abordan el tema de la minería en Colombia. El Texto A es un informe del Ministerio de Minas que detalla las toneladas de carbón extraídas y los ingresos fiscales generados. El Texto B es un estudio ecológico que describe el grado de contaminación por mercurio en los ríos cercanos a las minas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Cada texto selecciona y expone aspectos de la realidad alineados con su enfoque disciplinar (económico vs. ambiental).",
           "is_correct": true,
           "feedback": "Correcto. Los textos expositivos no son neutros en su recorte temático; cada disciplina prioriza las variables que estudia."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El Texto A miente deliberadamente y el Texto B presenta datos puramente inventados.",
           "is_correct": false,
           "feedback": "Incorrecto. Ambos pueden presentar datos reales dentro de sus respectivos campos de análisis sin ser falsos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ambos textos son idénticos en sus conclusiones sobre el impacto social de la minería.",
           "is_correct": false,
           "feedback": "Incorrecto. Un enfoque enfatiza los ingresos financieros y el otro el deterioro de los ecosistemas."
@@ -497,7 +497,7 @@
           "feedback": "Incorrecto. Ambos son textos expositivos/informativos académicos en sus áreas respectivas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La lectura crítica comparativa de textos expositivos permite identificar cómo el enfoque de una disciplina selecciona y jerarquiza ciertos datos sobre otros.",
       "difficulty": "8",
       "images": [],
@@ -519,19 +519,19 @@
       "context": "En un texto explicativo sobre el funcionamiento del sistema inmune, el autor utiliza la siguiente analogía: \"Los linfocitos T son como los generales del ejército que coordinan la defensa, mientras que los anticuerpos son las armas dirigidas específicamente a neutralizar a los invasores (bacterias)\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Atribuir intencionalidad y estrategia consciente (\"generales\", \"armas\") a procesos químicos automatizados sin cerebro.",
           "is_correct": true,
           "feedback": "Correcto. Aunque didáctica, la analogía antropomorfiza procesos moleculares que responden a leyes químicas no conscientes."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Demostrar que los linfocitos T usan uniformes de combate dentro de la sangre.",
           "is_correct": false,
           "feedback": "Incorrecto. Es evidente que la analogía no implica ropa física; el sesgo es atribuir estrategia consciente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Afirmar de forma errónea que las bacterias son organismos vivos.",
           "is_correct": false,
           "feedback": "Incorrecto. Las bacterias son efectivamente organismos vivos; eso no es una falla de la analogía."
@@ -543,7 +543,7 @@
           "feedback": "Incorrecto. La analogía busca explicar la defensa y no negarla."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Analizar críticamente las analogías en divulgación científica implica reconocer sus sesgos antropomórficos o reduccionistas al traducir la ciencia.",
       "difficulty": "8",
       "images": [],
@@ -565,13 +565,13 @@
       "context": "Lea el siguiente párrafo informativo: \"Aunque el consumo de bebidas fermentadas como la chicha tuvo un papel ritual y nutricional central en las sociedades muiscas precolombinas, durante la primera mitad del siglo XX fue objeto de campañas de estigmatización sanitaria promovidas por las industrias cerverceras emergentes en Bogotá\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Intereses comerciales e industriales para desplazar una bebida tradicional y posicionar la cerveza en el mercado.",
           "is_correct": true,
           "feedback": "Correcto. El texto vincula la estigmatización del producto ancestral con el surgimiento de la competencia industrial cervecera."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Un descubrimiento neurocientífico que probó que la chicha destruía el cerebro en 24 horas.",
           "is_correct": false,
           "feedback": "Incorrecto. El texto señala el origen económico/industrial de las campañas y no un hallazgo científico riguroso."
@@ -589,7 +589,7 @@
           "feedback": "Incorrecto. Fueron las industrias cerveceras y no los grupos indígenas quienes impulsaron el cambio de consumo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La inferencia de relaciones socio-históricas en textos explicativos exige conectar el contexto cultural con las dinámicas económicas subyacentes.",
       "difficulty": "8",
       "images": [],
@@ -611,13 +611,13 @@
       "context": "Un texto informativo sobre la inteligencia artificial afirma en su introducción: \"Esta tecnología resolverá todos los problemas de la humanidad en cinco años\". En las conclusiones, el mismo texto indica: \"El impacto real de la IA es incierto y dependerá de regulaciones internacionales complejas\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Incurre en una contradicción entre el triunfalismo absoluto de la introducción y la postura cautelosa de las conclusiones.",
           "is_correct": true,
           "feedback": "Correcto. Sostener la solución total inicial y luego afirmar la incertidumbre quebranta el principio de consistencia expositiva."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Utiliza una tipografía diferente en los párrafos centrales de la hoja.",
           "is_correct": false,
           "feedback": "Incorrecto. La incoherencia es conceptual y de contenido, no un detalle de formato tipográfico."
@@ -635,7 +635,7 @@
           "feedback": "Incorrecto. El fallo radica en la oposición entre las afirmaciones de apertura y cierre sobre la IA."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Evaluar la coherencia global de un texto expositivo implica verificar la consistencia temática entre la introducción, el desarrollo y las conclusiones.",
       "difficulty": "8",
       "images": [],
@@ -657,13 +657,13 @@
       "context": "En un texto científico sobre la física de partículas se afirma: \"El neutrino es una partícula elemental con una masa extremadamente pequeña y sin carga eléctrica. Debido a que apenas interactúa con la materia ordinaria, billones de neutrinos atraviesan nuestro cuerpo cada segundo sin ser detectados\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Su masa casi nula y su ausencia de carga eléctrica, lo que minimiza su interacción con otros átomos.",
           "is_correct": true,
           "feedback": "Correcto. El texto expone explícitamente que la falta de carga y la diminuta masa son la causa de la bajísima interacción."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El hecho de que viajen exclusivamente a través de la luz solar visible.",
           "is_correct": false,
           "feedback": "Incorrecto. El texto no menciona la luz visible como requisito de tránsito de los neutrinos."
@@ -681,7 +681,7 @@
           "feedback": "Incorrecto. El texto afirma que atraviesan nuestro cuerpo en billones cada segundo, probando que llegan."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La localización y comprensión de relaciones causales en la divulgación científica permite explicar fenómenos físicos abstractos.",
       "difficulty": "8",
       "images": [],
@@ -749,19 +749,19 @@
       "context": "Un artículo de divulgación científica en un blog asegura: \"Estudio demuestra que escuchar música clásica aumenta el coeficiente intelectual de los recién nacidos en 30 puntos\". Al revisar el estudio original citado, se observa que la investigación se realizó únicamente con 10 adultos y mostró una mejora temporal de 2 minutos en la concentración espacial.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Incurrió en una distorsión sensacionalista que tergiversó la muestra, la población objeto y la magnitud de los resultados.",
           "is_correct": true,
           "feedback": "Correcto. Transformar un test espacial breve en adultos en un aumento masivo de IQ en recién nacidos destruye la verdad científica."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Resumió con impecable rigor académico las conclusiones de los investigadores.",
           "is_correct": false,
           "feedback": "Incorrecto. La exageración y alteración de datos es la antítesis del rigor científico."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Demostró que la música clásica debe ser prohibida en los hospitales infantiles.",
           "is_correct": false,
           "feedback": "Incorrecto. El estudio no evaluó perjuicios sino que el blog exageró los supuestos beneficios."
@@ -773,7 +773,7 @@
           "feedback": "Incorrecto. Es un tema de psicología cognitiva/neurociencia distorsionado por un blog no riguroso."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La evaluación crítica de la divulgación científica exige contrastar los titulares de la prensa popular con las métricas y limitaciones de los estudios originales.",
       "difficulty": "10",
       "images": [],
@@ -795,19 +795,19 @@
       "context": "Un informe informativo de una ONG ambiental describe el estado de los arrecifes de coral en el Caribe colombiano. Utiliza gráficos de cobertura coralina de los últimos 20 años, mediciones de temperatura del agua y análisis de acidez.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Porque ofrece una visión sistémica y multicausal del deterioro ecológico, evitando explicaciones reduccionistas.",
           "is_correct": true,
           "feedback": "Correcto. La salud ambiental de los arrecifes depende de múltiples factores integrados; analizarlos juntos da rigor técnico al diagnóstico."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque confunde deliberadamente al lector para que no pueda entender los datos.",
           "is_correct": false,
           "feedback": "Incorrecto. La complejidad metodológica busca precisión explicativa y no confusión intencional."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque garantiza que el gobierno apruebe de inmediato nuevas licencias de pesca arrastre.",
           "is_correct": false,
           "feedback": "Incorrecto. El informe alerta sobre el deterioro y no busca promover la pesca destructiva."
@@ -819,7 +819,7 @@
           "feedback": "Incorrecto. Es una afirmación biológicamente falsa; el agua y sus condiciones son vitales para el coral."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La suficiencia explicativa en las ciencias naturales depende de la integración de diversas fuentes de datos para abordar la complejidad de los ecosistemas.",
       "difficulty": "10",
       "images": [],
@@ -887,31 +887,31 @@
       "context": "En un libro de texto escolar de historia de Colombia se expone el proceso de Independencia mediante biografías de los \"Héroes Patrios\", sin explicar las condiciones socioeconómicas, la crisis de la monarquía española ni el papel de las comunidades indígenas y afrodescendientes.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Reduce un proceso social e histórico complejo a la voluntad heroica de unos pocos individuos, impidiendo comprender las causas estructurales.",
           "is_correct": true,
           "feedback": "Correcto. Explicar la historia solo a través de la \"Gran Manera\" o biografías individuales oculta los movimientos populares y factores económicos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Facilita que los estudiantes aprendan las fechas exactas de las batallas con mayor velocidad.",
           "is_correct": false,
           "feedback": "Incorrecto. Memorizar fechas no compensa la falta de comprensión de las dinámicas estructurales de la sociedad."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Demuestra que las comunidades afro e indígenas no existieron durante el siglo XIX.",
           "is_correct": false,
           "feedback": "Incorrecto. Las comunidades sí existieron y fueron activas; el libro incurre en un grave sesgo de invisibilización."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Obliga a los colegios a cambiar los uniformes escolares de los estudiantes.",
           "is_correct": false,
           "feedback": "Incorrecto. El impacto pedagógico atañe al desarrollo del pensamiento histórico y no al vestuario escolar."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La evaluación crítica de la historiografía escolar analiza cómo los modelos expositivos simplistas (centrados en héroes) obstaculizan el pensamiento social complejo.",
       "difficulty": "10",
       "images": [],

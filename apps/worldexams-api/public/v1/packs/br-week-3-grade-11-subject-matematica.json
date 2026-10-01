@@ -64,13 +64,13 @@
           "feedback": "O ponto onde a reta corta o eixo x é a raiz da função, dada por -b/a."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Eixo das ordenadas ($y$)",
           "is_correct": true,
           "feedback": "Correto. Quando x = 0, f(0) = b, logo o par ordenado é (0, b)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "A bissetriz dos quadrantes ímpares",
           "is_correct": false,
           "feedback": "O coeficiente b não determina a bissetriz, mas sim o deslocamento vertical da reta."
@@ -82,7 +82,7 @@
           "feedback": "A reta só passa pela origem se b for igual a zero."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "O coeficiente linear $b$ indica o valor da função quando $x=0$. Geometricamente, isso corresponde ao ponto exato onde a reta cruza o eixo vertical ($y$).",
       "difficulty": "4",
       "images": [],
@@ -103,13 +103,13 @@
       "context": "Um analista financeiro em Curitiba observa que o lucro de uma pequena empresa cresce de forma constante a cada mês.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x = 10$",
           "is_correct": false,
           "feedback": "f(10) = -2(10) + 10 = -10. Não é a raiz."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 5$",
           "is_correct": true,
           "feedback": "f(5) = -2(5) + 10 = -10 + 10 = 0. Correto."
@@ -127,7 +127,7 @@
           "feedback": "f(2) = -2(2) + 10 = 6. Não é a raiz."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "A raiz de uma função é o valor de $x$ que faz $f(x) = 0$. Resolvendo $-2x + 10 = 0$, temos $-2x = -10$, logo $x = 5$.",
       "difficulty": "4",
       "images": [],
@@ -148,13 +148,13 @@
       "context": "Um arquiteto em Brasília projeta o telhado de uma casa e precisa garantir que a inclinação seja constante.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Crescente",
           "is_correct": true,
           "feedback": "O coeficiente angular a = 3 é positivo, o que indica que a função é crescente."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Decrescente",
           "is_correct": false,
           "feedback": "Para ser decrescente, o coeficiente angular 'a' deveria ser negativo."
@@ -172,7 +172,7 @@
           "feedback": "Funções afins têm como gráfico uma reta, não uma parábola."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "O comportamento de crescimento ou decrescimento de uma função afim depende exclusivamente do sinal do coeficiente angular $a$. Se $a > 0$, a função é crescente. Se $a < 0$, a função é decrescente.",
       "difficulty": "4",
       "images": [],
@@ -199,13 +199,13 @@
           "feedback": "4 é a diferença entre as ordenadas (9-5), mas deve ser dividida pela diferença das abscissas."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "2",
           "is_correct": true,
           "feedback": "m = (y2 - y1) / (x2 - x1) = (9 - 5) / (3 - 1) = 4 / 2 = 2."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "1",
           "is_correct": false,
           "feedback": "Valor incorreto para a taxa de variação."
@@ -217,7 +217,7 @@
           "feedback": "O coeficiente é positivo, pois os valores de y aumentam conforme x aumenta."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "O coeficiente angular ($a$ ou $m$) mede a taxa de variação da função. É calculado pela razão entre a variação em $y$ e a variação em $x$: $a = \\frac{\\Delta y}{\\Delta x} = \\frac{y_B - y_A}{x_B - x_A}$.",
       "difficulty": "6",
       "images": [],
@@ -250,19 +250,19 @@
           "feedback": "Erro no cálculo do valor variável."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "R\\$ 85,00",
           "is_correct": true,
           "feedback": "C(100) = 35 + 0,50(100) = 35 + 50 = 85."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "R\\$ 135,00",
           "is_correct": false,
           "feedback": "Erro na soma dos valores fixos e variáveis."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Substituímos $x = 100$ na função custo: $C(100) = 35 + 0,5 \\cdot 100$. Calculando o produto primeiro: $0,5 \\cdot 100 = 50$. Somando à taxa fixa: $35 + 50 = 85$.",
       "difficulty": "6",
       "images": [],
@@ -289,13 +289,13 @@
           "feedback": "Esta função representaria um tanque sendo enchido, não esvaziado."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$V(t) = 5000 - 200t$",
           "is_correct": true,
           "feedback": "Correto. O volume inicial é 5000 e diminui 200 a cada unidade de tempo t."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$V(t) = 200t - 5000$",
           "is_correct": false,
           "feedback": "Esta função resultaria em valores negativos de volume no início."
@@ -307,7 +307,7 @@
           "feedback": "O tempo t deve multiplicar a taxa de variação, não o valor inicial."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "O volume inicial ($b$) é 5000. Como a água está saindo, a taxa de variação ($a$) é negativa, igual a $-200$. Assim, a lei da função é $V(t) = -200t + 5000$.",
       "difficulty": "6",
       "images": [],
@@ -379,13 +379,13 @@
           "feedback": "L(40) = 40(40) - 2000 = 1600 - 2000 = -400. Ainda há prejuízo."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "50",
           "is_correct": true,
           "feedback": "L(50) = 40(50) - 2000 = 2000 - 2000 = 0. Ponto de equilíbrio."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "60",
           "is_correct": false,
           "feedback": "Com 60 ingressos já haveria lucro positivo (400)."
@@ -397,7 +397,7 @@
           "feedback": "Com 100 ingressos o lucro seria de 2000."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Para que o lucro seja zero, fazemos $40x - 2000 = 0$. Isso resulta em $40x = 2000$. Dividindo 2000 por 40, obtemos $x = 50$ ingressos.",
       "difficulty": "6",
       "images": [],
@@ -463,13 +463,13 @@
       "context": "Um engenheiro civil analisa a dilatação de uma barra metálica em São Paulo sob variações de temperatura.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$(3, 8)$",
           "is_correct": false,
           "feedback": "f(3) = 11 e g(3) = 8. Não é o ponto de interseção."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$(2, 9)$",
           "is_correct": true,
           "feedback": "2x + 5 = -x + 11 => 3x = 6 => x = 2. f(2) = 2(2)+5 = 9."
@@ -487,7 +487,7 @@
           "feedback": "f(4) = 13 e g(4) = 7. Não é o ponto de interseção."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Para encontrar o ponto de interseção, igualamos as funções: $2x + 5 = -x + 11$. Somando $x$ e subtraindo 5: $3x = 6 \\Rightarrow x = 2$. Substituindo $x=2$ em qualquer uma das funções: $f(2) = 2(2) + 5 = 9$. O ponto é $(2, 9)$.",
       "difficulty": "8",
       "images": [],
@@ -520,19 +520,19 @@
           "feedback": "Cálculo incorreto dos coeficientes."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "6",
           "is_correct": true,
           "feedback": "a = (10 - 4) / (-2 - 1) = 6 / -3 = -2. f(1) = -2(1) + b = 4 => b = 6. f(0) = b = 6."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "7",
           "is_correct": false,
           "feedback": "Cálculo incorreto dos coeficientes."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Primeiro achamos o coeficiente angular: $a = \\frac{10 - 4}{-2 - 1} = \\frac{6}{-3} = -2$. Agora usamos $f(1)=4$ para achar $b$: $4 = -2(1) + b \\Rightarrow b = 6$. Como $f(0) = b$, o resultado é 6.",
       "difficulty": "8",
       "images": [],
@@ -559,25 +559,25 @@
           "feedback": "Se b > 0, o gráfico cortaria o eixo y em um valor positivo."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$a > 0$ e $b < 0$",
           "is_correct": true,
           "feedback": "b < 0 (corta y no negativo). Para cortar x no positivo, a reta deve subir, logo a > 0."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$a < 0$ e $b < 0$",
           "is_correct": false,
           "feedback": "Se a < 0 e b < 0, a reta desceria e cortaria o eixo x em um valor negativo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$a < 0$ e $b > 0$",
           "is_correct": false,
           "feedback": "Cortaria o eixo y no positivo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "O coeficiente $b$ é a interceptação em $y$, logo $b < 0$. A raiz é $-b/a$. Para que $-b/a > 0$, dado que $b$ é negativo, o valor de $a$ deve ser positivo (positivo / positivo = positivo). Portanto, a função é crescente.",
       "difficulty": "8",
       "images": [],
@@ -604,13 +604,13 @@
           "feedback": "Taxa A: 100 + 25 = 125. Taxa B: 50 + 50 = 100. Diferentes."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "R\\$ 5.000,00",
           "is_correct": true,
           "feedback": "100 + 0,01x = 50 + 0,02x => 50 = 0,01x => x = 5000."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "R\\$ 10.000,00",
           "is_correct": false,
           "feedback": "Taxa A: 100 + 100 = 200. Taxa B: 50 + 200 = 250. Diferentes."
@@ -622,7 +622,7 @@
           "feedback": "As taxas não serão iguais para este valor."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Montamos a equação de igualdade: $100 + 0,01x = 50 + 0,02x$. Isolando $x$: $100 - 50 = 0,02x - 0,01x$. Temos $50 = 0,01x$. Multiplicando ambos os lados por 100, obtemos $x = 5000$.",
       "difficulty": "8",
       "images": [],
@@ -643,13 +643,13 @@
       "context": "Um físico estuda a relação linear entre as escalas de temperatura Celsius ($^\\circ$C) e Fahrenheit ($^\\circ$F).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$F = 1,8C - 32$",
           "is_correct": false,
           "feedback": "O coeficiente linear b deve ser 32 positivo, não negativo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$F = 1,8C + 32$",
           "is_correct": true,
           "feedback": "a = (212-32)/(100-0) = 180/100 = 1,8. f(0)=32 => b=32."
@@ -667,7 +667,7 @@
           "feedback": "A taxa de variação não é 1; a cada 5 graus C variam 9 graus F."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Calculamos o coeficiente angular: $a = \\frac{212 - 32}{100 - 0} = \\frac{180}{100} = 1,8$. Como $0^\\circ$C é o valor inicial no eixo das abscissas, $b = 32$. Assim, $F = 1,8C + 32$ ou $F = \\frac{9}{5}C + 32$.",
       "difficulty": "8",
       "images": [],
@@ -688,19 +688,19 @@
       "context": "Em um curso de economia em São Paulo, os alunos analisam a função demanda de um produto.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "R\\$ 400,00",
           "is_correct": false,
           "feedback": "Com p=400, a demanda seria negativa (400 - 2000)."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "R\\$ 100,00",
           "is_correct": false,
           "feedback": "Com p=100, a demanda seria negativa (400 - 500)."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "R\\$ 80,00",
           "is_correct": true,
           "feedback": "400 - 5p > 0 => 400 > 5p => p < 80."
@@ -712,7 +712,7 @@
           "feedback": "Este é o preço mínimo sugerido, mas não o máximo."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Para que a demanda seja positiva, devemos ter $400 - 5p > 0$. Resolvendo a inequação: $400 > 5p$, o que implica $p < 80$. Portanto, o preço deve ser estritamente menor que R\\$ 80,00.",
       "difficulty": "8",
       "images": [],
@@ -745,19 +745,19 @@
           "feedback": "Se a=2, f(f(x)) = 2(2x+b)+b = 4x+3b. Se 3b=9, b=3. Não 9."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "$a = 2, b = 3$",
           "is_correct": true,
           "feedback": "f(f(x)) = a(ax+b)+b = a²x + ab+b. a²=4 => a=2 ou a=-2. Se a=2: 2b+b=9 => 3b=9 => b=3."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$a = 2, b = 4,5$",
           "is_correct": false,
           "feedback": "Incorreto ao aplicar a substituição na composição."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "$f(f(x)) = a(ax+b) + b = a^2x + (ab + b)$. Igualando os coeficientes: $a^2 = 4 \\Rightarrow a = 2$ ou $a = -2$. Se $a = 2$, então $2b + b = 9 \\Rightarrow 3b = 9 \\Rightarrow b = 3$. Se $a = -2$, $-2b + b = 9 \\Rightarrow -b = 9 \\Rightarrow b = -9$.",
       "difficulty": "10",
       "images": [],
@@ -784,13 +784,13 @@
           "feedback": "Cálculo incorreto da soma dos termos."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "1",
           "is_correct": true,
           "feedback": "f(1)+f(2)+f(3) = (2*1+b) + (2*2+b) + (2*3+b) = 2+4+6 + 3b = 12 + 3b. 12+3b=15 => 3b=3 => b=1."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "3",
           "is_correct": false,
           "feedback": "Cálculo incorreto da soma dos termos."
@@ -802,7 +802,7 @@
           "feedback": "Se b=0, a soma seria 12, não 15."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Expandimos a soma: $f(1) + f(2) + f(3) = (2(1)+b) + (2(2)+b) + (2(3)+b)$. Somando os termos numéricos: $2 + 4 + 6 = 12$. Somando os termos em $b$: $3b$. Temos a equação $12 + 3b = 15$, resultando em $3b = 3$, logo $b = 1$.",
       "difficulty": "10",
       "images": [],
@@ -823,13 +823,13 @@
       "context": "Em uma competição de matemática em São Paulo, propõe-se um problema sobre a área de figuras formadas por funções afins.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "32",
           "is_correct": false,
           "feedback": "Este seria o produto da base pela altura (4 * 8), esquecendo de dividir por 2."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "16",
           "is_correct": true,
           "feedback": "Intercepto y (altura) = 8. Intercepto x (raiz) = 4. Área = (4 * 8) / 2 = 16."
@@ -847,7 +847,7 @@
           "feedback": "Erro no cálculo das dimensões do triângulo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "O triângulo tem vértices na origem $(0,0)$, no intercepto $y$ $(0,8)$ e no intercepto $x$ (raiz da função). Resolvendo $-2x + 8 = 0$, achamos a raiz $x = 4$. A base é 4 e a altura é 8. Área = $(\\text{base} \\cdot \\text{altura}) / 2 = (4 \\cdot 8) / 2 = 16$.",
       "difficulty": "10",
       "images": [],
@@ -868,19 +868,19 @@
       "context": "Um matemático investiga propriedades de famílias de retas que passam por um ponto fixo no plano cartesiano.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$(0, 5)$",
           "is_correct": false,
           "feedback": "Para x=0, f(0) depende de k: 2k+3."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$(1, 3)$",
           "is_correct": false,
           "feedback": "Testando na função, o resultado dependeria de k."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "$(-2, 5)$",
           "is_correct": true,
           "feedback": "f(-2) = (k-1)(-2) + 2k + 3 = -2k + 2 + 2k + 3 = 5. O valor é constante."
@@ -892,7 +892,7 @@
           "feedback": "Testando na função, o resultado dependeria de k."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Para encontrar o ponto comum, reescrevemos a função isolando o parâmetro $k$: $f(x) = kx - x + 2k + 3 = k(x + 2) - x + 3$. Para que o valor de $f(x)$ não dependa de $k$, o termo que multiplica $k$ deve ser zero: $x + 2 = 0 \\Rightarrow x = -2$. Substituindo $x = -2$ na função: $f(-2) = k(0) - (-2) + 3 = 5$. O ponto é $(-2, 5)$.",
       "difficulty": "10",
       "images": [],
@@ -919,25 +919,25 @@
           "feedback": "Esta é a forma geral de uma função quadrática ou do 2º grau."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$f(x) = ax + b$",
           "is_correct": true,
           "feedback": "Correto. 'a' é o coeficiente angular e 'b' é o coeficiente linear (termo constante)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$f(x) = a^x$",
           "is_correct": false,
           "feedback": "Esta é a forma básica de uma função exponencial."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$f(x) = \\log_a(x)$",
           "is_correct": false,
           "feedback": "Esta é a forma básica de uma função logarítmica."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Uma função afim é definida por uma lei de formação do tipo $f(x) = ax + b$, onde $a$ e $b$ são números reais e $a \\neq 0$ para que a função seja estritamente do 1º grau. O gráfico resultante é sempre uma linha reta.",
       "difficulty": "4",
       "images": [],
@@ -958,13 +958,13 @@
       "context": "Em uma aula de geometria analítica no Rio de Janeiro, o professor explica o significado geométrico dos coeficientes da reta.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Eixo das abscissas ($x$)",
           "is_correct": false,
           "feedback": "O ponto onde a reta corta o eixo x é a raiz da função, dada por -b/a."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Eixo das ordenadas ($y$)",
           "is_correct": true,
           "feedback": "Correto. Quando x = 0, f(0) = b, logo o par ordenado é (0, b)."
@@ -982,7 +982,7 @@
           "feedback": "A reta só passa pela origem se b for igual a zero."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "O coeficiente linear $b$ indica o valor da função quando $x=0$. Geometricamente, isso corresponde ao ponto exato onde a reta cruza o eixo vertical ($y$).",
       "difficulty": "4",
       "images": [],
@@ -1009,25 +1009,25 @@
           "feedback": "f(10) = -2(10) + 10 = -10. Não é a raiz."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$x = 5$",
           "is_correct": true,
           "feedback": "f(5) = -2(5) + 10 = -10 + 10 = 0. Correto."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = -5$",
           "is_correct": false,
           "feedback": "f(-5) = -2(-5) + 10 = 10 + 10 = 20. Não é a raiz."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$x = 2$",
           "is_correct": false,
           "feedback": "f(2) = -2(2) + 10 = 6. Não é a raiz."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "A raiz de uma função é o valor de $x$ que faz $f(x) = 0$. Resolvendo $-2x + 10 = 0$, temos $-2x = -10$, logo $x = 5$.",
       "difficulty": "4",
       "images": [],
@@ -1048,31 +1048,31 @@
       "context": "Um arquiteto em Brasília projeta o telhado de uma casa e precisa garantir que a inclinação seja constante.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Crescente",
           "is_correct": true,
           "feedback": "O coeficiente angular a = 3 é positivo, o que indica que a função é crescente."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Decrescente",
           "is_correct": false,
           "feedback": "Para ser decrescente, o coeficiente angular 'a' deveria ser negativo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Constante",
           "is_correct": false,
           "feedback": "Uma função constante tem a = 0, o que não é o caso."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Uma parábola",
           "is_correct": false,
           "feedback": "Funções afins têm como gráfico uma reta, não uma parábola."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "O comportamento de crescimento ou decrescimento de uma função afim depende exclusivamente do sinal do coeficiente angular $a$. Se $a > 0$, a função é crescente. Se $a < 0$, a função é decrescente.",
       "difficulty": "4",
       "images": [],
@@ -1150,19 +1150,19 @@
           "feedback": "Erro no cálculo do valor variável."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "R\\$ 85,00",
           "is_correct": true,
           "feedback": "C(100) = 35 + 0,50(100) = 35 + 50 = 85."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "R\\$ 135,00",
           "is_correct": false,
           "feedback": "Erro na soma dos valores fixos e variáveis."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Substituímos $x = 100$ na função custo: $C(100) = 35 + 0,5 \\cdot 100$. Calculando o produto primeiro: $0,5 \\cdot 100 = 50$. Somando à taxa fixa: $35 + 50 = 85$.",
       "difficulty": "6",
       "images": [],
@@ -1189,25 +1189,25 @@
           "feedback": "Esta função representaria um tanque sendo enchido, não esvaziado."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$V(t) = 5000 - 200t$",
           "is_correct": true,
           "feedback": "Correto. O volume inicial é 5000 e diminui 200 a cada unidade de tempo t."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$V(t) = 200t - 5000$",
           "is_correct": false,
           "feedback": "Esta função resultaria em valores negativos de volume no início."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$V(t) = 5000t - 200$",
           "is_correct": false,
           "feedback": "O tempo t deve multiplicar a taxa de variação, não o valor inicial."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "O volume inicial ($b$) é 5000. Como a água está saindo, a taxa de variação ($a$) é negativa, igual a $-200$. Assim, a lei da função é $V(t) = -200t + 5000$.",
       "difficulty": "6",
       "images": [],
@@ -1324,13 +1324,13 @@
           "feedback": "Se f(x) = 3x+2, f(0) seria 2, mas o ponto dado é (0,3)."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$f(x) = 2x + 3$",
           "is_correct": true,
           "feedback": "f(0)=3 (coeficiente linear). a = (7-3)/(2-0) = 4/2 = 2. Logo f(x)=2x+3."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$f(x) = 4x + 3$",
           "is_correct": false,
           "feedback": "Se a=4, f(2) seria 4(2)+3 = 11, mas f(2)=7."
@@ -1342,7 +1342,7 @@
           "feedback": "Se a=1, f(2) seria 2+3 = 5, mas f(2)=7."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "O ponto $(0, 3)$ nos dá diretamente o coeficiente linear $b = 3$. O coeficiente angular $a$ é calculado pela variação: $a = (7 - 3) / (2 - 0) = 4 / 2 = 2$. Assim, $f(x) = 2x + 3$.",
       "difficulty": "6",
       "images": [],
@@ -1363,13 +1363,13 @@
       "context": "Um engenheiro civil analisa a dilatação de uma barra metálica em São Paulo sob variações de temperatura.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$(3, 8)$",
           "is_correct": false,
           "feedback": "f(3) = 11 e g(3) = 8. Não é o ponto de interseção."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$(2, 9)$",
           "is_correct": true,
           "feedback": "2x + 5 = -x + 11 => 3x = 6 => x = 2. f(2) = 2(2)+5 = 9."
@@ -1387,7 +1387,7 @@
           "feedback": "f(4) = 13 e g(4) = 7. Não é o ponto de interseção."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Para encontrar o ponto de interseção, igualamos as funções: $2x + 5 = -x + 11$. Somando $x$ e subtraindo 5: $3x = 6 \\Rightarrow x = 2$. Substituindo $x=2$ em qualquer uma das funções: $f(2) = 2(2) + 5 = 9$. O ponto é $(2, 9)$.",
       "difficulty": "8",
       "images": [],
@@ -1459,13 +1459,13 @@
           "feedback": "Se b > 0, o gráfico cortaria o eixo y em um valor positivo."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$a > 0$ e $b < 0$",
           "is_correct": true,
           "feedback": "b < 0 (corta y no negativo). Para cortar x no positivo, a reta deve subir, logo a > 0."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$a < 0$ e $b < 0$",
           "is_correct": false,
           "feedback": "Se a < 0 e b < 0, a reta desceria e cortaria o eixo x em um valor negativo."
@@ -1477,7 +1477,7 @@
           "feedback": "Cortaria o eixo y no positivo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "O coeficiente $b$ é a interceptação em $y$, logo $b < 0$. A raiz é $-b/a$. Para que $-b/a > 0$, dado que $b$ é negativo, o valor de $a$ deve ser positivo (positivo / positivo = positivo). Portanto, a função é crescente.",
       "difficulty": "8",
       "images": [],
@@ -1504,13 +1504,13 @@
           "feedback": "Taxa A: 100 + 25 = 125. Taxa B: 50 + 50 = 100. Diferentes."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "R\\$ 5.000,00",
           "is_correct": true,
           "feedback": "100 + 0,01x = 50 + 0,02x => 50 = 0,01x => x = 5000."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "R\\$ 10.000,00",
           "is_correct": false,
           "feedback": "Taxa A: 100 + 100 = 200. Taxa B: 50 + 200 = 250. Diferentes."
@@ -1522,7 +1522,7 @@
           "feedback": "As taxas não serão iguais para este valor."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Montamos a equação de igualdade: $100 + 0,01x = 50 + 0,02x$. Isolando $x$: $100 - 50 = 0,02x - 0,01x$. Temos $50 = 0,01x$. Multiplicando ambos os lados por 100, obtemos $x = 5000$.",
       "difficulty": "8",
       "images": [],
@@ -1543,13 +1543,13 @@
       "context": "Um físico estuda a relação linear entre as escalas de temperatura Celsius ($^\\circ$C) e Fahrenheit ($^\\circ$F).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$F = 1,8C - 32$",
           "is_correct": false,
           "feedback": "O coeficiente linear b deve ser 32 positivo, não negativo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$F = 1,8C + 32$",
           "is_correct": true,
           "feedback": "a = (212-32)/(100-0) = 180/100 = 1,8. f(0)=32 => b=32."
@@ -1567,7 +1567,7 @@
           "feedback": "A taxa de variação não é 1; a cada 5 graus C variam 9 graus F."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Calculamos o coeficiente angular: $a = \\frac{212 - 32}{100 - 0} = \\frac{180}{100} = 1,8$. Como $0^\\circ$C é o valor inicial no eixo das abscissas, $b = 32$. Assim, $F = 1,8C + 32$ ou $F = \\frac{9}{5}C + 32$.",
       "difficulty": "8",
       "images": [],
@@ -1600,19 +1600,19 @@
           "feedback": "Com p=100, a demanda seria negativa (400 - 500)."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "R\\$ 80,00",
           "is_correct": true,
           "feedback": "400 - 5p > 0 => 400 > 5p => p < 80."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "R\\$ 5,00",
           "is_correct": false,
           "feedback": "Este é o preço mínimo sugerido, mas não o máximo."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Para que a demanda seja positiva, devemos ter $400 - 5p > 0$. Resolvendo a inequação: $400 > 5p$, o que implica $p < 80$. Portanto, o preço deve ser estritamente menor que R\\$ 80,00.",
       "difficulty": "8",
       "images": [],
@@ -1645,19 +1645,19 @@
           "feedback": "Se a=2, f(f(x)) = 2(2x+b)+b = 4x+3b. Se 3b=9, b=3. Não 9."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "$a = 2, b = 3$",
           "is_correct": true,
           "feedback": "f(f(x)) = a(ax+b)+b = a²x + ab+b. a²=4 => a=2 ou a=-2. Se a=2: 2b+b=9 => 3b=9 => b=3."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$a = 2, b = 4,5$",
           "is_correct": false,
           "feedback": "Incorreto ao aplicar a substituição na composição."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "$f(f(x)) = a(ax+b) + b = a^2x + (ab + b)$. Igualando os coeficientes: $a^2 = 4 \\Rightarrow a = 2$ ou $a = -2$. Se $a = 2$, então $2b + b = 9 \\Rightarrow 3b = 9 \\Rightarrow b = 3$. Se $a = -2$, $-2b + b = 9 \\Rightarrow -b = 9 \\Rightarrow b = -9$.",
       "difficulty": "10",
       "images": [],
@@ -1723,13 +1723,13 @@
       "context": "Em uma competição de matemática em São Paulo, propõe-se um problema sobre a área de figuras formadas por funções afins.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "32",
           "is_correct": false,
           "feedback": "Este seria o produto da base pela altura (4 * 8), esquecendo de dividir por 2."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "16",
           "is_correct": true,
           "feedback": "Intercepto y (altura) = 8. Intercepto x (raiz) = 4. Área = (4 * 8) / 2 = 16."
@@ -1747,7 +1747,7 @@
           "feedback": "Erro no cálculo das dimensões do triângulo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "O triângulo tem vértices na origem $(0,0)$, no intercepto $y$ $(0,8)$ e no intercepto $x$ (raiz da função). Resolvendo $-2x + 8 = 0$, achamos a raiz $x = 4$. A base é 4 e a altura é 8. Área = $(\\text{base} \\cdot \\text{altura}) / 2 = (4 \\cdot 8) / 2 = 16$.",
       "difficulty": "10",
       "images": [],
@@ -1780,19 +1780,19 @@
           "feedback": "Testando na função, o resultado dependeria de k."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "$(-2, 5)$",
           "is_correct": true,
           "feedback": "f(-2) = (k-1)(-2) + 2k + 3 = -2k + 2 + 2k + 3 = 5. O valor é constante."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$(2, -1)$",
           "is_correct": false,
           "feedback": "Testando na função, o resultado dependeria de k."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Para encontrar o ponto comum, reescrevemos a função isolando o parâmetro $k$: $f(x) = kx - x + 2k + 3 = k(x + 2) - x + 3$. Para que o valor de $f(x)$ não dependa de $k$, o termo que multiplica $k$ deve ser zero: $x + 2 = 0 \\Rightarrow x = -2$. Substituindo $x = -2$ na função: $f(-2) = k(0) - (-2) + 3 = 5$. O ponto é $(-2, 5)$.",
       "difficulty": "10",
       "images": [],

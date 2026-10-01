@@ -13,31 +13,31 @@
       "context": "En el análisis de un editorial sobre legislación constitucional respecto a la polisemia contextual de la palabra 'derecho' (Bogotá).",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Conjunto de normas jurídicas legítimas que regulan la convivencia social.",
           "is_correct": true,
           "feedback": "Es correcta porque en el contexto jurídico-constitucional 'derecho' remite al ordenamiento legal vigente."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Facultad individual para exigir un bien material en el mercado.",
           "is_correct": false,
           "feedback": "Es incorrecta porque se refiere a la dimensión objetiva de la norma, no a una transacción comercial."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Extremidad corporal opuesta al lado izquierdo del ser humano.",
           "is_correct": false,
           "feedback": "Es incorrecta porque desatiende el sentido figurado/jurídico usando el significado anatómico literal."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Línea recta trazada sobre un plano cartesiano sin curvaturas.",
           "is_correct": false,
           "feedback": "Es incorrecta porque usa la acepción geométrica ajena al discurso legal."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Evalúa la capacidad de determinar el sentido de una palabra polisémica en función del contexto sintáctico y pragmático.",
       "difficulty": "4",
       "images": [],
@@ -59,13 +59,13 @@
       "context": "Durante la lectura crítica de un poema de José Asunción Silva respecto a la denotación y connotación de la palabra 'sombra' (Medellín).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Evoca la presencia intangible de la muerte, el duelo y la melancolía del poeta.",
           "is_correct": true,
           "feedback": "Es correcta porque el poema utiliza 'sombra' con una carga afectiva y simbólica ligada al luto."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Designa la proyección oscura producida por un cuerpo al tapar la luz del sol.",
           "is_correct": false,
           "feedback": "Es incorrecta porque confunde la denotación física del fenómeno óptico con el sentido poético connotado."
@@ -83,7 +83,7 @@
           "feedback": "Es incorrecta porque aplica una definición de las artes plásticas fuera del contexto lírico."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Evalúa la distinción entre el significado literal (denotativo) y el figurado o asociativo (connotativo) en textos literarios.",
       "difficulty": "4",
       "images": [],
@@ -151,31 +151,31 @@
       "context": "En un ejercicio de análisis sintáctico-semántico de enunciados respecto a la relación semántica de antonimia complementaria (Barranquilla).",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Antonimia complementaria, donde la afirmación de un término implica necesariamente la negación del otro.",
           "is_correct": true,
           "feedback": "Es correcta porque en los antónimos complementarios no hay término medio: si se está vivo no se está muerto."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Antonimia gradual, porque existen múltiples grados intermedios de intensidad entre ambos estados.",
           "is_correct": false,
           "feedback": "Es incorrecta porque no es una escala gradual (como caliente/frío)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Antonimia recíproca, porque un término no puede existir sin que alguien ejerza la acción inversa.",
           "is_correct": false,
           "feedback": "Es incorrecta porque los antónimos recíprocos son del tipo comprar/vender."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Sinonimia conceptual, porque ambas palabras significan exactamente lo mismo en biología.",
           "is_correct": false,
           "feedback": "Es incorrecta porque son términos de significado opuesto, no sinónimos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Evalúa el reconocimiento de las distintas clases de relaciones de oposición léxica en la lengua.",
       "difficulty": "4",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "En el análisis de un artículo de opinión publicado en El Espectador respecto a el campo semántico del vocabulario ambiental (Bucaramanga).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Términos como 'biodiversidad', 'reciclaje', 'huella de carbono' y 'renovable'.",
           "is_correct": true,
           "feedback": "Es correcta porque un campo semántico reúne palabras que comparten un mismo núcleo de significado o tema."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Palabras relativas a la arquitectura colonial como 'barroco', 'almena' y 'arcada'.",
           "is_correct": false,
           "feedback": "Es incorrecta porque ese conjunto pertenece al campo de la arquitectura de la Colonia."
@@ -267,7 +267,7 @@
           "feedback": "Es incorrecta porque corresponden al ámbito de la gastronomía."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Evalúa la habilidad para agrupar léxico en función de sus relaciones de significado y pertenencia temática.",
       "difficulty": "6",
       "images": [],
@@ -289,31 +289,31 @@
       "context": "Al examinar la estructura discursiva de un ensayo en Medellín respecto a la hiperonimia e hiponimia en la cohesión léxica (Manizales).",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "'Vehículo' es el hiperónimo (término general) y 'automóvil' es su hipónimo (término específico).",
           "is_correct": true,
           "feedback": "Es correcta porque el hiperónimo posee un significado incluyente y de mayor extensión que el hipónimo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "'Vehículo' es el hipónimo y 'automóvil' es su hiperónimo inclusivo de mayor extensión.",
           "is_correct": false,
           "feedback": "Es incorrecta porque invierte la relación lógica de inclusión conceptual."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Son palabras antónimas que expresan conceptos radicalmente opuestos.",
           "is_correct": false,
           "feedback": "Es incorrecta porque no hay oposición de sentido entre vehículo y automóvil."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Son homófonas que se pronuncian igual pero se escriben con distinta ortografía.",
           "is_correct": false,
           "feedback": "Es incorrecta porque sus grafías y sonidos son totalmente distintos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Evalúa la comprensión de los mecanismos de sustitución léxica mediante hiperónimos e hipónimos.",
       "difficulty": "6",
       "images": [],
@@ -427,19 +427,19 @@
       "context": "En la lectura de un titular de prensa económica en Barranquilla respecto a la metonimia por relación causa-efecto (Pasto).",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Metonimia, donde 'mentes brillantes' representa a los intelectuales y 'armas' a la violencia.",
           "is_correct": true,
           "feedback": "Es correcta porque la metonimia sustituye el todo por la parte o la causa por el efecto (mente por pensador)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Hipérbole, mediante una exageración matemática numéricamente imposible de verificar.",
           "is_correct": false,
           "feedback": "Es incorrecta porque no es una desproporción numérica cuantitativa sino un reemplazo léxico."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Onomatopeya, que imita el sonido físico de un disparo o explosión.",
           "is_correct": false,
           "feedback": "Es incorrecta porque no se imitan sonidos de la naturaleza."
@@ -451,7 +451,7 @@
           "feedback": "Es incorrecta porque no hay redundancia viciosa en la expresión."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Evalúa la identificación y análisis de metonimias en discursos persuasivos y periodísticos.",
       "difficulty": "6",
       "images": [],
@@ -565,31 +565,31 @@
       "context": "En la reseña crítica de una película en el Festival de Cine de Cartagena respecto a la gradación semántica en adjetivos valorativos (Cali).",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Expresan una escala o gradación semántica de intensidad creciente en la valoración positiva.",
           "is_correct": true,
           "feedback": "Es correcta porque los adjetivos valorativos admiten grados de intensidad (gradación semántica)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Son términos idénticos en intensidad que pueden intercambiarse sin alterar el sentido.",
           "is_correct": false,
           "feedback": "Es incorrecta porque 'sublime' expresa un grado de conmoción estética mucho mayor que 'interesante'."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Indican una gradación hacia el desprecio y la descalificación destructiva de la película.",
           "is_correct": false,
           "feedback": "Es incorrecta porque los tres adjetivos implican una evaluación favorable, no negativa."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Pertenecen a campos semánticos opuestos que no admiten comparación alguna.",
           "is_correct": false,
           "feedback": "Es incorrecta porque comparten la categoría semántica de apreciación estética."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Evalúa el reconocimiento de los matices de intensidad en la adjetivación evaluativa.",
       "difficulty": "8",
       "images": [],
@@ -611,13 +611,13 @@
       "context": "En la lectura de un informe médico sobre salud pública en Quibdó respecto a el uso del lenguaje técnico o jerga especializada (Barranquilla).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Otorga precisión denotativa y rigor especializado al diagnóstico clínico expuesto.",
           "is_correct": true,
           "feedback": "Es correcta porque los tecnicismos eliminan la ambigüedad y garantizan exactitud semántica en la ciencia."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Dificulta intencionadamente la lectura para que la población no comprenda sus derechos.",
           "is_correct": false,
           "feedback": "Es incorrecta porque el lenguaje técnico busca la validez objetiva, no la manipulación malintencionada."
@@ -635,7 +635,7 @@
           "feedback": "Es incorrecta porque el dominio de la jerga especializada demuestra precisamente conocimiento del área."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Evalúa el análisis de la función semántica del lenguaje técnico en textos científicos e informativos.",
       "difficulty": "8",
       "images": [],
@@ -657,31 +657,31 @@
       "context": "En la corrección de estilo de una noticia periodística respecto a la ambigüedad sintáctico-semántica por mala colocación de modificadores (Cartagena).",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "No queda claro de quién es el automóvil (si del policía o del ladrón) debido al alcance del posesivo.",
           "is_correct": true,
           "feedback": "Es correcta porque la vaguedad del pronombre posesivo 'su' crea dos lecturas sintáctico-semánticas válidas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Afirma con certeza que el automóvil pertenecía al alcalde de la ciudad de Cartagena.",
           "is_correct": false,
           "feedback": "Es incorrecta porque el texto no menciona al alcalde en ninguna parte."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Demuestra que el ladrón corría a pie mientras el policía manejaba un camión de carga.",
           "is_correct": false,
           "feedback": "Es incorrecta porque la ambigüedad estriba precisamente en no saber quién conducía el vehículo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Es un enunciado perfectamente claro que no admite más de una interpretación gramatical.",
           "is_correct": false,
           "feedback": "Es incorrecta porque la frase es un caso clásico de anfibología o ambigüedad modificadora."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Evalúa la detección de fallas semánticas causadas por anfibología en la estructura de la oración.",
       "difficulty": "8",
       "images": [],
@@ -703,19 +703,19 @@
       "context": "En la descripción de un evento cultural en la ciudad de Manizales respecto a el cambio semántico por metonimia continente-contenido (Bucaramanga).",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "El término 'teatro' sustituye por metonimia a los espectadores u oyentes presentes en la sala.",
           "is_correct": true,
           "feedback": "Es correcta porque se emplea el continente (el teatro) para designar al contenido (el público asistente)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Significa que los muros de concreto y las sillas de madera emitieron sonidos de aplausos.",
           "is_correct": false,
           "feedback": "Es incorrecta porque interpreta el término 'teatro' de forma literal-material imposible."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Indica que el director de la orquesta aplaudió a solas en el escenario vacío.",
           "is_correct": false,
           "feedback": "Es incorrecta porque ignora la presencia del público sustituido por la palabra 'teatro'."
@@ -727,7 +727,7 @@
           "feedback": "Es incorrecta porque el aplauso colectivo de pie es símbolo unánime de éxito."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Evalúa la comprensión del mecanismo metonímico continente por contenido.",
       "difficulty": "8",
       "images": [],
@@ -749,13 +749,13 @@
       "context": "Al comparar dos artículos sobre una huelga de transportadores en Colombia respecto a la carga ideológica de las marcas léxicas en la prensa (Manizales).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Revela el sesgo ideológico del medio: 'huelguistas' reconoce un derecho laboral, mientras que 'vándalos' criminaliza la protesta.",
           "is_correct": true,
           "feedback": "Es correcta porque la selección léxica evidencia la postura valorativa e ideológica del emisor frente a los hechos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Demuestra que ambas palabras son sinónimos exactos según el diccionario de la lengua española.",
           "is_correct": false,
           "feedback": "Es incorrecta porque una palabra denota el ejercicio de un derecho y la otra un delito civil."
@@ -773,7 +773,7 @@
           "feedback": "Es incorrecta porque las palabras orientan activamente el juicio ético del público."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Evalúa la capacidad de develar presupuestos ideológicos a través del análisis léxico-semántico.",
       "difficulty": "10",
       "images": [],
@@ -795,19 +795,19 @@
       "context": "En el análisis de una viñeta gráfica de Matador sobre la corrupción respecto a la polisemia y el juego de palabras en la caricatura política (Pereira).",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Explotar la polisemia de la palabra para criticar cómo los recursos financieros se concentran en la sede del gobierno.",
           "is_correct": true,
           "feedback": "Es correcta porque la caricatura aprovecha la doble acepción (financiera y política) para construir el sentido humorístico-crítico."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Demostrar que el dibujante comete errores de ortografía al no usar mayúsculas correctamente.",
           "is_correct": false,
           "feedback": "Es incorrecta porque no se trata de una errata sino de un recurso expresivo intencionado."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Explicar la historia geográfica del río Magdalena de forma cuantitativa.",
           "is_correct": false,
           "feedback": "Es incorrecta porque el tema de la viñeta es la corrupción y la centralización, no la hidrografía."
@@ -819,7 +819,7 @@
           "feedback": "Es incorrecta porque la viñeta posee un propósito de denuncia sociopolítica."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Evalúa la lectura de textos discontinuos (caricatura) analizando juegos de palabras y polisemia.",
       "difficulty": "10",
       "images": [],
@@ -841,31 +841,31 @@
       "context": "En la revisión de un capítulo de libro sobre ecosistemas marinos respecto a la isotopía semántica en un texto expositivo sobre biología (Santa Marta).",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "La reiteración de un conjunto de rasgos semánticos comunes que garantizan la unidad temática del escrito.",
           "is_correct": true,
           "feedback": "Es correcta porque la isotopía es la redundancia de categorías semánticas que asegura la coherencia profunda del texto."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La presencia aleatoria de términos de física, poesía, derecho y cocina sin relación entre sí.",
           "is_correct": false,
           "feedback": "Es incorrecta porque la dispersión de campos léxicos destruye la isotopía y la coherencia."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La traducción directa de un texto en tres idiomas simultáneos dentro del mismo párrafo.",
           "is_correct": false,
           "feedback": "Es incorrecta porque se refiere al plano del significado, no a la traducción políglota."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La obligación de usar una sola vocal en la redacción de todas las oraciones del texto.",
           "is_correct": false,
           "feedback": "Es incorrecta porque se confunde con un juego lipogramático ajeno al discurso académico."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Evalúa la identificación de redes de coherencia semántica (isotopías) en textos informativos.",
       "difficulty": "10",
       "images": [],
@@ -887,19 +887,19 @@
       "context": "Al evaluar la frase de Estanislao Zuleta: 'Desear una vida sin problemas es desear una vida de bobos' respecto a la síntesis de significado en la interpretación de aforismos (Pasto).",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Que el conflicto y la dificultad son constitutivos del crecimiento humano y del pensamiento crítico.",
           "is_correct": true,
           "feedback": "Es correcta porque Zuleta critica el ideal infantil de una felicidad pasiva e invita a asumir el conflicto como motor del desarrollo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Que las personas inteligentes nunca enfrentan problemas ni dificultades en su vida cotidiana.",
           "is_correct": false,
           "feedback": "Es incorrecta porque Zuleta sostiene precisamente lo opuesto: la vida inteligente requiere encarar problemas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Que la felicidad consiste en no tener que tomar decisiones ni asumir responsabilidades en la sociedad.",
           "is_correct": false,
           "feedback": "Es incorrecta porque esa postura corresponde al ideal que Zuleta tacha de infantil."
@@ -911,7 +911,7 @@
           "feedback": "Es incorrecta porque saca la frase de contexto al aplicarla reductivamente a los exámenes."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Evalúa la capacidad de interpretar y sintetizar el sentido ético-filosófico de enunciados aforísticos complejos.",
       "difficulty": "10",
       "images": [],

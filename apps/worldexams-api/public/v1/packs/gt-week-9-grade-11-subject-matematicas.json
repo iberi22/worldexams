@@ -103,13 +103,13 @@
       "context": "Un estudiante observa la sombra de un poste en el suelo y nota que forma un triángulo rectángulo con los rayos del sol.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$30^\\circ$",
           "is_correct": false,
           "feedback": "$\\tan(30^\\circ) = 1/\\sqrt{3} \\approx 0.577$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$45^\\circ$",
           "is_correct": true,
           "feedback": "Correcto. En un triángulo rectángulo isósceles, los catetos son iguales y la tangente del ángulo de $45^\\circ$ es 1."
@@ -127,7 +127,7 @@
           "feedback": "La tangente de $90^\\circ$ no está definida (tiende a infinito)."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Los ángulos de $45^\\circ$ provienen de cuadrados divididos por su diagonal, donde ambos catetos son idénticos, resultando en una razón de 1.",
       "difficulty": "4",
       "images": [],
@@ -148,19 +148,19 @@
       "context": "Se revisan los valores de las funciones trigonométricas para ángulos notables.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$\\sqrt{3} / 2$",
           "is_correct": false,
           "feedback": "Este es el valor del $\\cos(30^\\circ)$ o $\\sin(60^\\circ)$."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$\\sqrt{2} / 2$",
           "is_correct": false,
           "feedback": "Este es el valor para $45^\\circ$."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "$1/2$",
           "is_correct": true,
           "feedback": "Correcto. $\\sin(30^\\circ) = 0.5$."
@@ -172,7 +172,7 @@
           "feedback": "Este es el seno de $90^\\circ$."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Los ángulos de $30^\\circ$ y $60^\\circ$ se derivan de la mitad de un triángulo equilátero, lo que permite deducir sus valores exactos mediante geometría básica.",
       "difficulty": "4",
       "images": [],
@@ -193,13 +193,13 @@
       "context": "Un carpintero en Antigua Guatemala necesita calcular el largo de una pieza de madera que servirá como soporte (hipotenusa).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$7$ m",
           "is_correct": false,
           "feedback": "Sumaste los catetos directamente, ignorando el teorema de Pitágoras."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$5$ m",
           "is_correct": true,
           "feedback": "Correcto. $\\sqrt{3^2 + 4^2} = \\sqrt{9 + 16} = \\sqrt{25} = 5$."
@@ -217,7 +217,7 @@
           "feedback": "Multiplicaste los catetos en lugar de aplicar el teorema."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Este es el ejemplo más clásico de una terna pitagórica ($3, 4, 5$), donde los cuadrados de los catetos suman exactamente el cuadrado de la hipotenusa.",
       "difficulty": "6",
       "images": [],
@@ -244,25 +244,25 @@
           "feedback": "Este sería el resultado si usaras el coseno (distancia a la base)."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$8.66$ m",
           "is_correct": true,
           "feedback": "Correcto. Altura = Hipotenusa $\\times \\sin(60^\\circ) = 10 \\times 0.866 = 8.66$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$10.00$ m",
           "is_correct": false,
           "feedback": "La altura no puede ser igual a la hipotenusa si hay un ángulo de inclinación."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$7.07$ m",
           "is_correct": false,
           "feedback": "Este valor corresponde al seno de $45^\\circ$."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Para hallar el cateto opuesto (altura) conociendo la hipotenusa y el ángulo, se utiliza la razón seno: $\\sin(\\theta) = \\text{Opuesto} / \\text{Hipotenusa}$.",
       "difficulty": "6",
       "images": [],
@@ -328,13 +328,13 @@
       "context": "Un arquitecto diseña una rampa con una base de $12$ metros y un ángulo de inclinación de $10^\\circ$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$11.82$ m",
           "is_correct": false,
           "feedback": "Multiplicaste por el coseno en lugar de dividir. La hipotenusa debe ser mayor que el cateto."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$12.18$ m",
           "is_correct": true,
           "feedback": "Correcto. Hipotenusa = Adyacente / $\\cos(10^\\circ) = 12 / 0.985 \\approx 12.18$."
@@ -352,7 +352,7 @@
           "feedback": "Este valor es demasiado pequeño para ser la hipotenusa de una base de 12 m."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Para hallar la hipotenusa conociendo el cateto adyacente, se utiliza la razón coseno: $\\cos(\\theta) = \\text{Adyacente} / \\text{Hipotenusa}$, despejando la hipotenusa.",
       "difficulty": "6",
       "images": [],
@@ -373,13 +373,13 @@
       "context": "Un topógrafo mide la altura de una pirámide en Tikal utilizando un teodolito desde una distancia de $50$ metros.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$25.00$ m",
           "is_correct": false,
           "feedback": "Este sería el valor si usaras el seno de $30^\\circ$ con una hipotenusa de 50."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$28.85$ m",
           "is_correct": true,
           "feedback": "Correcto. Altura = Distancia $\\times \\tan(30^\\circ) = 50 \\times 0.577 = 28.85$."
@@ -397,7 +397,7 @@
           "feedback": "La altura no puede ser igual a la distancia horizontal si el ángulo es de $30^\\circ$."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "En problemas de altura donde se conoce la distancia horizontal (adyacente), la razón trigonométrica más directa es la tangente.",
       "difficulty": "6",
       "images": [],
@@ -469,13 +469,13 @@
           "feedback": "Este es el valor del seno ($6/10$)."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$0.8$",
           "is_correct": true,
           "feedback": "Correcto. Diagonal = $10$. $\\cos(\\theta) = \\text{Adyacente} / \\text{Hipotenusa} = 8/10 = 0.8$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$0.75$",
           "is_correct": false,
           "feedback": "Este es el valor de la tangente ($6/8$)."
@@ -487,7 +487,7 @@
           "feedback": "El coseno nunca puede ser mayor que 1."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Primero se halla la hipotenusa mediante Pitágoras y luego se aplica la definición de la razón coseno usando el cateto adyacente al ángulo mencionado.",
       "difficulty": "8",
       "images": [],
@@ -553,13 +553,13 @@
       "context": "Un guardabosques en el Biotopo del Quetzal observa un nido desde dos puntos diferentes en el suelo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$10$ m",
           "is_correct": false,
           "feedback": "Incorrecto."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$20$ m",
           "is_correct": true,
           "feedback": "Correcto. Para $45^\\circ$, el opuesto es igual al adyacente."
@@ -577,7 +577,7 @@
           "feedback": "Valor incorrecto para la relación de catetos en un triángulo de $45^\\circ$."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La propiedad del triángulo rectángulo isósceles ($45-45-90$) simplifica enormemente los cálculos, ya que la altura es igual a la distancia a la base.",
       "difficulty": "8",
       "images": [],
@@ -655,19 +655,19 @@
           "feedback": "El argumento del coseno inverso no puede ser mayor que 1."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "$\\theta = \\tan^{-1}(5/12)$",
           "is_correct": true,
           "feedback": "Correcto. La tangente relaciona opuesto y adyacente; se usa la función inversa para hallar el ángulo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$\\theta = \\tan(12/5)$",
           "is_correct": false,
           "feedback": "Esto calcularía la tangente de un número, no el ángulo."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Para hallar un ángulo conociendo sus catetos, se utiliza la función arcotangente o tangente inversa ($\\tan^{-1}$) del cociente opuesto/adyacente.",
       "difficulty": "8",
       "images": [],
@@ -688,13 +688,13 @@
       "context": "Un navegante cerca de la costa de Izabal mide el ángulo hacia un faro.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$14.56$ m",
           "is_correct": false,
           "feedback": "Multiplicaste en lugar de dividir. La distancia debe ser mayor que la altura para un ángulo de $20^\\circ$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$109.89$ m",
           "is_correct": true,
           "feedback": "Correcto. Distancia = Altura / $\\tan(20^\\circ) = 40 / 0.364 \\approx 109.89$."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Al despejar el cateto adyacente de la fórmula $\\tan(\\theta) = \\text{Opuesto} / \\text{Adyacente}$, se obtiene Adyacente = Opuesto / $\\tan(\\theta)$.",
       "difficulty": "8",
       "images": [],
@@ -739,13 +739,13 @@
           "feedback": "La hipotenusa debe ser el lado más largo."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$60$ m",
           "is_correct": true,
           "feedback": "Correcto. $\\sin(30^\\circ) = 30 / \\text{Hipotenusa} \\Rightarrow 0.5 = 30 / \\text{Hip} \\Rightarrow \\text{Hip} = 60$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$30\\sqrt{3}$ m",
           "is_correct": false,
           "feedback": "Esta es la distancia horizontal por el suelo."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El ángulo de depresión es igual al ángulo de elevación desde el objeto hacia el observador. Con el seno de $30^\\circ$ (que es 0.5), la hipotenusa resulta ser el doble del cateto opuesto.",
       "difficulty": "10",
       "images": [],
@@ -784,13 +784,13 @@
           "feedback": "Estos valores corresponden al triángulo de $45^\\circ$."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Hipotenusa = $2x$, Cateto mayor = $x\\sqrt{3}$",
           "is_correct": true,
           "feedback": "Correcto. En el triángulo 30-60-90, los lados guardan la proporción $1 : \\sqrt{3} : 2$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Hipotenusa = $x+2$, Cateto mayor = $x+1$",
           "is_correct": false,
           "feedback": "Las relaciones en trigonometría son multiplicativas, no aditivas."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. No satisface el teorema de Pitágoras ni las razones trigonométricas."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El conocimiento de las proporciones en triángulos rectángulos especiales permite resolver problemas complejos de manera rápida y sin calculadora.",
       "difficulty": "10",
       "images": [],
@@ -823,31 +823,31 @@
       "context": "Un arquitecto calcula la sombra proyectada por un edificio sobre una pared vecina a diferentes horas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$30^\\circ$",
           "is_correct": true,
           "feedback": "Correcto. $\\tan(\\theta) = 2 / (2\\sqrt{3}) = 1/\\sqrt{3}$. El ángulo cuya tangente es $1/\\sqrt{3}$ es $30^\\circ$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$60^\\circ$",
           "is_correct": false,
           "feedback": "Para $60^\\circ$, la sombra debería ser más corta que la altura ($2/\\sqrt{3}$)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$45^\\circ$",
           "is_correct": false,
           "feedback": "Para $45^\\circ$, la sombra y la altura deben ser iguales."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$15^\\circ$",
           "is_correct": false,
           "feedback": "Incorrecto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Al comparar la altura y la sombra, se obtiene el valor de la tangente. Reconocer el valor $1/\\sqrt{3}$ permite identificar el ángulo notable de $30^\\circ$.",
       "difficulty": "10",
       "images": [],
@@ -874,13 +874,13 @@
           "feedback": "El área sería 12.5 y la hipotenusa $\\sqrt{50}$."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$6$ cm y $8$ cm",
           "is_correct": true,
           "feedback": "Correcto. Área = $(6 \\times 8) / 2 = 24$. Hipotenusa = $\\sqrt{6^2 + 8^2} = \\sqrt{100} = 10$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$4$ cm y $12$ cm",
           "is_correct": false,
           "feedback": "El área es 24, pero la hipotenusa es $\\sqrt{16+144} \\ne 10$."
@@ -892,7 +892,7 @@
           "feedback": "El área sería 24.5 y la hipotenusa $\\sqrt{98}$."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Este problema requiere verificar dos condiciones simultáneamente: el teorema de Pitágoras para la hipotenusa y la fórmula del área para el producto de los catetos.\n$a^2 + b^2 = 100$\n$ab / 2 = 24 \\Rightarrow ab = 48$.\nLos números que cumplen esto son 6 y 8.",
       "difficulty": "10",
       "images": [],

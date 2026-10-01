@@ -105,31 +105,31 @@
       "context": "En la Casa de la Ciencia de Tunja, se exhibe un gráfico de torta con la composicion de la matriz eléctrica nacional.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Es mayoritariamente hidráulica, con participación creciente de solar y eólica.",
           "is_correct": true,
           "feedback": "Correcto. La hidroelectricidad domina, complementada por nuevas renovables."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Depende por completo del carbón importado de China.",
           "is_correct": false,
           "feedback": "Incorrecto. Colombia genera electricidad con recursos propios."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Solo usa gas natural y descarta fuentes hidraulicas.",
           "is_correct": false,
           "feedback": "Incorrecto. La hidroelectricidad sigue siendo la mayor fuente."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Es 100 por ciento nuclear desde 2010.",
           "is_correct": false,
           "feedback": "Incorrecto. Colombia no tiene plantas nucleares comerciales."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Según XM y el Ministerio de Minas y Energía, cerca del 70 por ciento de la electricidad colombiana proviene del agua, y el resto de fuentes térmicas con gas y carbón. La transición energética busca incorporar más solar y eólica para reducir la vulnerabilidad ante fenomenos climaticos como el fenómeno de El Niño.",
       "difficulty": "4",
       "images": [],
@@ -151,31 +151,31 @@
       "context": "En una salida técnica a la Central Hidroeléctrica de Chivor, en Boyacá, los ingenieros explican el funcionamiento de una turbina.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Energía potencial y cinética del agua en movimiento se transforman en energía mecánica y luego eléctrica.",
           "is_correct": true,
           "feedback": "Correcto. La secuencia potencial/cinética -> mecánica -> eléctrica es el principio básico."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La energía lumínica del fondo del embalse acciona directamente las turbinas.",
           "is_correct": false,
           "feedback": "Incorrecto. Las turbinas no responden a luz sino al flujo de agua."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La combustión interna de petróleo mueve las aspas.",
           "is_correct": false,
           "feedback": "Incorrecto. No hay combustión en una hidroeléctrica convencional."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La radiación solar calienta el agua y produce vapor.",
           "is_correct": false,
           "feedback": "Incorrecto. Eso describe una termosolar, no una hidroeléctrica."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "En una hidroeléctrica el agua almacenada en el embalse cae por gravedad, adquiere velocidad y golpea las aspas de una turbina. La turbina transmite energía mecánica a un generador que, por inducción electromagnética, produce corriente eléctrica. La cantidad de electricidad depende del caudal y del salto hidraulico.",
       "difficulty": "6",
       "images": [],
@@ -197,19 +197,19 @@
       "context": "En el Parque Solar Celsia Solar, en Yumbo (Valle del Cauca), los técnicos explican como captan la radiación.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Porque presenta altos niveles de radiación solar durante casi todo el año y pocas nubes.",
           "is_correct": true,
           "feedback": "Correcto. El promedio supera los 5 a 6 kWh por metro cuadrado por día en esa zona."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque las temperaturas son extremadamente bajas todo el año.",
           "is_correct": false,
           "feedback": "Incorrecto. La Guajira es una de las zonas más cálidas del país."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque carece totalmente de viento y agua en el subsuelo.",
           "is_correct": false,
           "feedback": "Incorrecto. De hecho tiene mucho viento, lo que permite granjas eólicas también."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto. La Guajira tiene economía diversa: pesca, minería, turismo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La Guajira, por su cercania al ecuador y su clima arido con baja nubosidad, recibe alta irradiancia solar. Además, el viento Alisio sopla con regularidad. Estas dos condiciones hacen de este departamento un polo estrategico para proyectos solares como Guajira I y Guajira II, asi como para el parque eólico Jepirachi.",
       "difficulty": "6",
       "images": [],
@@ -289,31 +289,31 @@
       "context": "En un ingenio azucarero del Valle del Cauca, se discute el uso del bagazo de caña como combustible.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "El bagazo se quema en una caldera, el vapor mueve una turbina y se genera electricidad.",
           "is_correct": true,
           "feedback": "Correcto. Es un ciclo Rankine clasico alimentado con biomasa."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El bagazo se mezcla con gasolina para alimentar automoviles.",
           "is_correct": false,
           "feedback": "Incorrecto. El etanol de caña se mezcla con gasolina, pero el bagazo sólido se quema."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El bagazo se congela para producir energía por diferencia térmica.",
           "is_correct": false,
           "feedback": "Incorrecto. La congelacion no es el proceso industrial usado."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El bagazo se convierte directamente en paneles solares.",
           "is_correct": false,
           "feedback": "Incorrecto. Los paneles no se fabrican a partir de bagazo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La biomasa residual, como el bagazo de caña, tiene poder calorífico y puede sustituir combustibles fósiles. Al quemarla en calderas se produce vapor de agua a alta presión, el cual acciona turbinas acopladas a generadores. Colombia tiene experiencia consolidada en este modelo en ingenios como Manuelita y Mayaguez.",
       "difficulty": "6",
       "images": [],
@@ -381,13 +381,13 @@
       "context": "En un debate en la Universidad del Norte de Barranquilla, se discuten ventajas y desventajas de fuentes renovables y no renovables.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La hidroeléctrica inunda grandes areas e impacta comunidades; el parque solar ocupa suelo sin desplazar poblaciones.",
           "is_correct": true,
           "feedback": "Correcto. El impacto territorial y social es claramente distinto."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El parque solar emite más dióxido de carbono que la hidroeléctrica.",
           "is_correct": false,
           "feedback": "Incorrecto. La hidroeléctrica emite muy poco CO2; el solar casi cero."
@@ -405,7 +405,7 @@
           "feedback": "Incorrecto. La contaminación hídrica por mercurio está asociada a minería, no a estas renovables."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Una hidroeléctrica con gran embalse modifica caudales, fragmenta el ecosistema fluvial e inunda zonas de bosques o poblados, por lo que requiere estudios regionales rigurosos. En cambio, un parque solar fotovoltaico ocupa tierras secas con bajo impacto en el caudal de los ríos y permite la coexistencia con la agricultura en pequeña escala.",
       "difficulty": "8",
       "images": [],
@@ -473,13 +473,13 @@
       "context": "El Ministerio de Minas y Energía de Colombia debe priorizar políticas públicas para la transición energética 2026-2030.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Diversificar la matriz con solar y eólica, fortalecer redes de transmisión y fomentar eficiencia energética.",
           "is_correct": true,
           "feedback": "Correcto. Es una estrategia integral coherente con la evidencia internacional."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Incrementar exclusivamente la explotación de carbón en La Guajira y suspender proyectos eólicos.",
           "is_correct": false,
           "feedback": "Incorrecto. Eso aumenta emisiones y contradice la transición energética."
@@ -497,7 +497,7 @@
           "feedback": "Incorrecto. La regulación estatal es clave para estabilidad y acceso equitativo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La transición energética combina tres ejes: diversificar la matriz con renovables no convencionales, robustecer la red de transmisión para integrar fuentes variables y promover eficiencia en edificios, industria y transporte. La regulación estatal debe garantizar tarifas justas, calidad del servicio y participación de comunidades.",
       "difficulty": "10",
       "images": [],
@@ -519,31 +519,31 @@
       "context": "En una audiencia pública en Riohacha, la comunidad wayuu consulta sobre un nuevo parque eólico de 200 MW en su territorio ancestral.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Realizar consulta previa libre e informada y evaluar impactos ambientales, sociales y culturales.",
           "is_correct": true,
           "feedback": "Correcto. Es el estandar del Convenio 169 de la OIT y la Constitución colombiana."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Decidir unilateralmente sin consultar porque las energias renovables son urgentes.",
           "is_correct": false,
           "feedback": "Incorrecto. La urgencia no exime del derecho a la consulta previa."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Aprobar si la empresa promete regalar molinos pequenos de bombeo a cada familia.",
           "is_correct": false,
           "feedback": "Incorrecto. Las compensaciones puntuales no sustituyen la consulta previa."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Negarse por principio a cualquier proyecto energético en La Guajira.",
           "is_correct": false,
           "feedback": "Incorrecto. Una postura cerrada impide beneficios verificables y participación."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El derecho a la consulta previa, libre e informada está reconocido por la Constitución de Colombia y el Convenio 169 de la OIT. Cualquier proyecto energético en territorio indígena debe evaluar impactos acumulativos, acordar beneficios justos y respetar la autonomia cultural wayuu, sin sustituir ese dialogo por compensaciones aisladas ni por imposicion tecnocratica.",
       "difficulty": "10",
       "images": [],

@@ -13,19 +13,19 @@
       "context": "En una empresa textil de Medellín, se modela el volumen de producción diaria en función del tiempo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$6\\pi\\text{ m}^2\\text{/s}$",
           "is_correct": true,
           "feedback": "Correcto: aplicación impecable de la derivación implícita con respecto al tiempo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$3\\pi\\text{ m}^2\\text{/s}$",
           "is_correct": false,
           "feedback": "Incorrecto: se olvidó el factor de multiplicación 2 de la derivada de r^2."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$6\\text{ m}^2\\text{/s}$",
           "is_correct": false,
           "feedback": "Incorrecto: se omitió la constante pi en la respuesta."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto: se elevó al cuadrado el valor de dr/dt."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Diferenciando el área del círculo $A = \\pi r^2$ respecto al tiempo $t$ por regla de la cadena: $\\frac{dA}{dt} = 2\\pi r \\frac{dr}{dt}$. Sustituyendo $r = 1$ y $\\frac{dr}{dt} = 3$: $\\frac{dA}{dt} = 2\\pi(1)(3) = 6\\pi\\text{ m}^2\\text{/s}$.",
       "difficulty": "4",
       "images": [],
@@ -59,19 +59,19 @@
       "context": "Un laboratorio farmacéutico en Bogotá analiza la concentración de un medicamento en el torrente sanguíneo a lo largo de las horas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$12\\pi\\text{ m}^2\\text{/s}$",
           "is_correct": true,
           "feedback": "Correcto: aplicación impecable de la derivación implícita con respecto al tiempo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$6\\pi\\text{ m}^2\\text{/s}$",
           "is_correct": false,
           "feedback": "Incorrecto: se olvidó el factor de multiplicación 2 de la derivada de r^2."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$12\\text{ m}^2\\text{/s}$",
           "is_correct": false,
           "feedback": "Incorrecto: se omitió la constante pi en la respuesta."
@@ -83,7 +83,7 @@
           "feedback": "Incorrecto: se elevó al cuadrado el valor de dr/dt."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Diferenciando el área del círculo $A = \\pi r^2$ respecto al tiempo $t$ por regla de la cadena: $\\frac{dA}{dt} = 2\\pi r \\frac{dr}{dt}$. Sustituyendo $r = 2$ y $\\frac{dr}{dt} = 3$: $\\frac{dA}{dt} = 2\\pi(2)(3) = 12\\pi\\text{ m}^2\\text{/s}$.",
       "difficulty": "4",
       "images": [],
@@ -105,19 +105,19 @@
       "context": "En el puerto de Buenaventura, se registra el nivel de la marea y la tasa de variación del nivel del agua.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$18\\pi\\text{ m}^2\\text{/s}$",
           "is_correct": true,
           "feedback": "Correcto: aplicación impecable de la derivación implícita con respecto al tiempo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$9\\pi\\text{ m}^2\\text{/s}$",
           "is_correct": false,
           "feedback": "Incorrecto: se olvidó el factor de multiplicación 2 de la derivada de r^2."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$18\\text{ m}^2\\text{/s}$",
           "is_correct": false,
           "feedback": "Incorrecto: se omitió la constante pi en la respuesta."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecto: se elevó al cuadrado el valor de dr/dt."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Diferenciando el área del círculo $A = \\pi r^2$ respecto al tiempo $t$ por regla de la cadena: $\\frac{dA}{dt} = 2\\pi r \\frac{dr}{dt}$. Sustituyendo $r = 3$ y $\\frac{dr}{dt} = 3$: $\\frac{dA}{dt} = 2\\pi(3)(3) = 18\\pi\\text{ m}^2\\text{/s}$.",
       "difficulty": "4",
       "images": [],
@@ -151,19 +151,19 @@
       "context": "Un cultivo de flores en la Sabana de Bogotá estudia la tasa de crecimiento de las plantas bajo ciertas condiciones de riego.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$24\\pi\\text{ m}^2\\text{/s}$",
           "is_correct": true,
           "feedback": "Correcto: aplicación impecable de la derivación implícita con respecto al tiempo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$12\\pi\\text{ m}^2\\text{/s}$",
           "is_correct": false,
           "feedback": "Incorrecto: se olvidó el factor de multiplicación 2 de la derivada de r^2."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$24\\text{ m}^2\\text{/s}$",
           "is_correct": false,
           "feedback": "Incorrecto: se omitió la constante pi en la respuesta."
@@ -175,7 +175,7 @@
           "feedback": "Incorrecto: se elevó al cuadrado el valor de dr/dt."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Diferenciando el área del círculo $A = \\pi r^2$ respecto al tiempo $t$ por regla de la cadena: $\\frac{dA}{dt} = 2\\pi r \\frac{dr}{dt}$. Sustituyendo $r = 4$ y $\\frac{dr}{dt} = 3$: $\\frac{dA}{dt} = 2\\pi(4)(3) = 24\\pi\\text{ m}^2\\text{/s}$.",
       "difficulty": "4",
       "images": [],
@@ -197,31 +197,31 @@
       "context": "En la ciudad de Cali, un sistema de transporte masivo monitorea la velocidad de los buses y la aceleración instantánea.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$30\\pi\\text{ m}^2\\text{/s}$",
           "is_correct": true,
           "feedback": "Correcto: aplicación impecable de la derivación implícita con respecto al tiempo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$15\\pi\\text{ m}^2\\text{/s}$",
           "is_correct": false,
           "feedback": "Incorrecto: se olvidó el factor de multiplicación 2 de la derivada de r^2."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$30\\text{ m}^2\\text{/s}$",
           "is_correct": false,
           "feedback": "Incorrecto: se omitió la constante pi en la respuesta."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$45\\pi\\text{ m}^2\\text{/s}$",
           "is_correct": false,
           "feedback": "Incorrecto: se elevó al cuadrado el valor de dr/dt."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Diferenciando el área del círculo $A = \\pi r^2$ respecto al tiempo $t$ por regla de la cadena: $\\frac{dA}{dt} = 2\\pi r \\frac{dr}{dt}$. Sustituyendo $r = 5$ y $\\frac{dr}{dt} = 3$: $\\frac{dA}{dt} = 2\\pi(5)(3) = 30\\pi\\text{ m}^2\\text{/s}$.",
       "difficulty": "6",
       "images": [],
@@ -243,19 +243,19 @@
       "context": "Un ingeniero civil en el proyecto del metro de Bogotá evalúa la curva de deformación de una viga de concreto.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$36\\pi\\text{ m}^2\\text{/s}$",
           "is_correct": true,
           "feedback": "Correcto: aplicación impecable de la derivación implícita con respecto al tiempo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$18\\pi\\text{ m}^2\\text{/s}$",
           "is_correct": false,
           "feedback": "Incorrecto: se olvidó el factor de multiplicación 2 de la derivada de r^2."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$36\\text{ m}^2\\text{/s}$",
           "is_correct": false,
           "feedback": "Incorrecto: se omitió la constante pi en la respuesta."
@@ -267,7 +267,7 @@
           "feedback": "Incorrecto: se elevó al cuadrado el valor de dr/dt."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Diferenciando el área del círculo $A = \\pi r^2$ respecto al tiempo $t$ por regla de la cadena: $\\frac{dA}{dt} = 2\\pi r \\frac{dr}{dt}$. Sustituyendo $r = 6$ y $\\frac{dr}{dt} = 3$: $\\frac{dA}{dt} = 2\\pi(6)(3) = 36\\pi\\text{ m}^2\\text{/s}$.",
       "difficulty": "6",
       "images": [],
@@ -289,31 +289,31 @@
       "context": "En un proyecto agrícola en el departamento del Tolima, se calcula la producción máxima de arroz optimizando la fertilización.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$42\\pi\\text{ m}^2\\text{/s}$",
           "is_correct": true,
           "feedback": "Correcto: aplicación impecable de la derivación implícita con respecto al tiempo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$21\\pi\\text{ m}^2\\text{/s}$",
           "is_correct": false,
           "feedback": "Incorrecto: se olvidó el factor de multiplicación 2 de la derivada de r^2."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$42\\text{ m}^2\\text{/s}$",
           "is_correct": false,
           "feedback": "Incorrecto: se omitió la constante pi en la respuesta."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$63\\pi\\text{ m}^2\\text{/s}$",
           "is_correct": false,
           "feedback": "Incorrecto: se elevó al cuadrado el valor de dr/dt."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Diferenciando el área del círculo $A = \\pi r^2$ respecto al tiempo $t$ por regla de la cadena: $\\frac{dA}{dt} = 2\\pi r \\frac{dr}{dt}$. Sustituyendo $r = 7$ y $\\frac{dr}{dt} = 3$: $\\frac{dA}{dt} = 2\\pi(7)(3) = 42\\pi\\text{ m}^2\\text{/s}$.",
       "difficulty": "6",
       "images": [],
@@ -335,19 +335,19 @@
       "context": "Una empresa de energía solar en Barranquilla modela la acumulación diaria de energía mediante la tasa de radiación captada.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$48\\pi\\text{ m}^2\\text{/s}$",
           "is_correct": true,
           "feedback": "Correcto: aplicación impecable de la derivación implícita con respecto al tiempo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$24\\pi\\text{ m}^2\\text{/s}$",
           "is_correct": false,
           "feedback": "Incorrecto: se olvidó el factor de multiplicación 2 de la derivada de r^2."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$48\\text{ m}^2\\text{/s}$",
           "is_correct": false,
           "feedback": "Incorrecto: se omitió la constante pi en la respuesta."
@@ -359,7 +359,7 @@
           "feedback": "Incorrecto: se elevó al cuadrado el valor de dr/dt."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Diferenciando el área del círculo $A = \\pi r^2$ respecto al tiempo $t$ por regla de la cadena: $\\frac{dA}{dt} = 2\\pi r \\frac{dr}{dt}$. Sustituyendo $r = 8$ y $\\frac{dr}{dt} = 3$: $\\frac{dA}{dt} = 2\\pi(8)(3) = 48\\pi\\text{ m}^2\\text{/s}$.",
       "difficulty": "6",
       "images": [],
@@ -381,13 +381,13 @@
       "context": "En un estudio económico en Bucaramanga, se analiza el costo marginal y la utilidad máxima de una fábrica de calzado.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$54\\pi\\text{ m}^2\\text{/s}$",
           "is_correct": true,
           "feedback": "Correcto: aplicación impecable de la derivación implícita con respecto al tiempo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$27\\pi\\text{ m}^2\\text{/s}$",
           "is_correct": false,
           "feedback": "Incorrecto: se olvidó el factor de multiplicación 2 de la derivada de r^2."
@@ -405,7 +405,7 @@
           "feedback": "Incorrecto: se elevó al cuadrado el valor de dr/dt."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Diferenciando el área del círculo $A = \\pi r^2$ respecto al tiempo $t$ por regla de la cadena: $\\frac{dA}{dt} = 2\\pi r \\frac{dr}{dt}$. Sustituyendo $r = 9$ y $\\frac{dr}{dt} = 3$: $\\frac{dA}{dt} = 2\\pi(9)(3) = 54\\pi\\text{ m}^2\\text{/s}$.",
       "difficulty": "6",
       "images": [],
@@ -427,13 +427,13 @@
       "context": "Un centro meteorológico en Cartagena registra el incremento de la temperatura promedio durante el medio día.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$60\\pi\\text{ m}^2\\text{/s}$",
           "is_correct": true,
           "feedback": "Correcto: aplicación impecable de la derivación implícita con respecto al tiempo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$30\\pi\\text{ m}^2\\text{/s}$",
           "is_correct": false,
           "feedback": "Incorrecto: se olvidó el factor de multiplicación 2 de la derivada de r^2."
@@ -451,7 +451,7 @@
           "feedback": "Incorrecto: se elevó al cuadrado el valor de dr/dt."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Diferenciando el área del círculo $A = \\pi r^2$ respecto al tiempo $t$ por regla de la cadena: $\\frac{dA}{dt} = 2\\pi r \\frac{dr}{dt}$. Sustituyendo $r = 10$ y $\\frac{dr}{dt} = 3$: $\\frac{dA}{dt} = 2\\pi(10)(3) = 60\\pi\\text{ m}^2\\text{/s}$.",
       "difficulty": "6",
       "images": [],
@@ -473,13 +473,13 @@
       "context": "En una empresa textil de Medellín, se modela el volumen de producción diaria en función del tiempo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$66\\pi\\text{ m}^2\\text{/s}$",
           "is_correct": true,
           "feedback": "Correcto: aplicación impecable de la derivación implícita con respecto al tiempo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$33\\pi\\text{ m}^2\\text{/s}$",
           "is_correct": false,
           "feedback": "Incorrecto: se olvidó el factor de multiplicación 2 de la derivada de r^2."
@@ -497,7 +497,7 @@
           "feedback": "Incorrecto: se elevó al cuadrado el valor de dr/dt."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Diferenciando el área del círculo $A = \\pi r^2$ respecto al tiempo $t$ por regla de la cadena: $\\frac{dA}{dt} = 2\\pi r \\frac{dr}{dt}$. Sustituyendo $r = 11$ y $\\frac{dr}{dt} = 3$: $\\frac{dA}{dt} = 2\\pi(11)(3) = 66\\pi\\text{ m}^2\\text{/s}$.",
       "difficulty": "8",
       "images": [],
@@ -519,13 +519,13 @@
       "context": "Un laboratorio farmacéutico en Bogotá analiza la concentración de un medicamento en el torrente sanguíneo a lo largo de las horas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$72\\pi\\text{ m}^2\\text{/s}$",
           "is_correct": true,
           "feedback": "Correcto: aplicación impecable de la derivación implícita con respecto al tiempo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$36\\pi\\text{ m}^2\\text{/s}$",
           "is_correct": false,
           "feedback": "Incorrecto: se olvidó el factor de multiplicación 2 de la derivada de r^2."
@@ -543,7 +543,7 @@
           "feedback": "Incorrecto: se elevó al cuadrado el valor de dr/dt."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Diferenciando el área del círculo $A = \\pi r^2$ respecto al tiempo $t$ por regla de la cadena: $\\frac{dA}{dt} = 2\\pi r \\frac{dr}{dt}$. Sustituyendo $r = 12$ y $\\frac{dr}{dt} = 3$: $\\frac{dA}{dt} = 2\\pi(12)(3) = 72\\pi\\text{ m}^2\\text{/s}$.",
       "difficulty": "8",
       "images": [],
@@ -565,13 +565,13 @@
       "context": "En el puerto de Buenaventura, se registra el nivel de la marea y la tasa de variación del nivel del agua.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$78\\pi\\text{ m}^2\\text{/s}$",
           "is_correct": true,
           "feedback": "Correcto: aplicación impecable de la derivación implícita con respecto al tiempo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$39\\pi\\text{ m}^2\\text{/s}$",
           "is_correct": false,
           "feedback": "Incorrecto: se olvidó el factor de multiplicación 2 de la derivada de r^2."
@@ -589,7 +589,7 @@
           "feedback": "Incorrecto: se elevó al cuadrado el valor de dr/dt."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Diferenciando el área del círculo $A = \\pi r^2$ respecto al tiempo $t$ por regla de la cadena: $\\frac{dA}{dt} = 2\\pi r \\frac{dr}{dt}$. Sustituyendo $r = 13$ y $\\frac{dr}{dt} = 3$: $\\frac{dA}{dt} = 2\\pi(13)(3) = 78\\pi\\text{ m}^2\\text{/s}$.",
       "difficulty": "8",
       "images": [],
@@ -611,19 +611,19 @@
       "context": "Un cultivo de flores en la Sabana de Bogotá estudia la tasa de crecimiento de las plantas bajo ciertas condiciones de riego.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$84\\pi\\text{ m}^2\\text{/s}$",
           "is_correct": true,
           "feedback": "Correcto: aplicación impecable de la derivación implícita con respecto al tiempo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$42\\pi\\text{ m}^2\\text{/s}$",
           "is_correct": false,
           "feedback": "Incorrecto: se olvidó el factor de multiplicación 2 de la derivada de r^2."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$84\\text{ m}^2\\text{/s}$",
           "is_correct": false,
           "feedback": "Incorrecto: se omitió la constante pi en la respuesta."
@@ -635,7 +635,7 @@
           "feedback": "Incorrecto: se elevó al cuadrado el valor de dr/dt."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Diferenciando el área del círculo $A = \\pi r^2$ respecto al tiempo $t$ por regla de la cadena: $\\frac{dA}{dt} = 2\\pi r \\frac{dr}{dt}$. Sustituyendo $r = 14$ y $\\frac{dr}{dt} = 3$: $\\frac{dA}{dt} = 2\\pi(14)(3) = 84\\pi\\text{ m}^2\\text{/s}$.",
       "difficulty": "8",
       "images": [],
@@ -657,31 +657,31 @@
       "context": "En la ciudad de Cali, un sistema de transporte masivo monitorea la velocidad de los buses y la aceleración instantánea.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$90\\pi\\text{ m}^2\\text{/s}$",
           "is_correct": true,
           "feedback": "Correcto: aplicación impecable de la derivación implícita con respecto al tiempo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$45\\pi\\text{ m}^2\\text{/s}$",
           "is_correct": false,
           "feedback": "Incorrecto: se olvidó el factor de multiplicación 2 de la derivada de r^2."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$90\\text{ m}^2\\text{/s}$",
           "is_correct": false,
           "feedback": "Incorrecto: se omitió la constante pi en la respuesta."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$135\\pi\\text{ m}^2\\text{/s}$",
           "is_correct": false,
           "feedback": "Incorrecto: se elevó al cuadrado el valor de dr/dt."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Diferenciando el área del círculo $A = \\pi r^2$ respecto al tiempo $t$ por regla de la cadena: $\\frac{dA}{dt} = 2\\pi r \\frac{dr}{dt}$. Sustituyendo $r = 15$ y $\\frac{dr}{dt} = 3$: $\\frac{dA}{dt} = 2\\pi(15)(3) = 90\\pi\\text{ m}^2\\text{/s}$.",
       "difficulty": "8",
       "images": [],
@@ -703,19 +703,19 @@
       "context": "Un ingeniero civil en el proyecto del metro de Bogotá evalúa la curva de deformación de una viga de concreto.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$96\\pi\\text{ m}^2\\text{/s}$",
           "is_correct": true,
           "feedback": "Correcto: aplicación impecable de la derivación implícita con respecto al tiempo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$48\\pi\\text{ m}^2\\text{/s}$",
           "is_correct": false,
           "feedback": "Incorrecto: se olvidó el factor de multiplicación 2 de la derivada de r^2."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$96\\text{ m}^2\\text{/s}$",
           "is_correct": false,
           "feedback": "Incorrecto: se omitió la constante pi en la respuesta."
@@ -727,7 +727,7 @@
           "feedback": "Incorrecto: se elevó al cuadrado el valor de dr/dt."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Diferenciando el área del círculo $A = \\pi r^2$ respecto al tiempo $t$ por regla de la cadena: $\\frac{dA}{dt} = 2\\pi r \\frac{dr}{dt}$. Sustituyendo $r = 16$ y $\\frac{dr}{dt} = 3$: $\\frac{dA}{dt} = 2\\pi(16)(3) = 96\\pi\\text{ m}^2\\text{/s}$.",
       "difficulty": "8",
       "images": [],
@@ -887,31 +887,31 @@
       "context": "Un centro meteorológico en Cartagena registra el incremento de la temperatura promedio durante el medio día.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$120\\pi\\text{ m}^2\\text{/s}$",
           "is_correct": true,
           "feedback": "Correcto: aplicación impecable de la derivación implícita con respecto al tiempo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$60\\pi\\text{ m}^2\\text{/s}$",
           "is_correct": false,
           "feedback": "Incorrecto: se olvidó el factor de multiplicación 2 de la derivada de r^2."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$120\\text{ m}^2\\text{/s}$",
           "is_correct": false,
           "feedback": "Incorrecto: se omitió la constante pi en la respuesta."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$180\\pi\\text{ m}^2\\text{/s}$",
           "is_correct": false,
           "feedback": "Incorrecto: se elevó al cuadrado el valor de dr/dt."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Diferenciando el área del círculo $A = \\pi r^2$ respecto al tiempo $t$ por regla de la cadena: $\\frac{dA}{dt} = 2\\pi r \\frac{dr}{dt}$. Sustituyendo $r = 20$ y $\\frac{dr}{dt} = 3$: $\\frac{dA}{dt} = 2\\pi(20)(3) = 120\\pi\\text{ m}^2\\text{/s}$.",
       "difficulty": "10",
       "images": [],

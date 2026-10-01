@@ -19,13 +19,13 @@
           "feedback": "La pendiente es un escalar, no un vector."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$\\vec{A}$ es un punto de la recta y $\\vec{v}$ es el vector director que marca su dirección.",
           "is_correct": true,
           "feedback": "Correcto. La recta se forma sumando al punto A múltiplos del vector director v."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\vec{A}$ es el origen de coordenadas y $\\vec{v}$ es la distancia al origen.",
           "is_correct": false,
           "feedback": "A es cualquier punto de la recta, no necesariamente el origen."
@@ -37,7 +37,7 @@
           "feedback": "Una recta en el plano solo necesita un vector director."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La ecuación vectorial es la más intuitiva: para \"fabricar\" una recta solo necesitamos un punto de partida (punto de la recta) y una dirección (vector director).\n\n---",
       "difficulty": "4",
       "images": [],
@@ -64,25 +64,25 @@
           "feedback": "La pendiente es la variación de Y dividida por la variación de X."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$m = v_2 / v_1$",
           "is_correct": true,
           "feedback": "Correcto. La pendiente representa cuánto sube o baja la recta por cada unidad que avanza en el eje X."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$m = v_1 \\cdot v_2$",
           "is_correct": false,
           "feedback": "El producto de coordenadas no define la pendiente."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$m = \\sqrt{v_1^2 + v_2^2}$",
           "is_correct": false,
           "feedback": "Este es el módulo del vector director, no la pendiente."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La pendiente $m$ es la tangente del ángulo que forma la recta con el eje X positivo. En términos de componentes del vector director, es la componente vertical dividida por la horizontal.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -103,13 +103,13 @@
       "context": "Un estudiante identifica la ecuación general o implícita de la recta.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$y = mx + n$",
           "is_correct": false,
           "feedback": "Esta es la ecuación explícita."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$Ax + By + C = 0$",
           "is_correct": true,
           "feedback": "Correcto. Es la forma donde todos los términos están en un lado de la igualdad."
@@ -127,7 +127,7 @@
           "feedback": "Esta es la ecuación de una circunferencia."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La ecuación general es muy útil para estudiar la posición relativa de dos rectas y para calcular distancias de puntos a rectas.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -154,13 +154,13 @@
           "feedback": "Este sería un vector director de la recta."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$(3, -4)$",
           "is_correct": true,
           "feedback": "Correcto. En la ecuación $Ax + By + C = 0$, el vector $\\vec{n} = (A, B)$ es siempre perpendicular a la recta."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$(-3, 4)$",
           "is_correct": false,
           "feedback": "También es un vector normal, pero la opción B usa directamente los coeficientes A y B."
@@ -172,7 +172,7 @@
           "feedback": "Error de signo en la componente Y."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Una de las grandes ventajas de la ecuación general es que permite leer directamente un vector perpendicular a la recta a partir de los coeficientes de $x$ e $y$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -424,13 +424,13 @@
           "feedback": "Error al no dividir por el módulo del vector normal."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "3 unidades",
           "is_correct": true,
           "feedback": "Correcto. $d = |3(1) + 4(2) + 4| / \\sqrt{3^2+4^2} = |3+8+4|/5 = 15/5 = 3$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "5 unidades",
           "is_correct": false,
           "feedback": "Cálculo incorrecto del numerador."
@@ -442,7 +442,7 @@
           "feedback": "Resultado incorrecto."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La distancia de un punto a una recta se obtiene sustituyendo las coordenadas del punto en la ecuación general (en valor absoluto) y dividiendo por la longitud del vector normal.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -469,13 +469,13 @@
           "feedback": "Valor incorrecto."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "1",
           "is_correct": true,
           "feedback": "Correcto. $\\tan(\\alpha) = |(m_2 - m_1) / (1 + m_1 \\cdot m_2)| = |(-3 - 2) / (1 + 2 \\cdot (-3))| = |-5 / -5| = 1$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "0",
           "is_correct": false,
           "feedback": "Las rectas no son paralelas."
@@ -487,7 +487,7 @@
           "feedback": "Las rectas no son perpendiculares."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El ángulo entre dos rectas depende solo de sus pendientes. Una tangente igual a 1 indica que las rectas forman un ángulo de 45 grados entre sí.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -508,13 +508,13 @@
       "context": "Se busca la ecuación de la recta mediatriz de un segmento con extremos $A(2, 1)$ y $B(6, 5)$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Es la recta que pasa por A y B.",
           "is_correct": false,
           "feedback": "Esa es la recta que contiene al segmento."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Es la recta perpendicular al segmento que pasa por su punto medio.",
           "is_correct": true,
           "feedback": "Correcto. Es el lugar geométrico de los puntos que equidistan de los extremos."
@@ -532,7 +532,7 @@
           "feedback": "La mediatriz es siempre perpendicular."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Para hallar la mediatriz: 1. Calculamos el punto medio de AB. 2. Hallamos el vector AB (que será el normal de nuestra recta). 3. Escribimos la ecuación de la recta que cumple ambas condiciones.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -649,13 +649,13 @@
           "feedback": "Sería horizontal si A fuera cero."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Es una recta vertical (paralela al eje Y).",
           "is_correct": true,
           "feedback": "Correcto. Al no depender de y, representa todos los puntos con una x fija."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Pasa necesariamente por el origen.",
           "is_correct": false,
           "feedback": "Solo si C es también cero."
@@ -667,7 +667,7 @@
           "feedback": "Esa recta es $x - y = 0$."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Cuando falta una de las variables en la ecuación general, la recta es paralela al eje de la variable ausente. $x = k$ es vertical, $y = k$ es horizontal.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -688,13 +688,13 @@
       "context": "Un estudiante analiza el área de un triángulo formado por la recta $x + y = 4$ y los ejes de coordenadas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "4 unidades cuadradas",
           "is_correct": false,
           "feedback": "Error de cálculo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "8 unidades cuadradas",
           "is_correct": true,
           "feedback": "Correcto. Cortes: $(4, 0)$ y $(0, 4)$. Base = 4, Altura = 4. Área = $(4 \\cdot 4) / 2 = 8$."
@@ -712,7 +712,7 @@
           "feedback": "Cálculo incorrecto."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Para hallar el área con los ejes, buscamos los puntos de corte igualando alternativamente $x=0$ e $y=0$. La distancia de estos puntos al origen nos da los catetos del triángulo rectángulo.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -733,31 +733,31 @@
       "context": "Un ingeniero en Málaga quiere hallar la proyección ortogonal del punto $P(5, 5)$ sobre la recta $r: y = x$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$(5, 5)$",
           "is_correct": true,
           "feedback": "Correcto. El punto P ya pertenece a la recta (5=5), por lo que su proyección es él mismo y la distancia es cero."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$(0, 0)$",
           "is_correct": false,
           "feedback": "No es el punto más cercano."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$(2.5, 2.5)$",
           "is_correct": false,
           "feedback": "No es la proyección."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$(5, 0)$",
           "is_correct": false,
           "feedback": "Este punto no pertenece a la recta r."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Si un punto pertenece a la recta, todas las operaciones de proyección y distancia mínima se simplifican, ya que el punto es su propia proyección.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -784,25 +784,25 @@
           "feedback": "Este es el punto de la recta, no el simétrico."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$(1, 6)$",
           "is_correct": true,
           "feedback": "Correcto. La distancia de A a la recta es 2 unidades hacia arriba. El simétrico está 2 unidades más arriba del espejo: $4 + 2 = 6$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$(3, 2)$",
           "is_correct": false,
           "feedback": "La simetría es respecto a una recta horizontal, solo cambia la coordenada Y."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$(1, -2)$",
           "is_correct": false,
           "feedback": "Simetría incorrecta."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El punto medio entre un punto y su simétrico debe caer exactamente sobre el eje de simetría (la recta). Usamos la fórmula del punto medio para despejar las coordenadas de $A'$.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -829,13 +829,13 @@
           "feedback": "Falta dividir por el módulo del vector normal."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "2 unidades",
           "is_correct": true,
           "feedback": "Correcto. $d = |C' - C| / \\sqrt{A^2+B^2} = |11 - 1| / \\sqrt{3^2+(-4)^2} = 10 / 5 = 2$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "0 unidades",
           "is_correct": false,
           "feedback": "Las rectas no son coincidentes."
@@ -847,7 +847,7 @@
           "feedback": "Cálculo incorrecto."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Para hallar la distancia entre paralelas, restamos sus términos independientes (una vez normalizados los coeficientes de las variables) y dividimos por el módulo del vector normal común.\n\n---",
       "difficulty": "10",
       "images": [],

@@ -13,31 +13,31 @@
       "context": "En Bogotá, la profesora muestra varias figuras en el tablero y pide reconocer los cuadriláteros del parque que dibujó.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Cuadrado",
           "is_correct": true,
           "feedback": "Es correcto: el cuadrado tiene cuatro lados y cuatro vértices, por eso es un cuadrilátero."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Triángulo",
           "is_correct": false,
           "feedback": "Error conceptual: el triángulo tiene tres lados, no cuatro."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Círculo",
           "is_correct": false,
           "feedback": "Error conceptual: el círculo no tiene lados rectos ni vértices."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Pentágono",
           "is_correct": false,
           "feedback": "Error conceptual: el pentágono tiene cinco lados, uno más de los que define un cuadrilátero."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Un cuadrilátero es un polígono de cuatro lados. El cuadrado, el rectángulo, el rombo, el trapecio y el paralelogramo pertenecen a esta familia.",
       "difficulty": "4",
       "images": [],
@@ -59,31 +59,31 @@
       "context": "En Cali, un rectángulo mide 8 cm de largo y 5 cm de ancho y se quiere conocer la longitud de su contorno.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "2 × (8 + 5) = 26 cm",
           "is_correct": true,
           "feedback": "Es correcto: se suman largo y ancho y se multiplica por 2, porque hay dos de cada uno."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "8 × 5 = 40 cm",
           "is_correct": false,
           "feedback": "Error conceptual: multiplicar largo por ancho calcula el área, no el perímetro."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "8 + 5 = 13 cm",
           "is_correct": false,
           "feedback": "Error conceptual: 13 cm es solo medio perímetro; falta sumar los otros dos lados."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "4 × 8 = 32 cm",
           "is_correct": false,
           "feedback": "Error conceptual: 4 × 8 trata la figura como un cuadrado e ignora el ancho."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El perímetro del rectángulo suma sus cuatro lados y, como los opuestos son iguales, se calcula con 2 × (largo + ancho). Aquí: 2 × (8 + 5) = 26 cm.",
       "difficulty": "4",
       "images": [],
@@ -105,31 +105,31 @@
       "context": "En Barranquilla, una familia tiene un terreno rectangular de 12 m de largo y 7 m de ancho y quiere saber su superficie.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "84 m²",
           "is_correct": true,
           "feedback": "Es correcto: 12 m × 7 m = 84 m²."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "38 m²",
           "is_correct": false,
           "feedback": "Error conceptual: 38 m es el perímetro (2 × 19) y se confunde con el área."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "19 m²",
           "is_correct": false,
           "feedback": "Error conceptual: 19 m es la suma de largo y ancho, no la superficie."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "144 m²",
           "is_correct": false,
           "feedback": "Error conceptual: 144 m² eleva el largo al cuadrado y omite el ancho."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El área del rectángulo se obtiene multiplicando largo por ancho: 12 × 7 = 84 m². El resultado se expresa en unidades cuadradas porque mide superficie.",
       "difficulty": "6",
       "images": [],
@@ -151,13 +151,13 @@
       "context": "En Bucaramanga, un cometa tiene forma de rombo con diagonales de 10 cm y 6 cm.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "30 cm²",
           "is_correct": true,
           "feedback": "Es correcto: (10 × 6) ÷ 2 = 60 ÷ 2 = 30 cm²."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "60 cm²",
           "is_correct": false,
           "feedback": "Error conceptual: 60 cm² multiplica las diagonales pero olvida dividir entre 2."
@@ -175,7 +175,7 @@
           "feedback": "Error conceptual: 8 cm no resulta de ninguna operación válida con las diagonales."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El área del rombo es la mitad del producto de sus diagonales: (D × d) ÷ 2. Aquí (10 × 6) ÷ 2 = 30 cm².",
       "difficulty": "6",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "En Manizales, un trapecio tiene bases de 8 cm y 5 cm, y una altura de 4 cm.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "26 cm²",
           "is_correct": true,
           "feedback": "Es correcto: (8 + 5) ÷ 2 × 4 = 6.5 × 4 = 26 cm²."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "52 cm²",
           "is_correct": false,
           "feedback": "Error conceptual: 52 cm² omite dividir la suma de las bases entre 2."
@@ -267,7 +267,7 @@
           "feedback": "Error conceptual: 13 cm² es la suma de las bases y no el área de la figura."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El área del trapecio es el promedio de las bases por la altura: ((8 + 5) ÷ 2) × 4 = 26 cm². Promediar las bases corrige el hecho de que son distintas.",
       "difficulty": "8",
       "images": [],
@@ -289,31 +289,31 @@
       "context": "En Neiva, un rectángulo tiene área 48 cm² y ancho 6 cm.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "28 cm",
           "is_correct": true,
           "feedback": "Es correcto: el largo es 48 ÷ 6 = 8 cm y el perímetro es 2 × (8 + 6) = 28 cm."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "14 cm",
           "is_correct": false,
           "feedback": "Error conceptual: 14 cm es solo la suma de largo y ancho, es decir, medio perímetro."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "56 cm",
           "is_correct": false,
           "feedback": "Error conceptual: 56 cm duplica sin dividir entre 2 correctamente el valor del perímetro."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "22 cm",
           "is_correct": false,
           "feedback": "Error conceptual: 22 cm usa un largo equivocado; el largo correcto es 8 cm."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Primero se recupera el largo con área ÷ ancho = 48 ÷ 6 = 8 cm y luego se calcula el perímetro: 2 × (8 + 6) = 28 cm. Se encadenan dos propiedades del rectángulo.",
       "difficulty": "8",
       "images": [],
@@ -335,31 +335,31 @@
       "context": "En Villavicencio, un romboide (paralelogramo) tiene base de 9 cm y altura de 5 cm; uno de sus lados inclinados mide 6 cm y un estudiante duda qué medidas usar.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "45 cm², porque se multiplica la base por la altura",
           "is_correct": true,
           "feedback": "Es correcto: el área del paralelogramo es base × altura = 9 × 5 = 45 cm²."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "54 cm², porque se multiplica la base por el lado inclinado",
           "is_correct": false,
           "feedback": "Error conceptual: el lado inclinado no es perpendicular a la base, así que no mide la altura."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "30 cm², porque se multiplica el lado inclinado por la altura",
           "is_correct": false,
           "feedback": "Error conceptual: 30 cm² combina el lado inclinado con la altura, medidas que no definen el área."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "27 cm², porque se multiplica la base por la mitad de la altura",
           "is_correct": false,
           "feedback": "Error conceptual: dividir la altura entre 2 no corresponde a la fórmula del paralelogramo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El área del paralelogramo es base × altura, donde la altura es la distancia perpendicular entre las bases. El lado inclinado solo sirve para el perímetro, no para el área.",
       "difficulty": "8",
       "images": [],
@@ -427,19 +427,19 @@
       "context": "En Santa Marta, una familia compara dos terrenos: uno cuadrado de 8 m de lado y otro rectangular de 10 m × 6 m, y quiere el de mayor superficie.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "El cuadrado, con 4 m² más, porque 64 m² > 60 m²",
           "is_correct": true,
           "feedback": "Es correcto: el cuadrado tiene 8 × 8 = 64 m² y el rectángulo 10 × 6 = 60 m²."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El rectángulo, con 8 m² más, porque 10 + 6 > 8 + 8",
           "is_correct": false,
           "feedback": "Error conceptual: se suman los lados (perímetro) en vez de multiplicarlos para el área."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Tienen la misma área",
           "is_correct": false,
           "feedback": "Error conceptual: 64 m² y 60 m² son distintos, así que las áreas no coinciden."
@@ -451,7 +451,7 @@
           "feedback": "Error conceptual: la diferencia correcta es 64 − 60 = 4 m², no 12 m²."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Comparar áreas exige multiplicar las dimensiones de cada figura: 64 m² frente a 60 m². La diferencia es 4 m² a favor del cuadrado, y conviene calcular antes de decidir.",
       "difficulty": "10",
       "images": [],

@@ -105,19 +105,19 @@
       "context": "A teacher in Cali writes on the board: \"I like apples. I do not like candy.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "She likes apples but she does not like candy.",
           "is_correct": true,
           "feedback": "\"Likes\" agrees with third person singular \"she\" and expresses preference."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "She like apples but she does not like candy.",
           "is_correct": false,
           "feedback": "\"Like\" without -s is incorrect with the singular subject \"she\"."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "She liking apples and she does not like candy.",
           "is_correct": false,
           "feedback": "\"Liking\" is a gerund and needs an auxiliary verb to work as a main verb."
@@ -129,7 +129,7 @@
           "feedback": "\"Apple\" should be plural \"apples\" with the verb \"likes\"."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Using the verb \"like\" in affirmative and negative forms with the third person singular in English.",
       "difficulty": "6",
       "images": [],
@@ -197,31 +197,31 @@
       "context": "A nutritionist at a school in Neiva says: \"Children should eat five portions of fruits and vegetables every day.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "How many portions of fruits should I eat every day?",
           "is_correct": true,
           "feedback": "\"How many\" is used with countable plural nouns like \"portions\"."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "How much portions of fruits should I eat every day?",
           "is_correct": false,
           "feedback": "\"How much\" is used with uncountable nouns, not with the countable \"portions\"."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "How many portion of fruits should I eat every day?",
           "is_correct": false,
           "feedback": "\"Portion\" should be in the plural \"portions\" with \"how many\"."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "How much portion of fruits should I eat every day?",
           "is_correct": false,
           "feedback": "\"Portion\" is countable, so \"how many\" is required, not \"how much\"."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Forming questions with \"how many\" versus \"how much\" for countable and uncountable food nouns.",
       "difficulty": "6",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "Read: \"Ana eats an apple, two bananas, and a sandwich for lunch. Pedro eats a salad, some chicken, and a glass of juice.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Ana eats fruits as a snack, while Pedro eats a more complete meal with protein.",
           "is_correct": true,
           "feedback": "Ana's meal is mainly fruits, while Pedro's includes chicken (protein) and salad."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Both Ana and Pedro eat only fruits for lunch.",
           "is_correct": false,
           "feedback": "Pedro also eats chicken and salad, so they do not eat only fruits."
@@ -267,7 +267,7 @@
           "feedback": "Both eat fruits: Ana eats an apple and two bananas, Pedro drinks juice."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Analyzing and comparing meal compositions described in English to identify food groups.",
       "difficulty": "8",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "Read the list: \"apple, banana, orange, milk, cheese, rice, carrot, tomato.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Fruits: apple, banana, orange. Other foods: milk, cheese, rice, carrot, tomato.",
           "is_correct": true,
           "feedback": "Apple, banana, and orange are fruits; the rest are dairy, grains, or vegetables."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Fruits: milk, cheese, rice, carrot, tomato.",
           "is_correct": false,
           "feedback": "Milk, cheese, and rice are not fruits; carrot and tomato are vegetables."
@@ -313,7 +313,7 @@
           "feedback": "Tomato and carrot are vegetables, not fruits in everyday classification."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Categorizing foods into fruits versus other groups based on a list written in English.",
       "difficulty": "8",
       "images": [],

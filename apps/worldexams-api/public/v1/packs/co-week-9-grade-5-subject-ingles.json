@@ -13,31 +13,31 @@
       "context": "In a school in Bogotá, students talk about what they do after class. Ana says, \"I play soccer with my friends in the park.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Soccer.",
           "is_correct": true,
           "feedback": "Soccer is a team sport played with a ball on a field."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Painting.",
           "is_correct": false,
           "feedback": "Painting is an artistic hobby; it does not use a ball or teams."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Reading.",
           "is_correct": false,
           "feedback": "Reading is a quiet hobby done with books, not a team sport."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Singing.",
           "is_correct": false,
           "feedback": "Singing is a musical activity, not a sport played with a ball."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Recognizing the English word for a common team sport by matching it with its meaning.",
       "difficulty": "4",
       "images": [],
@@ -59,13 +59,13 @@
       "context": "Read: \"Carlos likes swimming. He goes to the pool in Medellín every Saturday with his brother.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Because he likes swimming.",
           "is_correct": true,
           "feedback": "The text directly says that Carlos likes swimming and goes to the pool."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Because he likes painting.",
           "is_correct": false,
           "feedback": "The text mentions swimming, not painting, as Carlos's activity."
@@ -83,7 +83,7 @@
           "feedback": "Reading books is not stated as the reason for going to the pool."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Inferring the reason for a free-time activity from a short descriptive text in English.",
       "difficulty": "4",
       "images": [],
@@ -105,31 +105,31 @@
       "context": "A teacher in Cali asks, \"What do you do in your free time?\" Sofía answers, \"In my free time, I ride my bike and listen to music.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Sofía rides her bike and listens to music in her free time.",
           "is_correct": true,
           "feedback": "The sentence repeats both activities that Sofía mentions in her answer."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Sofía rides her bike and paints pictures in her free time.",
           "is_correct": false,
           "feedback": "Painting is not mentioned; Sofía mentions listening to music instead."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Sofía plays chess and cooks in her free time.",
           "is_correct": false,
           "feedback": "Chess and cooking do not appear in Sofía's answer."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Sofía sleeps and studies math in her free time.",
           "is_correct": false,
           "feedback": "Sleeping and studying math are not part of Sofía's hobbies."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Applying reading comprehension to identify the hobbies described in a short dialogue.",
       "difficulty": "6",
       "images": [],
@@ -197,31 +197,31 @@
       "context": "In a school in Bucaramanga, a teacher asks the class to name a hobby that uses paper, colors and a brush.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Painting.",
           "is_correct": true,
           "feedback": "Painting uses paper, colors and a brush to create pictures."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Running.",
           "is_correct": false,
           "feedback": "Running is a physical sport and does not use paper or a brush."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Swimming.",
           "is_correct": false,
           "feedback": "Swimming happens in water and uses no paper or colors."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Cycling.",
           "is_correct": false,
           "feedback": "Cycling uses a bicycle and has nothing to do with paper or brushes."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Matching a hobby with the objects it requires in everyday English.",
       "difficulty": "6",
       "images": [],
@@ -289,31 +289,31 @@
       "context": "Compare: \"Valentina plays volleyball three times a week and feels happy. Her friend Juan watches television every afternoon and says he feels bored.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Active hobbies like volleyball can make people feel happier than sitting all afternoon.",
           "is_correct": true,
           "feedback": "The text contrasts Valentina's active joy with Juan's boredom."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Watching television always makes people feel happy.",
           "is_correct": false,
           "feedback": "In the text, Juan watches television and says he feels bored."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Volleyball is a boring activity for everyone.",
           "is_correct": false,
           "feedback": "The text shows Valentina feeling happy while playing volleyball."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Juan exercises more than Valentina.",
           "is_correct": false,
           "feedback": "Juan watches television, so he is less active than Valentina."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Interpreting the implied message of a comparison between two free-time habits in English.",
       "difficulty": "8",
       "images": [],
@@ -335,31 +335,31 @@
       "context": "Read: 'Sports and hobbies help children in Colombia stay healthy, make friends and learn new things. Playing soccer, swimming, painting or reading are good options for free time. Choosing an activity we enjoy can make us feel happy and relaxed.'",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Sports and hobbies are good for health, friendship and happiness.",
           "is_correct": true,
           "feedback": "The text links free-time activities with health, friends and well-being."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Children should only play soccer in their free time.",
           "is_correct": false,
           "feedback": "The text lists several options, not only soccer."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Free time should always be spent sleeping.",
           "is_correct": false,
           "feedback": "Sleeping is not mentioned as the only or main free-time activity."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Hobbies are bad for children's health.",
           "is_correct": false,
           "feedback": "The text states the opposite: hobbies help children stay healthy."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Evaluating the main idea of a short text about the value of sports and hobbies for children.",
       "difficulty": "10",
       "images": [],

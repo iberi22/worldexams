@@ -13,19 +13,19 @@
       "context": "En una encuesta realizada en una escuela de Mendoza, se registró la cantidad de hermanos que tiene cada alumno de un curso de 5to año.\n\nDatos sobre composición familiar escolar.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Cualitativa nominal",
           "is_correct": false,
           "feedback": "Incorrecto. Los valores son números, no categorías sin orden."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Cualitativa ordinal",
           "is_correct": false,
           "feedback": "Incorrecto. Aunque hay orden, la variable es numérica."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Cuantitativa discreta",
           "is_correct": true,
           "feedback": "Correcto. Los valores son números enteros (0, 1, 2...) y surgen de un conteo."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. No puede haber 1,5 hermanos; los valores no son un continuo."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Las variables cuantitativas discretas son aquellas que solo pueden tomar valores enteros aislados, generalmente resultantes de un proceso de conteo.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -103,13 +103,13 @@
       "context": "Un sociólogo de la UBA está analizando el \"Nivel de Satisfacción\" de los usuarios del Subte (Muy Insatisfecho, Insatisfecho, Neutro, Satisfecho, Muy Satisfecho).\n\nEncuesta de opinión sobre transporte público.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Cualitativa nominal",
           "is_correct": false,
           "feedback": "Incorrecto. Las categorías tienen un orden lógico de menor a mayor satisfacción."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Cualitativa ordinal",
           "is_correct": true,
           "feedback": "Correcto. Son categorías no numéricas que guardan un orden jerárquico."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. No son medidas en una escala real continua."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Las variables cualitativas ordinales expresan categorías no numéricas pero que presentan un orden o jerarquía natural entre ellas.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,13 +148,13 @@
       "context": "En una tabla de frecuencias sobre el peso de 50 alumnos de una escuela técnica, la frecuencia relativa de un intervalo es 0,12.\n\nInterpretación de tablas de frecuencia.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "6",
           "is_correct": true,
           "feedback": "Correcto. Frecuencia absoluta = Frecuencia relativa * Total = 0,12 * 50 = 6."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "12",
           "is_correct": false,
           "feedback": "Incorrecto. 12 es el porcentaje (12%), no la cantidad de alumnos."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. No surge de la operación correcta."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La frecuencia relativa (hi) es el cociente entre la frecuencia absoluta (fi) y el número total de datos (n). Por lo tanto, fi = hi * n. En este caso: 0,12 * 50 = 6.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -238,13 +238,13 @@
       "context": "Un histograma muestra la distribución de las edades de los socios de un club de barrio en Avellaneda.\n\nRepresentación gráfica de datos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El histograma usa colores y el gráfico de barras no.",
           "is_correct": false,
           "feedback": "Incorrecto. Los colores son estéticos, no técnicos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "En el histograma las barras están unidas porque la variable es continua o agrupada.",
           "is_correct": true,
           "feedback": "Correcto. Las barras pegadas indican continuidad entre los intervalos de clase."
@@ -262,7 +262,7 @@
           "feedback": "Incorrecto. Tienen usos y significados técnicos diferentes."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El histograma se utiliza para representar distribuciones de variables continuas o agrupadas en intervalos. Las barras están juntas para reflejar que el final de un intervalo es el comienzo del siguiente.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -328,19 +328,19 @@
       "context": "Se realiza un estudio sobre la cantidad de libros leídos por año por 40 jóvenes de Rosario.\n\n- 0 libros: 10 jóvenes\n\n- 1 libro: 15 jóvenes\n\n- 2 libros: 10 jóvenes\n\n- 3 o más libros: 5 jóvenes\n\nHábitos de lectura en jóvenes.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "0,25",
           "is_correct": false,
           "feedback": "Incorrecto. Esta es la frecuencia relativa de 0 libros únicamente."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "0,375",
           "is_correct": false,
           "feedback": "Incorrecto. Esta es la frecuencia relativa de 1 libro únicamente."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "0,625",
           "is_correct": true,
           "feedback": "Correcto. Menos de 2 libros = 0 o 1 libro. Cantidad = 10 + 15 = 25. Frecuencia relativa = 25 / 40 = 0,625."
@@ -352,7 +352,7 @@
           "feedback": "Incorrecto. Esto incluiría también a los que leen exactamente 2 libros."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "\"Menos de 2\" incluye las categorías 0 y 1. Sumamos sus frecuencias absolutas (10 + 15 = 25) y dividimos por el total (40). 25/40 = 0,625 (o 62,5%).\n\n---",
       "difficulty": "6",
       "images": [],
@@ -418,19 +418,19 @@
       "context": "Se analiza el tiempo de espera en la guardia de un hospital público en el Gran Buenos Aires. Los datos se agrupan en intervalos de 20 minutos.\n\nGestión de salud pública.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Se cuenta en ambos intervalos.",
           "is_correct": false,
           "feedback": "Incorrecto. Un dato no puede pertenecer a dos categorías disjuntas."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "No se cuenta en ninguno de los dos.",
           "is_correct": false,
           "feedback": "Incorrecto. Se perdería información."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Se cuenta en el segundo intervalo [20, 40).",
           "is_correct": true,
           "feedback": "Correcto. Por convención, el corchete indica inclusión y el paréntesis exclusión."
@@ -442,7 +442,7 @@
           "feedback": "Incorrecto. El paréntesis indica que no llega a incluir el valor 20."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "En la notación de intervalos de clase, el extremo izquierdo suele ser cerrado (incluye el valor) y el derecho abierto (no lo incluye), garantizando que cada dato pertenezca a una única clase.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -469,13 +469,13 @@
           "feedback": "Incorrecto. Falta incluir el último intervalo que también cumple la condición."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "40%",
           "is_correct": false,
           "feedback": "Incorrecto. Ese es el porcentaje de los que miden menos de 190."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "60%",
           "is_correct": true,
           "feedback": "Correcto. 190 o más incluye los intervalos 2 y 3. 0,35 + 0,25 = 0,60 = 60%."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto. Ese es solo el porcentaje de los más altos."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Sumamos las frecuencias relativas de todos los intervalos que cumplen la condición de ser iguales o mayores al límite inferior de 190 cm. 0,35 + 0,25 = 0,60.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -514,13 +514,13 @@
           "feedback": "Incorrecto. El eje horizontal (X) suele representar la cantidad consumida; desplazamiento a la derecha es mayor consumo."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Los valores de consumo típicos en invierno fueron más elevados que en verano.",
           "is_correct": true,
           "feedback": "Correcto. Un desplazamiento a la derecha en el eje X indica mayores valores de la variable medida."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La variabilidad del consumo fue menor en invierno.",
           "is_correct": false,
           "feedback": "Incorrecto. El desplazamiento no indica dispersión, sino ubicación."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. Si estuviera igual, los polígonos estarían superpuestos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "En un gráfico de frecuencias, el eje X representa los valores de la variable. Si la curva se desplaza a la derecha, significa que los datos tienden a valores numéricamente mayores.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -604,25 +604,25 @@
           "feedback": "Incorrecto. 50 * 5 = 250, pero el rango empieza en 100."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "30",
           "is_correct": true,
           "feedback": "Correcto. Rango = 250 - 100 = 150. Amplitud = Rango / Intervalos = 150 / 5 = 30."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "25",
           "is_correct": false,
           "feedback": "Incorrecto. No divide el rango total correctamente."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "150",
           "is_correct": false,
           "feedback": "Incorrecto. Ese es el rango total, no la amplitud de cada clase."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La amplitud se calcula dividiendo el rango (Valor Máximo - Valor Mínimo) por la cantidad de intervalos deseada. (250-100)/5 = 150/5 = 30.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -649,25 +649,25 @@
           "feedback": "Incorrecto. 120 es la cantidad de datos, no el valor de la variable."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Es el tamaño total de la muestra (n).",
           "is_correct": true,
           "feedback": "Correcto. La suma de todas las frecuencias absolutas (que es la acumulada final) es el número total de observaciones."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Es el promedio de los datos.",
           "is_correct": false,
           "feedback": "Incorrecto. El promedio requiere otro tipo de cálculo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Es la frecuencia del intervalo más común.",
           "is_correct": false,
           "feedback": "Incorrecto. Eso sería la moda o frecuencia absoluta máxima."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Por definición, la frecuencia absoluta acumulada del último intervalo de una distribución debe ser igual a la suma de todas las frecuencias absolutas, es decir, al número total de datos analizados.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -694,13 +694,13 @@
           "feedback": "Incorrecto. Asimetría positiva significa que la mayoría está en valores bajos y hay pocos valores muy altos."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Existe un grupo pequeño de bebés con pesos significativamente más altos que el promedio.",
           "is_correct": true,
           "feedback": "Correcto. La \"cola\" a la derecha indica la presencia de valores extremos altos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El peso más frecuente es mayor que el promedio.",
           "is_correct": false,
           "feedback": "Incorrecto. En asimetría positiva, la moda suele ser menor que la media."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. Eso sería una distribución simétrica."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La asimetría positiva ocurre cuando los datos se concentran en valores bajos, pero existen algunos valores extremadamente altos que \"estiran\" la gráfica hacia la derecha.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -739,13 +739,13 @@
           "feedback": "Incorrecto. No sumó correctamente las proporciones."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "0,625",
           "is_correct": true,
           "feedback": "Correcto. hi1 = 0,25. hi2 = 30 / 80 = 0,375. Hi2 = 0,25 + 0,375 = 0,625."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "0,50",
           "is_correct": false,
           "feedback": "Incorrecto. 0,25 + 0,25 = 0,50, pero la segunda relativa es 0,375."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. No surge de los datos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Primero calculamos la frecuencia relativa del segundo intervalo: 30 / 80 = 0,375. Luego sumamos la frecuencia relativa del primero (0,25) para obtener la acumulada: 0,25 + 0,375 = 0,625.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -778,13 +778,13 @@
       "context": "Se reconstruye una tabla de frecuencias donde se perdió un dato. Se sabe que n = 100, y las frecuencias relativas de 4 de los 5 intervalos son: 0,15; 0,20; 0,35; 0,10.\n\nReconstrucción de distribuciones incompletas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "0,20",
           "is_correct": false,
           "feedback": "Incorrecto. Se pide frecuencia absoluta, no relativa."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "20",
           "is_correct": true,
           "feedback": "Correcto. La suma de relativas debe ser 1. 1 - (0,15+0,2+0,35+0,1) = 1 - 0,80 = 0,20. Absoluta = 0,20 * 100 = 20."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. No surge de la resta de relativas."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La propiedad fundamental es que Σ hi = 1. El valor faltante es 1 - 0,80 = 0,20. Para pasarlo a frecuencia absoluta multiplicamos por el total: 0,20 * 100 = 20.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -829,25 +829,25 @@
           "feedback": "Incorrecto. No es una cantidad entera."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Densidad de frecuencia",
           "is_correct": true,
           "feedback": "Correcto. Densidad = Frecuencia / Amplitud. Si Área = Frecuencia, entonces Altura = Frecuencia / Base."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Marca de clase",
           "is_correct": false,
           "feedback": "Incorrecto. La marca de clase está en el eje X, no en la altura."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Frecuencia acumulada",
           "is_correct": false,
           "feedback": "Incorrecto. No se grafica en la altura del histograma de esta forma."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "En histogramas avanzados, la altura representa la densidad de frecuencia (fi/ai). De este modo, el área del rectángulo (Base * Altura = Amplitud * Densidad) es igual a la frecuencia del intervalo.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -868,19 +868,19 @@
       "context": "Se comparan dos muestras de igual tamaño: una tiene una ojiva con mucha pendiente al inicio y otra una ojiva con mucha pendiente al final.\n\nInterpretación avanzada de curvas acumulativas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "La primera muestra tiene los datos concentrados en valores bajos, la segunda en valores altos.",
           "is_correct": true,
           "feedback": "Correcto. Mucha pendiente en la ojiva indica acumulación rápida de datos en ese rango."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La primera muestra tiene mayor promedio que la segunda.",
           "is_correct": false,
           "feedback": "Incorrecto. Al revés, la segunda tiene valores más altos acumulados al final."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La segunda muestra tiene más datos que la primera.",
           "is_correct": false,
           "feedback": "Incorrecto. El enunciado dice que son de igual tamaño."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. La pendiente de la ojiva es un indicador directo de la densidad de datos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La pendiente de la ojiva representa la rapidez con la que se acumulan los datos. Una pendiente fuerte al principio significa que una gran proporción de los datos cae en los primeros intervalos (valores bajos).",
       "difficulty": "10",
       "images": [],

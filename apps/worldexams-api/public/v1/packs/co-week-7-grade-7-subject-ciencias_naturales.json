@@ -59,13 +59,13 @@
       "context": "En un cafetal de Armenia, Quindío, la profesora explica que las hojas del café capturan dióxido de carbono del aire y, con luz solar, producen azúcares durante el día.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Porque libera todo el carbono del suelo hacia la atmósfera sin usarlo.",
           "is_correct": false,
           "feedback": "Incorrecta, porque la fotosíntesis captura carbono atmosférico, no lo libera sin uso."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque convierte el dióxido de carbono atmosférico en materia orgánica que luego alimenta a herbívoros y descomponedores.",
           "is_correct": true,
           "feedback": "Correcta, porque los productores fijan carbono inorgánico en moléculas orgánicas que sostienen la red trófica."
@@ -83,7 +83,7 @@
           "feedback": "Incorrecta, porque la disolución de rocas fosfatadas es parte del ciclo del fósforo, no de la fotosíntesis."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La fotosíntesis fija el carbono atmosférico en glucosa, que se convierte en hojas, frutos y madera. Esa materia orgánica alimenta a consumidores y descomponedores, por eso los cafetales productivos dependen de una fotosíntesis activa.",
       "difficulty": "4",
       "images": [],
@@ -105,13 +105,13 @@
       "context": "En una finca de Chinchiná, Caldas, los caficultores siembran fríjol junto al café porque observan que el suelo se vuelve más fértil y el café crece con hojas más verdes sin comprar tanto abono.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La condensación del agua en las hojas del fríjol que riega el café.",
           "is_correct": false,
           "feedback": "Incorrecta, porque la condensación aporta humedad, pero no explica el aumento de fertilidad por nutrientes nitrogenados."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La fijación biológica de nitrógeno, que convierte nitrógeno atmosférico en compuestos asimilables para las plantas.",
           "is_correct": true,
           "feedback": "Correcta, porque las bacterias en raíces de leguminosas fijan nitrógeno que enriquece el suelo."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecta, porque la lluvia aporta poco nitrógeno y no es el proceso principal que enriquece el suelo en este caso."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La fijación de nitrógeno transforma el nitrógeno gaseoso, no utilizable por plantas, en amonio y nitratos gracias a bacterias. Asociar leguminosas al café es una práctica agroecológica colombiana que reduce costos de fertilizantes.",
       "difficulty": "6",
       "images": [],
@@ -157,25 +157,25 @@
           "feedback": "Incorrecta, porque los nutrientes no desaparecen; se transforman y retornan al suelo y a la atmósfera."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Retorna nutrientes al suelo y libera dióxido de carbono a la atmósfera mediante la acción de hongos y bacterias.",
           "is_correct": true,
           "feedback": "Correcta, porque los descomponedores mineralizan la materia orgánica y cierran los ciclos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Convierte directamente las hojas en agua de lluvia para el páramo.",
           "is_correct": false,
           "feedback": "Incorrecta, porque la descomposición no produce lluvia; el agua de lluvia proviene de la condensación atmosférica."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Fija el fósforo de las rocas sin participación de organismos.",
           "is_correct": false,
           "feedback": "Incorrecta, porque la descomposición depende de organismos y el fósforo de rocas se libera por meteorización."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Los descomponedores como hongos, bacterias y lombrices degradan la materia muerta y devuelven nutrientes al suelo en forma asimilable, además de liberar dióxido de carbono por respiración. El compostaje escolar replica este servicio ecosistémico esencial.",
       "difficulty": "6",
       "images": [],
@@ -203,25 +203,25 @@
           "feedback": "Incorrecta, porque la quema no crea fósforo de rocas y la materia orgánica no destruye fósforo."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Porque la quema volatiliza carbono y nitrógeno hacia la atmósfera y elimina descomponedores, mientras la materia orgánica alimenta el ciclo suelo-planta.",
           "is_correct": true,
           "feedback": "Correcta, porque el fuego libera gases y mata microorganismos, y el abono orgánico sostiene fertilidad."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque la quema produce más agua en el suelo y la materia orgánica seca los cultivos.",
           "is_correct": false,
           "feedback": "Incorrecta, porque la quema reseca el suelo y la materia orgánica mejora la retención de humedad."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Porque la quema fija nitrógeno atmosférico y la materia orgánica bloquea la fotosíntesis.",
           "is_correct": false,
           "feedback": "Incorrecta, porque el fuego no fija nitrógeno útil y la materia orgánica no bloquea la luz de las hojas."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La quema libera de golpe carbono y nitrógeno como gases y empobrece la biota del suelo, rompiendo los ciclos. En cambio, el abono orgánico alimenta a los descomponedores y mantiene reservas de nutrientes, práctica clave en la Orinoquía colombiana.",
       "difficulty": "6",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "En el páramo de Cruz Verde, Cundinamarca, los estudiantes comparan dos microcuencas: una conservada con frailejones y musgos, y otra con suelo desnudo por pastoreo. Tras una lluvia, la primera libera agua clara poco a poco y la segunda genera un torrente turbio inmediato.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El suelo desnudo retiene más agua porque no tiene plantas que la consuman.",
           "is_correct": false,
           "feedback": "Incorrecta, porque sin cobertura vegetal el agua escurre rápido y arrastra suelo, sin infiltración efectiva."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La cobertura de páramo favorece infiltración y liberación lenta, mientras el suelo desnudo aumenta escorrentía y erosión.",
           "is_correct": true,
           "feedback": "Correcta, porque la vegetación y la materia orgánica actúan como esponja que regula el caudal."
@@ -267,7 +267,7 @@
           "feedback": "Incorrecta, porque los datos muestran agua clara en la cuenca conservada y turbia en la degradada."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Analizar infiltración frente a escorrentía muestra el servicio hídrico del páramo: la vegetación frena la lluvia, favorece la infiltración y sostiene caudales en verano. Perder esa cobertura causa inundaciones y escasez, problema real en acueductos de Cundinamarca.",
       "difficulty": "8",
       "images": [],
@@ -341,13 +341,13 @@
           "feedback": "Incorrecta, porque los fertilizantes aportan nutrientes, no enfrían el lago de forma letal."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Exceso de nutrientes, proliferación de algas, descomposición masiva que consume oxígeno y asfixia a los peces.",
           "is_correct": true,
           "feedback": "Correcta, porque describe la eutrofización: enriquecimiento, bloom algal y agotamiento de oxígeno."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El fósforo evapora el agua del lago y los peces quedan sin hábitat.",
           "is_correct": false,
           "feedback": "Incorrecta, porque el fósforo no evapora agua; el nivel depende del balance hídrico."
@@ -359,7 +359,7 @@
           "feedback": "Incorrecta, porque el nitrógeno no transforma animales en plantas; nutre a las algas que alteran el oxígeno."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La eutrofización por exceso de nitrógeno y fósforo muestra cómo los ciclos se conectan: los nutrientes disparan el crecimiento algal y su descomposición posterior agota el oxígeno disuelto. Es una problemática real del lago de Tota por agricultura intensiva.",
       "difficulty": "8",
       "images": [],

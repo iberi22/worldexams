@@ -59,19 +59,19 @@
       "context": "En una panaderia artesanal de Cali, la cocinera observa que la masa cruda se transforma en pan durante el horneado.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Se forman sustancias nuevas como dioxido de carbono y alcohol, no presentes inicialmente.",
           "is_correct": true,
           "feedback": "Correcto. La fermentacion y el horneado producen nuevas sustancias químicas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La masa cambia de color pero mantiene su composicion.",
           "is_correct": false,
           "feedback": "Incorrecto. Mantener la composicion es caracteristica de un cambio físico."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La masa se derrite como un solido que pasa a liquido.",
           "is_correct": false,
           "feedback": "Incorrecto. El derretimiento es físico, no describe el horneado."
@@ -83,7 +83,7 @@
           "feedback": "Incorrecto. Durante el horneado ocurren reacciones químicas complejas, no solo secado."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Un cambio químico transforma unas sustancias en otras con composiciones diferentes, mientras que un cambio físico conserva la composicion.",
       "difficulty": "4",
       "images": [],
@@ -289,31 +289,31 @@
       "context": "En un laboratorio de Barrancabermeja, se mezcla ácido clorhidrico ($HCl$) con hidrogenocarbonato de sodio ($NaHCO_3$) y se observan burbujas de gas y aumento de temperatura.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Hay formacion de un gas (burbujas de $CO_2$) y liberacion de calor, evidencias claras de cambio químico.",
           "is_correct": true,
           "feedback": "Correcto. La liberacion de gas y el cambio de temperatura son signos de reacción química."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Las burbujas y el calor son evidencia de un simple cambio físico de las sustancias.",
           "is_correct": false,
           "feedback": "Incorrecto. La produccion de un gas nuevo indica una transformacion química."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La reacción no ocurre porque los ácidos y las bases nunca reaccionan entre si.",
           "is_correct": false,
           "feedback": "Incorrecto. Los ácidos y las bases si reaccionan: es la reacción de neutralizacion."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Las burbujas son aire atrapado y el calor proviene de la mano del experimentador.",
           "is_correct": false,
           "feedback": "Incorrecto. El gas generado es $CO_2$ y el calor es propio de la reacción exotermica."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Evidencias de cambio químico: cambio de color, desprendimiento de gas, variacion de temperatura, formacion de precipitado o cambio de olor.",
       "difficulty": "8",
       "images": [],
@@ -381,31 +381,31 @@
       "context": "En Cucuta, se analizan etiquetas de productos caseros que indican \"reacciones de combustion completas\" e \"incompletas\" durante la quema de gas domiciliario.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "La combustion completa produce $CO_2$ y $H_2O$; la incompleta produce $CO$ (y a veces $C$ o hollin).",
           "is_correct": true,
           "feedback": "Correcto. La combustion incompleta ocurre con poco oxígeno y genera $CO$, un gas toxico."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La combustion completa produce monoxido de carbono y la incompleta solo vapor de agua.",
           "is_correct": false,
           "feedback": "Incorrecto. Es al reves: la completa produce $CO_2$; la incompleta produce $CO$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "No existen diferencias químicas entre ambas, solo cambia el color de la llama.",
           "is_correct": false,
           "feedback": "Incorrecto. Los productos y la toxicidad son diferentes."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La combustion incompleta consume mas oxígeno que la completa.",
           "is_correct": false,
           "feedback": "Incorrecto. La completa consume mas oxígeno y produce mas $CO_2$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Combustion completa: hidrocarburo $+$ $O_2 \\to CO_2 + H_2O$. Incompleta: falta oxígeno y se genera $CO$, $C$ o hollin.",
       "difficulty": "8",
       "images": [],
@@ -427,19 +427,19 @@
       "context": "En Bogotá, el Consejo Distrital discute una norma para reducir uso de plasticos de un solo uso en restaurantes escolares, citando argumentos sobre cambios químicos lentos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Los plasticos sufren degradacion química lenta liberando microplasticos y sustancias toxicas al ambiente.",
           "is_correct": true,
           "feedback": "Correcto. La degradacion química de los plasticos genera contaminantes persistentes."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Los plasticos desaparecen inmediatamente al contacto con el suelo, sin dejar residuos.",
           "is_correct": false,
           "feedback": "Incorrecto. Los plasticos persisten durante siglos en el ambiente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Los plasticos son biodegradables en pocos minutos en cualquier ambiente.",
           "is_correct": false,
           "feedback": "Incorrecto. La mayoria de los plasticos comerciales son muy estables y no biodegradables rapidamente."
@@ -451,7 +451,7 @@
           "feedback": "Incorrecto. Sufren foto-degradacion, oxidacion y otros procesos lentos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Los plasticos experimentan degradacion química lenta que libera aditivos y microplasticos, con efectos sobre la salud y los ecosistemas.",
       "difficulty": "10",
       "images": [],
@@ -473,13 +473,13 @@
       "context": "En la planta de tratamiento de agua de Bucaramanga, se aplica cloro para potabilizar el agua antes de distribuirla a la ciudad.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El cloro reacciona con microorganismos patogenos, oxidandolos y eliminando el riesgo biologico del agua.",
           "is_correct": true,
           "feedback": "Correcto. El cloro desinfecta por oxidacion química de agentes patogenos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El cloro se mezcla fisicamente sin reaccionar, por lo que no elimina bacterias.",
           "is_correct": false,
           "feedback": "Incorrecto. El cloro si reacciona quimicamente y oxida la materia organica y los microorganismos."
@@ -497,7 +497,7 @@
           "feedback": "Incorrecto. Es uno de los desinfectantes mas usados globalmente por su eficacia."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La clorinacion es una reacción de oxidacion que elimina bacterias, virus y protozoarios, garantizando agua microbiologicamente segura para el consumo humano.",
       "difficulty": "10",
       "images": [],

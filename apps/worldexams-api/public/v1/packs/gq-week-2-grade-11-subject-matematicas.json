@@ -19,13 +19,13 @@
           "feedback": "Esta propiedad corresponde a la potencia de una potencia, no al producto de potencias."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$a^{m + n}$",
           "is_correct": true,
           "feedback": "¡Correcto! Al multiplicar potencias de la misma base, se suman los exponentes."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$a^{m - n}$",
           "is_correct": false,
           "feedback": "Esta propiedad corresponde al cociente de potencias de la misma base."
@@ -37,7 +37,7 @@
           "feedback": "La base se mantiene igual, no se multiplica por dos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La regla del producto para potencias establece que para cualquier base real $a$ y exponentes $m, n$, al multiplicar las potencias se conserva la base y se suman los exponentes. Es una de las leyes fundamentales del algebra.",
       "difficulty": "4",
       "images": [],
@@ -64,13 +64,13 @@
           "feedback": "Un exponente negativo no hace que el resultado sea negativo, sino que indica un reciproco."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$\\frac{1}{a^n}$",
           "is_correct": true,
           "feedback": "¡Correcto! El exponente negativo indica el inverso multiplicativo de la potencia con exponente positivo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\sqrt[n]{a}$",
           "is_correct": false,
           "feedback": "Esto representa una potencia con exponente fraccionario (1/n)."
@@ -82,7 +82,7 @@
           "feedback": "Esto es una multiplicacion simple, no una operacion de potencia."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Un exponente negativo es una forma abreviada de escribir el reciproco de una potencia. Por definicion, $a^{-n} = 1/a^n$. Esta propiedad es esencial para trabajar con numeros muy pequeños en notacion cientifica.",
       "difficulty": "4",
       "images": [],
@@ -115,19 +115,19 @@
           "feedback": "Esto representaria el doble del lado, no el area."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "$x$",
           "is_correct": true,
           "feedback": "¡Correcto! $(\\sqrt{x})^2 = x$, asumiendo que x es un numero real no negativo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$x^2$",
           "is_correct": false,
           "feedback": "Esto seria el area si el lado midiera x, no la raiz de x."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La operacion de elevar al cuadrado es la inversa de obtener la raiz cuadrada. Por lo tanto, el area de un cuadrado de lado $L$ es $L^2$. Si $L = \\sqrt{x}$, entonces el area es $(\\sqrt{x})^2 = x$.",
       "difficulty": "4",
       "images": [],
@@ -154,13 +154,13 @@
           "feedback": "Esto representaria un crecimiento lineal, no exponencial."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$3^n$",
           "is_correct": true,
           "feedback": "¡Correcto! Cada hora multiplicamos por 3, lo que genera una potencia de base 3."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$n^3$",
           "is_correct": false,
           "feedback": "Aqui la base varia, pero en el crecimiento bacteriano la base (tasa de crecimiento) es constante."
@@ -172,7 +172,7 @@
           "feedback": "Esto representaria un crecimiento extremadamente lento, no triplicado."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El crecimiento donde una cantidad se multiplica por un factor constante en intervalos regulares se modela mediante potencias. La base es el factor de crecimiento (3) y el exponente es el numero de periodos (n).",
       "difficulty": "4",
       "images": [],
@@ -244,25 +244,25 @@
           "feedback": "Error al sumar exponentes en lugar de aplicar la potencia de una potencia correctamente."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$2^9$",
           "is_correct": true,
           "feedback": "¡Correcto! El volumen es $(2^3)^3$. Multiplicando los exponentes tenemos $2^9$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$2^{27}$",
           "is_correct": false,
           "feedback": "Los exponentes se multiplican, no se elevan uno al otro ($3 \\cdot 3 = 9$)."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$8^3$",
           "is_correct": false,
           "feedback": "Aunque el valor es el mismo, la pregunta pide expresarlo como potencia de 2."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El volumen de un cubo es $V = L^3$. Si el lado $L = 2^3$, entonces $V = (2^3)^3$. Aplicando la propiedad de potencia de una potencia $(a^m)^n = a^{m \\cdot n}$, obtenemos $2^{3 \\cdot 3} = 2^9$.",
       "difficulty": "6",
       "images": [],
@@ -283,13 +283,13 @@
       "context": "Un tesorero en Malabo maneja cuentas bancarias donde los intereses se calculan mediante la formula $Capital \\cdot (1.05)^t$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$(1.05)^4$",
           "is_correct": false,
           "feedback": "Elevar la base al cuadrado no es lo mismo que duplicar el tiempo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$(1.1025)^t$",
           "is_correct": true,
           "feedback": "¡Correcto! $(1.05)^2 = 1.1025$. La nueva base de la potencia es el cuadrado de la anterior."
@@ -307,7 +307,7 @@
           "feedback": "Esto seria equivalente si la base no cambiara, pero aqui se pide la nueva base."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Este problema requiere aplicar la propiedad de potencia de una potencia o simplemente calcular la potencia de la base. $(1.05)^2 = 1.1025$. La potencia resultante es una base real elevada a un exponente temporal.",
       "difficulty": "6",
       "images": [],
@@ -328,13 +328,13 @@
       "context": "En un laboratorio en Bata, se simplifica la expresion $\\sqrt{a^4 \\cdot b^6}$ para un analisis de fluidos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$a^2 b^2$",
           "is_correct": false,
           "feedback": "El exponente de b deberia ser 3 (6 dividido por 2)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$a^2 b^3$",
           "is_correct": true,
           "feedback": "¡Correcto! Se divide cada exponente por el indice de la raiz (2)."
@@ -352,7 +352,7 @@
           "feedback": "No se ha aplicado la raiz cuadrada a los exponentes."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Para extraer factores de una raiz cuadrada, dividimos sus exponentes por 2. $\\sqrt{a^4} = a^{4/2} = a^2$ y $\\sqrt{b^6} = b^{6/2} = b^3$. El producto resultante es $a^2b^3$.",
       "difficulty": "6",
       "images": [],
@@ -379,13 +379,13 @@
           "feedback": "Error al multiplicar la base por la fraccion."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "3",
           "is_correct": false,
           "feedback": "Este es solo el resultado de la raiz cubica de 27."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "9",
           "is_correct": true,
           "feedback": "¡Correcto! La raiz cubica de 27 es 3, y 3 al cuadrado es 9."
@@ -397,7 +397,7 @@
           "feedback": "Error al aplicar la potencia antes de la raiz de forma incorrecta."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Para calcular $a^{m/n}$, es mas sencillo primero extraer la raiz $n$-esima y luego elevar al exponente $m$. $\\sqrt[3]{27} = 3$. Luego $3^2 = 9$.",
       "difficulty": "6",
       "images": [],
@@ -469,13 +469,13 @@
           "feedback": "No se puede dividir un entero por una raiz directamente de esta forma."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$10\\sqrt{5}$",
           "is_correct": false,
           "feedback": "Falta dividir por el denominador resultante tras la racionalizacion."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$2\\sqrt{5}$",
           "is_correct": true,
           "feedback": "¡Correcto! Al multiplicar por $\\sqrt{5}/\\sqrt{5}$ queda $10\\sqrt{5}/5$, que se simplifica a $2\\sqrt{5}$."
@@ -487,7 +487,7 @@
           "feedback": "Error en la simplificacion de los numeros enteros y la raiz."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "La racionalizacion consiste en eliminar los radicales del denominador. Multiplicamos numerador y denominador por $\\sqrt{5}$ para obtener un denominador entero (5). Luego simplificamos la fraccion $10/5 = 2$.",
       "difficulty": "8",
       "images": [],
@@ -520,19 +520,19 @@
           "feedback": "Error al intentar sumar las raices y sus indices."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "$8\\sqrt{2}$",
           "is_correct": true,
           "feedback": "¡Correcto! $\\sqrt{50} = 5\\sqrt{2}$. Al sumar $3\\sqrt{2} + 5\\sqrt{2}$ obtenemos $8\\sqrt{2}$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$15\\sqrt{2}$",
           "is_correct": false,
           "feedback": "Se han multiplicado los coeficientes en lugar de sumarlos."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Para sumar radicales, estos deben ser semejantes (mismo indice y mismo radicando). Primero simplificamos $\\sqrt{50} = \\sqrt{25 \\cdot 2} = 5\\sqrt{2}$. Ahora que son semejantes, sumamos los coeficientes: $3 + 5 = 8$.",
       "difficulty": "8",
       "images": [],
@@ -559,13 +559,13 @@
           "feedback": "Error al aplicar las potencias sucesivas."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$x^4$",
           "is_correct": true,
           "feedback": "¡Correcto! La expresion es $(x^{2/3})^6 = x^{(2/3) \\cdot 6} = x^4$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x^3$",
           "is_correct": false,
           "feedback": "Error en el calculo de la fraccion resultante."
@@ -577,7 +577,7 @@
           "feedback": "Se han multiplicado los exponentes internos sin considerar la raiz."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Convertimos el radical a exponente fraccionario: $x^{2/3}$. Luego aplicamos la potencia de una potencia multiplicando los exponentes: $(2/3) \\cdot 6 = 12/3 = 4$. El resultado es $x^4$.",
       "difficulty": "8",
       "images": [],
@@ -598,13 +598,13 @@
       "context": "Un quimico en un laboratorio de Malabo analiza la desintegracion de una sustancia, cuya masa sigue la formula $M = M_0 \\cdot 2^{-t/5}$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "5 años",
           "is_correct": false,
           "feedback": "Al sustituir 5 queda 2^-1, que es la mitad, no la cuarta parte."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "10 años",
           "is_correct": true,
           "feedback": "¡Correcto! Al sustituir 10 queda $2^{-10/5} = 2^{-2} = 1/4$."
@@ -622,7 +622,7 @@
           "feedback": "Al sustituir 20 queda 2^-4 = 1/16, mucho menor que la cuarta parte."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Queremos que $M/M_0 = 1/4$, lo que significa que $2^{-t/5} = 2^{-2}$. Igualando los exponentes: $-t/5 = -2$. Al despejar $t$, obtenemos $t = 10$. Las potencias con base 2 son comunes en modelos de vida media.",
       "difficulty": "8",
       "images": [],
@@ -649,13 +649,13 @@
           "feedback": "$\\sqrt{12}$ no es mayor que $\\sqrt{18}$."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$B > A$",
           "is_correct": true,
           "feedback": "¡Correcto! $B = \\sqrt{18}$ y $A = \\sqrt{12}$. Claramente 18 > 12."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$A = B$",
           "is_correct": false,
           "feedback": "Los numeros dentro y fuera de la raiz no compensan exactamente la igualdad."
@@ -667,7 +667,7 @@
           "feedback": "Todos los numeros reales son comparables segun la ley de tricotomia."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Para comparar radicales con diferentes coeficientes, es util introducir el coeficiente dentro de la raiz: $2\\sqrt{3} = \\sqrt{2^2 \\cdot 3} = \\sqrt{12}$. Del mismo modo, $3\\sqrt{2} = \\sqrt{3^2 \\cdot 2} = \\sqrt{18}$. Al tener el mismo indice, comparamos directamente los radicandos.",
       "difficulty": "8",
       "images": [],
@@ -739,25 +739,25 @@
           "feedback": "Las raices de indice par de numeros negativos no son reales."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Siempre que $n$ sea impar.",
           "is_correct": true,
           "feedback": "¡Correcto! Las raices impares de numeros negativos existen en el conjunto de los reales (ej. raiz cubica de -8 es -2)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Nunca, los numeros reales no pueden tener raices de numeros negativos.",
           "is_correct": false,
           "feedback": "Esto solo es cierto para indices pares."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Solo si $x$ es mayor que $-1$.",
           "is_correct": false,
           "feedback": "El valor de x no importa, lo que importa es la paridad del indice n."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "En el conjunto de los numeros reales, la raiz de indice par de un numero negativo no esta definida. Sin embargo, las raices de indice impar (como 3, 5, 7...) de numeros negativos si son reales, ya que un numero negativo elevado a una potencia impar mantiene su signo negativo.",
       "difficulty": "10",
       "images": [],
@@ -829,13 +829,13 @@
           "feedback": "Los cambios en V y R no se cancelan de esta manera."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "La potencia se duplica.",
           "is_correct": false,
           "feedback": "Falta considerar el efecto de la reduccion de la resistencia."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La potencia se cuadruplica.",
           "is_correct": true,
           "feedback": "¡Correcto! $(\\sqrt{2})^2 = 2$ (por el voltaje). Al dividir por $1/2$ (resistencia), el resultado total es $2 \\cdot 2 = 4$."
@@ -847,7 +847,7 @@
           "feedback": "Los factores de aumento y reduccion se han aplicado de forma invertida."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Sustituimos los nuevos valores en la formula original: $P' = (\\sqrt{2}V)^2 / (R/2) = (2V^2) / (R/2) = 4(V^2/R) = 4P$. El uso de potencias y raices en formulas fisicas es comun y requiere precision algebraica.",
       "difficulty": "10",
       "images": [],
@@ -868,19 +868,19 @@
       "context": "Un estudiante de bachillerato avanzado en Guinea Ecuatorial debe resolver la siguiente igualdad: $2^x \\cdot 4^{x-1} = 8$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x = 1$",
           "is_correct": false,
           "feedback": "$2^1 \\cdot 4^0 = 2 \\cdot 1 = 2$, no 8."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$x = 2$",
           "is_correct": false,
           "feedback": "$2^2 \\cdot 4^1 = 4 \\cdot 4 = 16$, no 8."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "$x = 5/3$",
           "is_correct": true,
           "feedback": "¡Correcto! $2^x \\cdot 2^{2(x-1)} = 2^3 \\rightarrow x + 2x - 2 = 3 \\rightarrow 3x = 5 \\rightarrow x = 5/3$."
@@ -892,7 +892,7 @@
           "feedback": "$2^3 \\cdot 4^2 = 8 \\cdot 16 = 128$, no 8."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Para resolver ecuaciones exponenciales, el primer paso es igualar las bases. Escribimos 4 como $2^2$ y 8 como $2^3$. Luego usamos la propiedad del producto de potencias para sumar los exponentes y finalmente igualamos los exponentes resultantes para resolver la ecuacion lineal.\n\n[//]: # (QUALITY_REVIEW)\n| Dimension | Puntaje |\n|-----------|---------|\n| Técnico | 30/30 |\n| Curricular | 40/40 |\n| Contexto | 20/20 |\n| Redacción | 10/10 |\n| **Total** | **100/100** |",
       "difficulty": "10",
       "images": [],

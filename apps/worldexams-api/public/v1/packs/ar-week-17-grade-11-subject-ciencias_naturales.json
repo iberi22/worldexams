@@ -58,13 +58,13 @@
       "context": "Fórmulas moleculares de hidrocarburos saturados Caso N° 2.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$\\text{C}_{2}\\text{H}_{6}$",
           "is_correct": true,
           "feedback": "Correcto. $2(2) + 2 = 6$, por lo que la fórmula es $\\text{C}_{2}\\text{H}_{6}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\text{C}_{2}\\text{H}_{8}$",
           "is_correct": false,
           "feedback": "Incorrecto. Sumó hidrógenos excedentes a la fórmula de saturación."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. Confundió la multiplicación $2n$ con una suma."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La fórmula general de los alcanos lineales es $\\text{C}_n\\text{H}_{2n+2}$. Reemplazando $n = 2$ obtenemos $\\text{C}_{2}\\text{H}_{6}$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -103,13 +103,13 @@
       "context": "Fórmulas moleculares de hidrocarburos saturados Caso N° 3.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$\\text{C}_{3}\\text{H}_{8}$",
           "is_correct": true,
           "feedback": "Correcto. $2(3) + 2 = 8$, por lo que la fórmula es $\\text{C}_{3}\\text{H}_{8}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\text{C}_{3}\\text{H}_{10}$",
           "is_correct": false,
           "feedback": "Incorrecto. Sumó hidrógenos excedentes a la fórmula de saturación."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. Confundió la multiplicación $2n$ con una suma."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La fórmula general de los alcanos lineales es $\\text{C}_n\\text{H}_{2n+2}$. Reemplazando $n = 3$ obtenemos $\\text{C}_{3}\\text{H}_{8}$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,31 +148,31 @@
       "context": "Fórmulas moleculares de hidrocarburos saturados Caso N° 4.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$\\text{C}_{4}\\text{H}_{10}$",
           "is_correct": true,
           "feedback": "Correcto. $2(4) + 2 = 10$, por lo que la fórmula es $\\text{C}_{4}\\text{H}_{10}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\text{C}_{4}\\text{H}_{12}$",
           "is_correct": false,
           "feedback": "Incorrecto. Sumó hidrógenos excedentes a la fórmula de saturación."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\text{C}_{4}\\text{H}_{6}$",
           "is_correct": false,
           "feedback": "Incorrecto. Esta es la fórmula para alquinos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$\\text{C}_{4}\\text{H}_{8}$",
           "is_correct": false,
           "feedback": "Incorrecto. Confundió la fórmula de alcanos con la de alquenos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La fórmula general de los alcanos lineales es $\\text{C}_n\\text{H}_{2n+2}$. Reemplazando $n = 4$ obtenemos $\\text{C}_{4}\\text{H}_{10}$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -193,13 +193,13 @@
       "context": "Fórmulas moleculares de hidrocarburos saturados Caso N° 5.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$\\text{C}_{5}\\text{H}_{12}$",
           "is_correct": true,
           "feedback": "Correcto. $2(5) + 2 = 12$, por lo que la fórmula es $\\text{C}_{5}\\text{H}_{12}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\text{C}_{5}\\text{H}_{14}$",
           "is_correct": false,
           "feedback": "Incorrecto. Sumó hidrógenos excedentes a la fórmula de saturación."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. Confundió la multiplicación $2n$ con una suma."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La fórmula general de los alcanos lineales es $\\text{C}_n\\text{H}_{2n+2}$. Reemplazando $n = 5$ obtenemos $\\text{C}_{5}\\text{H}_{12}$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -283,31 +283,31 @@
       "context": "Fórmulas moleculares de hidrocarburos saturados Caso N° 7.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$\\text{C}_{7}\\text{H}_{16}$",
           "is_correct": true,
           "feedback": "Correcto. $2(7) + 2 = 16$, por lo que la fórmula es $\\text{C}_{7}\\text{H}_{16}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\text{C}_{7}\\text{H}_{18}$",
           "is_correct": false,
           "feedback": "Incorrecto. Sumó hidrógenos excedentes a la fórmula de saturación."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\text{C}_{7}\\text{H}_{12}$",
           "is_correct": false,
           "feedback": "Incorrecto. Esta es la fórmula para alquinos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$\\text{C}_{7}\\text{H}_{9}$",
           "is_correct": false,
           "feedback": "Incorrecto. Confundió la multiplicación $2n$ con una suma."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La fórmula general de los alcanos lineales es $\\text{C}_n\\text{H}_{2n+2}$. Reemplazando $n = 7$ obtenemos $\\text{C}_{7}\\text{H}_{16}$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -328,13 +328,13 @@
       "context": "Fórmulas moleculares de hidrocarburos saturados Caso N° 8.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$\\text{C}_{8}\\text{H}_{18}$",
           "is_correct": true,
           "feedback": "Correcto. $2(8) + 2 = 18$, por lo que la fórmula es $\\text{C}_{8}\\text{H}_{18}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\text{C}_{8}\\text{H}_{20}$",
           "is_correct": false,
           "feedback": "Incorrecto. Sumó hidrógenos excedentes a la fórmula de saturación."
@@ -352,7 +352,7 @@
           "feedback": "Incorrecto. Confundió la multiplicación $2n$ con una suma."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La fórmula general de los alcanos lineales es $\\text{C}_n\\text{H}_{2n+2}$. Reemplazando $n = 8$ obtenemos $\\text{C}_{8}\\text{H}_{18}$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -373,19 +373,19 @@
       "context": "Fórmulas moleculares de hidrocarburos saturados Caso N° 9.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$\\text{C}_{9}\\text{H}_{20}$",
           "is_correct": true,
           "feedback": "Correcto. $2(9) + 2 = 20$, por lo que la fórmula es $\\text{C}_{9}\\text{H}_{20}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\text{C}_{9}\\text{H}_{22}$",
           "is_correct": false,
           "feedback": "Incorrecto. Sumó hidrógenos excedentes a la fórmula de saturación."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\text{C}_{9}\\text{H}_{16}$",
           "is_correct": false,
           "feedback": "Incorrecto. Esta es la fórmula para alquinos."
@@ -397,7 +397,7 @@
           "feedback": "Incorrecto. Confundió la multiplicación $2n$ con una suma."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La fórmula general de los alcanos lineales es $\\text{C}_n\\text{H}_{2n+2}$. Reemplazando $n = 9$ obtenemos $\\text{C}_{9}\\text{H}_{20}$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -418,31 +418,31 @@
       "context": "Fórmulas moleculares de hidrocarburos saturados Caso N° 10.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$\\text{C}_{10}\\text{H}_{22}$",
           "is_correct": true,
           "feedback": "Correcto. $2(10) + 2 = 22$, por lo que la fórmula es $\\text{C}_{10}\\text{H}_{22}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\text{C}_{10}\\text{H}_{24}$",
           "is_correct": false,
           "feedback": "Incorrecto. Sumó hidrógenos excedentes a la fórmula de saturación."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\text{C}_{10}\\text{H}_{18}$",
           "is_correct": false,
           "feedback": "Incorrecto. Esta es la fórmula para alquinos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$\\text{C}_{10}\\text{H}_{12}$",
           "is_correct": false,
           "feedback": "Incorrecto. Confundió la multiplicación $2n$ con una suma."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La fórmula general de los alcanos lineales es $\\text{C}_n\\text{H}_{2n+2}$. Reemplazando $n = 10$ obtenemos $\\text{C}_{10}\\text{H}_{22}$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -463,13 +463,13 @@
       "context": "Fórmulas moleculares de hidrocarburos saturados Caso N° 11.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$\\text{C}_{11}\\text{H}_{24}$",
           "is_correct": true,
           "feedback": "Correcto. $2(11) + 2 = 24$, por lo que la fórmula es $\\text{C}_{11}\\text{H}_{24}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\text{C}_{11}\\text{H}_{26}$",
           "is_correct": false,
           "feedback": "Incorrecto. Sumó hidrógenos excedentes a la fórmula de saturación."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto. Confundió la multiplicación $2n$ con una suma."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La fórmula general de los alcanos lineales es $\\text{C}_n\\text{H}_{2n+2}$. Reemplazando $n = 11$ obtenemos $\\text{C}_{11}\\text{H}_{24}$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -508,31 +508,31 @@
       "context": "Fórmulas moleculares de hidrocarburos saturados Caso N° 12.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$\\text{C}_{12}\\text{H}_{26}$",
           "is_correct": true,
           "feedback": "Correcto. $2(12) + 2 = 26$, por lo que la fórmula es $\\text{C}_{12}\\text{H}_{26}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\text{C}_{12}\\text{H}_{28}$",
           "is_correct": false,
           "feedback": "Incorrecto. Sumó hidrógenos excedentes a la fórmula de saturación."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\text{C}_{12}\\text{H}_{22}$",
           "is_correct": false,
           "feedback": "Incorrecto. Esta es la fórmula para alquinos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$\\text{C}_{12}\\text{H}_{14}$",
           "is_correct": false,
           "feedback": "Incorrecto. Confundió la multiplicación $2n$ con una suma."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La fórmula general de los alcanos lineales es $\\text{C}_n\\text{H}_{2n+2}$. Reemplazando $n = 12$ obtenemos $\\text{C}_{12}\\text{H}_{26}$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -553,31 +553,31 @@
       "context": "Fórmulas moleculares de hidrocarburos saturados Caso N° 13.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$\\text{C}_{13}\\text{H}_{28}$",
           "is_correct": true,
           "feedback": "Correcto. $2(13) + 2 = 28$, por lo que la fórmula es $\\text{C}_{13}\\text{H}_{28}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\text{C}_{13}\\text{H}_{30}$",
           "is_correct": false,
           "feedback": "Incorrecto. Sumó hidrógenos excedentes a la fórmula de saturación."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\text{C}_{13}\\text{H}_{24}$",
           "is_correct": false,
           "feedback": "Incorrecto. Esta es la fórmula para alquinos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$\\text{C}_{13}\\text{H}_{15}$",
           "is_correct": false,
           "feedback": "Incorrecto. Confundió la multiplicación $2n$ con una suma."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La fórmula general de los alcanos lineales es $\\text{C}_n\\text{H}_{2n+2}$. Reemplazando $n = 13$ obtenemos $\\text{C}_{13}\\text{H}_{28}$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -598,13 +598,13 @@
       "context": "Fórmulas moleculares de hidrocarburos saturados Caso N° 14.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$\\text{C}_{14}\\text{H}_{30}$",
           "is_correct": true,
           "feedback": "Correcto. $2(14) + 2 = 30$, por lo que la fórmula es $\\text{C}_{14}\\text{H}_{30}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\text{C}_{14}\\text{H}_{32}$",
           "is_correct": false,
           "feedback": "Incorrecto. Sumó hidrógenos excedentes a la fórmula de saturación."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. Confundió la multiplicación $2n$ con una suma."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La fórmula general de los alcanos lineales es $\\text{C}_n\\text{H}_{2n+2}$. Reemplazando $n = 14$ obtenemos $\\text{C}_{14}\\text{H}_{30}$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -688,13 +688,13 @@
       "context": "Fórmulas moleculares de hidrocarburos saturados Caso N° 16.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$\\text{C}_{16}\\text{H}_{34}$",
           "is_correct": true,
           "feedback": "Correcto. $2(16) + 2 = 34$, por lo que la fórmula es $\\text{C}_{16}\\text{H}_{34}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\text{C}_{16}\\text{H}_{36}$",
           "is_correct": false,
           "feedback": "Incorrecto. Sumó hidrógenos excedentes a la fórmula de saturación."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. Confundió la multiplicación $2n$ con una suma."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La fórmula general de los alcanos lineales es $\\text{C}_n\\text{H}_{2n+2}$. Reemplazando $n = 16$ obtenemos $\\text{C}_{16}\\text{H}_{34}$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -733,13 +733,13 @@
       "context": "Fórmulas moleculares de hidrocarburos saturados Caso N° 17.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$\\text{C}_{17}\\text{H}_{36}$",
           "is_correct": true,
           "feedback": "Correcto. $2(17) + 2 = 36$, por lo que la fórmula es $\\text{C}_{17}\\text{H}_{36}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\text{C}_{17}\\text{H}_{38}$",
           "is_correct": false,
           "feedback": "Incorrecto. Sumó hidrógenos excedentes a la fórmula de saturación."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. Confundió la multiplicación $2n$ con una suma."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La fórmula general de los alcanos lineales es $\\text{C}_n\\text{H}_{2n+2}$. Reemplazando $n = 17$ obtenemos $\\text{C}_{17}\\text{H}_{36}$.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -778,13 +778,13 @@
       "context": "Fórmulas moleculares de hidrocarburos saturados Caso N° 18.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$\\text{C}_{18}\\text{H}_{38}$",
           "is_correct": true,
           "feedback": "Correcto. $2(18) + 2 = 38$, por lo que la fórmula es $\\text{C}_{18}\\text{H}_{38}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\text{C}_{18}\\text{H}_{40}$",
           "is_correct": false,
           "feedback": "Incorrecto. Sumó hidrógenos excedentes a la fórmula de saturación."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. Confundió la multiplicación $2n$ con una suma."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La fórmula general de los alcanos lineales es $\\text{C}_n\\text{H}_{2n+2}$. Reemplazando $n = 18$ obtenemos $\\text{C}_{18}\\text{H}_{38}$.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -868,13 +868,13 @@
       "context": "Fórmulas moleculares de hidrocarburos saturados Caso N° 20.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$\\text{C}_{20}\\text{H}_{42}$",
           "is_correct": true,
           "feedback": "Correcto. $2(20) + 2 = 42$, por lo que la fórmula es $\\text{C}_{20}\\text{H}_{42}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\text{C}_{20}\\text{H}_{44}$",
           "is_correct": false,
           "feedback": "Incorrecto. Sumó hidrógenos excedentes a la fórmula de saturación."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. Confundió la multiplicación $2n$ con una suma."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La fórmula general de los alcanos lineales es $\\text{C}_n\\text{H}_{2n+2}$. Reemplazando $n = 20$ obtenemos $\\text{C}_{20}\\text{H}_{42}$.",
       "difficulty": "10",
       "images": [],

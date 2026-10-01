@@ -13,31 +13,31 @@
       "context": "En clase de lectura en una escuela de Antioquia, la profesora lee fragmentos de \"La Patasola\" a los estudiantes.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Es un relato tradicional que mezcla hechos reales con elementos fantásticos y se transmite de generación en generación.",
           "is_correct": true,
           "feedback": "Las leyendas combinan hechos reales con imaginación y se transmiten oralmente."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Es un texto científico que explica fenómenos naturales con pruebas verificables.",
           "is_correct": false,
           "feedback": "Las leyendas no son textos científicos ni buscan pruebas verificables."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Es una noticia reciente publicada en un periódico nacional.",
           "is_correct": false,
           "feedback": "Las leyendas son relatos tradicionales, no noticias de actualidad."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Es un instructivo para fabricar objetos paso a paso.",
           "is_correct": false,
           "feedback": "Las leyendas narran historias, no son instructivos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Reconocer las características principales de la leyenda como género narrativo tradicional.",
       "difficulty": "4",
       "images": [],
@@ -105,13 +105,13 @@
       "context": "Un estudiante debe identificar las partes de la leyenda \"El Dorado\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Presentación de personajes y lugar, desarrollo del conflicto y una conclusión que explica el origen de algo.",
           "is_correct": true,
           "feedback": "La leyenda suele presentar el contexto, narrar el conflicto y cerrar con una enseñanza o explicación."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Hipótesis, experimento y resultados, como un texto científico.",
           "is_correct": false,
           "feedback": "Esa estructura corresponde a textos científicos, no a leyendas."
@@ -129,7 +129,7 @@
           "feedback": "La leyenda no es una receta de cocina."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Aplicar el conocimiento sobre la estructura narrativa básica de una leyenda.",
       "difficulty": "6",
       "images": [],
@@ -151,19 +151,19 @@
       "context": "Lee: \"Dicen los abuelos wayúu que la lluvia llega cuando la abuela Juna llora desde el cielo, porque sus lágrimas son las gotas que caen sobre la tierra.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Ofrecer una explicación cultural y simbólica de un fenómeno natural como la lluvia.",
           "is_correct": true,
           "feedback": "La leyenda ofrece una visión cultural de la naturaleza, no científica."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Demostrar con experimentos que la lluvia se origina en la abuela Juna.",
           "is_correct": false,
           "feedback": "La leyenda no se basa en experimentos verificables."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Vender productos para evitar la lluvia.",
           "is_correct": false,
           "feedback": "La leyenda no es publicidad ni busca vender productos."
@@ -175,7 +175,7 @@
           "feedback": "La leyenda no enseña a medir, sino a interpretar culturalmente."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Reconocer la intención cultural y simbólica de una leyenda que explica un fenómeno natural.",
       "difficulty": "6",
       "images": [],
@@ -197,31 +197,31 @@
       "context": "En un taller, los estudiantes deben escribir el inicio de una leyenda colombiana con personajes y un lugar reconocible.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Un lugar reconocible, un personaje principal y una atmósfera que mezcle lo real con lo sobrenatural.",
           "is_correct": true,
           "feedback": "Estos tres elementos permiten ambientar la leyenda desde el comienzo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Una lista de productos de supermercado.",
           "is_correct": false,
           "feedback": "Las listas de productos no pertenecen al inicio de una leyenda."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Una fórmula matemática compleja.",
           "is_correct": false,
           "feedback": "Las matemáticas no son parte del inicio de una leyenda."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Un código secreto sin ninguna pista del lugar.",
           "is_correct": false,
           "feedback": "Una pista del lugar es importante para situar al lector en la leyenda."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Aplicar los elementos iniciales necesarios para escribir una leyenda colombiana.",
       "difficulty": "6",
       "images": [],
@@ -243,19 +243,19 @@
       "context": "Compara: \"La leyenda del Mohan cuenta la aparición de un hombre peludo en los ríos amazónicos. La leyenda de la Pata Sola aparece en zonas cafeteras para asustar a los niños.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Ambas presentan seres fantásticos que aparecen en lugares naturales para transmitir enseñanzas o advertencias.",
           "is_correct": true,
           "feedback": "Las dos leyendas usan personajes fantásticos para dar mensajes a la comunidad."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Ambas son textos científicos sobre la fauna.",
           "is_correct": false,
           "feedback": "Ninguna de las dos es un texto científico, sino relatos tradicionales."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Las dos se desarrollan en ciudades modernas.",
           "is_correct": false,
           "feedback": "Ambas se desarrollan en entornos naturales, no en ciudades modernas."
@@ -267,7 +267,7 @@
           "feedback": "Son leyendas colombianas, no traducciones de cuentos europeos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Comparar leyendas colombianas para identificar sus elementos comunes.",
       "difficulty": "8",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "Lee: \"En las leyendas colombianas suele aparecer un héroe que enfrenta pruebas, un ser sobrenatural que lo ayuda o lo pone en peligro y un final que explica algo del entorno.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Actúan como seres que ayudan o ponen a prueba al protagonista y explican fenómenos o lugares.",
           "is_correct": true,
           "feedback": "Los seres sobrenaturales suelen ser ejes del conflicto y de la explicación cultural."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Son personajes secundarios sin ninguna influencia en la historia.",
           "is_correct": false,
           "feedback": "Por el contrario, suelen ser centrales en la trama de la leyenda."
@@ -313,7 +313,7 @@
           "feedback": "Su papel es narrativo y simbólico, no matemático."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Analizar el papel narrativo de los personajes sobrenaturales en las leyendas colombianas.",
       "difficulty": "8",
       "images": [],
@@ -335,19 +335,19 @@
       "context": "Lee: 'Las leyendas colombianas transmiten saberes ancestrales, valores comunitarios y explicaciones del entorno natural. Conocerlas permite valorar la tradición oral y la identidad cultural de las regiones.'",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Porque permiten valorar la tradición oral, la identidad cultural y el legado de las regiones colombianas.",
           "is_correct": true,
           "feedback": "Las leyendas acercan a los estudiantes al patrimonio cultural inmaterial del país."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque no tienen ninguna relación con la cultura ni con la identidad.",
           "is_correct": false,
           "feedback": "Al contrario, las leyendas están profundamente ligadas a la identidad cultural."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque solo sirven para asustar a los niños sin otro propósito.",
           "is_correct": false,
           "feedback": "Las leyendas tienen propósitos narrativos, culturales y éticos, no solo asustar."
@@ -359,7 +359,7 @@
           "feedback": "Las leyendas colombianas tienen valor propio y no deben reemplazarse."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Evaluar la importancia cultural y educativa de las leyendas colombianas en la formación lectora.",
       "difficulty": "10",
       "images": [],

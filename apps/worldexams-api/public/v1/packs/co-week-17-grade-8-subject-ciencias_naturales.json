@@ -13,13 +13,13 @@
       "context": "En el laboratorio del colegio en Medellín, una estudiante frota un globo contra suéter y lo acerca a pequeños trozos de papel.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Carga negativa, porque gana electrones del suéter",
           "is_correct": true,
           "feedback": "Al frotar el globo, este gana electrones transferidos desde el suéter, quedando con carga neta negativa según el modelo atómico."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Carga positiva, porque gana electrones del suéter",
           "is_correct": false,
           "feedback": "Si gana electrones, la carga es negativa; confundiste el signo asociado al exceso de electrones."
@@ -37,7 +37,7 @@
           "feedback": "Los protones permanecen en el núcleo y no se transfieren por fricción; lo que se transfieren son electrones."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La electrización por fricción ocurre por transferencia de electrones entre dos materiales. El globo queda con carga negativa cuando gana electrones, lo que le permite atraer trozos de papel neutros por inducción. Este fenómeno demuestra que la carga eléctrica se conserva y que solo los electrones son móviles.",
       "difficulty": "4",
       "images": [],
@@ -59,19 +59,19 @@
       "context": "En una casa del barrio Chapinero en Bogotá, varios electrodomésticos funcionan simultáneamente conectados al mismo circuito.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "El flujo ordenado de electrones a través de un conductor por unidad de tiempo",
           "is_correct": true,
           "feedback": "La corriente es el movimiento dirigido de cargas eléctricas (electrones en metales) medido en amperios."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La cantidad total de electrones almacenados en un cable apagado",
           "is_correct": false,
           "feedback": "Si no hay flujo, no hay corriente; el almacenamiento estático no es corriente eléctrica."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La diferencia de potencial entre dos puntos de un circuito abierto",
           "is_correct": false,
           "feedback": "Eso corresponde al voltaje, no a la corriente; se necesita un circuito cerrado para que haya corriente."
@@ -83,7 +83,7 @@
           "feedback": "La resistencia se opone al paso de electrones (no protones); confundiste el portador de carga en metales."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La corriente eléctrica (I) se mide en amperios (A) y representa la cantidad de carga que atraviesa una sección transversal del conductor por segundo. En los metales, los electrones libres son los portadores que se mueven de forma ordenada cuando hay un campo eléctrico aplicado.",
       "difficulty": "4",
       "images": [],
@@ -105,19 +105,19 @@
       "context": "Un técnico de EPM en Medellín explica a unos usuarios la diferencia entre lo que mide el voltímetro y el amperímetro.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "El voltaje es la diferencia de potencial entre dos puntos; la corriente es el flujo de carga por unidad de tiempo",
           "is_correct": true,
           "feedback": "V (voltios) mide energía por unidad de carga; I (amperios) mide carga por unidad de tiempo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El voltaje se mide en amperios y la corriente en ohmios",
           "is_correct": false,
           "feedback": "Las unidades están invertidas; el voltaje se mide en voltios y la corriente en amperios."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El voltaje solo existe en circuitos serie y la corriente solo en paralelo",
           "is_correct": false,
           "feedback": "Ambos conceptos aplican a cualquier tipo de circuito; la distinción es topológica, no conceptual."
@@ -129,7 +129,7 @@
           "feedback": "Son magnitudes diferentes: una es diferencia de potencial y la otra es flujo de carga."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El voltaje (V) es la energía por unidad de carga que impulsa a los electrones; la corriente (I) es la cantidad de carga que circula por segundo. Se relacionan mediante la resistencia en la ley de Ohm: V = I · R. Sin voltaje no hay corriente en un circuito cerrado.",
       "difficulty": "4",
       "images": [],
@@ -151,19 +151,19 @@
       "context": "En una práctica de laboratorio en el Colegio Mayor de Medellín, un estudiante mide con un multímetro.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "24 Ω",
           "is_correct": true,
           "feedback": "R = V/I = 12 V / 0,5 A = 24 Ω, aplicando correctamente la ley de Ohm."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "6 Ω",
           "is_correct": false,
           "feedback": "Calculaste I · V en lugar de V/I; recuerda que R = V dividido entre I."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "0,042 Ω",
           "is_correct": false,
           "feedback": "Invertiste la fórmula; el resultado correcto es dividir 12 entre 0,5, no multiplicar."
@@ -175,7 +175,7 @@
           "feedback": "Sumaste los valores en lugar de aplicar la fórmula; usa siempre R = V/I."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La ley de Ohm establece que V = I · R, por lo tanto R = V / I. Al sustituir: R = 12 V / 0,5 A = 24 Ω. Esta ley se cumple para conductores óhmicos a temperatura constante y es la base del análisis de circuitos resistivos.",
       "difficulty": "6",
       "images": [],
@@ -243,19 +243,19 @@
       "context": "Tres bombillas idénticas se conectan en paralelo al circuito eléctrico de una vivienda en Envigado.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "120 V en cada una",
           "is_correct": true,
           "feedback": "En paralelo, el voltaje es el mismo en todas las ramas e igual al de la fuente."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "40 V en cada una",
           "is_correct": false,
           "feedback": "Dividiste el voltaje entre el número de resistencias; eso solo aplica a capacitores en serie."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "360 V en cada una",
           "is_correct": false,
           "feedback": "Multiplicaste en lugar de mantener el voltaje; en paralelo no se suman voltajes."
@@ -267,7 +267,7 @@
           "feedback": "Restaste 30 V por cada rama; el voltaje no depende del valor de la resistencia."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Una propiedad clave de los circuitos en paralelo es que el voltaje (diferencia de potencial) es idéntico en cada rama e igual al voltaje de la fuente. Lo que se divide es la corriente, no el voltaje. Por eso los aparatos domésticos están conectados en paralelo a 120 V.",
       "difficulty": "6",
       "images": [],
@@ -289,31 +289,31 @@
       "context": "En una factura de Codensa (ahora Enel-Codensa) en Bogotá, una familia observa el consumo de una estufa eléctrica.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "1,2 kWh",
           "is_correct": true,
           "feedback": "P = V·I = 120·5 = 600 W = 0,6 kW; E = 0,6 kW · 2 h = 1,2 kWh."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "0,6 kWh",
           "is_correct": false,
           "feedback": "Calculaste solo la potencia en kW, te faltó multiplicar por el tiempo de uso."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "240 kWh",
           "is_correct": false,
           "feedback": "Multiplicaste V·I·t sin convertir unidades; 600 W · 2 h = 1200 Wh = 1,2 kWh."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "60 kWh",
           "is_correct": false,
           "feedback": "Dividiste en lugar de multiplicar; revisa la conversión de Wh a kWh."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La potencia eléctrica se calcula como P = V · I = 120 V · 5 A = 600 W. La energía consumida es E = P · t = 600 W · 2 h = 1200 Wh = 1,2 kWh. En Colombia, el kWh es la unidad facturada por las empresas de energía como EPM, Enel-Codensa y Afinia.",
       "difficulty": "6",
       "images": [],
@@ -335,19 +335,19 @@
       "context": "Un electricista en Cali debe explicar a un cliente por qué los focos de su casa están conectados en paralelo y no en serie.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Para que el voltaje sea igual en todas y funcionen independientemente al abrir o cerrar el interruptor",
           "is_correct": true,
           "feedback": "En paralelo, si una bombilla se daña, las demás siguen funcionando porque cada rama es independiente."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Para que la corriente total sea mayor y consuman más energía",
           "is_correct": false,
           "feedback": "El consumo depende de la potencia de cada bombilla, no de la topología del circuito."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Para que la resistencia total aumente y se ahorre energía automáticamente",
           "is_correct": false,
           "feedback": "La resistencia en paralelo disminuye, no aumenta; el ahorro no depende de la topología."
@@ -359,7 +359,7 @@
           "feedback": "En paralelo el voltaje no se divide; cada rama recibe el voltaje completo de la fuente."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "En un circuito paralelo, cada dispositivo recibe el mismo voltaje de la fuente y opera de manera independiente. Si una bombilla se quema, las demás siguen encendidas porque la corriente puede fluir por las otras ramas. En serie, si una bombilla se apaga, todo el circuito se interrumpe.",
       "difficulty": "8",
       "images": [],
@@ -381,13 +381,13 @@
       "context": "En una feria de ciencias en Bucaramanga, dos grupos montan circuitos con tres bombillas: uno en serie y otro en paralelo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "En serie todas las bombillas se apagan; en paralelo solo se apaga la dañada",
           "is_correct": true,
           "feedback": "En serie el circuito se interrumpe totalmente; en paralelo cada rama es independiente."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "En serie solo se apaga la dañada; en paralelo todas se apagan",
           "is_correct": false,
           "feedback": "Invertiste los efectos; el paralelo es tolerante a fallas individuales."
@@ -405,7 +405,7 @@
           "feedback": "Solo en paralelo ocurre esto; en serie se interrumpe todo el circuito."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "En serie, una interrupción (foco quemado) impide el paso de corriente por todo el circuito. En paralelo, cada rama tiene su propia trayectoria de corriente, por lo que la falla de un componente no afecta a los demás. Esta es la razón por la que las instalaciones eléctricas residenciales usan topología paralela.",
       "difficulty": "8",
       "images": [],
@@ -427,19 +427,19 @@
       "context": "Un taller de electrónica en Popayán arma un circuito mixto con dos resistencias en serie y una en paralelo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "10 Ω",
           "is_correct": true,
           "feedback": "R_serie = 10 + 20 = 30 Ω; R_eq = (30·15)/(30+15) = 450/45 = 10 Ω."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "45 Ω",
           "is_correct": false,
           "feedback": "Sumaste todas las resistencias; ese cálculo solo aplica si todas estuvieran en serie."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "30 Ω",
           "is_correct": false,
           "feedback": "Calculaste solo la parte en serie y olvidaste combinar con la resistencia en paralelo."
@@ -451,7 +451,7 @@
           "feedback": "Aplicaste mal la fórmula de paralelo; recuerda que es producto dividido por suma."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Para circuitos mixtos se simplifica por pasos. Primero, la combinación en serie: R_s = R1 + R2 = 30 Ω. Luego, en paralelo con R3: R_eq = (R_s · R3) / (R_s + R3) = (30 · 15) / (30 + 15) = 450 / 45 = 10 Ω. La resistencia equivalente siempre es menor que la menor de las resistencias en paralelo.",
       "difficulty": "8",
       "images": [],
@@ -519,19 +519,19 @@
       "context": "Una familia en el barrio El Poblado de Medellín recibe una factura de EPM de 180.000 COP y sospecha que un electrodoméstico está consumiendo de más.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "360 kWh adicionales, aproximadamente 270.000 COP extra",
           "is_correct": true,
           "feedback": "E = 1,5 kW · 8 h · 30 días = 360 kWh; costo = 360 · 750 = 270.000 COP."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "120 kWh adicionales, aproximadamente 90.000 COP extra",
           "is_correct": false,
           "feedback": "Calculaste 1,5 kW · 8 h · 10 días; debes multiplicar por los 30 días del mes."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "12 kWh adicionales, aproximadamente 9.000 COP extra",
           "is_correct": false,
           "feedback": "Olvidaste convertir vatios a kilovatios; 1.500 W = 1,5 kW."
@@ -543,7 +543,7 @@
           "feedback": "No convertiste watts a kilowatts y exageraste el resultado por un factor de 1.000."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La energía se calcula como E = P · t. Con P = 1.500 W = 1,5 kW y t = 8 h · 30 días = 240 h, se obtiene E = 1,5 kW · 240 h = 360 kWh. Multiplicando por el costo aproximado de 750 COP/kWh en Medellín, el sobrecosto es 360 · 750 = 270.000 COP, lo que explica el aumento considerable en la factura.",
       "difficulty": "10",
       "images": [],
