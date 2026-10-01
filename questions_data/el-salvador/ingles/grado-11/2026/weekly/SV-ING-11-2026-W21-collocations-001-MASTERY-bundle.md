@@ -119,7 +119,7 @@ Choose the best verb: 'We need to ____ a decision before Friday.'
   <!-- feedback: 'Give a decision' would suggest handing the decision over to someone else. -->
 
 ### Explicacion Pedagogica
-'Make a decision' es la combinacion natural del ingles; 'do a decision' no existe.
+'Make a decision' es la combinacion natural del ingles; 'do a decision' no existe. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.
 
 ---
 

@@ -310,10 +310,10 @@ Es una serie geométrica con $a_1 = 7/10$ y $r = 1/10$. La suma es $\frac{7/10}{
 Si $\log(x), \log(x^2), \log(x^4)...$ es una sucesión, ¿cuál de las siguientes afirmaciones es correcta?
 
 ### Opciones
-- [ ] B) Es una sucesión aritmética con diferencia $d = \log(x)$. <!-- feedback: Incorrecto. La diferencia entre términos no es constante. -->
-- [x] A) Es una sucesión geométrica con razón $r = 2$. <!-- feedback: Correcto. Al aplicar propiedades de logaritmos, los términos son $\log(x), 2\log(x), 4\log(x)...$ El cociente entre ellos es constante e igual a 2. -->
-- [ ] C) Es una sucesión aritmética con diferencia $d = 2$. <!-- feedback: Incorrecto. -->
-- [ ] D) No es una progresión conocida. <!-- feedback: Incorrecto. -->
+- [ ] B) Es una sucesión aritmética con diferencia $d = \log(x)$. <!-- feedback: Una progresión aritmética exige diferencias constantes, pero aquí los términos $\log x, 2\log x, 4\log x$ se multiplican por $2$ en cada paso, no se suman una cantidad fija. -->
+- [x] A) Es una sucesión geométrica con razón $r = 2$. <!-- feedback: Con $\log(x^a) = a\log x$ los términos son $\log x, 2\log x, 4\log x, 8\log x$, y el cociente entre consecutivos es siempre $2$. -->
+- [ ] C) Es una sucesión aritmética con diferencia $d = 2$. <!-- feedback: La diferencia entre términos es $\log x, 2\log x, 4\log x$, que no es constante; además el enunciado describe un cociente, no una diferencia. -->
+- [ ] D) No es una progresión conocida. <!-- feedback: Sí es una progresión conocida: como cada término es el anterior multiplicado por $2$, es una progresión geométrica de razón $2$. -->
 
 ### Explicacion Pedagogica
 Usando $\log(a^b) = b \cdot \log(a)$, los términos son $\log(x), 2\log(x), 4\log(x), 8\log(x)...$ El cociente es constante e igual a 2.
@@ -331,10 +331,10 @@ Usando $\log(a^b) = b \cdot \log(a)$, los términos son $\log(x), 2\log(x), 4\lo
 Calcula la suma infinita de la serie: $1 - 1/3 + 1/9 - 1/27...$
 
 ### Opciones
-- [ ] A) 2/3 <!-- feedback: Incorrecto. Has usado r=1/3 positivo. -->
-- [x] B) 3/4 <!-- feedback: Correcto. a_1 = 1, r = -1/3. S_inf = 1 / (1 - (-1/3)) = 1 / (4/3) = 3/4. -->
-- [ ] C) 3/2 <!-- feedback: Incorrecto. Error en la operación del denominador. -->
-- [ ] D) 1.5 <!-- feedback: Incorrecto. -->
+- [ ] A) 2/3 <!-- feedback: El $2/3$ sale de tomar $r = 1/3$ positivo, pero los signos de la serie alternan, así que la razón es negativa. -->
+- [x] B) 3/4 <!-- feedback: Con $a_1 = 1$ y $r = -1/3$: $S = \frac{a_1}{1-r} = \frac{1}{1 + 1/3} = \frac{1}{4/3} = 3/4$. -->
+- [ ] C) 3/2 <!-- feedback: El $3/2$ invierte la fórmula, olvidando que $S = \frac{a_1}{1-r}$ con $1 - (-1/3) = 4/3$. -->
+- [ ] D) 1.5 <!-- feedback: El $1.5$ se obtiene usando $r = -1/2$ en lugar de $r = -1/3$, que es la razón de esta serie. -->
 
 ### Explicacion Pedagogica
 Serie con $a_1 = 1$ y $r = -1/3$. La fórmula $S = \frac{a_1}{1-r}$ resulta en $\frac{1}{1 + 1/3} = \frac{1}{4/3} = 3/4$.
@@ -373,10 +373,10 @@ La pérdida porcentual constante se modela con una progresión geométrica. La r
 En una sucesión geométrica de 5 términos, el tercer término es 4. ¿Cuál es el producto de los 5 términos de la sucesión?
 
 ### Opciones
-- [ ] A) 20 <!-- feedback: Incorrecto. Has multiplicado el término por el número de términos. -->
-- [x] D) 1024 <!-- feedback: Correcto. El producto de una PG de n términos es (a_1 * a_n)^(n/2). También se cumple que a_3^5 = 4^5 = 1024 debido a la simetría. -->
-- [ ] B) 256 <!-- feedback: Incorrecto. Has calculado 4^4. -->
-- [ ] C) 512 <!-- feedback: Incorrecto. -->
+- [ ] A) 20 <!-- feedback: El 20 es $4 \times 5$, es decir el término central multiplicado por el número de términos, lo que no es la regla del producto. -->
+- [x] D) 1024 <!-- feedback: En una progresión de $5$ términos el central cumple $a_c^5 = a_1 a_2 a_3 a_4 a_5$, así que el producto es $4^5 = 1024$. -->
+- [ ] B) 256 <!-- feedback: El 256 es $4^4$, pero hay $5$ términos y el central aparece elevado a $5$ en el producto total. -->
+- [ ] C) 512 <!-- feedback: El 512 es $4^{4.5}$; el producto de $5$ términos con central $a_c$ es $a_c^{n}$ con $n = 5$, no $4.5$. -->
 
 ### Explicacion Pedagogica
 En una PG, el término central $a_c$ cumple que el producto de $n$ términos es $a_c^n$ (si $n$ es impar). Aquí $4^5 = 1024$.
@@ -394,10 +394,10 @@ En una PG, el término central $a_c$ cumple que el producto de $n$ términos es 
 Si $x-2, x+2, x+10$ son los tres primeros términos de una progresión geométrica, ¿cuál es el valor de $x$?
 
 ### Opciones
-- [ ] A) 4 <!-- feedback: Incorrecto. Al sustituir daría 2, 6, 14 (no es PG). -->
-- [x] D) 6 <!-- feedback: Correcto. (x+2)/(x-2) = (x+10)/(x+2) => (x+2)^2 = (x-2)(x+10) => x^2+4x+4 = x^2+8x-20 => 4x = 24 => x=6. -->
-- [ ] B) 2 <!-- feedback: Incorrecto. El primer término sería 0. -->
-- [ ] C) 10 <!-- feedback: Incorrecto. -->
+- [ ] A) 4 <!-- feedback: Con $x = 4$ los términos serían $2, 6, 14$, y $6^2 = 36 \neq 2 \times 14 = 28$, así que no forman progresión geométrica. -->
+- [x] D) 6 <!-- feedback: En una PG el término medio cumple $b^2 = ac$: $(x+2)^2 = (x-2)(x+10)$, que al desarrollar y simplificar da $x = 6$. -->
+- [ ] B) 2 <!-- feedback: Con $x = 2$ el primer término sería $0$, y una progresión geométrica con razón $r$ exige $b = 0 \cdot r = 0$, lo que no se cumple. -->
+- [ ] C) 10 <!-- feedback: Con $x = 10$ los términos serían $8, 12, 20$, y $12^2 = 144 \neq 8 \times 20 = 160$. -->
 
 ### Explicacion Pedagogica
 La propiedad de la PG dice que $b^2 = a \cdot c$. Resolvemos $(x+2)^2 = (x-2)(x+10)$, lo que nos lleva a una ecuación lineal simple $x=6$.
@@ -436,10 +436,10 @@ Es la suma de $1/2^n$. Representa la división sucesiva del área total. Matemá
 Si $a, b, c$ forman una progresión aritmética de diferencia 2, y $a, b, c+1$ forman una progresión geométrica, ¿cuál es el valor de $a$?
 
 ### Opciones
-- [x] C) 4 <!-- feedback: Correcto. Los términos de la PA son $a, a+2, a+4$. Los de la PG son $a, a+2, a+5$. Por la propiedad del término medio: $(a+2)^2 = a(a+5)$, lo que simplifica a $a=4$. -->
-- [ ] A) 8 <!-- feedback: Incorrecto. -->
-- [ ] B) 2 <!-- feedback: Incorrecto. -->
-- [ ] D) 6 <!-- feedback: Incorrecto. -->
+- [x] C) 4 <!-- feedback: La PA da $a, a+2, a+4$ y la PG usa $a, a+2, a+5$; por $b^2 = ac$: $(a+2)^2 = a(a+5)$, es decir $a^2 + 4a + 4 = a^2 + 5a$, de donde $a = 4$. -->
+- [ ] A) 8 <!-- feedback: Con $a = 8$ la PG exigiría $(8+2)^2 = 8 \times 13$, es decir $100 = 104$, que es falso. -->
+- [ ] B) 2 <!-- feedback: Con $a = 2$ la condición $(2+2)^2 = 2 \times 7$ da $16 = 14$, que es falsa. -->
+- [ ] D) 6 <!-- feedback: Con $a = 6$ la condición $(6+2)^2 = 6 \times 11$ da $64 = 66$, que es falsa. -->
 
 ### Explicacion Pedagogica
 PA: $a, a+2, a+4$. PG: $a, a+2, (a+4)+1$. Por propiedad de PG: $(a+2)^2 = a(a+5)$. $a^2+4a+4 = a^2+5a \rightarrow a=4$.

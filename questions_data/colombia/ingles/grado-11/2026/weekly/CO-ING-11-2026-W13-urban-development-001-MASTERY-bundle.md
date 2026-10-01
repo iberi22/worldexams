@@ -136,13 +136,13 @@ According to a recent report on urban development in Barranquilla, what is impli
 
 ### Opciones
 - [x] B) It serves as a critical tool for nuanced communication.
-  <!-- feedback: Correct. C1+ level reading requires identifying subtle implications about language use. -->
+  <!-- feedback: Correct. Passive reporting verbs is the point here: the passive leaves the agent out ("Buildings were left unfinished") so attention stays on the state of the city, so the problem is presented as a condition to be diagnosed rather than as one person's fault. Reading that implication is what the question asks. -->
 - [ ] A) It is largely irrelevant to the general public.
-  <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
+  <!-- feedback: This calls the device irrelevant, but the report makes this the very focus of its argument, so saying it does not matter to the public contradicts the text. -->
 - [ ] C) It simplifies complex socio-political messages.
-  <!-- feedback: Incorrect. The use of {grammar} actually adds complexity and depth. -->
+  <!-- feedback: This claims the device makes the claim plainer, whereas the passive adds responsibility and context to the report rather than stripping meaning out of it. -->
 - [ ] D) It is only used by academic elites in {city}.
-  <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
+  <!-- feedback: This restricts the device to specialists in a single city, but the report discusses this across media and public discourse, not as something used only by a group in one city. -->
 
 ### Explicacion Pedagogica
 This question requires inferential reading skills to understand how complex structures convey deeper meaning.
@@ -161,13 +161,13 @@ According to a recent report on urban development in Bogotá, what is implied ab
 
 ### Opciones
 - [x] B) It serves as a critical tool for nuanced communication.
-  <!-- feedback: Correct. C1+ level reading requires identifying subtle implications about language use. -->
+  <!-- feedback: Correct. Passive reporting verbs is the point here: the passive leaves the agent out ("Buildings were left unfinished") so attention stays on the state of the city, so the problem is presented as a condition to be diagnosed rather than as one person's fault. Reading that implication is what the question asks. -->
 - [ ] A) It is largely irrelevant to the general public.
-  <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
+  <!-- feedback: This calls the device irrelevant, but the report makes this the very focus of its argument, so saying it does not matter to the public contradicts the text. -->
 - [ ] C) It simplifies complex socio-political messages.
-  <!-- feedback: Incorrect. The use of {grammar} actually adds complexity and depth. -->
+  <!-- feedback: This claims the device makes the claim plainer, whereas the passive adds responsibility and context to the report rather than stripping meaning out of it. -->
 - [ ] D) It is only used by academic elites in {city}.
-  <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
+  <!-- feedback: This restricts the device to specialists in a single city, but the report discusses this across media and public discourse, not as something used only by a group in one city. -->
 
 ### Explicacion Pedagogica
 This question requires inferential reading skills to understand how complex structures convey deeper meaning.
@@ -186,13 +186,13 @@ According to a recent report on urban development in Barranquilla, what is impli
 
 ### Opciones
 - [x] D) It serves as a critical tool for nuanced communication.
-  <!-- feedback: Correct. C1+ level reading requires identifying subtle implications about language use. -->
+  <!-- feedback: Correct. Passive reporting verbs is the point here: the passive leaves the agent out ("Buildings were left unfinished") so attention stays on the state of the city, so the problem is presented as a condition to be diagnosed rather than as one person's fault. Reading that implication is what the question asks. -->
 - [ ] A) It is largely irrelevant to the general public.
-  <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
+  <!-- feedback: This calls the device irrelevant, but the report makes this the very focus of its argument, so saying it does not matter to the public contradicts the text. -->
 - [ ] B) It simplifies complex socio-political messages.
-  <!-- feedback: Incorrect. The use of {grammar} actually adds complexity and depth. -->
+  <!-- feedback: This claims the device makes the claim plainer, whereas the passive adds responsibility and context to the report rather than stripping meaning out of it. -->
 - [ ] C) It is only used by academic elites in {city}.
-  <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
+  <!-- feedback: This restricts the device to specialists in a single city, but the report discusses this across media and public discourse, not as something used only by a group in one city. -->
 
 ### Explicacion Pedagogica
 This question requires inferential reading skills to understand how complex structures convey deeper meaning.
@@ -211,13 +211,13 @@ According to a recent report on urban development in Pereira, what is implied ab
 
 ### Opciones
 - [x] B) It serves as a critical tool for nuanced communication.
-  <!-- feedback: Correct. C1+ level reading requires identifying subtle implications about language use. -->
+  <!-- feedback: Correct. Passive reporting verbs is the point here: the passive leaves the agent out ("Buildings were left unfinished") so attention stays on the state of the city, so the problem is presented as a condition to be diagnosed rather than as one person's fault. Reading that implication is what the question asks. -->
 - [ ] A) It is largely irrelevant to the general public.
-  <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
+  <!-- feedback: This calls the device irrelevant, but the report makes this the very focus of its argument, so saying it does not matter to the public contradicts the text. -->
 - [ ] C) It simplifies complex socio-political messages.
-  <!-- feedback: Incorrect. The use of {grammar} actually adds complexity and depth. -->
+  <!-- feedback: This claims the device makes the claim plainer, whereas the passive adds responsibility and context to the report rather than stripping meaning out of it. -->
 - [ ] D) It is only used by academic elites in {city}.
-  <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
+  <!-- feedback: This restricts the device to specialists in a single city, but the report discusses this across media and public discourse, not as something used only by a group in one city. -->
 
 ### Explicacion Pedagogica
 This question requires inferential reading skills to understand how complex structures convey deeper meaning.
@@ -236,13 +236,13 @@ According to a recent report on urban development in Cali, what is implied about
 
 ### Opciones
 - [x] C) It serves as a critical tool for nuanced communication.
-  <!-- feedback: Correct. C1+ level reading requires identifying subtle implications about language use. -->
+  <!-- feedback: Correct. Passive reporting verbs is the point here: the passive leaves the agent out ("Buildings were left unfinished") so attention stays on the state of the city, so the problem is presented as a condition to be diagnosed rather than as one person's fault. Reading that implication is what the question asks. -->
 - [ ] A) It is largely irrelevant to the general public.
-  <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
+  <!-- feedback: This calls the device irrelevant, but the report makes this the very focus of its argument, so saying it does not matter to the public contradicts the text. -->
 - [ ] B) It simplifies complex socio-political messages.
-  <!-- feedback: Incorrect. The use of {grammar} actually adds complexity and depth. -->
+  <!-- feedback: This claims the device makes the claim plainer, whereas the passive adds responsibility and context to the report rather than stripping meaning out of it. -->
 - [ ] D) It is only used by academic elites in {city}.
-  <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
+  <!-- feedback: This restricts the device to specialists in a single city, but the report discusses this across media and public discourse, not as something used only by a group in one city. -->
 
 ### Explicacion Pedagogica
 This question requires inferential reading skills to understand how complex structures convey deeper meaning.
@@ -261,13 +261,13 @@ According to a recent report on urban development in Bogotá, what is implied ab
 
 ### Opciones
 - [x] A) It serves as a critical tool for nuanced communication.
-  <!-- feedback: Correct. C1+ level reading requires identifying subtle implications about language use. -->
+  <!-- feedback: Correct. Passive reporting verbs is the point here: the passive leaves the agent out ("Buildings were left unfinished") so attention stays on the state of the city, so the problem is presented as a condition to be diagnosed rather than as one person's fault. Reading that implication is what the question asks. -->
 - [ ] B) It is largely irrelevant to the general public.
-  <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
+  <!-- feedback: This calls the device irrelevant, but the report makes this the very focus of its argument, so saying it does not matter to the public contradicts the text. -->
 - [ ] C) It simplifies complex socio-political messages.
-  <!-- feedback: Incorrect. The use of {grammar} actually adds complexity and depth. -->
+  <!-- feedback: This claims the device makes the claim plainer, whereas the passive adds responsibility and context to the report rather than stripping meaning out of it. -->
 - [ ] D) It is only used by academic elites in {city}.
-  <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
+  <!-- feedback: This restricts the device to specialists in a single city, but the report discusses this across media and public discourse, not as something used only by a group in one city. -->
 
 ### Explicacion Pedagogica
 This question requires inferential reading skills to understand how complex structures convey deeper meaning.

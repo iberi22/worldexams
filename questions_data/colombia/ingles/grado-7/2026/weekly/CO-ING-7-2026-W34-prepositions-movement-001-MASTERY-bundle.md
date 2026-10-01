@@ -189,13 +189,13 @@ The student applies reading strategies to sequence events involving movement pre
 
 ### Opciones
 - [ ] A) into
-  <!-- feedback: Incorrect. This is for entering. -->
+  <!-- feedback: 'Into' describes movement from outside to inside, but the instruction asks you to leave the bus. -->
 - [x] B) out of
-  <!-- feedback: Correct! "Out of" is used for leaving an enclosed space or vehicle. -->
+  <!-- feedback: Correct. 'Out of' describes movement from inside an enclosed space or vehicle towards the outside, which is what getting off the bus means. -->
 - [ ] C) through
-  <!-- feedback: Incorrect. Not appropriate for exiting. -->
+  <!-- feedback: 'Through' describes movement inside a space from one end to the other, not leaving it. -->
 - [ ] D) over
-  <!-- feedback: Incorrect. -->
+  <!-- feedback: 'Over' describes movement above something, for example over a fence, and does not describe getting out of a vehicle. -->
 
 ### Explicacion Pedagogica
 The student applies the correct preposition for exiting a space.
@@ -240,13 +240,13 @@ Identify the sequence of prepositions in the commentary.
 
 ### Opciones
 - [ ] A) Across / Into / Over / Through
-  <!-- feedback: Incorrect order. -->
+  <!-- feedback: This puts 'Into' second, but the commentary uses 'through' for the defence, so the second preposition is wrong. -->
 - [ ] B) Into / Through / Over / Across
-  <!-- feedback: Incorrect order. -->
+  <!-- feedback: This starts with 'Into', but the movement across the field comes first, so the order is wrong. -->
 - [x] C) Across / Through / Over / Into
-  <!-- feedback: Correct! This matches the sequence: field (across), defense (through), goalkeeper (over), net (into). -->
+  <!-- feedback: Correct. The commentary uses 'across' for the field, 'through' for the defence, 'over' for the goalkeeper and 'into' for the net, in that order. -->
 - [ ] D) Through / Across / Into / Over
-  <!-- feedback: Incorrect order. -->
+  <!-- feedback: This starts with 'Through', but 'through' is the second preposition in the sequence, after 'across'. -->
 
 ### Explicacion Pedagogica
 The student analyzes a complex narrative to identify and sequence multiple prepositions of movement correctly.

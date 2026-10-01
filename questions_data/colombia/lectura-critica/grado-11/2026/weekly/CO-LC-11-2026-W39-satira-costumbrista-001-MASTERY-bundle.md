@@ -63,7 +63,7 @@ El costumbrismo fija retratos de época y permite observar la sociedad con humor
 - [ ] B) Una loa sin cuestionamientos.
   <!-- feedback: Es crítica. -->
 - [ ] C) Un texto exclusivamente descriptivo.
-  <!-- feedback: Argumenta. -->
+  <!-- feedback: La sátira no se limita a describir: usa el humor y la ironía para denunciar y argumentar contra un vicio social. -->
 - [ ] D) Un género técnico especializado.
   <!-- feedback: Es accesible. -->
 
@@ -178,9 +178,9 @@ Una caricatura política que exagera rasgos físicos de un funcionario para asoc
 - [ ] A) Retrato fiel sin intención.
   <!-- feedback: Hay distorsión intencionada. -->
 - [ ] C) Ilustración decorativa.
-  <!-- feedback: Critica. -->
+  <!-- feedback: La exageración de los rasgos no es decorativa: sirve para asociar al funcionario con sus decisiones impopulares. -->
 - [ ] D) Imagen sin función comunicativa.
-  <!-- feedback: Comunica. -->
+  <!-- feedback: Toda caricatura comunica una crítica; presentarla como imagen sin función comunicativa contradice su intención. -->
 
 ### Explicacion Pedagogica
 La caricatura sintetiza rasgos para producir crítica política con economía visual.
@@ -293,7 +293,7 @@ Al analizar un meme satírico sobre un funcionario público colombiano, ¿qué s
 - [ ] A) Solo el tamaño de la imagen.
   <!-- feedback: Es dato formal. -->
 - [ ] B) La marca del dispositivo con que se hizo.
-  <!-- feedback: Irrelevante. -->
+  <!-- feedback: El modelo del dispositivo es un dato formal que no ayuda a interpretar el contexto ni la intención del autor. -->
 - [ ] C) La cantidad de píxeles.
   <!-- feedback: No aporta sentido. -->
 
@@ -387,7 +387,7 @@ Al comparar dos columnas satíricas sobre el transporte público en Bogotá y Me
 - [ ] C) La cantidad de párrafos.
   <!-- feedback: Es estructura. -->
 - [ ] D) La marca de la imprenta.
-  <!-- feedback: Irrelevante. -->
+  <!-- feedback: La marca de la imprenta es un dato material; lo que permite comparar dos columnas es su contexto y el tipo de humor. -->
 
 ### Explicacion Pedagogica
 La comparación crítica de sátiras exige atención al contexto cultural y al tipo de humor.
@@ -452,7 +452,7 @@ La sátira digital exige responsabilidad: humor sin difamación y crítica sin o
 - [x] B) Permite analizar intencionalidad, contexto y mecanismos de persuasión en clave visual.
   <!-- feedback: Es recurso multimodal. -->
 - [ ] A) Solo entretiene sin enseñar.
-  <!-- feedback: Enseña. -->
+  <!-- feedback: La caricatura en clase invita a analizar y argumentar, de modo que no se limita entretener sin enseñar. -->
 - [ ] C) Elimina la reflexión sobre el lenguaje.
   <!-- feedback: La refuerza. -->
 - [ ] D) Es inaccesible para estudiantes.

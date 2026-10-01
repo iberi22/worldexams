@@ -333,10 +333,10 @@ La propiedad de cierre indica que al realizar una operación con elementos de un
 ¿Cuál de las siguientes proposiciones es falsa respecto a los números reales?
 
 ### Opciones
-- [ ] A) Todo número racional tiene una expansión decimal periódica o finita. <!-- feedback: Esta es una proposición verdadera. -->
-- [ ] C) La suma de un número racional y uno irracional es siempre irracional. <!-- feedback: Esta es una proposición verdadera. -->
-- [x] B) El producto de dos números irracionales es siempre un número irracional. <!-- feedback: Correcto. Esta es la proposición falsa. Por ejemplo, $\sqrt{2} \times \sqrt{2} = 2$, que es racional. -->
-- [ ] D) No existe un número racional cuyo cuadrado sea exactamente 2. <!-- feedback: Esta es una proposición verdadera (prueba de la irracionalidad de $\sqrt{2}$). -->
+- [ ] A) Todo número racional tiene una expansión decimal periódica o finita. <!-- feedback: Es verdadera: la expansión decimal de un racional es finita o periódica, y a la inversa todadecimal así es racional. -->
+- [ ] C) La suma de un número racional y uno irracional es siempre irracional. <!-- feedback: Es verdadera: sumar un racional a un irracional da irracional, porque si fuera racional, al restar el racional se obtendría un irracional racional. -->
+- [x] B) El producto de dos números irracionales es siempre un número irracional. <!-- feedback: Es la proposición falsa: $\sqrt{2} \cdot \sqrt{2} = 2$ es racional, y el mismo argumento sirve con $\sqrt{2}$ y $\frac{1}{\sqrt{2}}$. -->
+- [ ] D) No existe un número racional cuyo cuadrado sea exactamente 2. <!-- feedback: Es verdadera: si $\sqrt{2}$ fuera racional, el $\gcd$ de numerador y denominador daría un entero positivo cuyo cuadrado es 2, y no existe. -->
 
 ### Explicacion Pedagogica
 La evaluación de propiedades de conjuntos numéricos requiere el uso de contraejemplos. El producto de irracionales es un caso clásico donde el cierre no se cumple.

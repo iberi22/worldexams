@@ -314,9 +314,9 @@ La pendiente de una recta es igual a la tangente del ángulo que forma con el ej
 ¿Cuál es el punto de intersección de las rectas $y = x + 1$ y $y = -x + 5$?
 
 ### Opciones
-- [ ] B) $(3, 4)$ <!-- feedback: Incorrecto. No satisface la segunda ecuación. -->
+- [ ] B) $(3, 4)$ <!-- feedback: Sustituyendo en $y=-x+5$: $-3+5=2\neq4$, así que el punto no pertenece a la segunda recta. -->
 - [x] A) $(2, 3)$ <!-- feedback: Correcto. Igualando: $x + 1 = -x + 5 \Rightarrow 2x = 4 \Rightarrow x = 2$. Entonces $y = 2 + 1 = 3$. -->
-- [ ] C) $(1, 2)$ <!-- feedback: Incorrecto. No satisface la segunda ecuación. -->
+- [ ] C) $(1, 2)$ <!-- feedback: Sustituyendo en $y=-x+5$: $-1+5=4\neq2$, de modo que el punto no está en la segunda recta. -->
 - [ ] D) $(4, 1)$ <!-- feedback: Incorrecto. No satisface la primera ecuación. -->
 
 ### Explicacion Pedagogica

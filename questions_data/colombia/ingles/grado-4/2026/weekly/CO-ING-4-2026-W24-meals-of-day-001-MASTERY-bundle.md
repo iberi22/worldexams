@@ -35,10 +35,10 @@ Este bundle evalúa conceptos de meals of the day en inglés, nivel CEFR A1 para
 I have ________ in the morning.
 
 ### Opciones
-- [x] A) breakfast <!-- feedback: Correct! -->
-- [ ] B) lunch <!-- feedback: No. -->
-- [ ] C) dinner <!-- feedback: No. -->
-- [ ] D) a snack <!-- feedback: No. -->
+- [x] A) breakfast <!-- feedback: Lunch is the midday meal, not the first one of the day. -->
+- [ ] B) lunch <!-- feedback: Dinner is the evening meal, so it does not belong to the morning. -->
+- [ ] C) dinner <!-- feedback: A 'snack' is a small food break, not a full meal of the day. -->
+- [ ] D) a snack <!-- feedback: Correct. Breakfast is the name of the morning meal, the first meal of the day. -->
 
 ### Explicación Pedagógica
 This question evaluates remember skills regarding meals of the day at the CEFR A1 level.
@@ -56,10 +56,10 @@ This question evaluates remember skills regarding meals of the day at the CEFR A
 I have ________ at school at 12:00 PM.
 
 ### Opciones
-- [ ] A) supper <!-- feedback: No. -->
-- [x] B) lunch <!-- feedback: Correct! -->
-- [ ] C) breakfast <!-- feedback: No. -->
-- [ ] D) dinner <!-- feedback: No. -->
+- [ ] A) supper <!-- feedback: Supper is an evening word; at midday the meal is called lunch. -->
+- [x] B) lunch <!-- feedback: Correct. Lunch is the meal eaten at midday, which is 12:00 PM. -->
+- [ ] C) breakfast <!-- feedback: Breakfast is eaten in the morning, not at 12:00 PM. -->
+- [ ] D) dinner <!-- feedback: Dinner is the last meal of the day, eaten at night. -->
 
 ### Explicación Pedagógica
 This question evaluates understand skills regarding meals of the day at the CEFR A1 level.
@@ -77,10 +77,10 @@ This question evaluates understand skills regarding meals of the day at the CEFR
 I have ________ with my family at night.
 
 ### Opciones
-- [ ] A) lunch <!-- feedback: No. -->
-- [ ] B) brunch <!-- feedback: No. -->
-- [x] C) dinner <!-- feedback: Correct! -->
-- [ ] D) breakfast <!-- feedback: No. -->
+- [ ] A) lunch <!-- feedback: Lunch is the midday meal, and the sentence says the meal is at night. -->
+- [ ] B) brunch <!-- feedback: 'Brunch' combines breakfast and lunch and is served late in the morning, not at night. -->
+- [x] C) dinner <!-- feedback: Correct. Dinner is the evening meal, the one a family shares at night. -->
+- [ ] D) breakfast <!-- feedback: Breakfast is the morning meal, so it cannot be the meal at night. -->
 
 ### Explicación Pedagógica
 This question evaluates apply skills regarding meals of the day at the CEFR A1 level.
@@ -98,10 +98,10 @@ This question evaluates apply skills regarding meals of the day at the CEFR A1 l
 A small meal between lunch and dinner is a ________.
 
 ### Opciones
-- [ ] A) feast <!-- feedback: No. -->
-- [ ] B) breakfast <!-- feedback: No. -->
-- [ ] C) lunch <!-- feedback: No. -->
-- [x] D) snack <!-- feedback: Correct! -->
+- [ ] A) feast <!-- feedback: A 'feast' is a large celebration with lots of food, not a small bite between meals. -->
+- [ ] B) breakfast <!-- feedback: Breakfast is the morning meal, not a food eaten between lunch and dinner. -->
+- [ ] C) lunch <!-- feedback: Lunch is the midday meal itself, and the sentence describes something smaller after it. -->
+- [x] D) snack <!-- feedback: Correct. A snack is a small amount of food eaten between two main meals. -->
 
 ### Explicación Pedagógica
 This question evaluates analyze skills regarding meals of the day at the CEFR A1 level.
@@ -119,10 +119,10 @@ This question evaluates analyze skills regarding meals of the day at the CEFR A1
 What do you eat for lunch?
 
 ### Opciones
-- [x] A) Rice, beans, and meat <!-- feedback: Correct! -->
-- [ ] B) Milk and cereal <!-- feedback: No. -->
-- [ ] C) A sandwich <!-- feedback: No. -->
-- [ ] D) Fruit <!-- feedback: No. -->
+- [x] A) Rice, beans, and meat <!-- feedback: Rice, beans and meat together form the main dish of a lunch, which is the typical answer. -->
+- [ ] B) Milk and cereal <!-- feedback: Milk and cereal are eaten at breakfast in the morning. -->
+- [ ] C) A sandwich <!-- feedback: A sandwich is food too, but it is a single item rather than a full lunch dish. -->
+- [ ] D) Fruit <!-- feedback: Fruit is a food, but on its own it is not what a lunch consists of. -->
 
 ### Explicación Pedagógica
 This question evaluates evaluate skills regarding meals of the day at the CEFR A1 level.
@@ -140,10 +140,10 @@ This question evaluates evaluate skills regarding meals of the day at the CEFR A
 Which meal is at 7:00 AM?
 
 ### Opciones
-- [ ] A) Snack <!-- feedback: No. -->
-- [x] B) Breakfast <!-- feedback: Correct! -->
-- [ ] C) Lunch <!-- feedback: No. -->
-- [ ] D) Dinner <!-- feedback: No. -->
+- [ ] A) Snack <!-- feedback: A 'snack' is small and is not a named meal of the day. -->
+- [x] B) Breakfast <!-- feedback: Correct. 7:00 AM is early morning time, and the meal eaten then is breakfast. -->
+- [ ] C) Lunch <!-- feedback: Lunch is eaten at midday, around 12:00 PM. -->
+- [ ] D) Dinner <!-- feedback: Dinner is eaten in the evening, around 7:00 PM. -->
 
 ### Explicación Pedagógica
 This question evaluates apply skills regarding meals of the day at the CEFR A1 level.
@@ -161,10 +161,10 @@ This question evaluates apply skills regarding meals of the day at the CEFR A1 l
 Which meal is at 7:00 PM?
 
 ### Opciones
-- [ ] A) Lunch <!-- feedback: No. -->
-- [ ] B) Brunch <!-- feedback: No. -->
-- [x] C) Dinner <!-- feedback: Correct! -->
-- [ ] D) Breakfast <!-- feedback: No. -->
+- [ ] A) Lunch <!-- feedback: Lunch is the midday meal, around 12:00 PM, not 7:00 PM. -->
+- [ ] B) Brunch <!-- feedback: 'Brunch' is served late in the morning, before midday. -->
+- [x] C) Dinner <!-- feedback: Correct. 7:00 PM is evening time, and the evening meal is dinner. -->
+- [ ] D) Breakfast <!-- feedback: Breakfast is eaten in the morning, around 7:00 AM. -->
 
 ### Explicación Pedagógica
 This question evaluates understand skills regarding meals of the day at the CEFR A1 level.
@@ -182,10 +182,10 @@ This question evaluates understand skills regarding meals of the day at the CEFR
 You eat this in the morning: ________.
 
 ### Opciones
-- [ ] A) pizza <!-- feedback: No. -->
-- [ ] B) hamburger <!-- feedback: No. -->
-- [ ] C) steak <!-- feedback: No. -->
-- [x] D) eggs and toast <!-- feedback: Correct! -->
+- [ ] A) pizza <!-- feedback: 'Pizza' is usually a lunch or dinner food, not a morning food. -->
+- [ ] B) hamburger <!-- feedback: A 'hamburger' is an evening or lunchtime food. -->
+- [ ] C) steak <!-- feedback: 'Steak' is a dinner food, and it is not eaten in the morning. -->
+- [x] D) eggs and toast <!-- feedback: Correct. Eggs and toast are typical breakfast foods eaten in the morning. -->
 
 ### Explicación Pedagógica
 This question evaluates remember skills regarding meals of the day at the CEFR A1 level.

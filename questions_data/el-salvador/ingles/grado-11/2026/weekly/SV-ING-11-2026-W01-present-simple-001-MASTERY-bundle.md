@@ -219,7 +219,7 @@ Which sentence correctly uses the present simple with a time expression?
   <!-- feedback: 'Will' refers to the future; the store schedule is already a fact. -->
 
 ### Explicacion Pedagogica
-Las expresiones como 'every', 'usually' o 'on Mondays' indican的习惯 y por tanto exigen presente simple.
+Las expresiones como 'every', 'usually' o 'on Mondays' indican una costumbre y por tanto exigen presente simple.
 
 ---
 
@@ -494,7 +494,7 @@ Identify the time expression that requires the present simple in the sentence: '
   <!-- feedback: 'Tomorrow' points to the future and requires a future form. -->
 
 ### Explicacion Pedagogica
-'Every Friday' es un marcador de frecuencia habitual que obliga al presente simple.
+'Every Friday' es un marcador de frecuencia habitual que obliga al presente simple. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.
 
 ---
 

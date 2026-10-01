@@ -246,10 +246,10 @@ El estudiante debe evaluar la carga semántica de cada modal. "Must" es el más 
 Your boss says: "You'd better not be late for the meeting." What is the tone of this advice?
 
 ### Opciones
-- [ ] B) It's a friendly suggestion with no consequences. <!-- feedback: Incorrect. "Had better" implies consequences. -->
-- [x] A) It's a strong warning; there might be trouble if you are late. <!-- feedback: Correct! "Had better" is used for warnings. -->
-- [ ] C) It's an invitation to a party. <!-- feedback: Incorrect. -->
-- [ ] D) The boss is asking for your opinion about the time. <!-- feedback: Incorrect. -->
+- [ ] B) It's a friendly suggestion with no consequences. <!-- feedback: 'Had better' carries a warning about consequences, so the tone is not a consequence-free suggestion. -->
+- [x] A) It's a strong warning; there might be trouble if you are late. <!-- feedback: 'You'd better not' warns that being late will have consequences, which matches the strong tone described. -->
+- [ ] C) It's an invitation to a party. <!-- feedback: Nothing in the sentence invites or mentions a party; the boss is giving an instruction about punctuality. -->
+- [ ] D) The boss is asking for your opinion about the time. <!-- feedback: The boss is not asking for an opinion; 'you'd better not' is a directive. -->
 
 ### Explicación Pedagógica
 "Had better" se utiliza para dar consejos urgentes o advertencias donde se implica que ocurrirá algo malo si el consejo no se sigue.

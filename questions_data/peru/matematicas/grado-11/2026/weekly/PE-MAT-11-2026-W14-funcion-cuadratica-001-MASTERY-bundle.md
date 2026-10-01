@@ -387,7 +387,7 @@ Un rectángulo tiene su base sobre el eje $X$ y sus dos vértices superiores sob
 - [x] D) 32 u²
   <!-- feedback: Correcto. Si la base es 4 y está centrada, los extremos son $x=2$ y $x=-2$. La altura es $y = 12 - (2)^2 = 8$. Área = $base \times altura = 4 \times 8 = 32$. -->
 - [ ] C) 24 u²
-  <!-- feedback: Incorrecto. Revise el cálculo de la altura del rectángulo. -->
+  <!-- feedback: La base de 4 centrada en el eje da vértices en x = 2 y x = −2, y la altura es 12 − 2² = 8. El área es 4 × 8 = 32 u², no 24. -->
 
 ### Explicacion Pedagogica
 Debido a la simetría de la parábola respecto al eje $Y$, la base de 4 unidades se extiende desde $x = -2$ hasta $x = 2$. La altura del rectángulo está dada por el valor de la función en esos puntos extremos de la base.

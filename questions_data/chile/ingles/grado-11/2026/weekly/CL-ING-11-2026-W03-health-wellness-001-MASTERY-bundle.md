@@ -255,10 +255,10 @@ A vegan is a person who eats no food that comes from animals, including dairy an
 New vaccines are being developed to combat the emerging strains of the virus.
 
 ### Opciones
-- [ ] A) are developing <!-- feedback: Incorrect. Active voice. -->
+- [ ] A) are developing <!-- feedback: "Are developing" is the active voice: it would make the scientists the ones developing the vaccines. Here the vaccines are the thing being developed, so the sentence needs the passive. -->
 - [x] B) are being developed <!-- feedback: Correct. Present continuous passive for an ongoing action. -->
-- [ ] C) have developed <!-- feedback: Incorrect. Active voice. -->
-- [ ] D) develop <!-- feedback: Incorrect. Active voice. -->
+- [ ] C) have developed <!-- feedback: "Have developed" is active and describes a finished action by someone; the report describes an ongoing process, and the vaccines are what is being developed. -->
+- [ ] D) develop <!-- feedback: The bare infinitive "develop" cannot complete the sentence and would be the active voice, not the passive the situation calls for. -->
 
 ### Explicacion Pedagogica
 The present continuous passive 'are being developed' is used to describe a process currently in progress.
@@ -395,7 +395,7 @@ Universal coverage ensures that all citizens have access to necessary health ser
 He would feel much better now if he had followed the doctor's orders last week.
 
 ### Opciones
-- [ ] A) will feel <!-- feedback: Incorrect. Present/future. -->
+- [ ] A) will feel <!-- feedback: "Would feel" is required because the sentence describes an unreal past situation; "will feel" would state a prediction about the present. -->
 - [x] B) would feel <!-- feedback: Correct. Mixed conditional (past condition, present result). -->
 - [ ] C) would have felt <!-- feedback: Incorrect. Third conditional. -->
 - [ ] D) feels <!-- feedback: Incorrect. Present simple. -->

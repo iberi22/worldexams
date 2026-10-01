@@ -188,13 +188,13 @@ The student applies reading strategies to identify a lack of obligation in a fac
 
 ### Opciones
 - [ ] B) mustn't
-  <!-- feedback: Incorrect. Prohibition. -->
+  <!-- feedback: 'Mustn't' expresses prohibition, and the sentence sets a condition you have to meet, not one you must avoid. -->
 - [x] A) must
-  <!-- feedback: Correct! Expresses a strong personal or parental obligation. -->
+  <!-- feedback: 'Must' expresses the strong obligation implied by 'before you go out'. -->
 - [ ] C) don't have to
-  <!-- feedback: Incorrect. Contradicts the condition for going out. -->
+  <!-- feedback: 'Don't have to' removes the requirement, but the sentence says the room must be clean first. -->
 - [ ] D) are
-  <!-- feedback: Incorrect. Missing auxiliary. -->
+  <!-- feedback: 'Are' would need a present participle after it; the blank calls for a modal verb. -->
 
 ### Explicacion Pedagogica
 The student applies the use of "must" to express a specific condition or obligation in a family context.

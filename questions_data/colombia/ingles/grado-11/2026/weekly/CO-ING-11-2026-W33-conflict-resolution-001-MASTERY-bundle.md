@@ -136,13 +136,13 @@ According to a recent report on conflict resolution in Cali, what is implied abo
 
 ### Opciones
 - [x] A) It serves as a critical tool for nuanced communication.
-  <!-- feedback: Correct. C1+ level reading requires identifying subtle implications about language use. -->
+  <!-- feedback: Correct. Complex prepositions is the point here: a complex preposition such as "at odds with" or "in the wake of" packs a whole relation into one unit, so the conflict is named as a recognized pattern rather than as something that happened only once. Reading that implication is what the question asks. -->
 - [ ] B) It is largely irrelevant to the general public.
-  <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
+  <!-- feedback: This calls the device irrelevant, but the report makes this naming convention central to its argument, so dismissing it contradicts the text. -->
 - [ ] C) It simplifies complex socio-political messages.
-  <!-- feedback: Incorrect. The use of {grammar} actually adds complexity and depth. -->
+  <!-- feedback: This claims the device makes the claim plainer, whereas the preposition adds relational meaning to the message rather than making it plainer. -->
 - [ ] D) It is only used by academic elites in {city}.
-  <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
+  <!-- feedback: This restricts the device to specialists in a single city, but the report presents the usage as common in media and discourse, not as something limited to one city's specialists. -->
 
 ### Explicacion Pedagogica
 This question requires inferential reading skills to understand how complex structures convey deeper meaning.
@@ -161,13 +161,13 @@ According to a recent report on conflict resolution in Cali, what is implied abo
 
 ### Opciones
 - [x] A) It serves as a critical tool for nuanced communication.
-  <!-- feedback: Correct. C1+ level reading requires identifying subtle implications about language use. -->
+  <!-- feedback: Correct. Complex prepositions is the point here: a complex preposition such as "at odds with" or "in the wake of" packs a whole relation into one unit, so the conflict is named as a recognized pattern rather than as something that happened only once. Reading that implication is what the question asks. -->
 - [ ] B) It is largely irrelevant to the general public.
-  <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
+  <!-- feedback: This calls the device irrelevant, but the report makes this naming convention central to its argument, so dismissing it contradicts the text. -->
 - [ ] C) It simplifies complex socio-political messages.
-  <!-- feedback: Incorrect. The use of {grammar} actually adds complexity and depth. -->
+  <!-- feedback: This claims the device makes the claim plainer, whereas the preposition adds relational meaning to the message rather than making it plainer. -->
 - [ ] D) It is only used by academic elites in {city}.
-  <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
+  <!-- feedback: This restricts the device to specialists in a single city, but the report presents the usage as common in media and discourse, not as something limited to one city's specialists. -->
 
 ### Explicacion Pedagogica
 This question requires inferential reading skills to understand how complex structures convey deeper meaning.
@@ -186,13 +186,13 @@ According to a recent report on conflict resolution in Barranquilla, what is imp
 
 ### Opciones
 - [x] A) It serves as a critical tool for nuanced communication.
-  <!-- feedback: Correct. C1+ level reading requires identifying subtle implications about language use. -->
+  <!-- feedback: Correct. Complex prepositions is the point here: a complex preposition such as "at odds with" or "in the wake of" packs a whole relation into one unit, so the conflict is named as a recognized pattern rather than as something that happened only once. Reading that implication is what the question asks. -->
 - [ ] B) It is largely irrelevant to the general public.
-  <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
+  <!-- feedback: This calls the device irrelevant, but the report makes this naming convention central to its argument, so dismissing it contradicts the text. -->
 - [ ] C) It simplifies complex socio-political messages.
-  <!-- feedback: Incorrect. The use of {grammar} actually adds complexity and depth. -->
+  <!-- feedback: This claims the device makes the claim plainer, whereas the preposition adds relational meaning to the message rather than making it plainer. -->
 - [ ] D) It is only used by academic elites in {city}.
-  <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
+  <!-- feedback: This restricts the device to specialists in a single city, but the report presents the usage as common in media and discourse, not as something limited to one city's specialists. -->
 
 ### Explicacion Pedagogica
 This question requires inferential reading skills to understand how complex structures convey deeper meaning.
@@ -211,13 +211,13 @@ According to a recent report on conflict resolution in Cali, what is implied abo
 
 ### Opciones
 - [x] C) It serves as a critical tool for nuanced communication.
-  <!-- feedback: Correct. C1+ level reading requires identifying subtle implications about language use. -->
+  <!-- feedback: Correct. Complex prepositions is the point here: a complex preposition such as "at odds with" or "in the wake of" packs a whole relation into one unit, so the conflict is named as a recognized pattern rather than as something that happened only once. Reading that implication is what the question asks. -->
 - [ ] A) It is largely irrelevant to the general public.
-  <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
+  <!-- feedback: This calls the device irrelevant, but the report makes this naming convention central to its argument, so dismissing it contradicts the text. -->
 - [ ] B) It simplifies complex socio-political messages.
-  <!-- feedback: Incorrect. The use of {grammar} actually adds complexity and depth. -->
+  <!-- feedback: This claims the device makes the claim plainer, whereas the preposition adds relational meaning to the message rather than making it plainer. -->
 - [ ] D) It is only used by academic elites in {city}.
-  <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
+  <!-- feedback: This restricts the device to specialists in a single city, but the report presents the usage as common in media and discourse, not as something limited to one city's specialists. -->
 
 ### Explicacion Pedagogica
 This question requires inferential reading skills to understand how complex structures convey deeper meaning.
@@ -236,13 +236,13 @@ According to a recent report on conflict resolution in Bogotá, what is implied 
 
 ### Opciones
 - [x] B) It serves as a critical tool for nuanced communication.
-  <!-- feedback: Correct. C1+ level reading requires identifying subtle implications about language use. -->
+  <!-- feedback: Correct. Complex prepositions is the point here: a complex preposition such as "at odds with" or "in the wake of" packs a whole relation into one unit, so the conflict is named as a recognized pattern rather than as something that happened only once. Reading that implication is what the question asks. -->
 - [ ] A) It is largely irrelevant to the general public.
-  <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
+  <!-- feedback: This calls the device irrelevant, but the report makes this naming convention central to its argument, so dismissing it contradicts the text. -->
 - [ ] C) It simplifies complex socio-political messages.
-  <!-- feedback: Incorrect. The use of {grammar} actually adds complexity and depth. -->
+  <!-- feedback: This claims the device makes the claim plainer, whereas the preposition adds relational meaning to the message rather than making it plainer. -->
 - [ ] D) It is only used by academic elites in {city}.
-  <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
+  <!-- feedback: This restricts the device to specialists in a single city, but the report presents the usage as common in media and discourse, not as something limited to one city's specialists. -->
 
 ### Explicacion Pedagogica
 This question requires inferential reading skills to understand how complex structures convey deeper meaning.
@@ -261,13 +261,13 @@ According to a recent report on conflict resolution in Cartagena, what is implie
 
 ### Opciones
 - [x] D) It serves as a critical tool for nuanced communication.
-  <!-- feedback: Correct. C1+ level reading requires identifying subtle implications about language use. -->
+  <!-- feedback: Correct. Complex prepositions is the point here: a complex preposition such as "at odds with" or "in the wake of" packs a whole relation into one unit, so the conflict is named as a recognized pattern rather than as something that happened only once. Reading that implication is what the question asks. -->
 - [ ] A) It is largely irrelevant to the general public.
-  <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
+  <!-- feedback: This calls the device irrelevant, but the report makes this naming convention central to its argument, so dismissing it contradicts the text. -->
 - [ ] B) It simplifies complex socio-political messages.
-  <!-- feedback: Incorrect. The use of {grammar} actually adds complexity and depth. -->
+  <!-- feedback: This claims the device makes the claim plainer, whereas the preposition adds relational meaning to the message rather than making it plainer. -->
 - [ ] C) It is only used by academic elites in {city}.
-  <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
+  <!-- feedback: This restricts the device to specialists in a single city, but the report presents the usage as common in media and discourse, not as something limited to one city's specialists. -->
 
 ### Explicacion Pedagogica
 This question requires inferential reading skills to understand how complex structures convey deeper meaning.

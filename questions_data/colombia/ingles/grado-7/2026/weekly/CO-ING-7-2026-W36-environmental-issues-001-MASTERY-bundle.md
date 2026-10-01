@@ -214,7 +214,7 @@ Why is global warming a threat to coastal cities?
 
 ### Opciones
 - [ ] A) Because there will be more fish.
-  <!-- feedback: Incorrect. -->
+  <!-- feedback: More fish would be a benefit rather than a threat, and warming seas actually drive some fish away from coastal waters. -->
 - [x] C) Because rising sea levels can cause flooding of homes.
   <!-- feedback: Correct! "Sea levels rise" and "houses might go under water" explain the threat. -->
 - [ ] B) Because the water will be too hot for swimming.
@@ -265,7 +265,7 @@ What is the main message of this slogan?
 
 ### Opciones
 - [ ] A) We should live in trash cans.
-  <!-- feedback: Incorrect. -->
+  <!-- feedback: Living in a trash can is a literal reading of the words 'our home' and 'trash'; a slogan is meant figuratively, and nothing here suggests it. -->
 - [ ] B) Pollution is only a problem on the streets.
   <!-- feedback: Incorrect. The Earth is a global home. -->
 - [x] C) We must respect our planet and stop contaminating it.

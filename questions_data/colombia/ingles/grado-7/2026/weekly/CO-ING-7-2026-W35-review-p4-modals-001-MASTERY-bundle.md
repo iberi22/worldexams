@@ -89,9 +89,9 @@ The student identifies the correct modal for a formal prohibition.
 - [x] C) should
   <!-- feedback: Correct! "Should" is the appropriate modal for giving medical advice. -->
 - [ ] A) mustn't
-  <!-- feedback: Incorrect. Contradicts the advice. -->
+  <!-- feedback: "Mustn't" states a strict prohibition, which is far stronger than the recommendation to stay home and rest. -->
 - [ ] B) shouldn't
-  <!-- feedback: Incorrect. Contradicts the advice. -->
+  <!-- feedback: The sentence advises staying home, so a negative modal works against the meaning rather than with it. -->
 - [ ] D) has to
   <!-- feedback: Incorrect. Grammar error (needs "have to" or "must" for obligation, but "should" is better for advice). -->
 
@@ -116,9 +116,9 @@ The student understands the use of "should" for providing helpful suggestions.
 - [x] B) How
   <!-- feedback: Correct! "How can I get to..." is used to ask for directions or means of transport. -->
 - [ ] C) What
-  <!-- feedback: Incorrect. -->
+  <!-- feedback: "What can I get to...?" is not a working question phrase; the speaker is asking for the way, not for a thing. -->
 - [ ] D) When
-  <!-- feedback: Incorrect. -->
+  <!-- feedback: "When" asks about time, but the speaker needs directions and a means of transport. -->
 
 ### Explicacion Pedagogica
 The student understands the functional language for asking how to reach a destination.
@@ -194,7 +194,7 @@ The student applies reading comprehension to distinguish between advice, obligat
 - [ ] B) over
   <!-- feedback: Incorrect. Unless there is a bridge, you walk across. -->
 - [ ] D) under
-  <!-- feedback: Incorrect. -->
+  <!-- feedback: "Under" would put you below the street, while the preposition for walking alongside a street is "along". -->
 
 ### Explicacion Pedagogica
 The student applies the correct movement preposition to a directional instruction.

@@ -29,10 +29,10 @@ creador: "Jules-Agent"
 Choose the correct modal verb for ability: "I _______ play the guitar very well, but I _______ swim."
 
 ### Opciones
-- [ ] A) can't / can <!-- feedback: Esto diría que no sabés tocar la guitarra pero sí nadar; gramaticalmente es posible pero 'can' suele ser la primera opción para habilidades positivas. -->
-- [x] D) can / can't <!-- feedback: ¡Correcto! 'Can' se usa para habilidades y 'can't' para la falta de habilidad. -->
-- [ ] B) could / couldn't <!-- feedback: Estas son las formas de pasado, pero Martina habla de sus habilidades actuales. -->
-- [ ] C) must / mustn't <!-- feedback: 'Must' indica obligación, no habilidad física o mental. -->
+- [ ] A) can't / can <!-- feedback: This pair reverses the meaning: it says she cannot play the guitar but can swim, which contradicts the sentence. -->
+- [x] D) can / can't <!-- feedback: Correct. 'Can' states an ability and 'can't' denies it: the guitar is the skill she has and swimming is the one she lacks, so 'can / can't' is the right pair. -->
+- [ ] B) could / couldn't <!-- feedback: 'Could' and 'couldn't' refer to ability in the past, but Martina is talking about what she can do now. -->
+- [ ] C) must / mustn't <!-- feedback: 'Must' and 'mustn't' express obligation or prohibition, never physical or mental ability. -->
 
 ### Explicacion Pedagogica
 Cuando querés decir que sabés hacer algo (como tocar la guitarra), usás "can". Si no sabés o no podés, usás "can't". Es el verbo más básico para hablar de tus talentos en la escuela.
@@ -50,10 +50,10 @@ Cuando querés decir que sabés hacer algo (como tocar la guitarra), usás "can"
 Which modal verb indicates a strong prohibition? "You _______ touch the paintings in the museum."
 
 ### Opciones
-- [ ] A) don't have to <!-- feedback: Esto significa que no es necesario hacerlo, pero no que esté prohibido. -->
-- [x] C) mustn't <!-- feedback: ¡Muy bien! 'Mustn't' es el verbo para las prohibiciones y reglas estrictas. -->
-- [ ] B) shouldn't <!-- feedback: 'Shouldn't' es un consejo, pero en un museo tocar las obras está directamente prohibido. -->
-- [ ] D) can't <!-- feedback: Aunque se usa informalmente, 'mustn't' es la forma específica para prohibiciones oficiales. -->
+- [ ] A) don't have to <!-- feedback: 'Don't have to' says it is not necessary, which leaves the action optional instead of forbidden. -->
+- [x] C) mustn't <!-- feedback: Correct. 'Mustn't' is the modal for a strong prohibition, and museum rules forbid touching the paintings under any circumstance. -->
+- [ ] B) shouldn't <!-- feedback: 'Shouldn't' gives advice not to touch the paintings, which is weaker than a rule that forbids it outright. -->
+- [ ] D) can't <!-- feedback: 'Can't' states a physical impossibility. It does appear on informal signs, but 'mustn't' is the form used for an official prohibition. -->
 
 ### Explicacion Pedagogica
 En lugares con reglas estrictas (como el MNBA), usás "mustn't" para decir que algo está prohibido. Significa que NO tenés permitido hacerlo bajo ninguna circunstancia.
@@ -71,10 +71,10 @@ En lugares con reglas estrictas (como el MNBA), usás "mustn't" para decir que a
 Which modal verb is used to give a recommendation or advice? "You _______ study more if you want to pass your final exam."
 
 ### Opciones
-- [ ] A) must <!-- feedback: Suena demasiado fuerte, como una orden de un superior más que un consejo entre amigos. -->
-- [x] C) should <!-- feedback: ¡Exacto! 'Should' es el verbo estándar para dar consejos y sugerencias. -->
-- [ ] B) can <!-- feedback: Indica posibilidad, pero no la recomendación de hacerlo. -->
-- [ ] D) have to <!-- feedback: Indica una obligación externa, no un consejo personal. -->
+- [ ] A) must <!-- feedback: 'Must' makes the advice sound like an order from someone in authority rather than a tip between friends. -->
+- [x] C) should <!-- feedback: Correct. 'Should' is the standard modal for giving advice and suggestions; it works like the Spanish 'deberías'. -->
+- [ ] B) can <!-- feedback: 'Can' expresses ability or possibility, and it does not recommend anything to the listener. -->
+- [ ] D) have to <!-- feedback: 'Have to' marks an obligation imposed from outside, while the sentence offers personal advice. -->
 
 ### Explicacion Pedagogica
 Para ser un buen amigo y dar un consejo, usás "should". Es como decirle "deberías" a alguien en castellano. No es una orden, sino una sugerencia para que le vaya bien en el examen.
@@ -92,10 +92,10 @@ Para ser un buen amigo y dar un consejo, usás "should". Es como decirle "deber�
 Choose the correct modal for a strong external obligation (rules): "To travel to Iguazú by plane, you _______ show your ID or passport at the gate."
 
 ### Opciones
-- [ ] B) should <!-- feedback: Mostrar el documento no es un consejo, es obligatorio. -->
-- [ ] C) can <!-- feedback: No es una opción, es algo requerido por la ley. -->
-- [x] A) have to <!-- feedback: ¡Correcto! 'Have to' se usa para obligaciones impuestas por reglas externas o leyes. -->
-- [ ] D) might <!-- feedback: Esto indica una posibilidad remota, no una obligación. -->
+- [ ] B) should <!-- feedback: 'Should' would make showing the ID a mere recommendation, but the airport requires it, so that is too weak. -->
+- [ ] C) can <!-- feedback: 'Can' states ability or possibility; showing a document at the gate is required, not optional. -->
+- [x] A) have to <!-- feedback: Correct. 'Have to' expresses an obligation that comes from an external rule or law, and the ID requirement at the gate is exactly that. -->
+- [ ] D) might <!-- feedback: 'Might' expresses a remote possibility, which would wrongly suggest the passport is optional. -->
 
 ### Explicacion Pedagogica
 Cuando la obligación viene de una ley o reglamento (como en Aeroparque o Ezeiza), lo más común es usar "have to". Tenés que mostrar el DNI porque es la regla para poder subir al avión.
@@ -113,10 +113,10 @@ Cuando la obligación viene de una ley o reglamento (como en Aeroparque o Ezeiza
 Which modal verb expresses a 50% possibility? "I'm not sure yet. I _______ go to the cinema or I _______ stay at home."
 
 ### Opciones
-- [ ] A) must / must <!-- feedback: Esto indicaría obligación, no duda. -->
-- [x] C) might / might <!-- feedback: ¡Muy bien! 'Might' se usa para posibilidades de las que no estamos seguros. -->
-- [ ] B) should / should <!-- feedback: Esto sería darte consejos a vos mismo, no expresar duda sobre un plan. -->
-- [ ] D) can't / can't <!-- feedback: Esto negaría ambas opciones por completo. -->
+- [ ] A) must / must <!-- feedback: Repeating 'must' states a strong obligation twice, which cannot express doubt about a weekend plan. -->
+- [x] C) might / might <!-- feedback: Correct. 'Might' marks a possibility the speaker is not sure about, and both halves of the sentence need that uncertainty. -->
+- [ ] B) should / should <!-- feedback: 'Should' in both blanks would give advice to yourself instead of admitting that you have not decided. -->
+- [ ] D) can't / can't <!-- feedback: 'Can't' in both blanks would rule out both options completely, which is the opposite of being undecided. -->
 
 ### Explicacion Pedagogica
 Si todavía no decidiste qué vas a hacer (como Martina el sábado), usás "might". Indica que hay una chance, pero que no es algo seguro. Es el verbo de la indecisión.
@@ -134,10 +134,10 @@ Si todavía no decidiste qué vas a hacer (como Martina el sábado), usás "migh
 Choose the correct option for lack of obligation: "The meeting started late, so you _______ hurry. You have plenty of time."
 
 ### Opciones
-- [ ] B) mustn't <!-- feedback: Esto significaría que está prohibido apurarse, lo cual no tiene sentido. -->
-- [x] A) don't have to <!-- feedback: ¡Exacto! Significa que no es necesario apurarse, no hay obligación. -->
-- [ ] C) shouldn't <!-- feedback: Sería un consejo de no apurarse, pero 'don't have to' es más preciso para la falta de necesidad. -->
-- [ ] D) can't <!-- feedback: Significa que no tenés la capacidad física de apurarte. -->
+- [ ] B) mustn't <!-- feedback: 'Mustn't' would say you are forbidden to hurry, and nothing in the sentence suggests that. -->
+- [x] A) don't have to <!-- feedback: Correct. 'Don't have to' says it is not necessary to hurry, which matches having plenty of time. -->
+- [ ] C) shouldn't <!-- feedback: 'Shouldn't' is advice against hurrying; 'don't have to' is more precise because the need itself does not exist. -->
+- [ ] D) can't <!-- feedback: 'Can't' claims you are physically unable to hurry, which is a completely different claim from the one the sentence makes. -->
 
 ### Explicacion Pedagogica
 "Don't have to" es una frase muy útil. Significa que NO ES NECESARIO hacer algo. Si tenés tiempo de sobra, no tenés por qué correr. No está prohibido, simplemente no hace falta.
@@ -155,10 +155,10 @@ Choose the correct option for lack of obligation: "The meeting started late, so 
 Which sentence expresses a personal obligation (from the speaker's feelings)?
 
 ### Opciones
-- [x] B) I must buy a present for my mom's birthday. <!-- feedback: ¡Muy bien! 'Must' suele usarse para obligaciones que uno se impone a sí mismo por sentimiento o deber interno. -->
-- [ ] A) I have to wear a uniform at school. <!-- feedback: Esto es una regla impuesta por la institución, no una decisión personal. -->
-- [ ] C) I should buy a present. <!-- feedback: Esto es un consejo, no una obligación sentida como necesaria. -->
-- [ ] D) I can buy a present. <!-- feedback: Solo indica que tenés la capacidad o el dinero para hacerlo. -->
+- [x] B) I must buy a present for my mom's birthday. <!-- feedback: Correct. 'Must' expresses an obligation the speaker feels from the inside, and buying a present for your mother's birthday fits that sense of duty. -->
+- [ ] A) I have to wear a uniform at school. <!-- feedback: 'Have to' states an obligation imposed by the institution, so it describes a rule rather than a personal feeling. -->
+- [ ] C) I should buy a present. <!-- feedback: 'Should' would only recommend the action, which is weaker than the necessity the sentence expresses. -->
+- [ ] D) I can buy a present. <!-- feedback: 'Can' merely states that you have the ability or the money, not that you feel you must. -->
 
 ### Explicacion Pedagogica
 A veces la diferencia es sutil. Si vos sentís que TENÉS que hacer algo porque te nace (como comprar un regalo), usás "must". Si lo hacés porque alguien más te obliga (la escuela o el trabajo), usás "have to". ¡Es una distinción de sentimientos!
@@ -176,10 +176,10 @@ A veces la diferencia es sutil. Si vos sentís que TENÉS que hacer algo porque 
 Which modal verb is used for a strong logical deduction (90% certainty)? "He is wearing a Messi jersey and celebrating. He _______ be a football fan."
 
 ### Opciones
-- [ ] B) can <!-- feedback: Indica posibilidad general, pero queremos expresar que estamos casi seguros. -->
-- [x] A) must <!-- feedback: ¡Correcto! 'Must' se usa para deducciones lógicas donde estamos casi convencidos de algo. -->
-- [ ] C) should <!-- feedback: 'Should' se usa para lo que esperamos que pase, no para una deducción sobre el presente. -->
-- [ ] D) might <!-- feedback: Esto indicaría que hay una chance remota, pero la evidencia de la camiseta es muy fuerte. -->
+- [ ] B) can <!-- feedback: 'Can' expresses general possibility, and here the evidence makes the speaker almost certain. -->
+- [x] A) must <!-- feedback: Correct. 'Must' is the modal used for a strong logical deduction, and the Messi jersey plus the celebration are strong evidence. -->
+- [ ] C) should <!-- feedback: 'Should' is used for what we expect to happen, not for a deduction about what is true now. -->
+- [ ] D) might <!-- feedback: 'Might' leaves room for doubt, and the evidence is far stronger than that. -->
 
 ### Explicacion Pedagogica
 Usamos "must" para adivinar con mucha seguridad. Si ves a alguien con la camiseta de la selección festejando, deducís que "debe ser" un fanático del fútbol. Es una conclusión lógica basada en lo que ves.
@@ -197,10 +197,10 @@ Usamos "must" para adivinar con mucha seguridad. Si ves a alguien con la camiset
 What is the opposite of 'must' for negative logical deductions? "She lives in Argentina but doesn't know where the Obelisco is? She _______ be from Buenos Aires."
 
 ### Opciones
-- [ ] B) mustn't <!-- feedback: 'Mustn't' es para prohibiciones, no se usa para deducciones lógicas negativas. -->
-- [x] A) can't <!-- feedback: ¡Excelente! 'Can't' es el verbo para decir "es imposible que sea así" (deducción negativa). -->
-- [ ] C) shouldn't <!-- feedback: Esto sería un consejo de no ser de Buenos Aires, lo cual no tiene sentido. -->
-- [ ] D) might not <!-- feedback: Indica una duda, pero acá la sorpresa sugiere que estamos casi seguros de que NO es de ahí. -->
+- [ ] B) mustn't <!-- feedback: 'Mustn't' expresses prohibition, which has no use in a deduction about the present. -->
+- [x] A) can't <!-- feedback: Correct. 'Can't' is the modal for a negative deduction: it states that it is impossible for her to be from Buenos Aires. -->
+- [ ] C) shouldn't <!-- feedback: 'Shouldn't' would be advice about where she ought to live, which is not what the sentence is doing. -->
+- [ ] D) might not <!-- feedback: 'Might not' expresses doubt, and here the speaker is close to certain that it is not the case. -->
 
 ### Explicacion Pedagogica
 Esta es una trampa común. Si estás seguro de que algo NO es cierto, usás "can't". Decís "She can't be from Buenos Aires" porque te parece imposible que viviendo acá no sepa qué es el Obelisco. ¡Ojo que no se usa "mustn't" para esto!
@@ -218,10 +218,10 @@ Esta es una trampa común. Si estás seguro de que algo NO es cierto, usás "can
 Evaluate the level of formality: Which question is the most polite/formal to ask for permission?
 
 ### Opciones
-- [ ] A) Can I go to the bathroom? <!-- feedback: Es la forma más común y aceptable, pero no la más formal. -->
-- [ ] C) Could I go to the bathroom? <!-- feedback: Es más educada que 'can', pero todavía hay una opción superior en formalidad. -->
-- [x] B) May I go to the bathroom? <!-- feedback: ¡Correcto! 'May' es el verbo modal más formal y respetuoso para pedir permiso. -->
-- [ ] D) Must I go to the bathroom? <!-- feedback: Esto significaría preguntarte a vos mismo si tenés la obligación de ir, lo cual es muy raro. -->
+- [ ] A) Can I go to the bathroom? <!-- feedback: 'Can I?' is the everyday way to ask permission and is fine with friends, but it is not the most formal form. -->
+- [ ] C) Could I go to the bathroom? <!-- feedback: 'Could I?' is politer than 'can I' and is often used to soften a request, but a more formal option exists. -->
+- [x] B) May I go to the bathroom? <!-- feedback: Correct. 'May I' is the most formal and respectful way to ask permission, and it is used with teachers and elders. -->
+- [ ] D) Must I go to the bathroom? <!-- feedback: 'Must I?' asks whether you yourself are obliged to go, which is not a request for permission at all. -->
 
 ### Explicacion Pedagogica
 En inglés, el grado de respeto cambia según el verbo que elijas. Si querés ser súper educado con un profesor o alguien mayor, usá "May I...?". El "Can I...?" está bien entre amigos, pero el "May" te hace quedar como un caballero o una dama.
@@ -241,10 +241,10 @@ What is the difference in meaning?
 2. You should see a doctor.
 
 ### Opciones
-- [x] D) 1 is an urgent necessity/order; 2 is a friendly recommendation. <!-- feedback: ¡Exacto! 'Must' transmite mucha más urgencia y autoridad que 'should'. -->
-- [ ] A) 1 is about the past; 2 is about the future. <!-- feedback: Ambos se refieren al presente o futuro cercano. -->
-- [ ] B) 1 is a rule from a book; 2 is a personal feeling. <!-- feedback: No necesariamente; 'must' puede ser un sentimiento muy fuerte de urgencia. -->
-- [ ] C) Both have exactly the same level of intensity. <!-- feedback: No, 'must' es mucho más fuerte e imperativo. -->
+- [x] D) 1 is an urgent necessity/order; 2 is a friendly recommendation. <!-- feedback: Correct. 'Must' carries urgency and authority, so sentence 1 is a necessity while 'should' in sentence 2 is only a friendly recommendation. -->
+- [ ] A) 1 is about the past; 2 is about the future. <!-- feedback: Both sentences are about what should happen now or soon, so neither one refers to the past. -->
+- [ ] B) 1 is a rule from a book; 2 is a personal feeling. <!-- feedback: 'Must' can come from a personal sense of duty, not only from a rule written in a book. -->
+- [ ] C) Both have exactly the same level of intensity. <!-- feedback: The two are not equally strong: 'must' is far more urgent and authoritative than 'should'. -->
 
 ### Explicacion Pedagogica
 Si ves a alguien muy enfermo, le decís "You must see a doctor" porque es urgente. El "should" es más suave, como decirle "te convendría ir". Usar uno u otro cambia qué tan preocupado parecés.
@@ -262,10 +262,10 @@ Si ves a alguien muy enfermo, le decís "You must see a doctor" porque es urgent
 Identify the correct structure to criticize a past action: "You _______ so much alfajores yesterday! Now you have a stomach ache."
 
 ### Opciones
-- [ ] A) shouldn't eat <!-- feedback: Esto es para el presente o futuro; para el pasado necesitamos otra estructura. -->
-- [x] B) shouldn't have eaten <!-- feedback: ¡Excelente! 'Shouldn't have' + participio se usa para lamentar o criticar algo que ya pasó. -->
-- [ ] C) mustn't have eaten <!-- feedback: Esto se usa para deducciones negativas sobre el pasado, no para críticas. -->
-- [ ] D) couldn't have eaten <!-- feedback: Significaría que era imposible que comieras tanto, no es una crítica. -->
+- [ ] A) shouldn't eat <!-- feedback: 'Shouldn't eat' refers to the present or the future, but the eating already happened yesterday. -->
+- [x] B) shouldn't have eaten <!-- feedback: Correct. 'Shouldn't have' plus the past participle criticises or regrets an action that is already finished. -->
+- [ ] C) mustn't have eaten <!-- feedback: 'Mustn't have' is used to conclude that something did not happen, not to criticise what somebody did. -->
+- [ ] D) couldn't have eaten <!-- feedback: 'Couldn't have' would say it was impossible that you ate that much, which is a different claim. -->
 
 ### Explicacion Pedagogica
 Esta es una estructura avanzada: Modal + have + Participio. Si te querés quejar de algo que alguien ya hizo (y que no debería haber hecho), decís "You shouldn't have eaten". Es el tiempo verbal de los arrepentimientos. ¡No te pases con los alfajores la próxima vez!

@@ -204,10 +204,10 @@ La palabra "just" se coloca entre el auxiliar y el participio para indicar que u
 Where is Maria? She's ________ to the supermarket. She'll be back in ten minutes.
 
 ### Opciones
-- [ ] A) been <!-- feedback: Incorrect. "Been" means she went and came back. -->
-- [x] B) gone <!-- feedback: Correct! "Gone" means she is still at the destination or on her way there. -->
-- [ ] C) went <!-- feedback: Incorrect. We need a participle after "has" ('s). -->
-- [ ] D) go <!-- feedback: Incorrect. -->
+- [ ] A) been <!-- feedback: 'Been' says she went and came back, but she has not returned yet. -->
+- [x] B) gone <!-- feedback: Correct. 'Has gone to' says she left and is still at the destination or on her way, which matches 'she'll be back in ten minutes'. -->
+- [ ] C) went <!-- feedback: 'Went' is the past simple form; after 'has' the verb must be a past participle. -->
+- [ ] D) go <!-- feedback: 'Go' is the base form, and the Present Perfect needs the past participle 'gone' after 'has'. -->
 
 ### Explicación Pedagógica
 En Presente Perfecto, "been" indica que el viaje se completó (fue y volvió), mientras que "gone" indica que la persona aún está allá.

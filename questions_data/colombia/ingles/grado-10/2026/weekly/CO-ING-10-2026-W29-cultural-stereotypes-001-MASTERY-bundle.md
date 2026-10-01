@@ -266,10 +266,10 @@ Using 'put forward' to describe the presentation of a formal academic or social 
 "Instead of ____ to old prejudices, we should ____ new ways of thinking about diversity."
 
 ### Opciones
-- [ ] A) keeping / making <!-- feedback: Incorrect. -->
-- [x] D) holding on / opening up to <!-- feedback: Correct. Two phrasal verbs for social change. -->
-- [ ] B) going back / taking in <!-- feedback: Incorrect. -->
-- [ ] C) giving up / looking for <!-- feedback: Incorrect meaning. -->
+- [ ] A) keeping / making <!-- feedback: 'Keeping to' means limiting oneself, so it does not express clinging to an old prejudice, and 'making new ways' is not the phrasal pair meant. -->
+- [x] D) holding on / opening up to <!-- feedback: 'Going back to' suggests returning, and 'taking in new ways' means absorbing ideas rather than opening oneself to a different mindset. -->
+- [ ] B) going back / taking in <!-- feedback: Correct. 'Holding on to old prejudices' means keeping them stubbornly, and 'opening up to new ways of thinking' is its opposite, so the pair expresses a shift in mindset. -->
+- [ ] C) giving up / looking for <!-- feedback: 'Giving up on prejudices' means stopping the effort entirely, which is the opposite of the change the sentence calls for. -->
 
 ### Explicación Pedagógica
 Mastery level: Combining two related phrasal verbs ('hold on to' vs 'open up to') to describe a shift in social mindset.

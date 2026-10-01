@@ -90,7 +90,7 @@ Qual é a fórmula para calcular a soma dos $n$ primeiros termos ($S_n$) de uma 
 - [ ] B) $S_n = (a_1 + a_n) \cdot n$ <!-- feedback: Falta dividir por 2 na fórmula. -->
 - [x] A) $S_n = \frac{(a_1 + a_n) \cdot n}{2}$ <!-- feedback: Correto. É a média aritmética dos extremos multiplicada pelo número de termos. -->
 - [ ] C) $S_n = a_1 + (n-1)r$ <!-- feedback: Esta é a fórmula do termo geral, não da soma. -->
-- [ ] D) $S_n = n \cdot r$ <!-- feedback: Incorreto. -->
+- [ ] D) $S_n = n \cdot r$ <!-- feedback: A fórmula correta é Sₙ = n(a₁ + aₙ)/2; a razão é a diferença entre termos, e ela não aparece isolada na soma. -->
 
 ### Explicacion Pedagogica
 A soma dos termos de uma PA pode ser visualizada pareando os termos (primeiro com último, segundo com penúltimo, etc.), onde cada par tem a mesma soma. O resultado é a soma de um par ($a_1 + a_n$) multiplicado pela quantidade de pares ($n/2$).
@@ -204,7 +204,7 @@ Insira 3 meios aritméticos entre os números 5 e 21. Qual é a razão da PA for
 - [ ] B) 5 <!-- feedback: Se r=5, a sequência seria 5, 10, 15, 20, 25. O último seria 25, não 21. -->
 - [x] A) 4 <!-- feedback: Com 3 meios, temos 5 termos no total. 21 = 5 + 4r => 16 = 4r => r = 4. PA: (5, 9, 13, 17, 21). -->
 - [ ] C) 3 <!-- feedback: Se r=3, o 5º termo seria 17. -->
-- [ ] D) 2 <!-- feedback: Incorreto. -->
+- [ ] D) 2 <!-- feedback: Com 3 meios aritméticos são 5 termos no total, e 21 − 5 = 16 = 4r dá r = 4, e não 2. -->
 
 ### Explicacion Pedagogica
 Inserir 3 meios aritméticos entre 5 e 21 significa criar uma PA onde $a_1 = 5$ e $a_5 = 21$. Pela fórmula: $21 = 5 + (5-1) \cdot r \Rightarrow 16 = 4r \Rightarrow r = 4$.
@@ -220,7 +220,7 @@ Inserir 3 meios aritméticos entre 5 e 21 significa criar uma PA onde $a_1 = 5$ 
 Em uma PA, a soma dos $n$ primeiros termos é dada por $S_n = n^2 + 2n$. Qual é o valor do primeiro termo $a_1$ e da razão $r$?
 
 ### Opciones
-- [ ] A) $a_1 = 3, r = 3$ <!-- feedback: Incorreto. -->
+- [ ] A) $a_1 = 3, r = 3$ <!-- feedback: O primeiro termo está certo, mas S₂ = 2² + 2·2 = 8 dá a₂ = 5 e portanto r = 5 − 3 = 2, e não 3. -->
 - [x] D) $a_1 = 3, r = 2$ <!-- feedback: S1 = a1 = 1² + 2(1) = 3. S2 = a1 + a2 = 2² + 2(2) = 8. Logo a2 = 5 e r = 5-3 = 2. -->
 - [ ] B) $a_1 = 1, r = 2$ <!-- feedback: S1 daria 3, não 1. -->
 - [ ] C) $a_1 = 3, r = 1$ <!-- feedback: Se r=1, a2 seria 4 e S2 seria 7, mas S2 pela fórmula é 8. -->
@@ -282,7 +282,7 @@ Representamos os termos como $(x-r, x, x+r)$. A soma é $(x-r) + x + (x+r) = 3x 
 Em uma PA, $a_1 + a_9 = 20$. Qual é o valor de $a_5$?
 
 ### Opciones
-- [ ] B) 5 <!-- feedback: Incorreto. -->
+- [ ] B) 5 <!-- feedback: Os termos equidistantes dos extremos somam o mesmo valor: a₁ + a₉ = a₅ + a₅ = 20, então a₅ = 10, e não 5. -->
 - [x] A) 10 <!-- feedback: Pela propriedade dos termos equidistantes, a1+a9 = a5+a5 = 2*a5. Logo a5 = 20/2 = 10. -->
 - [ ] C) 20 <!-- feedback: Este é o valor da soma dos extremos. -->
 - [ ] D) Não é possível determinar sem a razão. <!-- feedback: É possível sim, pois a5 é o termo médio exato entre a1 e a9. -->
@@ -345,7 +345,7 @@ Para quais valores de $x$ a sequência $(\log x, \log 2x, \log 4x)$ forma uma PA
 - [ ] B) Somente para $x = 1$. <!-- feedback: Na verdade, qualquer x positivo satisfaz a condição. -->
 - [x] A) Para todo $x > 0$. <!-- feedback: Razão r = log(2x) - log(x) = log(2x/x) = log 2. Como a razão é constante independente de x, é sempre PA. -->
 - [ ] C) Para nenhum valor de $x$. <!-- feedback: A sequência sempre possui uma diferença constante. -->
-- [ ] D) Somente para $x = 2$. <!-- feedback: Incorreto. -->
+- [ ] D) Somente para $x = 2$. <!-- feedback: A razão é log(2x) − log(x) = log 2, constante para qualquer x, então vale para todo x > 0 e não só para x = 2. -->
 
 ### Explicacion Pedagogica
 Verificamos a diferença entre os termos:
@@ -386,7 +386,7 @@ As medidas dos lados de um triângulo retângulo estão em PA. Se a área do tri
 - [ ] A) 6 <!-- feedback: Este seria o cateto menor. -->
 - [ ] B) 8 <!-- feedback: Este seria o cateto maior. -->
 - [x] D) 10 <!-- feedback: Lados: (x-r, x, x+r). Pelo teorema de Pitágoras: (x-r)² + x² = (x+r)² => x = 4r. Lados: 3r, 4r, 5r. Área = (3r*4r)/2 = 6r² = 24 => r=2. Hipotenusa = 5r = 10. -->
-- [ ] C) 12 <!-- feedback: Incorreto. -->
+- [ ] C) 12 <!-- feedback: Os lados ficam (3r, 4r, 5r) e a área 6r² = 24 dá r = 2, então a hipotenusa é 10, e não 12. -->
 
 ### Explicacion Pedagogica
 Lados em PA: $x-r, x, x+r$. No triângulo retângulo, $(x-r)^2 + x^2 = (x+r)^2 \Rightarrow x^2 - 2xr + r^2 + x^2 = x^2 + 2xr + r^2 \Rightarrow x^2 = 4xr \Rightarrow x = 4r$ (pois $x \neq 0$). Os lados são $3r, 4r$ e $5r$. Área = $\frac{3r \cdot 4r}{2} = 6r^2$. Como Área = 24, $r^2 = 4 \Rightarrow r = 2$. Hipotenusa = $5 \cdot 2 = 10$.

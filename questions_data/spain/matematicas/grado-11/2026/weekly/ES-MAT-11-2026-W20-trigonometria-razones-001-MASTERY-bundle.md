@@ -302,10 +302,10 @@ Las funciones "arco" realizan la operación inversa: dada una razón, nos devuel
 Si $a = 10 \text{ cm}, A = 30^{\circ}$ y $B = 45^{\circ}$, ¿cuánto mide el lado $b$?
 
 ### Opciones
-- [ ] A) $10\sqrt{3} \text{ cm}$ <!-- feedback: Valor incorrecto. -->
-- [x] D) $10\sqrt{2} \text{ cm}$ <!-- feedback: Correcto. $10/\text{sen}(30) = b/\text{sen}(45) \Rightarrow 10/0,5 = b/(\sqrt{2}/2) \Rightarrow 20 = 2b/\sqrt{2} \Rightarrow b = 10\sqrt{2}$. -->
-- [ ] B) $5 \text{ cm}$ <!-- feedback: El lado b debe ser mayor que a ya que el ángulo B es mayor que A. -->
-- [ ] C) $20 \text{ cm}$ <!-- feedback: Valor incorrecto. -->
+- [ ] A) $10\sqrt{3} \text{ cm}$ <!-- feedback: El $10\sqrt{3}$ correspondería a $\frac{b}{\sin 60^\circ}$, pero el ángulo $B$ del enunciado es $45^\circ$, no $60^\circ$. -->
+- [x] D) $10\sqrt{2} \text{ cm}$ <!-- feedback: Por el teorema del seno, $\frac{10}{\sen 30^\circ} = \frac{b}{\sen 45^\circ}$, de donde $20 = b / 0.7071$ y $b = 10\sqrt{2}$ cm. -->
+- [ ] B) $5 \text{ cm}$ <!-- feedback: Como $B = 45^\circ > A = 30^\circ$, el lado $b$ debe ser mayor que $a = 10$ cm, y $5$ cm es menor. -->
+- [ ] C) $20 \text{ cm}$ <!-- feedback: El $20$ cm duplicaría $a$ sin razón, porque $\sen 45^\circ / \sen 30^\circ = 0.7071 / 0.5 = \sqrt{2} \approx 1.41$. -->
 
 ### Explicacion Pedagogica
 El Teorema del Seno establece que los lados de un triángulo son proporcionales a los senos de sus ángulos opuestos. Es ideal cuando conocemos "parejas" de lado y ángulo opuesto.
@@ -365,10 +365,10 @@ La tangente tiende a infinito cuando nos acercamos a ángulos verticales (90, 27
 ¿A qué valor constante equivale esta expresión para cualquier $x$ donde esté definida?
 
 ### Opciones
-- [ ] A) $\text{sen}^2(x)$ <!-- feedback: Simplificación incorrecta. -->
-- [ ] B) $\cos(x)$ <!-- feedback: Simplificación incorrecta. -->
-- [x] C) 1 <!-- feedback: Correcto. $1 + \text{tg}^2(x) = 1/\cos^2(x)$. Al multiplicar por $\cos^2(x)$, el resultado es 1. -->
-- [ ] D) 0 <!-- feedback: La expresión nunca se anula. -->
+- [ ] A) $\text{sen}^2(x)$ <!-- feedback: Al distribuir, $\cos^2(x) \cdot 1$ queda como factor, así que la expresión no se reduce a $\sen^2(x)$. -->
+- [ ] B) $\cos(x)$ <!-- feedback: El factor $\cos^2(x)$ desaparece al simplificar el corchete, no queda un $\cos(x)$ solo. -->
+- [x] C) 1 <!-- feedback: Como $1 + \tg^2 x = \frac{1}{\cos^2 x}$, al multiplicar por $\cos^2 x$ queda exactamente $1$. -->
+- [ ] D) 0 <!-- feedback: El $0$ aparecería sólo si $\cos^2 x$ fuera $0$, y en ese punto la expresión no está definida. -->
 
 ### Explicacion Pedagogica
 El dominio de las identidades pitagóricas permite simplificar expresiones trigonométricas complejas. Esta habilidad es esencial para resolver ecuaciones y simplificar derivadas.

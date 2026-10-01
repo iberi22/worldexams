@@ -135,7 +135,7 @@ Travelers often seek "off-the-beaten-path" destinations to avoid crowded tourist
 You must check in your luggage at least two hours before your flight departs.
 
 ### Opciones
-- [ ] A) check out <!-- feedback: Incorrect. Check out is for leaving a hotel. -->
+- [ ] A) check out <!-- feedback: 'Check out' is what you do at a hotel when leaving, and the opposite of what happens at an airport before a flight. -->
 - [x] D) check in <!-- feedback: Correct. To register and hand over luggage at an airport. -->
 - [ ] B) check up <!-- feedback: Incorrect. A medical examination. -->
 - [ ] C) check through <!-- feedback: Incorrect. Less common in this specific context. -->

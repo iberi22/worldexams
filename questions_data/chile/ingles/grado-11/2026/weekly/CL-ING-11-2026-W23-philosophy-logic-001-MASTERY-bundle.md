@@ -78,7 +78,7 @@ If only we had questioned our assumptions earlier, we would have avoided many lo
 - [ ] A) questioned <!-- feedback: Incorrect. 'If only' for past regret needs past perfect. -->
 - [x] D) had questioned <!-- feedback: Correct. 'If only + past perfect' for past regret. -->
 - [ ] B) have questioned <!-- feedback: Incorrect. Present perfect. -->
-- [ ] C) would question <!-- feedback: Incorrect. -->
+- [ ] C) would question <!-- feedback: 'Would question' is the second conditional form, which sets up an imagined situation, whereas 'if only' plus 'would have' states a real regret about what really did not happen. -->
 
 ### Explicacion Pedagogica
 'If only' followed by the past perfect expresses a strong desire for the past to have been different.
@@ -238,7 +238,7 @@ An axiom is a statement or proposition which is regarded as being self-evidently
 - [ ] A) Theory <!-- feedback: Incorrect. A theory needs testing. -->
 - [x] D) Axiom <!-- feedback: Correct. A starting point assumed to be true. -->
 - [ ] B) Conclusion <!-- feedback: Incorrect. An end point. -->
-- [ ] C) Question <!-- feedback: Incorrect. -->
+- [ ] C) Question <!-- feedback: A question asks for information and is an open problem; an axiom is a starting point that is accepted as true without being proved. -->
 
 ### Explicacion Pedagogica
 'Axiom' is the term for a foundational principle that is accepted without proof as the basis for further reasoning.
@@ -335,10 +335,10 @@ The author concludes that Stoicism provides a practical framework for achieving 
 A paradox is a seemingly absurd or self-contradictory statement that when investigated or explained may prove to be well-founded or true.
 
 ### Opciones
-- [ ] A) Fact <!-- feedback: Incorrect. -->
+- [ ] A) Fact <!-- feedback: A fact is something known to be true with no contradiction in it, which is exactly what a paradox is not. -->
 - [x] D) Paradox <!-- feedback: Correct. Standard term for a self-contradictory idea. -->
-- [ ] B) Slogan <!-- feedback: Incorrect. -->
-- [ ] C) Myth <!-- feedback: Incorrect. -->
+- [ ] B) Slogan <!-- feedback: A slogan is a short catchy phrase used for advertising, not a statement that contradicts itself. -->
+- [ ] C) Myth <!-- feedback: A myth is a traditional story believed to be true, but it involves no internal contradiction, so it is not a paradox. -->
 
 ### Explicacion Pedagogica
 'Paradox' describes the specific type of contradictory statement that challenges normal logic.

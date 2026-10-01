@@ -134,7 +134,7 @@ La escala es una aplicación directa del concepto de razón entre modelo y objet
 ¿Cuánto se debe pagar por 5 libras de arroz?
 
 ### Opciones
-- [ ] A) RD\$ 150 <!-- feedback: Incorrecto. Revisa el cálculo de la tasa unitaria. -->
+- [ ] A) RD\$ 150 <!-- feedback: Si 3 libras cuestan RD$ 105, la tasa por libra es 105 / 3 = RD$ 35 y 5 libras cuestan 35 × 5 = RD$ 175, no RD$ 150. -->
 - [x] D) RD\$ 175 <!-- feedback: Correcto. 105/3 = 35 por libra; 35 * 5 = 175. -->
 - [ ] B) RD\$ 210 <!-- feedback: Incorrecto. Ese es el costo de 6 libras. -->
 - [ ] C) RD\$ 135 <!-- feedback: Incorrecto. Error en la aplicación de la proporción directa. -->
@@ -281,7 +281,7 @@ La proporción debe mantener el mismo tipo de magnitud en numeradores y denomina
 Ciudad A: 50,000 hab en 10 km2. Ciudad B: 75,000 hab en 15 km2. ¿Cuál es más densa?
 
 ### Opciones
-- [ ] A) Ciudad B es más densa. <!-- feedback: Incorrecto. Sus razones son iguales. -->
+- [ ] A) Ciudad B es más densa. <!-- feedback: Ciudad B da 75.000 / 15 = 5.000 hab/km², exactamente la misma densidad que la ciudad A, así que no es más densa. -->
 - [ ] C) Ciudad A es más densa. <!-- feedback: Incorrecto. Sus razones son iguales. -->
 - [x] B) Tienen la misma densidad. <!-- feedback: Correcto. Ambas dan 5,000 hab/km2. -->
 - [ ] D) No se pueden comparar. <!-- feedback: Incorrecto. La razón es la herramienta ideal para comparar. -->

@@ -35,10 +35,10 @@ creador: "Jules-Agent"
 A metaphor is a figure of speech in which a word or phrase is applied to an object or action to which it is not literally applicable.
 
 ### Opciones
-- [ ] A) Fact <!-- feedback: Incorrect. -->
+- [ ] A) Fact <!-- feedback: A "fact" is something true that can be verified; a metaphor is a non-literal figure of speech, which is not verifiable as a statement. -->
 - [x] B) Metaphor <!-- feedback: Correct. Non-literal comparison. -->
-- [ ] C) Review <!-- feedback: Incorrect. -->
-- [ ] D) Draft <!-- feedback: Incorrect. -->
+- [ ] C) Review <!-- feedback: A "review" is an evaluation of a work or a product; the figure of speech described is a metaphor. -->
+- [ ] D) Draft <!-- feedback: A "draft" is a first version of a text; the definition given describes a metaphor, a way of speaking. -->
 
 ### Explicacion Pedagogica
 'Metaphor' is the term for a poetic or creative comparison that is not literally true.
@@ -135,10 +135,10 @@ The text implies that grassroots movements are powerful because they are rooted 
 Legislation refers to a law or a set of laws that are officially passed by a government.
 
 ### Opciones
-- [ ] A) Suggestion <!-- feedback: Incorrect. -->
+- [ ] A) Suggestion <!-- feedback: A "suggestion" is an informal proposal with no binding force; legislation is a law passed officially. -->
 - [x] D) Legislation <!-- feedback: Correct. Formal term for laws. -->
-- [ ] B) Rumor <!-- feedback: Incorrect. -->
-- [ ] C) Tradition <!-- feedback: Incorrect. -->
+- [ ] B) Rumor <!-- feedback: A "rumor" is unverified talk that spreads by word of mouth; a law is approved in a formal procedure. -->
+- [ ] C) Tradition <!-- feedback: A "tradition" is a custom passed down over generations; legislation is written and enacted by a government. -->
 
 ### Explicacion Pedagogica
 'Legislation' is the comprehensive term for the formal laws of a country.
@@ -155,10 +155,10 @@ Legislation refers to a law or a set of laws that are officially passed by a gov
 New international standards are being developed to manage the ethics of biotechnology.
 
 ### Opciones
-- [ ] A) are developing <!-- feedback: Incorrect. Active voice. -->
+- [ ] A) are developing <!-- feedback: "Are developing" is active and would make the countries the ones doing the work; here the standards are what is being developed. -->
 - [x] B) are being developed <!-- feedback: Correct. Present continuous passive for an ongoing process. -->
 - [ ] C) developed <!-- feedback: Incorrect. Past simple. -->
-- [ ] D) have developed <!-- feedback: Incorrect. Active voice. -->
+- [ ] D) have developed <!-- feedback: "Have developed" is active and perfect; the standards are still being drafted, so the present continuous passive is correct. -->
 
 ### Explicacion Pedagogica
 The present continuous passive describes the current and active creation of global rules.
@@ -175,10 +175,10 @@ The present continuous passive describes the current and active creation of glob
 Pluralism is a condition or system in which two or more states, groups, or principles coexist.
 
 ### Opciones
-- [ ] B) Isolation <!-- feedback: Incorrect. -->
+- [ ] B) Isolation <!-- feedback: "Isolation" is the opposite of coexistence; pluralism exists precisely because several groups live side by side. -->
 - [x] A) Pluralism <!-- feedback: Correct. Coexistence of diverse groups. -->
 - [ ] C) Uniformity <!-- feedback: Incorrect. Being the same. -->
-- [ ] D) Stagnation <!-- feedback: Incorrect. -->
+- [ ] D) Stagnation <!-- feedback: "Stagnation" means a lack of change or growth; pluralism describes active coexistence of different groups. -->
 
 ### Explicacion Pedagogica
 'Pluralism' is the sociological term for the harmonious coexistence of different groups in one society.
@@ -198,7 +198,7 @@ The leader argued that empathy was the most important quality for modern global 
 - [ ] B) is <!-- feedback: Incorrect. Backshifted in reported speech. -->
 - [x] A) was <!-- feedback: Correct. Backshifted from 'is' to 'was' after 'argued'. -->
 - [ ] C) will be <!-- feedback: Incorrect. Future. -->
-- [ ] D) have been <!-- feedback: Incorrect. -->
+- [ ] D) have been <!-- feedback: "Have been" would place the empathy in the past, while the leader is arguing about what modern governance needs now. -->
 
 ### Explicacion Pedagogica
 In reported speech, we backshift the tense of the original statement to show it was said in the past.
@@ -275,10 +275,10 @@ I wish people would take sustainable development more seriously to protect the f
 Integrity involves being honest and having strong moral principles that you refuse to change.
 
 ### Opciones
-- [ ] A) Greed <!-- feedback: Incorrect. -->
+- [ ] A) Greed <!-- feedback: "Greed" is wanting more for oneself regardless of others; integrity is holding firm to moral principles. -->
 - [x] B) Integrity <!-- feedback: Correct. Core moral quality. -->
-- [ ] C) Fame <!-- feedback: Incorrect. -->
-- [ ] D) Speed <!-- feedback: Incorrect. -->
+- [ ] C) Fame <!-- feedback: "Fame" is public reputation; integrity is about honesty and principles you refuse to change. -->
+- [ ] D) Speed <!-- feedback: "Speed" is how fast something happens; it has no bearing on honesty or moral strength. -->
 
 ### Explicacion Pedagogica
 'Integrity' is the key term for the consistency of actions, values, and principles.
@@ -298,7 +298,7 @@ The empire had been declining for centuries before it finally collapsed.
 - [ ] A) was declining <!-- feedback: Incorrect. Past continuous. -->
 - [x] C) had been declining <!-- feedback: Correct. Past perfect continuous for duration leading to a past point. -->
 - [ ] B) has been declining <!-- feedback: Incorrect. Present perfect continuous. -->
-- [ ] D) declines <!-- feedback: Incorrect. -->
+- [ ] D) declines <!-- feedback: With the present perfect continuous "had been declining" already in place, the simple present would restart the timeline and break the aspect. -->
 
 ### Explicacion Pedagogica
 The past perfect continuous describes a long-term process that preceded a specific historical turning point.
@@ -318,7 +318,7 @@ Global citizenship requires us to transcend our local biases and act for the ben
 - [ ] A) follow <!-- feedback: Incorrect. We want to go beyond them. -->
 - [x] D) transcend <!-- feedback: Correct. To go beyond or rise above. -->
 - [ ] B) ignore <!-- feedback: Incorrect. We must recognize them to transcend them. -->
-- [ ] C) create <!-- feedback: Incorrect. -->
+- [ ] C) create <!-- feedback: To transcend biases means to rise above them, whereas "create" would mean producing new ones. -->
 
 ### Explicacion Pedagogica
 'Transcends' is the appropriate verb for describing how an ethical perspective rises above narrow local interests.
@@ -335,10 +335,10 @@ Global citizenship requires us to transcend our local biases and act for the ben
 Resilience is the ability to bounce back from setbacks and adapt to challenging circumstances.
 
 ### Opciones
-- [ ] A) Fragility <!-- feedback: Incorrect. -->
+- [ ] A) Fragility <!-- feedback: "Fragility" is the opposite of bouncing back from a setback; resilience is defined precisely as that capacity. -->
 - [x] C) Resilience <!-- feedback: Correct. Psychological strength. -->
-- [ ] B) Apathy <!-- feedback: Incorrect. -->
-- [ ] D) Envy <!-- feedback: Incorrect. -->
+- [ ] B) Apathy <!-- feedback: "Apathy" is a lack of interest or care; resilience requires adapting actively to hard circumstances. -->
+- [ ] D) Envy <!-- feedback: "Envy" is resentment of what others have; it is unrelated to recovering from setbacks. -->
 
 ### Explicacion Pedagogica
 'Resilience' is the recognized psychological term for the capacity to recover from difficulty.
@@ -356,9 +356,9 @@ It is vital that all parties listen actively during the mediation process.
 
 ### Opciones
 - [x] B) listen <!-- feedback: Correct. Subjunctive base form after 'vital'. -->
-- [ ] A) listens <!-- feedback: Incorrect. -->
-- [ ] C) to listen <!-- feedback: Incorrect. -->
-- [ ] D) listening <!-- feedback: Incorrect. -->
+- [ ] A) listens <!-- feedback: "Listens" has an -s ending for a third person singular subject, but the subject here is the plural "all parties". -->
+- [ ] C) to listen <!-- feedback: "To listen" is an infinitive; after "it is vital that" the subjunctive takes the bare base form with no "to". -->
+- [ ] D) listening <!-- feedback: A gerund needs its own auxiliary; after "it is vital that" the base form "listen" is used. -->
 
 ### Explicacion Pedagogica
 The base form 'listen' is used in the subjunctive mood to express high importance.
@@ -377,8 +377,8 @@ Gentrification is the process of renovating and improving a house or district so
 ### Opciones
 - [ ] A) Urbanization <!-- feedback: Incorrect. Broad term. -->
 - [x] B) Gentrification <!-- feedback: Correct. Specific sociological term. -->
-- [ ] C) Ruralization <!-- feedback: Incorrect. -->
-- [ ] D) Isolation <!-- feedback: Incorrect. -->
+- [ ] C) Ruralization <!-- feedback: "Ruralization" describes population moving to the countryside, the opposite of the urban renovation the term refers to. -->
+- [ ] D) Isolation <!-- feedback: "Isolation" means being separated; gentrification is the opposite, an influx that transforms a district. -->
 
 ### Explicacion Pedagogica
 'Gentrification' is the standard term for the socio-economic transformation of urban areas.
@@ -397,8 +397,8 @@ He is getting used to his new career path after several years of retraining.
 ### Opciones
 - [ ] A) used to <!-- feedback: Incorrect. Past habit. -->
 - [x] C) is getting used to <!-- feedback: Correct. Ongoing process of adaptation. -->
-- [ ] B) uses to <!-- feedback: Incorrect grammar. -->
-- [ ] D) get used to <!-- feedback: Incorrect grammar. -->
+- [ ] B) uses to <!-- feedback: "Uses to" is not an English construction; the correct forms are "used to" for a past habit and "is getting used to" for an ongoing process. -->
+- [ ] D) get used to <!-- feedback: "Get used to" is a bare infinitive and needs an auxiliary plus the -ing form of "get" to build the present continuous. -->
 
 ### Explicacion Pedagogica
 'Be getting used to' describes the current process of becoming accustomed to a new situation.

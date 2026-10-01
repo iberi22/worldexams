@@ -59,7 +59,7 @@ The First Conditional is used for real or possible situations in the future. Str
 - [ ] B) if / don't improve <!-- feedback: Correct, but 'unless' is also being tested. -->
 - [x] A) unless / improve <!-- feedback: Correct. 'Unless' means 'if not'. -->
 - [ ] C) unless / don't improve <!-- feedback: Incorrect. Double negative. -->
-- [ ] D) when / improve <!-- feedback: Incorrect meaning. -->
+- [ ] D) when / improve <!-- feedback: 'When' marks a point in time rather than a condition, so it would say the improvement happens at some moment rather than making the result depend on it. -->
 
 ### Explicación Pedagógica
 'Unless' is used to introduce a condition that must be met to avoid a certain result. It is followed by an affirmative verb.
@@ -77,10 +77,10 @@ The First Conditional is used for real or possible situations in the future. Str
 "____ I graduate, I ____ for a master's degree in sustainable engineering."
 
 ### Opciones
-- [ ] A) Unless / apply <!-- feedback: Incorrect meaning. -->
+- [ ] A) Unless / apply <!-- feedback: 'Unless' means 'if not', so it would invert the logic of the sentence. And 'apply' needs 'will' for a future event. -->
 - [x] C) When / will apply <!-- feedback: Correct. 'When' for certain future events + 'will'. -->
-- [ ] B) If / applied <!-- feedback: Incorrect. -->
-- [ ] D) When / apply <!-- feedback: Incorrect. Needs future tense in the main clause. -->
+- [ ] B) If / applied <!-- feedback: 'If' is possible, but 'applied' is past tense while the graduation and the master's degree are still ahead. -->
+- [ ] D) When / apply <!-- feedback: This pair is right except for the main clause: a definite future event needs 'will apply', not the bare infinitive. -->
 
 ### Explicación Pedagógica
 'When' is used instead of 'if' when we are certain that something will happen.
@@ -98,10 +98,10 @@ The First Conditional is used for real or possible situations in the future. Str
 "Many workers ____ their jobs to automation unless they ____ new technical skills."
 
 ### Opciones
-- [ ] B) lost / learned <!-- feedback: Incorrect. -->
+- [ ] B) lost / learned <!-- feedback: 'Lost' and 'learned' are both past tense, so this reads as a past-to-past account rather than as what will happen. -->
 - [x] A) will lose / learn <!-- feedback: Correct. Standard First Conditional. -->
-- [ ] C) lose / will learn <!-- feedback: Incorrect placement of 'will'. -->
-- [ ] D) would lose / learn <!-- feedback: Incorrect. -->
+- [ ] C) lose / will learn <!-- feedback: This reverses the clauses: 'lose' describes what happens if the condition is met, but 'will learn' wrongly puts the future in the 'unless' clause. -->
+- [ ] D) would lose / learn <!-- feedback: 'Would lose' belongs to the second conditional (hypothetical, often imagined), while the sentence states a real condition that will probably be met. -->
 
 ### Explicación Pedagógica
 Describing future trends using the First Conditional with 'unless'.
@@ -119,10 +119,10 @@ Describing future trends using the First Conditional with 'unless'.
 "I ____ you with your portfolio ____ you send me the drafts by Friday."
 
 ### Opciones
-- [ ] A) helped / when <!-- feedback: Incorrect. -->
+- [ ] A) helped / when <!-- feedback: 'Helped' is past tense and 'when' introduces a time clause, not a condition, so the two do not pair here. -->
 - [x] C) will help / provided <!-- feedback: Correct. 'Provided' is a B2 synonym for 'if'. -->
-- [ ] B) help / unless <!-- feedback: Incorrect. -->
-- [ ] D) would help / if <!-- feedback: Incorrect tense. -->
+- [ ] B) help / unless <!-- feedback: 'Unless' means 'if not', which would make the meaning the opposite of what the sentence needs. -->
+- [ ] D) would help / if <!-- feedback: 'Would help' is the second conditional for a hypothetical; the speaker is stating a concrete future promise, so 'will help' and 'if' fit. -->
 
 ### Explicación Pedagógica
 Using 'provided' or 'as long as' as formal alternatives to 'if' in First Conditional structures.
@@ -140,7 +140,7 @@ Using 'provided' or 'as long as' as formal alternatives to 'if' in First Conditi
 "If you ____ to reach the top of your profession, you ____ to be prepared for long hours and high pressure."
 
 ### Opciones
-- [ ] A) will want / need <!-- feedback: Incorrect. -->
+- [ ] A) will want / need <!-- feedback: 'Will want' puts the future tense in the if-clause, but a first conditional keeps present tense there and places 'will' in the main clause. -->
 - [x] B) want / will need <!-- feedback: Correct. First Conditional. -->
 - [ ] C) wanted / would need <!-- feedback: Correct Second Conditional, but B is more likely for direct advice. -->
 - [ ] D) want / need <!-- feedback: Correct for Zero Conditional, but B is more specific to the future. -->
@@ -161,10 +161,10 @@ First Conditional for direct professional advice and future requirements.
 "The company ____ the contract ____ the candidate fails the background check."
 
 ### Opciones
-- [ ] A) signs / unless <!-- feedback: Incorrect. -->
+- [ ] A) signs / unless <!-- feedback: 'Signs ... unless' states that the contract is signed when the check does not pass, which is the reverse of the intended condition. -->
 - [x] C) won't sign / if <!-- feedback: Correct. Negative future based on a condition. -->
-- [ ] B) will sign / unless <!-- feedback: Correct if the check is passed, but B is a more direct focus for 'if'. -->
-- [ ] D) won't sign / unless <!-- feedback: Incorrect. Double negative logic. -->
+- [ ] B) will sign / unless <!-- feedback: 'Will sign ... unless' says the contract is signed only if the candidate does NOT pass, which inverts the condition. -->
+- [ ] D) won't sign / unless <!-- feedback: 'Won't sign ... unless' is contradictory: not signing unless the check passes asserts the opposite outcome for a failing candidate. -->
 
 ### Explicación Pedagógica
 B2 complexity: Evaluating the logical relationship between a negative result and its condition.
@@ -182,10 +182,10 @@ B2 complexity: Evaluating the logical relationship between a negative result and
 "Even if he ____ a higher salary, he ____ the offer because he values his free time more."
 
 ### Opciones
-- [ ] A) offers / refuses <!-- feedback: Incorrect. -->
+- [ ] A) offers / refuses <!-- feedback: 'Offers' is active, but nobody offers a salary to themselves here; the company offers it, so the receiving side must be passive. -->
 - [x] D) is offered / will refuse <!-- feedback: Correct. Passive voice in First Conditional. -->
 - [ ] B) was offered / would refuse <!-- feedback: Second Conditional. -->
-- [ ] C) has offered / refuses <!-- feedback: Incorrect. -->
+- [ ] C) has offered / refuses <!-- feedback: 'Has offered' is a present perfect with an active subject, and 'refuses' is present simple, which does not match a future outcome. -->
 
 ### Explicación Pedagógica
 Using the Passive Voice within a First Conditional structure to discuss professional offers.
@@ -225,9 +225,9 @@ Applying the First Conditional to professional and business contexts.
 
 ### Opciones
 - [x] B) decide / will prepare <!-- feedback: Correct. 'Should' used as a formal replacement for 'if'. -->
-- [ ] A) decided / would prepare <!-- feedback: Incorrect syntax for this inversion. -->
-- [ ] C) will decide / prepare <!-- feedback: Incorrect. -->
-- [ ] D) decides / will prepare <!-- feedback: Incorrect. -->
+- [ ] A) decided / would prepare <!-- feedback: After the conditional 'Should you decide', the main clause needs a future form; 'decided' is past tense and does not pair with this inversion. -->
+- [ ] C) will decide / prepare <!-- feedback: 'Will decide' belongs in the 'should' clause, not the main clause, and 'prepare' is left without an auxiliary. -->
+- [ ] D) decides / will prepare <!-- feedback: With 'Should' inverted from 'If you should', the clause takes the bare infinitive 'decide'; the third-person 'decides' does not follow a modal. -->
 
 ### Explicación Pedagógica
 Advanced B2 structure: Using 'Should' + subject + base verb as a formal alternative to 'if' in First Conditional (Should inversion).
@@ -246,9 +246,9 @@ Advanced B2 structure: Using 'Should' + subject + base verb as a formal alternat
 
 ### Opciones
 - [ ] A) builds / is <!-- feedback: Correct for Zero Conditional. -->
-- [ ] B) built / was <!-- feedback: Incorrect. -->
+- [ ] B) built / was <!-- feedback: 'Built' and 'was' are both past, so this reads as a past condition and past result rather than a principle about career prospects. -->
 - [x] D) builds / will be <!-- feedback: Correct. First Conditional with 'unless' for a general career principle. -->
-- [ ] C) has built / is <!-- feedback: Incorrect. -->
+- [ ] C) has built / is <!-- feedback: 'Has built' is present perfect and pairs with 'is', which makes the sentence a statement of fact about the present, not a conditional principle. -->
 
 ### Explicación Pedagógica
 Using 'unless' to describe general professional barriers and their future impact.
@@ -267,9 +267,9 @@ Using 'unless' to describe general professional barriers and their future impact
 
 ### Opciones
 - [x] D) maintains / will <!-- feedback: Correct. Inversion with 'Only if' requires 'will' before the subject. -->
-- [ ] A) maintains / she will <!-- feedback: Incorrect. Missing inversion. -->
-- [ ] B) maintained / would <!-- feedback: Second Conditional inversion. -->
-- [ ] C) will maintain / she <!-- feedback: Incorrect. -->
+- [ ] A) maintains / she will <!-- feedback: This leaves the subject 'she' in place, so the inversion that 'only if' requires is missing. -->
+- [ ] B) maintained / would <!-- feedback: With 'only if' inverted the subject comes first and the auxiliary follows, as in 'only if she maintains her pace will she succeed'. -->
+- [ ] C) will maintain / she <!-- feedback: 'Maintained' is past tense and 'would' belongs to the second conditional; 'only if' inverted takes present tense plus 'will'. -->
 
 ### Explicación Pedagógica
 Mastery level: Negative/restrictive inversion with 'Only if' in a First Conditional structure.

@@ -35,10 +35,10 @@ Este bundle evalúa conceptos de colors and shapes en inglés, nivel CEFR A1 par
 What color is an apple usually?
 
 ### Opciones
-- [x] A) Red <!-- feedback: Correct! -->
-- [ ] B) Blue <!-- feedback: No. -->
-- [ ] C) Purple <!-- feedback: No. -->
-- [ ] D) Grey <!-- feedback: No. -->
+- [x] A) Red <!-- feedback: An apple is usually bright red, so "red" is the color students learn first for this fruit. -->
+- [ ] B) Blue <!-- feedback: Blue is not a color of apples; it is the color the sky often has, not this fruit. -->
+- [ ] C) Purple <!-- feedback: Blue is not a color of apples; it is the color the sky often has, not this fruit. -->
+- [ ] D) Grey <!-- feedback: Grey is not an apple color; it describes clouds or an overcast sky. -->
 
 ### Explicación Pedagógica
 This question evaluates remember skills regarding colors and shapes at the CEFR A1 level.
@@ -56,10 +56,10 @@ This question evaluates remember skills regarding colors and shapes at the CEFR 
 The sky is ________ on a sunny day.
 
 ### Opciones
-- [ ] A) yellow <!-- feedback: No. -->
-- [x] B) blue <!-- feedback: Correct! -->
-- [ ] C) green <!-- feedback: No. -->
-- [ ] D) black <!-- feedback: No. -->
+- [ ] A) yellow <!-- feedback: The sun is yellow, not the sky, so "yellow" does not complete the sentence. -->
+- [x] B) blue <!-- feedback: On a sunny day the sky is blue, so "blue" completes the sentence. -->
+- [ ] C) green <!-- feedback: Green is the color of grass and leaves, not of a clear sunny sky. -->
+- [ ] D) black <!-- feedback: Black is not the sky's color on a sunny day; that is what the sky looks like during a storm. -->
 
 ### Explicación Pedagógica
 This question evaluates understand skills regarding colors and shapes at the CEFR A1 level.
@@ -77,10 +77,10 @@ This question evaluates understand skills regarding colors and shapes at the CEF
 A banana is ________.
 
 ### Opciones
-- [ ] A) orange <!-- feedback: No. -->
-- [ ] B) white <!-- feedback: No. -->
-- [x] C) yellow <!-- feedback: Correct! -->
-- [ ] D) pink <!-- feedback: No. -->
+- [ ] A) orange <!-- feedback: Oranges are orange; a banana is yellow when it is ripe. -->
+- [ ] B) white <!-- feedback: White is the color of milk, not of a banana peel. -->
+- [x] C) yellow <!-- feedback: A banana is yellow when it is ripe, so "yellow" completes the sentence. -->
+- [ ] D) pink <!-- feedback: Pink is a color for flowers or bubble gum, not for bananas. -->
 
 ### Explicación Pedagógica
 This question evaluates apply skills regarding colors and shapes at the CEFR A1 level.
@@ -98,10 +98,10 @@ This question evaluates apply skills regarding colors and shapes at the CEFR A1 
 What shape has 4 equal sides?
 
 ### Opciones
-- [ ] A) Circle <!-- feedback: No. -->
-- [ ] B) Triangle <!-- feedback: No. -->
-- [ ] C) Heart <!-- feedback: No. -->
-- [x] D) Square <!-- feedback: Correct! -->
+- [ ] A) Circle <!-- feedback: A circle has no corners and no sides at all, so it cannot have 4 equal sides. -->
+- [ ] B) Triangle <!-- feedback: A triangle has 3 sides, not 4. -->
+- [ ] C) Heart <!-- feedback: A heart shape has 2 curved sides and a point, not 4 equal straight sides. -->
+- [x] D) Square <!-- feedback: A square has 4 sides of the same length, so it is the shape described. -->
 
 ### Explicación Pedagógica
 This question evaluates analyze skills regarding colors and shapes at the CEFR A1 level.
@@ -119,10 +119,10 @@ This question evaluates analyze skills regarding colors and shapes at the CEFR A
 A ball is a ________.
 
 ### Opciones
-- [x] A) circle <!-- feedback: Correct! -->
-- [ ] B) rectangle <!-- feedback: No. -->
-- [ ] C) star <!-- feedback: No. -->
-- [ ] D) square <!-- feedback: No. -->
+- [x] A) circle <!-- feedback: A ball is round, so it has the shape of a circle. -->
+- [ ] B) rectangle <!-- feedback: A rectangle has 4 straight sides and corners, not the round shape of a ball. -->
+- [ ] C) star <!-- feedback: A star has points, not the round shape of a ball. -->
+- [ ] D) square <!-- feedback: A square has flat sides and corners, not the round shape of a ball. -->
 
 ### Explicación Pedagógica
 This question evaluates evaluate skills regarding colors and shapes at the CEFR A1 level.
@@ -140,10 +140,10 @@ This question evaluates evaluate skills regarding colors and shapes at the CEFR 
 What color do you get if you mix Red and Yellow?
 
 ### Opciones
-- [ ] A) Brown <!-- feedback: No. -->
-- [x] B) Orange <!-- feedback: Correct! -->
-- [ ] C) Green <!-- feedback: No. -->
-- [ ] D) Purple <!-- feedback: No. -->
+- [ ] A) Brown <!-- feedback: Red and yellow mix to make orange, not brown; brown comes from mixing other colors. -->
+- [x] B) Orange <!-- feedback: Mixing the primary colors red and yellow gives orange, which is the answer. -->
+- [ ] C) Green <!-- feedback: Green comes from mixing blue and yellow, not from red and yellow. -->
+- [ ] D) Purple <!-- feedback: Purple comes from mixing red and blue, not from red and yellow. -->
 
 ### Explicación Pedagógica
 This question evaluates apply skills regarding colors and shapes at the CEFR A1 level.
@@ -161,10 +161,10 @@ This question evaluates apply skills regarding colors and shapes at the CEFR A1 
 Clouds are ________ when it is going to rain.
 
 ### Opciones
-- [ ] A) green <!-- feedback: No. -->
-- [ ] B) red <!-- feedback: No. -->
-- [x] C) grey <!-- feedback: Correct! -->
-- [ ] D) pink <!-- feedback: No. -->
+- [ ] A) green <!-- feedback: Green clouds are something we see in stories; real rain clouds are grey. -->
+- [ ] B) red <!-- feedback: Red is the color of a sunset or a stop sign, not of rain clouds. -->
+- [x] C) grey <!-- feedback: Rain clouds look grey, so "grey" completes the sentence. -->
+- [ ] D) pink <!-- feedback: Pink is the color of flowers or cotton candy, not of rain clouds. -->
 
 ### Explicación Pedagógica
 This question evaluates understand skills regarding colors and shapes at the CEFR A1 level.
@@ -182,10 +182,10 @@ This question evaluates understand skills regarding colors and shapes at the CEF
 A pizza slice is usually the shape of a ________.
 
 ### Opciones
-- [ ] A) square <!-- feedback: No. -->
-- [ ] B) oval <!-- feedback: No. -->
-- [ ] C) diamond <!-- feedback: No. -->
-- [x] D) triangle <!-- feedback: Correct! -->
+- [ ] A) square <!-- feedback: A pizza is round, so it is not cut into a square shape. -->
+- [ ] B) oval <!-- feedback: An oval is round like the whole pizza; it is not the shape of one slice. -->
+- [ ] C) diamond <!-- feedback: A diamond is a shape with 4 corners; a pizza slice has 3. -->
+- [x] D) triangle <!-- feedback: A slice has 3 straight edges, so it is a triangle. -->
 
 ### Explicación Pedagógica
 This question evaluates remember skills regarding colors and shapes at the CEFR A1 level.

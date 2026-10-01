@@ -36,10 +36,10 @@ creador: "Jules-Agent"
 She ________ a very good student in Cali.
 
 ### Opciones
-- [ ] A) am <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] B) are <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] C) be <!-- feedback: Incorrect. Please review the topic. -->
-- [x] D) is <!-- feedback: Correct! Well done. -->
+- [ ] A) am <!-- feedback: "Am" is used with the pronoun "I"; the subject here is "she", so it needs "is". -->
+- [ ] B) are <!-- feedback: "Are" is used with you, we and they, not with "she". -->
+- [ ] C) be <!-- feedback: "Be" is the plain infinitive, used after modals like "can"; a simple statement needs the conjugated form. -->
+- [x] D) is <!-- feedback: With the third person singular subject "she", the verb "be" in the present simple is "is". -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to remember the topic of Verb To Be: Negative and Interrogative at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
@@ -58,10 +58,10 @@ This question evaluates the student's ability to remember the topic of Verb To B
 We ________ from Colombia.
 
 ### Opciones
-- [ ] A) be <!-- feedback: Incorrect. Please review the topic. -->
-- [x] B) are <!-- feedback: Correct! Well done. -->
-- [ ] C) am <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] D) is <!-- feedback: Incorrect. Please review the topic. -->
+- [ ] A) be <!-- feedback: "Be" is the plain form and needs a modal before it; the sentence has no modal, so it needs a conjugated verb. -->
+- [x] B) are <!-- feedback: With the plural subject "we", the verb "be" in the present simple is "are". -->
+- [ ] C) am <!-- feedback: "Am" is used only with the pronoun "I", not with "we". -->
+- [ ] D) is <!-- feedback: "Is" is used with a singular subject such as he, she or it; "we" is plural. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to remember the topic of Verb To Be: Negative and Interrogative at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
@@ -80,10 +80,10 @@ This question evaluates the student's ability to remember the topic of Verb To B
 ________ they at school today?
 
 ### Opciones
-- [ ] A) Am <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] B) Do <!-- feedback: Incorrect. Please review the topic. -->
-- [x] C) Are <!-- feedback: Correct! Well done. -->
-- [ ] D) Is <!-- feedback: Incorrect. Please review the topic. -->
+- [ ] A) Am <!-- feedback: "Am" goes with "I"; the subject of this question is "they". -->
+- [ ] B) Do <!-- feedback: "Do" is the auxiliary of another verb, but the verb in this sentence is "be", so it is not needed. -->
+- [x] C) Are <!-- feedback: "Are" is the present simple question form of "be" with the plural subject "they". -->
+- [ ] D) Is <!-- feedback: "Is" goes with a singular subject; "they" is plural. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to understand the topic of Verb To Be: Negative and Interrogative at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
@@ -102,10 +102,10 @@ This question evaluates the student's ability to understand the topic of Verb To
 I ________ not a doctor, I am a student.
 
 ### Opciones
-- [ ] A) is <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] B) be <!-- feedback: Incorrect. Please review the topic. -->
-- [x] C) am <!-- feedback: Correct! Well done. -->
-- [ ] D) are <!-- feedback: Incorrect. Please review the topic. -->
+- [ ] A) is <!-- feedback: "Is" goes with he, she or it; the subject of this sentence is "I". -->
+- [ ] B) be <!-- feedback: "Be" is the plain form and cannot stand in a simple negative statement on its own. -->
+- [x] C) am <!-- feedback: With the pronoun "I", the verb "be" is "am", so it completes the sentence. -->
+- [ ] D) are <!-- feedback: "Are" goes with you, we and they, not with "I". -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to understand the topic of Verb To Be: Negative and Interrogative at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
@@ -124,10 +124,10 @@ This question evaluates the student's ability to understand the topic of Verb To
 The books ________ on the desk.
 
 ### Opciones
-- [ ] A) am <!-- feedback: Incorrect. Please review the topic. -->
-- [x] B) are <!-- feedback: Correct! Well done. -->
-- [ ] C) was <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] D) is <!-- feedback: Incorrect. Please review the topic. -->
+- [ ] A) am <!-- feedback: "Am" goes with "I"; the subject here is the plural noun "books". -->
+- [x] B) are <!-- feedback: With a plural subject like "books", the verb "be" in the present simple is "are". -->
+- [ ] C) was <!-- feedback: "Was" is the past simple; the sentence here is in the present and describes a current situation. -->
+- [ ] D) is <!-- feedback: "Is" goes with a singular subject; "books" is plural. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to apply the topic of Verb To Be: Negative and Interrogative at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
@@ -146,10 +146,10 @@ This question evaluates the student's ability to apply the topic of Verb To Be: 
 My dog ________ very small and brown.
 
 ### Opciones
-- [ ] A) are <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] B) be <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] C) am <!-- feedback: Incorrect. Please review the topic. -->
-- [x] D) is <!-- feedback: Correct! Well done. -->
+- [ ] A) are <!-- feedback: "Are" goes with you, we and they; the subject here is "my dog", which is singular. -->
+- [ ] B) be <!-- feedback: "Be" is the plain form and needs a modal before it in a short statement. -->
+- [ ] C) am <!-- feedback: "Am" goes with "I"; the subject here is "my dog". -->
+- [x] D) is <!-- feedback: "My dog" is a singular noun, so it takes "is" in the present simple. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to apply the topic of Verb To Be: Negative and Interrogative at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
@@ -168,10 +168,10 @@ This question evaluates the student's ability to apply the topic of Verb To Be: 
 ________ you tired after the soccer match?
 
 ### Opciones
-- [x] A) Are <!-- feedback: Correct! Well done. -->
-- [ ] B) Am <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] C) Do <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] D) Is <!-- feedback: Incorrect. Please review the topic. -->
+- [x] A) Are <!-- feedback: The pronoun "you" takes "are" in questions, so that completes the sentence. -->
+- [ ] B) Am <!-- feedback: "Am" goes with "I", not with "you". -->
+- [ ] C) Do <!-- feedback: "Do" is the auxiliary of other verbs; this question uses the verb "be", not another verb. -->
+- [ ] D) Is <!-- feedback: "Is" goes with he, she or it; the subject of this question is "you". -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to apply the topic of Verb To Be: Negative and Interrogative at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
@@ -190,10 +190,10 @@ This question evaluates the student's ability to apply the topic of Verb To Be: 
 Bogota ________ the capital of Colombia.
 
 ### Opciones
-- [x] A) is <!-- feedback: Correct! Well done. -->
-- [ ] B) stay <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] C) are <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] D) am <!-- feedback: Incorrect. Please review the topic. -->
+- [x] A) is <!-- feedback: "Bogota" is a singular proper noun, so it takes "is" in the present simple. -->
+- [ ] B) stay <!-- feedback: "Stay" is a verb of action and does not describe what a city is. -->
+- [ ] C) are <!-- feedback: "Are" goes with a plural subject; "Bogota" is one single city. -->
+- [ ] D) am <!-- feedback: "Am" goes with "I", not with a place name. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to analyze the topic of Verb To Be: Negative and Interrogative at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
@@ -212,10 +212,10 @@ This question evaluates the student's ability to analyze the topic of Verb To Be
 They ________ happy with their grades.
 
 ### Opciones
-- [ ] A) is being <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] B) is <!-- feedback: Incorrect. Please review the topic. -->
-- [x] C) are <!-- feedback: Correct! Well done. -->
-- [ ] D) be <!-- feedback: Incorrect. Please review the topic. -->
+- [ ] A) is being <!-- feedback: "Is being" goes with a singular subject; "they" is plural and needs a simple present form. -->
+- [ ] B) is <!-- feedback: "Is" goes with he, she or it; the subject here is "they". -->
+- [x] C) are <!-- feedback: With the plural subject "they", the verb "be" in the present simple is "are". -->
+- [ ] D) be <!-- feedback: "Be" is the plain form and needs a modal before it in a simple statement. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to analyze the topic of Verb To Be: Negative and Interrogative at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
@@ -234,10 +234,10 @@ This question evaluates the student's ability to analyze the topic of Verb To Be
 It ________ a very sunny day in Cartagena.
 
 ### Opciones
-- [x] A) is <!-- feedback: Correct! Well done. -->
-- [ ] B) has <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] C) am <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] D) are <!-- feedback: Incorrect. Please review the topic. -->
+- [x] A) is <!-- feedback: "It" is a singular subject, so it takes "is" in the present simple. -->
+- [ ] B) has <!-- feedback: "Has" is the verb of possession, used here with people and objects, not with "it" for weather or a day. -->
+- [ ] C) am <!-- feedback: "Am" goes with "I"; the subject here is "it". -->
+- [ ] D) are <!-- feedback: "Are" goes with a plural subject; "it" is singular. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to evaluate the topic of Verb To Be: Negative and Interrogative at an A2 level. It focuses on Colombian contexts and standard A2 grammar.

@@ -200,8 +200,8 @@ Para un número par de datos (n=6), la mediana se calcula como el promedio de lo
 ¿En qué tipo de datos es la moda la ÚNICA medida de tendencia central que se puede calcular?
 
 ### Opciones
-- [ ] A) Datos cuantitativos discretos <!-- feedback: Aquí se pueden calcular las tres medidas. -->
-- [ ] B) Datos cuantitativos continuos <!-- feedback: Aquí se pueden calcular las tres medidas. -->
+- [ ] A) Datos cuantitativos discretos <!-- feedback: En datos cuantitativos discretos sí se pueden calcular las tres medidas, porque los valores son números contables y se pueden ordenar. -->
+- [ ] B) Datos cuantitativos continuos <!-- feedback: En datos cuantitativos continuos también se pueden calcular las tres medidas; el que solo permite la moda son los cualitativos nominales. -->
 - [x] C) Datos cualitativos nominales (ej. colores, nombres) <!-- feedback: Correcto. No se pueden sumar colores para una media, ni ordenarlos con sentido para una mediana. -->
 - [ ] D) Datos en escala de razón <!-- feedback: En esta escala se permiten todas las medidas estadísticas. -->
 
@@ -240,7 +240,7 @@ En una encuesta, 10 personas tienen 1 hijo, 20 personas tienen 2 hijos y 10 pers
 ### Opciones
 - [ ] A) $2.5$ hijos <!-- feedback: Error en el cálculo proporcional. -->
 - [x] B) $2.0$ hijos <!-- feedback: Correcto. Total hijos = $(10 \times 1) + (20 \times 2) + (10 \times 3) = 10 + 40 + 30 = 80$. Personas = $10+20+10 = 40$. Media = $80/40 = 2$. -->
-- [ ] C) $1.5$ hijos <!-- feedback: Incorrecto. -->
+- [ ] C) $1.5$ hijos <!-- feedback: El promedio es $80/40=2$; el valor $1.5$ sale de dividir los $60$ hijos entre $40$ personas sin contar el grupo de tres hijos. -->
 - [ ] D) $3.0$ hijos <!-- feedback: Este es el valor máximo, no el promedio. -->
 
 ### Explicacion Pedagogica
@@ -316,8 +316,8 @@ Si el promedio de edad de 3 hermanos es $12$ años y dos de ellos tienen $10$ y 
 ### Opciones
 - [x] A) $11$ años <!-- feedback: Correcto. Suma total debe ser $3 \times 12 = 36$. $36 - (10 + 15) = 36 - 25 = 11$. -->
 - [ ] B) $12$ años <!-- feedback: Si el tercero tuviera 12, el promedio sería $(10+12+15)/3 = 37/3 \ne 12$. -->
-- [ ] C) $13$ años <!-- feedback: Incorrecto. -->
-- [ ] D) $9$ años <!-- feedback: Incorrecto. -->
+- [ ] C) $13$ años <!-- feedback: Con $13$ la suma sería $38$ y el promedio $38/3\ne12$; la edad correcta se obtiene con $36-25=11$. -->
+- [ ] D) $9$ años <!-- feedback: Con $9$ la suma sería $34$ y el promedio $34/3\ne12$; falta llegar a la suma total de $36$. -->
 
 ### Explicacion Pedagogica
 La media actúa como un centro de equilibrio. La suma de las desviaciones respecto a la media siempre debe ser igual a cero.
@@ -354,8 +354,8 @@ La sección A tiene $20$ alumnos con promedio de $80$. La sección B tiene $30$ 
 ### Opciones
 - [ ] A) $85$ <!-- feedback: Este es el promedio de los promedios, pero no toma en cuenta que la sección B tiene más alumnos. -->
 - [x] B) $86$ <!-- feedback: Correcto. $(20 \times 80 + 30 \times 90) / 50 = (1600 + 2700) / 50 = 4300 / 50 = 86$. -->
-- [ ] C) $84$ <!-- feedback: Error al ponderar los promedios. -->
-- [ ] D) $88$ <!-- feedback: Incorrecto. -->
+- [ ] C) $84$ <!-- feedback: Al ponderar, $20\times80+30\times90=4300$ y al dividir entre $50$ se obtiene $86$; el $84$ corresponde a otro reparto de pesos. -->
+- [ ] D) $88$ <!-- feedback: El promedio ponderado es $86$; el $88$ sobrepesa el promedio de la sección B. -->
 
 ### Explicacion Pedagogica
 Para promediar grupos de diferentes tamaños, se debe utilizar la media ponderada, donde el peso de cada promedio es el número de elementos en su respectivo grupo.

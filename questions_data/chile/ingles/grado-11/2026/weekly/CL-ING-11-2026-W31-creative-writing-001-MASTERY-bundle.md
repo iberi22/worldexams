@@ -155,10 +155,10 @@ A draft is a preliminary version of a piece of writing.
 She is used to revising her work multiple times before she is satisfied with the result.
 
 ### Opciones
-- [ ] A) use to <!-- feedback: Incorrect grammar. -->
-- [x] D) is used to <!-- feedback: Correct. 'Be used to + -ing' means 'accustomed to'. -->
-- [ ] B) used to <!-- feedback: Incorrect. Refers to a past habit. -->
-- [ ] C) used <!-- feedback: Incorrect. -->
+- [ ] A) use to <!-- feedback: 'Use to' is not correct English; the past-habit structure is always 'used to'. -->
+- [x] D) is used to <!-- feedback: Correct. 'Is used to' followed by a gerund means 'is accustomed to', which is the present state the sentence describes. -->
+- [ ] B) used to <!-- feedback: 'Used to' on its own marks a past habit that no longer holds, and the sentence describes a habit she still has. -->
+- [ ] C) used <!-- feedback: 'Used' is only part of the phrase and cannot stand alone after 'she is'. -->
 
 ### Explicacion Pedagogica
 'Is used to + gerund' describes a current state of being accustomed to a specific professional habit.
@@ -195,10 +195,10 @@ Alliteration is the occurrence of the same letter or sound at the beginning of a
 New stories are being inspired by current events and personal experiences every day.
 
 ### Opciones
-- [ ] B) are inspiring <!-- feedback: Incorrect. Active voice. -->
-- [x] A) are being inspired <!-- feedback: Correct. Present continuous passive for an ongoing process. -->
-- [ ] C) inspired <!-- feedback: Incorrect. Past simple. -->
-- [ ] D) have inspired <!-- feedback: Incorrect. Active voice. -->
+- [ ] B) are inspiring <!-- feedback: 'Are inspiring' is the active voice and would make the stories do the inspiring. -->
+- [x] A) are being inspired <!-- feedback: Correct. 'Are being inspired' is the present continuous passive, used for an influence that is happening continuously now. -->
+- [ ] C) inspired <!-- feedback: 'Inspired' on its own would be past simple, but the influencing goes on every day. -->
+- [ ] D) have inspired <!-- feedback: 'Have inspired' is the Present Perfect active, which would make the stories the source of the inspiration. -->
 
 ### Explicacion Pedagogica
 The present continuous passive describes the active and constant influence of life on literature.
@@ -235,10 +235,10 @@ A cliché is a phrase or opinion that is overused and betrays a lack of original
 A genre is a category of artistic composition characterized by similarities in form, style, or subject matter.
 
 ### Opciones
-- [ ] A) Script <!-- feedback: Incorrect. A written plan. -->
-- [x] B) Genre <!-- feedback: Correct. A category like mystery, romance, or sci-fi. -->
-- [ ] C) Prompt <!-- feedback: Incorrect. -->
-- [ ] D) Review <!-- feedback: Incorrect. An evaluation. -->
+- [ ] A) Script <!-- feedback: A 'script' is the written text of a play or film, not a category of artistic work. -->
+- [x] B) Genre <!-- feedback: Correct. A 'genre' is a category such as mystery, romance or science fiction, defined by shared form, style or subject. -->
+- [ ] C) Prompt <!-- feedback: A 'prompt' is a question or instruction given to a writer, not a class of compositions. -->
+- [ ] D) Review <!-- feedback: A 'review' is an evaluation of a work, not the category the work belongs to. -->
 
 ### Explicacion Pedagogica
 'Genre' is the standard term for classifying literary and artistic works.
@@ -355,10 +355,10 @@ The protagonist is the main character in a play, novel, or movie.
 The instructor suggested that we experiment with different narrative perspectives.
 
 ### Opciones
-- [x] D) experiment <!-- feedback: Correct. Subjunctive base form after 'suggested'. -->
-- [ ] A) experiments <!-- feedback: Incorrect. -->
-- [ ] B) to experiment <!-- feedback: Incorrect. Doesn't fit 'that' clause. -->
-- [ ] C) experimenting <!-- feedback: Incorrect. -->
+- [x] D) experiment <!-- feedback: 'Experiments' is the third person form; after 'suggested that' the subjunctive takes the base form. -->
+- [ ] A) experiments <!-- feedback: 'To experiment' is the infinitive, which does not appear after 'that' in this construction. -->
+- [ ] B) to experiment <!-- feedback: 'Experimenting' is a gerund, which would need a different structure such as 'suggested experimenting'. -->
+- [ ] C) experimenting <!-- feedback: Correct. After 'suggested that' the base form is used, because the subjunctive makes the proposal, not a statement of fact. -->
 
 ### Explicacion Pedagogica
 Verbs of suggestion take a 'that' clause with the base form (subjunctive mood) of the following verb.
@@ -415,10 +415,10 @@ The past perfect continuous emphasizes the duration of the difficulty leading up
 Creative writing is a powerful means of self-expression, allowing us to share our unique vision of the world with others.
 
 ### Opciones
-- [x] B) self-expression <!-- feedback: Correct. Expression of one's own personality, feelings, or ideas. -->
-- [ ] A) isolation <!-- feedback: Incorrect. Writing aims to connect. -->
-- [ ] C) confusion <!-- feedback: Incorrect. Writing aims for clarity of vision. -->
-- [ ] D) greed <!-- feedback: Incorrect. Unrelated. -->
+- [x] B) self-expression <!-- feedback: Correct. 'Self-expression' means putting one's own feelings and ideas into a form, which is what the sentence describes. -->
+- [ ] A) isolation <!-- feedback: 'Isolation' is separation from others, but the sentence says writing lets us share with them. -->
+- [ ] C) confusion <!-- feedback: 'Confusion' is a lack of clarity, and the sentence values the clarity of a vision. -->
+- [ ] D) greed <!-- feedback: 'Greed' is a selfish desire for more, which has nothing to do with sharing a vision. -->
 
 ### Explicacion Pedagogica
 'Self-expression' is the primary purpose and benefit of creative work described in the text.

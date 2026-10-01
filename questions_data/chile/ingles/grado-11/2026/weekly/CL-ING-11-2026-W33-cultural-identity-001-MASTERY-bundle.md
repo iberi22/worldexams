@@ -58,7 +58,7 @@ Many immigrants are pressured into assimilating into the dominant culture of the
 - [ ] A) assimilate <!-- feedback: Incorrect. Passive voice needs 'assimilating' or 'assimilated'. -->
 - [x] D) assimilating into <!-- feedback: Correct. 'Pressure into + -ing' is a standard structure. -->
 - [ ] B) assimilate in <!-- feedback: Incorrect preposition. -->
-- [ ] C) assimilated <!-- feedback: Incorrect. -->
+- [ ] C) assimilated <!-- feedback: 'Assimilated' is a past participle, but the pattern 'press someone into doing something' takes the bare infinitive or the -ing form of what is being done, not a completed action. -->
 
 ### Explicacion Pedagogica
 The structure 'pressure (someone) into + gerund' is used to describe forced or strongly encouraged behavior.
@@ -155,10 +155,10 @@ A person who is bilingual is able to speak two languages fluently.
 Indigenous languages are being revitalized through new educational programs and community efforts.
 
 ### Opciones
-- [ ] A) are revitalizing <!-- feedback: Incorrect. Active voice. -->
+- [ ] A) are revitalizing <!-- feedback: 'Are revitalizing' is active, so the languages would have to be the ones doing the revitalizing, while the sentence makes them the thing being acted upon. -->
 - [x] D) are being revitalized <!-- feedback: Correct. Present continuous passive for an ongoing positive process. -->
 - [ ] B) revitalized <!-- feedback: Incorrect. Past simple. -->
-- [ ] C) have revitalized <!-- feedback: Incorrect. Active voice. -->
+- [ ] C) have revitalized <!-- feedback: 'Have revitalized' is an active present perfect that would mean the communities already finished their programme. -->
 
 ### Explicacion Pedagogica
 The present continuous passive describes the current and active process of bringing languages back to use.
@@ -218,7 +218,7 @@ Cultural homogenization refers to the process by which local cultures are reduce
 - [ ] A) diversity <!-- feedback: Incorrect. Homogenization reduces diversity. -->
 - [x] C) homogenization <!-- feedback: Correct. The process of making things uniform or similar. -->
 - [ ] B) appreciation <!-- feedback: Incorrect. Homogenization is usually seen as a negative loss. -->
-- [ ] D) celebration <!-- feedback: Incorrect. -->
+- [ ] D) celebration <!-- feedback: A celebration is a festive event, whereas this process describes local cultures being reduced or made uniform, which is a loss rather than a party. -->
 
 ### Explicacion Pedagogica
 'Homogenization' (from 'homo' meaning same) is the term for the loss of cultural variety in favor of a single global style.
@@ -238,7 +238,7 @@ Social norms are the unwritten rules of behavior that are considered acceptable 
 - [ ] A) Laws <!-- feedback: Incorrect. Laws are written. -->
 - [x] D) Norms <!-- feedback: Correct. Unwritten social expectations. -->
 - [ ] B) Crimes <!-- feedback: Incorrect. Violations of laws. -->
-- [ ] C) Jokes <!-- feedback: Incorrect. Humor. -->
+- [ ] C) Jokes <!-- feedback: Jokes are things said to make people laugh; they are not rules of behaviour, written or unwritten, that a group expects its members to follow. -->
 
 ### Explicacion Pedagogica
 'Norms' is the sociological term for the informal rules that guide social interaction.
@@ -277,7 +277,7 @@ Acculturation is the process of social, psychological, and cultural change that 
 ### Opciones
 - [ ] A) Isolation <!-- feedback: Incorrect. Acculturation requires contact. -->
 - [x] D) Acculturation <!-- feedback: Correct. Specific term for the meeting of cultures. -->
-- [ ] B) Ignorance <!-- feedback: Incorrect. -->
+- [ ] B) Ignorance <!-- feedback: Ignorance is simply not knowing about another culture, with no interaction at all, whereas acculturation is change that comes from contact between two cultures. -->
 - [ ] C) Conflict <!-- feedback: Incorrect. While conflict may occur, acculturation is the broader process of change. -->
 
 ### Explicacion Pedagogica
@@ -335,10 +335,10 @@ The author concludes that cultural hybridity is a creative force that leads to t
 Your ancestry refers to your family's history and the people you are descended from.
 
 ### Opciones
-- [ ] A) Future <!-- feedback: Incorrect. -->
+- [ ] A) Future <!-- feedback: Future points to what has not happened yet, while ancestry looks backward to where your family came from. -->
 - [x] B) Ancestry <!-- feedback: Correct. Family origins. -->
 - [ ] C) Career <!-- feedback: Incorrect. Professional life. -->
-- [ ] D) Budget <!-- feedback: Incorrect. -->
+- [ ] D) Budget <!-- feedback: Budget is the money available for spending, and it has nothing to do with who you are descended from. -->
 
 ### Explicacion Pedagogica
 'Ancestry' is the specific term for one's line of descent or family background.
@@ -357,7 +357,7 @@ I am looking forward to visiting my ancestral home for the first time.
 ### Opciones
 - [ ] A) to visit <!-- feedback: Incorrect. 'Looking forward to' is followed by -ing. -->
 - [x] D) to visiting <!-- feedback: Correct. 'Look forward to + gerund'. -->
-- [ ] B) visit <!-- feedback: Incorrect. -->
+- [ ] B) visit <!-- feedback: The 'to' in 'looking forward to' is a preposition, and a preposition is followed by a gerund, as in 'looking forward to visiting'. -->
 - [ ] C) for visiting <!-- feedback: Incorrect preposition. -->
 
 ### Explicacion Pedagogica
@@ -377,8 +377,8 @@ Cultural appropriation often involves the adoption of elements of one culture by
 ### Opciones
 - [ ] A) appreciation <!-- feedback: Incorrect. Appreciation is positive. -->
 - [x] D) appropriation <!-- feedback: Correct. Specific term for the controversial adoption of elements. -->
-- [ ] B) documentation <!-- feedback: Incorrect. Recording. -->
-- [ ] C) silence <!-- feedback: Incorrect. -->
+- [ ] B) documentation <!-- feedback: Documentation is the neutral recording of facts, which carries no idea of taking another culture's elements for one's own use. -->
+- [ ] C) silence <!-- feedback: Silence is the absence of speech, so it cannot describe a group actively taking elements from another culture. -->
 
 ### Explicacion Pedagogica
 'Appropriation' is the term for taking cultural elements, often from a marginalized group, for one's own use.

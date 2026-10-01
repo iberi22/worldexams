@@ -55,10 +55,10 @@ Mass media has the power to shape public opinion through the selective reporting
 Our perceptions of reality are being altered by the idealized images we see on social media.
 
 ### Opciones
-- [ ] A) are altering <!-- feedback: Incorrect. Active voice. -->
+- [ ] A) are altering <!-- feedback: "Are altering" is the active voice: it would make the perceptions the thing doing the altering. Here it is the perceptions that receive the effect, so the passive is needed. -->
 - [x] C) are being altered <!-- feedback: Correct. Present continuous passive for an ongoing effect. -->
 - [ ] B) altered <!-- feedback: Incorrect. Past simple. -->
-- [ ] D) have altered <!-- feedback: Incorrect. Active voice. -->
+- [ ] D) have altered <!-- feedback: "Have altered" is active and perfect; the effect described is still under way, and the perceptions are what is being altered. -->
 
 ### Explicacion Pedagogica
 The present continuous passive describes the ongoing, active process of change in our perceptions.
@@ -155,10 +155,10 @@ Product placement is a practice in which manufacturers of goods or providers of 
 The scandal was being reported by every major news outlet in the country.
 
 ### Opciones
-- [ ] A) is reporting <!-- feedback: Incorrect. Active voice. -->
+- [ ] A) is reporting <!-- feedback: "Is reporting" is active and present; the scandal was being covered in the past, so the past continuous passive is required. -->
 - [x] C) was being reported <!-- feedback: Correct. Past continuous passive for an ongoing state in the past. -->
 - [ ] B) reported <!-- feedback: Incorrect. Past simple. -->
-- [ ] D) has reported <!-- feedback: Incorrect. Active voice. -->
+- [ ] D) has reported <!-- feedback: "Has reported" is active and present perfect; the outlets were the ones reporting in the past, so the sentence needs the past passive. -->
 
 ### Explicacion Pedagogica
 The past continuous passive describes how the scandal was receiving constant attention at a specific time in the past.
@@ -255,10 +255,10 @@ Propaganda is information, especially of a biased or misleading nature, used to 
 Virtual reality experiences are likely to be integrated into traditional news reporting in the near future.
 
 ### Opciones
-- [ ] A) are integrating <!-- feedback: Incorrect. Active voice. -->
+- [ ] A) are integrating <!-- feedback: "Are integrating" is active and would make the experiences the thing doing the integrating; here it is the experiences that receive virtual reality. -->
 - [x] D) to be integrated <!-- feedback: Correct. Passive infinitive after 'likely to'. -->
-- [ ] B) integrate <!-- feedback: Incorrect. Active voice. -->
-- [ ] C) having been integrated <!-- feedback: Incorrect. -->
+- [ ] B) integrate <!-- feedback: The bare infinitive "integrate" would be the active voice and needs no "to be", which is what "likely to" requires. -->
+- [ ] C) having been integrated <!-- feedback: A perfect passive participle needs its own auxiliary ("having been") and cannot follow "likely to", which takes a plain passive infinitive. -->
 
 ### Explicacion Pedagogica
 The passive infinitive 'to be integrated' describes a future expectation for technology in media.
@@ -298,7 +298,7 @@ You shouldn't believe everything you read on social media unless it comes from a
 - [ ] B) if <!-- feedback: Incorrect. 'If it comes' would mean don't believe it *if* it's verified. -->
 - [x] A) unless <!-- feedback: Correct. 'Unless' means 'if not'. -->
 - [ ] C) although <!-- feedback: Incorrect. Contrast. -->
-- [ ] D) whether <!-- feedback: Incorrect. Choice. -->
+- [ ] D) whether <!-- feedback: "Whether" introduces a free relative clause and would need a verb of its own; the correlative here is "unless", which pairs with "shouldn't". -->
 
 ### Explicacion Pedagogica
 'Unless' sets the condition for belief: the presence of a verified source.
@@ -377,8 +377,8 @@ Influencer marketing relies on the trust and rapport that creators have built wi
 ### Opciones
 - [ ] A) isolation <!-- feedback: Incorrect. Marketing needs connection. -->
 - [x] C) rapport <!-- feedback: Correct. Rapport is a close and harmonious relationship. -->
-- [ ] B) conflict <!-- feedback: Incorrect. Negative. -->
-- [ ] D) ignorance <!-- feedback: Incorrect. Negative. -->
+- [ ] B) conflict <!-- feedback: "Conflict" is the opposite of the harmony that makes influencer marketing work, so it does not fit. -->
+- [ ] D) ignorance <!-- feedback: "Ignorance" means not knowing about something, the opposite of the trust the creators build with followers. -->
 
 ### Explicacion Pedagogica
 'Rapport' describes the positive, trusting relationship that is essential for social media influence.
@@ -417,7 +417,7 @@ Ultimately, we must become proactive consumers of media, rather than passive rec
 ### Opciones
 - [x] A) proactive <!-- feedback: Correct. Proactive means taking control and making things happen. -->
 - [ ] B) passive <!-- feedback: Incorrect. The text contrasts proactive with passive. -->
-- [ ] C) ignorant <!-- feedback: Incorrect. Negative. -->
+- [ ] C) ignorant <!-- feedback: Being a proactive consumer means judging what you read, the opposite of staying ignorant of how media shapes it. -->
 - [ ] D) accidental <!-- feedback: Incorrect. Should be intentional. -->
 
 ### Explicacion Pedagogica

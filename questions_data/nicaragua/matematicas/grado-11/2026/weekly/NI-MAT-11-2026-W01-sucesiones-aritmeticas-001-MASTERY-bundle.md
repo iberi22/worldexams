@@ -124,8 +124,8 @@ Para hallar un término específico, usamos $a_n = a_1 + (n-1)d$. Aquí, $a_5 = 
 ¿Cuál es el término general de la sucesión 5, 8, 11, 14, ...?
 
 ### Opciones
-- [ ] A) $a_n = 5n + 3$ <!-- feedback: Incorrecto. Si n=1, daría 8, no 5. -->
-- [ ] B) $a_n = 3n + 5$ <!-- feedback: Incorrecto. Si n=1, daría 8, no 5. -->
+- [ ] A) $a_n = 5n + 3$ <!-- feedback: Con $n=1$ daría $5(1)+3=8$, que es el segundo término y no el primero. -->
+- [ ] B) $a_n = 3n + 5$ <!-- feedback: Con $n=1$ daría $3(1)+5=8$ también, y la diferencia entre términos consecutivos sería $3$ en vez de la razón $3$ correcta: el primer término debe ser $5$. -->
 - [x] D) $a_n = 3n + 2$ <!-- feedback: Correcto. $a_n = 5 + (n-1)3 = 5 + 3n - 3 = 3n + 2$. Al probar con n=1, $3(1)+2=5$. -->
 - [ ] C) $a_n = 3n - 2$ <!-- feedback: Incorrecto. Si n=1, daría 1, no 5. -->
 

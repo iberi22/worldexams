@@ -311,7 +311,7 @@ En polinomios con coeficientes reales, las raíces complejas siempre aparecen en
 ### Opciones
 - [ ] B) \$2x^3 - 15$ <!-- feedback: Olvidaste realizar la multiplicación de todos los términos (distributiva). -->
 - [x] A) \$2x^3 - 5x^2 + 6x - 15$ <!-- feedback: ¡Correcto! (x^2 * 2x) + (x^2 * -5) + (3 * 2x) + (3 * -5) = 2x^3 - 5x^2 + 6x - 15. -->
-- [ ] C) \$2x^3 + 5x^2 + 6x + 15$ <!-- feedback: Revisa los signos de los productos. -->
+- [ ] C) \$2x^3 + 5x^2 + 6x + 15$ <!-- feedback: Al multiplicar (x² + 3)(2x − 5), los productos con segundo factor negativo conservan el signo menos: quedan −5x² y −15, no positivos. -->
 - [ ] D) \$3x^2 + 2x - 2$ <!-- feedback: Esto parece una suma de términos en lugar de una multiplicación. -->
 
 ### Explicacion Pedagogica

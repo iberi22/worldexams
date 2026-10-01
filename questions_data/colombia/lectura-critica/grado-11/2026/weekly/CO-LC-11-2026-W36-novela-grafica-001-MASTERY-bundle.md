@@ -335,13 +335,13 @@ La novela gráfica se parece al montaje cinematográfico porque:
 
 ### Opciones
 - [x] D) Utiliza encuadres, planos y secuencias para construir la narrativa visual.
-  <!-- feedback: Hay un lenguaje secuencial común. -->
+  <!-- feedback: La novela gráfica organiza la narración en viñetas que funcionan como planos y secuencias, igual que el montaje cinematográfico. -->
 - [ ] A) Es animada.
-  <!-- feedback: Es estática. -->
+  <!-- feedback: La novela gráfica es una secuencia de imágenes fijas impresas, no una producción animada. -->
 - [ ] B) Tiene banda sonora obligatoria.
-  <!-- feedback: No. -->
+  <!-- feedback: La banda sonora es propia del cine; la novela gráfica se lee en silencio y el sonido es un recurso opcional, no obligatorio. -->
 - [ ] C) No tiene texto.
-  <!-- feedback: Sí incluye texto. -->
+  <!-- feedback: La novela gráfica sí integra texto: los bocadillos y los cartelos son parte de la narración. -->
 
 ### Explicacion Pedagogica
 Ambas artes secuenciales organizan planos y tiempos narrativos.

@@ -166,7 +166,7 @@ A distância entre dois números reais $a$ e $b$ é dada por $|a - b|$. Qual é 
 - [ ] B) 7 <!-- feedback: Erro ao subtrair os valores sem considerar o sinal negativo do 15. -->
 - [x] A) 23 <!-- feedback: |-15 - 8| = |-23| = 23. -->
 - [ ] C) -23 <!-- feedback: Distância é sempre uma grandeza positiva. -->
-- [ ] D) 15 <!-- feedback: Incorreto. -->
+- [ ] D) 15 <!-- feedback: O $15$ é o módulo de apenas um dos números: a subtração dá $-15-8=-23$ e o módulo de $23$ é $23$, não $15$. -->
 
 ### Explicacion Pedagogica
 Aplicamos a fórmula da distância: $|-15 - 8| = |-23|$. O valor absoluto de $-23$ é $23$.
@@ -204,7 +204,7 @@ Qual é o vértice da função $f(x) = |x + 3|$?
 - [ ] A) $(3, 0)$ <!-- feedback: Para o vértice estar em 3, a função deveria ser |x - 3|. -->
 - [x] C) $(-3, 0)$ <!-- feedback: O "V" toca o eixo x quando x + 3 = 0, ou seja, x = -3. -->
 - [ ] B) $(0, 3)$ <!-- feedback: Este é o intercepto y da função. -->
-- [ ] D) $(0, -3)$ <!-- feedback: Incorreto. -->
+- [ ] D) $(0, -3)$ <!-- feedback: O ponto $(0,-3)$ não pertence ao gráfico: o vértice tem ordenada $0$, e não $-3$. -->
 
 ### Explicacion Pedagogica
 O vértice de uma função modular do tipo $|x - h|$ ocorre no ponto onde o argumento é zero. Resolvendo $x + 3 = 0$, encontramos $x = -3$. Como não há deslocamento vertical, o vértice é $(-3, 0)$.

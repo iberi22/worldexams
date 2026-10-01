@@ -136,13 +136,13 @@ According to a recent report on future cities in Cali, what is implied about the
 
 ### Opciones
 - [x] B) It serves as a critical tool for nuanced communication.
-  <!-- feedback: Correct. C1+ level reading requires identifying subtle implications about language use. -->
+  <!-- feedback: Correct. Prediction and probability is the point here: the pair separates certainty from likelihood: "Traffic will exceed capacity" against "Traffic is likely to exceed capacity", so the forecast arrives with a confidence level attached, which is what makes it usable for planning. Reading that implication is what the question asks. -->
 - [ ] A) It is largely irrelevant to the general public.
-  <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
+  <!-- feedback: This calls the device irrelevant, but the report treats that confidence level as central to public discussion, so calling it irrelevant contradicts the text. -->
 - [ ] C) It simplifies complex socio-political messages.
-  <!-- feedback: Incorrect. The use of {grammar} actually adds complexity and depth. -->
+  <!-- feedback: This claims the device makes the claim plainer, whereas the modal adds a degree of certainty to the forecast rather than making the message simpler. -->
 - [ ] D) It is only used by academic elites in {city}.
-  <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
+  <!-- feedback: This restricts the device to specialists in a single city, but the report shows this usage across media and discourse, not as jargon owned by one city's planners. -->
 
 ### Explicacion Pedagogica
 This question requires inferential reading skills to understand how complex structures convey deeper meaning.
@@ -161,13 +161,13 @@ According to a recent report on future cities in Cali, what is implied about the
 
 ### Opciones
 - [x] B) It serves as a critical tool for nuanced communication.
-  <!-- feedback: Correct. C1+ level reading requires identifying subtle implications about language use. -->
+  <!-- feedback: Correct. Prediction and probability is the point here: the pair separates certainty from likelihood: "Traffic will exceed capacity" against "Traffic is likely to exceed capacity", so the forecast arrives with a confidence level attached, which is what makes it usable for planning. Reading that implication is what the question asks. -->
 - [ ] A) It is largely irrelevant to the general public.
-  <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
+  <!-- feedback: This calls the device irrelevant, but the report treats that confidence level as central to public discussion, so calling it irrelevant contradicts the text. -->
 - [ ] C) It simplifies complex socio-political messages.
-  <!-- feedback: Incorrect. The use of {grammar} actually adds complexity and depth. -->
+  <!-- feedback: This claims the device makes the claim plainer, whereas the modal adds a degree of certainty to the forecast rather than making the message simpler. -->
 - [ ] D) It is only used by academic elites in {city}.
-  <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
+  <!-- feedback: This restricts the device to specialists in a single city, but the report shows this usage across media and discourse, not as jargon owned by one city's planners. -->
 
 ### Explicacion Pedagogica
 This question requires inferential reading skills to understand how complex structures convey deeper meaning.
@@ -186,13 +186,13 @@ According to a recent report on future cities in Manizales, what is implied abou
 
 ### Opciones
 - [x] C) It serves as a critical tool for nuanced communication.
-  <!-- feedback: Correct. C1+ level reading requires identifying subtle implications about language use. -->
+  <!-- feedback: Correct. Prediction and probability is the point here: the pair separates certainty from likelihood: "Traffic will exceed capacity" against "Traffic is likely to exceed capacity", so the forecast arrives with a confidence level attached, which is what makes it usable for planning. Reading that implication is what the question asks. -->
 - [ ] A) It is largely irrelevant to the general public.
-  <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
+  <!-- feedback: This calls the device irrelevant, but the report treats that confidence level as central to public discussion, so calling it irrelevant contradicts the text. -->
 - [ ] B) It simplifies complex socio-political messages.
-  <!-- feedback: Incorrect. The use of {grammar} actually adds complexity and depth. -->
+  <!-- feedback: This claims the device makes the claim plainer, whereas the modal adds a degree of certainty to the forecast rather than making the message simpler. -->
 - [ ] D) It is only used by academic elites in {city}.
-  <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
+  <!-- feedback: This restricts the device to specialists in a single city, but the report shows this usage across media and discourse, not as jargon owned by one city's planners. -->
 
 ### Explicacion Pedagogica
 This question requires inferential reading skills to understand how complex structures convey deeper meaning.
@@ -211,13 +211,13 @@ According to a recent report on future cities in Barranquilla, what is implied a
 
 ### Opciones
 - [x] B) It serves as a critical tool for nuanced communication.
-  <!-- feedback: Correct. C1+ level reading requires identifying subtle implications about language use. -->
+  <!-- feedback: Correct. Prediction and probability is the point here: the pair separates certainty from likelihood: "Traffic will exceed capacity" against "Traffic is likely to exceed capacity", so the forecast arrives with a confidence level attached, which is what makes it usable for planning. Reading that implication is what the question asks. -->
 - [ ] A) It is largely irrelevant to the general public.
-  <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
+  <!-- feedback: This calls the device irrelevant, but the report treats that confidence level as central to public discussion, so calling it irrelevant contradicts the text. -->
 - [ ] C) It simplifies complex socio-political messages.
-  <!-- feedback: Incorrect. The use of {grammar} actually adds complexity and depth. -->
+  <!-- feedback: This claims the device makes the claim plainer, whereas the modal adds a degree of certainty to the forecast rather than making the message simpler. -->
 - [ ] D) It is only used by academic elites in {city}.
-  <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
+  <!-- feedback: This restricts the device to specialists in a single city, but the report shows this usage across media and discourse, not as jargon owned by one city's planners. -->
 
 ### Explicacion Pedagogica
 This question requires inferential reading skills to understand how complex structures convey deeper meaning.
@@ -236,13 +236,13 @@ According to a recent report on future cities in Pereira, what is implied about 
 
 ### Opciones
 - [x] D) It serves as a critical tool for nuanced communication.
-  <!-- feedback: Correct. C1+ level reading requires identifying subtle implications about language use. -->
+  <!-- feedback: Correct. Prediction and probability is the point here: the pair separates certainty from likelihood: "Traffic will exceed capacity" against "Traffic is likely to exceed capacity", so the forecast arrives with a confidence level attached, which is what makes it usable for planning. Reading that implication is what the question asks. -->
 - [ ] A) It is largely irrelevant to the general public.
-  <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
+  <!-- feedback: This calls the device irrelevant, but the report treats that confidence level as central to public discussion, so calling it irrelevant contradicts the text. -->
 - [ ] B) It simplifies complex socio-political messages.
-  <!-- feedback: Incorrect. The use of {grammar} actually adds complexity and depth. -->
+  <!-- feedback: This claims the device makes the claim plainer, whereas the modal adds a degree of certainty to the forecast rather than making the message simpler. -->
 - [ ] C) It is only used by academic elites in {city}.
-  <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
+  <!-- feedback: This restricts the device to specialists in a single city, but the report shows this usage across media and discourse, not as jargon owned by one city's planners. -->
 
 ### Explicacion Pedagogica
 This question requires inferential reading skills to understand how complex structures convey deeper meaning.
@@ -261,13 +261,13 @@ According to a recent report on future cities in Medellín, what is implied abou
 
 ### Opciones
 - [x] D) It serves as a critical tool for nuanced communication.
-  <!-- feedback: Correct. C1+ level reading requires identifying subtle implications about language use. -->
+  <!-- feedback: Correct. Prediction and probability is the point here: the pair separates certainty from likelihood: "Traffic will exceed capacity" against "Traffic is likely to exceed capacity", so the forecast arrives with a confidence level attached, which is what makes it usable for planning. Reading that implication is what the question asks. -->
 - [ ] A) It is largely irrelevant to the general public.
-  <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
+  <!-- feedback: This calls the device irrelevant, but the report treats that confidence level as central to public discussion, so calling it irrelevant contradicts the text. -->
 - [ ] B) It simplifies complex socio-political messages.
-  <!-- feedback: Incorrect. The use of {grammar} actually adds complexity and depth. -->
+  <!-- feedback: This claims the device makes the claim plainer, whereas the modal adds a degree of certainty to the forecast rather than making the message simpler. -->
 - [ ] C) It is only used by academic elites in {city}.
-  <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
+  <!-- feedback: This restricts the device to specialists in a single city, but the report shows this usage across media and discourse, not as jargon owned by one city's planners. -->
 
 ### Explicacion Pedagogica
 This question requires inferential reading skills to understand how complex structures convey deeper meaning.

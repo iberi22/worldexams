@@ -193,7 +193,7 @@ Which sentence uses a defining relative clause correctly?
   <!-- feedback: 'What' does not function as a relative pronoun here. -->
 
 ### Explicacion Pedagogica
-Una clausula definitoria no lleva comas y restringe el significado del sustantivo.
+Una clausula definitoria no lleva comas y restringe el significado del sustantivo. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.
 
 ---
 
@@ -243,7 +243,7 @@ Why are commas necessary in 'My brother, who is a doctor, works at the hospital'
   <!-- feedback: The commas signal that the main clause stands without the relative clause. -->
 
 ### Explicacion Pedagogica
-Las comas delimitan la clausula y@gmail.com su caracter no esencial dentro de la oracion principal.
+Las comas delimitan la clausula y su caracter no esencial dentro de la oracion principal.
 
 ---
 
@@ -268,7 +268,7 @@ Which sentence is grammatically incorrect?
   <!-- feedback: A non-defining clause with 'which' is also correct here. -->
 
 ### Explicacion Pedagogica
-'That' no puede usarse en una clausula relativa no definitoria entre comas.
+'That' no puede usarse en una clausula relativa no definitoria entre comas. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.
 
 ---
 

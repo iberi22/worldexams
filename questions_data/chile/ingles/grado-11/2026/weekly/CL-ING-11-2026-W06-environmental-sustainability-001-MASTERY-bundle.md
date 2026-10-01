@@ -255,10 +255,10 @@ An endangered species is a type of organism which is at risk of extinction.
 Vast areas of the rainforest are being cleared to make way for agriculture.
 
 ### Opciones
-- [ ] A) are clearing <!-- feedback: Incorrect. Active voice. -->
-- [x] C) are being cleared <!-- feedback: Correct. Present continuous passive for ongoing process. -->
-- [ ] B) cleared <!-- feedback: Incorrect. Past simple. -->
-- [ ] D) have cleared <!-- feedback: Incorrect. Active voice. -->
+- [ ] A) are clearing <!-- feedback: 'Are clearing' is the active voice and would make the areas do the clearing; the areas are the ones being cleared. -->
+- [x] C) are being cleared <!-- feedback: Correct. 'Are being cleared' is the present continuous passive, used here for the destruction that is happening right now. -->
+- [ ] B) cleared <!-- feedback: 'Cleared' on its own would be past simple, but the clearing is happening now, not in the past. -->
+- [ ] D) have cleared <!-- feedback: 'Have cleared' is the Present Perfect active, which would need the subject to perform the action. -->
 
 ### Explicacion Pedagogica
 The present continuous passive 'are being cleared' describes the current destruction.

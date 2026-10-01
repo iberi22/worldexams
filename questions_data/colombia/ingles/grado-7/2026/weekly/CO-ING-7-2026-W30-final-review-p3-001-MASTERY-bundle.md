@@ -68,7 +68,7 @@ What is the superlative form of the adjective "cheap"?
 - [ ] C) The most cheap
   <!-- feedback: Incorrect. "Cheap" is a short adjective. -->
 - [ ] D) More cheap
-  <!-- feedback: Incorrect form. -->
+  <!-- feedback: 'Cheap' is a short adjective, so the superlative is built with '-est', not with 'more' as it would be for a long adjective. -->
 
 ### Explicacion Pedagogica
 The student identifies the correct superlative form for a short adjective.

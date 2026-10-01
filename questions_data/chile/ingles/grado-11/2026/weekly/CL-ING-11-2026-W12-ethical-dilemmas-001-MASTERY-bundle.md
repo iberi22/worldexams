@@ -195,9 +195,9 @@ A conflict of interest occurs when an individual's personal interests interfere 
 The ethics of genetic engineering are being debated by scientists and philosophers alike.
 
 ### Opciones
-- [ ] A) are debating <!-- feedback: Incorrect. Active voice. -->
+- [ ] A) are debating <!-- feedback: 'Are debating' is active, so the subject would have to be the debaters, but the sentence makes the ethics the thing debated. -->
 - [x] C) are being debated <!-- feedback: Correct. Present continuous passive for an ongoing discussion. -->
-- [ ] B) have debated <!-- feedback: Incorrect. Active voice. -->
+- [ ] B) have debated <!-- feedback: 'Have debated' is an active present perfect that would mean the scientists and philosophers already finished their debate. -->
 - [ ] D) debate <!-- feedback: Incorrect. Present simple. -->
 
 ### Explicacion Pedagogica
@@ -237,7 +237,7 @@ Integrity is the quality of being honest and having strong moral principles; mor
 ### Opciones
 - [ ] A) Greed <!-- feedback: Incorrect. Greed is a vice. -->
 - [x] B) Integrity <!-- feedback: Correct. Integrity is a fundamental ethical value. -->
-- [ ] C) Ambiguity <!-- feedback: Incorrect. Uncertainty. -->
+- [ ] C) Ambiguity <!-- feedback: Ambiguity is the quality of being open to several interpretations, which is the opposite of the clear moral firmness this definition describes. -->
 - [ ] D) Deception <!-- feedback: Incorrect. Being dishonest. -->
 
 ### Explicacion Pedagogica
@@ -257,7 +257,7 @@ Choosing between two equally important values can be agonizing.
 ### Opciones
 - [ ] A) agonize <!-- feedback: Incorrect. Verb form. -->
 - [x] B) agonizing <!-- feedback: Correct. Adjective describing the effect of the choice. -->
-- [ ] C) agony <!-- feedback: Incorrect. Noun. -->
+- [ ] C) agony <!-- feedback: Agony is the noun naming the suffering itself, but the blank after 'can be' needs the adjective that describes the choice. -->
 - [ ] D) agonized <!-- feedback: Incorrect. Adjective describing a person's state. -->
 
 ### Explicacion Pedagogica

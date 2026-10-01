@@ -221,7 +221,7 @@ Uso de identidades para reducir expresiones complejas.
 - [ ] B) $a^2 + b^2 + c^2$ <!-- feedback: Incorrecto. Faltan productos dobles. -->
 - [x] A) $a^2 + b^2 + c^2 + 2ab + 2ac + 2bc$ <!-- feedback: Correcto. Suma de cuadrados más dobles productos de todas las parejas. -->
 - [ ] C) $a^2 + b^2 + c^2 + ab + ac + bc$ <!-- feedback: Incorrecto. Productos no son dobles. -->
-- [ ] D) $(a+b)^2 + c^2$ <!-- feedback: Incorrecto. Incompleto. -->
+- [ ] D) $(a+b)^2 + c^2$ <!-- feedback: Al elevar $(a+b+c)^2$ aparecen los cruces $2ab$, $2ac$ y $2bc$; omitirlos deja la expresión incompleta, y además aquí solo se elevate al cuadrado $a+b$. -->
 
 ### Explicacion Pedagogica
 Generalización del binomio al cuadrado para tres términos.
@@ -324,7 +324,7 @@ Simplifica la expresión.
 
 ### Opciones
 - [ ] A) $x + 3$ <!-- feedback: Incorrecto. Factor equivocado. -->
-- [x] D) $x - 3$ <!-- feedback: Correcto. $(x+3)(x-3)/(x+3)$. -->
+- [x] D) $x - 3$ <!-- feedback: Al cancelar el factor común $(x+3)$ queda $x-3$, que es el resultado correcto. -->
 - [ ] B) $x - 9$ <!-- feedback: Incorrecto. Resta no permitida así. -->
 - [ ] C) 3 <!-- feedback: Incorrecto. Resultado variable. -->
 
@@ -365,7 +365,7 @@ Aplicación de leyes de exponentes sobre productos notables.
 ¿Resultado de $(a + b)(a^2 - ab + b^2)$?
 
 ### Opciones
-- [ ] B) $(a + b)^3$ <!-- feedback: Incorrecto. Incompleto. -->
+- [ ] B) $(a + b)^3$ <!-- feedback: Al desarrollar $(a+b)(a^2-ab+b^2)$ da $a^3+b^3$, que es distinto de $(a+b)^3=a^3+3a^2b+3ab^2+b^3$. -->
 - [x] A) $a^3 + b^3$ <!-- feedback: Correcto. Suma de cubos. -->
 - [ ] C) $a^3 - b^3$ <!-- feedback: Incorrecto. Signo de suma manda. -->
 - [ ] D) $a^3 + 3a^2b + 3ab^2 + b^3$ <!-- feedback: Incorrecto. Esto es binomio al cubo. -->
@@ -388,7 +388,7 @@ Reconocimiento de la estructura de factorización de suma de cubos.
 ### Opciones
 - [ ] A) 6 <!-- feedback: Incorrecto. Falta elevar. -->
 - [ ] B) 12 <!-- feedback: Incorrecto. No es el coeficiente. -->
-- [x] C) 36 <!-- feedback: Correcto. $(12/2)^2$. -->
+- [x] C) 36 <!-- feedback: El término que falta es la mitad del coeficiente al cuadrado, $(12/2)^2=36$, que completa $x^2+12x+36=(x+6)^2$. -->
 - [ ] D) 144 <!-- feedback: Incorrecto. No es el cuadrado del total. -->
 
 ### Explicacion Pedagogica
@@ -407,10 +407,10 @@ Técnica para hallar el tercer término del trinomio cuadrado perfecto.
 ¿Qué herramienta da coeficientes de $(x+y)^n$?
 
 ### Opciones
-- [ ] A) Tablas multiplicar. <!-- feedback: Incorrecto. Insuficiente. -->
+- [ ] A) Tablas multiplicar. <!-- feedback: Una tabla de multiplicar solo da productos de números, no los coeficientes binomiales $(n\choose k)$ de cada fila. -->
 - [x] D) Triángulo Pascal. <!-- feedback: Correcto. Contiene coeficientes binomiales. -->
 - [ ] B) Regla de tres. <!-- feedback: Incorrecto. Sin relación. -->
-- [ ] C) Algoritmo Euclides. <!-- feedback: Incorrecto. MCD. -->
+- [ ] C) Algoritmo Euclides. <!-- feedback: El algoritmo de Euclides sirve para calcular el máximo común divisor, no para desarrollar $(x+y)^n$. -->
 
 ### Explicacion Pedagogica
 Relación entre combinatoria y productos notables de grado n.

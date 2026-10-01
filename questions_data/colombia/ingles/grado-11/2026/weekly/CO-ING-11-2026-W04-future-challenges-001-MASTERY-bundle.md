@@ -140,7 +140,7 @@ According to a recent report on future challenges in Bucaramanga, what is implie
 - [ ] A) It is largely irrelevant to the general public.
   <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
 - [ ] B) It simplifies complex socio-political messages.
-  <!-- feedback: Incorrect. The use of {grammar} actually adds complexity and depth. -->
+  <!-- feedback: Incorrect. Modals of Deduction (Past) gives a text its nuance and precision, so it does not make the message simpler to grasp. -->
 - [ ] D) It is only used by academic elites in {city}.
   <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
 
@@ -165,7 +165,7 @@ According to a recent report on future challenges in Barranquilla, what is impli
 - [ ] A) It is largely irrelevant to the general public.
   <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
 - [ ] C) It simplifies complex socio-political messages.
-  <!-- feedback: Incorrect. The use of {grammar} actually adds complexity and depth. -->
+  <!-- feedback: Incorrect. Modals of Deduction (Past) gives a text its nuance and precision, so it does not make the message simpler to grasp. -->
 - [ ] D) It is only used by academic elites in {city}.
   <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
 
@@ -190,7 +190,7 @@ According to a recent report on future challenges in Barranquilla, what is impli
 - [ ] A) It is largely irrelevant to the general public.
   <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
 - [ ] B) It simplifies complex socio-political messages.
-  <!-- feedback: Incorrect. The use of {grammar} actually adds complexity and depth. -->
+  <!-- feedback: Incorrect. Modals of Deduction (Past) gives a text its nuance and precision, so it does not make the message simpler to grasp. -->
 - [ ] D) It is only used by academic elites in {city}.
   <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
 
@@ -215,7 +215,7 @@ According to a recent report on future challenges in Medellín, what is implied 
 - [ ] A) It is largely irrelevant to the general public.
   <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
 - [ ] B) It simplifies complex socio-political messages.
-  <!-- feedback: Incorrect. The use of {grammar} actually adds complexity and depth. -->
+  <!-- feedback: Incorrect. Modals of Deduction (Past) gives a text its nuance and precision, so it does not make the message simpler to grasp. -->
 - [ ] C) It is only used by academic elites in {city}.
   <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
 
@@ -240,7 +240,7 @@ According to a recent report on future challenges in Bucaramanga, what is implie
 - [ ] A) It is largely irrelevant to the general public.
   <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
 - [ ] B) It simplifies complex socio-political messages.
-  <!-- feedback: Incorrect. The use of {grammar} actually adds complexity and depth. -->
+  <!-- feedback: Incorrect. Modals of Deduction (Past) gives a text its nuance and precision, so it does not make the message simpler to grasp. -->
 - [ ] D) It is only used by academic elites in {city}.
   <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
 
@@ -265,7 +265,7 @@ According to a recent report on future challenges in Bogotá, what is implied ab
 - [ ] A) It is largely irrelevant to the general public.
   <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
 - [ ] B) It simplifies complex socio-political messages.
-  <!-- feedback: Incorrect. The use of {grammar} actually adds complexity and depth. -->
+  <!-- feedback: Incorrect. Modals of Deduction (Past) gives a text its nuance and precision, so it does not make the message simpler to grasp. -->
 - [ ] D) It is only used by academic elites in {city}.
   <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
 

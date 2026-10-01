@@ -255,9 +255,9 @@ A budget is an estimate of income and expenditure for a set period of time.
 Thousands of jobs have been lost in the manufacturing sector over the last decade.
 
 ### Opciones
-- [ ] A) have lost <!-- feedback: Incorrect. Active voice. -->
+- [ ] A) have lost <!-- feedback: "Have lost" is the active voice and would mean the sector itself lost the jobs. The jobs are what was lost, so the sentence needs the passive. -->
 - [x] B) have been lost <!-- feedback: Correct. Present perfect passive for a process starting in the past. -->
-- [ ] C) are losing <!-- feedback: Incorrect. Active voice. -->
+- [ ] C) are losing <!-- feedback: "Are losing" is the present continuous, which would describe a loss happening now; the decade-long process already concluded, so the present perfect passive is right. -->
 - [ ] D) lost <!-- feedback: Incorrect. Past simple. -->
 
 ### Explicacion Pedagogica

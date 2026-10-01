@@ -140,7 +140,7 @@ According to a recent report on historical turning points in Cali, what is impli
 - [ ] A) It is largely irrelevant to the general public.
   <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
 - [ ] C) It simplifies complex socio-political messages.
-  <!-- feedback: Incorrect. The use of {grammar} actually adds complexity and depth. -->
+  <!-- feedback: Incorrect. The construction in question adds precision and nuance to the message, so it makes the reading harder rather than simplifying it. -->
 - [ ] D) It is only used by academic elites in {city}.
   <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
 
@@ -165,7 +165,7 @@ According to a recent report on historical turning points in Pereira, what is im
 - [ ] A) It is largely irrelevant to the general public.
   <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
 - [ ] B) It simplifies complex socio-political messages.
-  <!-- feedback: Incorrect. The use of {grammar} actually adds complexity and depth. -->
+  <!-- feedback: Incorrect. The construction in question adds precision and nuance to the message, so it makes the reading harder rather than simplifying it. -->
 - [ ] D) It is only used by academic elites in {city}.
   <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
 
@@ -190,7 +190,7 @@ According to a recent report on historical turning points in Manizales, what is 
 - [ ] A) It is largely irrelevant to the general public.
   <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
 - [ ] B) It simplifies complex socio-political messages.
-  <!-- feedback: Incorrect. The use of {grammar} actually adds complexity and depth. -->
+  <!-- feedback: Incorrect. The construction in question adds precision and nuance to the message, so it makes the reading harder rather than simplifying it. -->
 - [ ] D) It is only used by academic elites in {city}.
   <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
 
@@ -215,7 +215,7 @@ According to a recent report on historical turning points in Barranquilla, what 
 - [ ] B) It is largely irrelevant to the general public.
   <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
 - [ ] C) It simplifies complex socio-political messages.
-  <!-- feedback: Incorrect. The use of {grammar} actually adds complexity and depth. -->
+  <!-- feedback: Incorrect. The construction in question adds precision and nuance to the message, so it makes the reading harder rather than simplifying it. -->
 - [ ] D) It is only used by academic elites in {city}.
   <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
 
@@ -240,7 +240,7 @@ According to a recent report on historical turning points in Pereira, what is im
 - [ ] A) It is largely irrelevant to the general public.
   <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
 - [ ] C) It simplifies complex socio-political messages.
-  <!-- feedback: Incorrect. The use of {grammar} actually adds complexity and depth. -->
+  <!-- feedback: Incorrect. The construction in question adds precision and nuance to the message, so it makes the reading harder rather than simplifying it. -->
 - [ ] D) It is only used by academic elites in {city}.
   <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
 
@@ -265,7 +265,7 @@ According to a recent report on historical turning points in Medellín, what is 
 - [ ] B) It is largely irrelevant to the general public.
   <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
 - [ ] C) It simplifies complex socio-political messages.
-  <!-- feedback: Incorrect. The use of {grammar} actually adds complexity and depth. -->
+  <!-- feedback: Incorrect. The construction in question adds precision and nuance to the message, so it makes the reading harder rather than simplifying it. -->
 - [ ] D) It is only used by academic elites in {city}.
   <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
 

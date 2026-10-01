@@ -18,466 +18,507 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 ---
-# MASTERY Bundle - Ingles: Phrasal Verbs Advanced (W21)
-**20 preguntas | Ingles | CNEB - MINEDU**
+# MASTERY Bundle - Ingles: phrasal-verbs-advanced (W21)
+**20 preguntas | Ingles | Curriculo de Ingles**
 
 ---
-## Question 1 [D3-D4]
-**ID:** PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-v1
-**Bloom:** Remember
-**EJE:** Lexico
+
+## Question 1 [D5-D6]
+**ID:** PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-bundle-v1
+**Bloom:** Analyze
+**EJE:** Lexical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Phrasal verbs avanzados, Lima, grado 11.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+What does 'account for' mean in the sentence: 'Rising prices account for most of the complaints'?
 
 ### Opciones
-- [x] D) accommodation
-  <!-- feedback: Correct! 'accommodation' matches the definition. -->
-- [ ] A) transportation
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) entertainment
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) currency
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) To count the number of items
+  <!-- feedback: That would be 'account for' in the sense of counting, but not here. -->
+- [ ] B) To take responsibility formally
+  <!-- feedback: That would be 'take responsibility for'. -->
+- [ ] C) To describe in detail
+  <!-- feedback: That would be 'account for' as in a report describing events. -->
+- [x] D) To explain or constitute the cause
+  <!-- feedback: 'Account for' links a result to its explanation. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
+'Account for' significa explicar o constituir la causa de un fenomeno. Conviene practicarlo con otros ejemplos antes del examen.
+
 ---
-## Question 2 [D3-D4]
-**ID:** PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-v2
-**Bloom:** Remember
-**EJE:** Lexico
+
+## Question 2 [D5-D6]
+**ID:** PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-bundle-v2
+**Bloom:** Apply
+**EJE:** Lexical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Phrasal verb en contexto profesional, Arequipa.
 
 ### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
+Complete the sentence: 'Please ____ the meeting until Friday; several people cannot attend today.'
 
 ### Opciones
-- [x] B) itinerary
-  <!-- feedback: Correct! 'itinerary' matches the definition. -->
-- [ ] A) baggage
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) destination
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) passport
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) put up
+  <!-- feedback: 'Put up' means to display something or to tolerate a person. -->
+- [x] B) put off
+  <!-- feedback: 'Put off the meeting' means to postpone it to a later date. -->
+- [ ] C) put out
+  <!-- feedback: 'Put out' means to extinguish a fire or to publish something. -->
+- [ ] D) put through
+  <!-- feedback: 'Put through' means to connect a call or to complete a process. -->
 
 ### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
+'Put off' significa aplazar; el contexto de ausencias lo confirma. Este matiz se comprueba comparando con el resto de opciones.
+
 ---
-## Question 3 [D3-D4]
-**ID:** PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-v3
-**Bloom:** Understand
-**EJE:** Lexico
+
+## Question 3 [D5-D6]
+**ID:** PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-bundle-v3
+**Bloom:** Analyze
+**EJE:** Lexical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Phrasal verbs de encuentro, Trujillo.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+Which sentence uses 'come across' correctly?
 
 ### Opciones
-- [x] B) destination
-  <!-- feedback: Correct! 'destination' matches the definition. -->
-- [ ] A) departure
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) arrival
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) journey
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) I came across the photo for the drawer.
+  <!-- feedback: 'Across' requires a preposition of movement, not this use. -->
+- [ ] B) I came across of an old photograph.
+  <!-- feedback: No preposition 'of' belongs after 'come across'. -->
+- [ ] C) I came the photograph across of in the drawer.
+  <!-- feedback: The word order breaks the phrasal verb structure. -->
+- [x] D) I came across an old photograph in the drawer.
+  <!-- feedback: 'Come across' means to find something by chance. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
+'Come across' significa encontrar por casualidad o descubrir algo. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.
+
 ---
-## Question 4 [D3-D4]
-**ID:** PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-v4
-**Bloom:** Understand
-**EJE:** Lexico
+
+## Question 4 [D5-D6]
+**ID:** PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-bundle-v4
+**Bloom:** Analyze
+**EJE:** Lexical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Comprension de phrasal verbs, Piura.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+What does 'get away with' mean?
 
 ### Opciones
-- [x] A) luggage
-  <!-- feedback: Correct! 'luggage' matches the definition. -->
-- [ ] B) ticket
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) flight
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) reservation
-  <!-- feedback: Incorrect. Try again. -->
+- [x] A) To do something wrong without being punished
+  <!-- feedback: 'Get away with it' implies escaping the consequence. -->
+- [ ] B) To escape from a dangerous place
+  <!-- feedback: That would be 'get away' plus a destination or source. -->
+- [ ] C) To leave a party early
+  <!-- feedback: That would be 'leave early' or 'slip out'. -->
+- [ ] D) To be absent from school
+  <!-- feedback: That would be 'be away from'. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
+'Get away with' significa salirse sin castigo por una accion indebida. Conviene practicarlo con otros ejemplos antes del examen.
+
 ---
+
 ## Question 5 [D5-D6]
-**ID:** PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-v5
-**Bloom:** Understand
-**EJE:** Lexico
+**ID:** PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-bundle-v5
+**Bloom:** Analyze
+**EJE:** Lexical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Analisis en contexto, Cusco.
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+Read the text: 'After the audit, the manager had to account for the missing funds.' What does the phrasal verb mean?
 
 ### Opciones
-- [x] B) passenger
-  <!-- feedback: Correct! 'passenger' matches the definition. -->
-- [ ] A) pedestrian
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) commuter
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) tourist
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) To count the missing money
+  <!-- feedback: Counting would be possible with the same words but not with this context. -->
+- [ ] B) To take the blame for the audit
+  <!-- feedback: Taking the blame would be 'take responsibility'. -->
+- [x] C) To explain the missing money
+  <!-- feedback: 'Account for' here means to justify or explain the funds. -->
+- [ ] D) To escape from the audit
+  <!-- feedback: Escaping would be 'get away with'. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
+En este contexto 'account for' significa dar explicaciones sobre el dinero faltante.
+
 ---
+
 ## Question 6 [D5-D6]
-**ID:** PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-v6
-**Bloom:** Understand
-**EJE:** Lexico
+**ID:** PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-bundle-v6
+**Bloom:** Analyze
+**EJE:** Lexical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Phrasal verbs de contratacion, Huaraz.
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+Choose the sentence that uses 'take on' correctly.
 
 ### Opciones
-- [x] C) customs
-  <!-- feedback: Correct! 'customs' matches the definition. -->
-- [ ] A) security
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) terminal
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) gate
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) The company will take on the new employees of ten.
+  <!-- feedback: The word order breaks the phrasal verb structure. -->
+- [ ] B) The company will take the new employees on of ten.
+  <!-- feedback: 'Of' does not belong after 'take on' in this sense. -->
+- [ ] C) The company will take of ten new employees.
+  <!-- feedback: The preposition placement destroys the phrasal verb. -->
+- [x] D) The company will take on ten new employees.
+  <!-- feedback: 'Take on' means to hire additional staff. -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
+'Take on' significa contratar a alguien o asumir una responsabilidad nueva. Este matiz se comprueba comparando con el resto de opciones.
+
 ---
+
 ## Question 7 [D5-D6]
-**ID:** PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-v7
-**Bloom:** Apply
-**EJE:** Lexico
+**ID:** PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-bundle-v7
+**Bloom:** Understand
+**EJE:** Lexical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Vocabulario de phrasal verbs, Juliaca.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+What does 'rule out' mean?
 
 ### Opciones
-- [x] B) boarding pass
-  <!-- feedback: Correct! 'boarding pass' matches the definition. -->
-- [ ] A) visa
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) receipt
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) brochure
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) To write down a rule
+  <!-- feedback: That would be 'write down'. -->
+- [ ] B) To win a competition
+  <!-- feedback: That would be 'rule' or 'win'. -->
+- [x] C) To eliminate something as a possibility
+  <!-- feedback: 'Rule out' removes an option from consideration. -->
+- [ ] D) To measure according to a standard
+  <!-- feedback: That would be 'measure against' or 'assess by'. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+'Rule out' significa descartar una posibilidad, es decir, considerar que no es posible.
+
 ---
-## Question 8 [D5-D6]
-**ID:** PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-v8
+
+## Question 8 [D3-D4]
+**ID:** PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Lexical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Phrasal verb de cancelacion, Lima.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+Complete: 'We need to ____ the meeting because half the team is travelling.'
 
 ### Opciones
-- [x] C) sightseeing
-  <!-- feedback: Correct! 'sightseeing' matches the definition. -->
-- [ ] A) shopping
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) hiking
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) camping
-  <!-- feedback: Incorrect. Try again. -->
+- [x] A) call off
+  <!-- feedback: 'Call off the meeting' means to cancel it. -->
+- [ ] B) call on
+  <!-- feedback: 'Call on' means to visit briefly or to appeal to someone. -->
+- [ ] C) call back
+  <!-- feedback: 'Call back' means to return a phone call. -->
+- [ ] D) call for
+  <!-- feedback: 'Call for' means to demand or to summon. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+'Call off' significa cancelar, y la razon que da la oracion lo confirma. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.
+
 ---
+
 ## Question 9 [D5-D6]
-**ID:** PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-v9
-**Bloom:** Apply
-**EJE:** Lexico
+**ID:** PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-bundle-v9
+**Bloom:** Analyze
+**EJE:** Lexical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Phrasal verb de comprension, Arequipa.
 
 ### Enunciado
-What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
+Which sentence uses 'figure out' correctly?
 
 ### Opciones
-- [x] B) souvenir
-  <!-- feedback: Correct! 'souvenir' matches the definition. -->
-- [ ] A) gift
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) award
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) prize
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) It took me an hour to figure the answer out of.
+  <!-- feedback: The particle placement and 'of' are both incorrect here. -->
+- [x] B) It took me an hour to figure out the answer.
+  <!-- feedback: 'Figure out' means to understand something after working on it. -->
+- [ ] C) It took me an hour to figure of the answer.
+  <!-- feedback: No preposition 'of' belongs after this phrasal verb. -->
+- [ ] D) It took me an hour to figure the out answer.
+  <!-- feedback: The particle cannot stand between two nouns of the phrase. -->
 
 ### Explicacion Pedagogica
-The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
+'Figure out' significa comprender o resolver algo tras pensar en ello. Conviene practicarlo con otros ejemplos antes del examen.
+
 ---
+
 ## Question 10 [D5-D6]
-**ID:** PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-v10
+**ID:** PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-bundle-v10
+**Bloom:** Analyze
+**EJE:** Lexical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Vocabulario de progreso, Trujillo.
+
+### Enunciado
+What does the phrasal verb 'keep up with' mean?
+
+### Opciones
+- [ ] A) To store something away
+  <!-- feedback: That would be 'keep away' or 'put away'. -->
+- [ ] B) To continue working without rest
+  <!-- feedback: That would be 'carry on' or 'keep going'. -->
+- [x] C) To maintain the same pace or level as someone else
+  <!-- feedback: 'Keep up with' implies staying level with a moving standard. -->
+- [ ] D) To support a friend emotionally
+  <!-- feedback: That would be 'stand by' or 'be there for'. -->
+
+### Explicacion Pedagogica
+'Keep up with' significa mantener el mismo ritmo o nivel que otra persona o grupo. Este matiz se comprueba comparando con el resto de opciones.
+
+---
+
+## Question 11 [D5-D6]
+**ID:** PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Lexical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Practica de particulas, Piura.
 
 ### Enunciado
-What is the English word for: "A period of time by which something is late or postponed."
+Look at the sentence: 'The results were so surprising that nobody could account ____ them.' Choose the particle.
 
 ### Opciones
-- [x] D) delay
-  <!-- feedback: Correct! 'delay' matches the definition. -->
-- [ ] A) cancellation
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) departure
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) arrival
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) of
+  <!-- feedback: 'Account of' is not a standard phrasal verb in this meaning. -->
+- [x] B) for
+  <!-- feedback: 'Account for' requires 'for' as part of the fixed combination. -->
+- [ ] C) about
+  <!-- feedback: 'About' would be a free preposition, not part of the phrasal verb. -->
+- [ ] D) to
+  <!-- feedback: 'Account to' belongs to a different pattern, as in reporting to a superior. -->
 
 ### Explicacion Pedagogica
-The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
+El phrasal verb es 'account for' y la preposicion 'for' es parte integrante del mismo.
+
 ---
-## Question 11 [D7-D8]
-**ID:** PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-v11
+
+## Question 12 [D5-D6]
+**ID:** PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-bundle-v12
+**Bloom:** Understand
+**EJE:** Lexical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Marco conceptual, Cusco.
+
+### Enunciado
+Which statement about 'put off' is correct?
+
+### Opciones
+- [x] A) It means to postpone or delay
+  <!-- feedback: Both senses of 'put off' share the idea of delay. -->
+- [ ] B) It means to extinguish a fire
+  <!-- feedback: That is 'put out'. -->
+- [ ] C) It means to raise a subject
+  <!-- feedback: That is 'put forward' or 'bring up'. -->
+- [ ] D) It means to tolerate a person
+  <!-- feedback: That is 'put up with'. -->
+
+### Explicacion Pedagogica
+'Put off' tiene dos usos: aplazar una accion o posponer algo; en ambos casos el sentido es retrasar.
+
+---
+
+## Question 13 [D5-D6]
+**ID:** PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-bundle-v13
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Lexical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Phrasal verb en contexto de politica, Puno.
 
 ### Enunciado
-What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
+Complete the sentence: 'The government is trying to ____ the effects of the drought on farmers.'
 
 ### Opciones
-- [x] D) check-in
-  <!-- feedback: Correct! 'check-in' matches the definition. -->
-- [ ] A) check-out
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) booking
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) reservation
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) care of
+  <!-- feedback: 'Care for' means to look after someone; 'care of' would need a person. -->
+- [ ] B) count of
+  <!-- feedback: 'Count on' means to rely on, not to deal with a problem. -->
+- [x] C) cope with
+  <!-- feedback: 'Cope with' means to deal with a difficult situation. -->
+- [ ] D) come of
+  <!-- feedback: 'Come off' is not a phrasal verb with this meaning. -->
 
 ### Explicacion Pedagogica
-The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
+'Cope with' significa hacer frente a una situacion dificil. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.
+
 ---
-## Question 12 [D7-D8]
-**ID:** PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-v12
+
+## Question 14 [D5-D6]
+**ID:** PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-bundle-v14
+**Bloom:** Analyze
+**EJE:** Lexical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Phrasal verbs de relaciones, Huaraz.
+
+### Enunciado
+Which sentence uses 'get along with' correctly?
+
+### Opciones
+- [ ] A) She gets along of well with her colleagues.
+  <!-- feedback: The preposition 'of' does not belong after this phrasal verb. -->
+- [x] B) She gets along well with her colleagues.
+  <!-- feedback: 'Get along with' expresses a good relationship. -->
+- [ ] C) She gets along well of her colleagues.
+  <!-- feedback: The preposition must not be introduced before the noun. -->
+- [ ] D) She gets along her colleagues well with.
+  <!-- feedback: The word order separates the phrasal verb incorrectly. -->
+
+### Explicacion Pedagogica
+'Get along with' significa llevarse bien con otra persona. Conviene practicarlo con otros ejemplos antes del examen.
+
+---
+
+## Question 15 [D5-D6]
+**ID:** PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-bundle-v15
+**Bloom:** Analyze
+**EJE:** Lexical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Analisis del phrasal verb, Jauja.
+
+### Enunciado
+Read: 'Despite the delays, the project was carried out on time.' What does 'carried out' mean?
+
+### Opciones
+- [ ] A) Carried physically
+  <!-- feedback: In this phrasal verb 'out' is the particle, not a direction. -->
+- [ ] B) Postponed until later
+  <!-- feedback: That would be 'put off' or 'held back'. -->
+- [x] C) Executed or performed
+  <!-- feedback: 'Carried out' describes performing a planned activity. -->
+- [ ] D) Cancelled
+  <!-- feedback: The sentence says the project was completed on time. -->
+
+### Explicacion Pedagogica
+'Carry out' significa ejecutar o realizar una tarea o plan. Este matiz se comprueba comparando con el resto de opciones.
+
+---
+
+## Question 16 [D5-D6]
+**ID:** PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-bundle-v16
+**Bloom:** Analyze
+**EJE:** Lexical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Revision de phrasal verbs, Lima.
+
+### Enunciado
+Which sentence is grammatically incorrect?
+
+### Opciones
+- [ ] A) She turns off the lights when she leaves.
+  <!-- feedback: Correct subject-verb agreement with the phrasal verb. -->
+- [ ] B) She turned off the lights when she left.
+  <!-- feedback: Both verbs in the simple past are correct here. -->
+- [ ] C) She will turn off the lights when she leaves.
+  <!-- feedback: The future form agrees with the present 'leaves'. -->
+- [x] D) She turn off the lights when she leaves.
+  <!-- feedback: The verb needs the third person singular 'turns' in the present simple. -->
+
+### Explicacion Pedagogica
+'Turn off' no admite la preposicion 'of' y el verbo debe ir en tercera persona singular.
+
+---
+
+## Question 17 [D3-D4]
+**ID:** PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-bundle-v17
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Lexical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Phrasal verb de prevencion, Arequipa.
 
 ### Enunciado
-What is the English word for: "A period of rest or waiting before a further stage in a journey."
+Complete: 'We should ____ the issue before it affects the whole project.'
 
 ### Opciones
-- [x] A) layover
-  <!-- feedback: Correct! 'layover' matches the definition. -->
-- [ ] B) stopover
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) transfer
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) transit
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) iron of
+  <!-- feedback: No preposition 'of' belongs after this phrasal verb. -->
+- [ ] B) iron over
+  <!-- feedback: 'Iron over' is not a standard phrasal verb in English. -->
+- [ ] C) iron up
+  <!-- feedback: 'Iron up' is not a standard English phrasal verb. -->
+- [x] D) iron out
+  <!-- feedback: 'Iron out' means to resolve a difficulty smoothly. -->
 
 ### Explicacion Pedagogica
-The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
+'Iron out' significa resolver o suavizar una discrepancia o un problema. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.
+
 ---
-## Question 13 [D7-D8]
-**ID:** PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-v13
+
+## Question 18 [D5-D6]
+**ID:** PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-bundle-v18
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Lexical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Phrasal verb de crianza, Trujillo.
 
 ### Enunciado
-What is the English word for: "A system of money in general use in a particular country."
+What does 'bring up' mean in the sentence: 'She was brought up in the countryside'?
 
 ### Opciones
-- [x] D) currency
-  <!-- feedback: Correct! 'currency' matches the definition. -->
-- [ ] A) coin
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) banknote
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) cash
-  <!-- feedback: Incorrect. Try again. -->
+- [x] A) To raise a child during childhood
+  <!-- feedback: 'Brought up' refers to upbringing. -->
+- [ ] B) To raise a question in a meeting
+  <!-- feedback: 'Bring up' also means to mention a topic, but not with 'brought up'. -->
+- [ ] C) To bring something to a higher place
+  <!-- feedback: That would be 'lift' or 'raise'. -->
+- [ ] D) To introduce someone to others
+  <!-- feedback: That would be 'introduce' or 'present'. -->
 
 ### Explicacion Pedagogica
-The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
+'Bring up' en pasiva significa criar o educar a una persona durante su infancia. Conviene practicarlo con otros ejemplos antes del examen.
+
 ---
-## Question 14 [D7-D8]
-**ID:** PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-v14
+
+## Question 19 [D5-D6]
+**ID:** PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-bundle-v19
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Lexical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Phrasal verb de creatividad, Cajamarca.
 
 ### Enunciado
-What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
+Which sentence uses 'come up with' correctly?
 
 ### Opciones
-- [x] C) guidebook
-  <!-- feedback: Correct! 'guidebook' matches the definition. -->
-- [ ] A) map
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) dictionary
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) encyclopedia
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) She came up of a solution to the problem.
+  <!-- feedback: No preposition 'of' belongs after this phrasal verb. -->
+- [x] B) She came up with a solution to the problem.
+  <!-- feedback: 'Come up with' means to produce an idea or a solution. -->
+- [ ] C) She came the solution up with of.
+  <!-- feedback: The particle placement and preposition are both wrong. -->
+- [ ] D) She came with up a solution.
+  <!-- feedback: The particle cannot precede the verb in this construction. -->
 
 ### Explicacion Pedagogica
-The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
+'Come up with' significa idear o proponer una idea o solucion. Este matiz se comprueba comparando con el resto de opciones.
+
 ---
-## Question 15 [D7-D8]
-**ID:** PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-v15
-**Bloom:** Analyze
-**EJE:** Lexico
+
+## Question 20 [D5-D6]
+**ID:** PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-bundle-v20
+**Bloom:** Understand
+**EJE:** Lexical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Marco conceptual, Cusco.
 
 ### Enunciado
-What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
+Which statement about phrasal verbs is correct?
 
 ### Opciones
-- [x] B) backpack
-  <!-- feedback: Correct! 'backpack' matches the definition. -->
-- [ ] A) suitcase
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) briefcase
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) handbag
-  <!-- feedback: Incorrect. Try again. -->
+- [x] A) They are verb plus particle units whose meaning is not fully predictable from the parts
+  <!-- feedback: That is the defining property of phrasal verbs. -->
+- [ ] B) They are simply verbs written with a hyphen
+  <!-- feedback: Phrasal verbs are written as separate words in running text. -->
+- [ ] C) They always require a preposition plus an object
+  <!-- feedback: That describes prepositional phrasal verbs only. -->
+- [ ] D) They never change the meaning of the base verb
+  <!-- feedback: Most phrasal verbs do change the meaning of the base verb. -->
 
 ### Explicacion Pedagogica
-The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
+Un phrasal verb combina un verbo con una particula que cambia o completa su significado.
+
 ---
-## Question 16 [D7-D8]
-**ID:** PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-v16
-**Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "In or to a foreign country, especially one across the sea."
-
-### Opciones
-- [x] A) overseas
-  <!-- feedback: Correct! 'overseas' matches the definition. -->
-- [ ] B) domestic
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) local
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) national
-  <!-- feedback: Incorrect. Try again. -->
-
-### Explicacion Pedagogica
-The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
----
-## Question 17 [D9-D10]
-**ID:** PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-v17
-**Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "An estimate of income and expenditure for a set period of time."
-
-### Opciones
-- [x] D) budget
-  <!-- feedback: Correct! 'budget' matches the definition. -->
-- [ ] A) expense
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) cost
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) price
-  <!-- feedback: Incorrect. Try again. -->
-
-### Explicacion Pedagogica
-The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
----
-## Question 18 [D9-D10]
-**ID:** PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-v18
-**Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
-
-### Opciones
-- [x] B) insurance
-  <!-- feedback: Correct! 'insurance' matches the definition. -->
-- [ ] A) warranty
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) guarantee
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) policy
-  <!-- feedback: Incorrect. Try again. -->
-
-### Explicacion Pedagogica
-The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
----
-## Question 19 [D9-D10]
-**ID:** PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-v19
-**Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
-
-### Opciones
-- [x] C) vaccination
-  <!-- feedback: Correct! 'vaccination' matches the definition. -->
-- [ ] A) medication
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) prescription
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) infection
-  <!-- feedback: Incorrect. Try again. -->
-
-### Explicacion Pedagogica
-The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
----
-## Question 20 [D9-D10]
-**ID:** PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-v20
-**Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
-
-### Opciones
-- [x] D) jet lag
-  <!-- feedback: Correct! 'jet lag' matches the definition. -->
-- [ ] A) fatigue
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) exhaustion
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) insomnia
-  <!-- feedback: Incorrect. Try again. -->
-
-### Explicacion Pedagogica
-The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.

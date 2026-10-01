@@ -205,7 +205,7 @@ El superlativo lleva siempre articulo definido: 'the best player'. Este matiz se
 **Contexto:** Evaluacion del uso de articulos, Guayaquil.
 
 ### Enunciado
-Which sentence is grammatically correct?
+Choose the sentence with the correct use of the articles.
 
 ### Opciones
 - [ ] A) He waited for hour and a half at airport.

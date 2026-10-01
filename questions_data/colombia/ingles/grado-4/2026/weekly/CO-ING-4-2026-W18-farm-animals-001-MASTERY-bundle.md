@@ -35,10 +35,10 @@ Este bundle evalúa conceptos de farm animals en inglés, nivel CEFR A1 para gra
 A ________ gives us milk.
 
 ### Opciones
-- [x] A) cow <!-- feedback: Correct! -->
-- [ ] B) pig <!-- feedback: No. -->
-- [ ] C) duck <!-- feedback: No. -->
-- [ ] D) hen <!-- feedback: No. -->
+- [x] A) cow <!-- feedback: Correct. Cows produce the milk that people drink and use to make cheese and yogurt. -->
+- [ ] B) pig <!-- feedback: Pigs give us meat, not milk. -->
+- [ ] C) duck <!-- feedback: Ducks give us eggs and meat; their milk is not used for food. -->
+- [ ] D) hen <!-- feedback: A hen lays the eggs we eat, which is what we get from her. -->
 
 ### Explicación Pedagógica
 This question evaluates remember skills regarding farm animals at the CEFR A1 level.
@@ -56,10 +56,10 @@ This question evaluates remember skills regarding farm animals at the CEFR A1 le
 A ________ gives us eggs.
 
 ### Opciones
-- [ ] A) sheep <!-- feedback: No. -->
-- [x] B) hen <!-- feedback: Correct! -->
-- [ ] C) cow <!-- feedback: No. -->
-- [ ] D) horse <!-- feedback: No. -->
+- [ ] A) sheep <!-- feedback: Sheep give us wool and meat, not eggs. -->
+- [x] B) hen <!-- feedback: Correct. A hen is an adult female chicken, and she lays the eggs we eat. -->
+- [ ] C) cow <!-- feedback: Cows give us milk; eggs come from birds such as hens. -->
+- [ ] D) horse <!-- feedback: Horses are used for riding and transport; they do not produce eggs. -->
 
 ### Explicación Pedagógica
 This question evaluates understand skills regarding farm animals at the CEFR A1 level.
@@ -77,10 +77,10 @@ This question evaluates understand skills regarding farm animals at the CEFR A1 
 A ________ has a curly tail and says 'Oink'.
 
 ### Opciones
-- [ ] A) duck <!-- feedback: No. -->
-- [ ] B) cow <!-- feedback: No. -->
-- [x] C) pig <!-- feedback: Correct! -->
-- [ ] D) horse <!-- feedback: No. -->
+- [ ] A) duck <!-- feedback: A duck says 'Quack' and has flat webbed feet. -->
+- [ ] B) cow <!-- feedback: A cow says 'Moo' and is much larger, with no curly tail. -->
+- [x] C) pig <!-- feedback: Correct. Pigs have a curly tail, and 'Oink' is the sound that identifies one. -->
+- [ ] D) horse <!-- feedback: A horse says 'Neigh' and has a long mane and tail. -->
 
 ### Explicación Pedagógica
 This question evaluates apply skills regarding farm animals at the CEFR A1 level.
@@ -98,10 +98,10 @@ This question evaluates apply skills regarding farm animals at the CEFR A1 level
 A ________ gives us wool for clothes.
 
 ### Opciones
-- [ ] A) goat <!-- feedback: No. -->
-- [ ] B) pig <!-- feedback: No. -->
-- [ ] C) chicken <!-- feedback: No. -->
-- [x] D) sheep <!-- feedback: Correct! -->
+- [ ] A) goat <!-- feedback: Goats can give milk, but their hair is not the wool used for clothes. -->
+- [ ] B) pig <!-- feedback: Pigs give us meat and bristles, not wool. -->
+- [ ] C) chicken <!-- feedback: Chickens give us eggs and meat; wool comes from a mammal, not a bird. -->
+- [x] D) sheep <!-- feedback: Correct. Sheep are shorn for their soft fleece, which becomes the wool used to knit clothes. -->
 
 ### Explicación Pedagógica
 This question evaluates analyze skills regarding farm animals at the CEFR A1 level.
@@ -119,10 +119,10 @@ This question evaluates analyze skills regarding farm animals at the CEFR A1 lev
 You can ride a ________.
 
 ### Opciones
-- [x] A) horse <!-- feedback: Correct! -->
-- [ ] B) pig <!-- feedback: No. -->
-- [ ] C) duck <!-- feedback: No. -->
-- [ ] D) chicken <!-- feedback: No. -->
+- [x] A) horse <!-- feedback: Correct. A horse is trained to be ridden: its back and height are suited to carrying a person. -->
+- [ ] B) pig <!-- feedback: A pig is kept for meat; it is too small and is never trained to carry a rider. -->
+- [ ] C) duck <!-- feedback: A duck is a bird that swims and flies; no one rides it. -->
+- [ ] D) chicken <!-- feedback: A chicken is a bird kept for eggs and meat, far too small to ride. -->
 
 ### Explicación Pedagógica
 This question evaluates evaluate skills regarding farm animals at the CEFR A1 level.
@@ -140,10 +140,10 @@ This question evaluates evaluate skills regarding farm animals at the CEFR A1 le
 A ________ says 'Quack Quack'.
 
 ### Opciones
-- [ ] A) sheep <!-- feedback: No. -->
-- [x] B) duck <!-- feedback: Correct! -->
-- [ ] C) hen <!-- feedback: No. -->
-- [ ] D) cow <!-- feedback: No. -->
+- [ ] A) sheep <!-- feedback: A sheep says 'Baa', the sound a lamb makes. -->
+- [x] B) duck <!-- feedback: Correct. 'Quack' is the sound a duck makes, and it is how we recognize the animal. -->
+- [ ] C) hen <!-- feedback: A hen says 'Cluck', or 'Egg, egg, egg' when she lays an egg. -->
+- [ ] D) cow <!-- feedback: A cow says 'Moo'. -->
 
 ### Explicación Pedagógica
 This question evaluates apply skills regarding farm animals at the CEFR A1 level.
@@ -161,10 +161,10 @@ This question evaluates apply skills regarding farm animals at the CEFR A1 level
 A ________ wakes people up on the farm.
 
 ### Opciones
-- [ ] A) cow <!-- feedback: No. -->
-- [ ] B) pig <!-- feedback: No. -->
-- [x] C) rooster <!-- feedback: Correct! -->
-- [ ] D) duck <!-- feedback: No. -->
+- [ ] A) cow <!-- feedback: A cow says 'Moo' in the morning; it does not wake people with a crow. -->
+- [ ] B) pig <!-- feedback: Pigs grunt and have no morning call. -->
+- [x] C) rooster <!-- feedback: Correct. A rooster crows at dawn, and that call is what wakes people up on the farm. -->
+- [ ] D) duck <!-- feedback: A duck quacks, usually around water, and does not announce the sunrise. -->
 
 ### Explicación Pedagógica
 This question evaluates understand skills regarding farm animals at the CEFR A1 level.
@@ -182,10 +182,10 @@ This question evaluates understand skills regarding farm animals at the CEFR A1 
 Farm animals live in a ________.
 
 ### Opciones
-- [ ] A) house <!-- feedback: No. -->
-- [ ] B) garage <!-- feedback: No. -->
-- [ ] C) kitchen <!-- feedback: No. -->
-- [x] D) barn <!-- feedback: Correct! -->
+- [ ] A) house <!-- feedback: A house is where people live; farm animals are kept in a separate building. -->
+- [ ] B) garage <!-- feedback: A garage is for cars and tools. -->
+- [ ] C) kitchen <!-- feedback: A kitchen is the room where food is prepared inside a home. -->
+- [x] D) barn <!-- feedback: Correct. A barn is the farm building where animals are kept and where hay and tools are stored. -->
 
 ### Explicación Pedagógica
 This question evaluates remember skills regarding farm animals at the CEFR A1 level.

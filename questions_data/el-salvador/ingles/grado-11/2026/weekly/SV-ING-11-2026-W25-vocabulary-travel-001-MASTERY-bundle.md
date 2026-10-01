@@ -219,7 +219,7 @@ Complete the sentence: 'I visited ____ last summer: Paris, Rome and Athens.'
   <!-- feedback: The plural ending is -ies, not -eyes. -->
 
 ### Explicacion Pedagogica
-La lista de paises visitados requiere el plural 'countries', con terminacion -ies.
+La lista de paises visitados requiere el plural 'countries', con terminacion -ies. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.
 
 ---
 
@@ -269,7 +269,7 @@ Choose the correct noun: 'The committee had to make a ____ before Friday.'
   <!-- feedback: That is a gerund noun and would require a different construction. -->
 
 ### Explicacion Pedagogica
-'Make a decision' es la collocation estandar; 'do a decision' no existe en ingles.
+'Make a decision' es la collocation estandar; 'do a decision' no existe en ingles. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.
 
 ---
 

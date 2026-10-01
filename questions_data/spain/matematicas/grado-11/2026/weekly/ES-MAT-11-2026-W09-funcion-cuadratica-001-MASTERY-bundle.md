@@ -94,8 +94,8 @@ Si en la función $f(x) = ax^2 + bx + c$, el coeficiente $a$ es negativo, ¿haci
 ### Opciones
 - [ ] B) Hacia arriba (convexa). <!-- feedback: Esto ocurre si a > 0. -->
 - [x] A) Hacia abajo (cóncava). <!-- feedback: Correcto. Un coeficiente principal negativo invierte la parábola, situando el vértice en el máximo. -->
-- [ ] C) Hacia la derecha. <!-- feedback: Las funciones de tipo y=f(x) no abren lateralmente. -->
-- [ ] D) Hacia la izquierda. <!-- feedback: Las funciones de tipo y=f(x) no abren lateralmente. -->
+- [ ] C) Hacia la derecha. <!-- feedback: Con $a<0$ la parábola se abre hacia abajo y hacia la derecha en el eje, no hacia la derecha en el plano. -->
+- [ ] D) Hacia la izquierda. <!-- feedback: Las funciones $y=f(x)$ no abren lateralmente; la dirección depende del signo de $a$ en el eje vertical. -->
 
 ### Explicacion Pedagogica
 El signo de $a$ determina la curvatura. Si $a < 0$, la función tiende a $-\infty$ cuando $x$ crece o decrece mucho, lo que resulta en una parábola con las ramas hacia abajo.

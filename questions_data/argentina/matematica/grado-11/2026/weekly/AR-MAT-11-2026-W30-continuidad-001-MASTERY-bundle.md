@@ -155,8 +155,8 @@ Para que la función sea continua, los límites laterales en el punto de unión 
 ¿Cuáles son los puntos de discontinuidad de f(x)?
 
 ### Opciones
-- [ ] A) Solo x = 3 <!-- feedback: Incorrecto. Olvidó el otro valor que anula el denominador. -->
-- [ ] B) Solo x = -3 <!-- feedback: Incorrecto. Olvidó el otro valor que anula el denominador. -->
+- [ ] A) Solo x = 3 <!-- feedback: x = 3 es solo uno de los dos ceros del denominador; falta x = -3, que también anula x² - 9. -->
+- [ ] B) Solo x = -3 <!-- feedback: x = -3 es solo uno de los dos ceros del denominador; falta x = 3, que también anula x² - 9. -->
 - [x] C) x = 3 y x = -3 <!-- feedback: Correcto. Son los valores que hacen cero el denominador x² - 9. -->
 - [ ] D) No tiene discontinuidades. <!-- feedback: Incorrecto. Las funciones racionales son discontinuas donde el denominador se anula. -->
 
@@ -178,8 +178,8 @@ Los puntos de discontinuidad de una función racional son aquellos valores de x 
 ¿Qué tipo de discontinuidad hay en x = -3 y en x = 3 respectivamente?
 
 ### Opciones
-- [ ] A) Ambas son evitables. <!-- feedback: Incorrecto. Solo una lo es. -->
-- [ ] B) Ambas son asintóticas. <!-- feedback: Incorrecto. Solo una lo es. -->
+- [ ] A) Ambas son evitables. <!-- feedback: Solo la discontinuidad en x = -3 es evitable; en x = 3 el límite es infinito y no se puede cancelar. -->
+- [ ] B) Ambas son asintóticas. <!-- feedback: Solo la discontinuidad en x = 3 es asintótica; en x = -3 el factor (x + 3) se cancela y el límite es finito. -->
 - [x] C) Evitable en x = -3 y Asintótica en x = 3. <!-- feedback: Correcto. En -3 el límite es finito (-1/6) porque el factor (x+3) se cancela. En 3 el límite es infinito (k/0). -->
 - [ ] D) Asintótica en x = -3 y Evitable en x = 3. <!-- feedback: Incorrecto. El orden es el inverso. -->
 

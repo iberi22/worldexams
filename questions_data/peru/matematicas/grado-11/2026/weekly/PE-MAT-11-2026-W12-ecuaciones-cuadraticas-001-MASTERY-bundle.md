@@ -256,13 +256,13 @@ La utilidad mensual $U$ de una empresa (en miles de soles) está dada por $U(x) 
 
 ### Opciones
 - [ ] A) S/ 20 y S/ 40
-  <!-- feedback: Incorrecto. Revise el despeje. -->
+  <!-- feedback: En $x = 20$: $-2(400) + 80(20) - 600 = -800 + 1600 - 600 = 200 \neq 0$, y en $x = 40$ el valor también es 200, así que ninguno es raíz. -->
 - [x] D) S/ 10 y S/ 30
-  <!-- feedback: Correcto. Resolvemos $-2x^2 + 80x - 600 = 0 \Rightarrow x^2 - 40x + 300 = 0$. Factorizando: $(x-30)(x-10)=0$. Precios: 10 y 30. -->
+  <!-- feedback: Igualando a cero y dividiendo entre $-2$ se obtiene $x^2 - 40x + 300 = 0$, que factoriza como $(x-30)(x-10) = 0$, luego $x = 10$ y $x = 30$. -->
 - [ ] B) S/ 5 y S/ 15
-  <!-- feedback: Incorrecto. No son raíces de la función dada. -->
+  <!-- feedback: En $x = 5$: $-2(25) + 400 - 600 = -250 \neq 0$; en $x = 15$: $-450 + 1200 - 600 = 150 \neq 0$. -->
 - [ ] C) S/ 15 y S/ 40
-  <!-- feedback: Incorrecto. Error en el proceso de factorización. -->
+  <!-- feedback: En $x = 15$ la utilidad es $150$ miles de soles, no 0, y en $x = 40$ es $200$, así que ninguno equilibra. -->
 
 ### Explicacion Pedagogica
 El punto de equilibrio se halla igualando la utilidad a cero: $-2x^2 + 80x - 600 = 0$. Al dividir toda la ecuación por -2 obtenemos $x^2 - 40x + 300 = 0$. Por aspa simple, $(x-30)(x-10)=0$. Las soluciones son $x=10$ y $x=30$.

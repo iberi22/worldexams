@@ -136,13 +136,13 @@ According to a recent report on scientific innovations in Bogotá, what is impli
 
 ### Opciones
 - [x] C) It serves as a critical tool for nuanced communication.
-  <!-- feedback: Correct. C1+ level reading requires identifying subtle implications about language use. -->
+  <!-- feedback: Correct. Compound adjectives and compound nouns is the point here: a compound such as "evidence-based" fuses two ideas into one word and fixes the meaning before the noun arrives, so the claim then reads as established knowledge instead of mere opinion. Reading that implication is what the question asks. -->
 - [ ] A) It is largely irrelevant to the general public.
-  <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
+  <!-- feedback: This calls the device irrelevant, but the report treats this kind of precision as central to shaping public opinion, so calling it irrelevant contradicts the text. -->
 - [ ] B) It simplifies complex socio-political messages.
-  <!-- feedback: Incorrect. The use of {grammar} actually adds complexity and depth. -->
+  <!-- feedback: This claims the device makes the claim plainer, whereas the compound adds a second layer of meaning to the claim rather than simplifying the message. -->
 - [ ] D) It is only used by academic elites in {city}.
-  <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
+  <!-- feedback: This restricts the device to specialists in a single city, but the report describes the device as ordinary in media and discourse, not as jargon limited to one city's specialists. -->
 
 ### Explicacion Pedagogica
 This question requires inferential reading skills to understand how complex structures convey deeper meaning.
@@ -161,13 +161,13 @@ According to a recent report on scientific innovations in Bogotá, what is impli
 
 ### Opciones
 - [x] C) It serves as a critical tool for nuanced communication.
-  <!-- feedback: Correct. C1+ level reading requires identifying subtle implications about language use. -->
+  <!-- feedback: Correct. Compound adjectives and compound nouns is the point here: a compound such as "evidence-based" fuses two ideas into one word and fixes the meaning before the noun arrives, so the claim then reads as established knowledge instead of mere opinion. Reading that implication is what the question asks. -->
 - [ ] A) It is largely irrelevant to the general public.
-  <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
+  <!-- feedback: This calls the device irrelevant, but the report treats this kind of precision as central to shaping public opinion, so calling it irrelevant contradicts the text. -->
 - [ ] B) It simplifies complex socio-political messages.
-  <!-- feedback: Incorrect. The use of {grammar} actually adds complexity and depth. -->
+  <!-- feedback: This claims the device makes the claim plainer, whereas the compound adds a second layer of meaning to the claim rather than simplifying the message. -->
 - [ ] D) It is only used by academic elites in {city}.
-  <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
+  <!-- feedback: This restricts the device to specialists in a single city, but the report describes the device as ordinary in media and discourse, not as jargon limited to one city's specialists. -->
 
 ### Explicacion Pedagogica
 This question requires inferential reading skills to understand how complex structures convey deeper meaning.
@@ -186,13 +186,13 @@ According to a recent report on scientific innovations in Medellín, what is imp
 
 ### Opciones
 - [x] B) It serves as a critical tool for nuanced communication.
-  <!-- feedback: Correct. C1+ level reading requires identifying subtle implications about language use. -->
+  <!-- feedback: Correct. Compound adjectives and compound nouns is the point here: a compound such as "evidence-based" fuses two ideas into one word and fixes the meaning before the noun arrives, so the claim then reads as established knowledge instead of mere opinion. Reading that implication is what the question asks. -->
 - [ ] A) It is largely irrelevant to the general public.
-  <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
+  <!-- feedback: This calls the device irrelevant, but the report treats this kind of precision as central to shaping public opinion, so calling it irrelevant contradicts the text. -->
 - [ ] C) It simplifies complex socio-political messages.
-  <!-- feedback: Incorrect. The use of {grammar} actually adds complexity and depth. -->
+  <!-- feedback: This claims the device makes the claim plainer, whereas the compound adds a second layer of meaning to the claim rather than simplifying the message. -->
 - [ ] D) It is only used by academic elites in {city}.
-  <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
+  <!-- feedback: This restricts the device to specialists in a single city, but the report describes the device as ordinary in media and discourse, not as jargon limited to one city's specialists. -->
 
 ### Explicacion Pedagogica
 This question requires inferential reading skills to understand how complex structures convey deeper meaning.
@@ -211,13 +211,13 @@ According to a recent report on scientific innovations in Bucaramanga, what is i
 
 ### Opciones
 - [x] D) It serves as a critical tool for nuanced communication.
-  <!-- feedback: Correct. C1+ level reading requires identifying subtle implications about language use. -->
+  <!-- feedback: Correct. Compound adjectives and compound nouns is the point here: a compound such as "evidence-based" fuses two ideas into one word and fixes the meaning before the noun arrives, so the claim then reads as established knowledge instead of mere opinion. Reading that implication is what the question asks. -->
 - [ ] A) It is largely irrelevant to the general public.
-  <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
+  <!-- feedback: This calls the device irrelevant, but the report treats this kind of precision as central to shaping public opinion, so calling it irrelevant contradicts the text. -->
 - [ ] B) It simplifies complex socio-political messages.
-  <!-- feedback: Incorrect. The use of {grammar} actually adds complexity and depth. -->
+  <!-- feedback: This claims the device makes the claim plainer, whereas the compound adds a second layer of meaning to the claim rather than simplifying the message. -->
 - [ ] C) It is only used by academic elites in {city}.
-  <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
+  <!-- feedback: This restricts the device to specialists in a single city, but the report describes the device as ordinary in media and discourse, not as jargon limited to one city's specialists. -->
 
 ### Explicacion Pedagogica
 This question requires inferential reading skills to understand how complex structures convey deeper meaning.
@@ -236,13 +236,13 @@ According to a recent report on scientific innovations in Manizales, what is imp
 
 ### Opciones
 - [x] A) It serves as a critical tool for nuanced communication.
-  <!-- feedback: Correct. C1+ level reading requires identifying subtle implications about language use. -->
+  <!-- feedback: Correct. Compound adjectives and compound nouns is the point here: a compound such as "evidence-based" fuses two ideas into one word and fixes the meaning before the noun arrives, so the claim then reads as established knowledge instead of mere opinion. Reading that implication is what the question asks. -->
 - [ ] B) It is largely irrelevant to the general public.
-  <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
+  <!-- feedback: This calls the device irrelevant, but the report treats this kind of precision as central to shaping public opinion, so calling it irrelevant contradicts the text. -->
 - [ ] C) It simplifies complex socio-political messages.
-  <!-- feedback: Incorrect. The use of {grammar} actually adds complexity and depth. -->
+  <!-- feedback: This claims the device makes the claim plainer, whereas the compound adds a second layer of meaning to the claim rather than simplifying the message. -->
 - [ ] D) It is only used by academic elites in {city}.
-  <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
+  <!-- feedback: This restricts the device to specialists in a single city, but the report describes the device as ordinary in media and discourse, not as jargon limited to one city's specialists. -->
 
 ### Explicacion Pedagogica
 This question requires inferential reading skills to understand how complex structures convey deeper meaning.
@@ -261,13 +261,13 @@ According to a recent report on scientific innovations in Medellín, what is imp
 
 ### Opciones
 - [x] A) It serves as a critical tool for nuanced communication.
-  <!-- feedback: Correct. C1+ level reading requires identifying subtle implications about language use. -->
+  <!-- feedback: Correct. Compound adjectives and compound nouns is the point here: a compound such as "evidence-based" fuses two ideas into one word and fixes the meaning before the noun arrives, so the claim then reads as established knowledge instead of mere opinion. Reading that implication is what the question asks. -->
 - [ ] B) It is largely irrelevant to the general public.
-  <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
+  <!-- feedback: This calls the device irrelevant, but the report treats this kind of precision as central to shaping public opinion, so calling it irrelevant contradicts the text. -->
 - [ ] C) It simplifies complex socio-political messages.
-  <!-- feedback: Incorrect. The use of {grammar} actually adds complexity and depth. -->
+  <!-- feedback: This claims the device makes the claim plainer, whereas the compound adds a second layer of meaning to the claim rather than simplifying the message. -->
 - [ ] D) It is only used by academic elites in {city}.
-  <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
+  <!-- feedback: This restricts the device to specialists in a single city, but the report describes the device as ordinary in media and discourse, not as jargon limited to one city's specialists. -->
 
 ### Explicacion Pedagogica
 This question requires inferential reading skills to understand how complex structures convey deeper meaning.

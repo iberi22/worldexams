@@ -151,8 +151,8 @@ f(x)=4x-3, g(x)=2x+1. f(3)-g(2)?
 ### Opciones
 - [x] A) $4$ <!-- feedback: Correto! f(3)=9,g(2)=5,9-5=4. -->
 - [ ] B) $6$ <!-- feedback: Incorreto. f(3)=9,g(2)=5. -->
-- [ ] C) $8$ <!-- feedback: Incorreto. g(2)=5. -->
-- [ ] D) $2$ <!-- feedback: Incorreto. g(2)=5. -->
+- [ ] C) $8$ <!-- feedback: Com $g(2)=5$, subtrair de $f(3)=9$ dá $4$; o valor $8$ vem de somar $9$ e $5$ em vez de subtrair. -->
+- [ ] D) $2$ <!-- feedback: Com $f(3)=9$ e $g(2)=5$, o resultado é $9-5=4$; o valor $2$ sai de uma subtração errada, não da fórmula. -->
 
 ### Explicacion Pedagogica
 Resolva o problema passo a passo, verificando cada operacao. Revise os conceitos fundamentais do topico antes de responder. Utilize representacoes algebricas para confirmar resultados.
@@ -170,8 +170,8 @@ Reta por (0,-2) e (3,7). a+b?
 ### Opciones
 - [x] A) $1$ <!-- feedback: Correto! b=-2,a=3,a+b=1. -->
 - [ ] B) $5$ <!-- feedback: Incorreto. Calcule a taxa. -->
-- [ ] C) $-1$ <!-- feedback: Incorreto. a=3,b=-2. -->
-- [ ] D) $3$ <!-- feedback: Incorreto. a=3,b=-2. -->
+- [ ] C) $-1$ <!-- feedback: Com $a=3$ e $b=-2$, temos $a+b=1$; o valor $-1$ troca os sinais dos dois termos. -->
+- [ ] D) $3$ <!-- feedback: O valor $3$ é apenas o coeficiente angular $a$; a soma pedida inclui $b=-2$ e resulta em $1$. -->
 
 ### Explicacion Pedagogica
 Resolva o problema passo a passo, verificando cada operacao. Revise os conceitos fundamentais do topico antes de responder. Utilize representacoes algebricas para confirmar resultados.
@@ -188,9 +188,9 @@ f(x)=6x+1. f(0)+f(1)+f(2)?
 
 ### Opciones
 - [x] B) $21$ <!-- feedback: Correto! f(0)=1,f(1)=7,f(2)=13,soma=21. -->
-- [ ] A) $22$ <!-- feedback: Incorreto. 1+7+13=21. -->
+- [ ] A) $22$ <!-- feedback: Somando corretamente, $1+7+13=21$; o valor $22$ provém de um erro de soma em um dos termos. -->
 - [ ] C) $19$ <!-- feedback: Incorreto. f(2)=13. -->
-- [ ] D) $24$ <!-- feedback: Incorreto. 1+7+13=21. -->
+- [ ] D) $24$ <!-- feedback: A soma é $21$; o valor $24$ resulta de somar $1+7+13$ contando um termo a mais. -->
 
 ### Explicacion Pedagogica
 Resolva o problema passo a passo, verificando cada operacao. Revise os conceitos fundamentais do topico antes de responder. Utilize representacoes algebricas para confirmar resultados.
@@ -228,7 +228,7 @@ Coeficiente angular de f(x)=7x-2?
 - [x] B) $7$ <!-- feedback: Correto! ax+b, a=7. -->
 - [ ] A) $-2$ <!-- feedback: Incorreto. Intercepto. -->
 - [ ] C) $2$ <!-- feedback: Incorreto. Coef x e 7. -->
-- [ ] D) $5$ <!-- feedback: Incorreto. -->
+- [ ] D) $5$ <!-- feedback: Em $ax+b$ o coeficiente angular é o número que multiplica $x$, ou seja $7$; o $-2$ é o termo independente $b$. -->
 
 ### Explicacion Pedagogica
 Resolva o problema passo a passo, verificando cada operacao. Revise os conceitos fundamentais do topico antes de responder. Utilize representacoes algebricas para confirmar resultados.
@@ -246,8 +246,8 @@ f(x)=-x+5. f(3)?
 ### Opciones
 - [x] D) $2$ <!-- feedback: Correto! -3+5=2. -->
 - [ ] A) $8$ <!-- feedback: Incorreto. -x=-1.x. -->
-- [ ] B) $-2$ <!-- feedback: Incorreto. -3+5=2. -->
-- [ ] C) $-3$ <!-- feedback: Incorreto. -3+5=2. -->
+- [ ] B) $-2$ <!-- feedback: Calculando, $f(3)=-3+5=2$; o valor $-2$ troca o sinal do resultado. -->
+- [ ] C) $-3$ <!-- feedback: O valor $-3$ é apenas a parcela $-x$; ao somar $5$ obtém-se $f(3)=2$. -->
 
 ### Explicacion Pedagogica
 Resolva o problema passo a passo, verificando cada operacao. Revise os conceitos fundamentais do topico antes de responder. Utilize representacoes algebricas para confirmar resultados.
@@ -304,7 +304,8 @@ Reta f(x)=2x+4 passa por quais pontos?
 - [x] A) $(0,4) e (-2,0)$ <!-- feedback: Correto! Interc y=4, raiz x=-2. -->
 - [ ] B) $(0,2) e (-4,0)$ <!-- feedback: Incorreto. f(0)=4. -->
 - [ ] C) $(0,4) e (2,0)$ <!-- feedback: Incorreto. Raiz -2. -->
-- [ ] D) $(4,0) e (0,2)$ <!-- feedback: Incorreto. -->
+- [ ] D) $(4,0) e (0,2)$ <!-- feedback: Os pontos de uma reta devem estar em $f$: em $x=4$ temos $f(4)=12
+eq0$, e $(0,2)$ não é o intercepto, que é $4$. -->
 
 ### Explicacion Pedagogica
 Resolva o problema passo a passo, verificando cada operacao. Revise os conceitos fundamentais do topico antes de responder. Utilize representacoes algebricas para confirmar resultados.
@@ -322,8 +323,8 @@ f(x)=3x+1 e g(x)=-2x+6 se igualam em x=?
 ### Opciones
 - [x] A) $x=1$ <!-- feedback: Correto! 3x+1=-2x+6 => 5x=5 => x=1. -->
 - [ ] B) $x=2$ <!-- feedback: Incorreto. f(2)=7,g(2)=2. -->
-- [ ] C) $x=-1$ <!-- feedback: Incorreto. -->
-- [ ] D) $x=5$ <!-- feedback: Incorreto. -->
+- [ ] C) $x=-1$ <!-- feedback: Em $x=-1$, $f=-2$ e $g=8$, então não são iguais; a solução é $x=1$. -->
+- [ ] D) $x=5$ <!-- feedback: Em $x=5$, $f=16$ e $g=-4$; a igualdade $3x+1=-2x+6$ dá $5x=5$ e portanto $x=1$. -->
 
 ### Explicacion Pedagogica
 Resolva o problema passo a passo, verificando cada operacao. Revise os conceitos fundamentais do topico antes de responder. Utilize representacoes algebricas para confirmar resultados.
@@ -380,7 +381,7 @@ f(1)=5, f(3)=11. f(0)?
 - [x] B) $2$ <!-- feedback: Correto! a=3, b=2, f(0)=2. -->
 - [ ] A) $1$ <!-- feedback: Incorreto. Taxa 3,b=2. -->
 - [ ] C) $3$ <!-- feedback: Incorreto. b=2. -->
-- [ ] D) $4$ <!-- feedback: Incorreto. -->
+- [ ] D) $4$ <!-- feedback: Com $a=3$ e $b=2$, temos $f(0)=b=2$; o valor $4$ viria de somar $a$ e $b$ em vez de tomar só $b$. -->
 
 ### Explicacion Pedagogica
 Resolva o problema passo a passo, verificando cada operacao. Revise os conceitos fundamentais do topico antes de responder. Utilize representacoes algebricas para confirmar resultados.

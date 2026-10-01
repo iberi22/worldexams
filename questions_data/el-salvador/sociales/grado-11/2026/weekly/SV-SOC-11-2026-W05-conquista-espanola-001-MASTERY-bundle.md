@@ -319,7 +319,7 @@ Cual fue la consecuencia principal de la crisis del algodon a finales del siglo 
   <!-- feedback: La poblacion rural se desplazo hacia la ciudad o al extranjero. -->
 
 ### Explicacion Pedagogica
-La caida del precio del algodon provoco el cierre de fincas y el exodo rural.
+La caida del precio del algodon provoco el cierre de fincas y el exodo rural. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.
 
 ---
 
@@ -516,7 +516,7 @@ Por que el siglo XVIII aparece en la historia de El Salvador como periodo de cam
 - [ ] C) La aparicion de la industria textil
   <!-- feedback: La industrializacion ocurrio en etapas posteriores. -->
 - [x] D) La entrada de los Borbones genero crisis que desembocaron en la independencia
-  <!-- feedback: Los problemas del siglo Preparation napoleonic.UnknownRemoved trajeron el fin del dominio espanol. -->
+  <!-- feedback: Los problemas del siglo napoleonico trajeron el fin del dominio espanol. -->
 
 ### Explicacion Pedagogica
 La entrada de los Borbones y el de los problemas de la generacion napoleonica generaron crisis.

@@ -55,10 +55,10 @@ Global governance refers to the way in which global affairs are managed through 
 International laws are being developed to address emerging challenges like cybersecurity and space exploration.
 
 ### Opciones
-- [ ] A) are developing <!-- feedback: Incorrect. Active voice. -->
+- [ ] A) are developing <!-- feedback: 'Are developing' is active, so the subject would have to be the states drafting the laws, but the sentence makes the laws the thing being drafted. -->
 - [x] C) are being developed <!-- feedback: Correct. Present continuous passive for an ongoing legislative process. -->
 - [ ] B) developed <!-- feedback: Incorrect. Past simple. -->
-- [ ] D) have developed <!-- feedback: Incorrect. Active voice. -->
+- [ ] D) have developed <!-- feedback: 'Have developed' is an active present perfect that would mean the laws are already finished, losing the sense of a process still under way. -->
 
 ### Explicacion Pedagogica
 The present continuous passive describes the current and active process of creating new international rules.
@@ -158,7 +158,7 @@ It is suggested that the UN Security Council be reformed to better reflect the m
 - [x] D) be reformed <!-- feedback: Correct. Subjunctive passive after 'suggested'. -->
 - [ ] A) is reformed <!-- feedback: Incorrect. Subjunctive uses base form 'be'. -->
 - [ ] B) to be reformed <!-- feedback: Incorrect. Doesn't fit 'that' clause. -->
-- [ ] C) being reformed <!-- feedback: Incorrect. -->
+- [ ] C) being reformed <!-- feedback: The -ing form is used with a passive auxiliary, as in 'is being reformed'. After 'it is suggested that' English needs the bare subjunctive, which puts no auxiliary in front at all. -->
 
 ### Explicacion Pedagogica
 The subjunctive passive 'be + past participle' is used after verbs of suggestion like 'suggest'.
@@ -178,7 +178,7 @@ Reaching a consensus in international negotiations can be difficult, as it requi
 - [ ] A) conflict <!-- feedback: Incorrect. Negotiations aim to resolve conflict. -->
 - [x] D) consensus <!-- feedback: Correct. A general agreement. -->
 - [ ] B) division <!-- feedback: Incorrect. Consensus overcomes division. -->
-- [ ] C) rumor <!-- feedback: Incorrect. -->
+- [ ] C) rumor <!-- feedback: A rumor is unverified talk that spreads by word of mouth, whereas consensus is an agreement reached after discussion. -->
 
 ### Explicacion Pedagogica
 'Consensus' is the term for a broad agreement that is sought in international diplomatic meetings.
@@ -218,7 +218,7 @@ Critics argue that international institutions are often slowed down by excessive
 - [ ] A) speed <!-- feedback: Incorrect. Bureaucracy usually slows things down. -->
 - [x] C) bureaucracy <!-- feedback: Correct. A system of government in which most decisions are made by state officials rather than by elected representatives. -->
 - [ ] B) efficiency <!-- feedback: Incorrect. Bureaucracy is often seen as the opposite of efficiency. -->
-- [ ] D) creativity <!-- feedback: Incorrect. -->
+- [ ] D) creativity <!-- feedback: Creativity is the ability to produce new ideas, and it is what critics say institutions lack, not what slows them down. -->
 
 ### Explicacion Pedagogica
 'Bureaucracy' describes the complex administrative systems that are often blamed for delays in institutional action.
@@ -235,7 +235,7 @@ Critics argue that international institutions are often slowed down by excessive
 Sanctions are commercial and financial penalties applied by one or more countries against a self-governing state, group, or individual.
 
 ### Opciones
-- [ ] B) Gifts <!-- feedback: Incorrect. -->
+- [ ] B) Gifts <!-- feedback: A gift is something given freely with no penalty attached, whereas a sanction punishes the state or individual it is applied to. -->
 - [x] A) Sanctions <!-- feedback: Correct. Specific term for international penalties. -->
 - [ ] C) Awards <!-- feedback: Incorrect. Sanctions are punishments. -->
 - [ ] D) Subsidies <!-- feedback: Incorrect. Financial support. -->
@@ -315,10 +315,10 @@ The third conditional passive allows for the evaluation of the effectiveness of 
 The author concludes that international norms can be as powerful as formal laws in influencing state behavior.
 
 ### Opciones
-- [ ] B) unimportant <!-- feedback: Incorrect. -->
+- [ ] B) unimportant <!-- feedback: Calling norms unimportant denies the whole conclusion, which claims they influence behaviour as strongly as written law. -->
 - [x] A) norms <!-- feedback: Correct. International norms are informal standard of behavior. -->
 - [ ] C) rumors <!-- feedback: Incorrect. Informal but not standard. -->
-- [ ] D) slogans <!-- feedback: Incorrect. Marketing. -->
+- [ ] D) slogans <!-- feedback: A slogan is a short phrase for advertising; a norm is an unwritten standard that actually guides behaviour. -->
 
 ### Explicacion Pedagogica
 'Norms' correctly identifies the informal but powerful expectations that guide state conduct in the international arena.
@@ -335,10 +335,10 @@ The author concludes that international norms can be as powerful as formal laws 
 A special envoy is a diplomatic representative who is sent by a government or organization on a specific mission.
 
 ### Opciones
-- [ ] B) tourist <!-- feedback: Incorrect. -->
+- [ ] B) tourist <!-- feedback: A tourist travels for pleasure and pays for their own trip, not as an official representative of a government. -->
 - [x] A) envoy <!-- feedback: Correct. Formal term for a mission-specific representative. -->
-- [ ] C) spy <!-- feedback: Incorrect. Secret. -->
-- [ ] D) refugee <!-- feedback: Incorrect. -->
+- [ ] C) spy <!-- feedback: A spy works secretly to gather intelligence for a secret service, whereas an envoy works openly on an announced mission. -->
+- [ ] D) refugee <!-- feedback: A refugee flees their country to seek protection, which is the opposite of being sent out on a diplomatic mission. -->
 
 ### Explicacion Pedagogica
 'Envoy' is the specific diplomatic title for a representative sent for a particular task.
@@ -398,7 +398,7 @@ The Secretary-General announced that the organization would be doubling its effo
 - [ ] B) will <!-- feedback: Incorrect. Backshifted in reported speech. -->
 - [x] A) would be <!-- feedback: Correct. Backshifted from 'will be' to 'would be' in reported speech. -->
 - [ ] C) is <!-- feedback: Incorrect. Present. -->
-- [ ] D) have been <!-- feedback: Incorrect. -->
+- [ ] D) have been <!-- feedback: 'Have been' is the present perfect and cannot be backshifted; reporting what someone said moves the tense of 'will be' to 'would be'. -->
 
 ### Explicacion Pedagogica
 In reported speech, we change 'will' to 'would' when reporting a future intention from a past perspective.

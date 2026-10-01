@@ -163,10 +163,10 @@ Substituímos pelos valores absolutos: $|-1/2| = 0,5$; $|-2| = 2$; $|5| = 5$. A 
 A distância entre dois números reais $a$ e $b$ é dada por $|a - b|$. Qual é a distância entre os pontos $-15$ e $8$?
 
 ### Opciones
-- [ ] A) 7 <!-- feedback: Erro ao subtrair os valores sem considerar o sinal negativo do 15. -->
-- [x] D) 23 <!-- feedback: |-15 - 8| = |-23| = 23. -->
-- [ ] B) -23 <!-- feedback: Distância é sempre uma grandeza positiva. -->
-- [ ] C) 15 <!-- feedback: Incorreto. -->
+- [ ] A) 7 <!-- feedback: O 7 vem de subtrair os algarismos e ignorar que $-15$ é negativo: a diferença $8 - (-15)$ soma, não subtrai. -->
+- [x] D) 23 <!-- feedback: A distância é $|-15 - 8| = |-23| = 23$. -->
+- [ ] B) -23 <!-- feedback: Uma distância é sempre não negativa, porque vem de um valor absoluto. -->
+- [ ] C) 15 <!-- feedback: O 15 é o módulo do primeiro número, mas a distância mede a diferença entre os dois pontos, não um deles. -->
 
 ### Explicacion Pedagogica
 Aplicamos a fórmula da distância: $|-15 - 8| = |-23|$. O valor absoluto de $-23$ é $23$.
@@ -201,10 +201,10 @@ Temos duas possibilidades: $2x = 10$, o que nos dá $x = 5$; ou $2x = -10$, o qu
 Qual é o vértice da função $f(x) = |x + 3|$?
 
 ### Opciones
-- [ ] A) $(3, 0)$ <!-- feedback: Para o vértice estar em 3, a função deveria ser |x - 3|. -->
-- [x] D) $(-3, 0)$ <!-- feedback: O "V" toca o eixo x quando x + 3 = 0, ou seja, x = -3. -->
-- [ ] B) $(0, 3)$ <!-- feedback: Este é o intercepto y da função. -->
-- [ ] C) $(0, -3)$ <!-- feedback: Incorreto. -->
+- [ ] A) $(3, 0)$ <!-- feedback: O vértice ficaria em $x = 3$ se a função fosse $|x - 3|$; aqui o deslocamento é para a esquerda. -->
+- [x] D) $(-3, 0)$ <!-- feedback: O "V" toca o eixo $x$ quando $x + 3 = 0$, isto é, em $x = -3$, e nesse ponto $f(-3) = 0$. -->
+- [ ] B) $(0, 3)$ <!-- feedback: Esse é o intercepto em $y$, obtido com $x = 0$; o vértice é o ponto de valor mínimo. -->
+- [ ] C) $(0, -3)$ <!-- feedback: Com $x = 0$ a função vale $|0 + 3| = 3$, e não $-3$; módulo nunca devolve valor negativo. -->
 
 ### Explicacion Pedagogica
 O vértice de uma função modular do tipo $|x - h|$ ocorre no ponto onde o argumento é zero. Resolvendo $x + 3 = 0$, encontramos $x = -3$. Como não há deslocamento vertical, o vértice é $(-3, 0)$.

@@ -118,10 +118,10 @@ Para expresar posesión en inglés británico (común en el currículo argentino
 What is the contraction of "They are"?
 
 ### Opciones
-- [ ] A) They's <!-- feedback: Incorrect. -->
-- [ ] B) They'm <!-- feedback: Incorrect. -->
+- [ ] A) They's <!-- feedback: A contraction joins the last letter of the first word to the first letter of the next, so 'they are' becomes 'they're' with an apostrophe and the 'a' of 'are'. -->
+- [ ] B) They'm <!-- feedback: This looks like the pattern of 'I am', where 'I'm' drops the 'a'. English does not follow that pattern for 'they'. -->
 - [x] C) They're <!-- feedback: Correct. "They're" is the short form of "They are". -->
-- [ ] D) They are not <!-- feedback: Incorrect. -->
+- [ ] D) They are not <!-- feedback: This is the negative form 'they are not', and a negative is not a contraction of 'they are'. -->
 
 ### Explicación Pedagógica
 Las contracciones son comunes en el habla cotidiana. "They're" une el sujeto "they" con el verbo "are".
@@ -142,8 +142,8 @@ Choose the correct question: "___ you got a pet?"
 ### Opciones
 - [ ] A) Has <!-- feedback: Incorrect. "Has" is for he/she/it. -->
 - [x] B) Have <!-- feedback: Correct. "Have" is used with "you" for questions with "got". -->
-- [ ] C) Are <!-- feedback: Incorrect. -->
-- [ ] D) Is <!-- feedback: Incorrect. -->
+- [ ] C) Are <!-- feedback: 'Are' pairs with 'you', 'we' and 'they', but 'have got' is the verb that follows 'you' in a question. -->
+- [ ] D) Is <!-- feedback: 'Is' is the form used with 'he', 'she' and 'it', not with 'you'. -->
 
 ### Explicación Pedagógica
 Para hacer preguntas de posesión con "got", el verbo auxiliar "have" debe concordar con el sujeto "you".
@@ -165,7 +165,7 @@ In a family photo from Córdoba, Lucas says: "My sister ___ long black hair."
 - [ ] A) is <!-- feedback: Incorrect. She is not the hair. -->
 - [x] B) has got <!-- feedback: Correct. Use "has got" for third-person singular possession. -->
 - [ ] C) have got <!-- feedback: Incorrect. "Have got" is for I/you/we/they. -->
-- [ ] D) are <!-- feedback: Incorrect. -->
+- [ ] D) are <!-- feedback: 'Are' describes a quality shared by two or more people or things. Here the subject is the single person 'my sister', and what she has is hair. -->
 
 ### Explicación Pedagógica
 Para describir rasgos físicos (como el cabello) de una tercera persona, se utiliza "has got".
@@ -207,7 +207,7 @@ Which sentence is correct for asking someone's age in English?
 
 ### Opciones
 - [ ] A) How many years have you got? <!-- feedback: Incorrect. This is a literal translation from Spanish. -->
-- [ ] B) How old have you? <!-- feedback: Incorrect. -->
+- [ ] B) How old have you? <!-- feedback: English does not use 'have' for age: 'how old' is an adjective followed by the verb 'to be', so the question needs 'How old are you?' -->
 - [x] C) How old are you? <!-- feedback: Correct. The verb "to be" is used for age in English. -->
 - [ ] D) What age you are? <!-- feedback: Incorrect word order. -->
 
@@ -231,7 +231,7 @@ Complete: "Our school in Salta ___ a big playground."
 - [ ] A) is <!-- feedback: Incorrect. The school is not the playground. -->
 - [x] B) has got <!-- feedback: Correct. The school (it) possesses a playground. -->
 - [ ] C) have got <!-- feedback: Incorrect. "Have got" is for plural subjects. -->
-- [ ] D) are <!-- feedback: Incorrect. -->
+- [ ] D) are <!-- feedback: 'Are' would need a plural subject to match. The school is one single thing, and what it has is a playground. -->
 
 ### Explicación Pedagógica
 "Our school" es un sujeto singular (it), por lo tanto requiere "has got" para expresar posesión.

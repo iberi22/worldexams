@@ -35,10 +35,10 @@ Este bundle evalúa conceptos de my face en inglés, nivel CEFR A1 para grado 4.
 I have a ________ in the middle of my face to breathe.
 
 ### Opciones
-- [x] A) nose <!-- feedback: Correct! -->
-- [ ] B) mouth <!-- feedback: No. -->
-- [ ] C) ear <!-- feedback: No. -->
-- [ ] D) eye <!-- feedback: No. -->
+- [x] A) nose <!-- feedback: The nose is in the middle of the face and its two nostrils let air in so we can breathe. -->
+- [ ] B) mouth <!-- feedback: The mouth is for eating and talking, not for breathing. -->
+- [ ] C) ear <!-- feedback: An ear is on the side of the head and it is used for hearing, not for breathing. -->
+- [ ] D) eye <!-- feedback: An eye is used for seeing; breathing happens through the nose and the mouth. -->
 
 ### Explicación Pedagógica
 This question evaluates remember skills regarding my face at the CEFR A1 level.
@@ -56,10 +56,10 @@ This question evaluates remember skills regarding my face at the CEFR A1 level.
 I use my ________ to eat and talk.
 
 ### Opciones
-- [ ] A) cheek <!-- feedback: No. -->
-- [x] B) mouth <!-- feedback: Correct! -->
-- [ ] C) nose <!-- feedback: No. -->
-- [ ] D) forehead <!-- feedback: No. -->
+- [ ] A) cheek <!-- feedback: A cheek is the round part of the face beside the mouth; it does not eat or talk. -->
+- [x] B) mouth <!-- feedback: The mouth is the opening we use to eat and to speak, so it completes the sentence. -->
+- [ ] C) nose <!-- feedback: The nose is for breathing and smelling, not for eating and talking. -->
+- [ ] D) forehead <!-- feedback: The forehead is the skin above the eyes; it is not a mouth. -->
 
 ### Explicación Pedagógica
 This question evaluates understand skills regarding my face at the CEFR A1 level.
@@ -77,10 +77,10 @@ This question evaluates understand skills regarding my face at the CEFR A1 level
 I have two ________ above my eyes.
 
 ### Opciones
-- [ ] A) chins <!-- feedback: No. -->
-- [ ] B) ears <!-- feedback: No. -->
-- [x] C) eyebrows <!-- feedback: Correct! -->
-- [ ] D) lips <!-- feedback: No. -->
+- [ ] A) chins <!-- feedback: A chin is the bottom part of the face, below the mouth, and there is only one. -->
+- [ ] B) ears <!-- feedback: An ear is on the side of the head, not above the eye. -->
+- [x] C) eyebrows <!-- feedback: Eyebrows are the two strips of hair above the eyes, so "eyebrows" completes the sentence. -->
+- [ ] D) lips <!-- feedback: Lips are below the nose and they form the mouth, not the area above the eyes. -->
 
 ### Explicación Pedagógica
 This question evaluates apply skills regarding my face at the CEFR A1 level.
@@ -98,10 +98,10 @@ This question evaluates apply skills regarding my face at the CEFR A1 level.
 My ________ are inside my mouth and they are white.
 
 ### Opciones
-- [ ] A) eyes <!-- feedback: No. -->
-- [ ] B) ears <!-- feedback: No. -->
-- [ ] C) cheeks <!-- feedback: No. -->
-- [x] D) teeth <!-- feedback: Correct! -->
+- [ ] A) eyes <!-- feedback: Eyes are on the outside of the face and you see with them; they are not inside the mouth. -->
+- [ ] B) ears <!-- feedback: Ears are on the sides of the head and they are not inside the mouth. -->
+- [ ] C) cheeks <!-- feedback: Cheeks are the round parts of the face beside the mouth, and they are not white teeth. -->
+- [x] D) teeth <!-- feedback: Teeth are inside the mouth and they are white, so "teeth" completes the sentence. -->
 
 ### Explicación Pedagógica
 This question evaluates analyze skills regarding my face at the CEFR A1 level.
@@ -119,10 +119,10 @@ This question evaluates analyze skills regarding my face at the CEFR A1 level.
 I use ________ to taste food.
 
 ### Opciones
-- [x] A) my tongue <!-- feedback: Correct! -->
-- [ ] B) my nose <!-- feedback: No. -->
-- [ ] C) my ear <!-- feedback: No. -->
-- [ ] D) my hair <!-- feedback: No. -->
+- [x] A) my tongue <!-- feedback: The tongue is the organ inside the mouth that lets us taste the food we eat. -->
+- [ ] B) my nose <!-- feedback: The nose smells and breathes; we taste food with the tongue, not with the nose. -->
+- [ ] C) my ear <!-- feedback: An ear is used for hearing, not for tasting food. -->
+- [ ] D) my hair <!-- feedback: Hair grows on the head; it has nothing to do with taste. -->
 
 ### Explicación Pedagógica
 This question evaluates evaluate skills regarding my face at the CEFR A1 level.
@@ -140,10 +140,10 @@ This question evaluates evaluate skills regarding my face at the CEFR A1 level.
 I have ________ on my head.
 
 ### Opciones
-- [ ] A) shoes <!-- feedback: No. -->
-- [x] B) hair <!-- feedback: Correct! -->
-- [ ] C) fingers <!-- feedback: No. -->
-- [ ] D) toes <!-- feedback: No. -->
+- [ ] A) shoes <!-- feedback: Shoes are worn on the feet, so they are not on the head. -->
+- [x] B) hair <!-- feedback: Hair grows on top of the head, so "hair" completes the sentence. -->
+- [ ] C) fingers <!-- feedback: Fingers are at the end of the hands, not on the head. -->
+- [ ] D) toes <!-- feedback: Toes are at the end of the feet, so they are not on the head. -->
 
 ### Explicación Pedagógica
 This question evaluates apply skills regarding my face at the CEFR A1 level.
@@ -161,10 +161,10 @@ This question evaluates apply skills regarding my face at the CEFR A1 level.
 My ________ are on the sides of my head.
 
 ### Opciones
-- [ ] A) noses <!-- feedback: No. -->
-- [ ] B) lips <!-- feedback: No. -->
-- [x] C) ears <!-- feedback: Correct! -->
-- [ ] D) eyes <!-- feedback: No. -->
+- [ ] A) noses <!-- feedback: Each person has one nose in the middle of the face, not noses on the sides of the head. -->
+- [ ] B) lips <!-- feedback: Lips are in the mouth area, not on the sides of the head. -->
+- [x] C) ears <!-- feedback: The two ears are on the sides of the head, so "ears" completes the sentence. -->
+- [ ] D) eyes <!-- feedback: The eyes are in the front of the face, not on the sides of the head. -->
 
 ### Explicación Pedagógica
 This question evaluates understand skills regarding my face at the CEFR A1 level.
@@ -182,10 +182,10 @@ This question evaluates understand skills regarding my face at the CEFR A1 level
 I close my ________ when I sleep.
 
 ### Opciones
-- [ ] A) mouth <!-- feedback: No. -->
-- [ ] B) ears <!-- feedback: No. -->
-- [ ] C) nose <!-- feedback: No. -->
-- [x] D) eyes <!-- feedback: Correct! -->
+- [ ] A) mouth <!-- feedback: People sleep with the mouth closed; it is the eyes we close. -->
+- [ ] B) ears <!-- feedback: We hear with the ears and keep them open during sleep. -->
+- [ ] C) nose <!-- feedback: The nose keeps working while we sleep, so we breathe through it with the mouth closed. -->
+- [x] D) eyes <!-- feedback: The eyes are the parts we close when we sleep, so "eyes" completes the sentence. -->
 
 ### Explicación Pedagógica
 This question evaluates remember skills regarding my face at the CEFR A1 level.

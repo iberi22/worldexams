@@ -387,13 +387,13 @@ Si 2x + y = 10 y x - y = 2, ¿cuáles son los valores de x e y?
 
 ### Opciones
 - [ ] B) x=2, y=6
-  <!-- feedback: Incorrecto. No cumple la segunda ecuación. -->
+  <!-- feedback: La segunda ecuación da $2 - 6 = -4 \neq 2$, así que el par no sirve. -->
 - [x] A) x=4, y=2
-  <!-- feedback: ¡Correcto! 2(4)+2=10 y 4-2=2. -->
+  <!-- feedback: $2(4) + 2 = 10$ y $4 - 2 = 2$ cumple las dos ecuaciones a la vez. -->
 - [ ] C) x=3, y=4
-  <!-- feedback: Incorrecto. No cumple la segunda ecuación. -->
+  <!-- feedback: La segunda ecuación da $3 - 4 = -1 \neq 2$, así que el par no sirve. -->
 - [ ] D) x=5, y=0
-  <!-- feedback: Incorrecto. No cumple la segunda ecuación. -->
+  <!-- feedback: La primera ecuación da $2(5) + 0 = 10$, pero la segunda da $5 - 0 = 5 \neq 2$. -->
 
 ### Explicacion Pedagogica
 Podemos usar el método de eliminación sumando ambas ecuaciones: (2x + y) + (x - y) = 10 + 2 => 3x = 12 => x = 4. Sustituyendo x en la segunda: 4 - y = 2 => y = 2.

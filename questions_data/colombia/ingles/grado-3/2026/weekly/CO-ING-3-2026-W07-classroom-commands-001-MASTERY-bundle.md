@@ -144,7 +144,7 @@ What does the teacher mean by 'Please take your seats'?
   <!-- feedback: That would be 'hand in your books', a different instruction. -->
 
 ### Explicacion Pedagogica
-La instruccion pide a los estudiantes que ocupen sus asientos, no que se levanten.
+La instruccion pide a los estudiantes que ocupen sus asientos, no que se levanten. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.
 
 ---
 

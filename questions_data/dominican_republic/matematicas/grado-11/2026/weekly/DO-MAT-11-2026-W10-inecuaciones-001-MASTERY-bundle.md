@@ -50,8 +50,8 @@ Definición de relaciones de orden entre expresiones algebraicas.
 ¿Qué significa "$\leq$"?
 
 ### Opciones
-- [ ] A) Mayor que. <!-- feedback: Incorrecto. Es >. -->
-- [ ] C) Menor estricto. <!-- feedback: Incorrecto. Es <. -->
+- [ ] A) Mayor que. <!-- feedback: $\leq$ significa menor o igual; el símbolo de mayor que es $>$, no $\leq$. -->
+- [ ] C) Menor estricto. <!-- feedback: $\leq$ incluye el valor límite, mientras el menor estricto es $<$. El correcto es $\leq$. -->
 - [x] B) Menor o igual. <!-- feedback: Correcto. Incluye el valor límite. -->
 - [ ] D) Diferente de. <!-- feedback: Incorrecto. Es ≠. -->
 
@@ -157,7 +157,7 @@ Pasos secuenciales para despejar la incógnita en una desigualdad.
 ### Opciones
 - [ ] A) 4 <!-- feedback: Incorrecto. $480+50 > 500$. -->
 - [x] D) 3 <!-- feedback: Correcto. $360+50 \leq 500$. -->
-- [ ] B) 5 <!-- feedback: Incorrecto. Excede. -->
+- [ ] B) 5 <!-- feedback: Con $5$ libras el costo sería $5\times120=600>500$, así que excede el presupuesto; el máximo es $3$. -->
 - [ ] C) 2 <!-- feedback: Incorrecto. No es el máximo. -->
 
 ### Explicacion Pedagogica
@@ -221,7 +221,7 @@ Manejo de inecuaciones de doble frontera.
 - [ ] B) 90 <!-- feedback: Incorrecto. Promedio 89. -->
 - [x] A) 93 <!-- feedback: Correcto. Suma 177+93=270; 270/3=90. -->
 - [ ] C) 95 <!-- feedback: Incorrecto. No es la mínima. -->
-- [ ] D) 88 <!-- feedback: Incorrecto. Insuficiente. -->
+- [ ] D) 88 <!-- feedback: Una nota de $88$ es menor que la mínima necesaria, porque el promedio exigido llega a $90$. -->
 
 ### Explicacion Pedagogica
 Cálculo de valores mínimos requeridos para cumplir una condición promedio.
@@ -302,9 +302,9 @@ Interpretación de símbolos de intervalo en lenguaje algebraico.
 ¿Para qué x?
 
 ### Opciones
-- [ ] A) Todos. <!-- feedback: Incorrecto. Negativos fallan. -->
+- [ ] A) Todos. <!-- feedback: Los valores negativos no cumplen la condición, porque el cociente de dos negativos es positivo y el denominador se anula en 0. -->
 - [x] D) x > 0 <!-- feedback: Correcto. Positivo / positivo = positivo. -->
-- [ ] B) Excepto 0. <!-- feedback: Incorrecto. Negativos fallan. -->
+- [ ] B) Excepto 0. <!-- feedback: Excluir solo el cero no basta: los valores negativos también fallan, y esos no quedan fuera con esa fórmula. -->
 - [ ] C) x > 1 <!-- feedback: Incorrecto. 0.5 sirve. -->
 
 ### Explicacion Pedagogica
@@ -365,7 +365,7 @@ Aplicación de inecuaciones a procesos técnicos de control.
 Solución del intervalo.
 
 ### Opciones
-- [ ] B) x < 6 <!-- feedback: Incorrecto. Incompleto. -->
+- [ ] B) x < 6 <!-- feedback: La desigualdad es estricta, $|x-4|<2$, y da el intervalo abierto $(2,6)$, no $x<6$. -->
 - [x] A) (2, 6) <!-- feedback: Correcto. Distancia a 4 menor a 2. -->
 - [ ] C) (-inf, 2) U (6, inf) <!-- feedback: Incorrecto. Sería para mayor que. -->
 - [ ] D) [2, 6] <!-- feedback: Incorrecto. Desigualdad estricta. -->
@@ -407,8 +407,8 @@ Uso de puntos críticos para determinar regiones de solución en productos.
 ¿Solución real?
 
 ### Opciones
-- [ ] A) x < -1 <!-- feedback: Incorrecto. (-2)^2+1=5. -->
-- [ ] C) x > 1 <!-- feedback: Incorrecto. 2^2+1=5. -->
+- [ ] A) x < -1 <!-- feedback: Para $x=-2$: $(-2)^2+1=5>0$, así que no es menor que cero y la desigualdad no se cumple. -->
+- [ ] C) x > 1 <!-- feedback: Para $x=2$: $2^2+1=5>0$, de modo que tampoco se cumple; el lado izquierdo nunca es negativo. -->
 - [x] B) Vacío <!-- feedback: Correcto. Suma de positivos nunca menor a cero. -->
 - [ ] D) Todos. <!-- feedback: Incorrecto. Ninguno cumple. -->
 
@@ -428,10 +428,10 @@ Reconocimiento de inecuaciones sin solución en el campo real.
 ¿Punto NO factible?
 
 ### Opciones
-- [ ] B) (10, 20) <!-- feedback: Incorrecto. Cumple ambas. -->
-- [ ] C) (15, 5) <!-- feedback: Incorrecto. Cumple ambas. -->
+- [ ] B) (10, 20) <!-- feedback: En $(10,20)$ se verifican las dos restricciones, con $10\geq10$ y $20\geq0$, así que el punto es factible. -->
+- [ ] C) (15, 5) <!-- feedback: En $(15,5)$ se cumplen ambas restricciones, por lo que el punto es factible y no puede ser la respuesta. -->
 - [x] A) (5, 20) <!-- feedback: Correcto. Viola A >= 10. -->
-- [ ] D) (12, 10) <!-- feedback: Incorrecto. Cumple ambas. -->
+- [ ] D) (12, 10) <!-- feedback: En $(12,10)$ también se cumplen las dos restricciones, de modo que el punto es factible. -->
 
 ### Explicacion Pedagogica
 Evaluación de restricciones en sistemas de inecuaciones aplicados.

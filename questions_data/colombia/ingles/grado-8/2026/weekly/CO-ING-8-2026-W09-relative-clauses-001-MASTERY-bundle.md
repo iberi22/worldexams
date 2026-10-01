@@ -58,8 +58,8 @@ This is the book ________ I told you about.
 ### Opciones
 - [ ] A) who <!-- feedback: Incorrect. A book is not a person. -->
 - [x] D) that <!-- feedback: Correct! "That" can be used for both people and things in defining relative clauses. -->
-- [ ] B) where <!-- feedback: Incorrect. -->
-- [ ] C) whom <!-- feedback: Incorrect. -->
+- [ ] B) where <!-- feedback: "Where" points to a place, but "this is the book" refers to a thing, not to a location. -->
+- [ ] C) whom <!-- feedback: "Whom" is used for people in the object position; the antecedent here is a book, so it cannot take "whom". -->
 
 ### Explicación Pedagógica
 "That" es un pronombre relativo muy versátil que puede usarse tanto para objetos (cosas) como para personas en oraciones especificativas.
@@ -79,8 +79,8 @@ The library is a place ________ you can find many books and study in silence.
 ### Opciones
 - [ ] A) which <!-- feedback: Incorrect. While a library is a thing, here we refer to it as a location where an action happens. -->
 - [x] C) where <!-- feedback: Correct! "Where" is the relative pronoun for places. -->
-- [ ] B) who <!-- feedback: Incorrect. -->
-- [ ] D) that <!-- feedback: Incorrect. -->
+- [ ] B) who <!-- feedback: "Who" is used for people, and a library is a place, so it needs the locative relative pronoun. -->
+- [ ] D) that <!-- feedback: "That" can join things to clauses, but after "a place" the clause describes a location, which is what "where" does. -->
 
 ### Explicación Pedagógica
 Cuando nos referimos a un lugar como el sitio donde ocurre una acción, el pronombre relativo adecuado es "where".
@@ -100,7 +100,7 @@ The condor is a bird ________ lives in the highest parts of the Andes.
 ### Opciones
 - [ ] A) who <!-- feedback: Incorrect. "Who" is strictly for humans. -->
 - [x] D) which <!-- feedback: Correct! "Which" is used for animals and inanimate objects. -->
-- [ ] B) where <!-- feedback: Incorrect. -->
+- [ ] B) where <!-- feedback: "Where" marks a place, but the relative pronoun here refers to the condor, which is an animal. -->
 - [ ] C) whose <!-- feedback: Incorrect. "Whose" is for possession. -->
 
 ### Explicación Pedagógica
@@ -121,8 +121,8 @@ That is the student ________ father is a famous scientist.
 ### Opciones
 - [ ] A) who <!-- feedback: Incorrect. "Who" doesn't show possession. -->
 - [x] C) whose <!-- feedback: Correct! "Whose" is used to show possession (whose father = el padre del cual). -->
-- [ ] B) which <!-- feedback: Incorrect. -->
-- [ ] D) whom <!-- feedback: Incorrect. -->
+- [ ] B) which <!-- feedback: "Which" introduces a thing, not a person; the clause here describes a student's father. -->
+- [ ] D) whom <!-- feedback: "Whom" marks the object of a preposition for people, but possession is expressed with "whose". -->
 
 ### Explicación Pedagógica
 "Whose" se traduce como "cuyo/a" o "de quien". Se usa para indicar que algo pertenece a la persona o cosa mencionada anteriormente.
@@ -140,10 +140,10 @@ That is the student ________ father is a famous scientist.
 Arepa is a traditional food ________ is made from corn.
 
 ### Opciones
-- [ ] A) who <!-- feedback: Incorrect. -->
-- [ ] B) where <!-- feedback: Incorrect. -->
+- [ ] A) who <!-- feedback: "Who" refers to a person, and an arepa is a food, so it cannot be the antecedent of "who". -->
+- [ ] B) where <!-- feedback: "Where" marks a place, but the clause describes what the arepa is made from, not where it is. -->
 - [x] D) that <!-- feedback: Correct! Referring to an object (food). -->
-- [ ] C) when <!-- feedback: Incorrect. -->
+- [ ] C) when <!-- feedback: "When" marks a time, and the clause about corn states an ingredient rather than a moment. -->
 
 ### Explicación Pedagógica
 En definiciones de objetos culturales, usamos "that" o "which" para conectar el nombre del objeto con su descripción o proceso de fabricación.
@@ -183,10 +183,10 @@ En inglés, podemos omitir "who", "which" o "that" solo cuando funcionan como el
 What information does the relative clause provide?
 
 ### Opciones
-- [ ] A) It describes where the child lives. <!-- feedback: Incorrect. -->
+- [ ] A) It describes where the child lives. <!-- feedback: The clause says nothing about where the child lives; it identifies the parents as the ones who are dead. -->
 - [x] D) It gives essential information to define what an orphan is. <!-- feedback: Correct! Without this clause, we don't know which child we mean. -->
 - [ ] B) It is extra information that we can delete without changing the meaning. <!-- feedback: Incorrect. It's a defining clause. -->
-- [ ] C) It tells us the name of the child. <!-- feedback: Incorrect. -->
+- [ ] C) It tells us the name of the child. <!-- feedback: The clause never gives a name, so it cannot be telling us who the child is called. -->
 
 ### Explicación Pedagógica
 Las "defining relative clauses" (oraciones de relativo especificativas) son esenciales para el significado de la oración; sin ellas, el sustantivo principal no queda bien definido.
@@ -207,8 +207,8 @@ Combine these two sentences:
 ### Opciones
 - [ ] A) I lost the watch who my grandmother gave to me. <!-- feedback: Incorrect. Watch is not a person. -->
 - [x] B) I lost the watch that my grandmother gave to me. <!-- feedback: Correct! "That" connects the object to its origin. -->
-- [ ] C) I lost the watch where my grandmother gave to me. <!-- feedback: Incorrect. -->
-- [ ] D) I lost the watch whose my grandmother gave to me. <!-- feedback: Incorrect. -->
+- [ ] C) I lost the watch where my grandmother gave to me. <!-- feedback: "Where" marks a place, but the clause explains the origin of the watch, which points to a thing. -->
+- [ ] D) I lost the watch whose my grandmother gave to me. <!-- feedback: "Whose" shows possession, and the grandmother gave the watch; she is not claiming to own it beforehand. -->
 
 ### Explicación Pedagógica
 Para combinar oraciones, reemplazamos el objeto repetido ("it") por un pronombre relativo ("that" o "which") que conecte ambas ideas.
@@ -250,7 +250,7 @@ Which description is more precise for a dictionary entry?
 - [ ] A) A pen is a thing for writing. <!-- feedback: Incorrect. Too simple. -->
 - [x] C) A pen is an instrument that uses ink to write on paper. <!-- feedback: Correct! Precise use of a relative clause to define purpose. -->
 - [ ] B) A pen is who you use to write. <!-- feedback: Incorrect. Grammatically wrong. -->
-- [ ] D) Pen is a place where words are. <!-- feedback: Incorrect. Illogical. -->
+- [ ] D) Pen is a place where words are. <!-- feedback: A pen is an instrument used for writing, not a location, so calling it a place where words are reverses its meaning. -->
 
 ### Explicación Pedagógica
 El uso de oraciones de relativo es fundamental para crear definiciones precisas y académicas (habilidad evaluada en B1).

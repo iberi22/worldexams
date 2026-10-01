@@ -506,13 +506,13 @@ Si se inscribe una esfera en un cubo y luego se inscribe un nuevo cubo dentro de
 
 ### Opciones
 - [ ] A) 3
-  <!-- feedback: Incorrecto. -->
+  <!-- feedback: El cociente no da un número entero: la razón de volúmenes es $3\sqrt{3}$, no $3$. -->
 - [ ] C) $\sqrt{3}$
-  <!-- feedback: Incorrecto. -->
+  <!-- feedback: $\sqrt{3}$ es el factor por el que se reduce el lado del cubo, no el factor del volumen; falta elevar ese factor al cubo. -->
 - [x] B) $3\sqrt{3}$
-  <!-- feedback: Correcto. Sea $L$ el lado del cubo mayor. El diámetro de la esfera es $L$. El lado del cubo menor $l$ cumple $l\sqrt{3} = L \Rightarrow l = L/\sqrt{3}$. Razón de volúmenes = $(L/l)^3 = (\sqrt{3})^3 = 3\sqrt{3}$. -->
+  <!-- feedback: Si $L$ es el lado del cubo mayor, el diámetro de la esfera es $L$, luego el lado del menor es $L/\sqrt{3}$ y el cociente de volúmenes es $(\sqrt{3})^3 = 3\sqrt{3}$. -->
 - [ ] D) 9
-  <!-- feedback: Incorrecto. -->
+  <!-- feedback: El cociente sería 9 sólo si el lado del cubo menor fuera $L/3$, pero el cubo inscrito en la esfera tiene lado $L/\sqrt{3}$. -->
 
 ### Explicacion Pedagogica
 Sea $L$ la arista del cubo mayor. El radio de la esfera inscrita es $R = L/2$. Para el cubo menor inscrito en dicha esfera, su diagonal principal ($d = l\sqrt{3}$) es igual al diámetro de la esfera ($2R = L$). Entonces $l\sqrt{3} = L \Rightarrow l = L/\sqrt{3}$. La razón de sus volúmenes es $(L/l)^3 = (\sqrt{3})^3 = 3\sqrt{3}$.

@@ -38,7 +38,7 @@ You ________ study tonight if you want to pass the math test tomorrow.
 - [x] D) should <!-- feedback: Correct! "Should" is the appropriate modal for giving advice. -->
 - [ ] A) must to <!-- feedback: Incorrect. "Must" does not take "to". -->
 - [ ] B) shouldn't <!-- feedback: Incorrect. Illogical advice for someone who wants to pass. -->
-- [ ] C) are should <!-- feedback: Incorrect. -->
+- [ ] C) are should <!-- feedback: This stacks two verbs with 'are' in front of the modal. A modal such as 'should' is already the complete verb, so nothing can precede it here. -->
 
 ### Explicación Pedagógica
 Recordamos que "should" se utiliza para dar consejos y va seguido de la forma base del verbo.
@@ -59,7 +59,7 @@ I ________ never ________ a horse before. Is it difficult?
 - [ ] A) did / ride <!-- feedback: Incorrect. Experiences use Present Perfect. -->
 - [x] B) have / ridden <!-- feedback: Correct! Present Perfect (have + past participle) for life experiences. -->
 - [ ] C) has / rode <!-- feedback: Incorrect. "I" takes "have" and "rode" is simple past. -->
-- [ ] D) am / riding <!-- feedback: Incorrect. -->
+- [ ] D) am / riding <!-- feedback: 'Am riding' is the present continuous and describes an action happening now. The word 'never' plus 'before' asks about a whole life experience, which is present perfect. -->
 
 ### Explicación Pedagógica
 Para hablar de cosas que hemos (o no hemos) hecho en nuestra vida, usamos el Presente Perfecto.
@@ -80,7 +80,7 @@ The boy ________ won the spelling bee competition is in my class.
 - [ ] A) which <!-- feedback: Incorrect. "Which" is for things. -->
 - [x] B) who <!-- feedback: Correct! "Who" refers to people. -->
 - [ ] C) whose <!-- feedback: Incorrect. This would imply possession. -->
-- [ ] D) where <!-- feedback: Incorrect. -->
+- [ ] D) where <!-- feedback: 'Where' asks about a place and would turn the sentence into a question, which it is not here. -->
 
 ### Explicación Pedagógica
 Usamos "who" o "that" para dar información sobre una persona mencionada previamente.
@@ -121,8 +121,8 @@ Maria has worked as a nurse ________ 2015.
 ### Opciones
 - [ ] A) for <!-- feedback: Incorrect. For is for periods of time (years). -->
 - [x] C) since <!-- feedback: Correct! Since is for a specific starting point. -->
-- [ ] B) during <!-- feedback: Incorrect. -->
-- [ ] D) ago <!-- feedback: Incorrect. -->
+- [ ] B) during <!-- feedback: 'During' marks a specific period or event, as in 'during the war'. The present perfect with a starting point needs 'since'. -->
+- [ ] D) ago <!-- feedback: 'Ago' counts backwards from now, as in 'two years ago', and is normally used with a past tense, not with 'has worked'. -->
 
 ### Explicación Pedagógica
 "Since" marca el inicio de una acción que continúa hasta el presente.
@@ -143,7 +143,7 @@ You ________ smoke in the hospital; it's strictly forbidden.
 - [x] A) mustn't <!-- feedback: Correct! "Mustn't" expresses prohibition. -->
 - [ ] B) don't have to <!-- feedback: Incorrect. This means it's optional, but here it's forbidden. -->
 - [ ] C) shouldn't <!-- feedback: Incorrect. Too weak for a strict rule. -->
-- [ ] D) must <!-- feedback: Incorrect. -->
+- [ ] D) must <!-- feedback: 'Must' is the affirmative form: it would say smoking is required. The clause says the opposite, that it is strictly forbidden. -->
 
 ### Explicación Pedagógica
 Es crucial distinguir entre "mustn't" (prohibido) y "don't have to" (no es necesario).
@@ -161,10 +161,10 @@ Es crucial distinguir entre "mustn't" (prohibido) y "don't have to" (no es neces
 That is the girl ________ brother plays in the national soccer team.
 
 ### Opciones
-- [ ] A) who <!-- feedback: Incorrect. -->
+- [ ] A) who <!-- feedback: 'Who' cannot come before a noun to show possession. To say the brother of the girl, the relative pronoun used is 'whose'. -->
 - [x] B) whose <!-- feedback: Correct! Shows possession (the brother of the girl). -->
-- [ ] C) which <!-- feedback: Incorrect. -->
-- [ ] D) whom <!-- feedback: Incorrect. -->
+- [ ] C) which <!-- feedback: 'Which' is only used for things, and a brother is a person. -->
+- [ ] D) whom <!-- feedback: 'Whom' is the object form, as in 'the boy whom I met'. Here the blank comes before 'brother' and has to show ownership, which is what 'whose' does. -->
 
 ### Explicación Pedagógica
 "Whose" se usa para unir dos ideas a través de una relación de pertenencia.
@@ -182,10 +182,10 @@ That is the girl ________ brother plays in the national soccer team.
 I won't call you ________ it's an emergency. I know you are busy.
 
 ### Opciones
-- [ ] A) if <!-- feedback: Incorrect. -->
+- [ ] A) if <!-- feedback: 'If' would make it a straight condition, so the sentence would say the call will be made in every case that is an emergency, which is the opposite of the meaning. -->
 - [x] B) unless <!-- feedback: Correct! "Unless" means "if not". I won't call IF IT'S NOT an emergency. -->
-- [ ] C) when <!-- feedback: Incorrect. -->
-- [ ] D) already <!-- feedback: Incorrect. -->
+- [ ] C) when <!-- feedback: 'When' marks any time at all, including ordinary times, so it would promise to call you whenever something happened, not only in an emergency. -->
+- [ ] D) already <!-- feedback: 'Already' is an adverb of time and cannot introduce the clause that carries the condition here. -->
 
 ### Explicación Pedagógica
 "Unless" introduce una excepción a lo que se ha dicho anteriormente.

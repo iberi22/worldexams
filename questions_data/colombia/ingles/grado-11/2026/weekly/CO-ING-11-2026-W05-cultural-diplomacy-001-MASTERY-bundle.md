@@ -136,13 +136,13 @@ According to a recent report on cultural diplomacy in Bucaramanga, what is impli
 
 ### Opciones
 - [x] D) It serves as a critical tool for nuanced communication.
-  <!-- feedback: Correct. C1+ level reading requires identifying subtle implications about language use. -->
+  <!-- feedback: Correct. the subjunctive mood is the point here: the subjunctive sets the proposal apart from fact ("It is essential that every culture be respected" does not claim it already is), so a diplomat can argue for a goal without claiming it as an accomplished fact. Reading that implication is what the question asks. -->
 - [ ] A) It is largely irrelevant to the general public.
-  <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
+  <!-- feedback: This calls the device irrelevant, but the report treats this distinction as central to how public opinion forms, so writing it off as irrelevant contradicts the argument. -->
 - [ ] B) It simplifies complex socio-political messages.
-  <!-- feedback: Incorrect. The use of {grammar} actually adds complexity and depth. -->
+  <!-- feedback: This claims the device makes the claim plainer, whereas the subjunctive adds a layer of proposed meaning to the message rather than making it plainer. -->
 - [ ] C) It is only used by academic elites in {city}.
-  <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
+  <!-- feedback: This restricts the device to specialists in a single city, but the report applies this across media and public discourse, so it is not the property of an academic minority in one city. -->
 
 ### Explicacion Pedagogica
 This question requires inferential reading skills to understand how complex structures convey deeper meaning.
@@ -161,13 +161,13 @@ According to a recent report on cultural diplomacy in Bucaramanga, what is impli
 
 ### Opciones
 - [x] A) It serves as a critical tool for nuanced communication.
-  <!-- feedback: Correct. C1+ level reading requires identifying subtle implications about language use. -->
+  <!-- feedback: Correct. the subjunctive mood is the point here: the subjunctive sets the proposal apart from fact ("It is essential that every culture be respected" does not claim it already is), so a diplomat can argue for a goal without claiming it as an accomplished fact. Reading that implication is what the question asks. -->
 - [ ] B) It is largely irrelevant to the general public.
-  <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
+  <!-- feedback: This calls the device irrelevant, but the report treats this distinction as central to how public opinion forms, so writing it off as irrelevant contradicts the argument. -->
 - [ ] C) It simplifies complex socio-political messages.
-  <!-- feedback: Incorrect. The use of {grammar} actually adds complexity and depth. -->
+  <!-- feedback: This claims the device makes the claim plainer, whereas the subjunctive adds a layer of proposed meaning to the message rather than making it plainer. -->
 - [ ] D) It is only used by academic elites in {city}.
-  <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
+  <!-- feedback: This restricts the device to specialists in a single city, but the report applies this across media and public discourse, so it is not the property of an academic minority in one city. -->
 
 ### Explicacion Pedagogica
 This question requires inferential reading skills to understand how complex structures convey deeper meaning.
@@ -186,13 +186,13 @@ According to a recent report on cultural diplomacy in Cartagena, what is implied
 
 ### Opciones
 - [x] B) It serves as a critical tool for nuanced communication.
-  <!-- feedback: Correct. C1+ level reading requires identifying subtle implications about language use. -->
+  <!-- feedback: Correct. the subjunctive mood is the point here: the subjunctive sets the proposal apart from fact ("It is essential that every culture be respected" does not claim it already is), so a diplomat can argue for a goal without claiming it as an accomplished fact. Reading that implication is what the question asks. -->
 - [ ] A) It is largely irrelevant to the general public.
-  <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
+  <!-- feedback: This calls the device irrelevant, but the report treats this distinction as central to how public opinion forms, so writing it off as irrelevant contradicts the argument. -->
 - [ ] C) It simplifies complex socio-political messages.
-  <!-- feedback: Incorrect. The use of {grammar} actually adds complexity and depth. -->
+  <!-- feedback: This claims the device makes the claim plainer, whereas the subjunctive adds a layer of proposed meaning to the message rather than making it plainer. -->
 - [ ] D) It is only used by academic elites in {city}.
-  <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
+  <!-- feedback: This restricts the device to specialists in a single city, but the report applies this across media and public discourse, so it is not the property of an academic minority in one city. -->
 
 ### Explicacion Pedagogica
 This question requires inferential reading skills to understand how complex structures convey deeper meaning.
@@ -211,13 +211,13 @@ According to a recent report on cultural diplomacy in Cali, what is implied abou
 
 ### Opciones
 - [x] D) It serves as a critical tool for nuanced communication.
-  <!-- feedback: Correct. C1+ level reading requires identifying subtle implications about language use. -->
+  <!-- feedback: Correct. the subjunctive mood is the point here: the subjunctive sets the proposal apart from fact ("It is essential that every culture be respected" does not claim it already is), so a diplomat can argue for a goal without claiming it as an accomplished fact. Reading that implication is what the question asks. -->
 - [ ] A) It is largely irrelevant to the general public.
-  <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
+  <!-- feedback: This calls the device irrelevant, but the report treats this distinction as central to how public opinion forms, so writing it off as irrelevant contradicts the argument. -->
 - [ ] B) It simplifies complex socio-political messages.
-  <!-- feedback: Incorrect. The use of {grammar} actually adds complexity and depth. -->
+  <!-- feedback: This claims the device makes the claim plainer, whereas the subjunctive adds a layer of proposed meaning to the message rather than making it plainer. -->
 - [ ] C) It is only used by academic elites in {city}.
-  <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
+  <!-- feedback: This restricts the device to specialists in a single city, but the report applies this across media and public discourse, so it is not the property of an academic minority in one city. -->
 
 ### Explicacion Pedagogica
 This question requires inferential reading skills to understand how complex structures convey deeper meaning.
@@ -236,13 +236,13 @@ According to a recent report on cultural diplomacy in Pereira, what is implied a
 
 ### Opciones
 - [x] A) It serves as a critical tool for nuanced communication.
-  <!-- feedback: Correct. C1+ level reading requires identifying subtle implications about language use. -->
+  <!-- feedback: Correct. the subjunctive mood is the point here: the subjunctive sets the proposal apart from fact ("It is essential that every culture be respected" does not claim it already is), so a diplomat can argue for a goal without claiming it as an accomplished fact. Reading that implication is what the question asks. -->
 - [ ] B) It is largely irrelevant to the general public.
-  <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
+  <!-- feedback: This calls the device irrelevant, but the report treats this distinction as central to how public opinion forms, so writing it off as irrelevant contradicts the argument. -->
 - [ ] C) It simplifies complex socio-political messages.
-  <!-- feedback: Incorrect. The use of {grammar} actually adds complexity and depth. -->
+  <!-- feedback: This claims the device makes the claim plainer, whereas the subjunctive adds a layer of proposed meaning to the message rather than making it plainer. -->
 - [ ] D) It is only used by academic elites in {city}.
-  <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
+  <!-- feedback: This restricts the device to specialists in a single city, but the report applies this across media and public discourse, so it is not the property of an academic minority in one city. -->
 
 ### Explicacion Pedagogica
 This question requires inferential reading skills to understand how complex structures convey deeper meaning.
@@ -261,13 +261,13 @@ According to a recent report on cultural diplomacy in Pereira, what is implied a
 
 ### Opciones
 - [x] A) It serves as a critical tool for nuanced communication.
-  <!-- feedback: Correct. C1+ level reading requires identifying subtle implications about language use. -->
+  <!-- feedback: Correct. the subjunctive mood is the point here: the subjunctive sets the proposal apart from fact ("It is essential that every culture be respected" does not claim it already is), so a diplomat can argue for a goal without claiming it as an accomplished fact. Reading that implication is what the question asks. -->
 - [ ] B) It is largely irrelevant to the general public.
-  <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
+  <!-- feedback: This calls the device irrelevant, but the report treats this distinction as central to how public opinion forms, so writing it off as irrelevant contradicts the argument. -->
 - [ ] C) It simplifies complex socio-political messages.
-  <!-- feedback: Incorrect. The use of {grammar} actually adds complexity and depth. -->
+  <!-- feedback: This claims the device makes the claim plainer, whereas the subjunctive adds a layer of proposed meaning to the message rather than making it plainer. -->
 - [ ] D) It is only used by academic elites in {city}.
-  <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
+  <!-- feedback: This restricts the device to specialists in a single city, but the report applies this across media and public discourse, so it is not the property of an academic minority in one city. -->
 
 ### Explicacion Pedagogica
 This question requires inferential reading skills to understand how complex structures convey deeper meaning.

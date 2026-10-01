@@ -257,10 +257,10 @@ La cosecante es la recíproca del seno. Requiere hallar primero el cateto opuest
 Desde un punto en el suelo, el ángulo de elevación a la copa de un árbol es de $45^\circ$. Si el guardabosques está a $20$ metros de la base del árbol, ¿cuál es la altura del árbol?
 
 ### Opciones
-- [ ] B) $10$ m <!-- feedback: Incorrecto. -->
-- [x] A) $20$ m <!-- feedback: Correcto. Para $45^\circ$, el opuesto es igual al adyacente. -->
-- [ ] C) $20\sqrt{2}$ m <!-- feedback: Esta sería la distancia visual (hipotenusa), no la altura. -->
-- [ ] D) $14.14$ m <!-- feedback: Valor incorrecto para la relación de catetos en un triángulo de $45^\circ$. -->
+- [ ] B) $10$ m <!-- feedback: El $10$ m sale de tomar la mitad de los $20$ m, pero en un ángulo de $45^\circ$ los catetos son iguales. -->
+- [x] A) $20$ m <!-- feedback: Como $\tan 45^\circ = 1$, el cateto opuesto es igual al adyacente, así que la altura del árbol es $20$ m. -->
+- [ ] C) $20\sqrt{2}$ m <!-- feedback: El $20\sqrt{2}$ m es la hipotenusa, o sea la distancia visual desde el observador, no la altura. -->
+- [ ] D) $14.14$ m <!-- feedback: El $14.14$ m corresponde a $\tan 35^\circ$, no a un ángulo de $45^\circ$. -->
 
 ### Explicacion Pedagogica
 La propiedad del triángulo rectángulo isósceles ($45-45-90$) simplifica enormemente los cálculos, ya que la altura es igual a la distancia a la base.
@@ -276,10 +276,10 @@ La propiedad del triángulo rectángulo isósceles ($45-45-90$) simplifica enorm
 ¿Cuál es el resultado de la expresión $\sin^2(35^\circ) + \cos^2(35^\circ)$?
 
 ### Opciones
-- [ ] A) $0$ <!-- feedback: Incorrecto. -->
-- [x] B) $1$ <!-- feedback: Correcto. Según la identidad pitagórica fundamental $\sin^2\theta + \cos^2\theta = 1$ para cualquier ángulo. -->
-- [ ] C) $\tan^2(35^\circ)$ <!-- feedback: Incorrecto. -->
-- [ ] D) $2$ <!-- feedback: Incorrecto. -->
+- [ ] A) $0$ <!-- feedback: La suma de cuadrados de seno y coseno vale $1$, nunca $0$; $0$ sólo saldría de $\sin \theta = \cos \theta = 0$, lo cual es imposible. -->
+- [x] B) $1$ <!-- feedback: Por la identidad fundamental $\sin^2\theta + \cos^2\theta = 1$, sin importar el valor de $\theta$. -->
+- [ ] C) $\tan^2(35^\circ)$ <!-- feedback: $\tan^2\theta$ no es constante: para $\theta = 35^\circ$ vale aproximadamente $0.49$, y para $\theta = 0$ vale $0$. -->
+- [ ] D) $2$ <!-- feedback: El $2$ saldría de sumar los dos términos sin normalizarlos, pero los valores van de $0$ a $1$ y su suma es $1$. -->
 
 ### Explicacion Pedagogica
 La identidad pitagórica se deriva directamente del teorema de Pitágoras aplicado a un círculo unitario y es válida para cualquier valor del ángulo.
@@ -314,10 +314,10 @@ Para hallar un ángulo conociendo sus catetos, se utiliza la función arcotangen
 Si el faro tiene una altura de $40$ m y el ángulo de elevación desde el bote es de $20^\circ$, ¿a qué distancia se encuentra el bote de la base del faro? (Usa $\tan(20^\circ) \approx 0.364$)
 
 ### Opciones
-- [ ] B) $14.56$ m <!-- feedback: Multiplicaste en lugar de dividir. La distancia debe ser mayor que la altura para un ángulo de $20^\circ$. -->
-- [x] A) $109.89$ m <!-- feedback: Correcto. Distancia = Altura / $\tan(20^\circ) = 40 / 0.364 \approx 109.89$. -->
-- [ ] C) $80.20$ m <!-- feedback: Error aritmético en la división. -->
-- [ ] D) $42.50$ m <!-- feedback: Incorrecto. -->
+- [ ] B) $14.56$ m <!-- feedback: El $14.56$ m resulta de multiplicar $40 \times 0.364$, pero como $\tan 20^\circ < 1$ la distancia horizontal debe ser mayor que la altura. -->
+- [x] A) $109.89$ m <!-- feedback: En el triángulo rectángulo, $\tan 20^\circ = \frac{40}{d}$, de donde $d = \frac{40}{0.364} \approx 109.89$ m. -->
+- [ ] C) $80.20$ m <!-- feedback: Los $80.20$ m salen de una división mal calculada; $40 / 0.364$ no da ese resultado. -->
+- [ ] D) $42.50$ m <!-- feedback: Los $42.50$ m no salen de $\frac{40}{0.364}$, que es la operación que impone el enunciado. -->
 
 ### Explicacion Pedagogica
 Al despejar el cateto adyacente de la fórmula $\tan(\theta) = \text{Opuesto} / \text{Adyacente}$, se obtiene Adyacente = Opuesto / $\tan(\theta)$.
@@ -333,10 +333,10 @@ Al despejar el cateto adyacente de la fórmula $\tan(\theta) = \text{Opuesto} / 
 Desde la parte superior de un edificio de $30$ m de altura, el ángulo de depresión hacia un objeto en el suelo es de $30^\circ$. ¿Cuál es la distancia visual (hipotenusa) desde el observador hasta el objeto?
 
 ### Opciones
-- [ ] A) $30$ m <!-- feedback: La hipotenusa debe ser el lado más largo. -->
-- [x] C) $60$ m <!-- feedback: Correcto. $\sin(30^\circ) = 30 / \text{Hipotenusa} \Rightarrow 0.5 = 30 / \text{Hip} \Rightarrow \text{Hip} = 60$. -->
-- [ ] B) $30\sqrt{3}$ m <!-- feedback: Esta es la distancia horizontal por el suelo. -->
-- [ ] D) $45$ m <!-- feedback: Incorrecto. -->
+- [ ] A) $30$ m <!-- feedback: En un triángulo rectángulo la hipotenusa es siempre el lado mayor, así que no puede medir lo mismo que un cateto de $30$ m. -->
+- [x] C) $60$ m <!-- feedback: El ángulo de Riga basta: $\sin 30^\circ = \frac{30}{H}$, luego $0.5 = 30/H$ y $H = 60$ m. -->
+- [ ] B) $30\sqrt{3}$ m <!-- feedback: El $30\sqrt{3}$ m es el cateto horizontal sobre el suelo, calculado como $30 / \tan 30^\circ$. -->
+- [ ] D) $45$ m <!-- feedback: Los $45$ m no salen de $\frac{30}{\sin 30^\circ}$, que da $60$ m. -->
 
 ### Explicacion Pedagogica
 El ángulo de depresión es igual al ángulo de elevación desde el objeto hacia el observador. Con el seno de $30^\circ$ (que es 0.5), la hipotenusa resulta ser el doble del cateto opuesto.
@@ -371,10 +371,10 @@ El conocimiento de las proporciones en triángulos rectángulos especiales permi
 Si un poste de $2$ metros proyecta una sombra de $2\sqrt{3}$ metros, ¿cuál es el ángulo de elevación del sol en ese momento?
 
 ### Opciones
-- [x] D) $30^\circ$ <!-- feedback: Correcto. $\tan(\theta) = 2 / (2\sqrt{3}) = 1/\sqrt{3}$. El ángulo cuya tangente es $1/\sqrt{3}$ es $30^\circ$. -->
-- [ ] A) $60^\circ$ <!-- feedback: Para $60^\circ$, la sombra debería ser más corta que la altura ($2/\sqrt{3}$). -->
-- [ ] B) $45^\circ$ <!-- feedback: Para $45^\circ$, la sombra y la altura deben ser iguales. -->
-- [ ] C) $15^\circ$ <!-- feedback: Incorrecto. -->
+- [x] D) $30^\circ$ <!-- feedback: $\tan \theta = \frac{2}{2\sqrt{3}} = \frac{1}{\sqrt{3}}$, y el ángulo cuya tangente es $\frac{1}{\sqrt{3}}$ mide $30^\circ$. -->
+- [ ] A) $60^\circ$ <!-- feedback: Para $60^\circ$ la sombra tendría que medir $\frac{2}{\sqrt{3}}$ m, y aquí mide más que la altura. -->
+- [ ] B) $45^\circ$ <!-- feedback: Para $45^\circ$ la sombra y la altura serían iguales, y aquí la sombra es mayor que el poste. -->
+- [ ] C) $15^\circ$ <!-- feedback: El $15^\circ$ corresponde a una tangente de unos $0.27$, mientras que aquí la razón es $0.577$. -->
 
 ### Explicacion Pedagogica
 Al comparar la altura y la sombra, se obtiene el valor de la tangente. Reconocer el valor $1/\sqrt{3}$ permite identificar el ángulo notable de $30^\circ$.

@@ -221,7 +221,7 @@ No intervalo [0°, 360°), quais são as soluções da equação sen x = 1/2?
 
 ### Opciones
 - [ ] A) 30° e 330° <!-- feedback: Incorreto: em 330° o seno é −1/2. -->
-- [ ] B) 150° e 330° <!-- feedback: Incorreto: em 330° o seno é −1/2. -->
+- [ ] B) 150° e 330° <!-- feedback: Em 330° o seno vale −1/2, não 1/2, e em 30° o seno já é a solução do primeiro quadrante, não do segundo. -->
 - [x] C) 30° e 150° <!-- feedback: Correto: sen 30° = sen 150° = 1/2. -->
 - [ ] D) 60° e 120° <!-- feedback: Incorreto: em 60° e 120° o seno é √3/2. -->
 

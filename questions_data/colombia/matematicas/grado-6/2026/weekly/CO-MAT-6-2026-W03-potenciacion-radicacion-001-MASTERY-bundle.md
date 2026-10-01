@@ -193,13 +193,13 @@ La raíz cúbica de 27 es 3 porque $3^3 = 27$.
 ¿Cuál de las siguientes igualdades es incorrecta?
 ### Opciones
 - [ ] B) $\sqrt{16} = 4$.
-  <!-- feedback: Correcta. $4^2 = 16$. -->
+  <!-- feedback: Sí es correcta: $4^2 = 16$, y la raíz principal de 16 es 4. -->
 - [ ] C) $(-2)^3 = -8$.
-  <!-- feedback: Correcta. El cubo conserva el signo. -->
+  <!-- feedback: Sí es correcta: un exponente impar conserva el signo de la base, y $(-2)^3 = -8$. -->
 - [x] A) $\sqrt{25} = -5$.
-  <!-- feedback: Correcta es 5. La raíz principal es positiva. -->
+  <!-- feedback: Ésta es la igualdad incorrecta: la raíz cuadrada principal de 25 es $5$, nunca $-5$, porque la raíz devuelve el valor no negativo. -->
 - [ ] D) $2^4 = 16$.
-  <!-- feedback: Correcta. -->
+  <!-- feedback: Sí es correcta: $2^4 = 2 \cdot 2 \cdot 2 \cdot 2 = 16$. -->
 ### Explicacion Pedagogica
 Por convención, $\sqrt{a}$ representa la raíz principal no negativa.
 

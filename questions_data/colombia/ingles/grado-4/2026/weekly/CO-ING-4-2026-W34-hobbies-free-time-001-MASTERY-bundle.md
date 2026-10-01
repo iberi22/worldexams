@@ -35,10 +35,10 @@ Este bundle evalúa conceptos de hobbies and free time en inglés, nivel CEFR A1
 I like to ________ books.
 
 ### Opciones
-- [x] A) read <!-- feedback: Correct! -->
-- [ ] B) dance <!-- feedback: No. -->
-- [ ] C) swim <!-- feedback: No. -->
-- [ ] D) run <!-- feedback: No. -->
+- [x] A) read <!-- feedback: You read books with your eyes; "read" is the verb that completes "I like to... books". -->
+- [ ] B) dance <!-- feedback: You dance to music; you do not dance books, so it does not fit. -->
+- [ ] C) swim <!-- feedback: You swim in water, not in a book, so "swim" does not complete the sentence. -->
+- [ ] D) run <!-- feedback: You run on your feet; you do not run books. -->
 
 ### Explicación Pedagógica
 This question evaluates remember skills regarding hobbies and free time at the CEFR A1 level.
@@ -56,10 +56,10 @@ This question evaluates remember skills regarding hobbies and free time at the C
 I like to ________ music.
 
 ### Opciones
-- [ ] A) eat <!-- feedback: No. -->
-- [x] B) listen to <!-- feedback: Correct! -->
-- [ ] C) watch <!-- feedback: No. -->
-- [ ] D) play <!-- feedback: No. -->
+- [ ] A) eat <!-- feedback: You eat food, not music, so "eat" does not complete the sentence. -->
+- [x] B) listen to <!-- feedback: "Listen to" is the verb phrase for hearing music, so it completes the sentence. -->
+- [ ] C) watch <!-- feedback: You watch a film or a show; you watch music, which is not correct usage. -->
+- [ ] D) play <!-- feedback: You play an instrument, not music itself, so "play" is not the right collocation here. -->
 
 ### Explicación Pedagógica
 This question evaluates understand skills regarding hobbies and free time at the CEFR A1 level.
@@ -77,10 +77,10 @@ This question evaluates understand skills regarding hobbies and free time at the
 I like to ________ video games.
 
 ### Opciones
-- [ ] A) sing <!-- feedback: No. -->
-- [ ] B) cook <!-- feedback: No. -->
-- [x] C) play <!-- feedback: Correct! -->
-- [ ] D) write <!-- feedback: No. -->
+- [ ] A) sing <!-- feedback: You sing songs; video games are not sung, so "sing" does not fit. -->
+- [ ] B) cook <!-- feedback: You cook food; video games are not cooked. -->
+- [x] C) play <!-- feedback: "Play" is the verb used with video games, so it completes the sentence. -->
+- [ ] D) write <!-- feedback: You write words or stories; video games are not written. -->
 
 ### Explicación Pedagógica
 This question evaluates apply skills regarding hobbies and free time at the CEFR A1 level.
@@ -98,10 +98,10 @@ This question evaluates apply skills regarding hobbies and free time at the CEFR
 I like to ________ pictures.
 
 ### Opciones
-- [ ] A) listen <!-- feedback: No. -->
-- [ ] B) swim <!-- feedback: No. -->
-- [ ] C) sleep <!-- feedback: No. -->
-- [x] D) draw <!-- feedback: Correct! -->
+- [ ] A) listen <!-- feedback: You listen to music; you do not listen to pictures. -->
+- [ ] B) swim <!-- feedback: You swim in water; a picture is not something you swim in. -->
+- [ ] C) sleep <!-- feedback: You sleep in bed; pictures are not slept in. -->
+- [x] D) draw <!-- feedback: You draw pictures with a pencil, so "draw" completes the sentence. -->
 
 ### Explicación Pedagógica
 This question evaluates analyze skills regarding hobbies and free time at the CEFR A1 level.
@@ -119,10 +119,10 @@ This question evaluates analyze skills regarding hobbies and free time at the CE
 I like to ________ in the pool.
 
 ### Opciones
-- [x] A) swim <!-- feedback: Correct! -->
-- [ ] B) jump <!-- feedback: No. -->
-- [ ] C) drive <!-- feedback: No. -->
-- [ ] D) climb <!-- feedback: No. -->
+- [x] A) swim <!-- feedback: You jump on the floor or a mat; a pool is where you swim, not jump. -->
+- [ ] B) jump <!-- feedback: You swim in the water of a pool, so "swim" completes the sentence. -->
+- [ ] C) drive <!-- feedback: You drive a vehicle, so "drive" does not fit with a pool. -->
+- [ ] D) climb <!-- feedback: You climb a ladder, a wall or a tree; you do not climb in a pool. -->
 
 ### Explicación Pedagógica
 This question evaluates evaluate skills regarding hobbies and free time at the CEFR A1 level.
@@ -140,10 +140,10 @@ This question evaluates evaluate skills regarding hobbies and free time at the C
 I like to ________ songs.
 
 ### Opciones
-- [ ] A) run <!-- feedback: No. -->
-- [x] B) sing <!-- feedback: Correct! -->
-- [ ] C) draw <!-- feedback: No. -->
-- [ ] D) read <!-- feedback: No. -->
+- [ ] A) run <!-- feedback: You run on a track or field; you do not run songs. -->
+- [x] B) sing <!-- feedback: You sing songs with your voice, so "sing" completes the sentence. -->
+- [ ] C) draw <!-- feedback: You draw pictures; you do not draw songs. -->
+- [ ] D) read <!-- feedback: You read books; you do not read songs. -->
 
 ### Explicación Pedagógica
 This question evaluates apply skills regarding hobbies and free time at the CEFR A1 level.
@@ -161,10 +161,10 @@ This question evaluates apply skills regarding hobbies and free time at the CEFR
 I like to ________ in the kitchen with my mom.
 
 ### Opciones
-- [ ] A) study <!-- feedback: No. -->
-- [ ] B) sing <!-- feedback: No. -->
-- [x] C) cook <!-- feedback: Correct! -->
-- [ ] D) sleep <!-- feedback: No. -->
+- [ ] A) study <!-- feedback: You study at school or at a desk; studying is not done in the kitchen. -->
+- [ ] B) sing <!-- feedback: You sing songs; singing is not the activity shared with mom in the kitchen. -->
+- [x] C) cook <!-- feedback: Cooking food is the kitchen activity you do with your mom, so "cook" completes the sentence. -->
+- [ ] D) sleep <!-- feedback: You sleep in bed at night; sleep does not belong in the kitchen. -->
 
 ### Explicación Pedagógica
 This question evaluates understand skills regarding hobbies and free time at the CEFR A1 level.
@@ -182,10 +182,10 @@ This question evaluates understand skills regarding hobbies and free time at the
 I like to ________ in the disco.
 
 ### Opciones
-- [ ] A) work <!-- feedback: No. -->
-- [ ] B) read <!-- feedback: No. -->
-- [ ] C) cook <!-- feedback: No. -->
-- [x] D) dance <!-- feedback: Correct! -->
+- [ ] A) work <!-- feedback: You work in an office; a disco is for dancing and music. -->
+- [ ] B) read <!-- feedback: Reading is a quiet activity done at home or in a library, not in a disco. -->
+- [ ] C) cook <!-- feedback: Cooking happens in the kitchen; it is not what people do in a disco. -->
+- [x] D) dance <!-- feedback: You dance in a disco, so "dance" completes the sentence. -->
 
 ### Explicación Pedagógica
 This question evaluates remember skills regarding hobbies and free time at the CEFR A1 level.

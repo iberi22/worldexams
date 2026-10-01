@@ -240,9 +240,9 @@ Uma função afim é tal que $f(1) = 4$ e $f(-2) = 10$. Qual é o valor de $f(0)
 
 ### Opciones
 - [ ] A) 4 <!-- feedback: 4 é o valor de f(1), não de f(0). -->
-- [ ] B) 5 <!-- feedback: Cálculo incorreto dos coeficientes. -->
+- [ ] B) 5 <!-- feedback: Com $a=-2$, $f(0)=b=6$ porque $f(1)=a+b=4$. O valor $5$ viria de ler $4=-2+b$ como $b=4-2+3$. -->
 - [x] D) 6 <!-- feedback: a = (10 - 4) / (-2 - 1) = 6 / -3 = -2. f(1) = -2(1) + b = 4 => b = 6. f(0) = b = 6. -->
-- [ ] C) 7 <!-- feedback: Cálculo incorreto dos coeficientes. -->
+- [ ] C) 7 <!-- feedback: Se $b=7$, então $f(1)=-2+7=5\neq4$. O valor $7$ resulta de somar $a$ e $b$ en lugar de restá-los. -->
 
 ### Explicacion Pedagogica
 Primeiro achamos o coeficiente angular: $a = \frac{10 - 4}{-2 - 1} = \frac{6}{-3} = -2$. Agora usamos $f(1)=4$ para achar $b$: $4 = -2(1) + b \Rightarrow b = 6$. Como $f(0) = b$, o resultado é 6.
@@ -353,9 +353,9 @@ $f(f(x)) = a(ax+b) + b = a^2x + (ab + b)$. Igualando os coeficientes: $a^2 = 4 \
 A função $f(x)$ é linear e satisfaz $\sum_{i=1}^{3} f(i) = 15$. Se o coeficiente angular é $a = 2$, qual é o valor do coeficiente linear $b$?
 
 ### Opciones
-- [ ] A) 5 <!-- feedback: Cálculo incorreto da soma dos termos. -->
+- [ ] A) 5 <!-- feedback: Se $b=5$, a soma seria $12+3\cdot5=27$, não $15$; esse valor confunde $b$ com a soma dos termos numéricos. -->
 - [x] C) 1 <!-- feedback: f(1)+f(2)+f(3) = (2*1+b) + (2*2+b) + (2*3+b) = 2+4+6 + 3b = 12 + 3b. 12+3b=15 => 3b=3 => b=1. -->
-- [ ] B) 3 <!-- feedback: Cálculo incorreto da soma dos termos. -->
+- [ ] B) 3 <!-- feedback: Se $b=3$, a soma seria $12+3\cdot3=21$, não $15$; esse valor confunde $3b$ com $b$. -->
 - [ ] D) 0 <!-- feedback: Se b=0, a soma seria 12, não 15. -->
 
 ### Explicacion Pedagogica
@@ -374,8 +374,8 @@ Qual é a área da região triangular limitada pelo gráfico da função $f(x) =
 ### Opciones
 - [ ] B) 32 <!-- feedback: Este seria o produto da base pela altura (4 * 8), esquecendo de dividir por 2. -->
 - [x] A) 16 <!-- feedback: Intercepto y (altura) = 8. Intercepto x (raiz) = 4. Área = (4 * 8) / 2 = 16. -->
-- [ ] C) 8 <!-- feedback: Erro no cálculo das dimensões do triângulo. -->
-- [ ] D) 4 <!-- feedback: Erro no cálculo das dimensões do triângulo. -->
+- [ ] C) 8 <!-- feedback: A altura do triângulo é o intercepto $y=8$ e a base é a raiz $x=4$; a área é $(4\cdot8)/2=16$, não $8$. -->
+- [ ] D) 4 <!-- feedback: Esse valor é apenas a raiz $x=4$ da função, usada sozinha. A área exige os dois lados do triângulo: $(4\cdot8)/2=16$. -->
 
 ### Explicacion Pedagogica
 O triângulo tem vértices na origem $(0,0)$, no intercepto $y$ $(0,8)$ e no intercepto $x$ (raiz da função). Resolvendo $-2x + 8 = 0$, achamos a raiz $x = 4$. A base é 4 e a altura é 8. Área = $(\text{base} \cdot \text{altura}) / 2 = (4 \cdot 8) / 2 = 16$.
@@ -392,9 +392,9 @@ Considere a família de funções $f_k(x) = (k-1)x + 2k + 3$. Qual é o ponto co
 
 ### Opciones
 - [ ] B) $(0, 5)$ <!-- feedback: Para x=0, f(0) depende de k: 2k+3. -->
-- [ ] C) $(1, 3)$ <!-- feedback: Testando na função, o resultado dependeria de k. -->
+- [ ] C) $(1, 3)$ <!-- feedback: Em $x=1$ temos $f(1)=k+3$, que muda com $k$; o ponto comum exige que o termo em $k$ se anule, o que só ocorre em $x=-2$. -->
 - [x] A) $(-2, 5)$ <!-- feedback: f(-2) = (k-1)(-2) + 2k + 3 = -2k + 2 + 2k + 3 = 5. O valor é constante. -->
-- [ ] D) $(2, -1)$ <!-- feedback: Testando na função, o resultado dependeria de k. -->
+- [ ] D) $(2, -1)$ <!-- feedback: Em $x=2$ temos $f(2)=k+3+2k+3=3k+6$, que muda com $k$; o ponto comum só existe onde $x+2=0$. -->
 
 ### Explicacion Pedagogica
 Para encontrar o ponto comum, reescrevemos a função isolando o parâmetro $k$: $f(x) = kx - x + 2k + 3 = k(x + 2) - x + 3$. Para que o valor de $f(x)$ não dependa de $k$, o termo que multiplica $k$ deve ser zero: $x + 2 = 0 \Rightarrow x = -2$. Substituindo $x = -2$ na função: $f(-2) = k(0) - (-2) + 3 = 5$. O ponto é $(-2, 5)$.

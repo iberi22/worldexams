@@ -35,10 +35,10 @@ Este bundle evalúa conceptos de domestic animals (pets) en inglés, nivel CEFR 
 A ________ says 'Woof Woof'.
 
 ### Opciones
-- [x] A) dog <!-- feedback: Correct! -->
-- [ ] B) cat <!-- feedback: No. -->
-- [ ] C) bird <!-- feedback: No. -->
-- [ ] D) fish <!-- feedback: No. -->
+- [x] A) dog <!-- feedback: A dog barks, and "woof woof" is the sound a dog makes. -->
+- [ ] B) cat <!-- feedback: A cat says "meow", not "woof woof". -->
+- [ ] C) bird <!-- feedback: A bird sings or chirps; it does not say "woof woof". -->
+- [ ] D) fish <!-- feedback: A fish is silent and lives in water; it cannot bark. -->
 
 ### Explicación Pedagógica
 This question evaluates remember skills regarding domestic animals (pets) at the CEFR A1 level.
@@ -56,10 +56,10 @@ This question evaluates remember skills regarding domestic animals (pets) at the
 A ________ says 'Meow'.
 
 ### Opciones
-- [ ] A) hamster <!-- feedback: No. -->
-- [x] B) cat <!-- feedback: Correct! -->
-- [ ] C) dog <!-- feedback: No. -->
-- [ ] D) rabbit <!-- feedback: No. -->
+- [ ] A) hamster <!-- feedback: A hamster squeaks and runs on a wheel; it does not say "meow". -->
+- [x] B) cat <!-- feedback: A cat says "meow", so "cat" completes the sentence. -->
+- [ ] C) dog <!-- feedback: A dog barks with "woof woof", not "meow". -->
+- [ ] D) rabbit <!-- feedback: A rabbit makes a soft grunting sound; it does not say "meow". -->
 
 ### Explicación Pedagógica
 This question evaluates understand skills regarding domestic animals (pets) at the CEFR A1 level.
@@ -77,10 +77,10 @@ This question evaluates understand skills regarding domestic animals (pets) at t
 This pet can fly and sing.
 
 ### Opciones
-- [ ] A) A dog <!-- feedback: No. -->
-- [ ] B) A fish <!-- feedback: No. -->
-- [x] C) A bird <!-- feedback: Correct! -->
-- [ ] D) A cat <!-- feedback: No. -->
+- [ ] A) A dog <!-- feedback: A dog runs on four legs and barks; it cannot fly or sing. -->
+- [ ] B) A fish <!-- feedback: A fish swims and does not sing; it cannot fly out of the water. -->
+- [x] C) A bird <!-- feedback: A bird has wings so it can fly, and it sings, so both clues point to a bird. -->
+- [ ] D) A cat <!-- feedback: A cat jumps and purrs but it cannot fly. -->
 
 ### Explicación Pedagógica
 This question evaluates apply skills regarding domestic animals (pets) at the CEFR A1 level.
@@ -98,10 +98,10 @@ This question evaluates apply skills regarding domestic animals (pets) at the CE
 This pet lives in water.
 
 ### Opciones
-- [ ] A) A rabbit <!-- feedback: No. -->
-- [ ] B) A dog <!-- feedback: No. -->
-- [ ] C) A hamster <!-- feedback: No. -->
-- [x] D) A fish <!-- feedback: Correct! -->
+- [ ] A) A rabbit <!-- feedback: A rabbit lives on land in a hutch or burrow, not in water. -->
+- [ ] B) A dog <!-- feedback: A dog lives on land with people; it does not live in water. -->
+- [ ] C) A hamster <!-- feedback: A hamster lives in a cage on land, not in water. -->
+- [x] D) A fish <!-- feedback: A fish has gills and lives in water, so "a fish" completes the sentence. -->
 
 ### Explicación Pedagógica
 This question evaluates analyze skills regarding domestic animals (pets) at the CEFR A1 level.
@@ -119,10 +119,10 @@ This question evaluates analyze skills regarding domestic animals (pets) at the 
 A ________ has long ears and loves carrots.
 
 ### Opciones
-- [x] A) rabbit <!-- feedback: Correct! -->
-- [ ] B) cat <!-- feedback: No. -->
-- [ ] C) dog <!-- feedback: No. -->
-- [ ] D) bird <!-- feedback: No. -->
+- [x] A) rabbit <!-- feedback: A rabbit has long ears and loves carrots, so "rabbit" completes the sentence. -->
+- [ ] B) cat <!-- feedback: A cat has small round ears and eats meat, not carrots. -->
+- [ ] C) dog <!-- feedback: A dog has floppy ears and needs meat and biscuits, not carrots. -->
+- [ ] D) bird <!-- feedback: A bird has feathers and eats seeds; its ears are not long like a rabbit's. -->
 
 ### Explicación Pedagógica
 This question evaluates evaluate skills regarding domestic animals (pets) at the CEFR A1 level.
@@ -140,10 +140,10 @@ This question evaluates evaluate skills regarding domestic animals (pets) at the
 A small pet that runs on a wheel.
 
 ### Opciones
-- [ ] A) A pig <!-- feedback: No. -->
-- [x] B) A hamster <!-- feedback: Correct! -->
-- [ ] C) A horse <!-- feedback: No. -->
-- [ ] D) A cow <!-- feedback: No. -->
+- [ ] A) A pig <!-- feedback: A pig is a farm animal that is too big to live in a small cage with a wheel. -->
+- [x] B) A hamster <!-- feedback: A hamster is a tiny pet that runs on a wheel inside its cage, so that is the answer. -->
+- [ ] C) A horse <!-- feedback: A horse is a large farm animal that runs on legs, not on a wheel. -->
+- [ ] D) A cow <!-- feedback: A cow is a big farm animal kept outside, not a small pet with a wheel. -->
 
 ### Explicación Pedagógica
 This question evaluates apply skills regarding domestic animals (pets) at the CEFR A1 level.
@@ -161,10 +161,10 @@ This question evaluates apply skills regarding domestic animals (pets) at the CE
 My ________ is my best friend. He likes to play with a ball.
 
 ### Opciones
-- [ ] A) canary <!-- feedback: No. -->
-- [ ] B) turtle <!-- feedback: No. -->
-- [x] C) dog <!-- feedback: Correct! -->
-- [ ] D) goldfish <!-- feedback: No. -->
+- [ ] A) canary <!-- feedback: A canary is a small bird that sings; it does not play with a ball. -->
+- [ ] B) turtle <!-- feedback: A turtle is a pet that walks slowly with its shell; it does not play with a ball. -->
+- [x] C) dog <!-- feedback: A dog loves to chase and fetch a ball, so "dog" completes the sentence. -->
+- [ ] D) goldfish <!-- feedback: A goldfish swims in a bowl and is a quiet pet, not a ball player. -->
 
 ### Explicación Pedagógica
 This question evaluates understand skills regarding domestic animals (pets) at the CEFR A1 level.
@@ -182,10 +182,10 @@ This question evaluates understand skills regarding domestic animals (pets) at t
 A pet that moves very slowly.
 
 ### Opciones
-- [ ] A) A rabbit <!-- feedback: No. -->
-- [ ] B) A cat <!-- feedback: No. -->
-- [ ] C) A bird <!-- feedback: No. -->
-- [x] D) A turtle <!-- feedback: Correct! -->
+- [ ] A) A rabbit <!-- feedback: A rabbit hops quickly on its long back legs; it is not known for moving slowly. -->
+- [ ] B) A cat <!-- feedback: A cat walks and pounces; it is not the animal known for a very slow pace. -->
+- [ ] C) A bird <!-- feedback: A bird flies fast in the sky, so it does not move slowly. -->
+- [x] D) A turtle <!-- feedback: A turtle moves very slowly because its heavy shell makes walking hard, so that is the answer. -->
 
 ### Explicación Pedagógica
 This question evaluates remember skills regarding domestic animals (pets) at the CEFR A1 level.

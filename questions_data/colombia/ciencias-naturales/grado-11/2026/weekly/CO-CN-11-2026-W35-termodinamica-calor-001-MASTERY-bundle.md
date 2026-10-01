@@ -358,13 +358,13 @@ Una masa de 200 g de un metal a 95 °C se introduce en 500 g de agua a 20 °C en
 
 ### Opciones
 - [ ] A) 0.092 J/(g·°C).
-  <!-- feedback: Revisa el balance de energía. -->
+  <!-- feedback: Ese valor corresponde al agua, no al metal: al dividir la energía absorbida entre la masa del agua se obtiene 4.186 J/(g·°C), pero aquí el metal cede calor. -->
 - [x] B) 0.418 J/(g·°C).
-  <!-- feedback: m_metal·c_metal·(95-25) = 500·4.186·(25-20) → c ≈ 0.418 J/(g·°C). -->
+  <!-- feedback: $200 \cdot c \cdot (95-25) = 500 \cdot 4.186 \cdot (25-20) \Rightarrow c = 20930/14000 \approx 0.418$ J/(g·°C). -->
 - [ ] C) 4.186 J/(g·°C).
-  <!-- feedback: Ese es el calor específico del agua. -->
+  <!-- feedback: Ese es el calor específico del agua, no el del metal; el metal cede calor y su calor específico es mucho menor. -->
 - [ ] D) 41.8 J/(g·°C).
-  <!-- feedback: Error de unidades (kJ). -->
+  <!-- feedback: Ese valor sale de confundir kJ con J: $41.8$ es el resultado si se toma mal la constante del agua, no el calor específico del metal. -->
 
 ### Explicacion Pedagogica
 Por conservación de energía, el calor cedido por el metal es igual al absorbido por el agua en un calorímetro ideal.

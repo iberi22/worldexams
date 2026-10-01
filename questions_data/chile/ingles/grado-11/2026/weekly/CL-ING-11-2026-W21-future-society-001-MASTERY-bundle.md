@@ -155,10 +155,10 @@ To colonize another planet means to send people to live there and establish a pe
 In the future, personalized learning paths are likely to be designed by AI to meet each student's specific needs.
 
 ### Opciones
-- [ ] A) are designing <!-- feedback: Incorrect. Active voice. -->
+- [ ] A) are designing <!-- feedback: 'Are designing' is the active continuous, which would make the learning paths do the designing rather than receive it. -->
 - [x] B) to be designed <!-- feedback: Correct. Passive infinitive after 'likely to'. -->
-- [ ] C) design <!-- feedback: Incorrect. Active voice. -->
-- [ ] D) having been designed <!-- feedback: Incorrect. -->
+- [ ] C) design <!-- feedback: 'Design' is the bare infinitive, but the sentence needs the passive 'to be designed' after 'are likely to'. -->
+- [ ] D) having been designed <!-- feedback: 'Having been designed' is the perfect passive participle, which would need a main verb after it; the sentence needs a passive infinitive. -->
 
 ### Explicacion Pedagogica
 The passive infinitive 'to be designed' follows the structure 'likely to' to describe a future expectation.
@@ -318,7 +318,7 @@ The author concludes that adaptability will be the most valuable skill in the fu
 - [x] A) adaptability <!-- feedback: Correct. The ability to adjust to new conditions. -->
 - [ ] B) resistance <!-- feedback: Incorrect. Resisting change is usually negative. -->
 - [ ] C) stagnation <!-- feedback: Incorrect. No movement. -->
-- [ ] D) boredom <!-- feedback: Incorrect. Negative. -->
+- [ ] D) boredom <!-- feedback: 'Boredom' is a feeling of having nothing interesting to do, not a professional skill, and it is not what the author values. -->
 
 ### Explicacion Pedagogica
 'Adaptability' correctly identifies the core skill needed for a rapidly changing professional landscape.
@@ -335,7 +335,7 @@ The author concludes that adaptability will be the most valuable skill in the fu
 Cryptocurrency is a digital or virtual currency that is secured by cryptography.
 
 ### Opciones
-- [ ] B) Cash <!-- feedback: Incorrect. Physical. -->
+- [ ] B) Cash <!-- feedback: 'Cash' means physical banknotes and coins, whereas cryptocurrency is entirely digital and secured by cryptography. -->
 - [x] A) Cryptocurrency <!-- feedback: Correct. The specific digital term. -->
 - [ ] C) Barter <!-- feedback: Incorrect. Trading goods directly. -->
 - [ ] D) Credit <!-- feedback: Incorrect. Too broad. -->

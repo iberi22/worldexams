@@ -345,10 +345,10 @@ Para que una función sea continua en un punto, deben existir los límites later
 Si tenés la función exponencial $f(x) = 2^x$, ¿cómo se obtiene geométricamente la gráfica de $g(x) = -2^x$?
 
 ### Opciones
-- [ ] A) Desplazando la gráfica una unidad hacia abajo. <!-- feedback: Incorrecto. Eso daría la función $2^x - 1$. -->
-- [x] D) Reflejando la gráfica respecto del eje $x$. <!-- feedback: Correcto. Multiplicar toda la función por $-1$ produce una simetría vertical respecto del eje de las abscisas (eje $x$). -->
-- [ ] B) Reflejando la gráfica respecto del eje $y$. <!-- feedback: Incorrecto. Eso daría la función $2^{-x}$. -->
-- [ ] C) Desplazando la gráfica una unidad a la izquierda. <!-- feedback: Incorrecto. Eso daría la función $2^{x+1}$. -->
+- [ ] A) Desplazando la gráfica una unidad hacia abajo. <!-- feedback: Bajar la gráfica una unidad produce $f(x) - 1 = 2^x - 1$, no $-2^x$. -->
+- [x] D) Reflejando la gráfica respecto del eje $x$. <!-- feedback: Multiplicar toda la función por $-1$ invierte el signo de cada ordenada, y eso es exactamente una reflexión respecto del eje $x$. -->
+- [ ] B) Reflejando la gráfica respecto del eje $y$. <!-- feedback: Reflejar respecto del eje $y$ cambia $x$ por $-x$ y daría $2^{-x}$. -->
+- [ ] C) Desplazando la gráfica una unidad a la izquierda. <!-- feedback: Desplazar a la izquierda una unidad sustituye $x$ por $x+1$ y daría $2^{x+1}$. -->
 
 ### Explicacion Pedagogica
 Una transformación de la forma $g(x) = -f(x)$ invierte el signo de todas las coordenadas de salida, produciendo una simetría o reflexión respecto del eje horizontal.

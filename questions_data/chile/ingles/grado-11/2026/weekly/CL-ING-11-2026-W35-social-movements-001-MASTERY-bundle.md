@@ -135,10 +135,10 @@ Civil disobedience is the active, professed refusal of a citizen to obey certain
 A boycott is a punitive ban that forbids relations with certain groups, cooperation with a policy, or the handling of goods.
 
 ### Opciones
-- [ ] A) Celebration <!-- feedback: Incorrect. -->
-- [x] D) Boycott <!-- feedback: Correct. Specific term for refusing to buy or participate as a form of protest. -->
-- [ ] B) Subsidy <!-- feedback: Incorrect. Financial aid. -->
-- [ ] C) Dividend <!-- feedback: Incorrect. -->
+- [ ] A) Celebration <!-- feedback: A 'celebration' is a happy event marked with a party, the opposite of a punitive refusal. -->
+- [x] D) Boycott <!-- feedback: Correct. A 'boycott' is a collective refusal to buy from or deal with someone as a form of protest. -->
+- [ ] B) Subsidy <!-- feedback: A 'subsidy' is financial aid given by a government to support an industry, the opposite of a ban. -->
+- [ ] C) Dividend <!-- feedback: A 'dividend' is a share of profit paid to shareholders, not a refusal to trade. -->
 
 ### Explicacion Pedagogica
 'Boycott' is the standard term for collective economic or social refusal as a protest tactic.
@@ -155,10 +155,10 @@ A boycott is a punitive ban that forbids relations with certain groups, cooperat
 The importance of mental health awareness is being highlighted by activists across the globe.
 
 ### Opciones
-- [ ] A) is highlighting <!-- feedback: Incorrect. Active voice. -->
-- [x] D) is being highlighted <!-- feedback: Correct. Present continuous passive for an ongoing awareness effort. -->
-- [ ] B) highlighted <!-- feedback: Incorrect. Past simple. -->
-- [ ] C) have highlighted <!-- feedback: Incorrect. Active voice. -->
+- [ ] A) is highlighting <!-- feedback: 'Is highlighting' is the active voice and would make the importance do the highlighting. -->
+- [x] D) is being highlighted <!-- feedback: Correct. 'Is being highlighted' is the present continuous passive, used for an effort that is under way now. -->
+- [ ] B) highlighted <!-- feedback: 'Highlighted' on its own would be past simple, but the effort is current. -->
+- [ ] C) have highlighted <!-- feedback: 'Have highlighted' is the Present Perfect active, which would make the importance the one doing the work. -->
 
 ### Explicacion Pedagogica
 The present continuous passive describes the current, active focus of the movement.
@@ -175,10 +175,10 @@ The present continuous passive describes the current, active focus of the moveme
 Solidarity is unity or agreement of feeling or action, especially among individuals with a common interest.
 
 ### Opciones
-- [ ] A) Isolation <!-- feedback: Incorrect. Opposite of unity. -->
-- [x] B) Solidarity <!-- feedback: Correct. Core principle of social movements. -->
-- [ ] C) Conflict <!-- feedback: Incorrect. Solidarity aims for internal unity. -->
-- [ ] D) Apathy <!-- feedback: Incorrect. -->
+- [ ] A) Isolation <!-- feedback: 'Isolation' means being separate from others, the opposite of unity. -->
+- [x] B) Solidarity <!-- feedback: Correct. 'Solidarity' means unity and mutual support among people who share an interest or a goal. -->
+- [ ] C) Conflict <!-- feedback: 'Conflict' means disagreement or fighting, whereas solidarity means agreement. -->
+- [ ] D) Apathy <!-- feedback: 'Apathy' means a lack of interest or concern, the opposite of acting together. -->
 
 ### Explicacion Pedagogica
 'Solidarity' describes the collective strength and mutual support within a social movement.
@@ -315,10 +315,10 @@ The second conditional describes the likely result of a hypothetical increase in
 The author concludes that systemic change is only possible when individual actions are amplified through collective effort.
 
 ### Opciones
-- [ ] A) ignored <!-- feedback: Incorrect. -->
-- [x] C) amplified <!-- feedback: Correct. To amplify means to make larger, greater, or stronger. -->
-- [ ] B) restricted <!-- feedback: Incorrect. -->
-- [ ] D) hidden <!-- feedback: Incorrect. -->
+- [ ] A) ignored <!-- feedback: 'Ignored' means left out of account, which is the opposite of being amplified. -->
+- [x] C) amplified <!-- feedback: 'Restricted' means limited or reduced, whereas the sentence says individual actions grow through group effort. -->
+- [ ] B) restricted <!-- feedback: 'Hidden' means concealed, which is the opposite of being made stronger. -->
+- [ ] D) hidden <!-- feedback: Correct. 'Amplified' means to make something larger or stronger, which is how collective effort increases the impact of single actions. -->
 
 ### Explicacion Pedagogica
 'Amplified' correctly identifies how social movements increase the power of individual efforts through group action.

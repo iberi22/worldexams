@@ -97,7 +97,7 @@ Comparative advantage is the ability of an individual or group to carry out a pa
 ### Opciones
 - [x] C) efficiently <!-- feedback: Correct. Efficiency is the key to comparative advantage. -->
 - [ ] A) slowly <!-- feedback: Incorrect. Trade advantage usually implies being better/faster. -->
-- [ ] B) rarely <!-- feedback: Incorrect. Unrelated. -->
+- [ ] B) rarely <!-- feedback: Comparative advantage is about doing a task more efficiently, and how often something happens says nothing about efficiency. -->
 - [ ] D) expensively <!-- feedback: Incorrect. Efficiency usually reduces costs. -->
 
 ### Explicacion Pedagogica
@@ -135,10 +135,10 @@ Protectionism involves government policies that restrict international trade to 
 Logistics is the detailed coordination of a complex operation involving many people, facilities, or supplies.
 
 ### Opciones
-- [ ] A) Gossip <!-- feedback: Incorrect. -->
+- [ ] A) Gossip <!-- feedback: "Gossip" is casual talk about other people's private lives, not the coordination of moving goods and supplies. -->
 - [x] B) Logistics <!-- feedback: Correct. Fundamental term for supply chain management. -->
-- [ ] C) Fiction <!-- feedback: Incorrect. -->
-- [ ] D) Ritual <!-- feedback: Incorrect. -->
+- [ ] C) Fiction <!-- feedback: "Fiction" is an invented story; logistics is the real operational work behind a supply chain. -->
+- [ ] D) Ritual <!-- feedback: "Ritual" is a set of fixed ceremonies or habits, which has nothing to do with coordinating facilities and supplies. -->
 
 ### Explicacion Pedagogica
 'Logistics' is the specific professional term for the management of the flow of goods.
@@ -155,10 +155,10 @@ Logistics is the detailed coordination of a complex operation involving many peo
 New shipping routes are being explored due to the melting of Arctic ice.
 
 ### Opciones
-- [ ] B) are exploring <!-- feedback: Incorrect. Active voice. -->
+- [ ] B) are exploring <!-- feedback: "Are exploring" is the active voice and would make the routes the thing doing the exploring; here it is the routes that receive the exploration. -->
 - [x] A) are being explored <!-- feedback: Correct. Present continuous passive for an ongoing development. -->
 - [ ] C) explored <!-- feedback: Incorrect. Past simple. -->
-- [ ] D) have explored <!-- feedback: Incorrect. Active voice. -->
+- [ ] D) have explored <!-- feedback: "Have explored" is active and perfect; the exploration described is still going on, and the routes are what is being explored. -->
 
 ### Explicacion Pedagogica
 The present continuous passive describes the current, active investigation into new commercial paths.
@@ -277,8 +277,8 @@ A trade deficit occurs when a country's imports exceed its exports.
 ### Opciones
 - [ ] A) match <!-- feedback: Incorrect. This would be a balance. -->
 - [x] C) exceed <!-- feedback: Correct. To exceed means to be greater in number or size than. -->
-- [ ] B) follow <!-- feedback: Incorrect. -->
-- [ ] D) ignore <!-- feedback: Incorrect. -->
+- [ ] B) follow <!-- feedback: "Follow" means to come after, which would describe exports coming after imports, not exceeding them. -->
+- [ ] D) ignore <!-- feedback: "Ignore" means to pay no attention to; a deficit is defined by comparing the two figures, not disregarding one. -->
 
 ### Explicacion Pedagogica
 'Exceed' is the correct verb for describing when one quantity (imports) is larger than another (exports).
@@ -338,7 +338,7 @@ A subsidy is a sum of money granted by the state or a public body to help an ind
 - [ ] B) Tax <!-- feedback: Incorrect. Money paid TO the government. -->
 - [x] A) Subsidy <!-- feedback: Correct. Money given BY the government. -->
 - [ ] C) Loan <!-- feedback: Incorrect. Must be paid back. -->
-- [ ] D) Fine <!-- feedback: Incorrect. Punishment. -->
+- [ ] D) Fine <!-- feedback: A fine is a punishment a company pays for breaking the law, whereas a subsidy is money the state gives it in support. -->
 
 ### Explicacion Pedagogica
 'Subsidy' is the specific economic term for financial aid provided by the government to support a sector.
@@ -377,7 +377,7 @@ Sustainable trade must account for the environmental and social costs that are o
 ### Opciones
 - [ ] B) internal <!-- feedback: Incorrect. Externalized means passed to others (society/nature). -->
 - [x] A) externalized <!-- feedback: Correct. Costs not reflected in the price. -->
-- [ ] C) matching <!-- feedback: Incorrect. -->
+- [ ] C) matching <!-- feedback: Costs are externalized when they are pushed onto society or the environment instead of appearing in the price, so they are not matched. -->
 - [ ] D) hidden <!-- feedback: Incorrect. While they are often hidden, 'externalized' is the technical term. -->
 
 ### Explicacion Pedagogica
@@ -416,7 +416,7 @@ The future of global trade depends on our ability to create a system that is not
 
 ### Opciones
 - [x] C) equitable <!-- feedback: Correct. Fair and impartial. -->
-- [ ] A) greedy <!-- feedback: Incorrect. Negative. -->
+- [ ] A) greedy <!-- feedback: A system built on greed distributes its benefits unfairly, while the sentence asks for one that is equitable. -->
 - [ ] B) isolated <!-- feedback: Incorrect. Trade requires connection. -->
 - [ ] D) fragile <!-- feedback: Incorrect. We want resilience, the opposite of fragility. -->
 

@@ -239,10 +239,10 @@ Para encontrar o ponto de interseção, igualamos as funções: $2x + 5 = -x + 1
 Uma função afim é tal que $f(1) = 4$ e $f(-2) = 10$. Qual é o valor de $f(0)$?
 
 ### Opciones
-- [ ] A) 4 <!-- feedback: 4 é o valor de f(1), não de f(0). -->
-- [ ] B) 5 <!-- feedback: Cálculo incorreto dos coeficientes. -->
-- [x] C) 6 <!-- feedback: a = (10 - 4) / (-2 - 1) = 6 / -3 = -2. f(1) = -2(1) + b = 4 => b = 6. f(0) = b = 6. -->
-- [ ] D) 7 <!-- feedback: Cálculo incorreto dos coeficientes. -->
+- [ ] A) 4 <!-- feedback: O 4 é o valor de $f(1)$; como a função é afim, $f(0)$ é o coeficiente $b$, que resulta $6$. -->
+- [ ] B) 5 <!-- feedback: Com $b = 5$ teríamos $f(1) = -2 + 5 = 3$, e não $4$. -->
+- [x] C) 6 <!-- feedback: $a = \frac{10 - 4}{-2 - 1} = \frac{6}{-3} = -2$, e de $f(1) = -2 + b = 4$ vem $b = 6$; como $f(0) = b$, o valor é $6$. -->
+- [ ] D) 7 <!-- feedback: Com $b = 7$ teríamos $f(1) = -2 + 7 = 5$, e não $4$. -->
 
 ### Explicacion Pedagogica
 Primeiro achamos o coeficiente angular: $a = \frac{10 - 4}{-2 - 1} = \frac{6}{-3} = -2$. Agora usamos $f(1)=4$ para achar $b$: $4 = -2(1) + b \Rightarrow b = 6$. Como $f(0) = b$, o resultado é 6.
@@ -353,10 +353,10 @@ $f(f(x)) = a(ax+b) + b = a^2x + (ab + b)$. Igualando os coeficientes: $a^2 = 4 \
 A função $f(x)$ é linear e satisfaz $\sum_{i=1}^{3} f(i) = 15$. Se o coeficiente angular é $a = 2$, qual é o valor do coeficiente linear $b$?
 
 ### Opciones
-- [ ] A) 5 <!-- feedback: Cálculo incorreto da soma dos termos. -->
-- [x] B) 1 <!-- feedback: f(1)+f(2)+f(3) = (2*1+b) + (2*2+b) + (2*3+b) = 2+4+6 + 3b = 12 + 3b. 12+3b=15 => 3b=3 => b=1. -->
-- [ ] C) 3 <!-- feedback: Cálculo incorreto da soma dos termos. -->
-- [ ] D) 0 <!-- feedback: Se b=0, a soma seria 12, não 15. -->
+- [ ] A) 5 <!-- feedback: Com $b = 5$ a soma seria $12 + 15 = 27$, e não $15$. -->
+- [x] B) 1 <!-- feedback: $f(1) + f(2) + f(3) = (2 + b) + (4 + b) + (6 + b) = 12 + 3b$, e $12 + 3b = 15$ dá $3b = 3$, ou seja, $b = 1$. -->
+- [ ] C) 3 <!-- feedback: Com $b = 3$ a soma seria $12 + 9 = 21$, e não $15$. -->
+- [ ] D) 0 <!-- feedback: Se $b = 0$ a soma seria apenas $2 + 4 + 6 = 12$, e não $15$. -->
 
 ### Explicacion Pedagogica
 Expandimos a soma: $f(1) + f(2) + f(3) = (2(1)+b) + (2(2)+b) + (2(3)+b)$. Somando os termos numéricos: $2 + 4 + 6 = 12$. Somando os termos em $b$: $3b$. Temos a equação $12 + 3b = 15$, resultando em $3b = 3$, logo $b = 1$.
@@ -372,10 +372,10 @@ Expandimos a soma: $f(1) + f(2) + f(3) = (2(1)+b) + (2(2)+b) + (2(3)+b)$. Somand
 Qual é a área da região triangular limitada pelo gráfico da função $f(x) = -2x + 8$ e pelos eixos coordenados $x$ e $y$?
 
 ### Opciones
-- [ ] B) 32 <!-- feedback: Este seria o produto da base pela altura (4 * 8), esquecendo de dividir por 2. -->
-- [x] A) 16 <!-- feedback: Intercepto y (altura) = 8. Intercepto x (raiz) = 4. Área = (4 * 8) / 2 = 16. -->
-- [ ] C) 8 <!-- feedback: Erro no cálculo das dimensões do triângulo. -->
-- [ ] D) 4 <!-- feedback: Erro no cálculo das dimensões do triângulo. -->
+- [ ] B) 32 <!-- feedback: Esse é o produto base por altura, $4 \cdot 8 = 32$, e falta dividir por $2$ para obter a área do triângulo. -->
+- [x] A) 16 <!-- feedback: O intercepto em $y$ é $8$ e a raiz é $4$, então a área é $\frac{4 \cdot 8}{2} = 16$. -->
+- [ ] C) 8 <!-- feedback: O 8 é só a altura; a área do triângulo precisa das duas dimensões e do fator $\frac{1}{2}$. -->
+- [ ] D) 4 <!-- feedback: O 4 é só a base; falta multiplicar pela altura $8$ e dividir por $2$. -->
 
 ### Explicacion Pedagogica
 O triângulo tem vértices na origem $(0,0)$, no intercepto $y$ $(0,8)$ e no intercepto $x$ (raiz da função). Resolvendo $-2x + 8 = 0$, achamos a raiz $x = 4$. A base é 4 e a altura é 8. Área = $(\text{base} \cdot \text{altura}) / 2 = (4 \cdot 8) / 2 = 16$.
@@ -391,10 +391,10 @@ O triângulo tem vértices na origem $(0,0)$, no intercepto $y$ $(0,8)$ e no int
 Considere a família de funções $f_k(x) = (k-1)x + 2k + 3$. Qual é o ponto comum a todas as retas representadas por essa função, independentemente do valor de $k$?
 
 ### Opciones
-- [ ] A) $(0, 5)$ <!-- feedback: Para x=0, f(0) depende de k: 2k+3. -->
-- [ ] B) $(1, 3)$ <!-- feedback: Testando na função, o resultado dependeria de k. -->
-- [x] D) $(-2, 5)$ <!-- feedback: f(-2) = (k-1)(-2) + 2k + 3 = -2k + 2 + 2k + 3 = 5. O valor é constante. -->
-- [ ] C) $(2, -1)$ <!-- feedback: Testando na função, o resultado dependeria de k. -->
+- [ ] A) $(0, 5)$ <!-- feedback: Com $x = 0$ temos $f_k(0) = 2k + 3$, que varia com $k$. -->
+- [ ] B) $(1, 3)$ <!-- feedback: Com $x = 1$, $f_k(1) = (k-1) + 2k + 3 = 3k + 2$, que ainda depende de $k$. -->
+- [x] D) $(-2, 5)$ <!-- feedback: $f_k(-2) = (k-1)(-2) + 2k + 3 = -2k + 2 + 2k + 3 = 5$, e o resultado independe de $k$. -->
+- [ ] C) $(2, -1)$ <!-- feedback: Com $x = 2$, $f_k(2) = 2k - 2 + 2k + 3 = 4k + 1$, que depende de $k$. -->
 
 ### Explicacion Pedagogica
 Para encontrar o ponto comum, reescrevemos a função isolando o parâmetro $k$: $f(x) = kx - x + 2k + 3 = k(x + 2) - x + 3$. Para que o valor de $f(x)$ não dependa de $k$, o termo que multiplica $k$ deve ser zero: $x + 2 = 0 \Rightarrow x = -2$. Substituindo $x = -2$ na função: $f(-2) = k(0) - (-2) + 3 = 5$. O ponto é $(-2, 5)$.

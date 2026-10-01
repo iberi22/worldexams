@@ -35,10 +35,10 @@ This bundle explores public debate and social issues using B2-level grammar, foc
 "The new subway system is very efficient. ____, it has significantly reduced travel times for commuters."
 
 ### Opciones
-- [ ] B) However <!-- feedback: Incorrect contrast connector. -->
+- [ ] B) However <!-- feedback: 'However' introduces contrast, but the second clause here adds a further benefit that supports the first. -->
 - [x] A) Furthermore <!-- feedback: Correct addition connector. -->
-- [ ] C) Nevertheless <!-- feedback: Incorrect contrast connector. -->
-- [ ] D) On the contrary <!-- feedback: Incorrect. -->
+- [ ] C) Nevertheless <!-- feedback: 'Nevertheless' introduces contrast, which is the opposite of the supporting link the sentence needs. -->
+- [ ] D) On the contrary <!-- feedback: 'On the contrary' states that the second clause denies the first, but here it supports it. -->
 
 ### Explicación Pedagógica
 'Furthermore' is used to add more information that supports the previous statement.
@@ -56,10 +56,10 @@ This bundle explores public debate and social issues using B2-level grammar, foc
 "Many people enjoy social media. ____, there are growing concerns about its impact on mental health."
 
 ### Opciones
-- [ ] A) In addition <!-- feedback: Incorrect addition connector. -->
+- [ ] A) In addition <!-- feedback: 'In addition' adds supporting information, but the second clause introduces a problem, not more support. -->
 - [x] B) Nevertheless <!-- feedback: Correct contrast connector. -->
-- [ ] C) Moreover <!-- feedback: Incorrect addition connector. -->
-- [ ] D) Consequently <!-- feedback: Incorrect cause-effect connector. -->
+- [ ] C) Moreover <!-- feedback: 'Moreover' also adds information rather than contrasting, and the clause here is a counter-argument. -->
+- [ ] D) Consequently <!-- feedback: 'Consequently' expresses cause and effect, but the sentence sets an objection against the first statement. -->
 
 ### Explicación Pedagógica
 'Nevertheless' is used to introduce a contrasting point, similar to 'however' but often more formal.
@@ -77,10 +77,10 @@ This bundle explores public debate and social issues using B2-level grammar, foc
 "Solar energy is becoming cheaper. ____, it provides a clean alternative to fossil fuels."
 
 ### Opciones
-- [ ] B) Yet <!-- feedback: Incorrect contrast. -->
+- [ ] B) Yet <!-- feedback: 'Yet' introduces contrast, whereas the second clause adds another advantage of solar energy. -->
 - [x] A) Moreover <!-- feedback: Correct addition connector for formal contexts. -->
-- [ ] C) Despite <!-- feedback: Incorrect preposition. -->
-- [ ] D) Instead <!-- feedback: Incorrect. -->
+- [ ] C) Despite <!-- feedback: 'Despite' is a preposition and needs a noun phrase after it, so it cannot stand alone here. -->
+- [ ] D) Instead <!-- feedback: 'Instead' contrasts two alternatives and would need a following clause of its own. -->
 
 ### Explicación Pedagógica
 'Moreover' is a formal connector used to add information that strengthens the main argument.
@@ -98,9 +98,9 @@ This bundle explores public debate and social issues using B2-level grammar, foc
 "____ the high cost of maintenance, the city council has decided to build more parks."
 
 ### Opciones
-- [ ] A) Although <!-- feedback: Needs a full clause. -->
+- [ ] A) Although <!-- feedback: 'Although' is a conjunction and would need a full clause after it, as in 'although maintenance is costly', but the blank is followed directly by the noun phrase 'the high cost'. -->
 - [x] D) Despite <!-- feedback: Correct. Followed by a noun phrase to show contrast. -->
-- [ ] B) Even though <!-- feedback: Needs a full clause. -->
+- [ ] B) Even though <!-- feedback: 'Even though' also needs a complete clause with a subject and verb, which the noun phrase 'the high cost of maintenance' cannot supply. -->
 - [ ] C) Whereas <!-- feedback: Needs a comparison clause. -->
 
 ### Explicación Pedagógica
@@ -119,10 +119,10 @@ This bundle explores public debate and social issues using B2-level grammar, foc
 "Some argue for traditional exams; ____, others believe that project-based assessment is more effective."
 
 ### Opciones
-- [ ] A) in addition <!-- feedback: Incorrect. -->
+- [ ] A) in addition <!-- feedback: 'In addition' only adds information; the sentence sets two opposing views against each other. -->
 - [x] C) whereas <!-- feedback: Correct comparison/contrast connector. -->
-- [ ] B) besides <!-- feedback: Incorrect addition. -->
-- [ ] D) despite <!-- feedback: Incorrect. -->
+- [ ] B) besides <!-- feedback: 'Besides' adds information, whereas the clause after it presents a different and opposing opinion. -->
+- [ ] D) despite <!-- feedback: 'Despite' is a preposition that needs a noun phrase, so it cannot join two clauses like this. -->
 
 ### Explicación Pedagógica
 'Whereas' is used to compare two different facts or ideas in the same sentence.
@@ -140,10 +140,10 @@ This bundle explores public debate and social issues using B2-level grammar, foc
 "The policy was well-intended. ____, it failed to address the root causes of poverty."
 
 ### Opciones
-- [ ] B) Furthermore <!-- feedback: Incorrect. -->
+- [ ] B) Furthermore <!-- feedback: 'Furthermore' adds supporting information, but the second clause admits the policy failed. -->
 - [x] A) Be that as it may <!-- feedback: Correct formal contrast connector. -->
-- [ ] C) Likewise <!-- feedback: Incorrect similarity connector. -->
-- [ ] D) As a result <!-- feedback: Incorrect cause-effect. -->
+- [ ] C) Likewise <!-- feedback: 'Likewise' signals similarity between two things, and the two clauses are opposed. -->
+- [ ] D) As a result <!-- feedback: 'As a result' links a cause to its effect, while the second clause contradicts the first. -->
 
 ### Explicación Pedagógica
 'Be that as it may' is a sophisticated B2/C1 expression used to acknowledge a point before introducing a contradictory one.
@@ -162,8 +162,8 @@ This bundle explores public debate and social issues using B2-level grammar, foc
 
 ### Opciones
 - [ ] A) by contrast <!-- feedback: Possible, but D is a more direct adverbial link. -->
-- [ ] B) in addition <!-- feedback: Incorrect. -->
-- [ ] D) therefore <!-- feedback: Incorrect cause-effect. -->
+- [ ] B) in addition <!-- feedback: 'In addition' would add a further benefit, but the clause here states a loss. -->
+- [ ] D) therefore <!-- feedback: 'Therefore' draws a conclusion from the first clause, which is not what the sentence does. -->
 - [x] C) on the other hand <!-- feedback: Correct transition for balanced contrast. -->
 
 ### Explicación Pedagógica
@@ -182,10 +182,10 @@ This bundle explores public debate and social issues using B2-level grammar, foc
 "Organic food is often more expensive. ____, it contains fewer pesticides than non-organic options."
 
 ### Opciones
-- [ ] B) Although <!-- feedback: Incorrect syntax. -->
+- [ ] B) Although <!-- feedback: 'Although' is a conjunction and would need a full clause after it to show the contrast. -->
 - [x] A) Nonetheless <!-- feedback: Correct formal contrast connector. -->
-- [ ] C) As well as <!-- feedback: Incorrect grammar. -->
-- [ ] D) Even if <!-- feedback: Incorrect. -->
+- [ ] C) As well as <!-- feedback: 'As well as' joins two nouns or adds information; it cannot introduce a contrasting clause. -->
+- [ ] D) Even if <!-- feedback: 'Even if' introduces a conditional clause, not a concession contrasting with the first statement. -->
 
 ### Explicación Pedagógica
 'Nonetheless' is a formal synonym for 'nevertheless' or 'however'.
@@ -203,10 +203,10 @@ This bundle explores public debate and social issues using B2-level grammar, foc
 "AI can improve efficiency in many sectors. ____, we must not ignore the potential for job displacement."
 
 ### Opciones
-- [ ] A) Similarly <!-- feedback: Incorrect similarity. -->
+- [ ] A) Similarly <!-- feedback: 'Similarly' links two similar points, but the second clause warns of a different, negative point. -->
 - [x] B) By the same token <!-- feedback: Correct. Used to add a related point that is equally important. -->
 - [ ] C) In contrast <!-- feedback: Possible, but B adds a point of equal weight. -->
-- [ ] D) On the contrary <!-- feedback: Incorrect. -->
+- [ ] D) On the contrary <!-- feedback: 'On the contrary' denies the first clause outright, which is stronger than the warning the sentence gives. -->
 
 ### Explicación Pedagógica
 B2 complexity: Choosing the correct transition to balance two equally important points (positive vs negative).
@@ -225,9 +225,9 @@ B2 complexity: Choosing the correct transition to balance two equally important 
 
 ### Opciones
 - [x] A) Not only / also <!-- feedback: Correct correlative conjunction (addition). -->
-- [ ] B) Neither / nor <!-- feedback: Incorrect negative. -->
-- [ ] C) Either / or <!-- feedback: Incorrect choice. -->
-- [ ] D) Both / and <!-- feedback: Incorrect syntax for 'vowed'. -->
+- [ ] B) Neither / nor <!-- feedback: 'Neither... nor' states that both items are untrue, which is the opposite of the emphasis intended. -->
+- [ ] C) Either / or <!-- feedback: 'Either... or' offers a choice between two options, and the sentence asserts both things. -->
+- [ ] D) Both / and <!-- feedback: 'Both... and' adds two items but cannot form the negative inversion the sentence begins with. -->
 
 ### Explicación Pedagógica
 Advanced B2 structure: Negative inversion with 'Not only... but also' to add information with emphasis.
@@ -245,10 +245,10 @@ Advanced B2 structure: Negative inversion with 'Not only... but also' to add inf
 "The law is clear on this matter. ____, its application varies significantly between different regions."
 
 ### Opciones
-- [ ] B) Furthermore <!-- feedback: Incorrect addition. -->
-- [ ] C) Correspondingly <!-- feedback: Incorrect similarity. -->
+- [ ] B) Furthermore <!-- feedback: 'Furthermore' adds supporting information, but the second clause points to a contradiction in practice. -->
+- [ ] C) Correspondingly <!-- feedback: 'Correspondingly' links something that matches or follows from the first, not something that clashes with it. -->
 - [x] A) Paradoxically <!-- feedback: Correct transition showing a surprising contrast. -->
-- [ ] D) Consequently <!-- feedback: Incorrect. -->
+- [ ] D) Consequently <!-- feedback: 'Consequently' introduces a result, whereas the second clause shows an unexpected inconsistency. -->
 
 ### Explicación Pedagógica
 Using adverbs like 'paradoxically' as connectors to indicate the specific nature of a contrast.
@@ -266,10 +266,10 @@ Using adverbs like 'paradoxically' as connectors to indicate the specific nature
 "____ may be the advantages of the new treaty, the long-term risks for local industries cannot be ignored."
 
 ### Opciones
-- [ ] A) No matter <!-- feedback: Needs 'what'. -->
+- [ ] A) No matter <!-- feedback: 'No matter' is followed by 'what' plus a clause, for example 'no matter what the benefits', which does not fit here. -->
 - [x] B) However great <!-- feedback: Correct. Inversion meaning 'no matter how great'. -->
-- [ ] C) Although <!-- feedback: Incorrect syntax. -->
-- [ ] D) Nevertheless <!-- feedback: Incorrect syntax. -->
+- [ ] C) Although <!-- feedback: 'Although' is a conjunction and needs a full clause, whereas the blank only takes an adjective. -->
+- [ ] D) Nevertheless <!-- feedback: 'Nevertheless' is an adverb and cannot be followed directly by the subject 'the long-term risks' in this inversion. -->
 
 ### Explicación Pedagógica
 Mastery level: Using 'However' + adjective + subject + verb to express concession/contrast in a highly formal way.

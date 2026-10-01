@@ -314,10 +314,10 @@ Primero despejamos $x^2$ multiplicando por 2 en ambos lados. Luego aplicamos la 
 ¿Cual es la solucion de la ecuacion $x^2 + 10x + 25 = 0$?
 
 ### Opciones
-- [ ] A) $x = 5$ <!-- feedback: $25 + 50 + 25 = 100$, no 0. -->
-- [x] D) $x = -5$ <!-- feedback: ¡Correcto! Es un trinomio cuadrado perfecto: $(x+5)^2 = 0$. -->
-- [ ] B) $x = 0$ <!-- feedback: No satisface la ecuacion. -->
-- [ ] C) $x = -10$ <!-- feedback: No satisface la ecuacion. -->
+- [ ] A) $x = 5$ <!-- feedback: Al sustituir $x = 5$: $25 + 50 + 25 = 100 \neq 0$. -->
+- [x] D) $x = -5$ <!-- feedback: $x^2 + 10x + 25$ es un trinomio cuadrado perfecto, $(x+5)^2 = 0$, de donde $x = -5$. -->
+- [ ] B) $x = 0$ <!-- feedback: Al sustituir $x = 0$: $0 + 0 + 25 = 25 \neq 0$. -->
+- [ ] C) $x = -10$ <!-- feedback: Al sustituir $x = -10$: $100 - 100 + 25 = 25 \neq 0$. -->
 
 ### Explicacion Pedagogica
 Cuando un trinomio es un cuadrado perfecto (como $x^2 + 10x + 25$), el discriminante es siempre cero y la ecuacion tiene una solucion unica que se halla directamente factorizando el binomio al cuadrado.

@@ -281,10 +281,10 @@ Aplicamos la fórmula cuadrática completa. Identificamos $a=2, b=-7, c=3$. Calc
 ¿Cuál es el número máximo de soluciones reales que puede tener una ecuación polinómica de grado $n$?
 
 ### Opciones
-- [ ] A) Siempre tiene $n$ soluciones reales. <!-- feedback: Algunas pueden ser complejas. -->
-- [x] C) Como máximo $n$ soluciones reales. <!-- feedback: Correcto. El grado marca el límite superior de raíces. -->
-- [ ] B) Siempre tiene al menos una solución real. <!-- feedback: No para grados pares (ej. x^2+1=0). -->
-- [ ] D) $n-1$ soluciones. <!-- feedback: Incorrecto. -->
+- [ ] A) Siempre tiene $n$ soluciones reales. <!-- feedback: El grado $n$ fija el número total de raíces contando multiplicidad sobre los complejos, pero algunas pueden ser complejas y no reales. -->
+- [x] C) Como máximo $n$ soluciones reales. <!-- feedback: Como máximo $n$: el grado es el límite superior de soluciones reales, y en los reales puede haber menos o ninguna. -->
+- [ ] B) Siempre tiene al menos una solución real. <!-- feedback: No es cierto: una ecuación de grado par como $x^2 + 1 = 0$ no tiene ninguna solución real. -->
+- [ ] D) $n-1$ soluciones. <!-- feedback: El límite superior es $n$ y no $n-1$: una ecuación de grado $n$ puede alcanzar exactamente $n$ raíces reales distintas. -->
 
 ### Explicacion Pedagogica
 El grado de una ecuación polinómica determina el número total de soluciones (contando multiplicidad) en los complejos. En los reales, ese número es un límite superior; puede haber menos o ninguna.

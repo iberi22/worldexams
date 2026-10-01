@@ -397,8 +397,8 @@ Seja $S$ um conjunto com $n$ elementos. Se o número de subconjuntos de $S$ com 
 ### Opciones
 - [ ] A) $X = Y + 1$ <!-- feedback: Esta relação não é válida para conjuntos em geral. -->
 - [x] B) $X = Y$ <!-- feedback: Em qualquer conjunto não vazio, o número de subconjuntos de cardinalidade par é igual ao de cardinalidade ímpar (ambos iguais a 2^(n-1)). -->
-- [ ] C) $X = 2Y$ <!-- feedback: A relação correta é a igualdade. -->
-- [ ] D) $X = Y/2$ <!-- feedback: A relação correta é a igualdade. -->
+- [ ] C) $X = 2Y$ <!-- feedback: Como X = Y para todo conjunto não vazio, o dobro de Y nunca puede ser igual a X; essa relação não se sustenta. -->
+- [ ] D) $X = Y/2$ <!-- feedback: Se X = Y, então Y/2 só seria igual a X quando Y = 0, o que contraria o fato de ambos valerem 2^(n-1). -->
 
 ### Explicacion Pedagogica
 Para um conjunto com $n \geq 1$ elementos, a soma alternada dos coeficientes binomiais $\binom{n}{0} - \binom{n}{1} + \binom{n}{2} - ... = 0$. Isso implica que a soma dos coeficientes com índices pares é igual à soma dos coeficientes com índices ímpares, ou seja, $X = Y = 2^{n-1}$.

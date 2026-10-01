@@ -17,466 +17,507 @@ tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
 ---
-# MASTERY Bundle - Ingles: Passive Voice Future Modals (W16)
+# MASTERY Bundle - Ingles: passive-voice-future-modals (W16)
 **20 preguntas | Ingles | Curriculo de Ingles**
 
 ---
-## Question 1 [D3]
+
+## Question 1 [D3-D4]
 **ID:** PR-ING-11-2026-W16-passive-voice-future-modals-001-MASTERY-bundle-v1
-**Bloom:** Remember
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Pasiva, San Juan, grado 11.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+Which sentence is in the passive voice?
 
 ### Opciones
-- [x] D) accommodation
-  <!-- feedback: Correct! 'accommodation' matches the definition. -->
-- [ ] A) transportation
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) entertainment
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) currency
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) The bridge built in 1890.
+  <!-- feedback: Without 'be' this is not a passive form; the verb reads as intransitive. -->
+- [ ] B) The bridge is building in 1890.
+  <!-- feedback: 'Is building' is an active progressive, not a passive. -->
+- [ ] C) The bridge built itself in 1890.
+  <!-- feedback: The reflexive adds no passive auxiliary here. -->
+- [x] D) The bridge was built in 1890.
+  <!-- feedback: 'Was built' is 'be' plus participle, the passive pattern. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
+La voz pasiva se construye con 'be' seguido del participio, y el agente suele aparecer con 'by'.
+
 ---
-## Question 2 [D4]
+
+## Question 2 [D3-D4]
 **ID:** PR-ING-11-2026-W16-passive-voice-future-modals-001-MASTERY-bundle-v2
-**Bloom:** Remember
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
-
-### Opciones
-- [x] C) itinerary
-  <!-- feedback: Correct! 'itinerary' matches the definition. -->
-- [ ] A) baggage
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) destination
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) passport
-  <!-- feedback: Incorrect. Try again. -->
-
-### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
----
-## Question 3 [D3]
-**ID:** PR-ING-11-2026-W16-passive-voice-future-modals-001-MASTERY-bundle-v3
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
-
-### Opciones
-- [x] B) destination
-  <!-- feedback: Correct! 'destination' matches the definition. -->
-- [ ] A) departure
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) arrival
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) journey
-  <!-- feedback: Incorrect. Try again. -->
-
-### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
----
-## Question 4 [D4]
-**ID:** PR-ING-11-2026-W16-passive-voice-future-modals-001-MASTERY-bundle-v4
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
-
-### Opciones
-- [x] B) luggage
-  <!-- feedback: Correct! 'luggage' matches the definition. -->
-- [ ] A) ticket
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) flight
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) reservation
-  <!-- feedback: Incorrect. Try again. -->
-
-### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
----
-## Question 5 [D5]
-**ID:** PR-ING-11-2026-W16-passive-voice-future-modals-001-MASTERY-bundle-v5
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
-
-### Opciones
-- [x] A) passenger
-  <!-- feedback: Correct! 'passenger' matches the definition. -->
-- [ ] B) pedestrian
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) commuter
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) tourist
-  <!-- feedback: Incorrect. Try again. -->
-
-### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
----
-## Question 6 [D6]
-**ID:** PR-ING-11-2026-W16-passive-voice-future-modals-001-MASTERY-bundle-v6
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
-
-### Opciones
-- [x] A) customs
-  <!-- feedback: Correct! 'customs' matches the definition. -->
-- [ ] B) security
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) terminal
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) gate
-  <!-- feedback: Incorrect. Try again. -->
-
-### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
----
-## Question 7 [D5]
-**ID:** PR-ING-11-2026-W16-passive-voice-future-modals-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Transformacion a la pasiva, Ponce, grado 11.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+Change to the passive: 'Someone stole my bicycle.'
 
 ### Opciones
-- [x] D) boarding pass
-  <!-- feedback: Correct! 'boarding pass' matches the definition. -->
-- [ ] A) visa
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) receipt
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) brochure
-  <!-- feedback: Incorrect. Try again. -->
+- [x] A) My bicycle was stolen.
+  <!-- feedback: 'Was stolen' places the object in the subject position. -->
+- [ ] B) My bicycle is stole.
+  <!-- feedback: The simple past cannot follow 'is' in a passive form. -->
+- [ ] C) My bicycle stole.
+  <!-- feedback: This reads as an active verb with the bicycle as agent. -->
+- [ ] D) My bicycle was stealing.
+  <!-- feedback: 'Stealing' is a gerund, not the required past participle. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+El objeto 'my bicycle' pasa a sujeto y el verbo 'stole' se convierte en participio con 'was'.
+
 ---
-## Question 8 [D6]
+
+## Question 3 [D5-D6]
+**ID:** PR-ING-11-2026-W16-passive-voice-future-modals-001-MASTERY-bundle-v3
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Pasiva con tiempo futuro, Mayaguez, grado 11.
+
+### Enunciado
+Complete: 'The report ____ by the committee next week.'
+
+### Opciones
+- [ ] A) will submit
+  <!-- feedback: That is the active form with the subject doing the submitting. -->
+- [x] B) will be submitted
+  <!-- feedback: 'Will be' plus participle is the future passive structure. -->
+- [ ] C) is submitting
+  <!-- feedback: The present continuous is not a future passive. -->
+- [ ] D) was submitted
+  <!-- feedback: The simple past passive refers to a past event. -->
+
+### Explicacion Pedagogica
+Una pasiva futura se forma con 'will be' mas el participio del verbo principal. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.
+
+---
+
+## Question 4 [D5-D6]
+**ID:** PR-ING-11-2026-W16-passive-voice-future-modals-001-MASTERY-bundle-v4
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Pasiva con modales, Humacao, grado 11.
+
+### Enunciado
+What is the passive equivalent of 'They must finish the project today'?
+
+### Opciones
+- [ ] A) The project must finished today.
+  <!-- feedback: A participle cannot follow the modal directly; 'be' is needed. -->
+- [ ] B) The project must being finished today.
+  <!-- feedback: 'Must being' is not grammatical. -->
+- [ ] C) The project must have finish today.
+  <!-- feedback: A bare base form cannot follow 'have' in a passive. -->
+- [x] D) The project must be finished today.
+  <!-- feedback: 'Must be' plus participle is the modal passive pattern. -->
+
+### Explicacion Pedagogica
+En pasiva el modal se mantiene y el verbo principal pasa a participio preceded by 'be'.
+
+---
+
+## Question 5 [D5-D6]
+**ID:** PR-ING-11-2026-W16-passive-voice-future-modals-001-MASTERY-bundle-v5
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Inferencia sobre la pasiva, Caguas, grado 11.
+
+### Enunciado
+Read: 'The window was broken during the storm.' What can you infer?
+
+### Opciones
+- [ ] A) A particular person broke it
+  <!-- feedback: Naming the agent would require a 'by' phrase. -->
+- [ ] B) Nobody broke the window
+  <!-- feedback: The passive does not imply absence of an agent. -->
+- [ ] C) The window broke by itself
+  <!-- feedback: That reading has no basis in the sentence. -->
+- [x] D) The agent is not identified
+  <!-- feedback: The passive omits the doer when no 'by' phrase appears. -->
+
+### Explicacion Pedagogica
+La pasiva oculta al agente, por lo que solo sabemos que alguien rompio la ventana durante la tormenta.
+
+---
+
+## Question 6 [D3-D4]
+**ID:** PR-ING-11-2026-W16-passive-voice-future-modals-001-MASTERY-bundle-v6
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Deteccion de errores, Arecibo, grado 11.
+
+### Enunciado
+Look at the sentence: 'The cake was ate by the children.' What is the error?
+
+### Opciones
+- [x] A) 'Was ate' must be 'was eaten'
+  <!-- feedback: The passive requires the past participle. -->
+- [ ] B) Nothing is wrong with the sentence
+  <!-- feedback: Using the simple past after 'was' is a standard passive error. -->
+- [ ] C) 'Was' must be 'were'
+  <!-- feedback: The subject 'cake' is singular, so 'was' is correct. -->
+- [ ] D) 'By' must be removed
+  <!-- feedback: 'By' is optional in the passive but not incorrect here. -->
+
+### Explicacion Pedagogica
+Tras 'was' en pasiva debe aparecer el participio pasado 'eaten', no el pasado simple 'ate'.
+
+---
+
+## Question 7 [D5-D6]
+**ID:** PR-ING-11-2026-W16-passive-voice-future-modals-001-MASTERY-bundle-v7
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Pasiva con 'should have', Guaynabo, grado 11.
+
+### Enunciado
+Which sentence is in the passive voice with a modal perfective?
+
+### Opciones
+- [ ] A) The letter should have signed earlier.
+  <!-- feedback: That form is active and assigns the signing to the letter. -->
+- [ ] B) The letter should been signed earlier.
+  <!-- feedback: 'Should been' lacks the required infinitive marker. -->
+- [x] C) The letter should have been signed earlier.
+  <!-- feedback: 'Should have been' plus participle is the modal perfective passive. -->
+- [ ] D) The letter should being signed earlier.
+  <!-- feedback: 'Should being' is not a valid sequence. -->
+
+### Explicacion Pedagogica
+'Should have been' mas participio forma una pasiva con modal y aspecto perfecto. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.
+
+---
+
+## Question 8 [D5-D6]
 **ID:** PR-ING-11-2026-W16-passive-voice-future-modals-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Pasiva con 'has been', Vega Baja, grado 11.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+Complete: 'The environment ____ by human activities for decades.'
 
 ### Opciones
-- [x] C) sightseeing
-  <!-- feedback: Correct! 'sightseeing' matches the definition. -->
-- [ ] A) shopping
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) hiking
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) camping
-  <!-- feedback: Incorrect. Try again. -->
+- [x] A) has been damaged
+  <!-- feedback: 'Has been' plus participle gives the present perfect passive. -->
+- [ ] B) has damaged
+  <!-- feedback: That is the active form with the environment as agent. -->
+- [ ] C) has being damaged
+  <!-- feedback: 'Has being' is not grammatical in this structure. -->
+- [ ] D) was damaged
+  <!-- feedback: The simple past passive refers to a completed past situation. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+'Has been' mas participio forma la pasiva del presente perfecto. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.
+
 ---
-## Question 9 [D5]
+
+## Question 9 [D5-D6]
 **ID:** PR-ING-11-2026-W16-passive-voice-future-modals-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Pasiva en presente continuo, Jayuya, grado 11.
 
 ### Enunciado
-What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
+What is the passive form of 'They are painting the school'?
 
 ### Opciones
-- [x] D) souvenir
-  <!-- feedback: Correct! 'souvenir' matches the definition. -->
-- [ ] A) gift
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) award
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) prize
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) The school is painted.
+  <!-- feedback: That is the simple present passive, not the continuous. -->
+- [ ] B) The school is painting.
+  <!-- feedback: That reads as an active verb with the school as agent. -->
+- [x] C) The school is being painted.
+  <!-- feedback: 'Is being' plus participle is the present continuous passive. -->
+- [ ] D) The school is being paint.
+  <!-- feedback: A base form cannot follow 'being' in this structure. -->
 
 ### Explicacion Pedagogica
-The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
+La pasiva del presente continuo se forma con 'is being' mas participio. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.
+
 ---
-## Question 10 [D6]
+
+## Question 10 [D5-D6]
 **ID:** PR-ING-11-2026-W16-passive-voice-future-modals-001-MASTERY-bundle-v10
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Understand
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Marco conceptual, Yauco, grado 11.
 
 ### Enunciado
-What is the English word for: "A period of time by which something is late or postponed."
+Which statement about the passive voice is correct?
 
 ### Opciones
-- [x] B) delay
-  <!-- feedback: Correct! 'delay' matches the definition. -->
-- [ ] A) cancellation
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) departure
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) arrival
-  <!-- feedback: Incorrect. Try again. -->
+- [x] A) It emphasises the object or patient rather than the doer
+  <!-- feedback: That is the pragmatic function of the passive. -->
+- [ ] B) It is used only when the agent is unknown
+  <!-- feedback: It also emphasises an unknown or irrelevant agent, but that is not its only use. -->
+- [ ] C) It changes the tense of the verb
+  <!-- feedback: The tense is marked by 'be', which does not itself change it. -->
+- [ ] D) It always requires a 'by' phrase
+  <!-- feedback: The 'by' phrase is optional and often omitted. -->
 
 ### Explicacion Pedagogica
-The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
+La pasiva devuelve el enfasis al objeto o al paciente de la accion en lugar del agente.
+
 ---
-## Question 11 [D7]
+
+## Question 11 [D5-D6]
 **ID:** PR-ING-11-2026-W16-passive-voice-future-modals-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Pasiva con modal de prohibicion, Barceloneta, grado 11.
 
 ### Enunciado
-What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
+Complete: 'These books ____ in the library; you cannot take them out.'
 
 ### Opciones
-- [x] A) check-in
-  <!-- feedback: Correct! 'check-in' matches the definition. -->
-- [ ] B) check-out
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) booking
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) reservation
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) must not take
+  <!-- feedback: That is the active form and assigns the taking to the books. -->
+- [ ] B) must not be take
+  <!-- feedback: A base form cannot follow 'be' in a passive. -->
+- [x] C) must not be taken
+  <!-- feedback: 'Must not be' plus participle expresses the prohibition in the passive. -->
+- [ ] D) must not been taken
+  <!-- feedback: The participle form requires 'be' after the modal. -->
 
 ### Explicacion Pedagogica
-The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
+Una prohibicion en pasiva se forma con 'must not be' mas participio. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.
+
 ---
-## Question 12 [D8]
+
+## Question 12 [D5-D6]
 **ID:** PR-ING-11-2026-W16-passive-voice-future-modals-001-MASTERY-bundle-v12
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Analisis del uso, Maunabo, grado 11.
 
 ### Enunciado
-What is the English word for: "A period of rest or waiting before a further stage in a journey."
+Read: 'The results will be announced on Friday.' What is the passive form used for here?
 
 ### Opciones
-- [x] C) layover
-  <!-- feedback: Correct! 'layover' matches the definition. -->
-- [ ] A) stopover
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) transfer
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) transit
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) The speaker does not know the agent
+  <!-- feedback: That is only one of several reasons to use the passive. -->
+- [ ] B) The action has not happened yet
+  <!-- feedback: That is expressed by 'will', not by the passive voice. -->
+- [ ] C) The results were announced in the past
+  <!-- feedback: The sentence is in the future passive. -->
+- [x] D) The agent is unimportant; the timing is the focus
+  <!-- feedback: The passive foreground the event rather than the person behind it. -->
 
 ### Explicacion Pedagogica
-The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
+Se usa la pasiva porque no importa quien anuncia los resultados, sino cuando se Bride.
+
 ---
-## Question 13 [D7]
+
+## Question 13 [D5-D6]
 **ID:** PR-ING-11-2026-W16-passive-voice-future-modals-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Interrogacion pasiva, Naguabo, grado 11.
 
 ### Enunciado
-What is the English word for: "A system of money in general use in a particular country."
+Which question is correctly formed in the passive voice?
 
 ### Opciones
-- [x] C) currency
-  <!-- feedback: Correct! 'currency' matches the definition. -->
-- [ ] A) coin
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) banknote
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) cash
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) Did the letter was delivered yesterday?
+  <!-- feedback: Auxiliary 'did' cannot be combined with the passive 'was'. -->
+- [ ] B) Has the letter delivered yesterday?
+  <!-- feedback: The present perfect cannot refer to a finished past moment such as 'yesterday'. -->
+- [x] C) Was the letter delivered yesterday?
+  <!-- feedback: 'Was' leads the question and 'delivered' is the participle. -->
+- [ ] D) The letter was delivered yesterday?
+  <!-- feedback: Without an auxiliary at the front it is not a question. -->
 
 ### Explicacion Pedagogica
-The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
+En pasiva la pregunta conserva el auxiliar 'be' al inicio seguido del participio. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.
+
 ---
-## Question 14 [D8]
+
+## Question 14 [D3-D4]
 **ID:** PR-ING-11-2026-W16-passive-voice-future-modals-001-MASTERY-bundle-v14
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Pasiva con 'before', Ciales, grado 11.
 
 ### Enunciado
-What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
+Complete: 'The decision ____ by the board before the announcement.'
 
 ### Opciones
-- [x] D) guidebook
-  <!-- feedback: Correct! 'guidebook' matches the definition. -->
-- [ ] A) map
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) dictionary
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) encyclopedia
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) took
+  <!-- feedback: The simple past alone does not mark the passive voice. -->
+- [x] B) was taken
+  <!-- feedback: 'Was taken' places the decision as completed before the announcement. -->
+- [ ] C) has take
+  <!-- feedback: 'Has' requires a participle, not a base form. -->
+- [ ] D) was take
+  <!-- feedback: A base form cannot follow 'was' in a passive. -->
 
 ### Explicacion Pedagogica
-The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
+Una accion terminada antes de otra se expresa en pasiva con 'was' mas participio. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.
+
 ---
-## Question 15 [D7]
+
+## Question 15 [D3-D4]
 **ID:** PR-ING-11-2026-W16-passive-voice-future-modals-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Deteccion de errores, Juana Diaz, grado 11.
 
 ### Enunciado
-What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
+Look at the sentence: 'These houses are build in 1920.' What is the error?
 
 ### Opciones
-- [x] B) backpack
-  <!-- feedback: Correct! 'backpack' matches the definition. -->
-- [ ] A) suitcase
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) briefcase
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) handbag
-  <!-- feedback: Incorrect. Try again. -->
+- [x] A) 'Are build' must be 'are built'
+  <!-- feedback: The passive requires the past participle 'built'. -->
+- [ ] B) Nothing is wrong with the sentence
+  <!-- feedback: The base form after 'are' is a standard error. -->
+- [ ] C) 'Are' must be 'were'
+  <!-- feedback: 'Houses' is plural, so 'are' is the correct auxiliary. -->
+- [ ] D) '1920' must be '1921'
+  <!-- feedback: The year is arbitrary and is not the error. -->
 
 ### Explicacion Pedagogica
-The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
+El participio pasado de 'build' es 'built'; despues de 'are' no se usa la forma base.
+
 ---
-## Question 16 [D8]
+
+## Question 16 [D5-D6]
 **ID:** PR-ING-11-2026-W16-passive-voice-future-modals-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Agente en la pasiva, Luquillo, grado 11.
 
 ### Enunciado
-What is the English word for: "In or to a foreign country, especially one across the sea."
+Which sentence uses the passive with a 'by' phrase correctly?
 
 ### Opciones
-- [x] D) overseas
-  <!-- feedback: Correct! 'overseas' matches the definition. -->
-- [ ] A) domestic
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) local
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) national
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) The bridge was designed of a famous architect.
+  <!-- feedback: 'Of' cannot introduce the agent of a passive verb. -->
+- [ ] B) The bridge was designed with a famous architect.
+  <!-- feedback: 'With' names an instrument or tool, not the agent. -->
+- [x] C) The bridge was designed by a famous architect.
+  <!-- feedback: 'By' introduces the agent, the architect. -->
+- [ ] D) The bridge was designed for a famous architect.
+  <!-- feedback: 'For' marks a purpose or a recipient, not the agent. -->
 
 ### Explicacion Pedagogica
-The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
+La preposicion 'by' introduce al agente responsable de la accion en la pasiva. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.
+
 ---
-## Question 17 [D9]
+
+## Question 17 [D5-D6]
 **ID:** PR-ING-11-2026-W16-passive-voice-future-modals-001-MASTERY-bundle-v17
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Pasiva con obligacion, Caguas, grado 11.
 
 ### Enunciado
-What is the English word for: "An estimate of income and expenditure for a set period of time."
+What is the passive form of 'He must repair the roof'?
 
 ### Opciones
-- [x] B) budget
-  <!-- feedback: Correct! 'budget' matches the definition. -->
-- [ ] A) expense
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) cost
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) price
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) The roof must repaired.
+  <!-- feedback: A participle cannot follow the modal without 'be'. -->
+- [x] B) The roof must be repaired.
+  <!-- feedback: 'Must be' plus participle is the modal passive. -->
+- [ ] C) The roof must be repair.
+  <!-- feedback: A base form cannot follow 'be' in a passive. -->
+- [ ] D) The roof must be repairing.
+  <!-- feedback: 'Must be repairing' is not a passive form. -->
 
 ### Explicacion Pedagogica
-The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
+El objeto pasa a sujeto y el verbo se convierte en participio con 'must be'. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.
+
 ---
-## Question 18 [D10]
+
+## Question 18 [D5-D6]
 **ID:** PR-ING-11-2026-W16-passive-voice-future-modals-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Pasiva con futuro perfecto, Cayey, grado 11.
 
 ### Enunciado
-What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
+Choose the sentence that is correctly written in the passive perfect future.
 
 ### Opciones
-- [x] D) insurance
-  <!-- feedback: Correct! 'insurance' matches the definition. -->
-- [ ] A) warranty
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) guarantee
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) policy
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) The work will have completed by then.
+  <!-- feedback: That is the active form and makes the work the agent. -->
+- [ ] B) The work will been completed by then.
+  <!-- feedback: 'Will been' lacks the required infinitive marker. -->
+- [ ] C) The work have been completed by then.
+  <!-- feedback: A bare future perfect needs the auxiliary 'will'. -->
+- [x] D) The work will have been completed by then.
+  <!-- feedback: 'Will have been' plus participle is the perfect future passive. -->
 
 ### Explicacion Pedagogica
-The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
+El futuro perfecto pasivo combina 'will have been' con el participio del verbo principal.
+
 ---
-## Question 19 [D9]
+
+## Question 19 [D5-D6]
 **ID:** PR-ING-11-2026-W16-passive-voice-future-modals-001-MASTERY-bundle-v19
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Identificacion de la pasiva, Yauco, grado 11.
 
 ### Enunciado
-What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
+Read: 'Mistakes were made.' What kind of sentence is this?
 
 ### Opciones
-- [x] A) vaccination
-  <!-- feedback: Correct! 'vaccination' matches the definition. -->
-- [ ] B) medication
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) prescription
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) infection
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) An active sentence with two verbs
+  <!-- feedback: Only one verb appears, in the 'be' plus participle form. -->
+- [x] B) A passive sentence with an unidentified agent
+  <!-- feedback: 'Were made' is the passive pair and no 'by' phrase appears. -->
+- [ ] C) A conditional sentence
+  <!-- feedback: No conditional structure is present. -->
+- [ ] D) A sentence with a modal verb
+  <!-- feedback: No modal is used here. -->
 
 ### Explicacion Pedagogica
-The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
+Es una oracion pasiva con 'were' mas participio y sin agente identificado. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.
+
 ---
-## Question 20 [D10]
+
+## Question 20 [D5-D6]
 **ID:** PR-ING-11-2026-W16-passive-voice-future-modals-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Comparacion de voces, Vega Baja, grado 11.
 
 ### Enunciado
-What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
+Which statement correctly compares active and passive voice?
 
 ### Opciones
-- [x] A) jet lag
-  <!-- feedback: Correct! 'jet lag' matches the definition. -->
-- [ ] B) fatigue
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) exhaustion
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) insomnia
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) They describe two different events
+  <!-- feedback: The underlying event is the same in both voices. -->
+- [x] B) Both express the same event but shift the focus to a different element
+  <!-- feedback: The proposition is unchanged while the emphasis moves. -->
+- [ ] C) Only the passive can express past events
+  <!-- feedback: Both voices work with every tense. -->
+- [ ] D) The active always sounds more formal
+  <!-- feedback: Register depends on context, not on the voice used. -->
 
 ### Explicacion Pedagogica
-The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.
+Cambiar de voz altera quien aparece como sujeto y, con ello, el enfasis de la oracion.
+
+---

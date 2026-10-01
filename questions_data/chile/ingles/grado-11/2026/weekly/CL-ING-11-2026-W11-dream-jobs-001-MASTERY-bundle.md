@@ -295,10 +295,10 @@ Many people choose a career path that aligns with their personal values and beli
 If she had taken that internship last year, she would have more opportunities now.
 
 ### Opciones
-- [ ] A) will have <!-- feedback: Incorrect. Present/future. -->
+- [ ] A) will have <!-- feedback: After "would" the past participle is required: the form is "would have", never "would will have". -->
 - [x] D) would have <!-- feedback: Correct. Mixed conditional (past action, present result). -->
 - [ ] B) had <!-- feedback: Incorrect. Past tense. -->
-- [ ] C) would had <!-- feedback: Incorrect grammar. -->
+- [ ] C) would had <!-- feedback: A modal verb takes the bare infinitive, so "would had" is wrong; the correct pair is "would have". -->
 
 ### Explicacion Pedagogica
 The mixed conditional (if + past perfect, would + verb) connects a past hypothetical with a present situation.

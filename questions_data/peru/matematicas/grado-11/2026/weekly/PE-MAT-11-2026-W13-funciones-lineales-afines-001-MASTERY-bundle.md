@@ -459,13 +459,13 @@ Halle la mínima distancia entre el origen de coordenadas y la recta definida po
 
 ### Opciones
 - [ ] A) 10 unidades
-  <!-- feedback: Incorrecto. Esta es la distancia vertical, no la mínima (perpendicular). -->
+  <!-- feedback: El $10$ es la ordenada al origen, la distancia vertical desde el origen hasta el corte con el eje $y$, no la distancia mínima. -->
 - [ ] C) 8 unidades
-  <!-- feedback: Incorrecto. Revise el uso de la fórmula de distancia. -->
+  <!-- feedback: Con $4x + 3y - 30 = 0$, $|A^2+B^2| = \sqrt{16+9} = 5$ y $|C| = 30$, la distancia mínima es $30/5 = 6$ unidades. -->
 - [x] B) 6 unidades
-  <!-- feedback: Correcto. La ecuación general es $4x + 3y - 30 = 0$. Distancia $d = |4(0) + 3(0) - 30| / \sqrt{4^2 + 3^2} = |-30| / 5 = 6$. -->
+  <!-- feedback: El $8$ resulta de usar mal el denominador: $\sqrt{4^2 + 3^2} = 5$, no $30/8$; el error está en el denominador de la fórmula. -->
 - [ ] D) 7.5 unidades
-  <!-- feedback: Incorrecto. Error de cálculo en el denominador de la fórmula. -->
+  <!-- feedback: El $7.5$ sale de dividir mal: $30/5 = 6$, y $7.5$ corresponde a un error de cálculo en el denominador. -->
 
 ### Explicacion Pedagogica
 Expresamos la función en su forma general $Ax + By + C = 0$. Luego aplicamos la fórmula de distancia de un punto $(x_0, y_0)$ a una recta: $d = \frac{|Ax_0 + By_0 + C|}{\sqrt{A^2 + B^2}}$.

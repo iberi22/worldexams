@@ -312,13 +312,13 @@ En un discurso público, el uso frecuente de preguntas retóricas como "¿Qué p
 
 ### Opciones
 - [x] A) Involucrar al oyente en la reflexión y encuadrar el tema antes de la respuesta argumentativa.
-  <!-- feedback: Activa la reflexión. -->
+  <!-- feedback: Activa la reflexión de la audiencia y encuadra el tema antes de que el orador desarrolle su argumento. -->
 - [ ] B) Solicitar respuesta inmediata del público.
-  <!-- feedback: Es retórica, no diálogo. -->
+  <!-- feedback: Las preguntas retóricas no buscan una respuesta del público: el orador es quien responde después. -->
 - [ ] C) Evadir la respuesta del orador.
-  <!-- feedback: El orador responde. -->
+  <!-- feedback: El orador sí responde a su propia pregunta retórica, no la evade. -->
 - [ ] D) Confundir al lector con ambigüedad.
-  <!-- feedback: Aclara. -->
+  <!-- feedback: La pregunta retórica despeja el punto, no lo vuelve ambiguo para el oyente. -->
 
 ### Explicacion Pedagogica
 La pregunta retórica abre el campo argumentativo y compromete a la audiencia con el tema.

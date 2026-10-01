@@ -18,466 +18,507 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 ---
-# MASTERY Bundle - Ingles: Countable Uncountable (W13)
-**20 preguntas | Ingles | CNEB - MINEDU**
+# MASTERY Bundle - Ingles: countable-uncountable (W13)
+**20 preguntas | Ingles | Curriculo de Ingles**
 
 ---
+
 ## Question 1 [D3-D4]
-**ID:** PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-v1
+**ID:** PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Sustantivos contables e incontables, Lima, grado 11.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+Which of these nouns is uncountable?
 
 ### Opciones
-- [x] B) accommodation
-  <!-- feedback: Correct! 'accommodation' matches the definition. -->
-- [ ] A) transportation
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) entertainment
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) currency
-  <!-- feedback: Incorrect. Try again. -->
+- [x] A) information
+  <!-- feedback: 'Information' is uncountable: no plural form and no indefinite article. -->
+- [ ] B) apple
+  <!-- feedback: 'Apple' is a countable noun with a regular plural 'apples'. -->
+- [ ] C) book
+  <!-- feedback: 'Book' is countable and takes the plural 'books'. -->
+- [ ] D) chair
+  <!-- feedback: 'Chair' is countable and takes the plural 'chairs'. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
+'Information', 'advice', 'furniture' y 'equipment' son incontables y no tienen forma plural.
+
 ---
+
 ## Question 2 [D3-D4]
-**ID:** PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-v2
-**Bloom:** Remember
-**EJE:** Lexico
+**ID:** PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-bundle-v2
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Aplicacion de contables e incontables, Arequipa.
 
 ### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
+Choose the correct sentence.
 
 ### Opciones
-- [x] B) itinerary
-  <!-- feedback: Correct! 'itinerary' matches the definition. -->
-- [ ] A) baggage
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) destination
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) passport
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) I need a information about the course.
+  <!-- feedback: Uncountable nouns never take the indefinite article 'a'. -->
+- [ ] B) I need many information about the course.
+  <!-- feedback: 'Many' requires a plural count noun. -->
+- [ ] C) I need informations about the course.
+  <!-- feedback: 'Informations' is not a standard English plural. -->
+- [x] D) I need some information about the course.
+  <!-- feedback: 'Some information' is the correct treatment for an uncountable noun. -->
 
 ### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
+Los sustantivos incontables no llevan 'a/an' y se miden con 'some', 'much' o 'a lot of'.
+
 ---
+
 ## Question 3 [D3-D4]
-**ID:** PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-v3
-**Bloom:** Understand
-**EJE:** Lexico
+**ID:** PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-bundle-v3
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Cuantificadores, Trujillo.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+Complete: 'How ____ sugar do you need?'
 
 ### Opciones
-- [x] C) destination
-  <!-- feedback: Correct! 'destination' matches the definition. -->
-- [ ] A) departure
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) arrival
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) journey
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) many
+  <!-- feedback: 'How many' is used with plural countable nouns. -->
+- [x] B) much
+  <!-- feedback: 'How much' is the correct quantifier for an uncountable noun. -->
+- [ ] C) several
+  <!-- feedback: 'Several' requires a plural count noun. -->
+- [ ] D) a few
+  <!-- feedback: 'A few' requires a plural count noun and means a small number. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
+Con sustantivos incontables se usa 'much' en preguntas y preguntas negativas. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.
+
 ---
+
 ## Question 4 [D3-D4]
-**ID:** PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-v4
-**Bloom:** Understand
-**EJE:** Lexico
+**ID:** PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-bundle-v4
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Expresiones de cantidad, Piura.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+Which sentence uses 'a piece of' correctly?
 
 ### Opciones
-- [x] B) luggage
-  <!-- feedback: Correct! 'luggage' matches the definition. -->
-- [ ] A) ticket
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) flight
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) reservation
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) She bought a piece of furnitures for the flat.
+  <!-- feedback: 'Furnitures' does not exist; the base form is uncountable. -->
+- [ ] B) She bought piece of furniture for the flat.
+  <!-- feedback: The article 'a' is missing before 'piece'. -->
+- [x] C) She bought a piece of furniture for the flat.
+  <!-- feedback: 'A piece of furniture' makes an uncountable noun countable. -->
+- [ ] D) She bought a piece furniture for the flat.
+  <!-- feedback: The preposition 'of' is required between 'piece' and the noun. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
+'A piece of' convierte un sustantivo incontable en una unidad contable. Esta es la unica forma de convertir en contable un sustantivo que no admite plural.
+
 ---
-## Question 5 [D5-D6]
-**ID:** PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-v5
-**Bloom:** Understand
-**EJE:** Lexico
+
+## Question 5 [D3-D4]
+**ID:** PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-bundle-v5
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Clasificacion de sustantivos, Cusco.
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+Which noun is countable?
 
 ### Opciones
-- [x] B) passenger
-  <!-- feedback: Correct! 'passenger' matches the definition. -->
-- [ ] A) pedestrian
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) commuter
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) tourist
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) furniture
+  <!-- feedback: 'Furniture' is uncountable and has no plural form. -->
+- [x] B) chair
+  <!-- feedback: 'Chair' is countable: 'a chair', 'two chairs'. -->
+- [ ] C) advice
+  <!-- feedback: 'Advice' is uncountable and is never pluralised. -->
+- [ ] D) luggage
+  <!-- feedback: 'Luggage' is uncountable and takes no indefinite article. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
+'Chair', 'table', 'book' y 'window' son contables y pueden pluralizarse. Los sustantivos que nombran objetos fisicos suelen ser contables y por eso llevan plural.
+
 ---
+
 ## Question 6 [D5-D6]
-**ID:** PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-v6
-**Bloom:** Understand
-**EJE:** Lexico
+**ID:** PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-bundle-v6
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Deteccion de errores, Lima.
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+Look at the sentence: 'I bought three advices from the teacher.' What is the error?
 
 ### Opciones
-- [x] D) customs
-  <!-- feedback: Correct! 'customs' matches the definition. -->
-- [ ] A) security
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) terminal
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) gate
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) Nothing is wrong with the sentence
+  <!-- feedback: Pluralising an uncountable noun is a standard error. -->
+- [ ] B) 'Bought' must be 'buy'
+  <!-- feedback: 'Bought' is correct in the simple past. -->
+- [ ] C) 'Teacher' must be plural
+  <!-- feedback: The teacher here is a single person and agrees with 'from'. -->
+- [x] D) 'Advices' should be 'a piece of advice'
+  <!-- feedback: Uncountable nouns are quantified with 'a piece of' rather than a plural. -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
+'Advice' es incontable, de modo que no admite plural ni numeracion directa. Conviene practicarlo con otros ejemplos antes del examen.
+
 ---
-## Question 7 [D5-D6]
-**ID:** PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-v7
+
+## Question 7 [D3-D4]
+**ID:** PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Cuantificadores con sustantivos incontables, Arequipa.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+Complete the sentence: 'There is ____ water left in the bottle.'
 
 ### Opciones
-- [x] B) boarding pass
-  <!-- feedback: Correct! 'boarding pass' matches the definition. -->
-- [ ] A) visa
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) receipt
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) brochure
-  <!-- feedback: Incorrect. Try again. -->
+- [x] A) some
+  <!-- feedback: 'Some water' is the correct quantifier in an affirmative statement. -->
+- [ ] B) a
+  <!-- feedback: Uncountable nouns never take the indefinite article 'a'. -->
+- [ ] C) many
+  <!-- feedback: 'Many' requires a plural count noun. -->
+- [ ] D) a few
+  <!-- feedback: 'A few' requires a plural count noun and means a small number. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+En afirmativas y preguntas se usa 'some' con sustantivos incontables. Las preguntas con 'how much' siguen el mismo criterio de cantidad no numerable.
+
 ---
-## Question 8 [D5-D6]
-**ID:** PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-v8
-**Bloom:** Apply
-**EJE:** Lexico
+
+## Question 8 [D3-D4]
+**ID:** PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-bundle-v8
+**Bloom:** Evaluate
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Contraste de cuantificadores, Trujillo.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+Which sentence is correct with 'much' or 'many'?
 
 ### Opciones
-- [x] B) sightseeing
-  <!-- feedback: Correct! 'sightseeing' matches the definition. -->
-- [ ] A) shopping
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) hiking
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) camping
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) There isn't many time left, but there are much tourists.
+  <!-- feedback: Both quantifiers are used with the wrong type of noun. -->
+- [ ] B) There isn't much times left, but there are many tourist.
+  <!-- feedback: 'Times' and 'tourist' would both be incorrect plurals. -->
+- [x] C) There isn't much time left, but there are many tourists.
+  <!-- feedback: 'Much time' is uncountable and 'many tourists' is a plural count noun. -->
+- [ ] D) There isn't a much time left, but there are many tourists.
+  <!-- feedback: 'Much' cannot be preceded by the article 'a'. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+'Much' acompaña a sustantivos incontables y 'many' a plurales contables. Los articulos 'a' y 'an' solo pueden preceder a sustantivos contables en singular.
+
 ---
+
 ## Question 9 [D5-D6]
-**ID:** PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-v9
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
-
-### Opciones
-- [x] A) souvenir
-  <!-- feedback: Correct! 'souvenir' matches the definition. -->
-- [ ] B) gift
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) award
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) prize
-  <!-- feedback: Incorrect. Try again. -->
-
-### Explicacion Pedagogica
-The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
----
-## Question 10 [D5-D6]
-**ID:** PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-v10
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A period of time by which something is late or postponed."
-
-### Opciones
-- [x] B) delay
-  <!-- feedback: Correct! 'delay' matches the definition. -->
-- [ ] A) cancellation
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) departure
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) arrival
-  <!-- feedback: Incorrect. Try again. -->
-
-### Explicacion Pedagogica
-The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
----
-## Question 11 [D7-D8]
-**ID:** PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-v11
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
-
-### Opciones
-- [x] D) check-in
-  <!-- feedback: Correct! 'check-in' matches the definition. -->
-- [ ] A) check-out
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) booking
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) reservation
-  <!-- feedback: Incorrect. Try again. -->
-
-### Explicacion Pedagogica
-The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
----
-## Question 12 [D7-D8]
-**ID:** PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-v12
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A period of rest or waiting before a further stage in a journey."
-
-### Opciones
-- [x] A) layover
-  <!-- feedback: Correct! 'layover' matches the definition. -->
-- [ ] B) stopover
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) transfer
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) transit
-  <!-- feedback: Incorrect. Try again. -->
-
-### Explicacion Pedagogica
-The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
----
-## Question 13 [D7-D8]
-**ID:** PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-v13
+**ID:** PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-bundle-v9
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Analisis gramatical, Piura.
 
 ### Enunciado
-What is the English word for: "A system of money in general use in a particular country."
+What happens when an uncountable noun is used with 'many'?
 
 ### Opciones
-- [x] C) currency
-  <!-- feedback: Correct! 'currency' matches the definition. -->
-- [ ] A) coin
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) banknote
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) cash
-  <!-- feedback: Incorrect. Try again. -->
+- [x] A) The sentence is ungrammatical because 'many' requires a plural count noun
+  <!-- feedback: That is why 'much' or 'a lot of' is used instead. -->
+- [ ] B) The sentence is correct because 'many' works with all plural-looking nouns
+  <!-- feedback: 'Many' is restricted to count nouns, regardless of appearance. -->
+- [ ] C) The sentence is correct if the verb is plural
+  <!-- feedback: Agreement does not repair the wrong quantifier. -->
+- [ ] D) The sentence becomes a question
+  <!-- feedback: The quantifier choice does not change the sentence type. -->
 
 ### Explicacion Pedagogica
-The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
+El uso de 'many' con un sustantivo incontable es incorrecto porque 'many' exige plurales contables.
+
 ---
-## Question 14 [D7-D8]
-**ID:** PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-v14
+
+## Question 10 [D3-D4]
+**ID:** PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-bundle-v10
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Sustantivos incontables en contexto, Cusco.
+
+### Enunciado
+Complete: 'She gave me some very useful ____ about the project.'
+
+### Opciones
+- [ ] A) advices
+  <!-- feedback: 'Advices' does not exist in standard English. -->
+- [x] B) advice
+  <!-- feedback: 'Some useful advice' is the natural collocation in English. -->
+- [ ] C) information
+  <!-- feedback: 'Some information' is also correct, but the adjective position differs by convention. -->
+- [ ] D) informations
+  <!-- feedback: The plural of 'information' is not used in this sense. -->
+
+### Explicacion Pedagogica
+'Advice' e 'information' son incontables y encajan con el articulo indefinido singular tras 'some'.
+
+---
+
+## Question 11 [D5-D6]
+**ID:** PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Cuantificadores comparativos, Juliaca.
 
 ### Enunciado
-What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
+Which sentence uses 'fewer' and 'less' correctly?
 
 ### Opciones
-- [x] C) guidebook
-  <!-- feedback: Correct! 'guidebook' matches the definition. -->
-- [ ] A) map
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) dictionary
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) encyclopedia
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) There are less students and there is fewer water.
+  <!-- feedback: Both quantifiers are attached to the wrong type of noun. -->
+- [x] B) There are fewer students and there is less water.
+  <!-- feedback: 'Fewer students' and 'less water' match the countability of each noun. -->
+- [ ] C) There are fewer water and there is less students.
+  <!-- feedback: The quantifiers are again reversed with respect to countability. -->
+- [ ] D) There are less students and there is less water.
+  <!-- feedback: 'Less' is incorrect before the plural noun 'students'. -->
 
 ### Explicacion Pedagogica
-The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
+'Fewer' se usa con plurales contables y 'less' con sustantivos incontables. Este matiz se comprueba comparando con el resto de opciones.
+
 ---
-## Question 15 [D7-D8]
-**ID:** PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-v15
+
+## Question 12 [D5-D6]
+**ID:** PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-bundle-v12
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Sustantivos que cambian de categoria, Puno.
 
 ### Enunciado
-What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
+Read the sentence: 'How much rice did you cook?' What type of noun does 'rice' behave as here?
 
 ### Opciones
-- [x] C) backpack
-  <!-- feedback: Correct! 'backpack' matches the definition. -->
-- [ ] A) suitcase
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) briefcase
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) handbag
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) It behaves as a countable noun
+  <!-- feedback: The -s ending is misleading; the noun is treated as a mass noun. -->
+- [ ] B) It behaves as a proper noun
+  <!-- feedback: A proper noun is a name, and 'rice' is a common noun. -->
+- [x] C) It behaves as an uncountable noun
+  <!-- feedback: Grains such as 'rice' and 'flour' take 'much', not 'many'. -->
+- [ ] D) It behaves as a gerund
+  <!-- feedback: The word functions as a noun, not as a verb form. -->
 
 ### Explicacion Pedagogica
-The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
+Aunque 'rice' termina en -s, se comporta como incontable y por eso lleva 'much'. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.
+
 ---
-## Question 16 [D7-D8]
-**ID:** PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-v16
+
+## Question 13 [D3-D4]
+**ID:** PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-bundle-v13
+**Bloom:** Evaluate
+**EJE:** Grammatical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Consolidacion, Huaraz.
+
+### Enunciado
+Which sentence applies the articles and countability rules correctly?
+
+### Opciones
+- [ ] A) He bought two loafs of bread and a piece of cheese.
+  <!-- feedback: 'Loafs' is the wrong plural; it is 'loaves'. -->
+- [ ] B) He bought two loafes of bread and a cheeses.
+  <!-- feedback: Both the plural of 'loaf' and the plural of 'cheese' are incorrect here. -->
+- [ ] C) He bought two bread and a piece of cheese.
+  <!-- feedback: 'Bread' is uncountable and cannot be quantified with 'two'. -->
+- [x] D) He bought two loaves of bread and a piece of cheese.
+  <!-- feedback: 'Two loaves' and 'a piece of cheese' both follow correct quantification. -->
+
+### Explicacion Pedagogica
+El sustantivo incontables lleva 'a piece of' y el contable lleva el numeral de forma directa.
+
+---
+
+## Question 14 [D3-D4]
+**ID:** PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-bundle-v14
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Cuantificadores en el trabajo, Lima.
+
+### Enunciado
+Complete: 'We have ____ work to do today.'
+
+### Opciones
+- [ ] A) a
+  <!-- feedback: Uncountable nouns never take the indefinite article 'a'. -->
+- [ ] B) many
+  <!-- feedback: 'Many' requires a plural count noun. -->
+- [x] C) a lot of
+  <!-- feedback: 'A lot of work' is the correct quantifier for this uncountable noun. -->
+- [ ] D) a few
+  <!-- feedback: 'A few' requires a plural count noun and means a small number. -->
+
+### Explicacion Pedagogica
+'Work' en este sentido es incontable y por eso no lleva 'a' ni plural. El sufijo -s no convierte automaticamente un sustantivo en contable.
+
+---
+
+## Question 15 [D5-D6]
+**ID:** PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Uso de incontables, Trujillo.
 
 ### Enunciado
-What is the English word for: "In or to a foreign country, especially one across the sea."
+Which sentence uses an uncountable noun correctly?
 
 ### Opciones
-- [x] C) overseas
-  <!-- feedback: Correct! 'overseas' matches the definition. -->
-- [ ] A) domestic
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) local
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) national
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) A traffic is heavy during the rush hour.
+  <!-- feedback: Uncountable nouns cannot take the indefinite article. -->
+- [ ] B) The traffics are heavy during the rush hour.
+  <!-- feedback: There is no plural form of 'traffic'. -->
+- [x] C) Traffic is heavy during the rush hour.
+  <!-- feedback: 'Traffic' is uncountable: no article, no plural, singular verb. -->
+- [ ] D) Many traffics are heavy during the rush hour.
+  <!-- feedback: 'Many' cannot modify an uncountable noun. -->
 
 ### Explicacion Pedagogica
-The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
+'Traffic' es incontable y por eso se usa sin articulo y en singular. El contexto determina con frecuencia si la palabra se usa en masa o en unidades.
+
 ---
-## Question 17 [D9-D10]
-**ID:** PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-v17
-**Bloom:** Evaluate
-**EJE:** Lexico
+
+## Question 16 [D5-D6]
+**ID:** PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-bundle-v16
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Cambio de categoria, Arequipa.
 
 ### Enunciado
-What is the English word for: "An estimate of income and expenditure for a set period of time."
+What does 'bread' mean when it is used as a countable noun in the expression 'a bread roll'?
 
 ### Opciones
-- [x] D) budget
-  <!-- feedback: Correct! 'budget' matches the definition. -->
-- [ ] A) expense
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) cost
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) price
-  <!-- feedback: Incorrect. Try again. -->
+- [x] A) It becomes a countable unit, a type of bread
+  <!-- feedback: A modifier can shift a mass noun into a countable category. -->
+- [ ] B) It becomes a different kind of sugar
+  <!-- feedback: No lexical change to 'sugar' occurs in this expression. -->
+- [ ] C) It becomes an uncountable noun
+  <!-- feedback: Adding a specific noun makes the phrase countable. -->
+- [ ] D) It becomes a proper noun
+  <!-- feedback: No proper name is involved in the expression. -->
 
 ### Explicacion Pedagogica
-The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
+Añadir un especificador como 'roll' convierte 'bread' en un sustantivo contable y medible.
+
 ---
-## Question 18 [D9-D10]
-**ID:** PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-v18
-**Bloom:** Evaluate
-**EJE:** Lexico
+
+## Question 17 [D3-D4]
+**ID:** PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-bundle-v17
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Cuantificadores con plurales, Piura.
 
 ### Enunciado
-What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
+Which option correctly completes the sentence: 'There were ____ people waiting outside the theatre.'
 
 ### Opciones
-- [x] C) insurance
-  <!-- feedback: Correct! 'insurance' matches the definition. -->
-- [ ] A) warranty
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) guarantee
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) policy
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) much
+  <!-- feedback: 'Much' cannot modify a plural count noun. -->
+- [x] B) many
+  <!-- feedback: 'Many people' is correct because 'people' is a countable plural. -->
+- [ ] C) a few peoples
+  <!-- feedback: The plural of 'person' is 'people', not 'peoples'. -->
+- [ ] D) a little
+  <!-- feedback: 'A little' is used with uncountable nouns only. -->
 
 ### Explicacion Pedagogica
-The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
+'People' es un plural contable, por lo que admite 'many' y nunca 'much'. Las sustantivos terminados en -s pueden ser contables o incontables segun su uso.
+
 ---
-## Question 19 [D9-D10]
-**ID:** PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-v19
-**Bloom:** Evaluate
-**EJE:** Lexico
+
+## Question 18 [D5-D6]
+**ID:** PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-bundle-v18
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Inferencia sobre sustantivos, Cusco.
 
 ### Enunciado
-What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
+Read: 'The restaurant serves several local dishes and a wide range of wines.' What can you conclude?
 
 ### Opciones
-- [x] B) vaccination
-  <!-- feedback: Correct! 'vaccination' matches the definition. -->
-- [ ] A) medication
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) prescription
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) infection
-  <!-- feedback: Incorrect. Try again. -->
+- [x] A) Dishes are countable, and the range of wines refers to a collection
+  <!-- feedback: The quantifiers reveal the countability of each noun phrase. -->
+- [ ] B) Both nouns are uncountable
+  <!-- feedback: 'Several' is used with countable plurals, so that reading is impossible. -->
+- [ ] C) The dishes are uncountable
+  <!-- feedback: The presence of 'several' shows they are countable. -->
+- [ ] D) The wines cannot be counted
+  <!-- feedback: A 'range of' refers to a collection of countable items. -->
 
 ### Explicacion Pedagogica
-The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
+'Several' modifica un plural contable ('dishes') y 'a wide range of' introduce un conjunto de articulos contables.
+
 ---
-## Question 20 [D9-D10]
-**ID:** PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-v20
-**Bloom:** Evaluate
-**EJE:** Lexico
+
+## Question 19 [D5-D6]
+**ID:** PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-bundle-v19
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Revision de contables e incontables, Lima.
 
 ### Enunciado
-What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
+Which sentence is NOT correct?
 
 ### Opciones
-- [x] C) jet lag
-  <!-- feedback: Correct! 'jet lag' matches the definition. -->
-- [ ] A) fatigue
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) exhaustion
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) insomnia
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) There is some furniture in the room.
+  <!-- feedback: 'Some furniture' is the correct treatment for an uncountable noun. -->
+- [ ] B) There is a piece of furniture in the room.
+  <!-- feedback: 'A piece of furniture' makes the noun countable. -->
+- [ ] C) There is much furniture in the room.
+  <!-- feedback: 'Much furniture' is acceptable in negative and interrogative contexts. -->
+- [x] D) There is a furniture in the room.
+  <!-- feedback: Uncountable nouns cannot take the indefinite article 'a'. -->
 
 ### Explicacion Pedagogica
-The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.
+El sustantivo 'furniture' es incontable, de modo que no admite el articulo 'a'. Conviene practicarlo con otros ejemplos antes del examen.
+
+---
+
+## Question 20 [D5-D6]
+**ID:** PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-bundle-v20
+**Bloom:** Evaluate
+**EJE:** Grammatical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Evaluacion de cuantificadores, Huanuco.
+
+### Enunciado
+Choose the sentence that uses quantifiers correctly throughout.
+
+### Opciones
+- [ ] A) She bought few apples, some breads and many sugar.
+  <!-- feedback: 'Few' without 'a' and the plurals 'breads' and the wrong quantifier for 'sugar'. -->
+- [ ] B) She bought a few apple, some bread and much sugars.
+  <!-- feedback: 'Apple' needs the plural for 'a few', and 'sugars' is not standard. -->
+- [ ] C) She bought a few apples, some bread and many sugar.
+  <!-- feedback: 'Many' cannot modify the uncountable noun 'sugar'. -->
+- [x] D) She bought a few apples, some bread and much sugar.
+  <!-- feedback: 'A few' with the plural, 'some' and 'much' with the uncountables. -->
+
+### Explicacion Pedagogica
+Cada cuantificador se ajusta al rasgo de countable del sustantivo que modifica. Este matiz se comprueba comparando con el resto de opciones.
+
+---

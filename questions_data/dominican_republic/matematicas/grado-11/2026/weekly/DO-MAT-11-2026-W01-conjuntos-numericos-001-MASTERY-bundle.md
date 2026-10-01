@@ -218,10 +218,10 @@ La densidad racional permite hallar siempre un número entre otros dos.
 ¿En qué conjunto la división no garantiza un resultado del mismo conjunto?
 
 ### Opciones
-- [ ] A) Números Racionales <!-- feedback: Incorrecto. Son cerrados. -->
-- [x] D) Números Enteros <!-- feedback: Correcto. 5/2 no es entero. -->
-- [ ] B) Números Reales <!-- feedback: Incorrecto. Son cerrados. -->
-- [ ] C) Números Complejos <!-- feedback: Incorrecto. Son cerrados. -->
+- [ ] A) Números Racionales <!-- feedback: Los racionales sí son cerrados bajo la división: si $a$ y $b$ son racionales con $b \neq 0$, entonces $a/b$ también es racional. -->
+- [x] D) Números Enteros <!-- feedback: Los enteros no son cerrados bajo la división, porque $5 / 2 = 2.5$ no es un entero aunque $5$ y $2$ sí lo sean. -->
+- [ ] B) Números Reales <!-- feedback: Los reales son cerrados: el cociente de dos reales con divisor distinto de cero sigue siendo real. -->
+- [ ] C) Números Complejos <!-- feedback: Los complejos también son cerrados bajo la división, con la única condición de que el divisor no sea cero. -->
 
 ### Explicacion Pedagogica
 Los enteros no son cerrados bajo la división.
@@ -281,10 +281,10 @@ Decimales periódicos tienen fracción generatriz racional.
 ¿Cuál es el resultado de $\sqrt{-4}$?
 
 ### Opciones
-- [ ] B) -2 <!-- feedback: Incorrecto. (-2)^2 es 4. -->
-- [ ] C) 2 <!-- feedback: Incorrecto. 2^2 es 4. -->
-- [x] A) $2i$ <!-- feedback: Correcto. Raíz de negativo usa unidad i. -->
-- [ ] D) No existe <!-- feedback: Incorrecto. Existe en complejos. -->
+- [ ] B) -2 <!-- feedback: El $-2$ es la raíz de $4$, porque $(-2)^2 = 4$, no de $-4$. -->
+- [ ] C) 2 <!-- feedback: El $2$ también resuelve $4$; ninguna raíz real puede dar un cuadrado negativo. -->
+- [x] A) $2i$ <!-- feedback: Como no hay real cuyo cuadrado sea $-4$, se usa la unidad imaginaria: $2i$ cumple $(2i)^2 = 4i^2 = -4$. -->
+- [ ] D) No existe <!-- feedback: Sí existe dentro de los complejos, que es justamente lo que permite escribir $\sqrt{-4} = 2i$. -->
 
 ### Explicacion Pedagogica
 La raíz de un negativo requiere números imaginarios.
@@ -302,10 +302,10 @@ La raíz de un negativo requiere números imaginarios.
 ¿Cuál es FALSA?
 
 ### Opciones
-- [ ] A) Todo entero es racional. <!-- feedback: Verdadero. n = n/1. -->
-- [x] D) Algunos irracionales son racionales. <!-- feedback: Falso. Son conjuntos disjuntos. -->
-- [ ] B) Cero es real. <!-- feedback: Verdadero. Está en la recta. -->
-- [ ] C) $\sqrt{2}$ es real. <!-- feedback: Verdadero. Está en la recta. -->
+- [ ] A) Todo entero es racional. <!-- feedback: Es verdadera: todo entero $n$ se escribe como $n/1$, y $1$ es entero, así que $n$ es racional. -->
+- [x] D) Algunos irracionales son racionales. <!-- feedback: Es la falsa: $\mathbb{Q}$ e irracionales son conjuntos disjuntos por definición, así que ningún irracional puede ser racional. -->
+- [ ] B) Cero es real. <!-- feedback: Es verdadera: el $0$ pertenece a $\mathbb{R}$ y ocupa el origen de la recta real. -->
+- [ ] C) $\sqrt{2}$ es real. <!-- feedback: Es verdadera: $\sqrt{2}$ es un real irracional, pertenece a la recta real y no es entero. -->
 
 ### Explicacion Pedagogica
 Racionales e irracionales no tienen elementos comunes.
@@ -323,10 +323,10 @@ Racionales e irracionales no tienen elementos comunes.
 ¿Conjunto más pequeño al que pertenece el resultado?
 
 ### Opciones
-- [ ] A) Números Enteros <!-- feedback: Incorrecto. Hay uno menor. -->
-- [x] C) Números Naturales <!-- feedback: Correcto. Resultado es 2. -->
-- [ ] B) Números Racionales <!-- feedback: Incorrecto. Hay uno menor. -->
-- [ ] D) Números Irracionales <!-- feedback: Incorrecto. El pi se cancela. -->
+- [ ] A) Números Enteros <!-- feedback: El resultado es $2$, que también es natural, y $\mathbb{N}$ está contenido en $\mathbb{Z}$, así que $\mathbb{Z}$ no es el conjunto más pequeño. -->
+- [x] C) Números Naturales <!-- feedback: Como $\frac{\sqrt{16}}{2} + \pi - \pi = 4/2 = 2$, y $2$ es natural, el conjunto más pequeño que lo contiene es $\mathbb{N}$. -->
+- [ ] B) Números Racionales <!-- feedback: Los racionales contienen a los naturales, así que no es el conjunto más pequeño. -->
+- [ ] D) Números Irracionales <!-- feedback: Los $\pi$ se cancelan entre sí y queda un número racional, de modo que el resultado no es irracional. -->
 
 ### Explicacion Pedagogica
 El resultado 2 es un número natural.
@@ -386,10 +386,10 @@ La suma de opuestos irracionales da cero.
 ¿Cuál no tiene primer elemento?
 
 ### Opciones
-- [ ] A) Naturales <!-- feedback: Incorrecto. Empieza en 1. -->
-- [x] D) Enteros <!-- feedback: Correcto. Infinitos hacia negativos. -->
-- [ ] B) Primos <!-- feedback: Incorrecto. Empieza en 2. -->
-- [ ] C) Enteros pos. <!-- feedback: Incorrecto. Empieza en 1. -->
+- [ ] A) Naturales <!-- feedback: Los naturales tienen primer elemento: el $1$ (o el $0$, según la convención). -->
+- [x] D) Enteros <!-- feedback: Los enteros se extienden hacia abajo sin límite: siempre hay un entero menor que cualquier otro, así que no tienen primer elemento. -->
+- [ ] B) Primos <!-- feedback: Los primos empiezan en $2$, que es el menor primo. -->
+- [ ] C) Enteros pos. <!-- feedback: Los enteros positivos empiezan en $1$, que es su menor elemento. -->
 
 ### Explicacion Pedagogica
 Los enteros no tienen un límite inferior.
@@ -428,10 +428,10 @@ Es irracional porque su patrón cambia siempre.
 ¿Qué se afirma del cociente de dos irracionales?
 
 ### Opciones
-- [ ] A) Siempre irracional. <!-- feedback: Incorrecto. pi/pi = 1. -->
-- [ ] B) Siempre racional. <!-- feedback: Incorrecto. r(6)/r(2)=r(3). -->
-- [x] C) Puede ser racional o irracional. <!-- feedback: Correcto. Depende de los valores. -->
-- [ ] D) Siempre imaginario. <!-- feedback: Incorrecto. Es real. -->
+- [ ] A) Siempre irracional. <!-- feedback: No es siempre irracional: $\pi / \pi = 1$ es racional, y ambos factores son irracionales. -->
+- [ ] B) Siempre racional. <!-- feedback: Tampoco es siempre racional: $\frac{\sqrt{6}}{\sqrt{2}} = \sqrt{3}$ es irracional, aunque $\sqrt{6}$ y $\sqrt{2}$ sean racionales irracional. -->
+- [x] C) Puede ser racional o irracional. <!-- feedback: Depende de los valores elegidos: el cociente puede ser racional, como $\pi/\pi = 1$, o irracional, como $\frac{\sqrt{6}}{\sqrt{2}} = \sqrt{3}$. -->
+- [ ] D) Siempre imaginario. <!-- feedback: El cociente de dos reales es real, y por tanto nunca imaginario; $\sqrt{3}$ es irracional pero real. -->
 
 ### Explicacion Pedagogica
 La división de irracionales no tiene resultado de tipo fijo.

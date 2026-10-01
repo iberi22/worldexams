@@ -43,7 +43,7 @@ This comprehensive review bundle covers the main grammatical and lexical topics 
 - [ ] B) riding
   <!-- feedback: Incorrect. Continuous form. -->
 - [ ] C) is ride
-  <!-- feedback: Incorrect structure. -->
+  <!-- feedback: The third person singular takes "is", and a main verb needs the base form "ride", not the bare infinitive after an auxiliary. -->
 
 ### Explicacion Pedagogica
 The student identifies the correct present simple conjugation for a singular subject.
@@ -89,9 +89,9 @@ The student remembers the past conjugation of "to be" for plural subjects.
 - [x] D) should
   <!-- feedback: Correct! Modal for giving advice. -->
 - [ ] A) mustn't
-  <!-- feedback: Incorrect. Contradicts the advice. -->
+  <!-- feedback: "Mustn't" forbids the action outright, whereas the sentence recommends going to the doctor. -->
 - [ ] B) shouldn't
-  <!-- feedback: Incorrect. Contradicts the advice. -->
+  <!-- feedback: The modal has to be positive here, because the sentence advises the action instead of warning against it. -->
 - [ ] C) will
   <!-- feedback: Incorrect. Not the standard modal for advice. -->
 
@@ -118,7 +118,7 @@ The student understands the communicative function of "should".
 - [ ] C) going to
   <!-- feedback: Incorrect. Missing auxiliary. -->
 - [ ] D) will going to
-  <!-- feedback: Incorrect structure. -->
+  <!-- feedback: "Going to" already contains its own auxiliary "will go", so doubling them produces "will going to". -->
 
 ### Explicacion Pedagogica
 The student understands the structure of the "going to" future.

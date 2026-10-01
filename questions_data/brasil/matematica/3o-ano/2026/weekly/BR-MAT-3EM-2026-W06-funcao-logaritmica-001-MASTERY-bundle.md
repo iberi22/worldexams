@@ -163,10 +163,10 @@ Resolvemos cada termo separadamente: $1000 = 10^3 \Rightarrow \log 1000 = 3$. $0
 Utilizando as propriedades dos logaritmos, simplifique a expressão $\log_2(8^5)$.
 
 ### Opciones
-- [ ] A) 5 <!-- feedback: Este é apenas o expoente do logaritmando. -->
-- [ ] B) 8 <!-- feedback: Incorreto. -->
-- [x] C) 15 <!-- feedback: log_2(8⁵) = 5 * log_2(8) = 5 * 3 = 15. -->
-- [ ] D) 40 <!-- feedback: Erro ao multiplicar 8 por 5. -->
+- [ ] A) 5 <!-- feedback: O 5 é apenas o expoente do logaritmando; o logaritmo ainda precisa ser calculado. -->
+- [ ] B) 8 <!-- feedback: O 8 é a base do logaritmo, não o resultado: $\log_2 8 = 3$ é o que multiplica o expoente. -->
+- [x] C) 15 <!-- feedback: Pela propriedade da potência, $\log_2(8^5) = 5 \cdot \log_2 8 = 5 \cdot 3 = 15$. -->
+- [ ] D) 40 <!-- feedback: O 40 vem de multiplicar $8 \cdot 5$, o que trata a base como se fosse o resultado do logaritmo. -->
 
 ### Explicacion Pedagogica
 Pela propriedade da potência: $\log_a(M^k) = k \cdot \log_a(M)$. Assim, $\log_2(8^5) = 5 \cdot \log_2(8)$. Como $\log_2(8) = 3$ (pois $2^3 = 8$), o resultado final é $5 \cdot 3 = 15$.
@@ -258,10 +258,10 @@ Usamos a propriedade do quociente: $\log_5(\frac{x+10}{x}) = 1$. Pela definiçã
 Os gráficos das funções $f(x) = 10^x$ e $g(x) = \log x$ são simétricos em relação a qual reta do plano cartesiano?
 
 ### Opciones
-- [ ] A) Eixo $x$ <!-- feedback: Simetria em relação ao eixo x ocorre quando trocamos f(x) por -f(x). -->
-- [ ] B) Eixo $y$ <!-- feedback: Simetria em relação ao eixo y ocorre quando trocamos x por -x. -->
-- [x] C) Reta $y = x$ <!-- feedback: Correto. Gráficos de funções inversas são sempre simétricos em relação à bissetriz dos quadrantes ímpares. -->
-- [ ] D) Reta $y = -x$ <!-- feedback: Incorreto. -->
+- [ ] A) Eixo $x$ <!-- feedback: Simetria em relação ao eixo $x$ corresponde a trocar $f(x)$ por $-f(x)$, e não a inverter a função. -->
+- [ ] B) Eixo $y$ <!-- feedback: Simetria em relação ao eixo $y$ corresponde a substituir $x$ por $-x$, o que não acontece aqui. -->
+- [x] C) Reta $y = x$ <!-- feedback: Como $g = f^{-1}$, os gráficos de uma função e de sua inversa são simétricos em relação à bissetriz do primeiro quadrante, a reta $y = x$. -->
+- [ ] D) Reta $y = -x$ <!-- feedback: A reta $y = -x$ é simétrica em relação à origem, não à bissetriz; os gráficos de $10^x$ e $\log x$ não se espelham nela. -->
 
 ### Explicacion Pedagogica
 Como a função logarítmica é a inversa da exponencial, seus pares ordenados $(x, y)$ são trocados por $(y, x)$. Geometricamente, essa inversão de coordenadas corresponde a uma reflexão em relação à reta $y = x$.
@@ -334,10 +334,10 @@ A função base $\log_2(x)$ é crescente pois $2 > 1$. O sinal negativo à frent
 Simplifique a expressão: $e^{2 \ln x} + 10^{\log x}$.
 
 ### Opciones
-- [ ] A) $2x + x = 3x$ <!-- feedback: Erro ao aplicar a propriedade da potência no primeiro termo. -->
-- [ ] B) $e^{x^2} + 10^x$ <!-- feedback: Incorreto. -->
-- [x] C) $x^2 + x$ <!-- feedback: e^(ln x²) = x² e 10^(log x) = x. Logo, x² + x. -->
-- [ ] D) $x^2 + \log x$ <!-- feedback: Incorreto. -->
+- [ ] A) $2x + x = 3x$ <!-- feedback: Não se distribui a potência: $e^{2\ln x} = (e^{\ln x})^2 = x^2$, e não $2x$. -->
+- [ ] B) $e^{x^2} + 10^x$ <!-- feedback: O expoente não se aplica ao argumento: $e^{2 \ln x} = x^2$, e não $e^{x^2}$. -->
+- [x] C) $x^2 + x$ <!-- feedback: Como $e^{\ln x} = x$, temos $e^{2\ln x} = (e^{\ln x})^2 = x^2$; e $10^{\log x} = x$, logo a soma é $x^2 + x$. -->
+- [ ] D) $x^2 + \log x$ <!-- feedback: O segundo termo é $10^{\log x} = x$, e não $\log x$: falta aplicar a propriedade fundamental da base 10. -->
 
 ### Explicacion Pedagogica
 Usamos as identidades fundamentais: $a^{\log_a b} = b$. No primeiro termo, $2 \ln x = \ln x^2$, então $e^{\ln x^2} = x^2$. No segundo termo, $10^{\log x} = x$. A soma resulta em $x^2 + x$.
@@ -374,10 +374,10 @@ Determine o conjunto solução da inequação: $\log_2(x - 3) + \log_2(x - 1) \l
 Qual é o valor da soma $S = \log_2(3) \cdot \log_3(4) \cdot \log_4(5) \cdot ... \cdot \log_{31}(32)$?
 
 ### Opciones
-- [ ] A) 32 <!-- feedback: Incorreto. -->
-- [x] B) 5 <!-- feedback: Mudança de base: (log 3 / log 2) * (log 4 / log 3) * ... * (log 32 / log 31) = log 32 / log 2 = log_2(32) = 5. -->
-- [ ] C) $\log 32$ <!-- feedback: O logaritmo resultante está na base 2. -->
-- [ ] D) 1 <!-- feedback: Incorreto. -->
+- [ ] A) 32 <!-- feedback: O 32 é o último argumento da cadeia, mas na mudança de base os fatores intermediários se cancelam e resta $\log_2 32 = 5$. -->
+- [x] B) 5 <!-- feedback: Pela mudança de base, $\frac{\log 3}{\log 2} \cdot \frac{\log 4}{\log 3} \cdots \frac{\log 32}{\log 31}$ se cancela telescopicamente e resta $\frac{\log 32}{\log 2} = \log_2 32 = 5$. -->
+- [ ] C) $\log 32$ <!-- feedback: Esse é o valor intermediário da cadeia, mas o resultado final já está convertido: $\log_2 32 = 5$. -->
+- [ ] D) 1 <!-- feedback: O produto não é 1 porque os fatores intermediários se cancelam mas sobra a razão entre os extremos, que é $\log_2 32 = 5$. -->
 
 ### Explicacion Pedagogica
 Aplicamos a mudança de base em cada termo para uma base comum $k$: $\frac{\log_k 3}{\log_k 2} \cdot \frac{\log_k 4}{\log_k 3} \cdot \frac{\log_k 5}{\log_k 4} \cdot ... \cdot \frac{\log_k 32}{\log_k 31}$. Observamos um cancelamento telescópico, sobrando apenas $\frac{\log_k 32}{\log_k 2}$, que é igual a $\log_2(32) = 5$.

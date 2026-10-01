@@ -37,8 +37,8 @@ This bundle explores global citizenship and international cooperation using B2-l
 ### Opciones
 - [ ] A) that <!-- feedback: Incorrect for questions. -->
 - [x] C) if <!-- feedback: Correct. 'If' or 'whether' is used to report yes/no questions. -->
-- [ ] B) what <!-- feedback: Incorrect meaning. -->
-- [ ] D) when <!-- feedback: Incorrect. -->
+- [ ] B) what <!-- feedback: "What" asks for the thing itself, but the question "Did you understand...?" is a yes/no question, so a reported form is needed. -->
+- [ ] D) when <!-- feedback: "When" asks about a time, while the teacher asked about a fact, which takes a yes/no reported form. -->
 
 ### Explicación Pedagógica
 In Reported Speech, yes/no questions are introduced with 'if' or 'whether'.
@@ -56,10 +56,10 @@ In Reported Speech, yes/no questions are introduced with 'if' or 'whether'.
 "The organizer told the volunteers ____ the participants at the entrance."
 
 ### Opciones
-- [ ] B) meeting <!-- feedback: Incorrect. -->
+- [ ] B) meeting <!-- feedback: "Meeting" has no "to" before it and would need a subject of its own; a reported command after "told" takes "to" plus the infinitive. -->
 - [x] A) to meet <!-- feedback: Correct. Reported commands/requests use 'to + infinitive'. -->
-- [ ] C) that meet <!-- feedback: Incorrect syntax. -->
-- [ ] D) meet <!-- feedback: Incorrect. -->
+- [ ] C) that meet <!-- feedback: "That meet" would need a that-clause, but "told" reports a command, which takes "to" plus the infinitive. -->
+- [ ] D) meet <!-- feedback: The bare infinitive "meet" is used after modal verbs or "can", but "told someone to do" requires the "to" infinitive. -->
 
 ### Explicación Pedagógica
 Reported commands, requests, and instructions use the structure: reporting verb + object + (not) to + infinitive.
@@ -78,8 +78,8 @@ Reported commands, requests, and instructions use the structure: reporting verb 
 
 ### Opciones
 - [x] C) whether <!-- feedback: Correct. Introduces a yes/no reported question. -->
-- [ ] A) where <!-- feedback: Incorrect meaning. -->
-- [ ] B) that <!-- feedback: Incorrect. -->
+- [ ] A) where <!-- feedback: "Where" asks about a place, while the question was about whether it had ever happened. -->
+- [ ] B) that <!-- feedback: "That" introduces a statement, not the yes/no reported question that "asked" requires. -->
 - [ ] D) did <!-- feedback: Incorrect reported question structure. -->
 
 ### Explicación Pedagógica
@@ -98,10 +98,10 @@ Reported commands, requests, and instructions use the structure: reporting verb 
 "The journalist inquired ____ the leaders ____ to sign the treaty."
 
 ### Opciones
-- [ ] A) if / are going <!-- feedback: Incorrect backshifting. -->
+- [ ] A) if / are going <!-- feedback: "If / are going" keeps the future unchanged, but a reported question backshifts the tense to the past. -->
 - [x] C) whether / were going <!-- feedback: Correct. Backshift from 'are going' to 'were going'. -->
 - [ ] B) that / will <!-- feedback: Incorrect for questions. -->
-- [ ] D) when / had <!-- feedback: Incorrect. -->
+- [ ] D) when / had <!-- feedback: "When / had" asks about a time, while the journalist asked whether the leaders were going to sign. -->
 
 ### Explicación Pedagógica
 Backshifting is required in reported questions when the reporting verb is in the past (inquired).
@@ -163,8 +163,8 @@ Reported WH-questions use the word order of a statement (subject + verb) and req
 ### Opciones
 - [ ] B) if / would review <!-- feedback: Possible, but B is more precise for completion. -->
 - [x] A) whether / would have reviewed <!-- feedback: Correct. Backshift from future perfect 'will have reviewed'. -->
-- [ ] C) that / will review <!-- feedback: Incorrect. -->
-- [ ] D) when / reviewed <!-- feedback: Incorrect. -->
+- [ ] C) that / will review <!-- feedback: "That / will review" keeps the future tense and adds a that-clause; a reported question needs an interrogative word and a backshifted tense. -->
+- [ ] D) when / reviewed <!-- feedback: "When / reviewed" would ask about a time rather than requesting clarification, and the reported tense does not match the deadline being asked about. -->
 
 ### Explicación Pedagógica
 B2 complexity: Reporting questions that involve future completion (Future Perfect).
@@ -182,10 +182,10 @@ B2 complexity: Reporting questions that involve future completion (Future Perfec
 "They advised the students ____ more about local customs before traveling abroad."
 
 ### Opciones
-- [ ] A) learning <!-- feedback: Incorrect. -->
+- [ ] A) learning <!-- feedback: "Advise" does not take a bare gerund without "to"; the standard pattern is advise + object + to-infinitive. -->
 - [x] C) to learn <!-- feedback: Correct. 'Advise' + object + to-infinitive. -->
 - [ ] B) that they learn <!-- feedback: Also possible, but B is standard for advice-as-command. -->
-- [ ] D) learn <!-- feedback: Incorrect. -->
+- [ ] D) learn <!-- feedback: The bare infinitive "learn" only works after a modal; after "advised the students" the verb needs "to". -->
 
 ### Explicación Pedagógica
 Using 'advise' as a reporting verb for a recommendation/command structure.
@@ -205,7 +205,7 @@ Using 'advise' as a reporting verb for a recommendation/command structure.
 ### Opciones
 - [ ] A) how / evaluated <!-- feedback: Possible, but B is more likely for a past-to-present evaluation. -->
 - [x] C) how / had evaluated <!-- feedback: Correct. Backshift from past simple or present perfect. -->
-- [ ] B) what / evaluates <!-- feedback: Incorrect backshifting. -->
+- [ ] B) what / evaluates <!-- feedback: "What / evaluates" asks for the thing and leaves the verb in the present, but both the question word and the tense have to be adjusted when a question is reported. -->
 - [ ] D) if / evaluated <!-- feedback: Missing the 'how' context. -->
 
 ### Explicación Pedagógica
@@ -225,9 +225,9 @@ Using 'wanted to know' as a reporting verb for complex informational questions.
 
 ### Opciones
 - [x] B) be / were <!-- feedback: Correct. Subjunctive 'be' after 'request' + backshifted 'were'. -->
-- [ ] A) is / are <!-- feedback: Incorrect. -->
+- [ ] A) is / are <!-- feedback: "Is / are" is the indicative, but "requested that" introduces the subjunctive, so the base form "be" is required. -->
 - [ ] C) was / were <!-- feedback: Possible but A is more formal/B2. -->
-- [ ] D) being / been <!-- feedback: Incorrect. -->
+- [ ] D) being / been <!-- feedback: "Being / been" are non-finite forms; the subjunctive slot after "requested that" needs a finite base form like "be". -->
 
 ### Explicación Pedagógica
 Advanced B2 structure: Reporting a request using the subjunctive 'be' after 'request that'.
@@ -245,9 +245,9 @@ Advanced B2 structure: Reporting a request using the subjunctive 'be' after 'req
 "The citizens asked ____ the government ____ any action to mitigate the environmental damage."
 
 ### Opciones
-- [ ] B) what / will take <!-- feedback: Incorrect backshifting. -->
+- [ ] B) what / will take <!-- feedback: "Will take" is not backshifted, so the reported question would still be pointing at the future instead of the moment of asking. -->
 - [x] A) whether / was going to take <!-- feedback: Correct. Backshift of 'is going to'. -->
-- [ ] C) if / took <!-- feedback: Incorrect meaning. -->
+- [ ] C) if / took <!-- feedback: "If / took" uses the past simple, which would report a completed action rather than the intended future action. -->
 - [ ] D) that / takes <!-- feedback: Incorrect for questions. -->
 
 ### Explicación Pedagógica
@@ -267,8 +267,8 @@ Evaluating the reporting of intentions and future plans in a social context.
 
 ### Opciones
 - [x] A) whether / would have been analyzed <!-- feedback: Correct. Backshifted Future Perfect Passive in a reported question. -->
-- [ ] B) if / were analyzed <!-- feedback: Incorrect. -->
-- [ ] C) what / would analyze <!-- feedback: Incorrect. -->
+- [ ] B) if / were analyzed <!-- feedback: "If" introduces a yes/no conditional, and "were analyzed" is the simple past passive rather than the backshifted future perfect passive the deadline requires. -->
+- [ ] C) what / would analyze <!-- feedback: "What" asks for the thing itself, not for a yes/no answer, and "would analyze" is active while the results are what gets analyzed. -->
 - [ ] D) whether / had been analyzed <!-- feedback: Incorrect tense for the 'was due' deadline. -->
 
 ### Explicación Pedagógica

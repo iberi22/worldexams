@@ -268,7 +268,7 @@ Read the text: 'After the storm, the family had the roof repaired and the walls 
   <!-- feedback: The causative 'had done' assigns the work to hired professionals. -->
 
 ### Explicacion Pedagogica
-Ambas acciones fueron realizadas por otras personas hired, no por la familia misma.
+Ambas acciones fueron realizadas por otras personas hired, no por la familia misma. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.
 
 ---
 

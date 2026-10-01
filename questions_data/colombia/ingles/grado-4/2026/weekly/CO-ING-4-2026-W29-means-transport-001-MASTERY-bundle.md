@@ -35,10 +35,10 @@ Este bundle evalúa conceptos de means of transport en inglés, nivel CEFR A1 pa
 I go to school by ________.
 
 ### Opciones
-- [x] A) bus <!-- feedback: Correct! -->
-- [ ] B) boat <!-- feedback: No. -->
-- [ ] C) plane <!-- feedback: No. -->
-- [ ] D) helicopter <!-- feedback: No. -->
+- [x] A) bus <!-- feedback: A bus is a road vehicle that takes many students to school, so it completes the sentence. -->
+- [ ] B) boat <!-- feedback: A boat travels on water; it does not take you to school on the road. -->
+- [ ] C) plane <!-- feedback: A plane flies, so it is not the means of transport used on the road to school. -->
+- [ ] D) helicopter <!-- feedback: A helicopter flies too; students do not go to school in one. -->
 
 ### Explicación Pedagógica
 This question evaluates remember skills regarding means of transport at the CEFR A1 level.
@@ -56,10 +56,10 @@ This question evaluates remember skills regarding means of transport at the CEFR
 A ________ travels on the sea.
 
 ### Opciones
-- [ ] A) bike <!-- feedback: No. -->
-- [x] B) ship <!-- feedback: Correct! -->
-- [ ] C) car <!-- feedback: No. -->
-- [ ] D) train <!-- feedback: No. -->
+- [ ] A) bike <!-- feedback: A bike has two wheels and travels on land with the pedals. -->
+- [x] B) ship <!-- feedback: A ship is a big vehicle that travels on the sea, so it completes the sentence. -->
+- [ ] C) car <!-- feedback: A car travels on roads and streets, not on the sea. -->
+- [ ] D) train <!-- feedback: A train travels on rails; it does not travel on the sea. -->
 
 ### Explicación Pedagógica
 This question evaluates understand skills regarding means of transport at the CEFR A1 level.
@@ -77,10 +77,10 @@ This question evaluates understand skills regarding means of transport at the CE
 A ________ travels in the sky.
 
 ### Opciones
-- [ ] A) taxi <!-- feedback: No. -->
-- [ ] B) van <!-- feedback: No. -->
-- [x] C) plane <!-- feedback: Correct! -->
-- [ ] D) truck <!-- feedback: No. -->
+- [ ] A) taxi <!-- feedback: A taxi is a car that travels on the ground, not in the sky. -->
+- [ ] B) van <!-- feedback: A van is a road vehicle for carrying goods or people on land. -->
+- [x] C) plane <!-- feedback: A plane has wings and flies through the sky, so it completes the sentence. -->
+- [ ] D) truck <!-- feedback: A truck drives on roads; it does not travel in the sky. -->
 
 ### Explicación Pedagógica
 This question evaluates apply skills regarding means of transport at the CEFR A1 level.
@@ -98,10 +98,10 @@ This question evaluates apply skills regarding means of transport at the CEFR A1
 A ________ travels on tracks.
 
 ### Opciones
-- [ ] A) motorbike <!-- feedback: No. -->
-- [ ] B) scooter <!-- feedback: No. -->
-- [ ] C) car <!-- feedback: No. -->
-- [x] D) train <!-- feedback: Correct! -->
+- [ ] A) motorbike <!-- feedback: A motorbike has wheels and travels on the road, not on tracks. -->
+- [ ] B) scooter <!-- feedback: A scooter is a small vehicle pushed or ridden on the pavement, not on rails. -->
+- [ ] C) car <!-- feedback: A car runs on wheels over roads, not on tracks. -->
+- [x] D) train <!-- feedback: A train has steel wheels that run on rails, so "train" completes the sentence. -->
 
 ### Explicación Pedagógica
 This question evaluates analyze skills regarding means of transport at the CEFR A1 level.
@@ -119,10 +119,10 @@ This question evaluates analyze skills regarding means of transport at the CEFR 
 I ride my ________ in the park. It has two wheels.
 
 ### Opciones
-- [x] A) bicycle <!-- feedback: Correct! -->
-- [ ] B) bus <!-- feedback: No. -->
-- [ ] C) subway <!-- feedback: No. -->
-- [ ] D) ambulance <!-- feedback: No. -->
+- [x] A) bicycle <!-- feedback: A bicycle has two thin wheels and you pedal it, so it matches the clue and completes the sentence. -->
+- [ ] B) bus <!-- feedback: A bus is a big road vehicle; you do not ride it in the park. -->
+- [ ] C) subway <!-- feedback: A subway travels underground on rails, not in the park. -->
+- [ ] D) ambulance <!-- feedback: An ambulance is an emergency car, not something you ride for fun. -->
 
 ### Explicación Pedagógica
 This question evaluates evaluate skills regarding means of transport at the CEFR A1 level.
@@ -140,10 +140,10 @@ This question evaluates evaluate skills regarding means of transport at the CEFR
 My father drives a ________.
 
 ### Opciones
-- [ ] A) raft <!-- feedback: No. -->
-- [x] B) car <!-- feedback: Correct! -->
-- [ ] C) rocket <!-- feedback: No. -->
-- [ ] D) canoe <!-- feedback: No. -->
+- [ ] A) raft <!-- feedback: A raft floats on a river; your father does not drive one. -->
+- [x] B) car <!-- feedback: A car is a vehicle with four wheels that a person drives on the road, so it completes the sentence. -->
+- [ ] C) rocket <!-- feedback: A rocket flies into space; nobody drives it down a street. -->
+- [ ] D) canoe <!-- feedback: A canoe is paddled on water; your father does not drive it. -->
 
 ### Explicación Pedagógica
 This question evaluates apply skills regarding means of transport at the CEFR A1 level.
@@ -161,10 +161,10 @@ This question evaluates apply skills regarding means of transport at the CEFR A1
 A ________ is used in emergencies to take people to the hospital.
 
 ### Opciones
-- [ ] A) bus <!-- feedback: No. -->
-- [ ] B) plane <!-- feedback: No. -->
-- [x] C) ambulance <!-- feedback: Correct! -->
-- [ ] D) truck <!-- feedback: No. -->
+- [ ] A) bus <!-- feedback: A bus carries students and passengers on a regular route, not in an emergency. -->
+- [ ] B) plane <!-- feedback: A plane transports passengers across long distances; it is not the emergency vehicle for a hospital. -->
+- [x] C) ambulance <!-- feedback: An ambulance has a siren and takes injured people to the hospital, so it completes the sentence. -->
+- [ ] D) truck <!-- feedback: A truck carries goods; it is not equipped for emergencies. -->
 
 ### Explicación Pedagógica
 This question evaluates understand skills regarding means of transport at the CEFR A1 level.
@@ -182,10 +182,10 @@ This question evaluates understand skills regarding means of transport at the CE
 A ________ has two wheels and a motor.
 
 ### Opciones
-- [ ] A) car <!-- feedback: No. -->
-- [ ] B) bus <!-- feedback: No. -->
-- [ ] C) train <!-- feedback: No. -->
-- [x] D) motorcycle <!-- feedback: Correct! -->
+- [ ] A) car <!-- feedback: A car has four wheels and is driven by a motor, but it does not match "two wheels". -->
+- [ ] B) bus <!-- feedback: A bus has many wheels and is a big vehicle, not a two-wheeled one. -->
+- [ ] C) train <!-- feedback: A train runs on rails with many wheels; it has no handlebars. -->
+- [x] D) motorcycle <!-- feedback: A motorcycle has exactly two wheels and an engine, so "motorcycle" completes the sentence. -->
 
 ### Explicación Pedagógica
 This question evaluates remember skills regarding means of transport at the CEFR A1 level.

@@ -120,9 +120,9 @@ Cuando el agente de la acción (quien canceló el concierto) no es lo más impor
 The winners of the music awards ________ next Sunday during a live broadcast.
 
 ### Opciones
-- [ ] A) will announce <!-- feedback: Incorrect. Active voice. -->
+- [ ] A) will announce <!-- feedback: "Will announce" is the active voice: it would say that the winners themselves announce the news. Here the news is announced about them, so the sentence needs the passive. -->
 - [x] D) will be announced <!-- feedback: Correct! Future Simple Passive (will be + past participle). -->
-- [ ] B) are going to announce <!-- feedback: Incorrect. Active voice. -->
+- [ ] B) are going to announce <!-- feedback: "Are going to announce" is also active and would make the winners the ones announcing, not the ones being announced. -->
 - [ ] C) will being announced <!-- feedback: Incorrect. Grammatically incorrect form. -->
 
 ### Explicacion Pedagogica

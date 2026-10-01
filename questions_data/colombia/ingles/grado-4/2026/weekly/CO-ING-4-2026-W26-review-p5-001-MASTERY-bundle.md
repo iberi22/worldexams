@@ -35,10 +35,10 @@ Este bundle evalúa conceptos de review period 5 en inglés, nivel CEFR A1 para 
 An apple is a ________.
 
 ### Opciones
-- [x] A) fruit <!-- feedback: Correct! -->
-- [ ] B) vegetable <!-- feedback: No. -->
-- [ ] C) drink <!-- feedback: No. -->
-- [ ] D) meat <!-- feedback: No. -->
+- [x] A) fruit <!-- feedback: Correct. An apple grows on a tree and is eaten as a fruit, the food group that comes from plants. -->
+- [ ] B) vegetable <!-- feedback: Vegetables are the parts of plants eaten as side dishes, like carrots or lettuce, and they are not usually sweet. -->
+- [ ] C) drink <!-- feedback: A drink is a liquid you swallow, and an apple is a solid food. -->
+- [ ] D) meat <!-- feedback: Meat comes from animals; an apple comes from a plant. -->
 
 ### Explicación Pedagógica
 This question evaluates remember skills regarding review period 5 at the CEFR A1 level.
@@ -56,10 +56,10 @@ This question evaluates remember skills regarding review period 5 at the CEFR A1
 A carrot is a ________.
 
 ### Opciones
-- [ ] A) toy <!-- feedback: No. -->
-- [x] B) vegetable <!-- feedback: Correct! -->
-- [ ] C) fruit <!-- feedback: No. -->
-- [ ] D) candy <!-- feedback: No. -->
+- [ ] A) toy <!-- feedback: A toy is an object for playing; a carrot is food. -->
+- [x] B) vegetable <!-- feedback: Correct. A carrot is the root of a plant and is eaten as a vegetable, usually in a salad or a soup. -->
+- [ ] C) fruit <!-- feedback: Fruits are generally sweet and come from flowers; a carrot is the root and is not sweet. -->
+- [ ] D) candy <!-- feedback: Candy is a sweet made from sugar; a carrot is a fresh food. -->
 
 ### Explicación Pedagógica
 This question evaluates understand skills regarding review period 5 at the CEFR A1 level.
@@ -77,10 +77,10 @@ This question evaluates understand skills regarding review period 5 at the CEFR 
 What is your favorite drink?
 
 ### Opciones
-- [ ] A) Chicken <!-- feedback: No. -->
-- [ ] B) Salad <!-- feedback: No. -->
-- [x] C) Orange juice <!-- feedback: Correct! -->
-- [ ] D) A sandwich <!-- feedback: No. -->
+- [ ] A) Chicken <!-- feedback: Chicken is a food you eat, not a drink you choose. -->
+- [ ] B) Salad <!-- feedback: Salad is a dish of vegetables and it is eaten, not drunk. -->
+- [x] C) Orange juice <!-- feedback: Correct. Orange juice is a liquid drink made from the juice of oranges, so it answers the question. -->
+- [ ] D) A sandwich <!-- feedback: A sandwich is bread with a filling; it is a food and not a drink. -->
 
 ### Explicación Pedagógica
 This question evaluates apply skills regarding review period 5 at the CEFR A1 level.
@@ -98,10 +98,10 @@ This question evaluates apply skills regarding review period 5 at the CEFR A1 le
 I have breakfast in the ________.
 
 ### Opciones
-- [ ] A) afternoon <!-- feedback: No. -->
-- [ ] B) night <!-- feedback: No. -->
-- [ ] C) evening <!-- feedback: No. -->
-- [x] D) morning <!-- feedback: Correct! -->
+- [ ] A) afternoon <!-- feedback: The afternoon is after lunch; breakfast is eaten before that. -->
+- [ ] B) night <!-- feedback: At night you eat dinner, not breakfast. -->
+- [ ] C) evening <!-- feedback: In the evening you have dinner, while breakfast comes at the start of the day. -->
+- [x] D) morning <!-- feedback: Correct. Breakfast is the meal eaten in the morning, when you wake up. -->
 
 ### Explicación Pedagógica
 This question evaluates analyze skills regarding review period 5 at the CEFR A1 level.
@@ -119,10 +119,10 @@ This question evaluates analyze skills regarding review period 5 at the CEFR A1 
 I like ________. It's yummy!
 
 ### Opciones
-- [x] A) ice cream <!-- feedback: Correct! -->
-- [ ] B) a rock <!-- feedback: No. -->
-- [ ] C) trash <!-- feedback: No. -->
-- [ ] D) mud <!-- feedback: No. -->
+- [x] A) ice cream <!-- feedback: Correct. 'Yummy' describes something sweet and tasty, which is exactly what ice cream is. -->
+- [ ] B) a rock <!-- feedback: A rock is not food, so it cannot be yummy no matter how it looks. -->
+- [ ] C) trash <!-- feedback: Trash is waste, so nobody would say it is yummy. -->
+- [ ] D) mud <!-- feedback: Mud is dirt from the ground; it is not food and it is not tasty. -->
 
 ### Explicación Pedagógica
 This question evaluates evaluate skills regarding review period 5 at the CEFR A1 level.
@@ -140,10 +140,10 @@ This question evaluates evaluate skills regarding review period 5 at the CEFR A1
 You use a fork and ________ to eat meat.
 
 ### Opciones
-- [ ] A) ruler <!-- feedback: No. -->
-- [x] B) knife <!-- feedback: Correct! -->
-- [ ] C) spoon <!-- feedback: No. -->
-- [ ] D) pencil <!-- feedback: No. -->
+- [ ] A) ruler <!-- feedback: A ruler measures; it is not part of a place setting. -->
+- [x] B) knife <!-- feedback: Correct. A knife cuts the meat into pieces and a fork holds those pieces while you eat. -->
+- [ ] C) spoon <!-- feedback: A spoon is used for liquid food such as soup; meat needs a sharp edge and a fork. -->
+- [ ] D) pencil <!-- feedback: A pencil writes; it is not a tool for eating. -->
 
 ### Explicación Pedagógica
 This question evaluates apply skills regarding review period 5 at the CEFR A1 level.
@@ -161,10 +161,10 @@ This question evaluates apply skills regarding review period 5 at the CEFR A1 le
 Milk is ________.
 
 ### Opciones
-- [ ] A) black <!-- feedback: No. -->
-- [ ] B) green <!-- feedback: No. -->
-- [x] C) white <!-- feedback: Correct! -->
-- [ ] D) red <!-- feedback: No. -->
+- [ ] A) black <!-- feedback: Milk is not black; it is the pale liquid that comes from cows. -->
+- [ ] B) green <!-- feedback: Milk is not green; fresh milk is white or slightly yellowish. -->
+- [x] C) white <!-- feedback: Correct. Fresh cow's milk is white, which is why very pale skin is called 'milk-white'. -->
+- [ ] D) red <!-- feedback: Milk is not red; blood is the red liquid in the body, and milk is not blood. -->
 
 ### Explicación Pedagógica
 This question evaluates understand skills regarding review period 5 at the CEFR A1 level.
@@ -182,10 +182,10 @@ This question evaluates understand skills regarding review period 5 at the CEFR 
 A potato is used to make ________.
 
 ### Opciones
-- [ ] A) juice <!-- feedback: No. -->
-- [ ] B) cake <!-- feedback: No. -->
-- [ ] C) ice cream <!-- feedback: No. -->
-- [x] D) French fries <!-- feedback: Correct! -->
+- [ ] A) juice <!-- feedback: Juice is a liquid pressed from fruit; potatoes are not pressed into juice. -->
+- [ ] B) cake <!-- feedback: Cakes are baked from flour, sugar and eggs, not from potatoes. -->
+- [ ] C) ice cream <!-- feedback: Ice cream is a frozen sweet mixture; potatoes are not used to make it. -->
+- [x] D) French fries <!-- feedback: Correct. A potato is cut into strips and fried, and that is how French fries are made. -->
 
 ### Explicación Pedagógica
 This question evaluates remember skills regarding review period 5 at the CEFR A1 level.

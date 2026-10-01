@@ -35,10 +35,10 @@ Este bundle evalúa conceptos de review period 3 en inglés, nivel CEFR A1 para 
 Where do you cook dinner?
 
 ### Opciones
-- [x] A) In the kitchen <!-- feedback: Correct! -->
-- [ ] B) In the bathroom <!-- feedback: No. -->
-- [ ] C) In the bedroom <!-- feedback: No. -->
-- [ ] D) In the garage <!-- feedback: No. -->
+- [x] A) In the kitchen <!-- feedback: Correct. The kitchen is the room where the stove is, so it is where dinner is cooked. -->
+- [ ] B) In the bathroom <!-- feedback: The bathroom has a shower and a toilet, but no stove for cooking. -->
+- [ ] C) In the bedroom <!-- feedback: The bedroom is for sleeping and resting, not for preparing a meal. -->
+- [ ] D) In the garage <!-- feedback: The garage is where the car is kept, and cooking is not done there. -->
 
 ### Explicación Pedagógica
 This question evaluates remember skills regarding review period 3 at the CEFR A1 level.
@@ -56,10 +56,10 @@ This question evaluates remember skills regarding review period 3 at the CEFR A1
 What do you use to sit on?
 
 ### Opciones
-- [ ] A) A door <!-- feedback: No. -->
-- [x] B) A chair <!-- feedback: Correct! -->
-- [ ] C) A table <!-- feedback: No. -->
-- [ ] D) A window <!-- feedback: No. -->
+- [ ] A) A door <!-- feedback: A 'door' is what you walk through; you do not sit on one. -->
+- [x] B) A chair <!-- feedback: Correct. A chair is a piece of furniture built for a person to sit on. -->
+- [ ] C) A table <!-- feedback: A 'table' is a flat top that goes with a chair, but the thing you sit on is the chair itself. -->
+- [ ] D) A window <!-- feedback: A 'window' is glass in a wall, and it cannot carry a person's weight. -->
 
 ### Explicación Pedagógica
 This question evaluates understand skills regarding review period 3 at the CEFR A1 level.
@@ -77,10 +77,10 @@ This question evaluates understand skills regarding review period 3 at the CEFR 
 What is the first thing you do in the morning?
 
 ### Opciones
-- [ ] A) Have dinner <!-- feedback: No. -->
-- [ ] B) Do homework <!-- feedback: No. -->
-- [x] C) Wake up <!-- feedback: Correct! -->
-- [ ] D) Go to bed <!-- feedback: No. -->
+- [ ] A) Have dinner <!-- feedback: Dinner is the evening meal, not the first thing of the day. -->
+- [ ] B) Do homework <!-- feedback: Homework is schoolwork done after class, not the first action on waking. -->
+- [x] C) Wake up <!-- feedback: Correct. Waking up is the first thing that happens in the morning, before anything else. -->
+- [ ] D) Go to bed <!-- feedback: Going to bed ends the day, so it cannot be the first thing in the morning. -->
 
 ### Explicación Pedagógica
 This question evaluates apply skills regarding review period 3 at the CEFR A1 level.
@@ -98,10 +98,10 @@ This question evaluates apply skills regarding review period 3 at the CEFR A1 le
 If it is 5:00, what do you say?
 
 ### Opciones
-- [ ] A) It is five o'watch <!-- feedback: No. -->
-- [ ] B) It is five o'time <!-- feedback: No. -->
-- [ ] C) It is five o'day <!-- feedback: No. -->
-- [x] D) It is five o'clock <!-- feedback: Correct! -->
+- [ ] A) It is five o'watch <!-- feedback: 'o'watch' is not a real English word; the hour is followed by 'o'clock'. -->
+- [ ] B) It is five o'time <!-- feedback: 'o'time' is not a real English word either. -->
+- [ ] C) It is five o'day <!-- feedback: 'o'day' is not how English spells out a time of day. -->
+- [x] D) It is five o'clock <!-- feedback: Correct. English says 'five o'clock': the number followed by the word 'o'clock'. -->
 
 ### Explicación Pedagógica
 This question evaluates analyze skills regarding review period 3 at the CEFR A1 level.
@@ -119,10 +119,10 @@ This question evaluates analyze skills regarding review period 3 at the CEFR A1 
 I brush my ________.
 
 ### Opciones
-- [x] A) teeth <!-- feedback: Correct! -->
-- [ ] B) nose <!-- feedback: No. -->
-- [ ] C) eyes <!-- feedback: No. -->
-- [ ] D) ears <!-- feedback: No. -->
+- [x] A) teeth <!-- feedback: Correct. You brush your teeth with a toothbrush to remove the food and keep them clean. -->
+- [ ] B) nose <!-- feedback: You blow your nose with a tissue, you do not brush it. -->
+- [ ] C) eyes <!-- feedback: You should never brush your eyes with a brush; they are only cleaned with water. -->
+- [ ] D) ears <!-- feedback: Ears are cleaned gently, not brushed with a toothbrush. -->
 
 ### Explicación Pedagógica
 This question evaluates evaluate skills regarding review period 3 at the CEFR A1 level.
@@ -140,10 +140,10 @@ This question evaluates evaluate skills regarding review period 3 at the CEFR A1
 I put my books on the ________.
 
 ### Opciones
-- [ ] A) toilet <!-- feedback: No. -->
-- [x] B) bookshelf <!-- feedback: Correct! -->
-- [ ] C) stove <!-- feedback: No. -->
-- [ ] D) fridge <!-- feedback: No. -->
+- [ ] A) toilet <!-- feedback: A 'toilet' is in the bathroom, and books are not kept on it. -->
+- [x] B) bookshelf <!-- feedback: Correct. A bookshelf is a piece of furniture built to hold books standing up. -->
+- [ ] C) stove <!-- feedback: A 'stove' is for cooking food on, not for storing books. -->
+- [ ] D) fridge <!-- feedback: A 'fridge' keeps food cold, so books do not go in it. -->
 
 ### Explicación Pedagógica
 This question evaluates apply skills regarding review period 3 at the CEFR A1 level.
@@ -161,10 +161,10 @@ This question evaluates apply skills regarding review period 3 at the CEFR A1 le
 When do you have breakfast?
 
 ### Opciones
-- [ ] A) In the afternoon <!-- feedback: No. -->
-- [ ] B) At midnight <!-- feedback: No. -->
-- [x] C) In the morning <!-- feedback: Correct! -->
-- [ ] D) At night <!-- feedback: No. -->
+- [ ] A) In the afternoon <!-- feedback: Breakfast is eaten in the morning; afternoon comes after lunch. -->
+- [ ] B) At midnight <!-- feedback: Midnight is the middle of the night, hours away from breakfast. -->
+- [x] C) In the morning <!-- feedback: Correct. In English 'in the morning' names the early part of the day, which is when breakfast is eaten. -->
+- [ ] D) At night <!-- feedback: At night is after dinner, so it is not breakfast time. -->
 
 ### Explicación Pedagógica
 This question evaluates understand skills regarding review period 3 at the CEFR A1 level.
@@ -182,10 +182,10 @@ This question evaluates understand skills regarding review period 3 at the CEFR 
 A clock has two ________.
 
 ### Opciones
-- [ ] A) feet <!-- feedback: No. -->
-- [ ] B) arms <!-- feedback: No. -->
-- [ ] C) legs <!-- feedback: No. -->
-- [x] D) hands <!-- feedback: Correct! -->
+- [ ] A) feet <!-- feedback: 'Feet' belong to a person, and a clock has no feet to walk on. -->
+- [ ] B) arms <!-- feedback: 'Arms' are human limbs, not the pointers on a clock face. -->
+- [ ] C) legs <!-- feedback: 'Legs' are also human limbs, and a clock does not stand on legs. -->
+- [x] D) hands <!-- feedback: Correct. The two pointers that show the hours and the minutes on a clock are called its hands. -->
 
 ### Explicación Pedagógica
 This question evaluates remember skills regarding review period 3 at the CEFR A1 level.

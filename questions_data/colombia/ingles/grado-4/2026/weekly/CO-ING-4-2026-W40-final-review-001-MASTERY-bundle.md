@@ -35,10 +35,10 @@ Este bundle evalúa conceptos de final review en inglés, nivel CEFR A1 para gra
 How do you say 'Hola'?
 
 ### Opciones
-- [x] A) Hello <!-- feedback: Correct! -->
-- [ ] B) Goodbye <!-- feedback: No. -->
-- [ ] C) Please <!-- feedback: No. -->
-- [ ] D) Thanks <!-- feedback: No. -->
+- [x] A) Hello <!-- feedback: 'Hola' is Spanish for 'Hello'. -->
+- [ ] B) Goodbye <!-- feedback: 'Goodbye' is said when you leave, which is the opposite of a greeting. -->
+- [ ] C) Please <!-- feedback: 'Please' is used when you ask for something politely. -->
+- [ ] D) Thanks <!-- feedback: 'Thanks' is said when someone helps you or gives you something. -->
 
 ### Explicación Pedagógica
 This question evaluates remember skills regarding final review at the CEFR A1 level.
@@ -56,10 +56,10 @@ This question evaluates remember skills regarding final review at the CEFR A1 le
 What is 10 + 10?
 
 ### Opciones
-- [ ] A) Forty <!-- feedback: No. -->
-- [x] B) Twenty <!-- feedback: Correct! -->
-- [ ] C) Ten <!-- feedback: No. -->
-- [ ] D) Thirty <!-- feedback: No. -->
+- [ ] A) Forty <!-- feedback: 10 + 10 is twenty, not forty. -->
+- [x] B) Twenty <!-- feedback: 10 + 10 = 20, which is 'Twenty'. -->
+- [ ] C) Ten <!-- feedback: Ten is only one of the two tens being added. -->
+- [ ] D) Thirty <!-- feedback: Thirty would need three tens, not two. -->
 
 ### Explicación Pedagógica
 This question evaluates understand skills regarding final review at the CEFR A1 level.
@@ -77,10 +77,10 @@ This question evaluates understand skills regarding final review at the CEFR A1 
 Which animal gives us eggs?
 
 ### Opciones
-- [ ] A) A pig <!-- feedback: No. -->
-- [ ] B) A horse <!-- feedback: No. -->
-- [x] C) A hen <!-- feedback: Correct! -->
-- [ ] D) A cow <!-- feedback: No. -->
+- [ ] A) A pig <!-- feedback: A pig is a mammal on a farm; it does not give us eggs. -->
+- [ ] B) A horse <!-- feedback: A horse is a mammal used for riding. -->
+- [x] C) A hen <!-- feedback: A hen is a female chicken, and chickens are the farm animals that lay eggs. -->
+- [ ] D) A cow <!-- feedback: A cow gives us milk, not eggs. -->
 
 ### Explicación Pedagógica
 This question evaluates apply skills regarding final review at the CEFR A1 level.
@@ -98,10 +98,10 @@ This question evaluates apply skills regarding final review at the CEFR A1 level
 Where do you sleep?
 
 ### Opciones
-- [ ] A) In the kitchen <!-- feedback: No. -->
-- [ ] B) In the bathroom <!-- feedback: No. -->
-- [ ] C) In the garage <!-- feedback: No. -->
-- [x] D) In the bedroom <!-- feedback: Correct! -->
+- [ ] A) In the kitchen <!-- feedback: The kitchen is where we cook and eat, not where we sleep. -->
+- [ ] B) In the bathroom <!-- feedback: The bathroom is where we wash. -->
+- [ ] C) In the garage <!-- feedback: The garage is where the car is kept. -->
+- [x] D) In the bedroom <!-- feedback: You sleep in the bedroom. -->
 
 ### Explicación Pedagógica
 This question evaluates analyze skills regarding final review at the CEFR A1 level.
@@ -119,10 +119,10 @@ This question evaluates analyze skills regarding final review at the CEFR A1 lev
 What is the color of the sky?
 
 ### Opciones
-- [x] A) Blue <!-- feedback: Correct! -->
-- [ ] B) Green <!-- feedback: No. -->
-- [ ] C) Red <!-- feedback: No. -->
-- [ ] D) Yellow <!-- feedback: No. -->
+- [x] A) Blue <!-- feedback: On a clear day the sky is blue, because the air scatters the blue light of the sun. -->
+- [ ] B) Green <!-- feedback: Grass and leaves are green; the sky is not. -->
+- [ ] C) Red <!-- feedback: The sky is not red except at sunrise or sunset. -->
+- [ ] D) Yellow <!-- feedback: Yellow is the colour of the sun, not the sky. -->
 
 ### Explicación Pedagógica
 This question evaluates evaluate skills regarding final review at the CEFR A1 level.
@@ -140,10 +140,10 @@ This question evaluates evaluate skills regarding final review at the CEFR A1 le
 Who helps sick people?
 
 ### Opciones
-- [ ] A) A chef <!-- feedback: No. -->
-- [x] B) A doctor <!-- feedback: Correct! -->
-- [ ] C) A teacher <!-- feedback: No. -->
-- [ ] D) A pilot <!-- feedback: No. -->
+- [ ] A) A chef <!-- feedback: A chef cooks food and does not treat patients. -->
+- [x] B) A doctor <!-- feedback: A doctor helps sick people, which is exactly what the sentence asks about. -->
+- [ ] C) A teacher <!-- feedback: A teacher helps students learn at school. -->
+- [ ] D) A pilot <!-- feedback: A pilot flies an aircraft. -->
 
 ### Explicación Pedagógica
 This question evaluates apply skills regarding final review at the CEFR A1 level.
@@ -161,10 +161,10 @@ This question evaluates apply skills regarding final review at the CEFR A1 level
 I like to ________ books.
 
 ### Opciones
-- [ ] A) swim <!-- feedback: No. -->
-- [ ] B) run <!-- feedback: No. -->
-- [x] C) read <!-- feedback: Correct! -->
-- [ ] D) dance <!-- feedback: No. -->
+- [ ] A) swim <!-- feedback: You swim in the pool or the sea. -->
+- [ ] B) run <!-- feedback: You run on the track or the field, not over books. -->
+- [x] C) read <!-- feedback: You read books. -->
+- [ ] D) dance <!-- feedback: You dance with music, not with books. -->
 
 ### Explicación Pedagógica
 This question evaluates understand skills regarding final review at the CEFR A1 level.
@@ -182,10 +182,10 @@ This question evaluates understand skills regarding final review at the CEFR A1 
 It is ________ today. I need my umbrella.
 
 ### Opciones
-- [ ] A) sunny <!-- feedback: No. -->
-- [ ] B) windy <!-- feedback: No. -->
-- [ ] C) dry <!-- feedback: No. -->
-- [x] D) rainy <!-- feedback: Correct! -->
+- [ ] A) sunny <!-- feedback: Sunny means the sun is shining, so you would not need an umbrella. -->
+- [ ] B) windy <!-- feedback: In windy weather an umbrella keeps the wind off you, but the clue is rain. -->
+- [ ] C) dry <!-- feedback: Dry weather means no rain at all. -->
+- [x] D) rainy <!-- feedback: Rain is falling, so the day is rainy and you need your umbrella. -->
 
 ### Explicación Pedagógica
 This question evaluates remember skills regarding final review at the CEFR A1 level.
