@@ -27,21 +27,67 @@ eran 624 bundles y casi todos rastreaban a la misma plantilla por país.
    distractor puede legítimamente repetir su feedback.
 3. **Se añadió el detector de idioma.** 58 bundles de inglés tenían la explicación
    en español. Ninguno lo detectó hasta que se escribió.
-4. **Se interpuso el interlock de generadores.** No se reescribieron los 23
+4. **Se añadió la regla de opciones-placeholder.** 20 bundles ofrecían `Option A`,
+   `Word 2`, `Structure 3`, `The error is here`. Sus opciones no nombraban respuestas,
+   nombraban ranuras. El gate no lo veía porque el feedback —que sí era correcto—
+   explicaba el placeholder.
+5. **Se interpuso el interlock de generadores.** No se reescribieron los 23
    scripts —eso es un proyecto— sino que `check-generators.mjs` los reporta y el
    pre-commit bloquea tocarlos sin justificación.
-5. **Se reparó por triage, no a ciegas.** 454 regenerar / 695 reparar, revisados
+6. **Se reparó por triage, no a ciegas.** 454 regenerar / 695 reparar, revisados
    por cuatro subagentes a la vez y validados antes de cada commit.
+
+## El defecto que encontró la última ola
+
+La reparación de los 62 bundles dio verde al gate, y aun así no eran preguntas.
+Muestrear el resultado —algo que ningún test hace— lo destapó:
+
+    ### Enunciado
+    Find the error in this describing-people-physical sentence.
+
+    ### Opciones
+    - [ ] A) Different error   <!-- feedback: ...The key marks "The error is here" as the error... -->
+    - [x] C) The error is here (Correct)
+
+`feedbackProblem` la daba por buena: el texto explica algo. La regla de duplicado
+también. El gate entero pasaba. **El problema no estaba en el feedback sino en la
+pregunta**, y toda la campaña estaba mirando la mitad equivocada del bundle.
+
+Tres reglas que salieron de ahí, ahora en `AGENTS.md`:
+
+- El feedback de la opción correcta no puede contradecir su marca `[x]`. En
+  `CL-MAT-11-2026-W06` la opción marcada dice que su propio método no aplica.
+- El feedback va en el idioma del bundle, las cuatro opciones.
+- Un cálculo es la explicación, y puede ser corta.
+
+Y una cuarta, en el validador: una pregunta cuyas opciones son ranuras no es una
+pregunta. Con ella el corpus bajó de 2.385 a 73 errores, y los 20 bundles
+placeholder quedaron señalados para regenerar.
+
+**La lección que más costó aprender: un gate verde no es una revisión.** Falta
+leer una muestra a ojo. Ningún test lee el contenido y lo juzga; sólo comprueba
+que las formas estén donde deben.
 
 ## Resultado
 
 | Métrica | Inicio | Final |
 |---|---|---|
-| Bundles con deuda | 624 | **62** |
-| Errores del gate | 27.997 | **1.822** |
+| Bundles con deuda de feedback | 624 | **0** |
+| Errores de `strictQuality` | 27.997 | **73** |
+| Errores con línea `ERROR` en el log | 27.997 | **20** |
 | Bundles de inglés con feedback en español | 58 | **0** |
 | Bundles con feedback duplicado entre incorrectas | 381 | **0** |
-| Errores de gate en las 5 suites de calidad | — | 86 tests, todos verdes |
+| Tests de las 5 suites de calidad | 37 | **93** |
+
+Los 73 que reporta `strictQuality` son su contador agregado: los 20 de
+`placeholder` más reglas que en el log salen como warning y él cuenta como error.
+No lo he desglosado regla por regla y no lo afirmo. Los 20 con línea `ERROR`
+son los únicos verificables en el log, y son exactamente los 20 bundles
+placeholder, ya en regeneración.
+
+Warnings que quedan, por diseño y no como deuda: 2.071 `explanation-short`
+(explicaciones de menos caracteres que el umbral, revisadas: en su mayoría
+fórmulas legítimas), 215 `explanation-template` y 164 `answer-letter-bias`.
 
 Commits que importan:
 
@@ -50,16 +96,21 @@ Commits que importan:
 - `aa3ba3471` la explicación pedagógica se juzga por contenido
 - `e5c37c589` interlock para los 16 generadores que no pueden pasar el gate
 - `3e5872f8c` detector de feedback en el idioma equivocado
+- `4c405685c` una pregunta cuyas opciones son ranuras no es una pregunta
+- `9be5120f0` las 1.822 explicaciones de los últimos 62 bundles
 
 ## Lo que el gate sigue sin ver
 
-- **El feedback de la opción correcta puede contradecir su propia marca.** Hay al
-  menos un caso real: en `CL-MAT-11-2026-W06` la opción D está marcada `[x]` y su
-  feedback dice que ese método no sirve para el problema. Ninguna regla lo detecta.
+- **Que el feedback sea pedagógicamente bueno.** El gate comprueba que el texto diga
+  algo, no que lo diga bien. Sólo leer una muestra lo demuestra.
+- **Que la pregunta sea interesante.** `F = ma = 2×3 = 6 N` es una explicación
+  completa y `¿Cuánto es 2×3?` es una pregunta trivial. El gate acepta ambas.
 - **La letra del sesgo y el orden canónico.** Un bundle puede pasar y aun así tener
-  11 de 20 respuestas en A. Es un warning, no un error, y es deliberado.
-- **La calidad pedagógica real.** Un gate verde dice que el texto explica algo. No
-  dice que explique bien. Sólo leer muestras lo demuestra.
+  11 de 20 respuestas en A. Es un warning deliberado, no un error.
+
+Lo que sí quedó automatizado tras esta campaña: el feedback de la opción correcta
+no puede contradecir su marca `[x]`, el idioma se comprueba, dos incorrectas no
+pueden compartir texto, y las opciones no pueden ser ranuras.
 
 ## Cómo reproducir la verificación
 
