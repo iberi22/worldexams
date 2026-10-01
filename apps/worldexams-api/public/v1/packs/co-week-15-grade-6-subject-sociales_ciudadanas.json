@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-15-grade-6-subject-sociales_ciudadanas",
+    "generated_at": "2026-10-01T19:00:21.508Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-6-2026-W15-migracion-y-movilidad-humana-001-MASTERY-bundle-v1",
+      "statement": "¿Cual de las siguientes opciones describe mejor a una persona migrante?",
+      "context": "En Bogotá, un grupo de estudiantes de grado 6 investiga sobre los venezolanos que han llegado a Colombia en los ultimos años huyendo de la crisis en su pais.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una persona que viaja de vacaciones a otro lugar por diversion",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las vacaciones son un viaje temporal de recreo, no una migracion; el migrante busca establecerse en el nuevo lugar."
+        },
+        {
+          "letter": "B",
+          "text": "Una persona que vive siempre en el mismo lugar donde nacio",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una persona que nunca se muda no es migrante; la migracion implica un cambio de residencia."
+        },
+        {
+          "letter": "C",
+          "text": "Una persona que trabaja en un lugar pero vive en otro",
+          "is_correct": false,
+          "feedback": "Incorrecto. Trabajar en un lugar y vivir en otro es un desplazamiento laboral diario, no una migracion; no hay cambio de residencia."
+        },
+        {
+          "letter": "D",
+          "text": "Una persona que se traslada de un lugar a otro, ya sea dentro de su pais o a otro pais, buscando mejores condiciones de vida",
+          "is_correct": true,
+          "feedback": "Correcto. La migracion es el movimiento de personas de un lugar a otro; puede ser interna (dentro del pais) o internacional (hacia otro pais)."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La migracion es un fenomeno social que consiste en el movimiento de personas desde su lugar de origen hacia otro destino, ya sea dentro del mismo pais (migracion interna) o hacia otro pais (migracion internacional). Las personas migran por diferentes razones: buscar mejores oportunidades economicas, huir de la violencia, reunirse con sus familias o escapar de desastres naturales. La migracion es un derecho humano reconocido en la Declaracion Universal de los Derechos Humanos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-6-2026-W15-migracion-y-movilidad-humana-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W15-migracion-y-movilidad-humana-001-MASTERY-bundle-v2",
+      "statement": "¿Cual es la principal razon por la que muchas familias colombianas migran del campo a la ciudad?",
+      "context": "En Medellín, una familia de Antioquia se muda a la ciudad desde un pueblo del Uraba antioqueno porque en su region no hay hospitales ni colegios cercanos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La falta de servicios basicos como salud, educacion y empleo en las zonas rurales",
+          "is_correct": true,
+          "feedback": "Correcto. La desigualdad entre el campo y la ciudad en acceso a servicios basicos es la principal causa de la migracion rural-urbana en Colombia."
+        },
+        {
+          "letter": "B",
+          "text": "El deseo de vivir en un lugar con mas trafico y ruido",
+          "is_correct": false,
+          "feedback": "Incorrecto. El trafico y el ruido son consecuencias no deseadas de la vida urbana, no motivos para migrar; las personas buscan mejores servicios, no mas problemas."
+        },
+        {
+          "letter": "C",
+          "text": "La obligacion del gobierno de abandonar el campo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El gobierno no obliga a las personas a abandonar el campo; la migracion es una decision voluntaria impulsada por la falta de oportunidades."
+        },
+        {
+          "letter": "D",
+          "text": "El clima mas frio de las ciudades",
+          "is_correct": false,
+          "feedback": "Incorrecto. El clima no es un factor determinante en la migracion rural-urbana; las personas migran por razones economicas y de acceso a servicios."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La migracion rural-urbana es un fenomeno que ha marcado la historia de Colombia. Durante el siglo XX, millones de personas abandonaron el campo para buscar mejores oportunidades en las ciudades. Las principales causas son la desigualdad en el acceso a servicios basicos (salud, educacion, agua potable), la falta de empleo en el campo y, en muchos casos, la violencia. Esta migracion ha generado tanto oportunidades como desafios para las ciudades, que deben recibir a los nuevos habitantes con infraestructura y servicios adecuados.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.88,
+      "bundle_id": "CO-SOC-6-2026-W15-migracion-y-movilidad-humana-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W15-migracion-y-movilidad-humana-001-MASTERY-bundle-v3",
+      "statement": "¿Cual de las siguientes opciones describe un \"factor de atraccion\" para los migrantes venezolanos en Colombia?",
+      "context": "En Cali, un grupo de estudiantes de grado 6 entrevista a una familia venezolana que llego a Colombia hace dos años. El padre cuenta que en su pais no habia trabajo y que en Colombia encontro oportunidades.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La obligacion de los venezolanos de abandonar su pais por ley",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existe ninguna ley que obligue a los venezolanos a migrar; la migracion es una decision personal impulsada por las condiciones de su pais."
+        },
+        {
+          "letter": "B",
+          "text": "La existencia de oportunidades laborales y de estudio que no tienen en su pais de origen",
+          "is_correct": true,
+          "feedback": "Correcto. Los factores de atraccion son las condiciones que ofrece el lugar de destino y que atraen a los migrantes, como empleo, educacion y seguridad."
+        },
+        {
+          "letter": "C",
+          "text": "El deseo de los venezolanos de cambiar su nacionalidad por la colombiana",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque algunos migrantes pueden cambiar de nacionalidad, este no es el motivo principal de la migracion; las personas migran por necesidades economicas y sociales."
+        },
+        {
+          "letter": "D",
+          "text": "La existencia de un tratado que obliga a Colombia a recibir venezolanos",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existe un tratado que obligue a Colombia a recibir migrantes; Colombia ha sido solidaria con los venezolanos por razones humanitarias, no por obligacion legal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La migracion se explica por la combinacion de \"factores de expulsion\" (condiciones que empujan a las personas a salir de su lugar de origen, como la violencia, la pobreza o la falta de servicios) y \"factores de atraccion\" (condiciones que atraen a las personas hacia un destino, como el empleo, la educacion o la seguridad). En el caso de los venezolanos en Colombia, los factores de expulsion incluyen la crisis economica y politica de Venezuela, mientras que los factores de atraccion son las oportunidades laborales y de estudio en Colombia.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.85,
+      "bundle_id": "CO-SOC-6-2026-W15-migracion-y-movilidad-humana-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W15-migracion-y-movilidad-humana-001-MASTERY-bundle-v4",
+      "statement": "¿Cual es el principal desafio que enfrentan los migrantes haitianos en Colombia?",
+      "context": "En Barranquilla, una comunidad de la costa Caribe recibe a una familia de haitianos que llegaron a Colombia buscando trabajo en la construccion.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El clima frio de Barranquilla, que es muy diferente del clima de Haiti",
+          "is_correct": false,
+          "feedback": "Incorrecto. Barranquilla tiene un clima tropical similar al de Haiti; el clima no es un desafio significativo para los migrantes haitianos."
+        },
+        {
+          "letter": "B",
+          "text": "La falta de comida en Colombia, que es peor que en Haiti",
+          "is_correct": false,
+          "feedback": "Incorrecto. Colombia no tiene escasez de comida; el desafio de los migrantes es el acceso a recursos, no la disponibilidad de alimentos."
+        },
+        {
+          "letter": "C",
+          "text": "La barrera del idioma, ya que el haitiano y el criollo haitiano son diferentes al español",
+          "is_correct": true,
+          "feedback": "Correcto. El idioma es una barrera importante para los migrantes haitianos, ya que la mayoria no habla español y esto dificulta su acceso a servicios y empleo."
+        },
+        {
+          "letter": "D",
+          "text": "La prohibicion de los haitianos de trabajar en Colombia",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existe una prohibicion legal para que los haitianos trabajen en Colombia; el desafio es el idioma y la regularizacion de su situacion migratoria."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los migrantes enfrentan multiples desafios en el pais de destino: el idioma, la regularizacion de su situacion migratoria, la discriminacion, la falta de redes de apoyo y el acceso a servicios basicos. En el caso de los haitianos en Colombia, el idioma es una barrera importante porque la mayoria habla criollo haitiano o franceses, no español. Esto dificulta su comunicacion, su acceso a empleo y su integracion a la comunidad. El Estado y la sociedad deben facilitar la integracion de los migrantes respetando sus derechos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.82,
+      "bundle_id": "CO-SOC-6-2026-W15-migracion-y-movilidad-humana-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W15-migracion-y-movilidad-humana-001-MASTERY-bundle-v5",
+      "statement": "¿Cual de las siguientes opciones describe un \"factor de expulsion\" para los colombianos que migran a otros paises?",
+      "context": "En Pereira, un grupo de estudiantes de grado 6 investiga sobre los colombianos que migraron a España y Estados Unidos en las ultimas decadas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El deseo de los colombianos de conocer otros paises por turismo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El turismo es un viaje temporal, no una migracion; los factores de expulsion son condiciones negativas que obligan a las personas a dejar su pais."
+        },
+        {
+          "letter": "B",
+          "text": "La falta de oportunidades laborales y la inseguridad en algunas regiones de Colombia",
+          "is_correct": true,
+          "feedback": "Correcto. Los factores de expulsion son las condiciones negativas del lugar de origen que empujan a las personas a migrar, como la falta de empleo y la violencia."
+        },
+        {
+          "letter": "C",
+          "text": "La obligacion del gobierno colombiano de enviar ciudadanos al exterior",
+          "is_correct": false,
+          "feedback": "Incorrecto. El gobierno no obliga a los colombianos a migrar; la migracion es una decisión personal impulsada por las condiciones del pais."
+        },
+        {
+          "letter": "D",
+          "text": "La existencia de un programa que regala casas en el extranjero",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existe ningun programa que regale casas en el extranjero; los migrantes enfrentan dificultades economicas en el pais de destino."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los factores de expulsion son las condiciones negativas del lugar de origen que empujan a las personas a migrar: la pobreza, la violencia, la falta de empleo, la falta de servicios basicos y la inseguridad. En Colombia, regiones como el Pacifico, el Uraba y el Catatumbo han experimentado migraciones masivas debido a la violencia y la falta de oportunidades. Estos factores se combinan con los factores de atraccion de los paises de destino para explicar los flujos migratorios.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-6-2026-W15-migracion-y-movilidad-humana-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W15-migracion-y-movilidad-humana-001-MASTERY-bundle-v6",
+      "statement": "¿Cual es la relacion entre la migracion y la informalidad laboral en Colombia?",
+      "context": "En Bucaramanga, un estudio revela que los migrantes venezolanos en la ciudad trabajan principalmente en el sector informal: vendiendo en la calle, haciendo domicilios o trabajando en construccion.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los migrantes prefieren trabajar en el sector informal porque pagan menos impuestos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los migrantes no eligen la informalidad por preferencia; la informalidad es una consecuencia de las barreras que enfrentan para acceder a empleos formales."
+        },
+        {
+          "letter": "B",
+          "text": "Los migrantes no pueden trabajar en el sector formal porque son ilegales",
+          "is_correct": false,
+          "feedback": "Incorrecto. No todos los migrantes son irregulares; muchos tienen documentos pero enfrentan otras barreras como la discriminacion o el desconocimiento de sus derechos."
+        },
+        {
+          "letter": "C",
+          "text": "Los migrantes suelen trabajar en el sector informal porque enfrentan barreras para acceder a empleos formales, como la falta de documentos o el desconocimiento de sus derechos",
+          "is_correct": true,
+          "feedback": "Correcto. La informalidad laboral es una realidad para muchos migrantes porque no tienen documentos, no conocen sus derechos o enfrentan discriminacion en el mercado laboral."
+        },
+        {
+          "letter": "D",
+          "text": "Los migrantes solo trabajan en el sector informal porque no saben hacer otro tipo de trabajo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los migrantes tienen diversas habilidades y profesiones; la informalidad no es por falta de capacidad, sino por barreras estructurales."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La informalidad laboral es un fenomeno que afecta tanto a migrantes como a colombianos, pero los migrantes son especialmente vulnerables. Las barreras para acceder a empleos formales incluyen la falta de documentos de identificacion, el desconocimiento de los derechos laborales, la discriminacion y la falta de redes de contacto. El Estado debe facilitar la regularizacion de los migrantes y garantizar sus derechos laborales para reducir la informalidad y la explotacion.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.78,
+      "bundle_id": "CO-SOC-6-2026-W15-migracion-y-movilidad-humana-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W15-migracion-y-movilidad-humana-001-MASTERY-bundle-v7",
+      "statement": "¿Cual es la diferencia entre un migrante economico y un migrante por razones humanitarias?",
+      "context": "En Manizales, una comunidad recibe a una familia de ecuatorianos que migraron a Colombia porque en su pais los terremotos destruyeron su casa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El migrante economico busca mejores oportunidades laborales, mientras que el migrante humanitario huye de desastres naturales, violencia o persecucion",
+          "is_correct": true,
+          "feedback": "Correcto. La diferencia principal es el motivo: el migrante economico busca mejorar sus condiciones de vida, mientras que el migrante humanitario huye de amenazas a su vida o integridad."
+        },
+        {
+          "letter": "B",
+          "text": "El migrante economico es siempre legal, mientras que el migrante humanitario es siempre ilegal",
+          "is_correct": false,
+          "feedback": "Incorrecto. La legalidad no depende del motivo de la migracion; ambos pueden ser regulares o irregulares segun su situacion migratoria."
+        },
+        {
+          "letter": "C",
+          "text": "El migrante economico es siempre bienvenido, mientras que el migrante humanitario es siempre rechazado",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos tipos de migrantes pueden enfrentar rechazo o aceptacion; la diferencia esta en el motivo de la migracion, no en la recepcion."
+        },
+        {
+          "letter": "D",
+          "text": "El migrante economico es siempre temporal, mientras que el migrante humanitario es siempre permanente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos pueden ser temporales o permanentes; la diferencia es el motivo de la migracion, no la duracion de la estancia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La migracion puede clasificarse segun el motivo: migracion economica (buscar mejores oportunidades laborales), migracion humanitaria (huir de violencia, persecucion o desastres naturales) y migracion familiar (reunirse con familiares). Los migrantes humanitarios tienen proteccion especial bajo el derecho internacional, ya que huyen de amenazas a su vida o integridad. Colombia ha recibido migrantes de diferentes paises por distintas razones, y el Estado debe garantizar sus derechos independientemente del motivo de su migracion.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-6-2026-W15-migracion-y-movilidad-humana-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W15-migracion-y-movilidad-humana-001-MASTERY-bundle-v8",
+      "statement": "¿Cual es el impacto de la diaspora colombiana en el pais?",
+      "context": "En Pasto, un grupo de estudiantes de grado 6 investiga sobre la diaspora colombiana: millones de colombianos que viven en otros paises y mantienen vinculos con su pais.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La diaspora colombiana ha reducido la poblacion del pais a niveles criticos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque millones de colombianos viven en el extranjero, la poblacion del pais sigue creciendo; la diaspora no ha reducido la poblacion a niveles criticos."
+        },
+        {
+          "letter": "B",
+          "text": "Los colombianos en el extranjero pierden completamente su identidad cultural",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los migrantes mantienen vinculos con su pais y su cultura; la diaspora no implica la perdida de la identidad, sino su transformacion."
+        },
+        {
+          "letter": "C",
+          "text": "La diaspora colombiana ha eliminado la pobreza en las regiones de origen",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las remesas ayudan a muchas familias, pero no han eliminado la pobreza; la migracion es una estrategia de supervivencia, no una solucion estructural."
+        },
+        {
+          "letter": "D",
+          "text": "Las remesas (dinero que envian los migrantes a sus familias) son una fuente importante de ingresos para muchas familias colombianas",
+          "is_correct": true,
+          "feedback": "Correcto. Las remesas son transferencias de dinero que los migrantes envian a sus familias en Colombia; representan una fuente vital de ingresos para millones de hogares."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La diaspora colombiana es uno de los fenomenos migratorios mas importantes del pais. Millones de colombianos viven en el extranjero, principalmente en España, Estados Unidos, Venezuela y Ecuador. Las remesas que envian son una fuente vital de ingresos para muchas familias, pero también plantean desafios: la separacion familiar, la perdida de talento y la dependencia economica. El Estado debe fortalecer los vinculos con la diaspora y crear oportunidades para que los colombianos no tengan que migrar por necesidad.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.72,
+      "bundle_id": "CO-SOC-6-2026-W15-migracion-y-movilidad-humana-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W15-migracion-y-movilidad-humana-001-MASTERY-bundle-v9",
+      "statement": "¿Cual es la posicion etica mas frente a este debate?",
+      "context": "En Valledupar, un grupo de estudiantes debate sobre si Colombia debe cerrar sus fronteras a los migrantes venezolanos para proteger los empleos de los colombianos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Colombia debe cerrar sus fronteras porque los migrantes quitan empleos a los colombianos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cerrar las fronteras viola el derecho humano a migrar y no resuelve los problemas economicos; la integracion es mas efectiva que la exclusion."
+        },
+        {
+          "letter": "B",
+          "text": "Colombia debe permitir la migracion solo de personas con estudios universitarios",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restringir la migracion por nivel educativo es discriminatorio; los derechos humanos no dependen del nivel de estudios de las personas."
+        },
+        {
+          "letter": "C",
+          "text": "Colombia debe deportar a todos los migrantes venezolanos para proteger la economia nacional",
+          "is_correct": false,
+          "feedback": "Incorrecto. La deportacion masiva viola los derechos humanos y el principio de no devolucion; los migrantes tienen derecho a un trato digno y a un proceso justo."
+        },
+        {
+          "letter": "D",
+          "text": "Colombia debe garantizar los derechos de los migrantes y buscar integrarlos a la sociedad, sin cerrar las fronteras",
+          "is_correct": true,
+          "feedback": "Correcto. Los derechos humanos no tienen fronteras; Colombia debe garantizar los derechos de los migrantes y buscar su integracion, no su exclusion."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El debate sobre la migracion es complejo y requiere equilibrar los derechos de los migrantes con los intereses del pais de destino. La etica de los derechos humanos establece que todas las personas tienen derecho a migrar y a ser tratadas con dignidad, independientemente de su nacionalidad. Cerrar las fronteras o deportar masivamente viola estos derechos y no resuelve los problemas economicos. La integracion de los migrantes, con acceso a educacion, salud y empleo formal, es la estrategia mas justa y efectiva.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-6-2026-W15-migracion-y-movilidad-humana-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W15-migracion-y-movilidad-humana-001-MASTERY-bundle-v10",
+      "statement": "¿Por que es valioso un programa de hermanamiento entre colegios de Colombia y Venezuela?",
+      "context": "En Cartagena, un grupo de estudiantes de grado 6 propone que el colegio tenga un \"Programa de Hermanamiento\" con un colegio de Venezuela para que los estudiantes de ambos paises compartan experiencias y culturas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque fomenta el entendimiento mutuo, el respeto por la diversidad y la solidaridad entre los pueblos",
+          "is_correct": true,
+          "feedback": "Correcto. El hermanamiento entre colegios promueve la integracion, el respeto por la diversidad cultural y la solidaridad, valores esenciales para la convivencia pacifica."
+        },
+        {
+          "letter": "B",
+          "text": "Porque permite que los estudiantes venezolanos aprendan el español",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque el idioma es importante, el objetivo principal del hermanamiento es el intercambio cultural y la solidaridad, no solo la enseñanza del idioma."
+        },
+        {
+          "letter": "C",
+          "text": "Porque ayuda a los estudiantes colombianos a conseguir empleo en Venezuela",
+          "is_correct": false,
+          "feedback": "Incorrecto. El hermanamiento no es un programa de empleo; es un espacio de intercambio cultural y academico entre estudiantes."
+        },
+        {
+          "letter": "D",
+          "text": "Porque permite que los estudiantes colombianos conozcan mejor la cultura venezolana que la colombiana",
+          "is_correct": false,
+          "feedback": "Incorrecto. El hermanamiento busca el intercambio mutuo, no el reemplazo de una cultura por otra; ambos paises comparten y aprenden."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los programas de hermanamiento entre colegios de diferentes paises son herramientas poderosas para fomentar la integracion, el respeto por la diversidad y la solidaridad. Cuando los estudiantes comparten experiencias, culturas y perspectivas, se rompen estereotipos y se construyen puentes de entendimiento. En el contexto de la migracion, estos programas son especialmente valiosos porque ayudan a los estudiantes a comprender las realidades de los migrantes y a desarrollar empatia y compromiso con la integracion.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.68,
+      "bundle_id": "CO-SOC-6-2026-W15-migracion-y-movilidad-humana-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}
