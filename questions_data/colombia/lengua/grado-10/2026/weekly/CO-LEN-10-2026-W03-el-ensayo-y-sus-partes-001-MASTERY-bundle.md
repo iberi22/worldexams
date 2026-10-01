@@ -55,9 +55,9 @@ El ensayo es un texto argumentativo en prosa donde el autor expone su posición 
 Según la estructura descrita, ¿qué elemento cumple la función de tesis?
 
 ### Opciones
-- [x] A) La postura que se defiende y se sustenta a lo largo del texto, planteada de forma explícita. <!-- feedback: Correcto. La "tesis" es la postura que el autor defiende y sustenta, porque debe aparecer de forma explícita para que los argumentos tengan sentido. -->
-- [ ] B) Los tres párrafos de datos, porque la cantidad de información define la tesis. <!-- feedback: Incorrecto. Los datos son el sustento empírico de la tesis, porque la cantidad de información no equivale a una postura defendida. -->
-- [ ] C) La pregunta inicial, porque toda pregunta funciona como tesis argumentativa. <!-- feedback: Incorrecto. Una pregunta puede abrir el texto como recurso de enganche, porque la tesis es una afirmación que se defiende y no una interrogación. -->
+- [ ] A) Los tres párrafos de datos, porque la cantidad de información define la tesis. <!-- feedback: Incorrecto. Los datos son el sustento empírico de la tesis, porque la cantidad de información no equivale a una postura defendida. -->
+- [ ] B) La pregunta inicial, porque toda pregunta funciona como tesis argumentativa. <!-- feedback: Incorrecto. Una pregunta puede abrir el texto como recurso de enganche, porque la tesis es una afirmación que se defiende y no una interrogación. -->
+- [x] C) La postura que se defiende y se sustenta a lo largo del texto, planteada de forma explícita. <!-- feedback: Correcto. La "tesis" es la postura que el autor defiende y sustenta, porque debe aparecer de forma explícita para que los argumentos tengan sentido. -->
 - [ ] D) La propuesta de política escolar, porque toda conclusión es automáticamente la tesis. <!-- feedback: Incorrecto. La propuesta pertenece a la conclusión, porque la tesis es la afirmación inicial que los argumentos defienden. -->
 
 ### Explicacion Pedagogica
@@ -74,8 +74,8 @@ La tesis es el núcleo del ensayo: la afirmación que se quiere demostrar. Los a
 ¿Qué género es ese texto y cómo se distingue del ensayo?
 
 ### Opciones
-- [x] A) Texto informativo, porque describe sin sostener una postura; el ensayo, en cambio, defiende una tesis. <!-- feedback: Correcto. El texto descriptivo es "informativo", porque informa sin afirmar una postura, mientras el ensayo defiende una tesis discutible. -->
-- [ ] B) Ensayo, porque cualquier texto largo sirve como ensayo académico. <!-- feedback: Incorrecto. La extensión no define el ensayo, porque lo decisivo es la defensa de una tesis con argumentos, que aquí no existe. -->
+- [ ] A) Ensayo, porque cualquier texto largo sirve como ensayo académico. <!-- feedback: Incorrecto. La extensión no define el ensayo, porque lo decisivo es la defensa de una tesis con argumentos, que aquí no existe. -->
+- [x] B) Texto informativo, porque describe sin sostener una postura; el ensayo, en cambio, defiende una tesis. <!-- feedback: Correcto. El texto descriptivo es "informativo", porque informa sin afirmar una postura, mientras el ensayo defiende una tesis discutible. -->
 - [ ] C) Narrativo, porque el estudiante cuenta lo que vio al recorrer el campus. <!-- feedback: Incorrecto. No hay trama, conflicto ni personajes, porque predomina la descripción de un espacio y no el narrar. -->
 - [ ] D) Expositivo, porque expone las características del campus con orden y claridad. <!-- feedback: Incorrecto. El rasgo decisivo que lo separa del ensayo es la ausencia de una postura, porque no hay nada que se pueda sostener ni discutir. -->
 
@@ -93,10 +93,10 @@ Ensayo y texto informativo comparten el uso del lenguaje denotativo, pero se dif
 ¿Qué función cumple ese tercer párrafo dentro de la estructura del ensayo?
 
 ### Opciones
-- [x] A) La del contraargumento: atiende una objeción plausible y la refuta para fortalecer la tesis. <!-- feedback: Correcto. Atender una objeción y refutarla es la función del "contraargumento", porque refuerza la tesis anticipando objeciones previsibles. -->
-- [ ] B) La de la tesis, porque en ese lugar se declara por primera vez la postura. <!-- feedback: Incorrecto. La tesis se declara al inicio del ensayo, porque en el tercer párrafo no se presenta sino que se defiende. -->
-- [ ] C) La de la conclusión, porque cierra el desarrollo argumentativo del texto. <!-- feedback: Incorrecto. La conclusión cierra el ensayo completo, porque aquí la función consiste en refutar y no en cerrar. -->
-- [ ] D) La del texto informativo, porque suspende temporalmente la argumentación. <!-- feedback: Incorrecto. No se suspende la argumentación, porque refutar una objeción es argumentar en contra y sigue siendo un gesto argumentativo. -->
+- [ ] A) La de la tesis, porque en ese lugar se declara por primera vez la postura. <!-- feedback: Incorrecto. La tesis se declara al inicio del ensayo, porque en el tercer párrafo no se presenta sino que se defiende. -->
+- [ ] B) La de la conclusión, porque cierra el desarrollo argumentativo del texto. <!-- feedback: Incorrecto. La conclusión cierra el ensayo completo, porque aquí la función consiste en refutar y no en cerrar. -->
+- [ ] C) La del texto informativo, porque suspende temporalmente la argumentación. <!-- feedback: Incorrecto. No se suspende la argumentación, porque refutar una objeción es argumentar en contra y sigue siendo un gesto argumentativo. -->
+- [x] D) La del contraargumento: atiende una objeción plausible y la refuta para fortalecer la tesis. <!-- feedback: Correcto. Atender una objeción y refutarla es la función del "contraargumento", porque refuerza la tesis anticipando objeciones previsibles. -->
 
 ### Explicacion Pedagogica
 El contraargumento anticipa la objeción más fuerte del lector y la responde. Incluirlo fortalece el ensayo, porque demuestra que el autor conoce la discusión a fondo. Saber lo evalúa en ítems donde se pide identificar la función de un párrafo.
@@ -131,9 +131,9 @@ La adaptación del registro responde a una lógica de cooperación con el lector
 ¿Qué función textual cumple ese párrafo final?
 
 ### Opciones
-- [x] A) Cierra el texto con la conclusión, que retoma la tesis y proyecta sus efectos. <!-- feedback: Correcto. Ese párrafo cumple la función de la conclusión, porque retoma la tesis y proyecta consecuencias sin introducir argumentos nuevos. -->
-- [ ] B) Abre el texto con la introducción, porque en el ensayo la conclusión va al principio. <!-- feedback: Incorrecto. El orden del ensayo es fijo, porque la conclusión cierra el desarrollo argumental y no puede funcionar como introducción. -->
-- [ ] C) Presenta una tesis nueva, porque la reflexión final plantea otra posición. <!-- feedback: Incorrecto. La conclusión "no introduce" una tesis nueva, porque recupera la defendida y añadir otra postura debilitaría la argumentación. -->
+- [ ] A) Abre el texto con la introducción, porque en el ensayo la conclusión va al principio. <!-- feedback: Incorrecto. El orden del ensayo es fijo, porque la conclusión cierra el desarrollo argumental y no puede funcionar como introducción. -->
+- [ ] B) Presenta una tesis nueva, porque la reflexión final plantea otra posición. <!-- feedback: Incorrecto. La conclusión "no introduce" una tesis nueva, porque recupera la defendida y añadir otra postura debilitaría la argumentación. -->
+- [x] C) Cierra el texto con la conclusión, que retoma la tesis y proyecta sus efectos. <!-- feedback: Correcto. Ese párrafo cumple la función de la conclusión, porque retoma la tesis y proyecta consecuencias sin introducir argumentos nuevos. -->
 - [ ] D) Es una cita textual, porque repite literalmente lo dicho en el primer párrafo. <!-- feedback: Incorrecto. Repetir el inicio sería una cita, porque resumir y proyectar consecuencias es propio de la conclusión del ensayo. -->
 
 ### Explicacion Pedagogica
@@ -150,8 +150,8 @@ La conclusión del ensayo recupera la tesis y la consolida. Puede añadir reflex
 ¿Qué efecto tiene sobre la fuerza del ensayo colocar la tesis al final?
 
 ### Opciones
-- [x] A) Crea un efecto de demostración acumulada: el lector llega a la conclusión ya convencido por la evidencia. <!-- feedback: Correcto. Colocar la tesis al final produce una demostración acumulada, porque el lector juzga válido lo expuesto cuando aparece la afirmación. -->
-- [ ] B) Debilita el ensayo, porque la tesis siempre debe aparecer en el primer párrafo. <!-- feedback: Incorrecto. La posición de la tesis es una decisión estratégica válida, porque lo que debilita sería no enunciarla nunca, no enunciarla al final. -->
+- [ ] A) Debilita el ensayo, porque la tesis siempre debe aparecer en el primer párrafo. <!-- feedback: Incorrecto. La posición de la tesis es una decisión estratégica válida, porque lo que debilita sería no enunciarla nunca, no enunciarla al final. -->
+- [x] B) Crea un efecto de demostración acumulada: el lector llega a la conclusión ya convencido por la evidencia. <!-- feedback: Correcto. Colocar la tesis al final produce una demostración acumulada, porque el lector juzga válido lo expuesto cuando aparece la afirmación. -->
 - [ ] C) Contradice la tesis, porque el lector cambia de opinión al final del texto. <!-- feedback: Incorrecto. No hay contradicción, porque el lector llega a la conclusión después de valorar la evidencia y eso refuerza la tesis. -->
 - [ ] D) Convierte el ensayo en un texto narrativo, porque la información llega cronológicamente. <!-- feedback: Incorrecto. El orden de la tesis "no convierte" el texto en narrativo, porque sigue siendo argumentativo y solo cambia la secuencia. -->
 
@@ -169,10 +169,10 @@ La macroestructura del ensayo puede variar sin que el texto pierda su carácter 
 Según la relación entre tesis y argumentos, ¿qué problema tiene el ensayo?
 
 ### Opciones
-- [x] A) La tesis no está sustentada: los argumentos son un caso particular y no demuestran una afirmación general. <!-- feedback: Correcto. Una tesis general exige argumentos también generalizados, porque apoyarse solo en un caso particular es una inferencia sin base. -->
-- [ ] B) La tesis está mal formulada, porque toda tesis debe ser una pregunta. <!-- feedback: Incorrecto. La tesis puede ser interrogativa o afirmativa, porque el problema no es su forma sino la insuficiencia de los argumentos que la sostienen. -->
-- [ ] C) Falta una conclusión, porque el texto termina con una reflexión personal. <!-- feedback: Incorrecto. El problema central no es la conclusión, porque existe un cierre reflexivo y lo deficiente es el tipo de evidencia aportado. -->
-- [ ] D) Sobra el contraargumento, porque la tesis no admite objeciones. <!-- feedback: Incorrecto. Toda tesis admite objeciones y refutarlas es una fortaleza, porque el defecto real es la falta de generalidad de los argumentos. -->
+- [ ] A) La tesis está mal formulada, porque toda tesis debe ser una pregunta. <!-- feedback: Incorrecto. La tesis puede ser interrogativa o afirmativa, porque el problema no es su forma sino la insuficiencia de los argumentos que la sostienen. -->
+- [ ] B) Falta una conclusión, porque el texto termina con una reflexión personal. <!-- feedback: Incorrecto. El problema central no es la conclusión, porque existe un cierre reflexivo y lo deficiente es el tipo de evidencia aportado. -->
+- [ ] C) Sobra el contraargumento, porque la tesis no admite objeciones. <!-- feedback: Incorrecto. Toda tesis admite objeciones y refutarlas es una fortaleza, porque el defecto real es la falta de generalidad de los argumentos. -->
+- [x] D) La tesis no está sustentada: los argumentos son un caso particular y no demuestran una afirmación general. <!-- feedback: Correcto. Una tesis general exige argumentos también generalizados, porque apoyarse solo en un caso particular es una inferencia sin base. -->
 
 ### Explicacion Pedagogica
 Un ensayo bien construido mantiene correspondencia entre el alcance de la tesis y el de los argumentos. Una tesis general sostenida con un caso particular es una generalización apresurada. Detectar esa incoherencia es una competencia evaluativa de alto nivel.
@@ -207,9 +207,9 @@ Un dato es materia prima argumentativa, no una conclusión. Lo que sostiene la t
 ¿Qué efecto pragmático tiene ese tipo de título?
 
 ### Opciones
-- [x] A) Predispone al lector a aceptar la postura sin haber evaluado los argumentos. <!-- feedback: Correcto. Un título afirmativo funciona como una directiva que orienta la lectura, porque puede inducir a aceptar la postura sin examinar los argumentos. -->
-- [ ] B) Presenta la tesis de manera neutral, porque anticipa la estructura del texto. <!-- feedback: Incorrecto. Un título que afirma una conclusión comunica una postura, porque el lector recibe una posición antes de leer el desarrollo. -->
-- [ ] C) Reduce el número de argumentos, porque el título los reemplaza. <!-- feedback: Incorrecto. El título "no sustituye" los argumentos, porque los anuncia y la cantidad de evidencia no cambia por su elección. -->
+- [ ] A) Presenta la tesis de manera neutral, porque anticipa la estructura del texto. <!-- feedback: Incorrecto. Un título que afirma una conclusión comunica una postura, porque el lector recibe una posición antes de leer el desarrollo. -->
+- [ ] B) Reduce el número de argumentos, porque el título los reemplaza. <!-- feedback: Incorrecto. El título "no sustituye" los argumentos, porque los anuncia y la cantidad de evidencia no cambia por su elección. -->
+- [x] C) Predispone al lector a aceptar la postura sin haber evaluado los argumentos. <!-- feedback: Correcto. Un título afirmativo funciona como una directiva que orienta la lectura, porque puede inducir a aceptar la postura sin examinar los argumentos. -->
 - [ ] D) Convierte el texto en una nota de prensa, porque su tono es periodístico. <!-- feedback: Incorrecto. El tono del título "no define" el género, porque un ensayo puede tener título afirmativo y conservar su carácter argumentativo. -->
 
 ### Explicacion Pedagogica
@@ -226,8 +226,8 @@ Los recursos del título y del párrafo inicial instalan una disposición lector
 ¿Qué juicio es más sólido sobre esa restricción?
 
 ### Opciones
-- [x] A) Es cuestionable porque reduce la diversidad de la evidencia y puede producir generalizaciones sin base. <!-- feedback: Correcto. El juicio es ponderado y explica la razón, porque restringir a una sola fuente limita la diversidad y arriesga generalizaciones. -->
-- [ ] B) Es siempre positiva, porque obligar al estudiante a profundizar un solo camino garantiza un mejor trabajo. <!-- feedback: Incorrecto. Depender de una sola evidencia "no garantiza" calidad, porque puede producir un trabajo riguroso en apariencia pero probatoriamente estrecho. -->
+- [ ] A) Es siempre positiva, porque obligar al estudiante a profundizar un solo camino garantiza un mejor trabajo. <!-- feedback: Incorrecto. Depender de una sola evidencia "no garantiza" calidad, porque puede producir un trabajo riguroso en apariencia pero probatoriamente estrecho. -->
+- [x] B) Es cuestionable porque reduce la diversidad de la evidencia y puede producir generalizaciones sin base. <!-- feedback: Correcto. El juicio es ponderado y explica la razón, porque restringir a una sola fuente limita la diversidad y arriesga generalizaciones. -->
 - [ ] C) Es siempre negativa, porque toda restricción metodológica invalida cualquier trabajo académico. <!-- feedback: Incorrecto. Absolutizar la negativa también es un error, porque las restricciones metodológicas existen por razones válidas y deben evaluarse según su efecto. -->
 - [ ] D) Es irrelevante, porque la calidad de un ensayo depende solo del estilo de redacción. <!-- feedback: Incorrecto. La calidad depende de la evidencia tanto como del estilo, porque reducir las fuentes afecta el conocimiento construido por el texto. -->
 
@@ -245,10 +245,10 @@ Evaluar una restricción metodológica exige considerar su efecto sobre el conoc
 ¿Qué razonamiento sostiene mejor la elección de un tema en ese ejercicio?
 
 ### Opciones
-- [x] A) Elegir un tema que sea relevante para la ciudad y que permita reunir evidencia concreta y verificable. <!-- feedback: Correcto. La elección se apoya en dos criterios, "relevancia" y disponibilidad de evidencia, y ambos son verificables al momento de escribir. -->
-- [ ] B) Elegir el tema que más le guste al autor, porque el ensayo refleja siempre una pasión personal. <!-- feedback: Incorrecto. La opinión personal puede orientar la escritura, porque un criterio debe ser la relevancia y la posibilidad de sostenerla con evidencia. -->
-- [ ] C) Elegir el tema más complejo, porque un asunto complejo garantiza un mejor ensayo. <!-- feedback: Incorrecto. La complejidad "no garantiza" calidad, porque un tema complejo sin evidencia accesible produce un ensayo más débil. -->
-- [ ] D) Elegir cualquiera, porque todos los temas sirven igual para desarrollar pensamiento crítico. <!-- feedback: Incorrecto. Esa declaración evita el razonamiento, porque los temas difieren en su capacidad de discusión y evidencia disponible. -->
+- [ ] A) Elegir el tema que más le guste al autor, porque el ensayo refleja siempre una pasión personal. <!-- feedback: Incorrecto. La opinión personal puede orientar la escritura, porque un criterio debe ser la relevancia y la posibilidad de sostenerla con evidencia. -->
+- [ ] B) Elegir el tema más complejo, porque un asunto complejo garantiza un mejor ensayo. <!-- feedback: Incorrecto. La complejidad "no garantiza" calidad, porque un tema complejo sin evidencia accesible produce un ensayo más débil. -->
+- [ ] C) Elegir cualquiera, porque todos los temas sirven igual para desarrollar pensamiento crítico. <!-- feedback: Incorrecto. Esa declaración evita el razonamiento, porque los temas difieren en su capacidad de discusión y evidencia disponible. -->
+- [x] D) Elegir un tema que sea relevante para la ciudad y que permita reunir evidencia concreta y verificable. <!-- feedback: Correcto. La elección se apoya en dos criterios, "relevancia" y disponibilidad de evidencia, y ambos son verificables al momento de escribir. -->
 
 ### Explicacion Pedagogica
 Elegir un tema de ensayo es ya una decisión argumentativa. Un buen tema combina relevancia para el destinatario y disponibilidad de evidencia. Justificar esa elección con criterios observables distingue un razonamiento académico de una preferencia personal.
