@@ -9,41 +9,41 @@
   "questions": [
     {
       "id": "SV-CIE-11-2026-W39-investigacion-cientifica-001-MASTERY-bundle-v1",
-      "statement": "¿Qué proceso conviierte luz solar en energía química en las plantas?",
-      "context": "Clase de ciencias en San Salvador estudiando investigacion cientifica.",
+      "statement": "¿Cuál es el objetivo de la sección de materiales y equipos de un informe?",
+      "context": "En la clase de segundo grado el profesor explica las partes de un informe de laboratorio.",
       "options": [
         {
-          "letter": "B",
-          "text": "Fotosíntesis",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
+          "letter": "A",
+          "text": "Presentar los resultados de las mediciones en tablas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los resultados en tablas corresponden a la sección de resultados, no a la de materiales."
         },
         {
-          "letter": "A",
-          "text": "Respiración celular",
+          "letter": "B",
+          "text": "Explicar la conclusión a la que llegó el equipo",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. La conclusión se expone en su propia sección, al final del informe."
         },
         {
           "letter": "C",
-          "text": "Fermentación",
+          "text": "Justificar el marco teórico con autores y bibliografía",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. Las referencias bibliográficas van al final y justifican el marco teórico, no los materiales."
         },
         {
           "letter": "D",
-          "text": "Digestión",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "text": "Describir con qué se realizó el experimento y con qué equipos se midió",
+          "is_correct": true,
+          "feedback": "Correcto. Esa sección permite que otro investigator repita el experimento con los mismos recursos."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La fotosíntesis usa luz, agua y CO₂ para producir glucosa y oxígeno.",
+      "correct_answer": "D",
+      "explanation": "Un informe científico debe permitir que otro equipo repita el trabajo, y para eso hay que declarar qué se usó y con qué equipos.",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
+      "bloom": "Remember",
+      "expected_success": 0.85,
       "bundle_id": "SV-CIE-11-2026-W39-investigacion-cientifica-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -54,40 +54,40 @@
     },
     {
       "id": "SV-CIE-11-2026-W39-investigacion-cientifica-001-MASTERY-bundle-v2",
-      "statement": "Objeto de 2 kg acelera a 3 m/s². ¿Fuerza aplicada? (F=ma)",
-      "context": "Clase de ciencias en Soyapango estudiando investigacion cientifica.",
+      "statement": "¿Por qué se repite la medición en un experimento?",
+      "context": "En el laboratorio de Sonsonate, el equipo mide la longitud de una mesa con una cinta métrica y repite la medición tres veces.",
       "options": [
         {
-          "letter": "C",
-          "text": "6 N",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
-        },
-        {
           "letter": "A",
-          "text": "4 N",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "text": "Para reducir el error aleatorio y aumentar la confianza en el resultado",
+          "is_correct": true,
+          "feedback": "Correcto. Repetir la medición y promediar los valores reduce el efecto del error aleatorio."
         },
         {
           "letter": "B",
-          "text": "9 N",
+          "text": "Para comprobar que la cinta métrica no cambia de longitud con el uso",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. La repetición no sirve para verificar el instrumento, sino para disminuir la incertidumbre de la medida."
+        },
+        {
+          "letter": "C",
+          "text": "Para llegar a un resultado exacto, sin ningún error posible",
+          "is_correct": false,
+          "feedback": "Incorrecto. La repetición acerca al valor verdadero, pero no elimina los errores sistemáticos."
         },
         {
           "letter": "D",
-          "text": "2 N",
+          "text": "Para escoger el valor que más conviene al objetivo del trabajo",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. Elegir el valor más conveniente es una mala práctica; se informa el promedio de todas las mediciones."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "F = ma = 2×3 = 6 N.",
+      "correct_answer": "A",
+      "explanation": "El error aleatorio se reduce repitiendo la medición; el error sistemático, en cambio, solo se corrige calibrando o ajustando el instrumento.",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Understand",
       "expected_success": 0.8,
       "bundle_id": "SV-CIE-11-2026-W39-investigacion-cientifica-001-MASTERY-bundle",
       "periodo": 39,
@@ -99,41 +99,41 @@
     },
     {
       "id": "SV-CIE-11-2026-W39-investigacion-cientifica-001-MASTERY-bundle-v3",
-      "statement": "¿Cuál es el órgano más grande del cuerpo humano?",
-      "context": "Clase de ciencias en Mejicanos estudiando investigacion cientifica.",
+      "statement": "¿Qué evidencia permite afirmar que hubo una transformación química?",
+      "context": "Un grupo de estudiantes mezcla tres sustancias y observa que la mezcla cambia de color y libera calor.",
       "options": [
         {
-          "letter": "D",
-          "text": "La piel",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
-        },
-        {
           "letter": "A",
-          "text": "El hígado",
+          "text": "El aumento del volumen al mezclar las tres sustancias",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. Un aumento de volumen no es un criterio para afirmar una transformación química."
         },
         {
           "letter": "B",
-          "text": "El corazón",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "text": "La formación de una sustancia nueva, con cambio de color y liberación de energía",
+          "is_correct": true,
+          "feedback": "Correcto. El cambio de color y el calorreleased indican que se formaron sustancias nuevas."
         },
         {
           "letter": "C",
-          "text": "Los pulmones",
+          "text": "La desaparición completa de una de las sustancias iniciales",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. Que un reactivo se consuma no basta para concluir que hubo reacción."
+        },
+        {
+          "letter": "D",
+          "text": "El cambio de estado físico de una de las sustancias",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un cambio de estado, como el hielo que se derrite, es un fenómeno físico y no una reacción química."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "La piel es el órgano más grande, cubriendo y protegiendo todo el cuerpo.",
-      "difficulty": "4",
+      "correct_answer": "B",
+      "explanation": "Los índices de reacción química son la formación de un gas, un cambio de color, un precipitado y el cambio de temperatura.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Analyze",
+      "expected_success": 0.7,
       "bundle_id": "SV-CIE-11-2026-W39-investigacion-cientifica-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -144,41 +144,41 @@
     },
     {
       "id": "SV-CIE-11-2026-W39-investigacion-cientifica-001-MASTERY-bundle-v4",
-      "statement": "En un experimento, plantas con luz crecen más que sin luz. ¿Variable independiente?",
-      "context": "Clase de ciencias en San Miguel estudiando investigacion cientifica.",
+      "statement": "¿Qué es una variable experimental?",
+      "context": "La profesora de segundo grado asigna a cada grupo de la clase un color distinto para identificar sus materiales.",
       "options": [
         {
-          "letter": "C",
-          "text": "La exposición a la luz",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
-        },
-        {
           "letter": "A",
-          "text": "El crecimiento de las plantas",
+          "text": "El resultado que se mide al final del experimento",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. El resultado medido es la variable dependiente, la que cambia como respuesta al experimento."
         },
         {
           "letter": "B",
-          "text": "La temperatura ambiente",
+          "text": "El factor que el investigador modifica de manera deliberada a lo largo del trabajo",
+          "is_correct": true,
+          "feedback": "Correcto. La variable independiente es la que el investigador cambia para observar su efecto."
+        },
+        {
+          "letter": "C",
+          "text": "La característica del lugar donde se realiza el experimento",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. El lugar no es una variable que se manipule para comparar resultados."
         },
         {
           "letter": "D",
-          "text": "El tipo de planta",
+          "text": "El conjunto de instrumentos disponibles en el laboratorio",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. Los instrumentos son parte del montaje experimental y no la variable que se modifica."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "La variable independiente es la que manipula el investigador: la luz.",
-      "difficulty": "4",
+      "correct_answer": "B",
+      "explanation": "En un experimento se distinguen la variable independiente, que se manipula, y la dependiente, que se mide como respuesta.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
+      "bloom": "Apply",
+      "expected_success": 0.75,
       "bundle_id": "SV-CIE-11-2026-W39-investigacion-cientifica-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -189,41 +189,41 @@
     },
     {
       "id": "SV-CIE-11-2026-W39-investigacion-cientifica-001-MASTERY-bundle-v5",
-      "statement": "¿Cuál es la unidad básica de la vida?",
-      "context": "Clase de ciencias en San Miguel estudiando investigacion cientifica.",
+      "statement": "¿Qué variable independiente está en juego en este experimento?",
+      "context": "En una práctica de segundo grado, los grupos miden el tiempo que tarda una pastilla efervescente en disolverse en agua a distintas temperaturas.",
       "options": [
         {
-          "letter": "C",
-          "text": "La célula",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
-        },
-        {
           "letter": "A",
-          "text": "El átomo",
+          "text": "El tiempo que tarda la pastilla en disolverse",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. El tiempo medido es la variable dependiente, es decir, la respuesta que se registra."
         },
         {
           "letter": "B",
-          "text": "La molécula",
+          "text": "La cantidad de agua del recipiente",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. La cantidad de agua no es lo que cambia entre los grupos de esta práctica."
+        },
+        {
+          "letter": "C",
+          "text": "La temperatura del agua, porque es el factor que los grupos cambian",
+          "is_correct": true,
+          "feedback": "Correcto. Cada grupo modifica la temperatura y observa cómo afecta al tiempo de disolución."
         },
         {
           "letter": "D",
-          "text": "El tejido",
+          "text": "La marca comercial de la pastilla utilizada",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. Todos los grupos usan la misma marca de pastilla para que ese factor no influya."
         }
       ],
       "correct_answer": "C",
-      "explanation": "La célula es la unidad estructural y funcional básica de los seres vivos.",
-      "difficulty": "6",
+      "explanation": "Cambiar la temperatura y anotar el tiempo de disolución es un ejemplo clásico de variable independiente y variable dependiente.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Apply",
+      "expected_success": 0.75,
       "bundle_id": "SV-CIE-11-2026-W39-investigacion-cientifica-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -234,172 +234,37 @@
     },
     {
       "id": "SV-CIE-11-2026-W39-investigacion-cientifica-001-MASTERY-bundle-v6",
-      "statement": "¿Qué proceso conviierte luz solar en energía química en las plantas?",
-      "context": "Clase de ciencias en Santa Ana estudiando investigacion cientifica.",
+      "statement": "¿Qué información aporta la dispersión de esas mediciones?",
+      "context": "En una práctica de La Libertad, el grupo registra diez mediciones de la masa de la misma muestra y obtiene valores entre 10,9 y 10,11 gramos.",
       "options": [
         {
-          "letter": "C",
-          "text": "Fotosíntesis",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
-        },
-        {
           "letter": "A",
-          "text": "Respiración celular",
+          "text": "Indica que el instrumento está mal calibrado",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. Un error sistemático se detecta comparando con un patrón, no por la cercanía entre medidas."
         },
         {
           "letter": "B",
-          "text": "Fermentación",
+          "text": "Indica que la muestra estaba mal pesada en todo el procedimiento",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. Una mala calibración del lado no produciría medidas tan agrupadas."
+        },
+        {
+          "letter": "C",
+          "text": "Indica la precisión del instrumento y el error aleatorio de la medición",
+          "is_correct": true,
+          "feedback": "Correcto. La cercanía entre las medidas muestra que el instrumento tiene buena precisión."
         },
         {
           "letter": "D",
-          "text": "Digestión",
+          "text": "Indica que la masa verdadera de la muestra es 10 gramos exactos",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. Las mediciones se agrupan alrededor de un valor cercano a 10 gramos, pero ninguna es el valor exacto."
         }
       ],
       "correct_answer": "C",
-      "explanation": "La fotosíntesis usa luz, agua y CO₂ para producir glucosa y oxígeno.",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "SV-CIE-11-2026-W39-investigacion-cientifica-001-MASTERY-bundle",
-      "periodo": 39,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ciencias-naturales",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-CIE-11-2026-W39-investigacion-cientifica-001-MASTERY-bundle-v7",
-      "statement": "Objeto de 8 kg acelera a 3 m/s². ¿Fuerza aplicada? (F=ma)",
-      "context": "Clase de ciencias en San Miguel estudiando investigacion cientifica.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "24 N",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
-        },
-        {
-          "letter": "A",
-          "text": "16 N",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
-        },
-        {
-          "letter": "B",
-          "text": "27 N",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
-        },
-        {
-          "letter": "D",
-          "text": "8 N",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "F = ma = 8×3 = 24 N.",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "SV-CIE-11-2026-W39-investigacion-cientifica-001-MASTERY-bundle",
-      "periodo": 39,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ciencias-naturales",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-CIE-11-2026-W39-investigacion-cientifica-001-MASTERY-bundle-v8",
-      "statement": "¿Cuál es el órgano más grande del cuerpo humano?",
-      "context": "Clase de ciencias en Soyapango estudiando investigacion cientifica.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "La piel",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
-        },
-        {
-          "letter": "A",
-          "text": "El hígado",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
-        },
-        {
-          "letter": "B",
-          "text": "El corazón",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
-        },
-        {
-          "letter": "C",
-          "text": "Los pulmones",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "La piel es el órgano más grande, cubriendo y protegiendo todo el cuerpo.",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
-      "bundle_id": "SV-CIE-11-2026-W39-investigacion-cientifica-001-MASTERY-bundle",
-      "periodo": 39,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ciencias-naturales",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-CIE-11-2026-W39-investigacion-cientifica-001-MASTERY-bundle-v9",
-      "statement": "En un experimento, plantas con luz crecen más que sin luz. ¿Variable independiente?",
-      "context": "Clase de ciencias en San Miguel estudiando investigacion cientifica.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "La exposición a la luz",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
-        },
-        {
-          "letter": "A",
-          "text": "El crecimiento de las plantas",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
-        },
-        {
-          "letter": "C",
-          "text": "La temperatura ambiente",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
-        },
-        {
-          "letter": "D",
-          "text": "El tipo de planta",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "La variable independiente es la que manipula el investigador: la luz.",
-      "difficulty": "6",
+      "explanation": "Un conjunto de medidas muy agrupadas indica un instrumento preciso; para conocer la cercanía al valor verdadero hay que comparar con un patrón.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -413,38 +278,173 @@
       "country": "sv"
     },
     {
-      "id": "SV-CIE-11-2026-W39-investigacion-cientifica-001-MASTERY-bundle-v10",
-      "statement": "¿Cuál es la unidad básica de la vida?",
-      "context": "Clase de ciencias en San Miguel estudiando investigacion cientifica.",
+      "id": "SV-CIE-11-2026-W39-investigacion-cientifica-001-MASTERY-bundle-v7",
+      "statement": "¿Qué respuesta aclara por qué no basta una sola medición por condición?",
+      "context": "Dos estudiantes discuten si pueden publicar un estudio con una sola medición de cada condición experimental. Ana dice que sí y Beto que no.",
       "options": [
         {
-          "letter": "B",
-          "text": "La célula",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
+          "letter": "A",
+          "text": "Ana tiene razón, porque una medición bien hecha es suficiente para demostrar un resultado",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una medición aislada no permite distinguir un resultado real de un error grande."
         },
         {
-          "letter": "A",
-          "text": "El átomo",
+          "letter": "B",
+          "text": "Ambos tienen razón, según el tamaño de la muestra del experimento",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. El tamaño de la muestra se mide en repeticiones, pero una sola medición por condición nunca basta."
         },
         {
           "letter": "C",
-          "text": "La molécula",
+          "text": "Ninguno tiene razón, porque la ciencia solo acepta conclusiones paradojas",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. La ciencia no prefiere conclusiones paradojas: prefiere evidencia repetida y controlable."
         },
         {
           "letter": "D",
-          "text": "El tejido",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "text": "Beto tiene razón, porque una sola medición no permite conocer el error ni saber si el resultado es confiable",
+          "is_correct": true,
+          "feedback": "Correcto. Sin repeticiones no se puede estimar la dispersión de los datos ni detectar los valores atípicos."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La célula es la unidad estructural y funcional básica de los seres vivos.",
+      "correct_answer": "D",
+      "explanation": "La repetición de mediciones es lo que permite calcular promedios y dispersiones, y con ello afirmar que un resultado es confiable.",
       "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.65,
+      "bundle_id": "SV-CIE-11-2026-W39-investigacion-cientifica-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-CIE-11-2026-W39-investigacion-cientifica-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es la causa más probable de esa diferencia entre ambos equipos?",
+      "context": "Un estudiante compara su resultado con el de otro grupo y los dos son muy distintos, aunque usaron el mismo procedimiento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que uno de los grupos haya usado un material de menor calidad",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si el procedimiento y el equipo eran los mismos, la causa más probable está en la medición y no en la calidad del material."
+        },
+        {
+          "letter": "B",
+          "text": "Que lavariable independiente fuera distinta en cada grupo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enunciado dice que ambos usaron el mismo procedimiento, incluida la variable que se modificó."
+        },
+        {
+          "letter": "C",
+          "text": "Errores de paralaje o de lectura al medir, que afectan a cada observador por separado",
+          "is_correct": true,
+          "feedback": "Correcto. Los errores de lectura y de paralaje explican que dos equipos con el mismo método obtengan valores distintos."
+        },
+        {
+          "letter": "D",
+          "text": "Que lavariable dependiente no tuviera el mismo nombre en cada informe",
+          "is_correct": false,
+          "feedback": "Incorrecto. El nombre de la variable no altera el valor medido ni explica la diferencia entre resultados."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los errores de paralaje, de lectura y de instrumentación son las causas más comunes de resultados distintos entre equipos que siguen el mismo método.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "SV-CIE-11-2026-W39-investigacion-cientifica-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-CIE-11-2026-W39-investigacion-cientifica-001-MASTERY-bundle-v9",
+      "statement": "¿Qué acción corresponde a un estudiante crítico frente a esa afirmación?",
+      "context": "Una publicación de redes sociales afirma que un suplemento natural cura el resfriado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Compartirla de inmediato, porque suena razonable",
+          "is_correct": false,
+          "feedback": "Incorrecto. Compartir sin verificar una afirmación médica puede causar daño y contradice el pensamiento crítico."
+        },
+        {
+          "letter": "B",
+          "text": "Criticarla por su contenido, sin buscar evidencia en ninguna fuente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Criticar sin comprobar es tan poco riguroso como aceptar sin verificar."
+        },
+        {
+          "letter": "C",
+          "text": "Preguntar en redes cuántas opiniones la respaldan y decidir con el resultado",
+          "is_correct": false,
+          "feedback": "Incorrecto. El número de opiniones no es evidencia; importa si el dato tiene respaldo comprobable."
+        },
+        {
+          "letter": "D",
+          "text": "Revisar si la afirmación tiene respaldo científico verificable antes de compartirla",
+          "is_correct": true,
+          "feedback": "Correcto. Verificar el origen del dato y si hay evidencia es la actitud crítica que se espera."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El pensamiento científico exige pedir fuentes, distinguir dato de opinión y aceptar que una afirmación sin evidencia no se sostiene.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "SV-CIE-11-2026-W39-investigacion-cientifica-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-CIE-11-2026-W39-investigacion-cientifica-001-MASTERY-bundle-v10",
+      "statement": "¿Qué nombre recibe esa condición que se mantiene constante?",
+      "context": "En la clase de tercero el profesor pide identificar la parte de un experimento que se mantiene igual en todos los grupos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La variable controlada",
+          "is_correct": true,
+          "feedback": "Correcto. La variable controlada es la que se mantiene igual para que no interfiera con el resultado."
+        },
+        {
+          "letter": "B",
+          "text": "La variable independiente",
+          "is_correct": false,
+          "feedback": "Incorrecto. La variable independiente es la que se modifica a lo largo del experimento."
+        },
+        {
+          "letter": "C",
+          "text": "La variable dependiente",
+          "is_correct": false,
+          "feedback": "Incorrecto. La variable dependiente es el resultado que se mide y que responde a los cambios."
+        },
+        {
+          "letter": "D",
+          "text": "El error experimental",
+          "is_correct": false,
+          "feedback": "Incorrecto. El error experimental es la desviación entre el valor medido y el verdadero, no una condición del montaje."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Sin controlar todas las variables posibles, el resultado puede deberse a un factor distinto del que se quería estudiar.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Remember",
@@ -459,41 +459,41 @@
     },
     {
       "id": "SV-CIE-11-2026-W39-investigacion-cientifica-001-MASTERY-bundle-v11",
-      "statement": "¿Qué proceso conviierte luz solar en energía química en las plantas?",
-      "context": "Clase de ciencias en Mejicanos estudiando investigacion cientifica.",
+      "statement": "¿Qué conclusión se puede validar comparando ambos montajes?",
+      "context": "En una práctica de San Miguel, un grupo calienta agua en un recipiente tapado y otro en uno abierto, y miden la temperatura en cada minuto.",
       "options": [
         {
-          "letter": "D",
-          "text": "Fotosíntesis",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
-        },
-        {
           "letter": "A",
-          "text": "Respiración celular",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "text": "El recipiente abierto pierde calor más rápido, porque el recipiente tapado retiene el vapor",
+          "is_correct": true,
+          "feedback": "Correcto. En el recipiente abierto el agua se evapora y con ella se lleva energía en forma de calor."
         },
         {
           "letter": "B",
-          "text": "Fermentación",
+          "text": "El recipiente tapado se calienta menos porque el vapor no puede salir",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. El recipiente tapado se calienta igual o más, ya que retiene el vapor y limita la pérdida de energía."
         },
         {
           "letter": "C",
-          "text": "Digestión",
+          "text": "El recipiente abierto se calienta más rápido porque la tapa no transmite calor",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. La tapa frena la salida del vapor, así que el recipiente tapado pierde menos energía."
+        },
+        {
+          "letter": "D",
+          "text": "Ambos montajes se calientan igual, porque la cantidad de agua es la misma",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cantidad de agua es igual, pero la diferencia en la pérdida de calor hace que no se comporten igual."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "La fotosíntesis usa luz, agua y CO₂ para producir glucosa y oxígeno.",
-      "difficulty": "8",
+      "correct_answer": "A",
+      "explanation": "Un montaje controlado sirve para poner a prueba una hipótesis: si solo cambia la tapa, cualquier diferencia se le puede atribuir a esa variable.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.7,
       "bundle_id": "SV-CIE-11-2026-W39-investigacion-cientifica-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -504,41 +504,41 @@
     },
     {
       "id": "SV-CIE-11-2026-W39-investigacion-cientifica-001-MASTERY-bundle-v12",
-      "statement": "Objeto de 3 kg acelera a 5 m/s². ¿Fuerza aplicada? (F=ma)",
-      "context": "Clase de ciencias en San Salvador estudiando investigacion cientifica.",
+      "statement": "¿Qué diferencia existe entre el dibujo y el gráfico de barras como formas de presentar datos?",
+      "context": "En clase de segundo grado, el grupo de Ana dibuja su resultado y otro grupo representa los suyos con gráficos de barras.",
       "options": [
         {
-          "letter": "C",
-          "text": "15 N",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
-        },
-        {
           "letter": "A",
-          "text": "12 N",
+          "text": "El dibujo es más exacto que el gráfico porque lo hace el propio investigador",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. Un dibujo no garantiza exactitud; la ventaja del gráfico está en la escala común de comparación."
         },
         {
           "letter": "B",
-          "text": "20 N",
+          "text": "El gráfico permite comparar cantidades con precisión y leer valores aproximados",
+          "is_correct": true,
+          "feedback": "Correcto. Un gráfico de barras traduce los datos a escalas visuales que facilitan la comparación."
+        },
+        {
+          "letter": "C",
+          "text": "El gráfico de barras solo sirve para datos de texto",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. Un gráfico representa datos numéricos, que es justo lo que se mide en el laboratorio."
         },
         {
           "letter": "D",
-          "text": "3 N",
+          "text": "El dibujo siempre muestra mejor la tendencia que el gráfico",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. Un buen gráfico de barras muestra la tendencia con más claridad que un dibujo."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "F = ma = 3×5 = 15 N.",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "Un gráfico de barras o una gráfica de puntos son formas más precisas de presentar resultados porque usan escalas que permiten comparar.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.8,
+      "expected_success": 0.75,
       "bundle_id": "SV-CIE-11-2026-W39-investigacion-cientifica-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -549,41 +549,41 @@
     },
     {
       "id": "SV-CIE-11-2026-W39-investigacion-cientifica-001-MASTERY-bundle-v13",
-      "statement": "¿Cuál es el órgano más grande del cuerpo humano?",
-      "context": "Clase de ciencias en San Miguel estudiando investigacion cientifica.",
+      "statement": "¿Qué elemento de la propuesta NO corresponde a un diseño experimental?",
+      "context": "Un profesor pide a los estudiantes diseñar un experimento para probar si la luz afecta al crecimiento de las plantas.",
       "options": [
         {
-          "letter": "C",
-          "text": "La piel",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
-        },
-        {
           "letter": "A",
-          "text": "El hígado",
+          "text": "El tiempo que dura la germinación",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. El tiempo de germinación es la variable dependiente que se medirá en cada grupo."
         },
         {
           "letter": "B",
-          "text": "El corazón",
+          "text": "La semilla usada en los dos grupos",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. Usar la misma semilla en todos los grupos es una variable controlada, como corresponde."
+        },
+        {
+          "letter": "C",
+          "text": "El grupo de plantas que recibe menos luz",
+          "is_correct": true,
+          "feedback": "Correcto. Ese grupo es el experimental y el que recibe la luz normal actúa como control."
         },
         {
           "letter": "D",
-          "text": "Los pulmones",
+          "text": "La temperatura mantenida igual en el salón",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. Mantener la temperatura igual es otra variable controlada, necesaria para aislar el efecto de la luz."
         }
       ],
       "correct_answer": "C",
-      "explanation": "La piel es el órgano más grande, cubriendo y protegiendo todo el cuerpo.",
-      "difficulty": "8",
+      "explanation": "Un diseño experimental completo necesita un grupo control, una variable independiente, una dependiente y al menos una variable controlada.",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Evaluate",
+      "expected_success": 0.65,
       "bundle_id": "SV-CIE-11-2026-W39-investigacion-cientifica-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -594,37 +594,37 @@
     },
     {
       "id": "SV-CIE-11-2026-W39-investigacion-cientifica-001-MASTERY-bundle-v14",
-      "statement": "En un experimento, plantas con luz crecen más que sin luz. ¿Variable independiente?",
-      "context": "Clase de ciencias en Mejicanos estudiando investigacion cientifica.",
+      "statement": "¿Qué sería lo más riguroso para confirmar que el fertilizante causó ese efecto?",
+      "context": "En un estudio de Usulután, el equipo registra que las plantas con fertilizante crecieron más que las que solo recibieron agua.",
       "options": [
         {
-          "letter": "B",
-          "text": "La exposición a la luz",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
+          "letter": "A",
+          "text": "Aumentar la cantidad de fertilizante hasta que las plantas mueran y anotarlo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dañar las plantas no confirma nada; solo demuestra que el exceso de fertilizante es tóxico."
         },
         {
-          "letter": "A",
-          "text": "El crecimiento de las plantas",
+          "letter": "B",
+          "text": "Preguntar a los vecinos si sus plantas se ven mejor",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. La opinión de los vecinos es un dato subjetivo y no una medición controlada."
         },
         {
           "letter": "C",
-          "text": "La temperatura ambiente",
+          "text": "Mostrar las plantas al profesor y esperar su aprobación",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. La aprobación del docente no sustituye a un experimento controlado ni a datos medidos."
         },
         {
           "letter": "D",
-          "text": "El tipo de planta",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "text": "Repetir el experimento con otro cultivo y con el fertilizante como única variable diferente",
+          "is_correct": true,
+          "feedback": "Correcto. Cambiar de cultivo prueba si el resultado se repite y no depende solo de esa especie."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La variable independiente es la que manipula el investigador: la luz.",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "Un hallazgo se confirma cuando se repite bajo condiciones similares y, mejor aún, con otro organismo o situación.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -639,37 +639,37 @@
     },
     {
       "id": "SV-CIE-11-2026-W39-investigacion-cientifica-001-MASTERY-bundle-v15",
-      "statement": "¿Cuál es la unidad básica de la vida?",
-      "context": "Clase de ciencias en San Miguel estudiando investigacion cientifica.",
+      "statement": "¿Por qué el cuaderno lleva una sección dedicada a las conclusiones?",
+      "context": "En la clase de cuarto grado el profesor muestra un cuaderno donde los resultados están anotados en una tabla y además en un gráfico.",
       "options": [
         {
           "letter": "A",
-          "text": "La célula",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
+          "text": "Para escribir las referencias de los libros consultados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las referencias van en otra parte del cuaderno, porque son el origen de la teoría, no el resultado propio."
         },
         {
           "letter": "B",
-          "text": "El átomo",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "text": "Para expresar lo que aprendieron del trabajo, con base en los datos obtenidos",
+          "is_correct": true,
+          "feedback": "Correcto. La conclusión es la respuesta razonada a la pregunta inicial, apoyada en los datos medidos."
         },
         {
           "letter": "C",
-          "text": "La molécula",
+          "text": "Para dibujar la metodología queuerra seguir en el experimento",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. La metodología se describe antes de la práctica y explica el procedimiento realmente seguido."
         },
         {
           "letter": "D",
-          "text": "El tejido",
+          "text": "Para corregir los errores de los resultados medidos",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. La conclusión no corrige los datos: los interpreta y explica su significado."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "La célula es la unidad estructural y funcional básica de los seres vivos.",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "El informe cierra con la conclusión, que responde a la pregunta de investigación apoyándose en los datos y no en suposiciones.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Remember",
@@ -684,41 +684,41 @@
     },
     {
       "id": "SV-CIE-11-2026-W39-investigacion-cientifica-001-MASTERY-bundle-v16",
-      "statement": "¿Qué proceso conviierte luz solar en energía química en las plantas?",
-      "context": "Clase de ciencias en Mejicanos estudiando investigacion cientifica.",
+      "statement": "¿Qué conclusión es la más adecuada sobre la precisión de esas mediciones?",
+      "context": "Un equipo de San Miguel midió la longitud de un cuaderno tres veces y obtuvo 21, 21 y 22 centimetros.",
       "options": [
         {
-          "letter": "D",
-          "text": "Fotosíntesis",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
-        },
-        {
           "letter": "A",
-          "text": "Respiración celular",
+          "text": "Son exactas, porque la longitud verdadera del cuaderno es 21 centímetros",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. La cercanía entre medidas indica precisión y no exactitud; la exactitud exige comparar con el valor verdadero."
         },
         {
           "letter": "B",
-          "text": "Fermentación",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "text": "Son precisas, porque los tres valores están muy cerca entre sí",
+          "is_correct": true,
+          "feedback": "Correcto. La precisión se juzga por la cercanía entre las medidas repetidas del mismo objeto."
         },
         {
           "letter": "C",
-          "text": "Digestión",
+          "text": "Son imprecisas, porque los tres resultados son distintos entre sí",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. Un centímetro de diferencia entre medidas repetidas es una dispersión pequeña."
+        },
+        {
+          "letter": "D",
+          "text": "Son imprecisas, porque se usó una regla y no un instrumento de precisión",
+          "is_correct": false,
+          "feedback": "Incorrecto. La regla es el instrumento adecuado para medir un cuaderno y no introduce por sí sola imprecisión."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "La fotosíntesis usa luz, agua y CO₂ para producir glucosa y oxígeno.",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "Precisión y exactitud son cosas distintas: la precisión es la cercanía entre medidas y la exactitud es la cercanía al valor verdadero.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.7,
       "bundle_id": "SV-CIE-11-2026-W39-investigacion-cientifica-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -729,41 +729,41 @@
     },
     {
       "id": "SV-CIE-11-2026-W39-investigacion-cientifica-001-MASTERY-bundle-v17",
-      "statement": "Objeto de 8 kg acelera a 3 m/s². ¿Fuerza aplicada? (F=ma)",
-      "context": "Clase de ciencias en Mejicanos estudiando investigacion cientifica.",
+      "statement": "¿Qué relación existe entre la concentración de sal y el punto de ebullición del agua?",
+      "context": "En una práctica de segundo grado, los grupos reciben cuatro soluciones con distinta concentración de sal y deben predecir cuál hará hervir el agua antes.",
       "options": [
         {
-          "letter": "D",
-          "text": "24 N",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
-        },
-        {
           "letter": "A",
-          "text": "16 N",
+          "text": "Al aumentar la sal, el punto de ebullición baja y el agua hierve antes",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. La sal no baja el punto de ebullición; lo eleva, y por eso el agua salada tarda más en hervir."
         },
         {
           "letter": "B",
-          "text": "27 N",
+          "text": "La concentración de sal no modifica el punto de ebullición del agua",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. La sal es un soluto no volátil y sí modifica el punto de ebullición del agua."
         },
         {
           "letter": "C",
-          "text": "8 N",
+          "text": "Al aumentar la sal, el punto de ebullición sube y el agua necesita más calor para hervir",
+          "is_correct": true,
+          "feedback": "Correcto. La sal eleva el punto de ebullición, por eso el agua salada hierve a más de 100 grados."
+        },
+        {
+          "letter": "D",
+          "text": "Al aumentar la sal, el agua hierve a menos de 50 grados",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. El punto de ebullición del agua con sal es superior a 100 grados y no inferior a 50."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "F = ma = 8×3 = 24 N.",
-      "difficulty": "10",
+      "correct_answer": "C",
+      "explanation": "A diferencia del azúcar, la sal tiene un efecto notable y apreciable sobre el punto de ebullición, y por eso se usa para cocer pasta en agua con sal.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.8,
+      "expected_success": 0.75,
       "bundle_id": "SV-CIE-11-2026-W39-investigacion-cientifica-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -774,37 +774,37 @@
     },
     {
       "id": "SV-CIE-11-2026-W39-investigacion-cientifica-001-MASTERY-bundle-v18",
-      "statement": "¿Cuál es el órgano más grande del cuerpo humano?",
-      "context": "Clase de ciencias en San Salvador estudiando investigacion cientifica.",
+      "statement": "¿Cómo se llama la diferencia entre el valor medido y el valor verdadero de una magnitud?",
+      "context": "El profesor explica que en toda medición hay un valor medido y un valor verdadero que se busca con la experimentación.",
       "options": [
         {
-          "letter": "B",
-          "text": "La piel",
+          "letter": "A",
+          "text": "El error de medición",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "Correcto. El error es precisamente la diferencia entre el valor obtenido y el valor verdadero de la magnitud."
         },
         {
-          "letter": "A",
-          "text": "El hígado",
+          "letter": "B",
+          "text": "La precisión del instrumento",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. La precisión describe la cercanía entre medidas repetidas y no la diferencia con el valor verdadero."
         },
         {
           "letter": "C",
-          "text": "El corazón",
+          "text": "La incertidumbre del experimento",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. La incertidumbre describe un intervalo de valores posibles y no una diferencia puntual con el verdadero."
         },
         {
           "letter": "D",
-          "text": "Los pulmones",
+          "text": "La varianza de los datos",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. La varianza mide la dispersión de un conjunto de datos y no el error de una sola medida."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La piel es el órgano más grande, cubriendo y protegiendo todo el cuerpo.",
-      "difficulty": "10",
+      "correct_answer": "A",
+      "explanation": "La exactitud de una medida se juzga por el error: cuanto menor es la diferencia con el valor verdadero, más exacta es la medida.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
@@ -819,41 +819,41 @@
     },
     {
       "id": "SV-CIE-11-2026-W39-investigacion-cientifica-001-MASTERY-bundle-v19",
-      "statement": "En un experimento, plantas con luz crecen más que sin luz. ¿Variable independiente?",
-      "context": "Clase de ciencias en Soyapango estudiando investigacion cientifica.",
+      "statement": "¿Qué ventaja tiene registrar los datos de forma automática en vez de anotarlos a mano?",
+      "context": "En casa de San Vicente, un estudiante conecta un sensor de temperatura a una computadora y registra la temperatura de su cuarto durante una noche.",
       "options": [
         {
-          "letter": "B",
-          "text": "La exposición a la luz",
+          "letter": "A",
+          "text": "Los valores se guardan sin error de transcripción y pueden representarse en un gráfico al instante",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "Correcto. El sensor evita el error de copiado y permite graficar los datos de inmediato."
         },
         {
-          "letter": "A",
-          "text": "El crecimiento de las plantas",
+          "letter": "B",
+          "text": "El sensor mide con mayor precisión que cualquier instrumento profesional",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. La precisión depende del calibrado del sensor y no del hecho de que registre solo."
         },
         {
           "letter": "C",
-          "text": "La temperatura ambiente",
+          "text": "La temperatura medida resulta siempre correcta",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. Ningún instrumento elimina todo error; el sensor también puede desviarse si no se calibra."
         },
         {
           "letter": "D",
-          "text": "El tipo de planta",
+          "text": "No hace falta calibrar el sensor porque registra los datos solo",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. Todo sensor necesita calibrarse para que sus valores sean comparables con los de un instrumento de referencia."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La variable independiente es la que manipula el investigador: la luz.",
-      "difficulty": "10",
+      "correct_answer": "A",
+      "explanation": "Los sistemas de adquisición automática reducen los errores humanos de transcripción, pero siguen necesitando calibración para ser confiables.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
+      "bloom": "Apply",
+      "expected_success": 0.75,
       "bundle_id": "SV-CIE-11-2026-W39-investigacion-cientifica-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -864,41 +864,41 @@
     },
     {
       "id": "SV-CIE-11-2026-W39-investigacion-cientifica-001-MASTERY-bundle-v20",
-      "statement": "¿Cuál es la unidad básica de la vida?",
-      "context": "Clase de ciencias en San Miguel estudiando investigacion cientifica.",
+      "statement": "¿Qué evaluación hace de esa afirmación un estudiante crítico?",
+      "context": "Un investigador presenta un resultado obtenido en una sola muestra y afirma que demuestra una ley general.",
       "options": [
         {
-          "letter": "D",
-          "text": "La célula",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
-        },
-        {
           "letter": "A",
-          "text": "El átomo",
+          "text": "Es correcta, porque la muestra estaba bien elegida y eso garantiza generalidad",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. Elegir bien la muestra ayuda, pero una sola medición sigue sin demostrar que el resultado se repita."
         },
         {
           "letter": "B",
-          "text": "La molécula",
+          "text": "Es correcta, porque toda ley se deduce de una sola observación afortunada",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. Ninguna ley científica se sostiene en una sola observación sin repeticiones."
         },
         {
           "letter": "C",
-          "text": "El tejido",
+          "text": "Es incorrecta, porque toda afirmación general es inherentemente falsa",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. Un hallazgo puntual puede ser real; lo que no se sostiene es presentarlo como una ley general."
+        },
+        {
+          "letter": "D",
+          "text": "Es precipitada, porque una sola muestra no permite generalizar sin repetibilidad",
+          "is_correct": true,
+          "feedback": "Correcto. Generalizar exige replicar el resultado en varias muestras y condiciones antes de llamarlo ley."
         }
       ],
       "correct_answer": "D",
-      "explanation": "La célula es la unidad estructural y funcional básica de los seres vivos.",
-      "difficulty": "10",
+      "explanation": "Una ley científica describe un patrón que se repite. Por eso la evidencia de una generalización tiene que ser repetida y no una sola vez.",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Evaluate",
+      "expected_success": 0.65,
       "bundle_id": "SV-CIE-11-2026-W39-investigacion-cientifica-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",

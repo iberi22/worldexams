@@ -9,41 +9,41 @@
   "questions": [
     {
       "id": "CO-ING-3-2026-W22-likes-dislikes-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: \"I ___ my grandmother. We visit her every Sunday.\"",
+      "context": "Clase de ingles de tercer grado en la que cada estudiante comparte que le gusta de su familia.",
       "options": [
         {
-          "letter": "C",
-          "text": "accommodation",
-          "is_correct": true,
-          "feedback": "Correct! 'accommodation' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "transportation",
+          "text": "dislikes",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "dislikes expresa rechazo y la accion de visitarla cada domingo indica un afecto positivo."
         },
         {
           "letter": "B",
-          "text": "entertainment",
+          "text": "am not liking",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "am not liking no es una forma correcta; el presente simple con negacion es do not like o dont like."
         },
         {
           "letter": "D",
-          "text": "currency",
+          "text": "like",
+          "is_correct": true,
+          "feedback": "la accion habitual de visitarla los domingos indica que la preferencia es positiva: I like my grandmother."
+        },
+        {
+          "letter": "C",
+          "text": "am liking",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "am liking sugiere una preferencia temporal y no es la forma estandar para expresar que algo te gusta en general."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "Para hablar de gustos el ingles usa el presente simple con el verbo to like, tanto para decir I like como para no me gusta, que es I do not like. El indicio de tiempo habitual del enunciado descarta las formas progresivas, que describen una situacion temporal y no una preferencia permanente.",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Lexico",
+      "bloom": "Apply",
+      "icfes_type": "Uso de la lengua",
       "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W22-likes-dislikes-001-MASTERY-bundle",
       "periodo": 22,
@@ -55,41 +55,41 @@
     },
     {
       "id": "CO-ING-3-2026-W22-likes-dislikes-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Read: \"My brother likes soccer but he doesn't like swimming.\" What does the text tell us?",
+      "context": "Lectura de un texto sobre los deportes de un estudiante con su hermana.",
       "options": [
         {
           "letter": "D",
-          "text": "itinerary",
+          "text": "He likes one sport and dislikes another",
           "is_correct": true,
-          "feedback": "Correct! 'itinerary' matches the definition."
+          "feedback": "el texto dice que le gusta el futbol y que no le gusta la natacion, exactamente eso."
         },
         {
           "letter": "A",
-          "text": "baggage",
+          "text": "He likes both sports",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "si le gustaran ambos, el texto no tendria la negacion doesn't like swimming."
         },
         {
           "letter": "B",
-          "text": "destination",
+          "text": "He dislikes both sports",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "la primera parte dice claramente que le gusta el futbol."
         },
         {
           "letter": "C",
-          "text": "passport",
+          "text": "He likes swimming only",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "es la negacion del texto: el texto dice justamente que no le gusta nadar."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
+      "explanation": "El conector but opone dos ideas dentro de la misma oracion. Reconocerlo permite entender que el texto comunica una preferencia y una no preferencia a la vez, y no una idea unica que se pueda resumir sin relacion.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Lexico",
+      "icfes_type": "Uso de la lengua",
       "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W22-likes-dislikes-001-MASTERY-bundle",
       "periodo": 22,
@@ -101,42 +101,42 @@
     },
     {
       "id": "CO-ING-3-2026-W22-likes-dislikes-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Tom does not like carrots. Which sentence says the same thing?",
+      "context": "Ejercicio de respuesta a un cuestionario sobre la comida del recreo.",
       "options": [
         {
-          "letter": "C",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "Correct! 'destination' matches the definition."
+          "letter": "A",
+          "text": "Tom likes carrots a lot.",
+          "is_correct": false,
+          "feedback": "esa frase afirma lo contrario de lo que dice el enunciado."
         },
         {
-          "letter": "A",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "letter": "C",
+          "text": "Tom doesn't like carrots.",
+          "is_correct": true,
+          "feedback": "no le gustan las zanahorias es Tom doesn't like carrots."
         },
         {
           "letter": "B",
-          "text": "arrival",
+          "text": "Tom likes carrots and vegetables.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "esa frase expresa una pasion y contradice la informacion original."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "Tom doesn't eat vegetables at all.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "el enunciado se refiere solo a las zanahorias y ampliar el alcance a todas las verduras es incorreto."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "explanation": "Transformar una oracion negativa exige mantener el alcance exacto de la negacion. Decir que no le gustan las zanahorias no autoriza a concluir que no come ninguna verdura, y esa ampliacion indebida del alcance es el error tipico de comprension en grado tercero.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.85,
       "bundle_id": "CO-ING-3-2026-W22-likes-dislikes-001-MASTERY-bundle",
       "periodo": 22,
       "protocol_version": "5.2",
@@ -147,42 +147,42 @@
     },
     {
       "id": "CO-ING-3-2026-W22-likes-dislikes-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence is correct?",
+      "context": "Dialogo entre dos estudiantes sobre el tiempo libre del fin de semana.",
       "options": [
         {
-          "letter": "D",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "Correct! 'luggage' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "ticket",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
           "letter": "B",
-          "text": "flight",
+          "text": "I likes reading books.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "con el sujeto I el verbo lleva -s en el presente simple, y por eso no puede ser likes."
         },
         {
           "letter": "C",
-          "text": "reservation",
+          "text": "She don't like apples.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "con el sujeto she el verbo debe ser doesnt, y la forma dont corresponde a I o you."
+        },
+        {
+          "letter": "A",
+          "text": "We like drawing.",
+          "is_correct": true,
+          "feedback": "con el sujeto we el verbo aparece en su forma base, sin -s."
+        },
+        {
+          "letter": "D",
+          "text": "They doesn't like soccer.",
+          "is_correct": false,
+          "feedback": "con el sujeto they el verbo de tercera persona es dont, y doesnt corresponde a he o she."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "correct_answer": "A",
+      "explanation": "La terminacion -s se anade solo en la tercera persona del singular: he, she y it. Los pronombres I, you, we y they usan siempre la forma base del verbo, y esa es la regla que resuelven las tres opciones incorrectas de este ejercicio.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.85,
       "bundle_id": "CO-ING-3-2026-W22-likes-dislikes-001-MASTERY-bundle",
       "periodo": 22,
       "protocol_version": "5.2",
@@ -193,41 +193,41 @@
     },
     {
       "id": "CO-ING-3-2026-W22-likes-dislikes-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which food does the child like according to the sentence? \"I like rice and chicken for lunch.\"",
+      "context": "Actividad de dibujo en la que los estudiantes representan sus comidas favoritas.",
       "options": [
         {
-          "letter": "C",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "Correct! 'passenger' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "pedestrian",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
           "letter": "B",
-          "text": "commuter",
+          "text": "Fish",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "el pescado no aparece en la oracion, que solo nombra arroz y pollo."
+        },
+        {
+          "letter": "C",
+          "text": "Soup",
+          "is_correct": false,
+          "feedback": "la sopa tampoco se menciona en la enumeracion del enunciado."
         },
         {
           "letter": "D",
-          "text": "tourist",
+          "text": "Beans",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "los frijoles no forman parte de la lista de alimentos del enunciado."
+        },
+        {
+          "letter": "A",
+          "text": "Chicken",
+          "is_correct": true,
+          "feedback": "el pollo es uno de los dos alimentos enumerados despues de and."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "A",
+      "explanation": "Localizar un elemento dentro de una enumeracion de dos elementos es una microhabilidad de lectura. La conjuncion and separa el arroz del pollo, y solo uno de los dos aparece entre las opciones, lo que hace la pregunta un buen control de comprension literal.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Lexico",
+      "bloom": "Understand",
+      "icfes_type": "Uso de la lengua",
       "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W22-likes-dislikes-001-MASTERY-bundle",
       "periodo": 22,
@@ -239,42 +239,42 @@
     },
     {
       "id": "CO-ING-3-2026-W22-likes-dislikes-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: \"I don't ___ coffee. I drink water.\"",
+      "context": "Ejercicio de escritura de una tarjeta de felicitacion para un amigo.",
       "options": [
         {
-          "letter": "D",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "Correct! 'customs' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "security",
+          "text": "likes",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "likes concuerda con un sujeto en tercera persona, y aqui el sujeto es I."
         },
         {
           "letter": "B",
-          "text": "terminal",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "like",
+          "is_correct": true,
+          "feedback": "despues de don't el verbo aparece en su forma base, sin -s."
         },
         {
           "letter": "C",
-          "text": "gate",
+          "text": "liking",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "liking es la forma en -ing y no puede seguir a un auxiliar de negacion como don't."
+        },
+        {
+          "letter": "D",
+          "text": "am like",
+          "is_correct": false,
+          "feedback": "am like no es una estructura del ingles; la negacion del presente simple es do not más el verbo base."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "La negacion con do not o dont siempre va seguida de la forma base del verbo principal. Esa combinacion es la que explica por que en I don't like la palabra like aparece sin terminacion, un detalle que los estudiantes de tercer grado suelen necesitar practicar de forma isolated.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.85,
       "bundle_id": "CO-ING-3-2026-W22-likes-dislikes-001-MASTERY-bundle",
       "periodo": 22,
       "protocol_version": "5.2",
@@ -285,42 +285,42 @@
     },
     {
       "id": "CO-ING-3-2026-W22-likes-dislikes-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Read: \"My mother loves fruit, but my father prefers vegetables.\" Who likes vegetables?",
+      "context": "Lectura de una pagina sobre las preferencias de alimentos en una familia.",
       "options": [
         {
-          "letter": "B",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "Correct! 'boarding pass' matches the definition."
+          "letter": "A",
+          "text": "The mother",
+          "is_correct": false,
+          "feedback": "la madre ama la fruta segun el texto, y no se menciona que prefiera las verduras."
         },
         {
-          "letter": "A",
-          "text": "visa",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "letter": "B",
+          "text": "The father",
+          "is_correct": true,
+          "feedback": "el texto dice literalmente que el padre prefiere las verduras."
         },
         {
           "letter": "C",
-          "text": "receipt",
+          "text": "Both parents",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "solo el padre las prefiere y la madre es la que ama la fruta."
         },
         {
           "letter": "D",
-          "text": "brochure",
+          "text": "Nobody",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "el texto identifica claramente al padre como quien prefiere las verduras."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
+      "explanation": "Los verbos to love y to prefer no significan exactamente lo mismo: love expresa un afecto intenso y prefer indica una eleccion entre alternativas. El ejercicio comprueba que el estudiante distinga esos dos niveles de intensidad al leer, no solo que identifique al sujeto correcto.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "bloom": "Understand",
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.85,
       "bundle_id": "CO-ING-3-2026-W22-likes-dislikes-001-MASTERY-bundle",
       "periodo": 22,
       "protocol_version": "5.2",
@@ -331,41 +331,41 @@
     },
     {
       "id": "CO-ING-3-2026-W22-likes-dislikes-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence is best for answering the question \"Do you like ice cream?\"",
+      "context": "Ejercicio de reflexion personal para cerrar la unidad de gustos y preferencias.",
       "options": [
         {
-          "letter": "C",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "Correct! 'sightseeing' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "shopping",
+          "text": "No, I don't like ice cream.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "esa respuesta da una preferencia negativa y solo seria correcta si al estudiante no le gustara."
         },
         {
           "letter": "B",
-          "text": "hiking",
+          "text": "Because it is cold and sweet.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "la palabra because responde a la pregunta why, y no a la pregunta si te gusta."
+        },
+        {
+          "letter": "C",
+          "text": "Yes, I like ice cream very much.",
+          "is_correct": true,
+          "feedback": "la estructura Yes, I like responde con si o no y acompania la respuesta con el grado de la preferencia."
         },
         {
           "letter": "D",
-          "text": "camping",
+          "text": "Ice cream is in the kitchen.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "esa oracion informa donde esta el alimento y no expresa ninguna preferencia."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.",
-      "difficulty": "10",
+      "explanation": "Las preguntas con auxiliar do en presente simple admiten respuestas cortas que empiezan por Yes o No. Reconocer que la palabra clave es do evita confundirla con las preguntas de why, where o what, donde la respuesta debe aportar informacion distinta.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Lexico",
+      "bloom": "Apply",
+      "icfes_type": "Uso de la lengua",
       "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W22-likes-dislikes-001-MASTERY-bundle",
       "periodo": 22,
