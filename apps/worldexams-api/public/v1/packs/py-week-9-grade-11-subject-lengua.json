@@ -16,25 +16,25 @@
           "letter": "D",
           "text": "Crear una atmosfera o ambiente",
           "is_correct": true,
-          "feedback": "Correcto. La opción 'Crear una atmosfera o ambiente' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes."
+          "feedback": "Correcto. La descripcion del lugar y de la luz fija el clima de la escena, y eso es exactamente lo que aporta crear una atmosfera o ambiente."
         },
         {
           "letter": "A",
           "text": "Presentar un argumento",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Presentar un argumento' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Incorrecto. No hay tesis ni razones que defender en el fragmento: solo hay una escena observada, de modo que no se presenta ningun argumento."
         },
         {
           "letter": "B",
           "text": "Narrar una secuencia",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Narrar una secuencia' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Incorrecto. El fragmento no encadena hechos ni avanza la accion en el tiempo; describe un estado puntual de la escena, que es lo contrario de narrar una secuencia."
         },
         {
           "letter": "C",
           "text": "Describir un dialogo",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Describir un dialogo' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Incorrecto. No aparece ni una palabra hablada ni un intercambio entre personajes: el fragmento es enteramente visual y no contiene dialogo alguno."
         }
       ],
       "correct_answer": "D",
@@ -61,25 +61,25 @@
           "letter": "A",
           "text": "Funcion expresiva o emotiva",
           "is_correct": true,
-          "feedback": "Correcto. La opción 'Funcion expresiva o emotiva' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes."
+          "feedback": "Correcto. El deseo procede del emisor y no informa de nada comprobable: esa carga subjetiva es la que define la funcion expresiva o emotiva."
         },
         {
           "letter": "B",
           "text": "Funcion referencial",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Funcion referencial' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Incorrecto. La funcion referencial transmite informacion comprobable sobre objetos, hechos o lugares; un deseo de aniversario no aporta ese tipo de informacion."
         },
         {
           "letter": "C",
           "text": "Funcion apelativa",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Funcion apelativa' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Incorrecto. La apelativa busca una reaccion del receptor, con tratamiento de tu o usted o con un ruego directo; aqui no se pide respuesta ni se dirige al oyente."
         },
         {
           "letter": "D",
           "text": "Funcion metalinguistica",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Funcion metalinguistica' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Incorrecto. La metalinguistica usa el lenguaje para hablar del lenguaje, por ejemplo al definir una palabra; un saludo de felicitacion no hace eso."
         }
       ],
       "correct_answer": "A",
@@ -106,25 +106,25 @@
           "letter": "D",
           "text": "ademas",
           "is_correct": true,
-          "feedback": "Correcto. La opción 'ademas' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes."
+          "feedback": "Correcto. 'Ademas' es un conector aditivo: suma un rasgo nuevo sin contradecir lo expuesto antes. Aqui la hermosura de Caaguazu y la cordialidad de su gente son dos datos que se acumulan y ninguno anula al otro."
         },
         {
           "letter": "A",
           "text": "sin embargo",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'sin embargo' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Incorrecto. 'Sin embargo' es adversativo: introduce una idea que se opone a lo que se habia dicho. En esta oracion las dos proposiciones se refuerzan, porque la gente de Caaguazu no contradice a su ciudad, asi que una oposicion seria falsa."
         },
         {
           "letter": "B",
           "text": "por lo tanto",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'por lo tanto' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Incorrecto. 'Por lo tanto' es conclusivo: la segunda proposicion deduce una consecuencia de la primera. Aqui no hay deduccion, sino dos caracteristicas de Caaguazu que se acumulan sin derivarse una de otra."
         },
         {
           "letter": "C",
           "text": "aunque",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'aunque' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Incorrecto. 'Aunque' introduce una concesion: lo que va detras se opone a lo esperado. La segunda proposicion no contradice la primera, la completa, asi que este conector tampoco corresponde."
         }
       ],
       "correct_answer": "D",
@@ -151,25 +151,25 @@
           "letter": "C",
           "text": "Los estudiantes del Colegio Nacional Capata estudian mucho.",
           "is_correct": true,
-          "feedback": "Correcto. La opción 'Los estudiantes del Colegio Nacional Capata estudian mucho.' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes."
+          "feedback": "Correcto. Los nombres propios se escriben con mayuscula en cada componente y con la acentuacion que les corresponde: los topicos de Paraguay van con mayuscula y sin tilde, porque son llanas terminadas en 'a', 'o' e 'i'."
         },
         {
           "letter": "A",
           "text": "Los estudiantes de la escuela estudian poco.",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Los estudiantes de la escuela estudian poco.' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Incorrecto. La oracion esta bien redactada y con buena concordancia, pero 'la escuela' es un nombre comun que puede designar cualquier centro; el enunciado pide el nombre propio completo de la institucion, y aqui no aparece."
         },
         {
           "letter": "B",
           "text": "Los estudiantes del instituto no estudian nada.",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Los estudiantes del instituto no estudian nada.' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Incorrecto. 'El instituto' vuelve a sustituir el nombre propio por una denominacion generica. La negacion 'no estudian nada' es correcta, pero no aporta el dato que el enunciado evalua."
         },
         {
           "letter": "D",
           "text": "Los estudiantes del instituto estudian mucho.",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Los estudiantes del instituto estudian mucho.' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Incorrecto. Comparte con la correcta la concordancia y el verbo 'estudian mucho', y se diferencia en un solo punto decisivo: emplea 'el instituto', un nombre comun, en lugar del nombre oficial completo."
         }
       ],
       "correct_answer": "C",
@@ -196,25 +196,25 @@
           "letter": "B",
           "text": "Adjetiva o de relativo",
           "is_correct": true,
-          "feedback": "Correcto. La opción 'Adjetiva o de relativo' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes."
+          "feedback": "Correcto. La subordinada ocupa el lugar de un adjetivo y califica al sustantivo, indicandolo que es de ese tipo."
         },
         {
           "letter": "A",
           "text": "Sustantiva",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Sustantiva' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Incorrecto. Seria sustantiva si ocupara el lugar de un sustantivo completo de la oracion. Aqui no ocupa ese lugar: se limita a calificar al sustantivo."
         },
         {
           "letter": "C",
           "text": "Adverbial",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Adverbial' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Incorrecto. Seria adverbial si modificara al verbo respondiendo a cuando, por que o de que manera. Aqui no responde a nada de eso, sino que senala de que tipo es el sustantivo."
         },
         {
           "letter": "D",
           "text": "Coordinada copulativa",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Coordinada copulativa' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Incorrecto. No hay coordinacion alguna: la copulativa une dos sujetos o dos verbos con 'y'. Esa subordinada depende de un sustantivo, de modo que no coordina con nada."
         }
       ],
       "correct_answer": "B",
@@ -241,25 +241,25 @@
           "letter": "C",
           "text": "examen",
           "is_correct": true,
-          "feedback": "Correcto. La opción 'examen' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes."
+          "feedback": "Correcto. 'Examen' es esdrújula: el acento grafico cae en la antepenultima silaba, la 'e', de modo que lleva tilde siempre."
         },
         {
           "letter": "A",
           "text": "sol",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'sol' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Incorrecto. 'Sol' es monosilaba, y las palabras de una sola silaba nunca llevan tilde diacritica, aunque terminen en vocal."
         },
         {
           "letter": "B",
           "text": "papel",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'papel' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Incorrecto. 'Papel' es llana y terminada en 'l', consonante distinta de 'n' y 's', que es el caso de llanas que si lleva tilde; lleva tilde, pero no por ser esdrújula como 'examen'."
         },
         {
           "letter": "D",
           "text": "jamas",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'jamas' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Incorrecto. 'Jamas' lleva tilde por ser esdrújula, con el acento en la antepenultima silaba. Es el unico distractor que tambien la lleva, pero por esa causa y no por ser llana."
         }
       ],
       "correct_answer": "C",
@@ -286,25 +286,25 @@
           "letter": "C",
           "text": "Metafora",
           "is_correct": true,
-          "feedback": "Correcto. La opción 'Metafora' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes."
+          "feedback": "Correcto. La identificacion es directa y no hay nexo comparativo: un termino real se presenta como otro por semejanza, sin 'como' ni 'parecido a'."
         },
         {
           "letter": "A",
           "text": "Comparacion",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Comparacion' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Incorrecto. Una comparacion necesita un nexo explicito ('como', 'parecido a', 'semejante a') que aqui no aparece; la imagen se establece por identificacion directa."
         },
         {
           "letter": "B",
           "text": "Hiparbole",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Hiparbole' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Incorrecto. No hay exageracion ni aumento del sentido para reforzar un efecto: la imagen se limita a aproximar dos cosas sin exceder lo verosimil."
         },
         {
           "letter": "D",
           "text": "Personificacion",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Personificacion' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Incorrecto. No se atribuye accion, emocion ni voluntad a un elemento no humano; lo que se compara son partes de la persona, que siguen siendo suyas."
         }
       ],
       "correct_answer": "C",
@@ -331,7 +331,7 @@
           "letter": "A",
           "text": "examenes",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'examenes' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Incorrecto. 'Examenes' conserva las tres silabas (e-xa-me-nes), de modo que es esdrújula, pero toda esdrújula lleva tilde en la antepenultima silaba sin excepcion."
         },
         {
           "letter": "B",
@@ -343,13 +343,13 @@
           "letter": "C",
           "text": "examénes",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'examénes' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Incorrecto. La tilde cae sobre la vocal equivocada: la silaba tonica de 'exámenes' es la antepenultima, la 'a', de modo que la tilde debe ir ahi y no sobre la 'e'."
         },
         {
           "letter": "D",
           "text": "examene's",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'examene's' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Incorrecto. El apostrofo es un signo de vocativo o tratamiento, no de acentuacion, y aqui no hay a quien dirigirse. El plural se forma anadiendo '-es', sin ningun signo."
         }
       ],
       "correct_answer": "B",
@@ -376,25 +376,25 @@
           "letter": "B",
           "text": "Narrativo-lirico con elementos del romance tradicional",
           "is_correct": true,
-          "feedback": "Correcto. La opción 'Narrativo-lirico con elementos del romance tradicional' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes."
+          "feedback": "Correcto. El poema cuenta una escena nocturna con la luna como interlocutor y conserva el ritmo versificado del romance tradicional, de modo que combina narracion y lirismo."
         },
         {
           "letter": "A",
           "text": "Exclusivamente dramatico",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Exclusivamente dramatico' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Incorrecto. No hay personajes dialogando ni conflicto teatral: la accion se narra en verso, no se representa ante un publico."
         },
         {
           "letter": "C",
           "text": "Ensayo filosofico en verso",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Ensayo filosofico en verso' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Incorrecto. No desarrolla una reflexion argumentada sobre una idea; el poema recupera un motivo del folclore y lo canta, no lo razona."
         },
         {
           "letter": "D",
           "text": "Poema epico clasico",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Poema epico clasico' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Incorrecto. Lo epico narra hazañas de grandes personajes en tono heroico, y aqui solo hay una escena breve con la luna, sin hazañas ni elevacion."
         }
       ],
       "correct_answer": "B",
@@ -421,25 +421,25 @@
           "letter": "D",
           "text": "El agua es esencial para la vida y debe cuidarse",
           "is_correct": true,
-          "feedback": "Correcto. La opción 'El agua es esencial para la vida y debe cuidarse' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes."
+          "feedback": "Correcto. La idea principal sostiene que el agua es un recurso vital y que hay que cuidarla; las demas opciones recortan ese mensaje o lo contradicen."
         },
         {
           "letter": "A",
           "text": "El agua solo se usa para beber",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'El agua solo se usa para beber' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Incorrecto. Reduce el agua a un solo uso domestico. El texto la presenta como recurso vital para la vida en general, not unicamente como algo con que beber."
         },
         {
           "letter": "B",
           "text": "El agua no es importante",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'El agua no es importante' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Incorrecto. Contradice de frente al texto: si el agua careciera de importancia, no tendria sentido que el texto insistiera en su cuidado. Una idea principal entre las opciones no puede negar lo que el propio texto afirma."
         },
         {
           "letter": "C",
           "text": "El agua es un recurso infinito",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'El agua es un recurso infinito' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Incorrecto. Afirma que el agua es inagotable y con ello borra la necesidad de cuidarla, que es justamente la tesis que el texto sostiene."
         }
       ],
       "correct_answer": "D",
@@ -459,36 +459,36 @@
     },
     {
       "id": "PY-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v11",
-      "statement": "En una lectura: 'El sol brillaba mientras los pajaros cantaban'. ¿Que funcion cumple?",
+      "statement": "En el fragmento «Cuando Elena llegó a Asunción, la reunión ya había terminado», ¿qué relación temporal establece el uso de «había terminado»?",
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
           "letter": "A",
-          "text": "Crear una atmosfera o ambiente",
+          "text": "La reunión terminó antes de la llegada de Elena.",
           "is_correct": true,
-          "feedback": "Correcto. La opción 'Crear una atmosfera o ambiente' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes."
+          "feedback": "El pretérito pluscuamperfecto «había terminado» presenta una acción anterior a otra acción pasada, la llegada de Elena."
         },
         {
           "letter": "B",
-          "text": "Presentar un argumento",
+          "text": "La reunión terminó después de la llegada de Elena.",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Presentar un argumento' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Esta interpretación invierte la relación temporal: «ya había terminado» sitúa el final antes de la llegada."
         },
         {
           "letter": "C",
-          "text": "Narrar una secuencia",
+          "text": "La reunión comenzó exactamente cuando Elena llegó.",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Narrar una secuencia' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "El verbo describe el final de la reunión y marca anterioridad; no indica un comienzo simultáneo con la llegada."
         },
         {
           "letter": "D",
-          "text": "Describir un dialogo",
+          "text": "La reunión todavía no ha terminado en el presente.",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Describir un dialogo' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "La forma «había terminado» presenta una acción concluida en el pasado, no una reunión que continúa en el presente."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Las descripciones ayudan a crear la atmosfera en la narracion.\n\n---",
+      "explanation": "El pretérito pluscuamperfecto expresa anterioridad respecto de otro momento pasado. La reunión ya estaba concluida cuando Elena llegó.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -504,36 +504,36 @@
     },
     {
       "id": "PY-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v12",
-      "statement": "¿Cual es la funcion del lenguaje en: '¡Feliz cumpleanos!'?",
+      "statement": "¿Qué función del lenguaje predomina cuando una docente explica: «Un sinónimo es una palabra de significado igual o semejante al de otra»?",
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
           "letter": "A",
-          "text": "Funcion expresiva o emotiva",
+          "text": "La función metalingüística.",
           "is_correct": true,
-          "feedback": "Correcto. La opción 'Funcion expresiva o emotiva' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes."
+          "feedback": "La función metalingüística aparece cuando se usa el lenguaje para explicar el propio código lingüístico, como el concepto de sinónimo."
         },
         {
           "letter": "B",
-          "text": "Funcion referencial",
+          "text": "La función fática.",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Funcion referencial' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "La función fática comprueba o mantiene el contacto comunicativo; aquí se define un concepto del lenguaje."
         },
         {
           "letter": "C",
-          "text": "Funcion apelativa",
+          "text": "La función emotiva.",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Funcion apelativa' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "La función emotiva expresa sentimientos del emisor; la docente ofrece una definición lingüística."
         },
         {
           "letter": "D",
-          "text": "Funcion metalinguistica",
+          "text": "La función poética.",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Funcion metalinguistica' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "La función poética destaca la forma expresiva del mensaje; en este caso predomina la explicación del código."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La funcion expresiva se centra en el emisor y expresa sentimientos.\n\n---",
+      "explanation": "La función metalingüística permite hablar sobre el lenguaje mismo, por ejemplo al definir palabras o explicar reglas gramaticales.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -556,25 +556,25 @@
           "letter": "C",
           "text": "ademas",
           "is_correct": true,
-          "feedback": "Correcto. La opción 'ademas' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes."
+          "feedback": "Correcto. 'Ademas' es un conector aditivo: suma un rasgo nuevo sin contradecir lo expuesto antes. Aqui la hermosura de Pilar y la cordialidad de su gente son dos datos que se acumulan y ninguno anula al otro."
         },
         {
           "letter": "A",
           "text": "sin embargo",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'sin embargo' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Incorrecto. 'Sin embargo' es adversativo: introduce una idea que se opone a lo que se habia dicho. En esta oracion las dos proposiciones se refuerzan, porque la gente de Pilar no contradice a su ciudad, asi que una oposicion seria falsa."
         },
         {
           "letter": "B",
           "text": "por lo tanto",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'por lo tanto' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Incorrecto. 'Por lo tanto' es conclusivo: la segunda proposicion deduce una consecuencia de la primera. Aqui no hay deduccion, sino dos caracteristicas de Pilar que se acumulan sin derivarse una de otra."
         },
         {
           "letter": "D",
           "text": "aunque",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'aunque' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Incorrecto. 'Aunque' introduce una concesion: lo que va detras se opone a lo esperado. La segunda proposicion no contradice la primera, la completa, asi que este conector tampoco corresponde."
         }
       ],
       "correct_answer": "C",
@@ -601,25 +601,25 @@
           "letter": "A",
           "text": "Los estudiantes del Colegio Nacional Pedro Juan Caballero estudian mucho.",
           "is_correct": true,
-          "feedback": "Correcto. La opción 'Los estudiantes del Colegio Nacional Pedro Juan Caballero estudian mucho.' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes."
+          "feedback": "Correcto. Los nombres propios se escriben con mayuscula en cada componente y con la acentuacion que les corresponde: los topicos de Paraguay van con mayuscula y sin tilde, porque son llanas terminadas en 'a', 'o' e 'i'."
         },
         {
           "letter": "B",
           "text": "Los estudiantes de la escuela estudian poco.",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Los estudiantes de la escuela estudian poco.' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Incorrecto. La oracion esta bien redactada y con buena concordancia, pero 'la escuela' es un nombre comun que puede designar cualquier centro; el enunciado pide el nombre propio completo de la institucion, y aqui no aparece."
         },
         {
           "letter": "C",
           "text": "Los estudiantes del instituto no estudian nada.",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Los estudiantes del instituto no estudian nada.' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Incorrecto. 'El instituto' vuelve a sustituir el nombre propio por una denominacion generica. La negacion 'no estudian nada' es correcta, pero no aporta el dato que el enunciado evalua."
         },
         {
           "letter": "D",
           "text": "Los estudiantes del instituto estudian mucho.",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Los estudiantes del instituto estudian mucho.' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Incorrecto. Comparte con la correcta la concordancia y el verbo 'estudian mucho', y se diferencia en un solo punto decisivo: emplea 'el instituto', un nombre comun, en lugar del nombre oficial completo."
         }
       ],
       "correct_answer": "A",
@@ -646,25 +646,25 @@
           "letter": "A",
           "text": "Adjetiva o de relativo",
           "is_correct": true,
-          "feedback": "Correcto. La opción 'Adjetiva o de relativo' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes."
+          "feedback": "Correcto. La subordinada ocupa el lugar de un adjetivo y califica al sustantivo, indicandolo que es de ese tipo."
         },
         {
           "letter": "B",
           "text": "Sustantiva",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Sustantiva' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Incorrecto. Seria sustantiva si ocupara el lugar de un sustantivo completo de la oracion. Aqui no ocupa ese lugar: se limita a calificar al sustantivo."
         },
         {
           "letter": "C",
           "text": "Adverbial",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Adverbial' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Incorrecto. Seria adverbial si modificara al verbo respondiendo a cuando, por que o de que manera. Aqui no responde a nada de eso, sino que senala de que tipo es el sustantivo."
         },
         {
           "letter": "D",
           "text": "Coordinada copulativa",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Coordinada copulativa' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Incorrecto. No hay coordinacion alguna: la copulativa une dos sujetos o dos verbos con 'y'. Esa subordinada depende de un sustantivo, de modo que no coordina con nada."
         }
       ],
       "correct_answer": "A",
@@ -691,25 +691,25 @@
           "letter": "B",
           "text": "arbol",
           "is_correct": true,
-          "feedback": "Correcto. La opción 'arbol' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes."
+          "feedback": "Correcto. 'Arbol' es esdrújula porque conserva el acento grafico en la antepenultima silaba, de modo que lleva tilde siempre y sin excepcion."
         },
         {
           "letter": "A",
           "text": "casa",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'casa' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Incorrecto. 'Casa' es llana y terminada en vocal: las llanas terminadas en 'a', 'e', 'o' no llevan tilde diacritica."
         },
         {
           "letter": "C",
           "text": "calor",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'calor' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Incorrecto. 'Calor' tambien es llana y terminada en vocal, asi que se escribe sin tilde; responde al mismo criterio que 'casa', pero por otra palabra."
         },
         {
           "letter": "D",
           "text": "pared",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'pared' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Incorrecto. 'Pared' es llana y terminada en 'd', consonante distinta de 'n' y 's', que es el unico caso de llanas que si lleva tilde. Aun asi no es la palabra esdrújula que se pedia."
         }
       ],
       "correct_answer": "B",
@@ -729,36 +729,36 @@
     },
     {
       "id": "PY-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v17",
-      "statement": "¿Que figura literaria se emplea en 'tus ojos son dos luceros'?",
+      "statement": "Compara «El viento golpeó la ventana» con «El viento, impaciente, exigió que le abrieran». ¿Qué recurso aparece de manera inequívoca en la segunda expresión?",
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
-          "letter": "B",
-          "text": "Metafora",
-          "is_correct": true,
-          "feedback": "Correcto. La opción 'Metafora' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes."
+          "letter": "A",
+          "text": "Símil, porque compara expresamente el viento con una persona mediante «como».",
+          "is_correct": false,
+          "feedback": "No aparece una comparación explícita mediante «como»; el texto atribuye directamente rasgos humanos al viento."
         },
         {
-          "letter": "A",
-          "text": "Comparacion",
+          "letter": "B",
+          "text": "Hipérbole, porque indica una cantidad exagerada de ventanas.",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Comparacion' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "La expresión no exagera ninguna cantidad de ventanas; su efecto procede de humanizar al viento."
         },
         {
           "letter": "C",
-          "text": "Hiparbole",
+          "text": "Onomatopeya, porque reproduce el sonido del viento con una palabra imitativa.",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Hiparbole' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "No se utiliza una palabra que imite un sonido; «impaciente» y «exigió» describen rasgos humanos."
         },
         {
           "letter": "D",
-          "text": "Personificacion",
-          "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Personificacion' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "text": "Personificación, porque atribuye al viento una emoción y una exigencia humanas.",
+          "is_correct": true,
+          "feedback": "La impaciencia y el acto de exigir se atribuyen a un elemento natural, lo que constituye una personificación."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La metafora identifica un termino real con uno imaginario por su semejanza.\n\n---",
+      "correct_answer": "D",
+      "explanation": "La segunda expresión personifica al viento al darle una emoción y una intención humanas. La primera puede describir simplemente un efecto físico.",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -781,7 +781,7 @@
           "letter": "A",
           "text": "arboles",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'arboles' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Incorrecto. 'Arboles' tiene dos silabas (ar-bo-les), de modo que es llana y terminada en 's', que nunca lleva tilde; el arbol en singular si la lleva por ser esdrújulo."
         },
         {
           "letter": "B",
@@ -793,13 +793,13 @@
           "letter": "C",
           "text": "arbolés",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'arbolés' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Incorrecto. La tilde cae sobre la ultima vocal, y una palabra terminada en 's' jamas es aguda: si 'arboles' fuera aguda llevaria tilde, de modo que esa escritura es imposible."
         },
         {
           "letter": "D",
           "text": "árbolé's",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'árbolé's' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Incorrecto. El apostrofo es un signo de vocativo o tratamiento, no de acentuacion, y ademas la tilde sobra: en plural el arbol deja de ser esdrújulo."
         }
       ],
       "correct_answer": "B",
@@ -819,36 +819,36 @@
     },
     {
       "id": "PY-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle-v19",
-      "statement": "¿El 'Romance de la luna, luna' de Federico Garcia Lorca es un poema de tipo?",
+      "statement": "Un comentario sobre un cuento afirma: «El narrador conoce los pensamientos de todos los personajes». Sin embargo, el fragmento disponible dice: «Vi a Julia guardar la carta; no supe qué pensaba». ¿Cuál es la evaluación mejor fundamentada del comentario a partir de ese fragmento?",
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
-          "letter": "C",
-          "text": "Narrativo-lirico con elementos del romance tradicional",
-          "is_correct": true,
-          "feedback": "Correcto. La opción 'Narrativo-lirico con elementos del romance tradicional' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes."
-        },
-        {
           "letter": "A",
-          "text": "Exclusivamente dramatico",
+          "text": "Está respaldado: observar una acción permite conocer necesariamente todos los pensamientos.",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Exclusivamente dramatico' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Ver que Julia guarda una carta no permite saber sus pensamientos; el propio narrador declara que los desconoce."
         },
         {
           "letter": "B",
-          "text": "Ensayo filosofico en verso",
+          "text": "Está respaldado: cualquier narrador que usa «yo» es omnisciente.",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Ensayo filosofico en verso' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "La primera persona indica participación o perspectiva personal, pero no garantiza conocimiento de la mente de todos los personajes."
+        },
+        {
+          "letter": "C",
+          "text": "No está respaldado: el narrador reconoce que desconoce el pensamiento de Julia.",
+          "is_correct": true,
+          "feedback": "La frase «no supe qué pensaba» muestra una limitación explícita del conocimiento del narrador y contradice la afirmación del comentario."
         },
         {
           "letter": "D",
-          "text": "Poema epico clasico",
+          "text": "No puede evaluarse ninguna afirmación sobre un narrador mediante citas del relato.",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Poema epico clasico' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Las citas aportan evidencia textual para evaluar interpretaciones; aquí la limitación de conocimiento está expresada directamente."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Lorca utiliza la estructura del romance tradicional para crear un poema narrativo-lirico.\n\n---",
+      "explanation": "Una interpretación debe ajustarse a la evidencia textual. El fragmento muestra que el narrador desconoce el pensamiento de Julia, por lo que no respalda la omnisciencia atribuida.",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -871,25 +871,25 @@
           "letter": "D",
           "text": "El agua es esencial para la vida y debe cuidarse",
           "is_correct": true,
-          "feedback": "Correcto. La opción 'El agua es esencial para la vida y debe cuidarse' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes."
+          "feedback": "Correcto. La idea principal sostiene que el agua es un recurso vital y que hay que cuidarla; las demas opciones recortan ese mensaje o lo contradicen."
         },
         {
           "letter": "A",
           "text": "El agua solo se usa para beber",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'El agua solo se usa para beber' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Incorrecto. Reduce el agua a un solo uso domestico. El texto la presenta como recurso vital para la vida en general, not unicamente como algo con que beber."
         },
         {
           "letter": "B",
           "text": "El agua no es importante",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'El agua no es importante' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Incorrecto. Contradice de frente al texto: si el agua careciera de importancia, no tendria sentido que el texto insistiera en su cuidado. Una idea principal entre las opciones no puede negar lo que el propio texto afirma."
         },
         {
           "letter": "C",
           "text": "El agua es un recurso infinito",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'El agua es un recurso infinito' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Incorrecto. Afirma que el agua es inagotable y con ello borra la necesidad de cuidarla, que es justamente la tesis que el texto sostiene."
         }
       ],
       "correct_answer": "D",

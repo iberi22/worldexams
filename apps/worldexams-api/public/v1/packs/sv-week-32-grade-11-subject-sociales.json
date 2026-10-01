@@ -54,36 +54,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W32-urbanizacion-001-MASTERY-bundle-v2",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
+      "statement": "Una familia rural se traslada a la capital para trabajar. ¿Qué efecto inmediato tiene ese movimiento en la ciudad?",
       "context": "Clase de ciencias sociales en Soyapango estudiando urbanizacion.",
       "options": [
         {
-          "letter": "A",
-          "text": "Urbanización masiva y nuevas clases sociales",
+          "letter": "C",
+          "text": "Aumenta la demanda de vivienda, transporte y servicios urbanos",
           "is_correct": true,
-          "feedback": "Correcto. La industrialización concentró a los trabajadores en las ciudades y ensanchó la burguesía y el proletariado como clases nuevas."
+          "feedback": "Correcto. Cada familia que llega a la ciudad presiona el suelo, el transporte y los servicios públicos."
+        },
+        {
+          "letter": "A",
+          "text": "La ciudad pierde poblacion activa",
+          "is_correct": false,
+          "feedback": "La llegada de migrantes aumenta la poblacion activa urbana, no la reduce."
         },
         {
           "letter": "B",
-          "text": "Retorno a la vida agrícola",
+          "text": "El campo recupera su poblacion",
           "is_correct": false,
-          "feedback": "La revolución industrial desplazó el trabajo del campo a la fábrica y a la ciudad, no de vuelta a la vida agrícola."
-        },
-        {
-          "letter": "C",
-          "text": "Disminución del comercio global",
-          "is_correct": false,
-          "feedback": "La producción industrial exigía materias primas y mercados, de modo que el comercio internacional creció en vez de disminuir."
+          "feedback": "La partida de trabajadores deja al campo con menos manos, no recupera gente."
         },
         {
           "letter": "D",
-          "text": "Eliminación del trabajo manual",
+          "text": "La ciudad se ordena sola sin intervencion",
           "is_correct": false,
-          "feedback": "El trabajo manual se intensificó en las fábricas y la máquina solo transformó su forma, no lo eliminó."
+          "feedback": "El crecimiento espontaneo produce congestiones y deficit de servicios que exigen planificacion."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
+      "correct_answer": "C",
+      "explanation": "La migracion rural urbana de hoy concentra demanda de vivienda, transporte y servicios en las ciudades.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -99,36 +99,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W32-urbanizacion-001-MASTERY-bundle-v3",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
+      "statement": "¿Qué caracteriza a un asentamiento humano informal en una ciudad centroamericana?",
       "context": "Clase de ciencias sociales en Soyapango estudiando urbanizacion.",
       "options": [
         {
-          "letter": "D",
-          "text": "Derechos humanos fundamentales",
-          "is_correct": true,
-          "feedback": "Correcto. La Constitución de un país democrático reconoce los derechos humanos fundamentales como límite al poder del Estado."
-        },
-        {
           "letter": "A",
-          "text": "Solo derechos de propiedad",
-          "is_correct": false,
-          "feedback": "El derecho de propiedad es uno más entre los reconocidos, y limitar la Constitución a la propiedad dejaría fuera los demás."
+          "text": "Surge en terrenos sin regularización legal y carece de servicios básicos",
+          "is_correct": true,
+          "feedback": "Correcto. El asentamiento informal ocupa suelo sin titulo legal y se queda sin agua, luz ni alcantarillado."
         },
         {
           "letter": "B",
-          "text": "Únicamente derechos políticos",
+          "text": "Nace con una planificación urbana reglamentada",
           "is_correct": false,
-          "feedback": "El voto y la participación política son una parte del catálogo, no la totalidad de los derechos de una Constitución democrática."
+          "feedback": "La planificacion con norma es propia de un barrio formal, no del asentamiento informal."
         },
         {
           "letter": "C",
-          "text": "Derechos exclusivos del gobierno",
+          "text": "Sus viviendas tienen todas titulo de propiedad",
           "is_correct": false,
-          "feedback": "Son los ciudadanos los titulares de los derechos, y además esos derechos limitan al gobierno en lugar de pertenecerle."
+          "feedback": "La falta de titulo de propiedad es justamente lo que caracteriza a la informalidad."
+        },
+        {
+          "letter": "D",
+          "text": "Recibe todos los servicios desde el primer dia",
+          "is_correct": false,
+          "feedback": "Los servicios publicos suelen llegar despues, empujados por la misma comunidad organizada."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
+      "correct_answer": "A",
+      "explanation": "El asentamiento humano informal crece fuera de la norma urbanistica y sin cobertura de servicios basicos.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -189,36 +189,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W32-urbanizacion-001-MASTERY-bundle-v5",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
+      "statement": "¿Qué rama del conocimiento se ocupa de planificar y ordenar el crecimiento de las ciudades?",
       "context": "Clase de ciencias sociales en Soyapango estudiando urbanizacion.",
       "options": [
         {
-          "letter": "C",
-          "text": "El asesinato del Archiduque Francisco Fernando",
+          "letter": "D",
+          "text": "La urbanística",
           "is_correct": true,
-          "feedback": "Correcto. El asesinato del archiduque Francisco Fernando en Sarajevo en 1914 fue el detonante inmediato de la Primera Guerra Mundial."
+          "feedback": "Correcto. La urbanistica ordena el crecimiento de la ciudad y define el uso del suelo."
         },
         {
           "letter": "A",
-          "text": "El Tratado de Versalles",
+          "text": "La geografia",
           "is_correct": false,
-          "feedback": "El Tratado de Versalles se firmó en 1919 para cerrar la guerra, de modo que fue una consecuencia y no una causa."
+          "feedback": "La geografia describe y localiza el territorio, pero no planifica el crecimiento urbano."
         },
         {
           "letter": "B",
-          "text": "La Revolución Rusa",
+          "text": "La demografia",
           "is_correct": false,
-          "feedback": "La Revolución Rusa ocurrió en 1917, ya en plena guerra, y fue ajena al estallido de 1914."
+          "feedback": "La demografia estudia las poblaciones y sus movimientos, no el ordenamiento de la ciudad."
         },
         {
-          "letter": "D",
-          "text": "La invención del avión",
+          "letter": "C",
+          "text": "La cartografia",
           "is_correct": false,
-          "feedback": "El avión fue inventado en 1903 y es un hecho técnico, no un detonante diplomático."
+          "feedback": "La cartografia representa el territorio en mapas, es una herramienta y no una disciplina urbanizadora."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
+      "correct_answer": "D",
+      "explanation": "La urbanistica es la disciplina que planea y regula el crecimiento ordenado de las ciudades.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -234,36 +234,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W32-urbanizacion-001-MASTERY-bundle-v6",
-      "statement": "¿Qué documento establece la organización del Estado?",
+      "statement": "Una ciudad crece más rápido de lo que el gobierno amplía sus servicios. ¿Qué problema urbano se agrava?",
       "context": "Clase de ciencias sociales en Soyapango estudiando urbanizacion.",
       "options": [
         {
           "letter": "B",
-          "text": "La Constitución",
+          "text": "El rezago en infraestructura urbana",
           "is_correct": true,
-          "feedback": "Correcto. La Constitución es la norma fundamental que estructura los poderes del Estado y fija sus límites."
+          "feedback": "Correcto. La poblacion crece y la red de agua, luz y vialidad queda por detras de esa demanda."
         },
         {
           "letter": "A",
-          "text": "Una ley ordinaria",
+          "text": "La sobra de viviendas",
           "is_correct": false,
-          "feedback": "Una ley ordinaria se limita a desarrollar una regla ya existente, no organiza los poderes del Estado entero."
+          "feedback": "La infrastructura insuficiente produce escasez, no sobra, de servicios en la ciudad."
         },
         {
           "letter": "C",
-          "text": "Un decreto presidencial",
+          "text": "La planificacion de la poblacion rural",
           "is_correct": false,
-          "feedback": "Un decreto presidencial es una decisión del ejecutivo sobre un asunto concreto, de rango menor que la Constitución."
+          "feedback": "El enunciado habla de una ciudad que crece, no de una zona rural que se planifique."
         },
         {
           "letter": "D",
-          "text": "Un tratado internacional",
+          "text": "El exceso de calles peatonales",
           "is_correct": false,
-          "feedback": "Un tratado internacional obliga entre Estados firmantes, no es la norma que organiza el gobierno de un país."
+          "feedback": "El problema es la falta de obras, no el exceso de calles peatonales en la ciudad."
         }
       ],
       "correct_answer": "B",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
+      "explanation": "Cuando el crecimiento urbano supera la inversion publica aparece el rezago de infraestructura urbana.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -279,36 +279,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W32-urbanizacion-001-MASTERY-bundle-v7",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
+      "statement": "Una familia que antes caminaba al trabajo ahora necesita tomar dos autobuses. ¿Qué cambio urbano explica esa distancia?",
       "context": "Clase de ciencias sociales en Mejicanos estudiando urbanizacion.",
       "options": [
         {
-          "letter": "B",
-          "text": "Urbanización masiva y nuevas clases sociales",
+          "letter": "A",
+          "text": "La expansión de la ciudad hacia la periferia",
           "is_correct": true,
-          "feedback": "Correcto. La industrialización concentró a los trabajadores en las ciudades y ensanchó la burguesía y el proletariado como clases nuevas."
+          "feedback": "Correcto. La periurbanizacion aleja las viviendas del centro y alarga los trayectos diarios."
         },
         {
-          "letter": "A",
-          "text": "Retorno a la vida agrícola",
+          "letter": "B",
+          "text": "La concentracion del comercio en el centro",
           "is_correct": false,
-          "feedback": "La revolución industrial desplazó el trabajo del campo a la fábrica y a la ciudad, no de vuelta a la vida agrícola."
+          "feedback": "La concentracion comercial no explica por si sola el aumento del trayecto de una familia."
         },
         {
           "letter": "C",
-          "text": "Disminución del comercio global",
+          "text": "El traslado de las fábricas al campo",
           "is_correct": false,
-          "feedback": "La producción industrial exigía materias primas y mercados, de modo que el comercio internacional creció en vez de disminuir."
+          "feedback": "El enunciado es actual y trata de distancias diarias, no de la ubicacion de las fabricas."
         },
         {
           "letter": "D",
-          "text": "Eliminación del trabajo manual",
+          "text": "La baja del precio del combustible",
           "is_correct": false,
-          "feedback": "El trabajo manual se intensificó en las fábricas y la máquina solo transformó su forma, no lo eliminó."
+          "feedback": "Un combustible mas barato no explica que una familia necesite dos autobuses para trabajar."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
+      "correct_answer": "A",
+      "explanation": "La expansion urbana hacia la periferia aumenta la distancia entre la vivienda y el lugar de trabajo.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -324,36 +324,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W32-urbanizacion-001-MASTERY-bundle-v8",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
+      "statement": "¿Para qué sirve un plan de desarrollo urbano municipal?",
       "context": "Clase de ciencias sociales en Soyapango estudiando urbanizacion.",
       "options": [
         {
           "letter": "C",
-          "text": "Derechos humanos fundamentales",
+          "text": "Para orientar el uso del suelo y la construcción de obras públicas",
           "is_correct": true,
-          "feedback": "Correcto. La Constitución de un país democrático reconoce los derechos humanos fundamentales como límite al poder del Estado."
+          "feedback": "Correcto. El plan define donde se construye, que uso tiene el suelo y que obras se ejecutan."
         },
         {
           "letter": "A",
-          "text": "Solo derechos de propiedad",
+          "text": "Para fijar el precio de los alimentos",
           "is_correct": false,
-          "feedback": "El derecho de propiedad es uno más entre los reconocidos, y limitar la Constitución a la propiedad dejaría fuera los demás."
+          "feedback": "Los precios no son competencia del plan urbano, que regula el territorio y las obras."
         },
         {
           "letter": "B",
-          "text": "Únicamente derechos políticos",
+          "text": "Para organizar las elecciones municipales",
           "is_correct": false,
-          "feedback": "El voto y la participación política son una parte del catálogo, no la totalidad de los derechos de una Constitución democrática."
+          "feedback": "Las elecciones dependen del sistema electoral, no del plan de desarrollo urbano."
         },
         {
           "letter": "D",
-          "text": "Derechos exclusivos del gobierno",
+          "text": "Para disminuir la poblacion del municipio",
           "is_correct": false,
-          "feedback": "Son los ciudadanos los titulares de los derechos, y además esos derechos limitan al gobierno en lugar de pertenecerle."
+          "feedback": "El plan orienta el crecimiento, y no existe como instrumento para reducir la poblacion."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
+      "explanation": "El plan de desarrollo urbano ordena el territorio, el uso del suelo y la ejecucion de obras publicas.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -369,36 +369,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W32-urbanizacion-001-MASTERY-bundle-v9",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
+      "statement": "Una ciudad construye un corredor de autobuses para conectar la periferia con el centro. ¿Qué efecto se busca?",
       "context": "Clase de ciencias sociales en San Salvador estudiando urbanizacion.",
       "options": [
         {
-          "letter": "C",
-          "text": "Superávit comercial",
-          "is_correct": true,
-          "feedback": "Correcto. Si las exportaciones superan a las importaciones, la balanza comercial registra un superávit."
-        },
-        {
           "letter": "A",
-          "text": "Déficit comercial",
-          "is_correct": false,
-          "feedback": "El déficit aparece cuando se importa más de lo que se exporta, exactamente al revés de lo que dice el enunciado."
+          "text": "Reducir el tiempo y el costo de desplazamiento de los habitantes",
+          "is_correct": true,
+          "feedback": "Correcto. El corredor de autobuses acerca la periferia al centro y abarata el viaje diario."
         },
         {
           "letter": "B",
-          "text": "Balanza equilibrada",
+          "text": "Aumentar el precio del suelo urbano",
           "is_correct": false,
-          "feedback": "Una balanza equilibrada exige exportaciones e importaciones iguales, y aquí las exportaciones son mayores."
+          "feedback": "El transporte publico busca abaratar la vida urbana, no encarecer el suelo."
+        },
+        {
+          "letter": "C",
+          "text": "Reducir la poblacion de la ciudad",
+          "is_correct": false,
+          "feedback": "Ningun corredor de autobuses es un instrumento para disminuir el numero de habitantes."
         },
         {
           "letter": "D",
-          "text": "Crisis económica",
+          "text": "Eliminar las rutas de la calle",
           "is_correct": false,
-          "feedback": "Una crisis económica es un malestar general del país, no el nombre del saldo de la balanza comercial."
+          "feedback": "El proyecto reorganiza el transporte, no suprime las rutas existentes."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
+      "correct_answer": "A",
+      "explanation": "El corredor de autobuses es una medida de transporte urbano que abarata y acorta el desplazamiento de la periferia.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -414,36 +414,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W32-urbanizacion-001-MASTERY-bundle-v10",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
+      "statement": "¿A qué se llama el crecimiento de las ciudades por la llegada continua de población?",
       "context": "Clase de ciencias sociales en Soyapango estudiando urbanizacion.",
       "options": [
         {
-          "letter": "A",
-          "text": "El asesinato del Archiduque Francisco Fernando",
+          "letter": "B",
+          "text": "La urbanización",
           "is_correct": true,
-          "feedback": "Correcto. El asesinato del archiduque Francisco Fernando en Sarajevo en 1914 fue el detonante inmediato de la Primera Guerra Mundial."
+          "feedback": "Correcto. La urbanizacion es el crecimiento de la ciudad por la llegada continua de gente."
         },
         {
-          "letter": "B",
-          "text": "El Tratado de Versalles",
+          "letter": "A",
+          "text": "La migracion transitoria",
           "is_correct": false,
-          "feedback": "El Tratado de Versalles se firmó en 1919 para cerrar la guerra, de modo que fue una consecuencia y no una causa."
+          "feedback": "Un desplazamiento de unos dias no explica el crecimiento sostenido de una ciudad."
         },
         {
           "letter": "C",
-          "text": "La Revolución Rusa",
+          "text": "La desertificacion rural",
           "is_correct": false,
-          "feedback": "La Revolución Rusa ocurrió en 1917, ya en plena guerra, y fue ajena al estallido de 1914."
+          "feedback": "La desertificacion es un proceso ambiental del campo y no el nombre del crecimiento urbano."
         },
         {
           "letter": "D",
-          "text": "La invención del avión",
+          "text": "La planificacion municipal",
           "is_correct": false,
-          "feedback": "El avión fue inventado en 1903 y es un hecho técnico, no un detonante diplomático."
+          "feedback": "La planificacion es la herramienta que ordena ese crecimiento, no el nombre del proceso."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
+      "correct_answer": "B",
+      "explanation": "La urbanizacion nombra el crecimiento sostenido de las ciudades por la llegada continua de poblacion.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -459,36 +459,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W32-urbanizacion-001-MASTERY-bundle-v11",
-      "statement": "¿Qué documento establece la organización del Estado?",
+      "statement": "¿Con qué nombre se conoce la transformación de un campo abierto en un barrio construido?",
       "context": "Clase de ciencias sociales en Mejicanos estudiando urbanizacion.",
       "options": [
         {
-          "letter": "B",
-          "text": "La Constitución",
+          "letter": "C",
+          "text": "La periurbanización",
           "is_correct": true,
-          "feedback": "Correcto. La Constitución es la norma fundamental que estructura los poderes del Estado y fija sus límites."
+          "feedback": "Correcto. La periurbanizacion convierte suelo rural en vivienda en el borde de la ciudad."
         },
         {
           "letter": "A",
-          "text": "Una ley ordinaria",
+          "text": "La concentracion urbana",
           "is_correct": false,
-          "feedback": "Una ley ordinaria se limita a desarrollar una regla ya existente, no organiza los poderes del Estado entero."
+          "feedback": "La concentracion urbana agrupa en el centro lo que ya esta dentro de la ciudad."
         },
         {
-          "letter": "C",
-          "text": "Un decreto presidencial",
+          "letter": "B",
+          "text": "La desconexion social",
           "is_correct": false,
-          "feedback": "Un decreto presidencial es una decisión del ejecutivo sobre un asunto concreto, de rango menor que la Constitución."
+          "feedback": "La desconexion social es un efecto social de la periurbanizacion, no su nombre."
         },
         {
           "letter": "D",
-          "text": "Un tratado internacional",
+          "text": "La arqueologia urbana",
           "is_correct": false,
-          "feedback": "Un tratado internacional obliga entre Estados firmantes, no es la norma que organiza el gobierno de un país."
+          "feedback": "La arqueologia estudia el pasado, no describe la construccion actual de un barrio."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
+      "correct_answer": "C",
+      "explanation": "La periurbanizacion es el proceso por el cual suelo abierto del entorno se convierte en area construida.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -504,36 +504,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W32-urbanizacion-001-MASTERY-bundle-v12",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
+      "statement": "Dos comunidades opuestas separan su barrio con un muro. ¿Qué problema urbano se intensifica?",
       "context": "Clase de ciencias sociales en Soyapango estudiando urbanizacion.",
       "options": [
         {
-          "letter": "C",
-          "text": "Urbanización masiva y nuevas clases sociales",
+          "letter": "D",
+          "text": "La falta de acceso a servicios públicos en los sectores más pobres",
           "is_correct": true,
-          "feedback": "Correcto. La industrialización concentró a los trabajadores en las ciudades y ensanchó la burguesía y el proletariado como clases nuevas."
+          "feedback": "Correcto. El muro corta rutas y tuberias, y el sector con menos recursos queda sin servicios."
         },
         {
           "letter": "A",
-          "text": "Retorno a la vida agrícola",
+          "text": "El exceso de areas verdes",
           "is_correct": false,
-          "feedback": "La revolución industrial desplazó el trabajo del campo a la fábrica y a la ciudad, no de vuelta a la vida agrícola."
+          "feedback": "Un muro entre dos comunidades no produce areas verdes, sino corte de rutas."
         },
         {
           "letter": "B",
-          "text": "Disminución del comercio global",
+          "text": "La baja del costo de la vivienda",
           "is_correct": false,
-          "feedback": "La producción industrial exigía materias primas y mercados, de modo que el comercio internacional creció en vez de disminuir."
+          "feedback": "La separacion entre comunidades suele encarecer la vivienda, no abaratarla."
         },
         {
-          "letter": "D",
-          "text": "Eliminación del trabajo manual",
+          "letter": "C",
+          "text": "El aumento del comercio internacional",
           "is_correct": false,
-          "feedback": "El trabajo manual se intensificó en las fábricas y la máquina solo transformó su forma, no lo eliminó."
+          "feedback": "El comercio internacional depende de las fronteras de un pais y no de un muro vecinal."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
+      "correct_answer": "D",
+      "explanation": "La separacion espacial entre comunidades profundiza la desigualdad y deja sin servicios a los sectores mas pobres.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -549,36 +549,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W32-urbanizacion-001-MASTERY-bundle-v13",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
+      "statement": "¿Qué efecto tiene sobre la salud pública la concentración de viviendas en un barrio sin ventilación?",
       "context": "Clase de ciencias sociales en Santa Ana estudiando urbanizacion.",
       "options": [
         {
-          "letter": "C",
-          "text": "Derechos humanos fundamentales",
-          "is_correct": true,
-          "feedback": "Correcto. La Constitución de un país democrático reconoce los derechos humanos fundamentales como límite al poder del Estado."
-        },
-        {
           "letter": "A",
-          "text": "Solo derechos de propiedad",
-          "is_correct": false,
-          "feedback": "El derecho de propiedad es uno más entre los reconocidos, y limitar la Constitución a la propiedad dejaría fuera los demás."
+          "text": "Aumentan las enfermedades respiratorias",
+          "is_correct": true,
+          "feedback": "Correcto. Sin ventilacion cruzada el aire se renueva poco dentro de la vivienda."
         },
         {
           "letter": "B",
-          "text": "Únicamente derechos políticos",
+          "text": "Disminuyen las infecciones respiratorias",
           "is_correct": false,
-          "feedback": "El voto y la participación política son una parte del catálogo, no la totalidad de los derechos de una Constitución democrática."
+          "feedback": "La falta de aire limpio no reduce las infecciones, al contrario, las favorece."
+        },
+        {
+          "letter": "C",
+          "text": "Mejora la vista de la poblacion",
+          "is_correct": false,
+          "feedback": "El enunciado trata de salud y aire de la vivienda, no de la vista de los residentes."
         },
         {
           "letter": "D",
-          "text": "Derechos exclusivos del gobierno",
+          "text": "Se elimina la contaminacion del barrio",
           "is_correct": false,
-          "feedback": "Son los ciudadanos los titulares de los derechos, y además esos derechos limitan al gobierno en lugar de pertenecerle."
+          "feedback": "Un barrio sin ventilacion acumula aire viciado, no lo elimina."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
+      "correct_answer": "A",
+      "explanation": "La falta de ventilacion en viviendas densas disminuye la calidad del aire interior y enferma a los residentes.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -594,36 +594,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W32-urbanizacion-001-MASTERY-bundle-v14",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
+      "statement": "Un municipio decide usar suelo bajo para parque industrial. ¿Qué conviene para la población?",
       "context": "Clase de ciencias sociales en San Salvador estudiando urbanizacion.",
       "options": [
         {
-          "letter": "B",
-          "text": "Superávit comercial",
+          "letter": "C",
+          "text": "Evaluar los riesgos ambientales y de salud de esa decisión",
           "is_correct": true,
-          "feedback": "Correcto. Si las exportaciones superan a las importaciones, la balanza comercial registra un superávit."
+          "feedback": "Correcto. El suelo bajo y el parque industrial pueden afectar el agua, el aire y la salud local."
         },
         {
           "letter": "A",
-          "text": "Déficit comercial",
+          "text": "Construir mas viviendas en el mismo lugar",
           "is_correct": false,
-          "feedback": "El déficit aparece cuando se importa más de lo que se exporta, exactamente al revés de lo que dice el enunciado."
+          "feedback": "El enunciado ya supone un uso industrial, y no pide vivienda adicional."
         },
         {
-          "letter": "C",
-          "text": "Balanza equilibrada",
+          "letter": "B",
+          "text": "Ignorar los permisos ambientales",
           "is_correct": false,
-          "feedback": "Una balanza equilibrada exige exportaciones e importaciones iguales, y aquí las exportaciones son mayores."
+          "feedback": "Ignorar los permisos agrava el riesgo ambiental en lugar de cuidar a la poblacion."
         },
         {
           "letter": "D",
-          "text": "Crisis económica",
+          "text": "Construir una cadena de transporte hacia el parque",
           "is_correct": false,
-          "feedback": "Una crisis económica es un malestar general del país, no el nombre del saldo de la balanza comercial."
+          "feedback": "Mejorar el acceso al parque no mide el riesgo ambiental para la poblacion."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
+      "correct_answer": "C",
+      "explanation": "Ubicar un parque industrial exige evaluar sus efectos ambientales y sanitarios sobre la poblacion del municipio.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -639,36 +639,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W32-urbanizacion-001-MASTERY-bundle-v15",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
+      "statement": "¿Qué medidor permite conocer cuántos habitantes vive un sector urbano?",
       "context": "Clase de ciencias sociales en Soyapango estudiando urbanizacion.",
       "options": [
         {
-          "letter": "A",
-          "text": "El asesinato del Archiduque Francisco Fernando",
+          "letter": "B",
+          "text": "La densidad de población",
           "is_correct": true,
-          "feedback": "Correcto. El asesinato del archiduque Francisco Fernando en Sarajevo en 1914 fue el detonante inmediato de la Primera Guerra Mundial."
+          "feedback": "Correcto. La densidad indica cuantos habitantes hay por cada unidad de superficie."
         },
         {
-          "letter": "B",
-          "text": "El Tratado de Versalles",
+          "letter": "A",
+          "text": "El area superficial del sector",
           "is_correct": false,
-          "feedback": "El Tratado de Versalles se firmó en 1919 para cerrar la guerra, de modo que fue una consecuencia y no una causa."
+          "feedback": "El area sola no dice cuanta gente vive, hace falta saber cuantos habitantes la ocupan."
         },
         {
           "letter": "C",
-          "text": "La Revolución Rusa",
+          "text": "La renta promedio de las familias",
           "is_correct": false,
-          "feedback": "La Revolución Rusa ocurrió en 1917, ya en plena guerra, y fue ajena al estallido de 1914."
+          "feedback": "La renta es un dato economico y no mide el numero de habitantes de un sector."
         },
         {
           "letter": "D",
-          "text": "La invención del avión",
+          "text": "La altura de los edificios",
           "is_correct": false,
-          "feedback": "El avión fue inventado en 1903 y es un hecho técnico, no un detonante diplomático."
+          "feedback": "La altura de las construcciones no indica cuanta poblacion reside en el sector."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
+      "correct_answer": "B",
+      "explanation": "La densidad de poblacion relaciona habitantes y superficie, y es el indicador clave del apiñamiento urbano.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -684,36 +684,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W32-urbanizacion-001-MASTERY-bundle-v16",
-      "statement": "¿Qué documento establece la organización del Estado?",
+      "statement": "¿Qué actividades económicas emiten la mayor contaminacion en una ciudad?",
       "context": "Clase de ciencias sociales en San Miguel estudiando urbanizacion.",
       "options": [
         {
           "letter": "A",
-          "text": "La Constitución",
+          "text": "La industria y el tráfico pesado",
           "is_correct": true,
-          "feedback": "Correcto. La Constitución es la norma fundamental que estructura los poderes del Estado y fija sus límites."
+          "feedback": "Correcto. Las fabricas y los motores de los vehiculos cargan el aire de la ciudad."
         },
         {
           "letter": "B",
-          "text": "Una ley ordinaria",
+          "text": "La pesca artesanal",
           "is_correct": false,
-          "feedback": "Una ley ordinaria se limita a desarrollar una regla ya existente, no organiza los poderes del Estado entero."
+          "feedback": "La pesca no es la causa de la contaminacion del aire urbano a la que alude el enunciado."
         },
         {
           "letter": "C",
-          "text": "Un decreto presidencial",
+          "text": "La agricultura organica",
           "is_correct": false,
-          "feedback": "Un decreto presidencial es una decisión del ejecutivo sobre un asunto concreto, de rango menor que la Constitución."
+          "feedback": "La agricultura organica no explica el aire pesado de una ciudad densa."
         },
         {
           "letter": "D",
-          "text": "Un tratado internacional",
+          "text": "La artesania de ceramica",
           "is_correct": false,
-          "feedback": "Un tratado internacional obliga entre Estados firmantes, no es la norma que organiza el gobierno de un país."
+          "feedback": "La artesania no genera la contaminacion urbana que describe la pregunta."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
+      "explanation": "La industria y el trafico pesado son los sectores que mas contaminan el aire de una ciudad.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -729,36 +729,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W32-urbanizacion-001-MASTERY-bundle-v17",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
+      "statement": "Un barrio nuevo crece sin que el municipio amplíe calles ni escuelas. ¿Qué consecuencia es previsible?",
       "context": "Clase de ciencias sociales en Mejicanos estudiando urbanizacion.",
       "options": [
         {
           "letter": "D",
-          "text": "Urbanización masiva y nuevas clases sociales",
+          "text": "El acceso más difícil a servicios y escuelas",
           "is_correct": true,
-          "feedback": "Correcto. La industrialización concentró a los trabajadores en las ciudades y ensanchó la burguesía y el proletariado como clases nuevas."
+          "feedback": "Correcto. Sin calles ni escuelas, los vecinos quedan lejos del agua, la salud y la educacion."
         },
         {
           "letter": "A",
-          "text": "Retorno a la vida agrícola",
+          "text": "El aumento del empleo formal",
           "is_correct": false,
-          "feedback": "La revolución industrial desplazó el trabajo del campo a la fábrica y a la ciudad, no de vuelta a la vida agrícola."
+          "feedback": "El empleo formal depende de la economia y no de la falta de calles o escuelas."
         },
         {
           "letter": "B",
-          "text": "Disminución del comercio global",
+          "text": "La mejora del transporte publico",
           "is_correct": false,
-          "feedback": "La producción industrial exigía materias primas y mercados, de modo que el comercio internacional creció en vez de disminuir."
+          "feedback": "Sin ampliacion de calles el transporte no mejora, se detiene o se vuelve mas lento."
         },
         {
           "letter": "C",
-          "text": "Eliminación del trabajo manual",
+          "text": "La suba del precio del suelo",
           "is_correct": false,
-          "feedback": "El trabajo manual se intensificó en las fábricas y la máquina solo transformó su forma, no lo eliminó."
+          "feedback": "La suba del suelo no es la consecuencia directa que describe el enunciado del barrio."
         }
       ],
       "correct_answer": "D",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
+      "explanation": "El crecimiento urbano sin inversion publica deja a la poblacion con menor acceso a servicios y escuelas.",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -774,36 +774,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W32-urbanizacion-001-MASTERY-bundle-v18",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
+      "statement": "Una empresa instala una planta cerca de un río que abastece a dos ciudades. ¿Qué debe evaluar el Estado?",
       "context": "Clase de ciencias sociales en Mejicanos estudiando urbanizacion.",
       "options": [
         {
-          "letter": "A",
-          "text": "Derechos humanos fundamentales",
+          "letter": "B",
+          "text": "El impacto ambiental sobre el agua que beben esas ciudades",
           "is_correct": true,
-          "feedback": "Correcto. La Constitución de un país democrático reconoce los derechos humanos fundamentales como límite al poder del Estado."
+          "feedback": "Correcto. Los desechos de la planta pueden contaminar el agua que beben esas dos ciudades."
         },
         {
-          "letter": "B",
-          "text": "Solo derechos de propiedad",
+          "letter": "A",
+          "text": "El costo de los trabajadores de la empresa",
           "is_correct": false,
-          "feedback": "El derecho de propiedad es uno más entre los reconocidos, y limitar la Constitución a la propiedad dejaría fuera los demás."
+          "feedback": "El costo laboral de la empresa no es lo que el Estado debe evaluar segun el enunciado."
         },
         {
           "letter": "C",
-          "text": "Únicamente derechos políticos",
+          "text": "El tamaño del mercado local",
           "is_correct": false,
-          "feedback": "El voto y la participación política son una parte del catálogo, no la totalidad de los derechos de una Constitución democrática."
+          "feedback": "El mercado local no aparece en el enunciado, que trata de agua y contaminacion."
         },
         {
           "letter": "D",
-          "text": "Derechos exclusivos del gobierno",
+          "text": "El numero de hoteles de la zona",
           "is_correct": false,
-          "feedback": "Son los ciudadanos los titulares de los derechos, y además esos derechos limitan al gobierno en lugar de pertenecerle."
+          "feedback": "Los hoteles no son el recurso en riesgo que menciona la pregunta."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
+      "correct_answer": "B",
+      "explanation": "El Estado debe medir el impacto ambiental de una planta cuando sus descargas pueden dañar el agua de ciudades enteras.",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -819,36 +819,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W32-urbanizacion-001-MASTERY-bundle-v19",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
+      "statement": "Un asentamiento informal se ubica en un terreno con riesgo de inundación. ¿Qué puede hacer el municipio?",
       "context": "Clase de ciencias sociales en San Salvador estudiando urbanizacion.",
       "options": [
         {
-          "letter": "B",
-          "text": "Superávit comercial",
+          "letter": "C",
+          "text": "Ordenar el reasentamiento con vivienda y servicios seguros",
           "is_correct": true,
-          "feedback": "Correcto. Si las exportaciones superan a las importaciones, la balanza comercial registra un superávit."
+          "feedback": "Correcto. El reasentamiento entrega suelo seguro, agua y viviendas dignas a la poblacion."
         },
         {
           "letter": "A",
-          "text": "Déficit comercial",
+          "text": "Dejar el asentamiento sin intervencion",
           "is_correct": false,
-          "feedback": "El déficit aparece cuando se importa más de lo que se exporta, exactamente al revés de lo que dice el enunciado."
+          "feedback": "Permanecer en zona inundable pone en riesgo la vida de las familias de ese barrio."
         },
         {
-          "letter": "C",
-          "text": "Balanza equilibrada",
+          "letter": "B",
+          "text": "Construir una fabrica en el mismo terreno",
           "is_correct": false,
-          "feedback": "Una balanza equilibrada exige exportaciones e importaciones iguales, y aquí las exportaciones son mayores."
+          "feedback": "Una fabrica no es una respuesta a un riesgo de inundacion dentro de un asentamiento humano."
         },
         {
           "letter": "D",
-          "text": "Crisis económica",
+          "text": "Subir el precio de la comida",
           "is_correct": false,
-          "feedback": "Una crisis económica es un malestar general del país, no el nombre del saldo de la balanza comercial."
+          "feedback": "El precio de la comida no es una medida frente al riesgo de inundacion del terreno."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
+      "correct_answer": "C",
+      "explanation": "Ante un asentamiento en zona de riesgo, el municipio ordena el reasentamiento con vivienda y servicios seguros.",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -864,36 +864,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W32-urbanizacion-001-MASTERY-bundle-v20",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
+      "statement": "¿Para qué sirve un censo de población y vivienda en una ciudad?",
       "context": "Clase de ciencias sociales en Mejicanos estudiando urbanizacion.",
       "options": [
         {
-          "letter": "A",
-          "text": "El asesinato del Archiduque Francisco Fernando",
+          "letter": "D",
+          "text": "Para conocer cuántos habitantes hay y dónde viven",
           "is_correct": true,
-          "feedback": "Correcto. El asesinato del archiduque Francisco Fernando en Sarajevo en 1914 fue el detonante inmediato de la Primera Guerra Mundial."
+          "feedback": "Correcto. El censo cuenta habitantes, viviendas y su distribucion dentro de la ciudad."
+        },
+        {
+          "letter": "A",
+          "text": "Para subir el precio del suelo",
+          "is_correct": false,
+          "feedback": "El censo es un recuento, no un mecanismo para encarecer el suelo urbano."
         },
         {
           "letter": "B",
-          "text": "El Tratado de Versalles",
+          "text": "Para disolver el municipio",
           "is_correct": false,
-          "feedback": "El Tratado de Versalles se firmó en 1919 para cerrar la guerra, de modo que fue una consecuencia y no una causa."
+          "feedback": "Ningun recuento de habitantes disuelve una municipalidad."
         },
         {
           "letter": "C",
-          "text": "La Revolución Rusa",
+          "text": "Para fundar nuevas ciudades",
           "is_correct": false,
-          "feedback": "La Revolución Rusa ocurrió en 1917, ya en plena guerra, y fue ajena al estallido de 1914."
-        },
-        {
-          "letter": "D",
-          "text": "La invención del avión",
-          "is_correct": false,
-          "feedback": "El avión fue inventado en 1903 y es un hecho técnico, no un detonante diplomático."
+          "feedback": "Contar la poblacion no crea ciudades nuevas, solo describe las existentes."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
+      "correct_answer": "D",
+      "explanation": "El censo de poblacion y vivienda cuantifica habitantes y sus hogares para orientar la planificacion urbana.",
       "difficulty": "10",
       "images": [],
       "tags": [],

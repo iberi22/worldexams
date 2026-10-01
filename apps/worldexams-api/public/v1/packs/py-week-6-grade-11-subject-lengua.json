@@ -9,36 +9,36 @@
   "questions": [
     {
       "id": "PY-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v1",
-      "statement": "En una lectura: 'El sol brillaba mientras los pajaros cantaban'. ¿Que funcion cumple?",
+      "statement": "¿Qué es la sílaba tónica en la palabra 'corazón'?",
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
           "letter": "A",
-          "text": "Crear una atmosfera o ambiente",
+          "text": "La última sílaba, porque es una palabra aguda terminada en consonante",
           "is_correct": true,
-          "feedback": "Correcto. La opción 'Crear una atmosfera o ambiente' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes."
+          "feedback": "Es correcto: 'co-ra-zón' es aguda terminada en 'n', por eso lleva tilde y la última sílaba es la tónica."
         },
         {
           "letter": "B",
-          "text": "Presentar un argumento",
+          "text": "La primera sílaba, porque es una palabra llana",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Presentar un argumento' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Es aguda y no llana: termina en consonante, de modo que la última sílaba es la tónica."
         },
         {
           "letter": "C",
-          "text": "Narrar una secuencia",
+          "text": "La penúltima sílaba, porque es una palabra esdrújula",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Narrar una secuencia' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Una palabra esdrújula lleva tilde en la antepenúltima sílaba; 'corazón' es aguda."
         },
         {
           "letter": "D",
-          "text": "Describir un dialogo",
+          "text": "Todas las sílabas por igual, porque no lleva tilde",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Describir un dialogo' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Lleva tilde en la última sílaba, así que existe una sílaba tónica claramente diferenciada."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Las descripciones ayudan a crear la atmosfera en la narracion.\n\n---",
+      "explanation": "Las palabras agudas terminadas en consonante llevan tilde y se acentúan en la última sílaba. Si la palabra terminara en vocal, como 'corazona', sería llana y no la llevaría.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -54,36 +54,36 @@
     },
     {
       "id": "PY-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v2",
-      "statement": "¿Cual es la funcion del lenguaje en: '¡Feliz cumpleanos!'?",
+      "statement": "¿Cuál de las siguientes palabras es esdrújula?",
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
-          "letter": "B",
-          "text": "Funcion expresiva o emotiva",
+          "letter": "A",
+          "text": "Lápiz",
           "is_correct": true,
-          "feedback": "Correcto. La opción 'Funcion expresiva o emotiva' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes."
+          "feedback": "Es aguda terminada en consonante y por eso no lleva tilde."
         },
         {
-          "letter": "A",
-          "text": "Funcion referencial",
+          "letter": "B",
+          "text": "Cántaro",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Funcion referencial' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Es llana terminada en vocal, así que se escribe sin tilde."
         },
         {
           "letter": "C",
-          "text": "Funcion apelativa",
+          "text": "Rápidamente",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Funcion apelativa' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Es la respuesta: es esdrújula porque lleva la sílaba tónica en la antepenúltima."
         },
         {
           "letter": "D",
-          "text": "Funcion metalinguistica",
+          "text": "Cantar",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Funcion metalinguistica' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Es llana terminada en vocal, de modo que no lleva tilde diacrítica."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La funcion expresiva se centra en el emisor y expresa sentimientos.\n\n---",
+      "correct_answer": "A",
+      "explanation": "Las palabras esdrújulas tienen la sílaba tónica en la antepenúltima y por eso siempre llevan tilde, como ocurre con los adverbios en '-mente' que proceden de un adjetivo largo.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -106,25 +106,25 @@
           "letter": "B",
           "text": "ademas",
           "is_correct": true,
-          "feedback": "Correcto. La opción 'ademas' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes."
+          "feedback": "Correcto. 'Ademas' es un conector aditivo: suma un rasgo nuevo sin contradecir lo expuesto antes. Aqui la hermosura de San Ignacio y la cordialidad de su gente son dos datos que se acumulan y ninguno anula al otro."
         },
         {
           "letter": "A",
           "text": "sin embargo",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'sin embargo' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Incorrecto. 'Sin embargo' es adversativo: introduce una idea que se opone a lo que se habia dicho. En esta oracion las dos proposiciones se refuerzan, porque la gente de San Ignacio no contradice a su ciudad, asi que una oposicion seria falsa."
         },
         {
           "letter": "C",
           "text": "por lo tanto",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'por lo tanto' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Incorrecto. 'Por lo tanto' es conclusivo: la segunda proposicion deduce una consecuencia de la primera. Aqui no hay deduccion, sino dos caracteristicas de San Ignacio que se acumulan sin derivarse una de otra."
         },
         {
           "letter": "D",
           "text": "aunque",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'aunque' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Incorrecto. 'Aunque' introduce una concesion: lo que va detras se opone a lo esperado. La segunda proposicion no contradice la primera, la completa, asi que este conector tampoco corresponde."
         }
       ],
       "correct_answer": "B",
@@ -151,25 +151,25 @@
           "letter": "D",
           "text": "Los estudiantes del Colegio Nacional Encaracion estudian mucho.",
           "is_correct": true,
-          "feedback": "Correcto. La opción 'Los estudiantes del Colegio Nacional Encaracion estudian mucho.' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes."
+          "feedback": "Correcto. Los nombres propios se escriben con mayuscula en cada componente y con la acentuacion que les corresponde: los topicos de Paraguay van con mayuscula y sin tilde, porque son llanas terminadas en 'a', 'o' e 'i'."
         },
         {
           "letter": "A",
           "text": "Los estudiantes de la escuela estudian poco.",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Los estudiantes de la escuela estudian poco.' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Incorrecto. La oracion esta bien redactada y con buena concordancia, pero 'la escuela' es un nombre comun que puede designar cualquier centro; el enunciado pide el nombre propio completo de la institucion, y aqui no aparece."
         },
         {
           "letter": "B",
           "text": "Los estudiantes del instituto no estudian nada.",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Los estudiantes del instituto no estudian nada.' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Incorrecto. 'El instituto' vuelve a sustituir el nombre propio por una denominacion generica. La negacion 'no estudian nada' es correcta, pero no aporta el dato que el enunciado evalua."
         },
         {
           "letter": "C",
           "text": "Los estudiantes del instituto estudian mucho.",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Los estudiantes del instituto estudian mucho.' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Incorrecto. Comparte con la correcta la concordancia y el verbo 'estudian mucho', y se diferencia en un solo punto decisivo: emplea 'el instituto', un nombre comun, en lugar del nombre oficial completo."
         }
       ],
       "correct_answer": "D",
@@ -189,36 +189,36 @@
     },
     {
       "id": "PY-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v5",
-      "statement": "En la oracion 'El libro de poesia es fascinante'. ¿Que funcion cumple la subordinada?",
+      "statement": "¿Qué regla de acentuación se aplica a la palabra 'rápidamente'?",
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
           "letter": "A",
-          "text": "Adjetiva o de relativo",
+          "text": "Lleva tilde por ser esdrújula, con la tónica en la antepenúltima sílaba",
           "is_correct": true,
-          "feedback": "Correcto. La opción 'Adjetiva o de relativo' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes."
+          "feedback": "Es correcto: 'rá-pi-da-men-te' tiene cinco sílabas y la tónica es 'da', la antepenúltima."
         },
         {
           "letter": "B",
-          "text": "Sustantiva",
+          "text": "Lleva tilde por ser llana terminada en vocal",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Sustantiva' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Las llanas terminadas en vocal no llevan tilde, y además esta palabra no es llana."
         },
         {
           "letter": "C",
-          "text": "Adverbial",
+          "text": "No lleva tilde porque termina en vocal",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Adverbial' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "La terminación en vocal solo exime de tilde a las palabras llanas, y esta es esdrújula."
         },
         {
           "letter": "D",
-          "text": "Coordinada copulativa",
+          "text": "Lleva tilde por ser aguda terminada en consonante",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Coordinada copulativa' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Es esdrújula y no aguda, de modo que la regla aplicable es la de la antepenúltima sílaba."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Las oraciones subordinadas adjetivas complementan a un nombre.\n\n---",
+      "explanation": "Todas las palabras esdrújulas llevan tilde por definición, sin importar cómo terminen. Esa es la regla más simple y la que menos excepciones tiene en español.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -234,36 +234,36 @@
     },
     {
       "id": "PY-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v6",
-      "statement": "¿Cual de estas palabras lleva tilde segun las reglas de acentuacion?",
+      "statement": "¿Cuál de las opciones presenta una palabra escrita correctamente?",
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
           "letter": "A",
-          "text": "examen",
+          "text": "Árbol",
           "is_correct": true,
-          "feedback": "Correcto. La opción 'examen' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes."
+          "feedback": "Es la respuesta: una palabra aguda terminada en consonante debe llevar tilde, y 'Arbol' es llana terminada en vocal."
         },
         {
           "letter": "B",
-          "text": "sol",
+          "text": "Arbol",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'sol' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Es incorrecta: al ser aguda terminada en consonante, la palabra necesita tilde."
         },
         {
           "letter": "C",
-          "text": "papel",
+          "text": "Arból",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'papel' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "El acento es impropio: la palabra es llana y además se escribe sin tilde."
         },
         {
           "letter": "D",
-          "text": "jamas",
+          "text": "Árboles",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'jamas' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Es correcta: 'arboles' es llana terminada en vocal y por eso se escribe sin tilde."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Las palabras llanas terminadas en consonante distinta de n/s llevan tilde.\n\n---",
+      "explanation": "La regla general es que las agudas terminadas en consonante llevan tilde. Si la palabra terminara en vocal, como 'arboles', sería llana y se escribiría sin ella.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -279,36 +279,36 @@
     },
     {
       "id": "PY-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v7",
-      "statement": "¿Que figura literaria se emplea en 'tus ojos son dos luceros'?",
+      "statement": "¿Qué palabra es aguda terminada en vocal y por tanto no lleva tilde?",
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
-          "letter": "B",
-          "text": "Metafora",
+          "letter": "A",
+          "text": "Reloj",
           "is_correct": true,
-          "feedback": "Correcto. La opción 'Metafora' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes."
+          "feedback": "Termina en consonante, de modo que es aguda y debería llevar tilde."
         },
         {
-          "letter": "A",
-          "text": "Comparacion",
+          "letter": "B",
+          "text": "Café",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Comparacion' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Es la respuesta: 'café' es aguda terminada en vocal, por lo que se escribe sin tilde."
         },
         {
           "letter": "C",
-          "text": "Hiparbole",
+          "text": "Cantar",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Hiparbole' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Es llana terminada en vocal, no aguda, así que la regla que se aplica es otra."
         },
         {
           "letter": "D",
-          "text": "Personificacion",
+          "text": "Televisión",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Personificacion' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Es llana terminada en 'n', de modo que tampoco lleva tilde pero por otra razón."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La metafora identifica un termino real con uno imaginario por su semejanza.\n\n---",
+      "correct_answer": "A",
+      "explanation": "Las palabras agudas terminadas en vocal no llevan tilde: ese es su rasgo definitorio y las distingue de las agudas terminadas en consonante, que sí la llevan.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -324,36 +324,36 @@
     },
     {
       "id": "PY-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v8",
-      "statement": "¿Cómo se escribe correctamente en plural la palabra 'examen' según las reglas de acentuación?",
+      "statement": "¿Cuál de estas palabras es llana y por tanto no debe llevar tilde?",
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
           "letter": "A",
-          "text": "examenes",
-          "is_correct": false,
-          "feedback": "Incorrecto. La opción 'examenes' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
-        },
-        {
-          "letter": "C",
-          "text": "exámenes",
+          "text": "Camión",
           "is_correct": true,
-          "feedback": "Correcto. 'Exámenes' es una palabra esdrújula, por lo que siempre lleva tilde en la antepenúltima sílaba."
+          "feedback": "Es aguda terminada en consonante, de modo que lleva tilde obligatoriamente."
         },
         {
           "letter": "B",
-          "text": "examénes",
+          "text": "Manzana",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'examénes' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Es la respuesta: es llana terminada en vocal y por eso se escribe sin tilde."
+        },
+        {
+          "letter": "C",
+          "text": "Canción",
+          "is_correct": false,
+          "feedback": "Es aguda terminada en consonante, así que la tilde es obligatoria."
         },
         {
           "letter": "D",
-          "text": "examene's",
+          "text": "Rápido",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'examene's' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "También es llana y se escribe sin tilde, pero no es la opción que se pedía identificar."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Las palabras esdrújulas llevan tilde siempre, sin excepción, en la antepenúltima sílaba.\n\n---",
+      "correct_answer": "A",
+      "explanation": "Las palabras llanas terminadas en vocal nunca llevan tilde. Forman parte del grupo más numeroso del español e incluyen 'manzana', 'casa', 'libro' o 'rápido'.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -369,36 +369,36 @@
     },
     {
       "id": "PY-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v9",
-      "statement": "¿El 'Romance de la luna, luna' de Federico Garcia Lorca es un poema de tipo?",
+      "statement": "En 'Éramos pequeños cuando llegó la guerra', ¿por qué 'Éramos' lleva tilde?",
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
-          "letter": "B",
-          "text": "Narrativo-lirico con elementos del romance tradicional",
+          "letter": "A",
+          "text": "Por ser una palabra aguda terminada en 's'",
           "is_correct": true,
-          "feedback": "Correcto. La opción 'Narrativo-lirico con elementos del romance tradicional' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes."
+          "feedback": "Es correcto: las formas del pretérito imperfecto de ser y estar son agudas terminadas en 's' y por eso llevan tilde."
         },
         {
-          "letter": "A",
-          "text": "Exclusivamente dramatico",
+          "letter": "B",
+          "text": "Por ser llana terminada en vocal",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Exclusivamente dramatico' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Termina en la consonante 's', no en vocal, y además es aguda y no llana."
         },
         {
           "letter": "C",
-          "text": "Ensayo filosofico en verso",
+          "text": "Por ser esdrújula con tónica en la antepenúltima sílaba",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Ensayo filosofico en verso' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Una palabra de una sola sílaba no puede ser esdrújula, porque no tiene antepenúltima."
         },
         {
           "letter": "D",
-          "text": "Poema epico clasico",
+          "text": "Por ser una palabra aguda terminada en vocal",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Poema epico clasico' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Las agudas terminadas en vocal no llevan tilde; esta forma es aguda terminada en 's'."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Lorca utiliza la estructura del romance tradicional para crear un poema narrativo-lirico.\n\n---",
+      "correct_answer": "A",
+      "explanation": "Las formas del pretérito imperfecto de ser y estar, como 'era' y 'eran', se consideran agudas terminadas en 's' y por eso se escriben con tilde, igual que 'fue' y 'están'.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -421,25 +421,25 @@
           "letter": "B",
           "text": "El agua es esencial para la vida y debe cuidarse",
           "is_correct": true,
-          "feedback": "Correcto. La opción 'El agua es esencial para la vida y debe cuidarse' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes."
+          "feedback": "Correcto. La idea principal sostiene que el agua es un recurso vital y que hay que cuidarla; las demas opciones recortan ese mensaje o lo contradicen."
         },
         {
           "letter": "A",
           "text": "El agua solo se usa para beber",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'El agua solo se usa para beber' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Incorrecto. Reduce el agua a un solo uso domestico. El texto la presenta como recurso vital para la vida en general, no unicamente como algo con que beber."
         },
         {
           "letter": "C",
           "text": "El agua no es importante",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'El agua no es importante' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Incorrecto. Contradice de frente al texto: si el agua careciera de importancia, no tendria sentido que el texto insistiera en su cuidado. Una idea principal entre las opciones no puede negar lo que el propio texto afirma."
         },
         {
           "letter": "D",
           "text": "El agua es un recurso infinito",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'El agua es un recurso infinito' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Incorrecto. Afirma que el agua es inagotable y con ello borra la necesidad de cuidarla, que es justamente la tesis que el texto sostiene."
         }
       ],
       "correct_answer": "B",
@@ -459,36 +459,36 @@
     },
     {
       "id": "PY-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v11",
-      "statement": "En una lectura: 'El sol brillaba mientras los pajaros cantaban'. ¿Que funcion cumple?",
+      "statement": "En un relato situado en Encarnación se lee: 'Aunque el puente estaba cerrado, Elena encontró otra ruta y llegó al hospital'. ¿Qué relación establece la subordinada con la acción principal?",
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
-          "letter": "C",
-          "text": "Crear una atmosfera o ambiente",
-          "is_correct": true,
-          "feedback": "Correcto. La opción 'Crear una atmosfera o ambiente' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes."
-        },
-        {
           "letter": "A",
-          "text": "Presentar un argumento",
+          "text": "Presenta la causa que hizo inevitable la llegada al hospital.",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Presentar un argumento' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "El cierre del puente dificulta la llegada; no es la causa que la vuelve inevitable."
         },
         {
           "letter": "B",
-          "text": "Narrar una secuencia",
+          "text": "Expresa una condición necesaria para que Elena pueda llegar.",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Narrar una secuencia' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "La llegada no depende de que el puente esté cerrado; el cierre representa una dificultad, no un requisito."
+        },
+        {
+          "letter": "C",
+          "text": "Presenta un obstáculo que no impide que se realice la acción principal.",
+          "is_correct": true,
+          "feedback": "'Aunque' introduce una concesión: el puente cerrado es una dificultad que Elena logra superar."
         },
         {
           "letter": "D",
-          "text": "Describir un dialogo",
+          "text": "Indica la finalidad por la que Elena decidió cerrar el puente.",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Describir un dialogo' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "El texto no atribuye a Elena el cierre del puente ni introduce un propósito mediante una construcción final."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Las descripciones ayudan a crear la atmosfera en la narracion.\n\n---",
+      "explanation": "La subordinada concesiva presenta una circunstancia que podría impedir la acción, pero no la impide. El conector 'aunque' permite reconocer esa relación.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -504,36 +504,36 @@
     },
     {
       "id": "PY-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v12",
-      "statement": "¿Cual es la funcion del lenguaje en: '¡Feliz cumpleanos!'?",
+      "statement": "¿Qué función del lenguaje predomina en la afirmación 'La palabra «nosotros» es un pronombre personal'?",
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
-          "letter": "C",
-          "text": "Funcion expresiva o emotiva",
-          "is_correct": true,
-          "feedback": "Correcto. La opción 'Funcion expresiva o emotiva' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes."
-        },
-        {
           "letter": "A",
-          "text": "Funcion referencial",
+          "text": "Apelativa, porque busca que el receptor ejecute una orden.",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Funcion referencial' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "La afirmación no ordena una acción; describe la categoría gramatical de una palabra."
         },
         {
           "letter": "B",
-          "text": "Funcion apelativa",
+          "text": "Fática, porque comprueba si el canal de comunicación está abierto.",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Funcion apelativa' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "El mensaje no verifica el contacto entre interlocutores, sino que explica un elemento del código lingüístico."
+        },
+        {
+          "letter": "C",
+          "text": "Metalingüística, porque utiliza el lenguaje para explicar el propio código.",
+          "is_correct": true,
+          "feedback": "Identificar 'nosotros' como pronombre consiste en hablar sobre una palabra y su función gramatical."
         },
         {
           "letter": "D",
-          "text": "Funcion metalinguistica",
+          "text": "Emotiva, porque expresa el estado de ánimo del hablante.",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Funcion metalinguistica' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "La oración clasifica una palabra y no manifiesta sentimientos o emociones personales."
         }
       ],
       "correct_answer": "C",
-      "explanation": "La funcion expresiva se centra en el emisor y expresa sentimientos.\n\n---",
+      "explanation": "La función metalingüística aparece cuando el lenguaje se utiliza para explicar palabras o reglas del propio idioma. Aquí se identifica una categoría gramatical.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -556,25 +556,25 @@
           "letter": "B",
           "text": "ademas",
           "is_correct": true,
-          "feedback": "Correcto. La opción 'ademas' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes."
+          "feedback": "Correcto. 'Ademas' es un conector aditivo: suma un rasgo nuevo sin contradecir lo expuesto antes. Aqui la hermosura de Mariscal Estigarribia y la cordialidad de su gente son dos datos que se acumulan y ninguno anula al otro."
         },
         {
           "letter": "A",
           "text": "sin embargo",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'sin embargo' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Incorrecto. 'Sin embargo' es adversativo: introduce una idea que se opone a lo que se habia dicho. En esta oracion las dos proposiciones se refuerzan, porque la gente de Mariscal Estigarribia no contradice a su ciudad, asi que una oposicion seria falsa."
         },
         {
           "letter": "C",
           "text": "por lo tanto",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'por lo tanto' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Incorrecto. 'Por lo tanto' es conclusivo: la segunda proposicion deduce una consecuencia de la primera. Aqui no hay deduccion, sino dos caracteristicas de Mariscal Estigarribia que se acumulan sin derivarse una de otra."
         },
         {
           "letter": "D",
           "text": "aunque",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'aunque' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Incorrecto. 'Aunque' introduce una concesion: lo que va detras se opone a lo esperado. La segunda proposicion no contradice la primera, la completa, asi que este conector tampoco corresponde."
         }
       ],
       "correct_answer": "B",
@@ -594,36 +594,36 @@
     },
     {
       "id": "PY-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v14",
-      "statement": "¿Cual oracion esta correctamente escrita?",
+      "statement": "¿Cuál de las opciones está escrita con la tilde correctamente colocada?",
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
-          "letter": "B",
-          "text": "Los estudiantes del Colegio Nacional Hernandarias estudian mucho.",
+          "letter": "A",
+          "text": "Practiqué",
           "is_correct": true,
-          "feedback": "Correcto. La opción 'Los estudiantes del Colegio Nacional Hernandarias estudian mucho.' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes."
+          "feedback": "Es correcta: es aguda terminada en vocal y por eso no lleva tilde."
         },
         {
-          "letter": "A",
-          "text": "Los estudiantes de la escuela estudian poco.",
+          "letter": "B",
+          "text": "Prácticé",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Los estudiantes de la escuela estudian poco.' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Es la respuesta: es aguda terminada en vocal, de modo que la tilde es incorrecta."
         },
         {
           "letter": "C",
-          "text": "Los estudiantes del instituto no estudian nada.",
+          "text": "Práctiqué",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Los estudiantes del instituto no estudian nada.' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "La tilde no corresponde: la palabra es aguda y se acentúa en la última sílaba, no en la anterior."
         },
         {
           "letter": "D",
-          "text": "Los estudiantes del instituto estudian mucho.",
+          "text": "Practiquè",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Los estudiantes del instituto estudian mucho.' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "El acento es abierto, no grave: la palabra termina en vocal y es aguda."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La opcion A sigue las normas ortograficas correctamente.\n\n---",
+      "correct_answer": "A",
+      "explanation": "Una palabra aguda terminada en vocal nunca lleva tilde, de modo que 'practiqué' se escribe sin ella. Colocar la tilde en la sílaba anterior convertiría la palabra en llana.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -639,36 +639,36 @@
     },
     {
       "id": "PY-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v15",
-      "statement": "En la oracion 'El libro azul es fascinante'. ¿Que funcion cumple la subordinada?",
+      "statement": "En el grupo de palabras 'examen, útil, árbol, jefe', ¿cuáles llevan tilde?",
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
           "letter": "A",
-          "text": "Adjetiva o de relativo",
+          "text": "'Árbol' y 'jefe', por ser agudas terminadas en consonante",
           "is_correct": true,
-          "feedback": "Correcto. La opción 'Adjetiva o de relativo' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes."
+          "feedback": "Es correcta: ambas son agudas terminadas en consonante y por eso llevan tilde."
         },
         {
           "letter": "B",
-          "text": "Sustantiva",
+          "text": "'Examen' y 'útil', por ser llanas terminadas en vocal",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Sustantiva' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Las llanas terminadas en vocal no llevan tilde, así que ambas están escritas correctamente sin ella."
         },
         {
           "letter": "C",
-          "text": "Adverbial",
+          "text": "Todas, porque son palabras esdrújulas",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Adverbial' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Ninguna es esdrújula: no hay ninguna con la tónica en la antepenúltima sílaba."
         },
         {
           "letter": "D",
-          "text": "Coordinada copulativa",
+          "text": "'Jefe' y 'útil', por ser agudas terminadas en vocal",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Coordinada copulativa' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "'Jefe' es aguda terminada en consonante y 'útil' es llana, así que la regla indicada no corresponde."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Las oraciones subordinadas adjetivas complementan a un nombre.\n\n---",
+      "explanation": "Aplicando la clasificación por terminación: 'examen' y 'útil' son llanas terminadas en vocal y se escriben sin tilde; 'árbol' y 'jefe' son agudas terminadas en consonante y la llevan.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -684,36 +684,36 @@
     },
     {
       "id": "PY-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v16",
-      "statement": "¿Cual de estas palabras lleva tilde segun las reglas de acentuacion?",
+      "statement": "¿Qué palabra pertenece al grupo de las agudas terminadas en consonante?",
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
-          "letter": "D",
-          "text": "arbol",
-          "is_correct": true,
-          "feedback": "Correcto. La opción 'arbol' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes."
-        },
-        {
           "letter": "A",
-          "text": "casa",
-          "is_correct": false,
-          "feedback": "Incorrecto. La opción 'casa' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "text": "Cantar",
+          "is_correct": true,
+          "feedback": "Es llana terminada en vocal, de modo que no pertenece a ese grupo."
         },
         {
           "letter": "B",
-          "text": "calor",
+          "text": "Café",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'calor' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Es aguda terminada en vocal, la otra subclase de las palabras agudas."
         },
         {
           "letter": "C",
-          "text": "pared",
+          "text": "Surgió",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'pared' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Es aguda terminada en vocal, en 'ió', así que no lleva tilde y no pertenece al grupo pedido."
+        },
+        {
+          "letter": "D",
+          "text": "Camión",
+          "is_correct": false,
+          "feedback": "Es la respuesta correcta: es aguda terminada en 'n', de modo que lleva tilde."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Las palabras llanas terminadas en consonante distinta de n/s llevan tilde.\n\n---",
+      "correct_answer": "A",
+      "explanation": "'Camión' es aguda y termina en consonante, así que lleva tilde obligatoria. 'Surgió' también es aguda, pero termina en vocal y por eso no la lleva.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -729,36 +729,36 @@
     },
     {
       "id": "PY-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v17",
-      "statement": "¿Que figura literaria se emplea en 'tus ojos son dos luceros'?",
+      "statement": "Un poema dice: 'La ciudad despertó con mil bocinas'. Si el contexto describe el inicio del tránsito y no menciona seres fantásticos, ¿qué análisis explica mejor el verbo 'despertó'?",
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
-          "letter": "B",
-          "text": "Metafora",
-          "is_correct": true,
-          "feedback": "Correcto. La opción 'Metafora' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes."
+          "letter": "A",
+          "text": "Introduce un símil porque compara explícitamente la ciudad con una persona mediante 'como'.",
+          "is_correct": false,
+          "feedback": "El verso no contiene 'como' ni otra marca de comparación explícita; atribuye directamente la acción de despertar."
         },
         {
-          "letter": "A",
-          "text": "Comparacion",
+          "letter": "B",
+          "text": "Produce una onomatopeya porque 'despertó' reproduce el sonido de las bocinas.",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Comparacion' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "'Despertó' nombra una acción y no imita acústicamente el sonido de una bocina."
         },
         {
           "letter": "C",
-          "text": "Hiparbole",
-          "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Hiparbole' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "text": "Personifica la ciudad al atribuirle una acción propia de un ser animado.",
+          "is_correct": true,
+          "feedback": "La ciudad no duerme literalmente; 'despertó' representa el comienzo de su actividad mediante una acción de seres animados."
         },
         {
           "letter": "D",
-          "text": "Personificacion",
+          "text": "Expresa una antítesis porque 'ciudad' y 'despertó' tienen significados opuestos.",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Personificacion' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Esas palabras no representan ideas contrarias; el efecto procede de atribuir una acción animada a la ciudad."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La metafora identifica un termino real con uno imaginario por su semejanza.\n\n---",
+      "correct_answer": "C",
+      "explanation": "La personificación atribuye acciones o cualidades de seres animados a entidades que no las realizan literalmente. El contexto permite interpretar el despertar como inicio de la actividad urbana.",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -774,36 +774,36 @@
     },
     {
       "id": "PY-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v18",
-      "statement": "¿Cómo se escribe correctamente en plural la palabra 'árbol' según las reglas de acentuación?",
+      "statement": "¿Cuál de las siguientes palabras lleva tilde por ser esdrújula?",
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
           "letter": "A",
-          "text": "arboles",
-          "is_correct": false,
-          "feedback": "Incorrecto. La opción 'arboles' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "text": "Teléfono",
+          "is_correct": true,
+          "feedback": "Es llana terminada en vocal, de modo que no lleva tilde por esa razón."
         },
         {
           "letter": "B",
-          "text": "árboles",
-          "is_correct": true,
-          "feedback": "Correcto. Al ser una palabra esdrújula, siempre debe llevar tilde."
+          "text": "Intérprete",
+          "is_correct": false,
+          "feedback": "Es la respuesta: es esdrújula porque lleva la tónica en la antepenúltima sílaba, 'tér'."
         },
         {
           "letter": "C",
-          "text": "arbolés",
+          "text": "Cantar",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'arbolés' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Es llana terminada en vocal y no lleva tilde."
         },
         {
           "letter": "D",
-          "text": "árbolé's",
+          "text": "Papel",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'árbolé's' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Es llana terminada en consonante y por eso se escribe sin tilde."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Las palabras esdrújulas llevan tilde siempre, sin excepción, en la antepenúltima sílaba.\n\n---",
+      "correct_answer": "A",
+      "explanation": "Las palabras esdrújulas llevan tilde obligatoriamente porque su sílaba tónica es la antepenúltima. 'Intérprete' cumple esa condición y 'teléfono' no.",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -819,36 +819,36 @@
     },
     {
       "id": "PY-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v19",
-      "statement": "¿El 'Romance de la luna, luna' de Federico Garcia Lorca es un poema de tipo?",
+      "statement": "Una reseña de una novela ambientada en Asunción afirma: 'La obra es excelente porque todos sus personajes son buenas personas'. ¿Qué revisión fortalece más la valoración literaria?",
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
-          "letter": "D",
-          "text": "Narrativo-lirico con elementos del romance tradicional",
-          "is_correct": true,
-          "feedback": "Correcto. La opción 'Narrativo-lirico con elementos del romance tradicional' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes."
-        },
-        {
           "letter": "A",
-          "text": "Exclusivamente dramatico",
+          "text": "Reemplazar 'excelente' por 'perfecta' para hacer más contundente el juicio.",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Exclusivamente dramatico' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Intensificar el adjetivo no aporta criterios ni evidencia que fundamenten la valoración."
         },
         {
           "letter": "B",
-          "text": "Ensayo filosofico en verso",
+          "text": "Eliminar cualquier referencia al texto y conservar solo la opinión del reseñista.",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Ensayo filosofico en verso' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Sin referencias a la obra, el juicio carece de evidencia verificable sobre sus recursos literarios."
         },
         {
           "letter": "C",
-          "text": "Poema epico clasico",
+          "text": "Concluir que una novela es mala siempre que aparezca un personaje cruel.",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Poema epico clasico' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "La conducta moral de un personaje no determina la calidad de su construcción ni la calidad literaria de la obra."
+        },
+        {
+          "letter": "D",
+          "text": "Analizar cómo la voz narrativa y los conflictos construyen a los personajes, apoyándose en pasajes concretos.",
+          "is_correct": true,
+          "feedback": "Esta revisión relaciona recursos narrativos con sus efectos y utiliza evidencia textual para sostener el juicio."
         }
       ],
       "correct_answer": "D",
-      "explanation": "Lorca utiliza la estructura del romance tradicional para crear un poema narrativo-lirico.\n\n---",
+      "explanation": "Una valoración literaria fundamentada examina cómo funcionan los recursos de la obra y aporta evidencia textual. La bondad moral de los personajes no basta como criterio de calidad.",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -864,36 +864,36 @@
     },
     {
       "id": "PY-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v20",
-      "statement": "En el Colegio Nacional Fernando de la Mora de Fernando de la Mora, analizando un texto. ¿Cual es la idea principal?",
+      "statement": "Lee: 'En la biblioteca del barrio de Asunción se ofrecen libros impresos y audiolibros. Estas alternativas permiten que personas con distintas necesidades accedan a las mismas historias. Ampliar los formatos es una manera de reducir barreras de lectura'. ¿Qué afirmación sintetiza mejor el texto?",
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
           "letter": "A",
-          "text": "El agua es esencial para la vida y debe cuidarse",
-          "is_correct": true,
-          "feedback": "Correcto. La opción 'El agua es esencial para la vida y debe cuidarse' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes."
+          "text": "Los audiolibros deben reemplazar todos los libros impresos.",
+          "is_correct": false,
+          "feedback": "El texto propone ampliar las alternativas, no eliminar uno de los formatos disponibles."
         },
         {
           "letter": "B",
-          "text": "El agua solo se usa para beber",
+          "text": "Todas las personas del barrio prefieren escuchar historias.",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'El agua solo se usa para beber' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "El texto reconoce necesidades distintas y no afirma una preferencia compartida por toda la comunidad."
         },
         {
           "letter": "C",
-          "text": "El agua no es importante",
+          "text": "La ubicación de la biblioteca determina el contenido de las historias.",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'El agua no es importante' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Asunción sitúa el ejemplo, pero el argumento trata sobre formatos y accesibilidad, no sobre el contenido de las historias."
         },
         {
           "letter": "D",
-          "text": "El agua es un recurso infinito",
-          "is_correct": false,
-          "feedback": "Incorrecto. La opción 'El agua es un recurso infinito' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "text": "La diversidad de formatos favorece un acceso más inclusivo a la lectura.",
+          "is_correct": true,
+          "feedback": "Esta afirmación integra las distintas opciones de lectura y su propósito de reducir barreras de acceso."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "El texto destaca la importancia del agua como recurso vital.\n\n---",
+      "correct_answer": "D",
+      "explanation": "La idea central vincula la variedad de formatos con la reducción de barreras. Los libros impresos y los audiolibros son ejemplos que apoyan esa relación.",
       "difficulty": "10",
       "images": [],
       "tags": [],

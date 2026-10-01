@@ -55,36 +55,36 @@
     },
     {
       "id": "CO-ING-11-2026-W37-future-cities-001-MASTERY-bundle-v2",
-      "statement": "In the context of future cities, which word best completes the following sentence: 'The government's failure to address the issue has only served to __________ the social divide'?",
+      "statement": "In the context of future cities, which word best completes the following sentence: 'Building motorways through the centre to move cars faster __________ the very neighbourhoods the plan was meant to serve'?",
       "context": "Discussing future cities in Pereira.",
       "options": [
         {
-          "letter": "D",
-          "text": "exacerbate",
-          "is_correct": true,
-          "feedback": "Correct. 'Exacerbate' means to make a problem or bad situation worse, which fits perfectly here."
-        },
-        {
           "letter": "A",
-          "text": "alleviate",
-          "is_correct": false,
-          "feedback": "Incorrect. 'Alleviate' means to make something less severe, which is the opposite of what's needed."
+          "text": "deprives",
+          "is_correct": true,
+          "feedback": "'Deprive' means to prevent from having or receiving, and the sentence describes the residents losing access to what the scheme was supposed to give them."
         },
         {
           "letter": "B",
-          "text": "mitigate",
+          "text": "deceive",
           "is_correct": false,
-          "feedback": "Incorrect. 'Mitigate' means to make something less severe, which doesn't fit the negative consequence implied."
+          "feedback": "'Deceive' means to mislead, and the clause is about losing a neighbourhood amenity rather than being misled about a fact."
         },
         {
           "letter": "C",
-          "text": "facilitate",
+          "text": "depicts",
           "is_correct": false,
-          "feedback": "Incorrect. 'Facilitate' means to make an action or process easy or easier, which is not appropriate for a social divide."
+          "feedback": "'Depict' means to portray, and the sentence reports an effect on the people living there rather than a description in words or images."
+        },
+        {
+          "letter": "D",
+          "text": "deposit",
+          "is_correct": false,
+          "feedback": "'Deposit' means to place or leave a layer, and the clause concerns an absence rather than anything being laid down."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "This question tests advanced vocabulary (verbs of change and impact) suitable for C1+ level.\n\n---",
+      "correct_answer": "A",
+      "explanation": "The clause 'the very neighbourhoods the plan was meant to serve' sets up a reversal: the beneficiaries end up with less. A verb of taking something away, such as 'deprives', names that loss, whereas the distractors describe being misled, being portrayed or something being deposited.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -101,36 +101,36 @@
     },
     {
       "id": "CO-ING-11-2026-W37-future-cities-001-MASTERY-bundle-v3",
-      "statement": "In the context of future cities, which word best completes the following sentence: 'The government's failure to address the issue has only served to __________ the social divide'?",
+      "statement": "In the context of future cities, which word best completes the following sentence: 'A sensor network that records every journey can __________ the point at which a trip stops being anyone's private business'?",
       "context": "Discussing future cities in Barranquilla.",
       "options": [
         {
           "letter": "A",
-          "text": "exacerbate",
+          "text": "obscures",
           "is_correct": true,
-          "feedback": "Correct. 'Exacerbate' means to make a problem or bad situation worse, which fits perfectly here."
+          "feedback": "'Obscure' means to make unclear, and the sentence states the point at which privacy disappears, which is the loss of distinction described here."
         },
         {
           "letter": "B",
-          "text": "alleviate",
+          "text": "obeys",
           "is_correct": false,
-          "feedback": "Incorrect. 'Alleviate' means to make something less severe, which is the opposite of what's needed."
+          "feedback": "'Obey' means to comply with a rule or order, and the clause is about the point of no return rather than compliance."
         },
         {
           "letter": "C",
-          "text": "mitigate",
+          "text": "occludes",
           "is_correct": false,
-          "feedback": "Incorrect. 'Mitigate' means to make something less severe, which doesn't fit the negative consequence implied."
+          "feedback": "'Occlude' means to block from view, and the sentence is about the loss of privacy rather than anything physically hidden from sight."
         },
         {
           "letter": "D",
-          "text": "facilitate",
+          "text": "occupies",
           "is_correct": false,
-          "feedback": "Incorrect. 'Facilitate' means to make an action or process easy or easier, which is not appropriate for a social divide."
+          "feedback": "'Occupy' means to take up space or time, and the clause identifies a threshold rather than describing anything being filled."
         }
       ],
       "correct_answer": "A",
-      "explanation": "This question tests advanced vocabulary (verbs of change and impact) suitable for C1+ level.\n\n---",
+      "explanation": "The phrase 'stopping being anyone's private business' names a loss of distinction between private and observable. A verb of rendering something unclear, such as 'obscures', captures that, whereas the other options describe compliance, physical blocking or the act of filling space.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -147,36 +147,36 @@
     },
     {
       "id": "CO-ING-11-2026-W37-future-cities-001-MASTERY-bundle-v4",
-      "statement": "In the context of future cities, which word best completes the following sentence: 'The government's failure to address the issue has only served to __________ the social divide'?",
+      "statement": "Which term names the physical systems and facilities, such as water pipes, roads, and electricity networks, that support life in a future city?",
       "context": "Discussing future cities in Cali.",
       "options": [
         {
-          "letter": "D",
-          "text": "exacerbate",
-          "is_correct": true,
-          "feedback": "Correct. 'Exacerbate' means to make a problem or bad situation worse, which fits perfectly here."
-        },
-        {
           "letter": "A",
-          "text": "alleviate",
+          "text": "Population.",
           "is_correct": false,
-          "feedback": "Incorrect. 'Alleviate' means to make something less severe, which is the opposite of what's needed."
+          "feedback": "'Population' refers to the people living in an area, not the pipes, roads, or networks serving them."
         },
         {
           "letter": "B",
-          "text": "mitigate",
+          "text": "Forecast.",
           "is_correct": false,
-          "feedback": "Incorrect. 'Mitigate' means to make something less severe, which doesn't fit the negative consequence implied."
+          "feedback": "A 'forecast' is a prediction about future conditions, not a city's physical systems."
         },
         {
           "letter": "C",
-          "text": "facilitate",
+          "text": "Infrastructure.",
+          "is_correct": true,
+          "feedback": "'Infrastructure' refers to the basic physical systems and facilities that allow a city to function."
+        },
+        {
+          "letter": "D",
+          "text": "Legislation.",
           "is_correct": false,
-          "feedback": "Incorrect. 'Facilitate' means to make an action or process easy or easier, which is not appropriate for a social divide."
+          "feedback": "'Legislation' refers to laws; it does not name the physical facilities listed in the question."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "This question tests advanced vocabulary (verbs of change and impact) suitable for C1+ level.\n\n---",
+      "correct_answer": "C",
+      "explanation": "'Infrastructure' is the collective term for essential physical systems such as transport, water, and electricity networks.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -239,36 +239,36 @@
     },
     {
       "id": "CO-ING-11-2026-W37-future-cities-001-MASTERY-bundle-v6",
-      "statement": "According to a recent report on future cities in Cali, what is implied about the role of Prediction & Probability in shaping public opinion?",
+      "statement": "A fictional planning model for Cali estimates a 70% chance that bus journey times will fall if dedicated lanes are introduced. Which sentence communicates this prediction accurately?",
       "context": "Discussing future cities in Cali.",
       "options": [
         {
-          "letter": "B",
-          "text": "It serves as a critical tool for nuanced communication.",
+          "letter": "A",
+          "text": "Bus journeys are likely to become shorter if the dedicated lanes are introduced.",
           "is_correct": true,
-          "feedback": "Correct. Prediction and probability is the point here: the pair separates certainty from likelihood: \"Traffic will exceed capacity\" against \"Traffic is likely to exceed capacity\", so the forecast arrives with a confidence level attached, which is what makes it usable for planning. Reading that implication is what the question asks."
+          "feedback": "'Likely' expresses an outcome that is more probable than not while preserving the condition and the model's uncertainty."
         },
         {
-          "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
+          "letter": "B",
+          "text": "Bus journeys are guaranteed to become shorter, whatever the city does.",
           "is_correct": false,
-          "feedback": "This calls the device irrelevant, but the report treats that confidence level as central to public discussion, so calling it irrelevant contradicts the text."
+          "feedback": "A 70% estimate is not a guarantee, and the prediction depends on introducing the dedicated lanes."
         },
         {
           "letter": "C",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "Bus journeys cannot become shorter after the dedicated lanes are introduced.",
           "is_correct": false,
-          "feedback": "This claims the device makes the claim plainer, whereas the modal adds a degree of certainty to the forecast rather than making the message simpler."
+          "feedback": "'Cannot' expresses impossibility, which contradicts the model's estimated 70% chance of shorter journeys."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in {city}.",
+          "text": "Bus journeys have already become shorter because the lanes were introduced.",
           "is_correct": false,
-          "feedback": "This restricts the device to specialists in a single city, but the report shows this usage across media and discourse, not as jargon owned by one city's planners."
+          "feedback": "The model predicts a conditional future outcome; it does not report a completed change or confirm that the lanes exist."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "correct_answer": "A",
+      "explanation": "'Likely' appropriately communicates a 70% probability without presenting the predicted outcome as certain or already achieved.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -515,36 +515,36 @@
     },
     {
       "id": "CO-ING-11-2026-W37-future-cities-001-MASTERY-bundle-v12",
-      "statement": "Complete the following sentence about future cities: 'Hardly __________ the new policy been implemented when the first results started to show.' (Topic: Prediction & Probability)",
+      "statement": "Complete the following sentence about future cities: 'Not until the tram line reached the outer estates __________ the commute stop being decided by car alone.' (Topic: 'not until' with an inverted clause)",
       "context": "Discussing future cities in Pereira.",
       "options": [
         {
-          "letter": "B",
+          "letter": "A",
           "text": "had",
-          "is_correct": true,
-          "feedback": "Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events."
+          "is_correct": false,
+          "feedback": "'Not until' inverts the main clause, placing the auxiliary before the subject 'the commute'. 'Had the commute stopped' would leave the subject first, which the pattern forbids."
         },
         {
-          "letter": "A",
-          "text": "has",
-          "is_correct": false,
-          "feedback": "Incorrect. The sentence refers to a past sequence, requiring the past perfect in inversion."
+          "letter": "B",
+          "text": "did",
+          "is_correct": true,
+          "feedback": "'Not until the tram line reached did the commute stop being decided by car alone'. The auxiliary is fronted to invert the clause."
         },
         {
           "letter": "C",
           "text": "was",
           "is_correct": false,
-          "feedback": "Incorrect. 'Was' does not fit the past perfect structure required by 'Hardly'."
+          "feedback": "'Was' would suggest a passive or a singular subject. The subject is singular but the verb is active, so a passive reading is not available."
         },
         {
           "letter": "D",
-          "text": "did",
+          "text": "do",
           "is_correct": false,
-          "feedback": "Incorrect. 'Did' would require the base form of the verb, not the past participle 'been'."
+          "feedback": "'Do' is present tense and cannot invert a past sequence in which the tram line had already reached the estates."
         }
       ],
       "correct_answer": "B",
-      "explanation": "This evaluates mastery of advanced inversion structures, a key component of C1+ proficiency.\n\n---",
+      "explanation": "Inversion with 'not until' frontes the auxiliary so that the subject follows the verb. The auxiliary 'did' carries the tense of the main clause while the subject is delayed. Selecting a perfect or passive auxiliary would state a relation of time or voice that the sentence does not express.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -561,36 +561,36 @@
     },
     {
       "id": "CO-ING-11-2026-W37-future-cities-001-MASTERY-bundle-v13",
-      "statement": "Complete the following sentence about future cities: 'Hardly __________ the new policy been implemented when the first results started to show.' (Topic: Prediction & Probability)",
+      "statement": "Complete the following sentence about future cities: 'Rarely __________ a street designed for cars in the 1960s cope with the volumes a pedestrian city now produces.' (Topic: inversion with 'rarely' and a singular subject)",
       "context": "Discussing future cities in Medellín.",
       "options": [
         {
-          "letter": "D",
-          "text": "had",
-          "is_correct": true,
-          "feedback": "Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events."
-        },
-        {
           "letter": "A",
-          "text": "has",
+          "text": "do",
           "is_correct": false,
-          "feedback": "Incorrect. The sentence refers to a past sequence, requiring the past perfect in inversion."
+          "feedback": "'Do' agrees with plural subjects, and 'a street' is singular, so the base form with 'does' is required."
         },
         {
           "letter": "B",
-          "text": "was",
-          "is_correct": false,
-          "feedback": "Incorrect. 'Was' does not fit the past perfect structure required by 'Hardly'."
+          "text": "does",
+          "is_correct": true,
+          "feedback": "'Rarely does a street cope'. With a singular subject the inversion uses 'does', and the main verb reverts to the base form 'cope'."
         },
         {
           "letter": "C",
-          "text": "did",
+          "text": "have",
           "is_correct": false,
-          "feedback": "Incorrect. 'Did' would require the base form of the verb, not the past participle 'been'."
+          "feedback": "'Have' would give the perfect aspect, but the bare inversion with 'rarely' and a singular subject takes 'does' before the base form."
+        },
+        {
+          "letter": "D",
+          "text": "are",
+          "is_correct": false,
+          "feedback": "'Are' cannot invert with a singular subject and would require a plural or a collection for agreement."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "This evaluates mastery of advanced inversion structures, a key component of C1+ proficiency.\n\n---",
+      "correct_answer": "B",
+      "explanation": "Negative adverbials such as 'rarely', 'seldom' and 'never' trigger subject-auxiliary inversion. When the subject is third person singular, as 'a street' is, the auxiliary is 'does' and the following verb loses its inflection. Using 'do' is the frequent error because the plural pattern dominates in the language.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -607,36 +607,36 @@
     },
     {
       "id": "CO-ING-11-2026-W37-future-cities-001-MASTERY-bundle-v14",
-      "statement": "Complete the following sentence about future cities: 'Hardly __________ the new policy been implemented when the first results started to show.' (Topic: Prediction & Probability)",
+      "statement": "A fictional urban report states, 'Unless Medellín expands affordable housing near transit stations, lower-income residents may be pushed farther from reliable transport.' Which interpretation preserves both the condition and the degree of certainty?",
       "context": "Discussing future cities in Bogotá.",
       "options": [
         {
           "letter": "A",
-          "text": "had",
+          "text": "If affordable housing near stations is not expanded, displacement farther from reliable transport is possible.",
           "is_correct": true,
-          "feedback": "Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events."
+          "feedback": "'Unless' means 'if not', and 'may' expresses possibility rather than certainty; this paraphrase preserves both meanings."
         },
         {
           "letter": "B",
-          "text": "has",
+          "text": "If affordable housing near stations is expanded, displacement farther from reliable transport is certain.",
           "is_correct": false,
-          "feedback": "Incorrect. The sentence refers to a past sequence, requiring the past perfect in inversion."
+          "feedback": "This reverses the stated condition and replaces the possibility expressed by 'may' with certainty."
         },
         {
           "letter": "C",
-          "text": "was",
+          "text": "Residents have already been displaced because affordable housing was expanded.",
           "is_correct": false,
-          "feedback": "Incorrect. 'Was' does not fit the past perfect structure required by 'Hardly'."
+          "feedback": "The report describes a possible future consequence, not an event already completed, and it does not blame housing expansion."
         },
         {
           "letter": "D",
-          "text": "did",
+          "text": "Without housing expansion, residents will definitely remain close to reliable transport.",
           "is_correct": false,
-          "feedback": "Incorrect. 'Did' would require the base form of the verb, not the past participle 'been'."
+          "feedback": "This predicts the opposite outcome and adds certainty, whereas the report warns of possible displacement."
         }
       ],
       "correct_answer": "A",
-      "explanation": "This evaluates mastery of advanced inversion structures, a key component of C1+ proficiency.\n\n---",
+      "explanation": "'Unless' introduces a negative condition equivalent to 'if not'. The modal 'may' marks displacement as a possible consequence rather than an inevitable one.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -653,36 +653,36 @@
     },
     {
       "id": "CO-ING-11-2026-W37-future-cities-001-MASTERY-bundle-v15",
-      "statement": "Complete the following sentence about future cities: 'Hardly __________ the new policy been implemented when the first results started to show.' (Topic: Prediction & Probability)",
+      "statement": "Complete the following sentence about future cities: 'No sooner __________ the first cycle lane open than traffic displaced from the road appeared in the side streets.' (Topic: 'no sooner ... than' inversion)",
       "context": "Discussing future cities in Cartagena.",
       "options": [
         {
-          "letter": "B",
+          "letter": "A",
           "text": "had",
           "is_correct": true,
-          "feedback": "Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events."
+          "feedback": "'No sooner had the cycle lane opened than traffic appeared'. The structure pairs a completed past action with the immediate consequence that followed it."
         },
         {
-          "letter": "A",
-          "text": "has",
+          "letter": "B",
+          "text": "did",
           "is_correct": false,
-          "feedback": "Incorrect. The sentence refers to a past sequence, requiring the past perfect in inversion."
+          "feedback": "'Did' with a bare infinitive would need 'no sooner had'; the participle 'opened' shows that the perfect auxiliary is required rather than the do-form."
         },
         {
           "letter": "C",
-          "text": "was",
+          "text": "has",
           "is_correct": false,
-          "feedback": "Incorrect. 'Was' does not fit the past perfect structure required by 'Hardly'."
+          "feedback": "'Has' would give the present perfect and place the action in unfinished time, whereas 'no sooner ... than' needs a bounded past sequence."
         },
         {
           "letter": "D",
-          "text": "did",
+          "text": "was",
           "is_correct": false,
-          "feedback": "Incorrect. 'Did' would require the base form of the verb, not the past participle 'been'."
+          "feedback": "'Was' cannot combine with a past participle in this active construction, and the clause clearly states that the lane was opened."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "This evaluates mastery of advanced inversion structures, a key component of C1+ proficiency.\n\n---",
+      "correct_answer": "A",
+      "explanation": "The correlative pair 'no sooner ... than' obliges the perfect auxiliary before the participle, so the first clause reads 'had the cycle lane opened'. The second clause then arrives with 'than', marking the consequence that followed immediately. Choosing a present perfect or a simple do-inversion breaks the bounded past sequence the pattern requires.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -699,36 +699,36 @@
     },
     {
       "id": "CO-ING-11-2026-W37-future-cities-001-MASTERY-bundle-v16",
-      "statement": "Complete the following sentence about future cities: 'Hardly __________ the new policy been implemented when the first results started to show.' (Topic: Prediction & Probability)",
+      "statement": "Complete the following sentence about future cities: 'Under no circumstances __________ a planning authority approve a tower whose shadow falls across an entire school yard.' (Topic: inversion with a negative adverbial and a modal verb)",
       "context": "Discussing future cities in Cali.",
       "options": [
         {
-          "letter": "B",
-          "text": "had",
+          "letter": "A",
+          "text": "should",
           "is_correct": true,
-          "feedback": "Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events."
+          "feedback": "'Under no circumstances should a planning authority approve'. A modal inverts exactly as the auxiliary of an ordinary verb does, so fronting 'should' produces the emphatic reading."
         },
         {
-          "letter": "A",
-          "text": "has",
+          "letter": "B",
+          "text": "must",
           "is_correct": false,
-          "feedback": "Incorrect. The sentence refers to a past sequence, requiring the past perfect in inversion."
+          "feedback": "'Must' states obligation, and in this negated frame the modal that carries the contrast is 'should'; 'must' would change what the sentence claims."
         },
         {
           "letter": "C",
-          "text": "was",
+          "text": "would",
           "is_correct": false,
-          "feedback": "Incorrect. 'Was' does not fit the past perfect structure required by 'Hardly'."
+          "feedback": "'Would' belongs to the conditional or the reporting sequence here, not to the emphatic inversion the negative adverbial demands."
         },
         {
           "letter": "D",
-          "text": "did",
+          "text": "ought",
           "is_correct": false,
-          "feedback": "Incorrect. 'Did' would require the base form of the verb, not the past participle 'been'."
+          "feedback": "'Ought' takes 'to' plus an infinitive, so it could not fill the gap directly after the negative adverbial in this construction."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "This evaluates mastery of advanced inversion structures, a key component of C1+ proficiency.\n\n---",
+      "correct_answer": "A",
+      "explanation": "Negative adverbials such as 'under no circumstances' and 'in no way' trigger inversion of the first auxiliary, and modals invert in exactly the same way. Fronting 'should' ahead of the subject produces the emphatic reading. A modal of obligation would state a different claim, and 'ought' cannot occupy the position without 'to' plus an infinitive.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],

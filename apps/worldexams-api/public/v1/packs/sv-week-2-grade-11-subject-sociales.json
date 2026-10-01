@@ -9,36 +9,36 @@
   "questions": [
     {
       "id": "SV-SOC-11-2026-W02-diversidad-cultural-001-MASTERY-bundle-v1",
-      "statement": "¿Qué documento establece la organización del Estado?",
+      "statement": "¿Cuál de estos bienes es un patrimonio cultural inmaterial?",
       "context": "Clase de ciencias sociales en San Salvador estudiando diversidad cultural.",
       "options": [
         {
-          "letter": "D",
-          "text": "La Constitución",
+          "letter": "B",
+          "text": "La costumbre de preparar tamales de maíz en los pueblos",
           "is_correct": true,
-          "feedback": "Correcto. La Constitución es la norma fundamental que estructura los poderes del Estado y fija sus límites."
+          "feedback": "Correcto. Una costumbre culinaria heredada es patrimonio inmaterial porque vive en las personas."
         },
         {
           "letter": "A",
-          "text": "Una ley ordinaria",
+          "text": "La iglesia colonial de Santa Ana",
           "is_correct": false,
-          "feedback": "Una ley ordinaria se limita a desarrollar una regla ya existente, no organiza los poderes del Estado entero."
-        },
-        {
-          "letter": "B",
-          "text": "Un decreto presidencial",
-          "is_correct": false,
-          "feedback": "Un decreto presidencial es una decisión del ejecutivo sobre un asunto concreto, de rango menor que la Constitución."
+          "feedback": "Un templo es una construcción, y por eso es patrimonio cultural material."
         },
         {
           "letter": "C",
-          "text": "Un tratado internacional",
+          "text": "La moneda de curso legal del país",
           "is_correct": false,
-          "feedback": "Un tratado internacional obliga entre Estados firmantes, no es la norma que organiza el gobierno de un país."
+          "feedback": "La moneda es un objeto de uso cotidiano y no forma parte del patrimonio cultural."
+        },
+        {
+          "letter": "D",
+          "text": "La frontera que divide dos departamentos",
+          "is_correct": false,
+          "feedback": "Una frontera administrativa es un dato geográfico, no un bien cultural."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
+      "correct_answer": "B",
+      "explanation": "El patrimonio inmaterial son las prácticas y los saberes que una comunidad transmite.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -54,36 +54,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W02-diversidad-cultural-001-MASTERY-bundle-v2",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
+      "statement": "¿Por qué la UNESCO inscribió a Joya de Cerén en su Lista del Patrimonio Mundial?",
       "context": "Clase de ciencias sociales en San Miguel estudiando diversidad cultural.",
       "options": [
         {
           "letter": "D",
-          "text": "Urbanización masiva y nuevas clases sociales",
+          "text": "Por la conservación de una aldea agrícola prehispánica",
           "is_correct": true,
-          "feedback": "Correcto. La industrialización concentró a los trabajadores en las ciudades y ensanchó la burguesía y el proletariado como clases nuevas."
-        },
-        {
-          "letter": "A",
-          "text": "Retorno a la vida agrícola",
-          "is_correct": false,
-          "feedback": "La revolución industrial desplazó el trabajo del campo a la fábrica y a la ciudad, no de vuelta a la vida agrícola."
+          "feedback": "Correcto. La ceniza del volcán Loma Caldera sepultó la aldea hacia el año 600 y conservó sus restos."
         },
         {
           "letter": "B",
-          "text": "Disminución del comercio global",
+          "text": "Por conservar la mayor colección de arte colonial",
           "is_correct": false,
-          "feedback": "La producción industrial exigía materias primas y mercados, de modo que el comercio internacional creció en vez de disminuir."
+          "feedback": "La inscripción responde al valor arqueológico del sitio, no a un conjunto de arte colonial."
         },
         {
           "letter": "C",
-          "text": "Eliminación del trabajo manual",
+          "text": "Por haber eliminado el trabajo manual",
           "is_correct": false,
-          "feedback": "El trabajo manual se intensificó en las fábricas y la máquina solo transformó su forma, no lo eliminó."
+          "feedback": "Las estructuras del sitio se construyeron a mano, y ese dato no explica la inscripción."
+        },
+        {
+          "letter": "A",
+          "text": "Por ser el punto más alto del país",
+          "is_correct": false,
+          "feedback": "La altura no es un criterio de la Lista del Patrimonio Mundial."
         }
       ],
       "correct_answer": "D",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
+      "explanation": "El sitio conserva una aldea agrícola prehispánica sepultada por ceniza volcánica.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -144,36 +144,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W02-diversidad-cultural-001-MASTERY-bundle-v4",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
+      "statement": "Un museo quiere restaurar el techo de una iglesia colonial. ¿Qué medida lo protege como patrimonio material?",
       "context": "Clase de ciencias sociales en San Salvador estudiando diversidad cultural.",
       "options": [
         {
-          "letter": "B",
-          "text": "Superávit comercial",
+          "letter": "C",
+          "text": "Documentar el estado actual y usar materiales compatibles con el original",
           "is_correct": true,
-          "feedback": "Correcto. Si las exportaciones superan a las importaciones, la balanza comercial registra un superávit."
+          "feedback": "Correcto. Registrar el estado y respetar los materiales conserva el bien sin perder su autenticidad."
         },
         {
           "letter": "A",
-          "text": "Déficit comercial",
+          "text": "Pintar la fachada con colores modernos para que parezca reciente",
           "is_correct": false,
-          "feedback": "El déficit aparece cuando se importa más de lo que se exporta, exactamente al revés de lo que dice el enunciado."
+          "feedback": "Repintar borra las huellas del pasado y cambia el aspecto que da valor al edificio."
         },
         {
-          "letter": "C",
-          "text": "Balanza equilibrada",
+          "letter": "B",
+          "text": "Sustituir los muros de adobe por columnas de concreto",
           "is_correct": false,
-          "feedback": "Una balanza equilibrada exige exportaciones e importaciones iguales, y aquí las exportaciones son mayores."
+          "feedback": "El concreto cambia el material original y elimina el valor histórico de la construcción."
         },
         {
           "letter": "D",
-          "text": "Crisis económica",
+          "text": "Guardar el techo en un almacén y cerrar el acceso al público",
           "is_correct": false,
-          "feedback": "Una crisis económica es un malestar general del país, no el nombre del saldo de la balanza comercial."
+          "feedback": "Un almacén cerrado no asegura la conservación y aparta el bien de su función social."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
+      "correct_answer": "C",
+      "explanation": "Un bien material se protege registrando su estado y respetando los materiales originales.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -189,36 +189,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W02-diversidad-cultural-001-MASTERY-bundle-v5",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
+      "statement": "¿Por qué la Cofradía de las Flores y las Palmas de Panchimalco fue inscrita por la UNESCO?",
       "context": "Clase de ciencias sociales en Soyapango estudiando diversidad cultural.",
       "options": [
         {
-          "letter": "D",
-          "text": "El asesinato del Archiduque Francisco Fernando",
+          "letter": "C",
+          "text": "Porque es una expresión de patrimonio inmaterial salvageada por la comunidad",
           "is_correct": true,
-          "feedback": "Correcto. El asesinato del archiduque Francisco Fernando en Sarajevo en 1914 fue el detonante inmediato de la Primera Guerra Mundial."
+          "feedback": "Correcto. La lista representativa reconoce prácticas vivas que las propias comunidades protegen."
         },
         {
           "letter": "A",
-          "text": "El Tratado de Versalles",
+          "text": "Porque Panchimalco es la ciudad más antigua del país",
           "is_correct": false,
-          "feedback": "El Tratado de Versalles se firmó en 1919 para cerrar la guerra, de modo que fue una consecuencia y no una causa."
+          "feedback": "La inscripción depende de la tradición y su organización, no de la antigüedad del casco urbano."
         },
         {
           "letter": "B",
-          "text": "La Revolución Rusa",
+          "text": "Porque la cofradía posee la mayor colección de arte colonial",
           "is_correct": false,
-          "feedback": "La Revolución Rusa ocurrió en 1917, ya en plena guerra, y fue ajena al estallido de 1914."
+          "feedback": "El reconocimiento se refiere a una celebración y sus saberes, no a objetos coloniales."
         },
         {
-          "letter": "C",
-          "text": "La invención del avión",
+          "letter": "D",
+          "text": "Porque el Estado va a cancelar las fiestas tradicionales",
           "is_correct": false,
-          "feedback": "El avión fue inventado en 1903 y es un hecho técnico, no un detonante diplomático."
+          "feedback": "El reconocimiento protege la celebración frente a esa pérdida, no autoriza a cancelarla."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
+      "correct_answer": "C",
+      "explanation": "La lista representativa de la UNESCO reconoce prácticas vivas que protege la comunidad.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -234,36 +234,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W02-diversidad-cultural-001-MASTERY-bundle-v6",
-      "statement": "¿Qué documento establece la organización del Estado?",
+      "statement": "¿Cuál es el principal riesgo para la conservación de las lenguas náhuatl y lenca?",
       "context": "Clase de ciencias sociales en San Miguel estudiando diversidad cultural.",
       "options": [
         {
-          "letter": "A",
-          "text": "La Constitución",
+          "letter": "C",
+          "text": "La interrupción de la transmisión entre generaciones",
           "is_correct": true,
-          "feedback": "Correcto. La Constitución es la norma fundamental que estructura los poderes del Estado y fija sus límites."
+          "feedback": "Correcto. Una lengua se pierde cuando deja de aprenderse en la familia, aunque se siga hablando."
+        },
+        {
+          "letter": "A",
+          "text": "La existencia de dos lenguas originarias en el país",
+          "is_correct": false,
+          "feedback": "Tener dos lenguas es pluralismo linguístico y en sí mismo no representa una pérdida."
         },
         {
           "letter": "B",
-          "text": "Una ley ordinaria",
+          "text": "La entrada de palabras nuevas de origen inglés",
           "is_correct": false,
-          "feedback": "Una ley ordinaria se limita a desarrollar una regla ya existente, no organiza los poderes del Estado entero."
-        },
-        {
-          "letter": "C",
-          "text": "Un decreto presidencial",
-          "is_correct": false,
-          "feedback": "Un decreto presidencial es una decisión del ejecutivo sobre un asunto concreto, de rango menor que la Constitución."
+          "feedback": "Los préstamos linguísticos son normales y no constituyen una amenaza para una lengua."
         },
         {
           "letter": "D",
-          "text": "Un tratado internacional",
+          "text": "El uso de la lengua en las escuelas salvadoreñas",
           "is_correct": false,
-          "feedback": "Un tratado internacional obliga entre Estados firmantes, no es la norma que organiza el gobierno de un país."
+          "feedback": "Enseñar la lengua en la escuela es justamente una forma de favorecer su conservación."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
+      "correct_answer": "C",
+      "explanation": "La vitalidad de una lengua depende de que las nuevas generaciones la aprendan y la usen.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -279,36 +279,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W02-diversidad-cultural-001-MASTERY-bundle-v7",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
+      "statement": "¿Qué alimento forma parte del patrimonio gastronómico salvadoreño?",
       "context": "Clase de ciencias sociales en Soyapango estudiando diversidad cultural.",
       "options": [
         {
-          "letter": "D",
-          "text": "Urbanización masiva y nuevas clases sociales",
+          "letter": "C",
+          "text": "La pupusa, hecha con masa de maíz y servida a diario",
           "is_correct": true,
-          "feedback": "Correcto. La industrialización concentró a los trabajadores en las ciudades y ensanchó la burguesía y el proletariado como clases nuevas."
+          "feedback": "Correcto. La pupusa es una práctica culinaria que se transmite de generación en generación."
         },
         {
           "letter": "A",
-          "text": "Retorno a la vida agrícola",
+          "text": "El arroz importado que se compra en el supermercado",
           "is_correct": false,
-          "feedback": "La revolución industrial desplazó el trabajo del campo a la fábrica y a la ciudad, no de vuelta a la vida agrícola."
+          "feedback": "Un alimento traído del exterior no es una tradición culinaria local."
         },
         {
           "letter": "B",
-          "text": "Disminución del comercio global",
+          "text": "La bebida energética en lata más vendida",
           "is_correct": false,
-          "feedback": "La producción industrial exigía materias primas y mercados, de modo que el comercio internacional creció en vez de disminuir."
+          "feedback": "Un producto industrializado no pertenece al patrimonio gastronómico tradicional."
         },
         {
-          "letter": "C",
-          "text": "Eliminación del trabajo manual",
+          "letter": "D",
+          "text": "La marca de refrescos más conocida del país",
           "is_correct": false,
-          "feedback": "El trabajo manual se intensificó en las fábricas y la máquina solo transformó su forma, no lo eliminó."
+          "feedback": "Una marca comercial es un negocio, no una práctica heredada de una comunidad."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
+      "correct_answer": "C",
+      "explanation": "El patrimonio gastronómico son alimentos y técnicas de cocina que una comunidad conserva.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -324,36 +324,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W02-diversidad-cultural-001-MASTERY-bundle-v8",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
+      "statement": "Un gobierno usa la bandera nacional en eventos deportivos y políticos. ¿Qué análisis es más preciso?",
       "context": "Clase de ciencias sociales en Soyapango estudiando diversidad cultural.",
       "options": [
         {
-          "letter": "B",
-          "text": "Derechos humanos fundamentales",
+          "letter": "C",
+          "text": "El símbolo patrio puede expresar identidad compartida y también servir a una estrategia de gobierno",
           "is_correct": true,
-          "feedback": "Correcto. La Constitución de un país democrático reconoce los derechos humanos fundamentales como límite al poder del Estado."
+          "feedback": "Correcto. Un mismo simbolo acumula valor cultural y puede funcionar como herramienta de poder."
         },
         {
           "letter": "A",
-          "text": "Solo derechos de propiedad",
+          "text": "Un símbolo nacional solo tiene significado político y nunca cultural",
           "is_correct": false,
-          "feedback": "El derecho de propiedad es uno más entre los reconocidos, y limitar la Constitución a la propiedad dejaría fuera los demás."
+          "feedback": "La bandera significa pertenencia y memoria histórica además de su uso en la política."
         },
         {
-          "letter": "C",
-          "text": "Únicamente derechos políticos",
+          "letter": "B",
+          "text": "Usar el símbolo en el deporte demuestra que el país perdió su identidad",
           "is_correct": false,
-          "feedback": "El voto y la participación política son una parte del catálogo, no la totalidad de los derechos de una Constitución democrática."
+          "feedback": "El uso deportivo y ceremonial no implica por si mismo una pérdida de identidad."
         },
         {
           "letter": "D",
-          "text": "Derechos exclusivos del gobierno",
+          "text": "Los símbolos patrios están prohibidos en actos que no sean militares",
           "is_correct": false,
-          "feedback": "Son los ciudadanos los titulares de los derechos, y además esos derechos limitan al gobierno en lugar de pertenecerle."
+          "feedback": "El uso de símbolos nacionales es normal en el deporte, la cultura y los actos del Estado."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
+      "correct_answer": "C",
+      "explanation": "Los símbolos patrios acumulan valor cultural y pueden funcionar como herramientas de poder.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -369,36 +369,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W02-diversidad-cultural-001-MASTERY-bundle-v9",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
+      "statement": "¿Cuál de estos bienes pertenece al patrimonio cultural material?",
       "context": "Clase de ciencias sociales en Soyapango estudiando diversidad cultural.",
       "options": [
         {
-          "letter": "A",
-          "text": "Superávit comercial",
+          "letter": "C",
+          "text": "La iglesia de San Francisco",
           "is_correct": true,
-          "feedback": "Correcto. Si las exportaciones superan a las importaciones, la balanza comercial registra un superávit."
+          "feedback": "Correcto. Un templo es una construcción y por eso pertenece al patrimonio cultural material."
+        },
+        {
+          "letter": "A",
+          "text": "La costumbre de preparar dulce de leche en el centro",
+          "is_correct": false,
+          "feedback": "Una costumbre es una práctica y pertenece al patrimonio cultural inmaterial."
         },
         {
           "letter": "B",
-          "text": "Déficit comercial",
+          "text": "La forma de saludo entre vecinos de un pueblo",
           "is_correct": false,
-          "feedback": "El déficit aparece cuando se importa más de lo que se exporta, exactamente al revés de lo que dice el enunciado."
-        },
-        {
-          "letter": "C",
-          "text": "Balanza equilibrada",
-          "is_correct": false,
-          "feedback": "Una balanza equilibrada exige exportaciones e importaciones iguales, y aquí las exportaciones son mayores."
+          "feedback": "Las formas de saludo son usos aprendidos y forman parte del patrimonio inmaterial."
         },
         {
           "letter": "D",
-          "text": "Crisis económica",
+          "text": "La opinión de una familia sobre una fecha patria",
           "is_correct": false,
-          "feedback": "Una crisis económica es un malestar general del país, no el nombre del saldo de la balanza comercial."
+          "feedback": "Una opinión personal no es un bien cultural y menos material."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
+      "correct_answer": "C",
+      "explanation": "El patrimonio material incluye construcciones; las prácticas y los usos son inmateriales.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -459,36 +459,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W02-diversidad-cultural-001-MASTERY-bundle-v11",
-      "statement": "¿Qué documento establece la organización del Estado?",
+      "statement": "¿Qué une a los seis municipios de la Ruta de las Flores?",
       "context": "Clase de ciencias sociales en Santa Ana estudiando diversidad cultural.",
       "options": [
         {
-          "letter": "A",
-          "text": "La Constitución",
+          "letter": "D",
+          "text": "Una Cordillera con una flor distinta como emblema en cada pueblo",
           "is_correct": true,
-          "feedback": "Correcto. La Constitución es la norma fundamental que estructura los poderes del Estado y fija sus límites."
+          "feedback": "Correcto. Los seis municipios de la cordillera Apaneca identifican cada uno su pueblo con una flor propia."
+        },
+        {
+          "letter": "A",
+          "text": "Una frontera administrativa que separa dos países",
+          "is_correct": false,
+          "feedback": "La ruta recorre municipios de un mismo país y no delimita ninguna frontera."
         },
         {
           "letter": "B",
-          "text": "Una ley ordinaria",
+          "text": "El mismo monumento de piedra que fue declarado Patrimonio Mundial",
           "is_correct": false,
-          "feedback": "Una ley ordinaria se limita a desarrollar una regla ya existente, no organiza los poderes del Estado entero."
+          "feedback": "El valor de la ruta está en el paisaje, los pueblos y sus símbolos, no en un monumento único."
         },
         {
           "letter": "C",
-          "text": "Un decreto presidencial",
+          "text": "Una decision igual para todos los pueblos de la ruta",
           "is_correct": false,
-          "feedback": "Un decreto presidencial es una decisión del ejecutivo sobre un asunto concreto, de rango menor que la Constitución."
-        },
-        {
-          "letter": "D",
-          "text": "Un tratado internacional",
-          "is_correct": false,
-          "feedback": "Un tratado internacional obliga entre Estados firmantes, no es la norma que organiza el gobierno de un país."
+          "feedback": "Cada municipio conserva su propia identidad y su flor emblema, y no una decision comun a todos."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
+      "correct_answer": "D",
+      "explanation": "La Ruta de las Flores une los municipios de la cordillera Apaneca, cada uno con su flor emblemática.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -504,36 +504,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W02-diversidad-cultural-001-MASTERY-bundle-v12",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
+      "statement": "Un artefacto antiguo conservado en un museo, ¿forma parte del patrimonio cultural?",
       "context": "Clase de ciencias sociales en Mejicanos estudiando diversidad cultural.",
       "options": [
         {
           "letter": "A",
-          "text": "Urbanización masiva y nuevas clases sociales",
+          "text": "Sí, como bien material, porque es un objeto que puede conservarse y exhibirse",
           "is_correct": true,
-          "feedback": "Correcto. La industrialización concentró a los trabajadores en las ciudades y ensanchó la burguesía y el proletariado como clases nuevas."
+          "feedback": "Correcto. Un artefacto conservado en un museo es un bien material y puede formar parte del patrimonio."
         },
         {
           "letter": "B",
-          "text": "Retorno a la vida agrícola",
+          "text": "No, porque el patrimonio cultural solo incluye construcciones grandes",
           "is_correct": false,
-          "feedback": "La revolución industrial desplazó el trabajo del campo a la fábrica y a la ciudad, no de vuelta a la vida agrícola."
+          "feedback": "Los objetos y artefactos pequeños también son patrimonio material, no solo las construcciones grandes."
         },
         {
           "letter": "C",
-          "text": "Disminución del comercio global",
+          "text": "No, porque los artefactos antiguos no tienen relación con la identidad",
           "is_correct": false,
-          "feedback": "La producción industrial exigía materias primas y mercados, de modo que el comercio internacional creció en vez de disminuir."
+          "feedback": "Los objetos conservados guardan memoria cultural y pueden sostener la identidad de una comunidad."
         },
         {
           "letter": "D",
-          "text": "Eliminación del trabajo manual",
+          "text": "Sí, pero solo cuando el museo tiene presupuesto para restaurarlo",
           "is_correct": false,
-          "feedback": "El trabajo manual se intensificó en las fábricas y la máquina solo transformó su forma, no lo eliminó."
+          "feedback": "El valor patrimonial de un bien depende de su significado y no del presupuesto del museo."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
+      "explanation": "Los artefactos conservados en museos son bienes materiales que forman parte del patrimonio cultural.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -549,36 +549,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W02-diversidad-cultural-001-MASTERY-bundle-v13",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
+      "statement": "Cuando una fiesta tradicional es declarada patrimonio de la humanidad, qué efecto práctico tiene para su comunidad?",
       "context": "Clase de ciencias sociales en Mejicanos estudiando diversidad cultural.",
       "options": [
         {
           "letter": "C",
-          "text": "Derechos humanos fundamentales",
+          "text": "Reconocer la celebración y apoyar la salvaguarda de los conocimientos que la sostienen",
           "is_correct": true,
-          "feedback": "Correcto. La Constitución de un país democrático reconoce los derechos humanos fundamentales como límite al poder del Estado."
+          "feedback": "Correcto. La declaratoria reconoce a la comunidad practicante y financia el cuidado de sus saberes."
         },
         {
           "letter": "A",
-          "text": "Solo derechos de propiedad",
+          "text": "Convertir sus ritos en un negocio de venta diaria",
           "is_correct": false,
-          "feedback": "El derecho de propiedad es uno más entre los reconocidos, y limitar la Constitución a la propiedad dejaría fuera los demás."
+          "feedback": "La declaratoria protege la celebración y no autoriza a lucrar con ella cada día."
         },
         {
           "letter": "B",
-          "text": "Únicamente derechos políticos",
+          "text": "Sustituir la organización local por una comisión extranjera",
           "is_correct": false,
-          "feedback": "El voto y la participación política son una parte del catálogo, no la totalidad de los derechos de una Constitución democrática."
+          "feedback": "La salvaguarda se apoya en la comunidad practicante y no en su reemplazo por terceros."
         },
         {
           "letter": "D",
-          "text": "Derechos exclusivos del gobierno",
+          "text": "Liberar a la comunidad de sus responsabilidades con la tradición",
           "is_correct": false,
-          "feedback": "Son los ciudadanos los titulares de los derechos, y además esos derechos limitan al gobierno en lugar de pertenecerle."
+          "feedback": "El reconocimiento mantiene a la comunidad como protagonista y no la libera de cuidarla."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
+      "explanation": "Una declaratoria internacional apoya la salvaguarda y reconoce a la comunidad practicante.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -594,36 +594,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W02-diversidad-cultural-001-MASTERY-bundle-v14",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
+      "statement": "¿Por qué el patrimonio sirve para construir la identidad colectiva?",
       "context": "Clase de ciencias sociales en Soyapango estudiando diversidad cultural.",
       "options": [
         {
-          "letter": "A",
-          "text": "Superávit comercial",
+          "letter": "C",
+          "text": "Porque transmite memoria y valores que las generaciones comparten",
           "is_correct": true,
-          "feedback": "Correcto. Si las exportaciones superan a las importaciones, la balanza comercial registra un superávit."
+          "feedback": "Correcto. El patrimonio transmite memoria y valores, y eso permite que un grupo se reconozca como comunidad."
+        },
+        {
+          "letter": "A",
+          "text": "Porque todos sus miembros comparten la misma religion y los mismos ancestros",
+          "is_correct": false,
+          "feedback": "El patrimonio puede reunir a personas muy distintas sin exigir una religion o un origen comun."
         },
         {
           "letter": "B",
-          "text": "Déficit comercial",
+          "text": "Porque obliga a las nuevas generaciones a repetir las mismas practicas",
           "is_correct": false,
-          "feedback": "El déficit aparece cuando se importa más de lo que se exporta, exactamente al revés de lo que dice el enunciado."
-        },
-        {
-          "letter": "C",
-          "text": "Balanza equilibrada",
-          "is_correct": false,
-          "feedback": "Una balanza equilibrada exige exportaciones e importaciones iguales, y aquí las exportaciones son mayores."
+          "feedback": "El patrimonio se adapta y se transforma, y no exige repetir las practicas tal como fueron."
         },
         {
           "letter": "D",
-          "text": "Crisis económica",
+          "text": "Porque sustituye a las instituciones del Estado en la representacion del pais",
           "is_correct": false,
-          "feedback": "Una crisis económica es un malestar general del país, no el nombre del saldo de la balanza comercial."
+          "feedback": "El patrimonio complementa la vida institucional y no reemplaza al Estado ni a sus autoridades."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
+      "correct_answer": "C",
+      "explanation": "El patrimonio transmite memoria y valores compartidos, y por eso sostiene la identidad colectiva.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -639,36 +639,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W02-diversidad-cultural-001-MASTERY-bundle-v15",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
+      "statement": "Los vecinos mantienen con trabajo comunitario el templo de San Andrés. ¿Qué explica esa práctica?",
       "context": "Clase de ciencias sociales en Mejicanos estudiando diversidad cultural.",
       "options": [
         {
           "letter": "C",
-          "text": "El asesinato del Archiduque Francisco Fernando",
+          "text": "Que el patrimonio se sostiene con la participación colectiva de la comunidad",
           "is_correct": true,
-          "feedback": "Correcto. El asesinato del archiduque Francisco Fernando en Sarajevo en 1914 fue el detonante inmediato de la Primera Guerra Mundial."
+          "feedback": "Correcto. El trabajo comunitario mantiene vivo un bien que el Estado no puede conservar solo."
         },
         {
           "letter": "A",
-          "text": "El Tratado de Versalles",
+          "text": "Que el Estado ya no tiene competencia en materia de patrimonio",
           "is_correct": false,
-          "feedback": "El Tratado de Versalles se firmó en 1919 para cerrar la guerra, de modo que fue una consecuencia y no una causa."
+          "feedback": "El mantenimiento comunitario no elimina las obligaciones del Estado ni las leyes de protección."
         },
         {
           "letter": "B",
-          "text": "La Revolución Rusa",
+          "text": "Que el templo no tiene valor artístico ni histórico",
           "is_correct": false,
-          "feedback": "La Revolución Rusa ocurrió en 1917, ya en plena guerra, y fue ajena al estallido de 1914."
+          "feedback": "Su valor es precisamente lo que motiva a la comunidad a conservarlo sin ayuda estatal."
         },
         {
           "letter": "D",
-          "text": "La invención del avión",
+          "text": "Que las tradiciones se abandonan sin subvención pública",
           "is_correct": false,
-          "feedback": "El avión fue inventado en 1903 y es un hecho técnico, no un detonante diplomático."
+          "feedback": "El trabajo vecinal demuestra compromiso con la tradición y no su abandono."
         }
       ],
       "correct_answer": "C",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
+      "explanation": "El mantenimiento comunitario muestra que el patrimonio se sostiene con participación colectiva.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -774,36 +774,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W02-diversidad-cultural-001-MASTERY-bundle-v18",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
+      "statement": "El Salvador es el país más pequeño del continente americano. ¿Qué relación tiene ese dato con su patrimonio cultural?",
       "context": "Clase de ciencias sociales en San Salvador estudiando diversidad cultural.",
       "options": [
         {
-          "letter": "D",
-          "text": "Derechos humanos fundamentales",
+          "letter": "C",
+          "text": "El territorio reducido concentra bienes y tradiciones en pocas zonas",
           "is_correct": true,
-          "feedback": "Correcto. La Constitución de un país democrático reconoce los derechos humanos fundamentales como límite al poder del Estado."
+          "feedback": "Correcto. El tamaño del país hace que pocos sitios guarden buena parte del patrimonio nacional."
         },
         {
           "letter": "A",
-          "text": "Solo derechos de propiedad",
+          "text": "El tamaño del territorio no guarda relación con su patrimonio",
           "is_correct": false,
-          "feedback": "El derecho de propiedad es uno más entre los reconocidos, y limitar la Constitución a la propiedad dejaría fuera los demás."
+          "feedback": "La extensión del territorio influye en cuántos y dónde se conservan los bienes culturales."
         },
         {
           "letter": "B",
-          "text": "Únicamente derechos políticos",
+          "text": "Un país pequeño tiene menos bienes culturales que uno grande",
           "is_correct": false,
-          "feedback": "El voto y la participación política son una parte del catálogo, no la totalidad de los derechos de una Constitución democrática."
+          "feedback": "El tamaño no determina por sí solo la cantidad de patrimonio cultural de un lugar."
         },
         {
-          "letter": "C",
-          "text": "Derechos exclusivos del gobierno",
+          "letter": "D",
+          "text": "El territorio reducido explica la declaración de la UNESCO sobre Joya de Cerén",
           "is_correct": false,
-          "feedback": "Son los ciudadanos los titulares de los derechos, y además esos derechos limitan al gobierno en lugar de pertenecerle."
+          "feedback": "El valor arqueológico del sitio, y no el tamaño del país, motiva esa declaratoria."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
+      "correct_answer": "C",
+      "explanation": "La extensión del territorio influye en la concentración de bienes culturales en pocas zonas.",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -864,36 +864,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W02-diversidad-cultural-001-MASTERY-bundle-v20",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
+      "statement": "¿Qué relación tiene la yuca frita con el patrimonio cultural de El Salvador?",
       "context": "Clase de ciencias sociales en San Miguel estudiando diversidad cultural.",
       "options": [
         {
-          "letter": "A",
-          "text": "El asesinato del Archiduque Francisco Fernando",
+          "letter": "C",
+          "text": "Es una técnica culinaria tradicional que se conserva en la práctica",
           "is_correct": true,
-          "feedback": "Correcto. El asesinato del archiduque Francisco Fernando en Sarajevo en 1914 fue el detonante inmediato de la Primera Guerra Mundial."
+          "feedback": "Correcto. Preparar yuca frita y los conocimientos que rodean esa receta son saberes de la comunidad."
+        },
+        {
+          "letter": "A",
+          "text": "Ninguna, porque el patrimonio cultural solo incluye monumentos",
+          "is_correct": false,
+          "feedback": "El patrimonio cultural incluye también las prácticas culinarias y los saberes asociados."
         },
         {
           "letter": "B",
-          "text": "El Tratado de Versalles",
+          "text": "Es un producto industrializado y por eso no es patrimonio",
           "is_correct": false,
-          "feedback": "El Tratado de Versalles se firmó en 1919 para cerrar la guerra, de modo que fue una consecuencia y no una causa."
-        },
-        {
-          "letter": "C",
-          "text": "La Revolución Rusa",
-          "is_correct": false,
-          "feedback": "La Revolución Rusa ocurrió en 1917, ya en plena guerra, y fue ajena al estallido de 1914."
+          "feedback": "Que un alimento tenga difusión comercial no elimina su carácter de práctica tradicional."
         },
         {
           "letter": "D",
-          "text": "La invención del avión",
+          "text": "Sólo es patrimonio cuando una ley nacional lo declara",
           "is_correct": false,
-          "feedback": "El avión fue inventado en 1903 y es un hecho técnico, no un detonante diplomático."
+          "feedback": "Las prácticas tradicionales tienen valor patrimonial con o sin declaratoria oficial."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
+      "correct_answer": "C",
+      "explanation": "Las técnicas culinarias tradicionales, como la yuca frita, son patrimonio cultural inmaterial.",
       "difficulty": "10",
       "images": [],
       "tags": [],
