@@ -283,22 +283,21 @@ Evaluar una adaptación exige comparar funciones, no inventarios. Preguntar qué
 **Bloom:** Evaluate
 **ICFES:** Critico-Intertextual
 **Expected_Success:** 0.7
-**Contexto:** En un colegio de Bogotá, grado 10 debate si las autoras regionales AntiqueDup del siglo XX pertinente a un proyecto nacional.
+**Contexto:** En un colegio de Bogotá, grado 10 debate si las autoras regionales de la primera mitad del siglo XX aportan a la literatura colombiana o si escriben sobre lo local y lo nacional por separado.
 
 ### Enunciado
-Frente a la afirmación «las autoras regionales de la primera mitad del siglo XX no aportan a la literatura colombiana porque escriben sobre lo(local y lo Méndez», ¿cuál es el juicio crítico-intertextual mejor fundado?
-
-### Enunciado de la afirmación es una tesis; elige el argumento que la refuta con la mayor solidez interpretativa.
+Frente a la afirmación «las autoras regionales de la primera mitad del siglo XX no aportan a la literatura colombiana porque escriben sobre lo local», ¿cuál es el juicio mejor fundado?
 
 ### Opciones
-- [ ] A) Refutarla con datos estadísticos de tirada, que demuestra que sus textos circularon tanto como los de sus contemporáneos.
+- [ ] A) Refutarla con datos estadísticos de tirada, que demuestran que sus textos circularon tanto como los de sus contemporáneos.
   <!-- feedback: Incorrecto. Los datos de tirada son un dato empírico, no una refutación interpretativa: no responden al argumento sobre la pertinencia estética e histórica de la obra. -->
 - [ ] B) Refutarla señalando que las autoras usaban el mismo lenguaje que los hombres, por lo que no hay diferencia de perspectiva.
-  <!-- feedback: Incorrecto. Asemejar el lenguaje a los_varrios de la época no demuestra nada; la tesis no habla de estilo, sino de la relación entre lo local y lo nacional. -->
+  <!-- feedback: Incorrecto. Asemejar el lenguaje al de los varones de la época no demuestra nada; la tesis no habla de estilo, sino de la relación entre lo local y lo nacional. -->
 - [ ] C) Refutarla con el argumento de que las autoras no conocen su propio país, lo que vuelve inválida cualquier mirada regional.
   <!-- feedback: Incorrecto. Alegar desconocimiento del país contradice el hecho mismo de las obras; y además invierte el problema en vez de demostrar la pertinencia estética. -->
 - [x] D) Refutarla mostrando que en sus obras dialogan con la tradición nacional y universal, y que la experiencia regional se convierte en un lenguaje de la Colombianidad.
-  <!-- feedback: Correcto. El diálogo intertextual con la tradición nacional y universal, y la construcción de un lenguaje propio de la Colombianidad, falsan la tesis de la irrelevancia regional. -->
+  <!-- feedback: Correcto. El diálogo intertextual con la tradición nacional y universal, y la construcción de un lenguaje propio de la Colombianidad, refutan la tesis de la irrelevancia regional. -->
 
 ### Explicacion Pedagogica
-Refutar una tesis interpretativa requiere demostrar el diálogo entre el texto y la tradición, y mostrar qué aporta ese texto al conjunto. La obra regional no es opposite al proyecto nacional: es una de las formas de construirlo.
+Refutar una tesis interpretativa requiere demostrar el diálogo entre el texto y la tradición, y mostrar qué aporta ese texto al conjunto. La obra regional no se opone al proyecto nacional: es una de las formas de construirlo.
+

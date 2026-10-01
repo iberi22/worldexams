@@ -280,9 +280,6 @@ Fragmento A (ensayo de opinión, 2024): «La deserción escolar en Tunja se expl
   <!-- feedback: Incorrecto. El A es un ensayo de opinión, afirma datos sin describir su método, y el B un informe con evidencia estadística; la validez depende del procedimiento, no del género. -->
 
 ### Explicacion Pedagogica
-La lectura crítica exige clasificar con precisión el tipo de desacuerdo: negación total, contraposición parcial o simple matización. Reconocer que un texto puede contradecir en lo principal y coincidir en lo secundario evita tanto el exceso de la crítica...
-
-### Explicacion Pedagogica
 La lectura crítica exige clasificar con precisión el tipo de desacuerdo: negación total, contraposición parcial o simple matización. Reconocer que un texto puede contradecir en lo principal y coincidir en lo secundario evita tanto la lectura absolutista como la lectura que resuelve mal y prematuramente la tensión entre fuentes.
 
 ## Question 12 [D9-D10]
