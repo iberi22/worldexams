@@ -25,6 +25,7 @@ quoted inside an explanation cannot inflate the count.
 """
 import os
 import re
+import sys
 
 REPO = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 ROOT = os.path.join(REPO, "questions_data")
@@ -92,4 +93,11 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    # `| head` closes the pipe early; without this the census prints its own
+    # summary and then dies on a BrokenPipeError traceback, which reads like a
+    # crash when it is only a reader that stopped listening.
+    try:
+        main()
+    except BrokenPipeError:
+        os.dup2(os.open(os.devnull, os.O_WRONLY), sys.stdout.fileno())
+        raise SystemExit(0)
