@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-34-grade-3-subject-matematicas",
+    "generated_at": "2026-10-01T20:25:30.118Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-3-2026-W34-fracciones-equivalentes-y-simplificacion-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál de estas fracciones equivale a 1/2?",
+      "context": "En un taller de lectura de Bogotá, cada grupo leyó la mitad de un cuento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2/4",
+          "is_correct": true,
+          "feedback": "Correcto. 2/4 representa la misma mitad, porque al dividir numerador y denominador entre 2 queda 1/2."
+        },
+        {
+          "letter": "B",
+          "text": "1/3",
+          "is_correct": false,
+          "feedback": "Incorrecto. 1/3 es un tercio del todo y no la mitad, que sería justo lo que leyó cada grupo."
+        },
+        {
+          "letter": "C",
+          "text": "2/2",
+          "is_correct": false,
+          "feedback": "Incorrecto. 2/2 vale un todo completo, no la mitad, porque el numerador es igual al denominador."
+        },
+        {
+          "letter": "D",
+          "text": "3/5",
+          "is_correct": false,
+          "feedback": "Incorrecto. 3/5 es más de la mitad porque 3 es mayor que la mitad de 5, y no representa la misma parte."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dos fracciones son equivalentes cuando representan la misma parte de un todo, aunque se escriban distinto. Para comprobarlo se dividen numerador y denominador entre el mismo número, y si ambos siguen siendo enteros la equivalencia queda probada.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-3-2026-W34-fracciones-equivalentes-y-simplificacion-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W34-fracciones-equivalentes-y-simplificacion-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la forma más sencilla de escribir la fracción 4/8?",
+      "context": "En una cartelería de Medellín, un aviso dice que la mitad de los cupos se ocuparon.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2/4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Bajaste 4/8 solo hasta 2/4, pero todavía se puede simplificar otra vez dividiendo ambos entre 2."
+        },
+        {
+          "letter": "B",
+          "text": "4/4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Subiste el numerador de 4 a 4 sin cambiar el denominador, y eso hace que la fracción valga 1 y no la mitad."
+        },
+        {
+          "letter": "C",
+          "text": "1/2",
+          "is_correct": true,
+          "feedback": "Correcto. 4/8 simplificado es 1/2, porque 4 ÷ 4 = 1 y 8 ÷ 4 = 2, y esa es la forma más sencilla."
+        },
+        {
+          "letter": "D",
+          "text": "2/8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Simplificaste solo el numerador, de 4 a 2, y dejaste el denominador en 8, lo que da una fracción distinta."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Simplificar significa dividir numerador y denominador entre el mismo número, nunca uno solo. Con 4/8 el número común es 4, y al aplicarlo se obtiene 1/2, que ya no se puede reducir más.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-3-2026-W34-fracciones-equivalentes-y-simplificacion-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W34-fracciones-equivalentes-y-simplificacion-001-MASTERY-bundle-v3",
+      "statement": "¿Cuántos kilogramos de queso se llevó doña Olga para el regalo?",
+      "context": "En Medellín, doña Olga compró 2 kg de queso y le pidió al tendero 2/5 de ese kilo para un regalo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2/5 kg",
+          "is_correct": false,
+          "feedback": "Incorrecto. Le diste la fracción exacta del pedido, pero no calculaste cuánto pesa esa parte dentro de los 2 kg que se compró."
+        },
+        {
+          "letter": "B",
+          "text": "3/5 kg",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste 2/5 de 1 para obtener el resto, cuando lo que hay que calcular es la parte que ella pidió, que es 2/5."
+        },
+        {
+          "letter": "C",
+          "text": "2 kg",
+          "is_correct": false,
+          "feedback": "Incorrecto. Le diste todo el queso comprado, pero solo una parte de esa cantidad, exactamente los 2/5, se llevó para el regalo."
+        },
+        {
+          "letter": "D",
+          "text": "4/5 kg",
+          "is_correct": true,
+          "feedback": "Correcto. 2 × 2/5 = 4/5 kg, porque la parte pedida es 2/5 del total y 2/5 de 2 kg son 4/5 de kilogramo."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Calcular una fracción de una cantidad real exige multiplicar esa cantidad por el numerador y dividir por el denominador. En este caso 2 × 2 = 4 y 4 ÷ 5 = 4/5, que es la masa que se lleva el regalo.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-3-2026-W34-fracciones-equivalentes-y-simplificacion-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W34-fracciones-equivalentes-y-simplificacion-001-MASTERY-bundle-v4",
+      "statement": "¿Qué parte de la arepa comió Sara en total?",
+      "context": "En Cali, Sara se comió 1/4 de una arepa en el desayuno y 1/4 más en la merienda.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1/4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo sumaste una de las dos partes, cuando comió un cuarto en el desayuno y otro cuarto en la merienda."
+        },
+        {
+          "letter": "B",
+          "text": "1/2",
+          "is_correct": true,
+          "feedback": "Correcto. 1/4 + 1/4 = 2/4, y simplificando 2/4 entre 2 queda 1/2, o sea la mitad de la arepa."
+        },
+        {
+          "letter": "C",
+          "text": "2/8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicaste también el denominador, pero los denominadores ya eran iguales y solo había que sumar los numeradores."
+        },
+        {
+          "letter": "D",
+          "text": "1/8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste entre 2 en lugar de sumar, cuando sumar partes del mismo todo significa sumar los numeradores."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para sumar fracciones con el mismo denominador se suman únicamente los numeradores. Como las dos partes eran 1/4, la suma es 2/4, y ese resultado se simplifica dividiendo numerador y denominador entre 2 para llegar a 1/2.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-3-2026-W34-fracciones-equivalentes-y-simplificacion-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W34-fracciones-equivalentes-y-simplificacion-001-MASTERY-bundle-v5",
+      "statement": "¿Cuántos estudiantes están en el salón de música?",
+      "context": "En un colegio de Tunja hay 24 estudiantes y 3/4 de ellos están en el salón de música.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "18 estudiantes",
+          "is_correct": true,
+          "feedback": "Correcto. 24 × 3/4 = 18, porque 24 ÷ 4 = 6 y 6 × 3 = 18 estudiantes en el salón de música."
+        },
+        {
+          "letter": "B",
+          "text": "6 estudiantes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo dividiste 24 entre 4 y te quedaste con 6, sin multiplicar después por el numerador 3."
+        },
+        {
+          "letter": "C",
+          "text": "12 estudiantes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste la mitad, 24 ÷ 2 = 12, cuando 3/4 es más que la mitad de los estudiantes."
+        },
+        {
+          "letter": "D",
+          "text": "27 estudiantes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste 24 + 3 = 27 en vez de dividir y luego multiplicar, que es el orden correcto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para hallar una fracción de un grupo se puede dividir el grupo entre el denominador y multiplicar el resultado por el numerador. Con 24 ÷ 4 = 6 y luego 6 × 3 = 18, se obtiene el número de estudiantes buscado.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-3-2026-W34-fracciones-equivalentes-y-simplificacion-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W34-fracciones-equivalentes-y-simplificacion-001-MASTERY-bundle-v6",
+      "statement": "¿Cuántos árboles de hoja perenne hay?",
+      "context": "En un parque de Barranquilla hay 45 árboles y 2/3 de ellos son de hoja perenne.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "15 árboles",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste 45 ÷ 3 = 15 y te quedaste ahí, sin multiplicar por el numerador 2 de la fracción."
+        },
+        {
+          "letter": "B",
+          "text": "22 árboles",
+          "is_correct": false,
+          "feedback": "Incorrecto. Redondeaste 45 ÷ 2 = 22,5 a 22, pero el denominador de la fracción es 3 y no 2."
+        },
+        {
+          "letter": "C",
+          "text": "30 árboles",
+          "is_correct": true,
+          "feedback": "Correcto. 45 ÷ 3 = 15 y 15 × 2 = 30, así que hay 30 árboles de hoja perenne en el parque."
+        },
+        {
+          "letter": "D",
+          "text": "33 árboles",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste 30 y 3, o restaste mal: la parte que no es perenne es 15, y 45 − 15 = 30."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Dividir entre el denominador reparte el total en partes iguales, y multiplicar por el numerador indica cuántas de esas partes se toman. Omitir la multiplicación final es el error más común, y produce la mitad de la respuesta correcta.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-3-2026-W34-fracciones-equivalentes-y-simplificacion-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W34-fracciones-equivalentes-y-simplificacion-001-MASTERY-bundle-v7",
+      "statement": "¿Quién compró más pollo y cuánto más compró?",
+      "context": "En Medellín, doña Rosa compró 2/3 kg de pollo y doña Elba compró 3/4 kg de pollo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Doña Rosa, 1/12 kg más",
+          "is_correct": false,
+          "feedback": "Incorrecto. 2/3 equivale a 8/12 y 3/4 equivale a 9/12, así que doña Elba es la que compró más pollo, no doña Rosa."
+        },
+        {
+          "letter": "B",
+          "text": "Doña Elba, 1/12 kg más",
+          "is_correct": true,
+          "feedback": "Correcto. Con denominador 12, 2/3 = 8/12 y 3/4 = 9/12, entonces doña Elba compró 9/12 − 8/12 = 1/12 kg más."
+        },
+        {
+          "letter": "C",
+          "text": "Doña Rosa, 1/6 kg más",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste mal la diferencia, porque 1/6 kg es 2/12 y la diferencia correcta entre 9/12 y 8/12 es 1/12."
+        },
+        {
+          "letter": "D",
+          "text": "Doña Elba, 1/24 kg más",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste la diferencia entre 2 sin motivo, cuando 9/12 − 8/12 = 1/12 kg y ahí termina el cálculo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comparar fracciones con denominadores distintos exige llevarlas a un denominador común. Con 12 como denominador común, 2/3 se vuelve 8/12 y 3/4 se vuelve 9/12, y la diferencia entre ambas es 1/12 de kilogramo.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-3-2026-W34-fracciones-equivalentes-y-simplificacion-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W34-fracciones-equivalentes-y-simplificacion-001-MASTERY-bundle-v8",
+      "statement": "¿De qué material hay más y cuánto más hay respecto del que hay menos?",
+      "context": "En una ferretería de Cali hay 1/2 kg de tornillos, 3/4 kg de clavos y 1/4 kg de tuercas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "De los clavos, 2/3 kg más",
+          "is_correct": false,
+          "feedback": "Incorrecto. La diferencia se mide contra las tuercas, que son 1/4 kg, y 3/4 − 1/4 = 1/2 kg, no 2/3 kg."
+        },
+        {
+          "letter": "B",
+          "text": "De los tornillos, 1/2 kg más",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los tornillos pesan 1/2 kg, que es menos que los clavos, así que no pueden ser el material que más hay."
+        },
+        {
+          "letter": "C",
+          "text": "De las tuercas, 1/2 kg más",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las tuercas pesan 1/4 kg, la menor de las tres cantidades, así que no pueden ser el material que más hay."
+        },
+        {
+          "letter": "D",
+          "text": "De los clavos, 1/2 kg más",
+          "is_correct": true,
+          "feedback": "Correcto. Los clavos son 3/4 kg, el valor más alto, y 3/4 − 1/4 = 2/4 = 1/2 kg más que las tuercas."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Para responder hay que identificar el valor más alto y restarle el valor más bajo. Con denominador 4, los clavos son 3/4 y las tuercas 1/4, y la diferencia 2/4 se simplifica hasta 1/2 de kilogramo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-3-2026-W34-fracciones-equivalentes-y-simplificacion-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    }
+  ]
+}

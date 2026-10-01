@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-32-grade-3-subject-matematicas",
+    "generated_at": "2026-10-01T20:25:30.117Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-3-2026-W32-medicion-de-masa-y-capacidad-001-MASTERY-bundle-v1",
+      "statement": "¿Qué instrumento debe usar doña Rosa para medir la masa de las verduras?",
+      "context": "En el mercado de Bogotá, doña Rosa vende verduras y necesita saber cuánto pesan.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una báscula",
+          "is_correct": true,
+          "feedback": "Correcto. La báscula es el instrumento que mide la masa, es decir cuántos kilogramos o gramos pesa un objeto."
+        },
+        {
+          "letter": "B",
+          "text": "Una cinta métrica",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cinta métrica mide longitudes, como la altura de una planta o el largo de una mesa, no la masa."
+        },
+        {
+          "letter": "C",
+          "text": "Un termómetro",
+          "is_correct": false,
+          "feedback": "Incorrecto. El termómetro mide la temperatura, o sea qué tan caliente o frío está algo, y no cuánto pesa."
+        },
+        {
+          "letter": "D",
+          "text": "Un vaso medidor",
+          "is_correct": false,
+          "feedback": "Incorrecto. El vaso medidor indica el volumen de líquidos, no la masa de sólidos como las verduras."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La masa y la capacidad son magnitudes distintas y por eso necesitan instrumentos distintos. La báscula mide masa en kilogramos o gramos, mientras que el volumen se mide con recipientes graduados. Escoger el instrumento correcto es el primer paso para no mezclar unidades.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-3-2026-W32-medicion-de-masa-y-capacidad-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W32-medicion-de-masa-y-capacidad-001-MASTERY-bundle-v2",
+      "statement": "¿Cuántos gramos equivalen a esos 2 kg de arroz?",
+      "context": "En Medellín, en una despensa, un paquete de arroz pesa 2 kg.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "200 gramos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dejaste fuera un cero: 1 kg tiene 1.000 gramos, entonces 2 kg tienen 2 × 1.000 = 2.000 gramos."
+        },
+        {
+          "letter": "B",
+          "text": "2.000 gramos",
+          "is_correct": true,
+          "feedback": "Correcto. 1 kg equivale a 1.000 g, así que 2 kg equivalen a 2 × 1.000 = 2.000 gramos de arroz."
+        },
+        {
+          "letter": "C",
+          "text": "20 gramos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste 2 × 10 en vez de 2 × 1.000, por eso el resultado quedó cien veces más pequeño."
+        },
+        {
+          "letter": "D",
+          "text": "200.000 gramos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aplicaste el 1.000 dos veces, cuando 2.000 gramos ya equivalen a los 2 kg que tenías."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El kilogramo es mil veces más grande que el gramo, por lo que para convertir de kilogramos a gramos se multiplica por 1.000. Este error es muy frecuente porque el 1.000 se olvida o se aplica dos veces seguidas.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-3-2026-W32-medicion-de-masa-y-capacidad-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W32-medicion-de-masa-y-capacidad-001-MASTERY-bundle-v3",
+      "statement": "¿Cuántos litros de jugo hizo doña Olga en total?",
+      "context": "En Cali, doña Olga prepara jugo de mango y llena 3 botellas de 1.500 mL cada una.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "45 litros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste 1.500 × 3 = 4.500 y no convertiste de mililitros a litros, por eso el número quedó enorme."
+        },
+        {
+          "letter": "B",
+          "text": "4.500 litros",
+          "is_correct": false,
+          "feedback": "Incorrecto. El producto 1.500 × 3 = 4.500 está en mililitros, no en litros, y para pasar a litros se divide entre 1.000."
+        },
+        {
+          "letter": "C",
+          "text": "4,5 litros",
+          "is_correct": true,
+          "feedback": "Correcto. 1.500 × 3 = 4.500 mL, y 4.500 mL equivalen a 4,5 litros porque 1 L tiene 1.000 mL."
+        },
+        {
+          "letter": "D",
+          "text": "1.500 litros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo tomaste el contenido de una botella y lo llamaste litros, sin multiplicar por las 3 botellas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Primero se totaliza el líquido en mililitros y después se convierte a litros dividiendo entre 1.000. Presentar el total en mililitros como si fueran litros, o convertir al revés, es la causa de la mayoría de los errores en este tipo de problema.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-3-2026-W32-medicion-de-masa-y-capacidad-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W32-medicion-de-masa-y-capacidad-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es la masa total de 4 panes de queso, expresada en kilogramos?",
+      "context": "En una panadería de Bucaramanga, cada pan de queso pesa 750 g.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3.000 kg",
+          "is_correct": false,
+          "feedback": "Incorrecto. El total sí es 3.000, pero esa cifra está en gramos; para pasarla a kilogramos hay que dividir entre 1.000."
+        },
+        {
+          "letter": "B",
+          "text": "2.250 g",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste solo los tres primeros panes y no multiplicaste 750 × 4, que da 3.000 gramos."
+        },
+        {
+          "letter": "C",
+          "text": "300 g",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo tomaste la masa de un pan y le quitaste un cero, sin sumar los otros tres panes."
+        },
+        {
+          "letter": "D",
+          "text": "3 kg",
+          "is_correct": true,
+          "feedback": "Correcto. 750 × 4 = 3.000 g, y 3.000 g son 3 kg porque cada kilogramo vale 1.000 gramos."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Se resuelve en dos pasos: primero el total en gramos, que se obtiene multiplicando la masa de un pan por la cantidad de panes, y luego esa cifra se divide entre 1.000 para expresarla en kilogramos.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-3-2026-W32-medicion-de-masa-y-capacidad-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W32-medicion-de-masa-y-capacidad-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál bolsa pesa más y cuánto pesa más la más pesada?",
+      "context": "En Tunja, en una tienda de barrio hay dos bolsas: la primera pesa 1.500 g y la segunda pesa 2 kg.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La segunda bolsa, 500 g más",
+          "is_correct": true,
+          "feedback": "Correcto. 2 kg son 2.000 g, y 2.000 − 1.500 = 500 g, así que la segunda bolsa pesa 500 g más."
+        },
+        {
+          "letter": "B",
+          "text": "La primera bolsa, 500 g más",
+          "is_correct": false,
+          "feedback": "Incorrecto. Comparaste 1.500 g contra 2 kg sin convertir, y al convertir se ve que 1.500 g es la más ligera."
+        },
+        {
+          "letter": "C",
+          "text": "La segunda bolsa, 1.500 g más",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste de más: 2.000 − 1.500 = 500 g, y no 1.500 g, que es justo el peso de la primera bolsa."
+        },
+        {
+          "letter": "D",
+          "text": "Las dos bolsas pesan igual",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los números 1.500 y 2.000 no son iguales: el 2 de la segunda bolsa son 2.000 g, un kg más que la primera."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comparar masas exige llevar ambas a la misma unidad antes de restar o comparar. Al convertir 2 kg a 2.000 g, la diferencia queda clara en 500 g. Comparar directamente cifras expresadas en unidades distintas lleva a conclusiones equivocadas.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-3-2026-W32-medicion-de-masa-y-capacidad-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W32-medicion-de-masa-y-capacidad-001-MASTERY-bundle-v6",
+      "statement": "¿Cuántos frascos completos se pueden llenar y cuántos mililitros de jarabe sobran?",
+      "context": "En una farmacia de Barranquilla hay 1.900 mL de jarabe y cada frasco tiene capacidad para 250 mL.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6 frascos y 400 mL",
+          "is_correct": false,
+          "feedback": "Incorrecto. Llenaste 6 frascos y te quedaste con 400 mL, pero todavía alcanzaba para llenar un séptimo frasco completo."
+        },
+        {
+          "letter": "B",
+          "text": "8 frascos y 0 mL",
+          "is_correct": false,
+          "feedback": "Incorrecto. Subiste un frasco de más, porque 8 × 250 = 2.000 mL y eso supera los 1.900 mL que hay."
+        },
+        {
+          "letter": "C",
+          "text": "7 frascos y 150 mL",
+          "is_correct": true,
+          "feedback": "Correcto. 1.900 ÷ 250 = 7 frascos con residuo 150, y sobran 1.900 − 1.750 = 150 mL que no completan otro frasco."
+        },
+        {
+          "letter": "D",
+          "text": "7 frascos y 250 mL",
+          "is_correct": false,
+          "feedback": "Incorrecto. El número de frascos sí es 7, pero diste como sobrante el tamaño de un frasco en vez de restar 1.750 de 1.900."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se divide la cantidad total entre el tamaño de cada recipiente para saber cuántos caben completos, y luego se resta lo ya usado para hallar el sobrante. La clave es no forzar un frasco más, porque ese frasco no quedaría lleno.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-3-2026-W32-medicion-de-masa-y-capacidad-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W32-medicion-de-masa-y-capacidad-001-MASTERY-bundle-v7",
+      "statement": "¿Para cuántas hogazas le alcanza la harina que tiene?",
+      "context": "En Bogotá, doña Rosa tiene 4,5 kg de harina y cada hogaza de pan usa 250 g de harina.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "18 hogazas",
+          "is_correct": true,
+          "feedback": "Correcto. 4,5 kg son 4.500 g y 4.500 ÷ 250 = 18, así que le alcanzan exactamente 18 hogazas."
+        },
+        {
+          "letter": "B",
+          "text": "9 hogazas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste 4,5 entre 0,5 y obtuviste 9, es decir trataste la harina en kilos y no convertiste a gramos."
+        },
+        {
+          "letter": "C",
+          "text": "1.800 hogazas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste 4.500 entre 2,5, es decir leíste 250 g como 2,5 g porque confundiste la coma con el cambio de unidad."
+        },
+        {
+          "letter": "D",
+          "text": "4.500 hogazas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Respondiste con la masa total en gramos, 4.500, sin dividir nunca entre los 250 g que usa cada hogaza."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Este problema combina dos conversiones: primero pasar 4,5 kg a gramos y después dividir entre el consumo de cada unidad. Cada paso es una operación distinta, y equivocarse en alguna de ellas produce un número muy lejos del correcto.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-3-2026-W32-medicion-de-masa-y-capacidad-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W32-medicion-de-masa-y-capacidad-001-MASTERY-bundle-v8",
+      "statement": "¿Cuántos frascos puede llenar por completo y cuántos mililitros de salsa le sobran?",
+      "context": "En Tunja, doña Amalia preparó 6.500 mL de salsa y quiere llenar frascos cuya capacidad es de 350 mL.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "19 frascos y 0 mL",
+          "is_correct": false,
+          "feedback": "Incorrecto. Subiste un frasco de más, porque 19 × 350 = 6.650 mL y eso ya supera los 6.500 mL que hay."
+        },
+        {
+          "letter": "B",
+          "text": "17 frascos y 550 mL",
+          "is_correct": false,
+          "feedback": "Incorrecto. Paraste un frasco antes de tiempo: 18 × 350 = 6.300 mL sí alcanza con lo que tienes, y sobrarían 200 mL."
+        },
+        {
+          "letter": "C",
+          "text": "18 frascos y 350 mL",
+          "is_correct": false,
+          "feedback": "Incorrecto. Llenaste bien los 18 frascos, pero diste como sobrante el tamaño de un frasco en vez de los 200 mL que quedan."
+        },
+        {
+          "letter": "D",
+          "text": "18 frascos y 200 mL",
+          "is_correct": true,
+          "feedback": "Correcto. 6.500 ÷ 350 = 18 con residuo 200, y sobran 6.500 − 6.300 = 200 mL que no completan otro frasco."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La división entre el contenido total y la capacidad de cada frasco da el número de frascos completos, y el residuo de esa misma división indica cuántos mililitros sobran. Un número de frascos equivocado arrastra al sobrante equivocado, por eso se revisan ambos resultados juntos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-3-2026-W32-medicion-de-masa-y-capacidad-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    }
+  ]
+}

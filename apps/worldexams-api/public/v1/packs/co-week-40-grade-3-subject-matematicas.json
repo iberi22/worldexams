@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-40-grade-3-subject-matematicas",
+    "generated_at": "2026-10-01T20:25:30.121Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-3-2026-W40-repaso-y-sintesis-del-ano-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es el valor posicional del dígito 5 en ese número?",
+      "context": "En un recibo de Bogotá de la tienda de don Jaime aparece el número 4.508.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "500",
+          "is_correct": true,
+          "feedback": "Correcto. El 5 ocupa el lugar de las centenas en 4.508, y 5 centenas equivalen a 500."
+        },
+        {
+          "letter": "B",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Leíste el valor del dígito aislado, cuando lo que importa es el lugar que ocupa, y en las centenas vale 500."
+        },
+        {
+          "letter": "C",
+          "text": "5.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. El 5 está en las centenas, no en las unidades de mil, porque 4.000 es el 4 y no el 5."
+        },
+        {
+          "letter": "D",
+          "text": "50",
+          "is_correct": false,
+          "feedback": "Incorrecto. El 5 está en las centenas y no en las decenas, así que vale 500 y no 50."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El valor posicional de un dígito depende del lugar que ocupa, no de su apariencia. En 4.508, la unidad es 8, la decena 0, la centena 5 y el millar 4, y esa es la base para comparar y descomponer números grandes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-3-2026-W40-repaso-y-sintesis-del-ano-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W40-repaso-y-sintesis-del-ano-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál de los dos precios es mayor?",
+      "context": "En el mercado de Cali, un litro de leche cuesta $3.450,50 y un litro de jugo cuesta $3.475,25.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El de la leche, porque tiene más cifras",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cantidad de cifras no indica cuál número es mayor, porque los dos tienen la misma parte entera."
+        },
+        {
+          "letter": "B",
+          "text": "Los dos valen lo mismo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los precios no son iguales, porque 3.475,25 y 3.450,50 difieren justamente en los centavos."
+        },
+        {
+          "letter": "C",
+          "text": "El del jugo, porque 3.475,25 es mayor que 3.450,50",
+          "is_correct": true,
+          "feedback": "Correcto. Las partes enteras son iguales, 3.450, así que se comparan los centavos y 75 es mayor que 50."
+        },
+        {
+          "letter": "D",
+          "text": "El de la leche, porque termina en 0",
+          "is_correct": false,
+          "feedback": "Incorrecto. El precio de la leche termina en 50 y no en 0, y en todo caso el menor final no define el mayor número."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Comparar decimales con la misma parte entera se hace en la parte de los centavos. Como ambos precios tienen 3.450, el dígito 75 supera al 50 y por eso el jugo es el más caro.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-3-2026-W40-repaso-y-sintesis-del-ano-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W40-repaso-y-sintesis-del-ano-001-MASTERY-bundle-v3",
+      "statement": "¿Cuántos esferos recibe cada grupo?",
+      "context": "En Medellín, hay 7 cajas y en cada caja hay 9 esferos, y se reparten entre 3 grupos por igual.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "63 esferos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mostraste el total de esferos, pero ese total había que dividirlo entre los 3 grupos."
+        },
+        {
+          "letter": "B",
+          "text": "27 esferos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste 7 × 3 = 21 y luego sumaste 6, cuando lo correcto es dividir los 63 esferos entre 3."
+        },
+        {
+          "letter": "C",
+          "text": "9 esferos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Respondiste con los esferos de una caja y te faltó tomar las 7 cajas antes de dividir."
+        },
+        {
+          "letter": "D",
+          "text": "21 esferos",
+          "is_correct": true,
+          "feedback": "Correcto. 7 × 9 = 63 esferos y 63 ÷ 3 = 21, así que cada grupo recibe 21 esferos."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Encadenar una multiplicación con una división exige hacer la primera por completo antes de la segunda. Con 63 esferos repartidos en 3 grupos iguales, cada grupo recibe exactamente 21, sin sobra ni faltante.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-3-2026-W40-repaso-y-sintesis-del-ano-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W40-repaso-y-sintesis-del-ano-001-MASTERY-bundle-v4",
+      "statement": "¿Cuánto le sobra después de comprar el café y el arroz?",
+      "context": "En Tunja, un kilo de café cuesta $28.500,00 y un kilo de arroz cuesta $9.750,50. Doña Rosa lleva $40.000,00.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$11.500,00",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste solo el café, 40.000,00 − 28.500,00 = 11.500,00, y olvidaste restar el costo del arroz."
+        },
+        {
+          "letter": "B",
+          "text": "$1.749,50",
+          "is_correct": true,
+          "feedback": "Correcto. 28.500,00 + 9.750,50 = 38.250,50 y 40.000,00 − 38.250,50 = 1.749,50."
+        },
+        {
+          "letter": "C",
+          "text": "$1.750,50",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste mal los centavos, porque 9.750,50 + 28.500,00 da 38.250,50 y no 38.249,50 como usaste."
+        },
+        {
+          "letter": "D",
+          "text": "$1.249,50",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste mal el total gastado, porque 28.500,00 + 9.750,50 = 38.250,50 y no 38.750,50, y de ahí salió tu saldo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Primero se acumula el gasto total sumando los dos precios, y después se resta del dinero inicial. El cuidado está en que los dos primeros sumandos tienen centavos distintos, lo que hace fallar a quien los ignora.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-3-2026-W40-repaso-y-sintesis-del-ano-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W40-repaso-y-sintesis-del-ano-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es el perímetro del lote?",
+      "context": "En Bucaramanga, un lote es un rectángulo de 25 m de largo y 15 m de ancho.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "80 m",
+          "is_correct": true,
+          "feedback": "Correcto. 2 × (25 + 15) = 2 × 40 = 80 m, porque el perímetro suma todos los lados del rectángulo."
+        },
+        {
+          "letter": "B",
+          "text": "40 m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste largo más ancho, 25 + 15 = 40, y te faltó multiplicar por 2 para cerrar la figura."
+        },
+        {
+          "letter": "C",
+          "text": "375 m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste el área, 25 × 15 = 375, cuando el enunciado pide el recorrido de la cerca, es decir el perímetro."
+        },
+        {
+          "letter": "D",
+          "text": "625 m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste 25 × 25 = 625, o sea el largo por sí mismo dos veces, y el perímetro necesita largo y ancho."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El perímetro de un rectángulo se obtiene sumando largo más ancho y multiplicando el resultado por 2. Confundir el perímetro con el área es el error más común, y se reconoce porque el área multiplica los dos lados.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-3-2026-W40-repaso-y-sintesis-del-ano-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W40-repaso-y-sintesis-del-ano-001-MASTERY-bundle-v6",
+      "statement": "¿Cuántas estudiantes usan uniforme de falda?",
+      "context": "En una clase de Barranquilla hay 40 estudiantes, la mitad son niñas y de ellas 4 de cada 5 usan uniforme de falda.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8 estudiantes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste 4 de cada 5 sin base, porque primero había que saber cuántas niñas hay en la clase."
+        },
+        {
+          "letter": "B",
+          "text": "20 estudiantes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el número de niñas de la clase, pero de ellas solo 4 de cada 5 usan la falda."
+        },
+        {
+          "letter": "C",
+          "text": "16 estudiantes",
+          "is_correct": true,
+          "feedback": "Correcto. La mitad de 40 son 20 niñas, y 20 × 4/5 = 16, así que 16 estudiantes usan uniforme de falda."
+        },
+        {
+          "letter": "D",
+          "text": "4 estudiantes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Respondiste con el numerador de la fracción y no multiplicaste por las 20 niñas de la clase."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un problema de dos pasos exige resolver primero la mitad de la clase. Con 20 niñas y una proporción de 4 de cada 5, el resultado 20 × 4 ÷ 5 = 16 conecta ambas ideas sin perder la operación intermedia.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-3-2026-W40-repaso-y-sintesis-del-ano-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W40-repaso-y-sintesis-del-ano-001-MASTERY-bundle-v7",
+      "statement": "¿Cuánto pagan en total por la entrada de toda la familia?",
+      "context": "En un parque de Bogotá la entrada cuesta $6.500 por adulto y $3.250 por niño. Entra una familia con 2 adultos y 4 niños.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$19.500",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste 6.500 por 3, contando a los adultos y a un niño, y no separaste los dos precios."
+        },
+        {
+          "letter": "B",
+          "text": "$26.000",
+          "is_correct": true,
+          "feedback": "Correcto. 2 × 6.500 = 13.000 y 4 × 3.250 = 13.000, así que la familia paga 13.000 + 13.000 = 26.000."
+        },
+        {
+          "letter": "C",
+          "text": "$39.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste 6.500 por 6 personas, aplicando el precio de adulto a todos los asistentes."
+        },
+        {
+          "letter": "D",
+          "text": "$22.750",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste 3.250 × 7 = 22.750, aplicando el precio de los niños a los 2 adultos también."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cuando hay dos categorías con precios distintos, cada una se calcula por separado y luego se suman. Aplicar un solo precio a todas las personas es el error que produce resultados como 39.000 o 32.500.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-3-2026-W40-repaso-y-sintesis-del-ano-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W40-repaso-y-sintesis-del-ano-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál de estas afirmaciones está respaldada por la gráfica?",
+      "context": "En una gráfica de barras de Cali, el número de estudiantes de cada grado es: 1° 24, 2° 28, 3° 20, 4° 24.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El grado 2° tiene menos estudiantes y el 3° tiene más",
+          "is_correct": false,
+          "feedback": "Incorrecto. Está al revés de lo que muestra la gráfica, porque 2° tiene 28 y 3° tiene 20 estudiantes."
+        },
+        {
+          "letter": "B",
+          "text": "El grado 3° tiene menos estudiantes y el 2° tiene más",
+          "is_correct": true,
+          "feedback": "Correcto. 20 es la barra más baja y 28 la más alta, así que 3° tiene menos y 2° tiene más estudiantes."
+        },
+        {
+          "letter": "C",
+          "text": "Los grados 1° y 4° tienen menos porque 24 no es un número grande",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enunciado no pide si 24 es grande o pequeño, sino comparar las cuatro barras entre sí."
+        },
+        {
+          "letter": "D",
+          "text": "Todos los grados tienen la misma cantidad de estudiantes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las barras son distintas entre sí, con 24, 28, 20 y 24, así que no hay igualdad en toda la gráfica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una conclusión correcta identifica el valor más alto y el más bajo sin agregar apreciaciones que los datos no muestran. Con 28 y 20 como extremos de la gráfica, la afirmación que los sostiene es la única válida.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-3-2026-W40-repaso-y-sintesis-del-ano-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    }
+  ]
+}

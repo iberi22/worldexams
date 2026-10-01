@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-35-grade-3-subject-matematicas",
+    "generated_at": "2026-10-01T20:25:30.119Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-3-2026-W35-angulos-y-simbolos-en-figuras-001-MASTERY-bundle-v1",
+      "statement": "¿Cuántos ángulos tiene un triángulo?",
+      "context": "En la clase de geometría de Bogotá, la profesora dibuja un triángulo grande en el pizarrón.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3 ángulos",
+          "is_correct": true,
+          "feedback": "Correcto. Un triángulo tiene tres lados y tres ángulos, uno en cada vértice, por eso se llaman triángulo y trángulo."
+        },
+        {
+          "letter": "B",
+          "text": "2 ángulos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Le restaste un ángulo a la cantidad de lados, cuando cada lado del triángulo aporta exactamente un vértice."
+        },
+        {
+          "letter": "C",
+          "text": "4 ángulos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste un ángulo de más, porque un triángulo no tiene un cuarto vértice en ninguna de sus partes."
+        },
+        {
+          "letter": "D",
+          "text": "6 ángulos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste los 3 lados por 2, como si cada lado tuviera un ángulo en cada extremo, y eso no es así."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El nombre de las figuras geométricas indica cuántos lados y cuántos ángulos tienen: triángulo significa tres ángulos. Multiplicar lados por dos confunde el camino entre dos vértices, que sí tiene dos ángulos, con la figura completa.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-3-2026-W35-angulos-y-simbolos-en-figuras-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W35-angulos-y-simbolos-en-figuras-001-MASTERY-bundle-v2",
+      "statement": "¿Qué le está diciendo a los estudiantes la notación ∠ABC?",
+      "context": "En un cuaderno de Medellín, la profesora escribe la expresión ∠ABC junto a un dibujo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el ángulo tiene su vértice en A",
+          "is_correct": false,
+          "feedback": "Incorrecto. El vértice de ∠ABC es la letra del medio, que es B, y la primera letra solo nombra un lado del ángulo."
+        },
+        {
+          "letter": "B",
+          "text": "Que los lados AB y BC miden lo mismo",
+          "is_correct": false,
+          "feedback": "Incorrecto. La notación de un ángulo no habla de medidas, y para decir que dos lados son iguales se usan marcas de igualdad."
+        },
+        {
+          "letter": "C",
+          "text": "Que el ángulo tiene su vértice en B",
+          "is_correct": true,
+          "feedback": "Correcto. En ∠ABC la letra del medio, B, nombra el vértice, y las letras de los extremos nombran los dos lados del ángulo."
+        },
+        {
+          "letter": "D",
+          "text": "Que el ángulo es recto",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un ángulo recto se escribe con 90°, y la notación ∠ABC solo indica el nombre de sus lados y de su vértice."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En la notación de un ángulo, la letra del medio es el vértice y las letras de los extremos son los lados. Leer mal esa convención lleva a suponer que el vértice es la primera letra, que es el error más común al interpretar estas expresiones.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-3-2026-W35-angulos-y-simbolos-en-figuras-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W35-angulos-y-simbolos-en-figuras-001-MASTERY-bundle-v3",
+      "statement": "¿Cómo se llama ese ángulo?",
+      "context": "En un dibujo de Bogotá, la profesora marcó un ángulo que mide 90°.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ángulo agudo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un ángulo agudo es menor de 90°, así que un ángulo de 90° no puede ser agudo."
+        },
+        {
+          "letter": "B",
+          "text": "Ángulo obtuso",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un ángulo obtuso es mayor de 90°, y un ángulo de 90° no es ni agudo ni obtuso."
+        },
+        {
+          "letter": "C",
+          "text": "Ángulo nulo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un ángulo nulo mide 0°, cuando los dos lados coinciden, y aquí hay una apertura de 90°."
+        },
+        {
+          "letter": "D",
+          "text": "Ángulo recto",
+          "is_correct": true,
+          "feedback": "Correcto. Un ángulo que mide 90° se llama recto, y es el ángulo que forman las esquinas de un cuadrado."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Los ángulos se clasifican por su medida: agudos si son menores de 90°, rectos si miden exactamente 90° y obtusos si son mayores de 90°. Reconocer que 90° es el valor exacto del ángulo recto evita confusiones entre las tres categorías.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-3-2026-W35-angulos-y-simbolos-en-figuras-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W35-angulos-y-simbolos-en-figuras-001-MASTERY-bundle-v4",
+      "statement": "¿Cuánto mide el tercer ángulo del triángulo?",
+      "context": "En un trabajo de Tunja, un triángulo tiene dos ángulos que miden 45° y 55°.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "80°",
+          "is_correct": true,
+          "feedback": "Correcto. Los tres ángulos de un triángulo suman 180°, y 180° − (45° + 55°) = 180° − 100° = 80°."
+        },
+        {
+          "letter": "B",
+          "text": "100°",
+          "is_correct": false,
+          "feedback": "Incorrecto. 100° es la suma de los dos ángulos conocidos, pero el que falta es lo que sobra hasta completar 180°."
+        },
+        {
+          "letter": "C",
+          "text": "90°",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste mal, porque 180° − 45° − 55° da 80° y no 90° como obtuviste."
+        },
+        {
+          "letter": "D",
+          "text": "135°",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste 45° × 3 = 135° en lugar de usar la suma total de 180° de los ángulos del triángulo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La suma de los ángulos internos de cualquier triángulo es 180°. Para hallar un ángulo que falta se suman los dos conocidos y el resultado se resta de 180°, que es un procedimiento válido para cualquier triángulo.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-3-2026-W35-angulos-y-simbolos-en-figuras-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W35-angulos-y-simbolos-en-figuras-001-MASTERY-bundle-v5",
+      "statement": "¿Qué hora marca el reloj y qué tipo de ángulo forman las agujas?",
+      "context": "En casa, en Cali, Camila mira el reloj de pared cuando el minutero está en el 12 y la aguja de la hora en el 3.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las 3:00 en punto y forman un ángulo recto",
+          "is_correct": true,
+          "feedback": "Correcto. La aguja de la hora en el 3 y el minutero en el 12 marcan las 3:00, y las agujas forman un ángulo de 90°, que es recto."
+        },
+        {
+          "letter": "B",
+          "text": "Las 6:00 en punto y forman un ángulo recto",
+          "is_correct": false,
+          "feedback": "Incorrecto. A las 6:00 la aguja de la hora está en el 6, no en el 3, así que la hora que describes no es esa."
+        },
+        {
+          "letter": "C",
+          "text": "Las 9:00 en punto y forman un ángulo recto",
+          "is_correct": false,
+          "feedback": "Incorrecto. A las 9:00 la aguja de la hora está en el 9, y tú la colocaste en el 3, que es una posición equivocada."
+        },
+        {
+          "letter": "D",
+          "text": "Las 12:00 en punto y forman un ángulo nulo",
+          "is_correct": false,
+          "feedback": "Incorrecto. A las 12:00 las dos agujas están sobre el 12, pero en el enunciado la aguja de la hora está en el 3."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un ángulo recto aparece cada vez que la aguja de la hora queda exactamente sobre un número y el minutero sobre el 12. En el enunciado la hora está en el 3 y el minutero en el 12, así que la lectura es 3:00 y el ángulo es recto.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-3-2026-W35-angulos-y-simbolos-en-figuras-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W35-angulos-y-simbolos-en-figuras-001-MASTERY-bundle-v6",
+      "statement": "¿Qué significan esas rayitas en la figura?",
+      "context": "En un cuaderno de Bucaramanga, una figura tiene dos lados con una rayita y los otros dos lados con dos rayitas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que los cuatro lados de la figura miden lo mismo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si los cuatro lados fueran iguales, todos tendrían la misma cantidad de rayitas, y aquí hay grupos distintos."
+        },
+        {
+          "letter": "B",
+          "text": "Que los lados con una rayita son iguales entre sí y los de dos rayitas también",
+          "is_correct": true,
+          "feedback": "Correcto. Las rayitas indican igualdad: los lados con una rayita miden igual entre sí, y los que tienen dos rayitas también."
+        },
+        {
+          "letter": "C",
+          "text": "Que los lados con dos rayitas son los más cortos",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cantidad de rayitas solo dice qué lados miden igual, y no tiene nada que ver con ser cortos o largos."
+        },
+        {
+          "letter": "D",
+          "text": "Que los lados con una rayita son paralelos",
+          "is_correct": false,
+          "feedback": "Incorrecto. La igualdad de medidas entre lados se marca con rayitas, y dos lados paralelos se marcan con flechitas, no con rayitas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las marcas en los lados de una figura comunican qué segmentos tienen la misma longitud, y no cuántos lados tiene la figura. Cuando aparecen grupos con distinta cantidad de rayitas, cada grupo representa un valor diferente dentro de la misma figura.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-3-2026-W35-angulos-y-simbolos-en-figuras-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W35-angulos-y-simbolos-en-figuras-001-MASTERY-bundle-v7",
+      "statement": "¿Cuánto mide cada parte y de qué tipo es cada parte?",
+      "context": "En un trabajo de Barranquilla, un ángulo de 120° se puede dividir en 3 partes iguales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "30°, y cada parte es un ángulo recto",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste 120 entre 4 = 30, pero el enunciado pide dividir en 3 partes, no en 4."
+        },
+        {
+          "letter": "B",
+          "text": "40°, y cada parte es un ángulo agudo",
+          "is_correct": true,
+          "feedback": "Correcto. 120° ÷ 3 = 40°, y como 40° es menor de 90°, cada parte es un ángulo agudo."
+        },
+        {
+          "letter": "C",
+          "text": "45°, y cada parte es un ángulo obtuso",
+          "is_correct": false,
+          "feedback": "Incorrecto. 45° sale de dividir 90° entre 2, y además un ángulo de 45° no puede ser obtuso porque es menor de 90°."
+        },
+        {
+          "letter": "D",
+          "text": "60°, y cada parte es un ángulo nulo",
+          "is_correct": false,
+          "feedback": "Incorrecto. 60° es la mitad de 120° y no la tercera parte, y un ángulo nulo mide 0°, no 60°."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para dividir un ángulo en partes iguales se reparte su medida entre la cantidad de partes, y aquí 120° entre 3 partes da 40°. Clasificar el resultado exige compararlo con 90°: menor es agudo, igual es recto y mayor es obtuso.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-3-2026-W35-angulos-y-simbolos-en-figuras-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W35-angulos-y-simbolos-en-figuras-001-MASTERY-bundle-v8",
+      "statement": "¿Cuánto suman sus cuatro ángulos y qué figura es?",
+      "context": "En un ejercicio de Bogotá, una figura de cuatro lados tiene ángulos de 90°, 90°, 90° y 90°.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "180°, y es un triángulo",
+          "is_correct": false,
+          "feedback": "Incorrecto. La figura tiene cuatro lados y sus ángulos suman 360°, no 180°, y 180° es la suma de los ángulos de un triángulo."
+        },
+        {
+          "letter": "B",
+          "text": "360°, y es un rectángulo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los cuatro ángulos de cualquier rectángulo suman 360°, pero aquí los cuatro son iguales, y eso corresponde a un cuadrado."
+        },
+        {
+          "letter": "C",
+          "text": "540°, y es un pentágono",
+          "is_correct": false,
+          "feedback": "Incorrecto. La figura tiene cuatro lados, no cinco, y la suma de sus ángulos es 360°, porque 90° × 4 = 360°."
+        },
+        {
+          "letter": "D",
+          "text": "360°, y es un cuadrado",
+          "is_correct": true,
+          "feedback": "Correcto. 90° × 4 = 360°, y como los cuatro ángulos son iguales y hay cuatro lados, la figura es un cuadrado."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La suma de los ángulos de un cuadrilátero es 360° y la de un triángulo es 180°. Además, cuando los cuatro ángulos de un cuadrilátero miden lo mismo, la figura es un cuadrado, y no un rectángulo cualquiera.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-3-2026-W35-angulos-y-simbolos-en-figuras-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    }
+  ]
+}
