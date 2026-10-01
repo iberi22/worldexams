@@ -73,21 +73,24 @@ que las formas estén donde deben.
 | Métrica | Inicio | Final |
 |---|---|---|
 | Bundles con deuda de feedback | 624 | **0** |
-| Errores de `strictQuality` | 27.997 | **73** |
-| Errores con línea `ERROR` en el log | 27.997 | **20** |
+| Errores de `strictQuality` | 27.997 | **0** |
+| Bundles con pregunta-placeholder | 20 (invisibles) | **0** |
 | Bundles de inglés con feedback en español | 58 | **0** |
 | Bundles con feedback duplicado entre incorrectas | 381 | **0** |
 | Tests de las 5 suites de calidad | 37 | **93** |
 
-Los 73 que reporta `strictQuality` son su contador agregado: los 20 de
-`placeholder` más reglas que en el log salen como warning y él cuenta como error.
-No lo he desglosado regla por regla y no lo afirmo. Los 20 con línea `ERROR`
-son los únicos verificables en el log, y son exactamente los 20 bundles
-placeholder, ya en regeneración.
+El validador termina en `quality: 0 errors` y `Failures: 0` sobre 2.718 bundles.
 
-Warnings que quedan, por diseño y no como deuda: 2.071 `explanation-short`
+Quedan 2.431 warnings, por diseño y no como deuda: 2.070 `explanation-short`
 (explicaciones de menos caracteres que el umbral, revisadas: en su mayoría
-fórmulas legítimas), 215 `explanation-template` y 164 `answer-letter-bias`.
+fórmulas legítimas), 197 `explanation-template` y 164 `answer-letter-bias`.
+
+### Un detalle del log que costó tiempo
+
+Los errores del validador se imprimen como `      - <mensaje>`, **sin el
+prefijo `ERROR`**. Un `grep ERROR` sobre el log devuelve cero y el corpus parece
+limpio mientras el validador sigue saliendo con código 1. Para leer el estado
+real hay que contar los bloques que empiezan por `- ` y no por `- WARNING`.
 
 Commits que importan:
 
@@ -97,7 +100,8 @@ Commits que importan:
 - `e5c37c589` interlock para los 16 generadores que no pueden pasar el gate
 - `3e5872f8c` detector de feedback en el idioma equivocado
 - `4c405685c` una pregunta cuyas opciones son ranuras no es una pregunta
-- `9be5120f0` las 1.822 explicaciones de los últimos 62 bundles
+- `9911a53c6` los 20 bundles-placeholder reescritos, 202 preguntas reales
+- `5c14d4407` los últimos 26 bundles con errores
 
 ## Lo que el gate sigue sin ver
 
