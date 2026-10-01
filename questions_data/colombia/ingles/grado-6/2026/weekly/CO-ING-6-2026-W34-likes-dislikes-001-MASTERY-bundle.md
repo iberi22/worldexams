@@ -27,7 +27,7 @@ creador: "Jules-Agent"
 **ID:** CO-ING-6-2026-W34-likes-dislikes-001-v1
 **Bloom:** Remember
 **ICFES:** Grammatical Knowledge
-**Expected_Success:** 0.82
+**Expected_Success:** 0.85
 **Contexto:** Choosing the verb that expresses a like in the present simple.
 
 ### Enunciado
@@ -47,7 +47,7 @@ The correct answer is "likes". Expressing a like in English is a compact pattern
 **ID:** CO-ING-6-2026-W34-likes-dislikes-002-v1
 **Bloom:** Remember
 **ICFES:** Grammatical Knowledge
-**Expected_Success:** 0.80
+**Expected_Success:** 0.84
 **Contexto:** Forming a negative with does not.
 
 ### Enunciado
@@ -67,7 +67,7 @@ The correct answer is "She doesn't like fish". The negative with the third perso
 **ID:** CO-ING-6-2026-W34-likes-dislikes-003-v1
 **Bloom:** Understand
 **ICFES:** Reading Comprehension
-**Expected_Success:** 0.78
+**Expected_Success:** 0.83
 **Contexto:** Reading what two students say about a food.
 
 ### Enunciado
@@ -82,12 +82,12 @@ Read: "Ana likes mango but she doesn't like papaya. Luis doesn't like mango eith
 ### Explicación Pedagógica
 The correct answer is "Ana likes mango". The text contains two negatives and one positive, and students who read quickly reverse one of the negatives and answer wrongly. Following each statement to the person it belongs to is the skill this item builds, and it is the same careful tracking that longer texts about preferences require.
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 
 **ID:** CO-ING-6-2026-W34-likes-dislikes-004-v1
 **Bloom:** Apply
 **ICFES:** Grammatical Knowledge
-**Expected_Success:** 0.76
+**Expected_Success:** 0.82
 **Contexto:** Using the gerund after the verb to like.
 
 ### Enunciado
@@ -107,7 +107,7 @@ The correct answer is "She likes reading books". Each distractor introduces exac
 **ID:** CO-ING-6-2026-W34-likes-dislikes-005-v1
 **Bloom:** Apply
 **ICFES:** Pragmatic Competence
-**Expected_Success:** 0.74
+**Expected_Success:** 0.81
 **Contexto:** Asking a friend about a preference politely.
 
 ### Enunciado
@@ -127,7 +127,7 @@ The correct answer is "Do you like spicy food?". Asking a friend about a prefere
 **ID:** CO-ING-6-2026-W34-likes-dislikes-006-v1
 **Bloom:** Apply
 **ICFES:** Lexical Knowledge
-**Expected_Success:** 0.72
+**Expected_Success:** 0.80
 **Contexto:** Choosing the word that expresses a dislike rather than a preference.
 
 ### Enunciado
@@ -142,12 +142,12 @@ Which word says that a person does not like something?
 ### Explicación Pedagógica
 The correct answer is "hate". A small set of verbs carries the whole range of liking and disliking in English, and students who only know like and not like cannot express strength of feeling. Learning love, like, do not like and hate as a scale gives them the vocabulary to answer questions about preferences with the right degree of feeling rather than a flat yes or no.
 
-## Question 7 [D4-D5]
+## Question 7 [D4]
 
 **ID:** CO-ING-6-2026-W34-likes-dislikes-007-v1
 **Bloom:** Apply
 **ICFES:** Grammatical Knowledge
-**Expected_Success:** 0.70
+**Expected_Success:** 0.79
 **Contexto:** Using love with a noun rather than a gerund.
 
 ### Enunciado
@@ -162,12 +162,12 @@ Which sentence correctly says that a student loves pizza?
 ### Explicación Pedagógica
 The correct answer is "She loves pizza". A noun can follow the verb to love directly, whereas a verb activity normally takes the gerund, and students tend to apply one rule to both. Fixing the pattern for each of the two verbs keeps the choice deliberate, and it is a distinction that shows up in every longer piece of student writing.
 
-## Question 8 [D4-D5]
+## Question 8 [D4]
 
 **ID:** CO-ING-6-2026-W34-likes-dislikes-008-v1
 **Bloom:** Analyze
 **ICFES:** Reading Comprehension
-**Expected_Success:** 0.68
+**Expected_Success:** 0.77
 **Contexto:** Comparing the preferences of two students in a short text.
 
 ### Enunciado
@@ -182,12 +182,12 @@ Read: "Pedro likes football but he doesn't like basketball. Sara likes both." Wh
 ### Explicación Pedagógica
 The correct answer is "She likes both football and basketball". The word both refers back to two nouns mentioned in the previous sentence, and resolving a reference like that is a genuine reading skill rather than a vocabulary question. Students who miss it often answer from memory of the first sentence, which is why the item puts the pronoun in a different sentence from the things it refers to.
 
-## Question 9 [D5]
+## Question 9 [D4]
 
 **ID:** CO-ING-6-2026-W34-likes-dislikes-009-v1
 **Bloom:** Analyze
 **ICFES:** Grammatical Knowledge
-**Expected_Success:** 0.65
+**Expected_Success:** 0.74
 **Contexto:** Finding the error in a sentence about a preference.
 
 ### Enunciado
@@ -202,12 +202,12 @@ A student writes: "My brother don't like horror films." What is the problem?
 ### Explicación Pedagógica
 The correct answer is "The auxiliary should be does rather than do". The sentence has exactly one fault, and the three distractors each propose a different problem that is not there. This is the error a student makes most often in written work, so isolating it in a sentence where the noun, the main verb and the meaning are all correct is the most direct way to eliminate it.
 
-## Question 10 [D5]
+## Question 10 [D4]
 
 **ID:** CO-ING-6-2026-W34-likes-dislikes-010-v1
 **Bloom:** Evaluate
 **ICFES:** Pragmatic Competence
-**Expected_Success:** 0.62
+**Expected_Success:** 0.70
 **Contexto:** Choosing the best way to state a strong preference to a class.
 
 ### Enunciado

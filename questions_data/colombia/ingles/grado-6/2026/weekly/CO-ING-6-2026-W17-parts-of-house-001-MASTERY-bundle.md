@@ -27,7 +27,7 @@ creador: "Jules-Agent"
 **ID:** CO-ING-6-2026-W17-parts-of-house-001-v1
 **Bloom:** Remember
 **ICFES:** Lexical Knowledge
-**Expected_Success:** 0.82
+**Expected_Success:** 0.85
 **Contexto:** Naming the room where a family cooks and eats together.
 
 ### Enunciado
@@ -47,7 +47,7 @@ The correct answer is "the kitchen". House vocabulary is taught as a set of room
 **ID:** CO-ING-6-2026-W17-parts-of-house-002-v1
 **Bloom:** Remember
 **ICFES:** Grammatical Knowledge
-**Expected_Success:** 0.80
+**Expected_Success:** 0.84
 **Contexto:** Using the preposition in with the word living room.
 
 ### Enunciado
@@ -67,7 +67,7 @@ The correct answer is "The sofa is in the living room". Two separate habits meet
 **ID:** CO-ING-6-2026-W17-parts-of-house-003-v1
 **Bloom:** Understand
 **ICFES:** Reading Comprehension
-**Expected_Success:** 0.78
+**Expected_Success:** 0.83
 **Contexto:** Locating objects from a short description of a house.
 
 ### Enunciado
@@ -82,12 +82,12 @@ Read: "The fridge is in the kitchen. The bed is in the bedroom. The books are on
 ### Explicación Pedagógica
 The correct answer is "On the shelf". The text offers four locations and only one of them belongs to the books, so the student has to hold three separate piece of information apart. Each distractor is a real location from the text attached to the wrong object, which is the standard shape of a reading item and the one that penalises guessing.
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 
 **ID:** CO-ING-6-2026-W17-parts-of-house-004-v1
 **Bloom:** Apply
 **ICFES:** Grammatical Knowledge
-**Expected_Success:** 0.76
+**Expected_Success:** 0.82
 **Contexto:** Choosing the right preposition to describe where something hangs.
 
 ### Enunciado
@@ -107,7 +107,7 @@ The correct answer is "on". The distinction between on, in and at is the one Spa
 **ID:** CO-ING-6-2026-W17-parts-of-house-005-v1
 **Bloom:** Apply
 **ICFES:** Pragmatic Competence
-**Expected_Success:** 0.74
+**Expected_Success:** 0.81
 **Contexto:** Asking a friend where an object is kept at home.
 
 ### Enunciado
@@ -127,7 +127,7 @@ The correct answer is "Where are my keys?" English has a fixed question word for
 **ID:** CO-ING-6-2026-W17-parts-of-house-006-v1
 **Bloom:** Apply
 **ICFES:** Lexical Knowledge
-**Expected_Success:** 0.72
+**Expected_Success:** 0.80
 **Contexto:** Naming the part of a house that is open to the outside.
 
 ### Enunciado
@@ -142,12 +142,12 @@ In a Colombian house, what is the name of the open area where plants grow and th
 ### Explicación Pedagógica
 The correct answer is "the patio". A Colombian patio is a real and central part of the home, and knowing the English word for it is genuinely useful rather than decorative, because it is the kind of word that comes up when a student describes where a family spends an afternoon. Linking the word to the architecture the student actually lives in is what turns vocabulary into something they can use.
 
-## Question 7 [D4-D5]
+## Question 7 [D4]
 
 **ID:** CO-ING-6-2026-W17-parts-of-house-007-v1
 **Bloom:** Apply
 **ICFES:** Grammatical Knowledge
-**Expected_Success:** 0.70
+**Expected_Success:** 0.79
 **Contexto:** Writing a short description of a room using there is.
 
 ### Enunciado
@@ -162,12 +162,12 @@ Which sentence correctly says what a bedroom contains?
 ### Explicación Pedagógica
 The correct answer is "There is a bed and there is a wardrobe in the bedroom". There is is the construction students reach for automatically and rarely need correcting, so this is the high-confidence item in the week, placed where the harder preposition work has already been established. Even a secure form is worth assessing, because the error of using it has where a place is concerned is common enough to be worth catching early.
 
-## Question 8 [D4-D5]
+## Question 8 [D4]
 
 **ID:** CO-ING-6-2026-W17-parts-of-house-008-v1
 **Bloom:** Analyze
 **ICFES:** Reading Comprehension
-**Expected_Success:** 0.68
+**Expected_Success:** 0.77
 **Contexto:** Working out the function of a room from what a text says happens there.
 
 ### Enunciado
@@ -182,12 +182,12 @@ Read: "Every evening my grandmother sits here, reads the newspaper and talks wit
 ### Explicación Pedagógica
 The correct answer is "The living room". The room is never named in the text, so the student has to infer it from the activities described, which is a genuine reading inference rather than a lookup. Each distractor is a real room whose function does not match what the grandmother is doing, so the reasoning has to run through the meaning of the actions.
 
-## Question 9 [D5]
+## Question 9 [D4]
 
 **ID:** CO-ING-6-2026-W17-parts-of-house-009-v1
 **Bloom:** Analyze
 **ICFES:** Grammatical Knowledge
-**Expected_Success:** 0.65
+**Expected_Success:** 0.74
 **Contexto:** Finding the error in a description of a room.
 
 ### Enunciado
@@ -202,12 +202,12 @@ A student writes: "The closet is in the kitchen." The teacher says this is wrong
 ### Explicación Pedagógica
 The correct answer is the one about closets holding clothes. Every part of the sentence is grammatically correct, so the only way to reject it is on the grounds of what is actually true in a house. Judging plausibility separately from grammar is a distinct and valuable skill, and it is the reasoning an exam expects when it asks which sentence could really happen.
 
-## Question 10 [D5]
+## Question 10 [D4]
 
 **ID:** CO-ING-6-2026-W17-parts-of-house-010-v1
 **Bloom:** Evaluate
 **ICFES:** Pragmatic Competence
-**Expected_Success:** 0.62
+**Expected_Success:** 0.70
 **Contexto:** Choosing the best way to describe a home for a guest.
 
 ### Enunciado

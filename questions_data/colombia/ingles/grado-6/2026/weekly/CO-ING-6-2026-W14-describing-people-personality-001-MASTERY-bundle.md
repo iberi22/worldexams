@@ -27,7 +27,7 @@ creador: "Jules-Agent"
 **ID:** CO-ING-6-2026-W14-describing-people-personality-001-v1
 **Bloom:** Remember
 **ICFES:** Lexical Knowledge
-**Expected_Success:** 0.82
+**Expected_Success:** 0.85
 **Contexto:** Choosing the adjective that describes a friendly classmate.
 
 ### Enunciado
@@ -47,7 +47,7 @@ The correct answer is "helpful". Personality adjectives at A2 are best learned b
 **ID:** CO-ING-6-2026-W14-describing-people-personality-002-v1
 **Bloom:** Remember
 **ICFES:** Grammatical Knowledge
-**Expected_Success:** 0.80
+**Expected_Success:** 0.84
 **Contexto:** Choosing the adjective form that comes after the verb to be.
 
 ### Enunciado
@@ -67,7 +67,7 @@ The correct answer is "patient". The three distractors are the noun, the adverb 
 **ID:** CO-ING-6-2026-W14-describing-people-personality-003-v1
 **Bloom:** Understand
 **ICFES:** Reading Comprehension
-**Expected_Success:** 0.78
+**Expected_Success:** 0.83
 **Contexto:** Reading a short description of a friend's character.
 
 ### Enunciado
@@ -82,12 +82,12 @@ Read: "Mateo is very honest. He always tells the truth, even when it is difficul
 ### Explicación Pedagógica
 The correct answer is "He is honest". A personality word in a text is supported by the behaviour that explains it, and here that behaviour is always telling the truth. Linking an abstract adjective to its evidence in the text is the comprehension move that later questions about what a character is like depend on, and it is a step beyond simply spotting the adjective.
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 
 **ID:** CO-ING-6-2026-W14-describing-people-personality-004-v1
 **Bloom:** Apply
 **ICFES:** Pragmatic Competence
-**Expected_Success:** 0.76
+**Expected_Success:** 0.82
 **Contexto:** Answering a teacher's question about a friend at school.
 
 ### Enunciado
@@ -107,7 +107,7 @@ The correct answer is "She is kind and she always helps me with my homework." Th
 **ID:** CO-ING-6-2026-W14-describing-people-personality-005-v1
 **Bloom:** Apply
 **ICFES:** Grammatical Knowledge
-**Expected_Success:** 0.74
+**Expected_Success:** 0.81
 **Contexto:** Placing a personality adjective in a sentence about a classmate.
 
 ### Enunciado
@@ -127,7 +127,7 @@ The correct answer is "Diego is a shy boy". The adjective normally sits between 
 **ID:** CO-ING-6-2026-W14-describing-people-personality-006-v1
 **Bloom:** Apply
 **ICFES:** Lexical Knowledge
-**Expected_Success:** 0.72
+**Expected_Success:** 0.80
 **Contexto:** Choosing the word that is the opposite of a personality adjective.
 
 ### Enunciado
@@ -142,12 +142,12 @@ If a person is generous, which word describes the opposite quality?
 ### Explicación Pedagógica
 The correct answer is "mean". Learning personality adjectives in opposite pairs is far more efficient than learning them one at a time, and generous and mean is the pair students meet first because it is the clearest. The three distractors are near-synonyms or an unrelated quality, which is exactly the confusion that appears when a student has met the words but never thought about which are opposites.
 
-## Question 7 [D4-D5]
+## Question 7 [D4]
 
 **ID:** CO-ING-6-2026-W14-describing-people-personality-007-v1
 **Bloom:** Apply
 **ICFES:** Grammatical Knowledge
-**Expected_Success:** 0.70
+**Expected_Success:** 0.79
 **Contexto:** Using the correct adjective ending in a comparison.
 
 ### Enunciado
@@ -162,12 +162,12 @@ Complete the comparison: "Tomás is ________ than his brother, because he always
 ### Explicación Pedagógica
 The correct answer is "more responsible". Longer adjectives form the comparative with more rather than with an -er ending, and this is a rule Spanish speakers rarely need because most of their adjectives are short. A student who applies the -er rule too broadly produces forms that do not exist, so the item marks that boundary explicitly before the exam does.
 
-## Question 8 [D4-D5]
+## Question 8 [D4]
 
 **ID:** CO-ING-6-2026-W14-describing-people-personality-008-v1
 **Bloom:** Analyze
 **ICFES:** Reading Comprehension
-**Expected_Success:** 0.68
+**Expected_Success:** 0.77
 **Contexto:** Judging what a text says about two different people.
 
 ### Enunciado
@@ -182,12 +182,12 @@ Read: "Laura is very shy, but her brother is quite sociable." What does the text
 ### Explicación Pedagógica
 The correct answer is "Laura is shy". The conjunction but is the hinge of the sentence, and reading a contrast correctly means attributing each quality to the right person. Students frequently carry a quality across a contrast to the other subject, so the item targets the specific error of ignoring what but is doing rather than general reading difficulty.
 
-## Question 9 [D5]
+## Question 9 [D4]
 
 **ID:** CO-ING-6-2026-W14-describing-people-personality-009-v1
 **Bloom:** Analyze
 **ICFES:** Grammatical Knowledge
-**Expected_Success:** 0.65
+**Expected_Success:** 0.74
 **Contexto:** Repairing a description where a noun has been used where an adjective belongs.
 
 ### Enunciado
@@ -202,12 +202,12 @@ A student writes: "My friend is a happy person." The teacher says one word is th
 ### Explicación Pedagógica
 The correct answer is "My friend is a person who is happy". The underlying problem is that person is a noun being used where a description of character is needed, and the only option that fixes it moves the quality into a proper adjective clause. Diagnosing a part-of-speech fault and choosing the repair that addresses it, rather than the one that merely sounds different, is the highest-order work in this bundle.
 
-## Question 10 [D5]
+## Question 10 [D4]
 
 **ID:** CO-ING-6-2026-W14-describing-people-personality-010-v1
 **Bloom:** Evaluate
 **ICFES:** Pragmatic Competence
-**Expected_Success:** 0.62
+**Expected_Success:** 0.70
 **Contexto:** Choosing a fair description of a person from a short list of qualities.
 
 ### Enunciado

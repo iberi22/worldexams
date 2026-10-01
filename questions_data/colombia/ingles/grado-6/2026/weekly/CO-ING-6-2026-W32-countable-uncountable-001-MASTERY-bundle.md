@@ -27,7 +27,7 @@ creador: "Jules-Agent"
 **ID:** CO-ING-6-2026-W32-countable-uncountable-001-v1
 **Bloom:** Remember
 **ICFES:** Grammatical Knowledge
-**Expected_Success:** 0.82
+**Expected_Success:** 0.85
 **Contexto:** Deciding whether a noun takes a plural in English.
 
 ### Enunciado
@@ -47,7 +47,7 @@ The correct answer is "water". The countable and uncountable distinction is the 
 **ID:** CO-ING-6-2026-W32-countable-uncountable-002-v1
 **Bloom:** Remember
 **ICFES:** Grammatical Knowledge
-**Expected_Success:** 0.80
+**Expected_Success:** 0.84
 **Contexto:** Using a container word with an uncountable noun.
 
 ### Enunciado
@@ -67,7 +67,7 @@ The correct answer is "Can I have some milk, please?". Asking for an amount of s
 **ID:** CO-ING-6-2026-W32-countable-uncountable-003-v1
 **Bloom:** Understand
 **ICFES:** Reading Comprehension
-**Expected_Success:** 0.78
+**Expected_Success:** 0.83
 **Contexto:** Reading a shopping list and deciding what to buy.
 
 ### Enunciado
@@ -82,12 +82,12 @@ Read the list: "2 apples, some bread, 1 litre of milk, 3 pencils." Which items a
 ### Explicación Pedagógica
 The correct answer is "Apples and pencils". The list itself marks the countable items with a bare number and the uncountable ones with some or a measure such as a litre, so the student can use the evidence in the text rather than relying on memory. That is the more reliable method, and it is also the reasoning the exam expects when it asks about quantities.
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 
 **ID:** CO-ING-6-2026-W32-countable-uncountable-004-v1
 **Bloom:** Apply
 **ICFES:** Grammatical Knowledge
-**Expected_Success:** 0.76
+**Expected_Success:** 0.82
 **Contexto:** Using a plural noun correctly with a number above one.
 
 ### Enunciado
@@ -107,7 +107,7 @@ The correct answer is "I have three books in my bag". The plural after a number 
 **ID:** CO-ING-6-2026-W32-countable-uncountable-005-v1
 **Bloom:** Apply
 **ICFES:** Lexical Knowledge
-**Expected_Success:** 0.74
+**Expected_Success:** 0.81
 **Contexto:** Classifying food nouns as countable or uncountable.
 
 ### Enunciado
@@ -127,7 +127,7 @@ The correct answer is "apple". Food is where students first meet the distinction
 **ID:** CO-ING-6-2026-W32-countable-uncountable-006-v1
 **Bloom:** Apply
 **ICFES:** Pragmatic Competence
-**Expected_Success:** 0.72
+**Expected_Success:** 0.80
 **Contexto:** Asking for two of something in a shop.
 
 ### Enunciado
@@ -142,12 +142,12 @@ You are in a shop and you want two apples. What do you say?
 ### Explicación Pedagógica
 The correct answer is "Can I have two apples, please?". Ordering countable items is the everyday transaction this week's grammar exists for, and the pattern is number then plural noun. The three distractors each misapply a determiner or a number from the other side of the countable line, so choosing correctly means knowing which rule applies rather than trying alternatives until one sounds right.
 
-## Question 7 [D4-D5]
+## Question 7 [D4]
 
 **ID:** CO-ING-6-2026-W32-countable-uncountable-007-v1
 **Bloom:** Apply
 **ICFES:** Grammatical Knowledge
-**Expected_Success:** 0.70
+**Expected_Success:** 0.79
 **Contexto:** Using a measure word with an uncountable noun.
 
 ### Enunciado
@@ -162,12 +162,12 @@ Which sentence correctly says how much sugar a student uses?
 ### Explicación Pedagógica
 The correct answer is "I use two spoons of sugar in my coffee". The pattern of a number with a measure word and then of plus the mass noun is the standard English solution for quantities of things that cannot be counted, and it is a form students will use constantly in this period's food and shopping material. Learning it as a pattern rather than word by word is what lets them build new sentences with other uncountable nouns.
 
-## Question 8 [D4-D5]
+## Question 8 [D4]
 
 **ID:** CO-ING-6-2026-W32-countable-uncountable-008-v1
 **Bloom:** Analyze
 **ICFES:** Reading Comprehension
-**Expected_Success:** 0.68
+**Expected_Success:** 0.77
 **Contexto:** Working out how much of something a text describes.
 
 ### Enunciado
@@ -182,12 +182,12 @@ Read: "A recipe for four people needs 300 grams of rice, two eggs and a litre of
 ### Explicación Pedagógica
 The correct answer is "Two". A recipe mixes countable and uncountable ingredients in a single line, so the student has to find the right number and check that it is attached to the right noun. Two of the distractors are real numbers from the text and one is not an amount at all, so the item separates reading a number from understanding what it is measuring.
 
-## Question 9 [D5]
+## Question 9 [D4]
 
 **ID:** CO-ING-6-2026-W32-countable-uncountable-009-v1
 **Bloom:** Analyze
 **ICFES:** Grammatical Knowledge
-**Expected_Success:** 0.65
+**Expected_Success:** 0.74
 **Contexto:** Finding the error in a sentence about quantities.
 
 ### Enunciado
@@ -202,12 +202,12 @@ A student writes: "I bought three breads at the bakery." What is the problem?
 ### Explicación Pedagógica
 The correct answer is "Bread is uncountable so it has no plural". The sentence is otherwise perfectly correct, including the number and the place, so the only fault is the countable and uncountable boundary. Recognising a plural form that does not exist in English is a specific and learnable check, and it applies to bread, rice, sugar, milk and every other mass noun a student meets.
 
-## Question 10 [D5]
+## Question 10 [D4]
 
 **ID:** CO-ING-6-2026-W32-countable-uncountable-010-v1
 **Bloom:** Evaluate
 **ICFES:** Pragmatic Competence
-**Expected_Success:** 0.62
+**Expected_Success:** 0.70
 **Contexto:** Deciding which of two shopping lists is correctly written.
 
 ### Enunciado

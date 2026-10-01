@@ -27,7 +27,7 @@ creador: "Jules-Agent"
 **ID:** CO-ING-6-2026-W13-describing-people-physical-001-v1
 **Bloom:** Remember
 **ICFES:** Lexical Knowledge
-**Expected_Success:** 0.82
+**Expected_Success:** 0.85
 **Contexto:** Describing the hair of a classmate in Bogotá.
 
 ### Enunciado
@@ -47,7 +47,7 @@ The correct answer is "She has long, straight brown hair." Describing physical a
 **ID:** CO-ING-6-2026-W13-describing-people-physical-002-v1
 **Bloom:** Remember
 **ICFES:** Lexical Knowledge
-**Expected_Success:** 0.80
+**Expected_Success:** 0.84
 **Contexto:** Naming a facial feature from a description.
 
 ### Enunciado
@@ -67,7 +67,7 @@ The correct answer is "eye". Face vocabulary is the first content the appearance
 **ID:** CO-ING-6-2026-W13-describing-people-physical-003-v1
 **Bloom:** Understand
 **ICFES:** Reading Comprehension
-**Expected_Success:** 0.78
+**Expected_Success:** 0.83
 **Contexto:** Reading two short descriptions of students in a class.
 
 ### Enunciado
@@ -82,12 +82,12 @@ Read: "Andrés is tall and thin. Juliana is short and a little bit strong." Who 
 ### Explicación Pedagógica
 The correct answer is "Andrés". Two opposing adjectives in a short text create a comparison without any numbers, and recognising that tall and short are opposites is the whole reading task. Students who treat the adjectives as unrelated labels miss the contrast, so building the habit of pairing opposites is the transferable habit this item is really after.
 
-## Question 4 [D4]
+## Question 4 [D3-D4]
 
 **ID:** CO-ING-6-2026-W13-describing-people-physical-004-v1
 **Bloom:** Apply
 **ICFES:** Grammatical Knowledge
-**Expected_Success:** 0.76
+**Expected_Success:** 0.82
 **Contexto:** Choosing the verb that fits a description of a person.
 
 ### Enunciado
@@ -107,7 +107,7 @@ The correct answer is "She has long hair." Every description of a person needs a
 **ID:** CO-ING-6-2026-W13-describing-people-physical-005-v1
 **Bloom:** Apply
 **ICFES:** Grammatical Knowledge
-**Expected_Success:** 0.74
+**Expected_Success:** 0.81
 **Contexto:** Placing an adjective in the right position in a description.
 
 ### Enunciado
@@ -127,7 +127,7 @@ The correct answer is "Lucia has black hair." Spanish puts the adjective after t
 **ID:** CO-ING-6-2026-W13-describing-people-physical-006-v1
 **Bloom:** Apply
 **ICFES:** Lexical Knowledge
-**Expected_Success:** 0.72
+**Expected_Success:** 0.80
 **Contexto:** Describing a person's general build rather than one feature.
 
 ### Enunciado
@@ -142,12 +142,12 @@ Which word describes a person who is not fat and not thin?
 ### Explicación Pedagógica
 The correct answer is "average". A Grade 6 student needs a small set of build words that are actually opposites of one another, and the pairs tall and short, thin and strong, big and small are what make a description understandable to someone else. Choosing the middle term rather than either extreme forces the student to hold a scale in mind instead of memorising a single word per person.
 
-## Question 7 [D4-D5]
+## Question 7 [D4]
 
 **ID:** CO-ING-6-2026-W13-describing-people-physical-007-v1
 **Bloom:** Apply
 **ICFES:** Pragmatic Competence
-**Expected_Success:** 0.70
+**Expected_Success:** 0.79
 **Contexto:** Describing a classmate for a school partner activity.
 
 ### Enunciado
@@ -162,12 +162,12 @@ You must describe your partner to another student without saying the name. Which
 ### Explicación Pedagógica
 The correct answer is "He is a boy with black hair and he is my friend." A description has a purpose, and the purpose here is identification, which means two or three consistent visible features rather than a long list. Showing that adding more information can make a description worse is a genuinely analytical judgement, and it is the standard students reach when they later have to write a description for an exam.
 
-## Question 8 [D4-D5]
+## Question 8 [D4]
 
 **ID:** CO-ING-6-2026-W13-describing-people-physical-008-v1
 **Bloom:** Analyze
 **ICFES:** Reading Comprehension
-**Expected_Success:** 0.68
+**Expected_Success:** 0.77
 **Contexto:** Checking which description a short text actually supports.
 
 ### Enunciado
@@ -182,12 +182,12 @@ Read: "Felipe has curly hair and wears glasses." Which statement about Felipe is
 ### Explicación Pedagógica
 The correct answer is "Felipe has curly hair." Two of the distractors are direct contradictions of the text and one invents a fact, so the item separates three different reading errors rather than testing recall alone. The skill being built is checking a statement against what a text actually supports, which is precisely what ICFES reading items ask for.
 
-## Question 9 [D5]
+## Question 9 [D4]
 
 **ID:** CO-ING-6-2026-W13-describing-people-physical-009-v1
 **Bloom:** Analyze
 **ICFES:** Grammatical Knowledge
-**Expected_Success:** 0.65
+**Expected_Success:** 0.74
 **Contexto:** Repairing a description that has been written with the wrong verb form.
 
 ### Enunciado
@@ -202,12 +202,12 @@ A student writes: "My mother have short gray hair." What is the problem?
 ### Explicación Pedagógica
 The correct answer is "The verb have does not agree with the subject." Error correction on a sentence where everything else is right isolates the single fault, and this one is about agreement rather than word order or vocabulary. The distractors name three plausible-looking problems that are all absent, which is the hardest and most useful kind of item at this level because the student must rule things out.
 
-## Question 10 [D5]
+## Question 10 [D4]
 
 **ID:** CO-ING-6-2026-W13-describing-people-physical-010-v1
 **Bloom:** Evaluate
 **ICFES:** Pragmatic Competence
-**Expected_Success:** 0.62
+**Expected_Success:** 0.70
 **Contexto:** Choosing the most useful description of an unknown person from a group.
 
 ### Enunciado

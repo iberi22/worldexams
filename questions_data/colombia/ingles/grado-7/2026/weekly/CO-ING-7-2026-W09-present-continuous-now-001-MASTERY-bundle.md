@@ -215,7 +215,7 @@ Which sentence describes an action happening RIGHT NOW?
 - [ ] A) I study English on Tuesdays.
   <!-- feedback: Incorrect. This is a habit. -->
 - [ ] B) He usually plays soccer.
-  <!-- feedback: Incorrect. This is a habit. -->
+  <!-- feedback: Incorrect. The adverb "usually" marks a repeated routine in the Present Simple. -->
 - [x] C) They are studying for the test.
   <!-- feedback: Correct! The structure "are studying" indicates an action in progress. -->
 - [ ] D) My mother is a doctor.

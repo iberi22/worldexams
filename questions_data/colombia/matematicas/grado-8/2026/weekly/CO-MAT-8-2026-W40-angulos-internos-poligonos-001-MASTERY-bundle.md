@@ -57,7 +57,7 @@ La suma de los ángulos internos de un triángulo es 180°. Un cuadrilátero se 
 - [x] B) S = (n − 2) × 180°
   <!-- feedback: Correcto. El polígono se divide en n − 2 triángulos desde un vértice. -->
 - [ ] C) S = (n + 2) × 180°
-  <!-- feedback: Incorrecto. Con esa fórmula el triángulo sumaría 540°, lo cual es falso. -->
+  <!-- feedback: Incorrecto. Al restar 2 aparece una sola diagonal desde cada vértice y el polígono no queda dividido en triángulos. -->
 - [ ] D) S = n × 90°
   <!-- feedback: Incorrecto. Con esa fórmula el cuadrilátero sumaría 360° por coincidencia, pero falla en el triángulo. -->
 ### Explicacion Pedagogica
