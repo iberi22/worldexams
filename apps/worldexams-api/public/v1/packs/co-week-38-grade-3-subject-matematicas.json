@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-38-grade-3-subject-matematicas",
+    "generated_at": "2026-10-01T20:25:30.120Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-3-2026-W38-lectura-y-interpretacion-de-tablas-y-graficas-001-MASTERY-bundle-v1",
+      "statement": "La tabla muestra: Lunes 32, Martes 28, Miércoles 35, Jueves 30. ¿Cuántos estudiantes asistieron el lunes?",
+      "context": "En una escuela de Bogotá se lleva el registro de asistencia de una semana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "32 estudiantes",
+          "is_correct": true,
+          "feedback": "Correcto. En la fila del lunes la tabla registra 32 estudiantes, y ese es el dato que pide la pregunta."
+        },
+        {
+          "letter": "B",
+          "text": "28 estudiantes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el número del martes, y tomaste la fila equivocada al buscar el dato del lunes."
+        },
+        {
+          "letter": "C",
+          "text": "35 estudiantes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el valor del miércoles, que es el día con más asistencia y no el día que te piden."
+        },
+        {
+          "letter": "D",
+          "text": "30 estudiantes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el registro del jueves, y tomaste la última fila como si fuera la del lunes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Leer una tabla empieza por localizar la fila y la columna donde se cruzan el día y el dato buscado. Los cuatro números están a la vista, así que el error más común aquí no es de cálculo sino de lectura: tomar el valor de otra fila.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-3-2026-W38-lectura-y-interpretacion-de-tablas-y-graficas-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W38-lectura-y-interpretacion-de-tablas-y-graficas-001-MASTERY-bundle-v2",
+      "statement": "¿Cuántos estudiantes de diferencia hay entre el día con más y el día con menos asistencia?",
+      "context": "En la misma tabla de asistencia de Bogotá, el día con más asistentes fue el miércoles y el día con menos fue el martes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2 estudiantes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Comparaste el lunes con el jueves, 32 − 30 = 2, cuando el enunciado pide el día con más y el día con menos."
+        },
+        {
+          "letter": "B",
+          "text": "63 estudiantes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste los dos valores, 35 + 28 = 63, cuando la diferencia se obtiene restando, no sumando."
+        },
+        {
+          "letter": "C",
+          "text": "7 estudiantes",
+          "is_correct": true,
+          "feedback": "Correcto. 35 − 28 = 7, así que entre el miércoles y el martes hay 7 estudiantes de diferencia."
+        },
+        {
+          "letter": "D",
+          "text": "5 estudiantes",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cálculo correcto es 35 − 28 = 7, así que una diferencia de 5 no corresponde a los datos de la tabla."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una diferencia entre el valor mayor y el menor se calcula restando el menor del mayor. Aquí los dos datos son 35 y 28, y restarlos da 7, que es la medida de cuánto se separaron esos dos días.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-3-2026-W38-lectura-y-interpretacion-de-tablas-y-graficas-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W38-lectura-y-interpretacion-de-tablas-y-graficas-001-MASTERY-bundle-v3",
+      "statement": "¿Cuántos estudiantes participaron en la encuesta?",
+      "context": "En Medellín, en una encuesta del colegio sobre el color favorito, los resultados fueron Azul 18, Rojo 12, Verde 15, Amarillo 9.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "45 estudiantes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dejaste por fuera los 9 estudiantes que votaron por el amarillo, y 18 + 12 + 15 = 45."
+        },
+        {
+          "letter": "B",
+          "text": "63 estudiantes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste los 9 del amarillo dos veces, cuando cada grupo de la tabla cuenta una sola vez."
+        },
+        {
+          "letter": "C",
+          "text": "27 estudiantes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo sumaste el azul y el amarillo, porque 18 + 9 = 27, y dejaste fuera el rojo y el verde."
+        },
+        {
+          "letter": "D",
+          "text": "54 estudiantes",
+          "is_correct": true,
+          "feedback": "Correcto. 18 + 12 + 15 + 9 = 54, así que participaron 54 estudiantes en la encuesta de colores."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Para hallar el total de una tabla hay que sumar todas las filas, y una fila omitida desplaza el resultado. La verificación consiste en comprobar que la suma incluya cada categoría exactamente una vez.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-3-2026-W38-lectura-y-interpretacion-de-tablas-y-graficas-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W38-lectura-y-interpretacion-de-tablas-y-graficas-001-MASTERY-bundle-v4",
+      "statement": "La gráfica muestra: Enero 10, Febrero 15, Marzo 20, Abril 25. ¿En qué mes se leyeron más libros y cuántos?",
+      "context": "En una gráfica de barras de Cali, el eje vertical muestra el número de libros leídos y el eje horizontal los meses.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Enero, 10 libros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el valor más bajo de la gráfica, porque la barra de enero es la más corta de las cuatro."
+        },
+        {
+          "letter": "B",
+          "text": "Abril, 25 libros",
+          "is_correct": true,
+          "feedback": "Correcto. La barra de abril es la más alta de la gráfica y llega a 25 libros, el valor más grande del período."
+        },
+        {
+          "letter": "C",
+          "text": "Marzo, 20 libros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Marzo tiene 20 libros, pero abril llega a 25, así que no es el mes con más libros leídos."
+        },
+        {
+          "letter": "D",
+          "text": "Febrero, 15 libros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Febrero registra 15 libros y solo es el segundo mes más bajo, no el mes con más libros."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En una gráfica de barras, la categoría con más dato es la de barra más alta. Leer el valor más alto y el nombre de su mes es una habilidad de interpretación que se comprueba comparando la altura de las cuatro barras.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-3-2026-W38-lectura-y-interpretacion-de-tablas-y-graficas-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W38-lectura-y-interpretacion-de-tablas-y-graficas-001-MASTERY-bundle-v5",
+      "statement": "¿Qué fracción de los 60 estudiantes prefiere el voleibol?",
+      "context": "En el colegio de Tunja se preguntó a 60 estudiantes por su deporte favorito: fútbol 24, voleibol 18, baloncesto 12 y otros 6.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3/10",
+          "is_correct": true,
+          "feedback": "Correcto. 18/60 se simplifica dividiendo numerador y denominador entre 6, y queda 3/10 de los estudiantes."
+        },
+        {
+          "letter": "B",
+          "text": "2/5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa fracción es 24/60, la parte que prefiere el fútbol, y no la que prefiere el voleibol."
+        },
+        {
+          "letter": "C",
+          "text": "3/20",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste 18 entre 120 en vez de 60, como si los estudiantes fueran el doble de los que realmente son."
+        },
+        {
+          "letter": "D",
+          "text": "6/10",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste los 24 del fútbol con los 12 del baloncesto y dividiste 36 entre 60, cuando solo se piden los 18 del voleibol."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una fracción de un total se obtiene dividiendo la parte entre el total, y esa fracción puede simplificar. En este caso 18/60 tiene un divisor común de 6, y reducirlo da la forma sencilla 3/10.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-3-2026-W38-lectura-y-interpretacion-de-tablas-y-graficas-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W38-lectura-y-interpretacion-de-tablas-y-graficas-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál de estas afirmaciones describe correctamente la gráfica?",
+      "context": "En Bucaramanga, la gráfica de ventas de una heladería muestra estos datos de la semana 1 a la 4: 10, 20, 20, 30.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las ventas llegaron a 30 en la semana 4 y esa fue la semana con más ventas",
+          "is_correct": true,
+          "feedback": "Correcto. El último valor de la gráfica es 30 y es el más alto, así que la semana 4 fue la de más ventas."
+        },
+        {
+          "letter": "B",
+          "text": "Las ventas llegaron a 30 en la semana 2 y esa fue la semana con más ventas",
+          "is_correct": false,
+          "feedback": "Incorrecto. En la semana 2 las ventas fueron 20, no 30, porque el valor 30 aparece solo en la semana 4."
+        },
+        {
+          "letter": "C",
+          "text": "Las ventas bajaron cada semana porque cada valor es menor que el anterior",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los valores de la gráfica suben y además se repiten, así que nunca bajan de una semana a la otra."
+        },
+        {
+          "letter": "D",
+          "text": "Las ventas fueron iguales todas las semanas porque la gráfica no cambia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los cuatro valores son distintos entre sí, 10, 20, 20 y 30, así que la gráfica sí cambia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Interpretar una gráfica de líneas exige comparar valores consecutivos, no solo el último. Cuando un valor se repite, como las semanas 2 y 3, la gráfica muestra un momento estable y no una caída.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-3-2026-W38-lectura-y-interpretacion-de-tablas-y-graficas-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W38-lectura-y-interpretacion-de-tablas-y-graficas-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es el promedio de libros leídos por estudiante?",
+      "context": "En Bogotá, en un club de lectura, 4 estudiantes leyeron estos libros: Ana 5, Luis 7, Camila 9, Diego 11.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6 libros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sacaste la resta entre el mayor y el menor, 11 − 5 = 6, y esa no es la definición del promedio."
+        },
+        {
+          "letter": "B",
+          "text": "8 libros",
+          "is_correct": true,
+          "feedback": "Correcto. 5 + 7 + 9 + 11 = 32 y 32 ÷ 4 = 8, así que el promedio es 8 libros por estudiante."
+        },
+        {
+          "letter": "C",
+          "text": "32 libros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mostraste el total de libros leídos, pero el promedio exige dividir ese 32 entre los 4 estudiantes."
+        },
+        {
+          "letter": "D",
+          "text": "4 libros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Respondiste con la cantidad de estudiantes, que es el divisor y no el resultado de dividir el total."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El promedio se obtiene sumando todos los datos y dividiendo esa suma entre la cantidad de datos. Ese procedimiento es válido para cualquier lista de números y es la base de muchos indicadores que aparecen en las gráficas.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-3-2026-W38-lectura-y-interpretacion-de-tablas-y-graficas-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W38-lectura-y-interpretacion-de-tablas-y-graficas-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál de estas afirmaciones está respaldada por los datos?",
+      "context": "En un colegio de Cali se registró cómo llegan los estudiantes: en bus 24, a pie 16, en bici 8.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La mayoría llega a pie, porque caminar es más rápido que el bus",
+          "is_correct": false,
+          "feedback": "Incorrecto. Llegar a pie es la categoría con 16 estudiantes, y además esa razón compara tiempos y no está en los datos."
+        },
+        {
+          "letter": "B",
+          "text": "La mayoría llega en bici, porque 8 estudiantes multiplicados por 3 son 24",
+          "is_correct": false,
+          "feedback": "Incorrecto. La bici tiene 8 estudiantes, el valor más bajo de la tabla, y multiplicarlos no cambia lo que la gráfica muestra."
+        },
+        {
+          "letter": "C",
+          "text": "Ningún medio es mayoría, porque los tres números son distintos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que los tres valores sean distintos no impide que uno sea el mayor, y el bus sí se lleva 24 de los 48 estudiantes."
+        },
+        {
+          "letter": "D",
+          "text": "La mayoría llega en bus, porque 24 es el valor más alto de la gráfica",
+          "is_correct": true,
+          "feedback": "Correcto. El bus reúne 24 de los 48 estudiantes, la mitad del total, y es el valor más alto de los tres medios de transporte."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Una conclusión está respaldada cuando se apoya en los datos y no en opiniones. Comparar los tres valores de la tabla es suficiente para identificar la categoría mayoritaria, sin necesidad de inventar razones que la gráfica no registra.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-3-2026-W38-lectura-y-interpretacion-de-tablas-y-graficas-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    }
+  ]
+}

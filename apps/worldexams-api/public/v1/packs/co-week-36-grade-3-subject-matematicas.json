@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-36-grade-3-subject-matematicas",
+    "generated_at": "2026-10-01T20:25:30.119Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-3-2026-W36-problemas-de-adicion-y-sustraccion-con-decimales-001-MASTERY-bundle-v1",
+      "statement": "¿Cuánto cuestan los dos kilos juntos?",
+      "context": "En el mercado de Bogotá, un kilo de queso cuesta $4.250,50 y un kilo de embutido cuesta $2.875,50.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$7.126,00",
+          "is_correct": true,
+          "feedback": "Correcto. 4.250,50 + 2.875,50 = 7.126,00, porque 50 centavos más 50 centavos acarrean 1.000 a las decenas de mil."
+        },
+        {
+          "letter": "B",
+          "text": "$6.115,00",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste mal las centenas, porque 4.250 + 2.875 = 7.125 y a eso se le suman los centavos, no 6.115."
+        },
+        {
+          "letter": "C",
+          "text": "$7.126,10",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste los centavos como 50 + 50 = 10 sin tener en cuenta el acarreo de 1 a los miles."
+        },
+        {
+          "letter": "D",
+          "text": "$7.216,00",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste 1.000 de más en las centenas, porque 4.250 + 2.875 = 7.125 y con los centavos da 7.126."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Al sumar decimales se alinean las comas y se suman por columnas igual que con números enteros. Los centavos 50 + 50 generan un acarreo de 1 a los miles, y ese acarreo es lo que distingue la respuesta correcta de las demás.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-3-2026-W36-problemas-de-adicion-y-sustraccion-con-decimales-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W36-problemas-de-adicion-y-sustraccion-con-decimales-001-MASTERY-bundle-v2",
+      "statement": "Gastó $13.750 en una compra y después gastó $4.975 más. ¿Cuánto le quedó?",
+      "context": "En Bucaramanga, doña Rosa salió a hacer compras con $25.000 en el bolsillo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$11.250",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste solo el primer gasto, porque 25.000 − 13.750 = 11.250, y te olvidaste del segundo gasto de $4.975."
+        },
+        {
+          "letter": "B",
+          "text": "$6.750",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste mal los dos gastos, porque 13.750 + 4.975 = 18.725 y no 18.250, que es lo que usaste para restar."
+        },
+        {
+          "letter": "C",
+          "text": "$6.275",
+          "is_correct": true,
+          "feedback": "Correcto. 13.750 + 4.975 = 18.725, y 25.000 − 18.725 = 6.275, así que le quedan $6.275."
+        },
+        {
+          "letter": "D",
+          "text": "$18.725",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mostraste el total gastado y no lo que sobró, porque el enunciado pide restar del dinero que llevaba."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Este problema tiene dos operaciones encadenadas: primero se acumula el total gastado sumando las dos compras, y después se resta ese total al dinero inicial. Confundir el total gastado con el saldo restante es el error de la última opción.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-3-2026-W36-problemas-de-adicion-y-sustraccion-con-decimales-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W36-problemas-de-adicion-y-sustraccion-con-decimales-001-MASTERY-bundle-v3",
+      "statement": "¿Cuánto gastó Juliana en los dos días?",
+      "context": "En Cali, Juliana gastó $2.850,50 el lunes y $1.975,50 el martes en transporte y almuerzo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$4.775,00",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dejaste por fuera los $0,50 del segundo día, porque 2.850,50 + 1.975,00 = 4.825,50 y no tu resultado."
+        },
+        {
+          "letter": "B",
+          "text": "$3.825,00",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste solo las cifras enteras, 2.000 + 1.000 = 3.000, sin tomar los $850,50 ni los $975,50."
+        },
+        {
+          "letter": "C",
+          "text": "$4.826,10",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste los centavos como 50 + 50 = 10 y los escribiste como ,10, en vez de hacer el acarreo a los miles."
+        },
+        {
+          "letter": "D",
+          "text": "$4.826,00",
+          "is_correct": true,
+          "feedback": "Correcto. 2.850,50 + 1.975,50 = 4.826,00, porque los 50 + 50 centavos acarrean 1.000 a las decenas de mil."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Cuando los decimales tienen la misma parte de centavos, la suma de las fracciones decimales produce un acarreo completo. Sumar y restar los enteros por separado y pegar la parte decimal después es un procedimiento que falla justo en esos acarreos.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-3-2026-W36-problemas-de-adicion-y-sustraccion-con-decimales-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W36-problemas-de-adicion-y-sustraccion-con-decimales-001-MASTERY-bundle-v4",
+      "statement": "¿Cuánto café queda en el almacén?",
+      "context": "En Medellín, un almacén tiene 3.480,25 kg de café y se venden 1.250,75 kg.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2.230,50 kg",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste mal los centavos, porque 25 − 75 exige pedirle 1 a los kilos y queda 125 − 75 = 50, no 50 con los kilos cambiados."
+        },
+        {
+          "letter": "B",
+          "text": "2.229,50 kg",
+          "is_correct": true,
+          "feedback": "Correcto. 3.480,25 − 1.250,75 = 2.229,50, porque para los centavos hay que pedir 1 unidad a la parte entera."
+        },
+        {
+          "letter": "C",
+          "text": "1.229,50 kg",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste mal los miles, porque 3.480 − 2.250 = 1.230 y no 1.230 − 1 = 1.229 como obtuviste."
+        },
+        {
+          "letter": "D",
+          "text": "4.731,00 kg",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste en vez de restar, porque 3.480,25 + 1.250,75 = 4.731,00, y el enunciado pide saber cuánto queda."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Restar decimales exige trabajar las dos partes: la entera y la de centavos. Cuando el centavo que se resta es mayor que el del minuendo hay que pedir una unidad a la parte entera, y ese préstamo es la clave de estas restas.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-3-2026-W36-problemas-de-adicion-y-sustraccion-con-decimales-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W36-problemas-de-adicion-y-sustraccion-con-decimales-001-MASTERY-bundle-v5",
+      "statement": "¿Cuánto gastó la máquina el martes?",
+      "context": "En Barranquilla, la máquina de café de una cafetería gastó $8.250,00 en toda la semana. El lunes gastó $3.475,50 y lo demás se gastó entre el martes y el miércoles por igual.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2.387,25",
+          "is_correct": true,
+          "feedback": "Correcto. 8.250,00 − 3.475,50 = 4.774,50, y como esa cantidad se reparte en 2 días, 4.774,50 ÷ 2 = 2.387,25."
+        },
+        {
+          "letter": "B",
+          "text": "$4.774,50",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el total de los dos días juntos, y como el gasto fue igual en ambos, hay que dividirlo entre 2."
+        },
+        {
+          "letter": "C",
+          "text": "$1.925,00",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste 3.850 entre 2 sin usar los $4.774,50 que quedaban después de restar el lunes."
+        },
+        {
+          "letter": "D",
+          "text": "$2.362,75",
+          "is_correct": false,
+          "feedback": "Incorrecto. Repartiste mal a la mitad, porque al dividir 4.774,50 entre 2 el resultado es 2.387,25 y no 2.362,75."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El problema combina una resta con un reparto equitativo. Primero se calcula lo que se gastó después del lunes, y luego esa cantidad se divide entre los dos días porque ambos gastaron lo mismo.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-3-2026-W36-problemas-de-adicion-y-sustraccion-con-decimales-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W36-problemas-de-adicion-y-sustraccion-con-decimales-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál de los dos precios es mayor y en cuánto?",
+      "context": "En Tunja, Sara comparó dos precios: el cuaderno cuesta $3.450,75 y el bolígrafo cuesta $3.450,57.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El bolígrafo, por $0,18",
+          "is_correct": false,
+          "feedback": "Incorrecto. 3.450,75 es mayor que 3.450,57, así que el cuaderno es el más caro y no el bolígrafo."
+        },
+        {
+          "letter": "B",
+          "text": "El cuaderno, por $18,00",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste 75 − 57 = 18 y lo escribiste como $18,00, olvidando que la diferencia está en los centavos."
+        },
+        {
+          "letter": "C",
+          "text": "El cuaderno, por $0,18",
+          "is_correct": true,
+          "feedback": "Correcto. 3.450,75 − 3.450,57 = 0,18, porque solo cambian los centavos y por eso el cuaderno es el más caro."
+        },
+        {
+          "letter": "D",
+          "text": "El bolígrafo, por $0,08",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste los dígitos de forma cruzada, 57 − 75, en lugar de restar 75 − 57 con las partes enteras iguales."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para comparar dos decimales con la misma parte entera, la comparación se hace en la parte de los centavos. Aquí ambos tienen 3.450, así que basta restar 0,75 − 0,57 = 0,18 para saber cuál es mayor y cuánto vale la diferencia.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-3-2026-W36-problemas-de-adicion-y-sustraccion-con-decimales-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W36-problemas-de-adicion-y-sustraccion-con-decimales-001-MASTERY-bundle-v7",
+      "statement": "Si el transporte le costó $5.475,25, ¿cuánto gastó en alimentación?",
+      "context": "En Bogotá, un estudiante gastó $8.950,75 en una semana entre transporte y alimentación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$3.925,50",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste en vez de restar, porque 8.950,75 + 5.475,25 = 14.426,00 y no 3.925,50."
+        },
+        {
+          "letter": "B",
+          "text": "$3.475,50",
+          "is_correct": true,
+          "feedback": "Correcto. 8.950,75 − 5.475,25 = 3.475,50, porque para los centavos hay que pedir 1 unidad a la parte entera."
+        },
+        {
+          "letter": "C",
+          "text": "$14.426,00",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el resultado de sumar las dos cantidades, cuando lo que se busca es la parte que falta por restar."
+        },
+        {
+          "letter": "D",
+          "text": "$2.975,50",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste mal los miles, porque 8.950 − 5.975 = 2.975, y el gasto en transporte es 5.475 y no 5.975."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Conocer el total gastado y una de sus partes permite hallar la otra por sustracción. Igual que en el problema anterior, la dificultad está en el préstamo de una unidad entera para poder restar los centavos.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-3-2026-W36-problemas-de-adicion-y-sustraccion-con-decimales-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W36-problemas-de-adicion-y-sustraccion-con-decimales-001-MASTERY-bundle-v8",
+      "statement": "¿Alcanza el presupuesto para el bus y los 20 almuerzos?",
+      "context": "En Cali, un grupo de 20 estudiantes Reserves $400.000 para un paseo. El bus cuesta $180.000 y cada almuerzo cuesta $7.500.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No alcanza, porque el total cuesta $330.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. El total sí es 330.000, pero como ese valor es menor que 400.000 el presupuesto alcanza y sobra dinero."
+        },
+        {
+          "letter": "B",
+          "text": "No alcanza, porque el total cuesta $480.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste el bus dos veces, porque 180.000 + 150.000 = 330.000 y no 480.000, así que tu total no corresponde."
+        },
+        {
+          "letter": "C",
+          "text": "Sí alcanza, y sobran $120.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste 330.000 de 400.000 y el resultado es 70.000, no 120.000, que es la diferencia de tu cálculo."
+        },
+        {
+          "letter": "D",
+          "text": "Sí alcanza, y sobran $70.000",
+          "is_correct": true,
+          "feedback": "Correcto. El almuerzo de 20 personas cuesta 7.500 × 20 = 150.000, y 180.000 + 150.000 = 330.000, así que sobran 400.000 − 330.000 = 70.000."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Para decidir si alcanza el presupuesto hay que calcular el costo total, que aquí exige una multiplicación y una suma. Comparar ese total con el presupuesto da la respuesta, y la diferencia indica cuánto sobra o cuántos pesos faltan.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-3-2026-W36-problemas-de-adicion-y-sustraccion-con-decimales-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    }
+  ]
+}
