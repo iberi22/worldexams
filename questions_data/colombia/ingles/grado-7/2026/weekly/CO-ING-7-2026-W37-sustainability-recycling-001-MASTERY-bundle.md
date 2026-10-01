@@ -188,13 +188,13 @@ The student applies reading comprehension to categorize a specific action within
 
 ### Opciones
 - [ ] B) shouldn't
-  <!-- feedback: Incorrect. This would be bad advice for sustainability. -->
+  <!-- feedback: 'Shouldn't use' would advise against solar panels, which is the opposite of what a sustainable home should do. -->
 - [x] A) can
-  <!-- feedback: Correct! Shows a possibility that aligns with sustainability goals. -->
+  <!-- feedback: 'Can use' states a possibility, which is exactly what a sustainable home has: solar panels producing its own electricity. -->
 - [ ] C) mustn't
-  <!-- feedback: Incorrect. Prohibition. -->
+  <!-- feedback: 'Mustn't use' forbids solar panels, the opposite of the sustainability goal described. -->
 - [ ] D) isn't
-  <!-- feedback: Incorrect. Grammatically wrong. -->
+  <!-- feedback: 'Isn't' is not a modal verb, so it cannot precede the base form 'use' in this structure. -->
 
 ### Explicacion Pedagogica
 The student applies knowledge of sustainable practices using the appropriate modal verb for possibility.
@@ -265,13 +265,13 @@ According to this definition, which action is sustainable?
 
 ### Opciones
 - [ ] A) Using all the available water today because we are thirsty.
-  <!-- feedback: Incorrect. This compromises the future. -->
+  <!-- feedback: Using all the water today leaves nothing for future generations, which is what the definition rules out. -->
 - [ ] B) Cutting down all the forests to build many houses quickly.
-  <!-- feedback: Incorrect. This compromises the future. -->
+  <!-- feedback: Cutting down the forests destroys a resource that future generations need to survive. -->
 - [x] C) Using resources carefully so that there is enough for people in 50 years.
-  <!-- feedback: Correct! This balances current needs with future needs. -->
+  <!-- feedback: Using resources carefully so that there is enough for people in 50 years is exactly what the definition asks for: meeting present needs without compromising future ones. -->
 - [ ] D) Ignoring the environment because technology will solve everything.
-  <!-- feedback: Incorrect. This is risky and doesn't meet the definition of careful resource management. -->
+  <!-- feedback: Ignoring the environment relies on hope rather than on careful management, so it does not meet the definition. -->
 
 ### Explicacion Pedagogica
 The student evaluates behaviors against a formal definition of sustainability to identify the most responsible action.

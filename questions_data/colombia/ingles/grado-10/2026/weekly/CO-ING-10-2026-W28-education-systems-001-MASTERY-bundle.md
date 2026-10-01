@@ -35,10 +35,10 @@ This bundle explores educational models and reforms using B2-level grammar, focu
 "Never ____ the students ____ so much autonomy in choosing their own research projects."
 
 ### Opciones
-- [ ] A) did / had <!-- feedback: Incorrect. -->
-- [x] D) have / had <!-- feedback: Correct inversion. Have (auxiliary) + subject + had (past participle). -->
-- [ ] B) have / have <!-- feedback: Incorrect tense. -->
-- [ ] C) had / did <!-- feedback: Incorrect. -->
+- [ ] A) did / had <!-- feedback: 'Did' does not invert with 'never' and 'had' cannot follow 'the students' in this structure. -->
+- [x] D) have / had <!-- feedback: A negative fronted phrase ('Never') triggers inversion: the auxiliary 'have' precedes the subject, and 'had' is the past participle of 'have'. -->
+- [ ] B) have / have <!-- feedback: The second blank needs the past participle 'had'; 'have' would leave the verb unfinished. -->
+- [ ] C) had / did <!-- feedback: 'Had' cannot open the inversion and 'did' would be left without a base verb. -->
 
 ### Explicación Pedagógica
 When a sentence begins with a negative adverbial like 'Never', the auxiliary verb comes before the subject (Inversion).
@@ -56,10 +56,10 @@ When a sentence begins with a negative adverbial like 'Never', the auxiliary ver
 "Only in this school ____ students ____ allowed to use tablets during the exams."
 
 ### Opciones
-- [x] D) are <!-- feedback: Correct. Only + prepositional phrase + are (verb) + subject. -->
-- [ ] A) do <!-- feedback: Incorrect auxiliary. -->
-- [ ] B) have <!-- feedback: Incorrect auxiliary. -->
-- [ ] C) will <!-- feedback: Incorrect auxiliary for this state. -->
+- [x] D) are <!-- feedback: A fronted 'Only' phrase triggers subject-auxiliary inversion, giving 'are students allowed'. -->
+- [ ] A) do <!-- feedback: 'Do' would need a base verb after it, and the sentence describes a state, not an action. -->
+- [ ] B) have <!-- feedback: 'Have' would need a past participle, but the blank is followed by the subject directly. -->
+- [ ] C) will <!-- feedback: 'Will' would predict a future situation, while the sentence describes an existing restriction. -->
 
 ### Explicación Pedagógica
 'Only in/at...' phrases at the beginning of a sentence trigger inversion of the verb 'to be' or the auxiliary.
@@ -77,10 +77,10 @@ When a sentence begins with a negative adverbial like 'Never', the auxiliary ver
 "Rarely ____ a teacher ____ such a profound impact on their students' lives."
 
 ### Opciones
-- [ ] B) does / has <!-- feedback: Incorrect. Needs base form after 'does'. -->
-- [x] A) does / have <!-- feedback: Correct inversion. Does + subject + base verb. -->
-- [ ] C) has / have <!-- feedback: Incorrect. -->
-- [ ] D) did / has <!-- feedback: Incorrect. -->
+- [ ] B) does / has <!-- feedback: 'Does' must be followed by the base form 'have', so 'has' is wrong after it. -->
+- [x] A) does / have <!-- feedback: A fronted 'Rarely' triggers inversion: 'does' precedes the subject and the main verb reverts to the base form 'have'. -->
+- [ ] C) has / have <!-- feedback: 'Has' would leave no room for the base verb that inversion requires. -->
+- [ ] D) did / has <!-- feedback: 'Did' would need a past form, and 'has' would be ungrammatical after it. -->
 
 ### Explicación Pedagógica
 Using 'Rarely' at the start of a sentence requires 'do/does/did' inversion for present or past simple verbs.
@@ -98,10 +98,10 @@ Using 'Rarely' at the start of a sentence requires 'do/does/did' inversion for p
 "Not until the new law was passed ____ the local authorities ____ enough funding for rural schools."
 
 ### Opciones
-- [ ] A) did / received <!-- feedback: Incorrect. -->
-- [x] D) did / receive <!-- feedback: Correct inversion with 'Not until'. -->
-- [ ] B) had / received <!-- feedback: Also possible, but B is standard for a point in time. -->
-- [ ] C) has / received <!-- feedback: Incorrect tense. -->
+- [ ] A) did / received <!-- feedback: 'Received' after 'did' would have to be the base form 'receive', and 'did' is the wrong auxiliary for a past perfect. -->
+- [x] D) did / receive <!-- feedback: 'Not until' triggers inversion with 'did', and the main verb returns to the base form 'receive'. -->
+- [ ] B) had / received <!-- feedback: A past perfect is possible here but 'had received' still leaves the clause uninverted. -->
+- [ ] C) has / received <!-- feedback: 'Has received' is present perfect, which cannot follow the fronted 'Not until' with inversion. -->
 
 ### Explicación Pedagógica
 'Not until' at the beginning of a sentence triggers inversion in the main clause.
@@ -119,10 +119,10 @@ Using 'Rarely' at the start of a sentence requires 'do/does/did' inversion for p
 "Little ____ the students ____ that the curriculum was about to change completely."
 
 ### Opciones
-- [ ] A) they knew <!-- feedback: No inversion. -->
-- [x] D) did they know <!-- feedback: Correct inversion with 'Little'. -->
-- [ ] B) they did know <!-- feedback: Incorrect. -->
-- [ ] C) had they known <!-- feedback: Possible, but B is common for unawareness. -->
+- [ ] A) they knew <!-- feedback: 'they knew' leaves the clause in normal order, but a fronted 'Little' requires inversion. -->
+- [x] D) did they know <!-- feedback: With a fronted 'Little' the subject 'they' follows the auxiliary 'did'. -->
+- [ ] B) they did know <!-- feedback: 'they did know' is emphatic but it is not the inversion a fronted negative requires. -->
+- [ ] C) had they known <!-- feedback: 'had they known' is the past perfect, which would place the unawareness in the past. -->
 
 ### Explicación Pedagógica
 'Little' is used as a negative adverbial at the beginning of a sentence to mean 'not at all' or 'not much', triggering inversion.
@@ -140,10 +140,10 @@ Using 'Rarely' at the start of a sentence requires 'do/does/did' inversion for p
 "No sooner ____ the bells ____ than the students rushed out of the classrooms."
 
 ### Opciones
-- [ ] B) did / rang <!-- feedback: Incorrect. -->
-- [x] A) had / rung <!-- feedback: Correct 'No sooner... than' structure with Past Perfect inversion. -->
-- [ ] C) have / rung <!-- feedback: Incorrect tense. -->
-- [ ] D) were / ringing <!-- feedback: Incorrect. -->
+- [ ] B) did / rang <!-- feedback: 'Did / rang' would need the base form after 'did', and it loses the completion implied by 'no sooner'. -->
+- [x] A) had / rung <!-- feedback: The 'No sooner... than' structure puts the event in the past perfect before 'than'. -->
+- [ ] C) have / rung <!-- feedback: 'Have rung' is the present perfect, which cannot precede 'than' in this completed-sequence structure. -->
+- [ ] D) were / ringing <!-- feedback: 'Were ringing' is progressive and does not express the completed action before 'than'. -->
 
 ### Explicación Pedagógica
 'No sooner... than' is used to show that one action happened immediately after another. It requires Past Perfect inversion.
@@ -161,10 +161,10 @@ Using 'Rarely' at the start of a sentence requires 'do/does/did' inversion for p
 "Only by working together ____ the community ____ to build the new library."
 
 ### Opciones
-- [ ] A) could / managed <!-- feedback: Incorrect. -->
-- [x] D) did / manage <!-- feedback: Correct inversion with 'Only by'. -->
-- [ ] B) they / managed <!-- feedback: No inversion. -->
-- [ ] C) had / manage <!-- feedback: Incorrect. -->
+- [ ] A) could / managed <!-- feedback: 'Could' after 'Only by' would need the base form, and 'managed' is not that base form. -->
+- [x] D) did / manage <!-- feedback: A fronted 'Only by' phrase triggers inversion: 'did the community manage', with the base verb after the subject. -->
+- [ ] B) they / managed <!-- feedback: 'they managed' leaves the clause in normal order, but a fronted 'Only by' requires inversion. -->
+- [ ] C) had / manage <!-- feedback: 'Had' would require a past participle, and 'manage' is not a participle. -->
 
 ### Explicación Pedagógica
 'Only by' + gerund at the start of a sentence triggers inversion in the main clause.
@@ -182,10 +182,10 @@ Using 'Rarely' at the start of a sentence requires 'do/does/did' inversion for p
 "Under no circumstances ____ students ____ to share their passwords with anyone."
 
 ### Opciones
-- [ ] A) are / - <!-- feedback: Possible, but B is more complete. -->
-- [x] D) should / be allowed <!-- feedback: Correct. Modal inversion with 'Under no circumstances'. -->
-- [ ] B) they should / be <!-- feedback: No inversion. -->
-- [ ] C) must / - <!-- feedback: Incomplete. -->
+- [ ] A) are / - <!-- feedback: 'Are / -' lacks the modal the sentence needs, and a bare hyphen cannot fill the second blank. -->
+- [x] D) should / be allowed <!-- feedback: 'Under no circumstances' is a negative fronted phrase, so the modal 'should' precedes the subject and 'be allowed' follows. -->
+- [ ] B) they should / be <!-- feedback: 'they should' leaves the clause uninverted, which a fronted negative requires. -->
+- [ ] C) must / - <!-- feedback: 'Must / -' is incomplete: the second blank needs the passive 'be allowed'. -->
 
 ### Explicación Pedagógica
 'Under no circumstances' is a strong negative adverbial phrase that requires inversion, often used with modals like 'should' or 'must'.
@@ -203,10 +203,10 @@ Using 'Rarely' at the start of a sentence requires 'do/does/did' inversion for p
 "Not only ____ the new system improve grades, but it ____ increases student engagement."
 
 ### Opciones
-- [ ] A) is / also <!-- feedback: Incorrect syntax for 'improve'. -->
-- [x] D) does / also <!-- feedback: Correct 'Not only... but also' inversion with Present Simple. -->
-- [ ] B) did / also <!-- feedback: Possible, but B is general. -->
-- [ ] C) has / also <!-- feedback: Incorrect. -->
+- [ ] A) is / also <!-- feedback: 'Is / also' cannot work with 'improve' as the second verb of the correlative structure. -->
+- [x] D) does / also <!-- feedback: In the 'Not only... but also' correlative, inversion puts 'does' before the subject and the base verb 'improve' after it. -->
+- [ ] B) did / also <!-- feedback: 'Did' would need a past form, but the sentence is in the present simple. -->
+- [ ] C) has / also <!-- feedback: 'Has' would need a past participle, and 'improve' is not one. -->
 
 ### Explicación Pedagógica
 Using 'Not only' at the beginning of a sentence requires inversion in the first clause.
@@ -224,10 +224,10 @@ Using 'Not only' at the beginning of a sentence requires inversion in the first 
 "Hardly ____ the new principal ____ when she began implementing radical changes."
 
 ### Opciones
-- [x] A) had / arrived <!-- feedback: Correct 'Hardly... when' structure with Past Perfect inversion. -->
-- [ ] B) did / arrive <!-- feedback: Possible, but A is standard for immediate sequence. -->
-- [ ] C) was / arriving <!-- feedback: Incorrect. -->
-- [ ] D) has / arrived <!-- feedback: Incorrect tense. -->
+- [x] A) had / arrived <!-- feedback: 'Had / arrived' places the arrival in the past perfect before 'when', which is what the structure requires. -->
+- [ ] B) did / arrive <!-- feedback: 'Did arrive' is emphatic but does not mark the event as already completed at the moment 'when' arrives. -->
+- [ ] C) was / arriving <!-- feedback: 'Was arriving' is progressive and does not fit the completed event implied by 'when'. -->
+- [ ] D) has / arrived <!-- feedback: 'Has arrived' is present perfect, which cannot precede 'when' in this structure. -->
 
 ### Explicación Pedagógica
 'Hardly/Scarcely... when' are used similarly to 'No sooner' and require Past Perfect inversion.
@@ -245,10 +245,10 @@ Using 'Not only' at the beginning of a sentence requires inversion in the first 
 "Seldom ____ such a complex issue ____ addressed with such a simplistic solution."
 
 ### Opciones
-- [ ] A) is / being <!-- feedback: Possible, but B is more likely for general truth. -->
-- [x] D) has / been <!-- feedback: Correct inversion with 'Seldom' in the Present Perfect Passive. -->
-- [ ] B) did / be <!-- feedback: Incorrect syntax. -->
-- [ ] C) was / be <!-- feedback: Incorrect. -->
+- [ ] A) is / being <!-- feedback: 'Is / being' is not the passive needed here, and 'being' requires a following participle. -->
+- [x] D) has / been <!-- feedback: A fronted 'Seldom' triggers inversion, so 'has' precedes the subject and the passive 'been addressed' follows. -->
+- [ ] B) did / be <!-- feedback: 'Did / be' is ungrammatical: 'be' cannot follow 'did' as a passive. -->
+- [ ] C) was / be <!-- feedback: 'Was / be' is ungrammatical for the same reason. -->
 
 ### Explicación Pedagógica
 Combining 'Seldom' with the passive voice and Present Perfect to emphasize the rarity of an event.
@@ -266,10 +266,10 @@ Combining 'Seldom' with the passive voice and Present Perfect to emphasize the r
 "Only if we redefine the purpose of school ____ we ____ hope to prepare students for the 21st century."
 
 ### Opciones
-- [x] C) can / - <!-- feedback: Correct inversion with 'Only if'. -->
-- [ ] A) we / can <!-- feedback: No inversion. -->
-- [ ] B) will / be <!-- feedback: Possible, but A is more about ability/logic. -->
-- [ ] D) did / - <!-- feedback: Incorrect. -->
+- [x] C) can / - <!-- feedback: A fronted 'Only if' clause triggers inversion, giving 'can we'. -->
+- [ ] A) we / can <!-- feedback: 'we / can' leaves the clause in normal order, but a fronted conditional requires inversion. -->
+- [ ] B) will / be <!-- feedback: 'will / be' would predict a future state, while the sentence describes a condition in the present. -->
+- [ ] D) did / - <!-- feedback: 'Did' would require a past form and would leave no room for the infinitive 'hope'. -->
 
 ### Explicación Pedagógica
 Mastery level: Correctly applying inversion in the main clause after a complex 'Only if' conditional clause.

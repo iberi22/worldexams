@@ -155,10 +155,10 @@ Deontology is an ethical theory that judges the morality of an action based on r
 The nature of consciousness is still being explored by philosophers and neuroscientists.
 
 ### Opciones
-- [ ] A) is exploring <!-- feedback: Incorrect. Active voice. -->
+- [ ] A) is exploring <!-- feedback: 'Is exploring' is active, so the subject would have to be the one doing the exploring, but the sentence makes the nature of consciousness the thing being explored. -->
 - [x] D) is being explored <!-- feedback: Correct. Present continuous passive for an ongoing area of study. -->
 - [ ] B) explored <!-- feedback: Incorrect. Past simple. -->
-- [ ] C) has explored <!-- feedback: Incorrect. Active voice. -->
+- [ ] C) has explored <!-- feedback: 'Has explored' is an active present perfect saying the exploring is already finished, which loses the 'still' that marks the question as open. -->
 
 ### Explicacion Pedagogica
 The present continuous passive describes a topic that remains a focus of current, active investigation.

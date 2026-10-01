@@ -106,8 +106,8 @@ Em situações de crescimento percentual, a razão da PG é dada por $1 + i$, on
 Qual é o sexto termo ($a_6$) da PG $(3, 6, 12, ...)$?
 
 ### Opciones
-- [ ] A) 18 <!-- feedback: Incorreto. -->
-- [ ] B) 64 <!-- feedback: Incorreto. -->
+- [ ] A) 18 <!-- feedback: 18 corresponde a a_5 = 3 · 2^4. Para o sexto termo a potência é 2^5, e não 2^4. -->
+- [ ] B) 64 <!-- feedback: 64 é 2^6, ou seja, a potência da razão isolada. O termo é a_1 · q^5, e o primeiro termo 3 ainda precisa ser multiplicado. -->
 - [x] C) 96 <!-- feedback: a1=3, q=2. a6 = 3 * 2⁵ = 3 * 32 = 96. -->
 - [ ] D) 192 <!-- feedback: Este é o sétimo termo. -->
 
@@ -128,7 +128,7 @@ Se uma bola é solta de 10 metros e a cada quique atinge 80\% da altura anterior
 - [ ] A) 8 m <!-- feedback: Esta é a altura após o primeiro quique. -->
 - [ ] B) 6,4 m <!-- feedback: Esta é a altura após o segundo quique. -->
 - [x] D) 5,12 m <!-- feedback: a1=10, q=0,8. a_após_3 = 10 * 0,8³ = 10 * 0,512 = 5,12. -->
-- [ ] C) 4 m <!-- feedback: Incorreto. -->
+- [ ] C) 4 m <!-- feedback: 4 m exigiria uma razão de 0,8 aplicada quatro vezes, isto é 10 · 0,8^4. O terceiro quique corresponde a três multiplicações, 10 · 0,8^3. -->
 
 ### Explicacion Pedagogica
 A altura inicial é o "termo zero" ou podemos considerar a sequência das alturas após os quiques: $a_1 = 10 \cdot 0,8 = 8$. Após o terceiro quique: $a_3 = a_1 \cdot q^2 = 8 \cdot (0,8)^2 = 8 \cdot 0,64 = 5,12$ metros.
@@ -183,9 +183,9 @@ Se o primeiro quadrado tem lado 16, qual é o valor da área do quinto quadrado 
 
 ### Opciones
 - [ ] A) 4 <!-- feedback: Este seria o lado do terceiro quadrado. -->
-- [ ] C) 0,5 <!-- feedback: Incorreto. -->
+- [ ] C) 0,5 <!-- feedback: 0,5 é o valor que o lado do quarto quadrado assume, não a área do quinto. A área exige elevar o lado ao quadrado. -->
 - [x] B) 1 <!-- feedback: Lado 5º = 16 * (1/2)⁴ = 1. Área = 1² = 1. -->
-- [ ] D) 0,25 <!-- feedback: Incorreto. -->
+- [ ] D) 0,25 <!-- feedback: 0,25 é o quadrado de 0,5, isto é a área do quarto quadrado. Como o lado do quinto é 1, a área é 1^2 = 1. -->
 
 ### Explicacion Pedagogica
 Lados em PG: $16, 8, 4, 2, 1$. O quinto termo da sequência de lados é $a_5 = 16 \cdot (1/2)^4 = 16/16 = 1$. A área de um quadrado é o lado ao quadrado, logo $1^2 = 1$.
@@ -220,10 +220,10 @@ Em uma PG de três termos, o quadrado do termo médio é igual ao produto dos ex
 Qual é a soma dos 10 primeiros termos da PG $(1, 2, 4, ...)$?
 
 ### Opciones
-- [ ] B) 511 <!-- feedback: Valor incorreto. -->
+- [ ] B) 511 <!-- feedback: 511 = 2^9 - 1 é a soma dos 9 primeiros termos. Com n = 10 a fórmula dá 2^10 - 1 = 1023. -->
 - [x] A) 1.023 <!-- feedback: S10 = 1 * (2¹⁰ - 1) / (2 - 1) = 1024 - 1 = 1023. -->
 - [ ] C) 1.024 <!-- feedback: Este é o valor do 11º termo, não a soma dos 10 primeiros. -->
-- [ ] D) 2.047 <!-- feedback: Valor incorreto. -->
+- [ ] D) 2.047 <!-- feedback: 2047 = 2^11 - 1 corresponde a 11 termos. Pedir a soma dos 10 primeiros exige o expoente 10, não 11. -->
 
 ### Explicacion Pedagogica
 Com $a_1 = 1, q = 2$ e $n = 10$: $S_{10} = \frac{1 \cdot (2^{10} - 1)}{2 - 1} = 2^{10} - 1$. Como $2^{10} = 1024$, a soma é $1024 - 1 = 1023$.
@@ -239,10 +239,10 @@ Com $a_1 = 1, q = 2$ e $n = 10$: $S_{10} = \frac{1 \cdot (2^{10} - 1)}{2 - 1} = 
 Numa PG de termos positivos, o quarto termo é 54 e o primeiro termo é 2. Qual é o valor do quinto termo?
 
 ### Opciones
-- [ ] B) 108 <!-- feedback: Incorreto. -->
+- [ ] B) 108 <!-- feedback: 108 é o dobro de 54, o que corresponde a uma razão 2. Mas 54 = 2 · q^3 dá q^3 = 27 e portanto q = 3, não 2. -->
 - [x] A) 162 <!-- feedback: a4 = a1 * q³ => 54 = 2 * q³ => 27 = q³ => q = 3. a5 = 54 * 3 = 162. -->
-- [ ] C) 216 <!-- feedback: Incorreto. -->
-- [ ] D) 150 <!-- feedback: Incorreto. -->
+- [ ] C) 216 <!-- feedback: 216 é 54 · 4, isto é, 54 multiplicado por 2 duas vezes. Com q = 3 o quinto termo é 54 · 3 = 162. -->
+- [ ] D) 150 <!-- feedback: 150 vem de somar a diferença a 54 com uma razão 2, o que não é uma PG. Numa PG cada termo é o anterior multiplicado pela razão, e a razão aqui é 3. -->
 
 ### Explicacion Pedagogica
 1) Achamos a razão: $a_4 = a_1 \cdot q^3 \Rightarrow 54 = 2 \cdot q^3 \Rightarrow 27 = q^3 \Rightarrow q = 3$.
@@ -261,7 +261,7 @@ Expresse a dízima periódica $0,333...$ como a soma de uma PG infinita e determ
 ### Opciones
 - [ ] B) $\frac{3}{10}$ <!-- feedback: Este é o decimal exato 0,3. -->
 - [x] A) $\frac{1}{3}$ <!-- feedback: a1=0,3, q=0,1. S = 0,3 / (1 - 0,1) = 0,3 / 0,9 = 3/9 = 1/3. -->
-- [ ] C) $\frac{3}{11}$ <!-- feedback: Incorreto. -->
+- [ ] C) $\frac{3}{11}$ <!-- feedback: 3/11 é a fração geratriz da dízima 0,2727..., não da dízima de 3. Aqui a soma da PG infinita é 0,3 / 0,9 = 1/3. -->
 - [ ] D) $\frac{1}{9}$ <!-- feedback: Este seria 0,111... -->
 
 ### Explicacion Pedagogica
@@ -278,10 +278,10 @@ A dízima pode ser escrita como $0,3 + 0,03 + 0,003 + ...$, que é uma PG infini
 Numa PG de 9 termos, o produto do primeiro com o último termo é 100. Qual é o valor do termo central $a_5$? (Considere apenas termos positivos).
 
 ### Opciones
-- [ ] A) 50 <!-- feedback: Incorreto. -->
+- [ ] A) 50 <!-- feedback: 50 é a média de 0 e 100, mas a_1 · a_9 não tem a ver com uma média. A propriedade diz que esse produto é o quadrado do termo central, e a raiz de 100 é 10. -->
 - [x] B) 10 <!-- feedback: Pela propriedade, a1*a9 = a5² = 100. Logo a5 = 10. -->
-- [ ] C) 5 <!-- feedback: Incorreto. -->
-- [ ] D) 20 <!-- feedback: Incorreto. -->
+- [ ] C) 5 <!-- feedback: 5 é a raiz de 25, valor de outra conta. Como a_5^2 = 100, tem-se a_5 = 10, e não 5. -->
+- [ ] D) 20 <!-- feedback: 20 é o dobro de 10. A razão entre termos equidistantes é a própria razão q, então 10 e 20 não são simétricos em torno de a_5. -->
 
 ### Explicacion Pedagogica
 Em uma PG finita com número ímpar de termos, o produto dos termos equidistantes dos extremos é igual ao quadrado do termo central: $a_1 \cdot a_n = (a_{central})^2$. Assim, $100 = (a_5)^2$, o que resulta em $a_5 = 10$.
@@ -300,7 +300,7 @@ Determine a razão de uma PG onde $a_1 = 5$ e $a_4 = 625$.
 - [ ] A) 25 <!-- feedback: Se q=25, o segundo termo já seria 125. -->
 - [x] D) 5 <!-- feedback: 625 = 5 * q³ => 125 = q³ => q = 5. -->
 - [ ] B) 4 <!-- feedback: Se q=4, o quarto termo seria 5 * 64 = 320. -->
-- [ ] C) 10 <!-- feedback: Incorreto. -->
+- [ ] C) 10 <!-- feedback: 10 vem de tomar a raiz de 100, mas 625/5 = 125 e a raiz cúbica de 125 é 5, não 10. -->
 
 ### Explicacion Pedagogica
 Usamos o termo geral: $a_4 = a_1 \cdot q^3 \Rightarrow 625 = 5 \cdot q^3$. Dividindo por 5: $125 = q^3$. Extraindo a raiz cúbica: $q = \sqrt[3]{125} = 5$.
@@ -316,7 +316,7 @@ Usamos o termo geral: $a_4 = a_1 \cdot q^3 \Rightarrow 625 = 5 \cdot q^3$. Divid
 Se a sequência $(\log a, \log b, \log c)$ é uma PA, então o que se pode afirmar sobre a sequência $(a, b, c)$?
 
 ### Opciones
-- [ ] A) É uma PA de razão 10. <!-- feedback: Incorreto. -->
+- [ ] A) É uma PA de razão 10. <!-- feedback: A razão 10 é um valor numérico arbitrário: nada na definição de PA determina a base do logaritmo, e a condição obtida, b^2 = a · c, é a de uma PG. -->
 - [x] C) É uma PG. <!-- feedback: Em PA: 2 log b = log a + log c => log b² = log(ac) => b² = ac. Esta é a condição de PG. -->
 - [ ] B) É uma sequência constante. <!-- feedback: Somente se a razão da PA fosse zero. -->
 - [ ] D) É uma sequência aleatória. <!-- feedback: Existe uma relação estrutural clara. -->
@@ -337,7 +337,7 @@ Qual é o valor da soma infinita $1 - \frac{1}{2} + \frac{1}{4} - \frac{1}{8} + 
 ### Opciones
 - [ ] B) 2 <!-- feedback: Este seria o valor se todos os sinais fossem positivos. -->
 - [x] A) $\frac{2}{3}$ <!-- feedback: a1=1, q=-1/2. S = 1 / (1 - (-1/2)) = 1 / (3/2) = 2/3. -->
-- [ ] C) $\frac{1}{2}$ <!-- feedback: Incorreto. -->
+- [ ] C) $\frac{1}{2}$ <!-- feedback: 1/2 é apenas o segundo termo da série. A soma infinita exige aplicar S = a_1 / (1 - q) com q = -1/2, o que dá 2/3. -->
 - [ ] D) 0 <!-- feedback: Embora os termos alternem, a soma converge para um valor positivo. -->
 
 ### Explicacion Pedagogica
@@ -374,9 +374,9 @@ Seja uma PG de 3 termos positivos cuja soma é 26 e o produto é 216. Determine 
 
 ### Opciones
 - [ ] B) 6 <!-- feedback: Este é o termo central. -->
-- [ ] C) 12 <!-- feedback: Incorreto. -->
+- [ ] C) 12 <!-- feedback: 12 não satisfaz a soma nem o produto dados. Com produto 216 os termos são 2, 6 e 18, cuja soma é 26. -->
 - [x] A) 18 <!-- feedback: Termos: x/q, x, xq. Produto x³=216 => x=6. Soma: 6/q + 6 + 6q = 26 => 6/q + 6q = 20 => 3/q + 3q = 10 => 3q²-10q+3=0. Raízes 3 e 1/3. Termos: 2, 6, 18. -->
-- [ ] D) 24 <!-- feedback: Incorreto. -->
+- [ ] D) 24 <!-- feedback: 24 ultrapassaria a própria soma, que é 26 e já inclui os outros dois termos positivos. -->
 
 ### Explicacion Pedagogica
 Representamos a PG como $(\frac{x}{q}, x, x \cdot q)$. O produto é $(\frac{x}{q}) \cdot x \cdot (xq) = x^3 = 216$, logo $x = 6$. A soma é $\frac{6}{q} + 6 + 6q = 26 \Rightarrow \frac{6}{q} + 6q = 20$. Multiplicando por $q$: $6q^2 - 20q + 6 = 0 \Rightarrow 3q^2 - 10q + 3 = 0$. Resolvendo a quadrática, achamos $q = 3$ ou $q = 1/3$. Para $q=3$, os termos são $2, 6, 18$. O maior é 18.
@@ -392,10 +392,10 @@ Representamos a PG como $(\frac{x}{q}, x, x \cdot q)$. O produto é $(\frac{x}{q
 Considere um quadrado de área $S$. Divide-se o quadrado em 4 quadrados iguais e pinta-se um deles. Repete-se o processo com um dos quadrados não pintados, infinitamente. Qual é a área total pintada ao final do processo?
 
 ### Opciones
-- [ ] A) $S/2$ <!-- feedback: Incorreto. -->
+- [ ] A) $S/2$ <!-- feedback: S/2 é a soma de uma PG com a_1 = S/4 e q = 1/2. Aqui cada etapa pinta apenas um quarto do quadrado restante, então q = 1/4 e a soma é S/3. -->
 - [ ] C) $S$ <!-- feedback: Nem toda a área será pintada, pois em cada etapa sobra uma parte significativa. -->
 - [x] B) $S/3$ <!-- feedback: PG: a1=S/4, q=1/4. Soma = (S/4) / (1 - 1/4) = (S/4) / (3/4) = S/3. -->
-- [ ] D) $2S/3$ <!-- feedback: Incorreto. -->
+- [ ] D) $2S/3$ <!-- feedback: 2S/3 é maior que a própria área S, o que é impossível: só se pinta parte do quadrado original. -->
 
 ### Explicacion Pedagogica
 As áreas pintadas formam uma PG: $a_1 = S/4$, $a_2 = S/16$, $a_3 = S/64$, e assim por diante, com razão $q = 1/4$. A soma total pintada é uma PG infinita: $S_{total} = \frac{S/4}{1 - 1/4} = \frac{S/4}{3/4} = \frac{S}{3}$.

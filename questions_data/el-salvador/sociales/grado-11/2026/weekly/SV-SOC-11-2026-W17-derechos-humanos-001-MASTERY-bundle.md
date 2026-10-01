@@ -35,13 +35,13 @@ creador: "Jules-Agent"
 
 ### Opciones
 - [x] C) La Constitución
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Correcto. La Constitución es la norma suprema que organiza los poderes del Estado y garantiza los derechos de la población. -->
 - [ ] A) Una ley ordinaria
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: Una ley ordinaria está por debajo de la Constitución y no puede contradecirla, así que no es la norma que organiza al Estado. -->
 - [ ] B) Un decreto presidencial
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: Un decreto lo dicta el poder ejecutivo y regula temas concretos; no organiza la estructura del Estado. -->
 - [ ] D) Un tratado internacional
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: Un tratado regula relaciones entre países firmantes, no la organización interna de un Estado. -->
 
 ### Explicacion Pedagogica
 La Constitución es la norma suprema que organiza el Estado y garantiza derechos.
@@ -58,13 +58,13 @@ La Constitución es la norma suprema que organiza el Estado y garantiza derechos
 
 ### Opciones
 - [x] C) Urbanización masiva y nuevas clases sociales
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Correcto. Las fábricas concentraron el trabajo en las ciudades, atrayendo a millones de personas del campo y creando la burguesía industrial y la clase obrera. -->
 - [ ] A) Retorno a la vida agrícola
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: La Revolución Industrial se apoyó en la fábrica y el comercio, no en el campo; la agricultura perdió peso relativo en la economía. -->
 - [ ] B) Disminución del comercio global
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: Al contrario: las vías férreas, los barcos y las fábricas ampliaron el comercio entre regiones y países. -->
 - [ ] D) Eliminación del trabajo manual
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: El trabajo manual no desapareció: las fábricas emplearon a muchos operarios, aunque con nuevas máquinas y horarios de fábrica. -->
 
 ### Explicacion Pedagogica
 La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.
@@ -81,13 +81,13 @@ La Revolución Industrial causó migración a ciudades y creó nuevas clases soc
 
 ### Opciones
 - [x] A) Derechos humanos fundamentales
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Correcto. Una constitución democrática reconoce la dignidad de todas las personas y garantiza sus derechos civiles, políticos, sociales y culturales. -->
 - [ ] B) Solo derechos de propiedad
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: La Constitución protege también el derecho a la vida, la igualdad, la libertad y la educación, no únicamente el derecho de propiedad. -->
 - [ ] C) Únicamente derechos políticos
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: El catálogo constitucional es mucho más amplio: incluye también derechos civiles, sociales, culturales y económicos. -->
 - [ ] D) Derechos exclusivos del gobierno
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: Los derechos son de las personas frente al Estado, no privilegios reservados al gobierno. -->
 
 ### Explicacion Pedagogica
 Las constituciones democráticas protegen derechos humanos fundamentales.
@@ -104,13 +104,13 @@ Si un país exporta más de lo que importa, ¿qué tiene?
 
 ### Opciones
 - [x] D) Superávit comercial
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Correcto. El superávit es la diferencia positiva entre lo que un país exporta y lo que importa. -->
 - [ ] A) Déficit comercial
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: El déficit aparece justo en el caso contrario: cuando las importaciones superan a las exportaciones. -->
 - [ ] B) Balanza equilibrada
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: La balanza está equilibrada cuando las exportaciones igualan exactamente a las importaciones, no cuando las superan. -->
 - [ ] C) Crisis económica
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: Una crisis económica puede deberse a muchas causas; el término técnico para exports mayores que importaciones es el superávit. -->
 
 ### Explicacion Pedagogica
 Exportar más que importar genera superávit comercial favorable.
@@ -127,13 +127,13 @@ Exportar más que importar genera superávit comercial favorable.
 
 ### Opciones
 - [x] D) El asesinato del Archiduque Francisco Fernando
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Correcto. El atentando de Sarajevo en junio de 1914 encendió la cadena de alianzas entre potencias y provocó el estallido de la Primera Guerra Mundial. -->
 - [ ] A) El Tratado de Versalles
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: El Tratado de Versalles se firmó en 1919, al terminar la guerra, para imponer condiciones a Alemania: es una consecuencia, no una causa. -->
 - [ ] B) La Revolución Rusa
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: La Revolución Rusa ocurrió en 1917, en pleno conflicto, y es una de las consecuencias de la guerra, no su origen. -->
 - [ ] C) La invención del avión
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: El primer vuelo Tripulier data de 1903 y es un avance técnico sin relación con el estallido del conflicto en 1914. -->
 
 ### Explicacion Pedagogica
 El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.
@@ -150,13 +150,13 @@ El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a
 
 ### Opciones
 - [x] C) La Constitución
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Correcto. La Constitución es la norma suprema que organiza los poderes del Estado y garantiza los derechos de la población. -->
 - [ ] A) Una ley ordinaria
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: Una ley ordinaria está por debajo de la Constitución y no puede contradecirla, así que no es la norma que organiza al Estado. -->
 - [ ] B) Un decreto presidencial
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: Un decreto lo dicta el poder ejecutivo y regula temas concretos; no organiza la estructura del Estado. -->
 - [ ] D) Un tratado internacional
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: Un tratado regula relaciones entre países firmantes, no la organización interna de un Estado. -->
 
 ### Explicacion Pedagogica
 La Constitución es la norma suprema que organiza el Estado y garantiza derechos.
@@ -173,13 +173,13 @@ La Constitución es la norma suprema que organiza el Estado y garantiza derechos
 
 ### Opciones
 - [x] D) Urbanización masiva y nuevas clases sociales
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Correcto. Las fábricas concentraron el trabajo en las ciudades, atrayendo a millones de personas del campo y creando la burguesía industrial y la clase obrera. -->
 - [ ] A) Retorno a la vida agrícola
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: La Revolución Industrial se apoyó en la fábrica y el comercio, no en el campo; la agricultura perdió peso relativo en la economía. -->
 - [ ] B) Disminución del comercio global
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: Al contrario: las vías férreas, los barcos y las fábricas ampliaron el comercio entre regiones y países. -->
 - [ ] C) Eliminación del trabajo manual
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: El trabajo manual no desapareció: las fábricas emplearon a muchos operarios, aunque con nuevas máquinas y horarios de fábrica. -->
 
 ### Explicacion Pedagogica
 La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.
@@ -196,13 +196,13 @@ La Revolución Industrial causó migración a ciudades y creó nuevas clases soc
 
 ### Opciones
 - [x] D) Derechos humanos fundamentales
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Correcto. Una constitución democrática reconoce la dignidad de todas las personas y garantiza sus derechos civiles, políticos, sociales y culturales. -->
 - [ ] A) Solo derechos de propiedad
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: La Constitución protege también el derecho a la vida, la igualdad, la libertad y la educación, no únicamente el derecho de propiedad. -->
 - [ ] B) Únicamente derechos políticos
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: El catálogo constitucional es mucho más amplio: incluye también derechos civiles, sociales, culturales y económicos. -->
 - [ ] C) Derechos exclusivos del gobierno
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: Los derechos son de las personas frente al Estado, no privilegios reservados al gobierno. -->
 
 ### Explicacion Pedagogica
 Las constituciones democráticas protegen derechos humanos fundamentales.
@@ -219,13 +219,13 @@ Si un país exporta más de lo que importa, ¿qué tiene?
 
 ### Opciones
 - [x] B) Superávit comercial
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Correcto. El superávit es la diferencia positiva entre lo que un país exporta y lo que importa. -->
 - [ ] A) Déficit comercial
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: El déficit aparece justo en el caso contrario: cuando las importaciones superan a las exportaciones. -->
 - [ ] C) Balanza equilibrada
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: La balanza está equilibrada cuando las exportaciones igualan exactamente a las importaciones, no cuando las superan. -->
 - [ ] D) Crisis económica
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: Una crisis económica puede deberse a muchas causas; el término técnico para exports mayores que importaciones es el superávit. -->
 
 ### Explicacion Pedagogica
 Exportar más que importar genera superávit comercial favorable.
@@ -242,13 +242,13 @@ Exportar más que importar genera superávit comercial favorable.
 
 ### Opciones
 - [x] B) El asesinato del Archiduque Francisco Fernando
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Correcto. El atentando de Sarajevo en junio de 1914 encendió la cadena de alianzas entre potencias y provocó el estallido de la Primera Guerra Mundial. -->
 - [ ] A) El Tratado de Versalles
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: El Tratado de Versalles se firmó en 1919, al terminar la guerra, para imponer condiciones a Alemania: es una consecuencia, no una causa. -->
 - [ ] C) La Revolución Rusa
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: La Revolución Rusa ocurrió en 1917, en pleno conflicto, y es una de las consecuencias de la guerra, no su origen. -->
 - [ ] D) La invención del avión
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: El primer vuelo Tripulier data de 1903 y es un avance técnico sin relación con el estallido del conflicto en 1914. -->
 
 ### Explicacion Pedagogica
 El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.
@@ -265,13 +265,13 @@ El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a
 
 ### Opciones
 - [x] A) La Constitución
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Correcto. La Constitución es la norma suprema que organiza los poderes del Estado y garantiza los derechos de la población. -->
 - [ ] B) Una ley ordinaria
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: Una ley ordinaria está por debajo de la Constitución y no puede contradecirla, así que no es la norma que organiza al Estado. -->
 - [ ] C) Un decreto presidencial
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: Un decreto lo dicta el poder ejecutivo y regula temas concretos; no organiza la estructura del Estado. -->
 - [ ] D) Un tratado internacional
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: Un tratado regula relaciones entre países firmantes, no la organización interna de un Estado. -->
 
 ### Explicacion Pedagogica
 La Constitución es la norma suprema que organiza el Estado y garantiza derechos.
@@ -288,13 +288,13 @@ La Constitución es la norma suprema que organiza el Estado y garantiza derechos
 
 ### Opciones
 - [x] D) Urbanización masiva y nuevas clases sociales
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Correcto. Las fábricas concentraron el trabajo en las ciudades, atrayendo a millones de personas del campo y creando la burguesía industrial y la clase obrera. -->
 - [ ] A) Retorno a la vida agrícola
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: La Revolución Industrial se apoyó en la fábrica y el comercio, no en el campo; la agricultura perdió peso relativo en la economía. -->
 - [ ] B) Disminución del comercio global
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: Al contrario: las vías férreas, los barcos y las fábricas ampliaron el comercio entre regiones y países. -->
 - [ ] C) Eliminación del trabajo manual
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: El trabajo manual no desapareció: las fábricas emplearon a muchos operarios, aunque con nuevas máquinas y horarios de fábrica. -->
 
 ### Explicacion Pedagogica
 La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.
@@ -311,13 +311,13 @@ La Revolución Industrial causó migración a ciudades y creó nuevas clases soc
 
 ### Opciones
 - [x] B) Derechos humanos fundamentales
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Correcto. Una constitución democrática reconoce la dignidad de todas las personas y garantiza sus derechos civiles, políticos, sociales y culturales. -->
 - [ ] A) Solo derechos de propiedad
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: La Constitución protege también el derecho a la vida, la igualdad, la libertad y la educación, no únicamente el derecho de propiedad. -->
 - [ ] C) Únicamente derechos políticos
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: El catálogo constitucional es mucho más amplio: incluye también derechos civiles, sociales, culturales y económicos. -->
 - [ ] D) Derechos exclusivos del gobierno
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: Los derechos son de las personas frente al Estado, no privilegios reservados al gobierno. -->
 
 ### Explicacion Pedagogica
 Las constituciones democráticas protegen derechos humanos fundamentales.
@@ -334,13 +334,13 @@ Si un país exporta más de lo que importa, ¿qué tiene?
 
 ### Opciones
 - [x] D) Superávit comercial
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Correcto. El superávit es la diferencia positiva entre lo que un país exporta y lo que importa. -->
 - [ ] A) Déficit comercial
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: El déficit aparece justo en el caso contrario: cuando las importaciones superan a las exportaciones. -->
 - [ ] B) Balanza equilibrada
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: La balanza está equilibrada cuando las exportaciones igualan exactamente a las importaciones, no cuando las superan. -->
 - [ ] C) Crisis económica
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: Una crisis económica puede deberse a muchas causas; el término técnico para exports mayores que importaciones es el superávit. -->
 
 ### Explicacion Pedagogica
 Exportar más que importar genera superávit comercial favorable.
@@ -357,13 +357,13 @@ Exportar más que importar genera superávit comercial favorable.
 
 ### Opciones
 - [x] C) El asesinato del Archiduque Francisco Fernando
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Correcto. El atentando de Sarajevo en junio de 1914 encendió la cadena de alianzas entre potencias y provocó el estallido de la Primera Guerra Mundial. -->
 - [ ] A) El Tratado de Versalles
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: El Tratado de Versalles se firmó en 1919, al terminar la guerra, para imponer condiciones a Alemania: es una consecuencia, no una causa. -->
 - [ ] B) La Revolución Rusa
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: La Revolución Rusa ocurrió en 1917, en pleno conflicto, y es una de las consecuencias de la guerra, no su origen. -->
 - [ ] D) La invención del avión
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: El primer vuelo Tripulier data de 1903 y es un avance técnico sin relación con el estallido del conflicto en 1914. -->
 
 ### Explicacion Pedagogica
 El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.
@@ -380,13 +380,13 @@ El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a
 
 ### Opciones
 - [x] A) La Constitución
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Correcto. La Constitución es la norma suprema que organiza los poderes del Estado y garantiza los derechos de la población. -->
 - [ ] B) Una ley ordinaria
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: Una ley ordinaria está por debajo de la Constitución y no puede contradecirla, así que no es la norma que organiza al Estado. -->
 - [ ] C) Un decreto presidencial
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: Un decreto lo dicta el poder ejecutivo y regula temas concretos; no organiza la estructura del Estado. -->
 - [ ] D) Un tratado internacional
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: Un tratado regula relaciones entre países firmantes, no la organización interna de un Estado. -->
 
 ### Explicacion Pedagogica
 La Constitución es la norma suprema que organiza el Estado y garantiza derechos.
@@ -403,13 +403,13 @@ La Constitución es la norma suprema que organiza el Estado y garantiza derechos
 
 ### Opciones
 - [x] D) Urbanización masiva y nuevas clases sociales
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Correcto. Las fábricas concentraron el trabajo en las ciudades, atrayendo a millones de personas del campo y creando la burguesía industrial y la clase obrera. -->
 - [ ] A) Retorno a la vida agrícola
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: La Revolución Industrial se apoyó en la fábrica y el comercio, no en el campo; la agricultura perdió peso relativo en la economía. -->
 - [ ] B) Disminución del comercio global
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: Al contrario: las vías férreas, los barcos y las fábricas ampliaron el comercio entre regiones y países. -->
 - [ ] C) Eliminación del trabajo manual
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: El trabajo manual no desapareció: las fábricas emplearon a muchos operarios, aunque con nuevas máquinas y horarios de fábrica. -->
 
 ### Explicacion Pedagogica
 La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.
@@ -426,13 +426,13 @@ La Revolución Industrial causó migración a ciudades y creó nuevas clases soc
 
 ### Opciones
 - [x] C) Derechos humanos fundamentales
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Correcto. Una constitución democrática reconoce la dignidad de todas las personas y garantiza sus derechos civiles, políticos, sociales y culturales. -->
 - [ ] A) Solo derechos de propiedad
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: La Constitución protege también el derecho a la vida, la igualdad, la libertad y la educación, no únicamente el derecho de propiedad. -->
 - [ ] B) Únicamente derechos políticos
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: El catálogo constitucional es mucho más amplio: incluye también derechos civiles, sociales, culturales y económicos. -->
 - [ ] D) Derechos exclusivos del gobierno
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: Los derechos son de las personas frente al Estado, no privilegios reservados al gobierno. -->
 
 ### Explicacion Pedagogica
 Las constituciones democráticas protegen derechos humanos fundamentales.
@@ -449,13 +449,13 @@ Si un país exporta más de lo que importa, ¿qué tiene?
 
 ### Opciones
 - [x] D) Superávit comercial
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Correcto. El superávit es la diferencia positiva entre lo que un país exporta y lo que importa. -->
 - [ ] A) Déficit comercial
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: El déficit aparece justo en el caso contrario: cuando las importaciones superan a las exportaciones. -->
 - [ ] B) Balanza equilibrada
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: La balanza está equilibrada cuando las exportaciones igualan exactamente a las importaciones, no cuando las superan. -->
 - [ ] C) Crisis económica
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: Una crisis económica puede deberse a muchas causas; el término técnico para exports mayores que importaciones es el superávit. -->
 
 ### Explicacion Pedagogica
 Exportar más que importar genera superávit comercial favorable.
@@ -472,13 +472,13 @@ Exportar más que importar genera superávit comercial favorable.
 
 ### Opciones
 - [x] D) El asesinato del Archiduque Francisco Fernando
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Correcto. El atentando de Sarajevo en junio de 1914 encendió la cadena de alianzas entre potencias y provocó el estallido de la Primera Guerra Mundial. -->
 - [ ] A) El Tratado de Versalles
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: El Tratado de Versalles se firmó en 1919, al terminar la guerra, para imponer condiciones a Alemania: es una consecuencia, no una causa. -->
 - [ ] B) La Revolución Rusa
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: La Revolución Rusa ocurrió en 1917, en pleno conflicto, y es una de las consecuencias de la guerra, no su origen. -->
 - [ ] C) La invención del avión
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: El primer vuelo Tripulier data de 1903 y es un avance técnico sin relación con el estallido del conflicto en 1914. -->
 
 ### Explicacion Pedagogica
 El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.

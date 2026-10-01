@@ -374,8 +374,8 @@ Determine a função $f(x)$ que satisfaz a equação $f(2x + 1) = 4x^2 + 4x + 5$
 ### Opciones
 - [ ] A) $f(x) = x^2 + 5$ <!-- feedback: Substituindo x por 2x+1 teríamos (2x+1)² + 5 = 4x² + 4x + 6, diferente do dado. -->
 - [x] D) $f(x) = x^2 + 4$ <!-- feedback: (2x + 1)² + 4 = (4x² + 4x + 1) + 4 = 4x² + 4x + 5. Correto. -->
-- [ ] B) $f(x) = 2x^2 + 3$ <!-- feedback: Incorreto ao testar a substituição da variável. -->
-- [ ] C) $f(x) = x^2 + 2x + 1$ <!-- feedback: Incorreto ao testar a substituição da variável. -->
+- [ ] B) $f(x) = 2x^2 + 3$ <!-- feedback: Substituindo t = 2x + 1: 2(2x+1)^2 + 3 = 8x^2 + 8x + 5, que tem os coeficientes de x^2 e de x errados. -->
+- [ ] C) $f(x) = x^2 + 2x + 1$ <!-- feedback: Substituindo t = 2x + 1: (2x + 2)^2 = 4x^2 + 8x + 4, e o termo linear não é 4x como na expressão dada. -->
 
 ### Explicacion Pedagogica
 Fazemos uma mudança de variável: seja $t = 2x + 1$. Então $x = \frac{t - 1}{2}$. Substituindo na expressão original: $f(t) = 4(\frac{t-1}{2})^2 + 4(\frac{t-1}{2}) + 5$. Simplificando: $f(t) = 4(\frac{t^2-2t+1}{4}) + 2(t-1) + 5 = t^2 - 2t + 1 + 2t - 2 + 5 = t^2 + 4$. Portanto, $f(x) = x^2 + 4$.

@@ -56,7 +56,7 @@ This question evaluates remember skills regarding describing objects at the CEFR
 A turtle is very ________.
 
 ### Opciones
-- [ ] A) loud <!-- feedback: Turtles move quietly and make almost no sound. -->
+- [ ] A) loud <!-- feedback: A turtle moves so quietly that it is almost silent, so 'loud' describes the opposite of what a turtle is like. -->
 - [x] B) slow <!-- feedback: Correct. A turtle walks only a few steps at a time with its shell on its back, so it is very slow. -->
 - [ ] C) fast <!-- feedback: Nothing about a turtle is fast; it is one of the slowest animals. -->
 - [ ] D) big <!-- feedback: Some turtles are large, but what describes them all is their slow movement. -->

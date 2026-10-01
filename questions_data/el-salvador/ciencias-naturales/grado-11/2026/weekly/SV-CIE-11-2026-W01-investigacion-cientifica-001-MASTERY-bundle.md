@@ -35,13 +35,13 @@ creador: "Jules-Agent"
 
 ### Opciones
 - [x] D) Fotosíntesis
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Correcto: en la fotosíntesis las plantas captan la energía de la luz y la almacenan como energía química en la glucosa. -->
 - [ ] A) Respiración celular
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: la respiración celular libera energía química a partir de la glucosa; no convierte la luz en energía química. -->
 - [ ] B) Fermentación
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: la fermentación es una vía anaeróbica para obtener energía de los azúcares y no utiliza la luz. -->
 - [ ] C) Digestión
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: la digestión descompone los alimentos para absorberlos; no es un proceso que aproveche la luz. -->
 
 ### Explicacion Pedagogica
 La fotosíntesis usa luz, agua y CO₂ para producir glucosa y oxígeno.
@@ -58,13 +58,13 @@ Objeto de 2 kg acelera a 3 m/s². ¿Fuerza aplicada? (F=ma)
 
 ### Opciones
 - [x] C) 6 N
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Correcto: con $F = ma$ se obtiene $F = 2 \times 3 = 6\ N$, que es la fuerza aplicada. -->
 - [ ] A) 4 N
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: Incorrecto: al aplicar $F = ma$ la fuerza es $2 \times 3 = 6\ N$; el valor 4 N correspondería a otra masa o a otra aceleración. -->
 - [ ] B) 9 N
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: Incorrecto: al aplicar $F = ma$ la fuerza es $2 \times 3 = 6\ N$; el valor 9 N correspondería a otra masa o a otra aceleración. -->
 - [ ] D) 2 N
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: Incorrecto: al aplicar $F = ma$ la fuerza es $2 \times 3 = 6\ N$; el valor 2 N correspondería a otra masa o a otra aceleración. -->
 
 ### Explicacion Pedagogica
 F = ma = 2×3 = 6 N.
@@ -81,13 +81,13 @@ F = ma = 2×3 = 6 N.
 
 ### Opciones
 - [x] A) La piel
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Correcto: la piel es el órgano más grande del cuerpo humano, formado por la epidermis y la dermis. -->
 - [ ] B) El hígado
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: el hígado es la glándula más grande del cuerpo, pero su masa es mucho menor que la de la piel. -->
 - [ ] C) El corazón
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: el corazón bombea la sangre, pero es un órgano pequeño comparado con la piel. -->
 - [ ] D) Los pulmones
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: los pulmones son órganos pares de la respiración y su superficie es menor que la de la piel. -->
 
 ### Explicacion Pedagogica
 La piel es el órgano más grande, cubriendo y protegiendo todo el cuerpo.
@@ -104,13 +104,13 @@ En un experimento, plantas con luz crecen más que sin luz. ¿Variable independi
 
 ### Opciones
 - [x] C) La exposición a la luz
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Correcto: la exposición a la luz es la variable que el investigador modifica de forma deliberada. -->
 - [ ] A) El crecimiento de las plantas
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: el crecimiento es lo que se mide para comprobar el efecto, por eso es la variable dependiente. -->
 - [ ] B) La temperatura ambiente
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: si la temperatura se mantiene igual en los dos grupos, no es la variable que se modifica. -->
 - [ ] D) El tipo de planta
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: se usa el mismo tipo de planta en los dos grupos; lo que cambia de un grupo a otro es la luz. -->
 
 ### Explicacion Pedagogica
 La variable independiente es la que manipula el investigador: la luz.
@@ -127,13 +127,13 @@ La variable independiente es la que manipula el investigador: la luz.
 
 ### Opciones
 - [x] C) La célula
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Correcto: la célula es la unidad estructural y funcional básica de todos los seres vivos. -->
 - [ ] A) El átomo
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: el átomo es la unidad básica de la materia, no de la vida. -->
 - [ ] B) La molécula
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: una molécula es un conjunto de átomos; la estructura mínima de un ser vivo es la célula. -->
 - [ ] D) El tejido
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: el tejido es un conjunto de células del mismo tipo, un nivel por encima de la célula. -->
 
 ### Explicacion Pedagogica
 La célula es la unidad estructural y funcional básica de los seres vivos.
@@ -150,13 +150,13 @@ La célula es la unidad estructural y funcional básica de los seres vivos.
 
 ### Opciones
 - [x] D) Fotosíntesis
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Correcto: en la fotosíntesis las plantas captan la energía de la luz y la almacenan como energía química en la glucosa. -->
 - [ ] A) Respiración celular
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: la respiración celular libera energía química a partir de la glucosa; no convierte la luz en energía química. -->
 - [ ] B) Fermentación
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: la fermentación es una vía anaeróbica para obtener energía de los azúcares y no utiliza la luz. -->
 - [ ] C) Digestión
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: la digestión descompone los alimentos para absorberlos; no es un proceso que aproveche la luz. -->
 
 ### Explicacion Pedagogica
 La fotosíntesis usa luz, agua y CO₂ para producir glucosa y oxígeno.
@@ -173,13 +173,13 @@ Objeto de 8 kg acelera a 3 m/s². ¿Fuerza aplicada? (F=ma)
 
 ### Opciones
 - [x] B) 24 N
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Correcto: con $F = ma$ se obtiene $F = 8 \times 3 = 24\ N$, que es la fuerza aplicada. -->
 - [ ] A) 16 N
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: Incorrecto: al aplicar $F = ma$ la fuerza es $8 \times 3 = 24\ N$; el valor 16 N correspondería a otra masa o a otra aceleración. -->
 - [ ] C) 27 N
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: Incorrecto: al aplicar $F = ma$ la fuerza es $8 \times 3 = 24\ N$; el valor 27 N correspondería a otra masa o a otra aceleración. -->
 - [ ] D) 8 N
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: Incorrecto: al aplicar $F = ma$ la fuerza es $8 \times 3 = 24\ N$; el valor 8 N correspondería a otra masa o a otra aceleración. -->
 
 ### Explicacion Pedagogica
 F = ma = 8×3 = 24 N.
@@ -196,13 +196,13 @@ F = ma = 8×3 = 24 N.
 
 ### Opciones
 - [x] C) La piel
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Correcto: la piel es el órgano más grande del cuerpo humano, formado por la epidermis y la dermis. -->
 - [ ] A) El hígado
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: el hígado es la glándula más grande del cuerpo, pero su masa es mucho menor que la de la piel. -->
 - [ ] B) El corazón
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: el corazón bombea la sangre, pero es un órgano pequeño comparado con la piel. -->
 - [ ] D) Los pulmones
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: los pulmones son órganos pares de la respiración y su superficie es menor que la de la piel. -->
 
 ### Explicacion Pedagogica
 La piel es el órgano más grande, cubriendo y protegiendo todo el cuerpo.
@@ -219,13 +219,13 @@ En un experimento, plantas con luz crecen más que sin luz. ¿Variable independi
 
 ### Opciones
 - [x] D) La exposición a la luz
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Correcto: la exposición a la luz es la variable que el investigador modifica de forma deliberada. -->
 - [ ] A) El crecimiento de las plantas
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: el crecimiento es lo que se mide para comprobar el efecto, por eso es la variable dependiente. -->
 - [ ] B) La temperatura ambiente
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: si la temperatura se mantiene igual en los dos grupos, no es la variable que se modifica. -->
 - [ ] C) El tipo de planta
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: se usa el mismo tipo de planta en los dos grupos; lo que cambia de un grupo a otro es la luz. -->
 
 ### Explicacion Pedagogica
 La variable independiente es la que manipula el investigador: la luz.
@@ -242,13 +242,13 @@ La variable independiente es la que manipula el investigador: la luz.
 
 ### Opciones
 - [x] B) La célula
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Correcto: la célula es la unidad estructural y funcional básica de todos los seres vivos. -->
 - [ ] A) El átomo
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: el átomo es la unidad básica de la materia, no de la vida. -->
 - [ ] C) La molécula
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: una molécula es un conjunto de átomos; la estructura mínima de un ser vivo es la célula. -->
 - [ ] D) El tejido
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: el tejido es un conjunto de células del mismo tipo, un nivel por encima de la célula. -->
 
 ### Explicacion Pedagogica
 La célula es la unidad estructural y funcional básica de los seres vivos.
@@ -265,13 +265,13 @@ La célula es la unidad estructural y funcional básica de los seres vivos.
 
 ### Opciones
 - [x] B) Fotosíntesis
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Correcto: en la fotosíntesis las plantas captan la energía de la luz y la almacenan como energía química en la glucosa. -->
 - [ ] A) Respiración celular
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: la respiración celular libera energía química a partir de la glucosa; no convierte la luz en energía química. -->
 - [ ] C) Fermentación
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: la fermentación es una vía anaeróbica para obtener energía de los azúcares y no utiliza la luz. -->
 - [ ] D) Digestión
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: la digestión descompone los alimentos para absorberlos; no es un proceso que aproveche la luz. -->
 
 ### Explicacion Pedagogica
 La fotosíntesis usa luz, agua y CO₂ para producir glucosa y oxígeno.
@@ -288,13 +288,13 @@ Objeto de 3 kg acelera a 5 m/s². ¿Fuerza aplicada? (F=ma)
 
 ### Opciones
 - [x] B) 15 N
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Correcto: con $F = ma$ se obtiene $F = 3 \times 5 = 15\ N$, que es la fuerza aplicada. -->
 - [ ] A) 12 N
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: Incorrecto: al aplicar $F = ma$ la fuerza es $3 \times 5 = 15\ N$; el valor 12 N correspondería a otra masa o a otra aceleración. -->
 - [ ] C) 20 N
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: Incorrecto: al aplicar $F = ma$ la fuerza es $3 \times 5 = 15\ N$; el valor 20 N correspondería a otra masa o a otra aceleración. -->
 - [ ] D) 3 N
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: Incorrecto: al aplicar $F = ma$ la fuerza es $3 \times 5 = 15\ N$; el valor 3 N correspondería a otra masa o a otra aceleración. -->
 
 ### Explicacion Pedagogica
 F = ma = 3×5 = 15 N.
@@ -311,13 +311,13 @@ F = ma = 3×5 = 15 N.
 
 ### Opciones
 - [x] A) La piel
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Correcto: la piel es el órgano más grande del cuerpo humano, formado por la epidermis y la dermis. -->
 - [ ] B) El hígado
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: el hígado es la glándula más grande del cuerpo, pero su masa es mucho menor que la de la piel. -->
 - [ ] C) El corazón
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: el corazón bombea la sangre, pero es un órgano pequeño comparado con la piel. -->
 - [ ] D) Los pulmones
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: los pulmones son órganos pares de la respiración y su superficie es menor que la de la piel. -->
 
 ### Explicacion Pedagogica
 La piel es el órgano más grande, cubriendo y protegiendo todo el cuerpo.
@@ -334,13 +334,13 @@ En un experimento, plantas con luz crecen más que sin luz. ¿Variable independi
 
 ### Opciones
 - [x] B) La exposición a la luz
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Correcto: la exposición a la luz es la variable que el investigador modifica de forma deliberada. -->
 - [ ] A) El crecimiento de las plantas
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: el crecimiento es lo que se mide para comprobar el efecto, por eso es la variable dependiente. -->
 - [ ] C) La temperatura ambiente
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: si la temperatura se mantiene igual en los dos grupos, no es la variable que se modifica. -->
 - [ ] D) El tipo de planta
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: se usa el mismo tipo de planta en los dos grupos; lo que cambia de un grupo a otro es la luz. -->
 
 ### Explicacion Pedagogica
 La variable independiente es la que manipula el investigador: la luz.
@@ -357,13 +357,13 @@ La variable independiente es la que manipula el investigador: la luz.
 
 ### Opciones
 - [x] D) La célula
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Correcto: la célula es la unidad estructural y funcional básica de todos los seres vivos. -->
 - [ ] A) El átomo
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: el átomo es la unidad básica de la materia, no de la vida. -->
 - [ ] B) La molécula
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: una molécula es un conjunto de átomos; la estructura mínima de un ser vivo es la célula. -->
 - [ ] C) El tejido
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: el tejido es un conjunto de células del mismo tipo, un nivel por encima de la célula. -->
 
 ### Explicacion Pedagogica
 La célula es la unidad estructural y funcional básica de los seres vivos.
@@ -380,13 +380,13 @@ La célula es la unidad estructural y funcional básica de los seres vivos.
 
 ### Opciones
 - [x] B) Fotosíntesis
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Correcto: en la fotosíntesis las plantas captan la energía de la luz y la almacenan como energía química en la glucosa. -->
 - [ ] A) Respiración celular
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: la respiración celular libera energía química a partir de la glucosa; no convierte la luz en energía química. -->
 - [ ] C) Fermentación
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: la fermentación es una vía anaeróbica para obtener energía de los azúcares y no utiliza la luz. -->
 - [ ] D) Digestión
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: la digestión descompone los alimentos para absorberlos; no es un proceso que aproveche la luz. -->
 
 ### Explicacion Pedagogica
 La fotosíntesis usa luz, agua y CO₂ para producir glucosa y oxígeno.
@@ -403,13 +403,13 @@ Objeto de 8 kg acelera a 3 m/s². ¿Fuerza aplicada? (F=ma)
 
 ### Opciones
 - [x] D) 24 N
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Correcto: con $F = ma$ se obtiene $F = 8 \times 3 = 24\ N$, que es la fuerza aplicada. -->
 - [ ] A) 16 N
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: Incorrecto: al aplicar $F = ma$ la fuerza es $8 \times 3 = 24\ N$; el valor 16 N correspondería a otra masa o a otra aceleración. -->
 - [ ] B) 27 N
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: Incorrecto: al aplicar $F = ma$ la fuerza es $8 \times 3 = 24\ N$; el valor 27 N correspondería a otra masa o a otra aceleración. -->
 - [ ] C) 8 N
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: Incorrecto: al aplicar $F = ma$ la fuerza es $8 \times 3 = 24\ N$; el valor 8 N correspondería a otra masa o a otra aceleración. -->
 
 ### Explicacion Pedagogica
 F = ma = 8×3 = 24 N.
@@ -426,13 +426,13 @@ F = ma = 8×3 = 24 N.
 
 ### Opciones
 - [x] A) La piel
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Correcto: la piel es el órgano más grande del cuerpo humano, formado por la epidermis y la dermis. -->
 - [ ] B) El hígado
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: el hígado es la glándula más grande del cuerpo, pero su masa es mucho menor que la de la piel. -->
 - [ ] C) El corazón
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: el corazón bombea la sangre, pero es un órgano pequeño comparado con la piel. -->
 - [ ] D) Los pulmones
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: los pulmones son órganos pares de la respiración y su superficie es menor que la de la piel. -->
 
 ### Explicacion Pedagogica
 La piel es el órgano más grande, cubriendo y protegiendo todo el cuerpo.
@@ -449,13 +449,13 @@ En un experimento, plantas con luz crecen más que sin luz. ¿Variable independi
 
 ### Opciones
 - [x] D) La exposición a la luz
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Correcto: la exposición a la luz es la variable que el investigador modifica de forma deliberada. -->
 - [ ] A) El crecimiento de las plantas
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: el crecimiento es lo que se mide para comprobar el efecto, por eso es la variable dependiente. -->
 - [ ] B) La temperatura ambiente
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: si la temperatura se mantiene igual en los dos grupos, no es la variable que se modifica. -->
 - [ ] C) El tipo de planta
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: se usa el mismo tipo de planta en los dos grupos; lo que cambia de un grupo a otro es la luz. -->
 
 ### Explicacion Pedagogica
 La variable independiente es la que manipula el investigador: la luz.
@@ -472,13 +472,13 @@ La variable independiente es la que manipula el investigador: la luz.
 
 ### Opciones
 - [x] A) La célula
-  <!-- feedback: ¡Correcto! -->
+  <!-- feedback: Correcto: la célula es la unidad estructural y funcional básica de todos los seres vivos. -->
 - [ ] B) El átomo
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: el átomo es la unidad básica de la materia, no de la vida. -->
 - [ ] C) La molécula
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: una molécula es un conjunto de átomos; la estructura mínima de un ser vivo es la célula. -->
 - [ ] D) El tejido
-  <!-- feedback: Incorrecto. Revisa el concepto. -->
+  <!-- feedback: el tejido es un conjunto de células del mismo tipo, un nivel por encima de la célula. -->
 
 ### Explicacion Pedagogica
 La célula es la unidad estructural y funcional básica de los seres vivos.

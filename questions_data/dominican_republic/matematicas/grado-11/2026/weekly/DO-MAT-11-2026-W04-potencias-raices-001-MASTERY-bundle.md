@@ -323,10 +323,10 @@ Relación entre exponentes fraccionarios y raíces pares de negativos.
 Simplifica la expresión.
 
 ### Opciones
-- [ ] A) 2 <!-- feedback: Incorrecto. Revisa el exponente final. -->
-- [ ] B) 8 <!-- feedback: Incorrecto. Excedió cálculo. -->
+- [ ] A) 2 <!-- feedback: 2 es 2^1, el resultado de olvidar que el cuadrado afecta a todo el paréntesis: (2^3 · 2^-1)^2 = (2^2)^2 = 2^4, y al dividir entre 2^2 queda 2^2 = 4. -->
+- [ ] B) 8 <!-- feedback: 8 es 2^3, el valor de 2^3 sin llegar a dividirlo entre el denominador. La expresión completa es 2^4 / 2^2 = 2^2, de modo que 8 es el valor de un solo factor y no el cociente. -->
 - [x] D) 4 <!-- feedback: Correcto. $(2^2)^2 / 2^2 = 2^2 = 4$. -->
-- [ ] C) 16 <!-- feedback: Incorrecto. Error en resta. -->
+- [ ] C) 16 <!-- feedback: 16 es 2^4, el numerador antes de dividir: (2^3 · 2^-1)^2 = (2^2)^2 = 2^4 = 16. Falta dividir entre 2^2, y 16/4 da el resultado correcto. -->
 
 ### Explicacion Pedagogica
 Encadenamiento de leyes de exponentes.
@@ -386,10 +386,10 @@ Desmentir el error común de la linealidad de la raíz cuadrada.
 ¿Cuál es el mayor?
 
 ### Opciones
-- [ ] B) $2^{60}$ <!-- feedback: Incorrecto. $64^{10}$. -->
-- [ ] C) $3^{40}$ <!-- feedback: Incorrecto. $81^{10}$. -->
-- [x] A) $5^{30}$ <!-- feedback: Correcto. $125^{10}$. -->
-- [ ] D) $6^{20}$ <!-- feedback: Incorrecto. $36^{10}$. -->
+- [ ] B) $2^{60}$ <!-- feedback: Al reducir a exponente 10, $2^{60} = (2^6)^{10} = 64^{10}$. Como su base es 64, queda por debajo de $125^{10}$, que es el valor de $5^{30}$. -->
+- [ ] C) $3^{40}$ <!-- feedback: $3^{40} = (3^4)^{10} = 81^{10}$, y su base 81 queda por debajo de 125, la base de $5^{30}$, que es el mayor de los cuatro. -->
+- [x] A) $5^{30}$ <!-- feedback: $5^{30} = (5^3)^{10} = 125^{10}$. Al reducir las cuatro potencias al mismo exponente 10, las bases son 125, 64, 81 y 36, y 125 es la mayor. -->
+- [ ] D) $6^{20}$ <!-- feedback: $6^{20} = (6^2)^{10} = 36^{10}$, la base más pequeña de las cuatro, así que es el menor de todos, no el mayor. -->
 
 ### Explicacion Pedagogica
 Comparación de potencias mediante reducción a exponente común.
@@ -410,7 +410,7 @@ Comparación de potencias mediante reducción a exponente común.
 - [ ] A) $\sqrt{2}$ <!-- feedback: Incorrecto. Muy pequeño. -->
 - [x] B) 2 <!-- feedback: Correcto. $x^2 = 2+x$ lleva a x=2. -->
 - [ ] C) 4 <!-- feedback: Incorrecto. Muy grande. -->
-- [ ] D) Infinito <!-- feedback: Incorrecto. Converge. -->
+- [ ] D) Infinito <!-- feedback: Este radical infinito sí converge: como el radical interior siempre es menor que 2, la sucesión de términos está acotada y tiene límite, que es justamente el valor 2 que se despeja con x² = 2 + x. -->
 
 ### Explicacion Pedagogica
 Resolución de expresiones recursivas mediante ecuaciones cuadráticas.

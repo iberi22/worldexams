@@ -31,13 +31,13 @@ Resuelva la ecuación lineal para encontrar el número de insumos médicos en Am
 
 ### Opciones
 - [ ] A) 6
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 6 se obtiene al restar 5 en lugar de sumarlo, y $3x = 16 - 5 = 11$ no da un número entero al dividir entre 3. -->
 - [ ] B) 8
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 8 se acerca al resultado pero no sale de los pasos correctos: $16 + 5 = 21$ y $21 / 3$ es exactamente 7. -->
 - [ ] C) 5
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 5 es el término que se suma al otro lado de la igualdad; se olvidó dividir entre 3 después de despejar. -->
 - [x] D) 7
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. Se despeja la incógnita: $3x = 16 + 5 = 21$ y $x = 21 / 3 = 7$. -->
 
 ### Explicacion Pedagogica
 Sumando 5 a ambos lados: $3x = 21 \Rightarrow x = 7$.
@@ -55,13 +55,13 @@ Resuelva la ecuación lineal para encontrar el número de insumos médicos en Qu
 
 ### Opciones
 - [ ] A) 8
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 8 se acerca al resultado pero no sale de los pasos correctos: $16 + 5 = 21$ y $21 / 3$ es exactamente 7. -->
 - [ ] B) 5
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 5 es el término que se suma al otro lado de la igualdad; se olvidó dividir entre 3 después de despejar. -->
 - [ ] C) 6
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 6 se obtiene al restar 5 en lugar de sumarlo, y $3x = 16 - 5 = 11$ no da un número entero al dividir entre 3. -->
 - [x] D) 7
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. Se despeja la incógnita: $3x = 16 + 5 = 21$ y $x = 21 / 3 = 7$. -->
 
 ### Explicacion Pedagogica
 Sumando 5 a ambos lados: $3x = 21 \Rightarrow x = 7$.
@@ -79,13 +79,13 @@ Resuelva la ecuación lineal para encontrar el número de insumos médicos en Cu
 
 ### Opciones
 - [x] A) 7
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. Se despeja la incógnita: $3x = 16 + 5 = 21$ y $x = 21 / 3 = 7$. -->
 - [ ] B) 5
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 5 es el término que se suma al otro lado de la igualdad; se olvidó dividir entre 3 después de despejar. -->
 - [ ] C) 8
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 8 se acerca al resultado pero no sale de los pasos correctos: $16 + 5 = 21$ y $21 / 3$ es exactamente 7. -->
 - [ ] D) 6
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 6 se obtiene al restar 5 en lugar de sumarlo, y $3x = 16 - 5 = 11$ no da un número entero al dividir entre 3. -->
 
 ### Explicacion Pedagogica
 Sumando 5 a ambos lados: $3x = 21 \Rightarrow x = 7$.
@@ -103,13 +103,13 @@ Resuelva la ecuación lineal para encontrar el número de insumos médicos en Lo
 
 ### Opciones
 - [ ] A) 8
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 8 se acerca al resultado pero no sale de los pasos correctos: $16 + 5 = 21$ y $21 / 3$ es exactamente 7. -->
 - [ ] B) 6
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 6 se obtiene al restar 5 en lugar de sumarlo, y $3x = 16 - 5 = 11$ no da un número entero al dividir entre 3. -->
 - [ ] C) 5
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 5 es el término que se suma al otro lado de la igualdad; se olvidó dividir entre 3 después de despejar. -->
 - [x] D) 7
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. Se despeja la incógnita: $3x = 16 + 5 = 21$ y $x = 21 / 3 = 7$. -->
 
 ### Explicacion Pedagogica
 Sumando 5 a ambos lados: $3x = 21 \Rightarrow x = 7$.
@@ -127,13 +127,13 @@ En un negocio local de Cuenca, el costo total se modela por $C = 2x + 50$, donde
 
 ### Opciones
 - [ ] A) 40
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 40 sale de despejar mal el término independiente: $120 - 50$ da $70$, y $70 / 2$ da $35$, no $40$. -->
 - [x] B) 35
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. Con $c = 2x + 50$ y presupuesto de $120$: $2x = 120 - 50 = 70$ y $x = 70 / 2 = 35$ artículos. -->
 - [ ] C) 45
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 45 corresponde a repartir el presupuesto sin descontar los $50$ del costo fijo, que es el error típico en este modelo. -->
 - [ ] D) 30
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 30 resulta de restar los $50$ y dividir el resto entre 2, pero la resta debe hacerse completa: $120 - 50 = 70$ y $70 / 2 = 35$. -->
 
 ### Explicacion Pedagogica
 Establecemos $2x + 50 = 120 \Rightarrow 2x = 70 \Rightarrow x = 35$.
@@ -151,13 +151,13 @@ En un negocio local de Cuenca, el costo total se modela por $C = 2x + 50$, donde
 
 ### Opciones
 - [ ] A) 30
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 30 resulta de restar los $50$ y dividir el resto entre 2, pero la resta debe hacerse completa: $120 - 50 = 70$ y $70 / 2 = 35$. -->
 - [ ] B) 40
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 40 sale de despejar mal el término independiente: $120 - 50$ da $70$, y $70 / 2$ da $35$, no $40$. -->
 - [ ] C) 45
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 45 corresponde a repartir el presupuesto sin descontar los $50$ del costo fijo, que es el error típico en este modelo. -->
 - [x] D) 35
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. Con $c = 2x + 50$ y presupuesto de $120$: $2x = 120 - 50 = 70$ y $x = 70 / 2 = 35$ artículos. -->
 
 ### Explicacion Pedagogica
 Establecemos $2x + 50 = 120 \Rightarrow 2x = 70 \Rightarrow x = 35$.
@@ -175,13 +175,13 @@ En un negocio local de Cuenca, el costo total se modela por $C = 2x + 50$, donde
 
 ### Opciones
 - [x] A) 35
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. Con $c = 2x + 50$ y presupuesto de $120$: $2x = 120 - 50 = 70$ y $x = 70 / 2 = 35$ artículos. -->
 - [ ] B) 30
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 30 resulta de restar los $50$ y dividir el resto entre 2, pero la resta debe hacerse completa: $120 - 50 = 70$ y $70 / 2 = 35$. -->
 - [ ] C) 40
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 40 sale de despejar mal el término independiente: $120 - 50$ da $70$, y $70 / 2$ da $35$, no $40$. -->
 - [ ] D) 45
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 45 corresponde a repartir el presupuesto sin descontar los $50$ del costo fijo, que es el error típico en este modelo. -->
 
 ### Explicacion Pedagogica
 Establecemos $2x + 50 = 120 \Rightarrow 2x = 70 \Rightarrow x = 35$.
@@ -199,13 +199,13 @@ En un negocio local de Cuenca, el costo total se modela por $C = 2x + 50$, donde
 
 ### Opciones
 - [ ] A) 45
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 45 corresponde a repartir el presupuesto sin descontar los $50$ del costo fijo, que es el error típico en este modelo. -->
 - [ ] B) 30
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 30 resulta de restar los $50$ y dividir el resto entre 2, pero la resta debe hacerse completa: $120 - 50 = 70$ y $70 / 2 = 35$. -->
 - [ ] C) 40
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 40 sale de despejar mal el término independiente: $120 - 50$ da $70$, y $70 / 2$ da $35$, no $40$. -->
 - [x] D) 35
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. Con $c = 2x + 50$ y presupuesto de $120$: $2x = 120 - 50 = 70$ y $x = 70 / 2 = 35$ artículos. -->
 
 ### Explicacion Pedagogica
 Establecemos $2x + 50 = 120 \Rightarrow 2x = 70 \Rightarrow x = 35$.
@@ -223,13 +223,13 @@ En un negocio local de Cuenca, el costo total se modela por $C = 2x + 50$, donde
 
 ### Opciones
 - [ ] A) 30
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 30 resulta de restar los $50$ y dividir el resto entre 2, pero la resta debe hacerse completa: $120 - 50 = 70$ y $70 / 2 = 35$. -->
 - [x] B) 35
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. Con $c = 2x + 50$ y presupuesto de $120$: $2x = 120 - 50 = 70$ y $x = 70 / 2 = 35$ artículos. -->
 - [ ] C) 45
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 45 corresponde a repartir el presupuesto sin descontar los $50$ del costo fijo, que es el error típico en este modelo. -->
 - [ ] D) 40
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 40 sale de despejar mal el término independiente: $120 - 50$ da $70$, y $70 / 2$ da $35$, no $40$. -->
 
 ### Explicacion Pedagogica
 Establecemos $2x + 50 = 120 \Rightarrow 2x = 70 \Rightarrow x = 35$.
@@ -247,13 +247,13 @@ En un negocio local de Cuenca, el costo total se modela por $C = 2x + 50$, donde
 
 ### Opciones
 - [ ] A) 30
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 30 resulta de restar los $50$ y dividir el resto entre 2, pero la resta debe hacerse completa: $120 - 50 = 70$ y $70 / 2 = 35$. -->
 - [x] B) 35
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. Con $c = 2x + 50$ y presupuesto de $120$: $2x = 120 - 50 = 70$ y $x = 70 / 2 = 35$ artículos. -->
 - [ ] C) 45
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 45 corresponde a repartir el presupuesto sin descontar los $50$ del costo fijo, que es el error típico en este modelo. -->
 - [ ] D) 40
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 40 sale de despejar mal el término independiente: $120 - 50$ da $70$, y $70 / 2$ da $35$, no $40$. -->
 
 ### Explicacion Pedagogica
 Establecemos $2x + 50 = 120 \Rightarrow 2x = 70 \Rightarrow x = 35$.
@@ -271,13 +271,13 @@ Resuelva la ecuación con coeficientes fraccionarios para determinar la longitud
 
 ### Opciones
 - [ ] A) 18
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 18 es solo la parte del lado derecho, la de $3x + 18$: falta sumar los $6$ que se restaban en el otro lado. -->
 - [ ] B) 12
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 12 se obtiene al despejar mal el signo: al pasar los términos, $18 + 6 = 24$, y ese resultado no se divide entre 2. -->
 - [x] C) 24
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. Multiplicando toda la ecuación por 6: $4x - 6 = 3x + 18$, entonces $4x - 3x = 18 + 6$ y $x = 24$. -->
 - [ ] D) 30
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 30 proviene de sumar $18 + 6$ y dividir entre 2, pero ese $2$ ya se había cancelado al multiplicar por 6. -->
 
 ### Explicacion Pedagogica
 Multiplicando todo por 6 (m.c.m): $4x - 6 = 3x + 18 \Rightarrow 4x - 3x = 18 + 6 \Rightarrow x = 24$.
@@ -295,13 +295,13 @@ Resuelva la ecuación con coeficientes fraccionarios para determinar la longitud
 
 ### Opciones
 - [ ] A) 30
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 30 proviene de sumar $18 + 6$ y dividir entre 2, pero ese $2$ ya se había cancelado al multiplicar por 6. -->
 - [ ] B) 12
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 12 se obtiene al despejar mal el signo: al pasar los términos, $18 + 6 = 24$, y ese resultado no se divide entre 2. -->
 - [x] C) 24
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. Multiplicando toda la ecuación por 6: $4x - 6 = 3x + 18$, entonces $4x - 3x = 18 + 6$ y $x = 24$. -->
 - [ ] D) 18
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 18 es solo la parte del lado derecho, la de $3x + 18$: falta sumar los $6$ que se restaban en el otro lado. -->
 
 ### Explicacion Pedagogica
 Multiplicando todo por 6 (m.c.m): $4x - 6 = 3x + 18 \Rightarrow 4x - 3x = 18 + 6 \Rightarrow x = 24$.
@@ -319,13 +319,13 @@ Resuelva la ecuación con coeficientes fraccionarios para determinar la longitud
 
 ### Opciones
 - [ ] A) 30
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 30 proviene de sumar $18 + 6$ y dividir entre 2, pero ese $2$ ya se había cancelado al multiplicar por 6. -->
 - [ ] B) 12
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 12 se obtiene al despejar mal el signo: al pasar los términos, $18 + 6 = 24$, y ese resultado no se divide entre 2. -->
 - [x] C) 24
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. Multiplicando toda la ecuación por 6: $4x - 6 = 3x + 18$, entonces $4x - 3x = 18 + 6$ y $x = 24$. -->
 - [ ] D) 18
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 18 es solo la parte del lado derecho, la de $3x + 18$: falta sumar los $6$ que se restaban en el otro lado. -->
 
 ### Explicacion Pedagogica
 Multiplicando todo por 6 (m.c.m): $4x - 6 = 3x + 18 \Rightarrow 4x - 3x = 18 + 6 \Rightarrow x = 24$.
@@ -343,13 +343,13 @@ Resuelva la ecuación con coeficientes fraccionarios para determinar la longitud
 
 ### Opciones
 - [x] A) 24
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. Multiplicando toda la ecuación por 6: $4x - 6 = 3x + 18$, entonces $4x - 3x = 18 + 6$ y $x = 24$. -->
 - [ ] B) 18
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 18 es solo la parte del lado derecho, la de $3x + 18$: falta sumar los $6$ que se restaban en el otro lado. -->
 - [ ] C) 30
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 30 proviene de sumar $18 + 6$ y dividir entre 2, pero ese $2$ ya se había cancelado al multiplicar por 6. -->
 - [ ] D) 12
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 12 se obtiene al despejar mal el signo: al pasar los términos, $18 + 6 = 24$, y ese resultado no se divide entre 2. -->
 
 ### Explicacion Pedagogica
 Multiplicando todo por 6 (m.c.m): $4x - 6 = 3x + 18 \Rightarrow 4x - 3x = 18 + 6 \Rightarrow x = 24$.
@@ -367,13 +367,13 @@ Resuelva la ecuación con coeficientes fraccionarios para determinar la longitud
 
 ### Opciones
 - [x] A) 24
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. Multiplicando toda la ecuación por 6: $4x - 6 = 3x + 18$, entonces $4x - 3x = 18 + 6$ y $x = 24$. -->
 - [ ] B) 12
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 12 se obtiene al despejar mal el signo: al pasar los términos, $18 + 6 = 24$, y ese resultado no se divide entre 2. -->
 - [ ] C) 18
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 18 es solo la parte del lado derecho, la de $3x + 18$: falta sumar los $6$ que se restaban en el otro lado. -->
 - [ ] D) 30
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 30 proviene de sumar $18 + 6$ y dividir entre 2, pero ese $2$ ya se había cancelado al multiplicar por 6. -->
 
 ### Explicacion Pedagogica
 Multiplicando todo por 6 (m.c.m): $4x - 6 = 3x + 18 \Rightarrow 4x - 3x = 18 + 6 \Rightarrow x = 24$.
@@ -391,13 +391,13 @@ Resuelva la ecuación con coeficientes fraccionarios para determinar la longitud
 
 ### Opciones
 - [ ] A) 30
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 30 proviene de sumar $18 + 6$ y dividir entre 2, pero ese $2$ ya se había cancelado al multiplicar por 6. -->
 - [x] B) 24
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. Multiplicando toda la ecuación por 6: $4x - 6 = 3x + 18$, entonces $4x - 3x = 18 + 6$ y $x = 24$. -->
 - [ ] C) 12
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 12 se obtiene al despejar mal el signo: al pasar los términos, $18 + 6 = 24$, y ese resultado no se divide entre 2. -->
 - [ ] D) 18
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 18 es solo la parte del lado derecho, la de $3x + 18$: falta sumar los $6$ que se restaban en el otro lado. -->
 
 ### Explicacion Pedagogica
 Multiplicando todo por 6 (m.c.m): $4x - 6 = 3x + 18 \Rightarrow 4x - 3x = 18 + 6 \Rightarrow x = 24$.
@@ -415,13 +415,13 @@ Lorena y Esteban tienen juntos $150$ dólares. Si Lorena tiene el doble de diner
 
 ### Opciones
 - [ ] A) 75 dólares
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 75 sería la mitad de 150, como si el dinero se repartiera por partes iguales y no en razón de dos a uno. -->
 - [ ] B) 60 dólares
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 60 saldría de repartir $150$ en tres partes iguales, pero eso no respeta que una de las dos personas tiene el doble de la otra. -->
 - [x] C) 50 dólares
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. Si una parte es el doble de la otra, el total es $3x = 150$, de donde $x = 150 / 3 = 50$ dólares. -->
 - [ ] D) 100 dólares
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 100 corresponde a las dos partes del total, no a la de la persona que recibe la menor cantidad. -->
 
 ### Explicacion Pedagogica
 Si $x$ es el dinero de {name2}, {name1} tiene $2x$. Juntos: $x + 2x = 150 \Rightarrow 3x = 150 \Rightarrow x = 50$.
@@ -439,13 +439,13 @@ Fernando y Carlos tienen juntos $150$ dólares. Si Fernando tiene el doble de di
 
 ### Opciones
 - [ ] A) 75 dólares
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 75 sería la mitad de 150, como si el dinero se repartiera por partes iguales y no en razón de dos a uno. -->
 - [ ] B) 100 dólares
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 100 corresponde a las dos partes del total, no a la de la persona que recibe la menor cantidad. -->
 - [ ] C) 60 dólares
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 60 saldría de repartir $150$ en tres partes iguales, pero eso no respeta que una de las dos personas tiene el doble de la otra. -->
 - [x] D) 50 dólares
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. Si una parte es el doble de la otra, el total es $3x = 150$, de donde $x = 150 / 3 = 50$ dólares. -->
 
 ### Explicacion Pedagogica
 Si $x$ es el dinero de {name2}, {name1} tiene $2x$. Juntos: $x + 2x = 150 \Rightarrow 3x = 150 \Rightarrow x = 50$.
@@ -463,13 +463,13 @@ Lorena y José tienen juntos $150$ dólares. Si Lorena tiene el doble de dinero 
 
 ### Opciones
 - [ ] A) 75 dólares
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 75 sería la mitad de 150, como si el dinero se repartiera por partes iguales y no en razón de dos a uno. -->
 - [ ] B) 100 dólares
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 100 corresponde a las dos partes del total, no a la de la persona que recibe la menor cantidad. -->
 - [x] C) 50 dólares
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. Si una parte es el doble de la otra, el total es $3x = 150$, de donde $x = 150 / 3 = 50$ dólares. -->
 - [ ] D) 60 dólares
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 60 saldría de repartir $150$ en tres partes iguales, pero eso no respeta que una de las dos personas tiene el doble de la otra. -->
 
 ### Explicacion Pedagogica
 Si $x$ es el dinero de {name2}, {name1} tiene $2x$. Juntos: $x + 2x = 150 \Rightarrow 3x = 150 \Rightarrow x = 50$.
@@ -487,13 +487,13 @@ Esteban y Carlos tienen juntos $150$ dólares. Si Esteban tiene el doble de dine
 
 ### Opciones
 - [x] A) 50 dólares
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. Si una parte es el doble de la otra, el total es $3x = 150$, de donde $x = 150 / 3 = 50$ dólares. -->
 - [ ] B) 60 dólares
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 60 saldría de repartir $150$ en tres partes iguales, pero eso no respeta que una de las dos personas tiene el doble de la otra. -->
 - [ ] C) 100 dólares
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 100 corresponde a las dos partes del total, no a la de la persona que recibe la menor cantidad. -->
 - [ ] D) 75 dólares
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 75 sería la mitad de 150, como si el dinero se repartiera por partes iguales y no en razón de dos a uno. -->
 
 ### Explicacion Pedagogica
 Si $x$ es el dinero de {name2}, {name1} tiene $2x$. Juntos: $x + 2x = 150 \Rightarrow 3x = 150 \Rightarrow x = 50$.

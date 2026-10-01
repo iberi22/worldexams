@@ -110,7 +110,7 @@ En las secuencias multiplicativas, cada término se obtiene multiplicando el té
 - [ ] B) 121
   <!-- feedback: Incorrecto. 115 + 5 es igual a 120. -->
 - [ ] D) 122
-  <!-- feedback: Incorrecto. Revisa el patrón de contar de 5 en 5. -->
+  <!-- feedback: Los códigos avanzan de 5 en 5: 110, 115, 120 y el siguiente sería 125. 122 queda a mitad de camino entre dos términos del patrón. -->
 
 ### Explicacion Pedagogica
 Para hallar un término faltante en medio de una secuencia, se comprueba la diferencia constante entre términos conocidos (110 - 105 = 5; 115 - 110 = 5) y se aplica al término anterior.

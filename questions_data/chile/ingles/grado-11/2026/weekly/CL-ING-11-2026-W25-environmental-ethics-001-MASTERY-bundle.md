@@ -55,10 +55,10 @@ Anthropocentrism is the belief that human beings are the most important entity i
 National parks were created to preserve wilderness areas for future generations.
 
 ### Opciones
-- [ ] A) create <!-- feedback: Incorrect. Active voice. -->
-- [x] D) were created <!-- feedback: Correct. Past simple passive for a completed historical action. -->
-- [ ] B) have created <!-- feedback: Incorrect. Active voice. -->
-- [ ] C) are created <!-- feedback: Incorrect. Present tense. -->
+- [ ] A) create <!-- feedback: 'Create' would be active and would need the agents named; the sentence presents them as the beneficiaries. -->
+- [x] D) were created <!-- feedback: The past simple passive marks the parks as the result of a completed action, with no agent named. -->
+- [ ] B) have created <!-- feedback: 'Have created' is present perfect active and implies the creation is still relevant, not a historical fact. -->
+- [ ] C) are created <!-- feedback: 'Are created' would mean the parks are being made right now, but the action is historical. -->
 
 ### Explicacion Pedagogica
 The past simple passive 'were created' describes the founding of national parks in the past.
@@ -95,10 +95,10 @@ The second conditional 'if + past simple' describes how a hypothetical shift in 
 Intergenerational justice involves the ethical obligation to leave a healthy planet for those who will be born in the future.
 
 ### Opciones
-- [x] B) obligation <!-- feedback: Correct. An obligation is a duty or commitment. -->
-- [ ] A) choice <!-- feedback: Incorrect. Ethics often frames this as a duty, not just a casual choice. -->
-- [ ] C) refusal <!-- feedback: Incorrect. Negative. -->
-- [ ] D) accident <!-- feedback: Incorrect. It should be an intentional effort. -->
+- [x] B) obligation <!-- feedback: An obligation is a duty or commitment, which is how ethics frames what is owed to future generations. -->
+- [ ] A) choice <!-- feedback: A choice is a free option with no duty attached, so it understates the ethical commitment. -->
+- [ ] C) refusal <!-- feedback: A refusal means declining to act, the opposite of taking on an obligation. -->
+- [ ] D) accident <!-- feedback: An accident is unintended, whereas leaving a healthy planet requires deliberate effort. -->
 
 ### Explicacion Pedagogica
 'Obligation' is the key noun for describing the moral duty we have towards future generations.
@@ -155,10 +155,10 @@ Sustainability means meeting our own needs without compromising the ability of f
 The rights of animals are increasingly being debated in legal and philosophical circles.
 
 ### Opciones
-- [ ] A) are debating <!-- feedback: Incorrect. Active voice. -->
-- [x] B) are being debated <!-- feedback: Correct. Present continuous passive for an ongoing trend. -->
-- [ ] C) debated <!-- feedback: Incorrect. Past simple. -->
-- [ ] D) have debated <!-- feedback: Incorrect. Active voice. -->
+- [ ] A) are debating <!-- feedback: 'Are debating' is active and would need the debaters as the subject; the rights are what is being discussed. -->
+- [x] B) are being debated <!-- feedback: The present continuous passive marks an ongoing trend: the debate is still happening. -->
+- [ ] C) debated <!-- feedback: 'Debated' alone has no auxiliary and cannot form a tense. -->
+- [ ] D) have debated <!-- feedback: 'Have debated' is present perfect active and would name the debaters. -->
 
 ### Explicacion Pedagogica
 The present continuous passive describes a discussion that is currently expanding.
@@ -175,10 +175,10 @@ The present continuous passive describes a discussion that is currently expandin
 Environmental stewardship is the responsible use and protection of the natural environment through conservation and sustainable practices.
 
 ### Opciones
-- [ ] A) Ownership <!-- feedback: Incorrect. Stewardship is about care, not just possessing. -->
-- [x] C) Stewardship <!-- feedback: Correct. The term for responsible management of nature. -->
-- [ ] B) Exploitation <!-- feedback: Incorrect. The opposite of stewardship. -->
-- [ ] D) Neglect <!-- feedback: Incorrect. The opposite of stewardship. -->
+- [ ] A) Ownership <!-- feedback: Ownership means possessing something; stewardship is about caring for it responsibly. -->
+- [x] C) Stewardship <!-- feedback: Stewardship is the established term for the responsible management and protection of nature. -->
+- [ ] B) Exploitation <!-- feedback: Exploitation means using resources for profit without care, the opposite of stewardship. -->
+- [ ] D) Neglect <!-- feedback: Neglect means failing to care for something, also the opposite of the practice described. -->
 
 ### Explicacion Pedagogica
 'Stewardship' is the specific term for the ethical responsibility to care for and manage the environment.
@@ -235,10 +235,10 @@ Speciesism is the assumption of human superiority leading to the exploitation of
 Ecology is the branch of biology that deals with the relations of organisms to one another and to their physical surroundings.
 
 ### Opciones
-- [ ] A) Physics <!-- feedback: Incorrect. -->
-- [x] C) Ecology <!-- feedback: Correct. Scientific study of ecosystems. -->
-- [ ] B) Anatomy <!-- feedback: Incorrect. Study of body structure. -->
-- [ ] D) Chemistry <!-- feedback: Incorrect. -->
+- [ ] A) Physics <!-- feedback: Physics studies matter, energy and forces, not the relations between living organisms. -->
+- [x] C) Ecology <!-- feedback: Ecology is the branch of biology that studies how organisms relate to each other and to their surroundings. -->
+- [ ] B) Anatomy <!-- feedback: Anatomy studies the structure of bodies, not ecological relations. -->
+- [ ] D) Chemistry <!-- feedback: Chemistry studies substances and their reactions, not living communities. -->
 
 ### Explicacion Pedagogica
 'Ecology' is the specific science focused on the interactions within the natural world.
@@ -335,10 +335,10 @@ The author concludes that environmental justice requires that no group of people
 A carbon sink is a forest, ocean, or other natural environment viewed in terms of its ability to absorb carbon dioxide from the atmosphere.
 
 ### Opciones
-- [ ] B) source <!-- feedback: Incorrect. A source releases carbon. -->
-- [x] A) sink <!-- feedback: Correct. A sink absorbs/stores carbon. -->
-- [ ] C) waste <!-- feedback: Incorrect. -->
-- [ ] D) filter <!-- feedback: Incorrect. While it acts like a filter, 'sink' is the technical term. -->
+- [ ] B) source <!-- feedback: A source releases carbon into the atmosphere; a sink is defined by absorbing it. -->
+- [x] A) sink <!-- feedback: A sink is the term for a system that absorbs and stores carbon dioxide from the air. -->
+- [ ] C) waste <!-- feedback: 'Waste' describes material discarded, not a reservoir that takes in gas. -->
+- [ ] D) filter <!-- feedback: 'Filter' is a loose comparison; the technical term for an absorbing reservoir is 'sink'. -->
 
 ### Explicacion Pedagogica
 'Carbon sink' is the standard environmental term for natural systems that absorb more carbon than they release.

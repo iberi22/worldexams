@@ -165,7 +165,7 @@ Si en una sucesión aritmética el tercer término es 13 y el octavo término es
 ### Opciones
 - [ ] A) 4 <!-- feedback: Incorrecto. 38 - 13 = 25, dividido entre la distancia de posiciones. -->
 - [x] B) 5 <!-- feedback: Correcto. d = (a_m - a_k) / (m - k) = (38 - 13) / (8 - 3) = 25 / 5 = 5. -->
-- [ ] C) 6 <!-- feedback: Incorrecto. Revisa la resta de los índices. -->
+- [ ] C) 6 <!-- feedback: Entre el tercero y el octavo hay cinco posiciones de diferencia, no seis, así que d = (38 - 13)/(8 - 3) = 25/5 = 5 y no 6. -->
 - [ ] D) 25 <!-- feedback: Incorrecto. Esa es la diferencia entre los valores, no la diferencia común d. -->
 
 ### Explicacion Pedagogica
@@ -184,7 +184,7 @@ La diferencia común se halla como $d = \frac{a_n - a_k}{n - k}$. Aquí $\frac{3
 Una computadora de $18,000 pesos se deprecia linealmente $1,200 pesos cada año. ¿En qué año su valor será de $6,000 pesos? (Considera el año 1 como el valor inicial después de la primera depreciación).
 
 ### Opciones
-- [ ] B) Año 9 <!-- feedback: Incorrecto. Revisa el planteamiento de la resta. -->
+- [ ] B) Año 9 <!-- feedback: Faltaría un año de depreciación: en el año 9 el valor es 18000 - 1200(9) = 7200, todavía por encima de 6000. Se llega a 6000 en el año 10. -->
 - [x] A) Año 10 <!-- feedback: Correcto. Valor inicial (a_0) = 18000. a_n = 18000 - 1200n. 6000 = 18000 - 1200n => 1200n = 12000 => n = 10. -->
 - [ ] C) Año 11 <!-- feedback: Incorrecto. Error de desfase de un año. -->
 - [ ] D) Año 8 <!-- feedback: Incorrecto. El valor sería mayor a 6000. -->
@@ -226,7 +226,7 @@ Primero calculamos $a_{12} = 182$ usando $a_n = a_1 + (n-1)d$. Luego usamos $S_{
 ¿Cuál es el término número 21 de la sucesión: -15, -11, -7, -3, ...?
 
 ### Opciones
-- [ ] A) 69 <!-- feedback: Incorrecto. Revisa el signo de la diferencia común. -->
+- [ ] A) 69 <!-- feedback: 69 correspondería a multiplicar por 21 en lugar de por 20. Como el primer término ya ocupa la posición 1, el a₂₁ es -15 + (21 - 1)·4 = -15 + 80 = 65. -->
 - [x] D) 65 <!-- feedback: Correcto. a_1 = -15, d = 4. a_21 = -15 + (20)(4) = -15 + 80 = 65. -->
 - [ ] B) 99 <!-- feedback: Incorrecto. Cálculo erróneo. -->
 - [ ] C) -95 <!-- feedback: Incorrecto. La sucesión es creciente hacia los positivos. -->
@@ -289,7 +289,7 @@ Propiedad fundamental: La suma de dos términos equidistantes de los extremos es
 El cuarto término de una sucesión aritmética es 10 y el sexto término es 16. ¿Cuál es el vigésimo término de esta sucesión?
 
 ### Opciones
-- [ ] A) 55 <!-- feedback: Incorrecto. Revisa el cálculo de la diferencia. -->
+- [ ] A) 55 <!-- feedback: 55 resulta de tomar a₁ = 0. En realidad d = (16 - 10)/(6 - 4) = 3 y a₁ = 10 - 3·3 = 1, de modo que a₂₀ = 1 + 19·3 = 58. -->
 - [x] B) 58 <!-- feedback: Correcto. d = (16-10)/(6-4) = 6/2 = 3. a_1 = 10 - 3(3) = 1. a_20 = 1 + (19)(3) = 1 + 57 = 58. -->
 - [ ] C) 61 <!-- feedback: Incorrecto. Has sumado un término de más. -->
 - [ ] D) 52 <!-- feedback: Incorrecto. Error en la base a_1. -->
@@ -417,7 +417,7 @@ Si la suma de los primeros $n$ términos de una sucesión está dada por $S_n = 
 ### Opciones
 - [ ] A) 320 <!-- feedback: Incorrecto. Este es el valor de S_10, no de a_10. -->
 - [x] C) 59 <!-- feedback: Correcto. a_10 = S_10 - S_9. S_10 = 3(100) + 2(10) = 320. S_9 = 3(81) + 2(9) = 243 + 18 = 261. a_10 = 320 - 261 = 59. -->
-- [ ] B) 65 <!-- feedback: Incorrecto. Revisa el cálculo de S_9. -->
+- [ ] B) 65 <!-- feedback: 65 saldría de restar mal: S₁₀ = 320 y S₉ = 243 + 18 = 261, así que a₁₀ = 320 - 261 = 59. -->
 - [ ] D) 57 <!-- feedback: Incorrecto. Error menor en la resta. -->
 
 ### Explicacion Pedagogica
@@ -439,7 +439,7 @@ En una sucesión aritmética, se sabe que $a_1 + a_2 + a_3 = 15$ y $a_4 + a_5 + 
 - [x] D) 2 <!-- feedback: Correcto. 3a_1 + 3d = 15 => a_1 + d = 5. (a_1+3d) + (a_1+4d) + (a_1+5d) = 42 => 3a_1 + 12d = 42 => a_1 + 4d = 14. Restando ecuaciones: 3d = 9 => d = 3. Sustituyendo: a_1 + 3 = 5 => a_1 = 2. -->
 - [ ] A) 5 <!-- feedback: Incorrecto. Este es el valor de a_1 + d. -->
 - [ ] B) 3 <!-- feedback: Incorrecto. Este es el valor de la diferencia d. -->
-- [ ] C) 1 <!-- feedback: Incorrecto. Revisa el sistema de ecuaciones. -->
+- [ ] C) 1 <!-- feedback: El sistema da a₁ + d = 5 y a₁ + 4d = 14; restando, 3d = 9 y d = 3, luego a₁ = 5 - 3 = 2. El 1 corresponde a la diferencia d menos uno, no al primer término. -->
 
 ### Explicacion Pedagogica
 Planteamos el sistema: 1) $3a_1 + 3d = 15$; 2) $3a_1 + 12d = 42$. Resolviendo por eliminación obtenemos $d = 3$ y $a_1 = 2$.

@@ -55,10 +55,10 @@ The Universal Declaration of Human Rights was adopted by the United Nations in 1
 Human rights are inherent to all human beings, regardless of race, gender, or nationality.
 
 ### Opciones
-- [ ] A) regard <!-- feedback: Incorrect. -->
-- [x] C) regardless of <!-- feedback: Correct. Prepositional phrase meaning 'without being affected by'. -->
-- [ ] B) regarding <!-- feedback: Incorrect. Means 'about'. -->
-- [ ] D) regardless <!-- feedback: Incorrect. Needs 'of' to connect to the following list. -->
+- [ ] A) regard <!-- feedback: 'Regard' is a noun here; the sentence needs a preposition to introduce the list of exceptions. -->
+- [x] C) regardless of <!-- feedback: 'Regardless of' means 'without being affected by', which is what the sentence needs before the list. -->
+- [ ] B) regarding <!-- feedback: 'Regarding' means 'about' or 'concerning', which does not express exception. -->
+- [ ] D) regardless <!-- feedback: 'Regardless' cannot stand alone before a list; it requires 'of'. -->
 
 ### Explicacion Pedagogica
 'Regardless of' is essential for expressing the universal and non-discriminatory nature of human rights.
@@ -135,10 +135,10 @@ Inalienable rights are rights that cannot be taken away or denied by any governm
 A violation occurs when a person's fundamental rights are ignored or actively taken away.
 
 ### Opciones
-- [ ] B) celebration <!-- feedback: Incorrect. -->
-- [x] A) violation <!-- feedback: Correct. An act that disregards or breaks a law or right. -->
-- [ ] C) validation <!-- feedback: Incorrect. To validate is to confirm. -->
-- [ ] D) tradition <!-- feedback: Incorrect. -->
+- [ ] B) celebration <!-- feedback: A celebration marks something joyful, whereas a violation is a harmful act. -->
+- [x] A) violation <!-- feedback: A violation is an act that disregards or breaks a right, which is what the sentence describes. -->
+- [ ] C) validation <!-- feedback: To validate is to confirm something as correct, the opposite of disregarding it. -->
+- [ ] D) tradition <!-- feedback: A tradition is a custom passed down, which has nothing to do with rights being ignored. -->
 
 ### Explicacion Pedagogica
 'Violation' is the standard term for the breach of human rights.
@@ -155,10 +155,10 @@ A violation occurs when a person's fundamental rights are ignored or actively ta
 Many groups are still being marginalized despite the progress made in human rights legislation.
 
 ### Opciones
-- [ ] A) are marginalizing <!-- feedback: Incorrect. Active voice. -->
-- [x] C) are being marginalized <!-- feedback: Correct. Present continuous passive for an ongoing negative state. -->
-- [ ] B) marginalized <!-- feedback: Incorrect. Past simple. -->
-- [ ] D) have marginalized <!-- feedback: Incorrect. Active voice. -->
+- [ ] A) are marginalizing <!-- feedback: 'Are marginalizing' is active and would name the groups doing the excluding; here the groups are the ones being excluded. -->
+- [x] C) are being marginalized <!-- feedback: The present continuous passive describes the exclusion as an ongoing negative state. -->
+- [ ] B) marginalized <!-- feedback: 'Marginalized' alone has no auxiliary and cannot form a tense. -->
+- [ ] D) have marginalized <!-- feedback: 'Have marginalized' is present perfect active and makes the groups the agents. -->
 
 ### Explicacion Pedagogica
 The present continuous passive describes how certain groups continue to experience unfair treatment.
@@ -175,10 +175,10 @@ The present continuous passive describes how certain groups continue to experien
 Due process is the legal requirement that the state must respect all legal rights that are owed to a person.
 
 ### Opciones
-- [ ] A) Ignorance <!-- feedback: Incorrect. -->
-- [x] B) Due process <!-- feedback: Correct. Fundamental principle of legal fairness. -->
-- [ ] C) Random luck <!-- feedback: Incorrect. Law should be systematic. -->
-- [ ] D) Popularity <!-- feedback: Incorrect. Rights apply even if you are not popular. -->
+- [ ] A) Ignorance <!-- feedback: Ignorance is a lack of knowledge, not a legal requirement. -->
+- [x] B) Due process <!-- feedback: Due process is the legal principle that the state must respect the rights owed to each person. -->
+- [ ] C) Random luck <!-- feedback: Random luck has no place in law, which must work systematically. -->
+- [ ] D) Popularity <!-- feedback: Popularity is irrelevant: rights apply to everyone whether or not they are well liked. -->
 
 ### Explicacion Pedagogica
 'Due process' is the essential legal term for fair treatment through the judicial system.
@@ -235,10 +235,10 @@ Tokenism is the practice of making only a perfunctory or symbolic effort to be i
 Asylum is the protection granted by a nation to someone who has left their native country as a political refugee.
 
 ### Opciones
-- [ ] A) Vacation <!-- feedback: Incorrect. -->
-- [x] B) Asylum <!-- feedback: Correct. Specific term for state protection of refugees. -->
-- [ ] C) Employment <!-- feedback: Incorrect. -->
-- [ ] D) Tourism <!-- feedback: Incorrect. -->
+- [ ] A) Vacation <!-- feedback: A vacation is leisure travel, not protection granted by a state. -->
+- [x] B) Asylum <!-- feedback: Asylum is the specific term for the protection a nation grants to a political refugee. -->
+- [ ] C) Employment <!-- feedback: Employment is paid work, unrelated to protection granted by a country. -->
+- [ ] D) Tourism <!-- feedback: Tourism is travel for pleasure, granted by nobody and protecting no one. -->
 
 ### Explicacion Pedagogica
 'Asylum' is the formal term for the safety and protection sought by refugees in a foreign country.
@@ -335,10 +335,10 @@ The author concludes that companies must be held accountable for any human right
 Equality means ensuring that every individual has an equal opportunity to make the most of their lives and talents.
 
 ### Opciones
-- [ ] A) Wealth <!-- feedback: Incorrect. Money-focused. -->
-- [x] C) Equality <!-- feedback: Correct. The state of being equal. -->
-- [ ] B) Greed <!-- feedback: Incorrect. Selfish desire. -->
-- [ ] D) Chaos <!-- feedback: Incorrect. Disorder. -->
+- [ ] A) Wealth <!-- feedback: Wealth means money, but equality is about opportunity, not income. -->
+- [x] C) Equality <!-- feedback: Equality is the state in which everyone has an equal chance to develop their talents. -->
+- [ ] B) Greed <!-- feedback: Greed is selfish desire for more, which works against equal opportunity. -->
+- [ ] D) Chaos <!-- feedback: Chaos is disorder; equality creates a predictable, fair framework. -->
 
 ### Explicacion Pedagogica
 'Equality' is the fundamental value described as giving everyone a fair chance.

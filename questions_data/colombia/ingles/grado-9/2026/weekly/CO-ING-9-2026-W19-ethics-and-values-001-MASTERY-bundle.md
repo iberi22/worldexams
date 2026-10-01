@@ -145,7 +145,7 @@ The leaders ________ they ________ more to prevent the crisis when it first star
 - [ ] B) wish / did <!-- feedback: Incorrect. This refers to the present. -->
 - [ ] C) hope / had done <!-- feedback: Incorrect. "Hope" is for the future. -->
 - [x] A) wish / had done <!-- feedback: Correct! Past Perfect for a past regret. -->
-- [ ] D) wish / would do <!-- feedback: Incorrect. -->
+- [ ] D) wish / would do <!-- feedback: 'Would do' belongs to the second conditional, but the clause names a specific past moment, 'when it first started', which the past perfect is needed for. -->
 
 ### Explicacion Pedagogica
 Para expresar que alguien se arrepiente de una decisión o falta de acción en el pasado, usamos la estructura *wish + past perfect*.
@@ -163,10 +163,10 @@ Para expresar que alguien se arrepiente de una decisión o falta de acción en e
 Which sentence expresses an **annoyance** about someone else's behavior?
 
 ### Opciones
-- [ ] A) I wish I had a car to go to work. <!-- feedback: Incorrect. Personal desire for a different state. -->
+- [ ] A) I wish I had a car to go to work. <!-- feedback: This is a wish about the speaker's own life, so it states a personal desire rather than any annoyance at someone else's behaviour. -->
 - [ ] C) I wish I had studied harder for the ethics test. <!-- feedback: Incorrect. Personal regret about the past. -->
 - [x] B) I wish you would stop talking during the presentation. <!-- feedback: Correct! "Wish + would" expresses a complaint or desire for someone else to change their behavior. -->
-- [ ] D) If only I were taller. <!-- feedback: Incorrect. Personal desire for a different state. -->
+- [ ] D) If only I were taller. <!-- feedback: This regrets something about the speaker's own appearance. The sentence needs a wish directed at another person, which is what makes it a complaint. -->
 
 ### Explicacion Pedagogica
 Es un matiz importante del nivel B2: *wish + would* solo se usa para quejas sobre otros o para cosas fuera de nuestro control, nunca para deseos sobre nosotros mismos (como *I wish I would be...*).
@@ -184,7 +184,7 @@ Es un matiz importante del nivel B2: *wish + would* solo se usa para quejas sobr
 "I ________ you ________ a great time at the charity gala next Saturday."
 
 ### Opciones
-- [ ] A) wish / have <!-- feedback: Incorrect. -->
+- [ ] A) wish / have <!-- feedback: 'Wish' with 'have' describes a situation you want but expect not to happen. Here the gala is expected to go well, which is what 'hope' is for. -->
 - [ ] B) wish / would have <!-- feedback: Incorrect. "Wish" is not for positive future desires that are possible. -->
 - [x] D) hope / have <!-- feedback: Correct! "Hope" is used for positive, possible future outcomes. -->
 - [ ] C) wish / had <!-- feedback: Incorrect. This would mean you are not having a good time now. -->
@@ -205,10 +205,10 @@ Diferenciamos entre *wish* (deseos imposibles o improbables) y *hope* (deseos po
 If only the powerful nations ________ to collaborate more on climate change issues!
 
 ### Opciones
-- [ ] A) agree <!-- feedback: Incorrect. -->
+- [ ] A) agree <!-- feedback: 'Agree' in the plain present says they already collaborate, which is exactly the situation the speaker is complaining about. -->
 - [x] D) would agree <!-- feedback: Correct! Expresses a desire for a change in behavior or situation that is currently frustrating. -->
 - [ ] B) had agreed <!-- feedback: Incorrect. This refers to a specific past moment. -->
-- [ ] C) were agreeing <!-- feedback: Incorrect. -->
+- [ ] C) were agreeing <!-- feedback: 'Were agreeing' is an odd progressive used for a temporary state; 'if only' takes the simple past 'agreed' to point at the behaviour they are not showing. -->
 
 ### Explicacion Pedagogica
 *If only + would* es una forma común de expresar frustración ante la inacción de otros y desear fervientemente un cambio de actitud.
@@ -270,10 +270,10 @@ Choose the best completion for this speech:
 "The world is full of inequality. I ________ that things were different. If only people ________ each other more, we ________ so many problems today."
 
 ### Opciones
-- [ ] A) hope / loved / wouldn't have <!-- feedback: Incorrect. -->
+- [ ] A) hope / loved / wouldn't have <!-- feedback: 'Hope' fits positive futures, but the speech is about a situation the speaker regrets, which is what 'wish' expresses. -->
 - [x] C) wish / loved / wouldn't have <!-- feedback: Correct! Correct use of wish, past for present desire, and conditional result. -->
-- [ ] B) wish / would love / didn't have <!-- feedback: Incorrect. -->
-- [ ] D) hope / would love / wouldn't have <!-- feedback: Incorrect. -->
+- [ ] B) wish / would love / didn't have <!-- feedback: 'Would love' states a preference and 'didn't have' describes the past as it was, so the pair argues the opposite of the intended regret. -->
+- [ ] D) hope / would love / wouldn't have <!-- feedback: 'Hope' is wrong for the same reason as A, and 'would love' gives a preference rather than the unreal past the second conditional needs. -->
 
 ### Explicacion Pedagogica
 Este ejercicio final evalúa la integración de *wish* para estados presentes (*wish things were*) y el uso de condicionales para proyectar los resultados de esos deseos.

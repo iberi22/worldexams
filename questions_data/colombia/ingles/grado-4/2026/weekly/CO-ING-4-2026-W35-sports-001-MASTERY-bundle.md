@@ -78,7 +78,7 @@ I use a racket and a small yellow ball to play ________.
 
 ### Opciones
 - [ ] A) karate <!-- feedback: Karate is a martial art fought with the bare hands; there is no racket or ball. -->
-- [ ] B) swimming <!-- feedback: Swimming takes place in water and needs no racket. -->
+- [ ] B) swimming <!-- feedback: Swimming takes place in water and there is no racket or ball anywhere in it, so the two clues do not fit this sport. -->
 - [x] C) tennis <!-- feedback: Correct. Tennis is played with a racket and a small hollow yellow ball over a net. -->
 - [ ] D) boxing <!-- feedback: Boxing is fought with fists and gloves, without a racket. -->
 
@@ -142,7 +142,7 @@ I go ________ on my bicycle.
 ### Opciones
 - [ ] A) climbing <!-- feedback: Climbing a mountain is not an activity done on a bicycle on the road. -->
 - [x] B) cycling <!-- feedback: Correct. Cycling is the activity of riding a bicycle. -->
-- [ ] C) swimming <!-- feedback: Swimming happens in water and needs no bicycle. -->
+- [ ] C) swimming <!-- feedback: Swimming happens in water, while the bicycle named in the sentence is what you ride on land. -->
 - [ ] D) walking <!-- feedback: Walking is done on foot, so the bicycle would not be used. -->
 
 ### Explicación Pedagógica

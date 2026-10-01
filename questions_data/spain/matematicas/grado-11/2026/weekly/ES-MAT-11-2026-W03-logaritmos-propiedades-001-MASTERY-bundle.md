@@ -263,7 +263,7 @@ Aplicamos la definición de logaritmo (base 10): el argumento $x+2$ debe ser igu
 - [ ] B) Porque el resultado sería un número negativo muy grande. <!-- feedback: No es una cuestión de magnitud del resultado, sino de existencia. -->
 - [x] A) Porque no existe ningún número real $x$ tal que $10^x$ sea negativo. <!-- feedback: Correcto. Una potencia de base positiva es siempre positiva. -->
 - [ ] C) Porque los logaritmos solo admiten números enteros. <!-- feedback: Admiten cualquier número real positivo. -->
-- [ ] D) Porque el logaritmo de un negativo es siempre cero. <!-- feedback: Incorrecto. -->
+- [ ] D) Porque el logaritmo de un negativo es siempre cero. <!-- feedback: El logaritmo no está definido para argumentos negativos, así que no hay ningún valor que devolver, y desde luego ninguno que sea cero. -->
 
 ### Explicacion Pedagogica
 La función logarítmica es la inversa de la exponencial $y = a^x$. Dado que $a^x > 0$ para toda $x$ real (cuando $a>0$), la imagen de la exponencial (que es el dominio del logaritmo) es exclusivamente el conjunto de los reales positivos.
@@ -325,8 +325,8 @@ El logaritmo de una potencia cuya base coincide con la del logaritmo es igual al
 ### Opciones
 - [ ] A) 0 <!-- feedback: El producto de dos números positivos no es cero. -->
 - [x] B) 1 <!-- feedback: Correcto. Por la propiedad del cambio de base: $\log_a b = 1 / \log_b a$. -->
-- [ ] C) $\log(ab)$ <!-- feedback: No es una propiedad válida. -->
-- [ ] D) $ab$ <!-- feedback: No es una propiedad válida. -->
+- [ ] C) $\log(ab)$ <!-- feedback: El cambio de base da (log b / log a)·(log a / log b) = 1 porque los factores se cancelan. Sumar los argumentos, como haría log(ab), no corresponde a ese producto. -->
+- [ ] D) $ab$ <!-- feedback: El mismo razonamiento lleva a 1, no al producto ab. Aquí lo que se cancela son los cocientes, no los números entre sí. -->
 
 ### Explicacion Pedagogica
 Utilizando el cambio de base a logaritmos decimales: $(\log b / \log a) \cdot (\log a / \log b)$. Todos los términos se cancelan resultando en 1. Esto demuestra que $\log_a b$ y $\log_b a$ son recíprocos.

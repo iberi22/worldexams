@@ -31,13 +31,13 @@ Resuelva el sistema de ecuaciones por sustitución o eliminación: $\begin{cases
 
 ### Opciones
 - [ ] A) $x = 6, y = 4$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: La suma $x + y = 10$ sí se cumple, pero $x - y = 2$ y la ecuación pide $4$. Los dos valores no satisfacen el sistema completo. -->
 - [ ] B) $x = 5, y = 5$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Con $x = 5$ y $y = 5$ la resta da $x - y = 0$, y la segunda ecuación exige $4$. Solo cumples la primera. -->
 - [ ] C) $x = 8, y = 2$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: La suma da $10$, pero $x - y = 6$, y la segunda ecuación pide $4$. Cada valor debe comprobarse en las dos ecuaciones. -->
 - [x] D) $x = 7, y = 3$
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. Al sumar las dos ecuaciones desaparece la $y$: $2x = 14$, de donde $x = 7$, y de $x + y = 10$ sale $y = 3$. -->
 
 ### Explicacion Pedagogica
 Sumando ambas ecuaciones: $2x = 14 \Rightarrow x = 7$. Sustituyendo en la primera: $7 + y = 10 \Rightarrow y = 3$.
@@ -55,13 +55,13 @@ Resuelva el sistema de ecuaciones por sustitución o eliminación: $\begin{cases
 
 ### Opciones
 - [x] A) $x = 7, y = 3$
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. Al sumar las dos ecuaciones desaparece la $y$: $2x = 14$, de donde $x = 7$, y de $x + y = 10$ sale $y = 3$. -->
 - [ ] B) $x = 8, y = 2$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: La suma da $10$, pero $x - y = 6$, y la segunda ecuación pide $4$. Cada valor debe comprobarse en las dos ecuaciones. -->
 - [ ] C) $x = 5, y = 5$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Con $x = 5$ y $y = 5$ la resta da $x - y = 0$, y la segunda ecuación exige $4$. Solo cumples la primera. -->
 - [ ] D) $x = 6, y = 4$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: La suma $x + y = 10$ sí se cumple, pero $x - y = 2$ y la ecuación pide $4$. Los dos valores no satisfacen el sistema completo. -->
 
 ### Explicacion Pedagogica
 Sumando ambas ecuaciones: $2x = 14 \Rightarrow x = 7$. Sustituyendo en la primera: $7 + y = 10 \Rightarrow y = 3$.
@@ -79,13 +79,13 @@ Resuelva el sistema de ecuaciones por sustitución o eliminación: $\begin{cases
 
 ### Opciones
 - [ ] A) $x = 5, y = 5$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Con $x = 5$ y $y = 5$ la resta da $x - y = 0$, y la segunda ecuación exige $4$. Solo cumples la primera. -->
 - [ ] B) $x = 6, y = 4$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: La suma $x + y = 10$ sí se cumple, pero $x - y = 2$ y la ecuación pide $4$. Los dos valores no satisfacen el sistema completo. -->
 - [ ] C) $x = 8, y = 2$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: La suma da $10$, pero $x - y = 6$, y la segunda ecuación pide $4$. Cada valor debe comprobarse en las dos ecuaciones. -->
 - [x] D) $x = 7, y = 3$
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. Al sumar las dos ecuaciones desaparece la $y$: $2x = 14$, de donde $x = 7$, y de $x + y = 10$ sale $y = 3$. -->
 
 ### Explicacion Pedagogica
 Sumando ambas ecuaciones: $2x = 14 \Rightarrow x = 7$. Sustituyendo en la primera: $7 + y = 10 \Rightarrow y = 3$.
@@ -103,13 +103,13 @@ Resuelva el sistema de ecuaciones por sustitución o eliminación: $\begin{cases
 
 ### Opciones
 - [x] A) $x = 7, y = 3$
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. Al sumar las dos ecuaciones desaparece la $y$: $2x = 14$, de donde $x = 7$, y de $x + y = 10$ sale $y = 3$. -->
 - [ ] B) $x = 6, y = 4$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: La suma $x + y = 10$ sí se cumple, pero $x - y = 2$ y la ecuación pide $4$. Los dos valores no satisfacen el sistema completo. -->
 - [ ] C) $x = 5, y = 5$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Con $x = 5$ y $y = 5$ la resta da $x - y = 0$, y la segunda ecuación exige $4$. Solo cumples la primera. -->
 - [ ] D) $x = 8, y = 2$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: La suma da $10$, pero $x - y = 6$, y la segunda ecuación pide $4$. Cada valor debe comprobarse en las dos ecuaciones. -->
 
 ### Explicacion Pedagogica
 Sumando ambas ecuaciones: $2x = 14 \Rightarrow x = 7$. Sustituyendo en la primera: $7 + y = 10 \Rightarrow y = 3$.
@@ -127,13 +127,13 @@ Un hotel en Portoviejo ofrece habitaciones dobles y sencillas. En total hay 20 h
 
 ### Opciones
 - [ ] A) 15 habitaciones dobles
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Con 15 dobles quedarían 5 sencillas y se contarían $15\cdot 2 + 5 = 35$ camas, más de las 30 del enunciado. -->
 - [ ] B) 12 habitaciones dobles
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Con 12 dobles quedarían $20 - 12 = 8$ sencillas y el total de camas sería $12\cdot 2 + 8 = 32$, pero el enunciado dice 30 camas. -->
 - [ ] C) 8 habitaciones dobles
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Con 8 dobles quedarían 12 sencillas y se contarían $8\cdot 2 + 12 = 28$ camas, menos de las 30 del enunciado. -->
 - [x] D) 10 habitaciones dobles
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. Si $d$ son las dobles y $s$ las sencillas, $d + s = 20$ y $2d + s = 30$; al restar ambas ecuaciones, $d = 10$. -->
 
 ### Explicacion Pedagogica
 Sea $d$ dobles y $s$ sencillas. $d + s = 20$ y $2d + s = 30$. Restando la primera de la segunda obtenemos $d = 10$.
@@ -151,13 +151,13 @@ Un hotel en Loja ofrece habitaciones dobles y sencillas. En total hay 20 habitac
 
 ### Opciones
 - [x] A) 10 habitaciones dobles
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. Si $d$ son las dobles y $s$ las sencillas, $d + s = 20$ y $2d + s = 30$; al restar ambas ecuaciones, $d = 10$. -->
 - [ ] B) 15 habitaciones dobles
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Con 15 dobles quedarían 5 sencillas y se contarían $15\cdot 2 + 5 = 35$ camas, más de las 30 del enunciado. -->
 - [ ] C) 12 habitaciones dobles
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Con 12 dobles quedarían $20 - 12 = 8$ sencillas y el total de camas sería $12\cdot 2 + 8 = 32$, pero el enunciado dice 30 camas. -->
 - [ ] D) 8 habitaciones dobles
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Con 8 dobles quedarían 12 sencillas y se contarían $8\cdot 2 + 12 = 28$ camas, menos de las 30 del enunciado. -->
 
 ### Explicacion Pedagogica
 Sea $d$ dobles y $s$ sencillas. $d + s = 20$ y $2d + s = 30$. Restando la primera de la segunda obtenemos $d = 10$.
@@ -175,13 +175,13 @@ Un hotel en Portoviejo ofrece habitaciones dobles y sencillas. En total hay 20 h
 
 ### Opciones
 - [ ] A) 12 habitaciones dobles
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Con 12 dobles quedarían $20 - 12 = 8$ sencillas y el total de camas sería $12\cdot 2 + 8 = 32$, pero el enunciado dice 30 camas. -->
 - [ ] B) 15 habitaciones dobles
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Con 15 dobles quedarían 5 sencillas y se contarían $15\cdot 2 + 5 = 35$ camas, más de las 30 del enunciado. -->
 - [x] C) 10 habitaciones dobles
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. Si $d$ son las dobles y $s$ las sencillas, $d + s = 20$ y $2d + s = 30$; al restar ambas ecuaciones, $d = 10$. -->
 - [ ] D) 8 habitaciones dobles
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Con 8 dobles quedarían 12 sencillas y se contarían $8\cdot 2 + 12 = 28$ camas, menos de las 30 del enunciado. -->
 
 ### Explicacion Pedagogica
 Sea $d$ dobles y $s$ sencillas. $d + s = 20$ y $2d + s = 30$. Restando la primera de la segunda obtenemos $d = 10$.
@@ -199,13 +199,13 @@ Un hotel en Ibarra ofrece habitaciones dobles y sencillas. En total hay 20 habit
 
 ### Opciones
 - [ ] A) 12 habitaciones dobles
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Con 12 dobles quedarían $20 - 12 = 8$ sencillas y el total de camas sería $12\cdot 2 + 8 = 32$, pero el enunciado dice 30 camas. -->
 - [x] B) 10 habitaciones dobles
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. Si $d$ son las dobles y $s$ las sencillas, $d + s = 20$ y $2d + s = 30$; al restar ambas ecuaciones, $d = 10$. -->
 - [ ] C) 15 habitaciones dobles
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Con 15 dobles quedarían 5 sencillas y se contarían $15\cdot 2 + 5 = 35$ camas, más de las 30 del enunciado. -->
 - [ ] D) 8 habitaciones dobles
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Con 8 dobles quedarían 12 sencillas y se contarían $8\cdot 2 + 12 = 28$ camas, menos de las 30 del enunciado. -->
 
 ### Explicacion Pedagogica
 Sea $d$ dobles y $s$ sencillas. $d + s = 20$ y $2d + s = 30$. Restando la primera de la segunda obtenemos $d = 10$.
@@ -223,13 +223,13 @@ Un hotel en Portoviejo ofrece habitaciones dobles y sencillas. En total hay 20 h
 
 ### Opciones
 - [ ] A) 8 habitaciones dobles
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Con 8 dobles quedarían 12 sencillas y se contarían $8\cdot 2 + 12 = 28$ camas, menos de las 30 del enunciado. -->
 - [ ] B) 12 habitaciones dobles
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Con 12 dobles quedarían $20 - 12 = 8$ sencillas y el total de camas sería $12\cdot 2 + 8 = 32$, pero el enunciado dice 30 camas. -->
 - [ ] C) 15 habitaciones dobles
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Con 15 dobles quedarían 5 sencillas y se contarían $15\cdot 2 + 5 = 35$ camas, más de las 30 del enunciado. -->
 - [x] D) 10 habitaciones dobles
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. Si $d$ son las dobles y $s$ las sencillas, $d + s = 20$ y $2d + s = 30$; al restar ambas ecuaciones, $d = 10$. -->
 
 ### Explicacion Pedagogica
 Sea $d$ dobles y $s$ sencillas. $d + s = 20$ y $2d + s = 30$. Restando la primera de la segunda obtenemos $d = 10$.
@@ -247,13 +247,13 @@ Un hotel en Loja ofrece habitaciones dobles y sencillas. En total hay 20 habitac
 
 ### Opciones
 - [ ] A) 8 habitaciones dobles
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Con 8 dobles quedarían 12 sencillas y se contarían $8\cdot 2 + 12 = 28$ camas, menos de las 30 del enunciado. -->
 - [x] B) 10 habitaciones dobles
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. Si $d$ son las dobles y $s$ las sencillas, $d + s = 20$ y $2d + s = 30$; al restar ambas ecuaciones, $d = 10$. -->
 - [ ] C) 15 habitaciones dobles
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Con 15 dobles quedarían 5 sencillas y se contarían $15\cdot 2 + 5 = 35$ camas, más de las 30 del enunciado. -->
 - [ ] D) 12 habitaciones dobles
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Con 12 dobles quedarían $20 - 12 = 8$ sencillas y el total de camas sería $12\cdot 2 + 8 = 32$, pero el enunciado dice 30 camas. -->
 
 ### Explicacion Pedagogica
 Sea $d$ dobles y $s$ sencillas. $d + s = 20$ y $2d + s = 30$. Restando la primera de la segunda obtenemos $d = 10$.
@@ -271,13 +271,13 @@ Resuelva el sistema lineal para las tarifas de transporte: $\begin{cases} 2x + 3
 
 ### Opciones
 - [ ] A) $x = 2, y = 3$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Al comprobar en la primera ecuación se obtiene $2(2) + 3(3) = 4 + 9 = 13$, y el lado derecho es $12$; por eso el par no sirve. -->
 - [ ] B) $x = 4, y = 1$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Al comprobar: $2(4) + 3(1) = 11$ en la primera, y $3(4) - 1 = 11$ en la segunda. Ninguna de las dos da $12$ y $7$. -->
 - [ ] C) $x = 1, y = 5$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Al comprobar en la primera: $2(1) + 3(5) = 2 + 15 = 17$, y el lado derecho es $12$; ese par no resuelve el sistema. -->
 - [x] D) $x = 3, y = 2$
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. De $3x - y = 7$ sale $y = 3x - 7$; al sustituir, $2x + 3(3x - 7) = 12$, o sea $11x = 33$, y entonces $x = 3$ e $y = 2$. -->
 
 ### Explicacion Pedagogica
 Multiplicamos la segunda ecuación por 3: $9x - 3y = 21$. Sumamos a la primera: $11x = 33 \Rightarrow x = 3$. Sustituyendo: $3(3) - y = 7 \Rightarrow 9 - y = 7 \Rightarrow y = 2$.
@@ -295,13 +295,13 @@ Resuelva el sistema lineal para las tarifas de transporte: $\begin{cases} 2x + 3
 
 ### Opciones
 - [ ] A) $x = 2, y = 3$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Al comprobar en la primera ecuación se obtiene $2(2) + 3(3) = 4 + 9 = 13$, y el lado derecho es $12$; por eso el par no sirve. -->
 - [ ] B) $x = 4, y = 1$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Al comprobar: $2(4) + 3(1) = 11$ en la primera, y $3(4) - 1 = 11$ en la segunda. Ninguna de las dos da $12$ y $7$. -->
 - [x] C) $x = 3, y = 2$
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. De $3x - y = 7$ sale $y = 3x - 7$; al sustituir, $2x + 3(3x - 7) = 12$, o sea $11x = 33$, y entonces $x = 3$ e $y = 2$. -->
 - [ ] D) $x = 1, y = 5$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Al comprobar en la primera: $2(1) + 3(5) = 2 + 15 = 17$, y el lado derecho es $12$; ese par no resuelve el sistema. -->
 
 ### Explicacion Pedagogica
 Multiplicamos la segunda ecuación por 3: $9x - 3y = 21$. Sumamos a la primera: $11x = 33 \Rightarrow x = 3$. Sustituyendo: $3(3) - y = 7 \Rightarrow 9 - y = 7 \Rightarrow y = 2$.
@@ -319,13 +319,13 @@ Resuelva el sistema lineal para las tarifas de transporte: $\begin{cases} 2x + 3
 
 ### Opciones
 - [ ] A) $x = 1, y = 5$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Al comprobar en la primera: $2(1) + 3(5) = 2 + 15 = 17$, y el lado derecho es $12$; ese par no resuelve el sistema. -->
 - [ ] B) $x = 4, y = 1$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Al comprobar: $2(4) + 3(1) = 11$ en la primera, y $3(4) - 1 = 11$ en la segunda. Ninguna de las dos da $12$ y $7$. -->
 - [x] C) $x = 3, y = 2$
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. De $3x - y = 7$ sale $y = 3x - 7$; al sustituir, $2x + 3(3x - 7) = 12$, o sea $11x = 33$, y entonces $x = 3$ e $y = 2$. -->
 - [ ] D) $x = 2, y = 3$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Al comprobar en la primera ecuación se obtiene $2(2) + 3(3) = 4 + 9 = 13$, y el lado derecho es $12$; por eso el par no sirve. -->
 
 ### Explicacion Pedagogica
 Multiplicamos la segunda ecuación por 3: $9x - 3y = 21$. Sumamos a la primera: $11x = 33 \Rightarrow x = 3$. Sustituyendo: $3(3) - y = 7 \Rightarrow 9 - y = 7 \Rightarrow y = 2$.
@@ -343,13 +343,13 @@ Resuelva el sistema lineal para las tarifas de transporte: $\begin{cases} 2x + 3
 
 ### Opciones
 - [ ] A) $x = 4, y = 1$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Al comprobar: $2(4) + 3(1) = 11$ en la primera, y $3(4) - 1 = 11$ en la segunda. Ninguna de las dos da $12$ y $7$. -->
 - [ ] B) $x = 2, y = 3$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Al comprobar en la primera ecuación se obtiene $2(2) + 3(3) = 4 + 9 = 13$, y el lado derecho es $12$; por eso el par no sirve. -->
 - [x] C) $x = 3, y = 2$
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. De $3x - y = 7$ sale $y = 3x - 7$; al sustituir, $2x + 3(3x - 7) = 12$, o sea $11x = 33$, y entonces $x = 3$ e $y = 2$. -->
 - [ ] D) $x = 1, y = 5$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Al comprobar en la primera: $2(1) + 3(5) = 2 + 15 = 17$, y el lado derecho es $12$; ese par no resuelve el sistema. -->
 
 ### Explicacion Pedagogica
 Multiplicamos la segunda ecuación por 3: $9x - 3y = 21$. Sumamos a la primera: $11x = 33 \Rightarrow x = 3$. Sustituyendo: $3(3) - y = 7 \Rightarrow 9 - y = 7 \Rightarrow y = 2$.
@@ -367,13 +367,13 @@ Resuelva el sistema lineal para las tarifas de transporte: $\begin{cases} 2x + 3
 
 ### Opciones
 - [ ] A) $x = 4, y = 1$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Al comprobar: $2(4) + 3(1) = 11$ en la primera, y $3(4) - 1 = 11$ en la segunda. Ninguna de las dos da $12$ y $7$. -->
 - [x] B) $x = 3, y = 2$
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. De $3x - y = 7$ sale $y = 3x - 7$; al sustituir, $2x + 3(3x - 7) = 12$, o sea $11x = 33$, y entonces $x = 3$ e $y = 2$. -->
 - [ ] C) $x = 2, y = 3$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Al comprobar en la primera ecuación se obtiene $2(2) + 3(3) = 4 + 9 = 13$, y el lado derecho es $12$; por eso el par no sirve. -->
 - [ ] D) $x = 1, y = 5$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Al comprobar en la primera: $2(1) + 3(5) = 2 + 15 = 17$, y el lado derecho es $12$; ese par no resuelve el sistema. -->
 
 ### Explicacion Pedagogica
 Multiplicamos la segunda ecuación por 3: $9x - 3y = 21$. Sumamos a la primera: $11x = 33 \Rightarrow x = 3$. Sustituyendo: $3(3) - y = 7 \Rightarrow 9 - y = 7 \Rightarrow y = 2$.
@@ -391,13 +391,13 @@ Resuelva el sistema lineal para las tarifas de transporte: $\begin{cases} 2x + 3
 
 ### Opciones
 - [ ] A) $x = 4, y = 1$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Al comprobar: $2(4) + 3(1) = 11$ en la primera, y $3(4) - 1 = 11$ en la segunda. Ninguna de las dos da $12$ y $7$. -->
 - [x] B) $x = 3, y = 2$
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. De $3x - y = 7$ sale $y = 3x - 7$; al sustituir, $2x + 3(3x - 7) = 12$, o sea $11x = 33$, y entonces $x = 3$ e $y = 2$. -->
 - [ ] C) $x = 2, y = 3$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Al comprobar en la primera ecuación se obtiene $2(2) + 3(3) = 4 + 9 = 13$, y el lado derecho es $12$; por eso el par no sirve. -->
 - [ ] D) $x = 1, y = 5$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Al comprobar en la primera: $2(1) + 3(5) = 2 + 15 = 17$, y el lado derecho es $12$; ese par no resuelve el sistema. -->
 
 ### Explicacion Pedagogica
 Multiplicamos la segunda ecuación por 3: $9x - 3y = 21$. Sumamos a la primera: $11x = 33 \Rightarrow x = 3$. Sustituyendo: $3(3) - y = 7 \Rightarrow 9 - y = 7 \Rightarrow y = 2$.
@@ -415,13 +415,13 @@ Multiplicamos la segunda ecuación por 3: $9x - 3y = 21$. Sumamos a la primera: 
 
 ### Opciones
 - [ ] A) Las dos rectas coinciden en todos sus puntos.
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Si las rectas coinciden hay infinitas soluciones, una por cada punto de la recta, y por tanto el sistema sí tiene solución. -->
 - [ ] B) Las dos rectas se cruzan exactamente en el origen.
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Si se cruzan en el origen, ese punto $(0,0)$ satisface ambas ecuaciones y el sistema tiene una única solución. -->
 - [ ] C) Las dos rectas son perpendiculares.
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Dos rectas perpendiculares siempre se cortan en un punto, de modo que ese sistema tiene una solución, no ninguna. -->
 - [x] D) Las dos rectas representadas son paralelas y no se intersecan.
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. Dos rectas paralelas y distintas nunca se cortan, así que no existe punto que satisfaga las dos ecuaciones y el sistema es incompatible. -->
 
 ### Explicacion Pedagogica
 Un sistema no tiene solución cuando las rectas que representan las ecuaciones son paralelas, lo que significa que no comparten ningún punto en común.
@@ -439,13 +439,13 @@ Un sistema no tiene solución cuando las rectas que representan las ecuaciones s
 
 ### Opciones
 - [ ] A) Las dos rectas coinciden en todos sus puntos.
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Si las rectas coinciden hay infinitas soluciones, una por cada punto de la recta, y por tanto el sistema sí tiene solución. -->
 - [ ] B) Las dos rectas son perpendiculares.
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Dos rectas perpendiculares siempre se cortan en un punto, de modo que ese sistema tiene una solución, no ninguna. -->
 - [ ] C) Las dos rectas se cruzan exactamente en el origen.
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Si se cruzan en el origen, ese punto $(0,0)$ satisface ambas ecuaciones y el sistema tiene una única solución. -->
 - [x] D) Las dos rectas representadas son paralelas y no se intersecan.
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. Dos rectas paralelas y distintas nunca se cortan, así que no existe punto que satisfaga las dos ecuaciones y el sistema es incompatible. -->
 
 ### Explicacion Pedagogica
 Un sistema no tiene solución cuando las rectas que representan las ecuaciones son paralelas, lo que significa que no comparten ningún punto en común.
@@ -463,13 +463,13 @@ Un sistema no tiene solución cuando las rectas que representan las ecuaciones s
 
 ### Opciones
 - [ ] A) Las dos rectas coinciden en todos sus puntos.
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Si las rectas coinciden hay infinitas soluciones, una por cada punto de la recta, y por tanto el sistema sí tiene solución. -->
 - [x] B) Las dos rectas representadas son paralelas y no se intersecan.
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. Dos rectas paralelas y distintas nunca se cortan, así que no existe punto que satisfaga las dos ecuaciones y el sistema es incompatible. -->
 - [ ] C) Las dos rectas se cruzan exactamente en el origen.
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Si se cruzan en el origen, ese punto $(0,0)$ satisface ambas ecuaciones y el sistema tiene una única solución. -->
 - [ ] D) Las dos rectas son perpendiculares.
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Dos rectas perpendiculares siempre se cortan en un punto, de modo que ese sistema tiene una solución, no ninguna. -->
 
 ### Explicacion Pedagogica
 Un sistema no tiene solución cuando las rectas que representan las ecuaciones son paralelas, lo que significa que no comparten ningún punto en común.
@@ -487,13 +487,13 @@ Un sistema no tiene solución cuando las rectas que representan las ecuaciones s
 
 ### Opciones
 - [x] A) Las dos rectas representadas son paralelas y no se intersecan.
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. Dos rectas paralelas y distintas nunca se cortan, así que no existe punto que satisfaga las dos ecuaciones y el sistema es incompatible. -->
 - [ ] B) Las dos rectas son perpendiculares.
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Dos rectas perpendiculares siempre se cortan en un punto, de modo que ese sistema tiene una solución, no ninguna. -->
 - [ ] C) Las dos rectas coinciden en todos sus puntos.
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Si las rectas coinciden hay infinitas soluciones, una por cada punto de la recta, y por tanto el sistema sí tiene solución. -->
 - [ ] D) Las dos rectas se cruzan exactamente en el origen.
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Si se cruzan en el origen, ese punto $(0,0)$ satisface ambas ecuaciones y el sistema tiene una única solución. -->
 
 ### Explicacion Pedagogica
 Un sistema no tiene solución cuando las rectas que representan las ecuaciones son paralelas, lo que significa que no comparten ningún punto en común.

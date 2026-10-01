@@ -255,10 +255,10 @@ Empirical evidence is information received by means of the senses, particularly 
 A new species of orchid has been discovered in the depths of the Andes.
 
 ### Opciones
-- [ ] A) has discovered <!-- feedback: Incorrect. Active voice. -->
-- [x] D) has been discovered <!-- feedback: Correct. Present perfect passive for a recent discovery. -->
-- [ ] B) discovered <!-- feedback: Incorrect. Past simple. -->
-- [ ] C) is discovering <!-- feedback: Incorrect. Active voice. -->
+- [ ] A) has discovered <!-- feedback: 'Has discovered' is active and would make the orchids the discoverers; nothing in the sentence does that. -->
+- [x] D) has been discovered <!-- feedback: The present perfect passive marks a recent, still-relevant discovery, and 'a new species' is what was discovered. -->
+- [ ] B) discovered <!-- feedback: 'Discovered' alone has no auxiliary to form a tense. -->
+- [ ] C) is discovering <!-- feedback: 'Is discovering' is active and present continuous, which would need a subject doing the finding. -->
 
 ### Explicacion Pedagogica
 The present perfect passive 'has been discovered' links a past event (the discovery) with the present fact of its existence.
@@ -375,10 +375,10 @@ In reported findings, it is standard to backshift the tense to the past.
 Peer review is the evaluation of work by one or more people of similar competence to the producers of the work.
 
 ### Opciones
-- [ ] A) Gossip <!-- feedback: Incorrect. Informal talk. -->
-- [x] D) Peer review <!-- feedback: Correct. This is the quality control system in science. -->
-- [ ] B) Censorship <!-- feedback: Incorrect. Restricting information. -->
-- [ ] C) Promotion <!-- feedback: Incorrect. Advertising. -->
+- [ ] A) Gossip <!-- feedback: Gossip is informal talk about other people, not a formal evaluation procedure. -->
+- [x] D) Peer review <!-- feedback: Peer review is the evaluation of research by others of comparable expertise, which is exactly the definition given. -->
+- [ ] B) Censorship <!-- feedback: Censorship means restricting what may be published, the opposite of evaluating the work. -->
+- [ ] C) Promotion <!-- feedback: Promotion means advertising or pushing a product, and nothing is being sold here. -->
 
 ### Explicacion Pedagogica
 'Peer review' is the professional evaluation process used in the scientific community.

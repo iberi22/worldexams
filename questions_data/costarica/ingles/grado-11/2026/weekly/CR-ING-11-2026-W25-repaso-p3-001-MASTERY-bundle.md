@@ -392,7 +392,7 @@ Advanced vocabulary includes knowing which prepositions follow certain verbs or 
 - [ ] C) considered / wouldn't have been
   <!-- feedback: Incorrect. This would be a pure third conditional, but 'so strong' implies a current state. -->
 - [ ] D) consider / won't be
-  <!-- feedback: Incorrect grammar. -->
+  <!-- feedback: 'Had the planners' inverts the 'if' clause, so the participle 'considered' is required and 'consider' is left bare, which the inversion does not allow. -->
 
 ### Explicacion Pedagogica
 This complex structure combines inversion (to omit 'if') with a mixed conditional. It is a hallmark of C1-level mastery.
@@ -517,7 +517,7 @@ In formal or legal English, 'Should' can replace 'if' at the beginning of a cond
 - [ ] C) important / will adhere
   <!-- feedback: Incorrect. Subjunctive mood does not use 'will'. -->
 - [ ] D) necessary / adhered
-  <!-- feedback: Incorrect tense. -->
+  <!-- feedback: 'Adhered' is past simple. After 'It is vital that' the subjunctive governs the clause, so the verb takes the base form 'adhere' with no past-tense ending. -->
 
 ### Explicacion Pedagogica
 The subjunctive mood is the most formal and grammatically precise way to express necessity or importance in C1+ English. It ensures clarity in diplomatic or legal contexts.

@@ -137,7 +137,7 @@ Dada la sucesión definida por $a_n = n^2 - n + 1$, determine la diferencia entr
 - [ ] C) 10
   <!-- feedback: Incorrecto. Valor que no se deriva de la regla de formación. -->
 - [ ] D) 9
-  <!-- feedback: Incorrecto. Revise la resta final. -->
+  <!-- feedback: a₅ = 25 - 5 + 1 = 21 y a₄ = 16 - 4 + 1 = 13. La diferencia es 21 - 13 = 8, y 9 no aparece en ninguna de las dos restas. -->
 
 ### Explicacion Pedagogica
 Evaluamos la regla de correspondencia para $n=5$ y $n=4$, y luego realizamos la sustracción de los resultados obtenidos.
@@ -262,7 +262,7 @@ Las edades de 4 hermanos están en progresión aritmética. Si el menor tiene 12
 - [x] B) 24 años
   <!-- feedback: Correcto. $72 = (12 + a_4) \cdot 4 / 2 \Rightarrow 72 = (12 + a_4) \cdot 2 \Rightarrow 36 = 12 + a_4 \Rightarrow a_4 = 24$. -->
 - [ ] D) 22 años
-  <!-- feedback: Incorrecto. Revise el cálculo en la fórmula de la suma. -->
+  <!-- feedback: Con 22 como mayor, la progresión sería 12, 46/3, 58/3, 22 y su suma no daría 72. La fórmula de la suma exige 72 = (12 + a₄)·4/2, de donde a₄ = 24. -->
 
 ### Explicacion Pedagogica
 Conocemos $a_1=12$, $n=4$ y $S_4=72$. Usamos la fórmula de la suma para despejar directamente el último término $a_4$.
@@ -387,7 +387,7 @@ Si los números 2, $x$, 6 forman una progresión armónica, ¿cuál es el valor 
 - [ ] C) 3.5
   <!-- feedback: Incorrecto. Error al operar con las fracciones de los recíprocos. -->
 - [ ] D) 4.5
-  <!-- feedback: Incorrecto. Revise la definición de media armónica. -->
+  <!-- feedback: En una progresión armónica los recíprocos forman PA: 2/x = 1/2 + 1/6 = 2/3, de donde x = 3. El 4,5 no cumple esa condición de reciprocidad. -->
 
 ### Explicacion Pedagogica
 Una sucesión es armónica si los recíprocos de sus términos forman una progresión aritmética. Resolvemos para que $1/2, 1/x, 1/6$ sea una PA, o usamos la fórmula de la media armónica: $x = \frac{2ab}{a+b}$.

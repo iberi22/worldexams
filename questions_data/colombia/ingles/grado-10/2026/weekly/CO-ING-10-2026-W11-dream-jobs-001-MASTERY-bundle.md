@@ -35,7 +35,7 @@ This bundle explores career aspirations and job prospects using B2-level grammar
 "If I ____ the job interview tomorrow, I ____ celebrating with my family in the evening."
 
 ### Opciones
-- [ ] B) pass / was <!-- feedback: Incorrect tenses. -->
+- [ ] B) pass / was <!-- feedback: 'Was celebrating' is past continuous, but the interview and the celebration are both tomorrow, so the main clause of a first conditional takes 'will' plus infinitive. -->
 - [x] A) pass / will be <!-- feedback: Correct. First Conditional (present simple + will). -->
 - [ ] C) passed / would be <!-- feedback: This is Second Conditional. -->
 - [ ] D) will pass / am <!-- feedback: Incorrect. 'Will' is not used in the 'if' clause. -->

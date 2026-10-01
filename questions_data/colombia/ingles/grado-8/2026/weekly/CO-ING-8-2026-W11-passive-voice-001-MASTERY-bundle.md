@@ -77,10 +77,10 @@ Para la voz pasiva en pasado, usamos "was" o "were" seguido del participio pasad
 The novel *One Hundred Years of Solitude* was written ________ Gabriel García Márquez.
 
 ### Opciones
-- [ ] B) for <!-- feedback: Incorrect. -->
-- [ ] C) from <!-- feedback: Incorrect. -->
-- [x] A) by <!-- feedback: Correct! We use "by" to introduce the person who performed the action in passive voice. -->
-- [ ] D) with <!-- feedback: Incorrect. -->
+- [ ] B) for <!-- feedback: 'Written for' would mean the novel was made on behalf of someone; the sentence needs the agent of the writing. -->
+- [ ] C) from <!-- feedback: 'Written from' would mean the novel was adapted from a source, which is not stated. -->
+- [x] A) by <!-- feedback: In the passive, 'by' introduces the agent, the person who did the writing. -->
+- [ ] D) with <!-- feedback: 'Written with' would mean the novel was produced using something, not who wrote it. -->
 
 ### Explicación Pedagógica
 Cuando queremos mencionar quién realizó la acción en una oración pasiva (el agente), usamos la preposición "by".
@@ -98,10 +98,10 @@ Cuando queremos mencionar quién realizó la acción en una oración pasiva (el 
 Every smartphone ________ of many different materials like glass, plastic, and metal.
 
 ### Opciones
-- [ ] A) make <!-- feedback: Incorrect. -->
-- [ ] B) are made <!-- feedback: Incorrect. Smartphone is singular. -->
-- [x] D) is made <!-- feedback: Correct! Present passive for a general fact about an object. -->
-- [ ] C) made <!-- feedback: Incorrect. -->
+- [ ] A) make <!-- feedback: 'Make' is the active form and would need the makers as the subject. -->
+- [ ] B) are made <!-- feedback: 'Are made' would need a plural subject, but 'every smartphone' is singular. -->
+- [x] D) is made <!-- feedback: The subject 'every smartphone' is singular, so the present passive takes 'is made'. -->
+- [ ] C) made <!-- feedback: 'Made' alone has no auxiliary, so it cannot complete the verb phrase. -->
 
 ### Explicación Pedagógica
 Para procesos de fabricación o descripciones de objetos, el presente pasivo es muy común porque el fabricante no suele ser el foco de la oración.
@@ -120,10 +120,10 @@ Para procesos de fabricación o descripciones de objetos, el presente pasivo es 
 **Passive:** "The windows ________ every morning."
 
 ### Opciones
-- [ ] B) is cleaned <!-- feedback: Incorrect. "Windows" is plural. -->
-- [x] A) are cleaned <!-- feedback: Correct! Plural subject in present passive. -->
-- [ ] C) were cleaned <!-- feedback: Incorrect. The original sentence is in present. -->
-- [ ] D) clean <!-- feedback: Incorrect. -->
+- [ ] B) is cleaned <!-- feedback: 'Is cleaned' would be correct only with a singular subject, and 'the windows' is plural. -->
+- [x] A) are cleaned <!-- feedback: 'The windows' is plural and the original is in the present, so the passive is 'are cleaned'. -->
+- [ ] C) were cleaned <!-- feedback: 'Were cleaned' would mean the cleaning happened in the past, but the active sentence is in the present. -->
+- [ ] D) clean <!-- feedback: 'Clean' is the active verb and would need 'they' as the subject. -->
 
 ### Explicación Pedagógica
 Al pasar de activa a pasiva, el objeto de la activa se convierte en el sujeto de la pasiva y el verbo "to be" debe concordar con este nuevo sujeto.
@@ -184,10 +184,10 @@ Why do we use the passive voice in this sentence?
 "My bike **was stolen** last night!"
 
 ### Opciones
-- [ ] A) Because the bike is the person doing the action. <!-- feedback: Incorrect. -->
-- [x] B) Because we don't know who performed the action. <!-- feedback: Correct! Passive voice is useful when the agent is unknown. -->
-- [ ] C) To make the sentence sound more polite. <!-- feedback: Incorrect. -->
-- [ ] D) Because it's a happy event. <!-- feedback: Incorrect. -->
+- [ ] A) Because the bike is the person doing the action. <!-- feedback: The bike is the thing stolen, not the person doing the action. -->
+- [x] B) Because we don't know who performed the action. <!-- feedback: The passive is used here precisely because the thief is unknown or unimportant to the story. -->
+- [ ] C) To make the sentence sound more polite. <!-- feedback: Politeness is not the reason; the sentence reports a theft, and the passive keeps attention on the victim. -->
+- [ ] D) Because it's a happy event. <!-- feedback: Having your bike stolen is not a happy event, so the choice has nothing to do with tone. -->
 
 ### Explicación Pedagógica
 Uno de los usos principales de la voz pasiva es cuando desconocemos la identidad de quien realizó la acción o cuando esta identidad no es importante.
@@ -205,10 +205,10 @@ Uno de los usos principales de la voz pasiva es cuando desconocemos la identidad
 ________ this movie ________ in Hollywood or in Europe?
 
 ### Opciones
-- [ ] B) Did / filmed <!-- feedback: Incorrect. Active structure. -->
-- [x] A) Was / filmed <!-- feedback: Correct! Question structure: Was/Were + subject + past participle. -->
-- [ ] C) Were / film <!-- feedback: Incorrect. -->
-- [ ] D) Is / filming <!-- feedback: Incorrect. Present continuous. -->
+- [ ] B) Did / filmed <!-- feedback: 'Did... filmed' mixes the auxiliary 'did' with a past participle, which is an active question and also wrong in form. -->
+- [x] A) Was / filmed <!-- feedback: A passive yes/no question is formed with 'Was/Were' plus the subject plus the past participle. -->
+- [ ] C) Were / film <!-- feedback: 'Were' would need a plural subject, and 'film' must be the past participle 'filmed'. -->
+- [ ] D) Is / filming <!-- feedback: 'Is filming' is the present continuous, and the question is about a completed production. -->
 
 ### Explicación Pedagógica
 Para hacer preguntas en voz pasiva, invertimos el orden del verbo "to be" y el sujeto.
@@ -227,10 +227,10 @@ Identify the error in this report:
 "The results of the study **were analyzed (A)** by the team. Then, a final report **was wrote (B)** and **it was presented (C)** to the director **last Tuesday (D)**."
 
 ### Opciones
-- [ ] A) were analyzed <!-- feedback: Incorrect. Plural subject, correct participle. -->
-- [x] D) was wrote <!-- feedback: Correct! Error found. The past participle of "write" is "written", not "wrote". -->
-- [ ] B) it was presented <!-- feedback: Incorrect. Correct passive form. -->
-- [ ] C) last Tuesday <!-- feedback: Incorrect. -->
+- [ ] A) were analyzed <!-- feedback: 'Were analyzed' is correct: 'the results' is plural and 'analyzed' is the right participle. -->
+- [x] D) was wrote <!-- feedback: The passive needs the past participle, and the past participle of 'write' is 'written', not 'wrote'. -->
+- [ ] B) it was presented <!-- feedback: 'It was presented' is the correct passive form with 'presented' as the past participle. -->
+- [ ] C) last Tuesday <!-- feedback: 'Last Tuesday' is a correct time expression and belongs at the end of the sentence. -->
 
 ### Explicación Pedagógica
 El conocimiento de los participios pasados irregulares es fundamental para usar correctamente la voz pasiva en nivel B1.
@@ -248,10 +248,10 @@ El conocimiento de los participios pasados irregulares es fundamental para usar 
 Which sentence is more appropriate for a formal news report?
 
 ### Opciones
-- [ ] A) Someone robbed the local bank this morning. <!-- feedback: Incorrect. Too direct and focuses on an unknown "someone". -->
-- [x] C) The local bank was robbed early this morning; the suspects are still at large. <!-- feedback: Correct! Passive voice provides a more formal and objective tone. -->
-- [ ] B) A bank was being broken by some guys. <!-- feedback: Incorrect. Awkward grammar. -->
-- [ ] D) The bank has been gone by thieves. <!-- feedback: Incorrect. Illogical. -->
+- [ ] A) Someone robbed the local bank this morning. <!-- feedback: Naming 'someone' as the doer is exactly what a formal report avoids, because the agent is not yet established. -->
+- [x] C) The local bank was robbed early this morning; the suspects are still at large. <!-- feedback: The passive foregrounds the bank and the event while keeping the suspects unnamed, which is the neutral register of a news report. -->
+- [ ] B) A bank was being broken by some guys. <!-- feedback: 'A bank was being broken by some guys' is clumsy, and 'guys' is far too informal for a report. -->
+- [ ] D) The bank has been gone by thieves. <!-- feedback: 'The bank has been gone by thieves' is illogical, since thieves remove things from a place rather than taking the place away. -->
 
 ### Explicación Pedagógica
 En contextos formales (como noticias o ciencia), la voz pasiva se prefiere porque otorga objetividad y enfoca la atención en el evento mismo.

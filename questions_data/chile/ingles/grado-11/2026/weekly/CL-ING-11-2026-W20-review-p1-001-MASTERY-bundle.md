@@ -115,10 +115,10 @@ Misinformation is false or inaccurate information that is spread, regardless of 
 The text suggests that lifelong learning is essential for professional survival in the modern era.
 
 ### Opciones
-- [ ] A) optional <!-- feedback: Incorrect. Modern markets make it necessary. -->
-- [x] C) essential <!-- feedback: Correct. Essential means absolutely necessary. -->
-- [ ] B) redundant <!-- feedback: Incorrect. Unnecessary. -->
-- [ ] D) academic <!-- feedback: Incorrect. It refers to learning in all areas of life. -->
+- [ ] A) optional <!-- feedback: Optional means it can be skipped, which contradicts the claim that it is needed to survive professionally. -->
+- [x] C) essential <!-- feedback: Essential means absolutely necessary, which is how the text presents lifelong learning. -->
+- [ ] B) redundant <!-- feedback: Redundant means unnecessary, the opposite of what the text says. -->
+- [ ] D) academic <!-- feedback: Academic refers only to formal study, while lifelong learning covers work, technology and daily life. -->
 
 ### Explicacion Pedagogica
 'Essential' captures the necessity described in the text for continuous learning.
@@ -175,10 +175,10 @@ The present continuous passive describes the current and ongoing effect of these
 Sustainable tourism seeks to minimize the environmental footprint of travelers.
 
 ### Opciones
-- [ ] B) track <!-- feedback: Incorrect. -->
-- [x] A) footprint <!-- feedback: Correct. Footprint refers to the impact left behind. -->
-- [ ] C) shadow <!-- feedback: Incorrect. -->
-- [ ] D) path <!-- feedback: Incorrect. -->
+- [ ] B) track <!-- feedback: To 'track' would mean to record or follow it, but the sentence is about reducing the impact that is left behind. -->
+- [x] A) footprint <!-- feedback: A 'footprint' is the mark an activity leaves on the environment, and the sentence is about minimising it. -->
+- [ ] C) shadow <!-- feedback: 'Shadow' means the dark shape something casts, which is not an environmental impact. -->
+- [ ] D) path <!-- feedback: 'Path' is a route taken, not the residue an activity leaves behind. -->
 
 ### Explicacion Pedagogica
 'Environmental footprint' is the standard term for the measure of human impact on nature.
@@ -195,10 +195,10 @@ Sustainable tourism seeks to minimize the environmental footprint of travelers.
 Never had I seen such an impressive collection of modern art before visiting this museum.
 
 ### Opciones
-- [ ] B) I had seen <!-- feedback: Incorrect. After 'Never', we need inversion. -->
-- [x] A) had I seen <!-- feedback: Correct. Inversion after the negative adverbial 'Never'. -->
-- [ ] C) I saw <!-- feedback: Incorrect. -->
-- [ ] D) saw I <!-- feedback: Incorrect. -->
+- [ ] B) I had seen <!-- feedback: The subject 'I' must come after the auxiliary, so 'I had seen' cannot follow the negative 'Never' at the start. -->
+- [x] A) had I seen <!-- feedback: A negative fronted adverbial like 'Never' triggers subject-auxiliary inversion, giving 'had I seen'. -->
+- [ ] C) I saw <!-- feedback: 'I saw' is the simple past and leaves the subject in place, so no inversion happens. -->
+- [ ] D) saw I <!-- feedback: 'Saw I' misplaces the auxiliary after the subject; inversion needs the auxiliary first. -->
 
 ### Explicacion Pedagogica
 Inversion (verb before subject) is required when a sentence starts with a negative adverbial like 'Never'.
@@ -235,10 +235,10 @@ The paradox of modern technology is that it can foster connection while also inc
 An entrepreneur is someone who starts a new business and takes on financial risk.
 
 ### Opciones
-- [ ] B) employee <!-- feedback: Incorrect. -->
-- [x] A) entrepreneur <!-- feedback: Correct. Starts and manages their own business. -->
-- [ ] C) consumer <!-- feedback: Incorrect. -->
-- [ ] D) intern <!-- feedback: Incorrect. -->
+- [ ] B) employee <!-- feedback: An employee works for someone else and takes no business risk, which is the opposite of the definition. -->
+- [x] A) entrepreneur <!-- feedback: An entrepreneur starts a business and takes the financial risk, matching the definition. -->
+- [ ] C) consumer <!-- feedback: A consumer buys goods or services and does not start or run a company. -->
+- [ ] D) intern <!-- feedback: An intern is a temporary trainee gaining work experience, not a business owner. -->
 
 ### Explicacion Pedagogica
 'Entrepreneur' is the specific term for someone who launches a business venture.
@@ -255,10 +255,10 @@ An entrepreneur is someone who starts a new business and takes on financial risk
 He ought to have confessed the truth before the situation got out of hand.
 
 ### Opciones
-- [ ] A) ought confess <!-- feedback: Incorrect grammar. -->
-- [x] C) ought to have confessed <!-- feedback: Correct. Past moral obligation that wasn't met. -->
-- [ ] B) should confess <!-- feedback: Incorrect. Present/future obligation. -->
-- [ ] D) must confess <!-- feedback: Incorrect. Present/future. -->
+- [ ] A) ought confess <!-- feedback: The modal 'ought' needs 'to' before the infinitive, so 'ought confess' is ungrammatical. -->
+- [x] C) ought to have confessed <!-- feedback: 'Ought to have' plus past participle expresses an obligation in the past that was not fulfilled, which is the case here. -->
+- [ ] B) should confess <!-- feedback: 'Should confess' is a present or future obligation, but the confession is already in the past. -->
+- [ ] D) must confess <!-- feedback: 'Must confess' also states a present obligation; the speaker is already regretting the past. -->
 
 ### Explicacion Pedagogica
 'Ought to have + past participle' expresses a moral obligation in the past.
@@ -275,10 +275,10 @@ He ought to have confessed the truth before the situation got out of hand.
 Scientific research must be subject to peer review to ensure its validity and accuracy.
 
 ### Opciones
-- [ ] A) gossip <!-- feedback: Incorrect. -->
-- [x] D) peer review <!-- feedback: Correct. Professional evaluation system. -->
-- [ ] B) censorship <!-- feedback: Incorrect. -->
-- [ ] C) promotion <!-- feedback: Incorrect. -->
+- [ ] A) gossip <!-- feedback: Gossip is informal talk and is not a formal quality-control system. -->
+- [x] D) peer review <!-- feedback: Peer review is the professional evaluation by other researchers that guarantees the validity of results. -->
+- [ ] B) censorship <!-- feedback: Censorship means blocking information, not checking its quality. -->
+- [ ] C) promotion <!-- feedback: Promotion is advertising, and the sentence is about verifying methods. -->
 
 ### Explicacion Pedagogica
 'Peer review' is the critical quality control process in the scientific community.
@@ -335,10 +335,10 @@ Resilience is the capacity to recover quickly from difficulties; toughness.
 Empathy is the ability to understand and share the feelings of another.
 
 ### Opciones
-- [ ] A) Sympathy <!-- feedback: Incorrect. Sympathy is feeling for; empathy is feeling with. -->
-- [x] D) Empathy <!-- feedback: Correct. Core communication skill. -->
-- [ ] B) Apathy <!-- feedback: Incorrect. -->
-- [ ] C) Hostility <!-- feedback: Incorrect. -->
+- [ ] A) Sympathy <!-- feedback: Sympathy is feeling for someone who is suffering; empathy is understanding and sharing their feelings. -->
+- [x] D) Empathy <!-- feedback: Empathy is the ability to understand and share another's feelings, which is the definition given. -->
+- [ ] B) Apathy <!-- feedback: Apathy is the absence of feeling, the opposite of empathy. -->
+- [ ] C) Hostility <!-- feedback: Hostility is active dislike, not the capacity to share feelings. -->
 
 ### Explicacion Pedagogica
 'Empathy' is fundamental for effective and compassionate human communication.
@@ -355,10 +355,10 @@ Empathy is the ability to understand and share the feelings of another.
 The city is getting used to the new sustainable energy regulations.
 
 ### Opciones
-- [ ] A) used to <!-- feedback: Incorrect. Past habit. -->
-- [x] B) is getting used to <!-- feedback: Correct. Process of becoming accustomed. -->
-- [ ] C) uses to <!-- feedback: Incorrect grammar. -->
-- [ ] D) get used to <!-- feedback: Incorrect grammar. -->
+- [ ] A) used to <!-- feedback: 'Used to' describes a habit in the past that no longer holds, but the city is in the middle of adjusting now. -->
+- [x] B) is getting used to <!-- feedback: 'Is getting used to' is the structure for a process of becoming accustomed, which matches 'is getting'. -->
+- [ ] C) uses to <!-- feedback: 'Uses to' is not a verb form in English; the past habit is 'used to'. -->
+- [ ] D) get used to <!-- feedback: 'Get used to' would need a 'to'-infinitive after it and cannot fill this progressive position. -->
 
 ### Explicacion Pedagogica
 'Be getting used to' describes the current process of adaptation to a new situation.
@@ -375,10 +375,10 @@ The city is getting used to the new sustainable energy regulations.
 A digital footprint is the record of your activities on the internet.
 
 ### Opciones
-- [ ] B) path <!-- feedback: Incorrect. -->
-- [x] A) footprint <!-- feedback: Correct. Standard term. -->
-- [ ] C) shadow <!-- feedback: Incorrect. -->
-- [ ] D) ID <!-- feedback: Incorrect. -->
+- [ ] B) path <!-- feedback: 'Path' means a route, not the record of what you do online. -->
+- [x] A) footprint <!-- feedback: 'A digital footprint' is the standard term for the record of your online activity. -->
+- [ ] C) shadow <!-- feedback: 'Shadow' means a dark image cast by an object, not an online record. -->
+- [ ] D) ID <!-- feedback: An 'ID' identifies a person or account but does not record activity. -->
 
 ### Explicacion Pedagogica
 'Digital footprint' is the metaphorical term for the data trail left by internet users.

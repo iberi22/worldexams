@@ -240,8 +240,8 @@ Encuentra el valor de equilibrio $Q$ (cantidad) igualando ambas expresiones de p
 ### Opciones
 - [ ] A) $Q = 10$ <!-- feedback: $50 - 20 = 30$, pero $10 + 30 = 40$. No coinciden. -->
 - [x] D) $Q = 8$ <!-- feedback: ¡Correcto! $50 - 2Q = 10 + 3Q \rightarrow 40 = 5Q \rightarrow Q = 8$. -->
-- [ ] B) $Q = 12$ <!-- feedback: No satisface la igualdad de las expresiones. -->
-- [ ] C) $Q = 5$ <!-- feedback: No satisface la igualdad de las expresiones. -->
+- [ ] B) $Q = 12$ <!-- feedback: Con Q = 12 la oferta da 50 - 2(12) = 26 mientras la demanda da 10 + 3(12) = 46. Los precios no coinciden, así que no hay equilibrio. -->
+- [ ] C) $Q = 5$ <!-- feedback: Con Q = 5 la oferta da 50 - 2(5) = 40 y la demanda 10 + 3(5) = 25. Como 40 no es igual a 25, tampoco hay equilibrio. -->
 
 ### Explicacion Pedagogica
 El punto de equilibrio en economia se halla resolviendo un sistema de ecuaciones por igualacion. Al igualar las dos expresiones del precio, determinamos la cantidad necesaria para que oferta y demanda coincidan.

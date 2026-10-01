@@ -35,13 +35,13 @@ Choose the correct option: 'I ___ reading a book right now.'
 
 ### Opciones
 - [x] C) am
-  <!-- feedback: Correct! -->
+  <!-- feedback: Correct! With 'I' the present continuous needs the auxiliary 'am', and 'reading' is the -ing form: I am reading. -->
 - [ ] A) is
-  <!-- feedback: Incorrect. Review the concept. -->
+  <!-- feedback: 'Is' goes with he, she, it and singular nouns, not with 'I'. The subject here is 'I', so the auxiliary must be 'am'. -->
 - [ ] B) are
-  <!-- feedback: Incorrect. Review the concept. -->
+  <!-- feedback: 'Are' goes with you, we, they and plural nouns. With 'I' the only correct auxiliary in this tense is 'am'. -->
 - [ ] D) be
-  <!-- feedback: Incorrect. Review the concept. -->
+  <!-- feedback: 'Be' on its own is the bare infinitive; the present continuous is formed with a conjugated auxiliary plus the -ing form, and 'I' takes 'am'. -->
 
 ### Explicacion Pedagogica
 Present continuous: I am + verb-ing.
@@ -58,13 +58,13 @@ What does 'benevolent' mean?
 
 ### Opciones
 - [x] A) Kind and generous
-  <!-- feedback: Correct! -->
+  <!-- feedback: Correct! 'Benevolent' means showing kindness and generosity towards other people. -->
 - [ ] B) Mean and cruel
-  <!-- feedback: Incorrect. Review the concept. -->
+  <!-- feedback: That is the opposite of 'benevolent', which describes someone who is kind and generous, not unkind. -->
 - [ ] C) Quick and fast
-  <!-- feedback: Incorrect. Review the concept. -->
+  <!-- feedback: 'Benevolent' does not describe speed; it describes character. Words like 'quick' or 'fast' belong to how fast somebody acts, not to how kind they are. -->
 - [ ] D) Slow and lazy
-  <!-- feedback: Incorrect. Review the concept. -->
+  <!-- feedback: 'Benevolent' describes kindness, not speed or effort. It has nothing to do with being slow or lazy. -->
 
 ### Explicacion Pedagogica
 'Benevolent' means kind, generous, or charitable.
@@ -81,13 +81,13 @@ Identify the main idea: 'The text describes how bees help pollinate flowers and 
 
 ### Opciones
 - [x] D) Bees are important for pollination and honey
-  <!-- feedback: Correct! -->
+  <!-- feedback: Correct! The text covers both jobs of bees: they carry pollen from flower to flower and they make honey. -->
 - [ ] A) Bees are dangerous insects
-  <!-- feedback: Incorrect. Review the concept. -->
+  <!-- feedback: The text says nothing about bees being dangerous; it presents them as useful, because of pollination and honey production. -->
 - [ ] B) Honey is the only product bees make
-  <!-- feedback: Incorrect. Review the concept. -->
+  <!-- feedback: The text names two things bees do, pollination and honey, so honey is not the only product mentioned. -->
 - [ ] C) Flowers don't need bees
-  <!-- feedback: Incorrect. Review the concept. -->
+  <!-- feedback: That contradicts the text: pollination by bees is exactly what the passage describes as one of their contributions. -->
 
 ### Explicacion Pedagogica
 The main idea summarizes the key points about bees: pollination and honey.
@@ -104,13 +104,13 @@ Which is the correct past form of 'go'?
 
 ### Opciones
 - [x] A) went
-  <!-- feedback: Correct! -->
+  <!-- feedback: Correct! 'Go' is irregular, so its past simple is 'went' and it does not take the -ed ending. -->
 - [ ] B) goed
-  <!-- feedback: Incorrect. Review the concept. -->
+  <!-- feedback: 'Goed' is not an English word. The verb 'go' is irregular, so its past simple is 'went'. -->
 - [ ] C) gone
-  <!-- feedback: Incorrect. Review the concept. -->
+  <!-- feedback: 'Gone' is the past participle, used with 'have' (I have gone), not the past simple form the question asks for. -->
 - [ ] D) going
-  <!-- feedback: Incorrect. Review the concept. -->
+  <!-- feedback: 'Going' is the -ing form, used with 'am/is/are' (I am going), not the past simple. -->
 
 ### Explicacion Pedagogica
 'Go' is an irregular verb: go → went (past simple).
@@ -127,13 +127,13 @@ Which sentence uses the present simple correctly?
 
 ### Opciones
 - [x] A) She goes to school every day.
-  <!-- feedback: Correct! -->
+  <!-- feedback: Correct! In the present simple, 'she' takes the verb with -s: she goes. -->
 - [ ] B) She go to school every day.
-  <!-- feedback: Incorrect. Review the concept. -->
+  <!-- feedback: The third person singular in the present simple adds -s, so it must be 'she goes', not 'she go'. -->
 - [ ] C) She going to school every day.
-  <!-- feedback: Incorrect. Review the concept. -->
+  <!-- feedback: This is missing the auxiliary. With 'going' you need 'is': she is going to school every day. -->
 - [ ] D) She gone to school every day.
-  <!-- feedback: Incorrect. Review the concept. -->
+  <!-- feedback: 'Gone' is a past participle and needs 'has' (she has gone); the present simple is 'she goes'. -->
 
 ### Explicacion Pedagogica
 Present simple: subject + verb(-s for he/she/it).
@@ -150,13 +150,13 @@ Choose the correct option: 'I ___ reading a book right now.'
 
 ### Opciones
 - [x] A) am
-  <!-- feedback: Correct! -->
+  <!-- feedback: Correct! With 'I' the present continuous needs the auxiliary 'am', and 'reading' is the -ing form: I am reading. -->
 - [ ] B) is
-  <!-- feedback: Incorrect. Review the concept. -->
+  <!-- feedback: 'Is' goes with he, she, it and singular nouns, not with 'I'. The subject here is 'I', so the auxiliary must be 'am'. -->
 - [ ] C) are
-  <!-- feedback: Incorrect. Review the concept. -->
+  <!-- feedback: 'Are' goes with you, we, they and plural nouns. With 'I' the only correct auxiliary in this tense is 'am'. -->
 - [ ] D) be
-  <!-- feedback: Incorrect. Review the concept. -->
+  <!-- feedback: 'Be' on its own is the bare infinitive; the present continuous is formed with a conjugated auxiliary plus the -ing form, and 'I' takes 'am'. -->
 
 ### Explicacion Pedagogica
 Present continuous: I am + verb-ing.
@@ -173,13 +173,13 @@ What does 'benevolent' mean?
 
 ### Opciones
 - [x] B) Kind and generous
-  <!-- feedback: Correct! -->
+  <!-- feedback: Correct! 'Benevolent' means showing kindness and generosity towards other people. -->
 - [ ] A) Mean and cruel
-  <!-- feedback: Incorrect. Review the concept. -->
+  <!-- feedback: That is the opposite of 'benevolent', which describes someone who is kind and generous, not unkind. -->
 - [ ] C) Quick and fast
-  <!-- feedback: Incorrect. Review the concept. -->
+  <!-- feedback: 'Benevolent' does not describe speed; it describes character. Words like 'quick' or 'fast' belong to how fast somebody acts, not to how kind they are. -->
 - [ ] D) Slow and lazy
-  <!-- feedback: Incorrect. Review the concept. -->
+  <!-- feedback: 'Benevolent' describes kindness, not speed or effort. It has nothing to do with being slow or lazy. -->
 
 ### Explicacion Pedagogica
 'Benevolent' means kind, generous, or charitable.
@@ -196,13 +196,13 @@ Identify the main idea: 'The text describes how bees help pollinate flowers and 
 
 ### Opciones
 - [x] A) Bees are important for pollination and honey
-  <!-- feedback: Correct! -->
+  <!-- feedback: Correct! The text covers both jobs of bees: they carry pollen from flower to flower and they make honey. -->
 - [ ] B) Bees are dangerous insects
-  <!-- feedback: Incorrect. Review the concept. -->
+  <!-- feedback: The text says nothing about bees being dangerous; it presents them as useful, because of pollination and honey production. -->
 - [ ] C) Honey is the only product bees make
-  <!-- feedback: Incorrect. Review the concept. -->
+  <!-- feedback: The text names two things bees do, pollination and honey, so honey is not the only product mentioned. -->
 - [ ] D) Flowers don't need bees
-  <!-- feedback: Incorrect. Review the concept. -->
+  <!-- feedback: That contradicts the text: pollination by bees is exactly what the passage describes as one of their contributions. -->
 
 ### Explicacion Pedagogica
 The main idea summarizes the key points about bees: pollination and honey.
@@ -219,13 +219,13 @@ Which is the correct past form of 'go'?
 
 ### Opciones
 - [x] C) went
-  <!-- feedback: Correct! -->
+  <!-- feedback: Correct! 'Go' is irregular, so its past simple is 'went' and it does not take the -ed ending. -->
 - [ ] A) goed
-  <!-- feedback: Incorrect. Review the concept. -->
+  <!-- feedback: 'Goed' is not an English word. The verb 'go' is irregular, so its past simple is 'went'. -->
 - [ ] B) gone
-  <!-- feedback: Incorrect. Review the concept. -->
+  <!-- feedback: 'Gone' is the past participle, used with 'have' (I have gone), not the past simple form the question asks for. -->
 - [ ] D) going
-  <!-- feedback: Incorrect. Review the concept. -->
+  <!-- feedback: 'Going' is the -ing form, used with 'am/is/are' (I am going), not the past simple. -->
 
 ### Explicacion Pedagogica
 'Go' is an irregular verb: go → went (past simple).
@@ -242,13 +242,13 @@ Which sentence uses the present simple correctly?
 
 ### Opciones
 - [x] D) She goes to school every day.
-  <!-- feedback: Correct! -->
+  <!-- feedback: Correct! In the present simple, 'she' takes the verb with -s: she goes. -->
 - [ ] A) She go to school every day.
-  <!-- feedback: Incorrect. Review the concept. -->
+  <!-- feedback: The third person singular in the present simple adds -s, so it must be 'she goes', not 'she go'. -->
 - [ ] B) She going to school every day.
-  <!-- feedback: Incorrect. Review the concept. -->
+  <!-- feedback: This is missing the auxiliary. With 'going' you need 'is': she is going to school every day. -->
 - [ ] C) She gone to school every day.
-  <!-- feedback: Incorrect. Review the concept. -->
+  <!-- feedback: 'Gone' is a past participle and needs 'has' (she has gone); the present simple is 'she goes'. -->
 
 ### Explicacion Pedagogica
 Present simple: subject + verb(-s for he/she/it).
@@ -265,13 +265,13 @@ Choose the correct option: 'I ___ reading a book right now.'
 
 ### Opciones
 - [x] D) am
-  <!-- feedback: Correct! -->
+  <!-- feedback: Correct! With 'I' the present continuous needs the auxiliary 'am', and 'reading' is the -ing form: I am reading. -->
 - [ ] A) is
-  <!-- feedback: Incorrect. Review the concept. -->
+  <!-- feedback: 'Is' goes with he, she, it and singular nouns, not with 'I'. The subject here is 'I', so the auxiliary must be 'am'. -->
 - [ ] B) are
-  <!-- feedback: Incorrect. Review the concept. -->
+  <!-- feedback: 'Are' goes with you, we, they and plural nouns. With 'I' the only correct auxiliary in this tense is 'am'. -->
 - [ ] C) be
-  <!-- feedback: Incorrect. Review the concept. -->
+  <!-- feedback: 'Be' on its own is the bare infinitive; the present continuous is formed with a conjugated auxiliary plus the -ing form, and 'I' takes 'am'. -->
 
 ### Explicacion Pedagogica
 Present continuous: I am + verb-ing.
@@ -288,13 +288,13 @@ What does 'benevolent' mean?
 
 ### Opciones
 - [x] C) Kind and generous
-  <!-- feedback: Correct! -->
+  <!-- feedback: Correct! 'Benevolent' means showing kindness and generosity towards other people. -->
 - [ ] A) Mean and cruel
-  <!-- feedback: Incorrect. Review the concept. -->
+  <!-- feedback: That is the opposite of 'benevolent', which describes someone who is kind and generous, not unkind. -->
 - [ ] B) Quick and fast
-  <!-- feedback: Incorrect. Review the concept. -->
+  <!-- feedback: 'Benevolent' does not describe speed; it describes character. Words like 'quick' or 'fast' belong to how fast somebody acts, not to how kind they are. -->
 - [ ] D) Slow and lazy
-  <!-- feedback: Incorrect. Review the concept. -->
+  <!-- feedback: 'Benevolent' describes kindness, not speed or effort. It has nothing to do with being slow or lazy. -->
 
 ### Explicacion Pedagogica
 'Benevolent' means kind, generous, or charitable.
@@ -311,13 +311,13 @@ Identify the main idea: 'The text describes how bees help pollinate flowers and 
 
 ### Opciones
 - [x] C) Bees are important for pollination and honey
-  <!-- feedback: Correct! -->
+  <!-- feedback: Correct! The text covers both jobs of bees: they carry pollen from flower to flower and they make honey. -->
 - [ ] A) Bees are dangerous insects
-  <!-- feedback: Incorrect. Review the concept. -->
+  <!-- feedback: The text says nothing about bees being dangerous; it presents them as useful, because of pollination and honey production. -->
 - [ ] B) Honey is the only product bees make
-  <!-- feedback: Incorrect. Review the concept. -->
+  <!-- feedback: The text names two things bees do, pollination and honey, so honey is not the only product mentioned. -->
 - [ ] D) Flowers don't need bees
-  <!-- feedback: Incorrect. Review the concept. -->
+  <!-- feedback: That contradicts the text: pollination by bees is exactly what the passage describes as one of their contributions. -->
 
 ### Explicacion Pedagogica
 The main idea summarizes the key points about bees: pollination and honey.
@@ -334,13 +334,13 @@ Which is the correct past form of 'go'?
 
 ### Opciones
 - [x] C) went
-  <!-- feedback: Correct! -->
+  <!-- feedback: Correct! 'Go' is irregular, so its past simple is 'went' and it does not take the -ed ending. -->
 - [ ] A) goed
-  <!-- feedback: Incorrect. Review the concept. -->
+  <!-- feedback: 'Goed' is not an English word. The verb 'go' is irregular, so its past simple is 'went'. -->
 - [ ] B) gone
-  <!-- feedback: Incorrect. Review the concept. -->
+  <!-- feedback: 'Gone' is the past participle, used with 'have' (I have gone), not the past simple form the question asks for. -->
 - [ ] D) going
-  <!-- feedback: Incorrect. Review the concept. -->
+  <!-- feedback: 'Going' is the -ing form, used with 'am/is/are' (I am going), not the past simple. -->
 
 ### Explicacion Pedagogica
 'Go' is an irregular verb: go → went (past simple).
@@ -357,13 +357,13 @@ Which sentence uses the present simple correctly?
 
 ### Opciones
 - [x] B) She goes to school every day.
-  <!-- feedback: Correct! -->
+  <!-- feedback: Correct! In the present simple, 'she' takes the verb with -s: she goes. -->
 - [ ] A) She go to school every day.
-  <!-- feedback: Incorrect. Review the concept. -->
+  <!-- feedback: The third person singular in the present simple adds -s, so it must be 'she goes', not 'she go'. -->
 - [ ] C) She going to school every day.
-  <!-- feedback: Incorrect. Review the concept. -->
+  <!-- feedback: This is missing the auxiliary. With 'going' you need 'is': she is going to school every day. -->
 - [ ] D) She gone to school every day.
-  <!-- feedback: Incorrect. Review the concept. -->
+  <!-- feedback: 'Gone' is a past participle and needs 'has' (she has gone); the present simple is 'she goes'. -->
 
 ### Explicacion Pedagogica
 Present simple: subject + verb(-s for he/she/it).
@@ -380,13 +380,13 @@ Choose the correct option: 'I ___ reading a book right now.'
 
 ### Opciones
 - [x] C) am
-  <!-- feedback: Correct! -->
+  <!-- feedback: Correct! With 'I' the present continuous needs the auxiliary 'am', and 'reading' is the -ing form: I am reading. -->
 - [ ] A) is
-  <!-- feedback: Incorrect. Review the concept. -->
+  <!-- feedback: 'Is' goes with he, she, it and singular nouns, not with 'I'. The subject here is 'I', so the auxiliary must be 'am'. -->
 - [ ] B) are
-  <!-- feedback: Incorrect. Review the concept. -->
+  <!-- feedback: 'Are' goes with you, we, they and plural nouns. With 'I' the only correct auxiliary in this tense is 'am'. -->
 - [ ] D) be
-  <!-- feedback: Incorrect. Review the concept. -->
+  <!-- feedback: 'Be' on its own is the bare infinitive; the present continuous is formed with a conjugated auxiliary plus the -ing form, and 'I' takes 'am'. -->
 
 ### Explicacion Pedagogica
 Present continuous: I am + verb-ing.
@@ -403,13 +403,13 @@ What does 'benevolent' mean?
 
 ### Opciones
 - [x] B) Kind and generous
-  <!-- feedback: Correct! -->
+  <!-- feedback: Correct! 'Benevolent' means showing kindness and generosity towards other people. -->
 - [ ] A) Mean and cruel
-  <!-- feedback: Incorrect. Review the concept. -->
+  <!-- feedback: That is the opposite of 'benevolent', which describes someone who is kind and generous, not unkind. -->
 - [ ] C) Quick and fast
-  <!-- feedback: Incorrect. Review the concept. -->
+  <!-- feedback: 'Benevolent' does not describe speed; it describes character. Words like 'quick' or 'fast' belong to how fast somebody acts, not to how kind they are. -->
 - [ ] D) Slow and lazy
-  <!-- feedback: Incorrect. Review the concept. -->
+  <!-- feedback: 'Benevolent' describes kindness, not speed or effort. It has nothing to do with being slow or lazy. -->
 
 ### Explicacion Pedagogica
 'Benevolent' means kind, generous, or charitable.
@@ -426,13 +426,13 @@ Identify the main idea: 'The text describes how bees help pollinate flowers and 
 
 ### Opciones
 - [x] D) Bees are important for pollination and honey
-  <!-- feedback: Correct! -->
+  <!-- feedback: Correct! The text covers both jobs of bees: they carry pollen from flower to flower and they make honey. -->
 - [ ] A) Bees are dangerous insects
-  <!-- feedback: Incorrect. Review the concept. -->
+  <!-- feedback: The text says nothing about bees being dangerous; it presents them as useful, because of pollination and honey production. -->
 - [ ] B) Honey is the only product bees make
-  <!-- feedback: Incorrect. Review the concept. -->
+  <!-- feedback: The text names two things bees do, pollination and honey, so honey is not the only product mentioned. -->
 - [ ] C) Flowers don't need bees
-  <!-- feedback: Incorrect. Review the concept. -->
+  <!-- feedback: That contradicts the text: pollination by bees is exactly what the passage describes as one of their contributions. -->
 
 ### Explicacion Pedagogica
 The main idea summarizes the key points about bees: pollination and honey.
@@ -449,13 +449,13 @@ Which is the correct past form of 'go'?
 
 ### Opciones
 - [x] A) went
-  <!-- feedback: Correct! -->
+  <!-- feedback: Correct! 'Go' is irregular, so its past simple is 'went' and it does not take the -ed ending. -->
 - [ ] B) goed
-  <!-- feedback: Incorrect. Review the concept. -->
+  <!-- feedback: 'Goed' is not an English word. The verb 'go' is irregular, so its past simple is 'went'. -->
 - [ ] C) gone
-  <!-- feedback: Incorrect. Review the concept. -->
+  <!-- feedback: 'Gone' is the past participle, used with 'have' (I have gone), not the past simple form the question asks for. -->
 - [ ] D) going
-  <!-- feedback: Incorrect. Review the concept. -->
+  <!-- feedback: 'Going' is the -ing form, used with 'am/is/are' (I am going), not the past simple. -->
 
 ### Explicacion Pedagogica
 'Go' is an irregular verb: go → went (past simple).
@@ -472,13 +472,13 @@ Which sentence uses the present simple correctly?
 
 ### Opciones
 - [x] C) She goes to school every day.
-  <!-- feedback: Correct! -->
+  <!-- feedback: Correct! In the present simple, 'she' takes the verb with -s: she goes. -->
 - [ ] A) She go to school every day.
-  <!-- feedback: Incorrect. Review the concept. -->
+  <!-- feedback: The third person singular in the present simple adds -s, so it must be 'she goes', not 'she go'. -->
 - [ ] B) She going to school every day.
-  <!-- feedback: Incorrect. Review the concept. -->
+  <!-- feedback: This is missing the auxiliary. With 'going' you need 'is': she is going to school every day. -->
 - [ ] D) She gone to school every day.
-  <!-- feedback: Incorrect. Review the concept. -->
+  <!-- feedback: 'Gone' is a past participle and needs 'has' (she has gone); the present simple is 'she goes'. -->
 
 ### Explicacion Pedagogica
 Present simple: subject + verb(-s for he/she/it).

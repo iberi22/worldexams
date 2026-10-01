@@ -31,13 +31,13 @@ Resuelva la inecuación lineal que representa el límite de peso de un camión d
 
 ### Opciones
 - [ ] A) $x \le 5$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: El enunciado usa $<$, una desigualdad estricta, así que $x=5$ queda excluido; correspondería al signo $\le$. -->
 - [x] B) $x < 5$
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Restando 5 y dividiendo entre 2, que es positivo, se obtiene $x < 5$ sin cambiar el signo. -->
 - [ ] C) $x > 5$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Al dividir entre 2 la desigualdad conserva su sentido: se despeja $x < 5$, no mayor. -->
 - [ ] D) $x < 10$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Restando solo 5 a ambos lados queda $2x < 10$, y dividir entre 2 da $x < 5$. -->
 
 ### Explicacion Pedagogica
 Restando 5: $2x < 10 \Rightarrow x < 5$.
@@ -55,13 +55,13 @@ Resuelva la inecuación lineal que representa el límite de peso de un camión d
 
 ### Opciones
 - [x] A) $x < 5$
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Restando 5 y dividiendo entre 2, que es positivo, se obtiene $x < 5$ sin cambiar el signo. -->
 - [ ] B) $x \le 5$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: El enunciado usa $<$, una desigualdad estricta, así que $x=5$ queda excluido; correspondería al signo $\le$. -->
 - [ ] C) $x > 5$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Al dividir entre 2 la desigualdad conserva su sentido: se despeja $x < 5$, no mayor. -->
 - [ ] D) $x < 10$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Restando solo 5 a ambos lados queda $2x < 10$, y dividir entre 2 da $x < 5$. -->
 
 ### Explicacion Pedagogica
 Restando 5: $2x < 10 \Rightarrow x < 5$.
@@ -79,13 +79,13 @@ Resuelva la inecuación lineal que representa el límite de peso de un camión d
 
 ### Opciones
 - [x] A) $x < 5$
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Restando 5 y dividiendo entre 2, que es positivo, se obtiene $x < 5$ sin cambiar el signo. -->
 - [ ] B) $x > 5$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Al dividir entre 2 la desigualdad conserva su sentido: se despeja $x < 5$, no mayor. -->
 - [ ] C) $x < 10$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Restando solo 5 a ambos lados queda $2x < 10$, y dividir entre 2 da $x < 5$. -->
 - [ ] D) $x \le 5$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: El enunciado usa $<$, una desigualdad estricta, así que $x=5$ queda excluido; correspondería al signo $\le$. -->
 
 ### Explicacion Pedagogica
 Restando 5: $2x < 10 \Rightarrow x < 5$.
@@ -103,13 +103,13 @@ Resuelva la inecuación lineal que representa el límite de peso de un camión d
 
 ### Opciones
 - [ ] A) $x < 10$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Restando solo 5 a ambos lados queda $2x < 10$, y dividir entre 2 da $x < 5$. -->
 - [ ] B) $x \le 5$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: El enunciado usa $<$, una desigualdad estricta, así que $x=5$ queda excluido; correspondería al signo $\le$. -->
 - [x] C) $x < 5$
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Restando 5 y dividiendo entre 2, que es positivo, se obtiene $x < 5$ sin cambiar el signo. -->
 - [ ] D) $x > 5$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Al dividir entre 2 la desigualdad conserva su sentido: se despeja $x < 5$, no mayor. -->
 
 ### Explicacion Pedagogica
 Restando 5: $2x < 10 \Rightarrow x < 5$.
@@ -127,13 +127,13 @@ Restando 5: $2x < 10 \Rightarrow x < 5$.
 
 ### Opciones
 - [ ] A) $x \ge -4$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Al dividir entre un número negativo la desigualdad cambia de sentido, por eso el resultado es $x \le -4$. -->
 - [x] B) $x \le -4$
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Al dividir entre $-3$ la desigualdad se invierte y el 12 cambia de signo, por lo que $x \le -4$. -->
 - [ ] C) $x \ge 4$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: El signo del 12 también debe cambiar al dividir entre $-3$: $-3x \ge 12$ equivale a $x \le -4$, no a un 4 positivo. -->
 - [ ] D) $x \le 4$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: El resultado conserva el signo negativo del coeficiente: al dividir entre $-3$ se obtiene $-4$, no $+4$. -->
 
 ### Explicacion Pedagogica
 Al dividir por un número negativo ($-3$), el sentido de la desigualdad se invierte: $x \le 12 / (-3) \Rightarrow x \le -4$.
@@ -151,13 +151,13 @@ Al dividir por un número negativo ($-3$), el sentido de la desigualdad se invie
 
 ### Opciones
 - [x] A) $x \le -4$
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Al dividir entre $-3$ la desigualdad se invierte y el 12 cambia de signo, por lo que $x \le -4$. -->
 - [ ] B) $x \ge -4$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Al dividir entre un número negativo la desigualdad cambia de sentido, por eso el resultado es $x \le -4$. -->
 - [ ] C) $x \le 4$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: El resultado conserva el signo negativo del coeficiente: al dividir entre $-3$ se obtiene $-4$, no $+4$. -->
 - [ ] D) $x \ge 4$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: El signo del 12 también debe cambiar al dividir entre $-3$: $-3x \ge 12$ equivale a $x \le -4$, no a un 4 positivo. -->
 
 ### Explicacion Pedagogica
 Al dividir por un número negativo ($-3$), el sentido de la desigualdad se invierte: $x \le 12 / (-3) \Rightarrow x \le -4$.
@@ -175,13 +175,13 @@ Al dividir por un número negativo ($-3$), el sentido de la desigualdad se invie
 
 ### Opciones
 - [x] A) $x \le -4$
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Al dividir entre $-3$ la desigualdad se invierte y el 12 cambia de signo, por lo que $x \le -4$. -->
 - [ ] B) $x \ge -4$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Al dividir entre un número negativo la desigualdad cambia de sentido, por eso el resultado es $x \le -4$. -->
 - [ ] C) $x \le 4$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: El resultado conserva el signo negativo del coeficiente: al dividir entre $-3$ se obtiene $-4$, no $+4$. -->
 - [ ] D) $x \ge 4$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: El signo del 12 también debe cambiar al dividir entre $-3$: $-3x \ge 12$ equivale a $x \le -4$, no a un 4 positivo. -->
 
 ### Explicacion Pedagogica
 Al dividir por un número negativo ($-3$), el sentido de la desigualdad se invierte: $x \le 12 / (-3) \Rightarrow x \le -4$.
@@ -199,13 +199,13 @@ Al dividir por un número negativo ($-3$), el sentido de la desigualdad se invie
 
 ### Opciones
 - [x] A) $x \le -4$
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Al dividir entre $-3$ la desigualdad se invierte y el 12 cambia de signo, por lo que $x \le -4$. -->
 - [ ] B) $x \ge 4$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: El signo del 12 también debe cambiar al dividir entre $-3$: $-3x \ge 12$ equivale a $x \le -4$, no a un 4 positivo. -->
 - [ ] C) $x \ge -4$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Al dividir entre un número negativo la desigualdad cambia de sentido, por eso el resultado es $x \le -4$. -->
 - [ ] D) $x \le 4$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: El resultado conserva el signo negativo del coeficiente: al dividir entre $-3$ se obtiene $-4$, no $+4$. -->
 
 ### Explicacion Pedagogica
 Al dividir por un número negativo ($-3$), el sentido de la desigualdad se invierte: $x \le 12 / (-3) \Rightarrow x \le -4$.
@@ -223,13 +223,13 @@ Al dividir por un número negativo ($-3$), el sentido de la desigualdad se invie
 
 ### Opciones
 - [ ] A) $x \le 4$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: El resultado conserva el signo negativo del coeficiente: al dividir entre $-3$ se obtiene $-4$, no $+4$. -->
 - [x] B) $x \le -4$
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Al dividir entre $-3$ la desigualdad se invierte y el 12 cambia de signo, por lo que $x \le -4$. -->
 - [ ] C) $x \ge -4$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Al dividir entre un número negativo la desigualdad cambia de sentido, por eso el resultado es $x \le -4$. -->
 - [ ] D) $x \ge 4$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: El signo del 12 también debe cambiar al dividir entre $-3$: $-3x \ge 12$ equivale a $x \le -4$, no a un 4 positivo. -->
 
 ### Explicacion Pedagogica
 Al dividir por un número negativo ($-3$), el sentido de la desigualdad se invierte: $x \le 12 / (-3) \Rightarrow x \le -4$.
@@ -247,13 +247,13 @@ Al dividir por un número negativo ($-3$), el sentido de la desigualdad se invie
 
 ### Opciones
 - [ ] A) $x \le 4$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: El resultado conserva el signo negativo del coeficiente: al dividir entre $-3$ se obtiene $-4$, no $+4$. -->
 - [ ] B) $x \ge -4$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Al dividir entre un número negativo la desigualdad cambia de sentido, por eso el resultado es $x \le -4$. -->
 - [ ] C) $x \ge 4$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: El signo del 12 también debe cambiar al dividir entre $-3$: $-3x \ge 12$ equivale a $x \le -4$, no a un 4 positivo. -->
 - [x] D) $x \le -4$
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Al dividir entre $-3$ la desigualdad se invierte y el 12 cambia de signo, por lo que $x \le -4$. -->
 
 ### Explicacion Pedagogica
 Al dividir por un número negativo ($-3$), el sentido de la desigualdad se invierte: $x \le 12 / (-3) \Rightarrow x \le -4$.
@@ -271,13 +271,13 @@ Una empresa de envíos en Loja cobra una tarifa fija de 5 dólares más 2 dólar
 
 ### Opciones
 - [ ] A) $2k + 5 < 25$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: El cliente dispone de 25 dólares como máximo, y un máximo sí se alcanza, de modo que la desigualdad es $\le$ y no $<$ estricta. -->
 - [ ] B) $2k + 5 \ge 25$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: El signo está invertido: alcanzarse el presupuesto significa que el costo es menor o igual a 25, no mayor o igual. -->
 - [x] C) $2k + 5 \le 25$
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: La tarifa es $2k+5$ y el presupuesto es un máximo de 25, así que el costo no puede superar 25: $2k + 5 \le 25$. -->
 - [ ] D) $5k + 2 \le 25$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Se intercambiaron los coeficientes: 5 dólares es la tarifa fija y 2 dólares el precio por kilómetro, por eso los roles no se pueden cambiar. -->
 
 ### Explicacion Pedagogica
 El costo total es $2k + 5$. Como dispone de un máximo (puede ser igual) de 25 dólares, la desigualdad correcta es $2k + 5 \le 25$.
@@ -295,13 +295,13 @@ Una empresa de envíos en Ambato cobra una tarifa fija de 5 dólares más 2 dól
 
 ### Opciones
 - [ ] A) $5k + 2 \le 25$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Se intercambiaron los coeficientes: 5 dólares es la tarifa fija y 2 dólares el precio por kilómetro, por eso los roles no se pueden cambiar. -->
 - [ ] B) $2k + 5 \ge 25$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: El signo está invertido: alcanzarse el presupuesto significa que el costo es menor o igual a 25, no mayor o igual. -->
 - [x] C) $2k + 5 \le 25$
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: La tarifa es $2k+5$ y el presupuesto es un máximo de 25, así que el costo no puede superar 25: $2k + 5 \le 25$. -->
 - [ ] D) $2k + 5 < 25$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: El cliente dispone de 25 dólares como máximo, y un máximo sí se alcanza, de modo que la desigualdad es $\le$ y no $<$ estricta. -->
 
 ### Explicacion Pedagogica
 El costo total es $2k + 5$. Como dispone de un máximo (puede ser igual) de 25 dólares, la desigualdad correcta es $2k + 5 \le 25$.
@@ -319,13 +319,13 @@ Una empresa de envíos en Ibarra cobra una tarifa fija de 5 dólares más 2 dól
 
 ### Opciones
 - [ ] A) $5k + 2 \le 25$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Se intercambiaron los coeficientes: 5 dólares es la tarifa fija y 2 dólares el precio por kilómetro, por eso los roles no se pueden cambiar. -->
 - [ ] B) $2k + 5 \ge 25$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: El signo está invertido: alcanzarse el presupuesto significa que el costo es menor o igual a 25, no mayor o igual. -->
 - [ ] C) $2k + 5 < 25$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: El cliente dispone de 25 dólares como máximo, y un máximo sí se alcanza, de modo que la desigualdad es $\le$ y no $<$ estricta. -->
 - [x] D) $2k + 5 \le 25$
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: La tarifa es $2k+5$ y el presupuesto es un máximo de 25, así que el costo no puede superar 25: $2k + 5 \le 25$. -->
 
 ### Explicacion Pedagogica
 El costo total es $2k + 5$. Como dispone de un máximo (puede ser igual) de 25 dólares, la desigualdad correcta es $2k + 5 \le 25$.
@@ -343,13 +343,13 @@ Una empresa de envíos en Guayaquil cobra una tarifa fija de 5 dólares más 2 d
 
 ### Opciones
 - [ ] A) $2k + 5 < 25$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: El cliente dispone de 25 dólares como máximo, y un máximo sí se alcanza, de modo que la desigualdad es $\le$ y no $<$ estricta. -->
 - [ ] B) $5k + 2 \le 25$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Se intercambiaron los coeficientes: 5 dólares es la tarifa fija y 2 dólares el precio por kilómetro, por eso los roles no se pueden cambiar. -->
 - [ ] C) $2k + 5 \ge 25$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: El signo está invertido: alcanzarse el presupuesto significa que el costo es menor o igual a 25, no mayor o igual. -->
 - [x] D) $2k + 5 \le 25$
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: La tarifa es $2k+5$ y el presupuesto es un máximo de 25, así que el costo no puede superar 25: $2k + 5 \le 25$. -->
 
 ### Explicacion Pedagogica
 El costo total es $2k + 5$. Como dispone de un máximo (puede ser igual) de 25 dólares, la desigualdad correcta es $2k + 5 \le 25$.
@@ -367,13 +367,13 @@ Una empresa de envíos en Ibarra cobra una tarifa fija de 5 dólares más 2 dól
 
 ### Opciones
 - [ ] A) $2k + 5 < 25$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: El cliente dispone de 25 dólares como máximo, y un máximo sí se alcanza, de modo que la desigualdad es $\le$ y no $<$ estricta. -->
 - [x] B) $2k + 5 \le 25$
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: La tarifa es $2k+5$ y el presupuesto es un máximo de 25, así que el costo no puede superar 25: $2k + 5 \le 25$. -->
 - [ ] C) $5k + 2 \le 25$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Se intercambiaron los coeficientes: 5 dólares es la tarifa fija y 2 dólares el precio por kilómetro, por eso los roles no se pueden cambiar. -->
 - [ ] D) $2k + 5 \ge 25$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: El signo está invertido: alcanzarse el presupuesto significa que el costo es menor o igual a 25, no mayor o igual. -->
 
 ### Explicacion Pedagogica
 El costo total es $2k + 5$. Como dispone de un máximo (puede ser igual) de 25 dólares, la desigualdad correcta es $2k + 5 \le 25$.
@@ -391,13 +391,13 @@ Una empresa de envíos en Manta cobra una tarifa fija de 5 dólares más 2 dóla
 
 ### Opciones
 - [ ] A) $2k + 5 < 25$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: El cliente dispone de 25 dólares como máximo, y un máximo sí se alcanza, de modo que la desigualdad es $\le$ y no $<$ estricta. -->
 - [ ] B) $5k + 2 \le 25$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Se intercambiaron los coeficientes: 5 dólares es la tarifa fija y 2 dólares el precio por kilómetro, por eso los roles no se pueden cambiar. -->
 - [x] C) $2k + 5 \le 25$
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: La tarifa es $2k+5$ y el presupuesto es un máximo de 25, así que el costo no puede superar 25: $2k + 5 \le 25$. -->
 - [ ] D) $2k + 5 \ge 25$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: El signo está invertido: alcanzarse el presupuesto significa que el costo es menor o igual a 25, no mayor o igual. -->
 
 ### Explicacion Pedagogica
 El costo total es $2k + 5$. Como dispone de un máximo (puede ser igual) de 25 dólares, la desigualdad correcta es $2k + 5 \le 25$.
@@ -415,13 +415,13 @@ Resuelva la inecuación simultánea o de doble intervalo para un rango térmico 
 
 ### Opciones
 - [x] A) $-2 < x \le 3$
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: La doble inecuación se resuelve por partes: de $-1 < 2x+3$ sale $-4<2x$, es decir $-2<x$, y de $2x+3 \le 9$ sale $2x \le 6$, es decir $x \le 3$. -->
 - [ ] B) $-4 < x \le 6$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Son los valores de $2x+3$ después de despejar, no los de $x$; falta dividir entre 2 para llegar a $-2 < x \le 3$. -->
 - [ ] C) $-2 \le x < 3$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Los extremos quedaron intercambiados: el $-2$ es estricto porque el enunciado empieza con $<$, y el 3 admite el igual. -->
 - [ ] D) $-1 < x \le 4$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: No se despejó la constante: hay que restar 3 a cada miembro antes de dividir entre 2, y de ahí resulta $-2 < x \le 3$. -->
 
 ### Explicacion Pedagogica
 Restando 3 en todas las partes: $-4 < 2x \le 6$. Dividiendo entre 2: $-2 < x \le 3$.
@@ -439,13 +439,13 @@ Resuelva la inecuación simultánea o de doble intervalo para un rango térmico 
 
 ### Opciones
 - [x] A) $-2 < x \le 3$
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: La doble inecuación se resuelve por partes: de $-1 < 2x+3$ sale $-4<2x$, es decir $-2<x$, y de $2x+3 \le 9$ sale $2x \le 6$, es decir $x \le 3$. -->
 - [ ] B) $-2 \le x < 3$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Los extremos quedaron intercambiados: el $-2$ es estricto porque el enunciado empieza con $<$, y el 3 admite el igual. -->
 - [ ] C) $-1 < x \le 4$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: No se despejó la constante: hay que restar 3 a cada miembro antes de dividir entre 2, y de ahí resulta $-2 < x \le 3$. -->
 - [ ] D) $-4 < x \le 6$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Son los valores de $2x+3$ después de despejar, no los de $x$; falta dividir entre 2 para llegar a $-2 < x \le 3$. -->
 
 ### Explicacion Pedagogica
 Restando 3 en todas las partes: $-4 < 2x \le 6$. Dividiendo entre 2: $-2 < x \le 3$.
@@ -463,13 +463,13 @@ Resuelva la inecuación simultánea o de doble intervalo para un rango térmico 
 
 ### Opciones
 - [ ] A) $-2 \le x < 3$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Los extremos quedaron intercambiados: el $-2$ es estricto porque el enunciado empieza con $<$, y el 3 admite el igual. -->
 - [ ] B) $-1 < x \le 4$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: No se despejó la constante: hay que restar 3 a cada miembro antes de dividir entre 2, y de ahí resulta $-2 < x \le 3$. -->
 - [ ] C) $-4 < x \le 6$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Son los valores de $2x+3$ después de despejar, no los de $x$; falta dividir entre 2 para llegar a $-2 < x \le 3$. -->
 - [x] D) $-2 < x \le 3$
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: La doble inecuación se resuelve por partes: de $-1 < 2x+3$ sale $-4<2x$, es decir $-2<x$, y de $2x+3 \le 9$ sale $2x \le 6$, es decir $x \le 3$. -->
 
 ### Explicacion Pedagogica
 Restando 3 en todas las partes: $-4 < 2x \le 6$. Dividiendo entre 2: $-2 < x \le 3$.
@@ -487,13 +487,13 @@ Resuelva la inecuación simultánea o de doble intervalo para un rango térmico 
 
 ### Opciones
 - [ ] A) $-2 \le x < 3$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Los extremos quedaron intercambiados: el $-2$ es estricto porque el enunciado empieza con $<$, y el 3 admite el igual. -->
 - [ ] B) $-4 < x \le 6$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Son los valores de $2x+3$ después de despejar, no los de $x$; falta dividir entre 2 para llegar a $-2 < x \le 3$. -->
 - [x] C) $-2 < x \le 3$
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: La doble inecuación se resuelve por partes: de $-1 < 2x+3$ sale $-4<2x$, es decir $-2<x$, y de $2x+3 \le 9$ sale $2x \le 6$, es decir $x \le 3$. -->
 - [ ] D) $-1 < x \le 4$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: No se despejó la constante: hay que restar 3 a cada miembro antes de dividir entre 2, y de ahí resulta $-2 < x \le 3$. -->
 
 ### Explicacion Pedagogica
 Restando 3 en todas las partes: $-4 < 2x \le 6$. Dividiendo entre 2: $-2 < x \le 3$.
