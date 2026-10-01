@@ -128,7 +128,7 @@ Según la Constitución, ¿qué es lo que explica mejor la diferencia entre crea
   <!-- feedback: Error. Concentra todo en una sola persona y confunde la vigilancia administrativa con la labor policial. -->
 - [x] B) Que el Congreso crea las normas y laíssima Corte Constitucional vigila que respeten los derechos.
   <!-- feedback: Correcta. La separación entre crear normas y controlarlas es una garantía del sistema. -->
-- [ ] C) Que un， partido político crea todas las normas sin necesidad de aprobación.
+- [ ] C) Que un partido político crea todas las normas sin necesidad de aprobación.
   <!-- feedback: Error. Un partido propone, pero no aprueba por sí solo las normas. -->
 - [ ] D) Que La Constitución no establece quién crea ni quién vigila las normas.
   <!-- feedback: Error. La Constitución sí organiza estas competencias del Estado. -->
@@ -157,7 +157,7 @@ Si la señora Yolis, dueña de un negocio en Santa Marta, afirma que "el permiso
   <!-- feedback: Error. No relaciona la seguridad social con el trámite de permisos municipales. -->
 
 ### Explicacion Pedagogica
-La Constitución garantiza que todas las personas sean tratadas con igualdad ante la ley, sin privilegio por lugar de nacimiento, residencia o condición social. Negar un trámite por el hecho de no ser de una ciudad concreta constituye una práctica discriminatoria. Analizar situaciones como la de la señora Yol， a los estudiantes detectar cuándo se vulnera un derecho y cómo puede reclamarse. La igualdad no significa ausencia de requisitos, sino que esos requisitos se apliquen a todos por igual.
+La Constitución garantiza que todas las personas sean tratadas con igualdad ante la ley, sin privilegio por lugar de nacimiento, residencia o condición social. Negar un trámite por el hecho de no ser de una ciudad concreta constituye una práctica discriminatoria. Analizar situaciones como la de la señora Yolanda, a los estudiantes detectar cuándo se vulnera un derecho y cómo puede reclamarse. La igualdad no significa ausencia de requisitos, sino que esos requisitos se apliquen a todos por igual.
 
 ## Question 7 [D7-D8]
 **ID:** CO-SOC-6-2026-W02-la-constitucion-y-los-derechos-001-MASTERY-bundle-v7
