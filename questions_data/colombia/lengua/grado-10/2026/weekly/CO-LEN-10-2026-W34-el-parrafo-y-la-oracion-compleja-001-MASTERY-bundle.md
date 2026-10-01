@@ -240,7 +240,7 @@ La unidad del párrafo es una propiedad semántica: una sola idea con relaciones
 **Bloom:** Analyze
 **ICFES:** Critico-Intertextual
 **Expected_Success:** 0.55
-**Contexto:** En el|English... no. Contexto: En un foro de literatura de Bucaramanga, dos participantes discuten sobre el estilo de Rómulo Gallegos frente a un blog escolar.
+**Contexto:** En un foro de literatura de Bucaramanga, dos participantes discuten sobre el estilo de Rómulo Gallegos frente a un blog escolar.
 
 ### Enunciado
 Un crítico afirma que el párrafo de una novela de Rómulo Gallegos es «más profundo» que una entrada de blog sobre el mismo tema, y lo demuestra señalando que el párrafo del novelista contiene una oración compleja. ¿Cuál es la valoración más precisa de ese argumento?
