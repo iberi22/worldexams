@@ -128,7 +128,7 @@ Ver el balón activa la retina y los nervios ópticos llevan la imagen al cerebr
 **Expected_Success:** 0.65
 **Contexto:** En un centro de salud de Medellín, el médico golpea suavemente bajo la rodilla de un estudiante y la pierna se levanta sola, luego le pide apretar una pelota a propósito.
 ### Enunciado
-¿Cómo se различа un acto reflejo de un acto voluntario en esa prueba?
+¿Cómo se diferencia un acto reflejo de un acto voluntario en esa prueba?
 ### Opciones
 - [x] A) El reflejo rotuliano viaja solo hasta la médula y responde sin orden consciente, mientras apretar la pelota nace en el cerebro como decisión.
   <!-- feedback: Correcta, porque contrasta ruta corta medular con ruta consciente cerebral. -->

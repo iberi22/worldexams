@@ -143,7 +143,7 @@ Manejar fuentes contradictorias es una tarea central de quien escribe biografía
 Se comparan dos biografías del mismo personaje histórico. En la primera, los hechos aparecen en orden cronológico, pero sin mencionar el contexto. En la segunda, cada hecho se explica junto a las condiciones de la época que lo hicieron posible. ¿Qué añade la segunda versión?
 
 ### Opciones
-- [x] A) La relación entre los hechos y las condiciones históricas que los объясan.
+- [x] A) La relación entre los hechos y las condiciones históricas que los explican.
   <!-- feedback: Vincular cada hecho con su contexto convierte la narración en una explicación histórica. -->
 - [ ] B) Más información sobre la vida privada del personaje.
   <!-- feedback: La segunda versión es la que aporta contexto histórico, no datos sobre la vida privada. -->

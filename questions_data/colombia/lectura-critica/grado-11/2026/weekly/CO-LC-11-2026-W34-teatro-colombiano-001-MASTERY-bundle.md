@@ -137,7 +137,7 @@ En la obra "La maestra rural" (adaptación), ¿cuál es el conflicto principal?
   <!-- feedback: No es el eje dramático. -->
 
 ### Explicacion Pedagogica
-El conflicto dramático articula la tensión que двига la trama teatral.
+El conflicto dramático articula la tensión que impulsa la trama teatral.
 
 ## Question 6 [D5-D6]
 **ID:** CO-LC-11-2026-W34-teatro-colombiano-001-MASTERY-bundle-v6
@@ -196,7 +196,7 @@ El flashback permite profundizar en la motivación de los personajes.
 ¿Cuál es la diferencia entre tragedia y comedia?
 
 ### Opciones
-- [x] D) La tragedia termina en derrota; la comedia busca el humor y обычно termina en reconciliación.
+- [x] D) La tragedia termina en derrota; la comedia busca el humor y suele terminar en reconciliación.
   <!-- feedback: La distinción clásica se basa en el desenlace. -->
 - [ ] A) La comedia es siempre dramática.
   <!-- feedback: Busca generar risa. -->
@@ -358,7 +358,7 @@ El teatro participativo amplía la experiencia estética y social del espectador
 
 ### Opciones
 - [ ] A) Eliminar todo conflicto.
-  <!-- feedback: El conflicto двига la trama. -->
+  <!-- feedback: El conflicto impulsa la trama. -->
 - [x] B) Condensar la trama, mantener la esencia y dialogar con el lenguaje escénico.
   <!-- feedback: La adaptación es una reescritura. -->
 - [ ] C) Añadir personajes aleatorios.
