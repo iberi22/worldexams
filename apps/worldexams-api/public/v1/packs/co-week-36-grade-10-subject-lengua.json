@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-36-grade-10-subject-lengua",
+    "generated_at": "2026-10-01T15:30:44.952Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-10-2026-W36-el-texto-expositivo-y-cientifico-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál de las siguientes opciones describe mejor el propósito central de un texto expositivo?",
+      "context": "En el Colegio Boyacá de Tunja, la profesora escribe dos definiciones en el tablero y pide que los estudiantes las asocien con el texto que leyeron.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Informar o explicar un tema de manera clara y ordenada, sin buscar imponer una postura al lector",
+          "is_correct": true,
+          "feedback": "Correcto. El texto expositivo tiene como finalidad transmitir información o hacer comprensible un conocimiento; se apoya en un orden lógico y en un lenguaje objetivo, no en la persuasión."
+        },
+        {
+          "letter": "B",
+          "text": "Narrar hechos en orden cronológico, con personajes, ambiente y un conflicto",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la estructura del texto narrativo, que avanza por los turnos de una trama. El expositivo no se organiza por Storytelling ni por conflicto, sino por explicaciones encadenadas."
+        },
+        {
+          "letter": "C",
+          "text": "Defender una tesis con argumentos para que el lector cambie de opinión",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estás confundiendo el expositivo con el argumentativo, que incluye tesis explícita y razones a favor y en contra. El expositivo no necesita convencer, solo esclarecer."
+        },
+        {
+          "letter": "D",
+          "text": "Transmitir información mediante un diálogo presencial entre dos interlocutores",
+          "is_correct": false,
+          "feedback": "Incorrecto. Describe un texto oral dialoguado. Aunque un contenido expositivo pueda decirse en una exposición oral, su forma básica es escrita, dirigida a un lector que no está presente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El texto expositivo es el género cuyo propósito es informar o explicar. Se apoya en un orden lógico (de lo general a lo particular, de la causa al efecto, por comparación) y en un lenguaje objetivo. Reconocer ese propósito evita confundirlo con el narrativo, el argumentativo y el dialógico.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Semantico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-10-2026-W36-el-texto-expositivo-y-cientifico-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W36-el-texto-expositivo-y-cientifico-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál de las siguientes partes corresponde de manera propia a un texto científico de investigación?",
+      "context": "En el Colegio La Salle de Bogotá, los estudiantes de décimo grado reciben la tabla de contenido de un artículo científico para anticipar qué encontrarán en cada página.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una introducción autobiográfica donde el investigador cuenta por qué quiso ser científico",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una sección biográfica, propia de la narración o del perfil de autor. La introducción científica plantea el problema, la pregunta y la justificación, sin narrar la vida del investigador."
+        },
+        {
+          "letter": "B",
+          "text": "Una metodología en la que se describen los materiales, las técnicas y los procedimientos utilizados",
+          "is_correct": true,
+          "feedback": "Correcto. La metodología da cuenta del cómo se hizo el estudio: instrumento, muestra y procedimiento. Sin ese detalle, otro investigador no podría repetir el trabajo ni verificar los resultados obtenidos."
+        },
+        {
+          "letter": "C",
+          "text": "Una conclusión en la que el autor declara sus convicciones personales sin apoyarlas en los datos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estás confundiendo la conclusión científica con una opinión. La conclusión debe responder con evidencia: qué se encontró, qué significa y cuál es el alcance del estudio."
+        },
+        {
+          "letter": "D",
+          "text": "Un apartado final de agradecimientos dedicado a la familia y a los compañeros del proyecto",
+          "is_correct": false,
+          "feedback": "Incorrecto. La dedicatoria y los agradecimientos pertenecen a los ante-textos (portada y créditos), no al cuerpo argumental. Atribuyen autoría y permisos, pero no aportan conocimiento."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El texto científico se organiza en secciones con funciones fijas: introducción, marco teórico, metodología, resultados, discusión y conclusiones. Reconocer la metodología como el lugar donde se describen materiales y procedimientos es lo que diferencia el rigor científico de una simple narración sobre un tema.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-10-2026-W36-el-texto-expositivo-y-cientifico-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W36-el-texto-expositivo-y-cientifico-001-MASTERY-bundle-v3",
+      "statement": "Un párrafo sobre la prevención del dengue dice: «Las lluvias aumentan el almacenamiento de agua en los depósitos; por consiguiente, el número de casos también se incrementa». ¿Cuál es la función del conector «por consiguiente»?",
+      "context": "En el Colegio Continental de Medellín, un grupo analiza un párrafo institucional sobre la prevención del dengue y debe identificar la función de cada conector.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ubicar los hechos en una secuencia temporal",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa función corresponde a conectores de tiempo como «luego» o «después». «Por consiguiente» no ordena el tiempo: deriva una consecuencia a partir de lo que ya se había dicho."
+        },
+        {
+          "letter": "B",
+          "text": "Introducir un ejemplo que refuerza la idea anterior",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la función de «por ejemplo» o «como ocurre con». Aquí no se agrega ningún caso particular, sino una deducción general que se desprende de lo expuesto."
+        },
+        {
+          "letter": "C",
+          "text": "Presentar una conclusión que se deduce de la información previa",
+          "is_correct": true,
+          "feedback": "Correcto. Es un conector causal deductivo: enlaza la causa (lluvias y agua almacenada) con el efecto (más casos de dengue) y obliga a leer el segundo enunciado como una inferencia, no como un dato suelto."
+        },
+        {
+          "letter": "D",
+          "text": "Marcar una oposición o contraste entre dos ideas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estás describiendo los conectores adversativos como «sin embargo» o «no obstante». Aquí no hay cambio de postura: las dos partes del enunciado se refuerzan."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los conectores son las articulaciones del discurso: determinan qué relación se establece entre las ideas (causa, consecuencia, ejemplo, oposición, condición). Identificarlos permite reconstruir la lógica interna del párrafo y comprobar si el texto es realmente coherente.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-10-2026-W36-el-texto-expositivo-y-cientifico-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W36-el-texto-expositivo-y-cientifico-001-MASTERY-bundle-v4",
+      "statement": "Un equipo debe escribir un texto para el boletín escolar que explique a la comunidad cómo se mide el consumo de agua en la institución. ¿Cuál de estos comienzos es el más adecuado?",
+      "context": "En el Colegio Antonio Nariño de Cali, la orientadora asigna a cada grupo la redacción de un texto para el boletín escolar sobre el consumo de agua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "«Ustedes no respetan la norma del agua y por eso todos sufriremos una sequía terrible»",
+          "is_correct": false,
+          "feedback": "Incorrecto. Introduce un tono predicador y una predicción catastrófica sin respaldo. Un texto informativo no amenaza al lector ni anticipa desastres: describe lo que ocurre y cómo se mide."
+        },
+        {
+          "letter": "B",
+          "text": "«Según yo, el agua es el recurso más importante del mundo y eso no lo discute nadie»",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se apoya en la opinión del autor y en una frase absoluta («nadie lo discute»). El texto informativo necesita hechos verificables, no la sanción de quien escribe."
+        },
+        {
+          "letter": "C",
+          "text": "«El agua, el agua, el agua: el agua que nos da la vida y que siempre nos acompaña»",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es repetición retórica sin información nueva. La repetición no reemplaza los datos y pertenece al lenguaje poético; aquí se espera un dato concreto sobre el procedimiento de medición."
+        },
+        {
+          "letter": "D",
+          "text": "«El consumo de agua del colegio se mide en litros por estudiante; este informe explica cómo se calcula ese dato y qué resultados se obtuvieron»",
+          "is_correct": true,
+          "feedback": "Correcto. Delimita el tema, precisa la unidad de medida y anuncia el propósito informativo, que es exactamente lo que el destinatario espera de un texto expositivo escolar."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La entrada de un texto expositivo debe declarar el tema, ordenar su alcance y anunciar qué se va a explicar, de modo que el lector sepa desde la primera línea qué puede esperar. La coherencia entre lo prometido y lo desarrollado es un criterio práctico de comprensión lectora.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-10-2026-W36-el-texto-expositivo-y-cientifico-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W36-el-texto-expositivo-y-cientifico-001-MASTERY-bundle-v5",
+      "statement": "En un texto científico, ¿qué es una hipótesis?",
+      "context": "En la Escuela Normal Superior de Bucaramanga, los futuros docentes analizan la estructura de un reporte agrícola y anotan los conceptos que deben definir sus estudiantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una proposición que puede comprobarse mediante observación o experimentación y que orienta la investigación",
+          "is_correct": true,
+          "feedback": "Correcto. La hipótesis es una respuesta provisional y verificable a una pregunta de investigación; se formula antes de recoger datos y después se confirma o se refuta con los resultados obtenidos."
+        },
+        {
+          "letter": "B",
+          "text": "Una certeza ya demostrada que cierra el estudio y no admite discusión posterior",
+          "is_correct": false,
+          "feedback": "Incorrecto. Lo que describes es una conclusión o un teorema. La hipótesis es provisional por definición: si ya estuviera probada, no habría nada que investigar."
+        },
+        {
+          "letter": "C",
+          "text": "La opinión personal del investigador, sustentada solo en su experiencia",
+          "is_correct": false,
+          "feedback": "Incorrecto.Estás definiendo la creencia del investigador. Eso pertenece al texto de opinión; el texto científico se sustenta en datos, no en credenciales del autor."
+        },
+        {
+          "letter": "D",
+          "text": "La conclusión moral que el investigador deduce del comportamiento de los participantes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una investigación puede discutir implicancias éticas, pero no las confunde con la hipótesis: la hipótesis afirma algo sobre hechos comprobables, no sobre el valor de las personas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El texto científico se construye a partir de pregunta, hipótesis, método y resultados. Saber que la hipótesis es falsable, es decir que puede refutarse con evidencia, es lo que diferencia la investigación científica de una conjetura expresada con seguridad.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semantico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-10-2026-W36-el-texto-expositivo-y-cientifico-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W36-el-texto-expositivo-y-cientifico-001-MASTERY-bundle-v6",
+      "statement": "En un informe escolar aparece el párrafo: «Se utilizó una encuesta digital de once preguntas, enviada por correo institucional durante dos semanas, a 120 estudiantes de los grados noveno y décimo». ¿A qué sección del texto científico pertenece este párrafo?",
+      "context": "En el Colegio San Carlos de Bogotá, los estudiantes de décimo deben clasificar los párrafos de un informe escolar según la sección del texto científico a la que pertenecen.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A la introducción, porque presenta el tema y su importancia",
+          "is_correct": false,
+          "feedback": "Incorrecto. La introducción justifica el estudio y plantea el problema o la pregunta. Aquí no hay problema, ni objetivo, ni justificación: el párrafo solo describe un procedimiento."
+        },
+        {
+          "letter": "B",
+          "text": "A la metodología, porque describe los materiales y los procedimientos de recolección de datos",
+          "is_correct": true,
+          "feedback": "Correcto. Nombra el instrumento (encuesta de once preguntas), el medio de envío, el tiempo y la muestra (120 estudiantes). Ese conjunto es la descripción metodológica que hace replicable el estudio."
+        },
+        {
+          "letter": "C",
+          "text": "Al marco teórico, porque aporta antecedentes de otros investigadores",
+          "is_correct": false,
+          "feedback": "Incorrecto. El marco teórico presenta estudios previos, definiciones y marcos conceptuales. Este párrafo no cita a nadie ni define conceptos: describe una acción realizada por los propios autores."
+        },
+        {
+          "letter": "D",
+          "text": "A la discusión, porque compara los resultados obtenidos con lo que dicen otros autores",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todavía no hay resultados que comparar: el párrafo informa el procedimiento. La comparación con otros estudios corresponde a la sección de discusión."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Clasificar un párrafo según la sección del texto científico exige preguntar qué función cumple: plantear el problema, definir el marco, describir el método, mostrar resultados o interpretarlos. El verbo que describe el instrumento del estudio es la pista para localizar la metodología.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-10-2026-W36-el-texto-expositivo-y-cientifico-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W36-el-texto-expositivo-y-cientifico-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál de las siguientes decisiones hace que un párrafo expositivo sobre la calidad del agua de los ríos de Tunja cumpla con el requisito de objetividad?",
+      "context": "En un taller de lectura del Colegio Boyacá de Tunja, los estudiantes deben justificar por qué un texto sobre los ríos de la región es o no objetivo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Redactar en lenguaje poético, con adjetivos que describan la contaminación, para que el tema tenga impacto",
+          "is_correct": false,
+          "feedback": "Incorrecto. El lenguaje poético busca efectos emocionales y pertenece al texto literario. El expositivo informativo exige un registro objetivo que permita verificar lo afirmado."
+        },
+        {
+          "letter": "B",
+          "text": "Usar el «tú» para involucrar a los lectores y hacerlos sentir parte del río",
+          "is_correct": false,
+          "feedback": "Incorrecto. El trato directo es recurso del argumentativo o del artículo de opinión. La objetividad depende del contenido y del respaldo, no de la cercanía del trato."
+        },
+        {
+          "letter": "C",
+          "text": "Omitir los datos para que cada lector saque su propia conclusión sobre la contaminación",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dejar la conclusión en manos del lector elimina justamente el respaldo verificable. La objetividad se construye con evidencia explícita, no con su ausencia."
+        },
+        {
+          "letter": "D",
+          "text": "Sostener cada afirmación en datos verificables y fuentes citadas, evitando juicios en primera persona",
+          "is_correct": true,
+          "feedback": "Correcto. La objetividad se apoya en tres decisiones: datos comprobables, fuentes identificables y ausencia de juicios del autor. Así cualquier lector puede comprobar lo que se afirma."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar la objetividad de un texto expositivo implica revisar el tipo de evidencia que presenta y el grado de implicación del autor. Los datos verificables y las fuentes citadas son el criterio central, por lo que un texto puede ser muy claro y aun así no ser objetivo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-10-2026-W36-el-texto-expositivo-y-cientifico-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W36-el-texto-expositivo-y-cientifico-001-MASTERY-bundle-v8",
+      "statement": "Un grupo debe escribir un texto expositivo sobre el manejo del reciclaje en su barrio, dirigido a lectores sin conocimiento previo del tema. ¿Qué decisión favorece mejor la comprensión?",
+      "context": "En el Colegio La Agostina de Medellín, un equipo prepara un texto expositivo sobre el manejo del reciclaje en el barrio y debe decidir el orden de la información.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ordenar la información de lo general a lo particular y definir cada término antes de usarlo",
+          "is_correct": true,
+          "feedback": "Correcto. La progresión respeta el conocimiento previo del lector, y definir antes de usar evita presuponer saberes que el destinatario no tiene. Ambas decisiones sostienen la claridad del texto."
+        },
+        {
+          "letter": "B",
+          "text": "Comenzar con el vocabulario más técnico para demostrar que el equipo domina el tema",
+          "is_correct": false,
+          "feedback": "Incorrecto. Introducir tecnicismos sin definir presupone un conocimiento que el lector no tiene y produce incomprensión en lugar de informar con claridad."
+        },
+        {
+          "letter": "C",
+          "text": "Repetir varias veces la misma definición con palabras diferentes, sin añadir datos nuevos",
+          "is_correct": false,
+          "feedback": "Incorrecto. La repetición no aporta progreso informativo: es redundancia. Un texto expositivo avanza, y cada párrafo debe sumar información que el anterior no tenía."
+        },
+        {
+          "letter": "D",
+          "text": "Ordenar de lo particular a lo general para sorprender al lector y romper el esquema esperado",
+          "is_correct": false,
+          "feedback": "Incorrecto. La inversión del esquema dificulta la comprensión sin aportar claridad. El orden clásico va de lo general a lo particular porque el lector construye el concepto desde lo más amplio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La organización de un texto expositivo no es decorativa: define la experiencia de lectura. Progresión temática, definición previa de los tecnicismos y ausencia de redundancia son decisiones que se evalúan en la Competencia Lectora de la prueba Saber 11.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-10-2026-W36-el-texto-expositivo-y-cientifico-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W36-el-texto-expositivo-y-cientifico-001-MASTERY-bundle-v9",
+      "statement": "Un texto expositivo sobre la desertificación en La Guajira presenta, en este orden, el problema ambiental, sus causas, sus efectos y las propuestas de manejo. ¿Qué juicio describe mejor la organización de ese texto?",
+      "context": "En el Gimnasio Moderno de Bogotá, los estudiantes de décimo deben dictaminar si un texto sobre desertificación cumple con criterios de exposición.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es coherente porque usa párrafos largos sin subtítulos, lo que mantiene la atención del lector",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ausencia de subtítulos no es un criterio de coherencia; en los textos expositivos largos los subtítulos orientan la lectura. Aquí estás valorando la forma de presentación y no la lógica."
+        },
+        {
+          "letter": "B",
+          "text": "Es coherente porque comienza con las conclusiones y cierra con los datos, lo que resulta más original",
+          "is_correct": false,
+          "feedback": "Incorrecto. Justificas un orden inverso. La secuencia problema, causas, efectos y propuestas respeta la progresión lógica del razonamiento; invertirla dificulta reconstruir el sentido."
+        },
+        {
+          "letter": "C",
+          "text": "Es coherente porque cada idea se apoya en la anterior y la secuencia lleva al lector del problema a la solución",
+          "is_correct": true,
+          "feedback": "Correcto. La secuencia respeta la relación lógica entre las ideas y permite seguir el razonamiento completo: qué ocurre, por qué ocurre, qué consecuencias tiene y qué puede hacerse."
+        },
+        {
+          "letter": "D",
+          "text": "Es coherente porque repite la misma idea con distintas palabras para reforzar el mensaje central",
+          "is_correct": false,
+          "feedback": "Incorrecto. Repetir sin aportar información nueva es redundancia y, si se prolonga, produce regresión al inicio del párrafo. La coherencia se construye con sucesión lógica, no con insistencia."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar la coherencia de un texto expositivo exige reconstruir la relación lógica entre las ideas y comprobar si el texto avanza sin repeticiones ni saltos. La secuencia problema, causas, efectos y propuestas es un modelo clásico de organización temática.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-10-2026-W36-el-texto-expositivo-y-cientifico-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W36-el-texto-expositivo-y-cientifico-001-MASTERY-bundle-v10",
+      "statement": "Un grupo compara un artículo científico sobre el café de Caldas con una publicación de blog que trata el mismo tema. ¿Cuál afirmación justifica mejor la diferencia de fiabilidad entre ambos textos?",
+      "context": "En el Colegio Departamental de Cali, un taller compara un artículo científico sobre el café de Caldas con un blog divulgativo sobre el mismo tema.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambos son igual de fiables porque los dos están escritos y publicados en internet",
+          "is_correct": false,
+          "feedback": "Incorrecto. La existencia de un texto no garantiza su calidad. La diferencia de fiabilidad depende de la evidencia, la citación y el método, no del simple hecho de estar escrito."
+        },
+        {
+          "letter": "B",
+          "text": "El artículo es más fiable porque presenta datos verificables, cita sus fuentes y permite replicar el estudio, mientras el blog se apoya en opiniones",
+          "is_correct": true,
+          "feedback": "Correcto. La trazabilidad de la evidencia, es decir datos, fuentes citadas y procedimiento replicable, es lo que distingue a un texto científico de una publicación de opinión."
+        },
+        {
+          "letter": "C",
+          "text": "El artículo es menos útil para el público porque usa un vocabulario muy técnico",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estás confundiendo la precisión con la dificultad. Un texto bien redactado define sus términos, y el registro especializado es propio del género científico, no un defecto."
+        },
+        {
+          "letter": "D",
+          "text": "El blog es más fiable porque se dirige directamente al lector con un lenguaje cercano",
+          "is_correct": false,
+          "feedback": "Incorrecto. El registro cercano es propio de la divulgación, no una garantía de solidez. Un texto puede ser amable y estar tan poco fundamentado como uno técnico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comparar textos exige identificar qué criterio los diferencia. La presencia de datos verificables, fuentes citadas y un procedimiento que otro investigador puede repetir convierte una afirmación en conocimiento; sin eso, queda en opinión aunque esté bien escrita.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Critico-Intertextual",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-10-2026-W36-el-texto-expositivo-y-cientifico-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W36-el-texto-expositivo-y-cientifico-001-MASTERY-bundle-v11",
+      "statement": "Un colegio debe comunicar a las familias cómo se realizará la jornada de vacunación. No existe el propósito de convencerlas de nada, solo necesitan conocer el procedimiento. ¿Qué género textual es el más pertinente y por qué?",
+      "context": "En el Colegio Santander de Bucaramanga, el equipo de comunicación debe decidir qué género textual usar para informar a las familias sobre la jornada de vacunación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El texto expositivo, porque su propósito es describir cómo funciona la jornada sin convertir la comunicación en una discusión",
+          "is_correct": true,
+          "feedback": "Correcto. El criterio que decide es el propósito: describir un procedimiento corresponde al ámbito expositivo. El argumentativo solo sería pertinente si hubiera que defender una postura frente a la negativa de las familias."
+        },
+        {
+          "letter": "B",
+          "text": "El texto argumentativo, porque conviene persuadir a las familias para que lleven a sus hijos a la jornada",
+          "is_correct": false,
+          "feedback": "Incorrecto. Convertiste un encargo informativo en una tarea de persuasión. Si el propósito fuera convencer, entonces sí correspondería un argumentativo; aquí el enunciado descarta expresamente ese objetivo."
+        },
+        {
+          "letter": "C",
+          "text": "El texto expositivo, porque es un aviso breve destinado a publicarse en el boletín escolar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Identificaste el género correcto, pero lo justificaste por la extensión y el medio de publicación, que son rasgos de formato y no de intención comunicativa."
+        },
+        {
+          "letter": "D",
+          "text": "El texto argumentativo, porque las familias tienen dudas y hay que resolverlas antes de la jornada",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las dudas pertenecen al destinatario y aparecen en cualquier género. Un texto puede informar y además responder dudas sin convertirse en argumentativo; el propósito sigue siendo el criterio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La elección del género textual se define por la intención comunicativa, no por el medio, la extensión ni las circunstancias del destinatario. Identificar si un texto informa, narra o persuade es el ejercicio central de lectura en la prueba Saber 11.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-10-2026-W36-el-texto-expositivo-y-cientifico-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W36-el-texto-expositivo-y-cientifico-001-MASTERY-bundle-v12",
+      "statement": "Un centro de investigación publica un informe sobre el páramo andino basado en mediciones de temperatura y precipitación durante diez años; un periodista publica un artículo que critica el manejo de esas cifras sin aportar datos propios. ¿Cuál argumento justifica dar mayor credibilidad al informe?",
+      "context": "En el Colegio Ciudad de Tunja, de Sogamoso, los estudiantes de décimo comparan dos textos sobre el páramo andino para la prueba de cierre de la unidad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque es más largo y está mejor desarrollado que el artículo del periodista",
+          "is_correct": false,
+          "feedback": "Incorrecto. La extensión no es un criterio de validez. Un texto largo puede ser tan superficial como uno breve, y uno corto puede aportar datos comprobables."
+        },
+        {
+          "letter": "B",
+          "text": "Porque usa un vocabulario más especializado, lo que demuestra mayor profundidad",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estás confundiendo el registro técnico con el rigor. El vocabulario especializado es propio del género, pero no reemplaza la evidencia: un texto puede sonar científico y no citar ningún dato."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el centro de investigación es una institución más reconocida por el público general",
+          "is_correct": false,
+          "feedback": "Incorrecto. El prestigio de la institución no garantiza el acierto de un texto concreto. Una fuente ilustre puede equivocarse y una desconocida acertar: lo que se evalúa es el respaldo verificable."
+        },
+        {
+          "letter": "D",
+          "text": "Porque presenta datos verificables y fuentes citadas que el lector puede comprobar, mientras la crítica se sostiene sin evidencia propia",
+          "is_correct": true,
+          "feedback": "Correcto. La diferencia está en la trazabilidad: el informe permite auditar sus afirmaciones y el artículo se apoya en la lectura de un tercero. Solo el primero puede ponerse a prueba."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La lectura crítica supone contrastar fuentes y valorar la evidencia, no la fama del medio ni el tono del texto. Un informe con datos verificables puede ser auditado; una crítica sin datos propios se queda en el juicio y no resiste la comprobación.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Critico-Intertextual",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-10-2026-W36-el-texto-expositivo-y-cientifico-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}
