@@ -194,7 +194,7 @@ El desenlace es la parte de la trama donde la tensión principal encuentra salid
 
 ### Opciones
 - [ ] A)  El número de personajes, porque el narrador limitado deja de conocer a los secundarios
-  <!-- feedback: Incorrecto. El cambio de narrator no elimina personajes: modifica lo que el lector puede saber de ellos, pero el conjunto de personajes sigue presente en la obra. -->
+  <!-- feedback: Incorrecto. El cambio de narrador no elimina personajes: modifica lo que el lector puede saber de ellos, pero el conjunto de personajes sigue presente en la obra. -->
 - [ ] B)  La época en que ocurre la historia, porque el narrador pierde la memoria de lo anterior
   <!-- feedback: Incorrecto. Saber menos no reescribe la cronología de los hechos: la historia sigue ubicándose en el mismo tiempo, solo cambia cuánto de ella se le cuenta al lector. -->
 - [x] C)  El acceso a la realidad, porque el lector pasa de recibir un saber total a trabajar con información limitada
