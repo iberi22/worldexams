@@ -1,12 +1,380 @@
 {
   "metadata": {
     "grade": 3,
-    "subject": "lectura-critica",
+    "subject": "lectura_critica",
     "country": "co",
     "pack_id": "co-week-35-grade-3-subject-lectura_critica",
     "generated_at": "2026-09-29T19:06:57.871Z"
   },
   "questions": [
+    {
+      "id": "CO-LC-3-2026-W35-el-cuaderno-de-lectura-y-el-registro-de-lo-leido-001-MASTERY-bundle-v1",
+      "statement": "En el Texto 1, ¿qué libro registró Camila en su cuaderno de lectura el miércoles?",
+      "context": "En el salón de la profesora Marta en Pereira, los niños buscan el libro que registró Camila.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El arrullo de la cigarra",
+          "is_correct": false,
+          "feedback": "Error. Ese libro lo mostró Isabela el lunes, no Camila el miércoles."
+        },
+        {
+          "letter": "B",
+          "text": "La ficha de lectura",
+          "is_correct": false,
+          "feedback": "Error. Ese es el título que la profesora pinnó en el tablero, no el nombre de un libro del cuaderno."
+        },
+        {
+          "letter": "C",
+          "text": "El zorro y la luna",
+          "is_correct": true,
+          "feedback": "Correcto. El Texto 1 dice que Camila registró el cuento El zorro y la luna, de Tomás Rivera."
+        },
+        {
+          "letter": "D",
+          "text": "El catálogo de la biblioteca",
+          "is_correct": false,
+          "feedback": "Error. El catálogo no es un libro, es la hoja con dieciocho títulos que armaron el jueves."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Este ejercicio entrena la localización de un dato escrito de manera explícita en el texto. Los estudiantes de tercero aprenden que la respuesta está en el párrafo y que se puede volver a leer para comprobarla. Reconocer títulos y autores los prepara para llenar correctamente la ficha de su propio cuaderno.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-3-2026-W35-el-cuaderno-de-lectura-y-el-registro-de-lo-leido-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W35-el-cuaderno-de-lectura-y-el-registro-de-lo-leido-001-MASTERY-bundle-v2",
+      "statement": "Según el Texto 2, ¿qué diferencia hay entre una opinión con razones y una afirmación sin sustentar?",
+      "context": "La profesora Marta pregunta a la clase qué diferencia hay entre opinar y afirmar sin justificar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La opinión con razones usa palabras difíciles y la afirmación sin sustentar usa palabras sencillas",
+          "is_correct": false,
+          "feedback": "Error. La diferencia no está en el nivel de las palabras, sino en si la afirmación explica por qué."
+        },
+        {
+          "letter": "B",
+          "text": "La opinión con razones dice qué le pareció y también por qué, mientras que la afirmación sin sustentar dice solamente qué le pareció",
+          "is_correct": true,
+          "feedback": "Correcto. El Texto 2 muestra que \"me gustó mucho\" a secas no sirve, y que hace falta agregar la razón."
+        },
+        {
+          "letter": "C",
+          "text": "Las dos dicen lo mismo, pero la opinión con razones se escribe en el cuaderno y la otra en la cartulina",
+          "is_correct": false,
+          "feedback": "Error. El lugar donde se escribe no cambia si la opinión tiene o no tiene razones que la sostengan."
+        },
+        {
+          "letter": "D",
+          "text": "La afirmación sin sustentar es mejor, porque ocupa menos espacio en la ficha",
+          "is_correct": false,
+          "feedback": "Error. Ocupar menos espacio no es una virtud aquí, porque una opinión sin sustentar no le sirve a nadie."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comprender esta diferencia evita que los estudiantes confundan opinar con afirmar un gusto cualquiera. El Texto 2 muestra que la opinión del cuaderno lleva consigo un porqué. Entender ese criterio es el punto de partida para escribir fichas que sirvan para comparar lecturas más adelante.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-3-2026-W35-el-cuaderno-de-lectura-y-el-registro-de-lo-leido-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W35-el-cuaderno-de-lectura-y-el-registro-de-lo-leido-001-MASTERY-bundle-v3",
+      "statement": "Isabela escribe esta opinión en su ficha: \"Me gustó mucho porque la niña Mohana dejó el miedo y durmió tranquila\". Según el Texto 2, ¿qué parte de esa oración es la razón que sostiene la opinión?",
+      "context": "En el salón de Manizales, Isabela escribe su propia opinión en la primera página del cuaderno.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La palabra \"gustó\", porque ahí queda dicho lo que la niña siente",
+          "is_correct": false,
+          "feedback": "Error. Sentir algo es la opinión, pero la palabra \"gustó\" por sí sola no la sostiene."
+        },
+        {
+          "letter": "B",
+          "text": "El título \"El arrullo de la cigarra\", porque toda ficha empieza con el nombre del libro",
+          "is_correct": false,
+          "feedback": "Error. El título identifica el libro, pero no explica por qué le gustó a Isabela."
+        },
+        {
+          "letter": "C",
+          "text": "La parte que dice \"porque la niña Mohana dejó el miedo y durmió tranquila\"",
+          "is_correct": true,
+          "feedback": "Correcto. Ese \"porque\" y lo que viene después son la razón que respalda la opinión, tal como lo pide el Texto 2."
+        },
+        {
+          "letter": "D",
+          "text": "La fecha 8 de agosto, porque muestra que Isabela terminó la lectura antes del lunes",
+          "is_correct": false,
+          "feedback": "Error. La fecha dice cuándo terminó el libro, pero no apoya la opinión que ella escribió."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Aplicar la regla de la opinión con razones enseña a los estudiantes a mirar su propia escritura con criterio. Muchas veces dicen \"me gustó\" y creen que ya terminaron, cuando en realidad falta la parte que explica el porqué. Reconocer dónde está la razón les permite escribir fichas que después sirvan para comparar libros.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-3-2026-W35-el-cuaderno-de-lectura-y-el-registro-de-lo-leido-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W35-el-cuaderno-de-lectura-y-el-registro-de-lo-leido-001-MASTERY-bundle-v4",
+      "statement": "Un niño de Villavicencio escribió su opinión así: \"El libro me gustó mucho porque el zorro fue valiente y porque me gustó mucho y porque la luna era grande\". ¿Qué problema tiene esa oración para la profesora que revisa las fichas?",
+      "context": "En Villavicencio, un niño entrega su ficha y la profesora descubre un problema en la oración.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Usa la palabra \"porque\" varias veces, y lo correcto es usarla una sola vez en toda la ficha",
+          "is_correct": false,
+          "feedback": "Error. No existe una regla de cuántas veces se puede usar \"porque\"; lo que importa es que las ideas se entiendan."
+        },
+        {
+          "letter": "B",
+          "text": "Le falta la fecha de la lectura, porque toda opinión tiene que terminar con la fecha escrita",
+          "is_correct": false,
+          "feedback": "Error. La fecha es otra parte de la ficha y no se coloca al final de la opinión."
+        },
+        {
+          "letter": "C",
+          "text": "Es demasiado corta, porque una opinión con razones necesita por lo menos cinco oraciones",
+          "is_correct": false,
+          "feedback": "Error. No hay un número de oraciones exigido, porque lo que se pide es una razón que sostenga la opinión."
+        },
+        {
+          "letter": "D",
+          "text": "Encadena varias ideas y repite \"me gustó mucho\", así que la razón queda mezclada y no se entiende bien",
+          "is_correct": true,
+          "feedback": "Correcto. Al unirlo todo con la conjunción, el lector pierde de vista cuál es la razón y cuál es la opinión."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Revisar cómo está construida la oración de la ficha enseña que la forma también afecta la comprensión. Cuando todo va unido con la conjunción y la misma frase se repite, la opinión se vuelve confusa. Separar la opinión en dos oraciones cortas es una recomendación sencilla que los estudiantes pueden aplicar de inmediato.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-3-2026-W35-el-cuaderno-de-lectura-y-el-registro-de-lo-leido-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W35-el-cuaderno-de-lectura-y-el-registro-de-lo-leido-001-MASTERY-bundle-v5",
+      "statement": "Tomás tiene fichas de nueve libros en su cuaderno de lectura, pero cada una dice algo distinto y no puede saber cuál le gustó más ni por qué. ¿Cuál es la mejor forma de usar el cuaderno para comparar sus lecturas?",
+      "context": "En Cali, un estudiante tiene muchas fichas pero no logra decidir cuál lectura le gustó más.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Releer la parte de opinión de cada ficha y ver qué razones se repiten, porque en las nueve están el título, el autor, la fecha y el resumen",
+          "is_correct": true,
+          "feedback": "Correcto. Al reunir las partes de las fichas se puede ver qué libro le gustó más y con qué razones."
+        },
+        {
+          "letter": "B",
+          "text": "Contar cuántos títulos tiene escritos, porque el número de fichas ya dice cuál libro le gustó más",
+          "is_correct": false,
+          "feedback": "Error. Tener muchas fichas no dice nada sobre cuáles gustaron, porque el cuaderno registra también las lecturas que no gustaron."
+        },
+        {
+          "letter": "C",
+          "text": "Comparar solamente las fechas, porque el libro que leyó más tarde fue el que más le gustó",
+          "is_correct": false,
+          "feedback": "Error. La fecha dice cuándo terminó la lectura, no qué opinión tuvo de ella."
+        },
+        {
+          "letter": "D",
+          "text": "Borrar las fichas de los libros que no le gustaron, así solo quedan las que le sirvieron",
+          "is_correct": false,
+          "feedback": "Error. Borrar parte del registro quita justamente la posibilidad de comparar, que es uno de los usos del cuaderno."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Usar el cuaderno como fuente de comparación es lo que le da valor a lo que el estudiante anota. El Texto 2 explica que el registro sirve para recordar, para comparar y para ver el avance del año. Practicar esta comparación en clase enseña que anotar no es un trámite, sino una manera de organizar lo que se ha leído.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-3-2026-W35-el-cuaderno-de-lectura-y-el-registro-de-lo-leido-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W35-el-cuaderno-de-lectura-y-el-registro-de-lo-leido-001-MASTERY-bundle-v6",
+      "statement": "Daniela abre su cuaderno de lectura en Pasto y compara su ficha de agosto con la de septiembre. Al leerlas dice que en septiembre sus resúmenes son más largos, usa palabras más precisas y ya no necesita que le recuerden el nombre del autor. ¿Qué le deja ver esa comparación?",
+      "context": "En Pasto, una niña abre su cuaderno de lectura y compara sus fichas de agosto y de septiembre.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que en septiembre leyó muchos más libros, porque los resúmenes más largos prueban que leyó más",
+          "is_correct": false,
+          "feedback": "Error. La longitud del resumen depende de cómo se escribe, no de la cantidad de libros leídos."
+        },
+        {
+          "letter": "B",
+          "text": "Que el cuaderno de lectura sirve para ver el propio progreso, porque la comparación muestra cómo cambió su forma de escribir",
+          "is_correct": true,
+          "feedback": "Correcto. Solo con las fichas guardadas se puede notar ese cambio entre agosto y septiembre."
+        },
+        {
+          "letter": "C",
+          "text": "Que en agosto escribió mucho peor, porque eso es lo único que demuestra que sus fichas son distintas",
+          "is_correct": false,
+          "feedback": "Error. La comparación no es una competencia entre meses, sino la evidencia de que ella está aprendiendo."
+        },
+        {
+          "letter": "D",
+          "text": "Que la profesora debería escribir las fichas de septiembre, porque ella conoce mejor los libros",
+          "is_correct": false,
+          "feedback": "Error. El registro personal es del estudiante, y la profesora solo lo usa para seguir el progreso."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Inferir a partir de la comparación de fichas enseña a ver el cuaderno como un archivo con historial. El estudiante no solo anota: revisa y nota que escribe mejor que antes. Reconocer ese avance en sus propias palabras refuerza las ganas de seguir leyendo durante todo el año.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Inferencial",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LC-3-2026-W35-el-cuaderno-de-lectura-y-el-registro-de-lo-leido-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W35-el-cuaderno-de-lectura-y-el-registro-de-lo-leido-001-MASTERY-bundle-v7",
+      "statement": "En Cartagena, la bibliotecaria propuso borrar los cuadernos de lectura de la clase y dejar solamente una lista pegada en la pared con los títulos de los libros. Según el Texto 2, ¿cuál es la mejor respuesta para evaluar esa propuesta?",
+      "context": "En Cartagena, la bibliotecaria propone una medida para la clase de tercero.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La propuesta sirve, porque con una lista los niños obtienen la información más importante en menos tiempo",
+          "is_correct": false,
+          "feedback": "Error. Una lista de títulos no guarda el resumen ni la opinión con razones, que es justamente lo que hace útil al cuaderno."
+        },
+        {
+          "letter": "B",
+          "text": "La propuesta sirve, porque el cuaderno de lectura solo sirve para apuntar nombres de libros",
+          "is_correct": false,
+          "feedback": "Error. El Texto 2 dice que la ficha tiene cinco partes, y que el registro sirve para comparar y ver el avance."
+        },
+        {
+          "letter": "C",
+          "text": "La propuesta no sirve, porque los cuadernos son de un material que se daña más pronto que el papel",
+          "is_correct": false,
+          "feedback": "Error. La razón no es el material del cuaderno, sino la información que se perdería al quitarlos."
+        },
+        {
+          "letter": "D",
+          "text": "La propuesta no sirve, porque en cada ficha se anota el título, el autor, la fecha, un resumen breve y la opinión con razones",
+          "is_correct": true,
+          "feedback": "Correcto. Esa respuesta muestra qué se perdería y con qué criterio se puede evaluar la propuesta de la bibliotecaria."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar una propuesta con argumentos enseña a los estudiantes a defender una manera de entender la lectura. La respuesta correcta no se apoya en opiniones personales, sino en las partes que la ficha debe tener. Este tipo de discusión les da herramientas para explicar su criterio a otras personas con claridad.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-3-2026-W35-el-cuaderno-de-lectura-y-el-registro-de-lo-leido-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W35-el-cuaderno-de-lectura-y-el-registro-de-lo-leido-001-MASTERY-bundle-v8",
+      "statement": "¿Qué relación hay entre el Texto 1 y el Texto 2 de esta semana?",
+      "context": "En el taller de lectura de Barranquilla se revisan los dos textos de la semana juntos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los dos textos cuentan la misma historia palabra por palabra, porque los dos repiten la semana de la profesora",
+          "is_correct": false,
+          "feedback": "Error. Los textos no se repiten: uno narra lo que pasó y el otro explica una práctica de lectura."
+        },
+        {
+          "letter": "B",
+          "text": "El Texto 1 sirve para aprender a escribir y el Texto 2 sirve para aprender a leer, así que no se relacionan",
+          "is_correct": false,
+          "feedback": "Error. Los dos hablan de la misma práctica, que es justamente anotar lo que se leyó en el cuaderno."
+        },
+        {
+          "letter": "C",
+          "text": "El Texto 1 muestra el uso del cuaderno en un salón de tercero y el Texto 2 explica las cinco partes de la ficha y para qué sirve",
+          "is_correct": true,
+          "feedback": "Correcto. Un texto muestra con hechos y el otro explica la regla, de manera que juntos se entienden mejor."
+        },
+        {
+          "letter": "D",
+          "text": "El Texto 2 ocurre antes que el Texto 1, y por eso los niños del salón todavía no conocen el cuaderno",
+          "is_correct": false,
+          "feedback": "Error. En el Texto 1 los niños ya usan el cuaderno de lectura, así que el orden de los hechos es al revés."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Reconocer cómo se relacionan dos textos enseña a los estudiantes que no se leen por separado. Ver un ejemplo real y luego su explicación ayuda a entender la diferencia entre mostrar una práctica y describirla. Esta mirada prepara la base para la lectura de textos informativos en los grados siguientes.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-3-2026-W35-el-cuaderno-de-lectura-y-el-registro-de-lo-leido-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
     {
       "id": "CO-LC-3-2026-W35-mi-relato-favorito-001-MASTERY-bundle-v1",
       "statement": "En el Texto 1, ¿cuál fue el relato favorito de Salomé?",
@@ -49,7 +417,7 @@
       "periodo": 35,
       "protocol_version": "5.2",
       "cefr_level": null,
-      "subject": "lectura-critica",
+      "subject": "lectura_critica",
       "grade": 3,
       "country": "co"
     },
@@ -95,7 +463,7 @@
       "periodo": 35,
       "protocol_version": "5.2",
       "cefr_level": null,
-      "subject": "lectura-critica",
+      "subject": "lectura_critica",
       "grade": 3,
       "country": "co"
     },
@@ -141,7 +509,7 @@
       "periodo": 35,
       "protocol_version": "5.2",
       "cefr_level": null,
-      "subject": "lectura-critica",
+      "subject": "lectura_critica",
       "grade": 3,
       "country": "co"
     },
@@ -187,7 +555,7 @@
       "periodo": 35,
       "protocol_version": "5.2",
       "cefr_level": null,
-      "subject": "lectura-critica",
+      "subject": "lectura_critica",
       "grade": 3,
       "country": "co"
     },
@@ -233,7 +601,7 @@
       "periodo": 35,
       "protocol_version": "5.2",
       "cefr_level": null,
-      "subject": "lectura-critica",
+      "subject": "lectura_critica",
       "grade": 3,
       "country": "co"
     },
@@ -279,7 +647,7 @@
       "periodo": 35,
       "protocol_version": "5.2",
       "cefr_level": null,
-      "subject": "lectura-critica",
+      "subject": "lectura_critica",
       "grade": 3,
       "country": "co"
     },
@@ -325,7 +693,7 @@
       "periodo": 35,
       "protocol_version": "5.2",
       "cefr_level": null,
-      "subject": "lectura-critica",
+      "subject": "lectura_critica",
       "grade": 3,
       "country": "co"
     },
@@ -371,7 +739,7 @@
       "periodo": 35,
       "protocol_version": "5.2",
       "cefr_level": null,
-      "subject": "lectura-critica",
+      "subject": "lectura_critica",
       "grade": 3,
       "country": "co"
     }
