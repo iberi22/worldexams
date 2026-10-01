@@ -37,7 +37,7 @@ What color is an apple usually?
 ### Opciones
 - [x] A) Red <!-- feedback: An apple is usually bright red, so "red" is the color students learn first for this fruit. -->
 - [ ] B) Blue <!-- feedback: Blue is not a color of apples; it is the color the sky often has, not this fruit. -->
-- [ ] C) Purple <!-- feedback: Blue is not a color of apples; it is the color the sky often has, not this fruit. -->
+- [ ] C) Purple <!-- feedback: Purple is not an apple color; it is the color of grapes or plums. -->
 - [ ] D) Grey <!-- feedback: Grey is not an apple color; it describes clouds or an overcast sky. -->
 
 ### Explicación Pedagógica

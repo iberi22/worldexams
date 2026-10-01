@@ -352,9 +352,9 @@ La división de un segmento en una razón $r$ utiliza la fórmula $x = (x_1 + r 
 ¿Cuál es el ángulo agudo aproximado entre las rectas $y = 2x + 1$ y $y = -3x + 5$?
 
 ### Opciones
-- [ ] A) $30^\circ$ <!-- feedback: Incorrecto. -->
+- [ ] A) $30^\circ$ <!-- feedback: 30 grados exigiría que la tangente del ángulo fuera aproximadamente 0,58. Aquí |(m₂ - m₁)/(1 + m₁m₂)| = |(-3 - 2)/(1 + 2·(-3))| = |-5/-5| = 1, y el ángulo cuya tangente es 1 es 45 grados. -->
 - [x] D) $45^\circ$ <!-- feedback: Correcto. $\tan(\theta) = |(m_2 - m_1) / (1 + m_1 m_2)| = |(-3 - 2) / (1 + (2)(-3))| = |-5 / -5| = 1$. $\arctan(1) = 45^\circ$. -->
-- [ ] B) $60^\circ$ <!-- feedback: Incorrecto. -->
+- [ ] B) $60^\circ$ <!-- feedback: 60 grados tiene tangente √3, y ese valor no aparece al aplicar la fórmula del ángulo entre rectas a estas dos pendientes. -->
 - [ ] C) $90^\circ$ <!-- feedback: Solo si el producto de pendientes fuera $-1$, pero $2 \times (-3) = -6$. -->
 
 ### Explicacion Pedagogica

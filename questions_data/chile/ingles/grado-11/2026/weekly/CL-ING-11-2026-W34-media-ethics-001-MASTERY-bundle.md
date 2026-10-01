@@ -155,10 +155,10 @@ Libel is a published false statement that is damaging to a person's reputation; 
 The news outlet's editorial practices are being scrutinized following the recent allegations of plagiarism.
 
 ### Opciones
-- [ ] A) are scrutinizing <!-- feedback: Incorrect. Active voice. -->
-- [x] B) are being scrutinized <!-- feedback: Correct. Present continuous passive for an ongoing investigation. -->
-- [ ] C) scrutinized <!-- feedback: Incorrect. Past simple. -->
-- [ ] D) have scrutinized <!-- feedback: Incorrect. Active voice. -->
+- [ ] A) are scrutinizing <!-- feedback: 'Are scrutinizing' is active and would name the scrutinizers as the subject. -->
+- [x] B) are being scrutinized <!-- feedback: The present continuous passive marks the scrutiny as an investigation still under way. -->
+- [ ] C) scrutinized <!-- feedback: 'Scrutinized' alone has no auxiliary and cannot form a tense. -->
+- [ ] D) have scrutinized <!-- feedback: 'Have scrutinized' is present perfect active and would name the investigating party. -->
 
 ### Explicacion Pedagogica
 The present continuous passive describes the current, active examination of the organization's ethics.
@@ -175,10 +175,10 @@ The present continuous passive describes the current, active examination of the 
 Whistleblowers play a crucial role in exposing corporate misconduct that would otherwise remain hidden from the public.
 
 ### Opciones
-- [ ] A) achievement <!-- feedback: Incorrect. Misconduct is negative. -->
-- [x] B) misconduct <!-- feedback: Correct. Misconduct is unacceptable or improper behavior. -->
-- [ ] C) transparency <!-- feedback: Incorrect. Misconduct is the thing being exposed. -->
-- [ ] D) efficiency <!-- feedback: Incorrect. -->
+- [ ] A) achievement <!-- feedback: An achievement is a positive result; the sentence is about wrongdoing being revealed. -->
+- [x] B) misconduct <!-- feedback: Misconduct is improper or unacceptable behaviour, which is what the whistleblowers expose. -->
+- [ ] C) transparency <!-- feedback: Transparency is the quality of being open, not the wrongdoing itself. -->
+- [ ] D) efficiency <!-- feedback: Efficiency is about working well and quickly, unrelated to corporate wrongdoing. -->
 
 ### Explicacion Pedagogica
 'Misconduct' is the formal term for the unethical or illegal actions that a whistleblower reveals.
@@ -195,10 +195,10 @@ Whistleblowers play a crucial role in exposing corporate misconduct that would o
 The code of ethics stated that journalists shouldn't accept gifts from the people they cover.
 
 ### Opciones
-- [ ] A) don't <!-- feedback: Incorrect. Backshifted in reported speech. -->
-- [x] D) shouldn't <!-- feedback: Correct. Backshifted from 'should not' or expressing advice within the past statement. -->
-- [ ] B) won't <!-- feedback: Incorrect. -->
-- [ ] C) can't <!-- feedback: Incorrect. -->
+- [ ] A) don't <!-- feedback: 'Don't' is the negative of 'do', but the rule here is 'should not', which backshifts to 'shouldn't'. -->
+- [x] D) shouldn't <!-- feedback: In reported speech 'should not' backshifts to 'shouldn't', matching a code of ethics stated in the past. -->
+- [ ] B) won't <!-- feedback: 'Won't' expresses refusal or future, which is not what the code prohibits. -->
+- [ ] C) can't <!-- feedback: 'Can't' expresses inability, not a rule of conduct. -->
 
 ### Explicacion Pedagogica
 In reported guidelines, 'shouldn't' is used to express the negative advice or requirement contained in the original code.
@@ -295,10 +295,10 @@ Transparency involves being open and honest about how information is gathered an
 You shouldn't reveal your sources unless it is absolutely necessary for the safety of others.
 
 ### Opciones
-- [ ] A) if <!-- feedback: Incorrect. 'If it is necessary' would mean don't reveal if it *is* necessary. -->
-- [x] B) unless <!-- feedback: Correct. 'Unless' means 'if not'. -->
-- [ ] C) although <!-- feedback: Incorrect. Contrast. -->
-- [ ] D) whether <!-- feedback: Incorrect. Choice. -->
+- [ ] A) if <!-- feedback: 'If' followed by a positive 'is necessary' would reverse the meaning: it would say do reveal when necessary. -->
+- [x] B) unless <!-- feedback: 'Unless' means 'if not', so the sources are revealed only when it is NOT necessary. -->
+- [ ] C) although <!-- feedback: 'Although' introduces a contrast, which does not carry the condition of exception. -->
+- [ ] D) whether <!-- feedback: 'Whether' introduces a choice between alternatives, not the exception meant here. -->
 
 ### Explicacion Pedagogica
 'Unless' sets the rare and extreme condition (safety) under which a journalist might break the rule of protecting sources.
@@ -335,10 +335,10 @@ The author concludes that rigorous fact-checking is the best defense against the
 A conflict of interest occurs when a journalist's personal involvement in a story might compromise their objectivity.
 
 ### Opciones
-- [ ] A) resolution <!-- feedback: Incorrect. -->
-- [x] D) conflict <!-- feedback: Correct. Specific term for personal interest interfering with duty. -->
-- [ ] B) success <!-- feedback: Incorrect. -->
-- [ ] C) agreement <!-- feedback: Incorrect. -->
+- [ ] A) resolution <!-- feedback: A resolution ends a dispute; here the issue is a clash of interests. -->
+- [x] D) conflict <!-- feedback: A conflict of interest is the term for personal involvement that could compromise impartiality. -->
+- [ ] B) success <!-- feedback: Success means achieving a goal, which has no bearing on compromising objectivity. -->
+- [ ] C) agreement <!-- feedback: Agreement means harmony, the opposite of a conflict. -->
 
 ### Explicacion Pedagogica
 'Conflict of interest' is the standard term for when professional duty is at risk due to personal ties or benefits.
@@ -375,10 +375,10 @@ The 'wish + past perfect' structure allows for the expression of ethical regret 
 Journalistic integrity involves a commitment to accuracy, fairness, and ethical behavior in reporting.
 
 ### Opciones
-- [ ] B) Greed <!-- feedback: Incorrect. Negative. -->
-- [x] A) integrity <!-- feedback: Correct. The quality of being honest and having strong moral principles. -->
-- [ ] C) Popularity <!-- feedback: Incorrect. Ratings-focused. -->
-- [ ] D) Speed <!-- feedback: Incorrect. Often sacrifices accuracy. -->
+- [ ] B) Greed <!-- feedback: Greed is a selfish desire for more, which journalism rejects. -->
+- [x] A) integrity <!-- feedback: Integrity is the quality of being honest and holding firm moral principles, which is what the sentence describes. -->
+- [ ] C) Popularity <!-- feedback: Popularity is audience approval, which journalism cannot put first. -->
+- [ ] D) Speed <!-- feedback: Speed can even work against accuracy, so it is not what integrity means here. -->
 
 ### Explicacion Pedagogica
 'Integrity' is the comprehensive term for the moral and professional soundness required in journalism.
@@ -395,10 +395,10 @@ Journalistic integrity involves a commitment to accuracy, fairness, and ethical 
 The ombudsman argued that the media needed to do a better job of correcting its mistakes.
 
 ### Opciones
-- [ ] A) needs <!-- feedback: Incorrect. Backshifted in reported speech. -->
-- [x] B) needed <!-- feedback: Correct. Backshifted from 'needs' to 'needed' in reported speech. -->
-- [ ] C) has needed <!-- feedback: Incorrect. -->
-- [ ] D) will need <!-- feedback: Incorrect. Future. -->
+- [ ] A) needs <!-- feedback: 'Needs' is the present tense; in reported speech the verb backshifts to 'needed'. -->
+- [x] B) needed <!-- feedback: In reported speech 'needs' backshifts to 'needed', matching the ombudsman's past argument. -->
+- [ ] C) has needed <!-- feedback: 'Has needed' is a present perfect form, which does not backshift this way. -->
+- [ ] D) will need <!-- feedback: 'Will need' is future, but the argument was made in the past. -->
 
 ### Explicacion Pedagogica
 In reported speech, we backshift the tense of the original statement to show it was said in the past.

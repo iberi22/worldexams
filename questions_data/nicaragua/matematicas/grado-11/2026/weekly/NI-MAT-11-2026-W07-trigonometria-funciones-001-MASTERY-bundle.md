@@ -86,8 +86,8 @@ Tanto el seno como el coseno representan coordenadas en el círculo unitario de 
 ¿Cuál de las siguientes funciones trigonométricas tiene asíntotas verticales?
 
 ### Opciones
-- [ ] A) Seno <!-- feedback: Incorrecto. Es una función continua y suave para todo el dominio real. -->
-- [ ] B) Coseno <!-- feedback: Incorrecto. Es una función continua y suave para todo el dominio real. -->
+- [ ] A) Seno <!-- feedback: El seno está definida y es continua en todo R, así que su gráfica no tiene asíntotas verticales de ningún tipo. -->
+- [ ] B) Coseno <!-- feedback: El coseno también es continua y suave en todo R: en los puntos donde vale cero, como 90 grados, la función sigue definida y vale cero. -->
 - [x] D) Tangente <!-- feedback: Correcto. La tangente no está definida donde el coseno es cero (ej. 90°, 270°), generando asíntotas. -->
 - [ ] C) Todas las funciones armónicas. <!-- feedback: Incorrecto. El seno y el coseno no tienen asíntotas. -->
 

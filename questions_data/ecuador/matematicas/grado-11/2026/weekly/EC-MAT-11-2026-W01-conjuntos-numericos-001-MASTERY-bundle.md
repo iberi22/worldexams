@@ -31,13 +31,13 @@ bundle_index: 1
 
 ### Opciones
 - [ ] A) $\mathbb{N}$ (Números Naturales)
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: $3.75$ tiene parte decimal, y los números naturales no la tienen; además el resultado no es entero. -->
 - [ ] B) $\mathbb{I}$ (Números Irracionales)
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Todo decimal finito, como $3.75$, es racional; los irracionales son los decimales infinitos, como $\sqrt{2}$. -->
 - [ ] C) $\mathbb{Z}$ (Números Enteros)
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: $3.75$ no es entero porque lleva parte decimal; los enteros no admiten decimales. -->
 - [x] D) $\mathbb{Q}$ (Números Racionales)
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. $15/4 = 3.75$ se puede escribir como fracción de dos enteros, que es la definición de número racional. -->
 
 ### Explicacion Pedagogica
 La relación 15/4 representa una fracción de números enteros, lo cual define exactamente a un número racional, denotado por $\mathbb{Q}$.
@@ -55,13 +55,13 @@ La relación 15/4 representa una fracción de números enteros, lo cual define e
 
 ### Opciones
 - [ ] A) $\mathbb{I}$ (Números Irracionales)
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Todo decimal finito, como $3.75$, es racional; los irracionales son los decimales infinitos, como $\sqrt{2}$. -->
 - [ ] B) $\mathbb{N}$ (Números Naturales)
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: $3.75$ tiene parte decimal, y los números naturales no la tienen; además el resultado no es entero. -->
 - [x] C) $\mathbb{Q}$ (Números Racionales)
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. $15/4 = 3.75$ se puede escribir como fracción de dos enteros, que es la definición de número racional. -->
 - [ ] D) $\mathbb{Z}$ (Números Enteros)
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: $3.75$ no es entero porque lleva parte decimal; los enteros no admiten decimales. -->
 
 ### Explicacion Pedagogica
 La relación 15/4 representa una fracción de números enteros, lo cual define exactamente a un número racional, denotado por $\mathbb{Q}$.
@@ -79,13 +79,13 @@ La relación 15/4 representa una fracción de números enteros, lo cual define e
 
 ### Opciones
 - [ ] A) $\mathbb{N}$ (Números Naturales)
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: $3.75$ tiene parte decimal, y los números naturales no la tienen; además el resultado no es entero. -->
 - [ ] B) $\mathbb{Z}$ (Números Enteros)
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: $3.75$ no es entero porque lleva parte decimal; los enteros no admiten decimales. -->
 - [ ] C) $\mathbb{I}$ (Números Irracionales)
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Todo decimal finito, como $3.75$, es racional; los irracionales son los decimales infinitos, como $\sqrt{2}$. -->
 - [x] D) $\mathbb{Q}$ (Números Racionales)
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. $15/4 = 3.75$ se puede escribir como fracción de dos enteros, que es la definición de número racional. -->
 
 ### Explicacion Pedagogica
 La relación 15/4 representa una fracción de números enteros, lo cual define exactamente a un número racional, denotado por $\mathbb{Q}$.
@@ -103,13 +103,13 @@ La relación 15/4 representa una fracción de números enteros, lo cual define e
 
 ### Opciones
 - [x] A) $\mathbb{Q}$ (Números Racionales)
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. $15/4 = 3.75$ se puede escribir como fracción de dos enteros, que es la definición de número racional. -->
 - [ ] B) $\mathbb{Z}$ (Números Enteros)
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: $3.75$ no es entero porque lleva parte decimal; los enteros no admiten decimales. -->
 - [ ] C) $\mathbb{I}$ (Números Irracionales)
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Todo decimal finito, como $3.75$, es racional; los irracionales son los decimales infinitos, como $\sqrt{2}$. -->
 - [ ] D) $\mathbb{N}$ (Números Naturales)
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: $3.75$ tiene parte decimal, y los números naturales no la tienen; además el resultado no es entero. -->
 
 ### Explicacion Pedagogica
 La relación 15/4 representa una fracción de números enteros, lo cual define exactamente a un número racional, denotado por $\mathbb{Q}$.
@@ -127,13 +127,13 @@ Un termómetro ambiental en la ciudad de Cuenca registra una temperatura de $-3.
 
 ### Opciones
 - [ ] A) Número natural negativo
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: En $\mathbb{N}$ no existen los números negativos, y menos aún con parte decimal como $-3.5$. -->
 - [ ] B) Número entero negativo
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: $-3.5$ no es entero porque tiene parte decimal .5; los enteros son $\ldots, -3, -2, -1, 0, 1, \ldots$. -->
 - [x] C) Número decimal racional negativo
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. $-3.5$ es negativo, tiene parte decimal finita y por eso es racional: exactamente $\frac{-7}{2}$. -->
 - [ ] D) Número irracional negativo
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Un decimal finito siempre es racional: $-3.5 = -7/2$. Los irracionales negativos, como $-\sqrt{2}$, tienen decimales infinitos. -->
 
 ### Explicacion Pedagogica
 $-3.5$ puede expresarse como la fracción $-7/2$, por lo tanto, es un número racional decimal. No es entero porque tiene parte decimal no nula.
@@ -151,13 +151,13 @@ Un termómetro ambiental en la ciudad de Cuenca registra una temperatura de $-3.
 
 ### Opciones
 - [ ] A) Número natural negativo
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: En $\mathbb{N}$ no existen los números negativos, y menos aún con parte decimal como $-3.5$. -->
 - [ ] B) Número entero negativo
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: $-3.5$ no es entero porque tiene parte decimal .5; los enteros son $\ldots, -3, -2, -1, 0, 1, \ldots$. -->
 - [x] C) Número decimal racional negativo
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. $-3.5$ es negativo, tiene parte decimal finita y por eso es racional: exactamente $\frac{-7}{2}$. -->
 - [ ] D) Número irracional negativo
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Un decimal finito siempre es racional: $-3.5 = -7/2$. Los irracionales negativos, como $-\sqrt{2}$, tienen decimales infinitos. -->
 
 ### Explicacion Pedagogica
 $-3.5$ puede expresarse como la fracción $-7/2$, por lo tanto, es un número racional decimal. No es entero porque tiene parte decimal no nula.
@@ -175,13 +175,13 @@ Un termómetro ambiental en la ciudad de Cuenca registra una temperatura de $-3.
 
 ### Opciones
 - [x] A) Número decimal racional negativo
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. $-3.5$ es negativo, tiene parte decimal finita y por eso es racional: exactamente $\frac{-7}{2}$. -->
 - [ ] B) Número entero negativo
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: $-3.5$ no es entero porque tiene parte decimal .5; los enteros son $\ldots, -3, -2, -1, 0, 1, \ldots$. -->
 - [ ] C) Número irracional negativo
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Un decimal finito siempre es racional: $-3.5 = -7/2$. Los irracionales negativos, como $-\sqrt{2}$, tienen decimales infinitos. -->
 - [ ] D) Número natural negativo
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: En $\mathbb{N}$ no existen los números negativos, y menos aún con parte decimal como $-3.5$. -->
 
 ### Explicacion Pedagogica
 $-3.5$ puede expresarse como la fracción $-7/2$, por lo tanto, es un número racional decimal. No es entero porque tiene parte decimal no nula.
@@ -199,13 +199,13 @@ Un termómetro ambiental en la ciudad de Cuenca registra una temperatura de $-3.
 
 ### Opciones
 - [x] A) Número decimal racional negativo
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. $-3.5$ es negativo, tiene parte decimal finita y por eso es racional: exactamente $\frac{-7}{2}$. -->
 - [ ] B) Número irracional negativo
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Un decimal finito siempre es racional: $-3.5 = -7/2$. Los irracionales negativos, como $-\sqrt{2}$, tienen decimales infinitos. -->
 - [ ] C) Número entero negativo
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: $-3.5$ no es entero porque tiene parte decimal .5; los enteros son $\ldots, -3, -2, -1, 0, 1, \ldots$. -->
 - [ ] D) Número natural negativo
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: En $\mathbb{N}$ no existen los números negativos, y menos aún con parte decimal como $-3.5$. -->
 
 ### Explicacion Pedagogica
 $-3.5$ puede expresarse como la fracción $-7/2$, por lo tanto, es un número racional decimal. No es entero porque tiene parte decimal no nula.
@@ -223,13 +223,13 @@ Un termómetro ambiental en la ciudad de Cuenca registra una temperatura de $-3.
 
 ### Opciones
 - [ ] A) Número entero negativo
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: $-3.5$ no es entero porque tiene parte decimal .5; los enteros son $\ldots, -3, -2, -1, 0, 1, \ldots$. -->
 - [ ] B) Número natural negativo
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: En $\mathbb{N}$ no existen los números negativos, y menos aún con parte decimal como $-3.5$. -->
 - [ ] C) Número irracional negativo
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Un decimal finito siempre es racional: $-3.5 = -7/2$. Los irracionales negativos, como $-\sqrt{2}$, tienen decimales infinitos. -->
 - [x] D) Número decimal racional negativo
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. $-3.5$ es negativo, tiene parte decimal finita y por eso es racional: exactamente $\frac{-7}{2}$. -->
 
 ### Explicacion Pedagogica
 $-3.5$ puede expresarse como la fracción $-7/2$, por lo tanto, es un número racional decimal. No es entero porque tiene parte decimal no nula.
@@ -247,13 +247,13 @@ Un termómetro ambiental en la ciudad de Cuenca registra una temperatura de $-3.
 
 ### Opciones
 - [ ] A) Número natural negativo
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: En $\mathbb{N}$ no existen los números negativos, y menos aún con parte decimal como $-3.5$. -->
 - [ ] B) Número entero negativo
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: $-3.5$ no es entero porque tiene parte decimal .5; los enteros son $\ldots, -3, -2, -1, 0, 1, \ldots$. -->
 - [ ] C) Número irracional negativo
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Un decimal finito siempre es racional: $-3.5 = -7/2$. Los irracionales negativos, como $-\sqrt{2}$, tienen decimales infinitos. -->
 - [x] D) Número decimal racional negativo
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. $-3.5$ es negativo, tiene parte decimal finita y por eso es racional: exactamente $\frac{-7}{2}$. -->
 
 ### Explicacion Pedagogica
 $-3.5$ puede expresarse como la fracción $-7/2$, por lo tanto, es un número racional decimal. No es entero porque tiene parte decimal no nula.
@@ -271,13 +271,13 @@ Si representamos la población de Machala como $P$, el conjunto de todos los pre
 
 ### Opciones
 - [ ] A) Tanto $P$ como $M$ pertenecen únicamente al conjunto de los números complejos imaginarios.
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: $P$ y $M$ son cantidades reales positivas. Ningún número real pertenece al conjunto de los imaginarios puros, así que la afirmación es falsa. -->
 - [ ] B) La población $P$ pertenece a los números irracionales $\mathbb{I}$.
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: La población se cuenta en personas, y un número de personas siempre es un entero positivo; además todo entero positivo es racional, nunca irracional. -->
 - [ ] C) Los presupuestos en dólares $M$ solo pueden pertenecer a los números enteros negativos $\mathbb{Z}^-$.
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Un presupuesto mensual es una cantidad de dinero positiva: pertenece a $\mathbb{R}^+$, nunca a los enteros negativos. -->
 - [x] D) La población $P$ es un subconjunto de los números enteros positivos $\mathbb{Z}^+$, mientras que los presupuestos $M$ pertenecen a $\mathbb{R}^+$.
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. La población se cuenta en personas enteras, y cada presupuesto es una cantidad real positiva de dólares, por eso $P \subset \mathbb{Z}^+$ y $M \subset \mathbb{R}^+$. -->
 
 ### Explicacion Pedagogica
 La población se cuenta con números enteros positivos (naturales), mientras que los montos monetarios o presupuestos, al admitir centavos, se modelan con números reales positivos.
@@ -295,13 +295,13 @@ Si representamos la población de Machala como $P$, el conjunto de todos los pre
 
 ### Opciones
 - [x] A) La población $P$ es un subconjunto de los números enteros positivos $\mathbb{Z}^+$, mientras que los presupuestos $M$ pertenecen a $\mathbb{R}^+$.
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. La población se cuenta en personas enteras, y cada presupuesto es una cantidad real positiva de dólares, por eso $P \subset \mathbb{Z}^+$ y $M \subset \mathbb{R}^+$. -->
 - [ ] B) La población $P$ pertenece a los números irracionales $\mathbb{I}$.
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: La población se cuenta en personas, y un número de personas siempre es un entero positivo; además todo entero positivo es racional, nunca irracional. -->
 - [ ] C) Los presupuestos en dólares $M$ solo pueden pertenecer a los números enteros negativos $\mathbb{Z}^-$.
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Un presupuesto mensual es una cantidad de dinero positiva: pertenece a $\mathbb{R}^+$, nunca a los enteros negativos. -->
 - [ ] D) Tanto $P$ como $M$ pertenecen únicamente al conjunto de los números complejos imaginarios.
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: $P$ y $M$ son cantidades reales positivas. Ningún número real pertenece al conjunto de los imaginarios puros, así que la afirmación es falsa. -->
 
 ### Explicacion Pedagogica
 La población se cuenta con números enteros positivos (naturales), mientras que los montos monetarios o presupuestos, al admitir centavos, se modelan con números reales positivos.
@@ -319,13 +319,13 @@ Si representamos la población de Riobamba como $P$, el conjunto de todos los pr
 
 ### Opciones
 - [ ] A) Los presupuestos en dólares $M$ solo pueden pertenecer a los números enteros negativos $\mathbb{Z}^-$.
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Un presupuesto mensual es una cantidad de dinero positiva: pertenece a $\mathbb{R}^+$, nunca a los enteros negativos. -->
 - [x] B) La población $P$ es un subconjunto de los números enteros positivos $\mathbb{Z}^+$, mientras que los presupuestos $M$ pertenecen a $\mathbb{R}^+$.
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. La población se cuenta en personas enteras, y cada presupuesto es una cantidad real positiva de dólares, por eso $P \subset \mathbb{Z}^+$ y $M \subset \mathbb{R}^+$. -->
 - [ ] C) La población $P$ pertenece a los números irracionales $\mathbb{I}$.
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: La población se cuenta en personas, y un número de personas siempre es un entero positivo; además todo entero positivo es racional, nunca irracional. -->
 - [ ] D) Tanto $P$ como $M$ pertenecen únicamente al conjunto de los números complejos imaginarios.
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: $P$ y $M$ son cantidades reales positivas. Ningún número real pertenece al conjunto de los imaginarios puros, así que la afirmación es falsa. -->
 
 ### Explicacion Pedagogica
 La población se cuenta con números enteros positivos (naturales), mientras que los montos monetarios o presupuestos, al admitir centavos, se modelan con números reales positivos.
@@ -343,13 +343,13 @@ Si representamos la población de Manta como $P$, el conjunto de todos los presu
 
 ### Opciones
 - [x] A) La población $P$ es un subconjunto de los números enteros positivos $\mathbb{Z}^+$, mientras que los presupuestos $M$ pertenecen a $\mathbb{R}^+$.
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. La población se cuenta en personas enteras, y cada presupuesto es una cantidad real positiva de dólares, por eso $P \subset \mathbb{Z}^+$ y $M \subset \mathbb{R}^+$. -->
 - [ ] B) Tanto $P$ como $M$ pertenecen únicamente al conjunto de los números complejos imaginarios.
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: $P$ y $M$ son cantidades reales positivas. Ningún número real pertenece al conjunto de los imaginarios puros, así que la afirmación es falsa. -->
 - [ ] C) Los presupuestos en dólares $M$ solo pueden pertenecer a los números enteros negativos $\mathbb{Z}^-$.
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Un presupuesto mensual es una cantidad de dinero positiva: pertenece a $\mathbb{R}^+$, nunca a los enteros negativos. -->
 - [ ] D) La población $P$ pertenece a los números irracionales $\mathbb{I}$.
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: La población se cuenta en personas, y un número de personas siempre es un entero positivo; además todo entero positivo es racional, nunca irracional. -->
 
 ### Explicacion Pedagogica
 La población se cuenta con números enteros positivos (naturales), mientras que los montos monetarios o presupuestos, al admitir centavos, se modelan con números reales positivos.
@@ -367,13 +367,13 @@ Si representamos la población de Riobamba como $P$, el conjunto de todos los pr
 
 ### Opciones
 - [x] A) La población $P$ es un subconjunto de los números enteros positivos $\mathbb{Z}^+$, mientras que los presupuestos $M$ pertenecen a $\mathbb{R}^+$.
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. La población se cuenta en personas enteras, y cada presupuesto es una cantidad real positiva de dólares, por eso $P \subset \mathbb{Z}^+$ y $M \subset \mathbb{R}^+$. -->
 - [ ] B) La población $P$ pertenece a los números irracionales $\mathbb{I}$.
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: La población se cuenta en personas, y un número de personas siempre es un entero positivo; además todo entero positivo es racional, nunca irracional. -->
 - [ ] C) Tanto $P$ como $M$ pertenecen únicamente al conjunto de los números complejos imaginarios.
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: $P$ y $M$ son cantidades reales positivas. Ningún número real pertenece al conjunto de los imaginarios puros, así que la afirmación es falsa. -->
 - [ ] D) Los presupuestos en dólares $M$ solo pueden pertenecer a los números enteros negativos $\mathbb{Z}^-$.
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Un presupuesto mensual es una cantidad de dinero positiva: pertenece a $\mathbb{R}^+$, nunca a los enteros negativos. -->
 
 ### Explicacion Pedagogica
 La población se cuenta con números enteros positivos (naturales), mientras que los montos monetarios o presupuestos, al admitir centavos, se modelan con números reales positivos.
@@ -391,13 +391,13 @@ Si representamos la población de Machala como $P$, el conjunto de todos los pre
 
 ### Opciones
 - [ ] A) La población $P$ pertenece a los números irracionales $\mathbb{I}$.
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: La población se cuenta en personas, y un número de personas siempre es un entero positivo; además todo entero positivo es racional, nunca irracional. -->
 - [x] B) La población $P$ es un subconjunto de los números enteros positivos $\mathbb{Z}^+$, mientras que los presupuestos $M$ pertenecen a $\mathbb{R}^+$.
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. La población se cuenta en personas enteras, y cada presupuesto es una cantidad real positiva de dólares, por eso $P \subset \mathbb{Z}^+$ y $M \subset \mathbb{R}^+$. -->
 - [ ] C) Los presupuestos en dólares $M$ solo pueden pertenecer a los números enteros negativos $\mathbb{Z}^-$.
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Un presupuesto mensual es una cantidad de dinero positiva: pertenece a $\mathbb{R}^+$, nunca a los enteros negativos. -->
 - [ ] D) Tanto $P$ como $M$ pertenecen únicamente al conjunto de los números complejos imaginarios.
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: $P$ y $M$ son cantidades reales positivas. Ningún número real pertenece al conjunto de los imaginarios puros, así que la afirmación es falsa. -->
 
 ### Explicacion Pedagogica
 La población se cuenta con números enteros positivos (naturales), mientras que los montos monetarios o presupuestos, al admitir centavos, se modelan con números reales positivos.
@@ -415,13 +415,13 @@ Considere el conjunto de números definidos por la solución de la ecuación cua
 
 ### Opciones
 - [ ] A) Al conjunto de los números naturales ($\mathbb{N}$)
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: En $\mathbb{N}$ todos los elementos son positivos y su cuadrado nunca es $-4$; de hecho el enunciado pide ampliar los reales, y para eso están los complejos. -->
 - [ ] B) Al conjunto de los números racionales ($\mathbb{Q}$)
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Las racionales son reales, y $x^2 = -4$ no tiene ninguna solución real: el cuadrado de un número real nunca es negativo. La raíz es $2i$, no un racional. -->
 - [ ] C) Al conjunto de los números irracionales ($\mathbb{I}$)
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Un irracional es un número real que no puede escribirse como fracción; aquí la solución $2i$ es imaginaria pura, no real, así que no pertenece a $\mathbb{I}$. -->
 - [x] D) Al conjunto de los números complejos ($\mathbb{C}$)
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. $x^2 = -4$ no tiene soluciones reales, por eso $x = \pm\sqrt{-4} = \pm 2i$, que pertenece a los números complejos. -->
 
 ### Explicacion Pedagogica
 La ecuación $x^2 + 4 = 0$ tiene soluciones $x = \pm 2i$, que no pertenecen a los números reales $\mathbb{R}$, sino al conjunto de los números complejos $\mathbb{C}$.
@@ -439,13 +439,13 @@ Considere el conjunto de números definidos por la solución de la ecuación cua
 
 ### Opciones
 - [ ] A) Al conjunto de los números racionales ($\mathbb{Q}$)
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Las racionales son reales, y $x^2 = -4$ no tiene ninguna solución real: el cuadrado de un número real nunca es negativo. La raíz es $2i$, no un racional. -->
 - [ ] B) Al conjunto de los números irracionales ($\mathbb{I}$)
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Un irracional es un número real que no puede escribirse como fracción; aquí la solución $2i$ es imaginaria pura, no real, así que no pertenece a $\mathbb{I}$. -->
 - [x] C) Al conjunto de los números complejos ($\mathbb{C}$)
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. $x^2 = -4$ no tiene soluciones reales, por eso $x = \pm\sqrt{-4} = \pm 2i$, que pertenece a los números complejos. -->
 - [ ] D) Al conjunto de los números naturales ($\mathbb{N}$)
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: En $\mathbb{N}$ todos los elementos son positivos y su cuadrado nunca es $-4$; de hecho el enunciado pide ampliar los reales, y para eso están los complejos. -->
 
 ### Explicacion Pedagogica
 La ecuación $x^2 + 4 = 0$ tiene soluciones $x = \pm 2i$, que no pertenecen a los números reales $\mathbb{R}$, sino al conjunto de los números complejos $\mathbb{C}$.
@@ -463,13 +463,13 @@ Considere el conjunto de números definidos por la solución de la ecuación cua
 
 ### Opciones
 - [ ] A) Al conjunto de los números racionales ($\mathbb{Q}$)
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Las racionales son reales, y $x^2 = -4$ no tiene ninguna solución real: el cuadrado de un número real nunca es negativo. La raíz es $2i$, no un racional. -->
 - [ ] B) Al conjunto de los números irracionales ($\mathbb{I}$)
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Un irracional es un número real que no puede escribirse como fracción; aquí la solución $2i$ es imaginaria pura, no real, así que no pertenece a $\mathbb{I}$. -->
 - [x] C) Al conjunto de los números complejos ($\mathbb{C}$)
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. $x^2 = -4$ no tiene soluciones reales, por eso $x = \pm\sqrt{-4} = \pm 2i$, que pertenece a los números complejos. -->
 - [ ] D) Al conjunto de los números naturales ($\mathbb{N}$)
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: En $\mathbb{N}$ todos los elementos son positivos y su cuadrado nunca es $-4$; de hecho el enunciado pide ampliar los reales, y para eso están los complejos. -->
 
 ### Explicacion Pedagogica
 La ecuación $x^2 + 4 = 0$ tiene soluciones $x = \pm 2i$, que no pertenecen a los números reales $\mathbb{R}$, sino al conjunto de los números complejos $\mathbb{C}$.
@@ -487,13 +487,13 @@ Considere el conjunto de números definidos por la solución de la ecuación cua
 
 ### Opciones
 - [ ] A) Al conjunto de los números irracionales ($\mathbb{I}$)
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Un irracional es un número real que no puede escribirse como fracción; aquí la solución $2i$ es imaginaria pura, no real, así que no pertenece a $\mathbb{I}$. -->
 - [ ] B) Al conjunto de los números naturales ($\mathbb{N}$)
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: En $\mathbb{N}$ todos los elementos son positivos y su cuadrado nunca es $-4$; de hecho el enunciado pide ampliar los reales, y para eso están los complejos. -->
 - [ ] C) Al conjunto de los números racionales ($\mathbb{Q}$)
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Las racionales son reales, y $x^2 = -4$ no tiene ninguna solución real: el cuadrado de un número real nunca es negativo. La raíz es $2i$, no un racional. -->
 - [x] D) Al conjunto de los números complejos ($\mathbb{C}$)
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. $x^2 = -4$ no tiene soluciones reales, por eso $x = \pm\sqrt{-4} = \pm 2i$, que pertenece a los números complejos. -->
 
 ### Explicacion Pedagogica
 La ecuación $x^2 + 4 = 0$ tiene soluciones $x = \pm 2i$, que no pertenecen a los números reales $\mathbb{R}$, sino al conjunto de los números complejos $\mathbb{C}$.
