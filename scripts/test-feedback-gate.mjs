@@ -162,10 +162,10 @@ creador: "Jules-Agent"
 Enunciado de prueba.
 
 ### Opciones
-${opt('A', c.correct, c.fb)}
-${opt('B', !c.correct, c.correct ? FILLER.B : FILLER.A)}
-${opt('C', false, FILLER.C)}
-${opt('D', false, FILLER.D)}
+${opt('A', c.correct, c.feedbacks ? c.feedbacks.A : c.fb)}
+${opt('B', !c.correct, c.feedbacks ? c.feedbacks.B : (c.correct ? FILLER.B : FILLER.A))}
+${opt('C', false, c.feedbacks ? c.feedbacks.C : FILLER.C)}
+${opt('D', false, c.feedbacks ? c.feedbacks.D : FILLER.D)}
 
 ### Explicacion Pedagogica
 La potenciacion eleva una base a un exponente natural, y el resultado indica
@@ -206,5 +206,69 @@ try {
   fs.rmSync(FILE, { force: true });
 }
 
+// ---------------------------------------------------------------------------
+// Duplicate-feedback rule: two wrong options that share a feedback string teach
+// the student one thing about two options. CO-ING-4 W04 shipped "Blue is not a
+// color of apples" on the option Purple, so the letter was explained and the
+// content was not. feedbackProblem cannot see this: each string is a perfectly
+// good explanation on its own. It takes two options to see the defect.
+// ---------------------------------------------------------------------------
+const dupCases = [
+  {
+    name: 'two wrong options sharing one feedback is rejected',
+    expect: 'reject',
+    correct: true,
+    feedbacks: { A: FILLER.A, B: FILLER.B, C: FILLER.B, D: FILLER.D },
+  },
+  {
+    // Only capitalisation differs. A different capitalisation is not a different
+    // explanation, so it must still be one shared string.
+    name: 'sharing is case-insensitive, only capitalisation differs',
+    expect: 'reject',
+    correct: true,
+    feedbacks: { A: FILLER.A, B: FILLER.D, C: FILLER.D.toUpperCase(), D: FILLER.C },
+  },
+  {
+    name: 'three wrong options sharing one feedback is rejected',
+    expect: 'reject',
+    correct: true,
+    feedbacks: { A: FILLER.A, B: FILLER.B, C: FILLER.B, D: FILLER.B },
+  },
+  {
+    name: 'all four wrong feedbacks distinct is accepted',
+    expect: 'accept',
+    correct: true,
+    feedbacks: { A: FILLER.A, B: FILLER.B, C: FILLER.C, D: FILLER.D },
+  },
+  {
+    name: 'a wrong option repeating the CORRECT one is accepted',
+    // The student may legitimately be told that a distractor matches the right
+    // answer. Only two wrong ones sharing a string leaves an option unexplained.
+    expect: 'accept',
+    correct: true,
+    feedbacks: { A: FILLER.A, B: FILLER.A, C: FILLER.C, D: FILLER.D },
+  },
+];
+
+for (const c of dupCases) {
+  fs.writeFileSync(FILE, build(c), 'utf8');
+  let verdict = 'accept';
+  let msg = '';
+  try {
+    execFileSync('node', [VALIDATOR, FILE], { cwd: REPO, stdio: 'pipe' });
+  } catch (e) {
+    verdict = 'reject';
+    msg = String(e.stderr || '');
+  }
+  const hit = /share the same feedback/i.test(msg);
+  const ok = verdict === c.expect && (c.expect === 'accept' || hit);
+  console.log(`${ok ? 'PASS' : 'FAIL'}  ${c.name.padEnd(52)} validator=${verdict} (want ${c.expect})`);
+  if (ok) pass += 1;
+  else {
+    fail += 1;
+    console.log(`      duplicate-feedback error: ${hit}`);
+    console.log(`      msg: ${msg.slice(0, 400).replace(/\n/g, ' | ')}`);
+  }
+}
 console.log(`\n${pass} passed, ${fail} failed`);
 process.exit(fail ? 1 : 0);
